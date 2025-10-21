@@ -21,6 +21,10 @@
       "browserRequirements": "Requires HTML5 support"
     }
     </script>
+    
+    <!-- Google AdSense 廣告程式碼 -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8149364037190716"
+     crossorigin="anonymous"></script>
 
     <style>
         :root {
@@ -256,6 +260,17 @@
             border-top: 1px solid var(--border-color);
             width: 100%;
         }
+        .footer-links {
+            margin-bottom: 10px;
+        }
+        .footer-links a {
+            color: var(--secondary-text-color);
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        .footer-links a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -293,6 +308,10 @@
     </div>
 
     <footer>
+        <div class="footer-links">
+            <a href="./about.html">關於我們 (About)</a>
+            <a href="./privacy-policy.html">隱私權政策 (Privacy)</a>
+        </div>
         資料僅供參考，實際保存狀況可能因環境與食材本身而異。<br>
         (Information is for reference only. Actual storage life may vary.)
     </footer>
@@ -378,7 +397,7 @@
             { id: 104, name_zh: '百香果', name_en: 'Passion Fruit', category_zh: '水果', category_en: 'Fruit', aka: [], fridge: { duration_zh: '1 週', duration_en: '1 week', tips_zh: '冷藏可減緩水分流失。', tips_en: 'Refrigeration slows moisture loss.'}, freezer: { duration_zh: '約 1 年 (果肉)', duration_en: 'Approx. 1 year (pulp)', tips_zh: '將果肉挖出後冷凍。', tips_en: 'Scoop out the pulp and freeze.'}, pantry: { duration_zh: '3-5 天', duration_en: '3-5 days', tips_en: '置於室溫。', tips_en: 'Keep at room temperature.'} },
             { id: 105, name_zh: '梨', name_en: 'Pear', category_zh: '水果', category_en: 'Fruit', aka: [], fridge: { duration_zh: '3-5 天 (已熟)', duration_en: '3-5 days (ripe)', tips_zh: '已熟的梨可冷藏。', tips_en: 'Store ripe pears in the fridge.'}, pantry: { duration_zh: '成熟前數天', duration_en: 'A few days until ripe', tips_zh: '在室溫下熟成。', tips_en: 'Ripen at room temperature.'} },
             { id: 106, name_zh: '柿子', name_en: 'Persimmon', category_zh: '水果', category_en: 'Fruit', aka: [], fridge: { duration_zh: '2-3 天 (已熟)', duration_en: '2-3 days (ripe)', tips_zh: '已熟的柿子需冷藏。', tips_en: 'Store ripe persimmons in the fridge.'}, pantry: { duration_zh: '成熟前數天', duration_en: 'A few days until ripe', tips_zh: '在室溫下熟成。', tips_en: 'Ripen at room temperature.'} },
-            { id: 107, name_zh: '石榴', name_en: 'Pomegranate', category_zh: '水果', category_en: 'Fruit', aka: [], fridge: { duration_zh: '1 個月 (未開)', duration_en: '1 month (whole)', tips_zh: '冷藏可延長保存期。', tips_en: 'Refrigeration extends shelf life.'}, freezer: { duration_zh: '約 1 年 (果粒)', duration_en: 'Approx. 1 year (seeds)', tips_zh: '將果粒取出後冷凍。', tips_en: 'Freeze the seeds (arils).'}, pantry: { duration_zh: '1-2 週 (未開)', duration_en: '1-2 weeks (whole)', tips_en: '存放在陰涼乾燥處。', tips_en: 'Store in a cool, dry place.'} },
+            { id: 107, name_zh: '石榴', name_en: 'Pomegranate', category_zh: '水果', category_en: 'Fruit', aka: [], fridge: { duration_zh: '1 個月 (未開)', duration_en: '1 month (whole)', tips_zh: '冷藏可延長保存期。', tips_en: 'Refrigeration extends shelf life.'}, freezer: { duration_zh: '約 1 年 (果粒)', duration_en: 'Approx. 1 year (seeds)', tips_zh: '將果粒取出後冷凍。', tips_en: 'Freeze the seeds (arils).'}, pantry: { duration_zh: '1-2 週 (未開)', duration_en: '1-2 weeks (whole)', tips_zh: '存放在陰涼乾燥處。', tips_en: 'Store in a cool, dry place.'} },
             { id: 108, name_zh: '西瓜', name_en: 'Watermelon', category_zh: '水果', category_en: 'Fruit', aka: [], fridge: { duration_zh: '3-5 天 (切開後)', duration_en: '3-5 days (cut)', tips_zh: '切開後需用保鮮膜覆蓋並冷藏。', tips_en: 'Cover with plastic wrap and refrigerate after cutting.'}, pantry: { duration_zh: '1-2 週 (未切)', duration_en: '1-2 weeks (whole)', tips_zh: '存放在陰涼處。', tips_en: 'Store in a cool place.'} },
 
             // 蛋奶製品與其他 (Dairy & Others)
