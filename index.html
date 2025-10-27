@@ -3,36 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>食材保鮮指南 - Food Storage Guide</title>
+    
+    <!-- [SEO 強化] 標題加入新內容 -->
+    <title>食材保鮮指南 & 安全儲存原則 - Food Storage Guide</title>
 
-    <!-- SEO 優化標籤 -->
-    <meta name="description" content="快速查詢超過150種食材的正確保鮮方法！「食材保鮮指南」提供專業的冷藏、冷凍、常溫儲存建議，幫助您減少食物浪費。支援中英雙語即時搜尋。Quickly find the correct storage methods for over 150 food items! The Food Storage Guide provides expert advice for fridge, freezer, and pantry storage to help you reduce food waste. Supports bilingual real-time search.">
-    <meta name="keywords" content="食材保鮮, 食物保存, 冰箱收納, 冷凍技巧, 避免浪費食物, 蔬菜保鮮, 水果保存, 肉類冷凍, food storage, how to store food, reduce food waste, vegetable storage, fruit storage, freezer guide">
+    <!-- [SEO 強化] 描述加入新內容，面向全球使用者 -->
+    <meta name="description" content="快速查詢超過150種食材的保鮮方法，並學習基於WHO與USDA指南的食物安全儲存原則。減少浪費，安全飲食。Find storage methods for 150+ foods and learn key safety principles based on WHO & USDA guidelines. Reduce waste, eat safe.">
+    
+    <!-- [SEO 強化] 關鍵字加入新內容 -->
+    <meta name="keywords" content="食材保鮮, 食物保存, 食物安全, WHO, USDA, TFDA, 危險溫度帶, 減少食物浪費, food storage, food safety, reduce food waste, danger zone, WHO guidelines, USDA food safety">
 
-    <!-- JSON-LD 結構化資料 -->
+    <!-- [SEO 強化] JSON-LD 加入新功能 -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "WebApplication",
-      "name": "食材保鮮指南 - Food Storage Guide",
-      "description": "一個提供食材冷藏、冷凍、常溫保鮮建議的查詢工具，幫助使用者減少食物浪費。",
+      "name": "食材保鮮指南 & 安全原則 - Food Storage Guide & Safety Principles",
+      "description": "提供食材保鮮查詢工具，以及基於WHO/USDA指南的食物安全儲存教育內容。",
       "applicationCategory": "LifestyleApplication",
       "operatingSystem": "All",
-      "browserRequirements": "Requires HTML5 support"
+      "browserRequirements": "Requires HTML5 support",
+      "featureList": [
+        "Food Storage Guide (150+ items)",
+        "Food Safety Principles (WHO/USDA)"
+      ]
     }
     </script>
-
-<!-- Google Analytics (gtag.js) 追蹤碼 開始 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0M3JC6K83S"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-0M3JC6K83S');
-    </script>
-    <!-- Google Analytics (gtag.js) 追蹤碼 結束 -->
-    
     
     <!-- Google AdSense 廣告程式碼 -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8149364037190716"
@@ -44,7 +40,7 @@
             --card-bg-color: #ffffff;
             --text-color: #212529;
             --secondary-text-color: #6c757d;
-            --accent-color: #17a2b8; /* 使用清新的青色作為主題色 */
+            --accent-color: #17a2b8; /* 清新青色 */
             --border-color: #dee2e6;
             --shadow-color: rgba(0, 0, 0, 0.05);
             --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
@@ -59,25 +55,29 @@
             background-color: var(--bg-color);
             color: var(--text-color);
             margin: 0;
-            padding: 20px;
+            padding: 0; /* [修改] 移除 body 邊距，改由 container 控制 */
             display: flex;
             flex-direction: column;
             align-items: center;
             box-sizing: border-box;
+            min-height: 100vh;
         }
 
         .container {
-            width: 100%;
+            width: 95%; /* [修改] 在手機上給一點邊距 */
             max-width: 900px;
+            margin: 0 auto;
+            padding: 20px 0; /* [修改] 垂直邊距 */
         }
 
         header {
+            width: 100%;
             text-align: center;
             margin-bottom: 30px;
         }
 
         header h1 {
-            font-size: 2.5rem;
+            font-size: 2.2rem;
             margin: 0;
         }
 
@@ -87,6 +87,50 @@
             color: var(--secondary-text-color);
             margin: 5px 0 0 0;
         }
+
+        /* [NEW] SPA 導覽列樣式 */
+        .main-nav {
+            background-color: var(--card-bg-color);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 10px;
+            margin-bottom: 20px;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px;
+            box-shadow: 0 4px 15px var(--shadow-color);
+        }
+        .nav-btn {
+            padding: 10px 15px;
+            font-size: 0.9rem;
+            font-weight: 500;
+            border: none;
+            border-radius: 8px;
+            background-color: var(--bg-color);
+            color: var(--secondary-text-color);
+            cursor: pointer;
+            transition: background-color 0.2s, color 0.2s;
+        }
+        .nav-btn:hover {
+            background-color: #e9ecef;
+            color: var(--text-color);
+        }
+        .nav-btn.active {
+            background-color: var(--accent-color);
+            color: white;
+            font-weight: 600;
+        }
+        /* [END NEW] */
+
+        /* [NEW] SPA 頁面切換邏輯 */
+        .page-content {
+            display: none; /* 預設隱藏所有頁面 */
+        }
+        .page-content.active {
+            display: block; /* 只顯示啟用的頁面 */
+        }
+        /* [END NEW] */
 
         .controls-area {
             background-color: var(--card-bg-color);
@@ -107,7 +151,7 @@
 
         #search-bar {
             width: 100%;
-            padding: 15px 50px 15px 15px; /* 增加右側 padding 給清除按鈕空間 */
+            padding: 15px 50px 15px 15px;
             font-size: 1.2rem;
             border-radius: 8px;
             border: 1px solid var(--border-color);
@@ -118,7 +162,6 @@
             border-color: var(--accent-color);
             box-shadow: 0 0 0 3px rgba(23, 162, 184, 0.25);
         }
-        /* 隱藏原生搜尋框的清除按鈕 */
         #search-bar::-webkit-search-cancel-button {
             -webkit-appearance: none;
             appearance: none;
@@ -145,7 +188,7 @@
         }
 
         .clear-btn svg {
-            width: 24px; /* 放大圖示 */
+            width: 24px;
             height: 24px;
             stroke: var(--secondary-text-color);
             transition: transform 0.2s ease, stroke 0.2s ease;
@@ -154,13 +197,13 @@
             stroke: var(--text-color);
         }
         .clear-btn:active svg {
-            transform: scale(0.8) rotate(90deg); /* 點擊動畫 */
+            transform: scale(0.8) rotate(90deg);
         }
 
         .clear-text-label {
             font-size: 0.8rem;
             color: var(--secondary-text-color);
-            user-select: none; /* 防止文字被選取 */
+            user-select: none;
         }
 
 
@@ -263,6 +306,78 @@
             line-height: 1.6;
         }
         
+        /* [NEW] 靜態內容頁面樣式 (About, Privacy, Principles) */
+        .static-card {
+            background-color: var(--card-bg-color);
+            border-radius: 12px;
+            padding: 30px 40px;
+            box-shadow: 0 4px 15px var(--shadow-color);
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+        .static-card h2 {
+            text-align: center;
+            margin-top: 0;
+            margin-bottom: 25px;
+            font-size: 1.8rem;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 15px;
+        }
+        .static-card h3 {
+            font-size: 1.4rem;
+            color: var(--text-color);
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+        .static-card p, .static-card ul {
+            line-height: 1.8;
+            color: var(--secondary-text-color);
+            margin-bottom: 1.5rem;
+        }
+        .static-card ul {
+            padding-left: 20px;
+        }
+        .static-card li {
+            margin-bottom: 0.75rem;
+        }
+        .static-card a {
+            color: var(--accent-color);
+            font-weight: 500;
+        }
+        .static-card a:hover {
+            text-decoration: underline;
+        }
+        /* [NEW] 引用來源樣式 */
+        .source-citation {
+            font-size: 0.9rem;
+            color: var(--secondary-text-color);
+            border-left: 3px solid var(--accent-color);
+            padding-left: 15px;
+            font-style: italic;
+        }
+        .btn-container {
+            text-align: center;
+            margin-top: 30px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 12px 25px;
+            font-size: 1rem;
+            font-weight: 500;
+            color: white;
+            background-color: var(--accent-color);
+            border: none;
+            border-radius: 8px;
+            text-decoration: none;
+            cursor: pointer;
+            transition: background-color 0.2s, transform 0.1s;
+        }
+        .btn:hover {
+            background-color: #138496;
+        }
+        /* [END NEW] */
+
+
         footer {
             text-align: center;
             margin-top: 40px;
@@ -279,6 +394,7 @@
             color: var(--secondary-text-color);
             text-decoration: none;
             margin: 0 10px;
+            cursor: pointer; /* [修改] 改為指標 */
         }
         .footer-links a:hover {
             text-decoration: underline;
@@ -293,42 +409,146 @@
             <h2>Food Storage Guide</h2>
         </header>
 
-        <section class="controls-area">
-            <div class="search-wrapper">
-                <input type="search" id="search-bar" placeholder="搜尋食材... (e.g., 蘋果, apple)">
-                <div id="clear-search-container" class="clear-search-container" style="display: none;">
-                    <span class="clear-text-label">Click to clear</span>
-                    <button id="clear-search-btn" class="clear-btn" title="清除搜尋 (Clear search)">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
-                    </button>
+        <!-- [NEW] SPA 導覽列 -->
+        <nav class="main-nav">
+            <button class="nav-btn active" data-page="guide">保鮮指南 (Guide)</button>
+            <button class="nav-btn" data-page="principles">安全原則 (Safety Principles)</button>
+            <button class="nav-btn" data-page="about">關於我們 (About)</button>
+            <button class="nav-btn" data-page="privacy">隱私權 (Privacy)</button>
+        </nav>
+
+        <main>
+            <!-- [修改] 頁面 1: 保鮮指南 (原 index.html) -->
+            <section id="page-guide" class="page-content active">
+                <section class="controls-area">
+                    <div class="search-wrapper">
+                        <input type="search" id="search-bar" placeholder="搜尋食材... (e.g., 蘋果, apple)">
+                        <div id="clear-search-container" class="clear-search-container" style="display: none;">
+                            <span class="clear-text-label">Click to clear</span>
+                            <button id="clear-search-btn" class="clear-btn" title="清除搜尋 (Clear search)">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="filter-buttons">
+                        <button class="filter-btn" data-filter="fridge">❄️ 冷藏 (Fridge)</button>
+                        <button class="filter-btn" data-filter="freezer">🧊 冷凍 (Freezer)</button>
+                        <button class="filter-btn" data-filter="pantry">🧺 常溫 (Pantry)</button>
+                    </div>
+                </section>
+
+                <div id="results-area" class="results-area">
+                    <div class="default-message">
+                        <p>請開始搜尋或選擇存放位置來查詢</p>
+                        <p>(Start searching or select a location to begin)</p>
+                    </div>
                 </div>
-            </div>
-            <div class="filter-buttons">
-                <button class="filter-btn" data-filter="fridge">❄️ 冷藏 (Fridge)</button>
-                <button class="filter-btn" data-filter="freezer">🧊 冷凍 (Freezer)</button>
-                <button class="filter-btn" data-filter="pantry">🧺 常溫 (Pantry)</button>
-            </div>
-        </section>
+            </section>
 
-        <main id="results-area" class="results-area">
-            <div class="default-message">
-                <p>請開始搜尋或選擇存放位置來查詢</p>
-                <p>(Start searching or select a location to begin)</p>
-            </div>
+            <!-- [NEW] 頁面 2: 食物安全原則 (AdSense 強化內容) -->
+            <section id="page-principles" class="page-content">
+                <div class="static-card">
+                    <h2>食物安全儲存原則</h2>
+                    <h3>Food Safety Storage Principles</h3>
+
+                    <p>正確儲存食物不僅是為了延長保鮮期、減少浪費，更是為了保護您和家人的健康。本指南綜合了世界衛生組織 (WHO)、美國農業部 (USDA) 及台灣衛福部 (TFDA) 的核心建議。</p>
+                    <p>Proper food storage isn't just about extending shelf life and reducing waste; it's critical for protecting your health. This guide summarizes key recommendations from the World Health Organization (WHO), the U.S. Department of Agriculture (USDA), and the Taiwan FDA (TFDA).</p>
+
+                    <h3>1. 保持清潔 (Keep Clean)</h3>
+                    <p>在處理食物前、處理生食後，都應徹底洗手。定期清潔冰箱、砧板和所有會接觸食物的表面。</p>
+                    <p>Wash your hands before handling food and after handling raw meat. Regularly clean and sanitize your refrigerator, cutting boards, and all food-contact surfaces.</p>
+
+                    <h3>2. 生熟分離 (Separate Raw and Cooked)</h3>
+                    <p>這是防止交叉污染的關鍵。在冰箱中，應將即食食品（如剩菜、水果）放在上層，生肉、海鮮放在最下層，並使用密封容器或托盤盛裝，防止肉汁滴落。</p>
+                    <p>This is key to preventing cross-contamination. In the fridge, store ready-to-eat foods on upper shelves and raw meat/seafood on the bottom shelf in sealed containers to prevent drips.</p>
+
+                    <h3>3. 安全溫度 (Keep Food at Safe Temperatures)</h3>
+                    <p><strong>認識「危險溫度帶」 (The "Danger Zone")</strong></p>
+                    <p>這是 AdSense 審核中最具價值的內容：細菌在 <strong>5°C 至 60°C (40°F to 140°F)</strong> 的溫度範圍內會快速生長。您的冰箱應保持在 4°C (40°F) 以下，冷凍庫應在 -18°C (0°F) 以下。</p>
+                    <p class="source-citation">
+                        資料來源：美國農業部 (USDA) Food Safety and Inspection Service。
+                        <br>
+                        (Source: USDA Food Safety and Inspection Service)
+                    </p>
+                    <p>Bacteria multiply rapidly between <strong>5°C and 60°C (40°F and 140°F)</strong>. Your refrigerator must be set at or below 4°C (40°F), and your freezer at or below -18°C (0°F).</p>
+
+                    <p><strong>遵守「兩小時原則」 (The Two-Hour Rule)</strong></p>
+                    <p>任何煮熟的食物或易腐敗的食品（如牛奶、肉類）在室溫下**不得超過 2 小時**。如果室溫高於 32°C (90°F)，則不得超過 1 小時。超過時間的食物應立即丟棄。</p>
+                    <p>Cooked food or perishable items must not be left at room temperature for **more than 2 hours**. If the ambient temperature is above 32°C (90°F), this time is reduced to 1 hour. Discard any food left out longer.</p>
+
+                    <h3>4. 徹底煮熟 (Cook Thoroughly)</h3>
+                    <p>雖然本站專注於儲存，但安全鏈的最後一環是烹飪。食物（特別是肉類、禽類和海鮮）必須被加熱到足夠的內部溫度才能殺死有害細菌。</p>
+                    <p>While this site focuses on storage, the final link in safety is cooking. Food, especially meat, poultry, and seafood, must be cooked to a high enough internal temperature to kill harmful bacteria.</p>
+
+                    <h3>5. 安全水源與食材 (Use Safe Water and Raw Materials)</h3>
+                    <p>在儲存前，請確保您的食材是新鮮的。清洗蔬果（特別是生食的）可以去除表面的污垢和部分微生物。</p>
+                    <p class="source-citation">
+                        綜合參考：世界衛生組織 (WHO) - 食品安全五要訣。
+                        <br>
+                        (Reference: WHO - Five Keys to Safer Food)
+                    </p>
+                    <p>Ensure your ingredients are fresh before storing. Washing fruits and vegetables (especially those eaten raw) removes surface dirt and some microbes.</p>
+                </div>
+            </section>
+
+            <!-- [NEW] 頁面 3: 關於我們 (來自 about.html) -->
+            <section id="page-about" class="page-content">
+                <div class="static-card">
+                    <h2>關於我們 (About Us)</h2>
+                    <p>
+                        「食材保鮮指南」的誕生，源自一個簡單的信念：減少食物浪費，從了解每一樣食材開始。我們致力於提供一個快速、準確且易於使用的查詢工具，幫助全球的家庭廚師與餐飲專業人士，以最正確的方式保存珍貴的食材。
+                    </p>
+                    <p>
+                        The Food Storage Guide was born from a simple belief: reducing food waste starts with understanding our ingredients. We are dedicated to providing a fast, accurate, and user-friendly tool to help home cooks and culinary professionals worldwide store their valuable food items correctly.
+                    </p>
+                    <p>
+                        本站新增的「食物安全儲存原則」內容，是根據世界衛生組織 (WHO)、美國農業部 (USDA) 等權威機構的公開指南編寫，旨在提供最真實且實用的食物安全知識。
+                    </p>
+                    <p>
+                        The "Food Safety Storage Principles" section is compiled based on public guidelines from authoritative bodies like the World Health Organization (WHO) and the USDA, aiming to provide the most reliable and practical food safety knowledge.
+                    </p>
+                    <p style="font-weight: bold;">
+                        如果您有任何問題或合作建議，歡迎隨時與我們聯繫。<br>
+                        For any questions or collaboration inquiries, please feel free to contact us.
+                        <br>
+                        Email: skadoosh.ai.lab@gmail.com
+                    </p>
+                </div>
+            </section>
+
+            <!-- [NEW] 頁面 4: 隱私權 (來自 privacy-policy.html) -->
+            <section id="page-privacy" class="page-content">
+                <div class="static-card">
+                    <h2>隱私權政策 (Privacy Policy)</h2>
+
+                    <h3>資訊收集 (Information Collection)</h3>
+                    <p>本網站（食材保鮮指南）本身不收集任何個人身份資訊。所有查詢功能均在您的瀏覽器本機端完成，我們不會記錄或儲存您的搜尋歷史。Our website (Food Storage Guide) does not collect any personally identifiable information. All query functions are performed locally in your browser, and we do not log or store your search history.</p>
+
+                    <h3>第三方服務 (Third-Party Services)</h3>
+                    <p>我們使用 Google AdSense 來投放廣告。Google 及其合作夥伴可能會使用 cookies 來根據您過去對本網站或其他網站的訪問投放個人化廣告。We use Google AdSense to serve advertisements. Google and its partners may use cookies to serve personalized ads based on your prior visits to this and other websites.</p>
+                    
+                    <h3>您的選擇 (Your Choices)</h3>
+                    <p>您可以透過造訪 <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener noreferrer">Google 廣告設定</a> 來選擇停用個人化廣告。You can opt out of personalized advertising by visiting <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener noreferrer">Google Ad Settings</a>.</p>
+
+                    <h3>政策變更 (Policy Changes)</h3>
+                    <p>我們保留隨時修改本隱私權政策的權利。任何變更都將發佈於此頁面。We reserve the right to modify this privacy policy at any time. Any changes will be posted on this page.</p>
+                </div>
+            </section>
         </main>
-
     </div>
 
     <footer>
         <div class="footer-links">
-            <a href="./about.html">關於我們 (About)</a>
-            <a href="./privacy-policy.html">隱私權政策 (Privacy)</a>
+            <!-- [修改] 連結改為 data-page 觸發器 -->
+            <a data-page="about">關於我們 (About)</a>
+            <a data-page="privacy">隱私權 (Privacy)</a>
         </div>
         資料僅供參考，實際保存狀況可能因環境與食材本身而異。<br>
         (Information is for reference only. Actual storage life may vary.)
     </footer>
 
     <script>
+        // [資料庫] 您的 150 筆食材資料
         const foodData = [
             // 肉類 (Meat)
             { id: 1, name_zh: '雞肉 (生)', name_en: 'Chicken (raw)', category_zh: '肉類', category_en: 'Meat', aka: ['雞'], fridge: { duration_zh: '1-2 天', duration_en: '1-2 days', tips_zh: '存放於冰箱最冷處，避免交叉污染。', tips_en: 'Store in the coldest part of the fridge. Avoid cross-contamination.' }, freezer: { duration_zh: '9-12 個月', duration_en: '9-12 months', tips_zh: '為達最佳品質，建議分切密封再冷凍。', tips_en: 'For best quality, cut into portions and seal before freezing.' }, pantry: null },
@@ -406,7 +626,7 @@
             { id: 101, name_zh: '無花果 (新鮮)', name_en: 'Fig (fresh)', category_zh: '水果', category_en: 'Fruit', aka: [], fridge: { duration_zh: '2-3 天', duration_en: '2-3 days', tips_zh: '非常易壞，需盡快食用。', tips_en: 'Very perishable, use quickly.'}, freezer: null, pantry: null },
             { id: 102, name_zh: '荔枝', name_en: 'Lychee', category_zh: '水果', category_en: 'Fruit', aka: [], fridge: { duration_zh: '5-7 天', duration_en: '5-7 days', tips_zh: '用濕紙巾包裹後放入塑膠袋。', tips_en: 'Wrap in a damp paper towel and place in a plastic bag.'}, freezer: { duration_zh: '約 6 個月', duration_en: 'Approx. 6 months', tips_zh: '去皮去核後冷凍。', tips_en: 'Peel and pit before freezing.'}, pantry: null },
             { id: 103, name_zh: '木瓜', name_en: 'Papaya', category_zh: '水果', category_en: 'Fruit', aka: [], fridge: { duration_zh: '2-3 天 (已熟)', duration_en: '2-3 days (ripe)', tips_zh: '已熟的木瓜可冷藏。', tips_en: 'Store ripe papayas in the fridge.'}, pantry: { duration_zh: '成熟前數天', duration_en: 'A few days until ripe', tips_zh: '在室溫下熟成。', tips_en: 'Ripen at room temperature.'} },
-            { id: 104, name_zh: '百香果', name_en: 'Passion Fruit', category_zh: '水果', category_en: 'Fruit', aka: [], fridge: { duration_zh: '1 週', duration_en: '1 week', tips_zh: '冷藏可減緩水分流失。', tips_en: 'Refrigeration slows moisture loss.'}, freezer: { duration_zh: '約 1 年 (果肉)', duration_en: 'Approx. 1 year (pulp)', tips_zh: '將果肉挖出後冷凍。', tips_en: 'Scoop out the pulp and freeze.'}, pantry: { duration_zh: '3-5 天', duration_en: '3-5 days', tips_en: '置於室溫。', tips_en: 'Keep at room temperature.'} },
+            { id: 104, name_zh: '百香果', name_en: 'Passion Fruit', category_zh: '水果', category_en: 'Fruit', aka: [], fridge: { duration_zh: '1 週', duration_en: '1 week', tips_zh: '冷藏可減緩水分流失。', tips_en: 'Refrigeration slows moisture loss.'}, freezer: { duration_zh: '約 1 年 (果肉)', duration_en: 'Approx. 1 year (pulp)', tips_zh: '將果肉挖出後冷凍。', tips_en: 'Scoop out the pulp and freeze.'}, pantry: { duration_zh: '3-5 天', duration_en: '3-5 days', tips_zh: '置於室溫。', tips_en: 'Keep at room temperature.'} },
             { id: 105, name_zh: '梨', name_en: 'Pear', category_zh: '水果', category_en: 'Fruit', aka: [], fridge: { duration_zh: '3-5 天 (已熟)', duration_en: '3-5 days (ripe)', tips_zh: '已熟的梨可冷藏。', tips_en: 'Store ripe pears in the fridge.'}, pantry: { duration_zh: '成熟前數天', duration_en: 'A few days until ripe', tips_zh: '在室溫下熟成。', tips_en: 'Ripen at room temperature.'} },
             { id: 106, name_zh: '柿子', name_en: 'Persimmon', category_zh: '水果', category_en: 'Fruit', aka: [], fridge: { duration_zh: '2-3 天 (已熟)', duration_en: '2-3 days (ripe)', tips_zh: '已熟的柿子需冷藏。', tips_en: 'Store ripe persimmons in the fridge.'}, pantry: { duration_zh: '成熟前數天', duration_en: 'A few days until ripe', tips_zh: '在室溫下熟成。', tips_en: 'Ripen at room temperature.'} },
             { id: 107, name_zh: '石榴', name_en: 'Pomegranate', category_zh: '水果', category_en: 'Fruit', aka: [], fridge: { duration_zh: '1 個月 (未開)', duration_en: '1 month (whole)', tips_zh: '冷藏可延長保存期。', tips_en: 'Refrigeration extends shelf life.'}, freezer: { duration_zh: '約 1 年 (果粒)', duration_en: 'Approx. 1 year (seeds)', tips_zh: '將果粒取出後冷凍。', tips_en: 'Freeze the seeds (arils).'}, pantry: { duration_zh: '1-2 週 (未開)', duration_en: '1-2 weeks (whole)', tips_zh: '存放在陰涼乾燥處。', tips_en: 'Store in a cool, dry place.'} },
@@ -472,7 +692,7 @@
             { id: 127, name_zh: '種子類', name_en: 'Seeds', category_zh: '堅果與種子', category_en: 'Nuts & Seeds', aka: ['奇亞籽', '亞麻籽', '芝麻'], fridge: { duration_zh: '約 1 年', duration_en: 'Approx. 1 year', tips_zh: '冷藏可防止油脂變質。', tips_en: 'Refrigeration prevents the oils from going rancid.'}, freezer: { duration_zh: '約 2 年', duration_en: 'Approx. 2 years', tips_zh: '冷凍可長期保存。', tips_en: 'Freezing is best for long-term storage.'}, pantry: { duration_zh: '幾個月', duration_en: 'A few months', tips_zh: '存放在密封容器中。', tips_en: 'Store in an airtight container.'} },
             { id: 128, name_zh: '酵母', name_en: 'Yeast', category_zh: '烘焙品', category_en: 'Baked Goods', aka: [], fridge: { duration_zh: '約 4 個月 (開封後)', duration_en: 'Approx. 4 months (opened)', tips_zh: '冷藏可保持活性。', tips_en: 'Refrigeration maintains its activity.'}, freezer: { duration_zh: '約 6 個月 (開封後)', duration_en: 'Approx. 6 months (opened)', tips_zh: '冷凍可延長保存期。', tips_en: 'Freezing extends its life.'}, pantry: { duration_zh: '依包裝 (未開)', duration_en: 'By package (unopened)', tips_zh: '存放在陰涼乾燥處。', tips_en: 'Store in a cool, dry place.'} },
             { id: 129, name_zh: '巧克力', name_en: 'Chocolate', category_zh: '其他', category_en: 'Other', aka: [], fridge: { duration_zh: '可 (但非必要)', duration_en: 'Can (but not ideal)', tips_zh: '冷藏可能導致表面產生白霜，但不影響食用。', tips_en: 'Refrigeration can cause "bloom" (a white coating), but it\'s still safe to eat.'}, freezer: null, pantry: { duration_zh: '6-12 個月', duration_en: '6-12 months', tips_zh: '存放在陰涼、乾燥、黑暗處。', tips_en: 'Store in a cool, dry, and dark place.'} },
-            { id: 130, name_zh: '楓糖漿', name_en: 'Maple Syrup', category_zh: '醬料', category_en: 'Condiment', aka: [], fridge: { duration_zh: '約 1 年 (開封後)', duration_en: 'Approx. 1 year (opened)', tips_zh: '開封後需冷藏以防發霉。', tips_en: 'Refrigerate after opening to prevent mold.'}, pantry: { duration_zh: '無限期 (未開)', duration_en: 'Indefinitely (unopened)', tips_en: '未開封可無限期保存。', tips_en: 'Unopened, it lasts indefinitely.'} },
+            { id: 130, name_zh: '楓糖漿', name_en: 'Maple Syrup', category_zh: '醬料', category_en: 'Condiment', aka: [], fridge: { duration_zh: '約 1 年 (開封後)', duration_en: 'Approx. 1 year (opened)', tips_zh: '開封後需冷藏以防發霉。', tips_en: 'Refrigerate after opening to prevent mold.'}, pantry: { duration_zh: '無限期 (未開)', duration_en: 'Indefinitely (unopened)', tips_zh: '未開封可無限期保存。', tips_en: 'Unopened, it lasts indefinitely.'} },
             { id: 131, name_zh: '玉米糖漿', name_en: 'Corn Syrup', category_zh: '醬料', category_en: 'Condiment', aka: [], fridge: null, freezer: null, pantry: { duration_zh: '無限期', duration_en: 'Indefinitely', tips_zh: '存放在室溫。', tips_en: 'Store at room temperature.'} },
             { id: 132, name_zh: '植物油', name_en: 'Vegetable Oil', category_zh: '油品', category_en: 'Oil', aka: ['沙拉油'], fridge: null, freezer: null, pantry: { duration_zh: '1-2 年', duration_en: '1-2 years', tips_zh: '存放在陰涼、黑暗處。', tips_en: 'Store in a cool, dark place.'} },
             { id: 133, name_zh: '芝麻油', name_en: 'Sesame Oil', category_zh: '油品', category_en: 'Oil', aka: ['香油'], fridge: { duration_zh: '約 1 年', duration_en: 'Approx. 1 year', tips_zh: '冷藏可防止變質。', tips_en: 'Refrigeration helps prevent rancidity.'}, pantry: { duration_zh: '幾個月', duration_en: 'A few months', tips_zh: '存放在陰涼、黑暗處。', tips_en: 'Store in a cool, dark place.'} },
@@ -492,9 +712,300 @@
             { id: 147, name_zh: '山藥', name_en: 'Yam', category_zh: '蔬菜', category_en: 'Vegetable', aka: [], fridge: { duration_zh: '1-2 週 (切開後)', duration_en: '1-2 weeks (cut)', tips_zh: '切口需用保鮮膜包裹。', tips_en: 'Cover the cut ends with plastic wrap.' }, pantry: { duration_zh: '1-3 個月', duration_en: '1-3 months', tips_zh: '存放在陰涼、黑暗、通風處。', tips_en: 'Store in a cool, dark, well-ventilated place.' } },
             { id: 148, name_zh: '竹筍', name_en: 'Bamboo Shoot', category_zh: '蔬菜', category_en: 'Vegetable', aka: [], fridge: { duration_zh: '1-2 週 (帶殼)', duration_en: '1-2 weeks (in husk)', tips_zh: '帶殼冷藏可保持新鮮。', tips_en: 'Refrigerating with the husk on keeps it fresh.' }, freezer: { duration_zh: '約 1 年 (煮熟後)', duration_en: 'Approx. 1 year (cooked)', tips_zh: '煮熟後冷凍。', tips_en: 'Cook before freezing.' }, pantry: null },
             { id: 149, name_zh: '毛豆', name_en: 'Edamame', category_zh: '蔬菜', category_en: 'Vegetable', aka: [], fridge: { duration_zh: '2-3 天', duration_en: '2-3 days', tips_zh: '帶莢冷藏。', tips_en: 'Refrigerate in the pod.' }, freezer: { duration_zh: '約 1 年', duration_en: 'Approx. 1 year', tips_zh: '殺菁後冷凍，可帶莢或去莢。', tips_en: 'Blanch and freeze, either in the pod or shelled.' }, pantry: null },
-            { id: 150, name_zh: '龍眼', name_en: 'Longan', category_zh: '水果', category_en: 'Fruit', aka: [], fridge: { duration_zh: '1-2 週', duration_en: '1-2 weeks', tips_zh: '帶枝冷藏可延長保鮮。', tips_en: 'Refrigerating with the stem on extends freshness.' }, freezer: { duration_zh: '約 6 個月', duration_en: 'Approx. 6 months', tips_zh: '去皮去核後冷凍。', tips_en: 'Peel and pit before freezing.' }, pantry: null }
+            { id: 150, name_zh: '龍眼', name_en: 'Longan', category_zh: '水果', category_en: 'Fruit', aka: [], fridge: { duration_zh: '1-2 週', duration_en: '1-2 weeks', tips_zh: '帶枝冷藏可延長保鮮。', tips_en: 'Refrigerating with the stem on extends freshness.' }, freezer: { duration_zh: '約 6 個月', duration_en: 'Approx. 6 months', tips_zh: '去皮去核後冷凍。', tips_en: 'Peel and pit before freezing.' }, pantry: null },
+
+            // --- 蔬菜 (Vegetables) (10 筆) ---
+{ id: 151, name_zh: '芝麻葉', name_en: 'Arugula', category_zh: '蔬菜', category_en: 'Vegetable', aka: ['火箭菜'], 
+  fridge: { duration_zh: '3-5 天', duration_en: '3-5 days', tips_zh: '用紙巾包裹放入保鮮袋。', tips_en: 'Wrap in a paper towel and place in a plastic bag.' }, 
+  freezer: null, 
+  pantry: null 
+},
+{ id: 152, name_zh: '朝鮮薊', name_en: 'Artichoke', category_zh: '蔬菜', category_en: 'Vegetable', aka: [], 
+  fridge: { duration_zh: '5-7 天', duration_en: '5-7 days', tips_zh: '放入塑膠袋冷藏，不要清洗。', tips_en: 'Refrigerate unwashed in a plastic bag.' }, 
+  freezer: { duration_zh: '約 8 個月 (需處理)', duration_en: 'Approx. 8 months (processed)', tips_zh: '去除外部硬葉，燙過並泡檸檬水後冷凍。', tips_en: 'Remove outer leaves, blanch, and soak in lemon water before freezing.' }, 
+  pantry: null 
+},
+{ id: 153, name_zh: '苦苣', name_en: 'Endive', category_zh: '蔬菜', category_en: 'Vegetable', aka: [], 
+  fridge: { duration_zh: '4-7 天', duration_en: '4-7 days', tips_zh: '用紙巾包裹冷藏。', tips_en: 'Wrap in a paper towel and refrigerate.' }, 
+  freezer: null, 
+  pantry: null 
+},
+{ id: 154, name_zh: '茴香 (球莖)', name_en: 'Fennel (bulb)', category_zh: '蔬菜', category_en: 'Vegetable', aka: [], 
+  fridge: { duration_zh: '1 週', duration_en: '1 week', tips_zh: '放入塑膠袋中冷藏。', tips_en: 'Store in a plastic bag in the fridge.' }, 
+  freezer: { duration_zh: '約 6 個月 (需殺菁)', duration_en: 'Approx. 6 months (blanched)', tips_zh: '切片後殺菁再冷凍。', tips_en: 'Slice, blanch, and then freeze.' }, 
+  pantry: null 
+},
+{ id: 155, name_zh: '大頭菜', name_en: 'Kohlrabi', category_zh: '蔬菜', category_en: 'Vegetable', aka: ['蕪菁甘藍'], 
+  fridge: { duration_zh: '2-3 週', duration_en: '2-3 weeks', tips_zh: '去除葉子後冷藏。', tips_en: 'Remove leaves before refrigerating.' }, 
+  freezer: { duration_zh: '約 10 個月 (需殺菁)', duration_en: 'Approx. 10 months (blanched)', tips_zh: '切塊後殺菁再冷凍。', tips_en: 'Dice, blanch, and then freeze.' }, 
+  pantry: null 
+},
+{ id: 156, name_zh: '歐洲防風草', name_en: 'Parsnip', category_zh: '蔬菜', category_en: 'Vegetable', aka: [], 
+  fridge: { duration_zh: '2-3 週', duration_en: '2-3 weeks', tips_zh: '與紅蘿蔔類似，存放於蔬果保鮮抽屜。', tips_en: 'Similar to carrots, store in the crisper drawer.' }, 
+  freezer: { duration_zh: '約 9 個月 (需殺菁)', duration_en: 'Approx. 9 months (blanched)', tips_zh: '切塊後殺菁再冷凍。', tips_en: 'Dice, blanch, and then freeze.' }, 
+  pantry: null 
+},
+{ id: 157, name_zh: '紅蔥頭', name_en: 'Shallots', category_zh: '蔬菜', category_en: 'Vegetable', aka: [], 
+  fridge: { duration_zh: '1-2 個月 (切開後)', duration_en: '1-2 months (cut)', tips_zh: '切開後需密封冷藏。', tips_en: 'Refrigerate in a sealed container after cutting.' }, 
+  freezer: { duration_zh: '約 6 個月', duration_en: 'Approx. 6 months', tips_zh: '切碎後冷凍。', tips_en: 'Chop and freeze.' }, 
+  pantry: { duration_zh: '1 個月 (未切)', duration_en: '1 month (whole)', tips_zh: '存放於陰涼、乾燥、通風處。', tips_en: 'Store in a cool, dry, well-ventilated place.' } 
+},
+{ id: 158, name_zh: '西洋菜', name_en: 'Watercress', category_zh: '蔬菜', category_en: 'Vegetable', aka: [], 
+  fridge: { duration_zh: '2-4 天', duration_en: '2-4 days', tips_zh: '莖部泡水，像鮮花一樣保存。', tips_en: 'Treat it like a bouquet of flowers with stems in water.' }, 
+  freezer: null, 
+  pantry: null 
+},
+{ id: 159, name_zh: '佛手瓜', name_en: 'Chayote', category_zh: '蔬菜', category_en: 'Vegetable', aka: ['龍鬚菜的果實'], 
+  fridge: { duration_zh: '1-2 週', duration_en: '1-2 weeks', tips_zh: '放入塑膠袋中冷藏。', tips_en: 'Store in a plastic bag in the fridge.' }, 
+  freezer: null, 
+  pantry: null 
+},
+{ id: 160, name_zh: '豆芽菜', name_en: 'Bean Sprouts', category_zh: '蔬菜', category_en: 'Vegetable', aka: ['芽菜'], 
+  fridge: { duration_zh: '2-3 天', duration_en: '2-3 days', tips_zh: '非常易壞，需保持乾燥與低溫，盡快食用。', tips_en: 'Very perishable. Keep dry, cold, and use quickly.' }, 
+  freezer: null, 
+  pantry: null 
+},
+
+// --- 水果 (Fruits) (10 筆) ---
+{ id: 161, name_zh: '楊桃', name_en: 'Starfruit', category_zh: '水果', category_en: 'Fruit', aka: [], 
+  fridge: { duration_zh: '1-2 週 (已熟)', duration_en: '1-2 weeks (ripe)', tips_zh: '已熟的果實可冷藏。', tips_en: 'Store ripe fruit in the fridge.' }, 
+  freezer: null, 
+  pantry: { duration_zh: '成熟前數天', duration_en: 'A few days until ripe', tips_zh: '在室溫下熟成。', tips_en: 'Ripen at room temperature.' } 
+},
+{ id: 162, name_zh: '芭樂', name_en: 'Guava', category_zh: '水果', category_en: 'Fruit', aka: ['番石榴'], 
+  fridge: { duration_zh: '3-5 天 (已熟)', duration_en: '3-5 days (ripe)', tips_zh: '已熟的芭樂可冷藏。', tips_en: 'Store ripe guavas in the fridge.' }, 
+  freezer: { duration_zh: '約 8 個月', duration_en: 'Approx. 8 months', tips_zh: '切塊後冷凍。', tips_en: 'Cut into pieces and freeze.' }, 
+  pantry: { duration_zh: '成熟前數天', duration_en: 'A few days until ripe', tips_zh: '在室溫下熟成。', tips_en: 'Ripen at room temperature.' } 
+},
+{ id: 163, name_zh: '火龍果', name_en: 'Dragon Fruit', category_zh: '水果', category_en: 'Fruit', aka: [], 
+  fridge: { duration_zh: '1-2 週', duration_en: '1-2 weeks', tips_zh: '冷藏可延長保存期。', tips_en: 'Refrigeration extends its shelf life.' }, 
+  freezer: { duration_zh: '約 3 個月', duration_en: 'Approx. 3 months', tips_zh: '切塊後冷凍。', tips_en: 'Cut into pieces and freeze.' }, 
+  pantry: { duration_zh: '3-5 天', duration_en: '3-5 days', tips_zh: '置於室溫。', tips_en: 'Keep at room temperature.' } 
+},
+{ id: 164, name_zh: '山竹', name_en: 'Mangosteen', category_zh: '水果', category_en: 'Fruit', aka: [], 
+  fridge: { duration_zh: '1-2 週', duration_en: '1-2 weeks', tips_zh: '冷藏可保持新鮮。', tips_en: 'Refrigerate to maintain freshness.' }, 
+  freezer: null, 
+  pantry: { duration_zh: '2-3 天', duration_en: '2-3 days', tips_zh: '置於室溫。', tips_en: 'Keep at room temperature.' } 
+},
+{ id: 165, name_zh: '紅毛丹', name_en: 'Rambutan', category_zh: '水果', category_en: 'Fruit', aka: [], 
+  fridge: { duration_zh: '約 1 週', duration_en: 'Approx. 1 week', tips_zh: '放入有孔塑膠袋冷藏。', tips_en: 'Store in a perforated plastic bag in the fridge.' }, 
+  freezer: null, 
+  pantry: { duration_zh: '1-2 天', duration_en: '1-2 days', tips_zh: '置於室溫。', tips_en: 'Keep at room temperature.' } 
+},
+{ id: 166, name_zh: '羅望子 (新鮮)', name_en: 'Tamarind (fresh pod)', category_zh: '水果', category_en: 'Fruit', aka: ['酸豆'], 
+  fridge: { duration_zh: '數週', duration_en: 'Several weeks', tips_zh: '可保持其水分。', tips_en: 'Helps retain moisture.' }, 
+  freezer: { duration_zh: '約 1 年 (果肉)', duration_en: 'Approx. 1 year (pulp)', tips_zh: '將果肉取出後冷凍。', tips_en: 'Remove pulp from pod and freeze.' }, 
+  pantry: { duration_zh: '數天', duration_en: 'Several days', tips_zh: '置於室溫。', tips_en: 'Keep at room temperature.' } 
+},
+{ id: 167, name_zh: '金桔', name_en: 'Kumquat', category_zh: '水果', category_en: 'Fruit', aka: [], 
+  fridge: { duration_zh: '2-3 週', duration_en: '2-3 weeks', tips_zh: '放入塑膠袋中冷藏。', tips_en: 'Store in a plastic bag in the fridge.' }, 
+  freezer: null, 
+  pantry: { duration_zh: '3-5 天', duration_en: '3-5 days', tips_zh: '置於室溫。', tips_en: 'Keep at room temperature.' } 
+},
+{ id: 168, name_zh: '椰棗 (新鮮)', name_en: 'Dates (fresh)', category_zh: '水果', category_en: 'Fruit', aka: [], 
+  fridge: { duration_zh: '數個月', duration_en: 'Several months', tips_zh: '冷藏可保持新鮮。', tips_en: 'Refrigerate to maintain freshness.' }, 
+  freezer: { duration_zh: '約 1 年', duration_en: 'Approx. 1 year', tips_zh: '冷凍可長期保存。', tips_en: 'Freezing is best for long-term storage.' }, 
+  pantry: { duration_zh: '1-2 個月 (乾燥)', duration_en: '1-2 months (dried)', tips_zh: '乾燥椰棗可存放於室溫。', tips_en: 'Dried dates can be stored at room temp.' } 
+},
+{ id: 169, name_zh: '醋栗', name_en: 'Gooseberry', category_zh: '水果', category_en: 'Fruit', aka: [], 
+  fridge: { duration_zh: '1-2 週', duration_en: '1-2 weeks', tips_zh: '放入有孔容器中冷藏。', tips_en: 'Store in a ventilated container in the fridge.' }, 
+  freezer: { duration_zh: '約 1 年', duration_en: 'Approx. 1 year', tips_zh: '單層排列冷凍，變硬後再裝袋。', tips_en: 'Freeze in a single layer before transferring to a bag.' }, 
+  pantry: null 
+},
+{ id: 170, name_zh: '波羅蜜 (果肉)', name_en: 'Jackfruit (pulp)', category_zh: '水果', category_en: 'Fruit', aka: [], 
+  fridge: { duration_zh: '3-5 天', duration_en: '3-5 days', tips_zh: '放入密封容器冷藏。', tips_en: 'Store in an airtight container in the fridge.' }, 
+  freezer: { duration_zh: '約 2 個月', duration_en: 'Approx. 2 months', tips_zh: '冷凍可長期保存。', tips_en: 'Can be frozen for longer storage.' }, 
+  pantry: null 
+},
+
+// --- 肉類 (Meat) (5 筆) ---
+{ id: 171, name_zh: '火雞 (生)', name_en: 'Turkey (raw)', category_zh: '肉類', category_en: 'Meat', aka: [], 
+  fridge: { duration_zh: '1-2 天', duration_en: '1-2 days', tips_zh: '存放於冰箱最冷處。', tips_en: 'Store in the coldest part of the fridge.' }, 
+  freezer: { duration_zh: '1 年 (整隻)', duration_en: '1 year (whole)', tips_zh: '保持原包裝冷凍。', tips_en: 'Keep in original packaging and freeze.' }, 
+  pantry: null 
+},
+{ id: 172, name_zh: '鹿肉 (生)', name_en: 'Venison (raw)', category_zh: '肉類', category_en: 'Meat', aka: [], 
+  fridge: { duration_zh: '2-3 天', duration_en: '2-3 days', tips_zh: '妥善包裝以防肉汁滴漏。', tips_en: 'Wrap well to prevent drips.' }, 
+  freezer: { duration_zh: '8-12 個月', duration_en: '8-12 months', tips_zh: '緊密包裹以防止凍傷。', tips_en: 'Wrap tightly to prevent freezer burn.' }, 
+  pantry: null 
+},
+{ id: 173, name_zh: '兔肉 (生)', name_en: 'Rabbit (raw)', category_zh: '肉類', category_en: 'Meat', aka: [], 
+  fridge: { duration_zh: '1-2 天', duration_en: '1-2 days', tips_zh: '存放於冰箱最冷處。', tips_en: 'Store in the coldest part of the fridge.' }, 
+  freezer: { duration_zh: '6-9 個月', duration_en: '6-9 months', tips_zh: '分切後冷凍。', tips_en: 'Cut into portions before freezing.' }, 
+  pantry: null 
+},
+{ id: 174, name_zh: '鵝肉 (生)', name_en: 'Goose (raw)', category_zh: '肉類', category_en: 'Meat', aka: ['鵝'], 
+  fridge: { duration_zh: '1-2 天', duration_en: '1-2 days', tips_zh: '存放於冰箱最冷處。', tips_en: 'Store in the coldest part of the fridge.' }, 
+  freezer: { duration_zh: '約 6 個月', duration_en: 'Approx. 6 months', tips_zh: '確保完全密封再冷凍。', tips_en: 'Ensure it is sealed tightly before freezing.' }, 
+  pantry: null 
+},
+{ id: 175, name_zh: '肝臟 (生)', name_en: 'Liver (raw)', category_zh: '肉類', category_en: 'Meat', aka: ['豬肝', '雞肝'], 
+  fridge: { duration_zh: '1-2 天', duration_en: '1-2 days', tips_zh: '內臟類易腐敗，需盡快食用。', tips_en: 'Organs are highly perishable; use quickly.' }, 
+  freezer: { duration_zh: '3-4 個月', duration_en: '3-4 months', tips_zh: '緊密包裹後冷凍。', tips_en: 'Wrap tightly and freeze.' }, 
+  pantry: null 
+},
+
+// --- 海鮮 (Seafood) (5 筆) ---
+{ id: 176, name_zh: '牡蠣/生蠔 (活)', name_en: 'Oysters (live)', category_zh: '海鮮', category_en: 'Seafood', aka: [], 
+  fridge: { duration_zh: '2-7 天', duration_en: '2-7 days', tips_zh: '用濕布覆蓋，凸面朝下放在碗中冷藏，不要密封。', tips_en: 'Store in a bowl, cup-side down, covered with a damp cloth. Do not seal.' }, 
+  freezer: null, 
+  pantry: null 
+},
+{ id: 177, name_zh: '鯖魚 (生)', name_en: 'Mackerel (raw)', category_zh: '海鮮', category_en: 'Seafood', aka: [], 
+  fridge: { duration_zh: '1-2 天', duration_en: '1-2 days', tips_zh: '油脂豐富的魚類易腐敗，需盡快食用。', tips_en: 'Oily fish perish quickly; use immediately.' }, 
+  freezer: { duration_zh: '2-3 個月', duration_en: '2-3 months', tips_zh: '緊密包裹後冷凍。', tips_en: 'Wrap tightly and freeze.' }, 
+  pantry: null 
+},
+{ id: 178, name_zh: '鱒魚 (生)', name_en: 'Trout (raw)', category_zh: '海鮮', category_en: 'Seafood', aka: [], 
+  fridge: { duration_zh: '1-2 天', duration_en: '1-2 days', tips_zh: '存放在密封容器中，並置於冰箱下層。', tips_en: 'Store in an airtight container on the bottom shelf.' }, 
+  freezer: { duration_zh: '約 6 個月', duration_en: 'Approx. 6 months', tips_zh: '緊密包裹後冷凍。', tips_en: 'Wrap tightly and freeze.' }, 
+  pantry: null 
+},
+{ id: 179, name_zh: '鯷魚 (罐裝)', name_en: 'Anchovies (canned)', category_zh: '海鮮', category_en: 'Seafood', aka: [], 
+  fridge: { duration_zh: '約 2 個月 (開封後)', duration_en: 'Approx. 2 months (opened)', tips_zh: '開封後需用油浸泡並密封冷藏。', tips_en: 'Cover with oil in an airtight container and refrigerate after opening.' }, 
+  freezer: null, 
+  pantry: { duration_zh: '約 1 年 (未開)', duration_en: 'Approx. 1 year (unopened)', tips_zh: '存放於陰涼乾燥處。', tips_en: 'Store in a cool, dry place.' } 
+},
+{ id: 180, name_zh: '魚子醬', name_en: 'Caviar', category_zh: '海鮮', category_en: 'Seafood', aka: [], 
+  fridge: { duration_zh: '5-7 天 (開封後)', duration_en: '5-7 days (opened)', tips_zh: '保持密封並存放於冰箱最冷處。', tips_en: 'Keep tightly sealed in the coldest part of the fridge.' }, 
+  freezer: null, 
+  pantry: null 
+},
+
+// --- 蛋奶製品 (Dairy & Eggs) (5 筆) ---
+{ id: 181, name_zh: '白脫牛奶', name_en: 'Buttermilk', category_zh: '蛋奶製品', category_en: 'Dairy & Eggs', aka: ['酪乳'], 
+  fridge: { duration_zh: '1-2 週', duration_en: '1-2 weeks', tips_zh: '保持密封冷藏。', tips_en: 'Keep sealed and refrigerated.' }, 
+  freezer: { duration_zh: '約 3 個月', duration_en: 'Approx. 3 months', tips_zh: '冷凍後質地會改變，適合烹飪使用。', tips_en: 'Texture may change; best for cooking or baking.' }, 
+  pantry: null 
+},
+{ id: 182, name_zh: '茅屋起司', name_en: 'Cottage Cheese', category_zh: '蛋奶製品', category_en: 'Dairy & Eggs', aka: [], 
+  fridge: { duration_zh: '1 週 (開封後)', duration_en: '1 week (opened)', tips_zh: '保持密封冷藏。', tips_en: 'Keep sealed and refrigerated.' }, 
+  freezer: null, 
+  pantry: null 
+},
+{ id: 183, name_zh: '酥油', name_en: 'Ghee', category_zh: '蛋奶製品', category_en: 'Dairy & Eggs', aka: ['澄清奶油'], 
+  fridge: { duration_zh: '約 1 年', duration_en: 'Approx. 1 year', tips_zh: '冷藏可延長保存期。', tips_en: 'Refrigeration extends shelf life.' }, 
+  freezer: null, 
+  pantry: { duration_zh: '3-6 個月', duration_en: '3-6 months', tips_zh: '存放在陰涼、黑暗處。', tips_en: 'Store in a cool, dark place.' } 
+},
+{ id: 184, name_zh: '羊奶起司 (軟)', name_en: 'Goat Cheese (soft)', category_zh: '蛋奶製品', category_en: 'Dairy & Eggs', aka: [], 
+  fridge: { duration_zh: '1-2 週', duration_en: '1-2 weeks', tips_zh: '緊密包裹冷藏。', tips_en: 'Wrap tightly and refrigerate.' }, 
+  freezer: { duration_zh: '約 2 個月', duration_en: 'Approx. 2 months', tips_zh: '質地會變碎。', tips_en: 'Texture will become crumbly.' }, 
+  pantry: null 
+},
+{ id: 185, name_zh: '淡奶', name_en: 'Evaporated Milk', category_zh: '蛋奶製品', category_en: 'Dairy & Eggs', aka: ['蒸發乳'], 
+  fridge: { duration_zh: '3-5 天 (開封後)', duration_en: '3-5 days (opened)', tips_zh: '開封後需移至密封容器中冷藏。', tips_en: 'Transfer to an airtight container and refrigerate after opening.' }, 
+  freezer: null, 
+  pantry: { duration_zh: '約 1 年 (未開)', duration_en: 'Approx. 1 year (unopened)', tips_zh: '存放於陰涼乾燥處。', tips_en: 'Store in a cool, dry place.' } 
+},
+
+// --- 穀物 & 烘焙品 (Grains & Baked) (5 筆) ---
+{ id: 186, name_zh: '麵包糠', name_en: 'Breadcrumbs', category_zh: '烘焙品', category_en: 'Baked Goods', aka: [], 
+  fridge: { duration_zh: '約 6 個月', duration_en: 'Approx. 6 months', tips_zh: '冷藏可防潮並保持新鮮。', tips_en: 'Refrigerate to prevent moisture and maintain freshness.' }, 
+  freezer: { duration_zh: '約 1 年', duration_en: 'Approx. 1 year', tips_zh: '冷凍可長期保存。', tips_en: 'Freezing is best for long-term storage.' }, 
+  pantry: { duration_zh: '1-2 個月', duration_en: '1-2 months', tips_zh: '存放在密封容器中。', tips_en: 'Store in an airtight container.' } 
+},
+{ id: 187, name_zh: '乾燥義大利麵', name_en: 'Pasta (dry)', category_zh: '穀物', category_en: 'Grains', aka: [], 
+  fridge: null, 
+  freezer: null, 
+  pantry: { duration_zh: '1-2 年', duration_en: '1-2 years', tips_zh: '保持乾燥，存放在密封容器中。', tips_en: 'Keep dry and store in an airtight container.' } 
+},
+{ id: 188, name_zh: '北非小米 (乾)', name_en: 'Couscous (dry)', category_zh: '穀物', category_en: 'Grains', aka: ['庫斯米'], 
+  fridge: null, 
+  freezer: null, 
+  pantry: { duration_zh: '約 1 年', duration_en: 'Approx. 1 year', tips_zh: '存放在密封容器中。', tips_en: 'Store in an airtight container.' } 
+},
+{ id: 189, name_zh: '大麥 (乾)', name_en: 'Barley (dry)', category_zh: '穀物', category_en: 'Grains', aka: [], 
+  fridge: null, 
+  freezer: null, 
+  pantry: { duration_zh: '1-2 年', duration_en: '1-2 years', tips_zh: '存放在密封容器中。', tips_en: 'Store in an airtight container.' } 
+},
+{ id: 190, name_zh: '玉米粉', name_en: 'Cornmeal', category_zh: '穀物', category_en: 'Grains', aka: [], 
+  fridge: { duration_zh: '約 1 年', duration_en: 'Approx. 1 year', tips_zh: '冷藏可防止變質。', tips_en: 'Refrigerate to prevent spoilage.' }, 
+  freezer: { duration_zh: '約 2 年', duration_en: 'Approx. 2 years', tips_zh: '冷凍可長期保存。', tips_en: 'Freezing is best for long-term storage.' }, 
+  pantry: { duration_zh: '6-9 個月', duration_en: '6-9 months', tips_zh: '存放在密封容器中。', tips_en: 'Store in an airtight container.' } 
+},
+
+// --- 堅果、醬料、其他 (Nuts, Condiments, Other) (15 筆) ---
+{ id: 191, name_zh: '開心果', name_en: 'Pistachios', category_zh: '堅果與種子', category_en: 'Nuts & Seeds', aka: [], 
+  fridge: { duration_zh: '約 1 年', duration_en: 'Approx. 1 year', tips_zh: '冷藏可防止油脂變質。', tips_en: 'Refrigeration prevents oils from going rancid.' }, 
+  freezer: { duration_zh: '約 2 年', duration_en: 'Approx. 2 years', tips_zh: '冷凍可長期保存。', tips_en: 'Freezing is best for long-term storage.' }, 
+  pantry: { duration_zh: '幾個月', duration_en: 'A few months', tips_zh: '存放在密封容器中。', tips_en: 'Store in an airtight container.' } 
+},
+{ id: 192, name_zh: '夏威夷豆', name_en: 'Macadamia Nuts', category_zh: '堅果與種子', category_en: 'Nuts & Seeds', aka: [], 
+  fridge: { duration_zh: '約 9 個月', duration_en: 'Approx. 9 months', tips_zh: '油脂含量高，冷藏可防變質。', tips_en: 'High oil content; refrigerate to prevent rancidity.' }, 
+  freezer: { duration_zh: '約 2 年', duration_en: 'Approx. 2 years', tips_zh: '冷凍可長期保存。', tips_en: 'Freezing is best for long-term storage.' }, 
+  pantry: { duration_zh: '1-2 個月', duration_en: '1-2 months', tips_zh: '存放在密封容器中。', tips_en: 'Store in an airtight container.' } 
+},
+{ id: 193, name_zh: '巴西堅果', name_en: 'Brazil Nuts', category_zh: '堅果與種子', category_en: 'Nuts & Seeds', aka: [], 
+  fridge: { duration_zh: '約 9 個月', duration_en: 'Approx. 9 months', tips_zh: '冷藏可防止油脂變質。', tips_en: 'Refrigeration prevents oils from going rancid.' }, 
+  freezer: { duration_zh: '約 1 年', duration_en: 'Approx. 1 year', tips_zh: '冷凍可長期保存。', tips_en: 'Freezing is best for long-term storage.' }, 
+  pantry: { duration_zh: '幾週', duration_en: 'A few weeks', tips_zh: '存放在密封容器中。', tips_en: 'Store in an airtight container.' } 
+},
+{ id: 194, name_zh: '胡桃', name_en: 'Pecans', category_zh: '堅果與種子', category_en: 'Nuts & Seeds', aka: [], 
+  fridge: { duration_zh: '約 1 年', duration_en: 'Approx. 1 year', tips_zh: '冷藏可防止油脂變質。', tips_en: 'Refrigeration prevents oils from going rancid.' }, 
+  freezer: { duration_zh: '約 2 年', duration_en: 'Approx. 2 years', tips_zh: '冷凍可長期保存。', tips_en: 'Freezing is best for long-term storage.' }, 
+  pantry: { duration_zh: '幾個月', duration_en: 'A few months', tips_zh: '存放在密封容器中。', tips_en: 'Store in an airtight container.' } 
+},
+{ id: 195, name_zh: '松子', name_en: 'Pine Nuts', category_zh: '堅果與種子', category_en: 'Nuts & Seeds', aka: [], 
+  fridge: { duration_zh: '1-2 個月', duration_en: '1-2 months', tips_zh: '油脂含量高，冷藏可防變質。', tips_en: 'High oil content; refrigerate to prevent rancidity.' }, 
+  freezer: { duration_zh: '約 6 個月', duration_en: 'Approx. 6 months', tips_zh: '冷凍可長期保存。', tips_en: 'Freezing is best for long-term storage.' }, 
+  pantry: { duration_zh: '1-2 週', duration_en: '1-2 weeks', tips_zh: '易變質，不建議常溫久放。', tips_en: 'Prone to rancidity; not ideal for long pantry storage.' } 
+},
+{ id: 196, name_zh: '芝麻醬', name_en: 'Tahini', category_zh: '醬料', category_en: 'Condiment', aka: [], 
+  fridge: { duration_zh: '6 個月 (開封後)', duration_en: '6 months (opened)', tips_zh: '冷藏可防止油脂分離與變質。', tips_en: 'Refrigerate to prevent oil separation and rancidity.' }, 
+  freezer: null, 
+  pantry: { duration_zh: '1-2 個月 (開封後)', duration_en: '1-2 months (opened)', tips_zh: '若存放於陰涼處，亦可室溫保存。', tips_en: 'Can be stored at room temp if in a cool, dark place.' } 
+},
+{ id: 197, name_zh: '海鮮醬', name_en: 'Hoisin Sauce', category_zh: '醬料', category_en: 'Condiment', aka: [], 
+  fridge: { duration_zh: '6-12 個月 (開封後)', duration_en: '6-12 months (opened)', tips_zh: '開封後需冷藏。', tips_en: 'Refrigerate after opening.' }, 
+  freezer: null, 
+  pantry: null 
+},
+{ id: 198, name_zh: '伍斯特醬', name_en: 'Worcestershire Sauce', category_zh: '醬料', category_en: 'Condiment', aka: ['辣醬油'], 
+  fridge: { duration_zh: '約 2 年 (開封後)', duration_en: 'Approx. 2 years (opened)', tips_zh: '冷藏可保持最佳風味。', tips_en: 'Refrigeration preserves the best flavor.' }, 
+  freezer: null, 
+  pantry: { duration_zh: '約 1 年 (開封後)', duration_en: 'Approx. 1 year (opened)', tips_zh: '存放於陰涼處。', tips_en: 'Store in a cool place.' } 
+},
+{ id: 199, name_zh: '是拉差辣椒醬', name_en: 'Sriracha', category_zh: '醬料', category_en: 'Condiment', aka: [], 
+  fridge: { duration_zh: '1-2 年 (開封後)', duration_en: '1-2 years (opened)', tips_zh: '冷藏可保持顏色與風味。', tips_en: 'Refrigeration preserves color and flavor.' }, 
+  freezer: null, 
+  pantry: { duration_zh: '約 6 個月 (開封後)', duration_en: 'Approx. 6 months (opened)', tips_zh: '可存放於室溫。', tips_en: 'Can be stored at room temperature.' } 
+},
+{ id: 200, name_zh: '塔巴斯科辣椒醬', name_en: 'Tabasco Sauce', category_zh: '醬料', category_en: 'Condiment', aka: [], 
+  fridge: null, 
+  freezer: null, 
+  pantry: { duration_zh: '5 年', duration_en: '5 years', tips_zh: '醋基底，可長時間室溫保存。', tips_en: 'Vinegar-based, lasts long at room temp.' } 
+},
+{ id: 201, name_zh: '酸豆', name_en: 'Capers', category_zh: '醬料', category_en: 'Condiment', aka: [], 
+  fridge: { duration_zh: '約 1 年 (開封後)', duration_en: 'Approx. 1 year (opened)', tips_zh: '需浸泡在鹽水或醋中並密封冷藏。', tips_en: 'Keep submerged in brine or vinegar and refrigerate.' }, 
+  freezer: null, 
+  pantry: null 
+},
+{ id: 202, name_zh: '橄欖 (罐裝)', name_en: 'Olives (canned/jarred)', category_zh: '其他', category_en: 'Other', aka: [], 
+  fridge: { duration_zh: '2-3 週 (開封後)', duration_en: '2-3 weeks (opened)', tips_zh: '需浸泡在鹽水中並密封冷藏。', tips_en: 'Keep submerged in brine and refrigerate.' }, 
+  freezer: null, 
+  pantry: { duration_zh: '1-2 年 (未開)', duration_en: '1-2 years (unopened)', tips_zh: '存放於陰涼乾燥處。', tips_en: 'Store in a cool, dry place.' } 
+},
+{ id: 203, name_zh: '龍舌蘭蜜', name_en: 'Agave Nectar', category_zh: '醬料', category_en: 'Condiment', aka: [], 
+  fridge: null, 
+  freezer: null, 
+  pantry: { duration_zh: '約 2 年', duration_en: 'Approx. 2 years', tips_zh: '保持密封，存放於室溫。', tips_en: 'Keep tightly sealed at room temperature.' } 
+},
+{ id: 204, name_zh: '營養酵母', name_en: 'Nutritional Yeast', category_zh: '其他', category_en: 'Other', aka: [], 
+  fridge: { duration_zh: '約 2 年', duration_en: 'Approx. 2 years', tips_zh: '冷藏可保持最佳風味。', tips_en: 'Refrigeration preserves the best flavor.' }, 
+  freezer: null, 
+  pantry: { duration_zh: '約 1 年', duration_en: 'Approx. 1 year', tips_zh: '存放在陰涼、黑暗、乾燥處。', tips_en: 'Store in a cool, dark, and dry place.' } 
+},
+{ id: 205, name_zh: '松露油', name_en: 'Truffle Oil', category_zh: '油品', category_en: 'Oil', aka: [], 
+  fridge: null, 
+  freezer: null, 
+  pantry: { duration_zh: '6-12 個月', duration_en: '6-12 months', tips_zh: '香氣易揮發，需存放在陰涼黑暗處並盡快用完。', tips_en: 'Aroma is volatile; store in a cool, dark place and use quickly.' } 
+}
+            
         ];
 
+        // --- [原 index.html 的 JS] ---
         const searchBar = document.getElementById('search-bar');
         const filterButtons = document.querySelectorAll('.filter-btn');
         const resultsArea = document.getElementById('results-area');
@@ -566,7 +1077,7 @@
 
         function filterAndRender() {
             const searchTerm = searchBar.value.toLowerCase().trim();
-            let filteredData = [...foodData];
+            let filteredData = [...foodData]; // [修改] 從 foodData 取得資料
 
             if (activeFilter) {
                 filteredData = filteredData.filter(item => item[activeFilter] !== null);
@@ -587,8 +1098,7 @@
             }
         }
         
-        // --- Event Listeners ---
-        
+        // --- Event Listeners (指南頁面) ---
         searchBar.addEventListener('input', () => {
             if (searchBar.value.length > 0) {
                 clearSearchContainer.style.display = 'flex';
@@ -602,15 +1112,13 @@
             searchBar.value = '';
             clearSearchContainer.style.display = 'none';
             filterAndRender();
-            searchBar.focus(); // 將焦點移回搜尋欄
+            searchBar.focus();
         });
 
         filterButtons.forEach(button => {
             button.addEventListener('click', () => {
                 const filter = button.dataset.filter;
-                
-                window.scrollTo(0, 0); // 點擊篩選按鈕後，滾動到頁面頂部
-
+                window.scrollTo(0, 0); 
                 if (button.classList.contains('active')) {
                     button.classList.remove('active');
                     activeFilter = null;
@@ -619,9 +1127,60 @@
                     button.classList.add('active');
                     activeFilter = filter;
                 }
-                
                 filterAndRender();
             });
+        });
+
+        // --- [NEW] SPA 導覽邏輯 ---
+        
+        const navButtons = document.querySelectorAll('.nav-btn, .footer-links a[data-page]');
+        const pages = document.querySelectorAll('.page-content');
+
+        /**
+         * 顯示指定的頁面
+         * @param {string} pageIdToShow - "guide", "principles", "about", "privacy"
+         */
+        function showPage(pageIdToShow) {
+            // 1. 隱藏所有頁面
+            pages.forEach(page => {
+                page.classList.remove('active');
+            });
+            
+            // 2. 顯示目標頁面
+            const targetPage = document.getElementById(`page-${pageIdToShow}`);
+            if (targetPage) {
+                targetPage.classList.add('active');
+            }
+
+            // 3. 更新導覽列按鈕的 'active' 狀態
+            navButtons.forEach(btn => {
+                if (btn.dataset.page === pageIdToShow) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+            });
+
+            // 4. 切換頁面時滾動到頂部
+            window.scrollTo(0, 0);
+        }
+
+        // 綁定所有導覽按鈕
+        navButtons.forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                e.preventDefault(); 
+                const pageId = e.currentTarget.dataset.page;
+                if (pageId) {
+                    showPage(pageId);
+                }
+            });
+        });
+
+        // --- [NEW] 頁面初始化 ---
+        // 確保 DOM 載入完成
+        document.addEventListener('DOMContentLoaded', () => {
+            // 預設顯示指南頁面 (雖然 HTML 已經設定了，但JS再次確認)
+            showPage('guide'); 
         });
 
     </script>
