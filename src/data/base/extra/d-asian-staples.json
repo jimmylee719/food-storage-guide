@@ -1,0 +1,1621 @@
+[
+  {
+    "slug": "fresh-ramen-noodles",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Fresh ramen noodles",
+    "subtitle": "raw or par-boiled, refrigerated pack",
+    "keywords": [
+      "fresh ramen noodles",
+      "raw ramen",
+      "生ラーメン",
+      "生麺",
+      "生めん",
+      "茹でめん",
+      "ちぢれ麺",
+      "拉麵生麵",
+      "生拉麵",
+      "鹼水麵",
+      "油麵",
+      "fideos ramen frescos",
+      "ramen fresco"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Japan's HACCP guide for small fresh-noodle makers, issued under MHLW and MAFF, classifies 生めん (raw) and 茹めん (par-boiled) noodles as refrigerated goods that must be held at 10 °C or below, and requires boiled noodles to be chilled to 10 °C within minutes of leaving the water. Treat the printed use-by date as the real limit and keep the pack cold, not in the door."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Once the pack is open the acid dip and modified atmosphere that hold the noodles stop working. Cook them within a day or two."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freeze in the unopened pack, or portion and bag. Boil straight from frozen."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "厚生労働省 / 全国製麺協同組合連合会 – 生めん類のHACCPの考え方に基づく衛生管理のための手引書",
+        "url": "https://www.mhlw.go.jp/file/05-Shingikai-11121000-Iyakushokuhinkyoku-Soumuka/0000188311.pdf"
+      }
+    ],
+    "analog": "fresh-pasta",
+    "notes": "The 10 °C refrigeration rule and the rapid-cooling requirement are directly sourced from the MHLW/全国製麺協同組合連合会 fresh-noodle HACCP guide, which gives no home-storage day count — hence the tips-only base. The 1-2 day afterOpening and the 2-month freezer figures are borrowed from the USDA FoodKeeper entry 'fresh-pasta'. Do not apply dried-noodle timelines here: fresh ramen is a high-moisture refrigerated food."
+  },
+  {
+    "slug": "fresh-udon-noodles",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Fresh udon noodles",
+    "subtitle": "boiled, vacuum or sealed pack",
+    "keywords": [
+      "fresh udon",
+      "boiled udon",
+      "生うどん",
+      "ゆでうどん",
+      "茹でうどん",
+      "うどん",
+      "烏龍麵",
+      "生烏龍麵",
+      "熟烏龍麵",
+      "udon fresco",
+      "fideos udon frescos"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Boiled udon is a 茹めん under Japan's 生めん類の衛生規範 and must be kept at 10 °C or below; the MHLW fresh-noodle HACCP guide requires it to be cooled to 10 °C promptly after boiling and held there. Go by the printed use-by date."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Sealed packs rely on an acid dip or post-pack pasteurisation. Once opened, cook within a day or two."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 2,
+          "unit": "months",
+          "tips": "Udon freezes unusually well — commercial 冷凍うどん is sold this way. Boil from frozen; do not thaw first or it goes slack."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "厚生労働省 / 全国製麺協同組合連合会 – 生めん類のHACCPの考え方に基づく衛生管理のための手引書",
+        "url": "https://www.mhlw.go.jp/file/05-Shingikai-11121000-Iyakushokuhinkyoku-Soumuka/0000188311.pdf"
+      }
+    ],
+    "analog": "fresh-pasta",
+    "notes": "The ≤10 °C rule is directly sourced. Numbers (1-2 days after opening, 2 months frozen) are borrowed from the USDA FoodKeeper entry 'fresh-pasta' — no Japanese authority publishes a home figure for opened udon."
+  },
+  {
+    "slug": "fresh-soba-noodles",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Fresh soba noodles",
+    "subtitle": "raw or boiled buckwheat noodles, refrigerated",
+    "keywords": [
+      "fresh soba",
+      "boiled soba",
+      "生そば",
+      "ゆでそば",
+      "茹でそば",
+      "そば",
+      "蕎麥麵",
+      "生蕎麥麵",
+      "soba fresco",
+      "fideos de trigo sarraceno frescos"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 9,
+          "max": 9,
+          "unit": "days",
+          "tips": "MHLW's HACCP model for noodle manufacture works through a real ゆでそば (boiled soba) spec sheet: 保存方法 要冷蔵（10℃以下）, 賞味期限 D+9 — nine days from production, sealed, at 10 °C or below. It is acid-dipped at pH 4.8-5.8 and cooled to below 10 °C within 30 minutes of packing. Your pack's printed date wins over this figure."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Open the pack and the acidity and low oxygen no longer protect it. Cook within a day or two."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freeze in the sealed pack; buckwheat aroma fades quickly either way."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "厚生労働省 – HACCP導入のための手引書 付録I 麺類編（HACCPモデル例：ゆでそば）",
+        "url": "https://www.mhlw.go.jp/file/06-Seisakujouhou-11130500-Shokuhinanzenbu/0000099021.pdf"
+      },
+      {
+        "name": "厚生労働省 / 全国製麺協同組合連合会 – 生めん類のHACCPの考え方に基づく衛生管理のための手引書",
+        "url": "https://www.mhlw.go.jp/file/05-Shingikai-11121000-Iyakushokuhinkyoku-Soumuka/0000188311.pdf"
+      }
+    ],
+    "analog": "fresh-pasta",
+    "notes": "The nine-day refrigerated figure is a manufacturer's own spec reproduced in the MHLW HACCP model document, not a home-kitchen study, and it assumes an unopened acid-treated pack at ≤10 °C. The afterOpening and freezer numbers are borrowed from the USDA FoodKeeper entry 'fresh-pasta'."
+  },
+  {
+    "slug": "dried-udon-noodles",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dried udon noodles",
+    "subtitle": "干しうどん, dry",
+    "keywords": [
+      "dried udon",
+      "干しうどん",
+      "乾麺",
+      "手延べうどん",
+      "ひやむぎ",
+      "そうめん",
+      "乾烏龍麵",
+      "掛麵",
+      "關廟麵",
+      "udon seco",
+      "fideos udon secos"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "years",
+          "tips": "The 全国乾麺協同組合連合会 labelling guideline tells members to print 直射日光及び高温多湿を避け保存 — keep out of direct sun, heat and damp — and to warn on-pack that dried noodles pick up strong smells, so store them away from spices, soap and detergent. Dried noodles carry no preservative; their keeping quality is entirely the low moisture."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 1,
+          "unit": "years",
+          "tips": "Reseal or decant into an airtight jar. At roughly 12% moisture they will mould or attract pantry insects in a humid kitchen."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "全国乾麺協同組合連合会 – 表示等のガイドライン（乾めん類及び手延べ干しめん）",
+        "url": "https://www.kanmen.com/standard/04_guide_201201.pdf"
+      }
+    ],
+    "analog": "pasta-dry-without-eggs",
+    "notes": "The storage rule (dark, cool, dry; odour transfer; no preservatives) is sourced from the Japanese dried-noodle federation's labelling guideline, which deliberately leaves the shelf life to each maker and prints no figure. The 2-year and 1-year numbers are borrowed from the USDA FoodKeeper entry 'pasta-dry-without-eggs'."
+  },
+  {
+    "slug": "dried-soba-noodles",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dried soba noodles",
+    "subtitle": "干しそば, dry buckwheat noodles",
+    "keywords": [
+      "dried soba",
+      "干しそば",
+      "そば乾麺",
+      "蕎麦",
+      "乾蕎麥麵",
+      "蕎麥掛麵",
+      "soba seco",
+      "fideos de trigo sarraceno secos"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "years",
+          "tips": "Same rule as other Japanese dried noodles: 直射日光及び高温多湿を避け保存. Buckwheat flour carries more oil than wheat, so a hot cupboard turns dried soba stale-smelling long before it is unsafe — buy small packs."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 1,
+          "unit": "years",
+          "tips": "Airtight, away from anything aromatic; the federation's guideline specifically warns about smell transfer."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "全国乾麺協同組合連合会 – 表示等のガイドライン（乾めん類及び手延べ干しめん）",
+        "url": "https://www.kanmen.com/standard/04_guide_201201.pdf"
+      }
+    ],
+    "analog": "pasta-dry-without-eggs",
+    "notes": "Storage rule sourced; the 2-year / 1-year numbers are borrowed from the USDA FoodKeeper entry 'pasta-dry-without-eggs'. Real dried soba is usually labelled shorter than dried udon because of the buckwheat oil, so trust the pack date if it is shorter."
+  },
+  {
+    "slug": "dried-rice-vermicelli",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Rice vermicelli, dried",
+    "subtitle": "米粉 / bee hoon, dry",
+    "keywords": [
+      "rice vermicelli",
+      "rice stick noodles",
+      "bee hoon",
+      "米粉",
+      "米粉絲",
+      "新竹米粉",
+      "炊粉",
+      "ビーフン",
+      "米粉（ビーフン）",
+      "fideos de arroz secos",
+      "vermicelli de arroz"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "years",
+          "tips": "Dried rice vermicelli is shelf-stable purely because it has been dried; keep it in the sealed bag in a dry, ventilated cupboard away from the stove. Once soaked or cooked it becomes a wet rice product and must be refrigerated."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 1,
+          "unit": "years",
+          "tips": "Reseal tightly — the strands are brittle and hygroscopic, and damp bundles mould from the inside."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "pasta-dry-without-eggs",
+    "notes": "No Taiwanese, Japanese or Hong Kong authority publishes a home shelf life for dried 米粉 that I could fetch and verify, so both figures are borrowed wholesale from the USDA FoodKeeper entry 'pasta-dry-without-eggs'. The soaked/cooked warning follows the Bacillus cereus and wet-rice-product guidance recorded under 'fresh-rice-noodles'."
+  },
+  {
+    "slug": "fresh-rice-noodles",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Fresh rice noodles",
+    "subtitle": "河粉 / 粄條 / 米苔目, wet",
+    "keywords": [
+      "fresh rice noodles",
+      "ho fun",
+      "chee cheong fun",
+      "河粉",
+      "沙河粉",
+      "粄條",
+      "米苔目",
+      "板條",
+      "濕米粉",
+      "腸粉",
+      "フォー",
+      "生ライスヌードル",
+      "ホーファン",
+      "fideos de arroz frescos",
+      "tallarines de arroz frescos"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Buy them and eat them the same day, or refrigerate immediately. Hong Kong's CFS tells consumers to keep perishable foods including fresh 河粉 and 米粉 at 4 °C or below, and Taiwan's 農業部 says wet rice products such as 粄條, 米苔目 and 蘿蔔糕 must be held below 7 °C. Never leave them out on the counter."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "The CFS says wet rice-noodle products with a shelf life beyond one day should be kept frozen through transport, storage and sale — especially in warm weather. Freezing at home works but the sheets crumble on thawing; steam them straight from frozen."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "香港食物安全中心 – 食物安全焦點：盆菜中的蠟樣芽孢桿菌",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_40_01.html"
+      },
+      {
+        "name": "香港食物安全中心 – 食物安全焦點：米酵菌酸－不常見但可致命的毒素",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_213_01.html"
+      },
+      {
+        "name": "農業部食農教育資訊整合平臺 – 南北米粉大不同，但是都超讚！",
+        "url": "https://fae.moa.gov.tw/theme_data.php?theme=topics&sub_theme=knowledge&id=4398"
+      }
+    ],
+    "analog": null,
+    "notes": "This is the most dangerous item in this batch. Two separate hazards live in wet rice noodles left at room temperature: Bacillus cereus, whose spores survive cooking and whose emetic toxin is not destroyed by reheating, and bongkrekic acid (米酵菌酸) from Burkholderia gladioli pv. cocovenenans, which the CFS says is produced when high-risk foods sit at room temperature for extended periods, particularly beyond 24 hours, and which is heat-stable and historically ~60% fatal. The CFS's own consumer advice is to eat wet rice-noodle products on the day of purchase or refrigerate them immediately; the 1-2 day figure is a conservative reading of that instruction rather than a published number."
+  },
+  {
+    "slug": "dried-glass-noodles",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Glass noodles, dried",
+    "subtitle": "冬粉 / mung bean vermicelli, dry",
+    "keywords": [
+      "glass noodles",
+      "cellophane noodles",
+      "mung bean vermicelli",
+      "冬粉",
+      "粉絲",
+      "龍口粉絲",
+      "春雨",
+      "はるさめ",
+      "緑豆春雨",
+      "fideos de cristal",
+      "fideos de soja verde",
+      "vermicelli de judía mungo"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "years",
+          "tips": "Mung-bean starch noodles are almost pure dried starch and keep for a long time in a sealed bag in a dry cupboard. Soaked or cooked they become a wet starch food and belong in the fridge."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 1,
+          "unit": "years",
+          "tips": "Reseal; the bundles are hygroscopic and go cloudy and soft in a damp kitchen."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "pasta-dry-without-eggs",
+    "notes": "No food-safety authority I could fetch publishes a home shelf life for dried 冬粉, so both figures are borrowed from the USDA FoodKeeper entry 'pasta-dry-without-eggs'. The wet-starch warning follows Hong Kong CFS guidance on wet starch products cited under 'fresh-rice-noodles'."
+  },
+  {
+    "slug": "instant-noodles",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Instant noodles",
+    "subtitle": "packet and cup",
+    "keywords": [
+      "instant noodles",
+      "instant ramen",
+      "cup noodles",
+      "泡麵",
+      "速食麵",
+      "杯麵",
+      "碗麵",
+      "即席麺",
+      "インスタントラーメン",
+      "袋めん",
+      "カップめん",
+      "カップラーメン",
+      "fideos instantáneos",
+      "ramen instantáneo",
+      "sopa instantánea"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 6,
+          "max": 8,
+          "unit": "months",
+          "tips": "Nissin sets 8 months from manufacture for packet noodles and 6 months for cup noodles. The limiting factor is the fried noodle block going rancid and the cup absorbing odours, so keep them out of sunlight and away from detergent, kerosene and strong spices — the polystyrene cup is porous to smells."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "日清食品グループ – インスタントラーメンの賞味期間について教えてください。",
+        "url": "https://www.nissin.com/jp/customer/faq/67/"
+      }
+    ],
+    "analog": null,
+    "notes": "The 6- and 8-month figures are the manufacturer's own best-before periods (Nissin), matching the industry guideline adopted by 日本即席食品工業協会 in 2013; they are quality dates, not safety limits, and they run from manufacture rather than from purchase. No national food-safety agency publishes a figure for instant noodles."
+  },
+  {
+    "slug": "wonton-wrappers",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Wonton wrappers",
+    "subtitle": "fresh, refrigerated",
+    "keywords": [
+      "wonton wrappers",
+      "wonton skins",
+      "餛飩皮",
+      "雲吞皮",
+      "扁食皮",
+      "ワンタンの皮",
+      "雲呑の皮",
+      "masa para wonton",
+      "obleas de wonton"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "A stack of wonton wrappers is fresh wheat dough dusted with starch — treat it exactly like fresh pasta. Keep it sealed and flat at the back of the fridge; the outer sheets dry out and crack within hours of the pack being opened."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freeze in the original sleeve inside a bag. Thaw the whole block in the fridge overnight — peeling frozen sheets apart tears them."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "fresh-pasta",
+    "notes": "No food-safety authority publishes a timeline for wonton wrappers. Both figures are borrowed from the USDA FoodKeeper entry 'fresh-pasta', which is the same food in a different shape: fresh unleavened wheat dough. A sealed commercial pack carries its own printed date, usually longer, and that should win."
+  },
+  {
+    "slug": "dumpling-wrappers",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dumpling wrappers",
+    "subtitle": "fresh gyoza / jiaozi skins, refrigerated",
+    "keywords": [
+      "dumpling wrappers",
+      "gyoza wrappers",
+      "jiaozi skins",
+      "水餃皮",
+      "餃子皮",
+      "蛋餃皮",
+      "ぎょうざの皮",
+      "餃子の皮",
+      "masa para gyoza",
+      "obleas para empanadillas chinas"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Fresh wheat dough rounds. Keep the stack sealed and lying flat; once air reaches them the edges dry and will not seal. A dried edge is a quality problem — a slimy or sour-smelling stack is a safety one, so discard it."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freeze flat in the sleeve. Thaw in the fridge, still wrapped, so condensation does not glue the sheets together."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "fresh-pasta",
+    "notes": "Both figures are borrowed from the USDA FoodKeeper entry 'fresh-pasta'; no agency publishes a figure for dumpling skins. A sealed supermarket pack will carry its own, usually longer, printed date — follow that instead."
+  },
+  {
+    "slug": "spring-roll-wrappers",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Spring roll wrappers",
+    "subtitle": "wheat sheets, fresh or frozen",
+    "keywords": [
+      "spring roll wrappers",
+      "spring roll pastry",
+      "lumpia wrappers",
+      "春捲皮",
+      "潤餅皮",
+      "薄餅皮",
+      "春巻きの皮",
+      "ハルマキの皮",
+      "obleas para rollitos de primavera",
+      "masa para lumpia"
+    ],
+    "storage": {
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 2,
+          "unit": "months",
+          "tips": "These are sold frozen because the paper-thin sheets stale within hours at room temperature. Keep the block sealed; freezer burn shows up as brittle, opaque patches that tear when you roll."
+        },
+        "afterThawing": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Thaw the sealed pack in the fridge, not on the counter, and keep the sheets under a damp cloth once opened. Do not refreeze thawed sheets — they turn to paste."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "fresh-pasta",
+    "notes": "Both figures are borrowed from the USDA FoodKeeper entry 'fresh-pasta'. Note that rice-paper wrappers (bánh tráng) are a different, fully dried product that keeps for months in the pantry — this record is for the fresh or frozen wheat sheets used for fried 春捲 and 潤餅."
+  },
+  {
+    "slug": "frozen-dumplings",
+    "category": "frozen-foods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Frozen dumplings",
+    "subtitle": "水餃 / gyoza, raw",
+    "keywords": [
+      "frozen dumplings",
+      "frozen gyoza",
+      "frozen potstickers",
+      "冷凍水餃",
+      "水餃",
+      "冷凍餃子",
+      "冷凍ぎょうざ",
+      "餃子",
+      "empanadillas chinas congeladas",
+      "gyoza congelado"
+    ],
+    "storage": {
+      "freezer": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Keep the bag at -18 °C or below, deep in the freezer rather than in the door, and do not overfill the cabinet — crowding blocks airflow and lets the temperature drift."
+        }
+      },
+      "fridge": {
+        "afterThawing": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Do not thaw dumplings on the counter: the surface climbs into the 7-60 °C danger zone while the middle is still frozen, which the TFDA names as the biggest risk in home thawing. Boil or pan-fry straight from frozen, or thaw in the fridge and cook the same day. Never refreeze thawed raw dumplings."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "衛生福利部食品藥物管理署 – 電子報：冷凍肉品的保存與解凍",
+        "url": "https://www.fda.gov.tw/tc/PublishOtherEpaperContent.aspx?id=1568&tid=5216"
+      }
+    ],
+    "analog": "frozen-entrees-prepared-meals",
+    "notes": "The thawing rules (fridge, cold water changed every 30 minutes, or microwave then cook at once; never counter-thaw, never refreeze) are sourced from the TFDA e-paper, which is written about frozen meat and applies to raw meat-filled dumplings by the same logic. The 12-month figure is borrowed from the USDA FoodKeeper entry 'frozen-entrees-prepared-meals'; a commercial bag carries its own printed date. Home-frozen dumplings dry out and crack long before 12 months, so double-bag them."
+  },
+  {
+    "slug": "steamed-buns-baozi",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Steamed buns",
+    "subtitle": "包子, filled, cooked",
+    "keywords": [
+      "steamed buns",
+      "baozi",
+      "pork buns",
+      "char siu bao",
+      "包子",
+      "肉包",
+      "菜包",
+      "叉燒包",
+      "中華まん",
+      "肉まん",
+      "あんまん",
+      "panecillos al vapor",
+      "bollos chinos al vapor"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Do not leave filled buns out. TFDA’s rule is that cooked food is either eaten promptly or held above 60 °C; a bun cooling slowly on the counter sits in the growth range for Bacillus cereus and Staphylococcus aureus at once."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "A cooked filled bun is a starchy food with a meat or vegetable centre — the combination Bacillus cereus favours. TFDA allows short refrigerated storage of two days or less at 5 °C or below, and requires freezing for anything longer. Steam back to a genuinely hot centre, never lukewarm."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 3,
+          "max": 5,
+          "unit": "months",
+          "tips": "Cool completely, wrap each bun, then freeze. Steam from frozen for 12-15 minutes; microwaving from frozen leaves a cold core."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "衛生福利部食品藥物管理署 – 各類食品中毒原因介紹：仙人掌桿菌 (Bacillus cereus)",
+        "url": "https://www.fda.gov.tw/tc/sitecontent.aspx?sid=1938"
+      }
+    ],
+    "analog": "commercial-bread-products-including-pan-breads-flat-breads-rolls",
+    "notes": "The refrigeration rule (≤5 °C, two days, freeze beyond) and the 60 °C hot-holding rule are directly sourced from TFDA's Bacillus cereus page, which names 米飯類和澱粉類製品 as the emetic-type risk foods and notes the spores survive cooking. The 3-5 month freezer figure is borrowed from the USDA FoodKeeper entry for commercial bread products; no agency publishes one for baozi."
+  },
+  {
+    "slug": "mantou",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Mantou",
+    "subtitle": "饅頭, plain steamed bread",
+    "keywords": [
+      "mantou",
+      "steamed bread",
+      "plain steamed bun",
+      "饅頭",
+      "刈包",
+      "花捲",
+      "マントウ",
+      "蒸しパン",
+      "中華蒸しパン",
+      "pan al vapor chino"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 1,
+          "max": 1,
+          "unit": "days",
+          "tips": "Unfilled mantou is safer than a filled bun, but it is still a moist, unpreserved steamed bread and moulds within a day or two in a warm kitchen. Keep it loosely covered and eat it the day it is steamed."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Refrigeration is the worst option. Wheat starch retrogrades fastest at ordinary fridge temperatures, so a chilled mantou goes hard and crumbly while gaining little in safety. Freeze instead."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 3,
+          "max": 5,
+          "unit": "months",
+          "tips": "Cool fully, bag individually, freeze. Steam from frozen for about 10 minutes — the texture comes back almost perfectly, which is why commercial mantou is sold frozen."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "commercial-bread-products-including-pan-breads-flat-breads-rolls",
+    "notes": "Wholly by analogue. The freezer figure is read across unchanged from the USDA FoodKeeper entry for commercial bread products; the pantry figure is that entry shortened hard, because mantou contains no preservative and far more water than pan bread — treat 1 day as a judgement call, not a measurement. The staling-in-the-fridge point is ordinary starch retrogradation, not a cited safety finding. No Chinese-language authority I could fetch publishes a home timeline for mantou."
+  },
+  {
+    "slug": "zongzi",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Zongzi",
+    "subtitle": "粽子, cooked glutinous rice parcels",
+    "keywords": [
+      "zongzi",
+      "sticky rice dumpling",
+      "bak chang",
+      "粽子",
+      "肉粽",
+      "鹼粽",
+      "粿粽",
+      "ちまき",
+      "中華ちまき",
+      "tamal chino"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Hanging a bundle of zongzi in the kitchen is the traditional habit and the dangerous one. Get them into the fridge or freezer as soon as they stop steaming."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Glutinous rice packed around fatty pork and egg yolk is a textbook Bacillus cereus food. TFDA caps refrigerated storage of cooked starchy food at about two days at 5 °C or below; beyond that it must go in the freezer."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "TFDA says to move uneaten zongzi into the freezer at -18 °C or below as quickly as possible, but also warns against leaving them there too long if you want the original flavour. Thaw in the fridge, then steam or microwave until the centre is genuinely hot — a zongzi reheated only on the outside is the classic post-Dragon-Boat-Festival poisoning."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "衛生福利部食品藥物管理署 – 食藥闢謠專區：聽說粽子冰在冷凍，可以存放很久，這是真的嗎？",
+        "url": "https://www.fda.gov.tw/tc/newsContent.aspx?cid=5049&id=26189"
+      },
+      {
+        "name": "衛生福利部食品藥物管理署 – 各類食品中毒原因介紹：仙人掌桿菌 (Bacillus cereus)",
+        "url": "https://www.fda.gov.tw/tc/sitecontent.aspx?sid=1938"
+      }
+    ],
+    "analog": "cooked-rice",
+    "notes": "The freezing rule (-18 °C, promptly, thaw in the fridge then reheat through) is sourced from TFDA's myth-busting page, and the ≤5 °C / two-day refrigeration cap from TFDA's Bacillus cereus page. Neither publishes a number of months, so the 6-month freezer figure is borrowed from the USDA FoodKeeper entry 'cooked-rice'. Home-wrapped zongzi are usually best eaten well inside that."
+  },
+  {
+    "slug": "mochi",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Mochi",
+    "subtitle": "freshly pounded, unpackaged",
+    "keywords": [
+      "mochi",
+      "pounded rice cake",
+      "麻糬",
+      "搗麻糬",
+      "餅",
+      "つきたて餅",
+      "鏡餅",
+      "のし餅",
+      "pastel de arroz glutinoso"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "MAFF does not recommend room-temperature storage for unwrapped or homemade mochi at all — it moulds, and mould on mochi runs deeper than the fuzzy patch you can see. Freshly pounded mochi is a same-day food."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "MAFF’s traditional answer is 水餅: submerge the mochi in room-temperature water in a lidded container, keep it in the fridge or a cool dark place, and change the water every single day. Skip a day and it goes cloudy and sour."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "MAFF’s recommended long-term method: wrap each piece individually in film, seal in a freezer bag, freeze. Let it soften a little at room temperature before grilling or boiling."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "農林水産省 – 正月に余った餅の食べ方・保存法（aff）",
+        "url": "https://www.maff.go.jp/j/pr/aff/2001/spe2_04.html"
+      }
+    ],
+    "analog": "cooked-rice",
+    "notes": "The three rules — no room temperature for unwrapped mochi, the 水餅 water method with a daily water change, and individual wrapping before freezing — are all directly sourced from MAFF, which publishes no durations. The 6-month freezer figure is borrowed from the USDA FoodKeeper entry 'cooked-rice'; mochi is pounded cooked glutinous rice, so that is the closest read-across available."
+  },
+  {
+    "slug": "kirimochi",
+    "category": "shelf-stable",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Kirimochi",
+    "subtitle": "切り餅, individually wrapped rice cakes",
+    "keywords": [
+      "kirimochi",
+      "packaged mochi",
+      "rice cake blocks",
+      "切り餅",
+      "角餅",
+      "丸餅",
+      "個包装餅",
+      "包裝年糕",
+      "日式年糕塊",
+      "mochi envasado"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Individually wrapped kirimochi is sealed with an oxygen absorber, which is the whole preservation system — MAFF lists unopened 切り餅 among the household stockpile foods that keep well. Store cool and dark and go by the printed date; a punctured or puffed pack is finished."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Once a piece is unwrapped it behaves like fresh mochi and will mould. Either cook it or freeze it; MAFF’s 水餅 method — submerged in water, water changed daily — also works for opened pieces."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Wrap opened pieces individually and freeze; grill or boil after a short rest at room temperature."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "農林水産省 – お餅で備蓄！",
+        "url": "https://www.maff.go.jp/j/zyukyu/foodstock/imadoki/imadoki02_12.html"
+      },
+      {
+        "name": "農林水産省 – 正月に余った餅の食べ方・保存法（aff）",
+        "url": "https://www.maff.go.jp/j/pr/aff/2001/spe2_04.html"
+      }
+    ],
+    "analog": "cooked-rice",
+    "notes": "MAFF confirms unopened individually wrapped kirimochi keeps well enough to serve as a rolling-stock emergency food but publishes no figure, so the pantry entry is deliberately tips-only and defers to the printed date. The 6-month freezer figure is borrowed from the USDA FoodKeeper entry 'cooked-rice'."
+  },
+  {
+    "slug": "tteok-rice-cake",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Rice cake",
+    "subtitle": "年糕 / tteok, fresh or vacuum-packed",
+    "keywords": [
+      "rice cake",
+      "tteok",
+      "tteokbokki rice cakes",
+      "garaetteok",
+      "年糕",
+      "寧波年糕",
+      "蘿蔔糕",
+      "トック",
+      "韓国餅",
+      "pastel de arroz coreano",
+      "tteokbokki"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Not a pantry food once opened, however firm it feels. Unopened retort or vacuum packs follow their own printed date."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Loose or freshly sliced rice cake is a wet rice product: Taiwan’s 農業部 says wet rice foods such as 粄條, 米苔目 and 蘿蔔糕 must be held at 7 °C or below, and TFDA caps refrigerated storage of cooked starchy food at about two days."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Freeze in single portions. Drop the pieces straight into boiling water or sauce from frozen; thawing on the counter makes them gummy outside and hard in the middle."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "農業部食農教育資訊整合平臺 – 南北米粉大不同，但是都超讚！",
+        "url": "https://fae.moa.gov.tw/theme_data.php?theme=topics&sub_theme=knowledge&id=4398"
+      },
+      {
+        "name": "衛生福利部食品藥物管理署 – 各類食品中毒原因介紹：仙人掌桿菌 (Bacillus cereus)",
+        "url": "https://www.fda.gov.tw/tc/sitecontent.aspx?sid=1938"
+      }
+    ],
+    "analog": "cooked-rice",
+    "notes": "The ≤7 °C rule for wet rice products is sourced from 農業部's food-education platform, and the two-day refrigerated cap for cooked starchy food from TFDA. The 6-month freezer figure is borrowed from the USDA FoodKeeper entry 'cooked-rice'."
+  },
+  {
+    "slug": "frozen-tangyuan",
+    "category": "frozen-foods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Tangyuan, frozen",
+    "subtitle": "湯圓 / 元宵, uncooked",
+    "keywords": [
+      "tangyuan",
+      "frozen tangyuan",
+      "glutinous rice balls",
+      "yuanxiao",
+      "湯圓",
+      "元宵",
+      "冷凍湯圓",
+      "芝麻湯圓",
+      "白玉",
+      "団子",
+      "冷凍白玉",
+      "bolas de arroz glutinoso",
+      "tangyuan congelado",
+      "しらたま",
+      "だんご",
+      "タンユエン"
+    ],
+    "storage": {
+      "freezer": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "TFDA’s festival advice is blunt: refrigerate or freeze, and never let them stand in the 7-60 °C range. Keep the bag at -18 °C or below and cook straight from frozen — thawed tangyuan collapse and the filling leaks out."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Only for a short wait before cooking. Cook the centre above 70 °C and keep boiling for 1-2 minutes after they float. Cooked tangyuan are a wet starch food — eat them hot and refrigerate leftovers below 5 °C for no more than a couple of days."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "衛生福利部食品藥物管理署 – 元宵湯圓購買攻略，呷安心顧健康",
+        "url": "https://www.fda.gov.tw/tc/newsContent.aspx?cid=4&id=t623415"
+      },
+      {
+        "name": "衛生福利部食品藥物管理署 – 各類食品中毒原因介紹：仙人掌桿菌 (Bacillus cereus)",
+        "url": "https://www.fda.gov.tw/tc/sitecontent.aspx?sid=1938"
+      }
+    ],
+    "analog": "frozen-entrees-prepared-meals",
+    "notes": "The storage-temperature rule (refrigerate or freeze, avoid 7-60 °C) and the cooking rule (centre above 70 °C, 1-2 minutes more after they float) are directly sourced from TFDA. The 12-month freezer figure is borrowed from the USDA FoodKeeper entry 'frozen-entrees-prepared-meals'; a commercial bag carries its own printed date, which should win."
+  },
+  {
+    "slug": "glutinous-rice",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Glutinous rice",
+    "subtitle": "糯米, dry grain",
+    "keywords": [
+      "glutinous rice",
+      "sticky rice",
+      "sweet rice",
+      "糯米",
+      "圓糯米",
+      "長糯米",
+      "長糯",
+      "もち米",
+      "餅米",
+      "arroz glutinoso",
+      "arroz glutinoso seco"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "years",
+          "tips": "Store like any other dry rice: airtight, cool, dark and dry. Glutinous rice is higher in the amylopectin that makes it sticky and lower in amylose, but for storage purposes it behaves like white rice. Rice weevils get in through paper sacks — decant into a sealed container."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 1,
+          "unit": "years",
+          "tips": "Once open, seal it. A musty smell means mould; do not wash it and use it anyway."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "A cool larder or the fridge slows down both insects and the slow staling of the grain, which matters more in a humid summer."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "rice-white-wild",
+    "notes": "Wholly by analogue: all three figures are read across unchanged from the USDA FoodKeeper entry 'rice-white-wild'. No Asian authority I could fetch publishes a separate home shelf life for dry 糯米, and there is no reason to expect it to differ from white rice."
+  },
+  {
+    "slug": "cooked-glutinous-rice",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sticky rice, cooked",
+    "subtitle": "油飯 / 糯米飯 / 赤飯",
+    "keywords": [
+      "cooked sticky rice",
+      "cooked glutinous rice",
+      "youfan",
+      "油飯",
+      "糯米飯",
+      "收涎油飯",
+      "筒仔米糕",
+      "おこわ",
+      "赤飯",
+      "もち米ごはん",
+      "arroz glutinoso cocido"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "This is the single most common Bacillus cereus vehicle. Spores survive the steamer, and a bowl of oily sticky rice cooling slowly on the counter is exactly the 25-30 °C window in which the emetic toxin forms — a toxin that reheating will not destroy. TFDA and MAFF both say cooked rice dishes must go above 60 °C or into the fridge, not sit out."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Spread it out in a shallow container so it chills fast rather than sitting warm in a deep pot, and get it to 5 °C or below. TFDA allows two days at most in the fridge; beyond that it must be frozen."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Portion while still warm-ish, wrap tightly, freeze quickly. Steam or microwave from frozen — the texture survives freezing far better than refrigeration."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "衛生福利部食品藥物管理署 – 各類食品中毒原因介紹：仙人掌桿菌 (Bacillus cereus)",
+        "url": "https://www.fda.gov.tw/tc/sitecontent.aspx?sid=1938"
+      },
+      {
+        "name": "農林水産省 – セレウス菌（細菌）[Bacillus cereus]",
+        "url": "https://www.maff.go.jp/j/syouan/seisaku/foodpoisoning/f_encyclopedia/bacillus.cereus.html"
+      },
+      {
+        "name": "香港食物安全中心 – 食物安全焦點：盆菜中的蠟樣芽孢桿菌",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_40_01.html"
+      }
+    ],
+    "analog": "cooked-rice",
+    "notes": "The refrigeration rule (≤5 °C for two days at most, freeze beyond) comes from TFDA's Bacillus cereus page; MAFF adds that rice and noodle dishes should be divided into small portions and refrigerated or frozen promptly, and that large batches should not be cooked and held; the CFS gives the optimal growth range of 30-37 °C and the advice to shorten cooling time with shallow containers. The 6-month freezer figure is borrowed from the USDA FoodKeeper entry 'cooked-rice'."
+  },
+  {
+    "slug": "congee",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Congee",
+    "subtitle": "粥, cooked rice porridge",
+    "keywords": [
+      "congee",
+      "rice porridge",
+      "jook",
+      "粥",
+      "稀飯",
+      "清粥",
+      "廣東粥",
+      "地瓜粥",
+      "おかゆ",
+      "お粥",
+      "雑炊",
+      "gachas de arroz",
+      "congee"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "A big pot of congee left to cool slowly on the stove is a classic Bacillus cereus incubator — it is starchy, wet and cools from the outside in, so the middle stays warm for hours. Decant into shallow containers and refrigerate; do not leave the pot out overnight."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "TFDA allows cooked starchy food two days at most at 5 °C or below, and anything longer must be frozen. Reheat to a rolling boil, not just warm — though note that boiling kills the bacteria and not the emetic toxin they may already have made."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Freezes well in single portions; the texture thins on thawing, so reheat and reduce."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "衛生福利部食品藥物管理署 – 各類食品中毒原因介紹：仙人掌桿菌 (Bacillus cereus)",
+        "url": "https://www.fda.gov.tw/tc/sitecontent.aspx?sid=1938"
+      },
+      {
+        "name": "香港食物安全中心 – 食物安全焦點：盆菜中的蠟樣芽孢桿菌",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_40_01.html"
+      }
+    ],
+    "analog": "cooked-rice",
+    "notes": "The two-day / ≤5 °C / freeze-beyond rule is sourced from TFDA, and the cooling advice (shallow containers, shorten cooling time, hold hot food above 60 °C and cold food at or below 4 °C) from Hong Kong's CFS. The 6-month freezer figure is borrowed from the USDA FoodKeeper entry 'cooked-rice'."
+  },
+  {
+    "slug": "onigiri",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Onigiri",
+    "subtitle": "おにぎり, rice balls",
+    "keywords": [
+      "onigiri",
+      "rice ball",
+      "musubi",
+      "おにぎり",
+      "おむすび",
+      "握り飯",
+      "御飯糰",
+      "飯糰",
+      "日式飯糰",
+      "bola de arroz japonesa",
+      "onigiri"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Treat onigiri as same-day food and keep it cool. MAFF’s bento guidance is to shape rice with cling film or disposable gloves rather than bare hands (Staphylococcus aureus lives on skin and its toxin is heat-stable), to let the rice cool completely before packing so steam does not condense inside, and to carry the box with an ice pack in warm weather."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 1,
+          "unit": "days",
+          "tips": "MHLW’s hygiene guide for school-meal rice says cooked rice must not be carried over past the day it was cooked, and that rice held after cooking goes above 55 °C or below 8 °C, for as short a time as possible. Refrigeration makes the rice hard; wrap tightly and let it come back to room temperature, or microwave it."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "農林水産省 – お弁当づくりによる食中毒を予防するために",
+        "url": "https://www.maff.go.jp/j/syouan/seisaku/foodpoisoning/lunchbox.html"
+      },
+      {
+        "name": "厚生労働省 – HACCPの考え方を取り入れた学校給食米飯の製造における食品衛生管理の手引書",
+        "url": "https://www.mhlw.go.jp/content/11135000/000751877.pdf"
+      }
+    ],
+    "analog": null,
+    "notes": "Both entries are rule-based rather than borrowed. The one-day fridge figure is MHLW's own instruction for cooked rice (炊飯後の米飯は、翌日以降に持ち越さないようにします) applied to onigiri; that guide is written for school-meal producers, so it is if anything stricter than a home kitchen needs. Convenience-store onigiri carries its own printed 消費期限 — follow that, it is usually well under a day."
+  },
+  {
+    "slug": "sushi-rice-cooked",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sushi rice, cooked",
+    "subtitle": "酢飯 / seasoned vinegared rice",
+    "keywords": [
+      "sushi rice",
+      "vinegared rice",
+      "shari",
+      "酢飯",
+      "すし飯",
+      "シャリ",
+      "醋飯",
+      "壽司飯",
+      "arroz para sushi",
+      "arroz avinagrado"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "The vinegar is a control measure, not a decoration. Hong Kong’s CFS requires sushi rice to be acidified to pH 4.6 or below, which holds back Bacillus cereus and Staphylococcus aureus while the rice sits at working temperature. Properly acidified rice may be held at room temperature for a working session, but unacidified rice may not."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 1,
+          "unit": "days",
+          "tips": "MHLW’s guide for school-meal rice — which explicitly covers rice with vinegar or other ingredients mixed in after cooking — says cooked rice must not be carried over past the day it was made, and that stored rice goes above 55 °C or below 8 °C for as short a time as possible. Chilled sushi rice goes hard and crumbly; let it warm up before use."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "香港食物安全中心 – 食物安全重點控制系統：製作壽司及刺身",
+        "url": "https://www.cfs.gov.hk/tc_chi/programme/programme_haccp/programme_haccp_making.html"
+      },
+      {
+        "name": "厚生労働省 – HACCPの考え方を取り入れた学校給食米飯の製造における食品衛生管理の手引書",
+        "url": "https://www.mhlw.go.jp/content/11135000/000751877.pdf"
+      }
+    ],
+    "analog": null,
+    "notes": "Both the pH 4.6 requirement and the one-day limit are directly sourced; no number is borrowed. The MHLW guide is written for commercial school-meal rice producers, which makes it a conservative but defensible reading for home sushi rice."
+  },
+  {
+    "slug": "sushi-sashimi-prepared",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sushi and sashimi",
+    "subtitle": "prepared, ready to eat",
+    "keywords": [
+      "sushi",
+      "sashimi",
+      "raw fish",
+      "寿司",
+      "刺身",
+      "にぎり寿司",
+      "生魚片",
+      "壽司",
+      "生魚",
+      "sushi",
+      "sashimi",
+      "pescado crudo"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Hong Kong’s CFS requires displayed sashimi to be held at 4 °C or below and frozen fish to be thawed in a 0-4 °C refrigerator. Its holding rule for prepared sushi is by elapsed time above 4 °C: under 2 hours it may be returned to the fridge or eaten within 4 hours; between 2 and 4 hours it must be eaten within 4 hours total and cannot go back in the fridge; over 4 hours it must be discarded."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Do not freeze finished sushi — the rice turns to chalk. Freezing is a parasite-control step applied to the fish before it is cut: CFS gives -20 °C or below for seven days, or about -35 °C for twenty hours, to kill parasites in fish intended to be eaten raw."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "香港食物安全中心 – 食物安全重點控制系統：製作壽司及刺身",
+        "url": "https://www.cfs.gov.hk/tc_chi/programme/programme_haccp/programme_haccp_making.html"
+      }
+    ],
+    "analog": null,
+    "notes": "Deliberately number-free on the storage side: the honest answer for prepared sushi is a clock that starts when it leaves refrigeration, not a shelf life. Everything here is directly sourced from the CFS's HACCP guidance for sushi and sashimi preparation. The parasite-freezing figures are process controls for the fish, not home storage advice."
+  },
+  {
+    "slug": "pork-floss",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Pork floss",
+    "subtitle": "肉鬆, dried shredded meat",
+    "keywords": [
+      "pork floss",
+      "meat floss",
+      "rousong",
+      "肉鬆",
+      "肉酥",
+      "魚鬆",
+      "雞肉鬆",
+      "肉でんぶ",
+      "でんぶ",
+      "田麩",
+      "hebra de cerdo seca",
+      "carne deshilachada seca"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Sealed commercial pork floss is shelf-stable because it is dried and often fried; heat and light turn the fat rancid, so keep the jar cool and dark rather than beside the stove. Always use a dry spoon — one damp spoonful will mould the whole jar."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "After opening, an airtight container in the fridge keeps the fat from going rancid and keeps humidity out. If it clumps, darkens or smells like old oil, throw it out."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "jerky-commercially-dried",
+    "notes": "Wholly by analogue. Both figures are read across unchanged from the USDA FoodKeeper entry 'jerky-commercially-dried', which is the closest match available: a dried, low-water-activity cooked meat product. I could not fetch a Taiwanese or Hong Kong authority that publishes a home shelf life for 肉鬆; a commercial jar's own printed date should always take precedence."
+  },
+  {
+    "slug": "dry-tapioca-pearls",
+    "category": "shelf-stable",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Tapioca pearls, dry",
+    "subtitle": "生粉圓, uncooked",
+    "keywords": [
+      "tapioca pearls",
+      "boba",
+      "dry tapioca pearls",
+      "粉圓",
+      "生粉圓",
+      "珍珠",
+      "波霸",
+      "タピオカ",
+      "タピオカパール",
+      "乾燥タピオカ",
+      "perlas de tapioca",
+      "perlas de tapioca secas"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Uncooked pearls are dried cassava starch and keep well sealed in a dry cupboard. They harden and crack with age — old pearls never soften properly no matter how long you boil them, which is a texture failure rather than a safety one."
+        },
+        "afterOpening": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Reseal tightly; damp pearls fuse into a solid lump and can mould."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "tapiocas",
+    "notes": "Both figures are read across unchanged from the USDA FoodKeeper entry 'tapiocas' (dry tapioca), which is the same ingredient in a different granulation. No Asian authority publishes a separate figure for 生粉圓."
+  },
+  {
+    "slug": "cooked-tapioca-pearls",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Tapioca pearls, cooked",
+    "subtitle": "熟珍珠, in syrup",
+    "keywords": [
+      "cooked tapioca pearls",
+      "boba",
+      "bubble tea pearls",
+      "熟珍珠",
+      "珍珠",
+      "粉圓",
+      "波霸",
+      "タピオカ",
+      "ゆでタピオカ",
+      "perlas de tapioca cocidas",
+      "boba"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Cooked pearls sitting in warm syrup on a counter are a wet cooked starch — the same Bacillus cereus risk as cooked rice, and the emetic toxin they can produce is not destroyed by reheating. Shops keep a batch for a few hours at most for texture reasons; that is not a food-safety allowance for a home pot left out all afternoon."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "TFDA caps refrigerated storage of cooked starchy food at about two days at 5 °C or below. Be aware that the pearls go hard and cloudy in the fridge within hours — cook what you will drink."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "衛生福利部食品藥物管理署 – 各類食品中毒原因介紹：仙人掌桿菌 (Bacillus cereus)",
+        "url": "https://www.fda.gov.tw/tc/sitecontent.aspx?sid=1938"
+      },
+      {
+        "name": "香港食物安全中心 – 食物安全焦點：盆菜中的蠟樣芽孢桿菌",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_40_01.html"
+      }
+    ],
+    "analog": null,
+    "notes": "The two-day / ≤5 °C limit is TFDA's rule for cooked starchy foods, applied here; the CFS supplies the Bacillus cereus growth range (optimum 30-37 °C, toxin production stopping below 10 °C) and the hot-above-60 °C / cold-below-4 °C rule. No number is borrowed. There is no honest freezer entry: frozen and thawed tapioca pearls are inedible."
+  },
+  {
+    "slug": "grass-jelly",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Grass jelly",
+    "subtitle": "仙草凍, set",
+    "keywords": [
+      "grass jelly",
+      "leaf jelly",
+      "xiancao",
+      "仙草",
+      "仙草凍",
+      "燒仙草",
+      "愛玉",
+      "愛玉凍",
+      "仙草ゼリー",
+      "グラスゼリー",
+      "jalea de hierba",
+      "gelatina de hierba china"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Taiwan’s 農業部 advice for 仙草凍 and 愛玉 is to buy only what you will finish at one sitting, and if you must refrigerate it, not to keep it more than two days — sealed, lidded, and on the top shelf so drips from other food cannot land on it. These jellies are almost entirely water with no acid and no salt, so they have nothing to hold bacteria back."
+        }
+      },
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Set jelly is not a pantry food. Unopened canned or retort grass jelly is, and follows its own printed date; once opened it becomes the fridge case above."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Freezing destroys it — the gel ruptures and drains into water on thawing."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "農業知識入口網（農業部）– 健康網：吃了好消暑！愛玉、仙草凍製作秘訣大公開",
+        "url": "https://kmweb.moa.gov.tw/subject/news.php?id=2805&news_id=70523"
+      }
+    ],
+    "analog": null,
+    "notes": "The two-day refrigerated limit, the sealed-and-top-shelf instruction and the buy-small advice are all directly sourced from 農業部's 農業知識入口網. The same page covers 愛玉 (fig jelly) on identical terms, which is why it is in the keywords."
+  },
+  {
+    "slug": "fresh-soy-milk",
+    "category": "beverages",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Soy milk, freshly made",
+    "subtitle": "豆漿, shop-made or homemade",
+    "keywords": [
+      "fresh soy milk",
+      "soya milk",
+      "doujiang",
+      "豆漿",
+      "現磨豆漿",
+      "無糖豆漿",
+      "鹹豆漿",
+      "豆乳",
+      "成分無調整豆乳",
+      "leche de soja fresca",
+      "bebida de soja",
+      "とうにゅう",
+      "ソイミルク"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 1,
+          "unit": "days",
+          "tips": "Hong Kong’s CFS notes that shop-made soy milk has a short shelf life and advises clearing stock within one day of production; consumers should drink it promptly or refrigerate it at once at 4 °C or below. Soy milk is a low-acid, high-protein liquid — Bacillus cereus spores survive the boil and grow if it cools slowly."
+        }
+      },
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "The CFS cooling rule for hot soy milk that is going to be served cold: down to 20 °C within 2 hours, then to 4 °C within a further 4 hours or less. Soy milk kept for hot drinking must stay above 60 °C. Anything in between is the growth range — a jug of warm 豆漿 on the counter is a genuine hazard, not a nostalgia."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Freezing splits it. The protein and the water separate and no amount of shaking brings it back; use it in cooking if you have frozen some."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "香港食物安全中心 – 食物安全焦點：豆漿中的蠟樣芽孢桿菌",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_174_01.html"
+      }
+    ],
+    "analog": null,
+    "notes": "Everything here is directly sourced from the CFS's Bacillus cereus in soy milk feature. Note this record is for freshly made 豆漿 only — cartoned UHT and chilled retail soy milk is already covered by the USDA FoodKeeper entries 'soy-milk' and 'milk-shelf-stable', which give 7-10 days after opening."
+  },
+  {
+    "slug": "douhua",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Douhua",
+    "subtitle": "豆花 / tofu pudding, fresh",
+    "keywords": [
+      "douhua",
+      "tofu pudding",
+      "tofu fa",
+      "soy pudding",
+      "豆花",
+      "豆腐花",
+      "豆腐腦",
+      "嫩豆花",
+      "おぼろ豆腐",
+      "豆花（トウファ）",
+      "flan de soja",
+      "pudín de tofu"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Douhua is soy milk set with a coagulant and nothing else — no acid, no salt, no preservative — so it inherits soy milk’s risk profile. The CFS tells shops selling their own soy milk to clear stock within a day of production and consumers to refrigerate it at 4 °C or below immediately. Keep the syrup separate; a bowl already sweetened and topped will not keep."
+        }
+      },
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Not a counter food. Hot douhua may be held above 60 °C; cold douhua must be at 4 °C or below. The gap between the two is where Bacillus cereus grows, and the spores survive the boiling of the soy milk."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Freezing wrecks the curd — it turns spongy and weeps. This is deliberate in 凍豆腐 but ruins douhua."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "香港食物安全中心 – 食物安全焦點：豆漿中的蠟樣芽孢桿菌",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_174_01.html"
+      },
+      {
+        "name": "農業部食農教育資訊整合平臺 – 豆花凝膠機制的介紹",
+        "url": "https://fae.moa.gov.tw/theme_data.php?theme=topics&sub_theme=knowledge&id=3484"
+      }
+    ],
+    "analog": null,
+    "notes": "The temperature rules (≤4 °C cold, ≥60 °C hot, clear shop-made stock within a day of production) are sourced from the CFS soy-milk feature and applied to douhua, which 農業部's food-education platform confirms is simply hot soy milk poured onto a coagulant. The 1-2 day range is a conservative reading of the CFS's one-day production-clearance advice rather than a published douhua figure. 'Tofu pudding' and 豆腐腦 are the same food and are in the keywords."
+  }
+]

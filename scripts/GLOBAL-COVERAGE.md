@@ -53,7 +53,7 @@ fish balls (魚丸), meat balls (貢丸), fish cake/kamaboko, chikuwa, surimi st
 dried shrimp (蝦米), dried anchovies (小魚乾), dried scallop (干貝), bonito flakes
 (かつお節), salted fish, mullet roe (烏魚子), cod roe/mentaiko, ikura, uni
 
-## Batch D — Asian staples, noodles and prepared foods
+## Batch D — Asian staples, noodles and prepared foods  ✅ DONE → src/data/base/extra/d-asian-staples.json (32 items)
 
 fresh ramen noodles, fresh udon, dried udon, soba dried, soba fresh, rice
 vermicelli dry (米粉), rice noodles fresh (河粉), glass noodles (冬粉), instant
