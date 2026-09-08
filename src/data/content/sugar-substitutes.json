@@ -1,0 +1,107 @@
+{
+  "slug": "sugar-substitutes",
+  "en": {
+    "name": "Sugar substitutes",
+    "aliases": ["artificial sweetener", "stevia", "sucralose", "aspartame", "erythritol"],
+    "summary": "Sugar substitutes include tabletop sweeteners such as sucralose, aspartame, stevia and sugar alcohols like erythritol, sold as sachets, tablets or granules. Stored sealed in a cool, dry cupboard they keep about 2 years from the date of purchase. They do not spoil in a microbial sense, but some lose sweetness over time.",
+    "pantry": "Keep sachets, tablets and tubs in a cool, dry cupboard away from the stove and any steam; they keep about 2 years from purchase. Aspartame in particular loses sweetness with heat and humidity, so a hot cupboard above the cooker shortens its useful life noticeably. Decant loose granules into an airtight jar and keep sachets in a closed box.",
+    "fridge": "Refrigeration is not needed and risks condensation that clumps granulated sweeteners. Liquid stevia drops and some liquid concentrates may say refrigerate after opening on the label; follow the manufacturer's instructions for those.",
+    "freezer": "There is no benefit to freezing sugar substitutes, and moisture on thawing can clump the powder. Keep them in a dry cupboard instead.",
+    "thawing": null,
+    "spoilage": [
+      "Hard clumps or caking from absorbed moisture",
+      "Noticeably reduced sweetness, common in aspartame products",
+      "Off, chemical or musty smell",
+      "Discoloured or yellowed granules or tablets"
+    ],
+    "tips": [
+      "Store sachets in a closed tin so they do not tear and spill in the drawer",
+      "Aspartame loses sweetness when heated, so choose sucralose or stevia for baking",
+      "Check the label — sugar alcohols such as erythritol can cause digestive upset in large amounts",
+      "Write the opening date on the tub to track the 2-year window"
+    ],
+    "faq": [
+      {"q": "Do sugar substitutes expire?", "a": "They keep about 2 years from purchase in a cool, dry cupboard. They do not spoil microbially, but some, especially aspartame, gradually lose sweetness."},
+      {"q": "Do sweeteners need to be refrigerated?", "a": "Powders and tablets do not — a sealed container in a dry cupboard is best. Some liquid sweeteners say refrigerate after opening; follow the label."},
+      {"q": "Can you bake with sugar substitutes?", "a": "Some can. Sucralose and stevia tolerate oven heat better than aspartame, which loses sweetness when heated. Recipes usually need adjusting because sugar also provides bulk and browning."}
+    ]
+  },
+  "zh": {
+    "name": "代糖",
+    "aliases": ["甜味劑", "人工甘味料", "赤藻糖醇", "甜菊糖", "阿斯巴甜"],
+    "summary": "代糖包括蔗糖素、阿斯巴甜、甜菊糖等桌上型甜味劑，以及赤藻糖醇這類糖醇，通常以小包、錠劑或顆粒形式販售。密封放在陰涼乾燥的櫥櫃，從購買日起約可保存 2 年。它們不會發生微生物腐敗，但有些會隨時間失去甜度。",
+    "pantry": "小包、錠劑和罐裝代糖請放在陰涼乾燥、遠離爐火和蒸氣的櫥櫃，從購買日起約 2 年。阿斯巴甜特別容易因為高溫和潮濕而失去甜度，放在爐台上方悶熱的櫃子會明顯縮短它的可用期。散裝顆粒請倒進密封罐，小包則收在有蓋盒子裡。",
+    "fridge": "不需要冷藏，還可能因冷凝水氣讓顆粒狀代糖結塊。不過液態甜菊糖或某些濃縮液，包裝上可能標示開封後需冷藏，這類產品請依製造商指示。",
+    "freezer": "冷凍代糖沒有好處，解凍時的水氣還會讓粉末結塊。放在乾燥的櫥櫃就好。",
+    "thawing": null,
+    "spoilage": [
+      "受潮結成硬塊或結餅",
+      "甜度明顯下降，阿斯巴甜產品特別常見",
+      "有怪味、化學味或霉味",
+      "顆粒或錠劑變色、泛黃"
+    ],
+    "tips": [
+      "小包裝收在有蓋鐵盒裡，避免在抽屜裡被扯破灑出來",
+      "阿斯巴甜加熱會失去甜度，烘焙建議選蔗糖素或甜菊糖",
+      "留意標示，赤藻糖醇等糖醇攝取過量可能引起腸胃不適",
+      "在罐子上寫開封日期，追蹤 2 年的期限"
+    ],
+    "faq": [
+      {"q": "代糖會過期嗎？", "a": "放在陰涼乾燥的櫥櫃，從購買日起約可放 2 年。它們不會微生物腐敗，但有些（尤其是阿斯巴甜）會慢慢失去甜度。"},
+      {"q": "代糖需要冷藏嗎？", "a": "粉狀和錠狀不需要，密封放乾燥櫥櫃最好。部分液態甜味劑標示開封後需冷藏，請依包裝說明。"},
+      {"q": "代糖可以拿來烘焙嗎？", "a": "有些可以。蔗糖素和甜菊糖比阿斯巴甜耐烤，阿斯巴甜加熱後會失去甜度。因為糖同時提供體積和上色效果，配方通常需要調整。"}
+    ]
+  },
+  "ja": {
+    "name": "甘味料（砂糖代替品）",
+    "aliases": ["人工甘味料", "ステビア", "スクラロース", "アスパルテーム", "エリスリトール"],
+    "summary": "砂糖代替品には、スクラロースやアスパルテーム、ステビアなどの卓上甘味料や、エリスリトールのような糖アルコールがあり、小袋・錠剤・顆粒で売られています。密閉して涼しく乾燥した戸棚に置けば購入日から約2年が目安です。微生物的に腐ることはありませんが、甘味が落ちるものもあります。",
+    "pantry": "小袋、錠剤、容器入りはコンロや湯気から離れた涼しく乾燥した戸棚へ。購入日から約2年が目安です。とくにアスパルテームは熱と湿気で甘味が落ちるため、コンロ上の暑い棚では使える期間が目に見えて短くなります。顆粒は密閉瓶に移し、小袋はふた付きの箱にまとめましょう。",
+    "fridge": "冷蔵は不要で、結露により顆粒が固まるリスクがあります。液体ステビアや一部の濃縮タイプは「開封後要冷蔵」と表示されていることがあるので、その場合はメーカーの指示に従ってください。",
+    "freezer": "甘味料を冷凍する利点はなく、解凍時の湿気で粉が固まることがあります。乾いた戸棚で保存しましょう。",
+    "thawing": null,
+    "spoilage": [
+      "湿気を吸って固まっている",
+      "甘味が明らかに弱くなっている（アスパルテーム製品に多い）",
+      "異臭、薬品臭、カビ臭がする",
+      "顆粒や錠剤が変色・黄ばんでいる"
+    ],
+    "tips": [
+      "小袋はふた付きの缶にまとめると、引き出しの中で破れません",
+      "アスパルテームは加熱で甘味が落ちるため、焼き菓子にはスクラロースやステビアを",
+      "エリスリトールなどの糖アルコールは多量摂取でおなかがゆるくなることがあります",
+      "容器に開封日を書いて2年の期限を管理しましょう"
+    ],
+    "faq": [
+      {"q": "甘味料に賞味期限はありますか？", "a": "涼しく乾燥した戸棚で購入日から約2年が目安です。微生物的には腐りませんが、とくにアスパルテームは徐々に甘味を失います。"},
+      {"q": "甘味料は冷蔵が必要ですか？", "a": "粉末や錠剤は不要で、密閉して乾いた戸棚が最適です。液体タイプには開封後要冷蔵の表示があるものもあるので、表示に従ってください。"},
+      {"q": "甘味料でお菓子は焼けますか？", "a": "焼けるものもあります。スクラロースやステビアは加熱に比較的強く、アスパルテームは甘味が落ちます。砂糖はかさや焼き色にも関わるため、配合の調整が必要です。"}
+    ]
+  },
+  "es": {
+    "name": "Sustitutos del azúcar",
+    "aliases": ["edulcorantes", "estevia", "sucralosa", "aspartamo", "eritritol"],
+    "summary": "Los sustitutos del azúcar incluyen edulcorantes de mesa como sucralosa, aspartamo y estevia, y polioles como el eritritol, vendidos en sobres, pastillas o gránulos. Cerrados en un armario fresco y seco duran alrededor de 2 años desde la compra. No se estropean microbiológicamente, pero algunos pierden dulzor con el tiempo.",
+    "pantry": "Guarda sobres, pastillas y botes en un armario fresco y seco, lejos de los fogones y del vapor; duran alrededor de 2 años desde la compra. El aspartamo en particular pierde dulzor con el calor y la humedad, así que un armario caliente sobre la cocina acorta bastante su vida útil. Pasa los gránulos sueltos a un tarro hermético y guarda los sobres en una caja cerrada.",
+    "fridge": "No hace falta refrigerar y se arriesga condensación que apelmaza los edulcorantes granulados. Algunas estevias líquidas y concentrados indican refrigerar tras abrir en la etiqueta; en esos casos sigue las instrucciones del fabricante.",
+    "freezer": "Congelar sustitutos del azúcar no aporta nada, y la humedad al atemperarlos puede apelmazar el polvo. Guárdalos en un armario seco.",
+    "thawing": null,
+    "spoilage": [
+      "Grumos duros o apelmazamiento por humedad",
+      "Dulzor claramente reducido, habitual en productos con aspartamo",
+      "Olor extraño, químico o a humedad",
+      "Gránulos o pastillas decolorados o amarillentos"
+    ],
+    "tips": [
+      "Guarda los sobres en una lata cerrada para que no se rompan en el cajón",
+      "El aspartamo pierde dulzor al calentarse: para hornear elige sucralosa o estevia",
+      "Revisa la etiqueta: los polioles como el eritritol pueden sentar mal en cantidades grandes",
+      "Anota la fecha de apertura en el bote para controlar los 2 años"
+    ],
+    "faq": [
+      {"q": "¿Los edulcorantes caducan?", "a": "Duran alrededor de 2 años desde la compra en un armario fresco y seco. No se estropean por microorganismos, pero algunos, sobre todo el aspartamo, pierden dulzor poco a poco."},
+      {"q": "¿Los edulcorantes necesitan refrigeración?", "a": "Los polvos y pastillas no: lo mejor es un envase cerrado en un armario seco. Algunos líquidos indican refrigerar tras abrir; sigue la etiqueta."},
+      {"q": "¿Se puede hornear con sustitutos del azúcar?", "a": "Algunos sí. La sucralosa y la estevia toleran el horno mejor que el aspartamo, que pierde dulzor al calentarse. Suele haber que ajustar la receta, porque el azúcar aporta volumen y dorado."}
+    ]
+  }
+}

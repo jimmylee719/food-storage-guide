@@ -2,9 +2,10 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import SearchBox from '@/components/SearchBox';
+import Faq from '@/components/Faq';
 import { CATEGORIES, type Locale, isLocale, t } from '@/lib/i18n';
 import { categoryCounts, foods, foodsWithPages, guides } from '@/lib/data';
-import { buildMetadata } from '@/lib/seo';
+import { buildMetadata, jsonLdScript } from '@/lib/seo';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
@@ -24,6 +25,16 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
   const counts = categoryCounts();
   const featured = guides.slice(0, 6);
   const withPages = foodsWithPages();
+
+  const faqLd = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: d.homeFaq.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  };
 
   return (
     <div className="wrap">
@@ -69,12 +80,14 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         </section>
       )}
 
+      <Faq items={d.homeFaq} heading={d.homeFaqHeading} />
+
       <section className="callout">
-        <p>
-          <strong>{d.dataScope}:</strong> {d.itemsCount(foods.length)} · {d.detailPageCta}: {withPages.length}
-        </p>
+        <p>{d.dataNote(foods.length, withPages.length, guides.length)}</p>
         <p>{d.sourceNote}</p>
       </section>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={jsonLdScript(faqLd)} />
     </div>
   );
 }

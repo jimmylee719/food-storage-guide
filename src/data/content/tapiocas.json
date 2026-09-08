@@ -1,0 +1,107 @@
+{
+  "slug": "tapiocas",
+  "en": {
+    "name": "Tapioca",
+    "aliases": ["tapioca pearls", "instant tapioca", "cassava starch", "boba pearls", "sago"],
+    "summary": "Tapioca is starch extracted from the cassava root, sold as fine flour, quick-cooking granules or the pearls used for puddings and bubble tea. It is dry and almost pure starch, so it keeps about 12 months from the date of purchase and about 12 months after opening in a cool, dry cupboard.",
+    "pantry": "Store tapioca in an airtight container in a cool, dry cupboard away from the stove and sink: about 12 months from purchase and about 12 months after opening. It is very hygroscopic, so an open packet in a humid kitchen will clump and eventually go musty. Larger black boba pearls sold as a fresh product have their own much shorter use-by date on the pack.",
+    "fridge": "The dry product does not need refrigeration and cold storage risks condensation that makes the pearls sticky and the flour cake. Cooked tapioca is entirely different: cooked pearls go hard and chalky in the fridge, and a cooked tapioca pudding should be refrigerated at 4 °C (40 °F) or below and eaten within a few days.",
+    "freezer": "Freezing dry tapioca gives no benefit and risks moisture damage. Cooked pearls do not freeze well either — they turn hard and lose their chew when thawed.",
+    "thawing": null,
+    "spoilage": [
+      "Hard clumps or a caked block from absorbed moisture",
+      "Musty, sour or fermented smell",
+      "Insects, larvae or webbing in the container",
+      "Grey or discoloured pearls, or pearls that never soften when cooked"
+    ],
+    "tips": [
+      "Decant into an airtight jar and label it with the opening date",
+      "Keep the jar away from the rice cooker and kettle steam",
+      "Cook boba pearls fresh and use them the same day — they harden within hours",
+      "Fine tapioca flour and quick-cooking granules are not interchangeable in recipes"
+    ],
+    "faq": [
+      {"q": "How long does tapioca last?", "a": "About 12 months from purchase and about 12 months after opening, stored airtight in a cool, dry cupboard."},
+      {"q": "Can you refrigerate cooked tapioca pearls?", "a": "You can keep a cooked tapioca pudding in the fridge for a few days, but plain cooked boba pearls turn hard and chalky within hours. Cook them fresh."},
+      {"q": "How can you tell if tapioca has gone bad?", "a": "Look for hard clumps, insects or webbing and smell for a musty or sour note. Dry, loose tapioca with no smell is fine to use."}
+    ]
+  },
+  "zh": {
+    "name": "西谷米／樹薯粉",
+    "aliases": ["樹薯粉", "木薯粉", "珍珠", "粉圓", "西米"],
+    "summary": "樹薯製品是從木薯根萃取的澱粉，有細粉、速煮顆粒，以及做布丁和珍珠奶茶用的粉圓。它是乾燥的純澱粉，放在陰涼乾燥的櫥櫃，從購買日起約可保存 12 個月，開封後也大約 12 個月。",
+    "pantry": "請裝進密封容器，放在陰涼乾燥的櫥櫃，遠離爐火和水槽：從購買日起約 12 個月，開封後也約 12 個月。它非常會吸濕，在潮濕的廚房開封後放著，很快就會結塊甚至產生霉味。作為生鮮品販售的大顆黑珍珠則另有包裝上標示的短效期，請依標示。",
+    "fridge": "乾燥狀態不需要冷藏，低溫還會凝結水氣讓粉圓變黏、粉類結塊。煮熟的完全不同：煮好的珍珠冷藏會變硬變粉，而煮好的西米露之類則要放 4°C 以下冷藏，並在幾天內吃完。",
+    "freezer": "冷凍乾燥的樹薯製品沒有好處，還有受潮的風險。煮熟的珍珠也不適合冷凍，解凍後會變硬、失去 Q 彈口感。",
+    "thawing": null,
+    "spoilage": [
+      "受潮結成硬塊或整片結餅",
+      "有霉味、酸味或發酵味",
+      "容器裡出現昆蟲、幼蟲或蛛絲",
+      "粉圓變灰、變色，或煮再久也煮不透"
+    ],
+    "tips": [
+      "分裝到密封罐並標上開封日期",
+      "罐子要遠離電鍋和熱水瓶的蒸氣",
+      "珍珠現煮現喝，放幾個小時就會變硬",
+      "細樹薯粉和速煮顆粒在食譜中不能直接互換"
+    ],
+    "faq": [
+      {"q": "樹薯粉／西谷米可以放多久？", "a": "密封放在陰涼乾燥的櫥櫃，從購買日起約 12 個月，開封後也約 12 個月。"},
+      {"q": "煮好的珍珠可以冷藏嗎？", "a": "煮好的西米露類甜品冷藏幾天沒問題，但單純的珍珠幾個小時內就會變硬變粉，建議現煮現吃。"},
+      {"q": "怎麼知道樹薯製品壞掉了？", "a": "檢查有沒有硬塊、蟲或蛛絲，聞有沒有霉味或酸味。乾燥鬆散、沒有異味就可以放心使用。"}
+    ]
+  },
+  "ja": {
+    "name": "タピオカ",
+    "aliases": ["タピオカパール", "タピオカ粉", "キャッサバでん粉", "ブラックタピオカ", "サゴ"],
+    "summary": "タピオカはキャッサバの根から取ったでん粉で、細かい粉、早煮え顆粒、プリンやタピオカドリンク用のパールなどがあります。乾燥したほぼ純粋なでん粉なので、涼しく乾燥した戸棚で購入日から約12か月、開封後も約12か月が目安です。",
+    "pantry": "密閉容器に入れて、コンロやシンクから離れた涼しく乾燥した戸棚へ。購入日から約12か月、開封後も約12か月です。吸湿性が非常に高く、湿気の多い台所で開けたままにすると固まり、やがてカビ臭くなります。生鮮品として売られる大粒のブラックタピオカは、パッケージ記載のはるかに短い期限に従ってください。",
+    "fridge": "乾燥品に冷蔵は不要で、結露でパールがベタつき粉が固まります。調理後はまったく別で、ゆでたパールは冷蔵すると硬くぼそぼそになります。タピオカプディングなどは4℃以下で冷蔵し、数日以内に食べ切ってください。",
+    "freezer": "乾燥タピオカの冷凍に利点はなく、湿気で傷むリスクがあります。ゆでたパールも冷凍に不向きで、解凍すると硬くなりもちもち感が失われます。",
+    "thawing": null,
+    "spoilage": [
+      "湿気を吸って固まり、塊になっている",
+      "カビ臭、酸っぱいにおい、発酵臭",
+      "容器の中に虫、幼虫、クモの巣状のもの",
+      "パールが灰色や変色している、いくらゆでても芯が残る"
+    ],
+    "tips": [
+      "密閉瓶に移し、開封日を書いておきましょう",
+      "炊飯器や電気ポットの湯気から離して保管を",
+      "タピオカパールはゆでたその日に。数時間で硬くなります",
+      "細かいタピオカ粉と早煮え顆粒はレシピで代用できません"
+    ],
+    "faq": [
+      {"q": "タピオカはどのくらい日持ちしますか？", "a": "密閉して涼しく乾燥した戸棚なら購入日から約12か月、開封後も約12か月です。"},
+      {"q": "ゆでたタピオカは冷蔵できますか？", "a": "タピオカプディングなら数日冷蔵できますが、ゆでただけのパールは数時間で硬くぼそぼそになります。その都度ゆでるのがおすすめです。"},
+      {"q": "タピオカが傷んだか見分けるには？", "a": "固まり、虫、クモの巣状のものを確認し、カビ臭や酸っぱいにおいがないか嗅いでください。さらさらで無臭なら問題ありません。"}
+    ]
+  },
+  "es": {
+    "name": "Tapioca",
+    "aliases": ["perlas de tapioca", "almidón de yuca", "harina de mandioca", "boba", "sagú"],
+    "summary": "La tapioca es almidón extraído de la raíz de yuca, y se vende como harina fina, gránulos de cocción rápida o las perlas usadas en postres y bubble tea. Es un producto seco y casi almidón puro, así que dura alrededor de 12 meses desde la compra y alrededor de 12 meses tras abrirla en un armario fresco y seco.",
+    "pantry": "Guárdala en un recipiente hermético en un armario fresco y seco, lejos de los fogones y del fregadero: alrededor de 12 meses desde la compra y alrededor de 12 meses tras abrirla. Es muy higroscópica, así que un paquete abierto en una cocina húmeda se apelmaza y acaba oliendo a moho. Las perlas negras grandes vendidas como producto fresco llevan su propia fecha, mucho más corta, en el envase.",
+    "fridge": "El producto seco no necesita nevera y el frío arriesga condensación que vuelve pegajosas las perlas y apelmaza la harina. La tapioca cocida es otra cosa: las perlas cocidas se endurecen en la nevera, y un pudin de tapioca debe refrigerarse a 4 °C (40 °F) o menos y comerse en pocos días.",
+    "freezer": "Congelar tapioca seca no aporta nada y arriesga daños por humedad. Las perlas cocidas tampoco se congelan bien: quedan duras y pierden su textura al descongelarse.",
+    "thawing": null,
+    "spoilage": [
+      "Grumos duros o un bloque apelmazado por humedad",
+      "Olor a humedad, agrio o fermentado",
+      "Insectos, larvas o telarañas en el recipiente",
+      "Perlas grises o descoloridas, o que nunca se ablandan al cocerlas"
+    ],
+    "tips": [
+      "Pásala a un tarro hermético y anota la fecha de apertura",
+      "Mantén el tarro lejos del vapor de la arrocera y del hervidor",
+      "Cuece las perlas de boba al momento y úsalas el mismo día: endurecen en horas",
+      "La harina fina de tapioca y los gránulos rápidos no son intercambiables en las recetas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la tapioca?", "a": "Alrededor de 12 meses desde la compra y alrededor de 12 meses tras abrirla, guardada hermética en un armario fresco y seco."},
+      {"q": "¿Se pueden refrigerar las perlas de tapioca cocidas?", "a": "Un pudin de tapioca aguanta unos días en la nevera, pero las perlas cocidas solas se endurecen en pocas horas. Cuécelas al momento."},
+      {"q": "¿Cómo saber si la tapioca está mala?", "a": "Busca grumos duros, insectos o telarañas y huele por si hay notas a humedad o agrias. Si está seca, suelta y sin olor, se puede usar."}
+    ]
+  }
+}

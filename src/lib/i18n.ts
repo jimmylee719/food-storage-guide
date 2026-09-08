@@ -89,6 +89,9 @@ type Dict = {
   seeGuide: string;
   languageLabel: string;
   toc: string;
+  homeFaqHeading: string;
+  homeFaq: { q: string; a: string }[];
+  dataNote: (foods: number, pages: number, guides: number) => string;
 };
 
 const zh: Dict = {
@@ -163,6 +166,15 @@ const zh: Dict = {
   seeGuide: '閱讀完整指南',
   languageLabel: '語言',
   toc: '本文目錄',
+  homeFaqHeading: '關於食物保存的常見問題',
+  homeFaq: [
+    { q: '冰箱冷藏應該設定幾度？', a: '冷藏設在 4°C 以下、冷凍設在 −18°C 以下。台灣食藥署法規對「冷藏」的定義上限是 7°C，那是寫給食品業者的貯存設備標準，家用直接設 4°C 最保險。冰箱面板上的段數不是溫度，要放溫度計才知道實際幾度。' },
+    { q: '煮好的菜放冰箱可以放幾天？', a: '一般熟食冷藏 3 到 4 天，冷凍 2 到 6 個月。重點是煮好後兩小時內分裝到淺容器冷藏，不要整鍋放涼再冰。復熱時要熱到中心 74°C 以上。' },
+    { q: '食物在室溫下最多可以放多久？', a: '易腐敗的食物在 4°C 到 60°C 之間超過兩小時就應該丟棄；如果室溫超過 32°C，時間縮短為一小時。這個區間就是所謂的危險溫度帶，細菌在這裡繁殖最快。' },
+    { q: '冷凍食品放太久還能吃嗎？', a: '只要全程維持在 −18°C，就微生物安全而言可以無限期保存。本站標示的冷凍期限指的是風味與口感開始明顯下降的時間點，不是安全的界線。' },
+    { q: '退冰後的食物可以再冷凍嗎？', a: '如果是在冷藏室慢慢解凍、而且中心溫度仍維持在 4°C 以下，可以再冷凍，只是口感會變差。用冷水或微波解凍的食物必須先煮熟才能再冷凍。放在室溫解凍過的食物不要再冷凍。' },
+  ],
+  dataNote: (foods, pages, guides) => `目前收錄 ${foods} 種食材的保存期限，其中 ${pages} 種有完整的四語系保存說明，另有 ${guides} 篇附出處的保存知識長文。內容持續增加中。`,
 };
 
 const en: Dict = {
@@ -237,6 +249,15 @@ const en: Dict = {
   seeGuide: 'Read the full guide',
   languageLabel: 'Language',
   toc: 'On this page',
+  homeFaqHeading: 'Common questions about storing food',
+  homeFaq: [
+    { q: 'What temperature should a refrigerator be?', a: 'Set the fridge to 4 °C (40 °F) or below and the freezer to −18 °C (0 °F). The numbered dial inside most fridges is not a temperature, so the only way to know where yours actually sits is to put a thermometer in it and read it after eight hours.' },
+    { q: 'How long do leftovers keep in the fridge?', a: 'Three to four days refrigerated, or two to six months frozen. What matters most is getting them into shallow containers and into the fridge within two hours of cooking, rather than leaving the pot out to cool. Reheat to 74 °C (165 °F).' },
+    { q: 'How long can food sit out at room temperature?', a: 'Discard perishable food left between 4 °C and 60 °C (40–140 °F) for more than two hours, or more than one hour above 32 °C (90 °F). That range is the danger zone, where bacteria multiply fastest.' },
+    { q: 'Is frozen food still safe after the recommended time?', a: 'Food held continuously at −18 °C (0 °F) stays microbiologically safe indefinitely. The freezer times on this site mark when flavour and texture start to fall off noticeably, not a safety cut-off.' },
+    { q: 'Can you refreeze food that has thawed?', a: 'Yes, if it thawed in the refrigerator and is still at or below 4 °C, though the texture suffers. Food thawed in cold water or a microwave must be cooked before refreezing. Anything thawed at room temperature should not go back in the freezer.' },
+  ],
+  dataNote: (foods, pages, guides) => `${foods} foods with storage times, ${pages} of them with a full write-up in all four languages, plus ${guides} sourced guide articles. The library keeps growing.`,
 };
 
 const ja: Dict = {
@@ -311,6 +332,15 @@ const ja: Dict = {
   seeGuide: 'ガイドを読む',
   languageLabel: '言語',
   toc: '目次',
+  homeFaqHeading: '食品保存についてよくある質問',
+  homeFaq: [
+    { q: '冷蔵庫は何度に設定すればよいですか？', a: '冷蔵は 4°C 以下、冷凍は −18°C 以下に設定してください。日本の食品衛生関係法令では「冷蔵」を 10°C 以下と定義していますが、これは下限ではなく上限の基準です。家庭では 4°C を目安にするのが安全です。庫内のダイヤルの数字は温度ではないので、温度計で確かめてください。' },
+    { q: '作りおきのおかずは何日もちますか？', a: '冷蔵で 3〜4 日、冷凍で 2〜6 か月が目安です。大切なのは調理後 2 時間以内に浅い容器に小分けして冷蔵することです。鍋のまま常温で冷ますのは避けてください。温め直すときは中心が 74°C 以上になるまで加熱します。' },
+    { q: '常温にどのくらい置いておけますか？', a: '傷みやすい食品が 4〜60°C の温度帯に 2 時間以上置かれた場合は廃棄してください。気温が 32°C を超える場合は 1 時間です。この温度帯が危険温度帯で、細菌がもっとも速く増えます。' },
+    { q: '冷凍した食品は期限を過ぎても食べられますか？', a: '−18°C を保ったままであれば、微生物学的には無期限に安全です。本サイトの冷凍期間は、風味と食感が目に見えて落ちはじめる目安であり、安全の区切りではありません。' },
+    { q: '解凍した食品を再冷凍してもよいですか？', a: '冷蔵庫で解凍し、中心が 4°C 以下に保たれていれば再冷凍できます。ただし食感は落ちます。流水や電子レンジで解凍したものは、加熱調理してから冷凍してください。常温で解凍したものは再冷凍しないでください。' },
+  ],
+  dataNote: (foods, pages, guides) => `現在 ${foods} 品目の保存期間を収録し、うち ${pages} 品目は 4 言語の詳しい解説つきです。出典を明記したガイド記事も ${guides} 本あります。内容は随時追加しています。`,
 };
 
 const es: Dict = {
@@ -385,6 +415,15 @@ const es: Dict = {
   seeGuide: 'Leer la guía completa',
   languageLabel: 'Idioma',
   toc: 'En esta página',
+  homeFaqHeading: 'Preguntas frecuentes sobre conservar alimentos',
+  homeFaq: [
+    { q: '¿A qué temperatura debe estar la nevera?', a: 'Pon la nevera a 4 °C (40 °F) o menos y el congelador a −18 °C (0 °F). El mando numerado del interior no indica grados, así que la única forma de saber a cuánto está la tuya es meter un termómetro y leerlo pasadas ocho horas.' },
+    { q: '¿Cuánto duran las sobras en la nevera?', a: 'De tres a cuatro días refrigeradas, o de dos a seis meses congeladas. Lo decisivo es pasarlas a recipientes poco profundos y meterlas en la nevera dentro de las dos horas siguientes a cocinarlas, en lugar de dejar la olla enfriándose. Recaliéntalas hasta 74 °C (165 °F).' },
+    { q: '¿Cuánto tiempo puede estar la comida fuera de la nevera?', a: 'Tira cualquier alimento perecedero que haya pasado más de dos horas entre 4 °C y 60 °C (40–140 °F), o más de una hora por encima de 32 °C (90 °F). Ese intervalo es la zona de peligro, donde las bacterias se multiplican más rápido.' },
+    { q: '¿Sigue siendo seguro un congelado pasado el plazo?', a: 'Un alimento mantenido de forma continua a −18 °C (0 °F) es microbiológicamente seguro de forma indefinida. Los plazos de congelador de este sitio marcan cuándo el sabor y la textura empiezan a decaer, no un límite de inocuidad.' },
+    { q: '¿Se puede volver a congelar un alimento descongelado?', a: 'Sí, si se descongeló en la nevera y sigue a 4 °C o menos, aunque la textura se resiente. Lo descongelado en agua fría o microondas hay que cocinarlo antes de volver a congelarlo. Lo que se ha descongelado a temperatura ambiente no debe volver al congelador.' },
+  ],
+  dataNote: (foods, pages, guides) => `${foods} alimentos con tiempos de conservación, ${pages} de ellos con ficha completa en los cuatro idiomas, además de ${guides} guías con fuentes citadas. La colección sigue creciendo.`,
 };
 
 const DICTS: Record<Locale, Dict> = { zh, en, ja, es };
