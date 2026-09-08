@@ -1,0 +1,107 @@
+{
+  "slug": "lean-fish-pollock-ocean-perch-rockfish-sea-trout",
+  "en": {
+    "name": "Lean fish (pollock, ocean perch, rockfish, sea trout)",
+    "aliases": ["pollock", "ocean perch", "rockfish", "sea trout", "redfish"],
+    "summary": "Pollock, ocean perch, rockfish and sea trout are lean fish with slightly more oil than cod or sole, which shortens their freezer life a little. Raw, they keep 1–2 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 4–8 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw fish cannot be stored at room temperature. Fish spoilage bacteria are adapted to cold water and keep working even in the fridge, so the process accelerates dramatically in the danger zone between 4 °C and 60 °C (40 °F and 140 °F). Discard fish left out for more than 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Keep the fillets well wrapped in the coldest part of the fridge at 4 °C (40 °F) or below, ideally over ice in a draining dish, and cook them within 1–2 days of purchase. Rockfish and perch fillets often come with the skin on: leave it in place while storing, since it protects the flesh from drying and from picking up fridge odours.",
+    "freezer": "The 4–8 month freezer range reflects how much oil the particular species carries: leaner pollock keeps toward the longer end, oilier sea trout toward the shorter. At −18 °C (0 °F) the fish stays safe indefinitely. Wrap each fillet tightly, or glaze it by dipping in cold water and freezing in layers, then bag it with the air pressed out.",
+    "thawing": "Thaw in the fridge overnight on a plate, or in a sealed bag under cold running water for 20–30 minutes, and cook immediately afterwards. Thin fillets can also be cooked from frozen with a slightly longer time. Never thaw fish at room temperature; cook it to 63 °C (145 °F) or until opaque and flaking.",
+    "spoilage": [
+      "Strong fishy, sour or ammonia smell instead of a clean sea scent",
+      "Slimy surface, or flesh that stays dented when you press it",
+      "Grey, yellowing or browning flesh, or edges that look dried and papery",
+      "Milky, thick liquid in the pack, or a passed use-by date"
+    ],
+    "tips": [
+      "Store fillets on ice in the fridge and pour off the meltwater daily.",
+      "Freeze on the day of purchase if you cannot cook within 1–2 days.",
+      "Leave skin on while storing to protect the flesh, and remove it when cooking if you prefer.",
+      "Cook thin fillets straight from frozen rather than thawing them badly."
+    ],
+    "faq": [
+      {"q": "Can you freeze pollock and rockfish?", "a": "Yes, at −18 °C (0 °F) for 4–8 months depending on how oily the species is; leaner fish keeps longer."},
+      {"q": "How long do these fish last in the fridge?", "a": "1–2 days from the day of purchase at 4 °C (40 °F) or below, kept as cold as possible."},
+      {"q": "Why do some lean fish freeze for less time than cod?", "a": "Species like sea trout carry more oil in the flesh, and oil oxidizes in the freezer, so the quality window is shorter."}
+    ]
+  },
+  "zh": {
+    "name": "低脂魚（明太魚、赤鮭、石斑類、海鱒）",
+    "aliases": ["明太魚", "阿拉斯加鱈魚", "赤鮭", "石斑魚類", "海鱒"],
+    "summary": "明太魚（狹鱈）、赤鮭、岩礁魚類和海鱒屬於低脂魚，但油脂比鱈魚或鰈魚稍多，所以冷凍期限也短一些。生魚在 4°C 以下冷藏，從購買日起可放 1～2 天；放 −18°C 冷凍可放 4～8 個月。",
+    "pantry": "生魚不能放室溫。魚的腐敗菌本來就適應低溫，即使在冰箱裡也持續活動，進到 4～60°C 的危險溫度帶更是急速惡化。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "把魚片包好放在冰箱最冷的位置，維持 4°C 以下，最理想是放在能瀝水的容器裡鋪冰塊，並在購買後 1～2 天內煮完。石斑類和赤鮭的魚片常帶皮：保存時不要去皮，魚皮能保護魚肉不乾掉，也不容易吸味。",
+    "freezer": "4～8 個月的冷凍區間反映各魚種的油脂含量：油脂較少的明太魚偏長，油脂較多的海鱒偏短。在 −18°C 下安全上可以無限期保存。每片包緊，或用「冰衣法」——沾一下冷水後結凍、分層重複——再裝袋擠出空氣。",
+    "thawing": "放盤子上冷藏解凍一晚，或裝密封袋用冷水沖 20～30 分鐘，之後立刻烹調。薄魚片也可以直接從冷凍下鍋，時間稍微拉長即可。絕對不要在室溫解凍；煮到中心 63°C 或魚肉變不透明、輕壓會分片為止。",
+    "spoilage": [
+      "不是乾淨的海味，而是強烈腥味、酸味或阿摩尼亞味",
+      "表面黏滑，或按壓後凹陷不回彈",
+      "魚肉變灰、泛黃或轉褐，邊緣看起來乾硬像紙",
+      "包裝內出現乳白濃稠的液體，或已超過有效日期"
+    ],
+    "tips": [
+      "魚片在冰箱裡鋪冰塊保存，每天把融水倒掉。",
+      "1～2 天內煮不完就當天冷凍。",
+      "保存時保留魚皮以保護魚肉，要去皮的話等烹調時再處理。",
+      "薄魚片與其胡亂解凍，不如直接從冷凍下鍋。"
+    ],
+    "faq": [
+      {"q": "明太魚、石斑類可以冷凍嗎？", "a": "可以，放 −18°C 冷凍 4～8 個月，實際長短看魚種的油脂含量，越瘦的越耐放。"},
+      {"q": "這些魚放冰箱可以放多久？", "a": "在 4°C 以下、盡量低溫的環境冷藏，從購買日起 1～2 天。"},
+      {"q": "為什麼有些低脂魚的冷凍期限比鱈魚短？", "a": "像海鱒這類魚肉裡的油脂比較多，而油脂在冷凍庫裡會氧化，所以品質期限比較短。"}
+    ]
+  },
+  "ja": {
+    "name": "白身魚（すけとうだら・あかうお・めばる・海鱒）",
+    "aliases": ["すけとうだら", "あかうお", "めばる", "ロックフィッシュ", "海鱒（サクラマス等）"],
+    "summary": "すけとうだら、あかうお、めばる類、海鱒は白身寄りの魚ですが、たらやしたびらめよりわずかに脂が多く、そのぶん冷凍の目安も短めです。生の状態では4℃以下の冷蔵で購入日から1〜2日、−18℃の冷凍で4〜8か月が目安です。",
+    "pantry": "生の魚を常温で保存することはできません。魚の腐敗菌はもともと低温に適応していて冷蔵中も働き続け、4〜60℃の危険温度帯では劣化が一気に加速します。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。",
+    "fridge": "切り身はしっかり包み、庫内でいちばん冷える場所で4℃以下を保ちます。水切りできる器に氷を敷いて置くのが理想で、購入から1〜2日以内に調理します。めばるやあかうおは皮付きで売られることが多いですが、保存中は皮を残しておくと身の乾燥とにおい移りを防げます。",
+    "freezer": "4〜8か月という幅は魚種ごとの脂の量を反映しています。脂の少ないすけとうだらは長め、脂の多い海鱒は短めです。−18℃なら安全面では長期間保存できます。1切れずつ密着させて包むか、冷水にくぐらせて凍らせる氷衣（グレーズ）を重ねてから、袋の空気を抜きます。",
+    "thawing": "皿にのせて冷蔵庫で一晩、または密閉袋のまま冷たい流水に20〜30分あてて解凍し、すぐ調理します。薄い切り身なら凍ったまま少し長めに加熱しても構いません。常温解凍は避け、中心温度63℃または身が不透明にほぐれるまで加熱してください。",
+    "spoilage": [
+      "清潔な磯の香りではなく、強い生臭さ・酸敗臭・アンモニア臭がする",
+      "表面がぬめる、押した跡が戻らない",
+      "身が灰色・黄色・茶色がかっている、縁が乾いて紙のようになっている",
+      "パック内に乳白色でとろみのある液が出ている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "冷蔵庫では氷の上に置き、溶けた水は毎日捨てる。",
+      "1〜2日で調理しないなら購入当日に冷凍する。",
+      "保存中は皮を残して身を守り、皮を取るなら調理時に。",
+      "薄い切り身は中途半端に解凍するより、凍ったまま加熱するほうがよい。"
+    ],
+    "faq": [
+      {"q": "すけとうだらやめばるは冷凍できますか？", "a": "できます。−18℃で4〜8か月が目安で、脂の少ない魚種ほど長く保てます。"},
+      {"q": "これらの魚は冷蔵庫で何日もちますか？", "a": "できるだけ低温の4℃以下で、購入日から1〜2日です。"},
+      {"q": "同じ白身でもたらより冷凍期間が短いのはなぜ？", "a": "海鱒のように身に脂を多く含む魚は、冷凍中に脂が酸化するため、品質を保てる期間が短くなります。"}
+    ]
+  },
+  "es": {
+    "name": "Pescado magro (abadejo, gallineta, trucha de mar)",
+    "aliases": ["abadejo de Alaska", "gallineta", "cabracho", "trucha marina", "rockfish"],
+    "summary": "El abadejo, la gallineta, los peces de roca y la trucha de mar son pescados magros con algo más de grasa que el bacalao o el lenguado, lo que acorta un poco su vida en el congelador. Crudos duran 1–2 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y 4–8 meses a −18 °C (0 °F).",
+    "pantry": "El pescado crudo no puede guardarse a temperatura ambiente. Sus bacterias de deterioro están adaptadas al agua fría y siguen trabajando incluso en el refrigerador, así que el proceso se acelera muchísimo en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F). Deséchalo si lleva más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Guarda los filetes bien envueltos en la parte más fría del refrigerador a 4 °C (40 °F) o menos, idealmente sobre hielo en una fuente que escurra, y cocínalos en 1–2 días desde la compra. La gallineta y los peces de roca suelen venir con piel: déjala puesta mientras los guardas, porque protege la carne del resecado y de los olores.",
+    "freezer": "El rango de 4–8 meses refleja cuánta grasa tiene cada especie: el abadejo más magro aguanta hacia el extremo largo y la trucha de mar, más grasa, hacia el corto. A −18 °C (0 °F) el pescado se mantiene seguro indefinidamente. Envuelve cada filete apretado, o glaséalo sumergiéndolo en agua fría y congelando por capas, y luego embólsalo sin aire.",
+    "thawing": "Descongélalo en el refrigerador durante una noche sobre un plato, o en bolsa cerrada bajo agua fría corriente 20–30 minutos, y cocínalo enseguida. Los filetes finos también pueden cocinarse congelados con algo más de tiempo. Nunca descongeles pescado a temperatura ambiente; cocínalo a 63 °C (145 °F) o hasta que esté opaco y se desmenuce.",
+    "spoilage": [
+      "Olor fuerte a pescado, agrio o a amoníaco en lugar de un aroma limpio a mar",
+      "Superficie viscosa, o carne que queda hundida al presionar",
+      "Carne gris, amarillenta o parduzca, o bordes secos y acartonados",
+      "Líquido lechoso y espeso en el envase, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Guarda los filetes sobre hielo en el refrigerador y escurre el agua a diario.",
+      "Congélalos el mismo día si no puedes cocinarlos en 1–2 días.",
+      "Deja la piel durante el almacenamiento para proteger la carne y retírala al cocinar si lo prefieres.",
+      "Cocina los filetes finos directamente congelados en vez de descongelarlos mal."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar el abadejo y la gallineta?", "a": "Sí, a −18 °C (0 °F) durante 4–8 meses según lo graso que sea la especie; el pescado más magro aguanta más."},
+      {"q": "¿Cuánto duran estos pescados en el refrigerador?", "a": "1–2 días desde el día de compra a 4 °C (40 °F) o menos, lo más fríos posible."},
+      {"q": "¿Por qué algunos pescados magros duran menos que el bacalao en el congelador?", "a": "Especies como la trucha de mar tienen más grasa en la carne, y la grasa se oxida en el congelador, acortando la ventana de calidad."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "lettuce-leaf-spinach",
+  "en": {
+    "name": "Leaf lettuce and spinach",
+    "aliases": ["baby spinach", "loose-leaf lettuce", "butterhead lettuce", "salad leaves", "rocket"],
+    "summary": "Soft leaf lettuces and spinach have thin, tender leaves that lose water and go slimy far faster than crisp-head varieties. In the fridge they keep only 3–7 days from the date of purchase. Excess moisture in the bag is the main enemy.",
+    "pantry": "Salad leaves should never be stored at room temperature. They wilt within an hour or two on a warm counter, and washed, ready-to-eat leaves are a moist food that should not sit in the danger zone of 4–60 °C (40–140 °F) for more than 2 hours. Refrigerate them straight away.",
+    "fridge": "Store leaves unwashed at 4 °C (40 °F) or below in the crisper, where they keep 3–7 days from purchase. Line the container or bag with kitchen paper to absorb condensation, which is what makes leaves go slimy, and replace the paper if it becomes damp. Do not pack the leaves tightly, since bruised leaves break down fastest.",
+    "freezer": "USDA gives no freezer timeline for salad leaves, and freezing raw lettuce is not recommended. Spinach is different: blanch it for 2 minutes, squeeze out the water and freeze it in portions for cooked dishes. Frozen spinach is never suitable for salad.",
+    "thawing": "Add frozen spinach straight to soups, curries and bakes, or thaw it in the fridge and squeeze out the water before use.",
+    "spoilage": [
+      "Slimy, dark or translucent leaves",
+      "Yellowing across the bag, not just one or two leaves",
+      "Liquid pooling at the bottom of the container",
+      "Sour or fermented smell when the bag is opened"
+    ],
+    "tips": [
+      "Line the container with kitchen paper and replace it when damp",
+      "Do not wash before storing — wash and spin dry just before serving",
+      "Pick out any slimy leaf immediately, as it accelerates the rest",
+      "Blanch and freeze spinach you cannot eat in time; do not freeze lettuce"
+    ],
+    "faq": [
+      {"q": "How long does baby spinach last in the fridge?", "a": "3–7 days from purchase at 4 °C (40 °F) or below, stored unwashed with kitchen paper in the container to absorb moisture."},
+      {"q": "Can you freeze spinach?", "a": "Yes, if blanched for 2 minutes and squeezed dry first. Frozen spinach is only suitable for cooked dishes, never for salad. Raw lettuce should not be frozen."},
+      {"q": "Why does bagged salad go slimy?", "a": "Condensation inside the bag lets bacteria multiply on bruised leaf edges. Adding kitchen paper to absorb moisture and removing damaged leaves slows this down considerably."}
+    ]
+  },
+  "zh": {
+    "name": "散葉萵苣與菠菜",
+    "aliases": ["嫩菠菜", "波士頓萵苣", "奶油萵苣", "生菜葉", "芝麻葉"],
+    "summary": "散葉萵苣和菠菜的葉片薄嫩，失水和變黏滑的速度比結球品種快很多。冷藏從購買日起只能放 3～7 天。袋子裡多餘的水氣是最大的敵人。",
+    "pantry": "生菜葉絕對不該放在室溫。放在溫暖的檯面上一兩個小時就會軟垮，而洗好的即食生菜屬於高水分食品，不應該在 4～60°C 的危險溫度帶停留超過 2 小時。買回來請立刻冷藏。",
+    "fridge": "不清洗，放在 4°C 以下的蔬果保鮮室，從購買日起可放 3～7 天。容器或袋子裡墊廚房紙巾吸收冷凝水，那正是葉子變黏滑的原因，紙巾濕了就換一張。也不要把葉子塞得太緊，壓傷的葉子壞得最快。",
+    "freezer": "USDA 沒有提供生菜葉的冷凍期限，生萵苣也不建議冷凍。菠菜則不同：汆燙 2 分鐘、擠乾水分後分裝冷凍，可以用在熱菜裡。冷凍過的菠菜絕對不能做沙拉。",
+    "thawing": "冷凍菠菜可以直接加進湯、咖哩和焗烤裡，或放冷藏室退冰後把水擠乾再使用。",
+    "spoilage": [
+      "葉子變黏滑、發黑或半透明",
+      "整袋都在發黃，而不只是一兩片",
+      "容器底部積了水",
+      "打開袋子有酸味或發酵味"
+    ],
+    "tips": [
+      "容器裡墊廚房紙巾，濕了就換",
+      "保存前不要洗，上桌前才洗並用蔬菜脫水器甩乾",
+      "發現黏滑的葉子立刻挑掉，它會加速其他葉子腐壞",
+      "吃不完的菠菜燙過後冷凍；萵苣則不要冷凍"
+    ],
+    "faq": [
+      {"q": "嫩菠菜放冰箱可以放多久？", "a": "不清洗、容器裡墊廚房紙巾吸濕，放 4°C 以下，從購買日起 3～7 天。"},
+      {"q": "菠菜可以冷凍嗎？", "a": "可以，但要先汆燙 2 分鐘並擠乾水分。冷凍菠菜只適合做熟食，不能做沙拉。生萵苣則不建議冷凍。"},
+      {"q": "袋裝生菜為什麼會變黏滑？", "a": "袋子裡的冷凝水讓細菌在壓傷的葉緣繁殖。墊廚房紙巾吸濕、並把受損的葉子挑掉，可以明顯延緩這個過程。"}
+    ]
+  },
+  "ja": {
+    "name": "リーフレタス・ほうれん草",
+    "aliases": ["ベビーリーフ", "サラダほうれん草", "サニーレタス", "バターヘッドレタス", "ルッコラ"],
+    "summary": "リーフレタスやほうれん草は葉が薄くやわらかいため、結球種よりずっと早く水分が抜けてぬめりが出ます。冷蔵では購入日から3〜7日しか持ちません。袋の中の余分な水分が最大の敵です。",
+    "pantry": "サラダ用の葉物を常温に置いてはいけません。暖かい調理台では1〜2時間でしおれますし、洗浄済みのそのまま食べられる葉は水分の多い食品なので、4〜60℃の危険温度帯に2時間以上置かないでください。すぐ冷蔵庫へ。",
+    "fridge": "洗わずに4℃以下の野菜室で保存すれば、購入日から3〜7日持ちます。容器や袋にキッチンペーパーを敷いて結露を吸わせましょう。この水分こそがぬめりの原因で、ペーパーが湿ったら取り替えます。葉を詰め込みすぎないこと。傷んだ葉から一気に劣化します。",
+    "freezer": "USDAはサラダ用葉物の冷凍期間を示しておらず、生のレタスの冷凍は推奨されません。ほうれん草は別で、2分下ゆでして水気を絞り、小分け冷凍すれば加熱料理に使えます。冷凍ほうれん草はサラダには使えません。",
+    "thawing": "冷凍ほうれん草はそのままスープ、カレー、グラタンへ。または冷蔵庫で解凍し、水気を絞ってから使いましょう。",
+    "spoilage": [
+      "葉がぬめる、黒ずむ、透けたようになっている",
+      "1〜2枚ではなく袋全体が黄ばんでいる",
+      "容器の底に水がたまっている",
+      "袋を開けると酸っぱい、発酵したようなにおいがする"
+    ],
+    "tips": [
+      "容器にキッチンペーパーを敷き、湿ったら取り替えましょう",
+      "保存前は洗わず、食べる直前に洗ってしっかり水気を切りましょう",
+      "ぬめった葉はすぐ取り除きを。ほかの葉の劣化を早めます",
+      "食べ切れないほうれん草は下ゆでして冷凍を。レタスは冷凍しないこと"
+    ],
+    "faq": [
+      {"q": "サラダほうれん草は冷蔵庫でどのくらい持ちますか？", "a": "洗わず、容器にキッチンペーパーを敷いて4℃以下に置けば、購入日から3〜7日です。"},
+      {"q": "ほうれん草は冷凍できますか？", "a": "できます。2分下ゆでして水気を絞ってから冷凍を。加熱料理専用で、サラダには使えません。生のレタスは冷凍しないでください。"},
+      {"q": "袋入りサラダがぬめるのはなぜですか？", "a": "袋の中の結露が、傷んだ葉の縁で細菌を増やすためです。キッチンペーパーで水分を吸わせ、傷んだ葉を取り除くとかなり遅らせられます。"}
+    ]
+  },
+  "es": {
+    "name": "Lechuga de hoja y espinacas",
+    "aliases": ["espinacas baby", "lechuga hoja de roble", "lechuga mantecosa", "brotes de ensalada", "rúcula"],
+    "summary": "Las lechugas de hoja blanda y las espinacas tienen hojas finas y tiernas que pierden agua y se vuelven viscosas mucho antes que las variedades de cogollo. En la nevera duran solo 3–7 días desde la compra. El exceso de humedad en la bolsa es el enemigo principal.",
+    "pantry": "Las hojas de ensalada nunca deben guardarse a temperatura ambiente. Se marchitan en una o dos horas en una encimera cálida, y las hojas lavadas y listas para comer son un alimento húmedo que no debe estar en la zona de peligro de 4–60 °C (40–140 °F) más de 2 horas. Refrigéralas de inmediato.",
+    "fridge": "Guarda las hojas sin lavar a 4 °C (40 °F) o menos en el cajón de verduras, donde duran 3–7 días desde la compra. Forra el recipiente o la bolsa con papel de cocina para absorber la condensación, que es lo que las vuelve viscosas, y cámbialo cuando se humedezca. No las compactes: las hojas magulladas se degradan primero.",
+    "freezer": "El USDA no da un plazo de congelación para las hojas de ensalada, y congelar lechuga cruda no se recomienda. Las espinacas son distintas: escáldalas 2 minutos, estruja el agua y congélalas por raciones para platos cocinados. La espinaca congelada nunca sirve para ensalada.",
+    "thawing": "Añade las espinacas congeladas directamente a sopas, currys y horneados, o descongélalas en la nevera y estruja el agua antes de usarlas.",
+    "spoilage": [
+      "Hojas viscosas, oscuras o translúcidas",
+      "Amarilleo en toda la bolsa, no solo en una o dos hojas",
+      "Líquido acumulado en el fondo del recipiente",
+      "Olor agrio o fermentado al abrir la bolsa"
+    ],
+    "tips": [
+      "Forra el recipiente con papel de cocina y cámbialo cuando esté húmedo",
+      "No las laves antes de guardarlas: lávalas y centrifúgalas justo antes de servir",
+      "Retira de inmediato cualquier hoja viscosa, porque acelera el deterioro del resto",
+      "Escalda y congela las espinacas que no puedas comer a tiempo; no congeles la lechuga"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las espinacas baby en la nevera?", "a": "3–7 días desde la compra a 4 °C (40 °F) o menos, sin lavar y con papel de cocina en el recipiente para absorber la humedad."},
+      {"q": "¿Se pueden congelar las espinacas?", "a": "Sí, escaldándolas 2 minutos y estrujando el agua antes. La espinaca congelada solo sirve para platos cocinados, nunca para ensalada. La lechuga cruda no debe congelarse."},
+      {"q": "¿Por qué la ensalada embolsada se vuelve viscosa?", "a": "La condensación dentro de la bolsa permite que las bacterias se multipliquen en los bordes magullados. Añadir papel de cocina y retirar las hojas dañadas lo frena bastante."}
+    ]
+  }
+}

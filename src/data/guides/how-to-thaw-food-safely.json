@@ -1,273 +1,333 @@
 {
-  "slug": "how-to-thaw-food-safely",
-  "category": "freezer",
-  "updated": "2026-09-08",
-  "en": {
-    "title": "How to Thaw Frozen Food Safely (and What Never to Do)",
-    "description": "Only three methods are safe: in the fridge, in cold water, or in the microwave. Never thaw on the counter. You can also cook from frozen.",
-    "intro": "There are exactly three safe ways to thaw frozen food: in the refrigerator, submerged in cold water, or in the microwave. Food thawed by cold water or microwave must be cooked immediately, because parts of it will already have warmed into the danger zone. Thawing on the kitchen counter is not one of the safe methods, and for many foods you can skip thawing entirely and cook straight from frozen.",
-    "sections": [
-      {
-        "heading": "Why counter thawing fails",
-        "body": "A frozen chicken on the counter thaws from the outside in. Long before the centre softens, the surface has been sitting at room temperature for hours — and the surface is exactly where bacteria live.\n\nHong Kong's Centre for Food Safety states the mechanism plainly: \"as soon as frozen meat become warmer than 4 °C, bacteria present in meat before freezing can become active\" and start to multiply. Freezing pauses bacteria; it does not remove them. Whatever was on the food when it went in is still there when it comes out, and it resumes growing as soon as the temperature rises.\n\nThe same objection applies to warm water and to a sunny windowsill. Hot water is worse still: it cooks the outer layer while the middle is frozen, creating a wide band of food sitting in the [[guide:danger-zone-two-hour-rule]] for a long stretch."
-      },
-      {
-        "heading": "Method 1: the refrigerator (best)",
-        "body": "Refrigerator thawing keeps every part of the food below 4 °C the whole time. It needs planning, but it is the only method that leaves you flexibility afterwards.\n\n**How to do it**\n\n1. Put the frozen package on a plate or in a container with a rim, to catch drips.\n2. Place it on the **bottom shelf**, below ready-to-eat food, so nothing drips onto salad or leftovers.\n3. Leave it. Do not open the package to \"speed it up\".\n\n**Rough timings at 4 °C**\n\n| Item | Time |\n| --- | --- |\n| Minced meat, small portions, fillets | overnight (8–12 h) |\n| Chicken pieces, steaks, chops | 12–24 h |\n| Whole chicken (1.5 kg) | about 24 h |\n| Large joint or whole turkey | 24 h per 2–2.5 kg |\n| Soups and stews in a flat bag | 12–24 h |\n\nThe UK FSA advises using defrosted food within 24 hours. Food thawed in the fridge and still cold may be refrozen without cooking, though quality suffers — see [[guide:refreezing-thawed-food]]."
-      },
-      {
-        "heading": "Method 2: cold water (fast)",
-        "body": "Cold-water thawing is roughly six times faster than the fridge and safe if you follow the rules strictly.\n\n1. **Keep the food sealed** in a leak-proof bag. Water must not touch the food — it would wash bacteria in and flavour out.\n2. **Submerge fully in cold tap water.** Not warm, not hot. A weight on top stops the package floating.\n3. **Change the water every 30 minutes**, or use a slow trickle of cold running water so the layer next to the package never warms.\n4. **Cook immediately** when thawed. The outer layer has risen above 4 °C, so this food cannot go back in the fridge raw.\n\nTypical times: small portions and fillets 30–60 minutes; 1 kg of chicken pieces about 1 hour; a 1.5 kg whole chicken 2–3 hours. Anything needing more than about three hours is better thawed in the fridge."
-      },
-      {
-        "heading": "Method 3: the microwave (fastest)",
-        "body": "Every microwave has a defrost setting, and the FDA lists it among the acceptable methods — with the same condition as cold water: cook immediately afterwards.\n\nMicrowaves thaw unevenly. Thin edges begin to cook while the middle is still solid, so parts of the food will be in the danger zone by the time you are done.\n\n- **Remove all packaging** first, especially foam trays and metal clips. Transfer to a microwave-safe dish.\n- **Use the defrost power level**, not full power, and work in short bursts.\n- **Turn, separate and rearrange** every few minutes. Break apart minced meat as it softens and pull chicken pieces apart.\n- **Stop while the centre is still slightly icy** and cook straight away.\n- **Never microwave-thaw and then refrigerate** for later.\n\nMicrowave defrosting suits minced meat, single portions and small fillets. It is a poor choice for large joints or whole birds, which will cook at the surface long before the centre thaws."
-      },
-      {
-        "heading": "Cooking straight from frozen",
-        "body": "For a great many foods, thawing is an unnecessary step — and skipping it removes a whole opportunity for things to go wrong.\n\n**Cook from frozen without thawing:**\n\n- Frozen vegetables, straight into boiling water or a hot pan.\n- Fish fillets, baked or pan-fried with a few extra minutes.\n- Sausages, burgers, breaded products and [[food:chicken-nuggets-patties]] made for the freezer.\n- Soups, stews and sauces, reheated gently in a pan with a splash of water.\n- Bread, pastry, dumplings and [[food:pizza-frozen]].\n\n**Rules if you do it:**\n\n1. Allow roughly **50 % extra cooking time** compared with thawed food.\n2. **Always check the internal temperature** with a probe: 74 °C (165 °F) for poultry pieces and reheated dishes, 75 °C for a general safety margin.\n3. **Do not cook a whole frozen bird or a large joint from frozen** — the outside will overcook long before the middle is safe.\n4. Slow cookers are unsuitable for frozen raw meat, because the food spends too long warming through."
-      },
-      {
-        "heading": "After thawing: handling and refreezing",
-        "body": "Thawed food is simply refrigerated food again, with a shorter clock.\n\n- **Use within 24 hours** of thawing in the fridge, is the FSA's advice, and cook it thoroughly.\n- **Keep it on the bottom shelf** in a container while it finishes thawing, away from ready-to-eat food.\n- **Never refreeze anything thawed in cold water or the microwave** without cooking it first.\n- **Food thawed in the fridge and still at 4 °C or below can be refrozen** raw, but ice crystals will have damaged the texture; expect drip loss and a drier result.\n- **Cook, then refreeze** is always the better route. A raw chicken thawed in the fridge can be roasted and the cooked meat frozen again.\n- **Do not refreeze anything that has been above 4 °C for more than two hours.**\n\nThe drip liquid from thawing raw meat is a cross-contamination risk in its own right. Wash the plate, the surface and your hands before touching anything else."
-      }
-    ],
-    "keyTakeaways": [
-      "Only three safe methods: refrigerator, cold water in a sealed bag, or microwave.",
-      "Cold-water and microwave thawing require cooking immediately afterwards.",
-      "Never thaw on the counter or in warm water — the surface enters the danger zone for hours.",
-      "Many foods can be cooked straight from frozen with about 50 % extra time.",
-      "Use fridge-thawed food within 24 hours; check 74 °C (165 °F) with a probe."
-    ],
-    "faq": [
-      {
-        "q": "How long does it take to thaw a chicken in the fridge?",
-        "a": "Chicken pieces take 12–24 hours and a whole 1.5 kg bird about a day. For larger birds allow roughly 24 hours per 2–2.5 kg. Put it on the bottom shelf in a container so juices cannot drip onto other food."
-      },
-      {
-        "q": "Can I leave meat out overnight to defrost?",
-        "a": "No. The surface reaches room temperature within an hour or two while the centre is still frozen, so bacteria multiply on the outside for many hours. Use the fridge, cold water in a sealed bag, or the microwave instead."
-      },
-      {
-        "q": "Can I refreeze food after thawing?",
-        "a": "Yes if it thawed in the refrigerator and is still at 4 °C or below, though texture and juiciness suffer. Food thawed in cold water or the microwave must be cooked first; the cooked dish can then be frozen."
-      },
-      {
-        "q": "Is it safe to cook meat from frozen?",
-        "a": "Yes for smaller items such as mince, burgers, sausages and fillets, allowing about 50 % more cooking time and checking 74 °C (165 °F) with a probe. Avoid it for whole birds and large joints, and never in a slow cooker."
-      },
-      {
-        "q": "Should I thaw food in hot water to save time?",
-        "a": "No. Hot water warms the outer layer into the danger zone and can partially cook it while the centre stays frozen. Cold water changed every 30 minutes is the fast method that is actually safe."
-      }
-    ],
-    "sources": [
-      { "name": "US FDA – Safe Food Handling (safe defrosting methods)", "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling" },
-      { "name": "Hong Kong CFS – Frozen Meat: Tips for Food Safety (thawing at 0–4 °C)", "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_166_01.html" },
-      { "name": "UK FSA – How to chill, freeze and defrost food safely", "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely" },
-      { "name": "AESAN – Food hygiene (thawing by refrigeration, microwave or cold water)", "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos" },
-      { "name": "Health Canada – Safe internal cooking temperatures", "url": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html" }
-    ]
-  },
-  "zh": {
-    "title": "冷凍食品怎麼解凍才安全？三種方法與絕對不能做的事",
-    "description": "安全的解凍只有三種：冷藏、冷水浸泡、微波。絕對不要放在室溫退冰。很多食物其實可以免解凍直接煮。",
-    "intro": "安全的解凍方式只有三種：放冷藏室、密封後泡冷水、用微波爐。用冷水或微波解凍的食物必須立刻烹調，因為部分區域已經回溫進入危險溫度帶。放在流理台上「退冰」不在安全方法之列；而且對很多食材來說，你根本可以跳過解凍，直接從冷凍狀態下鍋。",
-    "sections": [
-      {
-        "heading": "為什麼室溫退冰不行",
-        "body": "一隻冷凍雞放在流理台上，是「由外往內」解凍的。等中心終於軟化時，表面早已在室溫下待了好幾個小時——而表面正是細菌所在的位置。\n\n香港食物安全中心把機制講得很清楚：冷凍肉的溫度一旦超過 4℃，冷凍前就存在於肉裡的細菌便會恢復活性並開始繁殖。冷凍只是讓細菌「暫停」，不是「消滅」。放進去時有多少菌，拿出來時就還有多少，溫度一回升就繼續長。\n\n同樣的問題也發生在溫水和曬得到太陽的窗邊。熱水更糟：外層被煮熟時中心還是冰的，等於製造出一大圈長時間停留在[[guide:danger-zone-two-hour-rule]]裡的食物。"
-      },
-      {
-        "heading": "方法一：冷藏室解凍（最推薦）",
-        "body": "冷藏解凍能讓食物每一個部位全程維持在 4℃ 以下。它需要事先規劃，但也是唯一在解凍後仍保有彈性的方法。\n\n**做法**\n\n1. 把冷凍包裝放在盤子或有邊的容器上，接住滴下的血水。\n2. 放在**最下層**，位置低於即食食物，避免滴到生菜或剩菜。\n3. 放著就好，不要為了「加速」而拆開包裝。\n\n**4℃ 下的大致時間**\n\n| 品項 | 時間 |\n| --- | --- |\n| 絞肉、小份量、魚片 | 一夜（8～12 小時） |\n| 雞肉切塊、牛排、豬排 | 12～24 小時 |\n| 全雞（1.5 公斤） | 約 24 小時 |\n| 大塊肉或整隻火雞 | 每 2～2.5 公斤約 24 小時 |\n| 壓平袋裝的湯或燉菜 | 12～24 小時 |\n\n英國食品標準局建議解凍後 24 小時內使用完畢。在冷藏解凍、且仍然冰冷的食物可以不經烹調直接再冷凍，但品質會下降，詳見[[guide:refreezing-thawed-food]]。"
-      },
-      {
-        "heading": "方法二：冷水浸泡（較快）",
-        "body": "冷水解凍大約比冷藏快六倍，只要嚴格遵守規則就是安全的。\n\n1. **食物必須密封**在不會滲漏的袋子裡。水不可以直接接觸食物，否則會把細菌沖進去、把風味沖出來。\n2. **完全浸入冷的自來水中。** 不是溫水，更不是熱水。上面壓個重物避免浮起來。\n3. **每 30 分鐘換一次水**，或用細細的冷水持續流動，讓緊貼包裝的那層水不會變溫。\n4. **解凍後立刻烹調。** 外層已經高於 4℃，這份食物不能生的放回冰箱。\n\n常見時間：小份量與魚片 30～60 分鐘；1 公斤雞肉塊約 1 小時；1.5 公斤全雞 2～3 小時。需要超過三小時的，還是改用冷藏解凍比較好。"
-      },
-      {
-        "heading": "方法三：微波解凍（最快）",
-        "body": "每台微波爐都有解凍功能，美國 FDA 也把它列為可接受的方法之一——但條件跟冷水一樣：解凍完必須馬上煮。\n\n微波解凍很不均勻。薄的邊緣已經開始熟了，中心還是硬的，所以完成時一定有一部分食物待在危險溫度帶。\n\n- **先拆掉所有包裝**，特別是保麗龍托盤和金屬夾，換到可微波的容器裡。\n- **使用解凍功率**而不是全功率，並且分段短時間進行。\n- **每隔幾分鐘翻面、撥開、重新排列。** 絞肉一軟就撥散，雞塊要分開。\n- **中心還有一點冰時就停手**，直接下鍋。\n- **不要微波解凍後又放回冷藏**留到之後煮。\n\n微波解凍適合絞肉、單人份與小塊魚片，不適合大塊肉或整隻雞——外層早就熟了，中心還沒解凍。"
-      },
-      {
-        "heading": "免解凍，直接下鍋",
-        "body": "對非常多食材來說，解凍是多餘的步驟；跳過它，也等於少掉一個出錯的機會。\n\n**可以直接冷凍下鍋：**\n\n- 冷凍蔬菜，直接丟進滾水或熱鍋。\n- 魚片，烘烤或香煎，多幾分鐘即可。\n- 香腸、漢堡排、裹粉製品與[[food:chicken-nuggets-patties]]這類本來就設計成冷凍的產品。\n- 湯品、燉菜與醬料，加一點水小火慢慢回熱。\n- 麵包、麵團、水餃與[[food:pizza-frozen]]。\n\n**要注意的規則：**\n\n1. 烹調時間比解凍過的食材**多約 50%**。\n2. **一定要用探針溫度計確認中心溫度**：家禽切塊與復熱料理 74℃（165°F），一般安全裕度可抓 75℃。\n3. **整隻冷凍雞或大塊肉不要直接烹調**，外層會過熟而中心還沒到安全溫度。\n4. 慢燉鍋不適合放冷凍生肉，食物升溫過程太慢。"
-      },
-      {
-        "heading": "解凍之後：處理與再冷凍",
-        "body": "解凍後的食物就等於一般冷藏食物，只是保存時鐘更短。\n\n- **冷藏解凍後 24 小時內使用**（英國 FSA 建議），並且要徹底加熱。\n- 解凍過程中**放在最下層**、用容器裝好，遠離即食食物。\n- **冷水或微波解凍的食物，未經烹調絕對不要再冷凍。**\n- **在冷藏解凍、且仍在 4℃ 以下的食物可以生的再冷凍**，但冰晶已經破壞組織，會出水、口感變柴。\n- **「先煮熟再冷凍」永遠是比較好的路線。** 冷藏解凍的生雞可以先烤熟，熟肉再冷凍。\n- **任何在 4℃ 以上超過兩小時的東西，都不要再冷凍。**\n\n解凍生肉滴出的血水本身就是交叉污染來源。碰其他東西之前，先把盤子、檯面和雙手洗乾淨。"
-      }
-    ],
-    "keyTakeaways": [
-      "安全解凍只有三種：冷藏、密封泡冷水、微波。",
-      "冷水與微波解凍的食物必須立刻烹調。",
-      "絕不要在室溫或溫水中退冰，表面會長時間停在危險溫度帶。",
-      "許多食材可直接冷凍下鍋，烹調時間多抓約 50%。",
-      "冷藏解凍的食物請於 24 小時內用完，並用探針確認 74℃。"
-    ],
-    "faq": [
-      {
-        "q": "冷藏解凍一隻雞要多久？",
-        "a": "雞肉切塊約 12～24 小時，1.5 公斤全雞約一天。更大的禽類大致每 2～2.5 公斤抓 24 小時。請放在最下層並用容器裝著，避免血水滴到其他食物。"
-      },
-      {
-        "q": "肉放在室溫退冰一晚可以嗎？",
-        "a": "不行。一兩個小時內表面就達到室溫，中心卻還結凍，等於讓細菌在外層繁殖好幾個小時。請改用冷藏、密封冷水或微波。"
-      },
-      {
-        "q": "解凍過的食物可以再冷凍嗎？",
-        "a": "如果是在冷藏室解凍、且仍維持 4℃ 以下，可以再冷凍，但口感與多汁度會下降。冷水或微波解凍的必須先煮熟，煮好的料理再冷凍即可。"
-      },
-      {
-        "q": "冷凍肉可以直接下鍋煮嗎？",
-        "a": "絞肉、漢堡排、香腸、魚片等小型品項可以，烹調時間多約 50%，並用探針確認中心 74℃。整隻雞與大塊肉不建議，慢燉鍋也不適合放冷凍生肉。"
-      },
-      {
-        "q": "用熱水解凍比較快，可以嗎？",
-        "a": "不可以。熱水會讓外層進入危險溫度帶甚至半熟，中心卻仍結凍。真正又快又安全的做法是密封後泡冷水，每 30 分鐘換水一次。"
-      }
-    ],
-    "sources": [
-      { "name": "香港食物安全中心－冷凍肉類的食安提示（0～4℃ 解凍）", "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_166_01.html" },
-      { "name": "美國 FDA－安全的食品處理（安全解凍方式）", "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling" },
-      { "name": "衛福部食藥署－食品中毒常見問與答（危險溫度帶）", "url": "https://www.fda.gov.tw/TC/sitecontent.aspx?sid=2572" },
-      { "name": "英國食品標準局－安全的冷藏、冷凍與解凍", "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely" },
-      { "name": "加拿大衛生部－安全的中心加熱溫度", "url": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html" }
-    ]
-  },
-  "ja": {
-    "title": "冷凍食品の安全な解凍方法（やってはいけない解凍も）",
-    "description": "安全な解凍は冷蔵庫・冷水・電子レンジの3つだけ。常温放置は不可。凍ったまま加熱できる食品も多くあります。",
-    "intro": "冷凍食品を安全に解凍する方法は3つだけです。冷蔵庫内、密封して冷水に沈める、電子レンジ。このうち冷水と電子レンジで解凍したものは、その場ですぐ加熱してください。一部がすでに危険温度帯まで温まっているためです。台所に出しっぱなしの「自然解凍」は安全な方法に含まれません。そして多くの食品は、解凍そのものを省いて凍ったまま調理できます。",
-    "sections": [
-      {
-        "heading": "常温解凍がだめな理由",
-        "body": "台に出した冷凍鶏肉は、外側から内側へと解けていきます。中心がやわらかくなるずっと前に、表面は何時間も室温にさらされています。そして細菌がいるのはまさにその表面です。\n\n香港食物安全センターは仕組みをはっきり書いています。冷凍肉が4℃より温かくなった時点で、冷凍前から肉にいた細菌が活動を再開し増殖を始める、と。冷凍は細菌を「一時停止」させるだけで、取り除くわけではありません。入れたときにいた菌は、出したときにもそのままいます。\n\nぬるま湯や日の当たる窓辺も同じ問題を抱えます。熱湯はさらに悪く、中心が凍ったまま外層だけが加熱され、長時間[[guide:danger-zone-two-hour-rule]]に留まる層が広く生じます。"
-      },
-      {
-        "heading": "方法1：冷蔵庫解凍（最善）",
-        "body": "冷蔵庫解凍は、食品のどの部分も終始4℃以下に保てます。計画は要りますが、解凍後の選択肢が残る唯一の方法です。\n\n**手順**\n\n1. 冷凍パックを皿か縁のある容器に載せ、ドリップを受けます。\n2. **最下段**、そのまま食べる食品より低い位置に置きます。\n3. そのまま待ちます。「早めるため」に包装を開けてはいけません。\n\n**4℃でのおおよその時間**\n\n| 品目 | 時間 |\n| --- | --- |\n| ひき肉、小分け、切り身 | 一晩（8〜12時間） |\n| 鶏のパーツ、ステーキ、チョップ | 12〜24時間 |\n| 丸鶏（1.5kg） | 約24時間 |\n| 大きな塊肉、七面鳥 | 2〜2.5kgあたり24時間 |\n| 平らな袋のスープ・煮込み | 12〜24時間 |\n\n英国FSAは解凍後24時間以内に使うよう勧めています。冷蔵庫で解凍しまだ冷たい食品は加熱せず再凍結もできますが、品質は落ちます（[[guide:refreezing-thawed-food]]）。"
-      },
-      {
-        "heading": "方法2：冷水解凍（速い）",
-        "body": "冷水解凍は冷蔵庫のおよそ6倍速く、ルールを厳守すれば安全です。\n\n1. **密封する。** 漏れない袋に入れ、水が食品に直接触れないようにします。触れると菌が入り、うま味が出ていきます。\n2. **冷たい水道水に完全に沈める。** ぬるま湯・熱湯は不可。浮くようなら重しを載せます。\n3. **30分ごとに水を替える**か、冷水を細く流し続けて、袋に接する水が温まらないようにします。\n4. **解凍できたらすぐ加熱。** 外層は4℃を超えているので、生のまま冷蔵庫に戻せません。\n\n目安：小分けや切り身30〜60分、鶏肉1kgで約1時間、丸鶏1.5kgで2〜3時間。3時間以上かかりそうなら冷蔵庫解凍に切り替えましょう。"
-      },
-      {
-        "heading": "方法3：電子レンジ（最速）",
-        "body": "解凍機能はどの電子レンジにもあり、米国FDAも認められる方法として挙げています。条件は冷水と同じで、直後に加熱調理することです。\n\n電子レンジの解凍はむらが出ます。薄い縁が加熱され始めても中心はまだ固く、終わった時点で一部は危険温度帯に入っています。\n\n- **包装をすべて外す。** 特に発泡トレーや金属クリップ。レンジ可の器に移します。\n- **解凍出力を使い**、全出力は使いません。短時間ずつ加熱します。\n- **数分おきに裏返し、ほぐし、並べ替える。** ひき肉はやわらかくなったら崩し、鶏肉は1つずつ離します。\n- **中心にまだ氷が残るうちに止め**、すぐ調理します。\n- **レンジ解凍後に冷蔵庫へ戻して後で使う、は不可。**\n\nレンジ解凍が向くのはひき肉、1人前、薄い切り身です。塊肉や丸鶏には不向きで、中心が解ける前に表面が加熱されてしまいます。"
-      },
-      {
-        "heading": "凍ったまま調理する",
-        "body": "多くの食品では解凍は不要な工程であり、省けばそれだけ失敗の余地も減ります。\n\n**そのまま加熱してよいもの：**\n\n- 冷凍野菜。沸騰した湯や熱したフライパンへ直接。\n- 魚の切り身。焼く・ソテーで数分長めに。\n- ソーセージ、ハンバーグ、衣付き製品、[[food:chicken-nuggets-patties]]など冷凍前提の製品。\n- スープ、煮込み、ソース。少量の水を足して弱火で。\n- パン、生地、餃子、[[food:pizza-frozen]]。\n\n**守るべきこと：**\n\n1. 解凍済みに比べて**加熱時間を約50%増やす**。\n2. **必ず中心温度を測る。** 鶏肉のパーツや再加熱料理は74℃（165°F）、余裕をみるなら75℃。\n3. **丸鶏や大きな塊肉を凍ったまま調理しない。** 中心が安全温度に達する前に外側が焦げます。\n4. スロークッカーに冷凍の生肉は不可。昇温に時間がかかりすぎます。"
-      },
-      {
-        "heading": "解凍後の扱いと再凍結",
-        "body": "解凍した食品は「冷蔵食品」に戻っただけで、期限だけが短くなっています。\n\n- **冷蔵庫で解凍したものは24時間以内に使う**（英国FSAの助言）。しっかり加熱します。\n- 解凍中は**最下段**で容器に入れ、そのまま食べる食品から離します。\n- **冷水・レンジで解凍したものは、加熱せずに再凍結しない。**\n- **冷蔵庫で解凍し4℃以下を保っていれば生のまま再凍結可能**ですが、氷結晶で組織が傷んでおり、ドリップが増えてぱさつきます。\n- **「加熱してから凍らせる」が常に上策。** 冷蔵解凍した鶏をローストし、その肉を凍らせます。\n- **4℃超で2時間を超えたものは再凍結しない。**\n\n解凍時に出るドリップ自体が交差汚染源です。他のものに触れる前に、皿・調理台・手を洗いましょう。"
-      }
-    ],
-    "keyTakeaways": [
-      "安全な解凍は冷蔵庫、密封しての冷水、電子レンジの3つだけ。",
-      "冷水・レンジ解凍したものは直後に加熱調理する。",
-      "常温やぬるま湯での解凍は不可。表面が長時間、危険温度帯に置かれる。",
-      "多くの食品は凍ったまま調理でき、加熱時間を約50%増やせばよい。",
-      "冷蔵解凍したものは24時間以内に使い、中心74℃を温度計で確認する。"
-    ],
-    "faq": [
-      {
-        "q": "冷蔵庫で鶏肉を解凍するとどのくらいかかりますか？",
-        "a": "鶏のパーツで12〜24時間、1.5kgの丸鶏で約1日です。大型の鳥は2〜2.5kgあたり24時間を目安に。最下段で容器に入れ、ドリップが他の食品にかからないようにします。"
-      },
-      {
-        "q": "肉を常温に一晩置いて解凍してもいい？",
-        "a": "いけません。1〜2時間で表面は室温に達し、中心はまだ凍ったままです。つまり外側で何時間も細菌が増えます。冷蔵庫、密封しての冷水、電子レンジを使ってください。"
-      },
-      {
-        "q": "解凍した食品を再び冷凍できますか？",
-        "a": "冷蔵庫で解凍し4℃以下を保っていれば可能ですが、食感とジューシーさは落ちます。冷水やレンジで解凍したものは先に加熱を。調理後であれば冷凍できます。"
-      },
-      {
-        "q": "冷凍のまま肉を加熱しても安全ですか？",
-        "a": "ひき肉、ハンバーグ、ソーセージ、切り身など小さいものなら可能です。加熱時間を約50%増やし、中心74℃を温度計で確認します。丸鶏や塊肉、スロークッカーは避けてください。"
-      },
-      {
-        "q": "時間短縮のためお湯で解凍してもいい？",
-        "a": "いけません。お湯は外層を危険温度帯まで温め、中心が凍ったまま部分的に加熱してしまいます。速くて安全なのは、30分ごとに水を替える冷水解凍です。"
-      }
-    ],
-    "sources": [
-      { "name": "米国FDA－安全な食品の取り扱い（安全な解凍方法）", "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling" },
-      { "name": "香港食物安全センター－冷凍肉の食品安全（0〜4℃での解凍）", "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_166_01.html" },
-      { "name": "英国FSA－冷蔵・冷凍・解凍を安全に行う方法", "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely" },
-      { "name": "厚生労働省－家庭でできる食中毒予防の6つのポイント", "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/01_00006.html" },
-      { "name": "カナダ保健省－安全な中心温度", "url": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html" }
-    ]
-  },
-  "es": {
-    "title": "Cómo descongelar alimentos con seguridad (y qué no hacer)",
-    "description": "Solo hay tres métodos seguros: en la nevera, en agua fría o en el microondas. Nunca sobre la encimera. También puedes cocinar directamente congelado.",
-    "intro": "Existen exactamente tres formas seguras de descongelar: en el frigorífico, sumergido en agua fría o en el microondas. Lo descongelado con agua fría o microondas debe cocinarse inmediatamente, porque parte del alimento ya habrá entrado en la zona de peligro. Dejarlo sobre la encimera no es un método seguro y, en muchos casos, se puede saltar la descongelación por completo y cocinar directamente desde congelado.",
-    "sections": [
-      {
-        "heading": "Por qué falla descongelar en la encimera",
-        "body": "Un pollo congelado sobre la encimera se descongela de fuera hacia dentro. Mucho antes de que el centro se ablande, la superficie lleva horas a temperatura ambiente, y la superficie es justo donde viven las bacterias.\n\nEl Centro de Seguridad Alimentaria de Hong Kong describe el mecanismo con claridad: en cuanto la carne congelada supera los 4 °C, las bacterias que ya estaban presentes antes de congelar se reactivan y empiezan a multiplicarse. Congelar pone las bacterias en pausa, no las elimina: lo que había al entrar sigue estando al salir.\n\nLa misma objeción vale para el agua templada o un alféizar soleado. El agua caliente es aún peor: cuece la capa externa mientras el centro sigue helado, creando una franja amplia de alimento dentro de la [[guide:danger-zone-two-hour-rule]] durante mucho rato."
-      },
-      {
-        "heading": "Método 1: el frigorífico (el mejor)",
-        "body": "Descongelar en la nevera mantiene todo el alimento por debajo de 4 °C en todo momento. Exige previsión, pero es el único método que después te deja opciones.\n\n**Cómo hacerlo**\n\n1. Coloca el paquete congelado en un plato o recipiente con borde para recoger el goteo.\n2. Ponlo en la **balda inferior**, por debajo de los alimentos listos para consumir.\n3. Déjalo tranquilo: no abras el envase para «acelerarlo».\n\n**Tiempos orientativos a 4 °C**\n\n| Producto | Tiempo |\n| --- | --- |\n| Carne picada, raciones pequeñas, filetes | una noche (8–12 h) |\n| Piezas de pollo, filetes gruesos, chuletas | 12–24 h |\n| Pollo entero (1,5 kg) | unas 24 h |\n| Pieza grande o pavo entero | 24 h por cada 2–2,5 kg |\n| Sopas y guisos en bolsa plana | 12–24 h |\n\nLa FSA británica recomienda usar lo descongelado en 24 horas. Lo descongelado en nevera y aún frío puede recongelarse sin cocinar, a costa de la calidad: ver [[guide:refreezing-thawed-food]]."
-      },
-      {
-        "heading": "Método 2: agua fría (rápido)",
-        "body": "El agua fría descongela unas seis veces más rápido que la nevera y es seguro si sigues las reglas al pie de la letra.\n\n1. **Mantén el alimento sellado** en una bolsa estanca. El agua no debe tocarlo: arrastraría bacterias hacia dentro y sabor hacia fuera.\n2. **Sumérgelo del todo en agua fría del grifo.** Ni templada ni caliente. Un peso encima evita que flote.\n3. **Cambia el agua cada 30 minutos**, o deja un hilo de agua fría corriendo para que la capa en contacto con la bolsa no se caliente.\n4. **Cocina inmediatamente.** La capa externa ya ha superado los 4 °C, así que no puede volver cruda a la nevera.\n\nTiempos típicos: raciones pequeñas y filetes, 30–60 minutos; 1 kg de pollo troceado, alrededor de una hora; un pollo entero de 1,5 kg, 2–3 horas. Lo que necesite más de tres horas conviene pasarlo a la nevera."
-      },
-      {
-        "heading": "Método 3: el microondas (el más rápido)",
-        "body": "Todos los microondas tienen función de descongelado y la FDA lo incluye entre los métodos aceptables, con la misma condición que el agua fría: cocinar justo después.\n\nEl microondas descongela de forma desigual. Los bordes finos empiezan a cocerse mientras el centro sigue sólido, así que al terminar habrá partes en la zona de peligro.\n\n- **Retira todo el envase**, sobre todo bandejas de porexpán y grapas metálicas. Pasa el alimento a un recipiente apto.\n- **Usa la potencia de descongelación**, no la máxima, y trabaja en tandas cortas.\n- **Gira, separa y recoloca** cada pocos minutos. Desmenuza la carne picada según se ablanda y separa las piezas de pollo.\n- **Detente cuando el centro aún tenga algo de hielo** y cocina en el momento.\n- **Nunca descongeles en microondas para refrigerar y cocinar más tarde.**\n\nEs adecuado para carne picada, raciones individuales y filetes finos, y mala idea para piezas grandes o aves enteras."
-      },
-      {
-        "heading": "Cocinar directamente desde congelado",
-        "body": "En muchísimos alimentos la descongelación es un paso innecesario, y saltárselo elimina toda una ocasión de equivocarse.\n\n**Se cocinan sin descongelar:**\n\n- Verduras congeladas, directas al agua hirviendo o a la sartén caliente.\n- Filetes de pescado, al horno o a la plancha con unos minutos más.\n- Salchichas, hamburguesas, empanados y [[food:chicken-nuggets-patties]] pensados para el congelador.\n- Sopas, guisos y salsas, recalentados a fuego suave con un chorrito de agua.\n- Pan, masas, empanadillas y [[food:pizza-frozen]].\n\n**Reglas si lo haces:**\n\n1. Calcula **un 50 % más de tiempo** de cocción que con producto descongelado.\n2. **Comprueba siempre la temperatura interna** con sonda: 74 °C (165 °F) para piezas de ave y platos recalentados, 75 °C como margen general.\n3. **No cocines un ave entera ni una pieza grande desde congelada:** el exterior se pasa mucho antes de que el centro sea seguro.\n4. La olla de cocción lenta no sirve para carne cruda congelada: tarda demasiado en subir de temperatura."
-      },
-      {
-        "heading": "Después de descongelar: manejo y recongelación",
-        "body": "Un alimento descongelado vuelve a ser, simplemente, un alimento refrigerado, pero con un plazo más corto.\n\n- **Úsalo en 24 horas** tras descongelarlo en la nevera, como aconseja la FSA, y cocínalo bien.\n- **Mantenlo en la balda inferior** dentro de un recipiente mientras termina de descongelarse.\n- **Nunca recongeles sin cocinar** lo descongelado en agua fría o microondas.\n- **Lo descongelado en nevera y todavía a 4 °C o menos sí puede recongelarse** crudo, aunque los cristales de hielo habrán dañado la textura: espera pérdida de jugo y un resultado más seco.\n- **Cocinar y luego congelar** es siempre la mejor ruta: un pollo descongelado en nevera se puede asar y congelar ya cocinado.\n- **No recongeles nada que haya estado más de dos horas por encima de 4 °C.**\n\nEl líquido de descongelación de la carne cruda es en sí mismo un riesgo de contaminación cruzada: lava el plato, la superficie y tus manos antes de tocar nada más."
-      }
-    ],
-    "keyTakeaways": [
-      "Solo tres métodos seguros: frigorífico, agua fría en bolsa cerrada o microondas.",
-      "Lo descongelado en agua fría o microondas se cocina inmediatamente después.",
-      "Nunca descongeles en la encimera ni en agua templada: la superficie pasa horas en la zona de peligro.",
-      "Muchos alimentos se cocinan desde congelado con un 50 % más de tiempo.",
-      "Usa en 24 horas lo descongelado en nevera y comprueba 74 °C (165 °F) con sonda."
-    ],
-    "faq": [
-      {
-        "q": "¿Cuánto tarda en descongelarse un pollo en la nevera?",
-        "a": "Las piezas de pollo tardan 12–24 horas y un ave entera de 1,5 kg alrededor de un día. Para aves mayores calcula unas 24 horas por cada 2–2,5 kg, siempre en la balda inferior y dentro de un recipiente."
-      },
-      {
-        "q": "¿Puedo dejar la carne fuera toda la noche para descongelar?",
-        "a": "No. La superficie alcanza la temperatura ambiente en una o dos horas mientras el centro sigue helado, de modo que las bacterias se multiplican por fuera durante horas. Usa nevera, agua fría en bolsa sellada o microondas."
-      },
-      {
-        "q": "¿Se puede volver a congelar un alimento descongelado?",
-        "a": "Sí, si se descongeló en el frigorífico y sigue a 4 °C o menos, aunque la textura y la jugosidad empeoran. Lo descongelado en agua fría o microondas hay que cocinarlo primero; el plato cocinado sí se puede congelar."
-      },
-      {
-        "q": "¿Es seguro cocinar la carne congelada sin descongelar?",
-        "a": "Sí para piezas pequeñas como picada, hamburguesas, salchichas y filetes, con un 50 % más de tiempo y comprobando 74 °C (165 °F) con sonda. Evítalo en aves enteras y piezas grandes, y nunca en olla de cocción lenta."
-      },
-      {
-        "q": "¿Puedo descongelar en agua caliente para ganar tiempo?",
-        "a": "No. El agua caliente lleva la capa externa a la zona de peligro y puede cocinarla parcialmente mientras el centro sigue congelado. El método rápido y seguro es el agua fría, cambiada cada 30 minutos."
-      }
-    ],
-    "sources": [
-      { "name": "FDA de EE. UU. – Manipulación segura de alimentos (métodos de descongelación)", "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling" },
-      { "name": "AESAN – Higiene de los alimentos (descongelación en refrigeración, microondas o agua fría)", "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos" },
-      { "name": "CFS de Hong Kong – Carne congelada: consejos de seguridad (descongelar a 0–4 °C)", "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_166_01.html" },
-      { "name": "FSA del Reino Unido – Cómo refrigerar, congelar y descongelar con seguridad", "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely" },
-      { "name": "Health Canada – Temperaturas internas seguras de cocción", "url": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html" }
-    ]
-  }
+ "slug": "how-to-thaw-food-safely",
+ "category": "freezer",
+ "updated": "2026-09-08",
+ "en": {
+  "title": "How to Thaw Frozen Food Safely (and What Never to Do)",
+  "description": "Only three methods are safe: in the fridge, in cold water, or in the microwave. Never thaw on the counter. You can also cook from frozen.",
+  "intro": "There are exactly three safe ways to thaw frozen food: in the refrigerator, submerged in cold water, or in the microwave. Food thawed by cold water or microwave must be cooked immediately, because parts of it will already have warmed into the danger zone. Thawing on the kitchen counter is not one of the safe methods, and for many foods you can skip thawing entirely and cook straight from frozen.",
+  "sections": [
+   {
+    "heading": "Why counter thawing fails",
+    "body": "A frozen chicken on the counter thaws from the outside in. Long before the centre softens, the surface has been sitting at room temperature for hours — and the surface is exactly where bacteria live.\n\nHong Kong's Centre for Food Safety states the mechanism plainly: \"as soon as frozen meat become warmer than 4 °C, bacteria present in meat before freezing can become active\" and start to multiply. Freezing pauses bacteria; it does not remove them. Whatever was on the food when it went in is still there when it comes out, and it resumes growing as soon as the temperature rises.\n\nThe same objection applies to warm water and to a sunny windowsill. Hot water is worse still: it cooks the outer layer while the middle is frozen, creating a wide band of food sitting in the [[guide:danger-zone-two-hour-rule]] for a long stretch."
+   },
+   {
+    "heading": "Method 1: the refrigerator (best)",
+    "body": "Refrigerator thawing keeps every part of the food below 4 °C the whole time. It needs planning, but it is the only method that leaves you flexibility afterwards.\n\n**How to do it**\n\n1. Put the frozen package on a plate or in a container with a rim, to catch drips.\n2. Place it on the **bottom shelf**, below ready-to-eat food, so nothing drips onto salad or leftovers.\n3. Leave it. Do not open the package to \"speed it up\".\n\n**Rough timings at 4 °C**\n\n| Item | Time |\n| --- | --- |\n| Minced meat, small portions, fillets | overnight (8–12 h) |\n| Chicken pieces, steaks, chops | 12–24 h |\n| Whole chicken (1.5 kg) | about 24 h |\n| Large joint or whole turkey | 24 h per 2–2.5 kg |\n| Soups and stews in a flat bag | 12–24 h |\n\nThe UK FSA advises using defrosted food within 24 hours. Food thawed in the fridge and still cold may be refrozen without cooking, though quality suffers — see [[guide:refreezing-thawed-food]]."
+   },
+   {
+    "heading": "Method 2: cold water (fast)",
+    "body": "Cold-water thawing is roughly six times faster than the fridge and safe if you follow the rules strictly.\n\n1. **Keep the food sealed** in a leak-proof bag. Water must not touch the food — it would wash bacteria in and flavour out.\n2. **Submerge fully in cold tap water.** Not warm, not hot. A weight on top stops the package floating.\n3. **Change the water every 30 minutes**, or use a slow trickle of cold running water so the layer next to the package never warms.\n4. **Cook immediately** when thawed. The outer layer has risen above 4 °C, so this food cannot go back in the fridge raw.\n\nTypical times: small portions and fillets 30–60 minutes; 1 kg of chicken pieces about 1 hour; a 1.5 kg whole chicken 2–3 hours. Anything needing more than about three hours is better thawed in the fridge."
+   },
+   {
+    "heading": "Method 3: the microwave (fastest)",
+    "body": "Every microwave has a defrost setting, and the FDA lists it among the acceptable methods — with the same condition as cold water: cook immediately afterwards.\n\nMicrowaves thaw unevenly. Thin edges begin to cook while the middle is still solid, so parts of the food will be in the danger zone by the time you are done.\n\n- **Remove all packaging** first, especially foam trays and metal clips. Transfer to a microwave-safe dish.\n- **Use the defrost power level**, not full power, and work in short bursts.\n- **Turn, separate and rearrange** every few minutes. Break apart minced meat as it softens and pull chicken pieces apart.\n- **Stop while the centre is still slightly icy** and cook straight away.\n- **Never microwave-thaw and then refrigerate** for later.\n\nMicrowave defrosting suits minced meat, single portions and small fillets. It is a poor choice for large joints or whole birds, which will cook at the surface long before the centre thaws."
+   },
+   {
+    "heading": "Cooking straight from frozen",
+    "body": "For a great many foods, thawing is an unnecessary step — and skipping it removes a whole opportunity for things to go wrong.\n\n**Cook from frozen without thawing:**\n\n- Frozen vegetables, straight into boiling water or a hot pan.\n- Fish fillets, baked or pan-fried with a few extra minutes.\n- Sausages, burgers, breaded products and [[food:chicken-nuggets-patties|Chicken nuggets and patties]] made for the freezer.\n- Soups, stews and sauces, reheated gently in a pan with a splash of water.\n- Bread, pastry, dumplings and [[food:pizza-frozen|frozen pizza]].\n\n**Rules if you do it:**\n\n1. Allow roughly **50 % extra cooking time** compared with thawed food.\n2. **Always check the internal temperature** with a probe: 74 °C (165 °F) for poultry pieces and reheated dishes, 75 °C for a general safety margin.\n3. **Do not cook a whole frozen bird or a large joint from frozen** — the outside will overcook long before the middle is safe.\n4. Slow cookers are unsuitable for frozen raw meat, because the food spends too long warming through."
+   },
+   {
+    "heading": "After thawing: handling and refreezing",
+    "body": "Thawed food is simply refrigerated food again, with a shorter clock.\n\n- **Use within 24 hours** of thawing in the fridge, is the FSA's advice, and cook it thoroughly.\n- **Keep it on the bottom shelf** in a container while it finishes thawing, away from ready-to-eat food.\n- **Never refreeze anything thawed in cold water or the microwave** without cooking it first.\n- **Food thawed in the fridge and still at 4 °C or below can be refrozen** raw, but ice crystals will have damaged the texture; expect drip loss and a drier result.\n- **Cook, then refreeze** is always the better route. A raw chicken thawed in the fridge can be roasted and the cooked meat frozen again.\n- **Do not refreeze anything that has been above 4 °C for more than two hours.**\n\nThe drip liquid from thawing raw meat is a cross-contamination risk in its own right. Wash the plate, the surface and your hands before touching anything else."
+   }
+  ],
+  "keyTakeaways": [
+   "Only three safe methods: refrigerator, cold water in a sealed bag, or microwave.",
+   "Cold-water and microwave thawing require cooking immediately afterwards.",
+   "Never thaw on the counter or in warm water — the surface enters the danger zone for hours.",
+   "Many foods can be cooked straight from frozen with about 50 % extra time.",
+   "Use fridge-thawed food within 24 hours; check 74 °C (165 °F) with a probe."
+  ],
+  "faq": [
+   {
+    "q": "How long does it take to thaw a chicken in the fridge?",
+    "a": "Chicken pieces take 12–24 hours and a whole 1.5 kg bird about a day. For larger birds allow roughly 24 hours per 2–2.5 kg. Put it on the bottom shelf in a container so juices cannot drip onto other food."
+   },
+   {
+    "q": "Can I leave meat out overnight to defrost?",
+    "a": "No. The surface reaches room temperature within an hour or two while the centre is still frozen, so bacteria multiply on the outside for many hours. Use the fridge, cold water in a sealed bag, or the microwave instead."
+   },
+   {
+    "q": "Can I refreeze food after thawing?",
+    "a": "Yes if it thawed in the refrigerator and is still at 4 °C or below, though texture and juiciness suffer. Food thawed in cold water or the microwave must be cooked first; the cooked dish can then be frozen."
+   },
+   {
+    "q": "Is it safe to cook meat from frozen?",
+    "a": "Yes for smaller items such as mince, burgers, sausages and fillets, allowing about 50 % more cooking time and checking 74 °C (165 °F) with a probe. Avoid it for whole birds and large joints, and never in a slow cooker."
+   },
+   {
+    "q": "Should I thaw food in hot water to save time?",
+    "a": "No. Hot water warms the outer layer into the danger zone and can partially cook it while the centre stays frozen. Cold water changed every 30 minutes is the fast method that is actually safe."
+   }
+  ],
+  "sources": [
+   {
+    "name": "US FDA – Safe Food Handling (safe defrosting methods)",
+    "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling"
+   },
+   {
+    "name": "Hong Kong CFS – Frozen Meat: Tips for Food Safety (thawing at 0–4 °C)",
+    "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_166_01.html"
+   },
+   {
+    "name": "UK FSA – How to chill, freeze and defrost food safely",
+    "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely"
+   },
+   {
+    "name": "AESAN – Food hygiene (thawing by refrigeration, microwave or cold water)",
+    "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos"
+   },
+   {
+    "name": "Health Canada – Safe internal cooking temperatures",
+    "url": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html"
+   }
+  ]
+ },
+ "zh": {
+  "title": "冷凍食品怎麼解凍才安全？三種方法與絕對不能做的事",
+  "description": "安全的解凍只有三種：冷藏、冷水浸泡、微波。絕對不要放在室溫退冰。很多食物其實可以免解凍直接煮。",
+  "intro": "安全的解凍方式只有三種：放冷藏室、密封後泡冷水、用微波爐。用冷水或微波解凍的食物必須立刻烹調，因為部分區域已經回溫進入危險溫度帶。放在流理台上「退冰」不在安全方法之列；而且對很多食材來說，你根本可以跳過解凍，直接從冷凍狀態下鍋。",
+  "sections": [
+   {
+    "heading": "為什麼室溫退冰不行",
+    "body": "一隻冷凍雞放在流理台上，是「由外往內」解凍的。等中心終於軟化時，表面早已在室溫下待了好幾個小時——而表面正是細菌所在的位置。\n\n香港食物安全中心把機制講得很清楚：冷凍肉的溫度一旦超過 4℃，冷凍前就存在於肉裡的細菌便會恢復活性並開始繁殖。冷凍只是讓細菌「暫停」，不是「消滅」。放進去時有多少菌，拿出來時就還有多少，溫度一回升就繼續長。\n\n同樣的問題也發生在溫水和曬得到太陽的窗邊。熱水更糟：外層被煮熟時中心還是冰的，等於製造出一大圈長時間停留在[[guide:danger-zone-two-hour-rule]]裡的食物。"
+   },
+   {
+    "heading": "方法一：冷藏室解凍（最推薦）",
+    "body": "冷藏解凍能讓食物每一個部位全程維持在 4℃ 以下。它需要事先規劃，但也是唯一在解凍後仍保有彈性的方法。\n\n**做法**\n\n1. 把冷凍包裝放在盤子或有邊的容器上，接住滴下的血水。\n2. 放在**最下層**，位置低於即食食物，避免滴到生菜或剩菜。\n3. 放著就好，不要為了「加速」而拆開包裝。\n\n**4℃ 下的大致時間**\n\n| 品項 | 時間 |\n| --- | --- |\n| 絞肉、小份量、魚片 | 一夜（8～12 小時） |\n| 雞肉切塊、牛排、豬排 | 12～24 小時 |\n| 全雞（1.5 公斤） | 約 24 小時 |\n| 大塊肉或整隻火雞 | 每 2～2.5 公斤約 24 小時 |\n| 壓平袋裝的湯或燉菜 | 12～24 小時 |\n\n英國食品標準局建議解凍後 24 小時內使用完畢。在冷藏解凍、且仍然冰冷的食物可以不經烹調直接再冷凍，但品質會下降，詳見[[guide:refreezing-thawed-food]]。"
+   },
+   {
+    "heading": "方法二：冷水浸泡（較快）",
+    "body": "冷水解凍大約比冷藏快六倍，只要嚴格遵守規則就是安全的。\n\n1. **食物必須密封**在不會滲漏的袋子裡。水不可以直接接觸食物，否則會把細菌沖進去、把風味沖出來。\n2. **完全浸入冷的自來水中。** 不是溫水，更不是熱水。上面壓個重物避免浮起來。\n3. **每 30 分鐘換一次水**，或用細細的冷水持續流動，讓緊貼包裝的那層水不會變溫。\n4. **解凍後立刻烹調。** 外層已經高於 4℃，這份食物不能生的放回冰箱。\n\n常見時間：小份量與魚片 30～60 分鐘；1 公斤雞肉塊約 1 小時；1.5 公斤全雞 2～3 小時。需要超過三小時的，還是改用冷藏解凍比較好。"
+   },
+   {
+    "heading": "方法三：微波解凍（最快）",
+    "body": "每台微波爐都有解凍功能，美國 FDA 也把它列為可接受的方法之一——但條件跟冷水一樣：解凍完必須馬上煮。\n\n微波解凍很不均勻。薄的邊緣已經開始熟了，中心還是硬的，所以完成時一定有一部分食物待在危險溫度帶。\n\n- **先拆掉所有包裝**，特別是保麗龍托盤和金屬夾，換到可微波的容器裡。\n- **使用解凍功率**而不是全功率，並且分段短時間進行。\n- **每隔幾分鐘翻面、撥開、重新排列。** 絞肉一軟就撥散，雞塊要分開。\n- **中心還有一點冰時就停手**，直接下鍋。\n- **不要微波解凍後又放回冷藏**留到之後煮。\n\n微波解凍適合絞肉、單人份與小塊魚片，不適合大塊肉或整隻雞——外層早就熟了，中心還沒解凍。"
+   },
+   {
+    "heading": "免解凍，直接下鍋",
+    "body": "對非常多食材來說，解凍是多餘的步驟；跳過它，也等於少掉一個出錯的機會。\n\n**可以直接冷凍下鍋：**\n\n- 冷凍蔬菜，直接丟進滾水或熱鍋。\n- 魚片，烘烤或香煎，多幾分鐘即可。\n- 香腸、漢堡排、裹粉製品與[[food:chicken-nuggets-patties|雞塊、雞排（冷凍）]]這類本來就設計成冷凍的產品。\n- 湯品、燉菜與醬料，加一點水小火慢慢回熱。\n- 麵包、麵團、水餃與[[food:pizza-frozen|冷凍披薩]]。\n\n**要注意的規則：**\n\n1. 烹調時間比解凍過的食材**多約 50%**。\n2. **一定要用探針溫度計確認中心溫度**：家禽切塊與復熱料理 74℃（165°F），一般安全裕度可抓 75℃。\n3. **整隻冷凍雞或大塊肉不要直接烹調**，外層會過熟而中心還沒到安全溫度。\n4. 慢燉鍋不適合放冷凍生肉，食物升溫過程太慢。"
+   },
+   {
+    "heading": "解凍之後：處理與再冷凍",
+    "body": "解凍後的食物就等於一般冷藏食物，只是保存時鐘更短。\n\n- **冷藏解凍後 24 小時內使用**（英國 FSA 建議），並且要徹底加熱。\n- 解凍過程中**放在最下層**、用容器裝好，遠離即食食物。\n- **冷水或微波解凍的食物，未經烹調絕對不要再冷凍。**\n- **在冷藏解凍、且仍在 4℃ 以下的食物可以生的再冷凍**，但冰晶已經破壞組織，會出水、口感變柴。\n- **「先煮熟再冷凍」永遠是比較好的路線。** 冷藏解凍的生雞可以先烤熟，熟肉再冷凍。\n- **任何在 4℃ 以上超過兩小時的東西，都不要再冷凍。**\n\n解凍生肉滴出的血水本身就是交叉污染來源。碰其他東西之前，先把盤子、檯面和雙手洗乾淨。"
+   }
+  ],
+  "keyTakeaways": [
+   "安全解凍只有三種：冷藏、密封泡冷水、微波。",
+   "冷水與微波解凍的食物必須立刻烹調。",
+   "絕不要在室溫或溫水中退冰，表面會長時間停在危險溫度帶。",
+   "許多食材可直接冷凍下鍋，烹調時間多抓約 50%。",
+   "冷藏解凍的食物請於 24 小時內用完，並用探針確認 74℃。"
+  ],
+  "faq": [
+   {
+    "q": "冷藏解凍一隻雞要多久？",
+    "a": "雞肉切塊約 12～24 小時，1.5 公斤全雞約一天。更大的禽類大致每 2～2.5 公斤抓 24 小時。請放在最下層並用容器裝著，避免血水滴到其他食物。"
+   },
+   {
+    "q": "肉放在室溫退冰一晚可以嗎？",
+    "a": "不行。一兩個小時內表面就達到室溫，中心卻還結凍，等於讓細菌在外層繁殖好幾個小時。請改用冷藏、密封冷水或微波。"
+   },
+   {
+    "q": "解凍過的食物可以再冷凍嗎？",
+    "a": "如果是在冷藏室解凍、且仍維持 4℃ 以下，可以再冷凍，但口感與多汁度會下降。冷水或微波解凍的必須先煮熟，煮好的料理再冷凍即可。"
+   },
+   {
+    "q": "冷凍肉可以直接下鍋煮嗎？",
+    "a": "絞肉、漢堡排、香腸、魚片等小型品項可以，烹調時間多約 50%，並用探針確認中心 74℃。整隻雞與大塊肉不建議，慢燉鍋也不適合放冷凍生肉。"
+   },
+   {
+    "q": "用熱水解凍比較快，可以嗎？",
+    "a": "不可以。熱水會讓外層進入危險溫度帶甚至半熟，中心卻仍結凍。真正又快又安全的做法是密封後泡冷水，每 30 分鐘換水一次。"
+   }
+  ],
+  "sources": [
+   {
+    "name": "香港食物安全中心－冷凍肉類的食安提示（0～4℃ 解凍）",
+    "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_166_01.html"
+   },
+   {
+    "name": "美國 FDA－安全的食品處理（安全解凍方式）",
+    "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling"
+   },
+   {
+    "name": "衛福部食藥署－食品中毒常見問與答（危險溫度帶）",
+    "url": "https://www.fda.gov.tw/TC/sitecontent.aspx?sid=2572"
+   },
+   {
+    "name": "英國食品標準局－安全的冷藏、冷凍與解凍",
+    "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely"
+   },
+   {
+    "name": "加拿大衛生部－安全的中心加熱溫度",
+    "url": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html"
+   }
+  ]
+ },
+ "ja": {
+  "title": "冷凍食品の安全な解凍方法（やってはいけない解凍も）",
+  "description": "安全な解凍は冷蔵庫・冷水・電子レンジの3つだけ。常温放置は不可。凍ったまま加熱できる食品も多くあります。",
+  "intro": "冷凍食品を安全に解凍する方法は3つだけです。冷蔵庫内、密封して冷水に沈める、電子レンジ。このうち冷水と電子レンジで解凍したものは、その場ですぐ加熱してください。一部がすでに危険温度帯まで温まっているためです。台所に出しっぱなしの「自然解凍」は安全な方法に含まれません。そして多くの食品は、解凍そのものを省いて凍ったまま調理できます。",
+  "sections": [
+   {
+    "heading": "常温解凍がだめな理由",
+    "body": "台に出した冷凍鶏肉は、外側から内側へと解けていきます。中心がやわらかくなるずっと前に、表面は何時間も室温にさらされています。そして細菌がいるのはまさにその表面です。\n\n香港食物安全センターは仕組みをはっきり書いています。冷凍肉が4℃より温かくなった時点で、冷凍前から肉にいた細菌が活動を再開し増殖を始める、と。冷凍は細菌を「一時停止」させるだけで、取り除くわけではありません。入れたときにいた菌は、出したときにもそのままいます。\n\nぬるま湯や日の当たる窓辺も同じ問題を抱えます。熱湯はさらに悪く、中心が凍ったまま外層だけが加熱され、長時間[[guide:danger-zone-two-hour-rule]]に留まる層が広く生じます。"
+   },
+   {
+    "heading": "方法1：冷蔵庫解凍（最善）",
+    "body": "冷蔵庫解凍は、食品のどの部分も終始4℃以下に保てます。計画は要りますが、解凍後の選択肢が残る唯一の方法です。\n\n**手順**\n\n1. 冷凍パックを皿か縁のある容器に載せ、ドリップを受けます。\n2. **最下段**、そのまま食べる食品より低い位置に置きます。\n3. そのまま待ちます。「早めるため」に包装を開けてはいけません。\n\n**4℃でのおおよその時間**\n\n| 品目 | 時間 |\n| --- | --- |\n| ひき肉、小分け、切り身 | 一晩（8〜12時間） |\n| 鶏のパーツ、ステーキ、チョップ | 12〜24時間 |\n| 丸鶏（1.5kg） | 約24時間 |\n| 大きな塊肉、七面鳥 | 2〜2.5kgあたり24時間 |\n| 平らな袋のスープ・煮込み | 12〜24時間 |\n\n英国FSAは解凍後24時間以内に使うよう勧めています。冷蔵庫で解凍しまだ冷たい食品は加熱せず再凍結もできますが、品質は落ちます（[[guide:refreezing-thawed-food]]）。"
+   },
+   {
+    "heading": "方法2：冷水解凍（速い）",
+    "body": "冷水解凍は冷蔵庫のおよそ6倍速く、ルールを厳守すれば安全です。\n\n1. **密封する。** 漏れない袋に入れ、水が食品に直接触れないようにします。触れると菌が入り、うま味が出ていきます。\n2. **冷たい水道水に完全に沈める。** ぬるま湯・熱湯は不可。浮くようなら重しを載せます。\n3. **30分ごとに水を替える**か、冷水を細く流し続けて、袋に接する水が温まらないようにします。\n4. **解凍できたらすぐ加熱。** 外層は4℃を超えているので、生のまま冷蔵庫に戻せません。\n\n目安：小分けや切り身30〜60分、鶏肉1kgで約1時間、丸鶏1.5kgで2〜3時間。3時間以上かかりそうなら冷蔵庫解凍に切り替えましょう。"
+   },
+   {
+    "heading": "方法3：電子レンジ（最速）",
+    "body": "解凍機能はどの電子レンジにもあり、米国FDAも認められる方法として挙げています。条件は冷水と同じで、直後に加熱調理することです。\n\n電子レンジの解凍はむらが出ます。薄い縁が加熱され始めても中心はまだ固く、終わった時点で一部は危険温度帯に入っています。\n\n- **包装をすべて外す。** 特に発泡トレーや金属クリップ。レンジ可の器に移します。\n- **解凍出力を使い**、全出力は使いません。短時間ずつ加熱します。\n- **数分おきに裏返し、ほぐし、並べ替える。** ひき肉はやわらかくなったら崩し、鶏肉は1つずつ離します。\n- **中心にまだ氷が残るうちに止め**、すぐ調理します。\n- **レンジ解凍後に冷蔵庫へ戻して後で使う、は不可。**\n\nレンジ解凍が向くのはひき肉、1人前、薄い切り身です。塊肉や丸鶏には不向きで、中心が解ける前に表面が加熱されてしまいます。"
+   },
+   {
+    "heading": "凍ったまま調理する",
+    "body": "多くの食品では解凍は不要な工程であり、省けばそれだけ失敗の余地も減ります。\n\n**そのまま加熱してよいもの：**\n\n- 冷凍野菜。沸騰した湯や熱したフライパンへ直接。\n- 魚の切り身。焼く・ソテーで数分長めに。\n- ソーセージ、ハンバーグ、衣付き製品、[[food:chicken-nuggets-patties|チキンナゲット・チキンパティ]]など冷凍前提の製品。\n- スープ、煮込み、ソース。少量の水を足して弱火で。\n- パン、生地、餃子、[[food:pizza-frozen|冷凍ピザ]]。\n\n**守るべきこと：**\n\n1. 解凍済みに比べて**加熱時間を約50%増やす**。\n2. **必ず中心温度を測る。** 鶏肉のパーツや再加熱料理は74℃（165°F）、余裕をみるなら75℃。\n3. **丸鶏や大きな塊肉を凍ったまま調理しない。** 中心が安全温度に達する前に外側が焦げます。\n4. スロークッカーに冷凍の生肉は不可。昇温に時間がかかりすぎます。"
+   },
+   {
+    "heading": "解凍後の扱いと再凍結",
+    "body": "解凍した食品は「冷蔵食品」に戻っただけで、期限だけが短くなっています。\n\n- **冷蔵庫で解凍したものは24時間以内に使う**（英国FSAの助言）。しっかり加熱します。\n- 解凍中は**最下段**で容器に入れ、そのまま食べる食品から離します。\n- **冷水・レンジで解凍したものは、加熱せずに再凍結しない。**\n- **冷蔵庫で解凍し4℃以下を保っていれば生のまま再凍結可能**ですが、氷結晶で組織が傷んでおり、ドリップが増えてぱさつきます。\n- **「加熱してから凍らせる」が常に上策。** 冷蔵解凍した鶏をローストし、その肉を凍らせます。\n- **4℃超で2時間を超えたものは再凍結しない。**\n\n解凍時に出るドリップ自体が交差汚染源です。他のものに触れる前に、皿・調理台・手を洗いましょう。"
+   }
+  ],
+  "keyTakeaways": [
+   "安全な解凍は冷蔵庫、密封しての冷水、電子レンジの3つだけ。",
+   "冷水・レンジ解凍したものは直後に加熱調理する。",
+   "常温やぬるま湯での解凍は不可。表面が長時間、危険温度帯に置かれる。",
+   "多くの食品は凍ったまま調理でき、加熱時間を約50%増やせばよい。",
+   "冷蔵解凍したものは24時間以内に使い、中心74℃を温度計で確認する。"
+  ],
+  "faq": [
+   {
+    "q": "冷蔵庫で鶏肉を解凍するとどのくらいかかりますか？",
+    "a": "鶏のパーツで12〜24時間、1.5kgの丸鶏で約1日です。大型の鳥は2〜2.5kgあたり24時間を目安に。最下段で容器に入れ、ドリップが他の食品にかからないようにします。"
+   },
+   {
+    "q": "肉を常温に一晩置いて解凍してもいい？",
+    "a": "いけません。1〜2時間で表面は室温に達し、中心はまだ凍ったままです。つまり外側で何時間も細菌が増えます。冷蔵庫、密封しての冷水、電子レンジを使ってください。"
+   },
+   {
+    "q": "解凍した食品を再び冷凍できますか？",
+    "a": "冷蔵庫で解凍し4℃以下を保っていれば可能ですが、食感とジューシーさは落ちます。冷水やレンジで解凍したものは先に加熱を。調理後であれば冷凍できます。"
+   },
+   {
+    "q": "冷凍のまま肉を加熱しても安全ですか？",
+    "a": "ひき肉、ハンバーグ、ソーセージ、切り身など小さいものなら可能です。加熱時間を約50%増やし、中心74℃を温度計で確認します。丸鶏や塊肉、スロークッカーは避けてください。"
+   },
+   {
+    "q": "時間短縮のためお湯で解凍してもいい？",
+    "a": "いけません。お湯は外層を危険温度帯まで温め、中心が凍ったまま部分的に加熱してしまいます。速くて安全なのは、30分ごとに水を替える冷水解凍です。"
+   }
+  ],
+  "sources": [
+   {
+    "name": "米国FDA－安全な食品の取り扱い（安全な解凍方法）",
+    "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling"
+   },
+   {
+    "name": "香港食物安全センター－冷凍肉の食品安全（0〜4℃での解凍）",
+    "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_166_01.html"
+   },
+   {
+    "name": "英国FSA－冷蔵・冷凍・解凍を安全に行う方法",
+    "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely"
+   },
+   {
+    "name": "厚生労働省－家庭でできる食中毒予防の6つのポイント",
+    "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/01_00006.html"
+   },
+   {
+    "name": "カナダ保健省－安全な中心温度",
+    "url": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html"
+   }
+  ]
+ },
+ "es": {
+  "title": "Cómo descongelar alimentos con seguridad (y qué no hacer)",
+  "description": "Solo hay tres métodos seguros: en la nevera, en agua fría o en el microondas. Nunca sobre la encimera. También puedes cocinar directamente congelado.",
+  "intro": "Existen exactamente tres formas seguras de descongelar: en el frigorífico, sumergido en agua fría o en el microondas. Lo descongelado con agua fría o microondas debe cocinarse inmediatamente, porque parte del alimento ya habrá entrado en la zona de peligro. Dejarlo sobre la encimera no es un método seguro y, en muchos casos, se puede saltar la descongelación por completo y cocinar directamente desde congelado.",
+  "sections": [
+   {
+    "heading": "Por qué falla descongelar en la encimera",
+    "body": "Un pollo congelado sobre la encimera se descongela de fuera hacia dentro. Mucho antes de que el centro se ablande, la superficie lleva horas a temperatura ambiente, y la superficie es justo donde viven las bacterias.\n\nEl Centro de Seguridad Alimentaria de Hong Kong describe el mecanismo con claridad: en cuanto la carne congelada supera los 4 °C, las bacterias que ya estaban presentes antes de congelar se reactivan y empiezan a multiplicarse. Congelar pone las bacterias en pausa, no las elimina: lo que había al entrar sigue estando al salir.\n\nLa misma objeción vale para el agua templada o un alféizar soleado. El agua caliente es aún peor: cuece la capa externa mientras el centro sigue helado, creando una franja amplia de alimento dentro de la [[guide:danger-zone-two-hour-rule]] durante mucho rato."
+   },
+   {
+    "heading": "Método 1: el frigorífico (el mejor)",
+    "body": "Descongelar en la nevera mantiene todo el alimento por debajo de 4 °C en todo momento. Exige previsión, pero es el único método que después te deja opciones.\n\n**Cómo hacerlo**\n\n1. Coloca el paquete congelado en un plato o recipiente con borde para recoger el goteo.\n2. Ponlo en la **balda inferior**, por debajo de los alimentos listos para consumir.\n3. Déjalo tranquilo: no abras el envase para «acelerarlo».\n\n**Tiempos orientativos a 4 °C**\n\n| Producto | Tiempo |\n| --- | --- |\n| Carne picada, raciones pequeñas, filetes | una noche (8–12 h) |\n| Piezas de pollo, filetes gruesos, chuletas | 12–24 h |\n| Pollo entero (1,5 kg) | unas 24 h |\n| Pieza grande o pavo entero | 24 h por cada 2–2,5 kg |\n| Sopas y guisos en bolsa plana | 12–24 h |\n\nLa FSA británica recomienda usar lo descongelado en 24 horas. Lo descongelado en nevera y aún frío puede recongelarse sin cocinar, a costa de la calidad: ver [[guide:refreezing-thawed-food]]."
+   },
+   {
+    "heading": "Método 2: agua fría (rápido)",
+    "body": "El agua fría descongela unas seis veces más rápido que la nevera y es seguro si sigues las reglas al pie de la letra.\n\n1. **Mantén el alimento sellado** en una bolsa estanca. El agua no debe tocarlo: arrastraría bacterias hacia dentro y sabor hacia fuera.\n2. **Sumérgelo del todo en agua fría del grifo.** Ni templada ni caliente. Un peso encima evita que flote.\n3. **Cambia el agua cada 30 minutos**, o deja un hilo de agua fría corriendo para que la capa en contacto con la bolsa no se caliente.\n4. **Cocina inmediatamente.** La capa externa ya ha superado los 4 °C, así que no puede volver cruda a la nevera.\n\nTiempos típicos: raciones pequeñas y filetes, 30–60 minutos; 1 kg de pollo troceado, alrededor de una hora; un pollo entero de 1,5 kg, 2–3 horas. Lo que necesite más de tres horas conviene pasarlo a la nevera."
+   },
+   {
+    "heading": "Método 3: el microondas (el más rápido)",
+    "body": "Todos los microondas tienen función de descongelado y la FDA lo incluye entre los métodos aceptables, con la misma condición que el agua fría: cocinar justo después.\n\nEl microondas descongela de forma desigual. Los bordes finos empiezan a cocerse mientras el centro sigue sólido, así que al terminar habrá partes en la zona de peligro.\n\n- **Retira todo el envase**, sobre todo bandejas de porexpán y grapas metálicas. Pasa el alimento a un recipiente apto.\n- **Usa la potencia de descongelación**, no la máxima, y trabaja en tandas cortas.\n- **Gira, separa y recoloca** cada pocos minutos. Desmenuza la carne picada según se ablanda y separa las piezas de pollo.\n- **Detente cuando el centro aún tenga algo de hielo** y cocina en el momento.\n- **Nunca descongeles en microondas para refrigerar y cocinar más tarde.**\n\nEs adecuado para carne picada, raciones individuales y filetes finos, y mala idea para piezas grandes o aves enteras."
+   },
+   {
+    "heading": "Cocinar directamente desde congelado",
+    "body": "En muchísimos alimentos la descongelación es un paso innecesario, y saltárselo elimina toda una ocasión de equivocarse.\n\n**Se cocinan sin descongelar:**\n\n- Verduras congeladas, directas al agua hirviendo o a la sartén caliente.\n- Filetes de pescado, al horno o a la plancha con unos minutos más.\n- Salchichas, hamburguesas, empanados y [[food:chicken-nuggets-patties|Nuggets y hamburguesas de pollo]] pensados para el congelador.\n- Sopas, guisos y salsas, recalentados a fuego suave con un chorrito de agua.\n- Pan, masas, empanadillas y [[food:pizza-frozen|pizza congelada]].\n\n**Reglas si lo haces:**\n\n1. Calcula **un 50 % más de tiempo** de cocción que con producto descongelado.\n2. **Comprueba siempre la temperatura interna** con sonda: 74 °C (165 °F) para piezas de ave y platos recalentados, 75 °C como margen general.\n3. **No cocines un ave entera ni una pieza grande desde congelada:** el exterior se pasa mucho antes de que el centro sea seguro.\n4. La olla de cocción lenta no sirve para carne cruda congelada: tarda demasiado en subir de temperatura."
+   },
+   {
+    "heading": "Después de descongelar: manejo y recongelación",
+    "body": "Un alimento descongelado vuelve a ser, simplemente, un alimento refrigerado, pero con un plazo más corto.\n\n- **Úsalo en 24 horas** tras descongelarlo en la nevera, como aconseja la FSA, y cocínalo bien.\n- **Mantenlo en la balda inferior** dentro de un recipiente mientras termina de descongelarse.\n- **Nunca recongeles sin cocinar** lo descongelado en agua fría o microondas.\n- **Lo descongelado en nevera y todavía a 4 °C o menos sí puede recongelarse** crudo, aunque los cristales de hielo habrán dañado la textura: espera pérdida de jugo y un resultado más seco.\n- **Cocinar y luego congelar** es siempre la mejor ruta: un pollo descongelado en nevera se puede asar y congelar ya cocinado.\n- **No recongeles nada que haya estado más de dos horas por encima de 4 °C.**\n\nEl líquido de descongelación de la carne cruda es en sí mismo un riesgo de contaminación cruzada: lava el plato, la superficie y tus manos antes de tocar nada más."
+   }
+  ],
+  "keyTakeaways": [
+   "Solo tres métodos seguros: frigorífico, agua fría en bolsa cerrada o microondas.",
+   "Lo descongelado en agua fría o microondas se cocina inmediatamente después.",
+   "Nunca descongeles en la encimera ni en agua templada: la superficie pasa horas en la zona de peligro.",
+   "Muchos alimentos se cocinan desde congelado con un 50 % más de tiempo.",
+   "Usa en 24 horas lo descongelado en nevera y comprueba 74 °C (165 °F) con sonda."
+  ],
+  "faq": [
+   {
+    "q": "¿Cuánto tarda en descongelarse un pollo en la nevera?",
+    "a": "Las piezas de pollo tardan 12–24 horas y un ave entera de 1,5 kg alrededor de un día. Para aves mayores calcula unas 24 horas por cada 2–2,5 kg, siempre en la balda inferior y dentro de un recipiente."
+   },
+   {
+    "q": "¿Puedo dejar la carne fuera toda la noche para descongelar?",
+    "a": "No. La superficie alcanza la temperatura ambiente en una o dos horas mientras el centro sigue helado, de modo que las bacterias se multiplican por fuera durante horas. Usa nevera, agua fría en bolsa sellada o microondas."
+   },
+   {
+    "q": "¿Se puede volver a congelar un alimento descongelado?",
+    "a": "Sí, si se descongeló en el frigorífico y sigue a 4 °C o menos, aunque la textura y la jugosidad empeoran. Lo descongelado en agua fría o microondas hay que cocinarlo primero; el plato cocinado sí se puede congelar."
+   },
+   {
+    "q": "¿Es seguro cocinar la carne congelada sin descongelar?",
+    "a": "Sí para piezas pequeñas como picada, hamburguesas, salchichas y filetes, con un 50 % más de tiempo y comprobando 74 °C (165 °F) con sonda. Evítalo en aves enteras y piezas grandes, y nunca en olla de cocción lenta."
+   },
+   {
+    "q": "¿Puedo descongelar en agua caliente para ganar tiempo?",
+    "a": "No. El agua caliente lleva la capa externa a la zona de peligro y puede cocinarla parcialmente mientras el centro sigue congelado. El método rápido y seguro es el agua fría, cambiada cada 30 minutos."
+   }
+  ],
+  "sources": [
+   {
+    "name": "FDA de EE. UU. – Manipulación segura de alimentos (métodos de descongelación)",
+    "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling"
+   },
+   {
+    "name": "AESAN – Higiene de los alimentos (descongelación en refrigeración, microondas o agua fría)",
+    "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos"
+   },
+   {
+    "name": "CFS de Hong Kong – Carne congelada: consejos de seguridad (descongelar a 0–4 °C)",
+    "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_166_01.html"
+   },
+   {
+    "name": "FSA del Reino Unido – Cómo refrigerar, congelar y descongelar con seguridad",
+    "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely"
+   },
+   {
+    "name": "Health Canada – Temperaturas internas seguras de cocción",
+    "url": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html"
+   }
+  ]
+ }
 }

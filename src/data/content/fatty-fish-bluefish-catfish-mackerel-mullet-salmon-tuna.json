@@ -1,0 +1,107 @@
+{
+  "slug": "fatty-fish-bluefish-catfish-mackerel-mullet-salmon-tuna",
+  "en": {
+    "name": "Fatty fish (salmon, mackerel, tuna, catfish)",
+    "aliases": ["oily fish", "salmon", "mackerel", "tuna", "bluefish"],
+    "summary": "Oily fish such as salmon, mackerel, tuna, bluefish, mullet and catfish carry a lot of fat in the flesh, which gives them their rich flavour but also makes them go rancid quickly in the freezer. Raw, they keep 1–2 days in the fridge at 4 °C (40 °F) or below from purchase, and only 2–3 months at −18 °C (0 °F).",
+    "pantry": "Raw fish must never be kept at room temperature. Oily fish spoil especially fast because their fats oxidize as well as supporting bacterial growth, and both accelerate in the danger zone between 4 °C and 60 °C (40 °F and 140 °F). Discard fish left out for more than 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Store fillets or steaks wrapped in the coldest part of the fridge at 4 °C (40 °F) or below, ideally over ice in a dish that drains, and cook them within 1–2 days of purchase. Keep them well covered: oily fish transfers its aroma to butter, milk and eggs faster than almost anything else in the fridge.",
+    "freezer": "The short 2–3 month window is entirely about rancidity, not safety — at −18 °C (0 °F) the fish stays safe indefinitely, but the fat oxidizes and develops a strong, painty taste. Wrap portions very tightly, vacuum seal if you can, or glaze the fillets by dipping them in cold water and refreezing in layers to exclude air.",
+    "thawing": "Thaw in the fridge overnight on a plate, or in a sealed bag under cold running water for 20–30 minutes, then cook immediately. Never thaw oily fish at room temperature. Cook to 63 °C (145 °F), or serve thicker cuts of very fresh tuna and salmon rarer if that is your preference and the fish is suitable for it.",
+    "spoilage": [
+      "Sharp fishy, sour or ammonia smell, or a rancid, oily-paint note from the fat",
+      "Slimy surface, or flesh that stays dented when pressed",
+      "Browning or greying flesh, especially along the belly fat and the cut edges",
+      "Milky, thick liquid in the pack, or a passed use-by date"
+    ],
+    "tips": [
+      "Buy oily fish as close to the cooking day as you can — it deteriorates fastest of all fish.",
+      "Vacuum seal or glaze with ice before freezing, and use within 2–3 months.",
+      "Keep it tightly covered so its aroma stays out of the butter and milk.",
+      "Store on ice in the fridge and pour off the meltwater daily."
+    ],
+    "faq": [
+      {"q": "Can you freeze salmon and mackerel?", "a": "Yes, but only for 2–3 months of good quality at −18 °C (0 °F). Their fat oxidizes quickly, so wrap them very tightly or vacuum seal them."},
+      {"q": "How long does fresh salmon last in the fridge?", "a": "1–2 days from the day of purchase at 4 °C (40 °F) or below, best kept on ice."},
+      {"q": "Why does frozen salmon taste strange after a few months?", "a": "The fat has oxidized and gone rancid, giving a painty or metallic taste. It is a quality problem rather than a safety one, but the fish is no longer pleasant to eat."}
+    ]
+  },
+  "zh": {
+    "name": "多脂魚（鮭魚、鯖魚、鮪魚、鯰魚等）",
+    "aliases": ["油脂魚", "鮭魚", "鯖魚", "鮪魚", "青花魚"],
+    "summary": "鮭魚、鯖魚、鮪魚、扁鰺、烏魚、鯰魚這類多脂魚，魚肉裡含有大量脂肪，風味濃郁，但也讓它們在冷凍庫裡很快就油耗。生魚在 4°C 以下冷藏，從購買日起可放 1～2 天；放 −18°C 冷凍只有 2～3 個月。",
+    "pantry": "生魚絕對不能放室溫。多脂魚壞得特別快，因為脂肪除了會被細菌利用，本身也會氧化，兩者在 4～60°C 的危險溫度帶都會加速。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "把魚片或魚排包好，放在冰箱最冷的位置，維持 4°C 以下，最理想是放在能瀝水的容器裡鋪冰塊，並在購買後 1～2 天內煮完。務必包緊：多脂魚的氣味比冰箱裡幾乎任何東西都更容易沾染到奶油、牛奶和雞蛋上。",
+    "freezer": "2～3 個月的短期限完全是因為油耗而不是安全問題——在 −18°C 下安全上可以無限期保存，但脂肪會氧化，產生強烈的油漆味。請把每份包得非常緊，能真空包裝最好；或用「冰衣法」，沾冷水後結凍、分層重複，把空氣完全隔絕。",
+    "thawing": "放盤子上冷藏解凍一晚，或裝密封袋用冷水沖 20～30 分鐘，之後立刻烹調。絕對不要在室溫解凍多脂魚。煮到中心 63°C；若是非常新鮮、適合生食等級的厚切鮪魚或鮭魚，也可以依個人喜好做得比較生。",
+    "spoilage": [
+      "刺鼻腥味、酸味或阿摩尼亞味，或脂肪散發油耗、像油漆的氣味",
+      "表面黏滑，或按壓後凹陷不回彈",
+      "魚肉轉褐或發灰，尤其是腹部脂肪和切面",
+      "包裝內出現乳白濃稠的液體，或已超過有效日期"
+    ],
+    "tips": [
+      "多脂魚盡量接近要煮的日子才買，它是所有魚裡壞得最快的。",
+      "冷凍前真空包裝或做冰衣，並在 2～3 個月內用完。",
+      "包緊一點，氣味才不會跑到奶油和牛奶上。",
+      "在冰箱裡鋪冰塊保存，每天把融水倒掉。"
+    ],
+    "faq": [
+      {"q": "鮭魚、鯖魚可以冷凍嗎？", "a": "可以，但放 −18°C 冷凍只有 2～3 個月的良好品質。它們的脂肪氧化很快，要包得非常緊或真空包裝。"},
+      {"q": "生鮭魚放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起 1～2 天，鋪冰塊保存最好。"},
+      {"q": "冷凍鮭魚放幾個月後為什麼味道怪怪的？", "a": "那是脂肪氧化油耗了，會出現油漆味或金屬味。這是品質問題而非安全問題，但已經不好吃了。"}
+    ]
+  },
+  "ja": {
+    "name": "脂の多い魚（さけ・さば・まぐろ・なまず等）",
+    "aliases": ["青魚", "さけ", "さば", "まぐろ", "ぼら"],
+    "summary": "さけ、さば、まぐろ、ぼら、なまずなどの脂の多い魚は、身に多くの脂を含みこくのある味わいが魅力ですが、そのぶん冷凍中の酸化（油焼け）が早く進みます。生の状態では4℃以下の冷蔵で購入日から1〜2日、−18℃の冷凍でも2〜3か月が目安です。",
+    "pantry": "生の魚を常温に置くことはできません。脂の多い魚はとくに傷みやすく、細菌の増殖に加えて脂の酸化も進み、そのどちらも4〜60℃の危険温度帯で加速します。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。",
+    "fridge": "切り身は包んで庫内でいちばん冷える場所に置き、4℃以下を保ちます。水切りできる器に氷を敷くのが理想で、購入から1〜2日以内に調理しましょう。しっかり密封することも大切です。脂の多い魚のにおいは、庫内のバターや牛乳、卵にとくに移りやすいためです。",
+    "freezer": "2〜3か月という短さは安全性ではなく品質の問題です。−18℃なら安全面では長期間保てますが、脂が酸化してペンキのような強いにおいが出ます。1切れずつ非常にきつく包み、できれば真空パックに。冷水にくぐらせて凍らせる氷衣（グレーズ）を重ねて空気を遮断する方法も有効です。",
+    "thawing": "皿にのせて冷蔵庫で一晩、または密閉袋のまま冷たい流水に20〜30分あてて解凍し、すぐ調理します。常温解凍は避けてください。中心温度63℃まで加熱するのが基本ですが、生食に適した鮮度のまぐろやさけの厚切りは、好みでレアに仕上げても構いません。",
+    "spoilage": [
+      "つんとした生臭さ・酸敗臭・アンモニア臭、または脂からペンキのような酸化臭がする",
+      "表面がぬめる、押した跡が戻らない",
+      "身が茶色や灰色に変わっている（とくに腹の脂の部分や切り口）",
+      "パック内に乳白色でとろみのある液が出ている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "調理する日に近づけて買う。魚のなかでもっとも劣化が早い。",
+      "冷凍は真空パックか氷衣で。2〜3か月以内に使い切る。",
+      "しっかり密封し、においがバターや牛乳に移らないようにする。",
+      "冷蔵庫では氷の上に置き、溶けた水は毎日捨てる。"
+    ],
+    "faq": [
+      {"q": "さけやさばは冷凍できますか？", "a": "できますが、−18℃でも品質の目安は2〜3か月です。脂の酸化が早いので、非常にきつく包むか真空パックにしてください。"},
+      {"q": "生のさけは冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から1〜2日です。氷の上に置くのがいちばんです。"},
+      {"q": "冷凍のさけが数か月で変な味になるのはなぜ？", "a": "脂が酸化して油焼けを起こし、ペンキや金属のような風味が出るためです。安全性というより品質の問題ですが、おいしくは食べられません。"}
+    ]
+  },
+  "es": {
+    "name": "Pescado graso (salmón, caballa, atún, bagre)",
+    "aliases": ["pescado azul", "salmón", "caballa", "atún", "bagre"],
+    "summary": "Los pescados grasos como el salmón, la caballa, el atún, la anjova, la lisa y el bagre tienen mucha grasa en la carne, lo que les da su sabor intenso pero también hace que se enrancien pronto en el congelador. Crudos duran 1–2 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y solo 2–3 meses a −18 °C (0 °F).",
+    "pantry": "El pescado crudo nunca debe guardarse a temperatura ambiente. El pescado graso se estropea especialmente rápido porque su grasa se oxida además de alimentar el crecimiento bacteriano, y ambos procesos se aceleran en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F). Deséchalo si lleva más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Guarda los filetes o rodajas envueltos en la parte más fría del refrigerador a 4 °C (40 °F) o menos, idealmente sobre hielo en una fuente que escurra, y cocínalos en 1–2 días desde la compra. Cúbrelos muy bien: el pescado azul transmite su aroma a la mantequilla, la leche y los huevos más rápido que casi cualquier otra cosa.",
+    "freezer": "La ventana corta de 2–3 meses tiene que ver con el enranciamiento, no con la seguridad: a −18 °C (0 °F) el pescado se mantiene seguro indefinidamente, pero la grasa se oxida y desarrolla un sabor fuerte, como a pintura. Envuelve las porciones muy apretadas, envásalas al vacío si puedes, o glaséalas sumergiéndolas en agua fría y congelando por capas.",
+    "thawing": "Descongélalo en el refrigerador durante una noche sobre un plato, o en bolsa cerrada bajo agua fría corriente 20–30 minutos, y cocínalo enseguida. Nunca descongeles pescado graso a temperatura ambiente. Cocínalo a 63 °C (145 °F), o sirve más crudos los cortes gruesos de atún o salmón muy frescos si lo prefieres y el pescado es apto para ello.",
+    "spoilage": [
+      "Olor punzante a pescado, agrio o a amoníaco, o nota rancia y aceitosa de la grasa",
+      "Superficie viscosa, o carne que queda hundida al presionar",
+      "Carne parduzca o grisácea, sobre todo en la grasa del vientre y los bordes cortados",
+      "Líquido lechoso y espeso en el envase, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Compra el pescado azul lo más cerca posible del día de cocinar: es el que antes se deteriora.",
+      "Envásalo al vacío o glaséalo con hielo antes de congelar, y úsalo en 2–3 meses.",
+      "Mantenlo bien tapado para que su aroma no llegue a la mantequilla ni a la leche.",
+      "Guárdalo sobre hielo en el refrigerador y escurre el agua a diario."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar el salmón y la caballa?", "a": "Sí, pero solo 2–3 meses de buena calidad a −18 °C (0 °F). Su grasa se oxida rápido, así que envuélvelos muy apretados o al vacío."},
+      {"q": "¿Cuánto dura el salmón fresco en el refrigerador?", "a": "1–2 días desde el día de compra a 4 °C (40 °F) o menos, mejor sobre hielo."},
+      {"q": "¿Por qué el salmón congelado sabe raro a los pocos meses?", "a": "La grasa se ha oxidado y enranciado, dando un sabor a pintura o metálico. Es un problema de calidad más que de seguridad, pero ya no resulta agradable."}
+    ]
+  }
+}

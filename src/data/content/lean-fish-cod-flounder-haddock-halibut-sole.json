@@ -1,0 +1,107 @@
+{
+  "slug": "lean-fish-cod-flounder-haddock-halibut-sole",
+  "en": {
+    "name": "Lean fish (cod, flounder, haddock, halibut, sole)",
+    "aliases": ["white fish", "cod", "haddock", "sole", "halibut"],
+    "summary": "Lean white fish such as cod, flounder, haddock, halibut and sole have very little oil in the flesh, which makes them mild in flavour and unusually good freezer keepers. Raw, they last only 1–2 days in the fridge at 4 °C (40 °F) or below from the day of purchase, but 6–8 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw fish must never be kept at room temperature. Fish spoils faster than meat because its enzymes and bacteria work well at low temperatures, so it deteriorates even in the fridge and collapses quickly in the danger zone between 4 °C and 60 °C (40 °F and 140 °F). Discard fish left out for more than 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Fish likes to be colder than the rest of the fridge. Keep the fillets wrapped in the coldest part, ideally on a bed of ice in a shallow dish set over another dish to catch the meltwater, at 4 °C (40 °F) or below, and cook them within 1–2 days of purchase. Drain the melted ice each day so the fish is not sitting in water.",
+    "freezer": "Because they carry so little oil, lean white fish keep good quality for 6–8 months at −18 °C (0 °F), far longer than oily fish; they stay safe indefinitely. Wrap each fillet closely in plastic, then bag them with the air pressed out, or freeze them submerged in water in a container to protect against freezer burn.",
+    "thawing": "Thaw fish in the fridge overnight on a plate, or in a sealed bag under cold running water for 20–30 minutes if you are short of time, then cook it immediately. Never thaw fish at room temperature or in warm water. Cook fish to 63 °C (145 °F), or until it flakes easily and is opaque throughout.",
+    "spoilage": [
+      "A strong fishy, sour or ammonia smell — fresh fish smells clean and faintly of the sea",
+      "Slimy or sticky surface, or flesh that does not spring back when pressed",
+      "Dull, yellowing or greying flesh and sunken, cloudy eyes on a whole fish",
+      "Milky, thick liquid in the packaging, or a passed use-by date"
+    ],
+    "tips": [
+      "Buy fish last on your shopping trip and get it home cold.",
+      "Store on ice in the fridge and drain the meltwater daily.",
+      "Freeze on the day of purchase if you will not cook within 1–2 days.",
+      "Pat fillets dry before cooking so they brown instead of steaming."
+    ],
+    "faq": [
+      {"q": "Can you freeze cod and other white fish?", "a": "Yes, and they freeze exceptionally well: 6–8 months of good quality at −18 °C (0 °F), because the low oil content resists rancidity."},
+      {"q": "How long does fresh fish last in the fridge?", "a": "Only 1–2 days from the day of purchase at 4 °C (40 °F) or below, and it keeps better packed on ice."},
+      {"q": "How can you tell if fish has gone bad?", "a": "Trust your nose: a sharp fishy or ammonia smell means discard it. Sliminess, flesh that stays dented when pressed and dull, yellowing colour are also clear signs."}
+    ]
+  },
+  "zh": {
+    "name": "白肉魚（鱈魚、比目魚、大比目魚等）",
+    "aliases": ["白身魚", "鱈魚", "比目魚", "扁鱈", "板腱魚（低脂魚）"],
+    "summary": "鱈魚、比目魚、黑線鱈、大比目魚、鰈魚這類低脂白肉魚，魚肉裡的油脂非常少，味道清爽，也特別耐冷凍。生魚在 4°C 以下冷藏，從購買日起只能放 1～2 天；放 −18°C 冷凍則可放 6～8 個月。",
+    "pantry": "生魚絕對不能放室溫。魚比肉更容易壞，因為魚體的酵素和細菌在低溫下仍然活躍，即使冷藏也在持續劣化，進入 4～60°C 的危險溫度帶更是迅速崩壞。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "魚需要比冰箱其他區域更低的溫度。把魚片包好放在最冷的位置，最理想的做法是鋪在冰塊上、放淺盤裡再墊一個盤子接融化的水，維持 4°C 以下，並在購買後 1～2 天內煮完。每天把融化的水倒掉，別讓魚泡在水裡。",
+    "freezer": "因為油脂極少，低脂白肉魚在 −18°C 冷凍可維持 6～8 個月的良好品質，比多脂魚長很多；安全上可以無限期保存。每片用保鮮膜貼緊，再裝袋擠出空氣；或者放進容器裡加水把魚整個淹過再冷凍，防凍燒效果很好。",
+    "thawing": "放盤子上冷藏解凍一晚；趕時間可以裝密封袋、用冷水沖 20～30 分鐘，之後立刻烹調。絕對不要在室溫或溫水中解凍。魚要煮到中心 63°C，或用叉子輕壓就會分片、整片變成不透明為止。",
+    "spoilage": [
+      "強烈的腥味、酸味或阿摩尼亞味——新鮮的魚聞起來乾淨、帶淡淡海味",
+      "表面黏滑，或按壓後肉不會回彈",
+      "魚肉暗沉、泛黃或發灰；整條魚的眼睛凹陷混濁",
+      "包裝內出現乳白濃稠的液體，或已超過有效日期"
+    ],
+    "tips": [
+      "採買時把魚留到最後才拿，並盡快低溫帶回家。",
+      "在冰箱裡鋪冰塊保存，每天把融水倒掉。",
+      "1～2 天內煮不完就當天冷凍。",
+      "下鍋前把魚片擦乾，才能煎上色而不是出水變蒸。"
+    ],
+    "faq": [
+      {"q": "鱈魚等白肉魚可以冷凍嗎？", "a": "可以，而且效果特別好：放 −18°C 冷凍 6～8 個月品質仍佳，因為油脂少、不容易氧化酸敗。"},
+      {"q": "生魚放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起只有 1～2 天；鋪冰塊保存效果更好。"},
+      {"q": "魚壞掉怎麼看？", "a": "先聞味道：刺鼻腥味或阿摩尼亞味就要丟掉。表面黏滑、按壓後凹陷不回彈、顏色暗沉泛黃，也都是明顯訊號。"}
+    ]
+  },
+  "ja": {
+    "name": "白身魚（たら・ひらめ・おひょう・したびらめ）",
+    "aliases": ["白身魚", "たら", "ひらめ", "かれい", "おひょう"],
+    "summary": "たら、かれい、ひらめ、おひょう、したびらめなどの白身魚は身の脂が非常に少なく、味わいが淡泊で冷凍にも強いのが特徴です。生の状態では4℃以下の冷蔵で購入日から1〜2日しかもちませんが、−18℃の冷凍なら6〜8か月が目安です。",
+    "pantry": "生の魚を常温に置くことはできません。魚は肉より傷みやすく、酵素や細菌が低温でも働くため冷蔵中も劣化が進み、4〜60℃の危険温度帯では一気に品質が落ちます。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。",
+    "fridge": "魚は庫内のほかの場所よりも低い温度を好みます。包んだ切り身を庫内でいちばん冷える場所に置き、できれば浅い器に氷を敷き、その下に受け皿を置いて4℃以下を保ち、購入から1〜2日以内に調理します。溶けた水は毎日捨て、魚が水に浸からないようにしましょう。",
+    "freezer": "脂が少ないため、白身魚は−18℃で6〜8か月と、脂の多い魚よりずっと長く品質を保てます（安全面では長期間）。1切れずつラップで密着させて包み、袋の空気を抜くか、容器に入れて水を張り氷漬けにすると冷凍焼けをよく防げます。",
+    "thawing": "皿にのせて冷蔵庫で一晩解凍するか、急ぐときは密閉袋のまま流水（冷水）に20〜30分あて、すぐ調理します。常温やぬるま湯での解凍は避けてください。中心温度63℃、または身が不透明になりほぐれるまで加熱します。",
+    "spoilage": [
+      "強い生臭さ、酸っぱいにおい、アンモニア臭がする（新鮮な魚は磯の香りがほのかにする程度）",
+      "表面がぬめる、押しても身が戻らない",
+      "身がくすんで黄ばむ・灰色がかる、丸ごとの魚なら目がくぼんで濁っている",
+      "パック内に乳白色でとろみのある液が出ている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "買い物では最後に選び、冷たいまま持ち帰る。",
+      "冷蔵庫では氷の上で保存し、溶けた水は毎日捨てる。",
+      "1〜2日で調理しないなら購入当日に冷凍する。",
+      "焼く前に水分を拭き取ると、蒸れずにきれいな焼き色がつく。"
+    ],
+    "faq": [
+      {"q": "たらなどの白身魚は冷凍できますか？", "a": "できますし非常に向いています。−18℃で6〜8か月と長いのは、脂が少なく酸化しにくいためです。"},
+      {"q": "生の魚は冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から1〜2日だけです。氷の上に置くとより良い状態を保てます。"},
+      {"q": "魚が傷んでいるかどうかの見分け方は？", "a": "まずにおいです。つんとした生臭さやアンモニア臭がしたら処分してください。ぬめり、押した跡が戻らない身、くすんで黄ばんだ色も明確なサインです。"}
+    ]
+  },
+  "es": {
+    "name": "Pescado magro (bacalao, lenguado, halibut)",
+    "aliases": ["pescado blanco", "bacalao", "merluza", "lenguado", "fletán"],
+    "summary": "Los pescados blancos magros como el bacalao, la platija, el eglefino, el fletán y el lenguado tienen muy poca grasa en la carne, lo que los hace suaves de sabor y excelentes para el congelador. Crudos duran solo 1–2 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, pero 6–8 meses a −18 °C (0 °F).",
+    "pantry": "El pescado crudo nunca debe guardarse a temperatura ambiente. Se estropea antes que la carne porque sus enzimas y bacterias trabajan bien en frío: se deteriora incluso refrigerado y se viene abajo rápido en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F). Deséchalo si lleva más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Al pescado le gusta estar más frío que el resto del refrigerador. Guarda los filetes envueltos en la zona más fría, idealmente sobre hielo en una fuente baja colocada dentro de otra que recoja el agua, a 4 °C (40 °F) o menos, y cocínalos en 1–2 días desde la compra. Vacía el agua del hielo cada día para que el pescado no quede empapado.",
+    "freezer": "Al tener tan poca grasa, el pescado blanco magro conserva buena calidad 6–8 meses a −18 °C (0 °F), mucho más que el pescado graso; se mantiene seguro indefinidamente. Envuelve cada filete pegado con film y embólsalos sin aire, o congélalos sumergidos en agua dentro de un recipiente para evitar la quemadura por congelación.",
+    "thawing": "Descongélalo en el refrigerador durante una noche sobre un plato, o en bolsa cerrada bajo agua fría corriente 20–30 minutos si vas justo de tiempo, y cocínalo enseguida. Nunca lo descongeles a temperatura ambiente ni en agua tibia. Cocina el pescado a 63 °C (145 °F), o hasta que se desmenuce y esté opaco.",
+    "spoilage": [
+      "Olor fuerte a pescado, agrio o a amoníaco: el pescado fresco huele limpio y levemente a mar",
+      "Superficie viscosa o pegajosa, o carne que no recupera la forma al presionarla",
+      "Carne apagada, amarillenta o grisácea y, en pescado entero, ojos hundidos y turbios",
+      "Líquido lechoso y espeso en el envase, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Compra el pescado al final y llévalo a casa en frío.",
+      "Guárdalo sobre hielo en el refrigerador y escurre el agua a diario.",
+      "Congélalo el mismo día si no vas a cocinarlo en 1–2 días.",
+      "Seca los filetes antes de cocinar para que doren en vez de cocerse al vapor."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el bacalao y otros pescados blancos?", "a": "Sí, y se congelan excepcionalmente bien: 6–8 meses de buena calidad a −18 °C (0 °F), porque su bajo contenido graso resiste el enranciamiento."},
+      {"q": "¿Cuánto dura el pescado fresco en el refrigerador?", "a": "Solo 1–2 días desde el día de compra a 4 °C (40 °F) o menos, y se conserva mejor sobre hielo."},
+      {"q": "¿Cómo saber si el pescado está malo?", "a": "Fíate del olfato: un olor fuerte a pescado o a amoníaco significa tirarlo. La viscosidad, la carne que queda hundida al presionar y el color apagado o amarillento también lo delatan."}
+    ]
+  }
+}

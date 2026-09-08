@@ -1,0 +1,107 @@
+{
+  "slug": "leeks",
+  "en": {
+    "name": "Leeks",
+    "aliases": ["leek", "baby leeks", "wild leeks", "poireau"],
+    "summary": "Leeks are hardy members of the onion family with tightly wrapped layers that hold moisture well. In the fridge they keep 1–2 weeks from the date of purchase, and blanched and frozen they last 10–12 months. Their strong aroma travels, so bag them well.",
+    "pantry": "Leeks are best kept cold. At room temperature the outer layers dry and the green tops go limp within a couple of days, and in a warm kitchen the aroma spreads through the room. A very cool cellar will hold them a while, but a normal kitchen will not, so refrigerate them.",
+    "fridge": "Store leeks whole and unwashed, wrapped loosely in a bag in the crisper at 4 °C (40 °F) or below, where they keep 1–2 weeks from purchase. Leave the roots and outer layer on, since trimming exposes the inner layers to air. Bag them properly, because their oniony smell readily transfers to milk, butter and eggs.",
+    "freezer": "Leeks freeze for 10–12 months from purchase at −18 °C (0 °F). Slice them, rinse thoroughly to remove grit, blanch for 2 minutes, plunge into iced water, drain and dry, then freeze on a tray and bag. You can also freeze the tough green tops separately for stock.",
+    "thawing": "Add frozen leeks straight to soups, braises and sautés — thawing makes them limp and watery. Cook them from frozen with a little extra time.",
+    "spoilage": [
+      "Slimy layers or a slippery film between the leaves",
+      "Yellow or brown mushy patches on the white stem",
+      "Soft, hollow or spongy centre",
+      "Sour or rotten-onion smell"
+    ],
+    "tips": [
+      "Split the leek lengthways and fan the layers under running water to remove grit",
+      "Save the dark green tops in the freezer for stock",
+      "Keep leeks well bagged so their smell does not spread through the fridge",
+      "Leave the roots on until you cook, as they help the leek stay fresh"
+    ],
+    "faq": [
+      {"q": "How long do leeks last in the fridge?", "a": "1–2 weeks from purchase at 4 °C (40 °F) or below, kept whole and unwashed in a loosely closed bag in the crisper drawer."},
+      {"q": "Can you freeze leeks?", "a": "Yes. Slice, wash, blanch for 2 minutes, chill, dry and freeze. They keep 10–12 months from purchase at −18 °C (0 °F) and cook straight from frozen."},
+      {"q": "How do you get the grit out of leeks?", "a": "Split them lengthways and fan the layers under cold running water, or slice them and swish the pieces in a bowl of water so the grit sinks to the bottom."}
+    ]
+  },
+  "zh": {
+    "name": "韭蔥",
+    "aliases": ["大蔥（西洋）", "扁蔥", "leek", "西洋蔥", "波羅蔥"],
+    "summary": "韭蔥是洋蔥家族中相當耐放的成員，層層緊包的結構能鎖住水分。冷藏從購買日起可放 1～2 週，燙過後冷凍則可保存 10～12 個月。它的氣味很會擴散，所以要確實裝袋。",
+    "pantry": "韭蔥還是低溫保存最好。放在室溫，外層一兩天內就會變乾、綠色的葉子軟垮，在溫暖的廚房裡氣味還會散得滿屋子都是。很涼的地下室可以放一陣子，但一般廚房做不到，所以請冷藏。",
+    "fridge": "整支不清洗，鬆鬆裝袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 1～2 週。根部和最外層先留著，切掉會讓內層直接接觸空氣。務必好好封袋，因為它的蔥味很容易沾到牛奶、奶油和蛋上。",
+    "freezer": "韭蔥放 −18°C 冷凍，從購買日起可保存 10～12 個月。切段後徹底沖洗掉泥沙，汆燙 2 分鐘，撈起泡冰水，瀝乾擦乾，鋪盤冷凍後裝袋。比較硬的深綠色葉子也可以另外冷凍起來熬高湯。",
+    "thawing": "冷凍韭蔥可以直接丟進湯、燴菜或熱鍋炒——解凍反而會讓它軟垮出水。直接從冷凍下鍋，多煮一點時間即可。",
+    "spoilage": [
+      "層與層之間變黏滑，摸起來有一層滑膜",
+      "白色蔥段上出現黃色或褐色的軟爛斑塊",
+      "中心變軟、中空或呈海綿狀",
+      "有酸味或洋蔥腐敗的味道"
+    ],
+    "tips": [
+      "縱向剖開後在流水下把層片撥開沖洗，才能洗掉夾層的泥沙",
+      "深綠色的葉子留下來冷凍，可以熬高湯",
+      "確實封好袋子，避免味道散到整個冰箱",
+      "煮之前保留根部，有助於維持新鮮度"
+    ],
+    "faq": [
+      {"q": "韭蔥放冰箱可以放多久？", "a": "整支不清洗、鬆鬆裝袋收在蔬果保鮮室，放 4°C 以下，從購買日起 1～2 週。"},
+      {"q": "韭蔥可以冷凍嗎？", "a": "可以。切段洗淨、汆燙 2 分鐘，冰鎮擦乾後冷凍。放 −18°C，從購買日起可保存 10～12 個月，可以直接冷凍下鍋。"},
+      {"q": "韭蔥裡的泥沙要怎麼洗？", "a": "縱向剖開後在流水下撥開層片沖洗，或是切段後放進裝水的碗裡攪動，泥沙就會沉到碗底。"}
+    ]
+  },
+  "ja": {
+    "name": "リーキ（西洋ねぎ）",
+    "aliases": ["リーキ", "ポワロー", "西洋ねぎ", "ポロねぎ", "ベビーリーキ"],
+    "summary": "リーキはねぎの仲間のなかでも丈夫で、層が密に巻いているため水分をよく保ちます。冷蔵では購入日から1〜2週間、下ゆでして冷凍すれば10〜12か月保存できます。香りが移りやすいので、しっかり袋に入れましょう。",
+    "pantry": "リーキは低温保存が最適です。常温では外側の層が乾き、緑の葉が2日ほどでぐったりします。暖かい台所では香りが部屋中に広がることも。かなり涼しい貯蔵庫ならしばらく持ちますが、通常の台所では無理なので冷蔵してください。",
+    "fridge": "丸のまま洗わず、ゆるく袋に入れて4℃以下の野菜室で保存すれば、購入日から1〜2週間持ちます。根と外側の層は残しておきましょう。切ると内側が空気に触れてしまいます。牛乳やバター、卵ににおいが移りやすいので、袋はきちんと閉じてください。",
+    "freezer": "−18℃の冷凍なら購入日から10〜12か月保存できます。切ってから砂をしっかり洗い流し、2分下ゆでして氷水に取り、水気を切って拭き、バットで凍らせてから袋へ。硬い緑の部分は別に冷凍してだし取りに使えます。",
+    "thawing": "冷凍リーキはそのままスープ、煮込み、炒め物へ。解凍するとぐったり水っぽくなります。凍ったまま少し長めに加熱しましょう。",
+    "spoilage": [
+      "層の間がぬめる、ぬるっとした膜がある",
+      "白い部分に黄色や茶色のぶよぶよした部分がある",
+      "中心がやわらかい、空洞、スポンジ状になっている",
+      "酸っぱいにおいや、ねぎが腐ったようなにおい"
+    ],
+    "tips": [
+      "縦半分に切り、層を広げて流水で砂を洗い落としましょう",
+      "濃い緑の葉は冷凍しておき、だし取りに使いましょう",
+      "においが庫内に広がらないよう、袋をしっかり閉じて",
+      "調理まで根は残しておくと鮮度が保てます"
+    ],
+    "faq": [
+      {"q": "リーキは冷蔵庫でどのくらい持ちますか？", "a": "丸のまま洗わずゆるく袋に入れて野菜室に置き、4℃以下で購入日から1〜2週間です。"},
+      {"q": "リーキは冷凍できますか？", "a": "できます。切って洗い、2分下ゆでして冷やし、拭いてから冷凍を。−18℃で購入日から10〜12か月、凍ったまま調理できます。"},
+      {"q": "リーキの砂はどう落としますか？", "a": "縦に切って層を広げ流水で洗うか、切ってからボウルの水の中で振り洗いすると、砂が底に沈みます。"}
+    ]
+  },
+  "es": {
+    "name": "Puerros",
+    "aliases": ["puerro", "poro", "ajo porro", "puerros baby"],
+    "summary": "Los puerros son miembros resistentes de la familia de la cebolla, con capas bien apretadas que retienen la humedad. En la nevera duran 1–2 semanas desde la compra, y escaldados y congelados 10–12 meses. Su aroma fuerte se transmite, así que embólsalos bien.",
+    "pantry": "Los puerros se conservan mejor en frío. A temperatura ambiente las capas exteriores se secan y las hojas verdes se ablandan en un par de días, y en una cocina cálida el olor invade la habitación. Un sótano muy fresco los aguanta un tiempo, pero una cocina normal no, así que refrigéralos.",
+    "fridge": "Guarda los puerros enteros y sin lavar, envueltos sin apretar en una bolsa en el cajón de verduras a 4 °C (40 °F) o menos, donde duran 1–2 semanas desde la compra. Deja las raíces y la capa exterior, porque recortarlos expone las capas interiores al aire. Embólsalos bien, porque su olor pasa fácilmente a la leche, la mantequilla y los huevos.",
+    "freezer": "Se congelan 10–12 meses desde la compra a −18 °C (0 °F). Córtalos, lávalos bien para quitar la tierra, escáldalos 2 minutos, pásalos a agua helada, escúrrelos y sécalos, congélalos en bandeja y embólsalos. También puedes congelar aparte las hojas verdes duras para caldo.",
+    "thawing": "Añade los puerros congelados directamente a sopas, guisos y salteados: descongelarlos los deja flácidos y aguados. Cocínalos congelados con un poco más de tiempo.",
+    "spoilage": [
+      "Capas viscosas o una película resbaladiza entre las hojas",
+      "Zonas amarillas o pardas y blandas en la parte blanca",
+      "Centro blando, hueco o esponjoso",
+      "Olor agrio o a cebolla podrida"
+    ],
+    "tips": [
+      "Córtalos a lo largo y abre las capas bajo el agua para quitar la tierra",
+      "Guarda las hojas verde oscuro en el congelador para caldo",
+      "Manténlos bien embolsados para que su olor no se extienda por la nevera",
+      "Deja las raíces hasta el momento de cocinar: ayudan a mantenerlos frescos"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los puerros en la nevera?", "a": "1–2 semanas desde la compra a 4 °C (40 °F) o menos, enteros y sin lavar en una bolsa cerrada sin apretar en el cajón de verduras."},
+      {"q": "¿Se pueden congelar los puerros?", "a": "Sí. Córtalos, lávalos, escáldalos 2 minutos, enfríalos, sécalos y congélalos. Duran 10–12 meses desde la compra a −18 °C (0 °F) y se cocinan congelados."},
+      {"q": "¿Cómo se quita la tierra de los puerros?", "a": "Córtalos a lo largo y abre las capas bajo el chorro de agua fría, o córtalos en rodajas y agítalas en un bol con agua para que la tierra se deposite en el fondo."}
+    ]
+  }
+}

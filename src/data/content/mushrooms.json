@@ -1,0 +1,107 @@
+{
+  "slug": "mushrooms",
+  "en": {
+    "name": "Mushrooms",
+    "aliases": ["button mushrooms", "cremini", "portobello", "shiitake", "oyster mushrooms"],
+    "summary": "Mushrooms are porous and mostly water, so they absorb moisture readily and go slimy when trapped in plastic. Refrigerated they keep 3–7 days from the date of purchase, and cooked or blanched and frozen they last 10–12 months. A paper bag is the classic storage trick.",
+    "pantry": "Mushrooms should not be kept at room temperature. Within a day in a warm kitchen they darken, release liquid and develop a strong, musty smell. Take them home and refrigerate them promptly; leaving a punnet on the counter overnight usually means throwing it away.",
+    "fridge": "Store mushrooms unwashed in a paper bag in the fridge at 4 °C (40 °F) or below, where they keep 3–7 days from purchase. Paper absorbs the moisture that plastic traps, which is exactly what makes mushrooms slimy. If they come in a plastic-wrapped punnet, either poke holes in the film or transfer them to paper.",
+    "freezer": "Mushrooms freeze for 10–12 months from purchase at −18 °C (0 °F), but they should be cooked or blanched first: sauté them until the water has cooked off, or steam-blanch for 3–5 minutes, then cool and freeze in airtight bags. Raw frozen mushrooms turn dark and rubbery on thawing.",
+    "thawing": "Add frozen cooked mushrooms straight to pans, soups and sauces. Thawing them first makes them watery, so cook them from frozen wherever possible.",
+    "spoilage": [
+      "Slimy or sticky surface",
+      "Dark brown or black patches spreading across the caps",
+      "Wrinkled, shrivelled caps and dried-out gills",
+      "Strong musty, ammonia or sour smell"
+    ],
+    "tips": [
+      "Store in a paper bag, never sealed in plastic",
+      "Do not soak them — brush or wipe them clean, or rinse quickly and dry",
+      "Sauté a glut and freeze the cooked mushrooms in portions",
+      "Slightly wrinkled mushrooms are fine for cooking, just not for salads"
+    ],
+    "faq": [
+      {"q": "How long do mushrooms last in the fridge?", "a": "3–7 days from purchase at 4 °C (40 °F) or below, kept unwashed in a paper bag rather than sealed plastic."},
+      {"q": "Can you freeze mushrooms?", "a": "Yes, but cook or blanch them first. Sauté until the moisture is gone or steam-blanch for 3–5 minutes, then freeze for 10–12 months at −18 °C (0 °F)."},
+      {"q": "Should you wash mushrooms?", "a": "Do not soak them, since they absorb water. Brush off dirt or wipe them with damp kitchen paper, or rinse quickly under the tap and dry immediately."}
+    ]
+  },
+  "zh": {
+    "name": "蕈菇類",
+    "aliases": ["洋菇", "香菇", "蘑菇", "杏鮑菇", "秀珍菇"],
+    "summary": "蕈菇多孔而且主要成分是水，很容易吸收水氣，悶在塑膠裡就會變黏滑。冷藏從購買日起可放 3～7 天，煮熟或汆燙後冷凍則可保存 10～12 個月。用紙袋保存是經典的做法。",
+    "pantry": "蕈菇不該放在室溫。在溫暖的廚房裡，一天內就會變暗、出水，並且散發濃重的悶味。買回家請盡快冷藏；整盒放在檯面上過夜，通常就只能丟掉了。",
+    "fridge": "不清洗，裝在紙袋裡放進 4°C 以下的冰箱，從購買日起可放 3～7 天。紙能吸掉塑膠會悶住的水氣，而那正是蕈菇變黏滑的原因。如果買到的是包保鮮膜的塑膠盒，請在膜上戳幾個洞，或直接改裝進紙袋。",
+    "freezer": "蕈菇放 −18°C 冷凍，從購買日起可保存 10～12 個月，但要先煮熟或汆燙：用鍋子炒到水分收乾，或蒸燙 3～5 分鐘，放涼後裝進密封袋。生的蕈菇直接冷凍，解凍後會發黑、變得韌韌的。",
+    "thawing": "煮熟的冷凍蕈菇可以直接下鍋、加進湯或醬汁。先解凍反而會出水，所以盡量直接從冷凍狀態烹調。",
+    "spoilage": [
+      "表面變得黏滑或黏手",
+      "菇傘上出現深褐色或黑色斑塊並持續擴散",
+      "菇傘皺縮乾癟，蕈褶乾掉",
+      "有濃重的悶味、阿摩尼亞味或酸味"
+    ],
+    "tips": [
+      "用紙袋保存，絕對不要密封在塑膠袋裡",
+      "不要泡水，用刷子刷或紙巾擦，或快速沖一下馬上擦乾",
+      "一次太多就炒過，把熟菇分裝冷凍",
+      "稍微皺掉的菇拿來煮完全沒問題，只是不適合做沙拉"
+    ],
+    "faq": [
+      {"q": "蕈菇放冰箱可以放多久？", "a": "不清洗、裝在紙袋裡（不要密封塑膠），放 4°C 以下，從購買日起 3～7 天。"},
+      {"q": "蕈菇可以冷凍嗎？", "a": "可以，但要先煮熟或汆燙。炒到水分收乾或蒸燙 3～5 分鐘後冷凍，放 −18°C 可保存 10～12 個月。"},
+      {"q": "蕈菇要洗嗎？", "a": "不要泡水，它們很會吸水。用刷子刷掉泥土或用微濕的紙巾擦拭，或是快速沖一下並立刻擦乾。"}
+    ]
+  },
+  "ja": {
+    "name": "きのこ",
+    "aliases": ["マッシュルーム", "しいたけ", "しめじ", "エリンギ", "まいたけ"],
+    "summary": "きのこは多孔質でほとんどが水分のため、湿気をよく吸い、ポリ袋にこもるとぬめりが出ます。冷蔵では購入日から3〜7日、加熱または下ゆでして冷凍すれば10〜12か月保存できます。紙袋で保存するのが定番のコツです。",
+    "pantry": "きのこを常温に置いてはいけません。暖かい台所では1日で色が濃くなり、水分が出て、こもったようなにおいが強くなります。買ったらすぐ冷蔵庫へ。パックを一晩調理台に置くと、たいてい処分することになります。",
+    "fridge": "洗わずに紙袋へ入れ、4℃以下の冷蔵庫で保存すれば、購入日から3〜7日持ちます。紙はポリ袋がこもらせる水分を吸ってくれます。その水分こそがぬめりの原因です。ラップ付きのパックで買った場合は、フィルムに穴を開けるか紙袋へ移しましょう。",
+    "freezer": "−18℃の冷凍なら購入日から10〜12か月保存できますが、まず加熱を。水分が飛ぶまで炒めるか、3〜5分蒸し、冷ましてから密閉袋へ。生のまま冷凍すると、解凍時に黒ずんでゴムのような食感になります。",
+    "thawing": "加熱済みの冷凍きのこは、フライパンやスープ、ソースにそのまま加えます。先に解凍すると水っぽくなるので、できるだけ凍ったまま調理しましょう。",
+    "spoilage": [
+      "表面がぬめる、べたつく",
+      "かさに濃い茶色や黒の斑点が広がっている",
+      "かさがしわしわに縮み、ひだが乾いている",
+      "こもったにおい、アンモニア臭、酸っぱいにおいが強い"
+    ],
+    "tips": [
+      "紙袋で保存を。ポリ袋の密閉は避けましょう",
+      "水に浸けず、ブラシや布で汚れを落とすか、さっと洗ってすぐ拭きましょう",
+      "多いときは炒めて小分け冷凍を",
+      "少ししわが出たきのこも加熱調理なら問題なく使えます"
+    ],
+    "faq": [
+      {"q": "きのこは冷蔵庫でどのくらい持ちますか？", "a": "洗わず紙袋に入れて（ポリ袋の密閉は避けて）4℃以下なら、購入日から3〜7日です。"},
+      {"q": "きのこは冷凍できますか？", "a": "できますが、加熱か下ゆでを先に。水分が飛ぶまで炒めるか3〜5分蒸してから冷凍を。−18℃で10〜12か月です。"},
+      {"q": "きのこは洗うべきですか？", "a": "水に浸けないでください。水をよく吸ってしまいます。ブラシや湿らせたペーパーで汚れを拭くか、さっと洗ってすぐ水気を拭き取りましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Setas y champiñones",
+    "aliases": ["champiñones", "setas", "portobello", "shiitake", "seta ostra"],
+    "summary": "Las setas son porosas y casi todo agua, así que absorben humedad con facilidad y se vuelven viscosas si quedan atrapadas en plástico. Refrigeradas duran 3–7 días desde la compra, y cocinadas o escaldadas y congeladas 10–12 meses. La bolsa de papel es el truco clásico.",
+    "pantry": "Las setas no deben guardarse a temperatura ambiente. En un día en una cocina cálida se oscurecen, sueltan líquido y desarrollan un olor fuerte y mohoso. Llévalas a casa y refrigéralas pronto; dejar una bandeja en la encimera toda la noche suele significar tirarla.",
+    "fridge": "Guarda las setas sin lavar en una bolsa de papel en la nevera a 4 °C (40 °F) o menos, donde duran 3–7 días desde la compra. El papel absorbe la humedad que el plástico retiene, que es justo lo que las vuelve viscosas. Si vienen en bandeja con film, perfóralo o pásalas a papel.",
+    "freezer": "Se congelan 10–12 meses desde la compra a −18 °C (0 °F), pero conviene cocinarlas o escaldarlas antes: saltéalas hasta que se evapore el agua, o escáldalas al vapor 3–5 minutos, enfríalas y congélalas en bolsas herméticas. Crudas se oscurecen y quedan gomosas al descongelar.",
+    "thawing": "Añade las setas cocinadas congeladas directamente a la sartén, sopas y salsas. Descongelarlas antes las deja aguadas, así que cocínalas congeladas siempre que puedas.",
+    "spoilage": [
+      "Superficie viscosa o pegajosa",
+      "Manchas pardo oscuras o negras que se extienden por los sombreros",
+      "Sombreros arrugados y resecos con las láminas secas",
+      "Olor fuerte a humedad, amoniacal o agrio"
+    ],
+    "tips": [
+      "Guárdalas en bolsa de papel, nunca selladas en plástico",
+      "No las remojes: cepíllalas o límpialas con un paño, o enjuágalas rápido y sécalas",
+      "Saltea el excedente y congela las setas cocinadas en porciones",
+      "Unas setas algo arrugadas sirven perfectamente para cocinar, solo no para ensalada"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las setas en la nevera?", "a": "3–7 días desde la compra a 4 °C (40 °F) o menos, sin lavar y en bolsa de papel en lugar de plástico sellado."},
+      {"q": "¿Se pueden congelar las setas?", "a": "Sí, pero cocínalas o escáldalas antes. Saltéalas hasta que pierdan el agua o escáldalas al vapor 3–5 minutos, y congélalas 10–12 meses a −18 °C (0 °F)."},
+      {"q": "¿Hay que lavar las setas?", "a": "No las remojes, porque absorben agua. Cepilla la tierra o límpialas con papel húmedo, o enjuágalas rápido bajo el grifo y sécalas de inmediato."}
+    ]
+  }
+}

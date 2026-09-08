@@ -1,0 +1,107 @@
+{
+  "slug": "lettuce-iceberg-romaine",
+  "en": {
+    "name": "Iceberg and romaine lettuce",
+    "aliases": ["iceberg lettuce", "romaine", "cos lettuce", "crisphead lettuce"],
+    "summary": "Iceberg and romaine are the sturdiest lettuces, with dense heads and thick ribs that hold water well. In the fridge they keep 1–2 weeks from the date of purchase, considerably longer than soft leaf lettuces. Keep the head whole and unwashed until you need it.",
+    "pantry": "Lettuce should not be kept at room temperature. A head left out wilts within hours, and cut or bagged salad leaves are a moist, ready-to-eat food that should not sit in the danger zone of 4–60 °C (40–140 °F) for more than 2 hours. Refrigerate lettuce as soon as you get home.",
+    "fridge": "Store the whole head unwashed in a perforated bag in the crisper at 4 °C (40 °F) or below, where it keeps 1–2 weeks from purchase. Keep it away from apples, bananas and tomatoes, whose ethylene causes the rust-coloured spots you see on lettuce ribs. Do not cut it until you need it, since cut edges brown quickly.",
+    "freezer": "USDA gives no freezer timeline for lettuce, and freezing is not recommended. The high water content bursts the cell walls, so thawed lettuce is limp, dark and watery — no use for salad. Use up a wilting head in soups or a quick braise instead.",
+    "thawing": null,
+    "spoilage": [
+      "Slimy, dark or translucent leaves",
+      "Brown or rust-coloured spots along the ribs",
+      "Soft, watery core with a brown centre",
+      "Sour or fermented smell in the bag"
+    ],
+    "tips": [
+      "Keep the head whole until you need it — cut leaves brown and wilt fast",
+      "Store away from apples and bananas, whose ethylene causes rust spots",
+      "Revive a limp head by soaking the leaves in ice water for 15 minutes",
+      "Wrap washed and dried leaves in kitchen paper in a container for a few days"
+    ],
+    "faq": [
+      {"q": "How long does iceberg lettuce last in the fridge?", "a": "1–2 weeks from purchase at 4 °C (40 °F) or below, kept whole and unwashed in a perforated bag in the crisper drawer."},
+      {"q": "Can you freeze lettuce?", "a": "No, freezing is not recommended. The high water content makes thawed lettuce limp and watery, and useless for salad. Use wilting lettuce in soup instead."},
+      {"q": "Why does lettuce get rusty red spots?", "a": "Those spots are caused by ethylene gas from nearby fruit such as apples and bananas. Store lettuce away from them and the problem largely disappears."}
+    ]
+  },
+  "zh": {
+    "name": "結球萵苣與蘿蔓",
+    "aliases": ["美生菜", "結球萵苣", "蘿蔓", "羅馬生菜", "西生菜"],
+    "summary": "美生菜和蘿蔓是最耐放的萵苣，球體紮實、葉脈厚實，鎖水能力好。冷藏從購買日起可放 1～2 週，比柔軟的散葉萵苣久很多。需要用之前請保持整顆完整、不要清洗。",
+    "pantry": "萵苣不該放在室溫。整顆放在外面幾小時就會軟垮，而切好或袋裝的生菜屬於高水分的即食食品，不應該在 4～60°C 的危險溫度帶停留超過 2 小時。買回家請立刻冷藏。",
+    "fridge": "整顆不清洗，裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 1～2 週。要遠離蘋果、香蕉和番茄，它們釋放的乙烯就是萵苣葉脈上出現鐵鏽色斑點的原因。要用之前才切開，因為切口很快就會褐變。",
+    "freezer": "USDA 沒有提供萵苣的冷凍期限，而且並不建議冷凍。高含水量會撐破細胞壁，解凍後會變得軟垮、發黑又出水，完全不能做沙拉。快要軟掉的整顆，不如拿去煮湯或快炒。",
+    "thawing": null,
+    "spoilage": [
+      "葉子變黏滑、發黑或半透明",
+      "葉脈上出現褐色或鐵鏽色的斑點",
+      "菜心變軟出水，中心發褐",
+      "袋子裡有酸味或發酵味"
+    ],
+    "tips": [
+      "要用之前保持整顆完整，切開的葉子很快就褐變軟垮",
+      "遠離蘋果和香蕉，它們的乙烯會造成鏽斑",
+      "軟掉的整顆可以把葉子泡冰水 15 分鐘來回脆",
+      "洗好擦乾的葉子用廚房紙巾包好裝盒，可以放幾天"
+    ],
+    "faq": [
+      {"q": "美生菜放冰箱可以放多久？", "a": "整顆不清洗、裝在打洞袋裡收在蔬果保鮮室，放 4°C 以下，從購買日起 1～2 週。"},
+      {"q": "萵苣可以冷凍嗎？", "a": "不建議。含水量太高，解凍後會變得軟垮出水，完全不能做沙拉。快軟掉的萵苣拿去煮湯比較實用。"},
+      {"q": "萵苣為什麼會出現鐵鏽色斑點？", "a": "那是附近的蘋果、香蕉等水果釋放的乙烯造成的。把萵苣和它們分開存放，情況通常就會改善很多。"}
+    ]
+  },
+  "ja": {
+    "name": "レタス（玉レタス・ロメイン）",
+    "aliases": ["レタス", "玉レタス", "ロメインレタス", "アイスバーグ", "クリスプヘッド"],
+    "summary": "玉レタスとロメインはレタスのなかでも丈夫で、締まった球と厚い葉脈が水分をよく保ちます。冷蔵では購入日から1〜2週間と、やわらかいリーフレタスよりかなり長持ちします。使うまでは丸のまま、洗わずに保管しましょう。",
+    "pantry": "レタスを常温に置いてはいけません。出しっぱなしにすると数時間でしおれますし、カット野菜や袋入りサラダは水分の多いそのまま食べる食品なので、4〜60℃の危険温度帯に2時間以上置かないでください。買ったらすぐ冷蔵庫へ。",
+    "fridge": "丸のまま洗わずに穴あき袋へ入れ、4℃以下の野菜室で保存すれば、購入日から1〜2週間持ちます。りんご、バナナ、トマトのエチレンは葉脈にさび色の斑点を作るので離して保存を。切り口はすぐ茶色くなるため、使う直前まで切らないでください。",
+    "freezer": "USDAはレタスの冷凍期間を示しておらず、冷凍は推奨されません。水分が多く細胞壁が壊れるため、解凍するとぐったり黒ずんで水っぽくなり、サラダには使えません。しおれかけたものはスープや軽い蒸し煮に使いましょう。",
+    "thawing": null,
+    "spoilage": [
+      "葉がぬめる、黒ずむ、透けたようになっている",
+      "葉脈に沿って茶色やさび色の斑点がある",
+      "芯がやわらかく水っぽく、中心が茶色い",
+      "袋の中が酸っぱい、発酵したようなにおいがする"
+    ],
+    "tips": [
+      "使う直前まで丸のままで。切った葉は変色もしおれも早くなります",
+      "りんごやバナナから離して保存を。エチレンがさび色の斑点を作ります",
+      "しおれた葉は氷水に15分つけるとシャキッと戻ります",
+      "洗って水気を拭いた葉はキッチンペーパーで包み容器へ。数日持ちます"
+    ],
+    "faq": [
+      {"q": "レタスは冷蔵庫でどのくらい持ちますか？", "a": "丸のまま洗わず穴あき袋に入れて野菜室に置き、4℃以下で購入日から1〜2週間です。"},
+      {"q": "レタスは冷凍できますか？", "a": "推奨されません。水分が多く、解凍するとぐったり水っぽくなりサラダには使えません。しおれたものはスープに使いましょう。"},
+      {"q": "レタスにさび色の斑点が出るのはなぜですか？", "a": "近くのりんごやバナナが出すエチレンガスが原因です。それらから離して保存すれば、ほとんど起きなくなります。"}
+    ]
+  },
+  "es": {
+    "name": "Lechuga iceberg y romana",
+    "aliases": ["lechuga iceberg", "lechuga romana", "cogollo", "lechuga repollada"],
+    "summary": "La iceberg y la romana son las lechugas más resistentes, con cogollos densos y nervios gruesos que retienen bien el agua. En la nevera duran 1–2 semanas desde la compra, bastante más que las lechugas de hoja blanda. Mantén la pieza entera y sin lavar hasta que la necesites.",
+    "pantry": "La lechuga no debe guardarse a temperatura ambiente. Una pieza fuera se marchita en horas, y las hojas cortadas o embolsadas son un alimento húmedo y listo para comer que no debe estar en la zona de peligro de 4–60 °C (40–140 °F) más de 2 horas. Refrigérala nada más llegar a casa.",
+    "fridge": "Guarda la pieza entera y sin lavar en una bolsa perforada en el cajón de verduras a 4 °C (40 °F) o menos, donde dura 1–2 semanas desde la compra. Manténla lejos de manzanas, plátanos y tomates, cuyo etileno provoca las manchas color óxido de los nervios. No la cortes hasta que la necesites, porque los bordes cortados se oxidan enseguida.",
+    "freezer": "El USDA no da un plazo de congelación para la lechuga, y congelarla no se recomienda. Su alto contenido en agua revienta las paredes celulares, así que descongelada queda flácida, oscura y aguada, inservible para ensalada. Aprovecha una pieza mustia en sopas o un salteado rápido.",
+    "thawing": null,
+    "spoilage": [
+      "Hojas viscosas, oscuras o translúcidas",
+      "Manchas pardas o color óxido a lo largo de los nervios",
+      "Corazón blando y acuoso con el centro pardo",
+      "Olor agrio o fermentado dentro de la bolsa"
+    ],
+    "tips": [
+      "Mantén la pieza entera hasta usarla: las hojas cortadas se oxidan y marchitan rápido",
+      "Guárdala lejos de manzanas y plátanos, cuyo etileno provoca manchas de óxido",
+      "Recupera una lechuga mustia sumergiendo las hojas en agua con hielo 15 minutos",
+      "Envuelve las hojas lavadas y secas en papel de cocina dentro de un recipiente para unos días"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la lechuga iceberg en la nevera?", "a": "1–2 semanas desde la compra a 4 °C (40 °F) o menos, entera y sin lavar en una bolsa perforada en el cajón de verduras."},
+      {"q": "¿Se puede congelar la lechuga?", "a": "No, congelarla no se recomienda. El agua la deja flácida y aguada al descongelarse, inútil para ensalada. Aprovecha la lechuga mustia en sopa."},
+      {"q": "¿Por qué salen manchas rojizas en la lechuga?", "a": "Las provoca el etileno de frutas cercanas como manzanas y plátanos. Guarda la lechuga lejos de ellas y el problema desaparece en gran medida."}
+    ]
+  }
+}

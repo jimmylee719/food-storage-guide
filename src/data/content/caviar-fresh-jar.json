@@ -1,0 +1,107 @@
+{
+  "slug": "caviar-fresh-jar",
+  "en": {
+    "name": "Fresh caviar in a jar",
+    "aliases": ["caviar", "sturgeon roe", "malossol caviar", "fish roe"],
+    "summary": "Fresh caviar is lightly salted sturgeon or other fish roe sold chilled in a sealed jar or tin, and it is one of the most delicate foods in the fridge. Unopened it keeps 1–4 weeks from the day of purchase at 4 °C (40 °F) or below; once opened, use it within 2 days.",
+    "pantry": "Caviar must never be stored at room temperature. It is only lightly salted — malossol means little salt — so it relies entirely on refrigeration for safety, and warmth destroys both the texture and the flavour of the grains within minutes. Serve it over a bowl of crushed ice and return the jar to the fridge immediately afterwards.",
+    "fridge": "Store the jar in the coldest part of the fridge, ideally between 0 °C and 4 °C (32 °F and 40 °F), which is colder than most fridge shelves — the back of the bottom shelf or a chiller drawer is best. Unopened it lasts 1–4 weeks depending on the producer's processing; once opened, cover the surface with plastic pressed directly onto the eggs and finish it within 2 days.",
+    "freezer": "Freezing fresh caviar is not recommended. The eggs burst as ice crystals form, so the thawed roe is mushy, weeping and cloudy, which for such an expensive delicacy is a total loss. Only pasteurized caviar in a sealed jar tolerates freezing reasonably, and even that suffers; buy small quantities and eat them fresh instead.",
+    "thawing": "If you have frozen caviar, thaw it very slowly in the fridge and expect a significant loss of texture; use it in a sauce or a garnish rather than serving it on its own. Never thaw caviar at room temperature or under water.",
+    "spoilage": [
+      "Sour, metallic or strongly fishy smell instead of a clean, briny sea scent",
+      "Burst or collapsed eggs sitting in cloudy liquid",
+      "A bulging lid, or any bubbling when the jar is opened",
+      "Bitter or rancid taste on the first grain you try"
+    ],
+    "tips": [
+      "Serve on crushed ice with a mother-of-pearl, bone or plastic spoon — metal taints the flavour.",
+      "Buy the smallest tin you will finish in two days once opened.",
+      "Press plastic wrap directly onto the surface of an opened jar to keep air off.",
+      "Keep it in the coldest spot in the fridge, not the door."
+    ],
+    "faq": [
+      {"q": "Can you freeze caviar?", "a": "Fresh caviar should not be frozen: ice crystals burst the eggs and the texture is ruined. Only pasteurized caviar tolerates it, and even then quality suffers."},
+      {"q": "How long does caviar last once opened?", "a": "Only about 2 days in the fridge at 4 °C (40 °F) or below, compared with 1–4 weeks from purchase while the jar is sealed."},
+      {"q": "Why should you not use a metal spoon for caviar?", "a": "Metal, especially silver, reacts with the roe and gives it a metallic taste. Traditional spoons are made of mother-of-pearl, bone, horn or plastic."}
+    ]
+  },
+  "zh": {
+    "name": "新鮮魚子醬（罐裝）",
+    "aliases": ["魚子醬", "鱘魚子醬", "caviar", "鹽漬魚卵"],
+    "summary": "新鮮魚子醬是輕鹽漬的鱘魚或其他魚類魚卵，以密封玻璃罐或錫罐冷藏販售，是冰箱裡最嬌貴的食材之一。未開封在 4°C 以下冷藏，從購買日起可放 1～4 週；開封後請在 2 天內吃完。",
+    "pantry": "魚子醬絕對不能放室溫。它只有輕度鹽漬（malossol 就是「少鹽」的意思），安全完全仰賴冷藏，而且溫度一高，幾分鐘內顆粒的口感和風味就會毀掉。上桌時請墊在碎冰上，吃完立刻把罐子放回冰箱。",
+    "fridge": "把罐子放在冰箱最冷的位置，最理想是 0～4°C，這比一般冰箱層架更冷——最下層最裡面或微凍室最合適。未開封依製造商的處理方式可放 1～4 週；開封後用保鮮膜直接貼在魚卵表面，並在 2 天內吃完。",
+    "freezer": "新鮮魚子醬不建議冷凍。結冰時形成的冰晶會把魚卵撐破，解凍後會變得糊爛、出水、混濁，對這麼昂貴的食材來說等於全毀。只有殺菌處理過的罐裝魚子醬勉強耐得住冷凍，而且品質仍會下降；建議少量購買、趁新鮮吃完。",
+    "thawing": "如果真的冷凍過，請放冷藏室非常緩慢地解凍，並預期口感大幅損失；建議用在醬汁或裝飾，而不是單獨品嚐。絕對不要在室溫或泡水解凍。",
+    "spoilage": [
+      "不是乾淨的鹹海味，而是酸味、金屬味或強烈腥味",
+      "魚卵破裂塌陷，泡在混濁的液體裡",
+      "罐蓋鼓起，或打開時冒泡",
+      "試吃第一顆就嚐到苦味或油耗味"
+    ],
+    "tips": [
+      "用碎冰墊底，並使用貝殼、骨質或塑膠湯匙——金屬會影響風味。",
+      "買開封後兩天內吃得完的最小罐裝。",
+      "開封後用保鮮膜直接貼在表面隔絕空氣。",
+      "放在冰箱最冷的位置，不要放門邊。"
+    ],
+    "faq": [
+      {"q": "魚子醬可以冷凍嗎？", "a": "新鮮魚子醬不建議冷凍，冰晶會撐破魚卵、口感全毀。只有殺菌型的勉強可以，但品質仍會下降。"},
+      {"q": "魚子醬開封後可以放多久？", "a": "在 4°C 以下冷藏只有約 2 天；未開封的話從購買日起 1～4 週。"},
+      {"q": "為什麼吃魚子醬不能用金屬湯匙？", "a": "金屬（尤其是銀）會和魚卵起反應，產生金屬味。傳統上使用貝母、骨、角或塑膠製的湯匙。"}
+    ]
+  },
+  "ja": {
+    "name": "生キャビア（瓶詰め）",
+    "aliases": ["キャビア", "チョウザメの卵", "マロソルキャビア", "魚卵の塩漬け"],
+    "summary": "生キャビアは、チョウザメなどの魚卵を軽く塩漬けし、密封した瓶や缶で冷蔵販売する食品で、冷蔵庫のなかでもとりわけ繊細な食材です。未開封なら4℃以下で購入日から1〜4週間、開封後は2日以内に食べ切ってください。",
+    "pantry": "キャビアを常温に置くことは絶対にできません。塩分がごく控えめ（マロソルは「塩少なめ」の意）で、安全性は冷蔵に完全に依存しており、温度が上がると数分で粒の食感も風味も損なわれます。供するときはクラッシュアイスの上に置き、終わったらすぐ瓶を冷蔵庫に戻します。",
+    "fridge": "瓶は庫内でいちばん冷える場所、できれば0〜4℃で保存します。これは一般的な棚より低い温度なので、最下段の奥やチルド室が適しています。未開封なら製法により1〜4週間。開封後は卵の表面にラップを密着させ、2日以内に食べ切りましょう。",
+    "freezer": "生キャビアの冷凍はおすすめしません。氷の結晶で粒が破れ、解凍後はつぶれて水っぽく濁ってしまいます。高価な食材だけに損失は大きくなります。冷凍にある程度耐えるのは殺菌済みの瓶詰めだけで、それでも品質は落ちます。少量ずつ買って新鮮なうちに食べるのが賢明です。",
+    "thawing": "冷凍してしまった場合は、冷蔵庫でごくゆっくり解凍し、食感が大きく落ちることを前提にソースや飾りとして使ってください。そのまま供するのには向きません。常温や水中での解凍は避けます。",
+    "spoilage": [
+      "清潔な潮の香りではなく、酸っぱいにおい・金属臭・強い生臭さがする",
+      "粒が破れてつぶれ、濁った液に浸っている",
+      "ふたが膨らんでいる、開けたときに泡が出る",
+      "ひと粒味見して苦みや酸敗した油の味がする"
+    ],
+    "tips": [
+      "クラッシュアイスにのせ、貝殻（マザーオブパール）や骨、樹脂のスプーンで供する。金属は風味を損なう。",
+      "開封後2日で食べ切れる最小サイズを買う。",
+      "開封後は表面にラップを密着させ、空気を遮断する。",
+      "ドアポケットではなく、庫内でいちばん冷える場所に置く。"
+    ],
+    "faq": [
+      {"q": "キャビアは冷凍できますか？", "a": "生キャビアは冷凍しないでください。氷の結晶が粒を破り、食感が台無しになります。殺菌済みのものだけがある程度耐えますが、それでも品質は落ちます。"},
+      {"q": "キャビアは開封後どのくらいもちますか？", "a": "4℃以下の冷蔵で約2日です。未開封なら購入日から1〜4週間が目安になります。"},
+      {"q": "キャビアに金属のスプーンを使わないのはなぜ？", "a": "金属（とくに銀）は魚卵と反応して金属的な風味を与えるためです。伝統的には貝、骨、角、樹脂製のスプーンを使います。"}
+    ]
+  },
+  "es": {
+    "name": "Caviar fresco en frasco",
+    "aliases": ["caviar", "huevas de esturión", "caviar malossol", "huevas de pescado"],
+    "summary": "El caviar fresco son huevas de esturión u otro pescado ligeramente saladas, vendidas refrigeradas en frasco o lata sellada, y es uno de los alimentos más delicados del refrigerador. Sin abrir dura 1–4 semanas desde la compra a 4 °C (40 °F) o menos; una vez abierto, consúmelo en 2 días.",
+    "pantry": "El caviar nunca debe guardarse a temperatura ambiente. Está solo ligeramente salado —malossol significa poca sal—, así que depende por completo del frío para ser seguro, y el calor arruina la textura y el sabor de los granos en minutos. Sírvelo sobre hielo picado y devuelve el frasco al refrigerador enseguida.",
+    "fridge": "Guarda el frasco en la parte más fría del refrigerador, idealmente entre 0 °C y 4 °C (32 °F y 40 °F), más frío que la mayoría de los estantes: el fondo del estante inferior o un cajón chiller es lo ideal. Sin abrir dura 1–4 semanas según el procesado del productor; abierto, cubre la superficie con film pegado a las huevas y termínalo en 2 días.",
+    "freezer": "No se recomienda congelar caviar fresco. Los cristales de hielo revientan las huevas y, al descongelarse, quedan pastosas, con líquido y turbias, lo que en un producto tan caro supone una pérdida total. Solo el caviar pasteurizado en frasco lo tolera razonablemente, y aun así sufre; compra cantidades pequeñas y cómelas frescas.",
+    "thawing": "Si lo has congelado, descongélalo muy despacio en el refrigerador y cuenta con una pérdida importante de textura; úsalo en una salsa o como guarnición en lugar de servirlo solo. Nunca lo descongeles a temperatura ambiente ni bajo agua.",
+    "spoilage": [
+      "Olor agrio, metálico o intensamente a pescado en lugar de un aroma limpio y salino",
+      "Huevas reventadas o desinfladas nadando en líquido turbio",
+      "Tapa abombada o burbujeo al abrir el frasco",
+      "Sabor amargo o rancio en el primer grano que pruebas"
+    ],
+    "tips": [
+      "Sírvelo sobre hielo picado y con cuchara de nácar, hueso o plástico: el metal altera el sabor.",
+      "Compra la lata más pequeña que puedas terminar en dos días tras abrirla.",
+      "Pega film directamente sobre la superficie del frasco abierto para aislarlo del aire.",
+      "Guárdalo en el punto más frío del refrigerador, nunca en la puerta."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el caviar?", "a": "El caviar fresco no debe congelarse: los cristales de hielo revientan las huevas y arruinan la textura. Solo el pasteurizado lo tolera, y aun así pierde calidad."},
+      {"q": "¿Cuánto dura el caviar una vez abierto?", "a": "Unos 2 días en el refrigerador a 4 °C (40 °F) o menos, frente a 1–4 semanas desde la compra si el frasco sigue cerrado."},
+      {"q": "¿Por qué no se usa cuchara de metal con el caviar?", "a": "El metal, sobre todo la plata, reacciona con las huevas y les da un sabor metálico. Las cucharas tradicionales son de nácar, hueso, asta o plástico."}
+    ]
+  }
+}

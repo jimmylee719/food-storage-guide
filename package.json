@@ -9,7 +9,8 @@
     "lint": "next lint",
     "data": "node scripts/split-combined.js && node scripts/build-data.js",
     "validate": "node scripts/validate-extra.js && node scripts/validate-content.js && node scripts/validate-guides.js && node scripts/check-links.js",
-    "qa": "node scripts/qa-pages.js"
+    "qa": "node scripts/qa-pages.js",
+    "labels": "node scripts/label-food-links.js"
   },
   "dependencies": {
     "next": "16.3.4",
