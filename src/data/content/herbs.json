@@ -1,0 +1,107 @@
+{
+  "slug": "herbs",
+  "en": {
+    "name": "Fresh herbs",
+    "aliases": ["parsley", "coriander", "basil", "mint", "dill", "cilantro"],
+    "summary": "Fresh herbs are delicate leaves on thin stems that wilt fast once cut. In the fridge they keep 7–10 days from the date of purchase, and frozen they last 1–2 months. Treating them like a bouquet — stems in water, leaves loosely covered — makes a real difference.",
+    "pantry": "Most fresh herbs wilt within a day at room temperature. Basil is the exception: it suffers chilling injury and blackens in the fridge, so stand it in a glass of water on the counter, out of direct sun, and it will stay perky for several days. All other herbs belong in the fridge.",
+    "fridge": "Fresh herbs keep 7–10 days from purchase at 4 °C (40 °F) or below. Trim the stem ends, stand the bunch in a jar with 2–3 cm of water, cover the leaves loosely with a bag and refresh the water every couple of days. Alternatively, roll them in slightly damp kitchen paper inside a container. Do not store basil this way in the fridge.",
+    "freezer": "Herbs freeze for 1–2 months from purchase at −18 °C (0 °F). Chop them, pack into ice-cube trays with a little olive oil or water, freeze until solid and then bag the cubes. Frozen herbs lose their bright appearance so they are best used in cooking rather than as a garnish.",
+    "thawing": "Drop frozen herb cubes straight into a hot pan, soup or sauce. There is no need to thaw, and thawed loose herbs go dark and limp.",
+    "spoilage": [
+      "Slimy, blackened or translucent leaves",
+      "Yellowing throughout the bunch",
+      "Sour or fermented smell rather than a fresh aromatic one",
+      "Mould on the stems or in the bottom of the bag"
+    ],
+    "tips": [
+      "Stand herbs in a jar of water like flowers and change the water regularly",
+      "Keep basil on the counter, not in the fridge, where it blackens",
+      "Freeze chopped herbs in oil in ice-cube trays for ready-made flavour bombs",
+      "Wash and dry herbs thoroughly before storing — wet leaves rot fast"
+    ],
+    "faq": [
+      {"q": "How long do fresh herbs last in the fridge?", "a": "7–10 days from purchase at 4 °C (40 °F) or below, ideally with the stems standing in water and the leaves loosely covered."},
+      {"q": "Can you freeze fresh herbs?", "a": "Yes. Chop them, freeze in ice-cube trays with oil or water, then bag the cubes. They keep 1–2 months at −18 °C (0 °F) and go straight into the pan."},
+      {"q": "Why does basil go black in the fridge?", "a": "Basil is a tropical plant and suffers chilling injury below about 10 °C, which blackens the leaves. Keep it in water on the counter instead."}
+    ]
+  },
+  "zh": {
+    "name": "新鮮香草",
+    "aliases": ["巴西里", "香菜", "九層塔", "薄荷", "蒔蘿", "羅勒"],
+    "summary": "新鮮香草是細莖上的嬌嫩葉片，切下來後很快就會軟垮。冷藏從購買日起可放 7～10 天，冷凍則可保存 1～2 個月。把它當成花束照顧——莖泡在水裡、葉子鬆鬆罩住——差別非常明顯。",
+    "pantry": "大多數新鮮香草在室溫下一天內就會軟垮。羅勒（九層塔）是例外：它怕冷，放冰箱葉子會發黑，所以請把它插在裝水的杯子裡放在室溫、避開陽光，這樣可以精神好幾天。其他香草都該放冰箱。",
+    "fridge": "新鮮香草放 4°C 以下，從購買日起可放 7～10 天。把莖的切口修一下，整把立在裝了 2～3 公分水的杯子裡，葉子上面鬆鬆罩一個袋子，每兩天換一次水。或者用微濕的廚房紙巾捲起來裝進保鮮盒。羅勒不要用這個方式冷藏。",
+    "freezer": "香草放 −18°C 冷凍，從購買日起可保存 1～2 個月。切碎後裝進製冰盒，加一點橄欖油或水，凍硬後再把小塊裝袋。冷凍香草會失去鮮亮的外觀，所以適合入菜，不適合當擺盤裝飾。",
+    "thawing": "冷凍香草小塊直接丟進熱鍋、湯或醬汁裡即可，不需要解凍。散裝的香草解凍後會發黑軟垮。",
+    "spoilage": [
+      "葉子變黏滑、發黑或半透明",
+      "整把都在發黃",
+      "有酸味或發酵味，而不是清新的香氣",
+      "莖上或袋子底部長黴"
+    ],
+    "tips": [
+      "像插花一樣把香草立在水杯裡，並定期換水",
+      "九層塔和羅勒放室溫，不要放冰箱，冷藏會發黑",
+      "切碎的香草加油裝製冰盒冷凍，就是現成的風味小塊",
+      "保存前要洗淨並徹底擦乾，濕葉子爛得很快"
+    ],
+    "faq": [
+      {"q": "新鮮香草放冰箱可以放多久？", "a": "放 4°C 以下，從購買日起 7～10 天。最好把莖泡在水裡、葉子鬆鬆罩住。"},
+      {"q": "新鮮香草可以冷凍嗎？", "a": "可以。切碎後加油或水裝進製冰盒冷凍，凍好再裝袋。放 −18°C 可保存 1～2 個月，煮的時候直接下鍋。"},
+      {"q": "羅勒為什麼放冰箱會變黑？", "a": "羅勒是熱帶植物，低於約 10°C 就會有寒害，導致葉子發黑。請改成插在水裡放室溫。"}
+    ]
+  },
+  "ja": {
+    "name": "生ハーブ",
+    "aliases": ["パセリ", "パクチー", "バジル", "ミント", "ディル", "香菜"],
+    "summary": "生ハーブは細い茎につく繊細な葉で、切ったあとすぐしおれます。冷蔵では購入日から7〜10日、冷凍なら1〜2か月保存できます。花束のように、茎を水に挿して葉をゆるく覆う方法が驚くほど効きます。",
+    "pantry": "多くの生ハーブは常温では1日でしおれます。例外はバジルで、低温障害で冷蔵すると葉が黒くなるため、直射日光を避けてコップの水に挿し常温に置くと数日いきいきと保てます。それ以外のハーブは冷蔵庫が基本です。",
+    "fridge": "4℃以下で購入日から7〜10日持ちます。茎の切り口を落とし、水を2〜3cm入れた瓶に立て、葉に袋を軽くかぶせて、水は2日おきに替えましょう。軽く湿らせたキッチンペーパーで包んで容器に入れる方法もあります。バジルはこの方法で冷蔵しないでください。",
+    "freezer": "−18℃の冷凍なら購入日から1〜2か月保存できます。刻んで製氷皿に入れ、オリーブオイルか水を少し加えて凍らせ、固まったら袋にまとめます。冷凍すると色が落ちるので、飾りではなく加熱調理に使いましょう。",
+    "thawing": "冷凍したハーブキューブは熱した鍋、スープ、ソースにそのまま入れます。解凍は不要で、ばらのまま解凍すると黒ずんでぐったりします。",
+    "spoilage": [
+      "葉がぬめる、黒ずむ、透けたようになっている",
+      "束全体が黄ばんでいる",
+      "さわやかな香りではなく、酸っぱい・発酵したにおいがする",
+      "茎や袋の底にカビが出ている"
+    ],
+    "tips": [
+      "花のように水を入れた瓶に立て、水はこまめに替えましょう",
+      "バジルは冷蔵すると黒くなるので常温で水に挿して",
+      "刻んでオイルと一緒に製氷皿で冷凍すると、そのまま使える風味の素になります",
+      "保存前によく洗い、しっかり水気を拭くこと。濡れた葉は早く傷みます"
+    ],
+    "faq": [
+      {"q": "生ハーブは冷蔵庫でどのくらい持ちますか？", "a": "4℃以下で購入日から7〜10日です。茎を水に挿し、葉をゆるく覆うと長持ちします。"},
+      {"q": "生ハーブは冷凍できますか？", "a": "できます。刻んで製氷皿にオイルか水と入れて凍らせ、袋へ。−18℃で1〜2か月、そのまま鍋に入れられます。"},
+      {"q": "バジルが冷蔵庫で黒くなるのはなぜですか？", "a": "バジルは熱帯の植物で、10℃を下回ると低温障害を起こして葉が黒ずみます。常温で水に挿して保存しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Hierbas frescas",
+    "aliases": ["perejil", "cilantro", "albahaca", "menta", "eneldo", "hierbabuena"],
+    "summary": "Las hierbas frescas son hojas delicadas sobre tallos finos que se marchitan rápido tras el corte. En la nevera duran 7–10 días desde la compra, y congeladas 1–2 meses. Tratarlas como un ramo —tallos en agua y hojas cubiertas sin apretar— marca una diferencia real.",
+    "pantry": "La mayoría de las hierbas se marchitan en un día a temperatura ambiente. La albahaca es la excepción: sufre daño por frío y se ennegrece en la nevera, así que ponla en un vaso con agua en la encimera, fuera del sol, y aguantará lozana varios días. El resto de hierbas van a la nevera.",
+    "fridge": "Las hierbas frescas duran 7–10 días desde la compra a 4 °C (40 °F) o menos. Recorta los tallos, ponlos en un tarro con 2–3 cm de agua, cubre las hojas con una bolsa sin apretar y cambia el agua cada dos días. Otra opción es enrollarlas en papel de cocina ligeramente húmedo dentro de un recipiente. No guardes así la albahaca en frío.",
+    "freezer": "Se congelan 1–2 meses desde la compra a −18 °C (0 °F). Pícalas, ponlas en cubiteras con un poco de aceite de oliva o agua, congélalas y guarda los cubitos en bolsa. Al congelarse pierden su aspecto vivo, así que úsalas cocinadas y no como decoración.",
+    "thawing": "Echa los cubitos de hierbas congeladas directamente a la sartén, la sopa o la salsa. No hace falta descongelar, y las hierbas sueltas descongeladas quedan oscuras y flácidas.",
+    "spoilage": [
+      "Hojas viscosas, ennegrecidas o translúcidas",
+      "Amarilleo en todo el manojo",
+      "Olor agrio o fermentado en lugar de fresco y aromático",
+      "Moho en los tallos o en el fondo de la bolsa"
+    ],
+    "tips": [
+      "Pon las hierbas en un tarro con agua como si fueran flores y cambia el agua a menudo",
+      "Guarda la albahaca en la encimera, no en la nevera, donde se ennegrece",
+      "Congela hierbas picadas con aceite en cubiteras para tener sabor listo para usar",
+      "Lava y seca bien las hierbas antes de guardarlas: las hojas mojadas se pudren rápido"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las hierbas frescas en la nevera?", "a": "7–10 días desde la compra a 4 °C (40 °F) o menos, idealmente con los tallos en agua y las hojas cubiertas sin apretar."},
+      {"q": "¿Se pueden congelar las hierbas frescas?", "a": "Sí. Pícalas, congélalas en cubiteras con aceite o agua y guarda los cubitos en bolsa. Duran 1–2 meses a −18 °C (0 °F) y van directas a la sartén."},
+      {"q": "¿Por qué la albahaca se pone negra en la nevera?", "a": "Es una planta tropical y sufre daño por frío por debajo de unos 10 °C, lo que ennegrece las hojas. Consérvala en agua en la encimera."}
+    ]
+  }
+}

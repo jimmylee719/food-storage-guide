@@ -1,0 +1,107 @@
+{
+  "slug": "ginger-root",
+  "en": {
+    "name": "Fresh ginger",
+    "aliases": ["ginger root", "root ginger", "young ginger", "old ginger"],
+    "summary": "Fresh ginger is a rhizome with a thin skin that dries out quickly once cut. At room temperature it keeps only 2–5 days from the date of purchase; in the fridge it lasts 2–3 weeks, and frozen it keeps about 6 months. Frozen ginger grates beautifully straight from the freezer.",
+    "pantry": "A cool, dry, airy spot holds fresh ginger about 2–5 days from purchase before the skin wrinkles and the flesh dries out. Young ginger with thin, pale skin dries faster than mature ginger with tough tan skin. Do not store it in a sealed plastic bag at room temperature, since trapped moisture causes mould.",
+    "fridge": "Wrapped in kitchen paper inside a loosely closed bag in the crisper at 4 °C (40 °F) or below, ginger keeps 2–3 weeks from purchase. The paper absorbs condensation, which is what causes the soft, mouldy patches you often see on refrigerated ginger. Cut pieces dry out fastest, so press cling film against the cut face.",
+    "freezer": "Ginger freezes for about 6 months from purchase at −18 °C (0 °F) and is arguably better frozen than fresh for cooking. Freeze the root whole and unpeeled in a bag; you can then grate it frozen — the skin disappears into the grated pulp and there is no need to peel it.",
+    "thawing": "Grate or slice ginger straight from the freezer without thawing. A thawed root goes soft and fibrous, so it is best used directly from frozen in cooking.",
+    "spoilage": [
+      "Soft, wrinkled or shrivelled skin",
+      "Grey or blue-green mould, often at the cut ends",
+      "Flesh that has turned grey, translucent or slimy inside",
+      "Musty smell rather than a sharp, spicy aroma"
+    ],
+    "tips": [
+      "Freeze the root whole and grate it from frozen — no peeling needed",
+      "Wrap in kitchen paper in the fridge to absorb condensation",
+      "Scrape the skin off with a teaspoon rather than a peeler to waste less",
+      "Press cling film against any cut face to stop it drying out"
+    ],
+    "faq": [
+      {"q": "How long does fresh ginger last in the fridge?", "a": "2–3 weeks from purchase at 4 °C (40 °F) or below, wrapped in kitchen paper inside a loose bag in the crisper."},
+      {"q": "Can you freeze ginger?", "a": "Yes, and it is an excellent way to store it. Freeze the root whole and unpeeled for about 6 months at −18 °C (0 °F), then grate it straight from frozen."},
+      {"q": "Do you need to peel ginger?", "a": "Not always. The skin is edible and thin on young ginger. Scrape it with a teaspoon if you want it removed, or skip peeling entirely when grating frozen ginger."}
+    ]
+  },
+  "zh": {
+    "name": "薑",
+    "aliases": ["生薑", "老薑", "嫩薑", "薑母", "薑塊"],
+    "summary": "薑是外皮很薄的地下莖，切開後很快就會乾掉。室溫下從購買日起只能放 2～5 天；冷藏可放 2～3 週，冷凍則約可保存 6 個月。冷凍的薑直接刨絲非常好用。",
+    "pantry": "放在陰涼乾燥通風的地方，薑從購買日起約可放 2～5 天，之後外皮就會起皺、纖維變乾。皮薄色淡的嫩薑比皮硬的老薑更快變乾。不要在室溫下把薑密封在塑膠袋裡，悶住的水氣會造成發霉。",
+    "fridge": "用廚房紙巾包起來，裝進鬆鬆封口的袋子放在 4°C 以下的蔬果保鮮室，從購買日起可放 2～3 週。紙巾能吸收冷凝水氣，那正是冷藏薑常見軟爛霉斑的元凶。切開的部分乾得最快，切面請用保鮮膜緊貼包好。",
+    "freezer": "薑放 −18°C 冷凍，從購買日起約可保存 6 個月，就烹調用途來說，冷凍甚至比新鮮更好用。整塊不削皮直接裝袋冷凍，之後可以直接刨——薄皮會混進薑蓉裡，完全不用削皮。",
+    "thawing": "直接從冷凍狀態刨絲或切片，不需要解凍。整塊退冰後會變軟、纖維感變重，所以直接用冷凍狀態下鍋最好。",
+    "spoilage": [
+      "外皮變軟、起皺或乾癟",
+      "長出灰色或藍綠色的黴菌，常在切口處",
+      "剖開後裡面的肉變灰、半透明或黏滑",
+      "有霉味，而不是嗆辣的薑香"
+    ],
+    "tips": [
+      "整塊冷凍後直接刨，完全不用削皮",
+      "冷藏時用廚房紙巾包起來吸收水氣",
+      "用湯匙刮皮比削皮刀更省，浪費比較少",
+      "切面用保鮮膜緊貼包好，可以防止變乾"
+    ],
+    "faq": [
+      {"q": "生薑放冰箱可以放多久？", "a": "用廚房紙巾包好、裝在鬆封口的袋子裡收在蔬果保鮮室，放 4°C 以下，從購買日起 2～3 週。"},
+      {"q": "薑可以冷凍嗎？", "a": "可以，而且是很棒的保存方式。整塊不削皮放 −18°C 冷凍約 6 個月，要用時直接從冷凍刨絲即可。"},
+      {"q": "薑一定要削皮嗎？", "a": "不一定。薑皮可以吃，嫩薑的皮更薄。想去皮的話用湯匙刮就好；刨冷凍薑時則完全不用削皮。"}
+    ]
+  },
+  "ja": {
+    "name": "しょうが（生姜）",
+    "aliases": ["生姜", "ショウガ", "新しょうが", "ひねしょうが", "根しょうが"],
+    "summary": "しょうがは皮の薄い地下茎で、切ると急速に乾いていきます。常温では購入日から2〜5日しか持たず、冷蔵なら2〜3週間、冷凍なら約6か月保存できます。冷凍しておくと、凍ったまますりおろせてとても便利です。",
+    "pantry": "涼しく乾燥した風通しのよい場所なら購入日から2〜5日持ちますが、その後は皮がしわしわになり中身が乾きます。皮の薄い新しょうがは、皮の硬いひねしょうがより早く乾きます。常温でポリ袋に密閉すると湿気がこもってカビるので避けてください。",
+    "fridge": "キッチンペーパーで包み、口をゆるく閉じた袋に入れて4℃以下の野菜室で保存すれば、購入日から2〜3週間持ちます。ペーパーが結露を吸ってくれ、冷蔵しょうがによくあるやわらかいカビ斑を防げます。切り口はいちばん乾きやすいので、ラップを密着させましょう。",
+    "freezer": "−18℃の冷凍なら購入日から約6か月保存でき、料理用としては生よりむしろ便利です。皮つきのまま丸ごと袋に入れて凍らせれば、凍ったまますりおろせます。薄い皮はおろした身に混ざるので、皮をむく必要もありません。",
+    "thawing": "解凍せず、凍ったまますりおろすか薄切りにします。解凍するとやわらかく繊維っぽくなるので、冷凍のまま調理に使うのが最適です。",
+    "spoilage": [
+      "皮がやわらかい、しわしわ、しなびている",
+      "切り口を中心に灰色や青緑のカビが出ている",
+      "割ると中が灰色、透けている、ぬめっている",
+      "ピリッとした香りではなくカビ臭い"
+    ],
+    "tips": [
+      "丸ごと冷凍して凍ったまますりおろせば、皮むき不要です",
+      "冷蔵ではキッチンペーパーで包んで結露を吸わせましょう",
+      "皮はピーラーよりスプーンでこそげるとむだが出ません",
+      "切り口にはラップを密着させて乾燥を防ぎましょう"
+    ],
+    "faq": [
+      {"q": "しょうがは冷蔵庫でどのくらい持ちますか？", "a": "キッチンペーパーで包み、ゆるく閉じた袋で野菜室に入れれば、4℃以下で購入日から2〜3週間です。"},
+      {"q": "しょうがは冷凍できますか？", "a": "できますし、優れた保存法です。皮つきのまま丸ごと−18℃で約6か月。凍ったまますりおろせます。"},
+      {"q": "しょうがの皮はむくべきですか？", "a": "必ずしも必要ありません。皮は食べられ、新しょうがは特に薄いです。むきたいときはスプーンでこそげ、冷凍をすりおろす場合は皮ごとで大丈夫です。"}
+    ]
+  },
+  "es": {
+    "name": "Jengibre fresco",
+    "aliases": ["raíz de jengibre", "kion", "jengibre", "jengibre joven"],
+    "summary": "El jengibre fresco es un rizoma de piel fina que se reseca rápido una vez cortado. A temperatura ambiente dura solo 2–5 días desde la compra; en la nevera aguanta 2–3 semanas, y congelado alrededor de 6 meses. El jengibre congelado se ralla estupendamente recién sacado.",
+    "pantry": "Un sitio fresco, seco y aireado mantiene el jengibre unos 2–5 días desde la compra antes de que la piel se arrugue y la pulpa se seque. El jengibre joven de piel fina y pálida se seca antes que el maduro de piel dura. No lo guardes en una bolsa de plástico cerrada a temperatura ambiente, porque la humedad retenida provoca moho.",
+    "fridge": "Envuelto en papel de cocina dentro de una bolsa cerrada sin apretar, en el cajón de verduras a 4 °C (40 °F) o menos, dura 2–3 semanas desde la compra. El papel absorbe la condensación, causante de las manchas blandas y mohosas típicas del jengibre refrigerado. Los trozos cortados se secan antes, así que pega film sobre la cara cortada.",
+    "freezer": "Se congela alrededor de 6 meses desde la compra a −18 °C (0 °F) y, para cocinar, es incluso más práctico que fresco. Congela la raíz entera y sin pelar en una bolsa; luego puedes rallarla congelada, la piel se integra en la pulpa rallada y no hace falta pelarla.",
+    "thawing": "Ralla o corta el jengibre directamente congelado, sin descongelar. Una raíz descongelada queda blanda y fibrosa, así que úsala congelada al cocinar.",
+    "spoilage": [
+      "Piel blanda, arrugada o reseca",
+      "Moho gris o azul verdoso, a menudo en los extremos cortados",
+      "Pulpa gris, translúcida o viscosa por dentro",
+      "Olor a humedad en lugar del aroma picante y punzante"
+    ],
+    "tips": [
+      "Congela la raíz entera y rállala congelada: no hace falta pelarla",
+      "Envuélvela en papel de cocina en la nevera para absorber la condensación",
+      "Raspa la piel con una cucharilla en lugar de pelador para desperdiciar menos",
+      "Pega film sobre cualquier cara cortada para que no se reseque"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el jengibre fresco en la nevera?", "a": "2–3 semanas desde la compra a 4 °C (40 °F) o menos, envuelto en papel de cocina dentro de una bolsa suelta en el cajón de verduras."},
+      {"q": "¿Se puede congelar el jengibre?", "a": "Sí, y es una forma excelente de conservarlo. Congela la raíz entera y sin pelar alrededor de 6 meses a −18 °C (0 °F) y rállala congelada."},
+      {"q": "¿Hay que pelar el jengibre?", "a": "No siempre. La piel es comestible y muy fina en el jengibre joven. Ráspala con una cucharilla si quieres quitarla, o sáltate el pelado al rallar jengibre congelado."}
+    ]
+  }
+}

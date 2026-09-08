@@ -1,0 +1,107 @@
+{
+  "slug": "rotisserie-chicken",
+  "en": {
+    "name": "Rotisserie chicken",
+    "aliases": ["roast chicken from the deli", "hot cooked chicken", "spit-roasted chicken", "supermarket roast chicken"],
+    "summary": "A rotisserie chicken is a whole chicken roasted on a spit and sold hot, ready to eat. Once you get it home and refrigerate it, it keeps 3–4 days at 4 °C (40 °F) or below from the day of purchase, and about 4 months in the freezer at −18 °C (0 °F).",
+    "pantry": "A hot rotisserie chicken must not be left sitting on the counter. Its temperature drops through the danger zone between 4 °C and 60 °C (40 °F and 140 °F) within an hour or two, so either keep it genuinely hot above 60 °C (140 °F) until serving, or refrigerate it within 2 hours of buying — 1 hour if the day is above 32 °C (90 °F).",
+    "fridge": "Carve the meat off the bones before refrigerating: it cools much faster in shallow containers than as a whole bird, and cooling quickly matters more than convenience. Store at 4 °C (40 °F) or below in covered containers for 3–4 days from purchase. Keep the carcass in a separate bag for stock, and freeze it if you will not make stock within a couple of days.",
+    "freezer": "Pull the meat from the bones, portion it into bags with the air pressed out, and freeze at −18 °C (0 °F): safe indefinitely, good quality for about 4 months. Shredded chicken freezes beautifully for tacos, soups and pasta. The whole carcass freezes well too and makes excellent stock straight from frozen.",
+    "thawing": "Thaw in the fridge overnight and reheat to 74 °C (165 °F) if you are serving it hot; the meat can also be eaten cold in salads and sandwiches within the 3–4 day window. Never thaw or reheat cooked chicken on the counter.",
+    "spoilage": [
+      "Sour, sulphurous or unpleasant smell when the container is opened",
+      "Slimy or sticky meat",
+      "Grey or greenish flesh, or any mould on the skin or meat",
+      "Jelly at the bottom of the container that has turned cloudy and smells sour"
+    ],
+    "tips": [
+      "Strip the meat and refrigerate it within 2 hours of buying — do not cool the whole bird slowly.",
+      "Freeze the carcass and make stock later straight from frozen.",
+      "Shred and freeze meat in meal-sized bags for quick weeknight dinners.",
+      "Reheat only the portion you need, to 74 °C (165 °F)."
+    ],
+    "faq": [
+      {"q": "Can you freeze rotisserie chicken?", "a": "Yes. Strip the meat from the bones, bag it and freeze at −18 °C (0 °F): safe indefinitely and good quality for about 4 months."},
+      {"q": "How long does rotisserie chicken last in the fridge?", "a": "3–4 days from the day of purchase at 4 °C (40 °F) or below, provided it was refrigerated within 2 hours."},
+      {"q": "Should you refrigerate a rotisserie chicken whole?", "a": "It is better to carve it first. A whole bird cools slowly and spends longer in the danger zone; carved meat in shallow containers chills quickly."}
+    ]
+  },
+  "zh": {
+    "name": "烤全雞（電烤／熟食櫃）",
+    "aliases": ["電烤雞", "熟食烤雞", "超市烤雞", "旋轉烤雞"],
+    "summary": "烤全雞是用旋轉烤架烤好、熱騰騰販售的即食全雞。買回家冷藏後，在 4°C 以下從購買日起可放 3～4 天；放 −18°C 冷凍約可放 4 個月。",
+    "pantry": "熱的烤雞不能一直放在流理台上。它的溫度會在一兩小時內降到 4～60°C 的危險溫度帶，所以要嘛保溫在 60°C 以上到上桌，要嘛在買回來後 2 小時內冷藏（氣溫超過 32°C 時 1 小時）。",
+    "fridge": "冷藏前先把肉從骨架上剝下來：分裝在淺容器裡比整隻降溫快得多，而快速降溫比省事更重要。放 4°C 以下、有蓋容器，從購買日起可放 3～4 天。骨架另外裝袋留著熬湯；如果一兩天內不會熬，就先冷凍。",
+    "freezer": "把肉剝下來，分裝進袋子擠出空氣，放 −18°C 冷凍：安全上可以無限期保存，品質約 4 個月。撕成雞絲冷凍非常好用，可以做塔可、湯或義大利麵。整副骨架也很適合冷凍，之後直接從冷凍下鍋就能熬出好高湯。",
+    "thawing": "放冷藏室解凍一晚；要熱食就加熱到中心 74°C。在 3～4 天的期限內，也可以直接冷食做沙拉或三明治。絕對不要在室溫解凍或回溫熟雞肉。",
+    "spoilage": [
+      "打開容器聞到酸味、硫磺味或不舒服的氣味",
+      "雞肉表面黏滑、發黏",
+      "肉色變灰或帶綠，或雞皮、雞肉上長黴",
+      "容器底部的肉凍變混濁並且發酸"
+    ],
+    "tips": [
+      "買回來 2 小時內把肉剝下來冷藏，不要讓整隻慢慢降溫。",
+      "骨架冷凍起來，之後直接從冷凍熬高湯。",
+      "把雞肉撕成絲、分裝成每餐份量冷凍，平日晚餐很方便。",
+      "每次只加熱要吃的量，加熱到 74°C。"
+    ],
+    "faq": [
+      {"q": "烤全雞可以冷凍嗎？", "a": "可以。把肉剝下來裝袋後放 −18°C 冷凍：安全上無限期，品質約 4 個月。"},
+      {"q": "烤全雞放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起 3～4 天，前提是 2 小時內就冰起來。"},
+      {"q": "烤全雞要整隻冷藏嗎？", "a": "建議先剝肉。整隻降溫慢，會在危險溫度帶停留更久；剝下來的肉裝淺容器降溫很快。"}
+    ]
+  },
+  "ja": {
+    "name": "ロティサリーチキン",
+    "aliases": ["ローストチキン（惣菜）", "丸焼きチキン", "スーパーの丸鶏ロースト", "回転焼き鶏"],
+    "summary": "ロティサリーチキンは、串に刺して回しながら焼き、温かい状態で売られるそのまま食べられる丸鶏です。持ち帰って冷蔵すれば、4℃以下で購入日から3〜4日、−18℃の冷凍で約4か月が目安です。",
+    "pantry": "温かいロティサリーチキンを台所に置きっぱなしにしてはいけません。1〜2時間で温度が4〜60℃の危険温度帯まで下がるため、提供まで60℃以上でしっかり保温するか、購入後2時間以内（気温32℃以上なら1時間以内）に冷蔵してください。",
+    "fridge": "冷蔵する前に骨から肉を外しましょう。丸ごとより浅い容器のほうがはるかに早く冷め、手間より冷却速度のほうが重要です。ふた付き容器に入れて4℃以下で、購入日から3〜4日保存します。骨は別の袋に入れてだし用に取っておき、1〜2日で使わないなら冷凍します。",
+    "freezer": "肉を骨から外し、袋に小分けして空気を抜き、−18℃で冷凍します。安全面では長期間、品質は約4か月が目安。ほぐした鶏肉は冷凍向きで、タコスやスープ、パスタにすぐ使えます。骨も冷凍でき、凍ったまま煮出しても良いだしが取れます。",
+    "thawing": "冷蔵庫で一晩解凍し、温かく食べるなら中心74℃まで加熱します。3〜4日の期限内なら、サラダやサンドイッチに冷たいまま使っても構いません。加熱済みの鶏肉を常温で解凍・放置しないでください。",
+    "spoilage": [
+      "容器を開けたときに酸っぱいにおい、硫黄臭、不快なにおいがする",
+      "肉の表面がぬめる・べたつく",
+      "肉が灰色や緑がかった色になっている、皮や肉にカビがある",
+      "容器の底のゼリー状の煮こごりが濁って酸っぱいにおいがする"
+    ],
+    "tips": [
+      "購入後2時間以内に肉を外して冷蔵する。丸ごとゆっくり冷ますのは避ける。",
+      "骨は冷凍し、あとで凍ったままだしを取る。",
+      "ほぐして1食分ずつ冷凍しておくと、平日の夕食にすぐ使える。",
+      "食べるぶんだけ74℃まで温め直す。"
+    ],
+    "faq": [
+      {"q": "ロティサリーチキンは冷凍できますか？", "a": "できます。骨から肉を外して袋に入れ−18℃で冷凍すれば、安全面では長期間、品質は約4か月が目安です。"},
+      {"q": "ロティサリーチキンは冷蔵庫で何日もちますか？", "a": "2時間以内に冷蔵していれば、4℃以下で購入日から3〜4日です。"},
+      {"q": "丸ごと冷蔵してもいいですか？", "a": "先に切り分けるほうが安全です。丸ごとは冷めるのが遅く危険温度帯に長くとどまりますが、外した肉を浅い容器に入れれば素早く冷えます。"}
+    ]
+  },
+  "es": {
+    "name": "Pollo rostizado",
+    "aliases": ["pollo asado de rosticería", "pollo al spiedo", "pollo asado de supermercado", "pollo rostizado caliente"],
+    "summary": "El pollo rostizado es un pollo entero asado al spiedo y vendido caliente, listo para comer. Una vez en casa y refrigerado, dura 3–4 días a 4 °C (40 °F) o menos desde el día de compra, y unos 4 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "Un pollo rostizado caliente no debe quedarse en la encimera. Su temperatura cae por la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F) en una o dos horas, así que mantenlo realmente caliente por encima de 60 °C (140 °F) hasta servirlo, o refrigéralo en menos de 2 horas desde la compra —1 hora si el día supera los 32 °C (90 °F)—.",
+    "fridge": "Deshuésalo antes de refrigerarlo: en recipientes bajos se enfría mucho más rápido que entero, y enfriar rápido importa más que la comodidad. Guárdalo a 4 °C (40 °F) o menos en recipientes tapados durante 3–4 días desde la compra. Reserva la carcasa en una bolsa aparte para caldo y congélala si no vas a hacerlo en un par de días.",
+    "freezer": "Separa la carne de los huesos, repártela en bolsas sin aire y congela a −18 °C (0 °F): segura indefinidamente y con buena calidad unos 4 meses. El pollo deshebrado se congela de maravilla para tacos, sopas y pastas. La carcasa también se congela bien y da un caldo excelente directamente del congelador.",
+    "thawing": "Descongélalo en el refrigerador durante una noche y recaliéntalo a 74 °C (165 °F) si lo sirves caliente; dentro de los 3–4 días también puede comerse frío en ensaladas y sándwiches. Nunca descongeles ni atemperes pollo cocido en la encimera.",
+    "spoilage": [
+      "Olor agrio, sulfuroso o desagradable al abrir el recipiente",
+      "Carne viscosa o pegajosa",
+      "Carne gris o verdosa, o moho en la piel o en la carne",
+      "Gelatina del fondo del recipiente turbia y con olor agrio"
+    ],
+    "tips": [
+      "Deshuésalo y refrigéralo en menos de 2 horas desde la compra; no dejes que se enfríe entero.",
+      "Congela la carcasa y haz el caldo después directamente desde congelado.",
+      "Deshebra y congela en bolsas de una comida para cenas rápidas.",
+      "Recalienta solo la ración que necesites, hasta 74 °C (165 °F)."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el pollo rostizado?", "a": "Sí. Separa la carne de los huesos, embólsala y congélala a −18 °C (0 °F): segura indefinidamente y con buena calidad unos 4 meses."},
+      {"q": "¿Cuánto dura el pollo rostizado en el refrigerador?", "a": "3–4 días desde el día de compra a 4 °C (40 °F) o menos, siempre que se refrigerara en menos de 2 horas."},
+      {"q": "¿Conviene refrigerarlo entero?", "a": "Es mejor deshuesarlo primero. Un pollo entero se enfría despacio y pasa más tiempo en la zona de peligro; la carne en recipientes bajos se enfría enseguida."}
+    ]
+  }
+}

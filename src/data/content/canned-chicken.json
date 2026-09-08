@@ -1,0 +1,107 @@
+{
+  "slug": "canned-chicken",
+  "en": {
+    "name": "Canned chicken",
+    "aliases": ["tinned chicken", "chunk chicken breast", "canned chicken meat", "shelf-stable chicken"],
+    "summary": "Canned chicken is cooked chicken meat sealed and heat-processed in the can, so it is shelf-stable and needs no refrigeration until opened. In the pantry it keeps up to 5 years from the day of purchase; once opened, refrigerate at 4 °C (40 °F) or below and use within 3–4 days.",
+    "pantry": "Store unopened cans in a cool, dry cupboard away from the cooker, sunlight and damp, where they stay good for up to 5 years — the long life comes from the sterilizing heat treatment and the airtight seal. Reject any can that is bulging, badly dented on a seam, rusted through or leaking, and never taste the contents to check.",
+    "fridge": "Once the seal is broken the chicken is a perishable ready-to-eat food. Tip the contents, with or without the liquid, into an airtight container — never store food in an opened can, where the exposed metal can affect flavour — and keep it at 4 °C (40 °F) or below for 3–4 days. Do not leave an open can out for more than 2 hours.",
+    "freezer": "Freezing is possible but rarely useful, since canned chicken is already a long-life store-cupboard item. If you have opened far more than you need, drain it, pack it flat in a bag with the air pressed out, and freeze at −18 °C (0 °F). It stays safe indefinitely but becomes noticeably drier and stringier, so use it in soups or casseroles.",
+    "thawing": "Thaw in the fridge overnight and use it in a cooked dish. Do not thaw at room temperature, and do not refreeze thawed canned chicken.",
+    "spoilage": [
+      "A bulging, seam-dented, rusted or leaking can — discard it unopened without tasting",
+      "Liquid spurting, foaming or an off smell when the can is opened",
+      "Slimy texture or sour smell from refrigerated leftovers",
+      "Grey, green or unusually dark meat, or a metallic taste"
+    ],
+    "tips": [
+      "Keep a couple of cans as emergency protein — they need no fridge until opened.",
+      "Rinse and drain the meat to reduce the salt in the packing liquid.",
+      "Move leftovers to a covered container, never back into the can.",
+      "Use it in sandwiches, salads, soups and pasta bakes within 3–4 days."
+    ],
+    "faq": [
+      {"q": "How long does canned chicken last?", "a": "Up to 5 years unopened in a cool, dry pantry from the day of purchase, and 3–4 days in the fridge at 4 °C (40 °F) or below once it is opened."},
+      {"q": "Can you freeze canned chicken?", "a": "You can, at −18 °C (0 °F), but the texture becomes dry and stringy. Use frozen-then-thawed canned chicken in soups or casseroles."},
+      {"q": "Does canned chicken need to be cooked?", "a": "No, it is fully cooked and ready to eat. Reheat it if you prefer it hot, or use it straight from the can in salads and sandwiches."}
+    ]
+  },
+  "zh": {
+    "name": "雞肉罐頭",
+    "aliases": ["罐頭雞肉", "雞胸肉罐頭", "常溫雞肉", "雞肉罐"],
+    "summary": "雞肉罐頭是把煮熟的雞肉密封在罐內做高溫殺菌，屬於常溫商品，開封前不需要冷藏。放在櫥櫃，從購買日起最長可保存 5 年；開封後要放 4°C 以下冷藏，並在 3～4 天內用完。",
+    "pantry": "未開封的罐頭請放在陰涼乾燥的櫥櫃，遠離爐火、陽光和潮濕，最長可保存 5 年——這麼長的期限來自完整的殺菌加熱和密封。罐身鼓起、封口嚴重凹陷、生鏽穿孔或漏液的一律不要用，也絕對不要試吃來判斷。",
+    "fridge": "一旦開罐，雞肉就成了容易腐敗的即食食品。請把內容物（連湯汁或瀝乾都可以）倒進密封容器——不要把食物留在開過的罐頭裡，裸露的金屬可能影響風味——放 4°C 以下冷藏 3～4 天。開過的罐頭不要在室溫放超過 2 小時。",
+    "freezer": "可以冷凍，但通常沒必要，畢竟罐頭本身就是耐放的常備品。如果開了太多用不完，可以瀝乾、平放裝袋擠出空氣，放 −18°C 冷凍。安全上可以無限期保存，但口感會明顯變乾變柴，建議用在湯品或焗烤。",
+    "thawing": "放冷藏室解凍一晚，之後用在熟食料理。不要在室溫解凍，解凍後也不要再冷凍。",
+    "spoilage": [
+      "罐身鼓起、封口凹陷、生鏽或漏液——不要開、不要試吃，整罐丟棄",
+      "開罐時液體噴出、冒泡沫或散發異味",
+      "冷藏的剩餘雞肉質地黏滑或發出酸味",
+      "肉色變灰、帶綠或異常深暗，或吃起來有金屬味"
+    ],
+    "tips": [
+      "櫥櫃常備兩罐當緊急蛋白質，開封前完全不用冰。",
+      "沖洗瀝乾可以降低湯汁帶來的鹽分。",
+      "剩下的移到有蓋容器，不要倒回罐頭裡。",
+      "3～4 天內用完，可以做三明治、沙拉、湯或焗烤麵。"
+    ],
+    "faq": [
+      {"q": "雞肉罐頭可以放多久？", "a": "未開封放陰涼乾燥的櫥櫃，從購買日起最長 5 年；開封後在 4°C 以下冷藏 3～4 天。"},
+      {"q": "雞肉罐頭可以冷凍嗎？", "a": "可以放 −18°C 冷凍，但質地會變乾變柴。解凍後建議用在湯品或焗烤。"},
+      {"q": "雞肉罐頭需要煮嗎？", "a": "不用，它已經全熟可以直接吃。想吃熱的就加熱，也可以直接拌進沙拉或做三明治。"}
+    ]
+  },
+  "ja": {
+    "name": "鶏肉の缶詰",
+    "aliases": ["チキン缶", "サラダチキン缶", "鶏むね肉の缶詰", "常温保存の鶏肉"],
+    "summary": "鶏肉の缶詰は、加熱調理した鶏肉を缶に密封して加熱殺菌した常温保存食品で、開封するまで冷蔵は不要です。棚では購入日から最長5年、開封後は4℃以下で冷蔵し、3〜4日以内に使い切ります。",
+    "pantry": "未開封の缶は、コンロや直射日光、湿気を避けた涼しく乾いた棚で保管すれば最長5年もちます。この長さは、十分な加熱殺菌と密封によるものです。膨らんだ缶、巻き締め部が大きくへこんだ缶、さびて穴の開いた缶、液が漏れている缶は使わず、味見での確認も絶対にしないでください。",
+    "fridge": "開封するとその時点で、傷みやすいそのまま食べられる食品になります。汁ごとでも汁を切ってでも構いませんが、必ず密閉容器に移してください（開けた缶のまま保存すると、露出した金属が風味に影響することがあります）。4℃以下で3〜4日保存し、開けた缶を室温に2時間以上置かないようにします。",
+    "freezer": "冷凍は可能ですが、もともと長期保存できる常備品なので必要になる場面は多くありません。開けすぎて余った場合は、汁を切って袋に平らに入れ空気を抜き、−18℃で冷凍します。安全面では長期間保ちますが、明らかにパサついて繊維っぽくなるので、スープやグラタンに使いましょう。",
+    "thawing": "冷蔵庫で一晩解凍し、加熱料理に使います。常温解凍と再冷凍は避けてください。",
+    "spoilage": [
+      "缶が膨らむ・巻き締め部がへこむ・さびる・液が漏れる（開けず、味見もせずに処分）",
+      "開缶時に液が噴き出す、泡立つ、異臭がする",
+      "冷蔵中の残りがぬめる、酸っぱいにおいがする",
+      "肉が灰色・緑・不自然に濃い色になっている、金属のような味がする"
+    ],
+    "tips": [
+      "非常食のたんぱく源として数缶常備する。開封まで冷蔵不要。",
+      "洗って汁を切ると、漬け汁由来の塩分を減らせる。",
+      "残りは缶に戻さず、ふた付き容器へ移す。",
+      "3〜4日以内にサンドイッチ、サラダ、スープ、グラタンで使い切る。"
+    ],
+    "faq": [
+      {"q": "鶏肉の缶詰はどのくらいもちますか？", "a": "未開封なら涼しく乾いた場所で購入日から最長5年、開封後は4℃以下の冷蔵で3〜4日です。"},
+      {"q": "鶏肉の缶詰は冷凍できますか？", "a": "−18℃で冷凍できますが、パサついて繊維っぽくなります。解凍後はスープやグラタンに使ってください。"},
+      {"q": "缶詰の鶏肉は加熱が必要ですか？", "a": "不要です。すでに加熱済みでそのまま食べられます。温かくしたいときだけ温め直し、サラダやサンドイッチには缶から直接使えます。"}
+    ]
+  },
+  "es": {
+    "name": "Pollo enlatado",
+    "aliases": ["pollo en lata", "pechuga de pollo enlatada", "pollo desmenuzado en lata", "pollo de despensa"],
+    "summary": "El pollo enlatado es carne de pollo cocida, sellada y esterilizada por calor dentro de la lata, así que es de larga duración y no necesita frío hasta abrirse. En la despensa dura hasta 5 años desde la compra; una vez abierto, refrigéralo a 4 °C (40 °F) o menos y úsalo en 3–4 días.",
+    "pantry": "Guarda las latas cerradas en un armario fresco y seco, lejos de la cocina, el sol y la humedad; ahí aguantan hasta 5 años, gracias al tratamiento térmico esterilizante y al cierre hermético. Descarta cualquier lata hinchada, muy abollada en la costura, oxidada o con fugas, y nunca pruebes el contenido para comprobarlo.",
+    "fridge": "Al romper el sellado, el pollo pasa a ser un alimento perecedero listo para comer. Vuelca el contenido, con o sin su líquido, en un recipiente hermético —nunca guardes comida en una lata abierta, cuyo metal expuesto puede alterar el sabor— y consérvalo a 4 °C (40 °F) o menos durante 3–4 días. No dejes una lata abierta fuera más de 2 horas.",
+    "freezer": "Congelarlo es posible pero rara vez útil, ya que el pollo enlatado es de por sí un producto de larga duración. Si has abierto mucho más de lo necesario, escúrrelo, empácalo plano en una bolsa sin aire y congela a −18 °C (0 °F). Se mantiene seguro indefinidamente, pero queda más seco y fibroso, así que úsalo en sopas o gratinados.",
+    "thawing": "Descongélalo en el refrigerador durante una noche y úsalo en un plato cocinado. No lo descongeles a temperatura ambiente ni lo vuelvas a congelar.",
+    "spoilage": [
+      "Lata hinchada, abollada en la costura, oxidada o con fugas: deséchala sin abrir ni probar",
+      "Líquido que sale a presión, espuma u olor extraño al abrir",
+      "Sobras refrigeradas viscosas o con olor agrio",
+      "Carne gris, verdosa o anormalmente oscura, o sabor metálico"
+    ],
+    "tips": [
+      "Ten un par de latas como proteína de emergencia: no necesitan frío hasta abrirlas.",
+      "Enjuaga y escurre la carne para reducir la sal del líquido de conserva.",
+      "Pasa las sobras a un recipiente tapado, nunca de vuelta a la lata.",
+      "Úsalo en sándwiches, ensaladas, sopas y pastas al horno en 3–4 días."
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el pollo enlatado?", "a": "Hasta 5 años sin abrir en una despensa fresca y seca desde el día de compra, y 3–4 días en el refrigerador a 4 °C (40 °F) o menos una vez abierto."},
+      {"q": "¿Se puede congelar el pollo enlatado?", "a": "Se puede, a −18 °C (0 °F), pero la textura queda seca y fibrosa. Úsalo después en sopas o gratinados."},
+      {"q": "¿Hay que cocinar el pollo enlatado?", "a": "No, está completamente cocido y listo para comer. Recaliéntalo si lo prefieres caliente o úsalo directo en ensaladas y sándwiches."}
+    ]
+  }
+}

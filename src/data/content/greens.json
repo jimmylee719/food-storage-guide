@@ -1,0 +1,107 @@
+{
+  "slug": "greens",
+  "en": {
+    "name": "Leafy greens",
+    "aliases": ["kale", "collard greens", "chard", "mustard greens", "turnip greens"],
+    "summary": "Leafy greens such as kale, chard, collards and mustard greens have a huge surface area and lose water fast, so they wilt quickly. In the fridge they keep only 1–4 days from the date of purchase, while blanched and frozen they last 10–12 months.",
+    "pantry": "Leafy greens should never be stored at room temperature. A bunch left on the counter wilts within hours and can be limp and yellowing by the next morning, especially in a warm, humid kitchen. Take them home from the market and refrigerate them straight away.",
+    "fridge": "Store greens unwashed, wrapped loosely in kitchen paper inside a perforated bag, in the crisper at 4 °C (40 °F) or below, where they keep 1–4 days from purchase. The paper absorbs excess moisture, which is what turns leaves slimy. Sturdier greens like kale and collards last towards the longer end of that range; tender greens are gone in a day or two.",
+    "freezer": "Greens freeze for 10–12 months from purchase at −18 °C (0 °F) if blanched first. Strip the leaves from tough stems, boil for 2 minutes (3 for thick collards), plunge into iced water, drain and squeeze out as much water as possible, then pack into airtight bags in recipe-sized portions.",
+    "thawing": "Add frozen greens straight to soups, stews and braises. If a recipe needs them thawed, do it in the fridge and squeeze out the water before use so the dish is not watery.",
+    "spoilage": [
+      "Slimy, dark or translucent leaves",
+      "Yellowing across the whole bunch, not just an outer leaf",
+      "Sour, ammonia-like or rotten smell",
+      "Liquid pooling in the bottom of the bag"
+    ],
+    "tips": [
+      "Do not wash before storing — wash just before cooking",
+      "Line the bag with kitchen paper to absorb condensation",
+      "Cook the stems too; slice them finely and start them earlier than the leaves",
+      "Blanch and freeze a bunch you cannot use in time rather than throwing it away"
+    ],
+    "faq": [
+      {"q": "How long do leafy greens last in the fridge?", "a": "1–4 days from purchase at 4 °C (40 °F) or below, stored unwashed in a perforated bag lined with kitchen paper."},
+      {"q": "Can you freeze kale and chard?", "a": "Yes, if blanched first for 2–3 minutes, then chilled, squeezed dry and bagged. They keep 10–12 months from purchase at −18 °C (0 °F)."},
+      {"q": "Why do greens go slimy in the fridge?", "a": "Excess moisture trapped around the leaves lets bacteria multiply. Store them dry and unwashed, wrapped in kitchen paper inside a bag that lets air escape."}
+    ]
+  },
+  "zh": {
+    "name": "深綠色葉菜",
+    "aliases": ["羽衣甘藍", "莙薘菜", "芥菜", "蕪菁葉", "唐萵苣"],
+    "summary": "羽衣甘藍、莙薘菜、芥菜等深綠色葉菜表面積大、失水快，所以很容易軟垮。冷藏從購買日起只能放 1～4 天，燙過後冷凍則可保存 10～12 個月。",
+    "pantry": "深綠色葉菜絕對不該放在室溫。一把菜放在檯面上幾小時就會軟垮，隔天早上可能已經又軟又黃，在又熱又濕的廚房更明顯。從市場買回來請立刻冷藏。",
+    "fridge": "不清洗，用廚房紙巾鬆鬆包住，裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 1～4 天。紙巾能吸掉多餘水氣，那正是讓葉子變黏滑的主因。羽衣甘藍這類質地較硬的可以撐到期限的長端，柔嫩的葉菜一兩天就不行了。",
+    "freezer": "葉菜先汆燙再冷凍，放 −18°C，從購買日起可保存 10～12 個月。把葉子從粗梗上摘下來，滾水煮 2 分鐘（厚實的煮 3 分鐘），撈起泡冰水，瀝乾並盡量擠掉水分，再按每次要用的份量裝進密封袋。",
+    "thawing": "冷凍葉菜可以直接丟進湯、燉菜或燴菜裡。如果食譜需要解凍，請放冷藏室退冰並先擠乾水分，成品才不會水水的。",
+    "spoilage": [
+      "葉片變黏滑、發黑或半透明",
+      "整把都在變黃，而不只是外層一兩片",
+      "有酸味、阿摩尼亞味或腐敗味",
+      "袋子底部積了水"
+    ],
+    "tips": [
+      "保存前不要洗，煮之前再洗",
+      "袋子裡墊廚房紙巾吸收冷凝水",
+      "梗也可以吃，切細一點、比葉子早一步下鍋",
+      "來不及吃完的話，燙過冷凍起來，不要直接丟掉"
+    ],
+    "faq": [
+      {"q": "深綠葉菜放冰箱可以放多久？", "a": "不清洗、裝在墊了廚房紙巾的打洞袋裡，放 4°C 以下，從購買日起 1～4 天。"},
+      {"q": "羽衣甘藍和莙薘菜可以冷凍嗎？", "a": "可以，但要先汆燙 2～3 分鐘，冰鎮、擠乾後裝袋。放 −18°C，從購買日起可保存 10～12 個月。"},
+      {"q": "葉菜為什麼在冰箱裡會變黏滑？", "a": "因為葉片周圍積了多餘水分，讓細菌快速繁殖。請乾燥不清洗地保存，用廚房紙巾包好，裝進可以透氣的袋子裡。"}
+    ]
+  },
+  "ja": {
+    "name": "青菜（葉物野菜）",
+    "aliases": ["ケール", "スイスチャード", "からし菜", "カーボロネロ", "からし菜の葉"],
+    "summary": "ケール、スイスチャード、からし菜などの葉物は表面積が大きく水分が抜けやすいため、すぐしおれます。冷蔵では購入日から1〜4日しか持たず、下ゆでして冷凍すれば10〜12か月保存できます。",
+    "pantry": "葉物野菜を常温で保存してはいけません。調理台に置くと数時間でしおれ、翌朝にはぐったり黄ばんでいることもあります。高温多湿の台所ではなおさらです。買ったらすぐ冷蔵庫へ入れましょう。",
+    "fridge": "洗わずにキッチンペーパーでゆるく包み、穴あき袋に入れて4℃以下の野菜室で保存すれば、購入日から1〜4日持ちます。ペーパーが余分な水分を吸い、葉のぬめりを防いでくれます。ケールのようにしっかりしたものは長めに、やわらかい葉物は1〜2日で使い切りましょう。",
+    "freezer": "下ゆですれば−18℃で購入日から10〜12か月冷凍できます。硬い茎から葉を外し、2分（厚みのあるものは3分）ゆで、氷水に取り、しっかり水気を絞ってから、1回分ずつ密閉袋に詰めます。",
+    "thawing": "冷凍した青菜はそのままスープ、煮込み、蒸し煮に加えます。解凍が必要な場合は冷蔵庫で行い、使う前に水気を絞ると仕上がりが水っぽくなりません。",
+    "spoilage": [
+      "葉がぬめる、黒ずむ、透けたようになっている",
+      "外側の1枚だけでなく、束全体が黄ばんでいる",
+      "酸っぱいにおい、アンモニア臭、腐敗臭",
+      "袋の底に水がたまっている"
+    ],
+    "tips": [
+      "保存前は洗わず、調理直前に洗いましょう",
+      "袋にキッチンペーパーを敷いて結露を吸わせましょう",
+      "茎も薄く切って、葉より先に加熱すれば無駄なく使えます",
+      "使い切れないときは下ゆでして冷凍し、捨てないようにしましょう"
+    ],
+    "faq": [
+      {"q": "葉物野菜は冷蔵庫でどのくらい持ちますか？", "a": "洗わずキッチンペーパーを敷いた穴あき袋に入れ、4℃以下で購入日から1〜4日です。"},
+      {"q": "ケールやスイスチャードは冷凍できますか？", "a": "できます。2〜3分下ゆでして冷やし、水気を絞って袋へ。−18℃で購入日から10〜12か月です。"},
+      {"q": "青菜が冷蔵庫でぬめるのはなぜですか？", "a": "葉のまわりにこもった余分な水分で細菌が増えるためです。洗わず乾いた状態でキッチンペーパーに包み、空気の逃げる袋で保存しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Verduras de hoja verde",
+    "aliases": ["kale", "berza", "acelgas", "hojas de mostaza", "col rizada"],
+    "summary": "Las verduras de hoja como el kale, las acelgas, la berza y las hojas de mostaza tienen una superficie enorme y pierden agua rápido, por eso se marchitan enseguida. En la nevera duran solo 1–4 días desde la compra, mientras que escaldadas y congeladas aguantan 10–12 meses.",
+    "pantry": "Las hojas verdes nunca deben guardarse a temperatura ambiente. Un manojo en la encimera se marchita en horas y puede estar flácido y amarillento a la mañana siguiente, sobre todo en una cocina cálida y húmeda. Llévalas a casa y refrigéralas de inmediato.",
+    "fridge": "Guárdalas sin lavar, envueltas sin apretar en papel de cocina dentro de una bolsa perforada, en el cajón de verduras a 4 °C (40 °F) o menos, donde duran 1–4 días desde la compra. El papel absorbe el exceso de humedad, que es lo que vuelve viscosas las hojas. El kale y la berza aguantan hacia el extremo largo del plazo; las hojas tiernas duran uno o dos días.",
+    "freezer": "Se congelan 10–12 meses desde la compra a −18 °C (0 °F) si las escaldas antes. Separa las hojas de los tallos duros, hiérvelas 2 minutos (3 si son gruesas), pásalas a agua helada, escúrrelas y estruja todo el agua posible, y guárdalas en bolsas herméticas por raciones.",
+    "thawing": "Añade las hojas congeladas directamente a sopas, guisos y estofados. Si la receta las pide descongeladas, hazlo en la nevera y escurre el agua antes de usarlas.",
+    "spoilage": [
+      "Hojas viscosas, oscuras o translúcidas",
+      "Amarilleo en todo el manojo, no solo en una hoja exterior",
+      "Olor agrio, amoniacal o pútrido",
+      "Líquido acumulado en el fondo de la bolsa"
+    ],
+    "tips": [
+      "No las laves antes de guardarlas: lávalas justo antes de cocinar",
+      "Forra la bolsa con papel de cocina para absorber la condensación",
+      "Cocina también los tallos: córtalos finos y échalos antes que las hojas",
+      "Escalda y congela el manojo que no puedas usar a tiempo en lugar de tirarlo"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las verduras de hoja en la nevera?", "a": "1–4 días desde la compra a 4 °C (40 °F) o menos, sin lavar y en bolsa perforada forrada con papel de cocina."},
+      {"q": "¿Se pueden congelar el kale y las acelgas?", "a": "Sí, si los escaldas 2–3 minutos antes, los enfrías, los estrujas y los embolsas. Duran 10–12 meses desde la compra a −18 °C (0 °F)."},
+      {"q": "¿Por qué las hojas se vuelven viscosas en la nevera?", "a": "El exceso de humedad atrapado alrededor de las hojas permite que se multipliquen las bacterias. Guárdalas secas y sin lavar, envueltas en papel dentro de una bolsa que deje salir el aire."}
+    ]
+  }
+}

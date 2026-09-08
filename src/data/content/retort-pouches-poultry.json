@@ -1,0 +1,107 @@
+{
+  "slug": "retort-pouches-poultry",
+  "en": {
+    "name": "Retort pouches or boxes (poultry)",
+    "aliases": ["retort pouch chicken", "shelf-stable pouch meals", "aseptic box meals", "pouched poultry"],
+    "summary": "Retort pouches and aseptic boxes hold poultry that has been sealed and then heat-sterilized inside its flexible packaging, making it shelf-stable without refrigeration until opened. Once you open the pouch, refrigerate the contents at 4 °C (40 °F) or below and use them within 3–4 days.",
+    "pantry": "An unopened retort pouch belongs in a cool, dry cupboard, and the printed best-before date is your guide. Keep it away from heat and sharp objects: the sterility depends entirely on an intact seal, so a punctured, swollen or leaking pouch must be thrown away unopened. Never taste the contents of a damaged pouch to check whether it is still good.",
+    "fridge": "Once opened, the contents are a perishable, ready-to-eat food like any cooked chicken. Empty the pouch into an airtight container rather than folding it over, refrigerate at 4 °C (40 °F) or below, and use within 3–4 days. Do not leave an opened pouch at room temperature for more than 2 hours — 1 hour above 32 °C (90 °F).",
+    "freezer": "Freezing is not usually necessary, since the point of a retort pouch is that it needs no cold storage. If you cannot finish opened contents within 3–4 days, transfer them to a freezer container or bag, press out the air and freeze at −18 °C (0 °F), where they stay safe indefinitely; expect the sauce to separate and the meat to soften, so use it in soups or bakes.",
+    "thawing": "Thaw frozen contents in the fridge overnight and reheat until steaming hot, 74 °C (165 °F). An unopened pouch can be reheated by dropping it into hot water as the maker directs. Never thaw or hold pouch contents at room temperature.",
+    "spoilage": [
+      "A swollen, puffed or leaking pouch — discard unopened without tasting",
+      "Hissing, spurting or an off smell when the pouch is cut open",
+      "Slimy meat, or a sauce that has become cloudy, ropey or fizzing",
+      "Any mould, or a sour taste on a reheated spoonful"
+    ],
+    "tips": [
+      "Store pouches flat and away from sharp tins that could pierce them.",
+      "Empty leftovers into a covered container rather than storing them in the opened pouch.",
+      "Write the opening date on the container so the 3–4 day window is clear.",
+      "Retort pouches are excellent for camping and emergency kits — no fridge needed until opened."
+    ],
+    "faq": [
+      {"q": "Do retort pouches need refrigeration?", "a": "Not until opened — they are sterilized inside the sealed pouch. After opening, refrigerate at 4 °C (40 °F) or below and use within 3–4 days."},
+      {"q": "How long do opened retort pouch contents last?", "a": "3–4 days in the fridge at 4 °C (40 °F) or below, in an airtight container."},
+      {"q": "Is a swollen pouch safe if it smells fine?", "a": "No. Swelling suggests gas from microbial growth. Discard it unopened and do not smell or taste the contents."}
+    ]
+  },
+  "zh": {
+    "name": "調理包／利樂包（雞肉類）",
+    "aliases": ["雞肉調理包", "軟袋殺菌包", "常溫即食包", "retort pouch"],
+    "summary": "調理包（retort pouch）和無菌紙盒是把雞肉密封在軟包裝裡再高溫殺菌的產品，開封前不需要冷藏就能常溫保存。一旦拆封，內容物就要放 4°C 以下冷藏，並在 3～4 天內用完。",
+    "pantry": "未開封的調理包請放在陰涼乾燥的櫥櫃，以標示的有效日期為準。要遠離熱源和尖銳物品：它的無菌狀態完全靠完整的封口維持，所以破洞、鼓起或漏液的調理包必須整包丟棄，不要打開。受損的包裝也絕對不要試吃來判斷。",
+    "fridge": "一旦開封，內容物就和一般熟雞肉一樣是容易腐敗的即食食品。請倒進密封容器，而不是把袋口摺起來就算了，放 4°C 以下冷藏，3～4 天內用完。開過的調理包不要在室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）。",
+    "freezer": "通常不需要冷凍，因為調理包本來的優點就是不需要低溫保存。如果開封後 3～4 天內吃不完，可以倒進冷凍容器或袋子、擠出空氣後放 −18°C 冷凍，安全上可以無限期保存；但醬汁會分離、肉也會變軟，建議用在湯品或焗烤。",
+    "thawing": "冷凍的內容物放冷藏室解凍一晚，再加熱到冒蒸氣、中心 74°C。未開封的調理包可以依包裝指示直接放進熱水加熱。絕對不要在室溫解凍或放置調理包內容物。",
+    "spoilage": [
+      "包裝鼓起、膨脹或漏液——不要打開、不要試吃，整包丟棄",
+      "剪開時有嘶聲、液體噴出或散發異味",
+      "肉黏滑，或醬汁變混濁、牽絲、冒泡",
+      "出現任何黴，或加熱後嚐一口有酸味"
+    ],
+    "tips": [
+      "調理包平放保存，遠離可能刺破它的尖銳罐頭。",
+      "剩下的倒進有蓋容器，不要留在開過的袋子裡。",
+      "在容器上寫開封日期，3～4 天的期限才清楚。",
+      "調理包很適合露營和防災儲備，開封前完全不需要冰箱。"
+    ],
+    "faq": [
+      {"q": "調理包需要冷藏嗎？", "a": "開封前不用，它是在密封袋內完成殺菌的。開封後要放 4°C 以下冷藏，並在 3～4 天內用完。"},
+      {"q": "調理包開封後可以放多久？", "a": "裝進密封容器放 4°C 以下冷藏 3～4 天。"},
+      {"q": "包裝鼓起但聞起來正常，可以吃嗎？", "a": "不行。鼓起代表可能有微生物產氣。請整包丟棄，不要聞也不要試吃。"}
+    ]
+  },
+  "ja": {
+    "name": "レトルトパウチ・紙容器（鶏肉料理）",
+    "aliases": ["レトルト食品（鶏）", "常温保存パウチ", "チキンのレトルト", "無菌紙パック惣菜"],
+    "summary": "レトルトパウチや無菌紙容器は、鶏肉を密封したまま加圧加熱殺菌した製品で、開封するまで常温で保存できます。開封したら内容物を4℃以下で冷蔵し、3〜4日以内に使い切ってください。",
+    "pantry": "未開封のパウチは涼しく乾いた棚で保管し、表示の期限を目安にします。熱源や鋭利なものから離すことが大切です。無菌状態は封の完全さだけに支えられているため、穴が開いた・膨らんだ・液が漏れたパウチは開けずに処分してください。破損したものの中身をにおいや味で確かめようとしないこと。",
+    "fridge": "開封した時点で、中身はほかの加熱済み鶏肉と同じ傷みやすいそのまま食べられる食品になります。袋の口を折り返すだけで済ませず、密閉容器に移して4℃以下で冷蔵し、3〜4日以内に使い切りましょう。開封したパウチを室温に2時間以上（気温32℃以上なら1時間以上）置かないでください。",
+    "freezer": "冷蔵設備が要らないことがレトルトの利点なので、通常は冷凍する必要はありません。3〜4日で食べ切れない場合は、冷凍用容器や袋に移して空気を抜き、−18℃で冷凍します（安全面では長期間）。ソースは分離し肉もやわらかくなるため、スープやグラタンに使うのが向いています。",
+    "thawing": "冷凍したものは冷蔵庫で一晩解凍し、湯気が立つ状態（74℃）まで加熱します。未開封のパウチは、メーカーの指示に従って湯せんで温められます。常温での解凍・放置は避けてください。",
+    "spoilage": [
+      "パウチが膨らむ・ふくれる・液が漏れている（開けず、味見もせずに処分）",
+      "切ったときにガスが抜ける音、液の噴き出し、異臭がある",
+      "肉がぬめる、ソースが濁る・糸を引く・発泡している",
+      "カビがある、温め直して一口味見して酸っぱい"
+    ],
+    "tips": [
+      "パウチは平らに置き、突き刺さる恐れのある缶類から離す。",
+      "残りは開けた袋のままにせず、ふた付き容器へ移す。",
+      "容器に開封日を書き、3〜4日の期限を明確にする。",
+      "レトルトはキャンプや防災備蓄に最適。開封まで冷蔵不要。"
+    ],
+    "faq": [
+      {"q": "レトルトパウチは冷蔵が必要ですか？", "a": "開封するまでは不要です。密封したまま殺菌されているためです。開封後は4℃以下で冷蔵し、3〜4日以内に使い切ってください。"},
+      {"q": "開封後はどのくらいもちますか？", "a": "密閉容器に移して4℃以下で3〜4日です。"},
+      {"q": "膨らんだパウチでもにおいが普通なら食べられますか？", "a": "食べられません。膨張は微生物によるガス発生を示唆します。開けずに処分し、においも味も確かめないでください。"}
+    ]
+  },
+  "es": {
+    "name": "Bolsas retort o envases asépticos (ave)",
+    "aliases": ["pollo en bolsa retort", "comida lista de larga duración", "envase aséptico de pollo", "pouch de ave"],
+    "summary": "Las bolsas retort y los envases asépticos contienen ave sellada y esterilizada por calor dentro de su propio envase flexible, lo que los hace estables sin refrigeración hasta abrirlos. Una vez abierta la bolsa, refrigera el contenido a 4 °C (40 °F) o menos y úsalo en 3–4 días.",
+    "pantry": "Una bolsa retort sin abrir va en un armario fresco y seco, y la fecha impresa es la referencia. Mantenla lejos del calor y de objetos punzantes: la esterilidad depende por completo de un sellado intacto, así que una bolsa perforada, hinchada o con fugas debe tirarse sin abrir. Nunca pruebes el contenido de un envase dañado para comprobar si sigue bien.",
+    "fridge": "Al abrirla, el contenido es un alimento perecedero listo para comer como cualquier pollo cocido. Vacía la bolsa en un recipiente hermético en vez de doblarla, refrigera a 4 °C (40 °F) o menos y consúmelo en 3–4 días. No dejes una bolsa abierta a temperatura ambiente más de 2 horas —1 hora por encima de 32 °C (90 °F)—.",
+    "freezer": "No suele hacer falta congelar, porque la gracia del retort es que no necesita frío. Si no puedes terminar el contenido abierto en 3–4 días, pásalo a un recipiente o bolsa de congelación, saca el aire y congela a −18 °C (0 °F), donde se mantiene seguro indefinidamente; la salsa se separará y la carne se ablandará, así que úsalo en sopas o gratinados.",
+    "thawing": "Descongela el contenido en el refrigerador durante una noche y recaliéntalo hasta que humee, 74 °C (165 °F). Una bolsa sin abrir puede calentarse sumergiéndola en agua caliente según indique el fabricante. Nunca descongeles ni mantengas el contenido a temperatura ambiente.",
+    "spoilage": [
+      "Bolsa hinchada, abombada o con fugas: deséchala sin abrir ni probar",
+      "Silbido, salida de líquido a presión u olor extraño al cortarla",
+      "Carne viscosa, o salsa turbia, filante o con burbujas",
+      "Cualquier moho, o sabor agrio en una cucharada recalentada"
+    ],
+    "tips": [
+      "Guarda las bolsas planas y lejos de latas con bordes que puedan perforarlas.",
+      "Vacía las sobras en un recipiente tapado en lugar de guardarlas en la bolsa abierta.",
+      "Anota la fecha de apertura en el recipiente para tener claros los 3–4 días.",
+      "Las bolsas retort son excelentes para acampadas y kits de emergencia: no necesitan frío hasta abrirse."
+    ],
+    "faq": [
+      {"q": "¿Las bolsas retort necesitan refrigeración?", "a": "No hasta abrirlas: se esterilizan dentro del envase sellado. Después, refrigera a 4 °C (40 °F) o menos y usa el contenido en 3–4 días."},
+      {"q": "¿Cuánto dura el contenido una vez abierto?", "a": "3–4 días en el refrigerador a 4 °C (40 °F) o menos, en un recipiente hermético."},
+      {"q": "¿Es segura una bolsa hinchada si huele bien?", "a": "No. La hinchazón sugiere gas por crecimiento microbiano. Deséchala sin abrir y no huelas ni pruebes el contenido."}
+    ]
+  }
+}
