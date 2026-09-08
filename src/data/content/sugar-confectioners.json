@@ -1,0 +1,107 @@
+{
+  "slug": "sugar-confectioners",
+  "en": {
+    "name": "Icing sugar",
+    "aliases": ["confectioners' sugar", "powdered sugar", "10X sugar", "icing mixture"],
+    "summary": "Icing sugar is granulated sugar milled to a fine powder, usually with a small amount of cornstarch added to stop it caking. Like all sugar it never spoils, so it keeps indefinitely in the pantry; for best quality use it within about 2 years of opening, with USDA giving an 18–24 month window after opening.",
+    "pantry": "Store icing sugar in an airtight container in a cool, dry cupboard. Because it is so finely milled it absorbs humidity faster than granulated sugar and sets into hard lumps, so a good seal is essential — decant it out of the paper bag. For best quality use within 18–24 months of opening, and keep it away from the sink and any steam.",
+    "fridge": "Refrigeration is unnecessary and counterproductive. Cold icing sugar attracts condensation the moment the container is opened, and even a little moisture turns the fine powder into a solid cake. It also absorbs fridge odours quickly.",
+    "freezer": "Freezing icing sugar has no benefit. It does not spoil at room temperature, and the freezer only adds a condensation risk each time the container is taken out and warmed.",
+    "thawing": null,
+    "spoilage": [
+      "Hard lumps or a solid cake in the bag",
+      "Damp, sticky patches from absorbed moisture",
+      "Musty or off smell picked up from nearby foods",
+      "Insects, larvae or webbing in the container"
+    ],
+    "tips": [
+      "Always sift icing sugar before use — it lumps even in perfect storage",
+      "Decant into an airtight jar and label it with the opening date",
+      "Keep it well away from the kettle, rice cooker and sink",
+      "Icing sugar contains cornstarch, so it is not a direct swap for granulated sugar in recipes"
+    ],
+    "faq": [
+      {"q": "Does icing sugar expire?", "a": "No. Sugar does not spoil, so it keeps indefinitely stored dry and sealed. For best quality use it within about 2 years of opening; USDA gives 18–24 months."},
+      {"q": "How do you fix lumpy icing sugar?", "a": "Sift it through a fine sieve, or pulse it briefly in a blender. Then store it in a genuinely airtight container away from steam."},
+      {"q": "Does icing sugar need to be refrigerated?", "a": "No. Cold storage causes condensation that turns the fine powder into a hard cake. Keep it sealed in a cool, dry cupboard."}
+    ]
+  },
+  "zh": {
+    "name": "糖粉",
+    "aliases": ["純糖粉", "防潮糖粉", "細糖粉", "confectioners sugar"],
+    "summary": "糖粉是把砂糖磨成極細粉末，通常還會加一點玉米澱粉防止結塊。和所有的糖一樣，它不會腐敗，常溫可以無限期保存；為了品質，建議在開封後約 2 年內用完，USDA 給的參考是開封後 18～24 個月。",
+    "pantry": "糖粉請裝進密封容器，放在陰涼乾燥的櫥櫃。因為磨得極細，它吸濕的速度比砂糖快，一受潮就會結成硬塊，所以密封特別重要，買回來就從紙袋倒出來分裝。品質最好的期限是開封後 18～24 個月，容器要遠離水槽和任何蒸氣。",
+    "fridge": "不需要冷藏，而且有反效果。冰冷的糖粉一開蓋就會吸附冷凝水氣，一點點濕氣就足以讓細粉結成硬餅，它也很快就會吸到冰箱味道。",
+    "freezer": "冷凍糖粉沒有好處。它在常溫下本來就不會壞，冷凍只是在每次取出回溫時多增加結露的風險。",
+    "thawing": null,
+    "spoilage": [
+      "袋子裡結成硬塊或整片結餅",
+      "出現潮濕、黏黏的斑塊",
+      "吸到旁邊食物的異味或霉味",
+      "容器裡有昆蟲、幼蟲或蛛絲"
+    ],
+    "tips": [
+      "使用前一定要過篩，就算保存得很好也一樣會有小結塊",
+      "分裝到密封罐並標上開封日期",
+      "遠離熱水瓶、電鍋和水槽",
+      "糖粉含玉米澱粉，配方中不能直接和砂糖等量互換"
+    ],
+    "faq": [
+      {"q": "糖粉會過期嗎？", "a": "不會。糖不會腐敗，乾燥密封保存可以無限期存放。為了品質建議開封後約 2 年內用完，USDA 給的參考是 18～24 個月。"},
+      {"q": "糖粉結塊了怎麼辦？", "a": "用細篩網過篩，或放進調理機打幾下。之後改用真正密封的容器保存，並遠離蒸氣。"},
+      {"q": "糖粉需要冷藏嗎？", "a": "不需要。低溫會凝結水氣，讓細粉結成硬餅。密封放在陰涼乾燥的櫥櫃就好。"}
+    ]
+  },
+  "ja": {
+    "name": "粉糖（粉砂糖）",
+    "aliases": ["粉砂糖", "パウダーシュガー", "アイシングシュガー", "シュガーパウダー"],
+    "summary": "粉糖はグラニュー糖を細かく挽いたもので、固まり防止に少量のコーンスターチを加えてあるのが一般的です。砂糖なので腐ることはなく常温で無期限に保存できますが、品質の面では開封後およそ2年以内、USDAの目安は開封後18〜24か月です。",
+    "pantry": "密閉容器に入れて涼しく乾燥した戸棚で保存します。非常に細かいのでグラニュー糖より湿気を吸いやすく、すぐ固い塊になります。紙袋のままにせず必ず移し替えてください。品質の目安は開封後18〜24か月。シンクや湯気の出る場所からは離しましょう。",
+    "fridge": "冷蔵は不要で逆効果です。冷えた粉糖は容器を開けた瞬間に結露を呼び、わずかな水分でも細かい粉が固い塊になります。においも早く移ります。",
+    "freezer": "粉糖の冷凍に利点はありません。常温でも傷まず、冷凍は取り出して戻すたびに結露のリスクを増やすだけです。",
+    "thawing": null,
+    "spoilage": [
+      "袋の中で固まり、塊や板状になっている",
+      "湿ってベタついた部分がある",
+      "近くの食品のにおいやカビ臭がついている",
+      "容器の中に虫、幼虫、クモの巣状のもの"
+    ],
+    "tips": [
+      "使う前は必ずふるいましょう。理想的な保存でも小さな固まりはできます",
+      "密閉瓶に移し、開封日を書いておきましょう",
+      "電気ポット、炊飯器、シンクからしっかり離して保管を",
+      "コーンスターチが入っているので、レシピでグラニュー糖と等量では置き換えられません"
+    ],
+    "faq": [
+      {"q": "粉糖に賞味期限はありますか？", "a": "ありません。砂糖は腐らず、乾燥した密閉容器で無期限に保存できます。品質面では開封後およそ2年、USDAは18〜24か月としています。"},
+      {"q": "固まった粉糖はどうすればいいですか？", "a": "細かいふるいでこすか、ミキサーで短時間回してください。その後は密閉容器に入れ、湯気から離して保存を。"},
+      {"q": "粉糖は冷蔵が必要ですか？", "a": "不要です。冷蔵の結露で細かい粉が固い塊になります。密閉して涼しく乾燥した戸棚で保存してください。"}
+    ]
+  },
+  "es": {
+    "name": "Azúcar glas",
+    "aliases": ["azúcar glass", "azúcar impalpable", "azúcar en polvo", "azúcar pulverizada", "azúcar flor"],
+    "summary": "El azúcar glas es azúcar granulado molido muy fino, normalmente con algo de almidón de maíz para evitar que se apelmace. Como todo azúcar, no se estropea nunca, así que dura indefinidamente en la despensa; para mejor calidad úsalo en unos 2 años tras abrirlo, con un plazo del USDA de 18–24 meses.",
+    "pantry": "Guárdalo en un recipiente hermético en un armario fresco y seco. Al estar tan finamente molido absorbe humedad más rápido que el granulado y forma grumos duros, así que un buen cierre es esencial: sácalo de la bolsa de papel. Para mejor calidad, úsalo en 18–24 meses tras abrirlo, y manténlo lejos del fregadero y de cualquier vapor.",
+    "fridge": "Refrigerar no es necesario y es contraproducente. El azúcar glas frío atrae condensación en cuanto abres el envase, y basta un poco de humedad para convertir el polvo fino en un bloque. Además absorbe olores muy rápido.",
+    "freezer": "Congelarlo no aporta nada. No se estropea a temperatura ambiente, y el congelador solo añade riesgo de condensación cada vez que sacas y atemperas el envase.",
+    "thawing": null,
+    "spoilage": [
+      "Grumos duros o un bloque compacto en la bolsa",
+      "Zonas húmedas y pegajosas por humedad absorbida",
+      "Olor a humedad o extraño absorbido de alimentos cercanos",
+      "Insectos, larvas o telarañas en el recipiente"
+    ],
+    "tips": [
+      "Tamízalo siempre antes de usarlo: forma grumos incluso bien guardado",
+      "Pásalo a un tarro hermético y anota la fecha de apertura",
+      "Manténlo bien lejos del hervidor, la arrocera y el fregadero",
+      "Lleva almidón de maíz, así que no sustituye directamente al azúcar granulado en las recetas"
+    ],
+    "faq": [
+      {"q": "¿El azúcar glas caduca?", "a": "No. El azúcar no se estropea, así que dura indefinidamente seco y bien cerrado. Para mejor calidad úsalo en unos 2 años tras abrirlo; el USDA da 18–24 meses."},
+      {"q": "¿Cómo se arregla el azúcar glas con grumos?", "a": "Tamízalo con un colador fino o dale unos pulsos en la batidora. Después guárdalo en un recipiente realmente hermético, lejos del vapor."},
+      {"q": "¿El azúcar glas necesita refrigeración?", "a": "No. El frío genera condensación que convierte el polvo fino en un bloque duro. Consérvalo cerrado en un armario fresco y seco."}
+    ]
+  }
+}
