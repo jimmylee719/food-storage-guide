@@ -1,0 +1,107 @@
+{
+  "slug": "rhubarb",
+  "en": {
+    "name": "Rhubarb",
+    "aliases": ["rhubarb stalks", "forced rhubarb", "pieplant", "garden rhubarb"],
+    "summary": "Rhubarb is a tart vegetable stalk treated as a fruit in the kitchen, and its long ribs lose water quickly once cut. In the fridge it keeps only 3–7 days from the date of purchase. Important safety note: the leaves are toxic and must always be discarded.",
+    "pantry": "Rhubarb should be refrigerated rather than left out. At room temperature the stalks go limp and rubbery within a day or two, especially in a warm kitchen. If the stalks still have leaves attached, cut them off and throw them away immediately — rhubarb leaves contain oxalic acid and are not safe to eat.",
+    "fridge": "Trim the leaves off completely, then wrap the stalks in kitchen paper or a loose bag and keep them in the crisper at 4 °C (40 °F) or below, where they keep 3–7 days from purchase. Do not wash before storing, as surface moisture accelerates softening. Standing the trimmed stalks in a jar with a little water also helps keep them firm.",
+    "freezer": "USDA gives no freezer timeline for rhubarb, but it freezes very well in practice. Wash, dry, cut into 2 cm pieces, freeze on a tray so the pieces stay loose and then bag them. Frozen rhubarb goes straight into crumbles, compotes and jams without thawing.",
+    "thawing": "Cook rhubarb straight from frozen in crumbles, compotes and jams. Thawed rhubarb collapses and releases a lot of liquid, so adding it frozen gives a better result.",
+    "spoilage": [
+      "Limp stalks that bend instead of snapping",
+      "Slimy or brown patches, especially at the cut ends",
+      "Dry, split, stringy stalks",
+      "Mould at the base or a sour, fermented smell"
+    ],
+    "tips": [
+      "Always discard the leaves — they contain oxalic acid and are toxic",
+      "Do not wash before storing; rinse just before cooking",
+      "Cut into pieces and freeze on a tray for ready-to-use crumble filling",
+      "Choose firm, glossy stalks that snap cleanly, whatever their colour"
+    ],
+    "faq": [
+      {"q": "How long does rhubarb last in the fridge?", "a": "3–7 days from purchase at 4 °C (40 °F) or below, with the leaves removed and the stalks wrapped in kitchen paper."},
+      {"q": "Can you freeze rhubarb?", "a": "Yes, and it freezes very well. Cut into 2 cm pieces, freeze on a tray, then bag them and cook straight from frozen in crumbles and compotes."},
+      {"q": "Are rhubarb leaves poisonous?", "a": "Yes. Rhubarb leaves contain oxalic acid and should never be eaten. Cut them off and discard them; only the stalks are used in cooking."}
+    ]
+  },
+  "zh": {
+    "name": "大黃",
+    "aliases": ["食用大黃", "大黃莖", "rhubarb", "洋大黃"],
+    "summary": "大黃是酸味明顯的蔬菜莖，在料理上當成水果使用，長長的莖切下來後失水很快。冷藏從購買日起只能放 3～7 天。重要提醒：大黃的葉子有毒，一定要丟掉。",
+    "pantry": "大黃應該冷藏而不是放在外面。在室溫下，莖一兩天內就會變軟變韌，悶熱的廚房更快。如果買到還帶葉子的，請立刻切下來丟掉——大黃葉含有草酸，不能食用。",
+    "fridge": "把葉子完全切掉，莖用廚房紙巾包好或鬆鬆裝袋，收在 4°C 以下的蔬果保鮮室，從購買日起可放 3～7 天。保存前不要洗，表面的水分會加速軟化。把修好的莖立在裝了少許水的杯子裡，也有助於維持結實。",
+    "freezer": "USDA 沒有提供大黃的冷凍期限，但實務上冷凍效果非常好。洗淨擦乾、切成約 2 公分的小段，先鋪盤冷凍讓它粒粒分明再裝袋。冷凍大黃可以不解凍直接用來做烤酥皮甜點、糖煮和果醬。",
+    "thawing": "做烤酥皮甜點、糖煮或果醬時直接用冷凍狀態下鍋。解凍後的大黃會塌掉並釋出大量水分，直接用冷凍的成品反而更好。",
+    "spoilage": [
+      "莖變軟，折起來只彎不斷",
+      "出現黏滑或褐色的斑塊，尤其在切口處",
+      "莖變乾、裂開、纖維感重",
+      "根部長黴，或有酸味、發酵味"
+    ],
+    "tips": [
+      "葉子一定要丟掉，含有草酸、有毒性",
+      "保存前不要洗，煮之前再沖",
+      "切段後鋪盤冷凍，隨時可以拿來做烤甜點內餡",
+      "挑結實有光澤、折起來會清脆斷裂的莖，顏色深淺不重要"
+    ],
+    "faq": [
+      {"q": "大黃放冰箱可以放多久？", "a": "切掉葉子、莖用廚房紙巾包好，放 4°C 以下，從購買日起 3～7 天。"},
+      {"q": "大黃可以冷凍嗎？", "a": "可以，而且效果非常好。切成 2 公分小段鋪盤冷凍後裝袋，要用時直接冷凍下鍋做甜點或糖煮。"},
+      {"q": "大黃的葉子有毒嗎？", "a": "有。大黃葉含草酸，絕對不能食用。請切下來丟掉，料理只使用莖的部分。"}
+    ]
+  },
+  "ja": {
+    "name": "ルバーブ",
+    "aliases": ["ルバーブ", "食用大黄", "ダイオウ（食用）", "ルバーブの茎"],
+    "summary": "ルバーブは酸味の強い野菜の茎で、料理では果物のように扱われます。長い茎は切られると水分が抜けやすく、冷蔵でも購入日から3〜7日しか持ちません。重要な注意点として、葉には毒性があり必ず捨ててください。",
+    "pantry": "ルバーブは常温に出さず冷蔵しましょう。室温では1〜2日で茎がぐったりゴムのようになり、暑い台所ではさらに早くなります。葉がついていたらすぐ切り落として処分してください。ルバーブの葉はシュウ酸を含み、食べてはいけません。",
+    "fridge": "葉を完全に切り落とし、茎をキッチンペーパーで包むかゆるく袋に入れて、4℃以下の野菜室で保存すれば購入日から3〜7日持ちます。保存前に洗わないでください。表面の水分が軟化を早めます。切りそろえた茎を少量の水を入れた瓶に立てておくのも有効です。",
+    "freezer": "USDAはルバーブの冷凍期間を示していませんが、実際にはとてもよく冷凍できます。洗って水気を拭き、2cm程度に切ってバットで凍らせ、ばらけた状態で袋へ。凍ったままクランブルやコンポート、ジャムに使えます。",
+    "thawing": "クランブルやコンポート、ジャムには凍ったまま加えます。解凍すると崩れて水分が大量に出るので、凍ったまま使うほうが仕上がりが良くなります。",
+    "spoilage": [
+      "茎がしなびて、折れずに曲がる",
+      "とくに切り口にぬめりや茶色い部分がある",
+      "茎が乾いて割れ、筋張っている",
+      "根元にカビ、または酸っぱい発酵臭"
+    ],
+    "tips": [
+      "葉は必ず処分を。シュウ酸を含み毒性があります",
+      "保存前は洗わず、調理直前にすすぎましょう",
+      "切ってバットで冷凍しておくと、そのままクランブルの具に使えます",
+      "色の濃淡より、張りとつやがありパキッと折れる茎を選びましょう"
+    ],
+    "faq": [
+      {"q": "ルバーブは冷蔵庫でどのくらい持ちますか？", "a": "葉を落とし、茎をキッチンペーパーで包んで4℃以下なら、購入日から3〜7日です。"},
+      {"q": "ルバーブは冷凍できますか？", "a": "できますし、とても向いています。2cmに切ってバットで凍らせ袋へ。凍ったままクランブルやコンポートに使えます。"},
+      {"q": "ルバーブの葉には毒がありますか？", "a": "あります。葉はシュウ酸を含み、食べてはいけません。切り落として処分し、調理には茎だけを使ってください。"}
+    ]
+  },
+  "es": {
+    "name": "Ruibarbo",
+    "aliases": ["tallos de ruibarbo", "ruibarbo forzado", "rhubarb", "ruibarbo de huerta"],
+    "summary": "El ruibarbo es un tallo vegetal ácido que en la cocina se trata como fruta, y sus largas pencas pierden agua rápido una vez cortadas. En la nevera dura solo 3–7 días desde la compra. Aviso importante de seguridad: las hojas son tóxicas y deben desecharse siempre.",
+    "pantry": "El ruibarbo debe refrigerarse y no dejarse fuera. A temperatura ambiente los tallos se ablandan y se vuelven gomosos en un día o dos, sobre todo en una cocina cálida. Si los tallos aún tienen hojas, córtalas y tíralas de inmediato: contienen ácido oxálico y no son seguras para comer.",
+    "fridge": "Corta las hojas por completo, envuelve los tallos en papel de cocina o en una bolsa suelta y guárdalos en el cajón de verduras a 4 °C (40 °F) o menos, donde duran 3–7 días desde la compra. No los laves antes de guardarlos, porque la humedad acelera el ablandamiento. Ponerlos de pie en un tarro con un poco de agua también ayuda a mantenerlos firmes.",
+    "freezer": "El USDA no da un plazo de congelación para el ruibarbo, pero en la práctica se congela muy bien. Lávalo, sécalo, córtalo en trozos de 2 cm, congélalo en bandeja para que quede suelto y luego embólsalo. Va directo del congelador a crumbles, compotas y mermeladas.",
+    "thawing": "Cocina el ruibarbo congelado en crumbles, compotas y mermeladas. Descongelado se deshace y suelta mucho líquido, así que añadirlo congelado da mejor resultado.",
+    "spoilage": [
+      "Tallos flácidos que se doblan en vez de quebrarse",
+      "Zonas viscosas o pardas, sobre todo en los extremos cortados",
+      "Tallos secos, agrietados y fibrosos",
+      "Moho en la base u olor agrio y fermentado"
+    ],
+    "tips": [
+      "Desecha siempre las hojas: contienen ácido oxálico y son tóxicas",
+      "No lo laves antes de guardarlo; enjuágalo justo antes de cocinar",
+      "Córtalo en trozos y congélalo en bandeja para tener relleno de crumble listo",
+      "Elige tallos firmes y brillantes que se quiebren limpiamente, sea cual sea su color"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el ruibarbo en la nevera?", "a": "3–7 días desde la compra a 4 °C (40 °F) o menos, con las hojas retiradas y los tallos envueltos en papel de cocina."},
+      {"q": "¿Se puede congelar el ruibarbo?", "a": "Sí, y se congela muy bien. Córtalo en trozos de 2 cm, congélalo en bandeja, embólsalo y cocínalo congelado en crumbles y compotas."},
+      {"q": "¿Las hojas de ruibarbo son venenosas?", "a": "Sí. Contienen ácido oxálico y nunca deben comerse. Córtalas y deséchalas; en la cocina solo se usan los tallos."}
+    ]
+  }
+}

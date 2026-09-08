@@ -1,0 +1,107 @@
+{
+  "slug": "peppers",
+  "en": {
+    "name": "Peppers",
+    "aliases": ["bell peppers", "capsicum", "sweet peppers", "chilli peppers", "banana peppers"],
+    "summary": "Peppers, both sweet and hot, keep 4–14 days in the fridge from the date of purchase, with firm, thick-walled bell peppers lasting towards the longer end and thin chillies towards the shorter. Sliced or diced and frozen, they last 6–8 months and do not even need blanching.",
+    "pantry": "USDA gives no room-temperature timeline for peppers. Whole peppers tolerate a cool spot for a day or two, but they soften and wrinkle quickly in a warm kitchen and any bruised area spreads fast. Cut peppers are a moist food and should go straight back into the fridge in a sealed container.",
+    "fridge": "Store peppers whole and unwashed in the crisper at 4 °C (40 °F) or below, where they keep 4–14 days from purchase. Do not seal them in a plastic bag, since trapped condensation makes them go soft and slimy; a perforated bag or an open drawer is better. Cut peppers keep 2–3 days in an airtight container.",
+    "freezer": "Peppers freeze for 6–8 months from purchase at −18 °C (0 °F) and are one of the few vegetables that do not need blanching. Wash, dry, deseed and slice or dice, freeze on a tray so the pieces stay loose, then bag them. Frozen peppers soften on thawing, so use them cooked rather than raw.",
+    "thawing": "Add frozen peppers straight to a hot pan, stew or sauce. Thawing first makes them limp and releases water, so cook them from frozen wherever possible.",
+    "spoilage": [
+      "Soft, wrinkled or shrivelled skin",
+      "Slimy or watery patches, often around the stem",
+      "Black or white mould, especially inside around the seeds",
+      "Sour smell or a slippery feel inside a cut pepper"
+    ],
+    "tips": [
+      "Do not seal peppers in plastic; a perforated bag prevents the sliminess",
+      "Deseed and freeze in strips or dice without blanching for easy weeknight cooking",
+      "Roast and peel a batch, then freeze them in oil for salads and sandwiches",
+      "Wear gloves when preparing hot chillies and avoid touching your eyes"
+    ],
+    "faq": [
+      {"q": "How long do peppers last in the fridge?", "a": "4–14 days from purchase at 4 °C (40 °F) or below. Thick-walled bell peppers last longest; thin-skinned chillies are at the shorter end."},
+      {"q": "Can you freeze peppers without blanching?", "a": "Yes. Peppers are one of the few vegetables that freeze well raw. Deseed, slice, freeze on a tray and bag them for 6–8 months at −18 °C (0 °F)."},
+      {"q": "Why do peppers go soft in the fridge?", "a": "Usually because they are sealed in plastic, which traps condensation. Store them in a perforated bag or loose in the crisper drawer instead."}
+    ]
+  },
+  "zh": {
+    "name": "甜椒與辣椒",
+    "aliases": ["彩椒", "青椒", "甜椒", "辣椒", "燈籠椒"],
+    "summary": "甜椒和辣椒冷藏從購買日起可放 4～14 天，果肉厚實的甜椒接近長端，細瘦的辣椒接近短端。切片或切丁冷凍可保存 6～8 個月，而且完全不需要汆燙。",
+    "pantry": "USDA 沒有提供甜椒的常溫保存期限。整顆的椒在陰涼處放一兩天沒問題，但在溫暖的廚房裡很快就會變軟起皺，而且只要有碰傷處就會迅速擴散。切開的椒屬於高水分食物，應該立刻裝密封盒放回冰箱。",
+    "fridge": "整顆不清洗，放在 4°C 以下的蔬果保鮮室，從購買日起可放 4～14 天。不要密封在塑膠袋裡，悶住的冷凝水會讓它變軟變黏滑，用打洞袋或直接放在抽屜裡比較好。切開的椒裝密封盒可以放 2～3 天。",
+    "freezer": "椒類放 −18°C 冷凍，從購買日起可保存 6～8 個月，而且是少數不需要汆燙的蔬菜之一。洗淨擦乾、去籽後切條或切丁，先鋪盤冷凍讓它粒粒分明，再裝袋。冷凍的椒解凍後會變軟，所以適合入菜，不適合生吃。",
+    "thawing": "冷凍椒可以直接丟進熱鍋、燉菜或醬汁裡。先解凍會讓它軟垮出水，所以盡量直接從冷凍狀態烹調。",
+    "spoilage": [
+      "外皮變軟、起皺或乾癟",
+      "出現黏滑或水爛的斑塊，常在蒂頭附近",
+      "長出黑色或白色黴菌，尤其是裡面靠近籽的地方",
+      "切開後有酸味，或裡面摸起來滑滑的"
+    ],
+    "tips": [
+      "不要密封在塑膠袋裡，用打洞袋可以避免變黏滑",
+      "去籽切條或切丁後不用汆燙直接冷凍，平日煮飯很方便",
+      "一次烤好一批去皮，泡油冷藏，做沙拉和三明治都好用",
+      "處理辣椒時戴手套，並避免碰到眼睛"
+    ],
+    "faq": [
+      {"q": "甜椒放冰箱可以放多久？", "a": "放 4°C 以下，從購買日起 4～14 天。果肉厚的甜椒最耐放，皮薄的辣椒則偏短端。"},
+      {"q": "椒類不汆燙可以直接冷凍嗎？", "a": "可以。椒是少數生凍效果就很好的蔬菜。去籽切好、鋪盤冷凍再裝袋，放 −18°C 可保存 6～8 個月。"},
+      {"q": "甜椒為什麼在冰箱裡會變軟？", "a": "通常是因為密封在塑膠袋裡，冷凝水被悶住了。改用打洞袋，或直接鬆散放在蔬果保鮮室就好。"}
+    ]
+  },
+  "ja": {
+    "name": "ピーマン・パプリカ・唐辛子",
+    "aliases": ["ピーマン", "パプリカ", "カラーピーマン", "唐辛子", "ししとう"],
+    "summary": "甘いピーマン類も辛い唐辛子も、冷蔵で購入日から4〜14日持ちます。果肉の厚いパプリカは長め、皮の薄い唐辛子は短めです。切って冷凍すれば6〜8か月保存でき、しかも下ゆでは不要です。",
+    "pantry": "USDAはピーマン類の常温での保存期間を示していません。丸ごとなら涼しい場所で1〜2日は問題ありませんが、暖かい台所ではすぐやわらかくしわが寄り、傷んだ部分は一気に広がります。切ったものは水分が多いので、密閉容器に入れてすぐ冷蔵庫へ戻しましょう。",
+    "fridge": "丸ごと洗わずに、4℃以下の野菜室で保存すれば購入日から4〜14日持ちます。ポリ袋で密閉しないでください。こもった結露でやわらかくぬめってしまいます。穴あき袋か、引き出しにそのまま置くほうが向いています。切ったものは密閉容器で2〜3日です。",
+    "freezer": "−18℃の冷凍なら購入日から6〜8か月保存でき、下ゆでの要らない数少ない野菜のひとつです。洗って水気を拭き、種を取って細切りか角切りにし、バットで凍らせてから袋へ。解凍するとやわらかくなるので、生食ではなく加熱調理に使いましょう。",
+    "thawing": "冷凍したピーマン類は、熱した鍋や煮込み、ソースにそのまま入れます。先に解凍するとぐったりして水が出るので、できるだけ凍ったまま調理を。",
+    "spoilage": [
+      "皮がやわらかい、しわしわ、しなびている",
+      "ぬめりや水っぽい部分がある（ヘタのまわりに多い）",
+      "黒や白のカビ、とくに内側の種のまわり",
+      "切ると酸っぱいにおいがする、内側がぬるっとする"
+    ],
+    "tips": [
+      "ポリ袋で密閉せず、穴あき袋にするとぬめりを防げます",
+      "種を取って切り、下ゆでなしでそのまま冷凍。平日の調理が楽になります",
+      "まとめて焼いて皮をむき、オイルに漬ければサラダやサンドに便利です",
+      "辛い唐辛子は手袋をして扱い、目に触れないよう注意しましょう"
+    ],
+    "faq": [
+      {"q": "ピーマンは冷蔵庫でどのくらい持ちますか？", "a": "4℃以下で購入日から4〜14日です。果肉の厚いパプリカは長持ちし、皮の薄い唐辛子は短めです。"},
+      {"q": "ピーマンは下ゆでなしで冷凍できますか？", "a": "できます。生のまま冷凍できる数少ない野菜です。種を取って切り、バットで凍らせて袋へ。−18℃で6〜8か月です。"},
+      {"q": "ピーマンが冷蔵庫でやわらかくなるのはなぜですか？", "a": "たいていポリ袋で密閉し、結露がこもるためです。穴あき袋にするか、野菜室にそのまま置きましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Pimientos",
+    "aliases": ["pimiento morrón", "ají", "chiles", "pimiento rojo", "pimiento verde"],
+    "summary": "Los pimientos, dulces y picantes, duran 4–14 días en la nevera desde la compra: los morrones firmes de pared gruesa llegan al extremo largo y los chiles finos al corto. Cortados y congelados aguantan 6–8 meses, y ni siquiera hace falta escaldarlos.",
+    "pantry": "El USDA no da un plazo a temperatura ambiente para los pimientos. Enteros toleran un sitio fresco un día o dos, pero se ablandan y arrugan rápido en una cocina cálida, y cualquier magulladura se extiende deprisa. El pimiento cortado es un alimento húmedo y debe volver enseguida a la nevera en un recipiente cerrado.",
+    "fridge": "Guarda los pimientos enteros y sin lavar en el cajón de verduras a 4 °C (40 °F) o menos, donde duran 4–14 días desde la compra. No los selles en una bolsa de plástico, porque la condensación retenida los ablanda y los vuelve viscosos; mejor una bolsa perforada o el cajón abierto. Cortados aguantan 2–3 días en recipiente hermético.",
+    "freezer": "Se congelan 6–8 meses desde la compra a −18 °C (0 °F) y son de las pocas verduras que no necesitan escaldado. Lávalos, sécalos, quítales las semillas y córtalos en tiras o dados, congélalos en bandeja para que queden sueltos y luego embólsalos. Se ablandan al descongelar, así que úsalos cocinados.",
+    "thawing": "Añade los pimientos congelados directamente a la sartén, el guiso o la salsa. Descongelarlos antes los deja flácidos y sueltan agua, así que cocínalos congelados siempre que puedas.",
+    "spoilage": [
+      "Piel blanda, arrugada o reseca",
+      "Zonas viscosas o acuosas, a menudo junto al pedúnculo",
+      "Moho negro o blanco, sobre todo por dentro alrededor de las semillas",
+      "Olor agrio o tacto resbaladizo dentro de un pimiento cortado"
+    ],
+    "tips": [
+      "No los selles en plástico; una bolsa perforada evita la viscosidad",
+      "Despepítalos y congélalos en tiras o dados sin escaldar para cocinar entre semana",
+      "Asa y pela una tanda y consérvalos en aceite para ensaladas y bocadillos",
+      "Usa guantes al manipular chiles picantes y evita tocarte los ojos"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los pimientos en la nevera?", "a": "4–14 días desde la compra a 4 °C (40 °F) o menos. Los morrones de pared gruesa duran más; los chiles de piel fina, menos."},
+      {"q": "¿Se pueden congelar los pimientos sin escaldar?", "a": "Sí. Son de las pocas verduras que se congelan bien en crudo. Despepítalos, córtalos, congélalos en bandeja y embólsalos 6–8 meses a −18 °C (0 °F)."},
+      {"q": "¿Por qué se ablandan los pimientos en la nevera?", "a": "Normalmente porque están sellados en plástico, que retiene la condensación. Guárdalos en bolsa perforada o sueltos en el cajón de verduras."}
+    ]
+  }
+}

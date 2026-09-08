@@ -1,0 +1,107 @@
+{
+  "slug": "pumpkins",
+  "en": {
+    "name": "Pumpkins",
+    "aliases": ["pumpkin", "sugar pumpkin", "pie pumpkin", "kabocha", "field pumpkin"],
+    "summary": "A whole, uncut pumpkin has a thick, hard rind that protects the flesh, so it stores remarkably well. In a cool pantry it keeps 2–3 months from the date of purchase, and refrigerated it lasts 3–5 months. Once cut, it becomes perishable and must be refrigerated.",
+    "pantry": "A cool, dry, dark spot with good air circulation keeps a whole pumpkin 2–3 months from purchase. Leave the stem attached, since a broken stem lets rot in, and stand the pumpkin on a board or cloth rather than directly on a cold concrete floor. Cut pumpkin is a different matter and must never be left at room temperature.",
+    "fridge": "In the fridge at 4 °C (40 °F) or below, a whole pumpkin keeps 3–5 months from purchase — longer than in the pantry, though few fridges have the space. Cut pumpkin should be wrapped tightly or stored in an airtight container and used within a few days; cooked pumpkin purée keeps 3–5 days refrigerated.",
+    "freezer": "USDA gives no freezer timeline for whole pumpkins, but cooked pumpkin freezes very well. Roast or steam the flesh, purée or cube it, cool completely and freeze in airtight portions. Raw pumpkin freezes poorly, becoming watery and losing structure on thawing.",
+    "thawing": "Thaw pumpkin purée in the fridge overnight, or add frozen cubes straight to soups and curries. Drain off any water that separates before using the purée in baking.",
+    "spoilage": [
+      "Soft, sunken or weeping patches on the rind",
+      "Mould around the stem or on the base where it sits",
+      "A broken or missing stem with rot spreading beneath",
+      "Sour, fermented smell or slimy flesh inside a cut pumpkin"
+    ],
+    "tips": [
+      "Choose a pumpkin with an intact, dry stem — it is the main defence against rot",
+      "Stand it on a board or cloth, not directly on a cold floor",
+      "Roast and purée a large pumpkin all at once, then freeze in portions",
+      "Roast the seeds instead of discarding them"
+    ],
+    "faq": [
+      {"q": "How long does a pumpkin last?", "a": "2–3 months from purchase whole in a cool, dry pantry, or 3–5 months in the fridge. Once cut, use it within a few days."},
+      {"q": "Can you freeze pumpkin?", "a": "Cooked pumpkin freezes very well as purée or cubes in airtight portions. Raw pumpkin freezes poorly and becomes watery on thawing."},
+      {"q": "How do you store cut pumpkin?", "a": "Wrap it tightly or put it in an airtight container in the fridge at 4 °C (40 °F) or below, and use it within a few days."}
+    ]
+  },
+  "zh": {
+    "name": "南瓜",
+    "aliases": ["金瓜", "栗子南瓜", "日本南瓜", "板栗南瓜", "冬南瓜"],
+    "summary": "完整未切開的南瓜有厚硬的外皮保護果肉，所以非常耐放。放在陰涼的櫥櫃，從購買日起可放 2～3 個月，冷藏則可放 3～5 個月。一旦切開就變成易腐食品，必須冷藏。",
+    "pantry": "陰涼、乾燥、避光又通風良好的地方，可以讓整顆南瓜從購買日起放 2～3 個月。蒂頭要保留，斷掉的蒂頭會讓腐敗菌趁虛而入；南瓜也要墊在木板或布上，不要直接放在冰冷的水泥地。切開的南瓜就完全不同了，絕對不能放在室溫。",
+    "fridge": "整顆南瓜放進 4°C 以下的冰箱，從購買日起可放 3～5 個月，比放櫥櫃更久，只是很少有冰箱塞得下。切開的南瓜要用保鮮膜緊貼包好或裝密封盒，並在幾天內用完；煮好的南瓜泥冷藏可放 3～5 天。",
+    "freezer": "USDA 沒有提供整顆南瓜的冷凍期限，但煮熟的南瓜非常適合冷凍。把果肉烤過或蒸過，打成泥或切塊，完全放涼後分裝密封冷凍。生南瓜冷凍效果不好，解凍後會出水、失去結構。",
+    "thawing": "南瓜泥放冷藏室退冰一晚，或把冷凍南瓜塊直接加進湯品和咖哩。用在烘焙前，記得把分離出來的水倒掉。",
+    "spoilage": [
+      "外皮出現軟軟凹陷或滲汁的斑塊",
+      "蒂頭周圍或底部接觸面長黴",
+      "蒂頭斷掉或不見，底下開始腐爛擴散",
+      "切開的南瓜有酸味、發酵味，或果肉摸起來黏滑"
+    ],
+    "tips": [
+      "挑蒂頭完整乾燥的，那是抵抗腐敗最主要的防線",
+      "墊在木板或布上，不要直接放在冰冷的地板",
+      "大顆南瓜一次全部烤好打成泥，再分裝冷凍",
+      "南瓜籽不要丟，烤一烤就是很棒的零食"
+    ],
+    "faq": [
+      {"q": "南瓜可以放多久？", "a": "整顆放陰涼乾燥的櫥櫃，從購買日起 2～3 個月；冷藏則 3～5 個月。切開後請在幾天內用完。"},
+      {"q": "南瓜可以冷凍嗎？", "a": "煮熟的南瓜非常適合冷凍，打成泥或切塊分裝密封即可。生南瓜冷凍效果差，解凍後會出水。"},
+      {"q": "切開的南瓜怎麼保存？", "a": "用保鮮膜緊貼包好或裝進密封盒，放 4°C 以下冷藏，並在幾天內用完。"}
+    ]
+  },
+  "ja": {
+    "name": "かぼちゃ",
+    "aliases": ["南瓜", "カボチャ", "西洋かぼちゃ", "パンプキン", "坊ちゃんかぼちゃ"],
+    "summary": "切っていない丸ごとのかぼちゃは厚く硬い皮が果肉を守るため、驚くほど日持ちします。涼しい食品庫なら購入日から2〜3か月、冷蔵なら3〜5か月保存できます。ただし切ったあとは傷みやすくなり、必ず冷蔵が必要です。",
+    "pantry": "涼しく乾燥した暗く風通しのよい場所なら、丸ごとのかぼちゃは購入日から2〜3か月持ちます。ヘタは残しておきましょう。折れたヘタから腐敗が入ります。冷たいコンクリートの床に直接置かず、板や布の上に置いてください。切ったかぼちゃは別物で、常温に置いてはいけません。",
+    "fridge": "4℃以下の冷蔵庫なら丸ごとで購入日から3〜5か月と、常温より長く持ちます（もっとも入る冷蔵庫は限られます）。切ったかぼちゃはぴったり包むか密閉容器に入れて数日以内に使い切りましょう。加熱したかぼちゃのピューレは冷蔵で3〜5日です。",
+    "freezer": "USDAは丸ごとのかぼちゃの冷凍期間を示していませんが、加熱したかぼちゃは非常によく冷凍できます。焼くか蒸してからピューレか角切りにし、完全に冷ましてから小分け密閉して冷凍を。生のままは解凍時に水っぽくなり形が崩れるため不向きです。",
+    "thawing": "ピューレは冷蔵庫で一晩解凍するか、角切りは凍ったままスープやカレーへ。焼き菓子に使う場合は、分離した水分を切ってから使いましょう。",
+    "spoilage": [
+      "皮にやわらかくへこんだ部分や、汁のしみ出た部分がある",
+      "ヘタのまわりや接地面にカビが出ている",
+      "ヘタが折れて、その下から腐敗が広がっている",
+      "切ったかぼちゃが酸っぱいにおい、発酵臭、果肉がぬめる"
+    ],
+    "tips": [
+      "ヘタが乾いて残っているものを選びましょう。腐敗を防ぐ第一の砦です",
+      "冷たい床に直接置かず、板や布の上に置きましょう",
+      "大きなかぼちゃは一度に焼いてピューレにし、小分け冷凍を",
+      "種は捨てずにローストするとおいしく食べられます"
+    ],
+    "faq": [
+      {"q": "かぼちゃはどのくらい持ちますか？", "a": "丸ごとなら涼しく乾燥した場所で購入日から2〜3か月、冷蔵で3〜5か月です。切ったあとは数日以内に使い切ってください。"},
+      {"q": "かぼちゃは冷凍できますか？", "a": "加熱したものはピューレでも角切りでも、小分け密閉すればよく冷凍できます。生のままは水っぽくなるため不向きです。"},
+      {"q": "切ったかぼちゃはどう保存しますか？", "a": "ぴったり包むか密閉容器に入れ、4℃以下で冷蔵して数日以内に使い切りましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Calabazas",
+    "aliases": ["calabaza", "zapallo", "auyama", "calabaza de pastel", "kabocha"],
+    "summary": "Una calabaza entera y sin cortar tiene una corteza gruesa y dura que protege la pulpa, así que se conserva notablemente bien. En una despensa fresca dura 2–3 meses desde la compra, y refrigerada 3–5 meses. Una vez cortada se vuelve perecedera y debe refrigerarse.",
+    "pantry": "Un sitio fresco, seco, oscuro y con buena circulación de aire mantiene una calabaza entera 2–3 meses desde la compra. Deja el pedúnculo puesto, porque uno roto deja entrar la podredumbre, y colócala sobre una tabla o un paño en lugar de directamente sobre un suelo frío de hormigón. La calabaza cortada es otra cosa y nunca debe dejarse a temperatura ambiente.",
+    "fridge": "En la nevera a 4 °C (40 °F) o menos, una calabaza entera dura 3–5 meses desde la compra, más que en la despensa, aunque pocas neveras tienen sitio. La calabaza cortada debe envolverse bien o guardarse en un recipiente hermético y usarse en pocos días; el puré cocinado dura 3–5 días refrigerado.",
+    "freezer": "El USDA no da un plazo de congelación para calabazas enteras, pero la calabaza cocinada se congela muy bien. Ásala o cuécela al vapor, tritúrala o córtala en dados, enfríala del todo y congélala en porciones herméticas. Cruda se congela mal y queda aguada al descongelar.",
+    "thawing": "Descongela el puré en la nevera durante la noche, o añade los dados congelados directamente a sopas y currys. Escurre el agua que se separe antes de usar el puré en repostería.",
+    "spoilage": [
+      "Zonas blandas, hundidas o que rezuman en la corteza",
+      "Moho alrededor del pedúnculo o en la base de apoyo",
+      "Pedúnculo roto o ausente con podredumbre extendiéndose debajo",
+      "Olor agrio o fermentado, o pulpa viscosa dentro de una calabaza cortada"
+    ],
+    "tips": [
+      "Elige una calabaza con el pedúnculo intacto y seco: es su principal defensa contra la podredumbre",
+      "Apóyala sobre una tabla o un paño, no directamente sobre un suelo frío",
+      "Asa y tritura una calabaza grande de una vez y congélala en porciones",
+      "Tuesta las semillas en lugar de tirarlas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura una calabaza?", "a": "2–3 meses desde la compra entera en una despensa fresca y seca, o 3–5 meses en la nevera. Una vez cortada, úsala en pocos días."},
+      {"q": "¿Se puede congelar la calabaza?", "a": "La calabaza cocinada se congela muy bien en puré o dados en porciones herméticas. Cruda se congela mal y queda aguada al descongelar."},
+      {"q": "¿Cómo se guarda la calabaza cortada?", "a": "Envuélvela bien o ponla en un recipiente hermético en la nevera a 4 °C (40 °F) o menos y úsala en pocos días."}
+    ]
+  }
+}

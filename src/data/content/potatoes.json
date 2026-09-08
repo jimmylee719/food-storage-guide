@@ -1,0 +1,107 @@
+{
+  "slug": "potatoes",
+  "en": {
+    "name": "Potatoes",
+    "aliases": ["spuds", "white potatoes", "russet potatoes", "new potatoes", "baking potatoes"],
+    "summary": "Whole potatoes are best kept in a cool, dark, airy pantry, which is the recommended storage method and gives 1–2 months from the date of purchase. Refrigeration only gives 1–2 weeks and, as the United States Potato Board notes, can make potatoes darken during cooking and taste unpleasantly sweet. Cooked mashed potato freezes for 10–12 months.",
+    "pantry": "The pantry is the right home for whole potatoes: cool, dark and well ventilated, in a paper bag, hessian sack or open crate. Stored this way they keep 1–2 months from purchase. Light turns the skin green and encourages sprouting, so keep them covered, and never store them next to onions, which speeds up sprouting in both.",
+    "fridge": "Refrigerated potatoes keep only 1–2 weeks from purchase, and the cold converts starch to sugar. The United States Potato Board notes that refrigeration can cause potatoes to darken during cooking and to develop an unpleasantly sweet taste, so the pantry is preferable. If you have refrigerated them, letting them sit at room temperature for a few days before cooking reverses some of the effect.",
+    "freezer": "The freezer timeline applies to cooked and mashed potatoes, which keep 10–12 months at −18 °C (0 °F). Cool the mash completely, pack it into airtight portions and freeze. Raw potatoes freeze badly, turning grainy and black, so always cook them first.",
+    "thawing": "Thaw frozen mashed potato in the fridge overnight, then reheat gently with a splash of milk or butter, or reheat it straight from frozen in a covered pan over low heat.",
+    "spoilage": [
+      "Soft, shrivelled or wrinkled skin",
+      "Long sprouts and green patches on the skin",
+      "Black, wet, foul-smelling rot",
+      "Mould or a musty, earthy-sour smell"
+    ],
+    "tips": [
+      "Store in a paper bag or hessian sack, never sealed in plastic",
+      "Keep potatoes and onions apart — together they sprout much faster",
+      "Cut off small sprouts and any green skin generously before cooking",
+      "Freeze leftover mash in portions rather than raw potatoes"
+    ],
+    "faq": [
+      {"q": "How long do potatoes last?", "a": "1–2 months from purchase in a cool, dark, airy pantry, which is the recommended method. Refrigerated they keep only 1–2 weeks and the flavour suffers."},
+      {"q": "Should you keep potatoes in the fridge?", "a": "It is not recommended. The United States Potato Board notes that refrigeration can make potatoes darken when cooked and develop an unpleasantly sweet taste. Use a cool, dark pantry instead."},
+      {"q": "Can you eat potatoes that have sprouted?", "a": "Small sprouts can be cut out and the potato used, as long as it is still firm. Discard potatoes that are soft, shrivelled, extensively green or heavily sprouted."}
+    ]
+  },
+  "zh": {
+    "name": "馬鈴薯",
+    "aliases": ["土豆", "洋芋", "薯仔", "新馬鈴薯", "烤用馬鈴薯"],
+    "summary": "整顆馬鈴薯最好放在陰涼、避光、通風的櫥櫃，這是官方建議的保存方式，從購買日起可放 1～2 個月。冷藏只有 1～2 週，而且美國馬鈴薯協會指出，冷藏會讓馬鈴薯在烹調時變黑，並產生不討喜的甜味。煮熟的馬鈴薯泥冷凍可保存 10～12 個月。",
+    "pantry": "常溫櫥櫃才是整顆馬鈴薯該待的地方：陰涼、避光、通風良好，裝在紙袋、麻布袋或開放式木箱裡。這樣保存從購買日起可放 1～2 個月。光線會讓表皮變綠並促進發芽，所以要遮光；也絕對不要和洋蔥放在一起，兩者都會更快發芽。",
+    "fridge": "冷藏的馬鈴薯從購買日起只能放 1～2 週，而且低溫會把澱粉轉成糖。美國馬鈴薯協會指出，冷藏可能讓馬鈴薯在烹調時變黑，並產生不討喜的甜味，所以常溫櫥櫃是比較好的選擇。如果已經冷藏過，煮之前先放室溫幾天，可以部分逆轉這個現象。",
+    "freezer": "冷凍的期限是針對煮熟的馬鈴薯泥，放 −18°C 可保存 10～12 個月。把薯泥完全放涼，分裝進密封容器再冷凍。生馬鈴薯冷凍效果很差，會變得粗糙發黑，所以一定要先煮熟。",
+    "thawing": "冷凍薯泥放冷藏室退冰一晚，再加一點牛奶或奶油小火加熱；或是蓋著鍋蓋，直接用小火從冷凍狀態回熱。",
+    "spoilage": [
+      "表皮變軟、皺縮或起皺",
+      "長出長長的芽，表皮出現綠色斑塊",
+      "出現黑色、濕爛、有臭味的腐敗處",
+      "長黴，或有霉味、土味帶酸的氣味"
+    ],
+    "tips": [
+      "用紙袋或麻布袋保存，絕對不要密封在塑膠袋裡",
+      "馬鈴薯和洋蔥要分開放，放一起會更快發芽",
+      "煮之前把小芽和變綠的皮多削掉一些",
+      "冷凍的是吃剩的薯泥，不是生馬鈴薯"
+    ],
+    "faq": [
+      {"q": "馬鈴薯可以放多久？", "a": "放陰涼避光通風的櫥櫃（官方建議的方式），從購買日起 1～2 個月。冷藏只有 1～2 週，而且風味會變差。"},
+      {"q": "馬鈴薯可以放冰箱嗎？", "a": "不建議。美國馬鈴薯協會指出，冷藏可能讓馬鈴薯烹調時變黑並產生不討喜的甜味。請改放陰涼避光的櫥櫃。"},
+      {"q": "發芽的馬鈴薯還能吃嗎？", "a": "只要整顆還結實，小芽挖掉之後可以用。變軟、皺縮、大面積變綠或芽長很多的就要丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "じゃがいも",
+    "aliases": ["ジャガイモ", "馬鈴薯", "男爵", "メークイン", "新じゃが"],
+    "summary": "丸ごとのじゃがいもは、涼しく暗く風通しのよい場所での常温保存が推奨される方法で、購入日から1〜2か月持ちます。冷蔵では1〜2週間にとどまり、米国ポテト協会は、冷蔵すると調理時に黒ずみ、好ましくない甘みが出ることがあると指摘しています。ゆでてつぶしたものは10〜12か月冷凍できます。",
+    "pantry": "丸ごとのじゃがいもの置き場所は常温の食品庫です。涼しく暗く風通しのよい場所に、紙袋や麻袋、オープンな箱で。この方法なら購入日から1〜2か月持ちます。光は皮を緑化させ発芽を促すので遮光を。玉ねぎのとなりには置かないでください。互いに発芽が早まります。",
+    "fridge": "冷蔵したじゃがいもは購入日から1〜2週間しか持たず、低温ででんぷんが糖に変わります。米国ポテト協会は、冷蔵により調理時に黒ずみ、好ましくない甘みが出ることがあると述べており、常温保存のほうが適しています。冷蔵してしまった場合は、調理前に数日常温に戻すと影響がある程度戻ります。",
+    "freezer": "冷凍の目安は、加熱してつぶしたじゃがいもに当てはまり、−18℃で10〜12か月保存できます。完全に冷ましてから小分けにして密閉容器で冷凍を。生のじゃがいもはざらついて黒くなるため冷凍に向きません。必ず加熱してから冷凍してください。",
+    "thawing": "冷凍したマッシュポテトは冷蔵庫で一晩解凍し、牛乳やバターを少し加えて弱火で温め直します。ふたをして弱火なら、凍ったまま温め直すこともできます。",
+    "spoilage": [
+      "皮がやわらかい、しなびている、しわが寄っている",
+      "長い芽が出ている、皮に緑色の部分がある",
+      "黒くぬれた、悪臭のする腐敗部分がある",
+      "カビ、またはカビ臭く土臭い酸っぱいにおい"
+    ],
+    "tips": [
+      "紙袋や麻袋で保存を。ポリ袋の密閉は避けましょう",
+      "じゃがいもと玉ねぎは離して保管を。一緒だと発芽が早まります",
+      "調理前に芽と緑色の皮は大きめに取り除きましょう",
+      "冷凍するのは生ではなく、残ったマッシュポテトです"
+    ],
+    "faq": [
+      {"q": "じゃがいもはどのくらい持ちますか？", "a": "涼しく暗く風通しのよい場所での常温保存（推奨方法）なら購入日から1〜2か月です。冷蔵では1〜2週間で、風味も落ちます。"},
+      {"q": "じゃがいもは冷蔵すべきですか？", "a": "推奨されません。米国ポテト協会は、冷蔵により調理時の黒ずみや好ましくない甘みが出ることがあると指摘しています。涼しく暗い場所で常温保存しましょう。"},
+      {"q": "芽が出たじゃがいもは食べられますか？", "a": "実がしっかりしていれば、小さな芽をえぐり取って使えます。やわらかい、しなびた、広く緑化した、芽が大きく伸びたものは処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Patatas",
+    "aliases": ["papas", "patata blanca", "papa criolla", "patatas nuevas", "patata para hornear"],
+    "summary": "Las patatas enteras se conservan mejor en una despensa fresca, oscura y aireada, que es el método recomendado y da 1–2 meses desde la compra. La nevera solo ofrece 1–2 semanas y, como señala el United States Potato Board, puede hacer que se oscurezcan al cocinarlas y adquieran un dulzor desagradable. El puré cocinado se congela 10–12 meses.",
+    "pantry": "La despensa es el sitio adecuado para las patatas enteras: fresca, oscura y bien ventilada, en una bolsa de papel, un saco de arpillera o una caja abierta. Así duran 1–2 meses desde la compra. La luz verdea la piel y favorece la germinación, así que manténlas tapadas, y nunca las guardes junto a cebollas, porque ambas germinan antes.",
+    "fridge": "Refrigeradas duran solo 1–2 semanas desde la compra, y el frío convierte el almidón en azúcar. El United States Potato Board señala que la refrigeración puede hacer que las patatas se oscurezcan al cocinarlas y desarrollen un sabor desagradablemente dulce, así que la despensa es preferible. Si ya las has refrigerado, dejarlas unos días a temperatura ambiente revierte parte del efecto.",
+    "freezer": "El plazo de congelación se aplica a la patata cocida y hecha puré, que dura 10–12 meses a −18 °C (0 °F). Deja enfriar el puré por completo, repártelo en porciones herméticas y congélalo. La patata cruda se congela mal, quedando granulosa y negra, así que cocínala siempre antes.",
+    "thawing": "Descongela el puré en la nevera durante la noche y recaliéntalo suavemente con un chorro de leche o mantequilla, o recaliéntalo congelado en una cazuela tapada a fuego bajo.",
+    "spoilage": [
+      "Piel blanda, arrugada o reseca",
+      "Brotes largos y zonas verdes en la piel",
+      "Podredumbre negra, húmeda y de olor desagradable",
+      "Moho o un olor a humedad, terroso y agrio"
+    ],
+    "tips": [
+      "Guárdalas en bolsa de papel o saco de arpillera, nunca selladas en plástico",
+      "Mantén patatas y cebollas separadas: juntas germinan mucho antes",
+      "Corta con generosidad los brotes pequeños y la piel verde antes de cocinar",
+      "Congela el puré sobrante en porciones, no las patatas crudas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las patatas?", "a": "1–2 meses desde la compra en una despensa fresca, oscura y aireada, que es el método recomendado. En la nevera solo 1–2 semanas y el sabor empeora."},
+      {"q": "¿Hay que guardar las patatas en la nevera?", "a": "No se recomienda. El United States Potato Board señala que la refrigeración puede oscurecerlas al cocinarlas y darles un dulzor desagradable. Usa una despensa fresca y oscura."},
+      {"q": "¿Se pueden comer patatas germinadas?", "a": "Los brotes pequeños se pueden retirar y aprovechar la patata si sigue firme. Desecha las blandas, arrugadas, muy verdeadas o con brotes grandes."}
+    ]
+  }
+}

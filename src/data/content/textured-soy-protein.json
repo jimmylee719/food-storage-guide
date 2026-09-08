@@ -1,0 +1,107 @@
+{
+  "slug": "textured-soy-protein",
+  "en": {
+    "name": "Textured soy protein (TSP)",
+    "aliases": ["TVP", "textured vegetable protein", "soy mince", "soya chunks", "soy granules"],
+    "summary": "Textured soy protein is defatted soy flour extruded into dry granules, chunks or strips that rehydrate into a meat-like texture. Because it is dry and has had the oil removed, it is remarkably stable: about 2 years unopened in the pantry from the day of purchase, and 3–4 months once the pack is opened.",
+    "pantry": "Dry TSP is a store-cupboard staple. Keep the unopened bag in a cool, dry, dark cupboard and it will hold for about 2 years from purchase — the defatting removes the oil that would otherwise go rancid. Once opened, air and humidity start to work on it: transfer it to an airtight container and use it within 3–4 months.",
+    "fridge": "The fridge is unnecessary for dry TSP and can actually work against you, since every time you take a cold container out, moisture condenses onto the granules and encourages clumping and mould. Keep it dry in a sealed container in a cupboard instead. Rehydrated TSP is a completely different matter and must be refrigerated.",
+    "freezer": "Freezing dry TSP is not needed, though it does no harm in a very humid climate as long as the container is genuinely airtight. Rehydrated TSP, on the other hand, freezes well: cook it into a sauce or a chilli and freeze the finished dish in portions at −18 °C (0 °F), where it stays safe indefinitely.",
+    "thawing": "Dry TSP needs no thawing. Frozen cooked dishes made with TSP should be thawed in the fridge overnight and reheated until steaming hot, 74 °C (165 °F).",
+    "spoilage": [
+      "Rancid, bitter or musty smell instead of a neutral, faintly toasted aroma",
+      "Clumping or soft, damp granules that should be hard and dry",
+      "Visible mould, or a container with condensation on the inside",
+      "Insects, webbing or larvae in the packet"
+    ],
+    "tips": [
+      "Decant into an airtight jar as soon as you open the bag.",
+      "Write the opening date on the jar — 3–4 months goes quickly in the back of a cupboard.",
+      "Rehydrate in hot stock rather than water for far more flavour.",
+      "Keep it away from steam and the kettle; humidity is its main enemy."
+    ],
+    "faq": [
+      {"q": "How long does dry TSP last?", "a": "About 2 years unopened in a cool, dry pantry from the day of purchase, and 3–4 months once the pack has been opened and resealed."},
+      {"q": "Does TSP need to be refrigerated?", "a": "Dry TSP does not, and the fridge can cause condensation. Rehydrated TSP is perishable and must be refrigerated."},
+      {"q": "Can you freeze textured soy protein?", "a": "Dry TSP has no need of the freezer. Cooked dishes made with rehydrated TSP freeze well at −18 °C (0 °F)."}
+    ]
+  },
+  "zh": {
+    "name": "組織化大豆蛋白（素肉）",
+    "aliases": ["素肉", "大豆蛋白", "TVP", "植物組織蛋白", "素肉塊"],
+    "summary": "組織化大豆蛋白是把脫脂黃豆粉擠壓成型的乾燥顆粒、塊狀或條狀，泡水復水後會呈現類似肉的質地。因為乾燥又已經脫脂，它非常穩定：未開封放在櫥櫃，從購買日起約可放 2 年；開封後則是 3～4 個月。",
+    "pantry": "乾燥的素肉是很好的常備乾貨。未開封的袋子放在陰涼、乾燥、避光的櫥櫃，從購買日起約可放 2 年——脫脂去掉了會酸敗的油脂。一旦開封，空氣和濕氣就開始作用：請倒進密封容器，並在 3～4 個月內用完。",
+    "fridge": "乾燥素肉不需要冷藏，甚至可能反效果：每次把冰過的容器拿出來，水氣就會凝結在顆粒上，容易結塊發霉。請維持乾燥、密封並收在櫥櫃。復水後的素肉則完全不同，一定要冷藏。",
+    "freezer": "乾燥素肉不需要冷凍；在非常潮濕的氣候下冷凍也無妨，前提是容器真的密封。復水後的素肉反而很適合冷凍：煮成醬汁或辣豆醬後，分裝冷凍在 −18°C，安全上可以無限期保存。",
+    "thawing": "乾燥素肉不需要解凍。用素肉做成的冷凍熟食請放冷藏室解凍一晚，再加熱到冒蒸氣、中心 74°C。",
+    "spoilage": [
+      "不是中性、帶點烘烤香的氣味，而是油耗味、苦味或霉味",
+      "本該乾硬的顆粒結塊、變軟或受潮",
+      "看得到黴，或容器內側有水氣凝結",
+      "包裝裡有蟲、絲狀物或幼蟲"
+    ],
+    "tips": [
+      "拆封後立刻倒進密封罐。",
+      "在罐子上寫開封日期，3～4 個月在櫥櫃深處很快就過。",
+      "用熱高湯而不是清水復水，風味會好很多。",
+      "遠離水蒸氣和熱水壺，濕氣是它最大的敵人。"
+    ],
+    "faq": [
+      {"q": "乾燥素肉可以放多久？", "a": "未開封放陰涼乾燥的櫥櫃，從購買日起約 2 年；開封並重新密封後 3～4 個月。"},
+      {"q": "素肉需要冷藏嗎？", "a": "乾燥的不需要，放冰箱反而可能結露。復水後的素肉容易腐敗，一定要冷藏。"},
+      {"q": "組織化大豆蛋白可以冷凍嗎？", "a": "乾燥的沒必要冷凍。用復水素肉做成的熟食則很適合放 −18°C 冷凍。"}
+    ]
+  },
+  "ja": {
+    "name": "大豆たんぱく（乾燥ソイミート）",
+    "aliases": ["大豆ミート", "ソイミート", "TVP", "組織状大豆たんぱく", "乾燥大豆ミート"],
+    "summary": "組織状大豆たんぱくは、脱脂大豆粉を押し出し成形した乾燥の粒・ブロック・フィレ状の食品で、水で戻すと肉のような食感になります。乾燥していて脂も抜いてあるため非常に安定しており、未開封なら常温で購入日から約2年、開封後は3〜4か月が目安です。",
+    "pantry": "乾燥の大豆ミートは常備しやすい乾物です。未開封の袋を涼しく乾いた暗い棚に置けば、購入日から約2年もちます。脱脂により、酸化する油が取り除かれているためです。開封すると空気と湿気の影響が始まるので、密閉容器に移し3〜4か月で使い切りましょう。",
+    "fridge": "乾燥品に冷蔵は不要で、むしろ逆効果になることがあります。冷えた容器を出し入れするたびに粒へ結露し、固まりやカビの原因になるためです。乾いたまま密閉して棚で保管してください。水で戻したあとの大豆ミートはまったく別で、必ず冷蔵が必要です。",
+    "freezer": "乾燥品の冷凍は不要ですが、非常に湿度の高い環境では、容器が完全に密閉されていれば害はありません。一方、戻したあとの大豆ミートは冷凍向きです。ソースやチリなどに調理してから小分けにし、−18℃で冷凍すれば安全面では長期間保存できます。",
+    "thawing": "乾燥品に解凍は不要です。大豆ミートを使った冷凍の料理は、冷蔵庫で一晩解凍し、湯気が立つ状態（74℃）まで温め直してください。",
+    "spoilage": [
+      "無臭に近い、ほのかに香ばしいにおいではなく、酸敗臭・苦いにおい・かび臭さがする",
+      "硬く乾いているはずの粒が固まっている、やわらかく湿っている",
+      "カビが見える、容器の内側が結露している",
+      "袋の中に虫、糸状のもの、幼虫がいる"
+    ],
+    "tips": [
+      "開封したらすぐ密閉瓶に移し替える。",
+      "瓶に開封日を書く。棚の奥では3〜4か月はあっという間。",
+      "水ではなく熱いだしで戻すと、風味が格段に良くなる。",
+      "湿気が最大の敵。蒸気やケトルの近くを避ける。"
+    ],
+    "faq": [
+      {"q": "乾燥の大豆ミートはどのくらいもちますか？", "a": "未開封なら涼しく乾いた場所で購入日から約2年、開封して密閉した場合は3〜4か月が目安です。"},
+      {"q": "大豆ミートは冷蔵が必要ですか？", "a": "乾燥品には不要で、冷蔵は結露の原因になります。戻したあとの大豆ミートは傷みやすいので必ず冷蔵してください。"},
+      {"q": "大豆ミートは冷凍できますか？", "a": "乾燥品に冷凍の必要はありません。戻して調理した料理なら−18℃での冷凍によく向きます。"}
+    ]
+  },
+  "es": {
+    "name": "Proteína de soya texturizada (TVP)",
+    "aliases": ["proteína vegetal texturizada", "carne de soya", "soja texturizada", "trozos de soya"],
+    "summary": "La proteína de soya texturizada es harina de soya desgrasada extruida en gránulos, trozos o tiras secas que, al hidratarse, adquieren una textura parecida a la carne. Al estar seca y sin aceite es notablemente estable: unos 2 años sin abrir en la despensa desde la compra, y 3–4 meses una vez abierto el paquete.",
+    "pantry": "La TVP seca es un básico de despensa. Guarda la bolsa cerrada en un armario fresco, seco y oscuro y aguantará unos 2 años desde la compra: el desgrasado elimina el aceite que se enranciaría. Una vez abierta, el aire y la humedad empiezan a actuar: pásala a un recipiente hermético y úsala en 3–4 meses.",
+    "fridge": "El refrigerador es innecesario para la TVP seca y puede jugar en contra: cada vez que sacas un recipiente frío se condensa humedad sobre los gránulos, favoreciendo grumos y moho. Mantenla seca en un recipiente cerrado en un armario. La TVP hidratada es otra cosa y sí debe refrigerarse.",
+    "freezer": "No hace falta congelar la TVP seca, aunque en climas muy húmedos no le hace daño si el recipiente es realmente hermético. La TVP hidratada, en cambio, se congela bien: cocínala en una salsa o un chili y congela el plato terminado en porciones a −18 °C (0 °F), donde se mantiene seguro indefinidamente.",
+    "thawing": "La TVP seca no necesita descongelación. Los platos congelados hechos con TVP deben descongelarse en el refrigerador durante una noche y recalentarse hasta que humeen, 74 °C (165 °F).",
+    "spoilage": [
+      "Olor rancio, amargo o a humedad en lugar de un aroma neutro y levemente tostado",
+      "Grumos o gránulos blandos y húmedos donde deberían estar duros y secos",
+      "Moho visible, o condensación en el interior del recipiente",
+      "Insectos, telarañas o larvas en el paquete"
+    ],
+    "tips": [
+      "Pásala a un frasco hermético en cuanto abras la bolsa.",
+      "Anota la fecha de apertura: 3–4 meses pasan rápido al fondo de un armario.",
+      "Hidrátala en caldo caliente en vez de agua para mucho más sabor.",
+      "Aléjala del vapor y del hervidor: la humedad es su principal enemigo."
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la TVP seca?", "a": "Unos 2 años sin abrir en una despensa fresca y seca desde la compra, y 3–4 meses una vez abierta y bien cerrada."},
+      {"q": "¿La TVP necesita refrigeración?", "a": "La seca no, y el refrigerador puede provocar condensación. La TVP hidratada es perecedera y sí debe refrigerarse."},
+      {"q": "¿Se puede congelar la proteína de soya texturizada?", "a": "La seca no lo necesita. Los platos cocinados con TVP hidratada se congelan bien a −18 °C (0 °F)."}
+    ]
+  }
+}

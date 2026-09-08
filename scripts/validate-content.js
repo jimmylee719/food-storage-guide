@@ -33,5 +33,19 @@ for (const f of files) {
   if (j.ja && /[぀-ヿ一-鿿]/.test(j.ja.name) === false) errs.push('ja.name has no Japanese');
   if (errs.length) { errors++; console.log(`ERR ${f}: ${errs.join('; ')}`); }
 }
+// A content file whose slug no longer exists in the built data renders nowhere:
+// build-data.js keys content by slug, so the article is silently dropped. This
+// happens when a bundled FoodKeeper record is split into individual foods after
+// its article was written.
+const baseDir = path.join(__dirname, '..', 'src', 'data', 'base');
+const readOpt = (p, d) => { try { return JSON.parse(fs.readFileSync(path.join(baseDir, p), 'utf8')); } catch { return d; } };
+const replaced = new Set(readOpt('split-replaces.json', []));
+const orphans = files.map((f) => f.replace(/\.json$/, '')).filter((s) => replaced.has(s));
+if (orphans.length) {
+  console.log(`\n${orphans.length} content file(s) written for records that scripts/split-combined.js has since replaced.`);
+  console.log('They render nowhere. Rewrite them for the individual foods, or delete them:');
+  for (const s of orphans) console.log(`  ${s}`);
+}
+
 console.log(`${files.length} files checked, ${errors} with errors`);
 process.exit(errors ? 1 : 0);

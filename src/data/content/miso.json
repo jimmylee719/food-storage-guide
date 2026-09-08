@@ -1,0 +1,107 @@
+{
+  "slug": "miso",
+  "en": {
+    "name": "Miso",
+    "aliases": ["miso paste", "fermented soybean paste", "shiro miso", "aka miso"],
+    "summary": "Miso is a salty fermented paste of soybeans, grain and koji culture, used for soups, marinades and dressings. Refrigerated at 4 °C (40 °F) or below it keeps about 1 year from the day of purchase — the salt and fermentation make it one of the longest-lasting things in the fridge.",
+    "pantry": "Miso is a fermented, high-salt product and far more stable than most refrigerated foods, but the fridge is still where it belongs once opened: at room temperature it keeps fermenting, darkening and developing a stronger, harsher flavour. An unopened tub can sit in a cool cupboard until its date, then goes into the fridge as soon as you break the seal.",
+    "fridge": "Store miso in its tub or an airtight container at 4 °C (40 °F) or below and it will keep about 1 year. Smooth the surface flat after each use and press a piece of plastic wrap or the original paper directly onto it so air does not darken the top layer. Always use a clean, dry spoon — moisture and crumbs are the main cause of spoilage.",
+    "freezer": "Miso can be frozen, but there is rarely any need: its salt content is so high that it never freezes solid, staying scoopable straight from the freezer at −18 °C (0 °F). If your kitchen is warm or you buy in bulk, freezing does slow the darkening. Nothing about the texture or flavour is harmed.",
+    "thawing": "No thawing is needed — frozen miso stays soft enough to spoon out. Simply take what you want and return the container to the fridge or freezer.",
+    "spoilage": [
+      "Fuzzy blue, green or black mould on the surface — the harmless white film that can form is a different thing",
+      "A sharply sour, alcoholic or unpleasant smell rather than a rich savoury aroma",
+      "Liquid separating and smelling fermented in a way it did not before",
+      "Any visible insect activity or a texture that has become dry and crumbly"
+    ],
+    "tips": [
+      "Press plastic wrap onto the surface to stop the top layer darkening.",
+      "Use a clean, dry spoon every time — moisture is what spoils miso.",
+      "Darkening with age is normal and simply means a stronger flavour.",
+      "Never boil miso soup hard; add the paste off the heat to keep its aroma."
+    ],
+    "faq": [
+      {"q": "Does miso go bad?", "a": "It spoils very slowly thanks to salt and fermentation, keeping about 1 year in the fridge at 4 °C (40 °F) or below. Coloured fuzzy mould or a sharply sour smell means discard it."},
+      {"q": "Can you freeze miso?", "a": "Yes, and it never freezes solid because of the salt, so you can spoon it straight from the freezer at −18 °C (0 °F). It is rarely necessary, though."},
+      {"q": "Why has my miso turned darker?", "a": "It keeps fermenting slowly and darkens with age and air exposure. That is a normal flavour change, not spoilage, as long as it smells and tastes right."}
+    ]
+  },
+  "zh": {
+    "name": "味噌",
+    "aliases": ["味增", "大豆發酵醬", "白味噌", "赤味噌", "米味噌"],
+    "summary": "味噌是用黃豆、穀物和麴菌發酵製成的鹹味醬，用來煮湯、醃漬和做醬汁。在 4°C 以下冷藏，從購買日起約可保存 1 年——鹽分和發酵讓它成為冰箱裡最耐放的東西之一。",
+    "pantry": "味噌是高鹽的發酵品，比大多數冷藏食品穩定得多，但開封後仍然應該放冰箱：在室溫下它會繼續發酵、顏色變深，味道也會變得更濃烈粗獷。未開封的可以放陰涼櫥櫃到標示日期，一旦拆封就要移到冰箱。",
+    "fridge": "連原盒或裝進密封容器，放 4°C 以下冷藏，大約可以放 1 年。每次用完把表面抹平，並用保鮮膜或原本附的紙直接貼在表面，避免上層接觸空氣變黑。每次都要用乾淨且乾燥的湯匙——水分和碎屑是味噌變質的主因。",
+    "freezer": "味噌可以冷凍，但很少有必要：它的鹽分高到即使放 −18°C 也不會凍成硬塊，隨時都能挖得動。如果廚房比較熱或是大量採購，冷凍確實能減緩顏色變深。質地和風味都不會受損。",
+    "thawing": "不需要解凍——冷凍的味噌依然軟到可以直接挖取。舀出需要的量後，把容器放回冰箱或冷凍庫即可。",
+    "spoilage": [
+      "表面長出藍色、綠色或黑色的絨毛黴（表面偶爾出現的白膜是另一回事，通常無害）",
+      "不是濃郁的鹹鮮香，而是刺鼻的酸味、酒精味或不舒服的氣味",
+      "滲出液體並散發出以前沒有的發酵異味",
+      "看得到蟲害痕跡，或質地變得乾硬碎裂"
+    ],
+    "tips": [
+      "用保鮮膜貼住表面，可以避免上層變黑。",
+      "每次都用乾淨乾燥的湯匙，水分才是味噌變質的元兇。",
+      "隨時間變深色是正常的，只代表風味變濃。",
+      "味噌湯不要煮到大滾，離火後再拌入味噌才能保留香氣。"
+    ],
+    "faq": [
+      {"q": "味噌會壞掉嗎？", "a": "因為高鹽又經過發酵，變質非常慢，在 4°C 以下冷藏約可放 1 年。若長出有顏色的絨毛黴或出現刺鼻酸味，就要丟掉。"},
+      {"q": "味噌可以冷凍嗎？", "a": "可以，而且因為鹽分高不會凍硬，在 −18°C 下依然挖得動。不過通常沒有必要。"},
+      {"q": "味噌顏色變深還能吃嗎？", "a": "可以。它會持續緩慢發酵，隨時間和接觸空氣而變深，這是正常的風味變化，只要氣味和味道正常就沒問題。"}
+    ]
+  },
+  "ja": {
+    "name": "味噌",
+    "aliases": ["みそ", "米味噌", "白味噌", "赤味噌", "合わせ味噌"],
+    "summary": "味噌は大豆と穀物、麹で仕込む塩気のある発酵調味料で、汁物や漬け床、たれに使われます。4℃以下の冷蔵で購入日から約1年が目安。塩分と発酵のおかげで、冷蔵庫のなかでもとりわけ日もちする食品です。",
+    "pantry": "味噌は塩分の高い発酵食品で、多くの冷蔵食品よりずっと安定していますが、開封後はやはり冷蔵庫が適しています。常温では発酵が進んで色が濃くなり、香りも角が立ってきます。未開封なら涼しい棚で表示期限まで置けますが、開けたらすぐ冷蔵してください。",
+    "fridge": "容器のまま、または密閉容器に入れて4℃以下で保存すれば約1年もちます。使うたびに表面を平らにならし、ラップや付属の紙を密着させて空気に触れないようにすると、上の層が黒ずみません。取り出すときは必ず清潔で乾いたスプーンを使いましょう。水分やくずが劣化の主な原因です。",
+    "freezer": "冷凍もできますが、必要になることはほとんどありません。塩分が高いため−18℃でも固く凍らず、そのまますくえます。台所が暖かい場合や大容量を買った場合には、色の変化を遅らせる効果があります。食感や風味が損なわれることもありません。",
+    "thawing": "解凍は不要です。冷凍しても十分やわらかくすくえるので、必要な分だけ取り出し、容器を冷蔵庫か冷凍庫に戻してください。",
+    "spoilage": [
+      "表面に青・緑・黒の毛羽立ったカビが出ている（ときどきできる白い膜とは別物）",
+      "こくのあるうまみの香りではなく、つんとした酸敗臭やアルコール臭、不快なにおいがする",
+      "液が分離し、以前とは違う発酵臭がする",
+      "虫の混入が見られる、質地が乾いてぼろぼろになっている"
+    ],
+    "tips": [
+      "表面にラップを密着させ、上の層の黒ずみを防ぐ。",
+      "毎回、清潔で乾いたスプーンを使う。水分が劣化の原因になる。",
+      "時間とともに色が濃くなるのは正常で、風味が強まっただけ。",
+      "味噌汁は煮立てず、火を止めてから溶き入れると香りが立つ。"
+    ],
+    "faq": [
+      {"q": "味噌は傷みますか？", "a": "塩分と発酵のおかげで劣化はごく緩やかで、4℃以下の冷蔵なら約1年が目安です。色付きの毛羽立ったカビやつんとした酸敗臭が出たら処分してください。"},
+      {"q": "味噌は冷凍できますか？", "a": "できます。塩分が高く固く凍らないので、−18℃でもそのまますくえます。ただし必要な場面は多くありません。"},
+      {"q": "味噌の色が濃くなったのはなぜ？", "a": "ゆっくり発酵が進み、時間と空気で色が濃くなるためです。においや味に問題がなければ、正常な風味の変化で傷みではありません。"}
+    ]
+  },
+  "es": {
+    "name": "Miso",
+    "aliases": ["pasta de miso", "pasta de soja fermentada", "shiro miso", "aka miso"],
+    "summary": "El miso es una pasta salada de soya, cereal y cultivo de koji fermentados, usada en sopas, adobos y aliños. Refrigerado a 4 °C (40 °F) o menos dura alrededor de 1 año desde la compra: la sal y la fermentación lo convierten en uno de los productos más duraderos del refrigerador.",
+    "pantry": "El miso es un fermentado muy salado y bastante más estable que la mayoría de los alimentos refrigerados, pero una vez abierto su sitio es el frío: a temperatura ambiente sigue fermentando, se oscurece y desarrolla un sabor más fuerte y áspero. Una tarrina sin abrir puede estar en un armario fresco hasta su fecha y pasa al refrigerador en cuanto rompes el sellado.",
+    "fridge": "Guárdalo en su tarrina o en un recipiente hermético a 4 °C (40 °F) o menos y aguantará alrededor de 1 año. Alisa la superficie tras cada uso y pega film o el papel original directamente sobre ella para que el aire no oscurezca la capa superior. Usa siempre una cuchara limpia y seca: la humedad y las migas son la principal causa de deterioro.",
+    "freezer": "Se puede congelar, aunque rara vez hace falta: tiene tanta sal que nunca se congela del todo y se puede cucharear directamente a −18 °C (0 °F). Si tu cocina es cálida o compras formatos grandes, congelarlo frena el oscurecimiento, y ni la textura ni el sabor sufren.",
+    "thawing": "No necesita descongelación: el miso congelado sigue lo bastante blando para servirlo con cuchara. Toma lo que necesites y devuelve el recipiente al refrigerador o al congelador.",
+    "spoilage": [
+      "Moho afelpado azul, verde o negro en la superficie: la película blanca que a veces aparece es otra cosa",
+      "Olor muy ácido, alcohólico o desagradable en lugar del aroma sabroso y profundo",
+      "Líquido separado con un olor fermentado distinto al habitual",
+      "Señales de insectos, o textura seca y desmenuzada"
+    ],
+    "tips": [
+      "Pega film sobre la superficie para que la capa superior no se oscurezca.",
+      "Usa siempre cuchara limpia y seca: la humedad es lo que estropea el miso.",
+      "Que se oscurezca con el tiempo es normal y solo indica un sabor más intenso.",
+      "No hiervas la sopa de miso; añade la pasta fuera del fuego para conservar su aroma."
+    ],
+    "faq": [
+      {"q": "¿El miso se echa a perder?", "a": "Se deteriora muy despacio gracias a la sal y la fermentación: alrededor de 1 año en el refrigerador a 4 °C (40 °F) o menos. Moho de color o un olor muy ácido significan tirarlo."},
+      {"q": "¿Se puede congelar el miso?", "a": "Sí, y no se congela del todo por su sal, así que puedes cucharearlo directamente a −18 °C (0 °F). Rara vez es necesario."},
+      {"q": "¿Por qué se ha oscurecido mi miso?", "a": "Sigue fermentando lentamente y se oscurece con el tiempo y el aire. Es un cambio normal de sabor, no un deterioro, mientras huela y sepa bien."}
+    ]
+  }
+}

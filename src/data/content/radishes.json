@@ -1,0 +1,107 @@
+{
+  "slug": "radishes",
+  "en": {
+    "name": "Radishes",
+    "aliases": ["red radish", "daikon", "white radish", "breakfast radish", "mooli"],
+    "summary": "Radishes are crisp roots that stay firm as long as they are kept cold and humid and separated from their leaves. In the fridge they keep 10–14 days from the date of purchase. Removing the leafy tops is the single most important step, since they drain moisture from the root.",
+    "pantry": "Radishes do not keep at room temperature. They go soft, rubbery and eventually hollow within a couple of days in a warm kitchen, and any attached leaves wilt within hours. Refrigerate them as soon as you get home, after cutting off the tops.",
+    "fridge": "Twist or cut off the leafy tops, then store the roots unwashed in a perforated bag or a container with a damp piece of kitchen paper, in the crisper at 4 °C (40 °F) or below, where they keep 10–14 days from purchase. For extra crispness, submerge trimmed radishes in a container of cold water and change the water every couple of days.",
+    "freezer": "USDA gives no freezer timeline for radishes, and freezing raw radishes is not recommended: their high water content makes them limp and hollow on thawing, losing everything that makes them worth eating. Pickling is a much better way to preserve a glut.",
+    "thawing": null,
+    "spoilage": [
+      "Soft, rubbery roots that give when squeezed",
+      "Slimy skin or black soft spots",
+      "Hollow, spongy or woolly centres when cut",
+      "Sour or musty smell in the bag"
+    ],
+    "tips": [
+      "Cut the leafy tops off the day you buy them",
+      "Store submerged in cold water for maximum crunch, changing the water regularly",
+      "Radish leaves are edible — sauté them or blend them into pesto",
+      "Pickle a glut rather than freezing it, as radishes freeze badly"
+    ],
+    "faq": [
+      {"q": "How long do radishes last in the fridge?", "a": "10–14 days from purchase at 4 °C (40 °F) or below, with the tops removed and stored unwashed in a perforated bag or container."},
+      {"q": "Can you freeze radishes?", "a": "Freezing raw radishes is not recommended: they turn limp and hollow when thawed. Pickle them instead, which keeps them crisp for weeks."},
+      {"q": "How do you make soft radishes crisp again?", "a": "Trim the ends and soak them in a bowl of ice water in the fridge for an hour or two. They reabsorb water and firm up noticeably."}
+    ]
+  },
+  "zh": {
+    "name": "櫻桃蘿蔔與白蘿蔔",
+    "aliases": ["白蘿蔔", "櫻桃蘿蔔", "菜頭", "紅皮蘿蔔", "daikon"],
+    "summary": "蘿蔔是清脆的根莖類，只要維持低溫、保濕，並且和葉子分開，就能保持結實。冷藏從購買日起可放 10～14 天。把葉子切掉是最重要的一步，因為葉子會不斷把根部的水分抽走。",
+    "pantry": "蘿蔔不耐常溫。在溫暖的廚房裡一兩天內就會變軟、變韌，最後變成中空，帶著的葉子更是幾小時就軟垮。買回家請先切掉葉子，然後立刻冷藏。",
+    "fridge": "把葉子扭下或切掉，根部不清洗，裝進打洞袋或放了一張微濕廚房紙巾的保鮮盒，收在 4°C 以下的蔬果保鮮室，從購買日起可放 10～14 天。想要更脆的話，把修好的蘿蔔整個泡在裝冷水的容器裡，每兩天換一次水。",
+    "freezer": "USDA 沒有提供蘿蔔的冷凍期限，而且生蘿蔔並不建議冷凍：含水量太高，解凍後會軟垮中空，好吃的地方全沒了。一次太多的話，醃漬保存是好得多的做法。",
+    "thawing": null,
+    "spoilage": [
+      "根部變軟、變韌，一捏就凹",
+      "表皮變得黏滑，或出現黑色軟斑",
+      "切開後中心中空、呈海綿狀或糠心",
+      "袋子裡有酸味或霉味"
+    ],
+    "tips": [
+      "買回來當天就把葉子切掉",
+      "整個泡在冷水裡冷藏最能保脆，記得定期換水",
+      "蘿蔔葉可以吃，炒一炒或打成青醬都不錯",
+      "一次太多就拿去醃漬，不要冷凍，蘿蔔冷凍效果很差"
+    ],
+    "faq": [
+      {"q": "蘿蔔放冰箱可以放多久？", "a": "切掉葉子、不清洗裝在打洞袋或保鮮盒裡，放 4°C 以下，從購買日起 10～14 天。"},
+      {"q": "蘿蔔可以冷凍嗎？", "a": "生蘿蔔不建議冷凍，解凍後會變得軟垮中空。建議改成醃漬，可以脆好幾週。"},
+      {"q": "軟掉的蘿蔔怎麼變脆？", "a": "把兩端切掉，泡在裝冰水的碗裡冷藏一兩小時，它會重新吸水，明顯變得結實。"}
+    ]
+  },
+  "ja": {
+    "name": "大根・ラディッシュ",
+    "aliases": ["だいこん", "大根", "ラディッシュ", "二十日大根", "白大根"],
+    "summary": "大根やラディッシュは、低温と湿度を保ち葉を切り離しておけば、しっかりした食感を保てます。冷蔵では購入日から10〜14日持ちます。葉を落とすことが最も重要な一手です。葉が根の水分を吸い上げてしまうためです。",
+    "pantry": "大根類は常温では持ちません。暖かい台所では1〜2日でやわらかくゴムのようになり、やがて中がすかすかになります。葉がついていれば数時間でしおれます。帰宅したら葉を切り落とし、すぐ冷蔵しましょう。",
+    "fridge": "葉をねじり取るか切り落とし、根は洗わずに穴あき袋か、湿らせたキッチンペーパーを入れた容器へ。4℃以下の野菜室で保存すれば、購入日から10〜14日持ちます。よりシャキッとさせたいなら、冷水を張った容器に沈め、2日おきに水を替えましょう。",
+    "freezer": "USDAは大根類の冷凍期間を示しておらず、生のままの冷凍は推奨されません。水分が多く、解凍するとぐったりしてすが入り、持ち味が失われます。多いときは漬物にするほうがずっと向いています。",
+    "thawing": null,
+    "spoilage": [
+      "根がやわらかくゴムのようで、握るとへこむ",
+      "表面がぬめる、黒くやわらかい部分がある",
+      "切ると中が空洞、スポンジ状、すが入っている",
+      "袋の中が酸っぱい、カビ臭い"
+    ],
+    "tips": [
+      "買った当日に葉を切り落としましょう",
+      "冷水に沈めて冷蔵するといちばんシャキッとします。水はこまめに替えて",
+      "大根の葉も食べられます。炒めたりペーストにしたりしましょう",
+      "多いときは冷凍せず漬物に。冷凍には向きません"
+    ],
+    "faq": [
+      {"q": "大根は冷蔵庫でどのくらい持ちますか？", "a": "葉を落とし、洗わず穴あき袋か容器に入れて4℃以下なら、購入日から10〜14日です。"},
+      {"q": "大根は冷凍できますか？", "a": "生のままの冷凍は推奨されません。解凍するとぐったりしてすが入ります。漬物にするほうが向いています。"},
+      {"q": "やわらかくなった大根を戻すには？", "a": "両端を切り、氷水を張ったボウルに1〜2時間つけて冷蔵庫へ。水を吸ってしっかり戻ります。"}
+    ]
+  },
+  "es": {
+    "name": "Rábanos",
+    "aliases": ["rabanito", "daikon", "rábano blanco", "rábano rojo", "nabo japonés"],
+    "summary": "Los rábanos son raíces crujientes que se mantienen firmes mientras estén frías, húmedas y separadas de sus hojas. En la nevera duran 10–14 días desde la compra. Quitar las hojas es el paso más importante, porque extraen la humedad de la raíz.",
+    "pantry": "Los rábanos no aguantan a temperatura ambiente. Se ablandan, se vuelven gomosos y acaban huecos en un par de días en una cocina cálida, y las hojas se marchitan en horas. Refrigéralos nada más llegar a casa, después de cortarles las hojas.",
+    "fridge": "Retuerce o corta las hojas y guarda las raíces sin lavar en una bolsa perforada o en un recipiente con un papel de cocina húmedo, en el cajón de verduras a 4 °C (40 °F) o menos, donde duran 10–14 días desde la compra. Para máxima textura, sumerge los rábanos limpios en un recipiente con agua fría y cámbiala cada dos días.",
+    "freezer": "El USDA no da un plazo de congelación para los rábanos, y congelarlos crudos no se recomienda: su alto contenido en agua los deja flácidos y huecos al descongelar, perdiendo todo su atractivo. Encurtirlos es mucho mejor para aprovechar un excedente.",
+    "thawing": null,
+    "spoilage": [
+      "Raíces blandas y gomosas que ceden al apretarlas",
+      "Piel viscosa o manchas negras blandas",
+      "Centros huecos, esponjosos o algodonosos al cortarlos",
+      "Olor agrio o a humedad dentro de la bolsa"
+    ],
+    "tips": [
+      "Corta las hojas el día de la compra",
+      "Guárdalos sumergidos en agua fría para máximo crujido, cambiando el agua a menudo",
+      "Las hojas de rábano son comestibles: saltéalas o tritúralas en pesto",
+      "Encurte el excedente en vez de congelarlo, porque se congelan mal"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los rábanos en la nevera?", "a": "10–14 días desde la compra a 4 °C (40 °F) o menos, con las hojas retiradas y guardados sin lavar en bolsa perforada o recipiente."},
+      {"q": "¿Se pueden congelar los rábanos?", "a": "Congelarlos crudos no se recomienda: quedan flácidos y huecos al descongelar. Es mejor encurtirlos, así se mantienen crujientes semanas."},
+      {"q": "¿Cómo recuperar rábanos blandos?", "a": "Recorta los extremos y sumérgelos en un bol con agua helada en la nevera una o dos horas. Reabsorben agua y recuperan firmeza."}
+    ]
+  }
+}

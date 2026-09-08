@@ -1,0 +1,107 @@
+{
+  "slug": "shrimp-crayfish",
+  "en": {
+    "name": "Shrimp and crayfish",
+    "aliases": ["prawns", "shrimp", "crawfish", "langoustine", "freshwater crayfish"],
+    "summary": "Shrimp, prawns and crayfish are shellfish with sweet, firm flesh that deteriorates fast once they leave cold water. Raw, they keep 1–3 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 6–18 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw shellfish must never be left at room temperature. Shrimp develop an ammonia smell within hours of warming, and vibrio and other bacteria multiply rapidly in the danger zone between 4 °C and 60 °C (40 °F and 140 °F). Discard shrimp left out for more than 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Store shrimp in a covered container in the coldest part of the fridge at 4 °C (40 °F) or below, ideally over ice in a dish that drains, and use them within 1–3 days. Most supermarket shrimp were frozen at sea and thawed for display: ask, and if so treat the thaw date as the start of the clock and do not refreeze them raw.",
+    "freezer": "Shrimp and crayfish freeze exceptionally well, keeping good quality for 6–18 months at −18 °C (0 °F) and staying safe indefinitely. Freeze them raw, shell on, which protects the flesh best; a block frozen in water is the traditional method and shuts out air entirely. Label with the date and whether they are raw or cooked.",
+    "thawing": "Thaw in the fridge overnight or in a sealed bag under cold running water for 10–20 minutes, then drain and pat dry. Never thaw shellfish at room temperature or in warm water. Cook shrimp to 63 °C (145 °F), or until they turn opaque and curl into a loose C shape; a tight O means overcooked.",
+    "spoilage": [
+      "Ammonia or strong fishy smell — a clear signal to discard",
+      "Slimy shells or mushy, soft flesh that falls apart",
+      "Black spots spreading over the shell and into the meat, or a grey, dull colour",
+      "Milky, thick liquid in the container, or a passed use-by date"
+    ],
+    "tips": [
+      "Buy frozen shrimp and thaw what you need — it is often fresher than the thawed display counter.",
+      "Freeze raw with shells on for the best protection.",
+      "Do not refreeze raw shrimp that were sold already thawed.",
+      "Save the shells in the freezer for a quick, intensely flavoured stock."
+    ],
+    "faq": [
+      {"q": "Can you freeze shrimp?", "a": "Yes, and they freeze superbly: 6–18 months of good quality at −18 °C (0 °F). Freezing them raw with shells on, or in a block of water, protects them best."},
+      {"q": "How long do raw shrimp last in the fridge?", "a": "1–3 days from the day of purchase at 4 °C (40 °F) or below, kept as cold as possible over ice."},
+      {"q": "What does an ammonia smell in shrimp mean?", "a": "It means the shrimp have spoiled and must be discarded. Fresh shrimp smell clean and faintly of the sea; no amount of rinsing fixes an ammonia smell."}
+    ]
+  },
+  "zh": {
+    "name": "蝦與淡水螯蝦",
+    "aliases": ["蝦子", "白蝦", "草蝦", "小龍蝦", "螯蝦"],
+    "summary": "蝦與淡水螯蝦肉質清甜結實，但一離開冷水就劣化得很快。生的在 4°C 以下冷藏，從購買日起可放 1～3 天；放 −18°C 冷凍則可放 6～18 個月。",
+    "pantry": "生的甲殼類絕對不能放室溫。蝦子回溫後幾小時就會出現阿摩尼亞味，腸炎弧菌等細菌在 4～60°C 的危險溫度帶也會迅速繁殖。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "把蝦放在有蓋容器裡，置於冰箱最冷的位置，維持 4°C 以下，最理想是放在能瀝水的容器中鋪冰塊，並在 1～3 天內用完。超市多數的「生鮮蝦」其實是船上急凍後解凍陳列的：可以詢問店家，如果是的話，請以解凍日開始計算，而且生的不要再冷凍。",
+    "freezer": "蝦和螯蝦非常適合冷凍，放 −18°C 品質可維持 6～18 個月，安全上可以無限期保存。建議帶殼生凍，殼能提供最好的保護；傳統做法是加水凍成冰磚，可以完全隔絕空氣。標註日期，以及是生的還是熟的。",
+    "thawing": "放冷藏室解凍一晚，或裝密封袋用冷水沖 10～20 分鐘，之後瀝乾擦乾。絕對不要在室溫或溫水中解凍。蝦要煮到中心 63°C，或蝦肉變不透明、彎成鬆鬆的 C 字形為止；捲成緊緊的 O 字形就是煮過頭了。",
+    "spoilage": [
+      "出現阿摩尼亞味或強烈腥味——這就是該丟掉的訊號",
+      "蝦殼黏滑，或蝦肉軟爛一夾就散",
+      "蝦殼上的黑斑擴散到蝦肉，或顏色變灰暗沉",
+      "容器裡出現乳白濃稠的液體，或已超過有效日期"
+    ],
+    "tips": [
+      "直接買冷凍蝦、要用多少解多少，往往比解凍後陳列的更新鮮。",
+      "帶殼生凍，保護效果最好。",
+      "已經解凍販售的生蝦不要再冷凍。",
+      "蝦殼收在冷凍庫，可以快速熬出風味濃郁的高湯。"
+    ],
+    "faq": [
+      {"q": "蝦可以冷凍嗎？", "a": "可以，而且效果非常好：放 −18°C 冷凍 6～18 個月品質仍佳。帶殼生凍或加水凍成冰磚保護最好。"},
+      {"q": "生蝦放冰箱可以放多久？", "a": "在 4°C 以下、盡量低溫（鋪冰塊）的環境冷藏，從購買日起 1～3 天。"},
+      {"q": "蝦子有阿摩尼亞味代表什麼？", "a": "代表已經腐敗，必須丟棄。新鮮的蝦聞起來乾淨、帶淡淡海味；阿摩尼亞味沖洗也去不掉。"}
+    ]
+  },
+  "ja": {
+    "name": "えび・ザリガニ",
+    "aliases": ["エビ", "バナメイエビ", "車えび", "ザリガニ", "クレイフィッシュ"],
+    "summary": "えびやザリガニは甘みがあり身の締まった甲殻類ですが、冷たい水から離れると劣化が非常に早い食材です。生の状態では4℃以下の冷蔵で購入日から1〜3日、−18℃の冷凍で6〜18か月が目安です。",
+    "pantry": "生の甲殻類を常温に置くことはできません。えびは温まると数時間でアンモニア臭を発し、腸炎ビブリオなどの細菌も4〜60℃の危険温度帯で急速に増えます。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。",
+    "fridge": "ふた付き容器に入れ、庫内でいちばん冷える場所で4℃以下を保ちます。水切りできる器に氷を敷くのが理想で、1〜3日以内に使い切りましょう。スーパーの「生えび」は船上で急速冷凍されたものを解凍して並べていることが多いので、その場合は解凍日を起点と考え、生のまま再冷凍しないでください。",
+    "freezer": "えび・ザリガニは冷凍にきわめて強く、−18℃で6〜18か月と長く品質を保てます（安全面では長期間）。殻付きのまま生で凍らせると身がよく守られます。水を張ってブロック状に凍らせる伝統的な方法は、空気を完全に遮断できます。日付と、生か加熱済みかをラベルに書いておきましょう。",
+    "thawing": "冷蔵庫で一晩、または密閉袋のまま冷たい流水に10〜20分あてて解凍し、水気を切って拭きます。常温やぬるま湯での解凍は避けてください。中心温度63℃、または身が不透明になりゆるいC字に曲がるまで加熱します。きついO字になったら加熱しすぎです。",
+    "spoilage": [
+      "アンモニア臭や強い生臭さがする（処分の明確な合図）",
+      "殻がぬめる、身がぶよぶよで崩れる",
+      "殻の黒い斑点が身にまで広がっている、色が灰色にくすんでいる",
+      "容器に乳白色でとろみのある液が出ている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "冷凍えびを買って必要な分だけ解凍するほうが、解凍済みの売り場品より新鮮なことが多い。",
+      "殻付きのまま生で冷凍すると保護効果が高い。",
+      "解凍済みで売られていた生えびは再冷凍しない。",
+      "殻は冷凍しておくと、短時間で濃厚なだしが取れる。"
+    ],
+    "faq": [
+      {"q": "えびは冷凍できますか？", "a": "できますし非常に向いています。−18℃で6〜18か月が品質の目安。殻付きの生のまま、または水と一緒にブロックで凍らせると最もよく守れます。"},
+      {"q": "生のえびは冷蔵庫で何日もちますか？", "a": "できるだけ低温（氷の上）の4℃以下で、購入日から1〜3日です。"},
+      {"q": "えびのアンモニア臭は何を意味しますか？", "a": "傷んでいる証拠で、処分が必要です。新鮮なえびは磯の香りがほのかにする程度で、洗ってもアンモニア臭は消えません。"}
+    ]
+  },
+  "es": {
+    "name": "Camarones y cangrejos de río",
+    "aliases": ["gambas", "langostinos", "camarón", "cangrejo de río", "acociles"],
+    "summary": "Los camarones, langostinos y cangrejos de río son mariscos de carne dulce y firme que se deterioran rápido en cuanto salen del agua fría. Crudos duran 1–3 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y 6–18 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "El marisco crudo nunca debe dejarse a temperatura ambiente. Los camarones desarrollan olor a amoníaco a las pocas horas de templarse, y el vibrio y otras bacterias se multiplican rápido en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F). Deséchalos si llevan más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Guárdalos en un recipiente tapado en la parte más fría del refrigerador a 4 °C (40 °F) o menos, idealmente sobre hielo en una fuente que escurra, y úsalos en 1–3 días. La mayoría de los camarones del supermercado se congelaron en el barco y se descongelaron para el mostrador: pregunta, y si es así cuenta desde la fecha de descongelado y no los vuelvas a congelar crudos.",
+    "freezer": "Se congelan excepcionalmente bien, con buena calidad durante 6–18 meses a −18 °C (0 °F), y se mantienen seguros indefinidamente. Congélalos crudos y con cáscara, que es lo que mejor protege la carne; congelarlos en un bloque de agua es el método tradicional y excluye el aire por completo. Etiqueta con la fecha y si están crudos o cocidos.",
+    "thawing": "Descongélalos en el refrigerador durante una noche o en bolsa cerrada bajo agua fría corriente 10–20 minutos, luego escúrrelos y sécalos. Nunca los descongeles a temperatura ambiente ni en agua tibia. Cocínalos a 63 °C (145 °F) o hasta que estén opacos y curvados en una C suelta; una O apretada indica exceso de cocción.",
+    "spoilage": [
+      "Olor a amoníaco o intensamente a pescado: señal clara de desecharlos",
+      "Cáscaras viscosas o carne blanda que se deshace",
+      "Manchas negras que se extienden por la cáscara hacia la carne, o color gris y apagado",
+      "Líquido lechoso y espeso en el recipiente, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Compra camarón congelado y descongela solo lo que necesites: suele estar más fresco que el del mostrador.",
+      "Congélalos crudos y con cáscara para la mejor protección.",
+      "No vuelvas a congelar camarones crudos que se vendieron ya descongelados.",
+      "Guarda las cáscaras en el congelador para un caldo rápido e intenso."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar los camarones?", "a": "Sí, y se congelan estupendamente: 6–18 meses de buena calidad a −18 °C (0 °F). Crudos con cáscara o en un bloque de agua es como mejor se conservan."},
+      {"q": "¿Cuánto duran los camarones crudos en el refrigerador?", "a": "1–3 días desde el día de compra a 4 °C (40 °F) o menos, lo más fríos posible sobre hielo."},
+      {"q": "¿Qué significa el olor a amoníaco en los camarones?", "a": "Que se han echado a perder y hay que tirarlos. El camarón fresco huele limpio y levemente a mar; enjuagarlo no elimina ese olor."}
+    ]
+  }
+}

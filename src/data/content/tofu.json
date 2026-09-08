@@ -1,0 +1,107 @@
+{
+  "slug": "tofu",
+  "en": {
+    "name": "Tofu",
+    "aliases": ["bean curd", "soybean curd", "firm tofu", "silken tofu"],
+    "summary": "Tofu is curdled soy milk pressed into blocks, sold in water in a tub or in an aseptic carton. Refrigerated tofu keeps about 1 week from the day of purchase at 4 °C (40 °F) or below, and it freezes for about 5 months at −18 °C (0 °F), which changes its texture in a way many cooks deliberately seek out.",
+    "pantry": "Refrigerated tofu must not be stored at room temperature: it is high in moisture and protein and low in acid, which makes it a good growth medium for bacteria in the danger zone between 4 °C and 60 °C (40 °F and 140 °F). Discard tofu left out for more than 2 hours — 1 hour above 32 °C (90 °F). Shelf-stable aseptic cartons are different and can live in the cupboard until opened.",
+    "fridge": "Keep tofu in its tub on an inside shelf at 4 °C (40 °F) or below and use it within about 1 week of purchase. Once opened, submerge the leftover block in fresh cold water in a covered container and change the water daily — this simple habit adds several days of good condition. Drain and press firm tofu before cooking so it browns instead of steaming.",
+    "freezer": "Freezing tofu at −18 °C (0 °F) for about 5 months transforms it: ice crystals leave a spongy, chewy, honeycombed texture that soaks up marinade brilliantly, which is why frozen tofu is a favourite for stews and braises. Drain the block, cut it into slabs, and freeze on a tray before bagging. It stays safe indefinitely at that temperature.",
+    "thawing": "Thaw in the fridge overnight, then squeeze out the water that pours from the sponge-like texture before marinating or frying. Silken tofu freezes poorly and collapses, so keep freezing for firm and extra-firm blocks. Never thaw tofu at room temperature.",
+    "spoilage": [
+      "Sour or fermented smell instead of a mild, beany aroma",
+      "Slimy or sticky surface on the block",
+      "Water in the tub that has turned cloudy, thick or yellowish",
+      "Any mould, a beige or tan colour, or an obviously sour taste"
+    ],
+    "tips": [
+      "Change the storage water daily to extend the life of an opened block.",
+      "Press firm tofu for 20–30 minutes before frying so it crisps.",
+      "Freeze deliberately for a chewy, absorbent texture in stews.",
+      "Silken tofu does not freeze well — use it fresh in soups, sauces and desserts."
+    ],
+    "faq": [
+      {"q": "Can you freeze tofu?", "a": "Yes, at −18 °C (0 °F) for about 5 months. It becomes spongy and chewy, which is excellent for stews and marinades, though silken tofu collapses."},
+      {"q": "How long does tofu last in the fridge?", "a": "About 1 week from the day of purchase at 4 °C (40 °F) or below. Once opened, keep it submerged in fresh water and change the water daily."},
+      {"q": "Does tofu need to be kept in water?", "a": "An opened block keeps far better submerged in cold water in a covered container, with the water changed each day; unopened tubs already contain their own packing water."}
+    ]
+  },
+  "zh": {
+    "name": "豆腐",
+    "aliases": ["板豆腐", "嫩豆腐", "傳統豆腐", "盒裝豆腐", "老豆腐"],
+    "summary": "豆腐是把豆漿凝固後壓製成塊的食品，市售有泡水的盒裝，也有常溫的無菌包裝。冷藏豆腐從購買日起在 4°C 以下約可放 1 週；放 −18°C 冷凍約 5 個月，而冷凍造成的質地改變，是很多料理人刻意追求的效果。",
+    "pantry": "冷藏販售的豆腐不能放室溫：它水分和蛋白質高、酸度低，在 4～60°C 的危險溫度帶是細菌很好的生長環境。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。常溫無菌包裝的豆腐是另一回事，開封前可以放櫥櫃。",
+    "fridge": "連盒放在冰箱內層層架，維持 4°C 以下，購買後約 1 週內用完。開封後把剩下的豆腐泡在乾淨的冷水裡、裝在有蓋容器中，每天換水——這個簡單的習慣可以多維持好幾天的好狀態。板豆腐煎之前先瀝乾壓水，才會上色而不是出水變蒸。",
+    "freezer": "放 −18°C 冷凍約 5 個月會徹底改變豆腐：冰晶會留下海綿般的蜂窩狀組織，口感變得有嚼勁，而且超級會吸醬汁，所以凍豆腐特別適合燉煮和紅燒。請先瀝乾、切成片狀，在烤盤上凍硬後再裝袋。在該溫度下安全上可以無限期保存。",
+    "thawing": "放冷藏室解凍一晚，之後把海綿組織裡湧出的水擠掉，再醃或油煎。嫩豆腐冷凍效果差、會整個垮掉，所以只冷凍板豆腐或更硬的豆腐。絕對不要在室溫解凍。",
+    "spoilage": [
+      "不是溫和的豆香，而是酸味或發酵味",
+      "豆腐表面黏滑、發黏",
+      "盒裡的水變混濁、濃稠或泛黃",
+      "出現任何黴、顏色轉米黃或褐黃，或吃起來明顯發酸"
+    ],
+    "tips": [
+      "開封後每天換水，可以延長保存狀態。",
+      "板豆腐先壓水 20～30 分鐘再煎，才會酥。",
+      "刻意冷凍做成凍豆腐，燉煮時有嚼勁又超吸味。",
+      "嫩豆腐不適合冷凍，趁新鮮做湯、醬汁或甜點。"
+    ],
+    "faq": [
+      {"q": "豆腐可以冷凍嗎？", "a": "可以，放 −18°C 冷凍約 5 個月。質地會變成海綿狀有嚼勁，很適合燉煮和醃漬，但嫩豆腐會垮掉。"},
+      {"q": "豆腐放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起約 1 週。開封後泡在乾淨冷水裡並每天換水。"},
+      {"q": "豆腐一定要泡在水裡嗎？", "a": "開封後泡在冷水裡、裝有蓋容器並每天換水，保存狀態會好很多；未開封的盒裝本來就有包裝水。"}
+    ]
+  },
+  "ja": {
+    "name": "豆腐",
+    "aliases": ["木綿豆腐", "絹ごし豆腐", "とうふ", "パック豆腐", "充填豆腐"],
+    "summary": "豆腐は豆乳を凝固させて成形した食品で、水に浸したパック入りや、常温保存できる充填タイプがあります。冷蔵の豆腐は4℃以下で購入日から約1週間、−18℃の冷凍なら約5か月。冷凍による食感の変化は、多くの料理人があえて求めるものでもあります。",
+    "pantry": "冷蔵の豆腐を常温に置くことはできません。水分とたんぱく質が多く酸度が低いため、4〜60℃の危険温度帯では細菌が育ちやすい食品です。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。常温保存可の充填豆腐は別で、開封するまで棚に置けます。",
+    "fridge": "パックのまま庫内の棚で4℃以下を保ち、購入から約1週間で使い切ります。開封後は、残りを新しい冷水に浸してふた付き容器に入れ、毎日水を替えましょう。この簡単な習慣で数日ぶん状態が保てます。木綿豆腐は焼く前に水切りをすると、蒸れずに香ばしく色づきます。",
+    "freezer": "−18℃で約5か月冷凍すると、豆腐は大きく変化します。氷の結晶によってスポンジ状の穴が開き、弾力のある食感になり、味をよく吸うようになります。これが凍り豆腐が煮物に好まれる理由です。水を切って板状に切り、天板で凍らせてから袋に移してください。この温度なら安全面では長期間保存できます。",
+    "thawing": "冷蔵庫で一晩解凍し、スポンジ状の組織から出てくる水をしっかり絞ってから、下味をつけたり焼いたりします。絹ごし豆腐は冷凍に向かず崩れてしまうので、冷凍は木綿以上の硬さのものに限りましょう。常温解凍は避けてください。",
+    "spoilage": [
+      "穏やかな大豆の香りではなく、酸っぱいにおいや発酵臭がする",
+      "表面がぬめる・べたつく",
+      "パックの水が濁る、とろみが出る、黄ばんでいる",
+      "カビがある、色がベージュや茶色がかっている、明らかに酸っぱい味がする"
+    ],
+    "tips": [
+      "開封後は毎日水を替えると長もちする。",
+      "木綿豆腐は20〜30分水切りしてから焼くとカリッとする。",
+      "あえて冷凍して凍り豆腐にすると、煮物で味がよくしみる。",
+      "絹ごしは冷凍に不向き。新鮮なうちに汁物やソース、デザートに。"
+    ],
+    "faq": [
+      {"q": "豆腐は冷凍できますか？", "a": "できます。−18℃で約5か月。スポンジ状で弾力のある食感になり煮物や漬け込みに向きますが、絹ごしは崩れてしまいます。"},
+      {"q": "豆腐は冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から約1週間です。開封後は新しい冷水に浸し、毎日水を替えてください。"},
+      {"q": "豆腐は水に浸けておく必要がありますか？", "a": "開封した豆腐は、冷水に浸してふた付き容器に入れ毎日水を替えると格段に長もちします。未開封のパックには元から水が入っています。"}
+    ]
+  },
+  "es": {
+    "name": "Tofu",
+    "aliases": ["queso de soya", "cuajada de soja", "tofu firme", "tofu sedoso"],
+    "summary": "El tofu es leche de soya cuajada y prensada en bloques, que se vende en agua dentro de una tarrina o en envase aséptico. El tofu refrigerado dura alrededor de 1 semana desde la compra a 4 °C (40 °F) o menos, y se congela unos 5 meses a −18 °C (0 °F), lo que cambia su textura de una forma que muchos cocineros buscan a propósito.",
+    "pantry": "El tofu refrigerado no puede guardarse a temperatura ambiente: tiene mucha humedad y proteína y poca acidez, un buen medio para las bacterias en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F). Deséchalo si lleva más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)—. Los envases asépticos de larga duración son otra cosa y pueden estar en la alacena hasta abrirse.",
+    "fridge": "Guarda el tofu en su tarrina en un estante interior a 4 °C (40 °F) o menos y úsalo en aproximadamente 1 semana desde la compra. Al abrirlo, sumerge el bloque restante en agua fría limpia dentro de un recipiente tapado y cambia el agua a diario: ese pequeño hábito añade varios días de buen estado. Escurre y prensa el tofu firme antes de cocinarlo para que dore en vez de cocerse al vapor.",
+    "freezer": "Congelar el tofu a −18 °C (0 °F) unos 5 meses lo transforma: los cristales de hielo dejan una textura esponjosa y masticable, llena de alveolos, que absorbe los adobos de maravilla; por eso el tofu congelado es un favorito para guisos. Escurre el bloque, córtalo en láminas y congélalo en bandeja antes de embolsarlo. A esa temperatura se mantiene seguro indefinidamente.",
+    "thawing": "Descongélalo en el refrigerador durante una noche y escurre a mano el agua que suelta la textura esponjosa antes de marinarlo o freírlo. El tofu sedoso se congela mal y se desmorona, así que reserva la congelación para bloques firmes o extrafirmes. Nunca lo descongeles a temperatura ambiente.",
+    "spoilage": [
+      "Olor agrio o fermentado en lugar de un aroma suave a soya",
+      "Superficie viscosa o pegajosa en el bloque",
+      "Agua de la tarrina turbia, espesa o amarillenta",
+      "Cualquier moho, color beige o pardo, o sabor claramente ácido"
+    ],
+    "tips": [
+      "Cambia a diario el agua de conservación para alargar la vida de un bloque abierto.",
+      "Prensa el tofu firme 20–30 minutos antes de freírlo para que quede crujiente.",
+      "Congélalo a propósito si quieres una textura masticable y absorbente para guisos.",
+      "El tofu sedoso no se congela bien: úsalo fresco en sopas, salsas y postres."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el tofu?", "a": "Sí, a −18 °C (0 °F) durante unos 5 meses. Queda esponjoso y masticable, excelente para guisos y adobos, aunque el sedoso se desmorona."},
+      {"q": "¿Cuánto dura el tofu en el refrigerador?", "a": "Alrededor de 1 semana desde el día de compra a 4 °C (40 °F) o menos. Abierto, mantenlo sumergido en agua limpia y cámbiala a diario."},
+      {"q": "¿Hay que guardar el tofu en agua?", "a": "Un bloque abierto se conserva mucho mejor sumergido en agua fría en un recipiente tapado, cambiándola cada día; las tarrinas sin abrir ya traen su propia agua."}
+    ]
+  }
+}

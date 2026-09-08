@@ -1,0 +1,107 @@
+{
+  "slug": "squash-winter",
+  "en": {
+    "name": "Winter squash",
+    "aliases": ["butternut squash", "acorn squash", "kabocha", "spaghetti squash", "hubbard squash"],
+    "summary": "Winter squash is harvested mature with a hard rind that seals in moisture, which is why it stores for months. In a cool pantry it keeps 2–6 weeks from the date of purchase, refrigerated 1–3 months, and cooked and frozen 10–12 months.",
+    "pantry": "A cool, dry, dark spot with air circulation keeps a whole winter squash 2–6 weeks from purchase, with dense varieties like butternut and kabocha at the longer end. Leave the stem attached, since a broken stem invites rot, and stand the squash on a board rather than a cold floor. Do not store cut squash at room temperature.",
+    "fridge": "In the fridge at 4 °C (40 °F) or below, whole winter squash keeps 1–3 months from purchase, which is longer than the pantry although it takes up a lot of space. Cut squash must be wrapped tightly or kept in an airtight container and used within a few days, as the exposed flesh dries and can mould.",
+    "freezer": "Winter squash freezes for 10–12 months from purchase at −18 °C (0 °F) once cooked. Roast or steam the flesh until tender, purée or cube it, cool completely and freeze in airtight portions. Raw squash cubes can also be frozen, though the texture softens noticeably on cooking.",
+    "thawing": "Thaw purée in the fridge overnight, or add frozen cubes straight to soups, curries and roasting trays. Drain any separated liquid before using the purée in baking.",
+    "spoilage": [
+      "Soft, sunken or weeping patches on the rind",
+      "Mould around the stem or on the base",
+      "Broken or missing stem with rot spreading underneath",
+      "Slimy, sour-smelling flesh inside a cut squash"
+    ],
+    "tips": [
+      "Choose a squash with an intact, dry stem and a hard, dull rind",
+      "Stand it on a board or cloth so the base stays dry",
+      "Roast and purée a whole squash at once, then freeze in portions",
+      "Save and roast the seeds instead of throwing them away"
+    ],
+    "faq": [
+      {"q": "How long does butternut squash last?", "a": "2–6 weeks from purchase whole in a cool, dry pantry, or 1–3 months in the fridge. Cut squash should be used within a few days."},
+      {"q": "Can you freeze winter squash?", "a": "Yes. Cook it, purée or cube it, cool it and freeze in airtight portions for 10–12 months at −18 °C (0 °F). Raw cubes freeze too, but soften more."},
+      {"q": "How do you store cut winter squash?", "a": "Wrap it tightly or put it in an airtight container in the fridge at 4 °C (40 °F) or below, and use it within a few days."}
+    ]
+  },
+  "zh": {
+    "name": "冬南瓜",
+    "aliases": ["奶油南瓜", "橡實南瓜", "栗子南瓜", "金絲瓜", "butternut"],
+    "summary": "冬南瓜是完全成熟後才採收的，硬皮能把水分鎖在裡面，所以可以保存好幾個月。放在陰涼的櫥櫃，從購買日起可放 2～6 週，冷藏 1～3 個月，煮熟後冷凍則可保存 10～12 個月。",
+    "pantry": "陰涼、乾燥、避光又通風的地方，可以讓整顆冬南瓜從購買日起放 2～6 週，奶油南瓜、栗子南瓜這類密度高的品種可以接近長端。蒂頭要保留，斷掉的蒂頭會招來腐敗；也要墊在木板上，不要直接放在冰冷的地板。切開的南瓜不可以放在室溫。",
+    "fridge": "整顆冬南瓜放進 4°C 以下的冰箱，從購買日起可放 1～3 個月，比放櫥櫃更久，只是很佔空間。切開的南瓜必須用保鮮膜緊貼包好或裝密封盒，並在幾天內用完，因為裸露的果肉會變乾，也可能發霉。",
+    "freezer": "冬南瓜煮熟後放 −18°C 冷凍，從購買日起可保存 10～12 個月。把果肉烤過或蒸到軟，打成泥或切塊，完全放涼後分裝密封冷凍。生的南瓜塊也可以冷凍，只是煮出來的口感會明顯偏軟。",
+    "thawing": "南瓜泥放冷藏室退冰一晚，或把冷凍南瓜塊直接加進湯品、咖哩或烤盤。用在烘焙前，記得把分離出來的水倒掉。",
+    "spoilage": [
+      "外皮出現軟軟凹陷或滲汁的斑塊",
+      "蒂頭周圍或底部長黴",
+      "蒂頭斷掉或不見，底下開始腐爛擴散",
+      "切開的南瓜果肉黏滑、聞起來發酸"
+    ],
+    "tips": [
+      "挑蒂頭完整乾燥、外皮硬而不反光的",
+      "墊在木板或布上，讓底部保持乾燥",
+      "一整顆一次烤好打成泥，再分裝冷凍",
+      "南瓜籽留下來烤過，不要直接丟掉"
+    ],
+    "faq": [
+      {"q": "奶油南瓜可以放多久？", "a": "整顆放陰涼乾燥的櫥櫃，從購買日起 2～6 週；冷藏則 1～3 個月。切開的請在幾天內用完。"},
+      {"q": "冬南瓜可以冷凍嗎？", "a": "可以。煮熟後打成泥或切塊，放涼分裝密封，放 −18°C 冷凍 10～12 個月。生的南瓜塊也能冷凍，只是口感更軟。"},
+      {"q": "切開的冬南瓜怎麼保存？", "a": "用保鮮膜緊貼包好或裝進密封盒，放 4°C 以下冷藏，並在幾天內用完。"}
+    ]
+  },
+  "ja": {
+    "name": "冬かぼちゃ（西洋かぼちゃ類）",
+    "aliases": ["バターナッツ", "坊ちゃんかぼちゃ", "そうめんかぼちゃ", "ドングリかぼちゃ", "冬カボチャ"],
+    "summary": "冬かぼちゃは完熟してから収穫され、硬い皮が水分を閉じ込めるため、数か月保存できます。涼しい食品庫なら購入日から2〜6週間、冷蔵なら1〜3か月、加熱して冷凍すれば10〜12か月持ちます。",
+    "pantry": "涼しく乾燥した暗く風通しのよい場所なら、丸ごとで購入日から2〜6週間持ち、バターナッツや栗かぼちゃのような身の詰まった品種は長めです。ヘタは残しましょう。折れたヘタから腐敗が入ります。冷たい床に直接置かず、板の上に。切ったかぼちゃを常温に置いてはいけません。",
+    "fridge": "4℃以下の冷蔵庫なら丸ごとで購入日から1〜3か月と常温より長持ちしますが、場所を大きく取ります。切ったものはぴったり包むか密閉容器に入れ、数日以内に使い切りましょう。むき出しの果肉は乾き、カビることもあります。",
+    "freezer": "加熱してから−18℃で冷凍すれば、購入日から10〜12か月保存できます。焼くか蒸してやわらかくし、ピューレか角切りにして完全に冷ましてから小分け密閉を。生の角切りも冷凍できますが、加熱後の食感はかなりやわらかくなります。",
+    "thawing": "ピューレは冷蔵庫で一晩解凍を。角切りは凍ったままスープやカレー、天板に加えられます。焼き菓子に使う場合は、分離した水分を切ってから使いましょう。",
+    "spoilage": [
+      "皮にやわらかくへこんだ部分や、汁のしみ出た部分がある",
+      "ヘタのまわりや接地面にカビがある",
+      "ヘタが折れて、その下から腐敗が広がっている",
+      "切ったかぼちゃの果肉がぬめる、酸っぱいにおいがする"
+    ],
+    "tips": [
+      "ヘタが乾いて残り、皮が硬くつやのないものを選びましょう",
+      "板や布の上に置き、底面を乾いた状態に保ちましょう",
+      "1個まるごと焼いてピューレにし、小分け冷凍しておくと便利です",
+      "種は捨てずにローストして活用しましょう"
+    ],
+    "faq": [
+      {"q": "バターナッツかぼちゃはどのくらい持ちますか？", "a": "丸ごとなら涼しく乾燥した場所で購入日から2〜6週間、冷蔵で1〜3か月です。切ったものは数日以内に使い切りましょう。"},
+      {"q": "冬かぼちゃは冷凍できますか？", "a": "できます。加熱してピューレか角切りにし、冷まして小分け密閉で−18℃で10〜12か月。生の角切りも冷凍できますが食感はやわらかくなります。"},
+      {"q": "切った冬かぼちゃはどう保存しますか？", "a": "ぴったり包むか密閉容器に入れ、4℃以下で冷蔵し、数日以内に使い切ってください。"}
+    ]
+  },
+  "es": {
+    "name": "Calabaza de invierno",
+    "aliases": ["calabaza cacahuete", "butternut", "calabaza bellota", "kabocha", "calabaza espagueti"],
+    "summary": "La calabaza de invierno se recolecta madura, con una corteza dura que retiene la humedad, y por eso se conserva meses. En una despensa fresca dura 2–6 semanas desde la compra, refrigerada 1–3 meses, y cocinada y congelada 10–12 meses.",
+    "pantry": "Un sitio fresco, seco, oscuro y con circulación de aire mantiene una calabaza entera 2–6 semanas desde la compra, y las variedades densas como la butternut o la kabocha llegan al extremo largo. Deja el pedúnculo puesto, porque uno roto invita a la podredumbre, y apóyala sobre una tabla y no sobre un suelo frío. No guardes calabaza cortada a temperatura ambiente.",
+    "fridge": "En la nevera a 4 °C (40 °F) o menos, la calabaza entera dura 1–3 meses desde la compra, más que en despensa aunque ocupe mucho sitio. La calabaza cortada debe envolverse bien o guardarse en un recipiente hermético y usarse en pocos días, porque la pulpa expuesta se seca y puede enmohecer.",
+    "freezer": "Se congela 10–12 meses desde la compra a −18 °C (0 °F) una vez cocinada. Ásala o cuécela al vapor hasta que esté tierna, tritúrala o córtala en dados, enfríala del todo y congélala en porciones herméticas. Los dados crudos también pueden congelarse, aunque su textura se ablanda bastante al cocinarlos.",
+    "thawing": "Descongela el puré en la nevera durante la noche, o añade los dados congelados directamente a sopas, currys y bandejas de horno. Escurre el líquido separado antes de usar el puré en repostería.",
+    "spoilage": [
+      "Zonas blandas, hundidas o que rezuman en la corteza",
+      "Moho alrededor del pedúnculo o en la base",
+      "Pedúnculo roto o ausente con podredumbre debajo",
+      "Pulpa viscosa y de olor agrio dentro de una calabaza cortada"
+    ],
+    "tips": [
+      "Elige una calabaza con el pedúnculo intacto y seco y la corteza dura y mate",
+      "Apóyala sobre una tabla o un paño para que la base se mantenga seca",
+      "Asa y tritura una calabaza entera de una vez y congélala en porciones",
+      "Guarda y tuesta las semillas en lugar de tirarlas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la calabaza cacahuete?", "a": "2–6 semanas desde la compra entera en una despensa fresca y seca, o 1–3 meses en la nevera. La cortada debe usarse en pocos días."},
+      {"q": "¿Se puede congelar la calabaza de invierno?", "a": "Sí. Cocínala, tritúrala o córtala en dados, enfríala y congélala en porciones herméticas 10–12 meses a −18 °C (0 °F). Los dados crudos también, pero se ablandan más."},
+      {"q": "¿Cómo se guarda la calabaza de invierno cortada?", "a": "Envuélvela bien o ponla en un recipiente hermético en la nevera a 4 °C (40 °F) o menos y úsala en pocos días."}
+    ]
+  }
+}

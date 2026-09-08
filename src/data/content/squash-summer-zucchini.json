@@ -1,0 +1,107 @@
+{
+  "slug": "squash-summer-zucchini",
+  "en": {
+    "name": "Courgette and summer squash",
+    "aliases": ["zucchini", "courgette", "yellow squash", "pattypan", "marrow"],
+    "summary": "Courgettes and summer squash are picked young with thin, edible skins, which is why they do not last like winter squash. At room temperature they keep 1–5 days from the date of purchase, refrigerated 4–5 days, and blanched and frozen 10–12 months.",
+    "pantry": "A cool spot out of direct sun holds courgettes 1–5 days from purchase, with firmer, unblemished ones lasting longest. They bruise easily and any nick in the thin skin spreads into a soft spot within a day. Do not stack them, and move them to the fridge if the kitchen is warm.",
+    "fridge": "Store courgettes whole and unwashed in a perforated bag in the crisper at 4 °C (40 °F) or below, where they keep 4–5 days from purchase. They suffer chilling injury in very cold spots, so use the warmest drawer, and do not seal them in plastic, since trapped moisture turns the skin slimy.",
+    "freezer": "Courgettes freeze for 10–12 months from purchase at −18 °C (0 °F) if blanched first. Slice or grate them, blanch slices for 3 minutes or grated courgette for 1 minute, plunge into iced water, drain and squeeze out as much water as possible, then bag. Frozen courgette is soft, so use it in soups, bakes and cakes.",
+    "thawing": "Add frozen sliced courgette straight to soups and stews. For baking, thaw grated courgette in the fridge and squeeze out the water thoroughly before mixing it into a batter.",
+    "spoilage": [
+      "Soft, wrinkled skin or a squashy end",
+      "Slimy or wet patches where the skin has broken",
+      "Hollow, cottony or bitter flesh when cut",
+      "Mould at the stem or blossom end"
+    ],
+    "tips": [
+      "Choose small to medium courgettes with glossy, unblemished skin",
+      "Do not seal them in plastic; a perforated bag prevents sliminess",
+      "Grate and freeze a glut in recipe-sized portions for cakes and fritters",
+      "Squeeze grated courgette hard before baking with it, or the batter turns wet"
+    ],
+    "faq": [
+      {"q": "How long do courgettes last in the fridge?", "a": "4–5 days from purchase at 4 °C (40 °F) or below, kept whole and unwashed in a perforated bag in the crisper drawer."},
+      {"q": "Can you freeze courgettes?", "a": "Yes, if blanched first — 3 minutes for slices, 1 minute grated — then chilled, squeezed dry and bagged. They keep 10–12 months at −18 °C (0 °F)."},
+      {"q": "Why did my courgette taste bitter?", "a": "Bitterness comes from cucurbitacin compounds, more common in large, overgrown or stressed fruit. If a courgette tastes strongly bitter, do not eat it."}
+    ]
+  },
+  "zh": {
+    "name": "櫛瓜與夏南瓜",
+    "aliases": ["櫛瓜", "節瓜", "夏南瓜", "黃櫛瓜", "zucchini"],
+    "summary": "櫛瓜和夏南瓜是趁嫩採收的，外皮薄而且可以吃，所以不像冬南瓜那麼耐放。室溫下從購買日起可放 1～5 天，冷藏 4～5 天，燙過後冷凍則可保存 10～12 個月。",
+    "pantry": "放在陰涼不曬太陽的地方，櫛瓜從購買日起可放 1～5 天，愈結實無傷的可以放愈久。它很容易碰傷，薄皮上只要有一個小破口，一天內就會擴散成軟斑。不要堆疊，如果廚房偏熱就直接移到冰箱。",
+    "fridge": "整條不清洗，裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 4～5 天。它在太冷的地方會有寒害，所以請用最不冷的抽屜；也不要密封在塑膠袋裡，悶住的水氣會讓表皮變黏滑。",
+    "freezer": "櫛瓜先汆燙再冷凍，放 −18°C，從購買日起可保存 10～12 個月。切片或刨絲後，切片燙 3 分鐘、刨絲的燙 1 分鐘，撈起泡冰水，瀝乾並盡量擠掉水分，再裝袋。冷凍櫛瓜口感偏軟，適合做湯、焗烤和蛋糕。",
+    "thawing": "冷凍櫛瓜片可以直接丟進湯和燉菜。做烘焙的話，刨絲的請放冷藏室退冰，並在拌進麵糊前徹底擠乾水分。",
+    "spoilage": [
+      "外皮變軟起皺，或某一端塌軟",
+      "破皮的地方變得黏滑或濕爛",
+      "切開後果肉中空、呈棉絮狀，或吃起來發苦",
+      "蒂頭或底部凹陷處長黴"
+    ],
+    "tips": [
+      "挑中小型、外皮油亮沒有傷痕的",
+      "不要密封在塑膠袋裡，用打洞袋可以避免變黏滑",
+      "一次太多就刨絲，依每次用量分裝冷凍，做蛋糕或煎餅都好用",
+      "刨絲的櫛瓜拌進麵糊前一定要用力擠乾，否則麵糊會太濕"
+    ],
+    "faq": [
+      {"q": "櫛瓜放冰箱可以放多久？", "a": "整條不清洗、裝在打洞袋裡收在蔬果保鮮室，放 4°C 以下，從購買日起 4～5 天。"},
+      {"q": "櫛瓜可以冷凍嗎？", "a": "可以，但要先汆燙——切片 3 分鐘、刨絲 1 分鐘——再冰鎮、擠乾裝袋。放 −18°C 可保存 10～12 個月。"},
+      {"q": "我的櫛瓜為什麼吃起來苦苦的？", "a": "苦味來自葫蘆素，在過大、過老或生長逆境下的果實比較常見。如果嚐起來明顯發苦，請不要吃。"}
+    ]
+  },
+  "ja": {
+    "name": "ズッキーニ・夏かぼちゃ",
+    "aliases": ["ズッキーニ", "夏カボチャ", "サマースクワッシュ", "パティパン", "黄ズッキーニ"],
+    "summary": "ズッキーニや夏かぼちゃは若いうちに収穫され、皮が薄くそのまま食べられるため、冬かぼちゃほど日持ちしません。常温では購入日から1〜5日、冷蔵で4〜5日、下ゆでして冷凍すれば10〜12か月保存できます。",
+    "pantry": "直射日光を避けた涼しい場所なら購入日から1〜5日持ち、傷のない張りのあるものほど長持ちします。傷つきやすく、薄い皮に小さな傷があると1日でやわらかい部分に広がります。重ねずに置き、台所が暖かければ冷蔵庫へ移しましょう。",
+    "fridge": "丸のまま洗わず、穴あき袋に入れて4℃以下の野菜室で保存すれば、購入日から4〜5日持ちます。冷えすぎると低温障害を起こすので庫内で最も温度の高い引き出しに入れ、ポリ袋で密閉しないでください。こもった湿気で皮がぬめります。",
+    "freezer": "下ゆですれば−18℃で購入日から10〜12か月冷凍できます。スライスかすりおろしにし、スライスは3分、すりおろしは1分ゆで、氷水に取り、水気をできるだけ絞ってから袋へ。冷凍するとやわらかくなるので、スープやグラタン、ケーキ向きです。",
+    "thawing": "冷凍したスライスはそのままスープや煮込みへ。焼き菓子に使う場合は、すりおろしを冷蔵庫で解凍し、生地に混ぜる前にしっかり水気を絞りましょう。",
+    "spoilage": [
+      "皮がやわらかくしわが寄る、端がぶよぶよしている",
+      "皮が破れた部分がぬめる、濡れている",
+      "切ると中が空洞、綿のよう、または苦い",
+      "ヘタや花落ちの部分にカビが出ている"
+    ],
+    "tips": [
+      "小〜中サイズで、皮につやがあり傷のないものを選びましょう",
+      "ポリ袋で密閉せず、穴あき袋にするとぬめりを防げます",
+      "多いときはすりおろして1回分ずつ冷凍を。ケーキやお焼きに便利です",
+      "すりおろしは生地に混ぜる前にしっかり絞らないと、水っぽくなります"
+    ],
+    "faq": [
+      {"q": "ズッキーニは冷蔵庫でどのくらい持ちますか？", "a": "丸のまま洗わず穴あき袋に入れて野菜室に置き、4℃以下で購入日から4〜5日です。"},
+      {"q": "ズッキーニは冷凍できますか？", "a": "できます。スライスは3分、すりおろしは1分下ゆでして冷やし、絞って袋へ。−18℃で10〜12か月です。"},
+      {"q": "ズッキーニが苦いのはなぜですか？", "a": "ククルビタシンという成分によるもので、大きくなりすぎた実やストレスを受けた実に多く見られます。はっきり苦い場合は食べないでください。"}
+    ]
+  },
+  "es": {
+    "name": "Calabacín y calabaza de verano",
+    "aliases": ["calabacín", "zucchini", "zapallito", "calabaza amarilla", "pattypan"],
+    "summary": "Los calabacines y las calabazas de verano se recolectan jóvenes, con piel fina y comestible, y por eso no duran como las de invierno. A temperatura ambiente se mantienen 1–5 días desde la compra, refrigerados 4–5 días, y escaldados y congelados 10–12 meses.",
+    "pantry": "Un sitio fresco fuera del sol directo mantiene los calabacines 1–5 días desde la compra, y los más firmes y sin marcas duran más. Se magullan con facilidad y cualquier corte en la piel fina se convierte en una zona blanda en un día. No los apiles y pásalos a la nevera si la cocina está caldeada.",
+    "fridge": "Guarda los calabacines enteros y sin lavar en una bolsa perforada en el cajón de verduras a 4 °C (40 °F) o menos, donde duran 4–5 días desde la compra. Sufren daño por frío en zonas muy frías, así que usa el cajón más templado, y no los selles en plástico, porque la humedad retenida vuelve la piel viscosa.",
+    "freezer": "Se congelan 10–12 meses desde la compra a −18 °C (0 °F) si los escaldas antes. Córtalos en rodajas o rállalos, escalda las rodajas 3 minutos o el rallado 1 minuto, pásalos a agua helada, escúrrelos y estruja todo el agua posible, y embólsalos. Congelado queda blando, así que úsalo en sopas, horneados y bizcochos.",
+    "thawing": "Añade las rodajas congeladas directamente a sopas y guisos. Para repostería, descongela el calabacín rallado en la nevera y estruja bien el agua antes de incorporarlo a la masa.",
+    "spoilage": [
+      "Piel blanda y arrugada o un extremo hundido",
+      "Zonas viscosas o húmedas donde la piel se ha roto",
+      "Pulpa hueca, algodonosa o amarga al cortarla",
+      "Moho en el pedúnculo o en la base floral"
+    ],
+    "tips": [
+      "Elige calabacines pequeños o medianos con piel brillante y sin marcas",
+      "No los selles en plástico; una bolsa perforada evita la viscosidad",
+      "Ralla y congela el excedente en porciones de receta para bizcochos y buñuelos",
+      "Estruja bien el calabacín rallado antes de hornear con él o la masa quedará húmeda"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los calabacines en la nevera?", "a": "4–5 días desde la compra a 4 °C (40 °F) o menos, enteros y sin lavar en una bolsa perforada en el cajón de verduras."},
+      {"q": "¿Se pueden congelar los calabacines?", "a": "Sí, si los escaldas antes —3 minutos en rodajas, 1 minuto rallados—, los enfrías, los estrujas y los embolsas. Duran 10–12 meses a −18 °C (0 °F)."},
+      {"q": "¿Por qué mi calabacín sabía amargo?", "a": "El amargor viene de las cucurbitacinas, más frecuentes en frutos grandes, pasados o que han sufrido estrés. Si sabe claramente amargo, no lo comas."}
+    ]
+  }
+}

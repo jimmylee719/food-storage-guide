@@ -1,0 +1,107 @@
+{
+  "slug": "guacamole",
+  "en": {
+    "name": "Guacamole",
+    "aliases": ["avocado dip", "mashed avocado", "guac", "avocado salsa"],
+    "summary": "Guacamole is mashed ripe avocado with lime, onion, chilli and coriander, made fresh or bought chilled. It keeps 3–4 days in the fridge at 4 °C (40 °F) or below and 3–4 months in the freezer at −18 °C (0 °F), where it survives far better than most people expect.",
+    "pantry": "Guacamole must not be left at room temperature. Avocado is low in acid and high in moisture, and the raw onion and coriander add their own bacteria, so it spoils quickly in the danger zone between 4 °C and 60 °C (40 °F and 140 °F). Discard a bowl left out at a party for more than 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Press plastic wrap directly onto the surface so no air touches it, or smooth the top and pour a thin layer of water over it, which you tip off before serving. Either method keeps the browning to a minimum. Store at 4 °C (40 °F) or below for 3–4 days; the avocado stone does very little, despite the popular belief.",
+    "freezer": "Guacamole freezes surprisingly well for 3–4 months at −18 °C (0 °F), where it stays safe indefinitely. Plain mashed avocado with lime freezes best; chunky versions with tomato and onion become watery, so leave those additions out and stir them in fresh after thawing. Freeze it flat in a bag with the air pressed out.",
+    "thawing": "Thaw in the fridge overnight, then stir vigorously to bring the texture back together and refresh it with extra lime, salt and chopped onion. Do not thaw guacamole at room temperature or refreeze it once thawed.",
+    "spoilage": [
+      "Sour, fermented or alcoholic smell rather than a fresh, grassy avocado aroma",
+      "Mould of any colour on the surface",
+      "Watery liquid separating out with an off smell",
+      "Deep brown or grey-black colour all the way through, not just a thin surface layer"
+    ],
+    "tips": [
+      "Press cling film flat onto the surface — air, not the stone, is what causes browning.",
+      "Extra lime juice both slows browning and improves the flavour.",
+      "Freeze plain avocado and lime, then add tomato and onion after thawing.",
+      "Serve small amounts from the fridge rather than leaving a big bowl out."
+    ],
+    "faq": [
+      {"q": "Can you freeze guacamole?", "a": "Yes, for 3–4 months at −18 °C (0 °F). Plain avocado with lime freezes best; add tomato and onion fresh after thawing."},
+      {"q": "How long does guacamole last in the fridge?", "a": "3–4 days at 4 °C (40 °F) or below with plastic wrap pressed onto the surface."},
+      {"q": "Does the avocado stone stop guacamole browning?", "a": "Barely. It only protects the small area it covers. Excluding air with plastic wrap pressed onto the surface, or a thin layer of water, works far better."}
+    ]
+  },
+  "zh": {
+    "name": "酪梨莎莎醬（guacamole）",
+    "aliases": ["酪梨醬", "牛油果醬", "墨西哥酪梨醬", "酪梨沾醬"],
+    "summary": "Guacamole 是把熟酪梨壓成泥，加上萊姆、洋蔥、辣椒和香菜的墨西哥沾醬，可以現做或買冷藏包裝。在 4°C 以下冷藏可放 3～4 天；放 −18°C 冷凍可放 3～4 個月，效果比多數人以為的好得多。",
+    "pantry": "酪梨醬不能放室溫。酪梨酸度低、水分高，生洋蔥和香菜又帶進自己的細菌，因此在 4～60°C 的危險溫度帶會很快變質。聚會時放在桌上超過 2 小時（氣溫超過 32°C 時 1 小時）的就要丟棄。",
+    "fridge": "把保鮮膜直接壓在醬的表面，不要留空氣；或者把表面抹平後倒一層薄薄的水，要吃之前再倒掉。兩種方法都能把褐變降到最低。放 4°C 以下冷藏 3～4 天；至於「放酪梨籽可以防變色」的說法，其實幾乎沒有用。",
+    "freezer": "酪梨醬其實很適合冷凍，放 −18°C 可以放 3～4 個月，安全上可以無限期保存。單純的酪梨泥加萊姆汁冷凍效果最好；加了番茄和洋蔥的塊狀版本會出水，建議先不要加，解凍後再拌入新鮮的。裝袋壓平、擠出空氣後冷凍。",
+    "thawing": "放冷藏室解凍一晚，之後用力攪拌讓質地重新結合，再補一點萊姆汁、鹽和切碎的洋蔥提味。不要在室溫解凍，解凍後也不要再冷凍。",
+    "spoilage": [
+      "不是新鮮清爽的酪梨香，而是酸味、發酵味或酒精味",
+      "表面出現任何顏色的黴",
+      "分離出水且帶有異味",
+      "整體都變成深褐或灰黑色，而不只是表面薄薄一層"
+    ],
+    "tips": [
+      "保鮮膜緊貼表面——造成褐變的是空氣，不是有沒有放籽。",
+      "多擠一點萊姆汁，既延緩褐變又提味。",
+      "只用酪梨和萊姆冷凍，番茄和洋蔥等解凍後再加。",
+      "從冰箱少量分裝上桌，不要整大碗放在外面。"
+    ],
+    "faq": [
+      {"q": "酪梨醬可以冷凍嗎？", "a": "可以，放 −18°C 冷凍 3～4 個月。純酪梨加萊姆效果最好，番茄和洋蔥等解凍後再加。"},
+      {"q": "酪梨醬放冰箱可以放多久？", "a": "保鮮膜貼緊表面、放 4°C 以下冷藏 3～4 天。"},
+      {"q": "放酪梨籽真的能防止變色嗎？", "a": "幾乎沒用，它只能保護被蓋住的那一小塊。用保鮮膜貼緊表面或加一層薄水隔絕空氣，效果好得多。"}
+    ]
+  },
+  "ja": {
+    "name": "ワカモレ（アボカドディップ）",
+    "aliases": ["アボカドディップ", "ワカモーレ", "アボカドペースト", "グアカモーレ"],
+    "summary": "ワカモレは、熟したアボカドをつぶしてライム、玉ねぎ、唐辛子、パクチーを合わせたディップで、手作りでも冷蔵の市販品でも同様です。4℃以下の冷蔵で3〜4日、−18℃の冷凍で3〜4か月と、意外にも冷凍によく耐えます。",
+    "pantry": "ワカモレを常温に置くことはできません。アボカドは酸度が低く水分が多いうえ、生の玉ねぎやパクチーも菌を持ち込むため、4〜60℃の危険温度帯ではすぐに傷みます。パーティーで2時間以上（気温32℃以上なら1時間以上）出したままにしたものは処分してください。",
+    "fridge": "表面にラップを密着させて空気を遮断するか、平らにならしてから薄く水を張り、食べる前に流す方法が有効です。どちらも変色を最小限に抑えられます。4℃以下で3〜4日保存してください。なお「種を入れると変色しない」という説は、ほとんど効果がありません。",
+    "freezer": "ワカモレは意外に冷凍向きで、−18℃で3〜4か月（安全面では長期間）保存できます。アボカドとライムだけのシンプルなものがもっともよく、トマトや玉ねぎ入りは水っぽくなるので、それらは加えずに凍らせ、解凍後に生のものを混ぜましょう。袋に入れて平らにし、空気を抜いて冷凍します。",
+    "thawing": "冷蔵庫で一晩解凍し、しっかり混ぜて質地をなじませ、ライム汁と塩、刻んだ玉ねぎを足して味を整えます。常温解凍と、解凍後の再冷凍は避けてください。",
+    "spoilage": [
+      "みずみずしい青い香りではなく、酸っぱいにおい・発酵臭・アルコール臭がする",
+      "表面に色を問わずカビが出ている",
+      "水が分離し、異臭がする",
+      "表面の薄い層だけでなく、全体が濃い茶色や灰黒色になっている"
+    ],
+    "tips": [
+      "ラップを表面に密着させる。変色の原因は種の有無ではなく空気。",
+      "ライム汁を多めに加えると、変色を抑えつつ味も良くなる。",
+      "アボカドとライムだけで冷凍し、トマトと玉ねぎは解凍後に加える。",
+      "大きなボウルを出しっぱなしにせず、冷蔵庫から少量ずつ取り分ける。"
+    ],
+    "faq": [
+      {"q": "ワカモレは冷凍できますか？", "a": "できます。−18℃で3〜4か月。アボカドとライムだけの状態がもっとも向き、トマトや玉ねぎは解凍後に加えてください。"},
+      {"q": "ワカモレは冷蔵庫で何日もちますか？", "a": "表面にラップを密着させ、4℃以下で3〜4日です。"},
+      {"q": "アボカドの種を入れると変色を防げますか？", "a": "ほとんど防げません。種が覆う部分しか守れないためです。ラップの密着や薄い水の層で空気を遮断するほうがはるかに有効です。"}
+    ]
+  },
+  "es": {
+    "name": "Guacamole",
+    "aliases": ["dip de aguacate", "aguacate machacado", "guaca", "salsa de aguacate"],
+    "summary": "El guacamole es aguacate maduro machacado con limón, cebolla, chile y cilantro, hecho al momento o comprado refrigerado. Dura 3–4 días en el refrigerador a 4 °C (40 °F) o menos y 3–4 meses en el congelador a −18 °C (0 °F), donde aguanta mucho mejor de lo que la mayoría espera.",
+    "pantry": "El guacamole no debe quedarse a temperatura ambiente. El aguacate tiene poca acidez y mucha humedad, y la cebolla y el cilantro crudos aportan sus propias bacterias, así que se estropea rápido en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F). Desecha un bol que haya estado fuera más de 2 horas —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Pega film directamente sobre la superficie para que no la toque el aire, o alisa la parte de arriba y cúbrela con una fina capa de agua que retiras antes de servir. Ambos métodos reducen el pardeamiento al mínimo. Guárdalo a 4 °C (40 °F) o menos durante 3–4 días; el hueso, pese a la creencia popular, apenas ayuda.",
+    "freezer": "El guacamole se congela sorprendentemente bien 3–4 meses a −18 °C (0 °F), donde es seguro indefinidamente. El aguacate machacado con limón es el que mejor resiste; las versiones con tomate y cebolla quedan aguadas, así que déjalas fuera y añádelas frescas tras descongelar. Congélalo plano en una bolsa sin aire.",
+    "thawing": "Descongélalo en el refrigerador durante una noche y bátelo con energía para recomponer la textura, refrescándolo con más limón, sal y cebolla picada. No lo descongeles a temperatura ambiente ni lo vuelvas a congelar.",
+    "spoilage": [
+      "Olor agrio, fermentado o alcohólico en lugar del aroma fresco y vegetal del aguacate",
+      "Moho de cualquier color en la superficie",
+      "Líquido acuoso separado y con mal olor",
+      "Color marrón intenso o gris negruzco en toda la masa, no solo en una capa fina"
+    ],
+    "tips": [
+      "Pega el film sobre la superficie: lo que oscurece es el aire, no la falta de hueso.",
+      "Más jugo de limón frena el pardeamiento y mejora el sabor.",
+      "Congela solo aguacate y limón, y añade tomate y cebolla tras descongelar.",
+      "Sirve cantidades pequeñas desde el refrigerador en vez de dejar un bol grande fuera."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el guacamole?", "a": "Sí, 3–4 meses a −18 °C (0 °F). El aguacate solo con limón es el que mejor se congela; añade tomate y cebolla frescos después."},
+      {"q": "¿Cuánto dura el guacamole en el refrigerador?", "a": "3–4 días a 4 °C (40 °F) o menos, con film pegado sobre la superficie."},
+      {"q": "¿El hueso del aguacate evita que se oscurezca?", "a": "Apenas. Solo protege la pequeña zona que cubre. Aislar del aire con film pegado o una capa fina de agua funciona mucho mejor."}
+    ]
+  }
+}

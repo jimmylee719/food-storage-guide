@@ -1,0 +1,107 @@
+{
+  "slug": "frozen-dough-commercial",
+  "en": {
+    "name": "Commercial frozen dough",
+    "aliases": ["frozen bread dough", "frozen cookie dough", "frozen dinner rolls", "par-baked dough"],
+    "summary": "Commercially frozen bread and cookie dough is sold ready to bake and should be kept frozen, where it lasts about 12 months from the date of purchase. For safety, cook it as directed on the pack. Once baked, the finished bread or cookies keep 3–4 days in the fridge.",
+    "pantry": "Frozen dough is not a pantry product. It contains raw flour and often raw egg, and once it warms up the yeast activates and the dough begins to over-prove. Take the pack from the freezer to the fridge or straight to the oven as the instructions say, and do not leave it thawing on the counter for hours.",
+    "fridge": "The 3–4 day refrigerator guideline applies to the product after cooking: keep the baked bread or cookies in an airtight container at 4 °C (40 °F) or below and use them within 3–4 days. Unbaked dough thawed in the fridge should be proved and baked according to the pack rather than stored indefinitely.",
+    "freezer": "Keep the dough frozen at −18 °C (0 °F), where it stays good for about 12 months from purchase. Store it flat in the coldest part of the freezer, not the door, and keep the packaging sealed to prevent freezer burn. For safety, cook it as directed on the package rather than eating any of it raw.",
+    "thawing": "Follow the pack instructions: most bread doughs are thawed and proved in the fridge overnight, while many cookie doughs are baked straight from frozen with a couple of extra minutes. Never thaw raw dough on the counter.",
+    "spoilage": [
+      "Heavy freezer burn: dry, white, crumbly patches on the dough",
+      "Torn packaging with ice crystals through the dough",
+      "Sour, yeasty or off smell once thawed",
+      "Grey or discoloured dough, or visible mould after thawing"
+    ],
+    "tips": [
+      "Store the pack flat in the coldest part of the freezer, not in the door",
+      "Follow the pack instructions for proving and baking times",
+      "Do not refreeze dough that has fully thawed in the fridge",
+      "Label the pack with the purchase date to track the 12-month window"
+    ],
+    "faq": [
+      {"q": "How long does commercial frozen dough last?", "a": "About 12 months from purchase kept frozen at −18 °C (0 °F). Keep it frozen and, for safety, cook it as directed on the package."},
+      {"q": "How long do baked rolls or cookies keep afterwards?", "a": "3–4 days in the fridge at 4 °C (40 °F) or below in an airtight container, according to the guideline for the cooked product."},
+      {"q": "Can you thaw frozen dough on the counter?", "a": "No. Thaw it in the fridge as the pack directs, or bake it straight from frozen where the instructions allow. Raw dough should not sit at room temperature for hours."}
+    ]
+  },
+  "zh": {
+    "name": "市售冷凍麵團",
+    "aliases": ["冷凍麵團", "冷凍餅乾麵團", "冷凍餐包麵團", "半烤麵團"],
+    "summary": "市售冷凍麵包和餅乾麵團是買回來就能烤的產品，必須維持冷凍，放 −18°C 從購買日起約可保存 12 個月。為了食品安全，請依包裝指示烹調。烤好之後的成品，冷藏可以放 3～4 天。",
+    "pantry": "冷凍麵團不是常溫產品。它含有生麵粉，通常還有生蛋，一旦回溫，酵母就會活化、麵團開始過度發酵。請依照說明把它從冷凍移到冷藏，或直接進烤箱，不要放在檯面上退冰好幾個小時。",
+    "fridge": "3～4 天的冷藏期限是針對烤好之後的成品：把烤好的麵包或餅乾裝進密封容器，放 4°C 以下，並在 3～4 天內吃完。在冷藏室退冰的生麵團，應該依照包裝完成發酵並烤好，而不是一直放著。",
+    "freezer": "麵團請維持在 −18°C 冷凍，從購買日起約可保存 12 個月。平放在冷凍庫最冷的位置（不要放門邊），並保持包裝密封以免凍燒。為了安全，請依包裝指示烹調，不要生吃。",
+    "thawing": "依照包裝指示操作：大多數麵包麵團要放冷藏室退冰並完成發酵一晚，而許多餅乾麵團可以直接冷凍下烤箱，時間多加幾分鐘。生麵團絕對不要放在室溫退冰。",
+    "spoilage": [
+      "嚴重凍燒：麵團上出現乾白、易碎的斑塊",
+      "包裝破損，麵團裡佈滿冰晶",
+      "退冰後有酸味、酵母味或其他怪味",
+      "麵團變灰、變色，或退冰後看得到黴斑"
+    ],
+    "tips": [
+      "平放在冷凍庫最冷的位置，不要放在門邊",
+      "發酵和烘烤時間請依照包裝指示",
+      "已經在冷藏完全退冰的麵團不要再冷凍",
+      "在包裝上寫購買日期，方便追蹤 12 個月的期限"
+    ],
+    "faq": [
+      {"q": "市售冷凍麵團可以放多久？", "a": "維持在 −18°C 冷凍，從購買日起約 12 個月。請保持冷凍，並依包裝指示烹調以確保安全。"},
+      {"q": "烤好的餐包或餅乾之後可以放多久？", "a": "依照熟食的建議，裝密封容器放 4°C 以下冷藏 3～4 天。"},
+      {"q": "冷凍麵團可以放室溫退冰嗎？", "a": "不行。請依包裝指示放冷藏室退冰，或在說明允許的情況下直接冷凍下烤箱。生麵團不應該在室溫放置好幾個小時。"}
+    ]
+  },
+  "ja": {
+    "name": "市販の冷凍生地",
+    "aliases": ["冷凍パン生地", "冷凍クッキー生地", "冷凍ロール生地", "半焼成生地"],
+    "summary": "市販の冷凍パン生地・クッキー生地は焼くだけの状態で売られており、冷凍のまま保管すれば購入日から約12か月持ちます。安全のため、パッケージの指示どおりに加熱してください。焼き上げたあとの製品は、冷蔵で3〜4日が目安です。",
+    "pantry": "冷凍生地は常温保存の商品ではありません。生の小麦粉、多くは生卵も含み、温度が上がると酵母が動き出して過発酵になります。表示に従って冷凍庫から冷蔵庫へ移すか、そのままオーブンへ。調理台で何時間も解凍しないでください。",
+    "fridge": "3〜4日という冷蔵の目安は、加熱後の製品に当てはまります。焼き上げたパンやクッキーは密閉容器に入れて4℃以下で保存し、3〜4日以内に食べ切りましょう。冷蔵で解凍した生地は、そのまま置かずパッケージの指示どおり発酵させて焼いてください。",
+    "freezer": "生地は−18℃の冷凍を保てば、購入日から約12か月おいしく保てます。ドアポケットではなく庫内の冷えやすい場所に平らに置き、冷凍焼けを防ぐため包装は密封したままに。安全のため、生では食べずパッケージの指示どおり加熱してください。",
+    "thawing": "パッケージの指示に従いましょう。パン生地の多くは冷蔵庫で一晩かけて解凍・発酵させ、クッキー生地の多くは凍ったまま数分長めに焼けます。生地を室温で解凍しないでください。",
+    "spoilage": [
+      "冷凍焼けがひどい（白く乾いてぼろぼろの部分がある）",
+      "包装が破れ、生地に霜がびっしりついている",
+      "解凍後に酸っぱいにおい、イースト臭、異臭がする",
+      "生地が灰色に変色している、解凍後にカビが見える"
+    ],
+    "tips": [
+      "ドアポケットではなく、庫内の冷えやすい場所に平らに保管を",
+      "発酵時間と焼成時間はパッケージの指示に従いましょう",
+      "冷蔵で完全に解凍した生地は再冷凍しないでください",
+      "パッケージに購入日を書いて12か月の期限を管理しましょう"
+    ],
+    "faq": [
+      {"q": "市販の冷凍生地はどのくらい持ちますか？", "a": "−18℃の冷凍のままなら購入日から約12か月です。冷凍を保ち、安全のためパッケージの指示どおり加熱してください。"},
+      {"q": "焼いたあとのパンやクッキーはどのくらい持ちますか？", "a": "加熱後の目安として、密閉容器で4℃以下の冷蔵で3〜4日です。"},
+      {"q": "冷凍生地を室温で解凍してもいいですか？", "a": "いけません。パッケージの指示どおり冷蔵庫で解凍するか、指示があれば凍ったまま焼いてください。生地を室温に何時間も置かないでください。"}
+    ]
+  },
+  "es": {
+    "name": "Masa congelada comercial",
+    "aliases": ["masa de pan congelada", "masa de galletas congelada", "panecillos congelados", "masa precocida"],
+    "summary": "La masa de pan y de galletas congelada comercialmente se vende lista para hornear y debe mantenerse congelada, donde dura alrededor de 12 meses desde la compra. Por seguridad, cocínala según las indicaciones del envase. Una vez horneado, el producto se conserva 3–4 días en la nevera.",
+    "pantry": "La masa congelada no es un producto de despensa. Contiene harina cruda y a menudo huevo crudo, y en cuanto se atempera la levadura se activa y la masa empieza a sobrefermentar. Pásala del congelador a la nevera o directamente al horno según las instrucciones, y no la dejes descongelándose horas en la encimera.",
+    "fridge": "La pauta de 3–4 días en nevera se aplica al producto después de cocinarlo: guarda el pan o las galletas horneadas en un recipiente hermético a 4 °C (40 °F) o menos y consúmelos en 3–4 días. La masa cruda descongelada en la nevera debe fermentarse y hornearse según el envase, no almacenarse indefinidamente.",
+    "freezer": "Mantén la masa congelada a −18 °C (0 °F), donde se conserva alrededor de 12 meses desde la compra. Guárdala plana en la zona más fría del congelador, no en la puerta, y con el envase bien cerrado para evitar quemaduras por congelación. Por seguridad, cocínala según las indicaciones y no la comas cruda.",
+    "thawing": "Sigue las instrucciones del envase: la mayoría de las masas de pan se descongelan y fermentan en la nevera durante la noche, mientras que muchas masas de galletas se hornean congeladas con un par de minutos extra. Nunca descongeles masa cruda en la encimera.",
+    "spoilage": [
+      "Quemadura por congelación marcada: zonas blancas, secas y quebradizas",
+      "Envase roto con cristales de hielo por toda la masa",
+      "Olor agrio, a levadura o extraño una vez descongelada",
+      "Masa grisácea o descolorida, o moho visible tras descongelar"
+    ],
+    "tips": [
+      "Guarda el paquete plano en la zona más fría del congelador, no en la puerta",
+      "Sigue las instrucciones del envase para los tiempos de fermentado y horneado",
+      "No vuelvas a congelar masa que se haya descongelado del todo en la nevera",
+      "Anota la fecha de compra en el paquete para controlar los 12 meses"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la masa congelada comercial?", "a": "Alrededor de 12 meses desde la compra manteniéndola congelada a −18 °C (0 °F). Consérvala congelada y, por seguridad, cocínala según el envase."},
+      {"q": "¿Cuánto duran los panecillos o galletas ya horneados?", "a": "3–4 días en la nevera a 4 °C (40 °F) o menos en un recipiente hermético, según la pauta para el producto cocinado."},
+      {"q": "¿Se puede descongelar la masa en la encimera?", "a": "No. Descongélala en la nevera como indique el envase, u hornéala congelada cuando las instrucciones lo permitan. La masa cruda no debe estar horas a temperatura ambiente."}
+    ]
+  }
+}

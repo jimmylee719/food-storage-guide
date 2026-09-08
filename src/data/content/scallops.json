@@ -1,0 +1,107 @@
+{
+  "slug": "scallops",
+  "en": {
+    "name": "Scallops",
+    "aliases": ["sea scallops", "bay scallops", "shucked scallops", "scallop meat"],
+    "summary": "Scallops are the sweet adductor muscle of a shellfish, sold shucked and either dry-packed or soaked in a preservative solution. Raw, they keep 1–3 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 6–18 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw scallops must never be left at room temperature. Shellfish spoil very quickly and, like other seafood, can carry vibrio bacteria that multiply fast in the danger zone between 4 °C and 60 °C (40 °F and 140 °F). Discard scallops left out for more than 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Store scallops in a covered container in the coldest part of the fridge at 4 °C (40 °F) or below, ideally set over ice in a dish that drains, and use them within 1–3 days. Dry-packed scallops keep and sear better than wet-packed ones, which sit in liquid and never brown properly; if yours are wet-packed, drain and pat them very dry before cooking.",
+    "freezer": "Scallops freeze remarkably well, keeping good quality for 6–18 months at −18 °C (0 °F), where they stay safe indefinitely. Freeze them in a single layer on a tray first, then bag them so they stay separate, or freeze them submerged in water in a container to shut out air completely. Label with the date.",
+    "thawing": "Thaw in the fridge overnight on a plate, or in a sealed bag under cold running water for around 20 minutes, then drain and pat dry before cooking. Never thaw scallops at room temperature. Cook them to 63 °C (145 °F), or until the flesh is opaque and firm — usually only a minute or two per side.",
+    "spoilage": [
+      "Sour, ammonia or strong fishy smell — fresh scallops smell sweet and faintly of the sea",
+      "Slimy or sticky surface",
+      "Grey, brown or unusually dull colour instead of creamy white or pale pink",
+      "Milky, thick liquid in the container, or a passed use-by date"
+    ],
+    "tips": [
+      "Buy dry-packed scallops when you can — they sear golden instead of steaming.",
+      "Pat them completely dry and use a very hot pan for a good crust.",
+      "Freeze on a tray before bagging so they do not clump together.",
+      "Remove the small tough side muscle before cooking."
+    ],
+    "faq": [
+      {"q": "Can you freeze scallops?", "a": "Yes, and they freeze very well: 6–18 months of good quality at −18 °C (0 °F). Freeze them separated on a tray or submerged in water."},
+      {"q": "How long do fresh scallops last in the fridge?", "a": "1–3 days from the day of purchase at 4 °C (40 °F) or below, kept as cold as possible over ice."},
+      {"q": "Why will my scallops not brown?", "a": "They are probably wet-packed, holding extra liquid from a phosphate soak. Drain them, pat them very dry and sear in a hot pan without crowding it."}
+    ]
+  },
+  "zh": {
+    "name": "干貝（扇貝柱）",
+    "aliases": ["扇貝", "帆立貝柱", "生鮮干貝", "貝柱"],
+    "summary": "干貝是扇貝的閉殼肌，肉質清甜，市售多為去殼的貝柱，分成乾式包裝與泡過保水液的濕式包裝。生的干貝在 4°C 以下冷藏，從購買日起可放 1～3 天；放 −18°C 冷凍可放 6～18 個月。",
+    "pantry": "生干貝絕對不能放室溫。貝類壞得很快，和其他海鮮一樣可能帶有腸炎弧菌，在 4～60°C 的危險溫度帶會迅速繁殖。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "把干貝放在有蓋容器裡，置於冰箱最冷的位置，維持 4°C 以下；最理想是放在能瀝水的容器中鋪冰塊，並在 1～3 天內用完。乾式包裝的干貝比濕式的更耐放、也更容易煎出金黃色；濕式的一直泡在液體裡很難上色，使用前務必瀝乾並徹底擦乾。",
+    "freezer": "干貝非常適合冷凍，放 −18°C 品質可維持 6～18 個月，安全上可以無限期保存。先在烤盤上單層鋪開凍硬再裝袋，這樣才不會黏在一起；或放進容器加水完全淹過再冷凍，能徹底隔絕空氣。記得標註日期。",
+    "thawing": "放盤子上冷藏解凍一晚，或裝密封袋用冷水沖約 20 分鐘，之後瀝乾、擦乾再烹調。絕對不要在室溫解凍。煮到中心 63°C，或肉變不透明、有彈性為止——通常每面只要一兩分鐘。",
+    "spoilage": [
+      "酸味、阿摩尼亞味或強烈腥味——新鮮干貝聞起來清甜、帶淡淡海味",
+      "表面黏滑、發黏",
+      "顏色不是乳白或淡粉，而是變灰、變褐或異常暗沉",
+      "容器裡出現乳白濃稠的液體，或已超過有效日期"
+    ],
+    "tips": [
+      "盡量買乾式包裝的干貝，煎起來會金黃而不是出水變蒸。",
+      "徹底擦乾、用很熱的鍋，才能煎出漂亮的焦殼。",
+      "冷凍前先在烤盤上分開凍硬，再裝袋。",
+      "烹調前把側邊那條較硬的小肌肉撕掉。"
+    ],
+    "faq": [
+      {"q": "干貝可以冷凍嗎？", "a": "可以，而且非常適合：放 −18°C 冷凍 6～18 個月品質仍佳。可以分開凍硬再裝袋，或加水淹過冷凍。"},
+      {"q": "生干貝放冰箱可以放多久？", "a": "在 4°C 以下、盡量低溫（鋪冰塊）的環境冷藏，從購買日起 1～3 天。"},
+      {"q": "干貝為什麼煎不出金黃色？", "a": "很可能是濕式包裝，含有磷酸鹽保水液帶來的額外水分。請瀝乾、徹底擦乾，用熱鍋分批煎、不要塞太滿。"}
+    ]
+  },
+  "ja": {
+    "name": "ほたて貝柱",
+    "aliases": ["帆立の貝柱", "ホタテ", "スカロップ", "貝柱（生）"],
+    "summary": "ほたての貝柱は甘みのある閉殻筋で、殻から外した状態で売られ、無添加のドライパックと、保水液に浸したウェットパックがあります。生の状態では4℃以下の冷蔵で購入日から1〜3日、−18℃の冷凍で6〜18か月が目安です。",
+    "pantry": "生の貝柱を常温に置くことはできません。貝類は非常に傷みやすく、ほかの魚介と同じく腸炎ビブリオを持つことがあり、4〜60℃の危険温度帯で急速に増えます。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。",
+    "fridge": "ふた付き容器に入れ、庫内でいちばん冷える場所で4℃以下を保ちます。水切りできる器に氷を敷くのが理想で、1〜3日以内に使い切りましょう。ドライパックのほうが日もちもよく焼き色もきれいにつきます。ウェットパックは液に浸かっていて色づきにくいので、使う前に水気を切ってしっかり拭き取ってください。",
+    "freezer": "貝柱は冷凍にとても強く、−18℃で6〜18か月と長く品質を保てます（安全面では長期間）。天板に重ならないよう並べて凍らせてから袋に移すとくっつきません。容器に入れて水を張り氷漬けにすれば、空気を完全に遮断できます。日付を書いておきましょう。",
+    "thawing": "皿にのせて冷蔵庫で一晩、または密閉袋のまま冷たい流水に20分ほどあてて解凍し、水気を切って拭いてから調理します。常温解凍は避けてください。中心温度63℃、または身が不透明で弾力が出るまで加熱します。片面1〜2分で十分なことがほとんどです。",
+    "spoilage": [
+      "酸っぱいにおい、アンモニア臭、強い生臭さがする（新鮮なものは甘く磯の香りがほのかにする）",
+      "表面がぬめる・べたつく",
+      "乳白色や淡いピンクではなく、灰色・茶色・異常にくすんだ色になっている",
+      "容器に乳白色でとろみのある液が出ている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "できればドライパックを選ぶ。蒸れずにきれいな焼き色がつく。",
+      "水気を完全に拭き、よく熱したフライパンで焼くと香ばしい焼き面ができる。",
+      "冷凍は天板で分けて凍らせてから袋へ。",
+      "調理前に側面の硬い小柱を取り除く。"
+    ],
+    "faq": [
+      {"q": "ほたての貝柱は冷凍できますか？", "a": "できますし冷凍向きです。−18℃で6〜18か月が品質の目安。バラで凍らせてから袋に移すか、水を張って氷漬けにしてください。"},
+      {"q": "生の貝柱は冷蔵庫で何日もちますか？", "a": "できるだけ低温（氷の上）の4℃以下で、購入日から1〜3日です。"},
+      {"q": "貝柱に焼き色がつかないのはなぜ？", "a": "保水液に浸したウェットパックで水分が多い可能性があります。水気を切ってしっかり拭き、よく熱したフライパンで詰め込みすぎずに焼いてください。"}
+    ]
+  },
+  "es": {
+    "name": "Vieiras",
+    "aliases": ["callo de hacha", "conchas de abanico", "vieiras sin concha", "escalopes de mar"],
+    "summary": "Las vieiras son el músculo aductor dulce de un molusco, que se vende sin concha, en seco o remojado en una solución conservante. Crudas duran 1–3 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y 6–18 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "Las vieiras crudas nunca deben dejarse a temperatura ambiente. Los mariscos se estropean muy rápido y, como otros productos del mar, pueden portar vibrio, que se multiplica deprisa en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F). Deséchalas si llevan más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Guárdalas en un recipiente tapado en la parte más fría del refrigerador a 4 °C (40 °F) o menos, idealmente sobre hielo en una fuente que escurra, y úsalas en 1–3 días. Las vieiras en seco se conservan y sellan mejor que las remojadas, que sueltan líquido y nunca doran bien; si las tuyas vienen en líquido, escúrrelas y sécalas a fondo antes de cocinar.",
+    "freezer": "Se congelan notablemente bien y conservan buena calidad 6–18 meses a −18 °C (0 °F), donde son seguras indefinidamente. Congélalas primero en una sola capa sobre una bandeja y luego embólsalas para que queden sueltas, o congélalas sumergidas en agua para excluir el aire por completo. Etiqueta con la fecha.",
+    "thawing": "Descongélalas en el refrigerador durante una noche sobre un plato, o en bolsa cerrada bajo agua fría corriente unos 20 minutos; luego escúrrelas y sécalas antes de cocinar. Nunca las descongeles a temperatura ambiente. Cocínalas a 63 °C (145 °F) o hasta que estén opacas y firmes, normalmente uno o dos minutos por lado.",
+    "spoilage": [
+      "Olor agrio, a amoníaco o fuertemente marino: las vieiras frescas huelen dulces y levemente a mar",
+      "Superficie viscosa o pegajosa",
+      "Color gris, pardo o anormalmente apagado en lugar de blanco crema o rosa pálido",
+      "Líquido lechoso y espeso en el recipiente, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Compra vieiras en seco cuando puedas: doran en vez de cocerse al vapor.",
+      "Sécalas por completo y usa una sartén muy caliente para lograr costra.",
+      "Congélalas en bandeja antes de embolsarlas para que no se apelmacen.",
+      "Retira el pequeño músculo lateral duro antes de cocinarlas."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las vieiras?", "a": "Sí, y muy bien: 6–18 meses de buena calidad a −18 °C (0 °F). Congélalas separadas en bandeja o sumergidas en agua."},
+      {"q": "¿Cuánto duran las vieiras frescas en el refrigerador?", "a": "1–3 días desde el día de compra a 4 °C (40 °F) o menos, lo más frías posible sobre hielo."},
+      {"q": "¿Por qué no doran mis vieiras?", "a": "Seguramente vienen remojadas y retienen líquido de un baño de fosfatos. Escúrrelas, sécalas muy bien y séllalas en sartén caliente sin amontonarlas."}
+    ]
+  }
+}

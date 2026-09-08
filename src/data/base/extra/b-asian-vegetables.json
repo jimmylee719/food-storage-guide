@@ -1,0 +1,956 @@
+[
+  {
+    "slug": "water-spinach",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Water Spinach",
+    "subtitle": "ung choi, fresh bunch",
+    "keywords": ["water spinach", "ung choi", "morning glory", "kangkong", "空心菜", "蕹菜", "エンサイ", "空芯菜", "クウシンサイ", "espinaca de agua", "kangkong"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "UH-CTAHR's optimum is 10 to 12 days at 12–14 °C with 90–95 % RH, and it warns that ung choi is injured below 10–14 °C — leaves and stems darken after about 4 days at 1 °C. In a 4 °C home fridge expect 3 to 5 days. Bag it to stop water loss and do not put it on ice." }
+      }
+    },
+    "sources": [
+      { "name": "UH–CTAHR VC-6 – Ung Choi: Postharvest Quality-Maintenance Guidelines", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/VC-6.pdf" }
+    ],
+    "analog": null,
+    "notes": "The 10–12 day figure needs a 12–14 °C cold room, which is warmer than any home fridge; because the source documents chilling darkening at fridge temperatures, the home range is deliberately much shorter. No pantry or freezer entry — the source gives neither."
+  },
+  {
+    "slug": "bitter-melon",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Bitter Melon",
+    "subtitle": "whole",
+    "keywords": ["bitter melon", "bitter gourd", "goya", "苦瓜", "涼瓜", "ゴーヤー", "ニガウリ", "melón amargo", "cundeamor"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 5, "max": 7, "unit": "days", "tips": "Japan's MAFF gives goya one week refrigerated. Scoop out the seeds and spongy core first if you are keeping a cut half, and wrap the cut face." }
+      },
+      "freezer": {
+        "base": { "min": 1, "max": 1, "unit": "months", "tips": "MAFF gives frozen goya one month. Slice, salt briefly, pat dry and freeze flat in a bag; it goes straight into a stir-fry from frozen." }
+      }
+    },
+    "sources": [
+      { "name": "農林水産省 – おいしさをもっと長持ちさせる夏野菜＆果物の保存術", "url": "https://www.maff.go.jp/j/pr/aff/2007/spe1_05.html" }
+    ],
+    "analog": null,
+    "notes": null
+  },
+  {
+    "slug": "daikon",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Daikon",
+    "subtitle": "whole white radish",
+    "keywords": ["daikon", "white radish", "mooli", "白蘿蔔", "菜頭", "大根", "だいこん", "rábano daikon", "nabo blanco"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 7, "unit": "days", "tips": "Taiwan's Ministry of Agriculture says to cut the leafy tops off first, seal the cut end with cling film, wrap the whole root in paper, bag it and keep it somewhere cool and shaded. The leaves keep pulling water out of the root if you leave them on." }
+      },
+      "fridge": {
+        "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "Ohio State gives beets, carrots and radishes 1 to 2 weeks refrigerated, with the leafy tops removed. Grated daikon should be used the same day." }
+      }
+    },
+    "sources": [
+      { "name": "Ohioline (Ohio State) HYG-5403 – Refrigerator Storage", "url": "https://ohioline.osu.edu/factsheet/HYG-5403" },
+      { "name": "農業部農業知識入口網 – 蔬菜應如何保存", "url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=1861" }
+    ],
+    "analog": null,
+    "notes": "Ohio State's table covers radishes as a group rather than daikon specifically; a whole daikon is far larger and generally outlasts a bunch of small red radishes."
+  },
+  {
+    "slug": "napa-cabbage",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Napa Cabbage",
+    "subtitle": "whole head",
+    "keywords": ["napa cabbage", "chinese cabbage", "wombok", "大白菜", "包心白菜", "白菜", "はくさい", "ハクサイ", "col china", "repollo chino"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "Taiwan's Ministry of Agriculture: wrap the head in a large sheet of paper and stand it at an angle in a cool place — it stays fresh several days that way, though the fridge is better." }
+      },
+      "fridge": {
+        "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "Ohio State gives cabbage 1 to 2 weeks in a crisper or moisture-resistant wrap. Keep the head whole; peel leaves off as you need them rather than cutting it in half." }
+      }
+    },
+    "sources": [
+      { "name": "Ohioline (Ohio State) HYG-5403 – Refrigerator Storage", "url": "https://ohioline.osu.edu/factsheet/HYG-5403" },
+      { "name": "農業部農業知識入口網 – 蔬菜應如何保存", "url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=1861" }
+    ],
+    "analog": null,
+    "notes": "Ohio State's figure is for cabbage generally. Napa is looser-leaved and softer than a green head cabbage, so treat 2 weeks as optimistic."
+  },
+  {
+    "slug": "garland-chrysanthemum",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Garland Chrysanthemum",
+    "subtitle": "tong ho, fresh",
+    "keywords": ["garland chrysanthemum", "chrysanthemum greens", "tong ho", "shungiku", "茼蒿", "打某菜", "春菊", "シュンギク", "crisantemo comestible"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "Taiwan's Ministry of Agriculture: rinse quickly, drain well, bag it and stand it stem-down in the bottom drawer of the fridge. The leaves wilt and go slimy fast once bruised." }
+      }
+    },
+    "sources": [
+      { "name": "農業部農業知識入口網 – 蔬菜應如何保存", "url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=1861" },
+      { "name": "Ohioline (Ohio State) HYG-5403 – Refrigerator Storage", "url": "https://ohioline.osu.edu/factsheet/HYG-5403" }
+    ],
+    "analog": "spinach",
+    "notes": "The Taiwanese source gives the method but no days. The 3–5 day figure comes from the FoodKeeper slug \"spinach\", matching Ohio State's 3 to 5 days for spinach in the refrigerator table."
+  },
+  {
+    "slug": "burdock",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Burdock Root",
+    "subtitle": "fresh",
+    "keywords": ["burdock", "gobo", "牛蒡", "ごぼう", "ゴボウ", "bardana", "raíz de bardana"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 2, "max": 4, "unit": "weeks", "tips": "Taiwan's Ministry of Agriculture: leave the soil on, wrap the root in damp paper and stand it leaning against a wall somewhere cool and shaded — kept that way it stores for a long time. Washed burdock will not do this." }
+      },
+      "fridge": {
+        "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "For washed burdock: bag it and refrigerate, per the same source. Cut surfaces brown within minutes, so drop pieces into water with a splash of vinegar." }
+      }
+    },
+    "sources": [
+      { "name": "農業部農業知識入口網 – 蔬菜應如何保存", "url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=1861" }
+    ],
+    "analog": "carrots",
+    "notes": "The source gives the soil-on and washed-root methods but no durations. The numbers come from the FoodKeeper slug \"carrots\", the closest long root vegetable, with the pantry figure extended because the source explicitly calls unwashed burdock a long-keeper."
+  },
+  {
+    "slug": "chinese-yam",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Chinese Yam",
+    "subtitle": "nagaimo, whole",
+    "keywords": ["chinese yam", "nagaimo", "yamaimo", "mountain yam", "山藥", "淮山", "長芋", "ながいも", "ヤマイモ", "ñame chino"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 4, "unit": "weeks", "tips": "Taiwan's Ministry of Agriculture: do not let it dry out — put it in a plastic bag and keep it at room temperature, out of wind and direct sun. A whole unbroken tuber is the one that keeps." }
+      },
+      "fridge": {
+        "base": { "min": 5, "max": 7, "unit": "days", "tips": "Only for a cut piece: wrap the cut face tightly in cling film. The exposed flesh oxidises brown and turns slimy." }
+      },
+      "freezer": {
+        "base": { "min": 2, "max": 3, "unit": "weeks", "tips": "MAFF's guide to freezing vegetables at home gives about 3 weeks. Grate it, bag it flat and freeze; grated yam is used straight from frozen." }
+      }
+    },
+    "sources": [
+      { "name": "農業部農業知識入口網 – 蔬菜應如何保存", "url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=1861" },
+      { "name": "農林水産省 – 簡単な「冷凍ワザ」で、野菜を新鮮に！おいしく！", "url": "https://www.maff.go.jp/j/keikaku/syokubunka/culture/wagohan/articles/2203/spe7_03.html" }
+    ],
+    "analog": "potatoes",
+    "notes": "The Taiwanese source gives the room-temperature method but no duration; the pantry and fridge numbers come from the FoodKeeper slug \"potatoes\". The freezer figure is MAFF's general guide for home-frozen vegetables, not a yam-specific number."
+  },
+  {
+    "slug": "winter-melon",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Winter Melon",
+    "subtitle": "whole",
+    "keywords": ["winter melon", "wax gourd", "ash gourd", "冬瓜", "トウガン", "冬瓜", "calabaza blanca", "calabaza china"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 1, "max": 3, "unit": "months", "tips": "Taiwan's Ministry of Agriculture puts winter melon in the 13–15 °C group along with bananas, sweet potato, ginger and pumpkin — it should not go in a cold fridge whole. A cool, dry, airy corner is right; the waxy bloom on the skin is what preserves it, so do not scrub it off." }
+      },
+      "fridge": {
+        "base": { "min": 4, "max": 7, "unit": "days", "tips": "Only for a cut piece, which is how it is usually sold: scrape out the seeds and pulp, wrap the cut face in cling film and refrigerate." }
+      }
+    },
+    "sources": [
+      { "name": "農業部農業知識入口網 – 蔬果最好的冷藏溫度?", "url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=264" }
+    ],
+    "analog": "squash-winter",
+    "notes": "The Taiwanese source gives the storage temperature class (13–15 °C) but no duration. The numbers come from the FoodKeeper slug \"squash-winter\", which is stored the same way."
+  },
+  {
+    "slug": "shiitake-fresh",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Shiitake",
+    "subtitle": "fresh",
+    "keywords": ["shiitake", "香菇", "鮮香菇", "冬菇", "しいたけ", "シイタケ", "椎茸", "shiitake", "seta shiitake"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 4, "max": 7, "unit": "days", "tips": "Ohio State gives mushrooms 1 to 2 days in the refrigerator and says not to wash them before storing. Shiitake are firmer and drier than a button mushroom and generally hold longer; keep them gills-down in a paper bag, never sealed plastic, which sweats them." }
+      },
+      "freezer": {
+        "base": { "min": 2, "max": 3, "unit": "weeks", "tips": "MAFF's home vegetable freezing guide gives about 3 weeks. Slice, bag flat and freeze raw; cook from frozen." }
+      }
+    },
+    "sources": [
+      { "name": "Ohioline (Ohio State) HYG-5403 – Refrigerator Storage", "url": "https://ohioline.osu.edu/factsheet/HYG-5403" },
+      { "name": "農林水産省 – 簡単な「冷凍ワザ」で、野菜を新鮮に！おいしく！", "url": "https://www.maff.go.jp/j/keikaku/syokubunka/culture/wagohan/articles/2203/spe7_03.html" }
+    ],
+    "analog": null,
+    "notes": "Ohio State's 1–2 days is for mushrooms as a class and is conservative; the range here is longer because shiitake have a much lower moisture content than agaricus mushrooms. Treat the source figure as the safe floor."
+  },
+  {
+    "slug": "shiitake-dried",
+    "category": "shelf-stable",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dried Shiitake",
+    "subtitle": "whole caps",
+    "keywords": ["dried shiitake", "dried mushroom", "乾香菇", "香菇乾", "冬菇", "干ししいたけ", "干し椎茸", "shiitake seco", "hongo seco"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "NCHFP gives dried vegetables roughly half the life of dried fruit — about 6 months at 60 °F (16 °C) and 3 months at 80 °F (27 °C); Ohio State's pantry table gives dried vegetables a year at 70 °F. Japan's MAFF says to keep dried goods away from heat, direct sun and damp, in a tightly sealed container." }
+      },
+      "fridge": {
+        "afterOpening": { "min": 12, "max": 18, "unit": "months", "tips": "Worth doing in a humid climate: the caps go soft and mould once they take up moisture." }
+      }
+    },
+    "sources": [
+      { "name": "NCHFP – Packaging and Storing Dried Foods", "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/" },
+      { "name": "Ohioline (Ohio State) HYG-5401 – Pantry Food Storage", "url": "https://ohioline.osu.edu/factsheet/HYG-5401" },
+      { "name": "農林水産省 – 乾物", "url": "https://www.maff.go.jp/j/pr/aff/1909/spe2_01.html" }
+    ],
+    "analog": null,
+    "notes": "The two US figures disagree (NCHFP 6 months at 16 °C, Ohio State 1 year at 21 °C), which is why the pantry range spans both. Once soaked, Hong Kong CFS rules apply — see the soaking note on the fresh-wood-ear and white-fungus records."
+  },
+  {
+    "slug": "wood-ear-dried",
+    "category": "shelf-stable",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dried Wood Ear",
+    "subtitle": "black fungus",
+    "keywords": ["wood ear", "black fungus", "cloud ear", "木耳", "黑木耳", "雲耳", "きくらげ", "木耳", "hongo oreja de madera", "oreja de Judas"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "NCHFP gives dried vegetables about 6 months at 60 °F and 3 months at 80 °F; Ohio State gives dried vegetables a year at 70 °F. Airtight, dark, dry." }
+      },
+      "fridge": {
+        "afterOpening": { "min": null, "max": null, "unit": null, "tips": "This is the one that matters: Hong Kong's Centre for Food Safety says soaking should take no more than two hours at room temperature, and that black fungus must be kept in the refrigerator if it needs to soak overnight. Improperly soaked and stored black fungus can develop bongkrekic acid, which cooking does not destroy. Use soaked fungus at once and throw it out if it turns slimy or smells wrong." }
+      }
+    },
+    "sources": [
+      { "name": "Hong Kong CFS – Black Fungus Soaked Improperly May Produce Toxic Bongkrekic Acid", "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_158_04.html" },
+      { "name": "Hong Kong CFS – Soaking Mushrooms and Food Safety", "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_200_04.html" },
+      { "name": "NCHFP – Packaging and Storing Dried Foods", "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/" }
+    ],
+    "analog": null,
+    "notes": "The CFS soaking rule is the real safety content here; the pantry figures are the general dried-vegetable numbers, not fungus-specific ones."
+  },
+  {
+    "slug": "wood-ear-fresh",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Fresh Wood Ear",
+    "subtitle": "hydrated black fungus",
+    "keywords": ["fresh wood ear", "fresh black fungus", "鮮木耳", "新鮮黑木耳", "生きくらげ", "hongo oreja fresco"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "Keep it cold and dry in a paper-lined box. Hong Kong CFS warns that black fungus left soaking or standing warm can develop bongkrekic acid, which cooking will not destroy — discard any that has gone slimy or smells sour." }
+      }
+    },
+    "sources": [
+      { "name": "Hong Kong CFS – Black Fungus Soaked Improperly May Produce Toxic Bongkrekic Acid", "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_158_04.html" }
+    ],
+    "analog": "mushrooms",
+    "notes": "CFS gives the safety rule but no keeping time for fresh fungus. The 3–5 day figure comes from the FoodKeeper slug \"mushrooms\", extended slightly because wood ear is firmer and less watery than an agaricus mushroom."
+  },
+  {
+    "slug": "white-fungus",
+    "category": "shelf-stable",
+    "source": "curated",
+    "sourceId": null,
+    "name": "White Fungus",
+    "subtitle": "dried snow fungus",
+    "keywords": ["white fungus", "snow fungus", "silver ear", "白木耳", "銀耳", "雪耳", "白きくらげ", "シロキクラゲ", "hongo blanco", "oreja de plata"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "NCHFP gives dried vegetables about 6 months at 60 °F and 3 months at 80 °F; Ohio State gives a year at 70 °F. Keep it in a sealed jar — the brittle fans crumble and then absorb damp." }
+      },
+      "fridge": {
+        "afterOpening": { "min": null, "max": null, "unit": null, "tips": "Hong Kong CFS: soaking at room temperature should take no more than two hours, otherwise refrigerate the soaking bowl; use soaked fungus as soon as possible and discard it if it turns slimy or smells abnormal." }
+      }
+    },
+    "sources": [
+      { "name": "Hong Kong CFS – Soaking Mushrooms and Food Safety", "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_200_04.html" },
+      { "name": "NCHFP – Packaging and Storing Dried Foods", "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/" },
+      { "name": "Ohioline (Ohio State) HYG-5401 – Pantry Food Storage", "url": "https://ohioline.osu.edu/factsheet/HYG-5401" }
+    ],
+    "analog": null,
+    "notes": "The pantry figures are the general dried-vegetable numbers, not fungus-specific ones."
+  },
+  {
+    "slug": "dried-lily-flower",
+    "category": "shelf-stable",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dried Lily Flower",
+    "subtitle": "golden needles",
+    "keywords": ["dried lily flower", "golden needles", "daylily buds", "金針花", "金針", "乾金針", "きんしんさい", "金針菜", "flor de lirio seca"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "NCHFP gives dried vegetables about 6 months at 60 °F and 3 months at 80 °F; Ohio State gives dried vegetables a year at 70 °F. Airtight and dark — light bleaches the colour out." }
+      },
+      "fridge": {
+        "afterOpening": { "min": 12, "max": 18, "unit": "months", "tips": "Sealed. Soak in cold water and rinse well before cooking, and use the soaked buds the same day." }
+      }
+    },
+    "sources": [
+      { "name": "NCHFP – Packaging and Storing Dried Foods", "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/" },
+      { "name": "Ohioline (Ohio State) HYG-5401 – Pantry Food Storage", "url": "https://ohioline.osu.edu/factsheet/HYG-5401" }
+    ],
+    "analog": null,
+    "notes": "Both sources cover dried vegetables as a class rather than daylily buds specifically. Some imported golden needles are sulphite-treated; a very bright yellow colour usually means sulphur dioxide."
+  },
+  {
+    "slug": "kiriboshi-daikon",
+    "category": "shelf-stable",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dried Daikon Strips",
+    "subtitle": "kiriboshi daikon",
+    "keywords": ["dried daikon", "kiriboshi daikon", "dried radish", "蘿蔔乾", "菜脯", "切り干し大根", "きりぼしだいこん", "rábano seco"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 4, "max": 8, "unit": "months", "tips": "Japan's MAFF: keep dried goods out of heat, direct sunlight and damp, and close the container tightly. NCHFP puts dried vegetables at about 6 months at 60 °F, 3 months at 80 °F. The strips darken from white to tan as they age — still edible, but the flavour is stronger." }
+      },
+      "fridge": {
+        "afterOpening": { "min": 8, "max": 12, "unit": "months", "tips": "Sealed. Once rehydrated, treat it as a fresh cooked vegetable and use it within a few days." }
+      }
+    },
+    "sources": [
+      { "name": "農林水産省 – 乾物", "url": "https://www.maff.go.jp/j/pr/aff/1909/spe2_01.html" },
+      { "name": "NCHFP – Packaging and Storing Dried Foods", "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/" }
+    ],
+    "analog": null,
+    "notes": "MAFF states that dried goods keep several months or more at room temperature and gives the storage conditions, but no specific figure for kiriboshi daikon; the months come from NCHFP's dried-vegetable class figure."
+  },
+  {
+    "slug": "kombu",
+    "category": "shelf-stable",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Kombu",
+    "subtitle": "dried kelp",
+    "keywords": ["kombu", "kelp", "dashi kombu", "昆布", "海帶", "こんぶ", "コンブ", "alga kombu", "kelp"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Japan's MAFF: dried goods keep several months or more at room temperature provided you avoid heat, direct sunlight and damp and seal the bag tightly. The white powder on the surface is mannitol, a natural sugar and part of the flavour — do not wipe it off." }
+      },
+      "fridge": {
+        "afterOpening": { "min": 12, "max": 18, "unit": "months", "tips": "Sealed, in a humid climate. Used kombu from a dashi pot must be treated as a cooked food and refrigerated, then used within 2 to 3 days." }
+      }
+    },
+    "sources": [
+      { "name": "農林水産省 – 乾物", "url": "https://www.maff.go.jp/j/pr/aff/1909/spe2_01.html" }
+    ],
+    "analog": null,
+    "notes": "MAFF gives the storage conditions and says dried goods keep for months or more, but does not give a figure for kombu specifically; the ranges here read that statement conservatively."
+  },
+  {
+    "slug": "wakame-dried",
+    "category": "shelf-stable",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Wakame",
+    "subtitle": "dried",
+    "keywords": ["wakame", "dried seaweed", "裙帶菜", "海帶芽", "わかめ", "ワカメ", "乾燥わかめ", "alga wakame"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Japan's MAFF: store dried goods away from heat, direct sunlight and damp, and reseal the bag tightly. Wakame is very hygroscopic and turns limp and fishy once it takes up moisture." }
+      },
+      "fridge": {
+        "afterOpening": { "min": 12, "max": 18, "unit": "months", "tips": "Sealed. Rehydrated wakame is a fresh food: refrigerate and use within 1 to 2 days." }
+      }
+    },
+    "sources": [
+      { "name": "農林水産省 – 乾物", "url": "https://www.maff.go.jp/j/pr/aff/1909/spe2_01.html" }
+    ],
+    "analog": null,
+    "notes": "MAFF gives the conditions and the general 'several months or more' statement rather than a wakame-specific number. Salted (not dried) wakame is a different product and must be refrigerated."
+  },
+  {
+    "slug": "nori",
+    "category": "shelf-stable",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Nori",
+    "subtitle": "toasted sheets",
+    "keywords": ["nori", "laver", "seaweed sheets", "海苔", "紫菜", "燒海苔", "のり", "ノリ", "焼き海苔", "alga nori"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 6, "unit": "months", "tips": "Japan's MAFF: keep dried goods away from heat, sunlight and damp and close the pack tightly. Nori goes limp faster than any other dried seaweed — keep the desiccant sachet in the bag and reseal after every use. A limp sheet crisps up again over a low flame." }
+      },
+      "freezer": {
+        "base": { "min": 1, "max": 2, "unit": "years", "tips": "Unopened packs freeze well and this is the standard way to keep a bulk purchase. Let the pack come back to room temperature before opening it, or condensation will ruin the sheets." }
+      }
+    },
+    "sources": [
+      { "name": "農林水産省 – 乾物", "url": "https://www.maff.go.jp/j/pr/aff/1909/spe2_01.html" }
+    ],
+    "analog": null,
+    "notes": "MAFF gives the conditions, not a nori-specific shelf life; the pantry range is shorter than for kombu or wakame because nori loses crispness and aroma long before it becomes unsafe. The freezer figure is common Japanese domestic practice, not a MAFF number."
+  },
+  {
+    "slug": "hijiki-dried",
+    "category": "shelf-stable",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Hijiki",
+    "subtitle": "dried",
+    "keywords": ["hijiki", "dried hijiki", "羊栖菜", "鹿尾菜", "ひじき", "ヒジキ", "alga hijiki"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Japan's MAFF: away from heat, sunlight and damp, tightly sealed." }
+      },
+      "fridge": {
+        "afterOpening": { "min": 12, "max": 18, "unit": "months", "tips": "Sealed. Rehydrated hijiki should be drained, refrigerated and used within a day or two; the soaking water is discarded." }
+      }
+    },
+    "sources": [
+      { "name": "農林水産省 – 乾物", "url": "https://www.maff.go.jp/j/pr/aff/1909/spe2_01.html" }
+    ],
+    "analog": null,
+    "notes": "MAFF gives the conditions and the general dried-goods statement rather than a hijiki-specific number. Note that hijiki is high in inorganic arsenic and several food agencies advise soaking, discarding the water, and eating it in moderation."
+  },
+  {
+    "slug": "agar-dried",
+    "category": "shelf-stable",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Agar",
+    "subtitle": "dried strips, sticks or powder",
+    "keywords": ["agar", "agar agar", "kanten", "洋菜", "寒天", "菜燕", "かんてん", "カンテン", "agar-agar"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 1, "max": 2, "unit": "years", "tips": "Japan's MAFF: keep dried goods away from heat, direct sunlight and damp and seal the container. Agar is essentially pure dried polysaccharide with almost no fat or protein to go rancid, so it is one of the longest-keeping dried goods in the cupboard." }
+      },
+      "fridge": {
+        "base": { "min": 5, "max": 7, "unit": "days", "tips": "For a set agar jelly: covered, in the fridge. Agar sets and holds at room temperature, unlike gelatine, but a sweetened jelly still spoils like any other prepared food." }
+      }
+    },
+    "sources": [
+      { "name": "農林水産省 – 乾物", "url": "https://www.maff.go.jp/j/pr/aff/1909/spe2_01.html" }
+    ],
+    "analog": null,
+    "notes": "MAFF gives storage conditions for dried goods generally. The set-jelly figure is ordinary prepared-food practice, not from the source."
+  },
+  {
+    "slug": "sweet-potato-leaves",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sweet Potato Leaves",
+    "subtitle": "fresh tips",
+    "keywords": ["sweet potato leaves", "camote tops", "地瓜葉", "番薯葉", "甘藷葉", "サツマイモの葉", "かんしょの葉", "hojas de camote"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 2, "max": 4, "unit": "days", "tips": "Ohio State gives spinach 3 to 5 days in a crisper or moisture-resistant wrap. Sweet potato tips wilt faster than that — do not wash them, bag them loosely and cook them the day after you buy them if you can." }
+      }
+    },
+    "sources": [
+      { "name": "Ohioline (Ohio State) HYG-5403 – Refrigerator Storage", "url": "https://ohioline.osu.edu/factsheet/HYG-5403" }
+    ],
+    "analog": "spinach",
+    "notes": "The Ohio State figure is for spinach, not sweet potato leaves; the range here is based on the FoodKeeper slug \"spinach\" and shortened because these tender shoot tips wilt noticeably faster."
+  },
+  {
+    "slug": "luffa",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Luffa",
+    "subtitle": "sponge gourd, young",
+    "keywords": ["luffa", "loofah", "sponge gourd", "angled gourd", "絲瓜", "菜瓜", "澎湖絲瓜", "ヘチマ", "esponja vegetal", "calabaza esponja"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 4, "max": 7, "unit": "days", "tips": "Buy them heavy and firm. The flesh browns quickly once cut, so peel and cook straight away; a cut end wrapped in cling film buys a day or two." }
+      }
+    },
+    "sources": [],
+    "analog": "summer-squash",
+    "notes": "No fetchable agency page gave a keeping time for 絲瓜. The numbers come from the FoodKeeper slug \"summer-squash\", which luffa resembles in water content and handling."
+  },
+  {
+    "slug": "bottle-gourd",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Bottle Gourd",
+    "subtitle": "young, whole",
+    "keywords": ["bottle gourd", "calabash", "opo squash", "lauki", "蒲瓜", "扁蒲", "瓠瓜", "ユウガオ", "ひょうたん", "calabaza vinatera", "guaje"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 7, "unit": "days", "tips": "A whole, unblemished gourd keeps a few days in a cool airy spot." }
+      },
+      "fridge": {
+        "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "Whole, unwrapped, in the crisper. Wrap the cut face of a part-used gourd." }
+      }
+    },
+    "sources": [],
+    "analog": "summer-squash",
+    "notes": "No fetchable agency page gave a keeping time for 蒲瓜. The numbers come from the FoodKeeper slug \"summer-squash\"."
+  },
+  {
+    "slug": "fuzzy-melon",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Fuzzy Melon",
+    "subtitle": "mo gwa, whole",
+    "keywords": ["fuzzy melon", "hairy gourd", "mo gwa", "毛瓜", "節瓜", "毛冬瓜", "毛瓜（けがうり）", "calabacín chino"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "The fine hairs rub off in handling; a bald, shiny melon is an older one. Keep it dry in the crisper." }
+      }
+    },
+    "sources": [],
+    "analog": "summer-squash",
+    "notes": "No fetchable agency page gave a keeping time for 節瓜. The numbers come from the FoodKeeper slug \"summer-squash\". Fuzzy melon is a young form of winter melon but is stored like a courgette, not like a mature wax gourd."
+  },
+  {
+    "slug": "lotus-root",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Lotus Root",
+    "subtitle": "fresh, unpeeled",
+    "keywords": ["lotus root", "renkon", "蓮藕", "藕", "蓮根", "れんこん", "レンコン", "raíz de loto"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "Leave the mud on and the sealed nodes intact — a cut section keeps only 2 to 3 days. Wrap in damp paper and bag. Cut slices go pink-brown fast, so hold them in water with a splash of vinegar." }
+      },
+      "freezer": {
+        "base": { "min": 2, "max": 3, "unit": "weeks", "tips": "Slice, blanch briefly and freeze; MAFF's guide to freezing vegetables at home gives about 3 weeks." }
+      }
+    },
+    "sources": [
+      { "name": "農林水産省 – 簡単な「冷凍ワザ」で、野菜を新鮮に！おいしく！", "url": "https://www.maff.go.jp/j/keikaku/syokubunka/culture/wagohan/articles/2203/spe7_03.html" }
+    ],
+    "analog": "carrots",
+    "notes": "The MAFF source covers home freezing of vegetables in general, not lotus root specifically. The fridge figure comes from the FoodKeeper slug \"carrots\", the closest dense root vegetable."
+  },
+  {
+    "slug": "water-chestnut",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Water Chestnut",
+    "subtitle": "fresh corms, unpeeled",
+    "keywords": ["water chestnut", "水栗", "荸薺", "馬蹄", "地栗", "オオクログワイ", "シログワイ", "castaña de agua"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "Keep the dark skins on and the corms slightly damp in a bag; peeled water chestnuts must be covered in water and used within 2 to 3 days." }
+      }
+    },
+    "sources": [],
+    "analog": "carrots",
+    "notes": "Taiwan's food-education platform describes 荸薺 but gives no storage advice, and no other fetchable agency page did either. The numbers come from the FoodKeeper slug \"carrots\"."
+  },
+  {
+    "slug": "water-bamboo",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Water Bamboo",
+    "subtitle": "jiaobaisun, in the husk",
+    "keywords": ["water bamboo", "manchurian wild rice stem", "jiaobai", "茭白筍", "腳白筍", "美人腿", "マコモタケ", "真菰筍", "zizania"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 5, "max": 7, "unit": "days", "tips": "Leave the green husks on — they are what keeps the white stem from drying — and bag it in the crisper. Black specks in the flesh are the smut fungus that creates the vegetable, not spoilage, though very black stems are past their best." }
+      }
+    },
+    "sources": [],
+    "analog": "corn-on-the-cob",
+    "notes": "Taiwan's Ministry of Agriculture pages on 茭白筍 describe the crop but the storage page could not be fetched. The numbers come from the FoodKeeper slug \"corn-on-the-cob\", chosen because water bamboo is likewise a husked grass stem that loses sugar and moisture from the moment it is cut."
+  },
+  {
+    "slug": "choy-sum",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Choy Sum",
+    "subtitle": "flowering cabbage",
+    "keywords": ["choy sum", "choi sum", "flowering cabbage", "菜心", "小白菜心", "油菜花", "サイシン", "菜心", "col floreciente"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "Taiwan's Ministry of Agriculture recommends misting the whole plant, bagging it and standing it root-end down in the fridge. Yellowing flowers are the first sign it is going." }
+      }
+    },
+    "sources": [
+      { "name": "農業部農業知識入口網 – 蔬菜應如何保存", "url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=1861" }
+    ],
+    "analog": "bok-choy",
+    "notes": "The Taiwanese source gives the misting-and-standing method for 油菜 but no duration. The 3–5 day figure comes from the FoodKeeper slug \"bok-choy\"."
+  },
+  {
+    "slug": "gai-lan",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Gai Lan",
+    "subtitle": "Chinese broccoli",
+    "keywords": ["gai lan", "kai lan", "chinese broccoli", "chinese kale", "芥藍", "芥蘭", "カイラン", "チャイニーズブロッコリー", "brócoli chino"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 4, "max": 7, "unit": "days", "tips": "Thicker-stemmed and hardier than most Asian greens. Bag it unwashed; trim and peel the woody stem base before cooking." }
+      }
+    },
+    "sources": [],
+    "analog": "broccoli",
+    "notes": "No fetchable agency page gave a keeping time for 芥藍. The numbers come from the FoodKeeper slug \"broccoli\", its closest relative in the dataset."
+  },
+  {
+    "slug": "amaranth-greens",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Amaranth Greens",
+    "subtitle": "fresh",
+    "keywords": ["amaranth greens", "chinese spinach", "callaloo", "yin choy", "莧菜", "紅莧菜", "ヒユナ", "ハゲイトウ", "amaranto", "quelite", "bledo"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 2, "max": 4, "unit": "days", "tips": "One of the fastest-wilting Asian greens. Do not wash before storing; bag loosely with a sheet of kitchen paper to catch condensation." }
+      }
+    },
+    "sources": [],
+    "analog": "spinach",
+    "notes": "No fetchable agency page gave a keeping time for 莧菜. The numbers come from the FoodKeeper slug \"spinach\", shortened by a day because amaranth leaves are thinner and collapse sooner."
+  },
+  {
+    "slug": "malabar-spinach",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Malabar Spinach",
+    "subtitle": "fresh",
+    "keywords": ["malabar spinach", "ceylon spinach", "vine spinach", "皇宮菜", "落葵", "木耳菜", "ツルムラサキ", "espinaca de Malabar", "basella"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "The thick succulent leaves hold up better than most greens, but they bruise black where they are crushed. Bag them loosely without washing." }
+      }
+    },
+    "sources": [],
+    "analog": "spinach",
+    "notes": "No fetchable agency page gave a keeping time for 皇宮菜. The numbers come from the FoodKeeper slug \"spinach\"."
+  },
+  {
+    "slug": "garlic-chives",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Garlic Chives",
+    "subtitle": "flat green leaves",
+    "keywords": ["garlic chives", "chinese chives", "nira", "韭菜", "韮菜", "ニラ", "にら", "cebollino chino", "ajo chino"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "Wrap the bunch in slightly damp paper and bag it. Cut leaves smell strongly of garlic and will scent everything else in the fridge, so seal them properly." }
+      },
+      "freezer": {
+        "base": { "min": 2, "max": 3, "unit": "weeks", "tips": "MAFF's home vegetable freezing guide gives about 3 weeks: chop, dry off the surface water, bag flat and freeze." }
+      }
+    },
+    "sources": [
+      { "name": "農林水産省 – 簡単な「冷凍ワザ」で、野菜を新鮮に！おいしく！", "url": "https://www.maff.go.jp/j/keikaku/syokubunka/culture/wagohan/articles/2203/spe7_03.html" }
+    ],
+    "analog": "chives",
+    "notes": "MAFF's figure is its general guide for home-frozen vegetables, not a nira-specific number. The fridge figure comes from the FoodKeeper slug \"chives\"."
+  },
+  {
+    "slug": "chive-flowers",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Garlic Chive Flowers",
+    "subtitle": "flowering stems",
+    "keywords": ["chive flowers", "flowering garlic chives", "韭菜花", "韭花", "花韭", "ニラの花", "花ニラ", "flor de cebollino chino"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 4, "max": 7, "unit": "days", "tips": "Buy stems with tight closed buds; once the white flowers open the stems have gone woody. Bag them dry in the crisper." }
+      }
+    },
+    "sources": [],
+    "analog": "chives",
+    "notes": "No fetchable agency page gave a keeping time for 韭菜花. The numbers come from the FoodKeeper slug \"chives\", extended because the thick flowering stems are sturdier than the leaves."
+  },
+  {
+    "slug": "pea-shoots",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Pea Shoots",
+    "subtitle": "dou miao, fresh",
+    "keywords": ["pea shoots", "pea tips", "dou miao", "豆苗", "豌豆苗", "豆芽苗", "とうみょう", "豆苗", "brotes de guisante"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 2, "max": 4, "unit": "days", "tips": "Very delicate. Keep them dry and loosely bagged; any water trapped on the leaves turns them to slime overnight. Rooted punnets last longer than cut shoots." }
+      }
+    },
+    "sources": [],
+    "analog": "bagged-greens-leaf-spinach-lettuce",
+    "notes": "No fetchable agency page gave a keeping time for 豆苗. The numbers come from the FoodKeeper slug \"bagged-greens-leaf-spinach-lettuce\"."
+  },
+  {
+    "slug": "baby-corn",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Baby Corn",
+    "subtitle": "fresh, in the husk",
+    "keywords": ["baby corn", "young corn", "玉米筍", "珍珠筍", "ヤングコーン", "ベビーコーン", "maíz baby", "elotito"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "Keep the husks on until you cook it — the whole cob including the cob core is edible at this size. Ohio State gives corn in husks only 1 to 2 days, so use it early." }
+      },
+      "freezer": {
+        "base": { "min": 2, "max": 3, "unit": "weeks", "tips": "MAFF gives home-frozen vegetables about 3 weeks; blanch briefly first." }
+      }
+    },
+    "sources": [
+      { "name": "Ohioline (Ohio State) HYG-5403 – Refrigerator Storage", "url": "https://ohioline.osu.edu/factsheet/HYG-5403" },
+      { "name": "農林水産省 – 簡単な「冷凍ワザ」で、野菜を新鮮に！おいしく！", "url": "https://www.maff.go.jp/j/keikaku/syokubunka/culture/wagohan/articles/2203/spe7_03.html" }
+    ],
+    "analog": "corn-on-the-cob",
+    "notes": "Both sources are general (sweetcorn in husks; home-frozen vegetables). The fridge range comes from the FoodKeeper slug \"corn-on-the-cob\", extended slightly because immature baby corn has far less sugar to lose than a mature cob."
+  },
+  {
+    "slug": "winged-bean",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Winged Bean",
+    "subtitle": "fresh pods",
+    "keywords": ["winged bean", "goa bean", "four angled bean", "翼豆", "四角豆", "楊桃豆", "シカクマメ", "うりずん豆", "frijol alado"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "The frilled edges brown and dry first. Bag the pods and use them while the wings are still crisp." }
+      }
+    },
+    "sources": [],
+    "analog": "beans-and-peas-green-fava-lima-soybean-wax-snow",
+    "notes": "No fetchable agency page gave a keeping time for 四角豆. The numbers come from the FoodKeeper slug \"beans-and-peas-green-fava-lima-soybean-wax-snow\"."
+  },
+  {
+    "slug": "long-bean",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Long Bean",
+    "subtitle": "yardlong bean, fresh",
+    "keywords": ["long bean", "yardlong bean", "snake bean", "豇豆", "長豆", "菜豆", "ジュウロクササゲ", "長ささげ", "frijol largo", "judía espárrago"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 4, "max": 7, "unit": "days", "tips": "Coil the bundle into a bag; long beans go limp and rubbery from the cut ends inward. They tolerate a few days better than a green bean because the pod wall is tougher." }
+      },
+      "freezer": {
+        "base": { "min": 2, "max": 3, "unit": "weeks", "tips": "MAFF gives home-frozen vegetables about 3 weeks; cut into lengths and blanch first." }
+      }
+    },
+    "sources": [
+      { "name": "農林水産省 – 簡単な「冷凍ワザ」で、野菜を新鮮に！おいしく！", "url": "https://www.maff.go.jp/j/keikaku/syokubunka/culture/wagohan/articles/2203/spe7_03.html" }
+    ],
+    "analog": "beans-and-peas-green-fava-lima-soybean-wax-snow",
+    "notes": "MAFF's figure is its general home-freezing guide, not a long-bean number. The fridge range comes from the FoodKeeper slug \"beans-and-peas-green-fava-lima-soybean-wax-snow\"."
+  },
+  {
+    "slug": "thai-eggplant",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Thai Eggplant",
+    "subtitle": "green golf-ball type",
+    "keywords": ["thai eggplant", "makhuea", "泰國茄子", "綠皮圓茄", "タイナス", "berenjena tailandesa"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 5, "max": 7, "unit": "days", "tips": "Keep the green calyx on. Cut halves brown almost immediately, so drop them into salted water until you cook them." }
+      }
+    },
+    "sources": [],
+    "analog": "eggplant",
+    "notes": "No fetchable agency page gave a keeping time for Thai eggplant. The numbers come from the FoodKeeper slug \"eggplant\"."
+  },
+  {
+    "slug": "banana-blossom",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Banana Blossom",
+    "subtitle": "fresh bud",
+    "keywords": ["banana blossom", "banana flower", "banana heart", "香蕉花", "芭蕉花", "バナナの花", "flor de plátano", "flor de banano"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 4, "max": 7, "unit": "days", "tips": "Store the bud whole and unpeeled — the tight purple bracts protect the pale heart. Once you strip it, the cut surfaces oxidise black in minutes, so work into acidulated water and cook the same day." }
+      }
+    },
+    "sources": [],
+    "analog": "artichokes-whole",
+    "notes": "No fetchable agency page gave a keeping time for banana blossom. The numbers come from the FoodKeeper slug \"artichokes-whole\", which behaves the same way: a tight bud of overlapping bracts that browns instantly once opened."
+  },
+  {
+    "slug": "taro-leaves",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Taro Leaves",
+    "subtitle": "fresh, luau leaf",
+    "keywords": ["taro leaves", "luau leaf", "callaloo", "dasheen leaves", "芋葉", "芋頭葉", "タロイモの葉", "hojas de taro", "hojas de malanga"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 2, "max": 4, "unit": "days", "tips": "Bag them dry and unwashed. Taro leaves must be cooked thoroughly — raw or undercooked leaves contain calcium oxalate crystals that burn the mouth and throat." }
+      }
+    },
+    "sources": [],
+    "analog": "greens",
+    "notes": "CTAHR's taro publications cover the corm rather than home storage of the leaf, and no other fetchable agency page gave a figure. The numbers come from the FoodKeeper slug \"greens\"."
+  },
+  {
+    "slug": "perilla-leaves",
+    "category": "herbs-spices",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Perilla Leaves",
+    "subtitle": "shiso, fresh",
+    "keywords": ["perilla", "shiso", "kkaennip", "紫蘇", "紫蘇葉", "しそ", "大葉", "シソ", "perilla", "shiso"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 5, "max": 10, "unit": "days", "tips": "Stand the stems in a small jar with a centimetre of water, bag the leaves loosely over the top and refrigerate; change the water every couple of days. Leaves stored flat in a sealed bag go black at the edges within days." }
+      }
+    },
+    "sources": [],
+    "analog": "basil-fresh",
+    "notes": "No fetchable agency page gave a keeping time for 紫蘇 / 大葉. The numbers come from the FoodKeeper slug \"basil-fresh\", which is stored the same way — though unlike basil, shiso does tolerate refrigeration."
+  },
+  {
+    "slug": "enoki",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Enoki",
+    "subtitle": "fresh",
+    "keywords": ["enoki", "enokitake", "golden needle mushroom", "金針菇", "金菇", "えのきたけ", "エノキタケ", "seta enoki"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 5, "max": 7, "unit": "days", "tips": "Leave enoki in its original sealed bag until you use it and keep it cold — chilled, packaged enoki has been linked to listeria outbreaks, so cook it rather than eating it raw. Slimy or brown-tipped clusters go in the bin." }
+      }
+    },
+    "sources": [],
+    "analog": "mushrooms",
+    "notes": "No fetchable agency page gave a keeping time for enoki specifically. The numbers come from the FoodKeeper slug \"mushrooms\", extended slightly because enoki is sold vacuum-bagged rather than loose."
+  },
+  {
+    "slug": "king-oyster-mushroom",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "King Oyster Mushroom",
+    "subtitle": "fresh",
+    "keywords": ["king oyster mushroom", "king trumpet", "eryngii", "杏鮑菇", "刺芹菇", "エリンギ", "seta de cardo", "trompeta real"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 7, "max": 10, "unit": "days", "tips": "The densest and best-keeping of the common cultivated mushrooms. Paper bag, not sealed plastic; do not wash before storing." }
+      }
+    },
+    "sources": [],
+    "analog": "mushrooms",
+    "notes": "No fetchable agency page gave a keeping time for 杏鮑菇. The numbers come from the FoodKeeper slug \"mushrooms\", extended because the thick dry stem holds far better than a gilled cap."
+  },
+  {
+    "slug": "shimeji",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Shimeji",
+    "subtitle": "fresh, beech mushroom",
+    "keywords": ["shimeji", "beech mushroom", "buna shimeji", "鴻喜菇", "本菇", "白玉菇", "ぶなしめじ", "シメジ", "seta shimeji"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 5, "max": 7, "unit": "days", "tips": "Keep the cluster intact on its base until you cook it, in the original pack or a paper bag." }
+      }
+    },
+    "sources": [],
+    "analog": "mushrooms",
+    "notes": "No fetchable agency page gave a keeping time for shimeji specifically. The numbers come from the FoodKeeper slug \"mushrooms\"."
+  },
+  {
+    "slug": "maitake",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Maitake",
+    "subtitle": "hen of the woods, fresh",
+    "keywords": ["maitake", "hen of the woods", "舞菇", "灰樹花", "舞茸", "まいたけ", "マイタケ", "maitake", "gallina de bosque"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 5, "max": 7, "unit": "days", "tips": "Paper bag in the crisper. Maitake darkens and softens from the frond edges; a whole cluster keeps better than torn pieces." }
+      }
+    },
+    "sources": [],
+    "analog": "mushrooms",
+    "notes": "No fetchable agency page gave a keeping time for maitake specifically. The numbers come from the FoodKeeper slug \"mushrooms\"."
+  },
+  {
+    "slug": "nameko",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Nameko",
+    "subtitle": "fresh",
+    "keywords": ["nameko", "滑菇", "珍珠菇", "なめこ", "ナメコ", "seta nameko"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 2, "max": 4, "unit": "days", "tips": "Nameko is naturally coated in a gel, so the usual slimy-means-spoiled test does not apply — judge it by smell and by whether the caps have gone brown and mushy. Keep the sealed pack cold and use it soon; it spoils faster than any other cultivated mushroom." }
+      }
+    },
+    "sources": [],
+    "analog": "mushrooms",
+    "notes": "No fetchable agency page gave a keeping time for nameko specifically. The numbers come from the FoodKeeper slug \"mushrooms\", shortened because nameko's high surface moisture makes it the most perishable of the group."
+  },
+  {
+    "slug": "straw-mushroom",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Straw Mushroom",
+    "subtitle": "fresh, unopened buttons",
+    "keywords": ["straw mushroom", "paddy straw mushroom", "草菇", "稻草菇", "フクロタケ", "seta de paja", "hongo de paja"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 1, "max": 3, "unit": "days", "tips": "Fresh straw mushrooms are notoriously short-lived and are actually damaged by cold storage below about 10 °C, which turns them grey and watery. Buy them the day you cook them; otherwise buy the canned ones." }
+      }
+    },
+    "sources": [],
+    "analog": "mushrooms",
+    "notes": "No fetchable agency page gave a keeping time for 草菇. The numbers come from the FoodKeeper slug \"mushrooms\", shortened because this tropical species is chilling-sensitive as well as perishable."
+  },
+  {
+    "slug": "matsutake",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Matsutake",
+    "subtitle": "fresh",
+    "keywords": ["matsutake", "pine mushroom", "松茸", "松蕈", "まつたけ", "マツタケ", "matsutake", "hongo de pino"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "Never wash it — the whole point is the aroma, and water strips it. Wrap each mushroom in kitchen paper, then in foil or a paper bag, and keep it in the least cold part of the fridge. Wipe grit off with a damp cloth just before cooking." }
+      },
+      "freezer": {
+        "base": { "min": 1, "max": 2, "unit": "months", "tips": "Slice and freeze in a sealed bag; the texture suffers but most of the aroma survives for a rice pot." }
+      }
+    },
+    "sources": [],
+    "analog": "mushrooms",
+    "notes": "No fetchable agency page gave a keeping time for matsutake. The fridge numbers come from the FoodKeeper slug \"mushrooms\"; the freezer figure is common Japanese domestic practice rather than a sourced number."
+  }
+]

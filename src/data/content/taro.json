@@ -1,0 +1,107 @@
+{
+  "slug": "taro",
+  "en": {
+    "name": "Taro",
+    "aliases": ["dasheen", "eddoe", "taro root", "kalo", "cocoyam"],
+    "summary": "Taro is a starchy tropical corm with a hairy brown skin that is sensitive to cold. It keeps about 7 days in a cool, dry, airy pantry from the date of purchase — refrigeration is not recommended and gives only 2–3 days. Always cook taro thoroughly, as the raw corm is irritating to eat.",
+    "pantry": "The pantry is the right place for taro: a cool, dry, dark spot with air circulation, where it keeps about 7 days from purchase. Store the corms loose or in a paper bag rather than sealed plastic, since trapped humidity causes mould on the hairy skin. Do not wash them until you cook, because damp skin rots quickly.",
+    "fridge": "Refrigeration is not recommended for taro, which suffers chilling injury and gives only 2–3 days from purchase. If you do refrigerate it, keep it dry in a paper bag in the warmest drawer and expect the flesh to develop hard, grey patches. Cooked taro is different and keeps a few days in a covered container.",
+    "freezer": "USDA gives no freezer timeline for taro. Raw taro freezes poorly and turns grainy, but cooked taro freezes well: boil or steam until tender, cool, then freeze in airtight portions for use in soups, stews and desserts.",
+    "thawing": "Thaw cooked taro in the fridge, or add it straight from frozen to a simmering soup or stew. Do not thaw raw taro at room temperature.",
+    "spoilage": [
+      "Soft, wet or mushy spots on the corm",
+      "Mould on the hairy skin, often at the cut end",
+      "Grey, slimy or discoloured flesh when cut",
+      "Sour or fermented smell"
+    ],
+    "tips": [
+      "Always cook taro thoroughly — raw taro contains irritating calcium oxalate crystals",
+      "Wear gloves when peeling, as the raw sap irritates the skin and causes itching",
+      "Store in a paper bag in a cool, airy pantry rather than the fridge",
+      "Cook and freeze taro in portions if you buy more than you can use in a week"
+    ],
+    "faq": [
+      {"q": "How long does taro last?", "a": "About 7 days from purchase in a cool, dry, airy pantry. Refrigeration is not recommended and gives only 2–3 days."},
+      {"q": "Why does peeling taro make your hands itch?", "a": "Raw taro contains calcium oxalate crystals that irritate the skin. Wear gloves when peeling, and always cook the corm thoroughly before eating."},
+      {"q": "Can you freeze taro?", "a": "Raw taro freezes poorly and turns grainy. Cook it first — boil or steam until tender — then cool and freeze in airtight portions for soups and desserts."}
+    ]
+  },
+  "zh": {
+    "name": "芋頭",
+    "aliases": ["芋", "檳榔心芋", "芋艿", "小芋頭", "芋仔"],
+    "summary": "芋頭是澱粉含量高的熱帶球莖，外皮褐色帶毛，而且怕冷。放在陰涼乾燥通風的地方，從購買日起約可放 7 天——不建議冷藏，冷藏只能放 2～3 天。芋頭一定要徹底煮熟，生的會刺激口腔。",
+    "pantry": "常溫櫥櫃才是芋頭該待的地方：陰涼、乾燥、避光又通風，從購買日起約可放 7 天。請鬆散擺放或裝在紙袋裡，不要密封在塑膠袋裡，悶住的濕氣會讓帶毛的表皮發霉。要煮之前才洗，潮濕的表皮會很快腐爛。",
+    "fridge": "芋頭不建議冷藏，它會有寒害，而且從購買日起只能放 2～3 天。真的要冷藏請保持乾燥、裝紙袋放在最不冷的抽屜，並且要有果肉出現灰硬斑塊的心理準備。煮熟的芋頭則不同，裝進有蓋容器可以放幾天。",
+    "freezer": "USDA 沒有提供芋頭的冷凍期限。生芋頭冷凍效果不好，會變得粗糙；但煮熟的芋頭很適合冷凍：水煮或蒸到軟，放涼後分裝密封冷凍，可以用來做湯、燉菜和甜點。",
+    "thawing": "煮熟的芋頭放冷藏室退冰，或直接從冷凍加進滾著的湯或燉菜裡。生芋頭不要在室溫退冰。",
+    "spoilage": [
+      "球莖上出現軟軟、濕濕或軟爛的斑塊",
+      "帶毛的表皮長黴，常在切口處",
+      "切開後果肉發灰、黏滑或變色",
+      "有酸味或發酵味"
+    ],
+    "tips": [
+      "芋頭一定要徹底煮熟，生的含有會刺激的草酸鈣結晶",
+      "削皮時戴手套，生芋頭的黏液會讓皮膚發癢",
+      "裝紙袋放在陰涼通風的櫥櫃，不要放冰箱",
+      "一週內吃不完的話，先煮熟再分裝冷凍"
+    ],
+    "faq": [
+      {"q": "芋頭可以放多久？", "a": "放陰涼乾燥通風的地方，從購買日起約 7 天。不建議冷藏，冷藏只有 2～3 天。"},
+      {"q": "削芋頭為什麼手會癢？", "a": "生芋頭含有草酸鈣結晶，會刺激皮膚。削皮時請戴手套，而且食用前一定要徹底煮熟。"},
+      {"q": "芋頭可以冷凍嗎？", "a": "生的冷凍效果不好，會變粗糙。建議先水煮或蒸到軟，放涼後分裝密封冷凍，用來做湯或甜點。"}
+    ]
+  },
+  "ja": {
+    "name": "タロイモ（里芋類）",
+    "aliases": ["タロイモ", "里芋", "さといも", "ダシーン", "エドー"],
+    "summary": "タロイモはでんぷん質の多い熱帯のいもで、毛の生えた茶色い皮を持ち、低温に弱いのが特徴です。涼しく乾燥した風通しのよい場所で購入日から約7日持ちます。冷蔵は推奨されず、2〜3日しか持ちません。生では口内を刺激するため、必ずしっかり加熱してください。",
+    "pantry": "タロイモの置き場所は常温の食品庫です。涼しく乾燥し暗く風通しのよい場所なら、購入日から約7日持ちます。密閉ポリ袋ではなく、ばらのままか紙袋で保存を。湿気がこもると毛の生えた皮にカビが出ます。皮が濡れると腐りやすいので、調理直前まで洗わないでください。",
+    "fridge": "タロイモに冷蔵は推奨されません。低温障害を起こし、購入日から2〜3日しか持ちません。どうしても冷蔵する場合は、乾いた状態で紙袋に入れ、庫内で最も温度の高い引き出しへ。果肉に硬い灰色の部分が出ることがあります。加熱済みのものは別で、ふた付き容器で数日持ちます。",
+    "freezer": "USDAはタロイモの冷凍期間を示していません。生のままはざらついて不向きですが、加熱後ならよく冷凍できます。ゆでるか蒸してやわらかくし、冷ましてから小分け密閉し、スープや煮物、デザートに使いましょう。",
+    "thawing": "加熱済みのタロイモは冷蔵庫で解凍するか、凍ったまま煮立ったスープや煮込みに加えます。生のいもを室温で解凍しないでください。",
+    "spoilage": [
+      "いもにやわらかい、湿った、ぶよぶよした部分がある",
+      "毛の生えた皮にカビ（切り口に出やすい）",
+      "切ると果肉が灰色、ぬめる、変色している",
+      "酸っぱいにおいや発酵臭がする"
+    ],
+    "tips": [
+      "必ずしっかり加熱を。生のいもには刺激性のシュウ酸カルシウムが含まれます",
+      "皮をむくときは手袋を。生の汁が肌を刺激してかゆくなります",
+      "冷蔵庫ではなく、紙袋に入れて涼しく風通しのよい場所で保存を",
+      "1週間で使い切れないなら、加熱してから小分け冷凍しましょう"
+    ],
+    "faq": [
+      {"q": "タロイモはどのくらい持ちますか？", "a": "涼しく乾燥した風通しのよい場所で購入日から約7日です。冷蔵は推奨されず、2〜3日しか持ちません。"},
+      {"q": "里芋の皮をむくと手がかゆくなるのはなぜですか？", "a": "生のいもに含まれるシュウ酸カルシウムの結晶が皮膚を刺激するためです。手袋をしてむき、食べる前は必ずしっかり加熱してください。"},
+      {"q": "タロイモは冷凍できますか？", "a": "生のままはざらつくため不向きです。ゆでるか蒸してやわらかくし、冷ましてから小分け密閉で冷凍しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Taro",
+    "aliases": ["malanga", "ñame chino", "dasheen", "eddoe", "papa china"],
+    "summary": "El taro es un cormo tropical feculento de piel marrón y vellosa, sensible al frío. Dura alrededor de 7 días en una despensa fresca, seca y aireada desde la compra; la refrigeración no se recomienda y solo da 2–3 días. Cocínalo siempre a fondo, porque crudo resulta irritante.",
+    "pantry": "La despensa es su sitio: un lugar fresco, seco, oscuro y con circulación de aire, donde dura alrededor de 7 días desde la compra. Guarda los cormos sueltos o en una bolsa de papel y no en plástico cerrado, porque la humedad retenida provoca moho en la piel vellosa. No los laves hasta cocinarlos, porque la piel húmeda se pudre rápido.",
+    "fridge": "La refrigeración no se recomienda para el taro, que sufre daño por frío y solo dura 2–3 días desde la compra. Si lo refrigeras, mantenlo seco en una bolsa de papel en el cajón más templado y cuenta con que la pulpa desarrolle zonas duras y grisáceas. El taro cocinado es distinto y aguanta unos días en recipiente tapado.",
+    "freezer": "El USDA no da un plazo de congelación para el taro. Crudo se congela mal y queda granuloso, pero cocinado se congela bien: hiérvelo o cuécelo al vapor hasta que esté tierno, enfríalo y congélalo en porciones herméticas para sopas, guisos y postres.",
+    "thawing": "Descongela el taro cocinado en la nevera, o añádelo congelado a una sopa o un guiso a fuego lento. No descongeles taro crudo a temperatura ambiente.",
+    "spoilage": [
+      "Zonas blandas, húmedas o deshechas en el cormo",
+      "Moho en la piel vellosa, a menudo en el extremo cortado",
+      "Pulpa gris, viscosa o descolorida al cortarlo",
+      "Olor agrio o fermentado"
+    ],
+    "tips": [
+      "Cocina siempre el taro a fondo: crudo contiene cristales irritantes de oxalato cálcico",
+      "Usa guantes al pelarlo, porque la savia cruda irrita la piel y produce picor",
+      "Guárdalo en bolsa de papel en una despensa fresca y aireada, no en la nevera",
+      "Cocínalo y congélalo en porciones si compras más de lo que usarás en una semana"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el taro?", "a": "Alrededor de 7 días desde la compra en una despensa fresca, seca y aireada. La refrigeración no se recomienda y solo da 2–3 días."},
+      {"q": "¿Por qué pica pelar el taro?", "a": "El taro crudo contiene cristales de oxalato cálcico que irritan la piel. Usa guantes al pelarlo y cocina siempre el cormo a fondo antes de comerlo."},
+      {"q": "¿Se puede congelar el taro?", "a": "Crudo se congela mal y queda granuloso. Cocínalo antes —hervido o al vapor hasta que esté tierno—, enfríalo y congélalo en porciones herméticas."}
+    ]
+  }
+}

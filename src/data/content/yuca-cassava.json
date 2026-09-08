@@ -1,0 +1,107 @@
+{
+  "slug": "yuca-cassava",
+  "en": {
+    "name": "Cassava (yuca)",
+    "aliases": ["yuca", "manioc", "tapioca root", "mandioca", "cassava root"],
+    "summary": "Cassava is a long starchy root with a thick brown bark-like skin, sold fresh or waxed. It keeps about 7 days in a cool pantry from the date of purchase, only about 3 days in the fridge, and 1–2 months in the freezer. Cassava must always be peeled and cooked thoroughly before eating.",
+    "pantry": "A cool, dry, dark spot with good airflow keeps whole cassava about 7 days from purchase. Waxed roots hold moisture better than unwaxed ones, which begin to develop grey streaks within a few days. Once a root is cut, do not leave it at room temperature; submerge the pieces in water in the fridge or freeze them.",
+    "fridge": "Refrigeration gives only about 3 days from purchase and does not suit cassava well, since the cold accelerates the grey and blue streaking inside the flesh. If you do refrigerate cut cassava, peel it and keep the pieces submerged in cold water in a sealed container, changing the water daily.",
+    "freezer": "The freezer is the best storage option for cassava beyond a few days: peeled chunks keep 1–2 months from purchase at −18 °C (0 °F). Peel, remove the fibrous core, cut into chunks, pack into airtight bags with the air pressed out and freeze. Boil the chunks straight from frozen.",
+    "thawing": "Boil frozen cassava chunks straight from the freezer until tender — there is no need to thaw. Never eat cassava raw or undercooked, whatever its storage history.",
+    "spoilage": [
+      "Grey, blue or black streaks running through the white flesh",
+      "Soft, wet or mushy spots along the root",
+      "Mould or slime on the cut ends",
+      "Sour or fermented smell when the root is cut open"
+    ],
+    "tips": [
+      "Always peel cassava completely and boil it thoroughly before eating",
+      "Cut the root into sections, then peel each with a knife — a peeler will not manage the thick skin",
+      "Remove the tough fibrous core running down the middle",
+      "Snap a root at the shop: white, firm flesh with no streaks means it is fresh"
+    ],
+    "faq": [
+      {"q": "How long does cassava last?", "a": "About 7 days from purchase in a cool, dry pantry, only about 3 days in the fridge, and 1–2 months peeled and frozen at −18 °C (0 °F)."},
+      {"q": "Can you freeze cassava?", "a": "Yes, and it is the best option for longer storage. Peel, core, cut into chunks and freeze in airtight bags for 1–2 months, then boil straight from frozen."},
+      {"q": "Why must cassava be cooked thoroughly?", "a": "Raw cassava contains naturally occurring compounds that must be removed by peeling and thorough cooking. Never eat it raw or undercooked."}
+    ]
+  },
+  "zh": {
+    "name": "木薯",
+    "aliases": ["樹薯", "cassava", "yuca", "木薯根", "樹薯根"],
+    "summary": "木薯是細長的高澱粉根莖，外皮厚實呈褐色像樹皮，市售有原態和上蠟兩種。放在陰涼櫥櫃，從購買日起約可放 7 天；冷藏只有約 3 天；冷凍則可保存 1～2 個月。木薯食用前一定要削皮並徹底煮熟。",
+    "pantry": "陰涼、乾燥、避光又通風良好的地方，可以讓整根木薯從購買日起放約 7 天。上過蠟的比沒上蠟的更能保水，沒上蠟的幾天內就會開始出現灰色紋路。一旦切開就不要放室溫，請把切塊泡在水裡冷藏，或直接冷凍。",
+    "fridge": "冷藏從購買日起只有約 3 天，而且對木薯來說不太合適，低溫會加速果肉內部出現灰藍色紋路。真的要冷藏切好的木薯，請削皮後把切塊完全浸在冷水裡、裝密封盒，並每天換水。",
+    "freezer": "要保存超過幾天的話，冷凍是最好的選擇：削皮的木薯塊放 −18°C，從購買日起可保存 1～2 個月。削皮、去掉中央的纖維芯、切塊後裝進密封袋擠出空氣冷凍。要煮時直接從冷凍下鍋水煮。",
+    "thawing": "冷凍木薯塊直接下鍋煮到軟即可，不需要解凍。不論怎麼保存，木薯絕對不能生吃或半生食用。",
+    "spoilage": [
+      "白色果肉裡出現灰色、藍色或黑色紋路",
+      "根上出現軟軟、濕濕或軟爛的斑塊",
+      "切口處長黴或變得黏滑",
+      "剖開時聞到酸味或發酵味"
+    ],
+    "tips": [
+      "木薯一定要完全削皮並徹底煮熟才能吃",
+      "先把根切成幾段，再用刀削皮，削皮器對付不了那麼厚的皮",
+      "中間那條硬硬的纖維芯要去掉",
+      "在店裡可以折斷一小段看看，果肉潔白結實、沒有紋路就代表新鮮"
+    ],
+    "faq": [
+      {"q": "木薯可以放多久？", "a": "放陰涼乾燥的櫥櫃，從購買日起約 7 天；冷藏只有約 3 天；削皮後放 −18°C 冷凍則可保存 1～2 個月。"},
+      {"q": "木薯可以冷凍嗎？", "a": "可以，而且是長期保存的最佳選擇。削皮去芯切塊後裝密封袋冷凍 1～2 個月，要煮時直接從冷凍下鍋。"},
+      {"q": "木薯為什麼一定要煮透？", "a": "生木薯含有天然的成分，必須透過削皮和徹底加熱去除。絕對不要生吃或吃沒煮熟的木薯。"}
+    ]
+  },
+  "ja": {
+    "name": "キャッサバ（ユカ）",
+    "aliases": ["キャッサバ", "ユカ", "マニオク", "タピオカの原料", "キャッサバ芋"],
+    "summary": "キャッサバはでんぷん質の多い細長いいもで、樹皮のような厚い茶色の皮を持ち、ろう引きされたものもあります。涼しい食品庫で購入日から約7日、冷蔵では約3日、冷凍なら1〜2か月保存できます。食べる前は必ず皮をむき、しっかり加熱してください。",
+    "pantry": "涼しく乾燥した暗く風通しのよい場所なら、丸ごとで購入日から約7日持ちます。ろう引きされたものは水分が抜けにくく、そうでないものは数日で灰色の筋が出はじめます。切ったあとは常温に置かず、水に浸して冷蔵するか冷凍しましょう。",
+    "fridge": "冷蔵では購入日から約3日しか持たず、キャッサバにはあまり向きません。低温で果肉に灰色や青い筋が出るのが早まるためです。冷蔵する場合は皮をむき、切ったものを冷水に完全に浸して密閉容器に入れ、水を毎日替えてください。",
+    "freezer": "数日を超えて保存するなら冷凍が最適です。皮をむいた塊は−18℃で購入日から1〜2か月保存できます。皮をむき、中心の硬い繊維を除き、ぶつ切りにして密閉袋の空気を抜いて冷凍を。調理は凍ったままゆでればOKです。",
+    "thawing": "冷凍したキャッサバは解凍せず、そのままやわらかくなるまでゆでてください。保存方法にかかわらず、生や加熱不十分の状態で食べては絶対にいけません。",
+    "spoilage": [
+      "白い果肉に灰色、青、黒の筋が入っている",
+      "いもにやわらかい、湿った、ぶよぶよした部分がある",
+      "切り口にカビやぬめりがある",
+      "切ったときに酸っぱいにおいや発酵臭がする"
+    ],
+    "tips": [
+      "必ず完全に皮をむき、しっかりゆでてから食べましょう",
+      "いもを数等分してから包丁で皮をむきます。ピーラーでは厚い皮に対応できません",
+      "中心を通る硬い繊維は取り除きましょう",
+      "店では折ってみて、白くしまり筋のない果肉なら新鮮です"
+    ],
+    "faq": [
+      {"q": "キャッサバはどのくらい持ちますか？", "a": "涼しく乾燥した場所で購入日から約7日、冷蔵で約3日、皮をむいて−18℃で冷凍すれば1〜2か月です。"},
+      {"q": "キャッサバは冷凍できますか？", "a": "できますし、長期保存には最適です。皮と芯を除いてぶつ切りにし、密閉袋で1〜2か月冷凍。凍ったままゆでられます。"},
+      {"q": "キャッサバをしっかり加熱しなければならないのはなぜですか？", "a": "生のキャッサバには、皮をむき十分に加熱することで取り除くべき天然成分が含まれるためです。生や半生では絶対に食べないでください。"}
+    ]
+  },
+  "es": {
+    "name": "Yuca (mandioca)",
+    "aliases": ["yuca", "mandioca", "casabe", "cassava", "raíz de yuca"],
+    "summary": "La yuca es una raíz feculenta y alargada con una piel gruesa y marrón parecida a la corteza, que se vende fresca o encerada. Dura alrededor de 7 días en una despensa fresca desde la compra, solo unos 3 días en la nevera y 1–2 meses en el congelador. Siempre debe pelarse y cocinarse bien antes de comerla.",
+    "pantry": "Un sitio fresco, seco, oscuro y con buena ventilación mantiene la yuca entera alrededor de 7 días desde la compra. Las raíces enceradas retienen mejor la humedad que las sin encerar, que empiezan a mostrar vetas grises en pocos días. Una vez cortada, no la dejes a temperatura ambiente: sumerge los trozos en agua en la nevera o congélalos.",
+    "fridge": "La nevera da solo unos 3 días desde la compra y no le sienta bien a la yuca, porque el frío acelera las vetas grises y azuladas de la pulpa. Si refrigeras yuca cortada, pélala y mantén los trozos sumergidos en agua fría en un recipiente cerrado, cambiando el agua a diario.",
+    "freezer": "El congelador es la mejor opción más allá de unos pocos días: los trozos pelados duran 1–2 meses desde la compra a −18 °C (0 °F). Pélala, retira el corazón fibroso, córtala en trozos y congélala en bolsas herméticas sin aire. Hierve los trozos directamente congelados.",
+    "thawing": "Hierve los trozos congelados hasta que estén tiernos: no hace falta descongelar. Nunca comas yuca cruda o poco cocinada, sea cual sea su historial de conservación.",
+    "spoilage": [
+      "Vetas grises, azuladas o negras recorriendo la pulpa blanca",
+      "Zonas blandas, húmedas o deshechas a lo largo de la raíz",
+      "Moho o baba en los extremos cortados",
+      "Olor agrio o fermentado al abrir la raíz"
+    ],
+    "tips": [
+      "Pela siempre la yuca por completo y hiérvela bien antes de comerla",
+      "Corta la raíz en secciones y pela cada una con cuchillo: un pelador no puede con la piel gruesa",
+      "Retira el corazón fibroso y duro que la recorre por dentro",
+      "Parte una raíz en la tienda: pulpa blanca, firme y sin vetas indica frescura"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la yuca?", "a": "Alrededor de 7 días desde la compra en una despensa fresca y seca, solo unos 3 días en la nevera, y 1–2 meses pelada y congelada a −18 °C (0 °F)."},
+      {"q": "¿Se puede congelar la yuca?", "a": "Sí, y es la mejor opción para conservarla más tiempo. Pélala, quítale el corazón, córtala en trozos y congélala en bolsas herméticas 1–2 meses; hiérvela congelada."},
+      {"q": "¿Por qué hay que cocinar bien la yuca?", "a": "La yuca cruda contiene compuestos naturales que deben eliminarse pelándola y cocinándola a fondo. Nunca la comas cruda ni poco cocinada."}
+    ]
+  }
+}

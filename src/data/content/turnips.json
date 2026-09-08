@@ -1,0 +1,107 @@
+{
+  "slug": "turnips",
+  "en": {
+    "name": "Turnips",
+    "aliases": ["white turnip", "purple-top turnip", "baby turnips", "navet"],
+    "summary": "Turnips are crisp, peppery roots that keep well in the cold once their leafy tops are removed. In the fridge they last about 2 weeks from the date of purchase, and blanched and frozen they keep 8–10 months. The greens are edible and can be cooked like chard.",
+    "pantry": "Turnips do not last long at room temperature: they lose water, go rubbery and turn woody within a couple of days in a warm kitchen. Cut off the leafy tops as soon as you get home, since the leaves keep drawing moisture out of the root, then refrigerate. A very cool cellar would hold them longer, but a normal kitchen will not.",
+    "fridge": "Trim the tops, then store the roots unwashed in a perforated bag in the crisper at 4 °C (40 °F) or below, where they keep about 2 weeks from purchase. Leave the skin intact until cooking, as a cut surface dries and darkens quickly. The greens should be stored separately and used within a couple of days.",
+    "freezer": "Turnips freeze for 8–10 months from purchase at −18 °C (0 °F) if blanched first. Peel, cut into even cubes, boil for 2–3 minutes, plunge into iced water, drain and dry, then freeze on a tray and bag. Mashed cooked turnip also freezes well in airtight portions.",
+    "thawing": "Cook frozen turnip straight from the freezer in soups, stews and roasts. Thaw mashed turnip in the fridge and reheat it gently with butter.",
+    "spoilage": [
+      "Soft, wrinkled or rubbery roots",
+      "Slimy patches or black soft spots, especially at the crown",
+      "Woody, hollow or discoloured centre when cut",
+      "Musty or sour smell in the bag"
+    ],
+    "tips": [
+      "Cut the leafy tops off the day you buy them and cook the greens separately",
+      "Choose small to medium turnips — large ones tend to be woody and strong-tasting",
+      "Store unwashed in a perforated bag rather than sealed plastic",
+      "Blanch cubes before freezing so they keep their colour and texture"
+    ],
+    "faq": [
+      {"q": "How long do turnips last in the fridge?", "a": "About 2 weeks from purchase at 4 °C (40 °F) or below, with the tops removed and the roots stored unwashed in a perforated bag."},
+      {"q": "Can you freeze turnips?", "a": "Yes, if blanched for 2–3 minutes first, then chilled, dried and frozen. They keep 8–10 months at −18 °C (0 °F), and mashed turnip freezes well too."},
+      {"q": "Can you eat turnip greens?", "a": "Yes. Turnip tops are edible and taste like a peppery chard. Cook them within a couple of days, as they wilt much faster than the roots."}
+    ]
+  },
+  "zh": {
+    "name": "蕪菁",
+    "aliases": ["大頭菜", "白蕪菁", "紫頭蕪菁", "圓菜頭", "turnip"],
+    "summary": "蕪菁是清脆帶點辛味的根莖類，只要把葉子切掉，低溫下就很耐放。冷藏從購買日起約可放 2 週，燙過後冷凍則可保存 8～10 個月。它的葉子也可以吃，做法和莙薘菜差不多。",
+    "pantry": "蕪菁在室溫下放不久：在溫暖的廚房裡一兩天就會失水、變韌、口感木質化。買回家請立刻切掉葉子，因為葉子會不斷把根部的水分抽走，然後直接冷藏。很涼的地下室可以放更久，但一般廚房做不到。",
+    "fridge": "切掉葉子後，根部不清洗，裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起約可放 2 週。煮之前保留完整外皮，切面很快就會變乾變暗。葉子要另外保存，並在一兩天內用完。",
+    "freezer": "蕪菁先汆燙再冷凍，放 −18°C，從購買日起可保存 8～10 個月。削皮切成大小一致的丁，滾水煮 2～3 分鐘，撈起泡冰水，瀝乾擦乾，鋪盤冷凍後裝袋。煮熟壓成泥的蕪菁也很適合分裝密封冷凍。",
+    "thawing": "冷凍蕪菁可以直接下鍋，用在湯品、燉菜和烤蔬菜。做成泥的則放冷藏室退冰，加奶油小火回熱。",
+    "spoilage": [
+      "根部變軟、起皺或變得像橡膠",
+      "出現黏滑或黑色軟斑，尤其在頂端",
+      "切開後中心木質化、中空或變色",
+      "袋子裡有霉味或酸味"
+    ],
+    "tips": [
+      "買回來當天就把葉子切掉，葉子另外料理",
+      "挑中小型的，太大的通常木質化又味道太重",
+      "不清洗裝在打洞袋裡，不要密封在塑膠袋",
+      "切丁後先汆燙再冷凍，才能保住顏色和口感"
+    ],
+    "faq": [
+      {"q": "蕪菁放冰箱可以放多久？", "a": "切掉葉子、根部不清洗裝在打洞袋裡，放 4°C 以下，從購買日起約 2 週。"},
+      {"q": "蕪菁可以冷凍嗎？", "a": "可以，但要先汆燙 2～3 分鐘，再冰鎮、擦乾後冷凍。放 −18°C 可保存 8～10 個月，做成泥冷凍效果也很好。"},
+      {"q": "蕪菁的葉子可以吃嗎？", "a": "可以。蕪菁葉吃起來像帶點辛味的莙薘菜。不過它比根部軟垮得快很多，請在一兩天內煮掉。"}
+    ]
+  },
+  "ja": {
+    "name": "かぶ",
+    "aliases": ["カブ", "蕪", "小かぶ", "赤かぶ", "白かぶ"],
+    "summary": "かぶはシャキッとしてほのかに辛みのある根菜で、葉を落としておけば低温でよく日持ちします。冷蔵では購入日から約2週間、下ゆでして冷凍すれば8〜10か月保存できます。葉も食べられ、スイスチャードのように調理できます。",
+    "pantry": "かぶは常温では長持ちしません。暖かい台所では1〜2日で水分が抜け、ゴムのようになり筋張ってきます。葉が根の水分を吸い続けるので、帰宅したらすぐ葉を切り落として冷蔵しましょう。かなり涼しい貯蔵庫ならもっと持ちますが、通常の台所では無理です。",
+    "fridge": "葉を落とし、根は洗わずに穴あき袋へ入れ、4℃以下の野菜室で保存すれば購入日から約2週間持ちます。切り口はすぐ乾いて黒ずむので、調理まで皮はそのままに。葉は別に保存し、1〜2日以内に使い切りましょう。",
+    "freezer": "下ゆですれば−18℃で購入日から8〜10か月冷凍できます。皮をむいて均一な角切りにし、2〜3分ゆで、氷水に取り、水気を切って拭き、バットで凍らせてから袋へ。ゆでてつぶしたものも小分け密閉でよく冷凍できます。",
+    "thawing": "冷凍したかぶはスープや煮込み、ローストに凍ったまま使えます。マッシュにしたものは冷蔵庫で解凍し、バターを加えて弱火で温め直しましょう。",
+    "spoilage": [
+      "根がやわらかい、しわが寄る、ゴムのようになっている",
+      "とくに上部にぬめりや黒いやわらかい部分がある",
+      "切ると中心が木質化、空洞、変色している",
+      "袋の中がカビ臭い、酸っぱい"
+    ],
+    "tips": [
+      "買った当日に葉を切り落とし、葉は別に調理しましょう",
+      "小〜中サイズを選びましょう。大きいものは筋張って味も強くなりがちです",
+      "洗わず穴あき袋で保存を。密閉ポリ袋は避けましょう",
+      "角切りは下ゆでしてから冷凍すると、色も食感も保てます"
+    ],
+    "faq": [
+      {"q": "かぶは冷蔵庫でどのくらい持ちますか？", "a": "葉を落とし、根を洗わず穴あき袋に入れて4℃以下なら、購入日から約2週間です。"},
+      {"q": "かぶは冷凍できますか？", "a": "できます。2〜3分下ゆでして冷やし、拭いてから冷凍を。−18℃で8〜10か月、マッシュにしても冷凍向きです。"},
+      {"q": "かぶの葉は食べられますか？", "a": "食べられます。ほんのり辛みのあるスイスチャードのような味です。根よりずっと早くしおれるので、1〜2日以内に調理しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Nabos",
+    "aliases": ["nabo blanco", "nabo de mesa", "nabos baby", "nabo morado"],
+    "summary": "Los nabos son raíces crujientes y ligeramente picantes que se conservan bien en frío una vez retiradas sus hojas. En la nevera duran alrededor de 2 semanas desde la compra, y escaldados y congelados 8–10 meses. Las hojas son comestibles y se cocinan como las acelgas.",
+    "pantry": "Los nabos no duran mucho a temperatura ambiente: pierden agua, se vuelven gomosos y leñosos en un par de días en una cocina cálida. Corta las hojas nada más llegar a casa, porque siguen extrayendo humedad de la raíz, y refrigéralos. Un sótano muy fresco los conservaría más, pero una cocina normal no.",
+    "fridge": "Corta las hojas y guarda las raíces sin lavar en una bolsa perforada en el cajón de verduras a 4 °C (40 °F) o menos, donde duran alrededor de 2 semanas desde la compra. Deja la piel intacta hasta cocinarlos, porque la superficie cortada se seca y oscurece rápido. Guarda las hojas aparte y úsalas en un par de días.",
+    "freezer": "Se congelan 8–10 meses desde la compra a −18 °C (0 °F) si los escaldas antes. Pélalos, córtalos en dados uniformes, hiérvelos 2–3 minutos, pásalos a agua helada, escúrrelos y sécalos, congélalos en bandeja y embólsalos. El puré cocinado también se congela bien en porciones herméticas.",
+    "thawing": "Cocina los nabos congelados directamente en sopas, guisos y asados. Descongela el puré en la nevera y recaliéntalo suavemente con mantequilla.",
+    "spoilage": [
+      "Raíces blandas, arrugadas o gomosas",
+      "Zonas viscosas o manchas negras blandas, sobre todo en la corona",
+      "Centro leñoso, hueco o descolorido al cortarlos",
+      "Olor a humedad o agrio dentro de la bolsa"
+    ],
+    "tips": [
+      "Corta las hojas el día de la compra y cocínalas aparte",
+      "Elige nabos pequeños o medianos: los grandes suelen ser leñosos y de sabor fuerte",
+      "Guárdalos sin lavar en bolsa perforada en lugar de plástico sellado",
+      "Escalda los dados antes de congelar para conservar color y textura"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los nabos en la nevera?", "a": "Alrededor de 2 semanas desde la compra a 4 °C (40 °F) o menos, con las hojas retiradas y las raíces sin lavar en una bolsa perforada."},
+      {"q": "¿Se pueden congelar los nabos?", "a": "Sí, escaldándolos 2–3 minutos antes y luego enfriándolos, secándolos y congelándolos. Duran 8–10 meses a −18 °C (0 °F), y el puré también se congela bien."},
+      {"q": "¿Se pueden comer las hojas de nabo?", "a": "Sí. Las hojas son comestibles y saben a acelga algo picante. Cocínalas en un par de días, porque se marchitan mucho antes que las raíces."}
+    ]
+  }
+}

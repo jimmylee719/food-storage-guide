@@ -1,0 +1,107 @@
+{
+  "slug": "re-hydrated-textured-soy-protein",
+  "en": {
+    "name": "Rehydrated textured soy protein (TSP)",
+    "aliases": ["hydrated TVP", "soaked soy mince", "prepared soy protein", "rehydrated soya chunks"],
+    "summary": "Rehydrated textured soy protein is dry TSP that has been soaked in water or stock until it plumps up into a moist, meat-like ingredient. Rehydrating changes everything about its storage: the dry mix keeps 3–4 months, but once prepared it is a perishable food that lasts only 3–4 days in the fridge at 4 °C (40 °F) or below.",
+    "pantry": "The dry pantry timeline of 3–4 months applies to the unhydrated mix in a sealed container, not to the soaked product. Once water goes in, rehydrated TSP behaves like any moist, high-protein, low-acid food and cannot be left at room temperature: discard anything left in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) for more than 2 hours, or 1 hour above 32 °C (90 °F).",
+    "fridge": "Drain the rehydrated protein well, cool it quickly if you soaked it in hot stock, and store it in a covered container at 4 °C (40 °F) or below for 3–4 days. That window applies to the prepared product whether it is plain, seasoned or already cooked into a sauce. Do not top up an older container with a fresh batch.",
+    "freezer": "Rehydrated TSP freezes far better as part of a finished dish than on its own — plain soaked granules go watery and lose texture. Cook it into a chilli, ragù or filling, cool it quickly, portion it and freeze at −18 °C (0 °F), where it stays safe indefinitely and keeps good quality for a couple of months.",
+    "thawing": "Thaw in the fridge overnight and reheat until steaming hot, 74 °C (165 °F). Squeeze or drain off excess liquid before using thawed TSP in a filling. Never thaw it at room temperature or refreeze it once reheated.",
+    "spoilage": [
+      "Sour, yeasty or fermented smell instead of a neutral, savoury aroma",
+      "Slimy or sticky texture on the granules",
+      "Cloudy, thick liquid pooling in the container",
+      "Any mould, or bubbles that suggest fermentation"
+    ],
+    "tips": [
+      "Rehydrate only what you need for the meal — the dry mix keeps far longer.",
+      "Use hot stock instead of water for much better flavour.",
+      "Squeeze out excess liquid before frying so it browns rather than steams.",
+      "Freeze it as a finished sauce or filling rather than plain."
+    ],
+    "faq": [
+      {"q": "How long does rehydrated TVP last?", "a": "Only 3–4 days in the fridge at 4 °C (40 °F) or below, because rehydrating turns it into a perishable food."},
+      {"q": "Can you freeze rehydrated soy protein?", "a": "Yes, at −18 °C (0 °F), but it is much better frozen inside a finished dish such as a chilli or ragù than as plain soaked granules."},
+      {"q": "Why does rehydrated TSP spoil so much faster than the dry mix?", "a": "Water is what bacteria need to grow. Dry TSP has almost none, but once soaked it becomes a moist, protein-rich food like any other."}
+    ]
+  },
+  "zh": {
+    "name": "泡發後的素肉（組織化大豆蛋白）",
+    "aliases": ["泡開的素肉", "復水大豆蛋白", "泡水素肉", "已調理素肉"],
+    "summary": "泡發後的素肉，是把乾燥的組織化大豆蛋白用水或高湯泡開，變成濕潤、類似肉質的食材。復水完全改變了它的保存條件：乾燥的可以放 3～4 個月，但泡開後就是容易腐敗的食品，在 4°C 以下冷藏只能放 3～4 天。",
+    "pantry": "3～4 個月的常溫期限指的是密封容器裡未泡水的乾燥品，而不是泡開後的成品。一旦加了水，泡發素肉就和其他濕潤、高蛋白、低酸度的食物一樣，不能放室溫：在 4～60°C 的危險溫度帶超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "把泡發的素肉確實瀝乾，如果是用熱高湯泡的請先快速降溫，之後裝進有蓋容器放 4°C 以下冷藏 3～4 天。這個期限適用於已調理的成品，不論是原味、調味過，還是已經煮成醬汁。不要把新做的加進裝著舊成品的容器裡。",
+    "freezer": "泡發素肉單獨冷凍效果不好——單純泡開的顆粒會出水、失去口感；做成完整的料理再冷凍會好得多。把它煮成辣豆醬、肉醬或內餡，快速降溫後分裝冷凍在 −18°C，安全上可以無限期保存，品質約可維持兩個月。",
+    "thawing": "放冷藏室解凍一晚，再加熱到冒蒸氣、中心 74°C。要做內餡的話，先把多餘水分擠掉或瀝乾。絕對不要在室溫解凍，加熱過的也不要再冷凍。",
+    "spoilage": [
+      "不是中性的鹹鮮味，而是酸味、酵母味或發酵味",
+      "顆粒摸起來黏滑、發黏",
+      "容器底部積出混濁濃稠的液體",
+      "出現任何黴，或有氣泡代表正在發酵"
+    ],
+    "tips": [
+      "只泡當餐要用的量，乾燥的放得久很多。",
+      "用熱高湯代替清水泡開，風味好很多。",
+      "下鍋前把多餘水分擠掉，才會上色而不是出水變蒸。",
+      "冷凍時做成醬汁或內餡的成品，而不是單純泡開的素肉。"
+    ],
+    "faq": [
+      {"q": "泡發後的素肉可以放多久？", "a": "在 4°C 以下冷藏只有 3～4 天，因為復水後它就變成容易腐敗的食品了。"},
+      {"q": "泡發素肉可以冷凍嗎？", "a": "可以，放 −18°C 冷凍；但做成辣豆醬、肉醬這類完整料理再冷凍，效果比單純泡開的顆粒好得多。"},
+      {"q": "為什麼泡開後壞得比乾燥的快這麼多？", "a": "因為細菌生長需要水。乾燥素肉幾乎沒有水分，泡開後就成了濕潤又高蛋白的一般食品。"}
+    ]
+  },
+  "ja": {
+    "name": "戻した大豆ミート（組織状大豆たんぱく）",
+    "aliases": ["水戻しした大豆ミート", "戻したソイミート", "調理済み大豆たんぱく", "湯戻しした大豆ミート"],
+    "summary": "戻した大豆ミートは、乾燥の組織状大豆たんぱくを水やだしでふくらませ、しっとりした肉のような状態にしたものです。戻すことで保存条件は一変します。乾燥のままなら3〜4か月ですが、戻したあとは傷みやすい食品となり、4℃以下の冷蔵で3〜4日しかもちません。",
+    "pantry": "常温3〜4か月という目安は、密閉容器に入れた「戻していない乾燥品」のものであって、戻した状態には当てはまりません。水を含んだ大豆ミートは、水分が多く高たんぱくで酸度の低い一般的な食品と同じで、常温には置けません。4〜60℃の危険温度帯に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。",
+    "fridge": "しっかり水気を切り、熱いだしで戻した場合は手早く冷まして、ふた付き容器に入れ4℃以下で3〜4日保存します。この目安は、味付けの有無やソースに調理済みかどうかにかかわらず、戻した状態の製品すべてに当てはまります。古い容器に新しく作ったものを足さないでください。",
+    "freezer": "戻しただけの粒を冷凍すると水っぽく食感も落ちるため、料理に仕立ててから凍らせるほうがずっと向いています。チリやラグー、フィリングなどに調理し、手早く冷まして小分けにし、−18℃で冷凍してください。安全面では長期間、品質は2か月ほどが目安です。",
+    "thawing": "冷蔵庫で一晩解凍し、湯気が立つ状態（74℃）まで温め直します。フィリングに使うときは、余分な水分を絞るか切ってから使いましょう。常温解凍と、温め直したあとの再冷凍は避けてください。",
+    "spoilage": [
+      "無臭に近いうまみの香りではなく、酸っぱいにおい・酵母臭・発酵臭がする",
+      "粒がぬめる・べたつく",
+      "容器の底に濁ってとろみのある液がたまっている",
+      "カビがある、発酵を思わせる気泡が出ている"
+    ],
+    "tips": [
+      "その食事で使う分だけ戻す。乾燥のままのほうがはるかに日もちする。",
+      "水ではなく熱いだしで戻すと風味が格段に良くなる。",
+      "焼く前に余分な水分を絞ると、蒸れずに焼き色がつく。",
+      "冷凍はソースやフィリングに仕立ててから行う。"
+    ],
+    "faq": [
+      {"q": "戻した大豆ミートはどのくらいもちますか？", "a": "4℃以下の冷蔵で3〜4日だけです。水を含んだ時点で傷みやすい食品になります。"},
+      {"q": "戻した大豆ミートは冷凍できますか？", "a": "できます（−18℃）。ただし戻しただけの状態より、チリやラグーなど料理に仕立ててから凍らせるほうがずっと良い仕上がりです。"},
+      {"q": "乾燥品よりずっと早く傷むのはなぜ？", "a": "細菌の増殖には水が必要だからです。乾燥品にはほとんど水分がありませんが、戻すと水分の多い高たんぱく食品になります。"}
+    ]
+  },
+  "es": {
+    "name": "Proteína de soya texturizada hidratada",
+    "aliases": ["TVP hidratada", "soja texturizada remojada", "carne de soya preparada", "soja hidratada"],
+    "summary": "La proteína de soya texturizada hidratada es TVP seca remojada en agua o caldo hasta quedar jugosa y con textura parecida a la carne. Hidratarla cambia por completo su conservación: la mezcla seca dura 3–4 meses, pero ya preparada es un alimento perecedero que solo aguanta 3–4 días en el refrigerador a 4 °C (40 °F) o menos.",
+    "pantry": "El plazo de despensa de 3–4 meses corresponde a la mezcla sin hidratar en un recipiente cerrado, no al producto remojado. En cuanto entra el agua, la TVP hidratada se comporta como cualquier alimento húmedo, rico en proteína y poco ácido, y no puede quedarse a temperatura ambiente: desecha lo que pase más de 2 horas en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F), o 1 hora por encima de 32 °C (90 °F).",
+    "fridge": "Escurre bien la proteína hidratada, enfríala rápido si la remojaste en caldo caliente y guárdala en un recipiente tapado a 4 °C (40 °F) o menos durante 3–4 días. Ese plazo se aplica al producto preparado, tanto si está al natural como sazonado o ya cocinado en una salsa. No añadas una tanda nueva a un recipiente con producto más antiguo.",
+    "freezer": "La TVP hidratada se congela mucho mejor formando parte de un plato terminado que sola: los gránulos remojados se vuelven aguados y pierden textura. Cocínala en un chili, un ragú o un relleno, enfríala rápido, divídela en porciones y congélala a −18 °C (0 °F), donde es segura indefinidamente y mantiene buena calidad un par de meses.",
+    "thawing": "Descongélala en el refrigerador durante una noche y recaliéntala hasta que humee, 74 °C (165 °F). Escurre o exprime el exceso de líquido antes de usarla en un relleno. Nunca la descongeles a temperatura ambiente ni la vuelvas a congelar tras recalentarla.",
+    "spoilage": [
+      "Olor agrio, a levadura o fermentado en lugar de un aroma neutro y sabroso",
+      "Textura viscosa o pegajosa en los gránulos",
+      "Líquido turbio y espeso acumulado en el recipiente",
+      "Cualquier moho, o burbujas que sugieran fermentación"
+    ],
+    "tips": [
+      "Hidrata solo lo que vayas a usar: la mezcla seca dura muchísimo más.",
+      "Usa caldo caliente en vez de agua para mucho más sabor.",
+      "Escurre bien antes de freír para que dore en vez de cocerse al vapor.",
+      "Congélala como salsa o relleno terminado, no al natural."
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la TVP hidratada?", "a": "Solo 3–4 días en el refrigerador a 4 °C (40 °F) o menos, porque al hidratarse se convierte en un alimento perecedero."},
+      {"q": "¿Se puede congelar la proteína de soya hidratada?", "a": "Sí, a −18 °C (0 °F), pero queda mucho mejor congelada dentro de un plato terminado, como un chili o un ragú, que como gránulos remojados."},
+      {"q": "¿Por qué se estropea tanto antes que la mezcla seca?", "a": "Las bacterias necesitan agua para crecer. La TVP seca casi no tiene, pero una vez remojada es un alimento húmedo y rico en proteína como cualquier otro."}
+    ]
+  }
+}

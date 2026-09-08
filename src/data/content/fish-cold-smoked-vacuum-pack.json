@@ -1,0 +1,107 @@
+{
+  "slug": "fish-cold-smoked-vacuum-pack",
+  "en": {
+    "name": "Cold-smoked fish, vacuum packed",
+    "aliases": ["smoked salmon", "lox", "gravlax-style smoked fish", "cold-smoked trout"],
+    "summary": "Cold-smoked fish such as smoked salmon is cured in salt and smoked at low temperature, so it is not cooked — the flesh stays silky and translucent. Vacuum packed and refrigerated at 4 °C (40 °F) or below it keeps 21–30 days from the day of purchase, and 9–12 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Cold-smoked fish is a chilled, ready-to-eat product and must never be kept at room temperature. Because it is never heated, the salt and smoke are the only barriers, and listeria in particular can grow slowly even at fridge temperatures. Do not leave a platter out for more than 2 hours — 1 hour above 32 °C (90 °F) — and follow the pack date closely.",
+    "fridge": "Keep the sealed vacuum pack on a cold inside shelf at 4 °C (40 °F) or below, and expect 21–30 days from purchase while the seal is intact. Once you open it, the clock changes entirely: rewrap the slices tightly in plastic or an airtight box and eat them within about 3–5 days, or by the maker's stated opened-life if shorter.",
+    "freezer": "Cold-smoked fish freezes well in its unopened vacuum pack, keeping good quality for 9–12 months at −18 °C (0 °F) and staying safe indefinitely. The salt and smoke slow the fat oxidation that limits fresh oily fish to a couple of months. Freeze it flat, and if the pack is already open, interleave slices with paper before rewrapping.",
+    "thawing": "Thaw slowly in the fridge for 12–24 hours, still sealed, so condensation forms on the pack rather than the fish. Use it within a few days of thawing and do not refreeze. Never thaw smoked fish at room temperature.",
+    "spoilage": [
+      "Sour, ammonia or rancid smell instead of a clean, smoky, briny aroma",
+      "Slimy or sticky surface on the slices",
+      "Dull, grey or browning edges, or white curd-like deposits on the flesh",
+      "A bulging or leaking vacuum pack, or a passed use-by date"
+    ],
+    "tips": [
+      "Keep the pack sealed until the day you serve it — opened life is much shorter.",
+      "Freeze unopened packs flat so they thaw evenly.",
+      "Pregnant people and anyone immunocompromised are advised to avoid cold-smoked fish unless it is cooked.",
+      "Slice off and discard any dried, darkened edges before serving."
+    ],
+    "faq": [
+      {"q": "Can you freeze smoked salmon?", "a": "Yes, in its unopened vacuum pack at −18 °C (0 °F) for 9–12 months of good quality. Thaw it slowly in the fridge."},
+      {"q": "How long does vacuum-packed smoked salmon last?", "a": "21–30 days from the day of purchase in the fridge at 4 °C (40 °F) or below while sealed, and only about 3–5 days once opened."},
+      {"q": "Is cold-smoked fish cooked?", "a": "No. Cold smoking happens at low temperature, so the fish is cured but raw. That is why the storage rules are stricter than for hot-smoked fish."}
+    ]
+  },
+  "zh": {
+    "name": "冷燻魚（真空包裝）",
+    "aliases": ["煙燻鮭魚", "冷燻鮭魚", "lox", "煙燻鱒魚", "生食級煙燻魚"],
+    "summary": "冷燻魚（例如煙燻鮭魚）是用鹽醃過後以低溫煙燻，並沒有煮熟，所以魚肉維持柔滑半透明的狀態。真空包裝並放在 4°C 以下冷藏，從購買日起可放 21～30 天；放 −18°C 冷凍可放 9～12 個月。",
+    "pantry": "冷燻魚是冷藏的即食食品，絕對不能放室溫。因為完全沒有加熱，鹽和煙就是唯一的屏障，而李斯特菌即使在冷藏溫度下也能緩慢生長。拼盤不要在室溫放超過 2 小時（氣溫超過 32°C 時 1 小時），也請嚴格遵守包裝上的日期。",
+    "fridge": "未拆封的真空包放在冰箱內層冷的層架，維持 4°C 以下，從購買日起可放 21～30 天。但一旦拆封，時間就完全不同了：把魚片用保鮮膜緊緊重包或放進密封盒，並在約 3～5 天內吃完；若廠商標示的開封後期限更短，以其為準。",
+    "freezer": "未開封的冷燻魚很適合連真空包一起冷凍，放 −18°C 品質可維持 9～12 個月，安全上可以無限期保存。鹽和煙燻延緩了脂肪氧化，這正是新鮮多脂魚只能放兩三個月的原因。請平放冷凍；如果已經開封，先用紙把魚片一片片隔開再重新包好。",
+    "thawing": "連包裝放冷藏室慢慢解凍 12～24 小時，讓水氣凝結在包裝上而不是魚肉上。解凍後幾天內吃完，不要再冷凍。絕對不要在室溫解凍煙燻魚。",
+    "spoilage": [
+      "不是乾淨的煙燻鹹香，而是酸味、阿摩尼亞味或油耗味",
+      "魚片表面黏滑、發黏",
+      "邊緣暗沉、發灰或轉褐，或魚肉上出現白色凝乳狀沉積",
+      "真空包裝鼓起或漏液，或已超過有效日期"
+    ],
+    "tips": [
+      "要吃的當天再拆封，開封後的期限短很多。",
+      "未開封的包裝平放冷凍，解凍才會均勻。",
+      "孕婦和免疫力低下者建議避免食用未加熱的冷燻魚。",
+      "上桌前把乾掉、變深的邊緣切掉丟棄。"
+    ],
+    "faq": [
+      {"q": "煙燻鮭魚可以冷凍嗎？", "a": "可以，連未開封的真空包放 −18°C 冷凍 9～12 個月品質仍佳。請放冷藏室慢慢解凍。"},
+      {"q": "真空包裝的煙燻鮭魚可以放多久？", "a": "未拆封在 4°C 以下冷藏，從購買日起 21～30 天；開封後只有約 3～5 天。"},
+      {"q": "冷燻魚是熟的嗎？", "a": "不是。冷燻在低溫下進行，魚是醃過但仍屬生食狀態。這也是它的保存規則比熱燻魚更嚴格的原因。"}
+    ]
+  },
+  "ja": {
+    "name": "冷燻の魚（真空パック）",
+    "aliases": ["スモークサーモン", "サーモンの冷燻", "ロックス", "冷燻トラウト"],
+    "summary": "スモークサーモンなどの冷燻魚は、塩でしめてから低温で燻したもので、加熱調理はされておらず、身はなめらかで半透明のままです。真空パックのまま4℃以下で冷蔵すれば購入日から21〜30日、−18℃の冷凍で9〜12か月が目安です。",
+    "pantry": "冷燻の魚は冷蔵のそのまま食べられる食品で、常温保存はできません。加熱していないため塩と燻煙だけが頼りで、とくにリステリアは冷蔵温度でもゆっくり増えることがあります。盛り合わせを室温に2時間以上（気温32℃以上なら1時間以上）出さず、パックの期限も厳守してください。",
+    "fridge": "未開封の真空パックは庫内のよく冷える棚で4℃以下を保ち、封が保たれていれば購入日から21〜30日が目安です。ただし開封するとまったく別で、スライスをラップでしっかり包み直すか密閉容器に入れ、3〜5日ほどで食べ切ってください（メーカーの開封後表示がより短ければそちらに従います）。",
+    "freezer": "未開封の真空パックのまま冷凍でき、−18℃で品質は9〜12か月、安全面では長期間保存できます。塩と燻煙が脂の酸化を遅らせるため、生の脂の多い魚（2〜3か月）よりずっと長もちします。平らにして凍らせ、開封済みならスライスの間に紙を挟んでから包み直しましょう。",
+    "thawing": "封をしたまま冷蔵庫で12〜24時間かけてゆっくり解凍すると、結露が魚ではなくパックにつきます。解凍後は数日以内に食べ切り、再冷凍はしないでください。常温解凍も避けます。",
+    "spoilage": [
+      "清潔な燻製と塩の香りではなく、酸敗臭・アンモニア臭・油の酸化臭がする",
+      "スライスの表面がぬめる・べたつく",
+      "縁がくすむ・灰色や茶色に変わる、身に白いかたまり状の付着物がある",
+      "真空パックが膨らむ・液が漏れている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "供する当日まで開封しない。開封後の期限は大幅に短くなる。",
+      "未開封のパックは平らにして冷凍すると解凍が均一になる。",
+      "妊娠中の方や免疫の弱い方は、加熱しない冷燻魚を避けることが推奨される。",
+      "乾いて色の濃くなった縁は切り落としてから供する。"
+    ],
+    "faq": [
+      {"q": "スモークサーモンは冷凍できますか？", "a": "できます。未開封の真空パックのまま−18℃で9〜12か月が品質の目安です。解凍は冷蔵庫でゆっくり行ってください。"},
+      {"q": "真空パックのスモークサーモンはどのくらいもちますか？", "a": "未開封なら4℃以下で購入日から21〜30日、開封後は3〜5日ほどです。"},
+      {"q": "冷燻の魚は加熱済みですか？", "a": "いいえ。冷燻は低温で行うため、塩でしめてはいても生の状態です。だからこそ温燻の魚より保存のルールが厳しくなります。"}
+    ]
+  },
+  "es": {
+    "name": "Pescado ahumado en frío, envasado al vacío",
+    "aliases": ["salmón ahumado", "lox", "trucha ahumada en frío", "pescado ahumado al vacío"],
+    "summary": "El pescado ahumado en frío, como el salmón ahumado, se cura en sal y se ahúma a baja temperatura, así que no está cocido: la carne queda sedosa y translúcida. Envasado al vacío y refrigerado a 4 °C (40 °F) o menos dura 21–30 días desde la compra, y 9–12 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "El ahumado en frío es un producto refrigerado listo para comer y nunca debe guardarse a temperatura ambiente. Al no calentarse, la sal y el humo son las únicas barreras, y la listeria en particular puede crecer despacio incluso en frío. No dejes una fuente fuera más de 2 horas —1 hora por encima de 32 °C (90 °F)— y respeta con rigor la fecha del envase.",
+    "fridge": "Guarda el envase al vacío cerrado en un estante interior frío a 4 °C (40 °F) o menos: 21–30 días desde la compra mientras el sellado esté intacto. Al abrirlo, el plazo cambia por completo: vuelve a envolver las lonchas bien apretadas o pásalas a un recipiente hermético y cómelas en unos 3–5 días, o antes si el fabricante lo indica.",
+    "freezer": "Se congela bien en su envase al vacío sin abrir, con buena calidad 9–12 meses a −18 °C (0 °F) y seguridad indefinida. La sal y el humo frenan la oxidación de la grasa que limita al pescado azul fresco a un par de meses. Congélalo plano y, si el paquete ya está abierto, separa las lonchas con papel antes de reenvolverlas.",
+    "thawing": "Descongélalo despacio en el refrigerador durante 12–24 horas, aún sellado, para que la condensación se forme en el envase y no en el pescado. Úsalo en pocos días tras descongelar y no lo vuelvas a congelar. Nunca lo descongeles a temperatura ambiente.",
+    "spoilage": [
+      "Olor agrio, a amoníaco o rancio en lugar del aroma limpio, ahumado y salino",
+      "Superficie viscosa o pegajosa en las lonchas",
+      "Bordes apagados, grises o parduzcos, o depósitos blancos como cuajada sobre la carne",
+      "Envase al vacío hinchado o con fugas, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Mantén el paquete cerrado hasta el día de servirlo: abierto dura mucho menos.",
+      "Congela los paquetes sin abrir en plano para que se descongelen parejo.",
+      "Se recomienda que las personas embarazadas o inmunodeprimidas eviten el pescado ahumado en frío sin cocinar.",
+      "Corta y descarta los bordes secos y oscurecidos antes de servir."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el salmón ahumado?", "a": "Sí, en su envase al vacío sin abrir a −18 °C (0 °F) durante 9–12 meses de buena calidad. Descongélalo despacio en el refrigerador."},
+      {"q": "¿Cuánto dura el salmón ahumado al vacío?", "a": "21–30 días desde el día de compra en el refrigerador a 4 °C (40 °F) o menos mientras esté sellado, y solo unos 3–5 días una vez abierto."},
+      {"q": "¿El pescado ahumado en frío está cocido?", "a": "No. El ahumado en frío se hace a baja temperatura, así que el pescado está curado pero crudo. Por eso sus normas de conservación son más estrictas que las del ahumado en caliente."}
+    ]
+  }
+}

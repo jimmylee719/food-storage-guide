@@ -1,0 +1,107 @@
+{
+  "slug": "soy-flour-full-fat",
+  "en": {
+    "name": "Full-fat soy flour",
+    "aliases": ["soya flour", "full-fat soybean flour", "kinako-style soy flour", "soy meal"],
+    "summary": "Full-fat soy flour is finely milled whole soybeans, high in protein and — crucially for storage — high in oil, which is what makes it go rancid faster than wheat flour. It keeps about 2 months in the pantry from the day of purchase, and about 6 months in the fridge at 4 °C (40 °F) or below.",
+    "pantry": "Store the bag or an airtight container in a cool, dark, dry cupboard away from the cooker, and use it within about 2 months. Heat, light and air all speed up oxidation of the natural soybean oil, which is what turns the flour bitter and paint-like. Defatted soy flour keeps considerably longer, since the problem is the fat rather than the protein.",
+    "fridge": "Refrigeration roughly triples the useful life to about 6 months. Transfer the flour to an airtight container — a bag clipped shut is not enough, since flour readily absorbs both moisture and fridge odours — and keep it at 4 °C (40 °F) or below. Let the container come to room temperature before opening it so condensation does not form inside.",
+    "freezer": "The freezer is the best place for a large bag you will use slowly. At −18 °C (0 °F) oxidation almost stops and the flour stays good well beyond the fridge window; it never freezes into a solid block, so you can scoop what you need. Store it in an airtight container and, as with the fridge, let it warm up before opening.",
+    "thawing": "No thawing is needed. Take out what you need, close the container and return it to the cold. Let the container reach room temperature before opening if it has been in the fridge or freezer, so moisture does not condense onto the flour.",
+    "spoilage": [
+      "Bitter, sharp or paint-like smell — the classic sign of rancid soy oil",
+      "A stale or musty odour instead of a mild, nutty, beany aroma",
+      "Clumping, dampness or any sign of mould",
+      "Insects, webbing or tiny moths in the container"
+    ],
+    "tips": [
+      "Buy small bags unless you bake with it often — the oil goes rancid faster than you expect.",
+      "Store in an airtight container in the fridge or freezer rather than the cupboard.",
+      "Smell it before using it; rancid soy flour ruins a whole batch of baking.",
+      "Let a cold container warm up before opening so condensation does not get in."
+    ],
+    "faq": [
+      {"q": "Does soy flour need to be refrigerated?", "a": "Not strictly, but it helps a lot: about 2 months in the pantry against about 6 months in the fridge at 4 °C (40 °F) or below, because the cold slows the oil going rancid."},
+      {"q": "Can you freeze soy flour?", "a": "Yes, and it is the best option for a large bag. At −18 °C (0 °F) it stays scoopable and oxidation almost stops."},
+      {"q": "How can you tell if soy flour has gone rancid?", "a": "Smell it. Fresh soy flour is mildly nutty; rancid flour smells bitter, sharp or like old paint and will taste that way in whatever you bake."}
+    ]
+  },
+  "zh": {
+    "name": "全脂黃豆粉",
+    "aliases": ["黃豆粉", "大豆粉", "全脂大豆粉", "黃豆麵粉"],
+    "summary": "全脂黃豆粉是把整顆黃豆磨成的細粉，蛋白質高，而且——這對保存最關鍵——含油量也高，所以比小麥麵粉更快油耗。放在櫥櫃從購買日起約可放 2 個月；放 4°C 以下冷藏約可放 6 個月。",
+    "pantry": "把整袋或裝進密封容器，放在陰涼、避光、乾燥的櫥櫃，遠離爐火，並在約 2 個月內用完。熱、光和空氣都會加速黃豆油的氧化，那正是讓豆粉變苦、產生油漆味的原因。脫脂黃豆粉可以放得久很多，因為問題出在油脂而不是蛋白質。",
+    "fridge": "冷藏大約可以把可用期限拉長三倍，到約 6 個月。請把豆粉倒進密封容器——只用夾子夾住袋口不夠，因為粉類很會吸濕氣和冰箱異味——並維持 4°C 以下。要開蓋前先讓容器回到室溫，避免內部結露。",
+    "freezer": "如果是大包裝、會慢慢用完的話，冷凍庫是最好的位置。在 −18°C 下氧化幾乎停止，品質可以維持得比冷藏期限更久；而且它不會凍成硬塊，隨時都能舀出需要的量。請用密封容器保存，同樣要等回溫再開蓋。",
+    "thawing": "不需要解凍。舀出需要的量、把容器蓋好放回低溫即可。如果剛從冷藏或冷凍拿出來，請等容器回到室溫再打開，以免水氣凝結到粉裡。",
+    "spoilage": [
+      "苦味、刺鼻味或像油漆的氣味——這是黃豆油油耗的典型跡象",
+      "不是溫和的堅果豆香，而是陳味或霉味",
+      "結塊、受潮，或出現任何黴斑",
+      "容器裡有蟲、蛛網狀絲或小蛾"
+    ],
+    "tips": [
+      "除非常做烘焙，否則買小包裝——油脂酸敗得比想像中快。",
+      "裝密封容器放冷藏或冷凍，不要收在櫥櫃。",
+      "用之前先聞一聞，油耗的豆粉會毀掉整批烘焙。",
+      "冰過的容器先回溫再開，避免水氣跑進去。"
+    ],
+    "faq": [
+      {"q": "黃豆粉一定要冷藏嗎？", "a": "不是必須，但幫助很大：放櫥櫃約 2 個月，放 4°C 以下冷藏約 6 個月，因為低溫能延緩油脂酸敗。"},
+      {"q": "黃豆粉可以冷凍嗎？", "a": "可以，而且大包裝最適合這樣保存。在 −18°C 下依然舀得動，氧化也幾乎停止。"},
+      {"q": "黃豆粉油耗了怎麼看？", "a": "聞味道。新鮮的黃豆粉有淡淡堅果香；油耗的會有苦味、刺鼻味或舊油漆味，做出來的成品也會是那個味道。"}
+    ]
+  },
+  "ja": {
+    "name": "全脂大豆粉",
+    "aliases": ["大豆粉", "きな粉に近い大豆粉", "全脂肪大豆粉", "ソイフラワー"],
+    "summary": "全脂大豆粉は大豆をまるごと細かく挽いた粉で、たんぱく質が豊富なうえ、保存の観点で重要なのは油分も多いことです。そのため小麦粉より早く酸化します。常温の棚では購入日から約2か月、4℃以下の冷蔵なら約6か月が目安です。",
+    "pantry": "袋のまま、または密閉容器に入れて、コンロから離れた涼しく暗く乾いた棚で保管し、約2か月で使い切ります。熱・光・空気はいずれも大豆油の酸化を早め、それが苦みやペンキのようなにおいの原因になります。脱脂大豆粉はずっと長もちします。問題はたんぱく質ではなく脂だからです。",
+    "fridge": "冷蔵すると使える期間はおよそ3倍、約6か月になります。粉は湿気も庫内のにおいもよく吸うため、袋をクリップで留めるだけでは不十分です。密閉容器に移し、4℃以下で保存しましょう。開ける前に容器を室温に戻すと、内部で結露しません。",
+    "freezer": "ゆっくり使う大袋なら、冷凍庫がいちばん適した場所です。−18℃では酸化がほぼ止まり、冷蔵の目安を大きく超えて品質を保てます。固い塊にならないので、必要な量をすくえます。密閉容器に入れ、冷蔵と同様に開ける前は室温に戻してください。",
+    "thawing": "解凍は不要です。必要な分を取り出し、ふたを閉めて冷たい場所に戻します。冷蔵・冷凍から出した容器は、室温に戻してから開けると粉に水分が結露しません。",
+    "spoilage": [
+      "苦い・つんとする・ペンキのようなにおいがする（大豆油が酸化した典型的なサイン）",
+      "香ばしい豆の香りではなく、古い・かび臭いにおいがする",
+      "固まっている、湿っている、カビが見える",
+      "容器の中に虫、糸状のもの、小さな蛾がいる"
+    ],
+    "tips": [
+      "よく使うのでなければ小袋を買う。油の酸化は思ったより早い。",
+      "棚ではなく、密閉容器に入れて冷蔵か冷凍で保存する。",
+      "使う前ににおいを確認する。酸化した粉は焼き上がり全体を台無しにする。",
+      "冷たい容器は室温に戻してから開け、結露を防ぐ。"
+    ],
+    "faq": [
+      {"q": "大豆粉は冷蔵が必要ですか？", "a": "必須ではありませんが効果は大きく、常温で約2か月に対し4℃以下の冷蔵で約6か月です。低温が油の酸化を遅らせます。"},
+      {"q": "大豆粉は冷凍できますか？", "a": "できますし、大袋にはいちばん向いています。−18℃でもすくえる状態を保ち、酸化がほぼ止まります。"},
+      {"q": "大豆粉が酸化したかどうかの見分け方は？", "a": "においで判断します。新鮮なものは香ばしい豆の香り、酸化したものは苦く、つんとした、古いペンキのようなにおいで、焼き上がりにもその味が出ます。"}
+    ]
+  },
+  "es": {
+    "name": "Harina de soya integral",
+    "aliases": ["harina de soja", "harina de soya con grasa", "harina integral de soya", "sémola de soya"],
+    "summary": "La harina de soya integral son granos de soya molidos finamente, rica en proteína y —clave para su conservación— en aceite, que es lo que la hace enranciar antes que la harina de trigo. Dura unos 2 meses en la despensa desde la compra, y unos 6 meses en el refrigerador a 4 °C (40 °F) o menos.",
+    "pantry": "Guarda la bolsa o un recipiente hermético en un armario fresco, oscuro y seco, lejos de la cocina, y úsala en unos 2 meses. El calor, la luz y el aire aceleran la oxidación del aceite natural de la soya, que es lo que vuelve la harina amarga y con notas a pintura. La harina de soya desgrasada dura bastante más, porque el problema es la grasa y no la proteína.",
+    "fridge": "El frío triplica aproximadamente su vida útil, hasta unos 6 meses. Pasa la harina a un recipiente hermético —una bolsa con pinza no basta, porque absorbe humedad y olores— y guárdala a 4 °C (40 °F) o menos. Deja que el recipiente alcance la temperatura ambiente antes de abrirlo para que no se condense agua dentro.",
+    "freezer": "El congelador es el mejor sitio para una bolsa grande que vayas a gastar despacio. A −18 °C (0 °F) la oxidación casi se detiene y la harina se conserva mucho más allá del plazo del refrigerador; nunca se congela en bloque, así que puedes servir la cantidad que necesites. Guárdala en recipiente hermético y atempérala antes de abrir.",
+    "thawing": "No necesita descongelación. Toma lo que necesites, cierra el recipiente y devuélvelo al frío. Si viene del refrigerador o del congelador, deja que se atempere antes de abrirlo para que no se condense humedad sobre la harina.",
+    "spoilage": [
+      "Olor amargo, punzante o a pintura: señal clásica de aceite de soya rancio",
+      "Olor rancio o a humedad en vez del aroma suave, a nuez y a legumbre",
+      "Grumos, humedad o cualquier signo de moho",
+      "Insectos, telarañas o pequeñas polillas en el recipiente"
+    ],
+    "tips": [
+      "Compra bolsas pequeñas salvo que hornees a menudo: el aceite se enrancia antes de lo que parece.",
+      "Guárdala en recipiente hermético en el refrigerador o el congelador, no en la alacena.",
+      "Huélela antes de usarla; una harina rancia arruina toda una hornada.",
+      "Deja templar el recipiente frío antes de abrirlo para que no entre condensación."
+    ],
+    "faq": [
+      {"q": "¿La harina de soya necesita refrigeración?", "a": "No es obligatorio, pero ayuda mucho: unos 2 meses en la despensa frente a unos 6 meses en el refrigerador a 4 °C (40 °F) o menos, porque el frío frena el enranciamiento."},
+      {"q": "¿Se puede congelar la harina de soya?", "a": "Sí, y es la mejor opción para una bolsa grande. A −18 °C (0 °F) sigue suelta y la oxidación casi se detiene."},
+      {"q": "¿Cómo saber si la harina de soya está rancia?", "a": "Por el olfato. La fresca huele suavemente a nuez; la rancia huele amarga, punzante o a pintura vieja, y ese sabor pasa a lo que hornees."}
+    ]
+  }
+}

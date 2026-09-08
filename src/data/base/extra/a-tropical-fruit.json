@@ -1,0 +1,1056 @@
+[
+  {
+    "slug": "jackfruit",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Jackfruit",
+    "subtitle": "whole, fresh",
+    "keywords": ["jackfruit", "jack fruit", "波羅蜜", "菠蘿蜜", "ジャックフルーツ", "パラミツ", "yaca", "jaca", "nangka"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 7, "unit": "days", "tips": "UH-CTAHR: fruit ripens in 3 to 7 days at 71–80 °F (22–27 °C). Keep it in a cool, well-ventilated place; fruit that fell from the tree lasts only 2 to 3 days." }
+      },
+      "fridge": {
+        "base": { "min": 2, "max": 3, "unit": "weeks", "tips": "CTAHR stores mature, undamaged whole fruit at 50 °F (10 °C) for 2 to 3 weeks. A 4 °C home fridge is colder than that, so expect nearer the short end and use cut flesh within 3 to 4 days in a sealed box." }
+      },
+      "freezer": {
+        "base": { "min": 3, "max": 6, "unit": "months", "tips": "Freeze the separated bulbs, not the whole fruit." }
+      }
+    },
+    "sources": [
+      { "name": "UH–CTAHR F_N-19 – Jackfruit", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-19.pdf" },
+      { "name": "UH–CTAHR F_N-36 – Quick Harvest and Postharvest Tips", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-36.pdf" }
+    ],
+    "analog": null,
+    "notes": "The 50 °F (10 °C) figure is a commercial storage temperature; a home fridge at 4 °C will chill the fruit harder, which dulls flavour. The freezer figure is a general practice for fruit pulp, not a CTAHR number."
+  },
+  {
+    "slug": "breadfruit",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Breadfruit",
+    "subtitle": "mature green, whole",
+    "keywords": ["breadfruit", "麵包果", "麵包樹果實", "パンノキ", "ブレッドフルーツ", "fruta del pan", "árbol del pan", "ulu"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 2, "max": 5, "unit": "days", "tips": "Mature green fruit softens and turns yellow-green at room temperature in a few days. Let the cut stem drain its latex before washing." }
+      },
+      "fridge": {
+        "base": { "min": 5, "max": 7, "unit": "days", "tips": "CTAHR's optimum is 12 to 14 °C at 90–95 % RH for a maximum of about 20 days; chilling injury starts within 7 days even at 12 °C, so a 4 °C home fridge is well below the safe range and the fruit keeps only about a week before the skin scalds brown." }
+      },
+      "freezer": {
+        "base": { "min": 3, "max": 6, "unit": "months", "tips": "Freeze cooked and cooled flesh in portions rather than the raw whole fruit." }
+      }
+    },
+    "sources": [
+      { "name": "UH–CTAHR F_N-37 – Breadfruit: Postharvest Quality-Maintenance Guidelines", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-37.pdf" }
+    ],
+    "analog": null,
+    "notes": "CTAHR's 20-day figure requires 12–14 °C, which a home fridge cannot hold. The honest home fridge range given here is shortened accordingly; the source figures are in tips. Freezer figure is general practice, not from the source."
+  },
+  {
+    "slug": "soursop",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Soursop",
+    "subtitle": "whole",
+    "keywords": ["soursop", "graviola", "刺果番荔枝", "紅毛榴槤", "サワーソップ", "トゲバンレイシ", "guanábana", "guanabana"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 4, "max": 7, "unit": "days", "tips": "CTAHR: the fruit softens 4 to 7 days after harvest and then has a shelf life of another 3 to 5 days. Handle gently — the skin bruises easily." }
+      },
+      "fridge": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "Only refrigerate once it has softened; chilling a hard fruit stops it ripening." }
+      },
+      "freezer": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Freeze the sieved pulp; this is how soursop is normally kept for juice and ice cream." }
+      }
+    },
+    "sources": [
+      { "name": "UH–CTAHR F_N-22 – Soursop", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-22.pdf" }
+    ],
+    "analog": null,
+    "notes": "The pantry and fridge figures come from CTAHR's softening-plus-shelf-life statement. The freezer figure is common practice for frozen fruit pulp, not a CTAHR number."
+  },
+  {
+    "slug": "atemoya",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Atemoya",
+    "subtitle": "whole",
+    "keywords": ["atemoya", "鳳梨釋迦", "阿蒂莫耶", "アテモヤ", "atemoya", "anona"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 2, "max": 5, "unit": "days", "tips": "Ripen unripe fruit at room temperature — CTAHR says unripe atemoya should be displayed at room temperature, never chilled." }
+      },
+      "fridge": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "Only once ripe. CTAHR allows ripe fruit at 2 to 5 °C, but calls the fruit very sensitive to chilling, which darkens the skin and strips the aroma; its commercial optimum is 10 to 13 °C at 90–95 % RH." }
+      },
+      "freezer": {
+        "base": { "min": 3, "max": 6, "unit": "months", "tips": "Freeze the deseeded pulp." }
+      }
+    },
+    "sources": [
+      { "name": "UH–CTAHR F_N-38 – Atemoya: Postharvest Quality-Maintenance Guidelines", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-38.pdf" }
+    ],
+    "analog": null,
+    "notes": "CTAHR's optimum store temperature (10–13 °C) is a commercial cold room. Its explicit permission to hold ripe fruit at 2–5 °C is what makes the home fridge entry defensible. Durations are short by design because the source gives temperatures, not days; freezer figure is general practice."
+  },
+  {
+    "slug": "rollinia",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Rollinia",
+    "subtitle": "whole, biribá",
+    "keywords": ["rollinia", "biriba", "毛葉番荔枝", "巴西釋迦", "ロリニア", "ビリバ", "biribá", "anón amazónico"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 5, "max": 8, "unit": "days", "tips": "CTAHR: harvested fruit fully ripens in 5 to 8 days. Once the skin turns fully black the pulp goes clear and mucous and the fruit is edible for only 1 or 2 more days before it ferments." }
+      },
+      "fridge": {
+        "base": { "min": 2, "max": 4, "unit": "days", "tips": "CTAHR records a shelf life of less than one week; refrigeration buys a couple of days at the ripe stage but this Annona is chilling-sensitive." }
+      }
+    },
+    "sources": [
+      { "name": "UH–CTAHR F_N-21 – Rollinia", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-21.pdf" }
+    ],
+    "analog": null,
+    "notes": "CTAHR states there are no formal postharvest studies for rollinia; its figures are Hawai'i field observations. No freezer method is listed because no source gives one."
+  },
+  {
+    "slug": "abiu",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Abiu",
+    "subtitle": "whole",
+    "keywords": ["abiu", "黃晶果", "黄晶果", "アビウ", "abiú", "caimito amarillo"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 1, "max": 5, "unit": "days", "tips": "CTAHR: full ripening occurs 1 to 5 days after harvest, once the pulp and skin lose their sticky latex." }
+      },
+      "fridge": {
+        "base": { "min": 7, "max": 14, "unit": "days", "tips": "CTAHR stores abiu at 50 °F (10 °C) for a shelf life of 7 to 14 days. A colder home fridge shortens this; the flesh browns quickly once sliced, so cut it just before eating." }
+      }
+    },
+    "sources": [
+      { "name": "UH–CTAHR F_N-24 – Abiu", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-24.pdf" },
+      { "name": "UH–CTAHR F_N-36 – Quick Harvest and Postharvest Tips", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-36.pdf" }
+    ],
+    "analog": null,
+    "notes": "The 7–14 day figure is for 10 °C storage, warmer than a home fridge."
+  },
+  {
+    "slug": "bilimbi",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Bilimbi",
+    "subtitle": "fresh",
+    "keywords": ["bilimbi", "cucumber tree fruit", "木胡瓜", "三稜果", "ビリンビ", "ナガバノゴレンシ", "bilimbí", "grosella china"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 2, "max": 3, "unit": "days", "tips": "Very short-lived and easily crushed; do not stack more than two or three deep." }
+      },
+      "fridge": {
+        "base": { "min": 4, "max": 8, "unit": "days", "tips": "CTAHR: shelf life is up to 4 or 5 days, lengthening to 7 or 8 days when the fruit is chilled immediately at harvest." }
+      },
+      "freezer": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "CTAHR notes bilimbi can be dried or frozen for future use; dried fruit rehydrates in soup and keeps most of its sourness." }
+      }
+    },
+    "sources": [
+      { "name": "UH–CTAHR F_N-23 – Bilimbi", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-23.pdf" },
+      { "name": "UH–CTAHR F_N-36 – Quick Harvest and Postharvest Tips", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-36.pdf" }
+    ],
+    "analog": null,
+    "notes": "CTAHR says the fruit can be frozen but gives no duration; the 6–12 month figure is the usual home-freezer range for acid fruit."
+  },
+  {
+    "slug": "jaboticaba",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Jaboticaba",
+    "subtitle": "fresh",
+    "keywords": ["jaboticaba", "jabuticaba", "嘉寶果", "樹葡萄", "ジャボチカバ", "jabuticaba", "uva brasileña"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 2, "max": 3, "unit": "days", "tips": "CTAHR: no more than 3 days at ambient temperature before decay sets in." }
+      },
+      "fridge": {
+        "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "Chill as soon as possible after picking — CTAHR says field pre-chilling adds more than a week of life. Waxing plus a plastic wrap extends storage to 21 days at 53 °F (12 °C) commercially." }
+      },
+      "freezer": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Freeze whole; the skins slip off easily after thawing for juice or jelly." }
+      }
+    },
+    "sources": [
+      { "name": "UH–CTAHR F_N-20 – Jaboticaba", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-20.pdf" },
+      { "name": "UH–CTAHR F_N-36 – Quick Harvest and Postharvest Tips", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-36.pdf" }
+    ],
+    "analog": null,
+    "notes": "The 21-day figure needs waxing and a controlled 12 °C room, so it is quoted as a tip rather than used as the home range. Freezer figure is the general berry range, not a CTAHR number."
+  },
+  {
+    "slug": "langsat",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Langsat",
+    "subtitle": "also sold as duku or longkong",
+    "keywords": ["langsat", "lanzones", "duku", "longkong", "蘭撒果", "龍宮果", "ランサ", "ドゥク", "langsat", "lanzón"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "CTAHR displays langsat at 15 °C and says not to mist it. A cool, dry spot beats the fridge for this fruit." }
+      },
+      "fridge": {
+        "base": { "min": 4, "max": 7, "unit": "days", "tips": "CTAHR's recommended storage is 18 °C at 90 % RH for about 21 days, and it warns that the skin browns rapidly below 12 °C. A 4 °C home fridge is far below that, so the peel will brown within about a week even though the flesh stays good." }
+      }
+    },
+    "sources": [
+      { "name": "UH–CTAHR F_N-42 – Longkong, Duku, and Langsat: Postharvest Quality-Maintenance Guidelines", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-42.pdf" },
+      { "name": "UH–CTAHR F_N-36 – Quick Harvest and Postharvest Tips", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-36.pdf" }
+    ],
+    "analog": null,
+    "notes": "The 21-day figure is for an 18 °C commercial room, not a fridge. The home fridge range is shortened because the source explicitly documents chilling browning below 12 °C. No freezer entry: no source gives one."
+  },
+  {
+    "slug": "acerola",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Acerola",
+    "subtitle": "fresh, Barbados cherry",
+    "keywords": ["acerola", "barbados cherry", "西印度櫻桃", "針葉櫻桃", "アセロラ", "acerola", "cereza de Barbados"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 1, "max": 2, "unit": "days", "tips": "Extremely fragile; CTAHR packs it no more than two layers deep because a third layer crushes the bottom fruit." }
+      },
+      "fridge": {
+        "base": { "min": 4, "max": 10, "unit": "days", "tips": "CTAHR: postharvest life runs from about 4 days up to 10 days when the fruit is cooled rapidly straight after picking." }
+      },
+      "freezer": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Freeze whole or as pulp; this is how acerola is normally kept for juice." }
+      }
+    },
+    "sources": [
+      { "name": "UH–CTAHR F_N-36 – Quick Harvest and Postharvest Tips", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-36.pdf" }
+    ],
+    "analog": null,
+    "notes": "Freezer figure is the general soft-fruit range, not a CTAHR number."
+  },
+  {
+    "slug": "pitanga",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Pitanga",
+    "subtitle": "Surinam cherry, fresh",
+    "keywords": ["pitanga", "surinam cherry", "巴西櫻桃", "蘇利南櫻桃", "ピタンガ", "pitanga", "cereza de Cayena"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 1, "max": 2, "unit": "days", "tips": "Very soft skinned; CTAHR packs it no more than two layers deep in vented clamshells." }
+      },
+      "fridge": {
+        "base": { "min": 3, "max": 10, "unit": "days", "tips": "CTAHR: putting the clamshells into a cooler in the field can lengthen shelf life by as much as 10 days, depending on how ripe the fruit was when picked." }
+      },
+      "freezer": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Freeze whole for juice and sorbet." }
+      }
+    },
+    "sources": [
+      { "name": "UH–CTAHR F_N-36 – Quick Harvest and Postharvest Tips", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-36.pdf" }
+    ],
+    "analog": null,
+    "notes": "Freezer figure is the general soft-fruit range, not a CTAHR number."
+  },
+  {
+    "slug": "cape-gooseberry",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Cape Gooseberry",
+    "subtitle": "in the husk",
+    "keywords": ["cape gooseberry", "physalis", "goldenberry", "poha", "燈籠果", "秘魯苦蘵", "ホオズキ", "ゴールデンベリー", "uchuva", "aguaymanto", "physalis"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "Leave the papery husk on. CTAHR notes that removing the husk reduces postharvest life, so de-husk only what you are about to eat." }
+      },
+      "fridge": {
+        "base": { "min": 2, "max": 3, "unit": "weeks", "tips": "Husked fruit should be packed no deeper than a pint container and chilled as soon as possible." }
+      },
+      "freezer": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Freeze husked fruit on a tray, then bag." }
+      }
+    },
+    "sources": [
+      { "name": "UH–CTAHR F_N-36 – Quick Harvest and Postharvest Tips", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-36.pdf" }
+    ],
+    "analog": "apples",
+    "notes": "CTAHR gives the husk rule but no keeping time for home storage, so the pantry and fridge durations are based on the FoodKeeper slug \"apples\" (a firm, low-respiration fruit with a protective skin), shortened for the smaller fruit. Freezer figure is the general soft-fruit range."
+  },
+  {
+    "slug": "salak",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Salak",
+    "subtitle": "snake fruit, in the skin",
+    "keywords": ["salak", "snake fruit", "蛇皮果", "沙叻", "サラク", "スネークフルーツ", "salak", "fruta serpiente"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 5, "max": 10, "unit": "days", "tips": "Keep the scaly skin on and store dry and cool; overripe fruit turns tasteless and develops an off odour." }
+      },
+      "fridge": {
+        "base": { "min": 2, "max": 4, "unit": "weeks", "tips": "Loose in a paper bag rather than sealed plastic, which sweats and rots the fruit." }
+      }
+    },
+    "sources": [
+      { "name": "UH–CTAHR F_N-36 – Quick Harvest and Postharvest Tips", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-36.pdf" }
+    ],
+    "analog": "pomegranate",
+    "notes": "CTAHR describes salak harvest and grading and its overripe off-odour, but gives no home keeping time, so the durations are based on the FoodKeeper slug \"pomegranate\" — another hard-shelled, non-climacteric fruit that keeps well because its skin protects the flesh."
+  },
+  {
+    "slug": "sapodilla",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sapodilla",
+    "subtitle": "chiku, whole",
+    "keywords": ["sapodilla", "chiku", "chico", "人心果", "沙漠吉拉", "サポジラ", "チューインガムノキ", "chicozapote", "níspero"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 7, "unit": "days", "tips": "Ripen at room temperature until it yields to a thumb. CTAHR warns that fruit picked immature shrivels as it softens and never sweetens properly." }
+      },
+      "fridge": {
+        "base": { "min": 5, "max": 10, "unit": "days", "tips": "Refrigerate only after it has softened." }
+      },
+      "freezer": {
+        "base": { "min": 3, "max": 6, "unit": "months", "tips": "Freeze the deseeded pulp." }
+      }
+    },
+    "sources": [
+      { "name": "UH–CTAHR F_N-36 – Quick Harvest and Postharvest Tips", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-36.pdf" }
+    ],
+    "analog": "sapote",
+    "notes": "CTAHR gives maturity indices and the ripen-before-chilling rule but no home keeping time, so the durations are based on the FoodKeeper slug \"sapote\"."
+  },
+  {
+    "slug": "white-sapote",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "White Sapote",
+    "subtitle": "whole",
+    "keywords": ["white sapote", "casimiroa", "白柿", "白肉果", "ホワイトサポテ", "zapote blanco", "matasano"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 2, "max": 4, "unit": "days", "tips": "CTAHR calls it highly perishable and soft-skinned; each fruit needs padding or it bruises." }
+      },
+      "fridge": {
+        "base": { "min": 5, "max": 10, "unit": "days", "tips": "CTAHR says to chill it in the field or as soon as possible after harvest." }
+      }
+    },
+    "sources": [
+      { "name": "UH–CTAHR F_N-36 – Quick Harvest and Postharvest Tips", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-36.pdf" }
+    ],
+    "analog": "sapote",
+    "notes": "CTAHR gives handling rules and the chill-immediately instruction but no keeping time, so the durations are based on the FoodKeeper slug \"sapote\"."
+  },
+  {
+    "slug": "mountain-apple",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Mountain Apple",
+    "subtitle": "Malay apple, fresh",
+    "keywords": ["mountain apple", "malay apple", "ohia ai", "山蒲桃", "馬來蓮霧", "ヤマフトモモ", "マレーフトモモ", "manzana malaya", "pomarrosa"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 1, "max": 2, "unit": "days", "tips": "CTAHR calls the mountain apple the most perishable of the Syzygium fruit and says it must be cooled in the field to get any postharvest life at all." }
+      },
+      "fridge": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "Single layer, padded, in a vented box — stacking bruises the thin skin." }
+      }
+    },
+    "sources": [
+      { "name": "UH–CTAHR F_N-36 – Quick Harvest and Postharvest Tips", "url": "https://www3.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-36.pdf" }
+    ],
+    "analog": "berries-blackberries-boysenberries-currant",
+    "notes": "CTAHR describes the fruit as highly perishable and requiring field chilling but gives no days, so the durations are based on the FoodKeeper slug \"berries-blackberries-boysenberries-currant\". Wax apple, the firmer cousin, is a separate record."
+  },
+  {
+    "slug": "black-sapote",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Black Sapote",
+    "subtitle": "chocolate pudding fruit",
+    "keywords": ["black sapote", "chocolate pudding fruit", "黑柿", "黑肉柿", "ブラックサポテ", "zapote negro"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 10, "unit": "days", "tips": "Ripen at room temperature until the skin goes olive-brown and the fruit is soft to the point of collapse — under-ripe it is astringent like a firm persimmon." }
+      },
+      "fridge": {
+        "base": { "min": 2, "max": 4, "unit": "days", "tips": "Only once fully soft; scoop the pulp and keep it covered." }
+      },
+      "freezer": {
+        "base": { "min": 3, "max": 6, "unit": "months", "tips": "Freeze the deseeded pulp." }
+      }
+    },
+    "sources": [],
+    "analog": "sapote",
+    "notes": "No agency or extension source with storage figures for black sapote could be fetched. The numbers are taken from the FoodKeeper slug \"sapote\", adjusted for the fact that black sapote is eaten only when fully soft."
+  },
+  {
+    "slug": "mamey-sapote",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Mamey Sapote",
+    "subtitle": "whole",
+    "keywords": ["mamey sapote", "mamey", "曼密蘋果", "瑪米果", "マメイサポテ", "mamey", "zapote mamey"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 7, "unit": "days", "tips": "Ripen at room temperature until the flesh under a scratched patch of skin is salmon-pink and the fruit gives to pressure." }
+      },
+      "fridge": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "Refrigerate only after ripening; cut flesh browns, so press cling film onto the surface." }
+      },
+      "freezer": {
+        "base": { "min": 3, "max": 6, "unit": "months", "tips": "Freeze the pulp for batidos and ice cream." }
+      }
+    },
+    "sources": [],
+    "analog": "sapote",
+    "notes": "No fetchable agency or extension source gives storage figures for mamey sapote. The numbers are taken from the FoodKeeper slug \"sapote\"."
+  },
+  {
+    "slug": "star-apple",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Star Apple",
+    "subtitle": "caimito, whole",
+    "keywords": ["star apple", "caimito", "金星果", "牛奶果", "スターアップル", "カイミト", "caimito", "estrella"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 2, "max": 4, "unit": "days", "tips": "Eat when the skin is dull and slightly wrinkled and the fruit is soft; the rind and the white latex near it are not eaten." }
+      },
+      "fridge": {
+        "base": { "min": 1, "max": 3, "unit": "weeks", "tips": "Whole fruit in a loose bag; it is non-climacteric so it will not improve after picking." }
+      }
+    },
+    "sources": [],
+    "analog": "apples",
+    "notes": "CTAHR lists star apple but its text gives no home storage figures, and no other fetchable source did either. The numbers are taken from the FoodKeeper slug \"apples\", a comparably firm-skinned non-climacteric fruit."
+  },
+  {
+    "slug": "santol",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Santol",
+    "subtitle": "whole",
+    "keywords": ["santol", "cotton fruit", "山陀兒", "山道楝", "サントール", "santol"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 7, "unit": "days", "tips": "The thick rind protects the fruit; keep it dry and out of the sun." }
+      },
+      "fridge": {
+        "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "Loose in the crisper. Peeled segments should be eaten the same day." }
+      }
+    },
+    "sources": [],
+    "analog": "citrus-fruit-lemon-lime-orange-grapefruit-tangerines-clementines",
+    "notes": "No fetchable agency source gives santol storage figures. The numbers are taken from the FoodKeeper slug \"citrus-fruit-lemon-lime-orange-grapefruit-tangerines-clementines\", chosen because santol has a similarly thick protective rind."
+  },
+  {
+    "slug": "marang",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Marang",
+    "subtitle": "whole",
+    "keywords": ["marang", "terap", "madang", "馬蘭果", "小菠蘿蜜", "マラン", "marang"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 1, "max": 3, "unit": "days", "tips": "Marang ripens fast and is eaten within a day or two of the rind softening; the smell tells you when." }
+      },
+      "fridge": {
+        "base": { "min": 2, "max": 4, "unit": "days", "tips": "Separate the pulp segments from the rind and seal them in a box — the aroma spreads through a fridge otherwise." }
+      },
+      "freezer": {
+        "base": { "min": 3, "max": 6, "unit": "months", "tips": "Freeze the segments, not the whole fruit." }
+      }
+    },
+    "sources": [],
+    "analog": "cherimoya",
+    "notes": "No fetchable agency source gives marang storage figures. The numbers are taken from the FoodKeeper slug \"cherimoya\", a comparably soft, fast-ripening tropical fruit."
+  },
+  {
+    "slug": "cempedak",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Cempedak",
+    "subtitle": "whole",
+    "keywords": ["cempedak", "chempedak", "尖蜜拉", "小波羅蜜", "チェンペダック", "cempedak"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 2, "max": 4, "unit": "days", "tips": "Strongly aromatic once ripe; keep it out of a closed room." }
+      },
+      "fridge": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "Separate the pulp segments and seal them in an airtight box so the smell does not transfer." }
+      },
+      "freezer": {
+        "base": { "min": 3, "max": 6, "unit": "months", "tips": "Freeze the segments; they are usually battered and fried straight from frozen." }
+      }
+    },
+    "sources": [],
+    "analog": "cherimoya",
+    "notes": "No fetchable agency source gives cempedak storage figures. The numbers are taken from the FoodKeeper slug \"cherimoya\", shortened because cempedak is even more perishable than jackfruit, its close relative."
+  },
+  {
+    "slug": "pulasan",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Pulasan",
+    "subtitle": "in the shell",
+    "keywords": ["pulasan", "韶子", "毛荔枝", "プラサン", "pulasan"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 2, "max": 3, "unit": "days", "tips": "The shell dries and browns quickly at room temperature even though the flesh inside is still good." }
+      },
+      "fridge": {
+        "base": { "min": 5, "max": 10, "unit": "days", "tips": "Seal in a bag to hold humidity — the loss of shell colour is water loss, not spoilage." }
+      }
+    },
+    "sources": [],
+    "analog": "lychee",
+    "notes": "No fetchable agency source gives pulasan storage figures. The numbers are taken from the FoodKeeper slug \"lychee\", its closest relative in the dataset."
+  },
+  {
+    "slug": "mamoncillo",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Mamoncillo",
+    "subtitle": "Spanish lime, in the shell",
+    "keywords": ["mamoncillo", "quenepa", "guinep", "spanish lime", "西班牙萊姆", "番龍眼", "マモンシージョ", "mamoncillo", "quenepa", "guaya"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "Sold in bunches on the stem; keeping the stems attached slows drying." }
+      },
+      "fridge": {
+        "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "Bag them so the leathery shell does not dry out." }
+      }
+    },
+    "sources": [],
+    "analog": "lychee",
+    "notes": "No fetchable agency source gives mamoncillo storage figures. The numbers are taken from the FoodKeeper slug \"lychee\", another thin-shelled Sapindaceae fruit."
+  },
+  {
+    "slug": "custard-apple",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Custard Apple",
+    "subtitle": "bullock's heart, whole",
+    "keywords": ["custard apple", "bullocks heart", "牛心梨", "牛心果", "ギュウシンリ", "anón", "corazón de buey"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 2, "max": 5, "unit": "days", "tips": "Ripen at room temperature until it gives to gentle pressure. Like other Annona fruit it is chilling-sensitive, so do not refrigerate it hard." }
+      },
+      "fridge": {
+        "base": { "min": 2, "max": 4, "unit": "days", "tips": "Only once soft." }
+      },
+      "freezer": {
+        "base": { "min": 3, "max": 6, "unit": "months", "tips": "Freeze the deseeded pulp." }
+      }
+    },
+    "sources": [],
+    "analog": "cherimoya",
+    "notes": "No fetchable agency source gives figures for Annona reticulata specifically. The numbers are taken from the FoodKeeper slug \"cherimoya\", the same genus."
+  },
+  {
+    "slug": "indian-jujube",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Indian Jujube",
+    "subtitle": "fresh",
+    "keywords": ["indian jujube", "ber", "棗子", "印度棗", "蜜棗", "インドナツメ", "azufaifa india", "manzanita"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 7, "unit": "days", "tips": "Keep out of the sun; the skin wrinkles and the flesh goes mealy once it dehydrates." }
+      },
+      "fridge": {
+        "base": { "min": 2, "max": 4, "unit": "weeks", "tips": "Bag them loosely in the crisper. Taiwan's winter crop is sold crisp and eaten like an apple, and that crunch is the first thing to go." }
+      }
+    },
+    "sources": [],
+    "analog": "apples",
+    "notes": "No fetchable Taiwanese or other agency page gave a keeping time for fresh 棗子. The numbers are taken from the FoodKeeper slug \"apples\", which matches how the fruit is eaten and how it loses quality."
+  },
+  {
+    "slug": "jujube-dried",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Chinese Jujube",
+    "subtitle": "dried, red dates",
+    "keywords": ["jujube", "red dates", "chinese date", "紅棗", "乾紅棗", "なつめ", "干しなつめ", "azufaifa seca", "dátil chino"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "NCHFP: most dried fruit keeps about 1 year at 60 °F (16 °C) and 6 months at 80 °F (27 °C). Airtight jar, dark cupboard, away from the stove." }
+      },
+      "fridge": {
+        "base": { "min": 12, "max": 18, "unit": "months", "tips": "Ohio State advises refrigerating dried fruit if possible; in a humid climate this also stops the dates going sticky and mouldy." }
+      },
+      "freezer": {
+        "base": { "min": 18, "max": 24, "unit": "months", "tips": "Double-bagged; freezing also kills any pantry moth eggs in a new packet." }
+      }
+    },
+    "sources": [
+      { "name": "NCHFP – Packaging and Storing Dried Foods", "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/" },
+      { "name": "Ohioline (Ohio State) HYG-5401 – Pantry Food Storage", "url": "https://ohioline.osu.edu/factsheet/HYG-5401" }
+    ],
+    "analog": null,
+    "notes": "Both sources are for dried fruit as a class rather than for jujube specifically; Ohio State's shelf figure is 6 months at 70 °F, NCHFP's is 1 year at 60 °F, which is why the pantry range spans both."
+  },
+  {
+    "slug": "longan-dried",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dried Longan",
+    "subtitle": "shelled, longan flesh",
+    "keywords": ["dried longan", "longan flesh", "桂圓", "龍眼乾", "桂圓肉", "干し龍眼", "リュウガン", "longan seco"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "NCHFP: dried fruit keeps about 1 year at 60 °F (16 °C), 6 months at 80 °F (27 °C). Keep the sticky flesh in an airtight jar away from heat." }
+      },
+      "fridge": {
+        "base": { "min": 12, "max": 18, "unit": "months", "tips": "Ohio State advises refrigerating dried fruit if possible — worth doing in a subtropical summer, since dried longan is hygroscopic and moulds when it picks up moisture." }
+      },
+      "freezer": {
+        "base": { "min": 18, "max": 24, "unit": "months", "tips": "Sealed bag; thaw sealed so it does not sweat." }
+      }
+    },
+    "sources": [
+      { "name": "NCHFP – Packaging and Storing Dried Foods", "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/" },
+      { "name": "Ohioline (Ohio State) HYG-5401 – Pantry Food Storage", "url": "https://ohioline.osu.edu/factsheet/HYG-5401" }
+    ],
+    "analog": null,
+    "notes": "Both sources cover dried fruit as a class, not longan specifically."
+  },
+  {
+    "slug": "persimmon-dried",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dried Persimmon",
+    "subtitle": "persimmon cakes",
+    "keywords": ["dried persimmon", "persimmon cake", "柿餅", "柿乾", "干し柿", "ころ柿", "caqui seco", "orejones de caqui"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 1, "max": 2, "unit": "months", "tips": "Only for a firm, well-dried cake in a cool dry room. The white bloom on the surface is crystallised sugar, not mould." }
+      },
+      "fridge": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "NCHFP gives dried fruit about 1 year at 60 °F and 6 months at 80 °F, and Ohio State advises refrigerating dried fruit where possible. Soft, semi-dried persimmon cakes are moist enough that the fridge is the right default." }
+      },
+      "freezer": {
+        "base": { "min": 12, "max": 18, "unit": "months", "tips": "Wrap individually; they thaw in minutes." }
+      }
+    },
+    "sources": [
+      { "name": "NCHFP – Packaging and Storing Dried Foods", "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/" },
+      { "name": "Ohioline (Ohio State) HYG-5401 – Pantry Food Storage", "url": "https://ohioline.osu.edu/factsheet/HYG-5401" }
+    ],
+    "analog": null,
+    "notes": "Sources cover dried fruit as a class. The pantry range is deliberately shorter than the source figure because commercial 柿餅 is semi-dried and much moister than the raisins and apricots those figures were written for."
+  },
+  {
+    "slug": "monk-fruit-dried",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Monk Fruit",
+    "subtitle": "dried, whole",
+    "keywords": ["monk fruit", "luo han guo", "羅漢果", "ラカンカ", "羅漢果", "fruto del monje", "luo han guo"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "NCHFP: dried fruit keeps about 1 year at 60 °F, 6 months at 80 °F. Keep the brittle shells whole in a tin; they crush easily and then absorb damp." }
+      },
+      "fridge": {
+        "base": { "min": 12, "max": 18, "unit": "months", "tips": "Airtight, to stop the shells softening in humid weather." }
+      }
+    },
+    "sources": [
+      { "name": "NCHFP – Packaging and Storing Dried Foods", "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/" }
+    ],
+    "analog": null,
+    "notes": "NCHFP covers dried fruit as a class, not monk fruit specifically."
+  },
+  {
+    "slug": "buddhas-hand",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Buddha's Hand",
+    "subtitle": "whole citron",
+    "keywords": ["buddhas hand", "buddha hand citron", "佛手柑", "佛手果", "ブッシュカン", "仏手柑", "mano de Buda", "cidra"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "It is grown for its perfume, so a bowl on the counter is a legitimate way to keep it; the scent fades as the skin dries." }
+      },
+      "fridge": {
+        "base": { "min": 2, "max": 3, "unit": "weeks", "tips": "Loose in a bag. It is nearly all pith and zest with no juice, so it dries out rather than rots." }
+      },
+      "freezer": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Freeze grated zest or candied strips." }
+      }
+    },
+    "sources": [],
+    "analog": "citrus-fruit-lemon-lime-orange-grapefruit-tangerines-clementines",
+    "notes": "No fetchable agency source gives storage figures for Buddha's hand. The numbers are taken from the FoodKeeper slug \"citrus-fruit-lemon-lime-orange-grapefruit-tangerines-clementines\"."
+  },
+  {
+    "slug": "calamansi",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Calamansi",
+    "subtitle": "fresh, whole",
+    "keywords": ["calamansi", "calamondin", "金桔", "四季桔", "金柑橘", "カラマンシー", "シキキツ", "calamansi", "limón filipino"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 7, "unit": "days", "tips": "Thin-skinned and small, so they dry out faster than a lime on the counter." }
+      },
+      "fridge": {
+        "base": { "min": 2, "max": 3, "unit": "weeks", "tips": "In a sealed bag or box in the crisper to hold the juice in." }
+      },
+      "freezer": {
+        "base": { "min": 4, "max": 6, "unit": "months", "tips": "Freeze the squeezed juice in an ice cube tray; the whole fruit turns to mush." }
+      }
+    },
+    "sources": [],
+    "analog": "limes",
+    "notes": "No fetchable agency source gives calamansi storage figures. The numbers are taken from the FoodKeeper slug \"limes\", shortened at the pantry end because calamansi is smaller and thinner-skinned. This is distinct from kumquat, which is already in FoodKeeper."
+  },
+  {
+    "slug": "june-plum",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "June Plum",
+    "subtitle": "ambarella, whole",
+    "keywords": ["june plum", "ambarella", "golden apple", "沙梨橄欖", "太平洋榅桲", "アンバレラ", "タマゴノキ", "jobo indio", "cajá-manga"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 7, "unit": "days", "tips": "Eaten green and crunchy or ripened to golden and soft; leave it out to move from one to the other." }
+      },
+      "fridge": {
+        "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "Green fruit keeps longer than ripe; bag it so the skin does not shrivel." }
+      }
+    },
+    "sources": [],
+    "analog": "plums",
+    "notes": "No fetchable agency source gives June plum storage figures. The numbers are taken from the FoodKeeper slug \"plums\"."
+  },
+  {
+    "slug": "granadilla",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Granadilla",
+    "subtitle": "sweet granadilla, whole",
+    "keywords": ["granadilla", "sweet granadilla", "甜西番蓮", "甜百香果", "グラナディージャ", "granadilla", "granadilla dulce"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 5, "max": 10, "unit": "days", "tips": "The hard orange shell protects the pulp; a lightly wrinkled shell means sweeter pulp, not spoilage." }
+      },
+      "fridge": {
+        "base": { "min": 2, "max": 4, "unit": "weeks", "tips": "In a bag so the shell does not dehydrate and crack." }
+      },
+      "freezer": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Freeze the pulp with the seeds." }
+      }
+    },
+    "sources": [],
+    "analog": "passionfruit",
+    "notes": "No fetchable agency source gives granadilla storage figures. The numbers are taken from the FoodKeeper slug \"passionfruit\", the same genus."
+  },
+  {
+    "slug": "curuba",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Curuba",
+    "subtitle": "banana passionfruit",
+    "keywords": ["curuba", "banana passionfruit", "tumbo", "taxo", "香蕉百香果", "バナナパッションフルーツ", "curuba", "tumbo"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 7, "unit": "days", "tips": "Thinner-skinned than a round passionfruit, so it dries out faster on the counter." }
+      },
+      "fridge": {
+        "base": { "min": 1, "max": 3, "unit": "weeks", "tips": "Bagged in the crisper." }
+      },
+      "freezer": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Freeze the pulp; it is normally blended into juice." }
+      }
+    },
+    "sources": [],
+    "analog": "passionfruit",
+    "notes": "No fetchable agency source gives curuba storage figures. The numbers are taken from the FoodKeeper slug \"passionfruit\", shortened because the elongated fruit has a thinner rind."
+  },
+  {
+    "slug": "lulo",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Lulo",
+    "subtitle": "naranjilla, whole",
+    "keywords": ["lulo", "naranjilla", "奎東茄", "小黃果", "ナランヒージャ", "lulo", "naranjilla"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "Rub off the fine hairs before use. Like a tomato it ripens further on the counter and dislikes hard chilling." }
+      },
+      "fridge": {
+        "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "Only once fully orange; cold storage of unripe fruit stops it colouring." }
+      },
+      "freezer": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Freeze the sieved pulp — this is the normal form sold outside the Andes." }
+      }
+    },
+    "sources": [],
+    "analog": "tomatoes",
+    "notes": "No fetchable agency source gives lulo storage figures. The numbers are taken from the FoodKeeper slug \"tomatoes\", the closest relative in the dataset and a good match for its chilling behaviour."
+  },
+  {
+    "slug": "tamarillo",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Tamarillo",
+    "subtitle": "tree tomato, whole",
+    "keywords": ["tamarillo", "tree tomato", "樹番茄", "木立番茄", "タマリロ", "ツリートマト", "tamarillo", "tomate de árbol"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 7, "unit": "days", "tips": "Ripens and sweetens off the tree; leave firm fruit out until it yields slightly." }
+      },
+      "fridge": {
+        "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "Once ripe, bagged in the crisper. The skin is bitter and is always peeled or scooped around." }
+      },
+      "freezer": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Blanch briefly, slip the skins, then freeze the flesh." }
+      }
+    },
+    "sources": [],
+    "analog": "tomatoes",
+    "notes": "No fetchable agency source gives tamarillo storage figures. The numbers are taken from the FoodKeeper slug \"tomatoes\", the same family, extended slightly because the tamarillo's skin is much tougher."
+  },
+  {
+    "slug": "acai-pulp",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Açaí Pulp",
+    "subtitle": "frozen, unsweetened",
+    "keywords": ["acai", "açaí", "acai pulp", "巴西莓", "阿薩伊", "アサイー", "açaí", "asaí"],
+    "storage": {
+      "fridge": {
+        "afterOpening": { "min": 1, "max": 2, "unit": "days", "tips": "Thawed pulp oxidises fast and is meant to be blended straight away. Never refreeze it." }
+      },
+      "freezer": {
+        "base": { "min": 8, "max": 12, "unit": "months", "tips": "Keep the sachets rock-hard at the back of the freezer, not in the door." }
+      }
+    },
+    "sources": [],
+    "analog": "frozen-fruits",
+    "notes": "Açaí is almost never sold fresh outside Amazonia; this record covers the frozen pulp packs. The numbers are taken from the FoodKeeper slug \"frozen-fruits\". No fetchable agency source gives açaí-specific figures."
+  },
+  {
+    "slug": "cupuacu",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Cupuaçu",
+    "subtitle": "whole or frozen pulp",
+    "keywords": ["cupuacu", "cupuaçu", "古布阿蘇", "古布阿樹果", "クプアス", "クプアスー", "cupuaçu", "cupuasú"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 2, "max": 4, "unit": "days", "tips": "The thick brown rind protects the pulp; the fruit is normally opened as soon as it drops." }
+      },
+      "fridge": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "Scoop the pulp off the seeds and keep it covered." }
+      },
+      "freezer": {
+        "base": { "min": 8, "max": 12, "unit": "months", "tips": "Frozen pulp is the standard form outside Brazil." }
+      }
+    },
+    "sources": [],
+    "analog": "cherimoya",
+    "notes": "No fetchable agency source gives cupuaçu storage figures. The fresh numbers are taken from the FoodKeeper slug \"cherimoya\"; the freezer figure follows FoodKeeper's frozen-fruit practice."
+  },
+  {
+    "slug": "bayberry",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Chinese Bayberry",
+    "subtitle": "fresh, yangmei",
+    "keywords": ["bayberry", "yangmei", "yumberry", "楊梅", "楊梅果", "ヤマモモ", "山桃", "mirto chino", "yumberry"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 1, "max": 2, "unit": "days", "tips": "Notoriously short-lived: the surface bristles collapse and the fruit weeps juice within a day at room temperature. Do not wash before storing." }
+      },
+      "fridge": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "Single layer in a vented punnet, not piled deep — the weight bruises the fruit underneath." }
+      },
+      "freezer": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Freeze on a tray then bag; frozen bayberry is eaten half-thawed or steeped in liquor." }
+      }
+    },
+    "sources": [],
+    "analog": "berries-blackberries-boysenberries-currant",
+    "notes": "No fetchable Taiwanese or Chinese agency page gave a keeping time for 楊梅. The numbers are taken from the FoodKeeper slug \"berries-blackberries-boysenberries-currant\"."
+  },
+  {
+    "slug": "sea-buckthorn",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sea Buckthorn",
+    "subtitle": "fresh berries",
+    "keywords": ["sea buckthorn", "seaberry", "沙棘", "沙棘果", "サジー", "シーベリー", "espino amarillo", "espino falso"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 3, "max": 7, "unit": "days", "tips": "The berries burst easily; keep them in a shallow layer and do not wash until use." }
+      },
+      "freezer": {
+        "base": { "min": 8, "max": 12, "unit": "months", "tips": "Sea buckthorn is almost always frozen straight after harvest — the berries are usually shaken off frozen branches — and juiced from frozen." }
+      }
+    },
+    "sources": [],
+    "analog": "berries-blackberries-boysenberries-currant",
+    "notes": "No fetchable agency source gives sea buckthorn storage figures. The numbers are taken from the FoodKeeper slug \"berries-blackberries-boysenberries-currant\". No pantry entry: the berries do not keep at room temperature."
+  },
+  {
+    "slug": "quince",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Quince",
+    "subtitle": "whole, raw",
+    "keywords": ["quince", "榲桲", "木梨", "マルメロ", "セイヨウカリン", "membrillo"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 2, "max": 4, "unit": "weeks", "tips": "Quince is rock hard and keeps well in a cool room; a bowl of them will perfume a kitchen. Store away from other fruit, which picks up the scent." }
+      },
+      "fridge": {
+        "base": { "min": 2, "max": 3, "unit": "months", "tips": "Wrap loosely; the skin bruises brown where it knocks. Ohio State gives apples 1 to 3 weeks in the fridge, and quince, being denser and harder, holds considerably longer." }
+      },
+      "freezer": {
+        "base": { "min": 8, "max": 12, "unit": "months", "tips": "Freeze peeled, cored and poached — raw quince flesh browns and stays woody." }
+      }
+    },
+    "sources": [
+      { "name": "Ohioline (Ohio State) HYG-5403 – Refrigerator Storage", "url": "https://ohioline.osu.edu/factsheet/HYG-5403" }
+    ],
+    "analog": "apples",
+    "notes": "The Ohio State table covers apples, not quince, so the numbers here are based on the FoodKeeper slug \"apples\" and extended because quince is a much firmer, later-keeping pome fruit. Treat the fridge figure as an estimate."
+  },
+  {
+    "slug": "medlar",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Medlar",
+    "subtitle": "for bletting",
+    "keywords": ["medlar", "歐楂", "歐洲山楂果", "西洋榲桲", "セイヨウカリン", "メドラー", "níspero europeo", "níspola"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 2, "max": 4, "unit": "weeks", "tips": "Medlars are picked hard and deliberately left to blet — held in a single layer in a cool airy place until the flesh goes brown and soft, which is when they become edible." }
+      },
+      "fridge": {
+        "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "Once bletted. Refrigerating them before they blet simply delays the process." }
+      }
+    },
+    "sources": [],
+    "analog": "apples",
+    "notes": "No fetchable agency source gives medlar storage figures. The numbers are taken from the FoodKeeper slug \"apples\" and reshaped around bletting, which is a ripening step rather than spoilage."
+  },
+  {
+    "slug": "ice-cream-bean",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Ice Cream Bean",
+    "subtitle": "guaba pods",
+    "keywords": ["ice cream bean", "inga", "guaba", "冰淇淋豆", "印加豆", "アイスクリームビーン", "guaba", "pacay", "guama"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 2, "max": 4, "unit": "days", "tips": "Keep the pod closed until you eat it — the white pulp around the seeds browns within hours of being opened." }
+      },
+      "fridge": {
+        "base": { "min": 5, "max": 7, "unit": "days", "tips": "Whole pods only, in a bag. The pulp itself does not store." }
+      }
+    },
+    "sources": [],
+    "analog": "beans-and-peas-green-fava-lima-soybean-wax-snow",
+    "notes": "No fetchable agency source gives Inga pod storage figures. The numbers are taken from the FoodKeeper slug \"beans-and-peas-green-fava-lima-soybean-wax-snow\", the closest match for a fresh legume pod, though the edible part here is the sweet aril."
+  },
+  {
+    "slug": "camu-camu",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Camu Camu",
+    "subtitle": "fresh or frozen pulp",
+    "keywords": ["camu camu", "卡姆果", "卡姆卡姆", "カムカム", "camu camu", "camu-camu"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 2, "max": 4, "unit": "days", "tips": "Extremely acidic and extremely soft; it is picked and pulped almost immediately in Amazonia and rarely reaches a market fresh." }
+      },
+      "freezer": {
+        "base": { "min": 8, "max": 12, "unit": "months", "tips": "Frozen pulp is the normal traded form." }
+      }
+    },
+    "sources": [],
+    "analog": "berries-blackberries-boysenberries-currant",
+    "notes": "No fetchable agency source gives camu camu storage figures. The fresh numbers are taken from the FoodKeeper slug \"berries-blackberries-boysenberries-currant\"; the freezer figure follows FoodKeeper's frozen-fruit practice. No pantry entry — the fruit does not hold at room temperature."
+  },
+  {
+    "slug": "canistel",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Canistel",
+    "subtitle": "egg fruit, whole",
+    "keywords": ["canistel", "egg fruit", "蛋黃果", "仙桃", "カニステル", "エッグフルーツ", "canistel", "zapote amarillo", "huevo vegetal"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 3, "max": 10, "unit": "days", "tips": "Ripen at room temperature until the skin is deep orange and the fruit gives all over; unripe canistel is chalky and astringent." }
+      },
+      "fridge": {
+        "base": { "min": 3, "max": 5, "unit": "days", "tips": "Only once soft. The flesh is dry and dense like a boiled yolk and dries out further in cold air, so wrap it." }
+      },
+      "freezer": {
+        "base": { "min": 3, "max": 6, "unit": "months", "tips": "Freeze the mashed flesh." }
+      }
+    },
+    "sources": [],
+    "analog": "sapote",
+    "notes": "No fetchable agency source gives canistel storage figures. The numbers are taken from the FoodKeeper slug \"sapote\", the same family (Sapotaceae)."
+  }
+]

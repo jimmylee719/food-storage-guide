@@ -1,0 +1,107 @@
+{
+  "slug": "okra",
+  "en": {
+    "name": "Okra",
+    "aliases": ["ladies' fingers", "bhindi", "gumbo", "bamia"],
+    "summary": "Okra is a delicate pod that bruises easily and is highly perishable when left at room temperature, where it lasts about 1 day from the date of purchase. Refrigerated it keeps only 2–3 days, while blanched and frozen it lasts 10–12 months. Any dampness turns the pods slimy and black.",
+    "pantry": "Okra is highly perishable in the pantry and holds only about 1 day from purchase before the pods bruise, blacken at the tips and go limp. Handle it gently, since even light pressure leaves dark marks that spread. In a warm, humid kitchen it deteriorates even faster, so refrigerate it the day you buy it.",
+    "fridge": "Store okra dry and unwashed in a paper bag or a perforated bag in the crisper at 4 °C (40 °F) or below, where it keeps just 2–3 days from purchase. Moisture is the enemy: wet pods blacken and go slimy quickly, so do not wash until you cook. Keep the pods in a single layer to avoid bruising.",
+    "freezer": "Okra freezes for 10–12 months from purchase at −18 °C (0 °F) if blanched first. Leave the pods whole, boil small pods for 3 minutes and large for 4, plunge into iced water, drain and dry thoroughly, then freeze on a tray and bag. You can slice the pods after freezing, which reduces the sliminess.",
+    "thawing": "Cook frozen okra straight from the freezer, especially in gumbo, curries and stews. Thawing makes it much more slippery, so add it directly to the hot pot.",
+    "spoilage": [
+      "Black or dark brown patches spreading along the pods",
+      "Slimy or sticky surface on the outside of the pod",
+      "Limp, wrinkled pods that bend instead of snapping",
+      "Sour or musty smell in the bag"
+    ],
+    "tips": [
+      "Choose small, bright green pods under about 10 cm — larger ones are woody",
+      "Keep them dry and unwashed until you cook; moisture causes blackening",
+      "Cook okra quickly over high heat or with an acid such as tomato to reduce sliminess",
+      "Blanch and freeze pods whole, then slice them frozen"
+    ],
+    "faq": [
+      {"q": "How long does okra last in the fridge?", "a": "Only 2–3 days from purchase at 4 °C (40 °F) or below, kept dry and unwashed in a paper or perforated bag."},
+      {"q": "Can you freeze okra?", "a": "Yes. Blanch whole pods for 3–4 minutes, chill, dry and freeze for 10–12 months at −18 °C (0 °F). Slicing them frozen also reduces sliminess."},
+      {"q": "How do you stop okra being slimy?", "a": "Keep the pods dry, cook them quickly over high heat, or add an acid such as tomato or lemon juice. Cooking from frozen also helps."}
+    ]
+  },
+  "zh": {
+    "name": "秋葵",
+    "aliases": ["黃秋葵", "羊角豆", "洋辣椒", "ladies finger"],
+    "summary": "秋葵是很嬌嫩的豆莢，容易碰傷，放在室溫下特別容易壞，從購買日起大約只能放 1 天。冷藏也只有 2～3 天，燙過後冷凍則可保存 10～12 個月。只要沾到水氣，莢就會變黏滑發黑。",
+    "pantry": "秋葵在常溫下極易腐壞，從購買日起大約只能放 1 天，之後就會碰傷、尖端發黑、整支軟垮。取放要非常輕，因為輕輕一壓就會留下會擴散的黑痕。在又熱又濕的廚房裡壞得更快，所以買回來當天就要冷藏。",
+    "fridge": "保持乾燥、不清洗，裝在紙袋或打洞袋裡放進 4°C 以下的蔬果保鮮室，從購買日起只能放 2～3 天。水氣是大敵：潮濕的莢很快就會發黑變黏，所以煮之前不要洗。莢請單層擺放，避免互相壓傷。",
+    "freezer": "秋葵先汆燙再冷凍，放 −18°C，從購買日起可保存 10～12 個月。整支不要切，小的煮 3 分鐘、大的煮 4 分鐘，撈起泡冰水，瀝乾徹底擦乾，鋪盤冷凍後裝袋。冷凍後再切，黏液會少很多。",
+    "thawing": "冷凍秋葵請直接下鍋，尤其是煮秋葵濃湯、咖哩和燉菜。解凍後會滑很多，所以直接丟進熱鍋裡就好。",
+    "spoilage": [
+      "莢上出現黑色或深褐色斑塊並持續擴散",
+      "莢的外表面變得黏滑或黏手",
+      "莢變軟起皺，折起來只彎不斷",
+      "袋子裡有酸味或霉味"
+    ],
+    "tips": [
+      "挑約 10 公分以內、鮮綠的小支，太大支會很老",
+      "煮之前保持乾燥不清洗，水氣會造成發黑",
+      "大火快炒，或加番茄等酸性食材，可以減少黏液",
+      "整支汆燙後冷凍，之後在冷凍狀態下切"
+    ],
+    "faq": [
+      {"q": "秋葵放冰箱可以放多久？", "a": "保持乾燥、不清洗裝在紙袋或打洞袋裡，放 4°C 以下，從購買日起只有 2～3 天。"},
+      {"q": "秋葵可以冷凍嗎？", "a": "可以。整支汆燙 3～4 分鐘，冰鎮擦乾後冷凍，放 −18°C 可保存 10～12 個月。冷凍後再切還能減少黏液。"},
+      {"q": "怎麼讓秋葵不要那麼黏？", "a": "保持莢乾燥、用大火快速烹調，或加番茄、檸檬汁這類酸性食材。直接用冷凍狀態下鍋也有幫助。"}
+    ]
+  },
+  "ja": {
+    "name": "オクラ",
+    "aliases": ["おくら", "レディーフィンガー", "アメリカネリ", "ネリ"],
+    "summary": "オクラは傷つきやすい繊細なさやで、常温では非常に傷みやすく購入日から約1日しか持ちません。冷蔵でも2〜3日、下ゆでして冷凍すれば10〜12か月保存できます。湿気があると、さやはすぐぬめって黒くなります。",
+    "pantry": "オクラは常温での劣化が激しく、購入日から約1日で傷や先端の黒ずみが出てぐったりします。軽く押しただけでも黒い跡がつき広がるので、やさしく扱ってください。高温多湿ではさらに早く傷むため、買った当日に冷蔵しましょう。",
+    "fridge": "乾いた状態で洗わず、紙袋か穴あき袋に入れて4℃以下の野菜室で保存しても、購入日から2〜3日が限度です。湿気が大敵で、濡れたさやはすぐ黒ずんでぬめります。調理まで洗わないでください。さやは重ねず一段に並べると傷を防げます。",
+    "freezer": "下ゆですれば−18℃で購入日から10〜12か月冷凍できます。さやは丸のままで、小さいものは3分、大きいものは4分ゆで、氷水に取り、水気をしっかり拭いてバットで凍らせてから袋へ。凍ったまま切るとぬめりが出にくくなります。",
+    "thawing": "冷凍オクラは解凍せずそのまま調理を。とくにガンボやカレー、煮込みに向きます。解凍すると格段にぬめるので、熱い鍋へ直接入れましょう。",
+    "spoilage": [
+      "さやに黒や濃い茶色の部分が広がっている",
+      "さやの外側がぬめる、べたつく",
+      "さやがしなびてしわが寄り、折れずに曲がる",
+      "袋の中が酸っぱい、カビ臭い"
+    ],
+    "tips": [
+      "10cm以下の鮮やかな緑の小ぶりなものを。大きいものは筋っぽくなります",
+      "調理まで乾いた状態で洗わずに。湿気が黒ずみの原因です",
+      "強火で手早く、またはトマトなどの酸と合わせるとぬめりが抑えられます",
+      "丸のまま下ゆでして冷凍し、凍ったまま切りましょう"
+    ],
+    "faq": [
+      {"q": "オクラは冷蔵庫でどのくらい持ちますか？", "a": "乾いた状態で洗わず紙袋か穴あき袋に入れ、4℃以下でも購入日から2〜3日だけです。"},
+      {"q": "オクラは冷凍できますか？", "a": "できます。丸のまま3〜4分下ゆでし、冷やして拭いてから冷凍を。−18℃で10〜12か月、凍ったまま切ればぬめりも抑えられます。"},
+      {"q": "オクラのぬめりを抑えるには？", "a": "さやを乾いた状態に保ち、強火で手早く調理するか、トマトやレモン汁などの酸を加えましょう。凍ったまま調理するのも効果的です。"}
+    ]
+  },
+  "es": {
+    "name": "Okra",
+    "aliases": ["quimbombó", "gombo", "dedos de dama", "bamia", "molondrón"],
+    "summary": "La okra es una vaina delicada que se magulla con facilidad y es muy perecedera a temperatura ambiente, donde dura alrededor de 1 día desde la compra. Refrigerada aguanta solo 2–3 días, mientras que escaldada y congelada dura 10–12 meses. Cualquier humedad la vuelve viscosa y negra.",
+    "pantry": "La okra es muy perecedera en la despensa y aguanta alrededor de 1 día desde la compra antes de magullarse, ennegrecer en las puntas y ablandarse. Manéjala con cuidado: incluso una presión leve deja marcas oscuras que se extienden. En una cocina cálida y húmeda se deteriora aún más rápido, así que refrigérala el mismo día.",
+    "fridge": "Guárdala seca y sin lavar en una bolsa de papel o perforada en el cajón de verduras a 4 °C (40 °F) o menos, donde dura solo 2–3 días desde la compra. La humedad es su enemiga: las vainas mojadas ennegrecen y se vuelven viscosas rápido, así que no la laves hasta cocinarla. Colócala en una sola capa para que no se magulle.",
+    "freezer": "Se congela 10–12 meses desde la compra a −18 °C (0 °F) si la escaldas antes. Deja las vainas enteras, hierve 3 minutos las pequeñas y 4 las grandes, pásalas a agua helada, escúrrelas y sécalas bien, congélalas en bandeja y embólsalas. Puedes cortarlas ya congeladas, lo que reduce la viscosidad.",
+    "thawing": "Cocina la okra congelada directamente, sobre todo en gumbo, currys y guisos. Descongelarla la vuelve mucho más resbaladiza, así que échala directa a la olla caliente.",
+    "spoilage": [
+      "Manchas negras o pardo oscuras que se extienden por las vainas",
+      "Superficie viscosa o pegajosa por fuera de la vaina",
+      "Vainas flácidas y arrugadas que se doblan en vez de quebrarse",
+      "Olor agrio o a humedad dentro de la bolsa"
+    ],
+    "tips": [
+      "Elige vainas pequeñas y verde brillante de menos de unos 10 cm: las grandes son fibrosas",
+      "Manténlas secas y sin lavar hasta cocinarlas; la humedad provoca el ennegrecimiento",
+      "Cocínala rápido a fuego fuerte o con un ácido como el tomate para reducir la viscosidad",
+      "Escalda y congela las vainas enteras y córtalas ya congeladas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la okra en la nevera?", "a": "Solo 2–3 días desde la compra a 4 °C (40 °F) o menos, seca y sin lavar en una bolsa de papel o perforada."},
+      {"q": "¿Se puede congelar la okra?", "a": "Sí. Escalda las vainas enteras 3–4 minutos, enfríalas, sécalas y congélalas 10–12 meses a −18 °C (0 °F). Cortarlas congeladas también reduce la viscosidad."},
+      {"q": "¿Cómo se evita que la okra quede babosa?", "a": "Mantén las vainas secas, cocínalas rápido a fuego fuerte o añade un ácido como tomate o limón. Cocinarlas congeladas también ayuda."}
+    ]
+  }
+}

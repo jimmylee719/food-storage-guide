@@ -1,0 +1,107 @@
+{
+  "slug": "hummus-traditional",
+  "en": {
+    "name": "Traditional hummus (no preservatives)",
+    "aliases": ["homemade hummus", "fresh hummus", "unpasteurized hummus", "deli hummus"],
+    "summary": "Traditional hummus is made fresh from cooked chickpeas, tahini, lemon and garlic without pasteurization or preservatives, which is exactly why it tastes better and keeps far less well. Refrigerated at 4 °C (40 °F) or below it lasts about 7 days.",
+    "pantry": "Fresh hummus must not be left at room temperature. Nothing in it inhibits bacteria — the chickpea purée is moist and only mildly acidic — so it spoils quickly in the danger zone between 4 °C and 60 °C (40 °F and 140 °F). Discard a bowl left out for more than 2 hours, or 1 hour above 32 °C (90 °F), and take it straight from the fridge to the table.",
+    "fridge": "Store it in an airtight container at 4 °C (40 °F) or below and use it within about 7 days of making or buying it. Smooth the surface and cover it with a thin film of olive oil, which both slows drying and keeps air off the top. Always serve with a clean spoon and never return hummus from a serving bowl to the main container.",
+    "freezer": "Fresh hummus freezes well at −18 °C (0 °F), where it stays safe indefinitely and keeps good quality for a few months — genuinely useful, since a batch is usually more than a week's worth. It separates on thawing; beat it hard with a little water, lemon juice or olive oil to bring it back. Freeze it in small tubs with headspace.",
+    "thawing": "Thaw in the fridge overnight, then stir vigorously and adjust with lemon, salt and olive oil before serving. Do not thaw hummus at room temperature or refreeze it.",
+    "spoilage": [
+      "Sour, yeasty or alcoholic smell instead of a nutty, lemony aroma",
+      "Bubbles rising through the mixture, or a container lid that has swelled",
+      "Mould of any colour on the surface",
+      "Watery liquid on top that smells fermented, or a sharp sour taste"
+    ],
+    "tips": [
+      "Make or buy only what you will eat in a week — there are no preservatives to stretch it.",
+      "Cover the surface with olive oil to keep the air off and the top from drying.",
+      "Freeze half a batch on the day you make it rather than at the end of the week.",
+      "Serve from a small bowl and keep the main container in the fridge."
+    ],
+    "faq": [
+      {"q": "How long does fresh hummus last?", "a": "About 7 days in the fridge at 4 °C (40 °F) or below, whether homemade or bought from a deli counter without preservatives."},
+      {"q": "Can you freeze homemade hummus?", "a": "Yes, at −18 °C (0 °F). It separates on thawing, so beat it back together with a splash of water, lemon juice or olive oil."},
+      {"q": "Why does homemade hummus spoil faster than shop-bought?", "a": "Commercial hummus is pasteurized and usually contains preservatives; the traditional version has neither, so it relies entirely on refrigeration."}
+    ]
+  },
+  "zh": {
+    "name": "傳統鷹嘴豆泥（無防腐劑）",
+    "aliases": ["自製鷹嘴豆泥", "現做 hummus", "新鮮豆泥醬", "無添加鷹嘴豆泥"],
+    "summary": "傳統鷹嘴豆泥是用煮熟的鷹嘴豆、芝麻醬、檸檬和大蒜現做，沒有殺菌也沒有防腐劑——這正是它比較好吃、也比較不耐放的原因。在 4°C 以下冷藏約可放 7 天。",
+    "pantry": "現做的鷹嘴豆泥不能放室溫。裡面沒有任何能抑制細菌的成分——豆泥水分高、酸度也只是中等——所以在 4～60°C 的危險溫度帶會很快變質。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄，並且要從冰箱直接端上桌。",
+    "fridge": "裝進密封容器放 4°C 以下冷藏，從製作或購買起約 7 天內用完。把表面抹平，淋上一層薄薄的橄欖油，既能延緩乾掉也能隔絕空氣。每次都用乾淨的湯匙，而且分裝碗裡的豆泥不要再倒回主容器。",
+    "freezer": "現做的鷹嘴豆泥很適合冷凍，放 −18°C 安全上可以無限期保存，品質可維持幾個月——這其實很實用，因為做一批通常吃不完一週。解凍後會分離，加一點水、檸檬汁或橄欖油用力攪拌就能恢復。分裝成小盒並預留膨脹空間。",
+    "thawing": "放冷藏室解凍一晚，之後用力攪拌，並補一點檸檬、鹽和橄欖油調味再上桌。不要在室溫解凍，也不要再次冷凍。",
+    "spoilage": [
+      "不是堅果與檸檬的香氣，而是酸味、酵母味或酒精味",
+      "醬體中冒出氣泡，或容器蓋子鼓起",
+      "表面出現任何顏色的黴",
+      "上面積水並散發發酵味，或吃起來明顯發酸"
+    ],
+    "tips": [
+      "只做或只買一週吃得完的量，沒有防腐劑可以撐。",
+      "表面淋橄欖油隔絕空氣，避免上層變乾。",
+      "做好當天就先冷凍一半，不要等到週末才處理。",
+      "分裝到小碗上桌，主容器維持在冰箱裡。"
+    ],
+    "faq": [
+      {"q": "現做鷹嘴豆泥可以放多久？", "a": "在 4°C 以下冷藏約 7 天，自製或熟食櫃買的無防腐劑產品都一樣。"},
+      {"q": "自製鷹嘴豆泥可以冷凍嗎？", "a": "可以，放 −18°C 冷凍。解凍後會分離，加一點水、檸檬汁或橄欖油用力攪回來即可。"},
+      {"q": "為什麼自製的比市售的壞得快？", "a": "市售的經過殺菌並通常添加防腐劑；傳統做法兩者都沒有，完全靠冷藏保存。"}
+    ]
+  },
+  "ja": {
+    "name": "手作りフムス（保存料なし）",
+    "aliases": ["自家製フムス", "フレッシュフムス", "無添加のひよこ豆ディップ", "デリのフムス"],
+    "summary": "伝統的なフムスは、ゆでたひよこ豆、タヒニ、レモン、にんにくから作る作りたてのディップで、殺菌も保存料もありません。それがおいしさの理由であり、日もちしない理由でもあります。4℃以下の冷蔵で約7日が目安です。",
+    "pantry": "作りたてのフムスを常温に置くことはできません。菌の増殖を抑える成分がなく、ひよこ豆のペーストは水分が多く酸味も穏やかなため、4〜60℃の危険温度帯ではすぐ傷みます。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分し、冷蔵庫から直接食卓へ出しましょう。",
+    "fridge": "密閉容器に入れて4℃以下で保存し、作った日または買った日から約7日以内に食べ切ります。表面をならしてオリーブオイルを薄く回しかけると、乾燥を防ぎ空気も遮断できます。取り分けは必ず清潔なスプーンで行い、器に出したフムスを元の容器に戻さないでください。",
+    "freezer": "作りたてのフムスは冷凍向きで、−18℃なら安全面では長期間、品質も数か月保てます。1回に作る量は1週間で食べ切れないことが多いので、実際とても便利です。解凍すると分離するため、水やレモン汁、オリーブオイルを少し加えてしっかり混ぜ戻します。小さめの容器に余裕を残して冷凍しましょう。",
+    "thawing": "冷蔵庫で一晩解凍し、しっかり混ぜてからレモン、塩、オリーブオイルで味を整えて供します。常温解凍と再冷凍は避けてください。",
+    "spoilage": [
+      "ナッツやレモンのような香りではなく、酸っぱいにおい・酵母臭・アルコール臭がする",
+      "生地の中から気泡が上がる、容器のふたが膨らんでいる",
+      "表面に色を問わずカビが出ている",
+      "上に水がたまり発酵臭がする、明らかに酸っぱい味がする"
+    ],
+    "tips": [
+      "1週間で食べ切れる量だけ作る・買う。日もちを助ける保存料はない。",
+      "表面をオリーブオイルで覆い、空気を遮断して乾燥を防ぐ。",
+      "週末まで待たず、作った当日に半量を冷凍しておく。",
+      "小さな器に取り分けて出し、本体は冷蔵庫に置いたままにする。"
+    ],
+    "faq": [
+      {"q": "手作りフムスはどのくらいもちますか？", "a": "4℃以下の冷蔵で約7日です。自家製でも、保存料の入っていないデリのものでも同じ目安になります。"},
+      {"q": "手作りフムスは冷凍できますか？", "a": "できます（−18℃）。解凍すると分離するので、水やレモン汁、オリーブオイルを少し足してしっかり混ぜ戻してください。"},
+      {"q": "市販品より早く傷むのはなぜ？", "a": "市販品は殺菌され保存料も入っていることが多いのに対し、伝統的なフムスはどちらもなく、冷蔵だけが頼りだからです。"}
+    ]
+  },
+  "es": {
+    "name": "Hummus tradicional (sin conservadores)",
+    "aliases": ["hummus casero", "hummus fresco", "hummus sin pasteurizar", "paté de garbanzo artesanal"],
+    "summary": "El hummus tradicional se prepara al momento con garbanzos cocidos, tahini, limón y ajo, sin pasteurizar ni conservadores, y por eso sabe mejor y dura mucho menos. Refrigerado a 4 °C (40 °F) o menos aguanta alrededor de 7 días.",
+    "pantry": "El hummus fresco no debe quedarse a temperatura ambiente. Nada en él frena a las bacterias —el puré de garbanzo es húmedo y solo levemente ácido—, así que se estropea rápido en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F). Desecha un bol que haya estado fuera más de 2 horas, o 1 hora por encima de 32 °C (90 °F), y llévalo del refrigerador a la mesa.",
+    "fridge": "Guárdalo en un recipiente hermético a 4 °C (40 °F) o menos y consúmelo en unos 7 días desde que lo hiciste o lo compraste. Alisa la superficie y cúbrela con una fina película de aceite de oliva, que frena el resecado y aísla del aire. Sirve siempre con cuchara limpia y no devuelvas al recipiente principal el hummus que ya estuvo en la mesa.",
+    "freezer": "El hummus fresco se congela bien a −18 °C (0 °F), donde es seguro indefinidamente y mantiene buena calidad unos meses: algo realmente útil, porque una tanda suele dar para más de una semana. Se separa al descongelarse; bátelo con un poco de agua, limón o aceite de oliva para recomponerlo. Congélalo en tarrinas pequeñas con espacio libre.",
+    "thawing": "Descongélalo en el refrigerador durante una noche, remueve con energía y ajusta con limón, sal y aceite de oliva antes de servir. No lo descongeles a temperatura ambiente ni lo vuelvas a congelar.",
+    "spoilage": [
+      "Olor agrio, a levadura o alcohólico en lugar del aroma a fruto seco y limón",
+      "Burbujas que suben por la masa, o tapa del recipiente abombada",
+      "Moho de cualquier color en la superficie",
+      "Líquido acuoso arriba con olor fermentado, o sabor muy ácido"
+    ],
+    "tips": [
+      "Prepara o compra solo lo que comerás en una semana: no hay conservadores que lo alarguen.",
+      "Cubre la superficie con aceite de oliva para aislarla del aire y evitar que se seque.",
+      "Congela media tanda el mismo día que lo haces, no al final de la semana.",
+      "Sirve desde un bol pequeño y mantén el recipiente principal en el refrigerador."
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el hummus fresco?", "a": "Alrededor de 7 días en el refrigerador a 4 °C (40 °F) o menos, tanto el casero como el de mostrador sin conservadores."},
+      {"q": "¿Se puede congelar el hummus casero?", "a": "Sí, a −18 °C (0 °F). Se separa al descongelarse, así que bátelo con un chorro de agua, jugo de limón o aceite de oliva."},
+      {"q": "¿Por qué el casero se estropea antes que el de tienda?", "a": "El comercial está pasteurizado y suele llevar conservadores; el tradicional no tiene ninguno y depende por completo de la refrigeración."}
+    ]
+  }
+}

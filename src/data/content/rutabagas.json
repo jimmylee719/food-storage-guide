@@ -1,0 +1,107 @@
+{
+  "slug": "rutabagas",
+  "en": {
+    "name": "Swede (rutabaga)",
+    "aliases": ["rutabaga", "swede", "neep", "yellow turnip", "Swedish turnip"],
+    "summary": "Swede is a dense winter root with thick skin, often waxed for the shops, and it stores well. At room temperature it keeps about 1 week from the date of purchase; refrigerated it lasts 2–3 weeks, and blanched and frozen it keeps 8–10 months.",
+    "pantry": "A cool, dark, well-ventilated spot holds a whole swede about 1 week from purchase before it starts to soften. A cool cellar below about 10 °C would keep it far longer, but a normal warm kitchen will not. Waxed swedes hold moisture better than unwaxed ones but still do best in the fridge.",
+    "fridge": "Store the whole root unwashed in the crisper at 4 °C (40 °F) or below, loosely bagged, where it keeps 2–3 weeks from purchase. Do not peel or cut it until you need it, since a cut surface dries and darkens quickly. Cut pieces should be wrapped and used within a few days.",
+    "freezer": "Swede freezes for 8–10 months from purchase at −18 °C (0 °F) if blanched first. Peel, cut into even cubes, boil for 3 minutes, plunge into iced water, drain and dry, then freeze on a tray and bag. Cooked and mashed swede also freezes well in airtight portions.",
+    "thawing": "Cook frozen swede straight from the freezer in soups, stews and roasts. Thaw mashed swede in the fridge and reheat gently with a knob of butter.",
+    "spoilage": [
+      "Soft, wrinkled or rubbery flesh",
+      "Slimy or blackened patches, especially at the crown",
+      "Woody, hollow or discoloured centre when cut",
+      "Musty, sour or fermented smell"
+    ],
+    "tips": [
+      "Choose a swede that feels heavy for its size — light ones are woody inside",
+      "Peel generously, since the skin and the layer under it are tough",
+      "Cut into even cubes so they cook at the same rate",
+      "Mash swede with potato and butter, then freeze the leftovers in portions"
+    ],
+    "faq": [
+      {"q": "How long does swede last in the fridge?", "a": "2–3 weeks from purchase at 4 °C (40 °F) or below, kept whole and unwashed in a loose bag in the crisper drawer."},
+      {"q": "Can you freeze swede?", "a": "Yes, if blanched for 3 minutes first, then chilled, dried and frozen. It keeps 8–10 months at −18 °C (0 °F). Mashed swede also freezes well."},
+      {"q": "Why is my swede coated in wax?", "a": "Shops often wax swedes to slow moisture loss and extend shelf life. The wax is food grade and is removed when you peel the root."}
+    ]
+  },
+  "zh": {
+    "name": "蕪菁甘藍",
+    "aliases": ["瑞典蕪菁", "黃蕪菁", "洋大頭菜", "rutabaga", "swede"],
+    "summary": "蕪菁甘藍是質地紮實的冬季根莖類，外皮厚實，市售常會上一層蠟，保存性很好。室溫下從購買日起約可放 1 週；冷藏可放 2～3 週，燙過後冷凍則可保存 8～10 個月。",
+    "pantry": "陰涼、避光、通風良好的地方，可以讓整顆蕪菁甘藍從購買日起放約 1 週，之後就會開始變軟。低於約 10°C 的涼爽地下室可以放更久，但一般溫暖的廚房做不到。上過蠟的比沒上蠟的更能保水，但還是放冰箱最好。",
+    "fridge": "整顆不清洗、鬆鬆裝袋，放在 4°C 以下的蔬果保鮮室，從購買日起可放 2～3 週。要用之前才削皮或切開，因為切面很快就會變乾變暗。切好的塊要包好，並在幾天內用完。",
+    "freezer": "蕪菁甘藍先汆燙再冷凍，放 −18°C，從購買日起可保存 8～10 個月。削皮切成大小一致的丁，滾水煮 3 分鐘，撈起泡冰水，瀝乾擦乾，鋪盤冷凍後裝袋。煮熟壓成泥的蕪菁甘藍也很適合分裝密封冷凍。",
+    "thawing": "冷凍的蕪菁甘藍可以直接下鍋，用在湯品、燉菜和烤蔬菜。做成泥的則放冷藏室退冰，加一小塊奶油小火回熱。",
+    "spoilage": [
+      "果肉變軟、起皺或變得像橡膠",
+      "出現黏滑或發黑的斑塊，尤其在頂端",
+      "切開後中心木質化、中空或變色",
+      "有霉味、酸味或發酵味"
+    ],
+    "tips": [
+      "挑拿起來沉甸甸的，太輕的裡面通常已經木質化",
+      "削皮要削厚一點，外皮和底下那層都很硬",
+      "切成大小一致的丁，才會同時熟透",
+      "和馬鈴薯、奶油一起壓成泥，吃不完就分裝冷凍"
+    ],
+    "faq": [
+      {"q": "蕪菁甘藍放冰箱可以放多久？", "a": "整顆不清洗、鬆鬆裝袋收在蔬果保鮮室，放 4°C 以下，從購買日起 2～3 週。"},
+      {"q": "蕪菁甘藍可以冷凍嗎？", "a": "可以，但要先汆燙 3 分鐘，再冰鎮、擦乾後冷凍。放 −18°C 可保存 8～10 個月，做成泥冷凍效果也很好。"},
+      {"q": "為什麼蕪菁甘藍外面有一層蠟？", "a": "商店常會替它上蠟以減緩水分流失、延長貨架期。那是食品級的蠟，削皮時就會一起去掉。"}
+    ]
+  },
+  "ja": {
+    "name": "ルタバガ（スウェーデンかぶ）",
+    "aliases": ["ルタバガ", "スウェーデンカブ", "黄かぶ", "西洋かぶ"],
+    "summary": "ルタバガは身の詰まった冬の根菜で、厚い皮を持ち、店頭ではろう引きされていることもあり、保存性に優れます。常温では購入日から約1週間、冷蔵なら2〜3週間、下ゆでして冷凍すれば8〜10か月保存できます。",
+    "pantry": "涼しく暗く風通しのよい場所なら、丸ごとで購入日から約1週間、その後はやわらかくなり始めます。10℃を下回る涼しい貯蔵庫ならもっと長く持ちますが、通常の暖かい台所では無理です。ろう引きされたものは水分が抜けにくいものの、やはり冷蔵が最適です。",
+    "fridge": "丸ごと洗わず、ゆるく袋に入れて4℃以下の野菜室で保存すれば、購入日から2〜3週間持ちます。切り口はすぐ乾いて黒ずむので、使う直前まで皮をむいたり切ったりしないでください。切った分は包んで数日以内に使い切りましょう。",
+    "freezer": "下ゆですれば−18℃で購入日から8〜10か月冷凍できます。皮をむいて均一な角切りにし、3分ゆで、氷水に取り、水気を切って拭き、バットで凍らせてから袋へ。ゆでてつぶしたものも小分け密閉でよく冷凍できます。",
+    "thawing": "冷凍したルタバガはスープや煮込み、ローストに凍ったまま使えます。マッシュにしたものは冷蔵庫で解凍し、バターを少し加えて弱火で温め直しましょう。",
+    "spoilage": [
+      "身がやわらかい、しわが寄る、ゴムのようになっている",
+      "とくに上部にぬめりや黒ずみがある",
+      "切ると中心が木質化、空洞、変色している",
+      "カビ臭い、酸っぱい、発酵したにおいがする"
+    ],
+    "tips": [
+      "大きさのわりに重いものを選びましょう。軽いものは中がすかすかです",
+      "皮とその下の層は硬いので、厚めにむきましょう",
+      "均一な角切りにすると火の通りがそろいます",
+      "じゃがいもとバターでマッシュにし、余りは小分け冷凍を"
+    ],
+    "faq": [
+      {"q": "ルタバガは冷蔵庫でどのくらい持ちますか？", "a": "丸ごと洗わずゆるく袋に入れて野菜室に置き、4℃以下で購入日から2〜3週間です。"},
+      {"q": "ルタバガは冷凍できますか？", "a": "できます。3分下ゆでして冷やし、拭いてから冷凍を。−18℃で8〜10か月、マッシュにしても冷凍向きです。"},
+      {"q": "ルタバガにろうが塗ってあるのはなぜですか？", "a": "水分の蒸発を抑えて日持ちを延ばすため、店頭でろう引きされることがあります。食品用のろうで、皮をむけば一緒に取り除けます。"}
+    ]
+  },
+  "es": {
+    "name": "Colinabo (rutabaga)",
+    "aliases": ["rutabaga", "nabo sueco", "nabicol", "colinabo amarillo"],
+    "summary": "El colinabo es una raíz de invierno densa y de piel gruesa, a menudo encerada para la venta, que se conserva bien. A temperatura ambiente dura alrededor de 1 semana desde la compra; refrigerado 2–3 semanas, y escaldado y congelado 8–10 meses.",
+    "pantry": "Un sitio fresco, oscuro y bien ventilado mantiene un colinabo entero alrededor de 1 semana desde la compra antes de empezar a ablandarse. Un sótano por debajo de unos 10 °C lo conservaría mucho más, pero una cocina cálida normal no. Los encerados retienen mejor la humedad, pero aun así van mejor en la nevera.",
+    "fridge": "Guarda la raíz entera y sin lavar en el cajón de verduras a 4 °C (40 °F) o menos, en una bolsa suelta, donde dura 2–3 semanas desde la compra. No la peles ni la cortes hasta que la necesites, porque la superficie cortada se seca y oscurece rápido. Los trozos cortados deben envolverse y usarse en pocos días.",
+    "freezer": "Se congela 8–10 meses desde la compra a −18 °C (0 °F) si lo escaldas antes. Pélalo, córtalo en dados uniformes, hiérvelo 3 minutos, pásalo a agua helada, escúrrelo y sécalo, congélalo en bandeja y embólsalo. El puré cocinado también se congela bien en porciones herméticas.",
+    "thawing": "Cocina el colinabo congelado directamente en sopas, guisos y asados. Descongela el puré en la nevera y recaliéntalo suavemente con una nuez de mantequilla.",
+    "spoilage": [
+      "Pulpa blanda, arrugada o gomosa",
+      "Zonas viscosas o ennegrecidas, sobre todo en la corona",
+      "Centro leñoso, hueco o descolorido al cortarlo",
+      "Olor a humedad, agrio o fermentado"
+    ],
+    "tips": [
+      "Elige uno que pese mucho para su tamaño: los ligeros están leñosos por dentro",
+      "Pélalo con generosidad, porque la piel y la capa inferior son duras",
+      "Córtalo en dados uniformes para que se cuezan por igual",
+      "Haz puré con patata y mantequilla y congela las sobras en porciones"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el colinabo en la nevera?", "a": "2–3 semanas desde la compra a 4 °C (40 °F) o menos, entero y sin lavar en una bolsa suelta en el cajón de verduras."},
+      {"q": "¿Se puede congelar el colinabo?", "a": "Sí, escaldándolo 3 minutos antes y luego enfriándolo, secándolo y congelándolo. Dura 8–10 meses a −18 °C (0 °F). El puré también se congela bien."},
+      {"q": "¿Por qué el colinabo viene recubierto de cera?", "a": "Las tiendas suelen encerarlo para frenar la pérdida de humedad y alargar su vida útil. Es cera de grado alimentario y se retira al pelar la raíz."}
+    ]
+  }
+}

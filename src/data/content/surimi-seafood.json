@@ -1,0 +1,107 @@
+{
+  "slug": "surimi-seafood",
+  "en": {
+    "name": "Surimi seafood",
+    "aliases": ["imitation crab", "crab sticks", "seafood sticks", "kanikama", "fish cake sticks"],
+    "summary": "Surimi seafood is a cooked paste of mild white fish, usually pollock, blended with starch and flavourings and formed into sticks, flakes or chunks that imitate crab or lobster. It is sold frozen or chilled and keeps about 9 months in the freezer at −18 °C (0 °F) from the day of purchase.",
+    "pantry": "Surimi is a fully cooked but perishable, ready-to-eat product and must never be kept at room temperature. Because it is eaten without further cooking, there is no heat step to correct bacterial growth, so discard sticks left out for more than 2 hours — 1 hour above 32 °C (90 °F). Bring it home cold and get it into the freezer or fridge straight away.",
+    "fridge": "USDA gives a freezer timeline rather than a fridge one for surimi, so follow the manufacturer's date on a chilled pack and treat the printed use-by as the limit. Keep it sealed at 4 °C (40 °F) or below on an inside shelf; once you open the pack, move the remaining sticks to an airtight container and eat them within a few days, as the cut ends dry and sour quickly.",
+    "freezer": "Frozen at −18 °C (0 °F) surimi keeps good quality for about 9 months from purchase and remains safe indefinitely. Freeze it in the unopened pack, or repack opened sticks in a bag with the air pressed out. Expect a slightly spongier, more watery texture after thawing, so use thawed surimi in cooked dishes, salads or sushi rolls rather than eating it plain.",
+    "thawing": "Thaw in the fridge overnight, never at room temperature, and use it within a few days. Squeeze out excess water gently before using it in a salad, and do not refreeze thawed surimi.",
+    "spoilage": [
+      "Sour or fishy smell instead of a mild, slightly sweet aroma",
+      "Slimy or sticky surface on the sticks",
+      "Dried, yellowing edges, or a rubbery, spongy texture",
+      "A bulging or leaking pack, or a passed use-by date"
+    ],
+    "tips": [
+      "Keep the pack sealed until you need it — cut ends dry out quickly.",
+      "Freeze what you will not eat within a few days of opening.",
+      "Squeeze thawed surimi gently to remove excess water before adding it to salads.",
+      "Note that surimi contains fish and often wheat and egg, which matters for allergies."
+    ],
+    "faq": [
+      {"q": "Can you freeze imitation crab sticks?", "a": "Yes, at −18 °C (0 °F) for about 9 months of good quality. The texture becomes a little spongier, so use them in cooked dishes or salads afterwards."},
+      {"q": "Is surimi seafood cooked?", "a": "Yes, it is fully cooked during manufacture and can be eaten straight from the pack, but it is perishable and must be kept refrigerated or frozen."},
+      {"q": "Does surimi contain real crab?", "a": "Usually not. It is made from white fish paste, most often pollock, flavoured to taste like crab; some products add a small amount of crab extract."}
+    ]
+  },
+  "zh": {
+    "name": "魚漿海鮮製品（蟹味棒等）",
+    "aliases": ["蟹味棒", "蟹肉棒", "仿蟹肉", "魚板", "魚漿製品"],
+    "summary": "魚漿海鮮製品是把味道清淡的白肉魚（多為狹鱈）打成漿、加入澱粉和調味後成型的熟製品，做成棒狀、片狀或塊狀來模仿蟹肉或龍蝦。冷凍或冷藏販售皆有，放 −18°C 冷凍，從購買日起約可保存 9 個月。",
+    "pantry": "魚漿製品雖然已經煮熟，但仍是容易腐敗的即食食品，絕對不能放室溫。因為吃之前不會再加熱，沒有殺菌的機會，室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。買回家請保冷，並立刻放進冷凍或冷藏。",
+    "fridge": "USDA 對魚漿製品給的是冷凍期限而非冷藏期限，所以冷藏包裝請以廠商標示的有效日期為準。密封放在冰箱內層層架，維持 4°C 以下；開封後把剩下的移到密封容器，並在幾天內吃完，因為切口很快就會乾掉發酸。",
+    "freezer": "放 −18°C 冷凍，從購買日起品質約可維持 9 個月，安全上可以無限期保存。可以整包未開封冷凍，或把開封後的重新裝袋、擠出空氣。解凍後質地會偏海綿狀、也比較出水，建議用在加熱料理、沙拉或壽司捲，不要直接單吃。",
+    "thawing": "放冷藏室解凍一晚，絕對不要在室溫解凍，並在幾天內用完。做沙拉前先輕輕擠掉多餘水分。解凍後不要再冷凍。",
+    "spoilage": [
+      "不是原本溫和帶點甜的香氣，而是酸味或腥味",
+      "表面黏滑、發黏",
+      "邊緣乾掉泛黃，或質地變得又橡皮又海綿",
+      "包裝鼓起或漏液，或已超過有效日期"
+    ],
+    "tips": [
+      "要用再開封，切口很快就乾。",
+      "開封後幾天內吃不完的份量就先冷凍。",
+      "解凍後輕輕擠掉水分再拌沙拉。",
+      "魚漿製品含魚，常見也含小麥和蛋，對過敏者很重要。"
+    ],
+    "faq": [
+      {"q": "蟹味棒可以冷凍嗎？", "a": "可以，放 −18°C 冷凍約 9 個月品質仍佳。質地會稍微偏海綿狀，之後建議用在加熱料理或沙拉。"},
+      {"q": "魚漿製品是熟的嗎？", "a": "是的，製造過程就已經完全加熱，可以直接吃；但它容易腐敗，必須冷藏或冷凍保存。"},
+      {"q": "蟹味棒裡面有真的蟹肉嗎？", "a": "通常沒有。它是用白肉魚漿（多為狹鱈）調味成蟹的風味，部分產品會添加少量蟹萃取物。"}
+    ]
+  },
+  "ja": {
+    "name": "かに風味かまぼこ・練り製品",
+    "aliases": ["カニカマ", "かに風味かまぼこ", "シーフードスティック", "すり身製品", "サラダスティック"],
+    "summary": "カニカマなどのすり身製品は、淡泊な白身魚（多くはすけとうだら）のすり身にでんぷんや調味料を加えて成形した加熱済み食品で、かにやえびの風味を模しています。冷凍または冷蔵で売られ、−18℃の冷凍なら購入日から約9か月が目安です。",
+    "pantry": "すり身製品は加熱済みでも傷みやすいそのまま食べられる食品で、常温保存はできません。食べる前に加熱しないため、菌が増えても取り返す工程がありません。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。買ったら保冷して持ち帰り、すぐ冷蔵か冷凍に入れます。",
+    "fridge": "USDAはすり身製品について冷凍の目安を示しており、冷蔵の目安は示していません。冷蔵品はメーカー表示の期限を上限として扱ってください。密封したまま庫内の棚で4℃以下を保ち、開封後は残りを密閉容器に移して数日以内に食べ切りましょう。切り口はすぐ乾いて味も落ちます。",
+    "freezer": "−18℃で冷凍すれば購入日から品質は約9か月、安全面では長期間保存できます。未開封のパックごと、または開封後は保存袋に詰め替えて空気を抜きます。解凍後はややスポンジ状で水っぽくなるので、そのまま食べるより加熱料理やサラダ、巻き寿司に使うのがおすすめです。",
+    "thawing": "冷蔵庫で一晩解凍し（常温解凍は不可）、数日以内に使い切ります。サラダに使う前に軽く水気を絞ってください。解凍後の再冷凍は避けます。",
+    "spoilage": [
+      "ほのかに甘い香りではなく、酸っぱいにおいや生臭さがする",
+      "表面がぬめる・べたつく",
+      "縁が乾いて黄ばんでいる、ゴムのようにスポンジ状になっている",
+      "パックが膨らむ・液が漏れている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "使う直前に開封する。切り口はすぐ乾く。",
+      "開封後数日で食べ切れない分は冷凍しておく。",
+      "解凍後は軽く絞って水気を切ってからサラダに加える。",
+      "魚のほか小麦や卵を含む製品も多く、アレルギーの点で注意が必要。"
+    ],
+    "faq": [
+      {"q": "カニカマは冷凍できますか？", "a": "できます。−18℃で約9か月が品質の目安です。食感がややスポンジ状になるので、解凍後は加熱料理やサラダに使ってください。"},
+      {"q": "すり身製品は加熱済みですか？", "a": "はい、製造時に十分加熱されており、そのまま食べられます。ただし傷みやすいので冷蔵か冷凍で保存してください。"},
+      {"q": "カニカマに本物のかには入っていますか？", "a": "多くの場合入っていません。白身魚のすり身をかに風味に仕上げたもので、一部の製品にかにエキスが少量加えられています。"}
+    ]
+  },
+  "es": {
+    "name": "Surimi (palitos de cangrejo)",
+    "aliases": ["palitos de cangrejo", "kanikama", "surimi", "cangrejo de imitación", "palitos de mar"],
+    "summary": "El surimi es una pasta cocida de pescado blanco suave, normalmente abadejo, mezclada con almidón y saborizantes y moldeada en palitos, láminas o trozos que imitan cangrejo o langosta. Se vende congelado o refrigerado y dura unos 9 meses en el congelador a −18 °C (0 °F) desde la compra.",
+    "pantry": "El surimi está cocido pero es perecedero y listo para comer, así que nunca debe guardarse a temperatura ambiente. Como se consume sin cocinar, no hay ningún paso de calor que corrija el crecimiento bacteriano: desecha los palitos que lleven más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)—. Llévalo a casa en frío y guárdalo enseguida.",
+    "fridge": "El USDA da un plazo de congelador y no de refrigerador para el surimi, así que en un envase refrigerado sigue la fecha del fabricante como límite. Mantenlo cerrado a 4 °C (40 °F) o menos en un estante interior; al abrirlo, pasa los palitos restantes a un recipiente hermético y cómelos en pocos días, porque los extremos cortados se secan y agrian rápido.",
+    "freezer": "Congelado a −18 °C (0 °F), el surimi conserva buena calidad unos 9 meses desde la compra y se mantiene seguro indefinidamente. Congélalo en su envase sin abrir, o reempaca los palitos abiertos en una bolsa sin aire. Al descongelarse queda algo más esponjoso y acuoso, así que úsalo en platos cocinados, ensaladas o rollos de sushi en vez de comerlo solo.",
+    "thawing": "Descongélalo en el refrigerador durante una noche, nunca a temperatura ambiente, y úsalo en pocos días. Escurre suavemente el exceso de agua antes de añadirlo a una ensalada y no lo vuelvas a congelar.",
+    "spoilage": [
+      "Olor agrio o a pescado en lugar de un aroma suave y ligeramente dulce",
+      "Superficie viscosa o pegajosa en los palitos",
+      "Bordes secos y amarillentos, o textura gomosa y esponjosa",
+      "Envase hinchado o con fugas, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Mantén el envase cerrado hasta usarlo: los extremos cortados se secan enseguida.",
+      "Congela lo que no vayas a comer en pocos días tras abrirlo.",
+      "Escurre suavemente el surimi descongelado antes de añadirlo a ensaladas.",
+      "Recuerda que el surimi contiene pescado y a menudo trigo y huevo, importante en caso de alergias."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar los palitos de cangrejo?", "a": "Sí, a −18 °C (0 °F) durante unos 9 meses de buena calidad. La textura queda algo más esponjosa, así que después úsalos en platos cocinados o ensaladas."},
+      {"q": "¿El surimi está cocido?", "a": "Sí, se cocina por completo durante su fabricación y puede comerse directamente del envase, pero es perecedero y debe mantenerse refrigerado o congelado."},
+      {"q": "¿El surimi lleva cangrejo de verdad?", "a": "Normalmente no. Se elabora con pasta de pescado blanco, casi siempre abadejo, saborizada para recordar al cangrejo; algunos productos añaden un poco de extracto de cangrejo."}
+    ]
+  }
+}

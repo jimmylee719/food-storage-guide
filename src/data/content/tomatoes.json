@@ -1,0 +1,107 @@
+{
+  "slug": "tomatoes",
+  "en": {
+    "name": "Tomatoes",
+    "aliases": ["cherry tomatoes", "beefsteak tomatoes", "plum tomatoes", "vine tomatoes", "salad tomatoes"],
+    "summary": "Tomatoes ripen at room temperature and, once ripe, keep about 7 days on the counter. USDA recommends pantry storage, because refrigeration may affect the flavour and dull the texture. For longer keeping, whole tomatoes freeze for about 2 months from the date of purchase.",
+    "pantry": "Keep tomatoes on the counter, stem-side down, out of direct sunlight, until ripe — tender, fully developed and ready to eat — and then use them within about 7 days. Do not crowd them in a bowl or stack them, since the weight bruises the fruit underneath. Ripen firm tomatoes faster by putting them in a paper bag with a banana.",
+    "fridge": "USDA recommends pantry storage for tomatoes, noting that refrigeration may affect flavour. Cold below about 10 °C stops the aroma compounds developing and makes the flesh mealy. If you must refrigerate very ripe tomatoes to buy a day or two, take them out an hour before eating to let the flavour come back.",
+    "freezer": "Tomatoes freeze for about 2 months from purchase at −18 °C (0 °F). Wash, dry and freeze them whole on a tray, then bag them; the skins slip off easily under warm water once frozen. Thawed tomatoes are soft and watery, so use them for sauces, soups and stews rather than salads.",
+    "thawing": "Add frozen tomatoes straight to a simmering sauce or soup, or run them under warm water for a few seconds to slip off the skins before chopping. Do not expect them to be firm after thawing.",
+    "spoilage": [
+      "Soft, sunken or weeping spots on the skin",
+      "White or grey fuzzy mould, especially around the stem scar",
+      "Split skin with liquid leaking out",
+      "Fermented, sour or alcoholic smell"
+    ],
+    "tips": [
+      "Store stem-side down on the counter to slow moisture loss through the scar",
+      "Never refrigerate unripe tomatoes — they will not ripen properly afterwards",
+      "Freeze a glut whole; the skins slip off easily when frozen",
+      "Keep tomatoes away from cucumbers and leafy greens, which their ethylene ages"
+    ],
+    "faq": [
+      {"q": "Should you keep tomatoes in the fridge?", "a": "USDA recommends pantry storage, because refrigeration may affect flavour. Keep them on the counter until ripe and then use them within about 7 days."},
+      {"q": "Can you freeze tomatoes?", "a": "Yes. Freeze them whole on a tray and then bag them; they keep about 2 months from purchase at −18 °C (0 °F) and are ideal for sauces and soups."},
+      {"q": "How do you ripen tomatoes faster?", "a": "Put them in a paper bag with a banana at room temperature. The ethylene the banana releases usually ripens them within a day or two."}
+    ]
+  },
+  "zh": {
+    "name": "番茄",
+    "aliases": ["西紅柿", "小番茄", "牛番茄", "聖女番茄", "柑仔蜜"],
+    "summary": "番茄在室溫下後熟，熟了之後常溫大約可以再放 7 天。USDA 建議常溫保存，因為冷藏可能影響風味、也會讓口感變鈍。想放更久的話，整顆番茄放 −18°C 冷凍，從購買日起約可保存 2 個月。",
+    "pantry": "番茄放在檯面上、蒂頭朝下、避開陽光直射，直到成熟——變軟、風味完整、可以入口——之後大約在 7 天內吃完。不要堆疊或塞滿一整碗，上層的重量會壓傷下面的果實。想加速後熟的話，把還硬的番茄和香蕉一起放進紙袋。",
+    "fridge": "USDA 建議番茄以常溫保存，並指出冷藏可能影響風味。低於約 10°C 會讓香氣物質停止生成，果肉口感也會變粉。如果實在需要冷藏過熟的番茄多撐一兩天，吃之前先拿出來放一小時，風味會回來一些。",
+    "freezer": "番茄放 −18°C 冷凍，從購買日起約可保存 2 個月。洗淨擦乾後整顆鋪盤冷凍，再裝袋；冷凍過的番茄用溫水沖一下，皮很容易就剝下來。解凍後質地軟爛出水，所以適合做醬汁、湯品和燉菜，不適合做沙拉。",
+    "thawing": "冷凍番茄可以直接丟進滾著的醬汁或湯裡，或是用溫水沖幾秒把皮剝掉再切。解凍後不要期待它還是硬實的。",
+    "spoilage": [
+      "表皮出現軟軟凹陷或滲汁的斑點",
+      "長出白色或灰色的毛狀黴菌，尤其在蒂頭疤痕附近",
+      "外皮裂開並滲出汁液",
+      "有發酵味、酸味或酒精味"
+    ],
+    "tips": [
+      "蒂頭朝下放在檯面上，可以減緩從蒂痕流失水分",
+      "還沒熟的番茄絕對不要冷藏，之後就熟不好了",
+      "一次太多就整顆冷凍，凍過的皮很好剝",
+      "番茄要遠離小黃瓜和葉菜，它的乙烯會加速那些蔬菜老化"
+    ],
+    "faq": [
+      {"q": "番茄要放冰箱嗎？", "a": "USDA 建議常溫保存，因為冷藏可能影響風味。放在檯面上直到成熟，之後大約 7 天內吃完。"},
+      {"q": "番茄可以冷凍嗎？", "a": "可以。整顆鋪盤冷凍後裝袋，放 −18°C，從購買日起約可保存 2 個月，很適合做醬汁和湯。"},
+      {"q": "怎麼讓番茄快點熟？", "a": "和香蕉一起放進紙袋、置於室溫。香蕉釋放的乙烯通常一兩天內就能催熟。"}
+    ]
+  },
+  "ja": {
+    "name": "トマト",
+    "aliases": ["ミニトマト", "プチトマト", "桃太郎トマト", "フルーツトマト", "調理用トマト"],
+    "summary": "トマトは常温で追熟し、食べごろになってから約7日常温で保てます。USDAは常温保存を推奨しており、冷蔵は風味に影響し食感も鈍らせる可能性があるためです。より長く保存したい場合は、丸ごと冷凍すれば購入日から約2か月持ちます。",
+    "pantry": "トマトはヘタを下にして、直射日光を避け調理台に置き、食べごろ（やわらかく風味がのった状態）まで追熟させ、その後は約7日以内に使い切ります。ボウルに詰め込んだり重ねたりしないこと。下の実が重みでつぶれます。固いトマトはバナナと一緒に紙袋に入れると早く熟します。",
+    "fridge": "USDAはトマトの常温保存を推奨し、冷蔵が風味に影響しうると述べています。10℃を下回ると香り成分の生成が止まり、果肉も粉っぽくなります。完熟したトマトを1〜2日延ばすために冷蔵する場合は、食べる1時間前に出して風味を戻しましょう。",
+    "freezer": "−18℃の冷凍なら購入日から約2か月保存できます。洗って水気を拭き、丸ごとバットで凍らせてから袋へ。凍ったトマトはぬるま湯にあてると皮がするりとむけます。解凍するとやわらかく水っぽくなるので、サラダではなくソースやスープ、煮込みに使いましょう。",
+    "thawing": "冷凍トマトは煮立ったソースやスープにそのまま入れるか、ぬるま湯を数秒かけて皮をむいてから刻みます。解凍後にしっかりした食感は残りません。",
+    "spoilage": [
+      "皮にやわらかくへこんだ部分や、汁のしみ出た部分がある",
+      "白や灰色のふわふわしたカビ（ヘタの跡のまわりに多い）",
+      "皮が裂けて中身がしみ出している",
+      "発酵臭、酸っぱいにおい、アルコール臭"
+    ],
+    "tips": [
+      "ヘタを下にして置くと、ヘタ跡からの水分蒸発を抑えられます",
+      "未熟なトマトは冷蔵しないこと。あとからうまく熟しません",
+      "多いときは丸ごと冷凍を。凍らせると皮が簡単にむけます",
+      "きゅうりや葉物のそばに置かないこと。エチレンで劣化を早めます"
+    ],
+    "faq": [
+      {"q": "トマトは冷蔵庫に入れるべきですか？", "a": "USDAは常温保存を推奨しています。冷蔵は風味に影響しうるためです。食べごろになるまで常温に置き、その後は約7日以内に使い切りましょう。"},
+      {"q": "トマトは冷凍できますか？", "a": "できます。丸ごとバットで凍らせて袋へ。−18℃で購入日から約2か月、ソースやスープに最適です。"},
+      {"q": "トマトを早く熟させるには？", "a": "バナナと一緒に紙袋に入れて常温に置きます。バナナのエチレンで、たいてい1〜2日で食べごろになります。"}
+    ]
+  },
+  "es": {
+    "name": "Tomates",
+    "aliases": ["tomate cherry", "jitomate", "tomate pera", "tomate de rama", "tomate de ensalada"],
+    "summary": "Los tomates maduran a temperatura ambiente y, ya maduros, se mantienen unos 7 días en la encimera. El USDA recomienda guardarlos en despensa, porque la refrigeración puede afectar al sabor y apagar la textura. Para más tiempo, los tomates enteros se congelan alrededor de 2 meses desde la compra.",
+    "pantry": "Mantén los tomates en la encimera, con el pedúnculo hacia abajo y fuera del sol directo, hasta que estén maduros —tiernos, plenamente desarrollados y listos para comer— y consúmelos entonces en unos 7 días. No los amontones ni los apiles, porque el peso magulla la fruta de abajo. Para acelerarlo, mételos en una bolsa de papel con un plátano.",
+    "fridge": "El USDA recomienda la despensa para los tomates y señala que la refrigeración puede afectar al sabor. El frío por debajo de unos 10 °C detiene el desarrollo de los aromas y vuelve la pulpa harinosa. Si necesitas refrigerar tomates muy maduros para ganar un día o dos, sácalos una hora antes de comerlos para que recuperen sabor.",
+    "freezer": "Los tomates se congelan alrededor de 2 meses desde la compra a −18 °C (0 °F). Lávalos, sécalos y congélalos enteros en una bandeja, luego embólsalos; una vez congelados, la piel se desprende sola bajo agua templada. Descongelados quedan blandos y aguados, así que úsalos para salsas, sopas y guisos.",
+    "thawing": "Añade los tomates congelados directamente a una salsa o sopa a fuego lento, o pásalos unos segundos por agua templada para quitarles la piel antes de picarlos. No esperes que queden firmes tras descongelarse.",
+    "spoilage": [
+      "Zonas blandas, hundidas o que rezuman en la piel",
+      "Moho blanco o gris, sobre todo alrededor de la cicatriz del pedúnculo",
+      "Piel agrietada con líquido saliendo",
+      "Olor fermentado, agrio o alcohólico"
+    ],
+    "tips": [
+      "Guárdalos con el pedúnculo hacia abajo para frenar la pérdida de humedad por la cicatriz",
+      "Nunca refrigeres tomates verdes: después ya no madurarán bien",
+      "Congela el excedente entero; la piel se desprende con facilidad al estar congelada",
+      "Manténlos lejos de pepinos y hojas verdes, que su etileno envejece"
+    ],
+    "faq": [
+      {"q": "¿Hay que guardar los tomates en la nevera?", "a": "El USDA recomienda la despensa, porque la refrigeración puede afectar al sabor. Déjalos en la encimera hasta que maduren y consúmelos en unos 7 días."},
+      {"q": "¿Se pueden congelar los tomates?", "a": "Sí. Congélalos enteros en una bandeja y luego embólsalos; duran alrededor de 2 meses desde la compra a −18 °C (0 °F) y son ideales para salsas y sopas."},
+      {"q": "¿Cómo se maduran antes los tomates?", "a": "Ponlos en una bolsa de papel con un plátano a temperatura ambiente. El etileno que libera suele madurarlos en uno o dos días."}
+    ]
+  }
+}

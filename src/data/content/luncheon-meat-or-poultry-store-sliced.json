@@ -1,0 +1,107 @@
+{
+  "slug": "luncheon-meat-or-poultry-store-sliced",
+  "en": {
+    "name": "Store-sliced luncheon meat or poultry",
+    "aliases": ["deli meat", "sliced ham from the counter", "cold cuts", "sliced turkey breast"],
+    "summary": "Luncheon meat sliced to order at a deli counter has been handled by a slicer and by hands, and each slice exposes fresh surface, which is why it spoils faster than a sealed pack. Refrigerated at 4 °C (40 °F) or below it keeps 3–5 days from the day of purchase, and 1–2 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Deli slices are a chilled, ready-to-eat food and must never be left at room temperature. Because nothing is cooked before eating, any listeria present can grow — slowly even in the fridge, and quickly in the danger zone between 4 °C and 60 °C (40 °F and 140 °F). Discard slices left out for more than 2 hours, or 1 hour above 32 °C (90 °F).",
+    "fridge": "Move the slices from the deli paper into an airtight container or zip bag as soon as you get home; paper lets them dry and pick up fridge odours. Keep them at 4 °C (40 °F) or below and use within 3–5 days. Pregnant people and anyone immunocompromised are advised to heat deli meats until steaming before eating them.",
+    "freezer": "Interleave the slices with baking paper so you can peel off two or three, pack them flat in a freezer bag with the air pressed out, and freeze at −18 °C (0 °F): safe indefinitely, best quality for 1–2 months. Expect a slightly wetter texture on thawing, which matters less in a hot sandwich or an omelette than in a cold one.",
+    "thawing": "Thaw in the fridge overnight and use within 3–5 days, or take out only the slices you need and let them thaw in a few minutes. Never thaw deli meat at room temperature and do not refreeze thawed slices.",
+    "spoilage": [
+      "Sour or ammonia-like smell instead of a clean cured, smoky aroma",
+      "Slimy or sticky slices that cling together",
+      "Grey, green or iridescent sheen on the meat",
+      "Watery, cloudy liquid in the container, or a passed use-by date"
+    ],
+    "tips": [
+      "Buy only what you will eat in 3–5 days — the counter clock is short.",
+      "Repack from deli paper into an airtight container as soon as you get home.",
+      "Interleave with paper before freezing so slices separate easily.",
+      "Heat deli meat until steaming if you are pregnant or immunocompromised."
+    ],
+    "faq": [
+      {"q": "How long does deli-sliced meat last in the fridge?", "a": "3–5 days from the day of purchase at 4 °C (40 °F) or below, less than a sealed pre-packaged pack."},
+      {"q": "Can you freeze deli meat?", "a": "Yes, at −18 °C (0 °F): safe indefinitely and best quality for 1–2 months. Separate the slices with paper before freezing."},
+      {"q": "Why does counter-sliced meat spoil faster than pre-packaged?", "a": "Slicing to order exposes fresh surface and involves the slicer, the paper and handling, none of which happen inside a sealed vacuum pack."}
+    ]
+  },
+  "zh": {
+    "name": "現切熟食冷肉／禽肉片",
+    "aliases": ["熟食櫃火腿片", "現切冷肉", "三明治火腿片", "現切火雞胸片"],
+    "summary": "在熟食櫃現切的冷肉，經過切片機和人手處理，而且每一刀都露出新的切面，所以比密封包裝的更快變質。在 4°C 以下冷藏，從購買日起可放 3～5 天；放 −18°C 冷凍可放 1～2 個月。",
+    "pantry": "現切冷肉是冷藏的即食食品，絕對不能放室溫。因為吃之前不會加熱，如果有李斯特菌就會持續生長——即使在冷藏中也會緩慢增加，在 4～60°C 的危險溫度帶更會迅速繁殖。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "回到家立刻把肉片從熟食紙移到密封容器或夾鏈袋；紙包會讓肉片變乾，也會吸附冰箱異味。維持 4°C 以下，並在 3～5 天內吃完。孕婦和免疫力較弱的人，建議把冷肉加熱到冒蒸氣再吃。",
+    "freezer": "用烘焙紙把肉片一片片隔開，方便一次取兩三片；平放進冷凍袋、擠出空氣後放 −18°C 冷凍：安全上可以無限期保存，品質以 1～2 個月為佳。解凍後質地會稍微偏濕，做熱三明治或蛋捲比做冷三明治更不受影響。",
+    "thawing": "放冷藏室解凍一晚，並在 3～5 天內用完；或只取需要的幾片，幾分鐘就能回軟。絕對不要在室溫解凍，解凍後的也不要再冷凍。",
+    "spoilage": [
+      "不是乾淨的醃製煙燻香，而是酸味或阿摩尼亞味",
+      "肉片黏滑、彼此黏在一起",
+      "肉上出現灰色、綠色或虹彩光澤",
+      "容器裡出現混濁的水，或已超過有效日期"
+    ],
+    "tips": [
+      "只買 3～5 天內吃得完的量，現切的期限很短。",
+      "一回家就把熟食紙換成密封容器。",
+      "冷凍前用紙一片片隔開，之後很好分開。",
+      "孕婦或免疫力較弱者，請把冷肉加熱到冒蒸氣再吃。"
+    ],
+    "faq": [
+      {"q": "現切冷肉放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起 3～5 天，比密封預包裝的短。"},
+      {"q": "冷肉片可以冷凍嗎？", "a": "可以，放 −18°C 冷凍：安全上無限期，品質以 1～2 個月為佳。冷凍前先用紙把肉片隔開。"},
+      {"q": "為什麼現切的比預包裝的壞得快？", "a": "現切會露出新鮮切面，還經過切片機、包裝紙和人手；這些在密封真空包裝裡都不會發生。"}
+    ]
+  },
+  "ja": {
+    "name": "対面販売のスライスハム・鶏肉",
+    "aliases": ["量り売りのハム", "デリのスライス肉", "コールドカット", "スライスした七面鳥むね肉"],
+    "summary": "対面の惣菜コーナーでその場でスライスした食肉は、スライサーや手を介し、一枚ごとに新しい断面が生まれるため、密封パックより早く傷みます。4℃以下の冷蔵で購入日から3〜5日、−18℃の冷凍で1〜2か月が目安です。",
+    "pantry": "スライスした食肉は冷蔵のそのまま食べられる食品で、常温には置けません。食べる前に加熱しないため、リステリアがいれば増え続けます。冷蔵でもゆっくり、4〜60℃の危険温度帯では急速に増殖します。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。",
+    "fridge": "帰宅したらすぐ、惣菜用の紙から密閉容器やジッパー袋に移しましょう。紙のままだと乾き、庫内のにおいも移ります。4℃以下で保存し、3〜5日以内に食べ切ってください。妊娠中の方や免疫の弱い方は、湯気が立つまで加熱してから食べることが推奨されます。",
+    "freezer": "クッキングシートを1枚ずつ挟んでおくと2〜3枚だけはがせます。冷凍用保存袋に平らに入れて空気を抜き、−18℃で冷凍しましょう。安全面では長期間、品質は1〜2か月が目安です。解凍後はやや水っぽくなるので、冷たいサンドイッチより、ホットサンドやオムレツ向きです。",
+    "thawing": "冷蔵庫で一晩解凍し3〜5日以内に使うか、必要な枚数だけ取り出せば数分で使えます。常温解凍は避け、解凍したものの再冷凍もしないでください。",
+    "spoilage": [
+      "清潔な塩せき・燻製の香りではなく、酸っぱいにおいやアンモニア臭がする",
+      "スライスがぬめって互いにくっついている",
+      "肉に灰色・緑・虹色の光沢が出ている",
+      "容器に濁った水がたまっている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "3〜5日で食べ切れる量だけ買う。対面スライスは期限が短い。",
+      "帰宅後すぐ、紙から密閉容器に移し替える。",
+      "冷凍前にシートで1枚ずつ挟むと、あとで簡単にはがせる。",
+      "妊娠中の方や免疫の弱い方は、湯気が立つまで加熱してから食べる。"
+    ],
+    "faq": [
+      {"q": "対面スライスのハムは冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から3〜5日です。密封の予包装品より短くなります。"},
+      {"q": "スライスした食肉は冷凍できますか？", "a": "できます。−18℃で安全面では長期間、品質は1〜2か月が目安。冷凍前に紙で1枚ずつ挟んでおきましょう。"},
+      {"q": "対面スライスのほうが早く傷むのはなぜ？", "a": "その場で切ることで新しい断面が生まれ、スライサーや包装紙、手を介するためです。密封の真空パックではこれらが起こりません。"}
+    ]
+  },
+  "es": {
+    "name": "Fiambre cortado en el mostrador",
+    "aliases": ["fiambre de charcutería", "jamón cortado al momento", "carnes frías", "pechuga de pavo en lonchas"],
+    "summary": "El fiambre cortado al momento en el mostrador pasa por la cortadora y por las manos, y cada loncha expone superficie nueva, por lo que se estropea antes que un paquete sellado. Refrigerado a 4 °C (40 °F) o menos dura 3–5 días desde la compra, y 1–2 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "Las lonchas de charcutería son un alimento refrigerado listo para comer y nunca deben quedarse a temperatura ambiente. Como no se cocinan antes de consumirlas, cualquier listeria presente puede crecer: despacio incluso en frío y rápido en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F). Deséchalas si llevan más de 2 horas fuera, o 1 hora por encima de 32 °C (90 °F).",
+    "fridge": "Pasa las lonchas del papel de charcutería a un recipiente hermético o bolsa con cierre en cuanto llegues a casa; el papel las reseca y absorbe olores. Consérvalas a 4 °C (40 °F) o menos y úsalas en 3–5 días. A las personas embarazadas o inmunodeprimidas se les recomienda calentar los fiambres hasta que humeen antes de comerlos.",
+    "freezer": "Separa las lonchas con papel de horno para poder despegar dos o tres, colócalas planas en una bolsa sin aire y congela a −18 °C (0 °F): seguras indefinidamente y con la mejor calidad 1–2 meses. Al descongelarse quedan algo más húmedas, algo que importa menos en un sándwich caliente o una tortilla que en uno frío.",
+    "thawing": "Descongélalas en el refrigerador durante una noche y úsalas en 3–5 días, o saca solo las lonchas que necesites y deja que se atemperen unos minutos. Nunca las descongeles a temperatura ambiente ni las vuelvas a congelar.",
+    "spoilage": [
+      "Olor agrio o a amoníaco en lugar del aroma limpio curado y ahumado",
+      "Lonchas viscosas o pegajosas que se adhieren entre sí",
+      "Brillo gris, verdoso o irisado sobre la carne",
+      "Líquido acuoso y turbio en el recipiente, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Compra solo lo que comerás en 3–5 días: el plazo del mostrador es corto.",
+      "Cámbialas del papel a un recipiente hermético nada más llegar a casa.",
+      "Sepáralas con papel antes de congelar para despegarlas con facilidad.",
+      "Calienta el fiambre hasta que humee si estás embarazada o inmunodeprimida."
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el fiambre cortado al momento en el refrigerador?", "a": "3–5 días desde el día de compra a 4 °C (40 °F) o menos, menos que un paquete sellado."},
+      {"q": "¿Se puede congelar el fiambre?", "a": "Sí, a −18 °C (0 °F): seguro indefinidamente y con la mejor calidad 1–2 meses. Separa las lonchas con papel antes de congelar."},
+      {"q": "¿Por qué se estropea antes el cortado al momento?", "a": "Cortar al pedido expone superficie fresca e implica la cortadora, el papel y la manipulación, nada de lo cual ocurre dentro de un envase al vacío sellado."}
+    ]
+  }
+}

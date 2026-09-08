@@ -1,0 +1,107 @@
+{
+  "slug": "fruit-cut",
+  "en": {
+    "name": "Cut fruit",
+    "aliases": ["fresh-cut fruit", "fruit salad", "prepared fruit", "melon chunks", "pre-cut pineapple"],
+    "summary": "Cut fruit — melon chunks, pineapple, mango, a tub of fruit salad — is far more perishable than whole fruit, because cutting exposes the moist flesh and destroys the skin's natural barrier. Refrigerated at 4 °C (40 °F) or below in a covered container it keeps about 4 days after cutting or opening.",
+    "pantry": "Cut fruit must not be left at room temperature. Whole melons and pineapples are fine on a counter, but once opened the flesh is a moist, ready-to-eat food that can support listeria and salmonella in the danger zone between 4 °C and 60 °C (40 °F and 140 °F). Discard cut fruit left out for more than 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Store cut fruit in a covered container on a middle shelf at 4 °C (40 °F) or below and use it within about 4 days. Wash and dry whole fruit before cutting, since the knife carries anything on the rind straight into the flesh — this matters most with melons. Keep it away from raw meat and drain off any liquid that collects in the bottom of the tub.",
+    "freezer": "Most cut fruit freezes well for smoothies, compotes and baking, though it will not stay firm enough to serve fresh; melon and citrus segments in particular collapse. Freeze pieces in a single layer on a tray, then bag them at −18 °C (0 °F), where they stay safe indefinitely and keep good quality for several months.",
+    "thawing": "Use frozen fruit straight from the freezer for smoothies, or thaw it in the fridge for compotes and baking. Expect it to be soft and to release a lot of juice. Never thaw cut fruit at room temperature and do not refreeze it.",
+    "spoilage": [
+      "Fermented, alcoholic or vinegary smell when the container is opened",
+      "Slimy surfaces, or pieces sitting in cloudy, thickened juice",
+      "Mould of any colour, including fuzzy white spots on berries",
+      "Browning, translucent, collapsing flesh that has lost its shape"
+    ],
+    "tips": [
+      "Wash and dry the whole fruit before cutting it, especially melons.",
+      "Store in a covered container and drain off the juice that collects.",
+      "Add a squeeze of lemon or lime to apple, pear and banana to slow browning.",
+      "Freeze pieces on a tray before bagging so they do not clump."
+    ],
+    "faq": [
+      {"q": "How long does cut fruit last in the fridge?", "a": "About 4 days at 4 °C (40 °F) or below in a covered container, counted from when it was cut or the tub was opened."},
+      {"q": "Can you freeze cut fruit?", "a": "Yes, at −18 °C (0 °F). It softens on thawing, so use it for smoothies, compotes and baking rather than serving it fresh."},
+      {"q": "Why should you wash a melon before cutting it?", "a": "Bacteria on the rind are dragged into the flesh by the knife. Melons have caused several listeria and salmonella outbreaks for exactly this reason."}
+    ]
+  },
+  "zh": {
+    "name": "切好的水果",
+    "aliases": ["切片水果", "水果盒", "綜合水果", "切好的鳳梨", "水果沙拉"],
+    "summary": "切好的水果——哈密瓜塊、鳳梨、芒果、一盒水果沙拉——比完整的水果容易腐敗得多，因為切開後露出濕潤的果肉，也破壞了果皮這道天然屏障。裝在有蓋容器裡放 4°C 以下冷藏，從切開或拆封起約可放 4 天。",
+    "pantry": "切好的水果不能放室溫。整顆的瓜類和鳳梨放在檯面上沒問題，但一旦切開，果肉就是濕潤的即食食品，在 4～60°C 的危險溫度帶可能滋生李斯特菌和沙門氏菌。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "把切好的水果放在有蓋容器裡，置於冰箱中層，維持 4°C 以下，約 4 天內吃完。切之前先把整顆水果洗淨擦乾，因為刀子會把果皮上的東西直接帶進果肉——瓜類尤其要注意。要遠離生肉，並把盒底積出的汁液倒掉。",
+    "freezer": "大多數切好的水果都很適合冷凍，用來打果昔、煮果醬或烘焙；但解凍後不夠挺，不適合當新鮮水果吃，瓜類和柑橘瓣尤其會整個塌掉。先把果塊單層鋪在烤盤上凍硬，再裝袋放 −18°C，安全上可以無限期保存，品質可以維持好幾個月。",
+    "thawing": "打果昔可以直接用冷凍的；煮果醬或烘焙則放冷藏室解凍。解凍後會變軟並釋出大量果汁，這是正常的。絕對不要在室溫解凍，也不要再次冷凍。",
+    "spoilage": [
+      "打開容器聞到發酵味、酒精味或醋酸味",
+      "表面黏滑，或果塊泡在混濁濃稠的汁液裡",
+      "出現任何顏色的黴，包括莓果上的白色絨毛斑",
+      "果肉褐化、變透明、塌軟到失去形狀"
+    ],
+    "tips": [
+      "切之前先把整顆水果洗淨擦乾，瓜類尤其重要。",
+      "裝有蓋容器保存，並把積出的汁液倒掉。",
+      "蘋果、梨子、香蕉擠一點檸檬或萊姆汁，可以延緩褐變。",
+      "冷凍前先在烤盤上分開凍硬，再裝袋才不會黏成團。"
+    ],
+    "faq": [
+      {"q": "切好的水果放冰箱可以放多久？", "a": "裝在有蓋容器放 4°C 以下冷藏約 4 天，從切開或拆封那天算起。"},
+      {"q": "切好的水果可以冷凍嗎？", "a": "可以，放 −18°C 冷凍。解凍後會變軟，建議用來打果昔、煮果醬或烘焙，不要當新鮮水果吃。"},
+      {"q": "為什麼切瓜之前要先洗？", "a": "因為刀子會把果皮上的細菌帶進果肉。瓜類就曾因此造成多起李斯特菌和沙門氏菌事件。"}
+    ]
+  },
+  "ja": {
+    "name": "カットフルーツ",
+    "aliases": ["カットした果物", "フルーツサラダ", "カットメロン", "カットパイナップル", "パック入り果物"],
+    "summary": "カットフルーツ（メロン、パイナップル、マンゴー、フルーツサラダのパックなど）は、丸ごとの果物よりずっと傷みやすい食品です。切ることで水分の多い果肉が露出し、皮という天然のバリアも失われるためです。ふた付き容器で4℃以下に冷蔵すれば、カットまたは開封から約4日が目安です。",
+    "pantry": "カットフルーツを常温に置くことはできません。丸ごとのメロンやパイナップルは室温で問題ありませんが、切った時点で果肉は水分の多いそのまま食べる食品となり、4〜60℃の危険温度帯ではリステリアやサルモネラが増えるおそれがあります。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。",
+    "fridge": "ふた付き容器に入れて庫内の中段で4℃以下を保ち、約4日以内に食べ切ります。切る前に丸ごとの果物を洗って水気を拭くことも大切です。包丁が皮の汚れをそのまま果肉に持ち込むためで、とくにメロンで重要です。生肉から離して保管し、容器の底にたまった汁は捨てましょう。",
+    "freezer": "多くのカットフルーツはスムージーやコンポート、製菓用の冷凍に向きますが、解凍後は形が保てず生食には向きません。とくにメロンや柑橘の房は崩れます。天板に重ならないよう並べて凍らせてから袋に移し、−18℃で保存すれば安全面では長期間、品質も数か月保てます。",
+    "thawing": "スムージーには凍ったまま使えます。コンポートや製菓なら冷蔵庫で解凍してください。やわらかくなり果汁が多く出ますが、それが普通です。常温解凍と再冷凍は避けましょう。",
+    "spoilage": [
+      "容器を開けたときに発酵臭・アルコール臭・酢のようなにおいがする",
+      "表面がぬめる、果肉が濁ってとろみのある汁に浸っている",
+      "色を問わずカビが出ている（ベリーの白い綿状のものを含む）",
+      "果肉が茶色くなり、透明感を帯びて形が崩れている"
+    ],
+    "tips": [
+      "切る前に丸ごとの果物を洗って拭く。とくにメロンで重要。",
+      "ふた付き容器で保存し、たまった汁は捨てる。",
+      "りんご、洋なし、バナナはレモンやライムを少し絞ると変色しにくい。",
+      "冷凍は天板で分けて凍らせてから袋へ。くっつかない。"
+    ],
+    "faq": [
+      {"q": "カットフルーツは冷蔵庫で何日もちますか？", "a": "ふた付き容器で4℃以下なら約4日です。カットまたはパックを開けた日から数えます。"},
+      {"q": "カットフルーツは冷凍できますか？", "a": "できます（−18℃）。解凍するとやわらかくなるので、スムージーやコンポート、製菓に使い、生食には向きません。"},
+      {"q": "メロンは切る前に洗うべきですか？", "a": "洗ってください。皮の細菌を包丁が果肉に持ち込むためです。メロンはこれが原因でリステリアやサルモネラの集団感染を起こしています。"}
+    ]
+  },
+  "es": {
+    "name": "Fruta cortada",
+    "aliases": ["fruta troceada", "ensalada de frutas", "fruta preparada", "melón en trozos", "piña precortada"],
+    "summary": "La fruta cortada —trozos de melón, piña, mango o una tarrina de macedonia— es mucho más perecedera que la fruta entera, porque al cortarla se expone la pulpa húmeda y se destruye la barrera natural de la cáscara. Refrigerada a 4 °C (40 °F) o menos en un recipiente tapado dura unos 4 días desde que se cortó o se abrió.",
+    "pantry": "La fruta cortada no debe quedarse a temperatura ambiente. Un melón o una piña enteros pueden estar en la encimera, pero una vez abiertos la pulpa es un alimento húmedo y listo para comer que puede favorecer a la listeria y la salmonela en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F). Deséchala si lleva más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Guarda la fruta cortada en un recipiente tapado en un estante intermedio a 4 °C (40 °F) o menos y consúmela en unos 4 días. Lava y seca la fruta entera antes de cortarla, porque el cuchillo arrastra hasta la pulpa lo que haya en la cáscara: esto importa sobre todo con los melones. Mantenla lejos de la carne cruda y escurre el líquido que se acumule.",
+    "freezer": "La mayoría de la fruta cortada se congela bien para batidos, compotas y repostería, aunque no queda lo bastante firme para servirla fresca; el melón y los gajos de cítricos se deshacen especialmente. Congela los trozos en una capa sobre una bandeja y embólsalos a −18 °C (0 °F), donde son seguros indefinidamente y mantienen buena calidad varios meses.",
+    "thawing": "Usa la fruta congelada directamente para batidos, o descongélala en el refrigerador para compotas y horneados. Quedará blanda y soltará mucho jugo. Nunca la descongeles a temperatura ambiente ni la vuelvas a congelar.",
+    "spoilage": [
+      "Olor fermentado, alcohólico o avinagrado al abrir el recipiente",
+      "Superficies viscosas, o trozos nadando en jugo turbio y espeso",
+      "Moho de cualquier color, incluidas motas blancas afelpadas en las bayas",
+      "Pulpa parda, translúcida y desmoronada que ha perdido la forma"
+    ],
+    "tips": [
+      "Lava y seca la fruta entera antes de cortarla, sobre todo los melones.",
+      "Guárdala en recipiente tapado y escurre el jugo que se acumule.",
+      "Añade unas gotas de limón o lima a manzana, pera y plátano para frenar el pardeamiento.",
+      "Congela los trozos en bandeja antes de embolsarlos para que no se apelmacen."
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la fruta cortada en el refrigerador?", "a": "Unos 4 días a 4 °C (40 °F) o menos en recipiente tapado, contados desde que se cortó o se abrió la tarrina."},
+      {"q": "¿Se puede congelar la fruta cortada?", "a": "Sí, a −18 °C (0 °F). Se ablanda al descongelarse, así que úsala en batidos, compotas y repostería en vez de servirla fresca."},
+      {"q": "¿Por qué hay que lavar el melón antes de cortarlo?", "a": "Porque el cuchillo arrastra a la pulpa las bacterias de la corteza. Los melones han causado varios brotes de listeria y salmonela precisamente por eso."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "leftovers-meat-fish-poultry-egg",
+  "en": {
+    "name": "Leftovers with meat, fish, poultry or egg",
+    "aliases": ["cooked leftovers", "dinner leftovers", "reheated meals", "cooked meat leftovers"],
+    "summary": "Cooked leftovers containing meat, fish, poultry or egg are among the most common causes of home food poisoning, because they are handled a lot and cool slowly. Refrigerated at 4 °C (40 °F) or below they keep 3–4 days, and frozen at −18 °C (0 °F) they hold good quality for 2–3 months.",
+    "pantry": "Leftovers must never be left out overnight, no matter how thoroughly they were cooked. Spores that survive cooking germinate as the food cools through the danger zone between 4 °C and 60 °C (40 °F and 140 °F), and reheating does not destroy the toxins some of them produce. Refrigerate within 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Divide the food into shallow containers so it cools quickly rather than sitting warm in the middle of a big pot, and refrigerate at 4 °C (40 °F) or below for 3–4 days. Label the container with the date; three or four days is easy to lose track of. Reheat only the portion you are eating rather than the whole batch again and again.",
+    "freezer": "If you will not eat leftovers within 3–4 days, freeze them on the day you cook them rather than at the end of that window. Portion into meal-sized containers, leave headspace for expansion and freeze at −18 °C (0 °F): safe indefinitely, best quality for 2–3 months. Dishes with sauce freeze better than dry roasted meat.",
+    "thawing": "Thaw in the fridge overnight, or reheat straight from frozen in a pan, oven or microwave. Reheat until steaming hot all the way through, at least 74 °C (165 °F), stirring so there are no cold spots. Do not refreeze leftovers once they have been reheated.",
+    "spoilage": [
+      "Sour, yeasty or fermented smell when the container is opened",
+      "Slimy surfaces, or sauce that has become stringy, cloudy or fizzing",
+      "Mould of any colour on the surface of the food",
+      "An off taste on the first mouthful of a reheated portion"
+    ],
+    "tips": [
+      "Cool in shallow containers and refrigerate within 2 hours.",
+      "Label every container with what it is and the date it was cooked.",
+      "Reheat once only, and only the portion you plan to eat.",
+      "When in doubt, throw it out — reheating does not remove bacterial toxins."
+    ],
+    "faq": [
+      {"q": "How long do leftovers last in the fridge?", "a": "3–4 days at 4 °C (40 °F) or below, provided they were cooled and refrigerated within 2 hours of cooking."},
+      {"q": "Can you freeze leftovers?", "a": "Yes, at −18 °C (0 °F): safe indefinitely and best quality for 2–3 months. Freeze them on the day of cooking rather than after several days in the fridge."},
+      {"q": "Is it safe to reheat leftovers more than once?", "a": "Best practice is to reheat only the portion you will eat, once. Every cycle through the danger zone gives bacteria another chance to multiply."}
+    ]
+  },
+  "zh": {
+    "name": "含肉、魚、禽肉或蛋的剩菜",
+    "aliases": ["剩菜", "隔夜菜", "熟食剩餘", "煮好的剩飯菜"],
+    "summary": "含肉、魚、禽肉或蛋的熟食剩菜，是家庭食物中毒最常見的原因之一，因為經手次數多、降溫又慢。在 4°C 以下冷藏可放 3～4 天；放 −18°C 冷凍，品質約可維持 2～3 個月。",
+    "pantry": "剩菜絕對不能放整晚，不管當初煮得多熟。加熱後存活的芽孢會在食物通過 4～60°C 危險溫度帶降溫時發芽，而且有些細菌產生的毒素再加熱也破壞不了。請在 2 小時內冷藏（氣溫超過 32°C 時 1 小時）。",
+    "fridge": "把食物分裝到淺容器裡，才能快速降溫，不會在大鍋中央一直溫溫的；放 4°C 以下冷藏 3～4 天。容器上標註日期，三四天很容易記不清。每次只加熱要吃的那一份，不要整鍋反覆加熱。",
+    "freezer": "如果 3～4 天內吃不完，請在煮好當天就冷凍，而不是等到期限最後一天。分裝成每餐份量的容器，預留膨脹空間，放 −18°C 冷凍：安全上可以無限期保存，品質以 2～3 個月為佳。帶醬汁的料理比乾烤的肉更適合冷凍。",
+    "thawing": "放冷藏室解凍一晚，或直接從冷凍用鍋子、烤箱或微波爐加熱。要加熱到整體冒蒸氣、至少 74°C，中途攪拌避免冷點。加熱過的剩菜不要再冷凍。",
+    "spoilage": [
+      "打開容器聞到酸味、酵母味或發酵味",
+      "表面黏滑，或醬汁變得牽絲、混濁、冒泡",
+      "食物表面出現任何顏色的黴",
+      "加熱後第一口就嚐到異味"
+    ],
+    "tips": [
+      "用淺容器降溫，2 小時內冷藏。",
+      "每個容器都標註內容和烹調日期。",
+      "只加熱一次，而且只加熱要吃的份量。",
+      "不確定就丟掉——再加熱也無法去除細菌毒素。"
+    ],
+    "faq": [
+      {"q": "剩菜放冰箱可以放多久？", "a": "在 4°C 以下冷藏 3～4 天，前提是煮好後 2 小時內就降溫冷藏。"},
+      {"q": "剩菜可以冷凍嗎？", "a": "可以，放 −18°C 冷凍：安全上無限期，品質以 2～3 個月為佳。請在煮好當天冷凍，不要在冰箱放了好幾天才冷凍。"},
+      {"q": "剩菜可以重複加熱嗎？", "a": "最好只加熱要吃的那一份，而且只加熱一次。每經過一次危險溫度帶，細菌就多一次繁殖的機會。"}
+    ]
+  },
+  "ja": {
+    "name": "肉・魚・鶏・卵を含む残り物",
+    "aliases": ["残り物", "作り置きのおかず", "調理済みの残り", "翌日のおかず"],
+    "summary": "肉・魚・鶏肉・卵を含む調理済みの残り物は、家庭内の食中毒でもっとも多い原因のひとつです。手が触れる回数が多く、冷めるのも遅いためです。4℃以下の冷蔵で3〜4日、−18℃の冷凍で品質は2〜3か月が目安です。",
+    "pantry": "どれだけしっかり加熱したものでも、残り物を一晩常温に置いてはいけません。加熱で生き残った芽胞は、食品が4〜60℃の危険温度帯を通って冷める間に発芽し、なかには再加熱でも壊れない毒素を作るものもあります。2時間以内（気温32℃以上なら1時間以内）に冷蔵してください。",
+    "fridge": "大きな鍋の中心が温かいままにならないよう、浅い容器に分けて手早く冷まし、4℃以下で3〜4日保存します。容器に日付を書いておきましょう。3〜4日は意外と分からなくなります。温め直すのは食べるぶんだけにし、鍋ごと何度も加熱しないでください。",
+    "freezer": "3〜4日で食べ切れないと分かっているなら、期限の終わりではなく調理した当日に冷凍します。1食分ずつ容器に分け、膨張分の余裕を残して−18℃で冷凍してください。安全面では長期間、品質は2〜3か月が目安です。ソースのある料理のほうが、乾いた焼き肉より冷凍向きです。",
+    "thawing": "冷蔵庫で一晩解凍するか、凍ったまま鍋・オーブン・電子レンジで加熱します。全体が湯気を立てるまで、少なくとも74℃まで温め、途中でかき混ぜて冷たい部分を残さないようにします。温め直した残り物の再冷凍はしないでください。",
+    "spoilage": [
+      "容器を開けたときに酸っぱいにおい、酵母臭、発酵臭がする",
+      "表面がぬめる、ソースが糸を引く・濁る・発泡している",
+      "表面に色を問わずカビが出ている",
+      "温め直して一口目に異味を感じる"
+    ],
+    "tips": [
+      "浅い容器で冷まし、2時間以内に冷蔵する。",
+      "容器に中身と調理日を書いておく。",
+      "温め直しは1回だけ、しかも食べるぶんだけ。",
+      "迷ったら捨てる。再加熱では細菌の毒素は除けない。"
+    ],
+    "faq": [
+      {"q": "残り物は冷蔵庫で何日もちますか？", "a": "調理後2時間以内に冷まして冷蔵していれば、4℃以下で3〜4日です。"},
+      {"q": "残り物は冷凍できますか？", "a": "できます。−18℃で安全面では長期間、品質は2〜3か月が目安。冷蔵で数日置いたあとではなく、調理した当日に冷凍してください。"},
+      {"q": "残り物を何度も温め直しても大丈夫ですか？", "a": "食べるぶんだけを1回温めるのが基本です。危険温度帯を通るたびに、細菌が増える機会を与えることになります。"}
+    ]
+  },
+  "es": {
+    "name": "Sobras con carne, pescado, ave o huevo",
+    "aliases": ["sobras cocinadas", "restos de la cena", "comida recalentada", "restos de carne cocida"],
+    "summary": "Las sobras cocinadas con carne, pescado, ave o huevo están entre las causas más frecuentes de intoxicación alimentaria doméstica, porque se manipulan mucho y se enfrían despacio. Refrigeradas a 4 °C (40 °F) o menos duran 3–4 días, y congeladas a −18 °C (0 °F) mantienen buena calidad 2–3 meses.",
+    "pantry": "Las sobras nunca deben quedarse fuera toda la noche, por muy bien cocinadas que estuvieran. Las esporas que sobreviven a la cocción germinan mientras la comida se enfría atravesando la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F), y recalentar no destruye las toxinas que algunas producen. Refrigera en menos de 2 horas —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Reparte la comida en recipientes bajos para que se enfríe rápido en lugar de quedarse tibia en el centro de una olla grande, y refrigérala a 4 °C (40 °F) o menos durante 3–4 días. Etiqueta el recipiente con la fecha: tres o cuatro días se pierden de vista fácilmente. Recalienta solo la ración que vayas a comer, no toda la tanda una y otra vez.",
+    "freezer": "Si no vas a comer las sobras en 3–4 días, congélalas el mismo día que cocinaste, no al final de ese plazo. Divídelas en raciones, deja espacio para la expansión y congela a −18 °C (0 °F): seguras indefinidamente y con la mejor calidad 2–3 meses. Los platos con salsa se congelan mejor que la carne asada seca.",
+    "thawing": "Descongélalas en el refrigerador durante una noche, o recaliéntalas directamente congeladas en cazuela, horno o microondas. Recalienta hasta que humeen por completo, al menos 74 °C (165 °F), removiendo para que no queden zonas frías. No vuelvas a congelar sobras ya recalentadas.",
+    "spoilage": [
+      "Olor agrio, a levadura o fermentado al abrir el recipiente",
+      "Superficies viscosas, o salsa filante, turbia o con burbujas",
+      "Moho de cualquier color en la superficie de la comida",
+      "Sabor extraño en el primer bocado de una ración recalentada"
+    ],
+    "tips": [
+      "Enfría en recipientes bajos y refrigera en menos de 2 horas.",
+      "Etiqueta cada recipiente con el contenido y la fecha de cocción.",
+      "Recalienta una sola vez y solo la ración que vas a comer.",
+      "Ante la duda, tíralo: recalentar no elimina las toxinas bacterianas."
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las sobras en el refrigerador?", "a": "3–4 días a 4 °C (40 °F) o menos, siempre que se enfriaran y refrigeraran dentro de las 2 horas tras cocinarlas."},
+      {"q": "¿Se pueden congelar las sobras?", "a": "Sí, a −18 °C (0 °F): seguras indefinidamente y con la mejor calidad 2–3 meses. Congélalas el mismo día de cocción, no tras varios días en frío."},
+      {"q": "¿Es seguro recalentar las sobras más de una vez?", "a": "Lo recomendable es recalentar solo la ración que vas a comer, una vez. Cada paso por la zona de peligro da a las bacterias otra oportunidad de multiplicarse."}
+    ]
+  }
+}

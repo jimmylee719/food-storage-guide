@@ -1,0 +1,107 @@
+{
+  "slug": "onions-spring-green",
+  "en": {
+    "name": "Spring onions",
+    "aliases": ["green onions", "scallions", "salad onions", "negi"],
+    "summary": "Spring onions are immature onions harvested with their green tops still attached, and those leaves wilt far faster than a dry onion bulb. USDA gives about 1 month in the pantry from the date of purchase and about 1 week in the fridge; chopped and frozen they keep 10–12 months.",
+    "pantry": "USDA lists about 1 month from purchase for pantry storage, which applies to firm bunches kept cool, dark and airy — the greens will wilt long before the white bulbs give out. In most kitchens spring onions are better refrigerated, or stood stem-down in a jar of water on the counter, where they stay perky for several days and even regrow.",
+    "fridge": "Refrigerated at 4 °C (40 °F) or below, spring onions keep about 1 week from purchase. Wrap the bunch loosely in kitchen paper inside a perforated bag so the greens do not sweat, or stand the roots in a jar of water and cover the tops with a bag. Their aroma spreads easily, so bag them properly.",
+    "freezer": "Chopped spring onions freeze for 10–12 months from purchase at −18 °C (0 °F) and are excellent to have on hand. Slice them, pack into a bottle or bag and freeze; they stay loose enough to shake out what you need. Frozen spring onion is best stirred into hot dishes at the end of cooking.",
+    "thawing": "Add frozen spring onion straight to the pan or bowl — it thaws in seconds in a hot dish. Thawing it first makes it limp and darkens the green.",
+    "spoilage": [
+      "Slimy or translucent green tops",
+      "Yellow or brown wilted leaves through the bunch",
+      "Soft, mushy white bulbs or a slippery film at the root",
+      "Sour or rotten-onion smell"
+    ],
+    "tips": [
+      "Stand the roots in a jar of water on the windowsill and they will regrow",
+      "Wrap the bunch in kitchen paper so the greens do not sweat",
+      "Chop and freeze in a bottle so you can shake out just what you need",
+      "Use the white parts early in cooking and the green tops at the end"
+    ],
+    "faq": [
+      {"q": "How long do spring onions last in the fridge?", "a": "About 1 week from purchase at 4 °C (40 °F) or below, wrapped in kitchen paper inside a perforated bag."},
+      {"q": "Can you freeze spring onions?", "a": "Yes. Slice and freeze them in a bottle or bag for 10–12 months at −18 °C (0 °F), then shake out what you need straight into a hot dish."},
+      {"q": "Can you regrow spring onions?", "a": "Yes. Stand the trimmed roots in a jar with a couple of centimetres of water on a sunny windowsill and the green tops will regrow within a week or two."}
+    ]
+  },
+  "zh": {
+    "name": "青蔥",
+    "aliases": ["蔥", "小蔥", "細香蔥（俗稱）", "四季蔥", "珠蔥"],
+    "summary": "青蔥是還沒長成球狀就連著綠葉一起採收的蔥，那些葉子軟垮的速度比乾洋蔥快得多。USDA 給的參考是常溫從購買日起約 1 個月、冷藏約 1 週；切好冷凍則可保存 10～12 個月。",
+    "pantry": "USDA 列出的常溫期限是從購買日起約 1 個月，這適用於放在陰涼避光通風處的結實整把——不過綠葉一定會比白色蔥白先軟掉。在一般家庭的廚房裡，青蔥還是冷藏比較實際，或者把根部朝下插在裝水的杯子裡放檯面上，可以精神好幾天，甚至還會再長。",
+    "fridge": "放在 4°C 以下冷藏，青蔥從購買日起約可放 1 週。用廚房紙巾鬆鬆包住整把、裝進打洞袋，避免綠葉悶出水；或是把根部插在水杯裡、上面罩個袋子。蔥味很會擴散，所以務必確實封袋。",
+    "freezer": "切好的青蔥放 −18°C 冷凍，從購買日起可保存 10～12 個月，是非常實用的常備品。切成蔥花後裝進瓶子或袋子冷凍，會保持鬆散，要用時倒出需要的量就好。冷凍蔥花最適合在起鍋前撒進熱菜裡。",
+    "thawing": "冷凍蔥花直接撒進鍋裡或碗裡即可，遇到熱菜幾秒就化開。先解凍反而會讓它軟垮、綠色變暗。",
+    "spoilage": [
+      "綠葉變黏滑或半透明",
+      "整把出現發黃、發褐的枯葉",
+      "白色蔥白變軟爛，或根部有滑滑的薄膜",
+      "有酸味或蔥類腐敗的味道"
+    ],
+    "tips": [
+      "把根部插在水杯裡放窗邊，蔥還會繼續長",
+      "用廚房紙巾包住整把，避免綠葉悶出水",
+      "切成蔥花裝瓶冷凍，要用時倒出需要的量",
+      "蔥白早一點下鍋，蔥綠最後再放"
+    ],
+    "faq": [
+      {"q": "青蔥放冰箱可以放多久？", "a": "用廚房紙巾包好、裝在打洞袋裡，放 4°C 以下，從購買日起約 1 週。"},
+      {"q": "青蔥可以冷凍嗎？", "a": "可以。切成蔥花裝瓶或裝袋，放 −18°C 冷凍 10～12 個月，要用時直接倒進熱菜裡。"},
+      {"q": "青蔥可以重新種嗎？", "a": "可以。把切剩的根部插在裝了兩三公分水的杯子裡，放在有陽光的窗邊，一兩週內綠葉就會再長出來。"}
+    ]
+  },
+  "ja": {
+    "name": "青ねぎ・万能ねぎ",
+    "aliases": ["小ねぎ", "万能ねぎ", "わけぎ", "葉ねぎ", "青ネギ"],
+    "summary": "青ねぎは球が育ちきる前に緑の葉ごと収穫したねぎで、その葉は乾燥した玉ねぎよりずっと早くしおれます。USDAの目安は常温で購入日から約1か月、冷蔵で約1週間。刻んで冷凍すれば10〜12か月保存できます。",
+    "pantry": "USDAは常温で購入日から約1か月としていますが、これは涼しく暗く風通しのよい場所に置いた張りのある束が対象で、白い部分より先に緑の葉がしおれます。一般的な台所では冷蔵のほうが現実的で、根を下にして水を入れた瓶に立てておくと数日いきいきし、再生することもあります。",
+    "fridge": "4℃以下で冷蔵すれば、購入日から約1週間持ちます。束をキッチンペーパーでゆるく包み穴あき袋へ入れて葉が蒸れないようにするか、根を水に浸けて上から袋をかぶせます。香りが広がりやすいので、袋はきちんと閉じましょう。",
+    "freezer": "刻んだ青ねぎは−18℃で購入日から10〜12か月冷凍でき、常備しておくととても便利です。小口切りにして容器や袋に入れて凍らせれば、ばらけたまま必要な分だけ振り出せます。冷凍ねぎは仕上げに熱い料理へ加えるのが最適です。",
+    "thawing": "冷凍ねぎは鍋や器に直接。熱い料理なら数秒で解けます。先に解凍するとぐったりして緑色もくすみます。",
+    "spoilage": [
+      "緑の葉がぬめる、透けたようになっている",
+      "束全体に黄色や茶色のしおれた葉がある",
+      "白い部分がぶよぶよ、根元にぬるっとした膜がある",
+      "酸っぱいにおいや、ねぎが腐ったようなにおい"
+    ],
+    "tips": [
+      "根を水に立てて窓辺に置くと、また伸びてきます",
+      "束をキッチンペーパーで包み、葉が蒸れないようにしましょう",
+      "小口切りにして容器で冷凍すると、必要な分だけ振り出せます",
+      "白い部分は早めに、緑の部分は仕上げに使いましょう"
+    ],
+    "faq": [
+      {"q": "青ねぎは冷蔵庫でどのくらい持ちますか？", "a": "キッチンペーパーで包み穴あき袋に入れ、4℃以下で購入日から約1週間です。"},
+      {"q": "青ねぎは冷凍できますか？", "a": "できます。小口切りにして容器や袋で−18℃で10〜12か月。必要な分だけ熱い料理に振り入れられます。"},
+      {"q": "青ねぎは再生栽培できますか？", "a": "できます。切り落とした根を2〜3cmの水に立て、日の当たる窓辺に置けば、1〜2週間で緑の部分が伸びてきます。"}
+    ]
+  },
+  "es": {
+    "name": "Cebolletas",
+    "aliases": ["cebolla de verdeo", "cebollín", "cebolla larga", "cebolla junca", "cebolleta fresca"],
+    "summary": "Las cebolletas son cebollas inmaduras recolectadas con sus hojas verdes, y esas hojas se marchitan mucho antes que un bulbo de cebolla seca. El USDA da alrededor de 1 mes en despensa desde la compra y alrededor de 1 semana en la nevera; picadas y congeladas duran 10–12 meses.",
+    "pantry": "El USDA indica alrededor de 1 mes desde la compra para despensa, algo aplicable a manojos firmes en un lugar fresco, oscuro y aireado: las hojas verdes se marchitarán mucho antes que los bulbos blancos. En la mayoría de las cocinas es mejor refrigerarlas, o ponerlas de pie en un tarro con agua en la encimera, donde aguantan lozanas varios días e incluso rebrotan.",
+    "fridge": "Refrigeradas a 4 °C (40 °F) o menos duran alrededor de 1 semana desde la compra. Envuelve el manojo sin apretar en papel de cocina dentro de una bolsa perforada para que las hojas no suden, o pon las raíces en un tarro con agua y cubre las puntas con una bolsa. Su aroma se extiende fácilmente, así que embólsalas bien.",
+    "freezer": "Las cebolletas picadas se congelan 10–12 meses desde la compra a −18 °C (0 °F) y es estupendo tenerlas a mano. Córtalas, guárdalas en un bote o bolsa y congélalas; quedan sueltas para sacar solo lo que necesites. Lo mejor es añadirlas a platos calientes al final de la cocción.",
+    "thawing": "Añade la cebolleta congelada directamente a la sartén o al bol: se descongela en segundos en un plato caliente. Descongelarla antes la deja flácida y oscurece el verde.",
+    "spoilage": [
+      "Hojas verdes viscosas o translúcidas",
+      "Hojas amarillas o pardas marchitas en todo el manojo",
+      "Bulbos blancos blandos o película resbaladiza en la raíz",
+      "Olor agrio o a cebolla podrida"
+    ],
+    "tips": [
+      "Pon las raíces en un tarro con agua en la ventana y volverán a brotar",
+      "Envuelve el manojo en papel de cocina para que las hojas no suden",
+      "Pícalas y congélalas en un bote para sacar justo lo que necesites",
+      "Usa la parte blanca al principio de la cocción y la verde al final"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las cebolletas en la nevera?", "a": "Alrededor de 1 semana desde la compra a 4 °C (40 °F) o menos, envueltas en papel de cocina dentro de una bolsa perforada."},
+      {"q": "¿Se pueden congelar las cebolletas?", "a": "Sí. Córtalas y congélalas en un bote o bolsa 10–12 meses a −18 °C (0 °F), y échalas directamente a un plato caliente."},
+      {"q": "¿Se pueden volver a cultivar las cebolletas?", "a": "Sí. Pon las raíces recortadas en un tarro con un par de centímetros de agua en una ventana soleada y las hojas verdes rebrotarán en una o dos semanas."}
+    ]
+  }
+}

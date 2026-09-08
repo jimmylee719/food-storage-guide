@@ -1,0 +1,107 @@
+{
+  "slug": "onions-yellow-white-red",
+  "en": {
+    "name": "Onions",
+    "aliases": ["yellow onions", "white onions", "red onions", "brown onions", "Spanish onions"],
+    "summary": "Whole dry onions are protected by papery skins and store well in a cool, dark, airy place, where they keep about 1 month from the date of purchase. Refrigerated they last about 2 months, and chopped and frozen they keep 10–12 months. Keep them away from potatoes.",
+    "pantry": "A cool, dark, well-ventilated spot is ideal for whole onions: about 1 month from purchase. Use a mesh basket or an open crate rather than a sealed bag, since onions need air circulation and rot quickly in trapped humidity. Never store onions next to potatoes — the moisture and gases they exchange make both sprout and spoil faster.",
+    "fridge": "Whole onions keep about 2 months at 4 °C (40 °F) or below, though they can soften in humid fridge air, so bag them loosely. Cut onions must be refrigerated: seal them in an airtight container and use within a few days, both for safety and because they perfume everything nearby. A cut onion left at room temperature should not be kept.",
+    "freezer": "Chopped onions freeze for 10–12 months from purchase at −18 °C (0 °F) and are a genuine time-saver. Dice them, freeze on a tray so the pieces stay loose, then bag them. Frozen onions lose their crunch and are only suitable for cooking, not for salads or garnishes.",
+    "thawing": "Add frozen chopped onion straight to a hot pan or a simmering pot. There is no need to thaw, and thawed onion is soft and watery.",
+    "spoilage": [
+      "Soft, squashy spots or a mushy neck",
+      "Black powdery mould under the papery skin",
+      "Green shoots growing from the top",
+      "Sour, fermented or strongly rotten smell"
+    ],
+    "tips": [
+      "Store in a mesh basket or open crate, never a sealed plastic bag",
+      "Keep onions and potatoes in separate places — together they spoil each other",
+      "Chop a batch and freeze it flat for instant weeknight cooking",
+      "Sprouted onions are still usable; remove the green shoot and use the rest soon"
+    ],
+    "faq": [
+      {"q": "How long do onions last?", "a": "About 1 month from purchase in a cool, dark, airy pantry, or about 2 months in the fridge. Chopped onions freeze for 10–12 months."},
+      {"q": "Can you freeze onions?", "a": "Yes. Dice them, freeze on a tray and bag; they keep 10–12 months at −18 °C (0 °F). Use them cooked, since freezing destroys the crunch."},
+      {"q": "Why should you not store onions with potatoes?", "a": "They release moisture and gases that make each other sprout and rot faster. Keep them in separate baskets in different parts of the pantry."}
+    ]
+  },
+  "zh": {
+    "name": "洋蔥",
+    "aliases": ["黃洋蔥", "白洋蔥", "紫洋蔥", "紅洋蔥", "球蔥"],
+    "summary": "完整的乾洋蔥外面有紙質外皮保護，放在陰涼、避光、通風的地方，從購買日起約可放 1 個月。冷藏可放約 2 個月，切碎冷凍則可保存 10～12 個月。記得要和馬鈴薯分開放。",
+    "pantry": "陰涼、避光、通風良好的地方最適合整顆洋蔥，從購買日起約可放 1 個月。請用網籃或開放式木箱，不要密封在袋子裡，因為洋蔥需要空氣流通，悶住的濕氣會讓它很快腐爛。絕對不要把洋蔥和馬鈴薯放在一起，它們交換的水氣和氣體會讓雙方都更快發芽和腐壞。",
+    "fridge": "整顆洋蔥放 4°C 以下約可放 2 個月，不過冰箱的濕氣可能讓它變軟，所以要鬆鬆裝袋。切開的洋蔥一定要冷藏：裝進密封盒並在幾天內用完，一方面是安全考量，另一方面是它的味道會沾到旁邊所有東西。切開後放在室溫的洋蔥不建議留下來。",
+    "freezer": "切碎的洋蔥放 −18°C 冷凍，從購買日起可保存 10～12 個月，是真正省時的好幫手。切丁後先鋪盤冷凍讓它粒粒分明，再裝袋保存。冷凍洋蔥會失去脆度，只適合烹調，不能做沙拉或裝飾。",
+    "thawing": "冷凍洋蔥丁可以直接丟進熱鍋或滾著的湯裡，不需要解凍。解凍後的洋蔥會軟軟出水。",
+    "spoilage": [
+      "出現軟軟塌陷的斑塊，或蒂頭部位軟爛",
+      "紙質外皮下面有黑色粉狀黴斑",
+      "頂端長出綠色的芽",
+      "有酸味、發酵味或強烈的腐敗味"
+    ],
+    "tips": [
+      "用網籃或開放式木箱保存，絕對不要密封在塑膠袋裡",
+      "洋蔥和馬鈴薯要分開放，放一起會互相加速腐壞",
+      "一次切好一批，平鋪冷凍起來，平日煮飯超方便",
+      "發芽的洋蔥還能用，把綠芽去掉、其餘盡快用完"
+    ],
+    "faq": [
+      {"q": "洋蔥可以放多久？", "a": "放陰涼避光通風處，從購買日起約 1 個月；冷藏約 2 個月。切碎冷凍可以放 10～12 個月。"},
+      {"q": "洋蔥可以冷凍嗎？", "a": "可以。切丁後鋪盤冷凍再裝袋，放 −18°C 可保存 10～12 個月。冷凍會失去脆度，只適合入菜。"},
+      {"q": "為什麼洋蔥不能和馬鈴薯放一起？", "a": "它們會釋放水氣和氣體，讓彼此更快發芽和腐爛。請分別放在櫥櫃的不同位置。"}
+    ]
+  },
+  "ja": {
+    "name": "玉ねぎ",
+    "aliases": ["タマネギ", "黄玉ねぎ", "白玉ねぎ", "赤玉ねぎ", "紫玉ねぎ"],
+    "summary": "丸ごとの玉ねぎは薄皮に守られており、涼しく暗く風通しのよい場所なら購入日から約1か月保存できます。冷蔵なら約2か月、刻んで冷凍すれば10〜12か月持ちます。じゃがいものそばには置かないでください。",
+    "pantry": "丸ごとの玉ねぎには、涼しく暗く風通しのよい場所が最適で、購入日から約1か月保存できます。密閉袋ではなくネットやオープンなかごを使いましょう。空気の流れが必要で、湿気がこもると早く腐ります。じゃがいものとなりには絶対に置かないでください。互いに水分やガスを出し合い、両方の発芽と傷みを早めます。",
+    "fridge": "丸ごとなら4℃以下で約2か月持ちますが、庫内の湿気でやわらかくなることがあるので、袋はゆるく閉じましょう。切った玉ねぎは必ず冷蔵を。密閉容器に入れて数日以内に使い切ります。安全面に加え、においが周囲に移るためです。切って常温に置いたものは取っておかないでください。",
+    "freezer": "刻んだ玉ねぎは−18℃で購入日から10〜12か月冷凍でき、時短の強い味方になります。角切りにしてバットで凍らせ、ばらけた状態にしてから袋へ。冷凍するとシャキッと感は失われるので、加熱調理専用と考えましょう。",
+    "thawing": "冷凍した刻み玉ねぎは、熱した鍋や煮立った鍋にそのまま入れます。解凍は不要で、解凍したものはやわらかく水っぽくなります。",
+    "spoilage": [
+      "やわらかくつぶれた部分がある、首の部分がぶよぶよ",
+      "薄皮の下に黒い粉状のカビがある",
+      "上部から緑の芽が伸びている",
+      "酸っぱいにおい、発酵臭、強い腐敗臭"
+    ],
+    "tips": [
+      "ネットやオープンなかごで保存を。密閉ポリ袋は避けましょう",
+      "玉ねぎとじゃがいもは別々に。一緒だと互いを傷めます",
+      "まとめて刻んで平らに冷凍しておくと、平日の調理がぐっと楽になります",
+      "芽が出ても使えます。緑の芽を取り除き、早めに使い切りましょう"
+    ],
+    "faq": [
+      {"q": "玉ねぎはどのくらい持ちますか？", "a": "涼しく暗く風通しのよい場所で購入日から約1か月、冷蔵なら約2か月です。刻んで冷凍すれば10〜12か月持ちます。"},
+      {"q": "玉ねぎは冷凍できますか？", "a": "できます。角切りにしてバットで凍らせ袋へ。−18℃で10〜12か月です。食感は失われるので加熱調理に使いましょう。"},
+      {"q": "玉ねぎとじゃがいもを一緒に置いてはいけないのはなぜですか？", "a": "互いに水分とガスを出し合い、発芽や腐敗を早めるためです。別々のかごに入れ、離して保管しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Cebollas",
+    "aliases": ["cebolla amarilla", "cebolla blanca", "cebolla morada", "cebolla roja", "cebolla de bulbo"],
+    "summary": "Las cebollas secas enteras están protegidas por sus capas de piel papirácea y se conservan bien en un lugar fresco, oscuro y aireado, donde duran alrededor de 1 mes desde la compra. Refrigeradas aguantan unos 2 meses, y picadas y congeladas 10–12 meses. Manténlas lejos de las patatas.",
+    "pantry": "Un sitio fresco, oscuro y bien ventilado es ideal para las cebollas enteras: alrededor de 1 mes desde la compra. Usa una cesta de malla o una caja abierta en lugar de una bolsa cerrada, porque necesitan aire y se pudren rápido con la humedad retenida. Nunca guardes cebollas junto a patatas: la humedad y los gases que intercambian hacen que ambas germinen y se estropeen antes.",
+    "fridge": "Las cebollas enteras duran alrededor de 2 meses a 4 °C (40 °F) o menos, aunque el aire húmedo de la nevera puede ablandarlas, así que embólsalas sin apretar. La cebolla cortada debe refrigerarse: ciérrala en un recipiente hermético y úsala en pocos días, tanto por seguridad como porque perfuma todo lo que tiene cerca. Una cebolla cortada dejada a temperatura ambiente no debe guardarse.",
+    "freezer": "La cebolla picada se congela 10–12 meses desde la compra a −18 °C (0 °F) y ahorra mucho tiempo. Córtala en dados, congélala en bandeja para que quede suelta y luego embólsala. Congelada pierde el crujido y solo sirve para cocinar, no para ensaladas ni decoración.",
+    "thawing": "Añade la cebolla picada congelada directamente a la sartén caliente o a la olla. No hace falta descongelar, y descongelada queda blanda y aguada.",
+    "spoilage": [
+      "Zonas blandas y hundidas o cuello reblandecido",
+      "Moho negro y polvoriento bajo la piel papirácea",
+      "Brotes verdes saliendo por arriba",
+      "Olor agrio, fermentado o claramente pútrido"
+    ],
+    "tips": [
+      "Guárdalas en cesta de malla o caja abierta, nunca en bolsa de plástico cerrada",
+      "Mantén cebollas y patatas separadas: juntas se estropean mutuamente",
+      "Pica una tanda y congélala plana para cocinar entre semana al instante",
+      "Las cebollas germinadas siguen sirviendo: quita el brote y úsalas pronto"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las cebollas?", "a": "Alrededor de 1 mes desde la compra en una despensa fresca, oscura y aireada, o unos 2 meses en la nevera. Picadas se congelan 10–12 meses."},
+      {"q": "¿Se pueden congelar las cebollas?", "a": "Sí. Pícalas en dados, congélalas en bandeja y embólsalas; duran 10–12 meses a −18 °C (0 °F). Úsalas cocinadas, porque el congelado destruye la textura."},
+      {"q": "¿Por qué no hay que guardar cebollas con patatas?", "a": "Liberan humedad y gases que hacen que ambas germinen y se pudran antes. Guárdalas en cestas separadas y en zonas distintas de la despensa."}
+    ]
+  }
+}

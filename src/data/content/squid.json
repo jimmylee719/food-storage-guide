@@ -1,0 +1,107 @@
+{
+  "slug": "squid",
+  "en": {
+    "name": "Squid",
+    "aliases": ["calamari", "cuttlefish", "squid tubes", "calamares"],
+    "summary": "Squid is a lean cephalopod sold as whole bodies, cleaned tubes or rings, prized for its firm bite when cooked either very briefly or very slowly. Raw, it keeps 1–3 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 6–18 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw squid must never be left at room temperature. Like all seafood it can carry vibrio and other bacteria that multiply quickly in the danger zone between 4 °C and 60 °C (40 °F and 140 °F), and squid also softens and loses its bite as it warms. Discard squid left out for more than 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Store cleaned squid in a covered container in the coldest part of the fridge at 4 °C (40 °F) or below, ideally over ice in a dish that drains, and use it within 1–3 days. Clean whole squid as soon as you get home: removing the ink sac, quill and innards before storage keeps the flesh sweeter for longer.",
+    "freezer": "Squid freezes very well and keeps good quality for 6–18 months at −18 °C (0 °F), remaining safe indefinitely. Freezing actually tenderizes it slightly by breaking down muscle fibres, so frozen-then-thawed squid is often less rubbery. Clean it first, portion it, wrap tightly and press out the air, or freeze it in water.",
+    "thawing": "Thaw in the fridge overnight, or in a sealed bag under cold running water for 15–20 minutes, then drain and dry thoroughly before cooking — wet squid spits violently in hot oil. Cook it either fast and hot, about 2 minutes, or braised for 30–45 minutes; the range in between is where it turns rubbery.",
+    "spoilage": [
+      "Sour, ammonia or strong fishy smell — fresh squid smells clean and briny",
+      "Slimy, sticky surface or flesh that has turned mushy",
+      "Yellowing or pinkish-grey discolouration instead of translucent white",
+      "Milky, thick liquid in the container, or a passed use-by date"
+    ],
+    "tips": [
+      "Cook squid either under 2 minutes or over 30 — anything between makes it rubbery.",
+      "Dry the pieces thoroughly before frying so the oil does not spit.",
+      "Freezing tenderizes squid, so frozen is a genuinely good option.",
+      "Score the tubes in a criss-cross pattern so they curl attractively and cook evenly."
+    ],
+    "faq": [
+      {"q": "Can you freeze squid?", "a": "Yes, and it is one of the seafoods that benefits: 6–18 months of good quality at −18 °C (0 °F), and freezing slightly tenderizes the flesh."},
+      {"q": "How long does fresh squid last in the fridge?", "a": "1–3 days from the day of purchase at 4 °C (40 °F) or below, kept as cold as possible."},
+      {"q": "Why is my squid rubbery?", "a": "It was cooked for a middling length of time. Either sear or fry it for under 2 minutes, or braise it for 30–45 minutes until it turns tender again."}
+    ]
+  },
+  "zh": {
+    "name": "魷魚／花枝",
+    "aliases": ["魷魚", "花枝", "透抽", "小卷", "軟絲"],
+    "summary": "魷魚是低脂的頭足類，市售有整隻、清理好的魷魚管或切好的圈狀，以爽脆彈牙的口感著稱，適合極短時間或長時間慢燉的烹調方式。生的在 4°C 以下冷藏，從購買日起可放 1～3 天；放 −18°C 冷凍可放 6～18 個月。",
+    "pantry": "生魷魚絕對不能放室溫。和所有海鮮一樣可能帶有腸炎弧菌等細菌，在 4～60°C 的危險溫度帶會迅速繁殖；魷魚回溫後也會變軟、失去彈性。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "清理好的魷魚放在有蓋容器裡，置於冰箱最冷的位置，維持 4°C 以下，最理想是放在能瀝水的容器中鋪冰塊，並在 1～3 天內用完。整隻的魷魚買回家就先處理：保存前把墨囊、軟骨和內臟拿掉，肉質可以保持清甜更久。",
+    "freezer": "魷魚很適合冷凍，放 −18°C 品質可維持 6～18 個月，安全上可以無限期保存。冷凍其實會破壞部分肌肉纖維，讓魷魚變得稍微軟嫩，所以冷凍過的往往比較不會太韌。請先清理、分裝、包緊擠出空氣，或加水一起冷凍。",
+    "thawing": "放冷藏室解凍一晚，或裝密封袋用冷水沖 15～20 分鐘，之後瀝乾並徹底擦乾再下鍋——濕的魷魚下油鍋會劇烈噴濺。烹調要嘛大火快炒約 2 分鐘，要嘛慢燉 30～45 分鐘；中間的時間區段正是最容易變韌的。",
+    "spoilage": [
+      "酸味、阿摩尼亞味或強烈腥味——新鮮魷魚聞起來乾淨帶鹹海味",
+      "表面黏滑，或肉質變得糊爛",
+      "顏色不再是半透明白色，而是泛黃或粉灰",
+      "容器裡出現乳白濃稠的液體，或已超過有效日期"
+    ],
+    "tips": [
+      "魷魚要嘛煮不到 2 分鐘、要嘛煮超過 30 分鐘，中間的時間最容易變韌。",
+      "下鍋前把水分徹底擦乾，油才不會爆。",
+      "冷凍能讓魷魚變嫩，所以買冷凍的真的沒問題。",
+      "在魷魚管上劃交叉刀紋，捲起來漂亮、受熱也均勻。"
+    ],
+    "faq": [
+      {"q": "魷魚可以冷凍嗎？", "a": "可以，而且是少數會因冷凍變得更好的海鮮：放 −18°C 冷凍 6～18 個月品質仍佳，肉質還會稍微變嫩。"},
+      {"q": "生魷魚放冰箱可以放多久？", "a": "在 4°C 以下、盡量低溫的環境冷藏，從購買日起 1～3 天。"},
+      {"q": "魷魚為什麼很韌？", "a": "因為煮的時間落在中間區段。請煎炒不到 2 分鐘，或慢燉 30～45 分鐘讓它重新變軟。"}
+    ]
+  },
+  "ja": {
+    "name": "いか",
+    "aliases": ["イカ", "スルメイカ", "ヤリイカ", "カラマリ", "いかリング"],
+    "summary": "いかは脂の少ない頭足類で、丸ごと、掃除済みの胴（チューブ）、リング状などで売られます。ごく短時間で仕上げるか、じっくり煮るかのどちらかで、心地よい歯ごたえが生きます。生の状態では4℃以下の冷蔵で購入日から1〜3日、−18℃の冷凍で6〜18か月が目安です。",
+    "pantry": "生のいかを常温に置くことはできません。ほかの魚介と同様、腸炎ビブリオなどの細菌が4〜60℃の危険温度帯で急速に増えますし、温度が上がると身がやわらかくなり歯ごたえも失われます。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。",
+    "fridge": "掃除したいかはふた付き容器に入れ、庫内でいちばん冷える場所で4℃以下を保ちます。水切りできる器に氷を敷くのが理想で、1〜3日以内に使い切りましょう。丸ごとのいかは帰宅後すぐ下処理を。墨袋、軟骨、内臓を取ってから保存すると、身の甘みが長く保てます。",
+    "freezer": "いかは冷凍向きで、−18℃で6〜18か月と品質を長く保てます（安全面では長期間）。冷凍で筋繊維が少しほぐれるため、解凍後のほうがかたくなりにくいという利点もあります。下処理してから小分けにし、密着させて包んで空気を抜くか、水と一緒に凍らせてください。",
+    "thawing": "冷蔵庫で一晩、または密閉袋のまま冷たい流水に15〜20分あてて解凍し、水気を切ってしっかり拭いてから調理します。濡れたまま油に入れるとはねて危険です。加熱は2分以内で一気に、または30〜45分かけてじっくり。その中間がもっともかたくなります。",
+    "spoilage": [
+      "酸っぱいにおい、アンモニア臭、強い生臭さがする（新鮮ないかは清潔な磯の香り）",
+      "表面がぬめる、身がぶよぶよになっている",
+      "半透明の白ではなく、黄ばみやピンクがかった灰色に変わっている",
+      "容器に乳白色でとろみのある液が出ている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "加熱は2分以内か30分以上。中間の時間がいちばんかたくなる。",
+      "揚げる前に水気をしっかり拭き、油はねを防ぐ。",
+      "冷凍するとやわらかくなるので、冷凍品を選ぶのも十分よい選択。",
+      "胴に格子状の切り込みを入れると、きれいに丸まり火通りも均一になる。"
+    ],
+    "faq": [
+      {"q": "いかは冷凍できますか？", "a": "できますし、冷凍で良くなる数少ない魚介です。−18℃で6〜18か月が品質の目安で、身も少しやわらかくなります。"},
+      {"q": "生のいかは冷蔵庫で何日もちますか？", "a": "できるだけ低温の4℃以下で、購入日から1〜3日です。"},
+      {"q": "いかがかたくなるのはなぜ？", "a": "加熱時間が中途半端だからです。2分以内で仕上げるか、30〜45分かけて煮込み、もう一度やわらかくなるところまで加熱してください。"}
+    ]
+  },
+  "es": {
+    "name": "Calamar",
+    "aliases": ["calamares", "chipirón", "sepia", "tubos de calamar", "anillas de calamar"],
+    "summary": "El calamar es un cefalópodo magro que se vende entero, en tubos limpios o en anillas, apreciado por su mordida firme cuando se cocina o muy poco o muy despacio. Crudo dura 1–3 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y 6–18 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "El calamar crudo nunca debe dejarse a temperatura ambiente. Como todo producto del mar puede portar vibrio y otras bacterias que se multiplican rápido en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F), y además se ablanda y pierde su textura al templarse. Deséchalo si lleva más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Guarda el calamar limpio en un recipiente tapado en la parte más fría del refrigerador a 4 °C (40 °F) o menos, idealmente sobre hielo en una fuente que escurra, y úsalo en 1–3 días. Limpia los calamares enteros nada más llegar a casa: quitar la bolsa de tinta, la pluma y las vísceras antes de guardarlos mantiene la carne más dulce.",
+    "freezer": "Se congela muy bien y conserva buena calidad 6–18 meses a −18 °C (0 °F), manteniéndose seguro indefinidamente. De hecho, la congelación lo ablanda ligeramente al romper fibras musculares, así que el calamar congelado suele quedar menos gomoso. Límpialo antes, divídelo en porciones, envuélvelo sin aire o congélalo en agua.",
+    "thawing": "Descongélalo en el refrigerador durante una noche, o en bolsa cerrada bajo agua fría corriente 15–20 minutos; escúrrelo y sécalo bien antes de cocinar, porque el calamar húmedo salpica en el aceite caliente. Cocínalo o muy rápido, unos 2 minutos, o guisado 30–45 minutos: el rango intermedio es el que lo vuelve gomoso.",
+    "spoilage": [
+      "Olor agrio, a amoníaco o fuertemente marino: el calamar fresco huele limpio y salino",
+      "Superficie viscosa y pegajosa o carne que se ha vuelto pastosa",
+      "Coloración amarillenta o gris rosada en lugar del blanco translúcido",
+      "Líquido lechoso y espeso en el recipiente, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Cocínalo menos de 2 minutos o más de 30: en medio queda gomoso.",
+      "Sécalo bien antes de freír para que el aceite no salpique.",
+      "La congelación lo ablanda, así que comprarlo congelado es buena opción.",
+      "Marca los tubos en rejilla para que se ricen bonito y se cocinen parejos."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el calamar?", "a": "Sí, y es de los productos del mar que salen ganando: 6–18 meses de buena calidad a −18 °C (0 °F), y la congelación ablanda un poco la carne."},
+      {"q": "¿Cuánto dura el calamar fresco en el refrigerador?", "a": "1–3 días desde el día de compra a 4 °C (40 °F) o menos, lo más frío posible."},
+      {"q": "¿Por qué me queda gomoso el calamar?", "a": "Porque el tiempo de cocción fue intermedio. Séllalo o fríelo en menos de 2 minutos, o guísalo 30–45 minutos hasta que vuelva a estar tierno."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "cooked-fish-all",
+  "en": {
+    "name": "Cooked fish",
+    "aliases": ["leftover fish", "baked fish", "grilled fish", "poached fish"],
+    "summary": "Cooked fish of any kind — baked, grilled, poached or fried — keeps 3–4 days in the fridge at 4 °C (40 °F) or below once it has been cooled, and 1–2 months in the freezer at −18 °C (0 °F). Cooking buys you a few extra days compared with raw fish, but not many.",
+    "pantry": "Cooked fish must not be left at room temperature. Bacteria that survive cooking or land on the fish afterwards grow quickly in the danger zone between 4 °C and 60 °C (40 °F and 140 °F), and fish is a common cause of scombroid poisoning when it warms up. Refrigerate leftovers within 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Cool the fish quickly, then store it in a shallow covered container at 4 °C (40 °F) or below for 3–4 days. A tightly sealed box keeps the smell from spreading through the fridge, which matters more with fish than with almost anything else. Do not add fresh cooked fish to a container of older leftovers.",
+    "freezer": "Cooked fish freezes for 1–2 months of good quality at −18 °C (0 °F), where it stays safe indefinitely; the window is short because cooking has already driven off moisture and started fat oxidation. Portion it, wrap tightly and press out the air, or freeze it in a sauce, which protects the flesh far better than dry wrapping.",
+    "thawing": "Thaw in the fridge overnight and eat cold within the 3–4 day window, or reheat gently until steaming hot, 74 °C (165 °F). Reheat covered with a splash of liquid so the fish does not dry out. Never thaw cooked fish at room temperature or refreeze it after reheating.",
+    "spoilage": [
+      "Sour, ammonia-like or strongly fishy smell when the container is opened",
+      "Slimy or sticky texture on the surface of the flesh",
+      "Grey, yellowing or greenish tinge, or a dried, hard crust",
+      "Mould anywhere on the fish, or an obviously off taste"
+    ],
+    "tips": [
+      "Cool leftovers quickly in a shallow container and refrigerate within 2 hours.",
+      "Store in a tightly sealed box so the fridge does not smell of fish.",
+      "Flake leftovers into fishcakes, salads or pasta rather than reheating whole fillets.",
+      "Freeze in a sauce for far better texture than freezing plain."
+    ],
+    "faq": [
+      {"q": "Can you freeze cooked fish?", "a": "Yes, at −18 °C (0 °F) for 1–2 months of good quality. It is safe indefinitely, but the texture dries out, so freezing it in a sauce works much better."},
+      {"q": "How long does cooked fish last in the fridge?", "a": "3–4 days at 4 °C (40 °F) or below, provided it went into the fridge within 2 hours of cooking."},
+      {"q": "Can you eat cooked fish cold the next day?", "a": "Yes, if it was refrigerated promptly and is within the 3–4 day window. Cold poached salmon and flaked fish in salads are classic uses."}
+    ]
+  },
+  "zh": {
+    "name": "煮熟的魚",
+    "aliases": ["剩下的魚", "烤魚", "煎魚", "水煮魚肉", "熟魚肉"],
+    "summary": "任何煮熟的魚——烤的、煎的、水煮的或炸的——放涼後在 4°C 以下冷藏可放 3～4 天；放 −18°C 冷凍可放 1～2 個月。加熱能爭取到比生魚多幾天的時間，但也就只有幾天。",
+    "pantry": "熟魚不能放室溫。加熱後殘存或之後沾附的細菌，在 4～60°C 的危險溫度帶會快速生長；魚在回溫時也是組織胺（鯖魚中毒）的常見來源。吃剩的要在 2 小時內冷藏（氣溫超過 32°C 時 1 小時）。",
+    "fridge": "先快速降溫，之後放進淺的有蓋容器，在 4°C 以下冷藏 3～4 天。密封良好的盒子可以避免魚味擴散到整個冰箱——這一點對魚比對其他食物都重要。不要把新煮好的魚加進裝著舊剩菜的容器裡。",
+    "freezer": "熟魚放 −18°C 冷凍，品質約 1～2 個月，安全上可以無限期保存；期限短是因為加熱已經逼掉水分、也啟動了油脂氧化。請分裝、包緊、擠出空氣；或者連醬汁一起冷凍，保護效果比乾式包裝好得多。",
+    "thawing": "放冷藏室解凍一晚，在 3～4 天期限內冷食，或加熱到冒蒸氣、中心 74°C。回熱時蓋著並加一點液體，魚才不會乾柴。絕對不要在室溫解凍，加熱過的也不要再冷凍。",
+    "spoilage": [
+      "打開容器聞到酸味、阿摩尼亞味或強烈腥味",
+      "魚肉表面摸起來黏滑",
+      "泛灰、泛黃或帶綠，或表面乾成硬殼",
+      "魚肉上任何地方長黴，或吃起來明顯有異味"
+    ],
+    "tips": [
+      "吃剩的用淺容器快速降溫，2 小時內冷藏。",
+      "裝密封盒，冰箱才不會滿是魚腥味。",
+      "剩下的撥成魚鬆做魚餅、沙拉或義大利麵，比整片再加熱好吃。",
+      "連醬汁一起冷凍，口感遠比乾冷凍好。"
+    ],
+    "faq": [
+      {"q": "熟魚可以冷凍嗎？", "a": "可以，放 −18°C 冷凍 1～2 個月品質較佳。安全上可以無限期保存，但肉質會變乾，連醬汁一起冷凍效果好很多。"},
+      {"q": "熟魚放冰箱可以放多久？", "a": "在 4°C 以下冷藏 3～4 天，前提是煮好後 2 小時內就冰起來。"},
+      {"q": "隔天可以冷著吃嗎？", "a": "只要有及時冷藏、也在 3～4 天期限內就可以。冷的水煮鮭魚或把魚肉撥散拌沙拉都是經典吃法。"}
+    ]
+  },
+  "ja": {
+    "name": "加熱調理した魚",
+    "aliases": ["焼き魚の残り", "煮魚", "ポーチドフィッシュ", "調理済みの魚"],
+    "summary": "焼く・煮る・蒸す・揚げるなど、どのように調理した魚でも、冷ましたあとは4℃以下の冷蔵で3〜4日、−18℃の冷凍で1〜2か月が目安です。加熱によって生よりは数日長くなりますが、大きく延びるわけではありません。",
+    "pantry": "加熱済みの魚を常温に置くことはできません。加熱後に残った菌やあとから付着した菌は4〜60℃の危険温度帯で急速に増えます。魚は温度が上がるとヒスタミン（スコンブロイド中毒）の原因にもなりやすい食品です。残りは2時間以内（気温32℃以上なら1時間以内）に冷蔵してください。",
+    "fridge": "手早く冷まし、浅いふた付き容器に入れて4℃以下で3〜4日保存します。しっかり密閉すると庫内ににおいが広がりません。これは魚ではとくに重要です。作りたての魚を、古い残り物の入った容器に足さないようにしましょう。",
+    "freezer": "加熱した魚は−18℃で1〜2か月が品質の目安（安全面では長期間）です。短いのは、加熱ですでに水分が抜け脂の酸化も始まっているためです。小分けにして密着させて包み空気を抜くか、ソースごと凍らせると、そのまま包むよりずっとよく身を守れます。",
+    "thawing": "冷蔵庫で一晩解凍し、3〜4日の期限内なら冷たいまま食べても構いません。温める場合は湯気が立つ状態（74℃）まで。ふたをして少量の水分を加えると、パサつきを防げます。常温解凍と、温め直したあとの再冷凍は避けてください。",
+    "spoilage": [
+      "容器を開けたときに酸っぱいにおい、アンモニア臭、強い生臭さがする",
+      "身の表面がぬめる・べたつく",
+      "灰色・黄色・緑がかった色になっている、表面が乾いて硬い皮になっている",
+      "どこかにカビがある、明らかに味がおかしい"
+    ],
+    "tips": [
+      "残りは浅い容器で手早く冷まし、2時間以内に冷蔵する。",
+      "密閉容器に入れて、庫内が魚くさくならないようにする。",
+      "切り身をそのまま温め直すより、ほぐしてフィッシュケーキやサラダ、パスタに使う。",
+      "ソースごと冷凍すると、そのまま凍らせるより食感がずっと良い。"
+    ],
+    "faq": [
+      {"q": "加熱した魚は冷凍できますか？", "a": "できます。−18℃で1〜2か月が品質の目安です。安全面では長期間ですが乾きやすいので、ソースごと凍らせるのがおすすめです。"},
+      {"q": "加熱した魚は冷蔵庫で何日もちますか？", "a": "調理後2時間以内に冷蔵していれば、4℃以下で3〜4日です。"},
+      {"q": "翌日に冷たいまま食べても大丈夫ですか？", "a": "すぐ冷蔵していて3〜4日以内なら問題ありません。冷たいポーチドサーモンや、ほぐしてサラダに混ぜる食べ方は定番です。"}
+    ]
+  },
+  "es": {
+    "name": "Pescado cocinado",
+    "aliases": ["pescado sobrante", "pescado al horno", "pescado a la plancha", "pescado escalfado"],
+    "summary": "El pescado cocinado de cualquier tipo —al horno, a la plancha, escalfado o frito— dura 3–4 días en el refrigerador a 4 °C (40 °F) o menos una vez frío, y 1–2 meses en el congelador a −18 °C (0 °F). Cocinarlo gana unos pocos días frente al crudo, pero no muchos.",
+    "pantry": "El pescado cocinado no debe dejarse a temperatura ambiente. Las bacterias que sobreviven a la cocción o llegan después crecen rápido en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F), y el pescado es una causa habitual de intoxicación escombroide cuando se templa. Refrigera las sobras en menos de 2 horas —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Enfría el pescado rápido y guárdalo en un recipiente bajo y tapado a 4 °C (40 °F) o menos durante 3–4 días. Un cierre hermético evita que el olor invada el refrigerador, algo que importa más con el pescado que con casi cualquier otro alimento. No añadas pescado recién cocinado a un recipiente con sobras más antiguas.",
+    "freezer": "El pescado cocinado aguanta 1–2 meses de buena calidad a −18 °C (0 °F), donde se mantiene seguro indefinidamente; el plazo es corto porque la cocción ya le quitó humedad e inició la oxidación de la grasa. Divídelo en porciones, envuélvelo bien sin aire, o congélalo en salsa, que protege la carne mucho mejor que un envoltorio seco.",
+    "thawing": "Descongélalo en el refrigerador durante una noche y cómelo frío dentro de los 3–4 días, o recaliéntalo suavemente hasta que humee, 74 °C (165 °F). Recalienta tapado y con un chorro de líquido para que no se reseque. Nunca lo descongeles a temperatura ambiente ni lo vuelvas a congelar tras recalentarlo.",
+    "spoilage": [
+      "Olor agrio, a amoníaco o intensamente a pescado al abrir el recipiente",
+      "Textura viscosa o pegajosa en la superficie de la carne",
+      "Tono gris, amarillento o verdoso, o costra seca y dura",
+      "Moho en cualquier parte del pescado, o sabor claramente extraño"
+    ],
+    "tips": [
+      "Enfría las sobras rápido en un recipiente bajo y refrigéralas en menos de 2 horas.",
+      "Guárdalo en un recipiente bien cerrado para que el refrigerador no huela a pescado.",
+      "Desmenuza las sobras en tortitas de pescado, ensaladas o pasta en vez de recalentar filetes enteros.",
+      "Congélalo en salsa: la textura resulta mucho mejor que congelado en seco."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el pescado cocinado?", "a": "Sí, a −18 °C (0 °F) durante 1–2 meses de buena calidad. Es seguro indefinidamente, pero se reseca, así que congelarlo en salsa funciona mucho mejor."},
+      {"q": "¿Cuánto dura el pescado cocinado en el refrigerador?", "a": "3–4 días a 4 °C (40 °F) o menos, siempre que se refrigerara dentro de las 2 horas tras cocinarlo."},
+      {"q": "¿Se puede comer frío al día siguiente?", "a": "Sí, si se refrigeró enseguida y está dentro de los 3–4 días. El salmón escalfado frío y el pescado desmenuzado en ensalada son usos clásicos."}
+    ]
+  }
+}
