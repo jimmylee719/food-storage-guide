@@ -2,7 +2,13 @@
   "slug": "goat-tender-whole-cuts",
   "en": {
     "name": "Goat, tender whole cuts (leg, ribs, shoulder, loin)",
-    "aliases": ["goat meat", "chevon", "cabrito", "goat leg", "goat loin chops"],
+    "aliases": [
+      "goat meat",
+      "chevon",
+      "cabrito",
+      "goat leg",
+      "goat loin chops"
+    ],
     "summary": "Goat meat (chevon, or cabrito when young) is lean red meat, and the tender whole cuts are the leg, ribs, shoulder and loin. Raw, they keep 3–5 days in the fridge from purchase and 4–12 months in the freezer for best quality, the same as comparable cuts of lamb. Because it is so lean, goat benefits from careful wrapping before freezing.",
     "pantry": "Raw goat must not be kept at room temperature. Bacteria multiply quickly between 4 and 60 °C (40–140 °F); throw the meat away if it has been out for more than 2 hours, or 1 hour when it is above 32 °C (90 °F). If you buy from a market stall or farm, bring a cool bag and refrigerate as soon as you get home.",
     "fridge": "Keep goat cuts in a sealed container or well-wrapped on the bottom shelf at 4 °C (40 °F) or below, where drips cannot reach other food. They keep 3–5 days from purchase. A whole leg or shoulder takes up room, so make sure cold air can still circulate around it.",
@@ -21,14 +27,30 @@
       "Cook whole cuts to at least 63 °C (145 °F) with a 3-minute rest; slow, moist cooking keeps lean goat tender"
     ],
     "faq": [
-      {"q": "Can you freeze goat meat?", "a": "Yes. Wrap tightly, exclude air and freeze at −18 °C (0 °F). Use within 4–12 months for the best flavour; it stays safe beyond that."},
-      {"q": "How long does raw goat meat last in the fridge?", "a": "Tender whole cuts of goat keep 3–5 days from the date of purchase at 4 °C (40 °F) or below."},
-      {"q": "Does goat meat smell bad when fresh?", "a": "Fresh goat has a mild, slightly gamey smell. A sour, sharp or ammonia odour, slime or grey-green colour means it has spoiled."}
+      {
+        "q": "Can you freeze goat meat?",
+        "a": "Yes. Wrap tightly, exclude air and freeze at −18 °C (0 °F). Use within 4–12 months for the best flavour; it stays safe beyond that."
+      },
+      {
+        "q": "How long does raw goat meat last in the fridge?",
+        "a": "Tender whole cuts of goat keep 3–5 days from the date of purchase at 4 °C (40 °F) or below."
+      },
+      {
+        "q": "Does goat meat smell bad when fresh?",
+        "a": "Fresh goat has a mild, slightly gamey smell. A sour, sharp or ammonia odour, slime or grey-green colour means it has spoiled."
+      }
     ]
   },
   "zh": {
     "name": "羊肉（山羊嫩部位：腿、肋排、肩、里肌）",
-    "aliases": ["山羊肉", "羊腿", "羊肋排", "羊肩肉", "羊里肌", "小羊肉"],
+    "aliases": [
+      "山羊肉",
+      "羊腿",
+      "羊肋排",
+      "羊肩肉",
+      "羊里肌",
+      "小羊肉"
+    ],
     "summary": "山羊肉是脂肪很少的紅肉，嫩部位包括羊腿、肋排、肩肉和里肌，在台灣常見於羊肉爐和帶皮羊肉料理。生的整塊羊肉從購買日起冷藏可放 3～5 天，冷凍 4～12 個月風味最佳，和綿羊肉相同部位一樣。因為油脂少，冷凍前一定要仔細包好。",
     "pantry": "生羊肉不能放在室溫。4～60 °C 之間細菌快速繁殖，放超過 2 小時（氣溫超過 32 °C 則 1 小時）就要丟掉。在傳統市場或牧場購買時帶保冷袋，回家後馬上冷藏。",
     "fridge": "羊肉放密封盒或包好，置於冰箱最下層，溫度維持 4 °C 以下，避免肉汁滴到其他食物。從購買日起可放 3～5 天。整支羊腿或肩肉體積大，要確認冷空氣還能在周圍流通。",
@@ -47,14 +69,29 @@
       "整塊羊肉至少煮到 63 °C 並靜置 3 分鐘；小火慢燉能讓瘦羊肉保持軟嫩"
     ],
     "faq": [
-      {"q": "羊肉可以冷凍嗎？", "a": "可以。包緊、排除空氣後放進 −18 °C 冷凍庫，4～12 個月內風味最好，超過仍然安全。"},
-      {"q": "生羊肉放冰箱可以放多久？", "a": "山羊嫩部位整塊肉在 4 °C 以下冷藏，從購買日起可放 3～5 天。"},
-      {"q": "新鮮羊肉會有味道嗎？", "a": "新鮮羊肉有淡淡的羶味，這是正常的。若出現酸味、刺鼻味或阿摩尼亞味、表面黏滑或灰綠色，就是壞了。"}
+      {
+        "q": "羊肉可以冷凍嗎？",
+        "a": "可以。包緊、排除空氣後放進 −18 °C 冷凍庫，4～12 個月內風味最好，超過仍然安全。"
+      },
+      {
+        "q": "生羊肉放冰箱可以放多久？",
+        "a": "山羊嫩部位整塊肉在 4 °C 以下冷藏，從購買日起可放 3～5 天。"
+      },
+      {
+        "q": "新鮮羊肉會有味道嗎？",
+        "a": "新鮮羊肉有淡淡的羶味，這是正常的。若出現酸味、刺鼻味或阿摩尼亞味、表面黏滑或灰綠色，就是壞了。"
+      }
     ]
   },
   "ja": {
     "name": "ヤギ肉（やわらかい部位：もも・あばら・肩・ロース）",
-    "aliases": ["山羊肉", "ゴートミート", "シェーブル", "ヤギのもも肉", "ヤギのロース"],
+    "aliases": [
+      "山羊肉",
+      "ゴートミート",
+      "シェーブル",
+      "ヤギのもも肉",
+      "ヤギのロース"
+    ],
     "summary": "ヤギ肉は脂肪の少ない赤身肉で、やわらかい部位はもも、あばら、肩、ロースです。生の状態なら購入日から冷蔵で3〜5日、冷凍なら4〜12か月がおいしさの目安で、同じ部位のラム肉と変わりません。脂が少ないぶん、冷凍前の包み方が品質を左右します。",
     "pantry": "生のヤギ肉を常温に置いてはいけません。4〜60 °Cでは細菌が急速に増えるため、室温に2時間以上（気温32 °C以上なら1時間以上）出したままの肉は廃棄してください。直売所や市場で買うときは保冷バッグを持参し、帰宅後すぐに冷蔵しましょう。",
     "fridge": "密閉容器に入れるかしっかり包み、冷蔵室の最下段（チルド室）で4 °C以下に保ちます。肉汁が他の食品にかからない場所を選んでください。購入日から3〜5日が目安です。もも1本や肩のかたまりは場所を取るので、まわりに冷気が回るよう配置します。",
@@ -73,14 +110,29 @@
       "かたまり肉は63 °C以上まで加熱して3分休ませる。弱火でじっくり煮込むと赤身のヤギ肉もやわらかい"
     ],
     "faq": [
-      {"q": "ヤギ肉は冷凍できますか？", "a": "できます。しっかり包んで空気を抜き、−18 °Cで冷凍してください。4〜12か月以内が風味の目安で、それ以降も安全です。"},
-      {"q": "生のヤギ肉は冷蔵庫でどのくらい持ちますか？", "a": "ヤギのやわらかい部位のかたまり肉は、4 °C以下の冷蔵で購入日から3〜5日が目安です。"},
-      {"q": "新鮮なヤギ肉はにおいますか？", "a": "新鮮なヤギ肉は穏やかで少し野性味のある香りがしますが、酸っぱいにおいや刺激臭、アンモニア臭、ぬめり、灰緑色の変色があれば傷んでいます。"}
+      {
+        "q": "ヤギ肉は冷凍できますか？",
+        "a": "できます。しっかり包んで空気を抜き、−18 °Cで冷凍してください。4〜12か月以内が風味の目安で、それ以降も安全です。"
+      },
+      {
+        "q": "生のヤギ肉は冷蔵庫でどのくらい持ちますか？",
+        "a": "ヤギのやわらかい部位のかたまり肉は、4 °C以下の冷蔵で購入日から3〜5日が目安です。"
+      },
+      {
+        "q": "新鮮なヤギ肉はにおいますか？",
+        "a": "新鮮なヤギ肉は穏やかで少し野性味のある香りがしますが、酸っぱいにおいや刺激臭、アンモニア臭、ぬめり、灰緑色の変色があれば傷んでいます。"
+      }
     ]
   },
   "es": {
-    "name": "Carne de cabra, cortes tiernos enteros (pierna, costillas, paletilla, lomo)",
-    "aliases": ["cabrito", "chivo", "carne de chivo", "pierna de cabra", "chuletas de cabra", "cabra"],
+    "name": "Cabra, cortes tiernos enteros",
+    "aliases": [
+      "Carne de cabra, cortes tiernos enteros (pierna, costillas, paletilla, lomo)",
+      "cabrito",
+      "chivo",
+      "carne de chivo",
+      "pierna de cabra"
+    ],
     "summary": "La carne de cabra (cabrito o chivo cuando es joven) es una carne roja magra, y los cortes tiernos enteros son la pierna, las costillas, la paletilla y el lomo. Crudos, se conservan de 3 a 5 días en el refrigerador desde la compra y de 4 a 12 meses en el congelador con la mejor calidad, igual que los cortes equivalentes de cordero. Al ser tan magra, conviene envolverla con cuidado antes de congelar.",
     "pantry": "La carne de cabra cruda no debe guardarse a temperatura ambiente. Las bacterias se multiplican rápido entre 4 y 60 °C (40–140 °F); tira la carne si lleva más de 2 horas fuera, o 1 hora si hace más de 32 °C (90 °F). Si la compras en un mercado o una finca, lleva una bolsa térmica y refrigérala en cuanto llegues a casa.",
     "fridge": "Guarda los cortes en un recipiente cerrado o bien envueltos en el estante inferior a 4 °C (40 °F) o menos, donde los jugos no alcancen otros alimentos. Duran de 3 a 5 días desde la compra. Una pierna o paletilla entera ocupa espacio; asegúrate de que el aire frío siga circulando a su alrededor.",
@@ -99,9 +151,18 @@
       "Cocina las piezas enteras al menos a 63 °C (145 °F) con 3 minutos de reposo; la cocción lenta y húmeda mantiene tierna la carne magra de cabra"
     ],
     "faq": [
-      {"q": "¿Se puede congelar la carne de cabra?", "a": "Sí. Envuélvela bien, saca el aire y congela a −18 °C (0 °F). Úsala en 4 a 12 meses para el mejor sabor; sigue siendo segura después."},
-      {"q": "¿Cuánto dura la carne de cabra cruda en el refrigerador?", "a": "Los cortes tiernos enteros de cabra duran de 3 a 5 días desde la fecha de compra a 4 °C (40 °F) o menos."},
-      {"q": "¿La carne de cabra fresca huele mal?", "a": "La cabra fresca tiene un olor suave, algo silvestre. Un olor agrio, penetrante o a amoníaco, la baba o el color gris verdoso indican que se ha estropeado."}
+      {
+        "q": "¿Se puede congelar la carne de cabra?",
+        "a": "Sí. Envuélvela bien, saca el aire y congela a −18 °C (0 °F). Úsala en 4 a 12 meses para el mejor sabor; sigue siendo segura después."
+      },
+      {
+        "q": "¿Cuánto dura la carne de cabra cruda en el refrigerador?",
+        "a": "Los cortes tiernos enteros de cabra duran de 3 a 5 días desde la fecha de compra a 4 °C (40 °F) o menos."
+      },
+      {
+        "q": "¿La carne de cabra fresca huele mal?",
+        "a": "La cabra fresca tiene un olor suave, algo silvestre. Un olor agrio, penetrante o a amoníaco, la baba o el color gris verdoso indican que se ha estropeado."
+      }
     ]
   }
 }

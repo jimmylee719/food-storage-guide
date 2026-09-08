@@ -2,7 +2,13 @@
   "slug": "goat-less-tender-whole-cuts",
   "en": {
     "name": "Goat, less tender cuts (stew meat, riblets, shanks)",
-    "aliases": ["goat stew meat", "goat shanks", "goat riblets", "curry goat pieces", "bone-in goat chunks"],
+    "aliases": [
+      "goat stew meat",
+      "goat shanks",
+      "goat riblets",
+      "curry goat pieces",
+      "bone-in goat chunks"
+    ],
     "summary": "The less tender cuts of goat, such as stew meat, riblets and shanks, are the hard-working muscles that turn meltingly soft with slow cooking in curries, stews and braises. Raw, they keep 3–5 days in the fridge from purchase and 4–12 months in the freezer for best quality. They are usually sold bone-in and chopped, so the pieces have lots of cut surface to protect.",
     "pantry": "Raw goat should never be left at room temperature. Chopped pieces warm up fast into the 4–60 °C (40–140 °F) danger zone, so discard any that have been out for more than 2 hours, or 1 hour above 32 °C (90 °F). Marinate in the fridge, not on the counter, even for overnight curry marinades.",
     "fridge": "Store the pieces in a sealed container or lidded bowl on the bottom shelf at 4 °C (40 °F) or below. They keep 3–5 days from purchase. Chopped bone-in goat often comes with bone fragments and extra juices, so a container with a tight lid keeps the fridge clean and stops odours spreading.",
@@ -21,14 +27,30 @@
       "Braise or stew gently until fork-tender; long, moist cooking is what these cuts need"
     ],
     "faq": [
-      {"q": "Can you freeze goat stew meat?", "a": "Yes. Bag it in meal-sized portions with the air removed and freeze at −18 °C (0 °F). Best within 4–12 months; safe after that."},
-      {"q": "How long does raw goat meat keep in the fridge?", "a": "Stew meat, riblets and shanks keep 3–5 days from purchase at 4 °C (40 °F) or below."},
-      {"q": "Can you cook goat curry from frozen meat?", "a": "You can add frozen pieces straight to a braise or curry, but allow extra cooking time and make sure the meat is heated through before serving; thawing in the fridge first gives more even results."}
+      {
+        "q": "Can you freeze goat stew meat?",
+        "a": "Yes. Bag it in meal-sized portions with the air removed and freeze at −18 °C (0 °F). Best within 4–12 months; safe after that."
+      },
+      {
+        "q": "How long does raw goat meat keep in the fridge?",
+        "a": "Stew meat, riblets and shanks keep 3–5 days from purchase at 4 °C (40 °F) or below."
+      },
+      {
+        "q": "Can you cook goat curry from frozen meat?",
+        "a": "You can add frozen pieces straight to a braise or curry, but allow extra cooking time and make sure the meat is heated through before serving; thawing in the fridge first gives more even results."
+      }
     ]
   },
   "zh": {
     "name": "羊肉（山羊燉煮部位：肉塊、小肋排、腱子）",
-    "aliases": ["羊肉塊", "羊腱", "羊小排", "燉羊肉", "帶骨羊肉塊", "羊肉爐肉塊"],
+    "aliases": [
+      "羊肉塊",
+      "羊腱",
+      "羊小排",
+      "燉羊肉",
+      "帶骨羊肉塊",
+      "羊肉爐肉塊"
+    ],
     "summary": "山羊肉的燉煮部位包括切塊肉、小肋排和腱子，這些部位筋多、肉質較韌，經過羊肉爐、紅燒或咖哩慢燉後會變得軟爛入味。生的燉煮部位從購買日起冷藏可放 3～5 天，冷凍 4～12 個月風味最佳。通常是帶骨剁塊販售，切面多，包裝要仔細。",
     "pantry": "生羊肉不能放在室溫。剁塊的肉很快就會升溫進入 4～60 °C 的危險溫度帶，放超過 2 小時（氣溫超過 32 °C 則 1 小時）就要丟掉。即使是過夜醃製，也要放在冰箱裡醃，不要放流理台。",
     "fridge": "肉塊放密封盒或有蓋的碗，置於冰箱最下層，溫度維持 4 °C 以下，從購買日起可放 3～5 天。剁塊的帶骨羊肉常有碎骨和血水，用密合的盒子可以保持冰箱乾淨，也不會讓味道擴散。",
@@ -47,14 +69,29 @@
       "小火慢燉到筷子能輕鬆插入為止，這些部位就是需要長時間濕熱烹調"
     ],
     "faq": [
-      {"q": "羊肉塊可以冷凍嗎？", "a": "可以。按一餐的量分裝、壓出空氣後放進 −18 °C 冷凍庫，4～12 個月內品質最好，超過仍然安全。"},
-      {"q": "生羊肉放冰箱可以放多久？", "a": "羊肉塊、小肋排和腱子在 4 °C 以下冷藏，從購買日起可放 3～5 天。"},
-      {"q": "冷凍羊肉可以不解凍直接煮羊肉爐嗎？", "a": "可以直接下鍋燉煮，但要拉長烹調時間並確認肉完全熟透；先在冷藏室退冰會煮得更均勻。"}
+      {
+        "q": "羊肉塊可以冷凍嗎？",
+        "a": "可以。按一餐的量分裝、壓出空氣後放進 −18 °C 冷凍庫，4～12 個月內品質最好，超過仍然安全。"
+      },
+      {
+        "q": "生羊肉放冰箱可以放多久？",
+        "a": "羊肉塊、小肋排和腱子在 4 °C 以下冷藏，從購買日起可放 3～5 天。"
+      },
+      {
+        "q": "冷凍羊肉可以不解凍直接煮羊肉爐嗎？",
+        "a": "可以直接下鍋燉煮，但要拉長烹調時間並確認肉完全熟透；先在冷藏室退冰會煮得更均勻。"
+      }
     ]
   },
   "ja": {
     "name": "ヤギ肉（煮込み用：シチュー用角切り・小さなあばら・すね）",
-    "aliases": ["ヤギ肉の角切り", "ヤギのすね肉", "ヤギのあばら", "煮込み用ヤギ肉", "山羊肉ぶつ切り"],
+    "aliases": [
+      "ヤギ肉の角切り",
+      "ヤギのすね肉",
+      "ヤギのあばら",
+      "煮込み用ヤギ肉",
+      "山羊肉ぶつ切り"
+    ],
     "summary": "ヤギ肉のかための部位、つまりシチュー用の角切り、小さなあばら（リブレット）、すね肉は、よく動く筋肉でカレーやシチュー、煮込みでじっくり火を通すととろけるようにやわらかくなります。生の状態なら購入日から冷蔵で3〜5日、冷凍なら4〜12か月がおいしさの目安です。骨付きのぶつ切りで売られることが多く、切り口が多いので包み方に気をつけましょう。",
     "pantry": "生のヤギ肉を室温に放置してはいけません。ぶつ切りの肉はすぐに温度が上がって4〜60 °Cの危険温度帯に入るため、2時間以上（気温32 °C以上なら1時間以上）出していたものは廃棄してください。カレー用に一晩漬け込む場合も、常温ではなく冷蔵庫の中で行いましょう。",
     "fridge": "密閉容器かふた付きのボウルに入れ、冷蔵室の最下段（チルド室）で4 °C以下に保ちます。購入日から3〜5日が目安です。骨付きのぶつ切りは骨のかけらや肉汁が多いので、ふたがしっかり閉まる容器を使うと冷蔵庫が汚れず、においも広がりません。",
@@ -73,14 +110,29 @@
       "フォークがすっと通るまで弱火でじっくり煮込む。この部位には長時間の湿熱調理が合う"
     ],
     "faq": [
-      {"q": "煮込み用のヤギ肉は冷凍できますか？", "a": "できます。1回分ずつ袋に入れて空気を抜き、−18 °Cで冷凍してください。4〜12か月以内がおすすめで、それ以降も安全です。"},
-      {"q": "生のヤギ肉は冷蔵庫でどのくらい持ちますか？", "a": "シチュー用角切り、小さなあばら、すね肉は、4 °C以下の冷蔵で購入日から3〜5日が目安です。"},
-      {"q": "冷凍したヤギ肉をそのままカレーに使えますか？", "a": "凍ったまま煮込みやカレーに入れることはできますが、加熱時間を長めにとり、中まで十分に火を通してください。冷蔵室で先に解凍したほうが均一に仕上がります。"}
+      {
+        "q": "煮込み用のヤギ肉は冷凍できますか？",
+        "a": "できます。1回分ずつ袋に入れて空気を抜き、−18 °Cで冷凍してください。4〜12か月以内がおすすめで、それ以降も安全です。"
+      },
+      {
+        "q": "生のヤギ肉は冷蔵庫でどのくらい持ちますか？",
+        "a": "シチュー用角切り、小さなあばら、すね肉は、4 °C以下の冷蔵で購入日から3〜5日が目安です。"
+      },
+      {
+        "q": "冷凍したヤギ肉をそのままカレーに使えますか？",
+        "a": "凍ったまま煮込みやカレーに入れることはできますが、加熱時間を長めにとり、中まで十分に火を通してください。冷蔵室で先に解凍したほうが均一に仕上がります。"
+      }
     ]
   },
   "es": {
-    "name": "Carne de cabra, cortes para guisar (trozos, costillitas, jarretes)",
-    "aliases": ["cabra para guiso", "chivo en trozos", "jarrete de cabra", "costillitas de cabra", "cabra troceada con hueso", "carne de chivo para estofado"],
+    "name": "Cabra, cortes para guisar",
+    "aliases": [
+      "Carne de cabra, cortes para guisar (trozos, costillitas, jarretes)",
+      "cabra para guiso",
+      "chivo en trozos",
+      "jarrete de cabra",
+      "costillitas de cabra"
+    ],
     "summary": "Los cortes menos tiernos de la cabra, como los trozos para guiso, las costillitas y los jarretes, son músculos muy trabajados que se deshacen tras una cocción lenta en curris, estofados y guisos. Crudos, se conservan de 3 a 5 días en el refrigerador desde la compra y de 4 a 12 meses en el congelador con la mejor calidad. Suelen venderse con hueso y troceados, así que tienen mucha superficie cortada que proteger.",
     "pantry": "La carne de cabra cruda nunca debe quedarse a temperatura ambiente. Los trozos se calientan rápido hasta la zona de peligro de 4 a 60 °C (40–140 °F); desecha los que lleven más de 2 horas fuera, o 1 hora si hace más de 32 °C (90 °F). Marina en el refrigerador, no en la encimera, incluso para los adobos de toda la noche.",
     "fridge": "Guarda los trozos en un recipiente cerrado o un bol con tapa en el estante inferior a 4 °C (40 °F) o menos. Duran de 3 a 5 días desde la compra. La cabra troceada con hueso suele traer astillas y bastante jugo, así que un recipiente con tapa hermética mantiene limpio el refrigerador y evita que se extiendan los olores.",
@@ -99,9 +151,18 @@
       "Guisa o estofa a fuego suave hasta que la carne se deshaga con el tenedor; estos cortes necesitan cocción larga y húmeda"
     ],
     "faq": [
-      {"q": "¿Se puede congelar la carne de cabra para guiso?", "a": "Sí. Embólsala en porciones para una comida sin aire y congela a −18 °C (0 °F). Mejor en 4 a 12 meses; segura después."},
-      {"q": "¿Cuánto dura la carne de cabra cruda en el refrigerador?", "a": "Los trozos para guiso, las costillitas y los jarretes duran de 3 a 5 días desde la compra a 4 °C (40 °F) o menos."},
-      {"q": "¿Se puede hacer un guiso de cabra con la carne congelada?", "a": "Puedes añadir los trozos congelados directamente al guiso o al curri, pero alarga la cocción y comprueba que la carne esté bien caliente por dentro; descongelar antes en el refrigerador da resultados más uniformes."}
+      {
+        "q": "¿Se puede congelar la carne de cabra para guiso?",
+        "a": "Sí. Embólsala en porciones para una comida sin aire y congela a −18 °C (0 °F). Mejor en 4 a 12 meses; segura después."
+      },
+      {
+        "q": "¿Cuánto dura la carne de cabra cruda en el refrigerador?",
+        "a": "Los trozos para guiso, las costillitas y los jarretes duran de 3 a 5 días desde la compra a 4 °C (40 °F) o menos."
+      },
+      {
+        "q": "¿Se puede hacer un guiso de cabra con la carne congelada?",
+        "a": "Puedes añadir los trozos congelados directamente al guiso o al curri, pero alarga la cocción y comprueba que la carne esté bien caliente por dentro; descongelar antes en el refrigerador da resultados más uniformes."
+      }
     ]
   }
 }

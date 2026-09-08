@@ -1,0 +1,107 @@
+{
+  "slug": "cornmeal-regular-degerminated",
+  "en": {
+    "name": "Cornmeal (regular, degerminated)",
+    "aliases": ["degerminated cornmeal", "polenta meal", "corn grits", "maize meal", "yellow cornmeal"],
+    "summary": "Degerminated cornmeal has had the oily germ removed, which is why it keeps far longer than stone-ground meal. Unopened it stays good 6–12 months from the date of purchase in a cool, dry cupboard, and about 2 years in the pantry once opened and kept airtight. Refrigerated after opening it keeps about 1 year.",
+    "pantry": "A cool, dry cupboard away from the stove is all that degerminated cornmeal needs: 6–12 months from purchase unopened, and up to about 2 years once opened if it is kept in an airtight container. Cornmeal is a favourite of pantry moths and weevils, so decant it out of the paper bag into a sealed jar as soon as you get home.",
+    "fridge": "Refrigeration is optional but useful in a humid climate: in an airtight container at 4 °C (40 °F) or below, opened cornmeal keeps about 1 year and insects cannot get in. Make sure the container is genuinely airtight so the meal does not absorb fridge odours, and let it come to room temperature before opening to avoid condensation.",
+    "freezer": "USDA gives no freezer timeline for degerminated cornmeal, and it does not need one — the pantry and fridge windows are already long. A sealed bag in the freezer for 48 hours is still a good way to kill any insect eggs in a newly bought bag before you store it.",
+    "thawing": null,
+    "spoilage": [
+      "Musty, sour or rancid smell when the jar is opened",
+      "Webbing, larvae, moths or small weevils in the meal",
+      "Clumps or a damp, caked texture",
+      "Grey or greenish discolouration, or visible mould"
+    ],
+    "tips": [
+      "Freeze a new bag for 48 hours to kill insect eggs, then store it airtight in the pantry",
+      "Decant into a wide glass jar so you can see any insect activity early",
+      "Label the jar with the opening date to track the storage window",
+      "Buy smaller bags if you only bake cornbread occasionally"
+    ],
+    "faq": [
+      {"q": "How long does cornmeal last?", "a": "Unopened, 6–12 months from purchase in a cool, dry pantry. Once opened and kept airtight, about 2 years in the pantry or about 1 year refrigerated."},
+      {"q": "How can you tell if cornmeal has gone bad?", "a": "Smell it: musty or rancid means discard. Also check for webbing, larvae, clumping or mould, all of which mean the bag should go."},
+      {"q": "Does cornmeal need to be refrigerated?", "a": "Not necessarily, but refrigeration in an airtight container keeps it about 1 year after opening and protects it from pantry insects in humid weather."}
+    ]
+  },
+  "zh": {
+    "name": "玉米粉（去胚芽）",
+    "aliases": ["粗玉米粉", "玉米碎", "polenta 粉", "去胚玉米粉", "黃玉米粉"],
+    "summary": "去胚芽玉米粉已經去掉含油的胚芽，所以比石臼研磨的玉米粉耐放很多。未開封放在陰涼乾燥的櫥櫃，從購買日起可放 6～12 個月；開封後密封常溫大約可放 2 年。開封後改放冷藏則約可放 1 年。",
+    "pantry": "去胚芽玉米粉只需要一個遠離爐火的陰涼乾燥櫥櫃：未開封從購買日起 6～12 個月，開封後只要密封保存，最長約 2 年。玉米粉是穀蛾和米象最愛的目標，買回家後請立刻從紙袋倒進密封罐。",
+    "fridge": "冷藏不是必要的，但在潮濕的氣候很有用：用密封罐放在 4°C 以下，開封後大約可放 1 年，而且蟲子進不去。容器一定要真的密封，避免吸到冰箱異味，取出後也要回到室溫再開蓋，以免結露。",
+    "freezer": "USDA 沒有提供去胚芽玉米粉的冷凍期限，實際上也不需要，因為常溫和冷藏的期限已經夠長。不過剛買回來時先密封冷凍 48 小時，仍然是殺死蟲卵的好方法。",
+    "thawing": null,
+    "spoilage": [
+      "打開罐子有霉味、酸味或油耗味",
+      "粉裡出現蛛絲狀物、幼蟲、蛾或小型米象",
+      "結塊，或摸起來潮濕、結成硬餅",
+      "顏色轉灰或偏綠，或看得到黴斑"
+    ],
+    "tips": [
+      "新買的整包先冷凍 48 小時殺蟲卵，再密封放常溫櫥櫃",
+      "裝在透明廣口玻璃罐，方便及早發現蟲跡",
+      "罐子上寫開封日期，方便追蹤保存期限",
+      "如果只是偶爾做玉米麵包，買小包裝就好"
+    ],
+    "faq": [
+      {"q": "玉米粉可以放多久？", "a": "未開封放陰涼乾燥處，從購買日起 6～12 個月。開封後密封保存，常溫約 2 年、冷藏約 1 年。"},
+      {"q": "怎麼判斷玉米粉壞了？", "a": "先聞味道，有霉味或油耗味就丟掉。也要檢查有沒有蛛絲、幼蟲、結塊或黴斑，只要有就整包處理掉。"},
+      {"q": "玉米粉需要冷藏嗎？", "a": "不一定，但用密封罐冷藏可以讓開封後保存約 1 年，在潮濕季節還能防蟲。"}
+    ]
+  },
+  "ja": {
+    "name": "コーンミール（精製・胚芽除去）",
+    "aliases": ["コーンミール", "とうもろこし粉", "ポレンタ用粉", "コーングリッツ"],
+    "summary": "胚芽を取り除いたコーンミールは油分の多い部分がないため、石臼挽きのものよりずっと日持ちします。未開封なら涼しく乾燥した場所で購入日から6〜12か月、開封後は密閉して常温で約2年が目安です。開封後に冷蔵する場合は約1年保存できます。",
+    "pantry": "コンロから離れた涼しく乾燥した戸棚があれば十分です。未開封は購入日から6〜12か月、開封後は密閉容器で最長約2年。コーンミールは穀物害虫（ノシメマダラメイガやコクゾウムシ）に狙われやすいので、買ってきたらすぐ紙袋から密閉瓶に移しましょう。",
+    "fridge": "冷蔵は必須ではありませんが、湿度の高い地域では有効です。密閉容器に入れて4℃以下で保存すれば、開封後約1年持ち、虫も入りません。においが移らないよう本当に密閉できる容器を使い、結露を避けるため開ける前に室温へ戻してください。",
+    "freezer": "USDAは精製コーンミールの冷凍期間を示しておらず、常温・冷蔵の期間が十分長いため必要もありません。ただし買ってきた袋を密封して48時間冷凍しておくと、卵の状態の害虫を退治できます。",
+    "thawing": null,
+    "spoilage": [
+      "瓶を開けたときのカビ臭、酸っぱいにおい、古い油のにおい",
+      "クモの巣状のもの、幼虫、蛾、小さな甲虫がいる",
+      "固まっている、湿ってケーキ状になっている",
+      "灰色や緑がかった変色、目に見えるカビ"
+    ],
+    "tips": [
+      "新品は袋ごと48時間冷凍して虫の卵を退治してから常温保存に",
+      "口の広い透明瓶に入れると虫の発生に早く気づけます",
+      "瓶に開封日を書いて保存期間を管理しましょう",
+      "コーンブレッドをたまにしか焼かないなら小袋を選びましょう"
+    ],
+    "faq": [
+      {"q": "コーンミールはどのくらい日持ちしますか？", "a": "未開封は涼しく乾燥した場所で購入日から6〜12か月。開封後は密閉して常温で約2年、冷蔵で約1年です。"},
+      {"q": "コーンミールが傷んだか見分けるには？", "a": "まずにおいを確認し、カビ臭や古い油のにおいがあれば処分を。クモの巣状のもの、幼虫、固まり、カビがあれば袋ごと捨ててください。"},
+      {"q": "コーンミールは冷蔵が必要ですか？", "a": "必須ではありませんが、密閉容器で冷蔵すれば開封後約1年持ち、湿気の多い季節の防虫にもなります。"}
+    ]
+  },
+  "es": {
+    "name": "Harina de maíz degerminada",
+    "aliases": ["harina de maíz", "polenta", "sémola de maíz", "harina de maíz amarilla"],
+    "summary": "La harina de maíz degerminada ha perdido el germen graso, y por eso dura mucho más que la molida a la piedra. Sin abrir se conserva 6–12 meses desde la compra en un armario fresco y seco, y hasta unos 2 años en la despensa una vez abierta y bien cerrada. Refrigerada tras abrirla dura alrededor de 1 año.",
+    "pantry": "Solo necesita un armario fresco y seco lejos de los fogones: 6–12 meses desde la compra sin abrir y hasta unos 2 años abierta si la guardas en un recipiente hermético. Es un imán para las polillas y los gorgojos de la despensa, así que pásala de la bolsa de papel a un tarro cerrado nada más llegar a casa.",
+    "fridge": "Refrigerar es opcional pero útil en climas húmedos: en un recipiente hermético a 4 °C (40 °F) o menos, la harina abierta dura alrededor de 1 año y los insectos no pueden entrar. Asegúrate de que el cierre sea realmente hermético para que no absorba olores, y déjala atemperar antes de abrirla para evitar condensación.",
+    "freezer": "El USDA no da un plazo de congelación para la harina degerminada, y tampoco hace falta: los plazos de despensa y nevera ya son largos. Aun así, congelar la bolsa cerrada 48 horas al comprarla es una buena forma de eliminar huevos de insecto antes de guardarla.",
+    "thawing": null,
+    "spoilage": [
+      "Olor a humedad, agrio o rancio al abrir el tarro",
+      "Telarañas, larvas, polillas o pequeños gorgojos en la harina",
+      "Grumos o textura húmeda y apelmazada",
+      "Coloración gris o verdosa, o moho visible"
+    ],
+    "tips": [
+      "Congela la bolsa nueva 48 horas para matar huevos de insecto y luego guárdala hermética",
+      "Usa un tarro de vidrio ancho para detectar pronto cualquier actividad de insectos",
+      "Anota la fecha de apertura en el tarro para controlar el plazo",
+      "Compra bolsas pequeñas si solo horneas pan de maíz de vez en cuando"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la harina de maíz?", "a": "Sin abrir, 6–12 meses desde la compra en despensa fresca y seca. Abierta y bien cerrada, unos 2 años en despensa o alrededor de 1 año en nevera."},
+      {"q": "¿Cómo saber si la harina de maíz está mala?", "a": "Huélela: si tiene olor a humedad o rancio, deséchala. Revisa también telarañas, larvas, grumos o moho; cualquiera de ellos obliga a tirar la bolsa."},
+      {"q": "¿La harina de maíz necesita refrigeración?", "a": "No necesariamente, pero en un recipiente hermético en la nevera dura alrededor de 1 año tras abrirla y queda protegida de los insectos en épocas húmedas."}
+    ]
+  }
+}

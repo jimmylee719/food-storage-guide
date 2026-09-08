@@ -1,0 +1,107 @@
+{
+  "slug": "cream-heavy",
+  "en": {
+    "name": "Heavy cream",
+    "aliases": ["heavy whipping cream", "double cream", "thick cream", "36% cream"],
+    "summary": "Heavy cream is the high-fat cream — around 36 % butterfat — that whips into stiff peaks and enriches sauces without splitting. Refrigerated at 4 °C (40 °F) or below it keeps about 10 days from the day you buy it, and it holds good quality for 3–4 months in the freezer.",
+    "pantry": "Heavy cream is perishable and must stay chilled. Its fat content does not protect it: in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) bacteria multiply and the cream sours, so anything left out longer than 2 hours — 1 hour above 32 °C (90 °F) — should be discarded. Take it out only for the minutes you need it, and put the carton straight back.",
+    "fridge": "Store the carton upright on a cold inside shelf at 4 °C (40 °F) or below, away from the door. Expect about 10 days from purchase; the printed date is a guide, but the clock effectively starts when you bring it home. Reseal the spout tightly, never pour leftovers back from a jug, and keep it away from onions, garlic and cut melon, which cream absorbs readily.",
+    "freezer": "Heavy cream freezes better than lighter creams because of its fat content, though it still separates a little. Pour it into an ice-cube tray or a rigid container, leaving headspace for expansion, and store at −18 °C (0 °F) for 3–4 months of good quality; it stays safe indefinitely at that temperature. Thawed cream is best for cooking; whipping results are unreliable.",
+    "thawing": "Thaw in the fridge overnight and whisk or blend well to bring the fat and liquid back together before adding it to a sauce, soup or bake. Do not thaw cream on the counter or in warm water.",
+    "spoilage": [
+      "Sour or unpleasantly sharp smell on opening",
+      "Lumps or curd flecks that appear when poured, or a layer that will not stir back in",
+      "Thick, gluey or stringy consistency instead of a smooth pour",
+      "A swollen carton or yellow, grey or pink discolouration"
+    ],
+    "tips": [
+      "Chill the bowl and beaters before whipping, and stop as soon as firm peaks form.",
+      "Write the purchase date on the carton to track the 10-day window.",
+      "Freeze surplus cream in cubes so you can drop one into a pan sauce any time.",
+      "Add a splash of cream to a pan off the heat to avoid splitting a hot sauce."
+    ],
+    "faq": [
+      {"q": "Can you freeze heavy cream?", "a": "Yes, at −18 °C (0 °F) for 3–4 months. It separates slightly, so use thawed cream in cooking; it may not whip properly afterwards."},
+      {"q": "How long does heavy cream last in the fridge?", "a": "About 10 days from the day of purchase at 4 °C (40 °F) or below, less once it has been opened and repeatedly poured."},
+      {"q": "How can you tell if heavy cream has gone bad?", "a": "Smell it first: sour or sharp means throw it out. Lumps when pouring, a gluey texture or a swollen carton are also clear signs."}
+    ]
+  },
+  "zh": {
+    "name": "高脂鮮奶油",
+    "aliases": ["重奶油", "動物性鮮奶油", "double cream", "36% 鮮奶油", "厚奶油"],
+    "summary": "高脂鮮奶油（heavy cream）乳脂約 36%，可以打出硬性發泡，加進醬汁也不容易油水分離。放在 4°C 以下冷藏，從購買日起約可放 10 天；冷凍則以 3～4 個月內品質最佳。",
+    "pantry": "高脂鮮奶油容易腐敗，必須全程冷藏。脂肪含量高並不能保護它：在 4～60°C 的危險溫度帶細菌一樣會繁殖、奶油會變酸，室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就該丟棄。要用時才拿出來，用完馬上放回冰箱。",
+    "fridge": "紙盒直立放在冰箱內層冷的位置，維持 4°C 以下，不要放門邊。從購買日起大約 10 天；標示日期只是參考，實際上買回家那天就開始倒數。每次用完把開口封緊，奶盅裡剩的不要倒回去；鮮奶油很會吸味，請遠離洋蔥、大蒜和切開的瓜果。",
+    "freezer": "因為脂肪含量高，高脂鮮奶油比低脂鮮奶油更適合冷凍，不過還是會稍微分離。倒進製冰盒或硬質容器（預留膨脹空間），放 −18°C 冷凍，品質以 3～4 個月為佳；在該溫度下安全上可以無限期保存。解凍後最適合入菜，能不能打發則不一定。",
+    "thawing": "放冷藏室退冰一晚，充分攪打或用調理機打勻讓油水重新結合，再加入醬汁、湯品或烘焙。不要放室溫或泡溫水解凍。",
+    "spoilage": [
+      "打開時聞到酸味或刺鼻的異味",
+      "倒出時出現顆粒、凝乳碎屑，或分層後攪不回去",
+      "質地變濃稠、黏糊或牽絲，倒不順",
+      "紙盒鼓起，或顏色泛黃、發灰、帶粉紅"
+    ],
+    "tips": [
+      "打發前先冰鋼盆和攪拌器，打到硬性發泡就立刻停手。",
+      "在紙盒寫上購買日期，方便掌握 10 天期限。",
+      "多的鮮奶油做成冷凍奶塊，隨時可以丟一顆進鍋做醬汁。",
+      "做熱醬汁時先離火再加鮮奶油，比較不會油水分離。"
+    ],
+    "faq": [
+      {"q": "高脂鮮奶油可以冷凍嗎？", "a": "可以，放 −18°C 冷凍 3～4 個月。解凍後會稍微分離，建議用在烹調；打發效果不一定理想。"},
+      {"q": "高脂鮮奶油放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起約 10 天；開封後反覆取用的話會更短。"},
+      {"q": "高脂鮮奶油壞掉怎麼看？", "a": "先聞味道，有酸味或刺鼻味就丟掉。倒出來有顆粒、質地黏糊、紙盒鼓起也都是明顯訊號。"}
+    ]
+  },
+  "ja": {
+    "name": "生クリーム（乳脂肪36%前後）",
+    "aliases": ["純生クリーム", "ヘビークリーム", "高脂肪クリーム", "ダブルクリーム"],
+    "summary": "乳脂肪36%前後の高脂肪の生クリームは、しっかり角が立つまで泡立てられ、ソースに加えても分離しにくいのが特徴です。4℃以下の冷蔵で購入日から約10日、冷凍なら3〜4か月が品質の目安になります。",
+    "pantry": "高脂肪の生クリームも傷みやすく、常に冷蔵が必要です。脂肪が多いから安全ということはなく、4〜60℃の危険温度帯では細菌が増えて酸敗します。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。使う数分だけ出し、すぐパックを戻す習慣を。",
+    "fridge": "パックは立てたまま、ドアポケットを避けて庫内のよく冷える棚に置き、4℃以下を保ちます。購入日から約10日が目安で、表示期限は参考、実際のカウントは持ち帰った日から始まると考えましょう。注ぎ口はしっかり閉じ、ピッチャーの残りは戻さないこと。玉ねぎやにんにく、カットしたメロンのにおいを吸いやすいので離して保管します。",
+    "freezer": "脂肪分が多いぶん低脂肪のクリームより冷凍向きですが、それでも多少は分離します。製氷皿か、膨張分の余裕をとった密閉容器に入れ、−18℃で3〜4か月を目安に保存してください（−18℃なら安全面では長期間保ちます）。解凍後は加熱調理向きで、ホイップは安定しないことがあります。",
+    "thawing": "冷蔵庫で一晩解凍し、泡立て器やミキサーでよく混ぜて脂肪と水分をなじませてから、ソースやスープ、焼き菓子に使います。常温やぬるま湯での解凍は避けてください。",
+    "spoilage": [
+      "開封時に酸っぱいにおいやつんとした異臭がする",
+      "注ぐとぶつぶつしたかたまりが出る、分離が混ぜても戻らない",
+      "のり状・糸を引くような重い質地になっている",
+      "パックが膨らんでいる、黄・灰・ピンクに変色している"
+    ],
+    "tips": [
+      "泡立てる前にボウルと泡立て器を冷やし、角が立ったらすぐ止める。",
+      "パックに購入日を書いて10日の期限を管理する。",
+      "余りはキューブ状に冷凍しておくと、フライパンのソースにすぐ足せる。",
+      "熱いソースに加えるときは火を止めてから入れると分離しにくい。"
+    ],
+    "faq": [
+      {"q": "生クリームは冷凍できますか？", "a": "−18℃で3〜4か月冷凍できます。わずかに分離するため加熱調理向きで、解凍後のホイップはうまくいかないことがあります。"},
+      {"q": "生クリームは冷蔵庫で何日もちますか？", "a": "4℃以下で購入日からおよそ10日です。開封して何度も注いだ場合はそれより短くなります。"},
+      {"q": "生クリームが傷んでいるかどうかの見分け方は？", "a": "まずにおいを確認し、酸っぱい・つんとするなら処分します。注いだときのかたまり、のり状の質地、パックのふくらみも明らかなサインです。"}
+    ]
+  },
+  "es": {
+    "name": "Crema para batir alta en grasa",
+    "aliases": ["nata para montar", "crema espesa", "crema doble", "nata 36%"],
+    "summary": "La crema alta en grasa —alrededor del 36 % de materia grasa— es la que monta en picos firmes y enriquece salsas sin cortarse. Refrigerada a 4 °C (40 °F) o menos dura unos 10 días desde el día de compra y conserva buena calidad 3–4 meses en el congelador.",
+    "pantry": "Es un producto perecedero que debe permanecer en frío. La grasa no la protege: en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F) las bacterias se multiplican y la crema se agria, así que lo que pase más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)— hay que desecharlo. Sácala solo los minutos que la necesites y devuelve el envase enseguida.",
+    "fridge": "Guarda el envase de pie en un estante interior frío a 4 °C (40 °F) o menos, lejos de la puerta. Cuenta con unos 10 días desde la compra; la fecha impresa orienta, pero el reloj real empieza al llegar a casa. Cierra bien el pico, no devuelvas al envase lo que quedó en una jarra y mantenla lejos de cebolla, ajo o melón cortado, cuyos olores absorbe con facilidad.",
+    "freezer": "Se congela mejor que las cremas ligeras gracias a su grasa, aunque igualmente se separa un poco. Viértela en cubitera o en un recipiente rígido dejando espacio para la expansión y guárdala a −18 °C (0 °F) durante 3–4 meses de buena calidad; se mantiene segura indefinidamente a esa temperatura. Descongelada rinde bien en cocina, pero montarla es incierto.",
+    "thawing": "Descongélala en el refrigerador durante una noche y bátela o pásala por la batidora para reintegrar grasa y líquido antes de añadirla a una salsa, sopa u horneado. No la descongeles sobre la encimera ni en agua tibia.",
+    "spoilage": [
+      "Olor agrio o desagradablemente punzante al abrir",
+      "Grumos o copos al servir, o una capa que no se reincorpora al remover",
+      "Consistencia espesa, pegajosa o filante en lugar de fluida",
+      "Envase hinchado o coloración amarilla, gris o rosada"
+    ],
+    "tips": [
+      "Enfría el bol y las varillas antes de montar y detente en cuanto formen picos firmes.",
+      "Anota la fecha de compra en el envase para controlar los 10 días.",
+      "Congela el excedente en cubitos y añade uno a una salsa cuando lo necesites.",
+      "Añade la crema a la sartén fuera del fuego para que la salsa caliente no se corte."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la crema alta en grasa?", "a": "Sí, a −18 °C (0 °F) durante 3–4 meses. Se separa un poco, así que úsala descongelada para cocinar; puede no montar bien después."},
+      {"q": "¿Cuánto dura la crema espesa en el refrigerador?", "a": "Alrededor de 10 días desde el día de compra a 4 °C (40 °F) o menos, y menos si se ha abierto y servido varias veces."},
+      {"q": "¿Cómo saber si la crema está mala?", "a": "Huélela primero: agria o punzante significa tirarla. Los grumos al servir, la textura pegajosa o el envase hinchado también son señales claras."}
+    ]
+  }
+}

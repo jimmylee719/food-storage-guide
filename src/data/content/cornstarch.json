@@ -1,0 +1,107 @@
+{
+  "slug": "cornstarch",
+  "en": {
+    "name": "Cornstarch",
+    "aliases": ["corn flour", "cornflour", "maize starch", "corn starch"],
+    "summary": "Cornstarch is pure starch extracted from corn, used to thicken sauces and to lighten batters. It contains almost no fat or protein, so it keeps for a very long time: 18–24 months from the date of purchase unopened, and about 18 months once opened, as long as it stays dry. Moisture, not age, is what ruins it.",
+    "pantry": "Store cornstarch in a cool, dry cupboard away from the stove, kettle and sink; unopened it keeps 18–24 months from purchase and about 18 months after opening. Transfer the box contents into an airtight jar, because cardboard lets humidity in and cornstarch cakes into hard lumps. Always use a completely dry spoon.",
+    "fridge": "Refrigeration is not needed and is best avoided. Cold cornstarch attracts condensation the moment the container is opened, and damp starch clumps permanently. A sealed jar in a dry cupboard is far better than the fridge.",
+    "freezer": "There is no benefit to freezing cornstarch. It is already shelf stable for well over a year, and freezing only introduces the risk of moisture damage when the container warms up.",
+    "thawing": null,
+    "spoilage": [
+      "Hard lumps or a solid cake that will not break up with a spoon",
+      "Musty or sour smell instead of a neutral, chalky one",
+      "Grey or yellowish discolouration, or visible mould specks",
+      "Insects, larvae or webbing in the container"
+    ],
+    "tips": [
+      "Decant into an airtight glass jar and label it with the opening date",
+      "Always mix cornstarch with cold liquid before adding it to a hot pan",
+      "Keep the jar well away from the rice cooker and kettle steam",
+      "Do not confuse it with baking powder — cornstarch has no raising power"
+    ],
+    "faq": [
+      {"q": "Does cornstarch go bad?", "a": "Very slowly. Kept dry it lasts 18–24 months from purchase unopened and about 18 months after opening. Damp, clumped or mouldy cornstarch should be thrown out."},
+      {"q": "Can you use cornstarch past its date?", "a": "If it is dry, loose and smells neutral, it usually still thickens perfectly well. Discard it if there are hard lumps, a musty smell or any sign of insects."},
+      {"q": "Does cornstarch need to be refrigerated?", "a": "No. The fridge causes condensation that clumps the powder. Keep it sealed in a cool, dry cupboard instead."}
+    ]
+  },
+  "zh": {
+    "name": "玉米澱粉",
+    "aliases": ["玉米粉", "太白粉（玉米）", "粟粉", "生粉", "cornstarch"],
+    "summary": "玉米澱粉是從玉米萃取出的純澱粉，用來勾芡醬汁或讓麵糊更酥脆。它幾乎不含油脂和蛋白質，所以非常耐放：未開封從購買日起可放 18～24 個月，開封後約 18 個月，前提是保持乾燥。毀掉它的通常是水氣，而不是時間。",
+    "pantry": "把玉米澱粉放在陰涼乾燥的櫥櫃，遠離爐火、熱水瓶和水槽；未開封從購買日起可放 18～24 個月，開封後約 18 個月。建議把紙盒裡的粉倒進密封玻璃罐，因為紙盒擋不住濕氣，受潮的澱粉會結成硬塊。取用時務必用完全乾燥的湯匙。",
+    "fridge": "不需要冷藏，也最好避免。冰過的澱粉一打開容器就會吸附冷凝水氣，受潮後會永久結塊。密封罐放在乾燥櫥櫃遠比放冰箱好。",
+    "freezer": "冷凍玉米澱粉沒有任何好處。它本來就可以常溫保存一年多，冷凍只會在回溫時帶來受潮的風險。",
+    "thawing": null,
+    "spoilage": [
+      "結成硬塊或整片硬化，用湯匙也撥不開",
+      "有霉味或酸味，而不是原本無味帶粉感的氣味",
+      "顏色變灰或偏黃，或看得到黴點",
+      "容器內出現昆蟲、幼蟲或蛛絲狀物"
+    ],
+    "tips": [
+      "分裝進密封玻璃罐，並標上開封日期",
+      "勾芡前一定要先用冷水調勻，再倒入熱鍋",
+      "罐子要遠離電鍋和熱水瓶的蒸氣",
+      "不要和泡打粉混用，玉米澱粉完全沒有膨脹作用"
+    ],
+    "faq": [
+      {"q": "玉米澱粉會壞掉嗎？", "a": "壞得很慢。保持乾燥的話，未開封從購買日起 18～24 個月，開封後約 18 個月。受潮結塊或發霉就要丟掉。"},
+      {"q": "過期的玉米澱粉還能用嗎？", "a": "只要是乾鬆的、聞起來沒有異味，通常勾芡效果依然正常。有硬塊、霉味或蟲跡就丟掉。"},
+      {"q": "玉米澱粉需要冷藏嗎？", "a": "不需要。冰箱會凝結水氣讓粉結塊，密封放在陰涼乾燥的櫥櫃就好。"}
+    ]
+  },
+  "ja": {
+    "name": "コーンスターチ",
+    "aliases": ["コーンスターチ", "とうもろこしでん粉", "コーン澱粉"],
+    "summary": "コーンスターチはとうもろこしから取り出した純粋なでん粉で、ソースのとろみづけや衣を軽くするのに使います。脂質やたんぱく質をほぼ含まないので非常に日持ちし、未開封は購入日から18〜24か月、開封後は約18か月が目安です。ただし乾燥を保つことが前提で、劣化の原因は年月より湿気です。",
+    "pantry": "コンロ、電気ポット、シンクから離れた涼しく乾燥した戸棚で保存します。未開封は購入日から18〜24か月、開封後は約18か月。紙箱は湿気を通し、湿ったでん粉は固いかたまりになるので、密閉瓶に移し替えましょう。計量には必ず完全に乾いたスプーンを使ってください。",
+    "fridge": "冷蔵は不要で、避けたほうが賢明です。冷えたコーンスターチは容器を開けた瞬間に結露を呼び、湿ったでん粉は元に戻らない固まりになります。乾いた戸棚の密閉瓶のほうがずっと安全です。",
+    "freezer": "コーンスターチを冷凍する利点はありません。もともと1年以上常温保存できますし、冷凍は戻すときに湿気で傷むリスクを増やすだけです。",
+    "thawing": null,
+    "spoilage": [
+      "スプーンでほぐせない固まりや、板状に固まっている",
+      "無臭に近いはずなのにカビ臭や酸っぱいにおいがする",
+      "灰色や黄ばんだ変色、カビの斑点",
+      "容器内に虫、幼虫、クモの巣状のもの"
+    ],
+    "tips": [
+      "密閉ガラス瓶に移し、開封日を書いておきましょう",
+      "とろみづけは必ず冷たい水で溶いてから熱い鍋へ",
+      "炊飯器や電気ポットの湯気から離して保管を",
+      "ベーキングパウダーとは別物です。コーンスターチに膨らませる力はありません"
+    ],
+    "faq": [
+      {"q": "コーンスターチは劣化しますか？", "a": "非常にゆっくりです。乾燥を保てば未開封で購入日から18〜24か月、開封後約18か月。湿って固まったりカビが出たら処分してください。"},
+      {"q": "賞味期限が切れたコーンスターチは使えますか？", "a": "さらさらでにおいが正常なら、たいていとろみづけに問題なく使えます。固まり、カビ臭、虫の形跡があれば処分を。"},
+      {"q": "コーンスターチは冷蔵が必要ですか？", "a": "不要です。冷蔵は結露で粉を固めます。密閉して涼しく乾燥した戸棚で保存してください。"}
+    ]
+  },
+  "es": {
+    "name": "Maicena (almidón de maíz)",
+    "aliases": ["almidón de maíz", "fécula de maíz", "maizena", "chuño de maíz"],
+    "summary": "La maicena es almidón puro extraído del maíz, se usa para espesar salsas y aligerar rebozados. Casi no contiene grasa ni proteína, así que dura muchísimo: 18–24 meses desde la compra sin abrir y alrededor de 18 meses una vez abierta, siempre que se mantenga seca. Lo que la arruina es la humedad, no el tiempo.",
+    "pantry": "Guárdala en un armario fresco y seco, lejos de los fogones, el hervidor y el fregadero; sin abrir dura 18–24 meses desde la compra y unos 18 meses tras abrirla. Pasa el contenido de la caja a un tarro hermético, porque el cartón deja entrar humedad y el almidón se apelmaza en grumos duros. Usa siempre una cuchara completamente seca.",
+    "fridge": "No necesita refrigeración y conviene evitarla. La maicena fría atrae condensación en cuanto abres el recipiente, y el almidón húmedo forma grumos irreversibles. Un tarro cerrado en un armario seco es mucho mejor que la nevera.",
+    "freezer": "Congelarla no aporta nada. Ya es estable más de un año a temperatura ambiente, y el congelador solo añade el riesgo de daño por humedad al atemperar el envase.",
+    "thawing": null,
+    "spoilage": [
+      "Grumos duros o un bloque compacto que no se deshace con la cuchara",
+      "Olor a humedad o agrio en lugar de neutro",
+      "Coloración gris o amarillenta, o puntos de moho",
+      "Insectos, larvas o telarañas dentro del envase"
+    ],
+    "tips": [
+      "Pásala a un tarro de vidrio hermético y anota la fecha de apertura",
+      "Disuélvela siempre en líquido frío antes de añadirla a la sartén caliente",
+      "Mantén el tarro lejos del vapor de la arrocera y del hervidor",
+      "No la confundas con el polvo de hornear: la maicena no levanta la masa"
+    ],
+    "faq": [
+      {"q": "¿La maicena se estropea?", "a": "Muy lentamente. Seca dura 18–24 meses desde la compra sin abrir y alrededor de 18 meses tras abrirla. Si está húmeda, apelmazada o con moho, tírala."},
+      {"q": "¿Se puede usar maicena pasada de fecha?", "a": "Si está seca, suelta y huele neutra, normalmente espesa igual de bien. Deséchala si tiene grumos duros, olor a humedad o rastro de insectos."},
+      {"q": "¿La maicena necesita refrigeración?", "a": "No. La nevera provoca condensación que apelmaza el polvo. Consérvala cerrada en un armario fresco y seco."}
+    ]
+  }
+}

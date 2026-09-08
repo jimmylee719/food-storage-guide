@@ -1,0 +1,107 @@
+{
+  "slug": "cornmeal-stone-ground-blue",
+  "en": {
+    "name": "Cornmeal (stone ground or blue)",
+    "aliases": ["whole grain cornmeal", "blue cornmeal", "stone-ground maize meal", "wholegrain polenta"],
+    "summary": "Stone-ground and blue cornmeal keep the oily corn germ, which gives them much more flavour but a far shorter life than degerminated meal. In the pantry they only keep about 1 month from purchase, while an opened bag stored in the fridge lasts 2–4 months. The germ oil turns rancid quickly at room temperature.",
+    "pantry": "In a cool, dry cupboard, stone-ground or blue cornmeal keeps only about 1 month from purchase, because the natural oils in the germ oxidise fast. Keep it in an airtight container away from the stove and any sunlight, and buy in small quantities you will use within a few weeks. Whole-grain meals also attract pantry insects more than refined ones.",
+    "fridge": "The fridge is the right home for this meal: sealed in an airtight container at 4 °C (40 °F) or below, an opened bag keeps 2–4 months. The cold slows oxidation of the germ oil and keeps insects out. Use a genuinely airtight jar so it does not take on fridge smells, and let it warm up before opening to avoid condensation.",
+    "freezer": "USDA does not publish a freezer timeline for stone-ground cornmeal, but freezing is a common and sensible way to protect high-oil wholegrain meals. Seal it in an airtight bag, press out the air, and let the bag reach room temperature before opening so no moisture condenses on the meal.",
+    "thawing": null,
+    "spoilage": [
+      "Rancid, oily or paint-like smell from the germ oil",
+      "Bitter taste in the finished cornbread or polenta",
+      "Webbing, larvae or weevils in the bag",
+      "Clumping, dampness or visible mould"
+    ],
+    "tips": [
+      "Buy small bags — stone-ground meal is a fresh product, not a long-term staple",
+      "Store it in the fridge from day one rather than the cupboard",
+      "Smell the meal before each use; rancidity is the first thing you notice",
+      "Write the purchase date on the container so you can respect the 1-month pantry limit"
+    ],
+    "faq": [
+      {"q": "Why does stone-ground cornmeal go bad so fast?", "a": "It still contains the corn germ, which is rich in oil. That oil oxidises and turns rancid, limiting the pantry life to about 1 month from purchase."},
+      {"q": "Can you refrigerate stone-ground cornmeal?", "a": "Yes, and you should. In an airtight container at 4 °C (40 °F) or below an opened bag keeps 2–4 months and stays free of pantry insects."},
+      {"q": "How can you tell if cornmeal has gone rancid?", "a": "Open the container and smell it. Rancid cornmeal smells oily, sharp or like old paint, and the finished bread tastes bitter."}
+    ]
+  },
+  "zh": {
+    "name": "全粒玉米粉（石臼研磨／藍玉米）",
+    "aliases": ["石磨玉米粉", "藍玉米粉", "全粒玉米粉", "帶胚玉米粉"],
+    "summary": "石臼研磨和藍玉米粉保留了含油的玉米胚芽，風味豐富許多，但保存期也短得多。常溫下從購買日起只能放約 1 個月，開封後放冰箱則可保存 2～4 個月。胚芽裡的油脂在室溫下很快就會產生油耗味。",
+    "pantry": "放在陰涼乾燥的櫥櫃，石磨或藍玉米粉從購買日起只能放約 1 個月，因為胚芽裡的天然油脂氧化得很快。請用密封容器裝好，遠離爐火和陽光，而且一次只買幾週內用得完的量。全粒的粉類也比精製的更容易招蟲。",
+    "fridge": "冰箱才是這種玉米粉該待的地方：密封容器放 4°C 以下，開封後可保存 2～4 個月。低溫能減緩胚芽油氧化，也能防蟲。容器要真的密封，才不會吸到冰箱異味；取出後先回到室溫再開蓋，避免結露。",
+    "freezer": "USDA 沒有提供石磨玉米粉的冷凍期限，但冷凍是保護高油脂全粒穀粉常見又合理的做法。裝進密封袋擠出空氣即可，開封前務必讓袋子回到室溫，以免水氣凝結在粉上。",
+    "thawing": null,
+    "spoilage": [
+      "胚芽油變質產生的油耗味、油漆味或刺鼻味",
+      "做成的玉米麵包或玉米糊帶有苦味",
+      "袋子裡出現蛛絲狀物、幼蟲或米象",
+      "結塊、受潮，或看得到黴斑"
+    ],
+    "tips": [
+      "買小包裝就好，石磨玉米粉是講究新鮮的產品，不適合囤貨",
+      "從買回來第一天就直接放冰箱，不要放櫥櫃",
+      "每次用之前先聞一下，油耗味是最先出現的警訊",
+      "在容器上寫購買日期，才好遵守常溫 1 個月的期限"
+    ],
+    "faq": [
+      {"q": "石磨玉米粉為什麼特別容易壞？", "a": "因為它保留了富含油脂的玉米胚芽，油脂氧化就會產生油耗味，所以常溫從購買日起只能放約 1 個月。"},
+      {"q": "石磨玉米粉可以冷藏嗎？", "a": "可以，而且建議這麼做。密封容器放 4°C 以下，開封後可放 2～4 個月，還能防止米蟲。"},
+      {"q": "怎麼知道玉米粉有油耗味了？", "a": "打開容器聞一下，變質的玉米粉會有油味、刺鼻味或像舊油漆的味道，做出來的成品也會發苦。"}
+    ]
+  },
+  "ja": {
+    "name": "全粒コーンミール（石臼挽き・ブルーコーン）",
+    "aliases": ["石臼挽きコーンミール", "ブルーコーンミール", "全粒とうもろこし粉"],
+    "summary": "石臼挽きやブルーコーンのコーンミールは油分を含む胚芽が残っているため風味は豊かですが、精製品より日持ちがずっと短くなります。常温では購入日から約1か月、開封後に冷蔵すれば2〜4か月が目安です。胚芽の油は室温で早く酸化します。",
+    "pantry": "涼しく乾燥した戸棚でも、石臼挽きやブルーコーンのコーンミールは購入日から約1か月しか持ちません。胚芽の天然油脂が早く酸化するためです。密閉容器に入れ、コンロや直射日光を避け、数週間で使い切れる量だけ買いましょう。全粒粉は精製粉より虫がつきやすい点にも注意してください。",
+    "fridge": "このタイプは冷蔵が正解です。密閉容器に入れて4℃以下で保存すれば、開封後2〜4か月持ちます。低温で胚芽油の酸化が遅くなり、虫も防げます。においが移らないよう本当に密閉できる容器を使い、開ける前に室温へ戻して結露を防いでください。",
+    "freezer": "USDAは石臼挽きコーンミールの冷凍期間を示していませんが、油分の多い全粒粉を守る方法として冷凍は一般的で理にかなっています。密閉袋の空気を抜いて冷凍し、開封前に必ず室温へ戻して粉に水滴がつかないようにしましょう。",
+    "thawing": null,
+    "spoilage": [
+      "胚芽油の酸化による古い油のにおい、ペンキのようなにおい",
+      "焼き上がったコーンブレッドやポレンタが苦い",
+      "袋の中にクモの巣状のもの、幼虫、コクゾウムシ",
+      "固まり、湿り気、目に見えるカビ"
+    ],
+    "tips": [
+      "石臼挽きは鮮度が命。小袋で買いましょう",
+      "買った日から戸棚ではなく冷蔵庫へ",
+      "使う前に必ずにおいを確認。酸化臭が最初のサインです",
+      "容器に購入日を書き、常温1か月の期限を守りましょう"
+    ],
+    "faq": [
+      {"q": "石臼挽きコーンミールはなぜ早く傷むのですか？", "a": "油分の多い胚芽が残っているためです。その油が酸化して劣化するので、常温では購入日から約1か月が限度です。"},
+      {"q": "石臼挽きコーンミールは冷蔵できますか？", "a": "できますし、そうすべきです。密閉容器で4℃以下なら開封後2〜4か月持ち、虫も防げます。"},
+      {"q": "コーンミールが酸化したかどう分かりますか？", "a": "容器を開けてにおいを嗅いでください。古い油やペンキのようなにおいがすれば酸化しており、焼くと苦味が出ます。"}
+    ]
+  },
+  "es": {
+    "name": "Harina de maíz integral o azul",
+    "aliases": ["harina de maíz de piedra", "harina de maíz azul", "harina de maíz integral", "polenta integral"],
+    "summary": "La harina de maíz molida a la piedra o de maíz azul conserva el germen graso, lo que le da mucho más sabor pero una vida mucho más corta que la degerminada. En la despensa solo dura alrededor de 1 mes desde la compra, mientras que una bolsa abierta en la nevera aguanta 2–4 meses. El aceite del germen se enrancia rápido a temperatura ambiente.",
+    "pantry": "En un armario fresco y seco, esta harina solo dura alrededor de 1 mes desde la compra, porque los aceites naturales del germen se oxidan deprisa. Guárdala en un recipiente hermético lejos de los fogones y del sol, y compra cantidades pequeñas que uses en pocas semanas. Las harinas integrales también atraen más insectos que las refinadas.",
+    "fridge": "La nevera es su sitio: cerrada en un recipiente hermético a 4 °C (40 °F) o menos, una bolsa abierta dura 2–4 meses. El frío frena la oxidación del aceite del germen y mantiene fuera a los insectos. Usa un tarro realmente hermético para que no coja olores y déjala atemperar antes de abrirla.",
+    "freezer": "El USDA no publica un plazo de congelación para esta harina, pero congelarla es una forma habitual y sensata de proteger harinas integrales ricas en aceite. Ciérrala en una bolsa hermética sin aire y deja que alcance la temperatura ambiente antes de abrirla para que no condense humedad.",
+    "thawing": null,
+    "spoilage": [
+      "Olor rancio, aceitoso o a pintura procedente del aceite del germen",
+      "Sabor amargo en el pan de maíz o la polenta terminados",
+      "Telarañas, larvas o gorgojos en la bolsa",
+      "Grumos, humedad o moho visible"
+    ],
+    "tips": [
+      "Compra bolsas pequeñas: es un producto fresco, no una despensa de largo plazo",
+      "Guárdala en la nevera desde el primer día, no en el armario",
+      "Huélela antes de cada uso; el enranciamiento es lo primero que se nota",
+      "Anota la fecha de compra en el recipiente para respetar el límite de 1 mes en despensa"
+    ],
+    "faq": [
+      {"q": "¿Por qué la harina de maíz de piedra se estropea tan rápido?", "a": "Porque conserva el germen del maíz, muy rico en aceite. Ese aceite se oxida y enrancia, lo que limita su vida en despensa a alrededor de 1 mes desde la compra."},
+      {"q": "¿Se puede refrigerar la harina de maíz integral?", "a": "Sí, y conviene hacerlo. En un recipiente hermético a 4 °C (40 °F) o menos, una bolsa abierta dura 2–4 meses y queda libre de insectos."},
+      {"q": "¿Cómo saber si la harina de maíz está rancia?", "a": "Abre el recipiente y huélela. Si huele a aceite viejo, punzante o a pintura, está rancia, y el resultado horneado sabrá amargo."}
+    ]
+  }
+}
