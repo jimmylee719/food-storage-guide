@@ -1,0 +1,107 @@
+{
+  "slug": "cabbage",
+  "en": {
+    "name": "Cabbage",
+    "aliases": ["green cabbage", "red cabbage", "white cabbage", "Savoy cabbage", "Chinese cabbage"],
+    "summary": "Cabbage is one of the longest-keeping fresh vegetables thanks to its dense, tightly wrapped head. In the fridge it keeps 1–2 weeks from the date of purchase, and blanched and frozen it lasts 10–12 months. Keep the head whole and unwashed until you need it.",
+    "pantry": "Cabbage is best kept cold. At room temperature the outer leaves wilt and yellow within a day or two, and in a warm kitchen the head loses its crispness quickly. A very cool larder or cellar below about 10 °C will hold a whole head for a while, but a normal kitchen will not.",
+    "fridge": "Store the whole head unwashed in the crisper at 4 °C (40 °F) or below, loosely bagged, where it keeps 1–2 weeks from purchase. Do not cut it until you need it — a cut face oxidises, dries and loses vitamin C. If you have used half, wrap the cut face tightly in cling film and use the rest within a few days.",
+    "freezer": "Cabbage freezes for 10–12 months from purchase at −18 °C (0 °F) if blanched first. Shred or cut into wedges, boil shredded cabbage for 90 seconds or wedges for 3 minutes, plunge into iced water, drain and squeeze dry, then pack into airtight bags. Frozen cabbage is soft and best used cooked, not in slaws.",
+    "thawing": "Add frozen cabbage straight to soups, braises and stir-fries. If a recipe needs it thawed, do it in the fridge and squeeze out the water first.",
+    "spoilage": [
+      "Slimy or blackened outer leaves throughout the head",
+      "Strong sulphurous or rotten smell",
+      "Soft, mushy patches or a brown, wet core",
+      "Mould, especially between the outer leaves"
+    ],
+    "tips": [
+      "Peel off a wilted outer leaf or two rather than discarding the whole head",
+      "Keep the head whole — cut cabbage deteriorates far faster",
+      "Wrap a cut half tightly in cling film and use it within a few days",
+      "Blanch before freezing, and use frozen cabbage in cooked dishes rather than slaw"
+    ],
+    "faq": [
+      {"q": "How long does cabbage last in the fridge?", "a": "1–2 weeks from purchase at 4 °C (40 °F) or below, kept whole and unwashed in a loose bag in the crisper drawer."},
+      {"q": "Can you freeze cabbage?", "a": "Yes, if blanched first — 90 seconds shredded, 3 minutes in wedges — then chilled, squeezed dry and bagged. It keeps 10–12 months at −18 °C (0 °F)."},
+      {"q": "Can you use cabbage with wilted outer leaves?", "a": "Yes. Peel off the damaged outer leaves and the head underneath is usually perfectly good. Discard it only if it is slimy inside or smells rotten."}
+    ]
+  },
+  "zh": {
+    "name": "高麗菜",
+    "aliases": ["甘藍", "捲心菜", "包心菜", "紫高麗", "圓白菜"],
+    "summary": "高麗菜厚實緊密的球狀結構，讓它成為最耐放的新鮮蔬菜之一。冷藏從購買日起可放 1～2 週，燙過後冷凍則可保存 10～12 個月。需要用之前，請保持整顆完整、不要清洗。",
+    "pantry": "高麗菜還是低溫保存最好。放在室溫，外層葉片一兩天內就會軟垮發黃，在溫暖的廚房裡整顆很快就會失去脆度。若有低於 10°C 左右的地下室或涼櫃，整顆可以放一陣子，但一般的廚房做不到。",
+    "fridge": "整顆不清洗、鬆鬆裝袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 1～2 週。要用之前才切開——切面會氧化、變乾，維生素 C 也會流失。切了一半的話，切面用保鮮膜緊貼包好，並在幾天內用完。",
+    "freezer": "高麗菜先汆燙再冷凍，放 −18°C，從購買日起可保存 10～12 個月。切絲或切成大塊，切絲的燙 90 秒、大塊的燙 3 分鐘，撈起泡冰水，瀝乾擠掉水分，再裝進密封袋。冷凍過的高麗菜口感偏軟，適合入菜熱炒或燉煮，不適合做涼拌沙拉。",
+    "thawing": "冷凍高麗菜可以直接丟進湯裡、燉菜或熱鍋快炒。如果食譜需要解凍，請放冷藏室退冰並先擠乾水分。",
+    "spoilage": [
+      "整顆外葉都變得黏滑或發黑",
+      "有強烈的硫磺味或腐敗味",
+      "出現軟爛的斑塊，或菜心變褐、變濕",
+      "長黴，尤其在外層葉片之間"
+    ],
+    "tips": [
+      "外層一兩片軟掉的葉子剝掉就好，不用整顆丟",
+      "保持整顆完整，切開的高麗菜壞得快很多",
+      "切了一半的用保鮮膜緊貼包好，幾天內用完",
+      "冷凍前要汆燙，冷凍過的用來煮而不是做涼拌"
+    ],
+    "faq": [
+      {"q": "高麗菜放冰箱可以放多久？", "a": "整顆不清洗、鬆鬆裝袋收在蔬果保鮮室，放 4°C 以下，從購買日起 1～2 週。"},
+      {"q": "高麗菜可以冷凍嗎？", "a": "可以，但要先汆燙——切絲 90 秒、切塊 3 分鐘——再冰鎮、擠乾裝袋。放 −18°C 可保存 10～12 個月。"},
+      {"q": "外葉軟掉的高麗菜還能用嗎？", "a": "可以。把受損的外葉剝掉，裡面通常完全沒問題。只有內部黏滑或聞起來腐敗時才要整顆丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "キャベツ",
+    "aliases": ["玉菜", "紫キャベツ", "レッドキャベツ", "サボイキャベツ", "甘藍"],
+    "summary": "キャベツは葉がぎっしり巻いた密度の高い構造のおかげで、生野菜のなかでも屈指の日持ちを誇ります。冷蔵では購入日から1〜2週間、下ゆでして冷凍すれば10〜12か月保存できます。使うまでは丸のまま、洗わずに保管しましょう。",
+    "pantry": "キャベツは低温保存が最適です。常温では外葉が1〜2日でしおれて黄ばみ、暖かい台所では玉全体のシャキッと感がすぐ失われます。10℃を下回るような涼しい貯蔵庫なら丸ごとしばらく置けますが、通常の台所では無理です。",
+    "fridge": "丸のまま洗わず、ゆるく袋に入れて4℃以下の野菜室で保存すれば、購入日から1〜2週間持ちます。使う直前まで切らないでください。切り口は酸化して乾き、ビタミンCも失われます。半分使った場合は切り口にラップを密着させ、数日以内に使い切りましょう。",
+    "freezer": "下ゆですれば−18℃で購入日から10〜12か月冷凍できます。せん切りかくし切りにし、せん切りは90秒、くし切りは3分ゆで、氷水に取り、水気を絞ってから密閉袋へ。冷凍したキャベツはやわらかいので、サラダよりも加熱調理向きです。",
+    "thawing": "冷凍キャベツはそのままスープ、煮込み、炒め物に加えます。解凍が必要な場合は冷蔵庫で行い、先に水気を絞ってください。",
+    "spoilage": [
+      "外葉全体がぬめる、黒く変色している",
+      "強い硫黄臭や腐敗臭がする",
+      "ぶよぶよした部分がある、芯が茶色く湿っている",
+      "とくに外葉の間にカビが出ている"
+    ],
+    "tips": [
+      "外葉が1〜2枚しおれただけなら、その葉をむけば大丈夫です",
+      "丸のまま保存を。切ったキャベツは劣化がずっと早くなります",
+      "半分残したら切り口にラップを密着させ、数日以内に使い切りましょう",
+      "冷凍前は下ゆでを。冷凍品はサラダではなく加熱調理に使いましょう"
+    ],
+    "faq": [
+      {"q": "キャベツは冷蔵庫でどのくらい持ちますか？", "a": "丸のまま洗わずゆるく袋に入れて野菜室に置き、4℃以下で購入日から1〜2週間です。"},
+      {"q": "キャベツは冷凍できますか？", "a": "できます。せん切りは90秒、くし切りは3分下ゆでして冷やし、水気を絞って袋へ。−18℃で10〜12か月です。"},
+      {"q": "外葉がしおれたキャベツは使えますか？", "a": "使えます。傷んだ外葉をむけば中はたいてい問題ありません。内部がぬめっていたり腐敗臭がしたりする場合だけ処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Repollo",
+    "aliases": ["col", "col blanca", "lombarda", "col de Saboya", "berza"],
+    "summary": "El repollo es una de las verduras frescas que más dura, gracias a su cabeza densa y apretada. En la nevera se conserva 1–2 semanas desde la compra, y escaldado y congelado 10–12 meses. Mantén la cabeza entera y sin lavar hasta que la necesites.",
+    "pantry": "El repollo se conserva mejor en frío. A temperatura ambiente las hojas exteriores se marchitan y amarillean en un día o dos, y en una cocina cálida la cabeza pierde rápido su textura. Una despensa muy fresca o un sótano por debajo de unos 10 °C aguantan una cabeza entera un tiempo, pero una cocina normal no.",
+    "fridge": "Guarda la cabeza entera y sin lavar en el cajón de verduras a 4 °C (40 °F) o menos, en una bolsa suelta, donde dura 1–2 semanas desde la compra. No la cortes hasta que la necesites: la cara cortada se oxida, se seca y pierde vitamina C. Si has usado la mitad, envuelve bien la cara cortada en film y consúmela en pocos días.",
+    "freezer": "Se congela 10–12 meses desde la compra a −18 °C (0 °F) si lo escaldas antes. Córtalo en juliana o en cuñas, hierve la juliana 90 segundos o las cuñas 3 minutos, pásalo a agua helada, escúrrelo y estrújalo, y guárdalo en bolsas herméticas. Congelado queda blando y va mejor cocinado que en ensalada.",
+    "thawing": "Añade el repollo congelado directamente a sopas, guisos y salteados. Si la receta lo pide descongelado, hazlo en la nevera y escurre bien el agua primero.",
+    "spoilage": [
+      "Hojas exteriores viscosas o ennegrecidas en toda la cabeza",
+      "Olor fuerte, sulfuroso o pútrido",
+      "Zonas blandas o un corazón pardo y húmedo",
+      "Moho, sobre todo entre las hojas exteriores"
+    ],
+    "tips": [
+      "Retira una o dos hojas exteriores marchitas en lugar de tirar la cabeza entera",
+      "Mantén la cabeza entera: el repollo cortado se deteriora mucho antes",
+      "Envuelve bien la mitad cortada en film y úsala en pocos días",
+      "Escáldalo antes de congelar y usa el congelado en platos cocinados, no en ensalada"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el repollo en la nevera?", "a": "1–2 semanas desde la compra a 4 °C (40 °F) o menos, entero y sin lavar en una bolsa suelta en el cajón de verduras."},
+      {"q": "¿Se puede congelar el repollo?", "a": "Sí, si lo escaldas antes —90 segundos en juliana, 3 minutos en cuñas—, lo enfrías, lo estrujas y lo embolsas. Dura 10–12 meses a −18 °C (0 °F)."},
+      {"q": "¿Se puede usar un repollo con hojas exteriores marchitas?", "a": "Sí. Retira las hojas dañadas y la cabeza de debajo suele estar perfecta. Deséchalo solo si por dentro está viscoso o huele a podrido."}
+    ]
+  }
+}

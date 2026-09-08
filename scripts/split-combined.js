@@ -130,6 +130,380 @@ const SPLITS = {
   ],
 };
 
+// Local-language names, so search finds these before their translated
+// content files exist.
+const LOCAL_NAMES = {
+ "mango": [
+  "芒果",
+  "マンゴー",
+  "mango"
+ ],
+ "papaya": [
+  "木瓜",
+  "パパイヤ",
+  "papaya"
+ ],
+ "passionfruit": [
+  "百香果",
+  "パッションフルーツ",
+  "maracuyá",
+  "fruta de la pasión"
+ ],
+ "feijoa": [
+  "斐濟果",
+  "フェイジョア",
+  "feijoa"
+ ],
+ "casaba-melon": [
+  "卡薩巴甜瓜",
+  "カサバメロン",
+  "melón casaba"
+ ],
+ "lychee": [
+  "荔枝",
+  "ライチ",
+  "lichi"
+ ],
+ "gooseberries": [
+  "醋栗",
+  "グーズベリー",
+  "grosella espinosa"
+ ],
+ "blackberries": [
+  "黑莓",
+  "ブラックベリー",
+  "mora"
+ ],
+ "boysenberries": [
+  "波森莓",
+  "ボイセンベリー",
+  "baya de Boysen"
+ ],
+ "currants": [
+  "醋栗",
+  "カラント",
+  "grosella"
+ ],
+ "peaches": [
+  "桃子",
+  "桃",
+  "もも",
+  "melocotón",
+  "durazno"
+ ],
+ "nectarines": [
+  "油桃",
+  "ネクタリン",
+  "nectarina"
+ ],
+ "plums": [
+  "李子",
+  "梅",
+  "プラム",
+  "ciruela"
+ ],
+ "pears": [
+  "西洋梨",
+  "梨",
+  "洋なし",
+  "pera"
+ ],
+ "sapote": [
+  "人心果",
+  "サポテ",
+  "zapote"
+ ],
+ "lemons": [
+  "檸檬",
+  "レモン",
+  "limón"
+ ],
+ "limes": [
+  "萊姆",
+  "ライム",
+  "lima"
+ ],
+ "oranges": [
+  "柳橙",
+  "柳丁",
+  "オレンジ",
+  "naranja"
+ ],
+ "grapefruit": [
+  "葡萄柚",
+  "グレープフルーツ",
+  "pomelo",
+  "toronja"
+ ],
+ "tangerines": [
+  "橘子",
+  "柑橘",
+  "みかん",
+  "mandarina",
+  "clementina"
+ ],
+ "carrots": [
+  "紅蘿蔔",
+  "胡蘿蔔",
+  "にんじん",
+  "zanahoria"
+ ],
+ "parsnips": [
+  "歐防風",
+  "パースニップ",
+  "chirivía"
+ ],
+ "green-beans": [
+  "四季豆",
+  "敏豆",
+  "いんげん",
+  "judía verde",
+  "ejote"
+ ],
+ "fava-beans": [
+  "蠶豆",
+  "そら豆",
+  "haba"
+ ],
+ "lima-beans": [
+  "皇帝豆",
+  "ライマメ",
+  "haba de Lima"
+ ],
+ "wax-beans": [
+  "黃四季豆",
+  "黄いんげん",
+  "judía amarilla"
+ ],
+ "snow-peas": [
+  "豌豆莢",
+  "荷蘭豆",
+  "さやえんどう",
+  "tirabeque"
+ ],
+ "sugar-snap-peas": [
+  "甜豆",
+  "スナップえんどう",
+  "guisante dulce"
+ ],
+ "broccoli": [
+  "青花菜",
+  "綠花椰菜",
+  "ブロッコリー",
+  "brócoli"
+ ],
+ "broccoli-rabe": [
+  "蕪菁葉花菜",
+  "菜心",
+  "ブロッコリーラーブ",
+  "grelo"
+ ],
+ "iceberg-lettuce": [
+  "結球萵苣",
+  "美生菜",
+  "レタス",
+  "lechuga iceberg"
+ ],
+ "romaine-lettuce": [
+  "蘿蔓",
+  "ロメインレタス",
+  "lechuga romana"
+ ],
+ "leaf-lettuce": [
+  "葉萵苣",
+  "リーフレタス",
+  "lechuga de hoja"
+ ],
+ "spinach": [
+  "菠菜",
+  "ほうれん草",
+  "espinaca"
+ ],
+ "summer-squash": [
+  "夏南瓜",
+  "ズッキーニ",
+  "calabacín",
+  "calabaza de verano"
+ ],
+ "onions": [
+  "洋蔥",
+  "たまねぎ",
+  "cebolla"
+ ],
+ "bell-peppers": [
+  "甜椒",
+  "彩椒",
+  "青椒",
+  "ピーマン",
+  "パプリカ",
+  "pimiento"
+ ],
+ "cod": [
+  "鱈魚",
+  "たら",
+  "bacalao"
+ ],
+ "flounder": [
+  "比目魚",
+  "ひらめ",
+  "かれい",
+  "platija"
+ ],
+ "haddock": [
+  "黑線鱈",
+  "ハドック",
+  "eglefino"
+ ],
+ "halibut": [
+  "大比目魚",
+  "おひょう",
+  "fletán"
+ ],
+ "sole": [
+  "鰈魚",
+  "舌鰨",
+  "したびらめ",
+  "lenguado"
+ ],
+ "pollock": [
+  "明太魚",
+  "狹鱈",
+  "すけとうだら",
+  "abadejo"
+ ],
+ "ocean-perch": [
+  "赤鮭",
+  "紅魚",
+  "あかうお",
+  "gallineta"
+ ],
+ "rockfish": [
+  "石斑",
+  "岩魚",
+  "めばる",
+  "cabracho"
+ ],
+ "sea-trout": [
+  "海鱒",
+  "うみます",
+  "trucha marina"
+ ],
+ "salmon": [
+  "鮭魚",
+  "三文魚",
+  "さけ",
+  "サーモン",
+  "salmón"
+ ],
+ "tuna-fresh": [
+  "鮪魚",
+  "生鮪魚",
+  "まぐろ",
+  "ツナ",
+  "atún"
+ ],
+ "mackerel": [
+  "鯖魚",
+  "さば",
+  "caballa"
+ ],
+ "catfish": [
+  "鯰魚",
+  "なまず",
+  "bagre"
+ ],
+ "bluefish": [
+  "扁鰺",
+  "青魚",
+  "あおざかな",
+  "anjova"
+ ],
+ "mullet": [
+  "烏魚",
+  "ぼら",
+  "mújol",
+  "lisa"
+ ],
+ "shrimp": [
+  "蝦子",
+  "蝦",
+  "えび",
+  "海老",
+  "gamba",
+  "camarón"
+ ],
+ "crayfish": [
+  "淡水螯蝦",
+  "小龍蝦",
+  "ザリガニ",
+  "cangrejo de río"
+ ],
+ "clams-shucked": [
+  "蛤蜊肉",
+  "去殼蛤蜊",
+  "むき身あさり",
+  "almeja sin concha"
+ ],
+ "mussels-shucked": [
+  "淡菜肉",
+  "去殼淡菜",
+  "むき身ムール貝",
+  "mejillón sin concha"
+ ],
+ "oysters-shucked": [
+  "蚵仔",
+  "牡蠣肉",
+  "むき身かき",
+  "ostra sin concha"
+ ],
+ "cheddar-cheese": [
+  "切達起司",
+  "チェダーチーズ",
+  "queso cheddar"
+ ],
+ "swiss-cheese": [
+  "瑞士起司",
+  "スイスチーズ",
+  "queso suizo"
+ ],
+ "parmesan-block": [
+  "帕瑪森起司",
+  "パルメザンチーズ",
+  "queso parmesano"
+ ],
+ "brie": [
+  "布里起司",
+  "カマンベール",
+  "ブリー",
+  "queso brie"
+ ],
+ "goat-cheese": [
+  "山羊起司",
+  "羊奶起司",
+  "シェーブル",
+  "queso de cabra"
+ ],
+ "liver": [
+  "肝臟",
+  "豬肝",
+  "レバー",
+  "肝",
+  "hígado"
+ ],
+ "tongue": [
+  "舌",
+  "牛舌",
+  "たん",
+  "lengua"
+ ],
+ "collard-greens": [
+  "羽衣甘藍葉",
+  "芥菜葉",
+  "コラードグリーン",
+  "berza"
+ ]
+};
+
 const out = [];
 const replaced = new Set();
 const problems = [];
@@ -149,7 +523,7 @@ for (const [parentSlug, children] of Object.entries(SPLITS)) {
       derivedFromName: parent.name + (parent.subtitle ? `, ${parent.subtitle}` : ''),
       name: child.name,
       subtitle: child.subtitle || null,
-      keywords: [...new Set([...(child.keywords || []), ...parent.keywords])],
+      keywords: [...new Set([...(child.keywords || []), ...(LOCAL_NAMES[child.slug] || []), ...parent.keywords])],
       storage: parent.storage,
     });
   }

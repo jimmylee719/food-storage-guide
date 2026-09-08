@@ -1,0 +1,107 @@
+{
+  "slug": "beets",
+  "en": {
+    "name": "Beetroot",
+    "aliases": ["beets", "red beets", "golden beets", "table beet", "beetroots"],
+    "summary": "Beetroot is a firm root vegetable that keeps well when the leafy tops are removed, because the leaves keep drawing moisture out of the root. At room temperature it lasts only about 1 day from the date of purchase; in the fridge it keeps 1–2 weeks, and blanched and frozen for 6–8 months.",
+    "pantry": "Beetroot keeps only about 1 day at room temperature from purchase before it starts to soften and go limp, especially with the leaves still attached. Cut the tops off about 2 cm above the root as soon as you get home — the greens are excellent cooked like chard, but they pull moisture out of the root within hours. Then refrigerate.",
+    "fridge": "Trim the tops, leave the root skin and tail intact and store the beets unwashed in a perforated bag in the crisper at 4 °C (40 °F) or below, where they keep 1–2 weeks from purchase. Do not peel or cut them before storing: an intact skin keeps them firm and stops the colour bleeding. Cooked beetroot keeps 3–5 days in a covered container.",
+    "freezer": "Beetroot freezes for 6–8 months from purchase at −18 °C (0 °F), but should be cooked first: boil or roast until tender, cool, peel and slice or dice, then freeze in airtight bags. Raw beetroot freezes poorly, turning grainy and losing its texture.",
+    "thawing": "Thaw cooked beetroot in the fridge, or add it straight from frozen to soups and stews. Thawed beetroot is softer than fresh, which suits soups, purées and relishes.",
+    "spoilage": [
+      "Soft, wrinkled or rubbery roots that flex when squeezed",
+      "Slimy or mushy patches, especially at the crown",
+      "Mould or a musty, earthy-sour smell",
+      "Dry, shrivelled skin with hollow-feeling flesh"
+    ],
+    "tips": [
+      "Cut the leafy tops off the day you buy them, leaving 2 cm of stem",
+      "Cook the beet greens like chard rather than throwing them away",
+      "Leave the skin and root tail on until cooking to keep the colour in",
+      "Wear gloves or rub your hands with lemon to avoid staining"
+    ],
+    "faq": [
+      {"q": "How long does beetroot last in the fridge?", "a": "1–2 weeks from purchase at 4 °C (40 °F) or below, with the tops trimmed and stored unwashed in a perforated bag."},
+      {"q": "Can you freeze beetroot?", "a": "Yes, but cook it first. Boil or roast until tender, peel, slice and freeze in airtight bags for 6–8 months at −18 °C (0 °F)."},
+      {"q": "Why should you remove beet greens before storing?", "a": "The leaves keep drawing moisture out of the root, so the beet goes soft within a day or two. Cut them off and cook the greens separately."}
+    ]
+  },
+  "zh": {
+    "name": "甜菜根",
+    "aliases": ["紅菜頭", "甜菜", "火焰菜", "根用甜菜", "beetroot"],
+    "summary": "甜菜根是結實的根莖類蔬菜，只要把上面的葉子切掉就很耐放，因為葉子會不斷把根部的水分抽走。室溫下從購買日起只能放約 1 天；冷藏可放 1～2 週，煮熟後冷凍則可保存 6～8 個月。",
+    "pantry": "甜菜根在室溫從購買日起只能放約 1 天，之後就會開始變軟發蔫，帶著葉子的更快。買回家後請立刻在離根部約 2 公分處把葉子切掉——葉子本身很好吃，可以像莙薘菜那樣料理，但留著會在幾小時內把根部的水分抽乾。切完就放冰箱。",
+    "fridge": "切掉葉子、保留根皮和根鬚，不清洗、裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 1～2 週。保存前不要削皮或切開：完整的外皮能維持結實口感，也能防止顏色流失。煮熟的甜菜根裝進有蓋容器可以放 3～5 天。",
+    "freezer": "甜菜根放 −18°C 冷凍，從購買日起約可保存 6～8 個月，但要先煮熟：水煮或烤到軟，放涼後削皮切片或切丁，再裝密封袋冷凍。生的甜菜根冷凍效果不好，會變得粗糙、失去口感。",
+    "thawing": "煮熟的甜菜根放冷藏室退冰，或直接從冷凍加進湯品和燉菜。解凍後的甜菜根比新鮮的軟，適合做湯、泥和佐醬。",
+    "spoilage": [
+      "根部變軟、起皺或像橡膠，捏起來會彎",
+      "出現黏滑或軟爛的斑塊，尤其在頂端",
+      "長黴，或有霉味、土味帶酸的氣味",
+      "外皮乾癟皺縮，裡面摸起來空空的"
+    ],
+    "tips": [
+      "買回來當天就把葉子切掉，保留約 2 公分的莖",
+      "甜菜葉不要丟，可以像莙薘菜那樣炒來吃",
+      "煮之前保留外皮和根鬚，顏色才不會流失",
+      "處理時戴手套，或用檸檬搓手，避免染色"
+    ],
+    "faq": [
+      {"q": "甜菜根放冰箱可以放多久？", "a": "切掉葉子、不清洗裝在打洞袋裡，放 4°C 以下，從購買日起 1～2 週。"},
+      {"q": "甜菜根可以冷凍嗎？", "a": "可以，但要先煮熟。水煮或烤到軟後削皮切片，裝密封袋放 −18°C 冷凍 6～8 個月。"},
+      {"q": "為什麼保存前要把甜菜葉切掉？", "a": "因為葉子會持續把根部的水分抽走，一兩天內就會讓甜菜根變軟。切下來的葉子可以另外料理。"}
+    ]
+  },
+  "ja": {
+    "name": "ビーツ",
+    "aliases": ["ビート", "テーブルビート", "赤ビーツ", "火焔菜", "ゴールデンビーツ"],
+    "summary": "ビーツは実のしまった根菜で、葉を落としておけばよく日持ちします。葉がついたままだと根の水分を吸い上げ続けてしまうためです。常温では購入日から約1日しか持たず、冷蔵なら1〜2週間、下ゆでして冷凍すれば6〜8か月保存できます。",
+    "pantry": "ビーツは常温では購入日から約1日でやわらかくしなび始め、葉つきならなおさらです。帰宅したらすぐ、根から2cmほど残して葉を切り落としましょう。葉はスイスチャードのようにおいしく食べられますが、つけたままだと数時間で根の水分を奪います。切ったら冷蔵庫へ。",
+    "fridge": "葉を落とし、皮と根の先はそのままにして、洗わずに穴あき袋へ入れ、4℃以下の野菜室で保存すれば購入日から1〜2週間持ちます。保存前に皮をむいたり切ったりしないでください。皮が残っていると身が締まり、色も抜けません。ゆでたビーツはふた付き容器で3〜5日です。",
+    "freezer": "−18℃の冷凍なら購入日から6〜8か月保存できますが、まず加熱を。ゆでるかローストしてやわらかくし、冷ましてから皮をむき、スライスか角切りにして密閉袋で冷凍します。生のままの冷凍はざらついて食感が損なわれ、不向きです。",
+    "thawing": "加熱済みのビーツは冷蔵庫で解凍するか、凍ったままスープや煮込みに加えます。解凍後は生よりやわらかいので、スープやピューレ、付け合わせ向きです。",
+    "spoilage": [
+      "根がやわらかくしわしわ、ゴムのようで握ると曲がる",
+      "とくに上部にぬめりやぶよぶよした部分がある",
+      "カビ、またはカビ臭く土臭い酸っぱいにおい",
+      "皮が乾いてしなび、中が空洞のように感じる"
+    ],
+    "tips": [
+      "買った当日に葉を切り落とし、茎を2cmほど残しましょう",
+      "葉は捨てずにスイスチャードのように調理を",
+      "色を逃さないよう、加熱まで皮と根の先は残しておきましょう",
+      "手袋をするかレモンで手をこすると、色移りを防げます"
+    ],
+    "faq": [
+      {"q": "ビーツは冷蔵庫でどのくらい持ちますか？", "a": "葉を落とし、洗わず穴あき袋に入れて4℃以下なら、購入日から1〜2週間です。"},
+      {"q": "ビーツは冷凍できますか？", "a": "できますが、まず加熱を。ゆでるかローストしてやわらかくし、皮をむいて切り、密閉袋で−18℃で6〜8か月保存できます。"},
+      {"q": "保存前になぜ葉を落とすのですか？", "a": "葉が根の水分を吸い上げ続け、1〜2日でビーツがやわらかくなってしまうからです。落とした葉は別に調理しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Remolacha",
+    "aliases": ["betabel", "beterraga", "remolacha roja", "betarraga", "remolacha dorada"],
+    "summary": "La remolacha es una raíz firme que se conserva bien si se le quitan las hojas, porque estas siguen extrayendo humedad de la raíz. A temperatura ambiente dura solo alrededor de 1 día desde la compra; en la nevera aguanta 1–2 semanas, y cocida y congelada 6–8 meses.",
+    "pantry": "La remolacha solo aguanta alrededor de 1 día a temperatura ambiente desde la compra antes de ablandarse, sobre todo con las hojas puestas. Corta las hojas a unos 2 cm de la raíz nada más llegar a casa: las hojas están riquísimas cocinadas como acelgas, pero extraen humedad de la raíz en pocas horas. Después, refrigérala.",
+    "fridge": "Corta las hojas, deja la piel y la raicilla intactas y guarda las remolachas sin lavar en una bolsa perforada en el cajón de verduras a 4 °C (40 °F) o menos, donde duran 1–2 semanas desde la compra. No las peles ni las cortes antes de guardarlas: la piel intacta las mantiene firmes y evita que pierdan color. Cocidas duran 3–5 días en un recipiente tapado.",
+    "freezer": "Se congela 6–8 meses desde la compra a −18 °C (0 °F), pero conviene cocinarla antes: hiérvela o ásala hasta que esté tierna, enfríala, pélala, córtala en rodajas o dados y congélala en bolsas herméticas. Cruda se congela mal, quedando granulosa y sin textura.",
+    "thawing": "Descongela la remolacha cocida en la nevera, o añádela congelada a sopas y guisos. Descongelada queda más blanda que la fresca, algo adecuado para sopas, purés y encurtidos.",
+    "spoilage": [
+      "Raíces blandas, arrugadas o gomosas que ceden al apretarlas",
+      "Zonas viscosas o blandas, sobre todo en la corona",
+      "Moho o un olor a humedad, terroso y agrio",
+      "Piel seca y arrugada con la pulpa de tacto hueco"
+    ],
+    "tips": [
+      "Corta las hojas el día de la compra dejando 2 cm de tallo",
+      "Cocina las hojas como acelgas en lugar de tirarlas",
+      "Deja la piel y la raicilla hasta el momento de cocinar para conservar el color",
+      "Usa guantes o frota tus manos con limón para evitar manchas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la remolacha en la nevera?", "a": "1–2 semanas desde la compra a 4 °C (40 °F) o menos, con las hojas cortadas y guardada sin lavar en una bolsa perforada."},
+      {"q": "¿Se puede congelar la remolacha?", "a": "Sí, pero cocínala antes. Hiérvela o ásala hasta que esté tierna, pélala, córtala y congélala en bolsas herméticas 6–8 meses a −18 °C (0 °F)."},
+      {"q": "¿Por qué hay que quitar las hojas antes de guardarla?", "a": "Las hojas siguen extrayendo humedad de la raíz, así que la remolacha se ablanda en un día o dos. Córtalas y cocínalas aparte."}
+    ]
+  }
+}

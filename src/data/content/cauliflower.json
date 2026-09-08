@@ -1,0 +1,107 @@
+{
+  "slug": "cauliflower",
+  "en": {
+    "name": "Cauliflower",
+    "aliases": ["white cauliflower", "romanesco", "purple cauliflower", "cauli"],
+    "summary": "Cauliflower is a tight head of undeveloped flower buds that browns and softens once picked. Refrigerated it keeps 3–5 days from the date of purchase, and blanched and frozen it lasts 10–12 months. Store it stem-side up so condensation does not settle in the curd.",
+    "pantry": "Cauliflower should not be left at room temperature. Within a day in a warm kitchen the curd develops brown spots and the head starts to smell sulphurous. Refrigerate it as soon as you get home and take it out only when you are ready to cut it into florets.",
+    "fridge": "Store the head unwashed in a perforated bag in the crisper at 4 °C (40 °F) or below, where it keeps 3–5 days from purchase. Place it stem-side up so moisture drains away from the curd rather than sitting in it, which is the usual cause of brown spots. Leave the outer leaves on, as they protect the head.",
+    "freezer": "Cauliflower freezes for 10–12 months from purchase at −18 °C (0 °F) if blanched first. Cut into even florets, boil for 3 minutes, plunge into iced water, drain and dry thoroughly, then freeze on a tray and bag. Without blanching, the florets go grey and bitter within weeks.",
+    "thawing": "Cook frozen cauliflower straight from the freezer — thawing makes it watery. Roast, boil or steam it directly, or add it to soups and curries from frozen.",
+    "spoilage": [
+      "Brown or black spots spreading across the white curd",
+      "Soft, mushy or slimy florets",
+      "Strong sulphurous or rotten-cabbage smell",
+      "Yellowing curd with the buds beginning to separate"
+    ],
+    "tips": [
+      "Store the head stem-side up so water does not pool in the curd",
+      "Small brown spots can be shaved off with a knife; the rest is fine",
+      "Keep the outer leaves on until you cut the head — they protect it",
+      "Roast cauliflower rather than boiling it to avoid the sulphurous smell"
+    ],
+    "faq": [
+      {"q": "How long does cauliflower last in the fridge?", "a": "3–5 days from purchase at 4 °C (40 °F) or below, stored unwashed and stem-side up in a perforated bag."},
+      {"q": "Can you freeze cauliflower?", "a": "Yes, but blanch the florets for 3 minutes first, then chill, dry and freeze. It keeps 10–12 months from purchase at −18 °C (0 °F)."},
+      {"q": "Can you eat cauliflower with brown spots?", "a": "Small brown spots are oxidation and can be trimmed off, leaving the rest perfectly usable. Discard the head if it is soft, slimy or smells sulphurous."}
+    ]
+  },
+  "zh": {
+    "name": "白花椰菜",
+    "aliases": ["花椰菜", "菜花", "白花菜", "羅馬花椰菜", "椰菜花"],
+    "summary": "白花椰菜是由未發育的花蕾組成的緊實花球，採收後容易變褐、變軟。冷藏從購買日起可放 3～5 天，燙過後冷凍則可保存 10～12 個月。保存時把梗朝上，可以避免冷凝水積在花球上。",
+    "pantry": "白花椰菜不該放在室溫。在溫暖的廚房裡，一天內花球就會出現褐斑，整顆也會開始散發硫磺味。買回家請立刻冷藏，要切成小朵時再拿出來。",
+    "fridge": "整顆不清洗，裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 3～5 天。梗朝上擺放，水氣才會往下流走而不是積在花球裡，那正是產生褐斑的主因。外層的葉子先留著，它們能保護花球。",
+    "freezer": "白花椰菜先汆燙再冷凍，放 −18°C，從購買日起可保存 10～12 個月。切成大小一致的小朵，滾水煮 3 分鐘，撈起泡冰水，瀝乾徹底擦乾，鋪盤冷凍後裝袋。沒汆燙的話，幾週內就會變灰、發苦。",
+    "thawing": "冷凍白花椰菜請直接下鍋，解凍會讓它變得水水的。直接烤、煮、蒸，或從冷凍狀態加進湯品和咖哩即可。",
+    "spoilage": [
+      "白色花球上出現褐色或黑色斑點並持續擴散",
+      "小朵變軟、軟爛或黏滑",
+      "有強烈的硫磺味或高麗菜腐敗的味道",
+      "花球泛黃，花蕾開始鬆散分離"
+    ],
+    "tips": [
+      "梗朝上擺放，水氣才不會積在花球裡",
+      "小褐斑用刀削掉就好，其餘完全可以吃",
+      "切開前先留著外葉，它們能保護花球",
+      "用烤的而不是水煮，可以避免硫磺味"
+    ],
+    "faq": [
+      {"q": "白花椰菜放冰箱可以放多久？", "a": "不清洗、梗朝上裝在打洞袋裡，放 4°C 以下，從購買日起 3～5 天。"},
+      {"q": "白花椰菜可以冷凍嗎？", "a": "可以，但要先把小朵汆燙 3 分鐘，再冰鎮、擦乾後冷凍。放 −18°C，從購買日起可保存 10～12 個月。"},
+      {"q": "有褐斑的白花椰菜還能吃嗎？", "a": "小褐斑只是氧化，削掉之後其餘完全可以用。但如果整顆變軟、黏滑或有硫磺味，就該丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "カリフラワー",
+    "aliases": ["花野菜", "カリフラワー（白）", "ロマネスコ", "紫カリフラワー"],
+    "summary": "カリフラワーは未成熟な花蕾が密集した野菜で、収穫後は褐変してやわらかくなります。冷蔵では購入日から3〜5日、下ゆでして冷凍すれば10〜12か月保存できます。芯を上にして保存すると、花蕾に結露がたまるのを防げます。",
+    "pantry": "カリフラワーを常温に置いてはいけません。暖かい台所では1日で花蕾に茶色い点が出はじめ、硫黄臭も出てきます。買ったらすぐ冷蔵庫へ入れ、小房に切り分けるときだけ取り出しましょう。",
+    "fridge": "丸のまま洗わずに穴あき袋へ入れ、4℃以下の野菜室で保存すれば購入日から3〜5日持ちます。芯を上にして置くと水分が花蕾にたまらず流れ落ち、褐変の主因を防げます。外葉は花蕾を守るのでつけたままにしておきましょう。",
+    "freezer": "下ゆですれば−18℃で購入日から10〜12か月冷凍できます。均一な小房に切り、3分ゆで、氷水に取り、水気をしっかり切って拭き、バットで凍らせてから袋へ。下ゆでしないと数週間で灰色になり苦味が出ます。",
+    "thawing": "冷凍カリフラワーは解凍せずそのまま調理を。解凍すると水っぽくなります。ロースト、ゆで、蒸しのほか、スープやカレーにも凍ったまま加えられます。",
+    "spoilage": [
+      "白い花蕾に茶色や黒の点が広がっている",
+      "小房がやわらかい、ぶよぶよ、ぬめっている",
+      "強い硫黄臭やキャベツが腐ったようなにおい",
+      "花蕾が黄ばみ、つぶが離れてきている"
+    ],
+    "tips": [
+      "芯を上にして保存し、花蕾に水がたまらないようにしましょう",
+      "小さな茶色い点は包丁で削れば、残りは問題なく使えます",
+      "切り分けるまで外葉はつけたままに。花蕾を守ってくれます",
+      "ゆでるよりローストのほうが硫黄臭が出にくくなります"
+    ],
+    "faq": [
+      {"q": "カリフラワーは冷蔵庫でどのくらい持ちますか？", "a": "洗わず芯を上にして穴あき袋に入れ、4℃以下で購入日から3〜5日です。"},
+      {"q": "カリフラワーは冷凍できますか？", "a": "できますが、小房を3分下ゆでしてから冷やし、拭いて冷凍を。−18℃で購入日から10〜12か月です。"},
+      {"q": "茶色い点のあるカリフラワーは食べられますか？", "a": "小さな茶色い点は酸化なので削り取れば残りは問題ありません。全体がやわらかい、ぬめる、硫黄臭がする場合は処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Coliflor",
+    "aliases": ["coliflor blanca", "romanesco", "coliflor morada", "coliflor fresca"],
+    "summary": "La coliflor es una cabeza compacta de capullos florales sin desarrollar que se oscurece y ablanda tras la recolección. Refrigerada dura 3–5 días desde la compra, y escaldada y congelada 10–12 meses. Guárdala con el tallo hacia arriba para que la condensación no se acumule en la pella.",
+    "pantry": "La coliflor no debe dejarse a temperatura ambiente. En un día en una cocina cálida aparecen manchas pardas en la pella y la cabeza empieza a oler a azufre. Refrigérala nada más llegar a casa y sácala solo cuando vayas a cortarla en ramilletes.",
+    "fridge": "Guarda la cabeza sin lavar en una bolsa perforada en el cajón de verduras a 4 °C (40 °F) o menos, donde dura 3–5 días desde la compra. Colócala con el tallo hacia arriba para que la humedad escurra y no se quede en la pella, que es la causa habitual de las manchas pardas. Deja las hojas exteriores, que protegen la cabeza.",
+    "freezer": "Se congela 10–12 meses desde la compra a −18 °C (0 °F) si la escaldas antes. Córtala en ramilletes uniformes, hiérvelos 3 minutos, pásalos a agua helada, escúrrelos y sécalos bien, congélalos en bandeja y embólsalos. Sin escaldar se vuelven grises y amargos en semanas.",
+    "thawing": "Cocina la coliflor congelada directamente: descongelarla la deja aguada. Ásala, hiérvela o cuécela al vapor, o añádela congelada a sopas y currys.",
+    "spoilage": [
+      "Manchas pardas o negras que se extienden por la pella blanca",
+      "Ramilletes blandos, deshechos o viscosos",
+      "Olor fuerte, sulfuroso o a col podrida",
+      "Pella amarillenta con los capullos empezando a separarse"
+    ],
+    "tips": [
+      "Guárdala con el tallo hacia arriba para que no se acumule agua en la pella",
+      "Las manchas pardas pequeñas se pueden raspar con un cuchillo; el resto está bien",
+      "Deja las hojas exteriores hasta cortarla: la protegen",
+      "Ásala en lugar de hervirla para evitar el olor sulfuroso"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la coliflor en la nevera?", "a": "3–5 días desde la compra a 4 °C (40 °F) o menos, sin lavar y con el tallo hacia arriba en una bolsa perforada."},
+      {"q": "¿Se puede congelar la coliflor?", "a": "Sí, pero escalda los ramilletes 3 minutos primero, enfríalos, sécalos y congélalos. Dura 10–12 meses desde la compra a −18 °C (0 °F)."},
+      {"q": "¿Se puede comer coliflor con manchas pardas?", "a": "Las manchas pequeñas son oxidación y pueden recortarse, dejando el resto perfectamente aprovechable. Desecha la cabeza si está blanda, viscosa o huele a azufre."}
+    ]
+  }
+}

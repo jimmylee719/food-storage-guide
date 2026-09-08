@@ -1,0 +1,107 @@
+{
+  "slug": "carrots-parsnips",
+  "en": {
+    "name": "Carrots and parsnips",
+    "aliases": ["carrots", "parsnips", "baby carrots", "root vegetables"],
+    "summary": "Carrots and parsnips are dense roots that store very well in the cold. In the fridge they keep 2–3 weeks from the date of purchase, and blanched and frozen they last 10–12 months. Removing any leafy tops immediately is the single most important thing you can do.",
+    "pantry": "Carrots and parsnips do not do well at room temperature. They lose moisture and go limp and rubbery within a few days in a warm kitchen. A cool, dark cellar below about 10 °C will hold them in damp sand for months, but a normal kitchen cupboard will not, so use the fridge.",
+    "fridge": "Cut off any leafy tops as soon as you get home, since they draw moisture out of the root. Store the roots unwashed in a perforated bag in the crisper at 4 °C (40 °F) or below, where they keep 2–3 weeks from purchase. Keep them away from apples and pears, whose ethylene makes carrots taste bitter.",
+    "freezer": "Carrots and parsnips freeze for 10–12 months from purchase at −18 °C (0 °F) if blanched first. Peel and slice or dice them evenly, boil for 2–3 minutes, plunge into iced water, drain and dry, then freeze on a tray and bag. Unblanched roots lose colour, flavour and texture within weeks.",
+    "thawing": "Cook frozen carrots and parsnips straight from the freezer — thawing makes them limp. Add them directly to soups, stews, roasting trays or boiling water.",
+    "spoilage": [
+      "Soft, limp roots that bend rather than snap",
+      "Slimy surface or black soft spots",
+      "White fuzzy mould, especially at the cut ends",
+      "Sour or fermented smell in the bag"
+    ],
+    "tips": [
+      "Cut the leafy tops off the day you buy them",
+      "Store unwashed in a perforated bag, or submerged in a container of water for extra crispness",
+      "Keep them away from apples and pears, whose ethylene makes carrots bitter",
+      "A white bloom on baby carrots is just dryness, not mould — rinse and use them"
+    ],
+    "faq": [
+      {"q": "How long do carrots last in the fridge?", "a": "2–3 weeks from purchase at 4 °C (40 °F) or below, with the tops removed and stored unwashed in a perforated bag."},
+      {"q": "Can you freeze carrots?", "a": "Yes, but blanch them for 2–3 minutes first, then chill, dry and freeze. They keep 10–12 months from purchase at −18 °C (0 °F)."},
+      {"q": "How do you revive limp carrots?", "a": "Soak them in a bowl of cold water in the fridge for a few hours. They reabsorb water and become crisp again, which is fine for cooking."}
+    ]
+  },
+  "zh": {
+    "name": "紅蘿蔔與歐防風",
+    "aliases": ["胡蘿蔔", "紅蘿蔔", "歐防風", "防風草根", "小紅蘿蔔"],
+    "summary": "紅蘿蔔和歐防風都是密實的根莖類，低溫下特別耐放。冷藏從購買日起可放 2～3 週，燙過後冷凍則可保存 10～12 個月。最重要的一件事，就是買回家立刻把上面的葉子切掉。",
+    "pantry": "紅蘿蔔和歐防風在室溫下表現不好，在溫暖的廚房裡幾天內就會失水、變軟像橡膠。如果有低於 10°C 的陰涼地下室，埋在濕沙裡可以放好幾個月，但一般廚房的櫥櫃做不到，所以請用冰箱。",
+    "fridge": "買回家立刻切掉葉子，因為葉子會把根部的水分抽走。根莖不清洗，裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 2～3 週。也要遠離蘋果和梨子，它們釋放的乙烯會讓紅蘿蔔吃起來發苦。",
+    "freezer": "紅蘿蔔和歐防風先汆燙再冷凍，放 −18°C，從購買日起可保存 10～12 個月。削皮後切成大小一致的片或丁，滾水煮 2～3 分鐘，撈起泡冰水，瀝乾擦乾，鋪盤冷凍後裝袋。沒汆燙的話，幾週內就會褪色、走味、口感變差。",
+    "thawing": "冷凍的紅蘿蔔和歐防風請直接下鍋，解凍會讓它們軟垮。直接加進湯品、燉菜、烤盤或滾水裡即可。",
+    "spoilage": [
+      "根部變軟，折起來只彎不斷",
+      "表面摸起來黏滑，或出現黑色軟斑",
+      "長出白色毛狀黴菌，尤其在切口處",
+      "袋子裡有酸味或發酵味"
+    ],
+    "tips": [
+      "買回來當天就把葉子切掉",
+      "不清洗裝在打洞袋裡，或整個泡在裝水的保鮮盒中，可以更脆",
+      "遠離蘋果和梨子，它們的乙烯會讓紅蘿蔔發苦",
+      "小紅蘿蔔表面的白霧只是乾燥，不是黴菌，沖一下就能用"
+    ],
+    "faq": [
+      {"q": "紅蘿蔔放冰箱可以放多久？", "a": "切掉葉子、不清洗裝在打洞袋裡，放 4°C 以下，從購買日起 2～3 週。"},
+      {"q": "紅蘿蔔可以冷凍嗎？", "a": "可以，但要先汆燙 2～3 分鐘，再冰鎮、擦乾後冷凍。放 −18°C，從購買日起可保存 10～12 個月。"},
+      {"q": "軟掉的紅蘿蔔怎麼救？", "a": "放進裝冷水的碗裡冷藏幾小時，它會重新吸水變脆，拿來烹調完全沒問題。"}
+    ]
+  },
+  "ja": {
+    "name": "にんじん・パースニップ",
+    "aliases": ["人参", "ニンジン", "パースニップ", "ベビーキャロット", "白にんじん"],
+    "summary": "にんじんとパースニップは身の詰まった根菜で、低温での保存性に優れます。冷蔵では購入日から2〜3週間、下ゆでして冷凍すれば10〜12か月保存できます。葉つきの場合、買ってすぐ葉を落とすことが最も大切です。",
+    "pantry": "にんじんやパースニップは常温には向きません。暖かい台所では数日で水分が抜け、ぐったりしてゴムのようになります。10℃を下回る涼しい地下室なら湿った砂に埋めて数か月持ちますが、通常の戸棚では無理なので冷蔵庫を使いましょう。",
+    "fridge": "帰宅したらすぐ葉を切り落としてください。葉が根の水分を吸ってしまいます。根は洗わずに穴あき袋へ入れ、4℃以下の野菜室で保存すれば購入日から2〜3週間持ちます。りんごや洋なしのエチレンはにんじんを苦くするので、離して保存しましょう。",
+    "freezer": "下ゆですれば−18℃で購入日から10〜12か月冷凍できます。皮をむいて均一に切り、2〜3分ゆで、氷水に取り、水気を切って拭き、バットで凍らせてから袋へ。下ゆでしないと数週間で色も風味も食感も落ちます。",
+    "thawing": "冷凍したにんじんやパースニップは解凍せずそのまま調理を。解凍するとぐったりします。スープ、煮込み、天板、熱湯に直接入れましょう。",
+    "spoilage": [
+      "根がやわらかく、折れずに曲がる",
+      "表面がぬめる、黒くやわらかい部分がある",
+      "とくに切り口に白いふわふわしたカビ",
+      "袋の中が酸っぱい、発酵したようなにおいがする"
+    ],
+    "tips": [
+      "葉つきなら買った当日に切り落としましょう",
+      "洗わず穴あき袋で保存を。水を張った容器に沈めるとよりシャキッとします",
+      "りんごや洋なしのエチレンで苦くなるので離して保存を",
+      "ベビーキャロットの白い膜は乾燥によるもので、カビではありません"
+    ],
+    "faq": [
+      {"q": "にんじんは冷蔵庫でどのくらい持ちますか？", "a": "葉を落とし、洗わず穴あき袋に入れて4℃以下なら、購入日から2〜3週間です。"},
+      {"q": "にんじんは冷凍できますか？", "a": "できますが、まず2〜3分下ゆでし、冷やして拭いてから冷凍を。−18℃で購入日から10〜12か月です。"},
+      {"q": "しなびたにんじんは戻せますか？", "a": "冷水を張ったボウルに入れて冷蔵庫で数時間置くと、水を吸ってシャキッと戻ります。調理には問題なく使えます。"}
+    ]
+  },
+  "es": {
+    "name": "Zanahorias y chirivías",
+    "aliases": ["zanahoria", "chirivía", "zanahorias baby", "pastinaca", "hortalizas de raíz"],
+    "summary": "Las zanahorias y las chirivías son raíces densas que se conservan muy bien en frío. En la nevera duran 2–3 semanas desde la compra, y escaldadas y congeladas 10–12 meses. Quitar de inmediato las hojas es lo más importante que puedes hacer.",
+    "pantry": "No se conservan bien a temperatura ambiente. Pierden humedad y se vuelven flácidas y gomosas en pocos días en una cocina cálida. Un sótano fresco y oscuro por debajo de unos 10 °C las mantiene meses en arena húmeda, pero un armario de cocina normal no, así que usa la nevera.",
+    "fridge": "Corta las hojas nada más llegar a casa, porque extraen humedad de la raíz. Guarda las raíces sin lavar en una bolsa perforada en el cajón de verduras a 4 °C (40 °F) o menos, donde duran 2–3 semanas desde la compra. Manténlas lejos de manzanas y peras, cuyo etileno amarga las zanahorias.",
+    "freezer": "Se congelan 10–12 meses desde la compra a −18 °C (0 °F) si las escaldas antes. Pélalas y córtalas en rodajas o dados uniformes, hiérvelas 2–3 minutos, pásalas a agua helada, escúrrelas y sécalas, congélalas en bandeja y embólsalas. Sin escaldar pierden color, sabor y textura en semanas.",
+    "thawing": "Cocínalas congeladas: descongelarlas las deja flácidas. Añádelas directamente a sopas, guisos, bandejas de horno o agua hirviendo.",
+    "spoilage": [
+      "Raíces blandas y flácidas que se doblan en vez de quebrarse",
+      "Superficie viscosa o manchas negras blandas",
+      "Moho blanco, sobre todo en los extremos cortados",
+      "Olor agrio o fermentado dentro de la bolsa"
+    ],
+    "tips": [
+      "Corta las hojas el día de la compra",
+      "Guárdalas sin lavar en bolsa perforada, o sumergidas en un recipiente con agua para más textura",
+      "Manténlas lejos de manzanas y peras, cuyo etileno las amarga",
+      "La capa blanquecina de las zanahorias baby es sequedad, no moho: enjuágalas y úsalas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las zanahorias en la nevera?", "a": "2–3 semanas desde la compra a 4 °C (40 °F) o menos, con las hojas cortadas y guardadas sin lavar en bolsa perforada."},
+      {"q": "¿Se pueden congelar las zanahorias?", "a": "Sí, pero escáldalas 2–3 minutos primero, enfríalas, sécalas y congélalas. Duran 10–12 meses desde la compra a −18 °C (0 °F)."},
+      {"q": "¿Cómo recuperar zanahorias flácidas?", "a": "Sumérgelas en un bol con agua fría en la nevera unas horas. Reabsorben agua y vuelven a quedar crujientes, algo perfecto para cocinarlas."}
+    ]
+  }
+}

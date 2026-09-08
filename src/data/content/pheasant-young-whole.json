@@ -1,0 +1,107 @@
+{
+  "slug": "pheasant-young-whole",
+  "en": {
+    "name": "Whole young pheasant",
+    "aliases": ["pheasant", "young pheasant", "game bird", "hen pheasant"],
+    "summary": "A young pheasant is a small game bird with lean, delicately gamey meat that dries out easily because it carries so little fat. Raw, it keeps only 1–2 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and about 6 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw pheasant must never be kept at room temperature. Traditional hanging of game is done in a cold larder at controlled temperatures, not in a modern warm kitchen; once the bird is plucked, drawn and sold, treat it like any other raw poultry. Discard a bird left in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) for more than 2 hours, or 1 hour above 32 °C (90 °F).",
+    "fridge": "Store the pheasant in its packaging on a tray on the bottom shelf at 4 °C (40 °F) or below, below all ready-to-eat food, and cook it within 1–2 days of purchase. If the bird came from a shoot, check carefully for shot and remove any damaged flesh, since bruised areas spoil first.",
+    "freezer": "Pheasant freezes well and keeps good quality for about 6 months at −18 °C (0 °F), where it remains safe indefinitely. Wrap the bird closely in plastic and then foil or a freezer bag, pressing out every bit of air — lean game meat suffers from freezer burn quickly. Consider freezing the breasts and legs separately, as they suit different cooking methods.",
+    "thawing": "Thaw in the fridge on a tray for about 12–24 hours depending on size, or in a sealed bag under cold water changed every 30 minutes if you are short of time, cooking immediately after. Never thaw game on the counter. Cook pheasant to 74 °C (165 °F) in the thickest part of the thigh.",
+    "spoilage": [
+      "Sour, sulphurous or ammonia-like smell distinct from the mild gamey scent",
+      "Slimy or sticky skin",
+      "Green or grey discolouration, especially around shot damage or the vent",
+      "Cloudy, ropey liquid in the packaging, or a passed use-by date"
+    ],
+    "tips": [
+      "Bard the breast with bacon or butter — pheasant is very lean and dries fast.",
+      "Cook the legs longer than the breast, or braise them separately.",
+      "Check for shot before cooking and cut away any bruised flesh.",
+      "Freeze breasts and legs in separate packs for different dishes."
+    ],
+    "faq": [
+      {"q": "Can you freeze pheasant?", "a": "Yes, at −18 °C (0 °F): safe indefinitely and good quality for about 6 months. Wrap it very tightly, since lean game burns in the freezer quickly."},
+      {"q": "How long does raw pheasant last in the fridge?", "a": "Only 1–2 days from the day of purchase at 4 °C (40 °F) or below."},
+      {"q": "Why is my pheasant dry?", "a": "It has almost no fat. Bard the breast with bacon or butter, cook it just to 74 °C (165 °F), and braise the legs rather than roasting them alongside."}
+    ]
+  },
+  "zh": {
+    "name": "整隻小雉雞（野雞）",
+    "aliases": ["雉雞", "野雞", "山雞", "環頸雉"],
+    "summary": "小雉雞是體型不大的野味禽鳥，肉質精瘦、帶有淡淡野味，因為脂肪極少所以很容易烤乾。生肉在 4°C 以下冷藏，從購買日起只能放 1～2 天；放 −18°C 冷凍約可放 6 個月。",
+    "pantry": "生雉雞絕對不能放室溫。傳統的野味吊掛熟成是在溫度受控的冷藏食品室裡進行，不是在現代溫暖的廚房；只要已經拔毛、去內臟並上市販售，就要當成一般生禽肉處理。在 4～60°C 的危險溫度帶放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "連包裝放在盤子上、置於冰箱最下層，維持 4°C 以下，並放在所有即食食品下方，購買後 1～2 天內烹調。如果是獵來的鳥，請仔細檢查有沒有殘留的鉛彈，並把受損的肉切掉，因為瘀傷的部位最先腐敗。",
+    "freezer": "雉雞很適合冷凍，放 −18°C 品質約可維持 6 個月，安全上可以無限期保存。用保鮮膜貼緊，再包鋁箔或裝進冷凍袋，把空氣完全擠出——精瘦的野味很快就會凍燒。也可以把胸肉和腿分開冷凍，因為兩者適合的烹調方式不同。",
+    "thawing": "放盤子上冷藏解凍約 12～24 小時（視大小而定）；趕時間可以裝密封袋泡冷水、每 30 分鐘換水，解凍後立刻烹調。絕對不要在室溫解凍野味。雉雞要烤到大腿最厚處 74°C。",
+    "spoilage": [
+      "出現有別於淡淡野味的酸味、硫磺味或阿摩尼亞味",
+      "外皮黏滑、發黏",
+      "出現綠色或灰色變色，尤其在中彈處或泄殖腔附近",
+      "包裝內液體變混濁牽絲，或已超過有效日期"
+    ],
+    "tips": [
+      "胸肉上蓋培根或抹奶油，雉雞極瘦、乾得很快。",
+      "腿肉比胸肉需要更久的加熱時間，或者另外燉煮。",
+      "烹調前檢查有沒有鉛彈，把瘀傷的肉切掉。",
+      "胸肉和腿分開包裝冷凍，之後做不同料理。"
+    ],
+    "faq": [
+      {"q": "雉雞可以冷凍嗎？", "a": "可以，放 −18°C 冷凍：安全上無限期，品質約 6 個月。要包得非常緊，精瘦的野味很快就凍燒。"},
+      {"q": "生雉雞放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起只有 1～2 天。"},
+      {"q": "雉雞為什麼很乾？", "a": "因為它幾乎沒有脂肪。胸肉蓋培根或抹奶油、烤到剛好 74°C 就好，腿肉則另外燉，不要跟胸肉一起烤。"}
+    ]
+  },
+  "ja": {
+    "name": "若いキジ（丸ごと）",
+    "aliases": ["キジ", "雉", "ジビエの鳥", "フェザント"],
+    "summary": "若いキジは小型のジビエの鳥で、赤身が強くほのかな野性味があり、脂がほとんどないためパサつきやすいのが特徴です。生の状態では4℃以下の冷蔵で購入日から1〜2日、−18℃の冷凍で約6か月が目安です。",
+    "pantry": "生のキジを常温に置くことはできません。伝統的なジビエの吊るし熟成は、温度が管理された冷たい貯蔵室で行うもので、現代の暖かい台所では別物です。羽を抜き内臓を出して流通しているものは、ほかの生の家禽と同じ扱いにしてください。4〜60℃の危険温度帯に2時間以上（気温32℃以上なら1時間以上）置いたものは処分します。",
+    "fridge": "包装のままトレーにのせ、冷蔵庫の最下段で4℃以下を保ち、そのまま食べる食品より下に置いて、購入から1〜2日以内に調理します。狩猟由来のものは散弾が残っていないか確認し、傷んだ部分は切り取ってください。内出血した箇所から先に傷みます。",
+    "freezer": "キジは冷凍向きで、−18℃なら品質は約6か月、安全面では長期間保存できます。ラップで密着させ、さらにホイルか冷凍用保存袋で包んで空気を完全に抜きましょう。脂の少ないジビエは冷凍焼けが早く出ます。むね肉ともも肉は調理法が違うので、分けて冷凍するのもおすすめです。",
+    "thawing": "トレーにのせて冷蔵庫で12〜24時間（大きさによる）解凍します。急ぐときは密閉袋で冷水解凍（30分ごとに水替え）にし、解凍後すぐ調理してください。常温解凍は厳禁。ももの厚い部分が74℃になるまで加熱します。",
+    "spoilage": [
+      "ほのかな野性味とは異なる、酸っぱいにおい・硫黄臭・アンモニア臭がする",
+      "皮がぬめる・べたつく",
+      "緑や灰色の変色がある（とくに散弾の当たった部分や総排出口の周り）",
+      "パック内の液が濁って糸を引く、消費期限を過ぎている"
+    ],
+    "tips": [
+      "むね肉にベーコンを巻くかバターを塗る。赤身が強く乾きやすい。",
+      "もも肉はむね肉より長く加熱するか、別に煮込む。",
+      "調理前に散弾の有無を確認し、内出血した肉は切り取る。",
+      "むね肉ともも肉を別々に冷凍しておくと、料理に合わせて使える。"
+    ],
+    "faq": [
+      {"q": "キジは冷凍できますか？", "a": "できます。−18℃で安全面では長期間、品質は約6か月。脂が少なく冷凍焼けしやすいので、しっかり密着させて包んでください。"},
+      {"q": "生のキジは冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から1〜2日だけです。"},
+      {"q": "キジがパサつくのはなぜ？", "a": "脂がほとんどないためです。むね肉にベーコンやバターを添え、74℃きっかりで止め、もも肉は一緒に焼かず別に煮込みましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Faisán joven entero",
+    "aliases": ["faisán", "faisán joven", "ave de caza", "faisana"],
+    "summary": "El faisán joven es un ave de caza pequeña, de carne magra y sabor levemente cinegético, que se seca con facilidad porque apenas tiene grasa. Crudo dura solo 1–2 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y unos 6 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "El faisán crudo nunca debe guardarse a temperatura ambiente. El colgado tradicional de la caza se hace en una despensa fría a temperatura controlada, no en una cocina moderna templada; una vez desplumado, eviscerado y a la venta, trátalo como cualquier ave cruda. Deséchalo si pasa más de 2 horas en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F), o 1 hora por encima de 32 °C (90 °F).",
+    "fridge": "Guárdalo en su envase sobre una bandeja en el estante inferior a 4 °C (40 °F) o menos, por debajo de los alimentos listos para comer, y cocínalo en 1–2 días desde la compra. Si viene de una cacería, revisa que no queden perdigones y retira la carne dañada: las zonas magulladas se estropean primero.",
+    "freezer": "Se congela bien y conserva buena calidad unos 6 meses a −18 °C (0 °F), donde sigue seguro indefinidamente. Envuélvelo pegado con film y luego con aluminio o bolsa de congelación, sacando hasta la última burbuja de aire: la caza magra sufre quemadura por congelación enseguida. Puedes congelar por separado las pechugas y los muslos, que piden cocciones distintas.",
+    "thawing": "Descongélalo en el refrigerador sobre una bandeja durante 12–24 horas según el tamaño, o en bolsa cerrada bajo agua fría cambiada cada 30 minutos si vas justo de tiempo, cocinando enseguida. Nunca descongeles caza en la encimera. Cocina el faisán hasta 74 °C (165 °F) en la parte más gruesa del muslo.",
+    "spoilage": [
+      "Olor agrio, sulfuroso o a amoníaco, distinto del aroma suave de caza",
+      "Piel viscosa o pegajosa",
+      "Coloración verdosa o gris, sobre todo alrededor de los impactos de perdigón o la cloaca",
+      "Líquido turbio y filante en el envase, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Cubre la pechuga con tocino o mantequilla: el faisán es muy magro y se seca rápido.",
+      "Cocina los muslos más tiempo que la pechuga, o brasealos aparte.",
+      "Revisa los perdigones antes de cocinar y corta la carne magullada.",
+      "Congela pechugas y muslos en paquetes separados para platos distintos."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el faisán?", "a": "Sí, a −18 °C (0 °F): seguro indefinidamente y con buena calidad unos 6 meses. Envuélvelo muy apretado, porque la caza magra se quema rápido en el congelador."},
+      {"q": "¿Cuánto dura el faisán crudo en el refrigerador?", "a": "Solo 1–2 días desde el día de compra a 4 °C (40 °F) o menos."},
+      {"q": "¿Por qué me queda seco el faisán?", "a": "Porque casi no tiene grasa. Cubre la pechuga con tocino o mantequilla, cocínalo justo hasta 74 °C (165 °F) y brasea los muslos en vez de asarlos junto a la pechuga."}
+    ]
+  }
+}

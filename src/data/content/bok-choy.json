@@ -1,0 +1,107 @@
+{
+  "slug": "bok-choy",
+  "en": {
+    "name": "Bok choy",
+    "aliases": ["pak choi", "Chinese white cabbage", "baby bok choy", "Shanghai bok choy"],
+    "summary": "Bok choy is a leafy Chinese cabbage with crisp white stems and dark green leaves, and it is highly perishable because of its high water content. Refrigerated it keeps only 2–3 days from the date of purchase, while blanched and frozen it lasts 10–12 months.",
+    "pantry": "Bok choy is not a room-temperature vegetable. The leaves wilt within hours in a warm kitchen and the stems go limp and lose their snap. Take it straight home from the market and refrigerate it; if you leave it on the counter overnight it will usually be unusable by morning, especially in a humid climate.",
+    "fridge": "Store bok choy unwashed in a perforated bag in the crisper at 4 °C (40 °F) or below, where it keeps 2–3 days from purchase. Wrap the base in kitchen paper to absorb moisture and stand the heads upright if possible so the leaves do not crush. Do not wash before storing; rinse just before cooking, separating the leaves to remove grit at the base.",
+    "freezer": "Bok choy freezes for 10–12 months from purchase at −18 °C (0 °F) if blanched first. Separate the leaves, boil for 2 minutes, plunge into iced water, drain and squeeze out excess water, then pack into airtight bags. Frozen bok choy is soft and best used in soups, dumpling fillings and stir-fried dishes.",
+    "thawing": "Add frozen bok choy straight to soups and stir-fries. If a recipe needs it thawed, do it in the fridge and squeeze out the water before cooking so the dish is not watery.",
+    "spoilage": [
+      "Yellowing or translucent leaves",
+      "Slimy, brown or blackened leaf edges",
+      "Soft, limp stems that no longer snap",
+      "Sour, cabbage-like or ammonia smell"
+    ],
+    "tips": [
+      "Buy bok choy the day you plan to cook it — it does not keep",
+      "Wrap the base in kitchen paper and store in a perforated bag",
+      "Separate the stems from the leaves when cooking, as the stems take longer",
+      "Wash just before cooking, splaying the leaves to rinse grit from the base"
+    ],
+    "faq": [
+      {"q": "How long does bok choy last in the fridge?", "a": "Only 2–3 days from purchase at 4 °C (40 °F) or below, stored unwashed in a perforated bag in the crisper."},
+      {"q": "Can you freeze bok choy?", "a": "Yes, if you blanch it first for 2 minutes, chill, drain and squeeze out the water. It keeps 10–12 months from purchase at −18 °C (0 °F)."},
+      {"q": "Can you eat bok choy with yellow leaves?", "a": "A few slightly yellow outer leaves can be removed and the rest used. Discard the head if the leaves are slimy, brown or smell sour."}
+    ]
+  },
+  "zh": {
+    "name": "青江菜",
+    "aliases": ["小白菜", "上海青", "湯匙菜", "青梗白菜", "白菜仔"],
+    "summary": "青江菜是葉柄潔白肥厚、葉片深綠的中式葉菜，因為含水量高，非常容易壞。冷藏從購買日起只能放 2～3 天，燙過後冷凍則可保存 10～12 個月。",
+    "pantry": "青江菜不適合常溫保存。在溫暖的廚房裡，葉子幾小時內就會軟垮，葉柄也會失去脆度。從市場買回來請直接冷藏；放在檯面上過夜的話，隔天早上通常就不能用了，潮濕的氣候更是如此。",
+    "fridge": "不清洗，裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 2～3 天。用廚房紙巾包住根部吸收水氣，盡量讓菜株直立擺放，葉子才不會被壓爛。保存前不要洗，要煮之前再沖，記得把葉片撥開沖掉根部的沙。",
+    "freezer": "青江菜先汆燙再冷凍，放 −18°C，從購買日起可保存 10～12 個月。把葉片分開，滾水煮 2 分鐘，撈起泡冰水，瀝乾並擠掉多餘水分，再裝進密封袋。冷凍過的青江菜口感偏軟，適合做湯、水餃餡和快炒。",
+    "thawing": "冷凍青江菜可以直接丟進湯裡或熱鍋快炒。如果食譜需要解凍，請放冷藏室退冰，並在下鍋前把水分擠乾，菜色才不會水水的。",
+    "spoilage": [
+      "葉片發黃或變得半透明",
+      "葉緣變黏滑、發褐或發黑",
+      "葉柄變軟塌，折起來不再清脆",
+      "有酸味、悶悶的菜味或阿摩尼亞味"
+    ],
+    "tips": [
+      "當天要煮再買，青江菜真的不耐放",
+      "根部用廚房紙巾包起來，再裝進打洞袋",
+      "料理時把梗和葉分開下鍋，梗需要煮久一點",
+      "煮之前再洗，把葉片撥開沖掉根部縫隙的泥沙"
+    ],
+    "faq": [
+      {"q": "青江菜放冰箱可以放多久？", "a": "不清洗、裝在打洞袋裡收在蔬果保鮮室，放 4°C 以下，從購買日起只有 2～3 天。"},
+      {"q": "青江菜可以冷凍嗎？", "a": "可以，但要先汆燙 2 分鐘，冰鎮瀝乾並擠掉水分。放 −18°C，從購買日起可保存 10～12 個月。"},
+      {"q": "葉子有點黃的青江菜還能吃嗎？", "a": "只是外層幾片微黃的話，摘掉後其餘還能用。但如果葉子黏滑、發褐或聞起來發酸，整株就該丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "チンゲン菜",
+    "aliases": ["青梗菜", "パクチョイ", "ベビーチンゲン菜", "青菜"],
+    "summary": "チンゲン菜は白くシャキッとした軸と濃い緑の葉を持つ中国野菜で、水分が多いためとても傷みやすい野菜です。冷蔵では購入日から2〜3日しか持たず、下ゆでして冷凍すれば10〜12か月保存できます。",
+    "pantry": "チンゲン菜は常温向きではありません。暖かい台所では数時間で葉がしおれ、軸もぐったりして食感が失われます。買ったらすぐ冷蔵庫へ。調理台に一晩置くと、翌朝にはたいてい使えなくなっており、湿度が高い時期はなおさらです。",
+    "fridge": "洗わずに穴あき袋へ入れ、4℃以下の野菜室で保存すれば購入日から2〜3日持ちます。根元をキッチンペーパーで包んで水分を吸わせ、できれば立てて置くと葉がつぶれません。保存前に洗わず、調理直前に葉を広げて根元の砂を洗い流しましょう。",
+    "freezer": "下ゆですれば−18℃で購入日から10〜12か月冷凍できます。葉をばらして2分ゆで、氷水に取り、水気を切ってしっかり絞ってから密閉袋へ。冷凍したものはやわらかいので、スープや餃子の具、炒め物に向きます。",
+    "thawing": "冷凍したチンゲン菜はそのままスープや炒め物へ。解凍が必要な場合は冷蔵庫で行い、調理前に水気を絞ると仕上がりが水っぽくなりません。",
+    "spoilage": [
+      "葉が黄色くなる、透けたようになっている",
+      "葉の縁がぬめる、茶色や黒に変色している",
+      "軸がやわらかくなり、パキッと折れない",
+      "酸っぱいにおい、蒸れた青臭さ、アンモニア臭"
+    ],
+    "tips": [
+      "日持ちしないので、調理する当日に買いましょう",
+      "根元をキッチンペーパーで包み、穴あき袋で保存を",
+      "調理では軸と葉を分けて。軸のほうが火が通りにくいです",
+      "洗うのは調理直前に。葉を広げて根元の砂を落としましょう"
+    ],
+    "faq": [
+      {"q": "チンゲン菜は冷蔵庫でどのくらい持ちますか？", "a": "洗わず穴あき袋に入れて野菜室に置き、4℃以下で購入日から2〜3日だけです。"},
+      {"q": "チンゲン菜は冷凍できますか？", "a": "できます。2分下ゆでして冷やし、水気を絞ってから冷凍を。−18℃で購入日から10〜12か月です。"},
+      {"q": "葉が黄色くなったチンゲン菜は食べられますか？", "a": "外側の数枚が少し黄色い程度なら、その葉を取り除けば使えます。ぬめり、茶色い変色、酸っぱいにおいがあれば株ごと処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Pak choi",
+    "aliases": ["bok choy", "col china", "pak choi baby", "repollo chino blanco"],
+    "summary": "El pak choi es una col china de tallos blancos y crujientes y hojas verde oscuro, muy perecedera por su alto contenido en agua. Refrigerado dura solo 2–3 días desde la compra, mientras que escaldado y congelado aguanta 10–12 meses.",
+    "pantry": "El pak choi no es una verdura de temperatura ambiente. Las hojas se marchitan en horas en una cocina cálida y los tallos pierden su textura crujiente. Llévalo directo a casa y refrigéralo; si lo dejas en la encimera toda la noche, por la mañana suele estar inservible, sobre todo en climas húmedos.",
+    "fridge": "Guárdalo sin lavar en una bolsa perforada en el cajón de verduras a 4 °C (40 °F) o menos, donde dura 2–3 días desde la compra. Envuelve la base en papel de cocina para absorber humedad y coloca las piezas de pie si puedes, para que las hojas no se aplasten. No lo laves antes de guardarlo; enjuágalo justo antes de cocinar, separando las hojas para quitar la tierra de la base.",
+    "freezer": "Se congela 10–12 meses desde la compra a −18 °C (0 °F) si lo escaldas antes. Separa las hojas, hiérvelas 2 minutos, pásalas a agua helada, escúrrelas y estruja el exceso de agua, y guárdalas en bolsas herméticas. Congelado queda blando y va mejor en sopas, rellenos de empanadillas y salteados.",
+    "thawing": "Añade el pak choi congelado directamente a sopas y salteados. Si la receta lo pide descongelado, hazlo en la nevera y escurre bien el agua antes de cocinar para que el plato no quede aguado.",
+    "spoilage": [
+      "Hojas amarillentas o translúcidas",
+      "Bordes de las hojas viscosos, pardos o ennegrecidos",
+      "Tallos blandos y flácidos que ya no crujen",
+      "Olor agrio, a col o amoniacal"
+    ],
+    "tips": [
+      "Compra el pak choi el día que vayas a cocinarlo: no aguanta",
+      "Envuelve la base en papel de cocina y guárdalo en bolsa perforada",
+      "Separa tallos y hojas al cocinar, porque los tallos tardan más",
+      "Lávalo justo antes de cocinar, abriendo las hojas para enjuagar la tierra de la base"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el pak choi en la nevera?", "a": "Solo 2–3 días desde la compra a 4 °C (40 °F) o menos, sin lavar y en bolsa perforada en el cajón de verduras."},
+      {"q": "¿Se puede congelar el pak choi?", "a": "Sí, si lo escaldas 2 minutos antes, lo enfrías, lo escurres y estrujas el agua. Dura 10–12 meses desde la compra a −18 °C (0 °F)."},
+      {"q": "¿Se puede comer pak choi con hojas amarillas?", "a": "Unas pocas hojas exteriores algo amarillas se pueden retirar y aprovechar el resto. Desecha la pieza si las hojas están viscosas, pardas o huelen agrio."}
+    ]
+  }
+}

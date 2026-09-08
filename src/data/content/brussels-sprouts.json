@@ -1,0 +1,107 @@
+{
+  "slug": "brussels-sprouts",
+  "en": {
+    "name": "Brussels sprouts",
+    "aliases": ["sprouts", "baby cabbages", "Brussels", "sprouts on the stalk"],
+    "summary": "Brussels sprouts are miniature cabbages that stay firm longer than leafy greens but still lose sweetness quickly after picking. Refrigerated they keep 3–5 days from the date of purchase, and blanched and frozen they last 10–12 months. Sprouts still on the stalk keep noticeably longer.",
+    "pantry": "Brussels sprouts should not be stored at room temperature. In a warm kitchen the outer leaves yellow, the sprouts soften and their sugars turn starchy, and they develop the strong sulphurous smell people associate with overcooked cabbage. Refrigerate them as soon as you get home.",
+    "fridge": "Store loose sprouts unwashed in a perforated bag in the crisper at 4 °C (40 °F) or below, where they keep 3–5 days from purchase. Leave them whole and untrimmed: cutting the base or removing the outer leaves early makes them deteriorate faster. If you buy them still attached to the stalk, leave them on it and store the whole stalk in the fridge.",
+    "freezer": "Brussels sprouts freeze for 10–12 months from purchase at −18 °C (0 °F) if blanched first. Trim the bases, sort by size, boil small sprouts 3 minutes and large ones 5, then plunge into iced water, drain, dry thoroughly and freeze on a tray before bagging.",
+    "thawing": "Cook frozen sprouts straight from the freezer — thawing makes them soggy. Roast, boil or steam them directly, allowing slightly longer than for fresh.",
+    "spoilage": [
+      "Yellow or black outer leaves throughout, not just one or two",
+      "Soft, mushy or slimy sprouts",
+      "Strong sulphurous or rotten-cabbage smell",
+      "Loose, splayed leaves rather than a tight, firm head"
+    ],
+    "tips": [
+      "Buy sprouts on the stalk when you can — they keep noticeably longer",
+      "Leave them whole until cooking; trim the base only at the last moment",
+      "Sort by size before blanching so they cook evenly",
+      "Halve and roast rather than boil to avoid the sulphurous smell"
+    ],
+    "faq": [
+      {"q": "How long do Brussels sprouts last in the fridge?", "a": "3–5 days from purchase at 4 °C (40 °F) or below, stored whole and unwashed in a perforated bag. Sprouts on the stalk keep longer."},
+      {"q": "Can you freeze Brussels sprouts?", "a": "Yes, but blanch them first — 3 minutes for small, 5 for large — then chill, dry and freeze. They keep 10–12 months from purchase at −18 °C (0 °F)."},
+      {"q": "Why do Brussels sprouts smell so strong?", "a": "They contain sulphur compounds released by heat and by ageing. Fresh sprouts cooked quickly smell mild; old or overcooked ones smell strongly of sulphur."}
+    ]
+  },
+  "zh": {
+    "name": "抱子甘藍",
+    "aliases": ["球芽甘藍", "孢子甘藍", "小捲心菜", "布魯塞爾芽菜"],
+    "summary": "抱子甘藍是迷你版的高麗菜，比葉菜類耐放，但採收後甜度一樣會很快流失。冷藏從購買日起可放 3～5 天，燙過後冷凍則可保存 10～12 個月。還連在莖上的抱子甘藍明顯更耐放。",
+    "pantry": "抱子甘藍不該放在室溫。在溫暖的廚房裡，外層葉片會變黃、球體變軟、糖分轉成澱粉，並且散發出大家熟悉的、煮過頭高麗菜那種濃重硫磺味。買回家請立刻冷藏。",
+    "fridge": "散裝的抱子甘藍不清洗，裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 3～5 天。保持完整不要修剪：太早切掉底部或剝掉外葉會讓它壞得更快。如果買到還連在莖上的，就整根連莖放冰箱保存。",
+    "freezer": "抱子甘藍先汆燙再冷凍，放 −18°C，從購買日起可保存 10～12 個月。修掉底部、依大小分類，小顆煮 3 分鐘、大顆煮 5 分鐘，撈起泡冰水，瀝乾徹底擦乾，鋪盤冷凍後再裝袋。",
+    "thawing": "冷凍抱子甘藍請直接下鍋，解凍會讓它變得濕軟。直接烤、煮或蒸即可，時間比新鮮的稍微長一點。",
+    "spoilage": [
+      "整體外葉都變黃或發黑，而不只是一兩片",
+      "球體變軟、軟爛或黏滑",
+      "有強烈的硫磺味或高麗菜腐敗的味道",
+      "葉片鬆散外翻，不再是緊實的球狀"
+    ],
+    "tips": [
+      "有機會就買連莖的，明顯更耐放",
+      "煮之前保持完整，最後一刻才修底部",
+      "汆燙前先依大小分類，才會熟得均勻",
+      "對半切開用烤的而不是水煮，可以避免硫磺味"
+    ],
+    "faq": [
+      {"q": "抱子甘藍放冰箱可以放多久？", "a": "保持完整、不清洗裝在打洞袋裡，放 4°C 以下，從購買日起 3～5 天。連著莖的可以放更久。"},
+      {"q": "抱子甘藍可以冷凍嗎？", "a": "可以，但要先汆燙——小顆 3 分鐘、大顆 5 分鐘——再冰鎮、擦乾後冷凍。放 −18°C，從購買日起可保存 10～12 個月。"},
+      {"q": "抱子甘藍為什麼味道那麼重？", "a": "因為它含有硫化合物，加熱和放久都會釋放出來。新鮮的快速煮好味道很溫和，放太久或煮過頭才會有濃重的硫磺味。"}
+    ]
+  },
+  "ja": {
+    "name": "芽キャベツ",
+    "aliases": ["メキャベツ", "ブリュッセルスプラウト", "子持ち甘藍", "姫キャベツ"],
+    "summary": "芽キャベツは小さなキャベツで、葉物より身がしまっていて日持ちしますが、収穫後は甘みが急速に落ちます。冷蔵では購入日から3〜5日、下ゆでして冷凍すれば10〜12か月保存できます。茎についたままのものは目に見えて長持ちします。",
+    "pantry": "芽キャベツを常温で保存してはいけません。暖かい台所では外葉が黄ばみ、身がやわらかくなり、糖がでんぷんに変わって、煮すぎたキャベツのような強い硫黄臭が出てきます。買ったらすぐ冷蔵庫へ入れましょう。",
+    "fridge": "ばらの芽キャベツは洗わずに穴あき袋へ入れ、4℃以下の野菜室で保存すれば購入日から3〜5日持ちます。切ったり外葉を取ったりせず丸のままで。早めに下処理すると劣化が早まります。茎つきで買った場合は、茎ごと冷蔵庫で保存しましょう。",
+    "freezer": "下ゆですれば−18℃で購入日から10〜12か月冷凍できます。根元を切り、大きさをそろえて、小さいものは3分、大きいものは5分ゆで、氷水に取り、水気を切ってしっかり拭き、バットで凍らせてから袋へ入れます。",
+    "thawing": "冷凍した芽キャベツは解凍せずそのまま調理を。解凍すると水っぽくなります。ロースト、ゆで、蒸しのいずれも、生より少し長めに加熱してください。",
+    "spoilage": [
+      "外葉が全体的に黄色や黒に変色している（1〜2枚ではなく）",
+      "身がやわらかい、ぶよぶよ、ぬめっている",
+      "強い硫黄臭やキャベツが腐ったようなにおい",
+      "葉が締まらずゆるく開いている"
+    ],
+    "tips": [
+      "可能なら茎つきを選びましょう。明らかに長持ちします",
+      "調理まで丸のままで。根元を切るのは直前に",
+      "下ゆで前に大きさをそろえると均一に火が通ります",
+      "ゆでるより半割にしてローストすると硫黄臭が出にくくなります"
+    ],
+    "faq": [
+      {"q": "芽キャベツは冷蔵庫でどのくらい持ちますか？", "a": "丸のまま洗わず穴あき袋に入れ、4℃以下で購入日から3〜5日です。茎つきならさらに長持ちします。"},
+      {"q": "芽キャベツは冷凍できますか？", "a": "できますが、まず下ゆでを。小さいものは3分、大きいものは5分ゆで、冷やして拭いてから冷凍。−18℃で購入日から10〜12か月です。"},
+      {"q": "芽キャベツのにおいが強いのはなぜですか？", "a": "硫黄化合物を含み、加熱や時間の経過で放出されるためです。新鮮なものを手早く調理すれば香りは穏やかで、古いものや加熱しすぎたものが強く匂います。"}
+    ]
+  },
+  "es": {
+    "name": "Coles de Bruselas",
+    "aliases": ["repollitos de Bruselas", "coles de bruselas", "bruselas", "repollitos"],
+    "summary": "Las coles de Bruselas son coles en miniatura que se mantienen firmes más tiempo que las hojas verdes, pero pierden dulzor rápido tras la recolección. Refrigeradas duran 3–5 días desde la compra, y escaldadas y congeladas 10–12 meses. Las que vienen en el tallo aguantan bastante más.",
+    "pantry": "No deben guardarse a temperatura ambiente. En una cocina cálida las hojas exteriores amarillean, las coles se ablandan y sus azúcares se vuelven almidón, además de desarrollar el fuerte olor sulfuroso que se asocia a la col demasiado cocida. Refrigéralas nada más llegar a casa.",
+    "fridge": "Guarda las coles sueltas sin lavar en una bolsa perforada en el cajón de verduras a 4 °C (40 °F) o menos, donde duran 3–5 días desde la compra. Déjalas enteras y sin recortar: cortar la base o quitar las hojas exteriores pronto acelera el deterioro. Si las compras en el tallo, déjalas ahí y guarda el tallo entero en la nevera.",
+    "freezer": "Se congelan 10–12 meses desde la compra a −18 °C (0 °F) si las escaldas antes. Recorta las bases, clasifícalas por tamaño, hierve 3 minutos las pequeñas y 5 las grandes, pásalas a agua helada, escúrrelas, sécalas bien y congélalas en bandeja antes de embolsarlas.",
+    "thawing": "Cocínalas congeladas: descongelarlas las deja aguadas. Ásalas, hiérvelas o cuécelas al vapor directamente, con algo más de tiempo que las frescas.",
+    "spoilage": [
+      "Hojas exteriores amarillas o negras en toda la pieza, no solo una o dos",
+      "Coles blandas, deshechas o viscosas",
+      "Olor fuerte, sulfuroso o a col podrida",
+      "Hojas sueltas y abiertas en lugar de una cabeza apretada y firme"
+    ],
+    "tips": [
+      "Cómpralas en el tallo cuando puedas: duran bastante más",
+      "Déjalas enteras hasta cocinarlas y recorta la base en el último momento",
+      "Clasifícalas por tamaño antes de escaldarlas para que se cuezan igual",
+      "Ásalas por la mitad en lugar de hervirlas para evitar el olor sulfuroso"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las coles de Bruselas en la nevera?", "a": "3–5 días desde la compra a 4 °C (40 °F) o menos, enteras y sin lavar en una bolsa perforada. En el tallo duran más."},
+      {"q": "¿Se pueden congelar las coles de Bruselas?", "a": "Sí, pero escáldalas antes —3 minutos las pequeñas, 5 las grandes—, enfríalas, sécalas y congélalas. Duran 10–12 meses desde la compra a −18 °C (0 °F)."},
+      {"q": "¿Por qué huelen tan fuerte las coles de Bruselas?", "a": "Contienen compuestos de azufre que se liberan con el calor y con el paso del tiempo. Las frescas cocinadas rápido huelen suave; las viejas o pasadas de cocción, muy sulfurosas."}
+    ]
+  }
+}

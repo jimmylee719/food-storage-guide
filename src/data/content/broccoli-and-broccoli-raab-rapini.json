@@ -1,0 +1,107 @@
+{
+  "slug": "broccoli-and-broccoli-raab-rapini",
+  "en": {
+    "name": "Broccoli and rapini",
+    "aliases": ["broccoli", "broccoli raab", "rapini", "calabrese", "sprouting broccoli"],
+    "summary": "Broccoli and rapini are flower buds harvested before they open, and they keep trying to bloom after picking, which is why they yellow so quickly. In the fridge they keep 3–5 days from the date of purchase, and blanched and frozen they last 10–12 months.",
+    "pantry": "Broccoli should not be left at room temperature. Warmth accelerates the buds opening and yellowing, and the head develops a strong sulphurous smell within a day. Bring it home and refrigerate it immediately, and take it out only for the time it takes to prepare it.",
+    "fridge": "Store broccoli unwashed in a perforated bag in the crisper at 4 °C (40 °F) or below, where it keeps 3–5 days from purchase. It needs air circulation, so a sealed plastic bag makes it go slimy faster. Alternatively stand the stalk in a jar with a little water and cover the head loosely, refreshing the water daily.",
+    "freezer": "Broccoli freezes for 10–12 months from purchase at −18 °C (0 °F) if blanched first. Cut it into even florets, boil for 3 minutes, plunge into iced water, drain and dry thoroughly, then freeze on a tray and bag. Without blanching, the florets yellow and develop a strong cabbage smell within weeks.",
+    "thawing": "Cook frozen broccoli straight from the freezer — thawing makes it mushy. Add it directly to boiling water, a hot pan, a roasting tray or a soup.",
+    "spoilage": [
+      "Yellow florets, or buds that have opened into little flowers",
+      "Slimy, dark or black patches on the head",
+      "Strong sulphurous or cabbage-like smell",
+      "Limp, rubbery stalks with hollow, woody centres"
+    ],
+    "tips": [
+      "Buy heads that are tight and deep green with no yellow at all",
+      "Store unwashed in a perforated bag, never sealed in plastic",
+      "Peel and cook the stalk too — it is sweet and tender inside",
+      "Blanch for 3 minutes before freezing to keep colour and flavour"
+    ],
+    "faq": [
+      {"q": "How long does broccoli last in the fridge?", "a": "3–5 days from purchase at 4 °C (40 °F) or below, stored unwashed in a perforated bag in the crisper drawer."},
+      {"q": "Can you freeze broccoli?", "a": "Yes, but blanch the florets for 3 minutes first, then chill, dry and freeze. It keeps 10–12 months from purchase at −18 °C (0 °F)."},
+      {"q": "Can you eat broccoli that has turned yellow?", "a": "Slightly yellow broccoli is past its best but usually still safe once trimmed; it tastes stronger and more bitter. Discard heads that are slimy or smell sulphurous."}
+    ]
+  },
+  "zh": {
+    "name": "青花菜與蕪菁花芽",
+    "aliases": ["青花菜", "綠花椰菜", "西蘭花", "花椰菜（綠）", "義大利油菜"],
+    "summary": "青花菜和蕪菁花芽都是在開花前採收的花蕾，採收後還會繼續想開花，所以特別容易變黃。冷藏從購買日起可放 3～5 天，燙過後冷凍則可保存 10～12 個月。",
+    "pantry": "青花菜不該放在室溫。溫度會加速花蕾綻放和變黃，整顆在一天內就會散發濃重的硫磺味。買回家請立刻冷藏，只在處理食材時拿出來。",
+    "fridge": "不清洗，裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 3～5 天。它需要空氣流通，密封塑膠袋反而會讓它更快變黏滑。另一個方法是把莖立在裝了少許水的杯子裡，上面鬆鬆罩住，每天換水。",
+    "freezer": "青花菜先汆燙再冷凍，放 −18°C，從購買日起可保存 10～12 個月。切成大小一致的小朵，滾水煮 3 分鐘，撈起泡冰水，瀝乾並徹底擦乾，鋪盤冷凍後裝袋。沒燙就冷凍的話，幾週內就會變黃並產生濃重的菜味。",
+    "thawing": "冷凍青花菜請直接下鍋，解凍反而會讓它爛掉。直接丟進滾水、熱鍋、烤盤或湯裡即可。",
+    "spoilage": [
+      "花蕾變黃，或已經開成小黃花",
+      "花球上出現黏滑、暗色或發黑的斑塊",
+      "有強烈的硫磺味或悶悶的菜味",
+      "莖變軟像橡膠，中心變空、變木質化"
+    ],
+    "tips": [
+      "挑花球緊實、深綠、完全沒有泛黃的",
+      "不清洗、裝打洞袋保存，絕對不要密封在塑膠袋裡",
+      "莖削皮後也很好吃，裡面又甜又嫩",
+      "冷凍前汆燙 3 分鐘，才能保住顏色和風味"
+    ],
+    "faq": [
+      {"q": "青花菜放冰箱可以放多久？", "a": "不清洗、裝在打洞袋裡收在蔬果保鮮室，放 4°C 以下，從購買日起 3～5 天。"},
+      {"q": "青花菜可以冷凍嗎？", "a": "可以，但要先把小朵汆燙 3 分鐘，再冰鎮、擦乾後冷凍。放 −18°C，從購買日起可保存 10～12 個月。"},
+      {"q": "變黃的青花菜還能吃嗎？", "a": "稍微泛黃只是過了最佳狀態，修掉之後通常還能吃，只是味道會比較重、偏苦。但如果已經黏滑或有硫磺味，就整顆丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "ブロッコリー・菜の花類",
+    "aliases": ["ブロッコリー", "ブロッコリーラーブ", "ルッコラ菜", "スティックセニョール", "菜花"],
+    "summary": "ブロッコリーや菜花は花が開く前に収穫した花蕾で、収穫後も咲こうとし続けるため黄色くなるのが早い野菜です。冷蔵では購入日から3〜5日、下ゆでして冷凍すれば10〜12か月保存できます。",
+    "pantry": "ブロッコリーを常温に置いてはいけません。温度が高いとつぼみが開いて黄変が進み、1日で強い硫黄臭が出てきます。買ったらすぐ冷蔵庫へ入れ、下ごしらえの間だけ出すようにしましょう。",
+    "fridge": "洗わずに穴あき袋へ入れ、4℃以下の野菜室で保存すれば購入日から3〜5日持ちます。空気の通りが必要なので、密閉したポリ袋ではぬめりが早く出ます。茎を少量の水を入れた瓶に立て、花蕾に袋を軽くかぶせて毎日水を替える方法もあります。",
+    "freezer": "下ゆですれば−18℃で購入日から10〜12か月冷凍できます。均一な小房に切り、3分ゆで、氷水に取り、水気をしっかり切って拭き、バットで凍らせてから袋へ。下ゆでしないと数週間で黄変し、強い青臭さが出ます。",
+    "thawing": "冷凍ブロッコリーは解凍せずそのまま調理を。解凍するとぐずぐずになります。熱湯、フライパン、天板、スープに直接入れましょう。",
+    "spoilage": [
+      "花蕾が黄色い、開いて小さな花になっている",
+      "花蕾にぬめり、黒ずみ、黒い斑点がある",
+      "強い硫黄臭やキャベツのような蒸れたにおい",
+      "茎がぐったりゴムのようで、中心が空洞・木質化している"
+    ],
+    "tips": [
+      "花蕾が締まって濃い緑、黄色みのないものを選びましょう",
+      "洗わず穴あき袋で保存を。密閉ポリ袋は避けてください",
+      "茎も皮をむいて調理を。中は甘くやわらかです",
+      "冷凍前に3分下ゆですると色と風味が保てます"
+    ],
+    "faq": [
+      {"q": "ブロッコリーは冷蔵庫でどのくらい持ちますか？", "a": "洗わず穴あき袋に入れて野菜室に置き、4℃以下で購入日から3〜5日です。"},
+      {"q": "ブロッコリーは冷凍できますか？", "a": "できますが、小房を3分下ゆでしてから冷やし、水気を拭いて冷凍を。−18℃で購入日から10〜12か月です。"},
+      {"q": "黄色くなったブロッコリーは食べられますか？", "a": "少し黄色い程度なら、その部分を取り除けば食べられることが多いですが、味は強く苦めになります。ぬめりや硫黄臭があれば処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Brócoli y grelos",
+    "aliases": ["brócoli", "brécol", "grelos", "rapini", "brócoli calabrés"],
+    "summary": "El brócoli y los grelos son capullos florales recolectados antes de abrirse, y siguen intentando florecer tras la cosecha, por eso amarillean tan rápido. En la nevera duran 3–5 días desde la compra, y escaldados y congelados aguantan 10–12 meses.",
+    "pantry": "El brócoli no debe dejarse a temperatura ambiente. El calor acelera la apertura de los capullos y el amarilleo, y la cabeza desarrolla un fuerte olor sulfuroso en un día. Llévalo a casa y refrigéralo de inmediato, sacándolo solo el tiempo necesario para prepararlo.",
+    "fridge": "Guárdalo sin lavar en una bolsa perforada en el cajón de verduras a 4 °C (40 °F) o menos, donde dura 3–5 días desde la compra. Necesita que circule el aire, así que una bolsa de plástico cerrada acelera la viscosidad. También puedes poner el tallo en un tarro con un poco de agua y cubrir la cabeza sin apretar, cambiando el agua a diario.",
+    "freezer": "Se congela 10–12 meses desde la compra a −18 °C (0 °F) si lo escaldas antes. Córtalo en ramilletes iguales, hiérvelo 3 minutos, pásalo a agua helada, escúrrelo y sécalo bien, congélalo en bandeja y embólsalo. Sin escaldar, los ramilletes amarillean y desarrollan un fuerte olor a col en semanas.",
+    "thawing": "Cocina el brócoli congelado directamente: descongelarlo lo deja blando. Échalo al agua hirviendo, a la sartén caliente, a la bandeja del horno o a una sopa.",
+    "spoilage": [
+      "Ramilletes amarillos o capullos abiertos en florecillas",
+      "Zonas viscosas, oscuras o negras en la cabeza",
+      "Olor fuerte, sulfuroso o a col",
+      "Tallos flácidos y gomosos con el centro hueco y leñoso"
+    ],
+    "tips": [
+      "Compra cabezas apretadas y de verde intenso, sin nada de amarillo",
+      "Guárdalo sin lavar en bolsa perforada, nunca sellado en plástico",
+      "Pela y cocina también el tallo: por dentro es dulce y tierno",
+      "Escáldalo 3 minutos antes de congelar para conservar color y sabor"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el brócoli en la nevera?", "a": "3–5 días desde la compra a 4 °C (40 °F) o menos, sin lavar y en bolsa perforada en el cajón de verduras."},
+      {"q": "¿Se puede congelar el brócoli?", "a": "Sí, pero escalda los ramilletes 3 minutos primero, enfríalos, sécalos y congélalos. Dura 10–12 meses desde la compra a −18 °C (0 °F)."},
+      {"q": "¿Se puede comer brócoli amarillento?", "a": "Un brócoli ligeramente amarillo ha pasado su mejor momento pero suele ser seguro tras recortarlo; sabe más fuerte y amargo. Desecha las cabezas viscosas o con olor sulfuroso."}
+    ]
+  }
+}

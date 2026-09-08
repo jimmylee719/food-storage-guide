@@ -1,1 +1,189 @@
-[]
+[
+ {
+  "slug": "longan",
+  "category": "fruits",
+  "source": "curated",
+  "sourceId": null,
+  "name": "Longan",
+  "subtitle": "fresh, in shell",
+  "keywords": ["longan", "龍眼", "dragon eye", "lengkeng"],
+  "storage": {
+   "pantry": {
+    "base": { "min": 3, "max": 5, "unit": "days", "tips": "Taiwan's Ministry of Agriculture notes that at room temperature the shell loses water and browns within 3 to 5 days, even when humidity is kept up." }
+   },
+   "fridge": {
+    "base": { "min": 2, "max": 4, "unit": "weeks", "tips": "Seal in a plastic bag and refrigerate near 4 °C. Flavour fades the longer it is held, so the shorter end of the range eats better." }
+   }
+  },
+  "sources": [
+   { "name": "農業部農業知識入口網 – 龍眼主題館：選購與保鮮", "url": "https://kmweb.moa.gov.tw/subject/subject.php?id=44993" }
+  ],
+  "analog": null,
+  "notes": null
+ },
+ {
+  "slug": "persimmon",
+  "category": "fruits",
+  "source": "curated",
+  "sourceId": null,
+  "name": "Persimmon",
+  "subtitle": null,
+  "keywords": ["persimmon", "柿子", "kaki", "fuyu", "hachiya", "caqui"],
+  "storage": {
+   "pantry": {
+    "base": { "min": null, "max": null, "unit": null, "tips": "Ripen at room temperature first. Astringent varieties such as hachiya are only edible once fully soft; non-astringent ones such as fuyu can be eaten firm." }
+   },
+   "fridge": {
+    "base": { "min": 2, "max": 4, "unit": "weeks", "tips": "Refrigerate only after ripening. Commercial cold storage at −1 °C holds persimmons for 3 to 4 months, which a home refrigerator cannot reproduce." }
+   },
+   "freezer": {
+    "base": { "min": 6, "max": 8, "unit": "months", "tips": "Freeze the pulp rather than whole fruit. Freezing also removes astringency from hachiya-type fruit." }
+   }
+  },
+  "sources": [
+   { "name": "農業部農業知識入口網 – 水果如何保存（貯藏溫度與保存期限表）", "url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=1542" },
+   { "name": "農業部農業知識入口網 – 水果如何保存才鮮美", "url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=1283" }
+  ],
+  "analog": null,
+  "notes": "The source gives a commercial figure of −1 °C for 3–4 months and places persimmon in the 'ripen first, then refrigerate' group. The home refrigerator range given here is deliberately conservative; the commercial figure is stated in the tip rather than presented as a home timeline."
+ },
+ {
+  "slug": "loquat",
+  "category": "fruits",
+  "source": "curated",
+  "sourceId": null,
+  "name": "Loquat",
+  "subtitle": null,
+  "keywords": ["loquat", "枇杷", "biwa", "níspero"],
+  "storage": {
+   "pantry": {
+    "base": { "min": 2, "max": 4, "unit": "days", "tips": "Taiwan's Ministry of Agriculture groups loquat with bananas and star fruit as fruit that should be kept at room temperature, because chilling damages it." }
+   },
+   "fridge": {
+    "base": { "min": null, "max": null, "unit": null, "tips": "Not recommended at home. Commercial storage works at 0 °C for about 3 weeks with controlled humidity, but a domestic refrigerator causes chilling injury and the flesh browns." }
+   }
+  },
+  "sources": [
+   { "name": "農業部農業知識入口網 – 水果如何保存（貯藏溫度與保存期限表）", "url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=1542" }
+  ],
+  "analog": null,
+  "notes": "The same source lists both a commercial 0 °C / 3-week figure and a room-temperature-only recommendation for consumers. Both are represented rather than picking one."
+ },
+ {
+  "slug": "durian",
+  "category": "fruits",
+  "source": "curated",
+  "sourceId": null,
+  "name": "Durian",
+  "subtitle": "whole and opened flesh",
+  "keywords": ["durian", "榴槤", "榴蓮", "ドリアン"],
+  "storage": {
+   "pantry": {
+    "base": { "min": 2, "max": 5, "unit": "days", "tips": "Keep a whole, uncut fruit at room temperature until it is ripe. Philippine agricultural research recorded pods splitting 8 to 10 days after harvest in ambient tropical conditions, and the fruit is best eaten before it splits." }
+   },
+   "fridge": {
+    "base": { "min": 3, "max": 5, "unit": "days", "tips": "Refrigerate only once ripe, and only the flesh, sealed in an airtight container so the aroma does not transfer to everything else. Durian is chilling-sensitive: damage appeared within two weeks at 7 °C, so do not hold a whole fruit cold for long." }
+   },
+   "freezer": {
+    "base": { "min": 3, "max": 6, "unit": "months", "tips": "Freeze the flesh in portions with the seeds removed. This is how durian is traded internationally, and the texture holds up better than most fruit." }
+   }
+  },
+  "sources": [
+   { "name": "農業部農業知識入口網 – 水果如何保存（榴槤須催熟後才可冷藏）", "url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=1542" },
+   { "name": "Philippine Department of Agriculture, Bureau of Agricultural Research – Improving durian shelf life through postharvest strategies", "url": "https://www.bar.gov.ph/media-resources/news-and-events/details?id=125" }
+  ],
+  "analog": "fruit-cut",
+  "notes": "Room-temperature and chilling-injury figures come from the two cited sources. The refrigerated figure for opened flesh follows FoodKeeper's 'Fruit, cut' record, and the freezer figure is the range used in commercial frozen durian trade; neither is a directly cited number."
+ },
+ {
+  "slug": "mangosteen",
+  "category": "fruits",
+  "source": "curated",
+  "sourceId": null,
+  "name": "Mangosteen",
+  "subtitle": null,
+  "keywords": ["mangosteen", "山竹", "マンゴスチン", "mangostán"],
+  "storage": {
+   "pantry": {
+    "base": { "min": 2, "max": 4, "unit": "days", "tips": "The rind hardens and browns as it dries out, which makes the fruit difficult to open long before the flesh spoils." }
+   },
+   "fridge": {
+    "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "Taiwan's Ministry of Agriculture places mangosteen in the group that must be refrigerated to keep. Store in a perforated bag so it does not dry out." }
+   }
+  },
+  "sources": [
+   { "name": "農業部農業知識入口網 – 水果如何保存（山竹屬必須冷藏的水果）", "url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=1542" }
+  ],
+  "analog": "lychee",
+  "notes": "The cited source establishes that mangosteen must be refrigerated but gives no duration. The refrigerated range follows FoodKeeper's lychee record, the closest comparable tropical fruit in the dataset."
+ },
+ {
+  "slug": "pomelo",
+  "category": "fruits",
+  "source": "curated",
+  "sourceId": null,
+  "name": "Pomelo",
+  "subtitle": null,
+  "keywords": ["pomelo", "柚子", "文旦", "shaddock", "pummelo"],
+  "storage": {
+   "pantry": {
+    "base": { "min": 1, "max": 2, "unit": "weeks", "tips": "A whole pomelo keeps well in a cool, ventilated spot. In Taiwan the fruit is traditionally left a few days after harvest to let the flesh sweeten." }
+   },
+   "fridge": {
+    "base": { "min": 6, "max": 8, "unit": "weeks", "tips": "Whole fruit only. Once segmented, keep the flesh in a sealed container and eat within a few days." }
+   }
+  },
+  "sources": [
+   { "name": "農業部農業知識入口網 – 水果如何保存（柚子屬必須冷藏的水果）", "url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=1542" }
+  ],
+  "analog": "grapefruit",
+  "notes": "The cited source lists pomelo among fruit that should be refrigerated but gives no duration. The refrigerated range follows FoodKeeper's grapefruit record, its closest relative in the dataset."
+ },
+ {
+  "slug": "sugar-apple",
+  "category": "fruits",
+  "source": "curated",
+  "sourceId": null,
+  "name": "Sugar apple",
+  "subtitle": "sweetsop, custard apple",
+  "keywords": ["sugar apple", "sweetsop", "custard apple", "釋迦", "番荔枝", "anón"],
+  "storage": {
+   "pantry": {
+    "base": { "min": null, "max": null, "unit": null, "tips": "Ripen at room temperature until the fruit gives to gentle pressure. Taiwan's Ministry of Agriculture is explicit that it must not be refrigerated before it is ripe." }
+   },
+   "fridge": {
+    "base": { "min": 3, "max": 5, "unit": "days", "tips": "Refrigerate only once ripe, and eat quickly; the flesh darkens fast once chilled." }
+   },
+   "freezer": {
+    "base": { "min": 10, "max": 12, "unit": "months", "tips": "Scoop out the pulp, discard the seeds and freeze in portions." }
+   }
+  },
+  "sources": [
+   { "name": "農業部農業知識入口網 – 水果如何保存（釋迦須催熟後才可冷藏）", "url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=1542" }
+  ],
+  "analog": "cherimoya",
+  "notes": "The cited source establishes the ripen-before-refrigerating rule. The refrigerated and frozen ranges follow FoodKeeper's cherimoya record, which is the same genus (Annona)."
+ },
+ {
+  "slug": "mulberry",
+  "category": "fruits",
+  "source": "curated",
+  "sourceId": null,
+  "name": "Mulberry",
+  "subtitle": null,
+  "keywords": ["mulberry", "桑葚", "桑椹", "mora", "クワの実"],
+  "storage": {
+   "fridge": {
+    "base": { "min": 2, "max": 3, "unit": "days", "tips": "Taiwan's Ministry of Agriculture lists mulberry among fruit that must be refrigerated. Do not wash before storing, and keep in a shallow single layer so the weight of the fruit does not crush the bottom layer." }
+   },
+   "freezer": {
+    "base": { "min": 10, "max": 12, "unit": "months", "tips": "Freeze in a single layer on a tray first, then bag, so the berries do not clump." }
+   }
+  },
+  "sources": [
+   { "name": "農業部農業知識入口網 – 水果如何保存（桑葚屬必須冷藏的水果）", "url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=1542" }
+  ],
+  "analog": "blackberries",
+  "notes": "The cited source establishes that mulberries must be refrigerated but gives no duration. The ranges follow FoodKeeper's blackberry record, the closest soft berry in the dataset."
+ }
+]

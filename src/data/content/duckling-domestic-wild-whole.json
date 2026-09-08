@@ -1,0 +1,107 @@
+{
+  "slug": "duckling-domestic-wild-whole",
+  "en": {
+    "name": "Whole duckling (domestic or wild)",
+    "aliases": ["whole duck", "duckling", "wild duck", "mallard"],
+    "summary": "A whole duckling is a young duck, either farmed or wild, prized for its thick fat layer and rich dark meat. Raw, it keeps only 1–2 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and about 6 months in the freezer at −18 °C (0 °F) — less than chicken because duck fat turns rancid sooner.",
+    "pantry": "Raw duck must never be kept at room temperature. Like all poultry it can carry salmonella and campylobacter, which multiply quickly in the danger zone between 4 °C and 60 °C (40 °F and 140 °F), so discard a bird left out for more than 2 hours — 1 hour above 32 °C (90 °F). Wild duck brought home from a hunt should be cleaned and chilled or frozen as fast as possible.",
+    "fridge": "Store the duck in its packaging on a tray on the bottom shelf at 4 °C (40 °F) or below, below all ready-to-eat food, and cook it within 1–2 days of purchase. To get crisp skin, pat it dry, prick the skin without piercing the meat and leave it uncovered on a rack in the fridge for the last day — still within that 1–2 day window.",
+    "freezer": "Duck's high fat content is why the freezer window is about 6 months for good quality, rather than the year you get with a lean chicken; at −18 °C (0 °F) it stays safe indefinitely. Wrap the bird closely in plastic and then foil or a large freezer bag, press out all the air, and label with the weight and date.",
+    "thawing": "Thaw in the fridge on a tray, about 24 hours per 2 kg — a typical duckling needs a full day or more. Cold water in a sealed bag changed every 30 minutes is faster but requires immediate cooking. Never thaw duck on the counter. Cook whole duck to 74 °C (165 °F) in the thickest part of the thigh.",
+    "spoilage": [
+      "Sour, sulphurous or ammonia-like smell as soon as the pack is opened",
+      "Slimy or sticky skin",
+      "Grey, green or unusually dull colour in the meat, or fat that smells rancid",
+      "Cloudy, ropey liquid in the tray, or a passed use-by date"
+    ],
+    "tips": [
+      "Prick the skin, not the meat, so fat renders out and the skin crisps.",
+      "Save the rendered duck fat in a jar in the fridge — it is superb for roast potatoes.",
+      "Freeze within a day or two of purchase; duck fat goes rancid faster than chicken fat.",
+      "Wild duck benefits from a soak in salted water in the fridge to draw out blood."
+    ],
+    "faq": [
+      {"q": "Can you freeze a whole duck?", "a": "Yes, at −18 °C (0 °F): safe indefinitely but best quality for about 6 months, because the high fat content shortens quality life."},
+      {"q": "How long does raw duck last in the fridge?", "a": "Only 1–2 days from the day of purchase at 4 °C (40 °F) or below."},
+      {"q": "Why does duck freeze for less time than chicken?", "a": "Duck carries far more fat, and fat oxidizes and turns rancid in the freezer while lean meat stays acceptable much longer."}
+    ]
+  },
+  "zh": {
+    "name": "整隻小鴨（家鴨或野鴨）",
+    "aliases": ["全鴨", "小鴨", "野鴨", "整隻鴨", "鴨子"],
+    "summary": "整隻小鴨是年輕的鴨，家養或野生皆有，以厚實的皮下脂肪和濃郁的深色肉受到喜愛。生肉在 4°C 以下冷藏，從購買日起只能放 1～2 天；放 −18°C 冷凍約 6 個月，比雞短，因為鴨油比較快酸敗。",
+    "pantry": "生鴨肉絕對不能放室溫。和所有禽肉一樣可能帶有沙門氏菌和曲狀桿菌，在 4～60°C 的危險溫度帶會快速繁殖，室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。打獵帶回的野鴨要盡快處理乾淨並冷藏或冷凍。",
+    "fridge": "連包裝放在盤子上、置於冰箱最下層，維持 4°C 以下，並放在所有即食食品的下方，購買後 1～2 天內烹調。想要皮脆，可以把表面拍乾、在皮上戳孔（不要刺到肉），最後一天不加蓋放在架上冷藏——但仍要在 1～2 天的期限內。",
+    "freezer": "鴨的脂肪含量高，所以冷凍品質期限只有約 6 個月，而不像瘦的雞可以放一年；在 −18°C 下安全上可以無限期保存。用保鮮膜貼緊，再包鋁箔或裝進大冷凍袋，把空氣完全擠出，並標註重量和日期。",
+    "thawing": "放盤子上冷藏解凍，每 2 公斤約 24 小時，一般大小的鴨要一天以上。裝密封袋泡冷水、每 30 分鐘換水比較快，但解凍後要立刻烹調。絕對不要在室溫解凍鴨肉。整隻鴨要烤到大腿最厚處 74°C。",
+    "spoilage": [
+      "一打開包裝就聞到酸味、硫磺味或阿摩尼亞味",
+      "鴨皮黏滑、發黏",
+      "肉色變灰、帶綠或異常暗沉，或脂肪有油耗味",
+      "盒底血水變混濁牽絲，或已超過有效日期"
+    ],
+    "tips": [
+      "戳孔只戳皮不刺肉，油才逼得出來、皮才會脆。",
+      "逼出來的鴨油裝罐冷藏，拿來烤馬鈴薯非常好吃。",
+      "買回來一兩天內就冷凍，鴨油比雞油更快酸敗。",
+      "野鴨可以先在冰箱用鹽水泡一下，有助於去除血水。"
+    ],
+    "faq": [
+      {"q": "整隻鴨可以冷凍嗎？", "a": "可以，放 −18°C 冷凍：安全上無限期，但品質以約 6 個月為佳，因為脂肪含量高會縮短風味期限。"},
+      {"q": "生鴨肉放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起只有 1～2 天。"},
+      {"q": "為什麼鴨的冷凍期限比雞短？", "a": "鴨的脂肪多很多，脂肪在冷凍庫裡會氧化酸敗，而瘦肉可以維持品質更久。"}
+    ]
+  },
+  "ja": {
+    "name": "若鴨（丸ごと・家鴨／野鴨）",
+    "aliases": ["丸鴨", "合鴨（丸ごと）", "野生の鴨", "ダック（ホール）", "マガモ"],
+    "summary": "丸ごとの若鴨は、家禽でも野生でも、厚い皮下脂肪とこくのある赤身が特徴です。生の状態では4℃以下の冷蔵で購入日から1〜2日、−18℃の冷凍で約6か月。鶏より短いのは、鴨の脂の酸化が早いためです。",
+    "pantry": "生の鴨を常温に置くことはできません。ほかの家禽と同様サルモネラやカンピロバクターを持つことがあり、4〜60℃の危険温度帯では急速に増えます。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。狩猟で得た野鴨は、できるだけ早く処理して冷蔵または冷凍します。",
+    "fridge": "包装のままトレーにのせ、冷蔵庫の最下段で4℃以下を保ち、そのまま食べる食品より下に置いて、購入から1〜2日以内に調理します。皮をパリッとさせたい場合は、表面を拭き、肉まで刺さないよう皮にだけ穴をあけ、最後の1日を網にのせて覆わずに冷蔵します（1〜2日の枠内で）。",
+    "freezer": "脂が多いため、冷凍の品質目安は約6か月で、赤身の鶏の1年ほどにはなりません（−18℃なら安全面では長期間保存できます）。ラップで密着させ、ホイルか大きめの保存袋で包んで空気を完全に抜き、重量と日付をラベルに書いておきましょう。",
+    "thawing": "トレーにのせて冷蔵庫で解凍し、2kgあたり約24時間。一般的な大きさの鴨で1日以上かかります。密閉袋で冷水解凍（30分ごとに水替え）は早いですが、解凍後すぐ調理が必要です。常温解凍は厳禁。丸ごとの場合はももの厚い部分が74℃になるまで加熱します。",
+    "spoilage": [
+      "パックを開けた瞬間に酸っぱいにおい、硫黄臭、アンモニア臭がする",
+      "皮がぬめる・べたつく",
+      "肉が灰色・緑がかった色・異常にくすんだ色になっている、脂に酸敗臭がある",
+      "トレーのドリップが濁って糸を引く、消費期限を過ぎている"
+    ],
+    "tips": [
+      "肉ではなく皮にだけ穴をあけると、脂が抜けて皮がパリッとする。",
+      "出てきた鴨脂は瓶に入れて冷蔵。じゃがいもを焼くと絶品。",
+      "購入後1〜2日で冷凍する。鴨脂は鶏脂より酸化が早い。",
+      "野鴨は冷蔵庫で塩水に浸けると血抜きができる。"
+    ],
+    "faq": [
+      {"q": "鴨は丸ごと冷凍できますか？", "a": "できます。−18℃で安全面では長期間ですが、脂が多いため品質の目安は約6か月です。"},
+      {"q": "生の鴨は冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から1〜2日だけです。"},
+      {"q": "鴨の冷凍期間が鶏より短いのはなぜ？", "a": "鴨は脂がはるかに多く、その脂が冷凍中に酸化して風味が落ちるためです。赤身中心の肉のほうが長く品質を保てます。"}
+    ]
+  },
+  "es": {
+    "name": "Pato joven entero (doméstico o silvestre)",
+    "aliases": ["pato entero", "patito", "pato silvestre", "ánade real"],
+    "summary": "Un pato joven entero, de granja o silvestre, se aprecia por su gruesa capa de grasa y su carne oscura y sabrosa. Crudo dura solo 1–2 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y unos 6 meses en el congelador a −18 °C (0 °F), menos que el pollo porque la grasa de pato se enrancia antes.",
+    "pantry": "El pato crudo nunca debe guardarse a temperatura ambiente. Como toda ave puede portar salmonela y campylobacter, que se multiplican rápido en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F): desecha un ave que lleve más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)—. El pato silvestre traído de una cacería debe limpiarse y enfriarse o congelarse cuanto antes.",
+    "fridge": "Guarda el pato en su envase sobre una bandeja en el estante inferior a 4 °C (40 °F) o menos, por debajo de todos los alimentos listos para comer, y cocínalo en 1–2 días desde la compra. Para una piel crujiente, sécalo, pincha la piel sin llegar a la carne y déjalo destapado sobre una rejilla el último día, siempre dentro de esa ventana de 1–2 días.",
+    "freezer": "Su alto contenido graso explica que el plazo en congelador sea de unos 6 meses de buena calidad, en vez del año de un pollo magro; a −18 °C (0 °F) se mantiene seguro indefinidamente. Envuélvelo pegado con film y luego con aluminio o una bolsa grande, saca todo el aire y etiqueta con peso y fecha.",
+    "thawing": "Descongélalo en el refrigerador sobre una bandeja, unas 24 horas por cada 2 kg: un pato normal necesita un día o más. El agua fría en bolsa cerrada, cambiada cada 30 minutos, es más rápida pero obliga a cocinar de inmediato. Nunca lo descongeles en la encimera. Cocina el pato entero hasta 74 °C (165 °F) en la parte más gruesa del muslo.",
+    "spoilage": [
+      "Olor agrio, sulfuroso o a amoníaco nada más abrir el paquete",
+      "Piel viscosa o pegajosa",
+      "Carne gris, verdosa o anormalmente apagada, o grasa con olor rancio",
+      "Líquido turbio y filante en la bandeja, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Pincha la piel, no la carne, para que la grasa salga y la piel quede crujiente.",
+      "Guarda la grasa de pato en un frasco en el refrigerador: es magnífica para asar papas.",
+      "Congélalo uno o dos días tras la compra; su grasa se enrancia antes que la de pollo.",
+      "El pato silvestre mejora con un remojo en agua salada dentro del refrigerador para sacar la sangre."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar un pato entero?", "a": "Sí, a −18 °C (0 °F): seguro indefinidamente pero con la mejor calidad unos 6 meses, porque su grasa acorta la vida útil."},
+      {"q": "¿Cuánto dura el pato crudo en el refrigerador?", "a": "Solo 1–2 días desde el día de compra a 4 °C (40 °F) o menos."},
+      {"q": "¿Por qué el pato se congela menos tiempo que el pollo?", "a": "Tiene mucha más grasa, y la grasa se oxida y enrancia en el congelador mientras la carne magra aguanta bastante más."}
+    ]
+  }
+}

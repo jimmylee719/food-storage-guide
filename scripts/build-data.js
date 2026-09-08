@@ -70,7 +70,12 @@ for (const L of LOCALES) {
     n: f.names[L],
     c: f.category,
     p: f.hasPage ? 1 : 0,
-    k: [...new Set([...(f.aliases[L] || []), ...(L === 'en' ? f.keywords : []), f.baseName])].join('|').toLowerCase(),
+    // Keywords carry local-language names for curated foods, so they belong in
+    // every locale's index, not just English.
+    k: [...new Set([...(f.aliases[L] || []), ...f.keywords, f.baseName, f.subtitle || ''])]
+      .filter(Boolean)
+      .join('|')
+      .toLowerCase(),
   }));
 }
 

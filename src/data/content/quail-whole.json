@@ -1,0 +1,107 @@
+{
+  "slug": "quail-whole",
+  "en": {
+    "name": "Whole quail",
+    "aliases": ["quail", "coturnix quail", "whole quails", "game bird"],
+    "summary": "Quail are tiny birds, usually one or two per person, with delicate dark meat that cooks in minutes. Raw, they keep only 1–2 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and about 6 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw quail must never be left at room temperature. Their small size means they warm through in minutes, putting the whole bird rather than just the surface into the danger zone between 4 °C and 60 °C (40 °F and 140 °F). Discard quail left out for more than 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Keep the birds in their tray or a covered dish on the bottom shelf at 4 °C (40 °F) or below, below all ready-to-eat foods, and cook them within 1–2 days of purchase. If you are marinating or spatchcocking them, do it in the fridge and count that time within the same window rather than adding to it.",
+    "freezer": "Quail freeze well and keep good quality for about 6 months at −18 °C (0 °F), where they stay safe indefinitely. Wrap each bird individually in plastic so they do not freeze into one clump, then bag several together with the air pressed out. Because they are small they thaw quickly, which makes them very convenient freezer stock.",
+    "thawing": "Thaw in the fridge for a few hours or overnight — quail rarely need longer. Cold water in a sealed bag changed every 30 minutes takes well under an hour. Never thaw them on the counter. Cook quail to 74 °C (165 °F) in the thickest part, though many cooks serve the breast slightly pink.",
+    "spoilage": [
+      "Sour, sulphurous or ammonia-like smell when the pack is opened",
+      "Slimy or sticky skin",
+      "Grey or greenish discolouration on the meat or around the cavity",
+      "Cloudy, thick liquid in the tray, or a passed use-by date"
+    ],
+    "tips": [
+      "Wrap each bird separately before freezing so they do not stick together.",
+      "Spatchcock quail for even, fast cooking on a grill or in a hot pan.",
+      "Brine briefly — 30 minutes in salted water in the fridge keeps the small breast juicy.",
+      "Allow one to two birds per person depending on the rest of the meal."
+    ],
+    "faq": [
+      {"q": "Can you freeze quail?", "a": "Yes. Wrap each bird individually and freeze at −18 °C (0 °F): safe indefinitely and good quality for about 6 months. They thaw in a few hours."},
+      {"q": "How long does raw quail last in the fridge?", "a": "Only 1–2 days from the day of purchase at 4 °C (40 °F) or below."},
+      {"q": "What temperature should quail be cooked to?", "a": "74 °C (165 °F) in the thickest part is the safe standard for poultry, although many restaurants serve the breast pinker."}
+    ]
+  },
+  "zh": {
+    "name": "整隻鵪鶉",
+    "aliases": ["鵪鶉", "全鵪鶉", "鵪鶉肉", "小鵪鶉"],
+    "summary": "鵪鶉體型很小，通常一人份是一到兩隻，肉色偏深、質地細緻，幾分鐘就能煮熟。生肉在 4°C 以下冷藏，從購買日起只能放 1～2 天；放 −18°C 冷凍約可放 6 個月。",
+    "pantry": "生鵪鶉絕對不能放室溫。因為體型小，幾分鐘整隻就會回溫，等於整隻而不只是表面都進入 4～60°C 的危險溫度帶。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "連原盒或裝進有蓋容器，放在冰箱最下層，維持 4°C 以下，並放在所有即食食品下方，購買後 1～2 天內烹調。要醃漬或剖開壓平（spatchcock），請在冰箱裡進行，這段時間也算在同一個期限內。",
+    "freezer": "鵪鶉很適合冷凍，放 −18°C 品質約可維持 6 個月，安全上可以無限期保存。每隻單獨用保鮮膜包好，才不會凍成一整團，之後幾隻一起裝袋擠出空氣。因為體型小、解凍很快，是很方便的冷凍常備品。",
+    "thawing": "放冷藏室解凍幾小時或一晚就好，鵪鶉很少需要更久。裝密封袋泡冷水、每 30 分鐘換水的話一小時內就好。絕對不要放室溫解凍。鵪鶉要烤到最厚處 74°C，不過許多廚師會把胸肉做得帶點粉紅。",
+    "spoilage": [
+      "打開包裝聞到酸味、硫磺味或阿摩尼亞味",
+      "外皮黏滑、發黏",
+      "肉上或腹腔周圍出現灰色或帶綠的變色",
+      "盒底液體變混濁濃稠，或已超過有效日期"
+    ],
+    "tips": [
+      "冷凍前每隻分開包，才不會黏成一團。",
+      "剖開壓平再烤或煎，受熱均勻又快。",
+      "在冰箱用鹽水泡 30 分鐘，小小的胸肉會多汁很多。",
+      "依整體菜色，一人抓一到兩隻。"
+    ],
+    "faq": [
+      {"q": "鵪鶉可以冷凍嗎？", "a": "可以。每隻單獨包好後放 −18°C 冷凍：安全上無限期，品質約 6 個月，幾小時就能解凍。"},
+      {"q": "生鵪鶉放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起只有 1～2 天。"},
+      {"q": "鵪鶉要煮到幾度？", "a": "禽肉的安全標準是最厚處 74°C，不過許多餐廳會把胸肉做得更粉紅一些。"}
+    ]
+  },
+  "ja": {
+    "name": "ウズラ（丸ごと）",
+    "aliases": ["うずら", "鶉", "ウズラ肉", "丸ごとうずら"],
+    "summary": "ウズラは非常に小さな鳥で、1人あたり1〜2羽が目安。繊細な赤身の肉で数分で火が通ります。生の状態では4℃以下の冷蔵で購入日から1〜2日、−18℃の冷凍で約6か月が目安です。",
+    "pantry": "生のウズラを常温に置くことはできません。小さいぶん数分で中心まで温まり、表面だけでなく全体が4〜60℃の危険温度帯に入ってしまいます。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。",
+    "fridge": "トレーのまま、またはふた付きの器に入れ、冷蔵庫の最下段で4℃以下を保ち、そのまま食べる食品より下に置いて購入から1〜2日以内に調理します。漬け込みや背開きにする作業も冷蔵庫で行い、その時間も同じ枠に含めて数えます。",
+    "freezer": "ウズラは冷凍向きで、−18℃なら品質は約6か月、安全面では長期間保存できます。1羽ずつラップで包むと固まりにならず、そのあと数羽まとめて袋に入れ空気を抜きます。小さいので解凍も早く、常備しておくと便利です。",
+    "thawing": "冷蔵庫で数時間〜一晩で解凍できます。密閉袋で冷水につけ30分ごとに水を替えれば1時間もかかりません。常温解凍は避けてください。いちばん厚い部分が74℃になるまで加熱するのが基準ですが、むね肉をややロゼに仕上げる料理人も多くいます。",
+    "spoilage": [
+      "パックを開けたときに酸っぱいにおい、硫黄臭、アンモニア臭がする",
+      "皮がぬめる・べたつく",
+      "肉や腹腔まわりに灰色や緑がかった変色がある",
+      "トレーの液が濁ってとろみが出ている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "冷凍前に1羽ずつ包むとくっつかない。",
+      "背開きにすると、グリルやフライパンで均一に手早く焼ける。",
+      "冷蔵庫で30分ほど塩水に浸けると、小さなむね肉もジューシーに。",
+      "献立に応じて1人1〜2羽を目安にする。"
+    ],
+    "faq": [
+      {"q": "ウズラは冷凍できますか？", "a": "できます。1羽ずつ包んで−18℃で冷凍すれば、安全面では長期間、品質は約6か月。解凍も数時間で済みます。"},
+      {"q": "生のウズラは冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から1〜2日だけです。"},
+      {"q": "ウズラは何度まで加熱すればよいですか？", "a": "家禽の安全基準はいちばん厚い部分で74℃です。レストランではむね肉をよりロゼで供することもあります。"}
+    ]
+  },
+  "es": {
+    "name": "Codorniz entera",
+    "aliases": ["codorniz", "codornices", "ave de caza pequeña", "codorniz japonesa"],
+    "summary": "Las codornices son aves diminutas, normalmente una o dos por persona, de carne oscura y delicada que se cocina en minutos. Crudas duran solo 1–2 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y unos 6 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "Las codornices crudas nunca deben dejarse a temperatura ambiente. Su tamaño pequeño hace que se templen en minutos, de modo que no solo la superficie sino toda el ave entra en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F). Deséchalas si llevan más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Guárdalas en su bandeja o en una fuente tapada en el estante inferior a 4 °C (40 °F) o menos, por debajo de los alimentos listos para comer, y cocínalas en 1–2 días desde la compra. Si las marinas o las abres en mariposa, hazlo en el refrigerador y cuenta ese tiempo dentro del mismo plazo.",
+    "freezer": "Se congelan bien y conservan buena calidad unos 6 meses a −18 °C (0 °F), donde son seguras indefinidamente. Envuelve cada ave con film para que no se peguen entre sí y luego embolsa varias juntas sacando el aire. Al ser pequeñas se descongelan rápido, lo que las hace muy prácticas de tener en el congelador.",
+    "thawing": "Descongélalas en el refrigerador unas horas o durante la noche; rara vez necesitan más. En bolsa cerrada bajo agua fría cambiada cada 30 minutos tardan bastante menos de una hora. Nunca las descongeles en la encimera. Cocínalas hasta 74 °C (165 °F) en la parte más gruesa, aunque muchos cocineros sirven la pechuga algo rosada.",
+    "spoilage": [
+      "Olor agrio, sulfuroso o a amoníaco al abrir el paquete",
+      "Piel viscosa o pegajosa",
+      "Coloración gris o verdosa en la carne o alrededor de la cavidad",
+      "Líquido turbio y espeso en la bandeja, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Envuelve cada ave por separado antes de congelar para que no se peguen.",
+      "Ábrelas en mariposa para una cocción rápida y uniforme en parrilla o sartén.",
+      "Una salmuera breve —30 minutos en agua salada en el refrigerador— mantiene jugosa la pechuga.",
+      "Calcula una o dos aves por persona según el resto del menú."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las codornices?", "a": "Sí. Envuelve cada una y congélalas a −18 °C (0 °F): seguras indefinidamente y con buena calidad unos 6 meses. Se descongelan en unas horas."},
+      {"q": "¿Cuánto duran las codornices crudas en el refrigerador?", "a": "Solo 1–2 días desde el día de compra a 4 °C (40 °F) o menos."},
+      {"q": "¿A qué temperatura hay que cocinar la codorniz?", "a": "El estándar seguro para aves es 74 °C (165 °F) en la parte más gruesa, aunque en restauración se sirve la pechuga más rosada."}
+    ]
+  }
+}
