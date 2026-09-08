@@ -5,9 +5,10 @@ const nextConfig: NextConfig = {
   poweredByHeader: false,
   trailingSlash: false,
   async redirects() {
+    // "/" is handled by src/proxy.ts, which picks a locale from Accept-Language.
+    // These are the URLs the previous single-page version of the site published,
+    // kept so indexed links and backlinks land on the new equivalent.
     return [
-      { source: '/', destination: '/zh', permanent: false },
-      // Legacy single-page URLs from the previous version of the site.
       { source: '/index.html', destination: '/zh', permanent: true },
       { source: '/about.html', destination: '/zh/about', permanent: true },
       { source: '/privacy-policy.html', destination: '/zh/privacy', permanent: true },

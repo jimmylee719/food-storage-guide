@@ -30,7 +30,8 @@ function note(map, slug, where) {
 for (const file of guideSlugs) {
   const j = JSON.parse(fs.readFileSync(path.join(guidesDir, file + '.json'), 'utf8'));
   const text = JSON.stringify(j);
-  const re = /\[\[(food|guide):([a-z0-9-]+)\]\]/g;
+  // Matches both [[kind:slug]] and the labelled [[kind:slug|label]] form.
+  const re = /\[\[(food|guide):([a-z0-9-]+)(?:\|[^\]]+)?\]\]/g;
   let m;
   while ((m = re.exec(text)) !== null) {
     const [, kind, slug] = m;

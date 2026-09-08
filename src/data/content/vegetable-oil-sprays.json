@@ -1,0 +1,107 @@
+{
+  "slug": "vegetable-oil-sprays",
+  "en": {
+    "name": "Vegetable oil spray",
+    "aliases": ["cooking spray", "non-stick spray", "oil mist spray", "baking spray"],
+    "summary": "Vegetable oil sprays are pressurised cans of oil with a propellant and often lecithin, used to grease pans and baking tins. Unopened they keep about 2 years from the date of purchase in a cool cupboard, and about 1 year once the can has been used. They do not need refrigeration.",
+    "pantry": "Store the can upright in a cool, dry cupboard away from the stove, oven and any direct sunlight; it keeps about 2 years from purchase unopened and about 1 year in use. Pressurised cans must never be kept near heat, so the shelf above the hob is the worst possible spot. Wipe the nozzle after each use to stop it clogging with oily residue.",
+    "fridge": "There is no need to refrigerate cooking spray, and the cold thickens the oil so it sprays unevenly. The can is designed for cupboard storage; consistency and reliable spraying are both better at room temperature.",
+    "freezer": "Never freeze a pressurised aerosol can. Freezing offers no benefit and extreme temperatures can affect the seal and the propellant. Keep the can in a stable, cool cupboard instead.",
+    "thawing": null,
+    "spoilage": [
+      "Rancid or stale smell when you spray a test burst",
+      "Sputtering, uneven spray or a blocked nozzle",
+      "Sticky, varnish-like build-up around the nozzle",
+      "Dented, rusted or bulging can"
+    ],
+    "tips": [
+      "Store the can upright and well away from the hob and oven",
+      "Wipe the nozzle with kitchen paper after every use to prevent clogging",
+      "Never spray into a hot pan on a live flame — spray the cold pan first",
+      "Write the date of first use on the can to track the 1-year window"
+    ],
+    "faq": [
+      {"q": "How long does cooking spray last?", "a": "About 2 years from purchase unopened, and about 1 year once you start using the can, kept in a cool, dry cupboard away from heat."},
+      {"q": "Does cooking spray need to be refrigerated?", "a": "No. Cold makes the oil thicken and spray unevenly. Store the can upright at room temperature away from the stove."},
+      {"q": "How can you tell if cooking spray has gone bad?", "a": "Spray a test burst onto a paper towel and smell it. A rancid or stale smell, or a sputtering, blocked nozzle, means it is time to replace the can."}
+    ]
+  },
+  "zh": {
+    "name": "噴霧式食用油",
+    "aliases": ["噴油瓶", "烹飪噴霧油", "不沾噴霧油", "噴霧油"],
+    "summary": "噴霧式食用油是加壓罐裝的油品，含推進劑，通常還加了卵磷脂，用來替鍋子和烤模上油。未開封放在陰涼櫥櫃，從購買日起約可放 2 年；開始使用後大約 1 年。它不需要冷藏。",
+    "pantry": "罐子請直立放在陰涼乾燥的櫥櫃，遠離爐火、烤箱和陽光直射；未開封從購買日起約 2 年，使用中約 1 年。加壓罐絕對不能靠近熱源，爐台正上方的層架是最糟糕的位置。每次用完擦一下噴頭，避免油垢堵住。",
+    "fridge": "噴霧油不需要冷藏，低溫會讓油變稠，噴出來不均勻。這種罐子本來就是設計成常溫櫥櫃保存，室溫下的質地和噴霧效果都比較穩定。",
+    "freezer": "加壓噴霧罐絕對不可以冷凍。冷凍沒有任何好處，極端溫度還可能影響封口和推進劑。請放在溫度穩定的陰涼櫥櫃。",
+    "thawing": null,
+    "spoilage": [
+      "試噴一下，聞起來有油耗味或陳味",
+      "噴出來斷斷續續、不均勻，或噴頭堵住",
+      "噴頭周圍累積黏膩、像亮光漆的殘留",
+      "罐身凹陷、生鏽或膨脹"
+    ],
+    "tips": [
+      "罐子直立擺放，遠離爐台和烤箱",
+      "每次用完用廚房紙巾擦噴頭，防止阻塞",
+      "不要對著開火的熱鍋噴，請在冷鍋時先噴好",
+      "在罐身寫下第一次使用的日期，追蹤 1 年的期限"
+    ],
+    "faq": [
+      {"q": "噴霧油可以放多久？", "a": "未開封從購買日起約 2 年，開始使用後約 1 年，前提是放在遠離熱源的陰涼乾燥櫥櫃。"},
+      {"q": "噴霧油需要冷藏嗎？", "a": "不需要。低溫會讓油變稠、噴不均勻。直立放在遠離爐火的室溫櫥櫃即可。"},
+      {"q": "怎麼知道噴霧油壞了？", "a": "往廚房紙巾試噴一下再聞，有油耗味或陳味，或是噴頭堵塞、噴得斷斷續續，就該換新的了。"}
+    ]
+  },
+  "ja": {
+    "name": "オイルスプレー（食用油スプレー）",
+    "aliases": ["クッキングスプレー", "オイルスプレー", "食用油スプレー", "離型スプレー"],
+    "summary": "食用油スプレーは、噴射剤と多くはレシチンを加えた油を加圧缶に詰めた製品で、フライパンや型に油を引くのに使います。未開封なら涼しい戸棚で購入日から約2年、使い始めてからは約1年が目安です。冷蔵の必要はありません。",
+    "pantry": "缶は立てて、コンロ・オーブン・直射日光から離れた涼しく乾燥した戸棚に置きます。未開封は購入日から約2年、使用中は約1年です。加圧缶は熱源のそばに置いてはいけないので、コンロの真上の棚は最悪の場所です。使うたびにノズルを拭き、油汚れによる詰まりを防ぎましょう。",
+    "fridge": "冷蔵は不要で、冷えると油が固くなって噴霧が不均一になります。缶は常温保存を前提に作られており、噴き具合も常温のほうが安定します。",
+    "freezer": "加圧されたスプレー缶を冷凍してはいけません。利点はなく、極端な温度は密閉部や噴射剤に影響する可能性があります。温度の安定した涼しい戸棚で保管してください。",
+    "thawing": null,
+    "spoilage": [
+      "試し噴きをすると古い油のにおいがする",
+      "噴霧が途切れる、ムラがある、ノズルが詰まっている",
+      "ノズル周辺にニスのようなベタつきがたまっている",
+      "缶がへこんでいる、さびている、膨らんでいる"
+    ],
+    "tips": [
+      "缶は立てて、コンロやオーブンから離して保管を",
+      "使用後はキッチンペーパーでノズルを拭いて詰まりを防止",
+      "火にかけた熱いフライパンに直接噴かず、冷たいうちに噴きましょう",
+      "缶に使い始めた日を書いて1年の期限を管理しましょう"
+    ],
+    "faq": [
+      {"q": "オイルスプレーはどのくらい日持ちしますか？", "a": "未開封は購入日から約2年、使い始めてからは約1年です。熱源から離れた涼しく乾燥した戸棚で保管してください。"},
+      {"q": "オイルスプレーは冷蔵が必要ですか？", "a": "不要です。冷えると油が固くなり噴霧が不均一になります。コンロから離して常温で立てて保管しましょう。"},
+      {"q": "オイルスプレーが劣化したか見分けるには？", "a": "キッチンペーパーに試し噴きしてにおいを確認します。古い油のにおいや、ノズルの詰まり・噴きムラがあれば買い替え時です。"}
+    ]
+  },
+  "es": {
+    "name": "Aceite en aerosol",
+    "aliases": ["spray de cocina", "aceite en spray", "spray antiadherente", "rociador de aceite"],
+    "summary": "Los aceites en aerosol son latas presurizadas de aceite con un propelente y a menudo lecitina, que sirven para engrasar sartenes y moldes. Sin abrir duran alrededor de 2 años desde la compra en un armario fresco, y alrededor de 1 año una vez que empiezas a usar la lata. No necesitan refrigeración.",
+    "pantry": "Guarda la lata de pie en un armario fresco y seco, lejos de los fogones, el horno y la luz directa; dura unos 2 años desde la compra sin abrir y alrededor de 1 año en uso. Las latas presurizadas nunca deben estar cerca del calor, así que el estante sobre la placa es el peor sitio posible. Limpia la boquilla después de cada uso para que no se obstruya con residuo grasiento.",
+    "fridge": "No hace falta refrigerar el spray de cocina, y el frío espesa el aceite y lo pulveriza de forma irregular. La lata está pensada para el armario; la consistencia y el rociado son mejores a temperatura ambiente.",
+    "freezer": "Nunca congeles un aerosol presurizado. No aporta ninguna ventaja y las temperaturas extremas pueden afectar al cierre y al propelente. Guárdalo en un armario fresco y estable.",
+    "thawing": null,
+    "spoilage": [
+      "Olor rancio o pasado al hacer una pulverización de prueba",
+      "Rociado entrecortado, irregular o boquilla obstruida",
+      "Acumulación pegajosa, tipo barniz, alrededor de la boquilla",
+      "Lata abollada, oxidada o abombada"
+    ],
+    "tips": [
+      "Guarda la lata de pie y bien lejos de la placa y del horno",
+      "Limpia la boquilla con papel de cocina tras cada uso para evitar atascos",
+      "Nunca pulverices sobre una sartén caliente con llama viva: rocía la sartén fría",
+      "Anota la fecha del primer uso en la lata para controlar el año"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el aceite en aerosol?", "a": "Alrededor de 2 años desde la compra sin abrir y alrededor de 1 año desde que empiezas a usar la lata, guardada en un armario fresco y seco lejos del calor."},
+      {"q": "¿El spray de cocina necesita refrigeración?", "a": "No. El frío espesa el aceite y hace que rocíe mal. Guarda la lata de pie a temperatura ambiente, lejos de los fogones."},
+      {"q": "¿Cómo saber si el spray de cocina está malo?", "a": "Haz una pulverización de prueba sobre papel de cocina y huélela. Un olor rancio, o una boquilla obstruida que rocía a saltos, indica que toca reemplazar la lata."}
+    ]
+  }
+}

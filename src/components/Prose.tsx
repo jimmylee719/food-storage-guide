@@ -11,26 +11,33 @@ import { getFood, getGuide } from '@/lib/data';
 
 function inline(text: string, locale: Locale, keyBase: string): ReactNode[] {
   const out: ReactNode[] = [];
-  const pattern = /\[\[(food|guide):([a-z0-9-]+)\]\]|\*\*([^*]+)\*\*/g;
+  // [[food:slug]], [[guide:slug]], or either with an explicit label after a
+  // pipe. The label is what renders if the target does not exist, so a missing
+  // target never leaves a hole in the middle of a sentence.
+  const pattern = /\[\[(food|guide):([a-z0-9-]+)(?:\|([^\]]+))?\]\]|\*\*([^*]+)\*\*/g;
   let last = 0;
   let m: RegExpExecArray | null;
   let i = 0;
   while ((m = pattern.exec(text)) !== null) {
     if (m.index > last) out.push(text.slice(last, m.index));
+    const label = m[3];
     if (m[1] === 'food') {
       const food = getFood(m[2]);
+      const text = label || food?.names[locale];
       if (food && food.hasPage) {
-        out.push(<Link key={`${keyBase}-${i}`} href={`/${locale}/food/${food.slug}`}>{food.names[locale]}</Link>);
-      } else if (food) {
-        out.push(food.names[locale]);
+        out.push(<Link key={`${keyBase}-${i}`} href={`/${locale}/food/${food.slug}`}>{text}</Link>);
+      } else if (text) {
+        out.push(text);
       }
     } else if (m[1] === 'guide') {
       const guide = getGuide(m[2]);
       if (guide) {
-        out.push(<Link key={`${keyBase}-${i}`} href={`/${locale}/guides/${guide.slug}`}>{guide[locale].title}</Link>);
+        out.push(<Link key={`${keyBase}-${i}`} href={`/${locale}/guides/${guide.slug}`}>{label || guide[locale].title}</Link>);
+      } else if (label) {
+        out.push(label);
       }
-    } else if (m[3]) {
-      out.push(<strong key={`${keyBase}-${i}`}>{m[3]}</strong>);
+    } else if (m[4]) {
+      out.push(<strong key={`${keyBase}-${i}`}>{m[4]}</strong>);
     }
     last = m.index + m[0].length;
     i++;

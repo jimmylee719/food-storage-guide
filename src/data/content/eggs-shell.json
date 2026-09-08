@@ -1,0 +1,107 @@
+{
+  "slug": "eggs-shell",
+  "en": {
+    "name": "Eggs in shell",
+    "aliases": ["fresh eggs", "raw eggs", "shell eggs", "hen eggs", "whole eggs"],
+    "summary": "Eggs in shell are raw hen eggs still in their protective shell, sold either washed and refrigerated or unwashed at room temperature depending on the country. Once they are kept chilled at 4 °C (40 °F) or below they stay good for 3–5 weeks from the day you buy them. Eggs should not be frozen in the shell.",
+    "pantry": "Where eggs are sold washed and refrigerated, keep them refrigerated: washing removes the natural cuticle, and warming a cold egg causes condensation that can draw bacteria through the porous shell. Where eggs are sold unwashed at ambient temperature, a cool spot below about 20 °C is acceptable but shortens their life considerably, and any egg that has been chilled must stay chilled. Never leave cooked or cracked eggs at room temperature for more than 2 hours.",
+    "fridge": "Keep eggs in their carton on an inside shelf rather than the door, so they stay at a steady 4 °C (40 °F) or below and do not absorb odours through the shell. Store them pointed end down to keep the yolk centred, and expect 3–5 weeks from the day of purchase. Never wash eggs before storing them; wash them just before use if they are dirty.",
+    "freezer": "Do not freeze eggs in the shell — the contents expand and crack the shell, letting bacteria in. To freeze eggs, crack them first: beat whole eggs lightly, or separate whites and yolks (add a pinch of salt or sugar to yolks to stop them gelling), and freeze in an airtight container at −18 °C (0 °F), where they keep well for about a year.",
+    "thawing": "Thaw frozen egg mixture overnight in the fridge and use it within a day, cooking it thoroughly. Never thaw eggs at room temperature or refreeze them.",
+    "spoilage": [
+      "An egg that floats upright in a bowl of water, which means a large air cell and considerable age",
+      "A sulphurous or sour smell as soon as the shell is cracked",
+      "A watery white that spreads thinly, or a yolk that breaks the moment it lands",
+      "Pink, green, black or iridescent discolouration in the white or yolk, or mould on the shell"
+    ],
+    "tips": [
+      "Leave eggs in the carton — it protects them and carries the date.",
+      "Store on a shelf, not the fridge door, where the temperature swings.",
+      "Use the float test if you are unsure of the age; sinking eggs are fresh.",
+      "Cook eggs until white and yolk are firm, or to 71 °C (160 °F) in egg dishes."
+    ],
+    "faq": [
+      {"q": "Can you freeze eggs in the shell?", "a": "No. The contents expand and crack the shell. Crack them first and freeze beaten whole eggs, whites or yolks in an airtight container at −18 °C (0 °F) for about a year."},
+      {"q": "How long do eggs last in the fridge?", "a": "About 3–5 weeks from the day of purchase, stored at 4 °C (40 °F) or below in their carton."},
+      {"q": "How can you tell if an egg has gone bad?", "a": "Put it in water: a fresh egg sinks, a very old one floats. A sulphurous smell on cracking, or any pink or iridescent colour inside, means throw it out."}
+    ]
+  },
+  "zh": {
+    "name": "帶殼雞蛋",
+    "aliases": ["雞蛋", "生蛋", "鮮蛋", "全蛋", "蛋"],
+    "summary": "帶殼雞蛋就是還保留外殼的生雞蛋，依各國制度不同，有的洗選後冷藏販售，有的未洗選常溫販售。只要開始冷藏保存（4°C 以下），從購買日起可以放 3～5 週。雞蛋不能帶殼冷凍。",
+    "pantry": "在洗選蛋冷藏販售的地區（台灣的洗選蛋也是如此），請一律冷藏：清洗會去掉蛋殼表面天然的保護膜，而冰過的蛋回到室溫會結露，水氣可能把細菌帶進多孔的蛋殼。未洗選、常溫販售的雞蛋可以放在 20°C 以下的陰涼處，但保存期會明顯縮短；只要曾經冷藏過的蛋就必須一路冷藏。煮好的蛋或打破的蛋，室溫都不能放超過 2 小時。",
+    "fridge": "把雞蛋連蛋盒放在冰箱內層層架，不要放門邊，才能維持穩定的 4°C 以下，也比較不會透過蛋殼吸味。尖端朝下擺放可以讓蛋黃保持在中央。從購買日起可放 3～5 週。保存前不要清洗雞蛋；有髒污的話，要用之前再洗。",
+    "freezer": "不要帶殼冷凍——內容物結冰膨脹會撐破蛋殼，細菌就會跑進去。要冷凍請先打破：全蛋輕輕打散，或把蛋白蛋黃分開（蛋黃加一小撮鹽或糖可以避免結凍成膠），裝進密封容器放 −18°C 冷凍，大約可以保存一年。",
+    "thawing": "冷凍的蛋液請放冷藏室退冰一晚，一天內用完並徹底加熱。絕對不要在室溫解凍，也不要再次冷凍。",
+    "spoilage": [
+      "放進水裡會直立浮起，代表氣室變大、蛋已經很不新鮮",
+      "打開蛋殼立刻聞到硫磺味或酸味",
+      "蛋白稀稀水水地攤開，蛋黃一打就散",
+      "蛋白或蛋黃出現粉紅、綠、黑色或虹彩，或蛋殼上長黴"
+    ],
+    "tips": [
+      "雞蛋留在原本的蛋盒裡，既能保護也看得到日期。",
+      "放層架不要放門邊，門邊溫度起伏大。",
+      "不確定新不新鮮就做浮水測試，會沉下去的比較新鮮。",
+      "把蛋白蛋黃都煮到凝固，蛋料理則加熱到中心 71°C。"
+    ],
+    "faq": [
+      {"q": "雞蛋可以連殼冷凍嗎？", "a": "不行，內容物膨脹會撐破蛋殼。請先打破，把全蛋液、蛋白或蛋黃裝進密封容器，放 −18°C 冷凍約一年。"},
+      {"q": "雞蛋放冰箱可以放多久？", "a": "連盒放在 4°C 以下冷藏，從購買日起大約 3～5 週。"},
+      {"q": "雞蛋壞掉怎麼看？", "a": "放進水裡試試：新鮮的會沉底，很舊的會浮起來。打開有硫磺味，或內部出現粉紅、虹彩色，就要丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "殻付き卵",
+    "aliases": ["鶏卵", "生卵", "たまご", "玉子", "全卵（殻付き）"],
+    "summary": "殻付き卵は殻に守られた生の鶏卵で、国によって洗卵して冷蔵販売する場合と、洗わず常温販売する場合があります。日本のように冷蔵で扱う場合、4℃以下で保存すれば購入日から3〜5週間が目安です。殻のまま冷凍することはできません。",
+    "pantry": "洗卵して冷蔵販売される卵は、家庭でも冷蔵してください。洗浄で殻表面の保護膜が失われているうえ、冷えた卵を室温に戻すと結露が生じ、多孔質の殻から菌が入るおそれがあります。洗っていない常温流通の卵は20℃以下の涼しい場所なら置けますが日もちは大きく短くなり、一度冷蔵したものは最後まで冷蔵が必要です。ゆで卵や割った卵は室温に2時間以上置かないでください。",
+    "fridge": "パックのまま、ドアポケットではなく庫内の棚に置くと4℃以下で安定し、殻を通したにおい移りも防げます。とがったほうを下にすると黄身が中央に保たれます。購入日から3〜5週間が目安です。保存前に洗うのは避け、汚れがある場合は使う直前に洗いましょう。",
+    "freezer": "殻のままの冷凍は避けてください。中身が膨張して殻が割れ、菌が入ります。冷凍するときはまず割り、全卵は軽く溶き、卵白と卵黄を分ける場合は卵黄に塩か砂糖をひとつまみ加えてゲル化を防ぎます。密閉容器に入れて−18℃で保存すれば、約1年は品質を保てます。",
+    "thawing": "冷凍した卵液は冷蔵庫で一晩解凍し、1日以内にしっかり加熱して使い切ります。常温解凍や再冷凍はしないでください。",
+    "spoilage": [
+      "水に入れると立って浮く（気室が大きくなり、かなり古い状態）",
+      "割った瞬間に硫黄臭や酸っぱいにおいがする",
+      "白身が水っぽく広がる、黄身が割った途端にくずれる",
+      "白身や黄身にピンク・緑・黒・虹色の変色がある、殻にカビが生えている"
+    ],
+    "tips": [
+      "パックのまま保存する。保護にもなり日付も確認できる。",
+      "温度が変動するドアポケットではなく庫内の棚に置く。",
+      "鮮度が不安なら水に入れて確認する。沈むものは新しい。",
+      "白身も黄身も固まるまで加熱する。卵料理は中心温度71℃を目安に。"
+    ],
+    "faq": [
+      {"q": "卵は殻のまま冷凍できますか？", "a": "できません。中身が膨張して殻が割れます。割ってから溶き卵・卵白・卵黄の状態で密閉容器に入れ、−18℃で約1年保存できます。"},
+      {"q": "卵は冷蔵庫で何日もちますか？", "a": "パックのまま4℃以下で保存した場合、購入日からおよそ3〜5週間です。"},
+      {"q": "卵が傷んでいるかどうかの見分け方は？", "a": "水に入れると新しい卵は沈み、古い卵は浮きます。割ったときの硫黄臭、中身のピンクや虹色の変色があれば処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Huevos con cáscara",
+    "aliases": ["huevos frescos", "huevos crudos", "huevo entero", "huevos de gallina", "blanquillos"],
+    "summary": "Los huevos con cáscara son huevos de gallina crudos con su cáscara protectora; según el país se venden lavados y refrigerados o sin lavar a temperatura ambiente. Una vez que se mantienen en frío a 4 °C (40 °F) o menos, duran 3–5 semanas desde el día de compra. No deben congelarse con cáscara.",
+    "pantry": "Donde los huevos se venden lavados y refrigerados, hay que mantenerlos refrigerados: el lavado elimina la cutícula natural y, al templarse, la condensación puede arrastrar bacterias a través de la cáscara porosa. Donde se venden sin lavar y sin frío, un lugar fresco por debajo de unos 20 °C (68 °F) es aceptable, pero acorta bastante su vida; y todo huevo que ya estuvo refrigerado debe seguir en frío. Los huevos cocidos o cascados no deben pasar más de 2 horas a temperatura ambiente.",
+    "fridge": "Guarda los huevos en su cartón, en un estante interior y no en la puerta, para que se mantengan a 4 °C (40 °F) o menos de forma estable y no absorban olores por la cáscara. Colócalos con la punta hacia abajo para centrar la yema y cuenta con 3–5 semanas desde la compra. No los laves antes de guardarlos; si están sucios, lávalos justo antes de usarlos.",
+    "freezer": "No congeles huevos con cáscara: el contenido se expande, rompe la cáscara y deja entrar bacterias. Para congelarlos, cáscalos primero: bate los huevos enteros ligeramente, o separa claras y yemas (añade una pizca de sal o azúcar a las yemas para que no se agelatinen) y congélalos en recipiente hermético a −18 °C (0 °F), donde se conservan bien alrededor de un año.",
+    "thawing": "Descongela la mezcla de huevo durante una noche en el refrigerador y úsala en un día, cocinándola por completo. Nunca descongeles huevo a temperatura ambiente ni lo vuelvas a congelar.",
+    "spoilage": [
+      "Un huevo que flota de pie en un bol de agua, señal de una cámara de aire grande y mucha edad",
+      "Olor sulfuroso o agrio nada más cascarlo",
+      "Clara muy líquida que se extiende, o yema que se rompe al caer",
+      "Coloración rosada, verdosa, negra o irisada en clara o yema, o moho en la cáscara"
+    ],
+    "tips": [
+      "Déjalos en el cartón: los protege y lleva la fecha.",
+      "Guárdalos en un estante, no en la puerta, donde la temperatura oscila.",
+      "Usa la prueba del agua si dudas de la frescura: los que se hunden están frescos.",
+      "Cocina los huevos hasta que clara y yema cuajen, o hasta 71 °C (160 °F) en platos con huevo."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar los huevos con cáscara?", "a": "No. El contenido se expande y rompe la cáscara. Cáscalos y congela huevo batido, claras o yemas en recipiente hermético a −18 °C (0 °F) durante un año aproximadamente."},
+      {"q": "¿Cuánto duran los huevos en el refrigerador?", "a": "Unas 3–5 semanas desde el día de compra, guardados en su cartón a 4 °C (40 °F) o menos."},
+      {"q": "¿Cómo saber si un huevo está malo?", "a": "Ponlo en agua: el fresco se hunde y el muy viejo flota. Olor sulfuroso al cascarlo o cualquier tono rosado o irisado dentro significan tirarlo."}
+    ]
+  }
+}

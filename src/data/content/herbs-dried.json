@@ -1,0 +1,107 @@
+{
+  "slug": "herbs-dried",
+  "en": {
+    "name": "Dried herbs",
+    "aliases": ["dried oregano", "dried basil", "dried thyme", "dried parsley", "dried rosemary"],
+    "summary": "Dried herbs are the dehydrated leaves of plants such as oregano, thyme, basil and rosemary, and their flavour comes from volatile oils that evaporate over time. Kept sealed in a cool, dark cupboard they stay good for 1–2 years from the date of purchase, and 1–2 years after opening. They do not become unsafe; they simply lose their scent.",
+    "pantry": "A cool, dark, dry cupboard is the only place dried herbs should live: 1–2 years from purchase and 1–2 years after opening. Heat, light and steam are what strip the aroma, so a rack above the hob or a sunny windowsill is the fastest way to ruin them. Keep them in tightly closed jars and always measure with a dry spoon rather than shaking over a steaming pan.",
+    "fridge": "Dried herbs do not need refrigeration, and the fridge causes condensation that mats the leaves together and dulls the flavour. Fresh herbs are the opposite: wrap those in slightly damp kitchen paper and keep them in the fridge for a few days.",
+    "freezer": "Freezing dried herbs offers no worthwhile benefit and risks moisture damage. Fresh herbs, on the other hand, freeze very well chopped in ice-cube trays with a little oil or water.",
+    "thawing": null,
+    "spoilage": [
+      "Faded grey or brown leaves instead of a green colour",
+      "Little or no aroma when crushed between the fingers",
+      "Damp, matted clumps from absorbed moisture",
+      "Insects, larvae or webbing in the jar"
+    ],
+    "tips": [
+      "Crush a pinch in your palm before use to release the remaining oils",
+      "Buy small jars of herbs you use rarely and replace them yearly",
+      "Store jars in a drawer or closed cupboard, never above the cooker",
+      "Label decanted herbs with the name and the date they were opened"
+    ],
+    "faq": [
+      {"q": "How long do dried herbs last?", "a": "1–2 years from purchase and 1–2 years after opening, kept sealed in a cool, dark cupboard. Older herbs are safe but taste of very little."},
+      {"q": "How can you tell if dried herbs have gone off?", "a": "Crush a pinch between your fingers and smell it. If there is barely any aroma and the colour has faded to grey-brown, it is time to replace them."},
+      {"q": "Should dried herbs be kept in the fridge?", "a": "No. Refrigeration causes condensation that mats the leaves and dulls the flavour. A sealed jar in a cool, dark cupboard is far better."}
+    ]
+  },
+  "zh": {
+    "name": "乾燥香草",
+    "aliases": ["乾燥奧勒岡", "乾燥羅勒", "乾燥百里香", "乾燥巴西里", "乾燥迷迭香"],
+    "summary": "乾燥香草是奧勒岡、百里香、羅勒、迷迭香等植物脫水後的葉片，香味來自會隨時間揮發的精油。密封放在陰涼避光的櫥櫃，從購買日起可維持 1～2 年，開封後也是 1～2 年。它不會變得不安全，只是香氣會慢慢消失。",
+    "pantry": "陰涼避光乾燥的櫥櫃是乾燥香草唯一該待的地方：從購買日起 1～2 年，開封後 1～2 年。熱、光和蒸氣是香氣的殺手，放在爐台上方的架子或有陽光的窗邊，是最快毀掉它們的方式。請用密封罐保存，取用時用乾湯匙，不要拿著罐子在冒蒸氣的鍋上搖。",
+    "fridge": "乾燥香草不需要冷藏，冰箱的冷凝水氣會讓葉片黏成一團、香氣變鈍。新鮮香草則相反：用微濕的廚房紙巾包好放冰箱，可以保存幾天。",
+    "freezer": "冷凍乾燥香草沒有值得的好處，還有受潮的風險。新鮮香草反而很適合冷凍，切碎後加一點油或水裝進製冰盒即可。",
+    "thawing": null,
+    "spoilage": [
+      "葉片從綠色褪成灰色或褐色",
+      "在指間搓開幾乎聞不到香氣",
+      "受潮後黏成一團團的濕塊",
+      "罐子裡有昆蟲、幼蟲或蛛絲"
+    ],
+    "tips": [
+      "使用前在掌心搓一下，把殘留的香氣油逼出來",
+      "很少用的香草買小罐，每年換新",
+      "罐子放抽屜或密閉櫥櫃，絕對不要放在爐台上方",
+      "分裝的香草要標上名稱和開封日期"
+    ],
+    "faq": [
+      {"q": "乾燥香草可以放多久？", "a": "密封放在陰涼避光的櫥櫃，從購買日起 1～2 年，開封後也是 1～2 年。更舊的雖然安全，但幾乎沒什麼味道了。"},
+      {"q": "怎麼判斷乾燥香草不能用了？", "a": "取一小撮在指間搓開再聞。如果幾乎沒有香氣，顏色也褪成灰褐色，就該換新的了。"},
+      {"q": "乾燥香草要放冰箱嗎？", "a": "不用。冷藏會凝結水氣讓葉片黏成一團、香氣變鈍。密封放在陰涼避光的櫥櫃好得多。"}
+    ]
+  },
+  "ja": {
+    "name": "ドライハーブ",
+    "aliases": ["乾燥ハーブ", "ドライオレガノ", "ドライバジル", "ドライタイム", "乾燥パセリ"],
+    "summary": "ドライハーブはオレガノ、タイム、バジル、ローズマリーなどの葉を乾燥させたもので、香りは時間とともに飛ぶ精油に由来します。密閉して涼しく暗い戸棚に置けば、購入日から1〜2年、開封後も1〜2年が目安です。危険な状態にはならず、香りが抜けていくだけです。",
+    "pantry": "ドライハーブの置き場所は涼しく暗く乾いた戸棚だけです。購入日から1〜2年、開封後も1〜2年。熱・光・湯気が香りを奪うので、コンロ上のラックや日の当たる窓辺は最悪です。ふたのしっかり閉まる瓶に入れ、湯気の立つ鍋の上で振らず、乾いたスプーンで量りましょう。",
+    "fridge": "ドライハーブに冷蔵は不要で、結露で葉が固まり風味も鈍ります。生のハーブは逆で、軽く湿らせたキッチンペーパーで包んで冷蔵すれば数日持ちます。",
+    "freezer": "ドライハーブの冷凍にめぼしい利点はなく、湿気で傷むリスクだけがあります。一方、生のハーブは刻んで製氷皿に少量の油や水と入れると、とてもよく冷凍できます。",
+    "thawing": null,
+    "spoilage": [
+      "緑色が抜けて灰色や茶色になっている",
+      "指でつぶしてもほとんど香りがしない",
+      "湿気を吸って葉が固まっている",
+      "瓶の中に虫、幼虫、クモの巣状のもの"
+    ],
+    "tips": [
+      "使う前に手のひらでもんで、残った香り成分を引き出しましょう",
+      "使用頻度の低いハーブは小瓶で買い、1年ごとに更新を",
+      "瓶は引き出しや扉付きの戸棚へ。コンロの上は避けてください",
+      "小分けしたハーブには名称と開封日を書きましょう"
+    ],
+    "faq": [
+      {"q": "ドライハーブはどのくらい日持ちしますか？", "a": "密閉して涼しく暗い戸棚なら購入日から1〜2年、開封後も1〜2年です。それ以上のものは安全ですが、ほとんど香りません。"},
+      {"q": "ドライハーブがだめになったか見分けるには？", "a": "ひとつまみを指でこすって香りを確認します。香りがほとんどなく、色が灰茶色にあせていれば交換時です。"},
+      {"q": "ドライハーブは冷蔵庫に入れるべきですか？", "a": "いいえ。結露で葉が固まり風味も鈍ります。密閉瓶で涼しく暗い戸棚のほうがずっと適しています。"}
+    ]
+  },
+  "es": {
+    "name": "Hierbas secas",
+    "aliases": ["orégano seco", "albahaca seca", "tomillo seco", "perejil seco", "romero seco"],
+    "summary": "Las hierbas secas son hojas deshidratadas de plantas como el orégano, el tomillo, la albahaca o el romero, y su sabor procede de aceites volátiles que se evaporan con el tiempo. Cerradas en un armario fresco y oscuro se mantienen 1–2 años desde la compra y 1–2 años tras abrirlas. No se vuelven inseguras: simplemente pierden aroma.",
+    "pantry": "Un armario fresco, oscuro y seco es el único sitio donde deben estar: 1–2 años desde la compra y 1–2 años tras abrirlas. El calor, la luz y el vapor son lo que les roba el aroma, así que un especiero sobre la placa o una repisa soleada las arruinan enseguida. Guárdalas en tarros bien cerrados y mídelas con una cuchara seca, sin agitar el bote sobre la olla.",
+    "fridge": "Las hierbas secas no necesitan nevera, y el frío genera condensación que apelmaza las hojas y apaga el sabor. Con las hierbas frescas ocurre lo contrario: envuélvelas en papel de cocina ligeramente húmedo y guárdalas unos días en la nevera.",
+    "freezer": "Congelar hierbas secas no aporta un beneficio real y arriesga daños por humedad. Las hierbas frescas, en cambio, se congelan muy bien picadas en cubiteras con un poco de aceite o agua.",
+    "thawing": null,
+    "spoilage": [
+      "Hojas apagadas, grises o pardas en lugar de verdes",
+      "Poco o ningún aroma al frotarlas entre los dedos",
+      "Grumos húmedos y apelmazados por la humedad absorbida",
+      "Insectos, larvas o telarañas en el tarro"
+    ],
+    "tips": [
+      "Frota una pizca en la palma antes de usarlas para liberar los aceites restantes",
+      "Compra tarros pequeños de las que uses poco y renuévalos cada año",
+      "Guarda los tarros en un cajón o armario cerrado, nunca sobre la cocina",
+      "Etiqueta las hierbas trasvasadas con el nombre y la fecha de apertura"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las hierbas secas?", "a": "1–2 años desde la compra y 1–2 años tras abrirlas, cerradas en un armario fresco y oscuro. Más viejas son seguras pero saben a muy poco."},
+      {"q": "¿Cómo saber si las hierbas secas se han pasado?", "a": "Frota una pizca entre los dedos y huélela. Si apenas hay aroma y el color ha virado a gris pardo, toca reemplazarlas."},
+      {"q": "¿Hay que guardar las hierbas secas en la nevera?", "a": "No. La refrigeración provoca condensación que apelmaza las hojas y apaga el sabor. Un tarro cerrado en un armario fresco y oscuro es mucho mejor."}
+    ]
+  }
+}

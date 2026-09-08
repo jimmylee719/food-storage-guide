@@ -1,0 +1,107 @@
+{
+  "slug": "garlic-chopped-commercial-jars",
+  "en": {
+    "name": "Chopped garlic in jars",
+    "aliases": ["minced garlic", "jarred garlic", "garlic paste", "bottled chopped garlic"],
+    "summary": "Commercially jarred chopped garlic is preserved with acid, oil or brine so that it is safe on the shelf until opened. An unopened jar keeps 8–12 months from the date of purchase in a cool, dry cupboard. Once you break the seal, refrigerate it and follow the manufacturer's use-by guidance on the label.",
+    "pantry": "Store unopened jars in a cool, dark cupboard away from the stove: 8–12 months from purchase. Do not keep an opened jar at room temperature. Home-made chopped garlic in oil should never be stored at room temperature either, because low-acid garlic in oil can support the growth of Clostridium botulinum; commercial jars are acidified to prevent this.",
+    "fridge": "After opening, keep the jar tightly closed in the fridge at 4 °C (40 °F) or below and use it within the period stated on the label. Always take garlic out with a clean, dry spoon, and wipe the rim before closing. If you make chopped garlic in oil at home, it must be refrigerated and used within a few days.",
+    "freezer": "Jarred chopped garlic can be frozen, though the texture softens. Freeze it in teaspoon portions in an ice-cube tray, then bag the cubes and drop one straight into a hot pan. Peeled fresh cloves freeze well too and keep more of their punch.",
+    "thawing": "Add frozen garlic cubes directly to the pan while cooking; there is no need to thaw. If you want it thawed, do it in the fridge, never on the counter.",
+    "spoilage": [
+      "Mould on the surface or under the lid",
+      "Fermented, yeasty or sour smell instead of a sharp garlic aroma",
+      "Bulging lid, bubbling, or a hiss of pressure on opening",
+      "Slimy texture or a distinctly blue-green colour change"
+    ],
+    "tips": [
+      "Refrigerate the jar as soon as it is opened and never leave it on the counter",
+      "Use a clean, dry spoon every time to avoid introducing bacteria",
+      "Freeze leftovers in ice-cube portions if you are not going to finish the jar",
+      "Discard any jar with a bulging lid without tasting it"
+    ],
+    "faq": [
+      {"q": "Does jarred garlic need to be refrigerated after opening?", "a": "Yes. Keep the opened jar sealed in the fridge at 4 °C (40 °F) or below and follow the use-by period given on the label."},
+      {"q": "How long does an unopened jar of chopped garlic last?", "a": "8–12 months from purchase in a cool, dry cupboard, as long as the seal is intact."},
+      {"q": "Is it safe to store chopped garlic in oil at room temperature?", "a": "No. Garlic is low in acid, and garlic in oil left at room temperature can support Clostridium botulinum. Commercial jars are acidified; home-made versions must be refrigerated and used within a few days."}
+    ]
+  },
+  "zh": {
+    "name": "罐裝蒜末",
+    "aliases": ["蒜蓉", "蒜泥", "罐頭蒜末", "瓶裝蒜末", "調理蒜蓉"],
+    "summary": "市售罐裝蒜末會用酸、油或鹽水保存，未開封時可以常溫存放。未開封的罐子放在陰涼乾燥的櫥櫃，從購買日起可放 8～12 個月。開封後就要冷藏，並依照包裝標示的使用期限食用。",
+    "pantry": "未開封的罐子放在陰涼避光、遠離爐火的櫥櫃，從購買日起 8～12 個月。開封後就不要再放常溫。自製的油漬蒜末也絕對不能放室溫，因為大蒜屬於低酸性食材，泡在油裡的環境可能讓肉毒桿菌生長；市售罐裝則會添加酸來防止這種情況。",
+    "fridge": "開封後蓋緊放進 4°C 以下的冰箱，並在包裝標示的期限內用完。取用時務必用乾淨乾燥的湯匙，蓋回去前把罐口擦乾淨。如果是自製的油漬蒜末，一定要冷藏，並在幾天內用完。",
+    "freezer": "罐裝蒜末可以冷凍，只是質地會變軟。用製冰盒分成一小匙的份量冷凍，再裝袋保存，煮的時候直接丟一塊進熱鍋。剝好的新鮮蒜瓣也很適合冷凍，而且香辣味保留得更完整。",
+    "thawing": "冷凍的蒜末小塊可以直接下鍋，不需要退冰。真的要退冰請放冷藏室，不要放在室溫。",
+    "spoilage": [
+      "表面或蓋子內側出現黴斑",
+      "有發酵味、酵母味或酸味，而不是嗆辣的蒜香",
+      "蓋子鼓起、內容物冒泡，或開罐時有洩氣聲",
+      "質地變黏滑，或明顯轉成藍綠色"
+    ],
+    "tips": [
+      "開封後立刻冷藏，絕對不要放在流理臺上",
+      "每次都用乾淨乾燥的湯匙，避免帶入細菌",
+      "如果一時用不完，就分成製冰盒小塊冷凍",
+      "蓋子鼓起的罐子不要試吃，直接丟掉"
+    ],
+    "faq": [
+      {"q": "罐裝蒜末開封後需要冷藏嗎？", "a": "需要。開封後蓋緊放 4°C 以下冷藏，並依照包裝上標示的期限使用。"},
+      {"q": "未開封的罐裝蒜末可以放多久？", "a": "只要封口完整，放在陰涼乾燥的櫥櫃，從購買日起可放 8～12 個月。"},
+      {"q": "油漬蒜末可以放常溫嗎？", "a": "不可以。大蒜是低酸性食材，泡在油裡放室溫可能讓肉毒桿菌生長。市售罐裝有加酸處理，自製的則必須冷藏並在幾天內用完。"}
+    ]
+  },
+  "ja": {
+    "name": "刻みにんにく（瓶詰め）",
+    "aliases": ["おろしにんにく", "チューブにんにく", "刻みガーリック", "ガーリックペースト"],
+    "summary": "市販の瓶詰め刻みにんにくは、酸や油、塩水で保存性を高めてあり、未開封なら常温で流通できます。未開封の瓶は涼しく乾燥した戸棚で購入日から8〜12か月が目安です。開封後は冷蔵し、ラベルに書かれた使用期限に従ってください。",
+    "pantry": "未開封の瓶はコンロから離れた涼しく暗い戸棚で、購入日から8〜12か月。開封後は常温に置かないでください。自家製のオイル漬けにんにくも室温保存は厳禁です。にんにくは酸が少なく、油に漬けた状態ではボツリヌス菌が増える恐れがあります。市販品は酸を加えてこれを防いでいます。",
+    "fridge": "開封後はふたをしっかり閉めて4℃以下で冷蔵し、ラベルの期限内に使い切ります。取り出すときは必ず清潔で乾いたスプーンを使い、閉める前に瓶の口を拭きましょう。自家製のオイル漬けは必ず冷蔵し、数日以内に使い切ってください。",
+    "freezer": "瓶詰めの刻みにんにくは冷凍できますが、食感はやわらかくなります。製氷皿で小さじ1ずつ凍らせ、袋にまとめておけば、熱した鍋にそのまま入れられます。皮をむいた生のにんにくも冷凍向きで、香りはより強く残ります。",
+    "thawing": "凍ったにんにくは解凍せずそのまま鍋へ入れて構いません。解凍したい場合は冷蔵庫で行い、室温に出さないでください。",
+    "spoilage": [
+      "表面やふたの内側にカビ",
+      "きりっとした香りではなく、発酵臭・酵母臭・酸っぱいにおいがする",
+      "ふたの膨らみ、泡立ち、開封時のガス音",
+      "ぬめりが出ている、はっきり青緑色に変わっている"
+    ],
+    "tips": [
+      "開封したらすぐ冷蔵。調理台に置きっぱなしにしないこと",
+      "毎回、清潔で乾いたスプーンを使って雑菌を入れない",
+      "使い切れないときは製氷皿で小分け冷凍を",
+      "ふたが膨らんだ瓶は味見せずに処分してください"
+    ],
+    "faq": [
+      {"q": "瓶詰めにんにくは開封後に冷蔵が必要ですか？", "a": "必要です。ふたを閉めて4℃以下で冷蔵し、ラベル記載の期限内に使い切ってください。"},
+      {"q": "未開封の刻みにんにくはどのくらい持ちますか？", "a": "封が保たれていれば、涼しく乾燥した戸棚で購入日から8〜12か月です。"},
+      {"q": "にんにくのオイル漬けは常温保存できますか？", "a": "できません。にんにくは低酸性で、油漬けを室温に置くとボツリヌス菌が増える恐れがあります。市販品は酸を加えていますが、自家製は必ず冷蔵し数日で使い切ってください。"}
+    ]
+  },
+  "es": {
+    "name": "Ajo picado en frasco",
+    "aliases": ["ajo molido", "ajo en conserva", "pasta de ajo", "ajo picado envasado"],
+    "summary": "El ajo picado comercial se conserva con ácido, aceite o salmuera, de modo que es seguro en la despensa mientras esté cerrado. Un frasco sin abrir dura 8–12 meses desde la compra en un armario fresco y seco. Una vez roto el precinto, refrigéralo y respeta el plazo indicado en la etiqueta.",
+    "pantry": "Guarda los frascos cerrados en un armario fresco y oscuro lejos de los fogones: 8–12 meses desde la compra. No dejes un frasco abierto a temperatura ambiente. El ajo picado casero en aceite tampoco debe guardarse fuera de la nevera, porque el ajo es poco ácido y en aceite puede favorecer el crecimiento de Clostridium botulinum; los frascos comerciales se acidifican para evitarlo.",
+    "fridge": "Tras abrirlo, mantén el frasco bien cerrado en la nevera a 4 °C (40 °F) o menos y úsalo dentro del plazo que indique la etiqueta. Saca el ajo siempre con una cuchara limpia y seca y limpia el borde antes de cerrar. El ajo casero en aceite debe refrigerarse y consumirse en pocos días.",
+    "freezer": "El ajo picado en frasco se puede congelar, aunque la textura se ablanda. Congélalo en porciones de una cucharadita en cubitera, guarda los cubos en bolsa y echa uno directamente a la sartén caliente. Los dientes frescos pelados también se congelan bien y conservan más carácter.",
+    "thawing": "Añade los cubos congelados directamente a la sartén mientras cocinas; no hace falta descongelar. Si prefieres descongelarlo, hazlo en la nevera, nunca en la encimera.",
+    "spoilage": [
+      "Moho en la superficie o bajo la tapa",
+      "Olor fermentado, a levadura o agrio en lugar del aroma punzante del ajo",
+      "Tapa abombada, burbujeo o silbido de presión al abrir",
+      "Textura viscosa o un cambio claro a color azul verdoso"
+    ],
+    "tips": [
+      "Refrigera el frasco en cuanto lo abras y no lo dejes en la encimera",
+      "Usa siempre una cuchara limpia y seca para no introducir bacterias",
+      "Congela el sobrante en cubitos si no vas a terminar el frasco",
+      "Desecha sin probar cualquier frasco con la tapa abombada"
+    ],
+    "faq": [
+      {"q": "¿El ajo en frasco necesita nevera tras abrirlo?", "a": "Sí. Mantenlo cerrado en la nevera a 4 °C (40 °F) o menos y respeta el plazo de consumo de la etiqueta."},
+      {"q": "¿Cuánto dura un frasco cerrado de ajo picado?", "a": "8–12 meses desde la compra en un armario fresco y seco, siempre que el precinto esté intacto."},
+      {"q": "¿Es seguro guardar ajo en aceite a temperatura ambiente?", "a": "No. El ajo es poco ácido y en aceite a temperatura ambiente puede favorecer a Clostridium botulinum. Los frascos comerciales están acidificados; los caseros deben refrigerarse y usarse en pocos días."}
+    ]
+  }
+}

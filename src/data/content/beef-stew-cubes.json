@@ -1,0 +1,107 @@
+{
+  "slug": "beef-stew-cubes",
+  "en": {
+    "name": "Beef stew cubes",
+    "aliases": ["stewing beef", "casserole steak", "diced beef", "braising cubes", "goulash meat"],
+    "summary": "Beef stew cubes are bite-sized pieces cut from chuck, shin or other collagen-rich cuts and sold ready for braising. All that cutting exposes far more surface than a whole joint, but USDA timings are the same as other raw beef: 3–5 days in the fridge at 4 °C (40 °F) or below from purchase, and 4–12 months at −18 °C (0 °F).",
+    "pantry": "Cubed raw beef must never be left at room temperature. With so many cut faces there is more surface for bacteria to grow on, and in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) they multiply fast — throw away meat left out for more than 2 hours, or 1 hour above 32 °C (90 °F). Marinate stew meat in a covered bowl in the fridge.",
+    "fridge": "Store the cubes in their tray or a covered container on the bottom shelf at 4 °C (40 °F) or below, on a plate so no liquid escapes. They keep 3–5 days from purchase. If the pieces are sitting in a pool of liquid, drain and pat them dry before browning — wet meat will not brown, and browning is where a stew gets its flavour.",
+    "freezer": "Cubes freeze quickly and thaw fast, which makes them one of the most practical things to keep in a freezer. Portion them into meal-sized amounts, press flat in freezer bags with the air squeezed out, and freeze at −18 °C (0 °F): safe indefinitely, best quality for 4–12 months. Label with weight and date so you can drop the right amount into a recipe.",
+    "thawing": "Thaw a flat bag of cubes in the fridge overnight, or in cold water changed every 30 minutes if you are in a hurry, cooking immediately afterwards. You can also add frozen cubes straight to a long braise, allowing extra time. Never thaw meat on the counter.",
+    "spoilage": [
+      "Sour, sweetish or ammonia-like smell when the pack is opened",
+      "Slimy or sticky pieces that cling together",
+      "Grey-green or dull brown colour throughout the cubes",
+      "Cloudy, ropey liquid in the tray, or a passed use-by date"
+    ],
+    "tips": [
+      "Freeze in flat, meal-sized portions — they thaw in a fraction of the time a block takes.",
+      "Pat the cubes dry and brown them in batches so the pan stays hot.",
+      "Braise gently for 2–3 hours; stew meat is tough until the collagen melts.",
+      "Cool leftover stew in shallow containers and refrigerate within 2 hours."
+    ],
+    "faq": [
+      {"q": "Can you freeze stewing beef?", "a": "Yes. Portion it flat in freezer bags and freeze at −18 °C (0 °F): safe indefinitely, best quality for 4–12 months."},
+      {"q": "How long does diced beef last in the fridge?", "a": "3–5 days from the day of purchase at 4 °C (40 °F) or below."},
+      {"q": "Can you cook stew meat from frozen?", "a": "Yes, in a long braise. Add the frozen cubes to the pot and allow extra cooking time; do not use frozen meat for a quick sear."}
+    ]
+  },
+  "zh": {
+    "name": "牛肉燉煮塊",
+    "aliases": ["燉牛肉塊", "咖哩用牛肉", "牛腩塊", "紅酒燉牛肉用肉", "牛肉丁"],
+    "summary": "牛肉燉煮塊是把肩胛、牛腱等膠質豐富的部位切成入口大小、直接可以下鍋燉的肉塊。切塊會露出比整塊肉多得多的表面，不過 USDA 給的期限和其他生牛肉一樣：4°C 以下冷藏從購買日起 3～5 天，−18°C 冷凍 4～12 個月。",
+    "pantry": "切塊的生牛肉絕對不能放室溫。切面多代表細菌可以生長的面積也多，在 4～60°C 的危險溫度帶會快速繁殖；室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。醃肉請裝在有蓋容器裡放冰箱。",
+    "fridge": "連原盒或裝進有蓋容器，放在盤子上、置於冰箱最下層，維持 4°C 以下，避免血水外流。從購買日起可放 3～5 天。如果肉塊泡在血水裡，下鍋前請瀝乾並拍乾——濕的肉煎不上色，而燉肉的香氣正是來自那層焦香。",
+    "freezer": "肉塊結凍快、解凍也快，是冷凍庫裡最實用的常備品之一。依每餐用量分裝，放進冷凍袋壓平、擠出空氣，放 −18°C 冷凍：安全上可以無限期保存，品質以 4～12 個月為佳。袋上標註重量和日期，做菜時就能取出剛好的量。",
+    "thawing": "壓平的冷凍袋放冷藏室解凍一晚，趕時間可以泡冷水、每 30 分鐘換水，解凍後立刻烹調。也可以把冷凍肉塊直接下鍋長時間燉煮，只要多留一點時間。絕對不要放室溫退冰。",
+    "spoilage": [
+      "打開包裝聞到酸味、甜膩腐味或阿摩尼亞味",
+      "肉塊黏滑、彼此黏在一起",
+      "整批肉塊都變成灰綠或暗褐色",
+      "盒底的血水變混濁牽絲，或已超過有效日期"
+    ],
+    "tips": [
+      "分裝成每餐份量並壓平冷凍，解凍時間比一整塊快非常多。",
+      "把肉塊拍乾後分批下鍋煎，鍋子才不會降溫。",
+      "小火燉煮 2～3 小時，膠質沒融化前肉一定是硬的。",
+      "剩下的燉肉用淺容器攤開降溫，2 小時內冷藏。"
+    ],
+    "faq": [
+      {"q": "燉牛肉塊可以冷凍嗎？", "a": "可以。分裝壓平放進冷凍袋，放 −18°C 冷凍：安全上無限期，品質以 4～12 個月為佳。"},
+      {"q": "牛肉丁放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起 3～5 天。"},
+      {"q": "冷凍牛肉塊可以直接燉嗎？", "a": "長時間燉煮可以，直接下鍋並多留一些時間即可。但不適合用來快速煎上色。"}
+    ]
+  },
+  "ja": {
+    "name": "煮込み用牛肉（角切り）",
+    "aliases": ["シチュー用牛肉", "カレー用牛肉", "牛角切り肉", "ビーフシチュー用", "牛スネ角切り"],
+    "summary": "煮込み用の角切り牛肉は、肩肉やすね肉などコラーゲンの多い部位を一口大に切ったもので、そのまま煮込みに使えます。切り分けたぶん表面積は大きくなりますが、目安はほかの生牛肉と同じで、4℃以下の冷蔵で購入日から3〜5日、−18℃の冷凍で4〜12か月です。",
+    "pantry": "角切りの生牛肉を常温に置くことはできません。切断面が多いぶん菌の増える面積も大きく、4〜60℃の危険温度帯では急速に増殖します。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。下味をつけるときはふたをして冷蔵庫で。",
+    "fridge": "トレーのまま、またはふた付き容器に入れ、皿にのせて冷蔵庫の最下段で4℃以下を保ちます。購入日から3〜5日が目安。ドリップに浸かっている場合は、焼く前に汁気を切って表面を拭きましょう。濡れた肉は焼き色がつかず、煮込みの風味はその焼き色から生まれます。",
+    "freezer": "角切り肉は凍るのも解けるのも早く、冷凍庫の常備品として非常に便利です。1回分ずつに分け、冷凍用保存袋で薄く平らにして空気を抜き、−18℃で冷凍します。安全面では長期間、品質は4〜12か月が目安。重量と日付を書いておくと、レシピ通りの量を取り出せます。",
+    "thawing": "平らにした袋のまま冷蔵庫で一晩解凍するか、急ぐときは冷水で30分ごとに水を替えて解凍し、すぐ調理します。長時間煮込む料理なら、凍ったまま鍋に入れて加熱時間を延ばす方法も可能です。常温解凍は避けてください。",
+    "spoilage": [
+      "パックを開けたときに酸っぱいにおい、甘ったるい腐敗臭、アンモニア臭がする",
+      "肉がぬめって互いにくっついている",
+      "全体が灰緑色やくすんだ茶色に変わっている",
+      "トレーのドリップが濁って糸を引く、消費期限を過ぎている"
+    ],
+    "tips": [
+      "1回分ずつ平らにして冷凍する。かたまりより解凍がはるかに速い。",
+      "表面を拭いてから、鍋の温度が下がらないよう数回に分けて焼き付ける。",
+      "弱火で2〜3時間。コラーゲンが溶けるまで肉は硬いまま。",
+      "残った煮込みは浅い容器で手早く冷まし、2時間以内に冷蔵する。"
+    ],
+    "faq": [
+      {"q": "煮込み用の牛肉は冷凍できますか？", "a": "できます。1回分ずつ平らに袋詰めして−18℃で冷凍。安全面では長期間、品質は4〜12か月が目安です。"},
+      {"q": "角切り牛肉は冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から3〜5日です。"},
+      {"q": "冷凍のまま煮込んでもいいですか？", "a": "長時間の煮込みなら可能です。凍ったまま鍋に入れて時間を長めにとってください。短時間で焼き色をつける調理には向きません。"}
+    ]
+  },
+  "es": {
+    "name": "Carne de res en cubos para guisar",
+    "aliases": ["carne para guisar", "carne en cubos", "carne para estofado", "res para gulash", "trozos de res"],
+    "summary": "Los cubos de res para guisar son trozos de bocado cortados de aguja, jarrete u otros cortes ricos en colágeno, listos para brasear. El troceado expone mucha más superficie que una pieza entera, pero los plazos del USDA son los mismos que para el resto de la res cruda: 3–5 días en el refrigerador a 4 °C (40 °F) o menos desde la compra y 4–12 meses a −18 °C (0 °F).",
+    "pantry": "La carne cruda en cubos nunca debe quedarse a temperatura ambiente. Con tantas caras cortadas hay más superficie para las bacterias, que se multiplican rápido en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F): tira la carne que lleve más de 2 horas fuera, o 1 hora por encima de 32 °C (90 °F). Marina en un bol tapado dentro del refrigerador.",
+    "fridge": "Guarda los cubos en su bandeja o en un recipiente tapado, sobre un plato, en el estante inferior a 4 °C (40 °F) o menos. Duran 3–5 días desde la compra. Si los trozos nadan en líquido, escúrrelos y sécalos antes de dorarlos: la carne húmeda no dora, y el dorado es de donde el guiso saca su sabor.",
+    "freezer": "Los cubos se congelan y se descongelan rápido, lo que los convierte en uno de los productos más prácticos del congelador. Divídelos en raciones, aplánalos en bolsas de congelación sin aire y congela a −18 °C (0 °F): seguros indefinidamente, con la mejor calidad 4–12 meses. Etiqueta con peso y fecha para sacar la cantidad justa.",
+    "thawing": "Descongela la bolsa plana en el refrigerador durante una noche, o en agua fría cambiada cada 30 minutos si tienes prisa, cocinando enseguida. También puedes añadir los cubos congelados a un guiso largo dándole tiempo extra. Nunca descongeles carne en la encimera.",
+    "spoilage": [
+      "Olor agrio, dulzón o a amoníaco al abrir el paquete",
+      "Trozos viscosos o pegajosos que se adhieren entre sí",
+      "Color gris verdoso o pardo apagado en todos los cubos",
+      "Líquido turbio y filante en la bandeja, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Congela en porciones planas del tamaño de una comida: se descongelan mucho antes que un bloque.",
+      "Seca los cubos y dóralos por tandas para que la sartén no pierda temperatura.",
+      "Guisa suave 2–3 horas; la carne de guiso está dura hasta que el colágeno se funde.",
+      "Enfría el guiso sobrante en recipientes bajos y refrigéralo en menos de 2 horas."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la carne para guisar?", "a": "Sí. Divídela en bolsas planas y congela a −18 °C (0 °F): segura indefinidamente y con la mejor calidad 4–12 meses."},
+      {"q": "¿Cuánto dura la carne en cubos en el refrigerador?", "a": "3–5 días desde el día de compra a 4 °C (40 °F) o menos."},
+      {"q": "¿Se puede guisar la carne congelada?", "a": "Sí, en un braseado largo. Añade los cubos congelados a la olla y alarga la cocción; no sirve para un sellado rápido."}
+    ]
+  }
+}

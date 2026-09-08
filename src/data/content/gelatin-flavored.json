@@ -1,0 +1,107 @@
+{
+  "slug": "gelatin-flavored",
+  "en": {
+    "name": "Flavoured gelatin (jelly powder)",
+    "aliases": ["jelly crystals", "Jell-O", "jelly powder", "fruit gelatin mix", "dessert jelly mix"],
+    "summary": "Flavoured gelatin is a dry mix of gelatin, sugar, acid and fruit flavouring sold in sachets and boxes. Unopened it keeps 10–12 months from the date of purchase in a cool, dry cupboard, and about 3–4 months once opened. Made-up jelly is a different matter and must be refrigerated.",
+    "pantry": "Keep boxes and sachets in a cool, dry cupboard away from the stove and any steam: 10–12 months from purchase unopened, 3–4 months after opening. The mix is mostly sugar, so humidity is its main enemy — once opened, decant it into an airtight jar or clip the sachet firmly shut. Store away from strong spices, which the fruit flavouring picks up.",
+    "fridge": "The dry powder does not need refrigeration and cold storage risks condensation that turns it into a solid block. Prepared jelly, on the other hand, must be set and kept in the fridge at 4 °C (40 °F) or below, and eaten within a few days.",
+    "freezer": "Do not freeze the dry mix — there is no benefit and moisture is the risk. Set jelly also freezes poorly: the gel structure collapses on thawing and you are left with a watery, grainy liquid.",
+    "thawing": null,
+    "spoilage": [
+      "Hard lumps or a solid block inside the sachet",
+      "Faded, dull or musty smell instead of a clear fruit aroma",
+      "Mould specks, usually where moisture has entered the packet",
+      "Jelly that will not set properly after the correct preparation"
+    ],
+    "tips": [
+      "Store opened sachets inside an airtight jar rather than folding them shut",
+      "Write the opening date on the box to track the 3–4 month window",
+      "Fresh pineapple, kiwi and papaya contain enzymes that stop gelatin setting — use cooked or canned fruit",
+      "Keep the packets away from the kettle and rice cooker steam"
+    ],
+    "faq": [
+      {"q": "How long does jelly powder last?", "a": "Unopened, 10–12 months from purchase in a cool, dry cupboard. After opening, use it within 3–4 months, kept airtight."},
+      {"q": "Can you freeze made-up jelly?", "a": "It is not recommended. Freezing destroys the gel structure, and on thawing the jelly separates into a watery, grainy liquid."},
+      {"q": "Does gelatin powder need to be refrigerated?", "a": "The dry mix does not — keep it sealed in a dry cupboard. Once you have made the jelly, set and store it in the fridge at 4 °C (40 °F) or below."}
+    ]
+  },
+  "zh": {
+    "name": "調味吉利丁粉（果凍粉）",
+    "aliases": ["果凍粉", "吉利丁粉", "啫喱粉", "水果果凍粉", "Jell-O"],
+    "summary": "調味吉利丁粉是由明膠、糖、酸味劑和水果香料調配的乾燥粉末，通常以小包或盒裝販售。未開封放在陰涼乾燥的櫥櫃，從購買日起可放 10～12 個月，開封後約 3～4 個月。已經沖泡凝固的果凍則另當別論，必須冷藏。",
+    "pantry": "盒裝和小包裝請放在陰涼乾燥的櫥櫃，遠離爐火和蒸氣：未開封從購買日起 10～12 個月，開封後 3～4 個月。這種粉幾乎都是糖，濕氣是最大的敵人，開封後請倒進密封罐或把袋口確實夾緊。也要遠離氣味重的香料，水果香精很容易吸味。",
+    "fridge": "乾燥的粉末不需要冷藏，低溫還可能凝結水氣讓它結成硬塊。但沖泡後的果凍就必須放在 4°C 以下的冰箱凝固並保存，並在幾天內吃完。",
+    "freezer": "乾粉不要冷凍，沒有好處，還有受潮的風險。已經凝固的果凍也不適合冷凍：解凍後膠體結構會崩壞，只剩下粗糙出水的液體。",
+    "thawing": null,
+    "spoilage": [
+      "袋子裡結成硬塊或整片硬掉",
+      "香氣變淡、變鈍或有霉味，聞不出清爽的水果味",
+      "出現黴點，通常在包裝受潮的位置",
+      "照正確比例沖泡卻凝固不起來"
+    ],
+    "tips": [
+      "開封後的小包裝放進密封罐，不要只把袋口摺起來",
+      "在盒子上寫開封日期，追蹤 3～4 個月的期限",
+      "新鮮鳳梨、奇異果和木瓜含有酵素會讓果凍凝固不了，請改用煮過或罐頭水果",
+      "包裝要遠離熱水瓶和電鍋的蒸氣"
+    ],
+    "faq": [
+      {"q": "果凍粉可以放多久？", "a": "未開封放在陰涼乾燥處，從購買日起 10～12 個月。開封後密封保存，3～4 個月內用完。"},
+      {"q": "做好的果凍可以冷凍嗎？", "a": "不建議。冷凍會破壞膠體結構，解凍後會分離成粗糙出水的液體。"},
+      {"q": "果凍粉需要冷藏嗎？", "a": "乾粉不用，密封放在乾燥櫥櫃就好。沖泡後的果凍則要放 4°C 以下的冰箱凝固與保存。"}
+    ]
+  },
+  "ja": {
+    "name": "味付きゼラチン（ゼリーの素）",
+    "aliases": ["ゼリーの素", "ゼリーミックス", "フルーツゼリーの素", "ジェロ"],
+    "summary": "味付きゼラチンは、ゼラチンに砂糖、酸味料、果物の香料を合わせた粉末で、小袋や箱で売られています。未開封なら涼しく乾燥した場所で購入日から10〜12か月、開封後は約3〜4か月が目安です。作って固めたゼリーは別物で、必ず冷蔵してください。",
+    "pantry": "箱や小袋はコンロや湯気から離れた涼しく乾燥した戸棚へ。未開封は購入日から10〜12か月、開封後は3〜4か月です。中身はほぼ砂糖なので湿気が最大の敵。開封したら密閉瓶に移すか袋口をしっかり留めましょう。果物の香料はにおいを吸うので、香りの強いスパイスからは離してください。",
+    "fridge": "粉の状態では冷蔵不要で、むしろ結露で固まるリスクがあります。一方、作ったゼリーは4℃以下の冷蔵庫で固め、そのまま保存して数日以内に食べ切ってください。",
+    "freezer": "粉を冷凍する利点はなく、湿気のリスクだけがあります。固めたゼリーも冷凍には向きません。解凍するとゲル構造が壊れ、水っぽくざらついた液体になってしまいます。",
+    "thawing": null,
+    "spoilage": [
+      "袋の中で固まって塊や板状になっている",
+      "フルーツの香りが抜け、ぼんやりした・カビ臭いにおいがする",
+      "湿気の入った箇所にカビの斑点",
+      "分量どおりに作ってもうまく固まらない"
+    ],
+    "tips": [
+      "開封した小袋は折り返すだけでなく密閉瓶に入れて保存を",
+      "箱に開封日を書いて3〜4か月の期限を管理しましょう",
+      "生のパイナップル、キウイ、パパイヤは酵素で固まらなくなります。加熱品か缶詰を使いましょう",
+      "電気ポットや炊飯器の湯気から離して保管を"
+    ],
+    "faq": [
+      {"q": "ゼリーの素はどのくらい日持ちしますか？", "a": "未開封は涼しく乾燥した場所で購入日から10〜12か月。開封後は密閉して3〜4か月以内に使い切ってください。"},
+      {"q": "作ったゼリーは冷凍できますか？", "a": "おすすめしません。冷凍でゲル構造が壊れ、解凍すると水っぽくざらついた状態に分離します。"},
+      {"q": "ゼリーの素は冷蔵が必要ですか？", "a": "粉のままなら不要で、密閉して乾いた戸棚へ。作ったあとは4℃以下の冷蔵庫で固めて保存してください。"}
+    ]
+  },
+  "es": {
+    "name": "Gelatina de sabores en polvo",
+    "aliases": ["gelatina en polvo", "jaletina", "preparado para gelatina", "Jell-O", "gelatina de frutas"],
+    "summary": "La gelatina de sabores es una mezcla seca de grenetina, azúcar, acidulante y aroma de fruta, vendida en sobres y cajas. Sin abrir dura 10–12 meses desde la compra en un armario fresco y seco, y alrededor de 3–4 meses una vez abierta. La gelatina ya preparada es otra cosa y debe refrigerarse.",
+    "pantry": "Guarda cajas y sobres en un armario fresco y seco, lejos de los fogones y del vapor: 10–12 meses desde la compra sin abrir y 3–4 meses tras abrirlos. La mezcla es sobre todo azúcar, así que la humedad es su gran enemiga; una vez abierta, pásala a un tarro hermético o cierra el sobre con una pinza. Manténla lejos de especias fuertes, cuyo olor absorbe el aroma de fruta.",
+    "fridge": "El polvo seco no necesita refrigeración, y el frío arriesga una condensación que lo convierte en un bloque duro. La gelatina ya preparada, en cambio, debe cuajar y conservarse en la nevera a 4 °C (40 °F) o menos y consumirse en pocos días.",
+    "freezer": "No congeles el polvo: no aporta nada y la humedad es el riesgo. La gelatina cuajada tampoco se congela bien, porque la estructura del gel colapsa y al descongelar queda un líquido aguado y granuloso.",
+    "thawing": null,
+    "spoilage": [
+      "Grumos duros o un bloque compacto dentro del sobre",
+      "Aroma apagado o a humedad en lugar de a fruta",
+      "Puntos de moho, normalmente donde ha entrado humedad",
+      "Gelatina que no cuaja aunque se prepare correctamente"
+    ],
+    "tips": [
+      "Guarda los sobres abiertos dentro de un tarro hermético en vez de doblarlos",
+      "Anota la fecha de apertura en la caja para controlar los 3–4 meses",
+      "La piña, el kiwi y la papaya frescos llevan enzimas que impiden cuajar: usa fruta cocida o en conserva",
+      "Manténlos lejos del vapor del hervidor y de la arrocera"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la gelatina en polvo?", "a": "Sin abrir, 10–12 meses desde la compra en un armario fresco y seco. Una vez abierta, úsala en 3–4 meses bien cerrada."},
+      {"q": "¿Se puede congelar la gelatina ya preparada?", "a": "No se recomienda. La congelación destruye la estructura del gel y al descongelar se separa en un líquido aguado y granuloso."},
+      {"q": "¿La gelatina en polvo necesita refrigeración?", "a": "El polvo no: consérvalo cerrado en un armario seco. Una vez preparada, cuájala y guárdala en la nevera a 4 °C (40 °F) o menos."}
+    ]
+  }
+}

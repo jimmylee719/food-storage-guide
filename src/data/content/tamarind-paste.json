@@ -1,0 +1,107 @@
+{
+  "slug": "tamarind-paste",
+  "en": {
+    "name": "Tamarind paste",
+    "aliases": ["tamarind concentrate", "tamarind pulp", "asam paste", "imli paste"],
+    "summary": "Tamarind paste is the sour, sticky pulp of the tamarind pod, sold in jars, blocks or concentrated tubs for curries, sauces and pad thai. Unopened it keeps 6–12 months from the date of purchase in the pantry and about 6 months once opened; refrigerated after opening it keeps 2–3 months. Its natural acidity does much of the preserving work.",
+    "pantry": "An unopened jar or block keeps 6–12 months from purchase in a cool, dry cupboard away from the stove; after opening, the pantry window is about 6 months for shelf-stable concentrates that state this on the label. Tamarind is very acidic, which slows spoilage, but the sugar in it feeds mould once air and a wet spoon get in. Always wipe the jar rim before closing.",
+    "fridge": "Refrigeration is the safer choice once the jar is open: sealed at 4 °C (40 °F) or below the paste keeps 2–3 months. Cold thickens it, so let it sit for a few minutes or stir in a spoonful of warm water before measuring. Keep it in glass rather than metal, since the acid can react with bare metal.",
+    "freezer": "USDA gives no freezer timeline for tamarind paste, but freezing works well in practice and is a common way to keep a large block usable. Freeze it in ice-cube trays, then bag the cubes, so you can drop one straight into a curry or sauce.",
+    "thawing": "Thaw frozen tamarind cubes in the fridge, or add them straight to a hot pan where they melt into the sauce within a minute. Do not leave a whole tub thawing on the counter.",
+    "spoilage": [
+      "Fuzzy white, green or black mould on the surface or under the lid",
+      "Fermented, alcoholic or fizzy smell when the jar is opened",
+      "Bubbling, a bulging lid, or paste that has visibly expanded",
+      "Dried-out, hard crust with a stale, dusty taste"
+    ],
+    "tips": [
+      "Always use a clean, dry spoon and never double-dip",
+      "Freeze the paste in ice-cube portions for easy single-recipe use",
+      "Wipe the rim and the inside of the lid before closing the jar",
+      "Write the opening date on the label to track the 2–3 month fridge window"
+    ],
+    "faq": [
+      {"q": "Does tamarind paste need to be refrigerated after opening?", "a": "Refrigeration is the safest option, giving 2–3 months at 4 °C (40 °F) or below. Some shelf-stable concentrates state a pantry window of about 6 months after opening — follow the label."},
+      {"q": "Can you freeze tamarind paste?", "a": "Yes. Freezing in ice-cube trays and then bagging the cubes works very well, and you can add a cube straight to a hot pan."},
+      {"q": "How can you tell if tamarind paste has gone bad?", "a": "Look for mould on the surface or under the lid, and smell for a fermented or alcoholic note. A bulging lid or bubbling paste means it should go."}
+    ]
+  },
+  "zh": {
+    "name": "羅望子醬",
+    "aliases": ["酸豆醬", "羅望子膏", "亞參膏", "tamarind paste", "羅望子果泥"],
+    "summary": "羅望子醬是羅望子果莢的酸味果肉，以玻璃罐、磚塊或濃縮盒裝販售，常用於咖哩、醬汁和泰式炒河粉。未開封放常溫從購買日起可放 6～12 個月，開封後約 6 個月；開封後冷藏則可放 2～3 個月。它天然的酸度本身就有防腐作用。",
+    "pantry": "未開封的罐子或磚塊放在遠離爐火的陰涼乾燥櫥櫃，從購買日起可放 6～12 個月；標示可常溫保存的濃縮型產品，開封後常溫大約 6 個月。羅望子酸度高，本身能減緩腐敗，但裡面的糖分一旦接觸空氣和沾濕的湯匙就會養黴菌。蓋回去前記得把罐口擦乾淨。",
+    "fridge": "開封後冷藏比較保險：密封放 4°C 以下可保存 2～3 個月。低溫會讓它變得更濃稠，取用前放幾分鐘或拌入一小匙溫水會比較好操作。建議裝在玻璃容器而不是金屬容器，酸性可能和裸露金屬起反應。",
+    "freezer": "USDA 沒有提供羅望子醬的冷凍期限，但實務上冷凍效果很好，也是保存整塊羅望子磚的常見做法。倒進製冰盒冷凍成小塊，再裝袋保存，煮咖哩或醬汁時直接丟一顆進鍋就好。",
+    "thawing": "冷凍的羅望子小塊可以放冷藏室退冰，或直接丟進熱鍋，一分鐘內就會化進醬汁裡。不要把整盒放在室溫慢慢退冰。",
+    "spoilage": [
+      "表面或蓋子內側出現白色、綠色或黑色的毛狀黴斑",
+      "打開罐子有發酵味、酒精味或氣泡感",
+      "冒泡、蓋子鼓起，或醬體明顯膨脹",
+      "乾掉結成硬殼，吃起來有陳味"
+    ],
+    "tips": [
+      "務必用乾淨乾燥的湯匙，不要重複沾取",
+      "分裝成製冰盒大小冷凍，一次一份剛剛好",
+      "蓋上蓋子前先擦乾淨罐口和蓋子內側",
+      "在標籤寫開封日期，追蹤冷藏 2～3 個月的期限"
+    ],
+    "faq": [
+      {"q": "羅望子醬開封後需要冷藏嗎？", "a": "冷藏最保險，放 4°C 以下可保存 2～3 個月。部分標示常溫保存的濃縮產品，開封後常溫約 6 個月，請依包裝標示。"},
+      {"q": "羅望子醬可以冷凍嗎？", "a": "可以。用製冰盒冷凍成小塊再裝袋效果很好，煮的時候直接丟一顆進熱鍋即可。"},
+      {"q": "怎麼知道羅望子醬壞掉了？", "a": "看表面和蓋子內側有沒有黴斑，聞有沒有發酵味或酒精味。蓋子鼓起或醬體冒泡就該丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "タマリンドペースト",
+    "aliases": ["タマリンド", "タマリンド濃縮", "アッサム", "タマリンドピューレ"],
+    "summary": "タマリンドペーストはタマリンドの果肉を練った酸味の強い調味料で、瓶入り、ブロック、濃縮タイプがあり、カレーやソース、パッタイに使われます。未開封なら常温で購入日から6〜12か月、開封後は約6か月、冷蔵なら2〜3か月が目安です。強い酸味自体が保存性を高めています。",
+    "pantry": "未開封の瓶やブロックはコンロから離れた涼しく乾燥した戸棚で、購入日から6〜12か月。ラベルに常温保存可と書かれた濃縮タイプなら、開封後も常温で約6か月が目安です。タマリンドは酸性が強く傷みにくい一方、含まれる糖分は空気と濡れたスプーンが入るとカビの栄養になります。閉める前に瓶の口を必ず拭きましょう。",
+    "fridge": "開封後は冷蔵が安心で、密閉して4℃以下なら2〜3か月保存できます。冷えると硬くなるので、数分置くか温かい湯を小さじ1混ぜてから量ると扱いやすくなります。酸が金属と反応することがあるため、金属容器よりガラス容器がおすすめです。",
+    "freezer": "USDAはタマリンドペーストの冷凍期間を示していませんが、実際には冷凍がよく機能し、大きなブロックを使い切る定番の方法です。製氷皿で凍らせてから袋にまとめておけば、カレーやソースに1個ずつ落とせます。",
+    "thawing": "凍らせたタマリンドは冷蔵庫で解凍するか、熱した鍋に直接入れれば1分ほどでソースに溶けます。容器ごと室温で解凍するのは避けてください。",
+    "spoilage": [
+      "表面やふたの内側に白・緑・黒のふわふわしたカビ",
+      "瓶を開けたときの発酵臭、アルコール臭、シュワッとした感じ",
+      "泡立ち、ふたの膨らみ、中身が明らかに膨張している",
+      "乾いて硬い膜ができ、古い粉っぽい味がする"
+    ],
+    "tips": [
+      "必ず清潔で乾いたスプーンを使い、二度づけしないこと",
+      "製氷皿で小分け冷凍しておくと1レシピ分ずつ使えます",
+      "ふたを閉める前に瓶の口とふたの内側を拭きましょう",
+      "ラベルに開封日を書いて冷蔵2〜3か月の期限を管理しましょう"
+    ],
+    "faq": [
+      {"q": "タマリンドペーストは開封後に冷蔵が必要ですか？", "a": "冷蔵が最も安心で、4℃以下なら2〜3か月。常温保存可と表示のある濃縮タイプは開封後も常温で約6か月が目安です。表示に従ってください。"},
+      {"q": "タマリンドペーストは冷凍できますか？", "a": "できます。製氷皿で凍らせて袋にまとめる方法が便利で、熱した鍋にそのまま1個入れられます。"},
+      {"q": "タマリンドペーストが傷んだか見分けるには？", "a": "表面やふたの内側のカビを確認し、発酵臭やアルコール臭がないか嗅いでください。ふたが膨らんでいたり泡立っていれば処分を。"}
+    ]
+  },
+  "es": {
+    "name": "Pasta de tamarindo",
+    "aliases": ["concentrado de tamarindo", "pulpa de tamarindo", "tamarindo en pasta", "imli"],
+    "summary": "La pasta de tamarindo es la pulpa ácida y pegajosa de la vaina del tamarindo, vendida en tarros, bloques o concentrados para currys, salsas y pad thai. Sin abrir dura 6–12 meses desde la compra en la despensa y alrededor de 6 meses una vez abierta; refrigerada tras abrirla, 2–3 meses. Su acidez natural hace gran parte del trabajo de conservación.",
+    "pantry": "Un tarro o bloque cerrado dura 6–12 meses desde la compra en un armario fresco y seco lejos de los fogones; tras abrirlo, el plazo en despensa es de alrededor de 6 meses para concentrados estables que así lo indiquen en la etiqueta. El tamarindo es muy ácido, lo que frena el deterioro, pero su azúcar alimenta el moho en cuanto entran aire y una cuchara húmeda. Limpia siempre el borde del tarro antes de cerrarlo.",
+    "fridge": "Refrigerar es lo más seguro una vez abierto: cerrado a 4 °C (40 °F) o menos, la pasta dura 2–3 meses. El frío la espesa, así que déjala templar unos minutos o mézclale una cucharada de agua tibia antes de medirla. Guárdala en vidrio y no en metal, porque el ácido puede reaccionar con el metal desnudo.",
+    "freezer": "El USDA no da un plazo de congelación, pero en la práctica congelarla funciona muy bien y es una forma habitual de aprovechar un bloque grande. Congélala en cubiteras y guarda los cubos en una bolsa, para echar uno directamente al curry o a la salsa.",
+    "thawing": "Descongela los cubos en la nevera, o échalos directamente a la sartén caliente, donde se funden en la salsa en un minuto. No dejes un bote entero descongelándose en la encimera.",
+    "spoilage": [
+      "Moho blanco, verde o negro en la superficie o bajo la tapa",
+      "Olor fermentado, alcohólico o con efervescencia al abrir el tarro",
+      "Burbujeo, tapa abombada o pasta claramente expandida",
+      "Costra seca y dura con sabor apagado y polvoriento"
+    ],
+    "tips": [
+      "Usa siempre una cuchara limpia y seca y nunca la reintroduzcas tras probar",
+      "Congélala en cubitos para tener porciones de una receta",
+      "Limpia el borde y el interior de la tapa antes de cerrar el tarro",
+      "Anota la fecha de apertura para controlar los 2–3 meses en nevera"
+    ],
+    "faq": [
+      {"q": "¿La pasta de tamarindo necesita nevera tras abrirla?", "a": "Refrigerar es lo más seguro: 2–3 meses a 4 °C (40 °F) o menos. Algunos concentrados estables indican alrededor de 6 meses en despensa tras abrirlos; sigue la etiqueta."},
+      {"q": "¿Se puede congelar la pasta de tamarindo?", "a": "Sí. Congelarla en cubiteras y guardar los cubos en bolsa funciona muy bien, y puedes echar un cubo directamente a la sartén caliente."},
+      {"q": "¿Cómo saber si la pasta de tamarindo está mala?", "a": "Busca moho en la superficie o bajo la tapa y huele si hay notas fermentadas o alcohólicas. Una tapa abombada o pasta burbujeante obliga a desecharla."}
+    ]
+  }
+}

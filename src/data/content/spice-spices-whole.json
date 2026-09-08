@@ -1,0 +1,107 @@
+{
+  "slug": "spice-spices-whole",
+  "en": {
+    "name": "Whole spices",
+    "aliases": ["whole peppercorns", "cinnamon sticks", "cumin seeds", "star anise", "cardamom pods"],
+    "summary": "Whole spices — peppercorns, cinnamon sticks, star anise, cumin and coriander seeds, cardamom pods — keep their aromatic oils locked inside until you grind them. That is why they last so much longer than ground spices: 3–4 years from the date of purchase and 3–4 years after opening, kept sealed in a cool, dark cupboard.",
+    "pantry": "Store whole spices in tightly closed jars in a cool, dark, dry cupboard away from the hob, oven and kettle: 3–4 years from purchase and 3–4 years after opening. Because the aromatic oils are protected inside the seed or bark, whole spices tolerate storage far better than ground ones. Keep them out of the light, since sunlight bleaches colour and drives off aroma.",
+    "fridge": "Refrigeration is unnecessary and can be harmful, because condensation forms on cold spices every time the jar is opened and damp seeds go mouldy or sprout mould in the jar. A dry cupboard is always the better answer.",
+    "freezer": "Freezing whole spices is not needed given the three-to-four-year cupboard window. If you buy in very large bulk, a double-sealed bag in the freezer is acceptable, but let it reach room temperature before opening.",
+    "thawing": null,
+    "spoilage": [
+      "Little or no aroma when a seed is crushed or a stick is snapped",
+      "Faded, bleached colour from light exposure",
+      "Damp, clumped seeds or visible mould in the jar",
+      "Insects, larvae or webbing, common in cumin and coriander seeds"
+    ],
+    "tips": [
+      "Buy whole and grind as you need — the flavour is far stronger than pre-ground",
+      "Toast whole spices in a dry pan for 30 seconds before grinding to revive them",
+      "Store jars in a drawer or closed cupboard, never on a shelf above the cooker",
+      "Label the jar with the purchase date so you can track the 3–4 year window"
+    ],
+    "faq": [
+      {"q": "How long do whole spices last?", "a": "3–4 years from purchase and 3–4 years after opening, kept sealed in a cool, dark cupboard — roughly twice as long as the same spice ground."},
+      {"q": "How can you tell if whole spices are still good?", "a": "Crush a seed or snap a stick and smell it. A strong, clear aroma means it is fine; almost no smell means it will not season your food."},
+      {"q": "Should whole spices be refrigerated?", "a": "No. Condensation from cold storage makes them damp and can cause mould. Keep them sealed in a dry, dark cupboard instead."}
+    ]
+  },
+  "zh": {
+    "name": "整粒香料",
+    "aliases": ["黑胡椒粒", "肉桂棒", "孜然籽", "八角", "小豆蔻"],
+    "summary": "整粒香料，例如胡椒粒、肉桂棒、八角、孜然籽、芫荽籽和小豆蔻，香氣精油都鎖在種子或樹皮裡，要磨開才會釋放。所以它們比磨好的香料粉耐放得多：密封放在陰涼避光的櫥櫃，從購買日起可放 3～4 年，開封後也是 3～4 年。",
+    "pantry": "整粒香料請用密封罐裝好，放在陰涼避光乾燥的櫥櫃，遠離爐台、烤箱和熱水瓶：從購買日起 3～4 年，開封後也是 3～4 年。因為香氣油被完整包在種子或樹皮裡，整粒的耐放程度遠勝磨粉的。也要避光，陽光會讓顏色褪掉、香氣揮發。",
+    "fridge": "不需要冷藏，而且可能有害。每次打開罐子，冰冷的香料表面就會凝結水氣，受潮的種子容易在罐子裡發霉。乾燥的櫥櫃永遠是更好的選擇。",
+    "freezer": "以三到四年的常溫期限來說，整粒香料不需要冷凍。如果是超大量囤貨，用雙層密封袋冷凍是可以接受的，但取出後要回到室溫再開封。",
+    "thawing": null,
+    "spoilage": [
+      "壓碎種子或折斷肉桂棒後幾乎聞不到香氣",
+      "被光照到而褪色、變得蒼白",
+      "種子受潮結塊，或罐內看得到黴斑",
+      "有昆蟲、幼蟲或蛛絲，孜然和芫荽籽特別常見"
+    ],
+    "tips": [
+      "買整粒、現磨現用，香氣遠比預先磨好的強",
+      "研磨前先用乾鍋烘 30 秒，可以喚醒香氣",
+      "罐子放抽屜或密閉櫥櫃，不要放在爐台上方的層架",
+      "在罐上寫購買日期，方便追蹤 3～4 年的期限"
+    ],
+    "faq": [
+      {"q": "整粒香料可以放多久？", "a": "密封放在陰涼避光的櫥櫃，從購買日起 3～4 年，開封後也是 3～4 年，大約是同一種香料磨成粉的兩倍。"},
+      {"q": "怎麼知道整粒香料還能用？", "a": "壓碎一顆或折斷一小段來聞。香氣濃郁清晰就沒問題；幾乎聞不到味道，加進菜裡也不會有味道。"},
+      {"q": "整粒香料需要冷藏嗎？", "a": "不需要。低溫產生的冷凝水氣會讓香料受潮甚至發霉。密封放在乾燥避光的櫥櫃就好。"}
+    ]
+  },
+  "ja": {
+    "name": "ホールスパイス（粒のまま）",
+    "aliases": ["黒こしょう（粒）", "シナモンスティック", "クミンシード", "八角", "カルダモン"],
+    "summary": "ホールスパイス（こしょうの粒、シナモンスティック、八角、クミンやコリアンダーのシード、カルダモンなど）は、香り成分が種子や樹皮の中に閉じ込められています。だからこそ粉末より格段に日持ちし、密閉して涼しく暗い戸棚なら購入日から3〜4年、開封後も3〜4年が目安です。",
+    "pantry": "ふたのしっかり閉まる瓶に入れ、コンロ・オーブン・電気ポットから離れた涼しく暗い乾いた戸棚へ。購入日から3〜4年、開封後も3〜4年です。香り成分が種子や樹皮に守られているため、粉末よりずっと保存に強くなります。日光は色をあせさせ香りを飛ばすので、光も避けてください。",
+    "fridge": "冷蔵は不要どころか有害になり得ます。瓶を開けるたびに冷えたスパイスに結露が生じ、湿った種子は瓶の中でカビることがあります。乾いた戸棚のほうが常に安全です。",
+    "freezer": "常温で3〜4年持つため、ホールスパイスに冷凍は必要ありません。大量にまとめ買いした場合は二重密封で冷凍しても構いませんが、開ける前に室温へ戻してください。",
+    "thawing": null,
+    "spoilage": [
+      "粒をつぶしたり棒を折ったりしても香りがほとんどしない",
+      "光にあたって色があせ、白っぽくなっている",
+      "種子が湿って固まっている、瓶の中にカビが見える",
+      "虫、幼虫、クモの巣状のもの（クミンやコリアンダーに多い）"
+    ],
+    "tips": [
+      "ホールで買って使う直前に挽くと、粉末より香りが格段に強くなります",
+      "挽く前にフライパンで30秒からいりすると香りが立ちます",
+      "瓶は引き出しや扉付き戸棚へ。コンロ上の棚は避けましょう",
+      "瓶に購入日を書いて3〜4年の期限を管理しましょう"
+    ],
+    "faq": [
+      {"q": "ホールスパイスはどのくらい日持ちしますか？", "a": "密閉して涼しく暗い戸棚なら購入日から3〜4年、開封後も3〜4年。同じスパイスの粉末のおよそ2倍持ちます。"},
+      {"q": "ホールスパイスがまだ使えるか確認するには？", "a": "粒をつぶすか棒を折って香りを嗅ぎます。しっかり香れば大丈夫、ほとんど香らなければ料理でも効きません。"},
+      {"q": "ホールスパイスは冷蔵すべきですか？", "a": "いいえ。冷蔵の結露で湿気を吸い、カビの原因になります。密閉して乾いた暗い戸棚で保存してください。"}
+    ]
+  },
+  "es": {
+    "name": "Especias enteras",
+    "aliases": ["pimienta en grano", "canela en rama", "comino en grano", "anís estrellado", "cardamomo"],
+    "summary": "Las especias enteras —granos de pimienta, ramas de canela, anís estrellado, comino y cilantro en grano, vainas de cardamomo— guardan sus aceites aromáticos dentro hasta que las mueles. Por eso duran mucho más que las molidas: 3–4 años desde la compra y 3–4 años tras abrirlas, cerradas en un armario fresco y oscuro.",
+    "pantry": "Guárdalas en tarros bien cerrados en un armario fresco, oscuro y seco, lejos de la placa, el horno y el hervidor: 3–4 años desde la compra y 3–4 años tras abrirlas. Como los aceites están protegidos dentro de la semilla o la corteza, toleran el almacenaje mucho mejor que las molidas. Manténlas lejos de la luz, que decolora y evapora el aroma.",
+    "fridge": "Refrigerar no hace falta y puede ser perjudicial, porque se forma condensación sobre las especias frías cada vez que abres el tarro, y las semillas húmedas pueden enmohecer dentro. Un armario seco es siempre mejor respuesta.",
+    "freezer": "Congelarlas no es necesario con un plazo de tres a cuatro años en despensa. Si compras a granel en gran cantidad, una bolsa con doble cierre en el congelador es aceptable, pero deja que se atempere antes de abrirla.",
+    "thawing": null,
+    "spoilage": [
+      "Poco o ningún aroma al machacar un grano o partir una rama",
+      "Color descolorido por la exposición a la luz",
+      "Semillas húmedas y apelmazadas o moho visible en el tarro",
+      "Insectos, larvas o telarañas, frecuentes en comino y cilantro"
+    ],
+    "tips": [
+      "Cómpralas enteras y muélelas al momento: el sabor es mucho más intenso",
+      "Tuéstalas 30 segundos en sartén seca antes de molerlas para reavivarlas",
+      "Guarda los tarros en un cajón o armario cerrado, nunca sobre la cocina",
+      "Etiqueta el tarro con la fecha de compra para controlar los 3–4 años"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las especias enteras?", "a": "3–4 años desde la compra y 3–4 años tras abrirlas, cerradas en un armario fresco y oscuro: aproximadamente el doble que la misma especia molida."},
+      {"q": "¿Cómo saber si las especias enteras siguen buenas?", "a": "Machaca un grano o parte una rama y huélela. Un aroma intenso y claro indica que están bien; si casi no huelen, no sazonarán tu comida."},
+      {"q": "¿Hay que refrigerar las especias enteras?", "a": "No. La condensación del frío las humedece y puede provocar moho. Consérvalas cerradas en un armario seco y oscuro."}
+    ]
+  }
+}

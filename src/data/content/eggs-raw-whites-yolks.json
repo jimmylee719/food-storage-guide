@@ -1,0 +1,107 @@
+{
+  "slug": "eggs-raw-whites-yolks",
+  "en": {
+    "name": "Raw egg whites and yolks",
+    "aliases": ["separated eggs", "leftover egg whites", "raw yolks", "egg albumen"],
+    "summary": "Raw egg whites and yolks are what is left once you crack and separate eggs for meringues, custards or mayonnaise. Out of the shell they lose their natural protection, so they keep only 2–4 days in the fridge at 4 °C (40 °F) or below, though they freeze well for up to 12 months.",
+    "pantry": "Separated raw egg must never be left at room temperature. Without the shell there is nothing to slow bacterial growth, and in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) numbers rise fast — discard anything left out for more than 2 hours, or 1 hour above 32 °C (90 °F). Letting whites come to room temperature for 20–30 minutes before whipping is fine, but they go back in the fridge straight after.",
+    "fridge": "Store whites and yolks in small airtight containers on a cold inside shelf at 4 °C (40 °F) or below and use them within 2–4 days. Cover yolks with a thin layer of cold water so a skin does not form, then drain before use. Label each container with the date and the number of eggs so you can measure them straight into a recipe.",
+    "freezer": "Both freeze very well and keep for about 12 months at −18 °C (0 °F), where they remain safe indefinitely. Whites can be frozen as they are, ideally one per ice-cube compartment. Yolks gel when frozen, so beat in a pinch of salt for savoury use or a little sugar for sweet, and note which you added on the label.",
+    "thawing": "Thaw in the fridge overnight and use within a day, cooking dishes thoroughly. Thawed whites whip better if you let them sit at room temperature for 20 minutes first; never thaw raw egg on the counter and do not refreeze.",
+    "spoilage": [
+      "Sour, sulphurous or otherwise off smell",
+      "Pink, iridescent, green or greyish discolouration",
+      "Slimy, ropy or unusually thick texture",
+      "Any mould, or liquid that has separated and smells fermented"
+    ],
+    "tips": [
+      "Freeze leftover whites individually in an ice-cube tray, then bag the cubes.",
+      "Label yolk containers with 'salt' or 'sugar' so you use them in the right recipe.",
+      "One large white is about 30 ml and one yolk about 15 ml — measure once and label.",
+      "Use raw egg only in dishes you cook; for uncooked recipes choose pasteurized egg."
+    ],
+    "faq": [
+      {"q": "Can you freeze egg whites and yolks?", "a": "Yes, for about 12 months at −18 °C (0 °F). Freeze whites as they are; beat a pinch of salt or sugar into yolks first so they do not turn gluey."},
+      {"q": "How long do raw egg whites last in the fridge?", "a": "About 2–4 days in an airtight container at 4 °C (40 °F) or below, the same as yolks."},
+      {"q": "Why do frozen egg yolks turn gummy?", "a": "The proteins gel when frozen. Whisking in a pinch of salt or half a teaspoon of sugar per few yolks before freezing prevents it."}
+    ]
+  },
+  "zh": {
+    "name": "生蛋白與蛋黃",
+    "aliases": ["蛋白", "蛋黃", "分蛋", "剩下的蛋白", "生蛋液"],
+    "summary": "生蛋白與蛋黃是做蛋白霜、卡士達或美乃滋時分蛋剩下的部分。離開蛋殼就失去天然保護，在 4°C 以下冷藏只能放 2～4 天；但冷凍效果很好，可以放到 12 個月。",
+    "pantry": "分開的生蛋液絕對不能放室溫。沒有蛋殼保護，細菌在 4～60°C 的危險溫度帶會快速增加，室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就該丟掉。打發前讓蛋白回溫 20～30 分鐘沒問題，但用完要立刻放回冰箱。",
+    "fridge": "把蛋白和蛋黃分別裝進小的密封容器，放冰箱內層冷的位置，維持 4°C 以下，2～4 天內用完。蛋黃可以覆蓋一層薄薄的冷水防止結皮，使用前再瀝掉。容器上標註日期和顆數，之後可以直接依食譜取量。",
+    "freezer": "蛋白和蛋黃都很適合冷凍，放 −18°C 約可保存 12 個月，安全上可以無限期保存。蛋白可以直接冷凍，最好一格製冰盒放一個。蛋黃冷凍會膠化，鹹食用途請拌入一小撮鹽、甜點用途拌入一點糖，並在標籤上註明加了哪一種。",
+    "thawing": "放冷藏室解凍一晚，一天內用完並徹底加熱。解凍後的蛋白先放室溫 20 分鐘再打會比較好發泡。絕對不要放室溫解凍，也不要再次冷凍。",
+    "spoilage": [
+      "有酸味、硫磺味或其他異味",
+      "出現粉紅色、虹彩、綠色或灰色的變色",
+      "質地黏滑、牽絲，或異常濃稠",
+      "出現黴點，或分層出水並散發發酵味"
+    ],
+    "tips": [
+      "剩下的蛋白用製冰盒一格一顆冷凍，凍硬後裝袋。",
+      "蛋黃容器標註「鹹」或「甜」，才不會用錯食譜。",
+      "一個大蛋白約 30 毫升、一個蛋黃約 15 毫升，量好後標註最方便。",
+      "生蛋液只用在會加熱的料理；不加熱的食譜請選殺菌蛋。"
+    ],
+    "faq": [
+      {"q": "蛋白蛋黃可以冷凍嗎？", "a": "可以，放 −18°C 冷凍約 12 個月。蛋白可直接冷凍；蛋黃要先拌入一小撮鹽或糖，避免變得黏膠狀。"},
+      {"q": "生蛋白放冰箱可以放多久？", "a": "裝密封容器放 4°C 以下冷藏約 2～4 天，蛋黃也一樣。"},
+      {"q": "冷凍的蛋黃為什麼會變成膠狀？", "a": "低溫會讓蛋黃蛋白質膠化。冷凍前每幾顆蛋黃拌入一小撮鹽或半小匙糖就能避免。"}
+    ]
+  },
+  "ja": {
+    "name": "生の卵白・卵黄",
+    "aliases": ["卵白", "卵黄", "溶き卵（分けたもの）", "余った卵白", "きみ・しろみ"],
+    "summary": "生の卵白・卵黄は、メレンゲやカスタード、マヨネーズを作るために卵を割って分けた残りの部分です。殻という天然の保護がなくなるため、4℃以下の冷蔵でも2〜4日しかもちません。一方、冷凍なら約12か月保存できます。",
+    "pantry": "分けた生卵を常温に置くことはできません。殻がないぶん菌の増殖を抑えるものがなく、4〜60℃の危険温度帯では一気に増えます。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。泡立て前に卵白を20〜30分ほど室温に戻すのは問題ありませんが、使い終えたらすぐ冷蔵庫に戻します。",
+    "fridge": "卵白と卵黄はそれぞれ小さめの密閉容器に入れ、庫内のよく冷える棚で4℃以下を保ち、2〜4日以内に使い切ります。卵黄は表面に薄く冷水を張ると膜が張るのを防げます（使う前に水を切ります）。容器に日付と個数を書いておくと、レシピにそのまま計量できて便利です。",
+    "freezer": "どちらも冷凍向きで、−18℃で約12か月が目安です（安全面では長期間保ちます）。卵白はそのまま、製氷皿に1個ずつ入れると使いやすくなります。卵黄は冷凍するとゲル化するため、塩ひとつまみ（惣菜用）か砂糖少々（製菓用）を混ぜてから凍らせ、どちらを加えたかラベルに書いておきましょう。",
+    "thawing": "冷蔵庫で一晩解凍し、1日以内にしっかり加熱して使い切ります。解凍した卵白は20分ほど室温に置くと泡立ちやすくなります。常温解凍と再冷凍は避けてください。",
+    "spoilage": [
+      "酸っぱいにおい、硫黄臭、その他の異臭がする",
+      "ピンク・虹色・緑・灰色などの変色がある",
+      "ぬめり、糸引き、異常なとろみがある",
+      "カビが見える、分離した液から発酵臭がする"
+    ],
+    "tips": [
+      "余った卵白は製氷皿に1個ずつ入れて凍らせ、固まったら保存袋へ。",
+      "卵黄の容器に「塩」「砂糖」と書いておき、用途を間違えないようにする。",
+      "Lサイズで卵白約30ml、卵黄約15ml。計量してラベルしておくと便利。",
+      "生卵液は加熱する料理にのみ使い、非加熱のレシピには殺菌卵を選ぶ。"
+    ],
+    "faq": [
+      {"q": "卵白と卵黄は冷凍できますか？", "a": "できます。−18℃で約12か月。卵白はそのまま、卵黄は塩か砂糖をひとつまみ混ぜてから凍らせると固まりにくくなります。"},
+      {"q": "生の卵白は冷蔵庫で何日もちますか？", "a": "密閉容器に入れて4℃以下で2〜4日です。卵黄も同じ目安になります。"},
+      {"q": "冷凍した卵黄がゴム状になるのはなぜ？", "a": "低温でたんぱく質がゲル化するためです。冷凍前に卵黄数個につき塩ひとつまみか砂糖小さじ1/2を混ぜると防げます。"}
+    ]
+  },
+  "es": {
+    "name": "Claras y yemas de huevo crudas",
+    "aliases": ["claras de huevo", "yemas crudas", "huevo separado", "claras sobrantes", "albumen"],
+    "summary": "Las claras y yemas crudas son lo que queda al cascar y separar huevos para merengues, natillas o mayonesa. Fuera de la cáscara pierden su protección natural, así que solo duran 2–4 días en el refrigerador a 4 °C (40 °F) o menos, aunque se congelan muy bien hasta 12 meses.",
+    "pantry": "El huevo separado nunca debe quedarse a temperatura ambiente. Sin cáscara no hay nada que frene el crecimiento bacteriano, y en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F) las cifras suben rápido: desecha lo que lleve más de 2 horas fuera, o 1 hora por encima de 32 °C (90 °F). Atemperar las claras 20–30 minutos antes de montarlas está bien, pero después vuelven al frío.",
+    "fridge": "Guarda claras y yemas en recipientes herméticos pequeños en un estante interior a 4 °C (40 °F) o menos y úsalas en 2–4 días. Cubre las yemas con una fina capa de agua fría para que no formen costra y escúrrelas antes de usarlas. Etiqueta cada recipiente con la fecha y el número de huevos para medirlos directamente en la receta.",
+    "freezer": "Ambas se congelan muy bien y se conservan unos 12 meses a −18 °C (0 °F), donde permanecen seguras indefinidamente. Las claras se congelan tal cual, idealmente una por hueco de cubitera. Las yemas se agelatinan al congelarse, así que bate una pizca de sal para uso salado o un poco de azúcar para dulce, y anota cuál añadiste.",
+    "thawing": "Descongela en el refrigerador durante una noche y usa en un día, cocinando bien los platos. Las claras descongeladas montan mejor si reposan 20 minutos a temperatura ambiente; nunca descongeles huevo crudo en la encimera ni lo vuelvas a congelar.",
+    "spoilage": [
+      "Olor agrio, sulfuroso o desagradable",
+      "Coloración rosada, irisada, verdosa o grisácea",
+      "Textura viscosa, filante o anormalmente espesa",
+      "Cualquier moho, o líquido separado con olor fermentado"
+    ],
+    "tips": [
+      "Congela las claras sobrantes de una en una en cubitera y luego pasa los cubos a una bolsa.",
+      "Etiqueta las yemas con 'sal' o 'azúcar' para usarlas en la receta adecuada.",
+      "Una clara grande son unos 30 ml y una yema unos 15 ml: mide una vez y etiqueta.",
+      "Usa huevo crudo solo en platos que vayas a cocinar; para recetas sin cocción elige huevo pasteurizado."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las claras y las yemas?", "a": "Sí, unos 12 meses a −18 °C (0 °F). Las claras se congelan tal cual; a las yemas añádeles una pizca de sal o azúcar para que no queden gomosas."},
+      {"q": "¿Cuánto duran las claras crudas en el refrigerador?", "a": "Unos 2–4 días en recipiente hermético a 4 °C (40 °F) o menos, igual que las yemas."},
+      {"q": "¿Por qué las yemas congeladas quedan gomosas?", "a": "Las proteínas se agelatinan al congelarse. Batir una pizca de sal o media cucharadita de azúcar por cada pocas yemas antes de congelar lo evita."}
+    ]
+  }
+}

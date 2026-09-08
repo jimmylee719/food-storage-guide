@@ -1,0 +1,107 @@
+{
+  "slug": "beef-tenderloin-half",
+  "en": {
+    "name": "Beef tenderloin, half",
+    "aliases": ["half fillet of beef", "chateaubriand", "centre-cut tenderloin", "half fillet"],
+    "summary": "A half tenderloin is a whole beef fillet cut in two — usually the thick centre section or the tapered tail — a convenient size for two to four people. Raw, it keeps 3–5 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 4–12 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw beef cannot be stored at room temperature. Cutting a fillet in half creates a new exposed face where bacteria can settle, so it needs the fridge even more than an intact piece. Anything left in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) for more than 2 hours — 1 hour above 32 °C (90 °F) — should be discarded.",
+    "fridge": "Wrap the cut face closely in plastic or keep the piece vacuum-packed, put it on a tray and store on the bottom shelf at 4 °C (40 °F) or below. It stays good for 3–5 days from purchase. The freshly cut end darkens first, so if you are keeping it several days, plan to trim a thin slice off before cooking rather than leaving it uncovered.",
+    "freezer": "Wrap the half fillet tightly in plastic then foil or a freezer bag, forcing out the air, and freeze at −18 °C (0 °F) for 4–12 months of best quality; it remains safe indefinitely. A half is much quicker to freeze and thaw than a whole loin, which is one good reason to split a fillet when you buy it. Label with the date and which end it is.",
+    "thawing": "Thaw in the fridge on a tray for about 12–24 hours depending on thickness, or in a sealed bag under cold water changed every 30 minutes if you need it sooner, cooking immediately afterwards. Never thaw beef on the counter.",
+    "spoilage": [
+      "Sour or ammonia smell that lingers after the pack has been open a few minutes",
+      "Sticky or slimy surface, particularly on the cut end",
+      "Dull grey-brown or greenish colour over the whole piece",
+      "Leaking or bulging packaging, or a use-by date that has passed"
+    ],
+    "tips": [
+      "Tuck the thin tail under and tie it so the piece has an even thickness.",
+      "Trim a thin slice off the cut face before cooking if it has been stored several days.",
+      "Freeze on the day of purchase if you will not cook it within 3–5 days.",
+      "Cook to at least 63 °C (145 °F) and rest 3 minutes before slicing."
+    ],
+    "faq": [
+      {"q": "Can you freeze half a beef tenderloin?", "a": "Yes. Wrap it tightly and freeze at −18 °C (0 °F) for 4–12 months of best quality; it thaws considerably faster than a whole fillet."},
+      {"q": "How long does a half tenderloin last in the fridge?", "a": "3–5 days from the day of purchase at 4 °C (40 °F) or below."},
+      {"q": "Which half of the tenderloin is better?", "a": "The thick centre section is the classic chateaubriand roast; the tapered tail is uneven in thickness and is often better cut into medallions or strips."}
+    ]
+  },
+  "zh": {
+    "name": "半條牛菲力",
+    "aliases": ["菲力中段", "夏多布里昂", "半條牛里肌", "腰內肉半條"],
+    "summary": "半條牛菲力就是把整條菲力切成兩段，通常是較粗的中段或較細的尾段，份量剛好適合兩到四人。生肉在 4°C 以下冷藏，從購買日起可放 3～5 天；放 −18°C 冷凍可放 4～12 個月。",
+    "pantry": "生牛肉不能放室溫。切成兩段會多出一個新的切面，細菌更容易附著，所以比整條更需要低溫保存。在 4～60°C 的危險溫度帶放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "把切面用保鮮膜貼緊，或保留真空包裝，放在盤子上、置於冰箱最下層，維持 4°C 以下。從購買日起可放 3～5 天。新切面最容易變深色，如果要放好幾天，建議烹調前把切面薄薄削掉一片，不要讓它露在外面。",
+    "freezer": "先用保鮮膜貼緊，再包鋁箔或裝進冷凍袋、把空氣壓出，放 −18°C 冷凍，品質以 4～12 個月為佳，安全上可以無限期保存。半條比整條結凍和解凍都快很多，這也是買菲力時分切保存的好理由。標註日期和是哪一段。",
+    "thawing": "放盤子上冷藏解凍，依厚度約 12～24 小時；趕時間可以裝密封袋泡冷水、每 30 分鐘換水，解凍後立刻烹調。絕對不要放室溫退冰。",
+    "spoilage": [
+      "拆封幾分鐘後仍有酸味或阿摩尼亞味",
+      "表面黏滑，尤其是切面",
+      "整塊肉呈暗灰褐色或帶綠色",
+      "包裝漏汁或鼓起，或已超過有效日期"
+    ],
+    "tips": [
+      "尾端細的部分往下折起綁好，厚度才均勻。",
+      "放了幾天的話，下鍋前把切面薄削一片。",
+      "如果 3～5 天內不會煮，買回來當天就冷凍。",
+      "烤到中心至少 63°C，靜置 3 分鐘再切。"
+    ],
+    "faq": [
+      {"q": "半條牛菲力可以冷凍嗎？", "a": "可以。包緊後放 −18°C 冷凍，品質以 4～12 個月為佳，解凍比整條快很多。"},
+      {"q": "半條牛菲力放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起 3～5 天。"},
+      {"q": "菲力的哪一段比較好？", "a": "較粗的中段是經典的夏多布里昂烤肉塊；細的尾段厚薄不均，通常切成小圓塊或肉條更好用。"}
+    ]
+  },
+  "ja": {
+    "name": "牛ヒレ肉（半分）",
+    "aliases": ["ヒレ中央部", "シャトーブリアン", "ヒレブロック（半分）", "テンダーロインハーフ"],
+    "summary": "半分の牛ヒレは、1本のヒレを2つに切り分けたもので、太い中央部か細い先端側になります。2〜4人分にちょうどよいサイズです。生の状態で4℃以下の冷蔵なら購入日から3〜5日、−18℃の冷凍なら4〜12か月が目安です。",
+    "pantry": "生の牛肉は常温保存できません。半分に切ると新しい切断面ができ、そこに菌が付きやすくなるため、1本のときよりいっそう冷蔵が重要です。4〜60℃の危険温度帯に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。",
+    "fridge": "切断面にラップを密着させるか真空パックのままにして、トレーにのせて冷蔵庫の最下段で4℃以下を保ちます。購入日から3〜5日が目安。切りたての面から色が濃くなるので、数日置く場合は調理前に薄く一枚そぎ落とす前提で、むき出しにしないようにしましょう。",
+    "freezer": "ラップで密着させてからホイルか冷凍用保存袋に入れ、空気を押し出して−18℃で冷凍します。品質は4〜12か月、安全面では長期間保存できます。半分なら1本まるごとより凍るのも解けるのもずっと早く、購入時に分けておく利点になります。日付とどちら側かをラベルに書いておきましょう。",
+    "thawing": "トレーにのせて冷蔵庫で12〜24時間（厚みによる）解凍します。急ぐ場合は密閉袋で冷水解凍（30分ごとに水替え）にし、解凍後すぐ調理してください。常温解凍は避けます。",
+    "spoilage": [
+      "開封して数分たっても酸っぱいにおいやアンモニア臭が残る",
+      "表面、とくに切断面がべたつく・ぬめる",
+      "全体がくすんだ灰褐色や緑がかった色になっている",
+      "パックから汁が漏れる・膨らんでいる、消費期限を過ぎている"
+    ],
+    "tips": [
+      "細い先端を折り込んで糸で留めると厚みが均一になる。",
+      "数日保存したら、調理前に切断面を薄くそぎ落とす。",
+      "3〜5日以内に調理しないなら購入当日に冷凍する。",
+      "中心温度63℃以上に加熱し、3分休ませてから切る。"
+    ],
+    "faq": [
+      {"q": "半分の牛ヒレは冷凍できますか？", "a": "できます。密着させて包み−18℃で冷凍すれば品質は4〜12か月。1本まるごとよりかなり早く解凍できます。"},
+      {"q": "半分の牛ヒレは冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から3〜5日です。"},
+      {"q": "ヒレはどちら側がおすすめですか？", "a": "太い中央部はシャトーブリアン向き。細い先端は厚みが不均一なので、メダイヨンや細切りにすると使いやすくなります。"}
+    ]
+  },
+  "es": {
+    "name": "Solomillo de res, media pieza",
+    "aliases": ["medio solomillo", "chateaubriand", "centro de solomillo", "medio lomo fino"],
+    "summary": "Medio solomillo es una pieza entera cortada en dos, normalmente el centro grueso o la cola afilada, con un tamaño cómodo para dos a cuatro personas. Cruda se conserva 3–5 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y 4–12 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "La carne cruda no puede guardarse a temperatura ambiente. Cortar el solomillo por la mitad crea una cara expuesta donde las bacterias se asientan, así que necesita el frío aún más que la pieza entera. Todo lo que pase más de 2 horas en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F) —1 hora por encima de 32 °C (90 °F)— debe desecharse.",
+    "fridge": "Cubre la cara del corte pegando film, o mantén la pieza al vacío, colócala sobre una bandeja y guárdala en el estante inferior a 4 °C (40 °F) o menos. Aguanta 3–5 días desde la compra. La cara recién cortada se oscurece primero, así que si la guardas varios días cuenta con recortar una lámina fina antes de cocinar en lugar de dejarla al aire.",
+    "freezer": "Envuélvela apretada con film y luego con aluminio o bolsa de congelación, sacando el aire, y congela a −18 °C (0 °F) durante 4–12 meses de mejor calidad; es segura indefinidamente. Media pieza se congela y descongela mucho antes que un solomillo entero, buen motivo para partirlo al comprarlo. Etiqueta con la fecha y de qué extremo es.",
+    "thawing": "Descongela en el refrigerador sobre una bandeja unas 12–24 horas según el grosor, o en bolsa cerrada bajo agua fría cambiada cada 30 minutos si tienes prisa, cocinando enseguida. Nunca descongeles carne en la encimera.",
+    "spoilage": [
+      "Olor agrio o a amoníaco que persiste unos minutos después de abrir el paquete",
+      "Superficie pegajosa o viscosa, sobre todo en el corte",
+      "Color gris pardo apagado o verdoso en toda la pieza",
+      "Envase con fugas o hinchado, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Dobla la punta fina hacia dentro y átala para que el grosor sea uniforme.",
+      "Recorta una lámina fina de la cara cortada antes de cocinar si lleva días guardada.",
+      "Congélala el mismo día si no la vas a cocinar en 3–5 días.",
+      "Cocínala hasta al menos 63 °C (145 °F) y deja reposar 3 minutos antes de cortar."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar medio solomillo?", "a": "Sí. Envuélvelo bien apretado y congélalo a −18 °C (0 °F) durante 4–12 meses de mejor calidad; se descongela mucho antes que la pieza entera."},
+      {"q": "¿Cuánto dura medio solomillo en el refrigerador?", "a": "3–5 días desde el día de compra a 4 °C (40 °F) o menos."},
+      {"q": "¿Qué mitad del solomillo es mejor?", "a": "El centro grueso es el clásico chateaubriand; la cola tiene grosor irregular y suele rendir mejor en medallones o tiras."}
+    ]
+  }
+}

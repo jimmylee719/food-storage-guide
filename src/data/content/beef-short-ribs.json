@@ -1,0 +1,107 @@
+{
+  "slug": "beef-short-ribs",
+  "en": {
+    "name": "Beef short ribs",
+    "aliases": ["English cut ribs", "flanken ribs", "galbi ribs", "beef rib fingers"],
+    "summary": "Beef short ribs are meaty sections of rib bone cut from the plate or chuck, sold either in thick English-cut blocks or thin flanken strips across the bones. Raw, they keep 3–5 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 4–12 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw short ribs cannot be left at room temperature. The exposed bone and cut surfaces give bacteria plenty to work with, and in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) they multiply quickly — discard ribs left out for more than 2 hours, or 1 hour above 32 °C (90 °F). Marinate galbi-style ribs in the fridge, never on the counter.",
+    "fridge": "Keep the ribs in their tray or a covered container on the bottom shelf at 4 °C (40 °F) or below, on a plate to catch any drips. They stay good for 3–5 days from purchase, and a sweet soy marinade does not extend that — the clock is the same. If they are already marinating, keep the container sealed so the smell does not spread through the fridge.",
+    "freezer": "Short ribs freeze well thanks to their fat and connective tissue. Wrap thick English-cut pieces individually, or interleave thin flanken strips with baking paper so you can peel off a few at a time, then bag them with the air pressed out and freeze at −18 °C (0 °F): safe indefinitely, best quality for 4–12 months. Bone ends should be padded to prevent them piercing the wrapping.",
+    "thawing": "Thaw in the fridge overnight for thin strips, or up to 24 hours for thick blocks, keeping them on a tray. Cold water in a sealed bag changed every 30 minutes is quicker but demands immediate cooking. Never thaw them on the counter.",
+    "spoilage": [
+      "Sour or ammonia-like smell when the pack is opened",
+      "Sticky or slimy surface, especially around the bone",
+      "Dull grey-green colour on the meat rather than deep red",
+      "Leaking or bulging packaging, or a passed use-by date"
+    ],
+    "tips": [
+      "Freeze flanken strips interleaved with paper so you can take out only what you need.",
+      "Braise English-cut ribs for 2–3 hours; grill thin flanken strips fast over high heat.",
+      "Marinate in a sealed bag in the fridge and discard the used marinade.",
+      "Chill a finished braise overnight — the fat sets on top and lifts off easily."
+    ],
+    "faq": [
+      {"q": "Can you freeze beef short ribs?", "a": "Yes. Wrap them well and freeze at −18 °C (0 °F): safe indefinitely and best quality for 4–12 months."},
+      {"q": "How long do short ribs last in the fridge?", "a": "3–5 days from the day of purchase at 4 °C (40 °F) or below, marinated or not."},
+      {"q": "Can you freeze marinated short ribs?", "a": "Yes, and the marinade keeps working as they thaw. Freeze them flat in a sealed bag and thaw in the fridge before grilling."}
+    ]
+  },
+  "zh": {
+    "name": "牛小排（帶骨）",
+    "aliases": ["牛肋條", "韓式牛小排", "帶骨牛小排", "橫切牛小排", "galbi"],
+    "summary": "牛小排是取自牛腹或肩胛部位、帶骨且肉厚的肋骨段，市面上有切成厚塊的英式切法，也有橫切成薄片的韓式切法。生肉在 4°C 以下冷藏，從購買日起可放 3～5 天；放 −18°C 冷凍可放 4～12 個月。",
+    "pantry": "生牛小排不能放室溫。露出的骨頭和切面給細菌很多發揮空間，在 4～60°C 的危險溫度帶會快速繁殖；室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。韓式醬醃牛小排請放冰箱醃，不要放在流理台上。",
+    "fridge": "連原盒或裝進有蓋容器，放在盤子上、置於冰箱最下層，維持 4°C 以下。從購買日起可放 3～5 天；醬汁醃過並不會延長期限，時間一樣。已經在醃的話請確實密封，以免整個冰箱都是醬香味。",
+    "freezer": "牛小排油脂和結締組織多，很適合冷凍。厚切的每塊單獨包好；薄片的可以用烘焙紙一片片隔開，之後想拿幾片就拿幾片。裝袋擠出空氣後放 −18°C 冷凍：安全上可以無限期保存，品質以 4～12 個月為佳。骨頭尖端要多墊幾層，避免刺破包裝。",
+    "thawing": "薄片放冷藏室解凍一晚，厚塊可能需要 24 小時，記得下面墊盤。裝密封袋泡冷水、每 30 分鐘換水比較快，但解凍後要立刻烹調。絕對不要放室溫退冰。",
+    "spoilage": [
+      "打開包裝聞到酸味或阿摩尼亞味",
+      "表面黏滑，尤其是骨頭周圍",
+      "肉色不再是深紅，而是暗灰帶綠",
+      "包裝漏汁或鼓起，或已超過有效日期"
+    ],
+    "tips": [
+      "薄片牛小排冷凍時用烘焙紙隔開，方便一次只取需要的份量。",
+      "厚切牛小排燉 2～3 小時；薄片則用大火快烤。",
+      "醃肉裝密封袋放冰箱，醃過的醬汁不要再重複使用。",
+      "燉好的牛小排冰一晚，油脂會凝在表面，很好撈掉。"
+    ],
+    "faq": [
+      {"q": "牛小排可以冷凍嗎？", "a": "可以。包好後放 −18°C 冷凍，安全上無限期，品質以 4～12 個月為佳。"},
+      {"q": "牛小排放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起 3～5 天，有沒有醃過都一樣。"},
+      {"q": "醃過的牛小排可以冷凍嗎？", "a": "可以，而且解凍過程醃汁還會繼續入味。裝密封袋壓平冷凍，烤之前放冷藏解凍即可。"}
+    ]
+  },
+  "ja": {
+    "name": "牛カルビ・骨付き牛バラ",
+    "aliases": ["ショートリブ", "骨付きカルビ", "LAカルビ", "牛バラ骨付き", "スペアリブ（牛）"],
+    "summary": "牛のショートリブは、バラや肩の部分から取れる肉付きのよい骨付き肉で、厚く切ったブロックタイプと、骨を横切りにした薄いLAカルビタイプがあります。生の状態なら4℃以下の冷蔵で購入日から3〜5日、−18℃の冷凍なら4〜12か月が目安です。",
+    "pantry": "生のショートリブを常温に置くことはできません。露出した骨や切断面は細菌の温床になりやすく、4〜60℃の危険温度帯では急速に増えます。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。タレに漬け込むときも常温ではなく冷蔵庫で行います。",
+    "fridge": "トレーのまま、またはふた付き容器に入れ、皿にのせて冷蔵庫の最下段で4℃以下を保ちます。購入日から3〜5日が目安で、タレに漬けても期限は延びません。漬け込み中はしっかり密閉し、庫内ににおいが移らないようにしましょう。",
+    "freezer": "脂と結合組織が多いぶん冷凍に強い部位です。厚切りは1枚ずつ包み、薄いカルビはクッキングシートを挟んでおくと必要な枚数だけはがせます。袋の空気を抜いて−18℃で冷凍すれば、安全面では長期間、品質は4〜12か月が目安。骨の先が包装を破らないよう、厚めに覆ってください。",
+    "thawing": "薄切りなら冷蔵庫で一晩、厚いブロックは24時間ほどかけて解凍し、トレーにのせておきます。密閉袋で冷水解凍（30分ごとに水替え）は早いですが、解凍後すぐ調理が必要です。常温解凍は避けてください。",
+    "spoilage": [
+      "パックを開けたときに酸っぱいにおいやアンモニア臭がする",
+      "表面、とくに骨のまわりがべたつく・ぬめる",
+      "肉が濃い赤ではなく、くすんだ灰緑色になっている",
+      "パックから汁が漏れる・膨らんでいる、消費期限を過ぎている"
+    ],
+    "tips": [
+      "薄いカルビはシートを挟んで冷凍し、必要な枚数だけ取り出せるようにする。",
+      "厚切りは2〜3時間煮込み、薄いカルビは強火で手早く焼く。",
+      "漬け込みは密閉袋で冷蔵庫。使い終わったタレは再利用しない。",
+      "煮込みは一晩冷やすと脂が固まり、きれいに取り除ける。"
+    ],
+    "faq": [
+      {"q": "牛のショートリブは冷凍できますか？", "a": "できます。しっかり包んで−18℃で冷凍すれば、安全面では長期間、品質は4〜12か月が目安です。"},
+      {"q": "骨付きカルビは冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から3〜5日です。タレに漬けても同じです。"},
+      {"q": "漬け込んだカルビは冷凍できますか？", "a": "できます。解凍中も味がしみ込みます。密閉袋で平らに凍らせ、焼く前に冷蔵庫で解凍してください。"}
+    ]
+  },
+  "es": {
+    "name": "Costillas cortas de res",
+    "aliases": ["short ribs", "costilla cargada", "asado de tira", "costilla de res en tiras", "galbi"],
+    "summary": "Las costillas cortas de res son tramos carnosos de costilla cortados del costillar o la aguja, que se venden en bloques gruesos al corte inglés o en tiras finas cortadas a través del hueso. Crudas duran 3–5 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y 4–12 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "Las costillas crudas no pueden quedarse a temperatura ambiente. El hueso expuesto y las caras cortadas dan mucho margen a las bacterias, que se multiplican rápido en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F): desecha las que lleven más de 2 horas fuera, o 1 hora por encima de 32 °C (90 °F). Marina las costillas estilo galbi en el refrigerador, nunca en la encimera.",
+    "fridge": "Guárdalas en su bandeja o en un recipiente tapado, sobre un plato, en el estante inferior a 4 °C (40 °F) o menos. Se conservan 3–5 días desde la compra, y un adobo dulce de soja no alarga ese plazo. Si ya están marinando, mantén el recipiente bien cerrado para que el olor no invada el refrigerador.",
+    "freezer": "Se congelan bien gracias a su grasa y su tejido conjuntivo. Envuelve los bloques gruesos uno a uno, o separa las tiras finas con papel de horno para poder sacar unas pocas cada vez; embólsalas sin aire y congela a −18 °C (0 °F): seguras indefinidamente y con la mejor calidad 4–12 meses. Acolcha las puntas de hueso para que no perforen el envoltorio.",
+    "thawing": "Descongela las tiras finas durante una noche en el refrigerador, y hasta 24 horas los bloques gruesos, siempre sobre una bandeja. El agua fría en bolsa cerrada, cambiada cada 30 minutos, es más rápida pero exige cocinar de inmediato. Nunca las descongeles en la encimera.",
+    "spoilage": [
+      "Olor agrio o a amoníaco al abrir el paquete",
+      "Superficie pegajosa o viscosa, sobre todo junto al hueso",
+      "Carne de color gris verdoso apagado en vez de rojo intenso",
+      "Envase con fugas o hinchado, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Congela las tiras separadas con papel para sacar solo las que necesites.",
+      "Brasea los bloques gruesos 2–3 horas; asa las tiras finas rápido a fuego fuerte.",
+      "Marina en bolsa cerrada dentro del refrigerador y desecha el adobo usado.",
+      "Enfría el guiso una noche: la grasa cuaja arriba y se retira fácilmente."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las costillas cortas de res?", "a": "Sí. Envuélvelas bien y congélalas a −18 °C (0 °F): seguras indefinidamente y con la mejor calidad 4–12 meses."},
+      {"q": "¿Cuánto duran las costillas cortas en el refrigerador?", "a": "3–5 días desde el día de compra a 4 °C (40 °F) o menos, estén marinadas o no."},
+      {"q": "¿Se pueden congelar ya marinadas?", "a": "Sí, y el adobo sigue actuando mientras se descongelan. Congélalas planas en bolsa cerrada y descongélalas en el refrigerador antes de asar."}
+    ]
+  }
+}

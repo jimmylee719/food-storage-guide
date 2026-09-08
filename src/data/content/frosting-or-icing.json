@@ -1,0 +1,107 @@
+{
+  "slug": "frosting-or-icing",
+  "en": {
+    "name": "Frosting or icing",
+    "aliases": ["canned frosting", "ready-to-spread icing", "buttercream", "glaze", "cake icing"],
+    "summary": "Shop-bought canned or tubbed frosting is a shelf-stable mix of sugar, fat and emulsifiers. Unopened it keeps 10–12 months from the date of purchase in the pantry, and once opened it must go in the fridge, where it lasts 2–3 weeks. Homemade frosting with butter, cream cheese or fresh dairy is far more perishable.",
+    "pantry": "An unopened tub or can sits happily in a cool, dry cupboard for 10–12 months from purchase; keep it away from the stove so the fat does not separate. Once you break the seal, do not store it at room temperature — the sugar no longer protects the opened surface from mould. Frosted cakes made with shelf-stable icing can sit out for a day, but anything with cream cheese or fresh cream should not.",
+    "fridge": "After opening, seal the tub tightly and refrigerate at 4 °C (40 °F) or below, where the frosting keeps 2–3 weeks. Press cling film onto the surface to stop a crust forming and to prevent it absorbing fridge odours. Let it sit at room temperature for 15–30 minutes and stir before spreading, because cold frosting tears the cake.",
+    "freezer": "USDA gives no freezer timeline for canned frosting, but sugar-and-fat buttercream-style icings freeze acceptably in an airtight container. Expect some separation; thaw in the fridge and beat it smooth again before use. Cream cheese and whipped-cream icings do not freeze well, becoming grainy and watery.",
+    "thawing": "Thaw frozen frosting overnight in the fridge, never on the counter, then bring it to room temperature and whip it briefly to restore a smooth texture.",
+    "spoilage": [
+      "Mould spots on the surface or around the rim of the tub",
+      "Sour, fermented or yeasty smell",
+      "Oil separating out and refusing to stir back in",
+      "Bulging lid, hissing on opening, or a watery, curdled texture"
+    ],
+    "tips": [
+      "Write the opening date on the lid to track the 2–3 week fridge window",
+      "Never spread frosting with a spoon that has touched the cake, then return it to the tub",
+      "Warm the tub briefly in your hands rather than the microwave for easier spreading",
+      "Freeze leftover frosting in small portions for cupcakes later"
+    ],
+    "faq": [
+      {"q": "How long does opened frosting last in the fridge?", "a": "2–3 weeks at 4 °C (40 °F) or below in a tightly sealed tub. Press cling film onto the surface to stop it crusting."},
+      {"q": "Can you freeze frosting?", "a": "Sugar-and-fat frostings freeze reasonably well in an airtight container; thaw in the fridge and re-whip. Cream cheese and whipped cream icings turn grainy and watery."},
+      {"q": "Does canned frosting need to be refrigerated?", "a": "Not before opening — it keeps 10–12 months from purchase in the pantry. After opening, refrigerate it and use it within 2–3 weeks."}
+    ]
+  },
+  "zh": {
+    "name": "糖霜／奶油霜",
+    "aliases": ["蛋糕糖霜", "奶油霜", "抹面糖霜", "罐裝糖霜", "icing"],
+    "summary": "市售罐裝或盒裝糖霜是由糖、油脂和乳化劑組成的常溫可保存產品。未開封放在櫥櫃，從購買日起可放 10～12 個月；開封後必須冷藏，可保存 2～3 週。自製的奶油霜或奶油乳酪糖霜則容易壞得多。",
+    "pantry": "未開封的罐子或盒子放在陰涼乾燥的櫥櫃，從購買日起可保存 10～12 個月，記得遠離爐火以免油脂分離。一旦開封就不要再放常溫，因為表面暴露後，糖分已無法完全抑制黴菌。用常溫型糖霜裝飾的蛋糕可以放一天，但含奶油乳酪或鮮奶油的就不行。",
+    "fridge": "開封後把蓋子封緊，放進 4°C 以下的冰箱，可保存 2～3 週。表面貼一層保鮮膜，可以避免結皮，也能防止吸到冰箱異味。使用前先放室溫 15～30 分鐘並攪拌均勻，因為冰冷的糖霜會把蛋糕表面扯壞。",
+    "freezer": "USDA 沒有提供罐裝糖霜的冷凍期限，但以糖和油脂為主的奶油霜類，用密封容器冷凍效果還算可以。解凍後可能會有點分離，請在冷藏室退冰後重新打發至光滑。奶油乳酪和鮮奶油類的糖霜則不適合冷凍，會變得粗糙出水。",
+    "thawing": "冷凍的糖霜請在冷藏室退冰一晚，不要放在室溫，之後回到室溫再稍微打發，就能恢復滑順質地。",
+    "spoilage": [
+      "表面或罐口邊緣出現黴斑",
+      "有酸味、發酵味或酵母味",
+      "油水分離，怎麼攪拌都拌不回去",
+      "蓋子鼓起、開罐時有氣體聲，或質地變得水水、結粒"
+    ],
+    "tips": [
+      "在蓋子上寫開封日期，追蹤 2～3 週的冷藏期限",
+      "不要用碰過蛋糕的湯匙挖糖霜後又放回罐子裡",
+      "用手掌溫熱罐子比微波更容易抹開",
+      "剩下的糖霜分小份冷凍，之後做杯子蛋糕時用"
+    ],
+    "faq": [
+      {"q": "糖霜開封後冷藏可以放多久？", "a": "蓋緊放 4°C 以下可保存 2～3 週。表面貼保鮮膜可以避免結皮。"},
+      {"q": "糖霜可以冷凍嗎？", "a": "以糖和油脂為主的糖霜密封冷凍效果還不錯，解凍後在冷藏退冰再重新打發。奶油乳酪和鮮奶油類會變得粗糙出水。"},
+      {"q": "罐裝糖霜需要冷藏嗎？", "a": "未開封不用，常溫從購買日起可放 10～12 個月。開封後就要冷藏，並在 2～3 週內用完。"}
+    ]
+  },
+  "ja": {
+    "name": "フロスティング・アイシング",
+    "aliases": ["フロスティング", "アイシング", "バタークリーム", "デコレーションクリーム", "糖衣"],
+    "summary": "市販の缶入り・カップ入りフロスティングは、砂糖と油脂、乳化剤からなる常温保存可能な製品です。未開封なら購入日から常温で10〜12か月、開封後は冷蔵が必須で2〜3週間が目安です。バターやクリームチーズを使った手作りのものは、はるかに傷みやすくなります。",
+    "pantry": "未開封の容器は涼しく乾燥した戸棚で購入日から10〜12か月保存できます。油脂が分離しないようコンロのそばは避けてください。開封後は常温保存しないこと。表面が空気に触れると、砂糖だけではカビを抑えきれません。常温保存タイプのフロスティングでデコレーションしたケーキは1日程度なら室温に置けますが、クリームチーズや生クリーム入りは不可です。",
+    "fridge": "開封後はふたをしっかり閉め、4℃以下で冷蔵すれば2〜3週間持ちます。表面にラップを密着させると乾いた膜ができず、においも移りません。使う前に15〜30分室温に置き、混ぜてからにしましょう。冷たいままだとケーキの表面が裂けてしまいます。",
+    "freezer": "USDAは缶入りフロスティングの冷凍期間を示していませんが、砂糖と油脂主体のバタークリーム系なら密閉容器での冷凍はまずまず可能です。多少分離するので、冷蔵庫で解凍してから再度なめらかに撹拌してください。クリームチーズや生クリーム系は、ざらついて水っぽくなるため冷凍に向きません。",
+    "thawing": "冷凍したフロスティングは冷蔵庫で一晩解凍します。室温での解凍は避け、その後に室温に戻して軽く撹拌するとなめらかさが戻ります。",
+    "spoilage": [
+      "表面や容器の縁にカビの斑点",
+      "酸っぱいにおい、発酵臭、イースト臭",
+      "油が分離し、混ぜても戻らない",
+      "ふたが膨らんでいる、開封時に音がする、水っぽく分離している"
+    ],
+    "tips": [
+      "ふたに開封日を書いて冷蔵2〜3週間の期限を管理しましょう",
+      "ケーキに触れたスプーンを容器に戻さないこと",
+      "電子レンジより手のひらで容器を温めるほうが塗りやすくなります",
+      "余ったら小分け冷凍して、次のカップケーキに使いましょう"
+    ],
+    "faq": [
+      {"q": "開封したフロスティングは冷蔵でどのくらい持ちますか？", "a": "しっかり密閉して4℃以下で2〜3週間です。表面にラップを密着させると乾燥を防げます。"},
+      {"q": "フロスティングは冷凍できますか？", "a": "砂糖と油脂主体のものは密閉容器でまずまず冷凍できます。冷蔵庫で解凍して混ぜ直してください。クリームチーズや生クリーム系はざらついて水っぽくなります。"},
+      {"q": "缶入りフロスティングは冷蔵が必要ですか？", "a": "未開封なら不要で、常温で購入日から10〜12か月。開封後は冷蔵し、2〜3週間で使い切ってください。"}
+    ]
+  },
+  "es": {
+    "name": "Glaseado o frosting",
+    "aliases": ["betún para pastel", "glaseado listo para untar", "buttercream", "cobertura de azúcar"],
+    "summary": "El glaseado comercial en lata o tarrina es una mezcla estable de azúcar, grasa y emulsionantes. Sin abrir dura 10–12 meses desde la compra en la despensa, y una vez abierto debe ir a la nevera, donde aguanta 2–3 semanas. Los glaseados caseros con mantequilla, queso crema o nata son mucho más perecederos.",
+    "pantry": "Una tarrina cerrada aguanta perfectamente 10–12 meses desde la compra en un armario fresco y seco; manténla lejos de los fogones para que la grasa no se separe. Una vez roto el precinto, no lo guardes a temperatura ambiente: el azúcar ya no protege del moho la superficie expuesta. Un pastel cubierto con glaseado estable puede estar fuera un día, pero no si lleva queso crema o nata fresca.",
+    "fridge": "Tras abrirlo, cierra bien la tarrina y refrigérala a 4 °C (40 °F) o menos, donde el glaseado dura 2–3 semanas. Pega film sobre la superficie para que no forme costra ni absorba olores. Déjalo 15–30 minutos a temperatura ambiente y remuévelo antes de untar, porque frío rompe el bizcocho.",
+    "freezer": "El USDA no da un plazo de congelación para el glaseado en lata, pero los de azúcar y grasa tipo buttercream se congelan aceptablemente en un recipiente hermético. Puede separarse algo: descongela en la nevera y bátelo de nuevo hasta alisarlo. Los glaseados de queso crema o nata montada no se congelan bien y quedan granulosos y aguados.",
+    "thawing": "Descongela el glaseado en la nevera durante la noche, nunca en la encimera, y después atempéralo y bátelo brevemente para recuperar una textura lisa.",
+    "spoilage": [
+      "Manchas de moho en la superficie o en el borde del envase",
+      "Olor agrio, fermentado o a levadura",
+      "Grasa separada que no vuelve a integrarse al remover",
+      "Tapa abombada, silbido al abrir o textura aguada y cortada"
+    ],
+    "tips": [
+      "Anota la fecha de apertura en la tapa para controlar las 2–3 semanas en nevera",
+      "No devuelvas al bote una cuchara que haya tocado el pastel",
+      "Templa el envase con las manos, mejor que en el microondas, para untarlo con facilidad",
+      "Congela el sobrante en porciones pequeñas para futuras magdalenas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el glaseado abierto en la nevera?", "a": "2–3 semanas a 4 °C (40 °F) o menos en un envase bien cerrado. Pega film sobre la superficie para que no forme costra."},
+      {"q": "¿Se puede congelar el glaseado?", "a": "Los de azúcar y grasa se congelan razonablemente en recipiente hermético; descongela en la nevera y vuelve a batir. Los de queso crema o nata quedan granulosos."},
+      {"q": "¿El glaseado de lata necesita refrigeración?", "a": "Antes de abrirlo no: dura 10–12 meses desde la compra en la despensa. Una vez abierto, refrigéralo y úsalo en 2–3 semanas."}
+    ]
+  }
+}

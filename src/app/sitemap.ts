@@ -8,6 +8,7 @@ import { absoluteUrl } from '@/lib/site';
 function entry(path: string, opts: { priority: number; changeFrequency: MetadataRoute.Sitemap[number]['changeFrequency']; lastModified?: string }) {
   const languages: Record<string, string> = {};
   for (const l of LOCALES) languages[HTML_LANG[l]] = absoluteUrl(`/${l}${path}`);
+  languages['x-default'] = absoluteUrl(`/en${path}`);
   return LOCALES.map((l) => ({
     url: absoluteUrl(`/${l}${path}`),
     lastModified: opts.lastModified ? new Date(opts.lastModified) : new Date(),

@@ -1,0 +1,107 @@
+{
+  "slug": "sugar-brown",
+  "en": {
+    "name": "Brown sugar",
+    "aliases": ["soft brown sugar", "light brown sugar", "dark brown sugar", "muscovado", "demerara"],
+    "summary": "Brown sugar is granulated sugar coated with molasses, which is what gives it its colour, its caramel flavour and its tendency to harden. Sugar itself never spoils, so brown sugar keeps indefinitely in the pantry, though for best quality use it within about 2 years of opening — USDA gives 18–24 months after opening.",
+    "pantry": "Keep brown sugar in an airtight container in a cool, dry cupboard. It does not spoil, but the molasses coating dries out and the sugar sets into a brick, so an airtight seal matters more here than for white sugar. For best quality use it within 18–24 months of opening. A slice of apple or a piece of bread in the container for a day will soften a hardened block.",
+    "fridge": "Refrigeration is unnecessary and actually speeds up hardening, because the dry, cold air pulls moisture out of the molasses. Brown sugar also readily absorbs fridge odours. A sealed container in the cupboard is much better.",
+    "freezer": "Freezing brown sugar is not needed since it does not spoil, but a well-sealed bag in the freezer does keep a large bag soft. Let it come fully to room temperature before opening so condensation does not make it sticky.",
+    "spoilage": [
+      "Rock-hard block that cannot be scooped or measured",
+      "Insects, larvae or webbing in the container",
+      "Musty or off smell instead of a warm molasses aroma",
+      "Visible mould, which can only occur if it got genuinely wet"
+    ],
+    "thawing": null,
+    "tips": [
+      "Store in a truly airtight container, not the paper bag it came in",
+      "Add a slice of apple or a damp kitchen towel over the container for a day to soften it",
+      "Microwave a hard lump with a damp paper towel for 20 seconds for an emergency fix",
+      "Pack brown sugar firmly into the cup when measuring, as recipes assume this"
+    ],
+    "faq": [
+      {"q": "Does brown sugar go bad?", "a": "No. Sugar does not spoil. For best quality use it within about 2 years of opening; USDA gives an 18–24 month window after opening."},
+      {"q": "How do you soften hard brown sugar?", "a": "Put a slice of apple or a piece of bread in the sealed container overnight, or microwave the sugar with a damp paper towel over it for about 20 seconds."},
+      {"q": "Should brown sugar be refrigerated?", "a": "No. The cold, dry air makes it harden faster and it picks up fridge odours. Keep it in an airtight container in the cupboard."}
+    ]
+  },
+  "zh": {
+    "name": "紅糖／黑糖",
+    "aliases": ["黑糖", "二砂", "赤砂糖", "黃糖", "黑糖粉"],
+    "summary": "紅糖是包覆著糖蜜的砂糖，糖蜜帶來它的顏色、焦糖香氣，也是它容易結硬塊的原因。糖本身不會腐敗，所以紅糖常溫可以無限期保存；不過為了風味，建議在開封後約 2 年內用完，USDA 給的參考是開封後 18～24 個月。",
+    "pantry": "紅糖請裝在密封容器裡，放在陰涼乾燥的櫥櫃。它不會壞，但表面的糖蜜會變乾，整包硬成一塊磚，所以密封對紅糖比對白砂糖更重要。品質最好的期限是開封後 18～24 個月。硬掉的話，在容器裡放一片蘋果或一小塊麵包，放一天就會軟回來。",
+    "fridge": "不需要冷藏，冷藏反而會讓它更快變硬，因為冰箱裡乾冷的空氣會把糖蜜裡的水分抽走。紅糖也很會吸冰箱的味道。密封放在櫥櫃好得多。",
+    "freezer": "紅糖不會腐敗，所以不需要冷凍，但如果是大包裝，密封冷凍確實能維持柔軟。取出後要完全回到室溫再開封，以免結露變得黏糊。",
+    "thawing": null,
+    "spoilage": [
+      "整塊硬得挖不動、量不出來",
+      "容器裡有昆蟲、幼蟲或蛛絲",
+      "有霉味或怪味，而不是溫潤的糖蜜香",
+      "看得到黴斑，這只會在真的受潮進水時發生"
+    ],
+    "tips": [
+      "裝在真正密封的容器裡，不要留在原本的紙袋",
+      "放一片蘋果，或在容器上蓋一條微濕的布，放一天就會回軟",
+      "急用時把硬塊蓋上微濕的廚房紙巾，微波 20 秒",
+      "量取時要把紅糖壓實，因為食譜通常是以壓實的份量計算"
+    ],
+    "faq": [
+      {"q": "紅糖會過期嗎？", "a": "不會，糖本身不會腐敗。為了風味建議開封後約 2 年內用完，USDA 給的參考是 18～24 個月。"},
+      {"q": "紅糖結成硬塊怎麼辦？", "a": "在密封容器裡放一片蘋果或一小塊麵包過夜，或是蓋上微濕的廚房紙巾微波約 20 秒。"},
+      {"q": "紅糖需要冷藏嗎？", "a": "不需要。冰箱乾冷的空氣會讓它更快變硬，還會吸到異味。密封放在櫥櫃就好。"}
+    ]
+  },
+  "ja": {
+    "name": "ブラウンシュガー（三温糖・黒糖類）",
+    "aliases": ["三温糖", "きび砂糖", "黒糖", "ブラウンシュガー", "マスコバド糖"],
+    "summary": "ブラウンシュガーは糖蜜をまとった砂糖で、その糖蜜が色とカラメルのような風味、そして固まりやすさをもたらします。砂糖自体は腐らないので常温で無期限に保存できますが、風味のためには開封後およそ2年以内が目安で、USDAは開封後18〜24か月としています。",
+    "pantry": "密閉容器に入れて涼しく乾燥した戸棚で保存します。傷むことはありませんが、糖蜜が乾いてレンガのように固まるため、白砂糖以上に密閉が重要です。品質の目安は開封後18〜24か月。固まったら、りんごのスライスかパンをひと切れ入れて1日置けばやわらかく戻ります。",
+    "fridge": "冷蔵は不要で、むしろ固まるのを早めます。庫内の冷たく乾いた空気が糖蜜の水分を奪うためです。においも吸いやすいので、密閉して戸棚に置くほうがはるかに適しています。",
+    "freezer": "腐らないので冷凍の必要はありませんが、大袋を密閉して冷凍するとやわらかさは保てます。開ける前に完全に室温へ戻し、結露でベタつかせないようにしてください。",
+    "thawing": null,
+    "spoilage": [
+      "カチカチに固まってすくえない、計量できない",
+      "容器の中に虫、幼虫、クモの巣状のもの",
+      "糖蜜の甘い香りではなくカビ臭や異臭がする",
+      "カビが見える（本当に水が入った場合にのみ起こります）"
+    ],
+    "tips": [
+      "紙袋のままではなく、しっかり密閉できる容器で保存を",
+      "りんごを1枚入れるか、湿らせた布を容器にかけて1日置くと戻ります",
+      "急ぐときは湿らせたキッチンペーパーをかけて20秒ほど加熱を",
+      "レシピは詰めた状態を前提にしているので、計量時は押し固めましょう"
+    ],
+    "faq": [
+      {"q": "ブラウンシュガーは腐りますか？", "a": "腐りません。砂糖は傷まない食品です。風味の面では開封後およそ2年以内、USDAの目安は18〜24か月です。"},
+      {"q": "固まったブラウンシュガーはどう戻しますか？", "a": "密閉容器にりんごのスライスかパンを入れて一晩置くか、湿らせたキッチンペーパーをかけて20秒ほど加熱してください。"},
+      {"q": "ブラウンシュガーは冷蔵すべきですか？", "a": "いいえ。冷たく乾いた空気で固まりやすくなり、においも移ります。密閉して戸棚で保存しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Azúcar moreno",
+    "aliases": ["azúcar mascabado", "azúcar rubia", "azúcar negra", "demerara", "panela molida"],
+    "summary": "El azúcar moreno es azúcar granulado recubierto de melaza, que le da su color, su sabor acaramelado y su tendencia a endurecerse. El azúcar en sí no se estropea, así que se conserva indefinidamente en la despensa, aunque para una calidad óptima conviene usarlo en unos 2 años tras abrirlo: el USDA da 18–24 meses.",
+    "pantry": "Guárdalo en un recipiente hermético en un armario fresco y seco. No se echa a perder, pero la melaza se reseca y el azúcar se compacta en un ladrillo, así que el cierre hermético importa aún más que con el azúcar blanco. Para mejor calidad, úsalo en 18–24 meses tras abrirlo. Un trozo de manzana o de pan dentro del recipiente durante un día ablanda un bloque endurecido.",
+    "fridge": "Refrigerar no es necesario y de hecho acelera el endurecimiento, porque el aire frío y seco extrae la humedad de la melaza. Además absorbe con facilidad los olores de la nevera. Un recipiente cerrado en el armario es mucho mejor.",
+    "freezer": "No hace falta congelarlo, ya que no se estropea, pero una bolsa bien cerrada en el congelador mantiene blanda una bolsa grande. Deja que alcance del todo la temperatura ambiente antes de abrirla para que la condensación no lo apelmace.",
+    "thawing": null,
+    "spoilage": [
+      "Bloque durísimo que no se puede sacar ni medir",
+      "Insectos, larvas o telarañas en el recipiente",
+      "Olor a humedad o extraño en lugar del aroma cálido a melaza",
+      "Moho visible, algo que solo ocurre si se ha mojado de verdad"
+    ],
+    "tips": [
+      "Guárdalo en un recipiente realmente hermético, no en la bolsa de papel original",
+      "Añade una rodaja de manzana o pon un paño húmedo sobre el recipiente durante un día para ablandarlo",
+      "Para una solución rápida, calienta el bloque 20 segundos en el microondas con papel de cocina húmedo encima",
+      "Compáctalo bien al medirlo: las recetas asumen la taza prensada"
+    ],
+    "faq": [
+      {"q": "¿El azúcar moreno se estropea?", "a": "No. El azúcar no se echa a perder. Para mejor calidad, úsalo en unos 2 años tras abrirlo; el USDA da un plazo de 18–24 meses."},
+      {"q": "¿Cómo se ablanda el azúcar moreno endurecido?", "a": "Pon una rodaja de manzana o un trozo de pan en el recipiente cerrado toda la noche, o caliéntalo unos 20 segundos con papel de cocina húmedo encima."},
+      {"q": "¿Hay que refrigerar el azúcar moreno?", "a": "No. El aire frío y seco lo endurece antes y coge olores de la nevera. Guárdalo hermético en el armario."}
+    ]
+  }
+}

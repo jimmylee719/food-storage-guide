@@ -1,0 +1,107 @@
+{
+  "slug": "oils-olive-vegetable",
+  "en": {
+    "name": "Olive and vegetable oil",
+    "aliases": ["cooking oil", "extra virgin olive oil", "canola oil", "sunflower oil", "salad oil"],
+    "summary": "Olive and vegetable oils are pantry staples that slowly oxidise once air, light and heat reach them. An unopened bottle keeps 6–12 months from the date of purchase in a cool, dark cupboard; after opening, use it within 3–5 months. Refrigerated after opening, oil keeps about 4 months.",
+    "pantry": "Store bottles upright in a cool, dark cupboard, never on the counter beside the hob: 6–12 months from purchase unopened and 3–5 months once opened. Light and heat are what turn oil rancid, so dark glass or a tin is better than a clear bottle. Always close the cap tightly and wipe the neck, since oil left on the rim goes rancid first.",
+    "fridge": "Refrigeration is optional and gives about 4 months after opening. Olive oil goes cloudy and semi-solid in the cold — this is harmless and it clears at room temperature. If you cook with oil daily, the cupboard is more practical; the fridge makes more sense for a bottle you use rarely.",
+    "freezer": "There is no USDA freezer timeline for cooking oils and freezing is not recommended. Oils do not freeze solid in a useful way, repeated warming and cooling encourages condensation, and the pantry and fridge windows are long enough already.",
+    "thawing": null,
+    "spoilage": [
+      "Rancid smell like crayons, putty or old nuts",
+      "Bitter, sharp or metallic taste",
+      "Cloudiness or sediment that does not clear at room temperature",
+      "Sticky, varnish-like residue around the neck of the bottle"
+    ],
+    "tips": [
+      "Buy a bottle size you will finish within a few months of opening",
+      "Decant bulk oil into a small dark bottle for daily use and keep the rest sealed",
+      "Never pour used or heated oil back into the fresh bottle",
+      "Write the opening date on the label to track the 3–5 month window"
+    ],
+    "faq": [
+      {"q": "How long does olive oil last after opening?", "a": "3–5 months in a cool, dark cupboard, or about 4 months refrigerated. Unopened, it keeps 6–12 months from purchase."},
+      {"q": "Can you refrigerate olive oil?", "a": "Yes. It will turn cloudy and thick, which is harmless and reverses at room temperature. Refrigeration gives about 4 months after opening."},
+      {"q": "How can you tell if oil has gone rancid?", "a": "Smell and taste a drop. Rancid oil smells like crayons or old nuts and tastes bitter or sharp. Discard it — it will spoil the flavour of everything you cook."}
+    ]
+  },
+  "zh": {
+    "name": "橄欖油與植物油",
+    "aliases": ["食用油", "沙拉油", "特級初榨橄欖油", "芥花油", "葵花油"],
+    "summary": "橄欖油和各式植物油是廚房常備品，只要接觸到空氣、光線和熱就會慢慢氧化。未開封的瓶裝油放在陰涼避光的櫥櫃，從購買日起可放 6～12 個月；開封後請在 3～5 個月內用完。開封後冷藏則約可放 4 個月。",
+    "pantry": "瓶子請直立放在陰涼避光的櫥櫃，絕對不要放在爐子旁邊的檯面上：未開封從購買日起 6～12 個月，開封後 3～5 個月。讓油產生油耗味的元凶就是光和熱，所以深色玻璃瓶或鐵罐比透明瓶好。每次用完把蓋子鎖緊、擦掉瓶口的油漬，因為殘留在瓶口的油會最先變質。",
+    "fridge": "冷藏是選擇性的，開封後大約可放 4 個月。橄欖油冷藏後會變混濁、半凝固，這是正常現象，回到室溫就會恢復。如果天天用油，放櫥櫃比較方便；很少用的那瓶就比較適合冷藏。",
+    "freezer": "USDA 沒有提供食用油的冷凍期限，也不建議冷凍。油不會凍成好用的狀態，反覆冷熱還會產生冷凝水氣，而且常溫和冷藏的期限本來就夠長了。",
+    "thawing": null,
+    "spoilage": [
+      "有像蠟筆、油灰或放久的堅果那樣的油耗味",
+      "嚐起來苦、刺激或有金屬味",
+      "混濁或沉澱物在室溫下也不會消失",
+      "瓶口周圍出現黏黏、像亮光漆的殘留"
+    ],
+    "tips": [
+      "買開封後幾個月內用得完的瓶裝規格",
+      "大桶油分裝到小的深色瓶日常使用，其餘保持密封",
+      "用過或加熱過的油絕對不要倒回新油瓶裡",
+      "在標籤上寫開封日期，追蹤 3～5 個月的期限"
+    ],
+    "faq": [
+      {"q": "橄欖油開封後可以放多久？", "a": "放在陰涼避光的櫥櫃 3～5 個月，冷藏約 4 個月。未開封的話，從購買日起可放 6～12 個月。"},
+      {"q": "橄欖油可以冷藏嗎？", "a": "可以。冷藏後會變混濁變稠，這是正常的，回到室溫就會恢復。開封後冷藏大約可放 4 個月。"},
+      {"q": "怎麼知道油變質了？", "a": "聞一下、嚐一小滴。變質的油會有蠟筆味或陳舊堅果味，吃起來苦或嗆。這種油請直接丟掉，會毀掉整道菜的味道。"}
+    ]
+  },
+  "ja": {
+    "name": "オリーブオイル・植物油",
+    "aliases": ["サラダ油", "食用油", "エキストラバージンオリーブオイル", "キャノーラ油", "ひまわり油"],
+    "summary": "オリーブオイルや植物油は常備品ですが、空気・光・熱に触れると少しずつ酸化します。未開封なら涼しく暗い場所で購入日から6〜12か月、開封後は3〜5か月以内に使い切りましょう。開封後に冷蔵する場合は約4か月が目安です。",
+    "pantry": "ボトルは立てて、涼しく暗い戸棚に保管します。コンロ横の調理台に置きっぱなしにするのは避けてください。未開封は購入日から6〜12か月、開封後は3〜5か月です。酸化の原因は光と熱なので、透明ボトルより遮光瓶や缶が向いています。使うたびにキャップをしっかり閉め、口元の油を拭き取りましょう。縁に残った油から先に劣化します。",
+    "fridge": "冷蔵は任意で、開封後およそ4か月が目安です。オリーブオイルは冷やすと白く濁って固まりますが、これは無害で室温に戻れば元通りになります。毎日使うなら戸棚が便利で、たまにしか使わないボトルこそ冷蔵向きです。",
+    "freezer": "USDAは食用油の冷凍期間を示しておらず、冷凍は推奨されません。使いやすい形で凍らないうえ、温度変化の繰り返しは結露を招きます。常温・冷蔵の期間で十分です。",
+    "thawing": null,
+    "spoilage": [
+      "クレヨンやパテ、古いナッツのような酸化臭",
+      "苦い、ピリッとする、金属的な味",
+      "室温に戻しても消えない濁りや沈殿",
+      "ボトルの口まわりにニスのようなベタつきがある"
+    ],
+    "tips": [
+      "開封後数か月で使い切れる容量を選びましょう",
+      "大容量は小さな遮光瓶に移して日常使いにし、残りは密閉保存",
+      "使用済みや加熱した油を新しいボトルに戻さないこと",
+      "ラベルに開封日を書いて3〜5か月の期限を管理しましょう"
+    ],
+    "faq": [
+      {"q": "オリーブオイルは開封後どのくらい持ちますか？", "a": "涼しく暗い場所で3〜5か月、冷蔵なら約4か月です。未開封は購入日から6〜12か月保存できます。"},
+      {"q": "オリーブオイルは冷蔵できますか？", "a": "できます。白く濁って固まりますが無害で、室温に戻れば元通りです。開封後およそ4か月が目安になります。"},
+      {"q": "油が酸化したかどう分かりますか？", "a": "においと一滴の味で判断できます。クレヨンや古いナッツのようなにおいで、苦みやえぐみがあれば処分を。料理全体の味を損ねます。"}
+    ]
+  },
+  "es": {
+    "name": "Aceite de oliva y de girasol",
+    "aliases": ["aceite de cocina", "aceite vegetal", "aceite de oliva virgen extra", "aceite de canola", "aceite de maíz"],
+    "summary": "Los aceites de oliva y vegetales son básicos de despensa que se oxidan lentamente en contacto con el aire, la luz y el calor. Una botella sin abrir dura 6–12 meses desde la compra en un armario fresco y oscuro; una vez abierta, úsala en 3–5 meses. Refrigerada tras abrirla, dura alrededor de 4 meses.",
+    "pantry": "Guarda las botellas de pie en un armario fresco y oscuro, nunca en la encimera junto a los fuegos: 6–12 meses desde la compra sin abrir y 3–5 meses abiertas. La luz y el calor son lo que enrancia el aceite, así que el vidrio oscuro o la lata son mejores que una botella transparente. Cierra bien el tapón y limpia el cuello, porque el aceite del borde es el primero en enranciarse.",
+    "fridge": "Refrigerar es opcional y da alrededor de 4 meses tras abrir. El aceite de oliva se enturbia y solidifica parcialmente con el frío: es inofensivo y se aclara a temperatura ambiente. Si cocinas con aceite a diario, la despensa es más práctica; la nevera tiene sentido para una botella que usas poco.",
+    "freezer": "El USDA no da un plazo de congelación para los aceites y congelarlos no se recomienda. No se congelan de forma útil, los cambios de temperatura favorecen la condensación y los plazos de despensa y nevera ya son suficientes.",
+    "thawing": null,
+    "spoilage": [
+      "Olor rancio, como a cera, masilla o frutos secos viejos",
+      "Sabor amargo, punzante o metálico",
+      "Turbidez o poso que no desaparece a temperatura ambiente",
+      "Residuo pegajoso, como barniz, alrededor del cuello de la botella"
+    ],
+    "tips": [
+      "Compra un formato que puedas terminar en pocos meses tras abrirlo",
+      "Trasvasa el aceite a granel a una botella oscura pequeña y mantén el resto cerrado",
+      "Nunca devuelvas aceite usado o calentado a la botella nueva",
+      "Anota la fecha de apertura en la etiqueta para controlar los 3–5 meses"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el aceite de oliva una vez abierto?", "a": "3–5 meses en un armario fresco y oscuro, o alrededor de 4 meses en la nevera. Sin abrir, 6–12 meses desde la compra."},
+      {"q": "¿Se puede refrigerar el aceite de oliva?", "a": "Sí. Se vuelve turbio y espeso, algo inofensivo que se revierte a temperatura ambiente. La nevera da alrededor de 4 meses tras abrirlo."},
+      {"q": "¿Cómo saber si el aceite está rancio?", "a": "Huélelo y prueba una gota. El aceite rancio huele a cera o a frutos secos viejos y sabe amargo o punzante. Deséchalo: estropeará el sabor de todo lo que cocines."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "chili-powder",
+  "en": {
+    "name": "Chilli powder",
+    "aliases": ["chili powder", "cayenne powder", "ground chilli", "red pepper powder", "paprika blend"],
+    "summary": "Chilli powder is dried ground chillies, sometimes blended with cumin, garlic and oregano in the American style. Kept in a sealed jar in a cool, dark cupboard it holds its colour and heat for about 2 years from the date of purchase, and about 2 years after opening. It does not spoil dangerously; it just fades.",
+    "pantry": "The pantry is where chilli powder belongs: a cool, dark cupboard away from the stove, oven and any steam, where it keeps about 2 years from purchase and about 2 years after opening. Heat, light and moisture destroy both colour and aroma, so the rack above the hob is the worst place for it. Shake from a dry spoon rather than straight over a steaming pan.",
+    "fridge": "Refrigeration is unnecessary for a dry spice and risks condensation that clumps the powder and dulls the flavour. If your climate is very humid and you buy in bulk, a small airtight jar in the fridge is acceptable; let it warm to room temperature before opening.",
+    "freezer": "Freezing dry chilli powder is not needed and offers no meaningful benefit. Moisture on thawing is a real risk, and any small gain in colour retention is not worth the clumping.",
+    "thawing": null,
+    "spoilage": [
+      "Faded, brownish colour instead of a bright red",
+      "Weak, dusty smell and little heat when tasted",
+      "Hard clumps or damp caking from absorbed moisture",
+      "Insects, larvae or webbing in the jar"
+    ],
+    "tips": [
+      "Rub a pinch between your fingers — if you cannot smell it, it will not season your food",
+      "Store in a dark glass jar and label it with the opening date",
+      "Never shake the jar directly over a steaming pot; the steam gets in",
+      "Buy in small quantities and replace annually if you cook with it rarely"
+    ],
+    "faq": [
+      {"q": "Does chilli powder expire?", "a": "It does not become unsafe, but it loses colour and heat. Kept sealed in a cool, dark cupboard it stays good for about 2 years from purchase and about 2 years after opening."},
+      {"q": "How can you tell if chilli powder is still good?", "a": "Rub a pinch between your fingers and smell it. A strong, sharp chilli aroma means it is fine; a dusty smell and faded brown colour mean it is time to replace it."},
+      {"q": "Does chilli powder need to be refrigerated?", "a": "No. A sealed jar in a cool, dark cupboard is best. Refrigeration causes condensation that clumps the powder and dulls the flavour."}
+    ]
+  },
+  "zh": {
+    "name": "辣椒粉",
+    "aliases": ["辣椒粉", "乾辣椒粉", "卡宴辣椒粉", "紅椒粉", "chili powder"],
+    "summary": "辣椒粉是乾燥辣椒磨成的粉，美式版本有時還會混入孜然、蒜粉和奧勒岡。密封放在陰涼避光的櫥櫃，從購買日起約可維持 2 年的顏色和辣度，開封後也大約 2 年。它不會腐敗到有危險，只是味道會慢慢變淡。",
+    "pantry": "常溫櫥櫃就是辣椒粉的家：陰涼避光、遠離爐火、烤箱和蒸氣，從購買日起約 2 年，開封後也約 2 年。熱、光和濕氣會同時破壞顏色和香氣，所以爐台上方的調味架是最糟的位置。用乾湯匙取用，不要直接對著冒煙的鍋子灑。",
+    "fridge": "乾燥香料不需要冷藏，還可能因為冷凝水氣結塊、香氣變鈍。如果氣候非常潮濕又買了大包裝，用小密封罐冷藏是可以接受的，但要回到室溫再開蓋。",
+    "freezer": "乾辣椒粉不需要冷凍，也沒有明顯好處。解凍時受潮的風險是真實存在的，為了一點點保色效果而讓粉結塊並不划算。",
+    "thawing": null,
+    "spoilage": [
+      "顏色從鮮紅褪成暗褐色",
+      "香氣變得微弱像灰塵，嚐起來也不太辣",
+      "受潮結成硬塊或整片結餅",
+      "罐子裡有昆蟲、幼蟲或蛛絲"
+    ],
+    "tips": [
+      "取一小撮在指間搓一下，如果聞不到味道，加進菜裡也不會有味道",
+      "裝在深色玻璃罐並標上開封日期",
+      "不要直接對著冒蒸氣的鍋子搖罐子，水氣會跑進去",
+      "買小包裝，如果很少用就每年換新"
+    ],
+    "faq": [
+      {"q": "辣椒粉會過期嗎？", "a": "不會變得不安全，但會褪色、變不辣。密封放在陰涼避光處，從購買日起約 2 年，開封後也約 2 年。"},
+      {"q": "怎麼知道辣椒粉還好不好？", "a": "取一小撮在指間搓開再聞。有濃烈的辣椒香就沒問題；聞起來像灰塵、顏色變暗褐就該換新。"},
+      {"q": "辣椒粉需要冷藏嗎？", "a": "不需要。密封放在陰涼避光的櫥櫃最好，冷藏會產生冷凝水氣讓粉結塊、香氣變鈍。"}
+    ]
+  },
+  "ja": {
+    "name": "チリパウダー（唐辛子粉）",
+    "aliases": ["チリパウダー", "一味唐辛子", "カイエンペッパー", "唐辛子粉", "レッドペッパー"],
+    "summary": "チリパウダーは乾燥唐辛子を挽いた粉で、アメリカ式にはクミンやガーリック、オレガノをブレンドしたものもあります。密閉して涼しく暗い戸棚に置けば、色と辛みは購入日から約2年、開封後も約2年保てます。危険な腐敗はせず、風味が抜けていくだけです。",
+    "pantry": "チリパウダーの置き場所は常温の戸棚です。コンロやオーブン、湯気から離れた涼しく暗い場所なら購入日から約2年、開封後も約2年。熱・光・湿気は色も香りも壊すので、コンロ上のスパイスラックは最悪の場所です。湯気の立つ鍋の上で直接振らず、乾いたスプーンで取りましょう。",
+    "fridge": "乾燥スパイスに冷蔵は不要で、結露で固まり風味も鈍ります。湿度が非常に高い環境で大袋を買った場合は、小さな密閉瓶での冷蔵も許容されますが、開ける前に室温へ戻してください。",
+    "freezer": "乾いたチリパウダーの冷凍は必要なく、目立った利点もありません。解凍時の湿気リスクがあり、わずかな退色防止のために固まらせるのは割に合いません。",
+    "thawing": null,
+    "spoilage": [
+      "鮮やかな赤から茶色っぽくくすんでいる",
+      "香りが弱くほこりっぽく、辛みもほとんど感じない",
+      "湿気を吸って固まり、板状になっている",
+      "瓶の中に虫、幼虫、クモの巣状のもの"
+    ],
+    "tips": [
+      "ひとつまみを指でこすって香りを確認。香らなければ料理でも効きません",
+      "遮光瓶に入れ、開封日を書いておきましょう",
+      "湯気の立つ鍋の上で直接振らないこと。湿気が入ります",
+      "使用頻度が低いなら少量ずつ買い、1年ごとに買い替えを"
+    ],
+    "faq": [
+      {"q": "チリパウダーに賞味期限はありますか？", "a": "危険にはなりませんが、色と辛みが落ちます。密閉して涼しく暗い場所なら購入日から約2年、開封後も約2年です。"},
+      {"q": "チリパウダーがまだ使えるか確認するには？", "a": "ひとつまみを指でこすってにおいを嗅ぎます。しっかり唐辛子の香りがすれば大丈夫。ほこりっぽく色が茶色ければ買い替え時です。"},
+      {"q": "チリパウダーは冷蔵が必要ですか？", "a": "不要です。密閉して涼しく暗い戸棚が最適。冷蔵は結露で固まり、風味も鈍らせます。"}
+    ]
+  },
+  "es": {
+    "name": "Chile en polvo",
+    "aliases": ["ají molido", "pimentón picante", "cayena en polvo", "chile molido", "chili powder"],
+    "summary": "El chile en polvo son chiles secos molidos, a veces mezclados al estilo estadounidense con comino, ajo y orégano. En un tarro cerrado en un armario fresco y oscuro conserva color y picante alrededor de 2 años desde la compra y alrededor de 2 años tras abrirlo. No se estropea de forma peligrosa: simplemente pierde intensidad.",
+    "pantry": "La despensa es su sitio: un armario fresco y oscuro lejos de los fogones, el horno y el vapor, donde dura alrededor de 2 años desde la compra y alrededor de 2 años tras abrirlo. El calor, la luz y la humedad destruyen el color y el aroma, así que el especiero sobre la placa es el peor lugar. Dosifícalo con una cuchara seca y no lo espolvorees sobre una olla humeante.",
+    "fridge": "Una especia seca no necesita nevera, y el frío arriesga condensación que apelmaza el polvo y apaga el sabor. Si vives en un clima muy húmedo y compras a granel, un tarro pequeño hermético en la nevera es aceptable; déjalo atemperar antes de abrirlo.",
+    "freezer": "Congelar chile en polvo seco no hace falta ni aporta nada relevante. El riesgo de humedad al atemperarlo es real, y la ligera mejora en la retención de color no compensa los grumos.",
+    "thawing": null,
+    "spoilage": [
+      "Color apagado o parduzco en lugar de rojo vivo",
+      "Aroma débil y polvoriento, con poco picante al probarlo",
+      "Grumos duros o apelmazamiento por humedad",
+      "Insectos, larvas o telarañas en el tarro"
+    ],
+    "tips": [
+      "Frota una pizca entre los dedos: si no huele, tampoco sazonará tu comida",
+      "Guárdalo en un tarro de vidrio oscuro y anota la fecha de apertura",
+      "Nunca agites el tarro sobre una olla humeante; el vapor entra dentro",
+      "Compra cantidades pequeñas y renuévalo cada año si lo usas poco"
+    ],
+    "faq": [
+      {"q": "¿El chile en polvo caduca?", "a": "No se vuelve inseguro, pero pierde color y picante. Cerrado en un armario fresco y oscuro se mantiene alrededor de 2 años desde la compra y alrededor de 2 años tras abrirlo."},
+      {"q": "¿Cómo saber si el chile en polvo sigue bueno?", "a": "Frota una pizca entre los dedos y huélela. Un aroma intenso a chile indica que está bien; un olor polvoriento y un color pardo apagado indican que toca cambiarlo."},
+      {"q": "¿El chile en polvo necesita refrigeración?", "a": "No. Lo mejor es un tarro cerrado en un armario fresco y oscuro. La nevera provoca condensación que lo apelmaza y apaga su sabor."}
+    ]
+  }
+}

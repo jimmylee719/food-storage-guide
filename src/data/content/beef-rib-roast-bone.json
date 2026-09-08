@@ -1,0 +1,107 @@
+{
+  "slug": "beef-rib-roast-bone",
+  "en": {
+    "name": "Beef rib roast, bone-in",
+    "aliases": ["standing rib roast", "prime rib", "bone-in rib roast", "rib of beef"],
+    "summary": "A bone-in beef rib roast is a large joint cut from the rib section with the rib bones still attached, the classic roast for a celebration meal. Raw, it keeps 3–5 days in the fridge at 4 °C (40 °F) or below from the day you buy it, and 4–12 months in the freezer at −18 °C (0 °F) for best quality.",
+    "pantry": "Raw beef must never be stored or thawed at room temperature. A large joint takes hours to warm through, and while the surface sits in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) bacteria multiply, so discard meat left out longer than 2 hours — 1 hour above 32 °C (90 °F). Taking a roast out for 30–60 minutes before cooking so it cooks evenly is acceptable; a whole afternoon on the counter is not.",
+    "fridge": "Keep the roast in its original wrapping on the bottom shelf, ideally on a tray so drips cannot reach anything below, at 4 °C (40 °F) or below. It stays good for 3–5 days from purchase. If you want a drier surface for better browning, leave it uncovered on a rack over a tray for the last 24 hours — but only within that 3–5 day window.",
+    "freezer": "For freezing, overwrap the supermarket packaging with heavy foil, freezer paper or a large freezer bag, pressing out as much air as possible; the exposed bone ends are the first place freezer burn appears, so pad them well. At −18 °C (0 °F) the roast is safe indefinitely and keeps good quality for 4–12 months. Label it with the cut, weight and date.",
+    "thawing": "Thaw a bone-in rib roast in the fridge, allowing roughly 24 hours for every 2 kg — a large joint can take two to three days. Cold-water thawing in a sealed bag with the water changed every 30 minutes is faster but demands immediate cooking. Never thaw a roast on the counter.",
+    "spoilage": [
+      "Sour, sweetish or ammonia-like smell when the packaging is opened",
+      "Sticky or slimy film on the surface of the meat or around the bones",
+      "Dull grey-brown or greenish colour across the whole surface, not just where air was excluded",
+      "Leaking or bulging packaging, or meat past its use-by date"
+    ],
+    "tips": [
+      "Buy the roast no more than a few days before the meal, or freeze it on the day you buy it.",
+      "Ask the butcher to cut the bones free and tie them back on for easier carving.",
+      "Rest a cooked roast 15–20 minutes before carving, then refrigerate leftovers within 2 hours.",
+      "Cook whole beef roasts to at least 63 °C (145 °F) with a 3-minute rest."
+    ],
+    "faq": [
+      {"q": "Can you freeze a bone-in rib roast?", "a": "Yes. Overwrap it well and freeze at −18 °C (0 °F); it stays safe indefinitely and keeps best quality for 4–12 months."},
+      {"q": "How long does a beef rib roast last in the fridge?", "a": "3–5 days from the day of purchase at 4 °C (40 °F) or below. Freeze it if the meal is further away than that."},
+      {"q": "How long does a large roast take to thaw?", "a": "Roughly 24 hours per 2 kg in the fridge, so plan two to three days for a big bone-in joint."}
+    ]
+  },
+  "zh": {
+    "name": "帶骨牛肋排（rib roast）",
+    "aliases": ["帶骨肋眼", "戰斧牛排原塊", "肋眼烤肉塊", "prime rib", "帶骨牛肋條"],
+    "summary": "帶骨牛肋排是從牛肋部位取下、保留肋骨的大塊烤肉，是節慶餐桌的經典主菜。生肉在 4°C 以下冷藏，從購買日起可放 3～5 天；放 −18°C 冷凍則以 4～12 個月內品質最好。",
+    "pantry": "生牛肉絕對不能放室溫保存或解凍。大塊肉回溫要好幾個小時，這段時間表面停留在 4～60°C 的危險溫度帶，細菌會不斷繁殖，室溫超過 2 小時（氣溫超過 32°C 時 1 小時）就該丟棄。下鍋前拿出來回溫 30～60 分鐘讓受熱均勻沒問題，但放一整個下午就不行。",
+    "fridge": "保留原本包裝，放在冰箱最下層，最好墊一個盤子接住可能滴落的血水，維持 4°C 以下。從購買日起可放 3～5 天。若想讓表面乾一點、上色更漂亮，可以在最後 24 小時把肉不加蓋放在架上（下面墊盤），但仍要在 3～5 天內完成。",
+    "freezer": "冷凍時請在超市包裝外再包一層厚鋁箔、冷凍紙或裝進大冷凍袋，盡量把空氣擠出；露出的骨頭尖端最容易凍燒，要多包幾層。放 −18°C 冷凍安全上可以無限期保存，品質以 4～12 個月為佳。記得標註部位、重量和日期。",
+    "thawing": "帶骨肋排請放冷藏室解凍，每 2 公斤大約需要 24 小時，大塊肉可能要兩到三天。裝密封袋泡冷水、每 30 分鐘換水會比較快，但解凍後必須立刻烹調。絕對不要放在流理台上退冰。",
+    "spoilage": [
+      "打開包裝聞到酸味、甜膩腐味或阿摩尼亞味",
+      "肉表面或骨頭周圍摸起來黏黏滑滑的",
+      "整個表面變成暗灰褐色或帶綠色，而不只是接觸不到空氣的部分",
+      "包裝漏汁或鼓起，或已超過有效日期"
+    ],
+    "tips": [
+      "在用餐前幾天內才買，否則買回來當天就先冷凍。",
+      "請肉販把肋骨切開再綁回去，切分時會方便很多。",
+      "烤好後靜置 15～20 分鐘再切，吃剩的 2 小時內冷藏。",
+      "整塊牛肉烤到中心至少 63°C，再靜置 3 分鐘。"
+    ],
+    "faq": [
+      {"q": "帶骨牛肋排可以冷凍嗎？", "a": "可以。多包幾層後放 −18°C 冷凍，安全上可以無限期保存，品質以 4～12 個月為佳。"},
+      {"q": "牛肋排放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起 3～5 天。如果離用餐日還很久，請先冷凍。"},
+      {"q": "大塊烤肉要解凍多久？", "a": "冷藏解凍每 2 公斤約 24 小時，大塊帶骨肉請預留兩到三天。"}
+    ]
+  },
+  "ja": {
+    "name": "牛リブロース（骨付きロースト用）",
+    "aliases": ["骨付きリブロース", "プライムリブ", "スタンディングリブロースト", "リブロースブロック"],
+    "summary": "骨付きの牛リブロースは、あばら部分から骨ごと切り出した大きなかたまり肉で、ごちそうのローストの定番です。生の状態なら4℃以下の冷蔵で購入日から3〜5日、−18℃の冷凍なら品質の目安として4〜12か月もちます。",
+    "pantry": "生の牛肉を常温で保存・解凍することはできません。大きなかたまりは中心まで温まるのに何時間もかかり、そのあいだ表面は4〜60℃の危険温度帯に置かれて細菌が増えます。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。焼く前に30〜60分ほど室温に戻して火通りを均一にするのは問題ありませんが、午後じゅう置きっぱなしにするのは危険です。",
+    "fridge": "購入時の包装のまま、ドリップが下に落ちないようトレーにのせて冷蔵庫の最下段に置き、4℃以下を保ちます。購入日から3〜5日が目安です。表面を乾かして焼き色をよくしたい場合は、最後の24時間だけ網にのせて覆わずに置く方法もありますが、あくまで3〜5日の枠内で行ってください。",
+    "freezer": "冷凍するときは、店の包装の上から厚手のホイルや冷凍用紙、大きめの保存袋で二重に包み、できるだけ空気を抜きます。露出した骨の先端は冷凍焼けしやすいので、厚めに覆いましょう。−18℃なら安全面では長期間保存でき、品質は4〜12か月が目安です。部位・重量・日付をラベルに書いておきます。",
+    "thawing": "骨付きリブロースは冷蔵庫で解凍し、2kgあたりおよそ24時間を見込みます。大きなかたまりでは2〜3日かかることもあります。密閉袋のまま冷水につけ30分ごとに水を替える方法は早いですが、解凍後すぐに調理する必要があります。常温解凍は絶対に避けてください。",
+    "spoilage": [
+      "包装を開けたときに酸っぱいにおい、甘ったるい腐敗臭、アンモニア臭がする",
+      "肉の表面や骨のまわりがべたつく、ぬめる",
+      "空気に触れない部分だけでなく、表面全体がくすんだ灰褐色や緑がかった色になっている",
+      "パックから汁が漏れている・膨らんでいる、消費期限を過ぎている"
+    ],
+    "tips": [
+      "食事の数日前までに買うか、買った当日に冷凍する。",
+      "骨を切り離してから縛り直してもらうと、切り分けがぐっと楽になる。",
+      "焼き上がりは15〜20分休ませてから切り、残りは2時間以内に冷蔵する。",
+      "かたまりの牛肉は中心温度63℃以上に加熱し、3分間休ませる。"
+    ],
+    "faq": [
+      {"q": "骨付きリブロースは冷凍できますか？", "a": "できます。しっかり包み直して−18℃で冷凍すれば安全面では長期間保存でき、品質は4〜12か月が目安です。"},
+      {"q": "牛リブロースは冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から3〜5日です。それ以上先に使うなら冷凍してください。"},
+      {"q": "大きなかたまり肉の解凍にはどのくらいかかりますか？", "a": "冷蔵庫で2kgあたり約24時間。大きな骨付き肉なら2〜3日を見込んでください。"}
+    ]
+  },
+  "es": {
+    "name": "Costillar de res con hueso",
+    "aliases": ["prime rib", "roast beef de costilla", "lomo alto con hueso", "chuletón entero"],
+    "summary": "El costillar de res con hueso es una pieza grande cortada de la zona de las costillas que conserva los huesos, el asado clásico de una comida de celebración. Crudo se conserva 3–5 días en el refrigerador a 4 °C (40 °F) o menos desde el día de compra, y 4–12 meses en el congelador a −18 °C (0 °F) para la mejor calidad.",
+    "pantry": "La carne cruda no debe guardarse ni descongelarse a temperatura ambiente. Una pieza grande tarda horas en templarse y mientras la superficie está en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F) las bacterias se multiplican: desecha la carne que lleve más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)—. Sacarla 30–60 minutos antes de cocinar para que se ase parejo es aceptable; toda una tarde en la encimera no.",
+    "fridge": "Guarda la pieza en su envase original en el estante inferior, mejor sobre una bandeja para que no gotee sobre nada, a 4 °C (40 °F) o menos. Se conserva 3–5 días desde la compra. Si quieres una superficie más seca para que dore mejor, déjala destapada sobre una rejilla con bandeja las últimas 24 horas, siempre dentro de esa ventana de 3–5 días.",
+    "freezer": "Para congelar, envuelve el paquete del supermercado con papel de aluminio grueso, papel para congelar o una bolsa grande, sacando todo el aire posible; las puntas de hueso expuestas son donde antes aparece la quemadura por congelación, así que acolcha bien esa zona. A −18 °C (0 °F) es segura indefinidamente y mantiene buena calidad 4–12 meses. Etiquétala con corte, peso y fecha.",
+    "thawing": "Descongela el costillar en el refrigerador, calculando unas 24 horas por cada 2 kg: una pieza grande puede tardar dos o tres días. El método de agua fría en bolsa cerrada, cambiando el agua cada 30 minutos, es más rápido pero exige cocinar de inmediato. Nunca la descongeles en la encimera.",
+    "spoilage": [
+      "Olor agrio, dulzón o a amoníaco al abrir el envase",
+      "Película pegajosa o viscosa en la superficie o alrededor de los huesos",
+      "Color gris pardo apagado o verdoso en toda la superficie, no solo donde no llegaba el aire",
+      "Envase con fugas o hinchado, o carne con la fecha vencida"
+    ],
+    "tips": [
+      "Compra la pieza pocos días antes de la comida o congélala el mismo día.",
+      "Pide en la carnicería que separen los huesos y los aten de nuevo para trinchar más fácil.",
+      "Deja reposar el asado 15–20 minutos antes de cortarlo y refrigera las sobras en menos de 2 horas.",
+      "Cocina las piezas enteras de res hasta al menos 63 °C (145 °F) con 3 minutos de reposo."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar un costillar de res con hueso?", "a": "Sí. Envuélvelo bien y congélalo a −18 °C (0 °F); se mantiene seguro indefinidamente y con la mejor calidad durante 4–12 meses."},
+      {"q": "¿Cuánto dura un costillar de res en el refrigerador?", "a": "3–5 días desde el día de compra a 4 °C (40 °F) o menos. Si la comida es más tarde, congélalo."},
+      {"q": "¿Cuánto tarda en descongelarse una pieza grande?", "a": "Alrededor de 24 horas por cada 2 kg en el refrigerador, así que calcula dos o tres días para un costillar grande."}
+    ]
+  }
+}

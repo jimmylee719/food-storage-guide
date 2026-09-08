@@ -1,0 +1,107 @@
+{
+  "slug": "spice-spices-ground",
+  "en": {
+    "name": "Ground spices",
+    "aliases": ["ground cumin", "ground cinnamon", "ground pepper", "powdered spices", "ground turmeric"],
+    "summary": "Ground spices such as cumin, cinnamon, turmeric and black pepper have a huge surface area, so their aromatic oils escape much faster than in whole spices. Kept sealed in a cool, dark cupboard they stay good for 2–3 years from the date of purchase and 2–3 years after opening. They do not become unsafe; they simply fade.",
+    "pantry": "Store ground spices in tightly closed jars in a cool, dark, dry cupboard away from the hob, oven and kettle: 2–3 years from purchase and 2–3 years after opening. Heat and light are the biggest enemies, so the rack above the cooker is the worst spot in the kitchen. Measure with a dry spoon and never shake the jar directly over a steaming pan.",
+    "fridge": "Refrigeration is unnecessary and generally makes things worse, because condensation forms on the cold powder each time the jar is opened, causing hard clumps and dulled flavour. A dry cupboard keeps the aroma much better.",
+    "freezer": "Freezing ground spices is not worthwhile. Any preserved colour is offset by the risk of moisture whenever the jar comes out, and the cupboard already gives two to three years.",
+    "thawing": null,
+    "spoilage": [
+      "Weak, dusty smell instead of a clear, distinct aroma",
+      "Faded or brownish colour, especially in paprika and turmeric",
+      "Hard clumps or caking from absorbed moisture",
+      "Insects, larvae or webbing inside the jar"
+    ],
+    "tips": [
+      "Rub a pinch between your fingers and smell before using an older jar",
+      "Buy small jars of anything you use only a few times a year",
+      "Bloom ground spices in hot oil for 20–30 seconds to bring out the flavour",
+      "Label decanted spices with the name and the purchase date"
+    ],
+    "faq": [
+      {"q": "How long do ground spices last?", "a": "2–3 years from purchase and 2–3 years after opening, kept sealed in a cool, dark cupboard. Whole spices last longer, about 3–4 years."},
+      {"q": "How can you tell if ground spices have gone off?", "a": "Rub a pinch between your fingers and smell it. A faint, dusty smell and a faded colour mean they have lost their punch and should be replaced."},
+      {"q": "Do ground spices need to be refrigerated?", "a": "No. Cold storage causes condensation that clumps the powder and dulls the aroma. A sealed jar in a cool, dark cupboard is best."}
+    ]
+  },
+  "zh": {
+    "name": "香料粉",
+    "aliases": ["孜然粉", "肉桂粉", "胡椒粉", "薑黃粉", "研磨香料"],
+    "summary": "孜然粉、肉桂粉、薑黃粉、黑胡椒粉等香料粉表面積很大，香氣油散失得比整粒香料快得多。密封放在陰涼避光的櫥櫃，從購買日起可放 2～3 年，開封後也是 2～3 年。它不會變得不安全，只是味道會愈來愈淡。",
+    "pantry": "香料粉請用密封罐裝好，放在陰涼避光乾燥的櫥櫃，遠離爐台、烤箱和熱水瓶：從購買日起 2～3 年，開封後也是 2～3 年。熱和光是最大的敵人，所以爐台上方的架子是整間廚房最糟的位置。取用時用乾湯匙，絕對不要拿著罐子在冒蒸氣的鍋上灑。",
+    "fridge": "不需要冷藏，通常還會更糟，因為每次打開罐子，冰冷的粉末就會凝結水氣，導致結成硬塊、香氣變鈍。放在乾燥的櫥櫃反而更能保住香氣。",
+    "freezer": "冷凍香料粉並不划算。就算能多保住一點顏色，也會被每次取出時的受潮風險抵銷，何況常溫本來就能放兩到三年。",
+    "thawing": null,
+    "spoilage": [
+      "香氣微弱像灰塵，聞不出明確的味道",
+      "顏色褪掉或轉褐，紅椒粉和薑黃粉特別明顯",
+      "受潮結成硬塊或結餅",
+      "罐子裡有昆蟲、幼蟲或蛛絲"
+    ],
+    "tips": [
+      "使用舊罐子前，先取一小撮在指間搓開聞聞看",
+      "一年只用幾次的香料就買小罐",
+      "下鍋時先用熱油爆香 20～30 秒，能明顯提升香氣",
+      "分裝的香料要標上名稱和購買日期"
+    ],
+    "faq": [
+      {"q": "香料粉可以放多久？", "a": "密封放在陰涼避光的櫥櫃，從購買日起 2～3 年，開封後也是 2～3 年。整粒香料更耐放，大約 3～4 年。"},
+      {"q": "怎麼判斷香料粉不能用了？", "a": "取一小撮在指間搓開再聞。香氣微弱像灰塵、顏色也褪了，就代表已經沒力，該換新的。"},
+      {"q": "香料粉需要冷藏嗎？", "a": "不需要。低溫會凝結水氣讓粉結塊、香氣變鈍。密封放在陰涼避光的櫥櫃最好。"}
+    ]
+  },
+  "ja": {
+    "name": "パウダースパイス（粉末）",
+    "aliases": ["クミンパウダー", "シナモンパウダー", "こしょう（粉）", "ターメリック", "粉末スパイス"],
+    "summary": "クミン、シナモン、ターメリック、黒こしょうなどの粉末スパイスは表面積が大きく、香り成分がホールよりずっと早く飛びます。密閉して涼しく暗い戸棚に置けば、購入日から2〜3年、開封後も2〜3年が目安です。危険にはならず、風味が抜けていくだけです。",
+    "pantry": "ふたのしっかり閉まる瓶に入れ、コンロ・オーブン・電気ポットから離れた涼しく暗い乾いた戸棚へ。購入日から2〜3年、開封後も2〜3年です。最大の敵は熱と光なので、コンロ上のラックは台所で最悪の場所になります。乾いたスプーンで量り、湯気の立つ鍋の上で直接振らないでください。",
+    "fridge": "冷蔵は不要で、たいてい逆効果です。瓶を開けるたびに冷えた粉に結露が生じ、固まって風味も鈍ります。乾いた戸棚のほうが香りを保てます。",
+    "freezer": "粉末スパイスの冷凍は割に合いません。色をわずかに保てても、取り出すたびの湿気リスクで相殺され、常温でもすでに2〜3年持ちます。",
+    "thawing": null,
+    "spoilage": [
+      "はっきりした香りがせず、弱くほこりっぽい",
+      "色があせたり茶色っぽくなったりしている（パプリカ、ターメリックで顕著）",
+      "湿気を吸って固まり、板状になっている",
+      "瓶の中に虫、幼虫、クモの巣状のもの"
+    ],
+    "tips": [
+      "古い瓶を使う前に、ひとつまみ指でこすって香りを確認",
+      "年に数回しか使わないものは小瓶で購入を",
+      "熱した油で20〜30秒炒めると香りが立ちます",
+      "小分けしたスパイスには名称と購入日を書きましょう"
+    ],
+    "faq": [
+      {"q": "粉末スパイスはどのくらい日持ちしますか？", "a": "密閉して涼しく暗い戸棚なら購入日から2〜3年、開封後も2〜3年。ホールスパイスはより長く、約3〜4年です。"},
+      {"q": "粉末スパイスがだめになったか見分けるには？", "a": "ひとつまみを指でこすってにおいを嗅ぎます。ほこりっぽく弱い香りで色もあせていれば、力を失っているので交換しましょう。"},
+      {"q": "粉末スパイスは冷蔵が必要ですか？", "a": "不要です。冷蔵は結露で固まり、香りも鈍ります。密閉瓶で涼しく暗い戸棚が最適です。"}
+    ]
+  },
+  "es": {
+    "name": "Especias molidas",
+    "aliases": ["comino molido", "canela en polvo", "pimienta molida", "cúrcuma molida", "especias en polvo"],
+    "summary": "Las especias molidas —comino, canela, cúrcuma, pimienta negra— tienen una superficie enorme, así que sus aceites aromáticos se escapan mucho más rápido que en las enteras. Cerradas en un armario fresco y oscuro se mantienen 2–3 años desde la compra y 2–3 años tras abrirlas. No se vuelven inseguras: simplemente se apagan.",
+    "pantry": "Guárdalas en tarros bien cerrados en un armario fresco, oscuro y seco, lejos de la placa, el horno y el hervidor: 2–3 años desde la compra y 2–3 años tras abrirlas. El calor y la luz son sus mayores enemigos, así que el estante sobre la cocina es el peor sitio posible. Mídelas con una cuchara seca y nunca agites el tarro sobre una sartén humeante.",
+    "fridge": "Refrigerar no es necesario y suele empeorar las cosas, porque se forma condensación sobre el polvo frío cada vez que abres el tarro, provocando grumos duros y sabor apagado. Un armario seco conserva mucho mejor el aroma.",
+    "freezer": "Congelar especias molidas no compensa. El poco color que se preserva se pierde frente al riesgo de humedad cada vez que sacas el tarro, y la despensa ya da dos o tres años.",
+    "thawing": null,
+    "spoilage": [
+      "Aroma débil y polvoriento en lugar de claro y definido",
+      "Color apagado o parduzco, sobre todo en pimentón y cúrcuma",
+      "Grumos duros o apelmazamiento por humedad",
+      "Insectos, larvas o telarañas dentro del tarro"
+    ],
+    "tips": [
+      "Frota una pizca entre los dedos y huélela antes de usar un tarro antiguo",
+      "Compra tarros pequeños de lo que solo uses unas pocas veces al año",
+      "Sofríelas 20–30 segundos en aceite caliente para despertar su sabor",
+      "Etiqueta las especias trasvasadas con el nombre y la fecha de compra"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las especias molidas?", "a": "2–3 años desde la compra y 2–3 años tras abrirlas, cerradas en un armario fresco y oscuro. Las enteras duran más, unos 3–4 años."},
+      {"q": "¿Cómo saber si las especias molidas se han pasado?", "a": "Frota una pizca entre los dedos y huélela. Un olor tenue y polvoriento junto a un color apagado indican que han perdido fuerza y conviene cambiarlas."},
+      {"q": "¿Las especias molidas necesitan refrigeración?", "a": "No. El frío provoca condensación que apelmaza el polvo y apaga el aroma. Lo mejor es un tarro cerrado en un armario fresco y oscuro."}
+    ]
+  }
+}

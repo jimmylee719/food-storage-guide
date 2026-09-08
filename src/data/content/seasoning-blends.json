@@ -1,0 +1,107 @@
+{
+  "slug": "seasoning-blends",
+  "en": {
+    "name": "Seasoning blends",
+    "aliases": ["spice mix", "spice blend", "all-purpose seasoning", "rub", "curry powder"],
+    "summary": "Seasoning blends combine ground spices, herbs and often salt, sugar or dried garlic and onion. Kept sealed in a cool, dark cupboard they hold their flavour for 1–2 years from the date of purchase, and 1–2 years after opening. They rarely become unsafe, but the aroma fades and blends containing salt or sugar clump when damp.",
+    "pantry": "Store blends in tightly closed jars in a cool, dark cupboard away from the hob, oven and kettle: 1–2 years from purchase and 1–2 years after opening. Blends that contain salt or dried garlic and onion attract moisture faster than pure ground spices, so an airtight lid matters more here than for most pantry items. Never sprinkle straight from the jar over a steaming pan.",
+    "fridge": "Refrigeration is unnecessary for a dry blend and often counterproductive: the container sweats every time you take it out, and damp seasoning cakes into a solid lump. If you buy large bulk bags in a humid climate, keep a small working jar in the cupboard and the reserve sealed in the fridge, letting it warm before opening.",
+    "freezer": "Freezing dry seasoning blends offers no real benefit. Any colour and aroma you preserve is offset by the condensation risk each time the container comes out of the freezer.",
+    "thawing": null,
+    "spoilage": [
+      "Weak, dusty smell instead of a distinct spice aroma",
+      "Faded or greyed colour",
+      "Hard clumps or a solid cake, common in salt-containing blends",
+      "Insects, larvae or webbing inside the jar"
+    ],
+    "tips": [
+      "Rub a pinch between your fingers and smell before using an old jar",
+      "Label homemade or decanted blends with the name and date",
+      "Add a few grains of dry rice to salty blends to absorb humidity",
+      "Buy small jars of blends you use rarely, big jars only of everyday ones"
+    ],
+    "faq": [
+      {"q": "How long do seasoning blends last?", "a": "1–2 years from purchase and 1–2 years after opening when kept sealed in a cool, dark cupboard. After that they are usually safe but noticeably weaker."},
+      {"q": "How can you tell if a spice blend has gone off?", "a": "Rub a pinch between your fingers. If the aroma is faint or dusty and the colour has faded, replace it. Clumping, insects or webbing mean discard it."},
+      {"q": "Do seasoning blends need to be refrigerated?", "a": "No. A sealed jar in a cool, dark cupboard is best. Refrigeration causes condensation that clumps the blend, especially if it contains salt or sugar."}
+    ]
+  },
+  "zh": {
+    "name": "綜合調味料（香料粉）",
+    "aliases": ["綜合香料", "調味粉", "萬用調味料", "咖哩粉", "醃料粉"],
+    "summary": "綜合調味料是把研磨香料、香草，通常再加上鹽、糖或乾燥蒜末洋蔥末混合而成。密封放在陰涼避光的櫥櫃，從購買日起可維持 1～2 年的風味，開封後也是 1～2 年。它很少會變得不安全，但香氣會變淡，含鹽或含糖的配方受潮還會結塊。",
+    "pantry": "把罐子蓋緊放在陰涼避光的櫥櫃，遠離爐台、烤箱和熱水瓶：從購買日起 1～2 年，開封後 1～2 年。含鹽或乾燥蒜洋蔥的調味料比純香料粉更容易吸濕，所以密封蓋在這裡格外重要。也絕對不要拿著罐子直接在冒蒸氣的鍋子上灑。",
+    "fridge": "乾燥調味粉不需要冷藏，而且常常有反效果：每次拿出來容器都會冒汗，受潮後會結成一整塊。如果在潮濕氣候買了大包裝，建議在櫥櫃放一個小的日常使用罐，其餘密封冷藏，取用前先回到室溫。",
+    "freezer": "冷凍乾燥調味粉沒有實質好處。就算能保住一點顏色和香氣，也會被每次取出時的結露風險抵銷。",
+    "thawing": null,
+    "spoilage": [
+      "香氣微弱像灰塵，聞不出明確的香料味",
+      "顏色褪掉或轉灰",
+      "結成硬塊或整片結餅，含鹽的配方特別常見",
+      "罐子裡有昆蟲、幼蟲或蛛絲"
+    ],
+    "tips": [
+      "用舊罐子前，先取一小撮在指間搓開聞聞看",
+      "自製或分裝的調味粉要標上名稱和日期",
+      "含鹽的調味粉裡放幾粒生米，可以幫忙吸濕",
+      "很少用的買小罐，天天用的才買大罐"
+    ],
+    "faq": [
+      {"q": "綜合調味料可以放多久？", "a": "密封放在陰涼避光的櫥櫃，從購買日起 1～2 年，開封後也是 1～2 年。之後通常還安全，但味道會明顯變弱。"},
+      {"q": "怎麼知道香料粉不能用了？", "a": "取一小撮在指間搓開聞。香氣微弱或像灰塵、顏色也褪了就該換新。結塊、有蟲或蛛絲就直接丟掉。"},
+      {"q": "綜合調味料需要冷藏嗎？", "a": "不需要。密封放在陰涼避光的櫥櫃最好。冷藏會產生冷凝水氣讓它結塊，含鹽或含糖的配方尤其明顯。"}
+    ]
+  },
+  "ja": {
+    "name": "ミックススパイス（調味料ブレンド）",
+    "aliases": ["ミックススパイス", "スパイスブレンド", "万能調味料", "カレー粉", "シーズニング"],
+    "summary": "ミックススパイスは、挽いたスパイスとハーブに塩や砂糖、乾燥ガーリック・オニオンを合わせた調味料です。密閉して涼しく暗い戸棚に置けば、購入日から1〜2年、開封後も1〜2年風味を保てます。危険な状態にはまれですが、香りは抜け、塩や砂糖入りのものは湿気で固まります。",
+    "pantry": "瓶のふたをしっかり閉め、コンロ・オーブン・電気ポットから離れた涼しく暗い戸棚へ。購入日から1〜2年、開封後も1〜2年です。塩や乾燥ガーリック・オニオン入りのブレンドは純粋なスパイス粉より湿気を吸いやすいので、密閉性がとくに重要になります。湯気の立つ鍋の上で直接振りかけないでください。",
+    "fridge": "乾いたブレンドに冷蔵は不要で、しばしば逆効果です。取り出すたびに容器が汗をかき、湿った調味料は固まってしまいます。湿度の高い環境で大袋を買った場合は、常用の小瓶を戸棚に置き、残りは密閉して冷蔵し、開ける前に室温へ戻しましょう。",
+    "freezer": "乾燥ミックススパイスの冷凍に実質的な利点はありません。色や香りを多少保てても、取り出すたびの結露リスクで帳消しになります。",
+    "thawing": null,
+    "spoilage": [
+      "スパイスらしい香りがせず、弱くほこりっぽい",
+      "色があせている、灰色っぽくなっている",
+      "固まりや板状の塊（塩入りブレンドに多い）",
+      "瓶の中に虫、幼虫、クモの巣状のもの"
+    ],
+    "tips": [
+      "古い瓶を使う前に、ひとつまみを指でこすって香りを確認",
+      "自作や小分けしたブレンドには名称と日付を書きましょう",
+      "塩入りブレンドに生米を数粒入れると湿気取りになります",
+      "使用頻度の低いものは小瓶、毎日使うものだけ大瓶で"
+    ],
+    "faq": [
+      {"q": "ミックススパイスはどのくらい日持ちしますか？", "a": "密閉して涼しく暗い戸棚なら購入日から1〜2年、開封後も1〜2年です。その後も安全なことが多いですが、風味は明らかに弱まります。"},
+      {"q": "スパイスブレンドがだめになったか見分けるには？", "a": "ひとつまみを指でこすって香りを確認します。香りが弱くほこりっぽく、色もあせていれば交換を。固まりや虫、クモの巣状のものがあれば処分してください。"},
+      {"q": "ミックススパイスは冷蔵が必要ですか？", "a": "不要です。密閉して涼しく暗い戸棚が最適。冷蔵は結露で固まりやすく、とくに塩や砂糖入りでは顕著です。"}
+    ]
+  },
+  "es": {
+    "name": "Mezclas de especias",
+    "aliases": ["mezcla de especias", "condimento para todo uso", "adobo en polvo", "curry en polvo", "rub"],
+    "summary": "Las mezclas de especias combinan especias molidas, hierbas y a menudo sal, azúcar o ajo y cebolla deshidratados. Bien cerradas en un armario fresco y oscuro conservan su sabor 1–2 años desde la compra y 1–2 años tras abrirlas. Rara vez se vuelven inseguras, pero el aroma se apaga y las mezclas con sal o azúcar se apelmazan con la humedad.",
+    "pantry": "Guárdalas en tarros bien cerrados en un armario fresco y oscuro, lejos de la placa, el horno y el hervidor: 1–2 años desde la compra y 1–2 años tras abrirlas. Las mezclas con sal o con ajo y cebolla deshidratados atraen humedad más rápido que las especias puras, así que aquí el cierre hermético importa aún más. Nunca las espolvorees directamente del tarro sobre una olla humeante.",
+    "fridge": "Refrigerar una mezcla seca no es necesario y suele ser contraproducente: el envase suda cada vez que lo sacas y el condimento húmedo se compacta en un bloque. Si compras bolsas grandes en un clima húmedo, ten un tarro de uso diario en el armario y la reserva cerrada en la nevera, dejándola atemperar antes de abrirla.",
+    "freezer": "Congelar mezclas secas no aporta un beneficio real. El poco color y aroma que conservas se pierde frente al riesgo de condensación cada vez que sacas el envase.",
+    "thawing": null,
+    "spoilage": [
+      "Aroma débil y polvoriento en lugar de a especias definidas",
+      "Color apagado o agrisado",
+      "Grumos duros o un bloque compacto, habitual en mezclas con sal",
+      "Insectos, larvas o telarañas dentro del tarro"
+    ],
+    "tips": [
+      "Frota una pizca entre los dedos y huélela antes de usar un tarro antiguo",
+      "Etiqueta las mezclas caseras o trasvasadas con el nombre y la fecha",
+      "Añade unos granos de arroz seco a las mezclas saladas para absorber humedad",
+      "Compra tarros pequeños de lo que uses poco y grandes solo de lo diario"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las mezclas de especias?", "a": "1–2 años desde la compra y 1–2 años tras abrirlas, cerradas en un armario fresco y oscuro. Después suelen ser seguras pero mucho más flojas."},
+      {"q": "¿Cómo saber si una mezcla de especias se ha pasado?", "a": "Frota una pizca entre los dedos. Si el aroma es tenue o polvoriento y el color ha perdido intensidad, cámbiala. Grumos, insectos o telarañas obligan a tirarla."},
+      {"q": "¿Las mezclas de especias necesitan refrigeración?", "a": "No. Lo mejor es un tarro cerrado en un armario fresco y oscuro. La nevera genera condensación que las apelmaza, sobre todo si llevan sal o azúcar."}
+    ]
+  }
+}

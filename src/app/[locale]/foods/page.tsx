@@ -3,9 +3,8 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import SearchBox from '@/components/SearchBox';
-import FoodTable from '@/components/FoodTable';
 import { CATEGORIES, type Locale, isLocale, t } from '@/lib/i18n';
-import { foodsInCategory } from '@/lib/data';
+import { categoryCounts, foods, foodsInCategory } from '@/lib/data';
 import { buildMetadata } from '@/lib/seo';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
@@ -25,19 +24,26 @@ export default async function FoodsPage({ params }: { params: Promise<{ locale: 
   if (!isLocale(locale)) notFound();
   const l = locale as Locale;
   const d = t(l);
+  const counts = categoryCounts();
 
   return (
     <div className="wrap">
       <Breadcrumbs items={[{ name: d.home, href: `/${l}` }, { name: d.allFoods }]} />
       <h1>{d.allFoods}</h1>
-      <p className="hero-lead">{d.heroLead}</p>
+      <p className="hero-lead">{d.itemsCount(foods.length)}</p>
       <SearchBox locale={l} />
 
-      <ul className="chip-row">
-        {CATEGORIES.map((c) => (
-          <li key={c}><a className="pill" href={`#${c}`}>{d.categoryNames[c]}</a></li>
-        ))}
-      </ul>
+      <section>
+        <div className="section-head"><h2>{d.browseByCategory}</h2></div>
+        <div className="grid grid-cats">
+          {CATEGORIES.map((c) => (
+            <Link key={c} href={`/${l}/category/${c}`} className="card">
+              <h3>{d.categoryNames[c]}</h3>
+              <p>{d.itemsCount(counts[c] ?? 0)}</p>
+            </Link>
+          ))}
+        </div>
+      </section>
 
       {CATEGORIES.map((c) => {
         const items = foodsInCategory(c).sort((a, b) => a.names[l].localeCompare(b.names[l], l));
@@ -46,9 +52,17 @@ export default async function FoodsPage({ params }: { params: Promise<{ locale: 
           <section key={c} id={c}>
             <div className="section-head">
               <h2>{d.categoryNames[c]}</h2>
-              <Link href={`/${l}/category/${c}`}>{d.itemsCount(items.length)} →</Link>
+              <Link href={`/${l}/category/${c}`}>{d.pantry} · {d.fridge} · {d.freezer} →</Link>
             </div>
-            <FoodTable items={items} locale={l} />
+            <ul className="index-list">
+              {items.map((f) => (
+                <li key={f.slug}>
+                  {f.hasPage
+                    ? <Link href={`/${l}/food/${f.slug}`}>{f.names[l]}</Link>
+                    : <Link href={`/${l}/category/${c}#${f.slug}`} className="muted-link">{f.names[l]}</Link>}
+                </li>
+              ))}
+            </ul>
           </section>
         );
       })}

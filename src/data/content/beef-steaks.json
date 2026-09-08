@@ -1,0 +1,107 @@
+{
+  "slug": "beef-steaks",
+  "en": {
+    "name": "Beef steaks",
+    "aliases": ["ribeye", "sirloin steak", "striploin", "T-bone", "beef cutlets"],
+    "summary": "Beef steaks are individual slices cut across a muscle — ribeye, sirloin, striploin, T-bone and so on — thick enough to sear and serve pink. Raw, they keep 3–5 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 4–12 months in the freezer at −18 °C (0 °F) for best quality.",
+    "pantry": "Raw steak must not be stored at room temperature. Taking a steak out of the fridge 30–45 minutes before cooking so it sears more evenly is fine, but beyond 2 hours in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) — 1 hour above 32 °C (90 °F) — it should be thrown away. Cooked steak also needs to be refrigerated within 2 hours.",
+    "fridge": "Keep steaks in their packaging, or on a plate covered loosely, on the bottom shelf at 4 °C (40 °F) or below so juices cannot drip onto other food. They stay good for 3–5 days from purchase. For a better crust, pat them dry and leave them uncovered on a rack in the fridge for the last few hours — dry surfaces brown much faster than wet ones.",
+    "freezer": "Steaks are ideal for freezing because they are thin enough to freeze and thaw quickly. Wrap each steak individually in plastic, then bag several together with the air pressed out, and freeze at −18 °C (0 °F): safe indefinitely, best quality for 4–12 months. Vacuum sealing is worth it here — it prevents freezer burn on the exposed lean surfaces.",
+    "thawing": "Thaw steaks overnight in the fridge, or in a sealed bag under cold water changed every 30 minutes for about an hour, cooking immediately afterwards. Steaks can also be cooked from frozen with a longer, gentler finish. Never thaw them on the counter.",
+    "spoilage": [
+      "Sour or ammonia-like smell that does not clear once the pack is opened",
+      "Slimy or sticky surface film",
+      "Dull grey-brown or greenish colour across the whole steak, not just the underside",
+      "Bulging or leaking pack, or a use-by date that has passed"
+    ],
+    "tips": [
+      "Wrap steaks individually before freezing so you can thaw one at a time.",
+      "Dry the surface thoroughly before searing — moisture steams instead of browning.",
+      "Cook whole cuts to at least 63 °C (145 °F) and rest 3 minutes for a safe medium.",
+      "Refrigerate leftovers within 2 hours and slice them cold for salads or sandwiches."
+    ],
+    "faq": [
+      {"q": "Can you freeze beef steaks?", "a": "Yes. Wrap them individually and freeze at −18 °C (0 °F): safe indefinitely, best quality for 4–12 months. They thaw overnight in the fridge."},
+      {"q": "How long do steaks last in the fridge?", "a": "3–5 days from the day of purchase at 4 °C (40 °F) or below."},
+      {"q": "Can you cook a steak from frozen?", "a": "Yes. Sear it straight from the freezer and finish it at a lower heat or in the oven; expect roughly 50 % longer cooking than a thawed steak."}
+    ]
+  },
+  "zh": {
+    "name": "牛排",
+    "aliases": ["肋眼牛排", "沙朗牛排", "紐約客", "丁骨牛排", "牛小排"],
+    "summary": "牛排是把肌肉橫切成的單片肉，包括肋眼、沙朗、紐約客、丁骨等，厚度足以煎出焦香外皮、內部保持粉紅。生肉在 4°C 以下冷藏，從購買日起可放 3～5 天；放 −18°C 冷凍則以 4～12 個月內品質最好。",
+    "pantry": "生牛排不能放室溫保存。下鍋前 30～45 分鐘從冰箱取出回溫、讓受熱更均勻沒問題，但在 4～60°C 的危險溫度帶超過 2 小時（氣溫超過 32°C 時 1 小時）就該丟掉。煎好的牛排也要在 2 小時內冷藏。",
+    "fridge": "牛排連包裝，或放在盤子上鬆鬆蓋住，置於冰箱最下層，維持 4°C 以下，避免肉汁滴到其他食物。從購買日起可放 3～5 天。想煎出漂亮焦殼，可以先把表面拍乾，最後幾小時不加蓋放在架上冷藏——表面乾燥比濕潤更容易上色。",
+    "freezer": "牛排很適合冷凍，因為夠薄，結凍和解凍都快。每片單獨用保鮮膜包好，再幾片一起裝袋、壓出空氣，放 −18°C 冷凍：安全上可以無限期保存，品質以 4～12 個月為佳。這種瘦肉面外露的形狀特別適合真空包裝，可以有效防止凍燒。",
+    "thawing": "放冷藏室解凍一晚，或裝密封袋泡冷水、每 30 分鐘換水約一小時，解凍後立刻烹調。牛排也可以直接從冷凍下鍋，之後用小火慢慢煎熟。絕對不要放室溫退冰。",
+    "spoilage": [
+      "拆開包裝後酸味或阿摩尼亞味一直不散",
+      "表面有黏滑或發黏的薄膜",
+      "整片肉呈暗灰褐色或帶綠色，而不只是貼盤的那一面",
+      "包裝鼓起或漏汁，或已超過有效日期"
+    ],
+    "tips": [
+      "冷凍前每片單獨包裝，之後可以只解凍一片。",
+      "下鍋前把表面徹底擦乾，有水分只會變成蒸而不是煎。",
+      "整塊肉煎烤到中心至少 63°C，靜置 3 分鐘就是安全的五分熟。",
+      "吃剩的 2 小時內冷藏，冰過後薄切做沙拉或三明治很好用。"
+    ],
+    "faq": [
+      {"q": "牛排可以冷凍嗎？", "a": "可以。單片包好放 −18°C 冷凍，安全上無限期，品質以 4～12 個月為佳，放冷藏一晚就能解凍。"},
+      {"q": "牛排放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起 3～5 天。"},
+      {"q": "冷凍牛排可以直接下鍋嗎？", "a": "可以。直接從冷凍煎出表面焦殼，再轉小火或進烤箱慢慢烤熟，時間大約比解凍過的多一半。"}
+    ]
+  },
+  "ja": {
+    "name": "牛ステーキ肉",
+    "aliases": ["リブロースステーキ", "サーロインステーキ", "ヒレステーキ", "Tボーン", "牛ステーキ"],
+    "summary": "ステーキ肉は筋肉を横に切った一枚肉で、リブロース、サーロイン、ストリップロイン、Tボーンなどがあります。表面を香ばしく焼き、中はロゼに仕上げられる厚みが特徴です。生の状態なら4℃以下の冷蔵で購入日から3〜5日、−18℃の冷凍なら品質の目安として4〜12か月です。",
+    "pantry": "生のステーキ肉を常温で保存することはできません。焼く30〜45分前に冷蔵庫から出して室温に戻すのは問題ありませんが、4〜60℃の危険温度帯に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。焼いたステーキも2時間以内に冷蔵します。",
+    "fridge": "包装のまま、または皿にのせて軽く覆い、肉汁が他の食品に落ちないよう冷蔵庫の最下段で4℃以下を保ちます。購入日から3〜5日が目安。きれいな焼き色をつけたいときは表面の水分を拭き、最後の数時間だけ網にのせて覆わずに冷蔵すると効果的です。乾いた面のほうがずっと早く色づきます。",
+    "freezer": "ステーキは薄いぶん凍るのも解けるのも早く、冷凍向きです。1枚ずつラップで包み、数枚まとめて保存袋に入れて空気を抜き、−18℃で冷凍します。安全面では長期間、品質は4〜12か月が目安。赤身の面が露出する形なので、真空パックにすると冷凍焼けをよく防げます。",
+    "thawing": "冷蔵庫で一晩解凍するか、密閉袋のまま冷水につけ30分ごとに水を替えて1時間ほどで解凍し、すぐに焼きます。凍ったまま焼き始め、弱火や低温のオーブンで火を通す方法も可能です。常温解凍は避けてください。",
+    "spoilage": [
+      "パックを開けても酸っぱいにおいやアンモニア臭が消えない",
+      "表面にぬめり・べたつきの膜がある",
+      "皿に接した面だけでなく全体がくすんだ灰褐色や緑がかった色になっている",
+      "パックが膨らむ・汁が漏れている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "冷凍前に1枚ずつ包み、必要な枚数だけ解凍できるようにする。",
+      "焼く前に表面をしっかり拭く。水分が残ると焼き色ではなく蒸しになる。",
+      "かたまり肉は中心温度63℃以上に加熱し、3分休ませると安全なミディアム。",
+      "残りは2時間以内に冷蔵し、冷たいままスライスしてサラダやサンドイッチに。"
+    ],
+    "faq": [
+      {"q": "ステーキ肉は冷凍できますか？", "a": "できます。1枚ずつ包んで−18℃で冷凍すれば安全面では長期間、品質は4〜12か月。冷蔵庫で一晩あれば解凍できます。"},
+      {"q": "ステーキ肉は冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から3〜5日です。"},
+      {"q": "冷凍のまま焼いてもいいですか？", "a": "問題ありません。凍ったまま表面を焼き、弱火やオーブンで火を通します。解凍したものより5割ほど長く時間がかかります。"}
+    ]
+  },
+  "es": {
+    "name": "Bistecs de res",
+    "aliases": ["ribeye", "bife de chorizo", "entrecot", "T-bone", "filetes de res"],
+    "summary": "Los bistecs son rebanadas individuales cortadas a través del músculo —ribeye, lomo, entrecot, T-bone— con grosor suficiente para sellarlos y servirlos rosados por dentro. Crudos duran 3–5 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y 4–12 meses en el congelador a −18 °C (0 °F) con la mejor calidad.",
+    "pantry": "El bistec crudo no debe guardarse a temperatura ambiente. Sacarlo del refrigerador 30–45 minutos antes de cocinarlo para que selle parejo está bien, pero más de 2 horas en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F) —1 hora por encima de 32 °C (90 °F)— obliga a tirarlo. El bistec cocinado también debe refrigerarse en menos de 2 horas.",
+    "fridge": "Guarda los bistecs en su envase, o en un plato tapado sin apretar, en el estante inferior a 4 °C (40 °F) o menos para que los jugos no goteen sobre otros alimentos. Duran 3–5 días desde la compra. Para una mejor costra, sécalos y déjalos destapados sobre una rejilla en el refrigerador las últimas horas: una superficie seca dora mucho antes que una húmeda.",
+    "freezer": "Son ideales para congelar porque su grosor permite que se congelen y descongelen rápido. Envuelve cada bistec en film, agrupa varios en una bolsa sacando el aire y congela a −18 °C (0 °F): seguros indefinidamente y con la mejor calidad 4–12 meses. Aquí el envasado al vacío compensa: evita la quemadura por congelación en las caras magras.",
+    "thawing": "Descongélalos durante una noche en el refrigerador, o en bolsa cerrada bajo agua fría cambiada cada 30 minutos durante alrededor de una hora, cocinando enseguida. También se pueden cocinar congelados, sellando y terminando a fuego más suave. Nunca los descongeles en la encimera.",
+    "spoilage": [
+      "Olor agrio o a amoníaco que no desaparece tras abrir el paquete",
+      "Película viscosa o pegajosa en la superficie",
+      "Color gris pardo apagado o verdoso en todo el bistec, no solo en la cara de abajo",
+      "Envase hinchado o con fugas, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Envuélvelos de uno en uno antes de congelar para descongelar solo lo que necesites.",
+      "Seca bien la superficie antes de sellar: la humedad cuece al vapor en vez de dorar.",
+      "Cocina las piezas enteras hasta al menos 63 °C (145 °F) y deja reposar 3 minutos.",
+      "Refrigera las sobras en menos de 2 horas y córtalas frías para ensaladas o sándwiches."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar los bistecs de res?", "a": "Sí. Envuélvelos individualmente y congélalos a −18 °C (0 °F): seguros indefinidamente y con la mejor calidad 4–12 meses. Se descongelan en una noche en el refrigerador."},
+      {"q": "¿Cuánto duran los bistecs en el refrigerador?", "a": "3–5 días desde el día de compra a 4 °C (40 °F) o menos."},
+      {"q": "¿Se puede cocinar un bistec congelado?", "a": "Sí. Séllalo directamente del congelador y termínalo a fuego más bajo o en el horno; tardará alrededor de un 50 % más que uno descongelado."}
+    ]
+  }
+}

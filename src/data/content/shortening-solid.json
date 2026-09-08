@@ -1,0 +1,107 @@
+{
+  "slug": "shortening-solid",
+  "en": {
+    "name": "Solid shortening",
+    "aliases": ["vegetable shortening", "baking fat", "Crisco", "white fat", "hydrogenated fat"],
+    "summary": "Solid vegetable shortening is a firm, white baking fat made from refined vegetable oils, used for pastry, biscuits and frying. Because it is fully refined and contains almost no water, it keeps 1–2 years from the date of purchase unopened, and 6–12 months once the tub is opened. It is shelf stable and does not need refrigeration.",
+    "pantry": "Keep the tub tightly closed in a cool, dry cupboard away from the stove and any sunlight: 1–2 years from purchase unopened, 6–12 months after opening. Shortening does not need refrigeration, but it does need to be kept out of the heat, because warmth speeds up oxidation and the surface goes rancid first. Always scoop with a clean, dry spoon and smooth the surface before closing.",
+    "fridge": "Refrigeration is not necessary and makes the shortening rock hard, so it is difficult to measure and cut into flour. If your kitchen regularly stays above 25 °C, keeping it in the fridge is a reasonable choice; let it soften at room temperature before baking with it.",
+    "freezer": "USDA gives no freezer timeline for shortening and there is little reason to freeze it, since the cupboard window is already 1–2 years. If you do, seal it airtight against freezer odours and thaw it in the fridge before use.",
+    "thawing": null,
+    "spoilage": [
+      "Rancid, paint-like or old-nut smell when the lid comes off",
+      "Yellow or grey discolouration, especially on the surface",
+      "Grainy, crumbly texture instead of a smooth, creamy one",
+      "Mould spots or moisture pooling on the surface"
+    ],
+    "tips": [
+      "Scrape the surface smooth and close the lid tightly to limit contact with air",
+      "Never return used or melted shortening to the tub",
+      "Write the opening date on the lid to track the 6–12 month window",
+      "Buy the tub size that matches how often you actually bake pastry"
+    ],
+    "faq": [
+      {"q": "Does shortening need to be refrigerated?", "a": "No. A cool, dry cupboard keeps it 1–2 years unopened and 6–12 months after opening. Refrigerate only if your kitchen is consistently very warm."},
+      {"q": "How can you tell if shortening has gone bad?", "a": "Smell it. A rancid, paint-like odour, yellowing on the surface, or any mould means it should be discarded."},
+      {"q": "How long does shortening last after opening?", "a": "6–12 months in a cool, dry cupboard with the lid kept tightly closed and the surface scraped smooth."}
+    ]
+  },
+  "zh": {
+    "name": "固體酥油（白油）",
+    "aliases": ["白油", "酥油", "植物性酥油", "起酥油", "Crisco"],
+    "summary": "固體酥油是用精煉植物油製成的白色硬質烘焙油脂，用來做派皮、餅乾和油炸。因為經過完全精煉、幾乎不含水分，未開封從購買日起可放 1～2 年，開罐後 6～12 個月。它可以常溫保存，不需要冷藏。",
+    "pantry": "把罐蓋蓋緊，放在陰涼乾燥的櫥櫃，遠離爐火和陽光：未開封從購買日起 1～2 年，開封後 6～12 個月。酥油不需要冷藏，但一定要遠離熱源，因為高溫會加速氧化，而且表面總是最先變質。取用時務必用乾淨乾燥的湯匙，蓋回去前把表面抹平。",
+    "fridge": "不需要冷藏，而且冷藏後會變得非常硬，不好秤重也不好切進麵粉裡。如果廚房常年高於 25°C，放冰箱是合理的選擇，但使用前要先放室溫回軟。",
+    "freezer": "USDA 沒有提供酥油的冷凍期限，而且常溫就能放 1～2 年，冷凍的必要性不高。真的要冷凍請密封好以免吸到冷凍庫異味，使用前先在冷藏室回溫。",
+    "thawing": null,
+    "spoilage": [
+      "打開蓋子有油耗味、油漆味或陳舊堅果味",
+      "顏色變黃或變灰，表面特別明顯",
+      "質地變得粗糙、鬆散，不再滑順細緻",
+      "表面出現黴斑或積水"
+    ],
+    "tips": [
+      "每次用完把表面抹平、蓋子蓋緊，減少和空氣接觸",
+      "用過或融化過的酥油不要倒回罐子裡",
+      "在蓋子上寫開封日期，追蹤 6～12 個月的期限",
+      "依照自己做派皮的頻率選擇合適的罐裝大小"
+    ],
+    "faq": [
+      {"q": "酥油需要冷藏嗎？", "a": "不需要。放陰涼乾燥的櫥櫃，未開封 1～2 年、開封後 6～12 個月。只有廚房長期很熱時才考慮冷藏。"},
+      {"q": "怎麼知道酥油壞掉了？", "a": "聞味道。有油耗味或油漆味、表面泛黃，或出現黴斑，就該丟掉。"},
+      {"q": "酥油開封後可以放多久？", "a": "蓋緊、表面抹平，放在陰涼乾燥的櫥櫃可放 6～12 個月。"}
+    ]
+  },
+  "ja": {
+    "name": "ショートニング（固形）",
+    "aliases": ["ショートニング", "植物性油脂", "製菓用油脂", "白い油脂"],
+    "summary": "固形ショートニングは精製した植物油から作る白い固形の製菓用油脂で、パイ生地やクッキー、揚げ物に使います。完全に精製され水分をほぼ含まないため、未開封なら購入日から1〜2年、開封後は6〜12か月保存できます。常温保存が可能で、冷蔵は不要です。",
+    "pantry": "ふたをしっかり閉め、コンロや日光から離れた涼しく乾燥した戸棚へ。未開封は購入日から1〜2年、開封後は6〜12か月です。冷蔵は不要ですが、熱は必ず避けてください。温度が高いと酸化が進み、表面から劣化していきます。取り出すときは清潔で乾いたスプーンを使い、表面をならしてからふたを閉めましょう。",
+    "fridge": "冷蔵は必要なく、カチカチに固まって計量も生地への刻み込みもしにくくなります。台所が常時25℃を超えるようなら冷蔵も選択肢ですが、使う前に室温でやわらかく戻してください。",
+    "freezer": "USDAはショートニングの冷凍期間を示しておらず、常温で1〜2年持つため冷凍の必要性は低いです。冷凍する場合はにおい移りを防ぐため密閉し、使用前に冷蔵庫で戻しましょう。",
+    "thawing": null,
+    "spoilage": [
+      "ふたを開けたときの古い油やペンキのようなにおい",
+      "とくに表面が黄色や灰色に変色している",
+      "なめらかさがなく、ざらついたり崩れたりする",
+      "表面にカビの斑点や水がたまっている"
+    ],
+    "tips": [
+      "使うたびに表面をならし、ふたをしっかり閉めて空気との接触を減らしましょう",
+      "使用済みや溶かしたショートニングを容器に戻さないこと",
+      "ふたに開封日を書いて6〜12か月の期限を管理しましょう",
+      "パイを焼く頻度に合った容量を選びましょう"
+    ],
+    "faq": [
+      {"q": "ショートニングは冷蔵が必要ですか？", "a": "不要です。涼しく乾燥した戸棚で未開封1〜2年、開封後6〜12か月。台所が常に暑い場合だけ冷蔵を検討してください。"},
+      {"q": "ショートニングが傷んだか見分けるには？", "a": "においを確認します。古い油やペンキのようなにおい、表面の黄変、カビがあれば処分してください。"},
+      {"q": "開封後のショートニングはどのくらい持ちますか？", "a": "ふたをしっかり閉め表面をならして、涼しく乾燥した戸棚で6〜12か月が目安です。"}
+    ]
+  },
+  "es": {
+    "name": "Manteca vegetal sólida",
+    "aliases": ["grasa vegetal", "manteca vegetal", "shortening", "grasa para repostería", "Crisco"],
+    "summary": "La manteca vegetal sólida es una grasa blanca y firme de aceites vegetales refinados, usada para masas, galletas y frituras. Al estar totalmente refinada y contener casi nada de agua, dura 1–2 años desde la compra sin abrir y 6–12 meses una vez abierto el bote. Es estable en despensa y no necesita refrigeración.",
+    "pantry": "Mantén el bote bien cerrado en un armario fresco y seco, lejos de los fogones y del sol: 1–2 años desde la compra sin abrir y 6–12 meses tras abrirlo. No necesita nevera, pero sí estar lejos del calor, porque el calor acelera la oxidación y la superficie es lo primero que se enrancia. Usa siempre una cuchara limpia y seca y alisa la superficie antes de cerrar.",
+    "fridge": "Refrigerar no es necesario y deja la manteca durísima, difícil de medir y de integrar en la harina. Si tu cocina supera habitualmente los 25 °C, guardarla en la nevera es razonable; déjala ablandar a temperatura ambiente antes de usarla.",
+    "freezer": "El USDA no da un plazo de congelación y hay poco motivo para congelarla, ya que en despensa dura 1–2 años. Si lo haces, ciérrala herméticamente contra los olores del congelador y descongélala en la nevera antes de usarla.",
+    "thawing": null,
+    "spoilage": [
+      "Olor rancio, a pintura o a fruto seco viejo al abrir el bote",
+      "Coloración amarillenta o grisácea, sobre todo en la superficie",
+      "Textura granulosa o desmenuzable en lugar de lisa y cremosa",
+      "Manchas de moho o humedad acumulada en la superficie"
+    ],
+    "tips": [
+      "Alisa la superficie y cierra bien la tapa para limitar el contacto con el aire",
+      "Nunca devuelvas al bote manteca usada o derretida",
+      "Anota la fecha de apertura en la tapa para controlar los 6–12 meses",
+      "Compra el formato acorde a la frecuencia con la que realmente horneas"
+    ],
+    "faq": [
+      {"q": "¿La manteca vegetal necesita refrigeración?", "a": "No. En un armario fresco y seco dura 1–2 años sin abrir y 6–12 meses tras abrirla. Refrigérala solo si tu cocina está siempre muy caliente."},
+      {"q": "¿Cómo saber si la manteca vegetal está mala?", "a": "Huélela. Un olor rancio o a pintura, el amarilleo de la superficie o cualquier moho indican que debe tirarse."},
+      {"q": "¿Cuánto dura la manteca vegetal una vez abierta?", "a": "6–12 meses en un armario fresco y seco, con la tapa bien cerrada y la superficie alisada."}
+    ]
+  }
+}

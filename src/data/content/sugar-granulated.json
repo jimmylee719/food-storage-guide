@@ -1,0 +1,107 @@
+{
+  "slug": "sugar-granulated",
+  "en": {
+    "name": "Granulated sugar",
+    "aliases": ["white sugar", "table sugar", "caster sugar", "refined sugar", "cane sugar"],
+    "summary": "Granulated white sugar is almost pure sucrose with essentially no moisture, which means bacteria and mould cannot grow in it. It keeps indefinitely in the pantry; for best quality, use it within about 2 years of opening, and USDA gives an 18–24 month window after the packet is opened. The only real threats are damp and insects.",
+    "pantry": "Store sugar in an airtight container in a cool, dry cupboard. It does not spoil, but humidity makes it clump and pantry insects will get into a paper bag, so decant it as soon as you get home. For best quality use within 18–24 months of opening. Keep it away from the sink, kettle and any steam.",
+    "fridge": "There is no reason to refrigerate sugar and good reason not to: the cold container attracts condensation each time it is opened, which turns loose sugar into a solid lump. Sugar also picks up fridge odours readily.",
+    "freezer": "Freezing sugar serves no purpose. It does not spoil at room temperature, and freezing only creates the risk of condensation and clumping when the container warms up again.",
+    "thawing": null,
+    "spoilage": [
+      "Hard lumps or a solid block from absorbed moisture",
+      "Ants, weevils or other insects in the container",
+      "Off or musty smell picked up from nearby foods",
+      "Visible mould, which only occurs if the sugar got genuinely wet"
+    ],
+    "tips": [
+      "Decant into a wide airtight jar so you can scoop easily and spot insects early",
+      "Break up small lumps with a fork or blitz briefly in a blender",
+      "Keep the jar away from the sink and rice cooker steam",
+      "Sugar dissolves faster if you measure it into hot liquid rather than cold"
+    ],
+    "faq": [
+      {"q": "Does sugar expire?", "a": "No. Sugar does not spoil and keeps indefinitely in a dry, sealed container. For best quality use it within about 2 years of opening; USDA gives 18–24 months."},
+      {"q": "How do you fix clumped sugar?", "a": "Break it up with a fork, or pulse it briefly in a blender. Then store it in a genuinely airtight container away from steam."},
+      {"q": "Does sugar need to be refrigerated?", "a": "No, and it should not be. The cold causes condensation that turns the sugar into a solid block, and it absorbs fridge odours."}
+    ]
+  },
+  "zh": {
+    "name": "白砂糖",
+    "aliases": ["細砂糖", "白糖", "特砂", "蔗糖", "砂糖"],
+    "summary": "白砂糖幾乎是純蔗糖，基本上不含水分，細菌和黴菌無法生長。它常溫可以無限期保存；為了品質，建議在開封後約 2 年內用完，USDA 給的參考是開封後 18～24 個月。真正的威脅只有受潮和蟲害。",
+    "pantry": "砂糖請裝進密封容器，放在陰涼乾燥的櫥櫃。它不會腐敗，但濕氣會讓它結塊，蟲子也很容易鑽進紙袋，所以買回家就直接分裝。品質最好的期限是開封後 18～24 個月。容器要遠離水槽、熱水瓶和任何蒸氣來源。",
+    "fridge": "沒有理由把砂糖放冰箱，反而有理由不要：冰冷的容器每次打開都會吸附冷凝水氣，鬆散的糖會結成一整塊。砂糖也很會吸冰箱的味道。",
+    "freezer": "冷凍砂糖沒有任何意義。它在常溫下本來就不會壞，冷凍只會在回溫時帶來結露和結塊的風險。",
+    "thawing": null,
+    "spoilage": [
+      "受潮結成硬塊或整片硬化",
+      "容器裡出現螞蟻、米象或其他昆蟲",
+      "吸到旁邊食物的異味或霉味",
+      "看得到黴斑，這只會在真的進水受潮時發生"
+    ],
+    "tips": [
+      "分裝到廣口密封罐，好挖也方便及早發現蟲跡",
+      "小的結塊可以用叉子壓散，或用調理機打幾下",
+      "罐子要遠離水槽和電鍋蒸氣",
+      "量進熱的液體比冷的更快溶解"
+    ],
+    "faq": [
+      {"q": "砂糖會過期嗎？", "a": "不會。砂糖不會腐敗，密封乾燥保存可以無限期存放。為了品質建議開封後約 2 年內用完，USDA 給的參考是 18～24 個月。"},
+      {"q": "砂糖結塊了怎麼辦？", "a": "用叉子壓散，或放進調理機打幾下就好。之後改用真正密封的容器保存，並遠離蒸氣。"},
+      {"q": "砂糖需要冷藏嗎？", "a": "不需要，也不建議。低溫產生的冷凝水氣會讓砂糖結成硬塊，而且它還會吸附冰箱異味。"}
+    ]
+  },
+  "ja": {
+    "name": "上白糖・グラニュー糖",
+    "aliases": ["グラニュー糖", "上白糖", "白砂糖", "精製糖", "砂糖"],
+    "summary": "白い砂糖はほぼ純粋なショ糖で水分をほとんど含まないため、細菌もカビも繁殖できません。常温で無期限に保存でき、品質の面では開封後およそ2年以内、USDAの目安は開封後18〜24か月です。本当の敵は湿気と虫だけです。",
+    "pantry": "密閉容器に入れて涼しく乾燥した戸棚で保存します。腐りませんが、湿気で固まり、紙袋のままだと虫が入るので、買ってきたらすぐ移し替えましょう。品質の目安は開封後18〜24か月。シンクや電気ポットなど湯気の出る場所からは離してください。",
+    "fridge": "砂糖を冷蔵する理由はなく、避けるべき理由ならあります。冷えた容器は開けるたびに結露を呼び、さらさらの砂糖が固い塊になります。においも吸いやすい食品です。",
+    "freezer": "砂糖の冷凍に意味はありません。常温でも傷まないうえ、戻すときに結露して固まるリスクが増えるだけです。",
+    "thawing": null,
+    "spoilage": [
+      "湿気を吸って固まり、塊や板状になっている",
+      "容器の中にアリ、コクゾウムシなどの虫",
+      "近くの食品のにおいやカビ臭がついている",
+      "カビが見える（本当に水が入った場合にのみ起こります）"
+    ],
+    "tips": [
+      "口の広い密閉容器に移すと、すくいやすく虫にも早く気づけます",
+      "小さな固まりはフォークでほぐすか、ミキサーで短時間回して砕きましょう",
+      "容器はシンクや炊飯器の湯気から離して保管を",
+      "冷たい液体より温かい液体のほうが早く溶けます"
+    ],
+    "faq": [
+      {"q": "砂糖に賞味期限はありますか？", "a": "ありません。砂糖は腐らず、乾燥した密閉容器なら無期限に保存できます。品質面では開封後およそ2年、USDAは18〜24か月としています。"},
+      {"q": "固まった砂糖はどうすればいいですか？", "a": "フォークでほぐすか、ミキサーで短時間回して砕いてください。その後は本当に密閉できる容器で、湯気から離して保存を。"},
+      {"q": "砂糖は冷蔵が必要ですか？", "a": "不要ですし、避けるべきです。冷たさによる結露で固まり、冷蔵庫のにおいも吸ってしまいます。"}
+    ]
+  },
+  "es": {
+    "name": "Azúcar blanco granulado",
+    "aliases": ["azúcar blanca", "azúcar de mesa", "azúcar refinada", "azúcar de caña", "azúcar corriente"],
+    "summary": "El azúcar blanco granulado es prácticamente sacarosa pura sin humedad, de modo que ni bacterias ni mohos pueden crecer en él. Se conserva indefinidamente en la despensa; para una calidad óptima úsalo en unos 2 años tras abrirlo, y el USDA da un plazo de 18–24 meses. Sus únicas amenazas reales son la humedad y los insectos.",
+    "pantry": "Guárdalo en un recipiente hermético en un armario fresco y seco. No se estropea, pero la humedad lo apelmaza y los insectos de despensa entran en una bolsa de papel, así que trasvásalo nada más llegar a casa. Para mejor calidad, úsalo en 18–24 meses tras abrirlo. Manténlo lejos del fregadero, del hervidor y de cualquier vapor.",
+    "fridge": "No hay motivo para refrigerar el azúcar y sí para no hacerlo: el envase frío atrae condensación cada vez que se abre, y eso convierte el azúcar suelto en un bloque compacto. Además absorbe con facilidad los olores de la nevera.",
+    "freezer": "Congelar azúcar no sirve de nada. No se estropea a temperatura ambiente, y congelarlo solo añade el riesgo de condensación y grumos cuando el envase se atempera.",
+    "thawing": null,
+    "spoilage": [
+      "Grumos duros o un bloque compacto por humedad absorbida",
+      "Hormigas, gorgojos u otros insectos en el recipiente",
+      "Olor extraño o a humedad absorbido de alimentos cercanos",
+      "Moho visible, que solo aparece si el azúcar se ha mojado de verdad"
+    ],
+    "tips": [
+      "Trasvásalo a un tarro hermético ancho para servirlo fácil y ver pronto cualquier insecto",
+      "Deshaz los grumos pequeños con un tenedor o dale unos golpes de batidora",
+      "Mantén el tarro lejos del fregadero y del vapor de la arrocera",
+      "Se disuelve antes si lo mides sobre un líquido caliente que sobre uno frío"
+    ],
+    "faq": [
+      {"q": "¿El azúcar caduca?", "a": "No. El azúcar no se estropea y dura indefinidamente en un envase seco y hermético. Para mejor calidad úsalo en unos 2 años tras abrirlo; el USDA da 18–24 meses."},
+      {"q": "¿Cómo se arregla el azúcar apelmazado?", "a": "Deshazlo con un tenedor o dale unos pulsos en la batidora. Después guárdalo en un recipiente realmente hermético, lejos del vapor."},
+      {"q": "¿El azúcar necesita refrigeración?", "a": "No, y no conviene. El frío causa condensación que lo convierte en un bloque sólido, y además absorbe olores de la nevera."}
+    ]
+  }
+}

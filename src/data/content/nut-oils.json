@@ -1,0 +1,107 @@
+{
+  "slug": "nut-oils",
+  "en": {
+    "name": "Nut oils",
+    "aliases": ["walnut oil", "sesame oil", "hazelnut oil", "almond oil", "peanut oil"],
+    "summary": "Nut oils such as walnut, hazelnut, almond and toasted sesame are rich in delicate polyunsaturated fats, which makes them wonderfully aromatic but quick to go rancid. Unopened they keep 6–12 months from the date of purchase in a cool, dark cupboard; after opening, 3–8 months. Refrigerated after opening, they keep 6–8 months.",
+    "pantry": "Keep the bottle upright in a cool, dark cupboard, well away from the stove and any window: 6–12 months from purchase unopened, 3–8 months after opening. Nut oils oxidise faster than olive or vegetable oil, so buy small bottles and close the cap tightly every time. Dark glass or tin protects them far better than clear plastic.",
+    "fridge": "The fridge is the better choice for an opened bottle of nut oil, giving 6–8 months at 4 °C (40 °F) or below. The oil may thicken or cloud in the cold, which is harmless — let it stand at room temperature for a few minutes and it pours normally again. Keep the cap tight so it does not absorb fridge odours.",
+    "freezer": "USDA gives no freezer timeline for nut oils, and freezing is not needed given the long fridge window. Repeatedly moving a bottle in and out of the freezer causes condensation inside, which does the oil no favours.",
+    "thawing": null,
+    "spoilage": [
+      "Sharp, paint-like or stale nut smell instead of a warm, toasty aroma",
+      "Bitter or scratchy taste at the back of the throat",
+      "Sticky, gummy residue around the cap and neck",
+      "Darkened colour or heavy sediment that does not clear"
+    ],
+    "tips": [
+      "Buy the smallest bottle you can — nut oils are finishing oils, not everyday frying oils",
+      "Refrigerate from the day you open the bottle",
+      "Use them raw or added at the end of cooking; high heat destroys the aroma",
+      "Write the opening date on the bottle to track the 3–8 month window"
+    ],
+    "faq": [
+      {"q": "Should nut oils be refrigerated?", "a": "Yes, once opened. At 4 °C (40 °F) or below they keep 6–8 months, compared with 3–8 months in the cupboard. Cloudiness in the cold is harmless."},
+      {"q": "How can you tell if sesame or walnut oil has gone bad?", "a": "Smell it. A sharp, paint-like or stale smell instead of a warm nutty aroma means it is rancid, and the taste will be bitter."},
+      {"q": "How long do nut oils last?", "a": "6–12 months from purchase unopened. After opening, 3–8 months in a cool, dark cupboard or 6–8 months in the fridge."}
+    ]
+  },
+  "zh": {
+    "name": "堅果油",
+    "aliases": ["核桃油", "芝麻油", "香油", "榛果油", "杏仁油", "花生油"],
+    "summary": "核桃油、榛果油、杏仁油和焙煎芝麻油等堅果油富含細緻的多元不飽和脂肪，香氣迷人，但也特別容易氧化。未開封放在陰涼避光的櫥櫃，從購買日起可放 6～12 個月；開封後 3～8 個月。開封後冷藏則可放 6～8 個月。",
+    "pantry": "瓶子直立放在陰涼避光的櫥櫃，遠離爐火和窗邊：未開封從購買日起 6～12 個月，開封後 3～8 個月。堅果油氧化的速度比橄欖油和一般植物油快，所以請買小瓶，每次用完都把蓋子鎖緊。深色玻璃瓶或鐵罐的保護效果遠勝透明塑膠瓶。",
+    "fridge": "開封後的堅果油放冰箱比較好，4°C 以下可保存 6～8 個月。低溫下油可能變稠或變混濁，這是正常的，放室溫幾分鐘就會恢復流動。蓋子要鎖緊，避免吸到冰箱異味。",
+    "freezer": "USDA 沒有提供堅果油的冷凍期限，而且冷藏期限已經夠長，並不需要冷凍。反覆進出冷凍庫還會讓瓶內結露，對油沒有好處。",
+    "thawing": null,
+    "spoilage": [
+      "聞起來刺鼻、像油漆或陳舊堅果味，而不是溫潤的焙香",
+      "嚐起來苦，或在喉嚨後方有刺刺的感覺",
+      "瓶蓋和瓶口周圍有黏膩的殘留",
+      "顏色變深，或出現不會消散的大量沉澱"
+    ],
+    "tips": [
+      "買最小瓶的規格，堅果油是提香用油，不是每天炸東西的油",
+      "開封當天就直接放冰箱保存",
+      "生食使用或起鍋前才淋，高溫會破壞香氣",
+      "在瓶身寫開封日期，追蹤 3～8 個月的期限"
+    ],
+    "faq": [
+      {"q": "堅果油需要冷藏嗎？", "a": "開封後建議冷藏。放 4°C 以下可保存 6～8 個月，比放櫥櫃的 3～8 個月更久。冷藏後變混濁是正常現象。"},
+      {"q": "怎麼知道香油或核桃油壞了？", "a": "聞味道就知道。如果不是溫潤的堅果焙香，而是刺鼻、像油漆或陳舊的味道，就是氧化了，吃起來也會發苦。"},
+      {"q": "堅果油可以放多久？", "a": "未開封從購買日起 6～12 個月。開封後放陰涼避光處 3～8 個月，冷藏則 6～8 個月。"}
+    ]
+  },
+  "ja": {
+    "name": "ナッツオイル（くるみ油・ごま油など）",
+    "aliases": ["ごま油", "くるみ油", "ヘーゼルナッツオイル", "アーモンドオイル", "ピーナッツオイル"],
+    "summary": "くるみ、ヘーゼルナッツ、アーモンド、焙煎ごまなどのナッツオイルは繊細な多価不飽和脂肪酸が多く、香りは素晴らしい一方で酸化が早いのが特徴です。未開封なら涼しく暗い場所で購入日から6〜12か月、開封後は3〜8か月。開封後に冷蔵すれば6〜8か月保存できます。",
+    "pantry": "ボトルは立てて、コンロや窓辺から離れた涼しく暗い戸棚へ。未開封は購入日から6〜12か月、開封後は3〜8か月です。オリーブオイルや一般的な植物油より酸化が早いので、小さいボトルを選び、毎回キャップをしっかり閉めましょう。透明なプラスチックより遮光瓶や缶のほうがはるかに守ってくれます。",
+    "fridge": "開封後は冷蔵が向いており、4℃以下で6〜8か月保存できます。冷えるととろみが出たり白濁したりしますが無害で、室温に数分置けば元通り注げます。においが移らないようキャップはしっかり閉めてください。",
+    "freezer": "USDAはナッツオイルの冷凍期間を示しておらず、冷蔵で十分長く持つため必要もありません。冷凍庫への出し入れを繰り返すとボトル内で結露が起き、油にとって逆効果です。",
+    "thawing": null,
+    "spoilage": [
+      "香ばしい香りではなく、ツンとしたペンキのような古いにおいがする",
+      "苦みや、のどの奥に刺さるようなえぐみがある",
+      "キャップや口まわりにベタつく残りがある",
+      "色が濃くなり、消えない沈殿が出ている"
+    ],
+    "tips": [
+      "毎日の揚げ油ではなく仕上げ用の油です。できるだけ小容量を選びましょう",
+      "開封した日から冷蔵庫で保存を",
+      "生で使うか仕上げに回しかけて。高温加熱は香りを飛ばします",
+      "ボトルに開封日を書いて3〜8か月の期限を管理しましょう"
+    ],
+    "faq": [
+      {"q": "ナッツオイルは冷蔵すべきですか？", "a": "開封後は冷蔵をおすすめします。4℃以下で6〜8か月持ち、戸棚の3〜8か月より長く保てます。白濁は無害です。"},
+      {"q": "ごま油やくるみ油が傷んだか見分けるには？", "a": "においで分かります。香ばしさがなく、ツンとしたペンキのような古いにおいなら酸化しており、味も苦くなります。"},
+      {"q": "ナッツオイルはどのくらい日持ちしますか？", "a": "未開封は購入日から6〜12か月。開封後は涼しく暗い場所で3〜8か月、冷蔵なら6〜8か月です。"}
+    ]
+  },
+  "es": {
+    "name": "Aceites de frutos secos",
+    "aliases": ["aceite de nuez", "aceite de sésamo", "aceite de avellana", "aceite de almendra", "aceite de cacahuete"],
+    "summary": "Los aceites de frutos secos —nuez, avellana, almendra o sésamo tostado— son ricos en grasas poliinsaturadas delicadas, lo que los hace muy aromáticos pero también rápidos de enranciar. Sin abrir duran 6–12 meses desde la compra en un armario fresco y oscuro; abiertos, 3–8 meses. Refrigerados tras abrirlos, 6–8 meses.",
+    "pantry": "Guarda la botella de pie en un armario fresco y oscuro, lejos de los fogones y de cualquier ventana: 6–12 meses desde la compra sin abrir y 3–8 meses abierta. Se oxidan más deprisa que el aceite de oliva o de girasol, así que compra botellas pequeñas y cierra bien el tapón cada vez. El vidrio oscuro o la lata protegen mucho mejor que el plástico transparente.",
+    "fridge": "La nevera es la mejor opción para una botella abierta, con 6–8 meses a 4 °C (40 °F) o menos. El aceite puede espesar o enturbiarse con el frío, algo inofensivo: unos minutos a temperatura ambiente y vuelve a fluir. Mantén el tapón bien cerrado para que no absorba olores.",
+    "freezer": "El USDA no da un plazo de congelación para estos aceites, y no hace falta dado el largo plazo en nevera. Entrar y salir del congelador repetidamente genera condensación dentro de la botella, lo que perjudica al aceite.",
+    "thawing": null,
+    "spoilage": [
+      "Olor punzante, a pintura o a fruto seco viejo en lugar de tostado y cálido",
+      "Sabor amargo o que raspa en la garganta",
+      "Residuo pegajoso alrededor del tapón y del cuello",
+      "Color oscurecido o poso abundante que no se aclara"
+    ],
+    "tips": [
+      "Compra la botella más pequeña posible: son aceites de acabado, no para freír a diario",
+      "Refrigéralos desde el día que abres la botella",
+      "Úsalos en crudo o al final de la cocción; el calor fuerte destruye el aroma",
+      "Anota la fecha de apertura para controlar los 3–8 meses"
+    ],
+    "faq": [
+      {"q": "¿Hay que refrigerar los aceites de frutos secos?", "a": "Sí, una vez abiertos. A 4 °C (40 °F) o menos duran 6–8 meses, frente a 3–8 meses en el armario. La turbidez por el frío es inofensiva."},
+      {"q": "¿Cómo saber si el aceite de sésamo o de nuez está malo?", "a": "Huélelo. Si en lugar de un aroma cálido a fruto seco huele punzante, a pintura o a viejo, está rancio y sabrá amargo."},
+      {"q": "¿Cuánto duran los aceites de frutos secos?", "a": "6–12 meses desde la compra sin abrir. Tras abrirlos, 3–8 meses en un armario fresco y oscuro o 6–8 meses en la nevera."}
+    ]
+  }
+}

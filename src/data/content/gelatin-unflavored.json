@@ -1,0 +1,107 @@
+{
+  "slug": "gelatin-unflavored",
+  "en": {
+    "name": "Unflavoured gelatin",
+    "aliases": ["gelatine powder", "leaf gelatin", "gelatin sheets", "plain gelatin", "setting agent"],
+    "summary": "Unflavoured gelatin is pure dried collagen, sold as a fine powder or as leaves, used to set panna cotta, mousses and aspics. It is almost entirely protein with no fat and no moisture, so it keeps about 3 years from the date of purchase in a cool, dry cupboard. It does not need refrigeration.",
+    "pantry": "A cool, dry, dark cupboard is all it needs: about 3 years from purchase. Keep sachets and leaves in an airtight container away from the stove, kettle and sink, because damp gelatin clumps and loses setting power. Leaf gelatin is brittle, so store the sheets flat in a rigid box rather than loose in a drawer.",
+    "fridge": "The dry powder or leaves do not need to be refrigerated, and cold storage risks condensation that makes the gelatin clump. Anything you have set with gelatin — panna cotta, mousse, aspic — is a different matter and must be kept at 4 °C (40 °F) or below.",
+    "freezer": "Freezing dry gelatin serves no purpose and only risks moisture damage. Desserts already set with gelatin freeze poorly too: the gel network breaks and the dessert weeps when thawed.",
+    "thawing": null,
+    "spoilage": [
+      "Hard clumps or a caked block in the sachet",
+      "Musty, sour or unusually strong smell",
+      "Yellowed or discoloured leaves that crumble to dust",
+      "Mixture that will not set even when made to the correct ratio"
+    ],
+    "tips": [
+      "Always bloom powder in cold water first, then dissolve it gently — never boil it",
+      "Store leaves flat in a rigid airtight box so they do not shatter",
+      "Fresh pineapple, kiwi, papaya, mango and ginger contain enzymes that prevent setting",
+      "Label the container with the purchase date to track the 3-year window"
+    ],
+    "faq": [
+      {"q": "How long does unflavoured gelatin last?", "a": "About 3 years from purchase, stored airtight in a cool, dry cupboard. Older gelatin usually still works but may set less firmly."},
+      {"q": "Does gelatin need to be refrigerated?", "a": "No. The dry powder or leaves keep at room temperature in a sealed container. Anything you set with gelatin must be refrigerated at 4 °C (40 °F) or below."},
+      {"q": "Why did my gelatin not set?", "a": "The usual causes are boiling it, using too little for the volume of liquid, or adding raw pineapple, kiwi, papaya, mango or fresh ginger, whose enzymes break down the protein."}
+    ]
+  },
+  "zh": {
+    "name": "無調味吉利丁",
+    "aliases": ["吉利丁粉", "吉利丁片", "明膠", "魚膠粉", "gelatin"],
+    "summary": "無調味吉利丁是純化的乾燥膠原蛋白，有粉狀和片狀兩種，用來製作奶酪、慕斯和肉凍。它幾乎全是蛋白質，不含油脂也不含水分，所以放在陰涼乾燥的櫥櫃，從購買日起約可保存 3 年，不需要冷藏。",
+    "pantry": "陰涼乾燥的暗處櫥櫃就夠了，從購買日起約可放 3 年。小包和吉利丁片請裝在密封容器中，遠離爐火、熱水瓶和水槽，因為受潮的吉利丁會結塊、凝固力下降。吉利丁片很脆，請平放在硬盒裡，不要散放在抽屜。",
+    "fridge": "乾的粉或片都不需要冷藏，低溫還可能凝結水氣造成結塊。但用吉利丁做好的甜點，例如奶酪、慕斯、肉凍，就必須放在 4°C 以下保存。",
+    "freezer": "冷凍乾燥吉利丁沒有任何意義，只會增加受潮的風險。已經凝固的吉利丁甜點也不適合冷凍：膠體網絡會被破壞，解凍後會嚴重出水。",
+    "thawing": null,
+    "spoilage": [
+      "袋子裡結成硬塊或整片硬化",
+      "有霉味、酸味或不尋常的濃重氣味",
+      "吉利丁片變黃、變色，一碰就碎成粉",
+      "照正確比例製作卻完全不凝固"
+    ],
+    "tips": [
+      "粉狀一定要先用冷水泡開，再隔水加熱溶解，千萬不要煮沸",
+      "吉利丁片平放在硬質密封盒中，才不會碎裂",
+      "新鮮鳳梨、奇異果、木瓜、芒果和薑含有酵素，會讓吉利丁無法凝固",
+      "在容器上標明購買日期，方便追蹤 3 年的期限"
+    ],
+    "faq": [
+      {"q": "吉利丁可以放多久？", "a": "密封放在陰涼乾燥的櫥櫃，從購買日起約 3 年。放更久通常還能用，只是凝固力可能變弱。"},
+      {"q": "吉利丁需要冷藏嗎？", "a": "不需要。乾的粉或片密封常溫保存即可。但用它做好的甜點必須放 4°C 以下冷藏。"},
+      {"q": "為什麼我的吉利丁不凝固？", "a": "常見原因是煮沸過頭、用量相對液體太少，或加了生的鳳梨、奇異果、木瓜、芒果或新鮮薑，這些食材的酵素會分解膠原蛋白。"}
+    ]
+  },
+  "ja": {
+    "name": "粉ゼラチン（無味）",
+    "aliases": ["ゼラチン", "板ゼラチン", "顆粒ゼラチン", "ゼラチンリーフ"],
+    "summary": "無味のゼラチンは乾燥させた純粋なコラーゲンで、粉末と板状があり、パンナコッタやムース、ゼリー寄せを固めるのに使います。ほぼたんぱく質のみで脂質も水分も含まないため、涼しく乾燥した場所で購入日から約3年保存できます。冷蔵は不要です。",
+    "pantry": "涼しく乾燥した暗い戸棚があれば十分で、購入日から約3年が目安です。小袋や板ゼラチンは密閉容器に入れ、コンロ・電気ポット・シンクから離してください。湿気を吸うと固まり、凝固力が落ちます。板ゼラチンは割れやすいので、引き出しにばらで入れず硬いケースに平らに保管しましょう。",
+    "fridge": "乾いた粉や板は冷蔵不要で、むしろ結露で固まるリスクがあります。ゼラチンで固めたパンナコッタやムース、煮こごりなどは別で、必ず4℃以下で保存してください。",
+    "freezer": "乾燥ゼラチンを冷凍する意味はなく、湿気による劣化のリスクだけが残ります。ゼラチンで固めたデザートも冷凍には不向きで、解凍時にゲルが壊れて水が出ます。",
+    "thawing": null,
+    "spoilage": [
+      "袋の中で固まって塊になっている",
+      "カビ臭、酸っぱいにおい、異常に強いにおい",
+      "板ゼラチンが黄ばみ、触ると粉々に崩れる",
+      "正しい分量で作っても固まらない"
+    ],
+    "tips": [
+      "粉は必ず冷水でふやかしてから穏やかに溶かし、沸騰させないこと",
+      "板ゼラチンは硬い密閉ケースに平らに保管して割れを防ぎましょう",
+      "生のパイナップル、キウイ、パパイヤ、マンゴー、しょうがは酵素で固まらなくします",
+      "容器に購入日を書いて3年の期限を管理しましょう"
+    ],
+    "faq": [
+      {"q": "ゼラチンはどのくらい日持ちしますか？", "a": "密閉して涼しく乾燥した場所で購入日から約3年です。それ以上でも使えることが多いですが、固まりが弱くなることがあります。"},
+      {"q": "ゼラチンは冷蔵が必要ですか？", "a": "不要です。乾いた粉や板は密閉して常温で保存を。ゼラチンで固めたものは4℃以下で冷蔵してください。"},
+      {"q": "ゼラチンが固まらないのはなぜですか？", "a": "沸騰させた、液体量に対して量が少なかった、または生のパイナップル・キウイ・パパイヤ・マンゴー・しょうがを加えたことが主な原因です。これらの酵素がたんぱく質を分解します。"}
+    ]
+  },
+  "es": {
+    "name": "Gelatina sin sabor",
+    "aliases": ["grenetina", "gelatina neutra", "colas de pescado", "hojas de gelatina", "gelatina en polvo"],
+    "summary": "La gelatina sin sabor es colágeno seco puro, en polvo fino o en hojas, que sirve para cuajar panna cotta, mousses y áspics. Es prácticamente proteína, sin grasa ni humedad, así que dura alrededor de 3 años desde la compra en un armario fresco y seco. No necesita refrigeración.",
+    "pantry": "Solo necesita un armario fresco, seco y oscuro: alrededor de 3 años desde la compra. Guarda sobres y hojas en un recipiente hermético lejos de los fogones, el hervidor y el fregadero, porque la gelatina húmeda se apelmaza y pierde poder de cuajado. Las hojas son frágiles: consérvalas planas en una caja rígida y no sueltas en un cajón.",
+    "fridge": "El polvo y las hojas secas no necesitan nevera, y el frío arriesga condensación que las apelmaza. Lo que hayas cuajado con gelatina —panna cotta, mousse, áspic— es otra cosa y debe mantenerse a 4 °C (40 °F) o menos.",
+    "freezer": "Congelar gelatina seca no sirve de nada y solo arriesga daños por humedad. Los postres ya cuajados tampoco se congelan bien: la red del gel se rompe y el postre suelta agua al descongelarse.",
+    "thawing": null,
+    "spoilage": [
+      "Grumos duros o un bloque compacto en el sobre",
+      "Olor a humedad, agrio o inusualmente fuerte",
+      "Hojas amarillentas o decoloradas que se deshacen en polvo",
+      "Preparación que no cuaja aun usando la proporción correcta"
+    ],
+    "tips": [
+      "Hidrata siempre el polvo en agua fría y luego disuélvelo con calor suave: nunca lo hiervas",
+      "Guarda las hojas planas en una caja rígida hermética para que no se quiebren",
+      "La piña, el kiwi, la papaya, el mango y el jengibre frescos impiden el cuajado por sus enzimas",
+      "Etiqueta el recipiente con la fecha de compra para controlar los 3 años"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la gelatina sin sabor?", "a": "Alrededor de 3 años desde la compra, bien cerrada en un armario fresco y seco. Más vieja suele seguir funcionando, aunque cuaje con menos firmeza."},
+      {"q": "¿La gelatina necesita refrigeración?", "a": "No. El polvo o las hojas se conservan a temperatura ambiente en un envase cerrado. Lo cuajado con gelatina sí debe refrigerarse a 4 °C (40 °F) o menos."},
+      {"q": "¿Por qué no cuajó mi gelatina?", "a": "Las causas habituales son hervirla, usar poca cantidad para el volumen de líquido, o añadir piña, kiwi, papaya, mango o jengibre crudos, cuyas enzimas degradan la proteína."}
+    ]
+  }
+}
