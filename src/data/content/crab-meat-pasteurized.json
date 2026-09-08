@@ -1,0 +1,107 @@
+{
+  "slug": "crab-meat-pasteurized",
+  "en": {
+    "name": "Crab meat (pasteurized)",
+    "aliases": ["pasteurized crabmeat", "canned refrigerated crab meat", "lump crab in a can", "jumbo lump crab meat"],
+    "summary": "Pasteurized crab meat is cooked crab that has been sealed in cans or plastic tubs and heat-treated, then sold from the refrigerated case rather than the shelf. Unopened it keeps 10–12 months in the fridge from purchase; once opened, use it within 3–5 days. It can also be frozen for 4–10 months.",
+    "pantry": "Despite the can, pasteurized crab meat is not shelf-stable and must stay refrigerated at all times. Do not leave it out for more than 2 hours, or 1 hour above 32 °C (90 °F). If you find it on a store shelf at room temperature, it has been mishandled.",
+    "fridge": "Keep the unopened can or tub at or below 4 °C (40 °F) and it will last 10–12 months from purchase; always check the printed date. After opening, transfer any leftover meat to an airtight container and use it within 3–5 days. Store it towards the back of the fridge, not in the door.",
+    "freezer": "You can freeze pasteurized crab meat for 4–10 months at −18 °C (0 °F). Freezing in the original sealed container is fine for plastic tubs; for cans, move the meat to freezer bags or airtight containers first. Quality slowly declines with time, but the meat stays safe as long as it remains frozen.",
+    "thawing": "Thaw in the fridge overnight and use within 3–5 days, treating it like an opened container. Cold-water thawing in a sealed bag also works; never thaw at room temperature.",
+    "spoilage": [
+      "Bulging, leaking or rusted can, or a tub with a swollen lid",
+      "Sour, ammonia-like or off smell when opened",
+      "Grey, yellow or dark discolouration instead of white and red-tinged meat",
+      "Slimy texture or cloudy liquid in the container"
+    ],
+    "tips": [
+      "Buy it only from the refrigerated seafood case and check the use-by date",
+      "Note the opening date on the lid so you know when the 3–5 days are up",
+      "For crab cakes or salads, drain well and pick out any shell fragments before mixing",
+      "Freeze leftovers promptly in small portions if you will not finish the tub in a few days"
+    ],
+    "faq": [
+      {"q": "Can you freeze pasteurized crab meat?", "a": "Yes. Sealed plastic tubs can go straight into the freezer; canned meat should be moved to freezer bags. It keeps best quality for 4–10 months at −18 °C (0 °F)."},
+      {"q": "How long does pasteurized crab meat last in the fridge?", "a": "Unopened, 10–12 months from purchase at or below 4 °C (40 °F). Once opened, use it within 3–5 days."},
+      {"q": "Does pasteurized crab meat need to be refrigerated?", "a": "Yes, always. Pasteurization extends its life but does not make it shelf-stable, so keep it in the fridge before and after opening."}
+    ]
+  },
+  "zh": {
+    "name": "蟹肉（巴氏殺菌罐裝）",
+    "aliases": ["殺菌蟹肉", "冷藏蟹肉罐頭", "蟹肉罐", "蟹肉塊罐裝", "低溫殺菌蟹肉"],
+    "summary": "巴氏殺菌蟹肉是煮熟的蟹肉裝進罐頭或塑膠盒後經過低溫加熱殺菌，需要冷藏販售，而不是放在常溫貨架上。未開封冷藏可放 10～12 個月（自購買日起），開封後 3～5 天內吃完；也可以冷凍 4～10 個月。",
+    "pantry": "雖然裝在罐子裡，殺菌蟹肉並不是常溫保存的食品，必須全程冷藏。離開冰箱不要超過 2 小時（室溫高於 32 °C 時不超過 1 小時）。如果在店裡看到放在常溫貨架上，代表保存方式不對。",
+    "fridge": "未開封的罐或盒放在 4 °C 以下冷藏，自購買日起可放 10～12 個月，記得查看包裝上的日期。開封後把剩下的蟹肉移到密封盒，3～5 天內吃完。放在冰箱深處，不要放冰箱門邊。",
+    "freezer": "可以在 −18 °C 冷凍 4～10 個月。塑膠盒密封未開封可直接冷凍；罐裝的請先移到冷凍袋或密封盒。時間越久品質會慢慢下降，但只要保持冷凍就仍然安全。",
+    "thawing": "放冷藏室解凍一晚，解凍後視同開封，3～5 天內用完。也可以連密封袋泡冷水解凍，切勿放在室溫下解凍。",
+    "spoilage": [
+      "罐身鼓起、滲漏或生鏽，盒蓋膨脹",
+      "打開時有酸味、氨味或異味",
+      "蟹肉變灰、變黃或發黑，失去白色帶紅的色澤",
+      "口感黏滑，或盒內的汁液混濁"
+    ],
+    "tips": [
+      "只在冷藏海鮮櫃購買，並確認有效日期",
+      "開封時在蓋子上寫日期，才知道 3～5 天的期限到什麼時候",
+      "做蟹肉餅或沙拉時先瀝乾，並挑掉碎殼",
+      "幾天內吃不完的話，盡早分裝成小份冷凍"
+    ],
+    "faq": [
+      {"q": "殺菌蟹肉罐頭可以冷凍嗎？", "a": "可以。密封的塑膠盒可直接冷凍，罐裝的請先移到冷凍袋。在 −18 °C 下 4～10 個月內風味最佳。"},
+      {"q": "殺菌蟹肉放冰箱可以放多久？", "a": "未開封在 4 °C 以下可放 10～12 個月（自購買日起）。開封後 3～5 天內要吃完。"},
+      {"q": "殺菌蟹肉一定要冷藏嗎？", "a": "一定要。巴氏殺菌延長了保存期限，但不能常溫保存，開封前後都要放冰箱。"}
+    ]
+  },
+  "ja": {
+    "name": "かにのむき身（低温殺菌・冷蔵缶）",
+    "aliases": ["パスチャライズかに", "冷蔵かに缶", "殺菌かにむき身", "ランプクラブミート", "冷蔵クラブミート"],
+    "summary": "低温殺菌のかにむき身は、ゆでたかにの身を缶やプラスチック容器に密封して加熱殺菌したもので、常温棚ではなく冷蔵ケースで売られています。未開封なら購入から10〜12か月冷蔵でき、開封後は3〜5日で使い切ります。冷凍なら4〜10か月が目安です。",
+    "pantry": "缶入りでも常温保存はできず、常に冷蔵が必要です。冷蔵庫の外に2時間以上（室温32 °C超なら1時間以上）置かないでください。店の常温棚に並んでいるものは、正しく扱われていない可能性があります。",
+    "fridge": "未開封の缶や容器は4 °C以下で保存すれば、購入から10〜12か月持ちます。必ず表示の期限も確認してください。開封後は残りを密閉容器に移し、3〜5日以内に使い切ります。ドアポケットではなく庫内の奥に置きましょう。",
+    "freezer": "−18 °Cで4〜10か月を目安に冷凍できます。未開封のプラスチック容器はそのまま冷凍でき、缶入りは冷凍用保存袋や密閉容器に移してから凍らせます。時間とともに品質は落ちますが、凍ったままなら安全性は保たれます。",
+    "thawing": "冷蔵庫で一晩かけて解凍し、開封済みと同じ扱いで3〜5日以内に使います。密封したまま冷水に浸けて解凍しても構いません。室温で解凍しないでください。",
+    "spoilage": [
+      "缶が膨らんでいる、液漏れや錆がある、容器のふたが膨張している",
+      "開けたときに酸っぱいにおいやアンモニア臭、異臭がする",
+      "白〜赤みがかった色ではなく、灰色・黄色・黒っぽく変色している",
+      "ぬめりがある、容器の中の液が濁っている"
+    ],
+    "tips": [
+      "必ず冷蔵の鮮魚コーナーで買い、期限表示を確認する",
+      "開封日をふたに書いておくと、3〜5日の目安が分かりやすい",
+      "かにクリームコロッケやサラダに使うときは、よく水気を切り殻のかけらを取り除く",
+      "数日で使い切れないときは、早めに小分けして冷凍する"
+    ],
+    "faq": [
+      {"q": "低温殺菌のかに缶（冷蔵）は冷凍できますか？", "a": "できます。未開封のプラスチック容器はそのまま、缶入りは冷凍用保存袋に移して−18 °Cで冷凍すれば、4〜10か月おいしく保てます。"},
+      {"q": "冷蔵のかに缶は冷蔵庫でどのくらい持ちますか？", "a": "未開封なら4 °C以下で購入から10〜12か月です。開封後は3〜5日以内に使い切ってください。"},
+      {"q": "低温殺菌のかにむき身は冷蔵が必要ですか？", "a": "はい、常に必要です。低温殺菌で日持ちは延びますが常温保存はできないので、開封前も後も冷蔵庫に入れてください。"}
+    ]
+  },
+  "es": {
+    "name": "Carne de cangrejo pasteurizada",
+    "aliases": ["cangrejo pasteurizado en lata", "carne de cangrejo refrigerada en lata", "pulpa de cangrejo pasteurizada", "carne de jaiba pasteurizada"],
+    "summary": "La carne de cangrejo pasteurizada es cangrejo cocido que se envasa en latas o tarrinas selladas y se somete a un tratamiento térmico suave, por lo que se vende en el mostrador refrigerado y no en el estante. Sin abrir dura 10–12 meses en el refrigerador desde la compra; una vez abierta, consúmela en 3–5 días. También se puede congelar 4–10 meses.",
+    "pantry": "Aunque venga en lata, la carne de cangrejo pasteurizada no es un producto de estante y debe permanecer siempre refrigerada. No la dejes fuera más de 2 horas, o más de 1 hora si hace más de 32 °C (90 °F). Si la ves en un estante a temperatura ambiente, no se ha conservado correctamente.",
+    "fridge": "Guarda la lata o tarrina sin abrir a 4 °C (40 °F) o menos y durará 10–12 meses desde la compra; revisa siempre la fecha impresa. Después de abrirla, pasa el sobrante a un recipiente hermético y úsalo en 3–5 días. Colócala al fondo del refrigerador, no en la puerta.",
+    "freezer": "Puedes congelarla 4–10 meses a −18 °C (0 °F). Las tarrinas de plástico selladas van directas al congelador; si es lata, pasa la carne primero a bolsas de congelación o recipientes herméticos. La calidad baja poco a poco, pero sigue siendo segura mientras esté congelada.",
+    "thawing": "Descongela en el refrigerador durante la noche y úsala en 3–5 días, como si fuera un envase abierto. También sirve sumergirla cerrada en agua fría; nunca la descongeles a temperatura ambiente.",
+    "spoilage": [
+      "Lata abombada, con fugas u oxidada, o tarrina con la tapa hinchada",
+      "Olor agrio, a amoníaco o extraño al abrirla",
+      "Color gris, amarillo u oscuro en lugar de blanco con tonos rojizos",
+      "Textura viscosa o líquido turbio dentro del envase"
+    ],
+    "tips": [
+      "Cómprala solo en la vitrina refrigerada de pescadería y revisa la fecha de caducidad",
+      "Anota la fecha de apertura en la tapa para controlar los 3–5 días",
+      "Para pasteles de cangrejo o ensaladas, escúrrela bien y retira restos de caparazón",
+      "Si no vas a terminarla en pocos días, congela el sobrante en porciones pequeñas"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la carne de cangrejo pasteurizada?", "a": "Sí. Las tarrinas selladas pueden ir directas al congelador; la carne en lata debe pasarse a bolsas de congelación. Mantiene su mejor calidad 4–10 meses a −18 °C (0 °F)."},
+      {"q": "¿Cuánto dura la carne de cangrejo pasteurizada en el refrigerador?", "a": "Sin abrir, 10–12 meses desde la compra a 4 °C (40 °F) o menos. Una vez abierta, consúmela en 3–5 días."},
+      {"q": "¿La carne de cangrejo pasteurizada necesita refrigeración?", "a": "Sí, siempre. La pasteurización alarga su vida útil, pero no la convierte en un producto de estante, así que debe estar en el refrigerador antes y después de abrirla."}
+    ]
+  }
+}

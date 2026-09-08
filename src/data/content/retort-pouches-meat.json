@@ -1,0 +1,107 @@
+{
+  "slug": "retort-pouches-meat",
+  "en": {
+    "name": "Retort pouches or boxes (meat)",
+    "aliases": ["shelf-stable pouch meals", "ready-to-eat meat pouches", "aseptic boxes", "MRE-style pouches", "microwave pouch meals"],
+    "summary": "Retort pouches and aseptic boxes are flexible, sealed packages of cooked meat dishes, stews or curries that have been heat-sterilised like a can, so they are shelf-stable until opened. Store the sealed pouch in the pantry until its best-by date. Once opened, refrigerate any leftovers and use them within 3 to 4 days.",
+    "pantry": "Keep sealed pouches and boxes in a cool, dry cupboard away from heat and sharp objects that could puncture the film; USDA gives no fixed pantry timeline, so go by the manufacturer's best-by date. Do not stack heavy items on top, as crushing can stress the seams. A pouch that is swollen, leaking or has a broken seal should be thrown out without tasting.",
+    "fridge": "After opening, move leftovers out of the pouch into a covered container and refrigerate at or below 4 °C (40 °F). Use them within 3 to 4 days, the same as any cooked leftover. Reheat to steaming hot (74 °C / 165 °F) before serving a second time.",
+    "freezer": "The sealed pouch does not need freezing, and freezing may weaken the seal. Opened leftovers can be frozen in an airtight container at −18 °C (0 °F); they stay safe indefinitely, though sauces may separate and meat may dry out a little, so use within 2 to 3 months for the best quality.",
+    "thawing": "Thaw frozen leftovers in the fridge overnight or in the microwave, then reheat thoroughly. Do not thaw at room temperature.",
+    "spoilage": [
+      "A puffed, bloated or leaking pouch, or a seam that peels open by itself",
+      "A sour, off or metallic smell when the pouch is opened",
+      "Mould, slime or an unusual colour on the contents",
+      "Opened leftovers that smell or look different after a few days in the fridge"
+    ],
+    "tips": [
+      "Check the pouch for pinholes or seam damage before buying and again before opening",
+      "Write the opening date on the container so leftovers are used within 3 to 4 days",
+      "Follow the package heating instructions; most pouches can be warmed in boiling water or the microwave, but not directly on a flame",
+      "Rotate stock so the oldest pouches are eaten first"
+    ],
+    "faq": [
+      {"q": "Can you freeze retort pouch meals?", "a": "Freeze only opened leftovers, in an airtight container at −18 °C (0 °F). The sealed pouch is shelf-stable and freezing it is unnecessary."},
+      {"q": "How can you tell if a retort pouch has gone bad?", "a": "Discard a pouch that is swollen, leaking or has a broken seal, and any contents that smell sour, look mouldy or feel slimy. Never taste to check."},
+      {"q": "Do retort pouches need to be refrigerated?", "a": "Not while sealed. After opening, refrigerate leftovers in a covered container and eat them within 3 to 4 days."}
+    ]
+  },
+  "zh": {
+    "name": "調理包（肉類軟罐頭）",
+    "aliases": ["軟罐頭", "即食調理包", "料理包", "常溫調理包", "殺菌軟袋"],
+    "summary": "調理包和鋁箔軟罐頭是把煮好的肉類料理、燉肉或咖哩密封在袋子或紙盒裡，再像罐頭一樣高溫殺菌，所以未開封時可以常溫保存。密封的調理包放在櫥櫃，依包裝上的有效日期食用即可。開封後吃不完的要冷藏，3 到 4 天內吃完。",
+    "pantry": "未開封的調理包放在陰涼乾燥的櫥櫃，遠離熱源和可能刺破包裝的尖銳物品；美國農業部沒有訂常溫年限，請依照製造商的有效日期。不要在上面壓重物，以免封口受力破裂。袋子鼓起、漏液或封口破損的，不要嘗直接丟掉。",
+    "fridge": "開封後把剩下的料理倒進有蓋容器，放 4 °C 以下的冷藏室，和一般熟食剩菜一樣 3 到 4 天內吃完。再吃之前要完全加熱到冒熱氣（中心 74 °C）。",
+    "freezer": "未開封的調理包不需要冷凍，冷凍反而可能讓封口變脆弱。開封後的剩菜可以裝密封盒放 −18 °C 冷凍，安全上可以放很久，但醬汁可能油水分離、肉會稍微變柴，建議 2 到 3 個月內吃完口感較好。",
+    "thawing": "冷凍的剩菜放冷藏室隔夜解凍，或用微波爐解凍後徹底加熱。不要放在室溫下解凍。",
+    "spoilage": [
+      "袋子膨脹、鼓起、漏液，或封口自己裂開",
+      "開封時聞到酸味、異味或金屬味",
+      "內容物發黴、黏滑或顏色異常",
+      "開封後冷藏幾天的剩菜氣味或外觀變得不對勁"
+    ],
+    "tips": [
+      "購買前和開封前都檢查袋子有沒有針孔或封口損傷",
+      "在保鮮盒上寫開封日期，確保剩菜 3 到 4 天內吃完",
+      "依照包裝的加熱方式，大多數調理包可以隔水加熱或微波，但不能直接放在火上",
+      "輪替庫存，先吃最早買的"
+    ],
+    "faq": [
+      {"q": "調理包可以冷凍嗎？", "a": "只有開封後的剩菜需要冷凍，裝密封盒放 −18 °C 即可。未開封的調理包本來就能常溫保存，不必冷凍。"},
+      {"q": "調理包壞掉怎麼看？", "a": "袋子鼓起、漏液或封口破損就丟掉；內容物有酸味、發黴或黏滑也不能吃。千萬不要用嘗的來判斷。"},
+      {"q": "調理包需要放冰箱嗎？", "a": "未開封不用。開封後剩下的要裝進有蓋容器冷藏，3 到 4 天內吃完。"}
+    ]
+  },
+  "ja": {
+    "name": "レトルトパウチ（肉料理）",
+    "aliases": ["レトルト食品", "レトルトカレー", "レトルトパック", "常温保存の惣菜", "紙パック惣菜"],
+    "summary": "レトルトパウチや紙製の無菌パックは、調理済みの肉料理やシチュー、カレーなどを袋に密封して缶詰と同じように加熱殺菌したもので、開けるまで常温で保存できます。未開封のパウチは戸棚に置き、賞味期限内に食べましょう。開封後の残りは冷蔵し、3〜4日以内に食べきってください。",
+    "pantry": "未開封のパウチやパックは、熱源やフィルムを傷つける尖ったものから離れた涼しく乾燥した戸棚で保存します。USDAは常温での期間を定めていないので、メーカーの賞味期限に従ってください。上に重いものを載せると継ぎ目に負担がかかるので避けましょう。膨らんでいる、液漏れしている、封が破れているパウチは味見せずに捨ててください。",
+    "fridge": "開封後は残りをパウチから出してふた付きの容器に移し、4 °C以下の冷蔵庫で保存します。ほかの加熱済みの残り物と同じく3〜4日以内に食べきりましょう。もう一度食べるときは、湯気が立つまで（中心温度74 °C）しっかり温め直してください。",
+    "freezer": "未開封のパウチは冷凍する必要がなく、凍らせると封が弱くなることがあります。開封後の残りは密閉容器に入れて−18 °Cで冷凍できます。安全面では長期間もちますが、ソースが分離したり肉が少しパサつくことがあるので、2〜3か月以内に食べるのがおすすめです。",
+    "thawing": "冷凍した残りは冷蔵庫でひと晩、または電子レンジで解凍してから、しっかり温め直します。室温での解凍は避けてください。",
+    "spoilage": [
+      "パウチが膨らんでいる、パンパンになっている、液漏れしている、継ぎ目がひとりでに開いている",
+      "開けたときに酸っぱいにおい、異臭、金属臭がする",
+      "中身にカビやぬめりがある、色がおかしい",
+      "開封後に冷蔵した残りが数日でにおいや見た目が変わった"
+    ],
+    "tips": [
+      "買う前と開ける前に、パウチにピンホールや継ぎ目の傷がないか確認する",
+      "容器に開封日を書いて、残りを3〜4日以内に使いきる",
+      "パッケージの加熱方法に従う。多くのパウチは湯せんや電子レンジで温められるが、直火にはかけない",
+      "在庫はローテーションして、古いパウチから食べる"
+    ],
+    "faq": [
+      {"q": "レトルト食品は冷凍できますか？", "a": "冷凍するのは開封後の残りだけにして、密閉容器に入れて−18 °Cで冷凍してください。未開封のパウチは常温保存できるので冷凍は不要です。"},
+      {"q": "レトルト食品が傷んでいるかどうかはどう見分けますか？", "a": "膨らんでいる、液漏れしている、封が破れているパウチは捨ててください。中身が酸っぱいにおい、カビ、ぬめりのある場合も同様です。味見で確かめてはいけません。"},
+      {"q": "レトルト食品は冷蔵庫に入れる必要がありますか？", "a": "未開封なら不要です。開封後の残りはふた付き容器に移して冷蔵し、3〜4日以内に食べきりましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Bolsas o cajas esterilizadas (carne)",
+    "aliases": ["retort pouch", "platos preparados en bolsa", "comida en sobre larga duración", "bolsas esterilizadas", "envases asépticos"],
+    "summary": "Las bolsas retort y las cajas asépticas son envases flexibles y sellados con platos de carne cocinada, guisos o curris, esterilizados con calor como una lata, por lo que se conservan a temperatura ambiente hasta abrirse. Guarda la bolsa sellada en la despensa hasta su fecha de consumo preferente. Una vez abierta, refrigera las sobras y úsalas en 3 a 4 días.",
+    "pantry": "Mantén las bolsas y cajas selladas en un armario fresco y seco, lejos del calor y de objetos punzantes que puedan perforar la lámina; el USDA no fija un plazo en despensa, así que guíate por la fecha del fabricante. No apiles cosas pesadas encima, porque el aplastamiento fuerza las costuras. Una bolsa hinchada, con fugas o con el sello roto debe tirarse sin probarla.",
+    "fridge": "Después de abrirla, pasa las sobras de la bolsa a un recipiente con tapa y refrigéralas a 4 °C (40 °F) o menos. Úsalas en 3 a 4 días, como cualquier sobra cocinada. Recaliéntalas hasta que humeen (74 °C / 165 °F) antes de servirlas de nuevo.",
+    "freezer": "La bolsa sellada no necesita congelarse, y congelarla puede debilitar el sellado. Las sobras abiertas sí pueden congelarse en un recipiente hermético a −18 °C (0 °F); se mantienen seguras indefinidamente, aunque las salsas pueden separarse y la carne secarse un poco, así que úsalas en 2 a 3 meses para una mejor calidad.",
+    "thawing": "Descongela las sobras en el refrigerador durante la noche o en el microondas, y luego recaliéntalas bien. No las descongeles a temperatura ambiente.",
+    "spoilage": [
+      "Bolsa inflada, abombada o con fugas, o una costura que se abre sola",
+      "Olor agrio, extraño o metálico al abrir la bolsa",
+      "Moho, viscosidad o un color inusual en el contenido",
+      "Sobras abiertas que huelen o se ven diferentes tras unos días en el refrigerador"
+    ],
+    "tips": [
+      "Revisa la bolsa en busca de agujeritos o daños en las costuras antes de comprarla y antes de abrirla",
+      "Anota la fecha de apertura en el recipiente para consumir las sobras en 3 a 4 días",
+      "Sigue las instrucciones de calentamiento del envase; la mayoría se calientan al baño maría o en el microondas, pero nunca directamente sobre la llama",
+      "Rota las existencias para comer primero las bolsas más antiguas"
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar los platos en bolsa retort?", "a": "Congela solo las sobras abiertas, en un recipiente hermético a −18 °C (0 °F). La bolsa sellada es de larga duración y no necesita congelarse."},
+      {"q": "¿Cómo saber si una bolsa retort está mala?", "a": "Desecha una bolsa hinchada, con fugas o con el sello roto, y cualquier contenido que huela agrio, tenga moho o esté viscoso. Nunca la pruebes para comprobarlo."},
+      {"q": "¿Las bolsas retort necesitan refrigeración?", "a": "No mientras estén selladas. Después de abrirlas, refrigera las sobras en un recipiente tapado y cómelas en 3 a 4 días."}
+    ]
+  }
+}

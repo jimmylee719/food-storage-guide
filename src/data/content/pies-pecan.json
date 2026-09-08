@@ -1,0 +1,107 @@
+{
+  "slug": "pies-pecan",
+  "en": {
+    "name": "Pecan pie",
+    "aliases": ["pecan tart", "southern pecan pie", "nut pie", "Thanksgiving pecan pie"],
+    "summary": "Pecan pie has a filling of eggs, sugar, butter and corn syrup baked with pecans, and because it is essentially a set custard it needs to be kept cold. Leave it out no longer than 2 hours, refrigerate for 3–4 days, or freeze for 1–2 months.",
+    "pantry": "Pecan pie should not be kept at room temperature beyond 2 hours (1 hour above 32 °C / 90 °F). The egg-based filling is perishable even though it is very sweet. It is fine to let a freshly baked pie cool on the counter within that window, then it belongs in the fridge.",
+    "fridge": "Once cooled, cover the pie loosely with foil or plastic wrap and store it at 4 °C (40 °F) or below for 3–4 days. Chilling firms the filling, which makes clean slicing easier. Let slices stand at room temperature for 20–30 minutes or warm them briefly in the oven before serving.",
+    "freezer": "Pecan pie freezes for 1–2 months at −18 °C (0 °F) with good results. Cool it completely, wrap tightly in plastic wrap and then foil, and freeze in the pan. It stays safe longer, but the pecans can go soft and the filling may weep after extended freezing.",
+    "thawing": "Thaw the wrapped pie in the fridge overnight, then unwrap and refresh it in a 160 °C (325 °F) oven for 10–15 minutes if you like it warm. Do not thaw on the counter.",
+    "spoilage": [
+      "Sour or eggy smell from the filling",
+      "Mould on the crust, filling or nuts",
+      "Filling that has turned runny, weepy or separated",
+      "Rancid, bitter taste from the pecans"
+    ],
+    "tips": [
+      "Bake pecan pie a day ahead; it slices better fully chilled",
+      "Write the date on the foil so you know when the 3–4 days are up",
+      "Freeze extra pie in slices for portion-sized desserts",
+      "Store whipped cream separately and add it at serving time"
+    ],
+    "faq": [
+      {"q": "Can you freeze pecan pie?", "a": "Yes. Wrapped tightly at −18 °C (0 °F), it keeps 1–2 months for best quality. Thaw in the fridge overnight."},
+      {"q": "How long does pecan pie last in the fridge?", "a": "About 3–4 days at 4 °C (40 °F) or below, loosely covered."},
+      {"q": "Does pecan pie need to be refrigerated?", "a": "Yes. The filling is an egg custard, so the pie should not sit out for more than 2 hours."}
+    ]
+  },
+  "zh": {
+    "name": "胡桃派",
+    "aliases": ["山核桃派", "碧根果派", "美式胡桃派", "堅果派", "pecan pie"],
+    "summary": "胡桃派的內餡是蛋、糖、奶油和玉米糖漿，鋪上胡桃烤成，本質上是一種凝固的蛋奶餡，所以要冰。室溫不超過 2 小時，冷藏 3～4 天，冷凍 1～2 個月。",
+    "pantry": "胡桃派在室溫放置不可超過 2 小時（室溫超過 32°C 時只有 1 小時）。雖然很甜，含蛋的內餡還是容易腐壞。剛烤好的派在這個時間內放在桌上放涼沒問題，之後就要進冰箱。",
+    "fridge": "放涼後用鋁箔紙或保鮮膜鬆鬆蓋住，放 4°C 以下冷藏 3～4 天。冰過內餡會變得比較紮實，切起來更漂亮。吃之前讓切片在室溫回溫 20～30 分鐘，或用烤箱稍微加熱。",
+    "freezer": "胡桃派在 −18°C 冷凍 1～2 個月效果不錯。完全放涼後用保鮮膜包緊、再包鋁箔紙，連同烤模一起冷凍。放更久仍然安全，但胡桃會變軟，內餡也可能出水。",
+    "thawing": "連包裝放冷藏室解凍一晚，想吃熱的可以拆開後用 160°C 烤箱回烤 10～15 分鐘。不要放在桌上退冰。",
+    "spoilage": [
+      "內餡有酸味或蛋腥味",
+      "派皮、內餡或堅果長黴",
+      "內餡變稀、出水或分離",
+      "胡桃有油耗味、發苦"
+    ],
+    "tips": [
+      "前一天先烤好，完全冰透的派比較好切",
+      "在鋁箔紙上寫日期，才知道 3～4 天什麼時候到",
+      "多的派切片冷凍，就有一人份的甜點",
+      "鮮奶油分開放，要吃時再加"
+    ],
+    "faq": [
+      {"q": "胡桃派可以冷凍嗎？", "a": "可以。包緊放 −18°C 冷凍，1～2 個月內品質最好。放冷藏室解凍一晚。"},
+      {"q": "胡桃派放冰箱可以放多久？", "a": "在 4°C 以下鬆鬆蓋著，大約可以放 3～4 天。"},
+      {"q": "胡桃派一定要冰嗎？", "a": "一定要。內餡是蛋奶餡，室溫放置不可超過 2 小時。"}
+    ]
+  },
+  "ja": {
+    "name": "ピーカンパイ",
+    "aliases": ["ペカンパイ", "ピーカンナッツパイ", "ナッツパイ", "pecan pie"],
+    "summary": "ピーカンパイは、卵・砂糖・バター・コーンシロップのフィリングにピーカンナッツをのせて焼いたパイです。実質的には固めたカスタードなので、冷やして保存する必要があります。常温は2時間まで、冷蔵で3〜4日、冷凍で1〜2か月が目安です。",
+    "pantry": "ピーカンパイは常温に2時間以上（32℃を超える環境では1時間以上）置かないでください。とても甘いとはいえ、卵ベースのフィリングは傷みやすい食品です。焼きたてをこの時間内にカウンターで冷ますのは問題ありませんが、その後は冷蔵庫へ。",
+    "fridge": "冷めたらアルミホイルかラップを軽くかぶせ、4℃以下で3〜4日保存できます。冷やすとフィリングが締まり、きれいに切り分けやすくなります。食べる前に切ったものを室温に20〜30分置くか、オーブンで軽く温めましょう。",
+    "freezer": "ピーカンパイは−18℃で1〜2か月、良い状態で冷凍できます。完全に冷ましてからラップでぴったり包み、アルミホイルで覆って型ごと冷凍します。それ以上でも安全ですが、長く冷凍するとナッツが柔らかくなり、フィリングから水分が出ることがあります。",
+    "thawing": "包んだまま冷蔵庫で一晩かけて解凍します。温かく食べたいなら包みを外して160℃のオーブンで10〜15分温め直してください。室温での解凍は避けましょう。",
+    "spoilage": [
+      "フィリングから酸っぱいにおいや卵臭",
+      "パイ皮・フィリング・ナッツにカビ",
+      "フィリングがゆるくなる、水が出る、分離する",
+      "ピーカンナッツが酸化して苦い"
+    ],
+    "tips": [
+      "前日に焼いておくと、しっかり冷えて切りやすくなります",
+      "ホイルに日付を書いておくと、3〜4日の目安が分かります",
+      "余ったパイは切り分けて冷凍すれば、1人分ずつのデザートに",
+      "ホイップクリームは別に保存し、食べるときに添える"
+    ],
+    "faq": [
+      {"q": "ピーカンパイは冷凍できますか？", "a": "できます。しっかり包んで−18℃で冷凍すれば1〜2か月はおいしく保てます。冷蔵庫で一晩かけて解凍してください。"},
+      {"q": "ピーカンパイは冷蔵庫で何日持ちますか？", "a": "4℃以下でふんわりふたをして、3〜4日ほどです。"},
+      {"q": "ピーカンパイは冷蔵しないとだめですか？", "a": "はい。フィリングは卵のカスタードなので、常温に2時間以上置かないでください。"}
+    ]
+  },
+  "es": {
+    "name": "Tarta de nuez pecana",
+    "aliases": ["pay de nuez", "pie de pecanas", "tarta de pecanas", "pastel de nuez pecán", "pecan pie"],
+    "summary": "La tarta de nuez pecana lleva un relleno de huevo, azúcar, mantequilla y jarabe de maíz horneado con pecanas y, como en esencia es una crema cuajada, debe conservarse en frío. No la dejes fuera más de 2 horas, refrigérala 3–4 días o congélala 1–2 meses.",
+    "pantry": "La tarta de pecanas no debe estar a temperatura ambiente más de 2 horas (1 hora si hace más de 32 °C / 90 °F). El relleno a base de huevo es perecedero aunque sea muy dulce. Puedes dejar enfriar una tarta recién horneada en la encimera dentro de ese margen; después va a la nevera.",
+    "fridge": "Una vez fría, cubre la tarta sin apretar con papel de aluminio o film y guárdala a 4 °C (40 °F) o menos durante 3–4 días. El frío afirma el relleno y facilita un corte limpio. Deja las porciones 20–30 minutos a temperatura ambiente o caliéntalas un momento en el horno antes de servir.",
+    "freezer": "La tarta de pecanas se congela con buen resultado durante 1–2 meses a −18 °C (0 °F). Enfríala por completo, envuélvela bien en film y luego en aluminio, y congélala en el molde. Sigue siendo segura más tiempo, pero las nueces pueden ablandarse y el relleno soltar líquido si se congela demasiado.",
+    "thawing": "Descongela la tarta envuelta en la nevera durante la noche; luego desenvuélvela y, si la prefieres tibia, caliéntala en el horno a 160 °C (325 °F) durante 10–15 minutos. No la descongeles en la encimera.",
+    "spoilage": [
+      "Olor agrio o a huevo en el relleno",
+      "Moho en la base, el relleno o las nueces",
+      "Relleno que se ha vuelto líquido, húmedo o separado",
+      "Sabor rancio y amargo en las pecanas"
+    ],
+    "tips": [
+      "Hornea la tarta el día anterior; se corta mejor bien fría",
+      "Escribe la fecha en el aluminio para saber cuándo se cumplen los 3–4 días",
+      "Congela la tarta sobrante en porciones para postres individuales",
+      "Guarda la nata montada aparte y añádela al servir"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la tarta de nuez pecana?", "a": "Sí. Bien envuelta a −18 °C (0 °F), se conserva 1–2 meses con la mejor calidad. Descongélala en la nevera durante la noche."},
+      {"q": "¿Cuánto dura la tarta de pecanas en la nevera?", "a": "Unos 3–4 días a 4 °C (40 °F) o menos, cubierta sin apretar."},
+      {"q": "¿La tarta de pecanas necesita refrigeración?", "a": "Sí. El relleno es una crema de huevo, así que la tarta no debe estar fuera más de 2 horas."}
+    ]
+  }
+}

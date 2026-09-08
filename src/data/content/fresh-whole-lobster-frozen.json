@@ -1,0 +1,107 @@
+{
+  "slug": "fresh-whole-lobster-frozen",
+  "en": {
+    "name": "Whole lobster (frozen)",
+    "aliases": ["frozen whole lobster", "frozen lobster", "whole cooked lobster frozen", "frozen raw lobster"],
+    "summary": "Frozen whole lobster, usually sold cooked and flash-frozen, keeps its best quality for 2–4 weeks in the freezer from purchase. Once thawed in the fridge, use it within 1–2 days.",
+    "pantry": "Frozen lobster should go straight from the store into your freezer or fridge; never thaw it on the counter. Cooked or thawed lobster left out for more than 2 hours, or 1 hour above 32 °C (90 °F), must be discarded.",
+    "fridge": "After thawing in the fridge, keep the lobster at or below 4 °C (40 °F) in a covered container or sealed bag and eat it within 1–2 days. Place it on a tray to catch any liquid, and keep it away from ready-to-eat foods. Do not refreeze a thawed lobster.",
+    "freezer": "Store frozen whole lobster at −18 °C (0 °F) in its original sealed packaging and use it within 2–4 weeks of purchase for best quality. If the package is torn, overwrap it in a freezer bag to limit freezer burn. It remains safe beyond 4 weeks, but the meat becomes dry, tough and less sweet.",
+    "thawing": "Thaw whole lobster in the fridge for 24 hours in a covered dish, or in a sealed bag in cold water changed every 30 minutes. Never thaw at room temperature or in warm water, and cook or reheat it soon after.",
+    "spoilage": [
+      "Thick frost, ice crystals or white dry patches inside the packaging, showing quality loss",
+      "Ammonia-like, sour or rancid smell once thawed",
+      "Meat that is mushy, stringy or discoloured rather than firm and white",
+      "A torn or bloated package, or lobster that has clearly thawed and refrozen"
+    ],
+    "tips": [
+      "Check the pack date at the store and choose the most recent one",
+      "Keep it frozen until the day before you plan to cook, then thaw in the fridge",
+      "Buy only what you will eat within a month, since the quality window is short",
+      "Use the shell and body for stock after eating the meat"
+    ],
+    "faq": [
+      {"q": "How long can you keep frozen whole lobster in the freezer?", "a": "For best quality, 2–4 weeks from purchase at −18 °C (0 °F). It stays safe longer but the meat dries out and toughens."},
+      {"q": "How long does thawed lobster last in the fridge?", "a": "1–2 days at or below 4 °C (40 °F), stored covered. Do not refreeze it once it has thawed."},
+      {"q": "How do you thaw a frozen whole lobster?", "a": "In the fridge for about 24 hours, or sealed in a bag in cold water changed every 30 minutes. Never on the counter."}
+    ]
+  },
+  "zh": {
+    "name": "冷凍整隻龍蝦",
+    "aliases": ["冷凍龍蝦", "整隻冷凍龍蝦", "熟凍龍蝦", "冷凍波士頓龍蝦", "生凍龍蝦"],
+    "summary": "冷凍整隻龍蝦通常是煮熟後急速冷凍販售，冷凍自購買日起 2～4 週內品質最佳。在冰箱解凍後，1～2 天內要吃完。",
+    "pantry": "冷凍龍蝦買回家要直接放冷凍庫或冰箱，絕對不要放在流理台上解凍。煮熟或已解凍的龍蝦放在室溫超過 2 小時（室溫高於 32 °C 時超過 1 小時）就必須丟掉。",
+    "fridge": "在冰箱解凍後，用加蓋容器或密封袋裝好，維持 4 °C 以下，1～2 天內吃完。下面墊一個盤子接汁液，並遠離即食食品。解凍過的龍蝦不要再冷凍。",
+    "freezer": "冷凍整隻龍蝦用原包裝密封放在 −18 °C 冷凍庫，購買後 2～4 週內吃完品質最好。包裝破了就再套一層冷凍袋，減少凍傷。超過 4 週仍然安全，但肉會變乾、變硬、不那麼鮮甜。",
+    "thawing": "整隻龍蝦放在有蓋的盤子裡冷藏解凍約 24 小時，或連密封袋泡冷水、每 30 分鐘換水。不要在室溫或溫水中解凍，解凍後盡快煮或加熱。",
+    "spoilage": [
+      "包裝內有厚厚的霜、冰晶或白色乾燥斑塊，代表品質下降",
+      "解凍後有氨味、酸味或油耗味",
+      "肉軟爛、有絲狀纖維或變色，不再緊實潔白",
+      "包裝破損或鼓起，或明顯解凍後又重新結凍"
+    ],
+    "tips": [
+      "在店裡查看包裝日期，挑最新的",
+      "煮之前一天再從冷凍庫拿到冷藏解凍",
+      "品質期短，只買一個月內吃得完的量",
+      "吃完肉的殼和身體可以拿來熬高湯"
+    ],
+    "faq": [
+      {"q": "冷凍整隻龍蝦可以放多久？", "a": "在 −18 °C 下自購買日起 2～4 週內品質最佳。放更久仍然安全，但肉會變乾變硬。"},
+      {"q": "解凍後的龍蝦放冰箱可以放多久？", "a": "冷藏 4 °C 以下加蓋保存 1～2 天。解凍後不要再冷凍。"},
+      {"q": "冷凍整隻龍蝦怎麼解凍？", "a": "放冷藏室約 24 小時，或連密封袋泡冷水、每 30 分鐘換水。不要放在流理台上解凍。"}
+    ]
+  },
+  "ja": {
+    "name": "冷凍ロブスター（丸ごと）",
+    "aliases": ["冷凍オマール", "冷凍ロブスター", "ボイル冷凍ロブスター", "丸ごと冷凍オマールエビ", "生冷凍ロブスター"],
+    "summary": "丸ごとの冷凍ロブスターは、多くがボイル後に急速冷凍されたもので、冷凍庫では購入から2〜4週間がおいしさの目安です。冷蔵庫で解凍したら1〜2日以内に食べ切ってください。",
+    "pantry": "冷凍ロブスターは買ったらすぐ冷凍庫か冷蔵庫へ入れ、調理台の上で解凍しないでください。加熱済みや解凍済みのロブスターを2時間以上（室温32 °C超なら1時間以上）常温に置いた場合は処分します。",
+    "fridge": "冷蔵庫で解凍した後は、ふた付き容器か密封袋に入れて4 °C以下に保ち、1〜2日以内に食べます。汁を受けるトレーにのせ、そのまま食べる食品から離して置きましょう。解凍したロブスターの再冷凍は避けてください。",
+    "freezer": "冷凍の丸ごとロブスターは元の密封包装のまま−18 °Cで保存し、購入から2〜4週間以内に使うと品質が保てます。包装が破れていたら冷凍用保存袋をかぶせて冷凍焼けを防ぎます。4週間を過ぎても安全ですが、身が乾いて硬くなり甘みも落ちます。",
+    "thawing": "ふた付きの容器に入れて冷蔵庫で約24時間かけて解凍するか、密封袋のまま冷水に浸けて30分ごとに水を替えます。室温やぬるま湯で解凍せず、解凍後は早めに調理・温め直しをしてください。",
+    "spoilage": [
+      "包装の中に厚い霜や氷の粒、白く乾いた部分がある（品質低下のサイン）",
+      "解凍後にアンモニア臭、酸っぱいにおい、油の酸化したにおいがする",
+      "身が引き締まった白色ではなく、ぐずぐず・筋っぽい・変色している",
+      "包装が破れている・膨らんでいる、明らかに一度溶けて再び凍った跡がある"
+    ],
+    "tips": [
+      "店で包装日を確認し、できるだけ新しいものを選ぶ",
+      "調理する前日まで冷凍しておき、冷蔵庫で解凍する",
+      "品質を保てる期間が短いので、1か月以内に食べる分だけ買う",
+      "身を食べた後の殻と胴はだしを取るのに使える"
+    ],
+    "faq": [
+      {"q": "冷凍の丸ごとロブスターは冷凍庫でどのくらい持ちますか？", "a": "−18 °Cで購入から2〜4週間がおいしさの目安です。それ以上でも安全ですが、身が乾いて硬くなります。"},
+      {"q": "解凍したロブスターは冷蔵庫でどのくらい持ちますか？", "a": "4 °C以下でふたをして1〜2日です。一度解凍したものは再冷凍しないでください。"},
+      {"q": "冷凍の丸ごとロブスターはどう解凍しますか？", "a": "冷蔵庫で約24時間、または密封袋のまま冷水に浸けて30分ごとに水を替えます。調理台の上では解凍しないでください。"}
+    ]
+  },
+  "es": {
+    "name": "Langosta entera (congelada)",
+    "aliases": ["bogavante congelado", "langosta congelada entera", "langosta cocida congelada", "bogavante entero congelado", "langosta cruda congelada"],
+    "summary": "La langosta entera congelada, que suele venderse cocida y ultracongelada, mantiene su mejor calidad 2–4 semanas en el congelador desde la compra. Una vez descongelada en el refrigerador, úsala en 1–2 días.",
+    "pantry": "La langosta congelada debe pasar directamente de la tienda al congelador o al refrigerador; nunca la descongeles sobre la encimera. La langosta cocida o descongelada que haya estado fuera más de 2 horas, o más de 1 hora si hace más de 32 °C (90 °F), debe desecharse.",
+    "fridge": "Tras descongelarla en el refrigerador, mantén la langosta a 4 °C (40 °F) o menos en un recipiente tapado o bolsa cerrada y cómela en 1–2 días. Ponla sobre una bandeja para recoger el líquido y aléjala de los alimentos listos para comer. No vuelvas a congelar una langosta descongelada.",
+    "freezer": "Guarda la langosta entera congelada a −18 °C (0 °F) en su envase original sellado y úsala en 2–4 semanas desde la compra para disfrutar de su mejor calidad. Si el envase está roto, envuélvelo en una bolsa de congelación para limitar las quemaduras por frío. Sigue siendo segura pasadas las 4 semanas, pero la carne se vuelve seca, dura y menos dulce.",
+    "thawing": "Descongela la langosta entera en el refrigerador durante unas 24 horas en un plato tapado, o en una bolsa cerrada dentro de agua fría que cambies cada 30 minutos. Nunca a temperatura ambiente ni en agua tibia, y cocínala o recaliéntala poco después.",
+    "spoilage": [
+      "Escarcha gruesa, cristales de hielo o zonas blancas y secas dentro del envase, señal de pérdida de calidad",
+      "Olor a amoníaco, agrio o rancio una vez descongelada",
+      "Carne pastosa, fibrosa o descolorida en vez de firme y blanca",
+      "Envase roto o hinchado, o langosta que claramente se descongeló y volvió a congelarse"
+    ],
+    "tips": [
+      "Revisa la fecha de envasado en la tienda y elige la más reciente",
+      "Mantenla congelada hasta el día anterior a cocinarla y descongélala en el refrigerador",
+      "Compra solo lo que vayas a comer en un mes, porque el margen de calidad es corto",
+      "Aprovecha el caparazón y el cuerpo para hacer caldo después de comer la carne"
+    ],
+    "faq": [
+      {"q": "¿Cuánto tiempo se puede guardar la langosta entera congelada en el congelador?", "a": "Para la mejor calidad, 2–4 semanas desde la compra a −18 °C (0 °F). Sigue siendo segura más tiempo, pero la carne se seca y endurece."},
+      {"q": "¿Cuánto dura la langosta descongelada en el refrigerador?", "a": "1–2 días a 4 °C (40 °F) o menos, tapada. No la vuelvas a congelar una vez descongelada."},
+      {"q": "¿Cómo se descongela una langosta entera congelada?", "a": "En el refrigerador durante unas 24 horas, o cerrada en una bolsa dentro de agua fría que cambies cada 30 minutos. Nunca sobre la encimera."}
+    ]
+  }
+}

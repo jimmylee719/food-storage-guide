@@ -1,0 +1,107 @@
+{
+  "slug": "fish-hot-smoked-air-pack",
+  "en": {
+    "name": "Hot-smoked fish (air pack)",
+    "aliases": ["hot smoked salmon", "smoked mackerel", "smoked trout", "kippered fish", "smoked whitefish", "hot smoked fish"],
+    "summary": "Hot-smoked fish such as smoked mackerel, trout, whitefish or hot-smoked salmon is fully cooked by the smoking process and sold in ordinary (non-vacuum) packaging or loose from the counter. It keeps 14–45 days in the fridge from purchase and 9–12 months in the freezer.",
+    "pantry": "Hot-smoked fish is a ready-to-eat perishable food and must be kept cold. Do not leave it at room temperature for more than 2 hours, or 1 hour above 32 °C (90 °F). Smoking adds flavour and some shelf life, but it does not make the fish shelf-stable.",
+    "fridge": "Store hot-smoked fish at or below 4 °C (40 °F), tightly wrapped or in an airtight container, and use it within 14–45 days of purchase; the printed use-by date is your best guide within that range. Once the pack is opened or the fish is cut, rewrap it well and aim to finish it within a few days. Keep it in the coldest part of the fridge and away from strong-smelling foods.",
+    "freezer": "Hot-smoked fish freezes well for 9–12 months at −18 °C (0 °F). Wrap portions tightly in plastic wrap, then foil or a freezer bag, to keep out air and prevent freezer burn. The fish stays safe beyond a year, but the flesh becomes drier and the smoky flavour fades.",
+    "thawing": "Thaw hot-smoked fish in the fridge overnight, still wrapped, and eat within 3–4 days. Cold-water thawing in a sealed bag also works; never thaw at room temperature.",
+    "spoilage": [
+      "Sour, ammonia-like or rancid smell rather than a clean smoky aroma",
+      "Slimy or sticky surface, or a milky film on the flesh",
+      "Green, grey or fuzzy mould spots on the skin or flesh",
+      "Flesh that has gone mushy or is oozing liquid"
+    ],
+    "tips": [
+      "Check the use-by date; the 14–45 day range depends heavily on the product",
+      "Once opened, wrap it tightly to slow drying and to stop the smoke smell spreading in the fridge",
+      "Portion before freezing so you can thaw only what you need",
+      "Flake leftovers into pasta, salads or pâté to use them up quickly"
+    ],
+    "faq": [
+      {"q": "Can you freeze hot-smoked fish?", "a": "Yes. Wrap it tightly and freeze at −18 °C (0 °F); it keeps its best quality for 9–12 months."},
+      {"q": "How long does hot-smoked fish last in the fridge?", "a": "14–45 days from purchase at or below 4 °C (40 °F), depending on the product; follow the use-by date and eat opened packs within a few days."},
+      {"q": "Does smoked fish need to be refrigerated?", "a": "Yes. Hot-smoked fish is perishable and must be kept at or below 4 °C (40 °F) at all times, before and after opening."}
+    ]
+  },
+  "zh": {
+    "name": "熱燻魚（一般包裝）",
+    "aliases": ["熱燻鮭魚", "煙燻鯖魚", "煙燻鱒魚", "燻魚", "煙燻白肉魚", "熟燻魚"],
+    "summary": "熱燻魚（例如煙燻鯖魚、鱒魚、白肉魚或熱燻鮭魚）在燻製過程中已經完全熟透，以一般非真空包裝或在櫃檯散裝販售。冷藏自購買日起可放 14～45 天，冷凍可放 9～12 個月。",
+    "pantry": "熱燻魚是即食的生鮮食品，必須保持低溫。放在室溫不要超過 2 小時，室溫高於 32 °C 時不超過 1 小時。煙燻增添風味、也延長一些保存期，但並不能讓魚常溫保存。",
+    "fridge": "放在 4 °C 以下冷藏，包緊或裝進密封盒，購買後 14～45 天內吃完；在這個範圍內，以包裝上的有效日期為準。開封或切開後，重新包好並盡量幾天內吃完。放在冰箱最冷的位置，遠離氣味強烈的食物。",
+    "freezer": "熱燻魚適合冷凍，在 −18 °C 下可放 9～12 個月。分裝後用保鮮膜緊緊包好，再套鋁箔或冷凍袋，隔絕空氣避免凍傷。超過一年仍然安全，但魚肉會變乾，煙燻香氣也會變淡。",
+    "thawing": "連同包裝放冷藏室解凍一晚，解凍後 3～4 天內吃完。也可以連密封袋泡冷水解凍，切勿放在室溫下解凍。",
+    "spoilage": [
+      "有酸味、氨味或油耗味，而不是乾淨的煙燻香",
+      "表面黏滑，或魚肉上有乳白色的膜",
+      "魚皮或魚肉出現綠色、灰色或毛狀黴斑",
+      "魚肉軟爛或滲出液體"
+    ],
+    "tips": [
+      "查看有效日期，14～45 天的範圍差異很大，要看產品",
+      "開封後包緊，減緩乾燥，也避免煙燻味在冰箱裡擴散",
+      "冷凍前先分裝，要吃多少解凍多少",
+      "剩下的可以剝成小塊拌義大利麵、沙拉或做成抹醬，趕快用完"
+    ],
+    "faq": [
+      {"q": "熱燻魚可以冷凍嗎？", "a": "可以。包緊後放 −18 °C 冷凍，9～12 個月內品質最佳。"},
+      {"q": "熱燻魚放冰箱可以放多久？", "a": "自購買日起 14～45 天，冷藏 4 °C 以下，視產品而定；以有效日期為準，開封後幾天內吃完。"},
+      {"q": "燻魚一定要冷藏嗎？", "a": "一定要。熱燻魚是生鮮食品，開封前後都要保持在 4 °C 以下。"}
+    ]
+  },
+  "ja": {
+    "name": "温燻の魚（通常包装）",
+    "aliases": ["スモークサーモン（温燻）", "スモークサバ", "燻製トラウト", "燻製魚", "魚の燻製", "ホットスモーク"],
+    "summary": "温燻の魚（サバやトラウト、白身魚の燻製、温燻のサーモンなど）は燻製の工程で完全に火が通っており、真空ではない通常の包装や量り売りで売られています。冷蔵では購入から14〜45日、冷凍では9〜12か月が目安です。",
+    "pantry": "温燻の魚はそのまま食べられる生鮮食品で、常に冷やしておく必要があります。常温に置くのは2時間まで（32 °Cを超えるなら1時間まで）です。燻製は風味と多少の日持ちを加えますが、常温保存できるようにはなりません。",
+    "fridge": "4 °C以下でぴったり包むか密閉容器に入れて冷蔵し、購入から14〜45日以内に食べます。この幅の中では包装の期限表示が最も確かな目安です。開封したり切ったりした後はしっかり包み直し、数日以内に食べ切りましょう。庫内の最も冷える場所に置き、においの強い食品から離してください。",
+    "freezer": "温燻の魚は−18 °Cで9〜12か月を目安に冷凍できます。小分けにしてラップでぴったり包み、さらにアルミホイルか冷凍用保存袋で覆って空気を遮断し、冷凍焼けを防ぎます。1年を過ぎても安全ですが、身が乾いて燻製の香りも薄れます。",
+    "thawing": "包んだまま冷蔵庫で一晩かけて解凍し、3〜4日以内に食べます。密封袋のまま冷水で解凍しても構いません。室温での解凍は避けてください。",
+    "spoilage": [
+      "澄んだ燻製の香りではなく、酸っぱいにおい・アンモニア臭・油の酸化臭がする",
+      "表面がぬるぬる・べたべたする、身に乳白色の膜がある",
+      "皮や身に緑・灰色・綿のようなカビがある",
+      "身がぐずぐずになっている、液体がにじみ出ている"
+    ],
+    "tips": [
+      "期限表示を確認する。14〜45日の幅は商品によって大きく異なる",
+      "開封後はしっかり包み、乾燥を防ぎ燻製のにおいが庫内に広がらないようにする",
+      "冷凍前に小分けにして、必要な分だけ解凍する",
+      "残りはほぐしてパスタやサラダ、パテにして早めに使い切る"
+    ],
+    "faq": [
+      {"q": "温燻の魚は冷凍できますか？", "a": "できます。しっかり包んで−18 °Cで冷凍すれば、9〜12か月はおいしく食べられます。"},
+      {"q": "温燻の魚は冷蔵庫でどのくらい持ちますか？", "a": "4 °C以下で購入から14〜45日、商品によって異なります。期限表示に従い、開封後は数日以内に食べてください。"},
+      {"q": "燻製の魚は冷蔵が必要ですか？", "a": "はい。温燻の魚は生鮮食品なので、開封前も後も常に4 °C以下で保存してください。"}
+    ]
+  },
+  "es": {
+    "name": "Pescado ahumado en caliente (envase normal)",
+    "aliases": ["salmón ahumado en caliente", "caballa ahumada", "trucha ahumada", "pescado ahumado", "ahumado en caliente", "pescado blanco ahumado"],
+    "summary": "El pescado ahumado en caliente, como la caballa, la trucha, el pescado blanco o el salmón ahumado en caliente, queda completamente cocido durante el ahumado y se vende en envases normales (sin vacío) o al corte en el mostrador. Dura 14–45 días en el refrigerador desde la compra y 9–12 meses en el congelador.",
+    "pantry": "El pescado ahumado en caliente es un alimento perecedero listo para comer y debe mantenerse frío. No lo dejes a temperatura ambiente más de 2 horas, o más de 1 hora si hace más de 32 °C (90 °F). El ahumado aporta sabor y algo de vida útil, pero no convierte el pescado en un producto de estante.",
+    "fridge": "Guárdalo a 4 °C (40 °F) o menos, bien envuelto o en un recipiente hermético, y úsalo en 14–45 días desde la compra; dentro de ese rango, la fecha de caducidad impresa es tu mejor referencia. Una vez abierto el envase o cortado el pescado, vuelve a envolverlo bien y procura terminarlo en pocos días. Colócalo en la zona más fría del refrigerador y lejos de alimentos de olor fuerte.",
+    "freezer": "El pescado ahumado en caliente se congela bien 9–12 meses a −18 °C (0 °F). Envuelve las porciones bien apretadas en film y luego en papel de aluminio o una bolsa de congelación para evitar el aire y las quemaduras por frío. Sigue siendo seguro pasado el año, pero la carne se seca y el sabor ahumado se apaga.",
+    "thawing": "Descongela el pescado ahumado en el refrigerador durante la noche, aún envuelto, y cómelo en 3–4 días. También sirve descongelarlo en una bolsa cerrada dentro de agua fría; nunca a temperatura ambiente.",
+    "spoilage": [
+      "Olor agrio, a amoníaco o rancio en lugar de un aroma limpio a humo",
+      "Superficie viscosa o pegajosa, o una película lechosa sobre la carne",
+      "Manchas de moho verdes, grises o vellosas en la piel o la carne",
+      "Carne pastosa o que suelta líquido"
+    ],
+    "tips": [
+      "Revisa la fecha de caducidad; el rango de 14–45 días depende mucho del producto",
+      "Una vez abierto, envuélvelo bien para que no se seque y no impregne el refrigerador de olor a humo",
+      "Divide en porciones antes de congelar para descongelar solo lo necesario",
+      "Desmenuza las sobras en pasta, ensaladas o paté para aprovecharlas rápido"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el pescado ahumado en caliente?", "a": "Sí. Envuélvelo bien y congélalo a −18 °C (0 °F); mantiene su mejor calidad 9–12 meses."},
+      {"q": "¿Cuánto dura el pescado ahumado en caliente en el refrigerador?", "a": "14–45 días desde la compra a 4 °C (40 °F) o menos, según el producto; sigue la fecha de caducidad y consume los envases abiertos en pocos días."},
+      {"q": "¿El pescado ahumado necesita refrigeración?", "a": "Sí. El pescado ahumado en caliente es perecedero y debe mantenerse a 4 °C (40 °F) o menos en todo momento, antes y después de abrirlo."}
+    ]
+  }
+}

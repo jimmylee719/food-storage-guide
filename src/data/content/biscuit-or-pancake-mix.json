@@ -1,0 +1,107 @@
+{
+  "slug": "biscuit-or-pancake-mix",
+  "en": {
+    "name": "Biscuit or pancake mix",
+    "aliases": ["pancake mix", "scone mix", "hotcake mix", "baking mix", "self-raising mix"],
+    "summary": "Biscuit and pancake mixes are dry blends of flour, raising agents, salt, sugar and usually powdered fat or milk. Stored in a cool, dry cupboard they keep about 9 months from the date of purchase. They rarely become unsafe, but the raising agent fades and any fat in the mix eventually goes rancid.",
+    "pantry": "A cool, dry cupboard away from the stove and sink is ideal; the mix keeps about 9 months from purchase. Once the box is opened, pour the mix into an airtight container or clip the inner bag shut, because it draws in moisture and kitchen smells quickly. Mixes containing dried buttermilk or shortening go off faster in a warm kitchen, so keep them at the back of a low shelf.",
+    "fridge": "Refrigeration is not needed and can do more harm than good: cold packets sweat when you take them out, and the damp powder clumps and activates the raising agent. If your kitchen is very hot and humid, an airtight jar in the fridge is acceptable, but let it come to room temperature before opening.",
+    "freezer": "Freezing is not necessary for a shelf-stable dry mix. If you buy in bulk, a well-sealed airtight bag in the freezer protects fat-containing mixes from going rancid, but always let the bag warm up fully before opening so condensation does not form inside.",
+    "thawing": null,
+    "spoilage": [
+      "Rancid, crayon-like or stale smell from the fat in the mix",
+      "Hard clumps or damp patches from absorbed moisture",
+      "Webbing, larvae or small beetles from pantry pests",
+      "Pancakes and scones that come out flat, tough or off-tasting"
+    ],
+    "tips": [
+      "Write the opening date on the box so you can track the 9-month window",
+      "Store the inner bag inside an airtight container to keep pantry moths out",
+      "Fluff the mix with a fork before measuring — it compacts in storage",
+      "Buy the box size you will actually use within a few months"
+    ],
+    "faq": [
+      {"q": "How long does pancake mix last?", "a": "About 9 months from purchase in a cool, dry pantry. After that the raising agents weaken and any fat in the mix can turn rancid."},
+      {"q": "Can you use expired pancake mix?", "a": "If it smells fresh, has no clumps and shows no sign of insects, it is usually still usable, but the pancakes may not rise well. Discard anything with a rancid or musty smell."},
+      {"q": "Does pancake mix need to be refrigerated?", "a": "No. A sealed airtight container in a cool, dry cupboard is best. Refrigeration causes condensation that clumps the powder."}
+    ]
+  },
+  "zh": {
+    "name": "鬆餅粉／司康預拌粉",
+    "aliases": ["鬆餅粉", "熱蛋糕粉", "預拌粉", "司康粉", "pancake mix"],
+    "summary": "鬆餅粉和司康預拌粉是麵粉、膨脹劑、鹽、糖，通常再加上奶粉或油脂粉的乾燥混合物。放在陰涼乾燥的櫥櫃，從購買日起約可保存 9 個月。它很少會變得不安全，但膨脹力會減弱，裡面的油脂最後也會產生油耗味。",
+    "pantry": "最理想的位置是遠離爐火和水槽的陰涼乾燥櫥櫃，從購買日起約可放 9 個月。開封後請把粉倒進密封罐，或把內袋確實夾好，因為它很快就會吸收濕氣和廚房氣味。含奶粉或酥油的配方在悶熱的廚房裡壞得更快，建議放在下層櫃子的深處。",
+    "fridge": "不需要冷藏，甚至可能有反效果：冰過的袋子拿出來會冒汗，受潮的粉會結塊，也會提早啟動膨脹劑。如果家裡真的又熱又濕，用密封罐放冰箱也可以，但一定要回到室溫再打開。",
+    "freezer": "常溫可保存的乾粉不需要冷凍。如果是大量囤貨，密封好放冷凍可以避免含油脂的預拌粉產生油耗味，但取出後務必等袋子完全回溫再開封，以免內部凝結水氣。",
+    "thawing": null,
+    "spoilage": [
+      "油脂變質產生的油耗味、蠟筆味或陳味",
+      "受潮結成硬塊，或出現潮濕的斑塊",
+      "有蛛絲狀物、幼蟲或小甲蟲等米蟲跡象",
+      "煎出來的鬆餅扁塌、口感硬韌或有怪味"
+    ],
+    "tips": [
+      "在盒子上寫開封日期，方便追蹤 9 個月的期限",
+      "內袋再套一層密封罐，可以防止米蟲和穀蛾",
+      "量取前先用叉子把粉撥鬆，放久會結實變密",
+      "買幾個月內用得完的份量就好"
+    ],
+    "faq": [
+      {"q": "鬆餅粉可以放多久？", "a": "放在陰涼乾燥的櫥櫃，從購買日起約 9 個月。之後膨脹劑會變弱，裡面的油脂也可能產生油耗味。"},
+      {"q": "過期的鬆餅粉還能用嗎？", "a": "如果聞起來正常、沒有結塊也沒有蟲，通常還可以用，只是可能發不太起來。只要有油耗味或霉味就直接丟掉。"},
+      {"q": "鬆餅粉需要冷藏嗎？", "a": "不需要。密封放在陰涼乾燥的櫥櫃最好，冷藏會產生冷凝水氣讓粉結塊。"}
+    ]
+  },
+  "ja": {
+    "name": "ホットケーキミックス・ビスケットミックス",
+    "aliases": ["ホットケーキミックス", "パンケーキミックス", "HM", "スコーンミックス"],
+    "summary": "ホットケーキミックスやビスケットミックスは、小麦粉に膨張剤、塩、砂糖、たいていは粉末油脂や脱脂粉乳を合わせた乾燥ミックスです。涼しく乾燥した戸棚で購入日から約9か月が目安です。危険な状態になることはまれですが、膨らむ力が弱まり、含まれる油脂はいずれ酸化します。",
+    "pantry": "コンロやシンクから離れた涼しく乾燥した戸棚が最適で、購入日から約9か月保存できます。開封後は密閉容器に移すか内袋をしっかりクリップで留めてください。湿気とにおいをすぐ吸ってしまいます。脱脂粉乳やショートニング入りのものは暑い台所で早く劣化するので、下段の奥にしまいましょう。",
+    "fridge": "冷蔵は不要で、かえって逆効果になることがあります。冷えた袋を出すと結露し、湿った粉が固まって膨張剤が反応してしまうためです。どうしても高温多湿な環境なら密閉瓶で冷蔵してもよいですが、必ず常温に戻してから開けてください。",
+    "freezer": "常温保存できる乾燥ミックスに冷凍は必要ありません。まとめ買いする場合、密閉すれば油脂の酸化を防げますが、袋を開ける前に完全に室温に戻し、内部で結露しないようにしてください。",
+    "thawing": null,
+    "spoilage": [
+      "油脂の酸化による古い油のにおい、クレヨンのようなにおい",
+      "湿気を吸って固まっている、湿った部分がある",
+      "クモの巣状のもの、幼虫、小さな甲虫（食品害虫）",
+      "焼いても膨らまない、固い、味がおかしい"
+    ],
+    "tips": [
+      "箱に開封日を書いて9か月の期限を管理しましょう",
+      "内袋を密閉容器に入れておくとノシメマダラメイガ対策になります",
+      "計量前にフォークでほぐすと、固まった粉が均一になります",
+      "数か月で使い切れるサイズを選びましょう"
+    ],
+    "faq": [
+      {"q": "ホットケーキミックスはどのくらい日持ちしますか？", "a": "涼しく乾燥した場所で購入日から約9か月が目安です。それ以降は膨張剤が弱まり、油脂が酸化することがあります。"},
+      {"q": "賞味期限が切れたホットケーキミックスは使えますか？", "a": "においが正常で固まりも虫もなければ使えることが多いですが、膨らみは落ちます。古い油のにおいやカビ臭があれば処分してください。"},
+      {"q": "ホットケーキミックスは冷蔵が必要ですか？", "a": "不要です。密閉して涼しく乾燥した戸棚が最適で、冷蔵すると結露で粉が固まります。"}
+    ]
+  },
+  "es": {
+    "name": "Mezcla para panqueques o bizcochos",
+    "aliases": ["mezcla para hotcakes", "harina preparada", "mezcla para tortitas", "preparado para scones"],
+    "summary": "Las mezclas para panqueques y bizcochos son preparados secos de harina, gasificantes, sal, azúcar y normalmente grasa o leche en polvo. En un armario fresco y seco duran unos 9 meses desde la compra. Rara vez se vuelven inseguras, pero el gasificante pierde fuerza y la grasa acaba enranciándose.",
+    "pantry": "Lo ideal es un armario fresco y seco lejos de los fogones y del fregadero; la mezcla dura unos 9 meses desde la compra. Una vez abierta la caja, pasa el preparado a un recipiente hermético o cierra bien la bolsa interior, porque absorbe humedad y olores muy rápido. Las mezclas con buttermilk en polvo o manteca se degradan antes en cocinas cálidas, así que guárdalas al fondo de un estante bajo.",
+    "fridge": "No hace falta refrigerar y puede ser contraproducente: los paquetes fríos sudan al sacarlos, y el polvo húmedo se apelmaza y activa el gasificante. Si tu cocina es muy calurosa y húmeda, un tarro hermético en la nevera es aceptable, pero deja que alcance la temperatura ambiente antes de abrirlo.",
+    "freezer": "No es necesario congelar un preparado seco estable. Si compras a granel, una bolsa bien cerrada en el congelador protege del enranciamiento a las mezclas con grasa, pero deja siempre que se atempere del todo antes de abrirla para evitar condensación.",
+    "thawing": null,
+    "spoilage": [
+      "Olor rancio, a cera o a viejo procedente de la grasa",
+      "Grumos duros o zonas húmedas por absorción de humedad",
+      "Telarañas, larvas o pequeños escarabajos de la despensa",
+      "Panqueques planos, correosos o con sabor extraño"
+    ],
+    "tips": [
+      "Anota la fecha de apertura en la caja para controlar los 9 meses",
+      "Guarda la bolsa interior dentro de un recipiente hermético para evitar polillas",
+      "Airea la mezcla con un tenedor antes de medirla: se compacta al almacenarse",
+      "Compra el formato que realmente vayas a usar en unos meses"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la mezcla para panqueques?", "a": "Unos 9 meses desde la compra en una despensa fresca y seca. Después los gasificantes pierden fuerza y la grasa puede enranciarse."},
+      {"q": "¿Se puede usar una mezcla caducada?", "a": "Si huele bien, no tiene grumos ni rastro de insectos, suele poder usarse, aunque las tortitas subirán menos. Descarta cualquier mezcla con olor rancio o a moho."},
+      {"q": "¿La mezcla para panqueques necesita refrigeración?", "a": "No. Lo mejor es un recipiente hermético en un armario fresco y seco. El frío genera condensación y apelmaza el polvo."}
+    ]
+  }
+}

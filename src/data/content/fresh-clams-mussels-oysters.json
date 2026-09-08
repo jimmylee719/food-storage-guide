@@ -1,0 +1,107 @@
+{
+  "slug": "fresh-clams-mussels-oysters",
+  "en": {
+    "name": "Fresh clams, mussels and oysters (in the shell)",
+    "aliases": ["fresh shellfish", "live bivalves", "oysters in the shell", "fresh mussels", "littleneck clams", "hard-shell clams"],
+    "summary": "Fresh clams, mussels and oysters in the shell are sold alive and, kept properly, stay alive and usable for 5–10 days in the fridge from purchase. Hard-shell clams and oysters tend towards the longer end; mussels and soft-shell clams towards the shorter end. USDA gives no freezer timeline for shellfish in the shell, so shuck or cook them before freezing.",
+    "pantry": "Shellfish in the shell must not be left at room temperature; they warm up, die and spoil quickly. Bring them home in a cool bag, refrigerate straight away, and discard any that have been out for more than 2 hours, or 1 hour above 32 °C (90 °F).",
+    "fridge": "Store them at or below 4 °C (40 °F) in an open bowl or tray covered with a damp cloth so they can breathe, and use within 5–10 days of purchase. Never store them in sealed plastic bags or under water, and drain any liquid that collects. Before cooking, tap any open shells: those that close are alive; those that stay open, or are cracked, should be thrown away.",
+    "freezer": "USDA gives no freezer timeline for shellfish in the shell, and freezing them alive is not recommended. Shuck oysters and clams or steam mussels and clams open first, then freeze the meat with its liquor in airtight containers at −18 °C (0 °F). Use within a few months for best quality, ideally in cooked dishes, as freezing softens the texture.",
+    "thawing": "Thaw frozen shellfish meat in the fridge and cook within a day. Do not thaw at room temperature and do not refreeze once thawed.",
+    "spoilage": [
+      "Shells that stay open when tapped, or that are cracked or chipped",
+      "Strong sulphur, ammonia or rotten smell rather than a briny, fresh scent",
+      "Oysters that feel light or dry, with no liquor inside",
+      "Cooked shellfish that do not open should be discarded"
+    ],
+    "tips": [
+      "Keep the harvest tag from the bag; it shows the harvest date and area",
+      "Store in a bowl covered with a wet towel, never sealed or in fresh water",
+      "Check them daily and remove any that have died so they do not affect the rest",
+      "Scrub and debeard mussels right before cooking, not before storing"
+    ],
+    "faq": [
+      {"q": "Can you freeze fresh clams, mussels or oysters?", "a": "Not in the shell alive. Shuck or cook them first, then freeze the meat in airtight containers at −18 °C (0 °F) and use within a few months."},
+      {"q": "How long do fresh clams, mussels and oysters last in the fridge?", "a": "5–10 days from purchase at or below 4 °C (40 °F), stored in an open container under a damp cloth so they can breathe."},
+      {"q": "How can you tell if clams, mussels or oysters have gone bad?", "a": "Open shells that do not close when tapped, cracked shells or a strong rotten smell mean they are dead and should be discarded."}
+    ]
+  },
+  "zh": {
+    "name": "新鮮帶殼蛤蜊、淡菜、生蠔",
+    "aliases": ["帶殼貝類", "活蛤蜊", "文蛤", "海瓜子", "帶殼生蠔", "新鮮淡菜", "牡蠣"],
+    "summary": "帶殼的新鮮蛤蜊、淡菜和生蠔是以活體販售，妥善保存的話，冷藏自購買日起可存活並使用 5～10 天。硬殼蛤蜊和生蠔接近上限，淡菜和軟殼蛤則接近下限。美國農業部沒有提供帶殼貝類的冷凍期限，想冷凍請先去殼或煮熟。",
+    "pantry": "帶殼貝類不能放在室溫，回溫後很快就會死亡腐壞。用保冷袋帶回家並立刻冷藏；放在室溫超過 2 小時（室溫高於 32 °C 時超過 1 小時）的請丟棄。",
+    "fridge": "放在 4 °C 以下的冰箱，用開口的碗或盤裝好，上面蓋濕布讓它們能呼吸，購買後 5～10 天內用完。絕對不要放在密封塑膠袋裡或泡在水裡，容器裡積水要倒掉。煮之前敲一下開口的殼：會閉起來的是活的，一直開著或有裂縫的要丟掉。",
+    "freezer": "美國農業部沒有提供帶殼貝類的冷凍期限，也不建議活體直接冷凍。先把生蠔、蛤蜊去殼，或把淡菜、蛤蜊蒸開，再把肉連同汁液裝進密封盒，在 −18 °C 下冷凍。幾個月內用完品質最好，冷凍後口感會變軟，最適合做湯或熱炒。",
+    "thawing": "冷凍的貝肉放冷藏室解凍，解凍後一天內煮完。不要在室溫下解凍，解凍後也不要再冷凍。",
+    "spoilage": [
+      "敲一下仍不閉殼，或殼有裂縫、缺角",
+      "有濃烈的硫磺味、氨味或腐臭味，而不是鹹鹹的海水味",
+      "生蠔拿起來很輕或很乾，裡面沒有汁液",
+      "煮熟後沒有打開的貝類應該丟掉"
+    ],
+    "tips": [
+      "保留網袋上的產地標籤，上面有採收日期和產區",
+      "用碗裝好蓋上濕毛巾，不要密封也不要泡淡水",
+      "每天檢查一次，把死掉的挑掉，以免影響其他的",
+      "淡菜的刷洗和拔鬚要在煮之前做，存放前不要處理"
+    ],
+    "faq": [
+      {"q": "新鮮蛤蜊、淡菜、生蠔可以冷凍嗎？", "a": "帶殼活體不行。先去殼或煮熟，再把肉裝進密封盒放 −18 °C 冷凍，幾個月內用完。"},
+      {"q": "新鮮蛤蜊、淡菜、生蠔放冰箱可以放多久？", "a": "自購買日起 5～10 天，冷藏 4 °C 以下，用開口容器裝、蓋濕布讓它們呼吸。"},
+      {"q": "蛤蜊、淡菜、生蠔壞掉怎麼分辨？", "a": "殼開著敲了不閉合、殼有裂縫，或有濃烈腐臭味，就代表已經死亡，要丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "殻付きのあさり・ムール貝・牡蠣（生）",
+    "aliases": ["殻付き貝", "活きあさり", "はまぐり", "殻付き牡蠣", "生ムール貝", "二枚貝"],
+    "summary": "殻付きの生のあさり、ムール貝、牡蠣は生きた状態で売られており、正しく保存すれば冷蔵で購入から5〜10日は生きたまま使えます。殻の硬いあさりや牡蠣は長め、ムール貝や殻の薄い貝は短めが目安です。USDAは殻付き貝の冷凍期間を示していないので、冷凍するなら殻から外すか加熱してからにします。",
+    "pantry": "殻付きの貝を常温に置いてはいけません。温まるとすぐに死んで傷みます。保冷バッグで持ち帰ってすぐに冷蔵庫へ入れ、2時間以上（32 °Cを超えるなら1時間以上）常温に置いたものは処分してください。",
+    "fridge": "4 °C以下の冷蔵庫で、ふたのないボウルやトレーに入れて湿らせた布をかぶせ、呼吸できる状態で保存し、購入から5〜10日以内に使います。密封したビニール袋や水の中には入れず、たまった水は捨ててください。調理前に開いている殻をたたき、閉じるものは生きています。閉じないものや割れたものは捨てましょう。",
+    "freezer": "USDAは殻付き貝の冷凍期間を示しておらず、生きたまま冷凍するのはおすすめしません。牡蠣やあさりは殻から外し、ムール貝やあさりは蒸して口を開けてから、身を汁ごと密閉容器に入れて−18 °Cで冷凍します。冷凍で食感が柔らかくなるので、数か月以内に加熱料理に使うのがおすすめです。",
+    "thawing": "冷凍した貝の身は冷蔵庫で解凍し、1日以内に加熱調理します。室温で解凍せず、一度解凍したものは再冷凍しないでください。",
+    "spoilage": [
+      "たたいても殻が閉じない、殻が割れている・欠けている",
+      "磯の香りではなく、硫黄臭・アンモニア臭・腐敗臭が強い",
+      "牡蠣が軽い、乾いている、中に汁がない",
+      "加熱しても口が開かない貝は処分する"
+    ],
+    "tips": [
+      "袋についている産地表示は捨てずに取っておく（採取日と産地が分かる）",
+      "ボウルに入れて濡れタオルをかけ、密封したり真水に浸けたりしない",
+      "毎日チェックし、死んだものは取り除いて他に影響しないようにする",
+      "ムール貝の掃除やひげ取りは保存前ではなく調理直前に行う"
+    ],
+    "faq": [
+      {"q": "生のあさりやムール貝、牡蠣は冷凍できますか？", "a": "殻付きの生きたままでは冷凍できません。殻から外すか加熱してから、身を密閉容器に入れて−18 °Cで冷凍し、数か月以内に使ってください。"},
+      {"q": "殻付きのあさり・ムール貝・牡蠣は冷蔵庫でどのくらい持ちますか？", "a": "4 °C以下で購入から5〜10日です。ふたのない容器に入れ、湿らせた布をかけて呼吸できるようにしてください。"},
+      {"q": "あさりやムール貝、牡蠣が傷んでいるかどうかの見分け方は？", "a": "たたいても閉じない殻、割れた殻、強い腐敗臭は死んでいるサインなので処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Almejas, mejillones y ostras frescos (con concha)",
+    "aliases": ["mariscos frescos", "moluscos vivos", "ostras en su concha", "mejillones frescos", "almejas vivas", "ostiones frescos"],
+    "summary": "Las almejas, mejillones y ostras frescos con concha se venden vivos y, bien guardados, se mantienen vivos y aprovechables 5–10 días en el refrigerador desde la compra. Las almejas de concha dura y las ostras aguantan más; los mejillones y las almejas de concha blanda, menos. El USDA no da un plazo de congelación para el marisco con concha, así que ábrelos o cocínalos antes de congelar.",
+    "pantry": "El marisco con concha no debe quedarse a temperatura ambiente: se calienta, muere y se estropea rápido. Llévalo a casa en una bolsa térmica, refrigéralo enseguida y desecha lo que haya estado fuera más de 2 horas, o más de 1 hora si hace más de 32 °C (90 °F).",
+    "fridge": "Guárdalos a 4 °C (40 °F) o menos en un bol o bandeja abiertos cubiertos con un paño húmedo para que respiren, y úsalos en 5–10 días desde la compra. Nunca los guardes en bolsas cerradas ni bajo el agua, y escurre el líquido que se acumule. Antes de cocinar, golpea suavemente las conchas abiertas: las que se cierran están vivas; las que siguen abiertas o están rotas, a la basura.",
+    "freezer": "El USDA no da un plazo de congelación para el marisco con concha, y congelarlo vivo no es recomendable. Abre las ostras y almejas o cocina al vapor los mejillones y almejas para que se abran, y luego congela la carne con su jugo en recipientes herméticos a −18 °C (0 °F). Úsala en pocos meses y preferiblemente en platos cocinados, porque la congelación ablanda la textura.",
+    "thawing": "Descongela la carne de marisco en el refrigerador y cocínala en un día. No la descongeles a temperatura ambiente ni la vuelvas a congelar.",
+    "spoilage": [
+      "Conchas que siguen abiertas al golpearlas, o rotas y desportilladas",
+      "Olor fuerte a azufre, amoníaco o podrido en lugar de aroma fresco y salino",
+      "Ostras que pesan poco o están secas, sin jugo dentro",
+      "Los mariscos que no se abren al cocinarlos deben desecharse"
+    ],
+    "tips": [
+      "Guarda la etiqueta de la bolsa; indica la fecha y la zona de captura",
+      "Consérvalos en un bol tapado con un paño mojado, nunca cerrados ni en agua dulce",
+      "Revísalos a diario y retira los que hayan muerto para que no afecten al resto",
+      "Limpia y quita las barbas de los mejillones justo antes de cocinar, no antes de guardar"
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las almejas, mejillones u ostras frescos?", "a": "No vivos en su concha. Ábrelos o cocínalos primero y congela la carne en recipientes herméticos a −18 °C (0 °F); úsala en pocos meses."},
+      {"q": "¿Cuánto duran las almejas, mejillones y ostras frescos en el refrigerador?", "a": "5–10 días desde la compra a 4 °C (40 °F) o menos, en un recipiente abierto bajo un paño húmedo para que respiren."},
+      {"q": "¿Cómo saber si las almejas, mejillones u ostras están malos?", "a": "Conchas abiertas que no se cierran al tocarlas, conchas rotas o un olor fuerte a podrido indican que están muertos y hay que tirarlos."}
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "lamb-leg-bone-small",
+  "en": {
+    "name": "Lamb leg, bone-in (small)",
+    "aliases": ["small leg of lamb", "half leg of lamb", "bone-in lamb leg", "lamb shank-end leg"],
+    "summary": "A small bone-in leg of lamb, often a half leg or shank end weighing around 1.5–2.5 kg, is a whole-muscle roast, so bacteria stay on the surface and it keeps longer than chops or mince. It must not sit at room temperature, keeps 3–5 days in the fridge from purchase, and holds good quality for 4–12 months in the freezer.",
+    "pantry": "Raw lamb is perishable and should never be stored at room temperature. Bacteria grow rapidly between 4 °C and 60 °C (40 °F and 140 °F), so a leg left out for more than 2 hours, or 1 hour above 32 °C (90 °F), should be discarded. Taking the roast out 20–30 minutes before cooking to lose the fridge chill is fine; leaving it out all afternoon is not.",
+    "fridge": "Keep the leg in its vacuum pack or butcher's wrap on the bottom shelf at 4 °C (40 °F) or below, on a plate or tray to catch any drips. Whole-muscle cuts keep 3–5 days from the date of purchase because the interior is essentially sterile. If you open the pack and only cook part of it, rewrap the rest tightly and use it within the same window.",
+    "freezer": "A small leg freezes easily and fits a standard freezer drawer. Leave it in an intact vacuum pack, or wrap tightly in plastic wrap then foil or freezer paper to prevent freezer burn, and label with the date. At −18 °C (0 °F) it stays safe indefinitely; for best flavour and texture use it within 4–12 months, with lean legs holding up at the longer end and fattier ones best used sooner.",
+    "thawing": "Thaw the leg in the fridge on a tray; allow roughly 24 hours per 2 kg, so a small leg usually needs one to two days. For faster thawing, keep it in a watertight bag submerged in cold water and change the water every 30 minutes, then cook straight away. Never thaw on the counter. Fridge-thawed lamb can wait another 3–5 days before cooking.",
+    "spoilage": [
+      "A sour, sulphurous or ammonia-like smell once the pack is opened (a faint smell from a vacuum pack that clears in minutes is normal)",
+      "A slimy or sticky surface rather than a slightly moist one",
+      "Grey, green or brownish patches on the meat or fat that has turned yellow and rancid-smelling",
+      "Bulging or leaking packaging"
+    ],
+    "tips": [
+      "Buy a small leg from the shank end for an easier-to-carve roast that thaws faster.",
+      "Note the purchase date on the wrap; 3–5 days in the fridge goes quickly.",
+      "Ask the butcher to bone or butterfly part of it if you want to freeze in two meals.",
+      "Roast to at least 63 °C (145 °F) in the thickest part away from the bone, then rest 3 minutes."
+    ],
+    "faq": [
+      {"q": "Can you freeze a bone-in leg of lamb?", "a": "Yes. Wrap it well or leave it in its sealed vacuum pack, freeze at −18 °C (0 °F) and use within 4–12 months for the best quality; it stays safe beyond that."},
+      {"q": "How can you tell if a leg of lamb has gone bad?", "a": "A persistent sour or ammonia smell after airing, a slimy surface, or grey-green discolouration mean it should not be cooked."},
+      {"q": "How long does a leg of lamb last in the fridge?", "a": "3–5 days from the date of purchase at 4 °C (40 °F) or below, kept in its packaging on the bottom shelf."},
+      {"q": "How long does a small leg of lamb take to thaw?", "a": "In the fridge, about 24 hours per 2 kg, so plan on one to two days. Cold-water thawing takes a few hours but the leg must then be cooked immediately."}
+    ]
+  },
+  "zh": {
+    "name": "帶骨羊腿（小）",
+    "aliases": ["小羊腿", "半隻羊腿", "帶骨羊腿肉", "羊後腿", "羊小腿端"],
+    "summary": "小型帶骨羊腿通常是半隻羊腿或靠近小腿的一端，重量約 1.5～2.5 公斤，屬於整塊肌肉的烤肉部位，細菌只停留在表面，所以比羊排或絞肉耐放。不可放室溫，冷藏從購買日起可放 3～5 天，冷凍 4～12 個月內品質最好。",
+    "pantry": "生羊肉容易腐敗，不能放在室溫下保存。細菌在 4～60°C 之間繁殖很快，羊腿放室溫超過 2 小時（氣溫超過 32°C 時 1 小時）就應該丟掉。烤之前提早 20～30 分鐘從冰箱拿出來回溫沒有問題，但放一整個下午就不行。",
+    "fridge": "羊腿請保留真空包裝或肉販的包裝，放在冰箱最下層、4°C 以下的位置，底下墊盤子接肉汁。整塊肌肉的內部幾乎沒有細菌，所以從購買日起可以放 3～5 天。如果拆封只煮一部分，剩下的要重新包緊，並在同一個期限內用完。",
+    "freezer": "小羊腿很容易冷凍，一般冷凍抽屜就放得下。保留完整的真空包裝，或先用保鮮膜包緊再包一層鋁箔或冷凍紙，避免凍傷，並寫上日期。在 −18°C 冷凍可以無限期安全保存；風味與口感以 4～12 個月內最好，油脂較少的羊腿可以放到較長的那一端，油脂多的建議早點吃。",
+    "thawing": "羊腿請放在冰箱冷藏室、底下墊盤子慢慢解凍，大約每 2 公斤需要 24 小時，小羊腿通常要一到兩天。趕時間時可以裝進防水袋泡冷水，每 30 分鐘換一次水，解凍後馬上煮。千萬不要放在流理台上退冰。冷藏解凍的羊腿還可以再放 3～5 天才煮。",
+    "spoilage": [
+      "拆開包裝後有酸味、硫磺味或阿摩尼亞味（真空包裝剛打開時的淡淡氣味幾分鐘內散掉是正常的）",
+      "表面黏滑，而不只是稍微濕潤",
+      "肉上有灰色、綠色或褐色斑塊，或油脂變黃並帶油耗味",
+      "包裝鼓起或漏汁"
+    ],
+    "tips": [
+      "選靠小腿端的小羊腿，比較好切，解凍也比較快。",
+      "在包裝上寫購買日期，3～5 天的冷藏期限很快就到。",
+      "可以請肉販先去骨或切成兩份，方便分兩餐冷凍。",
+      "烤到離骨頭最厚處中心溫度至少 63°C，靜置 3 分鐘再切。"
+    ],
+    "faq": [
+      {"q": "帶骨羊腿可以冷凍嗎？", "a": "可以。包緊或保留完整真空包裝，放進 −18°C 冷凍庫，4～12 個月內吃完品質最好，超過也仍然安全。"},
+      {"q": "羊腿壞掉怎麼看？", "a": "通風後仍有酸味或阿摩尼亞味、表面黏滑，或出現灰綠色斑塊，就不要煮來吃。"},
+      {"q": "羊腿放冰箱可以放多久？", "a": "在 4°C 以下、連包裝放在最下層，從購買日起可以放 3～5 天。"},
+      {"q": "小羊腿解凍要多久？", "a": "冷藏解凍大約每 2 公斤需要 24 小時，請預留一到兩天。泡冷水幾小時就能解凍，但解凍後必須馬上烹調。"}
+    ]
+  },
+  "ja": {
+    "name": "骨付きラムレッグ（小）",
+    "aliases": ["骨付き仔羊もも肉", "ラムレッグ", "仔羊のもも肉", "ボーンインラムレッグ", "ラムのもも肉"],
+    "summary": "小さめの骨付きラムレッグは、もも肉の半分やすね側の部分で、重さは1.5〜2.5kgほどのローストにする塊肉です。細菌は表面にとどまるため、チョップやひき肉より日持ちします。常温には置かず、冷蔵は購入日から3〜5日、冷凍は4〜12か月以内が品質の目安です。",
+    "pantry": "生のラムは傷みやすく、常温保存はできません。4〜60℃の間では細菌が急速に増えるため、室温に2時間以上（気温32℃以上なら1時間以上）置いたレッグは処分してください。焼く20〜30分前に冷蔵庫から出して冷たさを取るのは問題ありませんが、午後いっぱい出しっぱなしにするのは避けましょう。",
+    "fridge": "真空パックや肉屋の包装のまま、冷蔵庫の最下段に4℃以下で保存し、肉汁を受けるために皿やバットの上に置きます。塊肉は内部にほとんど細菌がいないため、購入日から3〜5日保存できます。開封して一部だけ使う場合は、残りをしっかり包み直し、同じ期限内に使い切ってください。",
+    "freezer": "小さめのレッグは冷凍しやすく、家庭用冷凍庫の引き出しにも収まります。真空パックが無傷ならそのまま、そうでなければラップでぴったり包んでからアルミホイルか冷凍用の紙で二重に包み、冷凍焼けを防いで日付を書きます。−18℃なら安全面ではいつまでも保ちますが、風味と食感の目安は4〜12か月で、脂肪の少ないものは長めに、脂肪の多いものは早めに使うのがおすすめです。",
+    "thawing": "解凍は冷蔵庫でバットにのせてゆっくり行い、2kgあたり約24時間、小さめのレッグなら1〜2日を見ておきます。急ぐときは水漏れしない袋に入れて冷水に沈め、30分ごとに水を替えてから、すぐに調理してください。室温での自然解凍は避けましょう。冷蔵庫で解凍したラムは、さらに3〜5日は調理まで置いておけます。",
+    "spoilage": [
+      "開封後に酸っぱいにおい、硫黄のようなにおい、アンモニア臭がする（真空パックを開けた直後の軽いにおいが数分で消えるのは正常）",
+      "表面がしっとりを通り越して、ぬるぬる・べたべたしている",
+      "肉に灰色、緑色、茶色の斑点がある、または脂が黄ばんで酸化したにおいがする",
+      "パックが膨らんでいる、または汁が漏れている"
+    ],
+    "tips": [
+      "すね側の小さめのレッグを選ぶと切り分けやすく、解凍も早い。",
+      "包装に購入日を書いておく。冷蔵3〜5日はあっという間。",
+      "肉屋で骨を外してもらうか2つに切ってもらうと、2回分に分けて冷凍しやすい。",
+      "骨から離れた一番厚い部分の中心温度が63℃以上になるまで焼き、3分休ませてから切る。"
+    ],
+    "faq": [
+      {"q": "骨付きラムレッグは冷凍できますか？", "a": "できます。しっかり包むか無傷の真空パックのまま−18℃で冷凍し、品質を保つには4〜12か月以内に使ってください。それを過ぎても安全面では問題ありません。"},
+      {"q": "ラムレッグが傷んでいるかどうかの見分け方は？", "a": "空気にさらしても消えない酸っぱいにおいやアンモニア臭、表面のぬめり、灰色や緑がかった変色があれば調理しないでください。"},
+      {"q": "ラムレッグは冷蔵庫で何日もちますか？", "a": "包装のまま最下段に4℃以下で保存すれば、購入日から3〜5日です。"},
+      {"q": "小さめのラムレッグの解凍にはどれくらいかかりますか？", "a": "冷蔵庫では2kgあたり約24時間なので、1〜2日を見ておきましょう。冷水解凍なら数時間ですが、解凍後はすぐに調理する必要があります。"}
+    ]
+  },
+  "es": {
+    "name": "Pierna de cordero con hueso (pequeña)",
+    "aliases": ["pierna pequeña de cordero", "media pierna de cordero", "pierna de cordero con hueso", "pernil de cordero"],
+    "summary": "Una pierna de cordero pequeña con hueso, a menudo media pierna o el extremo del jarrete de 1,5–2,5 kg, es una pieza entera para asar: las bacterias se quedan en la superficie y por eso aguanta más que las chuletas o la carne picada. No debe estar a temperatura ambiente, dura 3–5 días en el refrigerador desde la compra y conserva buena calidad 4–12 meses en el congelador.",
+    "pantry": "El cordero crudo es perecedero y nunca debe guardarse a temperatura ambiente. Las bacterias crecen deprisa entre 4 °C y 60 °C (40 °F y 140 °F), así que una pierna que haya pasado más de 2 horas fuera del frío, o 1 hora por encima de 32 °C (90 °F), debe desecharse. Sacarla 20–30 minutos antes de asarla para que pierda el frío está bien; dejarla toda la tarde fuera, no.",
+    "fridge": "Guarda la pierna en su envase al vacío o en el papel de la carnicería en el estante inferior, a 4 °C (40 °F) o menos, sobre un plato o bandeja que recoja los jugos. Las piezas enteras duran 3–5 días desde la fecha de compra porque su interior está prácticamente libre de bacterias. Si abres el envase y solo cocinas una parte, vuelve a envolver bien el resto y úsalo dentro del mismo plazo.",
+    "freezer": "Una pierna pequeña se congela sin problema y cabe en un cajón de congelador normal. Déjala en su envase al vacío intacto o envuélvela bien en film y luego en papel de aluminio o papel para congelar para evitar quemaduras por frío, y anota la fecha. A −18 °C (0 °F) se mantiene segura indefinidamente; para el mejor sabor y textura úsala en 4–12 meses, las piernas magras aguantan más y las más grasas conviene consumirlas antes.",
+    "thawing": "Descongela la pierna en el refrigerador sobre una bandeja; calcula unas 24 horas por cada 2 kg, así que una pierna pequeña necesita uno o dos días. Para ir más rápido, sumérgela en una bolsa hermética en agua fría, cambia el agua cada 30 minutos y cocínala de inmediato. Nunca la descongeles sobre la encimera. El cordero descongelado en el refrigerador puede esperar otros 3–5 días antes de cocinarse.",
+    "spoilage": [
+      "Olor agrio, sulfuroso o a amoníaco al abrir el envase (un leve olor del envase al vacío que desaparece en minutos es normal)",
+      "Superficie viscosa o pegajosa, en lugar de solo ligeramente húmeda",
+      "Manchas grises, verdes o pardas en la carne, o grasa amarillenta con olor a rancio",
+      "Envase hinchado o con fugas"
+    ],
+    "tips": [
+      "Elige una pierna pequeña del extremo del jarrete: es más fácil de trinchar y se descongela antes.",
+      "Apunta la fecha de compra en el envoltorio; los 3–5 días de refrigerador pasan rápido.",
+      "Pide al carnicero que deshuese o divida parte de la pieza si quieres congelarla en dos comidas.",
+      "Ásala hasta al menos 63 °C (145 °F) en la parte más gruesa lejos del hueso y déjala reposar 3 minutos."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar una pierna de cordero con hueso?", "a": "Sí. Envuélvela bien o déjala en su envase al vacío cerrado, congélala a −18 °C (0 °F) y úsala en 4–12 meses para la mejor calidad; sigue siendo segura después."},
+      {"q": "¿Cómo saber si una pierna de cordero está mala?", "a": "Un olor agrio o a amoníaco que no desaparece al airearla, una superficie viscosa o manchas gris verdosas indican que no debe cocinarse."},
+      {"q": "¿Cuánto dura una pierna de cordero en el refrigerador?", "a": "3–5 días desde la fecha de compra a 4 °C (40 °F) o menos, en su envase y en el estante inferior."},
+      {"q": "¿Cuánto tarda en descongelarse una pierna de cordero pequeña?", "a": "En el refrigerador, unas 24 horas por cada 2 kg, así que cuenta con uno o dos días. En agua fría son unas horas, pero luego hay que cocinarla enseguida."}
+    ]
+  }
+}

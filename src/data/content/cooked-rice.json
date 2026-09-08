@@ -1,0 +1,67 @@
+{
+  "slug": "cooked-rice",
+  "en": {
+    "name": "Cooked rice",
+    "aliases": ["leftover rice", "steamed rice", "boiled rice", "cold rice", "day-old rice"],
+    "summary": "Cooked rice keeps 4–6 days in the fridge at 4 °C (40 °F) or below if it is cooled and refrigerated within 2 hours of cooking. Frozen at −18 °C (0 °F) it holds good quality for about 6 months and reheats almost like fresh.",
+    "pantry": "Cooked rice should not sit at room temperature for more than 2 hours (1 hour above 32 °C / 90 °F). Uncooked rice can carry Bacillus cereus spores that survive cooking; when rice cools slowly on the counter or sits in a switched-off rice cooker, the spores can germinate and produce a toxin that reheating does not destroy. Cool rice quickly by spreading it on a tray, then refrigerate.",
+    "fridge": "Pack rice into shallow airtight containers while still warm rather than leaving it to cool in the pot, and refrigerate at 4 °C (40 °F) or below. Use within 4–6 days. Reheat only what you need until it is steaming hot throughout, adding a splash of water to restore moisture; do not reheat the same rice more than once.",
+    "freezer": "Rice freezes very well. Portion warm rice into freezer bags or containers, flatten, and freeze at −18 °C (0 °F); freezing while slightly warm traps moisture so the grains stay fluffy. Use within 6 months for best quality. Frozen rice stays safe beyond that, though it may dry out.",
+    "thawing": "Microwave straight from frozen with a splash of water and a loose cover until steaming hot, or thaw overnight in the fridge. Never thaw on the counter.",
+    "spoilage": ["Hard, dry grains that have gone crusty, or grains that are slimy and wet", "Sour, musty or off smell", "Mould spots, which can be green, black or pink", "Rice that has been left at room temperature for more than 2 hours, even if it looks fine"],
+    "tips": ["Spread hot rice on a tray to cool it fast before refrigerating", "Freeze in single portions flattened in bags for quick microwave meals", "Add a tablespoon of water before reheating to bring back the texture", "Date containers and keep the fridge at 4 °C (40 °F) or below"],
+    "faq": [
+      {"q": "Can you freeze cooked rice?", "a": "Yes, and it is one of the best ways to store it. Portion, flatten and freeze at −18 °C (0 °F); use within 6 months for the best texture."},
+      {"q": "How long does cooked rice last in the fridge?", "a": "4–6 days at 4 °C (40 °F) or below, provided it was refrigerated within 2 hours of cooking."},
+      {"q": "Is it safe to eat rice left out overnight?", "a": "No. Rice left at room temperature for more than 2 hours can grow Bacillus cereus, which produces a heat-stable toxin. Discard it rather than reheating."}
+    ]
+  },
+  "zh": {
+    "name": "白飯（煮熟的米飯）",
+    "aliases": ["剩飯", "隔夜飯", "冷飯", "熟飯", "米飯"],
+    "summary": "煮熟的米飯在 2 小時內放涼冷藏，放在 4 °C 以下的冰箱可保存 4～6 天。以 −18 °C 冷凍可維持約 6 個月的良好品質，加熱後口感幾乎和剛煮好的一樣。",
+    "pantry": "煮熟的飯在室溫下不要超過 2 小時（室溫高於 32 °C 時為 1 小時）。生米可能帶有仙人掌桿菌的孢子，煮熟也殺不死；當飯在桌上慢慢降溫，或放在已關電源的電鍋裡，孢子會發芽並產生加熱也無法破壞的毒素。把飯攤平在盤子上快速放涼，再放冰箱。",
+    "fridge": "趁飯還溫熱時就分裝進淺的密封盒，不要留在鍋裡等它涼，冰箱維持 4 °C 以下，4～6 天內吃完。每次只加熱要吃的份量，加一點水補回濕度，加熱到整體冒煙滾燙；同一份飯不要反覆加熱。",
+    "freezer": "米飯很適合冷凍。趁溫熱時分裝進冷凍袋或保鮮盒壓平，以 −18 °C 冷凍；帶著餘溫冷凍可以鎖住水分，飯粒解凍後仍然鬆軟。6 個月內品質最佳，放更久仍然安全，只是可能變乾。",
+    "thawing": "直接從冷凍狀態加幾滴水、鬆鬆蓋上，用微波爐加熱到滾燙；或前一晚移到冷藏室解凍。不要放在室溫解凍。",
+    "spoilage": ["飯粒變硬變乾結成硬塊，或反過來變得黏滑出水", "有酸味、霉味或異味", "出現綠色、黑色或粉紅色的黴點", "在室溫放超過 2 小時的飯，即使看起來正常也不要吃"],
+    "tips": ["熱飯先攤平在盤子上快速降溫再冷藏", "以一餐份量壓平裝袋冷凍，微波加熱很方便", "復熱前加一大匙水，口感會恢復", "保鮮盒標上日期，冰箱維持 4 °C 以下"],
+    "faq": [
+      {"q": "白飯可以冷凍嗎？", "a": "可以，而且是保存米飯最好的方法之一。分裝壓平後以 −18 °C 冷凍，6 個月內食用口感最佳。"},
+      {"q": "白飯放冰箱可以放多久？", "a": "在 4 °C 以下可放 4～6 天，前提是煮好後 2 小時內冷藏。"},
+      {"q": "隔夜放在室溫的飯還能吃嗎？", "a": "不能。飯在室溫超過 2 小時可能滋生仙人掌桿菌，產生耐熱毒素，加熱也沒用，請直接丟棄。"}
+    ]
+  },
+  "ja": {
+    "name": "炊いたご飯",
+    "aliases": ["残りご飯", "冷やご飯", "白ご飯", "炊飯済みの米", "ライス"],
+    "summary": "炊いたご飯は、炊き上がりから2時間以内に冷まして冷蔵すれば、4 °C以下の冷蔵庫で4〜6日保存できます。−18 °Cで冷凍すれば約6か月は品質を保ち、温め直すと炊きたてに近い味わいに戻ります。",
+    "pantry": "炊いたご飯は室温に2時間以上（室温が32 °Cを超えるときは1時間以上）置かないでください。生米にはセレウス菌の芽胞が付いていることがあり、炊飯でも死にません。テーブルでゆっくり冷めたり、保温を切った炊飯器に入れたままだと芽胞が発芽し、加熱しても壊れない毒素を作ります。バットに広げて素早く冷まし、冷蔵庫へ入れましょう。",
+    "fridge": "鍋や炊飯器で冷ますのではなく、温かいうちに浅い密閉容器へ移し、4 °C以下で冷蔵します。4〜6日以内に食べ切ってください。温め直すのは食べる分だけにし、少量の水を加えて全体が湯気の立つ熱さになるまで加熱します。同じご飯を何度も温め直さないでください。",
+    "freezer": "ご飯は冷凍にとても向いています。温かいうちに冷凍用保存袋や容器に1食分ずつ入れて平らにし、−18 °Cで冷凍します。少し温かい状態で凍らせると水分が閉じ込められ、ふっくらした食感が保てます。6か月以内が品質の目安で、それ以上でも安全ですが乾きやすくなります。",
+    "thawing": "凍ったまま少量の水を加え、ふんわりラップをかけて電子レンジで熱々になるまで加熱するか、前日に冷蔵庫へ移して解凍します。常温での解凍は避けてください。",
+    "spoilage": ["米粒が固く乾いてカチカチになっている、または逆にぬめって水っぽい", "酸っぱいにおい、かび臭さ、異臭がする", "緑・黒・ピンクなどのカビの点が見える", "見た目が普通でも、室温に2時間以上置いたご飯"],
+    "tips": ["熱いご飯はバットに広げて素早く冷ましてから冷蔵する", "1食分ずつ袋に入れて平らに冷凍すると、レンジで手早く食べられる", "温め直す前に大さじ1杯の水を加えると食感が戻る", "容器に日付を書き、冷蔵庫は4 °C以下に保つ"],
+    "faq": [
+      {"q": "炊いたご飯は冷凍できますか？", "a": "できます。むしろ最も良い保存方法のひとつです。小分けして平らにし、−18 °Cで冷凍。6か月以内に食べると食感が良好です。"},
+      {"q": "炊いたご飯は冷蔵庫で何日もちますか？", "a": "炊き上がりから2時間以内に冷蔵した場合、4 °C以下で4〜6日が目安です。"},
+      {"q": "一晩常温に置いたご飯は食べても大丈夫ですか？", "a": "だめです。室温に2時間以上置いたご飯ではセレウス菌が増え、加熱に強い毒素を作ることがあります。温め直さずに処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Arroz cocido",
+    "aliases": ["arroz sobrante", "arroz hervido", "arroz blanco cocido", "arroz del día anterior", "arroz frío"],
+    "summary": "El arroz cocido dura 4–6 días en el refrigerador a 4 °C (40 °F) o menos si se enfría y refrigera dentro de las 2 horas posteriores a la cocción. Congelado a −18 °C (0 °F) conserva buena calidad unos 6 meses y se recalienta casi como recién hecho.",
+    "pantry": "El arroz cocido no debe quedarse a temperatura ambiente más de 2 horas (1 hora por encima de 32 °C / 90 °F). El arroz crudo puede contener esporas de Bacillus cereus que sobreviven a la cocción; cuando el arroz se enfría despacio en la mesa o queda en la arrocera apagada, las esporas germinan y producen una toxina que el recalentado no destruye. Enfríalo rápido extendiéndolo en una bandeja y luego refrigéralo.",
+    "fridge": "Pasa el arroz a recipientes herméticos poco profundos mientras aún está tibio, en lugar de dejarlo enfriar en la olla, y refrigéralo a 4 °C (40 °F) o menos. Consúmelo en 4–6 días. Recalienta solo lo que vayas a comer hasta que humee por completo, añadiendo un poco de agua para recuperar la humedad; no recalientes el mismo arroz más de una vez.",
+    "freezer": "El arroz se congela muy bien. Divide el arroz tibio en bolsas o recipientes de congelación, aplánalo y congela a −18 °C (0 °F); congelarlo aún tibio retiene la humedad y los granos quedan sueltos. Consúmelo en 6 meses para la mejor calidad. Después sigue siendo seguro, aunque puede resecarse.",
+    "thawing": "Caliéntalo en el microondas directamente congelado con un chorrito de agua y tapado sin apretar hasta que humee, o descongélalo de un día para otro en el refrigerador. Nunca sobre la encimera.",
+    "spoilage": ["Granos duros y resecos formando costra, o granos viscosos y húmedos", "Olor agrio, a humedad o extraño", "Puntos de moho verdes, negros o rosados", "Arroz que pasó más de 2 horas a temperatura ambiente, aunque se vea bien"],
+    "tips": ["Extiende el arroz caliente en una bandeja para enfriarlo rápido antes de refrigerar", "Congela porciones individuales aplanadas en bolsas para comidas rápidas al microondas", "Añade una cucharada de agua antes de recalentar para recuperar la textura", "Anota la fecha en los recipientes y mantén el refrigerador a 4 °C (40 °F) o menos"],
+    "faq": [
+      {"q": "¿Se puede congelar el arroz cocido?", "a": "Sí, y es una de las mejores formas de conservarlo. Divídelo, aplánalo y congélalo a −18 °C (0 °F); consúmelo en 6 meses para la mejor textura."},
+      {"q": "¿Cuánto dura el arroz cocido en el refrigerador?", "a": "4–6 días a 4 °C (40 °F) o menos, siempre que se haya refrigerado dentro de las 2 horas posteriores a la cocción."},
+      {"q": "¿Es seguro comer arroz que se quedó fuera toda la noche?", "a": "No. El arroz que pasa más de 2 horas a temperatura ambiente puede desarrollar Bacillus cereus, que produce una toxina resistente al calor. Tíralo en lugar de recalentarlo."}
+    ]
+  }
+}

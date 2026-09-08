@@ -1,0 +1,107 @@
+{
+  "slug": "cottage-cheese",
+  "en": {
+    "name": "Cottage cheese",
+    "aliases": ["curd cheese", "pot cheese", "farmer cheese", "creamed cottage cheese"],
+    "summary": "Cottage cheese is a fresh, unripened cheese of loose curds sitting in a little cream or milk, so it behaves more like a dairy drink than a cheese when it comes to storage. Unopened it keeps about 2 weeks in the fridge from the day you buy it, and about 1 week once the tub is opened. It must stay refrigerated at 4 °C (40 °F) or below.",
+    "pantry": "Cottage cheese is highly perishable and cannot be kept at room temperature. Its high moisture and near-neutral acidity make it a good home for bacteria in the danger zone between 4 °C and 60 °C (40 °F and 140 °F), so a tub left out for more than 2 hours — 1 hour above 32 °C (90 °F) — should be discarded. Serve it straight from the fridge and put it back as soon as you have spooned out what you need.",
+    "fridge": "Store the tub upside down on a cold inside shelf: the brine-like liquid then seals the surface and slows spoilage. Keep the fridge at 4 °C (40 °F) or below, always use a clean spoon, and never eat straight from the tub if you plan to keep the rest. Expect roughly 2 weeks from purchase unopened and about 1 week after opening, whichever comes first.",
+    "freezer": "Freezing is not really successful for cottage cheese eaten as is: the curds separate from the liquid and the texture becomes grainy and watery. If you want to salvage a nearly expired tub, freeze it at −18 °C (0 °F) and use it later in baked dishes, pancakes or blended into sauces, where the texture change does not matter. Frozen food kept at −18 °C (0 °F) remains safe indefinitely.",
+    "thawing": "Thaw in the fridge overnight, drain off the separated liquid and stir well before cooking with it. Do not thaw cottage cheese on the counter, and use it in cooked dishes rather than eating it cold.",
+    "spoilage": [
+      "Sour, yeasty or fermented smell beyond the mild tang it normally has",
+      "Any mould — pink, blue, green or black — on the surface or under the lid",
+      "Yellowing curds, or liquid that has turned cloudy, thick and slimy",
+      "A swollen lid or a hiss of gas when the tub is opened"
+    ],
+    "tips": [
+      "Store the tub upside down so the liquid covers the curds and keeps them moist.",
+      "Buy a small tub if you only use it occasionally — the 1-week opened window is short.",
+      "Never double-dip; always spoon out with a clean utensil.",
+      "Write the opening date on the lid so you can track the 1-week limit."
+    ],
+    "faq": [
+      {"q": "Can you freeze cottage cheese?", "a": "You can freeze it safely at −18 °C (0 °F), but it becomes grainy and watery. Use thawed cottage cheese in baking, pancakes or sauces rather than eating it plain."},
+      {"q": "How long does cottage cheese last after opening?", "a": "About 1 week in the fridge at 4 °C (40 °F) or below, versus roughly 2 weeks from purchase if the tub stays sealed."},
+      {"q": "How can you tell if cottage cheese has gone bad?", "a": "A sharply sour or yeasty smell, any mould, yellowing curds or a swollen lid all mean it should be thrown out."}
+    ]
+  },
+  "zh": {
+    "name": "茅屋起司",
+    "aliases": ["卡達起司", "農家乳酪", "白乾酪", "鄉村起司", "cottage cheese"],
+    "summary": "茅屋起司是一種未經熟成的新鮮乳酪，鬆散的凝乳浸在少量鮮奶油或牛奶裡，保存特性比較接近乳飲品而不是乳酪。未開封時從購買日起冷藏約可放 2 週，開封後約 1 週。全程必須保持在 4°C 以下冷藏。",
+    "pantry": "茅屋起司非常容易腐敗，不能放室溫。它水分高、酸度低，在 4～60°C 的危險溫度帶正是細菌喜歡的環境，所以放室溫超過 2 小時（氣溫超過 32°C 時 1 小時）就該丟棄。要吃的時候直接從冰箱取出，挖完需要的量立刻放回去。",
+    "fridge": "把盒子倒扣放在冰箱內層冷的位置：這樣乳清會覆蓋住表面，延緩變質。冰箱維持 4°C 以下，每次都用乾淨的湯匙取用；如果還要留著吃，就不要直接對著盒子吃。未開封從購買日起約 2 週，開封後約 1 週，以先到者為準。",
+    "freezer": "茅屋起司冷凍後直接食用的效果不佳：凝乳會和乳清分離，口感變得粗糙又出水。如果快到期想搶救，可以放 −18°C 冷凍，之後用在烘焙、鬆餅麵糊或打成醬汁，質地改變就不影響。在 −18°C 下冷凍，安全上可以無限期保存。",
+    "thawing": "放冷藏室退冰一晚，把分離出來的水倒掉、充分攪拌後再入菜。不要放室溫解凍，也建議加熱料理而非直接冷食。",
+    "spoilage": [
+      "除了原本的微酸之外，出現明顯的酸敗味、酵母味或發酵味",
+      "表面或盒蓋內側出現粉紅、藍、綠或黑色的黴",
+      "凝乳泛黃，或乳清變得混濁、濃稠、黏滑",
+      "盒蓋鼓起，或打開時有氣體噴出的聲音"
+    ],
+    "tips": [
+      "把盒子倒扣保存，讓乳清蓋住凝乳保持濕潤。",
+      "不常吃的話買小盒裝，開封後只有 1 週期限。",
+      "不要用吃過的湯匙重複挖取，一定用乾淨餐具。",
+      "在盒蓋寫上開封日期，方便掌握 1 週期限。"
+    ],
+    "faq": [
+      {"q": "茅屋起司可以冷凍嗎？", "a": "放 −18°C 冷凍在安全上沒問題，但口感會變粗糙出水。解凍後建議用在烘焙、鬆餅或醬汁，不要直接吃。"},
+      {"q": "茅屋起司開封後可以放多久？", "a": "在 4°C 以下冷藏約 1 週；未開封的話從購買日起約 2 週。"},
+      {"q": "茅屋起司壞掉怎麼看？", "a": "明顯的酸敗味或酵母味、任何黴點、凝乳泛黃、盒蓋鼓起，都代表要丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "カッテージチーズ",
+    "aliases": ["カッテージ・チーズ", "フレッシュチーズ", "カード", "こしタイプのカッテージチーズ"],
+    "summary": "カッテージチーズは熟成させないフレッシュチーズで、ほぐれた凝乳（カード）が少量のクリームや乳の中に入っており、保存性はチーズよりも乳飲料に近い食品です。未開封なら購入日から冷蔵で約2週間、開封後は約1週間が目安。常に4℃以下で冷蔵してください。",
+    "pantry": "カッテージチーズは非常に傷みやすく、常温保存はできません。水分が多く酸度も低いため、4〜60℃の危険温度帯では細菌が増えやすく、室温に2時間以上（気温32℃以上なら1時間以上）置いた容器は処分します。食べるときだけ冷蔵庫から出し、必要な量を取ったらすぐ戻しましょう。",
+    "fridge": "容器は逆さまにして、庫内のよく冷える棚に置きます。こうすると乳清が表面を覆い、傷みが進みにくくなります。庫内を4℃以下に保ち、取り出すときは必ず清潔なスプーンを使い、残しておくつもりなら容器から直接食べないでください。未開封で購入日から約2週間、開封後は約1週間のうち、早いほうが期限です。",
+    "freezer": "そのまま食べる用途では冷凍はうまくいきません。カードと水分が分離し、ざらついて水っぽくなります。期限が近いものを救うなら−18℃で冷凍し、焼き菓子やパンケーキ生地、ソースに混ぜるなど食感が問題にならない使い方をしましょう。−18℃で保存すれば安全面では長期間保ちます。",
+    "thawing": "冷蔵庫で一晩解凍し、分離した水分を切ってよく混ぜてから加熱調理に使います。常温解凍は避け、冷たいまま食べるのではなく調理して使ってください。",
+    "spoilage": [
+      "本来のほのかな酸味を超えて、酸敗臭や酵母のようなにおいがする",
+      "表面やふたの裏にピンク・青・緑・黒などのカビがある",
+      "カードが黄ばんでいる、または水分が濁ってとろりとぬめっている",
+      "ふたが膨らんでいる、開けたときにガスが抜ける音がする"
+    ],
+    "tips": [
+      "容器を逆さにして保存し、乳清でカードを覆って乾燥を防ぐ。",
+      "たまにしか使わないなら小容量を買う。開封後1週間は意外と短い。",
+      "一度口をつけたスプーンを戻さず、毎回清潔な器具で取り分ける。",
+      "ふたに開封日を書いて1週間の期限を管理する。"
+    ],
+    "faq": [
+      {"q": "カッテージチーズは冷凍できますか？", "a": "−18℃での冷凍は安全面では問題ありませんが、ざらついて水っぽくなります。解凍後は製菓やパンケーキ、ソースなど加熱料理に使ってください。"},
+      {"q": "カッテージチーズは開封後どのくらいもちますか？", "a": "4℃以下の冷蔵で約1週間です。未開封なら購入日から約2週間が目安になります。"},
+      {"q": "カッテージチーズが傷んでいるかどうかの見分け方は？", "a": "強い酸敗臭や酵母臭、カビ、カードの黄ばみ、ふたのふくらみが見られたら処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Queso cottage",
+    "aliases": ["requesón", "queso fresco de grano", "cuajada fresca", "queso tipo cottage"],
+    "summary": "El queso cottage es un queso fresco sin madurar formado por granos de cuajada en un poco de crema o leche, así que en cuanto a conservación se parece más a un lácteo líquido que a un queso. Sin abrir dura unas 2 semanas en el refrigerador desde el día de compra y alrededor de 1 semana una vez abierto el envase. Debe mantenerse siempre a 4 °C (40 °F) o menos.",
+    "pantry": "Es muy perecedero y no puede guardarse a temperatura ambiente. Su alta humedad y acidez moderada lo convierten en un buen medio para las bacterias en la zona de peligro, entre 4 °C y 60 °C (40 °F y 140 °F), así que un envase que haya estado fuera más de 2 horas —1 hora por encima de 32 °C (90 °F)— debe desecharse. Sírvelo directamente del refrigerador y devuélvelo en cuanto tomes lo que necesitas.",
+    "fridge": "Guarda el envase boca abajo en un estante interior frío: así el suero cubre la superficie y frena el deterioro. Mantén el refrigerador a 4 °C (40 °F) o menos, usa siempre una cuchara limpia y no comas del envase si piensas guardar el resto. Cuenta con unas 2 semanas desde la compra sin abrir y alrededor de 1 semana tras abrirlo, lo que ocurra antes.",
+    "freezer": "Congelarlo no funciona bien si lo vas a comer tal cual: los granos se separan del líquido y la textura queda arenosa y aguada. Para salvar un envase a punto de caducar, congélalo a −18 °C (0 °F) y úsalo después en horneados, panqueques o triturado en salsas, donde el cambio de textura no importa. A −18 °C (0 °F) se mantiene seguro indefinidamente.",
+    "thawing": "Descongélalo en el refrigerador durante una noche, escurre el líquido separado y remueve bien antes de cocinarlo. No lo descongeles en la encimera y úsalo en preparaciones cocinadas en vez de comerlo frío.",
+    "spoilage": [
+      "Olor agrio, a levadura o fermentado más allá del punto ácido suave habitual",
+      "Cualquier moho —rosa, azul, verde o negro— en la superficie o bajo la tapa",
+      "Granos amarillentos o líquido turbio, espeso y viscoso",
+      "Tapa abombada o escape de gas al abrir el envase"
+    ],
+    "tips": [
+      "Guarda el envase boca abajo para que el suero cubra los granos y no se resequen.",
+      "Compra formato pequeño si lo usas de vez en cuando: la semana tras abrir pasa rápido.",
+      "Nunca metas dos veces la misma cuchara usada; sirve con utensilio limpio.",
+      "Anota la fecha de apertura en la tapa para controlar el límite de 1 semana."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el queso cottage?", "a": "Se puede congelar con seguridad a −18 °C (0 °F), pero queda arenoso y aguado. Úsalo descongelado en repostería, panqueques o salsas, no solo."},
+      {"q": "¿Cuánto dura el queso cottage después de abrirlo?", "a": "Alrededor de 1 semana en el refrigerador a 4 °C (40 °F) o menos, frente a unas 2 semanas desde la compra si el envase sigue cerrado."},
+      {"q": "¿Cómo saber si el queso cottage está malo?", "a": "Un olor muy agrio o a levadura, cualquier moho, granos amarillentos o una tapa abombada indican que hay que tirarlo."}
+    ]
+  }
+}

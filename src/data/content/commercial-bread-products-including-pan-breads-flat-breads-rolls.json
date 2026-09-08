@@ -1,0 +1,107 @@
+{
+  "slug": "commercial-bread-products-including-pan-breads-flat-breads-rolls",
+  "en": {
+    "name": "Commercial bread products",
+    "aliases": ["sliced bread", "sandwich loaf", "rolls and buns", "flatbread", "store-bought bread"],
+    "summary": "Commercially baked breads — pan loaves, flatbreads, rolls and burger buns — are made with preservatives that keep them usable far longer than bakery bread. Kept at room temperature they stay good for 14–18 days from the date of purchase, and about 2–3 weeks in the fridge once the bag is opened. For longer storage, freeze them for 3–5 months.",
+    "pantry": "The pantry or a bread bin is the best home for bread: cool, dry and away from the stove and direct sun. In its original sealed bag it keeps 14–18 days from purchase; squeeze out the air and close the clip each time. Bread is a low-risk food at room temperature, but warm, humid kitchens speed up mould, so in a Taiwanese or tropical summer buy smaller loaves and check the crust often.",
+    "fridge": "Refrigeration slows mould but also makes bread go stale faster, because the starch recrystallises quickest just above freezing. Still, once the bag is opened, the fridge at 4 °C (40 °F) or below stretches it to 2–3 weeks, which is useful in a humid climate. Keep it double-bagged so it does not dry out or absorb fridge odours, and toast slices to bring the texture back.",
+    "freezer": "Freezing is the best way to keep bread tasting fresh. Slice the loaf first, then wrap it tightly in plastic and a freezer bag, press out the air and freeze at −18 °C (0 °F) for 3–5 months from purchase. Freezing in portions means you can take out two slices at a time instead of thawing a whole loaf.",
+    "thawing": "Thaw wrapped bread on the counter for 30–60 minutes, or toast frozen slices straight from the freezer. Rolls and flatbreads reheat well wrapped in foil in a 160 °C (325 °F) oven for a few minutes.",
+    "spoilage": [
+      "Green, blue, white or black fuzzy mould anywhere on the loaf",
+      "Musty, sour or alcoholic smell when you open the bag",
+      "Sticky, damp or slimy surface on the crust",
+      "Rock-hard, dry slices that will not soften when toasted"
+    ],
+    "tips": [
+      "Never cut mould off bread — the threads spread through the soft crumb, so discard the whole loaf",
+      "Store bread in its own bag rather than a clear bowl; light and air dry it out",
+      "Freeze half the loaf on the day you buy it if you live alone",
+      "Label freezer bags with the date so you can use the oldest bread first"
+    ],
+    "faq": [
+      {"q": "Can you freeze bread?", "a": "Yes, and it is the best option. Slice it, wrap it airtight and freeze at −18 °C (0 °F) for 3–5 months from purchase. Toast slices directly from frozen."},
+      {"q": "How long does store-bought bread last?", "a": "About 14–18 days from purchase in the pantry, and 2–3 weeks in the fridge after opening. Homemade or bakery bread without preservatives lasts far less."},
+      {"q": "Does bread need to be refrigerated?", "a": "Not normally — the fridge makes bread stale faster. But in a hot, humid kitchen refrigerating an opened bag buys you a couple of extra weeks."}
+    ]
+  },
+  "zh": {
+    "name": "市售麵包",
+    "aliases": ["吐司", "土司", "白吐司", "餐包", "漢堡麵包", "扁麵包"],
+    "summary": "市售包裝麵包，包括吐司、扁麵包、餐包和漢堡麵包，因為加了保存料，比麵包店現烤的耐放很多。常溫下可從購買日起放 14～18 天，開封後冷藏約可放 2～3 週。想放更久就冷凍，可以保存 3～5 個月。",
+    "pantry": "麵包最適合放在陰涼乾燥的櫥櫃或麵包盒，遠離爐火和陽光直射。維持原包裝密封的話，從購買日起可放 14～18 天，每次取用後把空氣擠出、夾子夾好。麵包在常溫下風險不高，但台灣夏天又熱又濕，發霉速度會明顯加快，建議買小條一點，並常檢查表面。",
+    "fridge": "冷藏可以抑制黴菌，但也會讓麵包更快變乾變硬，因為澱粉在接近 0°C 的溫度老化最快。不過開封後放進 4°C 以下的冰箱，確實可以延長到 2～3 週，在潮濕的氣候很實用。記得多包一層袋子，避免變乾或吸到冰箱味，吃之前烤過口感就會回來。",
+    "freezer": "冷凍是保住麵包風味最好的方法。先切片，再用保鮮膜加冷凍袋密封、擠出空氣，放 −18°C 冷凍，從購買日起可保存 3～5 個月。分片冷凍的好處是一次只拿兩片，不用整條退冰。",
+    "thawing": "連袋子放在室溫退冰 30～60 分鐘即可，或是直接把冷凍的吐司片放進烤箱烤。餐包和扁麵包用鋁箔紙包起來，以 160°C 烤幾分鐘就能回溫。",
+    "spoilage": [
+      "表面出現綠色、藍色、白色或黑色的毛狀黴斑",
+      "打開袋子有霉味、酸味或酒精味",
+      "外皮摸起來黏黏的、濕濕的",
+      "麵包乾硬到烤過也軟不回來"
+    ],
+    "tips": [
+      "發霉的麵包不要只切掉發霉的部分，菌絲已經長進鬆軟的內部，整條丟掉才安全",
+      "麵包放回原本的袋子，不要放在敞開的碗裡，光線和空氣會讓它變乾",
+      "一個人住的話，買回來當天就先把一半冷凍起來",
+      "冷凍袋上寫日期，先吃先冷凍的那一包"
+    ],
+    "faq": [
+      {"q": "吐司可以冷凍嗎？", "a": "可以，而且是最推薦的做法。切片後密封放 −18°C 冷凍，從購買日起能放 3～5 個月，要吃時直接冷凍狀態進烤箱就好。"},
+      {"q": "市售麵包可以放多久？", "a": "常溫從購買日起約 14～18 天，開封後冷藏約 2～3 週。沒有加保存料的手工或麵包店麵包會短很多。"},
+      {"q": "麵包需要放冰箱嗎？", "a": "一般不需要，冷藏反而讓麵包更快變硬。但如果廚房又熱又濕，開封後冷藏可以多撐兩週左右。"}
+    ]
+  },
+  "ja": {
+    "name": "市販のパン（食パン・ロールパンなど）",
+    "aliases": ["食パン", "ロールパン", "バンズ", "フラットブレッド", "市販パン"],
+    "summary": "市販の食パン、フラットブレッド、ロールパン、バーガーバンズなどは保存料が入っているため、ベーカリーの焼きたてパンよりずっと日持ちします。常温では購入日から14〜18日、開封後の冷蔵なら約2〜3週間が目安です。さらに長く保存したいときは冷凍で3〜5か月持ちます。",
+    "pantry": "パンはコンロや直射日光から離れた、涼しく乾燥した棚やブレッドボックスが最適です。購入時の袋のまま密封しておけば購入日から14〜18日。使うたびに空気を抜いてクリップで閉じてください。常温でも安全性の面ではリスクの低い食品ですが、日本の梅雨や夏場は湿気でカビが早く出るので、小さめのサイズを買い、表面をこまめに確認しましょう。",
+    "fridge": "冷蔵はカビを抑えますが、でんぷんの老化が0℃付近で最も速く進むため、パサつきも早くなります。それでも開封後に4℃以下で冷蔵すれば2〜3週間まで延ばせるので、湿度の高い時期には有効です。乾燥やにおい移りを防ぐため袋を二重にし、食べるときはトーストすると食感が戻ります。",
+    "freezer": "風味を保つなら冷凍が一番です。あらかじめスライスし、ラップと冷凍用袋で空気を抜いて密封し、−18℃で冷凍すれば購入日から3〜5か月保存できます。小分けにしておけば、一斤まるごと解凍せずに2枚だけ取り出せます。",
+    "thawing": "袋のまま室温に30〜60分置いて解凍するか、凍ったままトースターで焼いてもかまいません。ロールパンやフラットブレッドはアルミホイルで包み、160℃のオーブンで数分温めるときれいに戻ります。",
+    "spoilage": [
+      "緑・青・白・黒のふわふわしたカビが出ている",
+      "袋を開けるとカビ臭さ、酸っぱいにおい、アルコール臭がする",
+      "表面がベタついたり、湿ってぬめりがある",
+      "カチカチに乾いて、焼いても柔らかくならない"
+    ],
+    "tips": [
+      "カビた部分だけを切り取るのはNG。菌糸が中まで伸びているので一斤ごと処分しましょう",
+      "開いたボウルではなく元の袋で保存を。光と空気で乾燥が進みます",
+      "一人暮らしなら買った当日に半分を冷凍しておくと無駄が出ません",
+      "冷凍用袋に日付を書き、古いものから使いましょう"
+    ],
+    "faq": [
+      {"q": "食パンは冷凍できますか？", "a": "できますし、最もおすすめの方法です。スライスして密封し−18℃で冷凍すれば購入日から3〜5か月。凍ったままトーストできます。"},
+      {"q": "市販のパンはどのくらい日持ちしますか？", "a": "常温で購入日から14〜18日、開封後の冷蔵で2〜3週間が目安です。保存料の入っていないベーカリーのパンはもっと短くなります。"},
+      {"q": "パンは冷蔵庫に入れるべきですか？", "a": "通常は不要で、冷蔵するとかえって早くパサつきます。ただし高温多湿の時期は、開封後の冷蔵で2週間ほど余裕が生まれます。"}
+    ]
+  },
+  "es": {
+    "name": "Pan comercial (de molde, plano, panecillos)",
+    "aliases": ["pan de molde", "pan lactal", "panecillos", "bollos de hamburguesa", "pan de pita"],
+    "summary": "Los panes industriales —de molde, planos, panecillos y bollos de hamburguesa— llevan conservantes que los hacen durar mucho más que el pan de panadería. A temperatura ambiente se mantienen 14–18 días desde la compra y unas 2–3 semanas en la nevera una vez abierta la bolsa. Para más tiempo, congélalos 3–5 meses.",
+    "pantry": "La despensa o una panera es el mejor sitio: fresco, seco y lejos de los fogones y del sol directo. En su bolsa original cerrada dura 14–18 días desde la compra; saca el aire y cierra bien cada vez. El pan es un alimento de bajo riesgo a temperatura ambiente, pero una cocina cálida y húmeda acelera el moho, así que en verano compra piezas más pequeñas y revisa la corteza a menudo.",
+    "fridge": "La nevera frena el moho pero reseca el pan más rápido, porque el almidón se recristaliza justo por encima del punto de congelación. Aun así, con la bolsa abierta y a 4 °C (40 °F) o menos aguanta 2–3 semanas, algo útil en climas húmedos. Guárdalo con doble bolsa para que no se seque ni coja olores, y tuesta las rebanadas para recuperar la textura.",
+    "freezer": "Congelar es la mejor forma de conservar el sabor. Corta el pan en rebanadas, envuélvelo bien en film y una bolsa de congelación, saca el aire y congélalo a −18 °C (0 °F) durante 3–5 meses desde la compra. Congelado en porciones puedes sacar dos rebanadas sin descongelar toda la barra.",
+    "thawing": "Descongela el pan envuelto a temperatura ambiente durante 30–60 minutos, o tuesta las rebanadas directamente congeladas. Los panecillos y panes planos se recalientan bien envueltos en papel de aluminio en el horno a 160 °C (325 °F) unos minutos.",
+    "spoilage": [
+      "Moho verde, azul, blanco o negro en cualquier parte de la pieza",
+      "Olor a humedad, agrio o alcohólico al abrir la bolsa",
+      "Superficie pegajosa, húmeda o viscosa",
+      "Rebanadas duras y resecas que no se ablandan al tostarlas"
+    ],
+    "tips": [
+      "Nunca cortes solo la parte con moho: las hifas se extienden por la miga, tira la pieza entera",
+      "Guárdalo en su propia bolsa y no en un bol abierto; la luz y el aire lo resecan",
+      "Si vives solo, congela media pieza el mismo día de la compra",
+      "Anota la fecha en las bolsas de congelación y consume primero el pan más antiguo"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el pan?", "a": "Sí, y es la mejor opción. Córtalo en rebanadas, ciérralo herméticamente y congélalo a −18 °C (0 °F) durante 3–5 meses desde la compra. Puedes tostarlo congelado."},
+      {"q": "¿Cuánto dura el pan de molde?", "a": "Unos 14–18 días desde la compra en la despensa y 2–3 semanas en la nevera tras abrirlo. El pan artesano sin conservantes dura bastante menos."},
+      {"q": "¿El pan necesita refrigeración?", "a": "Normalmente no: la nevera lo reseca antes. Pero en una cocina calurosa y húmeda, refrigerar la bolsa abierta te da un par de semanas extra."}
+    ]
+  }
+}

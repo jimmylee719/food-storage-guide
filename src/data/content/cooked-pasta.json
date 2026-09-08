@@ -1,0 +1,67 @@
+{
+  "slug": "cooked-pasta",
+  "en": {
+    "name": "Cooked pasta",
+    "aliases": ["leftover pasta", "boiled pasta", "cooked noodles", "cooked spaghetti", "leftover spaghetti"],
+    "summary": "Cooked pasta, plain or sauced, keeps 3–5 days in the fridge at 4 °C (40 °F) or below once it has been cooled and covered within 2 hours. In the freezer at −18 °C (0 °F) it holds good quality for 1–2 months.",
+    "pantry": "Cooked pasta is a moist, cooked starch and cannot be stored at room temperature. Refrigerate it within 2 hours of cooking (1 hour if the room is above 32 °C / 90 °F); a pot of pasta left on the stove overnight should be discarded. This applies to plain pasta as well as pasta in sauce.",
+    "fridge": "Drain well, toss plain pasta with a little oil to stop it clumping, and store it in an airtight container at 4 °C (40 °F) or below. Use within 3–5 days; pasta in cream or meat sauce is best used at the earlier end. Reheat by dropping plain pasta into boiling water for 30–60 seconds, or heat sauced pasta in a pan or microwave until steaming hot throughout.",
+    "freezer": "Slightly undercooked pasta freezes best. Cool it quickly, portion into freezer bags with the air pressed out, and freeze at −18 °C (0 °F). Use within 1–2 months for the best bite; frozen pasta stays safe beyond that but softens. Baked pasta dishes such as lasagne freeze well in their dish, tightly wrapped.",
+    "thawing": "Reheat straight from frozen in boiling water, a covered pan or the microwave. If you need to thaw first, do it in the fridge, not on the counter.",
+    "spoilage": ["Sour or yeasty smell", "Slimy or sticky coating on the strands", "Discoloured or greyish pasta, or mould spots on the surface", "Sauce that has separated and smells off"],
+    "tips": ["Cook pasta slightly al dente if you plan to store or freeze it", "Rinse plain pasta briefly in cold water to stop cooking and cool it fast", "Store sauce and pasta separately for the best texture", "Label containers with the date and use the oldest first"],
+    "faq": [
+      {"q": "Can you freeze cooked pasta?", "a": "Yes. Portion it into airtight bags, freeze at −18 °C (0 °F) and use within 1–2 months. Reheat straight from frozen in boiling water or a covered pan."},
+      {"q": "How long does cooked pasta last in the fridge?", "a": "3–5 days in an airtight container at 4 °C (40 °F) or below, as long as it was refrigerated within 2 hours of cooking."},
+      {"q": "How can you tell if cooked pasta has gone bad?", "a": "A sour smell, slimy texture, dull grey colour or any mould means it should be thrown out."}
+    ]
+  },
+  "zh": {
+    "name": "煮熟的義大利麵",
+    "aliases": ["熟義大利麵", "剩義大利麵", "煮好的麵條", "隔夜義大利麵", "意粉"],
+    "summary": "煮熟的義大利麵，不論有沒有拌醬，在 2 小時內放涼加蓋冷藏，放在 4 °C 以下的冰箱可保存 3～5 天。以 −18 °C 冷凍可維持 1～2 個月的良好口感。",
+    "pantry": "煮熟的義大利麵含水量高又是熟澱粉，不能放在室溫保存。煮好後 2 小時內要冷藏（室溫高於 32 °C 時只有 1 小時）；整鍋麵放在爐子上過夜就該丟掉。白麵和拌了醬的麵都一樣。",
+    "fridge": "瀝乾水分，白麵可拌一點油避免黏成一團，裝進密封盒放在 4 °C 以下的冰箱。3～5 天內吃完；奶油或肉醬麵建議提早吃。復熱時白麵可放進滾水燙 30～60 秒，拌醬的麵用平底鍋或微波爐加熱到整體滾燙。",
+    "freezer": "煮得稍硬一點的麵最適合冷凍。快速放涼後分裝進冷凍袋、壓出空氣，以 −18 °C 冷凍。1～2 個月內口感最佳；放更久仍然安全，只是會變軟。千層麵之類的焗烤麵可以連烤盤一起包緊冷凍。",
+    "thawing": "直接從冷凍狀態放進滾水、加蓋平底鍋或微波爐加熱即可。若需要先解凍，請放冷藏室，不要放在室溫下。",
+    "spoilage": ["聞起來有酸味或發酵味", "麵條表面出現黏液、黏手", "顏色變灰暗，或表面出現黴點", "醬汁油水分離且有異味"],
+    "tips": ["打算保存或冷凍的話，麵煮到略帶嚼勁即可", "白麵可以快速過一下冷水，停止加熱並迅速降溫", "醬汁和麵條分開保存，口感更好", "在保鮮盒上標日期，先吃舊的"],
+    "faq": [
+      {"q": "煮熟的義大利麵可以冷凍嗎？", "a": "可以。分裝進密封袋，以 −18 °C 冷凍，1～2 個月內食用。可直接從冷凍狀態放進滾水或加蓋平底鍋加熱。"},
+      {"q": "義大利麵煮好放冰箱可以放多久？", "a": "裝密封盒放在 4 °C 以下可放 3～5 天，前提是煮好後 2 小時內就冷藏。"},
+      {"q": "怎麼判斷煮熟的義大利麵壞掉了？", "a": "有酸味、表面黏滑、顏色變灰或出現黴點，就應該丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "ゆでたパスタ",
+    "aliases": ["茹でパスタ", "残ったパスタ", "ゆでたスパゲッティ", "パスタの作り置き", "茹で麺"],
+    "summary": "ゆでたパスタは、ソースの有無にかかわらず、調理後2時間以内に冷まして密閉すれば4 °C以下の冷蔵庫で3〜5日保存できます。−18 °Cで冷凍すれば1〜2か月は良い食感を保てます。",
+    "pantry": "ゆでたパスタは水分の多い加熱済みのでんぷん食品なので、常温保存はできません。調理後2時間以内（室温が32 °Cを超えるときは1時間以内）に冷蔵し、鍋ごと一晩コンロに置いたものは処分してください。素のパスタもソース入りも同じです。",
+    "fridge": "よく水気を切り、素のパスタは少量の油をからめてくっつきを防ぎ、密閉容器に入れて4 °C以下で保存します。3〜5日以内に食べ切り、クリームソースや肉ソースのものは早めに。温め直しは、素のパスタなら熱湯に30〜60秒、ソース入りはフライパンか電子レンジで全体が熱くなるまで加熱します。",
+    "freezer": "少し固めにゆでたものが冷凍向きです。手早く冷まし、冷凍用保存袋に小分けして空気を抜き、−18 °Cで冷凍します。1〜2か月以内が歯ごたえの目安。それ以上でも安全ですがやわらかくなります。ラザニアなどの焼きパスタは器ごとしっかり包んで冷凍できます。",
+    "thawing": "凍ったまま熱湯、ふたをしたフライパン、または電子レンジで温めます。先に解凍したい場合は冷蔵庫で。常温には置かないでください。",
+    "spoilage": ["酸っぱいにおい、発酵したようなにおいがする", "麺の表面がぬるぬる・べたべたしている", "灰色っぽく変色している、表面にカビの点がある", "ソースが分離して異臭がする"],
+    "tips": ["保存や冷凍をするなら、やや固めのアルデンテにゆでる", "素のパスタはさっと冷水にくぐらせて余熱を止め、素早く冷ます", "ソースと麺は別々に保存すると食感が保てる", "容器に日付を書き、古いものから使う"],
+    "faq": [
+      {"q": "ゆでたパスタは冷凍できますか？", "a": "できます。密閉袋に小分けして−18 °Cで冷凍し、1〜2か月以内に食べましょう。凍ったまま熱湯かふたをしたフライパンで温め直せます。"},
+      {"q": "ゆでたパスタは冷蔵庫で何日もちますか？", "a": "調理後2時間以内に冷蔵した場合、密閉容器で4 °C以下なら3〜5日が目安です。"},
+      {"q": "ゆでたパスタが傷んでいるかどうかはどう見分けますか？", "a": "酸っぱいにおい、ぬめり、くすんだ灰色、カビのいずれかがあれば捨ててください。"}
+    ]
+  },
+  "es": {
+    "name": "Pasta cocida",
+    "aliases": ["pasta sobrante", "pasta hervida", "fideos cocidos", "espaguetis cocidos", "tallarines cocidos"],
+    "summary": "La pasta cocida, sola o con salsa, dura 3–5 días en el refrigerador a 4 °C (40 °F) o menos si se enfrió y tapó dentro de las 2 horas posteriores a la cocción. En el congelador a −18 °C (0 °F) conserva buena calidad durante 1–2 meses.",
+    "pantry": "La pasta cocida es un almidón húmedo y cocinado, y no puede guardarse a temperatura ambiente. Refrigérala dentro de las 2 horas posteriores a la cocción (1 hora si el ambiente supera los 32 °C / 90 °F); una olla de pasta que pasó la noche en la estufa debe tirarse. Esto vale tanto para la pasta sola como para la pasta con salsa.",
+    "fridge": "Escúrrela bien, mezcla la pasta sola con un poco de aceite para que no se apelmace y guárdala en un recipiente hermético a 4 °C (40 °F) o menos. Consúmela en 3–5 días; la pasta con salsa de crema o carne conviene comerla antes. Para recalentar, sumerge la pasta sola en agua hirviendo 30–60 segundos, o calienta la pasta con salsa en sartén o microondas hasta que humee por completo.",
+    "freezer": "La pasta ligeramente menos cocida se congela mejor. Enfríala rápido, divídela en bolsas de congelación sin aire y congela a −18 °C (0 °F). Consúmela en 1–2 meses para conservar la textura; después sigue siendo segura, pero se ablanda. Los platos horneados como la lasaña se congelan bien en su propia fuente, bien envueltos.",
+    "thawing": "Recalienta directamente congelada en agua hirviendo, en una sartén tapada o en el microondas. Si necesitas descongelar antes, hazlo en el refrigerador, no sobre la encimera.",
+    "spoilage": ["Olor agrio o a fermentado", "Capa viscosa o pegajosa en la pasta", "Color apagado o grisáceo, o puntos de moho en la superficie", "Salsa separada con mal olor"],
+    "tips": ["Cuece la pasta al dente si piensas guardarla o congelarla", "Enjuaga brevemente la pasta sola con agua fría para detener la cocción y enfriarla rápido", "Guarda la salsa y la pasta por separado para mantener mejor la textura", "Etiqueta los recipientes con la fecha y usa primero los más antiguos"],
+    "faq": [
+      {"q": "¿Se puede congelar la pasta cocida?", "a": "Sí. Divídela en bolsas herméticas, congela a −18 °C (0 °F) y consúmela en 1–2 meses. Recaliéntala directamente congelada en agua hirviendo o en una sartén tapada."},
+      {"q": "¿Cuánto dura la pasta cocida en el refrigerador?", "a": "3–5 días en un recipiente hermético a 4 °C (40 °F) o menos, siempre que se haya refrigerado dentro de las 2 horas posteriores a la cocción."},
+      {"q": "¿Cómo saber si la pasta cocida se echó a perder?", "a": "Un olor agrio, textura viscosa, color grisáceo o cualquier moho indica que debe tirarse."}
+    ]
+  }
+}

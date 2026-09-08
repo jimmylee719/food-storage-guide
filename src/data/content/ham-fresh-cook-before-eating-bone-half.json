@@ -1,0 +1,107 @@
+{
+  "slug": "ham-fresh-cook-before-eating-bone-half",
+  "en": {
+    "name": "Ham, cook-before-eating, bone-in, half",
+    "aliases": ["half ham", "uncooked half ham", "bone-in half ham", "raw cured half ham", "cook-before-eating half ham"],
+    "summary": "A bone-in half ham labelled \"cook before eating\" is a cured but not fully cooked cut from the leg, sold in a more manageable size than a whole ham. It keeps 1 week in the fridge from the date of purchase and 1–2 months in the freezer for best quality. It must be cooked through before it is eaten.",
+    "pantry": "Treat this ham as raw meat: it cannot be kept at room temperature. Do not let it sit out for more than 2 hours (1 hour above 32 °C / 90 °F), whether it is waiting to go in the oven or thawing. The cure adds flavour and colour but does not make the meat shelf-stable.",
+    "fridge": "Keep the half ham in its packaging at or below 4 °C (40 °F) on the lowest shelf, with a plate or tray underneath to catch drips. Cook it within 1 week of purchase and before the use-by date. A half ham has a large cut face that dries out and spoils faster than a whole one, so keep it tightly wrapped.",
+    "freezer": "Wrap the cut surface especially well: cover the whole ham in freezer film, then a freezer bag or foil, and freeze at −18 °C (0 °F). It stays safe indefinitely at that temperature, but flavour and texture are best within 1–2 months. Label with the date and weight so you can plan thawing later.",
+    "thawing": "Thaw in the fridge, allowing roughly 24 hours per 2 kg (4–5 lb), so a half ham usually needs 1–2 days. The cold-water method (leak-proof bag, water changed every 30 minutes) is faster but the ham must then be cooked immediately. Never thaw on the counter.",
+    "spoilage": [
+      "Sour or rotten smell, strongest at the cut face and around the bone",
+      "Slimy or tacky film on the meat",
+      "Grey, green or brownish discolouration of the pink cured surface",
+      "Dried, darkened patches or mould, especially where packaging was loose"
+    ],
+    "tips": [
+      "Cook to an internal temperature of 63 °C (145 °F) and rest 3 minutes before carving.",
+      "Ask which half you are buying: the shank end is easier to carve, the butt end is meatier.",
+      "Buy the ham no more than a few days before you plan to cook it.",
+      "Freeze cooked leftovers in slices for quick meals; they keep well for 1–2 months."
+    ],
+    "faq": [
+      {"q": "Can you freeze a half ham that has not been cooked?", "a": "Yes. Wrap it tightly, paying attention to the cut surface, and freeze at −18 °C (0 °F). Use within 1–2 months for best quality."},
+      {"q": "How long does a bone-in half ham last in the fridge?", "a": "Up to 1 week from purchase at 4 °C (40 °F) or below, and not past the use-by date on the pack."},
+      {"q": "Does a cook-before-eating half ham need to be cooked?", "a": "Yes. It is cured but not fully cooked; heat it to 63 °C (145 °F) internal temperature with a 3-minute rest before serving."}
+    ]
+  },
+  "zh": {
+    "name": "需烹煮火腿（帶骨半腿）",
+    "aliases": ["半隻火腿", "帶骨半腿", "生醃半火腿", "未煮熟半隻火腿", "half ham"],
+    "summary": "標示「需烹煮」的帶骨半腿火腿，是醃製過但沒有完全煮熟的豬後腿，切成一半比整隻好處理。從購買日算起冷藏可放 1 週，冷凍以 1～2 個月內用完為佳。食用前一定要完全煮熟。",
+    "pantry": "把它當成生肉看待，不能常溫存放。無論是等著進烤箱還是正在解凍，離開冰箱都不要超過 2 小時（室溫超過 32 °C 則 1 小時）。醃製只是增添風味和顏色，並不代表可以常溫保存。",
+    "fridge": "保留包裝，放在 4 °C 以下冷藏室的最下層，底下墊盤子接肉汁。從購買日算起 1 週內烹煮，且不能超過有效期限。半腿的切面很大，比整隻更容易變乾、變質，務必包緊。",
+    "freezer": "切面要特別包好：整塊先用保鮮膜包住，再套冷凍袋或包鋁箔紙，放進 −18 °C 冷凍庫。安全上可以放很久，但風味和口感在 1～2 個月內最好。標上日期和重量，之後安排解凍時間比較方便。",
+    "thawing": "放冷藏室解凍，每 2 公斤約需 24 小時，半腿通常要 1～2 天。冷水法（不漏水的袋子，每 30 分鐘換水）比較快，但解凍後必須馬上烹煮。不要放在室溫下退冰。",
+    "spoilage": [
+      "有酸味或腐敗味，切面和骨頭附近最明顯",
+      "肉的表面黏滑或黏手",
+      "醃製的粉紅色轉為灰色、綠色或褐色",
+      "包裝鬆脫的地方出現乾縮發黑或霉斑"
+    ],
+    "tips": [
+      "中心溫度要達到 63 °C，靜置 3 分鐘後再切。",
+      "問清楚買的是哪一半：腿腱端比較好切，腿臀端肉比較多。",
+      "預計烹煮前幾天再買，不要放太久。",
+      "煮熟的剩肉切片冷凍，做快速料理很方便，1～2 個月內吃完。"
+    ],
+    "faq": [
+      {"q": "還沒煮的半隻火腿可以冷凍嗎？", "a": "可以。切面要特別包緊，放 −18 °C 冷凍，1～2 個月內用完品質最好。"},
+      {"q": "帶骨半腿火腿放冰箱可以放多久？", "a": "在 4 °C 以下冷藏，從購買日算起最多 1 週，且不要超過包裝上的有效期限。"},
+      {"q": "需烹煮的半腿火腿一定要煮熟嗎？", "a": "要。它只有醃製、沒有完全煮熟，上桌前要加熱到中心 63 °C，再靜置 3 分鐘。"}
+    ]
+  },
+  "ja": {
+    "name": "加熱用ハム（骨付き・半分）",
+    "aliases": ["ハーフハム", "半分の骨付きハム", "未加熱ハーフハム", "塩漬け豚もも肉（半分）", "要加熱ハム"],
+    "summary": "「加熱用」と表示された骨付きハーフハムは、塩漬けはされていますが完全には加熱されていない豚もも肉で、丸ごとより扱いやすい大きさで売られています。購入日から冷蔵で1週間、冷凍なら1〜2か月が品質の目安です。食べる前に必ず中まで加熱してください。",
+    "pantry": "生肉と同じ扱いで、常温には置けません。オーブンに入れる前でも解凍中でも、冷蔵庫の外に2時間以上（室温が32 °Cを超えるときは1時間以上）置かないでください。塩漬けは風味と色をつけるためのもので、常温保存できる加工ではありません。",
+    "fridge": "包装のまま4 °C以下の冷蔵庫の最下段に置き、下に皿やトレイを敷いて肉汁を受けます。購入日から1週間以内、かつ期限内に調理してください。半分に切ったハムは切り口が大きく、丸ごとより乾燥や傷みが早いので、しっかり包んでおきましょう。",
+    "freezer": "切り口を特に丁寧に包みます。全体をラップで覆い、さらに冷凍用袋かアルミホイルで包んで−18 °Cで冷凍します。この温度なら安全面では長期保存できますが、風味と食感は1〜2か月以内がベストです。日付と重さを書いておくと、後で解凍の計画が立てやすくなります。",
+    "thawing": "冷蔵庫で解凍し、2 kgあたり約24時間、ハーフハムなら通常1〜2日かかります。漏れない袋に入れて冷水につけ30分ごとに水を替える方法なら早く解凍できますが、その場合はすぐに調理してください。室温での解凍は避けましょう。",
+    "spoilage": [
+      "酸っぱいにおいや腐敗臭がする（切り口や骨のまわりで特に強い）",
+      "肉の表面にぬめりやべたつきがある",
+      "ピンク色の表面が灰色・緑色・茶色っぽく変色している",
+      "包装がゆるんでいた部分が乾いて黒ずんでいる、カビが生えている"
+    ],
+    "tips": [
+      "中心温度63 °Cまで加熱し、3分間休ませてから切り分けます。",
+      "どちらの半分かを確認しましょう。すね側は切りやすく、もも上部側は肉が多めです。",
+      "調理する数日前までに買うようにし、長く置かないこと。",
+      "加熱後の残りはスライスして冷凍すると手軽に使え、1〜2か月は品質を保てます。"
+    ],
+    "faq": [
+      {"q": "未加熱のハーフハムは冷凍できますか？", "a": "できます。切り口をしっかり包んで−18 °Cで冷凍し、1〜2か月以内に使うと品質を保てます。"},
+      {"q": "骨付きハーフハムは冷蔵庫でどのくらい持ちますか？", "a": "4 °C以下で購入日から1週間以内が目安で、パッケージの期限を超えないようにしてください。"},
+      {"q": "加熱用のハーフハムは加熱が必要ですか？", "a": "必要です。塩漬けはされていますが加熱が不十分なので、中心温度63 °Cまで加熱し、3分間休ませてから食べてください。"}
+    ]
+  },
+  "es": {
+    "name": "Jamón para cocinar, medio con hueso",
+    "aliases": ["medio jamón", "media pierna curada", "medio jamón sin cocer", "jamón para hornear con hueso", "medio jamón crudo"],
+    "summary": "El medio jamón con hueso etiquetado \"cocinar antes de comer\" es un corte de la pierna curado pero no cocido del todo, vendido en un tamaño más manejable que el jamón entero. Dura 1 semana en la nevera desde la fecha de compra y 1–2 meses en el congelador con buena calidad. Debe cocinarse por completo antes de comerlo.",
+    "pantry": "Trátalo como carne cruda: no puede quedarse a temperatura ambiente. No lo dejes fuera más de 2 horas (1 hora por encima de 32 °C / 90 °F), ni esperando el horno ni descongelándose. El curado aporta sabor y color, pero no hace que la carne sea estable fuera del frío.",
+    "fridge": "Guarda el medio jamón en su envase a 4 °C (40 °F) o menos en el estante más bajo, con un plato o bandeja debajo para recoger los jugos. Cocínalo dentro de 1 semana desde la compra y antes de la fecha de caducidad. El medio jamón tiene una gran superficie de corte que se reseca y se estropea antes que una pieza entera, así que mantenlo bien envuelto.",
+    "freezer": "Envuelve muy bien la superficie de corte: cubre todo el jamón con film apto para congelar y luego con una bolsa o papel de aluminio, y congélalo a −18 °C (0 °F). Se mantiene seguro indefinidamente, pero el sabor y la textura son mejores dentro de 1–2 meses. Etiqueta con fecha y peso para planificar la descongelación.",
+    "thawing": "Descongela en la nevera, contando unas 24 horas por cada 2 kg (4–5 lb); un medio jamón suele necesitar 1–2 días. El método de agua fría (bolsa hermética, agua cambiada cada 30 minutos) es más rápido, pero luego hay que cocinarlo de inmediato. Nunca en la encimera.",
+    "spoilage": [
+      "Olor agrio o a podrido, más fuerte en la cara de corte y junto al hueso",
+      "Capa viscosa o pegajosa sobre la carne",
+      "Color gris, verdoso o marrón en lugar del rosado del curado",
+      "Zonas resecas y oscurecidas o moho, sobre todo donde el envase quedó suelto"
+    ],
+    "tips": [
+      "Cocina hasta 63 °C (145 °F) en el centro y deja reposar 3 minutos antes de trinchar.",
+      "Pregunta qué mitad compras: el extremo del jarrete se trincha mejor; el de la cadera tiene más carne.",
+      "Compra el jamón solo unos días antes de cocinarlo.",
+      "Congela las sobras cocidas en lonchas para comidas rápidas; se conservan bien 1–2 meses."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar un medio jamón sin cocinar?", "a": "Sí. Envuélvelo bien, especialmente la cara de corte, y congélalo a −18 °C (0 °F). Úsalo en 1–2 meses para mejor calidad."},
+      {"q": "¿Cuánto dura un medio jamón con hueso en la nevera?", "a": "Hasta 1 semana desde la compra a 4 °C (40 °F) o menos, sin pasar la fecha de caducidad del envase."},
+      {"q": "¿Hay que cocinar un medio jamón \"para cocinar antes de comer\"?", "a": "Sí. Está curado pero no cocido del todo; caliéntalo hasta 63 °C (145 °F) en el centro con 3 minutos de reposo antes de servirlo."}
+    ]
+  }
+}

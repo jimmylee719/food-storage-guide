@@ -1,0 +1,111 @@
+{
+  "slug": "kefir-fermented-milk",
+  "en": {
+    "name": "Kefir (fermented milk)",
+    "aliases": ["kephir", "milk kefir", "drinkable yogurt", "cultured milk drink"],
+    "summary": "Kefir is a tangy, slightly fizzy fermented milk drink made with kefir grains or cultures. Unopened, it keeps about 1 week in the fridge from the date of purchase; once opened, drink it within 1–2 days. It must be kept refrigerated and is not usually frozen.",
+    "pantry": "Kefir is a live, perishable dairy product and should not be stored at room temperature. Left out, the cultures keep fermenting: the drink gets sourer, more carbonated and may swell the bottle. Follow the 2-hour rule, or 1 hour if the room is above 32 °C (90 °F), and put the bottle back in the fridge as soon as you pour a glass.",
+    "fridge": "Keep kefir at 4 °C (40 °F) or below, ideally on an inside shelf rather than the door. Unopened, it lasts about 1 week from purchase, or until the date on the bottle if that comes first. After opening, use it within 1–2 days and keep the cap tightly closed. Because kefir contains live cultures, the flavour gets sharper every day even in the fridge; that is normal, not spoilage.",
+    "freezer": "USDA gives no freezer timeline for kefir, and freezing is not generally recommended for drinking. Thawed kefir separates into whey and curds and the texture becomes grainy, though it is still safe and can be used in smoothies or baking. Freezing also sends the live cultures dormant, so it is not a way to keep a starter going long-term.",
+    "thawing": "If you do freeze it, thaw in the fridge and shake or blend well before using; never thaw it on the counter.",
+    "spoilage": [
+      "A sharp, bitter or yeasty smell that goes beyond kefir's normal sour tang.",
+      "Pink, orange, green or fuzzy spots of mould on the surface or around the cap.",
+      "Thick clumps that do not blend back in after a good shake, or a slimy, stringy texture.",
+      "A bottle that is bulging hard or foams over violently when opened."
+    ],
+    "tips": [
+      "Buy the bottle with the latest date and check the seal; kefir is often sold close to its date.",
+      "Store it upright and keep the cap tight so it does not absorb fridge odours.",
+      "Pour what you need and return the bottle to the fridge immediately.",
+      "If kefir has gone very sour but is not spoiled, use it in pancakes, marinades or smoothies rather than drinking it plain."
+    ],
+    "faq": [
+      {"q": "Can you freeze kefir?", "a": "You can, but it is not ideal. Thawed kefir separates and turns grainy, and USDA gives no freezer timeline. It is still fine for smoothies or baking after thawing in the fridge."},
+      {"q": "How long does kefir last in the fridge?", "a": "About 1 week from purchase while unopened, and 1–2 days after opening, kept at 4 °C (40 °F) or below."},
+      {"q": "How can you tell if kefir has gone bad?", "a": "Mould, a bitter or yeasty smell, slimy strings, or a bulging bottle mean it should be thrown out. Extra sourness and some separation are normal."},
+      {"q": "Does kefir need to be refrigerated?", "a": "Yes. It contains live cultures that keep fermenting at room temperature, so it belongs in the fridge at all times, unopened or opened."}
+    ]
+  },
+  "zh": {
+    "name": "克菲爾（發酵乳）",
+    "aliases": ["克菲爾優酪乳", "克菲爾牛奶", "牛奶克菲爾", "kefir", "發酵乳飲"],
+    "summary": "克菲爾是用克菲爾菌種發酵的酸味微氣泡發酵乳飲品。未開封冷藏，從購買日起可以放約 1 週；開封後 1–2 天內喝完。一定要冷藏，一般不建議冷凍。",
+    "pantry": "克菲爾是含活菌、容易腐壞的乳製品，不能放在室溫保存。放在外面菌種會持續發酵，味道越來越酸、氣泡越來越多，瓶子還可能脹起來。請遵守 2 小時原則（室溫超過 32 °C 時為 1 小時），倒完一杯就馬上放回冰箱。",
+    "fridge": "放在 4 °C 以下的冰箱冷藏，最好放在內側層架而不是門邊。未開封從購買日起可以放約 1 週，或以瓶上標示的日期為準，看哪個先到。開封後 1–2 天內喝完，瓶蓋要旋緊。因為含有活菌，即使冷藏味道也會一天比一天酸，這是正常現象，不是壞掉。",
+    "freezer": "USDA 沒有提供克菲爾的冷凍期限，一般也不建議冷凍後直接飲用。解凍後會分離成乳清和凝塊，口感變得粗糙，不過還是安全的，可以打成果昔或拿來烘焙。冷凍也會讓活菌進入休眠，所以不適合用來長期保存菌種。",
+    "thawing": "如果真的冷凍了，請放冷藏解凍，使用前搖勻或用果汁機打勻；不要放在室溫解凍。",
+    "spoilage": [
+      "有刺鼻、苦味或酵母味，超過克菲爾原本的酸味。",
+      "表面或瓶口出現粉紅、橘色、綠色或毛絨狀的霉。",
+      "搖過還是有散不開的大塊凝結，或是有黏稠拉絲的質地。",
+      "瓶身脹得很硬，或一開瓶就劇烈噴泡。"
+    ],
+    "tips": [
+      "買的時候挑日期最晚的，並確認瓶蓋封口完整；克菲爾常常在接近期限時販售。",
+      "直立存放、蓋緊瓶蓋，避免吸附冰箱異味。",
+      "倒出需要的量後立刻放回冰箱。",
+      "如果已經很酸但沒壞，可以拿來做鬆餅、醃肉或打果昔，不一定要直接喝。"
+    ],
+    "faq": [
+      {"q": "克菲爾可以冷凍嗎？", "a": "可以，但不理想。解凍後會分離、口感變粗，USDA 也沒有提供冷凍期限。放冷藏解凍後拿來打果昔或烘焙還是可以的。"},
+      {"q": "克菲爾放冰箱可以放多久？", "a": "未開封從購買日起約 1 週，開封後 1–2 天，都要放在 4 °C 以下冷藏。"},
+      {"q": "怎麼判斷克菲爾壞掉了？", "a": "長霉、有苦味或酵母味、黏稠拉絲、瓶身脹起來就要丟掉。變得更酸和稍微分層是正常的。"},
+      {"q": "克菲爾一定要冷藏嗎？", "a": "要。裡面的活菌在室溫下會持續發酵，不管開封與否都要一直放在冰箱。"}
+    ]
+  },
+  "ja": {
+    "name": "ケフィア（発酵乳）",
+    "aliases": ["ケフィアヨーグルト", "ミルクケフィア", "ケフィール", "発酵乳飲料"],
+    "summary": "ケフィアは、ケフィアグレイン（種菌）で発酵させた、酸味とわずかな発泡感のある発酵乳飲料です。未開封なら購入日から冷蔵で約1週間、開封後は1〜2日以内に飲みきりましょう。必ず冷蔵し、冷凍は一般的におすすめしません。",
+    "pantry": "ケフィアは生きた菌を含む傷みやすい乳製品で、常温保存はできません。常温に置くと発酵が進み、酸味と炭酸が強くなってボトルが膨らむこともあります。2時間ルール（室温が32 °Cを超える場合は1時間）を守り、コップに注いだらすぐ冷蔵庫に戻しましょう。",
+    "fridge": "4 °C以下の冷蔵庫で、ドアポケットではなく庫内の棚に置くのが理想です。未開封なら購入日から約1週間、またはボトルの期限のどちらか早い方まで。開封後は1〜2日以内に使いきり、キャップはしっかり閉めておきます。生きた菌が入っているため、冷蔵していても日ごとに酸味が増しますが、これは正常で腐敗ではありません。",
+    "freezer": "USDAはケフィアの冷凍期間を示しておらず、飲用目的での冷凍は一般的におすすめしません。解凍するとホエイと固形分に分離してざらついた食感になりますが、安全性に問題はなく、スムージーやお菓子作りには使えます。冷凍すると菌が休眠するため、種菌を長期保存する方法としても向きません。",
+    "thawing": "冷凍した場合は冷蔵庫で解凍し、使う前によく振るかミキサーにかけてください。常温での解凍は避けましょう。",
+    "spoilage": [
+      "ケフィア本来の酸味を超えた、ツンとしたにおい、苦み、酵母臭がある。",
+      "表面やキャップまわりにピンク、オレンジ、緑色、または綿状のカビがある。",
+      "よく振っても混ざらない大きな塊がある、または糸を引くようなぬめりがある。",
+      "ボトルがパンパンに膨らんでいる、開けた瞬間に激しく泡があふれる。"
+    ],
+    "tips": [
+      "購入時は期限が一番先のものを選び、キャップの封が無事か確認しましょう。期限間近で売られていることも多いです。",
+      "立てて保存し、キャップをしっかり閉めて冷蔵庫のにおい移りを防ぎます。",
+      "必要な分だけ注いだら、ボトルはすぐ冷蔵庫へ戻しましょう。",
+      "酸味が強くなったけれど傷んではいないものは、パンケーキ、肉の漬け込み、スムージーに使うと無駄になりません。"
+    ],
+    "faq": [
+      {"q": "ケフィアは冷凍できますか？", "a": "できますが、あまりおすすめしません。解凍すると分離してざらつき、USDAも冷凍期間を示していません。冷蔵庫で解凍すれば、スムージーやお菓子作りには問題なく使えます。"},
+      {"q": "ケフィアは冷蔵庫でどのくらい日持ちしますか？", "a": "未開封なら購入日から約1週間、開封後は1〜2日です。4 °C以下で保存してください。"},
+      {"q": "ケフィアが腐っているかどうかの見分け方は？", "a": "カビ、苦みや酵母臭、糸を引くぬめり、ボトルの膨張があれば処分してください。酸味が増したり少し分離したりするのは正常です。"},
+      {"q": "ケフィアは冷蔵庫に入れないとだめですか？", "a": "はい。生きた菌が常温で発酵し続けるので、未開封でも開封後でも常に冷蔵庫に入れておきましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Kéfir (leche fermentada)",
+    "aliases": ["kéfir de leche", "yogur de kéfir", "búlgaros", "leche kefirada", "yogur bebible fermentado"],
+    "summary": "El kéfir es una bebida de leche fermentada, ácida y ligeramente efervescente, elaborada con nódulos o cultivos de kéfir. Sin abrir, se conserva alrededor de 1 semana en la nevera desde la compra; una vez abierto, hay que beberlo en 1–2 días. Debe mantenerse siempre refrigerado y normalmente no se congela.",
+    "pantry": "El kéfir es un lácteo vivo y perecedero que no debe guardarse a temperatura ambiente. Fuera de la nevera los cultivos siguen fermentando: la bebida se vuelve más ácida y gaseosa, y la botella puede hincharse. Sigue la regla de las 2 horas, o 1 hora si hace más de 32 °C (90 °F), y devuelve la botella a la nevera en cuanto sirvas un vaso.",
+    "fridge": "Mantén el kéfir a 4 °C (40 °F) o menos, preferiblemente en un estante interior y no en la puerta. Sin abrir dura alrededor de 1 semana desde la compra, o hasta la fecha del envase si llega antes. Después de abrirlo, consúmelo en 1–2 días con el tapón bien cerrado. Como contiene cultivos vivos, el sabor se acentúa cada día incluso en frío; es normal, no significa que esté malo.",
+    "freezer": "El USDA no da un plazo de congelación para el kéfir y, en general, no se recomienda congelarlo para beberlo después. Al descongelarse se separa en suero y grumos y la textura queda granulosa, aunque sigue siendo seguro y sirve para batidos o repostería. La congelación además deja los cultivos en letargo, así que no es una forma de conservar un fermento a largo plazo.",
+    "thawing": "Si lo congelas, descongélalo en la nevera y agítalo o bátelo bien antes de usarlo; nunca lo descongeles sobre la encimera.",
+    "spoilage": [
+      "Olor punzante, amargo o a levadura que va más allá de la acidez normal del kéfir.",
+      "Manchas de moho rosadas, naranjas, verdes o con pelusa en la superficie o alrededor del tapón.",
+      "Grumos gruesos que no se integran tras agitar bien, o una textura viscosa y filamentosa.",
+      "Botella muy hinchada o que hace espuma de forma violenta al abrirla."
+    ],
+    "tips": [
+      "Elige la botella con la fecha más lejana y comprueba el precinto; el kéfir suele venderse cerca de su fecha límite.",
+      "Guárdalo de pie y con el tapón bien cerrado para que no absorba olores de la nevera.",
+      "Sirve lo que necesites y devuelve la botella a la nevera de inmediato.",
+      "Si se ha puesto muy ácido pero no está malo, úsalo en tortitas, marinadas o batidos en lugar de beberlo solo."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el kéfir?", "a": "Se puede, pero no es lo ideal. Al descongelarse se separa y queda granuloso, y el USDA no da un plazo de congelación. Tras descongelarlo en la nevera sirve para batidos o repostería."},
+      {"q": "¿Cuánto dura el kéfir en la nevera?", "a": "Alrededor de 1 semana desde la compra sin abrir, y 1–2 días una vez abierto, siempre a 4 °C (40 °F) o menos."},
+      {"q": "¿Cómo saber si el kéfir está malo?", "a": "Moho, olor amargo o a levadura, hilos viscosos o una botella hinchada indican que hay que tirarlo. Que esté más ácido o algo separado es normal."},
+      {"q": "¿El kéfir necesita refrigeración?", "a": "Sí. Contiene cultivos vivos que siguen fermentando a temperatura ambiente, así que debe estar siempre en la nevera, abierto o sin abrir."}
+    ]
+  }
+}

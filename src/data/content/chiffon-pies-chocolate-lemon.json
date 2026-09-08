@@ -1,0 +1,107 @@
+{
+  "slug": "chiffon-pies-chocolate-lemon",
+  "en": {
+    "name": "Chiffon pies",
+    "aliases": ["chocolate chiffon pie", "lemon chiffon pie", "mousse pie", "gelatin pie", "airy cream pie"],
+    "summary": "Chiffon pies, such as chocolate or lemon chiffon, have a light, airy filling made by folding beaten egg whites or whipped cream into a gelatin-set custard. That delicate structure is also fragile: keep the pie in the fridge at 4 °C (40 °F) or below and eat it within 1–2 days. USDA lists no freezer timeline, since freezing ruins the texture.",
+    "pantry": "Chiffon pie cannot be stored at room temperature. The filling contains eggs and dairy and is set with gelatin, so it both spoils and collapses when warm; follow the 2-hour rule (1 hour above 32 °C / 90 °F). Slice at the table and return the rest to the fridge immediately.",
+    "fridge": "Keep chiffon pie at 4 °C (40 °F) or below, loosely covered with a pie dome or tented foil so the surface is not crushed. It is at its best within 1–2 days; after that the filling weeps, deflates and the crust turns soggy. Keep it away from strong-smelling foods, because the airy filling absorbs odours easily.",
+    "freezer": "Freezing is not recommended and USDA gives no freezer timeline. The whipped, gelatin-set filling separates and turns grainy or watery when thawed, and the pie loses its lift. Freeze only the baked crust if you want to get ahead.",
+    "thawing": null,
+    "spoilage": [
+      "Filling that has sunk, separated or gone watery at the base",
+      "Sour, eggy or off smell",
+      "Mould on the crust or filling surface",
+      "Rubbery skin on top or a slimy feel to the filling"
+    ],
+    "tips": [
+      "Make or buy chiffon pie the same day you plan to serve it, or the day before at most",
+      "Chill the pie for several hours before slicing so the filling holds its shape",
+      "Use a knife dipped in hot water and wiped dry for clean slices",
+      "Add whipped cream, curls or zest just before serving"
+    ],
+    "faq": [
+      {"q": "Can you freeze chiffon pie?", "a": "It is not recommended. USDA gives no freezer timeline because the light gelatin-and-egg-white filling separates and collapses when thawed."},
+      {"q": "How long does chiffon pie last in the fridge?", "a": "Only 1–2 days at 4 °C (40 °F) or below, loosely covered."},
+      {"q": "Does chiffon pie need to be refrigerated?", "a": "Yes. The egg-and-dairy filling is perishable and gelatin softens when warm, so keep it cold and never leave it out for more than 2 hours."}
+    ]
+  },
+  "zh": {
+    "name": "戚風派",
+    "aliases": ["巧克力戚風派", "檸檬戚風派", "慕斯派", "吉利丁派", "蓬鬆奶油派"],
+    "summary": "戚風派（如巧克力戚風派、檸檬戚風派）的內餡輕盈蓬鬆，是把打發的蛋白或鮮奶油拌進用吉利丁凝固的卡士達裡做成的。這種細緻的結構也很脆弱：放在 4°C 以下冷藏，1～2 天內吃完。USDA 沒有列出冷凍期限，因為冷凍會毀掉口感。",
+    "pantry": "戚風派不能常溫保存。內餡含蛋和乳製品，又靠吉利丁凝固，溫度一高既會壞也會塌，請遵守 2 小時原則（室溫超過 32°C 時只有 1 小時）。在餐桌上切好，剩下的立刻放回冰箱。",
+    "fridge": "保持在 4°C 以下，用派罩或鋁箔紙鬆鬆罩住，表面才不會被壓壞。1～2 天內最好吃，之後內餡會出水、消泡，派皮也會變軟。遠離味道重的食物，蓬鬆的內餡很容易吸味。",
+    "freezer": "不建議冷凍，USDA 也沒有給冷凍期限。打發後用吉利丁定型的內餡解凍後會分離、變得粗糙或出水，整個派都會塌掉。想提早準備的話只冷凍烤好的派皮。",
+    "thawing": null,
+    "spoilage": [
+      "內餡塌陷、分離，或底部出水",
+      "有酸味、蛋腥味或怪味",
+      "派皮或內餡表面長黴",
+      "表面結一層橡膠似的皮，或內餡摸起來黏滑"
+    ],
+    "tips": [
+      "當天要吃當天做或買，最多提前一天",
+      "切之前先冷藏幾個小時，內餡才不會散",
+      "刀子泡熱水擦乾再切，切面才漂亮",
+      "鮮奶油、巧克力屑或檸檬皮要吃之前再加"
+    ],
+    "faq": [
+      {"q": "戚風派可以冷凍嗎？", "a": "不建議。USDA 沒有給冷凍期限，因為吉利丁加蛋白的輕盈內餡解凍後會分離塌陷。"},
+      {"q": "戚風派放冰箱可以放多久？", "a": "只有 1～2 天，放在 4°C 以下鬆鬆蓋著。"},
+      {"q": "戚風派一定要冰嗎？", "a": "一定要。蛋奶內餡容易壞，吉利丁遇熱也會軟化，要保持冰涼，室溫不可超過 2 小時。"}
+    ]
+  },
+  "ja": {
+    "name": "シフォンパイ",
+    "aliases": ["チョコレートシフォンパイ", "レモンシフォンパイ", "ムースパイ", "ゼラチンパイ", "ふわふわクリームパイ"],
+    "summary": "チョコレートやレモンのシフォンパイは、ゼラチンで固めたカスタードに泡立てた卵白やホイップクリームを合わせた、軽くふんわりしたフィリングが特徴です。その繊細な構造は崩れやすくもあります。4℃以下で冷蔵し、1〜2日以内に食べ切ってください。冷凍すると食感が台無しになるため、USDAは冷凍期間を示していません。",
+    "pantry": "シフォンパイは常温保存できません。フィリングには卵と乳製品が含まれ、ゼラチンで固めているので、温まると傷むだけでなく崩れてしまいます。室温に置いてよいのは2時間まで（32℃を超える環境では1時間まで）。食卓で切り分け、残りはすぐ冷蔵庫へ戻しましょう。",
+    "fridge": "4℃以下で、パイカバーかアルミホイルをふんわりかぶせて表面がつぶれないようにして保存します。1〜2日以内が食べごろで、それを過ぎるとフィリングから水が出てしぼみ、パイ皮も湿ってきます。ふんわりしたフィリングはにおいを吸いやすいので、においの強い食品からは離してください。",
+    "freezer": "冷凍はおすすめできず、USDAも冷凍期間を示していません。泡立ててゼラチンで固めたフィリングは解凍すると分離してザラついたり水っぽくなったりし、ふくらみも失われます。作り置きしたいなら、焼いたパイ皮だけを冷凍してください。",
+    "thawing": null,
+    "spoilage": [
+      "フィリングが沈む、分離する、底に水がたまる",
+      "酸っぱい、卵臭い、または異臭がする",
+      "パイ皮やフィリングの表面にカビ",
+      "表面にゴムのような膜が張る、フィリングがぬるぬるする"
+    ],
+    "tips": [
+      "食べる当日に作る・買うのが理想。遅くとも前日までに",
+      "切る前に数時間しっかり冷やすと、フィリングが形を保ちます",
+      "ナイフを湯につけて拭いてから切ると断面がきれいに",
+      "ホイップ、チョコの削りかけ、レモンの皮は食べる直前に"
+    ],
+    "faq": [
+      {"q": "シフォンパイは冷凍できますか？", "a": "おすすめしません。ゼラチンと卵白の軽いフィリングは解凍で分離して崩れるため、USDAは冷凍期間を示していません。"},
+      {"q": "シフォンパイは冷蔵庫で何日持ちますか？", "a": "4℃以下でふんわりふたをして、1〜2日だけです。"},
+      {"q": "シフォンパイは冷蔵しないとだめですか？", "a": "はい。卵と乳製品のフィリングは傷みやすく、ゼラチンは温まると柔らかくなるので、冷たく保ち、常温には2時間以上置かないでください。"}
+    ]
+  },
+  "es": {
+    "name": "Tartas chiffon",
+    "aliases": ["pay chiffon", "tarta chiffon de chocolate", "tarta chiffon de limón", "tarta de mousse", "tarta de gelatina"],
+    "summary": "Las tartas chiffon, como la de chocolate o la de limón, tienen un relleno ligero y aireado que se obtiene incorporando claras montadas o nata a una crema cuajada con gelatina. Esa estructura delicada también es frágil: guarda la tarta en la nevera a 4 °C (40 °F) o menos y cómela en 1–2 días. El USDA no indica plazo de congelación, porque congelarla arruina la textura.",
+    "pantry": "La tarta chiffon no puede guardarse a temperatura ambiente. El relleno lleva huevo y lácteos y está cuajado con gelatina, así que con el calor se estropea y además se hunde; sigue la regla de las 2 horas (1 hora si hace más de 32 °C / 90 °F). Córtala en la mesa y devuelve el resto a la nevera enseguida.",
+    "fridge": "Mantén la tarta chiffon a 4 °C (40 °F) o menos, cubierta sin apretar con una campana o papel de aluminio en forma de tienda para no aplastar la superficie. Está en su punto durante 1–2 días; después el relleno suelta líquido, se desinfla y la base se empapa. Aléjala de alimentos de olor fuerte, porque el relleno aireado absorbe olores con facilidad.",
+    "freezer": "No se recomienda congelarla y el USDA no da plazo de congelación. El relleno montado y cuajado con gelatina se separa y queda granuloso o aguado al descongelar, y la tarta pierde su volumen. Congela solo la base horneada si quieres adelantar trabajo.",
+    "thawing": null,
+    "spoilage": [
+      "Relleno hundido, separado o con agua en la base",
+      "Olor agrio, a huevo o extraño",
+      "Moho en la base o en la superficie del relleno",
+      "Piel gomosa en la parte superior o tacto viscoso en el relleno"
+    ],
+    "tips": [
+      "Prepara o compra la tarta chiffon el mismo día que vayas a servirla, o el día anterior como mucho",
+      "Enfríala varias horas antes de cortarla para que el relleno mantenga la forma",
+      "Usa un cuchillo mojado en agua caliente y secado para obtener porciones limpias",
+      "Añade la nata, las virutas o la ralladura justo antes de servir"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la tarta chiffon?", "a": "No se recomienda. El USDA no da plazo de congelación porque el relleno ligero de gelatina y claras se separa y se hunde al descongelar."},
+      {"q": "¿Cuánto dura la tarta chiffon en la nevera?", "a": "Solo 1–2 días a 4 °C (40 °F) o menos, cubierta sin apretar."},
+      {"q": "¿La tarta chiffon necesita refrigeración?", "a": "Sí. El relleno de huevo y lácteos es perecedero y la gelatina se ablanda con el calor, así que mantenla fría y nunca la dejes fuera más de 2 horas."}
+    ]
+  }
+}

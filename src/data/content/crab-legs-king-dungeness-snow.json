@@ -1,0 +1,107 @@
+{
+  "slug": "crab-legs-king-dungeness-snow",
+  "en": {
+    "name": "Crab legs (king, Dungeness, snow)",
+    "aliases": ["king crab legs", "snow crab legs", "Dungeness crab clusters", "crab clusters", "cooked crab legs"],
+    "summary": "King, Dungeness and snow crab legs are almost always sold pre-cooked, either thawed at the fish counter or frozen in bags. Keep them 2–4 days in the fridge from purchase, or 9–12 months in the freezer.",
+    "pantry": "Crab legs are perishable and belong in the fridge or freezer, not on the counter. Do not leave them out for more than 2 hours, or 1 hour above 32 °C (90 °F). If you are serving a crab feast, put out only what will be eaten within that window.",
+    "fridge": "Store crab legs at or below 4 °C (40 °F) in the coldest part of the fridge and use them within 2–4 days of purchase. Keep them in a sealed bag or covered container, ideally over a tray of ice, so they stay cold and do not drip on other food. Legs bought already thawed should not be refrozen unless they are still very cold and fresh.",
+    "freezer": "Frozen crab legs keep their best quality for 9–12 months at −18 °C (0 °F). Leave commercially frozen bags sealed; if you are freezing thawed legs yourself, wrap clusters tightly in plastic then foil or a freezer bag to prevent freezer burn. They stay safe beyond a year but the meat gets drier and stringier.",
+    "thawing": "Thaw crab legs in the fridge overnight in a covered dish to catch drips. For a faster method, keep them in a sealed bag under cold running water or in a bowl of cold water changed every 30 minutes. Do not thaw them on the counter.",
+    "spoilage": [
+      "Strong fishy, sour or ammonia odour when the bag is opened",
+      "Slimy shell surface or meat that feels mushy",
+      "Meat that has turned grey or has dark, dry patches",
+      "Heavy ice crystals or white freezer-burned areas, a sign of quality loss"
+    ],
+    "tips": [
+      "Buy frozen when you can and thaw just before cooking for the freshest texture",
+      "Ask the counter whether the legs were previously frozen so you know whether to refreeze",
+      "Cut clusters into single legs before freezing to fit bags and thaw quickly",
+      "Label freezer bags with the date and use the oldest first"
+    ],
+    "faq": [
+      {"q": "Can you freeze crab legs?", "a": "Yes. Keep sealed frozen bags as they are, or wrap thawed legs tightly, and freeze at −18 °C (0 °F) for up to 9–12 months for best quality."},
+      {"q": "How long do crab legs last in the fridge?", "a": "2–4 days from purchase at or below 4 °C (40 °F). Keep them cold, covered and ideally on ice."},
+      {"q": "How can you tell if crab legs have gone bad?", "a": "A sour or ammonia smell, slimy shells and grey or mushy meat all mean they should be thrown out."}
+    ]
+  },
+  "zh": {
+    "name": "蟹腳（帝王蟹、鄧金斯蟹、雪蟹）",
+    "aliases": ["帝王蟹腳", "雪蟹腳", "松葉蟹腳", "鄧金斯蟹", "蟹腿", "熟凍蟹腳"],
+    "summary": "帝王蟹、鄧金斯蟹和雪蟹的蟹腳幾乎都是煮熟後販售，不是在魚攤解凍賣，就是整袋冷凍。冷藏自購買日起可放 2～4 天，冷凍可放 9～12 個月。",
+    "pantry": "蟹腳是生鮮食品，要放冰箱或冷凍庫，不能放在流理台上。離開冰箱不要超過 2 小時，室溫高於 32 °C 時不超過 1 小時。辦蟹腳大餐時，一次只拿出這段時間內吃得完的份量。",
+    "fridge": "放在冰箱最冷的位置，維持 4 °C 以下，購買後 2～4 天內吃完。裝在密封袋或加蓋容器裡，最好下面墊一盤冰，既保冷又不會滴水到其他食物上。已解凍賣的蟹腳，除非還非常冰且新鮮，否則不要再冷凍。",
+    "freezer": "冷凍蟹腳在 −18 °C 下 9～12 個月內品質最好。市售冷凍袋維持密封即可；自己冷凍已解凍的蟹腳，請用保鮮膜緊緊包好，再套鋁箔或冷凍袋，避免凍傷。超過一年仍然安全，但肉會變乾、變柴。",
+    "thawing": "放在有蓋的盤子裡冷藏解凍一晚，接住滴下的水。趕時間可連密封袋泡冷水，每 30 分鐘換水，或用冷水沖。不要放在室溫下解凍。",
+    "spoilage": [
+      "開袋時有濃烈腥味、酸味或氨味",
+      "殼表面黏滑，或蟹肉軟爛",
+      "蟹肉變灰，或出現深色、乾硬的斑塊",
+      "袋內大量結霜或有白色凍傷區塊，代表品質已下降"
+    ],
+    "tips": [
+      "盡量買冷凍的，煮之前再解凍，口感最新鮮",
+      "跟攤商確認蟹腳是否曾經冷凍過，才知道能不能再冷凍",
+      "冷凍前把整組蟹腳剪成單支，好裝袋也解凍得快",
+      "冷凍袋標上日期，先買的先吃"
+    ],
+    "faq": [
+      {"q": "蟹腳可以冷凍嗎？", "a": "可以。密封的冷凍袋直接放冷凍，已解凍的蟹腳要緊密包好，在 −18 °C 下 9～12 個月內風味最佳。"},
+      {"q": "蟹腳放冰箱可以放多久？", "a": "自購買日起 2～4 天，冷藏溫度保持 4 °C 以下，加蓋並最好放在冰上。"},
+      {"q": "蟹腳壞掉怎麼分辨？", "a": "有酸味或氨味、殼黏滑、蟹肉變灰或軟爛，都表示該丟掉了。"}
+    ]
+  },
+  "ja": {
+    "name": "かにの脚（タラバ・ダンジネス・ズワイ）",
+    "aliases": ["タラバガニの脚", "ズワイガニの脚", "ダンジネスクラブ", "かに脚", "ボイルかに脚", "冷凍かに脚"],
+    "summary": "タラバガニ、ダンジネスクラブ、ズワイガニの脚は、ほとんどがボイル済みで、鮮魚売場で解凍品として、または袋入りの冷凍品として売られています。冷蔵なら購入から2〜4日、冷凍なら9〜12か月が目安です。",
+    "pantry": "かにの脚は生鮮品なので、冷蔵庫か冷凍庫に入れ、調理台に出しっぱなしにしないでください。室温に置くのは2時間まで（32 °Cを超えるなら1時間まで）です。かにパーティーでは、その時間内に食べ切れる分だけ出しましょう。",
+    "fridge": "冷蔵庫の最も冷える場所で4 °C以下に保ち、購入から2〜4日以内に食べます。密閉袋かふた付き容器に入れ、できれば氷を敷いたトレーにのせると冷たさを保て、ほかの食品に汁が垂れません。解凍品として買ったものは、まだ十分に冷たく新鮮でない限り再冷凍しないでください。",
+    "freezer": "冷凍のかに脚は−18 °Cで9〜12か月がおいしさの目安です。市販の冷凍袋は開けずにそのまま保存し、解凍品を自分で冷凍する場合はラップでぴったり包んでからアルミホイルか冷凍用保存袋に入れ、冷凍焼けを防ぎます。1年を過ぎても安全ですが、身がパサつき筋っぽくなります。",
+    "thawing": "ふた付きの容器に入れて冷蔵庫で一晩かけて解凍し、汁を受け止めます。急ぐときは密閉袋のまま冷水に浸け、30分ごとに水を替えるか流水にあてます。室温での解凍は避けてください。",
+    "spoilage": [
+      "袋を開けたときに強い生臭さ、酸っぱいにおい、アンモニア臭がする",
+      "殻の表面がぬるぬるしている、身がぐずぐずに柔らかい",
+      "身が灰色に変色している、黒っぽく乾いた部分がある",
+      "袋の中に大量の霜や白い冷凍焼けがある（品質低下のサイン）"
+    ],
+    "tips": [
+      "できるだけ冷凍品を買い、調理直前に解凍すると食感が良い",
+      "解凍品かどうかを店で確認し、再冷凍できるか判断する",
+      "冷凍前に脚を1本ずつ切り分けると、袋に収まりやすく解凍も早い",
+      "冷凍袋に日付を書き、古いものから使う"
+    ],
+    "faq": [
+      {"q": "かにの脚は冷凍できますか？", "a": "できます。冷凍袋は密封のまま、解凍品はしっかり包んで−18 °Cで冷凍すれば、9〜12か月はおいしく食べられます。"},
+      {"q": "かにの脚は冷蔵庫でどのくらい持ちますか？", "a": "4 °C以下で購入から2〜4日です。ふたをして、できれば氷の上で冷たく保ってください。"},
+      {"q": "かにの脚が傷んでいるかどうかの見分け方は？", "a": "酸っぱいにおいやアンモニア臭、殻のぬめり、灰色でぐずぐずした身は、すべて処分のサインです。"}
+    ]
+  },
+  "es": {
+    "name": "Patas de cangrejo (rey, Dungeness, de las nieves)",
+    "aliases": ["patas de cangrejo real", "patas de centolla", "cangrejo de las nieves", "patas de cangrejo Dungeness", "patas de cangrejo cocidas", "muslos de cangrejo"],
+    "summary": "Las patas de cangrejo rey, Dungeness y de las nieves casi siempre se venden ya cocidas, descongeladas en la pescadería o congeladas en bolsas. Duran 2–4 días en el refrigerador desde la compra, o 9–12 meses en el congelador.",
+    "pantry": "Las patas de cangrejo son perecederas y deben estar en el refrigerador o el congelador, nunca sobre la encimera. No las dejes fuera más de 2 horas, o más de 1 hora si hace más de 32 °C (90 °F). Si preparas una mariscada, saca solo lo que se vaya a comer en ese tiempo.",
+    "fridge": "Guárdalas a 4 °C (40 °F) o menos en la zona más fría del refrigerador y consúmelas en 2–4 días desde la compra. Mételas en una bolsa cerrada o recipiente tapado, idealmente sobre una bandeja con hielo, para que se mantengan frías y no goteen sobre otros alimentos. Las patas compradas ya descongeladas no deben volver a congelarse salvo que sigan muy frías y frescas.",
+    "freezer": "Las patas de cangrejo congeladas conservan su mejor calidad 9–12 meses a −18 °C (0 °F). Deja las bolsas comerciales selladas; si congelas patas descongeladas, envuélvelas bien en film y luego en papel de aluminio o una bolsa de congelación para evitar quemaduras por frío. Siguen siendo seguras pasado el año, pero la carne se vuelve más seca y fibrosa.",
+    "thawing": "Descongela las patas en el refrigerador durante la noche, en un plato tapado para recoger el líquido. Para ir más rápido, déjalas en una bolsa cerrada bajo agua fría corriente o en un bol de agua fría que cambies cada 30 minutos. No las descongeles sobre la encimera.",
+    "spoilage": [
+      "Olor fuerte a pescado, agrio o a amoníaco al abrir la bolsa",
+      "Caparazón viscoso o carne blanda y pastosa",
+      "Carne grisácea o con manchas oscuras y secas",
+      "Muchos cristales de hielo o zonas blancas quemadas por el frío, señal de pérdida de calidad"
+    ],
+    "tips": [
+      "Compra congeladas cuando puedas y descongela justo antes de cocinar para una textura más fresca",
+      "Pregunta en la pescadería si ya estuvieron congeladas para saber si puedes volver a congelarlas",
+      "Separa los racimos en patas individuales antes de congelar; caben mejor y se descongelan antes",
+      "Etiqueta las bolsas con la fecha y usa primero las más antiguas"
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las patas de cangrejo?", "a": "Sí. Deja las bolsas congeladas selladas o envuelve bien las patas descongeladas y congélalas a −18 °C (0 °F); se mantienen en buena calidad 9–12 meses."},
+      {"q": "¿Cuánto duran las patas de cangrejo en el refrigerador?", "a": "2–4 días desde la compra a 4 °C (40 °F) o menos. Mantenlas frías, tapadas y, si es posible, sobre hielo."},
+      {"q": "¿Cómo saber si las patas de cangrejo están malas?", "a": "Un olor agrio o a amoníaco, el caparazón viscoso y la carne gris o pastosa indican que hay que tirarlas."}
+    ]
+  }
+}

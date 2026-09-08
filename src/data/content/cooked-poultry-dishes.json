@@ -1,0 +1,107 @@
+{
+  "slug": "cooked-poultry-dishes",
+  "en": {
+    "name": "Cooked poultry dishes",
+    "aliases": ["chicken leftovers", "cooked chicken casserole", "chicken curry (cooked)", "turkey leftovers", "chicken stew"],
+    "summary": "Cooked poultry dishes cover anything made with chicken, turkey or duck that has been fully cooked: casseroles, curries, stir-fries, soups, pot pies and holiday leftovers. Refrigerated within 2 hours, they keep 3–4 days. In the freezer they hold good quality for 4–6 months and stay safe indefinitely at −18 °C (0 °F).",
+    "pantry": "Cooked poultry cannot be kept at room temperature. Bacteria multiply quickly in the danger zone (4–60 °C / 40–140 °F), so leftovers must go into the fridge within 2 hours of cooking, or within 1 hour if the room is above 32 °C (90 °F). For buffets, keep hot dishes above 60 °C (140 °F) in a chafing dish or slow cooker and cold dishes on ice, and discard whatever has sat out beyond the limit.",
+    "fridge": "Cool large pots quickly by dividing them into shallow containers no more than 5 cm (2 in) deep, then cover and refrigerate at 4 °C (40 °F) or below. Eat within 3–4 days. Reheat leftovers to 74 °C (165 °F) throughout, bringing soups and sauces to a rolling boil, and reheat only the portion you will eat rather than the whole dish repeatedly.",
+    "freezer": "Portion into meal-sized amounts in freezer bags or rigid containers, leaving a little headspace for liquids, and freeze at −18 °C (0 °F). Use within 4–6 months for best quality; safety is not the issue after that, but sauces can separate and the meat dries out. Dishes with plenty of sauce or gravy freeze better than dry roasted pieces, while cream- and potato-based dishes may turn grainy.",
+    "thawing": "Thaw in the fridge overnight, or reheat straight from frozen in a pan, oven or microwave until steaming hot at 74 °C (165 °F). Do not thaw on the counter. Leftovers thawed in the fridge should be eaten within 3–4 days of thawing.",
+    "spoilage": [
+      "Sour, stale or off smell when the container is opened",
+      "Slimy or sticky texture on the meat or sauce",
+      "Mould spots, or a cloudy film on the surface of gravy or sauce",
+      "Any dish that was left at room temperature for more than 2 hours, even if it looks fine"
+    ],
+    "tips": [
+      "Date every container; 3–4 days in the fridge passes quickly over a holiday",
+      "Divide big batches into shallow containers so they chill fast",
+      "Freeze in single portions for quick lunches and to avoid reheating the same dish twice",
+      "Remove meat from the bone before storing to save space and cool it faster"
+    ],
+    "faq": [
+      {"q": "Can you freeze cooked chicken dishes?", "a": "Yes. Portion them into airtight containers and freeze at −18 °C (0 °F); they keep best quality for 4–6 months and stay safe longer. Saucy dishes freeze better than dry roasted meat."},
+      {"q": "How long do cooked chicken leftovers last in the fridge?", "a": "Refrigerated within 2 hours at 4 °C (40 °F) or below, cooked poultry dishes keep 3–4 days."},
+      {"q": "How can you tell if cooked chicken has gone bad?", "a": "Look for a sour or stale smell, slimy meat, mould, or a cloudy film on sauce. If the dish sat out more than 2 hours, discard it regardless of appearance."}
+    ]
+  },
+  "zh": {
+    "name": "熟的禽肉料理",
+    "aliases": ["雞肉剩菜", "煮熟的雞肉", "雞肉咖哩", "三杯雞（剩菜）", "火雞剩菜", "禽肉燉菜"],
+    "summary": "熟的禽肉料理泛指用雞、火雞或鴨做的各種熟食：燉菜、咖哩、快炒、湯、雞肉派和節慶剩菜都算。煮好後 2 小時內冷藏，可以放 3～4 天；冷凍 4～6 個月內品質最好，若持續保持 −18 °C，安全上可以放更久。",
+    "pantry": "熟禽肉不能放在室溫。細菌在危險溫度帶（4～60 °C）繁殖很快，剩菜必須在煮好後 2 小時內進冰箱，室溫超過 32 °C 則要在 1 小時內。辦桌或自助餐時，熱菜用保溫鍋維持在 60 °C 以上，冷菜放在冰上，超過時限的就直接丟掉。",
+    "fridge": "大鍋料理分裝到深度不超過 5 公分的淺容器裡快速降溫，加蓋後放進 4 °C 以下的冷藏，3～4 天內吃完。重新加熱要熱透到 74 °C，湯和醬汁要煮到滾；每次只熱要吃的份量，不要整鍋反覆加熱。",
+    "freezer": "分成一餐的份量裝進冷凍袋或硬質容器，有湯汁的留一點空間，以 −18 °C 冷凍。4～6 個月內吃完品質最好；之後安全上沒問題，但醬汁可能油水分離、肉會變乾柴。湯汁多的料理比乾烤的肉塊更適合冷凍，奶油或馬鈴薯為底的料理則容易變得粉粉沙沙。",
+    "thawing": "放冷藏隔夜解凍，或直接從冷凍狀態用鍋子、烤箱或微波爐加熱到冒煙、中心 74 °C。不要放在流理台上退冰。在冷藏解凍的剩菜要在解凍後 3～4 天內吃完。",
+    "spoilage": [
+      "打開容器有酸味、餿味或怪味",
+      "肉或醬汁摸起來黏黏滑滑",
+      "出現霉點，或醬汁、肉汁表面浮著一層混濁薄膜",
+      "在室溫放超過 2 小時的料理，就算看起來沒事也不能吃"
+    ],
+    "tips": [
+      "每個容器都貼上日期，過節時 3～4 天一下就過了",
+      "大份量分裝到淺容器，才能快速降溫",
+      "以單人份冷凍，方便當午餐，也避免同一鍋反覆加熱",
+      "存放前先把肉從骨頭上拆下來，省空間也涼得快"
+    ],
+    "faq": [
+      {"q": "煮熟的雞肉料理可以冷凍嗎？", "a": "可以。分裝進密封容器以 −18 °C 冷凍，4～6 個月內品質最好，之後安全上仍可食用。有醬汁的料理比乾烤的肉更適合冷凍。"},
+      {"q": "煮熟的雞肉放冰箱可以放多久？", "a": "在 2 小時內放進 4 °C 以下的冷藏，熟的禽肉料理可以放 3～4 天。"},
+      {"q": "怎麼判斷煮熟的雞肉壞掉了？", "a": "有酸味或餿味、肉質黏滑、發霉、醬汁表面有混濁薄膜都是壞掉的跡象。如果在室溫放超過 2 小時，不論外觀如何都要丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "鶏肉・鳥肉の調理済み料理",
+    "aliases": ["鶏料理の残り", "調理済み鶏肉", "チキンカレー（調理済み）", "鶏の煮物", "七面鳥の残り物", "鳥肉のおかず"],
+    "summary": "鶏肉・鳥肉の調理済み料理とは、鶏、七面鳥、鴨などを完全に加熱した料理全般を指します。煮込み、カレー、炒め物、スープ、チキンパイ、行事の残り物などが含まれます。調理後2時間以内に冷蔵すれば3～4日もちます。冷凍なら4～6か月はおいしく、−18 °Cを保てば安全性の面ではそれ以上保存できます。",
+    "pantry": "加熱した鳥肉は常温で保存できません。細菌は危険温度帯（4～60 °C）で急速に増えるため、残り物は調理後2時間以内、室温が32 °Cを超える場合は1時間以内に冷蔵庫へ入れてください。ビュッフェ形式なら温かい料理は保温鍋などで60 °C以上に、冷たい料理は氷の上に置き、時間を超えたものは処分します。",
+    "fridge": "大鍋の料理は深さ5 cm以下の浅い容器に小分けして素早く冷まし、蓋をして4 °C以下の冷蔵庫で保存し、3～4日以内に食べきります。温め直すときは全体が74 °Cになるまで加熱し、スープやソースはしっかり沸騰させましょう。鍋ごと何度も温め直すのではなく、食べる分だけ取り分けて加熱します。",
+    "freezer": "1食分ずつ冷凍用保存袋か密閉容器に分け、汁気のあるものは少し余裕を残して−18 °Cで冷凍します。4～6か月以内に使うと品質が良好です。それ以降も安全性に問題はありませんが、ソースが分離したり肉がパサついたりします。汁気やグレービーの多い料理は冷凍向きで、乾いたローストは向きません。クリーム系やじゃがいも入りの料理はざらついた食感になることがあります。",
+    "thawing": "冷蔵庫で一晩かけて解凍するか、凍ったまま鍋、オーブン、電子レンジで湯気が立つまで（中心74 °C）加熱します。常温での解凍は避けてください。冷蔵庫で解凍した残り物は、解凍後3～4日以内に食べきりましょう。",
+    "spoilage": [
+      "容器を開けたときに酸っぱいにおい、古くなったにおい、異臭がする",
+      "肉やソースがぬるぬる、ベタベタしている",
+      "カビの斑点がある、またはグレービーやソースの表面に濁った膜が張っている",
+      "見た目に問題がなくても、室温に2時間以上置いた料理"
+    ],
+    "tips": [
+      "すべての容器に日付を書く。行事の時期は冷蔵3～4日があっという間に過ぎる",
+      "大量に作ったら浅い容器に分けて素早く冷ます",
+      "1人分ずつ冷凍しておくと昼食に便利で、同じ料理を何度も温め直さずに済む",
+      "保存前に骨から肉を外すと場所を取らず、冷めるのも早い"
+    ],
+    "faq": [
+      {"q": "調理済みの鶏肉料理は冷凍できますか？", "a": "できます。密閉容器に小分けして−18 °Cで冷凍すれば4～6か月は品質が保たれ、それ以降も安全です。汁気のある料理のほうが乾いたローストより冷凍向きです。"},
+      {"q": "調理した鶏肉は冷蔵庫でどのくらいもちますか？", "a": "調理後2時間以内に4 °C以下で冷蔵すれば、鳥肉の調理済み料理は3～4日もちます。"},
+      {"q": "調理した鶏肉が傷んでいるかどうかはどう見分けますか？", "a": "酸っぱいにおいや古いにおい、肉のぬめり、カビ、ソース表面の濁った膜が目安です。室温に2時間以上置いたものは見た目に関係なく捨ててください。"}
+    ]
+  },
+  "es": {
+    "name": "Platos de pollo cocinados",
+    "aliases": ["sobras de pollo", "guiso de pollo", "pollo guisado", "estofado de pavo", "curry de pollo", "sobras de pavo"],
+    "summary": "Los platos de pollo cocinados incluyen todo lo preparado con pollo, pavo o pato ya cocido por completo: guisos, curris, salteados, sopas, pasteles de pollo y sobras de fiestas. Refrigerados en menos de 2 horas, duran 3–4 días. En el congelador conservan buena calidad 4–6 meses y siguen siendo seguros indefinidamente a −18 °C (0 °F).",
+    "pantry": "El pollo cocinado no puede quedarse a temperatura ambiente. Las bacterias se multiplican rápido en la zona de peligro (4–60 °C / 40–140 °F), así que las sobras deben ir al refrigerador en menos de 2 horas desde que se cocinan, o en menos de 1 hora si hace más de 32 °C (90 °F). En un bufé, mantén los platos calientes por encima de 60 °C (140 °F) en un calientaplatos u olla de cocción lenta, los fríos sobre hielo, y desecha lo que haya superado el límite.",
+    "fridge": "Enfría las ollas grandes rápidamente repartiendo el contenido en recipientes poco profundos, de no más de 5 cm (2 in), y luego tapa y refrigera a 4 °C (40 °F) o menos. Cómelo en 3–4 días. Recalienta las sobras hasta 74 °C (165 °F) en todo el plato, llevando sopas y salsas a ebullición, y calienta solo la porción que vas a comer en lugar de todo el plato una y otra vez.",
+    "freezer": "Divide en porciones de una comida en bolsas para congelar o recipientes rígidos, dejando un poco de espacio para los líquidos, y congela a −18 °C (0 °F). Úsalos en 4–6 meses para la mejor calidad; después la seguridad no es el problema, pero las salsas pueden separarse y la carne se reseca. Los platos con bastante salsa o jugo se congelan mejor que las piezas asadas secas, mientras que los que llevan crema o papa pueden quedar granulosos.",
+    "thawing": "Descongela en el refrigerador durante la noche, o recalienta directamente congelado en sartén, horno o microondas hasta que humee y alcance 74 °C (165 °F). No descongeles en la encimera. Las sobras descongeladas en el refrigerador deben comerse en 3–4 días desde la descongelación.",
+    "spoilage": [
+      "Olor agrio, rancio o extraño al abrir el recipiente",
+      "Textura viscosa o pegajosa en la carne o la salsa",
+      "Puntos de moho, o una película turbia en la superficie de la salsa",
+      "Cualquier plato que haya estado a temperatura ambiente más de 2 horas, aunque parezca en buen estado"
+    ],
+    "tips": [
+      "Pon fecha a cada recipiente; los 3–4 días de refrigerador pasan rápido en una celebración",
+      "Reparte las tandas grandes en recipientes poco profundos para que se enfríen rápido",
+      "Congela en porciones individuales para almuerzos rápidos y para no recalentar el mismo plato dos veces",
+      "Separa la carne del hueso antes de guardarla para ahorrar espacio y enfriarla más rápido"
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar los platos de pollo cocinados?", "a": "Sí. Divídelos en recipientes herméticos y congélalos a −18 °C (0 °F); conservan la mejor calidad 4–6 meses y siguen siendo seguros después. Los platos con salsa se congelan mejor que la carne asada seca."},
+      {"q": "¿Cuánto duran las sobras de pollo cocinado en el refrigerador?", "a": "Refrigeradas en menos de 2 horas a 4 °C (40 °F) o menos, los platos de pollo cocinados duran 3–4 días."},
+      {"q": "¿Cómo saber si el pollo cocinado está en mal estado?", "a": "Fíjate en un olor agrio o rancio, carne viscosa, moho o una película turbia sobre la salsa. Si el plato estuvo fuera más de 2 horas, deséchalo sin importar su aspecto."}
+    ]
+  }
+}

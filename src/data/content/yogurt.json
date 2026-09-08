@@ -1,0 +1,111 @@
+{
+  "slug": "yogurt",
+  "en": {
+    "name": "Yogurt",
+    "aliases": ["yoghurt", "Greek yogurt", "natural yogurt", "fruit yogurt", "plain yogurt"],
+    "summary": "Yogurt is milk fermented with live cultures until it thickens and turns pleasantly tart. Kept refrigerated, it lasts about 1–2 weeks from the date of purchase, and it can be frozen for 1–2 months. It must stay cold and should not sit out at room temperature.",
+    "pantry": "Yogurt is a perishable cultured dairy product and cannot be stored at room temperature. Follow the 2-hour rule, or 1 hour if the room is above 32 °C (90 °F): serve what you need and put the tub straight back. In a lunch box, pack it with an ice pack. Only special shelf-stable yogurt in aseptic packaging can sit in the pantry before opening.",
+    "fridge": "Keep yogurt at 4 °C (40 °F) or below, ideally on an inside shelf rather than the door. It keeps about 1–2 weeks from purchase, or until the date on the container if that comes first. Keep the lid or foil sealed and use a clean spoon each time; once opened, finish it within a few days for the best flavour. A little clear whey on top is normal and can be stirred back in or poured off.",
+    "freezer": "Yogurt can be frozen for 1–2 months at −18 °C (0 °F). Freeze it in its sealed cup or in small airtight containers with a little headspace, and label the date. Frozen food stays safe indefinitely at −18 °C; the 1–2 months is for quality. Thawed yogurt is thinner and grainier because the proteins and whey separate, so it is best in smoothies, baking, marinades or eaten frozen as a treat. The live cultures survive freezing.",
+    "thawing": "Thaw yogurt in the fridge, never on the counter. Stir well before using and eat it within a few days; do not refreeze.",
+    "spoilage": [
+      "Mould of any colour on the surface or inside the lid, even a small spot.",
+      "A sharp, yeasty or bitter smell that goes beyond yogurt's normal tang.",
+      "A bulging or puffed-up lid or container.",
+      "Large amounts of liquid, a curdled or lumpy texture, or a fizzy, sour taste."
+    ],
+    "tips": [
+      "Check the date and choose containers from the back of the chiller, which are usually freshest.",
+      "Buy large tubs only if you will finish them within a week or so of opening; single cups suit occasional use.",
+      "Never eat straight from a tub you plan to keep; spoon a portion out with a clean spoon.",
+      "Freeze yogurt in ice-cube trays for smoothies, or freeze fruit yogurt cups whole for an easy frozen dessert."
+    ],
+    "faq": [
+      {"q": "Can you freeze yogurt?", "a": "Yes, for 1–2 months at −18 °C (0 °F). It becomes thinner and grainier after thawing, so use it in smoothies or baking, or eat it frozen."},
+      {"q": "How long does yogurt last in the fridge?", "a": "About 1–2 weeks from the date of purchase at 4 °C (40 °F) or below, or until the date on the container. Finish an opened tub within a few days."},
+      {"q": "How can you tell if yogurt has gone bad?", "a": "Any mould, a bitter or yeasty smell, a bulging lid, or a fizzy sour taste mean it should be thrown out. A little watery whey on top is normal."},
+      {"q": "Does yogurt need to be refrigerated?", "a": "Yes. Regular yogurt must be kept cold at all times and should not sit out for more than 2 hours."}
+    ]
+  },
+  "zh": {
+    "name": "優格",
+    "aliases": ["優酪乳", "酸奶", "乳酪", "希臘優格", "原味優格", "水果優格"],
+    "summary": "優格是用活菌發酵牛奶，讓它變稠、帶點微酸的乳製品。冷藏從購買日起可以放約 1–2 週，冷凍可以放 1–2 個月。一定要保持低溫，不要放在室溫。",
+    "pantry": "優格是容易腐壞的發酵乳製品，不能放在室溫保存。請遵守 2 小時原則（室溫超過 32 °C 時為 1 小時）：舀出需要的量就馬上放回冰箱。帶便當時要搭配保冷劑。只有無菌包裝的常溫優格可以在開封前放櫃子。",
+    "fridge": "放在 4 °C 以下冷藏，最好放內側層架而不是門邊。從購買日起可以放約 1–2 週，或以包裝標示的期限為準，看哪個先到。蓋子或封膜要封好，每次都用乾淨的湯匙；開封後幾天內吃完風味最好。表面有一點透明的乳清是正常的，攪回去或倒掉都可以。",
+    "freezer": "優格可以在 −18 °C 冷凍 1–2 個月。直接連原本的密封杯冷凍，或分裝到小密封盒並留一點空間，寫上日期。冷凍食品在 −18 °C 下安全期是無限的，1–2 個月是品質最佳期。解凍後蛋白質和乳清會分離，質地變稀、變粗，最適合打果昔、烘焙、醃肉，或直接當冰品吃。活菌冷凍後仍然存活。",
+    "thawing": "放冷藏解凍，不要放在室溫。使用前攪拌均勻，幾天內吃完，不要再冷凍。",
+    "spoilage": [
+      "表面或蓋子內側有任何顏色的霉，即使只有一小點。",
+      "有刺鼻、酵母味或苦味，超過優格本來的酸味。",
+      "蓋子或容器膨脹鼓起。",
+      "出很多水、質地凝結成塊，或吃起來酸中帶氣泡感。"
+    ],
+    "tips": [
+      "看清楚期限，從冷藏櫃後方拿，通常最新鮮。",
+      "大盒裝只在開封後一週左右吃得完時才買；偶爾吃的話小杯裝比較適合。",
+      "打算留著的大盒不要直接挖著吃，用乾淨的湯匙舀一份出來。",
+      "把優格倒進製冰盒冷凍，打果昔很方便；整杯水果優格冷凍就是簡單的冰品。"
+    ],
+    "faq": [
+      {"q": "優格可以冷凍嗎？", "a": "可以，在 −18 °C 可以放 1–2 個月。解凍後會變稀、變粗，適合打果昔、烘焙，或直接冰著吃。"},
+      {"q": "優格放冰箱可以放多久？", "a": "從購買日起在 4 °C 以下約 1–2 週，或以包裝期限為準。開封後幾天內吃完。"},
+      {"q": "怎麼判斷優格壞掉了？", "a": "長霉、有苦味或酵母味、蓋子膨脹、吃起來有氣泡酸味，就要丟掉。表面有一點乳清是正常的。"},
+      {"q": "優格一定要放冰箱嗎？", "a": "要。一般優格必須全程冷藏，室溫不要放超過 2 小時。"}
+    ]
+  },
+  "ja": {
+    "name": "ヨーグルト",
+    "aliases": ["プレーンヨーグルト", "ギリシャヨーグルト", "フルーツヨーグルト", "発酵乳", "yogurt"],
+    "summary": "ヨーグルトは、牛乳を生きた乳酸菌で発酵させてとろみと心地よい酸味をつけた乳製品です。冷蔵で購入日から約1〜2週間、冷凍なら1〜2か月保存できます。常に冷やしておく必要があり、常温には置かないでください。",
+    "pantry": "ヨーグルトは傷みやすい発酵乳製品で、常温保存はできません。2時間ルール（室温が32 °Cを超える場合は1時間）を守り、必要な分を取り分けたらすぐ冷蔵庫に戻しましょう。お弁当には保冷剤を添えてください。無菌包装の常温保存タイプだけは、開封前なら戸棚に置けます。",
+    "fridge": "4 °C以下で、ドアポケットではなく庫内の棚に置くのが理想です。購入日から約1〜2週間、または容器の期限のどちらか早い方まで。ふたやフィルムはしっかり閉じ、毎回清潔なスプーンを使いましょう。開封後は数日以内に食べきると風味が良いです。表面に少し透明なホエイ（乳清）が出るのは正常で、混ぜ戻しても捨てても構いません。",
+    "freezer": "ヨーグルトは−18 °Cで1〜2か月冷凍できます。未開封のカップのまま、または小さな密閉容器に少し余裕を残して入れ、日付を書いておきましょう。−18 °Cなら安全性は保たれ、1〜2か月は品質の目安です。解凍するとたんぱく質とホエイが分離してさらっと、ざらついた食感になるので、スムージー、お菓子作り、肉の漬け込み、または凍ったままアイス感覚で食べるのがおすすめです。乳酸菌は冷凍しても生き残ります。",
+    "thawing": "冷蔵庫で解凍し、常温には出さないでください。使う前によく混ぜ、数日以内に食べきりましょう。再冷凍はしないでください。",
+    "spoilage": [
+      "表面やふたの裏に、色を問わずカビがある（小さな点でも）。",
+      "ヨーグルト本来の酸味を超えた、ツンとしたにおい、酵母臭、苦みがある。",
+      "ふたや容器が膨らんでいる。",
+      "水分が大量に出ている、ダマになって凝固している、または酸っぱくてシュワっとした味がする。"
+    ],
+    "tips": [
+      "期限を確認し、冷蔵ケースの奥にあるものを選びましょう。たいてい一番新しいです。",
+      "大容量パックは開封後1週間ほどで食べきれるときだけに。たまに食べるなら小分けカップが向いています。",
+      "取っておくパックから直接食べないこと。清潔なスプーンで取り分けましょう。",
+      "製氷皿で凍らせておくとスムージーに便利です。フルーツヨーグルトはカップごと凍らせれば手軽なアイスになります。"
+    ],
+    "faq": [
+      {"q": "ヨーグルトは冷凍できますか？", "a": "はい。−18 °Cで1〜2か月保存できます。解凍するとさらっとしてざらつくので、スムージーやお菓子作りに使うか、凍ったまま食べるのがおすすめです。"},
+      {"q": "ヨーグルトは冷蔵庫でどのくらい日持ちしますか？", "a": "4 °C以下で購入日から約1〜2週間、または容器の期限までです。開封後は数日以内に食べきりましょう。"},
+      {"q": "ヨーグルトが腐っているかどうかの見分け方は？", "a": "カビ、苦みや酵母臭、ふたの膨らみ、シュワっとした酸味があれば処分してください。表面の少量のホエイは正常です。"},
+      {"q": "ヨーグルトは冷蔵庫に入れないとだめですか？", "a": "はい。通常のヨーグルトは常に冷蔵が必要で、常温に2時間以上置かないでください。"}
+    ]
+  },
+  "es": {
+    "name": "Yogur",
+    "aliases": ["yogurt", "yoghurt", "yogur griego", "yogur natural", "yogur de frutas"],
+    "summary": "El yogur es leche fermentada con cultivos vivos hasta que espesa y adquiere un punto ácido agradable. Refrigerado, dura alrededor de 1–2 semanas desde la fecha de compra, y se puede congelar 1–2 meses. Debe mantenerse frío y no quedarse a temperatura ambiente.",
+    "pantry": "El yogur es un lácteo fermentado perecedero y no puede guardarse a temperatura ambiente. Sigue la regla de las 2 horas, o 1 hora si hace más de 32 °C (90 °F): sirve lo que necesites y devuelve el envase a la nevera. En la fiambrera, acompáñalo con un acumulador de frío. Solo los yogures especiales de larga duración en envase aséptico pueden estar en la despensa antes de abrirse.",
+    "fridge": "Mantén el yogur a 4 °C (40 °F) o menos, preferiblemente en un estante interior y no en la puerta. Dura alrededor de 1–2 semanas desde la compra, o hasta la fecha del envase si llega antes. Deja la tapa o la lámina bien cerrada y usa una cuchara limpia cada vez; una vez abierto, termínalo en pocos días para disfrutar del mejor sabor. Un poco de suero transparente en la superficie es normal: puedes mezclarlo o retirarlo.",
+    "freezer": "El yogur se puede congelar 1–2 meses a −18 °C (0 °F). Congélalo en su vasito cerrado o en recipientes herméticos pequeños con un poco de espacio libre, y etiqueta la fecha. A −18 °C el alimento sigue siendo seguro indefinidamente; los 1–2 meses son una referencia de calidad. Descongelado queda más líquido y granuloso porque las proteínas y el suero se separan, así que va mejor en batidos, repostería, marinadas o comido congelado como capricho. Los cultivos vivos sobreviven a la congelación.",
+    "thawing": "Descongela el yogur en la nevera, nunca sobre la encimera. Remueve bien antes de usarlo y cómelo en pocos días; no lo vuelvas a congelar.",
+    "spoilage": [
+      "Moho de cualquier color en la superficie o en el interior de la tapa, aunque sea un punto pequeño.",
+      "Olor punzante, a levadura o amargo que va más allá de la acidez normal del yogur.",
+      "Tapa o envase hinchado o abombado.",
+      "Mucho líquido, textura cortada o grumosa, o sabor agrio con burbujas."
+    ],
+    "tips": [
+      "Revisa la fecha y coge los envases del fondo del refrigerador, que suelen ser los más frescos.",
+      "Compra envases grandes solo si los vas a terminar en una semana desde que los abras; los vasitos individuales son mejores para consumo ocasional.",
+      "Nunca comas directamente de un envase que piensas guardar; sirve una porción con una cuchara limpia.",
+      "Congela yogur en cubiteras para batidos, o congela vasitos de yogur de frutas enteros como postre helado fácil."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el yogur?", "a": "Sí, 1–2 meses a −18 °C (0 °F). Al descongelarse queda más líquido y granuloso, así que úsalo en batidos o repostería, o cómelo congelado."},
+      {"q": "¿Cuánto dura el yogur en la nevera?", "a": "Alrededor de 1–2 semanas desde la fecha de compra a 4 °C (40 °F) o menos, o hasta la fecha del envase. Termina un envase abierto en pocos días."},
+      {"q": "¿Cómo saber si el yogur está malo?", "a": "Cualquier moho, olor amargo o a levadura, tapa hinchada o sabor agrio con burbujas significan que hay que tirarlo. Un poco de suero acuoso en la superficie es normal."},
+      {"q": "¿El yogur necesita refrigeración?", "a": "Sí. El yogur normal debe mantenerse frío en todo momento y no debe estar fuera más de 2 horas."}
+    ]
+  }
+}

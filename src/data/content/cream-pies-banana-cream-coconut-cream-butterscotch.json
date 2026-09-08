@@ -1,0 +1,107 @@
+{
+  "slug": "cream-pies-banana-cream-coconut-cream-butterscotch",
+  "en": {
+    "name": "Cream pies",
+    "aliases": ["banana cream pie", "coconut cream pie", "butterscotch pie", "custard pie", "pudding pie"],
+    "summary": "Cream pies such as banana cream, coconut cream and butterscotch have a cooked custard or pudding filling made with milk and eggs, usually under whipped cream or meringue. They are strictly a fridge food: keep them at 4 °C (40 °F) or below and eat them within 3–4 days. USDA gives no freezer timeline, because the filling separates and turns watery when frozen.",
+    "pantry": "Cream pies cannot be kept at room temperature. The egg-and-milk filling is highly perishable, so the 2-hour rule applies (1 hour above 32 °C / 90 °F). Serve slices and return the pie to the fridge right away; a pie left out overnight should be discarded.",
+    "fridge": "Chill cream pies uncovered until the topping sets, then cover loosely with foil or a pie dome so the whipped cream or meringue is not crushed, and keep them at 4 °C (40 °F) or below. Eat within 3–4 days. Banana cream pie darkens and the crust softens over time, so it is best on days one and two.",
+    "freezer": "Freezing is not recommended and USDA lists no freezer timeline. The custard filling separates, weeps and becomes watery, whipped cream deflates and meringue goes rubbery, so the pie will be safe but unpleasant. If you must, freeze the baked crust on its own and make the filling fresh.",
+    "thawing": null,
+    "spoilage": [
+      "Sour or off smell from the custard filling",
+      "Watery liquid pooling in the bottom of the pie or on the plate",
+      "Mould on the crust, filling or topping",
+      "Slimy filling, or a whipped-cream topping that has collapsed and turned yellowish"
+    ],
+    "tips": [
+      "Buy or bake cream pies no more than a day ahead of when you plan to serve them",
+      "Keep a store-bought pie in the chiller section of the shop until checkout and take it straight home",
+      "Add sliced bananas or whipped cream just before serving to keep them fresh-looking",
+      "Note the date on the box or foil; 3–4 days goes by quickly"
+    ],
+    "faq": [
+      {"q": "Can you freeze cream pie?", "a": "Not successfully. USDA gives no freezer timeline because the custard filling separates and the topping breaks down. Freeze the empty crust instead."},
+      {"q": "How long does cream pie last in the fridge?", "a": "About 3–4 days at 4 °C (40 °F) or below, loosely covered."},
+      {"q": "Does cream pie need to be refrigerated?", "a": "Yes, always. The milk-and-egg filling is perishable and must not sit out for more than 2 hours."}
+    ]
+  },
+  "zh": {
+    "name": "奶油派",
+    "aliases": ["香蕉奶油派", "椰子奶油派", "奶油糖派", "卡士達派", "布丁派"],
+    "summary": "香蕉奶油派、椰子奶油派、奶油糖派這類奶油派，內餡是用牛奶和蛋煮成的卡士達或布丁，上面通常有鮮奶油或蛋白霜。它們是不折不扣的冷藏食物：放在 4°C 以下，3～4 天內吃完。USDA 沒有給冷凍期限，因為內餡冷凍後會油水分離、出水。",
+    "pantry": "奶油派不能常溫保存。蛋奶內餡非常容易腐壞，適用 2 小時原則（室溫超過 32°C 時只有 1 小時）。切好要吃的份量後立刻放回冰箱；在外面放了一整晚的派應該丟掉。",
+    "fridge": "先不加蓋冷藏，等表層定型後再用鋁箔紙鬆鬆蓋住或用派罩罩起來，鮮奶油或蛋白霜才不會被壓壞，溫度保持在 4°C 以下。3～4 天內吃完。香蕉奶油派的香蕉會變黑、派皮會變軟，第一、二天最好吃。",
+    "freezer": "不建議冷凍，USDA 也沒有列出冷凍期限。卡士達內餡冷凍後會分離、出水變稀，鮮奶油會塌陷，蛋白霜會變得像橡膠，安全上沒問題但很難吃。真的需要的話，只冷凍烤好的空派皮，內餡現做。",
+    "thawing": null,
+    "spoilage": [
+      "卡士達內餡有酸味或怪味",
+      "派底或盤子上積了一灘水",
+      "派皮、內餡或表層長黴",
+      "內餡變得黏滑，或鮮奶油塌陷、變黃"
+    ],
+    "tips": [
+      "要吃的前一天再買或再做，不要提早太多",
+      "在店裡買的派，結帳前都放在冷藏區，買完直接回家",
+      "香蕉片和鮮奶油要吃之前再加，看起來才新鮮",
+      "在盒子或鋁箔紙上寫日期，3～4 天一下就過了"
+    ],
+    "faq": [
+      {"q": "奶油派可以冷凍嗎？", "a": "效果不好。USDA 沒有給冷凍期限，因為卡士達內餡會分離、表層會壞掉。可以改冷凍空派皮。"},
+      {"q": "奶油派放冰箱可以放多久？", "a": "在 4°C 以下鬆鬆蓋著，大約可以放 3～4 天。"},
+      {"q": "奶油派一定要冰嗎？", "a": "一定要。蛋奶內餡容易腐壞，室溫放置不可超過 2 小時。"}
+    ]
+  },
+  "ja": {
+    "name": "クリームパイ",
+    "aliases": ["バナナクリームパイ", "ココナッツクリームパイ", "バタースコッチパイ", "カスタードパイ", "プリンパイ"],
+    "summary": "バナナクリームパイ、ココナッツクリームパイ、バタースコッチパイなどのクリームパイは、牛乳と卵で作ったカスタードやプディングのフィリングに、ホイップクリームやメレンゲをのせたお菓子です。完全に冷蔵向きの食品で、4℃以下で保存し3〜4日以内に食べ切ります。フィリングが冷凍で分離して水っぽくなるため、USDAは冷凍期間を示していません。",
+    "pantry": "クリームパイは常温保存できません。卵と牛乳のフィリングは非常に傷みやすく、室温に置いてよいのは2時間まで（32℃を超える環境では1時間まで）です。切り分けたらすぐ冷蔵庫に戻し、一晩出しっぱなしにしたパイは処分してください。",
+    "fridge": "まずふたをせずに冷やしてトッピングを落ち着かせ、その後アルミホイルを軽くかぶせるかパイカバーをして、ホイップやメレンゲがつぶれないようにし、4℃以下で保存します。3〜4日以内に食べ切りましょう。バナナクリームパイはバナナが黒ずみ、パイ皮も柔らかくなるので、1〜2日目が食べごろです。",
+    "freezer": "冷凍はおすすめできず、USDAも冷凍期間を示していません。カスタードは分離して水が出てシャバシャバになり、ホイップはしぼみ、メレンゲはゴムのようになります。安全ではあっても、おいしくは食べられません。どうしてもという場合は、焼いた空のパイ皮だけを冷凍し、フィリングは食べるときに作ってください。",
+    "thawing": null,
+    "spoilage": [
+      "カスタードから酸っぱいにおいや異臭",
+      "パイの底や皿に水がたまっている",
+      "パイ皮・フィリング・トッピングにカビ",
+      "フィリングがぬるぬるしている、ホイップがしぼんで黄ばんでいる"
+    ],
+    "tips": [
+      "食べる前日までに買う・作る。それ以上前は避けましょう",
+      "お店で買うときは会計直前まで冷蔵ケースに置き、まっすぐ持ち帰る",
+      "スライスバナナやホイップは食べる直前にのせると見た目もきれい",
+      "箱やホイルに日付を書いておくこと。3〜4日はあっという間です"
+    ],
+    "faq": [
+      {"q": "クリームパイは冷凍できますか？", "a": "うまくいきません。カスタードが分離しトッピングも崩れるため、USDAは冷凍期間を示していません。空のパイ皮だけ冷凍するのがおすすめです。"},
+      {"q": "クリームパイは冷蔵庫で何日持ちますか？", "a": "4℃以下で軽くふたをして、3〜4日ほどです。"},
+      {"q": "クリームパイは冷蔵しないとだめですか？", "a": "はい、必ず冷蔵してください。牛乳と卵のフィリングは傷みやすく、常温に2時間以上置いてはいけません。"}
+    ]
+  },
+  "es": {
+    "name": "Tartas de crema",
+    "aliases": ["pay de crema", "pie de plátano", "pie de coco", "tarta de butterscotch", "pastel de crema"],
+    "summary": "Las tartas de crema, como la de plátano, la de coco o la de butterscotch, llevan un relleno de crema o natillas cocido con leche y huevo, normalmente bajo nata montada o merengue. Son estrictamente un alimento de nevera: mantenlas a 4 °C (40 °F) o menos y cómelas en 3–4 días. El USDA no da plazo de congelación porque el relleno se separa y se vuelve aguado al congelarse.",
+    "pantry": "Las tartas de crema no pueden guardarse a temperatura ambiente. El relleno de huevo y leche es muy perecedero, así que se aplica la regla de las 2 horas (1 hora si hace más de 32 °C / 90 °F). Sirve las porciones y devuelve la tarta a la nevera de inmediato; una tarta que ha pasado la noche fuera debe desecharse.",
+    "fridge": "Enfría la tarta destapada hasta que la cobertura cuaje, luego cúbrela sin apretar con papel de aluminio o una campana para no aplastar la nata o el merengue, y mantenla a 4 °C (40 °F) o menos. Cómela en 3–4 días. La de plátano se oscurece y la base se ablanda con el tiempo, así que está mejor el primer y segundo día.",
+    "freezer": "No se recomienda congelarlas y el USDA no indica plazo de congelación. El relleno de crema se separa, suelta agua y queda aguado, la nata se desinfla y el merengue se vuelve gomoso, así que la tarta será segura pero desagradable. Si no hay más remedio, congela solo la base horneada y prepara el relleno al momento.",
+    "thawing": null,
+    "spoilage": [
+      "Olor agrio o extraño en el relleno de crema",
+      "Líquido acumulado en el fondo de la tarta o en el plato",
+      "Moho en la base, el relleno o la cobertura",
+      "Relleno viscoso, o nata montada hundida y amarillenta"
+    ],
+    "tips": [
+      "Compra u hornea las tartas de crema como mucho un día antes de servirlas",
+      "En la tienda, deja la tarta en el refrigerador hasta pagar y llévala directa a casa",
+      "Añade el plátano en rodajas o la nata justo antes de servir para que luzcan frescos",
+      "Anota la fecha en la caja o el aluminio; 3–4 días pasan rápido"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la tarta de crema?", "a": "No con buen resultado. El USDA no da plazo de congelación porque el relleno de crema se separa y la cobertura se estropea. Congela la base vacía en su lugar."},
+      {"q": "¿Cuánto dura la tarta de crema en la nevera?", "a": "Unos 3–4 días a 4 °C (40 °F) o menos, cubierta sin apretar."},
+      {"q": "¿La tarta de crema necesita refrigeración?", "a": "Sí, siempre. El relleno de leche y huevo es perecedero y no debe estar fuera más de 2 horas."}
+    ]
+  }
+}

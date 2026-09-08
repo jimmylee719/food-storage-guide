@@ -1,0 +1,107 @@
+{
+  "slug": "ham-fully-cooked-vacuum-packed-boneless",
+  "en": {
+    "name": "Ham, fully cooked, vacuum packed, boneless",
+    "aliases": ["vacuum-sealed ham", "boneless cooked ham", "deli ham", "packaged cooked ham", "sliced ham"],
+    "summary": "A vacuum-packed, fully cooked boneless ham is ready to eat straight from the pack, sliced or as a roast to reheat. Unopened and kept cold it lasts about 2 weeks from purchase (never beyond the use-by date); in the freezer it keeps 1–2 months for best quality. Like all cooked meat, it belongs in the fridge, not on the counter.",
+    "pantry": "Cooked ham should not be kept at room temperature. Vacuum packaging slows spoilage but does not stop it, and once the pack has been out for more than 2 hours (1 hour above 32 °C / 90 °F), bacteria can grow in the danger zone of 4–60 °C (40–140 °F). Put the ham back in the fridge as soon as you have served what you need.",
+    "fridge": "Store the sealed pack at or below 4 °C (40 °F), ideally on a low shelf at the back. It keeps about 2 weeks from purchase unopened, but always respect the printed use-by date. Once the seal is broken, the vacuum protection is gone: rewrap the ham tightly in cling film or foil, or use an airtight container, and finish it within a few days.",
+    "freezer": "The ham freezes well in its unopened vacuum pack; if the pack has been opened, wrap portions tightly in freezer film and a freezer bag, pressing out the air. Freeze at −18 °C (0 °F); it stays safe indefinitely, but for best flavour and texture use it within 1–2 months.",
+    "thawing": "Thaw in the fridge (a whole ham may need 1–2 days) or in cold water in a leak-proof bag, changing the water every 30 minutes. Do not thaw on the counter; ham thawed in the microwave should be heated right away.",
+    "spoilage": [
+      "Puffed-up or leaking vacuum pack, or a lot of cloudy liquid inside",
+      "Sour, sulphur-like or rancid smell when the pack is opened",
+      "Slimy, sticky or tacky surface on the slices",
+      "Grey, greenish or iridescent patches that go beyond the normal light sheen, or any mould"
+    ],
+    "tips": [
+      "Keep the ham sealed until you need it; the vacuum pack is its best protection.",
+      "Buy pre-sliced only if you will use it quickly; a whole piece keeps longer and stays juicier.",
+      "Write the opening date on the pack or container.",
+      "Freeze in sandwich-sized portions so you only thaw what you need."
+    ],
+    "faq": [
+      {"q": "Can you freeze vacuum-packed ham?", "a": "Yes. Freeze it in its sealed pack, or rewrap opened ham tightly, at −18 °C (0 °F). It stays safe indefinitely but is best used within 1–2 months."},
+      {"q": "How long does vacuum-packed cooked ham last in the fridge?", "a": "About 2 weeks from purchase while unopened and kept at 4 °C (40 °F) or below, but not past the use-by date. After opening, rewrap it and eat it within a few days."},
+      {"q": "How can you tell if packaged ham has gone bad?", "a": "A swollen pack, sour or rancid smell, slimy slices, grey or green discolouration or mould all mean it should be discarded."}
+    ]
+  },
+  "zh": {
+    "name": "真空包裝熟火腿（去骨）",
+    "aliases": ["真空火腿", "去骨熟火腿", "火腿切片", "三明治火腿", "包裝火腿"],
+    "summary": "真空包裝的去骨熟火腿開封即可食用，切片夾三明治或整塊加熱都行。未開封放在冰箱從購買日算起約可放 2 週（不能超過包裝上的有效期限），冷凍則以 1～2 個月內吃完為佳。它是熟肉製品，要放冰箱，不能放在桌上。",
+    "pantry": "熟火腿不能常溫存放。真空包裝只能延緩腐敗，並不能阻止細菌生長；一旦離開冰箱超過 2 小時（室溫超過 32 °C 則 1 小時），細菌就會在 4～60 °C 的危險溫度帶快速繁殖。取出需要的份量後，剩下的請馬上放回冰箱。",
+    "fridge": "未開封的真空包裝放在 4 °C 以下的冷藏室，最好放在下層靠內側。從購買日算起約可放 2 週，但一定要以包裝上的有效期限為準。開封後真空保護就失效了，請用保鮮膜或鋁箔紙把火腿包緊，或放進密封盒，幾天內吃完。",
+    "freezer": "未開封的真空包裝可以直接冷凍；已開封的則分成小份，用保鮮膜包緊再裝進冷凍袋，把空氣壓出。放在 −18 °C 冷凍庫安全上可以放很久，不過風味和口感以 1～2 個月內用完最好。",
+    "thawing": "放冷藏室慢慢解凍（整塊火腿可能需要 1～2 天），或裝進不漏水的袋子泡冷水，每 30 分鐘換水。不要放在室溫下退冰；用微波爐解凍的火腿要立即加熱。",
+    "spoilage": [
+      "真空包裝鼓起、漏液，或袋內出現大量混濁液體",
+      "開封時聞到酸味、硫磺味或油耗味",
+      "切片表面黏滑、黏手",
+      "出現灰色、綠色的斑塊或超過正常光澤的彩虹色，或長霉"
+    ],
+    "tips": [
+      "沒有要吃之前不要拆封，真空包裝是最好的保護。",
+      "切片火腿要能很快吃完再買；整塊的放得久也比較多汁。",
+      "開封後在包裝或容器上寫下日期。",
+      "冷凍時依三明治一次的用量分裝，要用多少解凍多少。"
+    ],
+    "faq": [
+      {"q": "真空包裝火腿可以冷凍嗎？", "a": "可以。未開封直接連包裝冷凍，開封過的包緊再冷凍，放在 −18 °C。安全上可以放很久，但 1～2 個月內吃完風味最好。"},
+      {"q": "真空包裝熟火腿放冰箱可以放多久？", "a": "未開封、維持 4 °C 以下，從購買日算起約 2 週，但不能超過包裝上的有效期限。開封後包好，幾天內吃完。"},
+      {"q": "怎麼知道包裝火腿壞了？", "a": "包裝鼓起、有酸味或油耗味、切片黏滑、變灰變綠或長霉，都應該丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "真空パックハム（骨なし・加熱済み）",
+    "aliases": ["ボンレスハム", "パックハム", "スライスハム", "ロースハム", "真空包装ハム"],
+    "summary": "真空パックの骨なし加熱済みハムは、開封してそのまま食べられ、スライスしても塊のまま温めても使えます。未開封で冷蔵すれば購入日から約2週間（ただし表示された期限まで）、冷凍なら1〜2か月が風味の目安です。加熱済みの食肉加工品なので常温には置かず、冷蔵庫で保存します。",
+    "pantry": "加熱済みハムは常温保存できません。真空包装は傷みを遅らせますが止めることはできず、冷蔵庫から出して2時間以上（32 °Cを超える室温では1時間以上）経つと、4〜60 °Cの危険温度帯で細菌が増殖します。必要な分を取り分けたら、残りはすぐ冷蔵庫に戻しましょう。",
+    "fridge": "未開封のパックは4 °C以下、できれば冷蔵庫の下段奥で保存します。購入日から約2週間が目安ですが、必ず表示の期限を守ってください。開封すると真空の効果はなくなるので、ラップやアルミホイルでぴったり包むか密閉容器に移し、数日で食べきります。",
+    "freezer": "未開封の真空パックはそのまま冷凍できます。開封済みなら小分けにしてラップで包み、冷凍用保存袋に入れて空気を押し出します。−18 °Cで冷凍すれば安全面では長期保存できますが、風味と食感の目安は1〜2か月です。",
+    "thawing": "冷蔵庫でゆっくり解凍する（塊なら1〜2日）か、漏れない袋に入れて冷水につけ30分ごとに水を替えます。室温での解凍は避け、電子レンジで解凍したものはすぐに加熱してください。",
+    "spoilage": [
+      "パックが膨らんでいる、汁が漏れている、袋の中に濁った液が多くたまっている",
+      "開封したときに酸っぱいにおい、硫黄臭、油の酸化したにおいがする",
+      "スライスの表面がぬるぬる、べたべたしている",
+      "通常のつやを超えた灰色や緑色の斑点、虹色の変色、カビがある"
+    ],
+    "tips": [
+      "食べる直前まで開封しないこと。真空パックがいちばんの保護になります。",
+      "スライス済みはすぐ使う分だけ購入し、長く置くなら塊のほうがジューシーさを保てます。",
+      "開封日をパックや容器に書いておきましょう。",
+      "サンドイッチ1回分ずつ冷凍しておくと、必要な分だけ解凍できます。"
+    ],
+    "faq": [
+      {"q": "真空パックのハムは冷凍できますか？", "a": "できます。未開封ならパックごと、開封済みならしっかり包み直して−18 °Cで冷凍してください。安全面では長期保存できますが、1〜2か月以内が風味の目安です。"},
+      {"q": "真空パックのハムは冷蔵庫でどのくらい持ちますか？", "a": "未開封で4 °C以下なら購入日から約2週間ですが、表示された期限を超えないようにしてください。開封後は包み直して数日以内に食べきりましょう。"},
+      {"q": "パックのハムが傷んでいるかはどう見分けますか？", "a": "パックの膨らみ、酸っぱいにおいや酸化臭、ぬめり、灰色や緑色への変色、カビがあれば処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Jamón cocido envasado al vacío, deshuesado",
+    "aliases": ["jamón de York", "jamón cocido en lonchas", "jamón dulce", "fiambre de jamón", "jamón cocido al vacío"],
+    "summary": "El jamón cocido deshuesado envasado al vacío está listo para comer nada más abrirlo, en lonchas o como pieza para recalentar. Sin abrir y en frío dura unas 2 semanas desde la compra (nunca más allá de la fecha de caducidad); en el congelador se conserva 1–2 meses con buena calidad. Como toda carne cocida, va en la nevera, no en la encimera.",
+    "pantry": "El jamón cocido no debe guardarse a temperatura ambiente. El envasado al vacío retrasa el deterioro, pero no lo detiene: si el paquete lleva más de 2 horas fuera (1 hora por encima de 32 °C / 90 °F), las bacterias pueden crecer en la zona de peligro de 4–60 °C (40–140 °F). Devuélvelo a la nevera en cuanto sirvas lo que necesites.",
+    "fridge": "Guarda el envase cerrado a 4 °C (40 °F) o menos, preferiblemente en un estante bajo y al fondo. Dura unas 2 semanas desde la compra sin abrir, pero respeta siempre la fecha impresa. Una vez roto el sello, se pierde la protección del vacío: envuelve el jamón bien en film o papel de aluminio, o usa un recipiente hermético, y termínalo en pocos días.",
+    "freezer": "El jamón se congela bien en su envase al vacío cerrado; si ya está abierto, envuelve las porciones en film apto para congelar y en una bolsa, sacando el aire. Congélalo a −18 °C (0 °F); se mantiene seguro indefinidamente, pero para mejor sabor y textura úsalo en 1–2 meses.",
+    "thawing": "Descongélalo en la nevera (una pieza entera puede necesitar 1–2 días) o en agua fría dentro de una bolsa bien cerrada, cambiando el agua cada 30 minutos. No lo descongeles en la encimera; si usas el microondas, caliéntalo enseguida.",
+    "spoilage": [
+      "Envase hinchado o con fugas, o mucho líquido turbio en el interior",
+      "Olor agrio, a azufre o rancio al abrir el paquete",
+      "Lonchas viscosas, pegajosas o babosas",
+      "Manchas grises, verdosas o irisadas más allá del brillo normal, o cualquier moho"
+    ],
+    "tips": [
+      "Mantén el jamón sellado hasta que lo necesites; el vacío es su mejor protección.",
+      "Compra en lonchas solo si lo vas a usar pronto; la pieza entera dura más y queda más jugosa.",
+      "Anota la fecha de apertura en el envase o recipiente.",
+      "Congela en porciones para bocadillos y descongela solo lo que vayas a usar."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el jamón cocido envasado al vacío?", "a": "Sí. Congélalo en su envase cerrado, o bien envuelto si ya estaba abierto, a −18 °C (0 °F). Se mantiene seguro indefinidamente, pero es mejor usarlo en 1–2 meses."},
+      {"q": "¿Cuánto dura el jamón cocido al vacío en la nevera?", "a": "Unas 2 semanas desde la compra si está cerrado y a 4 °C (40 °F) o menos, sin pasar la fecha de caducidad. Una vez abierto, envuélvelo y cómelo en pocos días."},
+      {"q": "¿Cómo saber si el jamón cocido envasado está malo?", "a": "Un envase hinchado, olor agrio o rancio, lonchas viscosas, color gris o verdoso o moho indican que hay que tirarlo."}
+    ]
+  }
+}

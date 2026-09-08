@@ -1,0 +1,111 @@
+{
+  "slug": "margarine",
+  "en": {
+    "name": "Margarine",
+    "aliases": ["spread", "vegetable spread", "buttery spread", "oleo"],
+    "summary": "Margarine is a spread made from vegetable oils, water and emulsifiers, sold in tubs or sticks as a butter substitute. Kept refrigerated it lasts about 6 months from purchase, and in the freezer about 12 months. It keeps far better cold than at room temperature.",
+    "pantry": "Margarine is not meant for long-term storage at room temperature. Soft tub margarine goes oily and separates when warm, and the fats slowly turn rancid; sticks soften and pick up odours. It is fine to leave a small amount out for an hour or two so it spreads easily, but the tub or box should live in the fridge, especially in hot weather above 32 °C (90 °F).",
+    "fridge": "Store margarine in its original tub or wrapper at 4 °C (40 °F) or below; the door shelf is fine for something this stable. It keeps about 6 months from the date of purchase, opened or unopened, as long as the lid is closed and you use a clean knife. Keep it away from strong-smelling foods such as onions or fish, because fat absorbs odours easily.",
+    "freezer": "Margarine freezes well for about 12 months at −18 °C (0 °F). Sticks can go into the freezer in their box, ideally inside a freezer bag; tubs should be sealed tightly or overwrapped. Frozen food remains safe indefinitely at −18 °C; the 12-month figure is for best flavour and texture. Very soft, low-fat spreads with a high water content may separate slightly after thawing.",
+    "thawing": "Thaw margarine in the fridge overnight, never on the counter. Once thawed, treat it as refrigerated margarine and use it within its normal fridge life.",
+    "spoilage": [
+      "A stale, paint-like or crayon smell, which means the fats have gone rancid.",
+      "A sour or off taste when you try a tiny bit.",
+      "Dark, translucent or discoloured patches, or a layer of separated oil on top.",
+      "Any mould spots, which can appear if crumbs or moisture got into the tub."
+    ],
+    "tips": [
+      "Always use a clean, dry knife so crumbs and moisture do not seed mould in the tub.",
+      "Buy sticks for baking and freezing; they are firmer and freeze more predictably than soft tubs.",
+      "Write the purchase date on the box or lid so you can track the 6-month fridge window.",
+      "Take out only what you need and put the rest straight back in the fridge."
+    ],
+    "faq": [
+      {"q": "Can you freeze margarine?", "a": "Yes. Margarine freezes well for about 12 months at −18 °C (0 °F). Keep sticks in their box inside a freezer bag and seal tubs tightly."},
+      {"q": "How long does margarine last in the fridge?", "a": "About 6 months from the date of purchase at 4 °C (40 °F) or below, whether opened or unopened, as long as it is kept covered."},
+      {"q": "How can you tell if margarine has gone bad?", "a": "A paint-like or stale smell, a sour taste, dark or oily patches, or mould all mean it is time to throw it out."},
+      {"q": "Does margarine need to be refrigerated?", "a": "Yes, for storage. It can sit out briefly to soften, but at room temperature it separates and goes rancid much faster than in the fridge."}
+    ]
+  },
+  "zh": {
+    "name": "乳瑪琳（人造奶油）",
+    "aliases": ["人造奶油", "植物奶油", "瑪琪琳", "麥淇淋", "植物性抹醬"],
+    "summary": "乳瑪琳是用植物油、水和乳化劑做成的抹醬，有盒裝軟質和條狀兩種，常用來取代奶油。冷藏從購買日起可以放約 6 個月，冷凍約 12 個月。放冰箱比放室溫保存得好很多。",
+    "pantry": "乳瑪琳不適合長期放在室溫。軟質盒裝的一遇熱就出油、分離，油脂也會慢慢酸敗；條狀的會變軟並吸附異味。想抹麵包時先拿一小份出來放一兩個小時軟化沒問題，但整盒、整條要放回冰箱，尤其是氣溫超過 32 °C 的天氣。",
+    "fridge": "放在原包裝盒或包裝紙裡，冷藏在 4 °C 以下；這類穩定的食品放冰箱門邊也可以。不管開封與否，從購買日起可以放約 6 個月，前提是蓋子要蓋好、用乾淨的刀子挖取。要遠離洋蔥、魚等味道重的食物，因為油脂很容易吸味。",
+    "freezer": "乳瑪琳很適合冷凍，在 −18 °C 可以放約 12 個月。條狀的連盒放進冷凍袋即可；盒裝的要蓋緊或外面再包一層。冷凍食品在 −18 °C 下安全期是無限的，12 個月是風味與質地的最佳期。含水量高的低脂軟質抹醬解凍後可能會稍微分離。",
+    "thawing": "放冷藏解凍一晚，不要放在室溫。解凍後就當作一般冷藏乳瑪琳，在正常冷藏期限內用完。",
+    "spoilage": [
+      "有油耗味、像油漆或蠟筆的味道，代表油脂已經酸敗。",
+      "試一小口有酸味或怪味。",
+      "出現深色、半透明或變色的區塊，或表面浮一層分離的油。",
+      "出現霉點，通常是麵包屑或水分掉進盒子裡造成的。"
+    ],
+    "tips": [
+      "每次都用乾淨、乾燥的刀子挖，避免麵包屑和水氣讓盒子裡長霉。",
+      "烘焙和冷凍用途建議買條狀的，質地較硬，冷凍效果比軟質盒裝穩定。",
+      "在盒子或蓋子上寫購買日期，方便掌握 6 個月的冷藏期限。",
+      "只拿需要的量，其餘馬上放回冰箱。"
+    ],
+    "faq": [
+      {"q": "乳瑪琳可以冷凍嗎？", "a": "可以。在 −18 °C 冷凍可以放約 12 個月。條狀的連盒裝進冷凍袋，盒裝的要蓋緊。"},
+      {"q": "乳瑪琳放冰箱可以放多久？", "a": "從購買日起在 4 °C 以下冷藏約 6 個月，開封與否都一樣，只要蓋好就可以。"},
+      {"q": "怎麼判斷乳瑪琳壞掉了？", "a": "有油漆味或油耗味、吃起來發酸、出現深色或出油的區塊、或長霉，都應該丟掉。"},
+      {"q": "乳瑪琳一定要放冰箱嗎？", "a": "要，保存時要冷藏。可以短時間拿出來軟化，但長時間放室溫會分離、酸敗得比冰箱快很多。"}
+    ]
+  },
+  "ja": {
+    "name": "マーガリン",
+    "aliases": ["ファットスプレッド", "植物性バター", "マーガリンスプレッド", "ソフトマーガリン"],
+    "summary": "マーガリンは植物油、水、乳化剤から作られるスプレッドで、カップ入りやスティック状で売られ、バターの代わりに使われます。冷蔵なら購入日から約6か月、冷凍なら約12か月保存できます。常温よりも冷やしておく方が格段に長持ちします。",
+    "pantry": "マーガリンは常温での長期保存には向きません。ソフトタイプは温まると油が浮いて分離し、油脂は徐々に酸化して油臭くなります。スティックタイプも柔らかくなり、においを吸います。塗りやすくするために少量を1〜2時間出しておく程度なら問題ありませんが、容器ごと冷蔵庫に戻しましょう。特に室温が32 °Cを超える時期は要注意です。",
+    "fridge": "元の容器や包装のまま4 °C以下で冷蔵します。安定した食品なのでドアポケットでも構いません。ふたを閉め、清潔なナイフで取り出していれば、開封前でも開封後でも購入日から約6か月保存できます。油脂はにおいを吸いやすいので、玉ねぎや魚などにおいの強い食品の近くは避けてください。",
+    "freezer": "マーガリンは冷凍に向いており、−18 °Cで約12か月保存できます。スティックタイプは箱ごと冷凍用保存袋に入れ、カップタイプはふたをしっかり閉めるか、さらにラップで包みます。−18 °Cなら安全性は保たれ、12か月は風味と食感の目安です。水分の多い低脂肪のソフトタイプは、解凍後にやや分離することがあります。",
+    "thawing": "冷蔵庫で一晩かけて解凍し、常温には出さないでください。解凍後は通常の冷蔵マーガリンとして扱い、冷蔵の保存期間内に使いきりましょう。",
+    "spoilage": [
+      "古い油やペンキ、クレヨンのようなにおいがする。油脂が酸化しているサインです。",
+      "少量をなめてみると酸っぱい、または変な味がする。",
+      "色の濃い部分や半透明の部分、変色があり、表面に分離した油が浮いている。",
+      "カビが生えている。パンくずや水分が容器に入ると発生しやすくなります。"
+    ],
+    "tips": [
+      "必ず清潔で乾いたナイフを使い、パンくずや水分が容器に入らないようにしましょう。",
+      "お菓子作りや冷凍用にはスティックタイプがおすすめ。固めで、ソフトタイプより冷凍しても安定しています。",
+      "箱やふたに購入日を書いておくと、6か月の目安が管理しやすくなります。",
+      "必要な分だけ取り出し、残りはすぐ冷蔵庫に戻しましょう。"
+    ],
+    "faq": [
+      {"q": "マーガリンは冷凍できますか？", "a": "はい。−18 °Cで約12か月保存できます。スティックタイプは箱ごと冷凍用保存袋に入れ、カップタイプはふたをしっかり閉めてください。"},
+      {"q": "マーガリンは冷蔵庫でどのくらい日持ちしますか？", "a": "4 °C以下で、購入日から約6か月です。開封前でも開封後でも、ふたをきちんと閉めていれば同じです。"},
+      {"q": "マーガリンが傷んでいるかどうかの見分け方は？", "a": "ペンキのようなにおいや古い油のにおい、酸っぱい味、黒ずみや油の分離、カビがあれば処分してください。"},
+      {"q": "マーガリンは冷蔵庫に入れないとだめですか？", "a": "はい、保存は冷蔵が基本です。柔らかくするために短時間出しておくのは問題ありませんが、常温に置き続けると冷蔵よりずっと早く分離・酸化します。"}
+    ]
+  },
+  "es": {
+    "name": "Margarina",
+    "aliases": ["margarina vegetal", "untable vegetal", "margarina en barra", "manteca vegetal"],
+    "summary": "La margarina es un untable elaborado con aceites vegetales, agua y emulsionantes, que se vende en tarrinas o en barras como sustituto de la mantequilla. Refrigerada dura unos 6 meses desde la compra, y en el congelador unos 12 meses. Se conserva mucho mejor en frío que a temperatura ambiente.",
+    "pantry": "La margarina no está pensada para guardarse mucho tiempo a temperatura ambiente. La de tarrina se pone aceitosa y se separa con el calor, y las grasas se enrancian poco a poco; las barras se ablandan y absorben olores. No pasa nada por dejar una pequeña cantidad fuera una o dos horas para que se unte bien, pero la tarrina o la caja deben vivir en la nevera, sobre todo con calor por encima de 32 °C (90 °F).",
+    "fridge": "Guarda la margarina en su tarrina o envoltorio original a 4 °C (40 °F) o menos; para un producto tan estable, la puerta de la nevera sirve. Dura unos 6 meses desde la fecha de compra, abierta o sin abrir, siempre que la tapa esté cerrada y uses un cuchillo limpio. Aléjala de alimentos de olor fuerte como cebolla o pescado, porque la grasa absorbe olores con facilidad.",
+    "freezer": "La margarina se congela bien durante unos 12 meses a −18 °C (0 °F). Las barras pueden ir al congelador en su caja, mejor dentro de una bolsa de congelación; las tarrinas deben cerrarse bien o envolverse. A −18 °C el alimento sigue siendo seguro indefinidamente; los 12 meses son una referencia de sabor y textura. Los untables muy blandos y bajos en grasa, con mucha agua, pueden separarse un poco al descongelarse.",
+    "thawing": "Descongela la margarina en la nevera de un día para otro, nunca sobre la encimera. Una vez descongelada, trátala como margarina refrigerada y úsala dentro de su vida útil normal en frío.",
+    "spoilage": [
+      "Olor rancio, a pintura o a cera, señal de que las grasas se han enranciado.",
+      "Sabor agrio o extraño al probar una pizca.",
+      "Zonas oscuras, translúcidas o descoloridas, o una capa de aceite separado en la superficie.",
+      "Cualquier punto de moho, que puede aparecer si entraron migas o humedad en la tarrina."
+    ],
+    "tips": [
+      "Usa siempre un cuchillo limpio y seco para que las migas y la humedad no siembren moho en la tarrina.",
+      "Compra barras para hornear y congelar: son más firmes y se congelan de forma más predecible que las tarrinas blandas.",
+      "Anota la fecha de compra en la caja o la tapa para controlar los 6 meses de nevera.",
+      "Saca solo lo que necesites y devuelve el resto a la nevera enseguida."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la margarina?", "a": "Sí. Se congela bien durante unos 12 meses a −18 °C (0 °F). Guarda las barras en su caja dentro de una bolsa de congelación y cierra bien las tarrinas."},
+      {"q": "¿Cuánto dura la margarina en la nevera?", "a": "Unos 6 meses desde la fecha de compra a 4 °C (40 °F) o menos, abierta o sin abrir, siempre que esté tapada."},
+      {"q": "¿Cómo saber si la margarina está mala?", "a": "Un olor a pintura o rancio, sabor agrio, zonas oscuras o aceitosas, o moho indican que hay que tirarla."},
+      {"q": "¿La margarina necesita refrigeración?", "a": "Sí, para conservarla. Puede estar fuera un rato para ablandarse, pero a temperatura ambiente se separa y se enrancia mucho más rápido que en la nevera."}
+    ]
+  }
+}

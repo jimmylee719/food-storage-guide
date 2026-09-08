@@ -1,0 +1,107 @@
+{
+  "slug": "cream-whipping-ultrapasteurized",
+  "en": {
+    "name": "Whipping cream (ultra-pasteurized)",
+    "aliases": ["UHT whipping cream", "ultra-pasteurised cream", "double cream", "pouring cream"],
+    "summary": "Ultra-pasteurized whipping cream is heated to a much higher temperature than ordinary pasteurized cream, which kills far more spoilage bacteria and gives it a long chilled shelf life. Unopened in the fridge at 4 °C (40 °F) or below it keeps about 1 month from purchase; once opened, use it within 1 week.",
+    "pantry": "Even ultra-pasteurized cream sold from the chiller must stay refrigerated — the heat treatment extends its life but does not make it shelf-stable. Cream left in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) for more than 2 hours, or 1 hour above 32 °C (90 °F), should be thrown away. Whipped cream on a dessert at room temperature follows the same 2-hour rule.",
+    "fridge": "Store the carton upright on a cold inside shelf, not in the door, and keep the fridge at 4 °C (40 °F) or below. Unopened it lasts about 1 month from the day you buy it; after opening, close the spout tightly and finish it within 1 week, because every pour introduces air and bacteria. Cream also picks up strong odours easily, so keep it away from onions and cut melon.",
+    "freezer": "Cream can be frozen at −18 °C (0 °F) and stays safe indefinitely, but the fat separates on thawing and it will not whip to a stable peak afterwards. Freeze leftovers in an ice-cube tray and use them in soups, sauces, mashed potato or coffee instead. Already-whipped cream freezes better: pipe rosettes onto a tray, freeze solid and bag them.",
+    "thawing": "Thaw frozen cream overnight in the fridge and shake or whisk it well before using it in a cooked dish. Do not expect it to whip, and never thaw cream on the counter.",
+    "spoilage": [
+      "Sour or bitter smell when the carton is opened",
+      "Lumps, flakes or curdling as you pour, or separation that will not stir back in",
+      "A thick, gluey or stringy texture instead of a smooth pour",
+      "A bulging carton, or a yellowed, greyish or pinkish colour"
+    ],
+    "tips": [
+      "Write the opening date on the carton — the 1-week clock starts then, not at the printed date.",
+      "Chill the bowl and beaters before whipping; cold cream whips faster and holds better.",
+      "Store on a shelf, not the fridge door, where the temperature swings.",
+      "Freeze leftovers in cubes for sauces rather than letting the carton spoil."
+    ],
+    "faq": [
+      {"q": "Can you freeze whipping cream?", "a": "Yes, at −18 °C (0 °F), but it will not whip after thawing. Freeze it in cubes for sauces and soups, or freeze it already whipped in piped portions."},
+      {"q": "How long does whipping cream last after opening?", "a": "About 1 week in the fridge at 4 °C (40 °F) or below, compared with roughly 1 month from purchase while it is still sealed."},
+      {"q": "Does ultra-pasteurized cream need to be refrigerated?", "a": "Yes, if it was sold chilled. Ultra-pasteurization lengthens its fridge life but does not make it safe to store at room temperature."}
+    ]
+  },
+  "zh": {
+    "name": "動物性鮮奶油（超高溫殺菌）",
+    "aliases": ["鮮奶油", "打發用鮮奶油", "淡奶油", "whipping cream", "忌廉"],
+    "summary": "超高溫殺菌（UHT）的打發用鮮奶油以遠高於一般巴氏殺菌的溫度處理，殺死更多腐敗菌，因此冷藏保存期比較長。未開封時放 4°C 以下冷藏，從購買日起約可放 1 個月；開封後請在 1 週內用完。",
+    "pantry": "即使是超高溫殺菌的鮮奶油，只要是冷藏販售的就必須全程冷藏——高溫殺菌只是延長保存期，並不代表可以常溫存放。在 4～60°C 的危險溫度帶放超過 2 小時（氣溫超過 32°C 時 1 小時）就該丟棄。擠了鮮奶油的甜點放在室溫，同樣適用 2 小時原則。",
+    "fridge": "把紙盒直立放在冰箱內層冷的位置，不要放門邊，並維持 4°C 以下。未開封從購買日起約 1 個月；開封後把開口確實封好，並在 1 週內用完，因為每次倒出都會帶進空氣和細菌。鮮奶油很容易吸味，請遠離洋蔥和切開的瓜果。",
+    "freezer": "鮮奶油可以放 −18°C 冷凍，安全上可以無限期保存，但解凍後油脂會分離，也打不出穩定的發泡。建議把用剩的倒進製冰盒冷凍，之後用在濃湯、醬汁、馬鈴薯泥或咖啡。已經打發的鮮奶油反而比較適合冷凍：擠成小花放在烤盤上凍硬後再裝袋。",
+    "thawing": "冷凍的鮮奶油請放冷藏室解凍一晚，充分搖勻或攪拌後用於加熱料理。不要期待它還能打發，也絕對不要放室溫解凍。",
+    "spoilage": [
+      "打開紙盒聞到酸味或苦味",
+      "倒出時出現顆粒、碎絮或凝結，或分層後攪不回去",
+      "質地變濃稠、黏糊或牽絲，倒不順",
+      "紙盒鼓起，或顏色泛黃、發灰、帶粉紅"
+    ],
+    "tips": [
+      "在紙盒上寫開封日期；1 週的期限從開封那天開始算，不是看標示日期。",
+      "打發前先把鋼盆和攪拌器冰過，冷的鮮奶油打得快也比較穩定。",
+      "放冰箱層架，不要放溫度起伏大的門邊。",
+      "與其讓整盒壞掉，不如把用剩的做成冷凍奶油冰塊用於醬汁。"
+    ],
+    "faq": [
+      {"q": "鮮奶油可以冷凍嗎？", "a": "可以放 −18°C 冷凍，但解凍後打不發。建議做成冰塊用於醬汁湯品，或先打發後擠花冷凍。"},
+      {"q": "鮮奶油開封後可以放多久？", "a": "在 4°C 以下冷藏約 1 週；未開封的話從購買日起約 1 個月。"},
+      {"q": "超高溫殺菌鮮奶油一定要冰嗎？", "a": "冷藏販售的就一定要冰。超高溫殺菌只是延長冷藏期限，並不代表可以放室溫。"}
+    ]
+  },
+  "ja": {
+    "name": "生クリーム（超高温殺菌）",
+    "aliases": ["ホイップ用クリーム", "UHTクリーム", "ホイップクリーム", "純生クリーム"],
+    "summary": "超高温殺菌（UHT）のホイップ用クリームは、通常の低温殺菌より高い温度で加熱されており、腐敗菌が大幅に減るため冷蔵での日もちが長いのが特徴です。未開封なら4℃以下の冷蔵で購入日から約1か月、開封後は1週間以内に使い切ってください。",
+    "pantry": "超高温殺菌でも、冷蔵で売られていたクリームは常に冷蔵が必要です。加熱処理は日もちを延ばすだけで、常温保存を可能にするものではありません。4〜60℃の危険温度帯に2時間以上（気温32℃以上なら1時間以上）置いたものは処分します。ホイップして飾ったデザートも同じ2時間ルールが当てはまります。",
+    "fridge": "紙パックは立てたまま、ドアポケットではなく庫内のよく冷える棚に置き、4℃以下を保ちます。未開封なら購入日から約1か月。開封後は注ぎ口をしっかり閉じ、1週間以内に使い切りましょう。注ぐたびに空気と菌が入るためです。クリームはにおいを吸いやすいので、玉ねぎやカットしたメロンの近くは避けてください。",
+    "freezer": "−18℃で冷凍でき安全面では長期間保ちますが、解凍すると脂肪が分離し、ホイップしても角が立たなくなります。余ったぶんは製氷皿で凍らせ、スープやソース、マッシュポテト、コーヒーに使うのがおすすめです。すでにホイップしたクリームのほうが冷凍向きで、天板に絞り出して凍らせてから保存袋に移します。",
+    "thawing": "冷凍したクリームは冷蔵庫で一晩解凍し、よく振るか泡立て器で混ぜてから加熱料理に使います。ホイップには使えないと考え、常温での解凍は避けてください。",
+    "spoilage": [
+      "パックを開けたときに酸っぱい、または苦いにおいがする",
+      "注ぐとぶつぶつ・もろもろと分離する、混ぜても戻らない",
+      "とろみが強く、のり状や糸を引く状態になっている",
+      "パックが膨らんでいる、色が黄ばむ・灰色や薄いピンクに変わっている"
+    ],
+    "tips": [
+      "パックに開封日を書く。1週間は表示期限ではなく開封日から数える。",
+      "ホイップ前にボウルと泡立て器を冷やしておくと、早く立ち、へたりにくい。",
+      "温度が変動するドアポケットではなく庫内の棚に置く。",
+      "パックごと傷ませるより、余りを製氷皿で凍らせてソース用にする。"
+    ],
+    "faq": [
+      {"q": "生クリームは冷凍できますか？", "a": "−18℃で冷凍できますが、解凍後はホイップできません。キューブ状に凍らせてソースやスープに使うか、ホイップしてから絞って冷凍してください。"},
+      {"q": "生クリームは開封後どのくらいもちますか？", "a": "4℃以下の冷蔵で約1週間です。未開封なら購入日から約1か月が目安になります。"},
+      {"q": "超高温殺菌の生クリームは冷蔵が必要ですか？", "a": "冷蔵で売られていたものは必要です。超高温殺菌は冷蔵での日もちを延ばすだけで、常温保存を可能にするわけではありません。"}
+    ]
+  },
+  "es": {
+    "name": "Crema para batir (ultrapasteurizada)",
+    "aliases": ["nata para montar", "crema de leche UHT", "nata UHT", "crema para montar"],
+    "summary": "La crema para batir ultrapasteurizada se calienta a una temperatura mucho más alta que la crema pasteurizada normal, lo que elimina muchas más bacterias de deterioro y le da una vida refrigerada larga. Sin abrir, en el refrigerador a 4 °C (40 °F) o menos dura alrededor de 1 mes desde la compra; una vez abierta, consúmela en 1 semana.",
+    "pantry": "Aunque sea ultrapasteurizada, si se vendió en frío debe seguir refrigerada: el tratamiento térmico alarga su vida, pero no la vuelve apta para la despensa. La crema que pase más de 2 horas en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F), o 1 hora por encima de 32 °C (90 °F), debe desecharse. La nata montada sobre un postre a temperatura ambiente sigue la misma regla de 2 horas.",
+    "fridge": "Guarda el envase de pie en un estante interior frío, no en la puerta, y mantén el refrigerador a 4 °C (40 °F) o menos. Sin abrir dura alrededor de 1 mes desde el día de compra; tras abrirla, cierra bien el pico vertedor y termínala en 1 semana, porque cada uso introduce aire y bacterias. La crema absorbe olores con facilidad, así que aléjala de la cebolla y el melón cortado.",
+    "freezer": "Se puede congelar a −18 °C (0 °F) y se mantiene segura indefinidamente, pero la grasa se separa al descongelar y ya no monta en picos firmes. Congela los restos en cubitera y úsalos en sopas, salsas, puré de papa o café. La crema ya montada se congela mejor: haz rosetones sobre una bandeja, congélalos y guárdalos en bolsa.",
+    "thawing": "Descongela la crema en el refrigerador durante una noche y agítala o bátela bien antes de usarla en un plato cocinado. No esperes que monte, y nunca la descongeles sobre la encimera.",
+    "spoilage": [
+      "Olor agrio o amargo al abrir el envase",
+      "Grumos, copos o cortado al servir, o separación que no se reintegra al remover",
+      "Textura espesa, pegajosa o filante en vez de fluida",
+      "Envase hinchado o color amarillento, grisáceo o rosado"
+    ],
+    "tips": [
+      "Anota la fecha de apertura: la semana cuenta desde ahí, no desde la fecha impresa.",
+      "Enfría el bol y las varillas antes de montar; la crema fría monta antes y aguanta mejor.",
+      "Guárdala en un estante, no en la puerta, donde la temperatura oscila.",
+      "Congela el sobrante en cubitos para salsas antes de dejar que se estropee el envase."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la crema para batir?", "a": "Sí, a −18 °C (0 °F), pero después no monta. Congélala en cubitos para salsas y sopas, o congélala ya montada en porciones."},
+      {"q": "¿Cuánto dura la crema para batir después de abrirla?", "a": "Alrededor de 1 semana en el refrigerador a 4 °C (40 °F) o menos, frente a aproximadamente 1 mes desde la compra si sigue cerrada."},
+      {"q": "¿La crema ultrapasteurizada necesita refrigeración?", "a": "Sí, si se vendió refrigerada. La ultrapasteurización alarga su vida en frío pero no permite guardarla a temperatura ambiente."}
+    ]
+  }
+}

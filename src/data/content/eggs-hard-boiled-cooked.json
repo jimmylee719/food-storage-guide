@@ -1,0 +1,111 @@
+{
+  "slug": "eggs-hard-boiled-cooked",
+  "en": {
+    "name": "Hard-boiled eggs",
+    "aliases": ["boiled eggs", "hard-cooked eggs", "cooked eggs in shell", "peeled boiled eggs"],
+    "summary": "Hard-boiled eggs are whole eggs cooked in the shell until the yolk is firm. Once cooled, they keep for about 1 week in the fridge, peeled or unpeeled. Freezing is not recommended, and they should never sit out at room temperature for long.",
+    "pantry": "Hard-boiled eggs are perishable and should not be stored at room temperature. Cooking removes the egg's natural protective coating, so bacteria can enter more easily than with a raw egg. Discard any that have been out longer than 2 hours, or 1 hour when the room is above 32 °C (90 °F). Get them into the fridge within 2 hours of cooking.",
+    "fridge": "Cool the eggs quickly in cold water, then refrigerate them at 4 °C (40 °F) or below within 2 hours. They keep for about 1 week whether peeled or still in the shell; unpeeled eggs hold moisture and flavour a little better. Store peeled eggs in a covered container, and keep all of them in the body of the fridge rather than the door, where the temperature swings the most.",
+    "freezer": "Freezing hard-boiled eggs is not recommended. The whites turn rubbery, watery and tough after thawing, and the texture does not recover. If you want to freeze eggs, freeze raw beaten eggs or cooked yolks only, not whole boiled eggs.",
+    "thawing": null,
+    "spoilage": [
+      "A sulphurous, rotten smell when you peel or cut the egg, stronger than the mild eggy smell of a fresh boiled egg.",
+      "A slimy or sticky surface on a peeled egg, or a chalky, dried-out feel.",
+      "Grey, green or dark spots on the white (a thin grey-green ring around the yolk is harmless overcooking, not spoilage).",
+      "The egg has been in the fridge for more than 1 week, or was left out for more than 2 hours."
+    ],
+    "tips": [
+      "Write the cooking date on the container or on the shell with a pencil so you know when the week is up.",
+      "Leave eggs in the shell until you are ready to eat them; they stay fresher and are less likely to pick up fridge odours.",
+      "Cook only what you will eat in a week rather than a big batch that will be wasted.",
+      "For packed lunches, keep the egg cold with an ice pack and eat it within 2 hours of leaving the fridge."
+    ],
+    "faq": [
+      {"q": "Can you freeze hard-boiled eggs?", "a": "It is not recommended. The cooked whites become rubbery and watery once thawed. Only the yolks freeze reasonably well; freeze raw beaten eggs instead if you want a stock in the freezer."},
+      {"q": "How long do hard-boiled eggs last in the fridge?", "a": "About 1 week at 4 °C (40 °F) or below, peeled or unpeeled. Refrigerate them within 2 hours of cooking."},
+      {"q": "How can you tell if a hard-boiled egg has gone bad?", "a": "Trust your nose: a rotten, sulphur smell means throw it out. A slimy or sticky surface, dark spots on the white, or an egg that has been stored more than a week are also reasons to discard it."},
+      {"q": "Do hard-boiled eggs need to be refrigerated?", "a": "Yes. Unlike some raw eggs sold unrefrigerated in other countries, boiled eggs have lost their protective coating and must be kept cold. Do not leave them out for more than 2 hours."}
+    ]
+  },
+  "zh": {
+    "name": "水煮蛋",
+    "aliases": ["白煮蛋", "白煮雞蛋", "全熟水煮蛋", "煮雞蛋", "熟雞蛋"],
+    "summary": "水煮蛋是連殼煮到蛋黃全熟的雞蛋。放涼後放冰箱冷藏，不論剝殼與否都可以放約 1 週；不建議冷凍，也不要長時間放在室溫下。",
+    "pantry": "水煮蛋屬於容易腐壞的食物，不適合放在室溫保存。雞蛋煮熟後，蛋殼表面原本的保護膜會被破壞，細菌比生蛋更容易入侵。室溫放超過 2 小時（室溫超過 32 °C 時為 1 小時）就應該丟掉。煮好後請在 2 小時內放進冰箱。",
+    "fridge": "煮好後先用冷水快速降溫，再放進 4 °C 以下的冰箱冷藏，並在 2 小時內完成。不管有沒有剝殼，都可以放約 1 週；帶殼的水分和風味會保留得比較好。已剝殼的蛋要放在有蓋的保鮮盒裡。建議放在冰箱內側層架，不要放在門邊，因為門邊溫度變化最大。",
+    "freezer": "不建議冷凍水煮蛋。解凍後蛋白會變得像橡皮一樣硬、出水又粗糙，口感無法恢復。如果想冷凍雞蛋，可以把生蛋打散後冷凍，或只冷凍煮熟的蛋黃，不要整顆冷凍。",
+    "thawing": null,
+    "spoilage": [
+      "剝殼或切開時有硫磺味、臭雞蛋味，比新鮮水煮蛋淡淡的蛋味明顯得多。",
+      "剝殼後的蛋表面黏黏滑滑，或是乾裂發粉。",
+      "蛋白出現灰色、綠色或深色斑點（蛋黃外圍一圈淡灰綠色是煮過頭，不是壞掉）。",
+      "冷藏已經超過 1 週，或曾在室溫放超過 2 小時。"
+    ],
+    "tips": [
+      "用鉛筆在蛋殼上或保鮮盒上寫下煮的日期，才知道什麼時候滿一週。",
+      "要吃之前再剝殼，帶殼保存比較新鮮，也比較不會吸附冰箱味道。",
+      "一次只煮一週內吃得完的量，不要一次煮太多放到壞。",
+      "帶便當時要搭配保冷劑，離開冰箱後 2 小時內吃完。"
+    ],
+    "faq": [
+      {"q": "水煮蛋可以冷凍嗎？", "a": "不建議。煮熟的蛋白解凍後會變硬變韌、還會出水。只有蛋黃勉強可以冷凍；想存放雞蛋的話，建議把生蛋打散再冷凍。"},
+      {"q": "水煮蛋放冰箱可以放多久？", "a": "在 4 °C 以下冷藏約 1 週，剝殼或帶殼都一樣。煮好後要在 2 小時內放進冰箱。"},
+      {"q": "怎麼判斷水煮蛋壞掉了？", "a": "先聞味道，有臭雞蛋、硫磺味就直接丟掉。表面黏滑、蛋白出現深色斑點，或已經放超過一週，也都應該丟棄。"},
+      {"q": "水煮蛋一定要放冰箱嗎？", "a": "要。雞蛋煮熟後表面保護層已經被破壞，一定要冷藏，而且不要在室溫放超過 2 小時。"}
+    ]
+  },
+  "ja": {
+    "name": "ゆで卵（固ゆで）",
+    "aliases": ["固ゆで卵", "茹で卵", "ゆでたまご", "ボイルドエッグ"],
+    "summary": "固ゆで卵は、殻ごと黄身が固まるまで加熱した卵です。冷ましてから冷蔵庫に入れれば、殻付きでも殻をむいても約1週間保存できます。冷凍は向かず、常温に長時間置くのも避けましょう。",
+    "pantry": "ゆで卵は傷みやすい食品で、常温保存には向きません。加熱すると卵の殻を守っている天然の膜が失われ、生卵よりも細菌が入りやすくなります。常温に2時間以上（室温が32 °Cを超える場合は1時間以上）置いたものは処分してください。ゆでたら2時間以内に冷蔵庫へ入れましょう。",
+    "fridge": "ゆで上がったら冷水で手早く冷まし、2時間以内に4 °C以下の冷蔵庫に入れます。殻付きでもむいた状態でも約1週間もちますが、殻付きの方が水分と風味を保ちやすいです。むいた卵はふた付きの容器に入れて保存しましょう。温度変化の大きいドアポケットではなく、庫内の棚に置くのがおすすめです。",
+    "freezer": "固ゆで卵の冷凍はおすすめしません。解凍すると白身がゴムのように硬く、水っぽくパサついた食感になり、元には戻りません。卵を冷凍したい場合は、溶いた生卵か、ゆでた黄身だけを冷凍してください。",
+    "thawing": null,
+    "spoilage": [
+      "殻をむいたり切ったりしたときに、硫黄のような腐敗臭がする（新鮮なゆで卵のほのかな卵のにおいとは明らかに違う）。",
+      "むいた卵の表面がぬるぬる、ベタベタしている、または乾いて粉っぽい。",
+      "白身に灰色・緑色・黒っぽい斑点がある（黄身のまわりの薄い灰緑色の輪はゆですぎによるもので、腐敗ではありません）。",
+      "冷蔵で1週間を超えている、または常温に2時間以上放置した。"
+    ],
+    "tips": [
+      "殻や容器に鉛筆でゆでた日を書いておくと、1週間の目安がわかります。",
+      "食べる直前まで殻をむかないと、鮮度が保たれ、冷蔵庫のにおい移りも防げます。",
+      "作り置きは1週間で食べきれる量にとどめましょう。",
+      "お弁当に入れるときは保冷剤を添え、冷蔵庫から出して2時間以内に食べてください。"
+    ],
+    "faq": [
+      {"q": "ゆで卵は冷凍できますか？", "a": "おすすめしません。解凍すると白身がゴムのように硬く、水っぽくなります。黄身だけならある程度冷凍できますが、卵をストックしたいなら溶いた生卵を冷凍する方が良いです。"},
+      {"q": "ゆで卵は冷蔵庫でどのくらい日持ちしますか？", "a": "4 °C以下の冷蔵で約1週間です。殻付きでもむいた状態でも同じで、ゆでてから2時間以内に冷蔵してください。"},
+      {"q": "ゆで卵が腐っているかどうかの見分け方は？", "a": "まずはにおいです。硫黄のような腐敗臭がしたら処分してください。表面のぬめり、白身の黒っぽい斑点、保存1週間超えも捨てる目安です。"},
+      {"q": "ゆで卵は冷蔵庫に入れないとだめですか？", "a": "はい。加熱で殻の保護膜が失われているため、必ず冷蔵してください。常温に2時間以上置かないようにしましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Huevos duros (cocidos)",
+    "aliases": ["huevos cocidos", "huevos sancochados", "huevos hervidos", "huevo duro"],
+    "summary": "Los huevos duros son huevos cocidos con cáscara hasta que la yema queda firme. Una vez fríos, se conservan alrededor de 1 semana en la nevera, con o sin cáscara. No conviene congelarlos ni dejarlos mucho tiempo a temperatura ambiente.",
+    "pantry": "Los huevos duros son perecederos y no deben guardarse a temperatura ambiente. Al cocerlos se pierde la capa protectora natural de la cáscara, así que las bacterias entran con más facilidad que en un huevo crudo. Desecha los que lleven más de 2 horas fuera, o 1 hora si hace más de 32 °C (90 °F). Refrigéralos antes de que pasen 2 horas desde la cocción.",
+    "fridge": "Enfría los huevos rápidamente en agua fría y guárdalos en la nevera a 4 °C (40 °F) o menos antes de 2 horas. Duran alrededor de 1 semana, pelados o con cáscara; con cáscara conservan mejor la humedad y el sabor. Los huevos pelados van en un recipiente tapado. Colócalos en un estante interior y no en la puerta, donde la temperatura varía más.",
+    "freezer": "No se recomienda congelar huevos duros. La clara queda gomosa, aguada y dura al descongelarse, y la textura no se recupera. Si quieres congelar huevo, congela huevo crudo batido o solo las yemas cocidas, nunca el huevo duro entero.",
+    "thawing": null,
+    "spoilage": [
+      "Olor a azufre o a podrido al pelar o partir el huevo, mucho más fuerte que el olor suave de un huevo duro fresco.",
+      "Superficie viscosa o pegajosa en un huevo pelado, o textura seca y como de tiza.",
+      "Manchas grises, verdes u oscuras en la clara (el anillo gris verdoso alrededor de la yema es solo exceso de cocción, no deterioro).",
+      "Lleva más de 1 semana en la nevera o estuvo más de 2 horas fuera."
+    ],
+    "tips": [
+      "Anota la fecha de cocción en el recipiente o en la cáscara con lápiz para saber cuándo se cumple la semana.",
+      "Déjalos con cáscara hasta el momento de comerlos: se conservan mejor y absorben menos olores de la nevera.",
+      "Cuece solo los que vayas a comer en una semana y evita tandas enormes que acaben en la basura.",
+      "Para llevar al trabajo o al colegio, acompáñalos con un acumulador de frío y cómelos antes de 2 horas fuera de la nevera."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar los huevos duros?", "a": "No es recomendable. La clara cocida se vuelve gomosa y aguada al descongelarse. Solo las yemas se congelan aceptablemente; si quieres tener huevo en el congelador, congela huevo crudo batido."},
+      {"q": "¿Cuánto duran los huevos duros en la nevera?", "a": "Alrededor de 1 semana a 4 °C (40 °F) o menos, con o sin cáscara. Refrigéralos antes de 2 horas después de cocerlos."},
+      {"q": "¿Cómo saber si un huevo duro está malo?", "a": "Fíate del olfato: si huele a podrido o a azufre, tíralo. Una superficie viscosa, manchas oscuras en la clara o más de una semana de conservación también son motivo para desecharlo."},
+      {"q": "¿Los huevos duros necesitan refrigeración?", "a": "Sí. Al perder la capa protectora con la cocción, deben mantenerse en frío. No los dejes fuera más de 2 horas."}
+    ]
+  }
+}

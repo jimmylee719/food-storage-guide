@@ -1,0 +1,107 @@
+{
+  "slug": "ham-fresh-uncooked-whole-leg-bone",
+  "en": {
+    "name": "Fresh ham, uncooked, whole leg, bone-in",
+    "aliases": ["fresh pork leg", "uncured ham", "green ham", "whole pork leg", "raw pork leg roast"],
+    "summary": "A fresh ham is simply the uncured, unsmoked rear leg of the pig, so it looks and cooks like a large pork roast rather than a pink deli ham. Whole and bone-in, it keeps 1 week in the fridge from purchase and 1–2 months in the freezer for best quality. It is raw pork and must be cooked thoroughly.",
+    "pantry": "Fresh pork cannot be stored at room temperature. Never leave the leg out for more than 2 hours (1 hour above 32 °C / 90 °F), even while it comes up to temperature before roasting. Bacteria multiply quickly in the danger zone of 4–60 °C (40–140 °F).",
+    "fridge": "Keep the leg in its original wrapping at or below 4 °C (40 °F), on the bottom shelf in a large tray so raw juices cannot drip onto other food. Cook it within 1 week of purchase and before the use-by date; if the butcher wrapped it in paper, rewrap it in cling film or a bag to stop it drying out.",
+    "freezer": "A whole bone-in leg is large, so check your freezer space first. Wrap it in freezer film, then heavy foil or a large freezer bag, pad any sharp bone ends with extra wrap and freeze at −18 °C (0 °F). It stays safe indefinitely, but for best quality roast it within 1–2 months.",
+    "thawing": "Thaw in the fridge, allowing about 24 hours per 2 kg (4–5 lb); a whole leg may need 3–4 days. Cold-water thawing (leak-proof bag, water changed every 30 minutes) is faster but the meat must be cooked at once. Never thaw on the counter.",
+    "spoilage": [
+      "Sour or ammonia-like smell, especially near the bone",
+      "Slimy or sticky surface",
+      "Greyish, greenish or dull brown colour instead of pale pink",
+      "Packaging that is swollen or holds a lot of cloudy liquid"
+    ],
+    "tips": [
+      "Roast to an internal temperature of 63 °C (145 °F) and rest 3 minutes before carving.",
+      "Score the skin before cooking if you want crackling; it also helps the fat render.",
+      "Ask the butcher to remove the aitch bone for easier carving.",
+      "Freeze cooked leftovers within 2 hours; they keep well for 2–3 months."
+    ],
+    "faq": [
+      {"q": "Can you freeze a fresh bone-in pork leg?", "a": "Yes. Wrap it tightly and freeze at −18 °C (0 °F). It stays safe indefinitely, but the quality is best within 1–2 months."},
+      {"q": "How long does a fresh ham last in the fridge?", "a": "Up to 1 week from the date of purchase at 4 °C (40 °F) or below, and not past the use-by date."},
+      {"q": "Is fresh ham the same as regular ham?", "a": "No. Fresh ham is uncured, unsmoked raw pork leg; it must be cooked like a pork roast and tastes like roast pork, not like cured ham."}
+    ]
+  },
+  "zh": {
+    "name": "生鮮豬後腿（帶骨整腿）",
+    "aliases": ["帶骨豬腿", "整隻豬後腿", "未醃製火腿", "生豬腿肉", "豬腿庫"],
+    "summary": "所謂的 fresh ham 就是沒有醃製、沒有煙燻的豬後腿，外觀和煮法都比較像大塊烤豬肉，而不是粉紅色的火腿。帶骨整腿從購買日算起冷藏可放 1 週，冷凍以 1～2 個月內用完為佳。它是生豬肉，一定要徹底煮熟。",
+    "pantry": "生豬肉不能常溫存放。即使是烤之前要回溫，也不要放在外面超過 2 小時（室溫超過 32 °C 則 1 小時）。細菌在 4～60 °C 的危險溫度帶會快速繁殖。",
+    "fridge": "保留原包裝，放在 4 °C 以下冷藏室的最下層，底下用大盤子接住生肉汁，避免滴到其他食物。從購買日算起 1 週內烹煮，且不能超過有效期限；如果肉販是用紙包的，回家後改用保鮮膜或袋子包好才不會變乾。",
+    "freezer": "帶骨整腿很大，先確認冷凍庫放得下。用保鮮膜包好，再包厚鋁箔紙或套大冷凍袋，尖銳的骨頭端多包幾層以免戳破，放進 −18 °C 冷凍庫。安全上可以放很久，但 1～2 個月內烤掉品質最好。",
+    "thawing": "放冷藏室解凍，每 2 公斤約 24 小時，整腿可能要 3～4 天。冷水法（不漏水的袋子，每 30 分鐘換水）比較快，但解凍後要馬上烹煮。不要放在室溫下退冰。",
+    "spoilage": [
+      "有酸味或阿摩尼亞味，骨頭附近尤其明顯",
+      "表面黏滑或黏手",
+      "淡粉色變成灰色、綠色或暗褐色",
+      "包裝鼓起，或裡面積了很多混濁的液體"
+    ],
+    "tips": [
+      "烤到中心溫度 63 °C，靜置 3 分鐘再切。",
+      "想要脆皮的話，烤之前在皮上劃刀，也有助於油脂逼出。",
+      "可以請肉販先把髖骨取下，之後比較好切。",
+      "煮熟的剩肉 2 小時內冷凍，2～3 個月內吃完品質都不錯。"
+    ],
+    "faq": [
+      {"q": "帶骨生豬後腿可以冷凍嗎？", "a": "可以。包緊放 −18 °C 冷凍，安全上可以放很久，但 1～2 個月內用完品質最好。"},
+      {"q": "生豬後腿放冰箱可以放多久？", "a": "在 4 °C 以下冷藏，從購買日算起最多 1 週，且不能超過有效期限。"},
+      {"q": "fresh ham 和一般火腿一樣嗎？", "a": "不一樣。fresh ham 是沒有醃製、沒有煙燻的生豬後腿，要像烤豬肉一樣煮熟，味道也是烤豬肉，不是火腿味。"}
+    ]
+  },
+  "ja": {
+    "name": "生の豚もも肉（骨付き・丸ごと）",
+    "aliases": ["フレッシュハム", "豚もも肉ブロック（骨付き）", "生の豚もも", "豚のもも一本", "未加工の豚もも"],
+    "summary": "「フレッシュハム」は塩漬けも燻製もしていない豚の後ろ脚で、見た目も調理法もピンク色のハムより大きな豚のロースト肉に近いものです。骨付き丸ごとなら、購入日から冷蔵で1週間、冷凍なら1〜2か月が品質の目安です。生の豚肉なので、しっかり加熱して食べてください。",
+    "pantry": "生の豚肉は常温保存できません。ローストの前に常温に戻す場合でも、外に出す時間は2時間まで（室温が32 °Cを超えるときは1時間まで）です。4〜60 °Cの危険温度帯では細菌が急速に増えます。",
+    "fridge": "元の包装のまま4 °C以下の冷蔵庫の最下段に置き、大きめのトレイに載せて肉汁がほかの食品に垂れないようにします。購入日から1週間以内、期限内に調理してください。精肉店で紙に包まれていた場合は、乾燥を防ぐためラップや袋に包み直します。",
+    "freezer": "骨付き丸ごとは大きいので、まず冷凍庫のスペースを確認しましょう。ラップで包み、さらに厚手のアルミホイルか大きな冷凍用袋で覆い、骨の先端は破れないよう余分に包んで−18 °Cで冷凍します。安全面では長期保存できますが、品質のためには1〜2か月以内にローストしてください。",
+    "thawing": "冷蔵庫で解凍し、2 kgあたり約24時間、丸ごとなら3〜4日を見込みます。冷水解凍（漏れない袋、30分ごとに水を交換）は早いですが、解凍後すぐに調理する必要があります。室温での解凍は避けましょう。",
+    "spoilage": [
+      "酸っぱいにおいやアンモニア臭がする（骨のまわりで特に強い）",
+      "表面がぬるぬる、べたべたしている",
+      "淡いピンク色ではなく、灰色・緑色・くすんだ茶色になっている",
+      "包装が膨らんでいる、濁った液が大量にたまっている"
+    ],
+    "tips": [
+      "中心温度63 °Cまでローストし、3分間休ませてから切り分けます。",
+      "皮をパリッとさせたいときは調理前に切り込みを入れると、脂も落ちやすくなります。",
+      "精肉店で寛骨（腰の骨）を外してもらうと、切り分けが楽になります。",
+      "加熱後の残りは2時間以内に冷凍すれば、2〜3か月は品質を保てます。"
+    ],
+    "faq": [
+      {"q": "生の骨付き豚もも肉は冷凍できますか？", "a": "できます。しっかり包んで−18 °Cで冷凍してください。安全面では長期保存できますが、品質は1〜2か月以内がベストです。"},
+      {"q": "生の豚もも肉は冷蔵庫でどのくらい持ちますか？", "a": "4 °C以下で購入日から1週間以内が目安で、期限を超えないようにしてください。"},
+      {"q": "フレッシュハムは普通のハムと同じですか？", "a": "違います。フレッシュハムは塩漬けも燻製もしていない生の豚もも肉で、ロースト肉のように加熱して食べます。味もハムではなく焼き豚に近いものです。"}
+    ]
+  },
+  "es": {
+    "name": "Pierna de cerdo fresca, entera con hueso",
+    "aliases": ["jamón fresco", "pernil de cerdo", "pierna de puerco", "pernil fresco", "jamón sin curar"],
+    "summary": "El jamón fresco es sencillamente la pierna trasera del cerdo sin curar ni ahumar, así que se parece y se cocina como un gran asado de cerdo, no como un jamón rosado de charcutería. Entera y con hueso, dura 1 semana en la nevera desde la compra y 1–2 meses en el congelador con buena calidad. Es cerdo crudo y debe cocinarse por completo.",
+    "pantry": "El cerdo fresco no puede guardarse a temperatura ambiente. Nunca dejes la pierna fuera más de 2 horas (1 hora por encima de 32 °C / 90 °F), ni siquiera para atemperarla antes de asarla. Las bacterias se multiplican rápido en la zona de peligro de 4–60 °C (40–140 °F).",
+    "fridge": "Guarda la pierna en su envoltorio original a 4 °C (40 °F) o menos, en el estante inferior y dentro de una bandeja grande para que los jugos crudos no goteen sobre otros alimentos. Cocínala dentro de 1 semana desde la compra y antes de la fecha de caducidad; si el carnicero la envolvió en papel, cámbialo por film o una bolsa para que no se reseque.",
+    "freezer": "Una pierna entera con hueso es grande, así que comprueba primero el espacio del congelador. Envuélvela en film apto para congelar y luego en papel de aluminio grueso o una bolsa grande, protege las puntas del hueso con más envoltura y congélala a −18 °C (0 °F). Se mantiene segura indefinidamente, pero para mejor calidad ásala en 1–2 meses.",
+    "thawing": "Descongela en la nevera, calculando unas 24 horas por cada 2 kg (4–5 lb); una pierna entera puede necesitar 3–4 días. El método de agua fría (bolsa hermética, agua cambiada cada 30 minutos) es más rápido, pero hay que cocinar la carne de inmediato. Nunca en la encimera.",
+    "spoilage": [
+      "Olor agrio o a amoníaco, sobre todo cerca del hueso",
+      "Superficie viscosa o pegajosa",
+      "Color grisáceo, verdoso o marrón apagado en lugar de rosa pálido",
+      "Envase hinchado o con mucho líquido turbio"
+    ],
+    "tips": [
+      "Asa hasta 63 °C (145 °F) en el centro y deja reposar 3 minutos antes de trinchar.",
+      "Haz cortes en la piel antes de cocinar si quieres que quede crujiente; también ayuda a que la grasa se derrita.",
+      "Pide al carnicero que retire el hueso de la cadera para trinchar con más facilidad.",
+      "Congela las sobras cocidas en menos de 2 horas; se conservan bien 2–3 meses."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar una pierna de cerdo fresca con hueso?", "a": "Sí. Envuélvela bien y congélala a −18 °C (0 °F). Se mantiene segura indefinidamente, pero la calidad es mejor dentro de 1–2 meses."},
+      {"q": "¿Cuánto dura una pierna de cerdo fresca en la nevera?", "a": "Hasta 1 semana desde la fecha de compra a 4 °C (40 °F) o menos, sin pasar la fecha de caducidad."},
+      {"q": "¿El jamón fresco es lo mismo que el jamón normal?", "a": "No. El jamón fresco es pierna de cerdo cruda, sin curar ni ahumar; se cocina como un asado y sabe a cerdo asado, no a jamón curado."}
+    ]
+  }
+}

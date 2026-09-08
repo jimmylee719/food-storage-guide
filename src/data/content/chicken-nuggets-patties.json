@@ -1,0 +1,107 @@
+{
+  "slug": "chicken-nuggets-patties",
+  "en": {
+    "name": "Chicken nuggets and patties",
+    "aliases": ["frozen chicken nuggets", "chicken burgers (frozen)", "breaded chicken patties", "chicken tenders (frozen)", "chicken goujons"],
+    "summary": "Chicken nuggets and patties are breaded pieces of chicken sold frozen, either fully cooked or raw-breaded, for baking, frying or air-frying. Keep them frozen and use within 1–3 months of purchase for best quality; at −18 °C (0 °F) they stay safe beyond that. Once thawed, they keep 1–2 days in the fridge.",
+    "pantry": "Frozen nuggets and patties should never be left out to thaw or sit on the counter. Even fully cooked products are perishable once they warm up, and many supermarket nuggets are actually raw inside the breading. Discard any that have been at room temperature for more than 2 hours, or 1 hour above 32 °C (90 °F). Cooked nuggets on the table follow the same 2-hour rule.",
+    "fridge": "The fridge is only a short stop for these products. If a bag has thawed, or you have moved some to the fridge to cook later, use them within 1–2 days at 4 °C (40 °F) or below, kept in a sealed bag or container. Cooked leftovers should be refrigerated within 2 hours and eaten within 3–4 days; they will not be crisp again unless reheated in an oven or air fryer.",
+    "freezer": "Keep the original bag tightly closed, or transfer to a freezer bag with the air pressed out, at −18 °C (0 °F). Use within 1–3 months of purchase for best quality; longer storage is safe but the breading dries out, picks up freezer odours and can develop ice crystals. Return the bag to the freezer promptly after taking out a portion so the rest does not partially thaw.",
+    "thawing": "There is no need to thaw: cook nuggets and patties straight from frozen according to the package directions, which is also the safest method. If you do thaw, do it in the fridge, never on the counter, and cook within 1–2 days. Raw-breaded products must reach 74 °C (165 °F) in the centre.",
+    "spoilage": [
+      "Heavy frost or ice crystals inside the bag, a sign of thawing and refreezing",
+      "Dry, white, leathery patches of freezer burn on the breading",
+      "Sour or off smell once thawed or cooked",
+      "Slimy breading or grey, discoloured chicken inside"
+    ],
+    "tips": [
+      "Check the label: 'fully cooked' and 'raw' nuggets look alike but raw ones need a full cook to 74 °C (165 °F)",
+      "Buy bags that are loose and free of ice clumps; a solid frozen block means they thawed in transit",
+      "Write the purchase date on the bag and use within 1–3 months",
+      "Take out only what you need and reseal the bag before it softens"
+    ],
+    "faq": [
+      {"q": "How long do chicken nuggets last in the freezer?", "a": "Use them within 1–3 months of purchase for best quality. Frozen at −18 °C (0 °F) they remain safe beyond that, but the breading loses quality."},
+      {"q": "Can you refreeze thawed chicken nuggets?", "a": "If they thawed in the fridge and have been there no more than 1–2 days, they can be refrozen, though the coating will suffer. Do not refreeze nuggets that thawed at room temperature."},
+      {"q": "Do frozen chicken nuggets need to be thawed before cooking?", "a": "No. Cook them straight from frozen following the package instructions; it is both easier and safer than thawing first."}
+    ]
+  },
+  "zh": {
+    "name": "雞塊、雞排（冷凍）",
+    "aliases": ["冷凍雞塊", "麥克雞塊", "炸雞塊", "雞肉漢堡排", "裹粉雞排", "雞柳條"],
+    "summary": "雞塊和雞排是裹上麵衣的雞肉製品，多以冷凍販售，有些已完全煮熟、有些裡面還是生的，回家用烤箱、油炸或氣炸鍋加熱即可。請保持冷凍，購買後 1～3 個月內吃完品質最好；在 −18 °C 下安全上可以放更久。解凍後放冷藏可放 1～2 天。",
+    "pantry": "冷凍雞塊不能拿出來放在流理台上退冰或擺著。就算是熟的產品，一回溫就容易變質，而且很多市售雞塊麵衣裡面其實是生肉。在室溫超過 2 小時就要丟掉，室溫高於 32 °C 則 1 小時為限。炸好的雞塊放在餐桌上也一樣適用 2 小時原則。",
+    "fridge": "冷藏只是這類產品的短暫中繼站。如果整袋解凍了，或是先拿一些到冷藏準備之後煮，請放在密封袋或容器中、4 °C 以下，1～2 天內用完。煮熟後的剩餘雞塊要在 2 小時內冷藏，3～4 天內吃完；要恢復酥脆，得用烤箱或氣炸鍋重新加熱。",
+    "freezer": "原包裝袋要封緊，或改裝進冷凍袋並擠出空氣，放在 −18 °C 冷凍。購買後 1～3 個月內吃完品質最好；放更久安全上沒問題，但麵衣會變乾、吸附冷凍庫異味，還可能結冰晶。每次拿出需要的份量後，馬上把袋子放回冷凍庫，避免剩下的半解凍。",
+    "thawing": "不需要解凍：依照包裝說明直接從冷凍狀態烹調，這也是最安全的做法。如果真的要解凍，請放冷藏，不要放在流理台上，並在 1～2 天內煮完。生的裹粉產品中心溫度要達到 74 °C。",
+    "spoilage": [
+      "袋子裡有大量霜或冰晶，代表曾經解凍又再凍",
+      "麵衣上有乾白、皮革狀的凍燒斑",
+      "解凍或煮熟後有酸味或怪味",
+      "麵衣黏滑，或裡面的雞肉變灰、變色"
+    ],
+    "tips": [
+      "看清楚標示：「已熟」和「生」的雞塊外觀一樣，但生的一定要煮到中心 74 °C",
+      "挑選袋內顆粒鬆散、沒有結成冰塊的產品；凍成一整塊代表運送途中曾解凍",
+      "在袋子上寫下購買日期，1～3 個月內用完",
+      "只拿需要的份量，趁還沒軟掉前把袋子封好放回去"
+    ],
+    "faq": [
+      {"q": "冷凍雞塊可以放多久？", "a": "購買後 1～3 個月內吃完品質最好。在 −18 °C 持續冷凍安全上可以放更久，只是麵衣品質會下降。"},
+      {"q": "解凍過的雞塊可以再冷凍嗎？", "a": "如果是在冷藏解凍、放不超過 1～2 天，可以再冷凍，但麵衣口感會變差。在室溫解凍過的就不要再冷凍。"},
+      {"q": "冷凍雞塊要先解凍再煮嗎？", "a": "不用。依包裝說明直接從冷凍狀態烹調，既方便也比先解凍更安全。"}
+    ]
+  },
+  "ja": {
+    "name": "チキンナゲット・チキンパティ",
+    "aliases": ["冷凍チキンナゲット", "冷凍ナゲット", "チキンバーガー用パティ", "衣付き鶏肉", "チキンテンダー（冷凍）"],
+    "summary": "チキンナゲットとチキンパティは衣を付けた鶏肉製品で、加熱済みのものも衣の中が生のものも冷凍で売られており、オーブンや揚げ物、エアフライヤーで調理します。冷凍のまま保存し、購入から1～3か月以内に使うと品質が良好です。−18 °Cならそれ以降も安全です。解凍後は冷蔵で1～2日が目安です。",
+    "pantry": "冷凍ナゲットを常温で解凍したり、出しっぱなしにしたりしてはいけません。加熱済み製品でも温まれば傷みやすく、スーパーのナゲットには衣の中が生のものも多くあります。室温に2時間以上、32 °Cを超える場合は1時間以上置いたものは廃棄してください。食卓に出した調理済みナゲットにも同じ2時間ルールが当てはまります。",
+    "fridge": "冷蔵庫はこの製品にとって一時的な置き場所にすぎません。袋が解凍してしまった場合や、あとで調理するために冷蔵庫へ移した分は、密封袋か容器に入れて4 °C以下で保存し、1～2日以内に使い切ります。調理後の残りは2時間以内に冷蔵し、3～4日以内に食べきりましょう。オーブンかエアフライヤーで温め直さないとサクサク感は戻りません。",
+    "freezer": "元の袋の口をしっかり閉じるか、冷凍用保存袋に移して空気を抜き、−18 °Cで保存します。購入から1～3か月以内に使うと品質が良好です。それ以上でも安全ですが、衣が乾いたり冷凍庫のにおいを吸ったり、氷の結晶ができたりします。必要な分を取り出したらすぐに袋を冷凍庫へ戻し、残りが半解凍にならないようにしましょう。",
+    "thawing": "解凍は不要です。パッケージの表示に従って凍ったまま調理するのが、いちばん簡単で安全な方法です。どうしても解凍する場合は常温ではなく冷蔵庫で行い、1～2日以内に加熱します。衣の中が生の製品は中心温度74 °Cまで加熱してください。",
+    "spoilage": [
+      "袋の中に霜や氷の結晶が大量についている（解凍と再冷凍のサイン）",
+      "衣に白く乾いた革のような冷凍焼けの部分がある",
+      "解凍後や加熱後に酸っぱいにおい、変なにおいがする",
+      "衣がぬめっている、中の鶏肉が灰色に変色している"
+    ],
+    "tips": [
+      "表示を確認する。「加熱済み」と「生」のナゲットは見た目が同じでも、生なら中心74 °Cまでしっかり加熱が必要",
+      "袋の中がバラバラで氷の塊がないものを選ぶ。ひと塊に凍っていれば輸送中に解凍した証拠",
+      "袋に購入日を書き、1～3か月以内に使い切る",
+      "必要な分だけ取り出し、柔らかくなる前に袋を閉じて戻す"
+    ],
+    "faq": [
+      {"q": "冷凍チキンナゲットはどのくらい保存できますか？", "a": "購入から1～3か月以内に使うのが品質の目安です。−18 °Cで凍ったままなら安全性はそれ以降も保たれますが、衣の品質は落ちます。"},
+      {"q": "解凍したチキンナゲットは再冷凍できますか？", "a": "冷蔵庫で解凍して1～2日以内なら再冷凍できますが、衣の食感は落ちます。常温で解凍したものは再冷凍しないでください。"},
+      {"q": "冷凍ナゲットは調理前に解凍が必要ですか？", "a": "不要です。パッケージの指示どおり凍ったまま調理するほうが簡単で、解凍するより安全です。"}
+    ]
+  },
+  "es": {
+    "name": "Nuggets y hamburguesas de pollo",
+    "aliases": ["nuggets de pollo congelados", "hamburguesas de pollo congeladas", "medallones de pollo empanizados", "milanesas de pollo congeladas", "tiras de pollo empanadas"],
+    "summary": "Los nuggets y las hamburguesas de pollo son trozos de pollo empanizados que se venden congelados, ya sea totalmente cocidos o crudos bajo el empanizado, para hornear, freír o hacer en freidora de aire. Mantenlos congelados y úsalos dentro de 1–3 meses desde la compra para la mejor calidad; a −18 °C (0 °F) siguen siendo seguros después. Una vez descongelados, duran 1–2 días en el refrigerador.",
+    "pantry": "Los nuggets congelados nunca deben dejarse fuera para descongelarse ni quedarse en la encimera. Incluso los productos totalmente cocidos son perecederos en cuanto se templan, y muchos nuggets de supermercado son crudos por dentro. Desecha los que hayan estado a temperatura ambiente más de 2 horas, o más de 1 hora por encima de 32 °C (90 °F). Los nuggets ya cocinados en la mesa siguen la misma regla de 2 horas.",
+    "fridge": "El refrigerador es solo una parada breve para estos productos. Si una bolsa se ha descongelado, o has pasado algunos al refrigerador para cocinarlos más tarde, úsalos en 1–2 días a 4 °C (40 °F) o menos, en una bolsa o recipiente cerrado. Las sobras cocinadas deben refrigerarse en menos de 2 horas y comerse en 3–4 días; solo recuperan lo crujiente si se recalientan en horno o freidora de aire.",
+    "freezer": "Mantén la bolsa original bien cerrada, o pásalos a una bolsa para congelar sacando el aire, a −18 °C (0 °F). Úsalos dentro de 1–3 meses desde la compra para la mejor calidad; guardarlos más tiempo es seguro, pero el empanizado se reseca, absorbe olores del congelador y puede formar cristales de hielo. Devuelve la bolsa al congelador enseguida después de sacar una porción para que el resto no se descongele parcialmente.",
+    "thawing": "No hace falta descongelar: cocina los nuggets y las hamburguesas directamente congelados siguiendo las instrucciones del envase, que además es el método más seguro. Si los descongelas, hazlo en el refrigerador, nunca en la encimera, y cocínalos en 1–2 días. Los productos crudos empanizados deben alcanzar 74 °C (165 °F) en el centro.",
+    "spoilage": [
+      "Mucha escarcha o cristales de hielo dentro de la bolsa, señal de descongelación y recongelación",
+      "Manchas secas, blancas y correosas de quemadura por frío en el empanizado",
+      "Olor agrio o extraño al descongelar o cocinar",
+      "Empanizado viscoso o pollo gris y descolorido por dentro"
+    ],
+    "tips": [
+      "Lee la etiqueta: los nuggets 'totalmente cocidos' y los 'crudos' se ven iguales, pero los crudos deben cocinarse hasta 74 °C (165 °F)",
+      "Elige bolsas con piezas sueltas y sin bloques de hielo; un bloque sólido indica que se descongelaron en el transporte",
+      "Anota la fecha de compra en la bolsa y úsalos en 1–3 meses",
+      "Saca solo lo que necesites y vuelve a cerrar la bolsa antes de que se ablanden"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los nuggets de pollo en el congelador?", "a": "Úsalos dentro de 1–3 meses desde la compra para la mejor calidad. Congelados a −18 °C (0 °F) siguen siendo seguros después, pero el empanizado pierde calidad."},
+      {"q": "¿Se pueden volver a congelar los nuggets descongelados?", "a": "Si se descongelaron en el refrigerador y llevan allí como máximo 1–2 días, pueden recongelarse, aunque el rebozado se resiente. No recongeles nuggets descongelados a temperatura ambiente."},
+      {"q": "¿Hay que descongelar los nuggets antes de cocinarlos?", "a": "No. Cocínalos directamente congelados siguiendo las instrucciones del envase; es más fácil y más seguro que descongelarlos primero."}
+    ]
+  }
+}

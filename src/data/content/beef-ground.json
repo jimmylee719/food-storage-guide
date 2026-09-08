@@ -1,0 +1,111 @@
+{
+  "slug": "beef-ground",
+  "en": {
+    "name": "Ground beef",
+    "aliases": ["minced beef", "hamburger meat", "beef mince", "ground hamburger"],
+    "summary": "Ground beef is beef that has been finely chopped in a grinder, which exposes far more surface area to bacteria than a whole cut. It should never sit at room temperature, keeps only 1–2 days in the fridge from the day you buy it, and holds best quality for 3–4 months in the freezer.",
+    "pantry": "Ground beef is highly perishable and cannot be stored at room temperature. Bacteria multiply quickly in the danger zone between 4 °C and 60 °C (40 °F and 140 °F), so raw ground beef left out for more than 2 hours, or 1 hour when it is above 32 °C (90 °F), should be thrown away. Bring it home quickly after shopping and refrigerate or freeze it straight away.",
+    "fridge": "Keep ground beef in its original tray or a sealed container on the bottom shelf, where the fridge is coldest and drips cannot reach other food. At 4 °C (40 °F) or below it stays safe for 1–2 days from the date of purchase, whether the package is opened or not. If you will not cook it within that window, freeze it on the day you buy it.",
+    "freezer": "Ground beef freezes very well. Divide it into meal-sized portions, press each one flat in a freezer bag so it freezes fast and thaws evenly, and squeeze out the air; for longer storage, overwrap the store tray with foil or freezer paper. At −18 °C (0 °F) it remains safe indefinitely, but use it within 3–4 months for the best flavour and texture.",
+    "thawing": "Thaw ground beef in the fridge (a 500 g pack takes roughly a day), in a sealed bag under cold water changed every 30 minutes, or in the microwave if you cook it immediately. Never thaw it on the counter. Cook it within 1–2 days if fridge-thawed, or straight away after the cold-water or microwave method.",
+    "spoilage": [
+      "A sour, ammonia-like or otherwise off smell as soon as the package is opened",
+      "A slimy, sticky or tacky surface when you touch it",
+      "Colour has turned dull brown or greyish throughout, not just on the inside where air cannot reach",
+      "A bulging or leaking package, or meat that is past its use-by date"
+    ],
+    "tips": [
+      "Pick up ground beef last at the store and use a cooler bag in hot weather.",
+      "Write the purchase date on the package so the 1–2 day fridge limit is easy to track.",
+      "Freeze in flat 250–500 g portions; they thaw far faster than a thick block.",
+      "Cook ground beef to an internal temperature of 71 °C (160 °F) since bacteria are mixed throughout."
+    ],
+    "faq": [
+      {"q": "Can you freeze ground beef?", "a": "Yes. Portion it, wrap tightly to keep out air, and freeze at −18 °C (0 °F). It stays safe indefinitely but is best used within 3–4 months."},
+      {"q": "How can you tell if ground beef has gone bad?", "a": "Trust your nose first: a sour or ammonia smell means it is done. A slimy, sticky surface or an overall dull brown-grey colour are also signs to discard it."},
+      {"q": "How long does ground beef last in the fridge?", "a": "Only 1–2 days from the day of purchase at 4 °C (40 °F) or below. If you cannot cook it in time, freeze it right away."},
+      {"q": "Why is my ground beef brown in the middle?", "a": "The bright red colour comes from contact with oxygen. Meat in the centre of the pack, away from air, is naturally purplish-brown and is still fine as long as it smells fresh and is not slimy."}
+    ]
+  },
+  "zh": {
+    "name": "牛絞肉",
+    "aliases": ["牛肉末", "碎牛肉", "免治牛肉", "漢堡肉", "牛肉餡"],
+    "summary": "牛絞肉是用絞肉機把牛肉絞碎而成，接觸空氣和細菌的面積遠比整塊肉大，所以特別容易壞。牛絞肉不能放室溫，冷藏從購買當天算起只能放 1～2 天，冷凍則以 3～4 個月內吃完風味最好。",
+    "pantry": "牛絞肉非常容易腐敗，絕對不能放在室溫下保存。細菌在 4～60°C 的「危險溫度帶」會快速繁殖，生牛絞肉在室溫放超過 2 小時（氣溫超過 32°C 時只有 1 小時）就應該丟掉。買回家後請盡快放進冰箱冷藏或冷凍。",
+    "fridge": "牛絞肉請連原本的盒裝或改放密封盒，放在冰箱最下層，那裡溫度最低，也不會讓肉汁滴到其他食物上。冷藏溫度保持在 4°C 以下，從購買日起算，不論有沒有拆封都只能放 1～2 天。如果來不及煮，買回來當天就直接冷凍。",
+    "freezer": "牛絞肉很適合冷凍。建議依照每餐用量分裝，放進冷凍袋壓成扁平薄片，擠出空氣後密封，這樣結凍快、解凍也均勻；若要放比較久，可以在超市包裝外再包一層鋁箔或保鮮膜。在 −18°C 冷凍可以無限期安全保存，但 3～4 個月內吃完口感和風味最好。",
+    "thawing": "解凍請放冷藏室慢慢退冰（約 500 公克需要一天左右），或裝進密封袋泡冷水、每 30 分鐘換一次水，也可以用微波爐解凍後立刻下鍋。千萬不要放在流理台上自然退冰。冷藏解凍後 1～2 天內煮完，泡水或微波解凍的則要馬上料理。",
+    "spoilage": [
+      "打開包裝就聞到酸味、阿摩尼亞味或其他異味",
+      "表面摸起來黏黏滑滑的",
+      "整塊肉都變成暗褐色或灰色，而不只是接觸不到空氣的中心部分",
+      "包裝鼓起、漏汁，或已經超過有效日期"
+    ],
+    "tips": [
+      "採買時把絞肉留到最後才拿，天氣熱時帶保冷袋。",
+      "在包裝上寫上購買日期，方便掌握 1～2 天的冷藏期限。",
+      "分裝成 250～500 公克的扁平包，解凍速度比一大塊快很多。",
+      "絞肉的細菌分布在整塊肉裡，要煮到中心溫度 71°C 以上才安全。"
+    ],
+    "faq": [
+      {"q": "牛絞肉可以冷凍嗎？", "a": "可以。分裝後密封、盡量擠出空氣，放進 −18°C 的冷凍庫。安全上可以放很久，但風味以 3～4 個月內最好。"},
+      {"q": "牛絞肉壞掉怎麼看？", "a": "先聞味道，有酸味或阿摩尼亞味就不要吃了。表面黏滑、整塊肉呈暗褐灰色也都是壞掉的跡象。"},
+      {"q": "牛絞肉放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買當天算起只能放 1～2 天。來不及煮的話請直接冷凍。"},
+      {"q": "牛絞肉中間變褐色還能吃嗎？", "a": "鮮紅色是肉接觸氧氣後的顏色，包裝中心接觸不到空氣的部分本來就偏紫褐色。只要沒有異味、不黏手，就可以正常食用。"}
+    ]
+  },
+  "ja": {
+    "name": "牛ひき肉",
+    "aliases": ["牛挽き肉", "牛ミンチ", "ぎゅうひきにく", "牛肉ミンチ"],
+    "summary": "牛ひき肉は牛肉をミンサーで細かく挽いたもので、かたまり肉に比べて空気や細菌に触れる面積がはるかに大きく、傷みやすいのが特徴です。常温には置けず、冷蔵では購入日から1〜2日、冷凍なら3〜4か月以内に使い切るのがおいしさの目安です。",
+    "pantry": "牛ひき肉は非常に傷みやすいため、常温保存はできません。4〜60℃の「危険温度帯」では細菌が急速に増えるので、生のひき肉を室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。買い物のあとは寄り道せずに帰り、すぐ冷蔵か冷凍しましょう。",
+    "fridge": "牛ひき肉はトレーのまま、または密閉容器に移して、冷蔵庫の一番下の段（チルド室があれば理想的）に入れます。温度が最も低く、肉汁がほかの食品に垂れる心配もありません。4℃以下で保存し、開封の有無にかかわらず購入日から1〜2日以内に使い切ってください。間に合わないときは買った当日に冷凍します。",
+    "freezer": "牛ひき肉は冷凍向きの食材です。1回分ずつ小分けし、冷凍用保存袋に入れて薄く平らにならし、空気を抜いて密封すると、早く凍って解凍ムラも出ません。長めに保存するなら、店のトレーの上からアルミホイルやラップで二重に包みましょう。−18℃で保存すれば安全面ではいつまでも保ちますが、風味と食感を考えると3〜4か月以内が目安です。",
+    "thawing": "解凍は冷蔵庫でゆっくり（500gでおよそ1日）、または密閉袋のまま冷水につけて30分ごとに水を替える方法、あるいはすぐ調理するなら電子レンジの解凍モードでも構いません。常温での自然解凍は避けてください。冷蔵解凍したものは1〜2日以内に、冷水や電子レンジで解凍したものはすぐに加熱調理します。",
+    "spoilage": [
+      "開封した瞬間に酸っぱいにおいやアンモニア臭など、明らかな異臭がする",
+      "表面がぬるぬる、ねばねばと糸を引くような感触になっている",
+      "空気に触れない中心部だけでなく、全体がくすんだ茶色や灰色に変わっている",
+      "パックが膨らんでいる、汁が漏れている、または消費期限を過ぎている"
+    ],
+    "tips": [
+      "買い物ではひき肉を最後にかごへ入れ、暑い時期は保冷バッグを使う。",
+      "パックに購入日を書いておくと、1〜2日の冷蔵期限を管理しやすい。",
+      "250〜500gずつ薄く平らに冷凍すると、かたまりで凍らせるよりずっと早く解凍できる。",
+      "ひき肉は全体に細菌が混ざっているので、中心温度71℃以上までしっかり火を通す。"
+    ],
+    "faq": [
+      {"q": "牛ひき肉は冷凍できますか？", "a": "できます。小分けにして空気を抜いて密封し、−18℃で冷凍してください。安全面では長期間保ちますが、おいしく食べるなら3〜4か月以内が目安です。"},
+      {"q": "牛ひき肉が傷んでいるかどうかの見分け方は？", "a": "まずはにおいを確認し、酸っぱいにおいやアンモニア臭がしたら食べないでください。表面のぬめりや、全体がくすんだ茶灰色になっているのも傷みのサインです。"},
+      {"q": "牛ひき肉は冷蔵庫で何日もちますか？", "a": "4℃以下の冷蔵で、購入日から1〜2日が限度です。それまでに調理できないなら、すぐに冷凍しましょう。"},
+      {"q": "牛ひき肉の中が茶色いのは大丈夫？", "a": "鮮やかな赤色は酸素に触れたときの色で、パックの中心など空気に触れない部分はもともと紫がかった茶色です。異臭やぬめりがなければ問題なく食べられます。"}
+    ]
+  },
+  "es": {
+    "name": "Carne molida de res",
+    "aliases": ["carne picada de ternera", "carne picada de vaca", "carne molida de vacuno", "picadillo de res"],
+    "summary": "La carne molida de res es carne de vacuno pasada por la picadora, lo que expone mucha más superficie a las bacterias que una pieza entera. Nunca debe quedarse a temperatura ambiente, aguanta solo 1–2 días en el refrigerador desde el día de compra y conserva su mejor calidad 3–4 meses en el congelador.",
+    "pantry": "La carne molida es muy perecedera y no puede guardarse a temperatura ambiente. Las bacterias se multiplican rápidamente en la zona de peligro, entre 4 °C y 60 °C (40 °F y 140 °F), así que la carne cruda que haya pasado más de 2 horas fuera del frío, o 1 hora si hace más de 32 °C (90 °F), debe desecharse. Vuelve a casa sin demora después de comprarla y refrigérala o congélala enseguida.",
+    "fridge": "Guarda la carne molida en su bandeja original o en un recipiente cerrado en el estante inferior del refrigerador, que es el más frío y evita que gotee sobre otros alimentos. A 4 °C (40 °F) o menos se mantiene segura 1–2 días desde la fecha de compra, esté abierto o no el envase. Si no la vas a cocinar en ese plazo, congélala el mismo día que la compres.",
+    "freezer": "La carne molida se congela muy bien. Divídela en porciones para una comida, aplánalas dentro de una bolsa de congelación para que se congelen rápido y se descongelen parejo, y saca todo el aire; si va a estar mucho tiempo, envuelve la bandeja del supermercado con papel de aluminio o papel para congelar. A −18 °C (0 °F) se mantiene segura indefinidamente, pero úsala en 3–4 meses para conservar sabor y textura.",
+    "thawing": "Descongela la carne molida en el refrigerador (un paquete de 500 g tarda aproximadamente un día), en una bolsa cerrada sumergida en agua fría que cambies cada 30 minutos, o en el microondas si la vas a cocinar de inmediato. Nunca la descongeles sobre la encimera. Cocínala en 1–2 días si la descongelaste en el refrigerador, o enseguida si usaste agua fría o microondas.",
+    "spoilage": [
+      "Olor agrio, a amoníaco o claramente desagradable al abrir el envase",
+      "Superficie viscosa, pegajosa o babosa al tocarla",
+      "Color marrón apagado o grisáceo en toda la carne, no solo en el centro donde no llega el aire",
+      "Envase hinchado o con fugas, o fecha de caducidad vencida"
+    ],
+    "tips": [
+      "Toma la carne molida al final de la compra y usa una bolsa térmica cuando haga calor.",
+      "Anota la fecha de compra en el paquete para controlar fácilmente el límite de 1–2 días en el refrigerador.",
+      "Congela en porciones planas de 250–500 g; se descongelan mucho más rápido que un bloque grueso.",
+      "Cocina la carne molida hasta 71 °C (160 °F) en el centro, porque las bacterias están repartidas por toda la masa."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la carne molida de res?", "a": "Sí. Divídela en porciones, envuélvela bien sin aire y congélala a −18 °C (0 °F). Se mantiene segura indefinidamente, pero lo ideal es consumirla en 3–4 meses."},
+      {"q": "¿Cómo saber si la carne molida está mala?", "a": "Fíate primero del olfato: un olor agrio o a amoníaco significa que hay que tirarla. Una superficie viscosa o un color marrón grisáceo generalizado también indican que se ha echado a perder."},
+      {"q": "¿Cuánto dura la carne molida en el refrigerador?", "a": "Solo 1–2 días desde el día de compra a 4 °C (40 °F) o menos. Si no puedes cocinarla a tiempo, congélala de inmediato."},
+      {"q": "¿Por qué mi carne molida está marrón por dentro?", "a": "El rojo brillante aparece al contacto con el oxígeno. La carne del centro del paquete, sin aire, es naturalmente marrón violácea y está en buen estado mientras huela fresca y no esté viscosa."}
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "sour-cream",
+  "en": {
+    "name": "Sour cream",
+    "aliases": ["soured cream", "cultured cream", "crema", "crème fraîche (similar)"],
+    "summary": "Sour cream is cream thickened and soured with lactic-acid cultures. USDA FoodKeeper lists no fixed timeline for it, so the practical rule is: keep it refrigerated at all times and use it by the date on the tub, finishing an opened tub as soon as you reasonably can. Freezing is possible but changes the texture, so it is only worth doing for cooking.",
+    "pantry": "Sour cream is a perishable cultured dairy product and should never be stored at room temperature. Follow the 2-hour rule, or 1 hour when the room is above 32 °C (90 °F), and put the tub back in the fridge as soon as you have spooned some out. At a party, set the bowl on ice or bring out small amounts at a time.",
+    "fridge": "Keep sour cream at 4 °C (40 °F) or below on an inside shelf, not in the door. USDA gives no set number of days, so use the date printed on the tub as your guide and keep the lid tightly closed. Always use a clean spoon; double-dipping introduces bacteria that shorten its life. Storing the tub upside down is a popular trick, but a tight lid and a cold shelf matter more.",
+    "freezer": "USDA gives no freezer timeline for sour cream, and freezing is not recommended for use as a topping. Thawed sour cream separates and becomes watery and grainy. It is still safe and works fine stirred into soups, casseroles, baked goods or sauces. If you freeze it, portion it into small airtight containers or ice-cube trays at −18 °C (0 °F) and label them.",
+    "thawing": "Thaw frozen sour cream in the fridge, never on the counter, then whisk it before adding it to cooked dishes. Do not expect it to return to a smooth topping consistency.",
+    "spoilage": [
+      "Any mould, including pink, green or fuzzy spots, on the surface or inside the lid.",
+      "A sharp, bitter or yeasty smell beyond its normal mild tang.",
+      "A large pool of watery liquid on top that does not stir back in, or a lumpy, curdled texture.",
+      "A bulging lid or a sour, fizzy taste."
+    ],
+    "tips": [
+      "Buy the tub with the latest date and check that the safety seal is intact.",
+      "Use a clean, dry spoon every time and never eat straight from the tub.",
+      "Write the opening date on the lid so you use it up promptly.",
+      "Choose a tub size you will finish; a small tub used quickly beats a large one that sits half-eaten."
+    ],
+    "faq": [
+      {"q": "Can you freeze sour cream?", "a": "You can, but only for cooking. Thawed sour cream is watery and grainy, so it is no longer good as a topping. USDA gives no freezer timeline for it."},
+      {"q": "How long does sour cream last in the fridge?", "a": "USDA lists no fixed timeline. Keep it at 4 °C (40 °F) or below and use it by the date on the tub, finishing an opened tub promptly."},
+      {"q": "How can you tell if sour cream has gone bad?", "a": "Mould, a bitter or yeasty smell, a curdled texture or a bulging lid mean it should go in the bin. A little clear liquid on top is normal and can be stirred back in."},
+      {"q": "Does sour cream need to be refrigerated?", "a": "Yes, always. It is a live cultured dairy product and should not sit out for more than 2 hours."}
+    ]
+  },
+  "zh": {
+    "name": "酸奶油",
+    "aliases": ["酸忌廉", "酸鮮奶油", "sour cream", "發酵鮮奶油", "酸奶油醬"],
+    "summary": "酸奶油是用乳酸菌讓鮮奶油變稠、變酸而成的乳製品。USDA FoodKeeper 沒有為它訂出固定期限，所以實際做法是：全程冷藏、在盒上標示的期限內用完，開封後盡快吃完。可以冷凍，但口感會改變，只適合拿來做菜。",
+    "pantry": "酸奶油是容易腐壞的發酵乳製品，絕對不能放在室溫。請遵守 2 小時原則（室溫超過 32 °C 時為 1 小時），挖完馬上放回冰箱。聚餐時可以把碗放在冰塊上，或每次只拿一小份出來。",
+    "fridge": "放在 4 °C 以下的冰箱內側層架，不要放門邊。USDA 沒有給固定天數，請以盒上標示的期限為準，蓋子要蓋緊。每次都用乾淨的湯匙挖，用過的湯匙再挖會帶進細菌、縮短保存期。倒扣存放是網路上流行的小技巧，但蓋緊和放在夠冷的位置更重要。",
+    "freezer": "USDA 沒有提供酸奶油的冷凍期限，也不建議冷凍後拿來當淋醬。解凍後會分離、出水、變得粗糙，不過還是安全的，拌進湯、焗烤、烘焙或醬汁裡沒問題。要冷凍的話，在 −18 °C 分裝到小密封盒或製冰盒，並寫上日期。",
+    "thawing": "冷凍的酸奶油請放冷藏解凍，不要放在室溫，使用前先攪拌再加進熟食。不要期待它恢復成滑順的淋醬質地。",
+    "spoilage": [
+      "表面或蓋子內側有霉，包括粉紅、綠色或毛絨狀的斑點。",
+      "有刺鼻、苦味或酵母味，超過原本淡淡的酸味。",
+      "表面積一大灘水攪不回去，或質地結塊、凝結。",
+      "蓋子膨脹，或吃起來發酸有氣泡感。"
+    ],
+    "tips": [
+      "買期限最晚的那盒，並確認封膜完整。",
+      "每次都用乾淨、乾燥的湯匙，不要直接從盒子裡吃。",
+      "在蓋子上寫開封日期，提醒自己盡快用完。",
+      "選吃得完的小包裝；小盒快速用完比大盒吃一半放著好。"
+    ],
+    "faq": [
+      {"q": "酸奶油可以冷凍嗎？", "a": "可以，但只適合做菜用。解凍後會出水、變粗糙，不能再當淋醬。USDA 沒有提供冷凍期限。"},
+      {"q": "酸奶油放冰箱可以放多久？", "a": "USDA 沒有固定期限。放在 4 °C 以下，在盒上標示的期限內用完，開封後盡快吃完。"},
+      {"q": "怎麼判斷酸奶油壞掉了？", "a": "長霉、有苦味或酵母味、凝結成塊、蓋子膨脹就要丟掉。表面有一點透明液體是正常的，攪回去就好。"},
+      {"q": "酸奶油一定要放冰箱嗎？", "a": "要，一定要。它是含活菌的發酵乳製品，室溫不要放超過 2 小時。"}
+    ]
+  },
+  "ja": {
+    "name": "サワークリーム",
+    "aliases": ["サワークリーム", "発酵クリーム", "酸味クリーム", "クレームフレッシュ（類似品）"],
+    "summary": "サワークリームは、乳酸菌で生クリームを発酵させてとろみと酸味をつけた乳製品です。USDA FoodKeeperには決まった保存期間がないため、実際のルールは「常に冷蔵し、容器の期限内に使いきり、開封後はできるだけ早く食べきる」です。冷凍もできますが食感が変わるので、料理用に限ります。",
+    "pantry": "サワークリームは傷みやすい発酵乳製品で、常温保存は厳禁です。2時間ルール（室温が32 °Cを超える場合は1時間）を守り、取り分けたらすぐ冷蔵庫に戻しましょう。パーティーでは器を氷の上に置くか、少量ずつ出すようにしてください。",
+    "fridge": "4 °C以下の冷蔵庫で、ドアポケットではなく庫内の棚に置きます。USDAは日数を示していないので、容器に印字された期限を目安にし、ふたをしっかり閉めてください。取り分けるときは必ず清潔なスプーンを使いましょう。使ったスプーンを再び入れると細菌が入り、日持ちが短くなります。容器を逆さにして保存する裏ワザもありますが、ふたの密閉と十分に冷えた場所の方が大切です。",
+    "freezer": "USDAはサワークリームの冷凍期間を示しておらず、トッピング用途での冷凍はおすすめしません。解凍すると分離して水っぽく、ざらついた食感になります。ただし安全性に問題はなく、スープ、グラタン、焼き菓子、ソースに混ぜ込むなら十分使えます。冷凍する場合は小さな密閉容器や製氷皿に小分けし、−18 °Cで保存して日付を書いておきましょう。",
+    "thawing": "冷凍したサワークリームは冷蔵庫で解凍し、常温には出さないでください。加熱料理に加える前に泡立て器で混ぜます。なめらかなトッピングの状態には戻りません。",
+    "spoilage": [
+      "表面やふたの裏にカビがある（ピンク、緑、綿状の斑点を含む）。",
+      "本来のやさしい酸味を超えた、ツンとしたにおい、苦み、酵母臭がある。",
+      "表面に大量の水がたまって混ぜても戻らない、またはダマになって凝固している。",
+      "ふたが膨らんでいる、または酸っぱくてシュワっとした味がする。"
+    ],
+    "tips": [
+      "期限が一番先の容器を選び、内側のシールが無事か確認しましょう。",
+      "毎回清潔で乾いたスプーンを使い、容器から直接食べないようにしましょう。",
+      "ふたに開封日を書いておくと、早めに使いきる目安になります。",
+      "使いきれるサイズを選びましょう。小さい容器を早く使いきる方が、大きい容器を食べかけで放置するより安心です。"
+    ],
+    "faq": [
+      {"q": "サワークリームは冷凍できますか？", "a": "できますが、料理用に限ります。解凍すると水っぽくざらつき、トッピングには向きません。USDAは冷凍期間を示していません。"},
+      {"q": "サワークリームは冷蔵庫でどのくらい日持ちしますか？", "a": "USDAには決まった期間がありません。4 °C以下で保存し、容器の期限内に使いきり、開封後は早めに食べきってください。"},
+      {"q": "サワークリームが傷んでいるかどうかの見分け方は？", "a": "カビ、苦みや酵母臭、凝固、ふたの膨らみがあれば処分してください。表面の少量の透明な液体は正常で、混ぜ戻せば問題ありません。"},
+      {"q": "サワークリームは冷蔵庫に入れないとだめですか？", "a": "はい、必ず冷蔵してください。生きた菌を含む発酵乳製品なので、常温に2時間以上置かないようにしましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Crema agria",
+    "aliases": ["nata agria", "crema ácida", "sour cream", "crema fermentada", "crème fraîche (similar)"],
+    "summary": "La crema agria es nata espesada y acidificada con cultivos lácticos. El USDA FoodKeeper no fija un plazo concreto para ella, así que la regla práctica es: mantenerla siempre refrigerada, usarla antes de la fecha del envase y terminar la tarrina abierta cuanto antes. Se puede congelar, pero cambia de textura, así que solo merece la pena para cocinar.",
+    "pantry": "La crema agria es un lácteo fermentado perecedero y nunca debe guardarse a temperatura ambiente. Sigue la regla de las 2 horas, o 1 hora si hace más de 32 °C (90 °F), y devuelve la tarrina a la nevera en cuanto sirvas una cucharada. En una fiesta, coloca el bol sobre hielo o saca pequeñas cantidades cada vez.",
+    "fridge": "Mantén la crema agria a 4 °C (40 °F) o menos en un estante interior, no en la puerta. Como el USDA no da un número de días, guíate por la fecha impresa en el envase y cierra bien la tapa. Usa siempre una cuchara limpia; volver a meter una cuchara usada introduce bacterias que acortan su vida. Guardar la tarrina boca abajo es un truco popular, pero importan más una tapa hermética y un estante bien frío.",
+    "freezer": "El USDA no da un plazo de congelación para la crema agria, y no se recomienda congelarla para usarla como acompañamiento. Al descongelarse se separa y queda aguada y granulosa. Sigue siendo segura y funciona bien mezclada en sopas, guisos al horno, repostería o salsas. Si la congelas, repártela en recipientes herméticos pequeños o cubiteras a −18 °C (0 °F) y etiquétalos.",
+    "thawing": "Descongela la crema agria en la nevera, nunca sobre la encimera, y bátela antes de añadirla a platos cocinados. No esperes que recupere la textura lisa de acompañamiento.",
+    "spoilage": [
+      "Cualquier moho, incluidos puntos rosados, verdes o con pelusa, en la superficie o en el interior de la tapa.",
+      "Olor punzante, amargo o a levadura más allá de su acidez suave habitual.",
+      "Un charco grande de líquido en la superficie que no se integra al remover, o una textura grumosa y cortada.",
+      "Tapa abombada o sabor agrio y con burbujas."
+    ],
+    "tips": [
+      "Compra la tarrina con la fecha más lejana y comprueba que el precinto esté intacto.",
+      "Usa una cuchara limpia y seca cada vez y nunca comas directamente de la tarrina.",
+      "Anota la fecha de apertura en la tapa para consumirla sin demora.",
+      "Elige un tamaño que vayas a terminar; una tarrina pequeña usada rápido es mejor que una grande a medias."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la crema agria?", "a": "Se puede, pero solo para cocinar. Descongelada queda aguada y granulosa, así que ya no sirve como acompañamiento. El USDA no da un plazo de congelación."},
+      {"q": "¿Cuánto dura la crema agria en la nevera?", "a": "El USDA no fija un plazo. Mantenla a 4 °C (40 °F) o menos, úsala antes de la fecha del envase y termina la tarrina abierta cuanto antes."},
+      {"q": "¿Cómo saber si la crema agria está mala?", "a": "Moho, olor amargo o a levadura, textura cortada o tapa abombada significan que va a la basura. Un poco de líquido transparente en la superficie es normal y se puede mezclar."},
+      {"q": "¿La crema agria necesita refrigeración?", "a": "Sí, siempre. Es un lácteo fermentado vivo y no debe estar fuera más de 2 horas."}
+    ]
+  }
+}

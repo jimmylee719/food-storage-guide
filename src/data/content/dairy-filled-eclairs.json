@@ -1,0 +1,107 @@
+{
+  "slug": "dairy-filled-eclairs",
+  "en": {
+    "name": "Cream-filled éclairs",
+    "aliases": ["eclairs", "chocolate éclairs", "custard éclairs", "cream puffs", "choux pastries"],
+    "summary": "Éclairs are choux pastries filled with pastry cream, custard or whipped cream, and it is that dairy filling that sets the rules. Keep them in the fridge and eat them within 2–3 days, or freeze them for up to 3 months. They must not be left at room temperature for more than 2 hours.",
+    "pantry": "Éclairs cannot be stored at room temperature. The custard or cream filling is a perishable dairy-and-egg product, so the 2-hour rule applies (1 hour above 32 °C / 90 °F). Serve them straight from the fridge and put any leftovers back promptly.",
+    "fridge": "Store éclairs in the fridge at 4 °C (40 °F) or below in a single layer in a covered container so the glaze is not smudged and the pastry does not absorb odours. They keep 2–3 days, but the choux softens as it takes on moisture from the filling, so they are best on the day of purchase. Cover loosely rather than airtight if you want to slow that softening.",
+    "freezer": "Filled éclairs can be frozen for up to 3 months at −18 °C (0 °F). Freeze them on a tray until firm, then pack in a rigid container with baking paper between layers. The filling stays safe indefinitely when frozen, but the pastry will be softer and the glaze duller after thawing; unfilled choux shells freeze with far less loss of quality.",
+    "thawing": "Thaw éclairs in the fridge for a few hours or overnight, still covered, and eat them the same day. Do not thaw them on the counter and do not refreeze once thawed.",
+    "spoilage": [
+      "Sour or off smell from the cream or custard filling",
+      "Filling that has turned watery, separated or slimy",
+      "Mould on the pastry, the glaze or the filling",
+      "Pastry that is soggy through and collapsing, with a stale or yeasty taste"
+    ],
+    "tips": [
+      "Buy éclairs the day you plan to serve them; the choux is crispest in the first few hours",
+      "Transport them in a chilled bag if the trip home takes more than a few minutes",
+      "Store in a single layer so the chocolate glaze stays intact",
+      "If making your own, freeze the empty shells and fill them fresh when needed"
+    ],
+    "faq": [
+      {"q": "Can you freeze éclairs?", "a": "Yes, for up to 3 months at −18 °C (0 °F). Expect softer pastry after thawing; freezing the unfilled shells gives a better result."},
+      {"q": "How long do éclairs last in the fridge?", "a": "Filled éclairs keep 2–3 days at 4 °C (40 °F) or below, though they taste best the day they are made or bought."},
+      {"q": "Do éclairs need to be refrigerated?", "a": "Yes. The cream or custard filling is perishable, so éclairs should not sit out for more than 2 hours."}
+    ]
+  },
+  "zh": {
+    "name": "閃電泡芙",
+    "aliases": ["法式閃電泡芙", "長條泡芙", "巧克力閃電泡芙", "奶油泡芙", "泡芙"],
+    "summary": "閃電泡芙是長條形的泡芙，裡面填卡士達、鮮奶油或奶油餡，這些乳製品內餡決定了保存方式。一定要冷藏，2～3 天內吃完；冷凍最多放 3 個月。室溫放置不可超過 2 小時。",
+    "pantry": "閃電泡芙不能常溫保存。卡士達和鮮奶油內餡含蛋和乳製品，屬於容易腐壞的食物，適用 2 小時原則（室溫超過 32°C 時只有 1 小時）。要吃的時候再從冰箱拿出來，吃剩的盡快放回去。",
+    "fridge": "放在 4°C 以下的冰箱，單層排在有蓋的盒子裡，糖霜才不會被壓壞，泡芙皮也不會吸到冰箱味。可以放 2～3 天，但泡芙皮會因為吸收內餡水分而變軟，當天吃最好。如果想減緩軟化，蓋子不要蓋得太密。",
+    "freezer": "填好餡的閃電泡芙可以在 −18°C 冷凍最多 3 個月。先平鋪在盤子上凍硬，再放進硬盒子裡，層與層之間隔烘焙紙。冷凍狀態下內餡可以無限期保持安全，但解凍後泡芙皮會偏軟、糖霜光澤變差；沒填餡的泡芙殼冷凍後品質損失小得多。",
+    "thawing": "連盒放冷藏室解凍幾小時或一晚，當天吃完。不要放在桌上退冰，解凍後也不要再冷凍。",
+    "spoilage": [
+      "鮮奶油或卡士達內餡有酸味或怪味",
+      "內餡出水、油水分離或變得黏滑",
+      "泡芙皮、糖霜或內餡長黴",
+      "泡芙皮整個濕軟塌陷，吃起來有走味或發酵的味道"
+    ],
+    "tips": [
+      "當天要吃再買，泡芙皮在最初幾個小時最酥",
+      "如果回家路程超過幾分鐘，用保冷袋帶回",
+      "單層存放，巧克力糖霜才不會沾黏",
+      "自己做的話，先冷凍空殼，要吃時再現填內餡"
+    ],
+    "faq": [
+      {"q": "閃電泡芙可以冷凍嗎？", "a": "可以，放 −18°C 最多 3 個月。解凍後外皮會變軟，冷凍沒填餡的空殼效果比較好。"},
+      {"q": "閃電泡芙放冰箱可以放多久？", "a": "填了餡的閃電泡芙在 4°C 以下可以放 2～3 天，不過當天現吃最好吃。"},
+      {"q": "閃電泡芙一定要冰嗎？", "a": "一定要。鮮奶油和卡士達內餡很容易壞，室溫放置不可超過 2 小時。"}
+    ]
+  },
+  "ja": {
+    "name": "エクレア",
+    "aliases": ["エクレール", "チョコエクレア", "カスタードエクレア", "シュークリーム", "シュー菓子"],
+    "summary": "エクレアはシュー生地にカスタードや生クリームを詰めた洋菓子で、その乳製品のクリームが保存のルールを決めます。必ず冷蔵し、2〜3日以内に食べ切りましょう。冷凍なら3か月まで保存できます。常温に2時間以上置いてはいけません。",
+    "pantry": "エクレアは常温保存できません。カスタードや生クリームは卵と乳製品を使った傷みやすい食品なので、室温に置いてよいのは2時間まで（32℃を超える環境では1時間まで）です。食べる直前に冷蔵庫から出し、残ったらすぐ戻してください。",
+    "fridge": "4℃以下の冷蔵庫で、ふた付きの容器に重ならないよう一段に並べて保存します。チョコのコーティングがつぶれず、においも移りません。日持ちは2〜3日ですが、シュー生地はクリームの水分を吸って柔らかくなるため、買った当日が一番おいしいです。柔らかくなるのを遅らせたいなら、ふたは密閉せず軽くのせる程度に。",
+    "freezer": "クリーム入りのエクレアは−18℃で3か月まで冷凍できます。トレーに並べて凍らせてから、クッキングシートを挟んで硬めの容器に入れましょう。冷凍中のクリームは安全性の面では長期保存できますが、解凍後は生地が柔らかくなり、チョコのツヤも落ちます。クリームを詰める前のシュー皮を冷凍したほうが、品質の劣化はずっと少なくて済みます。",
+    "thawing": "容器に入れたまま冷蔵庫で数時間〜一晩かけて解凍し、その日のうちに食べ切ってください。常温解凍と再冷凍は避けましょう。",
+    "spoilage": [
+      "クリームやカスタードから酸っぱいにおいや異臭がする",
+      "クリームが水っぽくなる、分離する、ぬめりが出る",
+      "生地・コーティング・クリームにカビが生えている",
+      "生地が芯までべちゃっとつぶれ、古い味や発酵したような味がする"
+    ],
+    "tips": [
+      "食べる当日に買うのがベスト。シュー生地は最初の数時間が一番サクッとしています",
+      "持ち帰りに数分以上かかるなら保冷バッグを使いましょう",
+      "チョコのコーティングを守るため、重ねずに一段で保存",
+      "手作りなら空のシュー皮を冷凍し、食べるときにクリームを詰めると失敗がありません"
+    ],
+    "faq": [
+      {"q": "エクレアは冷凍できますか？", "a": "できます。−18℃で3か月までが目安です。解凍後は生地が柔らかくなるので、クリームを詰める前のシュー皮を冷凍するほうがおすすめです。"},
+      {"q": "エクレアは冷蔵庫で何日持ちますか？", "a": "クリーム入りのエクレアは4℃以下で2〜3日持ちますが、作った日・買った日に食べるのが一番おいしいです。"},
+      {"q": "エクレアは冷蔵しないとだめですか？", "a": "はい。生クリームやカスタードは傷みやすいので、常温には2時間以上置かないでください。"}
+    ]
+  },
+  "es": {
+    "name": "Éclairs rellenos de crema",
+    "aliases": ["eclairs", "relámpagos", "pepitos de crema", "petisús", "palos de nata"],
+    "summary": "Los éclairs son pastas choux rellenas de crema pastelera, natillas o nata montada, y es ese relleno lácteo el que marca las reglas. Guárdalos en la nevera y cómelos en 2–3 días, o congélalos hasta 3 meses. No deben estar a temperatura ambiente más de 2 horas.",
+    "pantry": "Los éclairs no se pueden guardar a temperatura ambiente. El relleno de crema o natillas es un producto perecedero de huevo y lácteos, así que se aplica la regla de las 2 horas (1 hora si hace más de 32 °C / 90 °F). Sírvelos directamente de la nevera y devuelve las sobras enseguida.",
+    "fridge": "Consérvalos a 4 °C (40 °F) o menos en una sola capa dentro de un recipiente tapado para que el glaseado no se estropee y la masa no absorba olores. Duran 2–3 días, pero la pasta choux se ablanda al absorber la humedad del relleno, así que están mejor el mismo día de la compra. Tápalos sin cerrar herméticamente si quieres retrasar ese ablandamiento.",
+    "freezer": "Los éclairs rellenos pueden congelarse hasta 3 meses a −18 °C (0 °F). Congélalos en una bandeja hasta que estén firmes y luego pásalos a un recipiente rígido con papel de horno entre capas. El relleno se mantiene seguro indefinidamente congelado, pero la masa quedará más blanda y el glaseado más apagado al descongelar; las pastas choux sin rellenar se congelan con mucha menos pérdida de calidad.",
+    "thawing": "Descongela los éclairs en la nevera unas horas o toda la noche, todavía tapados, y cómelos ese mismo día. No los descongeles en la encimera ni los vuelvas a congelar.",
+    "spoilage": [
+      "Olor agrio o extraño en el relleno de crema o natillas",
+      "Relleno aguado, separado o viscoso",
+      "Moho en la masa, el glaseado o el relleno",
+      "Masa empapada y hundida, con sabor pasado o a fermentado"
+    ],
+    "tips": [
+      "Compra los éclairs el día que vayas a servirlos; la masa está más crujiente las primeras horas",
+      "Llévalos en una bolsa isotérmica si el trayecto a casa dura más de unos minutos",
+      "Guárdalos en una sola capa para que el glaseado de chocolate no se estropee",
+      "Si los haces en casa, congela las pastas vacías y rellénalas al momento"
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar los éclairs?", "a": "Sí, hasta 3 meses a −18 °C (0 °F). La masa quedará más blanda al descongelar; congelar las pastas sin relleno da mejor resultado."},
+      {"q": "¿Cuánto duran los éclairs en la nevera?", "a": "Los éclairs rellenos duran 2–3 días a 4 °C (40 °F) o menos, aunque saben mejor el día en que se hacen o se compran."},
+      {"q": "¿Los éclairs necesitan refrigeración?", "a": "Sí. El relleno de crema o natillas es perecedero, así que no deben quedarse fuera más de 2 horas."}
+    ]
+  }
+}

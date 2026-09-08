@@ -1,0 +1,107 @@
+{
+  "slug": "live-clams-mussels-crab-and-oysters",
+  "en": {
+    "name": "Live clams, mussels, crab and oysters",
+    "aliases": ["live shellfish", "live bivalves", "live crab", "fresh oysters in the shell", "live mussels"],
+    "summary": "Live shellfish such as clams, mussels, oysters and whole crab are sold alive and should be cooked while still alive. Keep them 1–2 days in the fridge from purchase; if you shuck or cook them first, the meat can be frozen for 2–3 months.",
+    "pantry": "Live shellfish cannot be kept at room temperature; they warm up, die and spoil quickly. Bring them straight home in a cool bag and refrigerate at once. Anything left out for more than 2 hours (1 hour above 32 °C / 90 °F) should be discarded.",
+    "fridge": "Store live shellfish at or below 4 °C (40 °F) in an open container covered with a damp cloth, so they can breathe, and use them within 1–2 days of purchase. Never seal them in plastic or submerge them in water, as they will suffocate. Before cooking, discard any clams, mussels or oysters that are open and do not close when tapped, and any crab that shows no movement.",
+    "freezer": "Do not freeze shellfish alive in the shell. Shuck clams, mussels and oysters or cook the crab first, then pack the meat with its liquor in airtight containers or freezer bags and freeze at −18 °C (0 °F) for 2–3 months. Frozen shellfish stays safe longer but the texture becomes rubbery, so it is best used in cooked dishes.",
+    "thawing": "Thaw frozen shellfish meat in the fridge and cook it within a day. Never thaw at room temperature, and do not refreeze raw shellfish that has thawed.",
+    "spoilage": [
+      "Shells that stay open when tapped, or that are cracked or crushed",
+      "A crab that does not move its legs or claws at all",
+      "Strong sulphur, ammonia or rotten smell rather than a fresh ocean scent",
+      "Dry shells or oysters that feel light and are not full of liquor"
+    ],
+    "tips": [
+      "Buy from a reputable seller and keep the harvest tag or receipt, which shows the source",
+      "Store in a bowl covered with a wet towel, never in a sealed bag or in fresh water",
+      "Cook on the day of purchase whenever possible for the best flavour",
+      "Rinse and scrub shells just before cooking, not before storing"
+    ],
+    "faq": [
+      {"q": "Can you freeze live clams, mussels or oysters?", "a": "Not alive in the shell. Shuck or cook them first, then freeze the meat in airtight containers at −18 °C (0 °F) for 2–3 months."},
+      {"q": "How long do live shellfish last in the fridge?", "a": "1–2 days from purchase at or below 4 °C (40 °F), stored loosely covered with a damp cloth so they can breathe."},
+      {"q": "How can you tell if live shellfish have died?", "a": "Bivalves that stay open when tapped, cracked shells, a crab that does not move, or a strong rotten smell all mean the shellfish is dead and should be thrown away."}
+    ]
+  },
+  "zh": {
+    "name": "活蛤蜊、淡菜、螃蟹與生蠔",
+    "aliases": ["活貝類", "活蟹", "帶殼生蠔", "活淡菜", "文蛤", "活海鮮"],
+    "summary": "蛤蜊、淡菜、生蠔和整隻螃蟹等活海鮮是以活體販售，應該趁活著的時候烹煮。冷藏自購買日起可放 1～2 天；若先去殼或煮熟，肉可以冷凍 2～3 個月。",
+    "pantry": "活海鮮不能放在室溫，一旦回溫就會很快死亡並腐壞。買回來後用保冷袋直接帶回家，馬上放冰箱。放在室溫超過 2 小時（室溫高於 32 °C 時超過 1 小時）就應丟棄。",
+    "fridge": "放在 4 °C 以下的冰箱，用開口容器裝好，上面蓋一條濕布讓它們能呼吸，購買後 1～2 天內煮完。絕對不要用塑膠袋密封或泡在水裡，會把它們悶死。煮之前，蛤蜊、淡菜或生蠔敲一下不會閉殼的就丟掉，完全不動的螃蟹也不要用。",
+    "freezer": "不要把帶殼的活貝類直接冷凍。先把蛤蜊、淡菜、生蠔去殼，或把螃蟹煮熟，再把肉連同汁液裝進密封盒或冷凍袋，在 −18 °C 下冷凍 2～3 個月。冷凍後安全無虞，但口感會變韌，最適合拿來煮湯或熱炒。",
+    "thawing": "冷凍的貝肉或蟹肉放冷藏室解凍，解凍後一天內煮完。不要在室溫下解凍，解凍過的生貝肉也不要再冷凍。",
+    "spoilage": [
+      "敲一下殼仍不閉合，或殼已破裂、壓碎",
+      "螃蟹的腳和螯完全不動",
+      "有濃烈的硫磺味、氨味或腐臭味，而不是清新的海水味",
+      "殼很乾，或生蠔拿起來很輕、裡面沒有汁液"
+    ],
+    "tips": [
+      "跟信譽好的店家買，保留產地標籤或收據",
+      "用碗裝好、蓋上濕毛巾，不要密封也不要泡淡水",
+      "盡量當天買當天煮，風味最好",
+      "煮之前再沖洗、刷殼，存放前不要洗"
+    ],
+    "faq": [
+      {"q": "活蛤蜊、淡菜、生蠔可以冷凍嗎？", "a": "帶殼活體不行。先去殼或煮熟，再把肉裝進密封容器，在 −18 °C 下可冷凍 2～3 個月。"},
+      {"q": "活海鮮放冰箱可以放多久？", "a": "自購買日起 1～2 天，冷藏 4 °C 以下，用濕布鬆鬆蓋著讓它們能呼吸。"},
+      {"q": "怎麼分辨活貝類或螃蟹已經死了？", "a": "貝類敲了不閉殼、殼破裂、螃蟹不動，或有濃烈腐臭味，就代表已經死亡，應該丟棄。"}
+    ]
+  },
+  "ja": {
+    "name": "活きあさり・ムール貝・かに・牡蠣",
+    "aliases": ["活き貝", "殻付き牡蠣", "活きガニ", "ムール貝", "はまぐり", "生きた魚介"],
+    "summary": "あさり、ムール貝、牡蠣、丸ごとのかにといった活きた魚介は、生きたまま売られ、生きているうちに調理するものです。冷蔵では購入から1〜2日が目安で、殻から外すか加熱してからなら身を2〜3か月冷凍できます。",
+    "pantry": "活きた魚介は常温に置けません。温まるとすぐに死んで傷みます。保冷バッグでまっすぐ持ち帰り、すぐに冷蔵庫へ入れましょう。2時間以上（32 °Cを超えるなら1時間以上）常温に置いたものは処分してください。",
+    "fridge": "4 °C以下の冷蔵庫で、ふたをしない容器に入れて湿らせた布をかぶせ、呼吸できる状態で保存し、購入から1〜2日以内に使います。ビニールで密封したり水に浸けたりすると窒息するので避けてください。調理前に、たたいても閉じない貝や、まったく動かないかには捨てましょう。",
+    "freezer": "殻付きのまま生きた状態で冷凍しないでください。あさり・ムール貝・牡蠣は殻から外し、かには加熱してから、身を汁ごと密閉容器か冷凍用保存袋に入れ、−18 °Cで2〜3か月を目安に冷凍します。冷凍すれば長く安全ですが食感がゴムのようになるので、加熱料理向きです。",
+    "thawing": "冷凍した身は冷蔵庫で解凍し、その日のうちに加熱します。室温で解凍せず、解凍した生の魚介は再冷凍しないでください。",
+    "spoilage": [
+      "たたいても殻が閉じない、殻が割れている・つぶれている",
+      "かにの脚やはさみがまったく動かない",
+      "磯の香りではなく、硫黄臭・アンモニア臭・腐敗臭が強い",
+      "殻が乾いている、牡蠣が軽く中の汁が少ない"
+    ],
+    "tips": [
+      "信頼できる店で買い、産地表示やレシートを取っておく",
+      "ボウルに入れて濡れタオルをかけ、密封袋や真水には入れない",
+      "できるだけ買った当日に調理すると風味が良い",
+      "殻を洗ったりこすったりするのは保存前ではなく調理直前に"
+    ],
+    "faq": [
+      {"q": "活きたあさりやムール貝、牡蠣は冷凍できますか？", "a": "殻付きの生きたままでは冷凍できません。殻から外すか加熱してから、身を密閉容器に入れて−18 °Cで2〜3か月冷凍できます。"},
+      {"q": "活きた魚介は冷蔵庫でどのくらい持ちますか？", "a": "4 °C以下で購入から1〜2日です。湿らせた布をゆるくかけ、呼吸できる状態で保存してください。"},
+      {"q": "貝やかにが死んでいるかどうかの見分け方は？", "a": "たたいても閉じない貝、割れた殻、動かないかに、強い腐敗臭は、いずれも死んでいるサインなので処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Almejas, mejillones, cangrejos y ostras vivos",
+    "aliases": ["mariscos vivos", "moluscos vivos", "cangrejo vivo", "ostras en su concha", "mejillones frescos", "ostiones vivos"],
+    "summary": "Los mariscos vivos, como almejas, mejillones, ostras y cangrejos enteros, se venden vivos y deben cocinarse mientras siguen vivos. Duran 1–2 días en el refrigerador desde la compra; si los abres o cocinas antes, la carne se puede congelar 2–3 meses.",
+    "pantry": "Los mariscos vivos no pueden estar a temperatura ambiente: se calientan, mueren y se estropean enseguida. Llévalos directo a casa en una bolsa térmica y refrigéralos de inmediato. Desecha lo que haya pasado más de 2 horas fuera (1 hora si hace más de 32 °C / 90 °F).",
+    "fridge": "Guárdalos a 4 °C (40 °F) o menos en un recipiente abierto cubierto con un paño húmedo, para que respiren, y úsalos en 1–2 días desde la compra. Nunca los cierres en plástico ni los sumerjas en agua, porque se asfixian. Antes de cocinar, descarta las almejas, mejillones u ostras abiertos que no se cierren al tocarlos y cualquier cangrejo que no se mueva.",
+    "freezer": "No congeles mariscos vivos en su concha. Abre las almejas, mejillones y ostras o cocina el cangrejo primero, y luego congela la carne con su jugo en recipientes herméticos o bolsas de congelación a −18 °C (0 °F) durante 2–3 meses. Se mantiene segura más tiempo, pero la textura se vuelve gomosa, así que es mejor usarla en guisos o platos cocinados.",
+    "thawing": "Descongela la carne de marisco en el refrigerador y cocínala en un día. Nunca la descongeles a temperatura ambiente ni vuelvas a congelar marisco crudo descongelado.",
+    "spoilage": [
+      "Conchas que siguen abiertas al golpearlas, o rotas y aplastadas",
+      "Un cangrejo que no mueve las patas ni las pinzas",
+      "Olor fuerte a azufre, amoníaco o podrido en lugar de aroma fresco a mar",
+      "Conchas secas u ostras que pesan poco y no tienen jugo"
+    ],
+    "tips": [
+      "Compra en un establecimiento de confianza y guarda la etiqueta de origen o el ticket",
+      "Guárdalos en un bol tapado con un paño mojado, nunca en bolsa cerrada ni en agua dulce",
+      "Cocínalos el mismo día de la compra siempre que puedas",
+      "Lava y cepilla las conchas justo antes de cocinar, no antes de guardar"
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las almejas, mejillones u ostras vivos?", "a": "No vivos en su concha. Ábrelos o cocínalos primero y congela la carne en recipientes herméticos a −18 °C (0 °F) durante 2–3 meses."},
+      {"q": "¿Cuánto duran los mariscos vivos en el refrigerador?", "a": "1–2 días desde la compra a 4 °C (40 °F) o menos, cubiertos sin apretar con un paño húmedo para que puedan respirar."},
+      {"q": "¿Cómo saber si el marisco vivo ha muerto?", "a": "Conchas que no se cierran al tocarlas, conchas rotas, un cangrejo inmóvil o un olor fuerte a podrido indican que está muerto y hay que tirarlo."}
+    ]
+  }
+}

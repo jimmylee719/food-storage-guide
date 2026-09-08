@@ -1,0 +1,107 @@
+{
+  "slug": "chicken-parts-legs-thighs",
+  "en": {
+    "name": "Chicken legs or thighs",
+    "aliases": ["chicken drumsticks", "chicken thighs", "leg quarters", "dark meat chicken", "chicken legs"],
+    "summary": "Chicken legs, drumsticks and thighs are the flavourful dark-meat cuts, sold bone-in or boneless, with or without skin. Raw, they keep in the fridge for only 1 to 2 days from purchase. In the freezer they hold their best quality for up to 9 months at −18 °C (0 °F).",
+    "pantry": "Raw chicken legs and thighs must not be stored at room temperature. Bacteria multiply quickly between 4 and 60 °C (40 and 140 °F), so discard any pieces that have been out for more than 2 hours, or 1 hour above 32 °C (90 °F). Refrigerate or freeze as soon as you get home.",
+    "fridge": "Keep the pieces in their original tray or an airtight container on a plate on the bottom shelf of a fridge at or below 4 °C (40 °F), and cook within 1 to 2 days of purchase. Marinated pieces follow the same rule. Wipe up any juices and keep raw chicken away from ready-to-eat food.",
+    "freezer": "Legs and thighs freeze well for up to 9 months at −18 °C (0 °F); their higher fat content helps them stay juicy after thawing. Wrap pieces individually or in meal-sized portions, press the air out of the freezer bag and label with the date. They stay safe indefinitely while frozen, but quality declines gradually beyond 9 months.",
+    "thawing": "Thaw in the fridge on a plate, allowing about 24 hours for a package. For faster results, seal the pieces in a bag and submerge in cold water, changing the water every 30 minutes, then cook immediately. Never thaw on the counter.",
+    "spoilage": [
+      "A sour or sulphur-like smell when the package is opened",
+      "Slimy or sticky skin and meat",
+      "Flesh or skin that has turned grey, greenish or dull",
+      "Cloudy liquid pooling in the tray or a bloated package"
+    ],
+    "tips": [
+      "Buy pieces that are cold, firm and pink, and cook or freeze within 1 to 2 days",
+      "Freeze in portions that match a meal so you thaw only what you need",
+      "Cook to 74 °C (165 °F) near the bone; dark meat is even better at 77–80 °C (170–175 °F)",
+      "Store raw chicken below other foods and clean surfaces and hands after handling"
+    ],
+    "faq": [
+      {"q": "Can you freeze chicken legs and thighs?", "a": "Yes. Wrap them well, press out the air and freeze at −18 °C (0 °F). Best quality within 9 months; safe indefinitely while frozen."},
+      {"q": "How can you tell if chicken thighs have gone bad?", "a": "A sour or sulphur smell, slimy skin or grey-green flesh means they should be thrown out. Fresh dark meat is pinkish-red and nearly odourless."},
+      {"q": "How long do chicken legs last in the fridge?", "a": "Only 1 to 2 days from purchase at 4 °C (40 °F) or below. Freeze them on the day of purchase if you will not cook them in time."}
+    ]
+  },
+  "zh": {
+    "name": "雞腿肉",
+    "aliases": ["雞腿", "棒棒腿", "去骨雞腿", "雞腿排", "大腿肉"],
+    "summary": "雞腿、棒棒腿和大腿肉是風味豐富的深色肉部位，有帶骨、去骨、帶皮、去皮各種形式。生的雞腿冷藏只能放 1 到 2 天（從購買日算起），冷凍在 −18 °C 可以維持最多 9 個月的最佳品質。",
+    "pantry": "生雞腿不能放在室溫保存。在 4 到 60 °C 之間細菌繁殖很快，放在室溫超過 2 小時（氣溫高於 32 °C 時超過 1 小時）的雞腿就要丟掉。買回家立刻冷藏或冷凍。",
+    "fridge": "雞腿連原本的托盤或裝進密封盒，放在盤子上擺在 4 °C 以下冷藏室的最下層，購買後 1 到 2 天內煮掉。醃過的也一樣。滴出來的肉汁要擦乾淨，生雞肉要遠離可以直接吃的食物。",
+    "freezer": "雞腿在 −18 °C 冷凍可以保存最多 9 個月的最佳品質，油脂較多，解凍後也比較多汁。一支一支分開包，或分成一餐的份量，冷凍袋擠出空氣並標上日期。持續冷凍在安全上可以放很久，但超過 9 個月品質會逐漸下降。",
+    "thawing": "放在盤子上在冷藏室解凍，一包約需 24 小時。想快一點，密封裝袋泡冷水，每 30 分鐘換水，解凍後馬上煮。不要放在流理台上解凍。",
+    "spoilage": [
+      "打開包裝時有酸味或硫磺味",
+      "雞皮和肉摸起來黏滑",
+      "肉或皮變灰、帶綠或暗沉",
+      "托盤裡積了混濁液體，或包裝鼓起"
+    ],
+    "tips": [
+      "挑冰涼、有彈性、粉紅色的雞腿，1 到 2 天內煮掉或冷凍",
+      "依照一餐的量分裝冷凍，要用多少解凍多少",
+      "煮到靠近骨頭處達 74 °C，深色肉煮到 77 到 80 °C 口感更好",
+      "生雞肉放在其他食物下層，處理後清潔檯面和雙手"
+    ],
+    "faq": [
+      {"q": "雞腿可以冷凍嗎？", "a": "可以。包好、擠出空氣，放 −18 °C 冷凍，9 個月內品質最好，持續冷凍安全上可以放更久。"},
+      {"q": "雞腿壞掉怎麼看？", "a": "有酸味或硫磺味、雞皮黏滑、肉變灰綠，就要丟掉。新鮮的雞腿肉是粉紅偏紅色，幾乎沒有味道。"},
+      {"q": "雞腿放冰箱可以放多久？", "a": "4 °C 以下冷藏只能放 1 到 2 天（從購買日算起）。來不及煮就在購買當天冷凍。"}
+    ]
+  },
+  "ja": {
+    "name": "鶏もも肉・鶏レッグ",
+    "aliases": ["鶏もも肉", "骨付きもも肉", "ドラムスティック", "鶏レッグ", "とりもも"],
+    "summary": "鶏のもも肉、ドラムスティック（下もも）、骨付きレッグは、うまみの強い部位で、骨付き・骨なし、皮付き・皮なしで売られています。生のままなら冷蔵で購入から1〜2日しかもちません。冷凍なら−18 °Cで最長9か月良い品質を保てます。",
+    "pantry": "生の鶏もも肉は室温で保存できません。4〜60 °Cの間では細菌が急速に増えるので、室温に2時間以上（気温32 °C以上なら1時間以上）置いたものは捨ててください。帰宅したらすぐに冷蔵か冷凍しましょう。",
+    "fridge": "元のトレイか密閉容器に入れ、皿にのせて4 °C以下の冷蔵庫の最下段に置き、購入から1〜2日以内に調理します。下味をつけたものも同じです。汁が垂れたら拭き取り、生の鶏肉はそのまま食べる食品から離してください。",
+    "freezer": "もも肉やレッグは−18 °Cで最長9か月良い品質を保てます。脂が多めなので解凍後もジューシーさが残りやすい部位です。1本ずつ、または一食分ずつ包み、冷凍用袋の空気を抜いて日付を書いておきます。凍らせたままなら安全面では長期間もちますが、9か月を過ぎると品質は少しずつ落ちます。",
+    "thawing": "皿にのせて冷蔵庫で解凍します。1パックでおよそ24時間が目安です。急ぐときは袋に密封して冷水に浸け、30分ごとに水を替えて、解凍後すぐに調理してください。室温での解凍は避けましょう。",
+    "spoilage": [
+      "パックを開けたときに酸っぱいにおいや硫黄のようなにおいがする",
+      "皮や肉がぬるぬる・ベタベタしている",
+      "肉や皮が灰色や緑がかった色、くすんだ色になっている",
+      "トレイに濁った液体がたまっている、パックが膨らんでいる"
+    ],
+    "tips": [
+      "冷たく、弾力があり、ピンク色のものを選び、1〜2日以内に調理か冷凍する",
+      "一食分ずつ分けて冷凍し、使う分だけ解凍する",
+      "骨の近くが74 °Cになるまで加熱する。もも肉は77〜80 °Cまで火を通すとさらにおいしい",
+      "生の鶏肉はほかの食品より下に置き、扱った後は調理台と手を洗う"
+    ],
+    "faq": [
+      {"q": "鶏もも肉は冷凍できますか？", "a": "できます。しっかり包んで空気を抜き、−18 °Cで冷凍してください。品質は9か月以内がベストで、凍らせたままなら安全面では長期間もちます。"},
+      {"q": "鶏もも肉が傷んでいるかどうかはどう見分けますか？", "a": "酸っぱいにおいや硫黄臭、ぬるぬるした皮、灰色や緑がかった肉は捨てるサインです。新鮮なもも肉は赤みがかったピンク色で、ほとんどにおいません。"},
+      {"q": "鶏もも肉は冷蔵庫でどのくらいもちますか？", "a": "4 °C以下の冷蔵で、購入から1〜2日だけです。間に合わないなら買った日に冷凍しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Muslos o piernas de pollo",
+    "aliases": ["muslos de pollo", "piernas de pollo", "contramuslos", "cuarto trasero", "pierna y muslo", "jamoncitos"],
+    "summary": "Las piernas, muslos y contramuslos de pollo son los cortes de carne oscura, más sabrosos, que se venden con o sin hueso y con o sin piel. Crudos, duran en el refrigerador solo 1 a 2 días desde la compra. En el congelador conservan su mejor calidad hasta 9 meses a −18 °C (0 °F).",
+    "pantry": "Las piernas y muslos de pollo crudos no deben guardarse a temperatura ambiente. Las bacterias se multiplican rápido entre 4 y 60 °C (40 y 140 °F), así que desecha las piezas que lleven fuera más de 2 horas, o 1 hora si hace más de 32 °C (90 °F). Refrigéralas o congélalas en cuanto llegues a casa.",
+    "fridge": "Guarda las piezas en su bandeja original o en un recipiente hermético sobre un plato en el estante inferior de un refrigerador a 4 °C (40 °F) o menos, y cocínalas en 1 a 2 días desde la compra. Las piezas marinadas siguen la misma regla. Limpia cualquier jugo y mantén el pollo crudo lejos de los alimentos listos para comer.",
+    "freezer": "Las piernas y muslos se congelan bien hasta 9 meses a −18 °C (0 °F); su mayor contenido de grasa ayuda a que sigan jugosos tras descongelarse. Envuelve las piezas por separado o en porciones para una comida, saca el aire de la bolsa y etiqueta con la fecha. Se mantienen seguras indefinidamente mientras estén congeladas, pero la calidad baja poco a poco después de 9 meses.",
+    "thawing": "Descongela en el refrigerador sobre un plato, calculando unas 24 horas por paquete. Para ir más rápido, sella las piezas en una bolsa y sumérgelas en agua fría, cambiando el agua cada 30 minutos, y cocínalas de inmediato. Nunca las descongeles sobre la encimera.",
+    "spoilage": [
+      "Olor agrio o parecido al azufre al abrir el envase",
+      "Piel y carne viscosas o pegajosas",
+      "Carne o piel que se ha vuelto gris, verdosa o apagada",
+      "Líquido turbio acumulado en la bandeja o envase inflado"
+    ],
+    "tips": [
+      "Compra piezas frías, firmes y rosadas, y cocínalas o congélalas en 1 a 2 días",
+      "Congela en porciones del tamaño de una comida para descongelar solo lo que necesites",
+      "Cocina hasta 74 °C (165 °F) cerca del hueso; la carne oscura queda incluso mejor a 77–80 °C (170–175 °F)",
+      "Guarda el pollo crudo debajo de otros alimentos y limpia superficies y manos después de manipularlo"
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar los muslos y piernas de pollo?", "a": "Sí. Envuélvelos bien, saca el aire y congélalos a −18 °C (0 °F). Mejor calidad dentro de 9 meses; seguros indefinidamente mientras estén congelados."},
+      {"q": "¿Cómo saber si los muslos de pollo están malos?", "a": "Un olor agrio o a azufre, la piel viscosa o la carne gris verdosa indican que hay que tirarlos. La carne oscura fresca es rosada rojiza y casi inodora."},
+      {"q": "¿Cuánto duran las piernas de pollo en el refrigerador?", "a": "Solo 1 a 2 días desde la compra a 4 °C (40 °F) o menos. Congélalas el día de la compra si no las cocinarás a tiempo."}
+    ]
+  }
+}

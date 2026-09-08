@@ -1,0 +1,107 @@
+{
+  "slug": "pastries-danish",
+  "en": {
+    "name": "Danish pastries",
+    "aliases": ["danishes", "Danish pastry", "cheese danish", "fruit danish", "breakfast pastries"],
+    "summary": "Danish pastries are laminated, buttery pastries topped or filled with fruit, jam, custard or cheese. Packaged Danish pastries keep 5–10 days in the pantry from the date of purchase, and USDA lists up to 14 months in the fridge once opened for shelf-stable packaged varieties. Fresh bakery danishes with cream cheese or custard fillings are far more perishable and belong in the fridge within a couple of days.",
+    "pantry": "Keep commercially packaged Danish pastries sealed in a cool, dry cupboard and use them within 5–10 days of purchase. Once the pack is opened, reseal it or transfer the pastries to an airtight container so the flaky layers do not dry out. Fresh bakery danishes are best the day they are baked; those with cheese or custard fillings should not sit out for more than 2 hours.",
+    "fridge": "For opened packaged Danish pastries, USDA gives a fridge timeline of 14 months at 4 °C (40 °F) or below, which reflects the preservatives and low water activity of shelf-stable products; in practice they will taste stale long before that, so use your senses. Fresh danishes with cream cheese or custard should be refrigerated in a covered container and eaten within 2–3 days. Reheat briefly in the oven to restore flakiness.",
+    "freezer": "USDA does not list a freezer timeline for Danish pastries, but they freeze well in practice: wrap individually in plastic wrap and foil, and freeze at −18 °C (0 °F) for a month or two for best quality. Reheat from frozen in a 160 °C (325 °F) oven for a few minutes. Fruit and cheese fillings can weep slightly after thawing.",
+    "thawing": "Thaw wrapped pastries at room temperature for 30–60 minutes, or reheat straight from frozen in a low oven. Cream cheese or custard danishes should be thawed in the fridge.",
+    "spoilage": [
+      "Mould, especially around fruit or cheese fillings",
+      "Sour smell or a slimy, weeping filling",
+      "Rancid, oily smell from the butter or shortening",
+      "Hard, dry, stale texture that does not revive when warmed"
+    ],
+    "tips": [
+      "Check the best-before date on packaged danishes and follow the label if it is stricter",
+      "Store fresh danishes in a paper bag for a few hours; plastic makes them soggy",
+      "Refresh day-old danishes in a 160 °C (325 °F) oven for 3–5 minutes",
+      "Keep cheese- and custard-filled danishes cold and eat them first"
+    ],
+    "faq": [
+      {"q": "Can you freeze Danish pastries?", "a": "Yes. USDA gives no timeline, but individually wrapped danishes freeze well at −18 °C (0 °F) for a month or two and reheat nicely from frozen."},
+      {"q": "How long do Danish pastries last?", "a": "Packaged danishes keep 5–10 days from purchase in the pantry, and USDA lists up to 14 months in the fridge after opening. Fresh bakery danishes are best within 1–3 days."},
+      {"q": "Do Danish pastries need to be refrigerated?", "a": "Shelf-stable packaged danishes do not until opened. Fresh danishes with cream cheese or custard fillings should be refrigerated and eaten within 2–3 days."}
+    ]
+  },
+  "zh": {
+    "name": "丹麥酥",
+    "aliases": ["丹麥麵包", "丹麥酥皮", "起司丹麥", "水果丹麥", "丹麥卷"],
+    "summary": "丹麥酥是層層起酥的奶油酥皮點心，上面或裡面有水果、果醬、卡士達或起司。包裝丹麥酥常溫可從購買日起放 5～10 天，開封後冷藏 USDA 列出的期限是 14 個月（適用於常溫販售的包裝產品）。麵包店現做、夾奶油乳酪或卡士達的丹麥酥則容易壞得多，一兩天內就要冷藏。",
+    "pantry": "市售包裝丹麥酥密封放在陰涼乾燥的櫥櫃，購買後 5～10 天內吃完。開封後把袋口封好或改放密封盒，酥皮才不會變乾。麵包店現做的當天最好吃；有起司或卡士達內餡的，室溫不要超過 2 小時。",
+    "fridge": "開封後的包裝丹麥酥，USDA 給的冷藏期限是 14 個月（4°C 以下），這反映的是常溫產品的防腐劑和低水活性；實際上遠在那之前就會走味，所以請用眼睛和鼻子判斷。夾奶油乳酪或卡士達的現做丹麥酥要用有蓋容器冷藏，2～3 天內吃完。用烤箱稍微回烤就能恢復酥脆。",
+    "freezer": "USDA 沒有列出丹麥酥的冷凍期限，但實際上很適合冷凍：一個一個用保鮮膜包好再包鋁箔紙，放 −18°C 冷凍一兩個月品質最好。可以直接從冷凍狀態用 160°C 烤箱回烤幾分鐘。水果和起司內餡解凍後可能會稍微出水。",
+    "thawing": "連包裝放室溫 30～60 分鐘退冰，或直接冷凍狀態用烤箱低溫回烤。奶油乳酪或卡士達口味請放冷藏室解凍。",
+    "spoilage": [
+      "長黴，特別是水果或起司內餡周圍",
+      "有酸味，或內餡變得黏滑出水",
+      "奶油或酥油變質的油耗味",
+      "又硬又乾，回烤也救不回來"
+    ],
+    "tips": [
+      "包裝丹麥酥要看有效期限，標籤上的日期比較嚴格就以標籤為準",
+      "現做的丹麥酥前幾小時用紙袋裝，塑膠袋會讓它變軟",
+      "放了一天的丹麥酥用 160°C 烤箱回烤 3～5 分鐘",
+      "起司和卡士達口味要冷藏，而且先吃"
+    ],
+    "faq": [
+      {"q": "丹麥酥可以冷凍嗎？", "a": "可以。USDA 沒有給期限，但個別包好放 −18°C 冷凍一兩個月效果很好，可以直接冷凍回烤。"},
+      {"q": "丹麥酥可以放多久？", "a": "包裝丹麥酥常溫從購買日起 5～10 天，開封後冷藏 USDA 列出最多 14 個月。麵包店現做的 1～3 天內最好。"},
+      {"q": "丹麥酥需要放冰箱嗎？", "a": "常溫販售的包裝品開封前不用。夾奶油乳酪或卡士達的現做丹麥酥要冷藏，2～3 天內吃完。"}
+    ]
+  },
+  "ja": {
+    "name": "デニッシュ",
+    "aliases": ["デニッシュペストリー", "デニッシュパン", "チーズデニッシュ", "フルーツデニッシュ", "クロワッサン生地のパン"],
+    "summary": "デニッシュはバターを折り込んだ層状の生地に、フルーツ・ジャム・カスタード・チーズなどをのせたり詰めたりしたペストリーです。市販の包装品は常温で購入日から5〜10日、開封後の冷蔵についてUSDAは常温流通品を想定して14か月としています。ベーカリーの焼きたてでクリームチーズやカスタード入りのものはずっと傷みやすく、1〜2日以内に冷蔵が必要です。",
+    "pantry": "市販の包装デニッシュは、封をしたまま涼しく乾燥した戸棚で保存し、購入から5〜10日以内に食べ切りましょう。開封後は袋を閉じ直すか密閉容器に移し、層がパサつくのを防ぎます。ベーカリーのものは焼いた当日が一番。チーズやカスタード入りは常温に2時間以上置かないでください。",
+    "fridge": "開封後の包装デニッシュについて、USDAは4℃以下で14か月という冷蔵期間を示しています。これは保存料入りで水分活性の低い常温流通品を前提とした数字で、実際にはそのずっと前に風味が落ちるので、見た目とにおいで判断してください。クリームチーズやカスタード入りの焼きたてデニッシュは、ふた付き容器で冷蔵し2〜3日以内に。オーブンで軽く温め直すとサクサク感が戻ります。",
+    "freezer": "USDAはデニッシュの冷凍期間を示していませんが、実際には冷凍向きです。1個ずつラップとアルミホイルで包み、−18℃で1〜2か月以内に食べるとおいしさが保てます。凍ったまま160℃のオーブンで数分温めればOK。フルーツやチーズのフィリングは解凍後に少し水分が出ることがあります。",
+    "thawing": "包んだまま室温に30〜60分置くか、凍ったまま低温のオーブンで温め直します。クリームチーズやカスタード入りは冷蔵庫で解凍してください。",
+    "spoilage": [
+      "カビ（特にフルーツやチーズのフィリングの周り）",
+      "酸っぱいにおい、フィリングがぬるぬるして水っぽい",
+      "バターやショートニングが酸化した油臭さ",
+      "硬くパサパサで、温めても戻らない"
+    ],
+    "tips": [
+      "包装品は賞味期限を確認し、表示のほうが短ければそちらに従う",
+      "焼きたてのデニッシュは数時間なら紙袋で。ビニール袋だと湿気ます",
+      "翌日のデニッシュは160℃のオーブンで3〜5分温め直すとサクサクに",
+      "チーズ・カスタード入りは冷蔵し、先に食べ切る"
+    ],
+    "faq": [
+      {"q": "デニッシュは冷凍できますか？", "a": "できます。USDAの目安はありませんが、1個ずつ包んで−18℃で1〜2か月なら風味よく保て、凍ったまま温め直せます。"},
+      {"q": "デニッシュはどのくらい日持ちしますか？", "a": "包装品は常温で購入日から5〜10日、開封後の冷蔵はUSDAの目安で最長14か月です。ベーカリーの焼きたては1〜3日以内がおいしいです。"},
+      {"q": "デニッシュは冷蔵庫に入れるべきですか？", "a": "常温流通の包装品は開封するまで不要です。クリームチーズやカスタード入りの焼きたてデニッシュは冷蔵し、2〜3日以内に食べてください。"}
+    ]
+  },
+  "es": {
+    "name": "Pastas danesas",
+    "aliases": ["danesas", "danish", "bollería danesa", "hojaldre danés", "pastelitos daneses"],
+    "summary": "Las pastas danesas son hojaldres de mantequilla laminados, cubiertos o rellenos de fruta, mermelada, crema o queso. Las envasadas duran 5–10 días en la despensa desde la compra, y el USDA indica hasta 14 meses en la nevera tras abrirlas para las variedades envasadas de larga duración. Las frescas de panadería con queso crema o crema pastelera son mucho más perecederas y deben ir a la nevera en uno o dos días.",
+    "pantry": "Guarda las danesas envasadas cerradas en un armario fresco y seco y consúmelas en 5–10 días desde la compra. Al abrir el paquete, ciérralo de nuevo o pásalas a un recipiente hermético para que las capas no se resequen. Las frescas de panadería están mejor el día que se hornean; las rellenas de queso o crema no deben estar fuera más de 2 horas.",
+    "fridge": "Para las danesas envasadas ya abiertas, el USDA da un plazo en nevera de 14 meses a 4 °C (40 °F) o menos, que refleja los conservantes y la baja actividad de agua de los productos de larga duración; en la práctica sabrán rancias mucho antes, así que guíate por los sentidos. Las frescas con queso crema o crema pastelera deben refrigerarse en un recipiente tapado y comerse en 2–3 días. Caliéntalas un momento en el horno para recuperar el hojaldrado.",
+    "freezer": "El USDA no indica plazo de congelación para las danesas, pero en la práctica se congelan bien: envuélvelas una a una en film y aluminio y congélalas a −18 °C (0 °F) uno o dos meses para la mejor calidad. Caliéntalas directamente congeladas en el horno a 160 °C (325 °F) unos minutos. Los rellenos de fruta y queso pueden soltar algo de líquido al descongelar.",
+    "thawing": "Descongela las danesas envueltas a temperatura ambiente durante 30–60 minutos, o caliéntalas directamente congeladas en el horno a baja temperatura. Las de queso crema o crema pastelera deben descongelarse en la nevera.",
+    "spoilage": [
+      "Moho, sobre todo alrededor de los rellenos de fruta o queso",
+      "Olor agrio o relleno viscoso y aguado",
+      "Olor rancio y aceitoso de la mantequilla o la grasa",
+      "Textura dura, seca y pasada que no se recupera al calentar"
+    ],
+    "tips": [
+      "Revisa la fecha de consumo preferente de las danesas envasadas y sigue la etiqueta si es más estricta",
+      "Guarda las frescas en una bolsa de papel unas horas; el plástico las ablanda",
+      "Recupera las danesas del día anterior en el horno a 160 °C (325 °F) durante 3–5 minutos",
+      "Mantén frías las de queso y crema pastelera y cómelas primero"
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las pastas danesas?", "a": "Sí. El USDA no da plazo, pero envueltas una a una se congelan bien a −18 °C (0 °F) uno o dos meses y se calientan muy bien directamente congeladas."},
+      {"q": "¿Cuánto duran las pastas danesas?", "a": "Las envasadas duran 5–10 días desde la compra en la despensa, y el USDA indica hasta 14 meses en la nevera tras abrirlas. Las frescas de panadería están mejor en 1–3 días."},
+      {"q": "¿Las pastas danesas necesitan refrigeración?", "a": "Las envasadas de larga duración no, hasta que se abren. Las frescas con queso crema o crema pastelera sí deben refrigerarse y comerse en 2–3 días."}
+    ]
+  }
+}

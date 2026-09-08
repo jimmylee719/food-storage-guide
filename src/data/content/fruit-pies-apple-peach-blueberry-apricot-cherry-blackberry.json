@@ -1,0 +1,107 @@
+{
+  "slug": "fruit-pies-apple-peach-blueberry-apricot-cherry-blackberry",
+  "en": {
+    "name": "Fruit pies",
+    "aliases": ["apple pie", "cherry pie", "blueberry pie", "peach pie", "berry pie"],
+    "summary": "Fruit pies, such as apple, peach, blueberry, apricot, cherry and blackberry, have a sugary cooked-fruit filling that keeps better than cream or custard pies. A baked fruit pie can sit at room temperature for 1–2 days, keeps about 1 week in the fridge once cut, and freezes for 8 months.",
+    "pantry": "A whole, baked fruit pie can be left loosely covered at room temperature for 1–2 days; the sugar and acidity of the fruit slow spoilage. Keep it out of direct sun and away from the stove. After that, or as soon as it is cut, move it to the fridge. In hot, humid weather it is safer to refrigerate right away.",
+    "fridge": "Once cut, cover the pie loosely with foil or plastic wrap and keep it at 4 °C (40 °F) or below; it lasts about 1 week. The crust softens in the fridge, so warm slices in the oven for a few minutes before serving. Pies with a custard or cream cheese layer under the fruit should be treated as cream pies and refrigerated from the start.",
+    "freezer": "Fruit pies freeze well, baked or unbaked, for 8 months at −18 °C (0 °F). Cool a baked pie completely, wrap it tightly in plastic wrap and foil, and freeze in the pan. Frozen pie stays safe beyond 8 months; the timeline is for best quality. Unbaked pies can go straight from freezer to oven, adding 15–20 minutes.",
+    "thawing": "Thaw a baked pie overnight in the fridge or unwrap and reheat it from frozen in a 180 °C (350 °F) oven until warmed through. Never thaw at room temperature for more than 2 hours.",
+    "spoilage": [
+      "Mould on the crust or fruit filling",
+      "Sour, fermented or alcohol-like smell from the fruit",
+      "Filling that has turned watery, bubbly or slimy",
+      "Soggy, grey crust with an off taste"
+    ],
+    "tips": [
+      "Cool the pie fully on a rack before covering, or condensation will make the crust soggy",
+      "Freeze individual slices for quick desserts",
+      "Label frozen pies with the flavour and date",
+      "Re-crisp refrigerated pie in a hot oven rather than the microwave"
+    ],
+    "faq": [
+      {"q": "Can you freeze apple pie or other fruit pies?", "a": "Yes. Wrapped tightly at −18 °C (0 °F), fruit pies keep 8 months for best quality, baked or unbaked."},
+      {"q": "How long does fruit pie last?", "a": "About 1–2 days at room temperature, 1 week in the fridge once cut, and 8 months in the freezer."},
+      {"q": "Does fruit pie need to be refrigerated?", "a": "Not immediately; a baked fruit pie can sit out 1–2 days. Refrigerate it after that, once cut, or if it has any custard or dairy layer."}
+    ]
+  },
+  "zh": {
+    "name": "水果派",
+    "aliases": ["蘋果派", "櫻桃派", "藍莓派", "水蜜桃派", "莓果派"],
+    "summary": "蘋果派、水蜜桃派、藍莓派、杏桃派、櫻桃派、黑莓派這類水果派，內餡是煮過的高糖水果，比奶油派或卡士達派耐放。烤好的水果派常溫可放 1～2 天，切開後冷藏約 1 週，冷凍可放 8 個月。",
+    "pantry": "整顆烤好的水果派鬆鬆蓋著放在室溫可以放 1～2 天，水果的糖分和酸度能減緩腐壞。避開陽光直射和爐火。超過時間或一切開，就要放冰箱。台灣夏天悶熱潮濕，直接冷藏比較保險。",
+    "fridge": "切開後用鋁箔紙或保鮮膜鬆鬆蓋住，放 4°C 以下冷藏，約可放 1 週。派皮冰過會變軟，吃之前用烤箱回烤幾分鐘。水果下面有卡士達或奶油乳酪層的派，要當作奶油派處理，從一開始就冷藏。",
+    "freezer": "水果派不論烤過或沒烤都很適合冷凍，在 −18°C 可放 8 個月。烤好的派要完全放涼，用保鮮膜和鋁箔紙包緊，連同烤模一起冷凍。超過 8 個月仍然安全，期限是品質考量。沒烤的派可以直接從冷凍進烤箱，時間多加 15～20 分鐘。",
+    "thawing": "烤好的派放冷藏室解凍一晚，或拆掉包裝直接用 180°C 烤箱從冷凍狀態加熱到中心溫熱。室溫解凍不可超過 2 小時。",
+    "spoilage": [
+      "派皮或水果內餡長黴",
+      "水果有酸味、發酵味或類似酒精的味道",
+      "內餡變得水水的、冒泡或黏滑",
+      "派皮濕軟發灰，吃起來有怪味"
+    ],
+    "tips": [
+      "派要在網架上完全放涼再蓋，否則水氣會讓派皮變軟",
+      "切片分開冷凍，隨時有現成甜點",
+      "冷凍的派要標示口味和日期",
+      "冰過的派用烤箱回烤才會酥，不要用微波爐"
+    ],
+    "faq": [
+      {"q": "蘋果派或其他水果派可以冷凍嗎？", "a": "可以。包緊放 −18°C 冷凍，烤過或沒烤的水果派都可以放 8 個月，品質最好。"},
+      {"q": "水果派可以放多久？", "a": "常溫約 1～2 天，切開後冷藏 1 週，冷凍 8 個月。"},
+      {"q": "水果派需要放冰箱嗎？", "a": "不用馬上放，烤好的水果派常溫可以放 1～2 天。超過時間、切開後，或是有卡士達、乳製品夾層的就要冷藏。"}
+    ]
+  },
+  "ja": {
+    "name": "フルーツパイ",
+    "aliases": ["アップルパイ", "チェリーパイ", "ブルーベリーパイ", "ピーチパイ", "ベリーパイ"],
+    "summary": "アップル、ピーチ、ブルーベリー、アプリコット、チェリー、ブラックベリーなどのフルーツパイは、砂糖で煮た果物のフィリングなので、クリームパイやカスタードパイより日持ちします。焼いたフルーツパイは常温で1〜2日、切った後は冷蔵で約1週間、冷凍なら8か月保存できます。",
+    "pantry": "焼いたホールのフルーツパイは、軽く覆って常温に1〜2日置いておけます。果物の糖分と酸味が傷みを遅らせてくれます。直射日光とコンロの近くは避けましょう。それを過ぎたら、あるいは切った時点で冷蔵庫へ。蒸し暑い時期は最初から冷蔵したほうが安心です。",
+    "fridge": "切った後はアルミホイルかラップを軽くかぶせ、4℃以下で保存すれば約1週間持ちます。冷蔵するとパイ皮が柔らかくなるので、食べる前にオーブンで数分温め直しましょう。果物の下にカスタードやクリームチーズの層があるパイはクリームパイ扱いで、最初から冷蔵してください。",
+    "freezer": "フルーツパイは焼く前でも焼いた後でも冷凍向きで、−18℃で8か月保存できます。焼いたパイは完全に冷ましてからラップとアルミホイルでしっかり包み、型ごと冷凍します。8か月を過ぎても安全ですが、おいしさの目安として考えてください。焼く前のパイは凍ったままオーブンに入れ、焼き時間を15〜20分延ばします。",
+    "thawing": "焼いたパイは冷蔵庫で一晩かけて解凍するか、包みを外して凍ったまま180℃のオーブンで中まで温めます。常温での解凍は2時間を超えないようにしてください。",
+    "spoilage": [
+      "パイ皮やフルーツのフィリングにカビ",
+      "果物から酸っぱい・発酵した・アルコールのようなにおい",
+      "フィリングが水っぽい、泡立っている、ぬるぬるしている",
+      "パイ皮が湿って灰色っぽくなり、味がおかしい"
+    ],
+    "tips": [
+      "覆う前に網の上で完全に冷ますこと。結露でパイ皮が湿気ます",
+      "1切れずつ冷凍しておくと、すぐにデザートが用意できます",
+      "冷凍したパイには種類と日付を書いておく",
+      "冷蔵したパイは電子レンジではなく熱いオーブンでサクサクに戻す"
+    ],
+    "faq": [
+      {"q": "アップルパイなどのフルーツパイは冷凍できますか？", "a": "できます。しっかり包んで−18℃で冷凍すれば、焼く前でも焼いた後でも8か月はおいしく保てます。"},
+      {"q": "フルーツパイはどのくらい日持ちしますか？", "a": "常温で1〜2日、切った後の冷蔵で1週間、冷凍で8か月が目安です。"},
+      {"q": "フルーツパイは冷蔵しないとだめですか？", "a": "すぐには不要で、焼いたフルーツパイは常温に1〜2日置けます。それを過ぎたら、切った後、またはカスタードや乳製品の層があるものは冷蔵してください。"}
+    ]
+  },
+  "es": {
+    "name": "Tartas de fruta",
+    "aliases": ["pay de manzana", "tarta de manzana", "pie de cereza", "tarta de arándanos", "tarta de durazno"],
+    "summary": "Las tartas de fruta, como las de manzana, melocotón, arándanos, albaricoque, cereza o mora, llevan un relleno de fruta cocida con azúcar que se conserva mejor que el de las tartas de crema o natillas. Una tarta de fruta horneada puede estar a temperatura ambiente 1–2 días, dura alrededor de 1 semana en la nevera una vez cortada y se congela durante 8 meses.",
+    "pantry": "Una tarta de fruta entera y horneada puede dejarse cubierta sin apretar a temperatura ambiente durante 1–2 días; el azúcar y la acidez de la fruta frenan el deterioro. Mantenla fuera del sol directo y lejos de los fogones. Pasado ese tiempo, o en cuanto la cortes, pásala a la nevera. Con calor y humedad es más seguro refrigerarla desde el principio.",
+    "fridge": "Una vez cortada, cubre la tarta sin apretar con papel de aluminio o film y mantenla a 4 °C (40 °F) o menos; dura alrededor de 1 semana. La masa se ablanda en la nevera, así que calienta las porciones unos minutos en el horno antes de servir. Las tartas con una capa de crema o queso crema bajo la fruta deben tratarse como tartas de crema y refrigerarse desde el principio.",
+    "freezer": "Las tartas de fruta se congelan bien, horneadas o sin hornear, durante 8 meses a −18 °C (0 °F). Enfría por completo la tarta horneada, envuélvela bien en film y aluminio y congélala en su molde. Sigue siendo segura después de 8 meses; el plazo es para la mejor calidad. Las tartas sin hornear pueden ir directas del congelador al horno, añadiendo 15–20 minutos.",
+    "thawing": "Descongela una tarta horneada en la nevera durante la noche o desenvuélvela y caliéntala directamente congelada en el horno a 180 °C (350 °F) hasta que esté caliente por dentro. Nunca la descongeles a temperatura ambiente más de 2 horas.",
+    "spoilage": [
+      "Moho en la masa o en el relleno de fruta",
+      "Olor agrio, fermentado o a alcohol en la fruta",
+      "Relleno aguado, con burbujas o viscoso",
+      "Masa empapada y grisácea con sabor extraño"
+    ],
+    "tips": [
+      "Enfría la tarta por completo sobre una rejilla antes de taparla, o la condensación ablandará la masa",
+      "Congela porciones individuales para tener postres rápidos",
+      "Etiqueta las tartas congeladas con el sabor y la fecha",
+      "Devuelve el crujiente a la tarta refrigerada en el horno caliente, no en el microondas"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la tarta de manzana u otras tartas de fruta?", "a": "Sí. Bien envueltas a −18 °C (0 °F), las tartas de fruta duran 8 meses con la mejor calidad, horneadas o sin hornear."},
+      {"q": "¿Cuánto dura la tarta de fruta?", "a": "Unos 1–2 días a temperatura ambiente, 1 semana en la nevera una vez cortada y 8 meses en el congelador."},
+      {"q": "¿La tarta de fruta necesita refrigeración?", "a": "No de inmediato; una tarta de fruta horneada puede estar fuera 1–2 días. Refrigérala después, una vez cortada, o si lleva alguna capa de crema o lácteos."}
+    ]
+  }
+}

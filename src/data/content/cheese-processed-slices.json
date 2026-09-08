@@ -1,0 +1,107 @@
+{
+  "slug": "cheese-processed-slices",
+  "en": {
+    "name": "Processed cheese slices",
+    "aliases": ["American cheese slices", "burger cheese", "singles", "plastic cheese"],
+    "summary": "Processed cheese slices are made by melting cheese with emulsifying salts and re-forming it into thin, individually layered squares, which makes them melt smoothly and keep longer than natural cheese. Stored in the fridge at 4 °C (40 °F) or below they keep 3–4 weeks from the day you buy them. They are not designed for room-temperature storage once chilled.",
+    "pantry": "Refrigerated slices belong in the fridge, not the cupboard. Left in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) they sweat oil, go greasy and can support bacterial growth, so discard slices left out for more than 2 hours, or 1 hour above 32 °C (90 °F). Only shelf-stable cheese products that arrive unrefrigerated may be stored in the pantry, and even those go into the fridge once opened.",
+    "fridge": "Keep the pack on a middle shelf rather than the door, where the temperature swings every time the fridge is opened. At 4 °C (40 °F) or below the slices last 3–4 weeks from purchase; once you break the seal, press the remaining stack back together, wrap the sleeve tightly or slide it into a zip bag so the exposed edges do not dry out and harden. Keep the interleaving papers in place so the slices peel apart cleanly.",
+    "freezer": "Processed slices can be frozen, though it is rarely worth it: the texture turns slightly crumbly and they are better melted than eaten cold afterwards. If you do freeze them, keep the sheets separated by their papers, double-wrap the block and store at −18 °C (0 °F). Frozen food stays safe indefinitely at that temperature; use frozen slices within a couple of months for the best melt.",
+    "thawing": "Thaw a frozen pack overnight in the fridge, still wrapped, and use the slices within a few days. Do not thaw them on the counter or in warm water.",
+    "spoilage": [
+      "Mould spots — any colour — on the slices or inside the wrapper",
+      "A sour, sharp or fermented smell instead of the usual mild dairy aroma",
+      "Slimy or sticky film on the surface, or slices that will not separate",
+      "Dried, hard, cracked edges or an unusually dark yellow-brown colour"
+    ],
+    "tips": [
+      "Buy the pack size you will finish in a month; big value packs often outlive their quality.",
+      "Write the opening date on the sleeve with a marker.",
+      "Reseal in a zip bag with the air pressed out to stop the edges drying.",
+      "Unlike hard cheese, do not cut mould off processed slices — discard the affected slices."
+    ],
+    "faq": [
+      {"q": "Can you freeze processed cheese slices?", "a": "Yes, at −18 °C (0 °F), but the texture becomes a little crumbly. Freeze them in their papers, double-wrapped, and use them for melting rather than for cold sandwiches."},
+      {"q": "How long do cheese slices last in the fridge?", "a": "About 3–4 weeks from the day you buy them, stored at 4 °C (40 °F) or below and resealed after opening."},
+      {"q": "Do cheese slices need to be refrigerated?", "a": "Yes, if they were sold chilled. Keep them at 4 °C (40 °F) or below and do not leave them out for more than 2 hours."}
+    ]
+  },
+  "zh": {
+    "name": "加工起司片",
+    "aliases": ["起司片", "乳酪片", "芝士片", "三明治起司片", "美式起司"],
+    "summary": "加工起司片是把天然乳酪加熱融化、加入乳化鹽後再重新塑形成薄片，因此融化得特別均勻，保存期也比天然乳酪長。放在 4°C 以下的冷藏室，從購買日起可以放 3～4 週。已經冷藏販售的起司片不適合改放室溫。",
+    "pantry": "冷藏販售的起司片一定要放冰箱，不要收在櫥櫃裡。放在 4～60°C 的危險溫度帶會出油、變得油膩，也可能滋生細菌，室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就該丟棄。只有常溫貨架上販售的常溫型起司產品才能放室溫，而且開封後同樣要冷藏。",
+    "fridge": "請放在冰箱中層，不要放門邊，門邊每次開關溫度變化都很大。維持 4°C 以下，從購買日算起可放 3～4 週；拆封後把剩下的起司片疊回原本的位置，把外袋捲緊或放進密封袋，避免切面乾硬。片與片之間的隔紙不要丟，方便一片一片撕開。",
+    "freezer": "加工起司片可以冷凍，但通常不太划算：解凍後質地會變得比較鬆散易碎，適合加熱融化而不適合直接夾冷三明治。真要冷凍的話，保留隔紙、外面再包一層，放進 −18°C 的冷凍庫。−18°C 下安全上可以無限期保存，但建議兩個月內用完，融化的效果比較好。",
+    "thawing": "冷凍的起司片請連同包裝放冷藏室退冰一個晚上，解凍後幾天內用完。不要放在室溫或泡溫水解凍。",
+    "spoilage": [
+      "起司片上或包裝內側出現任何顏色的黴點",
+      "聞起來變酸、刺鼻或有發酵味，而不是原本溫和的奶香",
+      "表面出現黏滑的薄膜，或是整疊黏在一起撕不開",
+      "邊緣乾裂變硬，或顏色變成不正常的深黃褐色"
+    ],
+    "tips": [
+      "買一個月內吃得完的份量，大包裝常常來不及吃完就走味。",
+      "用油性筆在外袋寫上拆封日期。",
+      "拆封後放進密封袋並壓出空氣，可以避免邊緣乾掉。",
+      "和硬質乳酪不同，加工起司片發霉不能只切掉發霉處，整片都要丟掉。"
+    ],
+    "faq": [
+      {"q": "起司片可以冷凍嗎？", "a": "可以，放 −18°C 冷凍即可，但解凍後口感會偏鬆散。建議保留隔紙、包好再冷凍，並且用來加熱融化，而不是直接吃。"},
+      {"q": "起司片放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日算起大約 3～4 週，拆封後記得密封。"},
+      {"q": "起司片一定要冰嗎？", "a": "只要是冷藏販售的就一定要冰，維持 4°C 以下，也不要在室溫放超過 2 小時。"}
+    ]
+  },
+  "ja": {
+    "name": "スライスチーズ",
+    "aliases": ["プロセスチーズ", "とろけるスライスチーズ", "チーズスライス", "スライスチーズ（プロセス）"],
+    "summary": "スライスチーズは、ナチュラルチーズを溶かして乳化剤を加え、薄い板状に成形したプロセスチーズです。均一に溶けやすく、ナチュラルチーズより日もちします。4℃以下の冷蔵庫なら購入日から3〜4週間が目安で、冷蔵で売られていたものを常温に戻して保存することはできません。",
+    "pantry": "冷蔵で販売されているスライスチーズは、必ず冷蔵庫へ。4〜60℃の危険温度帯では油が浮いてべたつき、細菌も増えやすくなるため、室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。常温棚で売られている常温保存タイプだけが例外ですが、それも開封後は冷蔵します。",
+    "fridge": "ドアポケットではなく庫内の中段に置きます。ドアは開閉のたびに温度が上下するためです。4℃以下を保てば購入日から3〜4週間もちます。開封後は残りを重ね直し、袋の口を折り返してテープで留めるか保存袋に入れ、切り口が乾いて硬くならないようにしましょう。間紙は捨てずに残しておくと一枚ずつきれいにはがせます。",
+    "freezer": "冷凍もできますが、解凍後は少しぼろぼろした食感になるため、あまりおすすめしません。冷凍する場合は間紙を挟んだまま二重に包み、−18℃で保存します。−18℃なら安全面では長期間保ちますが、溶かして使うことを前提に2か月程度で使い切ると良いでしょう。",
+    "thawing": "冷凍したものは包装のまま冷蔵庫で一晩かけて解凍し、数日以内に使い切ります。常温やぬるま湯での解凍は避けてください。",
+    "spoilage": [
+      "チーズの表面や包装の内側に色を問わずカビが出ている",
+      "本来のやさしい乳のにおいではなく、酸っぱい・つんとした発酵臭がする",
+      "表面がぬるぬるする、または重なった部分がはがれない",
+      "縁が乾いてひび割れている、色が不自然な濃い黄褐色に変わっている"
+    ],
+    "tips": [
+      "1か月で食べ切れる枚数を買う。大容量パックは風味が落ちてから残りがち。",
+      "袋に開封日を油性ペンで書いておく。",
+      "開封後は保存袋に入れて空気を抜くと、縁の乾燥を防げる。",
+      "ハードチーズと違い、カビの部分だけを取り除く対処はできない。その一枚は捨てる。"
+    ],
+    "faq": [
+      {"q": "スライスチーズは冷凍できますか？", "a": "できます。−18℃で冷凍しますが、解凍後は食感がややぼろつきます。間紙を挟んで二重に包み、加熱して溶かす用途に使うのがおすすめです。"},
+      {"q": "スライスチーズは冷蔵庫で何日もちますか？", "a": "4℃以下の冷蔵で、購入日からおよそ3〜4週間です。開封後は密封して保存してください。"},
+      {"q": "スライスチーズは冷蔵が必要ですか？", "a": "冷蔵で売られていたものは必ず冷蔵してください。4℃以下を保ち、室温に2時間以上置かないようにします。"}
+    ]
+  },
+  "es": {
+    "name": "Queso procesado en lonchas",
+    "aliases": ["queso americano", "lonchas de queso", "rebanadas de queso", "queso fundido en lonchas", "queso para hamburguesa"],
+    "summary": "El queso procesado en lonchas se elabora fundiendo queso con sales emulsionantes y moldeándolo en láminas separadas por papel, lo que le da un fundido muy uniforme y más duración que un queso natural. En el refrigerador a 4 °C (40 °F) o menos se conserva 3–4 semanas desde el día de compra. No está pensado para guardarse a temperatura ambiente una vez refrigerado.",
+    "pantry": "Las lonchas que se venden refrigeradas van al refrigerador, no a la alacena. En la zona de peligro, entre 4 °C y 60 °C (40 °F y 140 °F), sueltan grasa, se vuelven aceitosas y permiten el crecimiento bacteriano: desecha las que hayan estado fuera más de 2 horas, o 1 hora si hace más de 32 °C (90 °F). Solo los quesos de larga duración vendidos sin frío pueden guardarse en la despensa, y aun así se refrigeran tras abrirlos.",
+    "fridge": "Guarda el paquete en un estante intermedio y no en la puerta, donde la temperatura sube cada vez que abres el refrigerador. A 4 °C (40 °F) o menos las lonchas duran 3–4 semanas desde la compra; al abrir, vuelve a juntar el bloque, enrolla bien la bolsa o pásala a una bolsa con cierre para que los bordes no se resequen. Conserva los papeles intercalados para separarlas sin romperlas.",
+    "freezer": "Se pueden congelar, aunque rara vez compensa: la textura queda algo quebradiza y quedan mejor fundidas que frías. Si las congelas, deja los papeles entre lonchas, envuelve el bloque por partida doble y guárdalo a −18 °C (0 °F). A esa temperatura el alimento se mantiene seguro indefinidamente; consúmelas en un par de meses para que fundan bien.",
+    "thawing": "Descongela el paquete cerrado durante una noche en el refrigerador y usa las lonchas en pocos días. No las descongeles sobre la encimera ni en agua tibia.",
+    "spoilage": [
+      "Manchas de moho, de cualquier color, en las lonchas o dentro del envoltorio",
+      "Olor agrio, punzante o fermentado en lugar del aroma lácteo suave habitual",
+      "Película viscosa o pegajosa en la superficie, o lonchas que no se separan",
+      "Bordes secos, duros y agrietados, o color amarillo pardo inusualmente oscuro"
+    ],
+    "tips": [
+      "Compra el formato que puedas terminar en un mes; los paquetes grandes suelen perder calidad antes.",
+      "Anota la fecha de apertura en la bolsa con un marcador.",
+      "Vuelve a cerrar en bolsa con cierre y saca el aire para evitar que se sequen los bordes.",
+      "A diferencia del queso duro, aquí no se corta el moho: se desechan las lonchas afectadas."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las lonchas de queso procesado?", "a": "Sí, a −18 °C (0 °F), aunque la textura se vuelve algo quebradiza. Congélalas con sus papeles y bien envueltas, y úsalas para fundir más que para comer frías."},
+      {"q": "¿Cuánto duran las lonchas de queso en el refrigerador?", "a": "Unas 3–4 semanas desde el día de compra, a 4 °C (40 °F) o menos y bien cerradas después de abrir."},
+      {"q": "¿El queso en lonchas necesita refrigeración?", "a": "Sí, si se vendía refrigerado. Mantenlo a 4 °C (40 °F) o menos y no lo dejes fuera más de 2 horas."}
+    ]
+  }
+}

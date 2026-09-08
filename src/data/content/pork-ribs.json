@@ -1,0 +1,107 @@
+{
+  "slug": "pork-ribs",
+  "en": {
+    "name": "Pork ribs",
+    "aliases": ["spare ribs", "baby back ribs", "St. Louis ribs", "pork rib rack", "country-style ribs"],
+    "summary": "Pork ribs, whether baby back, spare ribs or country-style, are bone-in cuts sold as whole racks or in pieces. Raw ribs keep 3–5 days in the fridge from purchase and 4–12 months in the freezer for best quality. Their thin layer of meat over bone means they thaw faster than a roast but also dry out sooner if poorly wrapped.",
+    "pantry": "Raw ribs must not be left at room temperature. Bacteria grow rapidly between 4 and 60 °C (40–140 °F), so discard ribs that have been out more than 2 hours, or 1 hour when it is above 32 °C (90 °F). If you dry-rub them ahead of a barbecue, do it in the fridge, not on the patio table.",
+    "fridge": "Keep ribs in their vacuum pack or wrapped on a rimmed tray on the bottom shelf at 4 °C (40 °F) or below; they are good for 3–5 days from the date of purchase. Vacuum-packed ribs may smell slightly sharp on opening; if the smell clears in a few minutes, the meat is fine.",
+    "freezer": "Wrap racks tightly in cling film, then foil or a large freezer bag; cut long racks in half so they fit and freeze faster. At −18 °C (0 °F) ribs stay safe indefinitely, with best quality within 4–12 months. Bone ends can puncture bags, so double-wrap or vacuum-seal.",
+    "thawing": "Thaw a rack in the fridge for 12–24 hours, or in a sealed bag in cold water changed every 30 minutes (2–3 hours). Cook cold-water-thawed ribs straight away. Never thaw on the counter.",
+    "spoilage": [
+      "Sour, sulphurous or ammonia smell that lingers after the pack is opened",
+      "Slimy or tacky surface on the meat",
+      "Grey, green or brownish patches instead of pink flesh",
+      "Cloudy liquid or a bloated vacuum pack"
+    ],
+    "tips": [
+      "Buy racks with an even layer of meat and no dried-out edges",
+      "Label the pack with the purchase date and the type of ribs",
+      "Remove the membrane on the bone side before freezing or cooking for better texture",
+      "Cook until the meat pulls back from the bones and reaches well above 63 °C (145 °F); low and slow to 90–95 °C (195–203 °F) gives tender ribs"
+    ],
+    "faq": [
+      {"q": "Can you freeze pork ribs?", "a": "Yes. Wrap tightly, exclude air and freeze at −18 °C (0 °F). They are best within 4–12 months and remain safe beyond that."},
+      {"q": "How long do raw pork ribs last in the fridge?", "a": "Raw pork ribs keep 3–5 days from purchase at 4 °C (40 °F) or below."},
+      {"q": "Can you cook pork ribs from frozen?", "a": "It is possible in the oven with about 50 percent more time, but thawing in the fridge first gives more even cooking and better texture."}
+    ]
+  },
+  "zh": {
+    "name": "豬肋排",
+    "aliases": ["豬排骨", "豬小排", "肋排", "豬肋骨", "排骨", "豬肋條"],
+    "summary": "豬肋排包括豬小排、腩排、肋條等帶骨部位，整排或切塊販售。生肋排從購買日起冷藏可放 3～5 天，冷凍 4～12 個月風味最佳。肋排肉層薄、骨頭多，退冰比整塊烤肉快，但包裝不好也更容易變乾。",
+    "pantry": "生肋排不能放在室溫。4～60 °C 之間細菌快速繁殖，放超過 2 小時（氣溫超過 32 °C 則 1 小時）就要丟掉。烤肉前先抹乾醃料的話，要放冰箱醃，不要放在戶外桌上。",
+    "fridge": "肋排留在真空包裝或包好放在有邊的盤子上，置於冰箱最下層，溫度維持 4 °C 以下，從購買日起可放 3～5 天。真空包裝的肋排剛打開時可能有點刺鼻，幾分鐘後散掉就是正常的。",
+    "freezer": "整排肋排用保鮮膜緊緊包好，再包鋁箔或裝進大冷凍袋；太長的可以切半，比較好放也凍得快。在 −18 °C 下安全上沒有期限，4～12 個月內品質最好。骨頭尖端會刺破袋子，建議包兩層或真空包裝。",
+    "thawing": "整排肋排放冷藏室退冰 12～24 小時，或連密封袋泡冷水，每 30 分鐘換水（約 2～3 小時）。冷水退冰的肋排要馬上烹調。切勿放在流理台上退冰。",
+    "spoilage": [
+      "開封後酸味、臭雞蛋味或阿摩尼亞味一直不散",
+      "肉的表面黏滑、黏手",
+      "肉色出現灰色、綠色或褐色斑塊",
+      "包裝內有混濁液體，或真空袋鼓起"
+    ],
+    "tips": [
+      "挑肉層均勻、邊緣沒有乾掉的肋排",
+      "包裝上寫購買日期和肋排種類",
+      "冷凍或烹調前先撕掉骨頭那面的薄膜，口感更好",
+      "煮到肉往骨頭內縮、中心溫度遠超過 63 °C；低溫慢烤到 90～95 °C 的肋排最軟嫩"
+    ],
+    "faq": [
+      {"q": "豬肋排可以冷凍嗎？", "a": "可以。包緊、排除空氣後放進 −18 °C 冷凍庫，4～12 個月內風味最好，超過仍然安全。"},
+      {"q": "生排骨放冰箱可以放多久？", "a": "生豬肋排在 4 °C 以下冷藏，從購買日起可放 3～5 天。"},
+      {"q": "冷凍豬肋排可以直接烤嗎？", "a": "用烤箱可以，時間約多一半，但先在冷藏室退冰再烤會熟得更均勻、口感更好。"}
+    ]
+  },
+  "ja": {
+    "name": "豚スペアリブ・豚あばら肉",
+    "aliases": ["スペアリブ", "ベビーバックリブ", "豚骨付きばら肉", "豚リブ", "豚あばら"],
+    "summary": "豚のスペアリブやベビーバックリブなどのあばら肉は、骨付きのまま1枚（ラック）またはカットして売られています。生の状態なら購入日から冷蔵で3〜5日、冷凍なら4〜12か月がおいしさの目安です。骨の上の肉が薄いので、かたまり肉より早く解凍できますが、包み方が甘いと乾燥も早く進みます。",
+    "pantry": "生のスペアリブを常温に置いてはいけません。4〜60 °Cでは細菌が急速に増えるため、室温に2時間以上（気温32 °C以上なら1時間以上）出していたものは廃棄してください。バーベキュー前にスパイスをすり込むときも、屋外のテーブルではなく冷蔵庫の中で行いましょう。",
+    "fridge": "真空パックのまま、または包んで縁のあるバットにのせ、冷蔵室の最下段（チルド室）で4 °C以下に保ちます。購入日から3〜5日が目安です。真空パックを開けた直後に少し刺激臭がしても、数分で消えれば問題ありません。",
+    "freezer": "ラックをラップでぴったり包み、その上からアルミホイルか大きめの冷凍用保存袋に入れます。長いラックは半分に切ると収納しやすく、早く凍ります。−18 °Cで安全面での期限はなく、品質は4〜12か月以内が最良です。骨の先が袋を破りやすいので、二重に包むか真空パックにしてください。",
+    "thawing": "ラックは冷蔵室で12〜24時間、または密閉袋のまま冷水に浸けて30分ごとに水を替え、2〜3時間で解凍します。冷水で解凍したものはすぐに調理してください。室温での解凍は避けましょう。",
+    "spoilage": [
+      "開封後も酸っぱいにおい、硫黄臭、アンモニア臭が残る",
+      "肉の表面がぬるぬる・べたべたしている",
+      "ピンク色ではなく灰色・緑色・茶色のまだらがある",
+      "濁った液体が出ている、または真空パックが膨らんでいる"
+    ],
+    "tips": [
+      "肉の厚みが均一で、ふちが乾いていないものを選ぶ",
+      "パックに購入日とリブの種類を書いておく",
+      "冷凍や調理の前に骨側の薄い膜をはがすと食感が良くなる",
+      "肉が骨から縮んで離れ、中心が63 °Cを十分に超えるまで加熱する。低温でじっくり90〜95 °Cまで火を入れるとほろほろに"
+    ],
+    "faq": [
+      {"q": "豚スペアリブは冷凍できますか？", "a": "できます。しっかり包んで空気を抜き、−18 °Cで冷凍してください。4〜12か月以内が食べ頃で、それ以降も安全です。"},
+      {"q": "生のスペアリブは冷蔵庫でどのくらい持ちますか？", "a": "生の豚スペアリブは4 °C以下の冷蔵で、購入日から3〜5日が目安です。"},
+      {"q": "冷凍のスペアリブは解凍せずに焼けますか？", "a": "オーブンなら加熱時間を5割ほど長くすれば可能ですが、冷蔵室で解凍してから焼いたほうが火の通りが均一で食感も良くなります。"}
+    ]
+  },
+  "es": {
+    "name": "Costillas de cerdo",
+    "aliases": ["costillar de cerdo", "costillas de puerco", "ribs de cerdo", "costillas baby back", "costillas de chancho"],
+    "summary": "Las costillas de cerdo, ya sean baby back, costillar entero o costillas al estilo campestre, son cortes con hueso que se venden en tiras enteras o en trozos. Crudas, se conservan de 3 a 5 días en el refrigerador desde la compra y de 4 a 12 meses en el congelador con la mejor calidad. Su capa fina de carne sobre el hueso hace que se descongelen antes que un asado, pero también se resecan más pronto si van mal envueltas.",
+    "pantry": "Las costillas crudas no deben quedarse a temperatura ambiente. Las bacterias crecen rápido entre 4 y 60 °C (40–140 °F), así que desecha las costillas que lleven más de 2 horas fuera, o 1 hora si hace más de 32 °C (90 °F). Si las adobas en seco antes de la parrillada, hazlo en el refrigerador, no en la mesa del patio.",
+    "fridge": "Guarda las costillas en su envase al vacío o envueltas sobre una bandeja con borde en el estante inferior a 4 °C (40 °F) o menos; duran de 3 a 5 días desde la fecha de compra. Las costillas al vacío pueden oler un poco fuerte al abrirlas; si el olor se disipa en unos minutos, la carne está bien.",
+    "freezer": "Envuelve el costillar bien apretado en film plástico y luego en papel de aluminio o una bolsa grande para congelador; corta las tiras largas por la mitad para que quepan y se congelen antes. A −18 °C (0 °F) se mantienen seguras indefinidamente, con la mejor calidad durante 4 a 12 meses. Las puntas de hueso perforan las bolsas, así que usa doble envoltura o envasa al vacío.",
+    "thawing": "Descongela un costillar en el refrigerador durante 12–24 horas, o en una bolsa cerrada dentro de agua fría cambiada cada 30 minutos (2–3 horas). Cocina de inmediato las costillas descongeladas en agua. Nunca descongeles en la encimera.",
+    "spoilage": [
+      "Olor agrio, a azufre o a amoníaco que persiste tras abrir el envase",
+      "Superficie babosa o pegajosa en la carne",
+      "Manchas grises, verdosas o marrones en lugar de carne rosada",
+      "Líquido turbio o envase al vacío hinchado"
+    ],
+    "tips": [
+      "Elige costillares con una capa de carne uniforme y sin bordes resecos",
+      "Etiqueta el paquete con la fecha de compra y el tipo de costilla",
+      "Retira la membrana del lado del hueso antes de congelar o cocinar para mejor textura",
+      "Cocina hasta que la carne se retraiga de los huesos y supere con margen los 63 °C (145 °F); a fuego lento hasta 90–95 °C (195–203 °F) quedan muy tiernas"
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las costillas de cerdo?", "a": "Sí. Envuélvelas bien, saca el aire y congela a −18 °C (0 °F). Están en su mejor punto durante 4 a 12 meses y siguen siendo seguras después."},
+      {"q": "¿Cuánto duran las costillas de cerdo crudas en el refrigerador?", "a": "Las costillas de cerdo crudas duran de 3 a 5 días desde la compra a 4 °C (40 °F) o menos."},
+      {"q": "¿Se pueden cocinar las costillas de cerdo congeladas?", "a": "Es posible en el horno con alrededor de un 50 por ciento más de tiempo, pero descongelarlas antes en el refrigerador da una cocción más uniforme y mejor textura."}
+    ]
+  }
+}

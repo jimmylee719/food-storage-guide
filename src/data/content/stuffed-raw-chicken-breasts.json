@@ -1,0 +1,107 @@
+{
+  "slug": "stuffed-raw-chicken-breasts",
+  "en": {
+    "name": "Stuffed raw chicken breasts",
+    "aliases": ["stuffed chicken breast", "raw stuffed chicken", "chicken Kiev (raw)", "cordon bleu (raw)"],
+    "summary": "Stuffed raw chicken breasts are uncooked breasts filled with cheese, vegetables, herbs or other fillings, sold ready to bake or made at home. Raw, they keep only 1–2 days in the fridge. In the freezer they hold good quality for about 9 months, and stay safe indefinitely at −18 °C (0 °F).",
+    "pantry": "Never leave raw stuffed chicken at room temperature. Raw poultry and its moist filling sit in the danger zone (4–60 °C / 40–140 °F) the moment they leave the fridge, so discard any that has been out for more than 2 hours, or 1 hour when the room is above 32 °C (90 °F). Store-bought packs go straight from the shopping bag into the fridge or freezer.",
+    "fridge": "Keep the breasts in their sealed package, or in a covered container, on the bottom shelf at 4 °C (40 °F) or below so raw juices cannot drip onto other food. Because the filling is trapped inside raw meat, the clock is short: cook within 1–2 days of buying or stuffing. If you cannot cook them in that window, freeze them on day one.",
+    "freezer": "Wrap each breast tightly in plastic wrap, then in foil or a freezer bag, pressing out air to prevent freezer burn. Label with the date and use within about 9 months for best quality; frozen at −18 °C (0 °F) they remain safe beyond that, though the filling may turn watery. Freezing raw is usually better than freezing after cooking, since fillings like cheese and cream reheat unevenly.",
+    "thawing": "Thaw in the fridge overnight, or in a sealed bag under cold water changed every 30 minutes and cook immediately. Never thaw on the counter. USDA notes that commercially frozen stuffed breasts are usually meant to be cooked from frozen, so follow the package directions and check that the centre of the stuffing reaches 74 °C (165 °F).",
+    "spoilage": [
+      "A sour or sulphur-like smell when the package is opened",
+      "Sticky or slimy film on the surface of the meat",
+      "Grey, green or dull discolouration instead of pink flesh",
+      "Filling that has turned watery, discoloured or smells off"
+    ],
+    "tips": [
+      "Buy stuffed breasts last at the store and get them chilled within an hour",
+      "If stuffing at home, cook or freeze the same day; do not hold raw stuffed poultry in the fridge for later",
+      "Write the stuffing or purchase date on the package so the 1–2 day fridge limit is not lost",
+      "Use a meat thermometer in the thickest part of the filling, not just the meat"
+    ],
+    "faq": [
+      {"q": "Can you freeze stuffed raw chicken breasts?", "a": "Yes. Wrap them tightly and freeze at −18 °C (0 °F); they keep best quality for about 9 months and stay safe beyond that. Cook from frozen according to the package or thaw in the fridge first."},
+      {"q": "How long do stuffed chicken breasts last in the fridge?", "a": "Raw stuffed chicken breasts last only 1–2 days at 4 °C (40 °F) or below. Freeze them if you will not cook them within that time."},
+      {"q": "How can you tell if raw stuffed chicken has gone bad?", "a": "Look for a sour smell, a slimy or tacky surface, grey or greenish colour, or a filling that has turned watery. If any of these appear, throw it out."}
+    ]
+  },
+  "zh": {
+    "name": "生的鑲餡雞胸肉",
+    "aliases": ["鑲餡雞胸", "包餡雞胸肉", "生雞胸捲", "藍帶雞排（生）", "基輔雞（生）"],
+    "summary": "鑲餡雞胸肉是在生雞胸中填入起司、蔬菜、香草等餡料，買回來或自己做好後再烹調的料理。生的狀態下冷藏只能放 1～2 天，冷凍約可保存 9 個月仍維持良好品質；只要一直保持在 −18 °C，安全上可以放更久。",
+    "pantry": "生的鑲餡雞胸絕對不能放在室溫。生雞肉加上濕潤的餡料一離開冰箱就進入危險溫度帶（4～60 °C），放超過 2 小時就該丟棄；如果室溫超過 32 °C，1 小時就是上限。從超市買回來後，請直接放進冷藏或冷凍。",
+    "fridge": "保留原包裝或改用加蓋容器，放在冰箱最下層、溫度 4 °C 以下，避免生肉汁滴到其他食物。因為餡料被包在生肉裡面，保存時間很短：購買或包好餡後 1～2 天內一定要煮。如果來不及煮，第一天就先冷凍。",
+    "freezer": "每塊雞胸先用保鮮膜緊緊包好，再套上鋁箔或冷凍袋並擠出空氣，避免凍燒。標上日期，約 9 個月內吃完品質最好；在 −18 °C 持續冷凍安全上沒有問題，只是餡料可能會出水。通常建議生的直接冷凍，而不是煮熟後再凍，因為起司、奶油類餡料重新加熱容易不均勻。",
+    "thawing": "放冷藏隔夜解凍，或裝在密封袋中用冷水浸泡、每 30 分鐘換水，解凍後立刻烹調；千萬不要放在流理台上退冰。市售冷凍鑲餡雞胸多半設計成直接從冷凍狀態烤，請依照包裝說明操作，並確認餡料中心溫度達到 74 °C。",
+    "spoilage": [
+      "打開包裝有酸味或類似硫磺的臭味",
+      "肉的表面黏黏滑滑的",
+      "肉色變灰、變綠或暗沉，失去粉紅色",
+      "餡料出水、變色或聞起來不對勁"
+    ],
+    "tips": [
+      "在超市最後才拿鑲餡雞胸，並在 1 小時內送進冰箱",
+      "自己包餡的話當天就煮或冷凍，不要包好放冷藏等之後再煮",
+      "在包裝上寫下購買或包餡日期，才不會忘記 1～2 天的冷藏期限",
+      "用溫度計量餡料最厚的部分，不要只量雞肉"
+    ],
+    "faq": [
+      {"q": "生的鑲餡雞胸肉可以冷凍嗎？", "a": "可以。包緊後放進 −18 °C 冷凍庫，約 9 個月內品質最好，之後安全上仍可食用。可依包裝說明直接從冷凍烤，或先放冷藏解凍。"},
+      {"q": "鑲餡雞胸肉放冰箱可以放多久？", "a": "生的鑲餡雞胸在 4 °C 以下的冷藏只能放 1～2 天。如果來不及煮，請直接冷凍。"},
+      {"q": "怎麼判斷生的鑲餡雞胸壞掉了？", "a": "有酸味、表面黏滑、肉色變灰或發綠、餡料出水都是壞掉的跡象，出現任何一項就該丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "生の詰め物入り鶏むね肉",
+    "aliases": ["スタッフドチキン", "詰め物入り鶏むね", "チキンロール（生）", "コルドンブルー（生）", "チキンキエフ（生）"],
+    "summary": "詰め物入り鶏むね肉は、生の鶏むね肉にチーズや野菜、ハーブなどを詰めたもので、市販品も手作りもあります。生の状態では冷蔵で1～2日しかもちません。冷凍なら約9か月はおいしく食べられ、−18 °Cを保てば安全性の面ではそれ以上保存できます。",
+    "pantry": "生の詰め物入り鶏肉を常温に置いてはいけません。生の鶏肉と水分の多い詰め物は、冷蔵庫から出した瞬間に危険温度帯（4～60 °C）に入ります。2時間以上、室温が32 °Cを超える場合は1時間以上放置したものは廃棄してください。買ってきたらそのまま冷蔵庫か冷凍庫へ入れましょう。",
+    "fridge": "パッケージのまま、または蓋つき容器に入れて、肉汁がほかの食品に垂れないよう冷蔵庫の最下段（4 °C以下）で保存します。詰め物が生肉に包まれているため日持ちは短く、購入または調理した日から1～2日以内に加熱してください。その間に食べきれないなら、初日のうちに冷凍します。",
+    "freezer": "1枚ずつラップでぴったり包み、さらにアルミホイルか冷凍用保存袋に入れて空気を抜き、冷凍焼けを防ぎます。日付を書いて約9か月以内に使うと品質が良好です。−18 °Cで凍ったままなら安全性は保たれますが、詰め物が水っぽくなることがあります。チーズやクリーム系の詰め物は再加熱ムラが出やすいので、加熱後より生のまま冷凍するほうが向いています。",
+    "thawing": "冷蔵庫で一晩かけて解凍するか、密封袋に入れて冷水に浸け30分ごとに水を替え、解凍後すぐに加熱します。常温での解凍は避けてください。市販の冷凍品は凍ったまま焼く前提のものが多いので、パッケージの表示に従い、詰め物の中心が74 °Cに達したことを確認しましょう。",
+    "spoilage": [
+      "開封時に酸っぱいにおいや硫黄のようなにおいがする",
+      "肉の表面がぬるぬる、ベタベタしている",
+      "ピンク色が失われ、灰色や緑がかった色になっている",
+      "詰め物が水っぽくなったり変色したり、においがおかしい"
+    ],
+    "tips": [
+      "買い物では最後にカゴに入れ、1時間以内に冷蔵庫へ",
+      "手作りする場合はその日のうちに加熱するか冷凍し、生のまま冷蔵で寝かせない",
+      "購入日または調理日をパッケージに書き、1～2日の冷蔵期限を忘れない",
+      "温度計は肉だけでなく詰め物のいちばん厚い部分に刺して確認する"
+    ],
+    "faq": [
+      {"q": "生の詰め物入り鶏むね肉は冷凍できますか？", "a": "できます。しっかり包んで−18 °Cで冷凍すれば約9か月は品質が保たれ、それ以降も安全に食べられます。パッケージの指示に従って凍ったまま加熱するか、冷蔵庫で解凍してから調理してください。"},
+      {"q": "詰め物入り鶏むね肉は冷蔵庫でどのくらいもちますか？", "a": "生の状態では4 °C以下の冷蔵で1～2日が目安です。その間に調理できない場合は冷凍しましょう。"},
+      {"q": "生の詰め物入り鶏肉が傷んでいるかどうかはどう見分けますか？", "a": "酸っぱいにおい、表面のぬめり、灰色や緑がかった変色、水っぽくなった詰め物が目安です。ひとつでも当てはまれば捨ててください。"}
+    ]
+  },
+  "es": {
+    "name": "Pechugas de pollo rellenas crudas",
+    "aliases": ["pechuga rellena cruda", "pollo relleno crudo", "cordon bleu crudo", "pollo Kiev crudo"],
+    "summary": "Las pechugas de pollo rellenas crudas son pechugas sin cocinar rellenas de queso, verduras, hierbas u otros ingredientes, ya sea compradas listas para hornear o preparadas en casa. Crudas, duran solo 1–2 días en el refrigerador. En el congelador conservan buena calidad unos 9 meses y se mantienen seguras indefinidamente a −18 °C (0 °F).",
+    "pantry": "Nunca dejes pollo relleno crudo a temperatura ambiente. La carne cruda y su relleno húmedo entran en la zona de peligro (4–60 °C / 40–140 °F) en cuanto salen del refrigerador; desecha cualquier pieza que haya estado fuera más de 2 horas, o más de 1 hora si hace más de 32 °C (90 °F). Del supermercado, pasa el paquete directamente al refrigerador o al congelador.",
+    "fridge": "Guarda las pechugas en su envase cerrado o en un recipiente tapado, en el estante inferior a 4 °C (40 °F) o menos, para que los jugos crudos no goteen sobre otros alimentos. Como el relleno queda atrapado dentro de carne cruda, el margen es corto: cocínalas dentro de 1–2 días desde la compra o desde que las rellenaste. Si no vas a cocinarlas en ese plazo, congélalas el primer día.",
+    "freezer": "Envuelve cada pechuga bien apretada en film plástico y luego en papel de aluminio o una bolsa para congelar, sacando el aire para evitar quemaduras por frío. Etiqueta con la fecha y úsalas en unos 9 meses para la mejor calidad; a −18 °C (0 °F) siguen siendo seguras después, aunque el relleno puede soltar agua. Suele ser mejor congelarlas crudas que ya cocinadas, porque los rellenos de queso o crema se recalientan de forma desigual.",
+    "thawing": "Descongela en el refrigerador durante la noche, o en una bolsa sellada bajo agua fría cambiándola cada 30 minutos y cocina de inmediato. Nunca descongeles sobre la encimera. Las pechugas rellenas congeladas comerciales suelen estar pensadas para cocinarse directamente congeladas: sigue las instrucciones del envase y comprueba que el centro del relleno alcance 74 °C (165 °F).",
+    "spoilage": [
+      "Olor agrio o parecido al azufre al abrir el envase",
+      "Superficie de la carne pegajosa o viscosa",
+      "Color gris, verdoso o apagado en lugar de rosado",
+      "Relleno aguado, descolorido o con mal olor"
+    ],
+    "tips": [
+      "Toma las pechugas rellenas al final de la compra y refrigéralas en menos de una hora",
+      "Si las rellenas en casa, cocínalas o congélalas el mismo día; no las guardes crudas en el refrigerador para después",
+      "Anota en el envase la fecha de compra o de preparación para no perder el límite de 1–2 días",
+      "Usa un termómetro en la parte más gruesa del relleno, no solo en la carne"
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las pechugas de pollo rellenas crudas?", "a": "Sí. Envuélvelas bien y congélalas a −18 °C (0 °F); conservan la mejor calidad unos 9 meses y siguen siendo seguras después. Cocínalas congeladas según el envase o descongélalas primero en el refrigerador."},
+      {"q": "¿Cuánto duran las pechugas rellenas en el refrigerador?", "a": "Crudas, solo 1–2 días a 4 °C (40 °F) o menos. Congélalas si no vas a cocinarlas en ese plazo."},
+      {"q": "¿Cómo saber si el pollo relleno crudo está en mal estado?", "a": "Fíjate en un olor agrio, una superficie viscosa o pegajosa, un color gris o verdoso, o un relleno aguado. Si aparece cualquiera de estas señales, deséchalo."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "cream-whipped-sweetened",
+  "en": {
+    "name": "Sweetened whipped cream",
+    "aliases": ["whipped cream", "chantilly cream", "sweetened cream", "homemade whipped cream"],
+    "summary": "Sweetened whipped cream is cream beaten with sugar until it holds soft or firm peaks, ready for desserts and drinks. Once whipped it is best eaten the same day: it keeps about 1 day in the fridge before it weeps and collapses, and 1–2 months in the freezer if you pipe and freeze it in portions.",
+    "pantry": "Whipped cream cannot be left at room temperature. It warms fast, the foam breaks down and the cream enters the danger zone between 4 °C and 60 °C (40 °F and 140 °F), so anything left out more than 2 hours — 1 hour above 32 °C (90 °F) — should be discarded. Assemble cream-topped desserts as close to serving as possible, and refrigerate leftovers immediately.",
+    "fridge": "Store whipped cream in a covered bowl or piping bag on a cold shelf at 4 °C (40 °F) or below and count on about 1 day. It will begin to separate and pool liquid at the bottom; a quick re-whisk usually brings soft peaks back on day one. Stabilizing it with a little mascarpone, cream cheese or gelatine helps a piped decoration keep its shape overnight.",
+    "freezer": "Whipped cream freezes surprisingly well. Pipe rosettes or spoon dollops onto a lined tray, freeze until solid, then transfer to a bag or box at −18 °C (0 °F) for 1–2 months of good quality; it stays safe indefinitely at that temperature. Frozen dollops can go straight onto hot chocolate, pie or coffee where they soften in minutes.",
+    "thawing": "Let frozen portions sit in the fridge for 10–20 minutes, or place them directly on a cold dessert and let them soften there. Do not thaw whipped cream in the microwave or at room temperature for long — it will melt into liquid cream.",
+    "spoilage": [
+      "The foam has collapsed into a liquid pool that will not re-whip",
+      "Sour, cheesy or off smell rather than a clean sweet dairy aroma",
+      "Yellowing surface, or a dry, cracked skin on piped cream",
+      "Any visible mould, or a sharp acidic taste"
+    ],
+    "tips": [
+      "Whip only what you need for the meal — it is a same-day product.",
+      "Chill the bowl and beaters first; cold cream whips faster and holds longer.",
+      "Stop at soft peaks if it will sit in the fridge; it firms further as it stands.",
+      "Freeze leftover dollops on a tray for instant toppings later."
+    ],
+    "faq": [
+      {"q": "Can you freeze whipped cream?", "a": "Yes. Pipe portions onto a tray, freeze solid and bag them at −18 °C (0 °F) for 1–2 months. Place them straight onto a dessert to soften."},
+      {"q": "How long does whipped cream last in the fridge?", "a": "About 1 day at 4 °C (40 °F) or below. After that it weeps liquid and loses its structure."},
+      {"q": "Why does my whipped cream go watery in the fridge?", "a": "The air bubbles gradually collapse and the water separates from the fat. Re-whisk gently, or stabilize the cream with a spoonful of mascarpone or a little gelatine."}
+    ]
+  },
+  "zh": {
+    "name": "加糖打發鮮奶油",
+    "aliases": ["打發鮮奶油", "香緹鮮奶油", "奶油霜飾", "鮮奶油霜", "whipped cream"],
+    "summary": "加糖打發鮮奶油是把鮮奶油加糖打到出現軟性或硬性發泡，用來裝飾甜點和飲料。打好後最好當天吃完：冷藏約只能放 1 天就會出水塌陷；若擠成小份冷凍，可以放 1～2 個月。",
+    "pantry": "打發鮮奶油不能放室溫。它升溫很快，泡沫會消散，並進入 4～60°C 的危險溫度帶，因此室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就該丟掉。擠了鮮奶油的甜點盡量在上桌前才組裝，吃剩的請立刻冷藏。",
+    "fridge": "把打發鮮奶油放在有蓋的容器或擠花袋裡，置於 4°C 以下的冰箱層架，大約可放 1 天。它會慢慢分離、底部積水；第一天輕輕重新打幾下通常可以恢復軟性發泡。加一點馬斯卡彭、奶油乳酪或吉利丁做成穩定鮮奶油，擠花放隔夜比較不會塌。",
+    "freezer": "打發鮮奶油其實很適合冷凍。在鋪紙的烤盤上擠成小花或用湯匙舀成小球，凍硬後裝袋或裝盒，放 −18°C 冷凍，品質以 1～2 個月為佳；在該溫度下安全上可以無限期保存。冷凍小球可以直接放到熱可可、派或咖啡上，幾分鐘就會軟化。",
+    "thawing": "冷凍的份量放冷藏室 10～20 分鐘，或直接放在冰涼的甜點上讓它自然軟化。不要用微波爐解凍，也不要長時間放室溫，否則會整個融成液體。",
+    "spoilage": [
+      "泡沫完全塌陷變成液體，重新打也打不回來",
+      "聞起來有酸味、起司味或異味，而不是乾淨的甜奶香",
+      "表面泛黃，或擠花表面乾裂結皮",
+      "出現任何黴點，或吃起來明顯發酸"
+    ],
+    "tips": [
+      "只打當餐需要的份量，這是當天現做現吃的東西。",
+      "先把鋼盆和攪拌器冰過，冷的鮮奶油打得快也撐得久。",
+      "要放冰箱的話打到軟性發泡就停，靜置後還會再變硬一些。",
+      "剩下的用湯匙舀成小球冷凍起來，之後可以隨時當裝飾。"
+    ],
+    "faq": [
+      {"q": "打發鮮奶油可以冷凍嗎？", "a": "可以。擠在烤盤上凍硬後裝袋，放 −18°C 冷凍 1～2 個月。要用時直接放到甜點上讓它軟化即可。"},
+      {"q": "打發鮮奶油放冰箱可以放多久？", "a": "在 4°C 以下冷藏大約 1 天，之後就會出水、失去結構。"},
+      {"q": "打發鮮奶油放冰箱為什麼會出水？", "a": "空氣泡沫會慢慢消失，水分就從油脂中分離出來。輕輕重打一下即可，或用一匙馬斯卡彭、少量吉利丁做成穩定版。"}
+    ]
+  },
+  "ja": {
+    "name": "加糖ホイップクリーム",
+    "aliases": ["ホイップクリーム", "シャンティイクリーム", "泡立てた生クリーム", "デコレーション用クリーム"],
+    "summary": "加糖ホイップクリームは、生クリームに砂糖を加えて角が立つまで泡立てたもので、デザートや飲み物のトッピングに使います。泡立てたら当日中に食べ切るのが理想で、冷蔵では約1日で離水してへたります。絞って小分け冷凍すれば1〜2か月が目安です。",
+    "pantry": "ホイップクリームを常温に置くことはできません。すぐに温まって泡がつぶれ、4〜60℃の危険温度帯に入ってしまうため、室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。クリームを使ったデザートは食べる直前に仕上げ、残ったらすぐ冷蔵します。",
+    "fridge": "ふたをしたボウルか絞り袋に入れ、4℃以下の庫内の棚で保存します。もつのは約1日で、そのあいだにも分離して底に水がたまってきます。当日なら軽く泡立て直せばやわらかい角が戻ります。マスカルポーネやクリームチーズ、ゼラチンを少し加えて安定させると、絞ったデコレーションが一晩形を保ちやすくなります。",
+    "freezer": "ホイップクリームは意外に冷凍向きです。クッキングシートを敷いた天板に絞るかスプーンで落とし、凍ったら保存袋や容器に移して−18℃で1〜2か月を目安に保存します（−18℃なら安全面では長期間保ちます）。凍ったままココアやパイ、コーヒーにのせれば数分でやわらかくなります。",
+    "thawing": "冷凍したぶんは冷蔵庫で10〜20分置くか、冷たいデザートの上に直接のせてそのままやわらかくします。電子レンジや長時間の常温解凍は避けてください。液状のクリームに戻ってしまいます。",
+    "spoilage": [
+      "泡が完全につぶれて液体になり、泡立て直しても戻らない",
+      "甘い乳の香りではなく、酸っぱいにおいやチーズ臭、異臭がする",
+      "表面が黄ばんでいる、絞ったクリームの表面が乾いてひび割れている",
+      "カビが見える、または明らかに酸っぱい味がする"
+    ],
+    "tips": [
+      "その食事で使う分だけ泡立てる。基本は当日中に食べ切る食品。",
+      "ボウルと泡立て器を先に冷やす。冷たいほど早く立ち、へたりにくい。",
+      "冷蔵する予定なら八分立てで止める。置いているあいだにさらに締まる。",
+      "余りは天板に絞って冷凍しておくと、いつでもトッピングに使える。"
+    ],
+    "faq": [
+      {"q": "ホイップクリームは冷凍できますか？", "a": "できます。天板に絞って凍らせ、保存袋に移して−18℃で1〜2か月。使うときは凍ったままデザートにのせてやわらかくします。"},
+      {"q": "ホイップクリームは冷蔵庫で何日もちますか？", "a": "4℃以下でおよそ1日です。それ以降は離水して形が崩れます。"},
+      {"q": "ホイップクリームが冷蔵庫で水っぽくなるのはなぜ？", "a": "気泡が少しずつつぶれ、脂肪から水分が分離するためです。軽く泡立て直すか、マスカルポーネやゼラチンを少量加えて安定させましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Crema batida azucarada",
+    "aliases": ["nata montada", "crema chantilly", "crema batida", "nata azucarada"],
+    "summary": "La crema batida azucarada es crema montada con azúcar hasta formar picos suaves o firmes, lista para postres y bebidas. Una vez batida conviene consumirla el mismo día: aguanta alrededor de 1 día en el refrigerador antes de soltar líquido y bajarse, y 1–2 meses en el congelador si la congelas en porciones.",
+    "pantry": "La crema batida no puede quedarse a temperatura ambiente. Se calienta rápido, la espuma se deshace y entra en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F), así que lo que haya estado fuera más de 2 horas —1 hora por encima de 32 °C (90 °F)— debe desecharse. Monta los postres con crema lo más cerca posible del momento de servir y refrigera las sobras enseguida.",
+    "fridge": "Guárdala en un bol tapado o en la manga pastelera, en un estante frío a 4 °C (40 °F) o menos, y cuenta con alrededor de 1 día. Empezará a separarse y a soltar líquido en el fondo; un batido suave suele devolver los picos el primer día. Estabilizarla con un poco de mascarpone, queso crema o gelatina ayuda a que una decoración mantenga la forma toda la noche.",
+    "freezer": "La crema batida se congela sorprendentemente bien. Forma rosetones o cucharadas sobre una bandeja con papel, congélalos hasta que estén firmes y pásalos a una bolsa o caja a −18 °C (0 °F): 1–2 meses de buena calidad, y seguridad indefinida a esa temperatura. Las porciones congeladas se pueden poner directas sobre un chocolate caliente, un pastel o un café.",
+    "thawing": "Deja las porciones congeladas 10–20 minutos en el refrigerador, o colócalas directamente sobre un postre frío para que se ablanden ahí. No las descongeles en el microondas ni las dejes mucho tiempo a temperatura ambiente: se derriten y vuelven a ser crema líquida.",
+    "spoilage": [
+      "La espuma se ha desplomado en un líquido que ya no vuelve a montar",
+      "Olor agrio, a queso o desagradable en lugar del aroma lácteo dulce",
+      "Superficie amarillenta o costra seca y agrietada en la crema decorada",
+      "Cualquier moho visible o un sabor claramente ácido"
+    ],
+    "tips": [
+      "Monta solo lo que vayas a usar en esa comida: es un producto del día.",
+      "Enfría antes el bol y las varillas; la crema fría monta antes y aguanta más.",
+      "Párate en picos suaves si va a esperar en el refrigerador; se firma sola al reposar.",
+      "Congela las sobras en porciones sobre una bandeja para tener decoración lista."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la crema batida?", "a": "Sí. Forma porciones sobre una bandeja, congélalas y guárdalas en bolsa a −18 °C (0 °F) durante 1–2 meses. Colócalas directamente sobre el postre para que se ablanden."},
+      {"q": "¿Cuánto dura la crema batida en el refrigerador?", "a": "Alrededor de 1 día a 4 °C (40 °F) o menos. Después suelta líquido y pierde estructura."},
+      {"q": "¿Por qué mi crema batida se vuelve aguada en el refrigerador?", "a": "Las burbujas de aire se van deshaciendo y el agua se separa de la grasa. Bátela suavemente otra vez o estabilízala con una cucharada de mascarpone o un poco de gelatina."}
+    ]
+  }
+}

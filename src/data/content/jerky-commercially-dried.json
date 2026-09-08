@@ -1,0 +1,107 @@
+{
+  "slug": "jerky-commercially-dried",
+  "en": {
+    "name": "Jerky (commercially dried)",
+    "aliases": ["beef jerky", "packaged jerky", "dried meat snack", "meat sticks"],
+    "summary": "Commercially dried jerky is lean meat that has been salted, seasoned and dried until most of its moisture is gone, then sealed in a package. Unopened, it keeps in the pantry for about 12 months from purchase. Once opened, store it in the fridge and use it within 2 to 3 months.",
+    "pantry": "Keep unopened packages in a cool, dry cupboard away from direct sunlight and heat; a sealed bag with its oxygen absorber keeps well for around 12 months from purchase. Check the best-by date and keep the pack intact until you are ready to eat it. Once opened, the meat starts to pick up moisture from the air, so an open bag should not sit in the pantry for long.",
+    "fridge": "After opening, squeeze the air out, reseal the bag or move the jerky to an airtight container, and refrigerate at or below 4 °C (40 °F). It will keep its flavour and texture for 2 to 3 months. Unopened packs do not need refrigeration but will last a little longer if kept cold.",
+    "freezer": "Freezing is not required for shelf-stable jerky, but it does extend quality if you bought a large amount. Portion it into small freezer bags, press out the air and freeze at −18 °C (0 °F). Frozen jerky stays safe indefinitely; use it within a few months for the best flavour, as it slowly loses aroma over time.",
+    "thawing": "Jerky thaws quickly in the fridge or at room temperature since it contains very little water. Once thawed, treat it as an opened package and keep it refrigerated.",
+    "spoilage": [
+      "Fuzzy white, green or grey mould spots on the surface",
+      "A rancid, sour or off smell instead of a smoky, savoury one",
+      "Soft, damp or slimy pieces where the meat has absorbed moisture",
+      "A bloated or swollen unopened package, which suggests gas from microbial growth"
+    ],
+    "tips": [
+      "Buy packs with an intact seal and a visible best-by date; skip any with holes or a puffed-up bag",
+      "Keep the small oxygen absorber packet in the bag after opening, but never eat it",
+      "Write the opening date on the bag so you know when the 2 to 3 month window ends",
+      "Divide bulk jerky into small portions so you open only what you will eat soon"
+    ],
+    "faq": [
+      {"q": "Can you freeze beef jerky?", "a": "Yes. It is not necessary for safety, but freezing in an airtight bag at −18 °C (0 °F) preserves flavour for months, and thawed jerky is ready to eat straight away."},
+      {"q": "How can you tell if jerky has gone bad?", "a": "Look for mould, a rancid or sour smell, or pieces that have gone soft and slimy. A swollen unopened bag is another warning sign; when in doubt, throw it out."},
+      {"q": "Does jerky need to be refrigerated?", "a": "Unopened commercial jerky is shelf-stable for about 12 months. Once the seal is broken, refrigerate it and finish it within 2 to 3 months."}
+    ]
+  },
+  "zh": {
+    "name": "肉乾（市售包裝）",
+    "aliases": ["牛肉乾", "豬肉乾", "肉條", "肉脯", "beef jerky"],
+    "summary": "市售包裝肉乾是把瘦肉調味後乾燥、再密封包裝的零食。未開封放在常溫陰涼處，從購買日起約可保存 12 個月；開封後請放冰箱冷藏，並在 2 到 3 個月內吃完。",
+    "pantry": "未開封的肉乾放在陰涼乾燥的櫥櫃即可，避開陽光直射和爐台熱源，從購買日算起約可放 12 個月。留意包裝上的有效日期，並在要吃之前保持包裝完整。開封後肉乾會慢慢吸收空氣中的水氣，所以開過的袋子不要長時間放在常溫。",
+    "fridge": "開封後把袋內空氣擠出、重新封好，或改裝進密封盒，放進 4 °C 以下的冷藏室，可維持風味與口感約 2 到 3 個月。未開封的肉乾不一定要冷藏，但放冰箱可以稍微延長品質。",
+    "freezer": "耐放的市售肉乾不需要冷凍，但如果一次買很多，冷凍可以延長品質。分成小份裝進冷凍袋、擠出空氣，放進 −18 °C 冷凍庫。冷凍肉乾在安全上可以放很久，但香氣會慢慢流失，建議幾個月內吃完口感最好。",
+    "thawing": "肉乾含水量很低，放冷藏或室溫很快就回溫。解凍後當作已開封的肉乾處理，記得繼續冷藏。",
+    "spoilage": [
+      "表面出現白色、綠色或灰色的絨毛狀黴斑",
+      "聞起來有油耗味、酸味或其他異味，而不是正常的煙燻鹹香",
+      "肉乾變軟、潮濕或表面黏滑，表示已經吸收水氣",
+      "未開封的包裝鼓起膨脹，可能是微生物產氣"
+    ],
+    "tips": [
+      "購買時挑封口完整、有效日期清楚的包裝，袋子有破洞或鼓起的不要買",
+      "袋內的脫氧劑開封後可以留在袋子裡幫助保存，但絕對不能吃",
+      "在袋子上寫下開封日期，方便掌握 2 到 3 個月的冷藏期限",
+      "大包裝分裝成小份，每次只打開近期要吃的量"
+    ],
+    "faq": [
+      {"q": "肉乾可以冷凍嗎？", "a": "可以。安全上不需要冷凍，但用密封袋裝好放 −18 °C 冷凍庫，可以多保存幾個月的風味，解凍後可直接食用。"},
+      {"q": "肉乾壞掉怎麼看？", "a": "看有沒有發黴、油耗味或酸味，或是肉乾變軟變黏。未開封的袋子鼓起也是警訊，有疑慮就直接丟掉。"},
+      {"q": "肉乾需要放冰箱嗎？", "a": "未開封的市售肉乾常溫可放約 12 個月。開封後就要冷藏，並在 2 到 3 個月內吃完。"}
+    ]
+  },
+  "ja": {
+    "name": "ジャーキー（市販）",
+    "aliases": ["ビーフジャーキー", "干し肉", "乾燥肉", "beef jerky"],
+    "summary": "市販のジャーキーは、赤身肉に塩と香辛料で味付けして乾燥させ、密封包装したものです。未開封なら常温で購入日から約12か月保存できます。開封後は冷蔵庫に入れ、2〜3か月以内に食べきりましょう。",
+    "pantry": "未開封のジャーキーは、直射日光やコンロの熱を避けた涼しく乾燥した棚に置けば、購入日から約12か月保存できます。賞味期限を確認し、食べるまで袋を開けないようにしてください。開封後は空気中の湿気を吸い始めるため、開けた袋を常温に長く置くのは避けましょう。",
+    "fridge": "開封後は袋の空気を抜いてしっかり閉じるか、密閉容器に移して4 °C以下の冷蔵庫で保存します。風味と食感は2〜3か月ほど保てます。未開封なら冷蔵は必須ではありませんが、冷やしておくと品質が少し長持ちします。",
+    "freezer": "常温保存できる市販ジャーキーは冷凍しなくても構いませんが、まとめ買いした場合は冷凍すると品質を長く保てます。小分けにして冷凍用袋に入れ、空気を抜いて−18 °Cで冷凍してください。冷凍したジャーキーは安全面では長期間もちますが、香りが少しずつ抜けるので数か月以内に食べるのがおすすめです。",
+    "thawing": "水分がほとんどないので、冷蔵庫でも室温でもすぐに戻ります。解凍後は開封済みとして扱い、冷蔵庫で保存してください。",
+    "spoilage": [
+      "表面に白・緑・灰色のふわふわしたカビが出ている",
+      "スモークの香ばしさではなく、油の酸化臭や酸っぱいにおいがする",
+      "湿気を吸ってやわらかくなったり、表面がぬるぬるしている",
+      "未開封の袋がパンパンに膨らんでいる（微生物がガスを出しているサイン）"
+    ],
+    "tips": [
+      "封がしっかり閉じていて賞味期限がはっきり読める袋を選び、穴や膨らみのあるものは避ける",
+      "袋の中の脱酸素剤は開封後も入れたままにしてよいが、絶対に食べない",
+      "袋に開封日を書いておくと、冷蔵2〜3か月の目安が分かりやすい",
+      "大袋は小分けにして、近いうちに食べる分だけ開ける"
+    ],
+    "faq": [
+      {"q": "ジャーキーは冷凍できますか？", "a": "できます。安全のために必須ではありませんが、密閉袋に入れて−18 °Cで冷凍すれば風味を数か月保てます。解凍後はそのまま食べられます。"},
+      {"q": "ジャーキーが傷んでいるかどうかはどう見分けますか？", "a": "カビ、油の酸化臭や酸っぱいにおい、やわらかくぬるぬるした状態が目安です。未開封の袋が膨らんでいるのも要注意で、迷ったら捨ててください。"},
+      {"q": "ジャーキーは冷蔵庫に入れる必要がありますか？", "a": "未開封の市販品は常温で約12か月保存できます。開封したら冷蔵庫に入れ、2〜3か月以内に食べきりましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Cecina o jerky (envasado)",
+    "aliases": ["beef jerky", "carne seca", "carne deshidratada", "charqui", "tasajo"],
+    "summary": "El jerky comercial es carne magra salada, condimentada y deshidratada hasta perder casi toda su humedad, envasada al vacío. Sin abrir se conserva en la despensa unos 12 meses desde la compra. Una vez abierto, guárdalo en el refrigerador y consúmelo en 2 a 3 meses.",
+    "pantry": "Guarda los paquetes cerrados en un armario fresco y seco, lejos del sol directo y del calor de la cocina; un envase sellado con su sobre absorbente de oxígeno dura unos 12 meses desde la compra. Revisa la fecha de consumo preferente y no abras el paquete hasta que vayas a comerlo. Una vez abierto, la carne empieza a absorber humedad del aire, así que no dejes una bolsa abierta en la despensa mucho tiempo.",
+    "fridge": "Después de abrirlo, saca el aire, vuelve a cerrar la bolsa o pásalo a un recipiente hermético y refrigéralo a 4 °C (40 °F) o menos. Conservará su sabor y textura durante 2 a 3 meses. Los paquetes sin abrir no necesitan frío, aunque durarán un poco más si los mantienes refrigerados.",
+    "freezer": "No hace falta congelar el jerky, pero si compraste mucho, el congelador prolonga su calidad. Divídelo en porciones pequeñas en bolsas para congelar, saca el aire y congélalo a −18 °C (0 °F). Congelado se mantiene seguro indefinidamente; consúmelo en unos meses para disfrutar el mejor sabor, ya que el aroma se pierde poco a poco.",
+    "thawing": "Como contiene muy poca agua, se descongela rápidamente en el refrigerador o a temperatura ambiente. Una vez descongelado, trátalo como un paquete abierto y mantenlo refrigerado.",
+    "spoilage": [
+      "Manchas de moho blanco, verde o gris en la superficie",
+      "Olor rancio, agrio o extraño en lugar del aroma ahumado y salado",
+      "Trozos blandos, húmedos o pegajosos por haber absorbido humedad",
+      "Un paquete cerrado hinchado o abombado, señal de gas por crecimiento microbiano"
+    ],
+    "tips": [
+      "Compra paquetes con el sello intacto y la fecha visible; descarta los que tengan agujeros o estén inflados",
+      "Deja el sobre absorbente de oxígeno dentro de la bolsa después de abrirla, pero nunca lo comas",
+      "Anota la fecha de apertura en la bolsa para saber cuándo terminan los 2 a 3 meses",
+      "Divide las compras grandes en porciones pequeñas para abrir solo lo que comerás pronto"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el jerky?", "a": "Sí. No es necesario por seguridad, pero congelarlo en una bolsa hermética a −18 °C (0 °F) conserva el sabor durante meses, y al descongelarse se puede comer de inmediato."},
+      {"q": "¿Cómo saber si el jerky está malo?", "a": "Busca moho, olor rancio o agrio, o trozos blandos y pegajosos. Un paquete cerrado hinchado es otra señal de alerta; ante la duda, tíralo."},
+      {"q": "¿El jerky necesita refrigeración?", "a": "El jerky comercial sin abrir dura unos 12 meses a temperatura ambiente. Una vez roto el sello, refrigéralo y termínalo en 2 a 3 meses."}
+    ]
+  }
+}

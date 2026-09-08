@@ -1,0 +1,107 @@
+{
+  "slug": "fruit-cake",
+  "en": {
+    "name": "Fruit cake",
+    "aliases": ["fruitcake", "Christmas cake", "rich fruit cake", "dundee cake", "holiday fruit cake"],
+    "summary": "Fruit cake is a dense cake loaded with dried and candied fruit, nuts and often spirits, and all that sugar and alcohol makes it one of the longest-keeping baked goods. Unopened, it keeps about 6 months in the pantry from purchase, 12 months in the fridge after opening, and 12 months in the freezer.",
+    "pantry": "Keep fruit cake well wrapped in a cool, dark, dry cupboard, and it lasts around 6 months from purchase. The high sugar content and low moisture keep bacteria at bay, and cakes soaked in brandy or rum keep even better. Wrap in baking paper and then foil or an airtight tin; some people brush the cake with spirits every few weeks to keep it moist.",
+    "fridge": "Once cut or opened, fruit cake keeps for up to 12 months in the fridge at 4 °C (40 °F) or below, wrapped tightly so it does not dry out or take on fridge odours. Refrigeration is especially sensible in warm, humid climates or for lighter cakes with less sugar and no alcohol.",
+    "freezer": "Fruit cake freezes very well for 12 months at −18 °C (0 °F). Wrap the whole cake or slices in plastic wrap, then foil, and place in a freezer bag. It stays safe beyond that; the timeline is about keeping the fruit and nuts tasting fresh.",
+    "thawing": "Thaw fruit cake in its wrapping in the fridge or at room temperature for several hours; keeping it wrapped stops condensation from making the surface sticky.",
+    "spoilage": [
+      "Fuzzy or coloured mould on the surface or cut edges",
+      "Musty, sour or fermented smell beyond the usual boozy aroma",
+      "Rancid taste from nuts that have gone off",
+      "Extremely dry, crumbly texture or a sticky, wet surface"
+    ],
+    "tips": [
+      "Mark the date on the wrapping; a 6- or 12-month window is easy to lose track of",
+      "Slice only what you need and rewrap the rest tightly",
+      "Store away from strong-smelling foods; the cake absorbs odours",
+      "For long keeping, choose a rich cake with alcohol; lighter cakes spoil sooner"
+    ],
+    "faq": [
+      {"q": "Can you freeze fruit cake?", "a": "Yes. Wrapped in plastic and foil at −18 °C (0 °F), it keeps 12 months for the best quality."},
+      {"q": "How long does fruit cake last?", "a": "About 6 months in the pantry from purchase, 12 months in the fridge once opened, and 12 months in the freezer."},
+      {"q": "Does fruit cake need to be refrigerated?", "a": "Not necessarily. An unopened, well-wrapped fruit cake keeps about 6 months at room temperature; refrigeration extends an opened cake to 12 months."}
+    ]
+  },
+  "zh": {
+    "name": "水果蛋糕",
+    "aliases": ["聖誕水果蛋糕", "英式水果蛋糕", "果乾蛋糕", "重水果蛋糕", "fruit cake"],
+    "summary": "水果蛋糕是加了大量果乾、蜜餞、堅果、通常還有烈酒的紮實蛋糕，高糖和酒精讓它成為最耐放的烘焙品之一。未開封常溫可從購買日起放約 6 個月，開封後冷藏可放 12 個月，冷凍也可放 12 個月。",
+    "pantry": "把水果蛋糕包好放在陰涼、乾燥、避光的櫥櫃，可從購買日起放約 6 個月。高糖低水分的特性能抑制細菌，泡過白蘭地或蘭姆酒的蛋糕更耐放。先用烘焙紙包，再包鋁箔紙或放密封罐；有些人每隔幾週會在蛋糕上刷一層酒保持濕潤。台灣夏天潮濕悶熱，建議直接冷藏。",
+    "fridge": "切開或開封後，密封包好放在 4°C 以下冷藏，最多可放 12 個月，這樣才不會變乾或吸附冰箱味。在潮濕炎熱的氣候，或是糖分較少、沒加酒的清爽版蛋糕，冷藏尤其合適。",
+    "freezer": "水果蛋糕非常適合冷凍，在 −18°C 可放 12 個月。整顆或切片用保鮮膜包緊，再包鋁箔紙，放進冷凍袋。超過期限仍然安全，期限是為了讓果乾和堅果保持風味。",
+    "thawing": "連同包裝放冷藏室或室溫幾個小時解凍，不要拆開包裝，才不會因為凝結水氣讓表面變黏。",
+    "spoilage": [
+      "表面或切面出現毛狀或有顏色的黴",
+      "除了原本的酒香之外，有霉味、酸味或發酵味",
+      "堅果變質產生的油耗味",
+      "極度乾燥易碎，或表面濕黏"
+    ],
+    "tips": [
+      "在包裝上寫日期，6 個月或 12 個月很容易忘記",
+      "要吃多少切多少，剩下的重新包緊",
+      "遠離味道重的食物，蛋糕很會吸味",
+      "想放久一點就選含酒的重口味版本，清爽版比較快壞"
+    ],
+    "faq": [
+      {"q": "水果蛋糕可以冷凍嗎？", "a": "可以。用保鮮膜和鋁箔紙包好放 −18°C 冷凍，12 個月內品質最好。"},
+      {"q": "水果蛋糕可以放多久？", "a": "常溫從購買日起約 6 個月，開封後冷藏 12 個月，冷凍也是 12 個月。"},
+      {"q": "水果蛋糕需要放冰箱嗎？", "a": "不一定。未開封、包好的水果蛋糕常溫可放約 6 個月；開封後冷藏可延長到 12 個月。"}
+    ]
+  },
+  "ja": {
+    "name": "フルーツケーキ",
+    "aliases": ["ドライフルーツケーキ", "クリスマスケーキ（英国風）", "ラム酒ケーキ", "シュトーレン風ケーキ", "パウンドケーキ（フルーツ入り）"],
+    "summary": "フルーツケーキはドライフルーツや砂糖漬けの果物、ナッツ、多くは洋酒をたっぷり使ったずっしりしたケーキです。糖分とアルコールのおかげで、焼き菓子の中でもとくに長持ちします。未開封なら常温で購入日から約6か月、開封後は冷蔵で12か月、冷凍でも12か月保存できます。",
+    "pantry": "しっかり包んで涼しく暗い乾燥した戸棚に置けば、購入日から約6か月保存できます。糖分が高く水分が少ないため菌が繁殖しにくく、ブランデーやラム酒を染み込ませたものはさらに日持ちします。クッキングシートで包み、その上からアルミホイルで覆うか密閉缶に。数週間おきに洋酒を塗ってしっとりさせる方法もあります。日本の蒸し暑い夏は冷蔵のほうが安心です。",
+    "fridge": "切ったり開封したりした後は、乾燥やにおい移りを防ぐためぴったり包んで4℃以下で冷蔵すれば、12か月まで保存できます。高温多湿の時期や、糖分控えめ・洋酒なしの軽めのケーキはとくに冷蔵向きです。",
+    "freezer": "フルーツケーキは冷凍に向いていて、−18℃で12か月保存できます。ホールまたはスライスをラップで包み、アルミホイルで覆って冷凍用保存袋へ。それ以上でも安全ですが、フルーツやナッツの風味を保つ目安として12か月と考えてください。",
+    "thawing": "包んだまま冷蔵庫か室温で数時間かけて解凍します。包みを開けずに解凍すると、結露で表面がベタつくのを防げます。",
+    "spoilage": [
+      "表面や切り口にふわふわした、または色のついたカビ",
+      "洋酒の香りとは違う、カビ臭さ・酸っぱさ・発酵臭",
+      "ナッツが酸化した油臭い味",
+      "極端にパサついて崩れる、または表面が湿ってベタベタしている"
+    ],
+    "tips": [
+      "包みに日付を書いておくこと。6か月・12か月は意外と忘れます",
+      "食べる分だけ切り、残りはすぐ包み直す",
+      "においの強い食品のそばに置かない。ケーキはにおいを吸います",
+      "長期保存したいなら洋酒入りのリッチなタイプを。軽めのタイプは早めに傷みます"
+    ],
+    "faq": [
+      {"q": "フルーツケーキは冷凍できますか？", "a": "できます。ラップとアルミホイルで包んで−18℃で冷凍すれば、12か月はおいしく保てます。"},
+      {"q": "フルーツケーキはどのくらい日持ちしますか？", "a": "常温で購入日から約6か月、開封後の冷蔵で12か月、冷凍で12か月が目安です。"},
+      {"q": "フルーツケーキは冷蔵しないとだめですか？", "a": "必ずしも必要ありません。未開封でしっかり包んであれば常温で約6か月持ちます。開封後は冷蔵すると12か月まで延ばせます。"}
+    ]
+  },
+  "es": {
+    "name": "Pastel de frutas",
+    "aliases": ["fruit cake", "plum cake", "bizcocho de frutas confitadas", "torta negra", "pan de Pascua"],
+    "summary": "El pastel de frutas es un bizcocho denso cargado de fruta seca y confitada, frutos secos y, a menudo, licor; tanto azúcar y alcohol lo convierten en uno de los horneados que más dura. Sin abrir se conserva unos 6 meses en la despensa desde la compra, 12 meses en la nevera tras abrirlo y 12 meses en el congelador.",
+    "pantry": "Guarda el pastel de frutas bien envuelto en un armario fresco, oscuro y seco, y durará unos 6 meses desde la compra. Su alto contenido en azúcar y su poca humedad frenan las bacterias, y los pasteles empapados en brandy o ron se conservan aún mejor. Envuélvelo en papel de horno y luego en aluminio o en una lata hermética; hay quien lo pincela con licor cada pocas semanas para mantenerlo jugoso.",
+    "fridge": "Una vez cortado o abierto, el pastel de frutas dura hasta 12 meses en la nevera a 4 °C (40 °F) o menos, envuelto bien apretado para que no se reseque ni coja olores. Refrigerarlo es especialmente sensato en climas cálidos y húmedos, o en pasteles más ligeros con menos azúcar y sin alcohol.",
+    "freezer": "Se congela muy bien durante 12 meses a −18 °C (0 °F). Envuelve el pastel entero o en porciones en film transparente, luego en papel de aluminio, y mételo en una bolsa de congelación. Sigue siendo seguro después; el plazo sirve para que la fruta y los frutos secos conserven su sabor.",
+    "thawing": "Descongela el pastel envuelto en la nevera o a temperatura ambiente durante varias horas; dejarlo envuelto evita que la condensación vuelva pegajosa la superficie.",
+    "spoilage": [
+      "Moho velloso o de color en la superficie o en los bordes cortados",
+      "Olor a humedad, agrio o fermentado más allá del aroma habitual a licor",
+      "Sabor rancio por frutos secos que se han estropeado",
+      "Textura extremadamente seca y desmigada, o superficie húmeda y pegajosa"
+    ],
+    "tips": [
+      "Escribe la fecha en el envoltorio; un plazo de 6 o 12 meses se olvida fácilmente",
+      "Corta solo lo que vayas a comer y vuelve a envolver el resto bien apretado",
+      "Aléjalo de alimentos de olor fuerte; el pastel absorbe olores",
+      "Para conservarlo mucho tiempo, elige uno denso con licor; los ligeros se estropean antes"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el pastel de frutas?", "a": "Sí. Envuelto en film y aluminio a −18 °C (0 °F), se conserva 12 meses con la mejor calidad."},
+      {"q": "¿Cuánto dura el pastel de frutas?", "a": "Unos 6 meses en la despensa desde la compra, 12 meses en la nevera una vez abierto y 12 meses en el congelador."},
+      {"q": "¿El pastel de frutas necesita refrigeración?", "a": "No necesariamente. Sin abrir y bien envuelto dura unos 6 meses a temperatura ambiente; la nevera alarga un pastel abierto hasta 12 meses."}
+    ]
+  }
+}

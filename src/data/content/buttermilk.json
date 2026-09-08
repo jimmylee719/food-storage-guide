@@ -1,0 +1,107 @@
+{
+  "slug": "buttermilk",
+  "en": {
+    "name": "Buttermilk",
+    "aliases": ["cultured buttermilk", "sour milk", "soured milk"],
+    "summary": "Cultured buttermilk is a tangy, slightly thick fermented milk used in pancakes, biscuits, marinades and dressings. It keeps 1–2 weeks in the fridge from the date of purchase and up to 3 months in the freezer for best quality.",
+    "pantry": "Buttermilk is a perishable dairy product and should not be left at room temperature. Follow the 2-hour rule: discard any buttermilk that has sat out for more than 2 hours, or more than 1 hour when the room is above 32 °C (90 °F). Pour what you need and return the carton to the fridge right away.",
+    "fridge": "Keep buttermilk in its original carton, tightly closed, at or below 4 °C (40 °F) for 1–2 weeks from purchase. Store it on a middle or lower shelf rather than in the door, where temperature swings shorten its life. Because it is already cultured, it stays tangy and usable for the full window as long as it is kept cold.",
+    "freezer": "Buttermilk can be frozen for up to 3 months, but it separates on thawing, so it is best for baking and cooking rather than drinking. Freeze it in ice-cube trays or small containers with headspace, then transfer the cubes to a freezer bag. At −18 °C (0 °F) it stays safe indefinitely; the 3-month guideline is about quality.",
+    "thawing": "Thaw frozen buttermilk in the fridge, then shake or whisk it vigorously to recombine before using it in a recipe. Do not thaw it on the counter.",
+    "spoilage": [
+      "A strong, sharp sourness that goes beyond its normal tang, or a rotten smell",
+      "Thick lumps or curds that do not smooth out when shaken",
+      "Visible mould or discolouration on the surface or carton rim",
+      "A bulging or swollen carton"
+    ],
+    "tips": [
+      "Buy the smallest carton you will realistically use within two weeks.",
+      "Freeze leftovers in 1-cup (240 ml) portions labelled with the date, sized for common recipes.",
+      "Close the carton spout completely after each use to keep out fridge odours.",
+      "Use it in pancakes, marinades or salad dressings to finish the carton before the date passes."
+    ],
+    "faq": [
+      {"q": "Can you freeze buttermilk?", "a": "Yes, for up to 3 months. It separates when thawed, so whisk it well and use it for baking or cooking rather than drinking."},
+      {"q": "How can you tell if buttermilk has gone bad?", "a": "Fresh buttermilk is tangy, not rotten. If it smells foul, has lumps that will not shake out, shows mould or the carton is swollen, throw it away."},
+      {"q": "How long does buttermilk last in the fridge?", "a": "About 1–2 weeks from the date of purchase when kept closed at or below 4 °C (40 °F)."}
+    ]
+  },
+  "zh": {
+    "name": "白脫牛奶",
+    "aliases": ["酪乳", "發酵乳", "buttermilk", "白脫奶", "酸奶油乳"],
+    "summary": "白脫牛奶（酪乳）是帶有微酸味、質地略稠的發酵乳，常用來做鬆餅、司康、醃肉和沙拉醬。從購買日算起冷藏可放 1～2 週，冷凍可保持最佳品質約 3 個月。",
+    "pantry": "白脫牛奶是易腐的乳製品，不能放在室溫。請遵守 2 小時原則：在室溫放超過 2 小時（室溫超過 32 °C 則是 1 小時）就要丟掉。倒出需要的量後，馬上把盒子放回冰箱。",
+    "fridge": "白脫牛奶請以原包裝密封，放在 4 °C 以下的冷藏室，從購買日起可放 1～2 週。放在中層或下層，不要放冰箱門，門邊溫度變化大會縮短保存期。因為它本身就是發酵乳，只要一直保持低溫，整段期間都會維持該有的酸香。",
+    "freezer": "白脫牛奶可以冷凍約 3 個月，但解凍後會油水分離，適合拿來烘焙或料理，不適合直接喝。可以倒進製冰盒或小容器（留一點膨脹空間），結凍後再裝進冷凍袋。−18 °C 冷凍可以無限期保持安全，3 個月是品質最佳的期限。",
+    "thawing": "冷凍的白脫牛奶請放冷藏室解凍，使用前用力搖勻或打勻讓它重新混合。不要放在室溫解凍。",
+    "spoilage": [
+      "酸味變得刺鼻，超過正常的微酸，或出現腐敗味",
+      "出現搖不散的塊狀或凝乳",
+      "表面或盒口出現黴斑或變色",
+      "包裝膨脹鼓起"
+    ],
+    "tips": [
+      "買兩週內確定用得完的小包裝。",
+      "剩下的分成 1 杯（240 ml）的份量冷凍並標上日期，剛好配合常見食譜用量。",
+      "每次用完都把盒口關緊，避免吸附冰箱異味。",
+      "可以拿來做鬆餅、醃肉或沙拉醬，在期限前把整盒用完。"
+    ],
+    "faq": [
+      {"q": "白脫牛奶可以冷凍嗎？", "a": "可以，最多約 3 個月。解凍後會分層，打勻後用來烘焙或做菜就好，不建議直接喝。"},
+      {"q": "白脫牛奶壞掉怎麼看？", "a": "新鮮的白脫牛奶是微酸而不是臭的。如果聞起來發臭、有搖不散的結塊、發黴或包裝鼓起，就要丟掉。"},
+      {"q": "白脫牛奶放冰箱可以放多久？", "a": "從購買日起大約 1～2 週，前提是密封並放在 4 °C 以下。"}
+    ]
+  },
+  "ja": {
+    "name": "バターミルク",
+    "aliases": ["発酵バターミルク", "カルチャードバターミルク", "buttermilk"],
+    "summary": "バターミルクは軽い酸味ととろみのある発酵乳で、パンケーキやスコーン、肉の漬け込み、ドレッシングに使われます。購入日から冷蔵で1〜2週間、冷凍なら3か月ほどおいしく保存できます。",
+    "pantry": "バターミルクは傷みやすい乳製品なので、室温に置いてはいけません。2時間ルールを守り、室温に2時間以上（室温が32 °Cを超える場合は1時間以上）置いたものは処分してください。必要な分を注いだら、すぐにパックを冷蔵庫へ戻しましょう。",
+    "fridge": "バターミルクは元のパックのまましっかり閉じ、4 °C以下の冷蔵室で購入日から1〜2週間保存できます。温度が変わりやすいドアポケットではなく、中段か下段に置いてください。もともと発酵させた飲み物なので、冷たく保っていれば期間中は本来の酸味のまま使えます。",
+    "freezer": "バターミルクは3か月ほど冷凍できますが、解凍すると分離するため、飲むよりお菓子作りや料理向きです。製氷皿や小さな容器に少し余裕を残して入れて凍らせ、固まったら冷凍用保存袋に移すと便利です。−18 °Cで保存すれば安全性は無期限に保たれ、3か月という目安は品質を保つための期間です。",
+    "thawing": "冷凍したバターミルクは冷蔵庫で解凍し、使う前によく振るか泡立て器で混ぜて元の状態に戻します。室温での解凍は避けてください。",
+    "spoilage": [
+      "本来の酸味を超える強い酸っぱさや、腐ったようなにおい",
+      "振っても消えないダマや固まり",
+      "表面やパックの口に見えるカビや変色",
+      "パックが膨らんでいる"
+    ],
+    "tips": [
+      "2週間で使い切れる一番小さなサイズを買いましょう。",
+      "残りは1カップ（240 ml）ずつ日付を書いて冷凍すると、レシピにそのまま使えます。",
+      "使うたびに注ぎ口をしっかり閉じ、冷蔵庫のにおい移りを防ぎましょう。",
+      "パンケーキや漬け込み、ドレッシングに使って期限内に使い切りましょう。"
+    ],
+    "faq": [
+      {"q": "バターミルクは冷凍できますか？", "a": "できます。目安は3か月です。解凍すると分離するので、よく混ぜてからお菓子作りや料理に使ってください。"},
+      {"q": "バターミルクが傷んでいるかどうかはどう見分けますか？", "a": "新鮮なものは酸味はあっても腐敗臭はしません。嫌なにおい、振っても消えないダマ、カビ、パックの膨らみがあれば処分してください。"},
+      {"q": "バターミルクは冷蔵庫でどのくらいもちますか？", "a": "しっかり閉じて4 °C以下で保存すれば、購入日から1〜2週間が目安です。"}
+    ]
+  },
+  "es": {
+    "name": "Suero de leche",
+    "aliases": ["buttermilk", "leche agria", "leche cultivada", "mazada", "babeurre"],
+    "summary": "El suero de leche cultivado (buttermilk) es una leche fermentada ligeramente espesa y ácida, muy usada en panqueques, bizcochos, marinadas y aderezos. Se conserva 1–2 semanas en el refrigerador desde la compra y hasta 3 meses en el congelador con buena calidad.",
+    "pantry": "El suero de leche es un lácteo perecedero y no debe quedarse a temperatura ambiente. Aplica la regla de las 2 horas: desecha el que haya estado fuera más de 2 horas, o más de 1 hora si el ambiente supera los 32 °C (90 °F). Sirve lo que necesites y devuelve el envase al refrigerador enseguida.",
+    "fridge": "Guarda el suero de leche en su envase original bien cerrado, a 4 °C (40 °F) o menos, durante 1–2 semanas desde la compra. Colócalo en un estante medio o bajo y no en la puerta, donde los cambios de temperatura acortan su vida. Como ya está fermentado, mantiene su acidez normal durante todo ese periodo mientras siga frío.",
+    "freezer": "El suero de leche se puede congelar hasta 3 meses, pero se separa al descongelarse, así que conviene reservarlo para hornear o cocinar y no para beber. Congélalo en cubiteras o en recipientes pequeños dejando espacio, y pasa los cubos a una bolsa para congelar. A −18 °C (0 °F) se mantiene seguro indefinidamente; los 3 meses son una referencia de calidad.",
+    "thawing": "Descongela el suero de leche en el refrigerador y luego agítalo o bátelo con energía para volver a integrarlo antes de usarlo. No lo descongeles sobre la encimera.",
+    "spoilage": [
+      "Acidez muy fuerte, más allá de su sabor ácido normal, u olor a podrido",
+      "Grumos o cuajos espesos que no desaparecen al agitar",
+      "Moho o cambios de color en la superficie o en el borde del envase",
+      "Envase hinchado o abombado"
+    ],
+    "tips": [
+      "Compra el envase más pequeño que puedas terminar en dos semanas.",
+      "Congela lo que sobre en porciones de 1 taza (240 ml) etiquetadas con la fecha, pensadas para recetas habituales.",
+      "Cierra bien la boquilla del envase después de cada uso para evitar olores del refrigerador.",
+      "Úsalo en panqueques, marinadas o aderezos para acabar el envase antes de la fecha."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el suero de leche?", "a": "Sí, hasta 3 meses. Se separa al descongelarse, así que bátelo bien y úsalo para hornear o cocinar, no para beber."},
+      {"q": "¿Cómo saber si el suero de leche está malo?", "a": "El suero fresco es ácido, no podrido. Si huele mal, tiene grumos que no se deshacen, muestra moho o el envase está hinchado, tíralo."},
+      {"q": "¿Cuánto dura el suero de leche en el refrigerador?", "a": "Aproximadamente 1–2 semanas desde la compra, siempre cerrado y a 4 °C (40 °F) o menos."}
+    ]
+  }
+}

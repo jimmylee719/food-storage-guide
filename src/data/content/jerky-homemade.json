@@ -1,0 +1,107 @@
+{
+  "slug": "jerky-homemade",
+  "en": {
+    "name": "Jerky (homemade)",
+    "aliases": ["home-dried jerky", "dehydrator jerky", "oven-dried beef", "homemade dried meat"],
+    "summary": "Homemade jerky is meat you have dried yourself in a dehydrator, oven or smoker. Because home drying is less controlled than commercial processing, it keeps for a shorter time: about 1 to 2 months at room temperature, and 1 to 2 months in the fridge as well. Freezing is the best way to keep a big batch.",
+    "pantry": "Well-dried jerky stored in an airtight jar or zip bag in a cool, dark, dry place keeps for 1 to 2 months. Follow USDA guidance and heat the meat to a safe internal temperature (74 °C / 165 °F for beef, or at least 71 °C / 160 °F) before or after drying so that it is fully cooked, not just dried. Any leftover moisture shortens shelf life, so if pieces bend without cracking they are best kept in the fridge.",
+    "fridge": "Refrigeration at or below 4 °C (40 °F) slows fat from going rancid and gives you the same 1 to 2 month window with a bit more safety margin. Use an airtight container or bag with the air pressed out so the jerky does not absorb fridge odours or moisture. Open it as little as possible and use the oldest pieces first.",
+    "freezer": "For longer storage, freezing at −18 °C (0 °F) is the safest choice. Vacuum-seal or pack in small freezer bags with the air removed and label with the date. Frozen jerky is safe indefinitely, though flavour is best within a few months; if it has been frozen for a long time, expect a weaker aroma rather than a safety issue.",
+    "thawing": "Thaw small portions in the fridge or simply at room temperature for a short while; dried meat comes up to temperature fast. Once thawed, keep it refrigerated and eat within the usual 1 to 2 months.",
+    "spoilage": [
+      "Visible mould, even a small fuzzy patch, means the whole batch should be discarded",
+      "A rancid, stale-oil or sour smell",
+      "Pieces that have become soft, sticky or damp instead of dry and leathery",
+      "Unusual colour changes such as dark or greenish patches"
+    ],
+    "tips": [
+      "Start with lean cuts and trim all visible fat; fat turns rancid quickly and is the main reason homemade jerky spoils",
+      "Dry until the pieces crack when bent but do not snap in two; blot off any surface oil with paper towel",
+      "Let the jerky cool completely before packing so no condensation forms inside the container",
+      "Store in small batches and label each with the drying date so you can use the oldest first"
+    ],
+    "faq": [
+      {"q": "Can you freeze homemade jerky?", "a": "Yes, and it is the best option for a large batch. Pack it airtight, freeze at −18 °C (0 °F), and use within a few months for the best flavour."},
+      {"q": "How can you tell if homemade jerky has gone bad?", "a": "Discard it if you see any mould, if it smells rancid or sour, or if the pieces have gone soft and sticky. Homemade jerky has no preservatives, so err on the side of caution."},
+      {"q": "Does homemade jerky need to be refrigerated?", "a": "It keeps 1 to 2 months either in a cool pantry or in the fridge. The fridge is the safer choice, especially in warm or humid weather or if the jerky is not completely dry."}
+    ]
+  },
+  "zh": {
+    "name": "自製肉乾",
+    "aliases": ["手作肉乾", "自製牛肉乾", "自製豬肉乾", "烘乾肉條"],
+    "summary": "自製肉乾是用烤箱、乾果機或煙燻爐在家自行烘乾的肉。因為家庭製作的乾燥程度和衛生條件不如工廠穩定，保存期比較短：常溫約 1 到 2 個月，冷藏也是 1 到 2 個月。如果一次做很多，冷凍是最好的保存方式。",
+    "pantry": "烘得夠乾的肉乾裝進密封罐或夾鏈袋，放在陰涼、乾燥、避光的地方，可以放 1 到 2 個月。依照美國農業部的建議，肉在烘乾前或烘乾後要加熱到安全中心溫度（牛肉 74 °C，至少 71 °C），確保是「煮熟」而不只是「烘乾」。殘留的水分會縮短保存期，如果肉乾折彎不會裂開，代表還偏濕，最好改放冰箱。",
+    "fridge": "放在 4 °C 以下的冷藏室，可以減緩油脂變質，同樣是 1 到 2 個月的保存期，但安全上更有餘裕。用密封盒或擠出空氣的夾鏈袋裝，避免肉乾吸到冰箱味道和濕氣。盡量少開封，先吃最早做的那一批。",
+    "freezer": "想放更久，−18 °C 冷凍是最安全的做法。真空包裝或分裝進小冷凍袋、擠出空氣，並標上日期。冷凍肉乾在安全上可以放很久，但風味在幾個月內最好；冷凍太久的肉乾只是香氣變淡，不是安全問題。",
+    "thawing": "小份的肉乾放冷藏或在室溫下稍微放一下就會回溫，乾肉回溫很快。解凍後記得冷藏，並在 1 到 2 個月內吃完。",
+    "spoilage": [
+      "看到發黴，就算只是一小塊絨毛，整批都應該丟掉",
+      "聞起來有油耗味、油脂變質的味道或酸味",
+      "肉乾變軟、變黏或潮濕，不再是乾燥有韌性的口感",
+      "顏色異常，例如出現深色或偏綠的斑塊"
+    ],
+    "tips": [
+      "選瘦肉並把看得見的肥油全部修掉；油脂很快就會變質，是自製肉乾壞掉的主因",
+      "烘到折彎時會裂但不會斷成兩截的程度，表面的油用廚房紙巾吸乾",
+      "完全放涼再裝罐，避免容器內結水氣",
+      "分成小批保存，每批標上製作日期，先吃最舊的"
+    ],
+    "faq": [
+      {"q": "自製肉乾可以冷凍嗎？", "a": "可以，而且一次做很多時這是最好的方式。密封包裝後放 −18 °C 冷凍，幾個月內吃完風味最好。"},
+      {"q": "自製肉乾壞掉怎麼看？", "a": "看到黴斑、聞到油耗味或酸味，或是肉乾變軟變黏，就直接丟掉。自製肉乾沒有防腐劑，寧可保守一點。"},
+      {"q": "自製肉乾需要放冰箱嗎？", "a": "放陰涼櫥櫃或冰箱都可以保存 1 到 2 個月。冰箱比較保險，尤其是天氣濕熱，或肉乾沒有完全烘乾的時候。"}
+    ]
+  },
+  "ja": {
+    "name": "自家製ジャーキー",
+    "aliases": ["手作りジャーキー", "自家製干し肉", "自家製ビーフジャーキー", "手作り干し肉"],
+    "summary": "自家製ジャーキーは、オーブンや食品乾燥機、スモーカーで自分で干した肉のことです。家庭での乾燥は市販品ほど管理が行き届かないため、保存期間は短めで、常温で1〜2か月、冷蔵でも1〜2か月が目安です。たくさん作ったときは冷凍が一番確実です。",
+    "pantry": "しっかり乾燥させたジャーキーは、密閉容器やチャック付き袋に入れて涼しく暗い乾燥した場所に置けば1〜2か月保存できます。USDAの指針では、乾燥の前か後に肉を安全な中心温度（牛肉は74 °C、少なくとも71 °C）まで加熱し、「干しただけ」ではなく「火が通った」状態にすることが推奨されています。水分が残っていると日持ちが短くなるので、曲げても割れないものは冷蔵庫へ入れましょう。",
+    "fridge": "4 °C以下の冷蔵庫に入れると脂の酸化が遅くなり、同じ1〜2か月でも安全面に余裕が出ます。密閉容器か空気を抜いた袋に入れ、冷蔵庫のにおいや湿気を吸わないようにしてください。開け閉めは少なめにし、古いものから食べましょう。",
+    "freezer": "長く保存したいときは−18 °Cでの冷凍が最も安全です。真空パックにするか、小分けにして冷凍用袋の空気を抜き、日付を書いておきます。冷凍したジャーキーは安全面では長期間もちますが、風味は数か月以内がベストです。長く冷凍したものは香りが弱くなるだけで、安全上の問題ではありません。",
+    "thawing": "小分けにしたものは冷蔵庫か、室温に少し置くだけで戻ります。干した肉はすぐに温度が戻ります。解凍後は冷蔵庫で保存し、いつもどおり1〜2か月以内に食べきってください。",
+    "spoilage": [
+      "カビが見える（小さなふわふわでも、そのバッチごと捨てる）",
+      "油の酸化臭、古い油のようなにおい、酸っぱいにおいがする",
+      "乾いた革のような食感ではなく、やわらかくベタついたり湿っている",
+      "黒ずみや緑がかった斑点など、色がおかしい"
+    ],
+    "tips": [
+      "赤身の部位を選び、見える脂は全部取り除く。脂はすぐ酸化するので、自家製ジャーキーが傷む一番の原因になる",
+      "曲げるとひびが入るが二つに折れない程度まで乾燥させ、表面の油はキッチンペーパーで押さえて取る",
+      "完全に冷ましてから容器に入れ、内側に結露がつかないようにする",
+      "小分けにして保存し、それぞれに作った日を書いて古いものから食べる"
+    ],
+    "faq": [
+      {"q": "自家製ジャーキーは冷凍できますか？", "a": "できます。たくさん作ったときは冷凍が最適です。密閉して−18 °Cで冷凍し、風味のよい数か月以内に食べましょう。"},
+      {"q": "自家製ジャーキーが傷んでいるかどうかはどう見分けますか？", "a": "カビが見える、酸化臭や酸っぱいにおいがする、やわらかくベタついている場合は捨ててください。保存料が入っていないので、慎重に判断しましょう。"},
+      {"q": "自家製ジャーキーは冷蔵庫に入れる必要がありますか？", "a": "涼しい戸棚でも冷蔵庫でも1〜2か月保存できます。蒸し暑い時期や、乾燥が不十分なときは冷蔵庫の方が安心です。"}
+    ]
+  },
+  "es": {
+    "name": "Cecina o jerky casero",
+    "aliases": ["jerky casero", "carne seca casera", "carne deshidratada en casa", "charqui casero"],
+    "summary": "El jerky casero es carne que has secado tú mismo en un deshidratador, horno o ahumador. Como el secado en casa es menos controlado que el industrial, dura menos: aproximadamente 1 a 2 meses a temperatura ambiente y también 1 a 2 meses en el refrigerador. Congelar es la mejor manera de conservar un lote grande.",
+    "pantry": "El jerky bien seco, guardado en un frasco hermético o bolsa con cierre en un lugar fresco, oscuro y seco, dura 1 a 2 meses. Sigue las recomendaciones del USDA y calienta la carne a una temperatura interna segura (74 °C / 165 °F para res, o al menos 71 °C / 160 °F) antes o después del secado, para que esté cocida y no solo seca. Cualquier humedad restante acorta la vida útil: si los trozos se doblan sin agrietarse, mejor guárdalos en el refrigerador.",
+    "fridge": "Refrigerar a 4 °C (40 °F) o menos frena que la grasa se enrancie y te da el mismo margen de 1 a 2 meses con más seguridad. Usa un recipiente hermético o una bolsa sin aire para que el jerky no absorba olores ni humedad del refrigerador. Ábrelo lo menos posible y consume primero las piezas más antiguas.",
+    "freezer": "Para guardarlo más tiempo, congelar a −18 °C (0 °F) es la opción más segura. Envásalo al vacío o en bolsas pequeñas para congelar sin aire y etiquétalas con la fecha. El jerky congelado es seguro indefinidamente, aunque el sabor es mejor en los primeros meses; si lleva mucho tiempo congelado, tendrá menos aroma, pero no es un problema de seguridad.",
+    "thawing": "Descongela porciones pequeñas en el refrigerador o simplemente a temperatura ambiente durante un rato; la carne seca se atempera rápido. Una vez descongelado, mantenlo refrigerado y cómelo dentro de los 1 a 2 meses habituales.",
+    "spoilage": [
+      "Moho visible, aunque sea una pequeña mancha peluda: hay que desechar todo el lote",
+      "Olor rancio, a aceite viejo o agrio",
+      "Trozos blandos, pegajosos o húmedos en lugar de secos y correosos",
+      "Cambios de color inusuales, como zonas oscuras o verdosas"
+    ],
+    "tips": [
+      "Usa cortes magros y retira toda la grasa visible; la grasa se enrancia rápido y es la principal causa de que el jerky casero se eche a perder",
+      "Seca hasta que los trozos se agrieten al doblarlos pero no se partan; seca el aceite superficial con papel de cocina",
+      "Deja enfriar el jerky por completo antes de envasarlo para que no se forme condensación dentro del recipiente",
+      "Guárdalo en lotes pequeños y etiqueta cada uno con la fecha de secado para consumir primero el más antiguo"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el jerky casero?", "a": "Sí, y es la mejor opción para un lote grande. Envásalo herméticamente, congélalo a −18 °C (0 °F) y consúmelo en unos meses para disfrutar el mejor sabor."},
+      {"q": "¿Cómo saber si el jerky casero está malo?", "a": "Deséchalo si ves moho, si huele rancio o agrio, o si los trozos se han vuelto blandos y pegajosos. El jerky casero no lleva conservantes, así que es mejor ser precavido."},
+      {"q": "¿El jerky casero necesita refrigeración?", "a": "Dura 1 a 2 meses tanto en una despensa fresca como en el refrigerador. El refrigerador es la opción más segura, sobre todo con calor o humedad, o si el jerky no quedó completamente seco."}
+    ]
+  }
+}

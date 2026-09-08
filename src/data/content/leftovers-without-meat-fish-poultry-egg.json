@@ -1,0 +1,67 @@
+{
+  "slug": "leftovers-without-meat-fish-poultry-egg",
+  "en": {
+    "name": "Leftovers (no meat, fish, poultry or egg)",
+    "aliases": ["vegetarian leftovers", "cooked vegetables", "leftover rice", "leftover potatoes", "plant-based leftovers"],
+    "summary": "This covers cooked leftovers that contain no meat, fish, poultry or egg, such as roasted vegetables, rice, mashed potatoes or pasta with vegetable sauce. Refrigerated within 2 hours of cooking, they keep 3–4 days at 4 °C (40 °F) or below, and 1–2 months in the freezer for best quality.",
+    "pantry": "Cooked food should never sit out for more than 2 hours (1 hour if the room is above 32 °C / 90 °F). Bacteria multiply quickly in the 4–60 °C (40–140 °F) danger zone, and cooked rice and potatoes are not exceptions: spores that survive cooking can grow once the food cools. Divide large amounts into shallow containers so they chill fast, then refrigerate.",
+    "fridge": "Store in covered, shallow containers no more than 5 cm (2 in) deep so the centre cools quickly. Keep the fridge at 4 °C (40 °F) or below and use the leftovers within 3–4 days. Reheat to steaming hot, 74 °C (165 °F) throughout, and only reheat the portion you plan to eat.",
+    "freezer": "Portion into freezer bags or airtight containers, press out the air and freeze at −18 °C (0 °F). Quality is best within 1–2 months; food kept frozen stays safe beyond that but may become watery or mushy. Rice, cooked grains and stews freeze well; boiled potatoes and raw-textured salads turn grainy.",
+    "thawing": "Thaw overnight in the fridge, or reheat straight from frozen on the stove or in the microwave. Do not thaw on the counter.",
+    "spoilage": ["Sour or off smell when the lid is opened", "Slimy film or sticky surface on vegetables or rice", "Visible mould spots, fuzzy or coloured", "Container lid bulging or liquid that looks cloudy or bubbly"],
+    "tips": ["Label containers with the date so the 3–4 day window is easy to track", "Cool quickly: spread rice or vegetables on a tray before boxing them", "Freeze in single-meal portions so you only thaw what you need", "Keep the newest containers at the back and eat the oldest first"],
+    "faq": [
+      {"q": "Can you freeze vegetarian leftovers like rice and cooked vegetables?", "a": "Yes. Pack them airtight and freeze at −18 °C (0 °F); use within 1–2 months for the best texture. They remain safe for longer but may soften."},
+      {"q": "How long do leftovers without meat last in the fridge?", "a": "3–4 days at 4 °C (40 °F) or below, provided they were refrigerated within 2 hours of cooking."},
+      {"q": "Is it safe to leave cooked rice or vegetables out overnight?", "a": "No. Discard any cooked food left at room temperature for more than 2 hours. Cooked rice in particular can grow bacteria that reheating does not destroy."}
+    ]
+  },
+  "zh": {
+    "name": "剩菜（不含肉、魚、蛋）",
+    "aliases": ["素食剩菜", "隔夜菜", "剩飯", "隔夜飯", "剩菜剩飯"],
+    "summary": "這裡指不含肉類、魚類、家禽或蛋的熟食剩菜，例如炒青菜、白飯、馬鈴薯泥或蔬菜義大利麵。煮好後 2 小時內放進 4 °C 以下的冰箱，可冷藏 3～4 天；冷凍可保存 1～2 個月，之後風味會漸漸變差。",
+    "pantry": "熟食不能在室溫放超過 2 小時（室溫高於 32 °C 時只能 1 小時）。細菌在 4～60 °C 的危險溫度帶繁殖很快，白飯和馬鈴薯也不例外：耐熱的孢子在煮熟後仍可能存活，等食物放涼就開始增生。份量大時請分裝成淺盒，加速降溫後儘快冷藏。",
+    "fridge": "用有蓋的淺盒分裝，厚度不超過 5 公分，讓中心能快速冷卻。冰箱溫度維持在 4 °C 以下，3～4 天內吃完。復熱時要整體加熱到冒煙滾燙（中心 74 °C 以上），而且只加熱這一餐要吃的份量，避免反覆加熱。",
+    "freezer": "分裝進冷凍袋或密封盒，盡量壓出空氣，以 −18 °C 冷凍。1～2 個月內風味最好；持續冷凍仍然安全，但口感會變得出水或軟爛。白飯、雜糧飯和燉煮蔬菜很適合冷凍；水煮馬鈴薯和生菜類則容易變得粗糙鬆散。",
+    "thawing": "前一晚移到冷藏室解凍，或直接從冷凍狀態用爐火或微波爐加熱。不要放在流理台上自然解凍。",
+    "spoilage": ["打開蓋子有酸味或異味", "青菜或飯粒表面出現黏液、變得黏手", "出現絨毛狀或有顏色的黴點", "盒蓋鼓起，或湯汁混濁、冒泡"],
+    "tips": ["在保鮮盒上貼日期標籤，方便掌握 3～4 天的期限", "先把飯或青菜攤平在盤子上放涼，再裝盒冷藏", "以一餐的份量分裝冷凍，要吃多少就解凍多少", "新放進去的擺後面，先吃舊的（先進先出）"],
+    "faq": [
+      {"q": "剩飯和炒青菜可以冷凍嗎？", "a": "可以。密封後以 −18 °C 冷凍，1～2 個月內食用口感最好。放更久仍然安全，只是質地會變軟。"},
+      {"q": "不含肉的剩菜放冰箱可以放多久？", "a": "在 4 °C 以下可冷藏 3～4 天，前提是煮好後 2 小時內就放進冰箱。"},
+      {"q": "白飯或青菜放在室溫過夜還能吃嗎？", "a": "不建議。熟食在室溫超過 2 小時就應丟棄；尤其白飯可能滋生加熱也殺不死的細菌毒素。"}
+    ]
+  },
+  "ja": {
+    "name": "残り物（肉・魚・卵なし）",
+    "aliases": ["作り置き", "残りご飯", "野菜の残り物", "冷やご飯", "余った料理"],
+    "summary": "肉・魚・鶏肉・卵を含まない調理済みの残り物、たとえば野菜の炒め物、ご飯、マッシュポテト、野菜ソースのパスタなどが対象です。調理後2時間以内に4 °C以下の冷蔵庫へ入れれば3〜4日、冷凍なら1〜2か月がおいしく食べられる目安です。",
+    "pantry": "調理済みの食品は室温に2時間以上（室温が32 °Cを超えるときは1時間以上）置かないでください。4〜60 °Cの危険温度帯では細菌が急速に増え、ご飯やじゃがいもも例外ではありません。加熱に耐えた芽胞が、冷める過程で増殖することがあります。量が多いときは浅い容器に小分けして早く冷まし、すぐ冷蔵しましょう。",
+    "fridge": "ふた付きの浅い容器（深さ5 cm以下）に入れ、中心まで早く冷えるようにします。冷蔵庫は4 °C以下に保ち、3〜4日以内に食べ切ってください。温め直すときは全体が湯気の立つ熱さ（中心温度74 °C以上）になるまで加熱し、食べる分だけを温めるようにします。",
+    "freezer": "冷凍用保存袋か密閉容器に小分けし、空気を抜いて−18 °Cで冷凍します。1〜2か月以内が風味の目安で、それ以上凍らせても安全ですが水っぽくなったり食感が崩れたりします。ご飯や雑穀、煮込み野菜は冷凍向き。ゆでたじゃがいもや生野菜のサラダはぼそぼそになりやすいので注意してください。",
+    "thawing": "前日に冷蔵庫へ移して解凍するか、凍ったままコンロや電子レンジで加熱します。常温での自然解凍は避けてください。",
+    "spoilage": ["ふたを開けたときに酸っぱいにおいや異臭がする", "野菜やご飯の表面がぬるぬる・ねばねばしている", "白や色付きの綿状のカビが見える", "容器のふたが膨らんでいる、汁が濁っている・泡立っている"],
+    "tips": ["容器に日付を書いておくと3〜4日の期限を管理しやすい", "ご飯や野菜はバットに広げて粗熱を取ってから容器へ", "1食分ずつ冷凍すれば、必要な分だけ解凍できる", "新しい容器は奥、古いものを手前にして先に食べる"],
+    "faq": [
+      {"q": "残りご飯や野菜の残り物は冷凍できますか？", "a": "できます。密閉して−18 °Cで冷凍し、食感が良い1〜2か月以内に食べましょう。それ以上でも安全ですが、やわらかくなります。"},
+      {"q": "肉なしの残り物は冷蔵庫で何日もちますか？", "a": "調理後2時間以内に冷蔵した場合、4 °C以下で3〜4日が目安です。"},
+      {"q": "ご飯や野菜を常温で一晩置いても食べられますか？", "a": "おすすめしません。室温で2時間を超えた調理済み食品は処分してください。特にご飯は、加熱しても壊れない毒素を作る細菌が増えることがあります。"}
+    ]
+  },
+  "es": {
+    "name": "Sobras (sin carne, pescado, ave ni huevo)",
+    "aliases": ["sobras vegetarianas", "verduras cocidas", "arroz sobrante", "papas cocidas", "restos de comida"],
+    "summary": "Aquí hablamos de sobras cocinadas que no contienen carne, pescado, ave ni huevo: verduras asadas, arroz, puré de papas o pasta con salsa de vegetales. Si se refrigeran dentro de las 2 horas posteriores a la cocción, duran 3–4 días a 4 °C (40 °F) o menos, y 1–2 meses en el congelador con buena calidad.",
+    "pantry": "La comida cocinada nunca debe quedarse fuera más de 2 horas (1 hora si el ambiente supera los 32 °C / 90 °F). Las bacterias se multiplican rápido en la zona de peligro de 4–60 °C (40–140 °F), y el arroz y las papas cocidas no son la excepción: hay esporas que sobreviven a la cocción y crecen cuando la comida se enfría. Reparte las cantidades grandes en recipientes poco profundos para que se enfríen rápido y refrigera.",
+    "fridge": "Guarda las sobras en recipientes tapados y poco profundos (máximo 5 cm / 2 in) para que el centro se enfríe pronto. Mantén el refrigerador a 4 °C (40 °F) o menos y consúmelas en 3–4 días. Recalienta hasta que humeen, a 74 °C (165 °F) en el centro, y calienta solo la porción que vas a comer.",
+    "freezer": "Divide en bolsas o recipientes herméticos, saca el aire y congela a −18 °C (0 °F). La mejor calidad se mantiene 1–2 meses; después siguen siendo seguras, pero pueden quedar aguadas o blandas. El arroz, los granos cocidos y los guisos se congelan bien; las papas hervidas y las ensaladas quedan con textura arenosa.",
+    "thawing": "Descongela de un día para otro en el refrigerador, o recalienta directamente congelado en la estufa o el microondas. Nunca descongeles sobre la encimera.",
+    "spoilage": ["Olor agrio o extraño al abrir la tapa", "Capa viscosa o superficie pegajosa en las verduras o el arroz", "Puntos de moho visibles, con pelusa o de color", "Tapa abombada o líquido turbio o con burbujas"],
+    "tips": ["Etiqueta los recipientes con la fecha para controlar los 3–4 días", "Enfría rápido: extiende el arroz o las verduras en una bandeja antes de guardarlos", "Congela en porciones individuales para descongelar solo lo necesario", "Coloca lo más nuevo atrás y consume primero lo más antiguo"],
+    "faq": [
+      {"q": "¿Se pueden congelar las sobras vegetarianas como arroz y verduras cocidas?", "a": "Sí. Envásalas herméticamente y congélalas a −18 °C (0 °F); consúmelas en 1–2 meses para conservar la textura. Siguen siendo seguras más tiempo, pero se ablandan."},
+      {"q": "¿Cuánto duran las sobras sin carne en el refrigerador?", "a": "3–4 días a 4 °C (40 °F) o menos, siempre que se hayan refrigerado dentro de las 2 horas posteriores a la cocción."},
+      {"q": "¿Es seguro dejar arroz o verduras cocidas fuera toda la noche?", "a": "No. Desecha cualquier comida cocinada que haya pasado más de 2 horas a temperatura ambiente. El arroz cocido en particular puede desarrollar bacterias cuya toxina no se elimina al recalentar."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "cocoa-and-cocoa-mixes",
+  "en": {
+    "name": "Cocoa and cocoa mixes",
+    "aliases": ["cocoa powder", "drinking chocolate", "hot chocolate mix", "unsweetened cocoa"],
+    "summary": "Cocoa powder and instant cocoa mixes are dry, low-moisture products that keep very well in the cupboard. Once the tin or packet is opened, they stay at their best for about 1 year stored airtight in a cool, dry place. They rarely become unsafe — the flavour simply fades and clumps form if damp gets in.",
+    "pantry": "Keep cocoa in its tin or in an airtight jar in a cool, dark cupboard away from the stove and kettle steam; opened, it holds its quality for about 1 year. Cocoa is strongly aromatic and equally absorbent, so store it away from spices, coffee and anything with a strong smell. Always dip a dry spoon — even a little moisture makes hard lumps.",
+    "fridge": "Refrigeration is unnecessary and generally a bad idea, because condensation forms on cold powder every time you open the container. Cocoa mixes that contain milk powder are still shelf stable unopened; keep them dry rather than cold.",
+    "freezer": "Freezing brings no benefit for a dry powder and risks moisture damage. If you buy a large bulk bag, a double-sealed bag in the freezer is acceptable, but let it come fully to room temperature before opening.",
+    "thawing": null,
+    "spoilage": [
+      "Hard clumps or a solid crust from absorbed moisture",
+      "Faded, dusty or musty smell instead of a rich chocolate aroma",
+      "Mould specks, usually where water has dripped in",
+      "Rancid, soapy taste in mixes containing milk powder or fat"
+    ],
+    "tips": [
+      "Decant into an airtight glass jar and label it with the opening date",
+      "Sift cocoa before baking to break up any storage lumps",
+      "Keep the tin well away from the kettle, rice cooker and any steam source",
+      "Natural and Dutch-processed cocoa behave differently in recipes — label which you have"
+    ],
+    "faq": [
+      {"q": "How long does cocoa powder last after opening?", "a": "About 1 year at its best, stored airtight in a cool, dry cupboard. Older cocoa is usually still safe but tastes noticeably flatter."},
+      {"q": "How can you tell if cocoa has gone bad?", "a": "Look for hard clumps, mould specks or a musty smell. If it smells dusty rather than chocolatey, the flavour has faded and it is time to replace it."},
+      {"q": "Does cocoa need to be refrigerated?", "a": "No. Cold storage causes condensation, which clumps the powder. An airtight container in a cool, dry cupboard is best."}
+    ]
+  },
+  "zh": {
+    "name": "可可粉與可可沖泡粉",
+    "aliases": ["可可粉", "無糖可可粉", "熱可可粉", "巧克力沖泡粉", "朱古力粉"],
+    "summary": "可可粉和即溶可可沖泡粉都是含水量極低的乾燥品，放在櫥櫃裡很耐放。開封後密封放在陰涼乾燥處，大約 1 年內風味最佳。它很少會變得不安全，只是香氣會慢慢流失，受潮則會結塊。",
+    "pantry": "可可粉請放在原本的罐子或密封玻璃罐中，收在陰涼避光、遠離爐火和熱水蒸氣的櫥櫃，開封後品質大約可維持 1 年。可可香氣濃、吸味也強，要遠離香料、咖啡和任何味道重的東西。取用時務必用乾燥的湯匙，一點點水氣就會結成硬塊。",
+    "fridge": "不需要冷藏，而且通常是壞主意，因為每次打開容器，冷的粉末表面就會凝結水氣。含奶粉的可可沖泡粉未開封時一樣可以常溫保存，重點是保持乾燥而不是低溫。",
+    "freezer": "乾粉冷凍沒有任何好處，反而有受潮的風險。如果買的是大包裝，用雙層密封袋放冷凍是可以接受的，但取出後一定要完全回到室溫再開封。",
+    "thawing": null,
+    "spoilage": [
+      "受潮結成硬塊，或表面結成一層硬殼",
+      "香氣變淡，聞起來像灰塵或有霉味，不再有濃郁巧克力香",
+      "出現黴點，通常是有水滴進去造成",
+      "含奶粉或油脂的沖泡粉出現油耗味或肥皂味"
+    ],
+    "tips": [
+      "分裝到密封玻璃罐，並標上開封日期",
+      "烘焙前先過篩，把儲存期間結的小塊打散",
+      "罐子要遠離熱水瓶、電鍋等會冒蒸氣的地方",
+      "天然可可粉和鹼化可可粉在配方中表現不同，記得標示清楚"
+    ],
+    "faq": [
+      {"q": "可可粉開封後可以放多久？", "a": "密封放在陰涼乾燥的櫥櫃，大約 1 年內風味最好。更久通常還是安全的，但味道會明顯變淡。"},
+      {"q": "怎麼知道可可粉壞掉了？", "a": "看有沒有結硬塊或黴點，聞有沒有霉味。如果聞起來像灰塵而不是巧克力，代表香氣已經跑掉，該換新的了。"},
+      {"q": "可可粉需要冷藏嗎？", "a": "不需要。低溫會凝結水氣讓粉結塊。密封放在陰涼乾燥的櫥櫃最好。"}
+    ]
+  },
+  "ja": {
+    "name": "ココアパウダー・ココアミックス",
+    "aliases": ["ココア", "純ココア", "ミルクココア", "調整ココア", "ホットチョコレートの素"],
+    "summary": "ココアパウダーやインスタントのココアミックスは水分の少ない乾燥品で、戸棚でよく日持ちします。開封後は涼しく乾燥した場所に密閉して約1年がおいしさの目安です。危険な状態になることはまれで、風味が抜けたり、湿気で固まったりするのが主な変化です。",
+    "pantry": "缶のままか密閉瓶に入れて、コンロや湯気から離れた涼しく暗い戸棚で保存します。開封後は約1年が品質の目安です。ココアは香りが強い一方でにおいも吸いやすいので、スパイスやコーヒーなど香りの強いものから離してください。計量は必ず乾いたスプーンで。わずかな水分でも固まりの原因になります。",
+    "fridge": "冷蔵は不要で、たいてい逆効果です。容器を開けるたびに冷えた粉に結露が生じます。粉乳入りのココアミックスも未開封なら常温保存で問題ありません。冷やすより乾かすことが大切です。",
+    "freezer": "乾燥粉末を冷凍しても利点はなく、湿気による劣化のリスクだけが残ります。大袋を買った場合は二重密封で冷凍しても構いませんが、開封前に完全に室温へ戻してください。",
+    "thawing": null,
+    "spoilage": [
+      "湿気で固まっている、表面が固い層になっている",
+      "チョコレートの香りが抜け、ほこりっぽい・カビ臭いにおいがする",
+      "カビの斑点（水滴が入った場所に出やすい）",
+      "粉乳や油脂入りのミックスで古い油や石けんのような味がする"
+    ],
+    "tips": [
+      "密閉ガラス瓶に移し、開封日を書いておきましょう",
+      "焼き菓子に使う前にふるって固まりをほぐします",
+      "電気ポットや炊飯器など湯気の出る場所から離して保管を",
+      "ナチュラルとダッチプロセスは配合での挙動が違うので、種類を明記しましょう"
+    ],
+    "faq": [
+      {"q": "ココアパウダーは開封後どのくらい持ちますか？", "a": "涼しく乾燥した場所に密閉して約1年がおいしさの目安です。それ以降も安全なことが多いですが、風味は明らかに落ちます。"},
+      {"q": "ココアが傷んだか見分けるには？", "a": "固まりやカビの斑点、カビ臭さを確認してください。チョコレートの香りがせずほこりっぽければ買い替え時です。"},
+      {"q": "ココアは冷蔵が必要ですか？", "a": "不要です。冷やすと結露で固まります。密閉して涼しく乾燥した戸棚が最適です。"}
+    ]
+  },
+  "es": {
+    "name": "Cacao y mezclas de cacao",
+    "aliases": ["cacao en polvo", "cacao puro", "chocolate a la taza", "mezcla para chocolate caliente"],
+    "summary": "El cacao en polvo y las mezclas instantáneas son productos secos, con muy poca humedad, que se conservan muy bien en la despensa. Una vez abierto el bote o el sobre, mantienen su calidad alrededor de 1 año si se guardan herméticamente en un lugar fresco y seco. Rara vez se vuelven inseguros: el aroma se apaga y aparecen grumos si entra humedad.",
+    "pantry": "Guarda el cacao en su lata o en un tarro hermético, en un armario fresco y oscuro lejos de los fogones y del vapor del hervidor; abierto conserva su calidad alrededor de 1 año. El cacao es muy aromático y a la vez muy absorbente, así que manténlo lejos de especias, café y cualquier olor fuerte. Usa siempre una cuchara seca: un poco de humedad forma grumos duros.",
+    "fridge": "Refrigerar no es necesario y suele ser mala idea, porque se forma condensación sobre el polvo frío cada vez que abres el envase. Las mezclas con leche en polvo también son estables sin abrir; lo importante es mantenerlas secas, no frías.",
+    "freezer": "Congelar no aporta nada a un polvo seco y arriesga daños por humedad. Si compras una bolsa grande, congelarla con doble cierre es aceptable, pero deja que alcance del todo la temperatura ambiente antes de abrirla.",
+    "thawing": null,
+    "spoilage": [
+      "Grumos duros o una costra compacta por humedad absorbida",
+      "Aroma apagado, polvoriento o a moho en lugar de a chocolate",
+      "Puntos de moho, normalmente donde ha entrado agua",
+      "Sabor rancio o jabonoso en mezclas con leche en polvo o grasa"
+    ],
+    "tips": [
+      "Pásalo a un tarro de vidrio hermético y anota la fecha de apertura",
+      "Tamiza el cacao antes de hornear para deshacer los grumos del almacenaje",
+      "Mantén la lata lejos del hervidor, la arrocera o cualquier fuente de vapor",
+      "El cacao natural y el alcalinizado se comportan distinto: etiqueta cuál tienes"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el cacao en polvo una vez abierto?", "a": "Alrededor de 1 año en su mejor estado, guardado herméticamente en un armario fresco y seco. Más tarde suele seguir siendo seguro, pero sabe mucho más plano."},
+      {"q": "¿Cómo saber si el cacao está malo?", "a": "Busca grumos duros, puntos de moho o un olor a humedad. Si huele a polvo en vez de a chocolate, ha perdido el aroma y conviene reemplazarlo."},
+      {"q": "¿El cacao necesita refrigeración?", "a": "No. El frío genera condensación y apelmaza el polvo. Lo mejor es un recipiente hermético en un armario fresco y seco."}
+    ]
+  }
+}

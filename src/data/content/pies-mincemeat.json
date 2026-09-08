@@ -1,0 +1,107 @@
+{
+  "slug": "pies-mincemeat",
+  "en": {
+    "name": "Mincemeat pie",
+    "aliases": ["mince pie", "mince pies", "mincemeat tart", "Christmas mince pie", "fruit mince pie"],
+    "summary": "Mincemeat pie is filled with a spiced mixture of dried fruit, apple, sugar, suet or butter and often brandy; traditional versions also contain beef. Because the filling can include meat, animal fat and eggs in the pastry, treat it as perishable: no more than 2 hours at room temperature, about 1 week in the fridge, and 8 months in the freezer.",
+    "pantry": "Do not leave mincemeat pie out for more than 2 hours (1 hour above 32 °C / 90 °F). Even though the filling is sweet and high in sugar, the suet, meat or egg it may contain make it a food-safety risk once it sits in the danger zone of 4–60 °C (40–140 °F). Small commercially packaged mince pies with a best-before date can be kept in the pantry as labelled until opened.",
+    "fridge": "Once cool, cover the pie loosely with foil or store slices in an airtight container at 4 °C (40 °F) or below. It keeps about 1 week. The pastry softens in the fridge, so reheat slices in a hot oven for a few minutes; a splash of the filling's brandy keeps the flavour lively.",
+    "freezer": "Mincemeat pie freezes well for 8 months at −18 °C (0 °F), baked or unbaked. Wrap the cooled pie tightly in plastic wrap and foil or freeze individual small pies in a rigid container. Frozen pie stays safe beyond that; the timeline is for peak flavour. Bake small pies from frozen, adding a few extra minutes.",
+    "thawing": "Thaw a whole pie overnight in the fridge, or reheat from frozen in a 180 °C (350 °F) oven until piping hot. Do not thaw on the counter.",
+    "spoilage": [
+      "Mould on the pastry or filling",
+      "Rancid, tallow-like smell from the suet or fat",
+      "Sour or fermented odour beyond the usual spirits aroma",
+      "Soggy, greying pastry or a slimy, wet filling"
+    ],
+    "tips": [
+      "Check the label: pies with meat or suet need stricter handling than all-fruit versions",
+      "Cool completely on a rack before wrapping to keep the pastry crisp",
+      "Freeze in batches so you can reheat a few at a time over the holidays",
+      "Dust with icing sugar after reheating, not before storing"
+    ],
+    "faq": [
+      {"q": "Can you freeze mincemeat pie?", "a": "Yes. Tightly wrapped at −18 °C (0 °F), it keeps 8 months for best quality and can be reheated straight from frozen."},
+      {"q": "How long does mincemeat pie last in the fridge?", "a": "About 1 week at 4 °C (40 °F) or below, covered or in an airtight container."},
+      {"q": "Does mincemeat pie need to be refrigerated?", "a": "Yes, once baked or opened. Because the filling may contain suet or meat, it should not sit out for more than 2 hours."}
+    ]
+  },
+  "zh": {
+    "name": "百果餡派",
+    "aliases": ["英式百果派", "肉餡派", "mince pie", "聖誕百果派", "果乾餡派"],
+    "summary": "百果餡派（mince pie）的內餡是果乾、蘋果、糖、牛油或奶油加香料調成的，通常還加白蘭地，傳統版本甚至含牛肉。因為內餡可能有肉、動物油脂，派皮又含蛋，要當作容易腐壞的食物：室溫不超過 2 小時，冷藏約 1 週，冷凍 8 個月。",
+    "pantry": "百果餡派在室溫放置不可超過 2 小時（室溫超過 32°C 時只有 1 小時）。雖然內餡又甜又高糖，但可能含有的牛油、肉或蛋，一旦處在 4～60°C 的危險溫度帶就有食安風險。市售有標示效期的小顆包裝百果派，開封前可以依標示常溫存放。",
+    "fridge": "放涼後用鋁箔紙鬆鬆蓋住，或切片放進保鮮盒，冷藏在 4°C 以下，約可放 1 週。派皮冰過會變軟，吃之前用高溫烤箱回烤幾分鐘；灑一點白蘭地可以讓香氣更飽滿。",
+    "freezer": "百果餡派不論烤過或沒烤都很適合冷凍，在 −18°C 可放 8 個月。放涼的派用保鮮膜和鋁箔紙包緊，或把小顆的派放進硬盒子冷凍。超過期限仍然安全，8 個月是風味最佳期。小顆的派可以直接從冷凍狀態烘烤，時間多加幾分鐘。",
+    "thawing": "整顆派放冷藏室解凍一晚，或直接從冷凍用 180°C 烤箱加熱到中心滾燙。不要放在桌上退冰。",
+    "spoilage": [
+      "派皮或內餡長黴",
+      "牛油或油脂變質的油耗味、羊脂味",
+      "除了原本的酒香之外有酸味或發酵味",
+      "派皮濕軟發灰，或內餡黏滑出水"
+    ],
+    "tips": [
+      "看清楚成分：含肉或牛油的派比純果乾版本更需要小心處理",
+      "包起來之前先在網架上完全放涼，派皮才會保持酥脆",
+      "分批冷凍，過節期間想吃幾顆就烤幾顆",
+      "糖粉要回烤後再撒，不要在保存前撒"
+    ],
+    "faq": [
+      {"q": "百果餡派可以冷凍嗎？", "a": "可以。包緊放 −18°C 冷凍，8 個月內品質最好，可以直接從冷凍狀態回烤。"},
+      {"q": "百果餡派放冰箱可以放多久？", "a": "在 4°C 以下蓋好或放保鮮盒，大約可以放 1 週。"},
+      {"q": "百果餡派需要放冰箱嗎？", "a": "烤好或開封後要。因為內餡可能含牛油或肉，室溫放置不可超過 2 小時。"}
+    ]
+  },
+  "ja": {
+    "name": "ミンスパイ",
+    "aliases": ["ミンスミートパイ", "ミンスミート", "クリスマスパイ", "ドライフルーツパイ", "mince pie"],
+    "summary": "ミンスパイは、ドライフルーツ・りんご・砂糖・牛脂（スエット）またはバターにスパイスを効かせ、多くはブランデーを加えたフィリングのパイです。伝統的なものには牛肉も入ります。フィリングに肉や動物性脂肪、生地に卵が含まれることがあるため、傷みやすい食品として扱いましょう。常温は2時間まで、冷蔵で約1週間、冷凍で8か月です。",
+    "pantry": "ミンスパイは常温に2時間以上（32℃を超える環境では1時間以上）置かないでください。フィリングは甘くて糖分が高いものの、含まれることのあるスエット・肉・卵は、4〜60℃の危険温度帯に置くと食品安全上のリスクになります。賞味期限付きの市販の小型ミンスパイは、開封するまで表示どおり常温で保存できます。",
+    "fridge": "冷めたらアルミホイルを軽くかぶせるか、切り分けて密閉容器に入れ、4℃以下で保存します。日持ちは約1週間です。冷蔵するとパイ生地が柔らかくなるので、食べる前に熱いオーブンで数分温め直しましょう。ブランデーを少し振ると香りが引き立ちます。",
+    "freezer": "ミンスパイは焼く前でも焼いた後でも冷凍向きで、−18℃で8か月保存できます。冷ましたパイをラップとアルミホイルでしっかり包むか、小型のものは硬めの容器に入れて冷凍します。それ以上でも安全ですが、風味の目安は8か月です。小型のパイは凍ったまま焼き、時間を数分延ばしてください。",
+    "thawing": "ホールのパイは冷蔵庫で一晩かけて解凍するか、凍ったまま180℃のオーブンで中まで熱々になるまで温めます。室温での解凍は避けてください。",
+    "spoilage": [
+      "パイ生地やフィリングにカビ",
+      "スエットや脂が酸化した、獣脂のようなにおい",
+      "洋酒の香りとは違う酸っぱさや発酵臭",
+      "生地が湿って灰色っぽい、フィリングがぬるぬるして水っぽい"
+    ],
+    "tips": [
+      "原材料を確認：肉やスエット入りは、フルーツだけのものより慎重に扱う必要があります",
+      "包む前に網の上で完全に冷ますと生地がサクサクのまま",
+      "小分けにして冷凍すれば、年末年始に少しずつ温め直せます",
+      "粉砂糖は保存前ではなく、温め直した後に振る"
+    ],
+    "faq": [
+      {"q": "ミンスパイは冷凍できますか？", "a": "できます。しっかり包んで−18℃で冷凍すれば8か月はおいしく保て、凍ったまま温め直せます。"},
+      {"q": "ミンスパイは冷蔵庫で何日持ちますか？", "a": "4℃以下でふたをするか密閉容器に入れて、約1週間です。"},
+      {"q": "ミンスパイは冷蔵しないとだめですか？", "a": "焼いた後や開封後は必要です。フィリングにスエットや肉が入っていることがあるので、常温に2時間以上置かないでください。"}
+    ]
+  },
+  "es": {
+    "name": "Tarta de mincemeat",
+    "aliases": ["mince pie", "pastel de picadillo dulce", "tarta de frutas especiadas", "pastelito navideño inglés", "tarta de mincemeat con carne"],
+    "summary": "La tarta de mincemeat se rellena con una mezcla especiada de fruta seca, manzana, azúcar, sebo o mantequilla y a menudo brandy; las versiones tradicionales también llevan carne de vaca. Como el relleno puede contener carne y grasa animal, y la masa huevo, trátala como perecedera: no más de 2 horas a temperatura ambiente, alrededor de 1 semana en la nevera y 8 meses en el congelador.",
+    "pantry": "No dejes la tarta de mincemeat fuera más de 2 horas (1 hora si hace más de 32 °C / 90 °F). Aunque el relleno es dulce y con mucho azúcar, el sebo, la carne o el huevo que puede llevar suponen un riesgo en cuanto pasa tiempo en la zona de peligro de 4–60 °C (40–140 °F). Los mince pies pequeños envasados con fecha de consumo preferente pueden guardarse en la despensa según la etiqueta hasta abrirlos.",
+    "fridge": "Una vez fría, cubre la tarta sin apretar con papel de aluminio o guarda las porciones en un recipiente hermético a 4 °C (40 °F) o menos. Dura alrededor de 1 semana. La masa se ablanda en la nevera, así que recalienta las porciones unos minutos en el horno caliente; un chorrito de brandy realza el sabor.",
+    "freezer": "La tarta de mincemeat se congela bien durante 8 meses a −18 °C (0 °F), horneada o sin hornear. Envuelve la tarta fría bien apretada en film y aluminio, o congela los pastelitos individuales en un recipiente rígido. Sigue siendo segura después; el plazo es para el mejor sabor. Hornea los pastelitos directamente congelados añadiendo unos minutos.",
+    "thawing": "Descongela una tarta entera en la nevera durante la noche, o recaliéntala directamente congelada en el horno a 180 °C (350 °F) hasta que esté muy caliente. No la descongeles en la encimera.",
+    "spoilage": [
+      "Moho en la masa o el relleno",
+      "Olor rancio, a sebo, de la grasa envejecida",
+      "Olor agrio o fermentado más allá del aroma habitual a licor",
+      "Masa empapada y grisácea o relleno viscoso y húmedo"
+    ],
+    "tips": [
+      "Lee la etiqueta: las tartas con carne o sebo exigen más cuidado que las que solo llevan fruta",
+      "Enfría por completo sobre una rejilla antes de envolver para que la masa siga crujiente",
+      "Congela por tandas para recalentar unos pocos cada vez durante las fiestas",
+      "Espolvorea el azúcar glas después de recalentar, no antes de guardar"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la tarta de mincemeat?", "a": "Sí. Bien envuelta a −18 °C (0 °F), dura 8 meses con la mejor calidad y puede recalentarse directamente congelada."},
+      {"q": "¿Cuánto dura la tarta de mincemeat en la nevera?", "a": "Alrededor de 1 semana a 4 °C (40 °F) o menos, tapada o en un recipiente hermético."},
+      {"q": "¿La tarta de mincemeat necesita refrigeración?", "a": "Sí, una vez horneada o abierta. Como el relleno puede llevar sebo o carne, no debe estar fuera más de 2 horas."}
+    ]
+  }
+}

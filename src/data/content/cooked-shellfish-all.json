@@ -1,0 +1,107 @@
+{
+  "slug": "cooked-shellfish-all",
+  "en": {
+    "name": "Cooked shellfish (all types)",
+    "aliases": ["cooked seafood", "leftover shellfish", "cooked shrimp", "cooked crab", "steamed mussels", "cooked prawns"],
+    "summary": "Cooked shellfish of any kind, from shrimp and crab to mussels, clams, scallops and lobster, keeps 3–4 days in the fridge and 1–3 months in the freezer from purchase. Chill it quickly and reheat gently to keep the texture pleasant.",
+    "pantry": "Cooked shellfish is perishable and must not sit at room temperature. Refrigerate leftovers within 2 hours of cooking, or within 1 hour if the room is above 32 °C (90 °F). At parties, keep platters of cooked shrimp or crab on ice and replace them rather than topping them up.",
+    "fridge": "Store cooked shellfish at or below 4 °C (40 °F) in a shallow airtight container so it cools quickly, and eat it within 3–4 days. Keep it in the coldest part of the fridge, away from raw seafood or meat. Cooked shellfish still in the shell, such as mussels or crab, follows the same 3–4 day rule.",
+    "freezer": "Freeze cooked shellfish at −18 °C (0 °F) for 1–3 months for best quality. Pack it in freezer bags with the air pressed out or in airtight containers, in single-meal portions; shrimp and scallops can be spread on a tray to freeze individually first. It stays safe beyond 3 months but tends to become rubbery or dry.",
+    "thawing": "Thaw cooked shellfish in the fridge overnight or in a sealed bag in cold water. It can also go straight from frozen into soups, stews or stir-fries. Never thaw at room temperature, and reheat only until hot through.",
+    "spoilage": [
+      "Sour, ammonia-like or strongly fishy odour",
+      "Slimy or sticky surface on the meat",
+      "Grey, dull or greenish colour instead of the bright opaque colour of fresh-cooked shellfish",
+      "Mushy or dried-out texture after storage"
+    ],
+    "tips": [
+      "Cool leftovers fast by spreading them in a shallow container before refrigerating",
+      "Label containers with the date so the 3–4 day window is easy to track",
+      "Freeze in small portions and add straight to hot dishes to avoid overcooking",
+      "Remove shellfish from sauces or dressings before freezing if you can; creamy sauces separate when thawed"
+    ],
+    "faq": [
+      {"q": "Can you freeze cooked shellfish?", "a": "Yes. Pack it airtight in meal-sized portions and freeze at −18 °C (0 °F); it keeps best quality for 1–3 months."},
+      {"q": "How long does cooked shellfish last in the fridge?", "a": "3–4 days at or below 4 °C (40 °F) in an airtight container, whether it is shrimp, crab, mussels, scallops or lobster."},
+      {"q": "How can you tell if cooked shellfish has gone bad?", "a": "A sour or ammonia smell, slimy surface or grey, mushy meat all mean it should be discarded."}
+    ]
+  },
+  "zh": {
+    "name": "熟海鮮貝類（各種）",
+    "aliases": ["熟海鮮", "剩下的海鮮", "熟蝦", "熟蟹", "煮熟的淡菜", "熟蛤蜊", "熟干貝"],
+    "summary": "各種煮熟的貝類和甲殼類，從蝦子、螃蟹到淡菜、蛤蜊、干貝和龍蝦，冷藏可放 3～4 天，冷凍自購買日起可放 1～3 個月。快速冷卻、小火加熱，口感才會好。",
+    "pantry": "熟海鮮是生鮮食品，不能放在室溫。煮好後 2 小時內要冷藏，室溫高於 32 °C 時 1 小時內。宴客時，熟蝦或蟹肉拼盤要放在冰上，吃完換新盤而不是往上補。",
+    "fridge": "用淺的密封盒裝好，讓它快速冷卻，放在 4 °C 以下冷藏，3～4 天內吃完。放在冰箱最冷的位置，遠離生海鮮或生肉。帶殼的熟海鮮，例如淡菜或螃蟹，同樣適用 3～4 天的原則。",
+    "freezer": "在 −18 °C 下冷凍 1～3 個月品質最佳。用冷凍袋壓出空氣或用密封盒，依一餐的份量分裝；蝦子和干貝可以先攤在盤子上單獨凍硬再裝袋。超過 3 個月仍然安全，但容易變韌或變乾。",
+    "thawing": "放冷藏室解凍一晚，或連密封袋泡冷水。也可以直接冷凍狀態下加進湯、燉菜或熱炒。不要在室溫下解凍，加熱到熱透即可，不要煮過頭。",
+    "spoilage": [
+      "有酸味、氨味或濃烈腥味",
+      "肉的表面黏滑",
+      "顏色變灰、黯淡或帶綠色，失去剛煮好時鮮亮不透明的色澤",
+      "存放後變得軟爛或乾柴"
+    ],
+    "tips": [
+      "剩菜先攤平放在淺盒裡快速降溫，再放冰箱",
+      "容器標上日期，方便掌握 3～4 天的期限",
+      "分成小份冷凍，直接加進熱菜裡，就不會煮過頭",
+      "可以的話，冷凍前把海鮮從醬汁或沙拉醬裡取出，奶油類醬汁解凍後會油水分離"
+    ],
+    "faq": [
+      {"q": "熟海鮮可以冷凍嗎？", "a": "可以。依一餐份量密封包好，放 −18 °C 冷凍，1～3 個月內品質最佳。"},
+      {"q": "熟海鮮放冰箱可以放多久？", "a": "不論是蝦、蟹、淡菜、干貝或龍蝦，冷藏 4 °C 以下、密封保存，可放 3～4 天。"},
+      {"q": "熟海鮮壞掉怎麼分辨？", "a": "有酸味或氨味、表面黏滑、肉變灰或軟爛，就該丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "加熱済みの魚介・貝類（全般）",
+    "aliases": ["調理済みシーフード", "魚介の残り", "ゆでエビ", "ゆでガニ", "蒸しムール貝", "加熱した貝", "ボイルほたて"],
+    "summary": "エビやカニ、ムール貝、あさり、ほたて、ロブスターなど、加熱済みの魚介・貝類は冷蔵で3〜4日、冷凍では購入から1〜3か月が目安です。素早く冷まし、温め直しは控えめにすると食感を保てます。",
+    "pantry": "加熱済みの魚介は傷みやすく、常温に置けません。調理後2時間以内（室温32 °C超なら1時間以内）に冷蔵庫へ入れてください。パーティーでは、ゆでエビやカニの盛り合わせを氷の上に置き、足すのではなく皿ごと取り替えましょう。",
+    "fridge": "浅い密閉容器に入れて早く冷めるようにし、4 °C以下で冷蔵して3〜4日以内に食べます。庫内の最も冷える場所に置き、生の魚介や肉から離してください。ムール貝やカニなど殻付きの加熱済み魚介も同じ3〜4日が目安です。",
+    "freezer": "−18 °Cで1〜3か月がおいしさの目安です。冷凍用保存袋に入れて空気を抜くか密閉容器を使い、1食分ずつ小分けにします。エビやほたてはトレーに広げてバラ凍結してから袋に入れると便利です。3か月を過ぎても安全ですが、ゴムのように硬くなったり乾いたりしやすくなります。",
+    "thawing": "冷蔵庫で一晩かけて解凍するか、密封袋のまま冷水に浸けます。凍ったままスープや煮込み、炒め物に加えても構いません。室温では解凍せず、温め直しは中まで熱くなる程度にとどめます。",
+    "spoilage": [
+      "酸っぱいにおい、アンモニア臭、強い生臭さ",
+      "身の表面がぬるぬる・べたべたする",
+      "加熱直後の鮮やかで不透明な色ではなく、灰色・くすんだ色・緑がかった色になっている",
+      "保存後にぐずぐずになる、または乾いてパサつく"
+    ],
+    "tips": [
+      "残りは浅い容器に広げて素早く冷ましてから冷蔵庫へ",
+      "容器に日付を書いておくと3〜4日の目安を管理しやすい",
+      "小分けにして冷凍し、熱い料理に直接加えると加熱しすぎを防げる",
+      "できればソースやドレッシングから魚介を取り出して冷凍する（クリーム系ソースは解凍で分離しやすい）"
+    ],
+    "faq": [
+      {"q": "加熱済みの魚介は冷凍できますか？", "a": "できます。1食分ずつ密閉して−18 °Cで冷凍すれば、1〜3か月はおいしく食べられます。"},
+      {"q": "加熱済みの魚介は冷蔵庫でどのくらい持ちますか？", "a": "エビ・カニ・ムール貝・ほたて・ロブスターのいずれも、4 °C以下で密閉保存して3〜4日です。"},
+      {"q": "加熱した魚介が傷んでいるかどうかの見分け方は？", "a": "酸っぱいにおいやアンモニア臭、表面のぬめり、灰色でぐずぐずした身は処分のサインです。"}
+    ]
+  },
+  "es": {
+    "name": "Mariscos cocidos (todos los tipos)",
+    "aliases": ["marisco cocido", "sobras de marisco", "camarones cocidos", "gambas cocidas", "cangrejo cocido", "mejillones al vapor", "vieiras cocidas"],
+    "summary": "Los mariscos cocidos de cualquier tipo, desde camarones y cangrejo hasta mejillones, almejas, vieiras y langosta, duran 3–4 días en el refrigerador y 1–3 meses en el congelador desde la compra. Enfríalos rápido y recaliéntalos con suavidad para conservar una buena textura.",
+    "pantry": "El marisco cocido es perecedero y no debe quedarse a temperatura ambiente. Refrigera las sobras en las 2 horas siguientes a cocinarlo, o en 1 hora si hace más de 32 °C (90 °F). En fiestas, mantén las bandejas de camarones o cangrejo sobre hielo y cámbialas por otras nuevas en vez de rellenarlas.",
+    "fridge": "Guarda el marisco cocido a 4 °C (40 °F) o menos en un recipiente hermético poco profundo para que se enfríe rápido, y cómelo en 3–4 días. Colócalo en la zona más fría del refrigerador, lejos de pescado o carne crudos. El marisco cocido con concha, como mejillones o cangrejo, sigue la misma regla de 3–4 días.",
+    "freezer": "Congela el marisco cocido a −18 °C (0 °F) durante 1–3 meses para la mejor calidad. Envásalo en bolsas de congelación sin aire o en recipientes herméticos, en porciones de una comida; los camarones y vieiras pueden congelarse primero extendidos en una bandeja para que queden sueltos. Sigue siendo seguro pasados los 3 meses, pero tiende a quedar gomoso o seco.",
+    "thawing": "Descongela el marisco cocido en el refrigerador durante la noche o en una bolsa cerrada dentro de agua fría. También puede ir directo del congelador a sopas, guisos o salteados. Nunca lo descongeles a temperatura ambiente y recaliéntalo solo hasta que esté bien caliente.",
+    "spoilage": [
+      "Olor agrio, a amoníaco o muy fuerte a pescado",
+      "Superficie viscosa o pegajosa en la carne",
+      "Color gris, apagado o verdoso en lugar del color vivo y opaco del marisco recién cocido",
+      "Textura pastosa o reseca tras el almacenamiento"
+    ],
+    "tips": [
+      "Enfría las sobras rápido extendiéndolas en un recipiente poco profundo antes de refrigerar",
+      "Etiqueta los recipientes con la fecha para controlar los 3–4 días",
+      "Congela en porciones pequeñas y añádelas directamente a platos calientes para no recocerlas",
+      "Si puedes, saca el marisco de las salsas o aliños antes de congelar; las salsas cremosas se cortan al descongelar"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el marisco cocido?", "a": "Sí. Envásalo hermético en porciones de una comida y congélalo a −18 °C (0 °F); mantiene su mejor calidad 1–3 meses."},
+      {"q": "¿Cuánto dura el marisco cocido en el refrigerador?", "a": "3–4 días a 4 °C (40 °F) o menos en un recipiente hermético, ya sean camarones, cangrejo, mejillones, vieiras o langosta."},
+      {"q": "¿Cómo saber si el marisco cocido está malo?", "a": "Un olor agrio o a amoníaco, la superficie viscosa o la carne gris y pastosa indican que hay que tirarlo."}
+    ]
+  }
+}

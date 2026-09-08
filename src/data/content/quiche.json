@@ -1,0 +1,107 @@
+{
+  "slug": "quiche",
+  "en": {
+    "name": "Quiche",
+    "aliases": ["egg tart pie", "savoury egg tart", "quiche Lorraine", "egg custard pie"],
+    "summary": "Quiche is a savoury pastry tart filled with a baked egg-and-cream custard, often with bacon, cheese or vegetables. Because it is an egg dish it is perishable: it must not sit at room temperature for more than 2 hours, keeps 3–5 days in the fridge after cutting or opening, and freezes for 2–3 months.",
+    "pantry": "Quiche is not a pantry food. Cooked quiche follows the 2-hour rule: after 2 hours at room temperature (1 hour if the room is above 32 °C/90 °F) the egg custard sits in the danger zone of 4–60 °C (40–140 °F) and should be discarded. Serve it warm or at room temperature for a meal, then refrigerate the leftovers promptly.",
+    "fridge": "Cool quiche to room temperature, cover it tightly or transfer slices to a container, and refrigerate at 4 °C (40 °F) or below for 3–5 days. Do not leave it uncovered — the custard dries and the pastry absorbs fridge odours. Reheat leftovers to steaming hot in a 175 °C (350 °F) oven rather than the microwave, which makes the crust soggy.",
+    "freezer": "Quiche freezes well for 2–3 months at −18 °C (0 °F). Freeze it fully baked and cooled, wrapped in plastic and then foil, either whole or in individual slices. Fillings with a lot of watery vegetables, such as courgette or tomato, weep on thawing, so pre-cook and drain them well before baking.",
+    "thawing": "Thaw quiche overnight in the fridge, never on the counter. You can also reheat it from frozen in a 175 °C (350 °F) oven for 25–35 minutes, covering the edges with foil so the pastry does not burn.",
+    "spoilage": [
+      "Sour, sulphurous or ammonia-like smell from the egg filling",
+      "Mould on the crust or on the surface of the custard",
+      "Watery liquid pooling in the tin or a slimy filling",
+      "Filling that has turned grey, dull or discoloured"
+    ],
+    "tips": [
+      "Refrigerate leftovers within 2 hours of serving, cut into portions so they cool fast",
+      "Freeze individual slices for easy single portions",
+      "Label the container with the baking date rather than the purchase date",
+      "Reheat to 74 °C (165 °F) in the centre for the best texture and safety"
+    ],
+    "faq": [
+      {"q": "Can you freeze quiche?", "a": "Yes. Bake it, cool it, wrap it airtight and freeze at −18 °C (0 °F) for 2–3 months. Reheat from frozen at 175 °C (350 °F) or thaw in the fridge first."},
+      {"q": "How long does quiche last in the fridge?", "a": "3–5 days at 4 °C (40 °F) or below, kept covered. Refrigerate it within 2 hours of coming out of the oven."},
+      {"q": "Does quiche need to be refrigerated?", "a": "Yes. It is an egg-and-dairy custard, so leftovers must go in the fridge and should not sit out longer than 2 hours (1 hour above 32 °C/90 °F)."}
+    ]
+  },
+  "zh": {
+    "name": "鹹派（法式鹹派）",
+    "aliases": ["法式鹹派", "鹹蛋塔", "洛林鹹派", "quiche", "蛋奶鹹派"],
+    "summary": "鹹派是用酥皮包著蛋液和鮮奶油烤成的鹹點，通常會加培根、起司或蔬菜。因為主體是蛋，屬於易腐食品：室溫放置不可超過 2 小時，切開或開封後冷藏可放 3～5 天，冷凍則可保存 2～3 個月。",
+    "pantry": "鹹派不是常溫保存的食物。烤好的鹹派適用兩小時原則：室溫放超過 2 小時（室溫高於 32°C 時只有 1 小時），蛋奶餡就會落在 4～60°C 的危險溫度帶，應該丟棄。上桌時可以吃溫的或常溫的，吃完要盡快把剩下的放冰箱。",
+    "fridge": "放涼到不燙手後密封包好，或把切片放進保鮮盒，冷藏在 4°C 以下可放 3～5 天。不要不加蓋直接放，蛋奶餡會變乾、派皮還會吸到冰箱異味。回熱建議用 175°C 烤箱加熱到冒熱氣，比微波更能保住酥皮口感。",
+    "freezer": "鹹派可以放 −18°C 冷凍 2～3 個月。要完全烤熟放涼後，用保鮮膜加鋁箔紙包好，整個或切片冷凍都可以。內餡如果有櫛瓜、番茄這類含水量高的蔬菜，解凍後會出水，建議烤之前先炒過並瀝乾。",
+    "thawing": "放冷藏室退冰一晚，絕對不要放在室溫。也可以不解凍直接用 175°C 烤 25～35 分鐘，派皮邊緣蓋鋁箔紙避免烤焦。",
+    "spoilage": [
+      "蛋餡發出酸味、硫磺味或阿摩尼亞般的刺鼻味",
+      "派皮或蛋餡表面長黴",
+      "模具裡積水，或內餡摸起來黏滑",
+      "內餡顏色變灰、變暗或不正常"
+    ],
+    "tips": [
+      "上桌後 2 小時內把剩下的冷藏，先切成小塊會降溫得更快",
+      "切片分開冷凍，方便一次加熱一人份",
+      "容器上寫的是烘烤日期，不是購買日期",
+      "回熱時中心加熱到 74°C，口感和安全性都最好"
+    ],
+    "faq": [
+      {"q": "鹹派可以冷凍嗎？", "a": "可以。烤熟放涼、密封後放 −18°C 冷凍 2～3 個月。可以冷凍直接用 175°C 回烤，或先在冷藏室退冰。"},
+      {"q": "鹹派放冰箱可以放多久？", "a": "密封冷藏在 4°C 以下可放 3～5 天。出爐後 2 小時內就要放進冰箱。"},
+      {"q": "鹹派需要冷藏嗎？", "a": "需要。它是蛋奶製品，吃剩的一定要冷藏，室溫放置不要超過 2 小時（超過 32°C 時只有 1 小時）。"}
+    ]
+  },
+  "ja": {
+    "name": "キッシュ",
+    "aliases": ["キッシュ・ロレーヌ", "たまごのタルト", "キッシュパイ", "惣菜タルト"],
+    "summary": "キッシュは、卵と生クリームのアパレイユをタルト生地に流して焼いた惣菜タルトで、ベーコンやチーズ、野菜が入ります。卵料理なので傷みやすく、室温に置けるのは2時間まで。切ったあとは冷蔵で3〜5日、冷凍なら2〜3か月保存できます。",
+    "pantry": "キッシュは常温保存の食品ではありません。焼き上がったキッシュには2時間ルールが適用され、室温に2時間（32℃を超える環境では1時間）を超えて置いたものは、4〜60℃の危険温度帯にあったことになるため処分してください。食事のときは温かいか常温で出し、残りはすぐ冷蔵しましょう。",
+    "fridge": "粗熱を取ってからしっかり包むか、切り分けて保存容器に入れ、4℃以下で3〜5日保存します。ふたをしないとアパレイユが乾き、生地が冷蔵庫のにおいを吸ってしまいます。温め直しは電子レンジより175℃のオーブンのほうが、生地がべたつかず湯気が立つまでしっかり温まります。",
+    "freezer": "キッシュは−18℃で2〜3か月冷凍できます。完全に焼いて冷ましてから、ラップとアルミホイルで包み、ホールでも1切れずつでもかまいません。ズッキーニやトマトなど水分の多い野菜は解凍時に水が出るので、焼く前に炒めて水気を切っておきましょう。",
+    "thawing": "冷蔵庫で一晩解凍します。室温での解凍は避けてください。凍ったまま175℃のオーブンで25〜35分温めることもできます。その際は縁が焦げないようアルミホイルをかぶせてください。",
+    "spoilage": [
+      "卵の具から酸っぱいにおい、硫黄臭、アンモニア臭がする",
+      "生地やアパレイユの表面にカビが出ている",
+      "型に水分がたまっている、具がぬめっている",
+      "具の色が灰色っぽく、くすんで変色している"
+    ],
+    "tips": [
+      "食後2時間以内に冷蔵へ。切り分けておくと早く冷えます",
+      "1切れずつ冷凍しておくと1人分ずつ温められます",
+      "容器には購入日ではなく焼いた日を書きましょう",
+      "温め直しは中心が74℃になるまで。食感も安全性も安定します"
+    ],
+    "faq": [
+      {"q": "キッシュは冷凍できますか？", "a": "できます。焼いて冷まし密閉して−18℃で2〜3か月。凍ったまま175℃で温め直すか、冷蔵庫で解凍してください。"},
+      {"q": "キッシュは冷蔵庫でどのくらい持ちますか？", "a": "ふたをして4℃以下で3〜5日です。焼き上がりから2時間以内に冷蔵してください。"},
+      {"q": "キッシュは冷蔵が必要ですか？", "a": "必要です。卵と乳製品のカスタードなので、残りは必ず冷蔵し、室温には2時間（32℃超なら1時間）以上置かないでください。"}
+    ]
+  },
+  "es": {
+    "name": "Quiche",
+    "aliases": ["quiche lorraine", "tarta salada de huevo", "pastel salado", "tarta de huevo y nata"],
+    "summary": "La quiche es una tarta salada de masa quebrada rellena de una crema horneada de huevo y nata, a menudo con bacon, queso o verduras. Al ser un plato de huevo es perecedero: no debe estar más de 2 horas a temperatura ambiente, dura 3–5 días en la nevera una vez cortada y se congela 2–3 meses.",
+    "pantry": "La quiche no es un alimento de despensa. Una vez horneada se aplica la regla de las 2 horas: pasadas 2 horas a temperatura ambiente (1 hora si supera los 32 °C/90 °F) el relleno ha estado en la zona de peligro de 4–60 °C (40–140 °F) y debe desecharse. Sírvela tibia o a temperatura ambiente y refrigera las sobras enseguida.",
+    "fridge": "Deja que se temple, tápala bien o pasa las porciones a un recipiente y refrigérala a 4 °C (40 °F) o menos durante 3–5 días. No la dejes destapada: el relleno se reseca y la masa absorbe olores. Recalienta en horno a 175 °C (350 °F) hasta que humee, mejor que en el microondas, que reblandece la masa.",
+    "freezer": "La quiche se congela bien 2–3 meses a −18 °C (0 °F). Congélala ya horneada y fría, envuelta en film y después en papel de aluminio, entera o en porciones. Los rellenos con verduras acuosas, como calabacín o tomate, sueltan agua al descongelar, así que saltéalas y escúrrelas bien antes de hornear.",
+    "thawing": "Descongélala en la nevera durante la noche, nunca en la encimera. También puedes recalentarla congelada a 175 °C (350 °F) durante 25–35 minutos, cubriendo los bordes con aluminio para que la masa no se queme.",
+    "spoilage": [
+      "Olor agrio, sulfuroso o amoniacal del relleno de huevo",
+      "Moho en la masa o en la superficie del relleno",
+      "Líquido acumulado en el molde o relleno viscoso",
+      "Relleno de color grisáceo, apagado o descolorido"
+    ],
+    "tips": [
+      "Refrigera las sobras en menos de 2 horas, cortadas en porciones para que se enfríen rápido",
+      "Congela porciones individuales para raciones de una persona",
+      "Etiqueta el recipiente con la fecha de horneado, no la de compra",
+      "Recaliéntala hasta 74 °C (165 °F) en el centro para mejor textura y seguridad"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la quiche?", "a": "Sí. Hornéala, déjala enfriar, envuélvela herméticamente y congélala a −18 °C (0 °F) durante 2–3 meses. Recaliéntala congelada a 175 °C (350 °F) o descongélala antes en la nevera."},
+      {"q": "¿Cuánto dura la quiche en la nevera?", "a": "3–5 días a 4 °C (40 °F) o menos, bien tapada. Guárdala en frío dentro de las 2 horas siguientes a sacarla del horno."},
+      {"q": "¿La quiche necesita refrigeración?", "a": "Sí. Es una crema de huevo y lácteos, así que las sobras van a la nevera y no deben estar fuera más de 2 horas (1 hora por encima de 32 °C/90 °F)."}
+    ]
+  }
+}

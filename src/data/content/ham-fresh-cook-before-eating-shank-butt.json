@@ -1,0 +1,107 @@
+{
+  "slug": "ham-fresh-cook-before-eating-shank-butt",
+  "en": {
+    "name": "Ham, cook-before-eating, shank or butt portion",
+    "aliases": ["shank portion ham", "butt portion ham", "ham portion", "bone-in ham portion", "uncooked ham portion"],
+    "summary": "Shank and butt portions are the two ends of a bone-in ham, sold separately after the centre slices have been removed; when labelled \"cook before eating\" they are cured but not fully cooked. Refrigerate for no more than 1 week from purchase, or freeze for 1–2 months for best quality, and always cook the ham through before serving.",
+    "pantry": "Ham portions are raw meat and cannot be stored at room temperature. Limit time out of the fridge to 2 hours in total (1 hour above 32 °C / 90 °F), including thawing and preparation. Curing improves keeping quality but does not make the meat shelf-stable.",
+    "fridge": "Store the portion in its original wrapping at or below 4 °C (40 °F) on the bottom shelf, over a tray to catch any juices. Cook it within 1 week of purchase and before the printed date. Ham portions have two exposed cut faces, so keep them tightly covered to stop the meat drying out.",
+    "freezer": "Wrap the whole portion in freezer film, then a freezer bag or heavy foil, pressing out as much air as possible, and freeze at −18 °C (0 °F). Frozen at that temperature it stays safe indefinitely, but for best flavour and texture cook it within 1–2 months.",
+    "thawing": "Thaw in the fridge, allowing about 24 hours per 2 kg (4–5 lb); a portion usually needs 1–2 days. If you are short of time, submerge it in cold water in a leak-proof bag, change the water every 30 minutes and cook it straight away. Never thaw at room temperature.",
+    "spoilage": [
+      "Sour or rotten smell, most noticeable at the cut faces and bone",
+      "Slimy, sticky or tacky surface",
+      "Grey, green or dark brown patches instead of an even pink",
+      "Dry, darkened areas or mould where the wrapping came loose"
+    ],
+    "tips": [
+      "Shank portions have one long bone and are easier to carve; butt portions are meatier but contain the awkward aitch bone.",
+      "Cook to 63 °C (145 °F) internal temperature and rest 3 minutes before slicing.",
+      "Cured cook-before-eating ham can be salty; check the label if you want a lower-sodium option.",
+      "Freeze cooked leftovers within 2 hours in meal-sized portions."
+    ],
+    "faq": [
+      {"q": "Can you freeze a shank or butt portion ham?", "a": "Yes. Wrap it well and freeze at −18 °C (0 °F). It stays safe indefinitely but is best cooked within 1–2 months."},
+      {"q": "How long does a ham portion last in the fridge?", "a": "Up to 1 week from purchase at 4 °C (40 °F) or below, and not past the use-by date on the label."},
+      {"q": "What is the difference between shank and butt portion ham?", "a": "The shank is the lower, narrower end near the hock with a single straight bone; the butt is the upper, rounder end with more meat but a more awkward bone. Both need cooking when labelled cook-before-eating."}
+    ]
+  },
+  "zh": {
+    "name": "需烹煮火腿（腿腱端／腿臀端，帶骨）",
+    "aliases": ["火腿腿腱端", "火腿腿臀端", "帶骨火腿分切", "生醃火腿塊", "shank portion", "butt portion"],
+    "summary": "腿腱端（shank）和腿臀端（butt）是帶骨火腿的兩端，去掉中段切片後分開販售；標示「需烹煮」代表醃製過但沒有完全煮熟。從購買日算起冷藏不要超過 1 週，冷凍以 1～2 個月內用完為佳，上桌前一定要煮熟。",
+    "pantry": "火腿分切塊是生肉，不能常溫存放。包含解凍和備料在內，離開冰箱的時間總共不要超過 2 小時（室溫超過 32 °C 則 1 小時）。醃製能延長保存，但不表示可以放在室溫下。",
+    "fridge": "保留原包裝，放在 4 °C 以下冷藏室的最下層，底下墊盤子接肉汁。從購買日算起 1 週內烹煮，且不能超過標示日期。分切塊有兩個切面外露，要包緊才不會變乾。",
+    "freezer": "整塊用保鮮膜包好，再套冷凍袋或厚鋁箔紙，盡量把空氣壓出，放進 −18 °C 冷凍庫。在這個溫度下安全上可以放很久，但風味和口感以 1～2 個月內煮掉最好。",
+    "thawing": "放冷藏室解凍，每 2 公斤約 24 小時，一塊通常需要 1～2 天。趕時間可以裝進不漏水的袋子泡冷水，每 30 分鐘換水，解凍後立刻烹煮。不要在室溫下退冰。",
+    "spoilage": [
+      "有酸味或腐敗味，切面和骨頭附近最明顯",
+      "表面黏滑、黏手",
+      "原本均勻的粉紅色出現灰色、綠色或深褐色斑塊",
+      "包裝鬆脫處乾縮發黑或長霉"
+    ],
+    "tips": [
+      "腿腱端只有一根長骨，比較好切；腿臀端肉多，但有形狀不規則的髖骨。",
+      "中心溫度要達到 63 °C，靜置 3 分鐘再切片。",
+      "醃製火腿偏鹹，想少鈉可以看標籤挑選。",
+      "煮熟的剩肉在 2 小時內分成一餐份量冷凍。"
+    ],
+    "faq": [
+      {"q": "火腿腿腱端或腿臀端可以冷凍嗎？", "a": "可以。包好放進 −18 °C 冷凍庫，安全上可以放很久，但 1～2 個月內煮掉品質最好。"},
+      {"q": "火腿分切塊放冰箱可以放多久？", "a": "在 4 °C 以下冷藏，從購買日算起最多 1 週，且不要超過標籤上的有效期限。"},
+      {"q": "火腿的腿腱端和腿臀端有什麼不同？", "a": "腿腱端是靠近蹄膀、較窄的下半段，只有一根直骨；腿臀端是上半段，較圓、肉多，但骨頭形狀不好處理。標示需烹煮的兩種都要煮熟。"}
+    ]
+  },
+  "ja": {
+    "name": "加熱用ハム（すね側／もも上部、骨付き）",
+    "aliases": ["シャンクポーション", "バットポーション", "骨付きハム部位", "未加熱ハム（部分）", "要加熱ハム"],
+    "summary": "すね側（シャンク）ともも上部（バット）は骨付きハムの両端で、中央のスライス部分を取ったあとに別々に売られます。「加熱用」と表示されていれば塩漬け済みでも加熱は不十分です。購入日から冷蔵で1週間以内、冷凍なら1〜2か月が品質の目安で、食べる前に必ず中まで加熱してください。",
+    "pantry": "ハムの部位は生肉と同じで、常温には置けません。解凍や下ごしらえも含め、冷蔵庫の外に置く時間は合計2時間まで（室温が32 °Cを超えるときは1時間まで）にしてください。塩漬けで日持ちは良くなりますが、常温保存できるわけではありません。",
+    "fridge": "元の包装のまま4 °C以下の冷蔵庫の最下段に置き、肉汁を受けるトレイに載せます。購入日から1週間以内、表示の期限内に調理してください。部位売りは切り口が2面あるので、乾燥しないようしっかり覆いましょう。",
+    "freezer": "全体をラップで包み、さらに冷凍用袋か厚手のアルミホイルで覆って空気をできるだけ抜き、−18 °Cで冷凍します。安全面では長期保存できますが、風味と食感のためには1〜2か月以内に調理するのがおすすめです。",
+    "thawing": "冷蔵庫で解凍し、2 kgあたり約24時間を見込みます。部位売りなら通常1〜2日です。急ぐ場合は漏れない袋に入れて冷水につけ、30分ごとに水を替えてすぐ調理してください。室温での解凍はしないでください。",
+    "spoilage": [
+      "酸っぱいにおいや腐敗臭がする（切り口や骨のまわりで特にわかりやすい）",
+      "表面がぬるぬる、べたべたしている",
+      "均一なピンク色ではなく、灰色・緑色・濃い茶色の斑点がある",
+      "包装がゆるんだ部分が乾いて黒ずんでいる、カビがある"
+    ],
+    "tips": [
+      "すね側は長い骨が1本で切り分けやすく、もも上部は肉が多い代わりに形の複雑な骨があります。",
+      "中心温度63 °Cまで加熱し、3分間休ませてからスライスします。",
+      "塩漬けの加熱用ハムは塩気が強めなので、減塩タイプが必要ならラベルを確認しましょう。",
+      "加熱後の残りは2時間以内に1食分ずつ冷凍します。"
+    ],
+    "faq": [
+      {"q": "すね側やもも上部のハムは冷凍できますか？", "a": "できます。しっかり包んで−18 °Cで冷凍してください。安全面では長期保存できますが、1〜2か月以内に調理するのが品質の目安です。"},
+      {"q": "部位売りのハムは冷蔵庫でどのくらい持ちますか？", "a": "4 °C以下で購入日から1週間以内が目安で、ラベルの期限を超えないようにしてください。"},
+      {"q": "シャンクとバットのハムはどう違いますか？", "a": "シャンクは足首寄りの細い下半分でまっすぐな骨が1本、バットは上半分で丸みがあり肉が多いですが骨の形が複雑です。加熱用と表示されていればどちらも加熱が必要です。"}
+    ]
+  },
+  "es": {
+    "name": "Jamón para cocinar, porción de jarrete o de cadera",
+    "aliases": ["porción de jamón con hueso", "jamón de jarrete", "jamón de cadera", "punta de jamón", "jamón sin cocer en porción"],
+    "summary": "Las porciones de jarrete y de cadera son los dos extremos de un jamón con hueso, vendidos por separado después de retirar las lonchas del centro; cuando llevan la etiqueta \"cocinar antes de comer\", están curadas pero no cocidas del todo. Refrigera no más de 1 semana desde la compra, o congela 1–2 meses para mejor calidad, y cocina siempre el jamón por completo antes de servirlo.",
+    "pantry": "Las porciones de jamón son carne cruda y no pueden guardarse a temperatura ambiente. Limita el tiempo fuera de la nevera a 2 horas en total (1 hora por encima de 32 °C / 90 °F), incluidos la descongelación y la preparación. El curado mejora la conservación, pero no hace que la carne sea estable fuera del frío.",
+    "fridge": "Guarda la porción en su envoltorio original a 4 °C (40 °F) o menos en el estante inferior, sobre una bandeja que recoja los jugos. Cocínala dentro de 1 semana desde la compra y antes de la fecha impresa. Estas porciones tienen dos caras de corte expuestas, así que mantenlas bien tapadas para que la carne no se reseque.",
+    "freezer": "Envuelve toda la porción en film apto para congelar y luego en una bolsa o papel de aluminio grueso, sacando el máximo de aire, y congélala a −18 °C (0 °F). A esa temperatura se mantiene segura indefinidamente, pero para mejor sabor y textura cocínala en 1–2 meses.",
+    "thawing": "Descongela en la nevera, calculando unas 24 horas por cada 2 kg (4–5 lb); una porción suele necesitar 1–2 días. Si tienes poco tiempo, sumérgela en agua fría dentro de una bolsa hermética, cambia el agua cada 30 minutos y cocínala enseguida. Nunca a temperatura ambiente.",
+    "spoilage": [
+      "Olor agrio o a podrido, más notorio en las caras de corte y el hueso",
+      "Superficie viscosa, pegajosa o babosa",
+      "Manchas grises, verdes o marrón oscuro en lugar de un rosado uniforme",
+      "Zonas secas y oscurecidas o moho donde el envoltorio quedó suelto"
+    ],
+    "tips": [
+      "La porción de jarrete tiene un solo hueso largo y se trincha mejor; la de cadera tiene más carne pero un hueso más incómodo.",
+      "Cocina hasta 63 °C (145 °F) en el centro y deja reposar 3 minutos antes de cortar.",
+      "El jamón curado para cocinar puede ser salado; revisa la etiqueta si buscas menos sodio.",
+      "Congela las sobras cocidas en menos de 2 horas, en porciones para una comida."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar una porción de jamón de jarrete o de cadera?", "a": "Sí. Envuélvela bien y congélala a −18 °C (0 °F). Se mantiene segura indefinidamente, pero es mejor cocinarla en 1–2 meses."},
+      {"q": "¿Cuánto dura una porción de jamón en la nevera?", "a": "Hasta 1 semana desde la compra a 4 °C (40 °F) o menos, sin pasar la fecha de caducidad de la etiqueta."},
+      {"q": "¿Qué diferencia hay entre la porción de jarrete y la de cadera?", "a": "El jarrete es el extremo inferior y más estrecho, cerca del codillo, con un solo hueso recto; la cadera es el extremo superior, más redondeado y con más carne, pero con un hueso más difícil. Ambas necesitan cocción si la etiqueta dice cocinar antes de comer."}
+    ]
+  }
+}

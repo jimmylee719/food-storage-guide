@@ -1,0 +1,107 @@
+{
+  "slug": "turkey-whole",
+  "en": {
+    "name": "Whole turkey",
+    "aliases": ["whole raw turkey", "fresh turkey", "frozen turkey", "holiday turkey", "roasting turkey"],
+    "summary": "A whole raw turkey is a large, perishable bird that needs careful cold storage. A fresh turkey keeps in the fridge for only 1 to 2 days from purchase, so buy it close to cooking day. Frozen, it holds its best quality for up to 12 months at −18 °C (0 °F).",
+    "pantry": "Never store or thaw a raw turkey at room temperature. Its size means the outside can sit in the danger zone of 4 to 60 °C (40 to 140 °F) for hours while the centre is still cold, giving bacteria time to grow. Follow the 2-hour rule (1 hour above 32 °C / 90 °F) for any raw or cooked turkey left out.",
+    "fridge": "Keep a fresh turkey in its wrapping on a rimmed tray on the lowest shelf of a fridge at or below 4 °C (40 °F), and cook it within 1 to 2 days of purchase. Remove the neck and giblets from the cavity and store them separately. A thawed turkey can stay in the fridge for another 1 to 2 days before cooking.",
+    "freezer": "A whole turkey freezes well for up to 12 months at −18 °C (0 °F). Most supermarket turkeys are already frozen and vacuum-packed; keep that packaging intact. If you freeze a fresh bird, overwrap it in a large freezer bag or foil, press out the air and label with the date. It stays safe beyond 12 months, though quality slowly declines.",
+    "thawing": "Thaw in the fridge on a tray, allowing about 24 hours for every 2 kg (4–5 lb); a 7 kg (15 lb) bird needs 3 to 4 days. For cold-water thawing, keep the turkey in a leak-proof bag, submerge it, change the water every 30 minutes (about 30 minutes per 0.5 kg / 1 lb) and cook it immediately. Never thaw on the counter.",
+    "spoilage": [
+      "A sour, rotten-egg or ammonia smell when the wrapping is opened",
+      "Slimy or tacky skin that does not rinse clean",
+      "Grey, greenish or mottled patches on the flesh",
+      "A torn vacuum pack with a lot of cloudy liquid inside"
+    ],
+    "tips": [
+      "Plan backwards: a frozen turkey needs several days in the fridge to thaw, so buy or move it early",
+      "Buy a fresh turkey no more than 1 to 2 days before you cook it",
+      "Use a rimmed tray under the bird so raw juices cannot drip onto other food",
+      "Check doneness with a thermometer: 74 °C (165 °F) in the thickest part of the thigh and the stuffing"
+    ],
+    "faq": [
+      {"q": "Can you freeze a whole turkey?", "a": "Yes. Keep it in its sealed packaging or wrap it tightly, and freeze at −18 °C (0 °F). Quality is best within 12 months, and it stays safe indefinitely."},
+      {"q": "How can you tell if a turkey has gone bad?", "a": "A sour or sulphur smell, slimy skin and grey or greenish flesh mean it should be thrown out. Do not rely on the date alone."},
+      {"q": "How long can a fresh turkey stay in the fridge?", "a": "Only 1 to 2 days from purchase at 4 °C (40 °F) or below. If you cannot cook it in that time, freeze it."}
+    ]
+  },
+  "zh": {
+    "name": "全火雞",
+    "aliases": ["整隻火雞", "火雞", "生火雞", "感恩節火雞", "冷凍火雞"],
+    "summary": "生的整隻火雞體積大又容易腐壞，需要小心冷藏。新鮮火雞在冷藏室只能放 1 到 2 天（從購買日算起），所以要接近料理日再買。冷凍在 −18 °C 可以維持 12 個月的最佳品質。",
+    "pantry": "生火雞絕對不能放在室溫保存或解凍。因為體積大，外層可能在 4 到 60 °C 的危險溫度帶停留好幾個小時，而中心還是冰的，細菌就有時間繁殖。不論生的或煮熟的火雞，放在室溫都要遵守 2 小時原則（氣溫超過 32 °C 則 1 小時）。",
+    "fridge": "新鮮火雞連包裝放在有邊的托盤上，擺在 4 °C 以下冷藏室的最下層，購買後 1 到 2 天內要烹調。把腹腔裡的脖子和內臟取出來另外保存。解凍好的火雞可以在冷藏室再放 1 到 2 天再煮。",
+    "freezer": "整隻火雞很適合冷凍，在 −18 °C 可以保存 12 個月的最佳品質。超市賣的火雞多半已經是冷凍真空包裝，保持包裝完整即可。如果是自己冷凍新鮮火雞，外面再套一層大冷凍袋或鋁箔、擠出空氣並標上日期。超過 12 個月仍然安全，只是品質會慢慢下降。",
+    "thawing": "放在托盤上在冷藏室解凍，每 2 公斤約需 24 小時，7 公斤的火雞要 3 到 4 天。想用冷水解凍，把火雞裝在不漏水的袋子裡整隻泡水，每 30 分鐘換水（每 0.5 公斤約 30 分鐘），解凍後馬上煮。不要放在流理台上解凍。",
+    "spoilage": [
+      "打開包裝時聞到酸味、臭雞蛋味或氨味",
+      "雞皮黏滑，沖水也洗不掉",
+      "肉上出現灰色、綠色或斑駁的色塊",
+      "真空包裝破損，裡面積了很多混濁液體"
+    ],
+    "tips": [
+      "倒推時間：冷凍火雞在冷藏室解凍要好幾天，所以要提早買或提早移到冷藏室",
+      "新鮮火雞最多在料理前 1 到 2 天購買",
+      "火雞下面墊有邊的托盤，避免生肉汁滴到其他食物",
+      "用溫度計確認熟度：大腿最厚處和填料都要達到 74 °C"
+    ],
+    "faq": [
+      {"q": "火雞可以冷凍嗎？", "a": "可以。保持原本的密封包裝或包緊，放 −18 °C 冷凍，12 個月內品質最好，安全上可以放更久。"},
+      {"q": "火雞壞掉怎麼看？", "a": "有酸味或硫磺味、雞皮黏滑、肉變灰變綠，就要丟掉。不要只看包裝日期。"},
+      {"q": "新鮮火雞放冰箱可以放多久？", "a": "4 °C 以下冷藏只能放 1 到 2 天（從購買日算起）。來不及煮就要冷凍。"}
+    ]
+  },
+  "ja": {
+    "name": "七面鳥（丸ごと）",
+    "aliases": ["ターキー", "丸ごとターキー", "生の七面鳥", "冷凍ターキー", "クリスマス用ターキー"],
+    "summary": "生の七面鳥は大きくて傷みやすいので、冷蔵管理に気をつける必要があります。生の七面鳥は冷蔵で購入から1〜2日しかもたないため、調理日の直前に買いましょう。冷凍なら−18 °Cで最長12か月良い品質を保てます。",
+    "pantry": "生の七面鳥を室温で保存したり解凍したりしてはいけません。大きいので、中心がまだ冷たいうちに外側だけが4〜60 °Cの危険温度帯に何時間も置かれ、細菌が増える時間ができてしまいます。生でも加熱済みでも、室温に出したら2時間以内（気温32 °C以上なら1時間以内）のルールを守ってください。",
+    "fridge": "生の七面鳥は包装のまま縁のあるトレイにのせ、4 °C以下の冷蔵庫の最下段に置き、購入から1〜2日以内に調理します。お腹の中の首や内臓は取り出して別に保存してください。解凍した七面鳥は、調理まで冷蔵庫でさらに1〜2日置けます。",
+    "freezer": "七面鳥は丸ごと冷凍でき、−18 °Cで最長12か月良い品質を保てます。スーパーの七面鳥の多くは冷凍の真空パックなので、その包装を破らないようにしましょう。生の七面鳥を自分で冷凍する場合は、大きな冷凍用袋やアルミホイルで包み、空気を抜いて日付を書きます。12か月を過ぎても安全ですが、品質は少しずつ落ちます。",
+    "thawing": "トレイにのせて冷蔵庫で解凍します。2 kgあたり約24時間が目安で、7 kgなら3〜4日かかります。冷水で解凍するなら、水漏れしない袋に入れて浸け、30分ごとに水を替え（0.5 kgあたり約30分）、解凍後すぐに調理してください。室温での解凍は絶対に避けましょう。",
+    "spoilage": [
+      "包装を開けたときに酸っぱいにおい、腐った卵のようなにおい、アンモニア臭がする",
+      "皮がぬるぬる・ベタベタして、洗っても落ちない",
+      "肉に灰色や緑がかった斑点、まだら模様がある",
+      "真空パックが破れて、中に濁った液体がたくさんたまっている"
+    ],
+    "tips": [
+      "逆算して計画する。冷凍の七面鳥は冷蔵庫で解凍するのに数日かかるので、早めに買うか冷蔵庫へ移す",
+      "生の七面鳥は調理する1〜2日前までに買う",
+      "生の肉汁がほかの食品に垂れないよう、縁のあるトレイを下に敷く",
+      "温度計で火の通りを確認する。もも肉の一番厚い部分と詰め物が74 °Cになればよい"
+    ],
+    "faq": [
+      {"q": "七面鳥は冷凍できますか？", "a": "できます。密封された包装のまま、または隙間なく包んで−18 °Cで冷凍してください。品質は12か月以内がベストで、安全面ではそれ以上もちます。"},
+      {"q": "七面鳥が傷んでいるかどうかはどう見分けますか？", "a": "酸っぱいにおいや硫黄臭、ぬるぬるした皮、灰色や緑がかった肉は捨てるサインです。日付だけで判断しないでください。"},
+      {"q": "生の七面鳥は冷蔵庫でどのくらいもちますか？", "a": "4 °C以下の冷蔵で、購入から1〜2日だけです。その間に調理できないなら冷凍しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Pavo entero",
+    "aliases": ["pavo entero crudo", "pavo fresco", "pavo congelado", "pavo de Navidad", "guajolote"],
+    "summary": "Un pavo entero crudo es un ave grande y perecedera que exige un buen almacenamiento en frío. Un pavo fresco dura en el refrigerador solo 1 a 2 días desde la compra, así que cómpralo cerca del día de cocinarlo. Congelado, conserva su mejor calidad hasta 12 meses a −18 °C (0 °F).",
+    "pantry": "Nunca guardes ni descongeles un pavo crudo a temperatura ambiente. Por su tamaño, el exterior puede pasar horas en la zona de peligro de 4 a 60 °C (40 a 140 °F) mientras el centro sigue frío, dando tiempo a que crezcan las bacterias. Aplica la regla de las 2 horas (1 hora si hace más de 32 °C / 90 °F) a cualquier pavo, crudo o cocinado, que quede fuera.",
+    "fridge": "Guarda el pavo fresco en su envoltorio sobre una bandeja con borde en el estante más bajo de un refrigerador a 4 °C (40 °F) o menos, y cocínalo en 1 a 2 días desde la compra. Saca el cuello y las menudencias de la cavidad y guárdalos aparte. Un pavo ya descongelado puede esperar otros 1 a 2 días en el refrigerador antes de cocinarlo.",
+    "freezer": "Un pavo entero se congela bien hasta 12 meses a −18 °C (0 °F). La mayoría de los pavos de supermercado vienen ya congelados y envasados al vacío; conserva ese envase intacto. Si congelas un pavo fresco, envuélvelo en una bolsa grande de congelación o papel aluminio, saca el aire y etiquétalo con la fecha. Sigue siendo seguro pasados los 12 meses, aunque la calidad baja poco a poco.",
+    "thawing": "Descongela en el refrigerador sobre una bandeja, calculando unas 24 horas por cada 2 kg (4–5 lb); un pavo de 7 kg (15 lb) necesita 3 a 4 días. Para descongelar en agua fría, mete el pavo en una bolsa sin fugas, sumérgelo, cambia el agua cada 30 minutos (unos 30 minutos por cada 0,5 kg / 1 lb) y cocínalo de inmediato. Nunca lo descongeles sobre la encimera.",
+    "spoilage": [
+      "Olor agrio, a huevo podrido o a amoniaco al abrir el envoltorio",
+      "Piel viscosa o pegajosa que no se limpia al enjuagar",
+      "Manchas grises, verdosas o moteadas en la carne",
+      "Envase al vacío roto con mucho líquido turbio dentro"
+    ],
+    "tips": [
+      "Planifica hacia atrás: un pavo congelado necesita varios días en el refrigerador para descongelarse, así que cómpralo o pásalo al frío con tiempo",
+      "Compra el pavo fresco como máximo 1 a 2 días antes de cocinarlo",
+      "Coloca una bandeja con borde debajo del ave para que los jugos crudos no goteen sobre otros alimentos",
+      "Comprueba la cocción con termómetro: 74 °C (165 °F) en la parte más gruesa del muslo y en el relleno"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar un pavo entero?", "a": "Sí. Déjalo en su envase sellado o envuélvelo bien y congélalo a −18 °C (0 °F). La calidad es mejor dentro de los 12 meses, y se mantiene seguro indefinidamente."},
+      {"q": "¿Cómo saber si un pavo está malo?", "a": "Un olor agrio o a azufre, la piel viscosa y la carne gris o verdosa indican que hay que tirarlo. No te fíes solo de la fecha."},
+      {"q": "¿Cuánto dura un pavo fresco en el refrigerador?", "a": "Solo 1 a 2 días desde la compra a 4 °C (40 °F) o menos. Si no puedes cocinarlo en ese plazo, congélalo."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "cookies-soft",
+  "en": {
+    "name": "Soft cookies",
+    "aliases": ["chewy cookies", "soft-baked cookies", "chocolate chip cookies", "soft biscuits"],
+    "summary": "Soft, chewy cookies such as chocolate chip, oatmeal or snickerdoodles are packed for a long shelf life. Unopened, commercially packaged soft cookies keep 2–3 months in the pantry from the date of purchase, and they freeze for 8–12 months. Homemade soft cookies are best eaten within a few days.",
+    "pantry": "Keep packaged soft cookies in a cool, dry cupboard away from heat and sunlight; unopened they last 2–3 months from purchase. Once opened, reseal the bag or move the cookies to an airtight tin so they do not dry out or go stale. Homemade soft cookies stay fresh in an airtight container for about 3–5 days; a slice of bread in the tin helps keep them soft.",
+    "fridge": "Refrigeration is not needed for plain soft cookies and it can actually make them stale faster. The exception is cookies with cream cheese, custard or fresh-fruit fillings, which should be kept in the fridge at 4 °C (40 °F) or below and eaten within a few days.",
+    "freezer": "Soft cookies freeze very well. Layer them between sheets of baking paper in a freezer bag or container, press out the air and freeze at −18 °C (0 °F) for 8–12 months for the best texture. Frozen cookie dough also keeps well: portion it into balls and bake from frozen, adding a minute or two.",
+    "thawing": "Let frozen cookies sit at room temperature for 15–30 minutes, or warm them briefly in a low oven. There is no food-safety risk in thawing baked cookies on the counter.",
+    "spoilage": [
+      "Hard, dry or crumbly texture that no longer springs back",
+      "Rancid, waxy or paint-like smell from the fats going off",
+      "Visible mould, especially on filled or very moist cookies",
+      "Stale, flat flavour or a soggy texture from moisture getting in"
+    ],
+    "tips": [
+      "Store soft and crispy cookies separately; moisture from soft ones softens crisp ones",
+      "Buy packages with the longest best-before date and use the oldest first",
+      "Freeze in small portions so you can take out just a few at a time",
+      "Label frozen bags with the date and variety"
+    ],
+    "faq": [
+      {"q": "Can you freeze soft cookies?", "a": "Yes. Layered with baking paper in an airtight bag at −18 °C (0 °F), they keep 8–12 months for best quality."},
+      {"q": "How long do soft cookies last?", "a": "Unopened packaged soft cookies last 2–3 months from purchase in the pantry. Homemade ones are best within 3–5 days in an airtight container."},
+      {"q": "Do soft cookies need to be refrigerated?", "a": "No, unless they have a dairy or fresh-fruit filling. Plain soft cookies keep best at room temperature in an airtight container."}
+    ]
+  },
+  "zh": {
+    "name": "軟餅乾",
+    "aliases": ["軟曲奇", "軟式餅乾", "巧克力豆餅乾", "美式軟餅乾", "曲奇餅"],
+    "summary": "軟餅乾指的是巧克力豆餅乾、燕麥餅乾這類口感濕潤有嚼勁的餅乾。市售包裝未開封時，常溫可從購買日起放 2～3 個月，冷凍可放 8～12 個月。自己烤的軟餅乾則建議幾天內吃完。",
+    "pantry": "包裝軟餅乾放在陰涼乾燥的櫥櫃，避開高溫和陽光直射，未開封可從購買日起放 2～3 個月。開封後把袋口封好，或改放密封罐，才不會變乾變硬。自製軟餅乾放密封罐大約可以保鮮 3～5 天，放一片吐司在罐子裡可以幫助保持柔軟。",
+    "fridge": "一般軟餅乾不需要冷藏，冰過反而更容易變硬走味。例外是夾奶油乳酪、卡士達或新鮮水果餡的餅乾，這類要放 4°C 以下冷藏，並在幾天內吃完。",
+    "freezer": "軟餅乾很適合冷凍。用烘焙紙隔開一層一層放進冷凍袋或保鮮盒，壓出空氣，放 −18°C 冷凍，8～12 個月內口感最好。餅乾麵團也可以冷凍：分成小球，直接從冷凍狀態烘烤，時間多加一兩分鐘即可。",
+    "thawing": "冷凍餅乾放在室溫 15～30 分鐘就會回軟，或用烤箱低溫稍微回烤。烤過的餅乾放在桌上退冰沒有食安疑慮。",
+    "spoilage": [
+      "變得又硬又乾、一捏就碎，失去原本的彈性",
+      "油脂氧化產生的油耗味、蠟味或類似油漆的怪味",
+      "看得到黴斑，尤其是夾餡或特別濕潤的餅乾",
+      "味道變淡走味，或因為受潮而變得軟爛"
+    ],
+    "tips": [
+      "軟餅乾和脆餅乾要分開放，軟餅乾的水氣會讓脆餅乾變軟",
+      "買的時候選有效期限最長的，先開舊的再開新的",
+      "分小包冷凍，每次只拿需要的量",
+      "冷凍袋上寫清楚日期和口味"
+    ],
+    "faq": [
+      {"q": "軟餅乾可以冷凍嗎？", "a": "可以。用烘焙紙隔層裝進密封袋，放 −18°C 冷凍，8～12 個月內品質最好。"},
+      {"q": "軟餅乾可以放多久？", "a": "市售未開封的軟餅乾常溫可從購買日起放 2～3 個月；自製的放密封罐 3～5 天內吃完最好。"},
+      {"q": "軟餅乾需要放冰箱嗎？", "a": "不需要，除非有乳製品或新鮮水果內餡。一般軟餅乾放密封罐常溫保存最好。"}
+    ]
+  },
+  "ja": {
+    "name": "ソフトクッキー",
+    "aliases": ["しっとりクッキー", "チョコチップクッキー", "アメリカンクッキー", "ソフトビスケット"],
+    "summary": "チョコチップやオートミールなど、しっとり柔らかい食感のクッキーです。市販の未開封品なら常温で購入日から2〜3か月、冷凍なら8〜12か月保存できます。手作りのソフトクッキーは数日以内に食べ切るのがおすすめです。",
+    "pantry": "市販のソフトクッキーは、直射日光と熱を避けた涼しく乾燥した戸棚で保存し、未開封なら購入日から2〜3か月が目安です。開封後は袋の口をしっかり閉じるか密閉缶に移して、乾燥や湿気を防ぎましょう。手作りの場合は密閉容器で3〜5日ほど。食パンを1枚一緒に入れておくと柔らかさが保てます。",
+    "fridge": "普通のソフトクッキーに冷蔵は不要で、むしろ冷蔵庫に入れると早くパサつきます。例外はクリームチーズ・カスタード・生のフルーツなどを使ったフィリング入りのもので、これらは4℃以下で冷蔵し、数日以内に食べてください。",
+    "freezer": "ソフトクッキーは冷凍に向いています。クッキングシートを挟みながら冷凍用保存袋や容器に入れ、空気を抜いて−18℃で冷凍すれば、8〜12か月はおいしく食べられます。生地の冷凍もおすすめで、丸めて小分けにしておけば凍ったまま1〜2分長めに焼くだけです。",
+    "thawing": "冷凍したクッキーは室温に15〜30分置くか、低温のオーブンで軽く温め直します。焼いたクッキーを室温で解凍しても食品安全上の問題はありません。",
+    "spoilage": [
+      "硬くパサパサになり、押しても弾力が戻らない",
+      "油脂が酸化した油臭さ、ロウやペンキのようなにおい",
+      "カビが見える（特にフィリング入りや水分の多いもの）",
+      "風味が抜けて味気ない、湿気を吸ってべたついている"
+    ],
+    "tips": [
+      "ソフトタイプとサクサクタイプは分けて保存。ソフトの水分でサクサクが湿気ます",
+      "賞味期限の長いものを選び、古いものから先に開ける",
+      "少量ずつ小分けにして冷凍すると、必要な分だけ取り出せます",
+      "冷凍袋には日付と種類を書いておきましょう"
+    ],
+    "faq": [
+      {"q": "ソフトクッキーは冷凍できますか？", "a": "できます。クッキングシートを挟んで密閉袋に入れ、−18℃で冷凍すれば8〜12か月はおいしく保てます。"},
+      {"q": "ソフトクッキーはどのくらい日持ちしますか？", "a": "市販の未開封品は常温で購入日から2〜3か月。手作りは密閉容器で3〜5日以内が目安です。"},
+      {"q": "ソフトクッキーは冷蔵庫に入れるべきですか？", "a": "乳製品や生フルーツのフィリングがなければ不要です。普通のソフトクッキーは密閉容器で常温保存が一番です。"}
+    ]
+  },
+  "es": {
+    "name": "Galletas blandas",
+    "aliases": ["cookies blandas", "galletas tiernas", "galletas con chips de chocolate", "galletas masticables", "galletitas blandas"],
+    "summary": "Las galletas blandas y masticables, como las de chips de chocolate o avena, se envasan para durar bastante. Sin abrir, las galletas blandas comerciales se conservan 2–3 meses en la despensa desde la compra, y en el congelador duran 8–12 meses. Las caseras se disfrutan mejor en pocos días.",
+    "pantry": "Guarda las galletas envasadas en un armario fresco y seco, lejos del calor y la luz; sin abrir duran 2–3 meses desde la compra. Una vez abiertas, cierra bien la bolsa o pásalas a una lata hermética para que no se resequen ni se pongan rancias. Las galletas blandas caseras se mantienen unos 3–5 días en un recipiente hermético; una rebanada de pan dentro ayuda a que sigan tiernas.",
+    "fridge": "Las galletas blandas normales no necesitan nevera y, de hecho, el frío las reseca antes. La excepción son las rellenas de queso crema, crema pastelera o fruta fresca, que deben conservarse a 4 °C (40 °F) o menos y comerse en pocos días.",
+    "freezer": "Las galletas blandas se congelan muy bien. Colócalas en capas separadas con papel de horno dentro de una bolsa o recipiente para congelador, saca el aire y congélalas a −18 °C (0 °F) durante 8–12 meses para la mejor textura. La masa cruda también se congela bien: forma bolitas y hornéalas directamente congeladas, añadiendo uno o dos minutos.",
+    "thawing": "Deja las galletas congeladas a temperatura ambiente 15–30 minutos, o caliéntalas un momento en el horno a baja temperatura. Descongelar galletas horneadas sobre la encimera no supone ningún riesgo.",
+    "spoilage": [
+      "Textura dura, seca o quebradiza que ya no cede al apretar",
+      "Olor rancio, a cera o a pintura por la oxidación de las grasas",
+      "Moho visible, sobre todo en galletas rellenas o muy húmedas",
+      "Sabor plano y pasado, o textura blanda y pegajosa por la humedad"
+    ],
+    "tips": [
+      "Guarda las galletas blandas y las crujientes por separado; la humedad de unas ablanda las otras",
+      "Compra los paquetes con la fecha de consumo preferente más lejana y usa primero los más antiguos",
+      "Congela en porciones pequeñas para sacar solo unas pocas cada vez",
+      "Etiqueta las bolsas congeladas con la fecha y el tipo de galleta"
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las galletas blandas?", "a": "Sí. Separadas con papel de horno en una bolsa hermética a −18 °C (0 °F), duran 8–12 meses con buena calidad."},
+      {"q": "¿Cuánto duran las galletas blandas?", "a": "Las envasadas sin abrir duran 2–3 meses desde la compra en la despensa. Las caseras están mejor en 3–5 días en un recipiente hermético."},
+      {"q": "¿Las galletas blandas necesitan refrigeración?", "a": "No, salvo que tengan relleno lácteo o de fruta fresca. Las galletas blandas normales se conservan mejor a temperatura ambiente en un recipiente hermético."}
+    ]
+  }
+}

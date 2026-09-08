@@ -1,0 +1,107 @@
+{
+  "slug": "baking-powder",
+  "en": {
+    "name": "Baking powder",
+    "aliases": ["double-acting baking powder", "raising agent", "leavening powder"],
+    "summary": "Baking powder is a dry raising agent that combines bicarbonate of soda with an acid salt and a starch. Unopened it stays effective 6–18 months from purchase in a cool, dry cupboard; once opened it loses power after 3–6 months. It does not spoil in a dangerous way — it simply stops lifting your cakes.",
+    "pantry": "The pantry is the only place baking powder belongs: a cool, dry cupboard away from the stove, kettle and sink. Unopened tins keep 6–18 months from purchase; after opening, use it within 3–6 months. Always scoop with a dry spoon, because a single drop of water starts the reaction inside the tin.",
+    "fridge": "Do not refrigerate baking powder. Every time you take the tin out, condensation forms on the cold powder and moisture triggers the raising reaction, which is exactly what you want to avoid. Room temperature in a sealed container is drier and better.",
+    "freezer": "Freezing is not recommended for the same reason as refrigeration: moisture. The freezer offers no benefit, and warming and cooling the tin repeatedly will make the powder clump and go flat.",
+    "thawing": null,
+    "spoilage": [
+      "Hard lumps or a solid cake of powder in the tin",
+      "No fizzing when a teaspoon is stirred into hot water",
+      "Cakes and scones that come out flat and dense",
+      "Damp, clumped powder or a musty smell"
+    ],
+    "tips": [
+      "Test it: stir 1 teaspoon into half a cup of hot water — it should bubble vigorously",
+      "Write the opening date on the lid to track the 3–6 month window",
+      "Never dip a wet or used spoon into the tin",
+      "Old baking powder still works fine as a fridge deodoriser or sink scrub"
+    ],
+    "faq": [
+      {"q": "Does baking powder go bad?", "a": "It does not become unsafe, but it loses strength. Unopened it lasts 6–18 months from purchase; after opening, 3–6 months. After that your bakes will not rise properly."},
+      {"q": "How do you test if baking powder is still good?", "a": "Stir a teaspoon into half a cup of hot water. Vigorous, immediate bubbling means it is still active; a weak fizz means it is time to replace it."},
+      {"q": "Should baking powder be refrigerated?", "a": "No. Cold storage causes condensation, which activates and ruins the powder. Keep it sealed in a cool, dry cupboard instead."}
+    ]
+  },
+  "zh": {
+    "name": "泡打粉",
+    "aliases": ["發粉", "焙粉", "baking powder", "雙效泡打粉"],
+    "summary": "泡打粉是由小蘇打、酸性鹽和澱粉組成的乾式膨脹劑。未開封放在陰涼乾燥的櫥櫃，從購買日起 6～18 個月都有效；開封後 3～6 個月就會逐漸失效。它不會腐敗到有危險，只是會讓蛋糕發不起來。",
+    "pantry": "常溫櫥櫃是泡打粉唯一該待的地方，要陰涼乾燥，遠離爐火、熱水瓶和水槽。未開封從購買日起可放 6～18 個月，開封後請在 3～6 個月內用完。取用時一定要用乾燥的湯匙，只要一滴水進到罐子裡就會開始反應。",
+    "fridge": "泡打粉不要冷藏。每次把罐子拿出來，冰冷的粉末表面就會凝結水氣，而水分正是會啟動膨脹反應的東西，這是我們最想避免的。密封放在室溫反而更乾燥。",
+    "freezer": "冷凍同樣不建議，理由和冷藏一樣：水氣。冷凍沒有任何好處，反覆的溫差變化只會讓粉末結塊、失去作用。",
+    "thawing": null,
+    "spoilage": [
+      "罐子裡結成硬塊，或整罐結成一整片",
+      "取一小匙加進熱水中沒有冒泡",
+      "烤出來的蛋糕、司康又扁又硬",
+      "粉末受潮結塊，或有霉味"
+    ],
+    "tips": [
+      "測試方法：取 1 小匙加進半杯熱水，應該要劇烈冒泡",
+      "在蓋子上寫開封日期，方便追蹤 3～6 個月的期限",
+      "絕對不要把沾濕或用過的湯匙伸進罐子裡",
+      "失效的泡打粉還可以拿來除冰箱異味或刷洗水槽"
+    ],
+    "faq": [
+      {"q": "泡打粉會過期嗎？", "a": "不會變得危險，但會失去效力。未開封從購買日起 6～18 個月，開封後 3～6 個月，之後烘焙成品就發不起來了。"},
+      {"q": "怎麼測試泡打粉還能不能用？", "a": "取 1 小匙加進半杯熱水，馬上劇烈冒泡就代表還有效；只有微弱的氣泡就該換新的了。"},
+      {"q": "泡打粉需要冷藏嗎？", "a": "不需要。低溫會產生冷凝水氣，反而會讓泡打粉提早失效。密封放在陰涼乾燥的櫥櫃就好。"}
+    ]
+  },
+  "ja": {
+    "name": "ベーキングパウダー",
+    "aliases": ["膨張剤", "ふくらし粉", "BP", "baking powder"],
+    "summary": "ベーキングパウダーは、重曹に酸性剤とでんぷんを合わせた粉末の膨張剤です。未開封なら涼しく乾燥した場所で購入日から6〜18か月効果が持続し、開封後は3〜6か月で膨らむ力が落ちていきます。腐って危険になるというより、単に膨らまなくなるだけです。",
+    "pantry": "ベーキングパウダーの置き場所は常温の戸棚一択です。コンロ、電気ポット、シンクから離れた涼しく乾燥した場所に。未開封は購入日から6〜18か月、開封後は3〜6か月以内に使い切りましょう。計量には必ず乾いたスプーンを使ってください。水滴が1滴入るだけで缶の中で反応が始まります。",
+    "fridge": "冷蔵は避けてください。缶を出し入れするたびに冷えた粉の表面に結露が生じ、その水分が膨張反応を起こしてしまいます。密閉して常温に置くほうが乾燥状態を保てます。",
+    "freezer": "冷凍も同じ理由で不向きです。湿気の問題があるうえ、冷凍による利点はなく、温度変化を繰り返すことで固まって効力を失います。",
+    "thawing": null,
+    "spoilage": [
+      "缶の中で固まって塊やかたまり状になっている",
+      "小さじ1を熱湯に入れても泡立たない",
+      "焼いたケーキやスコーンが膨らまず、ぺったりしている",
+      "粉が湿気ている、カビ臭いにおいがする"
+    ],
+    "tips": [
+      "確認方法：小さじ1を熱湯半カップに入れ、勢いよく泡立てばOK",
+      "ふたに開封日を書いて3〜6か月の期限を管理しましょう",
+      "濡れたスプーンや使ったスプーンを入れないこと",
+      "効力の落ちたものは冷蔵庫の脱臭やシンク掃除に使えます"
+    ],
+    "faq": [
+      {"q": "ベーキングパウダーは腐りますか？", "a": "危険な状態にはなりませんが、膨らむ力を失います。未開封は購入日から6〜18か月、開封後は3〜6か月が目安です。"},
+      {"q": "ベーキングパウダーがまだ使えるか確認するには？", "a": "小さじ1を熱湯半カップに入れてください。すぐに勢いよく泡立てば有効、泡が弱ければ買い替え時です。"},
+      {"q": "ベーキングパウダーは冷蔵すべきですか？", "a": "いいえ。結露で湿気を吸い、反応が進んでしまいます。密閉して涼しく乾燥した戸棚で保存してください。"}
+    ]
+  },
+  "es": {
+    "name": "Polvo de hornear",
+    "aliases": ["levadura química", "polvo para hornear", "Royal", "impulsor químico"],
+    "summary": "El polvo de hornear es un gasificante seco que combina bicarbonato con una sal ácida y almidón. Sin abrir mantiene su fuerza 6–18 meses desde la compra en un armario fresco y seco; una vez abierto pierde poder tras 3–6 meses. No se estropea de forma peligrosa: simplemente deja de levantar la masa.",
+    "pantry": "La despensa es su único sitio: un armario fresco y seco, lejos de los fogones, del hervidor y del fregadero. Sin abrir dura 6–18 meses desde la compra; abierto, úsalo en 3–6 meses. Mide siempre con una cuchara seca, porque una sola gota de agua inicia la reacción dentro del bote.",
+    "fridge": "No lo refrigeres. Cada vez que saques el bote se formará condensación sobre el polvo frío, y esa humedad dispara la reacción que precisamente quieres evitar. A temperatura ambiente y bien cerrado se mantiene más seco.",
+    "freezer": "Congelarlo tampoco se recomienda, por el mismo motivo: la humedad. No aporta ninguna ventaja y los cambios repetidos de temperatura harán que se apelmace y pierda fuerza.",
+    "thawing": null,
+    "spoilage": [
+      "Grumos duros o el polvo compactado en un bloque",
+      "No burbujea al disolver una cucharadita en agua caliente",
+      "Bizcochos y scones que salen planos y densos",
+      "Polvo húmedo, apelmazado o con olor a moho"
+    ],
+    "tips": [
+      "Pruébalo: disuelve 1 cucharadita en media taza de agua caliente; debe burbujear con fuerza",
+      "Anota la fecha de apertura en la tapa para controlar los 3–6 meses",
+      "No metas nunca una cuchara mojada o usada en el bote",
+      "El polvo caducado sirve para desodorizar la nevera o fregar el fregadero"
+    ],
+    "faq": [
+      {"q": "¿El polvo de hornear caduca?", "a": "No se vuelve peligroso, pero pierde fuerza. Sin abrir dura 6–18 meses desde la compra; abierto, 3–6 meses. Después, tus preparaciones no subirán bien."},
+      {"q": "¿Cómo saber si el polvo de hornear sigue sirviendo?", "a": "Disuelve una cucharadita en media taza de agua caliente. Si burbujea de inmediato y con fuerza, sigue activo; si apenas hace espuma, cámbialo."},
+      {"q": "¿Hay que refrigerar el polvo de hornear?", "a": "No. El frío genera condensación, que lo activa y lo estropea. Guárdalo bien cerrado en un armario fresco y seco."}
+    ]
+  }
+}

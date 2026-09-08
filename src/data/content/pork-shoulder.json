@@ -1,0 +1,107 @@
+{
+  "slug": "pork-shoulder",
+  "en": {
+    "name": "Pork shoulder",
+    "aliases": ["pork butt", "Boston butt", "picnic shoulder", "pork hand", "pulled pork roast"],
+    "summary": "Pork shoulder (sold as Boston butt, picnic shoulder or simply shoulder) is a well-marbled cut that is ideal for slow roasting, pulled pork and braises. Raw, it keeps 3–5 days in the fridge from purchase and 4–12 months in the freezer for best quality. Its fat content helps it freeze well, but a big bone-in shoulder needs a long time to thaw.",
+    "pantry": "Never keep a raw shoulder at room temperature. Between 4 and 60 °C (40–140 °F) bacteria multiply quickly, so discard it if it has been out more than 2 hours, or 1 hour above 32 °C (90 °F). Dry-brining or rubbing overnight is fine, but do it in the fridge.",
+    "fridge": "Store the shoulder in its packaging or wrapped on a rimmed tray on the bottom shelf at 4 °C (40 °F) or below. It keeps 3–5 days from the day you buy it. Vacuum-packed shoulder can have a slightly sharp smell on opening that should clear within minutes.",
+    "freezer": "Wrap tightly in cling film, then foil or a large freezer bag; a boneless shoulder can be cut into two or three roasts before freezing so you do not have to thaw the whole thing. At −18 °C (0 °F) it stays safe indefinitely, with best quality within 4–12 months. The fat cap protects the meat, but trim any ragged edges that would dry out.",
+    "thawing": "A whole shoulder needs 1–3 days in the fridge, about 24 hours per 2–2.5 kg (5 lb). Cold-water thawing in a leak-proof bag (30 minutes per 500 g/1 lb, changing the water every 30 minutes) is faster but demands attention. Never thaw at room temperature.",
+    "spoilage": [
+      "Sour, sulphurous or ammonia smell, especially around the bone",
+      "Slimy or sticky surface under the fat cap",
+      "Grey, green or brownish discolouration of the lean meat",
+      "Bloated packaging or cloudy, foul-smelling juices"
+    ],
+    "tips": [
+      "Choose a shoulder with a firm, white fat cap and pink, moist lean meat",
+      "Write the date and weight on the wrapper so you can plan thawing days",
+      "Cut boneless shoulder into smaller roasts before freezing for quicker thawing",
+      "For pulled pork, cook low and slow to about 93 °C (200 °F); for sliced roast, 63 °C (145 °F) with a 3-minute rest is the minimum"
+    ],
+    "faq": [
+      {"q": "Can you freeze pork shoulder?", "a": "Yes. Wrap tightly, exclude air and freeze at −18 °C (0 °F). Use within 4–12 months for the best quality; it stays safe indefinitely."},
+      {"q": "How long does raw pork shoulder keep in the fridge?", "a": "Raw pork shoulder keeps 3–5 days from purchase at 4 °C (40 °F) or below."},
+      {"q": "How long does it take to thaw a pork shoulder?", "a": "Allow about 24 hours in the fridge per 2–2.5 kg (5 lb), so a large bone-in shoulder can take 2–3 days."}
+    ]
+  },
+  "zh": {
+    "name": "豬肩肉（梅花肉／胛心肉）",
+    "aliases": ["梅花肉", "胛心肉", "豬肩胛肉", "前腿肉", "梅花豬", "猪梅肉"],
+    "summary": "豬肩肉在台灣分成梅花肉（上肩）和胛心肉（下肩），油花分布均勻，適合叉燒、滷肉、手撕豬肉和燉煮。生豬肩肉從購買日起冷藏可放 3～5 天，冷凍 4～12 個月風味最佳。油脂多所以耐冷凍，但整塊帶骨肩肉退冰要很久。",
+    "pantry": "生豬肩肉絕對不能放在室溫。4～60 °C 之間細菌快速繁殖，放超過 2 小時（氣溫超過 32 °C 則 1 小時）就要丟掉。過夜醃製或抹鹽沒問題，但要放冰箱進行。",
+    "fridge": "肩肉留在原包裝或包好放在有邊的盤子上，置於冰箱最下層，溫度維持 4 °C 以下，從購買日起可放 3～5 天。真空包裝剛打開時可能有點刺鼻味，幾分鐘內散掉就是正常的。",
+    "freezer": "用保鮮膜緊緊包好，再包鋁箔或裝進大冷凍袋；去骨肩肉可先分切成兩三塊再冷凍，就不必一次退冰整塊。在 −18 °C 下安全上沒有期限，4～12 個月內品質最好。表面的脂肪層能保護肉質，但參差不齊、容易乾掉的邊角可以先修掉。",
+    "thawing": "整塊肩肉需要在冷藏室退冰 1～3 天，大約每 2～2.5 公斤 24 小時。連防漏密封袋泡冷水比較快（每 500 公克 30 分鐘，每 30 分鐘換水），但要隨時注意。切勿在室溫下退冰。",
+    "spoilage": [
+      "有酸味、臭雞蛋味或阿摩尼亞味，骨頭附近最明顯",
+      "脂肪層下方的肉面黏滑",
+      "瘦肉部分變灰、變綠或褐色",
+      "包裝鼓起，或有混濁發臭的肉汁"
+    ],
+    "tips": [
+      "挑脂肪層白而結實、瘦肉粉紅濕潤的肩肉",
+      "在包裝上寫日期和重量，方便計算退冰天數",
+      "去骨肩肉冷凍前先分切成小塊，退冰更快",
+      "做手撕豬肉要低溫慢煮到約 93 °C；切片烤肉至少 63 °C 並靜置 3 分鐘"
+    ],
+    "faq": [
+      {"q": "梅花肉可以冷凍嗎？", "a": "可以。包緊、排除空氣後放進 −18 °C 冷凍庫，4～12 個月內品質最好，安全上沒有期限。"},
+      {"q": "生豬肩肉放冰箱可以放多久？", "a": "生豬肩肉在 4 °C 以下冷藏，從購買日起可放 3～5 天。"},
+      {"q": "整塊豬肩肉退冰要多久？", "a": "冷藏退冰大約每 2～2.5 公斤需要 24 小時，大塊帶骨肩肉可能要 2～3 天。"}
+    ]
+  },
+  "ja": {
+    "name": "豚肩ロース・豚肩肉",
+    "aliases": ["豚肩ロースかたまり", "豚うで肉", "ポークショルダー", "ボストンバット", "豚肩肉ブロック"],
+    "summary": "豚の肩肉（肩ロースやうで肉、海外ではボストンバットやピクニックショルダー）は脂がほどよく入った部位で、ローストやチャーシュー、プルドポーク、煮込みに向いています。生の状態なら購入日から冷蔵で3〜5日、冷凍なら4〜12か月がおいしさの目安です。脂が多いので冷凍しても品質を保ちやすい一方、骨付きの大きなかたまりは解凍に時間がかかります。",
+    "pantry": "生の肩肉を常温に置いてはいけません。4〜60 °Cでは細菌が急速に増えるため、室温に2時間以上（気温32 °C以上なら1時間以上）出していたものは廃棄してください。一晩塩をすり込んだり下味をつけたりするのは構いませんが、冷蔵庫の中で行いましょう。",
+    "fridge": "パッケージのまま、または包んで縁のあるバットにのせ、冷蔵室の最下段（チルド室）で4 °C以下に保ちます。購入日から3〜5日が目安です。真空パックを開けた直後の軽い刺激臭は、数分で消えれば問題ありません。",
+    "freezer": "ラップでぴったり包み、その上からアルミホイルか大きめの冷凍用保存袋に入れます。骨なしの肩肉は2〜3個のかたまりに切ってから冷凍すると、全部を一度に解凍せずに済みます。−18 °Cで安全面での期限はなく、品質は4〜12か月以内が最良です。表面の脂は肉を守ってくれますが、乾燥しやすい端の部分は切り落としておきましょう。",
+    "thawing": "かたまり1つで冷蔵室に1〜3日、2〜2.5 kgあたり約24時間が目安です。漏れない袋に入れて冷水解凍（500 gにつき30分、30分ごとに水を替える）なら早いですが、目を離せません。室温での解凍は避けてください。",
+    "spoilage": [
+      "酸っぱいにおい、硫黄臭、アンモニア臭がし、特に骨のまわりで強い",
+      "脂の下の肉の表面がぬるぬる・べたべたしている",
+      "赤身の部分が灰色・緑色・茶色に変色している",
+      "パッケージが膨らんでいる、または濁ってにおう肉汁が出ている"
+    ],
+    "tips": [
+      "脂が白くしっかりしていて、赤身がピンク色でみずみずしいものを選ぶ",
+      "包みに日付と重量を書き、解凍にかかる日数を計算する",
+      "骨なしの肩肉は冷凍前に小さめのかたまりに切ると解凍が早い",
+      "プルドポークなら低温でじっくり約93 °Cまで、スライスするローストなら63 °C＋3分の休ませが最低ライン"
+    ],
+    "faq": [
+      {"q": "豚肩ロースのかたまりは冷凍できますか？", "a": "できます。しっかり包んで空気を抜き、−18 °Cで冷凍してください。4〜12か月以内が品質の目安で、安全面での期限はありません。"},
+      {"q": "生の豚肩肉は冷蔵庫でどのくらい持ちますか？", "a": "生の豚肩肉は4 °C以下の冷蔵で、購入日から3〜5日が目安です。"},
+      {"q": "豚肩肉のかたまりの解凍にはどのくらいかかりますか？", "a": "冷蔵室で2〜2.5 kgあたり約24時間が目安で、骨付きの大きなかたまりなら2〜3日かかることがあります。"}
+    ]
+  },
+  "es": {
+    "name": "Paleta de cerdo",
+    "aliases": ["paletilla de cerdo", "espaldilla de cerdo", "hombro de cerdo", "pork butt", "aguja de cerdo", "cabeza de lomo"],
+    "summary": "La paleta de cerdo (también espaldilla, hombro o aguja según el país) es un corte bien veteado, ideal para asados lentos, cerdo desmechado y guisos. Cruda, se conserva de 3 a 5 días en el refrigerador desde la compra y de 4 a 12 meses en el congelador con la mejor calidad. Su grasa ayuda a que se congele bien, pero una paleta grande con hueso tarda mucho en descongelarse.",
+    "pantry": "Nunca dejes una paleta cruda a temperatura ambiente. Entre 4 y 60 °C (40–140 °F) las bacterias se multiplican rápido; deséchala si lleva más de 2 horas fuera, o 1 hora si hace más de 32 °C (90 °F). Salarla o adobarla de un día para otro está bien, pero siempre en el refrigerador.",
+    "fridge": "Guarda la paleta en su envase o envuelta sobre una bandeja con borde en el estante inferior a 4 °C (40 °F) o menos. Dura de 3 a 5 días desde el día de compra. La paleta envasada al vacío puede oler algo fuerte al abrirla; el olor debería desaparecer en minutos.",
+    "freezer": "Envuélvela bien apretada en film plástico y luego en papel de aluminio o una bolsa grande para congelador; una paleta deshuesada puede cortarse en dos o tres piezas antes de congelar para no tener que descongelarla entera. A −18 °C (0 °F) se mantiene segura indefinidamente, con la mejor calidad durante 4 a 12 meses. La capa de grasa protege la carne, pero recorta los bordes irregulares que se resecarían.",
+    "thawing": "Una paleta entera necesita de 1 a 3 días en el refrigerador, unas 24 horas por cada 2–2,5 kg (5 lb). La descongelación en agua fría dentro de una bolsa hermética (30 minutos por cada 500 g/1 lb, cambiando el agua cada media hora) es más rápida pero exige atención. Nunca descongeles a temperatura ambiente.",
+    "spoilage": [
+      "Olor agrio, a azufre o a amoníaco, sobre todo alrededor del hueso",
+      "Superficie babosa o pegajosa bajo la capa de grasa",
+      "Coloración gris, verdosa o marrón en la carne magra",
+      "Envase hinchado o jugos turbios y malolientes"
+    ],
+    "tips": [
+      "Elige una paleta con la grasa firme y blanca y la carne magra rosada y húmeda",
+      "Anota fecha y peso en el envoltorio para planificar los días de descongelación",
+      "Corta la paleta deshuesada en piezas más pequeñas antes de congelar para descongelar más rápido",
+      "Para cerdo desmechado, cocina a fuego lento hasta unos 93 °C (200 °F); para asado en rodajas, el mínimo es 63 °C (145 °F) con 3 minutos de reposo"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la paleta de cerdo?", "a": "Sí. Envuélvela bien, saca el aire y congela a −18 °C (0 °F). Úsala en 4 a 12 meses para la mejor calidad; se mantiene segura indefinidamente."},
+      {"q": "¿Cuánto dura la paleta de cerdo cruda en el refrigerador?", "a": "La paleta de cerdo cruda dura de 3 a 5 días desde la compra a 4 °C (40 °F) o menos."},
+      {"q": "¿Cuánto tarda en descongelarse una paleta de cerdo?", "a": "Calcula unas 24 horas en el refrigerador por cada 2–2,5 kg (5 lb); una paleta grande con hueso puede necesitar 2 o 3 días."}
+    ]
+  }
+}

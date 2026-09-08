@@ -1,0 +1,107 @@
+{
+  "slug": "pork-ground",
+  "en": {
+    "name": "Ground pork",
+    "aliases": ["minced pork", "pork mince", "pork hamburger meat", "ground pork meat"],
+    "summary": "Ground pork is pork that has been minced, which spreads any surface bacteria throughout the meat and gives it a much shorter shelf life than whole cuts. Raw ground pork keeps only 1–2 days in the fridge from purchase and 3–4 months in the freezer for best quality. Plan to cook or freeze it the day you buy it.",
+    "pantry": "Ground pork must never sit at room temperature. It warms into the 4–60 °C (40–140 °F) danger zone within minutes, so discard it after 2 hours out, or 1 hour when it is above 32 °C (90 °F). Do not thaw or marinate it on the counter.",
+    "fridge": "Keep ground pork in its sealed tray or a covered container on the bottom shelf at 4 °C (40 °F) or below. It keeps 1–2 days from purchase, so buy it for a specific meal. Slight greying inside the pack where the meat has not been exposed to air is normal; grey all over with an off smell is not.",
+    "freezer": "Divide into 250–500 g (½–1 lb) portions, flatten inside freezer bags and press out the air; thin slabs freeze in an hour and thaw just as fast. At −18 °C (0 °F) ground pork stays safe indefinitely, but use within 3–4 months for the best flavour, because the large surface area picks up freezer taste quickly.",
+    "thawing": "Thaw flat packs in the fridge overnight, or in a sealed bag in cold water for about an hour, changing the water every 30 minutes. Microwave thawing is fine if you cook the meat immediately. Never thaw on the counter.",
+    "spoilage": [
+      "A sour, tangy or ammonia smell as soon as the pack is opened",
+      "Slimy or sticky texture when you press it",
+      "Dull grey, brown or greenish colour throughout rather than just on the inside",
+      "Puffed-up packaging or an unusually wet, cloudy tray"
+    ],
+    "tips": [
+      "Check the pack date and choose the freshest tray; it is the shortest-lived fresh pork you can buy",
+      "Freeze in the portions your recipes use and label with weight and date",
+      "Flatten bags to 2 cm (¾ in) so they stack and thaw quickly",
+      "Cook to 71 °C (160 °F) all the way through; ground meat should not be served pink"
+    ],
+    "faq": [
+      {"q": "Can you freeze ground pork?", "a": "Yes. Portion it, press flat in freezer bags with the air removed and freeze at −18 °C (0 °F). Best within 3–4 months; safe beyond that."},
+      {"q": "How long does ground pork last in the fridge?", "a": "Raw ground pork keeps just 1–2 days from purchase at 4 °C (40 °F) or below."},
+      {"q": "How can you tell if ground pork has gone bad?", "a": "A sour or ammonia smell is the clearest sign. Slimy texture and grey-green colour throughout the pack also mean it should be discarded."}
+    ]
+  },
+  "zh": {
+    "name": "豬絞肉",
+    "aliases": ["絞肉", "豬肉末", "豬碎肉", "免治豬肉", "猪肉馅", "豬肉餡"],
+    "summary": "豬絞肉是把豬肉絞碎的產品，絞碎的過程會讓表面細菌分散到整團肉裡，所以保存期比整塊肉短很多。生豬絞肉從購買日起冷藏只能放 1～2 天，冷凍 3～4 個月風味最佳。買回來當天就煮或冷凍最安全。",
+    "pantry": "豬絞肉絕對不能放在室溫。它幾分鐘內就會升溫進入 4～60 °C 的危險溫度帶，放超過 2 小時（氣溫超過 32 °C 則 1 小時）就要丟掉。也不要放在流理台上退冰或醃製。",
+    "fridge": "絞肉留在密封的原盤或放入有蓋容器，置於冰箱最下層，溫度維持 4 °C 以下，從購買日起可放 1～2 天，最好為了特定一餐才買。包裝內部沒接觸空氣的地方稍微變灰是正常的；整團變灰又有異味就不對了。",
+    "freezer": "分成 250～500 公克一份，裝進冷凍袋壓平、排出空氣，薄薄一片一小時就能凍硬，退冰也一樣快。在 −18 °C 下安全上沒有期限，但絞肉表面積大、很容易吸附冷凍庫的味道，3～4 個月內用完風味最好。",
+    "thawing": "壓平的絞肉放冷藏室退冰一晚，或連密封袋泡冷水約 1 小時，每 30 分鐘換水。用微波爐解凍後要馬上煮。切勿放在流理台上退冰。",
+    "spoilage": [
+      "一打開包裝就有酸味、發酵味或阿摩尼亞味",
+      "按壓時黏滑、黏手",
+      "整團呈暗灰、褐色或帶綠，而不只是內部變色",
+      "包裝鼓起，或盤內特別濕、液體混濁"
+    ],
+    "tips": [
+      "看包裝日期挑最新鮮的，絞肉是生豬肉中保存期最短的",
+      "依食譜用量分裝冷凍，寫上重量和日期",
+      "袋子壓到約 2 公分厚，好堆疊、退冰快",
+      "絞肉要全熟到 71 °C，不能帶粉紅"
+    ],
+    "faq": [
+      {"q": "豬絞肉可以冷凍嗎？", "a": "可以。分裝後在冷凍袋裡壓平、排出空氣，放進 −18 °C 冷凍庫。3～4 個月內風味最好，超過仍然安全。"},
+      {"q": "豬絞肉放冰箱可以放多久？", "a": "生豬絞肉在 4 °C 以下冷藏，從購買日起只能放 1～2 天。"},
+      {"q": "怎麼判斷豬絞肉壞掉了？", "a": "酸味或阿摩尼亞味是最明顯的訊號；摸起來黏滑、整團灰綠色也代表要丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "豚ひき肉",
+    "aliases": ["豚ミンチ", "豚挽肉", "豚のひき肉", "ポークミンチ"],
+    "summary": "豚ひき肉は豚肉を細かく挽いたもので、表面にいた細菌が肉全体に混ざるため、かたまり肉よりずっと日持ちしません。生の豚ひき肉は購入日から冷蔵で1〜2日、冷凍なら3〜4か月がおいしさの目安です。買った日に調理するか冷凍する前提で考えましょう。",
+    "pantry": "豚ひき肉を常温に置いてはいけません。数分で4〜60 °Cの危険温度帯に入るため、室温に2時間以上（気温32 °C以上なら1時間以上）出していたものは廃棄してください。室温での解凍や漬け込みも避けましょう。",
+    "fridge": "トレーのまま、またはふた付き容器に入れ、冷蔵室の最下段（チルド室）で4 °C以下に保ちます。購入日から1〜2日が目安なので、使う料理を決めてから買うのがおすすめです。空気に触れていないパック内側が少し灰色っぽいのは正常ですが、全体が灰色でにおいがするのは傷んでいます。",
+    "freezer": "250〜500 gずつ冷凍用保存袋に入れて平らにのばし、空気を抜きます。薄い板状にすれば1時間ほどで凍り、解凍も同じくらい早く済みます。−18 °Cで安全面での期限はありませんが、表面積が大きく冷凍庫のにおいを吸いやすいので、風味の面では3〜4か月以内に使い切りましょう。",
+    "thawing": "平らにした袋を冷蔵室で一晩かけて解凍するか、密閉袋のまま冷水に浸けて30分ごとに水を替え、約1時間で解凍します。電子レンジで解凍した場合はすぐに調理してください。室温での解凍は避けましょう。",
+    "spoilage": [
+      "開封した瞬間に酸っぱいにおい、発酵臭、アンモニア臭がする",
+      "押すとぬるぬる、ねばねばしている",
+      "内側だけでなく全体がくすんだ灰色・茶色・緑がかった色になっている",
+      "パックが膨らんでいる、トレーが異常に濡れていて液体が濁っている"
+    ],
+    "tips": [
+      "加工日を確認していちばん新しいものを選ぶ。生の豚肉の中でいちばん日持ちしない",
+      "レシピで使う量ごとに小分け冷凍し、重量と日付を書く",
+      "袋は厚さ2 cmほどに平らにすると重ねやすく、解凍も早い",
+      "中心まで71 °Cに達するまでしっかり加熱する。ひき肉はピンク色が残った状態で出さない"
+    ],
+    "faq": [
+      {"q": "豚ひき肉は冷凍できますか？", "a": "できます。小分けにして冷凍用保存袋で平らにのばし、空気を抜いて−18 °Cで冷凍してください。3〜4か月以内がおすすめで、それ以降も安全です。"},
+      {"q": "豚ひき肉は冷蔵庫でどのくらい持ちますか？", "a": "生の豚ひき肉は4 °C以下の冷蔵で、購入日から1〜2日しか持ちません。"},
+      {"q": "豚ひき肉が傷んでいるかどうかの見分け方は？", "a": "酸っぱいにおいやアンモニア臭がいちばん分かりやすいサインです。ぬめりや、パック全体の灰緑色の変色も廃棄の目安です。"}
+    ]
+  },
+  "es": {
+    "name": "Carne molida de cerdo",
+    "aliases": ["carne picada de cerdo", "cerdo molido", "picadillo de cerdo", "carne de puerco molida", "cerdo picado"],
+    "summary": "La carne molida de cerdo es cerdo picado, un proceso que reparte las bacterias de la superficie por toda la carne y le da una vida útil mucho más corta que la de los cortes enteros. Cruda, se conserva solo 1 o 2 días en el refrigerador desde la compra y 3 o 4 meses en el congelador con la mejor calidad. Planea cocinarla o congelarla el mismo día que la compras.",
+    "pantry": "La carne molida de cerdo nunca debe quedarse a temperatura ambiente. Entra en la zona de peligro de 4 a 60 °C (40–140 °F) en cuestión de minutos; deséchala tras 2 horas fuera, o 1 hora si hace más de 32 °C (90 °F). No la descongeles ni la marines en la encimera.",
+    "fridge": "Guárdala en su bandeja sellada o en un recipiente tapado en el estante inferior a 4 °C (40 °F) o menos. Dura 1 o 2 días desde la compra, así que cómprala para una comida concreta. Un ligero tono gris en el interior del paquete, donde la carne no ha tocado el aire, es normal; gris por todas partes y con mal olor, no.",
+    "freezer": "Divide en porciones de 250–500 g (½–1 lb), aplana dentro de bolsas para congelador y saca el aire; las placas finas se congelan en una hora y se descongelan igual de rápido. A −18 °C (0 °F) la carne molida se mantiene segura indefinidamente, pero úsala en 3 o 4 meses para el mejor sabor, porque su gran superficie absorbe pronto el gusto a congelador.",
+    "thawing": "Descongela los paquetes planos en el refrigerador de un día para otro, o en una bolsa cerrada dentro de agua fría durante alrededor de una hora, cambiando el agua cada 30 minutos. El microondas sirve si cocinas la carne de inmediato. Nunca descongeles en la encimera.",
+    "spoilage": [
+      "Olor agrio, ácido o a amoníaco nada más abrir el paquete",
+      "Textura babosa o pegajosa al presionarla",
+      "Color gris apagado, marrón o verdoso en toda la carne, no solo en el interior",
+      "Envase hinchado o bandeja inusualmente húmeda con líquido turbio"
+    ],
+    "tips": [
+      "Revisa la fecha de envasado y elige la bandeja más fresca; es el cerdo fresco de menor duración que puedes comprar",
+      "Congela en las porciones que usan tus recetas y etiqueta con peso y fecha",
+      "Aplana las bolsas hasta unos 2 cm (¾ in) para que se apilen y se descongelen rápido",
+      "Cocina hasta 71 °C (160 °F) en todo el grosor; la carne molida no debe servirse rosada"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la carne molida de cerdo?", "a": "Sí. Porciónala, aplánala en bolsas para congelador sin aire y congela a −18 °C (0 °F). Mejor en 3 o 4 meses; segura después."},
+      {"q": "¿Cuánto dura la carne molida de cerdo en el refrigerador?", "a": "La carne molida de cerdo cruda dura apenas 1 o 2 días desde la compra a 4 °C (40 °F) o menos."},
+      {"q": "¿Cómo saber si la carne molida de cerdo está mala?", "a": "El olor agrio o a amoníaco es la señal más clara. La textura babosa y el color gris verdoso en todo el paquete también indican que hay que tirarla."}
+    ]
+  }
+}

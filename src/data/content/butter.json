@@ -1,0 +1,107 @@
+{
+  "slug": "butter",
+  "en": {
+    "name": "Butter",
+    "aliases": ["salted butter", "unsalted butter", "sweet cream butter", "stick butter"],
+    "summary": "Butter keeps for 1–2 months in the fridge counted from the day you buy it, and 6–9 months in the freezer at best quality. A small amount can sit at room temperature for 1–2 days if you like it spreadable.",
+    "pantry": "Butter can be left out for 1–2 days, ideally in a covered butter dish away from sunlight and the stove. Salted butter tolerates this better than unsalted because salt slows spoilage. Keep only what you will use in a day or two on the counter and store the rest in the fridge, especially in warm kitchens above about 25 °C (77 °F).",
+    "fridge": "Store butter in its original wrapper or a lidded butter dish in the main compartment of the fridge, at or below 4 °C (40 °F), for 1–2 months from purchase. The door shelf is convenient but warmer, so it is better for butter you will finish quickly. Keep it wrapped, because butter easily picks up odours from onions, fish and other strong-smelling foods.",
+    "freezer": "Butter freezes very well. Leave it in the original wrapper and add a layer of foil or a freezer bag, or portion it into sticks so you can thaw only what you need. At −18 °C (0 °F) it stays safe indefinitely; the 6–9 month window is for the best flavour and texture.",
+    "thawing": "Move frozen butter to the fridge and let it thaw overnight. For baking you can also grate frozen butter straight into flour. Do not thaw it on the counter for hours.",
+    "spoilage": [
+      "A sour, cheesy or rancid smell, similar to old oil or crayons",
+      "A darker yellow outer layer while the inside stays pale (oxidation)",
+      "Mould spots, which can be green, black or pink",
+      "A sharp, bitter or soapy taste"
+    ],
+    "tips": [
+      "Buy salted butter for the counter and unsalted for the fridge or freezer; unsalted spoils faster at room temperature.",
+      "Write the purchase date on the wrapper before freezing.",
+      "Freeze in whole sticks or 100 g blocks so recipes are easy to measure.",
+      "Keep butter away from strong-smelling foods; a lidded dish works better than an open plate."
+    ],
+    "faq": [
+      {"q": "Can you freeze butter?", "a": "Yes. Wrap it well and freeze at −18 °C (0 °F); it keeps its best quality for 6–9 months and remains safe far longer."},
+      {"q": "How can you tell if butter has gone bad?", "a": "Smell it first: rancid or sour notes mean it is past its best. Discolouration, mould or a bitter taste are also signs to discard it."},
+      {"q": "Does butter need to be refrigerated?", "a": "For anything longer than 1–2 days, yes. Butter keeps 1–2 months in the fridge, but a small amount can stay out for a day or two in a covered dish."}
+    ]
+  },
+  "zh": {
+    "name": "奶油",
+    "aliases": ["牛油", "黃油", "無鹽奶油", "有鹽奶油", "butter"],
+    "summary": "奶油（牛油）從購買日算起，冷藏可放 1～2 個月，冷凍則可保持最佳品質 6～9 個月。若想維持好抹的軟度，少量奶油可在室溫放 1～2 天。",
+    "pantry": "奶油可在室溫放 1～2 天，建議用有蓋的奶油盒裝好，避開陽光和爐火。有鹽奶油比無鹽奶油更耐放，因為鹽分能減緩變質。台灣天氣濕熱，室溫常超過 25 °C，桌上只留一兩天要用的量，其餘放回冰箱最保險。",
+    "fridge": "奶油請用原包裝或有蓋的奶油盒放在冷藏室主層，溫度保持在 4 °C 以下，從購買日起可放 1～2 個月。冰箱門的溫度較高，適合放很快就會用完的奶油。務必包好，因為奶油很容易吸附洋蔥、魚等重味食物的氣味。",
+    "freezer": "奶油非常適合冷凍。保留原包裝，外面再加一層鋁箔或放入夾鏈冷凍袋，也可以先切成小塊分裝，要用時只解凍需要的量。−18 °C 冷凍可以無限期保持安全，6～9 個月是風味與口感最好的期限。",
+    "thawing": "冷凍奶油放到冷藏室隔夜解凍即可；做烘焙時也可以直接把冷凍奶油刨絲拌入麵粉。不要放在室溫下慢慢退冰好幾個小時。",
+    "spoilage": [
+      "聞起來有酸味、油耗味或像放久的油",
+      "外層顏色變深黃，內部仍是淡色（氧化）",
+      "出現綠色、黑色或粉色的黴點",
+      "吃起來有苦味、刺鼻味或肥皂味"
+    ],
+    "tips": [
+      "放桌上用的買有鹽奶油，冷藏或冷凍用無鹽奶油即可；無鹽奶油在室溫下壞得比較快。",
+      "冷凍前在包裝上寫上購買日期。",
+      "冷凍時分成整條或 100 公克的小塊，做菜時方便計量。",
+      "遠離重味食物，用有蓋的奶油盒比放在盤子上更好。"
+    ],
+    "faq": [
+      {"q": "奶油可以冷凍嗎？", "a": "可以。包好後放進 −18 °C 冷凍庫，6～9 個月內品質最好，安全上可以放更久。"},
+      {"q": "奶油壞掉怎麼看？", "a": "先聞味道，有油耗味或酸味就是變質了；顏色改變、發黴或吃起來發苦也要丟掉。"},
+      {"q": "奶油一定要放冰箱嗎？", "a": "超過 1～2 天就要。冷藏可放 1～2 個月，少量奶油用有蓋盒子在室溫放一兩天沒問題。"}
+    ]
+  },
+  "ja": {
+    "name": "バター",
+    "aliases": ["有塩バター", "無塩バター", "食塩不使用バター", "butter"],
+    "summary": "バターは購入日から数えて冷蔵で1〜2か月、冷凍なら6〜9か月おいしく保存できます。塗りやすい柔らかさを保ちたいなら、少量であれば室温に1〜2日置いても大丈夫です。",
+    "pantry": "バターは室温で1〜2日なら置いておけます。ふた付きのバターケースに入れ、直射日光やコンロの近くは避けましょう。有塩バターは塩分が傷みを遅らせるため、無塩バターより室温に強いです。特に室温が25 °Cを超える時期は、1〜2日で使い切る分だけを出し、残りは冷蔵庫に戻してください。",
+    "fridge": "バターは元の包装かふた付きのバターケースに入れ、冷蔵室の本体（4 °C以下）で購入日から1〜2か月保存できます。ドアポケットは便利ですが温度が高めなので、すぐ使い切るバター向きです。玉ねぎや魚などのにおいを吸いやすいので、必ず包んで保存しましょう。",
+    "freezer": "バターは冷凍に向いています。元の包装のまま、さらにアルミホイルか冷凍用保存袋で包むか、あらかじめ小分けにして必要な分だけ解凍できるようにしておくと便利です。−18 °Cで保存すれば安全性は無期限に保たれ、6〜9か月という目安は風味と食感を保つための期間です。",
+    "thawing": "冷凍したバターは冷蔵庫に移して一晩かけて解凍します。お菓子作りなら、凍ったまますりおろして粉に混ぜることもできます。室温に何時間も放置して解凍するのは避けてください。",
+    "spoilage": [
+      "酸っぱいにおい、チーズのようなにおい、古い油のようなにおい",
+      "外側だけ濃い黄色になり、中は薄い色のまま（酸化のサイン）",
+      "緑・黒・ピンクなどのカビ",
+      "苦味や石けんのような味"
+    ],
+    "tips": [
+      "室温に置く分は有塩バター、冷蔵・冷凍用は無塩バターと使い分けると失敗が少なくなります。",
+      "冷凍する前に包装に購入日を書いておきましょう。",
+      "1本ずつ、または100 gごとに分けて冷凍するとレシピで量りやすくなります。",
+      "においの強い食品から離し、皿に置くよりふた付きのケースを使いましょう。"
+    ],
+    "faq": [
+      {"q": "バターは冷凍できますか？", "a": "できます。しっかり包んで−18 °Cで冷凍すれば、6〜9か月は風味よく保存でき、安全面ではそれ以上もちます。"},
+      {"q": "バターが傷んでいるかどうかはどう見分けますか？", "a": "まずにおいを確認します。油の酸化したにおいや酸っぱいにおいがしたら処分してください。変色やカビ、苦味も傷みのサインです。"},
+      {"q": "バターは冷蔵庫に入れないとダメですか？", "a": "1〜2日以上置くなら冷蔵が必要です。冷蔵なら1〜2か月保存できますが、少量ならふた付きのケースで1〜2日室温に置いても問題ありません。"}
+    ]
+  },
+  "es": {
+    "name": "Mantequilla",
+    "aliases": ["manteca", "mantequilla con sal", "mantequilla sin sal", "butter"],
+    "summary": "La mantequilla se conserva 1–2 meses en el refrigerador contando desde el día de compra, y 6–9 meses en el congelador con la mejor calidad. Una pequeña cantidad puede quedarse a temperatura ambiente 1–2 días si la prefieres fácil de untar.",
+    "pantry": "La mantequilla puede estar fuera del refrigerador 1–2 días, mejor en una mantequillera con tapa, lejos del sol y de la estufa. La mantequilla con sal aguanta mejor que la sin sal, porque la sal frena el deterioro. Deja en la mesa solo lo que vayas a usar en uno o dos días y guarda el resto en frío, sobre todo si la cocina supera los 25 °C (77 °F).",
+    "fridge": "Guarda la mantequilla en su envoltorio original o en una mantequillera tapada, en el cuerpo del refrigerador a 4 °C (40 °F) o menos, hasta 1–2 meses desde la compra. La puerta es cómoda pero más cálida, así que úsala solo para la mantequilla que terminarás pronto. Mantenla bien envuelta, porque absorbe con facilidad el olor de cebollas, pescado y otros alimentos fuertes.",
+    "freezer": "La mantequilla se congela muy bien. Déjala en su envoltorio y añade una capa de papel de aluminio o una bolsa para congelar, o divídela en barras para descongelar solo lo necesario. A −18 °C (0 °F) se mantiene segura indefinidamente; los 6–9 meses indican el periodo de mejor sabor y textura.",
+    "thawing": "Pasa la mantequilla congelada al refrigerador y déjala descongelar toda la noche. Para hornear también puedes rallarla congelada directamente sobre la harina. No la dejes horas sobre la encimera.",
+    "spoilage": [
+      "Olor agrio, a queso o rancio, parecido al aceite viejo",
+      "Capa exterior de color amarillo más oscuro mientras el interior sigue pálido (oxidación)",
+      "Manchas de moho verdes, negras o rosadas",
+      "Sabor amargo, punzante o a jabón"
+    ],
+    "tips": [
+      "Compra mantequilla con sal para la mesa y sin sal para el refrigerador o congelador; la sin sal se estropea antes a temperatura ambiente.",
+      "Anota la fecha de compra en el envoltorio antes de congelar.",
+      "Congela en barras enteras o bloques de 100 g para medir fácilmente en las recetas.",
+      "Aléjala de alimentos con olor fuerte; una mantequillera tapada funciona mejor que un plato abierto."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la mantequilla?", "a": "Sí. Envuélvela bien y congélala a −18 °C (0 °F); conserva su mejor calidad durante 6–9 meses y sigue siendo segura mucho más tiempo."},
+      {"q": "¿Cómo saber si la mantequilla está mala?", "a": "Huélela primero: si tiene notas rancias o agrias, ya pasó su mejor momento. La decoloración, el moho o un sabor amargo también indican que hay que desecharla."},
+      {"q": "¿La mantequilla necesita refrigeración?", "a": "Sí, si va a durar más de 1–2 días. En el refrigerador se conserva 1–2 meses, aunque una pequeña cantidad puede quedarse fuera uno o dos días en una mantequillera tapada."}
+    ]
+  }
+}

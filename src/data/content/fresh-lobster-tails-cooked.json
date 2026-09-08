@@ -1,0 +1,107 @@
+{
+  "slug": "fresh-lobster-tails-cooked",
+  "en": {
+    "name": "Lobster tails (cooked)",
+    "aliases": ["cooked lobster tail", "boiled lobster tails", "steamed lobster tail", "lobster tail meat", "leftover lobster"],
+    "summary": "Cooked lobster tails, whether boiled, steamed or grilled at home or bought ready-cooked, keep 2–3 days in the fridge from purchase. In the freezer they hold their best quality for only 2–4 weeks, so freeze them promptly and eat them soon.",
+    "pantry": "Cooked lobster is perishable and should not sit out. Refrigerate leftovers within 2 hours of cooking or serving, or within 1 hour if the room is above 32 °C (90 °F). At a buffet, keep the tails on a bed of ice.",
+    "fridge": "Cool cooked lobster tails quickly, then store them at or below 4 °C (40 °F) in an airtight container or tightly wrapped in plastic, and eat them within 2–3 days. Leaving the meat in the shell helps it stay moist. Keep them in the coldest part of the fridge, away from the door.",
+    "freezer": "Cooked lobster tails freeze for 2–4 weeks at −18 °C (0 °F) before the meat starts to dry out and toughen. Wrap each tail tightly in plastic wrap, then place in a freezer bag with the air pressed out, or freeze the picked meat covered in a little broth or butter. They stay safe longer but quality drops noticeably after a month.",
+    "thawing": "Thaw cooked lobster tails overnight in the fridge and eat within a day. For quicker thawing, keep them sealed in a bag in cold water changed every 30 minutes. Never thaw on the counter, and reheat gently to avoid rubbery meat.",
+    "spoilage": [
+      "Sour, ammonia-like or strong fishy smell",
+      "Slimy or sticky surface on the meat",
+      "Meat that has turned grey, greenish or dull instead of white with red edges",
+      "Mushy, stringy or dried-out texture"
+    ],
+    "tips": [
+      "Chill leftovers fast: split large tails or remove the meat so they cool quickly",
+      "Store the meat in its shell to keep it moist, and wrap tightly",
+      "Freeze on the day of cooking and label with the date; aim to eat within a month",
+      "Use frozen tails in cooked dishes such as pasta, bisque or lobster rolls where texture matters less"
+    ],
+    "faq": [
+      {"q": "Can you freeze cooked lobster tails?", "a": "Yes, but only briefly. Wrap them tightly and freeze at −18 °C (0 °F); the meat keeps its best quality for 2–4 weeks."},
+      {"q": "How long do cooked lobster tails last in the fridge?", "a": "2–3 days from purchase or cooking at or below 4 °C (40 °F), stored airtight in the coldest part of the fridge."},
+      {"q": "How can you tell if cooked lobster has gone bad?", "a": "An ammonia or sour smell, slimy texture, or grey and mushy meat mean the lobster should be thrown out."}
+    ]
+  },
+  "zh": {
+    "name": "龍蝦尾（熟）",
+    "aliases": ["熟龍蝦尾", "水煮龍蝦尾", "蒸龍蝦尾", "龍蝦尾肉", "剩下的龍蝦"],
+    "summary": "煮熟的龍蝦尾，不論是自己水煮、清蒸、燒烤，或是買現成熟的，冷藏自購買日起可放 2～3 天。冷凍只能維持 2～4 週的最佳品質，所以要盡快冷凍、盡快吃完。",
+    "pantry": "熟龍蝦是生鮮食品，不能放在外面。煮好或上桌後 2 小時內要放冰箱，室溫高於 32 °C 時 1 小時內。自助餐或宴客時，龍蝦尾要放在冰上。",
+    "fridge": "熟龍蝦尾先快速放涼，再裝進密封盒或用保鮮膜緊緊包好，放在 4 °C 以下冷藏，2～3 天內吃完。肉留在殼裡比較不會乾掉。放在冰箱最冷的位置，不要放冰箱門邊。",
+    "freezer": "熟龍蝦尾在 −18 °C 下可冷凍 2～4 週，之後肉會開始變乾變硬。每條尾巴用保鮮膜緊緊包好，再放入冷凍袋壓出空氣；或是取出肉，淋一點高湯或奶油後冷凍。超過期限仍然安全，但一個月後品質明顯下降。",
+    "thawing": "放冷藏室解凍一晚，解凍後一天內吃完。趕時間可連密封袋泡冷水，每 30 分鐘換水。不要放室溫解凍，加熱時用小火，以免肉變韌。",
+    "spoilage": [
+      "有酸味、氨味或濃烈腥味",
+      "肉的表面黏滑",
+      "肉變灰、帶綠色或失去光澤，不再是白色帶紅邊",
+      "口感軟爛、有絲狀纖維或乾柴"
+    ],
+    "tips": [
+      "剩菜要快速降溫：大尾的可以剖半或先取肉，冷得比較快",
+      "肉留在殼裡保存比較濕潤，並包緊",
+      "煮好當天就冷凍並標上日期，盡量一個月內吃完",
+      "冷凍過的龍蝦尾適合做義大利麵、濃湯或龍蝦堡，口感差異比較不明顯"
+    ],
+    "faq": [
+      {"q": "熟龍蝦尾可以冷凍嗎？", "a": "可以，但不宜久放。包緊後放 −18 °C 冷凍，2～4 週內品質最佳。"},
+      {"q": "熟龍蝦尾放冰箱可以放多久？", "a": "自購買或煮熟起 2～3 天，冷藏 4 °C 以下，密封放在冰箱最冷的位置。"},
+      {"q": "熟龍蝦壞掉怎麼分辨？", "a": "有氨味或酸味、表面黏滑、肉變灰或軟爛，就應該丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "ロブスターテール（加熱済み）",
+    "aliases": ["ボイルロブスターテール", "オマールの尾", "ロブスターの尻尾", "茹でロブスター", "ロブスターの残り"],
+    "summary": "加熱済みのロブスターテールは、家で茹でたり蒸したり焼いたりしたものも、調理済みで買ったものも、冷蔵では購入から2〜3日が目安です。冷凍しても品質を保てるのは2〜4週間だけなので、早めに冷凍して早めに食べ切りましょう。",
+    "pantry": "加熱済みのロブスターは傷みやすく、出しっぱなしにできません。調理や配膳から2時間以内（室温32 °C超なら1時間以内）に冷蔵庫へ入れてください。ビュッフェで出すなら氷を敷いた上にのせましょう。",
+    "fridge": "加熱したロブスターテールは素早く冷まし、密閉容器に入れるかラップでぴったり包んで4 °C以下で冷蔵し、2〜3日以内に食べます。身は殻に入れたままの方がしっとり保てます。ドア側ではなく庫内の最も冷える場所に置いてください。",
+    "freezer": "加熱済みロブスターテールは−18 °Cで2〜4週間が目安で、それを過ぎると身が乾いて硬くなります。1本ずつラップでぴったり包み、空気を抜いた冷凍用保存袋に入れるか、身を取り出して少量のだしやバターをかけて冷凍します。それ以上でも安全ですが、1か月を過ぎると品質がはっきり落ちます。",
+    "thawing": "冷蔵庫で一晩かけて解凍し、その日のうちに食べます。急ぐ場合は密封袋のまま冷水に浸け、30分ごとに水を替えてください。室温では解凍せず、温め直すときは弱火でゆっくり、身が硬くならないようにします。",
+    "spoilage": [
+      "酸っぱいにおい、アンモニア臭、強い生臭さ",
+      "身の表面がぬるぬる・べたべたする",
+      "白に赤い縁の色ではなく、灰色や緑がかった色、くすんだ色になっている",
+      "ぐずぐず・筋っぽい・パサパサした食感"
+    ],
+    "tips": [
+      "残りは素早く冷ます：大きな尾は半分に割るか身を外すと早く冷える",
+      "身は殻に入れたまま保存するとしっとりし、しっかり包む",
+      "調理した当日に冷凍して日付を書き、1か月以内に食べ切る",
+      "冷凍したものはパスタやビスク、ロブスターロールなど食感が気になりにくい料理に"
+    ],
+    "faq": [
+      {"q": "加熱済みのロブスターテールは冷凍できますか？", "a": "できますが短期間だけです。しっかり包んで−18 °Cで冷凍し、2〜4週間以内に食べるとおいしくいただけます。"},
+      {"q": "加熱済みのロブスターテールは冷蔵庫でどのくらい持ちますか？", "a": "購入または調理から2〜3日、4 °C以下で密閉して庫内の最も冷える場所に保存してください。"},
+      {"q": "加熱したロブスターが傷んでいるかどうかの見分け方は？", "a": "アンモニア臭や酸っぱいにおい、ぬめり、灰色でぐずぐずした身は処分のサインです。"}
+    ]
+  },
+  "es": {
+    "name": "Colas de langosta (cocidas)",
+    "aliases": ["cola de bogavante cocida", "colas de langosta hervidas", "cola de langosta al vapor", "carne de cola de langosta", "sobras de langosta"],
+    "summary": "Las colas de langosta cocidas, ya sean hervidas, al vapor o a la parrilla en casa o compradas listas, duran 2–3 días en el refrigerador desde la compra. En el congelador mantienen su mejor calidad solo 2–4 semanas, así que congélalas pronto y cómelas cuanto antes.",
+    "pantry": "La langosta cocida es perecedera y no debe quedarse fuera. Refrigera las sobras en las 2 horas siguientes a cocinarlas o servirlas, o en 1 hora si hace más de 32 °C (90 °F). En un bufé, mantén las colas sobre una cama de hielo.",
+    "fridge": "Enfría rápido las colas cocidas y guárdalas a 4 °C (40 °F) o menos en un recipiente hermético o bien envueltas en film, y cómelas en 2–3 días. Dejar la carne dentro de la cáscara ayuda a que no se seque. Colócalas en la zona más fría del refrigerador, lejos de la puerta.",
+    "freezer": "Las colas de langosta cocidas se congelan 2–4 semanas a −18 °C (0 °F) antes de que la carne empiece a secarse y endurecerse. Envuelve cada cola bien apretada en film y métela en una bolsa de congelación sin aire, o congela la carne extraída cubierta con un poco de caldo o mantequilla. Siguen siendo seguras más tiempo, pero la calidad baja de forma notable pasado un mes.",
+    "thawing": "Descongela las colas cocidas en el refrigerador durante la noche y cómelas en un día. Para ir más rápido, déjalas en una bolsa cerrada dentro de agua fría que cambies cada 30 minutos. Nunca las descongeles sobre la encimera y recaliéntalas con suavidad para que la carne no quede gomosa.",
+    "spoilage": [
+      "Olor agrio, a amoníaco o muy fuerte a pescado",
+      "Superficie viscosa o pegajosa en la carne",
+      "Carne grisácea, verdosa o apagada en lugar de blanca con bordes rojos",
+      "Textura pastosa, fibrosa o reseca"
+    ],
+    "tips": [
+      "Enfría las sobras rápido: parte las colas grandes o saca la carne para que se enfríen antes",
+      "Guarda la carne dentro de la cáscara para que se mantenga jugosa, y envuélvela bien",
+      "Congela el mismo día de cocinar, anota la fecha y procura comerlas en un mes",
+      "Usa las colas congeladas en pasta, bisque o bocadillos de langosta, donde la textura importa menos"
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las colas de langosta cocidas?", "a": "Sí, pero poco tiempo. Envuélvelas bien y congélalas a −18 °C (0 °F); la carne mantiene su mejor calidad 2–4 semanas."},
+      {"q": "¿Cuánto duran las colas de langosta cocidas en el refrigerador?", "a": "2–3 días desde la compra o la cocción, a 4 °C (40 °F) o menos, en un recipiente hermético en la zona más fría."},
+      {"q": "¿Cómo saber si la langosta cocida está mala?", "a": "Un olor a amoníaco o agrio, la textura viscosa y la carne gris o pastosa indican que hay que tirarla."}
+    ]
+  }
+}

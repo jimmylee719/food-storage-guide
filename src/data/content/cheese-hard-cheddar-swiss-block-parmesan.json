@@ -1,0 +1,107 @@
+{
+  "slug": "cheese-hard-cheddar-swiss-block-parmesan",
+  "en": {
+    "name": "Hard cheese (cheddar, Swiss, block parmesan)",
+    "aliases": ["block cheese", "aged cheese", "cheddar", "Swiss cheese", "parmesan wedge"],
+    "summary": "Hard and semi-hard cheeses such as cheddar, Swiss (Emmental, Gruyère) and block parmesan are the longest-lasting cheeses in the fridge. Unopened, they keep about 6 months from purchase; once opened, use them within 3–4 weeks. They can also be frozen for up to 6 months, best for cooking.",
+    "pantry": "Hard cheese should live in the fridge, not on the counter. It can sit out for serving, but the 2-hour rule applies: put it back within 2 hours, or 1 hour if the room is above 32 °C (90 °F). A cheese board left out all evening loses moisture and picks up bacteria, so only bring out what will be eaten.",
+    "fridge": "Keep unopened blocks in their original packaging at or below 4 °C (40 °F) for up to 6 months from purchase. Once opened, wrap the cheese in wax or parchment paper and then loosely in plastic or a container, and use it within 3–4 weeks. The cheese drawer or a lower shelf is best; the door is too warm.",
+    "freezer": "Hard cheese freezes safely for up to 6 months but becomes crumbly, so it is best grated or used in cooked dishes afterwards. Cut it into portions of 250 g (½ lb) or less, wrap tightly, and place in a freezer bag with the air pressed out. At −18 °C (0 °F) it stays safe indefinitely; the 6-month window is about texture.",
+    "thawing": "Thaw frozen cheese in the fridge overnight and use it soon after. Grated cheese can go straight from the freezer into sauces, casseroles or on pizza.",
+    "spoilage": [
+      "Fuzzy blue, green or black mould spreading across the surface (on hard cheese you can cut away 2.5 cm/1 inch around a small spot)",
+      "An ammonia-like or sour smell instead of a nutty, sharp aroma",
+      "A slimy or sticky surface",
+      "A pinkish or unusual discolouration or a hardened, cracked rind that tastes bitter"
+    ],
+    "tips": [
+      "Buy whole blocks rather than pre-sliced; less cut surface means longer life.",
+      "Re-wrap in fresh paper each time you open it, and label the date you opened it.",
+      "Grate cheese before freezing so you can use it straight from the bag.",
+      "Keep cheese away from strong-smelling foods; it absorbs odours easily."
+    ],
+    "faq": [
+      {"q": "Can you freeze cheddar or parmesan?", "a": "Yes, for up to 6 months. The texture turns crumbly, so grate it first or plan to use it in cooked dishes."},
+      {"q": "How can you tell if hard cheese has gone bad?", "a": "Look for widespread mould, an ammonia or sour smell, or a slimy surface. A small mould spot on a hard block can be trimmed with a generous margin; discard soft or shredded cheese with mould."},
+      {"q": "How long does cheddar last in the fridge once opened?", "a": "About 3–4 weeks when rewrapped well and kept at or below 4 °C (40 °F). Unopened, it keeps about 6 months."}
+    ]
+  },
+  "zh": {
+    "name": "硬質起司（切達、瑞士、帕瑪森塊）",
+    "aliases": ["硬質乳酪", "芝士", "起士", "切達起司", "帕馬森乾酪", "硬質芝士"],
+    "summary": "切達、瑞士起司（艾曼塔、葛瑞爾）和整塊帕瑪森這類硬質或半硬質起司，是冰箱裡最耐放的起司。未開封從購買日起約可冷藏 6 個月，開封後請在 3～4 週內吃完；也可以冷凍最多 6 個月，冷凍後適合入菜。",
+    "pantry": "硬質起司應該放冰箱，不要放在室溫。端上桌享用沒問題，但要遵守 2 小時原則：2 小時內放回冰箱，室溫超過 32 °C 則是 1 小時。起司盤放整晚會失去水分也容易滋生細菌，所以只拿出要吃的量就好。",
+    "fridge": "未開封的整塊起司請保留原包裝，放在 4 °C 以下的冷藏室，從購買日起最多可放 6 個月。開封後先用蠟紙或烘焙紙包起來，外面再鬆鬆地套一層保鮮膜或放進保鮮盒，3～4 週內用完。放在起司抽屜或下層最好，冰箱門太溫暖。",
+    "freezer": "硬質起司可以安全冷凍最多 6 個月，但質地會變得容易碎裂，之後適合刨絲或用在熟食料理。切成 250 公克以下的小塊，包緊後放進冷凍袋並把空氣壓出。−18 °C 冷凍可以無限期保持安全，6 個月是質地最佳的期限。",
+    "thawing": "冷凍起司放冷藏室隔夜解凍，解凍後盡快用完。起司絲可以直接從冷凍庫拿出來加進醬汁、焗烤或披薩。",
+    "spoilage": [
+      "表面出現大片藍色、綠色或黑色的絨毛狀黴菌（硬質起司上的小黴點可以連同周圍 2.5 公分一起切掉）",
+      "聞起來有阿摩尼亞味或酸味，而不是堅果般的濃香",
+      "表面變得黏滑",
+      "出現粉紅色或不正常的變色，或外皮乾硬龜裂且帶苦味"
+    ],
+    "tips": [
+      "買整塊而不是切片包裝，切面越少放越久。",
+      "每次打開都換新的紙重新包好，並標上開封日期。",
+      "冷凍前先刨成絲，之後可以直接從袋子裡取用。",
+      "遠離重味食物，起司很容易吸味。"
+    ],
+    "faq": [
+      {"q": "切達起司或帕瑪森可以冷凍嗎？", "a": "可以，最多 6 個月。冷凍後質地會變碎，建議先刨絲，或之後拿來做熟食料理。"},
+      {"q": "硬質起司壞掉怎麼看？", "a": "注意大面積發黴、阿摩尼亞味或酸味、表面黏滑。整塊硬質起司上的小黴點可以多切掉一些周圍；軟質或起司絲發黴就整包丟掉。"},
+      {"q": "切達起司開封後放冰箱可以放多久？", "a": "重新包好放在 4 °C 以下約可放 3～4 週。未開封的話大約 6 個月。"}
+    ]
+  },
+  "ja": {
+    "name": "ハードチーズ（チェダー、スイス、パルミジャーノ）",
+    "aliases": ["硬質チーズ", "チェダーチーズ", "エメンタール", "パルメザンチーズ", "ブロックチーズ"],
+    "summary": "チェダー、スイスチーズ（エメンタール、グリュイエール）、塊のパルミジャーノなどのハード・セミハードチーズは、冷蔵庫で最も日持ちするチーズです。未開封なら購入日から約6か月、開封後は3〜4週間で使い切りましょう。冷凍も6か月まで可能で、料理向きになります。",
+    "pantry": "ハードチーズは室温ではなく冷蔵庫で保存します。食卓に出すのは問題ありませんが、2時間ルールを守り、2時間以内（室温が32 °Cを超える場合は1時間以内）に冷蔵庫へ戻してください。チーズボードを一晩出しっぱなしにすると水分が抜け、細菌も増えやすくなるので、食べる分だけ出すようにしましょう。",
+    "fridge": "未開封のブロックは元の包装のまま4 °C以下の冷蔵室で、購入日から最長6か月保存できます。開封後はワックスペーパーかクッキングシートで包み、その上からゆるくラップをかけるか容器に入れて、3〜4週間で使い切ります。チーズ用の引き出しか下段が最適で、ドアポケットは温度が高すぎます。",
+    "freezer": "ハードチーズは6か月まで安全に冷凍できますが、ぼろぼろと崩れやすくなるので、解凍後はすりおろすか加熱料理に使うのがおすすめです。250 g以下に切り分けてぴったり包み、空気を抜いた冷凍用保存袋に入れましょう。−18 °Cで保存すれば安全性は無期限に保たれ、6か月という目安は食感を保つための期間です。",
+    "thawing": "冷凍したチーズは冷蔵庫で一晩かけて解凍し、早めに使い切ります。すりおろしたチーズは凍ったままソースやグラタン、ピザに使えます。",
+    "spoilage": [
+      "表面に広がる青・緑・黒のふわふわしたカビ（ハードチーズの小さなカビなら周囲2.5 cmごと切り落とせます）",
+      "ナッツのような香りではなく、アンモニア臭や酸っぱいにおい",
+      "表面のぬめりやべたつき",
+      "ピンク色などの異常な変色、または固く割れて苦味のある外皮"
+    ],
+    "tips": [
+      "スライスよりブロックで買うと、切り口が少ない分長持ちします。",
+      "開けるたびに新しい紙で包み直し、開封日を書いておきましょう。",
+      "冷凍前にすりおろしておくと、袋から直接使えて便利です。",
+      "においを吸いやすいので、においの強い食品から離して保存しましょう。"
+    ],
+    "faq": [
+      {"q": "チェダーチーズやパルメザンチーズは冷凍できますか？", "a": "できます。目安は6か月です。食感が崩れやすくなるので、先にすりおろすか加熱料理に使う前提で冷凍しましょう。"},
+      {"q": "ハードチーズが傷んでいるかどうかはどう見分けますか？", "a": "広範囲のカビ、アンモニア臭や酸っぱいにおい、表面のぬめりが目安です。ブロックの小さなカビは大きめに切り落とせますが、ソフトチーズや細切りチーズにカビが出たら処分してください。"},
+      {"q": "チェダーチーズは開封後冷蔵庫でどのくらいもちますか？", "a": "しっかり包み直して4 °C以下で保存すれば3〜4週間が目安です。未開封なら約6か月もちます。"}
+    ]
+  },
+  "es": {
+    "name": "Queso duro (cheddar, suizo, parmesano en bloque)",
+    "aliases": ["queso curado", "queso en bloque", "queso cheddar", "queso suizo", "parmesano en cuña"],
+    "summary": "Los quesos duros y semiduros como el cheddar, el suizo (emmental, gruyer) y el parmesano en bloque son los que más duran en el refrigerador. Sin abrir se conservan unos 6 meses desde la compra; una vez abiertos, úsalos en 3–4 semanas. También se pueden congelar hasta 6 meses, sobre todo para cocinar.",
+    "pantry": "El queso duro debe vivir en el refrigerador, no en la encimera. Puedes sacarlo para servir, pero aplica la regla de las 2 horas: guárdalo de nuevo antes de 2 horas, o de 1 hora si el ambiente supera los 32 °C (90 °F). Una tabla de quesos que pasa toda la noche fuera pierde humedad y acumula bacterias, así que saca solo lo que se vaya a comer.",
+    "fridge": "Conserva los bloques sin abrir en su envase original a 4 °C (40 °F) o menos hasta 6 meses desde la compra. Una vez abierto, envuelve el queso en papel encerado o de horno y luego, sin apretar, en plástico o en un recipiente, y consúmelo en 3–4 semanas. El cajón de quesos o un estante bajo es lo mejor; la puerta es demasiado cálida.",
+    "freezer": "El queso duro se congela con seguridad hasta 6 meses, pero se vuelve quebradizo, así que después conviene rallarlo o usarlo en platos cocinados. Córtalo en porciones de 250 g (½ lb) o menos, envuélvelo bien y mételo en una bolsa para congelar sin aire. A −18 °C (0 °F) se mantiene seguro indefinidamente; los 6 meses son una referencia de textura.",
+    "thawing": "Descongela el queso en el refrigerador durante la noche y úsalo pronto. El queso rallado puede ir directo del congelador a salsas, gratinados o pizza.",
+    "spoilage": [
+      "Moho azul, verde o negro extendido por la superficie (en un queso duro se puede recortar 2,5 cm / 1 pulgada alrededor de una mancha pequeña)",
+      "Olor a amoníaco o agrio en lugar de un aroma intenso a nuez",
+      "Superficie viscosa o pegajosa",
+      "Color rosado o inusual, o una corteza endurecida y agrietada con sabor amargo"
+    ],
+    "tips": [
+      "Compra bloques enteros en lugar de queso en lonchas; menos superficie cortada significa más duración.",
+      "Vuelve a envolverlo en papel limpio cada vez que lo abras y anota la fecha de apertura.",
+      "Ralla el queso antes de congelarlo para usarlo directamente de la bolsa.",
+      "Mantén el queso lejos de alimentos de olor fuerte; absorbe olores con facilidad."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el queso cheddar o el parmesano?", "a": "Sí, hasta 6 meses. La textura se vuelve quebradiza, así que rállalo antes o úsalo después en platos cocinados."},
+      {"q": "¿Cómo saber si el queso duro está malo?", "a": "Fíjate en moho extendido, olor a amoníaco o agrio, o superficie viscosa. Una mancha pequeña de moho en un bloque duro se puede recortar con margen generoso; el queso blando o rallado con moho se desecha."},
+      {"q": "¿Cuánto dura el queso cheddar en el refrigerador una vez abierto?", "a": "Unas 3–4 semanas si se envuelve bien y se mantiene a 4 °C (40 °F) o menos. Sin abrir, dura unos 6 meses."}
+    ]
+  }
+}

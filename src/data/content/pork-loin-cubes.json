@@ -1,0 +1,107 @@
+{
+  "slug": "pork-loin-cubes",
+  "en": {
+    "name": "Pork loin cubes",
+    "aliases": ["diced pork loin", "pork stew meat", "pork kebab meat", "cubed pork", "pork chunks"],
+    "summary": "Pork loin cubes are lean chunks of loin cut for kebabs, stir-fries and quick stews. Raw, they keep 3–5 days in the fridge from purchase and 4–12 months in the freezer for best quality. Because every cube has six cut faces, they lose moisture faster than a whole loin, so use them early and wrap them well.",
+    "pantry": "Cubed raw pork must not be left at room temperature. Small pieces warm quickly into the 4–60 °C (40–140 °F) danger zone; discard any that have been out more than 2 hours, or 1 hour above 32 °C (90 °F). Thread skewers and marinate in the fridge, not on the barbecue table.",
+    "fridge": "Keep the cubes in their tray or a sealed container on the bottom shelf at 4 °C (40 °F) or below. They keep 3–5 days from purchase. If the cubes were cut by the butcher from a loin that had already been in the case a few days, cook them sooner rather than later.",
+    "freezer": "Flash-freeze the cubes on a tray for an hour, then bag them with the air pressed out so they stay loose. At −18 °C (0 °F) they are safe indefinitely, with best quality within 4–12 months. Freeze in 300–500 g (about 1 lb) portions; a thin, flat bag thaws in under an hour.",
+    "thawing": "Thaw in the fridge for a few hours or overnight, or in a sealed bag in cold water changed every 30 minutes (30–60 minutes). Loose frozen cubes can also go straight into a hot pan or pot if cooked through. Never thaw on the counter.",
+    "spoilage": [
+      "A sour or ammonia smell on opening",
+      "Cubes that feel slimy or stick together",
+      "Grey, brown or greenish faces on the cut surfaces",
+      "Cloudy, off-smelling liquid pooled in the pack"
+    ],
+    "tips": [
+      "Check the pack date; pre-cut pork should be cooked within a few days",
+      "Label freezer bags with weight, cut and date",
+      "Freeze flat in a single layer so you can break off what you need",
+      "Cook to 63 °C (145 °F); small cubes overcook easily, so keep the heat high and the time short"
+    ],
+    "faq": [
+      {"q": "Can you freeze pork loin cubes?", "a": "Yes. Flash-freeze on a tray, bag without air and freeze at −18 °C (0 °F). Best within 4–12 months; safe beyond that."},
+      {"q": "How long does cubed pork last in the fridge?", "a": "Raw pork loin cubes keep 3–5 days from purchase at 4 °C (40 °F) or below."},
+      {"q": "Can you cook frozen pork cubes without thawing?", "a": "Yes, add them straight to a hot pan or a simmering stew; allow about 50 percent more cooking time and check they reach 63 °C (145 °F)."}
+    ]
+  },
+  "zh": {
+    "name": "豬里肌肉塊",
+    "aliases": ["豬肉塊", "里肌肉丁", "豬肉丁", "咖哩豬肉塊", "串燒豬肉塊", "猪肉块"],
+    "summary": "豬里肌肉塊是切成塊狀的瘦里肌，適合串燒、快炒、咖哩和糖醋排骨式的料理。生的肉塊從購買日起冷藏可放 3～5 天，冷凍 4～12 個月風味最佳。每塊肉有六個切面，比整條里肌更容易失去水分，所以要早點用、包仔細。",
+    "pantry": "切塊的生豬肉不能放在室溫。小塊肉很快就會升溫進入 4～60 °C 的危險溫度帶，放超過 2 小時（氣溫超過 32 °C 則 1 小時）就要丟掉。串肉和醃肉都在冰箱裡進行，不要放在烤肉桌上。",
+    "fridge": "肉塊留在原盤或放密封盒，置於冰箱最下層，溫度維持 4 °C 以下，從購買日起可放 3～5 天。如果是肉販從已經放了幾天的里肌現切的，就要提早煮。",
+    "freezer": "先把肉塊平鋪在盤子上急凍一小時，再裝袋壓出空氣，這樣肉塊不會黏成一團。在 −18 °C 下安全上沒有期限，4～12 個月內品質最好。每包 300～500 公克，壓成薄薄一片不到一小時就能退冰。",
+    "thawing": "放冷藏室退冰幾小時或一晚，或連密封袋泡冷水，每 30 分鐘換水（約 30～60 分鐘）。散裝的冷凍肉塊也可以直接下熱鍋或燉鍋，只要確實煮熟。切勿放在流理台上退冰。",
+    "spoilage": [
+      "打開就有酸味或阿摩尼亞味",
+      "肉塊摸起來黏滑，或彼此黏住",
+      "切面變灰、變褐或帶綠",
+      "包裝內積了混濁、有異味的液體"
+    ],
+    "tips": [
+      "看包裝日期，切好的豬肉要在幾天內煮掉",
+      "冷凍袋上寫重量、部位和日期",
+      "平鋪一層冷凍，要用多少掰多少",
+      "煮到 63 °C 即可，小肉塊很容易煮過頭，大火快煮最好"
+    ],
+    "faq": [
+      {"q": "豬里肌肉塊可以冷凍嗎？", "a": "可以。先平鋪急凍，再裝袋排出空氣放進 −18 °C 冷凍庫。4～12 個月內品質最好，超過仍然安全。"},
+      {"q": "豬肉塊放冰箱可以放多久？", "a": "生的豬里肌肉塊在 4 °C 以下冷藏，從購買日起可放 3～5 天。"},
+      {"q": "冷凍豬肉塊可以不解凍直接煮嗎？", "a": "可以，直接下熱鍋或滾燙的燉鍋，烹調時間約多一半，確認中心到 63 °C 即可。"}
+    ]
+  },
+  "ja": {
+    "name": "豚ロース角切り",
+    "aliases": ["豚ロースの角切り", "豚肉角切り", "カレー用豚肉", "串焼き用豚肉", "豚ロースひと口カット"],
+    "summary": "豚ロースの角切りは、串焼きや炒め物、カレー、酢豚に使いやすいように切った赤身のロース肉です。生の状態なら購入日から冷蔵で3〜5日、冷凍なら4〜12か月がおいしさの目安です。1つの角切りに切り口が6面あるため、かたまりのロースより水分が抜けやすく、早めに使い切り、しっかり包むことが大切です。",
+    "pantry": "角切りの生豚肉を常温に置いてはいけません。小さな肉はすぐに4〜60 °Cの危険温度帯に入るため、2時間以上（気温32 °C以上なら1時間以上）出していたものは廃棄してください。串に刺したり漬け込んだりするのも、バーベキューのテーブルではなく冷蔵庫の中で行いましょう。",
+    "fridge": "トレーのまま、または密閉容器に入れて冷蔵室の最下段（チルド室）で4 °C以下に保ちます。購入日から3〜5日が目安です。売り場に数日並んでいたロースを店で角切りにしたものなら、早めに調理してください。",
+    "freezer": "バットに広げて1時間ほど急速冷凍してから袋に入れて空気を抜くと、くっつかずにバラバラのまま保存できます。−18 °Cで安全面での期限はなく、品質は4〜12か月以内が最良です。300〜500 gずつ薄く平らにして袋に入れれば、1時間かからずに解凍できます。",
+    "thawing": "冷蔵室で数時間〜一晩、または密閉袋のまま冷水に浸けて30分ごとに水を替え、30〜60分で解凍します。バラ凍結の角切りなら、しっかり火を通す前提で凍ったまま熱したフライパンや鍋に入れても構いません。室温での解凍は避けてください。",
+    "spoilage": [
+      "開けたときに酸っぱいにおいやアンモニア臭がする",
+      "肉がぬるぬるしている、またはくっついている",
+      "切り口が灰色・茶色・緑がかっている",
+      "パックに濁った、においのある液体がたまっている"
+    ],
+    "tips": [
+      "加工日を確認する。カット済みの豚肉は数日以内に調理する",
+      "冷凍袋に重量・部位・日付を書く",
+      "1層に広げて平らに冷凍すると、必要な分だけ割って取り出せる",
+      "63 °Cまで加熱すれば十分。小さい角切りは火が通りすぎやすいので、強火で短時間に"
+    ],
+    "faq": [
+      {"q": "豚ロースの角切りは冷凍できますか？", "a": "できます。バットで急速冷凍してから空気を抜いて袋に入れ、−18 °Cで保存します。4〜12か月以内がおすすめで、それ以降も安全です。"},
+      {"q": "豚肉の角切りは冷蔵庫でどのくらい持ちますか？", "a": "生の豚ロース角切りは4 °C以下の冷蔵で、購入日から3〜5日が目安です。"},
+      {"q": "冷凍した豚肉の角切りは解凍せずに調理できますか？", "a": "できます。熱したフライパンや煮立った鍋に凍ったまま入れ、加熱時間を5割ほど長くとって中心が63 °Cに達したことを確認してください。"}
+    ]
+  },
+  "es": {
+    "name": "Lomo de cerdo en cubos",
+    "aliases": ["cerdo en dados", "carne de cerdo para brochetas", "lomo de cerdo troceado", "cubos de cerdo", "cerdo para guiso"],
+    "summary": "Los cubos de lomo de cerdo son trozos magros de lomo cortados para brochetas, salteados y guisos rápidos. Crudos, se conservan de 3 a 5 días en el refrigerador desde la compra y de 4 a 12 meses en el congelador con la mejor calidad. Como cada cubo tiene seis caras cortadas, pierden humedad antes que un lomo entero; úsalos pronto y envuélvelos bien.",
+    "pantry": "El cerdo crudo en cubos no debe quedarse a temperatura ambiente. Los trozos pequeños entran rápido en la zona de peligro de 4 a 60 °C (40–140 °F); desecha los que lleven más de 2 horas fuera, o 1 hora si hace más de 32 °C (90 °F). Ensarta las brochetas y marina en el refrigerador, no en la mesa de la parrilla.",
+    "fridge": "Guarda los cubos en su bandeja o en un recipiente cerrado en el estante inferior a 4 °C (40 °F) o menos. Duran de 3 a 5 días desde la compra. Si el carnicero los cortó de un lomo que ya llevaba días en la vitrina, cocínalos cuanto antes.",
+    "freezer": "Congela los cubos extendidos en una bandeja durante una hora y luego embólsalos sacando el aire para que queden sueltos. A −18 °C (0 °F) son seguros indefinidamente, con la mejor calidad durante 4 a 12 meses. Congela en porciones de 300–500 g (alrededor de 1 lb); una bolsa fina y plana se descongela en menos de una hora.",
+    "thawing": "Descongela en el refrigerador unas horas o de un día para otro, o en una bolsa cerrada dentro de agua fría cambiada cada 30 minutos (30–60 minutos). Los cubos congelados sueltos también pueden ir directamente a una sartén o una olla caliente si se cocinan por completo. Nunca descongeles en la encimera.",
+    "spoilage": [
+      "Olor agrio o a amoníaco al abrir",
+      "Cubos babosos o pegados entre sí",
+      "Caras cortadas de color gris, marrón o verdoso",
+      "Líquido turbio y maloliente acumulado en el envase"
+    ],
+    "tips": [
+      "Revisa la fecha de envasado; el cerdo precortado debe cocinarse en pocos días",
+      "Etiqueta las bolsas con peso, corte y fecha",
+      "Congela en plano y en una sola capa para partir solo lo que necesites",
+      "Cocina hasta 63 °C (145 °F); los cubos pequeños se pasan fácilmente, así que fuego fuerte y poco tiempo"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el lomo de cerdo en cubos?", "a": "Sí. Congélalo primero extendido en una bandeja, embólsalo sin aire y mantenlo a −18 °C (0 °F). Mejor en 4 a 12 meses; seguro después."},
+      {"q": "¿Cuánto dura el cerdo en cubos en el refrigerador?", "a": "Los cubos de lomo de cerdo crudos duran de 3 a 5 días desde la compra a 4 °C (40 °F) o menos."},
+      {"q": "¿Se pueden cocinar los cubos de cerdo congelados sin descongelar?", "a": "Sí, añádelos directamente a una sartén caliente o a un guiso hirviendo; calcula un 50 por ciento más de tiempo y comprueba que alcancen 63 °C (145 °F)."}
+    ]
+  }
+}

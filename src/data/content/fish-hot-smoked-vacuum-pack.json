@@ -1,0 +1,107 @@
+{
+  "slug": "fish-hot-smoked-vacuum-pack",
+  "en": {
+    "name": "Hot-smoked fish (vacuum pack)",
+    "aliases": ["vacuum-packed smoked mackerel", "vacuum-sealed hot smoked salmon", "smoked trout fillets", "packaged smoked fish", "hot smoked fish"],
+    "summary": "Vacuum-packed hot-smoked fish, such as smoked mackerel, trout or hot-smoked salmon fillets in sealed plastic, is fully cooked and ready to eat. It keeps 14–45 days in the fridge from purchase and 6–12 months in the freezer.",
+    "pantry": "Vacuum packaging does not make smoked fish shelf-stable; it must stay refrigerated. Do not leave a pack out for more than 2 hours, or 1 hour above 32 °C (90 °F). Because the pack excludes air, keeping it cold matters even more than with ordinary packaging.",
+    "fridge": "Keep the sealed pack at or below 4 °C (40 °F) in the coldest part of the fridge and use it within 14–45 days of purchase, going by the printed use-by date. Once opened, rewrap the fish tightly or move it to an airtight container and eat it within a few days. Never keep a vacuum pack that has puffed up or lost its seal.",
+    "freezer": "Vacuum-packed hot-smoked fish can be frozen in its unopened pack for 6–12 months at −18 °C (0 °F). If the pack has been opened, wrap portions in plastic wrap and then a freezer bag. It remains safe beyond a year, but the flesh dries out and the smoky flavour weakens.",
+    "thawing": "Thaw in the fridge overnight and eat within 3–4 days. To thaw faster, keep the pack sealed and submerge it in cold water, changing the water every 30 minutes; never thaw at room temperature.",
+    "spoilage": [
+      "A vacuum pack that has inflated, is leaking or has lost its seal",
+      "Sour, ammonia-like or rancid smell when opened, beyond the normal smoky aroma",
+      "Slimy surface or a milky, sticky film on the flesh",
+      "Discoloured, grey or mushy flesh, or spots of mould"
+    ],
+    "tips": [
+      "Look for a tight, flat pack and a distant use-by date when buying",
+      "Freeze unopened packs on the day of purchase if you will not use them within the printed date",
+      "Once opened, treat it like fresh cooked fish and eat within a few days",
+      "Keep it on a fridge shelf, not in the door, so the temperature stays steady"
+    ],
+    "faq": [
+      {"q": "Can you freeze vacuum-packed smoked fish?", "a": "Yes. Freeze the unopened pack at −18 °C (0 °F) for 6–12 months; opened fish should be rewrapped tightly first."},
+      {"q": "How long does vacuum-packed hot-smoked fish last in the fridge?", "a": "14–45 days from purchase at or below 4 °C (40 °F), following the use-by date on the pack. Eat opened packs within a few days."},
+      {"q": "Does vacuum-packed smoked fish need to be refrigerated?", "a": "Yes, always. Vacuum sealing removes air but does not make the fish safe at room temperature; keep it at or below 4 °C (40 °F)."}
+    ]
+  },
+  "zh": {
+    "name": "熱燻魚（真空包裝）",
+    "aliases": ["真空包裝煙燻鯖魚", "真空熱燻鮭魚", "煙燻鱒魚片", "包裝燻魚", "熟燻魚"],
+    "summary": "真空包裝的熱燻魚，例如密封塑膠袋裡的煙燻鯖魚、鱒魚或熱燻鮭魚片，已經完全熟透、可以直接吃。冷藏自購買日起可放 14～45 天，冷凍可放 6～12 個月。",
+    "pantry": "真空包裝並不能讓燻魚常溫保存，一定要冷藏。整包放在室溫不要超過 2 小時，室溫高於 32 °C 時不超過 1 小時。正因為真空包裝隔絕了空氣，保持低溫比一般包裝更重要。",
+    "fridge": "未開封的真空包放在冰箱最冷的位置，維持 4 °C 以下，購買後 14～45 天內吃完，以包裝上的有效日期為準。開封後把魚包緊或移到密封盒，幾天內吃完。真空包若已鼓起或漏氣，不要留。",
+    "freezer": "未開封的真空包可以直接冷凍，在 −18 °C 下可放 6～12 個月。已開封的則分裝後用保鮮膜包好再套冷凍袋。超過一年仍然安全，但魚肉會變乾，煙燻香氣減弱。",
+    "thawing": "放冷藏室解凍一晚，解凍後 3～4 天內吃完。趕時間可連密封包泡冷水，每 30 分鐘換水；切勿放在室溫下解凍。",
+    "spoilage": [
+      "真空包鼓起、滲漏或已經失去真空",
+      "開封時有酸味、氨味或油耗味，超出正常的煙燻香",
+      "表面黏滑，或魚肉上有乳白色黏膜",
+      "魚肉變色、變灰或軟爛，或出現黴斑"
+    ],
+    "tips": [
+      "購買時挑選包裝緊貼、平整且有效日期較遠的",
+      "有效日期內吃不完的話，購買當天就把未開封的整包冷凍",
+      "開封後當成新鮮熟魚看待，幾天內吃完",
+      "放在冰箱層架上而不是門邊，溫度比較穩定"
+    ],
+    "faq": [
+      {"q": "真空包裝燻魚可以冷凍嗎？", "a": "可以。未開封整包放 −18 °C 冷凍，可放 6～12 個月；已開封的要先包緊再冷凍。"},
+      {"q": "真空包裝熱燻魚放冰箱可以放多久？", "a": "自購買日起 14～45 天，冷藏 4 °C 以下，以包裝上的有效日期為準。開封後幾天內吃完。"},
+      {"q": "真空包裝燻魚一定要冷藏嗎？", "a": "一定要。真空只是抽掉空氣，並不能讓魚在室溫下保存安全，要一直放在 4 °C 以下。"}
+    ]
+  },
+  "ja": {
+    "name": "温燻の魚（真空パック）",
+    "aliases": ["真空パックのスモークサバ", "真空パックのスモークサーモン", "燻製トラウトの切り身", "パック入り燻製魚", "ホットスモーク"],
+    "summary": "真空パックの温燻の魚（密封された袋入りのスモークサバ、トラウト、温燻サーモンの切り身など）は、完全に火が通っておりそのまま食べられます。冷蔵では購入から14〜45日、冷凍では6〜12か月が目安です。",
+    "pantry": "真空パックでも燻製魚は常温保存できず、必ず冷蔵が必要です。常温に置くのは2時間まで（32 °Cを超えるなら1時間まで）です。空気を抜いてある分、通常包装以上に低温を保つことが大切です。",
+    "fridge": "未開封のパックは庫内の最も冷える場所で4 °C以下に保ち、表示の期限に従って購入から14〜45日以内に食べます。開封後はしっかり包み直すか密閉容器に移し、数日以内に食べ切ります。膨らんだり密封が破れたりしたパックは残さないでください。",
+    "freezer": "未開封の真空パックはそのまま−18 °Cで6〜12か月冷凍できます。開封済みならラップで小分けに包み、冷凍用保存袋に入れます。1年を過ぎても安全ですが、身が乾き燻製の風味は弱まります。",
+    "thawing": "冷蔵庫で一晩かけて解凍し、3〜4日以内に食べます。急ぐときは密封したまま冷水に浸け、30分ごとに水を替えてください。室温での解凍は避けましょう。",
+    "spoilage": [
+      "パックが膨らんでいる、液漏れしている、密封が破れている",
+      "開封時に燻製の香りを超えた酸っぱいにおい・アンモニア臭・油の酸化臭がする",
+      "表面がぬるぬるする、身に乳白色のべたつく膜がある",
+      "身が変色・灰色・ぐずぐずになっている、カビの斑点がある"
+    ],
+    "tips": [
+      "買うときはぴったり密着した平らなパックで、期限が先のものを選ぶ",
+      "期限内に使い切れないなら、購入当日に未開封のまま冷凍する",
+      "開封後は加熱済みの生鮮魚と同じ扱いで、数日以内に食べる",
+      "ドアポケットではなく棚に置いて温度を安定させる"
+    ],
+    "faq": [
+      {"q": "真空パックの燻製魚は冷凍できますか？", "a": "できます。未開封のまま−18 °Cで6〜12か月冷凍できます。開封済みはしっかり包み直してから冷凍してください。"},
+      {"q": "真空パックの温燻の魚は冷蔵庫でどのくらい持ちますか？", "a": "4 °C以下で購入から14〜45日、パックの期限表示に従ってください。開封後は数日以内に食べます。"},
+      {"q": "真空パックの燻製魚は冷蔵が必要ですか？", "a": "はい、常に必要です。真空は空気を抜いているだけで常温で安全になるわけではないので、4 °C以下で保存してください。"}
+    ]
+  },
+  "es": {
+    "name": "Pescado ahumado en caliente (envasado al vacío)",
+    "aliases": ["caballa ahumada al vacío", "salmón ahumado en caliente al vacío", "filetes de trucha ahumada", "pescado ahumado envasado", "ahumado en caliente"],
+    "summary": "El pescado ahumado en caliente envasado al vacío, como la caballa, la trucha o los filetes de salmón ahumado en caliente en plástico sellado, está completamente cocido y listo para comer. Dura 14–45 días en el refrigerador desde la compra y 6–12 meses en el congelador.",
+    "pantry": "El envasado al vacío no convierte el pescado ahumado en un producto de estante; debe permanecer refrigerado. No dejes un paquete fuera más de 2 horas, o más de 1 hora si hace más de 32 °C (90 °F). Como el envase no tiene aire, mantenerlo frío es aún más importante que con un envase normal.",
+    "fridge": "Guarda el paquete sellado a 4 °C (40 °F) o menos en la zona más fría del refrigerador y úsalo en 14–45 días desde la compra, guiándote por la fecha de caducidad impresa. Una vez abierto, vuelve a envolver bien el pescado o pásalo a un recipiente hermético y cómelo en pocos días. Nunca conserves un envase al vacío que se haya hinchado o haya perdido el sellado.",
+    "freezer": "El pescado ahumado en caliente al vacío puede congelarse en su envase sin abrir 6–12 meses a −18 °C (0 °F). Si el envase ya está abierto, envuelve las porciones en film y luego en una bolsa de congelación. Sigue siendo seguro pasado el año, pero la carne se seca y el sabor ahumado se debilita.",
+    "thawing": "Descongela en el refrigerador durante la noche y cómelo en 3–4 días. Para ir más rápido, sumerge el envase cerrado en agua fría cambiando el agua cada 30 minutos; nunca descongeles a temperatura ambiente.",
+    "spoilage": [
+      "Envase al vacío hinchado, con fugas o que ha perdido el sellado",
+      "Olor agrio, a amoníaco o rancio al abrir, más allá del aroma normal a humo",
+      "Superficie viscosa o una película lechosa y pegajosa sobre la carne",
+      "Carne descolorida, gris o pastosa, o manchas de moho"
+    ],
+    "tips": [
+      "Al comprar, busca un envase bien ajustado y plano con fecha de caducidad lejana",
+      "Congela los envases sin abrir el día de la compra si no los vas a usar antes de la fecha impresa",
+      "Una vez abierto, trátalo como pescado cocido fresco y cómelo en pocos días",
+      "Guárdalo en un estante del refrigerador, no en la puerta, para que la temperatura sea estable"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el pescado ahumado envasado al vacío?", "a": "Sí. Congela el envase sin abrir a −18 °C (0 °F) durante 6–12 meses; si ya está abierto, envuélvelo bien antes."},
+      {"q": "¿Cuánto dura el pescado ahumado en caliente al vacío en el refrigerador?", "a": "14–45 días desde la compra a 4 °C (40 °F) o menos, siguiendo la fecha de caducidad del envase. Los envases abiertos se comen en pocos días."},
+      {"q": "¿El pescado ahumado al vacío necesita refrigeración?", "a": "Sí, siempre. El vacío elimina el aire, pero no hace que el pescado sea seguro a temperatura ambiente; mantenlo a 4 °C (40 °F) o menos."}
+    ]
+  }
+}

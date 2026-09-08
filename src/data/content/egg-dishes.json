@@ -1,0 +1,111 @@
+{
+  "slug": "egg-dishes",
+  "en": {
+    "name": "Egg dishes",
+    "aliases": ["quiche", "frittata", "egg casserole", "egg bake", "strata"],
+    "summary": "Egg dishes are cooked meals where eggs are the main ingredient: quiche, frittata, breakfast casseroles, scrambled eggs and egg bakes. Once cooked and cooled, they keep for 3–4 days in the fridge and 2–3 months in the freezer (baked dishes freeze best).",
+    "pantry": "Cooked egg dishes are perishable and cannot be stored at room temperature. Follow the 2-hour rule: refrigerate leftovers within 2 hours of cooking, or within 1 hour if the room is above 32 °C (90 °F). A quiche or casserole left on the counter overnight should be thrown away, even if it looks and smells fine.",
+    "fridge": "Let the dish cool briefly, then cover it tightly or move portions into shallow airtight containers and refrigerate at 4 °C (40 °F) or below. Egg dishes keep for 3–4 days. Shallow containers cool faster than a deep dish, which matters for safety. Reheat leftovers until steaming hot all the way through, at least 74 °C (165 °F).",
+    "freezer": "Baked egg dishes such as quiche, frittata and casseroles freeze well for 2–3 months at −18 °C (0 °F). Cool completely, cut into single portions, wrap each in plastic wrap and then foil or a freezer bag, and label with the date. Frozen food stays safe indefinitely at −18 °C; the 2–3 months is about texture and flavour. Dishes with a lot of cream, potatoes or mayonnaise may become watery or grainy after thawing.",
+    "thawing": "Thaw in the fridge overnight, or reheat straight from frozen in the oven or microwave until hot throughout, 74 °C (165 °F). Never thaw egg dishes on the counter.",
+    "spoilage": [
+      "A sour or sulphurous smell that is stronger than the usual eggy aroma.",
+      "A slimy, sticky or weeping surface, or visible pockets of liquid.",
+      "Mould spots of any colour, especially on a cheesy or vegetable-filled dish.",
+      "It has been in the fridge for more than 4 days, or was left out for more than 2 hours."
+    ],
+    "tips": [
+      "Portion the dish before storing; single servings chill faster, thaw faster and reheat more evenly.",
+      "Label containers with the dish name and date so leftovers are eaten within 3–4 days.",
+      "Freeze quiche or frittata unsliced on a tray first, then wrap, to keep the pieces from sticking together.",
+      "Cook egg dishes to a safe temperature the first time and reheat only once; repeated reheating ruins the texture."
+    ],
+    "faq": [
+      {"q": "Can you freeze egg dishes?", "a": "Yes, baked egg dishes like quiche, frittata and egg casseroles freeze well for 2–3 months. Wrap portions tightly and reheat from frozen or after thawing in the fridge."},
+      {"q": "How long do leftover egg dishes last in the fridge?", "a": "3–4 days at 4 °C (40 °F) or below in a covered container. Refrigerate within 2 hours of cooking."},
+      {"q": "How can you tell if a quiche or frittata has gone bad?", "a": "A sour or sulphur smell, a slimy or wet surface, or any mould means it should be thrown out. Also discard anything older than 4 days or left out for more than 2 hours."},
+      {"q": "Can you eat egg dishes left out overnight?", "a": "No. Cooked eggs sitting in the danger zone of 4–60 °C (40–140 °F) for more than 2 hours can grow bacteria that reheating does not fully remove."}
+    ]
+  },
+  "zh": {
+    "name": "蛋料理",
+    "aliases": ["鹹派", "法式鹹派", "義式烘蛋", "烤蛋", "炒蛋", "蛋餅"],
+    "summary": "蛋料理指以雞蛋為主的熟食，例如鹹派、義式烘蛋、烤蛋、炒蛋和蛋餅。煮好放涼後，冷藏可以放 3–4 天，冷凍可以放 2–3 個月（烤過的蛋料理最適合冷凍）。",
+    "pantry": "煮熟的蛋料理容易腐壞，不能放在室溫保存。請遵守 2 小時原則：煮好後 2 小時內放進冰箱，室溫超過 32 °C 時要在 1 小時內冷藏。鹹派或烤蛋在流理台上放了一整晚，就算看起來、聞起來都沒問題，也應該丟掉。",
+    "fridge": "稍微放涼後蓋好，或分裝到淺的密封保鮮盒，放進 4 °C 以下的冰箱冷藏，可以放 3–4 天。淺盒比深盤降溫快，對食安很重要。回熱時要整個加熱到冒熱氣，中心溫度至少 74 °C。",
+    "freezer": "鹹派、義式烘蛋、烤蛋等烤過的蛋料理很適合冷凍，在 −18 °C 可以放 2–3 個月。完全放涼後切成單人份，先用保鮮膜包好，再包鋁箔紙或裝進冷凍袋，寫上日期。冷凍食品在 −18 °C 下安全期是無限的，2–3 個月是指口感和風味最佳期。含大量鮮奶油、馬鈴薯或美乃滋的料理解凍後可能出水或變得粗糙。",
+    "thawing": "放冷藏解凍一晚，或直接從冷凍狀態用烤箱、微波爐加熱到全熟燙口（74 °C）。不要放在室溫解凍。",
+    "spoilage": [
+      "有酸味或硫磺味，比平常的蛋味重很多。",
+      "表面黏滑、濕黏或滲水。",
+      "出現任何顏色的霉點，尤其是有起司或蔬菜餡的料理。",
+      "冷藏已經超過 4 天，或在室溫放超過 2 小時。"
+    ],
+    "tips": [
+      "存放前先分成單人份，冷卻快、解凍快，回熱也比較均勻。",
+      "在保鮮盒上寫料理名稱和日期，確保在 3–4 天內吃完。",
+      "冷凍鹹派或烘蛋時，先鋪在盤子上凍硬再包裝，就不會黏在一起。",
+      "第一次就要煮到安全溫度，之後只回熱一次；反覆加熱口感會變差。"
+    ],
+    "faq": [
+      {"q": "蛋料理可以冷凍嗎？", "a": "可以。鹹派、義式烘蛋、烤蛋等烤過的蛋料理可以冷凍 2–3 個月。分裝包緊，直接加熱或先放冷藏解凍再加熱都可以。"},
+      {"q": "蛋料理放冰箱可以放多久？", "a": "蓋好放在 4 °C 以下冷藏可以放 3–4 天，煮好後 2 小時內要放進冰箱。"},
+      {"q": "怎麼判斷鹹派或烘蛋壞掉了？", "a": "有酸味或硫磺味、表面黏滑出水、或長霉就要丟掉。超過 4 天或在室溫放超過 2 小時的也不要吃。"},
+      {"q": "蛋料理放室溫一晚還能吃嗎？", "a": "不能。煮熟的蛋在 4–60 °C 的危險溫度帶放超過 2 小時，細菌會大量繁殖，重新加熱也無法完全去除。"}
+    ]
+  },
+  "ja": {
+    "name": "卵料理",
+    "aliases": ["キッシュ", "フリッタータ", "卵のキャセロール", "スクランブルエッグ", "オムレツ"],
+    "summary": "卵料理とは、キッシュ、フリッタータ、卵のキャセロール、スクランブルエッグ、オムレツなど、卵が主役の加熱済み料理です。調理して冷ましたあと、冷蔵で3〜4日、冷凍で2〜3か月保存できます（オーブンで焼いたものが冷凍向きです）。",
+    "pantry": "加熱した卵料理は傷みやすく、常温保存はできません。2時間ルールを守り、調理後2時間以内（室温が32 °Cを超える場合は1時間以内）に冷蔵庫へ入れましょう。キッシュやキャセロールを一晩出しっぱなしにした場合は、見た目やにおいに問題がなくても処分してください。",
+    "fridge": "粗熱を取ったらしっかりふたをするか、浅めの密閉容器に小分けして、4 °C以下の冷蔵庫で保存します。日持ちは3〜4日です。深い器より浅い容器の方が早く冷えるので、安全面でも有利です。温め直すときは中心まで湯気が立つまで（74 °C以上）加熱してください。",
+    "freezer": "キッシュ、フリッタータ、キャセロールなど焼いた卵料理は、−18 °Cで2〜3か月冷凍できます。完全に冷ましてから1食分ずつ切り分け、ラップで包んでからアルミホイルか冷凍用保存袋に入れ、日付を書いておきましょう。−18 °Cなら安全性は保たれ、2〜3か月は食感と風味の目安です。生クリーム、じゃがいも、マヨネーズが多い料理は解凍後に水っぽくなったりざらついたりすることがあります。",
+    "thawing": "冷蔵庫で一晩かけて解凍するか、凍ったままオーブンや電子レンジで中まで熱く（74 °C）なるまで加熱します。常温での解凍は避けてください。",
+    "spoilage": [
+      "いつもの卵のにおいより明らかに強い、酸っぱいにおいや硫黄臭がする。",
+      "表面がぬるぬる、ベタベタしている、または水分がにじみ出ている。",
+      "カビが生えている（特にチーズや野菜入りの料理は要注意）。",
+      "冷蔵で4日を超えている、または常温に2時間以上置いた。"
+    ],
+    "tips": [
+      "保存する前に1食分ずつ分けておくと、冷えるのも解凍も早く、温めムラも減ります。",
+      "容器に料理名と日付を書いて、3〜4日以内に食べきりましょう。",
+      "キッシュやフリッタータはトレイに並べて一度凍らせてから包むと、くっつきません。",
+      "最初にしっかり火を通し、温め直しは1回だけに。何度も加熱すると食感が落ちます。"
+    ],
+    "faq": [
+      {"q": "卵料理は冷凍できますか？", "a": "はい。キッシュ、フリッタータ、卵のキャセロールなど焼いた卵料理は2〜3か月冷凍できます。小分けにしてしっかり包み、凍ったまま、または冷蔵庫で解凍してから温めてください。"},
+      {"q": "卵料理は冷蔵庫でどのくらい日持ちしますか？", "a": "ふた付きの容器に入れて4 °C以下で3〜4日です。調理後2時間以内に冷蔵してください。"},
+      {"q": "キッシュやフリッタータが傷んでいるかどうかの見分け方は？", "a": "酸っぱいにおいや硫黄臭、表面のぬめりや水気、カビがあれば処分してください。4日を超えたものや、常温に2時間以上置いたものも食べないようにしましょう。"},
+      {"q": "一晩出しっぱなしにした卵料理は食べられますか？", "a": "いいえ。加熱した卵を4〜60 °Cの危険温度帯に2時間以上置くと細菌が増え、再加熱しても完全には取り除けません。"}
+    ]
+  },
+  "es": {
+    "name": "Platos de huevo",
+    "aliases": ["quiche", "frittata", "tortilla de huevo", "revuelto de huevo", "cazuela de huevo"],
+    "summary": "Los platos de huevo son preparaciones cocinadas en las que el huevo es el ingrediente principal: quiche, frittata, tortillas, revueltos y cazuelas al horno. Una vez cocinados y fríos, se conservan 3–4 días en la nevera y 2–3 meses en el congelador (los horneados son los que mejor se congelan).",
+    "pantry": "Los platos de huevo cocinados son perecederos y no pueden guardarse a temperatura ambiente. Sigue la regla de las 2 horas: refrigera las sobras antes de 2 horas desde la cocción, o antes de 1 hora si hace más de 32 °C (90 °F). Una quiche o tortilla que pasó la noche fuera debe tirarse aunque parezca y huela bien.",
+    "fridge": "Deja que el plato se temple, tápalo bien o reparte las porciones en recipientes herméticos poco profundos y refrigéralo a 4 °C (40 °F) o menos. Se conserva 3–4 días. Los recipientes poco profundos se enfrían más rápido que una fuente honda, y eso importa para la seguridad. Recalienta hasta que esté muy caliente por dentro, al menos 74 °C (165 °F).",
+    "freezer": "Los platos de huevo horneados, como quiche, frittata y cazuelas, se congelan bien durante 2–3 meses a −18 °C (0 °F). Enfría por completo, corta en porciones individuales, envuelve cada una en film y luego en papel de aluminio o una bolsa de congelación, y etiqueta con la fecha. A −18 °C la comida sigue siendo segura indefinidamente; los 2–3 meses son una referencia de textura y sabor. Los platos con mucha nata, patata o mayonesa pueden quedar aguados o granulosos al descongelarse.",
+    "thawing": "Descongela en la nevera de un día para otro, o recalienta directamente desde congelado en el horno o el microondas hasta que esté caliente por dentro (74 °C / 165 °F). Nunca descongeles platos de huevo sobre la encimera.",
+    "spoilage": [
+      "Olor agrio o a azufre más intenso que el aroma normal a huevo.",
+      "Superficie viscosa, pegajosa o que suelta líquido.",
+      "Puntos de moho de cualquier color, sobre todo en platos con queso o verduras.",
+      "Lleva más de 4 días en la nevera o estuvo más de 2 horas fuera."
+    ],
+    "tips": [
+      "Divide el plato en porciones antes de guardarlo: se enfrían, se descongelan y se recalientan mejor.",
+      "Etiqueta los recipientes con el nombre del plato y la fecha para consumir las sobras en 3–4 días.",
+      "Congela la quiche o la frittata en una bandeja antes de envolverla para que las porciones no se peguen.",
+      "Cocina bien el plato la primera vez y recaliéntalo solo una vez; recalentar varias veces arruina la textura."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar los platos de huevo?", "a": "Sí, los horneados como quiche, frittata y cazuelas de huevo se congelan bien durante 2–3 meses. Envuelve bien las porciones y recaliéntalas desde congelado o tras descongelarlas en la nevera."},
+      {"q": "¿Cuánto duran las sobras de platos de huevo en la nevera?", "a": "3–4 días a 4 °C (40 °F) o menos en un recipiente tapado. Refrigéralas antes de 2 horas después de cocinar."},
+      {"q": "¿Cómo saber si una quiche o una tortilla se ha echado a perder?", "a": "Si huele agrio o a azufre, tiene la superficie viscosa o húmeda, o presenta moho, hay que tirarla. Desecha también lo que tenga más de 4 días o haya estado más de 2 horas fuera."},
+      {"q": "¿Se puede comer un plato de huevo que pasó la noche fuera?", "a": "No. El huevo cocinado que permanece en la zona de peligro de 4–60 °C (40–140 °F) más de 2 horas puede desarrollar bacterias que el recalentado no elimina del todo."}
+    ]
+  }
+}

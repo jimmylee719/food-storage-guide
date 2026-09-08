@@ -1,0 +1,57 @@
+# Food content spec (for content writers / agents)
+
+Each food gets ONE file: `src/data/content/<slug>.json`. Valid JSON, UTF-8, no comments, no trailing commas.
+Numbers for storage durations are ALREADY fixed by the base data (USDA FSIS FoodKeeper, public domain).
+Your prose must be consistent with those numbers. Never invent different durations.
+
+## Input you receive (per food, from `scripts/briefs/batch-XX.json`)
+```
+{ "slug", "category", "name", "subtitle", "keywords", "storage": {
+    "pantry":  { "base"|"fromPurchase"|"afterOpening": { "min","max","unit","tips" } },
+    "fridge":  { "base"|"fromPurchase"|"afterOpening"|"afterThawing": {...} },
+    "freezer": { "base"|"fromPurchase": {...} } } }
+```
+- `base` = generic timeline; `fromPurchase` = counted from date of purchase; `afterOpening` = after the package is opened; `afterThawing` = after thawing in the fridge.
+- `min`/`max` null with only `tips` means "no fixed timeline, read the tip" (e.g. "Refrigeration not recommended").
+- A missing method (e.g. no `freezer` key) means USDA gives no freezer timeline. You may still explain, using general USDA/FDA guidance, why it is not recommended or that it is unnecessary (e.g. sugar, honey, canned goods) — but be honest and conservative.
+
+## Output schema (exact keys)
+```json
+{
+  "slug": "<same slug>",
+  "en": {
+    "name": "Ground beef",
+    "aliases": ["minced beef", "hamburger meat"],
+    "summary": "2–3 sentences. Say what the item is (if not obvious) and give the headline answer: how long it keeps at room temperature / in the fridge / in the freezer, using the base numbers.",
+    "pantry": "2–4 sentences on room-temperature storage, or an honest explanation of why it must not be left out (perishables: mention the 2-hour rule, 1 hour above 32 °C/90 °F). Use null ONLY if the topic is genuinely irrelevant (rare).",
+    "fridge": "2–4 sentences: where in the fridge, packaging, temperature ≤ 4 °C (40 °F), opened vs unopened. null if refrigeration is truly irrelevant.",
+    "freezer": "2–4 sentences: how to wrap/portion, −18 °C (0 °F), quality vs safety (frozen food kept at −18 °C stays safe indefinitely; timelines are for best quality). null if not applicable.",
+    "thawing": "1–3 sentences on safe thawing (fridge / cold water / microwave; never on the counter) — null for foods that are not frozen.",
+    "spoilage": ["3–4 concrete signs of spoilage (smell, texture, colour, mould, bulging, sliminess)"],
+    "tips": ["3–4 short practical tips (buying, labelling, portioning, FIFO, containers)"],
+    "faq": [
+      {"q": "Can you freeze X?", "a": "1–3 sentences."},
+      {"q": "How can you tell if X has gone bad?", "a": "..."},
+      {"q": "Does X need to be refrigerated?", "a": "..."}
+    ]
+  },
+  "zh": { ...same keys, Traditional Chinese (Taiwan) ... },
+  "ja": { ...same keys, Japanese ... },
+  "es": { ...same keys, Spanish (neutral, understood in Spain and Latin America) ... }
+}
+```
+
+## Writing rules
+1. **Accuracy first.** Base every number on the input storage data. Safety framing follows USDA FSIS / FDA: fridge ≤ 4 °C (40 °F), freezer −18 °C (0 °F), danger zone 4–60 °C (40–140 °F), 2-hour rule.
+2. **No health/medical claims**, no "guaranteed", no fear-mongering. Plain, useful, specific. Each language must read as native writing, not a literal translation — adapt idioms, units (give °C first, °F in parentheses in en/es; °C only in zh/ja), and local product names.
+3. **Names / aliases** are used for search and SEO:
+   - `zh.name` = the most common Taiwan name (e.g. 馬鈴薯, 高麗菜, 番茄, 鮭魚). `zh.aliases` = other names incl. Hong Kong / China / colloquial (土豆, 洋芋, 包心菜, 西紅柿…), 2–6 items.
+   - `ja.name` = common Japanese name (ひらがな/カタカナ/漢字 as normally written: じゃがいも, キャベツ, トマト, 鮭). `ja.aliases` = alternative spellings / readings, 2–5 items.
+   - `es.name` = common Spanish name; `es.aliases` = regional variants (patata/papa, jitomate/tomate…), 2–5 items.
+   - `en.aliases` = synonyms & regional names (UK/US), 2–5 items.
+   - Include the subtitle meaning in the name where it matters (e.g. "Ground beef", "牛絞肉", "牛ひき肉", "Carne molida de res"). Keep names short (≤ 40 chars).
+4. **Length**: en ≈ 250–400 words total per food; other languages equivalent. Do not pad.
+5. **FAQ** questions must be phrased the way people actually search (AEO): "…可以冷凍嗎？", "…放冰箱可以放多久？", "…は冷凍できますか？", "¿Se puede congelar…?".
+6. Valid JSON only. Escape quotes inside strings. No markdown inside strings.
+7. Write one file per food with the Write tool: `src/data/content/<slug>.json`. Do not modify any other file.
+8. After writing a batch, run `node scripts/validate-content.js <slug1> <slug2> ...` (or with no args to validate all) and fix any errors it reports.

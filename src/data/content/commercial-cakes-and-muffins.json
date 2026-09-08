@@ -1,0 +1,107 @@
+{
+  "slug": "commercial-cakes-and-muffins",
+  "en": {
+    "name": "Commercial cakes and muffins",
+    "aliases": ["store-bought cake", "packaged muffins", "bakery cake", "cupcakes", "sponge cake"],
+    "summary": "Packaged cakes and muffins from a supermarket or bakery keep 3–7 days at room temperature from the date of purchase. Once the package is opened, refrigeration extends them to 7–10 days, and they freeze well for about 6 months. Anything with cream, custard or cream cheese must go straight into the fridge instead.",
+    "pantry": "Plain cakes and muffins — sponge, pound cake, blueberry or chocolate muffins with no dairy filling — keep 3–7 days from purchase in a covered container at room temperature, away from sun and the stove. Cakes with whipped cream, custard, mousse or cream cheese frosting are perishable and must not sit out more than 2 hours (1 hour above 32 °C/90 °F). A cake dome or the original box keeps them from drying out.",
+    "fridge": "Once opened, store cakes and muffins in the fridge at 4 °C (40 °F) or below, where they keep 7–10 days. Wrap or box them so the crumb does not dry out and so they do not pick up onion or garlic odours. Cream-filled and cheesecake-style products belong in the fridge from the moment you buy them.",
+    "freezer": "Cakes and muffins freeze well for about 6 months from purchase at −18 °C (0 °F). Freeze them unfrosted where possible: wrap individual slices or muffins in plastic, then bag them. Buttercream freezes acceptably; whipped cream and custard fillings separate and go watery.",
+    "thawing": "Thaw wrapped cake or muffins in the fridge overnight, or at room temperature for 1–2 hours for plain ones. Cream-filled cakes must always thaw in the fridge, never on the counter.",
+    "spoilage": [
+      "Fuzzy white, green or black mould on the crumb or frosting",
+      "Sour, yeasty or fermented smell",
+      "Dry, crumbly texture that no longer springs back",
+      "Weeping, separated or sour-smelling cream filling"
+    ],
+    "tips": [
+      "Press cling film against the cut face of a cake to stop it drying out",
+      "Freeze muffins individually so you can take out one at a time",
+      "Buy cream cakes on the day you plan to serve them",
+      "Warm a stale muffin for 10–15 seconds in the microwave to soften it"
+    ],
+    "faq": [
+      {"q": "Can you freeze cake and muffins?", "a": "Yes. Wrap them airtight and freeze at −18 °C (0 °F) for about 6 months. Freeze unfrosted if you can; whipped cream and custard fillings do not freeze well."},
+      {"q": "How long do store-bought cakes last?", "a": "Plain cakes and muffins keep 3–7 days from purchase at room temperature and 7–10 days refrigerated after opening. Cream-filled cakes must stay refrigerated throughout."},
+      {"q": "Do muffins need to be refrigerated?", "a": "Plain muffins do not — a covered container at room temperature keeps them softer. Refrigerate anything with cream, custard or cream cheese frosting."}
+    ]
+  },
+  "zh": {
+    "name": "市售蛋糕與馬芬",
+    "aliases": ["市售蛋糕", "包裝蛋糕", "杯子蛋糕", "瑪芬", "海綿蛋糕"],
+    "summary": "超市或烘焙店的包裝蛋糕和馬芬，常溫下可從購買日起放 3～7 天。開封後改放冰箱可延長到 7～10 天，冷凍則約可保存 6 個月。但只要含有鮮奶油、卡士達或奶油乳酪的產品，就必須全程冷藏。",
+    "pantry": "沒有乳製品內餡的蛋糕和馬芬，例如海綿蛋糕、磅蛋糕、藍莓或巧克力馬芬，放在有蓋容器中常溫保存，從購買日起可放 3～7 天，記得避開陽光和爐火。含鮮奶油、卡士達、慕斯或奶油乳酪霜的蛋糕屬於易腐食品，室溫放置不可超過 2 小時（超過 32°C 時只有 1 小時）。用蛋糕罩或原本的紙盒可以避免變乾。",
+    "fridge": "開封後請放進 4°C 以下的冰箱，可保存 7～10 天。務必包好或裝盒，以免蛋糕體變乾，也避免吸到蔥蒜等異味。含鮮奶油的蛋糕和起司蛋糕類，從買回來那一刻就該放冰箱。",
+    "freezer": "蛋糕和馬芬適合冷凍，放 −18°C 從購買日起約可保存 6 個月。盡量在還沒抹奶油霜時冷凍：單片或單顆先用保鮮膜包好，再裝進冷凍袋。奶油霜冷凍後還算可以接受，但鮮奶油和卡士達解凍後會出水分離。",
+    "thawing": "包著放冷藏室退冰一晚，或原味的放室溫 1～2 小時。含鮮奶油的蛋糕一定要在冰箱退冰，絕對不要放在室溫。",
+    "spoilage": [
+      "蛋糕體或糖霜上出現白色、綠色或黑色的毛狀黴斑",
+      "有酸味、酵母味或發酵的味道",
+      "口感乾硬、鬆散，壓下去彈不回來",
+      "內餡出水、油水分離或聞起來發酸"
+    ],
+    "tips": [
+      "切開的斷面用保鮮膜緊貼包好，可以防止變乾",
+      "馬芬一顆一顆分開冷凍，要吃時拿一顆就好",
+      "鮮奶油蛋糕最好當天買、當天吃",
+      "變乾的馬芬用微波爐加熱 10～15 秒就會回軟"
+    ],
+    "faq": [
+      {"q": "蛋糕可以冷凍嗎？", "a": "可以。密封後放 −18°C 冷凍約 6 個月。盡量在還沒裝飾前冷凍，鮮奶油和卡士達內餡冷凍效果不好。"},
+      {"q": "市售蛋糕可以放多久？", "a": "原味蛋糕和馬芬常溫從購買日起 3～7 天，開封後冷藏 7～10 天。鮮奶油蛋糕則要全程冷藏。"},
+      {"q": "馬芬需要放冰箱嗎？", "a": "原味馬芬不用，放有蓋容器常溫保存反而比較鬆軟。含鮮奶油、卡士達或奶油乳酪霜的就一定要冷藏。"}
+    ]
+  },
+  "ja": {
+    "name": "市販のケーキ・マフィン",
+    "aliases": ["ケーキ", "マフィン", "カップケーキ", "スポンジケーキ", "市販菓子パン"],
+    "summary": "スーパーやベーカリーの包装済みケーキ・マフィンは、常温で購入日から3〜7日が目安です。開封後は冷蔵で7〜10日まで延び、冷凍なら約6か月保存できます。生クリームやカスタード、クリームチーズを使ったものは、最初から冷蔵が必須です。",
+    "pantry": "乳製品のクリームが入らないスポンジケーキ、パウンドケーキ、ブルーベリーやチョコのマフィンなどは、ふた付き容器に入れて常温で購入日から3〜7日。直射日光とコンロのそばは避けてください。生クリーム、カスタード、ムース、クリームチーズフロスティングを使ったケーキは傷みやすく、室温に2時間（32℃を超える環境では1時間）以上置いてはいけません。ケーキドームや購入時の箱に入れると乾燥を防げます。",
+    "fridge": "開封後は4℃以下の冷蔵庫で保存し、7〜10日が目安です。生地が乾かないよう、においが移らないよう、包むか箱に入れてください。クリーム入りのケーキやチーズケーキ系は、買った時点から冷蔵庫に入れましょう。",
+    "freezer": "ケーキやマフィンは−18℃で購入日から約6か月冷凍できます。できればデコレーション前の状態で、1切れ・1個ずつラップで包んでから冷凍用袋へ。バタークリームはまずまず冷凍できますが、生クリームやカスタードは解凍時に分離して水っぽくなります。",
+    "thawing": "包んだまま冷蔵庫で一晩、プレーンなものなら室温で1〜2時間で解凍します。クリーム入りのケーキは必ず冷蔵庫で解凍し、室温に出さないでください。",
+    "spoilage": [
+      "生地やクリームに白・緑・黒のふわふわしたカビ",
+      "酸っぱいにおい、イースト臭、発酵したようなにおい",
+      "パサパサと崩れ、押しても弾力が戻らない",
+      "クリームが水分を出して分離している、酸っぱいにおいがする"
+    ],
+    "tips": [
+      "切り口にラップを密着させると乾燥を防げます",
+      "マフィンは1個ずつ冷凍すると必要な分だけ取り出せます",
+      "生クリームのケーキは食べる当日に買うのが基本",
+      "パサついたマフィンは電子レンジで10〜15秒温めると柔らかくなります"
+    ],
+    "faq": [
+      {"q": "ケーキやマフィンは冷凍できますか？", "a": "できます。密閉して−18℃で約6か月。可能ならデコレーション前に冷凍を。生クリームやカスタードは冷凍に向きません。"},
+      {"q": "市販のケーキはどのくらい日持ちしますか？", "a": "プレーンなものは常温で購入日から3〜7日、開封後の冷蔵で7〜10日です。生クリーム入りは終始冷蔵してください。"},
+      {"q": "マフィンは冷蔵庫に入れるべきですか？", "a": "プレーンなら不要で、ふた付き容器の常温保存のほうがしっとりします。クリームやクリームチーズを使ったものは冷蔵してください。"}
+    ]
+  },
+  "es": {
+    "name": "Pasteles y magdalenas comerciales",
+    "aliases": ["tartas de supermercado", "magdalenas", "muffins", "bizcocho", "panques"],
+    "summary": "Los pasteles y magdalenas envasados de supermercado o panadería duran 3–7 días a temperatura ambiente desde la compra. Una vez abierto el envase, la nevera los alarga a 7–10 días, y se congelan bien unos 6 meses. Todo lo que lleve nata, crema pastelera o queso crema debe ir directo a la nevera.",
+    "pantry": "Los bizcochos y magdalenas sencillos —sin relleno lácteo— duran 3–7 días desde la compra en un recipiente tapado a temperatura ambiente, lejos del sol y de los fogones. Los pasteles con nata montada, crema pastelera, mousse o frosting de queso crema son perecederos y no deben estar fuera más de 2 horas (1 hora por encima de 32 °C/90 °F). Una campana para tartas o la caja original evita que se resequen.",
+    "fridge": "Una vez abiertos, guárdalos en la nevera a 4 °C (40 °F) o menos, donde duran 7–10 días. Envuélvelos o guárdalos en una caja para que la miga no se seque ni absorba olores a cebolla o ajo. Los rellenos de nata y las tartas de queso deben refrigerarse desde el momento de la compra.",
+    "freezer": "Se congelan bien unos 6 meses desde la compra a −18 °C (0 °F). Congélalos sin cobertura si puedes: envuelve porciones o magdalenas individuales en film y luego mételas en una bolsa. La crema de mantequilla aguanta razonablemente; la nata montada y la crema pastelera se cortan y quedan aguadas.",
+    "thawing": "Descongela el pastel envuelto en la nevera durante la noche, o a temperatura ambiente 1–2 horas si es sencillo. Los pasteles con nata deben descongelarse siempre en la nevera, nunca en la encimera.",
+    "spoilage": [
+      "Moho blanco, verde o negro en la miga o la cobertura",
+      "Olor agrio, a levadura o fermentado",
+      "Textura seca y desmenuzable que ya no recupera su forma",
+      "Relleno de nata que suelta líquido, se corta o huele ácido"
+    ],
+    "tips": [
+      "Pega film sobre la cara cortada del pastel para que no se reseque",
+      "Congela las magdalenas de una en una para sacar solo la que necesites",
+      "Compra las tartas de nata el mismo día que las vas a servir",
+      "Calienta una magdalena seca 10–15 segundos en el microondas para ablandarla"
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar los pasteles y las magdalenas?", "a": "Sí. Envueltos herméticamente a −18 °C (0 °F) duran unos 6 meses. Mejor sin cobertura; la nata y la crema pastelera no se congelan bien."},
+      {"q": "¿Cuánto duran los pasteles de supermercado?", "a": "Los sencillos, 3–7 días desde la compra a temperatura ambiente y 7–10 días refrigerados tras abrirlos. Los rellenos de nata deben estar siempre en frío."},
+      {"q": "¿Las magdalenas necesitan refrigeración?", "a": "Las sencillas no: se mantienen más tiernas en un recipiente tapado a temperatura ambiente. Refrigera todo lo que lleve nata, crema o frosting de queso."}
+    ]
+  }
+}

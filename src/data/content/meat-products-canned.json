@@ -1,0 +1,107 @@
+{
+  "slug": "meat-products-canned",
+  "en": {
+    "name": "Canned meat products",
+    "aliases": ["tinned meat", "canned ham", "corned beef", "luncheon meat", "Spam"],
+    "summary": "Canned meat products such as corned beef, luncheon meat, canned chicken and shelf-stable canned ham are cooked and sealed in a can, so they need no refrigeration until opened. An unopened can keeps in the pantry for about 5 years from purchase. Once opened, transfer the contents to a container and refrigerate for 3 to 4 days.",
+    "pantry": "Store unopened cans in a cool, dry cupboard below about 29 °C (85 °F) and away from the stove or heating pipes; they will keep for around 5 years from purchase. High-acid or high-heat conditions shorten that, and cans should never be allowed to freeze, since expansion can break the seal. Check the label: a few canned hams are marked \"keep refrigerated\" and belong in the fridge even before opening.",
+    "fridge": "Once opened, do not leave meat in the can. Move it to a covered glass or plastic container and refrigerate at or below 4 °C (40 °F); it will keep for 3 to 4 days. Leftover meat from the can counts as cooked leftovers, so follow the 2-hour rule when serving it.",
+    "freezer": "Freezing is not needed for unopened cans and can damage them. Opened leftovers can be frozen in an airtight container at −18 °C (0 °F) if you cannot use them within 3 to 4 days; they stay safe indefinitely, but the texture of luncheon-style meats often becomes watery or crumbly, so use within 1 to 2 months for the best result.",
+    "thawing": "Thaw frozen leftovers in the fridge overnight, or in the microwave if you will cook them right away. Never thaw on the counter.",
+    "spoilage": [
+      "A bulging, leaking, deeply dented or rusted can, or one that spurts liquid when opened",
+      "An off, sour or metallic smell once opened",
+      "Cloudy liquid, foam or a mouldy surface inside the can",
+      "Opened meat that has turned slimy or changed colour in the fridge"
+    ],
+    "tips": [
+      "Rotate your stock: write the purchase date on the lid and use the oldest cans first",
+      "Do not buy or use cans with dents along the seam or rim, as the seal may be broken",
+      "Wipe the top of the can before opening so dust and grime do not fall into the meat",
+      "Portion opened meat into what you will eat over the next 3 to 4 days and freeze the rest"
+    ],
+    "faq": [
+      {"q": "Can you freeze canned meat?", "a": "Do not freeze the sealed can. Opened leftovers can be frozen in an airtight container at −18 °C (0 °F) and are safe indefinitely, though texture is best within 1 to 2 months."},
+      {"q": "How can you tell if canned meat has gone bad?", "a": "Discard any can that bulges, leaks, is badly dented or spurts when opened, and any contents that smell off, look mouldy or are slimy. Never taste to check."},
+      {"q": "Does canned meat need to be refrigerated?", "a": "Not while sealed, unless the label says \"keep refrigerated\". After opening, refrigerate the meat in a covered container and use within 3 to 4 days."}
+    ]
+  },
+  "zh": {
+    "name": "肉類罐頭",
+    "aliases": ["午餐肉", "罐頭肉", "鹹牛肉罐頭", "肉醬罐頭", "餐肉"],
+    "summary": "肉類罐頭像是午餐肉、鹹牛肉、雞肉罐頭、肉醬罐頭，都是煮熟後密封殺菌的，開封前不必冷藏。未開封的罐頭從購買日起約可放 5 年；開罐後把內容物倒到保鮮盒冷藏，3 到 4 天內吃完。",
+    "pantry": "未開封的罐頭放在陰涼乾燥的櫥櫃，溫度最好低於 29 °C，遠離爐台和熱水管，約可保存 5 年。高溫環境會縮短保存期，也不要讓罐頭結凍，因為內容物膨脹可能會撐破封口。留意標籤，有些火腿罐頭標示「須冷藏」，即使沒開封也要放冰箱。",
+    "fridge": "開罐後不要把肉留在罐頭裡，倒到有蓋的玻璃或塑膠保鮮盒，放進 4 °C 以下的冷藏室，可保存 3 到 4 天。開罐後的肉算是熟食剩菜，上桌時記得遵守常溫不超過 2 小時的原則。",
+    "freezer": "未開封的罐頭不需要也不應該冷凍。開罐後吃不完的肉，如果 3 到 4 天內用不完，可以裝密封盒放 −18 °C 冷凍。安全上可以放很久，但午餐肉這類產品解凍後常會出水、變碎，建議 1 到 2 個月內用完口感較好。",
+    "thawing": "冷凍的剩肉放冷藏室隔夜解凍，或是馬上要煮的話用微波爐解凍。不要放在流理台上解凍。",
+    "spoilage": [
+      "罐身鼓起、漏液、嚴重凹陷或生鏽，或開罐時噴出液體",
+      "開罐後聞到異味、酸味或金屬味",
+      "罐內液體混濁、起泡，或表面長黴",
+      "開罐後冷藏的肉變黏或變色"
+    ],
+    "tips": [
+      "輪替庫存：在罐蓋上寫購買日期，先用最舊的",
+      "接縫或邊緣凹陷的罐頭不要買也不要吃，封口可能已經破壞",
+      "開罐前先把罐頂擦乾淨，避免灰塵和髒污掉進肉裡",
+      "開罐後把 3 到 4 天內吃得完的量留在冰箱，其餘冷凍"
+    ],
+    "faq": [
+      {"q": "肉類罐頭可以冷凍嗎？", "a": "未開封的罐頭不要冷凍。開罐後的剩肉可以裝密封盒放 −18 °C 冷凍，安全上可以放很久，但口感在 1 到 2 個月內最好。"},
+      {"q": "肉類罐頭壞掉怎麼看？", "a": "罐身鼓起、漏液、嚴重凹陷或開罐時噴液的都要丟掉；內容物有異味、發黴或變黏也不能吃。千萬不要用嘗的來判斷。"},
+      {"q": "肉類罐頭需要放冰箱嗎？", "a": "未開封不用，除非標籤註明「須冷藏」。開罐後要倒到有蓋容器冷藏，3 到 4 天內吃完。"}
+    ]
+  },
+  "ja": {
+    "name": "肉の缶詰",
+    "aliases": ["缶詰肉", "ランチョンミート", "コンビーフ", "スパム", "缶詰のハム"],
+    "summary": "コンビーフ、ランチョンミート、鶏肉の缶詰、常温保存できるハムの缶詰などは、加熱してから密封殺菌されているので、開けるまで冷蔵する必要はありません。未開封なら購入日から約5年保存できます。開封後は中身を容器に移して冷蔵し、3〜4日以内に食べきりましょう。",
+    "pantry": "未開封の缶詰は、コンロや温水管から離れた涼しく乾燥した戸棚（できれば29 °C以下）に置けば、購入日から約5年保存できます。高温の環境では日持ちが短くなり、また缶が凍ると中身が膨張して密封が壊れることがあるので、凍らせないようにしてください。ラベルも確認しましょう。ハムの缶詰には「要冷蔵」と書かれたものがあり、それは未開封でも冷蔵庫に入れます。",
+    "fridge": "開封後は缶のまま置かず、ふた付きのガラスやプラスチック容器に移して4 °C以下の冷蔵庫で保存します。日持ちは3〜4日です。開けた肉は加熱済みの残り物と同じ扱いなので、食卓に出すときは常温2時間以内のルールを守ってください。",
+    "freezer": "未開封の缶詰は冷凍の必要がなく、凍らせると缶を傷めます。開封後の残りを3〜4日で使いきれない場合は、密閉容器に入れて−18 °Cで冷凍できます。安全面では長期間もちますが、ランチョンミートのような製品は解凍後に水っぽくなったりボロボロになりやすいので、1〜2か月以内に使うのがおすすめです。",
+    "thawing": "冷凍した残りは冷蔵庫でひと晩かけて解凍するか、すぐに加熱調理するなら電子レンジで解凍します。室温での解凍は避けてください。",
+    "spoilage": [
+      "缶が膨らんでいる、液漏れしている、大きくへこんでいる、さびている、開けたときに液が噴き出す",
+      "開けたときに異臭、酸っぱいにおい、金属臭がする",
+      "缶の中の液が濁っている、泡立っている、表面にカビがある",
+      "開封後に冷蔵した肉がぬるぬるしたり変色している"
+    ],
+    "tips": [
+      "在庫はローテーションする。ふたに購入日を書き、古い缶から使う",
+      "巻き締め部分やふちがへこんだ缶は、密封が壊れている可能性があるので買わない・食べない",
+      "開ける前に缶の上面を拭き、ほこりや汚れが中に落ちないようにする",
+      "開封後は3〜4日で食べる分だけ冷蔵し、残りは冷凍する"
+    ],
+    "faq": [
+      {"q": "肉の缶詰は冷凍できますか？", "a": "未開封の缶は冷凍しないでください。開封後の残りは密閉容器に入れて−18 °Cで冷凍でき、安全面では長期間もちますが、食感は1〜2か月以内がベストです。"},
+      {"q": "肉の缶詰が傷んでいるかどうかはどう見分けますか？", "a": "膨らんでいる、液漏れしている、大きくへこんでいる、開けたときに噴き出す缶は捨ててください。中身が異臭・カビ・ぬめりのある場合も同様です。味見で確かめるのは絶対にやめましょう。"},
+      {"q": "肉の缶詰は冷蔵庫に入れる必要がありますか？", "a": "未開封なら「要冷蔵」の表示がない限り不要です。開封後はふた付き容器に移して冷蔵し、3〜4日以内に食べきってください。"}
+    ]
+  },
+  "es": {
+    "name": "Carne enlatada",
+    "aliases": ["carne en lata", "carne en conserva", "jamón enlatado", "corned beef", "fiambre enlatado"],
+    "summary": "Los productos cárnicos enlatados, como el corned beef, el fiambre tipo luncheon meat, el pollo en lata o el jamón enlatado de larga duración, están cocidos y sellados en la lata, por lo que no necesitan frío hasta que se abren. Una lata cerrada dura unos 5 años desde la compra en la despensa. Una vez abierta, pasa el contenido a un recipiente y refrigéralo 3 a 4 días.",
+    "pantry": "Guarda las latas cerradas en un armario fresco y seco, por debajo de unos 29 °C (85 °F) y lejos de la cocina o las tuberías de calefacción; durarán alrededor de 5 años desde la compra. El calor acorta ese plazo, y las latas nunca deben congelarse, porque la expansión puede romper el sellado. Revisa la etiqueta: algunos jamones enlatados indican \"mantener refrigerado\" y van al refrigerador incluso sin abrir.",
+    "fridge": "Una vez abierta, no dejes la carne en la lata. Pásala a un recipiente de vidrio o plástico con tapa y refrigérala a 4 °C (40 °F) o menos; se conservará 3 a 4 días. La carne sobrante cuenta como comida cocinada, así que aplica la regla de las 2 horas al servirla.",
+    "freezer": "No hace falta congelar las latas cerradas y hacerlo puede dañarlas. Las sobras ya abiertas sí pueden congelarse en un recipiente hermético a −18 °C (0 °F) si no las usarás en 3 a 4 días; se mantienen seguras indefinidamente, pero la textura de los fiambres suele volverse acuosa o desmenuzable, así que úsalas en 1 a 2 meses para un mejor resultado.",
+    "thawing": "Descongela las sobras en el refrigerador durante la noche, o en el microondas si las vas a cocinar de inmediato. Nunca las descongeles sobre la encimera.",
+    "spoilage": [
+      "Lata hinchada, con fugas, muy abollada u oxidada, o que salpica líquido al abrirla",
+      "Olor extraño, agrio o metálico al abrirla",
+      "Líquido turbio, espuma o moho en la superficie dentro de la lata",
+      "Carne abierta que se ha vuelto viscosa o ha cambiado de color en el refrigerador"
+    ],
+    "tips": [
+      "Rota tus existencias: escribe la fecha de compra en la tapa y usa primero las latas más antiguas",
+      "No compres ni uses latas abolladas en la costura o el borde, porque el sellado puede estar roto",
+      "Limpia la parte superior de la lata antes de abrirla para que no caiga polvo ni suciedad en la carne",
+      "Separa la carne abierta en lo que comerás en los próximos 3 a 4 días y congela el resto"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la carne enlatada?", "a": "No congeles la lata cerrada. Las sobras abiertas se pueden congelar en un recipiente hermético a −18 °C (0 °F) y son seguras indefinidamente, aunque la textura es mejor en 1 a 2 meses."},
+      {"q": "¿Cómo saber si la carne enlatada está mala?", "a": "Desecha cualquier lata hinchada, con fugas, muy abollada o que salpique al abrirla, y cualquier contenido con olor extraño, moho o textura viscosa. Nunca la pruebes para comprobarlo."},
+      {"q": "¿La carne enlatada necesita refrigeración?", "a": "No mientras esté sellada, salvo que la etiqueta diga \"mantener refrigerado\". Después de abrirla, refrigera la carne en un recipiente tapado y consúmela en 3 a 4 días."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "cheesecake",
+  "en": {
+    "name": "Cheesecake",
+    "aliases": ["baked cheesecake", "New York cheesecake", "no-bake cheesecake", "cream cheese cake"],
+    "summary": "Cheesecake is a dense dessert made mostly of cream cheese, eggs and sugar, so it must be treated like a dairy product. Keep it in the fridge and eat it within 5–7 days, or freeze it for 3–6 months for best quality. It should not sit at room temperature for more than 2 hours.",
+    "pantry": "Cheesecake is not a pantry item. Because it is rich in dairy and egg, it should not be left out for more than 2 hours (1 hour if the room is above 32 °C / 90 °F). Serve slices and put the rest straight back in the fridge.",
+    "fridge": "Store cheesecake at 4 °C (40 °F) or below in an airtight container, or cover the pan tightly with plastic wrap or foil so it does not dry out or pick up odours. Bakery-bought and homemade cheesecake both keep 5–7 days. Keep fruit toppings separate if you can, since they weep and soften the surface.",
+    "freezer": "Cheesecake freezes well. Chill it fully, then freeze whole or in slices on a tray until firm, wrap tightly in plastic wrap and then foil, and store at −18 °C (0 °F). Use within 3–6 months for the best texture; it stays safe longer, but the surface may crack or turn grainy.",
+    "thawing": "Thaw wrapped cheesecake overnight in the fridge; single slices need only a few hours. Do not thaw on the counter, and eat thawed cheesecake within a few days.",
+    "spoilage": [
+      "Sour or yeasty smell that is stronger than the usual tang of cream cheese",
+      "Mould spots on the surface, the crust or the topping",
+      "Watery liquid pooling around the base or a slimy, weeping surface",
+      "Dry, cracked or rubbery texture and a bitter or off taste"
+    ],
+    "tips": [
+      "Write the purchase or baking date on the box so you know when the 5–7 days are up",
+      "Cut slices with a warm, dry knife and wrap leftovers before they go back in the fridge",
+      "Freeze in individual slices so you can thaw only what you need",
+      "Add fresh fruit or whipped cream at serving time, not before storing"
+    ],
+    "faq": [
+      {"q": "Can you freeze cheesecake?", "a": "Yes. Wrap it well and freeze at −18 °C (0 °F) for up to 3–6 months for best quality. Thaw in the fridge overnight."},
+      {"q": "How long does cheesecake last in the fridge?", "a": "About 5–7 days at 4 °C (40 °F) or below, kept covered or in an airtight container."},
+      {"q": "Does cheesecake need to be refrigerated?", "a": "Yes. It is made with cream cheese and eggs, so it should never sit out for more than 2 hours."}
+    ]
+  },
+  "zh": {
+    "name": "起司蛋糕",
+    "aliases": ["乳酪蛋糕", "芝士蛋糕", "重乳酪蛋糕", "紐約起司蛋糕", "生乳酪蛋糕"],
+    "summary": "起司蛋糕的主要原料是奶油乳酪、蛋和糖，本質上是乳製品甜點，必須冷藏。放冰箱可保存 5～7 天，冷凍則可放 3～6 個月（以品質為準）。室溫下不要超過 2 小時。",
+    "pantry": "起司蛋糕不能常溫保存。因為含大量乳製品和蛋，放在室溫超過 2 小時就有風險（室溫超過 32°C 時只有 1 小時）。切好要吃的份量後，剩下的立刻放回冰箱。",
+    "fridge": "冷藏溫度請保持在 4°C 以下，用保鮮盒裝好，或把整個模型用保鮮膜、鋁箔紙密封，避免變乾或吸附冰箱異味。無論是店裡買的還是自己做的，都可以放 5～7 天。水果或果醬類配料最好分開放，否則會出水讓表面變軟。",
+    "freezer": "起司蛋糕很適合冷凍。先徹底冷藏定型，整顆或切片放在盤子上凍硬，再用保鮮膜包緊、外面加一層鋁箔紙，放進 −18°C 的冷凍庫。3～6 個月內吃完口感最好；放更久仍然安全，但表面可能龜裂或口感變得粗糙。",
+    "thawing": "連同包裝放冷藏室解凍一晚，單片幾個小時就夠了。不要放在桌上解凍，解凍後的蛋糕請在幾天內吃完。",
+    "spoilage": [
+      "酸味或發酵味比奶油乳酪原本的微酸味明顯得多",
+      "表面、餅乾底或配料出現黴點",
+      "底部積水，或表面變得黏滑、出水",
+      "質地變乾、龜裂或像橡膠一樣，吃起來有苦味或怪味"
+    ],
+    "tips": [
+      "在盒子上寫下購買或烘烤日期，才知道 5～7 天什麼時候到期",
+      "用溫熱的乾刀切片，剩下的部分包好再放回冰箱",
+      "分片冷凍，要吃多少解凍多少",
+      "新鮮水果和鮮奶油等到要吃時再加，不要先放上去保存"
+    ],
+    "faq": [
+      {"q": "起司蛋糕可以冷凍嗎？", "a": "可以。包好後放 −18°C 冷凍，3～6 個月內吃完品質最好。要吃時放冷藏室解凍一晚。"},
+      {"q": "起司蛋糕放冰箱可以放多久？", "a": "在 4°C 以下冷藏、蓋好或放保鮮盒，大約可以放 5～7 天。"},
+      {"q": "起司蛋糕一定要冰嗎？", "a": "一定要。它的主要原料是奶油乳酪和蛋，室溫放置不可超過 2 小時。"}
+    ]
+  },
+  "ja": {
+    "name": "チーズケーキ",
+    "aliases": ["ベイクドチーズケーキ", "レアチーズケーキ", "ニューヨークチーズケーキ", "スフレチーズケーキ"],
+    "summary": "チーズケーキはクリームチーズ・卵・砂糖が主原料の、いわば乳製品のデザートです。冷蔵庫で5〜7日、冷凍なら3〜6か月（おいしく食べられる目安）保存できます。常温に2時間以上置かないようにしましょう。",
+    "pantry": "チーズケーキは常温保存できません。乳製品と卵をたっぷり含むため、室温に置いてよいのは2時間まで（32℃を超える暑い場所では1時間まで）です。食べる分だけ切り分けて、残りはすぐ冷蔵庫に戻してください。",
+    "fridge": "4℃以下の冷蔵庫で、密閉容器に入れるか型ごとラップやアルミホイルでしっかり包んで保存します。乾燥や冷蔵庫のにおい移りを防げます。市販品も手作りも5〜7日が目安です。フルーツやソースのトッピングは水分が出て表面が柔らかくなるので、できれば別にしておきましょう。",
+    "freezer": "チーズケーキは冷凍向きです。しっかり冷やしてから、ホールまたはカットした状態でトレーにのせて凍らせ、ラップで包んでさらにアルミホイルで覆い、−18℃の冷凍庫へ。3〜6か月以内に食べるとなめらかな食感が保てます。それ以上でも安全性に問題はありませんが、表面が割れたりザラついたりすることがあります。",
+    "thawing": "包んだまま冷蔵庫で一晩解凍します。カットしたものなら数時間で解凍できます。常温での解凍は避け、解凍後は数日以内に食べ切ってください。",
+    "spoilage": [
+      "クリームチーズ本来の酸味を超える、すっぱいにおいや発酵臭",
+      "表面・土台・トッピングにカビの斑点",
+      "底に水がたまっている、表面がぬるぬるして水っぽい",
+      "パサついてひび割れる、ゴムのような食感、苦味や異味がある"
+    ],
+    "tips": [
+      "箱に購入日や焼いた日を書いておくと、5〜7日の目安がすぐ分かります",
+      "温めた乾いたナイフで切り、残りは包み直してから冷蔵庫へ",
+      "1切れずつ冷凍しておけば、必要な分だけ解凍できます",
+      "フルーツや生クリームは保存前ではなく、食べる直前にのせましょう"
+    ],
+    "faq": [
+      {"q": "チーズケーキは冷凍できますか？", "a": "できます。しっかり包んで−18℃で冷凍し、3〜6か月以内に食べるのがおすすめです。解凍は冷蔵庫で一晩かけて行います。"},
+      {"q": "チーズケーキは冷蔵庫でどのくらい日持ちしますか？", "a": "4℃以下で、ふたをするか密閉容器に入れておけば5〜7日ほど保存できます。"},
+      {"q": "チーズケーキは冷蔵しないとだめですか？", "a": "はい。クリームチーズと卵が主原料なので、常温には2時間以上置かないでください。"}
+    ]
+  },
+  "es": {
+    "name": "Tarta de queso",
+    "aliases": ["cheesecake", "pastel de queso", "pay de queso", "torta de queso", "tarta de queso horneada"],
+    "summary": "La tarta de queso se elabora sobre todo con queso crema, huevo y azúcar, así que hay que tratarla como un producto lácteo. Guárdala en la nevera y consúmela en 5–7 días, o congélala durante 3–6 meses para conservar su mejor calidad. No debe estar a temperatura ambiente más de 2 horas.",
+    "pantry": "La tarta de queso no se guarda en la despensa. Como contiene mucho lácteo y huevo, no debe permanecer fuera de la nevera más de 2 horas (1 hora si hace más de 32 °C / 90 °F). Sirve las porciones y devuelve el resto al frío de inmediato.",
+    "fridge": "Consérvala a 4 °C (40 °F) o menos en un recipiente hermético, o cubre el molde bien con film transparente o papel de aluminio para que no se reseque ni absorba olores. Tanto la comprada como la casera duran 5–7 días. Si puedes, guarda las coberturas de fruta aparte, porque sueltan líquido y ablandan la superficie.",
+    "freezer": "La tarta de queso se congela muy bien. Enfríala por completo, congélala entera o en porciones sobre una bandeja hasta que esté firme, envuélvela bien en film y luego en papel de aluminio, y guárdala a −18 °C (0 °F). Consúmela en 3–6 meses para la mejor textura; sigue siendo segura después, pero la superficie puede agrietarse o volverse granulosa.",
+    "thawing": "Descongela la tarta envuelta en la nevera durante toda la noche; una porción individual solo necesita unas horas. No la descongeles sobre la encimera y cómela en pocos días.",
+    "spoilage": [
+      "Olor agrio o a fermentado más fuerte que el toque ácido normal del queso crema",
+      "Manchas de moho en la superficie, la base de galleta o la cobertura",
+      "Líquido acumulado alrededor de la base o superficie viscosa y húmeda",
+      "Textura seca, agrietada o gomosa y sabor amargo o extraño"
+    ],
+    "tips": [
+      "Anota la fecha de compra o de horneado en la caja para controlar los 5–7 días",
+      "Corta con un cuchillo tibio y seco, y envuelve las sobras antes de devolverlas a la nevera",
+      "Congela en porciones individuales para descongelar solo lo que vayas a comer",
+      "Añade la fruta fresca o la nata montada al servir, no antes de guardar"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la tarta de queso?", "a": "Sí. Envuélvela bien y congélala a −18 °C (0 °F) hasta 3–6 meses para conservar la calidad. Descongélala en la nevera durante la noche."},
+      {"q": "¿Cuánto dura la tarta de queso en la nevera?", "a": "Unos 5–7 días a 4 °C (40 °F) o menos, tapada o en un recipiente hermético."},
+      {"q": "¿La tarta de queso necesita refrigeración?", "a": "Sí. Está hecha con queso crema y huevo, por lo que nunca debe quedarse fuera más de 2 horas."}
+    ]
+  }
+}

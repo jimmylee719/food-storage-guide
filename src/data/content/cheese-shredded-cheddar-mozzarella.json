@@ -1,0 +1,107 @@
+{
+  "slug": "cheese-shredded-cheddar-mozzarella",
+  "en": {
+    "name": "Shredded cheese (cheddar, mozzarella)",
+    "aliases": ["grated cheese", "pizza cheese", "shredded mozzarella", "shredded cheddar", "Mexican blend cheese"],
+    "summary": "Bagged shredded cheese such as cheddar, mozzarella or a pizza blend keeps about 1 month in the fridge from the date of purchase. It freezes well for 3–4 months and can go straight from the freezer onto pizza, pasta bakes or quesadillas.",
+    "pantry": "Shredded cheese is perishable and should not be left at room temperature. Its many small pieces warm up quickly and offer lots of surface for bacteria and mould, so put the bag back in the fridge as soon as you have taken what you need. Discard cheese that has been out for more than 2 hours, or 1 hour above 32 °C (90 °F).",
+    "fridge": "Keep the bag sealed at or below 4 °C (40 °F) and use it within about 1 month of purchase, opened or not. Press the air out and use the zip seal, or move the cheese to an airtight container. Store it in the cheese drawer or on a lower shelf, away from the door, and check the bag for moisture, which speeds up mould.",
+    "freezer": "Shredded cheese is one of the easiest cheeses to freeze because the pieces do not clump much. Freeze it in the original bag with the air pressed out, or in a freezer bag laid flat so you can break off what you need, for 3–4 months at −18 °C (0 °F). It stays safe indefinitely frozen; the timeline is for melting quality and flavour.",
+    "thawing": "For cooked dishes, use it straight from the freezer. For salads or toppings, thaw the bag in the fridge for a few hours and use it within a few days. Never thaw on the counter.",
+    "spoilage": [
+      "Green, blue, white or black mould on any of the shreds — discard the whole bag",
+      "A sour, ammonia-like or musty smell",
+      "Shreds that are slimy, wet or matted together",
+      "An off, bitter taste even when it looks fine"
+    ],
+    "tips": [
+      "Buy smaller bags unless you know you will use a big one within a month.",
+      "Freeze part of a large bag on the day you buy it rather than waiting until it is nearly expired.",
+      "Label freezer bags with the date and cheese type; blends look alike once frozen.",
+      "Keep the bag dry: reach in with clean, dry hands or a spoon."
+    ],
+    "faq": [
+      {"q": "Can you freeze shredded cheese?", "a": "Yes. Press the air out of the bag and freeze for 3–4 months. Use it straight from the freezer in cooked dishes."},
+      {"q": "How can you tell if shredded cheese has gone bad?", "a": "Any mould means the whole bag goes in the bin, since mould spreads easily between shreds. A sour smell, sliminess or matted wet clumps are also signs to discard it."},
+      {"q": "How long does shredded cheese last in the fridge?", "a": "About 1 month from the date of purchase when kept sealed at or below 4 °C (40 °F)."}
+    ]
+  },
+  "zh": {
+    "name": "起司絲（切達、莫札瑞拉）",
+    "aliases": ["乳酪絲", "披薩起司", "芝士絲", "焗烤起司絲", "莫札瑞拉起司絲", "雙色起司絲"],
+    "summary": "袋裝起司絲（切達、莫札瑞拉或披薩用綜合起司絲）從購買日起冷藏約可放 1 個月。冷凍可放 3～4 個月，而且可以直接從冷凍庫拿出來鋪在披薩、焗烤或墨西哥薄餅上。",
+    "pantry": "起司絲容易腐壞，不能放在室溫。細碎的起司很快就會回溫，表面積大也容易長細菌和黴菌，所以取出需要的量後馬上把袋子放回冰箱。在室溫放超過 2 小時（室溫超過 32 °C 則是 1 小時）就要丟掉。",
+    "fridge": "袋子封好放在 4 °C 以下的冷藏室，不論有沒有開封，購買後約 1 個月內用完。把空氣壓出後用夾鏈封好，或改裝進密封盒。放在起司抽屜或下層，遠離冰箱門，並注意袋內有沒有水氣，水氣會加速發黴。",
+    "freezer": "起司絲是最好冷凍的起司之一，因為不太會黏成一團。可以用原包裝壓出空氣冷凍，或裝進冷凍袋壓平，要用時直接掰下需要的量，−18 °C 可放 3～4 個月。冷凍狀態下安全上可以無限期保存，期限指的是融化的口感和風味。",
+    "thawing": "做熟食料理時直接從冷凍庫取用即可。若要拌沙拉或當配料，把袋子放冷藏室幾小時解凍，並在幾天內用完。不要放室溫解凍。",
+    "spoilage": [
+      "任何起司絲上出現綠色、藍色、白色或黑色的黴菌，整袋都要丟掉",
+      "有酸味、阿摩尼亞味或霉味",
+      "起司絲變黏、出水或糾結成團",
+      "看起來正常但吃起來有苦味或怪味"
+    ],
+    "tips": [
+      "除非確定一個月內吃得完，否則買小包裝。",
+      "大包裝買回來當天就先分一部分冷凍，不要等快過期才處理。",
+      "冷凍袋上標示日期和起司種類，冷凍後不同種類看起來都一樣。",
+      "保持袋內乾燥：用乾淨乾燥的手或湯匙取用。"
+    ],
+    "faq": [
+      {"q": "起司絲可以冷凍嗎？", "a": "可以。把袋子的空氣壓出後冷凍 3～4 個月，做熟食時直接從冷凍庫拿出來用。"},
+      {"q": "起司絲壞掉怎麼看？", "a": "只要有一點發黴整袋就要丟，因為黴菌在起司絲之間很容易蔓延。有酸味、變黏或糾結出水也要丟掉。"},
+      {"q": "起司絲放冰箱可以放多久？", "a": "從購買日起大約 1 個月，前提是封好放在 4 °C 以下。"}
+    ]
+  },
+  "ja": {
+    "name": "シュレッドチーズ（チェダー、モッツァレラ）",
+    "aliases": ["ピザ用チーズ", "とろけるチーズ", "細切りチーズ", "ミックスチーズ", "シュレッドモッツァレラ"],
+    "summary": "袋入りのシュレッドチーズ（チェダー、モッツァレラ、ピザ用ミックスなど）は、購入日から冷蔵で約1か月もちます。冷凍なら3〜4か月保存でき、凍ったままピザやグラタン、ケサディーヤにのせて使えます。",
+    "pantry": "シュレッドチーズは傷みやすく、室温に置いてはいけません。細かい分すぐに温まり、表面積が大きいので細菌やカビも増えやすいため、必要な分を取ったらすぐ袋を冷蔵庫に戻しましょう。室温に2時間以上（32 °Cを超える場合は1時間以上）置いたものは処分してください。",
+    "fridge": "袋をしっかり閉じて4 °C以下の冷蔵室で保存し、開封の有無にかかわらず購入から約1か月で使い切ります。空気を抜いてチャックを閉めるか、密閉容器に移しましょう。ドアポケットは避けてチーズ用の引き出しか下段に置き、袋の中に水分がついていないか確認してください。水分はカビを早めます。",
+    "freezer": "シュレッドチーズは固まりにくいので、最も冷凍しやすいチーズのひとつです。元の袋の空気を抜いて、または冷凍用保存袋に平らに入れて凍らせれば、必要な分だけ割って使えます。−18 °Cで3〜4か月が目安です。冷凍中は安全性の面で無期限にもち、期間の目安は溶け具合と風味のためのものです。",
+    "thawing": "加熱料理には凍ったまま使えます。サラダやトッピングに使うなら袋ごと冷蔵庫で数時間解凍し、数日以内に使い切ってください。室温での解凍は避けましょう。",
+    "spoilage": [
+      "一部にでも緑・青・白・黒のカビが見えたら袋ごと処分",
+      "酸っぱいにおい、アンモニア臭、かび臭さ",
+      "ぬめり、湿り気、チーズ同士がべたっと固まっている",
+      "見た目は普通でも苦味や変な味がする"
+    ],
+    "tips": [
+      "1か月で使い切れる自信がなければ小さい袋を選びましょう。",
+      "大袋は期限が近づいてからではなく、買った日に一部を冷凍しておくと安心です。",
+      "冷凍袋に日付とチーズの種類を書いておきましょう。凍るとミックスの区別がつきません。",
+      "袋の中を乾いた状態に保つため、清潔で乾いた手かスプーンで取り出しましょう。"
+    ],
+    "faq": [
+      {"q": "シュレッドチーズは冷凍できますか？", "a": "できます。袋の空気を抜いて3〜4か月を目安に冷凍し、加熱料理には凍ったまま使ってください。"},
+      {"q": "シュレッドチーズが傷んでいるかどうかはどう見分けますか？", "a": "カビが少しでもあれば袋ごと処分してください。細切りの間でカビが広がりやすいためです。酸っぱいにおい、ぬめり、湿って固まった塊も傷みのサインです。"},
+      {"q": "シュレッドチーズは冷蔵庫でどのくらいもちますか？", "a": "密閉して4 °C以下で保存すれば、購入日から約1か月が目安です。"}
+    ]
+  },
+  "es": {
+    "name": "Queso rallado (cheddar, mozzarella)",
+    "aliases": ["queso rallado en bolsa", "queso para pizza", "mozzarella rallada", "cheddar rallado", "mezcla de quesos rallados"],
+    "summary": "El queso rallado en bolsa, como cheddar, mozzarella o mezcla para pizza, dura alrededor de 1 mes en el refrigerador desde la fecha de compra. Se congela bien durante 3–4 meses y puede ir directamente del congelador a la pizza, la pasta gratinada o las quesadillas.",
+    "pantry": "El queso rallado es perecedero y no debe quedarse a temperatura ambiente. Sus trozos pequeños se calientan rápido y ofrecen mucha superficie para bacterias y moho, así que devuelve la bolsa al refrigerador en cuanto tomes lo que necesitas. Desecha el queso que haya estado fuera más de 2 horas, o 1 hora si hace más de 32 °C (90 °F).",
+    "fridge": "Mantén la bolsa cerrada a 4 °C (40 °F) o menos y úsala en aproximadamente 1 mes desde la compra, abierta o no. Saca el aire y usa el cierre zip, o pasa el queso a un recipiente hermético. Guárdalo en el cajón de quesos o en un estante bajo, lejos de la puerta, y revisa que no haya humedad en la bolsa, porque acelera el moho.",
+    "freezer": "El queso rallado es uno de los más fáciles de congelar porque apenas se apelmaza. Congélalo en su bolsa original sin aire, o en una bolsa para congelar colocada plana para poder partir lo que necesites, durante 3–4 meses a −18 °C (0 °F). Congelado se mantiene seguro indefinidamente; el plazo se refiere a la calidad al fundirse y al sabor.",
+    "thawing": "Para platos cocinados, úsalo directamente del congelador. Para ensaladas o toppings, descongela la bolsa en el refrigerador unas horas y consúmelo en pocos días. Nunca lo descongeles en la encimera.",
+    "spoilage": [
+      "Moho verde, azul, blanco o negro en cualquier hebra: desecha toda la bolsa",
+      "Olor agrio, a amoníaco o a humedad",
+      "Hebras viscosas, mojadas o apelmazadas",
+      "Sabor amargo o extraño aunque se vea bien"
+    ],
+    "tips": [
+      "Compra bolsas pequeñas salvo que sepas que usarás una grande en un mes.",
+      "Congela parte de una bolsa grande el mismo día de la compra, en lugar de esperar a que esté a punto de caducar.",
+      "Etiqueta las bolsas del congelador con la fecha y el tipo de queso; las mezclas se parecen una vez congeladas.",
+      "Mantén la bolsa seca: toma el queso con las manos limpias y secas o con una cuchara."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el queso rallado?", "a": "Sí. Saca el aire de la bolsa y congélalo durante 3–4 meses. Úsalo directamente del congelador en platos cocinados."},
+      {"q": "¿Cómo saber si el queso rallado está malo?", "a": "Cualquier rastro de moho significa tirar toda la bolsa, porque se extiende con facilidad entre las hebras. El olor agrio, la viscosidad o los grumos húmedos también indican que hay que desecharlo."},
+      {"q": "¿Cuánto dura el queso rallado en el refrigerador?", "a": "Alrededor de 1 mes desde la compra si se mantiene cerrado a 4 °C (40 °F) o menos."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "pies-pumpkin",
+  "en": {
+    "name": "Pumpkin pie",
+    "aliases": ["pumpkin custard pie", "Thanksgiving pumpkin pie", "sweet potato pie", "squash pie"],
+    "summary": "Pumpkin pie is a custard pie: the filling is pumpkin purée blended with eggs, milk or cream and spices, baked until set. Like any egg custard it must be kept cold. Leave it out no more than 2 hours, refrigerate for 3–4 days, or freeze for 1–2 months.",
+    "pantry": "Homemade and bakery pumpkin pies should not sit at room temperature for more than 2 hours (1 hour above 32 °C / 90 °F); the egg-and-milk filling is a perishable food. The exception is some commercially baked pies sold unrefrigerated on store shelves, which contain preservatives; follow the label for those until they are opened.",
+    "fridge": "Let the pie cool to room temperature within 2 hours, then cover loosely with foil or plastic wrap and store at 4 °C (40 °F) or below for 3–4 days. Chilling lets the custard firm up for cleaner slices. Add whipped cream at the table rather than before storing.",
+    "freezer": "Pumpkin pie can be frozen for 1–2 months at −18 °C (0 °F). Cool completely, wrap the whole pie or individual slices tightly in plastic wrap and then foil, and freeze in the pan; a metal pan handles freezing better than glass. Beyond 1–2 months it remains safe, but the custard may weep and the crust soften.",
+    "thawing": "Thaw pumpkin pie wrapped in the fridge overnight, never on the counter. Blot any surface moisture with a paper towel before serving, and eat within 3–4 days of thawing.",
+    "spoilage": [
+      "Sour or off smell from the custard",
+      "Mould on the filling or crust",
+      "Watery liquid pooling on top or around the edges",
+      "Filling that has cracked deeply, sunk or turned slimy"
+    ],
+    "tips": [
+      "Bake the pie a day ahead so it is fully chilled and set for serving",
+      "Cover loosely to prevent condensation on the filling",
+      "Freeze leftover slices individually for quick desserts",
+      "Note the baking or purchase date so you know when the 3–4 days are up"
+    ],
+    "faq": [
+      {"q": "Can you freeze pumpkin pie?", "a": "Yes. Wrapped tightly at −18 °C (0 °F), it keeps 1–2 months for best quality. Thaw in the fridge overnight."},
+      {"q": "How long does pumpkin pie last in the fridge?", "a": "About 3–4 days at 4 °C (40 °F) or below, loosely covered."},
+      {"q": "Does pumpkin pie need to be refrigerated?", "a": "Yes. It is an egg custard pie and must not sit out for more than 2 hours. Only shelf-stable store-bought pies with preservatives are the exception, until opened."}
+    ]
+  },
+  "zh": {
+    "name": "南瓜派",
+    "aliases": ["美式南瓜派", "南瓜蛋奶派", "感恩節南瓜派", "地瓜派", "pumpkin pie"],
+    "summary": "南瓜派是一種卡士達派：內餡是南瓜泥加蛋、牛奶或鮮奶油和香料，烤到凝固。跟所有蛋奶餡一樣，必須保持冰涼。室溫不超過 2 小時，冷藏 3～4 天，冷凍 1～2 個月。",
+    "pantry": "自製和烘焙坊的南瓜派在室溫放置不可超過 2 小時（室溫超過 32°C 時只有 1 小時），蛋奶內餡是容易腐壞的食物。例外是有些超市常溫貨架上販售的量產南瓜派，含有防腐劑，開封前依標示保存即可。",
+    "fridge": "派要在 2 小時內放涼到室溫，然後用鋁箔紙或保鮮膜鬆鬆蓋住，放 4°C 以下冷藏 3～4 天。冰過卡士達會變紮實，比較好切。鮮奶油在餐桌上再加，不要保存前就放。",
+    "freezer": "南瓜派可以在 −18°C 冷凍 1～2 個月。完全放涼後，整顆或切片用保鮮膜包緊再包鋁箔紙，連同烤模冷凍；金屬模比玻璃模更耐冷凍。超過 1～2 個月仍然安全，但卡士達可能出水、派皮變軟。",
+    "thawing": "連包裝放冷藏室解凍一晚，絕對不要放在桌上。上桌前用廚房紙巾吸掉表面水氣，解凍後 3～4 天內吃完。",
+    "spoilage": [
+      "卡士達有酸味或怪味",
+      "內餡或派皮長黴",
+      "表面或邊緣積水",
+      "內餡出現深裂、塌陷或變得黏滑"
+    ],
+    "tips": [
+      "前一天先烤好，上桌時已經冰透定型",
+      "蓋子鬆鬆蓋，內餡才不會凝結水珠",
+      "剩下的切片分開冷凍，隨時有甜點可吃",
+      "記下烘烤或購買日期，才知道 3～4 天什麼時候到"
+    ],
+    "faq": [
+      {"q": "南瓜派可以冷凍嗎？", "a": "可以。包緊放 −18°C 冷凍，1～2 個月內品質最好。放冷藏室解凍一晚。"},
+      {"q": "南瓜派放冰箱可以放多久？", "a": "在 4°C 以下鬆鬆蓋著，大約可以放 3～4 天。"},
+      {"q": "南瓜派一定要冰嗎？", "a": "一定要。它是蛋奶卡士達派，室溫放置不可超過 2 小時。只有含防腐劑的常溫市售派例外，開封前依標示保存。"}
+    ]
+  },
+  "ja": {
+    "name": "パンプキンパイ",
+    "aliases": ["かぼちゃパイ", "かぼちゃのカスタードパイ", "サンクスギビングパイ", "スイートポテトパイ"],
+    "summary": "パンプキンパイはカスタードパイの一種で、かぼちゃのピューレに卵・牛乳または生クリーム・スパイスを混ぜて焼き固めたものです。卵のカスタードである以上、冷やして保存する必要があります。常温は2時間まで、冷蔵で3〜4日、冷凍で1〜2か月が目安です。",
+    "pantry": "手作りやベーカリーのパンプキンパイは常温に2時間以上（32℃を超える環境では1時間以上）置かないでください。卵と牛乳のフィリングは傷みやすい食品です。例外は常温の棚で売られている保存料入りの市販パイで、開封するまでは表示に従ってください。",
+    "fridge": "2時間以内に室温まで冷ましてから、アルミホイルかラップを軽くかぶせ、4℃以下で3〜4日保存します。冷やすとカスタードが締まり、断面がきれいに切れます。ホイップクリームは保存前ではなく食卓で添えましょう。",
+    "freezer": "パンプキンパイは−18℃で1〜2か月冷凍できます。完全に冷ましてから、ホールまたは切り分けてラップでぴったり包み、アルミホイルで覆って型ごと冷凍します。ガラスより金属の型のほうが冷凍に向いています。1〜2か月を過ぎても安全ですが、カスタードから水が出たりパイ皮が柔らかくなったりします。",
+    "thawing": "包んだまま冷蔵庫で一晩かけて解凍します。室温解凍は避けてください。食べる前に表面の水分をキッチンペーパーで押さえ、解凍後は3〜4日以内に食べ切りましょう。",
+    "spoilage": [
+      "カスタードから酸っぱいにおいや異臭",
+      "フィリングやパイ皮にカビ",
+      "表面や縁に水がたまっている",
+      "フィリングに深いひび、沈み、ぬめりがある"
+    ],
+    "tips": [
+      "前日に焼いておくと、提供時にはしっかり冷えて固まっています",
+      "ふんわりと覆うと、フィリングに結露がつきません",
+      "残りは1切れずつ冷凍しておくとすぐデザートに",
+      "焼いた日・買った日をメモしておくと3〜4日の目安が分かります"
+    ],
+    "faq": [
+      {"q": "パンプキンパイは冷凍できますか？", "a": "できます。しっかり包んで−18℃で冷凍すれば1〜2か月はおいしく保てます。冷蔵庫で一晩かけて解凍してください。"},
+      {"q": "パンプキンパイは冷蔵庫で何日持ちますか？", "a": "4℃以下でふんわりふたをして、3〜4日ほどです。"},
+      {"q": "パンプキンパイは冷蔵しないとだめですか？", "a": "はい。卵のカスタードパイなので、常温に2時間以上置いてはいけません。保存料入りの常温流通の市販品だけは、開封するまで例外です。"}
+    ]
+  },
+  "es": {
+    "name": "Tarta de calabaza",
+    "aliases": ["pay de calabaza", "pie de calabaza", "pastel de calabaza", "tarta de zapallo", "pumpkin pie"],
+    "summary": "La tarta de calabaza es una tarta de crema: el relleno es puré de calabaza mezclado con huevo, leche o nata y especias, horneado hasta cuajar. Como cualquier crema de huevo, debe mantenerse en frío. No la dejes fuera más de 2 horas, refrigérala 3–4 días o congélala 1–2 meses.",
+    "pantry": "Las tartas de calabaza caseras o de pastelería no deben estar a temperatura ambiente más de 2 horas (1 hora si hace más de 32 °C / 90 °F); el relleno de huevo y leche es un alimento perecedero. La excepción son algunas tartas industriales que se venden sin refrigerar en el estante, con conservantes; sigue la etiqueta hasta abrirlas.",
+    "fridge": "Deja que la tarta se enfríe a temperatura ambiente en menos de 2 horas, cúbrela sin apretar con papel de aluminio o film y guárdala a 4 °C (40 °F) o menos durante 3–4 días. El frío afirma la crema y facilita un corte limpio. Añade la nata montada en la mesa, no antes de guardar.",
+    "freezer": "La tarta de calabaza puede congelarse 1–2 meses a −18 °C (0 °F). Enfríala por completo, envuelve la tarta entera o las porciones bien apretadas en film y luego en aluminio, y congélala en el molde; uno metálico soporta mejor la congelación que uno de vidrio. Pasados 1–2 meses sigue siendo segura, pero la crema puede soltar líquido y la base ablandarse.",
+    "thawing": "Descongela la tarta envuelta en la nevera durante la noche, nunca en la encimera. Seca la humedad superficial con papel de cocina antes de servir y cómela en 3–4 días tras descongelar.",
+    "spoilage": [
+      "Olor agrio o extraño en la crema",
+      "Moho en el relleno o la base",
+      "Líquido acumulado encima o alrededor de los bordes",
+      "Relleno muy agrietado, hundido o viscoso"
+    ],
+    "tips": [
+      "Hornea la tarta el día anterior para que esté bien fría y cuajada al servir",
+      "Cúbrela sin apretar para evitar condensación sobre el relleno",
+      "Congela las porciones sobrantes por separado para postres rápidos",
+      "Anota la fecha de horneado o compra para saber cuándo se cumplen los 3–4 días"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la tarta de calabaza?", "a": "Sí. Bien envuelta a −18 °C (0 °F), se conserva 1–2 meses con la mejor calidad. Descongélala en la nevera durante la noche."},
+      {"q": "¿Cuánto dura la tarta de calabaza en la nevera?", "a": "Unos 3–4 días a 4 °C (40 °F) o menos, cubierta sin apretar."},
+      {"q": "¿La tarta de calabaza necesita refrigeración?", "a": "Sí. Es una tarta de crema de huevo y no debe estar fuera más de 2 horas. Solo las industriales de larga duración con conservantes son la excepción, hasta abrirlas."}
+    ]
+  }
+}

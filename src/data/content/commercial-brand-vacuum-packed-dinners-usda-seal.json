@@ -1,0 +1,67 @@
+{
+  "slug": "commercial-brand-vacuum-packed-dinners-usda-seal",
+  "en": {
+    "name": "Vacuum-packed dinners (USDA seal)",
+    "aliases": ["vacuum-sealed ready meals", "refrigerated prepared dinners", "chilled ready meals", "sous-vide meals", "packaged entrées"],
+    "summary": "These are commercially prepared, refrigerated dinners sealed under vacuum and carrying the USDA mark of inspection, such as chilled entrées, sous-vide meat dishes and packaged meal kits. Kept unopened at 4 °C (40 °F) or below, they last about 2 weeks from purchase; USDA gives no freezer timeline for this category.",
+    "pantry": "Vacuum packaging does not make a chilled meal shelf-stable. These dinners must stay refrigerated from the store to your fridge, and once out of the cold they follow the 2-hour rule (1 hour above 32 °C / 90 °F). Unlike canned or retort-pouch meals, a vacuum-sealed refrigerated dinner left at room temperature can support bacterial growth without any obvious sign.",
+    "fridge": "Keep the package sealed and store it on a middle or lower shelf, not in the door, at 4 °C (40 °F) or below. Use within 2 weeks of purchase or by the printed use-by date, whichever comes first. Once opened, treat it like any cooked leftover: refrigerate promptly and eat within 3–4 days. Heat according to the label directions, usually to 74 °C (165 °F) throughout.",
+    "freezer": "USDA does not give a freezer timeline for these dinners because texture and sauce quality vary widely between products. Freezing at −18 °C (0 °F) is safe if the label allows it, and any food kept frozen stays safe indefinitely, but expect softer vegetables and separated sauces. Freeze only unopened packages well before their use-by date, and follow the manufacturer's guidance if it says do not freeze.",
+    "thawing": "If you have frozen one, thaw it in the fridge, or use the microwave defrost setting and heat immediately afterwards. Never thaw on the counter.",
+    "spoilage": ["Package has lost its vacuum: loose, puffy or bulging", "Sour or off smell when opened", "Slimy, sticky or tacky surface on the meat or sauce", "Cloudy liquid, unusual colour or any mould"],
+    "tips": ["Check that the vacuum is tight and the pack is cold when you buy it", "Put it in the fridge as soon as you get home; use a cooler bag on hot days", "Follow the use-by date and the label's heating instructions", "Note the purchase date on the pack if the use-by date is hard to read"],
+    "faq": [
+      {"q": "Can you freeze vacuum-packed refrigerated dinners?", "a": "Only if the label allows it. USDA gives no quality timeline for this category; freezing at −18 °C (0 °F) keeps the meal safe, but the texture may change. Never freeze a package that is puffy or past its date."},
+      {"q": "How long do vacuum-sealed ready meals last in the fridge?", "a": "About 2 weeks from purchase, unopened, at 4 °C (40 °F) or below, or until the printed use-by date if that is sooner. Once opened, eat within 3–4 days."},
+      {"q": "Do vacuum-packed dinners need to be refrigerated?", "a": "Yes. Vacuum sealing removes air but does not preserve the food; these meals are perishable and must be kept cold at all times."}
+    ]
+  },
+  "zh": {
+    "name": "真空包裝調理餐（USDA 檢驗標章）",
+    "aliases": ["真空即食餐", "冷藏調理包", "舒肥料理", "即食調理餐", "冷藏即食餐"],
+    "summary": "這類是市售冷藏的真空包裝調理餐，帶有美國農業部（USDA）檢驗標章，例如冷藏主餐、舒肥肉品料理和成套餐盒。未開封放在 4 °C 以下冰箱，自購買日起約可保存 2 週；USDA 沒有提供這個類別的冷凍期限。",
+    "pantry": "真空包裝不代表可以常溫保存。這類調理餐從賣場到家裡都必須全程冷藏，離開冰箱後就適用 2 小時原則（室溫高於 32 °C 時為 1 小時）。它和罐頭、常溫調理包不同，真空冷藏餐放在室溫下可能滋生細菌，而且外觀不一定看得出來。",
+    "fridge": "保持包裝密封，放在冰箱中下層而不是門邊，溫度維持 4 °C 以下。購買後 2 週內或標示的有效日期前食用，以較早者為準。開封後就當作一般熟食剩菜處理：儘快冷藏，3～4 天內吃完。加熱請依包裝說明，通常要整體加熱到 74 °C 以上。",
+    "freezer": "USDA 沒有給這類調理餐冷凍期限，因為各產品的口感和醬汁在冷凍後的變化差異很大。若包裝允許，以 −18 °C 冷凍是安全的，冷凍食品在此溫度下可長期保持安全，但蔬菜會變軟、醬汁可能油水分離。只冷凍未開封且離有效日期還很久的包裝；若標示「請勿冷凍」，請照做。",
+    "thawing": "若有冷凍，請放冷藏室解凍，或用微波爐解凍後立刻加熱。不要放在室溫解凍。",
+    "spoilage": ["包裝失去真空：鬆垮、膨脹或鼓起", "打開時有酸味或異味", "肉或醬汁表面黏滑、黏手", "湯汁混濁、顏色異常或出現任何黴斑"],
+    "tips": ["購買時確認真空緊實、包裝摸起來是冰的", "回家立刻放冰箱；天氣熱時用保冷袋", "遵守有效日期和包裝上的加熱說明", "如果有效日期不好辨認，在包裝上寫下購買日期"],
+    "faq": [
+      {"q": "真空包裝的冷藏調理餐可以冷凍嗎？", "a": "只有在包裝允許時才建議。USDA 沒有這類產品的冷凍品質期限；以 −18 °C 冷凍可以保持安全，但口感可能改變。膨脹或已過期的包裝絕對不要冷凍。"},
+      {"q": "真空即食餐放冰箱可以放多久？", "a": "未開封在 4 °C 以下約可放購買後 2 週，或到標示的有效日期為止，以較早者為準。開封後 3～4 天內吃完。"},
+      {"q": "真空包裝調理餐一定要冷藏嗎？", "a": "要。真空只是抽掉空氣，並沒有把食物做成常溫保存品；這類餐點容易腐壞，必須全程冷藏。"}
+    ]
+  },
+  "ja": {
+    "name": "真空パックの調理済みディナー（USDA検印）",
+    "aliases": ["真空パック惣菜", "チルド調理済み食品", "真空調理ミール", "冷蔵ミールキット", "チルドレディミール"],
+    "summary": "USDA（米国農務省）の検査マーク付きで、真空パックされた市販の冷蔵調理済み料理です。チルドの主菜、真空低温調理の肉料理、パッケージ入りのミールキットなどが該当します。未開封で4 °C以下に保てば購入から約2週間が目安。この分類にはUSDAの冷凍期限は示されていません。",
+    "pantry": "真空パックでも常温保存できるわけではありません。店から自宅まで冷蔵を切らさず、冷蔵庫から出したら2時間ルール（室温32 °C超なら1時間）が適用されます。缶詰やレトルトパウチと違い、真空パックの冷蔵料理を室温に置くと、見た目に変化がなくても細菌が増えることがあります。",
+    "fridge": "袋を開けずに、ドアポケットではなく中段〜下段で4 °C以下に保存します。購入から2週間以内、または表示の消費期限のうち早いほうまでに使い切ってください。開封後は普通の残り物と同じ扱いで、すぐ冷蔵して3〜4日以内に食べます。加熱は表示に従い、通常は中心まで74 °C以上にします。",
+    "freezer": "製品によって冷凍後の食感やソースの状態が大きく異なるため、USDAはこの分類の冷凍期限を示していません。表示で冷凍が認められていれば−18 °Cで冷凍しても安全で、凍ったままなら安全性は保たれますが、野菜がやわらかくなったりソースが分離したりします。冷凍するなら消費期限まで余裕のある未開封品だけにし、「冷凍不可」の表示があれば従ってください。",
+    "thawing": "冷凍した場合は冷蔵庫で解凍するか、電子レンジの解凍モードを使ってすぐに加熱します。常温での解凍は避けてください。",
+    "spoilage": ["真空が抜けて袋がゆるい・膨らんでいる", "開封時に酸っぱいにおいや異臭がする", "肉やソースの表面がぬるぬる・べたつく", "汁が濁っている、色が変、カビがある"],
+    "tips": ["購入時に真空がしっかり効いていて、袋が冷たいか確認する", "帰宅後すぐ冷蔵庫へ。暑い日は保冷バッグを使う", "消費期限と表示の加熱方法を守る", "期限表示が読みにくければ購入日を袋に書いておく"],
+    "faq": [
+      {"q": "真空パックの冷蔵ディナーは冷凍できますか？", "a": "表示で認められている場合だけにしましょう。USDAはこの分類の冷凍期限を示していません。−18 °Cで冷凍すれば安全ですが食感は変わることがあります。膨らんだ袋や期限切れのものは冷凍しないでください。"},
+      {"q": "真空パックの調理済み食品は冷蔵庫で何日もちますか？", "a": "未開封なら4 °C以下で購入から約2週間、または表示の消費期限のうち早いほうまでです。開封後は3〜4日以内に食べ切ってください。"},
+      {"q": "真空パックのディナーは冷蔵が必要ですか？", "a": "必要です。真空パックは空気を抜くだけで保存性を高めるものではありません。傷みやすい食品なので常に冷蔵してください。"}
+    ]
+  },
+  "es": {
+    "name": "Cenas envasadas al vacío (sello USDA)",
+    "aliases": ["platos preparados al vacío", "comidas refrigeradas listas", "platos sous vide", "comidas preparadas envasadas", "platos listos refrigerados"],
+    "summary": "Son cenas preparadas comercialmente, refrigeradas, selladas al vacío y con el sello de inspección del USDA: platos principales refrigerados, carnes cocinadas al vacío (sous vide) y kits de comida envasados. Sin abrir y a 4 °C (40 °F) o menos, duran unas 2 semanas desde la compra; el USDA no indica un plazo de congelación para esta categoría.",
+    "pantry": "El envasado al vacío no convierte un plato refrigerado en un producto de despensa. Estas cenas deben permanecer en frío desde la tienda hasta tu refrigerador, y fuera de él se aplica la regla de las 2 horas (1 hora por encima de 32 °C / 90 °F). A diferencia de las conservas o los platos en bolsa esterilizada, un plato al vacío refrigerado dejado a temperatura ambiente puede desarrollar bacterias sin ninguna señal evidente.",
+    "fridge": "Mantén el envase cerrado en un estante medio o inferior, no en la puerta, a 4 °C (40 °F) o menos. Consúmelo dentro de las 2 semanas posteriores a la compra o antes de la fecha de caducidad impresa, lo que ocurra primero. Una vez abierto, trátalo como cualquier sobra cocinada: refrigera enseguida y cómelo en 3–4 días. Calienta según las instrucciones de la etiqueta, normalmente hasta 74 °C (165 °F) en el centro.",
+    "freezer": "El USDA no da un plazo de congelación para estas cenas porque la textura y las salsas varían mucho entre productos. Congelar a −18 °C (0 °F) es seguro si la etiqueta lo permite, y cualquier alimento congelado se mantiene seguro indefinidamente, pero las verduras quedarán más blandas y las salsas pueden separarse. Congela solo envases sin abrir y con fecha de caducidad lejana, y respeta la indicación del fabricante si dice que no se congele.",
+    "thawing": "Si has congelado alguna, descongélala en el refrigerador o con la función de descongelado del microondas y caliéntala de inmediato. Nunca la descongeles sobre la encimera.",
+    "spoilage": ["El envase ha perdido el vacío: está flojo, inflado o abombado", "Olor agrio o extraño al abrirlo", "Superficie viscosa o pegajosa en la carne o la salsa", "Líquido turbio, color inusual o cualquier rastro de moho"],
+    "tips": ["Comprueba al comprar que el vacío esté firme y el envase frío", "Refrigéralo nada más llegar a casa; usa bolsa isotérmica en días calurosos", "Respeta la fecha de caducidad y las instrucciones de calentamiento", "Anota la fecha de compra en el envase si la caducidad es difícil de leer"],
+    "faq": [
+      {"q": "¿Se pueden congelar las cenas refrigeradas envasadas al vacío?", "a": "Solo si la etiqueta lo permite. El USDA no indica un plazo de calidad para esta categoría; congelar a −18 °C (0 °F) mantiene el plato seguro, pero la textura puede cambiar. Nunca congeles un envase inflado o caducado."},
+      {"q": "¿Cuánto duran los platos preparados al vacío en el refrigerador?", "a": "Unas 2 semanas desde la compra, sin abrir, a 4 °C (40 °F) o menos, o hasta la fecha de caducidad impresa si es anterior. Una vez abiertos, consúmelos en 3–4 días."},
+      {"q": "¿Las cenas envasadas al vacío necesitan refrigeración?", "a": "Sí. El vacío elimina el aire pero no conserva el alimento; estos platos son perecederos y deben mantenerse siempre en frío."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "chicken-whole",
+  "en": {
+    "name": "Whole chicken",
+    "aliases": ["whole raw chicken", "roasting chicken", "broiler", "fryer chicken", "whole bird"],
+    "summary": "A whole raw chicken is highly perishable and should never be stored at room temperature. Keep it in the fridge and cook it within 1 to 2 days of purchase, or freeze it, where it keeps its best quality for up to 12 months.",
+    "pantry": "Raw chicken must not be left out. Bacteria multiply quickly between 4 and 60 °C (40 and 140 °F), so a bird that has been at room temperature for more than 2 hours, or 1 hour above 32 °C (90 °F), should be discarded. Bring it home from the shop quickly and refrigerate or freeze it straight away.",
+    "fridge": "Store the chicken in its original wrapping on a plate or tray on the bottom shelf, so juices cannot drip onto other food, and keep the fridge at or below 4 °C (40 °F). Cook it within 1 to 2 days of purchase, regardless of the sell-by date. If the bird came with a giblet packet, remove it and store or cook the giblets separately.",
+    "freezer": "A whole chicken freezes well for up to 12 months at −18 °C (0 °F). Overwrap the store packaging with freezer paper, foil or a freezer bag, squeezing out air to prevent freezer burn, and label with the date. It remains safe beyond 12 months, but texture and flavour gradually decline.",
+    "thawing": "Thaw in the fridge on a tray, allowing about 24 hours per 2 kg (4–5 lb). For faster thawing, submerge the sealed bird in cold water, changing the water every 30 minutes, and cook immediately afterwards. Never thaw on the counter.",
+    "spoilage": [
+      "A sour, sulphur-like or ammonia smell, especially when the package is first opened",
+      "Skin that feels slimy or sticky even after rinsing",
+      "Flesh that has turned grey, green or dull instead of pink",
+      "A lot of cloudy liquid pooling in the package"
+    ],
+    "tips": [
+      "Pick up chicken last at the shop and use a cooler bag if the trip home is longer than 30 minutes",
+      "Keep raw chicken on the lowest shelf and away from ready-to-eat food",
+      "If you will not cook it within 2 days, freeze it on the day of purchase",
+      "Cook to an internal temperature of 74 °C (165 °F) in the thickest part of the thigh"
+    ],
+    "faq": [
+      {"q": "Can you freeze a whole chicken?", "a": "Yes. Wrap it tightly, label it, and freeze at −18 °C (0 °F). It keeps its best quality for up to 12 months and stays safe indefinitely."},
+      {"q": "How can you tell if a whole chicken has gone bad?", "a": "Trust your nose first: a sour or sulphur smell means it is off. Slimy skin, grey or greenish flesh and cloudy liquid are other clear signs."},
+      {"q": "How long does a whole chicken last in the fridge?", "a": "Only 1 to 2 days from purchase at 4 °C (40 °F) or below. Cook or freeze it within that window."}
+    ]
+  },
+  "zh": {
+    "name": "全雞",
+    "aliases": ["整隻雞", "土雞", "肉雞", "全隻生雞", "生雞"],
+    "summary": "生的全雞非常容易腐壞，不能放在室溫。買回來後放冷藏，1 到 2 天內要煮掉；或是直接冷凍，冷凍最多可保存 12 個月的最佳品質。",
+    "pantry": "生雞肉絕對不能放在室溫。細菌在 4 到 60 °C 之間繁殖很快，在室溫超過 2 小時（氣溫高於 32 °C 時超過 1 小時）的雞就應該丟掉。從市場或超市買回家的路上要快，到家立刻冷藏或冷凍。",
+    "fridge": "全雞連同原包裝放在盤子或托盤上，擺在冷藏室最下層，避免血水滴到其他食物，冰箱溫度保持在 4 °C 以下。不論包裝上的日期，購買後 1 到 2 天內要煮。如果雞裡面附有內臟包，取出來另外保存或烹調。",
+    "freezer": "全雞很適合冷凍，在 −18 °C 可以維持 12 個月的最佳品質。在原包裝外再包一層冷凍紙、鋁箔或冷凍袋，擠出空氣避免凍燒，並標上日期。超過 12 個月安全上仍然沒問題，只是口感和風味會逐漸變差。",
+    "thawing": "放在托盤上在冷藏室解凍，每 2 公斤約需 24 小時。想快一點，可以把密封好的全雞泡在冷水裡，每 30 分鐘換水，解凍後馬上煮。不要放在流理台上解凍。",
+    "spoilage": [
+      "有酸味、硫磺味或氨味，尤其是剛打開包裝時",
+      "雞皮摸起來黏滑，沖水後仍然黏",
+      "肉色從粉紅變成灰色、綠色或暗沉",
+      "包裝裡積了很多混濁的液體"
+    ],
+    "tips": [
+      "在超市最後才拿雞肉，回家路程超過 30 分鐘就帶保冷袋",
+      "生雞肉放冷藏室最下層，遠離可以直接吃的食物",
+      "如果 2 天內不會煮，買回來當天就冷凍",
+      "煮到大腿最厚處中心溫度達 74 °C"
+    ],
+    "faq": [
+      {"q": "全雞可以冷凍嗎？", "a": "可以。包緊、標上日期，放 −18 °C 冷凍，最佳品質可維持 12 個月，安全上可以放更久。"},
+      {"q": "全雞壞掉怎麼看？", "a": "先聞味道：有酸味或硫磺味就是壞了。雞皮黏滑、肉色變灰變綠、包裝內有混濁液體也是明顯的警訊。"},
+      {"q": "全雞放冰箱可以放多久？", "a": "4 °C 以下冷藏只能放 1 到 2 天（從購買日算起），這段時間內要煮掉或冷凍。"}
+    ]
+  },
+  "ja": {
+    "name": "丸鶏",
+    "aliases": ["丸鶏（生）", "鶏の丸焼き用", "ローストチキン用丸鶏", "鶏一羽", "まるどり"],
+    "summary": "生の丸鶏はとても傷みやすく、室温に置いてはいけません。冷蔵庫に入れて購入から1〜2日以内に調理するか、冷凍しましょう。冷凍なら最長12か月、良い品質を保てます。",
+    "pantry": "生の鶏肉は常温に置かないでください。4〜60 °Cの間では細菌が急速に増えるため、室温に2時間以上（気温32 °C以上なら1時間以上）置いた鶏は捨てるべきです。買い物の帰りは寄り道せず、帰宅したらすぐに冷蔵か冷凍してください。",
+    "fridge": "丸鶏は元の包装のまま皿やトレイにのせ、肉汁がほかの食品に垂れないよう冷蔵庫の最下段に置き、庫内は4 °C以下に保ちます。表示の期限にかかわらず、購入から1〜2日以内に調理してください。内臓（ガラやレバーなど）の袋が入っている場合は取り出し、別に保存するか調理しましょう。",
+    "freezer": "丸鶏は冷凍に向いていて、−18 °Cで最長12か月良い品質を保てます。店の包装の上からフリーザーペーパーやアルミホイル、冷凍用袋で包み、空気を抜いて冷凍焼けを防ぎ、日付を書いておきます。12か月を過ぎても安全ですが、食感と風味は少しずつ落ちていきます。",
+    "thawing": "トレイにのせて冷蔵庫で解凍します。2 kgあたり約24時間が目安です。急ぐときは密封したまま冷水に浸け、30分ごとに水を替え、解凍後すぐに調理してください。室温での解凍は避けましょう。",
+    "spoilage": [
+      "酸っぱいにおい、硫黄のようなにおい、アンモニア臭がする（特に開封直後）",
+      "皮がぬるぬる・ベタベタして、洗ってもぬめりが残る",
+      "肉の色がピンクではなく灰色や緑がかった色、くすんだ色になっている",
+      "包装の中に濁った液体がたくさんたまっている"
+    ],
+    "tips": [
+      "鶏肉は買い物の最後にかごへ入れ、帰宅まで30分以上かかるなら保冷バッグを使う",
+      "生の鶏肉は冷蔵庫の最下段に置き、そのまま食べる食品から離す",
+      "2日以内に調理しないなら、買った当日に冷凍する",
+      "もも肉の一番厚い部分の中心温度が74 °Cになるまで加熱する"
+    ],
+    "faq": [
+      {"q": "丸鶏は冷凍できますか？", "a": "できます。しっかり包んで日付を書き、−18 °Cで冷凍してください。最長12か月良い品質を保ち、安全面ではそれ以上もちます。"},
+      {"q": "丸鶏が傷んでいるかどうかはどう見分けますか？", "a": "まずはにおいです。酸っぱいにおいや硫黄臭がしたら傷んでいます。皮のぬめり、灰色や緑がかった肉の色、濁った液体もはっきりしたサインです。"},
+      {"q": "丸鶏は冷蔵庫でどのくらいもちますか？", "a": "4 °C以下の冷蔵で、購入から1〜2日だけです。その間に調理するか冷凍してください。"}
+    ]
+  },
+  "es": {
+    "name": "Pollo entero",
+    "aliases": ["pollo entero crudo", "pollo para asar", "pollo de engorde", "ave entera", "pollo fresco"],
+    "summary": "Un pollo entero crudo es muy perecedero y nunca debe guardarse a temperatura ambiente. Mantenlo en el refrigerador y cocínalo en 1 a 2 días desde la compra, o congélalo: en el congelador conserva su mejor calidad hasta 12 meses.",
+    "pantry": "El pollo crudo no debe quedarse fuera. Las bacterias se multiplican rápido entre 4 y 60 °C (40 y 140 °F), así que un pollo que haya estado a temperatura ambiente más de 2 horas, o más de 1 hora si hace más de 32 °C (90 °F), debe desecharse. Llévalo a casa rápido desde la tienda y refrigéralo o congélalo de inmediato.",
+    "fridge": "Guarda el pollo en su envase original sobre un plato o bandeja en el estante inferior, para que los jugos no goteen sobre otros alimentos, y mantén el refrigerador a 4 °C (40 °F) o menos. Cocínalo en 1 a 2 días desde la compra, sin importar la fecha del envase. Si trae la bolsita de menudencias, sácala y guárdala o cocínala por separado.",
+    "freezer": "Un pollo entero se congela bien hasta 12 meses a −18 °C (0 °F). Envuelve el paquete de la tienda con papel para congelar, papel aluminio o una bolsa de congelación, sacando el aire para evitar quemaduras por frío, y etiqueta con la fecha. Sigue siendo seguro después de 12 meses, pero la textura y el sabor van decayendo.",
+    "thawing": "Descongela en el refrigerador sobre una bandeja, calculando unas 24 horas por cada 2 kg (4–5 lb). Para ir más rápido, sumerge el pollo bien sellado en agua fría, cambiando el agua cada 30 minutos, y cocínalo enseguida. Nunca lo descongeles sobre la encimera.",
+    "spoilage": [
+      "Olor agrio, a azufre o a amoniaco, sobre todo al abrir el envase",
+      "Piel viscosa o pegajosa incluso después de enjuagarla",
+      "Carne que se ha vuelto gris, verdosa o apagada en lugar de rosada",
+      "Mucho líquido turbio acumulado en el envase"
+    ],
+    "tips": [
+      "Toma el pollo al final de la compra y usa una bolsa térmica si tardas más de 30 minutos en llegar a casa",
+      "Guarda el pollo crudo en el estante más bajo y lejos de los alimentos listos para comer",
+      "Si no lo vas a cocinar en 2 días, congélalo el mismo día de la compra",
+      "Cocínalo hasta que la parte más gruesa del muslo alcance 74 °C (165 °F)"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar un pollo entero?", "a": "Sí. Envuélvelo bien, etiquétalo y congélalo a −18 °C (0 °F). Conserva su mejor calidad hasta 12 meses y sigue siendo seguro indefinidamente."},
+      {"q": "¿Cómo saber si un pollo entero está malo?", "a": "Confía primero en tu olfato: un olor agrio o a azufre indica que está echado a perder. La piel viscosa, la carne gris o verdosa y el líquido turbio son otras señales claras."},
+      {"q": "¿Cuánto dura un pollo entero en el refrigerador?", "a": "Solo 1 a 2 días desde la compra a 4 °C (40 °F) o menos. Cocínalo o congélalo dentro de ese plazo."}
+    ]
+  }
+}

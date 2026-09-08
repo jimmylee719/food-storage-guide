@@ -1,0 +1,107 @@
+{
+  "slug": "chocolate-unsweetened-semi-sweet-solid",
+  "en": {
+    "name": "Baking chocolate (unsweetened, semi-sweet)",
+    "aliases": ["cooking chocolate", "dark chocolate bar", "bitter chocolate", "couverture", "chocolate blocks"],
+    "summary": "Solid unsweetened and semi-sweet baking chocolate is mostly cocoa solids, cocoa butter and sometimes sugar, with very little water, so it keeps extremely well. Unopened it stays good 1–2 years from the date of purchase in a cool, dark cupboard, and about 1 year after opening. It does not need refrigeration.",
+    "pantry": "A cool, dark, dry cupboard at roughly 15–20 °C is ideal; unopened blocks keep 1–2 years from purchase and about 1 year once opened. Wrap opened bars tightly in foil or baking paper and put them in a sealed container, because cocoa butter picks up smells from spices, coffee and onions. Keep chocolate away from the oven, since above about 25 °C it softens and the fat separates.",
+    "fridge": "Refrigeration is not needed and usually harms the texture: the cold makes the surface sweat when it comes out, and the chocolate absorbs fridge odours. If your kitchen is regularly above 25 °C, sealing the chocolate in an airtight bag in the fridge is a reasonable compromise; let it warm to room temperature before unwrapping.",
+    "freezer": "Chocolate can be frozen but it rarely needs to be, and repeated temperature swings cause the pale streaks known as bloom. If you do freeze it, double-wrap it airtight and thaw it in the fridge first, then on the counter, so no condensation lands on the surface.",
+    "thawing": "Move frozen chocolate to the fridge for a day, then to room temperature while still wrapped. Unwrapping it cold puts water on the surface, which makes it seize when melted.",
+    "spoilage": [
+      "Rancid or stale smell from oxidised cocoa butter",
+      "Grey or white streaky bloom (harmless, but a sign of heat or moisture)",
+      "Gritty or crumbly texture when the chocolate should snap",
+      "Strong absorbed odours of spices, coffee or onion"
+    ],
+    "tips": [
+      "Store in a sealed tin away from strong-smelling spices and coffee",
+      "Bloomed chocolate is safe to eat and melts perfectly fine for baking",
+      "Chop from the block only what you need and rewrap the rest immediately",
+      "Keep unsweetened and semi-sweet blocks clearly labelled — they are not interchangeable"
+    ],
+    "faq": [
+      {"q": "Can you freeze baking chocolate?", "a": "You can, but it is rarely needed. Double-wrap it airtight, and thaw it in the fridge and then at room temperature while still wrapped to avoid condensation."},
+      {"q": "Is white bloom on chocolate a sign it has gone bad?", "a": "No. Bloom is cocoa butter or sugar rising to the surface after heat or moisture. It looks dull but is safe and melts normally."},
+      {"q": "Does baking chocolate need to be refrigerated?", "a": "No. A cool, dark cupboard keeps it 1–2 years unopened and about 1 year after opening. Only refrigerate it if your kitchen is consistently very warm."}
+    ]
+  },
+  "zh": {
+    "name": "烘焙巧克力（無糖／半甜磚）",
+    "aliases": ["苦甜巧克力", "調溫巧克力", "黑巧克力磚", "無糖巧克力", "巧克力磚"],
+    "summary": "固體的無糖和半甜烘焙巧克力主要成分是可可脂、可可固形物和少量糖，含水量極低，所以非常耐放。未開封放在陰涼避光的櫥櫃，從購買日起可放 1～2 年，開封後約 1 年。它不需要冷藏。",
+    "pantry": "最理想的環境是約 15～20°C、陰涼避光又乾燥的櫥櫃；未開封從購買日起可放 1～2 年，開封後約 1 年。開封後的巧克力要用鋁箔或烘焙紙緊密包好再放進密封盒，因為可可脂很會吸香料、咖啡和洋蔥的味道。也要遠離烤箱，超過 25°C 左右巧克力就會軟化、油脂分離。",
+    "fridge": "不需要冷藏，而且通常會影響口感：拿出來時表面會出水，還會吸到冰箱異味。如果廚房常常超過 25°C，用密封袋裝好放冰箱是可以接受的折衷做法，但要先回到室溫再拆開。",
+    "freezer": "巧克力可以冷凍，但很少有這個必要，而且反覆的溫差會造成表面泛白的「油斑」。真的要冷凍就包兩層密封好，解凍時先放冷藏一天，再連包裝一起回到室溫，避免水氣附著在表面。",
+    "thawing": "冷凍的巧克力先移到冷藏室放一天，再連著包裝放到室溫回溫。低溫時直接拆封會讓水氣附著在表面，融化時容易結粒。",
+    "spoilage": [
+      "可可脂氧化產生的油耗味或陳味",
+      "表面出現灰白色的條紋油斑（無害，但代表受過熱或受潮）",
+      "口感變粗糙或碎散，失去該有的脆折感",
+      "明顯吸附了香料、咖啡或洋蔥的味道"
+    ],
+    "tips": [
+      "裝進密封鐵盒，遠離氣味重的香料和咖啡",
+      "泛白的巧克力可以安全食用，拿來烘焙融化完全沒問題",
+      "從磚上切下需要的量，剩下的立刻重新包好",
+      "無糖和半甜的巧克力磚要清楚標示，兩者不能互相替換"
+    ],
+    "faq": [
+      {"q": "烘焙巧克力可以冷凍嗎？", "a": "可以，但通常沒必要。要冷凍請包兩層密封，解凍時先冷藏再連包裝回到室溫，以免結露。"},
+      {"q": "巧克力表面泛白是壞掉了嗎？", "a": "不是。那是受熱或受潮後可可脂或糖浮到表面形成的油斑，外觀變霧但可以安全食用，融化後也正常。"},
+      {"q": "烘焙巧克力需要冷藏嗎？", "a": "不需要。放陰涼避光的櫥櫃，未開封 1～2 年、開封後約 1 年。只有廚房長期很熱時才考慮冷藏。"}
+    ]
+  },
+  "ja": {
+    "name": "製菓用チョコレート（無糖・セミスイート）",
+    "aliases": ["ベーキングチョコ", "ビターチョコレート", "クーベルチュール", "板チョコ（製菓用）"],
+    "summary": "無糖やセミスイートの固形製菓用チョコレートは、カカオマスとカカオバターが主体で水分がほとんどないため、非常に日持ちします。未開封なら涼しく暗い場所で購入日から1〜2年、開封後は約1年が目安です。冷蔵の必要はありません。",
+    "pantry": "15〜20℃程度の涼しく暗い乾いた戸棚が理想で、未開封は購入日から1〜2年、開封後は約1年保存できます。開封後はアルミホイルやクッキングシートで密着させて包み、密閉容器に入れてください。カカオバターはスパイスやコーヒー、玉ねぎのにおいをよく吸います。25℃を超えると柔らかくなり油脂が分離するので、オーブンのそばは避けましょう。",
+    "fridge": "冷蔵は不要で、たいてい食感を損ねます。取り出したときに表面が汗をかき、冷蔵庫のにおいも移ります。台所が常時25℃を超えるなら密閉袋に入れて冷蔵するのは妥当な妥協策ですが、開ける前に必ず室温に戻してください。",
+    "freezer": "冷凍もできますが必要な場面はまれで、温度変化を繰り返すと表面が白くなるブルームが出ます。冷凍する場合は二重に密封し、まず冷蔵庫、次に室温へと包んだまま戻して結露を防ぎましょう。",
+    "thawing": "冷凍したチョコレートは冷蔵庫に1日移し、その後は包んだまま室温に戻します。冷たいまま開封すると表面に水分がつき、溶かしたときに分離しやすくなります。",
+    "spoilage": [
+      "カカオバターの酸化による古い油のにおい",
+      "灰白色のすじ状のブルーム（無害だが熱や湿気のサイン）",
+      "パキッと割れず、ざらついたり崩れたりする",
+      "スパイス・コーヒー・玉ねぎなどのにおいが強く移っている"
+    ],
+    "tips": [
+      "においの強いスパイスやコーヒーから離し、密閉缶で保存",
+      "ブルームが出ても食べられますし、製菓用に溶かす分には問題ありません",
+      "必要な分だけ削り取り、残りはすぐ包み直しましょう",
+      "無糖とセミスイートは代用できないので、はっきりラベルを付けて区別を"
+    ],
+    "faq": [
+      {"q": "製菓用チョコレートは冷凍できますか？", "a": "できますが必要はほとんどありません。二重に密封し、冷蔵庫→室温の順に包んだまま戻して結露を避けてください。"},
+      {"q": "チョコレートの白い粉は傷んだ証拠ですか？", "a": "いいえ。熱や湿気でカカオバターや砂糖が表面に浮いたブルームです。見た目は悪くなりますが安全で、溶かせば普通に使えます。"},
+      {"q": "製菓用チョコレートは冷蔵が必要ですか？", "a": "不要です。涼しく暗い戸棚で未開封1〜2年、開封後約1年。台所が常に暑い場合だけ冷蔵を検討してください。"}
+    ]
+  },
+  "es": {
+    "name": "Chocolate de repostería (amargo o semiamargo)",
+    "aliases": ["chocolate para fundir", "chocolate negro", "cobertura de chocolate", "chocolate amargo"],
+    "summary": "El chocolate de repostería sólido, sin azúcar o semiamargo, se compone sobre todo de pasta y manteca de cacao con muy poca agua, por lo que se conserva muy bien. Sin abrir dura 1–2 años desde la compra en un armario fresco y oscuro, y alrededor de 1 año una vez abierto. No necesita refrigeración.",
+    "pantry": "Lo ideal es un armario fresco, oscuro y seco a unos 15–20 °C; sin abrir dura 1–2 años desde la compra y alrededor de 1 año abierto. Envuelve las tabletas abiertas en papel de aluminio o de horno y guárdalas en un recipiente cerrado, porque la manteca de cacao absorbe olores de especias, café y cebolla. Manténlo lejos del horno: por encima de unos 25 °C se ablanda y la grasa se separa.",
+    "fridge": "No hace falta refrigerarlo y suele perjudicar la textura: al sacarlo, el frío hace que la superficie sude, y absorbe olores de la nevera. Si tu cocina supera con frecuencia los 25 °C, guardarlo en una bolsa hermética en la nevera es un compromiso razonable; deja que se atempere antes de desenvolverlo.",
+    "freezer": "El chocolate se puede congelar, pero rara vez es necesario, y los cambios repetidos de temperatura provocan las vetas blancas del llamado fat bloom. Si lo congelas, envuélvelo por partida doble y descongélalo primero en la nevera y luego a temperatura ambiente, siempre envuelto.",
+    "thawing": "Pasa el chocolate congelado a la nevera un día y después a temperatura ambiente sin desenvolverlo. Abrirlo frío deposita agua en la superficie, lo que hace que se corte al fundirlo.",
+    "spoilage": [
+      "Olor rancio o pasado por oxidación de la manteca de cacao",
+      "Vetas grises o blancas de bloom (inofensivas, pero indican calor o humedad)",
+      "Textura arenosa o desmenuzable cuando debería partirse en seco",
+      "Olores absorbidos intensos a especias, café o cebolla"
+    ],
+    "tips": [
+      "Guárdalo en una lata cerrada, lejos de especias fuertes y café",
+      "El chocolate con bloom es seguro y funde perfectamente para repostería",
+      "Corta solo lo que necesites del bloque y vuelve a envolver el resto enseguida",
+      "Etiqueta claramente el amargo y el semiamargo: no son intercambiables"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el chocolate de repostería?", "a": "Se puede, aunque rara vez hace falta. Envuélvelo dos veces de forma hermética y descongélalo en la nevera y luego a temperatura ambiente, siempre envuelto."},
+      {"q": "¿La capa blanca del chocolate significa que está malo?", "a": "No. Es bloom: manteca de cacao o azúcar que aflora tras el calor o la humedad. Se ve apagado pero es seguro y funde con normalidad."},
+      {"q": "¿El chocolate de repostería necesita refrigeración?", "a": "No. En un armario fresco y oscuro dura 1–2 años sin abrir y alrededor de 1 año abierto. Refrigéralo solo si tu cocina está siempre muy caliente."}
+    ]
+  }
+}

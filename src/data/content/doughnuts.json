@@ -1,0 +1,107 @@
+{
+  "slug": "doughnuts",
+  "en": {
+    "name": "Doughnuts",
+    "aliases": ["donuts", "glazed doughnuts", "yeast doughnuts", "cake doughnuts", "ring doughnuts"],
+    "summary": "Doughnuts are fried, sweetened dough, sold glazed, sugared, iced or filled. Plain and glazed doughnuts keep 1–2 days at room temperature from the date of purchase and up to 2 days in the fridge once the box is opened. Cream- or custard-filled doughnuts must be refrigerated from the start.",
+    "pantry": "Keep plain, glazed and sugared doughnuts in their box or a paper bag at room temperature and eat them within 1–2 days of purchase; they are best in the first few hours and go stale quickly. Do not seal them airtight while still warm or the glaze will sweat. Doughnuts with cream, custard or cheese fillings are perishable and should not sit out for more than 2 hours.",
+    "fridge": "Refrigeration extends doughnuts by only about 2 days after opening, and it firms up the dough and dulls the glaze, so use it mainly for filled doughnuts, which need to stay at 4 °C (40 °F) or below. Store them in a covered container. A few seconds in the microwave will soften a chilled doughnut.",
+    "freezer": "USDA gives no freezer timeline for doughnuts, but plain and cake-style doughnuts can be frozen at −18 °C (0 °F) in an airtight bag with reasonable results for a few weeks. Glazes often turn sticky or flake off, and cream-filled doughnuts do not freeze well. Freeze only what you will use soon and expect some loss of texture.",
+    "thawing": "Thaw frozen doughnuts at room temperature for 20–30 minutes or warm them briefly in a low oven or microwave. Filled doughnuts should be thawed in the fridge.",
+    "spoilage": [
+      "Hard, dry, stale texture that does not soften when warmed",
+      "Mould spots, which appear fastest on filled or humid-weather doughnuts",
+      "Rancid or oily smell from the frying fat going off",
+      "Sour smell, weeping or discoloured filling in cream or custard doughnuts"
+    ],
+    "tips": [
+      "Buy only what you will eat within a day; freshness drops fast",
+      "Keep the box closed but not airtight to slow staling without making the glaze sticky",
+      "Refresh a day-old doughnut with 5–8 seconds in the microwave",
+      "Check the label: custard, cream and cheese fillings belong in the fridge"
+    ],
+    "faq": [
+      {"q": "Can you freeze doughnuts?", "a": "Plain and cake doughnuts freeze acceptably for a few weeks in an airtight bag at −18 °C (0 °F). Glazed and filled ones lose quality; USDA does not list a freezer timeline."},
+      {"q": "How long do doughnuts last?", "a": "About 1–2 days at room temperature from purchase, and up to 2 days in the fridge after opening. Filled doughnuts should always be kept cold."},
+      {"q": "Do doughnuts need to be refrigerated?", "a": "Plain and glazed doughnuts do not, and they taste better at room temperature. Cream-, custard- or cheese-filled doughnuts must be refrigerated."}
+    ]
+  },
+  "zh": {
+    "name": "甜甜圈",
+    "aliases": ["多拿滋", "唐納滋", "冬甩", "炸麵圈", "donut"],
+    "summary": "甜甜圈是油炸的甜麵團，有糖霜、糖粉、淋醬或夾餡等各種口味。原味和糖霜甜甜圈常溫可從購買日起放 1～2 天，開封後冷藏最多 2 天。夾鮮奶油或卡士達的甜甜圈則一開始就要冷藏。",
+    "pantry": "原味、糖霜、糖粉甜甜圈放在原本的盒子或紙袋裡常溫保存，購買後 1～2 天內吃完；前幾個小時最好吃，之後很快就會變乾。還溫熱時不要密封，否則糖霜會出水黏膩。夾鮮奶油、卡士達或起司餡的甜甜圈容易腐壞，室溫不可超過 2 小時。",
+    "fridge": "冷藏只能讓甜甜圈在開封後多放 2 天左右，而且會讓麵團變硬、糖霜失去光澤，所以主要用在夾餡甜甜圈，這類必須保持在 4°C 以下。用有蓋容器裝好。冰過的甜甜圈用微波爐加熱幾秒就會回軟。",
+    "freezer": "USDA 沒有提供甜甜圈的冷凍期限，但原味和蛋糕式甜甜圈裝進密封袋放 −18°C 冷凍幾週，效果還算可以。糖霜冷凍後常會變黏或剝落，鮮奶油夾餡的則不適合冷凍。只冷凍近期會吃的量，並接受口感會打折。",
+    "thawing": "冷凍甜甜圈放在室溫 20～30 分鐘退冰，或用烤箱低溫、微波爐稍微加熱。夾餡甜甜圈請放冷藏室解凍。",
+    "spoilage": [
+      "變得又硬又乾，加熱也回不軟",
+      "出現黴點，夾餡的或潮濕天氣時特別快",
+      "炸油變質產生的油耗味",
+      "鮮奶油或卡士達內餡有酸味、出水或變色"
+    ],
+    "tips": [
+      "當天吃得完的量再買，新鮮度掉得很快",
+      "盒子蓋著但不要完全密封，可以減緩變乾又不會讓糖霜變黏",
+      "放了一天的甜甜圈用微波爐加熱 5～8 秒就能恢復柔軟",
+      "看清楚口味：卡士達、鮮奶油、起司餡的都要放冰箱"
+    ],
+    "faq": [
+      {"q": "甜甜圈可以冷凍嗎？", "a": "原味和蛋糕式甜甜圈裝密封袋放 −18°C 冷凍幾週還可以接受。糖霜和夾餡的品質會變差，USDA 也沒有列出冷凍期限。"},
+      {"q": "甜甜圈可以放多久？", "a": "常溫從購買日起約 1～2 天，開封後冷藏最多 2 天。夾餡甜甜圈要一直冷藏。"},
+      {"q": "甜甜圈需要放冰箱嗎？", "a": "原味和糖霜甜甜圈不用，常溫吃比較好吃。夾鮮奶油、卡士達或起司餡的一定要冷藏。"}
+    ]
+  },
+  "ja": {
+    "name": "ドーナツ",
+    "aliases": ["ドーナッツ", "リングドーナツ", "イーストドーナツ", "ケーキドーナツ", "揚げパン"],
+    "summary": "ドーナツは甘い生地を揚げたもので、グレーズ・シュガー・アイシング・フィリング入りなどさまざまです。プレーンやグレーズタイプは常温で購入日から1〜2日、開封後は冷蔵で2日まで保存できます。生クリームやカスタード入りは最初から冷蔵が必要です。",
+    "pantry": "プレーン・グレーズ・シュガータイプは箱や紙袋に入れたまま常温で保存し、購入から1〜2日以内に食べ切りましょう。最初の数時間が一番おいしく、その後は急速にパサつきます。温かいうちに密閉するとグレーズが溶けてベタつくので注意。生クリーム・カスタード・チーズ入りは傷みやすいので、常温には2時間以上置かないでください。",
+    "fridge": "冷蔵しても開封後2日ほどしか延びず、生地は硬く、グレーズもくすみます。冷蔵は主にフィリング入りのドーナツ向けで、これらは4℃以下に保つ必要があります。ふた付き容器に入れて保存し、冷えたドーナツは電子レンジで数秒温めると柔らかさが戻ります。",
+    "freezer": "USDAはドーナツの冷凍期間を示していませんが、プレーンやケーキタイプなら密閉袋に入れて−18℃で数週間冷凍しても、まずまずの状態で食べられます。グレーズはベタついたり剥がれたりしやすく、生クリーム入りは冷凍に向きません。近いうちに食べる分だけ冷凍し、食感の変化はある程度覚悟しておきましょう。",
+    "thawing": "冷凍したドーナツは室温に20〜30分置くか、低温のオーブンや電子レンジで軽く温めます。フィリング入りは冷蔵庫で解凍してください。",
+    "spoilage": [
+      "硬くパサパサで、温めても柔らかくならない",
+      "カビの斑点（フィリング入りや湿度の高い時期は特に早い）",
+      "揚げ油が酸化した油臭さ",
+      "生クリームやカスタードから酸っぱいにおい、水分の染み出し、変色"
+    ],
+    "tips": [
+      "その日に食べ切れる分だけ買う。鮮度の落ちが早いお菓子です",
+      "箱は閉じつつ完全密閉はしないと、乾燥を抑えながらグレーズのベタつきも防げます",
+      "翌日のドーナツは電子レンジで5〜8秒温めると柔らかさが戻ります",
+      "表示を確認：カスタード・生クリーム・チーズ入りは冷蔵庫へ"
+    ],
+    "faq": [
+      {"q": "ドーナツは冷凍できますか？", "a": "プレーンやケーキタイプなら密閉袋で−18℃、数週間程度は許容範囲です。グレーズ付きやフィリング入りは品質が落ちます。USDAは冷凍期間を示していません。"},
+      {"q": "ドーナツはどのくらい日持ちしますか？", "a": "常温で購入日から1〜2日、開封後の冷蔵で2日までです。フィリング入りは常に冷蔵してください。"},
+      {"q": "ドーナツは冷蔵庫に入れるべきですか？", "a": "プレーンやグレーズタイプは不要で、常温のほうがおいしく食べられます。生クリーム・カスタード・チーズ入りは必ず冷蔵してください。"}
+    ]
+  },
+  "es": {
+    "name": "Donuts",
+    "aliases": ["donas", "rosquillas", "berlinas", "doughnuts", "roscas fritas"],
+    "summary": "Los donuts son masa dulce frita, que se vende glaseada, azucarada, con cobertura o rellena. Los donuts sencillos y glaseados duran 1–2 días a temperatura ambiente desde la compra y hasta 2 días en la nevera una vez abierta la caja. Los rellenos de nata o crema deben refrigerarse desde el principio.",
+    "pantry": "Guarda los donuts sencillos, glaseados o azucarados en su caja o en una bolsa de papel a temperatura ambiente y cómelos en 1–2 días desde la compra; están mejor las primeras horas y se resecan rápido. No los cierres herméticamente mientras estén calientes o el glaseado sudará. Los rellenos de nata, crema o queso son perecederos y no deben estar fuera más de 2 horas.",
+    "fridge": "La nevera solo alarga los donuts unos 2 días tras abrirlos, y además endurece la masa y apaga el glaseado, así que úsala sobre todo para los rellenos, que deben mantenerse a 4 °C (40 °F) o menos. Guárdalos en un recipiente tapado. Unos segundos de microondas ablandan un donut frío.",
+    "freezer": "El USDA no da un plazo de congelación para los donuts, pero los sencillos y los tipo bizcocho pueden congelarse a −18 °C (0 °F) en una bolsa hermética con resultados aceptables durante unas semanas. Los glaseados suelen quedar pegajosos o descascarillarse, y los rellenos de nata no se congelan bien. Congela solo lo que vayas a usar pronto y espera cierta pérdida de textura.",
+    "thawing": "Descongela los donuts a temperatura ambiente durante 20–30 minutos o caliéntalos un momento en el horno a baja temperatura o en el microondas. Los rellenos deben descongelarse en la nevera.",
+    "spoilage": [
+      "Textura dura, seca y pasada que no se ablanda al calentar",
+      "Manchas de moho, que aparecen antes en los rellenos o con tiempo húmedo",
+      "Olor rancio o aceitoso por la grasa de fritura envejecida",
+      "Relleno de nata o crema con olor agrio, aguado o descolorido"
+    ],
+    "tips": [
+      "Compra solo los que vayas a comer en un día; la frescura cae rápido",
+      "Mantén la caja cerrada pero no hermética para frenar el resecado sin que el glaseado se pegue",
+      "Recupera un donut del día anterior con 5–8 segundos de microondas",
+      "Revisa la etiqueta: los rellenos de crema, nata y queso van a la nevera"
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar los donuts?", "a": "Los sencillos y tipo bizcocho se congelan aceptablemente unas semanas en una bolsa hermética a −18 °C (0 °F). Los glaseados y rellenos pierden calidad; el USDA no indica un plazo de congelación."},
+      {"q": "¿Cuánto duran los donuts?", "a": "Unos 1–2 días a temperatura ambiente desde la compra, y hasta 2 días en la nevera tras abrirlos. Los rellenos deben mantenerse siempre en frío."},
+      {"q": "¿Los donuts necesitan refrigeración?", "a": "Los sencillos y glaseados no, y saben mejor a temperatura ambiente. Los rellenos de nata, crema o queso sí deben refrigerarse."}
+    ]
+  }
+}

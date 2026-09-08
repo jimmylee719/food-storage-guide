@@ -1,0 +1,107 @@
+{
+  "slug": "pork-tenderloin",
+  "en": {
+    "name": "Pork tenderloin",
+    "aliases": ["pork fillet", "pork tender", "tenderloin of pork", "pork filet"],
+    "summary": "Pork tenderloin is the long, narrow, very lean muscle that runs along the backbone, and it is the most tender cut on the pig. Raw tenderloin keeps 3–5 days in the fridge from the day of purchase and 4–12 months in the freezer for best quality. Because it is so lean, it dries out quickly if frozen badly, so wrap it well.",
+    "pantry": "Raw pork tenderloin cannot be kept at room temperature. Bacteria grow rapidly between 4 and 60 °C (40–140 °F); throw it out if it has been left out for more than 2 hours, or 1 hour when the room is above 32 °C (90 °F). Marinating should always happen in the fridge, not on the counter.",
+    "fridge": "Leave the tenderloin in its vacuum pack or tray, or transfer it to a sealed container, and store it on the bottom shelf at 4 °C (40 °F) or below. It keeps 3–5 days from purchase. Vacuum-packed tenderloin often has a slightly sharp smell when first opened; if it fades within a few minutes, that is normal.",
+    "freezer": "Pat the tenderloin dry, wrap it tightly in cling film, then place in a freezer bag with the air pressed out or vacuum-seal it. At −18 °C (0 °F) it stays safe indefinitely, but quality is best within 4–12 months. Tenderloins are slim, so they freeze quickly and can be frozen whole or already cut into medallions.",
+    "thawing": "Thaw in the fridge (12–24 hours for a whole tenderloin) or in a sealed bag in cold water changed every 30 minutes (about 1 hour). If you thaw in the microwave, cook it straight away. Never leave it on the counter to thaw.",
+    "spoilage": [
+      "A sour or ammonia-like smell that does not fade after opening the pack",
+      "Slimy or sticky surface",
+      "Dull grey or greenish colour instead of rosy pink",
+      "Swollen vacuum packaging or cloudy liquid inside"
+    ],
+    "tips": [
+      "Buy tenderloin with the silverskin still on if you plan to freeze it; trim after thawing to protect the meat",
+      "Freeze in the portions you actually cook: one tenderloin serves 2–3 people",
+      "Write the date on the bag and use the oldest packs first",
+      "Cook to 63 °C (145 °F) and rest 3 minutes; a slightly pink centre is safe and much juicier"
+    ],
+    "faq": [
+      {"q": "Can you freeze pork tenderloin?", "a": "Yes. Wrap it tightly, remove as much air as possible and freeze at −18 °C (0 °F). Use within 4–12 months for the best texture; it stays safe indefinitely."},
+      {"q": "How long does pork tenderloin last in the fridge?", "a": "Raw pork tenderloin keeps 3–5 days from purchase when stored at 4 °C (40 °F) or below."},
+      {"q": "Is a marinated pork tenderloin safe to keep longer?", "a": "No. Marinade does not extend the shelf life; keep to 3–5 days from purchase and marinate in the fridge, never at room temperature."}
+    ]
+  },
+  "zh": {
+    "name": "豬小里肌（腰內肉）",
+    "aliases": ["腰內肉", "小里肌", "豬柳", "豬菲力", "里脊肉", "豬腰內肉"],
+    "summary": "豬小里肌又叫腰內肉，是沿著脊椎內側的一條細長瘦肉，是豬身上最嫩的部位。生的小里肌從購買日起冷藏可放 3～5 天，冷凍 4～12 個月風味最佳。因為油脂很少，冷凍包裝不好很容易變乾，一定要包緊。",
+    "pantry": "生的豬小里肌不能放在室溫。4～60 °C 之間細菌快速繁殖，放在室溫超過 2 小時（室溫超過 32 °C 則 1 小時）就要丟掉。醃肉也一定要放冰箱醃，不要放在流理台上。",
+    "fridge": "小里肌可以留在真空包裝或原盤內，或移到密封盒，放在冰箱最下層，溫度維持 4 °C 以下，從購買日起可放 3～5 天。真空包裝剛打開時常有一點刺鼻的味道，若幾分鐘內散掉就是正常的。",
+    "freezer": "把小里肌擦乾，用保鮮膜緊緊包好，再裝進冷凍袋壓出空氣，或用真空包裝。在 −18 °C 下安全上沒有期限，但 4～12 個月內品質最好。小里肌細長、凍得快，可以整條冷凍，也可以先切成厚片再凍。",
+    "thawing": "整條小里肌放冷藏室退冰約 12～24 小時；趕時間可連密封袋泡冷水，每 30 分鐘換水，約 1 小時。用微波爐解凍後要立刻烹調。切勿放在流理台上退冰。",
+    "spoilage": [
+      "開封後酸味或阿摩尼亞味一直不散",
+      "表面黏滑或黏手",
+      "肉色從粉紅變成暗灰或帶綠",
+      "真空包裝膨脹，或裡面有混濁的液體"
+    ],
+    "tips": [
+      "打算冷凍的話，可保留表面的筋膜（銀皮），解凍後再去除，能保護肉質",
+      "依實際用量分裝冷凍，一條小里肌約 2～3 人份",
+      "袋子上寫日期，先用最早買的",
+      "中心溫度煮到 63 °C 後靜置 3 分鐘，中間微粉紅是安全的，而且多汁得多"
+    ],
+    "faq": [
+      {"q": "豬小里肌可以冷凍嗎？", "a": "可以。包緊、盡量排除空氣後放進 −18 °C 冷凍庫，4～12 個月內口感最好，安全上沒有期限。"},
+      {"q": "腰內肉放冰箱可以放多久？", "a": "生的豬小里肌在 4 °C 以下冷藏，從購買日起可放 3～5 天。"},
+      {"q": "醃過的豬小里肌可以放比較久嗎？", "a": "不行。醃料不會延長保存期限，一樣是從購買日起 3～5 天，而且要在冰箱裡醃，不要放室溫。"}
+    ]
+  },
+  "ja": {
+    "name": "豚ヒレ肉",
+    "aliases": ["豚ヒレ", "豚フィレ", "ポークテンダーロイン", "ヒレかたまり", "豚のヒレ肉"],
+    "summary": "豚ヒレ肉は背骨の内側に沿った細長い赤身で、豚肉の中でいちばんやわらかい部位です。生の状態なら購入日から冷蔵で3〜5日、冷凍なら4〜12か月がおいしく食べられる目安です。脂身が少ないため、包み方が甘いと冷凍中にパサつきやすいので、しっかり密封してください。",
+    "pantry": "生の豚ヒレ肉は常温保存できません。4〜60 °Cでは細菌が急速に増えるため、室温に2時間以上（気温32 °C以上なら1時間以上）出したままの肉は廃棄してください。下味をつけるときも、常温ではなく必ず冷蔵庫の中で行いましょう。",
+    "fridge": "真空パックやトレーのまま、または密閉容器に移して、冷蔵室の最下段（チルド室）で4 °C以下に保ちます。購入日から3〜5日が目安です。真空パックを開けた直後に少し刺激臭がすることがありますが、数分で消えるなら問題ありません。",
+    "freezer": "水気を拭き取ってラップでぴったり包み、冷凍用保存袋に入れて空気を抜くか真空パックにします。−18 °Cで保存すれば安全面での期限はありませんが、品質は4〜12か月以内が最良です。細長い部位なので早く凍り、1本丸ごとでも、あらかじめ厚切りにしてからでも冷凍できます。",
+    "thawing": "1本丸ごとなら冷蔵室で12〜24時間かけて解凍します。急ぐときは密閉袋のまま冷水に浸け、30分ごとに水を替えれば約1時間です。電子レンジで解凍したらすぐに調理してください。室温での解凍は避けましょう。",
+    "spoilage": [
+      "開封後も酸っぱいにおいやアンモニア臭が消えない",
+      "表面がぬるぬる・べたべたしている",
+      "ピンク色ではなく、くすんだ灰色や緑がかった色になっている",
+      "真空パックが膨らんでいる、または中に濁った液体がある"
+    ],
+    "tips": [
+      "冷凍する予定なら表面の銀皮（筋膜）は残しておき、解凍後に取り除くと肉が守られる",
+      "実際に使う量ごとに分けて冷凍する。1本で2〜3人分が目安",
+      "袋に日付を書き、古いものから使う",
+      "中心温度63 °Cまで加熱して3分休ませる。中心がほんのりピンクでも安全で、ずっとジューシー"
+    ],
+    "faq": [
+      {"q": "豚ヒレ肉は冷凍できますか？", "a": "できます。しっかり包んで空気を抜き、−18 °Cで冷凍してください。4〜12か月以内が食感の良い目安で、安全面での期限はありません。"},
+      {"q": "豚ヒレ肉は冷蔵庫でどのくらい持ちますか？", "a": "生の豚ヒレ肉は4 °C以下の冷蔵で、購入日から3〜5日が目安です。"},
+      {"q": "下味をつけた豚ヒレ肉は長く保存できますか？", "a": "できません。漬けだれで保存期間は延びないので、購入日から3〜5日を守り、漬け込みは室温ではなく冷蔵庫で行ってください。"}
+    ]
+  },
+  "es": {
+    "name": "Solomillo de cerdo",
+    "aliases": ["lomo fino de cerdo", "filete de cerdo", "lomito de cerdo", "tenderloin de cerdo", "solomillo de puerco"],
+    "summary": "El solomillo de cerdo es el músculo largo, estrecho y muy magro que corre junto a la columna, y es el corte más tierno del animal. Crudo, se conserva de 3 a 5 días en el refrigerador desde la compra y de 4 a 12 meses en el congelador con la mejor calidad. Como tiene tan poca grasa, se reseca rápido si se congela mal, así que envuélvelo bien.",
+    "pantry": "El solomillo crudo no puede guardarse a temperatura ambiente. Las bacterias crecen con rapidez entre 4 y 60 °C (40–140 °F); tíralo si ha estado fuera más de 2 horas, o 1 hora si la habitación supera los 32 °C (90 °F). El marinado debe hacerse siempre dentro del refrigerador, nunca en la encimera.",
+    "fridge": "Déjalo en su envase al vacío o bandeja, o pásalo a un recipiente cerrado, y guárdalo en el estante inferior a 4 °C (40 °F) o menos. Dura de 3 a 5 días desde la compra. El solomillo envasado al vacío suele tener un olor algo fuerte al abrirlo; si desaparece en pocos minutos, es normal.",
+    "freezer": "Seca el solomillo con papel de cocina, envuélvelo bien apretado en film plástico y mételo en una bolsa para congelador sin aire, o envásalo al vacío. A −18 °C (0 °F) se mantiene seguro indefinidamente, pero la calidad es mejor durante 4 a 12 meses. Es una pieza delgada, así que se congela rápido, entero o ya cortado en medallones.",
+    "thawing": "Descongela en el refrigerador (12–24 horas para un solomillo entero) o en una bolsa cerrada dentro de agua fría cambiada cada 30 minutos (alrededor de 1 hora). Si lo descongelas en el microondas, cocínalo de inmediato. Nunca lo dejes en la encimera.",
+    "spoilage": [
+      "Olor agrio o a amoníaco que no desaparece tras abrir el envase",
+      "Superficie babosa o pegajosa",
+      "Color gris apagado o verdoso en lugar de rosa",
+      "Envase al vacío hinchado o líquido turbio en su interior"
+    ],
+    "tips": [
+      "Si vas a congelarlo, compra el solomillo con la telilla plateada y quítala después de descongelar; protege la carne",
+      "Congela en las porciones que realmente cocinas: un solomillo rinde para 2 o 3 personas",
+      "Escribe la fecha en la bolsa y usa primero los paquetes más antiguos",
+      "Cocina hasta 63 °C (145 °F) y deja reposar 3 minutos; un centro ligeramente rosado es seguro y mucho más jugoso"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el solomillo de cerdo?", "a": "Sí. Envuélvelo bien, saca todo el aire posible y congela a −18 °C (0 °F). Úsalo en 4 a 12 meses para la mejor textura; sigue siendo seguro indefinidamente."},
+      {"q": "¿Cuánto dura el solomillo de cerdo en el refrigerador?", "a": "El solomillo de cerdo crudo dura de 3 a 5 días desde la compra a 4 °C (40 °F) o menos."},
+      {"q": "¿Un solomillo marinado se conserva más tiempo?", "a": "No. El marinado no alarga la vida útil; respeta los 3 a 5 días desde la compra y marina siempre en el refrigerador, nunca a temperatura ambiente."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "fresh-whole-lobster-live",
+  "en": {
+    "name": "Live whole lobster",
+    "aliases": ["live lobster", "fresh lobster", "whole lobster", "Maine lobster", "spiny lobster"],
+    "summary": "A live whole lobster should be cooked the day you buy it: it keeps at most 1 day in the fridge from purchase. It is not safe to cook and eat a whole lobster that is already dead when you prepare it, so if it dies, discard it. USDA gives no freezer timeline for live lobster; cook it first if you want to freeze the meat.",
+    "pantry": "Never leave a live lobster at room temperature or in a bucket of tap water; it will weaken and die. Carry it home in a cool bag with an ice pack and refrigerate it immediately. A dead, uncooked lobster left out for more than 2 hours (1 hour above 32 °C / 90 °F) must be thrown away.",
+    "fridge": "Keep a live lobster in the coldest part of the fridge, at or below 4 °C (40 °F), in an open box or bowl covered with damp newspaper or a wet towel, for no more than 1 day. Do not seal it in plastic or submerge it in fresh water. Before cooking, check that it moves its legs or curls its tail; a lobster that shows no movement is dead and should not be cooked and eaten.",
+    "freezer": "USDA gives no freezer timeline for live lobster, and freezing a live one is not recommended because you cannot confirm it was alive when it died. Cook the lobster first, then remove the meat, pack it in airtight containers or freezer bags and freeze at −18 °C (0 °F) for a few weeks for best quality.",
+    "thawing": "Thaw cooked lobster meat in the fridge overnight, or in a sealed bag in cold water, and eat it within a day or two. Never thaw at room temperature.",
+    "spoilage": [
+      "No movement of legs, antennae or tail when handled, meaning the lobster is dead",
+      "A strong ammonia or rotten odour instead of a clean sea smell",
+      "Limp, drooping tail and claws that hang lifelessly",
+      "Cooked meat that turns mushy, discoloured or smells sour"
+    ],
+    "tips": [
+      "Choose a lively lobster that flaps its tail and raises its claws when picked up",
+      "Buy on the day you plan to cook and keep the rubber bands on the claws",
+      "Cook as soon as you get home rather than testing the 1-day limit",
+      "If a lobster dies in the fridge, do not cook it; discard it"
+    ],
+    "faq": [
+      {"q": "Can you freeze a live lobster?", "a": "It is not recommended. Cook the lobster first, then freeze the picked meat in airtight containers at −18 °C (0 °F) for best quality within a few weeks."},
+      {"q": "How long does a live lobster last in the fridge?", "a": "Only 1 day from purchase at or below 4 °C (40 °F), stored loosely covered with a damp towel. Cook it the same day if possible."},
+      {"q": "Can you cook a lobster that has died?", "a": "No. It is not safe to cook and eat a whole lobster that is already dead when you prepare it, because the meat deteriorates very quickly. Discard it."}
+    ]
+  },
+  "zh": {
+    "name": "活龍蝦（整隻）",
+    "aliases": ["活龍蝦", "新鮮龍蝦", "整隻龍蝦", "波士頓龍蝦", "美國龍蝦"],
+    "summary": "整隻活龍蝦最好當天買當天煮，冷藏自購買日起最多只能放 1 天。處理時如果龍蝦已經死了，就不能煮來吃，必須丟掉。美國農業部沒有提供活龍蝦的冷凍期限，想冷凍請先煮熟再取肉。",
+    "pantry": "絕對不要把活龍蝦放在室溫或泡在自來水裡，牠會虛弱並死亡。用保冷袋加冰袋帶回家，立刻放冰箱。未煮的死龍蝦放在室溫超過 2 小時（室溫高於 32 °C 時超過 1 小時）就必須丟棄。",
+    "fridge": "放在冰箱最冷的位置，維持 4 °C 以下，用開口的盒子或碗裝著，上面蓋濕報紙或濕毛巾，最多放 1 天。不要用塑膠袋密封，也不要泡在淡水裡。煮之前確認牠的腳會動或尾巴會捲；完全不動的龍蝦已經死亡，不可以煮來吃。",
+    "freezer": "美國農業部沒有提供活龍蝦的冷凍期限，也不建議把活龍蝦直接冷凍，因為無法確定牠是什麼時候死的。請先把龍蝦煮熟，取出肉裝進密封盒或冷凍袋，在 −18 °C 下冷凍，幾週內吃完風味最佳。",
+    "thawing": "煮熟的龍蝦肉放冷藏室解凍一晚，或連密封袋泡冷水解凍，一、兩天內吃完。不要在室溫下解凍。",
+    "spoilage": [
+      "拿起來時腳、觸鬚和尾巴都不動，表示已經死亡",
+      "有濃烈的氨味或腐臭味，而不是乾淨的海水味",
+      "尾巴軟垂、螯無力下垂",
+      "煮熟的肉變軟爛、變色或有酸味"
+    ],
+    "tips": [
+      "挑選拿起來會拍尾巴、舉螯的活潑龍蝦",
+      "當天要煮再買，螯上的橡皮筋不要拆",
+      "一回家就煮，不要挑戰 1 天的極限",
+      "龍蝦在冰箱裡死掉的話，不要煮，直接丟掉"
+    ],
+    "faq": [
+      {"q": "活龍蝦可以冷凍嗎？", "a": "不建議。先把龍蝦煮熟再取肉，裝進密封盒放 −18 °C 冷凍，幾週內吃完風味最好。"},
+      {"q": "活龍蝦放冰箱可以放多久？", "a": "自購買日起只有 1 天，冷藏 4 °C 以下，用濕毛巾鬆鬆蓋著。最好當天就煮。"},
+      {"q": "龍蝦死掉還可以煮嗎？", "a": "不可以。處理時已經死亡的整隻龍蝦煮來吃並不安全，因為肉質會非常快速劣化，請直接丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "活きロブスター（丸ごと）",
+    "aliases": ["活きオマール", "オマールエビ", "ロブスター", "活きエビ", "伊勢海老"],
+    "summary": "丸ごとの活きロブスターは買った当日に調理するのが基本で、冷蔵では購入から最長1日です。調理の時点で死んでいるロブスターを丸ごと調理して食べるのは安全ではないので、死んでいたら処分してください。USDAは活きロブスターの冷凍期間を示していません。冷凍したい場合は先に加熱して身を取り出します。",
+    "pantry": "活きロブスターを常温や水道水を張ったバケツに入れておくと、弱って死んでしまいます。保冷バッグと保冷剤で持ち帰り、すぐに冷蔵庫へ入れましょう。未加熱で死んだロブスターを2時間以上（32 °Cを超えるなら1時間以上）常温に置いた場合は捨ててください。",
+    "fridge": "冷蔵庫の最も冷える場所で4 °C以下に保ち、ふたのない箱やボウルに入れて湿らせた新聞紙か濡れタオルをかぶせ、1日以内に調理します。ビニールで密封したり真水に浸けたりしないでください。調理前に脚が動くか尾が丸まるかを確認し、まったく動かないものは死んでいるので調理して食べてはいけません。",
+    "freezer": "USDAは活きロブスターの冷凍期間を示しておらず、いつ死んだか確認できないため生きたまま冷凍することはおすすめしません。先に加熱してから身を取り出し、密閉容器や冷凍用保存袋に入れて−18 °Cで冷凍し、数週間以内に食べ切るとおいしくいただけます。",
+    "thawing": "加熱済みのロブスターの身は冷蔵庫で一晩、または密封袋のまま冷水で解凍し、1〜2日以内に食べます。室温での解凍は避けてください。",
+    "spoilage": [
+      "持ち上げても脚・触角・尾が動かない（死んでいるサイン）",
+      "磯の香りではなく、強いアンモニア臭や腐敗臭がする",
+      "尾がだらりと垂れ、はさみに力がない",
+      "加熱した身がぐずぐずになる、変色する、酸っぱいにおいがする"
+    ],
+    "tips": [
+      "持ち上げると尾をばたつかせ、はさみを持ち上げる元気なものを選ぶ",
+      "調理する当日に買い、はさみの輪ゴムは外さない",
+      "1日の限界を試さず、帰宅したらすぐに調理する",
+      "冷蔵庫で死んでしまったロブスターは調理せずに処分する"
+    ],
+    "faq": [
+      {"q": "活きロブスターは冷凍できますか？", "a": "おすすめしません。先に加熱してから身を取り出し、密閉容器に入れて−18 °Cで冷凍し、数週間以内に食べ切ってください。"},
+      {"q": "活きロブスターは冷蔵庫でどのくらい持ちますか？", "a": "4 °C以下で購入から1日だけです。濡れタオルをゆるくかけて保存し、できれば当日に調理してください。"},
+      {"q": "死んでしまったロブスターは調理して食べられますか？", "a": "食べられません。調理の時点で死んでいる丸ごとのロブスターは、身の劣化がとても速いため安全ではありません。処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Langosta entera viva",
+    "aliases": ["bogavante vivo", "langosta viva", "langosta fresca", "bogavante entero", "langosta americana"],
+    "summary": "Una langosta entera viva debe cocinarse el mismo día de la compra: aguanta como máximo 1 día en el refrigerador. No es seguro cocinar y comer una langosta entera que ya está muerta cuando la preparas, así que si muere, deséchala. El USDA no da un plazo de congelación para la langosta viva; si quieres congelar la carne, cocínala primero.",
+    "pantry": "Nunca dejes una langosta viva a temperatura ambiente ni en un cubo de agua del grifo; se debilita y muere. Llévala a casa en una bolsa térmica con hielo y refrigérala de inmediato. Una langosta muerta y sin cocinar que haya pasado más de 2 horas fuera (1 hora si hace más de 32 °C / 90 °F) debe tirarse.",
+    "fridge": "Guarda la langosta viva en la zona más fría del refrigerador, a 4 °C (40 °F) o menos, en una caja o bol abierto cubierto con papel de periódico húmedo o un paño mojado, durante no más de 1 día. No la cierres en plástico ni la sumerjas en agua dulce. Antes de cocinar, comprueba que mueve las patas o enrosca la cola; una langosta que no se mueve está muerta y no debe cocinarse ni comerse.",
+    "freezer": "El USDA no da un plazo de congelación para la langosta viva, y congelarla viva no es recomendable porque no podrás saber cuándo murió. Cocínala primero, saca la carne, envásala en recipientes herméticos o bolsas de congelación y congélala a −18 °C (0 °F); su mejor calidad dura unas pocas semanas.",
+    "thawing": "Descongela la carne de langosta cocida en el refrigerador durante la noche, o en una bolsa cerrada dentro de agua fría, y cómela en uno o dos días. Nunca la descongeles a temperatura ambiente.",
+    "spoilage": [
+      "No mueve las patas, las antenas ni la cola al manipularla, señal de que está muerta",
+      "Olor fuerte a amoníaco o a podrido en lugar de aroma limpio a mar",
+      "Cola flácida y pinzas que cuelgan sin fuerza",
+      "Carne cocida que se vuelve pastosa, cambia de color o huele agria"
+    ],
+    "tips": [
+      "Elige una langosta vigorosa que agite la cola y levante las pinzas al cogerla",
+      "Cómprala el día que la vayas a cocinar y no le quites las gomas de las pinzas",
+      "Cocínala nada más llegar a casa en vez de apurar el límite de 1 día",
+      "Si la langosta muere en el refrigerador, no la cocines; tírala"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar una langosta viva?", "a": "No es recomendable. Cocínala primero y congela la carne extraída en recipientes herméticos a −18 °C (0 °F); su mejor calidad dura unas pocas semanas."},
+      {"q": "¿Cuánto dura una langosta viva en el refrigerador?", "a": "Solo 1 día desde la compra a 4 °C (40 °F) o menos, cubierta sin apretar con un paño húmedo. Cocínala el mismo día si puedes."},
+      {"q": "¿Se puede cocinar una langosta que ha muerto?", "a": "No. No es seguro cocinar y comer una langosta entera que ya está muerta al prepararla, porque la carne se deteriora muy rápido. Deséchala."}
+    ]
+  }
+}

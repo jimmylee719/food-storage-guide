@@ -1,0 +1,67 @@
+{
+  "slug": "leftovers-pizza",
+  "en": {
+    "name": "Leftover pizza",
+    "aliases": ["cold pizza", "pizza slices", "takeaway pizza", "delivery pizza leftovers"],
+    "summary": "Leftover pizza, whether from a takeaway box or homemade, keeps 3–4 days in the fridge at 4 °C (40 °F) or below once it has been chilled within 2 hours. Frozen slices hold their best quality for 1–2 months at −18 °C (0 °F).",
+    "pantry": "Pizza left in the box on the counter overnight should be thrown away. Cheese, meat toppings and sauce are all perishable, and the 2-hour rule applies (1 hour if the room is above 32 °C / 90 °F). If the party runs long, move the pizza to the fridge as soon as people stop eating rather than at the end of the night.",
+    "fridge": "Stack slices in an airtight container or wrap them tightly in foil or cling film; the cardboard box lets the crust dry out and absorbs fridge odours. Keep at 4 °C (40 °F) or below and eat within 3–4 days. Reheat in a hot pan, oven or air fryer until the cheese bubbles and the slice is hot through.",
+    "freezer": "Wrap slices individually in cling film, then put them in a freezer bag with the air pressed out. Freeze at −18 °C (0 °F) and use within 1–2 months for the best crust and cheese texture; they stay safe longer but the base can go soggy. Freezing slices flat on a tray first stops them sticking together.",
+    "thawing": "Reheat straight from frozen in an oven at about 190 °C (375 °F) or in an air fryer; thawing is not needed. If you prefer to thaw, do it in the fridge, never on the counter.",
+    "spoilage": ["Sour, rancid or off smell from the cheese or meat toppings", "Slimy or sticky surface on the toppings", "Mould spots on the crust or cheese, even small ones", "Toppings that have turned grey or dull, or a crust that feels wet and soft"],
+    "tips": ["Transfer pizza out of the delivery box before refrigerating", "Write the date on the container or bag", "Freeze slices in single portions for quick lunches", "Reheat in a covered pan with a splash of water to soften the crust and melt the cheese"],
+    "faq": [
+      {"q": "Can you freeze leftover pizza?", "a": "Yes. Wrap slices individually and freeze at −18 °C (0 °F); they are best within 1–2 months and can be reheated straight from frozen."},
+      {"q": "How long does leftover pizza last in the fridge?", "a": "3–4 days at 4 °C (40 °F) or below, as long as it was refrigerated within 2 hours of delivery or baking."},
+      {"q": "Is pizza left out overnight safe to eat?", "a": "No. Pizza with cheese, sauce or meat that has been at room temperature for more than 2 hours should be discarded, even if it looks and smells fine."}
+    ]
+  },
+  "zh": {
+    "name": "剩披薩",
+    "aliases": ["隔夜披薩", "披薩", "比薩", "外送披薩", "冷披薩"],
+    "summary": "不論是外送剩下的還是自己烤的披薩，只要在 2 小時內冷藏，放在 4 °C 以下的冰箱可以保存 3～4 天。切片冷凍在 −18 °C 可保持 1～2 個月的最佳風味。",
+    "pantry": "披薩連盒子放在桌上過夜就該丟掉。起司、肉類配料和醬料都是容易腐壞的食材，同樣適用 2 小時原則（室溫高於 32 °C 時只有 1 小時）。聚會時間長的話，大家不再吃了就先收進冰箱，不要等到散場才收。",
+    "fridge": "把切片疊放在密封盒裡，或用鋁箔紙、保鮮膜緊緊包好；紙盒會讓餅皮變乾，還會吸冰箱的味道。冰箱維持 4 °C 以下，3～4 天內吃完。復熱時用平底鍋、烤箱或氣炸鍋加熱到起司冒泡、整片熱透。",
+    "freezer": "每片先用保鮮膜單獨包好，再裝進冷凍袋壓出空氣，以 −18 °C 冷凍。1～2 個月內餅皮和起司的口感最好；放更久仍然安全，但餅皮容易變濕軟。先把切片攤平在托盤上凍硬再收袋，就不會黏在一起。",
+    "thawing": "不必解凍，直接放進約 190 °C 的烤箱或氣炸鍋加熱即可。若想先解凍，請放冷藏室，不要放在室溫下。",
+    "spoilage": ["起司或肉類配料聞起來有酸味、油耗味或異味", "配料表面出現黏液或黏手", "餅皮或起司上出現黴點，即使很小也不能吃", "配料顏色變灰、失去光澤，或餅皮摸起來濕軟"],
+    "tips": ["冷藏前先把披薩從外送紙盒移出", "在保鮮盒或冷凍袋上寫日期", "以一片一份的方式冷凍，午餐加熱很方便", "用平底鍋加蓋、灑幾滴水復熱，餅皮會回軟、起司也能融化"],
+    "faq": [
+      {"q": "披薩可以冷凍嗎？", "a": "可以。每片單獨包好，以 −18 °C 冷凍，1～2 個月內風味最佳，可以直接從冷凍狀態加熱。"},
+      {"q": "披薩放冰箱可以放多久？", "a": "在 4 °C 以下可以冷藏 3～4 天，前提是外送或出爐後 2 小時內就放進冰箱。"},
+      {"q": "披薩放在室溫過夜還能吃嗎？", "a": "不能。有起司、醬料或肉類的披薩在室溫超過 2 小時就應該丟掉，即使外觀和氣味正常也一樣。"}
+    ]
+  },
+  "ja": {
+    "name": "残ったピザ",
+    "aliases": ["ピザの残り", "宅配ピザ", "冷めたピザ", "ピザ"],
+    "summary": "宅配でも手作りでも、残ったピザは2時間以内に冷蔵すれば、4 °C以下の冷蔵庫で3〜4日保存できます。冷凍なら−18 °Cで1〜2か月がおいしく食べられる目安です。",
+    "pantry": "箱に入れたまま一晩テーブルに置いたピザは捨ててください。チーズ、肉のトッピング、ソースはどれも傷みやすく、2時間ルール（室温が32 °Cを超えるときは1時間）が当てはまります。パーティーが長引くときは、みんなが食べ終わった時点で冷蔵庫へ移しましょう。",
+    "fridge": "スライスを密閉容器に重ねるか、アルミホイルやラップでぴったり包みます。紙箱のままだと生地が乾き、冷蔵庫のにおいも移ります。4 °C以下で保存し、3〜4日以内に食べ切ってください。温め直しはフライパン、オーブン、エアフライヤーで、チーズがふつふつして中まで熱くなるまで加熱します。",
+    "freezer": "1枚ずつラップで包み、冷凍用保存袋に入れて空気を抜き、−18 °Cで冷凍します。生地とチーズの食感が良いのは1〜2か月以内。それ以上でも安全ですが、生地がべちゃっとしやすくなります。先にバットに並べて凍らせてから袋に入れると、くっつきません。",
+    "thawing": "解凍せずに、190 °C前後のオーブンかエアフライヤーで凍ったまま温めれば十分です。解凍したい場合は冷蔵庫で行い、常温に置かないでください。",
+    "spoilage": ["チーズや肉のトッピングから酸っぱいにおい・油の酸化臭がする", "トッピングの表面がぬるぬる・べたべたしている", "生地やチーズに小さくてもカビの点がある", "トッピングが灰色にくすむ、生地が湿ってふにゃふにゃ"],
+    "tips": ["冷蔵する前に宅配の箱から出す", "容器や袋に日付を書いておく", "1枚ずつ冷凍しておくと昼食にすぐ使える", "フライパンにふたをして水を少し垂らして温めると、生地がやわらかくなりチーズもよく溶ける"],
+    "faq": [
+      {"q": "残ったピザは冷凍できますか？", "a": "できます。1枚ずつ包んで−18 °Cで冷凍し、1〜2か月以内が食べごろ。凍ったまま温め直せます。"},
+      {"q": "ピザは冷蔵庫で何日もちますか？", "a": "配達または焼き上がりから2時間以内に冷蔵した場合、4 °C以下で3〜4日が目安です。"},
+      {"q": "一晩常温に置いたピザは食べられますか？", "a": "食べられません。チーズやソース、肉が載ったピザは室温で2時間を超えたら、見た目やにおいが普通でも処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Pizza sobrante",
+    "aliases": ["pizza fría", "restos de pizza", "pizza a domicilio", "porciones de pizza"],
+    "summary": "La pizza que sobra, ya sea de una caja a domicilio o casera, dura 3–4 días en el refrigerador a 4 °C (40 °F) o menos si se enfrió dentro de las 2 horas. Las porciones congeladas conservan su mejor calidad 1–2 meses a −18 °C (0 °F).",
+    "pantry": "La pizza que pasó la noche en la caja sobre la mesa debe tirarse. El queso, los embutidos y la salsa son perecederos, y se aplica la regla de las 2 horas (1 hora si el ambiente supera los 32 °C / 90 °F). Si la reunión se alarga, guarda la pizza en el refrigerador en cuanto la gente deje de comer, no al final de la noche.",
+    "fridge": "Apila las porciones en un recipiente hermético o envuélvelas bien en papel aluminio o film; la caja de cartón reseca la masa y absorbe olores del refrigerador. Mantén a 4 °C (40 °F) o menos y consume en 3–4 días. Recalienta en sartén caliente, horno o freidora de aire hasta que el queso burbujee y la porción esté caliente por dentro.",
+    "freezer": "Envuelve cada porción en film, mételas en una bolsa de congelación y saca el aire. Congela a −18 °C (0 °F) y consume en 1–2 meses para que la masa y el queso conserven su textura; después siguen siendo seguras, pero la base puede quedar blanda. Congelar primero las porciones extendidas en una bandeja evita que se peguen.",
+    "thawing": "Recalienta directamente congelada en el horno a unos 190 °C (375 °F) o en freidora de aire; no hace falta descongelar. Si prefieres descongelar, hazlo en el refrigerador, nunca sobre la encimera.",
+    "spoilage": ["Olor agrio, rancio o extraño en el queso o los embutidos", "Superficie viscosa o pegajosa en los ingredientes", "Puntos de moho en la masa o el queso, aunque sean pequeños", "Ingredientes grisáceos o apagados, o masa húmeda y blanda"],
+    "tips": ["Saca la pizza de la caja de reparto antes de refrigerarla", "Anota la fecha en el recipiente o la bolsa", "Congela porciones individuales para almuerzos rápidos", "Recalienta en sartén tapada con unas gotas de agua para ablandar la masa y fundir el queso"],
+    "faq": [
+      {"q": "¿Se puede congelar la pizza sobrante?", "a": "Sí. Envuelve cada porción por separado y congélala a −18 °C (0 °F); está en su mejor punto durante 1–2 meses y se puede recalentar directamente congelada."},
+      {"q": "¿Cuánto dura la pizza en el refrigerador?", "a": "3–4 días a 4 °C (40 °F) o menos, siempre que se haya refrigerado dentro de las 2 horas posteriores a la entrega o al horneado."},
+      {"q": "¿Es seguro comer pizza que se quedó fuera toda la noche?", "a": "No. La pizza con queso, salsa o carne que ha pasado más de 2 horas a temperatura ambiente debe desecharse, aunque se vea y huela bien."}
+    ]
+  }
+}

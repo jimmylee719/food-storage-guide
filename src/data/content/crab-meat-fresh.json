@@ -1,0 +1,107 @@
+{
+  "slug": "crab-meat-fresh",
+  "en": {
+    "name": "Crab meat (fresh)",
+    "aliases": ["fresh crabmeat", "picked crab meat", "lump crab meat", "cooked crab meat"],
+    "summary": "Fresh crab meat is cooked crab that has been picked from the shell and sold chilled, usually in tubs or on ice at the fish counter. It keeps only 1–3 days in the fridge and 2–4 months in the freezer, and it should never be left at room temperature.",
+    "pantry": "Fresh crab meat is highly perishable and must not be stored at room temperature. Discard it if it has been out of the fridge for more than 2 hours, or 1 hour if the room is above 32 °C (90 °F). Get it home in an insulated bag with ice packs on hot days.",
+    "fridge": "Keep fresh crab meat in the coldest part of the fridge, at or below 4 °C (40 °F), and use it within 1–3 days. Leave it in its sealed tub, or move it to an airtight container set over a bowl of ice if your fridge runs warm. Once the container is opened, plan to eat it within a day or two.",
+    "freezer": "Fresh crab meat freezes well for 2–4 months at −18 °C (0 °F). Pack it tightly in freezer bags with the air pressed out, or in small airtight containers, and label with the date. It stays safe beyond 4 months if kept frozen, but the delicate texture and sweetness fade.",
+    "thawing": "Thaw crab meat overnight in the fridge and use it within a day. For speed, keep it sealed and submerge in cold water, changing the water every 30 minutes. Never thaw it on the counter.",
+    "spoilage": [
+      "A sour, ammonia-like or strongly fishy smell instead of a clean, sweet sea scent",
+      "Slimy or sticky surface, or liquid pooling in the container",
+      "Greyish or yellowed meat instead of white and pinkish-red",
+      "Bulging lid or hissing when the tub is opened"
+    ],
+    "tips": [
+      "Buy from a counter with fast turnover and check the packed-on or use-by date",
+      "Keep it on ice in the fridge, especially in summer or if the door is opened often",
+      "Freeze in recipe-sized portions so you only thaw what you need",
+      "Use the oldest tub first and write the date on anything you freeze"
+    ],
+    "faq": [
+      {"q": "Can you freeze fresh crab meat?", "a": "Yes. Pack it in airtight freezer bags or containers and freeze at −18 °C (0 °F). It keeps its best quality for 2–4 months."},
+      {"q": "How long does fresh crab meat last in the fridge?", "a": "Only 1–3 days at or below 4 °C (40 °F). Keep it in the coldest spot, ideally on ice, and eat it soon after opening."},
+      {"q": "How can you tell if crab meat has gone bad?", "a": "Trust your nose: a sour or ammonia smell means it is done. Slimy texture, grey or yellow colour, or a bulging container are further signs to throw it out."}
+    ]
+  },
+  "zh": {
+    "name": "蟹肉（新鮮）",
+    "aliases": ["新鮮蟹肉", "蟹肉塊", "熟蟹肉", "蟹肉罐（冷藏）", "蟹腿肉"],
+    "summary": "新鮮蟹肉是煮熟後從殼中取出的蟹肉，通常裝在冷藏盒裡或放在魚攤的冰上販售。冷藏只能放 1～3 天，冷凍可放 2～4 個月，絕對不能放在室溫下。",
+    "pantry": "新鮮蟹肉非常容易腐壞，不能放在室溫。離開冰箱超過 2 小時（室溫高於 32 °C 時超過 1 小時）就應丟棄。天氣熱時買回家路上請用保冷袋加冰袋。",
+    "fridge": "放在冰箱最冷的位置，溫度保持在 4 °C 以下，1～3 天內吃完。可以留在原本密封的盒子裡；若冰箱溫度偏高，可改裝進密封盒再放在裝冰塊的碗上。盒子開封後，最好一、兩天內吃完。",
+    "freezer": "新鮮蟹肉適合冷凍，在 −18 °C 下可保存 2～4 個月。用冷凍袋壓出空氣密封，或用小型密封盒分裝，並標上日期。超過 4 個月仍然安全，但細緻的口感和鮮甜味會逐漸流失。",
+    "thawing": "放冷藏室解凍一晚，解凍後一天內用完。趕時間可連同密封袋泡在冷水中，每 30 分鐘換水一次。切勿放在流理台上解凍。",
+    "spoilage": [
+      "出現酸味、氨味或濃烈腥味，而不是乾淨的海水鮮甜味",
+      "表面黏滑，或盒底積出液體",
+      "蟹肉變灰或發黃，失去白色帶粉紅的色澤",
+      "盒蓋鼓起，或打開時有氣體聲"
+    ],
+    "tips": [
+      "選擇周轉快的攤位或店家，並查看包裝日期或有效日期",
+      "夏天或冰箱常開關時，在冰箱裡再加冰塊保冷",
+      "依每次料理的份量分裝冷凍，要用多少解凍多少",
+      "先進先出，冷凍前一定寫上日期"
+    ],
+    "faq": [
+      {"q": "新鮮蟹肉可以冷凍嗎？", "a": "可以。用密封冷凍袋或密封盒包好，放進 −18 °C 冷凍庫，2～4 個月內風味最佳。"},
+      {"q": "新鮮蟹肉放冰箱可以放多久？", "a": "冷藏 4 °C 以下只能放 1～3 天。放在最冷的位置，最好加冰，開封後盡快吃完。"},
+      {"q": "蟹肉壞掉怎麼分辨？", "a": "先聞味道：有酸味或氨味就不能吃了。表面黏滑、顏色變灰變黃或盒蓋鼓起，也都要丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "かにのむき身（生・冷蔵）",
+    "aliases": ["カニのほぐし身", "蟹肉", "かに身", "ボイルかにむき身", "冷蔵かに"],
+    "summary": "かにのむき身は、ゆでたかにの身を殻から外し、冷蔵パックや氷の上で売られているものです。冷蔵では1〜3日、冷凍では2〜4か月が目安で、常温に置くのは禁物です。",
+    "pantry": "かにのむき身はとても傷みやすく、常温保存はできません。冷蔵庫から出して2時間（室温が32 °Cを超えるなら1時間）以上たったものは処分してください。暑い日は保冷バッグと保冷剤で持ち帰りましょう。",
+    "fridge": "冷蔵庫の最も冷える場所で4 °C以下に保ち、1〜3日以内に使い切ります。密封パックのままで構いませんが、庫内温度が高めなら密閉容器に移し、氷を入れたボウルの上に置くと安心です。開封後は1〜2日で食べ切ってください。",
+    "freezer": "−18 °Cで2〜4か月を目安に冷凍できます。冷凍用保存袋に入れて空気を抜くか、小さな密閉容器に小分けし、日付を書いておきましょう。それ以上たっても安全性は保たれますが、繊細な食感と甘みは落ちていきます。",
+    "thawing": "冷蔵庫で一晩かけて解凍し、その日のうちに使います。急ぐときは密封したまま冷水に浸け、30分ごとに水を替えてください。室温での解凍は避けましょう。",
+    "spoilage": [
+      "すっぱいにおいやアンモニア臭、強い生臭さ",
+      "表面がぬるぬる・べたべたする、容器の底に水がたまっている",
+      "白〜淡い赤色ではなく、灰色や黄色っぽく変色している",
+      "ふたが膨らんでいる、開けたときにガスが抜ける音がする"
+    ],
+    "tips": [
+      "回転の速い店で買い、加工日や消費期限を確認する",
+      "夏場や開閉の多い冷蔵庫では、氷を添えて保冷する",
+      "料理1回分ずつ小分けして冷凍し、必要な分だけ解凍する",
+      "先に買ったものから使い、冷凍する際は必ず日付を書く"
+    ],
+    "faq": [
+      {"q": "かにのむき身は冷凍できますか？", "a": "できます。冷凍用保存袋か密閉容器に入れて−18 °Cで冷凍すれば、2〜4か月はおいしく食べられます。"},
+      {"q": "かにのむき身は冷蔵庫でどのくらい持ちますか？", "a": "4 °C以下で1〜3日が目安です。最も冷える場所に置き、できれば氷を添えて、開封後は早めに食べ切ってください。"},
+      {"q": "かにの身が傷んでいるかどうかの見分け方は？", "a": "まずにおいを確かめます。酸っぱいにおいやアンモニア臭がしたら食べられません。ぬめり、灰色や黄色への変色、ふたの膨らみも処分のサインです。"}
+    ]
+  },
+  "es": {
+    "name": "Carne de cangrejo (fresca)",
+    "aliases": ["carne de cangrejo fresca", "pulpa de cangrejo", "carne de jaiba", "cangrejo desmenuzado", "centolla desmenuzada"],
+    "summary": "La carne de cangrejo fresca es cangrejo cocido y sacado del caparazón que se vende refrigerado, en tarrinas o sobre hielo en la pescadería. Solo dura 1–3 días en el refrigerador y 2–4 meses en el congelador, y nunca debe quedarse a temperatura ambiente.",
+    "pantry": "La carne de cangrejo fresca es muy perecedera y no se puede guardar a temperatura ambiente. Deséchala si lleva más de 2 horas fuera del refrigerador, o más de 1 hora si hace más de 32 °C (90 °F). En días de calor, llévala a casa en una bolsa térmica con hielo.",
+    "fridge": "Guárdala en la zona más fría del refrigerador, a 4 °C (40 °F) o menos, y consúmela en 1–3 días. Puede quedarse en su envase sellado; si tu refrigerador no enfría bien, pásala a un recipiente hermético colocado sobre un bol con hielo. Una vez abierto el envase, cómela en uno o dos días.",
+    "freezer": "Se congela bien durante 2–4 meses a −18 °C (0 °F). Envásala en bolsas de congelación sacando el aire, o en recipientes herméticos pequeños, y anota la fecha. Sigue siendo segura pasados los 4 meses si se mantiene congelada, pero pierde su textura delicada y su dulzor.",
+    "thawing": "Descongélala en el refrigerador durante la noche y úsala en un día. Si tienes prisa, sumérgela bien cerrada en agua fría, cambiando el agua cada 30 minutos. Nunca la descongeles sobre la encimera.",
+    "spoilage": [
+      "Olor agrio, a amoníaco o muy fuerte a pescado en lugar de un aroma limpio a mar",
+      "Superficie viscosa o pegajosa, o líquido acumulado en el envase",
+      "Carne grisácea o amarillenta en vez de blanca con tonos rojizos",
+      "Tapa abombada o silbido al abrir el envase"
+    ],
+    "tips": [
+      "Cómprala en un puesto con mucha rotación y revisa la fecha de envasado o de caducidad",
+      "Mantenla sobre hielo dentro del refrigerador, sobre todo en verano",
+      "Congela en porciones del tamaño de una receta para descongelar solo lo necesario",
+      "Usa primero el envase más antiguo y etiqueta con la fecha todo lo que congeles"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la carne de cangrejo fresca?", "a": "Sí. Envásala en bolsas o recipientes herméticos y congélala a −18 °C (0 °F). Conserva su mejor calidad durante 2–4 meses."},
+      {"q": "¿Cuánto dura la carne de cangrejo fresca en el refrigerador?", "a": "Solo 1–3 días a 4 °C (40 °F) o menos. Guárdala en la zona más fría, idealmente sobre hielo, y cómela pronto después de abrirla."},
+      {"q": "¿Cómo saber si la carne de cangrejo está mala?", "a": "Confía en tu olfato: un olor agrio o a amoníaco significa que hay que tirarla. La textura viscosa, el color gris o amarillo y el envase abombado son otras señales claras."}
+    ]
+  }
+}

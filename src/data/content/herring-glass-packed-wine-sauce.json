@@ -1,0 +1,107 @@
+{
+  "slug": "herring-glass-packed-wine-sauce",
+  "en": {
+    "name": "Herring in wine sauce (jarred)",
+    "aliases": ["pickled herring", "herring in wine sauce", "marinated herring", "jarred herring", "rollmops"],
+    "summary": "Herring in wine sauce is pickled herring fillets sold in glass jars from the refrigerated case, cured in a vinegar, wine and spice brine. Keep the jar refrigerated and it lasts 4–6 months from purchase. USDA gives no freezer timeline, and freezing is not recommended because the brine and texture suffer.",
+    "pantry": "Although it comes in a sealed jar, refrigerated pickled herring is not shelf-stable and must be kept cold. Take it out only to serve and put it back within 2 hours, or 1 hour if the room is above 32 °C (90 °F). Do not store the jar in a cupboard.",
+    "fridge": "Keep the jar at or below 4 °C (40 °F) and use it within 4–6 months of purchase, checking the printed date. Once opened, keep the fillets fully submerged in the brine, reseal the lid tightly, and always use a clean fork to remove pieces. Store it on a shelf rather than in the door so the temperature stays steady.",
+    "freezer": "USDA gives no freezer timeline for jarred herring in wine sauce, and freezing is not recommended. The vinegar brine and onions separate, the fillets turn mushy, and a full glass jar can crack as the liquid expands. With 4–6 months of fridge life, freezing is rarely necessary.",
+    "thawing": null,
+    "spoilage": [
+      "Cloudy, slimy or stringy brine, or bubbles and fizzing when opened",
+      "Sour-rotten or ammonia smell beyond the normal sharp vinegar tang",
+      "Fillets that are mushy, grey or falling apart",
+      "Bulging lid, mould on the surface or around the rim"
+    ],
+    "tips": [
+      "Buy from the refrigerated section and check the use-by date on the lid",
+      "Keep the fish under the brine; top up with a little vinegar if the level drops",
+      "Use a clean utensil each time so you do not introduce bacteria into the jar",
+      "Write the opening date on the lid and aim to finish opened jars within a few weeks for best flavour"
+    ],
+    "faq": [
+      {"q": "Can you freeze herring in wine sauce?", "a": "It is not recommended. The brine separates, the fillets go mushy and a glass jar may crack. It keeps 4–6 months in the fridge, so freezing is unnecessary."},
+      {"q": "How long does jarred pickled herring last in the fridge?", "a": "4–6 months from purchase at or below 4 °C (40 °F), as long as the fillets stay submerged in brine and the lid is kept tightly closed."},
+      {"q": "Does herring in wine sauce need to be refrigerated?", "a": "Yes. It is sold from the refrigerated case and must stay cold before and after opening; it is not a shelf-stable canned product."}
+    ]
+  },
+  "zh": {
+    "name": "酒漬鯡魚（玻璃罐裝）",
+    "aliases": ["醃鯡魚", "酒醋漬鯡魚", "北歐醃漬鯡魚", "鯡魚罐", "醃青魚"],
+    "summary": "酒漬鯡魚是用醋、酒和香料滷汁醃製的鯡魚片，裝在玻璃罐裡放在冷藏櫃販售。整罐冷藏保存，自購買日起可放 4～6 個月。美國農業部沒有提供冷凍期限，也不建議冷凍，因為滷汁和口感都會變差。",
+    "pantry": "雖然是密封玻璃罐，冷藏販售的醃鯡魚並不是常溫保存的食品，必須保持低溫。拿出來上桌後 2 小時內要放回冰箱，室溫高於 32 °C 時 1 小時內。不要把罐子放在櫥櫃裡。",
+    "fridge": "罐子放在 4 °C 以下冷藏，購買後 4～6 個月內吃完，並查看包裝上的日期。開封後讓魚片完全浸在滷汁裡，蓋子鎖緊，每次都用乾淨的叉子夾取。放在層架上而不是冰箱門邊，溫度比較穩定。",
+    "freezer": "美國農業部沒有提供罐裝酒漬鯡魚的冷凍期限，也不建議冷凍。醋滷汁和洋蔥會分離、魚片變軟爛，滿罐的玻璃瓶還可能因液體膨脹而裂開。冷藏可以放 4～6 個月，其實沒有冷凍的必要。",
+    "thawing": null,
+    "spoilage": [
+      "滷汁變混濁、黏稠或拉絲，開罐時冒泡或有氣體聲",
+      "除了正常的醋酸味之外，出現腐酸味或氨味",
+      "魚片軟爛、變灰或散開",
+      "蓋子鼓起，表面或瓶口有黴"
+    ],
+    "tips": [
+      "在冷藏區購買，並查看蓋子上的有效日期",
+      "讓魚片一直浸在滷汁下，液面下降可以補一點醋",
+      "每次都用乾淨的餐具取用，避免把細菌帶進罐子裡",
+      "開封時在蓋子寫日期，開封後盡量幾週內吃完風味最好"
+    ],
+    "faq": [
+      {"q": "酒漬鯡魚可以冷凍嗎？", "a": "不建議。滷汁會分離、魚片會軟爛，玻璃罐還可能裂開。冷藏可以放 4～6 個月，不需要冷凍。"},
+      {"q": "罐裝醃鯡魚放冰箱可以放多久？", "a": "自購買日起 4～6 個月，冷藏 4 °C 以下，只要魚片一直浸在滷汁裡、蓋子鎖緊即可。"},
+      {"q": "酒漬鯡魚一定要冷藏嗎？", "a": "一定要。它是放在冷藏櫃販售的，開封前後都要保持低溫，不是常溫保存的罐頭。"}
+    ]
+  },
+  "ja": {
+    "name": "ニシンのワインソース漬け（瓶詰）",
+    "aliases": ["ニシンの酢漬け", "ニシンのマリネ", "ピクルドヘリング", "瓶詰ニシン", "ロールモップス"],
+    "summary": "ニシンのワインソース漬けは、酢とワインと香辛料の漬け汁で漬けたニシンの切り身で、瓶詰にして冷蔵ケースで売られています。瓶ごと冷蔵すれば購入から4〜6か月持ちます。USDAは冷凍期間を示しておらず、漬け汁と食感が損なわれるため冷凍はおすすめしません。",
+    "pantry": "密封された瓶入りでも、冷蔵で売られているニシンの酢漬けは常温保存できず、常に冷やしておく必要があります。食卓に出したら2時間以内（室温32 °C超なら1時間以内）に冷蔵庫へ戻してください。戸棚には入れないでください。",
+    "fridge": "瓶を4 °C以下で冷蔵し、表示の期限を確認しながら購入から4〜6か月以内に使い切ります。開封後は切り身が漬け汁に完全に浸かった状態を保ち、ふたをしっかり閉め、取り出すときは必ず清潔なフォークを使います。温度が安定するようドアポケットではなく棚に置きましょう。",
+    "freezer": "USDAは瓶詰ニシンのワインソース漬けの冷凍期間を示しておらず、冷凍はおすすめしません。酢の漬け汁と玉ねぎが分離し、切り身がぐずぐずになり、液体が膨張して満杯のガラス瓶が割れることもあります。冷蔵で4〜6か月持つので、冷凍する必要はほとんどありません。",
+    "thawing": null,
+    "spoilage": [
+      "漬け汁が濁っている、ぬるぬる・糸を引く、開けると泡立つ・ガスが抜ける",
+      "本来の酢の酸味を超えた、腐ったような酸っぱさやアンモニア臭",
+      "切り身がぐずぐず、灰色、崩れている",
+      "ふたが膨らんでいる、表面や瓶の口にカビがある"
+    ],
+    "tips": [
+      "冷蔵コーナーで買い、ふたの期限表示を確認する",
+      "魚は常に漬け汁の下に沈め、液面が下がったら少量の酢を足す",
+      "毎回清潔な器具を使い、瓶の中に雑菌を持ち込まない",
+      "開封日をふたに書き、開封後は数週間以内に食べ切ると風味が良い"
+    ],
+    "faq": [
+      {"q": "ニシンのワインソース漬けは冷凍できますか？", "a": "おすすめしません。漬け汁が分離し、切り身がぐずぐずになり、ガラス瓶が割れることもあります。冷蔵で4〜6か月持つので冷凍は不要です。"},
+      {"q": "瓶詰のニシンの酢漬けは冷蔵庫でどのくらい持ちますか？", "a": "4 °C以下で購入から4〜6か月です。切り身を漬け汁に浸したまま、ふたをしっかり閉めておくことが条件です。"},
+      {"q": "ニシンのワインソース漬けは冷蔵が必要ですか？", "a": "はい。冷蔵ケースで売られている商品で、開封前も後も冷やしておく必要があります。常温保存できる缶詰ではありません。"}
+    ]
+  },
+  "es": {
+    "name": "Arenque en salsa de vino (en frasco)",
+    "aliases": ["arenque en escabeche", "arenque marinado", "arenque encurtido", "arenque en frasco", "rollmops"],
+    "summary": "El arenque en salsa de vino son filetes de arenque encurtidos en una salmuera de vinagre, vino y especias, vendidos en frascos de vidrio desde la vitrina refrigerada. Mantén el frasco en el refrigerador y durará 4–6 meses desde la compra. El USDA no da un plazo de congelación, y congelarlo no es recomendable porque la salmuera y la textura se estropean.",
+    "pantry": "Aunque venga en un frasco sellado, el arenque encurtido refrigerado no es un producto de estante y debe mantenerse frío. Sácalo solo para servir y devuélvelo al refrigerador en menos de 2 horas, o 1 hora si hace más de 32 °C (90 °F). No guardes el frasco en la despensa.",
+    "fridge": "Mantén el frasco a 4 °C (40 °F) o menos y úsalo en 4–6 meses desde la compra, revisando la fecha impresa. Una vez abierto, deja los filetes completamente cubiertos por la salmuera, cierra bien la tapa y usa siempre un tenedor limpio para sacar los trozos. Guárdalo en un estante y no en la puerta, para que la temperatura sea estable.",
+    "freezer": "El USDA no da un plazo de congelación para el arenque en salsa de vino en frasco, y congelarlo no es recomendable. La salmuera de vinagre y la cebolla se separan, los filetes quedan pastosos y un frasco de vidrio lleno puede romperse al expandirse el líquido. Con 4–6 meses de vida en el refrigerador, rara vez hace falta congelarlo.",
+    "thawing": null,
+    "spoilage": [
+      "Salmuera turbia, viscosa o filamentosa, o burbujas y efervescencia al abrir",
+      "Olor agrio-podrido o a amoníaco más allá del toque ácido normal del vinagre",
+      "Filetes pastosos, grises o que se deshacen",
+      "Tapa abombada, moho en la superficie o en el borde del frasco"
+    ],
+    "tips": [
+      "Cómpralo en la sección refrigerada y revisa la fecha de caducidad de la tapa",
+      "Mantén el pescado bajo la salmuera; añade un poco de vinagre si baja el nivel",
+      "Usa un utensilio limpio cada vez para no introducir bacterias en el frasco",
+      "Anota la fecha de apertura en la tapa y procura terminar los frascos abiertos en pocas semanas para el mejor sabor"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el arenque en salsa de vino?", "a": "No es recomendable. La salmuera se separa, los filetes quedan pastosos y el frasco de vidrio puede romperse. Dura 4–6 meses en el refrigerador, así que congelarlo es innecesario."},
+      {"q": "¿Cuánto dura el arenque encurtido en frasco en el refrigerador?", "a": "4–6 meses desde la compra a 4 °C (40 °F) o menos, siempre que los filetes queden cubiertos por la salmuera y la tapa esté bien cerrada."},
+      {"q": "¿El arenque en salsa de vino necesita refrigeración?", "a": "Sí. Se vende en la vitrina refrigerada y debe mantenerse frío antes y después de abrirlo; no es una conserva de estante."}
+    ]
+  }
+}

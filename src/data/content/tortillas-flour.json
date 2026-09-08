@@ -1,0 +1,107 @@
+{
+  "slug": "tortillas-flour",
+  "en": {
+    "name": "Flour tortillas",
+    "aliases": ["wheat tortillas", "wraps", "soft tortillas", "burrito wraps"],
+    "summary": "Flour tortillas are soft flatbreads made from wheat flour and fat, sold in sealed packs for wraps, burritos and quesadillas. Unopened they keep about 3 months in the pantry from the date of purchase, and about 3 months in the fridge once opened. Frozen at −18 °C (0 °F) they keep about 6 months.",
+    "pantry": "Keep unopened packs in a cool, dry cupboard away from the stove; they last about 3 months from purchase. Once you open the pack, press the air out and reseal it tightly, because exposed tortillas dry at the edges within a day. In a hot, humid kitchen mould appears faster, so move an opened pack to the fridge rather than leaving it out.",
+    "fridge": "The fridge is the safest place for an opened pack: at 4 °C (40 °F) or below they keep about 3 months. Store them flat in a zip bag or the original resealable pack so the stack does not curl, and keep them away from strong-smelling foods. Cold tortillas crack when folded, so warm them briefly before rolling.",
+    "freezer": "Tortillas freeze very well. Slip a sheet of baking paper between every few tortillas so you can pull off just what you need, seal in a freezer bag with the air pressed out, and freeze at −18 °C (0 °F) for about 6 months for the best quality.",
+    "thawing": "Thaw a stack in the fridge overnight, or peel off individual frozen tortillas and warm them straight in a dry pan for 20–30 seconds a side. Do not leave a whole pack thawing on the counter for hours.",
+    "spoilage": [
+      "Grey, green or black mould spots, especially near the centre of the stack",
+      "Sour or fermented smell when the pack is opened",
+      "Stiff, cracking edges that break instead of folding",
+      "Slimy or sticky feel between tortillas"
+    ],
+    "tips": [
+      "Reseal the pack with a clip and lay it flat so the tortillas stay round",
+      "Warm tortillas in a dry pan, not the microwave, to keep them pliable",
+      "Freeze half the pack straight away if you only use two or three at a time",
+      "Write the opening date on the pack so you can track the 3-month fridge window"
+    ],
+    "faq": [
+      {"q": "Can you freeze flour tortillas?", "a": "Yes. Layer them with baking paper, seal in a freezer bag and freeze at −18 °C (0 °F) for about 6 months. Individual tortillas can go straight from freezer to hot pan."},
+      {"q": "How can you tell if tortillas have gone bad?", "a": "Look for mould spots, a sour smell or a slimy surface. Tortillas that are only dry and stiff are stale rather than unsafe, but they will not roll well."},
+      {"q": "Do flour tortillas need to be refrigerated?", "a": "Unopened packs are fine in the pantry for about 3 months. After opening, refrigerate them at 4 °C (40 °F) or below, where they keep about 3 months."}
+    ]
+  },
+  "zh": {
+    "name": "墨西哥薄餅（麵粉）",
+    "aliases": ["墨西哥餅皮", "小麥薄餅", "捲餅皮", "塔可餅皮", "tortilla"],
+    "summary": "麵粉墨西哥薄餅是用小麥粉和油脂做成的軟餅皮，通常密封包裝販售，用來做捲餅、墨西哥夾餅。未開封常溫可從購買日起放約 3 個月，開封後冷藏也大約 3 個月。放 −18°C 冷凍則可保存約 6 個月。",
+    "pantry": "未開封的包裝放在陰涼乾燥的櫥櫃、遠離爐火，從購買日起約可放 3 個月。開封後要把空氣擠出、確實封好，因為暴露在空氣中一天邊緣就會變乾。廚房又熱又濕時發霉更快，開封後建議直接改放冰箱，不要放在檯面上。",
+    "fridge": "開封後放冰箱最保險，4°C 以下大約可放 3 個月。用夾鏈袋或原本的可封口包裝平放，餅皮才不會捲邊，也要避開味道重的食物。冰過的餅皮一折就裂，包捲前先稍微加熱會好很多。",
+    "freezer": "薄餅很適合冷凍。每隔幾張夾一張烘焙紙，方便一次只取需要的份量，裝進冷凍袋擠出空氣密封，放 −18°C 冷凍約 6 個月品質最佳。",
+    "thawing": "整疊放冷藏室退冰一晚，或直接取出冷凍的單張薄餅，用乾鍋每面加熱 20～30 秒。不要把整包放在室溫退冰好幾個小時。",
+    "spoilage": [
+      "出現灰色、綠色或黑色黴斑，尤其常在整疊的中間",
+      "打開包裝有酸味或發酵的味道",
+      "邊緣變硬，折起來就裂開",
+      "餅皮之間摸起來黏滑"
+    ],
+    "tips": [
+      "開封後用封口夾夾好並平放，餅皮才不會變形",
+      "用乾鍋加熱比微波更能保持柔軟度",
+      "一次只用兩三張的話，開封當天就先冷凍一半",
+      "在包裝上寫開封日期，方便追蹤冷藏的 3 個月期限"
+    ],
+    "faq": [
+      {"q": "墨西哥薄餅可以冷凍嗎？", "a": "可以。中間夾烘焙紙、裝冷凍袋密封，放 −18°C 冷凍約 6 個月。單張可以從冷凍直接下鍋加熱。"},
+      {"q": "怎麼知道墨西哥薄餅壞掉了？", "a": "看有沒有黴斑、聞有沒有酸味、摸有沒有黏滑感。只是變乾變硬的話是不新鮮，不算不安全，但會不好包捲。"},
+      {"q": "墨西哥薄餅需要冷藏嗎？", "a": "未開封放常溫約 3 個月就好。開封後請放 4°C 以下冷藏，大約可再放 3 個月。"}
+    ]
+  },
+  "ja": {
+    "name": "小麦のトルティーヤ",
+    "aliases": ["フラワートルティーヤ", "トルティーヤ", "ラップ生地", "ブリトー用生地"],
+    "summary": "小麦のトルティーヤは小麦粉と油脂で作る薄い生地で、ラップサンドやブリトー、ケサディーヤに使われます。未開封なら常温で購入日から約3か月、開封後は冷蔵で約3か月が目安です。−18℃で冷凍すれば約6か月保存できます。",
+    "pantry": "未開封のパックはコンロから離れた涼しく乾燥した戸棚へ。購入日から約3か月が目安です。開封したら空気を抜いてしっかり封をしてください。むき出しのままだと1日で縁が乾いてしまいます。高温多湿の時期はカビが早いので、開封後は常温に置かず冷蔵に移しましょう。",
+    "fridge": "開封後は冷蔵が安心で、4℃以下なら約3か月保存できます。ジッパー袋か元のチャック付き袋に入れて平らに置き、反り返らないようにします。においの強い食品からは離してください。冷えたまま折ると割れるので、巻く前に軽く温めましょう。",
+    "freezer": "トルティーヤは冷凍向きです。数枚ごとにクッキングシートを挟んでおくと必要な分だけ取り出せます。冷凍用袋の空気を抜いて密封し、−18℃で冷凍すれば約6か月おいしく保てます。",
+    "thawing": "重ねたまま冷蔵庫で一晩解凍するか、凍った1枚をはがしてフライパンで片面20〜30秒ずつ温めます。パックごと室温に何時間も置くのは避けてください。",
+    "spoilage": [
+      "灰色・緑・黒のカビの点（重ねた中心部に出やすい）",
+      "袋を開けたときの酸っぱい、発酵したようなにおい",
+      "縁が固くなり、折るとひび割れる",
+      "生地どうしがぬめってベタつく"
+    ],
+    "tips": [
+      "開封後はクリップで閉じ、平らに置いて形をキープ",
+      "電子レンジよりフライパンで温めたほうがしなやかさが残ります",
+      "1回に2〜3枚しか使わないなら、開封日に半分を冷凍",
+      "パックに開封日を書いて、冷蔵3か月の期限を管理しましょう"
+    ],
+    "faq": [
+      {"q": "トルティーヤは冷凍できますか？", "a": "できます。クッキングシートを挟んで冷凍用袋で密封し、−18℃で約6か月。1枚ずつ凍ったままフライパンで温められます。"},
+      {"q": "トルティーヤが傷んだかどう見分けますか？", "a": "カビの点、酸っぱいにおい、表面のぬめりを確認してください。乾いて固いだけなら劣化であって危険ではありませんが、巻きにくくなります。"},
+      {"q": "トルティーヤは冷蔵が必要ですか？", "a": "未開封なら常温で約3か月で大丈夫です。開封後は4℃以下で冷蔵し、約3か月を目安に使い切ってください。"}
+    ]
+  },
+  "es": {
+    "name": "Tortillas de harina",
+    "aliases": ["tortillas de trigo", "wraps", "tortillas para burrito", "tortillas de harina de trigo"],
+    "summary": "Las tortillas de harina son panes planos y blandos de trigo y grasa, que se venden en paquetes sellados para wraps, burritos y quesadillas. Sin abrir duran unos 3 meses en la despensa desde la compra y unos 3 meses en la nevera una vez abiertas. Congeladas a −18 °C (0 °F) se conservan unos 6 meses.",
+    "pantry": "Guarda los paquetes cerrados en un armario fresco y seco, lejos de los fogones: duran unos 3 meses desde la compra. Al abrir el paquete, saca el aire y ciérralo bien, porque las tortillas expuestas se resecan por los bordes en un día. En cocinas cálidas y húmedas el moho aparece antes, así que pasa el paquete abierto a la nevera en lugar de dejarlo fuera.",
+    "fridge": "La nevera es el mejor sitio para un paquete abierto: a 4 °C (40 °F) o menos duran unos 3 meses. Consérvalas planas en una bolsa con cierre o en su envase original para que no se curven, y lejos de alimentos con olor fuerte. Frías se agrietan al doblarlas, así que caliéntalas un momento antes de enrollarlas.",
+    "freezer": "Las tortillas se congelan muy bien. Intercala papel de horno cada pocas unidades para poder sacar solo las que necesites, ciérralas en una bolsa de congelación sin aire y congélalas a −18 °C (0 °F) unos 6 meses para una calidad óptima.",
+    "thawing": "Descongela el paquete en la nevera durante la noche, o separa tortillas congeladas y caliéntalas directamente en una sartén seca 20–30 segundos por lado. No dejes el paquete entero descongelándose horas en la encimera.",
+    "spoilage": [
+      "Manchas de moho gris, verde o negro, sobre todo en el centro del paquete",
+      "Olor agrio o fermentado al abrir el envase",
+      "Bordes rígidos que se quiebran en lugar de doblarse",
+      "Tacto viscoso o pegajoso entre tortillas"
+    ],
+    "tips": [
+      "Cierra el paquete con una pinza y guárdalo plano para que no se deformen",
+      "Caliéntalas en sartén seca, no en el microondas, para que sigan flexibles",
+      "Congela media bolsa nada más abrirla si solo usas dos o tres a la vez",
+      "Apunta la fecha de apertura para controlar los 3 meses en nevera"
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las tortillas de harina?", "a": "Sí. Sepáralas con papel de horno, ciérralas en una bolsa de congelación y congélalas a −18 °C (0 °F) unos 6 meses. Puedes pasarlas del congelador a la sartén."},
+      {"q": "¿Cómo saber si las tortillas están malas?", "a": "Busca manchas de moho, olor agrio o superficie viscosa. Si solo están secas y rígidas están pasadas, no necesariamente en mal estado, pero se romperán al enrollarlas."},
+      {"q": "¿Las tortillas de harina necesitan refrigeración?", "a": "Sin abrir aguantan unos 3 meses en la despensa. Una vez abiertas, refrigéralas a 4 °C (40 °F) o menos, donde duran unos 3 meses."}
+    ]
+  }
+}

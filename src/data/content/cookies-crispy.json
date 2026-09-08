@@ -1,0 +1,107 @@
+{
+  "slug": "cookies-crispy",
+  "en": {
+    "name": "Crispy cookies",
+    "aliases": ["crunchy cookies", "biscuits", "shortbread", "wafers", "crisp biscuits"],
+    "summary": "Crispy cookies and biscuits, such as shortbread, ginger snaps, wafers and butter cookies, are low in moisture, which is why they keep so well. Unopened packages last 4–6 months in the pantry from the date of purchase, and they can be frozen for 8–12 months. Keeping out moisture is the whole game.",
+    "pantry": "Store crispy cookies in a cool, dry cupboard away from the stove and sunlight; unopened they keep 4–6 months from purchase. After opening, move them to an airtight tin or jar right away, because humidity turns them soft within a day or two. Homemade crisp cookies keep 1–2 weeks in an airtight container.",
+    "fridge": "The fridge is not a good place for crispy cookies: the humid air makes them go soft and they pick up odours. Only refrigerate cookies that have a perishable filling or coating, and in that case keep them at 4 °C (40 °F) or below.",
+    "freezer": "Crispy cookies freeze well as long as they are packed airtight. Layer them with baking paper in a rigid container so they do not break, seal well and freeze at −18 °C (0 °F) for 8–12 months for the best flavour. Iced or chocolate-coated cookies may lose some shine after freezing.",
+    "thawing": "Thaw crispy cookies uncovered at room temperature for 15–30 minutes so surface moisture can evaporate, then crisp them for a few minutes in a low oven if needed. No special safety precautions are required.",
+    "spoilage": [
+      "Soft, limp or chewy texture instead of a clean snap",
+      "Rancid or stale smell from old butter or oil",
+      "Off, bitter or cardboard-like taste",
+      "Mould or damp spots, usually after moisture has got into the package"
+    ],
+    "tips": [
+      "Add a food-safe silica packet or a sugar cube to the tin to absorb moisture",
+      "Keep crispy cookies away from soft cookies and cakes, which release moisture",
+      "Buy in package sizes you will finish within a few weeks of opening",
+      "Revive slightly soft cookies by baking them at 150 °C (300 °F) for 3–5 minutes"
+    ],
+    "faq": [
+      {"q": "Can you freeze crispy cookies?", "a": "Yes. Packed airtight in a rigid container at −18 °C (0 °F), they keep 8–12 months for best quality. Thaw uncovered and re-crisp in a low oven."},
+      {"q": "How long do crispy cookies last?", "a": "Unopened packages keep 4–6 months from purchase in a cool, dry pantry. Once opened, use them within a few weeks and keep them airtight."},
+      {"q": "Do crispy cookies need to be refrigerated?", "a": "No. Refrigeration makes them soft. Keep them at room temperature in an airtight container unless they have a perishable filling."}
+    ]
+  },
+  "zh": {
+    "name": "脆餅乾",
+    "aliases": ["酥脆餅乾", "奶油酥餅", "薄餅", "曲奇", "餅乾"],
+    "summary": "脆餅乾像奶油酥餅、薑餅、威化餅、奶油小西餅等，水分含量低，所以特別耐放。市售未開封可從購買日起常溫保存 4～6 個月，冷凍可放 8～12 個月。保存的重點只有一個：防潮。",
+    "pantry": "把脆餅乾放在陰涼乾燥的櫥櫃，遠離爐火和陽光，未開封可從購買日起放 4～6 個月。開封後要馬上改放密封罐或夾鏈袋，台灣氣候潮濕，放一兩天就會軟掉。自製的脆餅乾放密封罐大約可以保存 1～2 週。",
+    "fridge": "冰箱不適合放脆餅乾，裡面的濕氣會讓餅乾軟掉，還會吸附冰箱味道。只有夾餡或塗層容易壞的餅乾才需要冷藏，這種情況請放在 4°C 以下。",
+    "freezer": "只要包裝夠密封，脆餅乾也可以冷凍。用烘焙紙隔層放進硬盒子以免壓碎，封好後放 −18°C 冷凍，8～12 個月內風味最好。有糖霜或巧克力塗層的餅乾冷凍後可能會失去光澤。",
+    "thawing": "冷凍脆餅乾不加蓋放在室溫 15～30 分鐘，讓表面水氣散掉，需要的話再用烤箱低溫回烤幾分鐘。沒有特別的食安注意事項。",
+    "spoilage": [
+      "口感變軟、變韌，咬下去不再清脆",
+      "奶油或油脂變質產生的油耗味",
+      "吃起來有苦味、怪味或像紙板的味道",
+      "出現黴斑或潮濕的斑點，通常是包裝受潮造成"
+    ],
+    "tips": [
+      "罐子裡放一包食品用乾燥劑或一顆方糖，幫助吸濕",
+      "脆餅乾要和軟餅乾、蛋糕分開放，因為它們會釋放水氣",
+      "買開封後幾週內吃得完的份量就好",
+      "稍微軟掉的餅乾用 150°C 烤 3～5 分鐘就能恢復酥脆"
+    ],
+    "faq": [
+      {"q": "脆餅乾可以冷凍嗎？", "a": "可以。密封裝進硬盒子放 −18°C 冷凍，8～12 個月內品質最好。退冰時不要加蓋，再用烤箱低溫回烤即可。"},
+      {"q": "脆餅乾可以放多久？", "a": "未開封放在陰涼乾燥處，可從購買日起保存 4～6 個月。開封後密封保存，幾週內吃完。"},
+      {"q": "脆餅乾需要放冰箱嗎？", "a": "不需要，冰過反而會軟掉。除非有容易壞的內餡，否則放密封罐常溫保存就好。"}
+    ]
+  },
+  "ja": {
+    "name": "クッキー（サクサクタイプ）",
+    "aliases": ["ビスケット", "ショートブレッド", "ウエハース", "バタークッキー", "クラッカー"],
+    "summary": "ショートブレッドやジンジャースナップ、ウエハース、バタークッキーなどのサクサク系クッキーは水分が少ないため、とても日持ちします。市販の未開封品は常温で購入日から4〜6か月、冷凍なら8〜12か月保存できます。ポイントはとにかく湿気を防ぐことです。",
+    "pantry": "コンロや直射日光から離れた、涼しく乾燥した戸棚で保存します。未開封なら購入日から4〜6か月が目安です。開封後は湿気で1〜2日で柔らかくなってしまうので、すぐに密閉缶や密閉瓶に移してください。手作りのサクサククッキーは密閉容器で1〜2週間ほど持ちます。",
+    "fridge": "冷蔵庫はサクサククッキーには不向きです。庫内の湿気で食感が失われ、においも移ります。傷みやすいフィリングやコーティングのあるクッキーだけ、4℃以下で冷蔵してください。",
+    "freezer": "しっかり密閉すれば冷凍もできます。割れないように硬めの容器にクッキングシートを挟みながら重ね、密閉して−18℃で冷凍すれば8〜12か月は風味が保てます。アイシングやチョコがけのクッキーは、冷凍後にツヤが落ちることがあります。",
+    "thawing": "冷凍したクッキーはふたを開けたまま室温に15〜30分置き、表面の水分を飛ばします。必要なら低温のオーブンで数分焼き直すとサクサク感が戻ります。安全面で特別な注意は不要です。",
+    "spoilage": [
+      "サクッと割れず、しなっとして噛みごたえが変わっている",
+      "古いバターや油の酸化したにおい",
+      "苦味や異味、段ボールのような味がする",
+      "カビや湿った斑点がある（包装に湿気が入った場合に多い）"
+    ],
+    "tips": [
+      "缶に食品用の乾燥剤か角砂糖を入れておくと湿気を吸ってくれます",
+      "水分を出すソフトクッキーやケーキとは一緒にしないこと",
+      "開封後数週間で食べ切れるサイズを選びましょう",
+      "少し湿気たら150℃のオーブンで3〜5分焼くとサクサクに戻ります"
+    ],
+    "faq": [
+      {"q": "サクサクのクッキーは冷凍できますか？", "a": "できます。硬めの容器に密閉して−18℃で冷凍すれば8〜12か月はおいしく保てます。ふたを開けて解凍し、低温のオーブンで焼き直すとよいでしょう。"},
+      {"q": "クッキーはどのくらい日持ちしますか？", "a": "未開封なら涼しく乾燥した場所で購入日から4〜6か月。開封後は密閉して数週間以内に食べ切ってください。"},
+      {"q": "クッキーは冷蔵庫に入れるべきですか？", "a": "いいえ。冷蔵すると湿気て柔らかくなります。傷みやすいフィリングがない限り、密閉容器で常温保存してください。"}
+    ]
+  },
+  "es": {
+    "name": "Galletas crujientes",
+    "aliases": ["galletas secas", "galletas de mantequilla", "shortbread", "barquillos", "galletitas crocantes"],
+    "summary": "Las galletas crujientes, como las de mantequilla, las de jengibre, los barquillos o el shortbread, tienen poca humedad y por eso se conservan tan bien. Los paquetes sin abrir duran 4–6 meses en la despensa desde la compra, y pueden congelarse 8–12 meses. Todo consiste en mantener la humedad fuera.",
+    "pantry": "Guarda las galletas crujientes en un armario fresco y seco, lejos de los fogones y del sol; sin abrir duran 4–6 meses desde la compra. Al abrirlas, pásalas enseguida a una lata o frasco hermético, porque la humedad las ablanda en uno o dos días. Las caseras crujientes se mantienen 1–2 semanas en un recipiente hermético.",
+    "fridge": "La nevera no es buen sitio para las galletas crujientes: el aire húmedo las ablanda y absorben olores. Refrigera solo las que tengan un relleno o cobertura perecedera, y en ese caso mantenlas a 4 °C (40 °F) o menos.",
+    "freezer": "Las galletas crujientes se congelan bien si están envasadas herméticamente. Colócalas en capas con papel de horno dentro de un recipiente rígido para que no se rompan, ciérralo bien y congélalas a −18 °C (0 °F) durante 8–12 meses para conservar el sabor. Las glaseadas o bañadas en chocolate pueden perder algo de brillo tras congelarse.",
+    "thawing": "Descongela las galletas destapadas a temperatura ambiente durante 15–30 minutos para que se evapore la humedad superficial y, si hace falta, tuéstalas unos minutos en el horno a baja temperatura. No requiere precauciones especiales de seguridad.",
+    "spoilage": [
+      "Textura blanda, flácida o correosa en lugar de un crujido limpio",
+      "Olor rancio o pasado por la mantequilla o el aceite envejecidos",
+      "Sabor extraño, amargo o a cartón",
+      "Moho o manchas húmedas, normalmente cuando ha entrado humedad en el envase"
+    ],
+    "tips": [
+      "Pon un sobre desecante apto para alimentos o un terrón de azúcar en la lata para absorber humedad",
+      "Mantén las galletas crujientes lejos de las blandas y de los bizcochos, que sueltan humedad",
+      "Compra envases que vayas a terminar en pocas semanas después de abrirlos",
+      "Recupera las galletas algo blandas horneándolas a 150 °C (300 °F) durante 3–5 minutos"
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las galletas crujientes?", "a": "Sí. Bien cerradas en un recipiente rígido a −18 °C (0 °F), duran 8–12 meses con buena calidad. Descongélalas destapadas y tuéstalas en el horno a baja temperatura."},
+      {"q": "¿Cuánto duran las galletas crujientes?", "a": "Los paquetes sin abrir duran 4–6 meses desde la compra en una despensa fresca y seca. Una vez abiertos, consúmelas en pocas semanas y mantenlas bien cerradas."},
+      {"q": "¿Las galletas crujientes necesitan refrigeración?", "a": "No. La nevera las ablanda. Guárdalas a temperatura ambiente en un recipiente hermético, salvo que tengan un relleno perecedero."}
+    ]
+  }
+}

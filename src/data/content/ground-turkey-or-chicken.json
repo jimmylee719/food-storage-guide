@@ -1,0 +1,107 @@
+{
+  "slug": "ground-turkey-or-chicken",
+  "en": {
+    "name": "Ground turkey or chicken",
+    "aliases": ["minced chicken", "minced turkey", "chicken mince", "turkey mince", "ground poultry"],
+    "summary": "Ground turkey and ground chicken are among the most perishable items in the meat case, because grinding spreads surface bacteria through the whole batch. Keep them in the fridge for no more than 1 to 2 days from purchase, or freeze them for 3 to 4 months of best quality.",
+    "pantry": "Ground poultry must never be left at room temperature. In the danger zone of 4 to 60 °C (40 to 140 °F) bacteria multiply rapidly, so discard any that has been out for more than 2 hours, or 1 hour above 32 °C (90 °F). Refrigerate or freeze it as soon as you get home.",
+    "fridge": "Store ground turkey or chicken in its tray or a sealed container on the bottom shelf of a fridge at or below 4 °C (40 °F), and cook it within 1 to 2 days of purchase. Keep it away from ready-to-eat foods and wipe up any drips. Do not rely on the date on the label if the meat has been in the fridge for more than 2 days.",
+    "freezer": "Ground poultry freezes well for 3 to 4 months at −18 °C (0 °F). Divide it into meal-sized portions, flatten them in freezer bags so they freeze and thaw quickly, and press out the air. It stays safe indefinitely when kept frozen, but after 3 to 4 months it may taste flat or develop dry, greyish freezer-burned edges.",
+    "thawing": "Thaw flat packs in the fridge overnight, or in cold water in a sealed bag, changing the water every 30 minutes and cooking right away. Microwave thawing is fine if you cook the meat immediately. Never thaw on the counter.",
+    "spoilage": [
+      "A sour, tangy or ammonia-like smell",
+      "A sticky, slimy or tacky feel on the surface",
+      "Grey, dull or greenish colour instead of pale pink",
+      "A puffed-up package or excess cloudy liquid in the tray"
+    ],
+    "tips": [
+      "Buy ground poultry that is cold to the touch, in an intact package, and cook it within 1 to 2 days",
+      "Freeze in 250–500 g (½–1 lb) flat portions labelled with the date",
+      "Cook to 74 °C (165 °F) throughout; ground poultry should show no pink",
+      "Use a separate cutting board and wash hands and tools after handling raw poultry"
+    ],
+    "faq": [
+      {"q": "Can you freeze ground turkey or chicken?", "a": "Yes. Portion it, press it flat in freezer bags and freeze at −18 °C (0 °F). Quality is best within 3 to 4 months, and it stays safe indefinitely while frozen."},
+      {"q": "How can you tell if ground chicken or turkey has gone bad?", "a": "A sour or ammonia smell, a slimy surface or a grey-green colour all mean it should be discarded. Fresh ground poultry is pale pink and smells of almost nothing."},
+      {"q": "How long does ground turkey last in the fridge?", "a": "Only 1 to 2 days from purchase at 4 °C (40 °F) or below. If you will not use it in that time, freeze it on the day you buy it."}
+    ]
+  },
+  "zh": {
+    "name": "火雞絞肉／雞絞肉",
+    "aliases": ["雞絞肉", "火雞絞肉", "雞肉末", "雞茸", "禽肉絞肉"],
+    "summary": "火雞絞肉和雞絞肉是肉櫃裡最容易腐壞的品項之一，因為絞碎的過程會把表面的細菌帶進整批肉裡。冷藏最多只能放 1 到 2 天（從購買日算起），冷凍則可以維持 3 到 4 個月的最佳品質。",
+    "pantry": "禽肉絞肉絕對不能放在室溫。在 4 到 60 °C 的危險溫度帶細菌繁殖很快，放在室溫超過 2 小時（氣溫高於 32 °C 時超過 1 小時）的絞肉就要丟掉。買回家立刻冷藏或冷凍。",
+    "fridge": "絞肉連原本的托盤或裝進密封盒，放在 4 °C 以下冷藏室的最下層，購買後 1 到 2 天內煮掉。遠離可以直接吃的食物，滴出來的肉汁要馬上擦乾淨。如果已經冷藏超過 2 天，就不要再相信包裝上的日期。",
+    "freezer": "禽肉絞肉在 −18 °C 冷凍可以保存 3 到 4 個月的最佳品質。分成一餐的份量，裝進冷凍袋壓扁，讓它冷凍和解凍都更快，並擠出空氣。持續冷凍在安全上可以放很久，但超過 3 到 4 個月風味會變淡，邊緣可能出現乾燥發灰的凍燒。",
+    "thawing": "壓扁的絞肉放冷藏室隔夜解凍，或裝在密封袋裡泡冷水，每 30 分鐘換水，解凍後馬上煮。要立刻烹調的話也可以用微波爐解凍。不要放在流理台上解凍。",
+    "spoilage": [
+      "有酸味、刺鼻味或類似氨的味道",
+      "表面黏黏滑滑的",
+      "顏色從淡粉紅變成灰色、暗沉或帶綠",
+      "包裝鼓起，或托盤裡積了很多混濁液體"
+    ],
+    "tips": [
+      "買摸起來冰涼、包裝完整的絞肉，1 到 2 天內煮完",
+      "分成 250 到 500 公克的扁平小包冷凍，並標上日期",
+      "全部煮到 74 °C，禽肉絞肉不能有粉紅色",
+      "用專用砧板處理生禽肉，處理後洗手和清洗器具"
+    ],
+    "faq": [
+      {"q": "雞絞肉或火雞絞肉可以冷凍嗎？", "a": "可以。分裝後在冷凍袋裡壓扁，放 −18 °C 冷凍，3 到 4 個月內品質最好，持續冷凍安全上可以放更久。"},
+      {"q": "雞絞肉壞掉怎麼看？", "a": "有酸味或氨味、表面黏滑、顏色變灰綠，都表示要丟掉。新鮮的禽肉絞肉是淡粉紅色，幾乎沒有味道。"},
+      {"q": "火雞絞肉放冰箱可以放多久？", "a": "4 °C 以下冷藏只能放 1 到 2 天（從購買日算起）。來不及用就在購買當天冷凍。"}
+    ]
+  },
+  "ja": {
+    "name": "鶏ひき肉・七面鳥ひき肉",
+    "aliases": ["鶏ミンチ", "鶏挽き肉", "ターキーひき肉", "鶏むねひき肉", "鶏ももひき肉"],
+    "summary": "鶏や七面鳥のひき肉は、ひくときに表面の細菌が全体に混ざるため、精肉売り場でもっとも傷みやすい食品のひとつです。冷蔵では購入から1〜2日以内に使い、冷凍なら3〜4か月良い品質を保てます。",
+    "pantry": "鶏のひき肉は絶対に室温に置かないでください。4〜60 °Cの危険温度帯では細菌が急速に増えるので、室温に2時間以上（気温32 °C以上なら1時間以上）置いたものは捨てましょう。帰宅したらすぐに冷蔵か冷凍してください。",
+    "fridge": "ひき肉はトレイのまま、または密閉容器に入れて4 °C以下の冷蔵庫の最下段に置き、購入から1〜2日以内に調理します。そのまま食べる食品から離し、汁が垂れたらすぐ拭き取ってください。冷蔵庫に2日以上あるものは、ラベルの期限を当てにしないようにしましょう。",
+    "freezer": "鶏のひき肉は−18 °Cで3〜4か月良い品質を保てます。一食分ずつに分け、冷凍用袋の中で平らにのばすと凍るのも解凍するのも早く、空気もしっかり抜けます。凍らせたままなら安全面では長期間もちますが、3〜4か月を過ぎると味が抜けたり、縁が乾いて灰色っぽい冷凍焼けを起こしやすくなります。",
+    "thawing": "平らにした袋は冷蔵庫でひと晩、または密封袋のまま冷水に浸け、30分ごとに水を替えて解凍したらすぐ調理します。すぐに火を通すなら電子レンジ解凍でも構いません。室温での解凍は避けてください。",
+    "spoilage": [
+      "酸っぱいにおい、ツンとしたにおい、アンモニアのようなにおいがする",
+      "表面がベタベタ・ぬるぬるしている",
+      "淡いピンクではなく灰色やくすんだ色、緑がかった色になっている",
+      "パックが膨らんでいる、トレイに濁った液体がたくさんたまっている"
+    ],
+    "tips": [
+      "触って冷たく、パックが破れていないものを選び、1〜2日以内に調理する",
+      "250〜500 gずつ平らにして冷凍し、日付を書いておく",
+      "中まで74 °Cになるまで加熱する。鶏ひき肉にピンク色が残ってはいけない",
+      "生の鶏肉には専用のまな板を使い、扱った後は手と道具を洗う"
+    ],
+    "faq": [
+      {"q": "鶏ひき肉や七面鳥ひき肉は冷凍できますか？", "a": "できます。小分けにして冷凍用袋の中で平らにし、−18 °Cで冷凍してください。品質は3〜4か月以内がベストで、凍らせたままなら安全面では長期間もちます。"},
+      {"q": "鶏ひき肉が傷んでいるかどうかはどう見分けますか？", "a": "酸っぱいにおいやアンモニア臭、ぬるぬるした表面、灰色や緑がかった色はすべて捨てるサインです。新鮮な鶏ひき肉は淡いピンク色で、においはほとんどありません。"},
+      {"q": "鶏ひき肉は冷蔵庫でどのくらいもちますか？", "a": "4 °C以下の冷蔵で、購入から1〜2日だけです。その間に使えないなら、買った日に冷凍しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Carne molida de pavo o pollo",
+    "aliases": ["pollo molido", "pavo molido", "carne picada de pollo", "carne picada de pavo", "pollo picado"],
+    "summary": "La carne molida de pavo o pollo es de lo más perecedero del mostrador de carnes, porque al molerla las bacterias de la superficie se reparten por todo el lote. Guárdala en el refrigerador no más de 1 a 2 días desde la compra, o congélala para conservar su mejor calidad 3 a 4 meses.",
+    "pantry": "La carne molida de ave nunca debe quedarse a temperatura ambiente. En la zona de peligro de 4 a 60 °C (40 a 140 °F) las bacterias se multiplican rápido, así que desecha la que lleve fuera más de 2 horas, o más de 1 hora si hace más de 32 °C (90 °F). Refrigérala o congélala en cuanto llegues a casa.",
+    "fridge": "Guarda la carne molida en su bandeja o en un recipiente cerrado en el estante inferior de un refrigerador a 4 °C (40 °F) o menos, y cocínala en 1 a 2 días desde la compra. Mantenla lejos de los alimentos listos para comer y limpia cualquier goteo. No te fíes de la fecha de la etiqueta si la carne lleva más de 2 días en el refrigerador.",
+    "freezer": "La carne molida de ave se congela bien 3 a 4 meses a −18 °C (0 °F). Divídela en porciones para una comida, aplánalas en bolsas de congelación para que se congelen y descongelen rápido, y saca el aire. Se mantiene segura indefinidamente mientras esté congelada, pero pasados 3 a 4 meses puede perder sabor o presentar bordes secos y grisáceos por quemadura de congelación.",
+    "thawing": "Descongela las porciones planas en el refrigerador durante la noche, o en agua fría dentro de una bolsa sellada, cambiando el agua cada 30 minutos y cocinando enseguida. El microondas sirve si cocinas la carne de inmediato. Nunca la descongeles sobre la encimera.",
+    "spoilage": [
+      "Olor agrio, ácido o parecido al amoniaco",
+      "Superficie pegajosa, viscosa o babosa",
+      "Color gris, apagado o verdoso en lugar de rosa pálido",
+      "Envase inflado o exceso de líquido turbio en la bandeja"
+    ],
+    "tips": [
+      "Compra carne molida que esté fría al tacto y en un envase intacto, y cocínala en 1 a 2 días",
+      "Congela en porciones planas de 250 a 500 g (½ a 1 lb) etiquetadas con la fecha",
+      "Cocínala hasta 74 °C (165 °F) por completo; la carne molida de ave no debe quedar rosada",
+      "Usa una tabla de cortar aparte y lava manos y utensilios después de manipular ave cruda"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la carne molida de pavo o pollo?", "a": "Sí. Divídela en porciones, aplánala en bolsas de congelación y congélala a −18 °C (0 °F). La calidad es mejor dentro de 3 a 4 meses, y se mantiene segura indefinidamente mientras esté congelada."},
+      {"q": "¿Cómo saber si el pollo o pavo molido está malo?", "a": "Un olor agrio o a amoniaco, una superficie viscosa o un color gris verdoso indican que hay que desecharlo. La carne molida de ave fresca es rosa pálido y casi no huele."},
+      {"q": "¿Cuánto dura el pavo molido en el refrigerador?", "a": "Solo 1 a 2 días desde la compra a 4 °C (40 °F) o menos. Si no lo usarás en ese plazo, congélalo el mismo día de la compra."}
+    ]
+  }
+}

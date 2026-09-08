@@ -1,0 +1,107 @@
+{
+  "slug": "baking-soda",
+  "en": {
+    "name": "Baking soda",
+    "aliases": ["bicarbonate of soda", "sodium bicarbonate", "bicarb", "cooking soda"],
+    "summary": "Baking soda is pure sodium bicarbonate, used as a raising agent when combined with an acid such as buttermilk, yoghurt or vinegar. Sealed in its original box it keeps 2–3 years from purchase; once opened, count on about 6 months of full raising power. It never becomes unsafe — it just goes flat and absorbs odours.",
+    "pantry": "Keep baking soda in a cool, dry cupboard away from the stove and sink. Unopened it is good for 2–3 years from purchase; after opening, use it within about 6 months for reliable baking, because the powder slowly absorbs moisture and kitchen smells. Transfer an opened box into an airtight jar rather than folding the cardboard shut.",
+    "fridge": "Baking soda does not need refrigeration and cold storage causes condensation that clumps it. An open box in the fridge is only useful as a deodoriser — and that box should never be used for baking afterwards, since it has absorbed food odours.",
+    "freezer": "There is no reason to freeze baking soda and it does not extend its useful life. Moisture from repeated freezing and thawing makes it cake up and lose strength.",
+    "thawing": null,
+    "spoilage": [
+      "Hard lumps or a solid block in the box",
+      "No vigorous fizz when mixed with vinegar or lemon juice",
+      "Baked goods that come out flat, dense or soapy-tasting",
+      "Powder that smells of fridge odours, onion or garlic"
+    ],
+    "tips": [
+      "Test it: add a spoonful to a splash of vinegar — it should foam up immediately",
+      "Store the baking box separately from any box used as a fridge deodoriser",
+      "Move opened soda into an airtight glass jar and label it with the date",
+      "Baking soda is not interchangeable with baking powder — recipes need an acid to activate it"
+    ],
+    "faq": [
+      {"q": "Does baking soda expire?", "a": "It does not become unsafe, but it loses raising power. Unopened it keeps 2–3 years from purchase; after opening, use it for baking within about 6 months."},
+      {"q": "How can you tell if baking soda is still good?", "a": "Pour a little vinegar or lemon juice over a spoonful. Immediate, vigorous foaming means it is still active; a weak reaction means replace it."},
+      {"q": "Does baking soda need to be refrigerated?", "a": "No. Keep it sealed at room temperature. An open box in the fridge works as a deodoriser but should not then be used for cooking."}
+    ]
+  },
+  "zh": {
+    "name": "小蘇打粉",
+    "aliases": ["碳酸氫鈉", "食用小蘇打", "梳打粉", "重曹", "baking soda"],
+    "summary": "小蘇打粉就是純碳酸氫鈉，需要搭配酪乳、優格或醋等酸性材料才會產生膨脹效果。未開封放在原包裝中，從購買日起可放 2～3 年；開封後大約 6 個月內膨脹力最完整。它不會變得不安全，只是會失效並吸附異味。",
+    "pantry": "小蘇打請放在陰涼乾燥的櫥櫃，遠離爐火和水槽。未開封從購買日起可保存 2～3 年；開封後建議 6 個月內用完，因為粉末會慢慢吸收濕氣和廚房的味道，影響烘焙效果。開封後最好倒進密封玻璃罐，不要只把紙盒摺起來。",
+    "fridge": "小蘇打不需要冷藏，低溫還會產生冷凝水氣讓它結塊。放在冰箱裡開口的那盒只能當除臭劑用，而且之後絕對不要拿去烘焙，因為它已經吸滿了食物氣味。",
+    "freezer": "沒有理由冷凍小蘇打，也不會延長它的可用期限。反覆冷凍解凍帶來的水氣只會讓它結塊、失去效力。",
+    "thawing": null,
+    "spoilage": [
+      "盒子裡結成硬塊或整片硬掉",
+      "加醋或檸檬汁時沒有劇烈冒泡",
+      "烘焙成品扁塌、紮實，或帶有肥皂味",
+      "粉末聞起來有冰箱味、蔥味或蒜味"
+    ],
+    "tips": [
+      "測試方法：舀一匙加一點醋，應該立刻起泡",
+      "烘焙用的那罐要和放冰箱除臭的那盒分開",
+      "開封後倒進密封玻璃罐並寫上日期",
+      "小蘇打不能直接代替泡打粉，配方裡必須有酸性材料才會作用"
+    ],
+    "faq": [
+      {"q": "小蘇打粉會過期嗎？", "a": "不會變得不安全，但會失去膨脹力。未開封從購買日起 2～3 年，開封後建議 6 個月內用於烘焙。"},
+      {"q": "怎麼知道小蘇打還能不能用？", "a": "舀一匙淋上一點醋或檸檬汁，立刻大量起泡就代表還有效；反應很弱就該換新的。"},
+      {"q": "小蘇打需要放冰箱嗎？", "a": "不需要，密封常溫保存即可。放冰箱裡開口的那盒可以除臭，但之後不要再拿來做菜或烘焙。"}
+    ]
+  },
+  "ja": {
+    "name": "重曹（ベーキングソーダ）",
+    "aliases": ["炭酸水素ナトリウム", "重炭酸ソーダ", "タンサン", "食用重曹"],
+    "summary": "重曹は純粋な炭酸水素ナトリウムで、バターミルクやヨーグルト、酢などの酸と組み合わせて膨張剤として働きます。未開封のまま涼しく乾燥した場所に置けば購入日から2〜3年、開封後は約6か月が膨らむ力を保てる目安です。危険な状態にはならず、単に効力が落ち、においを吸ってしまいます。",
+    "pantry": "コンロやシンクから離れた涼しく乾燥した戸棚で保存します。未開封は購入日から2〜3年、開封後は約6か月以内に使い切るとお菓子作りで安定します。粉が少しずつ湿気と台所のにおいを吸ってしまうためです。開封したら紙箱を折り返すだけでなく、密閉瓶に移し替えましょう。",
+    "fridge": "重曹に冷蔵は不要で、冷やすと結露で固まります。ふたを開けて冷蔵庫に置くのは脱臭目的としては有効ですが、その重曹は食品のにおいを吸っているので、あとから料理や製菓に使わないでください。",
+    "freezer": "重曹を冷凍する意味はなく、保存期間も延びません。凍結と解凍を繰り返すと湿気で固まり、効力が落ちます。",
+    "thawing": null,
+    "spoilage": [
+      "箱の中で固まって塊になっている",
+      "酢やレモン汁を加えても勢いよく泡立たない",
+      "焼き上がりが膨らまず、重たい、または石けんのような味がする",
+      "冷蔵庫のにおいや玉ねぎ・にんにくのにおいがついている"
+    ],
+    "tips": [
+      "確認方法：小さじ1に酢を少し垂らして、すぐ泡立てばOK",
+      "製菓用と冷蔵庫の脱臭用は必ず別の容器で管理を",
+      "開封後は密閉ガラス瓶に移し、日付を書いておきましょう",
+      "重曹はベーキングパウダーの代用にはなりません。反応には酸が必要です"
+    ],
+    "faq": [
+      {"q": "重曹に賞味期限はありますか？", "a": "危険にはなりませんが膨らむ力が落ちます。未開封は購入日から2〜3年、開封後は製菓用として約6か月が目安です。"},
+      {"q": "重曹がまだ使えるか確認するには？", "a": "小さじ1に酢かレモン汁を垂らしてください。すぐに勢いよく泡立てば有効、反応が弱ければ交換しましょう。"},
+      {"q": "重曹は冷蔵が必要ですか？", "a": "不要です。密閉して常温で保存してください。冷蔵庫に置いた脱臭用のものは、その後は調理に使わないでください。"}
+    ]
+  },
+  "es": {
+    "name": "Bicarbonato de sodio",
+    "aliases": ["bicarbonato sódico", "bicarbonato de soda", "carbonato ácido de sodio", "bicarbonato"],
+    "summary": "El bicarbonato de sodio es bicarbonato puro y actúa como gasificante solo cuando se combina con un ácido como buttermilk, yogur o vinagre. Cerrado en su envase original dura 2–3 años desde la compra; una vez abierto, cuenta con unos 6 meses de fuerza plena. Nunca se vuelve peligroso: simplemente pierde efecto y absorbe olores.",
+    "pantry": "Guárdalo en un armario fresco y seco, lejos de los fogones y del fregadero. Sin abrir aguanta 2–3 años desde la compra; abierto, úsalo en unos 6 meses para hornear con seguridad, porque el polvo absorbe poco a poco humedad y olores de cocina. Pásalo a un tarro hermético en lugar de doblar la caja de cartón.",
+    "fridge": "No necesita refrigeración, y el frío genera condensación que lo apelmaza. Una caja abierta en la nevera solo sirve como desodorizante, y ese bicarbonato no debe usarse después para cocinar, porque ha absorbido olores de los alimentos.",
+    "freezer": "No hay motivo para congelarlo y no alarga su vida útil. La humedad de congelar y descongelar repetidamente lo compacta y le resta fuerza.",
+    "thawing": null,
+    "spoilage": [
+      "Grumos duros o un bloque compacto dentro del envase",
+      "No burbujea con fuerza al mezclarlo con vinagre o zumo de limón",
+      "Preparaciones planas, densas o con sabor jabonoso",
+      "Polvo que huele a nevera, cebolla o ajo"
+    ],
+    "tips": [
+      "Pruébalo: añade un chorrito de vinagre a una cucharada; debe espumar al instante",
+      "Ten un bote para repostería separado del que uses como desodorizante",
+      "Pasa el bicarbonato abierto a un tarro de vidrio hermético y anota la fecha",
+      "No sustituye al polvo de hornear: la receta necesita un ingrediente ácido para activarlo"
+    ],
+    "faq": [
+      {"q": "¿El bicarbonato caduca?", "a": "No se vuelve inseguro, pero pierde poder gasificante. Sin abrir dura 2–3 años desde la compra; abierto, úsalo para hornear en unos 6 meses."},
+      {"q": "¿Cómo saber si el bicarbonato sigue bueno?", "a": "Echa un poco de vinagre o limón sobre una cucharada. Si espuma de inmediato y con fuerza, sigue activo; si reacciona poco, cámbialo."},
+      {"q": "¿El bicarbonato necesita refrigeración?", "a": "No. Consérvalo cerrado a temperatura ambiente. La caja abierta en la nevera sirve para quitar olores, pero luego no la uses para cocinar."}
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "milk-plain-flavored",
+  "en": {
+    "name": "Milk (plain or flavored)",
+    "aliases": ["fresh milk", "whole milk", "chocolate milk", "pasteurized milk", "strawberry milk"],
+    "summary": "This covers fresh pasteurized milk, plain or flavored (chocolate, strawberry, and so on), sold refrigerated in cartons or jugs. It must be kept in the fridge and used by the date on the container. Milk can also be frozen for about 3 months from purchase, though the texture changes slightly.",
+    "pantry": "Fresh milk is perishable and must not be left at room temperature. Follow the 2-hour rule, or 1 hour when the room is above 32 °C (90 °F): pour what you need and put the carton straight back. Only shelf-stable UHT milk in aseptic cartons can sit in the pantry, and even that needs refrigeration once opened.",
+    "fridge": "Keep milk at 4 °C (40 °F) or below on an inside shelf toward the back, not in the door where every opening warms it. Use it by the date printed on the container; flavored milk follows the same rule as plain. Keep the cap closed so it does not pick up fridge odours, and never pour unused milk back into the carton.",
+    "freezer": "Milk can be frozen for about 3 months from the date of purchase at −18 °C (0 °F). Pour off a little first because milk expands as it freezes, seal the container tightly, and label it. Frozen food stays safe indefinitely at −18 °C; the 3-month window is about quality. Thawed milk may look slightly grainy or separated because the fat clumps; shake it well. It is fine for drinking, cereal and cooking, and flavored milk freezes the same way.",
+    "thawing": "Thaw milk in the fridge, which can take a day or two for a full carton, or in cold water changed every 30 minutes. Never thaw it on the counter. Shake well before using and drink it within a few days.",
+    "spoilage": [
+      "A sour, tangy smell as soon as you open the carton.",
+      "Lumps, curdling or a thick, stringy pour, especially noticeable in coffee or tea.",
+      "A sour or bitter taste, which can show up before the smell does in flavored milk.",
+      "A carton that is bulging or swollen, a sign of gas from bacterial growth."
+    ],
+    "tips": [
+      "Buy milk last at the shop and get it into the fridge within 2 hours; use a cooler bag in hot weather.",
+      "Check the date and choose the freshest carton at the back of the shelf.",
+      "Freeze milk in portions you will use in a few days, leaving 2–3 cm of space for expansion.",
+      "Chocolate and other flavored milks hide sourness with sugar, so do not rely on taste alone; check the date and smell."
+    ],
+    "faq": [
+      {"q": "Can you freeze milk?", "a": "Yes. Milk freezes for about 3 months at −18 °C (0 °F). Leave room in the container for expansion, thaw in the fridge and shake well; the texture may be slightly grainy but it is fine to drink or cook with."},
+      {"q": "How long does milk last in the fridge?", "a": "Use it by the date on the container and keep it at 4 °C (40 °F) or below. Storing it at the back of the fridge rather than the door helps it reach that date in good condition."},
+      {"q": "How can you tell if milk has gone bad?", "a": "A sour smell, lumps or curdling, a bitter taste or a swollen carton mean it should be poured out. Flavored milk can taste fine for a while after it starts to turn, so smell it too."},
+      {"q": "Does milk need to be refrigerated?", "a": "Fresh pasteurized milk, plain or flavored, must be refrigerated at all times. Only unopened UHT milk in aseptic cartons can be stored at room temperature."}
+    ]
+  },
+  "zh": {
+    "name": "牛奶（原味／調味）",
+    "aliases": ["鮮奶", "鮮乳", "全脂牛奶", "巧克力牛奶", "調味乳", "牛乳"],
+    "summary": "這裡指的是冷藏販售的殺菌鮮奶，包含原味和巧克力、草莓等調味乳。一定要冷藏，並在包裝標示的期限內喝完。牛奶也可以冷凍，從購買日起約 3 個月，但口感會稍微改變。",
+    "pantry": "鮮奶容易腐壞，不能放在室溫。請遵守 2 小時原則（室溫超過 32 °C 時為 1 小時）：倒完需要的量就馬上放回冰箱。只有無菌包裝的保久乳可以放在室溫，而且開封後一樣要冷藏。",
+    "fridge": "放在 4 °C 以下的冰箱內側靠後方的層架，不要放門邊，每次開門都會讓門邊變溫。請在包裝標示的期限內喝完，調味乳和原味鮮奶的規則相同。瓶蓋要蓋緊避免吸附冰箱味道，倒出來沒喝完的牛奶也不要倒回瓶子裡。",
+    "freezer": "牛奶可以冷凍，從購買日起在 −18 °C 可以放約 3 個月。冷凍前先倒掉一點，因為結冰會膨脹，然後蓋緊、寫上日期。冷凍食品在 −18 °C 下安全期是無限的，3 個月是品質最佳期。解凍後的牛奶因為乳脂結塊，看起來可能有點顆粒或分層，搖勻就好。拿來喝、泡麥片或做菜都沒問題，調味乳的冷凍方式也一樣。",
+    "thawing": "放冷藏解凍，整瓶可能要一到兩天；也可以泡在冷水中，每 30 分鐘換一次水。不要放在室溫解凍。使用前搖勻，並在幾天內喝完。",
+    "spoilage": [
+      "一開瓶就聞到酸味。",
+      "出現結塊、凝結，或倒出來時稠稠的、拉絲，加進咖啡或茶裡特別明顯。",
+      "喝起來有酸味或苦味；調味乳有時味道先變，才聞得出來。",
+      "瓶身或紙盒膨脹，代表細菌繁殖產生氣體。"
+    ],
+    "tips": [
+      "在賣場最後再拿牛奶，2 小時內放進冰箱；天氣熱時用保冷袋。",
+      "看清楚期限，挑貨架後方最新鮮的那瓶。",
+      "冷凍時分成幾天內喝得完的份量，容器留 2–3 公分空間讓它膨脹。",
+      "巧克力等調味乳的糖分會掩蓋酸味，不要只靠味道判斷，還要看期限和聞味道。"
+    ],
+    "faq": [
+      {"q": "牛奶可以冷凍嗎？", "a": "可以。在 −18 °C 冷凍約 3 個月。容器要留膨脹空間，放冷藏解凍後搖勻；口感可能有點顆粒，但喝或做菜都沒問題。"},
+      {"q": "牛奶放冰箱可以放多久？", "a": "請在包裝標示的期限內喝完，並保持在 4 °C 以下。放在冰箱內側後方而不是門邊，比較能在期限內維持好品質。"},
+      {"q": "怎麼判斷牛奶壞掉了？", "a": "有酸味、結塊或凝結、喝起來苦、包裝膨脹，就要倒掉。調味乳開始變質時味道可能還正常，所以也要聞一下。"},
+      {"q": "牛奶一定要放冰箱嗎？", "a": "殺菌鮮奶不論原味或調味，都必須全程冷藏。只有未開封的無菌包裝保久乳可以放室溫。"}
+    ]
+  },
+  "ja": {
+    "name": "牛乳（プレーン・フレーバー）",
+    "aliases": ["ぎゅうにゅう", "成分無調整牛乳", "コーヒー牛乳", "いちご牛乳", "乳飲料", "ミルク"],
+    "summary": "ここでは、紙パックやボトルで冷蔵販売されている殺菌済みの牛乳と、コーヒー牛乳やいちご牛乳などのフレーバー付き乳飲料を扱います。必ず冷蔵し、容器に記載された期限内に飲みきってください。冷凍も可能で、購入日から約3か月が目安ですが、食感は少し変わります。",
+    "pantry": "牛乳は傷みやすく、常温に置いてはいけません。2時間ルール（室温が32 °Cを超える場合は1時間）を守り、必要な分を注いだらすぐ冷蔵庫に戻しましょう。常温保存できるのは無菌充填のロングライフ牛乳（LL牛乳）だけで、それも開封後は冷蔵が必要です。",
+    "fridge": "4 °C以下の冷蔵庫で、庫内の奥の棚に置きます。ドアポケットは開閉のたびに温まるので避けましょう。容器に記載された期限内に飲みきってください。フレーバー付きも通常の牛乳と同じルールです。冷蔵庫のにおい移りを防ぐためキャップはしっかり閉め、注いで余った牛乳を容器に戻すのはやめましょう。",
+    "freezer": "牛乳は購入日から約3か月、−18 °Cで冷凍できます。凍ると膨張するので少し注ぎ出してから、容器をしっかり密閉して日付を書いておきます。−18 °Cなら安全性は保たれ、3か月は品質の目安です。解凍後は乳脂肪が固まって少しざらついたり分離したりして見えることがありますが、よく振れば飲用、シリアル、料理に問題なく使えます。フレーバー付きも同じ方法で冷凍できます。",
+    "thawing": "冷蔵庫で解凍します。1リットルパックなら1〜2日かかることもあります。急ぐ場合は冷水につけ、30分ごとに水を替えてください。常温での解凍は避けましょう。使う前によく振り、数日以内に飲みきってください。",
+    "spoilage": [
+      "開けた瞬間に酸っぱいにおいがする。",
+      "塊やダマがある、注ぐととろみや糸引きがある。コーヒーや紅茶に入れると特に分かりやすい。",
+      "酸味や苦みがある。フレーバー付きはにおいより先に味に出ることがある。",
+      "パックやボトルが膨らんでいる。細菌の繁殖でガスが発生したサインです。"
+    ],
+    "tips": [
+      "買い物では牛乳を最後にかごへ入れ、2時間以内に冷蔵庫へ。暑い時期は保冷バッグを使いましょう。",
+      "期限を確認し、棚の奥にある一番新しいものを選びましょう。",
+      "冷凍するときは数日で使いきれる量に分け、膨張分として2〜3 cmの余裕を残します。",
+      "コーヒー牛乳などは糖分で酸味が隠れるので、味だけで判断せず、期限とにおいも確認しましょう。"
+    ],
+    "faq": [
+      {"q": "牛乳は冷凍できますか？", "a": "はい。−18 °Cで約3か月冷凍できます。容器に膨張分の余裕を残し、冷蔵庫で解凍してよく振ってください。少しざらつくことがありますが、飲用や料理には問題ありません。"},
+      {"q": "牛乳は冷蔵庫でどのくらい日持ちしますか？", "a": "容器に記載された期限内に飲みきり、4 °C以下を保ってください。ドアポケットではなく庫内の奥に置くと、期限まで良い状態を保ちやすくなります。"},
+      {"q": "牛乳が腐っているかどうかの見分け方は？", "a": "酸っぱいにおい、ダマや凝固、苦み、容器の膨らみがあれば捨ててください。フレーバー付きは傷み始めても味が普通に感じられることがあるので、においも確認しましょう。"},
+      {"q": "牛乳は冷蔵庫に入れないとだめですか？", "a": "殺菌済みの牛乳はプレーンでもフレーバー付きでも、常に冷蔵が必要です。常温保存できるのは未開封のロングライフ牛乳だけです。"}
+    ]
+  },
+  "es": {
+    "name": "Leche (natural o saborizada)",
+    "aliases": ["leche fresca", "leche entera", "leche pasteurizada", "leche con chocolate", "leche de fresa"],
+    "summary": "Aquí hablamos de leche fresca pasteurizada, natural o saborizada (con chocolate, fresa, etc.), que se vende refrigerada en cartones o botellas. Debe mantenerse en la nevera y consumirse antes de la fecha del envase. También se puede congelar unos 3 meses desde la compra, aunque la textura cambia un poco.",
+    "pantry": "La leche fresca es perecedera y no debe dejarse a temperatura ambiente. Sigue la regla de las 2 horas, o 1 hora si hace más de 32 °C (90 °F): sirve lo que necesites y devuelve el envase a la nevera. Solo la leche UHT en envase aséptico puede guardarse en la despensa, y aun así necesita refrigeración una vez abierta.",
+    "fridge": "Mantén la leche a 4 °C (40 °F) o menos en un estante interior, hacia el fondo, y no en la puerta, donde cada apertura la calienta. Consúmela antes de la fecha impresa en el envase; la leche saborizada sigue la misma regla que la natural. Deja el tapón cerrado para que no absorba olores, y nunca devuelvas al envase la leche que ya serviste.",
+    "freezer": "La leche se puede congelar unos 3 meses desde la fecha de compra a −18 °C (0 °F). Retira un poco antes, porque la leche se expande al congelarse, cierra bien el envase y etiquétalo. A −18 °C el alimento sigue siendo seguro indefinidamente; los 3 meses son una referencia de calidad. Al descongelarse puede verse algo granulosa o separada porque la grasa se agrupa; agítala bien. Sirve para beber, para cereales y para cocinar, y la saborizada se congela igual.",
+    "thawing": "Descongela la leche en la nevera, lo que puede llevar uno o dos días para un cartón entero, o en agua fría cambiándola cada 30 minutos. Nunca la descongeles sobre la encimera. Agítala bien antes de usarla y consúmela en pocos días.",
+    "spoilage": [
+      "Olor agrio en cuanto abres el envase.",
+      "Grumos, leche cortada o un chorro espeso y filamentoso, muy evidente al añadirla al café o al té.",
+      "Sabor agrio o amargo, que en la leche saborizada puede notarse antes que el olor.",
+      "Envase hinchado o abombado, señal de gas por crecimiento bacteriano."
+    ],
+    "tips": [
+      "Compra la leche al final y métela en la nevera antes de 2 horas; con calor, usa una bolsa isotérmica.",
+      "Revisa la fecha y elige el envase más fresco, normalmente al fondo del estante.",
+      "Congela la leche en porciones que uses en pocos días, dejando 2–3 cm de espacio para la expansión.",
+      "La leche con chocolate y otras saborizadas disimulan la acidez con el azúcar: no te fíes solo del sabor, mira la fecha y huélela."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la leche?", "a": "Sí. Se congela unos 3 meses a −18 °C (0 °F). Deja espacio en el envase para la expansión, descongélala en la nevera y agítala bien; puede quedar algo granulosa, pero sirve para beber y cocinar."},
+      {"q": "¿Cuánto dura la leche en la nevera?", "a": "Consúmela antes de la fecha del envase y mantenla a 4 °C (40 °F) o menos. Guardarla al fondo de la nevera y no en la puerta ayuda a que llegue a esa fecha en buen estado."},
+      {"q": "¿Cómo saber si la leche está mala?", "a": "Olor agrio, grumos o leche cortada, sabor amargo o envase hinchado significan que hay que tirarla. La saborizada puede saber bien un tiempo después de empezar a estropearse, así que huélela también."},
+      {"q": "¿La leche necesita refrigeración?", "a": "La leche fresca pasteurizada, natural o saborizada, debe estar siempre refrigerada. Solo la leche UHT sin abrir, en envase aséptico, puede guardarse a temperatura ambiente."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "turducken",
+  "en": {
+    "name": "Turducken",
+    "aliases": ["turkey duck chicken roast", "three-bird roast", "stuffed deboned turkey", "frozen turducken"],
+    "summary": "A turducken is a deboned chicken stuffed inside a deboned duck stuffed inside a deboned turkey, usually layered with dressing and sold frozen for holiday meals. USDA gives one number for it: keep it frozen and use within 9 months of purchase for best quality. It stays safe indefinitely at −18 °C (0 °F), but should be cooked from a properly thawed or frozen state, never after sitting out.",
+    "pantry": "A turducken must never be left at room temperature, whether frozen, thawing or cooked. Three layers of raw poultry and stuffing take a long time to warm through, which means the outer layers spend hours in the danger zone (4–60 °C / 40–140 °F) while the centre is still cold. Discard any that has been out for more than 2 hours, or 1 hour above 32 °C (90 °F).",
+    "fridge": "USDA gives no fridge timeline for a raw turducken, because it is a dense, multi-layer raw poultry product that should go from freezer to oven with minimal delay. Once thawed in the fridge, treat it like any raw stuffed poultry and cook it within 1–2 days, keeping it in a pan on the bottom shelf at 4 °C (40 °F) or below. Cooked leftovers should be carved off the bone, refrigerated within 2 hours and eaten within 3–4 days.",
+    "freezer": "Keep the turducken in its original vacuum packaging at −18 °C (0 °F) and use within 9 months of purchase for best quality; it stays safe longer, but the stuffing and skin lose texture. If the wrapper is torn, overwrap it in heavy foil or a large freezer bag. Do not refreeze a turducken that has been fully thawed unless it was thawed in the fridge and has been there no more than 1–2 days.",
+    "thawing": "Thaw in the fridge on a rimmed tray: allow roughly 24 hours for every 2–2.5 kg (4–5 lb), so a typical turducken needs 2–3 days. Cold-water thawing works too if the package is watertight and the water is changed every 30 minutes. Never thaw on the counter, and cook until a thermometer reads 74 °C (165 °F) in the very centre of the innermost layer.",
+    "spoilage": [
+      "Sour, sulphurous or ammonia-like smell once thawed",
+      "Slimy or tacky feel on any of the poultry layers",
+      "Grey, green or dull discolouration of the meat or stuffing",
+      "A swollen vacuum pack or one that has lost its seal and admitted air"
+    ],
+    "tips": [
+      "Buy it frozen, keep it frozen, and plan the fridge thaw several days before the meal",
+      "Check that the vacuum seal is intact and the package is rock-hard when you buy it",
+      "Use a probe thermometer through the centre; the innermost chicken layer is the last to cook",
+      "Carve and refrigerate leftovers within 2 hours; freeze portions you will not eat within 3–4 days"
+    ],
+    "faq": [
+      {"q": "How long can you keep a turducken in the freezer?", "a": "Use it within 9 months of purchase for best quality. Kept frozen at −18 °C (0 °F), it remains safe beyond that, though texture declines."},
+      {"q": "How long does it take to thaw a turducken?", "a": "Plan on about 24 hours in the fridge per 2–2.5 kg (4–5 lb), so usually 2–3 days. Cold-water thawing in a leak-proof bag is faster but needs the water changed every 30 minutes."},
+      {"q": "Can you refreeze a thawed turducken?", "a": "Only if it was thawed in the fridge and has been there no more than 1–2 days. Never refreeze one that was thawed in water or left at room temperature."}
+    ]
+  },
+  "zh": {
+    "name": "火雞鴨雞三層烤禽（Turducken）",
+    "aliases": ["三禽烤", "特大肯", "火鴨雞", "去骨三層填餡火雞", "冷凍三禽烤"],
+    "summary": "Turducken 是把去骨的雞塞進去骨的鴨，再一起塞進去骨的火雞裡，層間通常夾著餡料，多半是冷凍販售的節慶料理。美國農業部只給一個數字：保持冷凍，購買後 9 個月內吃完品質最好；在 −18 °C 下安全上可以放更久，但一定要從妥善解凍或冷凍的狀態直接烹調，不能先放室溫。",
+    "pantry": "不論是冷凍、解凍中還是煮好的 turducken，都不能放在室溫。三層生禽肉加上餡料要很久才會回溫，代表外層已經在危險溫度帶（4～60 °C）待了好幾個小時，中心卻還是冰的。放超過 2 小時就該丟掉，室溫超過 32 °C 則 1 小時就是上限。",
+    "fridge": "美國農業部沒有提供生 turducken 的冷藏期限，因為它是厚實的多層生禽肉製品，應該從冷凍庫直接進烤箱、盡量不要耽擱。若已在冷藏解凍，就當成一般的生填餡禽肉處理：1～2 天內要烤，期間放在有邊的烤盤中、冰箱最下層、4 °C 以下。烤好的剩菜要在 2 小時內切下來冷藏，3～4 天內吃完。",
+    "freezer": "保留原本的真空包裝，放在 −18 °C 冷凍，購買後 9 個月內吃完品質最好；之後安全上仍沒問題，但餡料和外皮的口感會變差。如果包裝破了，再外包一層厚鋁箔或大冷凍袋。完全解凍後的 turducken 除非是在冷藏解凍、而且放不到 1～2 天，否則不要再冷凍。",
+    "thawing": "放在有邊的托盤上進冷藏解凍：每 2～2.5 公斤大約需要 24 小時，所以一般的 turducken 要 2～3 天。如果包裝不漏水，也可以泡冷水解凍，每 30 分鐘換一次水。千萬不要放在流理台上退冰；烤到最內層中心溫度達到 74 °C 才算熟。",
+    "spoilage": [
+      "解凍後有酸味、硫磺味或阿摩尼亞味",
+      "任何一層禽肉摸起來黏滑",
+      "肉或餡料變灰、變綠或顏色暗沉",
+      "真空包裝鼓起，或封口破了讓空氣跑進去"
+    ],
+    "tips": [
+      "買冷凍的、一路保持冷凍，並在用餐前好幾天就開始在冷藏解凍",
+      "購買時確認真空封口完整、整包摸起來硬邦邦的",
+      "用探針溫度計插到正中央，最裡層的雞肉是最慢熟的",
+      "剩菜 2 小時內切下來冷藏，3～4 天內吃不完的分裝冷凍"
+    ],
+    "faq": [
+      {"q": "Turducken 可以冷凍多久？", "a": "購買後 9 個月內吃完品質最好。持續在 −18 °C 冷凍下安全上可以放更久，只是口感會變差。"},
+      {"q": "Turducken 解凍要多久？", "a": "冷藏解凍每 2～2.5 公斤約需 24 小時，通常要 2～3 天。用不漏水的袋子泡冷水解凍比較快，但每 30 分鐘要換水。"},
+      {"q": "解凍過的 turducken 可以再冷凍嗎？", "a": "只有在冷藏解凍、而且放不超過 1～2 天的情況下可以。泡水解凍或曾放在室溫的就不要再冷凍。"}
+    ]
+  },
+  "ja": {
+    "name": "ターダッケン",
+    "aliases": ["ターダケン", "三種の鳥のロースト", "七面鳥・鴨・鶏の詰め物ロースト", "冷凍ターダッケン"],
+    "summary": "ターダッケンは、骨を抜いた鶏を骨抜きの鴨に詰め、さらにそれを骨抜きの七面鳥に詰めた料理で、層の間に詰め物を挟み、ホリデーシーズン向けに冷凍で売られるのが一般的です。USDAが示す目安はひとつ、冷凍のまま保存し、購入から9か月以内に使うことです。−18 °Cを保てば安全性は保たれますが、必ず正しく解凍した状態か凍ったままで加熱し、常温に置いてはいけません。",
+    "pantry": "冷凍中でも解凍中でも加熱後でも、ターダッケンを常温に置いてはいけません。三層の生の鳥肉と詰め物は温まるのに時間がかかり、中心がまだ冷たいうちに外側は何時間も危険温度帯（4～60 °C）にさらされます。2時間以上、室温が32 °Cを超える場合は1時間以上放置したものは廃棄してください。",
+    "fridge": "USDAは生のターダッケンの冷蔵期間を示していません。厚みのある多層の生の鳥肉製品なので、冷凍庫からオーブンへできるだけ早く移すべきものだからです。冷蔵庫で解凍したら、ほかの詰め物入り生の鳥肉と同じく1～2日以内に加熱し、その間は縁のあるトレーにのせて最下段（4 °C以下）に置きます。焼いたあとの残りは骨から外し、2時間以内に冷蔵して3～4日以内に食べきってください。",
+    "freezer": "元の真空パックのまま−18 °Cで保存し、購入から9か月以内に使うと品質が良好です。それ以降も安全ですが、詰め物や皮の食感は落ちます。包装が破れていたら、厚手のアルミホイルか大きな冷凍用保存袋で包み直します。完全に解凍したターダッケンは、冷蔵庫で解凍して1～2日以内のものを除き、再冷凍しないでください。",
+    "thawing": "縁のあるトレーにのせて冷蔵庫で解凍します。2～2.5 kgあたり約24時間が目安なので、一般的なサイズで2～3日かかります。包装に水が入らなければ、30分ごとに水を替える冷水解凍も可能です。常温解凍は絶対に避け、いちばん内側の層の中心が74 °Cになるまで加熱してください。",
+    "spoilage": [
+      "解凍後に酸っぱいにおい、硫黄臭、アンモニア臭がする",
+      "どの層でも鳥肉がぬるぬる、ベタベタしている",
+      "肉や詰め物が灰色、緑色、くすんだ色に変わっている",
+      "真空パックが膨らんでいる、または密封が破れて空気が入っている"
+    ],
+    "tips": [
+      "冷凍で買い、冷凍のまま持ち帰り、食事の数日前から冷蔵庫で解凍を始める",
+      "購入時は真空の密封が無事で、全体がカチカチに凍っているか確認する",
+      "芯温計を中心まで刺す。いちばん内側の鶏肉が最後に火が通る",
+      "残りは2時間以内に切り分けて冷蔵し、3～4日で食べきれない分は小分けして冷凍する"
+    ],
+    "faq": [
+      {"q": "ターダッケンは冷凍庫でどのくらい保存できますか？", "a": "購入から9か月以内に使うのが品質の目安です。−18 °Cで凍ったままなら安全性はそれ以降も保たれますが、食感は落ちていきます。"},
+      {"q": "ターダッケンの解凍にはどのくらいかかりますか？", "a": "冷蔵庫で2～2.5 kgあたり約24時間、通常は2～3日を見込んでください。漏れない袋に入れた冷水解凍は早いですが、30分ごとに水を替える必要があります。"},
+      {"q": "解凍したターダッケンは再冷凍できますか？", "a": "冷蔵庫で解凍し、1～2日以内のものだけ再冷凍できます。水で解凍したものや常温に置いたものは再冷凍しないでください。"}
+    ]
+  },
+  "es": {
+    "name": "Turducken",
+    "aliases": ["pavo relleno de pato y pollo", "asado de tres aves", "pavo deshuesado relleno", "turducken congelado"],
+    "summary": "El turducken es un pollo deshuesado metido dentro de un pato deshuesado, metido a su vez dentro de un pavo deshuesado, normalmente con capas de relleno, y se vende congelado para comidas festivas. El USDA da un solo dato: mantenlo congelado y úsalo dentro de los 9 meses desde la compra para la mejor calidad. A −18 °C (0 °F) sigue siendo seguro indefinidamente, pero debe cocinarse bien descongelado o directamente congelado, nunca después de estar a temperatura ambiente.",
+    "pantry": "Un turducken nunca debe quedarse a temperatura ambiente, ya sea congelado, descongelándose o cocido. Tres capas de ave cruda con relleno tardan mucho en templarse, así que las capas exteriores pasan horas en la zona de peligro (4–60 °C / 40–140 °F) mientras el centro sigue frío. Desecha cualquiera que haya estado fuera más de 2 horas, o más de 1 hora por encima de 32 °C (90 °F).",
+    "fridge": "El USDA no da un plazo de refrigeración para el turducken crudo porque es un producto denso de varias capas de ave cruda que debería pasar del congelador al horno con la menor demora posible. Una vez descongelado en el refrigerador, trátalo como cualquier ave rellena cruda y cocínalo en 1–2 días, sobre una bandeja en el estante inferior a 4 °C (40 °F) o menos. Las sobras cocidas deben deshuesarse, refrigerarse en menos de 2 horas y comerse en 3–4 días.",
+    "freezer": "Conserva el turducken en su envase al vacío original a −18 °C (0 °F) y úsalo dentro de los 9 meses desde la compra para la mejor calidad; sigue siendo seguro después, pero el relleno y la piel pierden textura. Si el envoltorio está roto, cúbrelo con papel de aluminio grueso o una bolsa grande para congelar. No vuelvas a congelar un turducken totalmente descongelado, salvo que se haya descongelado en el refrigerador y lleve allí como máximo 1–2 días.",
+    "thawing": "Descongela en el refrigerador sobre una bandeja con borde: calcula unas 24 horas por cada 2–2.5 kg (4–5 lb), así que un turducken típico necesita 2–3 días. También sirve el agua fría si el envase es hermético y cambias el agua cada 30 minutos. Nunca lo descongeles en la encimera, y cocínalo hasta que el termómetro marque 74 °C (165 °F) en el centro de la capa más interna.",
+    "spoilage": [
+      "Olor agrio, sulfuroso o a amoníaco al descongelarse",
+      "Tacto viscoso o pegajoso en cualquiera de las capas de ave",
+      "Color gris, verdoso o apagado en la carne o el relleno",
+      "Envase al vacío hinchado o con el sello roto y aire dentro"
+    ],
+    "tips": [
+      "Cómpralo congelado, mantenlo congelado y empieza a descongelarlo en el refrigerador varios días antes de la comida",
+      "Al comprarlo, comprueba que el sello al vacío esté intacto y que el paquete esté duro como una piedra",
+      "Usa un termómetro de sonda hasta el centro; la capa interior de pollo es la última en cocinarse",
+      "Trincha y refrigera las sobras en menos de 2 horas; congela en porciones lo que no comerás en 3–4 días"
+    ],
+    "faq": [
+      {"q": "¿Cuánto tiempo se puede guardar un turducken en el congelador?", "a": "Úsalo dentro de los 9 meses desde la compra para la mejor calidad. Congelado a −18 °C (0 °F) sigue siendo seguro después, aunque la textura empeora."},
+      {"q": "¿Cuánto tarda en descongelarse un turducken?", "a": "Calcula unas 24 horas en el refrigerador por cada 2–2.5 kg (4–5 lb), normalmente 2–3 días. El agua fría en una bolsa hermética es más rápida, pero hay que cambiar el agua cada 30 minutos."},
+      {"q": "¿Se puede volver a congelar un turducken descongelado?", "a": "Solo si se descongeló en el refrigerador y lleva allí como máximo 1–2 días. Nunca recongeles uno descongelado en agua o dejado a temperatura ambiente."}
+    ]
+  }
+}

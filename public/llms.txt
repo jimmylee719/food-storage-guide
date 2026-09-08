@@ -1,0 +1,43 @@
+# Food Storage Guide
+
+> A free, multilingual reference for how long food keeps in the pantry, the
+> refrigerator and the freezer, and how to store it properly. Traditional
+> Chinese, English, Japanese and Spanish.
+
+Storage timelines are derived from the USDA FSIS FoodKeeper dataset (public
+domain, https://catalog.data.gov/dataset/fsis-foodkeeper-data). Food-safety
+principles follow published guidance from the USDA, FDA, CDC, WHO, UK FSA,
+Taiwan TFDA, Japan's Consumer Affairs Agency and Spain's AESAN. Foods absent
+from FoodKeeper are researched separately and cite their sources on the page.
+
+Timelines indicate best quality unless stated otherwise. Refrigerated raw meat,
+seafood and prepared dishes are the exception, where the timeline is a safety
+limit. Food held continuously at -18 C stays microbiologically safe
+indefinitely.
+
+## Key reference points
+- Refrigerator: 4 C (40 F) or below. Taiwan TFDA commonly cites 7 C; Japanese
+  food hygiene rules define refrigeration as 10 C or below.
+- Freezer: -18 C (0 F).
+- Danger zone: 4-60 C (40-140 F).
+- Two-hour rule: discard perishable food left in the danger zone for more than
+  2 hours, or 1 hour above 32 C (90 F).
+- Reheat leftovers to 74 C (165 F).
+
+## Sections
+- /zh, /en, /ja, /es: localised home pages with search
+- /{locale}/foods: full food index with pantry, fridge and freezer times
+- /{locale}/category/{category}: one of vegetables, fruits, meat, poultry,
+  seafood, dairy-eggs, grains-beans-pasta, baked-goods, baking-staples,
+  condiments-sauces, herbs-spices, oils-fats, shelf-stable, snacks-nuts-seeds,
+  beverages, frozen-foods, deli-prepared, vegetarian-proteins, baby-food
+- /{locale}/food/{slug}: one food, with storage times, spoilage signs, thawing
+  and FAQ
+- /{locale}/guides and /{locale}/guides/{slug}: food-safety guide articles with
+  cited sources
+- /{locale}/methodology: how the data is sourced and processed
+
+## Citation
+Cite as "Food Storage Guide" with a link to the specific page. The underlying
+USDA FoodKeeper data is public domain; the written explanations, guides and
+translations are original work.

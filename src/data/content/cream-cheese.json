@@ -1,0 +1,107 @@
+{
+  "slug": "cream-cheese",
+  "en": {
+    "name": "Cream cheese",
+    "aliases": ["soft white cheese", "Philadelphia-style cheese", "spreadable cream cheese", "full-fat soft cheese"],
+    "summary": "Cream cheese is a fresh, unripened soft cheese made from cream and milk, sold in foil-wrapped blocks or tubs. Kept at 4 °C (40 °F) or below it stays good for about 2 weeks from the day you buy it. It is a perishable dairy product, so it belongs in the fridge and not in a cupboard.",
+    "pantry": "Cream cheese must not be stored at room temperature. It is fine to leave it out for 30 minutes so it softens enough to spread or beat into a frosting, but beyond 2 hours in the danger zone of 4–60 °C (40–140 °F) — 1 hour above 32 °C (90 °F) — it should be discarded. Bagels and cheesecake left on a party table follow the same 2-hour clock.",
+    "fridge": "Keep cream cheese on an inside shelf at 4 °C (40 °F) or below, not in the door. Leave a block in its foil and slip it into a bag or box once opened; scrape a tub level and press the lid on firmly so the surface does not dry out or absorb fridge smells. Roughly 2 weeks from purchase is the working limit, and always use a clean knife so crumbs do not seed mould.",
+    "freezer": "Cream cheese can be frozen at −18 °C (0 °F) and stays safe indefinitely, but it separates and turns grainy on thawing, so it is no longer smooth enough to spread. Freeze only what you plan to bake with — cheesecakes, dips, sauces and frostings tolerate it well once the cheese is beaten smooth again. Wrap the block tightly in plastic and foil, or freeze in a rigid container.",
+    "thawing": "Thaw a frozen block in the fridge for 24 hours, then beat it hard with a fork or mixer to bring the texture back together before using it in a cooked or blended recipe. Never thaw cream cheese at room temperature.",
+    "spoilage": [
+      "Fuzzy mould spots of any colour, including under the foil or around the rim of the tub",
+      "Sour, yeasty or fermented smell instead of a clean milky tang",
+      "Watery liquid pooling on the surface together with a slimy film",
+      "Yellowing, hardened or cracked edges, or a bitter aftertaste"
+    ],
+    "tips": [
+      "Buy the size you will use in two weeks; cream cheese does not improve with age.",
+      "Take out only what you need and return the rest to the fridge straight away.",
+      "Use a clean knife every time — bread crumbs in the tub are the usual cause of early mould.",
+      "Soften on the counter for 30 minutes rather than in the microwave for smoother frosting."
+    ],
+    "faq": [
+      {"q": "Can you freeze cream cheese?", "a": "Yes, at −18 °C (0 °F), but it becomes grainy. Use thawed cream cheese in cheesecakes, dips or sauces where it is beaten smooth again, not as a spread."},
+      {"q": "How long does cream cheese last in the fridge?", "a": "About 2 weeks from the day of purchase at 4 °C (40 °F) or below, whether it is a block or a tub."},
+      {"q": "Does cream cheese need to be refrigerated?", "a": "Yes. It is a fresh dairy product and should be kept at 4 °C (40 °F) or below, out of the fridge for no more than 2 hours at a time."}
+    ]
+  },
+  "zh": {
+    "name": "奶油乳酪",
+    "aliases": ["奶油起司", "cream cheese", "忌廉芝士", "鮮奶油乳酪", "起司抹醬"],
+    "summary": "奶油乳酪是用鮮奶油和牛奶製成的新鮮未熟成軟質乳酪，常見鋁箔磚裝或盒裝。放在 4°C 以下冷藏，從購買日起大約可放 2 週。它屬於容易腐敗的乳製品，只能放冰箱，不能收在櫥櫃。",
+    "pantry": "奶油乳酪不能放室溫保存。要塗抹或打發成糖霜時，先放室溫 30 分鐘軟化沒問題，但在 4～60°C 的危險溫度帶超過 2 小時（氣溫超過 32°C 時 1 小時）就該丟掉。抹好的貝果或起司蛋糕放在桌上，同樣適用 2 小時原則。",
+    "fridge": "放冰箱內層層架，維持 4°C 以下，不要放門邊。磚裝的保留鋁箔紙，開封後再套袋或裝盒；盒裝的把表面抹平、蓋緊蓋子，避免乾掉或吸附冰箱異味。從購買日起大約 2 週是實際期限，每次都用乾淨的刀取用，避免麵包屑掉進去引發發霉。",
+    "freezer": "奶油乳酪可以放 −18°C 冷凍，安全上可以無限期保存，但解凍後會分離、變得粗糙，不再適合直接塗抹。只有打算用來烘焙時才建議冷凍——起司蛋糕、沾醬、醬汁和糖霜只要重新打勻就沒問題。冷凍時請用保鮮膜加鋁箔包緊，或裝在硬質容器裡。",
+    "thawing": "冷凍的奶油乳酪請放冷藏室解凍 24 小時，再用叉子或攪拌機用力打勻，讓質地重新結合，然後用於烘焙或需要打勻的食譜。絕對不要放室溫解凍。",
+    "spoilage": [
+      "出現任何顏色的絨毛黴，包括鋁箔內側或盒緣",
+      "聞起來是酸敗味、酵母味或發酵味，而不是乾淨的乳酸香",
+      "表面積水，同時有黏滑的薄膜",
+      "邊緣泛黃、變硬龜裂，或吃起來有苦味"
+    ],
+    "tips": [
+      "買兩週內用得完的份量，奶油乳酪不會越放越好。",
+      "只取需要的量，剩下的立刻放回冰箱。",
+      "每次都用乾淨的刀；盒裡掉進麵包屑是提早發霉最常見的原因。",
+      "做糖霜時放室溫 30 分鐘軟化，比用微波爐加熱更容易打得滑順。"
+    ],
+    "faq": [
+      {"q": "奶油乳酪可以冷凍嗎？", "a": "可以，放 −18°C 冷凍，但質地會變粗糙。解凍後建議用在起司蛋糕、沾醬或醬汁等需要重新打勻的料理，不要直接當抹醬。"},
+      {"q": "奶油乳酪放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起大約 2 週，磚裝或盒裝都一樣。"},
+      {"q": "奶油乳酪一定要冰嗎？", "a": "要。它是新鮮乳製品，必須保持在 4°C 以下，每次離開冰箱不要超過 2 小時。"}
+    ]
+  },
+  "ja": {
+    "name": "クリームチーズ",
+    "aliases": ["クリーム・チーズ", "フィラデルフィアタイプ", "フレッシュチーズ（クリーム）", "スプレッドチーズ"],
+    "summary": "クリームチーズは生クリームと牛乳から作る熟成させないソフトチーズで、銀紙包みのブロックやカップ入りで売られています。4℃以下で保存すれば購入日からおよそ2週間が目安です。傷みやすい乳製品なので、常温の棚ではなく必ず冷蔵庫で保存します。",
+    "pantry": "クリームチーズは常温保存できません。塗りやすくしたりフロスティングに泡立てたりするために30分ほど室温に置くのは問題ありませんが、4〜60℃の危険温度帯に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。テーブルに出したベーグルやチーズケーキも同じ2時間ルールが当てはまります。",
+    "fridge": "ドアポケットではなく庫内の棚で、4℃以下を保って保存します。ブロックは銀紙のまま、開封後は保存袋や容器に入れましょう。カップ入りは表面を平らにならしてふたをしっかり閉め、乾燥と庫内のにおい移りを防ぎます。購入日から約2週間が実質的な期限です。取り出すときは必ず清潔なナイフを使い、パンくずが混ざってカビの原因にならないようにします。",
+    "freezer": "−18℃で冷凍でき、安全面では長期間保ちますが、解凍すると分離してざらつき、そのまま塗るには向かなくなります。冷凍するのは製菓に使うぶんだけにしましょう。チーズケーキ、ディップ、ソース、フロスティングなら、なめらかになるまで混ぜ直せば問題ありません。ラップとホイルで密着させて包むか、密閉容器に入れて凍らせます。",
+    "thawing": "冷凍したブロックは冷蔵庫で24時間かけて解凍し、フォークやミキサーでしっかり混ぜて質地を戻してから、加熱・撹拌するレシピに使います。常温解凍は絶対に避けてください。",
+    "spoilage": [
+      "色を問わず毛羽立ったカビが出ている（銀紙の内側やカップの縁も確認）",
+      "清潔な乳の酸味ではなく、酸敗臭・酵母臭・発酵臭がする",
+      "表面に水がたまり、ぬめった膜ができている",
+      "縁が黄ばんで硬くひび割れている、あるいは苦みが残る"
+    ],
+    "tips": [
+      "2週間で使い切れるサイズを買う。置いておいてもおいしくはならない。",
+      "必要な量だけ取り出し、残りはすぐ冷蔵庫に戻す。",
+      "毎回清潔なナイフを使う。カップに入ったパンくずが早期のカビの主因。",
+      "フロスティングは電子レンジではなく室温30分でやわらかくするとなめらかに仕上がる。"
+    ],
+    "faq": [
+      {"q": "クリームチーズは冷凍できますか？", "a": "できます。−18℃で冷凍しますが、ざらついた食感になります。解凍後はチーズケーキやディップ、ソースなど混ぜ直す料理に使い、そのまま塗るのは避けてください。"},
+      {"q": "クリームチーズは冷蔵庫で何日もちますか？", "a": "4℃以下で購入日からおよそ2週間です。ブロックでもカップ入りでも同じ目安になります。"},
+      {"q": "クリームチーズは冷蔵が必要ですか？", "a": "必要です。フレッシュな乳製品なので4℃以下で保存し、一度に2時間以上室温に置かないようにします。"}
+    ]
+  },
+  "es": {
+    "name": "Queso crema",
+    "aliases": ["queso para untar", "queso tipo Philadelphia", "queso crema untable", "queso blanco cremoso"],
+    "summary": "El queso crema es un queso fresco sin madurar elaborado con crema y leche, que se vende en bloques envueltos en papel de aluminio o en tarrina. Guardado a 4 °C (40 °F) o menos se conserva unas 2 semanas desde el día de compra. Es un lácteo perecedero, así que va al refrigerador y nunca a la alacena.",
+    "pantry": "El queso crema no debe guardarse a temperatura ambiente. Dejarlo fuera 30 minutos para que se ablande y se pueda untar o batir en un glaseado está bien, pero pasadas 2 horas en la zona de peligro de 4–60 °C (40–140 °F) —1 hora por encima de 32 °C (90 °F)— hay que desecharlo. Los bagels untados y la tarta de queso en una mesa siguen ese mismo reloj de 2 horas.",
+    "fridge": "Colócalo en un estante interior a 4 °C (40 °F) o menos, nunca en la puerta. Deja el bloque en su papel de aluminio y mételo en una bolsa o caja al abrirlo; en las tarrinas, alisa la superficie y cierra bien la tapa para que no se reseque ni absorba olores. Unas 2 semanas desde la compra es el límite práctico, y conviene usar siempre un cuchillo limpio para no sembrar moho con migas.",
+    "freezer": "Se puede congelar a −18 °C (0 °F) y se mantiene seguro indefinidamente, pero al descongelarse se separa y queda granuloso, así que deja de servir para untar. Congela solo lo que vayas a hornear: tartas de queso, dips, salsas y glaseados lo toleran bien una vez batido de nuevo. Envuélvelo bien con film y aluminio o congélalo en un recipiente rígido.",
+    "thawing": "Descongela el bloque en el refrigerador durante 24 horas y bátelo con fuerza con tenedor o batidora para recomponer la textura antes de usarlo en una receta cocinada o triturada. Nunca lo descongeles a temperatura ambiente.",
+    "spoilage": [
+      "Manchas de moho de cualquier color, incluso bajo el aluminio o en el borde de la tarrina",
+      "Olor agrio, a levadura o fermentado en lugar del punto lácteo limpio",
+      "Líquido acumulado en la superficie junto con una película viscosa",
+      "Bordes amarillentos, endurecidos o agrietados, o regusto amargo"
+    ],
+    "tips": [
+      "Compra el formato que gastes en dos semanas; el queso crema no mejora con el tiempo.",
+      "Saca solo lo que necesites y devuelve el resto al frío enseguida.",
+      "Usa un cuchillo limpio cada vez: las migas en la tarrina son la causa habitual del moho temprano.",
+      "Ablándalo 30 minutos a temperatura ambiente en lugar de en el microondas para un glaseado más liso."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el queso crema?", "a": "Sí, a −18 °C (0 °F), pero queda granuloso. Usa el descongelado en tartas de queso, dips o salsas donde se vuelva a batir, no para untar."},
+      {"q": "¿Cuánto dura el queso crema en el refrigerador?", "a": "Unas 2 semanas desde el día de compra a 4 °C (40 °F) o menos, tanto en bloque como en tarrina."},
+      {"q": "¿El queso crema necesita refrigeración?", "a": "Sí. Es un lácteo fresco y debe mantenerse a 4 °C (40 °F) o menos, sin pasar más de 2 horas seguidas fuera del refrigerador."}
+    ]
+  }
+}

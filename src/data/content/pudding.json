@@ -1,0 +1,111 @@
+{
+  "slug": "pudding",
+  "en": {
+    "name": "Pudding",
+    "aliases": ["pudding cups", "custard pudding", "chocolate pudding", "dessert cups", "instant pudding (prepared)"],
+    "summary": "Pudding here means ready-to-eat creamy dessert cups (chocolate, vanilla, rice or custard-style), whether sold chilled or shelf-stable. Once a cup or container is opened, it keeps about 2 days in the fridge. Unopened, follow the date on the package and the storage instructions on the label.",
+    "pantry": "Only unopened shelf-stable pudding cups can be kept in the pantry, in a cool, dry cupboard, until the date on the package. Pudding sold from the chilled case, homemade pudding and any opened cup must be refrigerated. Once opened or made, do not leave it out for more than 2 hours, or 1 hour if the room is above 32 °C (90 °F); dairy-based desserts spoil quickly in the danger zone.",
+    "fridge": "Keep pudding at 4 °C (40 °F) or below. After opening, cover the cup or transfer leftovers to an airtight container and eat within 2 days. Homemade pudding, including instant mixes prepared with milk, follows the same 2-day rule from the moment it is made. Press plastic wrap onto the surface if you want to avoid a skin forming.",
+    "freezer": "USDA gives no freezer timeline for pudding, and freezing is not recommended for regular pudding. Starch- and milk-based puddings separate, weep and turn grainy or spongy when thawed. If you want a frozen treat, freeze pudding in ice-pop moulds and eat it frozen rather than thawing it.",
+    "thawing": null,
+    "spoilage": [
+      "A sour or off smell when you peel back the lid.",
+      "Watery liquid pooling on top or a texture that has gone lumpy, rubbery or grainy.",
+      "Any mould spots, including fuzzy patches near the rim of the cup.",
+      "A bulging or leaking cup, or a sour, fizzy taste."
+    ],
+    "tips": [
+      "Check whether the cups you bought say refrigerate or shelf-stable; the label decides where they live before opening.",
+      "Eat straight from the cup only if you will finish it; otherwise spoon out a portion so the rest stays clean.",
+      "Write the date on a cup you open or on homemade pudding so the 2-day window is easy to track.",
+      "For lunch boxes, pack pudding cups with an ice pack and eat them within 2 hours of leaving the fridge."
+    ],
+    "faq": [
+      {"q": "Can you freeze pudding?", "a": "It is not recommended. Pudding separates and turns grainy or spongy after thawing, and USDA gives no freezer timeline. Freezing it as ice pops to eat frozen is the one exception."},
+      {"q": "How long does pudding last in the fridge after opening?", "a": "About 2 days at 4 °C (40 °F) or below, covered. The same applies to homemade pudding from the time you make it."},
+      {"q": "How can you tell if pudding has gone bad?", "a": "A sour smell, watery separation, lumps, mould or a bulging cup all mean it should be thrown out."},
+      {"q": "Does pudding need to be refrigerated?", "a": "Opened pudding always does, as does homemade pudding and any pudding sold chilled. Unopened shelf-stable cups can stay in the pantry until the date on the package."}
+    ]
+  },
+  "zh": {
+    "name": "布丁",
+    "aliases": ["雞蛋布丁", "焦糖布丁", "巧克力布丁", "統一布丁", "布甸", "杯裝布丁"],
+    "summary": "這裡的布丁指的是杯裝或盒裝即食的滑嫩甜點，包括雞蛋布丁、焦糖布丁、巧克力布丁和米布丁，不論是冷藏販售或常溫販售的都算。開封後冷藏可以放約 2 天；未開封則依包裝標示的期限和保存方式。",
+    "pantry": "只有未開封、標示常溫保存的布丁可以放在陰涼乾燥的櫃子裡，放到包裝標示的期限。冷藏區買的布丁、自己做的布丁和任何已開封的布丁都要冷藏。開封或做好之後，室溫不要放超過 2 小時（室溫超過 32 °C 時為 1 小時），乳製甜點在危險溫度帶壞得很快。",
+    "fridge": "放在 4 °C 以下冷藏。開封後蓋好，或把剩下的倒進密封盒，2 天內吃完。自己做的布丁，包括用布丁粉加牛奶做的，從做好那一刻起同樣適用 2 天原則。不想表面結一層皮的話，可以用保鮮膜貼著表面蓋起來。",
+    "freezer": "USDA 沒有提供布丁的冷凍期限，一般布丁也不建議冷凍。用澱粉和牛奶做的布丁解凍後會分離、出水，口感變得粗糙或像海綿。如果想吃冰的，可以倒進冰棒模具冷凍，直接當冰棒吃，不要解凍。",
+    "thawing": null,
+    "spoilage": [
+      "撕開蓋子時有酸味或怪味。",
+      "表面積了一灘水，或口感變得結塊、有橡皮感或粗糙。",
+      "出現霉點，包括杯緣附近的毛絨狀斑點。",
+      "杯子膨脹或漏出來，或吃起來有酸味、氣泡感。"
+    ],
+    "tips": [
+      "買的時候看清楚是「需冷藏」還是「常溫保存」，標示決定開封前該放哪裡。",
+      "一次吃得完再直接從杯子裡挖著吃，不然先分一份出來，剩下的才不會被口水污染。",
+      "開封的布丁或自製布丁寫上日期，才好掌握 2 天的期限。",
+      "帶便當時搭配保冷劑，離開冰箱後 2 小時內吃完。"
+    ],
+    "faq": [
+      {"q": "布丁可以冷凍嗎？", "a": "不建議。布丁解凍後會分離、變粗糙或像海綿，USDA 也沒有提供冷凍期限。唯一的例外是做成冰棒直接冰著吃。"},
+      {"q": "布丁開封後放冰箱可以放多久？", "a": "蓋好放在 4 °C 以下約 2 天。自製布丁從做好開始算也是 2 天。"},
+      {"q": "怎麼判斷布丁壞掉了？", "a": "有酸味、出水分離、結塊、長霉或杯子膨脹，都應該丟掉。"},
+      {"q": "布丁一定要放冰箱嗎？", "a": "開封後一定要，自製的和冷藏區販售的也要。未開封的常溫布丁可以放在櫃子裡到包裝標示的期限。"}
+    ]
+  },
+  "ja": {
+    "name": "プリン",
+    "aliases": ["カスタードプリン", "プディング", "チョコプリン", "カッププリン", "焼きプリン"],
+    "summary": "ここでいうプリンは、カスタード、チョコ、ライスプディングなど、カップ入りでそのまま食べられるなめらかなデザートです。冷蔵販売のものも常温販売のものも含みます。開封後は冷蔵で約2日が目安。未開封なら容器の期限と保存方法の表示に従ってください。",
+    "pantry": "常温保存と表示された未開封のプリンだけは、涼しく乾燥した戸棚で期限まで保存できます。冷蔵コーナーで売られているもの、手作りのもの、開封したものは必ず冷蔵してください。開封後や作ったあとは、常温に2時間以上（室温が32 °Cを超える場合は1時間以上）置かないこと。乳製品ベースのデザートは危険温度帯ですぐ傷みます。",
+    "fridge": "4 °C以下で冷蔵します。開封後はふたをするか残りを密閉容器に移し、2日以内に食べきりましょう。手作りプリンや、プリンの素を牛乳で作ったものも、作った時点から同じ2日ルールです。表面に膜を作りたくない場合は、ラップを表面に密着させてかけておきます。",
+    "freezer": "USDAはプリンの冷凍期間を示しておらず、一般的なプリンの冷凍はおすすめしません。でんぷんや牛乳がベースのプリンは、解凍すると分離して水が出て、ざらついたりスポンジ状になったりします。冷たいおやつにしたいなら、アイスキャンディー型で凍らせて、解凍せずそのまま食べましょう。",
+    "thawing": null,
+    "spoilage": [
+      "ふたを開けたときに酸っぱいにおいや変なにおいがする。",
+      "表面に水がたまっている、または食感がダマになったりゴムのようになったりざらついている。",
+      "カビが生えている。カップのふち近くの綿状の斑点にも注意。",
+      "カップが膨らんでいる、漏れている、または酸っぱくてシュワっとした味がする。"
+    ],
+    "tips": [
+      "買ったプリンが「要冷蔵」か「常温保存可」かを確認しましょう。開封前の置き場所は表示で決まります。",
+      "食べきれるときだけカップから直接食べ、そうでなければ一部を取り分けて残りを清潔に保ちましょう。",
+      "開封したカップや手作りプリンには日付を書いておくと、2日の目安を管理しやすくなります。",
+      "お弁当に入れるときは保冷剤を添え、冷蔵庫から出して2時間以内に食べてください。"
+    ],
+    "faq": [
+      {"q": "プリンは冷凍できますか？", "a": "おすすめしません。解凍すると分離してざらついたりスポンジ状になったりし、USDAも冷凍期間を示していません。アイスキャンディーとして凍ったまま食べるのが唯一の例外です。"},
+      {"q": "プリンは開封後、冷蔵庫でどのくらい日持ちしますか？", "a": "ふたをして4 °C以下で約2日です。手作りプリンも作った時点から同じです。"},
+      {"q": "プリンが傷んでいるかどうかの見分け方は？", "a": "酸っぱいにおい、水分の分離、ダマ、カビ、カップの膨らみがあれば処分してください。"},
+      {"q": "プリンは冷蔵庫に入れないとだめですか？", "a": "開封後は必ず冷蔵してください。手作りのものや冷蔵販売のものも同様です。未開封の常温保存タイプだけは、期限まで戸棚で保存できます。"}
+    ]
+  },
+  "es": {
+    "name": "Pudín",
+    "aliases": ["natillas", "flan de vainilla", "pudding", "budín", "postre lácteo en vasito"],
+    "summary": "Por pudín entendemos los postres cremosos listos para comer en vasito (de chocolate, vainilla, arroz con leche o tipo natillas), tanto los que se venden refrigerados como los de larga duración. Una vez abierto el envase, se conserva unos 2 días en la nevera. Sin abrir, sigue la fecha del paquete y las indicaciones de conservación de la etiqueta.",
+    "pantry": "Solo los vasitos sin abrir etiquetados como de larga duración pueden guardarse en la despensa, en un armario fresco y seco, hasta la fecha del envase. El pudín que se vende en la sección refrigerada, el casero y cualquier vasito abierto deben ir a la nevera. Una vez abierto o preparado, no lo dejes fuera más de 2 horas, o 1 hora si hace más de 32 °C (90 °F); los postres lácteos se estropean rápido en la zona de peligro.",
+    "fridge": "Mantén el pudín a 4 °C (40 °F) o menos. Después de abrirlo, tapa el vasito o pasa las sobras a un recipiente hermético y cómelo en 2 días. El pudín casero, incluidas las mezclas instantáneas preparadas con leche, sigue la misma regla de 2 días desde el momento en que se prepara. Si no quieres que forme costra, pega film transparente sobre la superficie.",
+    "freezer": "El USDA no da un plazo de congelación para el pudín, y no se recomienda congelarlo. Los pudines a base de almidón y leche se separan, sueltan agua y quedan granulosos o esponjosos al descongelarse. Si quieres un capricho helado, congélalo en moldes de polos y cómelo congelado, sin descongelar.",
+    "thawing": null,
+    "spoilage": [
+      "Olor agrio o extraño al retirar la tapa.",
+      "Líquido acumulado en la superficie o una textura grumosa, gomosa o granulosa.",
+      "Cualquier punto de moho, incluidas manchas con pelusa cerca del borde del vasito.",
+      "Envase hinchado o que gotea, o un sabor agrio y con burbujas."
+    ],
+    "tips": [
+      "Comprueba si los vasitos que compraste indican refrigerar o larga duración; la etiqueta decide dónde guardarlos antes de abrir.",
+      "Come directamente del vasito solo si vas a terminarlo; si no, sirve una porción para que el resto no se contamine.",
+      "Anota la fecha en el vasito abierto o en el pudín casero para controlar los 2 días.",
+      "Para la fiambrera, lleva el vasito con un acumulador de frío y cómelo antes de 2 horas fuera de la nevera."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el pudín?", "a": "No es recomendable. Se separa y queda granuloso o esponjoso al descongelarse, y el USDA no da un plazo de congelación. La única excepción es congelarlo en forma de polo para comerlo helado."},
+      {"q": "¿Cuánto dura el pudín en la nevera una vez abierto?", "a": "Unos 2 días a 4 °C (40 °F) o menos, tapado. Lo mismo vale para el pudín casero desde que lo preparas."},
+      {"q": "¿Cómo saber si el pudín está malo?", "a": "Olor agrio, agua separada, grumos, moho o un envase hinchado indican que hay que tirarlo."},
+      {"q": "¿El pudín necesita refrigeración?", "a": "El pudín abierto siempre, igual que el casero y el que se vende refrigerado. Los vasitos de larga duración sin abrir pueden quedarse en la despensa hasta la fecha del envase."}
+    ]
+  }
+}
