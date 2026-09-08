@@ -1,0 +1,820 @@
+[
+ {
+  "slug": "rockfish",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 145,
+  "derivedFrom": "lean-fish-pollock-ocean-perch-rockfish-sea-trout",
+  "derivedFromName": "Lean fish, pollock, ocean perch, rockfish, sea trout.",
+  "name": "Rockfish",
+  "subtitle": null,
+  "keywords": [
+   "rockfish",
+   "Lean fish",
+   "pollock",
+   "ocean",
+   "sea",
+   "sea trout",
+   "fish",
+   "ocean perch",
+   "perch",
+   "trout",
+   "rock"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 4,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "sea-trout",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 145,
+  "derivedFrom": "lean-fish-pollock-ocean-perch-rockfish-sea-trout",
+  "derivedFromName": "Lean fish, pollock, ocean perch, rockfish, sea trout.",
+  "name": "Sea trout",
+  "subtitle": null,
+  "keywords": [
+   "sea trout",
+   "Lean fish",
+   "pollock",
+   "ocean",
+   "rockfish",
+   "sea",
+   "fish",
+   "ocean perch",
+   "perch",
+   "trout",
+   "rock"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 4,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "salmon",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 146,
+  "derivedFrom": "fatty-fish-bluefish-catfish-mackerel-mullet-salmon-tuna",
+  "derivedFromName": "Fatty fish, bluefish, catfish, mackerel, mullet, salmon, tuna, etc.",
+  "name": "Salmon",
+  "subtitle": null,
+  "keywords": [
+   "salmon",
+   "Fatty fish",
+   "bluefish",
+   "catfish",
+   "mackerel",
+   "mullet",
+   "tuna",
+   "fish",
+   "fatty",
+   "blue",
+   "cat"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 3,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "tuna-fresh",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 146,
+  "derivedFrom": "fatty-fish-bluefish-catfish-mackerel-mullet-salmon-tuna",
+  "derivedFromName": "Fatty fish, bluefish, catfish, mackerel, mullet, salmon, tuna, etc.",
+  "name": "Tuna",
+  "subtitle": "fresh",
+  "keywords": [
+   "tuna",
+   "ahi",
+   "bluefin",
+   "Fatty fish",
+   "bluefish",
+   "catfish",
+   "mackerel",
+   "mullet",
+   "salmon",
+   "fish",
+   "fatty",
+   "blue",
+   "cat"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 3,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "mackerel",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 146,
+  "derivedFrom": "fatty-fish-bluefish-catfish-mackerel-mullet-salmon-tuna",
+  "derivedFromName": "Fatty fish, bluefish, catfish, mackerel, mullet, salmon, tuna, etc.",
+  "name": "Mackerel",
+  "subtitle": null,
+  "keywords": [
+   "mackerel",
+   "Fatty fish",
+   "bluefish",
+   "catfish",
+   "mullet",
+   "salmon",
+   "tuna",
+   "fish",
+   "fatty",
+   "blue",
+   "cat"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 3,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "catfish",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 146,
+  "derivedFrom": "fatty-fish-bluefish-catfish-mackerel-mullet-salmon-tuna",
+  "derivedFromName": "Fatty fish, bluefish, catfish, mackerel, mullet, salmon, tuna, etc.",
+  "name": "Catfish",
+  "subtitle": null,
+  "keywords": [
+   "catfish",
+   "Fatty fish",
+   "bluefish",
+   "mackerel",
+   "mullet",
+   "salmon",
+   "tuna",
+   "fish",
+   "fatty",
+   "blue",
+   "cat"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 3,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "bluefish",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 146,
+  "derivedFrom": "fatty-fish-bluefish-catfish-mackerel-mullet-salmon-tuna",
+  "derivedFromName": "Fatty fish, bluefish, catfish, mackerel, mullet, salmon, tuna, etc.",
+  "name": "Bluefish",
+  "subtitle": null,
+  "keywords": [
+   "bluefish",
+   "Fatty fish",
+   "catfish",
+   "mackerel",
+   "mullet",
+   "salmon",
+   "tuna",
+   "fish",
+   "fatty",
+   "blue",
+   "cat"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 3,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "mullet",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 146,
+  "derivedFrom": "fatty-fish-bluefish-catfish-mackerel-mullet-salmon-tuna",
+  "derivedFromName": "Fatty fish, bluefish, catfish, mackerel, mullet, salmon, tuna, etc.",
+  "name": "Mullet",
+  "subtitle": null,
+  "keywords": [
+   "mullet",
+   "Fatty fish",
+   "bluefish",
+   "catfish",
+   "mackerel",
+   "salmon",
+   "tuna",
+   "fish",
+   "fatty",
+   "blue",
+   "cat"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 3,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "shrimp",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 151,
+  "derivedFrom": "shrimp-crayfish",
+  "derivedFromName": "Shrimp, crayfish",
+  "name": "Shrimp",
+  "subtitle": null,
+  "keywords": [
+   "shrimp",
+   "prawn",
+   "prawns",
+   "Shrimp",
+   "crayfish",
+   "cray",
+   "fish"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 3,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 18,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "crayfish",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 151,
+  "derivedFrom": "shrimp-crayfish",
+  "derivedFromName": "Shrimp, crayfish",
+  "name": "Crayfish",
+  "subtitle": null,
+  "keywords": [
+   "crayfish",
+   "crawfish",
+   "Shrimp",
+   "cray",
+   "fish"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 3,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 18,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "clams-shucked",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 153,
+  "derivedFrom": "shucked-clams-mussels-and-oysters",
+  "derivedFromName": "Shucked clams, mussels, and oysters",
+  "name": "Clams",
+  "subtitle": "shucked",
+  "keywords": [
+   "clam",
+   "clams",
+   "Shucked clams",
+   "mussels",
+   "oysters",
+   "mussel",
+   "oyster"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 10,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 4,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "mussels-shucked",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 153,
+  "derivedFrom": "shucked-clams-mussels-and-oysters",
+  "derivedFromName": "Shucked clams, mussels, and oysters",
+  "name": "Mussels",
+  "subtitle": "shucked",
+  "keywords": [
+   "mussel",
+   "mussels",
+   "Shucked clams",
+   "oysters",
+   "clams",
+   "clam",
+   "oyster"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 10,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 4,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "oysters-shucked",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 153,
+  "derivedFrom": "shucked-clams-mussels-and-oysters",
+  "derivedFromName": "Shucked clams, mussels, and oysters",
+  "name": "Oysters",
+  "subtitle": "shucked",
+  "keywords": [
+   "oyster",
+   "oysters",
+   "Shucked clams",
+   "mussels",
+   "clams",
+   "clam",
+   "mussel"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 10,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 4,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "cheddar-cheese",
+  "category": "dairy-eggs",
+  "source": "usda-foodkeeper",
+  "sourceId": 3,
+  "derivedFrom": "cheese-hard-cheddar-swiss-block-parmesan",
+  "derivedFromName": "Cheese, hard such as cheddar, swiss, block parmesan",
+  "name": "Cheddar",
+  "subtitle": null,
+  "keywords": [
+   "cheddar",
+   "Cheese",
+   "swiss",
+   "parmesan"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 6,
+     "unit": "months",
+     "tips": null
+    },
+    "afterOpening": {
+     "min": 3,
+     "max": 4,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 6,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "swiss-cheese",
+  "category": "dairy-eggs",
+  "source": "usda-foodkeeper",
+  "sourceId": 3,
+  "derivedFrom": "cheese-hard-cheddar-swiss-block-parmesan",
+  "derivedFromName": "Cheese, hard such as cheddar, swiss, block parmesan",
+  "name": "Swiss cheese",
+  "subtitle": null,
+  "keywords": [
+   "swiss",
+   "emmental",
+   "gruyere",
+   "Cheese",
+   "cheddar",
+   "parmesan"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 6,
+     "unit": "months",
+     "tips": null
+    },
+    "afterOpening": {
+     "min": 3,
+     "max": 4,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 6,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "parmesan-block",
+  "category": "dairy-eggs",
+  "source": "usda-foodkeeper",
+  "sourceId": 3,
+  "derivedFrom": "cheese-hard-cheddar-swiss-block-parmesan",
+  "derivedFromName": "Cheese, hard such as cheddar, swiss, block parmesan",
+  "name": "Parmesan",
+  "subtitle": "block",
+  "keywords": [
+   "parmesan",
+   "parmigiano",
+   "Cheese",
+   "cheddar",
+   "swiss"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 6,
+     "unit": "months",
+     "tips": null
+    },
+    "afterOpening": {
+     "min": 3,
+     "max": 4,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 6,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "brie",
+  "category": "dairy-eggs",
+  "source": "usda-foodkeeper",
+  "sourceId": 7,
+  "derivedFrom": "cheese-soft-brie-bel-paese-goat",
+  "derivedFromName": "Cheese, soft such as brie, bel paese, goat",
+  "name": "Brie",
+  "subtitle": null,
+  "keywords": [
+   "brie",
+   "camembert",
+   "Cheese",
+   "bel paese",
+   "goat"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 6,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "goat-cheese",
+  "category": "dairy-eggs",
+  "source": "usda-foodkeeper",
+  "sourceId": 7,
+  "derivedFrom": "cheese-soft-brie-bel-paese-goat",
+  "derivedFromName": "Cheese, soft such as brie, bel paese, goat",
+  "name": "Goat cheese",
+  "subtitle": null,
+  "keywords": [
+   "goat cheese",
+   "chevre",
+   "Cheese",
+   "brie",
+   "bel paese",
+   "goat"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 6,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "liver",
+  "category": "meat",
+  "source": "usda-foodkeeper",
+  "sourceId": 77,
+  "derivedFrom": "variety-meats-liver-tongue-chitterlings",
+  "derivedFromName": "Variety meats, liver, tongue, chitterlings, etc.",
+  "name": "Liver",
+  "subtitle": null,
+  "keywords": [
+   "liver",
+   "offal",
+   "Variety meats",
+   "tongue",
+   "chitterlings",
+   "meats",
+   "meat",
+   "chitterling"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 4,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "tongue",
+  "category": "meat",
+  "source": "usda-foodkeeper",
+  "sourceId": 77,
+  "derivedFrom": "variety-meats-liver-tongue-chitterlings",
+  "derivedFromName": "Variety meats, liver, tongue, chitterlings, etc.",
+  "name": "Tongue",
+  "subtitle": null,
+  "keywords": [
+   "tongue",
+   "offal",
+   "Variety meats",
+   "liver",
+   "chitterlings",
+   "meats",
+   "meat",
+   "chitterling"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 4,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "collard-greens",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 287,
+  "derivedFrom": "greens",
+  "derivedFromName": "Greens",
+  "name": "Collard and mustard greens",
+  "subtitle": null,
+  "keywords": [
+   "collard",
+   "mustard greens",
+   "turnip greens",
+   "Greens",
+   "green"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 4,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ }
+]

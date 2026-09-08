@@ -1,0 +1,107 @@
+{
+  "slug": "dates",
+  "en": {
+    "name": "Dates",
+    "aliases": ["Medjool dates", "Deglet Noor", "dried dates", "date fruit"],
+    "summary": "Dates are naturally very high in sugar and low in water, which makes them one of the longest-keeping fruits. At room temperature they keep about 2 months from the date of purchase; refrigerated they last about 12 months, and frozen they keep 1–2 years. Sugar crystals on the surface are a sign of drying, not spoilage.",
+    "pantry": "Keep dates in an airtight container in a cool, dry cupboard away from the stove, where they stay good for about 2 months from purchase. In a warm, humid kitchen they can ferment or attract insects, so a sealed jar matters. Soft Medjool dates dry out faster in the cupboard than firmer varieties like Deglet Noor.",
+    "fridge": "The fridge is where dates last longest without freezing: about 12 months at 4 °C (40 °F) or below in an airtight container. Cold keeps them plump and stops the natural sugars fermenting. Let them come to room temperature for 15 minutes before eating, as cold mutes their caramel flavour.",
+    "freezer": "Dates freeze for 1–2 years at −18 °C (0 °F) with almost no loss of quality. Pack them into airtight bags or containers with the air pressed out; they do not freeze rock hard because of the sugar content, so you can often break off what you need.",
+    "thawing": "Thaw dates in the fridge or at room temperature for about 30 minutes. They stay soft enough to use almost straight away, and no special safety precautions are needed.",
+    "spoilage": [
+      "Fermented, alcoholic or vinegary smell",
+      "Mould, especially in the crease or around the stem",
+      "Slimy or sticky-wet surface rather than pleasantly tacky",
+      "Insects, larvae or webbing in the container"
+    ],
+    "tips": [
+      "White sugar crystals on the surface are harmless — steam or briefly soak the dates to soften them",
+      "Store in an airtight jar rather than the open cardboard box they often come in",
+      "Refrigerate if you buy a large box you will not finish in two months",
+      "Freeze pitted dates in portions ready for smoothies and baking"
+    ],
+    "faq": [
+      {"q": "How long do dates last in the fridge?", "a": "About 12 months at 4 °C (40 °F) or below in an airtight container. At room temperature they keep about 2 months from purchase."},
+      {"q": "Can you freeze dates?", "a": "Yes. Sealed airtight at −18 °C (0 °F) they keep 1–2 years and stay soft enough to break apart straight from the freezer."},
+      {"q": "Are white crystals on dates mould?", "a": "Usually not. White sugar crystals form as the dates dry and are harmless. Fuzzy grey or green growth with a fermented smell is mould and means discard."}
+    ]
+  },
+  "zh": {
+    "name": "椰棗",
+    "aliases": ["蜜棗", "帝王椰棗", "medjool", "阿拉伯椰棗", "沙漠椰棗"],
+    "summary": "椰棗天然含糖量極高、水分很低，是最耐放的水果之一。室溫下從購買日起約可放 2 個月；冷藏可放約 12 個月，冷凍則可保存 1～2 年。表面出現糖結晶是乾燥造成的，不是變質。",
+    "pantry": "椰棗請裝進密封容器，放在陰涼乾燥、遠離爐火的櫥櫃，從購買日起約可放 2 個月。在又熱又濕的廚房裡它可能發酵或招蟲，所以密封罐很重要。柔軟的帝王椰棗在櫥櫃裡乾得比 Deglet Noor 這類較硬的品種快。",
+    "fridge": "不冷凍的話，冰箱是椰棗最耐放的地方：用密封容器放 4°C 以下，約可保存 12 個月。低溫能維持飽滿的口感，也能阻止天然糖分發酵。吃之前先拿出來放 15 分鐘，因為低溫會壓抑它的焦糖風味。",
+    "freezer": "椰棗放 −18°C 冷凍可保存 1～2 年，品質幾乎不會下降。裝進密封袋或容器、擠出空氣即可；因為含糖量高，它不會凍成硬邦邦一塊，通常可以直接剝下需要的量。",
+    "thawing": "放冷藏室或室溫退冰約 30 分鐘即可。它退冰後很快就恢復柔軟，沒有特別的食安注意事項。",
+    "spoilage": [
+      "有發酵味、酒精味或醋酸味",
+      "長黴，尤其是在果實的凹褶或蒂頭附近",
+      "表面變得黏滑濕爛，而不是舒服的微黏",
+      "容器裡有昆蟲、幼蟲或蛛絲"
+    ],
+    "tips": [
+      "表面的白色糖結晶無害，蒸一下或稍微泡水就會軟回來",
+      "裝在密封玻璃罐裡，不要留在原本敞開的紙盒",
+      "買了大盒又兩個月內吃不完，就直接改放冷藏",
+      "去核後分小份冷凍，隨時可以打果昔或烘焙"
+    ],
+    "faq": [
+      {"q": "椰棗放冰箱可以放多久？", "a": "用密封容器放 4°C 以下約 12 個月。放室溫的話，從購買日起約 2 個月。"},
+      {"q": "椰棗可以冷凍嗎？", "a": "可以。密封放 −18°C 可保存 1～2 年，而且不會凍成硬塊，可以直接剝取需要的量。"},
+      {"q": "椰棗上的白色結晶是發霉嗎？", "a": "通常不是。那是乾燥過程中析出的糖結晶，無害。如果是灰綠色的絨毛狀並帶發酵味，那才是黴菌，要丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "デーツ（なつめやし）",
+    "aliases": ["デーツ", "ナツメヤシ", "メジュール", "デグレットノール", "干しデーツ"],
+    "summary": "デーツは糖分が非常に多く水分が少ないため、果物のなかでも特に日持ちします。常温では購入日から約2か月、冷蔵なら約12か月、冷凍なら1〜2年保存できます。表面の白い糖の結晶は乾燥によるもので、傷んだ証拠ではありません。",
+    "pantry": "密閉容器に入れ、コンロから離れた涼しく乾燥した戸棚で保存すれば、購入日から約2か月持ちます。高温多湿の台所では発酵したり虫がついたりするので、密閉が重要です。やわらかいメジュールは、デグレットノールのような固めの品種より常温で早く乾きます。",
+    "fridge": "冷凍しないなら冷蔵が最長で、密閉容器に入れて4℃以下なら約12か月保存できます。低温でふっくら感が保たれ、糖分の発酵も止まります。冷たいままだとキャラメルのような風味が弱いので、食べる15分前に出しておきましょう。",
+    "freezer": "−18℃の冷凍なら1〜2年、品質をほとんど落とさず保存できます。密閉袋や容器の空気を抜いて冷凍を。糖分が多いためカチカチには凍らず、必要な分だけ割り取れることが多いです。",
+    "thawing": "冷蔵庫か室温で30分ほど解凍すれば十分です。すぐやわらかくなり、安全面で特別な注意は要りません。",
+    "spoilage": [
+      "発酵臭、アルコール臭、酢のようなにおい",
+      "カビ（実のくぼみやヘタのまわりに出やすい）",
+      "心地よいねっとり感ではなく、ぬめって濡れている",
+      "容器の中に虫、幼虫、クモの巣状のもの"
+    ],
+    "tips": [
+      "表面の白い糖の結晶は無害。蒸すか軽く水に浸せば戻ります",
+      "開いた紙箱のままにせず、密閉瓶で保存しましょう",
+      "大箱を買って2か月で食べ切れないなら冷蔵へ",
+      "種を抜いて小分け冷凍すれば、スムージーや焼き菓子にすぐ使えます"
+    ],
+    "faq": [
+      {"q": "デーツは冷蔵庫でどのくらい持ちますか？", "a": "密閉容器に入れて4℃以下なら約12か月です。常温なら購入日から約2か月が目安になります。"},
+      {"q": "デーツは冷凍できますか？", "a": "できます。密閉して−18℃なら1〜2年。カチカチにならないので必要な分だけ割り取れます。"},
+      {"q": "デーツの白い結晶はカビですか？", "a": "たいていは違います。乾燥で表面に出た糖の結晶で無害です。灰緑色でふわふわし、発酵臭がするものはカビなので処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Dátiles",
+    "aliases": ["dátiles Medjool", "dátiles Deglet Noor", "dátiles secos", "fruto de la palmera datilera"],
+    "summary": "Los dátiles tienen muchísimo azúcar y poca agua, lo que los convierte en una de las frutas que más duran. A temperatura ambiente se conservan unos 2 meses desde la compra; refrigerados alrededor de 12 meses, y congelados 1–2 años. Los cristales de azúcar en la superficie indican secado, no deterioro.",
+    "pantry": "Guárdalos en un recipiente hermético en un armario fresco y seco lejos de los fogones, donde se mantienen unos 2 meses desde la compra. En una cocina cálida y húmeda pueden fermentar o atraer insectos, así que el tarro cerrado importa. Los Medjool blandos se resecan antes en la despensa que variedades más firmes como Deglet Noor.",
+    "fridge": "La nevera es donde más duran sin congelarlos: alrededor de 12 meses a 4 °C (40 °F) o menos en un recipiente hermético. El frío los mantiene carnosos y evita que los azúcares fermenten. Déjalos atemperar 15 minutos antes de comerlos, porque el frío apaga su sabor a caramelo.",
+    "freezer": "Se congelan 1–2 años a −18 °C (0 °F) casi sin pérdida de calidad. Guárdalos en bolsas o recipientes herméticos sin aire; por su azúcar no se congelan duros como una piedra, así que suele poder separarse lo que necesites.",
+    "thawing": "Descongélalos en la nevera o a temperatura ambiente unos 30 minutos. Quedan lo bastante blandos para usarlos casi enseguida y no requieren precauciones especiales.",
+    "spoilage": [
+      "Olor fermentado, alcohólico o avinagrado",
+      "Moho, sobre todo en el pliegue o alrededor del rabito",
+      "Superficie viscosa o mojada en lugar de agradablemente pegajosa",
+      "Insectos, larvas o telarañas en el recipiente"
+    ],
+    "tips": [
+      "Los cristales blancos de azúcar son inofensivos: vaporiza o remoja brevemente los dátiles para ablandarlos",
+      "Guárdalos en un tarro hermético y no en la caja de cartón abierta",
+      "Refrigéralos si compras una caja grande que no vayas a terminar en dos meses",
+      "Congela dátiles deshuesados en porciones listas para batidos y repostería"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los dátiles en la nevera?", "a": "Alrededor de 12 meses a 4 °C (40 °F) o menos en un recipiente hermético. A temperatura ambiente, unos 2 meses desde la compra."},
+      {"q": "¿Se pueden congelar los dátiles?", "a": "Sí. Herméticos a −18 °C (0 °F) duran 1–2 años y quedan lo bastante blandos para separarlos recién sacados del congelador."},
+      {"q": "¿Los cristales blancos de los dátiles son moho?", "a": "Normalmente no. Son cristales de azúcar que aparecen al secarse y son inofensivos. Una capa peluda gris o verde con olor fermentado sí es moho y obliga a tirarlos."}
+    ]
+  }
+}

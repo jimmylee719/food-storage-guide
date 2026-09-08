@@ -1,0 +1,107 @@
+{
+  "slug": "sausage-raw-bulk-type-patties",
+  "en": {
+    "name": "Raw bulk sausage or sausage patties",
+    "aliases": ["sausage meat", "breakfast sausage patties", "loose sausage", "uncased sausage"],
+    "summary": "Raw bulk sausage is seasoned ground meat sold loose or pressed into patties, without a casing — think breakfast sausage or stuffing meat. Like other ground meat it is highly perishable: 1–2 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 1–2 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw sausage meat must never be left at room temperature. Grinding mixes surface bacteria right through the batch, and the added salt and spices do not preserve it, so in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) it spoils quickly. Discard sausage meat left out for more than 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Keep it in its tray or a sealed container on the bottom shelf at 4 °C (40 °F) or below, on a plate to catch any leakage. Use it within 1–2 days of purchase, whether or not the pack is open. Shaping the meat into patties in advance is fine; stack them with baking paper between and keep them covered.",
+    "freezer": "The freezer window is 1–2 months for best quality — much shorter than plain ground meat, because salt and spices speed up fat rancidity, though the meat stays safe indefinitely at −18 °C (0 °F). Shape patties, stack them with paper between, bag them flat and press out the air so you can cook one or two at a time.",
+    "thawing": "Thaw in the fridge overnight, or in a sealed bag under cold water changed every 30 minutes, and cook straight away. Patties can also be cooked from frozen over medium heat with a lid. Never thaw sausage meat on the counter, and cook it through to 71 °C (160 °F).",
+    "spoilage": [
+      "Sour, ammonia-like or unusually strong smell that the spices cannot mask",
+      "Slimy or sticky surface",
+      "Dull grey-brown or greenish colour throughout the batch",
+      "Bulging or leaking packaging, or a passed use-by date"
+    ],
+    "tips": [
+      "Buy it on the day you plan to cook it — 1–2 days is a short window.",
+      "Shape and freeze patties with paper between them for easy single servings.",
+      "Fry a teaspoon of the mixture first to check the seasoning before shaping.",
+      "Cook to 71 °C (160 °F) throughout, as with any ground meat."
+    ],
+    "faq": [
+      {"q": "Can you freeze raw sausage meat?", "a": "Yes. Shape it into patties, stack with paper and freeze flat at −18 °C (0 °F): safe indefinitely and best quality for 1–2 months."},
+      {"q": "How long does raw sausage meat last in the fridge?", "a": "Only 1–2 days from the day of purchase at 4 °C (40 °F) or below. Freeze it the same day if you cannot cook it."},
+      {"q": "Do the spices in sausage preserve it?", "a": "No. Seasonings add flavour but do not preserve raw sausage meat, which spoils just as fast as plain ground meat — sometimes faster, because the fat is more exposed."}
+    ]
+  },
+  "zh": {
+    "name": "生香腸肉／香腸肉餅",
+    "aliases": ["香腸肉餡", "早餐香腸肉餅", "無腸衣香腸肉", "調味絞肉"],
+    "summary": "生香腸肉是調味過的絞肉，不灌腸衣，散裝或壓成肉餅販售，常見於早餐香腸或填餡用途。和其他絞肉一樣非常容易腐敗：在 4°C 以下冷藏，從購買日起只能放 1～2 天；放 −18°C 冷凍可放 1～2 個月。",
+    "pantry": "生香腸肉絕對不能放室溫。絞碎會把表面的細菌混進整批肉裡，加的鹽和香料並沒有防腐效果，因此在 4～60°C 的危險溫度帶會很快變質。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "連原盒或裝進密封容器，放在盤子上、置於冰箱最下層，維持 4°C 以下。從購買日起 1～2 天內用完，不論有沒有拆封。可以先捏成肉餅，用烘焙紙隔開疊放並蓋好即可。",
+    "freezer": "冷凍品質期限是 1～2 個月，比一般絞肉短很多，因為鹽和香料會加速脂肪酸敗（在 −18°C 下安全上仍可無限期保存）。建議先捏成肉餅、用紙隔開疊好，平放裝袋並擠出空氣，之後一次煎一兩片很方便。",
+    "thawing": "放冷藏室解凍一晚，或裝密封袋泡冷水、每 30 分鐘換水，解凍後立刻烹調。肉餅也可以直接從冷凍下鍋，用中火加蓋慢慢煎熟。絕對不要放室溫退冰；一定要煮到中心 71°C。",
+    "spoilage": [
+      "出現連香料都蓋不住的酸味、阿摩尼亞味或異常強烈的氣味",
+      "表面黏滑、發黏",
+      "整批肉都變成暗灰褐色或帶綠色",
+      "包裝鼓起或漏汁，或已超過有效日期"
+    ],
+    "tips": [
+      "當天要煮才買，1～2 天真的很短。",
+      "捏成肉餅、用紙隔開冷凍，之後一片一片很好取用。",
+      "捏之前先煎一小匙試味道，再調整調味。",
+      "和所有絞肉一樣，要煮到中心 71°C。"
+    ],
+    "faq": [
+      {"q": "生香腸肉可以冷凍嗎？", "a": "可以。捏成肉餅、用紙隔開後平放冷凍在 −18°C：安全上無限期，品質以 1～2 個月為佳。"},
+      {"q": "生香腸肉放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起只有 1～2 天。當天煮不完就直接冷凍。"},
+      {"q": "香腸裡的香料有防腐效果嗎？", "a": "沒有。調味只是提味，生香腸肉壞得和一般絞肉一樣快，有時甚至更快，因為脂肪更暴露在外。"}
+    ]
+  },
+  "ja": {
+    "name": "生ソーセージ肉・パティ（腸詰めなし）",
+    "aliases": ["ソーセージミート", "腸詰めしない生ソーセージ", "朝食用ソーセージパティ", "味付けひき肉"],
+    "summary": "腸詰めしていない生ソーセージ肉は、味付けしたひき肉をそのまま、またはパティ状にして売る商品で、朝食用ソーセージや詰め物用として使われます。ほかのひき肉と同じく傷みやすく、4℃以下の冷蔵で購入日から1〜2日、−18℃の冷凍で1〜2か月が目安です。",
+    "pantry": "生のソーセージ肉を常温に置くことはできません。挽く工程で表面の細菌が全体に混ざり、加えられた塩やスパイスに保存効果はないため、4〜60℃の危険温度帯では急速に傷みます。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。",
+    "fridge": "トレーのまま、または密閉容器に入れ、皿にのせて冷蔵庫の最下段で4℃以下を保ちます。開封の有無にかかわらず、購入日から1〜2日以内に使い切ってください。あらかじめパティに成形しても構いません。クッキングシートを挟んで重ね、覆いをして保存します。",
+    "freezer": "冷凍の品質目安は1〜2か月で、味付けのないひき肉よりかなり短めです。塩とスパイスが脂の酸化を早めるためです（−18℃なら安全面では長期間保存できます）。パティに成形し、紙を挟んで重ね、袋に平らに入れて空気を抜くと、1〜2枚ずつ焼けて便利です。",
+    "thawing": "冷蔵庫で一晩、または密閉袋で冷水につけ30分ごとに水を替えて解凍し、すぐ調理します。パティは凍ったままふたをして中火で焼く方法も可能です。常温解凍は避け、中心温度71℃までしっかり加熱してください。",
+    "spoilage": [
+      "スパイスでも隠しきれない酸敗臭、アンモニア臭、異常に強いにおいがする",
+      "表面がぬめる・べたつく",
+      "全体がくすんだ灰褐色や緑がかった色に変わっている",
+      "パックが膨らむ・汁が漏れている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "調理する日に買う。1〜2日はかなり短い。",
+      "パティに成形し、紙を挟んで冷凍すると1枚ずつ使える。",
+      "成形前に小さじ1ほど焼いて味を確認すると失敗しない。",
+      "ほかのひき肉と同様、中心温度71℃まで加熱する。"
+    ],
+    "faq": [
+      {"q": "生のソーセージ肉は冷凍できますか？", "a": "できます。パティに成形し紙を挟んで平らに冷凍（−18℃）。安全面では長期間、品質は1〜2か月が目安です。"},
+      {"q": "生のソーセージ肉は冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から1〜2日だけです。調理できないなら当日中に冷凍してください。"},
+      {"q": "スパイスに保存効果はありますか？", "a": "ありません。調味は風味のためで、生のソーセージ肉は普通のひき肉と同じ速さで傷みます。脂が露出しているぶん、より早いこともあります。"}
+    ]
+  },
+  "es": {
+    "name": "Carne de salchicha cruda o en medallones",
+    "aliases": ["carne para salchicha", "medallones de salchicha", "salchicha sin tripa", "carne condimentada para embutir"],
+    "summary": "La carne de salchicha cruda es carne molida condimentada que se vende suelta o prensada en medallones, sin tripa: la típica salchicha de desayuno o la carne para rellenos. Como toda carne molida es muy perecedera: 1–2 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y 1–2 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "La carne de salchicha cruda nunca debe dejarse a temperatura ambiente. El molido mezcla las bacterias de la superficie con toda la masa, y la sal y las especias añadidas no la conservan, así que en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F) se estropea rápido. Desecha la que lleve más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Guárdala en su bandeja o en un recipiente cerrado, sobre un plato, en el estante inferior a 4 °C (40 °F) o menos. Úsala en 1–2 días desde la compra, esté abierto o no el envase. Puedes formar los medallones con antelación: apílalos separados con papel de horno y mantenlos tapados.",
+    "freezer": "El plazo en congelador es de 1–2 meses para la mejor calidad, mucho menos que la carne molida sin condimentar, porque la sal y las especias aceleran el enranciamiento, aunque siga segura indefinidamente a −18 °C (0 °F). Forma los medallones, apílalos con papel, embólsalos planos y saca el aire para cocinar uno o dos cada vez.",
+    "thawing": "Descongélala en el refrigerador durante una noche, o en bolsa cerrada bajo agua fría cambiada cada 30 minutos, y cocínala enseguida. Los medallones también se pueden cocinar congelados a fuego medio con tapa. Nunca la descongeles en la encimera y cocínala hasta 71 °C (160 °F).",
+    "spoilage": [
+      "Olor agrio, a amoníaco o inusualmente fuerte que las especias no logran tapar",
+      "Superficie viscosa o pegajosa",
+      "Color gris pardo apagado o verdoso en toda la masa",
+      "Envase hinchado o con fugas, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Cómprala el día que vayas a cocinarla: 1–2 días es poco margen.",
+      "Forma y congela los medallones con papel entre ellos para raciones individuales.",
+      "Fríe una cucharadita de la mezcla para probar el punto de sal antes de formar.",
+      "Cocínala hasta 71 °C (160 °F), como cualquier carne molida."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la carne de salchicha cruda?", "a": "Sí. Forma medallones, apílalos con papel y congélalos planos a −18 °C (0 °F): seguros indefinidamente y con la mejor calidad 1–2 meses."},
+      {"q": "¿Cuánto dura la carne de salchicha cruda en el refrigerador?", "a": "Solo 1–2 días desde el día de compra a 4 °C (40 °F) o menos. Congélala el mismo día si no puedes cocinarla."},
+      {"q": "¿Las especias conservan la salchicha?", "a": "No. Los condimentos aportan sabor pero no conservan la carne cruda, que se estropea igual de rápido que la molida sin condimentar, a veces incluso antes porque la grasa está más expuesta."}
+    ]
+  }
+}

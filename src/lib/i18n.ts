@@ -89,6 +89,7 @@ type Dict = {
   seeGuide: string;
   languageLabel: string;
   toc: string;
+  groupedWith: (parent: string) => string;
   foodTitleShort: (name: string) => string;
   allFoodsDescription: string;
   homeFaqHeading: string;
@@ -168,6 +169,7 @@ const zh: Dict = {
   seeGuide: '閱讀完整指南',
   languageLabel: '語言',
   toc: '本文目錄',
+  groupedWith: (parent) => `美國農業部 FoodKeeper 將此食材與「${parent}」歸為同一筆資料，保存期限相同。`,
   foodTitleShort: (name) => `${name}保存期限一覽`,
   allFoodsDescription: '依分類瀏覽全部收錄食材，快速找到你要查的東西。每個分類頁都有常溫、冷藏、冷凍三欄的保存期限對照表。',
   homeFaqHeading: '關於食物保存的常見問題',
@@ -253,6 +255,7 @@ const en: Dict = {
   seeGuide: 'Read the full guide',
   languageLabel: 'Language',
   toc: 'On this page',
+  groupedWith: (parent) => `The USDA FoodKeeper dataset groups this food with "${parent}" in a single record, so the timelines are shared.`,
   foodTitleShort: (name) => `${name} storage times`,
   allFoodsDescription: 'Browse every food in the database by category. Each category page carries a side-by-side table of pantry, refrigerator and freezer times.',
   homeFaqHeading: 'Common questions about storing food',
@@ -338,6 +341,7 @@ const ja: Dict = {
   seeGuide: 'ガイドを読む',
   languageLabel: '言語',
   toc: '目次',
+  groupedWith: (parent) => `米国農務省 FoodKeeper では、この食材は「${parent}」と同じ 1 件のデータにまとめられているため、保存期間は共通です。`,
   foodTitleShort: (name) => `${name}の保存期間`,
   allFoodsDescription: '収録しているすべての食材をカテゴリー別に一覧できます。各カテゴリーのページに常温・冷蔵・冷凍の保存期間の対照表があります。',
   homeFaqHeading: '食品保存についてよくある質問',
@@ -423,6 +427,7 @@ const es: Dict = {
   seeGuide: 'Leer la guía completa',
   languageLabel: 'Idioma',
   toc: 'En esta página',
+  groupedWith: (parent) => `El conjunto de datos FoodKeeper del USDA agrupa este alimento con «${parent}» en un solo registro, así que comparten los mismos plazos.`,
   foodTitleShort: (name) => `Cuánto dura ${name.toLowerCase()}`,
   allFoodsDescription: 'Explora por categoría todos los alimentos de la base de datos. Cada página de categoría incluye una tabla con los tiempos de despensa, nevera y congelador.',
   homeFaqHeading: 'Preguntas frecuentes sobre conservar alimentos',

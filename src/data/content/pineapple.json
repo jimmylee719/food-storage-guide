@@ -1,0 +1,107 @@
+{
+  "slug": "pineapple",
+  "en": {
+    "name": "Pineapple",
+    "aliases": ["fresh pineapple", "ananas", "golden pineapple", "whole pineapple"],
+    "summary": "Pineapple does not get any sweeter after picking, but it does soften and become juicier at room temperature. Leave a whole pineapple out until it is tender and fragrant at the base, then use it within 1–2 days or refrigerate it, where ripe fruit keeps 5–7 days. Prepared chunks freeze for 10–12 months.",
+    "pantry": "Stand a whole pineapple on the counter out of direct sun until ripe: the base should smell sweet and give slightly, and a leaf from the centre of the crown should pull out with light resistance. Once ripe it holds only 1–2 days at room temperature before fermenting, especially in a warm kitchen. Turning it upside down for a day helps the sugars spread from the base.",
+    "fridge": "A ripe whole pineapple keeps 5–7 days in the fridge at 4 °C (40 °F) or below. Cut pineapple must be refrigerated in an airtight container and eaten within a few days; its juice is highly acidic, so use glass or plastic rather than bare metal. Keep it sealed, since the aroma readily transfers to milk and butter.",
+    "freezer": "Peeled, cored pineapple chunks keep 10–12 months at −18 °C (0 °F). Freeze them in a single layer on a tray, then bag them so they stay loose. Frozen pineapple is excellent in smoothies and cooking; the texture becomes soft on thawing. Raw pineapple contains bromelain, which stops gelatin setting, so cook it first for jellies.",
+    "thawing": "Blend frozen pineapple straight from the freezer, or thaw the chunks in the fridge and use them within a day. Do not thaw cut fruit at room temperature.",
+    "spoilage": [
+      "Soft, dark, sunken patches on the skin that leak juice",
+      "Fermented, alcoholic or vinegary smell at the base",
+      "Mould at the base or on the cut surface",
+      "Brown, mushy or watery flesh when cut open"
+    ],
+    "tips": [
+      "Smell the base — a ripe pineapple is fragrant there, an unripe one smells of nothing",
+      "Stand it upside down for a day to spread the sweetness from the base",
+      "Refrigerate cut pineapple in an airtight glass or plastic container, not bare metal",
+      "Cook pineapple before adding it to gelatin desserts, as raw bromelain stops them setting"
+    ],
+    "faq": [
+      {"q": "How long does pineapple last in the fridge?", "a": "A ripe whole pineapple keeps 5–7 days at 4 °C (40 °F) or below. Cut chunks should be sealed and eaten within a few days."},
+      {"q": "Can you freeze pineapple?", "a": "Yes. Peeled, cored chunks keep 10–12 months at −18 °C (0 °F). Freeze on a tray first, then bag them for smoothies and cooking."},
+      {"q": "Does pineapple ripen after it is picked?", "a": "It softens and becomes juicier but does not get sweeter, because it stops producing sugar once cut from the plant. Choose a fragrant, heavy fruit."}
+    ]
+  },
+  "zh": {
+    "name": "鳳梨",
+    "aliases": ["菠蘿", "旺來", "金鑽鳳梨", "新鮮鳳梨"],
+    "summary": "鳳梨採收後不會再變甜，但在室溫下會變軟、變多汁。整顆鳳梨放到底部聞得到香氣、輕壓有彈性為止，之後常溫再放 1～2 天就要吃掉，或直接冷藏，成熟的鳳梨可放 5～7 天。切好的果肉冷凍可保存 10～12 個月。",
+    "pantry": "整顆鳳梨直立放在室溫、避開陽光直射，直到後熟：底部應該聞得到香甜氣味、輕壓會微微下陷，從冠芽中心抽一片葉子時會有輕微阻力就拔得出來。熟了之後在常溫只能撐 1～2 天就會發酵，悶熱的廚房更快。倒過來放一天，可以讓底部的甜度往上分布。",
+    "fridge": "成熟的整顆鳳梨放進 4°C 以下的冰箱可放 5～7 天。切開的鳳梨必須裝密封盒冷藏，並在幾天內吃完；它的汁液酸度很高，建議用玻璃或塑膠容器而不是裸露的金屬。也要密封好，因為香氣很容易沾到牛奶和奶油上。",
+    "freezer": "削皮去心的鳳梨塊放 −18°C 冷凍可保存 10～12 個月。先單層鋪盤冷凍再裝袋，才會粒粒分明。冷凍鳳梨很適合打果昔和入菜，解凍後質地會變軟。另外生鳳梨含有鳳梨酵素，會讓吉利丁無法凝固，做果凍前要先煮過。",
+    "thawing": "直接用冷凍狀態打成果昔，或放冷藏室退冰後一天內用完。切好的果肉不要在室溫退冰。",
+    "spoilage": [
+      "外皮出現軟軟的暗色凹陷斑塊並滲汁",
+      "底部聞起來有發酵味、酒精味或醋酸味",
+      "底部或切面長黴",
+      "切開後果肉變褐、軟爛或水水的"
+    ],
+    "tips": [
+      "聞一下底部，成熟的鳳梨香氣明顯，還沒熟的幾乎沒有味道",
+      "倒過來放一天，可以讓甜味從底部分布開來",
+      "切好的鳳梨用玻璃或塑膠密封盒冷藏，避免裸露金屬容器",
+      "做果凍前先把鳳梨煮過，生的鳳梨酵素會讓吉利丁凝固不了"
+    ],
+    "faq": [
+      {"q": "鳳梨放冰箱可以放多久？", "a": "成熟的整顆鳳梨放 4°C 以下可放 5～7 天。切好的果肉要密封並在幾天內吃完。"},
+      {"q": "鳳梨可以冷凍嗎？", "a": "可以。削皮去心切塊後放 −18°C 冷凍 10～12 個月。先鋪盤冷凍再裝袋，適合打果昔或入菜。"},
+      {"q": "鳳梨採收後還會變甜嗎？", "a": "會變軟、變多汁，但不會變甜，因為離株後就不再產生糖分了。挑的時候要選香氣明顯、拿起來沉甸甸的。"}
+    ]
+  },
+  "ja": {
+    "name": "パイナップル",
+    "aliases": ["パイン", "生パイナップル", "アナナス", "パイナップル（丸ごと）"],
+    "summary": "パイナップルは収穫後に甘くはなりませんが、常温でやわらかくジューシーになります。丸ごとのまま、底から甘い香りがして少し弾力が出るまで置き、その後は常温なら1〜2日、冷蔵なら5〜7日が目安です。カットした果肉は10〜12か月冷凍できます。",
+    "pantry": "丸ごとのパイナップルは直射日光を避けて立てて置き、追熟させます。底から甘い香りがして軽く押すと少し沈み、クラウン中心の葉が軽い抵抗で抜ければ食べごろです。熟したあと常温では1〜2日で発酵し始め、暑い台所ではさらに早くなります。1日逆さに置くと、底にたまった甘みが全体に回ります。",
+    "fridge": "熟した丸ごとのパイナップルは4℃以下の冷蔵庫で5〜7日持ちます。カットしたものは必ず密閉容器で冷蔵し、数日以内に食べ切りましょう。果汁の酸が強いので、むき出しの金属容器ではなくガラスかプラスチックを使ってください。香りが牛乳やバターに移るので、しっかり密閉を。",
+    "freezer": "皮と芯を取ったパイナップルは−18℃で10〜12か月冷凍できます。バットに一段で凍らせてから袋へ移すとばらばらのまま保てます。冷凍パインはスムージーや料理に最適で、解凍後はやわらかくなります。生のパインに含まれるブロメラインはゼラチンを固まらなくするので、ゼリーには加熱してから使いましょう。",
+    "thawing": "凍ったままミキサーにかけるか、冷蔵庫で解凍して1日以内に使います。カットした果肉を室温で解凍しないでください。",
+    "spoilage": [
+      "皮にやわらかく黒ずんだへこみがあり、汁がしみ出している",
+      "底から発酵臭、アルコール臭、酢のようなにおいがする",
+      "底の部分や切り口にカビ",
+      "切ると果肉が茶色い、ぐずぐず、水っぽい"
+    ],
+    "tips": [
+      "底のにおいを確認。熟していれば甘く香り、未熟だとほぼ無臭です",
+      "1日逆さに置くと、底の甘みが全体に広がります",
+      "カットしたものはガラスかプラスチックの密閉容器で冷蔵を",
+      "ゼリーに使うときは加熱を。生の酵素で固まらなくなります"
+    ],
+    "faq": [
+      {"q": "パイナップルは冷蔵庫でどのくらい持ちますか？", "a": "熟した丸ごとのものは4℃以下で5〜7日です。カットしたものは密閉して数日以内に食べ切ってください。"},
+      {"q": "パイナップルは冷凍できますか？", "a": "できます。皮と芯を除いたカットは−18℃で10〜12か月。バットで凍らせてから袋へ入れ、スムージーや料理に使いましょう。"},
+      {"q": "パイナップルは収穫後に甘くなりますか？", "a": "やわらかくジューシーにはなりますが甘くはなりません。株を離れると糖を作らなくなるためです。香りがよく、ずっしり重いものを選びましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Piña",
+    "aliases": ["ananá", "piña fresca", "ananás", "piña entera"],
+    "summary": "La piña no se vuelve más dulce tras la recolección, pero sí se ablanda y se vuelve más jugosa a temperatura ambiente. Deja la piña entera fuera hasta que la base esté tierna y aromática, y consúmela entonces en 1–2 días o refrigérala, donde la fruta madura dura 5–7 días. Los trozos preparados se congelan 10–12 meses.",
+    "pantry": "Coloca la piña entera de pie en la encimera, fuera del sol directo, hasta que madure: la base debe oler dulce y ceder ligeramente, y una hoja del centro de la corona debe salir con poca resistencia. Ya madura solo aguanta 1–2 días a temperatura ambiente antes de fermentar, sobre todo en una cocina cálida. Ponerla boca abajo un día ayuda a repartir el dulzor desde la base.",
+    "fridge": "Una piña entera madura dura 5–7 días en la nevera a 4 °C (40 °F) o menos. La piña cortada debe refrigerarse en un recipiente hermético y comerse en pocos días; su jugo es muy ácido, así que usa vidrio o plástico y no metal desnudo. Mantenla cerrada, porque su aroma pasa fácilmente a la leche y la mantequilla.",
+    "freezer": "Los trozos pelados y sin corazón duran 10–12 meses a −18 °C (0 °F). Congélalos en una capa en bandeja y luego embólsalos para que queden sueltos. La piña congelada es excelente en batidos y guisos; la textura se ablanda al descongelar. La piña cruda contiene bromelina, que impide cuajar la gelatina, así que cuécela antes para gelatinas.",
+    "thawing": "Tritura la piña congelada directamente, o descongela los trozos en la nevera y úsalos en un día. No descongeles fruta cortada a temperatura ambiente.",
+    "spoilage": [
+      "Zonas oscuras, blandas y hundidas en la piel que rezuman jugo",
+      "Olor fermentado, alcohólico o avinagrado en la base",
+      "Moho en la base o en la superficie cortada",
+      "Pulpa parda, blanda o aguada al abrirla"
+    ],
+    "tips": [
+      "Huele la base: una piña madura es aromática ahí, una verde no huele a nada",
+      "Ponla boca abajo un día para repartir el dulzor desde la base",
+      "Refrigera la piña cortada en recipiente hermético de vidrio o plástico, no metal desnudo",
+      "Cuece la piña antes de añadirla a postres con gelatina, porque la bromelina cruda impide el cuajado"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la piña en la nevera?", "a": "Una piña entera madura dura 5–7 días a 4 °C (40 °F) o menos. Los trozos cortados deben ir cerrados y comerse en pocos días."},
+      {"q": "¿Se puede congelar la piña?", "a": "Sí. Los trozos pelados y sin corazón duran 10–12 meses a −18 °C (0 °F). Congélalos en bandeja y luego embólsalos para batidos y guisos."},
+      {"q": "¿La piña madura después de cortarla de la planta?", "a": "Se ablanda y se vuelve más jugosa, pero no gana dulzor, porque deja de producir azúcar al separarse de la planta. Elige una pieza aromática y pesada."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "coconuts-fresh",
+  "en": {
+    "name": "Fresh coconuts",
+    "aliases": ["whole coconut", "mature coconut", "young coconut", "brown coconut"],
+    "summary": "A whole fresh coconut, still in its hard brown shell, keeps about 1 week at room temperature from the date of purchase and 2–3 weeks in the fridge. Once you crack it open, the white meat and the water are perishable and must be refrigerated in a covered container and used within a few days.",
+    "pantry": "A whole, uncracked coconut keeps about 1 week from purchase in a cool, dry spot out of the sun. Choose one that feels heavy and sloshes when you shake it, which means the water inside is still plentiful; a light, silent coconut has dried out or the meat has spoiled. Check the three soft eyes at one end — they should be dry and firm, not damp or mouldy.",
+    "fridge": "Refrigerating a whole coconut at 4 °C (40 °F) or below extends it to 2–3 weeks from purchase. Once opened, store the drained coconut water in a sealed jar and the meat in an airtight container in the fridge, and use both within a few days. Grated fresh coconut spoils fastest of all — treat it like a fresh dairy product.",
+    "freezer": "USDA gives no freezer timeline for fresh coconut, but the meat freezes well in practice. Grate or chop it, pack it into airtight bags with the air pressed out and freeze; coconut water can be frozen in ice-cube trays. Frozen coconut meat is best used in cooking rather than eaten raw.",
+    "thawing": "Thaw coconut meat in the fridge overnight, or use it straight from frozen in curries and baking. Thawed coconut water should be used the same day and never refrozen.",
+    "spoilage": [
+      "Sour, fermented or yeasty smell when the shell is opened",
+      "Coconut water that is pink, cloudy, slimy or sharply sour",
+      "Yellow, grey or slimy patches on the white meat",
+      "Damp, mouldy or leaking eyes on the outside of the shell"
+    ],
+    "tips": [
+      "Shake the coconut before buying — plenty of sloshing means fresh water inside",
+      "Drain the water through the softest eye with a screwdriver before cracking the shell",
+      "Grate the meat all at once and freeze what you cannot use in a few days",
+      "A coconut with a damp or mouldy eye is already spoiled — do not buy it"
+    ],
+    "faq": [
+      {"q": "How long does a whole coconut last?", "a": "About 1 week at room temperature from purchase, or 2–3 weeks in the fridge at 4 °C (40 °F) or below."},
+      {"q": "Can you freeze fresh coconut?", "a": "Yes. Grate or chop the meat, seal it airtight and freeze; coconut water can be frozen in ice-cube trays. Use frozen coconut in cooking rather than raw."},
+      {"q": "How can you tell if a coconut has gone bad?", "a": "Shake it — no sloshing suggests it has dried out. After opening, a sour or fermented smell, pink or slimy water, or yellow patches on the meat all mean discard it."}
+    ]
+  },
+  "zh": {
+    "name": "新鮮椰子",
+    "aliases": ["老椰子", "整顆椰子", "青椰子", "椰青", "毛椰子"],
+    "summary": "帶著硬褐色外殼的整顆新鮮椰子，室溫下從購買日起約可放 1 週，冷藏則可放 2～3 週。一旦剖開，白色椰肉和椰子水就變成易腐食品，必須放進有蓋容器冷藏，並在幾天內用完。",
+    "pantry": "整顆未剖開的椰子放在陰涼乾燥、不曬太陽的地方，從購買日起約 1 週。挑選時要拿起來沉甸甸、搖起來有明顯水聲，代表裡面的椰子水還很多；輕飄飄又沒聲音的，通常已經乾掉或椰肉壞了。也要檢查一端的三個芽眼，應該是乾燥堅實的，不能潮濕或發霉。",
+    "fridge": "整顆椰子放進 4°C 以下的冰箱，可以從購買日起延長到 2～3 週。剖開後，椰子水濾出來裝密封瓶、椰肉裝密封盒，都放冰箱並在幾天內用完。新鮮刨的椰絲壞得最快，請把它當成生鮮乳製品那樣看待。",
+    "freezer": "USDA 沒有提供新鮮椰子的冷凍期限，但實務上椰肉冷凍效果不錯。刨絲或切塊後裝密封袋擠出空氣冷凍即可；椰子水可以用製冰盒冷凍成塊。冷凍過的椰肉比較適合入菜，不建議直接生吃。",
+    "thawing": "椰肉放冷藏室退冰一晚，或直接從冷凍下鍋煮咖哩、拿去烘焙。解凍的椰子水請當天喝完，也不要再次冷凍。",
+    "spoilage": [
+      "剖開時有酸味、發酵味或酵母味",
+      "椰子水變粉紅、混濁、黏滑或非常酸",
+      "白色椰肉出現黃色、灰色或黏滑的斑塊",
+      "外殼的芽眼潮濕、發霉或滲液"
+    ],
+    "tips": [
+      "買之前先搖一搖，水聲明顯代表裡面的椰水新鮮飽滿",
+      "用螺絲起子從最軟的芽眼把椰子水放出來，再剖殼",
+      "椰肉一次全部刨完，幾天內用不完的就冷凍起來",
+      "芽眼潮濕或發霉的椰子已經壞了，不要買"
+    ],
+    "faq": [
+      {"q": "整顆椰子可以放多久？", "a": "室溫從購買日起約 1 週，冷藏在 4°C 以下則可放 2～3 週。"},
+      {"q": "新鮮椰子可以冷凍嗎？", "a": "可以。椰肉刨絲或切塊後密封冷凍，椰子水可以用製冰盒冷凍。冷凍過的椰肉比較適合烹調，不建議生吃。"},
+      {"q": "怎麼知道椰子壞了？", "a": "先搖一搖，沒有水聲通常代表乾掉了。剖開後如果有酸味或發酵味、椰子水變粉紅或黏滑、椰肉有黃斑，就要丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "ココナッツ（生・丸ごと）",
+    "aliases": ["ヤシの実", "ココナッツ", "成熟ココナッツ", "ヤングココナッツ"],
+    "summary": "硬い茶色の殻に入った丸ごとのココナッツは、常温で購入日から約1週間、冷蔵なら2〜3週間持ちます。割ったあとの白い果肉とココナッツウォーターは傷みやすいので、ふた付き容器に入れて冷蔵し、数日以内に使い切ってください。",
+    "pantry": "割っていない丸ごとのココナッツは、日の当たらない涼しく乾いた場所で購入日から約1週間。手に持ってずっしり重く、振ると中で水が音を立てるものを選びましょう。軽くて音がしないものは水が抜けているか果肉が傷んでいます。片側にある3つの発芽孔も確認し、乾いてしっかりしていればOKです。",
+    "fridge": "丸ごとを4℃以下で冷蔵すれば、購入日から2〜3週間まで延びます。割ったあとは、こしたココナッツウォーターを密閉瓶に、果肉を密閉容器に入れて冷蔵し、どちらも数日以内に使い切りましょう。削りたてのココナッツは最も傷みやすく、生の乳製品と同じ扱いが必要です。",
+    "freezer": "USDAは生ココナッツの冷凍期間を示していませんが、実際には果肉がよく冷凍できます。削るか刻んで密閉袋の空気を抜いて冷凍を。ココナッツウォーターは製氷皿で凍らせられます。冷凍した果肉は生食より加熱調理向きです。",
+    "thawing": "果肉は冷蔵庫で一晩解凍するか、凍ったままカレーや焼き菓子に使えます。解凍したココナッツウォーターはその日のうちに使い、再冷凍しないでください。",
+    "spoilage": [
+      "割ったときに酸っぱいにおい、発酵臭、イースト臭がする",
+      "ココナッツウォーターがピンク色、濁っている、ぬめる、強く酸っぱい",
+      "白い果肉に黄色や灰色、ぬめりのある部分がある",
+      "殻の発芽孔が湿っている、カビている、汁がしみ出している"
+    ],
+    "tips": [
+      "買う前に振ってみましょう。水の音がしっかりすれば新鮮です",
+      "ドライバーで一番やわらかい発芽孔から水を抜いてから殻を割りましょう",
+      "果肉は一度に全部削り、数日で使えない分は冷凍を",
+      "発芽孔が湿っていたりカビているものはすでに傷んでいます。買わないこと"
+    ],
+    "faq": [
+      {"q": "丸ごとのココナッツはどのくらい持ちますか？", "a": "常温で購入日から約1週間、4℃以下の冷蔵なら2〜3週間です。"},
+      {"q": "生のココナッツは冷凍できますか？", "a": "できます。果肉を削るか刻んで密閉冷凍し、ウォーターは製氷皿で。冷凍したものは生食より加熱調理に向きます。"},
+      {"q": "ココナッツが傷んだか見分けるには？", "a": "まず振って音を確認。音がしなければ水が抜けています。割った後に酸っぱいにおい、ピンクやぬめりのある水、果肉の黄色い斑点があれば処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Cocos frescos",
+    "aliases": ["coco entero", "coco maduro", "coco verde", "coco fresco"],
+    "summary": "Un coco entero, todavía en su cáscara marrón dura, dura alrededor de 1 semana a temperatura ambiente desde la compra y 2–3 semanas en la nevera. Una vez abierto, la pulpa blanca y el agua son perecederas y deben guardarse tapadas en la nevera y usarse en pocos días.",
+    "pantry": "Un coco entero sin abrir dura alrededor de 1 semana desde la compra en un sitio fresco y seco, fuera del sol. Elige uno que pese y suene al agitarlo, señal de que aún tiene mucha agua dentro; uno ligero y silencioso se ha secado o la pulpa se ha estropeado. Revisa los tres ojos de un extremo: deben estar secos y firmes, no húmedos ni mohosos.",
+    "fridge": "Refrigerar un coco entero a 4 °C (40 °F) o menos lo alarga a 2–3 semanas desde la compra. Ya abierto, guarda el agua colada en un tarro cerrado y la pulpa en un recipiente hermético en la nevera, y usa ambos en pocos días. El coco recién rallado es lo que antes se estropea: trátalo como un lácteo fresco.",
+    "freezer": "El USDA no da un plazo de congelación para el coco fresco, pero la pulpa se congela bien en la práctica. Rállala o pícala, guárdala en bolsas herméticas sin aire y congela; el agua de coco puede congelarse en cubiteras. La pulpa congelada va mejor cocinada que cruda.",
+    "thawing": "Descongela la pulpa en la nevera durante la noche, o úsala congelada en currys y repostería. El agua de coco descongelada debe consumirse el mismo día y no volver a congelarse.",
+    "spoilage": [
+      "Olor agrio, fermentado o a levadura al abrir la cáscara",
+      "Agua de coco rosada, turbia, viscosa o muy ácida",
+      "Zonas amarillas, grises o viscosas en la pulpa blanca",
+      "Ojos húmedos, mohosos o que rezuman en el exterior de la cáscara"
+    ],
+    "tips": [
+      "Agita el coco antes de comprarlo: mucho chapoteo indica agua fresca dentro",
+      "Vacía el agua por el ojo más blando con un destornillador antes de partir la cáscara",
+      "Ralla toda la pulpa de una vez y congela lo que no uses en pocos días",
+      "Un coco con un ojo húmedo o mohoso ya está estropeado: no lo compres"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura un coco entero?", "a": "Alrededor de 1 semana a temperatura ambiente desde la compra, o 2–3 semanas en la nevera a 4 °C (40 °F) o menos."},
+      {"q": "¿Se puede congelar el coco fresco?", "a": "Sí. Ralla o pica la pulpa, ciérrala herméticamente y congélala; el agua puede congelarse en cubiteras. Usa el coco congelado cocinado, no crudo."},
+      {"q": "¿Cómo saber si un coco está malo?", "a": "Agítalo: si no suena, se ha secado. Tras abrirlo, un olor agrio o fermentado, agua rosada o viscosa, o manchas amarillas en la pulpa significan que hay que tirarlo."}
+    ]
+  }
+}

@@ -1,0 +1,836 @@
+[
+ {
+  "slug": "green-beans",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 273,
+  "derivedFrom": "beans-and-peas-green-fava-lima-soybean-wax-snow",
+  "derivedFromName": "Beans and peas, green, fava, lima, soybean, wax, snow, sugar snap",
+  "name": "Green beans",
+  "subtitle": null,
+  "keywords": [
+   "green bean",
+   "string bean",
+   "french bean",
+   "Beans",
+   "peas",
+   "green",
+   "fava",
+   "lima",
+   "soybean",
+   "wax",
+   "snow",
+   "sugar snap",
+   "sugar",
+   "pea",
+   "soya"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 8,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "fava-beans",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 273,
+  "derivedFrom": "beans-and-peas-green-fava-lima-soybean-wax-snow",
+  "derivedFromName": "Beans and peas, green, fava, lima, soybean, wax, snow, sugar snap",
+  "name": "Fava beans",
+  "subtitle": null,
+  "keywords": [
+   "fava",
+   "broad bean",
+   "Beans",
+   "peas",
+   "green",
+   "lima",
+   "soybean",
+   "wax",
+   "snow",
+   "sugar snap",
+   "sugar",
+   "pea",
+   "soya"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 8,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "lima-beans",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 273,
+  "derivedFrom": "beans-and-peas-green-fava-lima-soybean-wax-snow",
+  "derivedFromName": "Beans and peas, green, fava, lima, soybean, wax, snow, sugar snap",
+  "name": "Lima beans",
+  "subtitle": null,
+  "keywords": [
+   "lima bean",
+   "butter bean",
+   "Beans",
+   "peas",
+   "green",
+   "fava",
+   "lima",
+   "soybean",
+   "wax",
+   "snow",
+   "sugar snap",
+   "sugar",
+   "pea",
+   "soya"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 8,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "wax-beans",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 273,
+  "derivedFrom": "beans-and-peas-green-fava-lima-soybean-wax-snow",
+  "derivedFromName": "Beans and peas, green, fava, lima, soybean, wax, snow, sugar snap",
+  "name": "Wax beans",
+  "subtitle": null,
+  "keywords": [
+   "wax bean",
+   "yellow bean",
+   "Beans",
+   "peas",
+   "green",
+   "fava",
+   "lima",
+   "soybean",
+   "wax",
+   "snow",
+   "sugar snap",
+   "sugar",
+   "pea",
+   "soya"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 8,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "snow-peas",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 273,
+  "derivedFrom": "beans-and-peas-green-fava-lima-soybean-wax-snow",
+  "derivedFromName": "Beans and peas, green, fava, lima, soybean, wax, snow, sugar snap",
+  "name": "Snow peas",
+  "subtitle": null,
+  "keywords": [
+   "snow pea",
+   "mangetout",
+   "Beans",
+   "peas",
+   "green",
+   "fava",
+   "lima",
+   "soybean",
+   "wax",
+   "snow",
+   "sugar snap",
+   "sugar",
+   "pea",
+   "soya"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 8,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "sugar-snap-peas",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 273,
+  "derivedFrom": "beans-and-peas-green-fava-lima-soybean-wax-snow",
+  "derivedFromName": "Beans and peas, green, fava, lima, soybean, wax, snow, sugar snap",
+  "name": "Sugar snap peas",
+  "subtitle": null,
+  "keywords": [
+   "sugar snap",
+   "snap pea",
+   "Beans",
+   "peas",
+   "green",
+   "fava",
+   "lima",
+   "soybean",
+   "wax",
+   "snow",
+   "sugar",
+   "pea",
+   "soya"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 8,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "broccoli",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 276,
+  "derivedFrom": "broccoli-and-broccoli-raab-rapini",
+  "derivedFromName": "Broccoli and broccoli raab (rapini)",
+  "name": "Broccoli",
+  "subtitle": null,
+  "keywords": [
+   "broccoli",
+   "Broccoli",
+   "broccoli raab",
+   "rapini",
+   "raab"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "broccoli-rabe",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 276,
+  "derivedFrom": "broccoli-and-broccoli-raab-rapini",
+  "derivedFromName": "Broccoli and broccoli raab (rapini)",
+  "name": "Broccoli rabe",
+  "subtitle": null,
+  "keywords": [
+   "broccoli raab",
+   "rapini",
+   "broccoli rabe",
+   "Broccoli",
+   "raab"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "iceberg-lettuce",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 290,
+  "derivedFrom": "lettuce-iceberg-romaine",
+  "derivedFromName": "Lettuce, iceberg, romaine",
+  "name": "Iceberg lettuce",
+  "subtitle": null,
+  "keywords": [
+   "iceberg",
+   "lettuce",
+   "Lettuce",
+   "romaine"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "weeks",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "romaine-lettuce",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 290,
+  "derivedFrom": "lettuce-iceberg-romaine",
+  "derivedFromName": "Lettuce, iceberg, romaine",
+  "name": "Romaine lettuce",
+  "subtitle": null,
+  "keywords": [
+   "romaine",
+   "cos lettuce",
+   "Lettuce",
+   "iceberg"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "weeks",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "leaf-lettuce",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 291,
+  "derivedFrom": "lettuce-leaf-spinach",
+  "derivedFromName": "Lettuce, leaf, spinach",
+  "name": "Leaf lettuce",
+  "subtitle": null,
+  "keywords": [
+   "leaf lettuce",
+   "loose leaf",
+   "Lettuce",
+   "leaf",
+   "spinach"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 7,
+     "unit": "days",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "spinach",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 291,
+  "derivedFrom": "lettuce-leaf-spinach",
+  "derivedFromName": "Lettuce, leaf, spinach",
+  "name": "Spinach",
+  "subtitle": null,
+  "keywords": [
+   "spinach",
+   "Lettuce",
+   "leaf"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 7,
+     "unit": "days",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "summer-squash",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 302,
+  "derivedFrom": "squash-summer-zucchini",
+  "derivedFromName": "Squash, summer and zucchini",
+  "name": "Summer squash",
+  "subtitle": null,
+  "keywords": [
+   "summer squash",
+   "yellow squash",
+   "pattypan",
+   "Squash",
+   "summer",
+   "zucchini"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 4,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "onions",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 294,
+  "derivedFrom": "onions-yellow-white-red",
+  "derivedFromName": "Onions, yellow, white, red, etc.",
+  "name": "Onions",
+  "subtitle": null,
+  "keywords": [
+   "onion",
+   "yellow onion",
+   "red onion",
+   "white onion",
+   "Onions",
+   "yellow",
+   "white",
+   "red"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 1,
+     "unit": "months",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 2,
+     "unit": "months",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "bell-peppers",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 296,
+  "derivedFrom": "peppers",
+  "derivedFromName": "Peppers",
+  "name": "Bell peppers",
+  "subtitle": null,
+  "keywords": [
+   "bell pepper",
+   "capsicum",
+   "sweet pepper",
+   "Peppers",
+   "pepper"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 4,
+     "max": 14,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "cod",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 144,
+  "derivedFrom": "lean-fish-cod-flounder-haddock-halibut-sole",
+  "derivedFromName": "Lean fish, cod, flounder, haddock, halibut, sole, etc.",
+  "name": "Cod",
+  "subtitle": null,
+  "keywords": [
+   "cod",
+   "codfish",
+   "Lean fish",
+   "flounder",
+   "haddock",
+   "halibut",
+   "sole",
+   "fish"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "flounder",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 144,
+  "derivedFrom": "lean-fish-cod-flounder-haddock-halibut-sole",
+  "derivedFromName": "Lean fish, cod, flounder, haddock, halibut, sole, etc.",
+  "name": "Flounder",
+  "subtitle": null,
+  "keywords": [
+   "flounder",
+   "plaice",
+   "Lean fish",
+   "cod",
+   "haddock",
+   "halibut",
+   "sole",
+   "fish"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "haddock",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 144,
+  "derivedFrom": "lean-fish-cod-flounder-haddock-halibut-sole",
+  "derivedFromName": "Lean fish, cod, flounder, haddock, halibut, sole, etc.",
+  "name": "Haddock",
+  "subtitle": null,
+  "keywords": [
+   "haddock",
+   "Lean fish",
+   "cod",
+   "flounder",
+   "halibut",
+   "sole",
+   "fish"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "halibut",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 144,
+  "derivedFrom": "lean-fish-cod-flounder-haddock-halibut-sole",
+  "derivedFromName": "Lean fish, cod, flounder, haddock, halibut, sole, etc.",
+  "name": "Halibut",
+  "subtitle": null,
+  "keywords": [
+   "halibut",
+   "Lean fish",
+   "cod",
+   "flounder",
+   "haddock",
+   "sole",
+   "fish"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "sole",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 144,
+  "derivedFrom": "lean-fish-cod-flounder-haddock-halibut-sole",
+  "derivedFromName": "Lean fish, cod, flounder, haddock, halibut, sole, etc.",
+  "name": "Sole",
+  "subtitle": null,
+  "keywords": [
+   "sole",
+   "dover sole",
+   "Lean fish",
+   "cod",
+   "flounder",
+   "haddock",
+   "halibut",
+   "fish"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "pollock",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 145,
+  "derivedFrom": "lean-fish-pollock-ocean-perch-rockfish-sea-trout",
+  "derivedFromName": "Lean fish, pollock, ocean perch, rockfish, sea trout.",
+  "name": "Pollock",
+  "subtitle": null,
+  "keywords": [
+   "pollock",
+   "pollack",
+   "Lean fish",
+   "ocean",
+   "rockfish",
+   "sea",
+   "sea trout",
+   "fish",
+   "ocean perch",
+   "perch",
+   "trout",
+   "rock"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 4,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "ocean-perch",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 145,
+  "derivedFrom": "lean-fish-pollock-ocean-perch-rockfish-sea-trout",
+  "derivedFromName": "Lean fish, pollock, ocean perch, rockfish, sea trout.",
+  "name": "Ocean perch",
+  "subtitle": null,
+  "keywords": [
+   "ocean perch",
+   "redfish",
+   "Lean fish",
+   "pollock",
+   "ocean",
+   "rockfish",
+   "sea",
+   "sea trout",
+   "fish",
+   "perch",
+   "trout",
+   "rock"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 4,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ }
+]

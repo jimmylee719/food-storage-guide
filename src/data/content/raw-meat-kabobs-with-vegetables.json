@@ -1,0 +1,107 @@
+{
+  "slug": "raw-meat-kabobs-with-vegetables",
+  "en": {
+    "name": "Raw kabobs with vegetables",
+    "aliases": ["raw skewers", "meat and vegetable kebabs", "shish kebab skewers", "brochettes"],
+    "summary": "Raw kabobs are skewers of cut meat threaded with peppers, onion and other vegetables, sold ready to grill. Combining cut meat, cut vegetables and lots of handling makes them highly perishable: 1–2 days in the fridge at 4 °C (40 °F) or below from purchase, and 3–4 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw kabobs must never sit at room temperature. There is a great deal of exposed surface on both the meat and the cut vegetables, so bacteria have plenty to grow on in the danger zone between 4 °C and 60 °C (40 °F and 140 °F). Discard skewers left out for more than 2 hours — 1 hour above 32 °C (90 °F) — and keep them chilled beside the grill rather than on a warm table.",
+    "fridge": "Lay the skewers flat in a covered dish on the bottom shelf at 4 °C (40 °F) or below so juices cannot drip onto anything, and cook them within 1–2 days of purchase. If they are sitting in a marinade, keep the dish sealed and do not reuse that marinade as a sauce unless you boil it first.",
+    "freezer": "Kabobs can be frozen for 3–4 months of best quality at −18 °C (0 °F), where they are safe indefinitely, but be aware that the vegetables suffer: peppers, courgette and onion go soft once thawed. For better results, freeze the meat separately and thread fresh vegetables on the day you cook. Wrap whole skewers individually and bag them flat.",
+    "thawing": "Thaw kabobs in the fridge overnight on a tray and grill them the same day. Do not thaw them on the counter or in warm water. Cook the meat right through — beef and lamb pieces to at least 63 °C (145 °F), pork to 63 °C (145 °F), chicken to 74 °C (165 °F).",
+    "spoilage": [
+      "Sour or ammonia-like smell from the meat when the wrapping is opened",
+      "Slimy meat, or vegetables that have gone soft, translucent and weepy",
+      "Grey-green or dull brown meat instead of its natural colour",
+      "Cloudy, thickened marinade, or a passed use-by date"
+    ],
+    "tips": [
+      "Cook within 1–2 days — kabobs spoil faster than a whole cut of meat.",
+      "Soak wooden skewers in water for 30 minutes so they do not burn.",
+      "Leave a small gap between pieces so heat reaches all sides.",
+      "Boil leftover marinade for a minute if you want to use it as a sauce."
+    ],
+    "faq": [
+      {"q": "Can you freeze raw kabobs?", "a": "Yes, at −18 °C (0 °F) for 3–4 months, but the vegetables go soft. Freezing the meat alone and adding fresh vegetables later gives a much better result."},
+      {"q": "How long do raw kabobs last in the fridge?", "a": "1–2 days from the day of purchase at 4 °C (40 °F) or below, marinated or not."},
+      {"q": "Can you reuse kabob marinade as a sauce?", "a": "Only if you bring it to a rolling boil for at least a minute first, since it has been in contact with raw meat."}
+    ]
+  },
+  "zh": {
+    "name": "生肉蔬菜串",
+    "aliases": ["生烤肉串", "串燒生串", "蔬菜肉串", "沙嗲串（生）"],
+    "summary": "生肉蔬菜串是把切塊的肉和甜椒、洋蔥等蔬菜串在一起、可以直接下烤架的半成品。切塊的肉、切好的蔬菜再加上大量手作處理，讓它非常容易腐敗：在 4°C 以下冷藏，從購買日起只能放 1～2 天；放 −18°C 冷凍可放 3～4 個月。",
+    "pantry": "生肉串絕對不能放室溫。肉和切開的蔬菜都有大量外露表面，在 4～60°C 的危險溫度帶細菌有很多發揮空間。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄；烤肉時也要把串放在保冷容器裡，不要擺在溫熱的桌上。",
+    "fridge": "把串平放在有蓋的容器裡，置於冰箱最下層，維持 4°C 以下，避免肉汁滴到其他東西，並在購買後 1～2 天內烤完。如果泡在醃汁裡，容器要密封；醃過生肉的醬汁除非先煮沸，否則不可以直接當沾醬。",
+    "freezer": "肉串可以放 −18°C 冷凍，品質以 3～4 個月為佳，安全上可以無限期保存；但要注意蔬菜的口感會受損——甜椒、櫛瓜和洋蔥解凍後會軟爛。比較好的做法是只冷凍肉，烤的當天再串上新鮮蔬菜。整串要一支一支包好，再平放裝袋。",
+    "thawing": "放盤子上冷藏解凍一晚，並在當天烤完。不要放室溫或泡溫水解凍。肉要徹底烤熟——牛肉、羊肉塊至少 63°C，豬肉 63°C，雞肉 74°C。",
+    "spoilage": [
+      "打開包裝時肉發出酸味或阿摩尼亞味",
+      "肉黏滑，或蔬菜變軟、透明、出水",
+      "肉色不是原本的顏色，而是灰綠或暗褐",
+      "醃汁變混濁濃稠，或已超過有效日期"
+    ],
+    "tips": [
+      "1～2 天內烤完，肉串比整塊肉壞得快。",
+      "木串先泡水 30 分鐘，烤的時候才不會燒起來。",
+      "串的時候留一點間隙，熱才能繞到每一面。",
+      "醃汁想當沾醬的話，先煮沸一分鐘。"
+    ],
+    "faq": [
+      {"q": "生肉串可以冷凍嗎？", "a": "可以，放 −18°C 冷凍 3～4 個月，但蔬菜會變軟。只冷凍肉、烤當天再串新鮮蔬菜，效果好很多。"},
+      {"q": "生肉串放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起 1～2 天，有沒有醃過都一樣。"},
+      {"q": "醃過肉串的醬汁可以當沾醬嗎？", "a": "必須先大滾煮沸至少一分鐘才行，因為它接觸過生肉。"}
+    ]
+  },
+  "ja": {
+    "name": "生の肉と野菜の串（ケバブ串）",
+    "aliases": ["生の串焼き", "シシケバブ串", "肉野菜串", "ブロシェット"],
+    "summary": "生の串は、切った肉にパプリカや玉ねぎなどの野菜を刺し、そのまま焼ける状態で売られる商品です。切った肉と野菜、そして多くの手作業が重なるため非常に傷みやすく、4℃以下の冷蔵で購入日から1〜2日、−18℃の冷凍で3〜4か月が目安です。",
+    "pantry": "生の串を常温に置くことはできません。肉も切った野菜も表面積が大きく、4〜60℃の危険温度帯では細菌が増える余地が多くあります。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分し、バーベキューでも温かいテーブルではなくクーラーの中に置いてください。",
+    "fridge": "ふた付きの器に平らに並べ、汁が落ちないよう冷蔵庫の最下段で4℃以下を保ち、購入から1〜2日以内に焼きます。タレに漬かっている場合は容器を密閉し、そのタレは生肉に触れているため、煮立てない限りソースとして使わないでください。",
+    "freezer": "−18℃で品質の目安は3〜4か月（安全面では長期間）ですが、野菜の食感は落ちます。パプリカ、ズッキーニ、玉ねぎは解凍するとやわらかくなってしまいます。肉だけを冷凍し、焼く当日に新鮮な野菜を刺すほうがきれいに仕上がります。串は1本ずつ包み、平らにして袋に入れましょう。",
+    "thawing": "トレーにのせて冷蔵庫で一晩解凍し、その日のうちに焼きます。常温やぬるま湯での解凍は避けてください。肉はしっかり加熱を。牛・ラムは63℃以上、豚は63℃、鶏は74℃が目安です。",
+    "spoilage": [
+      "包装を開けたときに肉から酸っぱいにおいやアンモニア臭がする",
+      "肉がぬめる、野菜がやわらかく透明になって水が出ている",
+      "肉が本来の色ではなく灰緑色やくすんだ茶色になっている",
+      "タレが濁ってとろみが出ている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "1〜2日以内に焼く。かたまり肉より傷むのが早い。",
+      "木の串は30分ほど水に浸けておくと焦げにくい。",
+      "具の間を少しあけると、熱が全面に回る。",
+      "残ったタレをソースに使うなら、1分以上しっかり煮立てる。"
+    ],
+    "faq": [
+      {"q": "生の串は冷凍できますか？", "a": "−18℃で3〜4か月冷凍できますが、野菜がやわらかくなります。肉だけ冷凍し、焼く日に野菜を刺すほうがおすすめです。"},
+      {"q": "生の串は冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から1〜2日です。漬け込みの有無で変わりません。"},
+      {"q": "漬けダレはソースに使えますか？", "a": "生肉に触れているので、1分以上しっかり煮立てた場合のみ使えます。"}
+    ]
+  },
+  "es": {
+    "name": "Brochetas crudas con verduras",
+    "aliases": ["pinchos crudos", "brochetas de carne y verdura", "shish kebab crudo", "anticuchos crudos"],
+    "summary": "Las brochetas crudas son pinchos de carne troceada ensartada con pimiento, cebolla y otras verduras, listos para asar. La combinación de carne cortada, verdura cortada y mucha manipulación las hace muy perecederas: 1–2 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y 3–4 meses a −18 °C (0 °F).",
+    "pantry": "Las brochetas crudas nunca deben quedarse a temperatura ambiente. Hay muchísima superficie expuesta tanto en la carne como en las verduras cortadas, así que las bacterias tienen mucho margen en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F). Desecha las que lleven más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)— y mantenlas frías junto a la parrilla, no sobre una mesa templada.",
+    "fridge": "Colócalas planas en una fuente tapada en el estante inferior a 4 °C (40 °F) o menos para que no goteen, y cocínalas en 1–2 días desde la compra. Si están en adobo, mantén el recipiente cerrado y no uses ese adobo como salsa a menos que lo hiervas antes.",
+    "freezer": "Se pueden congelar 3–4 meses de buena calidad a −18 °C (0 °F), donde son seguras indefinidamente, pero las verduras sufren: pimiento, calabacín y cebolla quedan blandos al descongelarse. Para mejor resultado, congela solo la carne y ensarta verdura fresca el día que cocines. Envuelve cada brocheta y embólsalas planas.",
+    "thawing": "Descongélalas en el refrigerador durante una noche sobre una bandeja y ásalas ese mismo día. No las descongeles en la encimera ni en agua tibia. Cocina bien la carne: res y cordero a al menos 63 °C (145 °F), cerdo a 63 °C (145 °F) y pollo a 74 °C (165 °F).",
+    "spoilage": [
+      "Olor agrio o a amoníaco de la carne al abrir el envoltorio",
+      "Carne viscosa o verduras blandas, translúcidas y con líquido",
+      "Carne gris verdosa o parda apagada en lugar de su color natural",
+      "Adobo turbio y espeso, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Cocínalas en 1–2 días: se estropean antes que una pieza entera de carne.",
+      "Remoja los palos de madera 30 minutos para que no se quemen.",
+      "Deja un pequeño hueco entre los trozos para que el calor llegue a todos lados.",
+      "Hierve el adobo un minuto si quieres usarlo como salsa."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las brochetas crudas?", "a": "Sí, a −18 °C (0 °F) durante 3–4 meses, pero las verduras quedan blandas. Congelar solo la carne y añadir verdura fresca después da mucho mejor resultado."},
+      {"q": "¿Cuánto duran las brochetas crudas en el refrigerador?", "a": "1–2 días desde el día de compra a 4 °C (40 °F) o menos, estén marinadas o no."},
+      {"q": "¿Se puede reutilizar el adobo como salsa?", "a": "Solo si lo llevas a hervor fuerte al menos un minuto, ya que ha estado en contacto con carne cruda."}
+    ]
+  }
+}

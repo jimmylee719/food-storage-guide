@@ -1,0 +1,107 @@
+{
+  "slug": "ham-fully-cooked-bone-whole",
+  "en": {
+    "name": "Fully cooked ham, bone-in, whole",
+    "aliases": ["whole bone-in ham", "cooked ham on the bone", "holiday ham", "gammon joint"],
+    "summary": "A whole bone-in fully cooked ham is a cured pork leg that needs no further cooking — you simply glaze and reheat it if you want it hot. Refrigerated at 4 °C (40 °F) or below it keeps about 1 week from the day of purchase, and it holds good quality for 1–2 months in the freezer at −18 °C (0 °F).",
+    "pantry": "A chilled cooked ham is not a shelf-stable product and must not be kept in a cupboard. Curing and cooking reduce bacteria but do not make it safe at room temperature, and in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) any survivors grow. Do not leave a ham on a buffet table for more than 2 hours, or 1 hour above 32 °C (90 °F).",
+    "fridge": "Store the ham in its original wrapping, or tightly covered in foil, on a shelf at 4 °C (40 °F) or below. It keeps about 1 week from purchase, whole or partly carved. A whole ham takes up a lot of room, so it is often easier to carve what you need, wrap the rest of the joint tightly and store the slices separately in a covered container.",
+    "freezer": "The freezer time is only 1–2 months for best quality because curing salts speed up fat rancidity, even though the ham stays safe indefinitely at −18 °C (0 °F). Carve the meat off the bone, portion it, wrap tightly and bag it with the air pressed out. Keep the bone too — it makes an excellent base for split-pea or bean soup.",
+    "thawing": "Thaw in the fridge on a tray, allowing about 24 hours per 2 kg for a whole ham. Reheat only to a serving temperature of 60 °C (140 °F) for a commercially cooked ham; heating it further just dries it out. Never thaw ham on the counter.",
+    "spoilage": [
+      "Sour, sharp or ammonia-like smell instead of a clean smoky, salty aroma",
+      "Slimy or sticky film on the cut surface",
+      "Grey, green or iridescent patches on the meat, or fat that smells rancid",
+      "A bulging vacuum pack, or a passed use-by date"
+    ],
+    "tips": [
+      "Carve what you need and rewrap the joint tightly so the cut face does not dry out.",
+      "Freeze leftover slices in meal-sized packs — they keep 1–2 months.",
+      "Save the bone for soup; it can be frozen separately.",
+      "Reheat gently, covered, with a little liquid so the ham stays moist."
+    ],
+    "faq": [
+      {"q": "Can you freeze a cooked ham?", "a": "Yes, at −18 °C (0 °F). It is safe indefinitely but best quality lasts only 1–2 months, because curing salts make the fat go rancid faster."},
+      {"q": "How long does a whole cooked ham last in the fridge?", "a": "About 1 week from the day of purchase at 4 °C (40 °F) or below, whole or partly carved."},
+      {"q": "Do you need to cook a fully cooked ham?", "a": "No. It is ready to eat cold. If you prefer it hot, reheat it to 60 °C (140 °F) — going further mostly dries it out."}
+    ]
+  },
+  "zh": {
+    "name": "全熟帶骨整隻火腿",
+    "aliases": ["帶骨熟火腿", "整隻火腿", "節慶火腿", "西式帶骨火腿"],
+    "summary": "全熟帶骨整隻火腿是已經醃製並熟成煮熟的豬後腿，買回來不需要再烹調，想吃熱的只要刷醬回溫即可。在 4°C 以下冷藏，從購買日起約可放 1 週；放 −18°C 冷凍，品質以 1～2 個月為佳。",
+    "pantry": "冷藏販售的熟火腿不是常溫商品，不能收在櫥櫃。醃製和加熱只是減少細菌，並不能讓它在室溫下安全，殘存的菌在 4～60°C 的危險溫度帶還是會生長。自助餐桌上的火腿不要擺超過 2 小時（氣溫超過 32°C 時 1 小時）。",
+    "fridge": "連原本包裝，或用鋁箔緊緊包好，放在 4°C 以下的冰箱層架。從購買日起約可放 1 週，整隻或已切開都一樣。整隻火腿很佔位置，通常比較方便的做法是切下需要的份量，剩下的整塊包緊，切片則另外裝有蓋容器保存。",
+    "freezer": "冷凍品質期限只有 1～2 個月，因為醃漬鹽會加速脂肪酸敗，雖然在 −18°C 下安全上可以無限期保存。建議把肉從骨頭上切下來、分裝包緊後裝袋擠出空氣。骨頭也留著，用來熬豌豆湯或豆子湯非常好。",
+    "thawing": "放盤子上冷藏解凍，整隻火腿每 2 公斤約 24 小時。市售熟火腿只要回溫到食用溫度 60°C 即可，加熱過頭只會讓它變乾。絕對不要放室溫解凍。",
+    "spoilage": [
+      "不是乾淨的煙燻鹹香，而是酸味、刺鼻味或阿摩尼亞味",
+      "切面有黏滑或發黏的薄膜",
+      "肉上出現灰、綠或虹彩斑塊，或脂肪有油耗味",
+      "真空包裝鼓起，或已超過有效日期"
+    ],
+    "tips": [
+      "切下需要的量後，把整塊重新包緊，切面才不會乾掉。",
+      "剩下的切片分裝成每餐份量冷凍，可放 1～2 個月。",
+      "骨頭留下來熬湯，也可以另外冷凍。",
+      "回溫時蓋著、加一點液體慢慢加熱，火腿才不會乾。"
+    ],
+    "faq": [
+      {"q": "熟火腿可以冷凍嗎？", "a": "可以，放 −18°C 冷凍。安全上可以無限期保存，但品質只有 1～2 個月，因為醃漬鹽會讓脂肪較快酸敗。"},
+      {"q": "整隻熟火腿放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起約 1 週，整隻或切開過都一樣。"},
+      {"q": "全熟火腿還要再煮嗎？", "a": "不用，可以直接冷食。想吃熱的就回溫到 60°C 即可，再加熱下去主要只會變乾。"}
+    ]
+  },
+  "ja": {
+    "name": "加熱済み骨付きハム（丸ごと）",
+    "aliases": ["ボーンインハム", "骨付きロースハム", "ホールハム", "クリスマスハム"],
+    "summary": "加熱済みの骨付きホールハムは、塩せき・加熱まで済んだ豚もも肉で、そのまま食べられます。温かくしたいときはグレーズを塗って温め直すだけ。4℃以下の冷蔵で購入日から約1週間、−18℃の冷凍では品質の目安が1〜2か月です。",
+    "pantry": "冷蔵で売られている加熱済みハムは常温保存できる製品ではなく、棚に置いてはいけません。塩せきと加熱は菌を減らしますが、室温で安全にするものではなく、4〜60℃の危険温度帯では残った菌が増えます。ビュッフェのテーブルに出すのは2時間まで（気温32℃以上なら1時間）にしてください。",
+    "fridge": "もとの包装のまま、またはホイルでしっかり包み、4℃以下の庫内の棚で保存します。丸ごとでも切りかけでも、購入日から約1週間が目安。ホールハムは場所を取るので、必要な分を切り出し、残りのかたまりはきつく包み直し、スライスは別のふた付き容器に入れると扱いやすくなります。",
+    "freezer": "冷凍の品質目安が1〜2か月と短いのは、塩せきの塩分が脂の酸化を早めるためです（−18℃なら安全面では長期間保存できます）。骨から肉を切り離して小分けにし、密着させて包み、袋の空気を抜いて凍らせましょう。骨も取っておくと、豆のスープの土台として重宝します。",
+    "thawing": "トレーにのせて冷蔵庫で解凍します。丸ごとなら2kgあたり約24時間。市販の加熱済みハムは食べごろの60℃まで温め直せば十分で、それ以上加熱してもパサつくだけです。常温解凍は避けてください。",
+    "spoilage": [
+      "清潔な燻製と塩の香りではなく、酸っぱい・つんとした・アンモニアのようなにおいがする",
+      "切り口にぬめり・べたつきの膜がある",
+      "肉に灰色・緑・虹色の斑が出ている、脂に酸敗臭がある",
+      "真空パックが膨らんでいる、消費期限を過ぎている"
+    ],
+    "tips": [
+      "必要な分だけ切り、残りのかたまりはきつく包み直して切り口の乾燥を防ぐ。",
+      "残ったスライスは1食分ずつ冷凍する（1〜2か月が目安）。",
+      "骨はスープ用に取っておく。別に冷凍しても構わない。",
+      "温め直すときはふたをして少量の水分を加え、ゆっくり加熱するとしっとり仕上がる。"
+    ],
+    "faq": [
+      {"q": "加熱済みハムは冷凍できますか？", "a": "できます。−18℃なら安全面では長期間ですが、品質の目安は1〜2か月です。塩せきの影響で脂の酸化が早く進みます。"},
+      {"q": "ホールハムは冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から約1週間です。丸ごとでも切りかけでも同じ目安になります。"},
+      {"q": "加熱済みハムは調理が必要ですか？", "a": "不要です。冷たいままでも食べられます。温かくしたい場合は60℃程度まで温め直せば十分で、それ以上はパサつくだけです。"}
+    ]
+  },
+  "es": {
+    "name": "Jamón cocido con hueso, entero",
+    "aliases": ["jamón entero con hueso", "pierna de jamón cocida", "jamón navideño", "jamón horneado entero"],
+    "summary": "El jamón cocido con hueso entero es una pierna de cerdo curada y ya cocinada que no necesita más cocción: basta con glasearla y recalentarla si la quieres caliente. Refrigerado a 4 °C (40 °F) o menos dura alrededor de 1 semana desde la compra y conserva buena calidad 1–2 meses a −18 °C (0 °F).",
+    "pantry": "Un jamón cocido refrigerado no es un producto de despensa y no puede guardarse en un armario. El curado y la cocción reducen las bacterias pero no lo hacen seguro a temperatura ambiente, y en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F) las que quedan crecen. No lo dejes en la mesa más de 2 horas, o 1 hora por encima de 32 °C (90 °F).",
+    "fridge": "Guárdalo en su envoltorio original o bien cubierto con aluminio, en un estante a 4 °C (40 °F) o menos. Dura alrededor de 1 semana desde la compra, entero o ya empezado. Un jamón entero ocupa mucho, así que suele ser más práctico cortar lo que necesites, envolver de nuevo la pieza bien apretada y guardar las lonchas aparte en un recipiente tapado.",
+    "freezer": "El plazo en congelador es de solo 1–2 meses para la mejor calidad, porque las sales de curado aceleran el enranciamiento de la grasa, aunque el jamón siga seguro indefinidamente a −18 °C (0 °F). Deshuésalo, divídelo en porciones, envuélvelo apretado y embólsalo sin aire. Guarda también el hueso: es una base estupenda para sopas de legumbres.",
+    "thawing": "Descongélalo en el refrigerador sobre una bandeja, unas 24 horas por cada 2 kg si es entero. Recalienta un jamón cocido comercial solo hasta los 60 °C (140 °F) de temperatura de servicio; ir más allá solo lo reseca. Nunca lo descongeles en la encimera.",
+    "spoilage": [
+      "Olor agrio, punzante o a amoníaco en lugar del aroma limpio ahumado y salado",
+      "Película viscosa o pegajosa en la cara cortada",
+      "Manchas grises, verdosas o irisadas en la carne, o grasa con olor rancio",
+      "Envase al vacío hinchado o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Corta lo que necesites y vuelve a envolver bien la pieza para que no se seque el corte.",
+      "Congela las lonchas sobrantes en paquetes de una comida: aguantan 1–2 meses.",
+      "Guarda el hueso para sopa; puedes congelarlo por separado.",
+      "Recaliéntalo tapado y con un poco de líquido para que quede jugoso."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el jamón cocido?", "a": "Sí, a −18 °C (0 °F). Es seguro indefinidamente, pero la mejor calidad dura solo 1–2 meses porque las sales de curado enrancian antes la grasa."},
+      {"q": "¿Cuánto dura un jamón cocido entero en el refrigerador?", "a": "Alrededor de 1 semana desde el día de compra a 4 °C (40 °F) o menos, entero o ya empezado."},
+      {"q": "¿Hay que cocinar un jamón ya cocido?", "a": "No. Está listo para comer frío. Si lo prefieres caliente, recaliéntalo hasta 60 °C (140 °F); más allá solo consigues resecarlo."}
+    ]
+  }
+}

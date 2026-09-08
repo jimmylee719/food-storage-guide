@@ -1,0 +1,952 @@
+[
+ {
+  "slug": "mango",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 265,
+  "derivedFrom": "papaya-mango-feijoa-passionfruit-casaha-melon",
+  "derivedFromName": "Papaya, mango, feijoa, passionfruit, casaha melon",
+  "name": "Mango",
+  "subtitle": null,
+  "keywords": [
+   "mango",
+   "mangoes",
+   "Papaya",
+   "feijoa",
+   "passionfruit",
+   "casaha melon",
+   "melon",
+   "fruit",
+   "passion"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 1,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "papaya",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 265,
+  "derivedFrom": "papaya-mango-feijoa-passionfruit-casaha-melon",
+  "derivedFromName": "Papaya, mango, feijoa, passionfruit, casaha melon",
+  "name": "Papaya",
+  "subtitle": null,
+  "keywords": [
+   "papaya",
+   "pawpaw",
+   "Papaya",
+   "mango",
+   "feijoa",
+   "passionfruit",
+   "casaha melon",
+   "melon",
+   "fruit",
+   "passion"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 1,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "passionfruit",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 265,
+  "derivedFrom": "papaya-mango-feijoa-passionfruit-casaha-melon",
+  "derivedFromName": "Papaya, mango, feijoa, passionfruit, casaha melon",
+  "name": "Passionfruit",
+  "subtitle": null,
+  "keywords": [
+   "passionfruit",
+   "passion fruit",
+   "maracuya",
+   "Papaya",
+   "mango",
+   "feijoa",
+   "casaha melon",
+   "melon",
+   "fruit",
+   "passion"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 1,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "feijoa",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 265,
+  "derivedFrom": "papaya-mango-feijoa-passionfruit-casaha-melon",
+  "derivedFromName": "Papaya, mango, feijoa, passionfruit, casaha melon",
+  "name": "Feijoa",
+  "subtitle": null,
+  "keywords": [
+   "feijoa",
+   "pineapple guava",
+   "Papaya",
+   "mango",
+   "passionfruit",
+   "casaha melon",
+   "melon",
+   "fruit",
+   "passion"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 1,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "casaba-melon",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 265,
+  "derivedFrom": "papaya-mango-feijoa-passionfruit-casaha-melon",
+  "derivedFromName": "Papaya, mango, feijoa, passionfruit, casaha melon",
+  "name": "Casaba melon",
+  "subtitle": null,
+  "keywords": [
+   "casaba",
+   "melon",
+   "Papaya",
+   "mango",
+   "feijoa",
+   "passionfruit",
+   "casaha melon",
+   "fruit",
+   "passion"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 1,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "lychee",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 252,
+  "derivedFrom": "berries-cherries-goose-berries-lychee",
+  "derivedFromName": "Berries, cherries, goose berries, lychee",
+  "name": "Lychee",
+  "subtitle": null,
+  "keywords": [
+   "lychee",
+   "litchi",
+   "lichee",
+   "Berries",
+   "berry",
+   "cherries",
+   "cherry",
+   "goose berries",
+   "goose berry",
+   "gooseberries"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 7,
+     "max": 7,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 12,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "gooseberries",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 252,
+  "derivedFrom": "berries-cherries-goose-berries-lychee",
+  "derivedFromName": "Berries, cherries, goose berries, lychee",
+  "name": "Gooseberries",
+  "subtitle": null,
+  "keywords": [
+   "gooseberry",
+   "gooseberries",
+   "Berries",
+   "berry",
+   "cherries",
+   "cherry",
+   "goose berries",
+   "goose berry",
+   "lychee"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 7,
+     "max": 7,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 12,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "blackberries",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 253,
+  "derivedFrom": "berries-blackberries-boysenberries-currant",
+  "derivedFromName": "Berries, blackberries, boysenberries, currant",
+  "name": "Blackberries",
+  "subtitle": null,
+  "keywords": [
+   "blackberry",
+   "blackberries",
+   "Berries",
+   "berry",
+   "boysenberries",
+   "boysenberry",
+   "currant"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 6,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 12,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "boysenberries",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 253,
+  "derivedFrom": "berries-blackberries-boysenberries-currant",
+  "derivedFromName": "Berries, blackberries, boysenberries, currant",
+  "name": "Boysenberries",
+  "subtitle": null,
+  "keywords": [
+   "boysenberry",
+   "Berries",
+   "berry",
+   "blackberries",
+   "blackberry",
+   "boysenberries",
+   "currant"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 6,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 12,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "currants",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 253,
+  "derivedFrom": "berries-blackberries-boysenberries-currant",
+  "derivedFromName": "Berries, blackberries, boysenberries, currant",
+  "name": "Currants",
+  "subtitle": null,
+  "keywords": [
+   "currant",
+   "redcurrant",
+   "blackcurrant",
+   "Berries",
+   "berry",
+   "blackberries",
+   "blackberry",
+   "boysenberries",
+   "boysenberry"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 6,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 12,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "peaches",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 266,
+  "derivedFrom": "peaches-nectarines-plums-pears-sapote",
+  "derivedFromName": "Peaches, nectarines, plums, pears, sapote",
+  "name": "Peaches",
+  "subtitle": null,
+  "keywords": [
+   "peach",
+   "peaches",
+   "Peaches",
+   "nectarines",
+   "plums",
+   "pears",
+   "sapote",
+   "nectarine",
+   "plum",
+   "pear"
+  ],
+  "storage": {
+   "pantry": {
+    "base": {
+     "min": null,
+     "max": null,
+     "unit": "when ripe",
+     "tips": "Until Ripe, then 1-2 days. Ripe is when this item is tender, fully developed and ready to eat."
+    }
+   },
+   "fridge": {
+    "base": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": "Timeline for refrigerator applies to ripe fruit."
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 2,
+     "max": 2,
+     "unit": "months",
+     "tips": "Freezing guidance applies to product when sliced, with lemon juice and sugar."
+    }
+   }
+  }
+ },
+ {
+  "slug": "nectarines",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 266,
+  "derivedFrom": "peaches-nectarines-plums-pears-sapote",
+  "derivedFromName": "Peaches, nectarines, plums, pears, sapote",
+  "name": "Nectarines",
+  "subtitle": null,
+  "keywords": [
+   "nectarine",
+   "Peaches",
+   "nectarines",
+   "plums",
+   "pears",
+   "sapote",
+   "peach",
+   "plum",
+   "pear"
+  ],
+  "storage": {
+   "pantry": {
+    "base": {
+     "min": null,
+     "max": null,
+     "unit": "when ripe",
+     "tips": "Until Ripe, then 1-2 days. Ripe is when this item is tender, fully developed and ready to eat."
+    }
+   },
+   "fridge": {
+    "base": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": "Timeline for refrigerator applies to ripe fruit."
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 2,
+     "max": 2,
+     "unit": "months",
+     "tips": "Freezing guidance applies to product when sliced, with lemon juice and sugar."
+    }
+   }
+  }
+ },
+ {
+  "slug": "plums",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 266,
+  "derivedFrom": "peaches-nectarines-plums-pears-sapote",
+  "derivedFromName": "Peaches, nectarines, plums, pears, sapote",
+  "name": "Plums",
+  "subtitle": null,
+  "keywords": [
+   "plum",
+   "plums",
+   "Peaches",
+   "nectarines",
+   "pears",
+   "sapote",
+   "peach",
+   "nectarine",
+   "pear"
+  ],
+  "storage": {
+   "pantry": {
+    "base": {
+     "min": null,
+     "max": null,
+     "unit": "when ripe",
+     "tips": "Until Ripe, then 1-2 days. Ripe is when this item is tender, fully developed and ready to eat."
+    }
+   },
+   "fridge": {
+    "base": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": "Timeline for refrigerator applies to ripe fruit."
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 2,
+     "max": 2,
+     "unit": "months",
+     "tips": "Freezing guidance applies to product when sliced, with lemon juice and sugar."
+    }
+   }
+  }
+ },
+ {
+  "slug": "pears",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 266,
+  "derivedFrom": "peaches-nectarines-plums-pears-sapote",
+  "derivedFromName": "Peaches, nectarines, plums, pears, sapote",
+  "name": "Pears",
+  "subtitle": null,
+  "keywords": [
+   "pear",
+   "pears",
+   "Peaches",
+   "nectarines",
+   "plums",
+   "sapote",
+   "peach",
+   "nectarine",
+   "plum"
+  ],
+  "storage": {
+   "pantry": {
+    "base": {
+     "min": null,
+     "max": null,
+     "unit": "when ripe",
+     "tips": "Until Ripe, then 1-2 days. Ripe is when this item is tender, fully developed and ready to eat."
+    }
+   },
+   "fridge": {
+    "base": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": "Timeline for refrigerator applies to ripe fruit."
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 2,
+     "max": 2,
+     "unit": "months",
+     "tips": "Freezing guidance applies to product when sliced, with lemon juice and sugar."
+    }
+   }
+  }
+ },
+ {
+  "slug": "sapote",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 266,
+  "derivedFrom": "peaches-nectarines-plums-pears-sapote",
+  "derivedFromName": "Peaches, nectarines, plums, pears, sapote",
+  "name": "Sapote",
+  "subtitle": null,
+  "keywords": [
+   "sapote",
+   "mamey",
+   "Peaches",
+   "nectarines",
+   "plums",
+   "pears",
+   "peach",
+   "nectarine",
+   "plum",
+   "pear"
+  ],
+  "storage": {
+   "pantry": {
+    "base": {
+     "min": null,
+     "max": null,
+     "unit": "when ripe",
+     "tips": "Until Ripe, then 1-2 days. Ripe is when this item is tender, fully developed and ready to eat."
+    }
+   },
+   "fridge": {
+    "base": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": "Timeline for refrigerator applies to ripe fruit."
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 2,
+     "max": 2,
+     "unit": "months",
+     "tips": "Freezing guidance applies to product when sliced, with lemon juice and sugar."
+    }
+   }
+  }
+ },
+ {
+  "slug": "lemons",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 256,
+  "derivedFrom": "citrus-fruit-lemon-lime-orange-grapefruit-tangerines-clementines",
+  "derivedFromName": "Citrus fruit, lemon, lime, orange, grapefruit, tangerines, clementines",
+  "name": "Lemons",
+  "subtitle": null,
+  "keywords": [
+   "lemon",
+   "lemons",
+   "Citrus fruit",
+   "fruit",
+   "citrus",
+   "lime",
+   "orange",
+   "grape",
+   "grapefruit",
+   "tangerines",
+   "tangerine",
+   "clementines",
+   "clementine"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 10,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 21,
+     "unit": "days",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "limes",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 256,
+  "derivedFrom": "citrus-fruit-lemon-lime-orange-grapefruit-tangerines-clementines",
+  "derivedFromName": "Citrus fruit, lemon, lime, orange, grapefruit, tangerines, clementines",
+  "name": "Limes",
+  "subtitle": null,
+  "keywords": [
+   "lime",
+   "limes",
+   "Citrus fruit",
+   "fruit",
+   "citrus",
+   "lemon",
+   "orange",
+   "grape",
+   "grapefruit",
+   "tangerines",
+   "tangerine",
+   "clementines",
+   "clementine"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 10,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 21,
+     "unit": "days",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "oranges",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 256,
+  "derivedFrom": "citrus-fruit-lemon-lime-orange-grapefruit-tangerines-clementines",
+  "derivedFromName": "Citrus fruit, lemon, lime, orange, grapefruit, tangerines, clementines",
+  "name": "Oranges",
+  "subtitle": null,
+  "keywords": [
+   "orange",
+   "oranges",
+   "Citrus fruit",
+   "fruit",
+   "citrus",
+   "lemon",
+   "lime",
+   "grape",
+   "grapefruit",
+   "tangerines",
+   "tangerine",
+   "clementines",
+   "clementine"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 10,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 21,
+     "unit": "days",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "grapefruit",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 256,
+  "derivedFrom": "citrus-fruit-lemon-lime-orange-grapefruit-tangerines-clementines",
+  "derivedFromName": "Citrus fruit, lemon, lime, orange, grapefruit, tangerines, clementines",
+  "name": "Grapefruit",
+  "subtitle": null,
+  "keywords": [
+   "grapefruit",
+   "pomelo",
+   "Citrus fruit",
+   "fruit",
+   "citrus",
+   "lemon",
+   "lime",
+   "orange",
+   "grape",
+   "tangerines",
+   "tangerine",
+   "clementines",
+   "clementine"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 10,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 21,
+     "unit": "days",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "tangerines",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 256,
+  "derivedFrom": "citrus-fruit-lemon-lime-orange-grapefruit-tangerines-clementines",
+  "derivedFromName": "Citrus fruit, lemon, lime, orange, grapefruit, tangerines, clementines",
+  "name": "Tangerines and clementines",
+  "subtitle": null,
+  "keywords": [
+   "tangerine",
+   "clementine",
+   "mandarin",
+   "Citrus fruit",
+   "fruit",
+   "citrus",
+   "lemon",
+   "lime",
+   "orange",
+   "grape",
+   "grapefruit",
+   "tangerines",
+   "clementines"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 10,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 21,
+     "unit": "days",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "carrots",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 279,
+  "derivedFrom": "carrots-parsnips",
+  "derivedFromName": "Carrots, parsnips",
+  "name": "Carrots",
+  "subtitle": null,
+  "keywords": [
+   "carrot",
+   "carrots",
+   "Carrots",
+   "parsnips",
+   "parsnip"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 3,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "parsnips",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 279,
+  "derivedFrom": "carrots-parsnips",
+  "derivedFromName": "Carrots, parsnips",
+  "name": "Parsnips",
+  "subtitle": null,
+  "keywords": [
+   "parsnip",
+   "Carrots",
+   "parsnips",
+   "carrot"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 3,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ }
+]

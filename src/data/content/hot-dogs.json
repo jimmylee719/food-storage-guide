@@ -1,0 +1,107 @@
+{
+  "slug": "hot-dogs",
+  "en": {
+    "name": "Hot dogs",
+    "aliases": ["frankfurters", "wieners", "franks", "sausages in a bun"],
+    "summary": "Hot dogs are emulsified, cured and fully cooked sausages sold chilled in vacuum packs. Unopened in the fridge at 4 °C (40 °F) or below they keep about 2 weeks from the day of purchase, and about 1 week once the pack is opened. In the freezer at −18 °C (0 °F) they hold good quality for 1–2 months.",
+    "pantry": "Hot dogs are a chilled ready-to-eat product and must not be stored at room temperature. Although they are cooked, they can pick up bacteria after processing, so keep them refrigerated and discard any left in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) for more than 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Keep the pack on a shelf at 4 °C (40 °F) or below, not in the door. Unopened, it lasts about 2 weeks from purchase; once opened, move the remaining hot dogs to an airtight container or zip bag and use them within about 1 week. Do not store them in the opened pack with the liquid, which quickly turns cloudy and sour.",
+    "freezer": "Hot dogs freeze well. Keep them in the unopened vacuum pack, or transfer opened ones to a freezer bag with the air pressed out, and freeze at −18 °C (0 °F): safe indefinitely, best quality for 1–2 months, since the cure hastens rancidity. Freezing them in small groups makes it easy to take out just what you need.",
+    "thawing": "Thaw hot dogs in the fridge overnight and use them within a week, or drop frozen ones straight into simmering water and heat them a little longer. Reheat until steaming hot, 74 °C (165 °F), which is the advice for ready-to-eat meats for anyone at higher risk. Never thaw them on the counter.",
+    "spoilage": [
+      "Sour or off smell when the pack is opened, unlike the mild smoky aroma",
+      "Slimy or sticky surface — a clear sign to discard, even before the date",
+      "Cloudy, thick or stringy liquid in the pack",
+      "Grey or greenish discolouration, or a bulging vacuum pack"
+    ],
+    "tips": [
+      "Move opened hot dogs out of the pack liquid into a clean airtight container.",
+      "Write the opening date on the bag — the roughly 1-week window starts then.",
+      "Freeze in pairs or fours so you can take out a single meal's worth.",
+      "Heat until steaming rather than just warm, especially for children and older adults."
+    ],
+    "faq": [
+      {"q": "Can you freeze hot dogs?", "a": "Yes. Freeze them in the sealed pack or a freezer bag at −18 °C (0 °F): safe indefinitely and best quality for 1–2 months."},
+      {"q": "How long do hot dogs last after opening?", "a": "About 1 week in the fridge at 4 °C (40 °F) or below, compared with roughly 2 weeks from purchase while the pack is sealed."},
+      {"q": "Are hot dogs safe to eat cold?", "a": "They are fully cooked, but health agencies advise reheating them until steaming hot, 74 °C (165 °F), particularly for young children, older adults and anyone with a weakened immune system."}
+    ]
+  },
+  "zh": {
+    "name": "熱狗腸",
+    "aliases": ["熱狗", "法蘭克福香腸", "維也納香腸", "德式香腸", "熱狗麵包用香腸"],
+    "summary": "熱狗腸是把肉打成乳化肉泥、經過醃製並完全煮熟的香腸，多以真空包裝冷藏販售。未開封放在 4°C 以下冷藏，從購買日起約可放 2 週；開封後約 1 週。放 −18°C 冷凍，品質以 1～2 個月為佳。",
+    "pantry": "熱狗腸是冷藏的即食產品，不能放室溫。雖然已經煮熟，加工後仍可能沾染細菌，所以要全程冷藏；在 4～60°C 的危險溫度帶放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "放在 4°C 以下的冰箱層架，不要放門邊。未開封從購買日起約 2 週；開封後把剩下的移到密封盒或夾鏈袋，約 1 週內用完。不要連同包裝裡的湯汁一起保存，那些液體很快就會變混濁發酸。",
+    "freezer": "熱狗腸很適合冷凍。可以整包未開封冷凍，或把開封後的移到冷凍袋、擠出空氣，放 −18°C 冷凍：安全上可以無限期保存，品質以 1～2 個月為佳，因為醃製會加速酸敗。分成小袋冷凍，之後要拿幾條很方便。",
+    "thawing": "放冷藏室解凍一晚，一週內用完；或把冷凍的直接丟進微滾的水裡多煮一會兒。加熱到冒蒸氣、中心 74°C，這是對高風險族群食用即食肉品的建議。絕對不要放室溫解凍。",
+    "spoilage": [
+      "打開包裝聞到的不是溫和煙燻香，而是酸味或異味",
+      "表面黏滑、發黏——即使還沒到期也要丟掉",
+      "包裝內的液體變混濁、濃稠或牽絲",
+      "顏色變灰或帶綠，或真空包裝鼓起"
+    ],
+    "tips": [
+      "開封後把熱狗腸從包裝湯汁裡取出，移到乾淨的密封容器。",
+      "在袋子上寫開封日期，約 1 週的期限從那天算起。",
+      "兩條或四條一小袋冷凍，剛好一餐的量。",
+      "加熱到冒蒸氣而不只是溫熱，對小孩和長輩尤其重要。"
+    ],
+    "faq": [
+      {"q": "熱狗腸可以冷凍嗎？", "a": "可以。整包或裝進冷凍袋，放 −18°C 冷凍：安全上無限期，品質以 1～2 個月為佳。"},
+      {"q": "熱狗腸開封後可以放多久？", "a": "在 4°C 以下冷藏約 1 週；未開封的話從購買日起約 2 週。"},
+      {"q": "熱狗腸可以直接冷食嗎？", "a": "它是全熟產品，但衛生單位建議加熱到冒蒸氣（中心 74°C）再吃，對幼兒、長者和免疫力較弱的人特別重要。"}
+    ]
+  },
+  "ja": {
+    "name": "ホットドッグ用ソーセージ",
+    "aliases": ["フランクフルト", "ウインナー", "フランク", "ホットドッグソーセージ"],
+    "summary": "ホットドッグ用ソーセージは、肉を乳化させて塩せきし、完全に加熱したソーセージで、真空パックの冷蔵品として売られます。未開封なら4℃以下の冷蔵で購入日から約2週間、開封後は約1週間。−18℃の冷凍では品質の目安が1〜2か月です。",
+    "pantry": "冷蔵のそのまま食べられる製品なので、常温保存はできません。加熱済みでも製造後に菌が付着することがあるため、必ず冷蔵し、4〜60℃の危険温度帯に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。",
+    "fridge": "ドアポケットではなく庫内の棚で4℃以下を保ちます。未開封なら購入日から約2週間。開封後は残りを密閉容器やジッパー袋に移し、約1週間で使い切りましょう。開けたパックの汁に浸けたままにしないでください。汁はすぐ濁って酸っぱくなります。",
+    "freezer": "冷凍向きの食品です。未開封の真空パックのまま、または開封後は冷凍用保存袋に移して空気を抜き、−18℃で冷凍します。安全面では長期間ですが、塩せきの影響で品質の目安は1〜2か月。少量ずつ小分けにしておくと必要な本数だけ取り出せます。",
+    "thawing": "冷蔵庫で一晩解凍して1週間以内に使うか、凍ったまま弱く沸いた湯に入れて長めに加熱します。中心が湯気の立つ状態（74℃）まで温めるのが、リスクの高い方に向けた推奨です。常温解凍は避けてください。",
+    "spoilage": [
+      "穏やかな燻製香ではなく、開封時に酸っぱいにおいや異臭がする",
+      "表面がぬめる・べたつく（期限内でも処分の合図）",
+      "パック内の液が濁る、とろみが出る、糸を引く",
+      "灰色や緑がかった変色がある、真空パックが膨らんでいる"
+    ],
+    "tips": [
+      "開封後はパックの汁から出し、清潔な密閉容器に移す。",
+      "袋に開封日を書く。約1週間の目安はそこから数える。",
+      "2本ずつ、4本ずつなど小分けで冷凍すると1食分だけ取り出せる。",
+      "ぬるく温めるのではなく、湯気が立つまで加熱する。子どもや高齢者には特に重要。"
+    ],
+    "faq": [
+      {"q": "ホットドッグ用ソーセージは冷凍できますか？", "a": "できます。未開封のパックか冷凍用保存袋に入れて−18℃で冷凍。安全面では長期間、品質は1〜2か月が目安です。"},
+      {"q": "開封後どのくらいもちますか？", "a": "4℃以下の冷蔵で約1週間です。未開封なら購入日から約2週間が目安になります。"},
+      {"q": "そのまま冷たく食べても大丈夫ですか？", "a": "加熱済み製品ですが、公的機関は湯気が立つ状態（74℃）まで温め直すことを推奨しています。とくに幼児、高齢者、免疫の弱い方は加熱してください。"}
+    ]
+  },
+  "es": {
+    "name": "Salchichas tipo hot dog",
+    "aliases": ["salchichas de Frankfurt", "vienesas", "franks", "salchichas para perro caliente"],
+    "summary": "Las salchichas tipo hot dog son embutidos emulsionados, curados y totalmente cocidos que se venden refrigerados al vacío. Sin abrir, en el refrigerador a 4 °C (40 °F) o menos duran alrededor de 2 semanas desde la compra, y cerca de 1 semana una vez abierto el paquete. En el congelador a −18 °C (0 °F) conservan buena calidad 1–2 meses.",
+    "pantry": "Son un producto refrigerado listo para comer y no pueden guardarse a temperatura ambiente. Aunque estén cocidas, pueden contaminarse después del procesado, así que mantenlas en frío y desecha las que pasen más de 2 horas en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F) —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Guarda el paquete en un estante a 4 °C (40 °F) o menos, no en la puerta. Cerrado dura unas 2 semanas desde la compra; al abrirlo, pasa las salchichas restantes a un recipiente hermético o bolsa con cierre y consúmelas en aproximadamente 1 semana. No las dejes en el paquete abierto con su líquido, que se enturbia y agria enseguida.",
+    "freezer": "Se congelan bien. Congélalas en el paquete al vacío sin abrir, o pásalas a una bolsa de congelación sin aire, a −18 °C (0 °F): seguras indefinidamente y con la mejor calidad 1–2 meses, ya que el curado acelera el enranciamiento. Congelarlas en grupos pequeños facilita sacar solo lo necesario.",
+    "thawing": "Descongélalas en el refrigerador durante una noche y úsalas en una semana, o échalas congeladas directamente en agua a punto de hervor y caliéntalas un poco más. Recaliéntalas hasta que humeen, 74 °C (165 °F), la recomendación para carnes listas para comer en personas de mayor riesgo. Nunca las descongeles en la encimera.",
+    "spoilage": [
+      "Olor agrio o desagradable al abrir el paquete, distinto del aroma ahumado suave",
+      "Superficie viscosa o pegajosa: motivo para tirarlas aunque no haya vencido la fecha",
+      "Líquido turbio, espeso o filante dentro del paquete",
+      "Coloración gris o verdosa, o envase al vacío hinchado"
+    ],
+    "tips": [
+      "Saca las salchichas abiertas del líquido del paquete y pásalas a un recipiente limpio.",
+      "Anota la fecha de apertura en la bolsa: la semana cuenta desde ahí.",
+      "Congélalas de dos en dos o de cuatro en cuatro para sacar justo una comida.",
+      "Caliéntalas hasta que humeen, no solo tibias, sobre todo para niños y personas mayores."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las salchichas tipo hot dog?", "a": "Sí. Congélalas en el paquete cerrado o en bolsa de congelación a −18 °C (0 °F): seguras indefinidamente y con la mejor calidad 1–2 meses."},
+      {"q": "¿Cuánto duran después de abrir el paquete?", "a": "Alrededor de 1 semana en el refrigerador a 4 °C (40 °F) o menos, frente a unas 2 semanas desde la compra si sigue cerrado."},
+      {"q": "¿Se pueden comer frías?", "a": "Están totalmente cocidas, pero las autoridades sanitarias recomiendan recalentarlas hasta que humeen, 74 °C (165 °F), sobre todo para niños pequeños, personas mayores y quienes tengan las defensas bajas."}
+    ]
+  }
+}

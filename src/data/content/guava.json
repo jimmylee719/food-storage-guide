@@ -1,0 +1,107 @@
+{
+  "slug": "guava",
+  "en": {
+    "name": "Guava",
+    "aliases": ["common guava", "apple guava", "pink guava", "Psidium guajava"],
+    "summary": "Guava is a fragrant tropical fruit with thin green or yellow skin and white or pink flesh full of small seeds. Leave it at room temperature only until ripe — tender, fully developed and ready to eat — and note that guavas spoil quickly once ripe. Refrigerated, ripe guava keeps just 2–4 days.",
+    "pantry": "Keep firm guavas on the counter, out of direct sun, until ripe: the skin turns from deep green to pale green or yellow, the fruit gives slightly to gentle pressure and the perfume becomes obvious across the room. This usually takes 2–4 days. Guava deteriorates quickly once ripe, so do not leave ripe fruit out — move it to the fridge the same day.",
+    "fridge": "Once ripe, refrigerate guava at 4 °C (40 °F) or below, where it keeps only 2–4 days. Store it in a loosely closed bag so it does not perfume the rest of the fridge, since the aroma transfers easily to milk and butter. Cut guava should go in an airtight container and be eaten within a day.",
+    "freezer": "USDA gives no freezer timeline for fresh guava. In practice the pulp freezes well: peel and deseed the fruit, purée it with a little sugar or lime juice and freeze in airtight portions for juices, sorbets and sauces. Whole guavas freeze poorly and become mushy.",
+    "thawing": "Thaw guava purée in the fridge and use it within a day, or blend it straight from frozen into drinks. Thawed pulp is soft and best used in cooking or blending rather than eaten as fresh fruit.",
+    "spoilage": [
+      "Soft brown patches or flesh that has collapsed inside the skin",
+      "Fermented, alcoholic or sour smell replacing the sweet perfume",
+      "Mould at the blossom end or on the skin",
+      "Leaking juice or a slimy surface"
+    ],
+    "tips": [
+      "Buy guavas slightly firm and ripen them at home — ripe fruit bruises in transit",
+      "Bag them loosely in the fridge so the strong aroma does not spread",
+      "Purée and freeze a glut for juice rather than letting it spoil",
+      "Ripe guava is edible skin, seeds and all, so nothing needs to be wasted"
+    ],
+    "faq": [
+      {"q": "How long does guava last in the fridge?", "a": "Only 2–4 days once ripe, at 4 °C (40 °F) or below. Guava spoils quickly, so eat it soon after it ripens."},
+      {"q": "Can you freeze guava?", "a": "Whole fruit freezes poorly, but the purée freezes well. Peel, deseed and blend with a little lime juice, then freeze in airtight portions for juices and sorbets."},
+      {"q": "How do you know when a guava is ripe?", "a": "The skin lightens from deep green to pale green or yellow, the fruit yields to gentle pressure, and it develops a strong, sweet perfume."}
+    ]
+  },
+  "zh": {
+    "name": "芭樂",
+    "aliases": ["番石榴", "拔仔", "紅心芭樂", "珍珠芭樂", "那拔"],
+    "summary": "芭樂是香氣濃郁的熱帶水果，果皮薄、呈綠色或黃色，果肉白色或粉紅色，帶有許多小籽。室溫只放到成熟為止——變軟、風味完整、可以入口的程度——而且要注意，芭樂熟了之後壞得很快。成熟的芭樂冷藏只能放 2～4 天。",
+    "pantry": "還硬的芭樂放在室溫、避開陽光直射，直到後熟：果皮從深綠轉為淺綠或偏黃，輕壓會微微下陷，香氣濃到隔著房間都聞得到。通常需要 2～4 天。芭樂熟了之後劣化很快，所以不要再放常溫，當天就移進冰箱。",
+    "fridge": "熟了之後放進 4°C 以下的冰箱，只能放 2～4 天。裝在鬆鬆封口的袋子裡，避免香氣跑遍整個冰箱，因為那股香味很容易沾到牛奶和奶油上。切開的芭樂請裝密封盒，並在一天內吃完。",
+    "freezer": "USDA 沒有提供新鮮芭樂的冷凍期限。實務上果泥冷凍效果不錯：削皮去籽後加一點糖或萊姆汁打成泥，分裝密封冷凍，可以做果汁、雪酪和醬汁。整顆冷凍效果很差，會變得軟爛。",
+    "thawing": "果泥放冷藏室退冰後一天內用完，或直接用冷凍狀態打成飲料。解凍後的果泥偏軟，比較適合入菜或打成飲品，不適合當新鮮水果吃。",
+    "spoilage": [
+      "出現褐色軟斑，或果肉在皮裡已經塌掉",
+      "原本的香甜氣味變成發酵味、酒精味或酸味",
+      "底部凹陷處或果皮長黴",
+      "滲出果汁，或表面摸起來黏滑"
+    ],
+    "tips": [
+      "買稍硬的回家自己催熟，熟果運送時容易碰傷",
+      "冰箱裡用袋子鬆鬆包住，避免濃郁香氣擴散",
+      "一次太多就打成果泥冷凍，別放到壞掉",
+      "熟芭樂連皮帶籽都能吃，不必浪費"
+    ],
+    "faq": [
+      {"q": "芭樂放冰箱可以放多久？", "a": "成熟後放 4°C 以下只有 2～4 天。芭樂壞得快，熟了就要盡快吃掉。"},
+      {"q": "芭樂可以冷凍嗎？", "a": "整顆冷凍效果不好，但果泥可以。削皮去籽、加一點萊姆汁打成泥後密封分裝冷凍，可以做果汁和雪酪。"},
+      {"q": "怎麼判斷芭樂熟了？", "a": "果皮從深綠轉為淺綠或偏黃，輕壓會下陷，而且會散發強烈的香甜氣味。"}
+    ]
+  },
+  "ja": {
+    "name": "グァバ",
+    "aliases": ["グアバ", "バンジロウ", "ばんざくろ", "ピンクグァバ", "島グァバ"],
+    "summary": "グァバは香りの豊かな熱帯果実で、緑や黄色の薄い皮と、小さな種を多く含む白またはピンクの果肉を持ちます。常温に置くのは食べごろ（やわらかく風味がのった状態）になるまでで、熟すと傷みがとても早い果物です。完熟したものは冷蔵でも2〜4日しか持ちません。",
+    "pantry": "固いグァバは直射日光を避けて常温に置き、追熟させます。皮が濃い緑から淡い緑や黄色に変わり、軽く押すと少し沈み、部屋の向こうまで香るようになれば食べごろで、通常2〜4日かかります。熟すと急速に劣化するので、その日のうちに冷蔵庫へ移しましょう。",
+    "fridge": "熟したら4℃以下で冷蔵しますが、2〜4日しか持ちません。香りが牛乳やバターに移りやすいので、袋の口を軽く閉じて庫内に広がらないようにします。切ったものは密閉容器に入れ、1日以内に食べ切ってください。",
+    "freezer": "USDAは生グァバの冷凍期間を示していません。実際にはピューレの冷凍がよく機能します。皮と種を取り、砂糖かライム汁を少し加えてピューレにし、小分け密閉して冷凍すればジュースやシャーベット、ソースに使えます。丸ごとの冷凍はぐずぐずになり不向きです。",
+    "thawing": "ピューレは冷蔵庫で解凍して1日以内に使うか、凍ったままドリンクにします。解凍したものはやわらかく、生食よりは加熱調理やドリンク向きです。",
+    "spoilage": [
+      "茶色くやわらかい部分がある、皮の中で果肉が崩れている",
+      "甘い香りが消え、発酵臭やアルコール臭、酸っぱいにおいがする",
+      "花落ちの部分や皮にカビが出ている",
+      "果汁がしみ出している、表面がぬめる"
+    ],
+    "tips": [
+      "熟果は輸送中に傷むので、やや固いものを買って家で追熟を",
+      "冷蔵庫では袋の口を軽く閉じ、強い香りが広がらないように",
+      "食べ切れないときはピューレにして冷凍を",
+      "熟したグァバは皮も種も食べられるので、むだが出ません"
+    ],
+    "faq": [
+      {"q": "グァバは冷蔵庫でどのくらい持ちますか？", "a": "完熟後は4℃以下で2〜4日だけです。傷みが早いので、熟したら早めに食べましょう。"},
+      {"q": "グァバは冷凍できますか？", "a": "丸ごとは不向きですが、ピューレならよく冷凍できます。皮と種を除き、ライム汁を少し加えて小分け密閉冷凍しましょう。"},
+      {"q": "グァバの食べごろはどう見分けますか？", "a": "皮が濃い緑から淡い緑や黄色になり、軽く押すと沈み、強い甘い香りが立つようになります。"}
+    ]
+  },
+  "es": {
+    "name": "Guayaba",
+    "aliases": ["guayaba rosada", "guayaba blanca", "guayabo", "Psidium guajava"],
+    "summary": "La guayaba es una fruta tropical muy aromática, de piel fina verde o amarilla y pulpa blanca o rosada llena de semillas pequeñas. Déjala a temperatura ambiente solo hasta que madure —tierna, plenamente desarrollada y lista para comer— y ten en cuenta que se estropea rápido una vez madura. Refrigerada aguanta solo 2–4 días.",
+    "pantry": "Deja las guayabas firmes en la encimera, fuera del sol directo, hasta que maduren: la piel pasa de verde intenso a verde claro o amarillo, la fruta cede un poco a la presión y el perfume se nota desde el otro lado de la cocina. Suele llevar 2–4 días. Se deteriora rápido una vez madura, así que pásala a la nevera el mismo día.",
+    "fridge": "Ya madura, refrigérala a 4 °C (40 °F) o menos, donde dura solo 2–4 días. Guárdala en una bolsa cerrada sin apretar para que no perfume el resto de la nevera, porque su aroma pasa fácilmente a la leche y la mantequilla. La guayaba cortada va en un recipiente hermético y se come en un día.",
+    "freezer": "El USDA no da un plazo de congelación para la guayaba fresca. En la práctica la pulpa se congela bien: pélala, quítale las semillas, tritúrala con un poco de azúcar o zumo de lima y congélala en porciones herméticas para zumos, sorbetes y salsas. Entera se congela mal y queda blanda.",
+    "thawing": "Descongela el puré en la nevera y úsalo en un día, o tritúralo congelado para bebidas. La pulpa descongelada queda blanda y va mejor cocinada o batida que como fruta fresca.",
+    "spoilage": [
+      "Manchas pardas y blandas o pulpa hundida dentro de la piel",
+      "Olor fermentado, alcohólico o agrio en lugar del perfume dulce",
+      "Moho en la base floral o en la piel",
+      "Fruta que rezuma jugo o superficie viscosa"
+    ],
+    "tips": [
+      "Cómpralas algo firmes y madúralas en casa: la fruta madura se magulla en el transporte",
+      "Guárdalas en bolsa suelta en la nevera para que el aroma no se extienda",
+      "Tritura y congela el excedente para zumo en lugar de dejar que se estropee",
+      "La guayaba madura se come con piel y semillas, así que no hace falta desperdiciar nada"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la guayaba en la nevera?", "a": "Solo 2–4 días una vez madura, a 4 °C (40 °F) o menos. Se estropea rápido, así que cómela poco después de que madure."},
+      {"q": "¿Se puede congelar la guayaba?", "a": "Entera se congela mal, pero el puré funciona bien. Pélala, quítale las semillas, tritúrala con un poco de lima y congélala en porciones herméticas."},
+      {"q": "¿Cómo saber si una guayaba está madura?", "a": "La piel pasa de verde intenso a verde claro o amarillo, cede a la presión suave y desprende un perfume dulce e intenso."}
+    ]
+  }
+}

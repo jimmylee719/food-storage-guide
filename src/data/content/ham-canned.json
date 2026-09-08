@@ -1,0 +1,107 @@
+{
+  "slug": "ham-canned",
+  "en": {
+    "name": "Canned ham (keep refrigerated)",
+    "aliases": ["tinned ham", "refrigerated canned ham", "cured ham in a can", "chilled canned ham"],
+    "summary": "This is the type of canned ham whose label says keep refrigerated: it has been pasteurized rather than fully retorted, so it is not shelf-stable. Unopened in the fridge at 4 °C (40 °F) or below it lasts 6–9 months from the day of purchase. Freezing is not recommended, as the texture becomes watery and crumbly.",
+    "pantry": "A can marked keep refrigerated must never be stored in a cupboard, however solid it looks. The mild heat treatment leaves spores that grow at room temperature, and once in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) they multiply. Only cans explicitly labelled shelf-stable may live in the pantry — those are a different product with a different process.",
+    "fridge": "Keep the unopened can on a shelf at 4 °C (40 °F) or below; it holds for 6–9 months from purchase, which is unusually long for a chilled meat. Once opened, the clock changes completely: transfer any leftover ham to an airtight container, never store it in the opened can, and use it within about 3–5 days.",
+    "freezer": "Freezing canned ham is not recommended. The high salt and water content mean the texture collapses on thawing and the meat weeps liquid and goes crumbly, even though it stays safe at −18 °C (0 °F). If you have far more than you can use, dice the ham and freeze it for soups, omelettes or fried rice, where texture matters less.",
+    "thawing": "If you have frozen it, thaw in the fridge overnight, drain the liquid and use the ham in a cooked dish. Never thaw canned ham at room temperature, and do not refreeze it.",
+    "spoilage": [
+      "A bulging, dented at the seam, rusted or leaking can — discard without opening or tasting",
+      "Spurting liquid, foam or a bad smell when the can is opened",
+      "Slimy surface or a sour, sulphurous smell on the ham itself",
+      "Grey-green or unusually dark discolouration"
+    ],
+    "tips": [
+      "Read the label: keep refrigerated and shelf-stable canned hams are stored differently.",
+      "Write the purchase date on the can — 6–9 months is long enough to forget.",
+      "Never store leftovers in the opened can; move them to a covered container.",
+      "Use leftovers within 3–5 days in sandwiches, omelettes, soups or fried rice."
+    ],
+    "faq": [
+      {"q": "Can you freeze canned ham?", "a": "It stays safe at −18 °C (0 °F) but the texture suffers badly. If you must, dice it first and use it in soups or fried rice rather than serving it in slices."},
+      {"q": "How long does canned ham last in the fridge?", "a": "6–9 months unopened from the day of purchase at 4 °C (40 °F) or below, and about 3–5 days once opened."},
+      {"q": "Does canned ham need to be refrigerated?", "a": "If the label says keep refrigerated, yes — always. Only cans marked shelf-stable can be kept in the pantry until they are opened."}
+    ]
+  },
+  "zh": {
+    "name": "罐頭火腿（需冷藏）",
+    "aliases": ["冷藏火腿罐頭", "罐裝火腿", "西式火腿罐", "需冷藏火腿"],
+    "summary": "這是標示「需冷藏」的火腿罐頭：它只經過巴氏殺菌，沒有做到完全的高溫滅菌，所以不能常溫保存。未開封放在 4°C 以下冷藏，從購買日起可放 6～9 個月。不建議冷凍，因為質地會出水變得鬆散。",
+    "pantry": "標示「需冷藏」的罐頭絕對不能收在櫥櫃，不管它看起來多結實。較溫和的加熱處理會留下芽孢，在室溫下就會生長，進入 4～60°C 的危險溫度帶更會繁殖。只有明確標示「常溫保存」的罐頭才能放櫥櫃——那是製程不同的另一種產品。",
+    "fridge": "未開封的罐頭放在 4°C 以下的冰箱層架，從購買日起可放 6～9 個月，以冷藏肉品來說算非常久。但一開封時間表就完全不同了：吃不完的請移到密封容器，絕對不要留在開過的罐頭裡，並在約 3～5 天內用完。",
+    "freezer": "罐頭火腿不建議冷凍。鹽分和水分都高，解凍後質地會崩解、出水、變得鬆散，雖然在 −18°C 下安全上沒問題。真的太多用不完的話，可以切丁冷凍，用在湯品、蛋料理或炒飯，這些用途對質地比較不敏感。",
+    "thawing": "如果已經冷凍，請放冷藏室解凍一晚，把水倒掉後用在熟食料理。絕對不要放室溫解凍，也不要再次冷凍。",
+    "spoilage": [
+      "罐身鼓起、封口凹陷、生鏽或漏液——不要開、不要試吃，直接丟棄",
+      "打開時液體噴出、冒泡沫或散發臭味",
+      "火腿本身表面黏滑，或有酸味、硫磺味",
+      "顏色變灰綠或異常深暗"
+    ],
+    "tips": [
+      "先看標示：「需冷藏」和「常溫保存」的火腿罐頭保存方式完全不同。",
+      "在罐身寫上購買日期，6～9 個月足以讓人忘記。",
+      "吃不完不要留在開過的罐頭裡，移到有蓋容器。",
+      "剩下的 3～5 天內用掉，可做三明治、蛋捲、湯或炒飯。"
+    ],
+    "faq": [
+      {"q": "罐頭火腿可以冷凍嗎？", "a": "在 −18°C 下安全上沒問題，但質地會嚴重受損。真要冷凍請先切丁，用在湯或炒飯，不要切片直接吃。"},
+      {"q": "罐頭火腿放冰箱可以放多久？", "a": "未開封在 4°C 以下冷藏，從購買日起 6～9 個月；開封後約 3～5 天。"},
+      {"q": "罐頭火腿一定要冰嗎？", "a": "標示「需冷藏」的一定要，而且要全程冷藏。只有標示常溫保存的才能在開封前放櫥櫃。"}
+    ]
+  },
+  "ja": {
+    "name": "缶詰ハム（要冷蔵タイプ）",
+    "aliases": ["要冷蔵ハム缶", "缶入りハム", "チルド缶詰ハム", "プレスハム缶"],
+    "summary": "これは「要冷蔵」と表示された缶詰ハムです。完全なレトルト殺菌ではなく低温殺菌のため、常温保存はできません。未開封で4℃以下の冷蔵なら購入日から6〜9か月が目安。冷凍は水っぽくぼろぼろになるためおすすめしません。",
+    "pantry": "「要冷蔵」と書かれた缶は、見た目がどれほどしっかりしていても常温の棚に置いてはいけません。加熱が穏やかなぶん芽胞が残り、室温では発育し、4〜60℃の危険温度帯では増殖します。常温保存が可能なのは、はっきり「常温保存可」と表示された別製法の製品だけです。",
+    "fridge": "未開封の缶は4℃以下の庫内の棚に置きます。購入日から6〜9か月と、冷蔵の食肉としてはかなり長い期限です。ただし開封するとまったく別の話になります。残りは開けた缶に入れたままにせず、必ず密閉容器に移し、3〜5日以内に使い切ってください。",
+    "freezer": "缶詰ハムの冷凍はおすすめしません。塩分と水分が多いため、解凍すると組織がくずれて水が出て、ぼろぼろになります（−18℃なら安全面の問題はありません）。どうしても使い切れないときは角切りにして冷凍し、スープや卵料理、チャーハンなど食感が気にならない用途に使いましょう。",
+    "thawing": "冷凍した場合は冷蔵庫で一晩解凍し、出た水分を切って加熱料理に使います。常温解凍と再冷凍は避けてください。",
+    "spoilage": [
+      "缶が膨らむ・巻き締め部がへこむ・さびる・液が漏れる（開けず、味見もせずに処分）",
+      "開缶時に液が噴き出す、泡立つ、悪臭がする",
+      "ハムの表面がぬめる、酸っぱいにおいや硫黄臭がする",
+      "灰緑色や不自然に濃い色に変色している"
+    ],
+    "tips": [
+      "表示を確認する。「要冷蔵」と「常温保存可」では保存方法がまったく違う。",
+      "缶に購入日を書く。6〜9か月は忘れてしまうのに十分長い。",
+      "残りを開けた缶のまま保存しない。必ずふた付き容器へ移す。",
+      "残りは3〜5日以内にサンドイッチ、オムレツ、スープ、チャーハンなどで使い切る。"
+    ],
+    "faq": [
+      {"q": "缶詰ハムは冷凍できますか？", "a": "−18℃なら安全ですが食感が大きく損なわれます。冷凍するなら角切りにして、スープやチャーハンなど加熱料理に使ってください。"},
+      {"q": "缶詰ハムは冷蔵庫で何日もちますか？", "a": "未開封なら4℃以下で購入日から6〜9か月、開封後は3〜5日ほどが目安です。"},
+      {"q": "缶詰ハムは冷蔵が必要ですか？", "a": "「要冷蔵」表示のものは必ず冷蔵してください。常温の棚に置けるのは「常温保存可」と明記された缶だけで、それも開封後は冷蔵です。"}
+    ]
+  },
+  "es": {
+    "name": "Jamón enlatado (mantener refrigerado)",
+    "aliases": ["jamón en lata refrigerado", "jamón cocido en lata", "lata de jamón", "jamón enlatado chilled"],
+    "summary": "Este es el jamón enlatado cuya etiqueta indica mantener refrigerado: está pasteurizado, no esterilizado por completo, así que no es de larga duración. Sin abrir, en el refrigerador a 4 °C (40 °F) o menos dura 6–9 meses desde la compra. No se recomienda congelarlo porque la textura queda aguada y desmenuzada.",
+    "pantry": "Una lata marcada como mantener refrigerado nunca debe guardarse en la alacena, por sólida que parezca. El tratamiento térmico suave deja esporas que se desarrollan a temperatura ambiente y se multiplican en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F). Solo las latas expresamente etiquetadas como de larga duración pueden estar en despensa: son otro producto con otro proceso.",
+    "fridge": "Guarda la lata sin abrir en un estante a 4 °C (40 °F) o menos; aguanta 6–9 meses desde la compra, un plazo largo para una carne refrigerada. Al abrirla, el reloj cambia por completo: pasa el jamón sobrante a un recipiente hermético —nunca lo guardes en la lata abierta— y consúmelo en unos 3–5 días.",
+    "freezer": "No se recomienda congelar el jamón enlatado. Su alto contenido de sal y agua hace que la textura se venga abajo al descongelar, soltando líquido y desmenuzándose, aunque a −18 °C (0 °F) siga siendo seguro. Si te sobra mucho, córtalo en cubos y congélalo para sopas, tortillas o arroz frito, donde la textura importa menos.",
+    "thawing": "Si lo has congelado, descongélalo en el refrigerador durante una noche, escurre el líquido y úsalo en un plato cocinado. Nunca lo descongeles a temperatura ambiente ni lo vuelvas a congelar.",
+    "spoilage": [
+      "Lata hinchada, abollada en la costura, oxidada o con fugas: deséchala sin abrir ni probar",
+      "Líquido que sale a presión, espuma o mal olor al abrir",
+      "Superficie viscosa o olor agrio o sulfuroso en el propio jamón",
+      "Coloración gris verdosa o anormalmente oscura"
+    ],
+    "tips": [
+      "Lee la etiqueta: el jamón enlatado refrigerado y el de larga duración se guardan de forma distinta.",
+      "Anota la fecha de compra en la lata: 6–9 meses dan de sobra para olvidarse.",
+      "No guardes las sobras en la lata abierta; pásalas a un recipiente tapado.",
+      "Usa las sobras en 3–5 días en sándwiches, tortillas, sopas o arroz frito."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el jamón enlatado?", "a": "Es seguro a −18 °C (0 °F), pero la textura sufre mucho. Si lo haces, córtalo en cubos y úsalo en sopas o arroz frito en vez de servirlo en lonchas."},
+      {"q": "¿Cuánto dura el jamón enlatado en el refrigerador?", "a": "6–9 meses sin abrir desde el día de compra a 4 °C (40 °F) o menos, y unos 3–5 días una vez abierto."},
+      {"q": "¿El jamón enlatado necesita refrigeración?", "a": "Si la etiqueta dice mantener refrigerado, sí, siempre. Solo las latas marcadas como de larga duración pueden estar en la despensa hasta abrirse."}
+    ]
+  }
+}

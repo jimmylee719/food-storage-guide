@@ -14,7 +14,11 @@ function readJson(p, fallback) {
 
 const base = readJson(D('base', 'foodkeeper.json'), []);
 const extra = readJson(D('base', 'extra.json'), []);
-const all = [...base, ...extra];
+// FoodKeeper records that bundle several foods are replaced by the individual
+// foods generated in scripts/split-combined.js.
+const split = readJson(D('base', 'split.json'), []);
+const replaced = new Set(readJson(D('base', 'split-replaces.json'), []));
+const all = [...base.filter((f) => !replaced.has(f.slug)), ...split, ...extra];
 
 const contentDir = D('content');
 const contentFiles = fs.existsSync(contentDir) ? fs.readdirSync(contentDir).filter((f) => f.endsWith('.json')) : [];
@@ -44,6 +48,8 @@ for (const item of all) {
     source: item.source,
     sourceRefs: item.sources || null,
     analog: item.analog || null,
+    derivedFrom: item.derivedFrom || null,
+    derivedFromName: item.derivedFromName || null,
     baseName: item.name,
     subtitle: item.subtitle,
     keywords: item.keywords || [],

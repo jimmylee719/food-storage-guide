@@ -1,0 +1,107 @@
+{
+  "slug": "grapes",
+  "en": {
+    "name": "Grapes",
+    "aliases": ["table grapes", "seedless grapes", "red grapes", "green grapes", "muscat"],
+    "summary": "Grapes lose quality fast at room temperature — about 1 day from the date of purchase — but keep about 1 week in the fridge. Whole grapes can be frozen for about 1 month, which turns them into a refreshing snack straight from the freezer. Keep them on the stem and unwashed until you eat them.",
+    "pantry": "Grapes only keep about 1 day at room temperature from purchase. On a warm counter they soften, shrivel and start to ferment quickly, and the ones at the bottom of the bunch go first. Take out a handful to serve and put the rest straight back in the fridge rather than leaving the bunch in a fruit bowl.",
+    "fridge": "Store grapes unwashed and still on the stem in a perforated bag or vented container in the crisper at 4 °C (40 °F) or below, where they keep about 1 week from purchase. Do not wash before storing, because surface water encourages mould where the berries touch. Grapes absorb strong odours, so keep them away from onions and garlic.",
+    "freezer": "Whole grapes freeze for about 1 month at −18 °C (0 °F) and make an excellent frozen snack, sorbet base or wine chiller. Rinse and dry them thoroughly, pull them off the stems, freeze in a single layer on a tray, then bag them. Thawed grapes go soft and watery, so eat them still frozen.",
+    "thawing": "Eat frozen grapes straight from the freezer while still icy, or blend them from frozen into a sorbet or smoothie. Fully thawed grapes collapse and are best used in cooking.",
+    "spoilage": [
+      "Soft, wrinkled or shrivelled berries",
+      "Brown mushy spots or berries falling off the stem",
+      "Grey or white fuzzy mould where berries touch",
+      "Fermented, vinegary or alcoholic smell"
+    ],
+    "tips": [
+      "Keep grapes on the stem — loose berries spoil much faster",
+      "Rinse only just before eating, then pat dry",
+      "Check the bunch for mushy berries the day you buy it and remove them",
+      "Freeze a bunch for hot days and use them instead of ice cubes"
+    ],
+    "faq": [
+      {"q": "How long do grapes last in the fridge?", "a": "About 1 week from purchase at 4 °C (40 °F) or below, stored unwashed and on the stem in a vented container."},
+      {"q": "Can you freeze grapes?", "a": "Yes. Whole grapes keep about 1 month at −18 °C (0 °F). Wash, dry and freeze them on a tray, then bag them and eat them still frozen."},
+      {"q": "Should you wash grapes before storing them?", "a": "No. Water trapped between berries encourages mould. Rinse them just before eating."}
+    ]
+  },
+  "zh": {
+    "name": "葡萄",
+    "aliases": ["提子", "無籽葡萄", "紅葡萄", "青葡萄", "麝香葡萄"],
+    "summary": "葡萄在室溫下品質下降得很快，從購買日起大約只能放 1 天，但冷藏可以放約 1 週。整顆葡萄冷凍可保存約 1 個月，直接從冷凍庫拿出來吃還是很棒的清涼點心。保存時請維持整串、不要清洗。",
+    "pantry": "葡萄在室溫從購買日起大約只能放 1 天。放在溫暖的檯面上會很快變軟、皺縮並開始發酵，整串最底下的先壞。要吃就拿一小把出來，其餘的立刻放回冰箱，不要整串擺在水果盤裡。",
+    "fridge": "不清洗、保持整串，裝在打洞袋或透氣容器裡放進蔬果保鮮室，維持 4°C 以下，從購買日起約可放 1 週。保存前不要洗，果粒相接處殘留的水分正是發霉的起點。葡萄也很會吸味，要遠離洋蔥和大蒜。",
+    "freezer": "整顆葡萄放 −18°C 冷凍約可保存 1 個月，是很棒的冷凍零食、雪酪基底，也可以拿來當冰塊冰鎮飲料。先洗淨並徹底擦乾、從梗上摘下來，單層鋪盤冷凍後再裝袋。完全解凍的葡萄會軟爛出水，所以請趁還冰硬時吃。",
+    "thawing": "直接從冷凍庫拿出來、趁還帶冰霜時吃，或直接用冷凍狀態打成雪酪或果昔。完全退冰的葡萄會塌掉，比較適合入菜。",
+    "spoilage": [
+      "果粒變軟、起皺或乾癟",
+      "出現褐色軟爛的斑點，或果粒從梗上掉落",
+      "果粒相接處長出灰白色毛狀黴菌",
+      "有發酵味、醋酸味或酒精味"
+    ],
+    "tips": [
+      "保持整串不要摘下來，散粒壞得快很多",
+      "吃之前才沖洗，洗完擦乾",
+      "買回來當天檢查整串，把軟爛的果粒摘掉",
+      "天氣熱時冷凍一串，可以拿來取代冰塊"
+    ],
+    "faq": [
+      {"q": "葡萄放冰箱可以放多久？", "a": "不清洗、保持整串裝在透氣容器裡，放 4°C 以下，從購買日起約 1 週。"},
+      {"q": "葡萄可以冷凍嗎？", "a": "可以。整顆放 −18°C 約可保存 1 個月。洗淨擦乾後平鋪冷凍再裝袋，趁還冰硬時吃最好。"},
+      {"q": "葡萄保存前要先洗嗎？", "a": "不用。困在果粒之間的水分會助長黴菌。吃之前再沖洗就好。"}
+    ]
+  },
+  "ja": {
+    "name": "ぶどう",
+    "aliases": ["ブドウ", "葡萄", "種なしぶどう", "マスカット", "デラウェア"],
+    "summary": "ぶどうは常温では劣化が早く、購入日から約1日が限度ですが、冷蔵なら約1週間持ちます。粒のままなら約1か月冷凍でき、凍ったまま食べるとさわやかなおやつになります。保存中は房から外さず、洗わないでおきましょう。",
+    "pantry": "ぶどうは常温では購入日から約1日しか持ちません。暖かい調理台に置くとすぐやわらかくなり、しなび、発酵し始めます。房の下側から傷むので、食べる分だけ取り出し、残りは果物かごに置かずすぐ冷蔵庫へ戻しましょう。",
+    "fridge": "洗わず房のまま、穴あき袋か通気性のある容器に入れて4℃以下の野菜室へ。購入日から約1週間持ちます。保存前に洗わないでください。粒どうしが触れる部分に水が残るとカビの原因になります。においも吸いやすいので、玉ねぎやにんにくからは離しましょう。",
+    "freezer": "粒のまま−18℃で約1か月冷凍でき、そのまま食べるおやつやシャーベットのベース、飲み物を冷やす氷代わりにもなります。洗ってしっかり水気を拭き、軸から外してバットで凍らせてから袋へ。完全に解凍すると水っぽくなるので、凍ったまま食べましょう。",
+    "thawing": "凍ったまま、まだシャリッとしているうちに食べます。シャーベットやスムージーにも凍ったまま使えます。完全に解凍したものは崩れるので加熱調理向きです。",
+    "spoilage": [
+      "粒がやわらかい、しわしわ、しなびている",
+      "茶色いぶよぶよの部分がある、粒が軸から落ちる",
+      "粒の接する部分に灰色や白のカビ",
+      "発酵臭、酢のようなにおい、アルコール臭"
+    ],
+    "tips": [
+      "房のまま保存を。ばらした粒はずっと早く傷みます",
+      "食べる直前にすすぎ、水気を拭き取りましょう",
+      "買った日に房を確認し、ぶよぶよの粒は取り除きましょう",
+      "暑い日に備えて房ごと冷凍し、氷の代わりに使いましょう"
+    ],
+    "faq": [
+      {"q": "ぶどうは冷蔵庫でどのくらい持ちますか？", "a": "洗わず房のまま通気容器に入れ、4℃以下で購入日から約1週間です。"},
+      {"q": "ぶどうは冷凍できますか？", "a": "できます。粒のまま−18℃で約1か月。洗って乾かしバットで凍らせ袋へ移し、凍ったまま食べるのがおすすめです。"},
+      {"q": "ぶどうは保存前に洗うべきですか？", "a": "いいえ。粒の間に残った水がカビを招きます。食べる直前にすすぎましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Uvas",
+    "aliases": ["uva de mesa", "uvas sin semilla", "uvas rojas", "uvas blancas", "moscatel"],
+    "summary": "Las uvas pierden calidad rápido a temperatura ambiente —alrededor de 1 día desde la compra— pero duran alrededor de 1 semana en la nevera. Enteras se pueden congelar alrededor de 1 mes, lo que las convierte en un aperitivo refrescante recién sacado del congelador. Manténlas en el racimo y sin lavar hasta comerlas.",
+    "pantry": "Las uvas solo aguantan alrededor de 1 día a temperatura ambiente desde la compra. En una encimera cálida se ablandan, se arrugan y fermentan rápido, y las de la parte baja del racimo son las primeras. Saca un puñado para servir y devuelve el resto a la nevera en lugar de dejar el racimo en el frutero.",
+    "fridge": "Guárdalas sin lavar y en el racimo, en una bolsa perforada o recipiente ventilado en el cajón de verduras a 4 °C (40 °F) o menos, donde duran alrededor de 1 semana desde la compra. No las laves antes de guardarlas, porque el agua favorece el moho donde los granos se tocan. Absorben olores fuertes, así que manténlas lejos de cebolla y ajo.",
+    "freezer": "Las uvas enteras se congelan alrededor de 1 mes a −18 °C (0 °F) y son un excelente aperitivo helado, base de sorbete o sustituto de hielo. Enjuágalas y sécalas bien, desgránalas, congélalas en una capa en bandeja y luego embólsalas. Descongeladas quedan blandas y aguadas, así que cómelas aún heladas.",
+    "thawing": "Come las uvas congeladas directamente mientras siguen heladas, o tritúralas congeladas para sorbete o batido. Ya descongeladas se deshacen y se aprovechan mejor cocinadas.",
+    "spoilage": [
+      "Granos blandos, arrugados o resecos",
+      "Puntos pardos y blandos o granos que se sueltan del racimo",
+      "Moho gris o blanco donde los granos se tocan",
+      "Olor fermentado, avinagrado o alcohólico"
+    ],
+    "tips": [
+      "Mantén las uvas en el racimo: los granos sueltos se estropean mucho antes",
+      "Enjuágalas solo justo antes de comerlas y sécalas con palmaditas",
+      "Revisa el racimo el día de la compra y retira los granos blandos",
+      "Congela un racimo para los días de calor y úsalo en vez de cubitos"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las uvas en la nevera?", "a": "Alrededor de 1 semana desde la compra a 4 °C (40 °F) o menos, sin lavar y en el racimo dentro de un recipiente ventilado."},
+      {"q": "¿Se pueden congelar las uvas?", "a": "Sí. Enteras duran alrededor de 1 mes a −18 °C (0 °F). Lávalas, sécalas, congélalas en bandeja y embólsalas; cómelas aún congeladas."},
+      {"q": "¿Hay que lavar las uvas antes de guardarlas?", "a": "No. El agua atrapada entre los granos favorece el moho. Enjuágalas justo antes de comerlas."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "corned-beef-pouch-pickling-juices",
+  "en": {
+    "name": "Corned beef in pouch with pickling juices",
+    "aliases": ["corned beef brisket", "salt beef", "pickled beef", "brined brisket"],
+    "summary": "Corned beef in a pouch is raw brisket cured in a salt-and-spice brine and sold vacuum sealed in its pickling juices, ready to simmer. Kept refrigerated at 4 °C (40 °F) or below it lasts 5–7 days from the day of purchase, and it holds good quality for about 1 month in the freezer at −18 °C (0 °F).",
+    "pantry": "Despite the brine, this is raw meat and it must be refrigerated at all times — a chilled pouch is not a shelf-stable can. Curing slows bacteria but does not stop them, and in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) they grow quickly, so discard a pouch left out for more than 2 hours, or 1 hour above 32 °C (90 °F).",
+    "fridge": "Store the sealed pouch flat on a tray on the bottom shelf at 4 °C (40 °F) or below, since the seal can leak salty liquid. It keeps 5–7 days from purchase; the printed date is often longer, but treat purchase day as the start. Once opened, cook it promptly — an opened brisket is no different from any other raw beef and should be used within a day or two.",
+    "freezer": "The freezer time is only about 1 month for good quality, because the salt in the cure accelerates fat rancidity even at −18 °C (0 °F), where the meat itself stays safe indefinitely. Freeze it in the unopened pouch, or drain the brine, wrap the meat tightly and bag it. Label it clearly with the date so you use it in good time.",
+    "thawing": "Thaw the pouch in the fridge on a tray, allowing about 24 hours per 2 kg. Cold water thawing in the sealed pouch, changing the water every 30 minutes, is faster but cook it immediately afterwards. Never thaw corned beef on the counter.",
+    "spoilage": [
+      "Sour or putrid smell when the pouch is opened, beyond the sharp pickling aroma",
+      "Slimy or sticky surface on the meat",
+      "Grey-green patches, or brine that has turned cloudy, ropey or thick",
+      "A bulging or leaking pouch, or a passed use-by date"
+    ],
+    "tips": [
+      "Rinse the brisket before cooking if you find it too salty, and start it in fresh cold water.",
+      "Simmer very gently for 2–3 hours; boiling hard makes corned beef stringy.",
+      "Slice across the grain — with the grain it turns unpleasantly chewy.",
+      "Cook the meat within a day or two of opening the pouch, or freeze it straight away."
+    ],
+    "faq": [
+      {"q": "Can you freeze corned beef in its pouch?", "a": "Yes, at −18 °C (0 °F), but only about 1 month for good quality because the cure makes the fat go rancid faster."},
+      {"q": "How long does corned beef last in the fridge?", "a": "5–7 days from the day of purchase in the sealed pouch at 4 °C (40 °F) or below."},
+      {"q": "Should you rinse corned beef before cooking?", "a": "Rinsing removes some surface salt and spice, which many people prefer. Start the brisket in fresh cold water and simmer gently rather than boiling."}
+    ]
+  },
+  "zh": {
+    "name": "鹽漬牛胸肉（連醃汁真空包）",
+    "aliases": ["醃牛肉", "鹽漬牛腩", "corned beef", "鹽水牛胸肉", "醃製牛胸肉"],
+    "summary": "袋裝鹽漬牛胸肉（corned beef）是用鹽和香料鹽水醃過的生牛胸肉，連同醃汁真空包裝，買回來可以直接下鍋煮。在 4°C 以下冷藏，從購買日起可放 5～7 天；放 −18°C 冷凍，品質約可維持 1 個月。",
+    "pantry": "雖然泡在鹽水裡，這仍然是生肉，必須全程冷藏——冷藏販售的真空包不等於常溫罐頭。鹽漬只能延緩細菌，不能阻止；在 4～60°C 的危險溫度帶細菌會快速生長，室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "把真空包平放在盤子上、置於冰箱最下層，維持 4°C 以下，因為封口可能會滲出鹹汁。從購買日起可放 5～7 天；標示日期通常更長，但請以購買當天開始計算。一旦拆封，就跟其他生牛肉一樣，請在一兩天內煮完。",
+    "freezer": "冷凍期限只有約 1 個月（以品質而言），因為醃漬鹽會加速脂肪酸敗，即使在 −18°C 也一樣（安全上仍可無限期保存）。可以整包未開封冷凍，或把醃汁倒掉、把肉包緊後裝袋。務必清楚標註日期，以便及時使用。",
+    "thawing": "整包放在盤子上冷藏解凍，每 2 公斤約 24 小時。連袋泡冷水、每 30 分鐘換水會比較快，但解凍後要立刻烹調。絕對不要放室溫退冰。",
+    "spoilage": [
+      "打開袋子聞到的不是刺激的醃漬香，而是酸味或腐敗味",
+      "肉的表面黏滑、發黏",
+      "出現灰綠色斑塊，或醃汁變得混濁、牽絲、濃稠",
+      "袋子鼓起或漏汁，或已超過有效日期"
+    ],
+    "tips": [
+      "覺得太鹹的話，煮之前先沖洗，再用新的冷水從頭煮起。",
+      "保持微滾煮 2～3 小時，大滾會讓肉變得柴又散。",
+      "一定要逆紋切，順紋切會非常難嚼。",
+      "拆封後一兩天內煮完，否則就立刻冷凍。"
+    ],
+    "faq": [
+      {"q": "袋裝鹽漬牛肉可以冷凍嗎？", "a": "可以，放 −18°C 冷凍，但品質只有約 1 個月，因為醃漬鹽會讓脂肪比較快酸敗。"},
+      {"q": "鹽漬牛胸肉放冰箱可以放多久？", "a": "未開封真空包在 4°C 以下冷藏，從購買日起 5～7 天。"},
+      {"q": "煮之前要沖水嗎？", "a": "沖水可以洗掉部分表面的鹽和香料，很多人偏好這樣。之後用新的冷水從頭煮起，保持微滾而不要大滾。"}
+    ]
+  },
+  "ja": {
+    "name": "コンビーフ用塩漬け牛バラ（漬け汁入りパウチ）",
+    "aliases": ["コーンドビーフブリスケット", "塩漬け牛肉", "ソルトビーフ", "ブライン漬け牛バラ"],
+    "summary": "パウチ入りのコーンドビーフは、塩とスパイスのブラインに漬けた生の牛バラ肉を、漬け汁ごと真空包装した製品で、そのまま煮込めます。4℃以下の冷蔵で購入日から5〜7日、−18℃の冷凍では品質の目安が約1か月です。",
+    "pantry": "ブラインに漬かっていても中身は生肉で、常に冷蔵が必要です。冷蔵で売られているパウチは常温保存の缶詰とは別物。塩せきは菌を遅らせるだけで止められず、4〜60℃の危険温度帯では急速に増えます。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。",
+    "fridge": "封を切っていないパウチをトレーにのせて平らに置き、冷蔵庫の最下段で4℃以下を保ちます。シールから塩気のある汁がにじむことがあるためです。購入日から5〜7日が目安で、表示期限がもっと先でも購入日を起点に考えましょう。開封後はほかの生牛肉と同じで、1〜2日以内に調理してください。",
+    "freezer": "冷凍の品質目安が約1か月と短いのは、塩せきの塩分によって−18℃でも脂の酸化が進むためです（安全面では長期間保存できます）。未開封のパウチごと凍らせるか、漬け汁を切って肉を密着させて包み、袋に入れます。使い忘れないよう日付をはっきり書いておきましょう。",
+    "thawing": "トレーにのせて冷蔵庫で2kgあたり約24時間かけて解凍します。パウチのまま冷水につけ30分ごとに水を替える方法は早いですが、解凍後すぐ調理してください。常温解凍は避けます。",
+    "spoilage": [
+      "つんとした漬け汁の香りとは別に、酸敗臭や腐敗臭がする",
+      "肉の表面がぬめる・べたつく",
+      "灰緑色の斑が出ている、漬け汁が濁って糸を引く・とろみが出ている",
+      "パウチが膨らむ・汁が漏れている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "塩気が強すぎるときは調理前に洗い流し、新しい冷水から煮始める。",
+      "ごく弱い沸騰で2〜3時間。強く沸かすとぼそぼそになる。",
+      "繊維を断つように切る。繊維に沿って切ると噛み切りにくい。",
+      "開封したら1〜2日以内に調理するか、すぐ冷凍する。"
+    ],
+    "faq": [
+      {"q": "パウチのコーンドビーフは冷凍できますか？", "a": "できます。ただし−18℃でも品質の目安は約1か月です。塩せきの影響で脂の酸化が早く進みます。"},
+      {"q": "塩漬け牛バラは冷蔵庫で何日もちますか？", "a": "未開封のパウチなら4℃以下で購入日から5〜7日です。"},
+      {"q": "調理前に洗ったほうがいいですか？", "a": "表面の塩やスパイスが落ちるので、好みで洗って構いません。そのあと新しい冷水から、弱い沸騰でゆっくり煮てください。"}
+    ]
+  },
+  "es": {
+    "name": "Corned beef en bolsa con su salmuera",
+    "aliases": ["pecho de res curado", "carne salada", "brisket en salmuera", "carne curada en bolsa"],
+    "summary": "El corned beef en bolsa es pecho de res crudo curado en una salmuera de sal y especias, envasado al vacío con sus jugos y listo para cocer a fuego suave. Refrigerado a 4 °C (40 °F) o menos dura 5–7 días desde el día de compra y conserva buena calidad alrededor de 1 mes en el congelador a −18 °C (0 °F).",
+    "pantry": "Pese a la salmuera, esto es carne cruda y debe estar siempre refrigerada: una bolsa fría no equivale a una lata de larga duración. El curado frena las bacterias pero no las detiene y en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F) crecen rápido, así que desecha una bolsa que lleve más de 2 horas fuera, o 1 hora por encima de 32 °C (90 °F).",
+    "fridge": "Guarda la bolsa cerrada, plana y sobre una bandeja, en el estante inferior a 4 °C (40 °F) o menos, porque el sellado puede dejar escapar líquido salado. Dura 5–7 días desde la compra; la fecha impresa suele ser más larga, pero cuenta desde el día en que la compraste. Una vez abierta, cocínala pronto: ya es carne cruda como cualquier otra y conviene usarla en uno o dos días.",
+    "freezer": "El plazo en congelador es de solo 1 mes para buena calidad, porque la sal del curado acelera el enranciamiento de la grasa incluso a −18 °C (0 °F), donde la carne sigue siendo segura indefinidamente. Congélala en la bolsa sin abrir, o escurre la salmuera, envuelve la pieza bien apretada y embólsala. Etiqueta con la fecha para usarla a tiempo.",
+    "thawing": "Descongela la bolsa en el refrigerador sobre una bandeja, unas 24 horas por cada 2 kg. El agua fría con la bolsa cerrada, cambiándola cada 30 minutos, es más rápida pero exige cocinar de inmediato. Nunca la descongeles en la encimera.",
+    "spoilage": [
+      "Olor agrio o pútrido al abrir la bolsa, distinto del aroma punzante de la salmuera",
+      "Superficie de la carne viscosa o pegajosa",
+      "Manchas gris verdosas, o salmuera turbia, filante o espesa",
+      "Bolsa hinchada o con fugas, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Enjuaga la pieza antes de cocinar si te resulta muy salada y ponla a cocer en agua fría limpia.",
+      "Cuécela a hervor mínimo 2–3 horas; el hervor fuerte la deja fibrosa.",
+      "Córtala a contrafibra: siguiendo la fibra queda muy correosa.",
+      "Cocínala uno o dos días después de abrir la bolsa, o congélala enseguida."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el corned beef en su bolsa?", "a": "Sí, a −18 °C (0 °F), pero solo alrededor de 1 mes con buena calidad, porque el curado hace que la grasa se enrancie antes."},
+      {"q": "¿Cuánto dura el corned beef en el refrigerador?", "a": "5–7 días desde el día de compra en la bolsa cerrada, a 4 °C (40 °F) o menos."},
+      {"q": "¿Hay que enjuagarlo antes de cocinarlo?", "a": "Enjuagarlo retira algo de sal y especias de la superficie, algo que muchos prefieren. Después empieza la cocción en agua fría limpia y a fuego muy suave."}
+    ]
+  }
+}

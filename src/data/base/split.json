@@ -1,0 +1,2604 @@
+[
+ {
+  "slug": "mango",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 265,
+  "derivedFrom": "papaya-mango-feijoa-passionfruit-casaha-melon",
+  "derivedFromName": "Papaya, mango, feijoa, passionfruit, casaha melon",
+  "name": "Mango",
+  "subtitle": null,
+  "keywords": [
+   "mango",
+   "mangoes",
+   "Papaya",
+   "feijoa",
+   "passionfruit",
+   "casaha melon",
+   "melon",
+   "fruit",
+   "passion"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 1,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "papaya",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 265,
+  "derivedFrom": "papaya-mango-feijoa-passionfruit-casaha-melon",
+  "derivedFromName": "Papaya, mango, feijoa, passionfruit, casaha melon",
+  "name": "Papaya",
+  "subtitle": null,
+  "keywords": [
+   "papaya",
+   "pawpaw",
+   "Papaya",
+   "mango",
+   "feijoa",
+   "passionfruit",
+   "casaha melon",
+   "melon",
+   "fruit",
+   "passion"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 1,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "passionfruit",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 265,
+  "derivedFrom": "papaya-mango-feijoa-passionfruit-casaha-melon",
+  "derivedFromName": "Papaya, mango, feijoa, passionfruit, casaha melon",
+  "name": "Passionfruit",
+  "subtitle": null,
+  "keywords": [
+   "passionfruit",
+   "passion fruit",
+   "maracuya",
+   "Papaya",
+   "mango",
+   "feijoa",
+   "casaha melon",
+   "melon",
+   "fruit",
+   "passion"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 1,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "feijoa",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 265,
+  "derivedFrom": "papaya-mango-feijoa-passionfruit-casaha-melon",
+  "derivedFromName": "Papaya, mango, feijoa, passionfruit, casaha melon",
+  "name": "Feijoa",
+  "subtitle": null,
+  "keywords": [
+   "feijoa",
+   "pineapple guava",
+   "Papaya",
+   "mango",
+   "passionfruit",
+   "casaha melon",
+   "melon",
+   "fruit",
+   "passion"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 1,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "casaba-melon",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 265,
+  "derivedFrom": "papaya-mango-feijoa-passionfruit-casaha-melon",
+  "derivedFromName": "Papaya, mango, feijoa, passionfruit, casaha melon",
+  "name": "Casaba melon",
+  "subtitle": null,
+  "keywords": [
+   "casaba",
+   "melon",
+   "Papaya",
+   "mango",
+   "feijoa",
+   "passionfruit",
+   "casaha melon",
+   "fruit",
+   "passion"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 1,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "lychee",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 252,
+  "derivedFrom": "berries-cherries-goose-berries-lychee",
+  "derivedFromName": "Berries, cherries, goose berries, lychee",
+  "name": "Lychee",
+  "subtitle": null,
+  "keywords": [
+   "lychee",
+   "litchi",
+   "lichee",
+   "Berries",
+   "berry",
+   "cherries",
+   "cherry",
+   "goose berries",
+   "goose berry",
+   "gooseberries"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 7,
+     "max": 7,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 12,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "gooseberries",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 252,
+  "derivedFrom": "berries-cherries-goose-berries-lychee",
+  "derivedFromName": "Berries, cherries, goose berries, lychee",
+  "name": "Gooseberries",
+  "subtitle": null,
+  "keywords": [
+   "gooseberry",
+   "gooseberries",
+   "Berries",
+   "berry",
+   "cherries",
+   "cherry",
+   "goose berries",
+   "goose berry",
+   "lychee"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 7,
+     "max": 7,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 12,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "blackberries",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 253,
+  "derivedFrom": "berries-blackberries-boysenberries-currant",
+  "derivedFromName": "Berries, blackberries, boysenberries, currant",
+  "name": "Blackberries",
+  "subtitle": null,
+  "keywords": [
+   "blackberry",
+   "blackberries",
+   "Berries",
+   "berry",
+   "boysenberries",
+   "boysenberry",
+   "currant"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 6,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 12,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "boysenberries",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 253,
+  "derivedFrom": "berries-blackberries-boysenberries-currant",
+  "derivedFromName": "Berries, blackberries, boysenberries, currant",
+  "name": "Boysenberries",
+  "subtitle": null,
+  "keywords": [
+   "boysenberry",
+   "Berries",
+   "berry",
+   "blackberries",
+   "blackberry",
+   "boysenberries",
+   "currant"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 6,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 12,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "currants",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 253,
+  "derivedFrom": "berries-blackberries-boysenberries-currant",
+  "derivedFromName": "Berries, blackberries, boysenberries, currant",
+  "name": "Currants",
+  "subtitle": null,
+  "keywords": [
+   "currant",
+   "redcurrant",
+   "blackcurrant",
+   "Berries",
+   "berry",
+   "blackberries",
+   "blackberry",
+   "boysenberries",
+   "boysenberry"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 6,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 12,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "peaches",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 266,
+  "derivedFrom": "peaches-nectarines-plums-pears-sapote",
+  "derivedFromName": "Peaches, nectarines, plums, pears, sapote",
+  "name": "Peaches",
+  "subtitle": null,
+  "keywords": [
+   "peach",
+   "peaches",
+   "Peaches",
+   "nectarines",
+   "plums",
+   "pears",
+   "sapote",
+   "nectarine",
+   "plum",
+   "pear"
+  ],
+  "storage": {
+   "pantry": {
+    "base": {
+     "min": null,
+     "max": null,
+     "unit": "when ripe",
+     "tips": "Until Ripe, then 1-2 days. Ripe is when this item is tender, fully developed and ready to eat."
+    }
+   },
+   "fridge": {
+    "base": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": "Timeline for refrigerator applies to ripe fruit."
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 2,
+     "max": 2,
+     "unit": "months",
+     "tips": "Freezing guidance applies to product when sliced, with lemon juice and sugar."
+    }
+   }
+  }
+ },
+ {
+  "slug": "nectarines",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 266,
+  "derivedFrom": "peaches-nectarines-plums-pears-sapote",
+  "derivedFromName": "Peaches, nectarines, plums, pears, sapote",
+  "name": "Nectarines",
+  "subtitle": null,
+  "keywords": [
+   "nectarine",
+   "Peaches",
+   "nectarines",
+   "plums",
+   "pears",
+   "sapote",
+   "peach",
+   "plum",
+   "pear"
+  ],
+  "storage": {
+   "pantry": {
+    "base": {
+     "min": null,
+     "max": null,
+     "unit": "when ripe",
+     "tips": "Until Ripe, then 1-2 days. Ripe is when this item is tender, fully developed and ready to eat."
+    }
+   },
+   "fridge": {
+    "base": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": "Timeline for refrigerator applies to ripe fruit."
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 2,
+     "max": 2,
+     "unit": "months",
+     "tips": "Freezing guidance applies to product when sliced, with lemon juice and sugar."
+    }
+   }
+  }
+ },
+ {
+  "slug": "plums",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 266,
+  "derivedFrom": "peaches-nectarines-plums-pears-sapote",
+  "derivedFromName": "Peaches, nectarines, plums, pears, sapote",
+  "name": "Plums",
+  "subtitle": null,
+  "keywords": [
+   "plum",
+   "plums",
+   "Peaches",
+   "nectarines",
+   "pears",
+   "sapote",
+   "peach",
+   "nectarine",
+   "pear"
+  ],
+  "storage": {
+   "pantry": {
+    "base": {
+     "min": null,
+     "max": null,
+     "unit": "when ripe",
+     "tips": "Until Ripe, then 1-2 days. Ripe is when this item is tender, fully developed and ready to eat."
+    }
+   },
+   "fridge": {
+    "base": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": "Timeline for refrigerator applies to ripe fruit."
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 2,
+     "max": 2,
+     "unit": "months",
+     "tips": "Freezing guidance applies to product when sliced, with lemon juice and sugar."
+    }
+   }
+  }
+ },
+ {
+  "slug": "pears",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 266,
+  "derivedFrom": "peaches-nectarines-plums-pears-sapote",
+  "derivedFromName": "Peaches, nectarines, plums, pears, sapote",
+  "name": "Pears",
+  "subtitle": null,
+  "keywords": [
+   "pear",
+   "pears",
+   "Peaches",
+   "nectarines",
+   "plums",
+   "sapote",
+   "peach",
+   "nectarine",
+   "plum"
+  ],
+  "storage": {
+   "pantry": {
+    "base": {
+     "min": null,
+     "max": null,
+     "unit": "when ripe",
+     "tips": "Until Ripe, then 1-2 days. Ripe is when this item is tender, fully developed and ready to eat."
+    }
+   },
+   "fridge": {
+    "base": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": "Timeline for refrigerator applies to ripe fruit."
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 2,
+     "max": 2,
+     "unit": "months",
+     "tips": "Freezing guidance applies to product when sliced, with lemon juice and sugar."
+    }
+   }
+  }
+ },
+ {
+  "slug": "sapote",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 266,
+  "derivedFrom": "peaches-nectarines-plums-pears-sapote",
+  "derivedFromName": "Peaches, nectarines, plums, pears, sapote",
+  "name": "Sapote",
+  "subtitle": null,
+  "keywords": [
+   "sapote",
+   "mamey",
+   "Peaches",
+   "nectarines",
+   "plums",
+   "pears",
+   "peach",
+   "nectarine",
+   "plum",
+   "pear"
+  ],
+  "storage": {
+   "pantry": {
+    "base": {
+     "min": null,
+     "max": null,
+     "unit": "when ripe",
+     "tips": "Until Ripe, then 1-2 days. Ripe is when this item is tender, fully developed and ready to eat."
+    }
+   },
+   "fridge": {
+    "base": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": "Timeline for refrigerator applies to ripe fruit."
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 2,
+     "max": 2,
+     "unit": "months",
+     "tips": "Freezing guidance applies to product when sliced, with lemon juice and sugar."
+    }
+   }
+  }
+ },
+ {
+  "slug": "lemons",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 256,
+  "derivedFrom": "citrus-fruit-lemon-lime-orange-grapefruit-tangerines-clementines",
+  "derivedFromName": "Citrus fruit, lemon, lime, orange, grapefruit, tangerines, clementines",
+  "name": "Lemons",
+  "subtitle": null,
+  "keywords": [
+   "lemon",
+   "lemons",
+   "Citrus fruit",
+   "fruit",
+   "citrus",
+   "lime",
+   "orange",
+   "grape",
+   "grapefruit",
+   "tangerines",
+   "tangerine",
+   "clementines",
+   "clementine"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 10,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 21,
+     "unit": "days",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "limes",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 256,
+  "derivedFrom": "citrus-fruit-lemon-lime-orange-grapefruit-tangerines-clementines",
+  "derivedFromName": "Citrus fruit, lemon, lime, orange, grapefruit, tangerines, clementines",
+  "name": "Limes",
+  "subtitle": null,
+  "keywords": [
+   "lime",
+   "limes",
+   "Citrus fruit",
+   "fruit",
+   "citrus",
+   "lemon",
+   "orange",
+   "grape",
+   "grapefruit",
+   "tangerines",
+   "tangerine",
+   "clementines",
+   "clementine"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 10,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 21,
+     "unit": "days",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "oranges",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 256,
+  "derivedFrom": "citrus-fruit-lemon-lime-orange-grapefruit-tangerines-clementines",
+  "derivedFromName": "Citrus fruit, lemon, lime, orange, grapefruit, tangerines, clementines",
+  "name": "Oranges",
+  "subtitle": null,
+  "keywords": [
+   "orange",
+   "oranges",
+   "Citrus fruit",
+   "fruit",
+   "citrus",
+   "lemon",
+   "lime",
+   "grape",
+   "grapefruit",
+   "tangerines",
+   "tangerine",
+   "clementines",
+   "clementine"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 10,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 21,
+     "unit": "days",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "grapefruit",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 256,
+  "derivedFrom": "citrus-fruit-lemon-lime-orange-grapefruit-tangerines-clementines",
+  "derivedFromName": "Citrus fruit, lemon, lime, orange, grapefruit, tangerines, clementines",
+  "name": "Grapefruit",
+  "subtitle": null,
+  "keywords": [
+   "grapefruit",
+   "pomelo",
+   "Citrus fruit",
+   "fruit",
+   "citrus",
+   "lemon",
+   "lime",
+   "orange",
+   "grape",
+   "tangerines",
+   "tangerine",
+   "clementines",
+   "clementine"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 10,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 21,
+     "unit": "days",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "tangerines",
+  "category": "fruits",
+  "source": "usda-foodkeeper",
+  "sourceId": 256,
+  "derivedFrom": "citrus-fruit-lemon-lime-orange-grapefruit-tangerines-clementines",
+  "derivedFromName": "Citrus fruit, lemon, lime, orange, grapefruit, tangerines, clementines",
+  "name": "Tangerines and clementines",
+  "subtitle": null,
+  "keywords": [
+   "tangerine",
+   "clementine",
+   "mandarin",
+   "Citrus fruit",
+   "fruit",
+   "citrus",
+   "lemon",
+   "lime",
+   "orange",
+   "grape",
+   "grapefruit",
+   "tangerines",
+   "clementines"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 10,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 21,
+     "unit": "days",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "carrots",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 279,
+  "derivedFrom": "carrots-parsnips",
+  "derivedFromName": "Carrots, parsnips",
+  "name": "Carrots",
+  "subtitle": null,
+  "keywords": [
+   "carrot",
+   "carrots",
+   "Carrots",
+   "parsnips",
+   "parsnip"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 3,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "parsnips",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 279,
+  "derivedFrom": "carrots-parsnips",
+  "derivedFromName": "Carrots, parsnips",
+  "name": "Parsnips",
+  "subtitle": null,
+  "keywords": [
+   "parsnip",
+   "Carrots",
+   "parsnips",
+   "carrot"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 3,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "green-beans",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 273,
+  "derivedFrom": "beans-and-peas-green-fava-lima-soybean-wax-snow",
+  "derivedFromName": "Beans and peas, green, fava, lima, soybean, wax, snow, sugar snap",
+  "name": "Green beans",
+  "subtitle": null,
+  "keywords": [
+   "green bean",
+   "string bean",
+   "french bean",
+   "Beans",
+   "peas",
+   "green",
+   "fava",
+   "lima",
+   "soybean",
+   "wax",
+   "snow",
+   "sugar snap",
+   "sugar",
+   "pea",
+   "soya"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 8,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "fava-beans",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 273,
+  "derivedFrom": "beans-and-peas-green-fava-lima-soybean-wax-snow",
+  "derivedFromName": "Beans and peas, green, fava, lima, soybean, wax, snow, sugar snap",
+  "name": "Fava beans",
+  "subtitle": null,
+  "keywords": [
+   "fava",
+   "broad bean",
+   "Beans",
+   "peas",
+   "green",
+   "lima",
+   "soybean",
+   "wax",
+   "snow",
+   "sugar snap",
+   "sugar",
+   "pea",
+   "soya"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 8,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "lima-beans",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 273,
+  "derivedFrom": "beans-and-peas-green-fava-lima-soybean-wax-snow",
+  "derivedFromName": "Beans and peas, green, fava, lima, soybean, wax, snow, sugar snap",
+  "name": "Lima beans",
+  "subtitle": null,
+  "keywords": [
+   "lima bean",
+   "butter bean",
+   "Beans",
+   "peas",
+   "green",
+   "fava",
+   "lima",
+   "soybean",
+   "wax",
+   "snow",
+   "sugar snap",
+   "sugar",
+   "pea",
+   "soya"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 8,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "wax-beans",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 273,
+  "derivedFrom": "beans-and-peas-green-fava-lima-soybean-wax-snow",
+  "derivedFromName": "Beans and peas, green, fava, lima, soybean, wax, snow, sugar snap",
+  "name": "Wax beans",
+  "subtitle": null,
+  "keywords": [
+   "wax bean",
+   "yellow bean",
+   "Beans",
+   "peas",
+   "green",
+   "fava",
+   "lima",
+   "soybean",
+   "wax",
+   "snow",
+   "sugar snap",
+   "sugar",
+   "pea",
+   "soya"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 8,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "snow-peas",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 273,
+  "derivedFrom": "beans-and-peas-green-fava-lima-soybean-wax-snow",
+  "derivedFromName": "Beans and peas, green, fava, lima, soybean, wax, snow, sugar snap",
+  "name": "Snow peas",
+  "subtitle": null,
+  "keywords": [
+   "snow pea",
+   "mangetout",
+   "Beans",
+   "peas",
+   "green",
+   "fava",
+   "lima",
+   "soybean",
+   "wax",
+   "snow",
+   "sugar snap",
+   "sugar",
+   "pea",
+   "soya"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 8,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "sugar-snap-peas",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 273,
+  "derivedFrom": "beans-and-peas-green-fava-lima-soybean-wax-snow",
+  "derivedFromName": "Beans and peas, green, fava, lima, soybean, wax, snow, sugar snap",
+  "name": "Sugar snap peas",
+  "subtitle": null,
+  "keywords": [
+   "sugar snap",
+   "snap pea",
+   "Beans",
+   "peas",
+   "green",
+   "fava",
+   "lima",
+   "soybean",
+   "wax",
+   "snow",
+   "sugar",
+   "pea",
+   "soya"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 8,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "broccoli",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 276,
+  "derivedFrom": "broccoli-and-broccoli-raab-rapini",
+  "derivedFromName": "Broccoli and broccoli raab (rapini)",
+  "name": "Broccoli",
+  "subtitle": null,
+  "keywords": [
+   "broccoli",
+   "Broccoli",
+   "broccoli raab",
+   "rapini",
+   "raab"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "broccoli-rabe",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 276,
+  "derivedFrom": "broccoli-and-broccoli-raab-rapini",
+  "derivedFromName": "Broccoli and broccoli raab (rapini)",
+  "name": "Broccoli rabe",
+  "subtitle": null,
+  "keywords": [
+   "broccoli raab",
+   "rapini",
+   "broccoli rabe",
+   "Broccoli",
+   "raab"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "iceberg-lettuce",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 290,
+  "derivedFrom": "lettuce-iceberg-romaine",
+  "derivedFromName": "Lettuce, iceberg, romaine",
+  "name": "Iceberg lettuce",
+  "subtitle": null,
+  "keywords": [
+   "iceberg",
+   "lettuce",
+   "Lettuce",
+   "romaine"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "weeks",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "romaine-lettuce",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 290,
+  "derivedFrom": "lettuce-iceberg-romaine",
+  "derivedFromName": "Lettuce, iceberg, romaine",
+  "name": "Romaine lettuce",
+  "subtitle": null,
+  "keywords": [
+   "romaine",
+   "cos lettuce",
+   "Lettuce",
+   "iceberg"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "weeks",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "leaf-lettuce",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 291,
+  "derivedFrom": "lettuce-leaf-spinach",
+  "derivedFromName": "Lettuce, leaf, spinach",
+  "name": "Leaf lettuce",
+  "subtitle": null,
+  "keywords": [
+   "leaf lettuce",
+   "loose leaf",
+   "Lettuce",
+   "leaf",
+   "spinach"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 7,
+     "unit": "days",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "spinach",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 291,
+  "derivedFrom": "lettuce-leaf-spinach",
+  "derivedFromName": "Lettuce, leaf, spinach",
+  "name": "Spinach",
+  "subtitle": null,
+  "keywords": [
+   "spinach",
+   "Lettuce",
+   "leaf"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 7,
+     "unit": "days",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "summer-squash",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 302,
+  "derivedFrom": "squash-summer-zucchini",
+  "derivedFromName": "Squash, summer and zucchini",
+  "name": "Summer squash",
+  "subtitle": null,
+  "keywords": [
+   "summer squash",
+   "yellow squash",
+   "pattypan",
+   "Squash",
+   "summer",
+   "zucchini"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 4,
+     "max": 5,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "onions",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 294,
+  "derivedFrom": "onions-yellow-white-red",
+  "derivedFromName": "Onions, yellow, white, red, etc.",
+  "name": "Onions",
+  "subtitle": null,
+  "keywords": [
+   "onion",
+   "yellow onion",
+   "red onion",
+   "white onion",
+   "Onions",
+   "yellow",
+   "white",
+   "red"
+  ],
+  "storage": {
+   "pantry": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 1,
+     "unit": "months",
+     "tips": null
+    }
+   },
+   "fridge": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 2,
+     "unit": "months",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "bell-peppers",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 296,
+  "derivedFrom": "peppers",
+  "derivedFromName": "Peppers",
+  "name": "Bell peppers",
+  "subtitle": null,
+  "keywords": [
+   "bell pepper",
+   "capsicum",
+   "sweet pepper",
+   "Peppers",
+   "pepper"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 4,
+     "max": 14,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "cod",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 144,
+  "derivedFrom": "lean-fish-cod-flounder-haddock-halibut-sole",
+  "derivedFromName": "Lean fish, cod, flounder, haddock, halibut, sole, etc.",
+  "name": "Cod",
+  "subtitle": null,
+  "keywords": [
+   "cod",
+   "codfish",
+   "Lean fish",
+   "flounder",
+   "haddock",
+   "halibut",
+   "sole",
+   "fish"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "flounder",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 144,
+  "derivedFrom": "lean-fish-cod-flounder-haddock-halibut-sole",
+  "derivedFromName": "Lean fish, cod, flounder, haddock, halibut, sole, etc.",
+  "name": "Flounder",
+  "subtitle": null,
+  "keywords": [
+   "flounder",
+   "plaice",
+   "Lean fish",
+   "cod",
+   "haddock",
+   "halibut",
+   "sole",
+   "fish"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "haddock",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 144,
+  "derivedFrom": "lean-fish-cod-flounder-haddock-halibut-sole",
+  "derivedFromName": "Lean fish, cod, flounder, haddock, halibut, sole, etc.",
+  "name": "Haddock",
+  "subtitle": null,
+  "keywords": [
+   "haddock",
+   "Lean fish",
+   "cod",
+   "flounder",
+   "halibut",
+   "sole",
+   "fish"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "halibut",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 144,
+  "derivedFrom": "lean-fish-cod-flounder-haddock-halibut-sole",
+  "derivedFromName": "Lean fish, cod, flounder, haddock, halibut, sole, etc.",
+  "name": "Halibut",
+  "subtitle": null,
+  "keywords": [
+   "halibut",
+   "Lean fish",
+   "cod",
+   "flounder",
+   "haddock",
+   "sole",
+   "fish"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "sole",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 144,
+  "derivedFrom": "lean-fish-cod-flounder-haddock-halibut-sole",
+  "derivedFromName": "Lean fish, cod, flounder, haddock, halibut, sole, etc.",
+  "name": "Sole",
+  "subtitle": null,
+  "keywords": [
+   "sole",
+   "dover sole",
+   "Lean fish",
+   "cod",
+   "flounder",
+   "haddock",
+   "halibut",
+   "fish"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "pollock",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 145,
+  "derivedFrom": "lean-fish-pollock-ocean-perch-rockfish-sea-trout",
+  "derivedFromName": "Lean fish, pollock, ocean perch, rockfish, sea trout.",
+  "name": "Pollock",
+  "subtitle": null,
+  "keywords": [
+   "pollock",
+   "pollack",
+   "Lean fish",
+   "ocean",
+   "rockfish",
+   "sea",
+   "sea trout",
+   "fish",
+   "ocean perch",
+   "perch",
+   "trout",
+   "rock"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 4,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "ocean-perch",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 145,
+  "derivedFrom": "lean-fish-pollock-ocean-perch-rockfish-sea-trout",
+  "derivedFromName": "Lean fish, pollock, ocean perch, rockfish, sea trout.",
+  "name": "Ocean perch",
+  "subtitle": null,
+  "keywords": [
+   "ocean perch",
+   "redfish",
+   "Lean fish",
+   "pollock",
+   "ocean",
+   "rockfish",
+   "sea",
+   "sea trout",
+   "fish",
+   "perch",
+   "trout",
+   "rock"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 4,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "rockfish",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 145,
+  "derivedFrom": "lean-fish-pollock-ocean-perch-rockfish-sea-trout",
+  "derivedFromName": "Lean fish, pollock, ocean perch, rockfish, sea trout.",
+  "name": "Rockfish",
+  "subtitle": null,
+  "keywords": [
+   "rockfish",
+   "Lean fish",
+   "pollock",
+   "ocean",
+   "sea",
+   "sea trout",
+   "fish",
+   "ocean perch",
+   "perch",
+   "trout",
+   "rock"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 4,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "sea-trout",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 145,
+  "derivedFrom": "lean-fish-pollock-ocean-perch-rockfish-sea-trout",
+  "derivedFromName": "Lean fish, pollock, ocean perch, rockfish, sea trout.",
+  "name": "Sea trout",
+  "subtitle": null,
+  "keywords": [
+   "sea trout",
+   "Lean fish",
+   "pollock",
+   "ocean",
+   "rockfish",
+   "sea",
+   "fish",
+   "ocean perch",
+   "perch",
+   "trout",
+   "rock"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 4,
+     "max": 8,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "salmon",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 146,
+  "derivedFrom": "fatty-fish-bluefish-catfish-mackerel-mullet-salmon-tuna",
+  "derivedFromName": "Fatty fish, bluefish, catfish, mackerel, mullet, salmon, tuna, etc.",
+  "name": "Salmon",
+  "subtitle": null,
+  "keywords": [
+   "salmon",
+   "Fatty fish",
+   "bluefish",
+   "catfish",
+   "mackerel",
+   "mullet",
+   "tuna",
+   "fish",
+   "fatty",
+   "blue",
+   "cat"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 3,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "tuna-fresh",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 146,
+  "derivedFrom": "fatty-fish-bluefish-catfish-mackerel-mullet-salmon-tuna",
+  "derivedFromName": "Fatty fish, bluefish, catfish, mackerel, mullet, salmon, tuna, etc.",
+  "name": "Tuna",
+  "subtitle": "fresh",
+  "keywords": [
+   "tuna",
+   "ahi",
+   "bluefin",
+   "Fatty fish",
+   "bluefish",
+   "catfish",
+   "mackerel",
+   "mullet",
+   "salmon",
+   "fish",
+   "fatty",
+   "blue",
+   "cat"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 3,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "mackerel",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 146,
+  "derivedFrom": "fatty-fish-bluefish-catfish-mackerel-mullet-salmon-tuna",
+  "derivedFromName": "Fatty fish, bluefish, catfish, mackerel, mullet, salmon, tuna, etc.",
+  "name": "Mackerel",
+  "subtitle": null,
+  "keywords": [
+   "mackerel",
+   "Fatty fish",
+   "bluefish",
+   "catfish",
+   "mullet",
+   "salmon",
+   "tuna",
+   "fish",
+   "fatty",
+   "blue",
+   "cat"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 3,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "catfish",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 146,
+  "derivedFrom": "fatty-fish-bluefish-catfish-mackerel-mullet-salmon-tuna",
+  "derivedFromName": "Fatty fish, bluefish, catfish, mackerel, mullet, salmon, tuna, etc.",
+  "name": "Catfish",
+  "subtitle": null,
+  "keywords": [
+   "catfish",
+   "Fatty fish",
+   "bluefish",
+   "mackerel",
+   "mullet",
+   "salmon",
+   "tuna",
+   "fish",
+   "fatty",
+   "blue",
+   "cat"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 3,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "bluefish",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 146,
+  "derivedFrom": "fatty-fish-bluefish-catfish-mackerel-mullet-salmon-tuna",
+  "derivedFromName": "Fatty fish, bluefish, catfish, mackerel, mullet, salmon, tuna, etc.",
+  "name": "Bluefish",
+  "subtitle": null,
+  "keywords": [
+   "bluefish",
+   "Fatty fish",
+   "catfish",
+   "mackerel",
+   "mullet",
+   "salmon",
+   "tuna",
+   "fish",
+   "fatty",
+   "blue",
+   "cat"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 3,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "mullet",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 146,
+  "derivedFrom": "fatty-fish-bluefish-catfish-mackerel-mullet-salmon-tuna",
+  "derivedFromName": "Fatty fish, bluefish, catfish, mackerel, mullet, salmon, tuna, etc.",
+  "name": "Mullet",
+  "subtitle": null,
+  "keywords": [
+   "mullet",
+   "Fatty fish",
+   "bluefish",
+   "catfish",
+   "mackerel",
+   "salmon",
+   "tuna",
+   "fish",
+   "fatty",
+   "blue",
+   "cat"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 2,
+     "max": 3,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "shrimp",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 151,
+  "derivedFrom": "shrimp-crayfish",
+  "derivedFromName": "Shrimp, crayfish",
+  "name": "Shrimp",
+  "subtitle": null,
+  "keywords": [
+   "shrimp",
+   "prawn",
+   "prawns",
+   "Shrimp",
+   "crayfish",
+   "cray",
+   "fish"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 3,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 18,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "crayfish",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 151,
+  "derivedFrom": "shrimp-crayfish",
+  "derivedFromName": "Shrimp, crayfish",
+  "name": "Crayfish",
+  "subtitle": null,
+  "keywords": [
+   "crayfish",
+   "crawfish",
+   "Shrimp",
+   "cray",
+   "fish"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 3,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 18,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "clams-shucked",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 153,
+  "derivedFrom": "shucked-clams-mussels-and-oysters",
+  "derivedFromName": "Shucked clams, mussels, and oysters",
+  "name": "Clams",
+  "subtitle": "shucked",
+  "keywords": [
+   "clam",
+   "clams",
+   "Shucked clams",
+   "mussels",
+   "oysters",
+   "mussel",
+   "oyster"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 10,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 4,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "mussels-shucked",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 153,
+  "derivedFrom": "shucked-clams-mussels-and-oysters",
+  "derivedFromName": "Shucked clams, mussels, and oysters",
+  "name": "Mussels",
+  "subtitle": "shucked",
+  "keywords": [
+   "mussel",
+   "mussels",
+   "Shucked clams",
+   "oysters",
+   "clams",
+   "clam",
+   "oyster"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 10,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 4,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "oysters-shucked",
+  "category": "seafood",
+  "source": "usda-foodkeeper",
+  "sourceId": 153,
+  "derivedFrom": "shucked-clams-mussels-and-oysters",
+  "derivedFromName": "Shucked clams, mussels, and oysters",
+  "name": "Oysters",
+  "subtitle": "shucked",
+  "keywords": [
+   "oyster",
+   "oysters",
+   "Shucked clams",
+   "mussels",
+   "clams",
+   "clam",
+   "mussel"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 10,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 4,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "cheddar-cheese",
+  "category": "dairy-eggs",
+  "source": "usda-foodkeeper",
+  "sourceId": 3,
+  "derivedFrom": "cheese-hard-cheddar-swiss-block-parmesan",
+  "derivedFromName": "Cheese, hard such as cheddar, swiss, block parmesan",
+  "name": "Cheddar",
+  "subtitle": null,
+  "keywords": [
+   "cheddar",
+   "Cheese",
+   "swiss",
+   "parmesan"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 6,
+     "unit": "months",
+     "tips": null
+    },
+    "afterOpening": {
+     "min": 3,
+     "max": 4,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 6,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "swiss-cheese",
+  "category": "dairy-eggs",
+  "source": "usda-foodkeeper",
+  "sourceId": 3,
+  "derivedFrom": "cheese-hard-cheddar-swiss-block-parmesan",
+  "derivedFromName": "Cheese, hard such as cheddar, swiss, block parmesan",
+  "name": "Swiss cheese",
+  "subtitle": null,
+  "keywords": [
+   "swiss",
+   "emmental",
+   "gruyere",
+   "Cheese",
+   "cheddar",
+   "parmesan"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 6,
+     "unit": "months",
+     "tips": null
+    },
+    "afterOpening": {
+     "min": 3,
+     "max": 4,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 6,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "parmesan-block",
+  "category": "dairy-eggs",
+  "source": "usda-foodkeeper",
+  "sourceId": 3,
+  "derivedFrom": "cheese-hard-cheddar-swiss-block-parmesan",
+  "derivedFromName": "Cheese, hard such as cheddar, swiss, block parmesan",
+  "name": "Parmesan",
+  "subtitle": "block",
+  "keywords": [
+   "parmesan",
+   "parmigiano",
+   "Cheese",
+   "cheddar",
+   "swiss"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 6,
+     "unit": "months",
+     "tips": null
+    },
+    "afterOpening": {
+     "min": 3,
+     "max": 4,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 6,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "brie",
+  "category": "dairy-eggs",
+  "source": "usda-foodkeeper",
+  "sourceId": 7,
+  "derivedFrom": "cheese-soft-brie-bel-paese-goat",
+  "derivedFromName": "Cheese, soft such as brie, bel paese, goat",
+  "name": "Brie",
+  "subtitle": null,
+  "keywords": [
+   "brie",
+   "camembert",
+   "Cheese",
+   "bel paese",
+   "goat"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 6,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "goat-cheese",
+  "category": "dairy-eggs",
+  "source": "usda-foodkeeper",
+  "sourceId": 7,
+  "derivedFrom": "cheese-soft-brie-bel-paese-goat",
+  "derivedFromName": "Cheese, soft such as brie, bel paese, goat",
+  "name": "Goat cheese",
+  "subtitle": null,
+  "keywords": [
+   "goat cheese",
+   "chevre",
+   "Cheese",
+   "brie",
+   "bel paese",
+   "goat"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "weeks",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 6,
+     "max": 6,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "liver",
+  "category": "meat",
+  "source": "usda-foodkeeper",
+  "sourceId": 77,
+  "derivedFrom": "variety-meats-liver-tongue-chitterlings",
+  "derivedFromName": "Variety meats, liver, tongue, chitterlings, etc.",
+  "name": "Liver",
+  "subtitle": null,
+  "keywords": [
+   "liver",
+   "offal",
+   "Variety meats",
+   "tongue",
+   "chitterlings",
+   "meats",
+   "meat",
+   "chitterling"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 4,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "tongue",
+  "category": "meat",
+  "source": "usda-foodkeeper",
+  "sourceId": 77,
+  "derivedFrom": "variety-meats-liver-tongue-chitterlings",
+  "derivedFromName": "Variety meats, liver, tongue, chitterlings, etc.",
+  "name": "Tongue",
+  "subtitle": null,
+  "keywords": [
+   "tongue",
+   "offal",
+   "Variety meats",
+   "liver",
+   "chitterlings",
+   "meats",
+   "meat",
+   "chitterling"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 2,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 3,
+     "max": 4,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ },
+ {
+  "slug": "collard-greens",
+  "category": "vegetables",
+  "source": "usda-foodkeeper",
+  "sourceId": 287,
+  "derivedFrom": "greens",
+  "derivedFromName": "Greens",
+  "name": "Collard and mustard greens",
+  "subtitle": null,
+  "keywords": [
+   "collard",
+   "mustard greens",
+   "turnip greens",
+   "Greens",
+   "green"
+  ],
+  "storage": {
+   "fridge": {
+    "fromPurchase": {
+     "min": 1,
+     "max": 4,
+     "unit": "days",
+     "tips": null
+    }
+   },
+   "freezer": {
+    "fromPurchase": {
+     "min": 10,
+     "max": 12,
+     "unit": "months",
+     "tips": null
+    }
+   }
+  }
+ }
+]

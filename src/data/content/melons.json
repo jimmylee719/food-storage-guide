@@ -1,0 +1,107 @@
+{
+  "slug": "melons",
+  "en": {
+    "name": "Melons",
+    "aliases": ["cantaloupe", "honeydew", "watermelon", "muskmelon", "rockmelon"],
+    "summary": "Whole melons ripen at room temperature, and once ripe they keep about 7 days on the counter or about 2 weeks in the fridge from the date of purchase. Once cut, refrigerate the pieces and eat them within 2–4 days. Melon balls freeze for about 1 month.",
+    "pantry": "Leave a whole melon on the counter until ripe: the blossom end smells sweet, the rind gives slightly under the thumb and a cantaloupe's netting stands out clearly. Once ripe, a whole uncut melon keeps about 7 days at room temperature. Never leave cut melon out — it is a low-acid, high-moisture food and follows the 2-hour rule (1 hour above 32 °C/90 °F).",
+    "fridge": "A whole melon keeps about 2 weeks from purchase in the fridge at 4 °C (40 °F) or below. Once cut, cover the pieces tightly or store them in an airtight container and eat them within 2–4 days; melon absorbs and gives off strong odours, so keep it sealed. Wash the rind before cutting, as the knife can carry surface bacteria into the flesh.",
+    "freezer": "Balled or cubed melon keeps about 1 month at −18 °C (0 °F). Freeze the pieces in a single layer on a tray, then bag them. The texture becomes soft and watery on thawing, so use frozen melon in smoothies, slushes and chilled soups rather than as fresh fruit.",
+    "thawing": "Blend frozen melon straight from the freezer, or thaw it in the fridge and use it the same day. Never thaw cut melon at room temperature, and refrigerate leftovers promptly.",
+    "spoilage": [
+      "Soft, sunken or leaking patches on the rind",
+      "Sour, fermented or alcoholic smell at the stem end",
+      "Slimy or stringy flesh in cut pieces",
+      "Mould on the rind or on the exposed cut surface"
+    ],
+    "tips": [
+      "Wash and dry the rind before slicing, so the knife does not drag bacteria into the flesh",
+      "Refrigerate cut melon within 2 hours and store it in an airtight container",
+      "Keep cut melon sealed — it both absorbs and transfers strong fridge odours",
+      "Freeze melon balls for a summer slush instead of throwing away a half you cannot finish"
+    ],
+    "faq": [
+      {"q": "How long does cut melon last in the fridge?", "a": "2–4 days in an airtight container at 4 °C (40 °F) or below. A whole melon keeps about 2 weeks from purchase."},
+      {"q": "Can you freeze melon?", "a": "Yes. Balled or cubed melon keeps about 1 month at −18 °C (0 °F). The texture softens, so use it in smoothies and chilled drinks."},
+      {"q": "Does cut melon need to be refrigerated?", "a": "Yes, always. Cut melon is a low-acid, moist food that must not sit out more than 2 hours (1 hour above 32 °C/90 °F)."}
+    ]
+  },
+  "zh": {
+    "name": "瓜類（洋香瓜、哈密瓜、西瓜）",
+    "aliases": ["哈密瓜", "洋香瓜", "西瓜", "香瓜", "美濃瓜"],
+    "summary": "整顆的瓜要在室溫後熟，熟了之後常溫可放約 7 天，冷藏則從購買日起約可放 2 週。切開之後就要冷藏，並在 2～4 天內吃完。挖成球狀的瓜肉冷凍可保存約 1 個月。",
+    "pantry": "整顆瓜放在室溫直到成熟：底部的花蒂端會散發甜香，用拇指壓外皮會微微下陷，哈密瓜的網紋也會變得明顯立體。熟了之後，整顆未切開的瓜在室溫約可放 7 天。切開的瓜絕對不能放常溫——它是低酸度、高水分的食物，適用兩小時原則（超過 32°C 時只有 1 小時）。",
+    "fridge": "整顆瓜放進 4°C 以下的冰箱，從購買日起約可放 2 週。切開後請把切面密封包好或裝進密封盒，並在 2～4 天內吃完；瓜類既會吸味也會散味，一定要密封。切之前先把外皮洗乾淨，否則刀子會把表面的細菌帶進果肉裡。",
+    "freezer": "挖成球或切成塊的瓜肉放 −18°C 冷凍約可保存 1 個月。先單層鋪盤冷凍定型再裝袋。解凍後質地會變得軟爛出水，所以適合做果昔、冰沙和冷湯，不適合當新鮮水果吃。",
+    "thawing": "直接用冷凍狀態打成果昔，或放冷藏室退冰後當天用完。切開的瓜絕對不要在室溫退冰，吃剩的也要盡快放回冰箱。",
+    "spoilage": [
+      "外皮出現軟軟凹陷或滲汁的斑塊",
+      "花蒂端聞起來有酸味、發酵味或酒精味",
+      "切塊的果肉變得黏滑或纖維化",
+      "外皮或切面長黴"
+    ],
+    "tips": [
+      "切之前先把外皮洗淨擦乾，避免刀子把細菌帶進果肉",
+      "切開的瓜 2 小時內冷藏，並裝進密封盒",
+      "切開的瓜要密封，因為它既吸味也會把味道傳給別的東西",
+      "吃不完的半顆可以挖成球冷凍，夏天打成冰沙"
+    ],
+    "faq": [
+      {"q": "切開的瓜放冰箱可以放多久？", "a": "裝密封盒放 4°C 以下可放 2～4 天。整顆未切的話，從購買日起約 2 週。"},
+      {"q": "瓜類可以冷凍嗎？", "a": "可以。挖成球或切塊冷凍在 −18°C 約可保存 1 個月。質地會變軟，適合打果昔或做冰飲。"},
+      {"q": "切開的瓜需要冷藏嗎？", "a": "一定要。切開的瓜是低酸度高水分的食物，室溫放置不可超過 2 小時（超過 32°C 時只有 1 小時）。"}
+    ]
+  },
+  "ja": {
+    "name": "メロン・すいか類",
+    "aliases": ["メロン", "マスクメロン", "すいか", "ハネデュー", "カンタロープ"],
+    "summary": "丸ごとのメロンは常温で追熟し、食べごろになれば常温で約7日、冷蔵なら購入日から約2週間持ちます。切ったあとは冷蔵し、2〜4日以内に食べ切ってください。ボール状にくり抜いた果肉は約1か月冷凍できます。",
+    "pantry": "丸ごとのメロンは食べごろになるまで常温に置きます。おしり側から甘い香りがし、皮を親指で押すと少し沈み、マスクメロンなら網目がくっきり浮き上がれば食べごろです。熟したあとは丸ごとのまま常温で約7日。切ったメロンは常温に置かないでください。低酸性で水分が多く、2時間ルール（32℃超なら1時間）が適用されます。",
+    "fridge": "丸ごとなら4℃以下の冷蔵庫で購入日から約2週間持ちます。切ったあとは切り口をしっかり覆うか密閉容器に入れ、2〜4日以内に食べ切りましょう。メロンはにおいを吸いも移しもするので、必ず密閉を。切る前に皮を洗い、表面の菌を包丁で果肉に持ち込まないようにします。",
+    "freezer": "ボール状やさいの目に切った果肉は−18℃で約1か月冷凍できます。バットに一段で凍らせてから袋へ。解凍するとやわらかく水っぽくなるので、生食よりスムージーやフローズンドリンク、冷製スープに向きます。",
+    "thawing": "凍ったままミキサーにかけるか、冷蔵庫で解凍してその日のうちに使います。切ったメロンを室温で解凍せず、残りはすぐ冷蔵庫へ戻してください。",
+    "spoilage": [
+      "皮にやわらかくへこんだ部分や、汁のしみ出た部分がある",
+      "おしり側から酸っぱいにおい、発酵臭、アルコール臭がする",
+      "カットした果肉がぬめる、繊維っぽくなっている",
+      "皮や切り口にカビが出ている"
+    ],
+    "tips": [
+      "切る前に皮を洗って拭き、包丁で菌を持ち込まないようにしましょう",
+      "切ったメロンは2時間以内に冷蔵し、密閉容器で保存を",
+      "におい移りが双方向に起きるので、必ず密閉して保存を",
+      "食べ切れない半分はくり抜いて冷凍し、夏のフローズンドリンクに"
+    ],
+    "faq": [
+      {"q": "カットしたメロンは冷蔵庫でどのくらい持ちますか？", "a": "密閉容器で4℃以下なら2〜4日です。丸ごとなら購入日から約2週間持ちます。"},
+      {"q": "メロンは冷凍できますか？", "a": "できます。ボール状やさいの目にして−18℃で約1か月。食感はやわらかくなるので、スムージーや冷たい飲み物に使いましょう。"},
+      {"q": "カットしたメロンは冷蔵が必要ですか？", "a": "必ず必要です。低酸性で水分が多い食品なので、室温に2時間（32℃超なら1時間）以上置かないでください。"}
+    ]
+  },
+  "es": {
+    "name": "Melones",
+    "aliases": ["melón cantalupo", "melón honeydew", "sandía", "melón amarillo", "melón verde"],
+    "summary": "Los melones enteros maduran a temperatura ambiente y, una vez maduros, duran unos 7 días en la encimera o alrededor de 2 semanas en la nevera desde la compra. Cortados, refrigéralos y cómelos en 2–4 días. Las bolitas de melón se congelan alrededor de 1 mes.",
+    "pantry": "Deja el melón entero en la encimera hasta que madure: la base huele dulce, la corteza cede un poco al pulgar y la retícula del cantalupo se marca con claridad. Ya maduro, un melón entero sin cortar dura unos 7 días a temperatura ambiente. Nunca dejes fuera el melón cortado: es un alimento poco ácido y muy húmedo y sigue la regla de las 2 horas (1 hora por encima de 32 °C/90 °F).",
+    "fridge": "Un melón entero dura alrededor de 2 semanas desde la compra en la nevera a 4 °C (40 °F) o menos. Una vez cortado, cubre bien las porciones o guárdalas en un recipiente hermético y cómelas en 2–4 días; el melón absorbe y desprende olores fuertes, así que manténlo cerrado. Lava la corteza antes de cortarlo, porque el cuchillo puede arrastrar bacterias a la pulpa.",
+    "freezer": "El melón en bolitas o dados dura alrededor de 1 mes a −18 °C (0 °F). Congélalo en una capa en bandeja y luego embólsalo. Al descongelarse queda blando y aguado, así que úsalo en batidos, granizados y sopas frías en vez de como fruta fresca.",
+    "thawing": "Tritura el melón congelado directamente, o descongélalo en la nevera y úsalo el mismo día. Nunca descongeles melón cortado a temperatura ambiente y refrigera las sobras enseguida.",
+    "spoilage": [
+      "Zonas blandas, hundidas o que rezuman en la corteza",
+      "Olor agrio, fermentado o alcohólico en la base del rabito",
+      "Pulpa viscosa o fibrosa en las porciones cortadas",
+      "Moho en la corteza o en la superficie cortada"
+    ],
+    "tips": [
+      "Lava y seca la corteza antes de cortarlo para que el cuchillo no arrastre bacterias",
+      "Refrigera el melón cortado en menos de 2 horas y guárdalo en recipiente hermético",
+      "Mantén el melón cortado bien cerrado: absorbe y transmite olores en la nevera",
+      "Congela bolitas para un granizado de verano en vez de tirar la mitad que no puedas terminar"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el melón cortado en la nevera?", "a": "2–4 días en un recipiente hermético a 4 °C (40 °F) o menos. Entero dura alrededor de 2 semanas desde la compra."},
+      {"q": "¿Se puede congelar el melón?", "a": "Sí. En bolitas o dados dura alrededor de 1 mes a −18 °C (0 °F). La textura se ablanda, así que úsalo en batidos y bebidas frías."},
+      {"q": "¿El melón cortado necesita refrigeración?", "a": "Sí, siempre. Es un alimento poco ácido y húmedo que no debe estar fuera más de 2 horas (1 hora por encima de 32 °C/90 °F)."}
+    ]
+  }
+}

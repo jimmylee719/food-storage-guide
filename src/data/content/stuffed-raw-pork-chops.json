@@ -1,0 +1,107 @@
+{
+  "slug": "stuffed-raw-pork-chops",
+  "en": {
+    "name": "Stuffed raw pork chops",
+    "aliases": ["stuffed pork chops", "pork chops with stuffing", "filled pork chops", "pocket pork chops"],
+    "summary": "Stuffed raw pork chops are thick chops cut with a pocket and filled with a bread, apple, cheese or sausage stuffing, ready to bake. Because raw meat and a moist filling are combined, they keep only 1–2 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 9 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Stuffed raw chops must never be left at room temperature. The filling sits at the centre of the chop, where heat arrives last and where it stays warm longest after cooking, so it is exactly the sort of food safety rules are written for. Discard chops left in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) for more than 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Keep the chops in a covered dish on the bottom shelf at 4 °C (40 °F) or below and cook them within 1–2 days of purchase. This is much shorter than for a plain chop because the stuffing adds moisture, handling and often other perishable ingredients. If you stuff chops yourself, use chilled ingredients and cook them the same day.",
+    "freezer": "Stuffed chops freeze well and keep good quality for up to 9 months at −18 °C (0 °F), where they stay safe indefinitely. Wrap each chop individually in plastic, then bag them with the air pressed out so the stuffing cannot dry out. Freeze commercially prepared chops on the day of purchase, and label the pack with the filling and date.",
+    "thawing": "Thaw stuffed chops in the fridge — allow a full day — and never at room temperature. Do not cook them from frozen unless the manufacturer says so: the outside overcooks long before the stuffing is safe. Cook until the centre of the stuffing reaches at least 74 °C (165 °F).",
+    "spoilage": [
+      "Sour or ammonia-like smell from the meat or the stuffing",
+      "Slimy or sticky surface on the chop, or a wet, collapsing filling",
+      "Grey-green or dull brown meat instead of pale pink",
+      "Leaking or bulging packaging, or a passed use-by date"
+    ],
+    "tips": [
+      "Cook within 1–2 days or freeze on the day of purchase.",
+      "Check the stuffing, not the meat, with a thermometer — it must reach 74 °C (165 °F).",
+      "If stuffing chops at home, cool the filling before it goes into the raw meat.",
+      "Wrap each chop separately before freezing so you can cook one at a time."
+    ],
+    "faq": [
+      {"q": "Can you freeze stuffed pork chops?", "a": "Yes. Wrap them individually and freeze at −18 °C (0 °F): safe indefinitely and good quality for up to 9 months."},
+      {"q": "How long do stuffed pork chops last in the fridge?", "a": "Only 1–2 days from the day of purchase at 4 °C (40 °F) or below, far less than a plain chop."},
+      {"q": "What temperature should stuffed pork chops reach?", "a": "At least 74 °C (165 °F) in the centre of the stuffing, not just in the meat, since the filling heats last."}
+    ]
+  },
+  "zh": {
+    "name": "生的填餡豬排",
+    "aliases": ["夾餡豬排", "填餡豬排", "口袋豬排", "包餡豬肉排"],
+    "summary": "填餡豬排是把厚豬排橫切出口袋、塞入麵包、蘋果、起司或香腸餡料的半成品，買回來直接烤即可。因為生肉和潮濕的餡料結合在一起，在 4°C 以下冷藏，從購買日起只能放 1～2 天；放 −18°C 冷凍可放 9 個月。",
+    "pantry": "生的填餡豬排絕對不能放室溫。餡料在豬排的正中央，那裡是熱最慢到達、煮完後也最慢降溫的位置，正是食品安全規則最在意的情況。在 4～60°C 的危險溫度帶放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "放在有蓋的容器裡，置於冰箱最下層，維持 4°C 以下，並在購買後 1～2 天內烹調。比一般豬排短很多，因為餡料帶來額外的水分、更多的接觸處理，還常含有其他易腐材料。自己填餡的話，請用冰過的材料，並在當天就烤。",
+    "freezer": "填餡豬排很適合冷凍，放 −18°C 品質最長可維持 9 個月，安全上可以無限期保存。每片單獨用保鮮膜包好，再裝袋擠出空氣，餡料才不會乾掉。市售的填餡豬排請在購買當天就冷凍，並在包裝上標註餡料和日期。",
+    "thawing": "填餡豬排請放冷藏室解凍，預留一整天，絕對不要在室溫解凍。除非產品說明允許，否則不要直接從冷凍烤：外層早就過熟了，餡料還沒到安全溫度。要烤到餡料中心至少 74°C。",
+    "spoilage": [
+      "肉或餡料發出酸味或阿摩尼亞味",
+      "豬排表面黏滑，或餡料濕爛塌掉",
+      "肉色不是淡粉紅，而是灰綠或暗褐",
+      "包裝漏汁或鼓起，或已超過有效日期"
+    ],
+    "tips": [
+      "1～2 天內煮完，否則購買當天就冷凍。",
+      "用溫度計量餡料而不是肉，必須到 74°C。",
+      "自己填餡的話，餡料要先放涼再塞進生肉裡。",
+      "冷凍前一片片分開包，之後可以只烤一片。"
+    ],
+    "faq": [
+      {"q": "填餡豬排可以冷凍嗎？", "a": "可以。單片包好後放 −18°C 冷凍：安全上無限期，品質最長可到 9 個月。"},
+      {"q": "填餡豬排放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起只有 1～2 天，比一般豬排短很多。"},
+      {"q": "填餡豬排要烤到幾度？", "a": "餡料中心至少 74°C，不能只量肉的溫度，因為餡料是最後才熱起來的部分。"}
+    ]
+  },
+  "ja": {
+    "name": "詰め物入り生ポークチョップ",
+    "aliases": ["スタッフドポークチョップ", "詰め物入り豚ロース", "ポケット豚肉", "中詰めポークチョップ"],
+    "summary": "詰め物入りの生ポークチョップは、厚切りの豚肉に切り込みを入れ、パンやりんご、チーズ、ソーセージなどの詰め物を入れた半調理品で、そのまま焼けます。生肉と水分の多い詰め物が組み合わさるため、4℃以下の冷蔵で購入日から1〜2日、−18℃の冷凍で9か月が目安です。",
+    "pantry": "詰め物入りの生の豚肉を常温に置くことは絶対に避けてください。詰め物は肉の中心にあり、熱が最後に届き、加熱後も最も長く温かいままの場所です。食品衛生のルールがまさに想定している状況といえます。4〜60℃の危険温度帯に2時間以上（気温32℃以上なら1時間以上）置いたものは処分します。",
+    "fridge": "ふた付きの器に入れて冷蔵庫の最下段に置き、4℃以下を保って購入から1〜2日以内に調理します。普通のポークチョップよりずっと短いのは、詰め物によって水分と手作業が増え、ほかの傷みやすい材料が入ることも多いためです。自分で詰める場合は冷えた材料を使い、その日のうちに焼きましょう。",
+    "freezer": "冷凍向きで、−18℃なら品質は最長9か月、安全面では長期間保存できます。1枚ずつラップで包み、袋の空気を抜いて詰め物が乾かないようにします。市販品は購入当日に冷凍し、詰め物の種類と日付をラベルに書いておきましょう。",
+    "thawing": "冷蔵庫で丸一日かけて解凍します。常温解凍は絶対に避けてください。メーカーの指示がない限り、凍ったまま焼くのも避けます。詰め物が安全な温度になる前に外側が焼けすぎるためです。詰め物の中心が74℃以上になるまで加熱してください。",
+    "spoilage": [
+      "肉または詰め物から酸っぱいにおいやアンモニア臭がする",
+      "肉の表面がぬめる、詰め物が水っぽくくずれている",
+      "肉が淡いピンクではなく灰緑色やくすんだ茶色になっている",
+      "パックから汁が漏れる・膨らんでいる、消費期限を過ぎている"
+    ],
+    "tips": [
+      "1〜2日以内に調理するか、購入当日に冷凍する。",
+      "温度計は肉ではなく詰め物に刺す。74℃が基準。",
+      "自宅で詰める場合は、詰め物を冷ましてから生肉に入れる。",
+      "冷凍前に1枚ずつ包み、必要な枚数だけ焼けるようにする。"
+    ],
+    "faq": [
+      {"q": "詰め物入りポークチョップは冷凍できますか？", "a": "できます。1枚ずつ包んで−18℃で冷凍すれば、安全面では長期間、品質は最長9か月が目安です。"},
+      {"q": "詰め物入りポークチョップは冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から1〜2日だけです。普通のチョップよりかなり短くなります。"},
+      {"q": "何度まで加熱すればよいですか？", "a": "肉ではなく詰め物の中心が74℃以上になるまでです。詰め物がいちばん最後に温まるためです。"}
+    ]
+  },
+  "es": {
+    "name": "Chuletas de cerdo crudas rellenas",
+    "aliases": ["chuletas rellenas", "chuletas de cerdo con relleno", "chuletas en bolsillo", "chuletas farcidas"],
+    "summary": "Las chuletas de cerdo crudas rellenas son chuletas gruesas abiertas en bolsillo y rellenas de pan, manzana, queso o salchicha, listas para hornear. Al combinar carne cruda con un relleno húmedo, solo duran 1–2 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y 9 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "Las chuletas rellenas crudas nunca deben quedarse a temperatura ambiente. El relleno está en el centro, donde el calor llega al final y donde se mantiene tibio más tiempo tras la cocción: justo el tipo de alimento para el que se escribieron las normas de seguridad. Desecha las que pasen más de 2 horas en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F) —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Guárdalas en una fuente tapada en el estante inferior a 4 °C (40 °F) o menos y cocínalas en 1–2 días desde la compra. Es mucho menos que una chuleta simple porque el relleno añade humedad, manipulación y a menudo otros ingredientes perecederos. Si las rellenas tú, usa ingredientes fríos y cocínalas el mismo día.",
+    "freezer": "Se congelan bien y mantienen buena calidad hasta 9 meses a −18 °C (0 °F), donde son seguras indefinidamente. Envuelve cada chuleta con film y luego embólsalas sin aire para que el relleno no se reseque. Congela las preparadas comercialmente el día de compra y etiqueta con el relleno y la fecha.",
+    "thawing": "Descongélalas en el refrigerador —calcula un día entero— y nunca a temperatura ambiente. No las cocines congeladas salvo que el fabricante lo indique: el exterior se pasa mucho antes de que el relleno sea seguro. Cocina hasta que el centro del relleno alcance al menos 74 °C (165 °F).",
+    "spoilage": [
+      "Olor agrio o a amoníaco en la carne o en el relleno",
+      "Superficie viscosa o pegajosa en la chuleta, o relleno húmedo y desmoronado",
+      "Carne gris verdosa o parda apagada en lugar de rosa pálido",
+      "Envase con fugas o hinchado, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Cocínalas en 1–2 días o congélalas el mismo día de la compra.",
+      "Mide con termómetro el relleno, no la carne: debe llegar a 74 °C (165 °F).",
+      "Si las rellenas en casa, enfría el relleno antes de meterlo en la carne cruda.",
+      "Envuélvelas por separado antes de congelar para cocinar de una en una."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las chuletas rellenas?", "a": "Sí. Envuélvelas individualmente y congélalas a −18 °C (0 °F): seguras indefinidamente y con buena calidad hasta 9 meses."},
+      {"q": "¿Cuánto duran las chuletas rellenas en el refrigerador?", "a": "Solo 1–2 días desde el día de compra a 4 °C (40 °F) o menos, mucho menos que una chuleta simple."},
+      {"q": "¿A qué temperatura deben llegar?", "a": "A al menos 74 °C (165 °F) en el centro del relleno, no solo en la carne, porque el relleno es lo último en calentarse."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "cranberries",
+  "en": {
+    "name": "Cranberries",
+    "aliases": ["fresh cranberries", "bog berries", "whole cranberries", "American cranberry"],
+    "summary": "Fresh cranberries are unusually long-keeping for a berry because they are firm, waxy and naturally very acidic. In the fridge they keep about 2 months from the date of purchase, and frozen at −18 °C (0 °F) they last about 12 months. They freeze so well that many people simply put the whole bag in the freezer.",
+    "pantry": "Cranberries should not be stored at room temperature. Left on the counter they soften and mould within a few days, especially in a warm kitchen, which is a waste of a berry that keeps for two months in the fridge. Bring them out only for the time it takes to sort and cook them.",
+    "fridge": "Store cranberries in their original perforated bag or a vented container at 4 °C (40 °F) or below, where they keep about 2 months from purchase. Do not wash them before storing; rinse just before use. Sort through the bag when you buy it and discard any that are soft, shrivelled or split, since one bad berry spreads mould through the bag.",
+    "freezer": "Cranberries freeze exceptionally well for about 12 months at −18 °C (0 °F), and you can simply put the unopened bag straight into the freezer. Freeze them unwashed and loose so you can pour out what you need, and rinse them as you use them. They can go from freezer to saucepan without thawing.",
+    "thawing": "Cook cranberries straight from frozen for sauce, compote and baking — there is no need to thaw. If a recipe needs them thawed, do it in the fridge, and expect softer fruit.",
+    "spoilage": [
+      "Soft, shrivelled or wrinkled berries that squash easily",
+      "Grey or white fuzzy mould in the bag",
+      "Fermented or sour smell",
+      "Berries that have gone brown and lost their bright red colour"
+    ],
+    "tips": [
+      "A fresh cranberry bounces when dropped — soft ones do not",
+      "Put the whole unopened bag in the freezer if you will not use it within two months",
+      "Do not wash before storing; rinse just before cooking",
+      "Add sugar towards the end of cooking so the skins burst first"
+    ],
+    "faq": [
+      {"q": "How long do fresh cranberries last?", "a": "About 2 months from purchase in the fridge at 4 °C (40 °F) or below, or about 12 months in the freezer at −18 °C (0 °F)."},
+      {"q": "Can you freeze cranberries in the bag?", "a": "Yes. Put the unopened bag straight into the freezer, where it keeps about 12 months. Pour out what you need and cook them from frozen."},
+      {"q": "How can you tell if cranberries have gone bad?", "a": "Discard berries that are soft, shrivelled, brown or mouldy. Firm, bright red cranberries that bounce are still good."}
+    ]
+  },
+  "zh": {
+    "name": "蔓越莓",
+    "aliases": ["新鮮蔓越莓", "小紅莓", "蔓越橘", "越橘莓"],
+    "summary": "新鮮蔓越莓在莓果裡算是特別耐放的，因為果肉紮實、表皮帶蠟質，而且天然酸度很高。冷藏從購買日起約可放 2 個月，放 −18°C 冷凍則約可保存 12 個月。它冷凍的效果太好，很多人乾脆整袋直接丟進冷凍庫。",
+    "pantry": "蔓越莓不該放在室溫。放在檯面上幾天內就會變軟發霉，在悶熱的廚房更快，浪費了它原本可以冷藏兩個月的優勢。只在挑揀和烹調的時候拿出來就好。",
+    "fridge": "用原本的打洞包裝袋或透氣容器裝著，放在 4°C 以下，從購買日起約可放 2 個月。保存前不要洗，要用時再沖。買回來當天先翻找一遍，把變軟、皺縮或裂開的挑掉，因為一顆壞掉的莓果會讓整袋長黴。",
+    "freezer": "蔓越莓冷凍效果極佳，放 −18°C 約可保存 12 個月，未開封的整袋直接丟進冷凍庫就行。不清洗、鬆散冷凍，要用的時候倒出需要的量再沖洗即可。也可以不解凍直接下鍋。",
+    "thawing": "做醬汁、糖煮或烘焙時直接用冷凍狀態下鍋，不需要解凍。如果食譜要求解凍，請放冷藏室退冰，果實會比較軟。",
+    "spoilage": [
+      "果實變軟、皺縮，輕輕一壓就爛",
+      "袋子裡出現灰白色毛狀黴菌",
+      "有發酵味或酸敗味",
+      "顏色從鮮紅轉褐、失去光澤"
+    ],
+    "tips": [
+      "新鮮的蔓越莓掉到桌面會彈跳，軟掉的就不會",
+      "兩個月內用不完的話，整袋未開封直接冷凍",
+      "保存前不要洗，烹調前再沖洗",
+      "煮的時候等果皮爆開後再加糖，質地會更好"
+    ],
+    "faq": [
+      {"q": "新鮮蔓越莓可以放多久？", "a": "冷藏在 4°C 以下，從購買日起約 2 個月；放 −18°C 冷凍則約 12 個月。"},
+      {"q": "蔓越莓可以整袋冷凍嗎？", "a": "可以。未開封的整袋直接放進冷凍庫，約可保存 12 個月。要用時倒出需要的量，直接冷凍下鍋煮。"},
+      {"q": "怎麼知道蔓越莓壞了？", "a": "變軟、皺縮、轉褐或發霉的都要挑掉。結實鮮紅、掉下去會彈的就還很好。"}
+    ]
+  },
+  "ja": {
+    "name": "クランベリー",
+    "aliases": ["生クランベリー", "ツルコケモモ", "クランベリー（生）", "冷凍クランベリー"],
+    "summary": "生のクランベリーはベリー類のなかでは珍しく日持ちします。実がしまり、皮にろう質があり、もともと酸度が高いためです。冷蔵なら購入日から約2か月、−18℃の冷凍なら約12か月保存できます。冷凍がとてもよく効くので、袋ごと冷凍庫に入れる人も多いほどです。",
+    "pantry": "クランベリーを常温で保存してはいけません。調理台に置くと数日でやわらかくなりカビが出ます。暑い台所ではなおさらで、冷蔵なら2か月持つ果物をむだにしてしまいます。選別と調理のあいだだけ出すようにしましょう。",
+    "fridge": "購入時の穴あき袋か通気性のある容器に入れ、4℃以下で保存すれば購入日から約2か月持ちます。保存前は洗わず、使う直前にすすぎます。買った日に袋を見直し、やわらかい実、しなびた実、割れた実を取り除きましょう。1粒の傷みが袋全体にカビを広げます。",
+    "freezer": "冷凍との相性がきわめてよく、−18℃で約12か月保存できます。未開封の袋をそのまま冷凍庫へ入れてかまいません。洗わずばらのまま凍らせれば必要な分だけ取り出せ、使うときにすすげばOK。凍ったまま鍋に入れられます。",
+    "thawing": "ソースやコンポート、焼き菓子には凍ったまま使えます。解凍が必要なレシピでは冷蔵庫で行い、果実がやわらかくなることを見込んでおきましょう。",
+    "spoilage": [
+      "実がやわらかくしなび、軽く押すとつぶれる",
+      "袋の中に灰色や白のふわふわしたカビ",
+      "発酵臭や酸敗したにおい",
+      "鮮やかな赤が失われ、茶色くなっている"
+    ],
+    "tips": [
+      "新鮮なクランベリーは落とすと弾みます。やわらかいものは弾みません",
+      "2か月で使い切れないなら、未開封の袋ごと冷凍を",
+      "保存前は洗わず、調理直前にすすぎましょう",
+      "煮るときは皮がはじけてから砂糖を加えると仕上がりがよくなります"
+    ],
+    "faq": [
+      {"q": "生のクランベリーはどのくらい持ちますか？", "a": "4℃以下の冷蔵で購入日から約2か月、−18℃の冷凍なら約12か月です。"},
+      {"q": "クランベリーは袋ごと冷凍できますか？", "a": "できます。未開封の袋をそのまま冷凍庫へ。約12か月保存でき、必要な分だけ取り出して凍ったまま調理できます。"},
+      {"q": "クランベリーが傷んだか見分けるには？", "a": "やわらかい、しなびた、茶色い、カビた実は取り除きましょう。しっかりして鮮やかな赤で弾む実は問題ありません。"}
+    ]
+  },
+  "es": {
+    "name": "Arándanos rojos",
+    "aliases": ["cranberries", "arándano agrio", "arándano rojo fresco", "mortiño"],
+    "summary": "Los arándanos rojos frescos duran mucho más que otras bayas porque son firmes, cerosos y muy ácidos por naturaleza. En la nevera se conservan alrededor de 2 meses desde la compra, y congelados a −18 °C (0 °F) unos 12 meses. Se congelan tan bien que mucha gente mete la bolsa entera al congelador.",
+    "pantry": "No deben guardarse a temperatura ambiente. En la encimera se ablandan y enmohecen en pocos días, sobre todo en una cocina cálida, lo que desaprovecha una fruta que aguanta dos meses en la nevera. Sácalos solo el tiempo de seleccionarlos y cocinarlos.",
+    "fridge": "Guárdalos en su bolsa perforada original o en un recipiente ventilado a 4 °C (40 °F) o menos, donde duran alrededor de 2 meses desde la compra. No los laves antes de guardarlos; enjuágalos justo antes de usarlos. Revisa la bolsa al comprarla y descarta los que estén blandos, arrugados o partidos: uno malo extiende el moho a toda la bolsa.",
+    "freezer": "Se congelan excepcionalmente bien unos 12 meses a −18 °C (0 °F), y puedes meter la bolsa sin abrir directamente al congelador. Congélalos sin lavar y sueltos para poder verter lo que necesites, y enjuágalos al usarlos. Pasan del congelador al cazo sin descongelar.",
+    "thawing": "Cocínalos congelados para salsas, compotas y repostería: no hace falta descongelar. Si una receta los pide descongelados, hazlo en la nevera y cuenta con una fruta más blanda.",
+    "spoilage": [
+      "Bayas blandas o arrugadas que se aplastan con facilidad",
+      "Moho gris o blanco dentro de la bolsa",
+      "Olor fermentado o agrio",
+      "Bayas pardas que han perdido su rojo intenso"
+    ],
+    "tips": [
+      "Un arándano fresco rebota al dejarlo caer; los blandos no",
+      "Mete la bolsa entera al congelador si no vas a usarla en dos meses",
+      "No los laves antes de guardarlos; enjuágalos justo antes de cocinarlos",
+      "Añade el azúcar al final de la cocción para que las pieles revienten primero"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los arándanos rojos frescos?", "a": "Alrededor de 2 meses desde la compra en la nevera a 4 °C (40 °F) o menos, o unos 12 meses en el congelador a −18 °C (0 °F)."},
+      {"q": "¿Se pueden congelar los arándanos rojos en la bolsa?", "a": "Sí. Mete la bolsa sin abrir directamente al congelador, donde dura unos 12 meses. Vierte lo que necesites y cocínalos congelados."},
+      {"q": "¿Cómo saber si los arándanos rojos están malos?", "a": "Descarta los blandos, arrugados, pardos o mohosos. Los firmes, de rojo intenso y que rebotan siguen estando bien."}
+    ]
+  }
+}

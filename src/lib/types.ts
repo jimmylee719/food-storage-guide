@@ -43,6 +43,8 @@ export type Food = {
   source: string;
   sourceRefs: SourceRef[] | null;
   analog: string | null;
+  derivedFrom: string | null;
+  derivedFromName: string | null;
   baseName: string;
   subtitle: string | null;
   keywords: string[];

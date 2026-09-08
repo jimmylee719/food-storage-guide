@@ -176,6 +176,7 @@ export default async function FoodPage({ params }: { params: Promise<{ locale: s
             </li>
           ))}
         </ul>
+        {food.derivedFrom ? <p className="footer-note">{d.groupedWith(food.derivedFromName ?? food.derivedFrom)}</p> : null}
         <p className="footer-note">{d.sourceNote}</p>
         <p className="footer-note"><strong>{d.disclaimer}:</strong> {d.disclaimerBody}</p>
       </section>

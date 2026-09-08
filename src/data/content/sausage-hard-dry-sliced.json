@@ -1,0 +1,107 @@
+{
+  "slug": "sausage-hard-dry-sliced",
+  "en": {
+    "name": "Hard dry sausage, sliced (pepperoni)",
+    "aliases": ["pepperoni slices", "salami slices", "dry sausage", "chorizo seco", "sliced summer sausage"],
+    "summary": "Hard dry sausages such as pepperoni and salami are fermented and air-dried until much of their water is gone, which is why they last so well. Once sliced and refrigerated at 4 °C (40 °F) or below they keep 2–3 weeks from the day of purchase, and 1–2 months in the freezer at −18 °C (0 °F).",
+    "pantry": "A whole, unsliced dry sausage can hang at cool room temperature, but sliced product is different: cutting exposes moist interior surfaces and it should be refrigerated. Low water activity slows bacteria without stopping them, so keep sliced sausage chilled and do not leave a platter out for more than 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Keep the slices in their resealable pack or an airtight container on a shelf at 4 °C (40 °F) or below. They last 2–3 weeks from purchase — much longer than cooked deli meats, thanks to the drying and fermentation. Press out the air when resealing so the edges do not curl and dry, and keep the container closed so the spicy aroma stays contained.",
+    "freezer": "Dry sausage freezes safely at −18 °C (0 °F) and keeps good quality for 1–2 months; the high salt and fat content mean rancidity, not bacteria, sets the limit. Freeze slices in a flat stack separated by baking paper so you can peel off a handful for a pizza. Frozen slices can go straight onto a pizza without thawing.",
+    "thawing": "Thaw in the fridge for a few hours or overnight, then use within the remaining fridge window. Slices for cooking can be used straight from the freezer. Never thaw them at room temperature, and do not refreeze.",
+    "spoilage": [
+      "Sour, rancid or ammonia-like smell rather than the usual spicy, fermented aroma",
+      "Slimy or sticky surface on the slices",
+      "Fuzzy green, black or blue mould (a fine white bloom on a whole dried sausage is normal, coloured mould on slices is not)",
+      "Fat that has turned yellow and smells like old oil, or a passed use-by date"
+    ],
+    "tips": [
+      "Freeze slices in a flat stack with paper between them for easy pizza toppings.",
+      "Press the air out of the pack when resealing to stop the edges drying.",
+      "Blot pepperoni on paper after cooking if you want less grease.",
+      "Store in a closed container so the spice aroma does not spread through the fridge."
+    ],
+    "faq": [
+      {"q": "Can you freeze pepperoni slices?", "a": "Yes. Stack them flat with paper between and freeze at −18 °C (0 °F): safe indefinitely and best quality for 1–2 months. They can go on a pizza frozen."},
+      {"q": "How long do sliced dry sausages last in the fridge?", "a": "2–3 weeks from the day of purchase at 4 °C (40 °F) or below, kept sealed."},
+      {"q": "Does pepperoni need to be refrigerated?", "a": "Sliced pepperoni does, at 4 °C (40 °F) or below. A whole unsliced dry sausage can be kept in a cool, dry place until it is cut."}
+    ]
+  },
+  "zh": {
+    "name": "乾式硬香腸切片（義式臘腸）",
+    "aliases": ["義式臘腸", "pepperoni", "薩拉米", "乾式香腸片", "西班牙臘腸"],
+    "summary": "pepperoni、薩拉米這類乾式硬香腸經過發酵與風乾，水分大幅減少，所以特別耐放。切片後放在 4°C 以下冷藏，從購買日起可放 2～3 週；放 −18°C 冷凍可放 1～2 個月。",
+    "pantry": "整條未切的乾式香腸可以吊在陰涼的室溫下，但切片後就不一樣了：切開會露出比較濕潤的內部，必須冷藏。低水活性只能延緩細菌而不能阻止，所以切片要保持冷藏，拼盤也不要在室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）。",
+    "fridge": "把切片放在可重複封口的包裝或密封容器裡，置於 4°C 以下的冰箱層架。從購買日起可放 2～3 週，比一般熟食冷肉久很多，這要歸功於風乾和發酵。重新封口時把空氣擠出，邊緣才不會捲翹變乾；容器蓋好，香料味也不會擴散。",
+    "freezer": "乾式香腸放 −18°C 冷凍在安全上沒問題，品質以 1～2 個月為佳；限制因素是高鹽高脂造成的酸敗，而不是細菌。切片用烘焙紙隔開、平疊冷凍，要做披薩時一次撕幾片很方便，而且可以不解凍直接鋪上去。",
+    "thawing": "放冷藏室解凍幾小時或一晚，之後在剩下的冷藏期限內用完。要下鍋或烤的切片可以直接從冷凍使用。絕對不要放室溫解凍，也不要再次冷凍。",
+    "spoilage": [
+      "不是原本的香料發酵香，而是酸味、油耗味或阿摩尼亞味",
+      "切片表面黏滑、發黏",
+      "長出綠色、黑色或藍色的絨毛黴（整條乾香腸表面細白的粉狀黴是正常的，切片上有顏色的黴則不是）",
+      "脂肪泛黃、聞起來像放久的油，或已超過有效日期"
+    ],
+    "tips": [
+      "切片用紙隔開、平疊冷凍，做披薩時很好取用。",
+      "重新封口時把空氣壓出來，邊緣才不會乾捲。",
+      "覺得太油的話，烤好後用廚房紙吸一下。",
+      "裝密封容器保存，香料味才不會跑遍整個冰箱。"
+    ],
+    "faq": [
+      {"q": "義式臘腸片可以冷凍嗎？", "a": "可以。用紙隔開平疊後放 −18°C 冷凍：安全上無限期，品質以 1～2 個月為佳，做披薩可以直接冷凍鋪上去。"},
+      {"q": "乾式香腸切片放冰箱可以放多久？", "a": "密封好放在 4°C 以下冷藏，從購買日起 2～3 週。"},
+      {"q": "義式臘腸一定要冰嗎？", "a": "切片的要，保持 4°C 以下。整條未切的乾式香腸在切開前可以放在陰涼乾燥處。"}
+    ]
+  },
+  "ja": {
+    "name": "ドライソーセージのスライス（ペパロニ等）",
+    "aliases": ["ペパロニ", "サラミ", "ドライサラミ", "乾燥ソーセージ", "サマーソーセージ"],
+    "summary": "ペパロニやサラミなどのドライソーセージは、発酵させて乾燥させ水分を大きく減らしてあるため日もちします。スライスして4℃以下で冷蔵すれば購入日から2〜3週間、−18℃の冷凍なら1〜2か月が目安です。",
+    "pantry": "丸ごと未カットのドライソーセージは涼しい室温で吊るせますが、スライス品は別です。切ることで水分の多い内部が露出するため、冷蔵してください。水分活性が低くても菌は止まらないので、盛り合わせを室温に2時間以上（気温32℃以上なら1時間以上）置くのは避けます。",
+    "fridge": "チャック付きの袋か密閉容器に入れ、4℃以下の庫内の棚で保存します。乾燥と発酵のおかげで、購入日から2〜3週間と、加熱食肉のスライスよりずっと長もちします。封をするときは空気を抜き、縁が反って乾くのを防ぎましょう。容器を閉じておけば、スパイスの香りも広がりません。",
+    "freezer": "−18℃での冷凍は安全面で問題なく、品質の目安は1〜2か月です。制限になるのは細菌ではなく、塩分と脂肪による酸敗です。クッキングシートを挟んで平らに重ねて冷凍すれば、ピザ用に数枚ずつはがせますし、凍ったままのせても構いません。",
+    "thawing": "冷蔵庫で数時間〜一晩解凍し、残りの冷蔵期限内に使い切ります。加熱調理に使うスライスは凍ったままで大丈夫です。常温解凍と再冷凍は避けてください。",
+    "spoilage": [
+      "スパイスと発酵の香りではなく、酸敗臭・油の酸化臭・アンモニア臭がする",
+      "スライスの表面がぬめる・べたつく",
+      "緑・黒・青の毛羽立ったカビが出ている（丸ごとの表面の細かい白い粉状のものは正常、スライスの色付きカビは異常）",
+      "脂が黄ばんで古い油のにおいがする、消費期限を過ぎている"
+    ],
+    "tips": [
+      "紙を挟んで平らに重ねて冷凍すると、ピザ用に取り出しやすい。",
+      "封をするとき空気を抜き、縁の乾燥と反りを防ぐ。",
+      "脂が気になるときは焼いたあとにペーパーで押さえる。",
+      "密閉容器に入れ、スパイスの香りが庫内に広がらないようにする。"
+    ],
+    "faq": [
+      {"q": "ペパロニのスライスは冷凍できますか？", "a": "できます。紙を挟んで平らに重ね−18℃で冷凍。安全面では長期間、品質は1〜2か月が目安で、ピザには凍ったままのせられます。"},
+      {"q": "ドライソーセージのスライスは冷蔵庫で何日もちますか？", "a": "密封して4℃以下なら、購入日から2〜3週間が目安です。"},
+      {"q": "ペパロニは冷蔵が必要ですか？", "a": "スライス品は4℃以下で冷蔵してください。丸ごと未カットのドライソーセージは、切るまでは涼しく乾いた場所で保管できます。"}
+    ]
+  },
+  "es": {
+    "name": "Embutido seco en lonchas (pepperoni)",
+    "aliases": ["pepperoni", "salami en lonchas", "salchichón", "chorizo seco en rodajas", "embutido curado"],
+    "summary": "Los embutidos secos como el pepperoni y el salami se fermentan y se secan al aire hasta perder buena parte de su agua, y por eso duran tanto. En lonchas y refrigerados a 4 °C (40 °F) o menos duran 2–3 semanas desde la compra, y 1–2 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "Una pieza entera sin cortar puede colgar a temperatura ambiente fresca, pero el producto en lonchas es distinto: al cortarlo se exponen superficies interiores más húmedas y debe refrigerarse. La baja actividad de agua frena las bacterias sin detenerlas, así que mantén las lonchas en frío y no dejes una tabla fuera más de 2 horas —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Guarda las lonchas en su envase resellable o en un recipiente hermético en un estante a 4 °C (40 °F) o menos. Duran 2–3 semanas desde la compra, mucho más que los fiambres cocidos gracias al secado y la fermentación. Saca el aire al cerrar para que los bordes no se curven ni se sequen, y mantén el recipiente tapado para contener el aroma especiado.",
+    "freezer": "El embutido seco se congela con seguridad a −18 °C (0 °F) y conserva buena calidad 1–2 meses; el límite lo marca el enranciamiento por sal y grasa, no las bacterias. Congela las lonchas apiladas y separadas con papel de horno para poder despegar unas cuantas para una pizza; se pueden poner congeladas directamente.",
+    "thawing": "Descongela en el refrigerador unas horas o durante la noche y consume dentro del plazo restante en frío. Las lonchas para cocinar pueden usarse congeladas. Nunca las descongeles a temperatura ambiente ni las vuelvas a congelar.",
+    "spoilage": [
+      "Olor agrio, rancio o a amoníaco en lugar del aroma especiado y fermentado habitual",
+      "Superficie viscosa o pegajosa en las lonchas",
+      "Moho afelpado verde, negro o azul (una flor blanca fina en una pieza entera es normal; el moho de color en lonchas no lo es)",
+      "Grasa amarillenta con olor a aceite viejo, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Congela las lonchas apiladas con papel entre ellas para usarlas en pizzas.",
+      "Saca el aire del envase al cerrarlo para que no se sequen los bordes.",
+      "Escurre el pepperoni sobre papel tras hornearlo si quieres menos grasa.",
+      "Guárdalo en recipiente cerrado para que su aroma no invada el refrigerador."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las lonchas de pepperoni?", "a": "Sí. Apílalas con papel entre ellas y congélalas a −18 °C (0 °F): seguras indefinidamente y con la mejor calidad 1–2 meses. Pueden ir congeladas sobre una pizza."},
+      {"q": "¿Cuánto duran los embutidos secos en lonchas en el refrigerador?", "a": "2–3 semanas desde el día de compra a 4 °C (40 °F) o menos, bien cerrados."},
+      {"q": "¿El pepperoni necesita refrigeración?", "a": "En lonchas sí, a 4 °C (40 °F) o menos. Una pieza entera sin cortar puede guardarse en un lugar fresco y seco hasta que se corte."}
+    ]
+  }
+}

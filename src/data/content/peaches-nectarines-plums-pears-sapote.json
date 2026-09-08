@@ -1,0 +1,107 @@
+{
+  "slug": "peaches-nectarines-plums-pears-sapote",
+  "en": {
+    "name": "Peaches, nectarines, plums and pears",
+    "aliases": ["peaches", "nectarines", "plums", "pears", "sapote"],
+    "summary": "These soft fruits are picked firm and ripen on the counter, becoming tender, fragrant and ready to eat. Leave them at room temperature until ripe, then use them within 1–2 days out or move them to the fridge, where ripe fruit keeps 3–5 days. Sliced with lemon juice and sugar, they freeze for about 2 months.",
+    "pantry": "Keep firm fruit on the counter in a single layer, out of direct sun, until it gives to gentle pressure and smells sweet at the stem. Once ripe it will only hold 1–2 days at room temperature before turning mealy or fermenting, so refrigerate it promptly. A paper bag speeds ripening; adding an apple or banana speeds it further.",
+    "fridge": "Once ripe, refrigerate at 4 °C (40 °F) or below, where the fruit keeps 3–5 days. Store it in a shallow container or the crisper in a single layer so the weight does not bruise the fruit underneath. Take it out 20–30 minutes before eating, because cold flattens the aroma of stone fruit noticeably.",
+    "freezer": "Freezing guidance applies to the fruit sliced and tossed with lemon juice and sugar, which keeps about 2 months at −18 °C (0 °F). The lemon juice prevents browning and the sugar protects the texture. Pack the slices with their syrup into airtight containers, leaving a little headspace for expansion.",
+    "thawing": "Thaw sliced fruit in the fridge and use it the same day, or cook it straight from frozen in crumbles and compotes. Thawed slices are soft and juicy rather than firm.",
+    "spoilage": [
+      "Brown, sunken bruises or fruit leaking juice",
+      "Grey or white fuzzy mould, often at the stem",
+      "Fermented, alcoholic or vinegary smell",
+      "Dry, mealy flesh that has lost its juiciness"
+    ],
+    "tips": [
+      "Ripen in a paper bag on the counter, then refrigerate the same day it softens",
+      "Store ripe fruit in a single layer so pieces do not bruise each other",
+      "Slice with lemon juice and sugar before freezing to protect colour and texture",
+      "Buy fruit that smells fragrant at the stem — colour alone is unreliable"
+    ],
+    "faq": [
+      {"q": "How long do peaches last in the fridge?", "a": "Ripe fruit keeps 3–5 days at 4 °C (40 °F) or below. Unripe fruit should stay on the counter until it softens, then go into the fridge."},
+      {"q": "Can you freeze peaches and plums?", "a": "Yes. Slice them and toss with lemon juice and sugar, then freeze in airtight containers for about 2 months at −18 °C (0 °F)."},
+      {"q": "Why did my peach turn mealy?", "a": "Mealiness usually comes from chilling fruit before it is ripe, or from storing it cold for too long. Ripen on the counter first, then refrigerate."}
+    ]
+  },
+  "zh": {
+    "name": "桃、油桃、李子與梨",
+    "aliases": ["水蜜桃", "油桃", "李子", "梨子", "人心果"],
+    "summary": "這些軟質水果都是硬的時候採收、在室溫後熟，逐漸變軟、散發香氣、達到可食狀態。室溫放到成熟為止，熟了之後常溫只能再放 1～2 天，建議直接移到冰箱，成熟的果實冷藏可放 3～5 天。切片後拌檸檬汁和糖，冷凍約可保存 2 個月。",
+    "pantry": "還硬的水果單層放在室溫、避開陽光直射，直到輕壓會下陷、蒂頭聞得到甜香。熟了之後在常溫只能撐 1～2 天就會變粉或發酵，所以要盡快冷藏。放進紙袋可以加速後熟，再加一顆蘋果或香蕉會更快。",
+    "fridge": "熟了之後放進 4°C 以下的冰箱，可保存 3～5 天。用淺容器或蔬果保鮮室單層擺放，避免上層的重量壓傷下面的果實。吃之前先拿出來放 20～30 分鐘，因為低溫會明顯壓抑核果類的香氣。",
+    "freezer": "冷凍的建議是針對切片後拌上檸檬汁和糖的做法，放 −18°C 約可保存 2 個月。檸檬汁能防止褐變，糖則能保護質地。把果片連同滲出的糖液一起裝進密封容器，上方留一點膨脹空間。",
+    "thawing": "切片放冷藏室退冰後當天用完，或直接從冷凍下鍋做烤酥皮甜點和糖煮水果。解凍後的果片會軟嫩多汁，不再脆實。",
+    "spoilage": [
+      "出現褐色凹陷的碰傷，或果實在滲汁",
+      "長出灰白色毛狀黴菌，常從蒂頭開始",
+      "有發酵味、酒精味或醋酸味",
+      "果肉變乾、口感發粉，失去多汁感"
+    ],
+    "tips": [
+      "用紙袋在室溫催熟，變軟的當天就放進冰箱",
+      "熟果單層擺放，避免互相壓傷",
+      "冷凍前切片拌檸檬汁和糖，可以保色又保口感",
+      "挑蒂頭聞得到香氣的，光看顏色並不可靠"
+    ],
+    "faq": [
+      {"q": "水蜜桃放冰箱可以放多久？", "a": "成熟的果實放 4°C 以下可放 3～5 天。還沒熟的請先放室溫變軟，再移進冰箱。"},
+      {"q": "桃子和李子可以冷凍嗎？", "a": "可以。切片後拌上檸檬汁和糖，裝密封容器放 −18°C 冷凍約 2 個月。"},
+      {"q": "為什麼我的桃子口感變粉了？", "a": "通常是因為還沒熟就冷藏，或冷藏放太久。請先在室溫催熟，熟了再放冰箱。"}
+    ]
+  },
+  "ja": {
+    "name": "桃・ネクタリン・すもも・洋なし",
+    "aliases": ["もも", "ネクタリン", "プラム", "洋なし", "サポテ"],
+    "summary": "これらのやわらかい果物は固い状態で収穫され、常温で追熟してやわらかく香り高くなります。食べごろまで常温に置き、その後は常温なら1〜2日、冷蔵に移せば3〜5日が目安です。スライスしてレモン汁と砂糖をまぶせば、約2か月冷凍できます。",
+    "pantry": "固い果物は直射日光を避けて重ねず一段に並べ、軽く押して沈み、軸から甘い香りがするまで追熟させます。熟したあと常温では1〜2日でぼそぼそになったり発酵したりするので、早めに冷蔵しましょう。紙袋に入れると追熟が早まり、りんごやバナナを一緒に入れるとさらに早くなります。",
+    "fridge": "熟したら4℃以下で冷蔵し、3〜5日を目安に。浅い容器か野菜室に一段で並べ、下の実が重みでつぶれないようにします。冷えていると核果類の香りははっきり弱まるので、食べる20〜30分前に出しておきましょう。",
+    "freezer": "冷凍の目安は、スライスしてレモン汁と砂糖をまぶした状態に当てはまり、−18℃で約2か月です。レモン汁が変色を防ぎ、砂糖が食感を守ります。出てきたシロップごと密閉容器に詰め、膨張分の空間を少し残しておきましょう。",
+    "thawing": "スライスは冷蔵庫で解凍してその日のうちに使うか、凍ったままクランブルやコンポートに。解凍後はしっかりした食感ではなく、やわらかくジューシーになります。",
+    "spoilage": [
+      "茶色くへこんだ傷や、果汁がしみ出している",
+      "灰色や白のふわふわしたカビ（軸のあたりに多い）",
+      "発酵臭、アルコール臭、酢のようなにおい",
+      "みずみずしさが失われ、粉っぽくぼそぼそしている"
+    ],
+    "tips": [
+      "紙袋で常温追熟し、やわらかくなった当日に冷蔵庫へ",
+      "熟した果物は一段に並べ、互いにつぶさないように",
+      "冷凍前にスライスしてレモン汁と砂糖をまぶすと色と食感を守れます",
+      "軸から香りがするものを選びましょう。色だけでは判断できません"
+    ],
+    "faq": [
+      {"q": "桃は冷蔵庫でどのくらい持ちますか？", "a": "完熟したものは4℃以下で3〜5日です。未熟なものは常温でやわらかくしてから冷蔵してください。"},
+      {"q": "桃やすももは冷凍できますか？", "a": "できます。スライスしてレモン汁と砂糖をまぶし、密閉容器で−18℃で約2か月保存できます。"},
+      {"q": "桃がぼそぼそになるのはなぜですか？", "a": "未熟なうちに冷やしたか、冷蔵しすぎたことが主な原因です。まず常温で追熟させ、熟してから冷蔵しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Melocotones, nectarinas, ciruelas y peras",
+    "aliases": ["duraznos", "nectarinas", "ciruelas", "peras", "zapote"],
+    "summary": "Estas frutas blandas se recolectan firmes y maduran en la encimera, volviéndose tiernas, aromáticas y listas para comer. Déjalas a temperatura ambiente hasta que maduren y consúmelas entonces en 1–2 días o pásalas a la nevera, donde la fruta madura dura 3–5 días. En rodajas con zumo de limón y azúcar se congelan alrededor de 2 meses.",
+    "pantry": "Coloca la fruta firme en la encimera en una sola capa, fuera del sol directo, hasta que ceda a la presión suave y huela dulce junto al rabito. Ya madura solo aguanta 1–2 días fuera antes de volverse harinosa o fermentar, así que refrigérala pronto. Una bolsa de papel acelera la maduración, y una manzana o un plátano dentro la aceleran aún más.",
+    "fridge": "Una vez madura, refrigérala a 4 °C (40 °F) o menos, donde dura 3–5 días. Guárdala en un recipiente bajo o en el cajón de verduras en una sola capa para que el peso no magulle la fruta de abajo. Sácala 20–30 minutos antes de comerla, porque el frío apaga notablemente el aroma de la fruta de hueso.",
+    "freezer": "La guía de congelación se aplica a la fruta en rodajas mezclada con zumo de limón y azúcar, que dura alrededor de 2 meses a −18 °C (0 °F). El limón evita el oscurecimiento y el azúcar protege la textura. Guarda las rodajas con su almíbar en recipientes herméticos dejando algo de espacio para la expansión.",
+    "thawing": "Descongela las rodajas en la nevera y úsalas el mismo día, o cocínalas congeladas en crumbles y compotas. Descongeladas quedan blandas y jugosas, no firmes.",
+    "spoilage": [
+      "Magulladuras pardas y hundidas o fruta que rezuma jugo",
+      "Moho gris o blanco, a menudo junto al rabito",
+      "Olor fermentado, alcohólico o avinagrado",
+      "Pulpa seca y harinosa que ha perdido su jugosidad"
+    ],
+    "tips": [
+      "Madúralas en bolsa de papel en la encimera y refrigéralas el mismo día que se ablanden",
+      "Guarda la fruta madura en una sola capa para que no se magullen entre sí",
+      "Córtalas con limón y azúcar antes de congelarlas para proteger color y textura",
+      "Compra fruta que huela junto al rabito: el color por sí solo no es fiable"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los melocotones en la nevera?", "a": "La fruta madura dura 3–5 días a 4 °C (40 °F) o menos. La verde debe ablandar en la encimera y pasar después a la nevera."},
+      {"q": "¿Se pueden congelar melocotones y ciruelas?", "a": "Sí. Córtalos en rodajas, mézclalos con zumo de limón y azúcar y congélalos en recipientes herméticos unos 2 meses a −18 °C (0 °F)."},
+      {"q": "¿Por qué mi melocotón quedó harinoso?", "a": "La textura harinosa suele venir de enfriar la fruta antes de que madure, o de tenerla demasiado tiempo en frío. Madúrala fuera y refrigérala después."}
+    ]
+  }
+}

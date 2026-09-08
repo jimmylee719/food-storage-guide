@@ -1,0 +1,107 @@
+{
+  "slug": "ham-country-ham",
+  "en": {
+    "name": "Country ham (whole or half)",
+    "aliases": ["dry-cured ham", "salt-cured ham", "Virginia ham", "aged country ham"],
+    "summary": "Country ham is a dry salt-cured, aged and often smoked pork leg with a firm texture and very salty, concentrated flavour. An uncut country ham is traditionally hung at cool room temperature, but once you buy it chilled or cut into it, keep it refrigerated at 4 °C (40 °F) or below for about 1 week, or freeze it 1–2 months at −18 °C (0 °F).",
+    "pantry": "A whole, uncut, properly dry-cured country ham in its cloth bag can hang in a cool, dry place for a long time; that is how it was traditionally stored. Once it is sliced, cooked, soaked or sold chilled, it behaves like any other cured meat and belongs in the fridge. Surface mould on an ageing whole ham is normal and is scrubbed off before soaking; anything cut and left in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) beyond 2 hours should be discarded.",
+    "fridge": "Wrap a cut country ham tightly in foil, cloth or paper and keep it at 4 °C (40 °F) or below for about 1 week from the day of purchase. The cut face dries and hardens fast, which is not dangerous but does make carving harder, so press the wrapping right onto it. Store slices in an airtight container so their strong smoky aroma does not spread through the fridge.",
+    "freezer": "Freeze at −18 °C (0 °F) for 1–2 months of best quality; salt and long ageing mean the fat turns rancid faster than in fresh pork, though the meat remains safe indefinitely. Portion it first — a little country ham goes a long way — and wrap each piece tightly before bagging with the air removed.",
+    "thawing": "Thaw in the fridge overnight for slices, or over a day or two for a large piece. Soak salty country ham in several changes of cold water in the fridge before cooking if you find it too strong. Never thaw or soak it at room temperature.",
+    "spoilage": [
+      "Sour, putrid or ammonia-like smell distinct from its normal sharp, aged aroma",
+      "Slimy or sticky surface, as opposed to the dry, firm feel it should have",
+      "Green, black or fuzzy mould on a cut face or on refrigerated slices",
+      "Rancid, paint-like smell from the fat, or a passed use-by date"
+    ],
+    "tips": [
+      "Soak slices in water or milk before frying to tame the saltiness.",
+      "Use country ham as a seasoning rather than a main portion — a little flavours a whole pot.",
+      "Wrap the cut face tightly so it does not dry into a hard crust.",
+      "Save the bone and trimmings for beans, greens or stock."
+    ],
+    "faq": [
+      {"q": "Can you freeze country ham?", "a": "Yes, at −18 °C (0 °F): safe indefinitely but best quality for 1–2 months, because the salt makes the fat go rancid faster."},
+      {"q": "How long does country ham last in the fridge?", "a": "About 1 week from the day of purchase at 4 °C (40 °F) or below once it has been cut or sold chilled."},
+      {"q": "Does country ham need to be refrigerated?", "a": "A whole uncut ham can hang in a cool, dry place, but once it is cut, cooked or bought chilled, keep it at 4 °C (40 °F) or below."}
+    ]
+  },
+  "zh": {
+    "name": "鄉村火腿（乾醃）",
+    "aliases": ["乾醃火腿", "鹽醃陳年火腿", "country ham", "維吉尼亞火腿"],
+    "summary": "鄉村火腿是用乾鹽醃製、經過陳放、通常再煙燻的豬後腿，質地紮實、味道極鹹而濃縮。整隻未切開的傳統上會吊在陰涼處；但只要是冷藏販售或已經切開，就要放在 4°C 以下冷藏約 1 週，或放 −18°C 冷凍 1～2 個月。",
+    "pantry": "完整、未切開、確實乾醃過的鄉村火腿，裝在布袋裡可以吊在陰涼乾燥處保存很久，這是傳統做法。但只要切開、煮過、泡過水或是冷藏販售的，就跟其他醃肉一樣要放冰箱。陳放中的整隻火腿表面長黴是正常的，泡水前刷掉即可；切開後的部分在 4～60°C 危險溫度帶超過 2 小時就要丟棄。",
+    "fridge": "切開的鄉村火腿請用鋁箔、布或紙緊緊包好，在 4°C 以下冷藏，從購買日起約 1 週。切面會很快變乾變硬——這不危險，但會比較難切，所以包裝要直接壓在切面上。切片請放密封容器，以免濃烈的煙燻味擴散到整個冰箱。",
+    "freezer": "放 −18°C 冷凍，品質以 1～2 個月為佳；高鹽和長時間陳放讓脂肪比新鮮豬肉更快酸敗，不過安全上仍可無限期保存。先分裝——鄉村火腿一點點就很夠味——每份包緊後裝袋擠出空氣。",
+    "thawing": "切片放冷藏室解凍一晚，大塊的可能要一到兩天。覺得太鹹的話，可以在冰箱裡用冷水多次換水浸泡再烹調。絕對不要在室溫解凍或泡水。",
+    "spoilage": [
+      "出現有別於原本濃烈陳香的酸味、腐敗味或阿摩尼亞味",
+      "表面變得黏滑，而不是原本乾爽紮實的手感",
+      "切面或冷藏的切片上長出綠色、黑色或絨毛狀的黴",
+      "脂肪散發油耗、像油漆的氣味，或已超過有效日期"
+    ],
+    "tips": [
+      "煎之前先用水或牛奶泡一下，可以降低鹹度。",
+      "把鄉村火腿當調味料而不是主菜份量，一點點就能提整鍋的味。",
+      "切面包緊，避免乾成硬殼。",
+      "骨頭和邊角料留下來煮豆子、燉青菜或熬高湯。"
+    ],
+    "faq": [
+      {"q": "鄉村火腿可以冷凍嗎？", "a": "可以，放 −18°C 冷凍：安全上無限期，品質以 1～2 個月為佳，因為鹽分會讓脂肪較快酸敗。"},
+      {"q": "鄉村火腿放冰箱可以放多久？", "a": "切開或冷藏販售的，在 4°C 以下冷藏，從購買日起約 1 週。"},
+      {"q": "鄉村火腿一定要冰嗎？", "a": "整隻未切開的可以吊在陰涼乾燥處；但只要切開、煮過或是冷藏買回來的，就要保持在 4°C 以下。"}
+    ]
+  },
+  "ja": {
+    "name": "カントリーハム（乾塩熟成ハム）",
+    "aliases": ["ドライキュアードハム", "塩漬け熟成ハム", "生ハム（塩蔵タイプ）", "バージニアハム"],
+    "summary": "カントリーハムは、乾いた塩でしっかり漬け込み、熟成させ、多くは燻製にした豚もも肉で、身が締まり、強い塩気と凝縮した風味が特徴です。丸ごと未カットのものは涼しい場所に吊るす伝統的な保存もありますが、冷蔵で購入したりカットしたりしたら4℃以下で約1週間、−18℃の冷凍なら1〜2か月が目安です。",
+    "pantry": "きちんと乾塩熟成された丸ごと未カットのハムは、布袋に入れて涼しく乾燥した場所に長く吊るせます（これが伝統的な保管法です）。しかし、切った・加熱した・水に浸けた・冷蔵で売られていたものは、ほかの塩せき肉と同じで冷蔵が必要です。熟成中の表面のカビは正常で、水に浸ける前にこすり落とします。カットしたものが4〜60℃の危険温度帯に2時間以上あった場合は処分してください。",
+    "fridge": "切ったカントリーハムはホイルや布、紙できっちり包み、4℃以下で購入日から約1週間保存します。切り口はすぐ乾いて硬くなります。危険ではありませんが切り分けにくくなるので、包材を断面に密着させましょう。スライスは密閉容器に入れ、強い燻製香が庫内に広がらないようにします。",
+    "freezer": "−18℃で品質の目安は1〜2か月。塩分と長い熟成により、生の豚肉より脂の酸化が早く進みます（安全面では長期間保存できます）。少量でも十分に風味が出る食材なので、まず小分けにし、1つずつ密着させて包んでから袋の空気を抜きます。",
+    "thawing": "スライスなら冷蔵庫で一晩、大きなかたまりなら1〜2日かけて解凍します。塩気が強すぎる場合は、冷蔵庫で冷水を数回替えながら塩抜きしてから調理してください。常温での解凍・塩抜きは避けます。",
+    "spoilage": [
+      "本来の鋭い熟成香とは違う、酸敗臭・腐敗臭・アンモニア臭がする",
+      "本来の乾いて締まった手ざわりではなく、表面がぬめる・べたつく",
+      "切り口や冷蔵中のスライスに緑・黒・毛羽立ったカビが出ている",
+      "脂からペンキのような酸敗臭がする、消費期限を過ぎている"
+    ],
+    "tips": [
+      "焼く前に水や牛乳に浸けると塩気がやわらぐ。",
+      "主菜としてではなく調味料として使う。少量で鍋全体に風味がつく。",
+      "断面をきつく包み、硬い皮のように乾かないようにする。",
+      "骨や端切れは豆料理、青菜の煮込み、だしに活用する。"
+    ],
+    "faq": [
+      {"q": "カントリーハムは冷凍できますか？", "a": "できます。−18℃で安全面では長期間ですが、品質の目安は1〜2か月です。塩分の影響で脂の酸化が早く進みます。"},
+      {"q": "カントリーハムは冷蔵庫で何日もちますか？", "a": "カット済みや冷蔵販売のものは、4℃以下で購入日から約1週間が目安です。"},
+      {"q": "カントリーハムは冷蔵が必要ですか？", "a": "丸ごと未カットなら涼しく乾いた場所に吊るせますが、切った・加熱した・冷蔵で買ったものは4℃以下で保存してください。"}
+    ]
+  },
+  "es": {
+    "name": "Jamón curado en seco (entero o medio)",
+    "aliases": ["jamón de campo", "jamón curado con sal", "country ham", "jamón añejo"],
+    "summary": "El jamón curado en seco es una pierna de cerdo salada, añejada y a menudo ahumada, de textura firme y sabor muy salado y concentrado. Una pieza entera sin cortar se cuelga tradicionalmente en un lugar fresco, pero si lo compras refrigerado o ya lo has cortado, guárdalo a 4 °C (40 °F) o menos alrededor de 1 semana, o congélalo 1–2 meses a −18 °C (0 °F).",
+    "pantry": "Un jamón entero, sin cortar y correctamente curado en seco puede colgar mucho tiempo en su bolsa de tela en un sitio fresco y seco: así se guardaba tradicionalmente. En cuanto se corta, se cocina, se desala o se vende refrigerado, se comporta como cualquier otra carne curada y va al refrigerador. El moho superficial de un jamón en curación es normal y se cepilla antes de desalar; lo ya cortado que pase más de 2 horas en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F) debe desecharse.",
+    "fridge": "Envuelve el jamón cortado bien apretado en aluminio, tela o papel y guárdalo a 4 °C (40 °F) o menos alrededor de 1 semana desde la compra. La cara del corte se seca y endurece rápido; no es peligroso, pero dificulta el corte, así que pega el envoltorio sobre ella. Guarda las lonchas en un recipiente hermético para que su aroma ahumado no invada el refrigerador.",
+    "freezer": "Congélalo a −18 °C (0 °F) durante 1–2 meses de mejor calidad; la sal y el largo añejamiento hacen que la grasa se enrancie antes que en el cerdo fresco, aunque la carne siga segura indefinidamente. Divídelo primero —un poco de este jamón rinde mucho— y envuelve cada pieza antes de embolsarla sin aire.",
+    "thawing": "Descongela las lonchas en el refrigerador durante una noche, o una pieza grande en uno o dos días. Si te resulta muy salado, desálalo en varios cambios de agua fría dentro del refrigerador antes de cocinarlo. Nunca lo descongeles ni lo desales a temperatura ambiente.",
+    "spoilage": [
+      "Olor agrio, pútrido o a amoníaco, distinto de su aroma añejo y punzante habitual",
+      "Superficie viscosa o pegajosa en lugar del tacto seco y firme que debería tener",
+      "Moho verde, negro o afelpado en la cara cortada o en lonchas refrigeradas",
+      "Olor rancio, como a pintura, en la grasa, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Remoja las lonchas en agua o leche antes de freírlas para suavizar la sal.",
+      "Úsalo como condimento más que como ración principal: un poco da sabor a toda una olla.",
+      "Envuelve bien la cara cortada para que no se seque formando costra.",
+      "Aprovecha el hueso y los recortes en legumbres, verduras guisadas o caldos."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el jamón curado en seco?", "a": "Sí, a −18 °C (0 °F): seguro indefinidamente pero con la mejor calidad 1–2 meses, porque la sal enrancia la grasa más rápido."},
+      {"q": "¿Cuánto dura este jamón en el refrigerador?", "a": "Alrededor de 1 semana desde el día de compra a 4 °C (40 °F) o menos, una vez cortado o si se vendió refrigerado."},
+      {"q": "¿Necesita refrigeración el jamón curado en seco?", "a": "Una pieza entera sin cortar puede colgar en un sitio fresco y seco, pero en cuanto se corta, se cocina o se compra refrigerada, hay que mantenerla a 4 °C (40 °F) o menos."}
+    ]
+  }
+}

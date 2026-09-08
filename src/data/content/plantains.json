@@ -1,0 +1,107 @@
+{
+  "slug": "plantains",
+  "en": {
+    "name": "Plantains",
+    "aliases": ["cooking bananas", "green plantain", "ripe plantain", "maduros", "tostones"],
+    "summary": "Plantains are starchy cooking bananas that ripen slowly from green through yellow to black, getting sweeter and softer at each stage. Keep them at room temperature until they reach the ripeness you want, then use them within 1–2 days or refrigerate, where ripe plantains keep 3–5 days. They freeze for 10–12 months.",
+    "pantry": "Store plantains uncovered on the counter, away from direct sun and heat, and let them ripen to the stage your recipe needs: green and firm for savoury tostones, yellow with black spots for sweet maduros, fully black for the softest, sweetest results. Ripening from green to black can take a week or more. Once at the stage you want, they hold only 1–2 days at room temperature.",
+    "fridge": "Once ripe, refrigerate plantains at 4 °C (40 °F) or below, where they keep 3–5 days. The skin will turn black in the cold, which is normal and does not mean the flesh has spoiled. Do not refrigerate green plantains, as the cold interrupts ripening and they stay starchy and hard.",
+    "freezer": "Plantains freeze for 10–12 months at −18 °C (0 °F). Peel them first — the skin is very hard to remove once frozen — then slice or leave whole, freeze on a tray and bag. You can also freeze fried tostones or maduros and reheat them in the oven or air fryer.",
+    "thawing": "Cook frozen plantain slices straight from the freezer, adding a couple of minutes to the cooking time, or thaw them in the fridge. Never thaw at room temperature for hours.",
+    "spoilage": [
+      "Mushy, liquid flesh that has collapsed inside the skin",
+      "Fermented, alcoholic or sour smell",
+      "Mould on the skin or at the cut stem",
+      "Grey or brown flesh when peeled rather than pale cream or yellow"
+    ],
+    "tips": [
+      "Choose the ripeness to match the dish: green for tostones, black for maduros",
+      "Score the skin lengthways and lever it off — plantain skin does not peel like a banana",
+      "Peel before freezing, as frozen skin is almost impossible to remove",
+      "A black skin is normal on a ripe plantain and is not a sign of spoilage"
+    ],
+    "faq": [
+      {"q": "How long do plantains last in the fridge?", "a": "Ripe plantains keep 3–5 days at 4 °C (40 °F) or below. The skin blackens, which is normal. Do not refrigerate green plantains."},
+      {"q": "Can you freeze plantains?", "a": "Yes. Peel them first, then slice or leave whole and freeze at −18 °C (0 °F) for 10–12 months. Cook the slices straight from frozen."},
+      {"q": "Is a black plantain still good?", "a": "Usually yes — a black skin means fully ripe and sweetest, which is what you want for maduros. Discard it only if the flesh is mushy, mouldy or smells fermented."}
+    ]
+  },
+  "zh": {
+    "name": "大蕉（料理用香蕉）",
+    "aliases": ["芭蕉", "料理蕉", "青蕉", "plantain", "煮食蕉"],
+    "summary": "大蕉是澱粉含量高的料理用香蕉，會從綠色慢慢轉黃、再轉黑，每個階段都更甜更軟。放在室溫直到達到你要的成熟度，之後常溫再放 1～2 天就要用掉，或直接冷藏，成熟的大蕉可放 3～5 天。冷凍則可保存 10～12 個月。",
+    "pantry": "大蕉直接放在檯面上不加蓋，遠離陽光直射和熱源，讓它熟到你的食譜需要的階段：青綠結實適合做鹹的炸蕉餅，轉黃帶黑斑適合做甜的煎熟蕉，全黑則最軟最甜。從綠色到全黑可能需要一週以上。到了想要的階段後，常溫只能再撐 1～2 天。",
+    "fridge": "熟了之後放進 4°C 以下的冰箱，可保存 3～5 天。外皮在低溫下會變黑，這是正常現象，不代表裡面的果肉壞掉。青綠色的大蕉不要冷藏，低溫會中斷後熟，讓它一直維持硬硬的、澱粉感重的狀態。",
+    "freezer": "大蕉放 −18°C 冷凍可保存 10～12 個月。務必先剝皮，因為凍過之後皮幾乎剝不下來；接著切片或整根冷凍，先鋪盤定型再裝袋。也可以把炸好的蕉片冷凍，之後用烤箱或氣炸鍋回熱。",
+    "thawing": "冷凍的蕉片可以直接下鍋，烹調時間多加幾分鐘；或是放冷藏室退冰。不要在室溫放好幾個小時退冰。",
+    "spoilage": [
+      "果肉在皮裡爛成糊狀、出水",
+      "有發酵味、酒精味或酸味",
+      "外皮或切口的蒂頭處長黴",
+      "剝開後果肉呈灰色或褐色，而不是乳白或淡黃"
+    ],
+    "tips": [
+      "依料理選成熟度：青蕉做炸蕉餅，全黑做甜煎蕉",
+      "沿著長邊劃一刀再把皮撬開，大蕉的皮不像香蕉那樣好剝",
+      "冷凍前一定要先剝皮，凍過的皮幾乎剝不下來",
+      "外皮全黑是成熟大蕉的正常樣子，不代表壞掉"
+    ],
+    "faq": [
+      {"q": "大蕉放冰箱可以放多久？", "a": "成熟的大蕉放 4°C 以下可放 3～5 天。外皮會變黑，這是正常的。青綠色的不要冷藏。"},
+      {"q": "大蕉可以冷凍嗎？", "a": "可以。先剝皮，再切片或整根放 −18°C 冷凍 10～12 個月。蕉片可以直接冷凍下鍋。"},
+      {"q": "全黑的大蕉還能吃嗎？", "a": "通常可以，全黑代表完全成熟、最甜，正是做甜煎蕉需要的狀態。只有果肉爛掉、發霉或聞起來發酵時才要丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "プランテン（調理用バナナ）",
+    "aliases": ["プランテーン", "料理用バナナ", "調理バナナ", "グリーンバナナ"],
+    "summary": "プランテンはでんぷん質の多い調理用バナナで、緑から黄色、そして黒へとゆっくり熟し、その都度甘くやわらかくなります。目的の熟度になるまで常温に置き、その後は常温なら1〜2日、冷蔵なら3〜5日が目安です。冷凍なら10〜12か月保存できます。",
+    "pantry": "直射日光と熱を避けて、ふたをせず調理台に置き、レシピに合った熟度まで追熟させます。緑で固いものは塩味のトストーネス向き、黄色に黒い斑点が出たものは甘いマドゥロス向き、真っ黒なら最もやわらかく甘い仕上がりになります。緑から黒までは1週間以上かかることも。狙いの状態になったら常温では1〜2日が限度です。",
+    "fridge": "熟したら4℃以下で冷蔵し、3〜5日が目安です。低温で皮は黒くなりますが、これは正常で果肉が傷んだ意味ではありません。緑のプランテンは冷蔵しないでください。追熟が止まり、固くでんぷん質のままになります。",
+    "freezer": "−18℃で10〜12か月冷凍できます。凍らせると皮がほとんどむけなくなるので、必ず先に皮をむいてから、切るか丸ごとバットで凍らせて袋へ。揚げたトストーネスやマドゥロスを冷凍し、オーブンやエアフライヤーで温め直すこともできます。",
+    "thawing": "凍った輪切りはそのまま調理し、加熱時間を数分長めに。または冷蔵庫で解凍します。室温で何時間も置かないでください。",
+    "spoilage": [
+      "皮の中で果肉が崩れ、どろどろになっている",
+      "発酵臭、アルコール臭、酸っぱいにおい",
+      "皮や切った軸の部分にカビ",
+      "むいた果肉が乳白色や淡い黄色ではなく灰色や茶色"
+    ],
+    "tips": [
+      "料理に合わせて熟度を選びましょう。緑はトストーネス、黒はマドゥロスに",
+      "縦に切れ目を入れて皮をはがします。バナナのようにはむけません",
+      "冷凍前に必ず皮をむくこと。凍った皮はほぼむけません",
+      "皮が真っ黒なのは完熟の証で、傷みのサインではありません"
+    ],
+    "faq": [
+      {"q": "プランテンは冷蔵庫でどのくらい持ちますか？", "a": "熟したものは4℃以下で3〜5日です。皮は黒くなりますが正常。緑のものは冷蔵しないでください。"},
+      {"q": "プランテンは冷凍できますか？", "a": "できます。先に皮をむき、切るか丸ごと−18℃で10〜12か月。輪切りは凍ったまま調理できます。"},
+      {"q": "皮が真っ黒なプランテンは食べられますか？", "a": "たいてい大丈夫です。完熟して最も甘い状態で、マドゥロス向きです。果肉が崩れている、カビている、発酵臭がする場合だけ処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Plátanos macho",
+    "aliases": ["plátano de cocinar", "plátano verde", "plátano maduro", "tostones", "maduros"],
+    "summary": "El plátano macho es un plátano feculento de cocinar que madura despacio del verde al amarillo y al negro, volviéndose más dulce y blando en cada etapa. Mantenlo a temperatura ambiente hasta el punto que necesites, y úsalo entonces en 1–2 días o refrigéralo, donde el maduro dura 3–5 días. Se congela 10–12 meses.",
+    "pantry": "Guárdalos destapados en la encimera, lejos del sol y del calor, y deja que alcancen el punto que pide la receta: verde y firme para tostones salados, amarillo con manchas negras para maduros dulces, completamente negro para el resultado más blando y dulce. Pasar de verde a negro puede llevar una semana o más. Ya en su punto, aguantan solo 1–2 días fuera.",
+    "fridge": "Una vez maduros, refrigéralos a 4 °C (40 °F) o menos, donde duran 3–5 días. La piel se vuelve negra con el frío, algo normal que no significa que la pulpa se haya estropeado. No refrigeres plátanos verdes: el frío interrumpe la maduración y quedan duros y feculentos.",
+    "freezer": "Se congelan 10–12 meses a −18 °C (0 °F). Pélalos primero, porque la piel es casi imposible de quitar una vez congelada; después córtalos o déjalos enteros, congélalos en bandeja y embólsalos. También puedes congelar tostones o maduros ya fritos y recalentarlos en el horno o la freidora de aire.",
+    "thawing": "Cocina las rodajas congeladas directamente añadiendo un par de minutos, o descongélalas en la nevera. Nunca las descongeles horas a temperatura ambiente.",
+    "spoilage": [
+      "Pulpa deshecha y líquida dentro de la piel",
+      "Olor fermentado, alcohólico o agrio",
+      "Moho en la piel o en el extremo cortado del tallo",
+      "Pulpa gris o parda al pelarlo en lugar de color crema o amarillo"
+    ],
+    "tips": [
+      "Elige el punto de maduración según el plato: verde para tostones, negro para maduros",
+      "Haz un corte a lo largo de la piel y haz palanca: no se pela como un plátano de postre",
+      "Pélalos antes de congelarlos, porque la piel congelada es casi imposible de quitar",
+      "La piel negra es normal en un plátano macho maduro y no indica que esté malo"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los plátanos macho en la nevera?", "a": "Los maduros duran 3–5 días a 4 °C (40 °F) o menos. La piel se ennegrece, lo cual es normal. No refrigeres los verdes."},
+      {"q": "¿Se pueden congelar los plátanos macho?", "a": "Sí. Pélalos primero, córtalos o déjalos enteros y congélalos a −18 °C (0 °F) durante 10–12 meses. Cocina las rodajas congeladas."},
+      {"q": "¿Un plátano macho negro sigue siendo bueno?", "a": "Normalmente sí: la piel negra indica plena madurez y máximo dulzor, ideal para maduros. Deséchalo solo si la pulpa está deshecha, mohosa o huele fermentada."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "kiwi-fruit",
+  "en": {
+    "name": "Kiwi fruit",
+    "aliases": ["kiwifruit", "Chinese gooseberry", "golden kiwi", "green kiwi"],
+    "summary": "Kiwi fruit is picked firm and ripens off the vine, softening and sweetening at room temperature. Keep it on the counter only until ripe — tender to a gentle squeeze and ready to eat — then refrigerate, where ripe fruit keeps 3–6 days. Unripe kiwis can sit for a week or more before they soften.",
+    "pantry": "Leave firm kiwis on the counter, out of direct sun, until they yield to gentle pressure at the ends. To speed things up, put them in a paper bag with an apple or banana, whose ethylene ripens them within a couple of days. Once ripe, do not leave them out; in a warm kitchen they go from soft to fermented within a day or two.",
+    "fridge": "Once ripe, refrigerate kiwis at 4 °C (40 °F) or below, where they keep 3–6 days. Store them away from apples, bananas and other ethylene producers, which will over-ripen them quickly even in the fridge. Cut kiwi should be kept in an airtight container and eaten within a day, as the flesh weeps.",
+    "freezer": "USDA gives no freezer timeline for kiwi. In practice, sliced or puréed kiwi freezes reasonably: peel, slice and freeze on a tray, then bag. The texture softens on thawing, so use it for smoothies and sauces rather than fresh fruit salads. Raw kiwi contains actinidin, which prevents gelatin setting.",
+    "thawing": "Blend frozen kiwi straight into smoothies, or thaw slices in the fridge for a soft, juicy result. Do not thaw at room temperature for hours.",
+    "spoilage": [
+      "Very soft, collapsed fruit that leaks when handled",
+      "Fermented, alcoholic or sour smell",
+      "Mould at the stem end or on the fuzzy skin",
+      "Brown, watery or slimy flesh when cut open"
+    ],
+    "tips": [
+      "Buy firm kiwis and ripen them at home to control the timing",
+      "Ripen fast in a paper bag with an apple or banana",
+      "Refrigerate the moment they are ripe to stop the clock",
+      "Do not add raw kiwi to gelatin desserts — its enzymes stop them setting"
+    ],
+    "faq": [
+      {"q": "How long does kiwi last in the fridge?", "a": "Ripe kiwis keep 3–6 days at 4 °C (40 °F) or below. Unripe ones should stay on the counter until they soften."},
+      {"q": "Can you freeze kiwi?", "a": "Yes, though the texture softens. Peel, slice and freeze on a tray, then bag it, and use it for smoothies and sauces rather than fresh."},
+      {"q": "How do you ripen a kiwi quickly?", "a": "Put it in a paper bag with an apple or banana at room temperature. The ethylene they release usually softens it within a day or two."}
+    ]
+  },
+  "zh": {
+    "name": "奇異果",
+    "aliases": ["獼猴桃", "彌猴桃", "黃金奇異果", "綠奇異果", "中華獼猴桃"],
+    "summary": "奇異果是硬的時候採收、離藤後才後熟的水果，在室溫下會慢慢變軟變甜。買回來先放室溫直到成熟——輕壓會下陷、可以入口的狀態——再移到冰箱，成熟的奇異果冷藏可放 3～6 天。還沒熟的可以放一週以上才變軟。",
+    "pantry": "還硬的奇異果放在室溫、避開陽光直射，直到兩端輕壓會下陷。想加快的話，和蘋果或香蕉一起放進紙袋，它們釋放的乙烯通常一兩天內就能催熟。熟了之後就不要再放常溫，在悶熱的廚房裡一兩天就會從軟熟變成發酵。",
+    "fridge": "熟了之後放進 4°C 以下的冰箱，可保存 3～6 天。要遠離蘋果、香蕉等會釋放乙烯的水果，就算在冰箱裡也會被催得過熟。切開的奇異果請裝密封盒並在一天內吃完，因為果肉會出水。",
+    "freezer": "USDA 沒有提供奇異果的冷凍期限。實務上切片或打泥冷凍效果還可以：削皮切片後平鋪冷凍再裝袋。解凍後質地會變軟，適合打果昔或做醬汁，不適合放進新鮮水果沙拉。另外生奇異果含有奇異果蛋白酶，會讓吉利丁無法凝固。",
+    "thawing": "冷凍的奇異果可以直接打成果昔；想要果肉狀就放冷藏室退冰，會變得軟嫩多汁。不要在室溫放好幾個小時退冰。",
+    "spoilage": [
+      "整顆非常軟、塌掉，一拿就滲汁",
+      "有發酵味、酒精味或酸味",
+      "蒂頭或帶毛的外皮長黴",
+      "切開後果肉變褐、出水或黏滑"
+    ],
+    "tips": [
+      "買硬的回家自己催熟，時間比較好掌握",
+      "和蘋果或香蕉一起放紙袋可以快速催熟",
+      "一熟就立刻冷藏，把時間凍住",
+      "生奇異果不要加進吉利丁甜點，酵素會讓它凝固不了"
+    ],
+    "faq": [
+      {"q": "奇異果放冰箱可以放多久？", "a": "成熟的奇異果放 4°C 以下可放 3～6 天。還沒熟的請先放室溫變軟。"},
+      {"q": "奇異果可以冷凍嗎？", "a": "可以，但質地會變軟。削皮切片後平鋪冷凍再裝袋，適合打果昔或做醬汁。"},
+      {"q": "怎麼讓奇異果快點熟？", "a": "和蘋果或香蕉一起放進紙袋、置於室溫。它們釋放的乙烯通常一兩天內就能讓它變軟。"}
+    ]
+  },
+  "ja": {
+    "name": "キウイフルーツ",
+    "aliases": ["キウイ", "ゴールドキウイ", "グリーンキウイ", "オニマタタビ"],
+    "summary": "キウイは固い状態で収穫され、つるを離れてから常温でやわらかく甘くなります。常温に置くのは食べごろ（軽く押してやわらかい状態）までにし、その後は冷蔵へ。完熟したものは3〜6日が目安です。未熟なものは1週間以上かけてやわらかくなります。",
+    "pantry": "固いキウイは直射日光を避けて常温に置き、両端を軽く押して沈むまで追熟させます。急ぐときはりんごやバナナと一緒に紙袋へ入れると、エチレンの働きで1〜2日でやわらかくなります。熟したら常温に置かないこと。暑い台所では1〜2日で発酵してしまいます。",
+    "fridge": "熟したら4℃以下で冷蔵し、3〜6日を目安に。りんごやバナナなどエチレンを出す果物からは離してください。冷蔵庫の中でも一気に熟しすぎてしまいます。切ったものは密閉容器に入れ、果肉から水が出るので1日以内に食べ切りましょう。",
+    "freezer": "USDAはキウイの冷凍期間を示していません。実際にはスライスやピューレならまずまず冷凍できます。皮をむいて切り、バットで凍らせてから袋へ。解凍後はやわらかくなるので、フルーツサラダよりスムージーやソース向きです。なお生のキウイに含まれる酵素はゼラチンを固まらなくします。",
+    "thawing": "凍ったままスムージーに使うか、スライスを冷蔵庫で解凍してやわらかくジューシーに。室温で何時間も置かないでください。",
+    "spoilage": [
+      "全体が非常にやわらかく崩れ、持つと汁が出る",
+      "発酵臭、アルコール臭、酸っぱいにおい",
+      "軸の部分や産毛のある皮にカビ",
+      "切ると果肉が茶色い、水っぽい、ぬめっている"
+    ],
+    "tips": [
+      "固いものを買って家で追熟すると、食べるタイミングを調整できます",
+      "りんごやバナナと紙袋に入れると早く熟します",
+      "熟したらすぐ冷蔵して進行を止めましょう",
+      "生のキウイはゼリーに入れないこと。酵素で固まらなくなります"
+    ],
+    "faq": [
+      {"q": "キウイは冷蔵庫でどのくらい持ちますか？", "a": "完熟したものは4℃以下で3〜6日です。未熟なものは常温でやわらかくなるまで置きましょう。"},
+      {"q": "キウイは冷凍できますか？", "a": "できますが食感はやわらかくなります。皮をむいて切り、バットで凍らせてから袋へ。スムージーやソースに向きます。"},
+      {"q": "キウイを早く熟させるには？", "a": "りんごやバナナと一緒に紙袋に入れて常温に置きます。エチレンの働きで通常1〜2日でやわらかくなります。"}
+    ]
+  },
+  "es": {
+    "name": "Kiwi",
+    "aliases": ["kiwi verde", "kiwi amarillo", "grosella china", "actinidia"],
+    "summary": "El kiwi se recolecta firme y madura fuera de la planta, ablandándose y endulzándose a temperatura ambiente. Déjalo en la encimera solo hasta que esté maduro —blando a una presión suave y listo para comer— y refrigéralo entonces, donde la fruta madura dura 3–6 días. Los kiwis verdes pueden tardar una semana o más en ablandar.",
+    "pantry": "Deja los kiwis firmes en la encimera, fuera del sol directo, hasta que cedan a una presión suave en los extremos. Para acelerarlo, ponlos en una bolsa de papel con una manzana o un plátano, cuyo etileno los madura en un par de días. Una vez maduros no los dejes fuera: en una cocina cálida pasan de blandos a fermentados en uno o dos días.",
+    "fridge": "Ya maduros, refrigéralos a 4 °C (40 °F) o menos, donde duran 3–6 días. Guárdalos lejos de manzanas, plátanos y otros productores de etileno, que los pasan de punto incluso en frío. El kiwi cortado va en un recipiente hermético y se come en un día, porque la pulpa suelta líquido.",
+    "freezer": "El USDA no da un plazo de congelación para el kiwi. En la práctica se congela razonablemente en rodajas o puré: pélalo, córtalo, congélalo en bandeja y embólsalo. La textura se ablanda, así que úsalo para batidos y salsas en lugar de macedonias. El kiwi crudo contiene actinidina, que impide que la gelatina cuaje.",
+    "thawing": "Tritura el kiwi congelado directamente en batidos, o descongela las rodajas en la nevera para un resultado blando y jugoso. No lo descongeles horas a temperatura ambiente.",
+    "spoilage": [
+      "Fruta muy blanda y hundida que suelta líquido al manipularla",
+      "Olor fermentado, alcohólico o agrio",
+      "Moho en el extremo del rabito o sobre la piel vellosa",
+      "Pulpa parda, aguada o viscosa al abrirlo"
+    ],
+    "tips": [
+      "Compra kiwis firmes y madúralos en casa para controlar el momento",
+      "Acelera la maduración en una bolsa de papel con una manzana o un plátano",
+      "Refrigéralos en cuanto estén maduros para detener el proceso",
+      "No añadas kiwi crudo a postres con gelatina: sus enzimas impiden que cuajen"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el kiwi en la nevera?", "a": "Los kiwis maduros duran 3–6 días a 4 °C (40 °F) o menos. Los verdes deben ablandar antes en la encimera."},
+      {"q": "¿Se puede congelar el kiwi?", "a": "Sí, aunque la textura se ablanda. Pélalo, córtalo, congélalo en bandeja y embólsalo; úsalo en batidos y salsas más que en fresco."},
+      {"q": "¿Cómo se madura rápido un kiwi?", "a": "Ponlo en una bolsa de papel con una manzana o un plátano a temperatura ambiente. El etileno suele ablandarlo en uno o dos días."}
+    ]
+  }
+}
