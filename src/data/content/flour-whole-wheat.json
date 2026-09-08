@@ -1,0 +1,107 @@
+{
+  "slug": "flour-whole-wheat",
+  "en": {
+    "name": "Whole wheat flour",
+    "aliases": ["wholemeal flour", "graham flour", "wholegrain wheat flour", "atta"],
+    "summary": "Whole wheat flour keeps the bran and the oil-rich germ, which gives it more flavour and nutrition but a much shorter shelf life. In a cool, dry pantry it keeps 3–6 months from the date of purchase. Stored in an airtight container in the fridge after opening, it lasts 6–8 months before the germ oil turns rancid.",
+    "pantry": "In a cool, dry, dark cupboard whole wheat flour keeps 3–6 months from purchase — roughly half as long as white flour, because the germ oil oxidises. Keep it in an airtight container away from the stove, and buy the smallest bag that suits your baking. Wholegrain flours also attract weevils and pantry moths more readily.",
+    "fridge": "The fridge is the better home once the bag is open: in an airtight container at 4 °C (40 °F) or below it keeps 6–8 months. Cold slows the oxidation that causes rancidity and keeps insects out. Use a container that seals properly so the flour does not pick up fridge odours, and let it warm to room temperature before opening.",
+    "freezer": "USDA gives no freezer timeline for whole wheat flour, but freezing is widely used to protect high-oil wholegrain flours and is a sensible option if you buy in bulk. Seal it airtight, press out the air, and always let the container come to room temperature before opening so no moisture condenses inside.",
+    "thawing": null,
+    "spoilage": [
+      "Sharp, oily or paint-like rancid smell from the wheat germ",
+      "Bitter aftertaste in the finished bread or pancakes",
+      "Weevils, larvae, moths or webbing in the container",
+      "Clumping, dampness or mould specks"
+    ],
+    "tips": [
+      "Buy small bags and treat wholemeal flour as a fresh ingredient, not a long-term staple",
+      "Store it in the fridge from the day you open it",
+      "Smell the flour before every bake — rancidity is obvious once you look for it",
+      "Freeze a newly bought bag for 48 hours to kill insect eggs before decanting"
+    ],
+    "faq": [
+      {"q": "Why does whole wheat flour go bad faster than white flour?", "a": "It still contains the wheat germ, which is rich in oil. That oil oxidises and turns rancid, limiting pantry storage to 3–6 months from purchase."},
+      {"q": "Can you keep whole wheat flour in the fridge?", "a": "Yes, and it is the best option after opening: in an airtight container at 4 °C (40 °F) or below it keeps 6–8 months."},
+      {"q": "How can you tell if whole wheat flour is rancid?", "a": "Smell it. Rancid wholemeal flour smells sharp, oily or like old paint, and anything baked with it has a bitter aftertaste."}
+    ]
+  },
+  "zh": {
+    "name": "全麥麵粉",
+    "aliases": ["全麥粉", "全穀小麥粉", "石磨全麥粉", "atta"],
+    "summary": "全麥麵粉保留了麩皮和富含油脂的胚芽，風味和營養更豐富，但保存期短很多。放在陰涼乾燥的櫥櫃，從購買日起可放 3～6 個月。開封後改用密封容器冷藏，可保存 6～8 個月，之後胚芽油就會產生油耗味。",
+    "pantry": "放在陰涼乾燥的暗處，全麥麵粉從購買日起可放 3～6 個月，大約只有白麵粉的一半，因為胚芽油會氧化。請用密封容器裝好、遠離爐火，並且買符合你烘焙頻率的最小包裝。全穀粉類也比較容易招米象和穀蛾。",
+    "fridge": "開封後放冰箱比較好：密封容器放 4°C 以下可保存 6～8 個月。低溫能減緩造成油耗味的氧化反應，也能防蟲。容器要能確實密封，避免吸到冰箱異味，取出後先回到室溫再開蓋。",
+    "freezer": "USDA 沒有提供全麥麵粉的冷凍期限，但冷凍是保護高油脂全穀粉常見的做法，如果大量囤貨會很實用。密封擠出空氣即可，開蓋前務必讓容器回到室溫，以免內部凝結水氣。",
+    "thawing": null,
+    "spoilage": [
+      "小麥胚芽變質產生的刺鼻油味或像舊油漆的味道",
+      "做出來的麵包或鬆餅有苦後味",
+      "容器裡出現米象、幼蟲、小蛾或蛛絲",
+      "結塊、受潮或出現黴點"
+    ],
+    "tips": [
+      "買小包裝，把全麥麵粉當成新鮮食材而不是長期囤貨",
+      "開封當天就直接放冰箱保存",
+      "每次烘焙前先聞一下，油耗味只要留意就很明顯",
+      "新買的整袋先冷凍 48 小時殺蟲卵，再分裝"
+    ],
+    "faq": [
+      {"q": "全麥麵粉為什麼比白麵粉容易壞？", "a": "因為它保留了富含油脂的小麥胚芽，油脂氧化就會產生油耗味，所以常溫只能放 3～6 個月。"},
+      {"q": "全麥麵粉可以放冰箱嗎？", "a": "可以，而且開封後這是最好的做法：密封容器放 4°C 以下可保存 6～8 個月。"},
+      {"q": "怎麼知道全麥麵粉有油耗味了？", "a": "聞一下就知道。變質的全麥粉會有刺鼻的油味或像舊油漆的味道，做出來的成品也會有苦後味。"}
+    ]
+  },
+  "ja": {
+    "name": "全粒粉（全粒小麦粉）",
+    "aliases": ["全粒小麦粉", "グラハム粉", "ホールウィート", "アタ粉"],
+    "summary": "全粒粉はふすまと油分の多い胚芽を残しているため、風味と栄養に優れる一方で日持ちはかなり短くなります。涼しく乾燥した場所で購入日から3〜6か月が目安です。開封後に密閉容器で冷蔵すれば6〜8か月持ち、その後は胚芽の油が酸化していきます。",
+    "pantry": "涼しく乾燥した暗い戸棚で、購入日から3〜6か月。胚芽の油が酸化するため、白い小麦粉の約半分の期間です。密閉容器に入れてコンロから離し、自分の使用頻度に合った小さい袋を選びましょう。全粒粉は精製粉よりコクゾウムシやメイガがつきやすい点にも注意が必要です。",
+    "fridge": "開封後は冷蔵が適しています。密閉容器で4℃以下なら6〜8か月保存できます。低温で酸化が遅くなり、虫の侵入も防げます。においが移らないよう密閉性の高い容器を使い、開ける前に室温へ戻してください。",
+    "freezer": "USDAは全粒粉の冷凍期間を示していませんが、油分の多い全粒粉を守る方法として冷凍は広く使われており、まとめ買いする場合は妥当です。空気を抜いて密閉し、開ける前は必ず室温に戻して内部の結露を防ぎましょう。",
+    "thawing": null,
+    "spoilage": [
+      "小麦胚芽の酸化によるツンとした油臭、ペンキのようなにおい",
+      "焼いたパンやパンケーキに苦い後味がある",
+      "容器内にコクゾウムシ、幼虫、蛾、クモの巣状のもの",
+      "固まり、湿り気、カビの斑点"
+    ],
+    "tips": [
+      "全粒粉は長期保存品ではなく生鮮品と考え、小袋で買いましょう",
+      "開封した日から冷蔵庫で保存を",
+      "焼く前に必ずにおいを確認。酸化臭は意識すればすぐ分かります",
+      "新品の袋は48時間冷凍して虫の卵を退治してから移し替えを"
+    ],
+    "faq": [
+      {"q": "全粒粉はなぜ白い小麦粉より早く傷むのですか？", "a": "油分の多い小麦胚芽が残っているためです。その油が酸化するので、常温では購入日から3〜6か月が限度になります。"},
+      {"q": "全粒粉は冷蔵できますか？", "a": "できますし、開封後は最良の方法です。密閉容器で4℃以下なら6〜8か月保存できます。"},
+      {"q": "全粒粉が酸化したかどう分かりますか？", "a": "においで分かります。ツンとした油のにおいや古いペンキのようなにおいがし、焼くと苦い後味が出ます。"}
+    ]
+  },
+  "es": {
+    "name": "Harina integral de trigo",
+    "aliases": ["harina de trigo integral", "harina graham", "harina integral", "atta"],
+    "summary": "La harina integral conserva el salvado y el germen rico en aceite, lo que le da más sabor y nutrientes pero una vida mucho más corta. En una despensa fresca y seca dura 3–6 meses desde la compra. En un recipiente hermético en la nevera tras abrirla, aguanta 6–8 meses antes de que el aceite del germen se enrancie.",
+    "pantry": "En un armario fresco, seco y oscuro dura 3–6 meses desde la compra, aproximadamente la mitad que la harina blanca, porque el aceite del germen se oxida. Guárdala en un recipiente hermético lejos de los fogones y compra la bolsa más pequeña que se ajuste a tu ritmo de horneado. Las harinas integrales también atraen más a gorgojos y polillas.",
+    "fridge": "La nevera es mejor una vez abierta la bolsa: en un recipiente hermético a 4 °C (40 °F) o menos dura 6–8 meses. El frío frena la oxidación que provoca el enranciamiento y mantiene fuera a los insectos. Usa un envase que cierre bien para que no coja olores y deja que se atempere antes de abrirlo.",
+    "freezer": "El USDA no da un plazo de congelación para la harina integral, pero congelar es una práctica habitual para proteger harinas integrales ricas en aceite y tiene sentido si compras a granel. Ciérrala herméticamente sin aire y deja siempre que el envase alcance la temperatura ambiente antes de abrirlo.",
+    "thawing": null,
+    "spoilage": [
+      "Olor rancio punzante, aceitoso o a pintura vieja del germen de trigo",
+      "Regusto amargo en el pan o las tortitas terminadas",
+      "Gorgojos, larvas, polillas o telarañas en el recipiente",
+      "Grumos, humedad o puntos de moho"
+    ],
+    "tips": [
+      "Compra bolsas pequeñas y trátala como ingrediente fresco, no como reserva de despensa",
+      "Guárdala en la nevera desde el día que la abres",
+      "Huélela antes de cada horneado: el enranciamiento se detecta fácilmente",
+      "Congela la bolsa nueva 48 horas para matar huevos de insecto antes de trasvasarla"
+    ],
+    "faq": [
+      {"q": "¿Por qué la harina integral se estropea antes que la blanca?", "a": "Porque conserva el germen del trigo, rico en aceite. Ese aceite se oxida y enrancia, lo que limita la despensa a 3–6 meses desde la compra."},
+      {"q": "¿Se puede guardar la harina integral en la nevera?", "a": "Sí, y es la mejor opción tras abrirla: en un recipiente hermético a 4 °C (40 °F) o menos dura 6–8 meses."},
+      {"q": "¿Cómo saber si la harina integral está rancia?", "a": "Huélela. Huele punzante, a aceite o a pintura vieja, y todo lo horneado con ella deja un regusto amargo."}
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "slug": "danger-zone-two-hour-rule",
+  "category": "safety",
+  "updated": "2026-09-08",
+  "en": {
+    "title": "The Temperature Danger Zone and the 2-Hour Rule",
+    "description": "Between 4 °C and 60 °C (40–140 °F) bacteria multiply fast. Perishable food must not sit there longer than 2 hours — 1 hour above 32 °C.",
+    "intro": "The temperature danger zone is 4 °C to 60 °C (40 °F to 140 °F): the range where bacteria that cause food poisoning grow fastest. The practical rule that follows is the 2-hour rule — refrigerate or freeze perishable food within two hours of cooking, serving or buying it, and within one hour when the surrounding air is above 32 °C (90 °F). This single rule covers buffets, picnics, packed lunches, takeaway and groceries in the car.",
+    "sections": [
+      {
+        "heading": "What the danger zone actually is",
+        "body": "Bacteria need warmth, moisture, nutrients and time. Between 4 °C and 60 °C all four line up, and populations can double every 20 minutes in the warmest part of the range. Starting from a handful of cells, a few hours is enough to reach numbers that make people ill.\n\nThe boundaries are chosen for practical reasons, not because bacteria stop dead at them:\n\n- **Below 4 °C (40 °F):** growth of most pathogens slows dramatically. A few, such as *Listeria*, still creep along, which is why fridge storage has time limits.\n- **Above 60 °C (140 °F):** food is too hot for growth, which is why hot-holding lines and soup kettles are set there.\n\nDefinitions vary slightly by country. Taiwan's TFDA describes 7–60 °C as the danger zone; the UK works with 8–63 °C for legal hot- and cold-holding. The safest interpretation for a home kitchen is the widest one: keep food below 4 °C or above 60 °C."
+      },
+      {
+        "heading": "The 2-hour rule, and when it becomes 1 hour",
+        "body": "The rule is simple to state and easy to break.\n\n- **2 hours** is the total cumulative time perishable food may spend between 4 °C and 60 °C. The FDA's wording: refrigerate or freeze perishables \"within 2 hours of cooking or purchasing. Refrigerate within 1 hour if the temperature outside is above 90 °F.\"\n- **1 hour** applies above 32 °C (90 °F) — a hot car, a summer balcony, an outdoor stall.\n- **The clock is cumulative.** Twenty minutes on the counter after cooking, forty minutes on the table, and an hour in a shopping bag add up to two hours. The clock does not reset when food goes back in the fridge.\n\nTaiwan's food-poisoning guidance uses the same numbers: do not leave prepared food at room temperature for more than two hours, or more than one hour when the room is above 32 °C. WHO's Five Keys says the same thing: do not leave cooked food at room temperature for more than two hours."
+      },
+      {
+        "heading": "Buffets, hot pots and shared tables",
+        "body": "A buffet is a machine for keeping food in the danger zone, so it needs active temperature control rather than good intentions.\n\n- **Keep hot food above 60 °C** using chafing dishes, slow cookers on \"warm\", induction plates or an oven set to 65–70 °C. A warming tray that only reaches 45 °C is worse than nothing, because it holds food in the middle of the zone.\n- **Keep cold food below 4 °C** by nesting the serving bowl in a larger tray of ice, not by relying on a chilled bowl.\n- **Serve in relays.** Put out a third of the dish and refill from the fridge or oven. Do not top up a warm platter with fresh food — that restarts the clock for the new food but not the old.\n- **Two hours total on the table**, then everything perishable goes back to refrigeration or into the bin. Reheat only what you plan to eat, and to 74 °C (165 °F).\n\nDishes to watch most closely: rice and noodle salads, cooked seafood, sliced meats, egg mayonnaise, cream desserts and anything with gravy."
+      },
+      {
+        "heading": "Picnics, packed lunches and the car",
+        "body": "Away from a kitchen you have no thermostat, so plan the cold chain in advance.\n\n1. **Chill everything overnight first.** A cooler maintains temperature; it does not remove heat. Packing warm food guarantees you start inside the danger zone.\n2. **Use two ice packs per box**, one under and one on top, or freeze a drink bottle to double as a coolant.\n3. **Pack the cooler full.** Air warms fast; a tightly packed box holds cold far longer.\n4. **Keep it out of the boot.** A car boot in summer easily exceeds 40 °C. Put the cooler in the passenger cabin with the air conditioning on.\n5. **Shade and lids.** Keep the box closed and out of direct sun. Open it once, not twenty times.\n\nFor a school or office lunchbox, the safest options are food that was chilled overnight plus an ice pack, or food kept genuinely hot in a preheated vacuum flask. A lunchbox of [[food:cooked-rice]] left warm in a bag all morning is the classic failure — see [[guide:cooked-rice-storage-bacillus-cereus]]."
+      },
+      {
+        "heading": "Cooling food quickly so the clock stops",
+        "body": "The two-hour clock is about getting *through* the danger zone, not just into the fridge. A stockpot of soup put straight into a domestic fridge can stay above 4 °C for six hours or more at its centre.\n\nWhat works:\n\n- **Divide into shallow containers** no more than 5 cm deep. Surface area is everything.\n- **Split large joints of meat** into smaller pieces before chilling.\n- **Use an ice-water bath** — sit the pot in the sink with cold water and ice, and stir every few minutes.\n- **Leave containers uncovered or loosely covered** until cold, then seal. Sealing traps heat.\n- **Do not stack hot containers** in the fridge; leave space for air.\n\nA useful target used in professional kitchens is to get food from 60 °C to 20 °C within two hours, and to 4 °C within a further four. At home, shallow containers plus an ice bath will usually beat that comfortably."
+      },
+      {
+        "heading": "What to do if food has been left out",
+        "body": "Judge by the clock and by the food, never by smell or appearance. The bacteria and toxins that cause illness are invisible and often tasteless.\n\n- **Under 2 hours (or 1 hour above 32 °C):** refrigerate promptly and use within the normal window — see [[guide:leftovers-storage-reheating]].\n- **Over 2 hours:** discard perishable food. That includes meat, poultry, seafood, [[food:cooked-rice]], [[food:cooked-pasta]], [[food:soup-stews]], egg dishes, dairy, cut fruit and anything with sauce or dressing.\n- **Left out overnight:** discard, without exception. Reheating does not help: some toxins, including those from *Bacillus cereus* and *Staphylococcus aureus*, are heat-stable and survive boiling.\n\nLow-risk foods are usually fine: bread, hard cheese, butter, whole uncut fruit, jam, dried snacks, and unopened shelf-stable drinks. When you are unsure, the cost of throwing away a portion is always lower than the cost of food poisoning."
+      }
+    ],
+    "keyTakeaways": [
+      "The danger zone is 4–60 °C (40–140 °F); keep food colder or hotter than that.",
+      "Perishable food gets 2 hours total in the zone — only 1 hour above 32 °C (90 °F).",
+      "The clock is cumulative and does not reset when food returns to the fridge.",
+      "Cool fast in shallow containers; a deep pot can stay warm inside for hours.",
+      "Food left out overnight must be discarded — some toxins survive reheating."
+    ],
+    "faq": [
+      {
+        "q": "How long can cooked food safely sit out at room temperature?",
+        "a": "Two hours in total, counting every period it spends between 4 °C and 60 °C. Above 32 °C (90 °F) the limit drops to one hour. After that, perishable food should be discarded rather than refrigerated and eaten later."
+      },
+      {
+        "q": "Does the 2-hour clock reset if I put the food back in the fridge?",
+        "a": "No. The time is cumulative across the food's whole life. Twenty minutes cooling, an hour on the table and forty minutes at a second meal together exceed the limit even though no single episode did."
+      },
+      {
+        "q": "Can I still eat food that was left out overnight if I reheat it thoroughly?",
+        "a": "No. Reheating kills most bacterial cells but not all heat-stable toxins. Staphylococcal enterotoxin and the emetic toxin of Bacillus cereus survive boiling, so food left out overnight should be thrown away."
+      },
+      {
+        "q": "What temperature should hot food be held at on a buffet?",
+        "a": "Above 60 °C (140 °F), checked with a probe thermometer in the thickest part of the dish. Warming trays that only reach 40–50 °C hold food in the middle of the danger zone and make the problem worse, not better."
+      },
+      {
+        "q": "Is it safe to leave groceries in the car while I run another errand?",
+        "a": "Treat the car as part of the two-hour window, and as the one-hour window in summer, since a parked cabin can pass 40 °C within minutes. Shop for chilled and frozen items last and drive straight home."
+      }
+    ],
+    "sources": [
+      { "name": "US FDA – Safe Food Handling (2-hour / 1-hour rule)", "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling" },
+      { "name": "US FDA – Refrigerator Thermometers: Cold Facts about Food Safety", "url": "https://www.fda.gov/food/buy-store-serve-safe-food/refrigerator-thermometers-cold-facts-about-food-safety" },
+      { "name": "US CDC – Four Steps to Food Safety", "url": "https://www.cdc.gov/foodsafety/keep-food-safe.html" },
+      { "name": "WHO – Food safety fact sheet (Five Keys to Safer Food)", "url": "https://www.who.int/news-room/fact-sheets/detail/food-safety" },
+      { "name": "Taiwan FDA – Food poisoning Q&A (danger zone 7–60 °C, 2-hour / 1-hour rule)", "url": "https://www.fda.gov.tw/TC/sitecontent.aspx?sid=2572" },
+      { "name": "UK FSA – How to chill, freeze and defrost food safely", "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely" }
+    ]
+  },
+  "zh": {
+    "title": "危險溫度帶與兩小時原則：食物能在室溫放多久？",
+    "description": "7～60℃ 是細菌快速繁殖的危險溫度帶。熟食在室溫最多放 2 小時，室溫超過 32℃ 時只有 1 小時。",
+    "intro": "危險溫度帶指的是細菌繁殖最快的溫度區間。台灣食藥署定義為 7℃ 到 60℃，國際上常用 4℃ 到 60℃。由此衍生的實用規則就是「兩小時原則」：食品調製後不要在室溫放置超過 2 小時，夏天室溫超過 32℃ 時不要超過 1 小時。自助餐、野餐、便當、外帶、買菜回家的路上，全都適用這一條。",
+    "sections": [
+      {
+        "heading": "危險溫度帶到底是什麼",
+        "body": "細菌需要溫度、水分、養分與時間。在危險溫度帶裡這四項同時到位，在最溫暖的區段細菌可以每 20 分鐘增加一倍。從少量菌數開始，幾個小時就足以累積到會讓人生病的數量。\n\n食藥署的說法很直接：「溫度介於 7～60℃ 之間稱為危險溫度帶，因為許多細菌在此段溫度間都能快速生長繁殖。」上下界線是為了操作方便而訂：\n\n- **低於 7℃（國際建議 4℃）**：多數病原菌生長大幅趨緩，但不是完全停止，所以冷藏仍有保存期限。\n- **高於 60℃**：食物太熱，細菌無法生長，所以熱食保溫檯與湯桶都設在這個溫度以上。\n\n各國定義略有差異，英國採 8～63℃。家庭最保險的做法是取最嚴格的一組：食物不是低於 4℃，就是高於 60℃。"
+      },
+      {
+        "heading": "兩小時原則，什麼時候變成一小時",
+        "body": "規則一句話就講完，卻很容易破功。\n\n- **2 小時**是易腐敗食品可以待在危險溫度帶的**累計**總時間。食藥署的建議是：「食品調製後勿於室溫下放置超過 2 小時。」\n- **1 小時**適用於室溫超過 32℃ 的情況——夏天的車內、陽台、戶外攤位。\n- **時間會累加。** 煮好後在流理台放 20 分鐘、上桌 40 分鐘、再提著回家 1 小時，加起來就滿兩小時了。放回冰箱不會讓計時歸零。\n\n世界衛生組織的「食品安全五要點」講法一致：煮好的食物不要在室溫放超過 2 小時。美國 FDA 則以華氏 90 度（約 32℃）為分界，超過就縮短為 1 小時。三方數字互相吻合，可見這不是保守的估計，而是共識。"
+      },
+      {
+        "heading": "自助餐、火鍋與合菜場合",
+        "body": "自助餐本質上就是一台「把食物留在危險溫度帶」的機器，所以必須靠主動控溫，不能靠感覺。\n\n- **熱食維持在 60℃ 以上**：用保溫鍋、電磁爐小火、隔水加熱盤，或烤箱設 65～70℃。只有 45℃ 的保溫盤比不保溫更糟，因為剛好把食物停在危險溫度帶正中央。\n- **冷食維持在 4℃ 以下**：把盛裝的容器坐在裝滿冰塊的大盤裡，而不是只靠「冰過的碗」。\n- **分批出菜。** 一次只端出三分之一，其餘留在冰箱或烤箱裡續盤。不要把新食物倒進已經放溫的盤子——新食物的計時歸零了，舊食物的沒有。\n- **桌上總計 2 小時**，時間到就全部收回冷藏或丟棄。要吃多少再回熱多少，中心溫度加熱到 74℃（食藥署對一般加熱的建議是中心 70℃ 以上）。\n\n最需要盯緊的菜色：涼拌米麵、熟海鮮、切片肉品、蛋沙拉、奶油甜點，以及任何勾芡或有醬汁的菜。"
+      },
+      {
+        "heading": "野餐、便當與車上",
+        "body": "離開廚房就沒有溫控設備，冷鏈必須事先規劃。\n\n1. **前一晚先徹底冷藏。** 保冷袋只能「維持」溫度，不能「降溫」。裝溫的食物進去，等於一開始就在危險溫度帶。\n2. **每個保冷袋放兩個保冷劑**，一上一下；也可以冰一瓶飲料當保冷劑兼補水。\n3. **保冷袋要裝滿。** 空氣升溫很快，塞緊的袋子保冷時間長很多。\n4. **不要放後車廂。** 夏天後車廂輕易超過 40℃，請把保冷袋放在有冷氣的車內座艙。\n5. **遮陽、少開。** 保持袋子關閉並避免陽光直射，開一次就好，不要一直翻。\n\n上班上學的便當，安全做法只有兩種：前一晚冷藏過再搭配保冷劑，或用預熱過的燜燒罐真正保持高溫。一盒溫熱的[[food:cooked-rice]]在書包裡放整個早上，是最典型的失敗案例，詳見[[guide:cooked-rice-storage-bacillus-cereus]]。"
+      },
+      {
+        "heading": "怎麼讓食物快速通過危險溫度帶",
+        "body": "兩小時原則的重點是「通過」危險溫度帶，而不只是「放進冰箱」。一大鍋湯直接放進家用冰箱，中心可能六小時以上都還在 4℃ 之上。\n\n有效的做法：\n\n- **分裝成淺的保鮮盒**，深度不超過 5 公分。表面積決定一切。\n- **大塊肉先切小**再冷藏。\n- **冰水浴**：把鍋子坐在裝了冷水加冰塊的水槽裡，每隔幾分鐘攪拌一次。\n- **降溫時不要密封**，先蓋鬆一點，涼了再封蓋。密封會把熱悶住。\n- **不要把熱容器疊在一起**放進冰箱，要留出空氣通道。\n\n餐飲業常用的目標是：從 60℃ 降到 20℃ 在兩小時內完成，再四小時內降到 4℃ 以下。家裡只要做到分裝加冰水浴，通常會遠比這個標準更快。"
+      },
+      {
+        "heading": "已經放太久了怎麼辦",
+        "body": "判斷依據是時間與食物種類，不是聞味道或看外觀。造成食品中毒的細菌與毒素通常無色無味。\n\n- **不到 2 小時（室溫超過 32℃ 則為 1 小時）**：立刻冷藏，並在正常期限內吃完，參考[[guide:leftovers-storage-reheating]]。\n- **超過 2 小時**：易腐敗食品請丟棄。包括肉類、家禽、海鮮、[[food:cooked-rice]]、[[food:cooked-pasta]]、[[food:soup-stews]]、蛋類料理、乳製品、切開的水果，以及任何有醬汁或沙拉醬的東西。\n- **放過夜**：一律丟棄，沒有例外。再加熱救不了：仙人掌桿菌（*Bacillus cereus*）與金黃色葡萄球菌產生的部分毒素耐熱，煮沸也不會被破壞。\n\n低風險、通常可留：麵包、硬質起司、奶油、完整未切的水果、果醬、乾貨零食、未開封的常溫飲料。不確定時，倒掉一份菜的成本，永遠低於食品中毒的成本。"
+      }
+    ],
+    "keyTakeaways": [
+      "危險溫度帶為 7～60℃（國際常用 4～60℃），食物要嘛更冷、要嘛更熱。",
+      "熟食在危險溫度帶累計最多 2 小時；室溫超過 32℃ 只有 1 小時。",
+      "時間會累加，放回冰箱不會讓計時歸零。",
+      "分裝淺盤加冰水浴，才能真正快速通過危險溫度帶。",
+      "放過夜的食物一律丟棄，部分毒素耐熱、再加熱也去不掉。"
+    ],
+    "faq": [
+      {
+        "q": "煮好的菜在室溫可以放多久？",
+        "a": "累計 2 小時，而且是把所有停留在 7～60℃ 的時間加總。室溫超過 32℃ 時縮短為 1 小時。超過就該丟棄，不要冰起來留到下一餐。"
+      },
+      {
+        "q": "冰回冰箱之後，兩小時是不是重新計算？",
+        "a": "不會。時間是就這份食物的一生累計的。降溫 20 分鐘、上桌 1 小時、隔餐再放 40 分鐘，單看每一段都沒超過，加起來卻已經超標。"
+      },
+      {
+        "q": "放過夜的菜再徹底加熱可以吃嗎？",
+        "a": "不建議。加熱可以殺死大部分細菌，但殺不掉已經產生的耐熱毒素。金黃色葡萄球菌腸毒素與仙人掌桿菌的嘔吐型毒素都耐得住煮沸，所以放過夜就該丟。"
+      },
+      {
+        "q": "自助餐的熱食要保溫在幾度？",
+        "a": "60℃ 以上，並用探針溫度計插進最厚的部位確認。只有 40～50℃ 的保溫盤反而把食物停在危險溫度帶正中間，比不保溫更糟。"
+      },
+      {
+        "q": "買完菜先去辦別的事，放車上可以嗎？",
+        "a": "請把車上的時間算進兩小時內；夏天則直接以一小時計，因為停放的車內幾分鐘就可能超過 40℃。冷藏冷凍品最後買，買完直接回家。"
+      }
+    ],
+    "sources": [
+      { "name": "衛福部食藥署－食品中毒常見問與答（危險溫度帶與 2 小時原則）", "url": "https://www.fda.gov.tw/TC/sitecontent.aspx?sid=2572" },
+      { "name": "衛生福利部－遵守五要原則，預防食品中毒", "url": "https://www.mohw.gov.tw/cp-3250-29716-1.html" },
+      { "name": "美國 FDA－安全的食品處理（2 小時／1 小時原則）", "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling" },
+      { "name": "世界衛生組織－食品安全實況報導（食品安全五要點）", "url": "https://www.who.int/news-room/fact-sheets/detail/food-safety" },
+      { "name": "美國疾病管制中心－食品安全四步驟", "url": "https://www.cdc.gov/foodsafety/keep-food-safe.html" }
+    ]
+  },
+  "ja": {
+    "title": "危険温度帯と「2時間ルール」：常温に何時間置ける？",
+    "description": "細菌が急増する危険温度帯は4〜60℃。傷みやすい食品を常温に置けるのは合計2時間、32℃を超える場所では1時間までです。",
+    "intro": "危険温度帯とは、食中毒菌がもっとも速く増える温度域のことで、一般に4℃から60℃（台湾のTFDAは7〜60℃）とされます。ここから導かれる実用ルールが「2時間ルール」です。調理・提供・購入から2時間以内に冷蔵または冷凍し、周囲が32℃（90°F）を超える場合は1時間以内にします。ビュッフェ、ピクニック、お弁当、テイクアウト、買い物帰りの車内まで、すべてこの一本で判断できます。",
+    "sections": [
+      {
+        "heading": "危険温度帯とは何か",
+        "body": "細菌が増えるには温度・水分・栄養・時間の4つが必要で、危険温度帯ではその4つがそろいます。もっとも温かい範囲では20分ごとに数が倍になることもあり、わずかな菌数から数時間で発症量に達します。\n\n境界線は実務上の目安であり、そこで菌が止まるわけではありません。\n\n- **4℃未満**：多くの病原菌の増殖が大きく鈍ります。ただしリステリアのように低温でもゆっくり増える菌があるため、冷蔵にも保存期限があります。\n- **60℃超**：増殖できない温度です。だから保温ジャーやスープウォーマーはこの温度以上に設定されています。\n\n国により定義に幅があり、英国は8〜63℃、台湾は7〜60℃を用います。家庭では最も厳しい解釈、すなわち「4℃以下か60℃以上に保つ」を採用するのが安全です。"
+      },
+      {
+        "heading": "2時間ルール、1時間になるのはどんなとき",
+        "body": "言うのは簡単ですが、守るのは意外と難しいルールです。\n\n- **2時間**は、傷みやすい食品が危険温度帯にいられる**累計**時間です。米国FDAは「調理または購入から2時間以内に冷蔵または冷凍する。外気が90°Fを超える場合は1時間以内」と明記しています。\n- **1時間**は32℃（90°F）を超える環境。夏の車内、ベランダ、屋外の販売台などです。\n- **時間は積み上がります。** 調理後に台所で20分、食卓で40分、持ち帰りに1時間で合計2時間。冷蔵庫に戻してもリセットされません。\n\nWHOの「食品をより安全にするための5つの鍵」も同じで、調理済み食品を常温に2時間以上置かないよう求めています。台湾TFDAも「室温で2時間、32℃を超えるときは1時間を超えない」と同じ数字を採用しています。"
+      },
+      {
+        "heading": "ビュッフェ・鍋・大皿料理",
+        "body": "ビュッフェは構造上「食品を危険温度帯に置き続ける装置」なので、気持ちではなく能動的な温度管理が要ります。\n\n- **温かい料理は60℃以上で保温。** チェーフィングディッシュ、卓上IH、湯せん、65〜70℃に設定したオーブンなど。45℃までしか上がらない保温プレートは、危険温度帯のど真ん中で保持するので何もしないより悪いです。\n- **冷たい料理は4℃以下。** 器を氷を張った大きなトレーに沈めます。「冷やした器」だけでは足りません。\n- **小出しにする。** 一度に出すのは3分の1にし、冷蔵庫やオーブンから補充します。ぬるくなった皿に新しい料理を足してはいけません。新しい分の時計はゼロでも、古い分の時計は進んだままです。\n- **食卓の上は合計2時間**まで。その後は冷蔵に戻すか処分します。食べる分だけ、中心75℃以上に再加熱しましょう。\n\n特に注意すべきは、ごはんや麺のサラダ、加熱済みの魚介、スライスした肉、卵のマヨネーズ和え、クリーム系のデザート、あんかけ料理です。"
+      },
+      {
+        "heading": "ピクニック・お弁当・車内",
+        "body": "台所を離れると温度調節装置はありません。冷却の計画を先に立てます。\n\n1. **前夜にしっかり冷やしておく。** クーラーバッグは温度を「保つ」だけで「下げる」ことはできません。温かいまま詰めれば、出発時点で危険温度帯です。\n2. **保冷剤は1箱に2つ**、上下に置きます。凍らせた飲料を保冷剤兼用にする手もあります。\n3. **すき間なく詰める。** 空気はすぐ温まるので、満杯のほうが長く冷えています。\n4. **トランクに置かない。** 夏のトランクは簡単に40℃を超えます。エアコンの効く車室に置きましょう。\n5. **日陰に置き、開ける回数を減らす。** ふたを開けるたびに冷気が逃げます。\n\n通勤・通学のお弁当なら、安全なのは「前夜に冷蔵したものを保冷剤とともに持つ」か「予熱したスープジャーで本当に熱く保つ」の二択です。温かい[[food:cooked-rice]]を鞄に入れて午前中ずっと置く、という典型的な失敗については[[guide:cooked-rice-storage-bacillus-cereus]]で扱います。"
+      },
+      {
+        "heading": "危険温度帯を素早く通過させる冷まし方",
+        "body": "2時間ルールの本質は冷蔵庫に「入れる」ことではなく、危険温度帯を「通過する」ことです。寸胴のスープをそのまま家庭用冷蔵庫に入れると、中心は6時間以上4℃を超えたままになることもあります。\n\n有効な方法：\n\n- **深さ5cm以下の浅い容器に小分けする。** 表面積がすべてです。\n- **大きな肉のかたまりは切り分けてから**冷やします。\n- **氷水で冷やす。** 鍋をシンクに置き、冷水と氷を張って数分おきにかき混ぜます。\n- **冷めるまでは密閉しない。** ふたを軽く載せ、冷えてから密閉します。密閉すると熱がこもります。\n- **熱い容器を重ねない。** 冷蔵庫内で空気が通る隙間を空けます。\n\n業務用の目安は「60℃から20℃までを2時間以内、そこからさらに4時間以内に4℃以下」。家庭でも浅い容器と氷水を使えば、たいていこれより速く冷えます。"
+      },
+      {
+        "heading": "置きっぱなしにしてしまったら",
+        "body": "判断は時計と食品の種類で行い、においや見た目では判断しません。問題になる菌や毒素は目にも舌にもわかりません。\n\n- **2時間未満（32℃超なら1時間未満）**：すぐ冷蔵し、通常の期限内に食べきります。[[guide:leftovers-storage-reheating]]を参照。\n- **2時間超**：傷みやすい食品は処分します。肉、鶏肉、魚介、[[food:cooked-rice]]、[[food:cooked-pasta]]、[[food:soup-stews]]、卵料理、乳製品、カットした果物、ソースやドレッシングのかかったものが該当します。\n- **一晩放置**：例外なく処分します。再加熱では解決しません。セレウス菌（*Bacillus cereus*）や黄色ブドウ球菌の産生する毒素の一部は耐熱性で、煮沸しても壊れません。\n\n低リスクで通常問題ないもの：パン、ハードチーズ、バター、丸ごとの果物、ジャム、乾燥スナック、未開封の常温飲料。迷ったら、一皿を捨てる損失のほうが食中毒よりずっと軽い、と考えてください。"
+      }
+    ],
+    "keyTakeaways": [
+      "危険温度帯は4〜60℃。食品はそれより冷たいか熱いかに保つ。",
+      "傷みやすい食品が危険温度帯にいられるのは合計2時間、32℃超では1時間。",
+      "時間は累計。冷蔵庫に戻しても時計はリセットされない。",
+      "浅い容器と氷水で、危険温度帯を短時間で通過させる。",
+      "一晩置いた食品は処分する。耐熱性の毒素は再加熱では消えない。"
+    ],
+    "faq": [
+      {
+        "q": "調理した料理は常温で何時間まで置けますか？",
+        "a": "合計2時間です。4〜60℃にあった時間をすべて足して数えます。32℃を超える環境では1時間。それを超えたら、冷蔵して後で食べるのではなく処分してください。"
+      },
+      {
+        "q": "冷蔵庫に戻せば2時間の計測はやり直せますか？",
+        "a": "できません。時間はその食品の一生を通じて累計されます。冷ます20分、食卓の1時間、翌食の40分は、個々には超えていなくても合計すると上限を超えます。"
+      },
+      {
+        "q": "一晩置いた料理をしっかり再加熱すれば食べられますか？",
+        "a": "おすすめしません。加熱で菌体の多くは死にますが、すでにできた耐熱性毒素は壊れません。黄色ブドウ球菌の腸毒素やセレウス菌の嘔吐毒は煮沸に耐えるため、処分してください。"
+      },
+      {
+        "q": "ビュッフェの温かい料理は何度で保温すべきですか？",
+        "a": "60℃以上で、いちばん厚い部分に温度計を刺して確認します。40〜50℃までしか上がらない保温器は、危険温度帯の中央で保持することになり、かえって状況を悪化させます。"
+      },
+      {
+        "q": "買い物のあと、車に食品を置いて別の用事を済ませても大丈夫？",
+        "a": "車内の時間も2時間に含めて数え、夏は1時間として扱ってください。駐車した車内は数分で40℃を超えることがあります。冷蔵・冷凍品は最後に買い、まっすぐ帰宅しましょう。"
+      }
+    ],
+    "sources": [
+      { "name": "米国FDA－安全な食品の取り扱い（2時間／1時間ルール）", "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling" },
+      { "name": "WHO－食品安全ファクトシート（食品をより安全にするための5つの鍵）", "url": "https://www.who.int/news-room/fact-sheets/detail/food-safety" },
+      { "name": "米国CDC－食品安全の4ステップ", "url": "https://www.cdc.gov/foodsafety/keep-food-safe.html" },
+      { "name": "厚生労働省－家庭でできる食中毒予防の6つのポイント", "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/01_00006.html" },
+      { "name": "台湾TFDA－食中毒Q&A（危険温度帯7〜60℃）", "url": "https://www.fda.gov.tw/TC/sitecontent.aspx?sid=2572" }
+    ]
+  },
+  "es": {
+    "title": "Zona de peligro de temperatura y la regla de las 2 horas",
+    "description": "Entre 4 °C y 60 °C (40–140 °F) las bacterias se multiplican rápido. Los alimentos perecederos no deben pasar ahí más de 2 horas, o 1 hora por encima de 32 °C.",
+    "intro": "La zona de peligro va de 4 °C a 60 °C (40 °F a 140 °F): el rango en el que las bacterias causantes de intoxicación crecen más deprisa. De ahí sale la regla de las 2 horas: refrigera o congela los alimentos perecederos antes de dos horas desde que los cocinas, los sirves o los compras, y antes de una hora si el aire supera los 32 °C (90 °F). Esta única regla cubre bufés, picnics, tuppers, comida para llevar y la compra en el coche.",
+    "sections": [
+      {
+        "heading": "Qué es realmente la zona de peligro",
+        "body": "Las bacterias necesitan calor, humedad, nutrientes y tiempo. Entre 4 °C y 60 °C se dan las cuatro condiciones y, en la parte más cálida del rango, la población puede duplicarse cada 20 minutos. Partiendo de unas pocas células, unas horas bastan para llegar a cifras que enferman.\n\nLos límites son prácticos, no fronteras donde las bacterias se detengan:\n\n- **Por debajo de 4 °C (40 °F):** el crecimiento de la mayoría de patógenos se frena mucho. Algunos, como *Listeria*, siguen avanzando despacio; por eso la refrigeración también tiene plazos.\n- **Por encima de 60 °C (140 °F):** el alimento está demasiado caliente para el crecimiento, y por eso los mostradores calientes se ajustan ahí.\n\nLas definiciones varían: Taiwán habla de 7–60 °C y el Reino Unido de 8–63 °C. En casa conviene la lectura más estricta: por debajo de 4 °C o por encima de 60 °C."
+      },
+      {
+        "heading": "La regla de las 2 horas y cuándo son solo 1",
+        "body": "Es fácil de enunciar y fácil de incumplir.\n\n- **2 horas** es el tiempo **acumulado** que un alimento perecedero puede pasar entre 4 °C y 60 °C. La FDA lo formula así: refrigerar o congelar «antes de 2 horas desde que se cocina o se compra; antes de 1 hora si la temperatura exterior supera los 90 °F».\n- **1 hora** se aplica por encima de 32 °C (90 °F): un coche al sol, una terraza en verano, un puesto al aire libre.\n- **El reloj se suma.** Veinte minutos en la encimera, cuarenta en la mesa y una hora en la bolsa de la compra ya son dos horas. Meterlo en la nevera no pone el contador a cero.\n\nLa OMS coincide en sus Cinco Claves: no dejar alimentos cocinados a temperatura ambiente más de dos horas. La agencia de Taiwán usa exactamente las mismas cifras, incluido el umbral de 32 °C."
+      },
+      {
+        "heading": "Bufés, comidas largas y mesas compartidas",
+        "body": "Un bufé es, por diseño, una máquina para mantener comida en la zona de peligro; necesita control activo de temperatura.\n\n- **La comida caliente, por encima de 60 °C**, con chafing dish, olla lenta en «warm», placa de inducción o el horno a 65–70 °C. Una bandeja térmica que solo llega a 45 °C es peor que nada: sostiene el alimento en mitad de la zona.\n- **La comida fría, por debajo de 4 °C**, encajando el cuenco en una bandeja mayor con hielo, no solo enfriando el recipiente.\n- **Sirve por tandas.** Saca un tercio y repón desde la nevera o el horno. Nunca rellenes una fuente templada con producto recién sacado: el reloj se reinicia para lo nuevo, no para lo viejo.\n- **Dos horas en total sobre la mesa** y después todo lo perecedero vuelve a refrigeración o al cubo. Recalienta solo lo que vayas a comer, hasta 74 °C (165 °F).\n\nVigila especialmente ensaladas de arroz y pasta, marisco cocido, embutidos y fiambres, huevo con mayonesa, postres con nata y cualquier plato con salsa."
+      },
+      {
+        "heading": "Picnics, tuppers y el coche",
+        "body": "Fuera de la cocina no hay termostato: planifica la cadena de frío.\n\n1. **Enfría todo la noche antes.** Una nevera portátil mantiene el frío, no lo genera. Si metes comida templada, empiezas dentro de la zona de peligro.\n2. **Dos acumuladores por caja**, uno debajo y otro encima; una botella congelada sirve además de bebida.\n3. **Llena la nevera portátil.** El aire se calienta rápido; una caja bien llena aguanta mucho más.\n4. **No la lleves en el maletero.** En verano supera fácilmente los 40 °C. Ponla en el habitáculo con el aire acondicionado.\n5. **Sombra y tapa cerrada.** Ábrela una vez, no veinte.\n\nPara la fiambrera del trabajo o del colegio solo hay dos opciones seguras: comida refrigerada la noche anterior con acumulador de frío, o comida realmente caliente en un termo precalentado. Un tupper templado de [[food:cooked-rice]] en la mochila toda la mañana es el fallo clásico: ver [[guide:cooked-rice-storage-bacillus-cereus]]."
+      },
+      {
+        "heading": "Enfriar rápido para detener el reloj",
+        "body": "La regla trata de *atravesar* la zona de peligro, no solo de llegar a la nevera. Una olla grande de sopa metida entera puede seguir por encima de 4 °C en su centro seis horas después.\n\nLo que funciona:\n\n- **Reparte en recipientes bajos** de no más de 5 cm de fondo. La superficie lo es todo.\n- **Trocea las piezas grandes de carne** antes de refrigerar.\n- **Baño de agua helada:** pon la olla en el fregadero con agua fría y hielo y remueve cada pocos minutos.\n- **No cierres herméticamente hasta que esté frío.** Sellar atrapa el calor.\n- **No apiles recipientes calientes** dentro de la nevera; deja pasar el aire.\n\nEl objetivo profesional habitual es bajar de 60 °C a 20 °C en dos horas y hasta 4 °C en cuatro horas más. En casa, con recipientes bajos y baño de hielo se supera ese ritmo con holgura."
+      },
+      {
+        "heading": "Qué hacer si la comida se ha quedado fuera",
+        "body": "Decide por el reloj y por el tipo de alimento, nunca por el olor o el aspecto: las bacterias y toxinas que enferman son invisibles e insípidas.\n\n- **Menos de 2 horas (o 1 hora por encima de 32 °C):** refrigera enseguida y consume dentro del plazo normal, según [[guide:leftovers-storage-reheating]].\n- **Más de 2 horas:** desecha lo perecedero. Incluye carne, aves, marisco, [[food:cooked-rice]], [[food:cooked-pasta]], [[food:soup-stews]], platos con huevo, lácteos, fruta cortada y todo lo aliñado o con salsa.\n- **Toda la noche fuera:** desechar, sin excepción. Recalentar no soluciona nada: algunas toxinas, como las de *Bacillus cereus* y *Staphylococcus aureus*, resisten la ebullición.\n\nRiesgo bajo y normalmente aprovechable: pan, queso curado, mantequilla, fruta entera sin cortar, mermelada, snacks secos y bebidas envasadas sin abrir. Ante la duda, tirar una ración siempre cuesta menos que una intoxicación."
+      }
+    ],
+    "keyTakeaways": [
+      "La zona de peligro es 4–60 °C (40–140 °F): mantén la comida más fría o más caliente.",
+      "Dos horas en total dentro de la zona; solo una por encima de 32 °C (90 °F).",
+      "El tiempo se acumula y no se reinicia al volver a la nevera.",
+      "Enfría en recipientes bajos: una olla profunda sigue caliente por dentro durante horas.",
+      "Lo que ha pasado la noche fuera se tira: hay toxinas que resisten el recalentado."
+    ],
+    "faq": [
+      {
+        "q": "¿Cuánto tiempo puede estar la comida cocinada a temperatura ambiente?",
+        "a": "Dos horas en total, contando cada periodo que pasa entre 4 °C y 60 °C. Por encima de 32 °C (90 °F) el límite baja a una hora. Superado ese tiempo, lo perecedero se desecha en lugar de guardarse para después."
+      },
+      {
+        "q": "¿El contador de 2 horas se reinicia si vuelvo a meter la comida en la nevera?",
+        "a": "No. El tiempo es acumulativo a lo largo de toda la vida del alimento. Veinte minutos enfriando, una hora en la mesa y cuarenta minutos en otra comida superan el límite aunque ningún episodio suelto lo hiciera."
+      },
+      {
+        "q": "¿Puedo comer algo que pasó la noche fuera si lo recaliento bien?",
+        "a": "No. El calor destruye la mayoría de las células bacterianas, pero no las toxinas termoestables. La enterotoxina estafilocócica y la toxina emética de Bacillus cereus resisten la ebullición, así que hay que tirarlo."
+      },
+      {
+        "q": "¿A qué temperatura debe mantenerse la comida caliente en un bufé?",
+        "a": "Por encima de 60 °C (140 °F), comprobado con termómetro de sonda en la parte más gruesa. Las bandejas que solo alcanzan 40–50 °C mantienen el alimento en mitad de la zona de peligro y empeoran el problema."
+      },
+      {
+        "q": "¿Es seguro dejar la compra en el coche mientras hago otro recado?",
+        "a": "Cuenta ese tiempo dentro de las dos horas, y como una sola hora en verano: un habitáculo aparcado puede pasar de 40 °C en minutos. Compra lo refrigerado y congelado al final y ve directo a casa."
+      }
+    ],
+    "sources": [
+      { "name": "FDA de EE. UU. – Manipulación segura de alimentos (regla de 2 horas / 1 hora)", "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling" },
+      { "name": "OMS – Inocuidad de los alimentos (Cinco Claves)", "url": "https://www.who.int/news-room/fact-sheets/detail/food-safety" },
+      { "name": "CDC de EE. UU. – Cuatro pasos para la inocuidad de los alimentos", "url": "https://www.cdc.gov/foodsafety/keep-food-safe.html" },
+      { "name": "AESAN – Higiene de los alimentos", "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos" },
+      { "name": "TFDA de Taiwán – Preguntas frecuentes sobre intoxicaciones alimentarias", "url": "https://www.fda.gov.tw/TC/sitecontent.aspx?sid=2572" }
+    ]
+  }
+}

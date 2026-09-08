@@ -1,0 +1,107 @@
+{
+  "slug": "flour-white",
+  "en": {
+    "name": "White flour",
+    "aliases": ["plain flour", "all-purpose flour", "bread flour", "cake flour", "refined wheat flour"],
+    "summary": "White flour has had the bran and germ removed, so it keeps far longer than wholemeal. Unopened it lasts 6–12 months from the date of purchase in a cool, dry cupboard, and 6–8 months once opened. Kept in an airtight container in the fridge, opened flour keeps about 1 year.",
+    "pantry": "A cool, dry, dark cupboard away from the stove and sink is ideal: 6–12 months from purchase unopened, 6–8 months after opening. Move the flour out of its paper bag into an airtight container as soon as you open it, both to keep humidity out and to stop weevils and pantry moths getting in. Never top up an old container with a new bag — finish and wash it first.",
+    "fridge": "Refrigeration is a good option in humid climates: in a truly airtight container at 4 °C (40 °F) or below, opened white flour keeps about 1 year. Because flour absorbs odours easily, seal it well away from onions, garlic and fish. Let the container reach room temperature before opening so condensation does not dampen the flour.",
+    "freezer": "USDA gives no freezer timeline for white flour, and it does not need one at these pantry and fridge windows. Freezing a newly bought bag for 48 hours is still the standard way to kill any insect eggs before you decant it into a storage jar.",
+    "thawing": null,
+    "spoilage": [
+      "Musty, sour or rancid smell when the container is opened",
+      "Weevils, small moths, larvae or fine webbing in the flour",
+      "Damp clumps or a hard crust on the surface",
+      "Grey, yellow or spotted discolouration"
+    ],
+    "tips": [
+      "Freeze a new bag for 48 hours to kill insect eggs, then store it airtight",
+      "Label the container with the type of flour and the opening date",
+      "Keep a bay leaf in the container — a traditional trick against pantry insects",
+      "Sift or fluff the flour before measuring, as it compacts during storage"
+    ],
+    "faq": [
+      {"q": "How long does white flour last?", "a": "6–12 months from purchase unopened and 6–8 months after opening in a cool, dry pantry. In an airtight container in the fridge, opened flour keeps about 1 year."},
+      {"q": "How can you tell if flour has gone bad?", "a": "Smell it — musty or rancid flour should be discarded. Also look for weevils, webbing, clumping or discolouration."},
+      {"q": "Should you keep flour in the fridge?", "a": "You can, and in a humid kitchen it helps: about 1 year after opening in an airtight container. Make sure the seal is good so it does not absorb fridge odours."}
+    ]
+  },
+  "zh": {
+    "name": "白麵粉",
+    "aliases": ["中筋麵粉", "低筋麵粉", "高筋麵粉", "精製麵粉", "麵粉"],
+    "summary": "白麵粉已經去掉麩皮和胚芽，比全麥麵粉耐放很多。未開封放在陰涼乾燥的櫥櫃，從購買日起可放 6～12 個月，開封後 6～8 個月。若用密封容器放冰箱，開封後大約可保存 1 年。",
+    "pantry": "最理想的是遠離爐火和水槽的陰涼乾燥暗處：未開封從購買日起 6～12 個月，開封後 6～8 個月。開封後請立刻把麵粉從紙袋倒進密封容器，既能隔絕台灣的濕氣，也能防止米象和穀蛾。千萬不要把新買的麵粉直接倒進舊罐子，要先用完並洗淨晾乾。",
+    "fridge": "在潮濕的氣候中，冷藏是很好的選擇：用真正密封的容器放 4°C 以下，開封後大約可放 1 年。麵粉很會吸味，要密封好並遠離洋蔥、大蒜和魚類。取出後先回到室溫再開蓋，避免冷凝水氣讓麵粉受潮。",
+    "freezer": "USDA 沒有提供白麵粉的冷凍期限，以常溫和冷藏的期限來說也不需要。不過新買的整袋先冷凍 48 小時，仍然是分裝前殺死蟲卵的標準做法。",
+    "thawing": null,
+    "spoilage": [
+      "打開容器有霉味、酸味或油耗味",
+      "粉裡出現米象、小蛾、幼蟲或細細的蛛絲",
+      "受潮結塊，或表面結成一層硬殼",
+      "顏色變灰、變黃或出現斑點"
+    ],
+    "tips": [
+      "新買的整袋先冷凍 48 小時殺蟲卵，再密封保存",
+      "在容器上標明麵粉種類和開封日期",
+      "罐子裡放一片月桂葉，是傳統的防蟲小撇步",
+      "量取前先過篩或撥鬆，麵粉放久會壓實"
+    ],
+    "faq": [
+      {"q": "白麵粉可以放多久？", "a": "未開封放陰涼乾燥處，從購買日起 6～12 個月，開封後 6～8 個月。用密封容器冷藏的話，開封後大約 1 年。"},
+      {"q": "怎麼判斷麵粉壞掉了？", "a": "先聞味道，有霉味或油耗味就丟掉。也要檢查有沒有米象、蛛絲、結塊或變色。"},
+      {"q": "麵粉可以放冰箱嗎？", "a": "可以，而且在潮濕的廚房很有幫助，密封容器冷藏開封後約 1 年。記得容器要密封良好，避免吸到冰箱異味。"}
+    ]
+  },
+  "ja": {
+    "name": "小麦粉（白い精製粉）",
+    "aliases": ["薄力粉", "中力粉", "強力粉", "メリケン粉", "小麦粉"],
+    "summary": "白い小麦粉はふすまと胚芽を取り除いてあるため、全粒粉よりずっと日持ちします。未開封なら涼しく乾燥した場所で購入日から6〜12か月、開封後は6〜8か月が目安です。密閉容器に入れて冷蔵すれば、開封後約1年保存できます。",
+    "pantry": "コンロやシンクから離れた、涼しく乾燥した暗い戸棚が理想です。未開封は購入日から6〜12か月、開封後は6〜8か月。開封したらすぐ紙袋から密閉容器へ移し、湿気を防ぎ、コクゾウムシやノシメマダラメイガの侵入も防ぎましょう。古い容器に新しい粉を継ぎ足すのは厳禁で、必ず使い切って洗ってから入れてください。",
+    "fridge": "湿度の高い環境では冷蔵が有効です。本当に密閉できる容器で4℃以下に保てば、開封後約1年持ちます。小麦粉はにおいを吸いやすいので、玉ねぎ・にんにく・魚から離してしっかり密閉を。開ける前に室温へ戻し、結露で湿らせないようにしてください。",
+    "freezer": "USDAは白い小麦粉の冷凍期間を示しておらず、常温・冷蔵の期間を考えれば必要もありません。ただし買ってきた袋を48時間冷凍しておくと、保存容器に移す前に虫の卵を退治できます。",
+    "thawing": null,
+    "spoilage": [
+      "容器を開けたときのカビ臭、酸っぱいにおい、古い油のにおい",
+      "コクゾウムシ、小さな蛾、幼虫、細いクモの巣状のもの",
+      "湿った固まり、表面が固い層になっている",
+      "灰色や黄色への変色、斑点"
+    ],
+    "tips": [
+      "新品の袋は48時間冷凍して虫の卵を退治してから密閉保存",
+      "容器に粉の種類と開封日を書いておきましょう",
+      "容器にローリエを1枚入れるのは昔ながらの防虫の知恵です",
+      "保存中に締まるので、計量前にふるうかほぐしましょう"
+    ],
+    "faq": [
+      {"q": "小麦粉はどのくらい日持ちしますか？", "a": "未開封は涼しく乾燥した場所で購入日から6〜12か月、開封後は6〜8か月。密閉容器で冷蔵すれば開封後約1年です。"},
+      {"q": "小麦粉が傷んだか見分けるには？", "a": "においを確認し、カビ臭や酸化臭があれば処分を。虫、クモの巣状のもの、固まり、変色もチェックしてください。"},
+      {"q": "小麦粉は冷蔵庫に入れるべきですか？", "a": "入れても構いませんし、湿気の多い台所では有効で、密閉容器なら開封後約1年。においが移らないよう密閉性の高い容器を使ってください。"}
+    ]
+  },
+  "es": {
+    "name": "Harina blanca de trigo",
+    "aliases": ["harina común", "harina 0000", "harina de todo uso", "harina de fuerza", "harina refinada"],
+    "summary": "La harina blanca ha perdido el salvado y el germen, así que dura mucho más que la integral. Sin abrir aguanta 6–12 meses desde la compra en un armario fresco y seco, y 6–8 meses una vez abierta. En un recipiente hermético en la nevera, la harina abierta dura alrededor de 1 año.",
+    "pantry": "Lo ideal es un armario fresco, seco y oscuro lejos de los fogones y del fregadero: 6–12 meses desde la compra sin abrir y 6–8 meses tras abrirla. Pásala de la bolsa de papel a un recipiente hermético en cuanto la abras, tanto para dejar fuera la humedad como para impedir la entrada de gorgojos y polillas. Nunca rellenes un bote antiguo con una bolsa nueva: termínalo y lávalo primero.",
+    "fridge": "Refrigerar es buena opción en climas húmedos: en un recipiente realmente hermético a 4 °C (40 °F) o menos, la harina abierta dura alrededor de 1 año. Como absorbe olores con facilidad, ciérrala bien y manténla lejos de cebolla, ajo y pescado. Deja que se atempere antes de abrirla para que la condensación no la humedezca.",
+    "freezer": "El USDA no da un plazo de congelación para la harina blanca, y con estos plazos de despensa y nevera no hace falta. Congelar una bolsa recién comprada 48 horas sigue siendo la forma habitual de eliminar huevos de insecto antes de trasvasarla.",
+    "thawing": null,
+    "spoilage": [
+      "Olor a humedad, agrio o rancio al abrir el recipiente",
+      "Gorgojos, polillas pequeñas, larvas o telarañas finas en la harina",
+      "Grumos húmedos o una costra dura en la superficie",
+      "Coloración gris, amarillenta o con manchas"
+    ],
+    "tips": [
+      "Congela la bolsa nueva 48 horas para matar huevos de insecto y guárdala hermética",
+      "Etiqueta el recipiente con el tipo de harina y la fecha de apertura",
+      "Pon una hoja de laurel dentro: un truco tradicional contra los insectos de despensa",
+      "Tamiza o airea la harina antes de medirla, porque se compacta al almacenarse"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la harina blanca?", "a": "6–12 meses desde la compra sin abrir y 6–8 meses tras abrirla en una despensa fresca y seca. En recipiente hermético en la nevera, alrededor de 1 año."},
+      {"q": "¿Cómo saber si la harina está mala?", "a": "Huélela: si tiene olor a humedad o rancio, deséchala. Revisa también gorgojos, telarañas, grumos o cambios de color."},
+      {"q": "¿Conviene guardar la harina en la nevera?", "a": "Puedes, y en cocinas húmedas ayuda: alrededor de 1 año tras abrirla en recipiente hermético. Asegúrate de que cierre bien para que no absorba olores."}
+    ]
+  }
+}

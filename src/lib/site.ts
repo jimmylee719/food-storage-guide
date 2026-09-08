@@ -6,6 +6,8 @@ export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || 'https://food-stora
 
 export const ADSENSE_CLIENT = process.env.NEXT_PUBLIC_ADSENSE_CLIENT || 'ca-pub-8149364037190716';
 export const GA_ID = process.env.NEXT_PUBLIC_GA_ID || '';
+/** The content value of Search Console's HTML-tag verification method. */
+export const GOOGLE_SITE_VERIFICATION = process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || '';
 
 export const CONTACT_EMAIL = 'skadoosh.ai.lab@gmail.com';
 export const SITE_LAUNCH_YEAR = 2025;

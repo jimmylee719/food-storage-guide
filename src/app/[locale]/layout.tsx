@@ -6,7 +6,7 @@ import '../globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { HTML_LANG, LOCALES, type Locale, isLocale, t } from '@/lib/i18n';
-import { ADSENSE_CLIENT, GA_ID, SITE_URL, absoluteUrl } from '@/lib/site';
+import { ADSENSE_CLIENT, GA_ID, GOOGLE_SITE_VERIFICATION, SITE_URL, absoluteUrl } from '@/lib/site';
 import { jsonLdScript } from '@/lib/seo';
 
 export function generateStaticParams() {
@@ -24,6 +24,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     applicationName: d.siteName,
     formatDetection: { telephone: false },
     other: { 'google-adsense-account': ADSENSE_CLIENT },
+    ...(GOOGLE_SITE_VERIFICATION ? { verification: { google: GOOGLE_SITE_VERIFICATION } } : {}),
   };
 }
 

@@ -85,7 +85,7 @@ export function headline(food: Food, key: MethodKey, locale: Locale): string {
   const span = primarySpan(method);
   const value = formatSpan(span, locale);
   if (value) return value;
-  return span?.tips ? d.quickAnswer : '—';
+  return span?.tips ? d.seeNotes : '—';
 }
 
 export function relatedFoods(food: Food, limit = 8): Food[] {

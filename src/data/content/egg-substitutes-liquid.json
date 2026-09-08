@@ -1,0 +1,107 @@
+{
+  "slug": "egg-substitutes-liquid",
+  "en": {
+    "name": "Liquid egg substitutes",
+    "aliases": ["liquid egg product", "egg beaters", "liquid egg whites", "carton eggs"],
+    "summary": "Liquid egg substitutes are pasteurized egg products sold in cartons, usually egg whites with colouring and stabilizers, used in place of shell eggs. Refrigerated at 4 °C (40 °F) or below an unopened carton keeps about 7 days from purchase, and once opened it should be used within 3 days.",
+    "pantry": "Refrigerated liquid egg products cannot be stored at room temperature. Pasteurization reduces bacteria but does not sterilize the carton, so in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) any survivors multiply quickly. Discard a carton left out for more than 2 hours, or 1 hour above 32 °C (90 °F). Frozen versions sold from the freezer cabinet stay frozen until you thaw them in the fridge.",
+    "fridge": "Keep the carton on a cold inside shelf at 4 °C (40 °F) or below, never in the door. Unopened it lasts about 7 days from purchase; after opening, fold or clip the spout closed and finish it within 3 days, because pouring introduces air and bacteria. Shake before each use, as the solids settle.",
+    "freezer": "Liquid egg substitute freezes well and stays safe indefinitely at −18 °C (0 °F). Freeze it unopened in its carton, or pour opened product into an airtight container or ice-cube tray leaving room for expansion. Use it soon after thawing, and expect slightly more liquid separation; whisk it back together before cooking.",
+    "thawing": "Thaw in the fridge overnight — never at room temperature — and use it within 3 days of thawing. Do not refreeze thawed liquid egg product, and always cook it thoroughly.",
+    "spoilage": [
+      "Sour, sulphurous or off smell when the carton is opened",
+      "Thickened, gelled, slimy or stringy texture instead of a smooth pour",
+      "Pink, green or greyish discolouration",
+      "A bulging carton or gas escaping when it is opened"
+    ],
+    "tips": [
+      "Write the opening date on the carton — 3 days goes by quickly.",
+      "Measure out what you need and return the carton to the fridge immediately.",
+      "Freeze in ice-cube trays if you only use a little at a time (about 50 ml equals one egg).",
+      "Cook egg dishes to 71 °C (160 °F) as you would with shell eggs."
+    ],
+    "faq": [
+      {"q": "Can you freeze liquid egg substitute?", "a": "Yes. Freeze it at −18 °C (0 °F) unopened or in an airtight container with headspace, then thaw it in the fridge and use it within 3 days."},
+      {"q": "How long does liquid egg substitute last after opening?", "a": "About 3 days in the fridge at 4 °C (40 °F) or below, against roughly 7 days from purchase while the carton is sealed."},
+      {"q": "Does liquid egg substitute need to be refrigerated?", "a": "Yes, the chilled kind does — keep it at 4 °C (40 °F) or below and never leave it out for more than 2 hours."}
+    ]
+  },
+  "zh": {
+    "name": "液態蛋替代品",
+    "aliases": ["液蛋", "液態蛋白", "盒裝蛋液", "代蛋液", "蛋液產品"],
+    "summary": "液態蛋替代品是盒裝的殺菌蛋製品，多半以蛋白為主，加入色素和安定劑，用來取代帶殼雞蛋。放在 4°C 以下冷藏，未開封從購買日起約可放 7 天；開封後請在 3 天內用完。",
+    "pantry": "冷藏販售的液態蛋製品不能放室溫。殺菌只是減少細菌，並不是完全滅菌，在 4～60°C 的危險溫度帶殘存的細菌會快速繁殖。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就該丟棄。冷凍櫃販售的冷凍版本請保持冷凍，要用時再移到冷藏解凍。",
+    "fridge": "把紙盒放在冰箱內層冷的位置，維持 4°C 以下，絕對不要放門邊。未開封從購買日起約 7 天；開封後把倒口摺好夾緊，並在 3 天內用完，因為每次倒出都會帶入空氣和細菌。固形物會沉澱，使用前先搖勻。",
+    "freezer": "液態蛋替代品很適合冷凍，放 −18°C 安全上可以無限期保存。可以整盒未開封冷凍，或把已開封的倒進密封容器或製冰盒（預留膨脹空間）。解凍後盡快用完，可能會稍微分離，攪打均勻即可。",
+    "thawing": "請放冷藏室退冰一晚，絕對不要放室溫，解凍後 3 天內用完。解凍後不要再冷凍，並且務必徹底加熱。",
+    "spoilage": [
+      "打開紙盒聞到酸味、硫磺味或其他異味",
+      "質地變濃稠、凝膠化、黏滑或牽絲，倒不順",
+      "顏色變粉紅、發綠或帶灰",
+      "紙盒鼓起，或打開時有氣體逸出"
+    ],
+    "tips": [
+      "在紙盒上寫開封日期，3 天很快就過。",
+      "量出需要的份量後，立刻把盒子放回冰箱。",
+      "每次只用一點的話可以做成冷凍蛋液塊（約 50 毫升相當於一顆蛋）。",
+      "和帶殼蛋一樣，蛋料理要加熱到中心 71°C。"
+    ],
+    "faq": [
+      {"q": "液態蛋可以冷凍嗎？", "a": "可以。未開封整盒或倒進密封容器（留膨脹空間）放 −18°C 冷凍，之後移到冷藏解凍並在 3 天內用完。"},
+      {"q": "液態蛋開封後可以放多久？", "a": "在 4°C 以下冷藏約 3 天；未開封的話從購買日起約 7 天。"},
+      {"q": "液態蛋一定要冰嗎？", "a": "冷藏販售的一定要冰，維持 4°C 以下，也不要在室溫放超過 2 小時。"}
+    ]
+  },
+  "ja": {
+    "name": "液卵（卵代替品）",
+    "aliases": ["液体卵", "液卵白", "紙パック入り卵", "エッグサブスティテュート"],
+    "summary": "液卵タイプの卵代替品は、紙パックで売られる殺菌済みの卵製品で、多くは卵白に着色料や安定剤を加えたものです。殻付き卵の代わりに使えます。4℃以下の冷蔵で、未開封なら購入日から約7日、開封後は3日以内に使い切ってください。",
+    "pantry": "冷蔵タイプの液卵は常温保存できません。殺菌処理は菌を減らすだけで無菌にするものではなく、4〜60℃の危険温度帯では残った菌が急速に増えます。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。冷凍ケースで売られている冷凍タイプは凍ったまま保管し、使うときに冷蔵庫で解凍します。",
+    "fridge": "紙パックはドアポケットではなく庫内のよく冷える棚に置き、4℃以下を保ちます。未開封で購入日から約7日。開封後は注ぎ口を折ってクリップで留め、3日以内に使い切りましょう。注ぐたびに空気と菌が入るためです。成分が沈むので、使う前に軽く振ってください。",
+    "freezer": "液卵は冷凍向きで、−18℃なら安全面では長期間保存できます。未開封ならパックごと、開封済みなら密閉容器や製氷皿に移し（膨張分の余裕を残して）凍らせます。解凍後は早めに使い、多少分離するので泡立て器で混ぜてから調理してください。",
+    "thawing": "解凍は必ず冷蔵庫で一晩。常温解凍は避け、解凍後3日以内に使い切ります。解凍したものを再冷凍せず、必ずしっかり加熱してください。",
+    "spoilage": [
+      "パックを開けたときに酸っぱいにおいや硫黄臭、異臭がする",
+      "とろみが出てゲル状・ぬめり・糸引きの状態になっている",
+      "ピンク、緑、灰色っぽい変色がある",
+      "パックが膨らんでいる、開封時にガスが抜ける"
+    ],
+    "tips": [
+      "パックに開封日を書く。3日はあっという間に過ぎる。",
+      "必要量を計り取ったら、すぐにパックを冷蔵庫へ戻す。",
+      "少量ずつ使うなら製氷皿で小分け冷凍する（約50mlが卵1個分）。",
+      "殻付き卵と同じく、卵料理は中心温度71℃までしっかり加熱する。"
+    ],
+    "faq": [
+      {"q": "液卵は冷凍できますか？", "a": "できます。未開封のパックごと、または余裕をとった密閉容器に入れて−18℃で冷凍し、冷蔵庫で解凍して3日以内に使い切ってください。"},
+      {"q": "液卵は開封後どのくらいもちますか？", "a": "4℃以下の冷蔵で約3日です。未開封なら購入日から約7日が目安になります。"},
+      {"q": "液卵は冷蔵が必要ですか？", "a": "冷蔵タイプは必要です。4℃以下を保ち、室温に2時間以上置かないでください。"}
+    ]
+  },
+  "es": {
+    "name": "Sustituto de huevo líquido",
+    "aliases": ["huevo líquido", "clara de huevo líquida", "huevo en cartón", "producto de huevo pasteurizado"],
+    "summary": "Los sustitutos de huevo líquido son productos de huevo pasteurizados que se venden en cartón, normalmente clara con colorantes y estabilizantes, para reemplazar al huevo con cáscara. Refrigerados a 4 °C (40 °F) o menos, el envase sin abrir dura unos 7 días desde la compra, y una vez abierto conviene usarlo en 3 días.",
+    "pantry": "Los productos de huevo líquido refrigerados no pueden guardarse a temperatura ambiente. La pasteurización reduce las bacterias pero no esteriliza el envase, así que en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F) las que quedan se multiplican rápido. Desecha un envase que haya estado fuera más de 2 horas, o 1 hora por encima de 32 °C (90 °F). Las versiones congeladas se mantienen congeladas hasta descongelarlas en el refrigerador.",
+    "fridge": "Guarda el cartón en un estante interior frío a 4 °C (40 °F) o menos, nunca en la puerta. Sin abrir dura unos 7 días desde la compra; tras abrirlo, cierra bien el pico y termínalo en 3 días, porque al servir entran aire y bacterias. Agítalo antes de cada uso, ya que los sólidos se asientan.",
+    "freezer": "El sustituto de huevo líquido se congela bien y se mantiene seguro indefinidamente a −18 °C (0 °F). Congélalo sin abrir en su cartón, o pasa el producto abierto a un recipiente hermético o cubitera dejando espacio para que expanda. Úsalo pronto tras descongelar y bate para reintegrar el líquido que se separe.",
+    "thawing": "Descongélalo en el refrigerador durante una noche —nunca a temperatura ambiente— y úsalo en los 3 días siguientes. No vuelvas a congelarlo una vez descongelado y cocínalo siempre por completo.",
+    "spoilage": [
+      "Olor agrio, sulfuroso o desagradable al abrir el envase",
+      "Textura espesa, gelificada, viscosa o filante en lugar de fluida",
+      "Coloración rosada, verdosa o grisácea",
+      "Envase hinchado o salida de gas al abrirlo"
+    ],
+    "tips": [
+      "Anota la fecha de apertura en el cartón: 3 días pasan volando.",
+      "Mide lo que necesites y devuelve el envase al refrigerador enseguida.",
+      "Congélalo en cubitera si lo usas poco a poco (unos 50 ml equivalen a un huevo).",
+      "Cocina los platos de huevo hasta 71 °C (160 °F), igual que con huevo con cáscara."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el huevo líquido?", "a": "Sí. Congélalo a −18 °C (0 °F) sin abrir o en un recipiente hermético con espacio libre; descongélalo en el refrigerador y úsalo en 3 días."},
+      {"q": "¿Cuánto dura el huevo líquido después de abrirlo?", "a": "Unos 3 días en el refrigerador a 4 °C (40 °F) o menos, frente a unos 7 días desde la compra si el envase sigue cerrado."},
+      {"q": "¿El huevo líquido necesita refrigeración?", "a": "Sí, la versión refrigerada: mantenla a 4 °C (40 °F) o menos y no la dejes fuera más de 2 horas."}
+    ]
+  }
+}

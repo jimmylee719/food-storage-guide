@@ -23,19 +23,11 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const d = t(locale);
   const name = d.categoryNames[cat];
   const items = foodsInCategory(cat);
-  const titles: Record<Locale, string> = {
-    zh: `${name}保存方法與保鮮期限（常溫、冷藏、冷凍）`,
-    en: `How long does ${name.toLowerCase()} last? Pantry, fridge and freezer times`,
-    ja: `${name}の保存期間：常温・冷蔵・冷凍の目安`,
-    es: `¿Cuánto duran ${name.toLowerCase()}? Despensa, nevera y congelador`,
-  };
-  const descs: Record<Locale, string> = {
-    zh: `${items.length} 種${name}的常溫、冷藏與冷凍保存期限一覽，以美國農業部 FoodKeeper 資料為基礎，附保存訣竅與腐敗判斷。`,
-    en: `Storage times for ${items.length} ${name.toLowerCase()} in the pantry, fridge and freezer, based on the USDA FoodKeeper dataset, with tips and spoilage signs.`,
-    ja: `${name}${items.length} 品目の常温・冷蔵・冷凍の保存期間一覧。米国農務省 FoodKeeper データにもとづき、保存のコツと傷みのサインも掲載。`,
-    es: `Tiempos de conservación de ${items.length} ${name.toLowerCase()} en despensa, nevera y congelador, según el conjunto de datos FoodKeeper del USDA.`,
-  };
-  return buildMetadata({ title: titles[locale], description: descs[locale], path: `/category/${cat}`, locale });
+  // CJK titles read better without the colon separator.
+  const cjk = locale === 'zh' || locale === 'ja';
+  const title = cjk ? `${name}${d.categoryTitleSuffix}` : `${name}: ${d.categoryTitleSuffix}`;
+  const description = d.categoryDescLead(items.length, name);
+  return buildMetadata({ title, description, path: `/category/${cat}`, locale });
 }
 
 export default async function CategoryPage({ params }: { params: Promise<{ locale: string; cat: string }> }) {

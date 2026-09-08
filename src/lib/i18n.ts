@@ -83,6 +83,9 @@ type Dict = {
   detailPageCta: string;
   listingOnly: string;
   quickAnswer: string;
+  seeNotes: string;
+  categoryTitleSuffix: string;
+  categoryDescLead: (n: number, name: string) => string;
   seeGuide: string;
   languageLabel: string;
   toc: string;
@@ -154,6 +157,9 @@ const zh: Dict = {
   detailPageCta: '查看完整保存方法',
   listingOnly: '此食材目前提供保存期限資料，完整說明整理中。',
   quickAnswer: '快速解答',
+  seeNotes: '見說明',
+  categoryTitleSuffix: '保存方法與保鮮期限（常溫、冷藏、冷凍）',
+  categoryDescLead: (n, name) => `${n} 種${name}的常溫、冷藏與冷凍保存期限一覽，以美國農業部 FoodKeeper 資料為基礎，並附保存訣竅與腐敗判斷。`,
   seeGuide: '閱讀完整指南',
   languageLabel: '語言',
   toc: '本文目錄',
@@ -225,6 +231,9 @@ const en: Dict = {
   detailPageCta: 'See full storage guide',
   listingOnly: 'Storage times are available for this food. The full write-up is in progress.',
   quickAnswer: 'Quick answer',
+  seeNotes: 'See notes',
+  categoryTitleSuffix: 'storage times in the pantry, fridge and freezer',
+  categoryDescLead: (n, name) => `Storage times for ${n} ${name.toLowerCase()} in the pantry, fridge and freezer, based on the USDA FoodKeeper dataset, with tips and spoilage signs.`,
   seeGuide: 'Read the full guide',
   languageLabel: 'Language',
   toc: 'On this page',
@@ -296,6 +305,9 @@ const ja: Dict = {
   detailPageCta: '詳しい保存方法を見る',
   listingOnly: 'この食材は保存期間のデータを掲載しています。詳しい解説は準備中です。',
   quickAnswer: '結論',
+  seeNotes: '備考あり',
+  categoryTitleSuffix: 'の保存期間：常温・冷蔵・冷凍の目安',
+  categoryDescLead: (n, name) => `${name}${n} 品目の常温・冷蔵・冷凍の保存期間一覧。米国農務省 FoodKeeper データにもとづき、保存のコツと傷みのサインも掲載。`,
   seeGuide: 'ガイドを読む',
   languageLabel: '言語',
   toc: '目次',
@@ -367,6 +379,9 @@ const es: Dict = {
   detailPageCta: 'Ver la guía completa',
   listingOnly: 'Este alimento tiene datos de conservación. La ficha completa está en preparación.',
   quickAnswer: 'Respuesta rápida',
+  seeNotes: 'Ver notas',
+  categoryTitleSuffix: 'cuánto duran en despensa, nevera y congelador',
+  categoryDescLead: (n, name) => `Tiempos de conservación de ${n} ${name.toLowerCase()} en despensa, nevera y congelador, según el conjunto de datos FoodKeeper del USDA.`,
   seeGuide: 'Leer la guía completa',
   languageLabel: 'Idioma',
   toc: 'En esta página',

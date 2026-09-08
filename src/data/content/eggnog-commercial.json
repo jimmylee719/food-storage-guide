@@ -1,0 +1,107 @@
+{
+  "slug": "eggnog-commercial",
+  "en": {
+    "name": "Commercial eggnog",
+    "aliases": ["store-bought eggnog", "egg nog", "holiday nog", "dairy eggnog"],
+    "summary": "Commercial eggnog is a chilled, pasteurized drink of milk, cream, sugar and egg, sold mostly around the winter holidays. Kept at 4 °C (40 °F) or below it lasts 3–5 days from the day you buy it, and it can be frozen for about 6 months. Homemade eggnog with raw egg is far more perishable and is not covered by these times.",
+    "pantry": "Eggnog is a rich dairy-and-egg drink and must stay refrigerated. Left in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) it spoils quickly, so a jug that has been on the table for more than 2 hours — 1 hour above 32 °C (90 °F) — should be poured away. Shelf-stable canned or aseptic eggnog may sit in the pantry until opened, then follows the fridge rule.",
+    "fridge": "Store the carton upright on a cold inside shelf at 4 °C (40 °F) or below, not in the door. Plan on 3–5 days from purchase, even if the printed date runs longer, and shake well before pouring because the solids settle. Serve from a small pitcher and return the carton to the fridge straight away rather than leaving it out during a party.",
+    "freezer": "Eggnog freezes well and keeps good quality for about 6 months at −18 °C (0 °F), where it remains safe indefinitely. Pour it into a rigid container or freezer bag, leaving 3–4 cm of headspace because it expands. It usually separates on thawing, but a good shake or a quick blitz in a blender brings it back to a drinkable texture.",
+    "thawing": "Thaw frozen eggnog in the fridge over 24 hours, never on the counter, then shake or blend it thoroughly before serving. Drink it within a few days of thawing and do not refreeze it.",
+    "spoilage": [
+      "Sour, yeasty or fermented smell instead of a sweet, custardy aroma",
+      "Curdled lumps or grainy solids that will not disappear when shaken",
+      "A thick, slimy texture, or a yellowed or greyish colour",
+      "A swollen carton, or gas escaping when it is opened"
+    ],
+    "tips": [
+      "Buy it close to when you will drink it — 3–5 days is a short window.",
+      "Freeze a carton in portions if you buy several during the holidays.",
+      "Serve in a jug over ice and keep the carton chilled during a party.",
+      "Do not top up a partly used pitcher with fresh eggnog; wash it first."
+    ],
+    "faq": [
+      {"q": "Can you freeze eggnog?", "a": "Yes. Leave headspace in the container and freeze at −18 °C (0 °F) for about 6 months. Thaw in the fridge and blend or shake to fix the separation."},
+      {"q": "How long does eggnog last in the fridge?", "a": "About 3–5 days from the day of purchase at 4 °C (40 °F) or below for the commercial pasteurized kind."},
+      {"q": "How can you tell if eggnog has gone bad?", "a": "A sour or yeasty smell, curdled lumps that will not shake out, a slimy texture or a swollen carton all mean it should be discarded."}
+    ]
+  },
+  "zh": {
+    "name": "市售蛋酒（eggnog）",
+    "aliases": ["蛋奶酒", "蛋諾", "耶誕蛋奶飲", "eggnog"],
+    "summary": "市售蛋酒是以牛奶、鮮奶油、糖和蛋做成的冷藏殺菌飲品，多半在冬季節慶期間販售。放在 4°C 以下冷藏，從購買日起可放 3～5 天；冷凍約可放 6 個月。自製、使用生蛋的蛋酒更容易腐敗，不適用這裡的時間。",
+    "pantry": "蛋酒是濃郁的蛋奶飲品，必須全程冷藏。放在 4～60°C 的危險溫度帶會很快變質，桌上放超過 2 小時（氣溫超過 32°C 時 1 小時）的就該倒掉。常溫罐裝或無菌包裝的蛋酒在開封前可以放櫥櫃，開封後就比照冷藏規則。",
+    "fridge": "紙盒直立放在冰箱內層冷的位置，維持 4°C 以下，不要放門邊。即使標示日期比較晚，仍以購買日起 3～5 天為準；固形物會沉澱，倒之前先充分搖勻。聚會時用小壺分裝上桌，紙盒立刻放回冰箱，不要一直放在外面。",
+    "freezer": "蛋酒很適合冷凍，放 −18°C 品質約可維持 6 個月，安全上可以無限期保存。倒進硬質容器或冷凍袋，記得預留 3～4 公分的膨脹空間。解凍後通常會分層，用力搖勻或用果汁機打一下就能恢復可以飲用的質地。",
+    "thawing": "冷凍的蛋酒請放冷藏室解凍 24 小時，絕對不要放室溫，之後充分搖勻或打勻再喝。解凍後幾天內喝完，不要再冷凍。",
+    "spoilage": [
+      "聞起來是酸敗味、酵母味或發酵味，而不是香甜的卡士達香",
+      "出現凝結顆粒或粗糙結塊，搖也搖不散",
+      "質地變濃稠黏滑，或顏色泛黃、發灰",
+      "紙盒鼓起，或打開時有氣體逸出"
+    ],
+    "tips": [
+      "要喝再買，3～5 天的期限很短。",
+      "節慶期間買很多的話，分裝冷凍起來。",
+      "用壺盛裝加冰塊上桌，紙盒本體維持冷藏。",
+      "不要把新的蛋酒倒進喝剩的壺裡混用，先洗乾淨再裝。"
+    ],
+    "faq": [
+      {"q": "蛋酒可以冷凍嗎？", "a": "可以。容器預留膨脹空間，放 −18°C 冷凍約 6 個月。冷藏解凍後搖勻或用果汁機打勻即可改善分層。"},
+      {"q": "蛋酒放冰箱可以放多久？", "a": "市售殺菌蛋酒在 4°C 以下冷藏，從購買日起約 3～5 天。"},
+      {"q": "蛋酒壞掉怎麼看？", "a": "有酸味或酵母味、搖不散的凝結顆粒、質地黏滑或紙盒鼓起，都代表該丟掉了。"}
+    ]
+  },
+  "ja": {
+    "name": "エッグノッグ（市販品）",
+    "aliases": ["エッグノック", "たまごミルクドリンク", "市販エッグノッグ", "ホリデードリンク"],
+    "summary": "市販のエッグノッグは、牛乳・生クリーム・砂糖・卵から作られる冷蔵の殺菌済みドリンクで、主に冬のホリデーシーズンに売られます。4℃以下の冷蔵で購入日から3〜5日、冷凍なら約6か月が目安です。生卵を使った手作りのものはさらに傷みやすく、この目安は当てはまりません。",
+    "pantry": "エッグノッグは乳と卵のこくのある飲み物で、常に冷蔵が必要です。4〜60℃の危険温度帯ではすぐに傷むため、テーブルに2時間以上（気温32℃以上なら1時間以上）出していたものは処分してください。常温保存可の缶入り・無菌充填タイプは開封前なら常温で置けますが、開封後は冷蔵のルールに従います。",
+    "fridge": "パックは立てたまま、ドアポケットではなく庫内のよく冷える棚に置き、4℃以下を保ちます。表示期限が先でも、購入日から3〜5日を目安にしてください。成分が沈むので注ぐ前によく振りましょう。パーティーでは小さめのピッチャーに移し、パック本体はすぐ冷蔵庫に戻します。",
+    "freezer": "エッグノッグは冷凍向きで、−18℃で約6か月が品質の目安です（安全面では長期間保ちます）。膨張するので3〜4cmの余裕を残し、密閉容器か冷凍用保存袋に入れて凍らせます。解凍すると分離しますが、よく振るかミキサーで軽く撹拌すれば飲める状態に戻ります。",
+    "thawing": "冷凍したものは冷蔵庫で24時間かけて解凍します。常温解凍は避け、飲む前によく振るか撹拌してください。解凍後は数日以内に飲み切り、再冷凍はしないでください。",
+    "spoilage": [
+      "甘いカスタードのような香りではなく、酸敗臭や酵母臭、発酵臭がする",
+      "振っても消えないもろもろとしたかたまりやざらつきがある",
+      "とろみが強くぬめる、色が黄ばむ・灰色がかる",
+      "パックが膨らんでいる、開封時にガスが抜ける"
+    ],
+    "tips": [
+      "飲むタイミングに合わせて買う。3〜5日は短い。",
+      "シーズンにまとめ買いしたぶんは小分け冷凍する。",
+      "ピッチャーに移して氷を添え、パックは冷蔵庫で冷やしておく。",
+      "飲みかけのピッチャーに新しいエッグノッグを注ぎ足さず、洗ってから使う。"
+    ],
+    "faq": [
+      {"q": "エッグノッグは冷凍できますか？", "a": "できます。容器に余裕を残して−18℃で約6か月。冷蔵庫で解凍し、よく振るかミキサーにかけると分離が直ります。"},
+      {"q": "エッグノッグは冷蔵庫で何日もちますか？", "a": "市販の殺菌済みタイプなら、4℃以下で購入日から3〜5日が目安です。"},
+      {"q": "エッグノッグが傷んでいるかどうかの見分け方は？", "a": "酸っぱいにおいや酵母臭、振っても消えないかたまり、ぬめり、パックのふくらみがあれば処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Ponche de huevo comercial",
+    "aliases": ["eggnog", "rompope comercial", "ponche navideño de huevo", "coquito de huevo"],
+    "summary": "El ponche de huevo comercial es una bebida refrigerada y pasteurizada de leche, crema, azúcar y huevo, muy típica de las fiestas de invierno. A 4 °C (40 °F) o menos dura 3–5 días desde el día de compra y se puede congelar unos 6 meses. El ponche casero con huevo crudo es mucho más perecedero y no se rige por estos plazos.",
+    "pantry": "El ponche de huevo es una bebida rica en lácteos y huevo y debe permanecer refrigerada. En la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F) se estropea rápido, así que una jarra que lleve más de 2 horas en la mesa —1 hora por encima de 32 °C (90 °F)— hay que tirarla. Las versiones enlatadas o asépticas de larga duración pueden estar en la despensa hasta abrirlas y después siguen la regla del refrigerador.",
+    "fridge": "Guarda el envase de pie en un estante interior frío a 4 °C (40 °F) o menos, no en la puerta. Cuenta con 3–5 días desde la compra aunque la fecha impresa sea más larga, y agítalo bien antes de servir porque los sólidos se asientan. Sirve desde una jarra pequeña y devuelve el envase al frío en lugar de dejarlo fuera durante la fiesta.",
+    "freezer": "Se congela bien y conserva buena calidad unos 6 meses a −18 °C (0 °F), donde se mantiene seguro indefinidamente. Pásalo a un recipiente rígido o bolsa de congelación dejando 3–4 cm de espacio, porque expande. Suele separarse al descongelarse, pero un buen agitado o unos segundos de licuadora le devuelven una textura bebible.",
+    "thawing": "Descongélalo en el refrigerador durante 24 horas, nunca en la encimera, y agítalo o licúalo bien antes de servir. Consúmelo en pocos días tras descongelar y no vuelvas a congelarlo.",
+    "spoilage": [
+      "Olor agrio, a levadura o fermentado en lugar del aroma dulce a natilla",
+      "Grumos cortados o sólidos granulosos que no desaparecen al agitar",
+      "Textura espesa y viscosa, o color amarillento o grisáceo",
+      "Envase hinchado o salida de gas al abrirlo"
+    ],
+    "tips": [
+      "Cómpralo cerca del momento en que lo vas a beber: 3–5 días es poco.",
+      "Congela en porciones si compras varios envases en las fiestas.",
+      "Sirve en jarra con hielo y mantén el envase refrigerado durante la reunión.",
+      "No rellenes una jarra a medio usar con ponche nuevo; lávala primero."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el ponche de huevo?", "a": "Sí. Deja espacio libre en el recipiente y congélalo a −18 °C (0 °F) unos 6 meses. Descongélalo en el refrigerador y licúalo o agítalo para corregir la separación."},
+      {"q": "¿Cuánto dura el eggnog en el refrigerador?", "a": "Entre 3 y 5 días desde el día de compra a 4 °C (40 °F) o menos, en el caso del comercial pasteurizado."},
+      {"q": "¿Cómo saber si el ponche de huevo está malo?", "a": "Olor agrio o a levadura, grumos que no se deshacen al agitar, textura viscosa o envase hinchado indican que debe desecharse."}
+    ]
+  }
+}
