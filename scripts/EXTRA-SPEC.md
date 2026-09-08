@@ -1,8 +1,11 @@
-# Spec for `src/data/base/extra.json`
+# Spec for `src/data/base/extra/*.json`
 
-Storage records for foods the USDA FoodKeeper dataset does not cover. One JSON
-array. Append your batch to the existing array; never rewrite entries you did
-not add.
+Storage records for foods the USDA FoodKeeper dataset does not cover.
+
+**Write your own file**, named for your batch, e.g.
+`src/data/base/extra/a-tropical-fruit.json`. Each file is a JSON array. Never
+edit a file another batch owns — several batches are researched in parallel and
+the build merges every file in the directory.
 
 ```json
 {
@@ -29,7 +32,7 @@ not add.
 ## Field rules
 
 - **slug** — kebab-case English, unique across `foodkeeper.json`, `split.json`
-  and `extra.json`. Grep all three before writing.
+  and every file already in `extra/`. Grep all of them before writing.
 - **category** — exactly one of: `meat`, `poultry`, `seafood`, `dairy-eggs`,
   `vegetables`, `fruits`, `herbs-spices`, `grains-beans-pasta`, `baked-goods`,
   `baking-staples`, `condiments-sauces`, `shelf-stable`, `snacks-nuts-seeds`,
@@ -37,7 +40,10 @@ not add.
   `vegetarian-proteins`, `baby-food`.
 - **name / subtitle** — English. `subtitle` qualifies the form (`"dried"`,
   `"cooked"`, `"whole, ripe"`) or is `null`.
-- **keywords** — English plus the main local-language name, for search.
+- **keywords** — English plus the local-language names, and this matters: the
+  search index is built from these, so a Traditional Chinese, Japanese or
+  Spanish reader finds nothing unless their name for the food is in here.
+  Include Traditional Chinese, Japanese and Spanish names for every item.
 - **storage** — omit a method entirely when there is no reliable timeline for
   it. Inside a method use `base` unless a source distinguishes opened from
   unopened, in which case use `afterOpening` as well. `unit` is one of `hours`,

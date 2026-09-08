@@ -1,0 +1,107 @@
+{
+  "slug": "poultry-pieces-covered-gravy-broth",
+  "en": {
+    "name": "Poultry pieces in gravy or broth",
+    "aliases": ["chicken in gravy", "poultry in broth", "chicken casserole", "stewed chicken pieces"],
+    "summary": "Cooked poultry pieces held in gravy or broth — the leftovers of a roast, a casserole or a stew — keep 3–4 days in the fridge at 4 °C (40 °F) or below, and 1–2 months in the freezer at −18 °C (0 °F). The liquid keeps the meat moist but does not extend how long it is safe.",
+    "pantry": "A pot of chicken in gravy left on the stove is one of the classic food-safety mistakes. The liquid holds heat and cools slowly, so the food lingers in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) for hours. Refrigerate within 2 hours of cooking — 1 hour above 32 °C (90 °F) — dividing it into shallow containers so it cools fast.",
+    "fridge": "Cool the pieces and their liquid quickly, then store together in a covered container at 4 °C (40 °F) or below for 3–4 days. Keeping the meat submerged in the gravy stops it drying out and picking up fridge odours. Reheat only the portion you plan to eat; repeated heating and cooling of the whole pot shortens its safe life.",
+    "freezer": "Freeze the meat in its gravy — the liquid protects it from freezer burn far better than dry storage. Portion into meal-sized containers or bags, leave headspace for expansion, and freeze at −18 °C (0 °F): safe indefinitely, best quality for 1–2 months, which is shorter than plain frozen chicken because sauces separate and lose texture.",
+    "thawing": "Thaw in the fridge overnight, or reheat gently from frozen in a pan or oven with a splash of extra liquid. Bring it to a full simmer and check it reaches 74 °C (165 °F) throughout. Do not thaw at room temperature, and do not refreeze once it has been reheated.",
+    "spoilage": [
+      "Sour, yeasty or fermented smell when the container is opened",
+      "Bubbles, foam or a fizzing sound in the cold gravy — signs of fermentation",
+      "Slimy meat, or gravy that has turned stringy or unusually thick",
+      "Mould on the surface, or any off flavour on tasting a reheated spoonful"
+    ],
+    "tips": [
+      "Divide into shallow containers so the food cools through the danger zone quickly.",
+      "Keep the meat covered by the gravy to stop it drying out.",
+      "Freeze in single-meal portions rather than one large block.",
+      "Reheat to a full simmer, 74 °C (165 °F), not just until warm."
+    ],
+    "faq": [
+      {"q": "Can you freeze chicken in gravy?", "a": "Yes, at −18 °C (0 °F): safe indefinitely and best quality for 1–2 months. The gravy actually protects the meat from freezer burn."},
+      {"q": "How long does cooked chicken in broth last in the fridge?", "a": "3–4 days at 4 °C (40 °F) or below, provided it was cooled and refrigerated within 2 hours of cooking."},
+      {"q": "Does the gravy make the chicken last longer?", "a": "No. It keeps the meat moist and protects it in the freezer, but the safe fridge window is still 3–4 days."}
+    ]
+  },
+  "zh": {
+    "name": "浸在肉汁或高湯裡的雞鴨肉",
+    "aliases": ["燉雞肉", "肉汁雞肉", "高湯浸雞", "雞肉燴菜"],
+    "summary": "浸在肉汁或高湯裡的熟禽肉——像是烤雞、燉雞或砂鍋料理的剩菜——在 4°C 以下冷藏可放 3～4 天；放 −18°C 冷凍可放 1～2 個月。湯汁能讓肉保持濕潤，但不會延長安全期限。",
+    "pantry": "一鍋泡在肉汁裡的雞肉留在爐子上，是最典型的食安錯誤之一。湯汁保溫、降溫慢，食物會在 4～60°C 的危險溫度帶停留好幾個小時。請在煮好後 2 小時內冷藏（氣溫超過 32°C 時 1 小時），並分裝到淺容器加速降溫。",
+    "fridge": "把肉和湯汁一起快速降溫，之後裝在有蓋容器裡放 4°C 以下冷藏 3～4 天。讓肉浸在肉汁裡可以避免乾掉和吸附冰箱異味。每次只加熱要吃的份量；整鍋反覆加熱又放涼，會縮短安全期限。",
+    "freezer": "連湯汁一起冷凍——湯汁防止凍燒的效果比乾式保存好得多。分裝成每餐份量的容器或袋子，預留膨脹空間，放 −18°C 冷凍：安全上可以無限期保存，品質以 1～2 個月為佳，比單純冷凍雞肉短，因為醬汁會分離、口感變差。",
+    "thawing": "放冷藏室解凍一晚，或直接把冷凍的放進鍋子或烤箱，加一點液體慢慢加熱。要煮到完全滾起來、中心達到 74°C。不要在室溫解凍，加熱過的也不要再冷凍。",
+    "spoilage": [
+      "打開容器聞到酸味、酵母味或發酵味",
+      "冷的肉汁裡有氣泡、泡沫或嘶嘶聲——發酵的跡象",
+      "肉黏滑，或肉汁變得牽絲、異常濃稠",
+      "表面長黴，或加熱後嚐一小口有異味"
+    ],
+    "tips": [
+      "分裝到淺容器，才能快速通過危險溫度帶。",
+      "讓肉浸在肉汁裡，避免乾掉。",
+      "分成每餐份量冷凍，不要凍成一大塊。",
+      "要加熱到完全滾沸、74°C，不能只是溫熱。"
+    ],
+    "faq": [
+      {"q": "肉汁雞肉可以冷凍嗎？", "a": "可以，放 −18°C 冷凍：安全上無限期，品質以 1～2 個月為佳。肉汁其實還能保護肉不凍燒。"},
+      {"q": "高湯裡的熟雞肉放冰箱可以放多久？", "a": "在 4°C 以下冷藏 3～4 天，前提是煮好後 2 小時內就降溫冷藏。"},
+      {"q": "泡在肉汁裡會比較耐放嗎？", "a": "不會。它能保持濕潤、在冷凍時提供保護，但冷藏的安全期限一樣是 3～4 天。"}
+    ]
+  },
+  "ja": {
+    "name": "グレービーやスープに浸した鶏肉",
+    "aliases": ["煮込みチキン", "ソースに浸した鶏肉", "チキンシチュー", "だしに浸した鶏肉"],
+    "summary": "グレービーやスープに浸した加熱済みの鶏肉（ローストの残り、煮込み、シチューなど）は、4℃以下の冷蔵で3〜4日、−18℃の冷凍で1〜2か月が目安です。汁は肉のしっとりさを保ちますが、安全な保存期間を延ばすものではありません。",
+    "pantry": "汁に浸した鶏肉の鍋をコンロに置きっぱなしにするのは、典型的な失敗です。汁は熱を保ち冷めにくいため、4〜60℃の危険温度帯に何時間もとどまります。調理後2時間以内（気温32℃以上なら1時間以内）に冷蔵し、浅い容器に分けて手早く冷ましてください。",
+    "fridge": "肉と汁を手早く冷まし、ふた付き容器に一緒に入れて4℃以下で3〜4日保存します。肉を汁に沈めておくと乾燥もにおい移りも防げます。温め直すのは食べるぶんだけに。鍋ごと加熱と冷却を繰り返すと、安全な期間が短くなります。",
+    "freezer": "汁ごと冷凍しましょう。汁は冷凍焼けから肉を守る効果が高く、そのまま凍らせるよりずっと有利です。1食分ずつ容器や袋に分け、膨張分の余裕を残して−18℃で冷凍します。安全面では長期間、品質は1〜2か月が目安で、ソースが分離しやすいぶん、素の鶏肉より短めです。",
+    "thawing": "冷蔵庫で一晩解凍するか、凍ったまま鍋やオーブンで水分を少し足して弱火で温め直します。しっかり沸騰させ、中心まで74℃になったか確認してください。常温解凍は避け、一度温め直したものを再冷凍しないでください。",
+    "spoilage": [
+      "容器を開けたときに酸っぱいにおい、酵母臭、発酵臭がする",
+      "冷たいグレービーに気泡や泡、しゅわしゅわとした音がある（発酵のサイン）",
+      "肉がぬめる、グレービーが糸を引く・異常にとろみが増している",
+      "表面にカビがある、温め直して一口味見して異味がある"
+    ],
+    "tips": [
+      "浅い容器に分けると、危険温度帯を素早く通過できる。",
+      "肉が汁に浸かった状態を保ち、乾燥を防ぐ。",
+      "大きなかたまりではなく1食分ずつ冷凍する。",
+      "温めるのではなく、しっかり沸騰させて74℃まで加熱する。"
+    ],
+    "faq": [
+      {"q": "グレービーに浸した鶏肉は冷凍できますか？", "a": "できます。−18℃で安全面では長期間、品質は1〜2か月が目安。グレービーはむしろ冷凍焼けから肉を守ってくれます。"},
+      {"q": "だしに浸した鶏肉は冷蔵庫で何日もちますか？", "a": "調理後2時間以内に冷まして冷蔵していれば、4℃以下で3〜4日です。"},
+      {"q": "汁に浸すと日もちしますか？", "a": "しません。しっとり感を保ち冷凍時の保護にはなりますが、冷蔵での安全な期限は3〜4日のままです。"}
+    ]
+  },
+  "es": {
+    "name": "Piezas de ave en salsa o caldo",
+    "aliases": ["pollo en salsa", "ave en caldo", "guiso de pollo", "pollo estofado"],
+    "summary": "Las piezas de ave cocinadas y cubiertas de salsa o caldo —restos de un asado, un guiso o una cazuela— duran 3–4 días en el refrigerador a 4 °C (40 °F) o menos, y 1–2 meses en el congelador a −18 °C (0 °F). El líquido mantiene la carne jugosa pero no alarga su seguridad.",
+    "pantry": "Dejar una olla de pollo en salsa sobre el fogón es uno de los errores clásicos de seguridad alimentaria. El líquido retiene el calor y se enfría despacio, así que la comida pasa horas en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F). Refrigera en menos de 2 horas tras cocinar —1 hora por encima de 32 °C (90 °F)— repartiéndolo en recipientes bajos para que enfríe rápido.",
+    "fridge": "Enfría rápido la carne con su líquido y guárdalos juntos en un recipiente tapado a 4 °C (40 °F) o menos durante 3–4 días. Mantener la carne sumergida en la salsa evita que se seque y que absorba olores. Recalienta solo la ración que vayas a comer; calentar y enfriar la olla entera una y otra vez acorta su vida segura.",
+    "freezer": "Congela la carne en su salsa: el líquido la protege de la quemadura por congelación mucho mejor que el almacenamiento en seco. Reparte en raciones, deja espacio para la expansión y congela a −18 °C (0 °F): seguro indefinidamente y con la mejor calidad 1–2 meses, menos que el pollo solo porque las salsas se separan y pierden textura.",
+    "thawing": "Descongela en el refrigerador durante una noche, o recalienta desde congelado a fuego suave en una cazuela u horno con un chorro extra de líquido. Llévalo a hervor suave y comprueba que alcanza 74 °C (165 °F) en todo el volumen. No lo descongeles a temperatura ambiente ni lo vuelvas a congelar una vez recalentado.",
+    "spoilage": [
+      "Olor agrio, a levadura o fermentado al abrir el recipiente",
+      "Burbujas, espuma o efervescencia en la salsa fría: señales de fermentación",
+      "Carne viscosa, o salsa filante o anormalmente espesa",
+      "Moho en la superficie, o sabor extraño al probar una cucharada recalentada"
+    ],
+    "tips": [
+      "Reparte en recipientes bajos para atravesar rápido la zona de peligro.",
+      "Mantén la carne cubierta por la salsa para que no se reseque.",
+      "Congela en raciones individuales en vez de un bloque grande.",
+      "Recalienta hasta hervor suave, 74 °C (165 °F), no solo hasta que esté tibio."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el pollo en salsa?", "a": "Sí, a −18 °C (0 °F): seguro indefinidamente y con la mejor calidad 1–2 meses. La salsa incluso protege la carne de la quemadura por congelación."},
+      {"q": "¿Cuánto dura el pollo cocido en caldo en el refrigerador?", "a": "3–4 días a 4 °C (40 °F) o menos, siempre que se enfriara y refrigerara dentro de las 2 horas tras cocinarlo."},
+      {"q": "¿La salsa hace que el pollo dure más?", "a": "No. Mantiene la carne jugosa y la protege en el congelador, pero el plazo seguro en frío sigue siendo de 3–4 días."}
+    ]
+  }
+}

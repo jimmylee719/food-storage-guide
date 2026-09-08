@@ -1,0 +1,107 @@
+{
+  "slug": "garlic",
+  "en": {
+    "name": "Garlic",
+    "aliases": ["garlic bulb", "garlic cloves", "fresh garlic", "hardneck garlic"],
+    "summary": "Whole unbroken garlic bulbs keep about 1 month from the date of purchase in a cool, dark, airy pantry — that is the recommended way to store them. Once you break the bulb, individual cloves keep only 3–14 days in the fridge. Garlic also freezes for about 1 month.",
+    "pantry": "The pantry is the right home for whole, unbroken bulbs: a cool, dark, well-ventilated spot, ideally in a mesh basket or paper bag rather than a sealed container. Stored this way they keep about 1 month from purchase. Never store garlic in oil at room temperature, because low-acid garlic in oil can support Clostridium botulinum.",
+    "fridge": "Refrigeration suits individual cloves broken from the bulb, which keep 3–14 days at 4 °C (40 °F) or below. Whole bulbs kept cold tend to sprout and go rubbery. Peeled or chopped garlic should be sealed in a container in the fridge and used within a few days; garlic-in-oil preparations must always be refrigerated.",
+    "freezer": "Garlic keeps about 1 month from purchase at −18 °C (0 °F). Freeze peeled whole cloves in a bag, or chop or purée the garlic and freeze it in ice-cube portions ready to drop into a hot pan. The texture softens on thawing, so use frozen garlic for cooking rather than raw dishes.",
+    "thawing": "Add frozen garlic straight to the pan while cooking; no thawing is needed. Frozen whole cloves also grate easily straight from the freezer.",
+    "spoilage": [
+      "Soft, shrivelled or hollow-feeling cloves",
+      "Green shoots growing from the centre of the cloves",
+      "Brown, sticky or mouldy patches on the skin or clove",
+      "Sour, fermented or musty smell rather than a sharp garlic aroma"
+    ],
+    "tips": [
+      "Store whole bulbs in a mesh basket or paper bag, never a sealed plastic container",
+      "Keep garlic away from potatoes, whose moisture makes it sprout faster",
+      "Green sprouts are edible but bitter — halve the clove and remove the shoot",
+      "Never keep garlic in oil at room temperature; refrigerate it and use it quickly"
+    ],
+    "faq": [
+      {"q": "How long does garlic last?", "a": "Whole unbroken bulbs keep about 1 month from purchase in a cool, dark pantry. Individual cloves keep 3–14 days in the fridge, and garlic freezes for about 1 month."},
+      {"q": "Should garlic be stored in the fridge?", "a": "Whole bulbs are better in the pantry, where they keep about a month; the fridge makes them sprout. Loose cloves, however, keep 3–14 days refrigerated."},
+      {"q": "Is it safe to store garlic in oil?", "a": "Not at room temperature. Garlic is low in acid, so garlic in oil left out can support Clostridium botulinum. Keep home-made garlic oil refrigerated and use it within a few days."}
+    ]
+  },
+  "zh": {
+    "name": "大蒜",
+    "aliases": ["蒜頭", "蒜球", "蒜瓣", "蒜仁", "青蒜頭"],
+    "summary": "完整未剝開的蒜球放在陰涼、避光、通風的櫥櫃，從購買日起約可放 1 個月，這也是官方建議的保存方式。一旦剝開，單瓣的蒜仁放冰箱只能放 3～14 天。大蒜冷凍則約可保存 1 個月。",
+    "pantry": "常溫櫥櫃才是完整蒜球該待的地方：陰涼、避光、通風良好，最好放在網籃或紙袋裡，不要密封在容器中。這樣保存從購買日起約可放 1 個月。絕對不要把大蒜泡在油裡放室溫，因為低酸性的大蒜泡在油中可能讓肉毒桿菌生長。",
+    "fridge": "冷藏適合已經從蒜球上剝下來的單瓣蒜仁，放 4°C 以下可保存 3～14 天。整顆蒜球放冰箱反而容易發芽、變得軟韌。剝好或切好的蒜請密封放冰箱，並在幾天內用完；油漬蒜製品則一定要全程冷藏。",
+    "freezer": "大蒜放 −18°C 冷凍，從購買日起約可保存 1 個月。可以把剝好的整瓣裝袋冷凍，或切碎、打成泥後用製冰盒分成小份，煮的時候直接丟進熱鍋。解凍後質地會變軟，所以冷凍蒜適合入菜，不適合生食。",
+    "thawing": "冷凍大蒜可以直接下鍋，不需要退冰。冷凍的整瓣蒜也可以直接拿出來刨成蓉。",
+    "spoilage": [
+      "蒜瓣變軟、皺縮，捏起來空空的",
+      "蒜瓣中心長出綠色的芽",
+      "外皮或蒜瓣出現褐色、黏黏或發霉的斑塊",
+      "有酸味、發酵味或霉味，而不是嗆辣的蒜香"
+    ],
+    "tips": [
+      "整顆蒜球放網籃或紙袋，絕對不要密封在塑膠盒裡",
+      "大蒜要遠離馬鈴薯，馬鈴薯的濕氣會讓蒜更快發芽",
+      "綠芽可以吃但會苦，把蒜瓣對半剖開挑掉即可",
+      "絕對不要把大蒜泡在油裡放常溫，一定要冷藏並盡快用完"
+    ],
+    "faq": [
+      {"q": "大蒜可以放多久？", "a": "完整的蒜球放陰涼避光的櫥櫃，從購買日起約 1 個月。剝下來的單瓣放冰箱 3～14 天，冷凍則約 1 個月。"},
+      {"q": "大蒜要放冰箱嗎？", "a": "整顆蒜球放櫥櫃比較好，可以放約一個月，放冰箱反而容易發芽。但已經剝散的單瓣蒜，冷藏可以放 3～14 天。"},
+      {"q": "蒜頭泡油可以嗎？", "a": "放常溫不行。大蒜是低酸性食材，泡在油裡放室溫可能讓肉毒桿菌生長。自製蒜油請冷藏，並在幾天內用完。"}
+    ]
+  },
+  "ja": {
+    "name": "にんにく",
+    "aliases": ["ニンニク", "大蒜", "ガーリック", "にんにく玉", "青森にんにく"],
+    "summary": "ばらしていない丸ごとのにんにくは、涼しく暗く風通しのよい場所で購入日から約1か月保存でき、これが推奨される保存方法です。ばらしたあとの一片は冷蔵で3〜14日しか持ちません。冷凍なら約1か月保存できます。",
+    "pantry": "丸ごとのにんにくの置き場所は常温の食品庫です。涼しく暗く風通しのよい場所に、密閉容器ではなくネットや紙袋に入れて置きましょう。この方法なら購入日から約1か月持ちます。にんにくのオイル漬けを常温に置いてはいけません。低酸性のにんにくは油の中でボツリヌス菌が増える恐れがあります。",
+    "fridge": "冷蔵に向くのは、ばらした一片ずつのにんにくで、4℃以下なら3〜14日持ちます。丸ごとを冷蔵すると芽が出てゴムのようになりがちです。皮をむいたものや刻んだものは密閉して冷蔵し、数日以内に使い切りましょう。オイル漬けは必ず冷蔵してください。",
+    "freezer": "−18℃の冷凍なら購入日から約1か月保存できます。皮をむいた一片を袋に入れて凍らせるか、刻む・すりおろして製氷皿で小分けにし、熱した鍋にそのまま入れられるようにします。解凍後は食感がやわらかくなるので、生食より加熱調理向きです。",
+    "thawing": "冷凍にんにくは解凍せず、調理中の鍋にそのまま加えます。凍った一片はそのまますりおろすこともできます。",
+    "spoilage": [
+      "一片がやわらかい、しなびている、握ると空洞のように感じる",
+      "中心から緑の芽が伸びている",
+      "皮や身に茶色い部分、べたつき、カビがある",
+      "きりっとした香りではなく、酸っぱい・発酵した・カビ臭いにおいがする"
+    ],
+    "tips": [
+      "丸ごとはネットや紙袋で保存を。密閉容器は避けましょう",
+      "じゃがいものそばは避けて。湿気で芽が出やすくなります",
+      "緑の芽は食べられますが苦いので、半分に切って取り除きましょう",
+      "オイル漬けは常温不可。冷蔵し、数日以内に使い切ってください"
+    ],
+    "faq": [
+      {"q": "にんにくはどのくらい持ちますか？", "a": "丸ごとなら涼しく暗い場所で購入日から約1か月。ばらした一片は冷蔵で3〜14日、冷凍なら約1か月です。"},
+      {"q": "にんにくは冷蔵すべきですか？", "a": "丸ごとは常温のほうが向いており約1か月持ちます。冷蔵すると芽が出やすくなります。ばらした一片なら冷蔵で3〜14日です。"},
+      {"q": "にんにくのオイル漬けは安全ですか？", "a": "常温では安全ではありません。低酸性のため、油の中でボツリヌス菌が増える恐れがあります。自家製は冷蔵し、数日以内に使い切ってください。"}
+    ]
+  },
+  "es": {
+    "name": "Ajo",
+    "aliases": ["cabeza de ajo", "dientes de ajo", "ajo fresco", "ajo morado"],
+    "summary": "Las cabezas de ajo enteras y sin separar duran alrededor de 1 mes desde la compra en una despensa fresca, oscura y aireada, que es la forma recomendada de guardarlas. Una vez separada la cabeza, los dientes sueltos duran solo 3–14 días en la nevera. El ajo también se congela alrededor de 1 mes.",
+    "pantry": "La despensa es el sitio adecuado para las cabezas enteras: un lugar fresco, oscuro y bien ventilado, mejor en una cesta de malla o una bolsa de papel que en un recipiente cerrado. Así duran alrededor de 1 mes desde la compra. Nunca guardes ajo en aceite a temperatura ambiente, porque el ajo, poco ácido, puede favorecer a Clostridium botulinum.",
+    "fridge": "La nevera va bien para los dientes sueltos separados de la cabeza, que duran 3–14 días a 4 °C (40 °F) o menos. Las cabezas enteras en frío tienden a germinar y volverse gomosas. El ajo pelado o picado debe guardarse cerrado en la nevera y usarse en pocos días; los preparados de ajo en aceite deben refrigerarse siempre.",
+    "freezer": "El ajo dura alrededor de 1 mes desde la compra a −18 °C (0 °F). Congela dientes pelados enteros en una bolsa, o pícalo o tritúralo y congélalo en cubitos listos para echar a la sartén. La textura se ablanda al descongelar, así que úsalo cocinado y no en crudo.",
+    "thawing": "Añade el ajo congelado directamente a la sartén mientras cocinas; no hace falta descongelar. Los dientes congelados enteros también se rallan bien recién sacados.",
+    "spoilage": [
+      "Dientes blandos, arrugados o con tacto hueco",
+      "Brotes verdes saliendo del centro de los dientes",
+      "Zonas pardas, pegajosas o mohosas en la piel o el diente",
+      "Olor agrio, fermentado o a humedad en lugar del aroma punzante del ajo"
+    ],
+    "tips": [
+      "Guarda las cabezas enteras en cesta de malla o bolsa de papel, nunca en plástico cerrado",
+      "Manténlo lejos de las patatas, cuya humedad acelera la germinación",
+      "Los brotes verdes son comestibles pero amargos: parte el diente y retíralos",
+      "Nunca guardes ajo en aceite a temperatura ambiente; refrigéralo y úsalo pronto"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el ajo?", "a": "Las cabezas enteras duran alrededor de 1 mes desde la compra en despensa fresca y oscura. Los dientes sueltos, 3–14 días en la nevera, y congelado alrededor de 1 mes."},
+      {"q": "¿Hay que guardar el ajo en la nevera?", "a": "Las cabezas enteras van mejor en la despensa, donde duran cerca de un mes; la nevera las hace germinar. Los dientes sueltos, en cambio, duran 3–14 días refrigerados."},
+      {"q": "¿Es seguro guardar ajo en aceite?", "a": "A temperatura ambiente no. El ajo es poco ácido, así que en aceite y fuera de la nevera puede favorecer a Clostridium botulinum. Refrigera el aceite de ajo casero y úsalo en pocos días."}
+    ]
+  }
+}

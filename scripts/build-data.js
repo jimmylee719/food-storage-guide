@@ -13,7 +13,12 @@ function readJson(p, fallback) {
 }
 
 const base = readJson(D('base', 'foodkeeper.json'), []);
-const extra = readJson(D('base', 'extra.json'), []);
+// Each research batch writes its own file so concurrent work never collides.
+const extraDir = D('base', 'extra');
+const extra = fs.existsSync(extraDir)
+  ? fs.readdirSync(extraDir).filter((f) => f.endsWith('.json')).sort()
+      .flatMap((f) => readJson(path.join(extraDir, f), []))
+  : [];
 // FoodKeeper records that bundle several foods are replaced by the individual
 // foods generated in scripts/split-combined.js.
 const split = readJson(D('base', 'split.json'), []);

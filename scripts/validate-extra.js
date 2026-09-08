@@ -20,14 +20,21 @@ const split = read('split.json', []);
 const taken = new Map();
 for (const f of [...base, ...split]) taken.set(f.slug, f.source === 'usda-foodkeeper' ? 'foodkeeper/split' : 'base');
 
-let extra;
-try {
-  extra = JSON.parse(fs.readFileSync(path.join(ROOT, 'src', 'data', 'base', 'extra.json'), 'utf8'));
-} catch (e) {
-  console.log(`extra.json is missing or invalid JSON: ${e.message}`);
-  process.exit(1);
+const extraDir = path.join(ROOT, 'src', 'data', 'base', 'extra');
+if (!fs.existsSync(extraDir)) { console.log('src/data/base/extra/ does not exist'); process.exit(1); }
+const files = fs.readdirSync(extraDir).filter((f) => f.endsWith('.json')).sort();
+const extra = [];
+const fileOf = new Map();
+let fatal = 0;
+for (const f of files) {
+  let arr;
+  try { arr = JSON.parse(fs.readFileSync(path.join(extraDir, f), 'utf8')); } catch (e) {
+    console.log(`INVALID JSON ${f}: ${e.message}`); fatal++; continue;
+  }
+  if (!Array.isArray(arr)) { console.log(`${f} must be a JSON array`); fatal++; continue; }
+  for (const item of arr) { extra.push(item); fileOf.set(item, f); }
 }
-if (!Array.isArray(extra)) { console.log('extra.json must be a JSON array'); process.exit(1); }
+if (fatal) process.exit(1);
 
 let errors = 0;
 const seen = new Set();
