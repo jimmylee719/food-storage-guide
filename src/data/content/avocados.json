@@ -1,0 +1,107 @@
+{
+  "slug": "avocados",
+  "en": {
+    "name": "Avocados",
+    "aliases": ["Hass avocado", "alligator pear", "butter fruit", "aguacate"],
+    "summary": "Avocados are picked hard and ripen off the tree, softening as their oils develop. Keep them at room temperature until ripe — tender to a gentle squeeze and ready to eat — then refrigerate, where a ripe avocado keeps 3–4 days. Cold storage before ripening stops the process and the fruit never softens properly.",
+    "pantry": "Leave firm avocados on the counter, away from direct sun, until they yield to gentle pressure at the stem end. This usually takes 2–5 days depending on how hard they were when you bought them. To speed it up, put them in a paper bag with a banana, whose ethylene accelerates ripening. Never refrigerate a rock-hard avocado — it will never ripen properly afterwards.",
+    "fridge": "Once ripe, move avocados to the fridge at 4 °C (40 °F) or below, where they keep 3–4 days. This pauses ripening and buys you time. Half an avocado keeps best with the stone left in, the cut face rubbed with lemon or lime juice and wrapped tightly in cling film, though it will still brown at the surface within a day.",
+    "freezer": "USDA gives no freezer timeline for avocados. Whole or sliced avocado freezes poorly, turning watery and grey, but mashed avocado with a squeeze of lime freezes acceptably in an airtight container for use in dips and smoothies.",
+    "thawing": "Thaw frozen mashed avocado in the fridge and stir it well before use. The texture will be softer than fresh, which suits guacamole and smoothies but not slicing.",
+    "spoilage": [
+      "Stringy, brown or black flesh throughout, not just at the surface",
+      "Sunken dark patches on the skin that feel hollow underneath",
+      "Rancid or sour smell rather than a mild, nutty one",
+      "Mould around the stem or on the exposed cut surface"
+    ],
+    "tips": [
+      "Flick off the small stem cap — green underneath means ripe, brown means overripe",
+      "Ripen with a banana in a paper bag if you need one in a hurry",
+      "Refrigerate as soon as it is ripe to stop the clock",
+      "Store cut halves with the stone in and lime juice on the cut face"
+    ],
+    "faq": [
+      {"q": "How long do avocados last in the fridge?", "a": "A ripe avocado keeps 3–4 days at 4 °C (40 °F) or below. Unripe fruit should stay on the counter until soft, then go into the fridge."},
+      {"q": "Can you freeze avocado?", "a": "Whole or sliced avocado freezes badly, turning watery and grey. Mashed avocado with lime juice freezes acceptably in an airtight container for guacamole or smoothies."},
+      {"q": "How do you ripen an avocado quickly?", "a": "Put it in a paper bag with a banana or an apple at room temperature. The ethylene they release usually ripens it within a day or two."}
+    ]
+  },
+  "zh": {
+    "name": "酪梨",
+    "aliases": ["牛油果", "鱷梨", "油梨", "哈斯酪梨"],
+    "summary": "酪梨是硬著採收、離樹後才成熟的水果，隨著油脂發展而變軟。買回來先放室溫直到成熟——輕壓會下陷、可以入口的程度——之後再冷藏，成熟的酪梨可放 3～4 天。還沒熟就放冰箱會中斷後熟，之後也軟不回來了。",
+    "pantry": "硬的酪梨請放在室溫、避開陽光直射，直到蒂頭那端輕壓會微微下陷。依購買時的硬度不同，通常要 2～5 天。想加快的話，和香蕉一起放進紙袋，香蕉的乙烯會加速後熟。硬邦邦的酪梨絕對不要冷藏，之後就再也熟不好了。",
+    "fridge": "熟了之後移到 4°C 以下的冰箱，可保存 3～4 天，低溫能暫停後熟、幫你爭取時間。切一半的酪梨，最好保留籽、在切面抹上檸檬汁並用保鮮膜緊貼包好，不過表面一天內還是會變褐。",
+    "freezer": "USDA 沒有提供酪梨的冷凍期限。整顆或切片冷凍效果很差，會變得水水的、發灰；但打成泥加一點萊姆汁，用密封容器冷凍還算可以，適合做沾醬或果昔。",
+    "thawing": "冷凍的酪梨泥放冷藏室退冰，使用前充分攪拌。質地會比新鮮的更軟，適合做酪梨醬和果昔，不適合切片。",
+    "spoilage": [
+      "整顆果肉都出現褐黑色纖維，而不只是表面一層",
+      "外皮有凹陷的暗色斑塊，按下去底下是空的",
+      "有油耗味或酸味，而不是溫和的堅果香",
+      "蒂頭附近或切面長黴"
+    ],
+    "tips": [
+      "把蒂頭的小蒂摳掉，底下是綠色代表剛好，褐色代表過熟",
+      "急著要用就和香蕉一起放紙袋催熟",
+      "一熟就立刻冷藏，把時間凍住",
+      "切開的半顆保留籽、切面抹萊姆汁再保存"
+    ],
+    "faq": [
+      {"q": "酪梨放冰箱可以放多久？", "a": "成熟的酪梨放 4°C 以下可放 3～4 天。還沒熟的請先放室溫變軟，再移進冰箱。"},
+      {"q": "酪梨可以冷凍嗎？", "a": "整顆或切片冷凍效果不好，會變得水水的、發灰。打成泥加萊姆汁後密封冷凍還算可以，適合做酪梨醬或果昔。"},
+      {"q": "怎麼讓酪梨快點熟？", "a": "和香蕉或蘋果一起放進紙袋、置於室溫。它們釋放的乙烯通常一兩天內就能催熟。"}
+    ]
+  },
+  "ja": {
+    "name": "アボカド",
+    "aliases": ["アボガド", "ハスアボカド", "森のバター", "鰐梨"],
+    "summary": "アボカドは固い状態で収穫され、木を離れてから油分が発達しながら熟していきます。買ったら食べごろ（軽く押してやわらかい状態）まで常温に置き、その後冷蔵へ。完熟したものは3〜4日が目安です。未熟なうちに冷やすと追熟が止まり、二度とうまく熟しません。",
+    "pantry": "固いアボカドは直射日光を避けて常温に置き、軸側を軽く押して少し沈むまで待ちます。購入時の固さにもよりますが、通常2〜5日です。急ぐときはバナナと一緒に紙袋へ。バナナのエチレンが追熟を早めます。カチカチのまま冷蔵するのは厳禁です。",
+    "fridge": "熟したら4℃以下の冷蔵庫へ移し、3〜4日を目安に食べます。冷蔵で追熟が止まり、時間を稼げます。半分に切った場合は種を残し、切り口にレモンかライムの汁を塗ってラップを密着させると持ちがよくなりますが、それでも1日ほどで表面は茶色くなります。",
+    "freezer": "USDAはアボカドの冷凍期間を示していません。丸ごとやスライスの冷凍は水っぽく灰色になり不向きですが、ライムを少し加えてつぶしたものなら密閉容器で冷凍でき、ディップやスムージーに使えます。",
+    "thawing": "冷凍したアボカドペーストは冷蔵庫で解凍し、よく混ぜてから使います。生よりやわらかくなるので、ワカモレやスムージー向きで、スライスには向きません。",
+    "spoilage": [
+      "表面だけでなく全体に茶色や黒の筋が入っている",
+      "皮にへこんだ黒ずみがあり、押すと中が空洞のように感じる",
+      "ほのかなナッツ香ではなく、酸っぱいにおいや古い油のにおいがする",
+      "軸のまわりや切り口にカビが出ている"
+    ],
+    "tips": [
+      "軸の小さなヘタを外し、下が緑なら食べごろ、茶色なら熟しすぎです",
+      "急ぐときはバナナと一緒に紙袋に入れて追熟を",
+      "熟したらすぐ冷蔵して進行を止めましょう",
+      "半分残すときは種をつけたまま、切り口にライム汁を塗って保存を"
+    ],
+    "faq": [
+      {"q": "アボカドは冷蔵庫でどのくらい持ちますか？", "a": "完熟したものは4℃以下で3〜4日です。未熟なものは常温でやわらかくしてから冷蔵してください。"},
+      {"q": "アボカドは冷凍できますか？", "a": "丸ごとやスライスは水っぽく灰色になり不向きです。ライムを加えてつぶしたものなら密閉容器で冷凍でき、ワカモレやスムージーに使えます。"},
+      {"q": "アボカドを早く熟させるには？", "a": "バナナやりんごと一緒に紙袋に入れて常温に置きます。放出されるエチレンで、たいてい1〜2日で食べごろになります。"}
+    ]
+  },
+  "es": {
+    "name": "Aguacates",
+    "aliases": ["palta", "aguacate Hass", "avocado", "cura", "abacate"],
+    "summary": "Los aguacates se recolectan duros y maduran fuera del árbol, ablandándose a medida que desarrollan sus aceites. Déjalos a temperatura ambiente hasta que estén maduros —blandos a una presión suave y listos para comer— y refrigéralos entonces, donde un aguacate maduro dura 3–4 días. Enfriarlos antes de madurar detiene el proceso y ya no ablandan bien.",
+    "pantry": "Deja los aguacates firmes en la encimera, lejos del sol directo, hasta que cedan a una presión suave junto al rabito. Suele llevar 2–5 días según lo duros que estuvieran al comprarlos. Para acelerarlo, mételes en una bolsa de papel con un plátano, cuyo etileno acelera la maduración. Nunca refrigeres un aguacate durísimo: después ya no madurará bien.",
+    "fridge": "Una vez maduros, pásalos a la nevera a 4 °C (40 °F) o menos, donde duran 3–4 días. El frío pausa la maduración y te da margen. Media pieza se conserva mejor con el hueso puesto, la cara cortada frotada con limón o lima y bien envuelta en film, aunque aun así se oscurecerá en la superficie en un día.",
+    "freezer": "El USDA no da un plazo de congelación para el aguacate. Entero o en rodajas se congela mal, quedando aguado y grisáceo, pero el aguacate machacado con un chorro de lima se congela aceptablemente en un recipiente hermético para dips y batidos.",
+    "thawing": "Descongela el puré de aguacate en la nevera y remuévelo bien antes de usarlo. La textura será más blanda que en fresco, adecuada para guacamole y batidos pero no para cortar en láminas.",
+    "spoilage": [
+      "Pulpa fibrosa, parda o negra en toda la pieza, no solo en la superficie",
+      "Manchas oscuras hundidas en la piel que suenan huecas al presionar",
+      "Olor rancio o agrio en lugar de suave y a fruto seco",
+      "Moho alrededor del rabito o en la cara cortada"
+    ],
+    "tips": [
+      "Quita el pequeño rabito: si debajo está verde, está maduro; si está marrón, pasado",
+      "Madúralo con un plátano en una bolsa de papel si lo necesitas pronto",
+      "Refrigéralo en cuanto esté maduro para detener el reloj",
+      "Guarda las mitades con el hueso puesto y zumo de lima en la cara cortada"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los aguacates en la nevera?", "a": "Un aguacate maduro dura 3–4 días a 4 °C (40 °F) o menos. Los verdes deben madurar en la encimera y pasar después a la nevera."},
+      {"q": "¿Se puede congelar el aguacate?", "a": "Entero o en rodajas se congela mal, queda aguado y gris. Machacado con zumo de lima se congela aceptablemente en un recipiente hermético para guacamole o batidos."},
+      {"q": "¿Cómo se madura rápido un aguacate?", "a": "Ponlo en una bolsa de papel con un plátano o una manzana a temperatura ambiente. El etileno que desprenden suele madurarlo en uno o dos días."}
+    ]
+  }
+}

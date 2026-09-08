@@ -1,0 +1,274 @@
+{
+  "slug": "cooked-rice-storage-bacillus-cereus",
+  "category": "safety",
+  "updated": "2026-09-08",
+  "en": {
+    "title": "Cooked Rice, Pasta and Noodles: Bacillus cereus and Safe Storage",
+    "description": "Cool cooked rice within 1 hour, refrigerate at 4 °C, and reheat once until steaming. UK guidance says 1 day; US guidance says 3–4 days.",
+    "intro": "Cooked rice, pasta and noodles carry a specific risk: *Bacillus cereus*, a spore-forming bacterium whose spores survive boiling. If cooked starch is left to cool slowly at room temperature, surviving spores germinate and can produce a heat-stable toxin that reheating will not destroy. The fix is speed, not heat — chill cooked rice as fast as possible, ideally within one hour, keep it at 4 °C, and reheat only once until piping hot throughout.",
+    "sections": [
+      {
+        "heading": "Why rice is different",
+        "body": "Most food-safety advice is about killing bacteria with heat. Rice is the case where that logic breaks down.\n\nThe UK Food Standards Agency explains the mechanism directly: \"Uncooked rice can contain spores of a bacterium called Bacillus cereus. This bacteria can cause food poisoning. The spores of Bacillus cereus can survive being cooked.\"\n\nWhat follows from that:\n\n1. **Boiling kills the growing cells but not the spores.** After cooking, dormant spores remain in the rice.\n2. **As the rice cools through the danger zone**, those spores germinate into active bacteria.\n3. **The bacteria multiply and, in the case of the emetic form, produce cereulide** — a toxin that is remarkably heat-stable and survives reheating, even boiling.\n4. **Reheating therefore cannot undo the problem.** It kills the cells but leaves the toxin.\n\nThe same applies to [[food:cooked-pasta]], noodles and other cooked starches, and to a lesser extent to cooked potatoes and pulses. It is the reason the rules for [[food:cooked-rice]] are stricter than for most leftovers."
+      },
+      {
+        "heading": "Cool it fast: the one-hour target",
+        "body": "The whole risk lives in the cooling period, so this is the step that matters most. FSA guidance: \"If you have leftover rice you should chill it as quickly as possible, ideally within one hour. Dividing it into smaller portions can help with this.\"\n\nHow to hit one hour in a home kitchen:\n\n- **Spread it out.** Tip the rice onto a large tray or a wide shallow container in a thin layer. A deep bowl of rice can hold 50 °C at its centre for hours.\n- **Fluff it up** with a fork so steam escapes rather than condensing back into the mass.\n- **Portion immediately** into single-meal containers rather than cooling one big batch.\n- **Use a cold surface.** A metal tray sheds heat far faster than plastic or ceramic.\n- **Fan it or use an ice bath** if the kitchen is hot.\n- **Then refrigerate**, loosely covered until cold, sealed afterwards.\n\nWhat not to do: leave the rice in the rice cooker on \"keep warm\" for hours (most keep-warm settings sit near 60–70 °C, which is the edge of safety and dries the rice), or leave a covered pot on the counter until bedtime."
+      },
+      {
+        "heading": "How long to keep it: the honest answer",
+        "body": "Here the guidance genuinely differs between countries, and it is worth stating both positions plainly rather than pretending there is one number.\n\n- **UK (FSA): one day.** \"Keep rice in the fridge for no more than one day until reheating.\" This is a deliberately cautious limit that assumes home cooling and home fridges are imperfect.\n- **US (USDA / FoodSafety.gov): 3–4 days**, the same as other cooked leftovers, and the figure reflected in Health Canada's storage table for cooked foods.\n\nNeither is a mistake. They differ in how much margin they build in for the cooling step, which is where the actual risk sits. A practical reading:\n\n| If you… | Reasonable limit |\n| --- | --- |\n| Cooled within 1 hour in a thin layer, fridge verified at 4 °C | 3–4 days |\n| Cooled slowly, or unsure of fridge temperature | 1 day |\n| Left it out more than 2 hours at any point | discard |\n\nIf you want the rice to last, freeze it on the day it was cooked. Frozen rice keeps good quality for one to two months and reheats better from frozen than from three-day-old fridge rice."
+      },
+      {
+        "heading": "Reheating rice safely",
+        "body": "Two rules, both from the FSA, and both simple: \"You should never reheat rice more than once. And when you do reheat rice, make sure it is steaming hot all the way through.\"\n\nHow to do it well:\n\n- **Take out only the portion you will eat.** Leave the rest cold and untouched.\n- **Add a splash of water** — about a tablespoon per portion — and cover. Steam is what reheats rice properly.\n- **Microwave in bursts, stirring between them.** Microwaves leave cold pockets; stirring removes them.\n- **In a pan, stir-fry over high heat** with the rice broken up, or steam it.\n- **Check the centre reaches 74 °C (165 °F).** Japan's MHLW guidance uses 75 °C, which amounts to the same instruction.\n- **Do not put reheated rice back in the fridge.** Once it has been through the cycle, whatever is left goes in the bin.\n\nFried rice made from cold cooked rice is fine, provided the rice was chilled promptly and is thoroughly heated in the pan — the dish is only as safe as the rice it started from."
+      },
+      {
+        "heading": "Lunchboxes, buffets and takeaway",
+        "body": "Rice-based meals kept warm for hours are the classic setting for *B. cereus* illness — the syndrome is common enough to have earned the informal name \"fried rice syndrome\".\n\n**Packed lunches.** Chill the rice the night before and pack it cold with an ice pack, or keep it genuinely hot (above 60 °C) in a preheated vacuum flask. A warm lunchbox at ambient temperature all morning is exactly the wrong middle ground.\n\n**Buffets and gatherings.** Hold rice above 60 °C in a chafing dish or a rice cooker with the lid on, or serve it cold. Two hours total on the table, then it goes back to refrigeration or into the bin — see [[guide:danger-zone-two-hour-rule]].\n\n**Takeaway and restaurant leftovers.** Get it into the fridge within two hours of collection, not two hours of eating. If it arrived lukewarm and you do not know how long it had been sitting, treat the clock as already partly spent.\n\n**Rice salads and sushi rice.** These are eaten without reheating, so they depend entirely on the cold chain. Keep below 4 °C and eat the same day; the vinegar in sushi rice lowers the pH but does not make it shelf-stable."
+      },
+      {
+        "heading": "Symptoms and when to be careful",
+        "body": "*Bacillus cereus* causes two distinct patterns:\n\n- **Emetic (vomiting) type**, associated with rice and pasta, caused by the pre-formed cereulide toxin. Onset is fast — typically 30 minutes to 6 hours — with nausea and vomiting.\n- **Diarrhoeal type**, associated with meats, sauces and vegetables, caused by toxins produced in the gut. Onset is 6–15 hours, with cramps and diarrhoea.\n\nBoth are usually self-limiting and resolve within about 24 hours in otherwise healthy adults. Fluids matter most. Seek medical advice if symptoms are severe or prolonged, if there is blood, if the person cannot keep fluids down, or if they are very young, elderly, pregnant or immunocompromised. This article is general information and not medical advice.\n\nThe practical takeaway is that this is an entirely preventable illness, and prevention is a cooling problem rather than a cooking problem. If you remember only one thing: spread the rice out and get it cold fast."
+      }
+    ],
+    "keyTakeaways": [
+      "Bacillus cereus spores survive boiling; the toxin they later produce survives reheating.",
+      "Chill cooked rice as fast as possible, ideally within 1 hour, spread in a thin layer.",
+      "UK guidance says keep rice 1 day; US and Canadian guidance says 3–4 days for cooked foods — cooling speed is what decides which applies to you.",
+      "Reheat rice only once, until steaming hot throughout (74 °C / 165 °F).",
+      "Never leave rice on 'keep warm' or at room temperature for hours."
+    ],
+    "faq": [
+      {
+        "q": "How long can you keep cooked rice in the fridge?",
+        "a": "The UK FSA says no more than one day before reheating; US and Canadian guidance allows 3–4 days for cooked foods generally. The difference reflects how much margin is assumed for cooling, so the faster you chilled it, the safer the longer figure is."
+      },
+      {
+        "q": "Can you reheat rice twice?",
+        "a": "No. FSA guidance is explicit that rice should never be reheated more than once. Take out only the portion you will eat, heat it until steaming hot throughout, and discard whatever is left rather than returning it to the fridge."
+      },
+      {
+        "q": "Does reheating rice kill Bacillus cereus?",
+        "a": "It kills the bacterial cells but not the emetic toxin, cereulide, which is heat-stable and survives boiling. That is why the safety of rice depends on how quickly it was cooled, not on how thoroughly it is reheated."
+      },
+      {
+        "q": "Is it safe to leave rice in the rice cooker on keep warm?",
+        "a": "Only if the setting genuinely holds the rice above 60 °C, which many do not maintain reliably over long periods. For anything beyond an hour or two, it is safer to portion the rice out, cool it quickly and refrigerate it."
+      },
+      {
+        "q": "Does the same advice apply to pasta and noodles?",
+        "a": "Yes. Cooked pasta, noodles and other starches support Bacillus cereus in the same way. Cool them quickly in a thin layer, refrigerate promptly, reheat once until steaming hot, and treat anything left out for hours as unsafe."
+      }
+    ],
+    "sources": [
+      { "name": "UK FSA – Home food fact checker (rice, Bacillus cereus, chill within 1 hour)", "url": "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker" },
+      { "name": "UK FSA – How to chill, freeze and defrost food safely", "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely" },
+      { "name": "Health Canada – Safe food storage (3–4 days for cooked foods)", "url": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-food-storage.html" },
+      { "name": "Health Canada – Safe internal cooking temperatures (leftovers 74 °C / 165 °F)", "url": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html" },
+      { "name": "Taiwan FDA – Food poisoning Q&A (danger zone, 2-hour rule)", "url": "https://www.fda.gov.tw/TC/sitecontent.aspx?sid=2572" },
+      { "name": "Japan MHLW – Six points for preventing food poisoning at home", "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/01_00006.html" }
+    ]
+  },
+  "zh": {
+    "title": "白飯、麵條放隔夜？仙人掌桿菌與正確的保存方式",
+    "description": "煮好的飯要在 1 小時內攤平快速降溫、4℃ 冷藏、只復熱一次。英國建議只放 1 天，美加則給 3～4 天。",
+    "intro": "煮熟的白飯、義大利麵與麵條帶有一個特定風險：仙人掌桿菌（*Bacillus cereus*）。它的芽孢可以耐過烹煮的高溫。如果煮好的澱粉類食物放在室溫下慢慢變涼，殘存的芽孢就會發芽，並可能產生耐熱的毒素，而這種毒素再怎麼加熱都去不掉。解方是「快」而不是「熱」——煮好的飯要盡快降溫、最好在一小時內完成，冷藏於 4℃，而且只復熱一次、熱到全部滾燙。",
+    "sections": [
+      {
+        "heading": "為什麼白飯特別不一樣",
+        "body": "大部分食品安全建議的核心是「用高溫殺菌」。白飯正是這個邏輯失效的案例。\n\n英國食品標準局把機制講得很直白：生米可能含有仙人掌桿菌的芽孢，這種細菌會造成食品中毒，而它的芽孢能耐過烹煮。\n\n由此推導出來的結果：\n\n1. **煮沸殺得死營養細胞，殺不死芽孢。** 煮好之後，休眠的芽孢還在飯裡。\n2. **當飯慢慢降溫穿過危險溫度帶時**，這些芽孢會發芽成為活菌。\n3. **細菌大量繁殖，嘔吐型菌株會產生嘔吐毒素 cereulide（仙人掌桿菌嘔吐毒素）**，這是一種極為耐熱的毒素，煮沸也破壞不了。\n4. **所以「再加熱」救不了。** 加熱殺得死菌體，毒素還在。\n\n同樣的道理也適用於[[food:cooked-pasta]]、各種麵條與其他煮熟的澱粉類，程度較輕的還包括熟馬鈴薯與豆類。這就是為什麼[[food:cooked-rice]]的規則比一般剩菜更嚴格。"
+      },
+      {
+        "heading": "快速降溫：一小時目標",
+        "body": "整個風險都集中在「降溫」這段時間，所以這是最關鍵的一步。英國 FSA 的建議是：剩飯要盡快冷卻，最好在一小時內，分成小份可以幫助達成。\n\n家裡怎麼做到一小時：\n\n- **攤平。** 把飯倒在大托盤或寬淺的容器上，鋪成薄薄一層。一深碗的飯，中心可能好幾小時都維持在 50℃。\n- **用叉子或飯匙撥鬆**，讓蒸氣散出去，而不是凝結回飯裡。\n- **立刻分裝**成單餐份的保鮮盒，不要整鍋一起冷卻。\n- **用金屬托盤。** 散熱速度遠快於塑膠或陶瓷。\n- **廚房太熱就用電扇吹，或用冰水浴。**\n- **然後冷藏**，涼透之前先蓋鬆，涼了再密封。\n\n不該做的事：把飯留在電子鍋「保溫」好幾個小時（多數保溫設定落在 60～70℃ 附近，剛好在安全邊緣，而且會把飯烘乾），或是蓋著鍋蓋擺在流理台到睡前。"
+      },
+      {
+        "heading": "到底能放幾天：誠實的答案",
+        "body": "這一題各國建議確實不同，與其假裝只有一個標準答案，不如把兩種立場都講清楚。\n\n- **英國（FSA）：1 天。** 「冷藏保存的飯，在復熱前不要超過一天。」這是刻意保守的限制，因為它假設家庭的降溫與冰箱都不夠理想。\n- **美國（USDA／FoodSafety.gov）：3～4 天**，與其他熟食剩菜相同；加拿大衛生部的保存表對熟食也是 3～4 天。\n\n兩者都不是錯的，差別在於為「降溫」這一步預留了多少安全裕度——而風險正好就在那一步。實務上可以這樣讀：\n\n| 如果你… | 合理期限 |\n| --- | --- |\n| 攤薄在 1 小時內降溫，且冰箱確認在 4℃ | 3～4 天 |\n| 降溫很慢，或不確定冰箱溫度 | 1 天 |\n| 期間曾在室溫放超過 2 小時 | 丟棄 |\n\n如果你希望飯能放久一點，請在煮好當天就冷凍。冷凍飯的品質可維持一到兩個月，而且從冷凍復熱的口感，通常比放了三天的冷藏飯還好。"
+      },
+      {
+        "heading": "怎麼復熱才安全",
+        "body": "兩條規則，都出自英國 FSA，而且都很簡單：飯絕對不要復熱超過一次；復熱時，要確認整份都熱到冒煙滾燙。\n\n實際做法：\n\n- **只取出要吃的份量**，其餘留在冰箱裡不要動。\n- **加一點水**（一人份大約一大匙）並加蓋。蒸氣才是把飯熱透的關鍵。\n- **微波時分段加熱，中間攪拌。** 微波會留下冷點，攪拌可以消除。\n- **用鍋子的話大火快炒**把飯撥散，或用蒸的。\n- **確認中心到達 74℃。** 日本厚生勞動省的說法是 75℃，實質是同一件事。\n- **復熱過的飯不要放回冰箱。** 走過這一輪之後，沒吃完的就丟。\n\n用冷飯做炒飯是可以的，前提是那鍋飯當初有及時冷藏，而且下鍋時要徹底炒熱——一道菜的安全性，不會高於它所使用的那碗飯。"
+      },
+      {
+        "heading": "便當、自助餐與外帶",
+        "body": "以飯為主、又保溫好幾個小時的餐點，是仙人掌桿菌中毒最典型的場景，甚至被戲稱為「炒飯症候群」。\n\n**便當。** 前一晚把飯冷藏，隔天冷的裝盒並搭配保冷劑；或者用預熱過的燜燒罐真正維持在 60℃ 以上。整個早上維持「溫溫的」，正好是最糟的中間值。\n\n**自助餐與聚餐。** 飯要嘛用保溫鍋或蓋著蓋的電子鍋維持 60℃ 以上，要嘛就以冷食供應。桌上總計兩小時，時間到就收回冷藏或丟棄，見[[guide:danger-zone-two-hour-rule]]。\n\n**外帶與餐廳剩食。** 計時從「拿到餐點」開始，不是從「吃完」開始，兩小時內要進冰箱。如果拿到時已經是溫的，而你不知道它在店裡放了多久，就當作時間已經用掉一部分。\n\n**米沙拉與壽司飯。** 這類食物不會再加熱，完全依賴冷鏈。請維持 4℃ 以下並當天吃完；壽司飯的醋雖然降低 pH 值，但不會讓它變成常溫可保存的食品。"
+      },
+      {
+        "heading": "症狀與需要留意的情況",
+        "body": "仙人掌桿菌會造成兩種不同型態：\n\n- **嘔吐型**，與米飯、麵食相關，由已生成的 cereulide 毒素引起。發作快，通常在 30 分鐘到 6 小時之間，症狀為噁心與嘔吐。\n- **腹瀉型**，與肉類、醬汁、蔬菜相關，由腸道中產生的毒素引起。潛伏 6～15 小時，症狀為腹絞痛與腹瀉。\n\n兩者在原本健康的成人身上通常會自行緩解，多在 24 小時左右恢復，補充水分最重要。若症狀嚴重或持續、出現血便、無法補充水分，或患者是幼兒、長者、孕婦或免疫功能低下者，請儘速就醫。本文為一般性資訊，不能取代醫療專業意見。\n\n實務上的重點是：這是完全可以預防的疾病，而預防的關鍵在「降溫」而不是「加熱」。如果只能記住一件事，那就是：把飯攤開，讓它快點變冷。"
+      }
+    ],
+    "keyTakeaways": [
+      "仙人掌桿菌芽孢耐得住烹煮，之後產生的毒素也耐得住復熱。",
+      "煮好的飯要攤成薄層、盡快降溫，最好一小時內完成。",
+      "英國建議冷藏不超過 1 天，美加對熟食則給 3～4 天；降溫速度決定你適用哪一個。",
+      "飯只能復熱一次，而且要熱到整份滾燙（74℃）。",
+      "不要把飯長時間放在電子鍋保溫或留在室溫。"
+    ],
+    "faq": [
+      {
+        "q": "煮好的白飯可以冷藏幾天？",
+        "a": "英國 FSA 建議復熱前不超過一天；美國與加拿大對熟食一般給 3～4 天。差異來自對「降溫」這一步預留多少裕度，所以你降溫得越快，較長的那個數字才越站得住腳。"
+      },
+      {
+        "q": "飯可以重複加熱兩次嗎？",
+        "a": "不行。英國 FSA 明確指出飯絕對不應復熱超過一次。請只取出要吃的份量，熱到整份滾燙，剩下的直接丟棄，不要再放回冰箱。"
+      },
+      {
+        "q": "再加熱可以殺死仙人掌桿菌嗎？",
+        "a": "可以殺死菌體，但殺不掉嘔吐型毒素 cereulide，它耐熱、煮沸也不會被破壞。所以白飯的安全取決於當初降溫得多快，而不是復熱得多徹底。"
+      },
+      {
+        "q": "飯一直放在電子鍋保溫安全嗎？",
+        "a": "只有在保溫真的能維持 60℃ 以上時才安全，而許多機種長時間下無法穩定維持。超過一兩個小時，比較安全的做法是分裝、快速降溫並冷藏。"
+      },
+      {
+        "q": "麵條和義大利麵也一樣嗎？",
+        "a": "一樣。煮熟的麵條、義大利麵與其他澱粉類同樣會養出仙人掌桿菌。請攤薄快速降溫、盡快冷藏、只復熱一次到滾燙，放在室溫數小時的一律視為不安全。"
+      }
+    ],
+    "sources": [
+      { "name": "英國食品標準局－家庭食品事實查核（白飯與仙人掌桿菌）", "url": "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker" },
+      { "name": "英國食品標準局－安全的冷藏、冷凍與解凍", "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely" },
+      { "name": "衛福部食藥署－食品中毒常見問與答（危險溫度帶與 2 小時原則）", "url": "https://www.fda.gov.tw/TC/sitecontent.aspx?sid=2572" },
+      { "name": "衛生福利部－遵守五要原則，預防食品中毒", "url": "https://www.mohw.gov.tw/cp-3250-29716-1.html" },
+      { "name": "加拿大衛生部－安全的食品貯存（熟食 3～4 天）", "url": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-food-storage.html" }
+    ]
+  },
+  "ja": {
+    "title": "ごはん・パスタ・麺の保存：セレウス菌と正しい冷まし方",
+    "description": "炊いたごはんは1時間以内に薄く広げて急冷し、4℃で保存、再加熱は一度だけ。英国は1日、米国・カナダは3〜4日という違いも解説。",
+    "intro": "炊いたごはん、パスタ、麺には固有のリスクがあります。芽胞をつくるセレウス菌（*Bacillus cereus*）で、その芽胞は加熱調理を生き延びます。加熱後のでんぷん質を室温でゆっくり冷ますと、生き残った芽胞が発芽し、耐熱性の毒素を産生することがあります。この毒素は再加熱では壊れません。対策は「熱」ではなく「速さ」です。炊いたごはんはできるだけ早く、理想的には1時間以内に冷やし、4℃で保存し、再加熱は一度だけ、全体が熱々になるまで行います。",
+    "sections": [
+      {
+        "heading": "なぜごはんだけ扱いが違うのか",
+        "body": "食品安全の助言の多くは「加熱で菌を殺す」ことが基本です。ごはんは、その理屈が通らない例です。\n\n英国FSAは仕組みをこう説明しています。生米にはセレウス菌の芽胞が含まれることがあり、この菌は食中毒を起こす。そして芽胞は加熱調理を生き延びる、と。\n\nそこから導かれること：\n\n1. **加熱は栄養細胞を殺すが芽胞は殺せない。** 炊き上がったごはんには休眠中の芽胞が残ります。\n2. **危険温度帯をゆっくり通過して冷める間に**、芽胞が発芽して活動を始めます。\n3. **菌が増殖し、嘔吐型ではセレウリドという毒素を産生します。** これは著しく耐熱性が高く、煮沸しても残ります。\n4. **したがって再加熱では解決しません。** 菌体は死んでも毒素は残ります。\n\n同じことが[[food:cooked-pasta]]や麺類などの加熱でんぷん食品にも当てはまり、程度は下がるものの加熱したじゃがいもや豆類にも当てはまります。[[food:cooked-rice]]のルールが一般的な残り物より厳しいのはこのためです。"
+      },
+      {
+        "heading": "とにかく速く冷ます：1時間という目標",
+        "body": "リスクはすべて冷却の時間帯に集中するので、ここが最重要工程です。英国FSAの助言は「残ったごはんはできるだけ早く、理想的には1時間以内に冷やす。小分けにすると冷えやすい」というものです。\n\n家庭で1時間を達成する方法：\n\n- **薄く広げる。** 大きなバットや平たい容器に薄い層で移します。深い器のままでは中心が何時間も50℃前後にとどまります。\n- **しゃもじでほぐす。** 蒸気が抜け、内部で再び水分に戻るのを防げます。\n- **すぐ小分けにする。** 大きな塊のまま冷まさず、1食分ずつ容器へ。\n- **金属バットを使う。** プラスチックや陶器よりはるかに速く放熱します。\n- **暑い季節は扇風機や氷水**を併用します。\n- **そのあと冷蔵庫へ。** 冷めるまではふたを軽く載せ、冷えてから密閉します。\n\n避けるべきこと：炊飯器の保温で何時間も置くこと（多くの保温は60〜70℃前後で安全の境目にあり、ごはんも乾きます）、そしてふたをした釜を夜まで台所に放置することです。"
+      },
+      {
+        "heading": "何日もつのか：正直な答え",
+        "body": "この点は国によって指針が実際に異なります。ひとつの数字があるふりをせず、両方を示すのが誠実でしょう。\n\n- **英国（FSA）：1日。** 「再加熱するまで、ごはんの冷蔵は1日を超えないこと」。家庭の冷却も冷蔵庫も完璧ではない、という前提に立った意図的に慎重な線です。\n- **米国（USDA／FoodSafety.gov）：3〜4日。** ほかの調理済み残り物と同じ扱いで、カナダ保健省の保存表も調理済み食品を3〜4日としています。\n\nどちらも誤りではなく、違いは「冷却工程にどれだけ余裕を見込むか」です。実務的にはこう読めます。\n\n| あなたの状況 | 妥当な期限 |\n| --- | --- |\n| 薄く広げて1時間以内に冷却、冷蔵庫は4℃を実測 | 3〜4日 |\n| 冷却が遅い、または庫内温度が不明 | 1日 |\n| どこかで2時間以上常温に置いた | 処分 |\n\n長く保たせたいなら、炊いた当日に冷凍してください。冷凍ごはんは1〜2か月おいしさを保ち、3日置いた冷蔵ごはんより仕上がりも良くなります。"
+      },
+      {
+        "heading": "安全な再加熱のしかた",
+        "body": "ルールは2つ、いずれも英国FSAによるものです。ごはんは一度しか再加熱してはいけない。そして再加熱するときは、全体が湯気が立つほど熱くなっていることを確認する。\n\nうまくやる方法：\n\n- **食べる分だけ取り出す。** 残りは冷たいまま触れずに置きます。\n- **水を少し加える。** 1食分あたり大さじ1程度。ふたをします。ごはんを戻すのは蒸気です。\n- **電子レンジは短時間ずつ、途中でほぐす。** 加熱むらの冷たい部分をなくすためです。\n- **フライパンなら強火でほぐしながら**、あるいは蒸し器で。\n- **中心が75℃になっていることを確認。** 厚生労働省の再加熱の目安は75℃以上で、国際的な74℃／165°Fと同義です。\n- **再加熱したごはんを冷蔵庫に戻さない。** 一巡したら、残りは処分します。\n\n冷やごはんのチャーハンは問題ありません。ただし元のごはんが速やかに冷蔵されていて、鍋の中でしっかり加熱される場合に限ります。料理の安全性は、使ったごはんの安全性を超えません。"
+      },
+      {
+        "heading": "弁当・ビュッフェ・テイクアウト",
+        "body": "ごはん中心の食事を何時間もぬるく保つのは、セレウス菌食中毒の典型的な場面です。英語圏では俗に「チャーハン症候群」と呼ばれるほどよくある事例です。\n\n**お弁当。** 前夜にごはんを冷蔵し、冷たいまま保冷剤とともに詰めるか、予熱したスープジャーで本当に熱く（60℃超）保ちます。午前中ずっと「ほんのり温かい」のが、いちばん避けたい中間状態です。\n\n**ビュッフェや集まり。** ごはんは保温器やふたをした炊飯器で60℃以上に保つか、冷たい状態で提供します。食卓の上は合計2時間まで、その後は冷蔵に戻すか処分します（[[guide:danger-zone-two-hour-rule]]）。\n\n**テイクアウトと外食の持ち帰り。** 時計は「食べ終わり」ではなく「受け取り」から動きます。2時間以内に冷蔵してください。受け取った時点でぬるく、店でどれだけ置かれていたかわからないなら、持ち時間はすでに一部消費されたと考えます。\n\n**ライスサラダや酢飯。** 再加熱せずに食べるため、冷却の連鎖がすべてです。4℃以下を保ち、当日中に食べきりましょう。酢はpHを下げますが常温保存を可能にはしません。"
+      },
+      {
+        "heading": "症状と注意すべき場合",
+        "body": "セレウス菌には2つの型があります。\n\n- **嘔吐型**：ごはんやパスタに関連し、あらかじめ作られたセレウリド毒素によって起こります。発症が速く、通常30分〜6時間で吐き気と嘔吐が出ます。\n- **下痢型**：肉、ソース、野菜に関連し、腸管内で産生される毒素によります。潜伏6〜15時間で腹痛と下痢が出ます。\n\nいずれも健康な成人では自然に軽快することが多く、24時間程度で回復します。まずは水分補給が大切です。症状が重い、長引く、血便がある、水分が取れない、あるいは乳幼児・高齢者・妊娠中・免疫が低下している方の場合は医療機関に相談してください。本記事は一般的な情報であり、医療上の助言ではありません。\n\n実務的な結論はひとつ。これは完全に予防できる食中毒であり、予防の鍵は加熱ではなく冷却です。ひとつだけ覚えるなら——ごはんは広げて、速く冷ます。"
+      }
+    ],
+    "keyTakeaways": [
+      "セレウス菌の芽胞は加熱を生き延び、その後できる毒素は再加熱でも壊れない。",
+      "炊いたごはんは薄く広げ、できるだけ早く、理想は1時間以内に冷やす。",
+      "英国は冷蔵1日、米国・カナダは調理済み食品3〜4日。どちらが当てはまるかは冷却の速さで決まる。",
+      "再加熱は一度だけ、全体が湯気の立つ熱さ（75℃）まで。",
+      "炊飯器の保温や常温での長時間放置は避ける。"
+    ],
+    "faq": [
+      {
+        "q": "炊いたごはんは冷蔵で何日もちますか？",
+        "a": "英国FSAは再加熱まで1日を超えないよう助言し、米国・カナダは調理済み食品全般に3〜4日を認めています。差は冷却工程に見込む余裕の違いなので、素早く冷やしたほど長いほうの数字が妥当になります。"
+      },
+      {
+        "q": "ごはんを2回温め直してもいいですか？",
+        "a": "いけません。英国FSAはごはんを一度を超えて再加熱してはならないと明示しています。食べる分だけ取り出して全体が熱々になるまで加熱し、残ったものは冷蔵庫に戻さず処分してください。"
+      },
+      {
+        "q": "再加熱すればセレウス菌は死にますか？",
+        "a": "菌体は死にますが、嘔吐型の毒素セレウリドは耐熱性が高く煮沸でも残ります。だからごはんの安全性は、どれだけしっかり温め直したかではなく、どれだけ速く冷やしたかで決まります。"
+      },
+      {
+        "q": "炊飯器の保温に入れっぱなしでも大丈夫？",
+        "a": "保温が本当に60℃超を維持できている場合に限ります。長時間では安定して維持できない機種も多いため、1〜2時間を超えるなら小分けにして急冷し、冷蔵するほうが安全です。"
+      },
+      {
+        "q": "パスタや麺にも同じ注意が必要ですか？",
+        "a": "必要です。ゆでたパスタや麺などのでんぷん質も同じようにセレウス菌が増えます。薄く広げて急冷し、速やかに冷蔵し、再加熱は一度だけ。数時間常温に置いたものは処分してください。"
+      }
+    ],
+    "sources": [
+      { "name": "英国FSA－Home food fact checker（ごはんとセレウス菌）", "url": "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker" },
+      { "name": "英国FSA－冷蔵・冷凍・解凍を安全に行う方法", "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely" },
+      { "name": "厚生労働省－家庭でできる食中毒予防の6つのポイント（再加熱75℃）", "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/01_00006.html" },
+      { "name": "カナダ保健省－安全な食品保存（調理済み食品3〜4日）", "url": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-food-storage.html" },
+      { "name": "台湾TFDA－食中毒Q&A（危険温度帯と2時間ルール）", "url": "https://www.fda.gov.tw/TC/sitecontent.aspx?sid=2572" }
+    ]
+  },
+  "es": {
+    "title": "Arroz, pasta y fideos cocidos: Bacillus cereus y conservación",
+    "description": "Enfría el arroz cocido en 1 hora, guárdalo a 4 °C y recaliéntalo una sola vez. Reino Unido dice 1 día; EE. UU. y Canadá, 3–4 días.",
+    "intro": "El arroz, la pasta y los fideos cocidos tienen un riesgo propio: *Bacillus cereus*, una bacteria esporulada cuyas esporas sobreviven a la cocción. Si el almidón cocido se enfría despacio a temperatura ambiente, esas esporas germinan y pueden producir una toxina termoestable que el recalentado no destruye. La solución es la velocidad, no el calor: enfría el arroz cocido lo antes posible, idealmente en una hora, consérvalo a 4 °C y recaliéntalo una sola vez hasta que humee por completo.",
+    "sections": [
+      {
+        "heading": "Por qué el arroz es distinto",
+        "body": "Casi todos los consejos de seguridad alimentaria se basan en matar bacterias con calor. El arroz es el caso donde esa lógica se rompe.\n\nLa FSA británica explica el mecanismo sin rodeos: el arroz crudo puede contener esporas de una bacteria llamada Bacillus cereus, capaz de provocar intoxicación alimentaria, y esas esporas sobreviven a la cocción.\n\nDe ahí se sigue:\n\n1. **Hervir mata las células vegetativas pero no las esporas.** Tras cocinarlo, quedan esporas latentes en el arroz.\n2. **Mientras el arroz se enfría atravesando la zona de peligro**, esas esporas germinan y se convierten en bacterias activas.\n3. **Las bacterias se multiplican y, en la forma emética, producen cereulida**, una toxina notablemente termoestable que resiste la ebullición.\n4. **Recalentar, por tanto, no arregla nada:** mata las células y deja la toxina.\n\nLo mismo vale para la [[food:cooked-pasta]], los fideos y otros almidones cocidos, y en menor medida para patatas y legumbres cocidas. Por eso las reglas del [[food:cooked-rice]] son más estrictas que las de otras sobras."
+      },
+      {
+        "heading": "Enfriar rápido: el objetivo de una hora",
+        "body": "Todo el riesgo se concentra en el enfriamiento, así que este es el paso decisivo. La FSA recomienda enfriar el arroz sobrante lo antes posible, idealmente en una hora, y dividirlo en porciones pequeñas para lograrlo.\n\nCómo conseguirlo en una cocina doméstica:\n\n- **Extiéndelo.** Vuelca el arroz en una bandeja grande o recipiente ancho y bajo, en capa fina. Un bol hondo puede mantener 50 °C en el centro durante horas.\n- **Suéltalo con un tenedor** para que escape el vapor en vez de condensarse dentro.\n- **Raciona de inmediato** en recipientes de una comida en lugar de enfriar una masa grande.\n- **Usa una superficie metálica:** disipa el calor mucho más rápido que el plástico o la cerámica.\n- **Abanícalo o usa un baño de hielo** si la cocina está caliente.\n- **Después refrigera**, tapado sin cerrar hasta que enfríe y sellado a continuación.\n\nLo que no hay que hacer: dejar el arroz horas en la arrocera en «mantener caliente» (muchas se quedan en 60–70 °C, justo en el borde) ni la olla tapada en la encimera hasta la noche."
+      },
+      {
+        "heading": "Cuánto se puede guardar: la respuesta honesta",
+        "body": "Aquí las guías nacionales difieren de verdad, y conviene exponer ambas posiciones en vez de fingir que hay una cifra única.\n\n- **Reino Unido (FSA): un día.** Conservar el arroz en la nevera no más de un día antes de recalentarlo. Es un límite deliberadamente prudente que asume que el enfriamiento y las neveras domésticas son imperfectos.\n- **EE. UU. (USDA / FoodSafety.gov): 3–4 días**, igual que otras sobras cocinadas, cifra que también recoge la tabla de conservación de Health Canada.\n\nNinguna es un error: se diferencian en cuánto margen reservan para el enfriamiento, que es donde está el riesgo real. Una lectura práctica:\n\n| Si… | Límite razonable |\n| --- | --- |\n| Lo enfriaste en capa fina en 1 hora y la nevera está medida a 4 °C | 3–4 días |\n| Se enfrió despacio o no conoces la temperatura de la nevera | 1 día |\n| Estuvo fuera más de 2 horas en algún momento | desechar |\n\nSi quieres que dure, congélalo el mismo día. El arroz congelado mantiene buena calidad uno o dos meses y se recalienta mejor que el arroz de tres días."
+      },
+      {
+        "heading": "Recalentar el arroz con seguridad",
+        "body": "Dos reglas, ambas de la FSA y ambas simples: nunca recalientes el arroz más de una vez, y cuando lo hagas asegúrate de que está humeante en todo su volumen.\n\nCómo hacerlo bien:\n\n- **Saca solo la ración que vas a comer** y deja el resto frío e intacto.\n- **Añade un chorrito de agua** —una cucharada por ración— y tapa. El vapor es lo que recalienta bien el arroz.\n- **En microondas, por tandas y removiendo entre ellas**, para eliminar los puntos fríos.\n- **En sartén, saltéalo a fuego fuerte** con el grano suelto, o cuécelo al vapor.\n- **Comprueba que el centro alcanza 74 °C (165 °F).** La guía japonesa usa 75 °C, que equivale a lo mismo.\n- **No devuelvas a la nevera el arroz recalentado.** Lo que sobre, a la basura.\n\nEl arroz frito hecho con arroz frío es perfectamente válido, siempre que ese arroz se refrigerara pronto y se caliente a fondo en la sartén: un plato nunca es más seguro que el arroz del que parte."
+      },
+      {
+        "heading": "Fiambreras, bufés y comida para llevar",
+        "body": "Las comidas de arroz mantenidas templadas durante horas son el escenario clásico de la intoxicación por *B. cereus*, tan habitual que en inglés se la llama coloquialmente «síndrome del arroz frito».\n\n**Fiambreras.** Refrigera el arroz la noche antes y llévalo frío con un acumulador, o mantenlo realmente caliente (por encima de 60 °C) en un termo precalentado. Una tartera templada toda la mañana es justo el punto intermedio que hay que evitar.\n\n**Bufés y reuniones.** Mantén el arroz por encima de 60 °C en un chafing dish o en la arrocera tapada, o sírvelo frío. Dos horas en total sobre la mesa y después vuelve a refrigeración o a la basura: ver [[guide:danger-zone-two-hour-rule]].\n\n**Comida para llevar.** El reloj empieza cuando la recoges, no cuando terminas de comer: a la nevera antes de dos horas. Si llegó tibia y no sabes cuánto tiempo llevaba hecha, da por consumida parte del margen.\n\n**Ensaladas de arroz y arroz de sushi.** Se comen sin recalentar, así que dependen por completo de la cadena de frío. Por debajo de 4 °C y consumir el mismo día; el vinagre baja el pH pero no lo hace estable a temperatura ambiente."
+      },
+      {
+        "heading": "Síntomas y cuándo consultar",
+        "body": "*Bacillus cereus* produce dos cuadros distintos:\n\n- **Tipo emético (vómitos)**, asociado a arroz y pasta, causado por la toxina cereulida ya formada. Aparece rápido, normalmente entre 30 minutos y 6 horas, con náuseas y vómitos.\n- **Tipo diarreico**, asociado a carnes, salsas y verduras, por toxinas producidas en el intestino. Aparece entre 6 y 15 horas, con retortijones y diarrea.\n\nAmbos suelen ser autolimitados y se resuelven en torno a 24 horas en adultos sanos; lo prioritario es la hidratación. Consulta a un profesional sanitario si los síntomas son intensos o prolongados, si hay sangre, si la persona no retiene líquidos o si es un bebé, una persona mayor, está embarazada o inmunodeprimida. Este artículo es información general y no sustituye el consejo médico.\n\nLa conclusión práctica: es una enfermedad completamente evitable, y la prevención es un problema de enfriamiento, no de cocción. Si solo recuerdas una cosa: extiende el arroz y enfríalo rápido."
+      }
+    ],
+    "keyTakeaways": [
+      "Las esporas de Bacillus cereus sobreviven a la cocción y su toxina resiste el recalentado.",
+      "Enfría el arroz cocido lo antes posible, idealmente en 1 hora y en capa fina.",
+      "Reino Unido admite 1 día en nevera; EE. UU. y Canadá, 3–4 días: la velocidad de enfriamiento decide cuál te aplica.",
+      "Recalienta el arroz una sola vez, hasta que humee por completo (74 °C / 165 °F).",
+      "No dejes el arroz en «mantener caliente» ni a temperatura ambiente durante horas."
+    ],
+    "faq": [
+      {
+        "q": "¿Cuánto dura el arroz cocido en la nevera?",
+        "a": "La FSA británica dice no más de un día antes de recalentarlo; las guías estadounidense y canadiense permiten 3–4 días para alimentos cocinados. La diferencia está en el margen asumido para el enfriamiento, así que cuanto más rápido lo enfriaste, más válida es la cifra larga."
+      },
+      {
+        "q": "¿Se puede recalentar el arroz dos veces?",
+        "a": "No. La FSA es explícita: el arroz no debe recalentarse más de una vez. Saca solo la ración que vayas a comer, caliéntala hasta que humee del todo y desecha lo que sobre en lugar de devolverlo a la nevera."
+      },
+      {
+        "q": "¿Recalentar el arroz mata a Bacillus cereus?",
+        "a": "Mata las células bacterianas, pero no la cereulida, la toxina emética, que es termoestable y resiste la ebullición. Por eso la seguridad del arroz depende de la rapidez con que se enfrió, no de lo bien que se recalienta."
+      },
+      {
+        "q": "¿Es seguro dejar el arroz en la arrocera en «mantener caliente»?",
+        "a": "Solo si esa función mantiene realmente el arroz por encima de 60 °C, algo que muchos aparatos no sostienen de forma fiable durante horas. Más allá de una o dos horas, es más seguro racionarlo, enfriarlo rápido y refrigerarlo."
+      },
+      {
+        "q": "¿Vale lo mismo para la pasta y los fideos?",
+        "a": "Sí. La pasta, los fideos y otros almidones cocidos permiten el crecimiento de Bacillus cereus igual que el arroz. Enfríalos rápido en capa fina, refrigéralos pronto, recaliéntalos una vez y desecha lo que haya pasado horas fuera."
+      }
+    ],
+    "sources": [
+      { "name": "FSA del Reino Unido – Home food fact checker (arroz y Bacillus cereus)", "url": "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker" },
+      { "name": "FSA del Reino Unido – Cómo refrigerar, congelar y descongelar con seguridad", "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely" },
+      { "name": "Health Canada – Conservación segura de alimentos (3–4 días para cocinados)", "url": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-food-storage.html" },
+      { "name": "Health Canada – Temperaturas internas seguras (sobras 74 °C / 165 °F)", "url": "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html" },
+      { "name": "AESAN – Higiene de los alimentos", "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos" }
+    ]
+  }
+}

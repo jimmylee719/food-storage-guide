@@ -1,0 +1,107 @@
+{
+  "slug": "apples",
+  "en": {
+    "name": "Apples",
+    "aliases": ["eating apples", "cooking apples", "Fuji apples", "Granny Smith", "Gala apples"],
+    "summary": "Apples are one of the longest-keeping fresh fruits because their firm flesh and waxy skin slow moisture loss. On the counter they stay good for about 3 weeks from the date of purchase, and in the fridge for 4–6 weeks. Cooked apple — sauce, stewed slices, pie filling — freezes for about 8 months.",
+    "pantry": "A cool, dark spot away from direct sun keeps apples in good condition for about 3 weeks from purchase. They release ethylene gas as they ripen, which makes nearby bananas, avocados and leafy greens age faster, so keep them in their own bowl. One bruised or rotting apple will spoil the whole bowl within days, so check them over regularly.",
+    "fridge": "The crisper drawer at 4 °C (40 °F) or below is where apples last longest: 4–6 weeks from purchase. Keep them in a perforated bag so they stay humid but not wet, and store them away from strong-smelling foods, since apples absorb odours. Cold storage also keeps them crisp, which counter storage does not.",
+    "freezer": "Raw apples turn mushy when frozen, so freezing guidance applies to cooked product: apple sauce, stewed slices or prepared pie filling keep about 8 months at −18 °C (0 °F). Cool the cooked apple, portion it into airtight containers or bags and press out the air before freezing.",
+    "thawing": "Thaw frozen cooked apple overnight in the fridge, or tip it straight from frozen into a pan or pie dish. Do not leave it thawing at room temperature for hours.",
+    "spoilage": [
+      "Soft, brown bruised patches that give under light pressure",
+      "Wrinkled, leathery skin from moisture loss",
+      "Mould, especially around the stem or blossom end",
+      "Fermented, alcoholic or vinegary smell"
+    ],
+    "tips": [
+      "Store apples away from bananas and leafy greens, which the ethylene ages quickly",
+      "Remove any bruised apple immediately so it does not spoil the rest",
+      "Keep them in a perforated bag in the crisper for maximum crispness",
+      "Toss cut apple in lemon juice to slow browning"
+    ],
+    "faq": [
+      {"q": "How long do apples last in the fridge?", "a": "4–6 weeks from purchase in the crisper drawer at 4 °C (40 °F) or below, kept in a perforated bag."},
+      {"q": "Can you freeze apples?", "a": "Raw apples go mushy, so freeze cooked apple instead — sauce, stewed slices or pie filling keep about 8 months at −18 °C (0 °F)."},
+      {"q": "Do apples need to be refrigerated?", "a": "Not necessarily, but they last much longer if you do: about 3 weeks on the counter versus 4–6 weeks in the fridge."}
+    ]
+  },
+  "zh": {
+    "name": "蘋果",
+    "aliases": ["富士蘋果", "青蘋果", "五爪蘋果", "加拉蘋果", "林檎"],
+    "summary": "蘋果是最耐放的新鮮水果之一，因為果肉紮實、果皮帶蠟質，水分不容易流失。放在室溫，從購買日起約可放 3 週；放冰箱則可放 4～6 週。煮熟的蘋果，例如蘋果泥、燉蘋果或派餡，冷凍可保存約 8 個月。",
+    "pantry": "放在陰涼避光、不曬太陽的地方，從購買日起約可維持 3 週。蘋果成熟時會釋放乙烯，讓旁邊的香蕉、酪梨和葉菜老得更快，所以要單獨放一籃。而且只要有一顆碰傷或開始腐爛，幾天內就會拖垮整籃，記得定期檢查。",
+    "fridge": "蔬果保鮮室、維持 4°C 以下，是蘋果最耐放的地方：從購買日起 4～6 週。用打洞的塑膠袋裝，可以保濕又不積水；也要遠離氣味重的食物，因為蘋果很會吸味。冷藏還能維持脆度，這是室溫做不到的。",
+    "freezer": "生蘋果冷凍後會變得軟爛，所以冷凍的建議是針對煮熟的產品：蘋果泥、燉蘋果片或做好的派餡，放 −18°C 約可保存 8 個月。煮好放涼後分裝進密封容器或袋子，擠出空氣再冷凍。",
+    "thawing": "冷凍的熟蘋果放冷藏室退冰一晚，或直接從冷凍倒進鍋子或派盤加熱。不要放在室溫慢慢退冰好幾個小時。",
+    "spoilage": [
+      "有軟軟的褐色碰傷處，輕壓就凹下去",
+      "果皮皺縮、變得像皮革，代表水分流失",
+      "發霉，蒂頭和底部凹陷處特別常見",
+      "有發酵味、酒精味或醋酸味"
+    ],
+    "tips": [
+      "蘋果要和香蕉、葉菜分開放，乙烯會加速它們老化",
+      "發現碰傷的蘋果立刻拿走，以免拖累其他的",
+      "放打洞塑膠袋收在保鮮室，脆度維持最好",
+      "切開的蘋果拌一點檸檬汁，可以延緩褐變"
+    ],
+    "faq": [
+      {"q": "蘋果放冰箱可以放多久？", "a": "放在 4°C 以下的蔬果保鮮室、裝在打洞的袋子裡，從購買日起可放 4～6 週。"},
+      {"q": "蘋果可以冷凍嗎？", "a": "生蘋果冷凍會變軟爛，建議冷凍煮熟的蘋果，例如蘋果泥、燉蘋果或派餡，放 −18°C 約 8 個月。"},
+      {"q": "蘋果需要放冰箱嗎？", "a": "不一定，但放冰箱久很多：室溫約 3 週，冷藏則有 4～6 週。"}
+    ]
+  },
+  "ja": {
+    "name": "りんご",
+    "aliases": ["リンゴ", "林檎", "ふじ", "ジョナゴールド", "青りんご"],
+    "summary": "りんごは果肉がしまり皮にろう質があるため水分が抜けにくく、生の果物のなかでも特に日持ちします。常温では購入日から約3週間、冷蔵なら4〜6週間が目安です。りんごソースや煮りんご、パイフィリングなど加熱したものは約8か月冷凍できます。",
+    "pantry": "直射日光の当たらない涼しく暗い場所なら、購入日から約3週間おいしく保てます。りんごは熟成の過程でエチレンガスを出し、近くのバナナやアボカド、葉物野菜の劣化を早めるので、単独のかごに入れましょう。傷んだ1個が数日で全体をだめにするため、こまめに確認してください。",
+    "fridge": "4℃以下の野菜室が最も長持ちし、購入日から4〜6週間保てます。穴を開けた袋に入れると湿度を保ちつつ蒸れません。においを吸いやすいので、香りの強い食品からは離してください。冷蔵はシャキッとした食感の維持にも役立ちます。",
+    "freezer": "生のりんごは冷凍するとぐずぐずになるため、冷凍の目安は加熱したものに当てはまります。りんごソース、煮りんご、パイフィリングなら−18℃で約8か月。冷ましてから密閉容器や袋に小分けし、空気を抜いて冷凍しましょう。",
+    "thawing": "冷凍した加熱りんごは冷蔵庫で一晩解凍するか、凍ったまま鍋やパイ皿に入れて加熱します。室温に何時間も出しておくのは避けてください。",
+    "spoilage": [
+      "茶色く柔らかい打ち身があり、軽く押すとへこむ",
+      "水分が抜けて皮がしわしわ、革のようになっている",
+      "カビ（軸のまわりや底のくぼみに出やすい）",
+      "発酵臭、アルコール臭、酢のようなにおい"
+    ],
+    "tips": [
+      "エチレンで傷みやすいバナナや葉物とは離して保存を",
+      "傷んだ1個はすぐ取り除き、他への影響を防ぎましょう",
+      "穴あき袋に入れて野菜室へ。食感が最もよく保てます",
+      "切ったりんごはレモン汁をまぶすと変色を遅らせられます"
+    ],
+    "faq": [
+      {"q": "りんごは冷蔵庫でどのくらい持ちますか？", "a": "4℃以下の野菜室で穴あき袋に入れれば、購入日から4〜6週間が目安です。"},
+      {"q": "りんごは冷凍できますか？", "a": "生のままだとぐずぐずになるので、加熱してから冷凍を。りんごソースや煮りんご、パイフィリングなら−18℃で約8か月です。"},
+      {"q": "りんごは冷蔵が必要ですか？", "a": "必須ではありませんが、冷蔵のほうがずっと長持ちします。常温約3週間に対し、冷蔵は4〜6週間です。"}
+    ]
+  },
+  "es": {
+    "name": "Manzanas",
+    "aliases": ["manzana Fuji", "manzana Granny Smith", "manzana Gala", "manzana roja", "manzana verde"],
+    "summary": "Las manzanas son una de las frutas frescas que más aguantan, porque su pulpa firme y su piel cerosa frenan la pérdida de humedad. En la encimera se mantienen unas 3 semanas desde la compra y en la nevera 4–6 semanas. La manzana cocinada —compota, gajos guisados, relleno de tarta— se congela unos 8 meses.",
+    "pantry": "Un lugar fresco y oscuro, lejos del sol directo, las mantiene bien unas 3 semanas desde la compra. Desprenden etileno al madurar, lo que envejece antes a plátanos, aguacates y verduras de hoja cercanos, así que ponlas en su propio frutero. Una manzana golpeada o podrida estropea todo el frutero en pocos días, así que revísalas a menudo.",
+    "fridge": "El cajón de verduras a 4 °C (40 °F) o menos es donde más duran: 4–6 semanas desde la compra. Guárdalas en una bolsa perforada para que mantengan humedad sin mojarse, y lejos de alimentos de olor fuerte, porque absorben olores. El frío también conserva su textura crujiente, cosa que la encimera no hace.",
+    "freezer": "Las manzanas crudas se ablandan al congelarse, así que la guía de congelación se aplica al producto cocinado: compota, gajos guisados o relleno de tarta duran unos 8 meses a −18 °C (0 °F). Deja enfriar, reparte en recipientes o bolsas herméticas y saca el aire antes de congelar.",
+    "thawing": "Descongela la manzana cocinada en la nevera durante la noche, o échala congelada directamente a la sartén o al molde. No la dejes descongelándose horas a temperatura ambiente.",
+    "spoilage": [
+      "Zonas blandas y pardas que ceden a la presión leve",
+      "Piel arrugada y acartonada por pérdida de humedad",
+      "Moho, sobre todo alrededor del rabito o de la base",
+      "Olor fermentado, alcohólico o avinagrado"
+    ],
+    "tips": [
+      "Guárdalas lejos de plátanos y verduras de hoja, que el etileno envejece rápido",
+      "Retira de inmediato cualquier manzana golpeada para que no estropee las demás",
+      "Consérvalas en bolsa perforada en el cajón de verduras para máxima textura",
+      "Rocía la manzana cortada con zumo de limón para frenar el oscurecimiento"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las manzanas en la nevera?", "a": "4–6 semanas desde la compra en el cajón de verduras a 4 °C (40 °F) o menos, en una bolsa perforada."},
+      {"q": "¿Se pueden congelar las manzanas?", "a": "Crudas quedan blandas, así que congela manzana cocinada: compota, gajos guisados o relleno de tarta duran unos 8 meses a −18 °C (0 °F)."},
+      {"q": "¿Las manzanas necesitan refrigeración?", "a": "No necesariamente, pero duran mucho más: unas 3 semanas en la encimera frente a 4–6 semanas en la nevera."}
+    ]
+  }
+}

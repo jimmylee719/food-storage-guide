@@ -14,13 +14,20 @@ export function generateStaticParams() {
   return LOCALES.flatMap((locale) => foodsWithPages().map((f) => ({ locale, slug: f.slug })));
 }
 
+/**
+ * Search-intent title, with a compact fallback so a long food name does not
+ * push the title past the length Google will display.
+ */
 function titleFor(locale: Locale, name: string): string {
-  switch (locale) {
-    case 'zh': return `${name}可以放多久？常溫、冷藏與冷凍保存方法`;
-    case 'ja': return `${name}の保存期間と保存方法（常温・冷蔵・冷凍）`;
-    case 'es': return `¿Cuánto dura ${name.toLowerCase()}? Conservación en despensa, nevera y congelador`;
-    default: return `How long does ${name.toLowerCase()} last? Pantry, fridge and freezer storage`;
-  }
+  const full = (() => {
+    switch (locale) {
+      case 'zh': return `${name}可以放多久？常溫、冷藏、冷凍保存`;
+      case 'ja': return `${name}の保存期間：常温・冷蔵・冷凍`;
+      case 'es': return `¿Cuánto dura ${name.toLowerCase()}? Despensa, nevera y congelador`;
+      default: return `How long does ${name.toLowerCase()} last? Pantry, fridge, freezer`;
+    }
+  })();
+  return full.length <= 65 ? full : t(locale).foodTitleShort(name);
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }): Promise<Metadata> {

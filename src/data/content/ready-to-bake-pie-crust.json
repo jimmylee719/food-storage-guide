@@ -1,0 +1,107 @@
+{
+  "slug": "ready-to-bake-pie-crust",
+  "en": {
+    "name": "Ready-to-bake pie crust",
+    "aliases": ["refrigerated pie dough", "shortcrust pastry sheet", "pie shell", "rolled pastry", "tart shell"],
+    "summary": "Ready-to-bake pie crust is raw pastry sold rolled in a sleeve, pressed into a foil tin, or frozen as a shell. It is a chilled or frozen product, not a shelf-stable one. In the freezer at −18 °C (0 °F) it keeps about 2 months from the date of purchase; refrigerated crusts follow the use-by date on the pack.",
+    "pantry": "Ready-to-bake pastry is not a pantry item. Raw dough contains fat and moisture, so it must stay chilled or frozen; leaving it at room temperature makes the butter or shortening soften and the pastry lose its flakiness, and after 2 hours out (1 hour above 32 °C/90 °F) it should be discarded. Let a chilled crust sit out only for the few minutes needed to unroll it.",
+    "fridge": "Keep refrigerated crusts in their sealed sleeve at 4 °C (40 °F) or below and bake them by the use-by date printed on the pack. Thawed frozen crusts should also be baked within a day or two. If a rolled sheet cracks when you unroll it, let it warm for 5–10 minutes rather than forcing it.",
+    "freezer": "The freezer is where ready-to-bake crusts keep longest: about 2 months from purchase at −18 °C (0 °F). Keep frozen shells flat and in their original packaging so they do not crack, and stack tins with a piece of card between them. Most frozen shells can be baked without thawing.",
+    "thawing": "Thaw a rolled crust overnight in the fridge so it stays cool and pliable, or bake a frozen shell straight from the freezer, adding a few minutes to the baking time. Never thaw raw pastry on the counter.",
+    "spoilage": [
+      "Sour, cheesy or rancid smell from the fat in the pastry",
+      "Grey, yellowed or discoloured dough",
+      "Mould spots on the surface or inside the wrapper",
+      "Heavy freezer burn: dry, white, crumbly patches on a frozen shell"
+    ],
+    "tips": [
+      "Keep the crust flat in the freezer so it does not crack before baking",
+      "Label the pack with the purchase date to track the 2-month freezer window",
+      "Blind-bake with baking beans for a crisp base under a wet filling",
+      "Do not refreeze a crust you have already thawed in the fridge"
+    ],
+    "faq": [
+      {"q": "How long does ready-to-bake pie crust last in the freezer?", "a": "About 2 months from purchase at −18 °C (0 °F), kept flat and sealed in its original packaging."},
+      {"q": "Can you bake a pie crust from frozen?", "a": "Yes, most frozen shells are designed to go straight into the oven; just add a few minutes to the baking time. Rolled sheets are easier if thawed in the fridge first."},
+      {"q": "Does pie crust dough need to be refrigerated?", "a": "Yes. Raw pastry is perishable: keep it at 4 °C (40 °F) or below and bake it by the date on the pack, or freeze it for about 2 months."}
+    ]
+  },
+  "zh": {
+    "name": "現成派皮",
+    "aliases": ["冷凍派皮", "塔皮", "免揉派皮", "冷藏派皮", "酥皮塔殼"],
+    "summary": "現成派皮是已經做好的生派皮，有捲裝、鋁箔模盛裝，或冷凍塔殼等形式。它屬於冷藏或冷凍品，不能常溫保存。放 −18°C 冷凍，從購買日起約可保存 2 個月；冷藏型則依包裝上的有效日期。",
+    "pantry": "現成派皮不是常溫食材。生派皮含油脂和水分，必須全程冷藏或冷凍；放在室溫會讓奶油或酥油軟化、失去層次感，而且放超過 2 小時（超過 32°C 時只有 1 小時）就應該丟掉。冷藏派皮只在攤開的那幾分鐘拿出來即可。",
+    "fridge": "冷藏型派皮請維持原封放在 4°C 以下，並在包裝標示的有效日期前烤完。從冷凍退冰的派皮也要在一兩天內烤掉。如果捲裝派皮攤開時裂開，讓它回溫 5～10 分鐘再操作，不要硬扳。",
+    "freezer": "冷凍是現成派皮保存最久的方式：放 −18°C，從購買日起約 2 個月。冷凍塔殼要平放並保持原包裝以免碎裂，鋁箔模之間可以夾一片紙板堆疊。大部分冷凍塔殼可以不解凍直接烤。",
+    "thawing": "捲裝派皮放冷藏室退冰一晚，才能保持冰涼又好攤開；冷凍塔殼可以直接進烤箱，時間多加幾分鐘。生派皮絕對不要放在室溫退冰。",
+    "spoilage": [
+      "派皮裡的油脂變質產生酸味、起司味或油耗味",
+      "麵團變灰、泛黃或顏色不正常",
+      "表面或包裝內側出現黴斑",
+      "冷凍塔殼有嚴重凍燒：乾白、易碎的斑塊"
+    ],
+    "tips": [
+      "冷凍時平放，烤之前才不會裂開",
+      "在包裝上寫購買日期，追蹤冷凍 2 個月的期限",
+      "內餡濕潤的派，底部先用重石盲烤才會酥",
+      "已經在冷藏退冰過的派皮不要再冷凍"
+    ],
+    "faq": [
+      {"q": "現成派皮冷凍可以放多久？", "a": "放 −18°C、保持原包裝平放，從購買日起約 2 個月。"},
+      {"q": "派皮可以直接冷凍下烤箱嗎？", "a": "可以，大部分冷凍塔殼就是設計成免解凍直接烤，時間多加幾分鐘即可。捲裝派皮則先在冷藏退冰比較好操作。"},
+      {"q": "生派皮需要冷藏嗎？", "a": "需要。生派皮屬於易腐食品，請保存在 4°C 以下，並在包裝標示日期前烤完，或冷凍約 2 個月。"}
+    ]
+  },
+  "ja": {
+    "name": "市販のパイシート・タルト台",
+    "aliases": ["冷凍パイシート", "タルト台", "パイ生地", "冷蔵パイシート", "パイクラスト"],
+    "summary": "市販のパイシートやタルト台は、巻いた状態やアルミ型入り、冷凍シェルなどで売られる生地です。チルドまたは冷凍の商品で、常温保存はできません。−18℃の冷凍なら購入日から約2か月、チルドタイプはパッケージの期限に従ってください。",
+    "pantry": "市販のパイ生地は常温食材ではありません。油脂と水分を含むため必ず冷蔵か冷凍で保管します。室温に置くとバターやショートニングがゆるんで層が失われますし、2時間（32℃を超える環境では1時間）を超えたものは処分してください。チルド品は伸ばす数分だけ出すようにしましょう。",
+    "fridge": "チルドのパイシートは未開封のまま4℃以下で保存し、パッケージの期限までに焼いてください。冷凍から解凍したものも1〜2日以内に焼きましょう。巻いたシートが割れるときは無理に広げず、5〜10分置いて少し戻してから扱います。",
+    "freezer": "冷凍が最も長く保てる方法で、−18℃なら購入日から約2か月です。冷凍シェルは割れないよう平らに、購入時の包装のまま。アルミ型は間に厚紙をはさんで重ねましょう。多くの冷凍シェルは解凍せずそのまま焼けます。",
+    "thawing": "巻いたシートは冷蔵庫で一晩解凍すると、冷たさを保ったまま扱いやすくなります。冷凍シェルは凍ったままオーブンへ入れ、数分長めに焼いてください。生地の室温解凍は避けましょう。",
+    "spoilage": [
+      "生地の油脂が劣化した酸っぱいにおい、チーズ臭、古い油のにおい",
+      "生地が灰色や黄色に変色している",
+      "表面や包装の内側にカビの斑点",
+      "冷凍焼けがひどい（白く乾いてぼろぼろの部分がある）"
+    ],
+    "tips": [
+      "冷凍中は平らに保管し、焼く前の割れを防ぎましょう",
+      "パッケージに購入日を書いて冷凍2か月の期限を管理しましょう",
+      "水分の多いフィリングには、重しを載せた空焼きで底をサクッと",
+      "冷蔵で解凍した生地を再冷凍しないでください"
+    ],
+    "faq": [
+      {"q": "市販のパイシートは冷凍でどのくらい持ちますか？", "a": "購入時の包装のまま平らにして−18℃なら、購入日から約2か月です。"},
+      {"q": "パイ生地は凍ったまま焼けますか？", "a": "焼けます。多くの冷凍シェルはそのままオーブンへ入れる設計で、数分長めに焼くだけです。巻いたシートは冷蔵解凍したほうが扱いやすくなります。"},
+      {"q": "パイ生地は冷蔵が必要ですか？", "a": "必要です。生地は傷みやすいので4℃以下で保存し、パッケージの期限までに焼くか、約2か月冷凍してください。"}
+    ]
+  },
+  "es": {
+    "name": "Masa quebrada lista para hornear",
+    "aliases": ["masa de tarta refrigerada", "base de tarta", "masa brisa", "pasta quebrada", "molde de masa"],
+    "summary": "La masa lista para hornear es masa cruda vendida enrollada, prensada en un molde de aluminio o congelada como base. Es un producto refrigerado o congelado, no de despensa. En el congelador a −18 °C (0 °F) dura alrededor de 2 meses desde la compra; las refrigeradas siguen la fecha del envase.",
+    "pantry": "La masa lista para hornear no es un producto de despensa. La masa cruda contiene grasa y humedad, así que debe estar en frío; a temperatura ambiente la mantequilla o la manteca se ablandan y la masa pierde hojaldrado, y pasadas 2 horas fuera (1 hora por encima de 32 °C/90 °F) debe desecharse. Sácala solo los minutos necesarios para desenrollarla.",
+    "fridge": "Guarda las masas refrigeradas en su envase cerrado a 4 °C (40 °F) o menos y hornéalas antes de la fecha impresa. Las masas descongeladas también deben hornearse en uno o dos días. Si una lámina se agrieta al desenrollarla, déjala templar 5–10 minutos en lugar de forzarla.",
+    "freezer": "El congelador es donde más duran: alrededor de 2 meses desde la compra a −18 °C (0 °F). Mantén las bases congeladas planas y en su envase original para que no se rompan, y apila los moldes con un cartón entre ellos. La mayoría de bases congeladas se hornean sin descongelar.",
+    "thawing": "Descongela una lámina enrollada en la nevera durante la noche para que siga fría y flexible, u hornea una base congelada directamente añadiendo unos minutos. Nunca descongeles masa cruda en la encimera.",
+    "spoilage": [
+      "Olor agrio, a queso o rancio procedente de la grasa de la masa",
+      "Masa grisácea, amarillenta o descolorida",
+      "Manchas de moho en la superficie o dentro del envoltorio",
+      "Quemadura por congelación marcada: zonas blancas, secas y quebradizas"
+    ],
+    "tips": [
+      "Mantén la base plana en el congelador para que no se agriete antes de hornear",
+      "Anota la fecha de compra en el envase para controlar los 2 meses de congelador",
+      "Hornea en blanco con pesos para lograr una base crujiente bajo un relleno húmedo",
+      "No vuelvas a congelar una masa que ya has descongelado en la nevera"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la masa lista para hornear en el congelador?", "a": "Alrededor de 2 meses desde la compra a −18 °C (0 °F), plana y cerrada en su envase original."},
+      {"q": "¿Se puede hornear una base de tarta congelada?", "a": "Sí, la mayoría de bases congeladas están pensadas para ir directas al horno; solo añade unos minutos. Las láminas enrolladas se manejan mejor descongeladas en la nevera."},
+      {"q": "¿La masa de tarta necesita refrigeración?", "a": "Sí. La masa cruda es perecedera: mantenla a 4 °C (40 °F) o menos y hornéala antes de la fecha del envase, o congélala unos 2 meses."}
+    ]
+  }
+}

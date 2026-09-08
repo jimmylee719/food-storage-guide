@@ -1,0 +1,107 @@
+{
+  "slug": "apricots",
+  "en": {
+    "name": "Apricots",
+    "aliases": ["fresh apricots", "stone fruit", "Prunus armeniaca"],
+    "summary": "Apricots are small stone fruits that continue to soften after picking but do not get any sweeter. Keep them at room temperature only until ripe — that is, tender, fully developed and ready to eat — then move them to the fridge, where ripe fruit keeps 2–5 days. They bruise easily, so handle them gently.",
+    "pantry": "Leave firm apricots on the counter, out of direct sun and in a single layer rather than piled up, until they are ripe: tender to a gentle squeeze and fragrant at the stem. A paper bag speeds ripening by trapping the ethylene they give off. Once ripe, do not leave them out — at room temperature they go from perfect to mushy within a day.",
+    "fridge": "Once ripe, refrigerate apricots at 4 °C (40 °F) or below, where they keep 2–5 days. Store them in a shallow container or the crisper drawer in a single layer so their weight does not bruise the fruit underneath. Take them out 20–30 minutes before eating, since cold mutes their aroma.",
+    "freezer": "USDA gives no freezer timeline for fresh apricots, but they freeze reasonably well if halved and stoned first. Freeze the halves on a tray, then bag them; the texture softens on thawing, so use them for compotes, jams and baking rather than eating fresh.",
+    "thawing": "Thaw frozen apricots in the fridge, or cook them straight from frozen in a pan or a crumble. Thawed fruit is soft and juicy rather than firm.",
+    "spoilage": [
+      "Brown, sunken bruises or leaking juice",
+      "White or grey fuzzy mould, often starting at the stem",
+      "Fermented, alcoholic or vinegary smell",
+      "Wrinkled, dried-out skin with a mealy texture"
+    ],
+    "tips": [
+      "Buy apricots that smell fragrant — colour alone does not indicate ripeness",
+      "Ripen them in a paper bag on the counter, then refrigerate immediately",
+      "Store in a single layer so they do not bruise each other",
+      "Halve and freeze a glut for jam or crumble later in the year"
+    ],
+    "faq": [
+      {"q": "How long do apricots last in the fridge?", "a": "Ripe apricots keep 2–5 days at 4 °C (40 °F) or below. Unripe ones should stay on the counter until tender, then go into the fridge."},
+      {"q": "Can you freeze apricots?", "a": "Yes. Halve and stone them, freeze on a tray and then bag them. The texture softens, so use them for jam, compote or baking."},
+      {"q": "How can you tell if an apricot is ripe?", "a": "It should give slightly to gentle pressure, smell fragrant at the stem and have a deep, even orange colour. Colour alone is not enough."}
+    ]
+  },
+  "zh": {
+    "name": "杏桃",
+    "aliases": ["杏子", "新鮮杏桃", "杏", "鮮杏", "杏果"],
+    "summary": "杏桃是小顆的核果，採收後會繼續變軟，但不會再變甜。室溫只放到成熟為止——也就是變軟、香氣出來、可以入口的狀態——之後就要移到冰箱，成熟的果實冷藏可放 2～5 天。它很容易碰傷，取放要輕。",
+    "pantry": "還硬的杏桃可以放在室溫，避開陽光直射，並且平鋪單層而不要堆疊，直到輕壓會微微下陷、蒂頭聞得到香氣為止。放進紙袋可以困住它自己釋放的乙烯，加速後熟。一旦熟了就不要再放常溫，室溫下不到一天就會從剛好變成軟爛。",
+    "fridge": "熟了之後請放進 4°C 以下的冰箱，可保存 2～5 天。用淺容器或蔬果保鮮室單層擺放，避免上層的重量壓傷下面的果實。要吃之前先拿出來放 20～30 分鐘，因為低溫會壓抑香氣。",
+    "freezer": "USDA 沒有提供新鮮杏桃的冷凍期限，但先對半切、去核後冷凍，效果其實不錯。切半平鋪在盤子上冷凍定型後再裝袋；解凍後質地會變軟，比較適合做果醬、糖煮水果和烘焙，而不是直接生吃。",
+    "thawing": "冷凍杏桃放冷藏室退冰，或直接從冷凍下鍋、放進烤盤裡烤。解凍後的果肉會偏軟多汁，不再是脆實的口感。",
+    "spoilage": [
+      "出現褐色凹陷的碰傷，或滲出果汁",
+      "長出白色或灰色的毛狀黴菌，常從蒂頭開始",
+      "有發酵味、酒精味或醋酸味",
+      "果皮皺縮乾癟，口感變粉"
+    ],
+    "tips": [
+      "挑聞得到香氣的杏桃，光看顏色判斷不出成熟度",
+      "用紙袋在室溫催熟，熟了立刻放冰箱",
+      "單層擺放，避免互相壓傷",
+      "一次買太多就切半冷凍，之後做果醬或烤點心"
+    ],
+    "faq": [
+      {"q": "杏桃放冰箱可以放多久？", "a": "成熟的杏桃放在 4°C 以下可保存 2～5 天。還沒熟的先放室溫，變軟之後再移進冰箱。"},
+      {"q": "杏桃可以冷凍嗎？", "a": "可以。對半切去核，平鋪冷凍後再裝袋。解凍後質地會變軟，適合做果醬、糖煮或烘焙。"},
+      {"q": "怎麼判斷杏桃熟了？", "a": "輕壓會微微下陷、蒂頭有香氣、顏色是均勻的深橘色。只看顏色是不夠的。"}
+    ]
+  },
+  "ja": {
+    "name": "あんず（アプリコット）",
+    "aliases": ["アプリコット", "杏", "生あんず", "アンズ"],
+    "summary": "あんずは小ぶりの核果で、収穫後もやわらかくなりますが甘くはなりません。常温に置くのは熟すまで（やわらかく香りが立ち、食べごろになるまで）で、その後は冷蔵へ。完熟した実は冷蔵で2〜5日が目安です。傷つきやすいのでやさしく扱ってください。",
+    "pantry": "固いあんずは直射日光を避け、重ねず一段に並べて常温に置き、軽く押してやわらかく、軸から香りが立つまで追熟させます。紙袋に入れると自ら出すエチレンがこもって追熟が早まります。熟したら常温に置かないこと。室温では1日でちょうどよい状態から崩れた状態になります。",
+    "fridge": "熟したら4℃以下で冷蔵し、2〜5日を目安に食べ切ります。浅い容器か野菜室に一段で並べ、下の実が重みでつぶれないようにしましょう。冷たいままだと香りが弱いので、食べる20〜30分前に出しておくとおいしくなります。",
+    "freezer": "USDAは生あんずの冷凍期間を示していませんが、半分に切って種を除けば十分冷凍できます。バットで凍らせてから袋へ。解凍すると食感がやわらかくなるので、生食よりコンポートやジャム、焼き菓子向きです。",
+    "thawing": "冷凍あんずは冷蔵庫で解凍するか、凍ったまま鍋やクランブルに使います。解凍後はしっかりした食感ではなく、やわらかくジューシーになります。",
+    "spoilage": [
+      "茶色くへこんだ傷や果汁がしみ出している",
+      "白や灰色のカビ（軸のあたりから出やすい）",
+      "発酵臭、アルコール臭、酢のようなにおい",
+      "皮がしわしわに乾き、粉っぽい食感になっている"
+    ],
+    "tips": [
+      "香りのするものを選びましょう。色だけでは完熟か分かりません",
+      "紙袋で常温追熟し、熟したらすぐ冷蔵庫へ",
+      "重ねず一段に並べて、互いにつぶさないように",
+      "食べ切れないときは半割りで冷凍し、後日ジャムや焼き菓子に"
+    ],
+    "faq": [
+      {"q": "あんずは冷蔵庫でどのくらい持ちますか？", "a": "完熟したものは4℃以下で2〜5日です。未熟なものは常温でやわらかくなるまで置き、それから冷蔵してください。"},
+      {"q": "あんずは冷凍できますか？", "a": "できます。半分に切って種を取り、バットで凍らせてから袋へ。食感はやわらかくなるので、ジャムやコンポート、焼き菓子に向きます。"},
+      {"q": "あんずが熟したかどう見分けますか？", "a": "軽く押すと少し沈み、軸から香りが立ち、色が均一な濃いオレンジになっていれば食べごろです。色だけでは判断できません。"}
+    ]
+  },
+  "es": {
+    "name": "Albaricoques",
+    "aliases": ["damascos", "chabacanos", "albaricoque fresco", "fruta de hueso"],
+    "summary": "Los albaricoques son frutas de hueso pequeñas que siguen ablandándose tras la recolección, aunque no ganan más dulzor. Déjalos a temperatura ambiente solo hasta que estén maduros —tiernos, plenamente desarrollados y listos para comer— y pásalos entonces a la nevera, donde la fruta madura dura 2–5 días. Se magullan con facilidad, así que trátalos con cuidado.",
+    "pantry": "Deja los albaricoques firmes en la encimera, fuera del sol directo y en una sola capa en lugar de amontonados, hasta que maduren: blandos a una presión suave y aromáticos junto al rabito. Una bolsa de papel acelera la maduración al retener el etileno que desprenden. Una vez maduros no los dejes fuera: a temperatura ambiente pasan de perfectos a blandos en un día.",
+    "fridge": "Ya maduros, refrigéralos a 4 °C (40 °F) o menos, donde duran 2–5 días. Guárdalos en un recipiente bajo o en el cajón de verduras en una sola capa para que su peso no magulle la fruta de debajo. Sácalos 20–30 minutos antes de comerlos, porque el frío apaga su aroma.",
+    "freezer": "El USDA no da un plazo de congelación para el albaricoque fresco, pero se congela razonablemente bien partido por la mitad y deshuesado. Congela las mitades en una bandeja y luego embólsalas; la textura se ablanda al descongelar, así que úsalos para compotas, mermeladas y repostería más que en crudo.",
+    "thawing": "Descongélalos en la nevera, o cocínalos directamente congelados en una sartén o en un crumble. La fruta descongelada queda blanda y jugosa, no firme.",
+    "spoilage": [
+      "Magulladuras pardas y hundidas o fruta que suelta jugo",
+      "Moho blanco o gris, a menudo desde el rabito",
+      "Olor fermentado, alcohólico o avinagrado",
+      "Piel arrugada y reseca con textura harinosa"
+    ],
+    "tips": [
+      "Compra albaricoques que huelan: el color por sí solo no indica madurez",
+      "Madúralos en una bolsa de papel en la encimera y refrigéralos enseguida",
+      "Guárdalos en una sola capa para que no se magullen entre ellos",
+      "Congela por mitades el excedente para mermelada o crumble más adelante"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los albaricoques en la nevera?", "a": "Los maduros duran 2–5 días a 4 °C (40 °F) o menos. Los verdes deben madurar en la encimera y pasar después a la nevera."},
+      {"q": "¿Se pueden congelar los albaricoques?", "a": "Sí. Pártelos, deshuésalos, congélalos en bandeja y guárdalos en bolsa. La textura se ablanda, así que úsalos para mermelada, compota o repostería."},
+      {"q": "¿Cómo saber si un albaricoque está maduro?", "a": "Debe ceder ligeramente a la presión suave, oler bien junto al rabito y tener un naranja intenso y uniforme. El color solo no basta."}
+    ]
+  }
+}

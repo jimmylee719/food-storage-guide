@@ -89,6 +89,8 @@ type Dict = {
   seeGuide: string;
   languageLabel: string;
   toc: string;
+  foodTitleShort: (name: string) => string;
+  allFoodsDescription: string;
   homeFaqHeading: string;
   homeFaq: { q: string; a: string }[];
   dataNote: (foods: number, pages: number, guides: number) => string;
@@ -166,6 +168,8 @@ const zh: Dict = {
   seeGuide: '閱讀完整指南',
   languageLabel: '語言',
   toc: '本文目錄',
+  foodTitleShort: (name) => `${name}保存期限一覽`,
+  allFoodsDescription: '依分類瀏覽全部收錄食材，快速找到你要查的東西。每個分類頁都有常溫、冷藏、冷凍三欄的保存期限對照表。',
   homeFaqHeading: '關於食物保存的常見問題',
   homeFaq: [
     { q: '冰箱冷藏應該設定幾度？', a: '冷藏設在 4°C 以下、冷凍設在 −18°C 以下。台灣食藥署法規對「冷藏」的定義上限是 7°C，那是寫給食品業者的貯存設備標準，家用直接設 4°C 最保險。冰箱面板上的段數不是溫度，要放溫度計才知道實際幾度。' },
@@ -180,7 +184,7 @@ const zh: Dict = {
 const en: Dict = {
   siteName: 'Food Storage Guide',
   tagline: 'Pantry, fridge and freezer storage times',
-  siteDescription: 'Look up how long 700+ foods keep in the pantry, fridge and freezer. Built on the USDA FoodKeeper dataset and food-safety guidance from the FDA, WHO and national agencies, with storage tips, spoilage signs and safe thawing.',
+  siteDescription: 'How long 700+ foods keep in the pantry, fridge and freezer, built on the USDA FoodKeeper dataset, with storage tips, spoilage signs and safe thawing.',
   searchPlaceholder: 'Search a food, e.g. chicken, cabbage, salmon…',
   searchLabel: 'Search foods',
   noResults: 'No matching food. Try another word.',
@@ -244,11 +248,13 @@ const en: Dict = {
   listingOnly: 'Storage times are available for this food. The full write-up is in progress.',
   quickAnswer: 'Quick answer',
   seeNotes: 'See notes',
-  categoryTitleSuffix: 'storage times in the pantry, fridge and freezer',
+  categoryTitleSuffix: 'storage times in pantry, fridge and freezer',
   categoryDescLead: (n, name) => `Storage times for ${n} ${name.toLowerCase()} in the pantry, fridge and freezer, based on the USDA FoodKeeper dataset, with tips and spoilage signs.`,
   seeGuide: 'Read the full guide',
   languageLabel: 'Language',
   toc: 'On this page',
+  foodTitleShort: (name) => `${name} storage times`,
+  allFoodsDescription: 'Browse every food in the database by category. Each category page carries a side-by-side table of pantry, refrigerator and freezer times.',
   homeFaqHeading: 'Common questions about storing food',
   homeFaq: [
     { q: 'What temperature should a refrigerator be?', a: 'Set the fridge to 4 °C (40 °F) or below and the freezer to −18 °C (0 °F). The numbered dial inside most fridges is not a temperature, so the only way to know where yours actually sits is to put a thermometer in it and read it after eight hours.' },
@@ -332,6 +338,8 @@ const ja: Dict = {
   seeGuide: 'ガイドを読む',
   languageLabel: '言語',
   toc: '目次',
+  foodTitleShort: (name) => `${name}の保存期間`,
+  allFoodsDescription: '収録しているすべての食材をカテゴリー別に一覧できます。各カテゴリーのページに常温・冷蔵・冷凍の保存期間の対照表があります。',
   homeFaqHeading: '食品保存についてよくある質問',
   homeFaq: [
     { q: '冷蔵庫は何度に設定すればよいですか？', a: '冷蔵は 4°C 以下、冷凍は −18°C 以下に設定してください。日本の食品衛生関係法令では「冷蔵」を 10°C 以下と定義していますが、これは下限ではなく上限の基準です。家庭では 4°C を目安にするのが安全です。庫内のダイヤルの数字は温度ではないので、温度計で確かめてください。' },
@@ -345,8 +353,8 @@ const ja: Dict = {
 
 const es: Dict = {
   siteName: 'Guía de Conservación de Alimentos',
-  tagline: 'Cuánto duran los alimentos a temperatura ambiente, en nevera y congelador',
-  siteDescription: 'Consulta cuánto duran más de 700 alimentos en la despensa, la nevera y el congelador. Basado en el conjunto de datos FoodKeeper del USDA y en las guías de seguridad alimentaria de la FDA, la OMS y agencias nacionales, con consejos, señales de deterioro y descongelación segura.',
+  tagline: 'Cuánto duran los alimentos',
+  siteDescription: 'Cuánto duran más de 700 alimentos en la despensa, la nevera y el congelador, según el conjunto de datos FoodKeeper del USDA, con consejos y señales de deterioro.',
   searchPlaceholder: 'Busca un alimento: pollo, repollo, salmón…',
   searchLabel: 'Buscar alimentos',
   noResults: 'No hay resultados. Prueba con otra palabra.',
@@ -415,6 +423,8 @@ const es: Dict = {
   seeGuide: 'Leer la guía completa',
   languageLabel: 'Idioma',
   toc: 'En esta página',
+  foodTitleShort: (name) => `Cuánto dura ${name.toLowerCase()}`,
+  allFoodsDescription: 'Explora por categoría todos los alimentos de la base de datos. Cada página de categoría incluye una tabla con los tiempos de despensa, nevera y congelador.',
   homeFaqHeading: 'Preguntas frecuentes sobre conservar alimentos',
   homeFaq: [
     { q: '¿A qué temperatura debe estar la nevera?', a: 'Pon la nevera a 4 °C (40 °F) o menos y el congelador a −18 °C (0 °F). El mando numerado del interior no indica grados, así que la única forma de saber a cuánto está la tuya es meter un termómetro y leerlo pasadas ocho horas.' },

@@ -13,7 +13,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const d = t(locale);
   return buildMetadata({
     title: `${d.allFoods} — ${d.tagline}`,
-    description: d.siteDescription,
+    description: d.allFoodsDescription,
     path: '/foods',
     locale,
   });

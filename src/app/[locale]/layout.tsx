@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const d = t(locale);
   return {
     metadataBase: new URL(SITE_URL),
-    title: { default: `${d.siteName} — ${d.tagline}`, template: `%s | ${d.siteName}` },
+    title: { default: `${d.siteName} — ${d.tagline}`, template: '%s' },
     description: d.siteDescription,
     applicationName: d.siteName,
     formatDetection: { telephone: false },

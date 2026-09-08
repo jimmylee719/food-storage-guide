@@ -1,0 +1,107 @@
+{
+  "slug": "cookie-dough",
+  "en": {
+    "name": "Cookie dough",
+    "aliases": ["refrigerated cookie dough", "biscuit dough", "slice-and-bake dough", "raw cookie dough"],
+    "summary": "Cookie dough — whether the chilled tubes and tubs from the shop or a batch you mixed yourself — is a raw product containing eggs and uncooked flour, so it must be kept cold. Frozen at −18 °C (0 °F) it keeps about 2 months from the date of purchase; refrigerated dough follows the use-by date on the pack.",
+    "pantry": "Cookie dough should never be stored at room temperature. Raw eggs and raw flour can both carry bacteria, and the butter softens and separates in a warm kitchen. Leave the dough out only long enough to portion it, and discard any that has sat out more than 2 hours (1 hour above 32 °C/90 °F). Products labelled edible cookie dough are made with heat-treated flour and pasteurised egg and follow their own label instructions.",
+    "fridge": "Keep bought dough sealed at 4 °C (40 °F) or below and bake it by the date printed on the pack. Home-made dough keeps a few days tightly wrapped in the fridge, and chilling it for at least an hour actually improves cookies by hydrating the flour and reducing spread. Do not taste raw dough that is not labelled as edible.",
+    "freezer": "The freezer is the best place for cookie dough: about 2 months from purchase at −18 °C (0 °F). Scoop the dough into balls, freeze them on a tray until firm, then bag them so you can bake a few at a time straight from frozen, adding 2–3 minutes to the baking time.",
+    "thawing": "Bake frozen dough balls straight from the freezer with a couple of extra minutes, or thaw a log overnight in the fridge before slicing. Never thaw raw dough on the counter.",
+    "spoilage": [
+      "Sour, cheesy or fermented smell from the butter and eggs",
+      "Grey, dull or discoloured dough",
+      "Mould spots on the surface or inside the wrapper",
+      "Dry, white freezer-burned patches on frozen dough balls"
+    ],
+    "tips": [
+      "Freeze pre-scooped balls on a tray first so they do not fuse into a block",
+      "Label the bag with the type of dough and the date",
+      "Chill home-made dough for at least an hour before baking for a better texture",
+      "Do not eat raw dough unless the packet says it is made for eating"
+    ],
+    "faq": [
+      {"q": "How long does cookie dough last in the freezer?", "a": "About 2 months from purchase at −18 °C (0 °F). Freeze it in pre-scooped balls and bake straight from frozen with 2–3 extra minutes."},
+      {"q": "Can you eat raw cookie dough?", "a": "Only if the packet says it is made to be eaten raw, using heat-treated flour and pasteurised egg. Ordinary raw dough contains uncooked flour and raw egg and should be baked."},
+      {"q": "Does cookie dough need to be refrigerated?", "a": "Yes. Keep it at 4 °C (40 °F) or below and bake it by the date on the pack, or freeze it for about 2 months."}
+    ]
+  },
+  "zh": {
+    "name": "餅乾生麵團",
+    "aliases": ["曲奇麵團", "冷藏餅乾麵團", "切片餅乾麵團", "生餅乾麵團"],
+    "summary": "餅乾生麵團，不管是市售的冷藏條裝、盒裝，還是自己拌好的一批，都是含有生蛋和未熟麵粉的生食材，必須保持低溫。放 −18°C 冷凍，從購買日起約可保存 2 個月；冷藏型則依包裝上的有效日期。",
+    "pantry": "餅乾麵團絕對不能放在室溫保存。生蛋和生麵粉都可能帶菌，奶油在悶熱的廚房也會軟化出油。只在分割整形時把它拿出來，室溫放超過 2 小時（超過 32°C 時只有 1 小時）就要丟掉。標示為可生食的餅乾麵團使用經熱處理的麵粉和殺菌蛋液，請依其包裝說明。",
+    "fridge": "市售麵團請維持密封放在 4°C 以下，並在包裝標示日期前烤完。自製麵團包緊冷藏可以放幾天，而且冷藏至少一小時反而會讓餅乾更好吃，因為麵粉充分吸水、烘烤時也不會攤太開。沒有標示可生食的麵團請不要試吃。",
+    "freezer": "冷凍是餅乾麵團最好的歸宿：放 −18°C，從購買日起約 2 個月。先把麵團挖成球狀、平鋪在盤子上冷凍定型，再裝袋保存，之後想烤幾顆就拿幾顆，直接冷凍下烤箱，時間多加 2～3 分鐘。",
+    "thawing": "冷凍的麵團球直接進烤箱，多烤 2～3 分鐘即可；條狀麵團則放冷藏室退冰一晚再切片。生麵團絕對不要在室溫退冰。",
+    "spoilage": [
+      "奶油和蛋變質產生的酸味、起司味或發酵味",
+      "麵團變灰、黯淡或顏色不正常",
+      "表面或包裝內側出現黴斑",
+      "冷凍麵團球上有乾白的凍燒斑塊"
+    ],
+    "tips": [
+      "先挖成球平鋪冷凍定型，才不會黏成一整塊",
+      "袋子上標明麵團種類和日期",
+      "自製麵團冷藏至少一小時再烤，口感更好",
+      "除非包裝標明可生食，否則不要吃生麵團"
+    ],
+    "faq": [
+      {"q": "餅乾麵團冷凍可以放多久？", "a": "放 −18°C，從購買日起約 2 個月。先挖成球冷凍，之後直接冷凍下烤箱，多烤 2～3 分鐘。"},
+      {"q": "生的餅乾麵團可以吃嗎？", "a": "只有標示「可生食」、使用熱處理麵粉和殺菌蛋液的產品才可以。一般生麵團含有未熟麵粉和生蛋，應該烤熟再吃。"},
+      {"q": "餅乾麵團需要冷藏嗎？", "a": "需要。請保存在 4°C 以下並在包裝標示日期前烤完，或冷凍約 2 個月。"}
+    ]
+  },
+  "ja": {
+    "name": "クッキー生地",
+    "aliases": ["クッキードウ", "チルドクッキー生地", "アイスボックス生地", "生クッキー生地"],
+    "summary": "クッキー生地は、市販のチルド品でも自分で作ったものでも、生卵と加熱していない小麦粉を含む生の食品なので、必ず冷たく保つ必要があります。−18℃の冷凍なら購入日から約2か月、チルド品はパッケージの期限に従ってください。",
+    "pantry": "クッキー生地を常温で保存してはいけません。生卵も生の小麦粉も細菌を持つ可能性があり、暑い台所ではバターがゆるんで分離します。生地を出すのは分割・成形の間だけにし、室温に2時間（32℃を超える環境では1時間）以上置いたものは処分してください。「生食可」と表示された商品は加熱処理小麦粉と殺菌卵を使っており、その表示に従います。",
+    "fridge": "市販の生地は密封したまま4℃以下で保存し、パッケージの期限までに焼きます。自家製はしっかり包めば冷蔵で数日持ち、1時間以上冷やすと小麦粉に水分が入り広がりも抑えられて、むしろおいしく焼けます。生食可の表示がない生地は味見しないでください。",
+    "freezer": "クッキー生地は冷凍が最適で、−18℃なら購入日から約2か月です。あらかじめ丸めてバットで凍らせ、固まってから袋にまとめれば、必要な数だけ凍ったまま焼けます。焼成時間は2〜3分長めにしてください。",
+    "thawing": "凍った生地玉はそのままオーブンへ入れ、2〜3分長めに焼きます。棒状の生地は冷蔵庫で一晩解凍してからスライスを。室温解凍は避けてください。",
+    "spoilage": [
+      "バターや卵が劣化した酸っぱいにおい、チーズ臭、発酵臭",
+      "生地が灰色っぽく、くすんで変色している",
+      "表面や包装の内側にカビの斑点",
+      "冷凍した生地玉に白く乾いた冷凍焼けの部分がある"
+    ],
+    "tips": [
+      "丸めてバットで凍らせてから袋へ。塊にくっつきません",
+      "袋に生地の種類と日付を書いておきましょう",
+      "自家製は1時間以上冷やしてから焼くと食感が良くなります",
+      "パッケージに生食可とない限り、生地をそのまま食べないこと"
+    ],
+    "faq": [
+      {"q": "クッキー生地は冷凍でどのくらい持ちますか？", "a": "−18℃で購入日から約2か月です。丸めて冷凍しておけば、凍ったまま2〜3分長めに焼けます。"},
+      {"q": "生のクッキー生地は食べられますか？", "a": "加熱処理小麦粉と殺菌卵を使った「生食可」の表示がある商品だけです。通常の生地は生の小麦粉と卵を含むので必ず焼いてください。"},
+      {"q": "クッキー生地は冷蔵が必要ですか？", "a": "必要です。4℃以下で保存してパッケージの期限までに焼くか、約2か月冷凍してください。"}
+    ]
+  },
+  "es": {
+    "name": "Masa para galletas",
+    "aliases": ["masa de galletas refrigerada", "cookie dough", "masa cruda para galletas", "rollo de masa de galletas"],
+    "summary": "La masa para galletas, ya sea la de tubo o tarrina del supermercado o la que preparas en casa, es un producto crudo con huevo y harina sin cocinar, así que debe mantenerse en frío. Congelada a −18 °C (0 °F) dura alrededor de 2 meses desde la compra; la refrigerada sigue la fecha del envase.",
+    "pantry": "La masa para galletas nunca debe guardarse a temperatura ambiente. El huevo crudo y la harina cruda pueden contener bacterias, y la mantequilla se ablanda y se separa en una cocina cálida. Sácala solo el tiempo necesario para porcionarla, y desecha la que haya estado fuera más de 2 horas (1 hora por encima de 32 °C/90 °F). Los productos etiquetados como masa apta para comer cruda usan harina tratada térmicamente y huevo pasteurizado y siguen sus propias instrucciones.",
+    "fridge": "Guarda la masa comprada cerrada a 4 °C (40 °F) o menos y hornéala antes de la fecha impresa. La masa casera aguanta unos días bien envuelta, y enfriarla al menos una hora mejora las galletas, porque hidrata la harina y reduce la extensión. No pruebes masa cruda que no esté etiquetada como apta.",
+    "freezer": "El congelador es el mejor sitio: alrededor de 2 meses desde la compra a −18 °C (0 °F). Forma bolas, congélalas en una bandeja hasta que estén firmes y guárdalas en bolsa, para hornear unas pocas directamente congeladas añadiendo 2–3 minutos.",
+    "thawing": "Hornea las bolas congeladas directamente con un par de minutos extra, o descongela un rollo en la nevera durante la noche antes de cortarlo. Nunca descongeles masa cruda en la encimera.",
+    "spoilage": [
+      "Olor agrio, a queso o fermentado de la mantequilla y el huevo",
+      "Masa grisácea, apagada o descolorida",
+      "Manchas de moho en la superficie o dentro del envoltorio",
+      "Zonas blancas y secas de quemadura por congelación en las bolas"
+    ],
+    "tips": [
+      "Congela las bolas primero en bandeja para que no se fusionen en un bloque",
+      "Etiqueta la bolsa con el tipo de masa y la fecha",
+      "Enfría la masa casera al menos una hora antes de hornear para mejor textura",
+      "No comas masa cruda salvo que el envase indique que está hecha para ello"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la masa para galletas en el congelador?", "a": "Alrededor de 2 meses desde la compra a −18 °C (0 °F). Congélala en bolas ya formadas y hornéalas congeladas con 2–3 minutos extra."},
+      {"q": "¿Se puede comer masa de galletas cruda?", "a": "Solo si el envase indica que está hecha para comerse cruda, con harina tratada térmicamente y huevo pasteurizado. La masa corriente lleva harina y huevo crudos y debe hornearse."},
+      {"q": "¿La masa para galletas necesita refrigeración?", "a": "Sí. Mantenla a 4 °C (40 °F) o menos y hornéala antes de la fecha del envase, o congélala unos 2 meses."}
+    ]
+  }
+}
