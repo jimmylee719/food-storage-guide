@@ -1,0 +1,107 @@
+{
+  "slug": "eggplant",
+  "en": {
+    "name": "Aubergine",
+    "aliases": ["eggplant", "brinjal", "Japanese eggplant", "baby aubergine", "melanzane"],
+    "summary": "Aubergine is a warm-climate fruit that is sensitive to cold, so it does not love the fridge but does not last on the counter either. At room temperature it keeps about 1 day from the date of purchase; refrigerated it lasts 4–7 days, and cooked or blanched and frozen it keeps 6–8 months.",
+    "pantry": "A cool spot out of direct sun holds an aubergine about 1 day from purchase before the skin starts to dull and the flesh softens. Aubergines bruise easily, so keep them in a single layer rather than stacked, and away from apples and tomatoes, whose ethylene speeds up softening and browning.",
+    "fridge": "Refrigerate whole, unwashed aubergines in the crisper at 4 °C (40 °F) or below, where they keep 4–7 days from purchase. They are prone to chilling injury, so use the warmest drawer and do not seal them in plastic, which traps moisture and causes soft brown patches. Cut aubergine browns within minutes, so cook it soon after slicing.",
+    "freezer": "Aubergine freezes for 6–8 months from purchase at −18 °C (0 °F) if cooked or blanched first. Slice and blanch in lemon water for 4 minutes, or roast or grill the slices, then cool, pack flat in airtight bags and freeze. Raw frozen aubergine turns brown and mushy on thawing.",
+    "thawing": "Thaw cooked aubergine in the fridge, or add frozen slices straight to a bake, curry or stew. Squeeze out excess water before layering it into a dish so the result is not watery.",
+    "spoilage": [
+      "Soft, wrinkled skin that no longer springs back when pressed",
+      "Brown or black sunken spots on the skin",
+      "Flesh that is brown, spongy or full of dark seeds when cut",
+      "Bitter taste, which develops as the fruit ages"
+    ],
+    "tips": [
+      "Choose glossy, firm fruit that feels heavy for its size",
+      "Do not seal them in plastic — trapped moisture causes brown patches",
+      "Salt cut slices for 30 minutes to draw out moisture and any bitterness",
+      "Roast a glut and freeze the slices flat for future bakes"
+    ],
+    "faq": [
+      {"q": "How long does aubergine last in the fridge?", "a": "4–7 days from purchase at 4 °C (40 °F) or below, kept whole and unwrapped in the crisper drawer."},
+      {"q": "Can you freeze aubergine?", "a": "Yes, but cook or blanch it first. Blanch slices in lemon water for 4 minutes or roast them, then cool and freeze flat in bags for 6–8 months at −18 °C (0 °F)."},
+      {"q": "Why did my aubergine taste bitter?", "a": "Bitterness increases as the fruit ages and its seeds darken. Choose young, glossy, firm aubergines and salt the slices for 30 minutes before cooking."}
+    ]
+  },
+  "zh": {
+    "name": "茄子",
+    "aliases": ["長茄", "圓茄", "日本茄子", "紫茄", "矮瓜"],
+    "summary": "茄子是溫暖氣候的果實、怕冷，所以它不太喜歡冰箱，但放在室溫也撐不久。室溫下從購買日起約可放 1 天；冷藏可放 4～7 天；煮熟或汆燙後冷凍則可保存 6～8 個月。",
+    "pantry": "放在陰涼不曬太陽的地方，茄子從購買日起約可放 1 天，之後表皮就會失去光澤、果肉開始變軟。茄子很容易碰傷，請單層擺放不要堆疊，也要遠離蘋果和番茄，它們的乙烯會加速茄子變軟變褐。",
+    "fridge": "整條不清洗，放進 4°C 以下的蔬果保鮮室，從購買日起可放 4～7 天。茄子容易有寒害，所以請用最不冷的抽屜，也不要密封在塑膠袋裡，悶住的水氣會造成褐色軟斑。切開的茄子幾分鐘內就會變褐，所以切完要盡快下鍋。",
+    "freezer": "茄子先煮熟或汆燙再冷凍，放 −18°C，從購買日起可保存 6～8 個月。切片後用加了檸檬汁的水汆燙 4 分鐘，或是直接烤過、煎過，放涼後平鋪裝進密封袋冷凍。生茄子直接冷凍，解凍後會變褐、變爛。",
+    "thawing": "煮熟的茄子放冷藏室退冰，或把冷凍片直接加進焗烤、咖哩和燉菜裡。層層鋪進料理前先把多餘水分擠掉，成品才不會水水的。",
+    "spoilage": [
+      "外皮變軟起皺，按下去不會回彈",
+      "表皮出現褐色或黑色的凹陷斑點",
+      "切開後果肉發褐、呈海綿狀，或籽很多且發黑",
+      "吃起來發苦，這是果實變老的表現"
+    ],
+    "tips": [
+      "挑外皮油亮、結實、拿起來沉甸甸的",
+      "不要密封在塑膠袋裡，悶住的水氣會造成褐斑",
+      "切片後撒鹽靜置 30 分鐘，可以逼出水分和苦味",
+      "一次太多就先烤過，切片平鋪冷凍，之後做焗烤很方便"
+    ],
+    "faq": [
+      {"q": "茄子放冰箱可以放多久？", "a": "整條不包不洗放在蔬果保鮮室，維持 4°C 以下，從購買日起 4～7 天。"},
+      {"q": "茄子可以冷凍嗎？", "a": "可以，但要先煮熟或汆燙。切片用檸檬水燙 4 分鐘或烤過，放涼後平鋪裝袋，放 −18°C 冷凍 6～8 個月。"},
+      {"q": "我的茄子為什麼吃起來苦苦的？", "a": "茄子愈老、籽愈黑，苦味就愈明顯。請挑年輕油亮結實的，切片後撒鹽靜置 30 分鐘再煮。"}
+    ]
+  },
+  "ja": {
+    "name": "なす",
+    "aliases": ["ナス", "茄子", "米なす", "長なす", "水なす"],
+    "summary": "なすは温暖な気候の果実で低温に弱く、冷蔵庫を好みませんが常温でも長くは持ちません。常温では購入日から約1日、冷蔵なら4〜7日、加熱または下ゆでして冷凍すれば6〜8か月保存できます。",
+    "pantry": "直射日光の当たらない涼しい場所なら購入日から約1日は持ちますが、その後は皮のつやが失われ実がやわらかくなります。傷つきやすいので重ねず一段に並べ、りんごやトマトのエチレンで軟化と変色が進むため、離して保存しましょう。",
+    "fridge": "丸ごと洗わずに、4℃以下の野菜室で保存すれば購入日から4〜7日持ちます。低温障害を受けやすいので庫内で最も温度の高い引き出しに入れ、ポリ袋で密閉しないでください。湿気がこもると茶色いやわらかい斑点が出ます。切ったなすは数分で変色するので、切ったらすぐ調理を。",
+    "freezer": "加熱または下ゆでしてから冷凍すれば、−18℃で購入日から6〜8か月保存できます。スライスしてレモン水で4分ゆでるか、焼くかグリルし、冷ましてから平らにして密閉袋へ。生のまま冷凍すると解凍時に茶色くぐずぐずになります。",
+    "thawing": "加熱済みのなすは冷蔵庫で解凍するか、凍ったままグラタンやカレー、煮込みへ。料理に重ねる前に余分な水気を絞ると、仕上がりが水っぽくなりません。",
+    "spoilage": [
+      "皮がしわしわでやわらかく、押しても戻らない",
+      "皮に茶色や黒のへこんだ斑点がある",
+      "切ると果肉が茶色い、スポンジ状、種が多く黒い",
+      "苦味がある（実が古くなると強くなります）"
+    ],
+    "tips": [
+      "皮につやがあり、しまっていて、ずっしり重いものを選びましょう",
+      "ポリ袋で密閉しないこと。こもった湿気が茶色い斑点の原因です",
+      "スライスに塩をして30分置くと、水分と苦味が抜けます",
+      "多いときは焼いてスライスを平らに冷凍しておくと便利です"
+    ],
+    "faq": [
+      {"q": "なすは冷蔵庫でどのくらい持ちますか？", "a": "丸ごと包まず野菜室に入れ、4℃以下で購入日から4〜7日です。"},
+      {"q": "なすは冷凍できますか？", "a": "できますが、加熱か下ゆでを先に。レモン水で4分ゆでるか焼き、冷まして平らに袋詰めし、−18℃で6〜8か月です。"},
+      {"q": "なすが苦いのはなぜですか？", "a": "実が古くなり種が黒ずむほど苦味が強くなります。若くてつやのある実を選び、切ってから塩をして30分置くとよいでしょう。"}
+    ]
+  },
+  "es": {
+    "name": "Berenjenas",
+    "aliases": ["berenjena", "berenjena japonesa", "berenjena baby", "melanzana"],
+    "summary": "La berenjena es un fruto de clima cálido sensible al frío, así que no le encanta la nevera pero tampoco aguanta en la encimera. A temperatura ambiente dura alrededor de 1 día desde la compra; refrigerada, 4–7 días, y cocinada o escaldada y congelada, 6–8 meses.",
+    "pantry": "Un sitio fresco fuera del sol directo mantiene una berenjena alrededor de 1 día desde la compra antes de que la piel pierda brillo y la pulpa se ablande. Se magullan con facilidad, así que colócalas en una sola capa y lejos de manzanas y tomates, cuyo etileno acelera el ablandamiento y el pardeamiento.",
+    "fridge": "Refrigera las berenjenas enteras y sin lavar en el cajón de verduras a 4 °C (40 °F) o menos, donde duran 4–7 días desde la compra. Son propensas al daño por frío, así que usa el cajón más templado y no las selles en plástico, que retiene humedad y provoca manchas pardas blandas. La berenjena cortada se oxida en minutos, así que cocínala poco después de cortarla.",
+    "freezer": "Se congela 6–8 meses desde la compra a −18 °C (0 °F) si la cocinas o escaldas antes. Corta en rodajas y escáldalas en agua con limón 4 minutos, o ásalas a la plancha o al horno; enfríalas, colócalas planas en bolsas herméticas y congélalas. Cruda se vuelve parda y blanda al descongelar.",
+    "thawing": "Descongela la berenjena cocinada en la nevera, o añade las rodajas congeladas directamente a un horneado, curry o guiso. Escurre el exceso de agua antes de montar el plato para que no quede aguado.",
+    "spoilage": [
+      "Piel blanda y arrugada que ya no recupera su forma al presionarla",
+      "Manchas pardas o negras hundidas en la piel",
+      "Pulpa parda, esponjosa o llena de semillas oscuras al cortarla",
+      "Sabor amargo, que aumenta a medida que la pieza envejece"
+    ],
+    "tips": [
+      "Elige piezas brillantes y firmes que pesen para su tamaño",
+      "No las selles en plástico: la humedad retenida provoca manchas pardas",
+      "Sala las rodajas 30 minutos para extraer agua y amargor",
+      "Asa el excedente y congela las rodajas planas para futuros horneados"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las berenjenas en la nevera?", "a": "4–7 días desde la compra a 4 °C (40 °F) o menos, enteras y sin envolver en el cajón de verduras."},
+      {"q": "¿Se pueden congelar las berenjenas?", "a": "Sí, pero cocínalas o escáldalas antes. Escalda las rodajas 4 minutos en agua con limón o ásalas, enfríalas y congélalas planas 6–8 meses a −18 °C (0 °F)."},
+      {"q": "¿Por qué mi berenjena sabía amarga?", "a": "El amargor aumenta con la edad de la pieza y el oscurecimiento de sus semillas. Elige berenjenas jóvenes, brillantes y firmes, y sala las rodajas 30 minutos antes de cocinarlas."}
+    ]
+  }
+}

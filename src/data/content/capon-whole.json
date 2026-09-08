@@ -1,0 +1,107 @@
+{
+  "slug": "capon-whole",
+  "en": {
+    "name": "Whole capon",
+    "aliases": ["capon", "roasting capon", "castrated rooster", "large roasting chicken"],
+    "summary": "A capon is a castrated male chicken raised to a large size, giving unusually tender, well-marbled meat that roasts beautifully for a crowd. Raw, it keeps only 1–2 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and about 12 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw capon must never be stored or thawed at room temperature. Like all poultry it may carry salmonella and campylobacter, which multiply rapidly in the danger zone between 4 °C and 60 °C (40 °F and 140 °F); discard a bird left out for more than 2 hours — 1 hour above 32 °C (90 °F). Wash hands, boards and sink after handling.",
+    "fridge": "Store the capon in its packaging on a tray on the bottom shelf at 4 °C (40 °F) or below, below all ready-to-eat foods, and cook it within 1–2 days of purchase. Dry-brining — salting the bird and leaving it uncovered on a rack in the fridge — improves both juiciness and crackling skin, and fits inside that 1–2 day window.",
+    "freezer": "Capon freezes very well and keeps good quality for about 12 months at −18 °C (0 °F), where it stays safe indefinitely. Wrap the bird in a large freezer bag or two layers of heavy foil, pressing out all the air, and remove giblets from the cavity first — they have a much shorter freezer life of their own. Label with weight and date.",
+    "thawing": "Thaw in the fridge on a tray, about 24 hours per 2 kg, so a large capon may need two days or more. Cold water thawing in a sealed bag, changing the water every 30 minutes, is faster but the bird must be roasted immediately. Cook capon to 74 °C (165 °F) in the thickest part of the thigh.",
+    "spoilage": [
+      "Sour, sulphurous or ammonia-like smell as soon as the pack is opened",
+      "Slimy or sticky skin",
+      "Grey, green or unusually dull colour in the meat",
+      "Cloudy, ropey liquid in the packaging, or a passed use-by date"
+    ],
+    "tips": [
+      "Take the giblets out of the cavity before freezing and store them separately.",
+      "Dry-brine for 24 hours in the fridge for juicier meat and crisper skin.",
+      "Truss the bird so the legs stay close and cook at the same rate as the breast.",
+      "Rest the roasted capon 20 minutes before carving."
+    ],
+    "faq": [
+      {"q": "Can you freeze a whole capon?", "a": "Yes. Wrap it well and freeze at −18 °C (0 °F): safe indefinitely and good quality for about 12 months. Remove the giblets first."},
+      {"q": "How long does raw capon last in the fridge?", "a": "Only 1–2 days from the day of purchase at 4 °C (40 °F) or below."},
+      {"q": "How is a capon different from a chicken?", "a": "A capon is a castrated male bird grown larger and fatter, so the meat is more tender and better marbled than a standard roasting chicken."}
+    ]
+  },
+  "zh": {
+    "name": "整隻閹雞",
+    "aliases": ["閹雞", "太監雞", "大型烤雞", "肥雞"],
+    "summary": "閹雞是去勢後養到較大體型的公雞，肉質特別柔嫩、油花分布好，很適合烤來宴客。生肉在 4°C 以下冷藏，從購買日起只能放 1～2 天；放 −18°C 冷凍約可放 12 個月。",
+    "pantry": "生閹雞絕對不能在室溫保存或解凍。和所有禽肉一樣可能帶有沙門氏菌和曲狀桿菌，在 4～60°C 的危險溫度帶會快速繁殖；室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。處理後務必清洗雙手、砧板和水槽。",
+    "fridge": "連包裝放在盤子上、置於冰箱最下層，維持 4°C 以下，並放在所有即食食品下方，購買後 1～2 天內烹調。乾式鹽漬（抹鹽後不加蓋放在架上冷藏）能讓肉更多汁、皮更脆，這段時間也在 1～2 天的期限內。",
+    "freezer": "閹雞很適合冷凍，放 −18°C 品質約可維持 12 個月，安全上可以無限期保存。用大型冷凍袋或雙層厚鋁箔包好、把空氣完全擠出，並先把腹腔裡的內臟取出——內臟本身的冷凍期限短很多。標註重量和日期。",
+    "thawing": "放盤子上冷藏解凍，每 2 公斤約 24 小時，大隻的閹雞可能要兩天以上。裝密封袋泡冷水、每 30 分鐘換水比較快，但解凍後要立刻烘烤。閹雞要烤到大腿最厚處 74°C。",
+    "spoilage": [
+      "一打開包裝就聞到酸味、硫磺味或阿摩尼亞味",
+      "雞皮黏滑、發黏",
+      "肉色變灰、帶綠或異常暗沉",
+      "包裝內液體變混濁牽絲，或已超過有效日期"
+    ],
+    "tips": [
+      "冷凍前先把腹腔的內臟取出，另外分開保存。",
+      "在冰箱乾式鹽漬 24 小時，肉更多汁、皮更酥。",
+      "把雞綁好（trussing），腿貼緊身體，才會和胸肉同時熟。",
+      "烤好靜置 20 分鐘再切。"
+    ],
+    "faq": [
+      {"q": "整隻閹雞可以冷凍嗎？", "a": "可以。包好後放 −18°C 冷凍：安全上無限期，品質約 12 個月。冷凍前先把內臟取出。"},
+      {"q": "生閹雞放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起只有 1～2 天。"},
+      {"q": "閹雞和一般雞有什麼不同？", "a": "閹雞是去勢的公雞，養得更大更肥，所以肉質比一般烤雞更嫩、油花也更漂亮。"}
+    ]
+  },
+  "ja": {
+    "name": "カポン（去勢した雄鶏・丸ごと）",
+    "aliases": ["カポン", "去勢鶏", "大型のロースト用鶏", "肥育鶏"],
+    "summary": "カポンは去勢して大きく育てた雄鶏で、肉質がとくにやわらかくサシもよく入り、大人数のローストに向きます。生の状態では4℃以下の冷蔵で購入日から1〜2日、−18℃の冷凍で約12か月が目安です。",
+    "pantry": "生のカポンを常温で保存・解凍することはできません。ほかの家禽と同様サルモネラやカンピロバクターを持つことがあり、4〜60℃の危険温度帯では急速に増えます。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分し、扱ったあとは手・まな板・シンクを洗ってください。",
+    "fridge": "包装のままトレーにのせ、冷蔵庫の最下段で4℃以下を保ち、そのまま食べる食品より下に置いて、購入から1〜2日以内に調理します。塩をして網にのせ覆わずに冷蔵するドライブラインは、しっとりした肉とパリッとした皮の両方に効果的で、この1〜2日の枠内に収まります。",
+    "freezer": "カポンは冷凍向きで、−18℃なら品質は約12か月、安全面では長期間保存できます。大きめの冷凍用保存袋か厚手ホイルの二重包みで空気を完全に抜き、腹腔の内臓（ジブレット）は先に取り出しておきましょう。内臓の冷凍期限はずっと短いためです。重量と日付をラベルに書いておきます。",
+    "thawing": "トレーにのせて冷蔵庫で解凍し、2kgあたり約24時間。大きなカポンなら2日以上かかることもあります。密閉袋で冷水解凍（30分ごとに水替え）は早いですが、解凍後すぐ焼いてください。ももの厚い部分が74℃になるまで加熱します。",
+    "spoilage": [
+      "パックを開けた瞬間に酸っぱいにおい、硫黄臭、アンモニア臭がする",
+      "皮がぬめる・べたつく",
+      "肉が灰色・緑がかった色・異常にくすんだ色になっている",
+      "パック内の液が濁って糸を引く、消費期限を過ぎている"
+    ],
+    "tips": [
+      "冷凍前に腹腔の内臓を取り出し、別に保存する。",
+      "冷蔵庫で24時間のドライブラインを行うと、しっとりしてパリッと焼ける。",
+      "たこ糸で縛って脚を胴に寄せると、むね肉と同じ速さで火が通る。",
+      "焼き上がったら20分休ませてから切り分ける。"
+    ],
+    "faq": [
+      {"q": "カポンは丸ごと冷凍できますか？", "a": "できます。しっかり包んで−18℃で冷凍すれば、安全面では長期間、品質は約12か月。内臓は先に取り出してください。"},
+      {"q": "生のカポンは冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から1〜2日だけです。"},
+      {"q": "カポンと普通の鶏の違いは？", "a": "カポンは去勢した雄鶏を大きく肥育したもので、一般のロースト用鶏よりやわらかく、サシもよく入っています。"}
+    ]
+  },
+  "es": {
+    "name": "Capón entero",
+    "aliases": ["capón", "gallo capado", "pollo grande de asar", "capón de Navidad"],
+    "summary": "El capón es un gallo castrado criado hasta gran tamaño, lo que da una carne excepcionalmente tierna y bien infiltrada, ideal para asar y servir a mucha gente. Crudo dura solo 1–2 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y unos 12 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "El capón crudo nunca debe guardarse ni descongelarse a temperatura ambiente. Como toda ave puede portar salmonela y campylobacter, que se multiplican rápido en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F); deséchalo si lleva más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)—. Lávate las manos y limpia tablas y fregadero después.",
+    "fridge": "Guárdalo en su envase sobre una bandeja en el estante inferior a 4 °C (40 °F) o menos, por debajo de los alimentos listos para comer, y cocínalo en 1–2 días desde la compra. La salmuera seca —salarlo y dejarlo destapado sobre una rejilla en el refrigerador— mejora la jugosidad y la piel crujiente, y cabe dentro de ese plazo de 1–2 días.",
+    "freezer": "El capón se congela muy bien y conserva buena calidad unos 12 meses a −18 °C (0 °F), donde es seguro indefinidamente. Envuélvelo en una bolsa grande de congelación o en doble capa de aluminio grueso sacando todo el aire, y retira antes las menudencias de la cavidad: su vida en congelador es mucho más corta. Etiqueta con peso y fecha.",
+    "thawing": "Descongélalo en el refrigerador sobre una bandeja, unas 24 horas por cada 2 kg, así que un capón grande puede necesitar dos días o más. El agua fría en bolsa cerrada, cambiada cada 30 minutos, es más rápida pero obliga a asarlo enseguida. Cocínalo hasta 74 °C (165 °F) en la parte más gruesa del muslo.",
+    "spoilage": [
+      "Olor agrio, sulfuroso o a amoníaco nada más abrir el paquete",
+      "Piel viscosa o pegajosa",
+      "Carne de color gris, verdoso o anormalmente apagado",
+      "Líquido turbio y filante en el envase, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Saca las menudencias de la cavidad antes de congelar y guárdalas aparte.",
+      "Haz salmuera seca 24 horas en el refrigerador para más jugosidad y piel crujiente.",
+      "Ata el ave para que los muslos queden pegados y se cocinen al ritmo de la pechuga.",
+      "Deja reposar el capón asado 20 minutos antes de trinchar."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar un capón entero?", "a": "Sí. Envuélvelo bien y congélalo a −18 °C (0 °F): seguro indefinidamente y con buena calidad unos 12 meses. Retira antes las menudencias."},
+      {"q": "¿Cuánto dura el capón crudo en el refrigerador?", "a": "Solo 1–2 días desde el día de compra a 4 °C (40 °F) o menos."},
+      {"q": "¿En qué se diferencia un capón de un pollo?", "a": "El capón es un macho castrado criado hasta mayor tamaño y engorde, así que su carne es más tierna y con mejor infiltración que la de un pollo de asar corriente."}
+    ]
+  }
+}

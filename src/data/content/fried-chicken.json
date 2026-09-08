@@ -1,0 +1,107 @@
+{
+  "slug": "fried-chicken",
+  "en": {
+    "name": "Fried chicken",
+    "aliases": ["cooked fried chicken", "crispy chicken", "takeaway fried chicken", "battered chicken"],
+    "summary": "Fried chicken is chicken pieces coated in seasoned flour or batter and deep-fried until crisp, whether homemade or bought hot. Once cooked and cooled it keeps 3–4 days in the fridge at 4 °C (40 °F) or below, and about 4 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Cooked chicken must not sit at room temperature for long, even in a takeaway box. Bacteria that survive frying or land on the food afterwards grow quickly in the danger zone between 4 °C and 60 °C (40 °F and 140 °F), so refrigerate leftovers within 2 hours — 1 hour if the room is above 32 °C (90 °F) — rather than leaving the box on the counter overnight.",
+    "fridge": "Cool the chicken quickly, spread it in a single layer in a shallow container and refrigerate at 4 °C (40 °F) or below for 3–4 days. The coating goes soft in the fridge, which is normal; a lightly covered container keeps it slightly crisper than a sealed one, but always cover it enough to keep the meat from drying and picking up odours.",
+    "freezer": "Fried chicken freezes reasonably well and holds good quality for about 4 months at −18 °C (0 °F), where it stays safe indefinitely. Freeze the pieces on a tray first, then bag them so they do not stick together. Expect the coating to soften; reheating in a hot oven or air fryer brings much of the crispness back.",
+    "thawing": "Thaw in the fridge overnight and reheat until steaming hot, 74 °C (165 °F), in an oven or air fryer rather than a microwave if you want crisp skin. Frozen pieces can also be reheated straight from the freezer at a lower temperature for longer. Never thaw cooked chicken on the counter.",
+    "spoilage": [
+      "Sour, rancid or off smell from the meat or the oil in the coating",
+      "Slimy or sticky meat under the crust",
+      "Grey or greenish meat, or mould anywhere on the pieces",
+      "A stale, cardboard-like taste from oxidized frying oil"
+    ],
+    "tips": [
+      "Cool leftovers quickly in a single layer, then refrigerate within 2 hours.",
+      "Reheat in an oven or air fryer at around 190 °C (375 °F) for the crispest result.",
+      "Freeze pieces separated on a tray before bagging them.",
+      "Do not stack hot pieces in a sealed box — the steam makes the coating soggy."
+    ],
+    "faq": [
+      {"q": "Can you freeze fried chicken?", "a": "Yes, at −18 °C (0 °F) for about 4 months. The coating softens, but reheating in a hot oven or air fryer restores much of the crunch."},
+      {"q": "How long does fried chicken last in the fridge?", "a": "3–4 days at 4 °C (40 °F) or below, provided it went into the fridge within 2 hours of cooking."},
+      {"q": "Can you eat cold fried chicken?", "a": "Yes, if it has been kept refrigerated the whole time and is within the 3–4 day window. If in doubt, reheat it to 74 °C (165 °F)."}
+    ]
+  },
+  "zh": {
+    "name": "炸雞",
+    "aliases": ["炸雞塊", "美式炸雞", "酥炸雞", "鹹酥雞（雞肉）", "裹粉炸雞"],
+    "summary": "炸雞是把雞肉裹上調味麵粉或麵糊、下油鍋炸到酥脆的料理，自己做或外帶都一樣。炸好放涼後，在 4°C 以下冷藏可放 3～4 天；放 −18°C 冷凍約可放 4 個月。",
+    "pantry": "熟雞肉不能長時間放室溫，就算裝在外帶盒裡也一樣。油炸後殘存或之後沾附的細菌，在 4～60°C 的危險溫度帶會快速生長，所以吃剩的要在 2 小時內冷藏（氣溫超過 32°C 時 1 小時），不要整盒放在桌上過夜。",
+    "fridge": "先快速降溫，把炸雞單層攤在淺容器裡，放 4°C 以下冷藏 3～4 天。外皮在冰箱裡會變軟，這是正常現象；用輕蓋的容器會比完全密封稍微保脆一點，但仍要蓋好，避免肉乾掉和吸附異味。",
+    "freezer": "炸雞冷凍效果還不錯，放 −18°C 品質約可維持 4 個月，安全上可以無限期保存。先把雞塊平鋪在烤盤上凍硬，再裝袋，這樣才不會黏成一團。外皮會變軟，用高溫烤箱或氣炸鍋回烤可以恢復大部分的酥脆。",
+    "thawing": "放冷藏室解凍一晚，再用烤箱或氣炸鍋加熱到冒蒸氣、中心 74°C；想要皮脆就不要用微波爐。冷凍的雞塊也可以直接用較低溫、較長時間回烤。絕對不要把熟雞肉放室溫解凍。",
+    "spoilage": [
+      "肉或外皮的油散發酸味、油耗味或異味",
+      "外皮底下的肉摸起來黏滑",
+      "肉色變灰或帶綠，或雞塊上任何地方長黴",
+      "吃起來有油耗的紙板味，代表炸油已經氧化"
+    ],
+    "tips": [
+      "吃剩的先單層攤開快速降溫，2 小時內冷藏。",
+      "用烤箱或氣炸鍋以約 190°C 回烤，最能恢復酥脆。",
+      "冷凍前先在烤盤上分開凍硬，再裝袋。",
+      "熱的炸雞不要疊著密封裝盒，蒸氣會讓外皮變糊。"
+    ],
+    "faq": [
+      {"q": "炸雞可以冷凍嗎？", "a": "可以，放 −18°C 冷凍約 4 個月。外皮會變軟，但用高溫烤箱或氣炸鍋回烤能恢復大部分酥脆。"},
+      {"q": "炸雞放冰箱可以放多久？", "a": "在 4°C 以下冷藏 3～4 天，前提是炸好後 2 小時內就冰起來。"},
+      {"q": "冷的炸雞可以直接吃嗎？", "a": "如果全程冷藏、也在 3～4 天期限內就可以。不確定的話，加熱到中心 74°C 再吃。"}
+    ]
+  },
+  "ja": {
+    "name": "フライドチキン",
+    "aliases": ["から揚げ（骨付き）", "揚げ鶏", "クリスピーチキン", "テイクアウトのフライドチキン"],
+    "summary": "フライドチキンは、味付けした粉やころもをまとわせた鶏肉をカリッと揚げた料理で、手作りでも買ってきたものでも同じです。調理して冷ましたあとは、4℃以下の冷蔵で3〜4日、−18℃の冷凍で約4か月が目安です。",
+    "pantry": "加熱済みの鶏肉を長時間常温に置くことはできません。テイクアウトの箱の中でも同じです。揚げても残った菌や、あとから付着した菌は4〜60℃の危険温度帯で急速に増えます。残りは2時間以内（室温32℃以上なら1時間以内）に冷蔵し、箱ごと一晩置きっぱなしにしないでください。",
+    "fridge": "手早く冷まし、浅い容器に重ならないよう並べて4℃以下で3〜4日保存します。冷蔵でころもがしっとりするのは自然な変化です。ふたを軽くのせるほうが密閉より少しだけカリッと保てますが、肉の乾燥とにおい移りを防ぐ程度には必ず覆ってください。",
+    "freezer": "冷凍もそれなりに向いており、−18℃で品質は約4か月、安全面では長期間保存できます。まず天板に並べて凍らせてから袋に移すと、くっつきません。ころもはやわらかくなりますが、高温のオーブンやエアフライヤーで温め直せばかなりカリッと戻ります。",
+    "thawing": "冷蔵庫で一晩解凍し、オーブンかエアフライヤーで湯気が立つ状態（74℃）まで温め直します。皮をカリッとさせたいなら電子レンジは避けましょう。凍ったまま低めの温度で長めに温める方法も可能です。加熱済みの鶏肉を常温で解凍しないでください。",
+    "spoilage": [
+      "肉やころもの油から酸敗臭・油の酸化臭・異臭がする",
+      "ころもの下の肉がぬめる・べたつく",
+      "肉が灰色や緑がかった色になっている、どこかにカビが出ている",
+      "酸化した揚げ油による、古い段ボールのような味がする"
+    ],
+    "tips": [
+      "残りは重ならないよう広げて手早く冷まし、2時間以内に冷蔵する。",
+      "温め直しはオーブンかエアフライヤーで190℃前後がいちばんカリッとする。",
+      "冷凍は天板で分けて凍らせてから袋に移す。",
+      "熱いまま重ねて密閉すると、蒸気でころもがべたつく。"
+    ],
+    "faq": [
+      {"q": "フライドチキンは冷凍できますか？", "a": "できます。−18℃で約4か月。ころもはやわらかくなりますが、高温のオーブンやエアフライヤーで温め直せばかなり食感が戻ります。"},
+      {"q": "フライドチキンは冷蔵庫で何日もちますか？", "a": "調理後2時間以内に冷蔵していれば、4℃以下で3〜4日が目安です。"},
+      {"q": "冷たいまま食べても大丈夫ですか？", "a": "ずっと冷蔵していて3〜4日以内なら問題ありません。不安なときは74℃まで温め直してください。"}
+    ]
+  },
+  "es": {
+    "name": "Pollo frito",
+    "aliases": ["pollo empanizado", "pollo crujiente", "pollo frito para llevar", "pollo rebozado"],
+    "summary": "El pollo frito son piezas de pollo rebozadas en harina condimentada o en batido y fritas hasta quedar crujientes, sea casero o comprado caliente. Una vez cocinado y frío, se conserva 3–4 días en el refrigerador a 4 °C (40 °F) o menos, y unos 4 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "El pollo cocido no debe quedarse mucho tiempo a temperatura ambiente, ni siquiera en su caja de reparto. Las bacterias que sobreviven a la fritura o llegan después crecen rápido en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F), así que refrigera las sobras en menos de 2 horas —1 hora si la sala supera los 32 °C (90 °F)— en vez de dejar la caja en la encimera toda la noche.",
+    "fridge": "Enfría el pollo rápido, extiéndelo en una sola capa en un recipiente bajo y refrigéralo a 4 °C (40 °F) o menos durante 3–4 días. Que el rebozado se ablande en frío es normal; un recipiente tapado sin apretar lo mantiene algo más crujiente que uno hermético, pero cúbrelo lo suficiente para que la carne no se seque ni tome olores.",
+    "freezer": "El pollo frito se congela razonablemente bien y conserva buena calidad unos 4 meses a −18 °C (0 °F), donde es seguro indefinidamente. Congela las piezas primero sobre una bandeja y luego embólsalas para que no se peguen. El rebozado se ablanda, pero recalentarlo en horno fuerte o freidora de aire recupera buena parte del crujiente.",
+    "thawing": "Descongélalo en el refrigerador durante una noche y recaliéntalo hasta que humee, 74 °C (165 °F), en horno o freidora de aire mejor que en microondas si quieres piel crujiente. Las piezas congeladas también pueden recalentarse directamente a menor temperatura durante más tiempo. Nunca descongeles pollo cocido en la encimera.",
+    "spoilage": [
+      "Olor agrio, rancio o desagradable de la carne o del aceite del rebozado",
+      "Carne viscosa o pegajosa bajo la costra",
+      "Carne gris o verdosa, o moho en cualquier parte de las piezas",
+      "Sabor rancio, a cartón, por el aceite de fritura oxidado"
+    ],
+    "tips": [
+      "Enfría las sobras extendidas en una capa y refrigéralas en menos de 2 horas.",
+      "Recalienta en horno o freidora de aire a unos 190 °C (375 °F) para el mejor crujiente.",
+      "Congela las piezas separadas en una bandeja antes de embolsarlas.",
+      "No apiles piezas calientes en un recipiente hermético: el vapor reblandece el rebozado."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el pollo frito?", "a": "Sí, a −18 °C (0 °F) durante unos 4 meses. El rebozado se ablanda, pero recalentarlo en horno fuerte o freidora de aire devuelve gran parte del crujiente."},
+      {"q": "¿Cuánto dura el pollo frito en el refrigerador?", "a": "3–4 días a 4 °C (40 °F) o menos, siempre que se haya refrigerado dentro de las 2 horas posteriores a cocinarlo."},
+      {"q": "¿Se puede comer frío el pollo frito?", "a": "Sí, si ha estado refrigerado todo el tiempo y está dentro de los 3–4 días. Ante la duda, recaliéntalo a 74 °C (165 °F)."}
+    ]
+  }
+}

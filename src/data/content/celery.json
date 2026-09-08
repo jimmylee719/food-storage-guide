@@ -1,0 +1,107 @@
+{
+  "slug": "celery",
+  "en": {
+    "name": "Celery",
+    "aliases": ["celery stalks", "celery hearts", "bunch celery", "celery sticks"],
+    "summary": "Celery is mostly water held in rigid stalks, so it stays crisp as long as it does not dry out. In the fridge it keeps 1–2 weeks from the date of purchase, and blanched and frozen it lasts 10–12 months. Wrapping the bunch in foil is a well-known way to keep it crisp longer.",
+    "pantry": "Celery goes limp quickly at room temperature as it loses water through the stalks and leaves. In a warm kitchen a bunch will bend rather than snap within a day. Keep it refrigerated and bring it out only long enough to cut what you need, then return the rest to the fridge.",
+    "fridge": "Store the whole bunch at 4 °C (40 °F) or below in the crisper drawer, where it keeps 1–2 weeks from purchase. Wrapping it tightly in aluminium foil rather than plastic lets the ethylene it produces escape while keeping moisture in, which noticeably extends its crispness. Cut sticks can be kept submerged in a container of cold water for several days.",
+    "freezer": "Celery freezes for 10–12 months from purchase at −18 °C (0 °F) if blanched first. Slice the stalks, boil for 3 minutes, plunge into iced water, drain and dry, then freeze on a tray and bag. Frozen celery loses its crunch, so use it in soups, stocks and stews rather than raw.",
+    "thawing": "Add frozen celery straight to soups, stocks and braises. Do not expect it to be crisp after thawing; it is a cooking ingredient at that point.",
+    "spoilage": [
+      "Limp stalks that bend instead of snapping",
+      "Slimy or brown patches, especially at the base",
+      "Hollow, spongy or split stalks",
+      "Sour or musty smell in the bag"
+    ],
+    "tips": [
+      "Wrap the bunch in aluminium foil rather than a plastic bag",
+      "Revive limp celery by standing the stalks in cold water for an hour",
+      "Save the leaves and trimmings in the freezer for stock",
+      "Keep cut sticks submerged in cold water in a sealed container"
+    ],
+    "faq": [
+      {"q": "How long does celery last in the fridge?", "a": "1–2 weeks from purchase at 4 °C (40 °F) or below. Wrapping the bunch in aluminium foil keeps it crisp for longer than a plastic bag."},
+      {"q": "Can you freeze celery?", "a": "Yes, if blanched for 3 minutes first, then chilled, dried and frozen. It keeps 10–12 months at −18 °C (0 °F), but is only good for cooking afterwards."},
+      {"q": "How do you make limp celery crisp again?", "a": "Cut the base off and stand the stalks in a jug of cold water in the fridge for an hour or two. They reabsorb water and firm up noticeably."}
+    ]
+  },
+  "zh": {
+    "name": "西洋芹",
+    "aliases": ["芹菜", "西芹", "美國芹菜", "芹菜梗"],
+    "summary": "西洋芹的主要成分是包在硬挺莖裡的水分，所以只要不失水就能保持脆度。冷藏從購買日起可放 1～2 週，燙過後冷凍則可保存 10～12 個月。用鋁箔紙把整把包起來，是很有名的保脆做法。",
+    "pantry": "西洋芹在室溫下會透過莖和葉快速失水而變軟。在溫暖的廚房裡，一天內整把就會軟到只能彎不能折。請維持冷藏，只在切取需要的份量時拿出來，其餘立刻放回冰箱。",
+    "fridge": "整把放在 4°C 以下的蔬果保鮮室，從購買日起可放 1～2 週。用鋁箔紙緊緊包起來（而不是塑膠袋），可以讓它產生的乙烯散出去、同時把水分留住，脆度明顯維持更久。切好的芹菜條可以整個泡在裝冷水的保鮮盒裡，放好幾天。",
+    "freezer": "西洋芹先汆燙再冷凍，放 −18°C，從購買日起可保存 10～12 個月。切段後滾水煮 3 分鐘，撈起泡冰水，瀝乾擦乾，鋪盤冷凍後裝袋。冷凍後會失去脆度，所以適合做湯、高湯和燉菜，不適合生吃。",
+    "thawing": "冷凍西洋芹可以直接丟進湯、高湯和燉菜裡。不要期待解凍後還會脆，那時它就純粹是烹調用的食材了。",
+    "spoilage": [
+      "莖變軟，折起來只彎不斷",
+      "出現黏滑或褐色的斑塊，尤其在根部",
+      "莖變得中空、海綿狀或裂開",
+      "袋子裡有酸味或霉味"
+    ],
+    "tips": [
+      "用鋁箔紙包整把，效果比塑膠袋好",
+      "軟掉的芹菜把梗立在冷水裡一小時就能回脆",
+      "葉子和切下來的邊角料冷凍起來，可以拿來熬高湯",
+      "切好的芹菜條泡在冷水裡、裝密封盒冷藏"
+    ],
+    "faq": [
+      {"q": "西洋芹放冰箱可以放多久？", "a": "放 4°C 以下，從購買日起 1～2 週。用鋁箔紙包整把，脆度比裝塑膠袋維持得更久。"},
+      {"q": "西洋芹可以冷凍嗎？", "a": "可以，但要先汆燙 3 分鐘，再冰鎮、擦乾後冷凍。放 −18°C 可保存 10～12 個月，不過解凍後只適合烹調用。"},
+      {"q": "軟掉的西洋芹怎麼變脆？", "a": "切掉根部，把莖立在裝冷水的杯子裡冷藏一兩小時，它會重新吸水，明顯變硬挺。"}
+    ]
+  },
+  "ja": {
+    "name": "セロリ",
+    "aliases": ["セルリー", "セロリの茎", "オランダミツバ", "セロリスティック"],
+    "summary": "セロリは硬い茎に水分を抱えた野菜なので、乾燥させなければシャキシャキ感が保てます。冷蔵では購入日から1〜2週間、下ゆでして冷凍すれば10〜12か月保存できます。株ごとアルミホイルで包むのは、食感を長持ちさせる有名な方法です。",
+    "pantry": "セロリは常温では茎や葉から水分が抜けてすぐぐったりします。暖かい台所では1日で折れずに曲がるようになります。冷蔵保存を基本にし、必要な分を切るときだけ出して、残りはすぐ冷蔵庫へ戻しましょう。",
+    "fridge": "株ごと4℃以下の野菜室で保存すれば、購入日から1〜2週間持ちます。ポリ袋ではなくアルミホイルでしっかり包むと、セロリの出すエチレンは逃がしつつ水分は保てるため、シャキッと感が目に見えて長持ちします。切った茎は冷水を張った容器に沈めておけば数日持ちます。",
+    "freezer": "下ゆですれば−18℃で購入日から10〜12か月冷凍できます。茎を切り、3分ゆで、氷水に取り、水気を切って拭き、バットで凍らせてから袋へ。冷凍するとシャキシャキ感は失われるので、スープ、だし、煮込み向きです。",
+    "thawing": "冷凍セロリはそのままスープ、だし、煮込みに加えます。解凍してもシャキッとはしません。その時点で加熱調理用の食材と考えましょう。",
+    "spoilage": [
+      "茎がしなびて、折れずに曲がる",
+      "ぬめりや茶色い部分がある（とくに根元）",
+      "茎が中空になり、スポンジ状、または裂けている",
+      "袋の中が酸っぱい、カビ臭い"
+    ],
+    "tips": [
+      "ポリ袋よりアルミホイルで包みましょう",
+      "しなびたら冷水に1時間立てておくと戻ります",
+      "葉や切れ端は冷凍しておき、だし取りに使いましょう",
+      "切った茎は冷水に沈めて密閉容器で保存を"
+    ],
+    "faq": [
+      {"q": "セロリは冷蔵庫でどのくらい持ちますか？", "a": "4℃以下で購入日から1〜2週間です。アルミホイルで包むとポリ袋よりシャキッと感が長持ちします。"},
+      {"q": "セロリは冷凍できますか？", "a": "できます。3分下ゆでして冷やし、拭いてから冷凍を。−18℃で10〜12か月ですが、解凍後は加熱調理専用になります。"},
+      {"q": "しなびたセロリを戻すには？", "a": "根元を切り落とし、冷水を入れた容器に1〜2時間立てて冷蔵庫へ。水を吸ってしっかり戻ります。"}
+    ]
+  },
+  "es": {
+    "name": "Apio",
+    "aliases": ["apio en rama", "tallos de apio", "corazón de apio", "apio fresco"],
+    "summary": "El apio es sobre todo agua contenida en tallos rígidos, así que se mantiene crujiente mientras no se reseque. En la nevera dura 1–2 semanas desde la compra, y escaldado y congelado 10–12 meses. Envolver la mata en papel de aluminio es un truco conocido para que aguante crujiente más tiempo.",
+    "pantry": "El apio se vuelve flácido rápido a temperatura ambiente porque pierde agua por los tallos y las hojas. En una cocina cálida, en un día se dobla en lugar de quebrarse. Mantenlo refrigerado y sácalo solo el tiempo de cortar lo que necesites, devolviendo el resto a la nevera.",
+    "fridge": "Guarda la mata entera a 4 °C (40 °F) o menos en el cajón de verduras, donde dura 1–2 semanas desde la compra. Envolverla bien en papel de aluminio en vez de plástico deja escapar el etileno que produce mientras retiene la humedad, lo que alarga notablemente su textura. Los bastones cortados aguantan varios días sumergidos en un recipiente con agua fría.",
+    "freezer": "Se congela 10–12 meses desde la compra a −18 °C (0 °F) si lo escaldas antes. Corta los tallos, hiérvelos 3 minutos, pásalos a agua helada, escúrrelos y sécalos, congélalos en bandeja y embólsalos. Congelado pierde el crujido, así que úsalo en sopas, caldos y guisos, no en crudo.",
+    "thawing": "Añade el apio congelado directamente a sopas, caldos y estofados. No esperes que quede crujiente al descongelarse: a partir de ahí es un ingrediente de cocción.",
+    "spoilage": [
+      "Tallos flácidos que se doblan en lugar de quebrarse",
+      "Zonas viscosas o pardas, sobre todo en la base",
+      "Tallos huecos, esponjosos o agrietados",
+      "Olor agrio o a humedad dentro de la bolsa"
+    ],
+    "tips": [
+      "Envuelve la mata en papel de aluminio en lugar de una bolsa de plástico",
+      "Recupera el apio flácido poniendo los tallos en agua fría una hora",
+      "Guarda las hojas y los recortes en el congelador para caldo",
+      "Conserva los bastones cortados sumergidos en agua fría en un recipiente cerrado"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el apio en la nevera?", "a": "1–2 semanas desde la compra a 4 °C (40 °F) o menos. Envolver la mata en aluminio lo mantiene crujiente más tiempo que una bolsa de plástico."},
+      {"q": "¿Se puede congelar el apio?", "a": "Sí, escaldándolo 3 minutos primero y luego enfriándolo, secándolo y congelándolo. Dura 10–12 meses a −18 °C (0 °F), pero después solo sirve para cocinar."},
+      {"q": "¿Cómo devolver el crujido a un apio flácido?", "a": "Corta la base y pon los tallos en una jarra con agua fría en la nevera una o dos horas. Reabsorben agua y recuperan firmeza."}
+    ]
+  }
+}

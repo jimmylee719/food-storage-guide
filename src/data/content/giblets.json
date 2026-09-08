@@ -1,0 +1,107 @@
+{
+  "slug": "giblets",
+  "en": {
+    "name": "Poultry giblets",
+    "aliases": ["chicken giblets", "turkey giblets", "gizzard heart liver", "poultry offal"],
+    "summary": "Giblets are the edible offal packed inside a whole bird — usually the heart, gizzard, neck and liver — and they spoil faster than the bird itself. Raw, they keep only 1–2 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 3–4 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw giblets must never be left at room temperature. Organ meat is rich in enzymes and blood and breaks down quickly, and bacteria multiply fast in the danger zone between 4 °C and 60 °C (40 °F and 140 °F). Discard giblets left out for more than 2 hours — 1 hour above 32 °C (90 °F) — and always take the packet out of a bird before thawing or roasting.",
+    "fridge": "Take the giblets out of the cavity as soon as you get the bird home and store them separately in a sealed container on the bottom shelf at 4 °C (40 °F) or below. Use them within 1–2 days of purchase, sooner than the bird itself. The liver spoils fastest of all and is often best cooked or frozen the same day.",
+    "freezer": "Giblets keep good quality for 3–4 months at −18 °C (0 °F) — shorter than muscle meat because organ fats turn rancid quickly — and stay safe indefinitely. Freeze the liver separately from the heart, gizzard and neck, since they suit different dishes: liver for pâté, the rest for stock and gravy. Label clearly; frozen giblets are hard to tell apart.",
+    "thawing": "Thaw in the fridge overnight on a plate and cook the same day. Cold water in a sealed bag changed every 30 minutes also works. Never thaw giblets on the counter, and cook them thoroughly — poultry offal should reach at least 74 °C (165 °F).",
+    "spoilage": [
+      "Sour, metallic or ammonia-like smell beyond the normal iron scent of fresh liver",
+      "Slimy, sticky or gluey surface",
+      "Grey-green or dull brown colour where the organs were deep red",
+      "Cloudy, thick liquid in the bag, or a passed use-by date"
+    ],
+    "tips": [
+      "Remove the giblet packet from the cavity before freezing or thawing the whole bird.",
+      "Simmer the neck, heart and gizzard into a stock for gravy while the bird roasts.",
+      "Freeze livers separately in small portions for pâté.",
+      "Soak the liver in milk in the fridge for 30 minutes to soften its flavour."
+    ],
+    "faq": [
+      {"q": "Can you freeze giblets?", "a": "Yes. Freeze them at −18 °C (0 °F): safe indefinitely and good quality for 3–4 months, less than muscle meat because organ fats go rancid faster."},
+      {"q": "How long do giblets last in the fridge?", "a": "Only 1–2 days from the day of purchase at 4 °C (40 °F) or below — shorter than the bird they came in."},
+      {"q": "Do you have to remove the giblets before cooking?", "a": "Yes. Take the packet out before roasting or thawing; if it stays in a frozen bird, the centre heats unevenly and any paper wrapper can melt or scorch."}
+    ]
+  },
+  "zh": {
+    "name": "禽類內臟（雞胗、心、肝等）",
+    "aliases": ["雞內臟", "雞胗", "雞心", "雞肝", "火雞內臟"],
+    "summary": "禽類內臟是塞在整隻雞鴨腹腔裡的可食用部位，通常包含心、胗、脖子和肝，比雞本身壞得更快。生的內臟在 4°C 以下冷藏，從購買日起只能放 1～2 天；放 −18°C 冷凍可放 3～4 個月。",
+    "pantry": "生內臟絕對不能放室溫。內臟酵素和血液都多，分解得很快，細菌在 4～60°C 的危險溫度帶也繁殖得很快。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄；解凍或烘烤整隻雞之前，一定要先把內臟包取出來。",
+    "fridge": "把雞買回家後就立刻從腹腔取出內臟，另外裝進密封容器放在冰箱最下層，維持 4°C 以下。從購買日起 1～2 天內用完，要比整隻雞更快。其中肝臟壞得最快，最好當天就煮或冷凍。",
+    "freezer": "內臟放 −18°C 冷凍，品質以 3～4 個月為佳——比一般肌肉肉短，因為內臟脂肪酸敗得快——安全上可以無限期保存。建議把肝和心、胗、脖子分開冷凍，因為用途不同：肝做肝醬，其餘熬高湯做肉汁醬。要清楚標示，冷凍後的內臟很難分辨。",
+    "thawing": "放盤子上冷藏解凍一晚，並在當天煮完。裝密封袋泡冷水、每 30 分鐘換水也可以。絕對不要放室溫解凍，而且一定要徹底煮熟——禽類內臟要達到中心至少 74°C。",
+    "spoilage": [
+      "除了新鮮肝臟正常的鐵味之外，出現酸味、金屬味或阿摩尼亞味",
+      "表面黏滑、發黏或黏糊",
+      "原本深紅的部位變成灰綠或暗褐色",
+      "袋內液體變混濁濃稠，或已超過有效日期"
+    ],
+    "tips": [
+      "冷凍或解凍整隻雞之前，先把腹腔的內臟包拿出來。",
+      "烤雞的同時，把脖子、心、胗熬成高湯做肉汁醬。",
+      "雞肝另外小份分裝冷凍，之後做肝醬。",
+      "雞肝在冰箱用牛奶泡 30 分鐘，可以降低腥味。"
+    ],
+    "faq": [
+      {"q": "禽類內臟可以冷凍嗎？", "a": "可以。放 −18°C 冷凍：安全上無限期，品質以 3～4 個月為佳，比一般肉短，因為內臟脂肪酸敗較快。"},
+      {"q": "雞內臟放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起只有 1～2 天，比整隻雞更短。"},
+      {"q": "煮之前一定要把內臟拿出來嗎？", "a": "要。烘烤或解凍前先取出；如果留在冷凍的雞裡面，中心受熱會不均勻，包裝紙也可能融化或烤焦。"}
+    ]
+  },
+  "ja": {
+    "name": "鶏・七面鳥の内臓（ジブレット）",
+    "aliases": ["ジブレット", "鶏の内臓", "砂肝・ハツ・レバー", "七面鳥の内臓"],
+    "summary": "ジブレットは丸鶏や七面鳥の腹腔に入っている食用の内臓で、通常はハツ、砂肝、首、レバーが含まれます。鳥本体より傷みやすく、生の状態では4℃以下の冷蔵で購入日から1〜2日、−18℃の冷凍で3〜4か月が目安です。",
+    "pantry": "生の内臓を常温に置くことはできません。内臓は酵素と血液が多く分解が早いうえ、4〜60℃の危険温度帯では細菌も急速に増えます。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分し、丸鳥を解凍・ローストする前には必ず内臓の袋を取り出してください。",
+    "fridge": "持ち帰ったらすぐ腹腔から内臓を取り出し、別の密閉容器に入れて冷蔵庫の最下段で4℃以下を保ちます。鳥本体より早く、購入日から1〜2日以内に使い切ってください。とくにレバーはもっとも傷みやすく、その日のうちに調理するか冷凍するのが安心です。",
+    "freezer": "−18℃で品質の目安は3〜4か月（筋肉の肉より短いのは内臓の脂の酸化が早いため）で、安全面では長期間保存できます。レバーはハツ・砂肝・首とは別に冷凍しましょう。レバーはパテ、ほかはだしやグレービーに向くためです。凍らせると見分けがつきにくいので、ラベルははっきり書いてください。",
+    "thawing": "皿にのせて冷蔵庫で一晩解凍し、その日のうちに調理します。密閉袋で冷水解凍（30分ごとに水替え）も可能です。常温解凍は避け、必ず十分に加熱してください。家禽の内臓は中心温度74℃以上が目安です。",
+    "spoilage": [
+      "新鮮なレバー特有の鉄のにおいを超えて、酸敗臭・金属臭・アンモニア臭がする",
+      "表面がぬめる、べたつく、のり状になっている",
+      "本来の濃い赤ではなく灰緑色やくすんだ茶色になっている",
+      "袋の中の液が濁ってとろみが出ている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "丸鳥を冷凍・解凍する前に、腹腔の内臓の袋を必ず取り出す。",
+      "鳥を焼いているあいだに、首・ハツ・砂肝を煮てグレービー用のだしをとる。",
+      "レバーは小分けにして別に冷凍し、パテに使う。",
+      "レバーは冷蔵庫で牛乳に30分ほど浸けるとくせがやわらぐ。"
+    ],
+    "faq": [
+      {"q": "ジブレットは冷凍できますか？", "a": "できます。−18℃で安全面では長期間、品質は3〜4か月が目安。内臓の脂は酸化が早いため、筋肉の肉より短めです。"},
+      {"q": "鶏の内臓は冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から1〜2日だけです。鳥本体より短くなります。"},
+      {"q": "調理前に内臓を取り出す必要はありますか？", "a": "あります。ローストや解凍の前に袋ごと取り出してください。凍った鳥の中に残っていると中心の火通りが不均一になり、紙の包装が溶けたり焦げたりすることもあります。"}
+    ]
+  },
+  "es": {
+    "name": "Menudencias de ave",
+    "aliases": ["menudillos", "vísceras de pollo", "molleja corazón hígado", "menudencias de pavo"],
+    "summary": "Las menudencias son las vísceras comestibles que vienen dentro del ave entera —normalmente corazón, molleja, cuello e hígado— y se estropean antes que el propio animal. Crudas duran solo 1–2 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y 3–4 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "Las menudencias crudas nunca deben dejarse a temperatura ambiente. La carne de órgano es rica en enzimas y sangre y se degrada rápido, y las bacterias se multiplican deprisa en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F). Deséchalas si llevan más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)— y saca siempre el paquete del ave antes de descongelar o asar.",
+    "fridge": "Saca las menudencias de la cavidad en cuanto llegues a casa y guárdalas aparte en un recipiente cerrado en el estante inferior a 4 °C (40 °F) o menos. Úsalas en 1–2 días desde la compra, antes que el ave. El hígado es lo que antes se estropea y conviene cocinarlo o congelarlo el mismo día.",
+    "freezer": "Conservan buena calidad 3–4 meses a −18 °C (0 °F) —menos que la carne muscular porque las grasas de las vísceras se enrancian rápido— y se mantienen seguras indefinidamente. Congela el hígado aparte del corazón, la molleja y el cuello, porque tienen usos distintos: hígado para paté, el resto para caldo y salsa. Etiqueta con claridad: congeladas cuesta distinguirlas.",
+    "thawing": "Descongélalas en el refrigerador durante una noche sobre un plato y cocínalas ese mismo día. El agua fría en bolsa cerrada, cambiada cada 30 minutos, también sirve. Nunca las descongeles en la encimera y cocínalas por completo: las vísceras de ave deben alcanzar al menos 74 °C (165 °F).",
+    "spoilage": [
+      "Olor agrio, metálico o a amoníaco más allá del aroma ferroso normal del hígado fresco",
+      "Superficie viscosa, pegajosa o gelatinosa",
+      "Color gris verdoso o pardo apagado donde los órganos eran rojo intenso",
+      "Líquido turbio y espeso en la bolsa, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Retira el paquete de menudencias de la cavidad antes de congelar o descongelar el ave entera.",
+      "Cuece el cuello, el corazón y la molleja para hacer un caldo de salsa mientras se asa el ave.",
+      "Congela los hígados aparte en porciones pequeñas para paté.",
+      "Remoja el hígado en leche 30 minutos en el refrigerador para suavizar su sabor."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las menudencias?", "a": "Sí. Congélalas a −18 °C (0 °F): seguras indefinidamente y con buena calidad 3–4 meses, menos que la carne muscular porque sus grasas se enrancian antes."},
+      {"q": "¿Cuánto duran las menudencias en el refrigerador?", "a": "Solo 1–2 días desde el día de compra a 4 °C (40 °F) o menos, menos que el ave que las contenía."},
+      {"q": "¿Hay que sacar las menudencias antes de cocinar?", "a": "Sí. Retira el paquete antes de asar o descongelar; si queda dentro de un ave congelada, el centro se calienta de forma desigual y el envoltorio de papel puede derretirse o quemarse."}
+    ]
+  }
+}

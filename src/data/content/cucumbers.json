@@ -1,0 +1,107 @@
+{
+  "slug": "cucumbers",
+  "en": {
+    "name": "Cucumbers",
+    "aliases": ["cucumber", "English cucumber", "Persian cucumber", "Lebanese cucumber", "gherkin"],
+    "summary": "Cucumbers are more than 95 per cent water and are sensitive to cold, which is why they keep only 4–6 days in the fridge from the date of purchase. They suffer chilling injury below about 10 °C, so store them in the warmest part of the fridge or use them quickly.",
+    "pantry": "USDA gives no room-temperature timeline for cucumbers, and while they tolerate a cool spot for a day or two better than most vegetables, they dry out and go soft in a warm kitchen. Whole cucumbers are safe at room temperature for short periods, but cut cucumber is a moist, low-acid food that must go straight back into the fridge.",
+    "fridge": "Cucumbers keep 4–6 days from purchase at 4 °C (40 °F) or below. Store them in the crisper drawer, which is the warmest part of the fridge, since prolonged cold below about 10 °C causes pitting and watery patches. Keep them away from apples, bananas and tomatoes, whose ethylene turns them yellow and soft, and wrap them loosely rather than sealing them in plastic.",
+    "freezer": "USDA gives no freezer timeline for cucumbers, and freezing whole or sliced cucumber is not recommended: the high water content bursts the cell walls and thawed cucumber is limp and watery. If you have a glut, make quick pickles instead, which keep for weeks in the fridge.",
+    "thawing": null,
+    "spoilage": [
+      "Soft, wrinkled or shrivelled ends",
+      "Slimy skin or a slippery film when handled",
+      "Watery, translucent or hollow flesh when cut",
+      "Sour or fermented smell, or visible mould"
+    ],
+    "tips": [
+      "Store in the crisper, the warmest drawer, to avoid chilling injury",
+      "Keep them away from apples, bananas and tomatoes",
+      "Wrap loosely in kitchen paper rather than sealing in plastic",
+      "Turn a glut into quick pickles, which keep for weeks"
+    ],
+    "faq": [
+      {"q": "How long do cucumbers last in the fridge?", "a": "4–6 days from purchase at 4 °C (40 °F) or below, ideally in the crisper drawer, which is the warmest part of the fridge."},
+      {"q": "Can you freeze cucumbers?", "a": "Freezing is not recommended: their high water content makes thawed cucumber limp and watery. Make quick pickles instead if you have too many."},
+      {"q": "Why do cucumbers go slimy in the fridge?", "a": "Sliminess comes from moisture and bacteria on the skin, often made worse by sealing them in plastic. Store them loosely wrapped and away from ethylene-producing fruit."}
+    ]
+  },
+  "zh": {
+    "name": "小黃瓜",
+    "aliases": ["大黃瓜", "花胡瓜", "胡瓜", "青瓜", "刺瓜"],
+    "summary": "黃瓜有超過 95% 是水分，而且怕冷，所以冷藏從購買日起只能放 4～6 天。它在低於約 10°C 的環境會出現寒害，所以請放在冰箱最不冷的位置，或者盡快吃掉。",
+    "pantry": "USDA 沒有提供黃瓜的常溫保存期限。它比多數蔬菜更能忍受在陰涼處放一兩天，但在溫暖的廚房裡還是會變乾變軟。完整的黃瓜短時間放室溫是安全的，但切開的黃瓜屬於高水分、低酸度的食物，必須立刻放回冰箱。",
+    "fridge": "黃瓜放 4°C 以下，從購買日起可放 4～6 天。請收在蔬果保鮮室，那是冰箱裡溫度最高的地方，因為長時間低於約 10°C 會出現凹點和水浸狀斑塊。也要遠離蘋果、香蕉和番茄，它們的乙烯會讓黃瓜變黃變軟。用紙巾鬆鬆包起來就好，不要密封在塑膠袋裡。",
+    "freezer": "USDA 沒有提供黃瓜的冷凍期限，而且整條或切片冷凍都不建議：高含水量會撐破細胞壁，解凍後會變得軟垮出水。如果一次太多，不如做成快速醃漬小黃瓜，冷藏可以放好幾週。",
+    "thawing": null,
+    "spoilage": [
+      "兩端變軟、起皺或乾癟",
+      "外皮摸起來黏滑，有一層滑滑的薄膜",
+      "切開後果肉水水的、呈半透明或中空",
+      "有酸味或發酵味，或看得到黴斑"
+    ],
+    "tips": [
+      "放在蔬果保鮮室這個最不冷的抽屜，避免寒害",
+      "遠離蘋果、香蕉和番茄",
+      "用廚房紙巾鬆鬆包起來，不要密封在塑膠袋裡",
+      "一次太多就做成快速醃漬，可以放好幾週"
+    ],
+    "faq": [
+      {"q": "小黃瓜放冰箱可以放多久？", "a": "放 4°C 以下，從購買日起 4～6 天。最好收在蔬果保鮮室，那是冰箱裡溫度最高的地方。"},
+      {"q": "小黃瓜可以冷凍嗎？", "a": "不建議。含水量太高，解凍後會變得軟垮出水。買太多的話，做成醃漬小黃瓜比較實用。"},
+      {"q": "小黃瓜為什麼在冰箱裡會變黏滑？", "a": "黏滑來自表皮上的水分和細菌，密封在塑膠袋裡會更嚴重。請鬆鬆包好，並遠離會釋放乙烯的水果。"}
+    ]
+  },
+  "ja": {
+    "name": "きゅうり",
+    "aliases": ["キュウリ", "胡瓜", "ミニきゅうり", "イボなしきゅうり"],
+    "summary": "きゅうりは95％以上が水分で低温に弱いため、冷蔵でも購入日から4〜6日しか持ちません。10℃を下回る環境では低温障害を起こすので、冷蔵庫のなかでも比較的温度の高い場所に置くか、早めに食べ切りましょう。",
+    "pantry": "USDAはきゅうりの常温での保存期間を示していません。多くの野菜より涼しい場所で1〜2日程度はもちますが、暖かい台所では乾いてやわらかくなります。丸ごとなら短時間の常温は問題ありませんが、切ったきゅうりは水分が多く酸の少ない食品なので、すぐ冷蔵庫へ戻してください。",
+    "fridge": "4℃以下で購入日から4〜6日持ちます。冷蔵庫のなかで最も温度の高い野菜室に入れましょう。10℃を大きく下回る状態が続くと、へこみや水浸状の斑点が出ます。りんご、バナナ、トマトのエチレンで黄色くやわらかくなるので離して保存し、ポリ袋で密閉せずゆるく包むのがコツです。",
+    "freezer": "USDAはきゅうりの冷凍期間を示しておらず、丸ごともスライスも冷凍は推奨されません。水分が多く細胞壁が壊れ、解凍するとぐったりして水っぽくなります。大量にあるときは浅漬けやピクルスにすれば、冷蔵で数週間楽しめます。",
+    "thawing": null,
+    "spoilage": [
+      "両端がやわらかい、しわしわ、しなびている",
+      "皮がぬめる、さわるとぬるっとした膜がある",
+      "切ると果肉が水っぽい、透けている、空洞になっている",
+      "酸っぱいにおいや発酵臭、目に見えるカビ"
+    ],
+    "tips": [
+      "冷蔵庫で最も温度の高い野菜室に入れ、低温障害を防ぎましょう",
+      "りんご、バナナ、トマトからは離して保存を",
+      "ポリ袋で密閉せず、キッチンペーパーでゆるく包みましょう",
+      "多いときは浅漬けやピクルスに。数週間持ちます"
+    ],
+    "faq": [
+      {"q": "きゅうりは冷蔵庫でどのくらい持ちますか？", "a": "4℃以下で購入日から4〜6日です。冷蔵庫のなかでも温度の高い野菜室が適しています。"},
+      {"q": "きゅうりは冷凍できますか？", "a": "おすすめしません。水分が多く、解凍するとぐったり水っぽくなります。多いときはピクルスや浅漬けにしましょう。"},
+      {"q": "きゅうりが冷蔵庫でぬめるのはなぜですか？", "a": "皮の表面の水分と細菌が原因で、ポリ袋で密閉するとさらに悪化します。ゆるく包み、エチレンを出す果物から離して保存しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Pepinos",
+    "aliases": ["pepino", "pepino holandés", "pepino persa", "pepinillo", "cohombro"],
+    "summary": "Los pepinos son más de un 95 por ciento agua y son sensibles al frío, por eso duran solo 4–6 días en la nevera desde la compra. Sufren daño por frío por debajo de unos 10 °C, así que guárdalos en la parte menos fría de la nevera o consúmelos pronto.",
+    "pantry": "El USDA no da un plazo a temperatura ambiente para los pepinos; toleran un sitio fresco un día o dos mejor que muchas verduras, pero se resecan y ablandan en una cocina cálida. Un pepino entero es seguro a temperatura ambiente durante periodos cortos, pero el pepino cortado es un alimento húmedo y poco ácido que debe volver enseguida a la nevera.",
+    "fridge": "Duran 4–6 días desde la compra a 4 °C (40 °F) o menos. Guárdalos en el cajón de verduras, la zona menos fría de la nevera, porque el frío prolongado por debajo de unos 10 °C provoca hoyuelos y zonas acuosas. Manténlos lejos de manzanas, plátanos y tomates, cuyo etileno los amarillea y ablanda, y envuélvelos sin apretar en vez de sellarlos en plástico.",
+    "freezer": "El USDA no da un plazo de congelación para el pepino, y congelarlo entero o en rodajas no se recomienda: su alto contenido en agua revienta las paredes celulares y al descongelarse queda flácido y aguado. Si te sobran, haz encurtidos rápidos, que duran semanas en la nevera.",
+    "thawing": null,
+    "spoilage": [
+      "Extremos blandos, arrugados o resecos",
+      "Piel viscosa o una película resbaladiza al tocarla",
+      "Pulpa acuosa, translúcida o hueca al cortarlo",
+      "Olor agrio o fermentado, o moho visible"
+    ],
+    "tips": [
+      "Guárdalos en el cajón de verduras, el más templado, para evitar daño por frío",
+      "Manténlos lejos de manzanas, plátanos y tomates",
+      "Envuélvelos sin apretar en papel de cocina en vez de sellarlos en plástico",
+      "Convierte el excedente en encurtidos rápidos, que duran semanas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los pepinos en la nevera?", "a": "4–6 días desde la compra a 4 °C (40 °F) o menos, idealmente en el cajón de verduras, la parte menos fría de la nevera."},
+      {"q": "¿Se pueden congelar los pepinos?", "a": "No se recomienda: su alto contenido en agua los deja flácidos y aguados al descongelarse. Haz encurtidos rápidos si tienes demasiados."},
+      {"q": "¿Por qué los pepinos se vuelven viscosos en la nevera?", "a": "La viscosidad viene de la humedad y las bacterias de la piel, y empeora al sellarlos en plástico. Guárdalos envueltos sin apretar y lejos de frutas que emiten etileno."}
+    ]
+  }
+}

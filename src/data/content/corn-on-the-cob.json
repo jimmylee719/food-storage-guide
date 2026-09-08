@@ -1,0 +1,107 @@
+{
+  "slug": "corn-on-the-cob",
+  "en": {
+    "name": "Corn on the cob",
+    "aliases": ["sweetcorn", "fresh corn", "corn cobs", "maize on the cob"],
+    "summary": "Sweetcorn starts converting its sugar to starch the moment it is picked, which is why freshness matters so much. Even refrigerated it keeps only 1–2 days from the date of purchase, while blanched and frozen it lasts about 8 months. Cook it as soon as you can after buying.",
+    "pantry": "Corn on the cob should not be left at room temperature. Warmth dramatically speeds up the conversion of sugar to starch, so a cob left on the counter for a day tastes noticeably less sweet and more starchy. Refrigerate it immediately on getting home, and cook it the same day if possible.",
+    "fridge": "Store the cobs in their husks, unwashed, in a loose bag in the crisper at 4 °C (40 °F) or below, where they keep 1–2 days from purchase. The husk protects the kernels from drying out, so leave it on until you cook. Cold slows but does not stop the sugar loss, so the first day is always the best.",
+    "freezer": "Corn freezes for about 8 months from purchase at −18 °C (0 °F) if blanched first. Husk the cobs, boil whole cobs for 7–9 minutes or cut kernels for 4 minutes, plunge into iced water, drain and dry, then pack into airtight bags. Blanching stops the enzymes that would otherwise make frozen corn taste starchy.",
+    "thawing": "Cook frozen kernels straight from the freezer in soups, sautés and stews. Frozen whole cobs are best thawed in the fridge first so they heat through evenly.",
+    "spoilage": [
+      "Dry, shrivelled or dented kernels",
+      "Slimy husk or blackened silk at the tip",
+      "Mould between the kernels or on the husk",
+      "Fermented or sour smell when the husk is peeled back"
+    ],
+    "tips": [
+      "Buy corn with a green, snug husk and moist, golden silk",
+      "Leave the husks on until you are ready to cook",
+      "Cook it the day you buy it — the sweetness drops noticeably every day",
+      "Strip and freeze the kernels if you cannot cook the cobs in time"
+    ],
+    "faq": [
+      {"q": "How long does corn on the cob last in the fridge?", "a": "Only 1–2 days from purchase at 4 °C (40 °F) or below, kept in the husk in a loose bag. It is best cooked the day you buy it."},
+      {"q": "Can you freeze corn on the cob?", "a": "Yes, but blanch it first — 7–9 minutes for whole cobs, 4 minutes for cut kernels — then chill, dry and bag. It keeps about 8 months at −18 °C (0 °F)."},
+      {"q": "Why does corn lose its sweetness so fast?", "a": "Enzymes in the kernels convert sugar to starch as soon as the cob is picked, and warmth speeds this up. Refrigerate immediately and cook as soon as you can."}
+    ]
+  },
+  "zh": {
+    "name": "帶穗玉米",
+    "aliases": ["玉米", "甜玉米", "水果玉米", "粟米", "玉蜀黍"],
+    "summary": "甜玉米從採收那一刻起就開始把糖分轉成澱粉，所以新鮮度特別重要。就算冷藏，從購買日起也只能放 1～2 天；汆燙後冷凍則可保存約 8 個月。買回來請盡快煮。",
+    "pantry": "帶穗玉米不該放在室溫。溫度會大幅加速糖轉澱粉的過程，在檯面上放一天，甜度就會明顯下降、澱粉味變重。買回家請立刻冷藏，盡可能當天就煮。",
+    "fridge": "帶著外葉、不清洗，鬆鬆裝袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 1～2 天。外葉能防止玉米粒變乾，所以煮之前不要剝。低溫只能減緩、無法阻止糖分流失，所以買回來的第一天永遠最好吃。",
+    "freezer": "玉米先汆燙再冷凍，放 −18°C，從購買日起約可保存 8 個月。剝掉外葉，整支煮 7～9 分鐘、切下的玉米粒煮 4 分鐘，撈起泡冰水，瀝乾擦乾，再裝進密封袋。汆燙可以讓酵素失去活性，否則冷凍玉米會有澱粉味。",
+    "thawing": "冷凍玉米粒可以直接下鍋，用在湯品、快炒和燉菜裡。整支冷凍的玉米建議先在冷藏室退冰，加熱才會均勻。",
+    "spoilage": [
+      "玉米粒變乾、皺縮或凹陷",
+      "外葉摸起來黏滑，或頂端的鬚變黑",
+      "玉米粒之間或外葉上長黴",
+      "剝開外葉時聞到發酵味或酸味"
+    ],
+    "tips": [
+      "挑外葉青綠緊貼、玉米鬚濕潤呈金黃色的",
+      "煮之前不要剝掉外葉",
+      "買回來當天就煮，甜度每天都會明顯下降",
+      "來不及煮的話，就把玉米粒剝下來冷凍"
+    ],
+    "faq": [
+      {"q": "帶穗玉米放冰箱可以放多久？", "a": "帶著外葉、鬆鬆裝袋放 4°C 以下，從購買日起只有 1～2 天。最好買回來當天就煮。"},
+      {"q": "玉米可以冷凍嗎？", "a": "可以，但要先汆燙——整支 7～9 分鐘、玉米粒 4 分鐘——再冰鎮、擦乾裝袋。放 −18°C 約可保存 8 個月。"},
+      {"q": "玉米為什麼那麼快就不甜了？", "a": "因為玉米粒裡的酵素從採收開始就把糖轉成澱粉，溫度愈高愈快。買回來請立刻冷藏，並盡快煮來吃。"}
+    ]
+  },
+  "ja": {
+    "name": "とうもろこし（生・皮つき）",
+    "aliases": ["とうもろこし", "スイートコーン", "トウモロコシ", "生とうもろこし"],
+    "summary": "スイートコーンは収穫した瞬間から糖がでんぷんに変わり始めるため、鮮度がとても重要です。冷蔵しても購入日から1〜2日しか持たず、下ゆでして冷凍すれば約8か月保存できます。買ったらできるだけ早く加熱しましょう。",
+    "pantry": "とうもろこしを常温に置いてはいけません。温度が高いと糖のでんぷん化が一気に進み、調理台に1日置いただけで甘みが目に見えて落ち、粉っぽくなります。帰宅したらすぐ冷蔵庫へ入れ、可能ならその日のうちに加熱してください。",
+    "fridge": "皮つきのまま洗わず、ゆるく袋に入れて4℃以下の野菜室で保存すれば、購入日から1〜2日持ちます。皮が粒の乾燥を防ぐので、加熱するまでむかないでください。冷蔵は糖の減少を遅らせますが止められないので、買った当日が最もおいしくいただけます。",
+    "freezer": "下ゆですれば−18℃で購入日から約8か月冷凍できます。皮をむき、丸ごとなら7〜9分、粒に外したものなら4分ゆで、氷水に取り、水気を切って拭き、密閉袋へ。下ゆでで酵素の働きを止めないと、冷凍後に粉っぽい味になります。",
+    "thawing": "冷凍した粒はスープ、炒め物、煮込みに凍ったまま使えます。丸ごと冷凍したものは、均一に温まるよう冷蔵庫で解凍してから加熱しましょう。",
+    "spoilage": [
+      "粒が乾いてしぼんでいる、へこんでいる",
+      "皮がぬめる、先端のひげが黒くなっている",
+      "粒の間や皮にカビが出ている",
+      "皮をむいたときに発酵臭や酸っぱいにおいがする"
+    ],
+    "tips": [
+      "皮が緑でぴったり、ひげがしっとりした金色のものを選びましょう",
+      "加熱するまで皮はむかないこと",
+      "買った当日に加熱を。甘みは日に日にはっきり落ちます",
+      "すぐ加熱できないときは粒を外して冷凍しましょう"
+    ],
+    "faq": [
+      {"q": "とうもろこしは冷蔵庫でどのくらい持ちますか？", "a": "皮つきでゆるく袋に入れて4℃以下なら、購入日から1〜2日だけです。買った当日に加熱するのが最良です。"},
+      {"q": "とうもろこしは冷凍できますか？", "a": "できますが下ゆでを。丸ごと7〜9分、粒なら4分ゆで、冷やして拭いて袋へ。−18℃で約8か月です。"},
+      {"q": "とうもろこしの甘みが早く落ちるのはなぜですか？", "a": "粒の中の酵素が収穫直後から糖をでんぷんに変え、温度が高いほど早く進むためです。すぐ冷蔵し、できるだけ早く加熱しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Mazorcas de maíz",
+    "aliases": ["elote", "choclo", "maíz dulce", "mazorca", "maíz en mazorca"],
+    "summary": "El maíz dulce empieza a convertir su azúcar en almidón en cuanto se recolecta, por eso la frescura importa tanto. Incluso refrigerado dura solo 1–2 días desde la compra, mientras que escaldado y congelado aguanta alrededor de 8 meses. Cocínalo cuanto antes tras comprarlo.",
+    "pantry": "Las mazorcas no deben dejarse a temperatura ambiente. El calor acelera muchísimo la conversión de azúcar en almidón, así que una mazorca que pasa un día en la encimera sabe claramente menos dulce y más harinosa. Refrigérala nada más llegar a casa y cocínala el mismo día si puedes.",
+    "fridge": "Guarda las mazorcas con su hoja, sin lavar, en una bolsa suelta en el cajón de verduras a 4 °C (40 °F) o menos, donde duran 1–2 días desde la compra. La hoja protege los granos de la desecación, así que déjala hasta cocinarlas. El frío frena pero no detiene la pérdida de azúcar: el primer día siempre es el mejor.",
+    "freezer": "El maíz se congela alrededor de 8 meses desde la compra a −18 °C (0 °F) si lo escaldas antes. Deshoja las mazorcas, hiérvelas enteras 7–9 minutos o los granos sueltos 4 minutos, pásalos a agua helada, escúrrelos y sécalos, y guárdalos en bolsas herméticas. El escaldado detiene las enzimas que harían saber harinoso al maíz congelado.",
+    "thawing": "Cocina los granos congelados directamente en sopas, salteados y guisos. Las mazorcas enteras congeladas se descongelan mejor en la nevera para que se calienten de forma uniforme.",
+    "spoilage": [
+      "Granos secos, arrugados o hundidos",
+      "Hoja viscosa o barbas ennegrecidas en la punta",
+      "Moho entre los granos o en la hoja",
+      "Olor fermentado o agrio al abrir la hoja"
+    ],
+    "tips": [
+      "Compra mazorcas con hoja verde y ceñida y barbas húmedas y doradas",
+      "Deja la hoja puesta hasta el momento de cocinar",
+      "Cocínalo el día de la compra: el dulzor cae notablemente cada día",
+      "Desgrana y congela si no puedes cocinar las mazorcas a tiempo"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las mazorcas en la nevera?", "a": "Solo 1–2 días desde la compra a 4 °C (40 °F) o menos, con la hoja puesta y en bolsa suelta. Lo ideal es cocinarlas el mismo día."},
+      {"q": "¿Se pueden congelar las mazorcas de maíz?", "a": "Sí, pero escáldalas antes —7–9 minutos enteras, 4 minutos los granos—, enfríalas, sécalas y embólsalas. Duran alrededor de 8 meses a −18 °C (0 °F)."},
+      {"q": "¿Por qué el maíz pierde el dulzor tan rápido?", "a": "Las enzimas de los granos convierten el azúcar en almidón desde la recolección, y el calor lo acelera. Refrigéralo enseguida y cocínalo cuanto antes."}
+    ]
+  }
+}

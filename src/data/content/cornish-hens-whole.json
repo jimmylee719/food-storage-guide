@@ -1,0 +1,107 @@
+{
+  "slug": "cornish-hens-whole",
+  "en": {
+    "name": "Whole Cornish hens",
+    "aliases": ["Cornish game hen", "poussin", "spring chicken", "baby chicken"],
+    "summary": "Cornish hens are very young, small chickens, usually 500–700 g and served one per person or split between two. Raw, they keep only 1–2 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and about 12 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw Cornish hens must never be left at room temperature. Being small, they warm right through in a short time, putting the whole bird into the danger zone between 4 °C and 60 °C (40 °F and 140 °F) rather than just the surface. Discard birds left out for more than 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Keep the hens in their packaging on a tray on the bottom shelf at 4 °C (40 °F) or below, below all ready-to-eat food, and cook them within 1–2 days of purchase. Many are sold frozen: if you buy them frozen, keep them frozen and thaw in the fridge, then use them within a day or two of thawing.",
+    "freezer": "Cornish hens freeze very well and keep good quality for about 12 months at −18 °C (0 °F), where they remain safe indefinitely. Wrap each bird individually so they do not freeze together, then bag them with the air pressed out. Being small, they thaw far faster than a full-size chicken, which makes them handy for small households.",
+    "thawing": "Thaw in the fridge on a plate — a single hen usually needs about 12 hours, so overnight is enough. Cold water thawing in a sealed bag with the water changed every 30 minutes takes about an hour. Never thaw poultry on the counter. Cook to 74 °C (165 °F) in the thickest part of the thigh.",
+    "spoilage": [
+      "Sour, sulphurous or ammonia-like smell when the packaging is opened",
+      "Slimy or sticky skin",
+      "Grey or greenish tinge to the meat or around the cavity",
+      "Cloudy, thick liquid in the tray, or heavy ice crystals and dry white patches in a frozen bird"
+    ],
+    "tips": [
+      "Spatchcock or halve the birds for faster, more even roasting.",
+      "Wrap each hen separately before freezing so you can thaw exactly what you need.",
+      "Dry the skin and salt it ahead so it crisps in the oven.",
+      "Serve one hen per person, or half each alongside generous sides."
+    ],
+    "faq": [
+      {"q": "Can you freeze Cornish hens?", "a": "Yes. Wrap each bird individually and freeze at −18 °C (0 °F): safe indefinitely and good quality for about 12 months."},
+      {"q": "How long do Cornish hens last in the fridge?", "a": "Only 1–2 days from the day of purchase at 4 °C (40 °F) or below, and the same after thawing a frozen bird."},
+      {"q": "What is a Cornish hen exactly?", "a": "It is a very young, small chicken, typically 500–700 g, sold whole. It is not a separate species but simply a bird harvested young."}
+    ]
+  },
+  "zh": {
+    "name": "整隻春雞（Cornish hen）",
+    "aliases": ["春雞", "童子雞", "小型全雞", "poussin"],
+    "summary": "春雞是很年輕的小型雞，一般 500～700 公克，通常一人一隻或兩人分一隻。生肉在 4°C 以下冷藏，從購買日起只能放 1～2 天；放 −18°C 冷凍約可放 12 個月。",
+    "pantry": "生春雞絕對不能放室溫。因為體型小，短時間內整隻就會回溫，等於整隻而不只是表面都進入 4～60°C 的危險溫度帶。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "連包裝放在盤子上、置於冰箱最下層，維持 4°C 以下，並放在所有即食食品下方，購買後 1～2 天內烹調。很多春雞是冷凍販售的：如果買的是冷凍品，就保持冷凍，要用時再移到冷藏解凍，解凍後一兩天內煮完。",
+    "freezer": "春雞很適合冷凍，放 −18°C 品質約可維持 12 個月，安全上可以無限期保存。每隻單獨包好才不會凍在一起，之後裝袋擠出空氣。因為體型小，解凍比全尺寸的雞快很多，對小家庭很方便。",
+    "thawing": "放盤子上冷藏解凍——一隻大約 12 小時，放一晚就夠。裝密封袋泡冷水、每 30 分鐘換水約一小時。絕對不要在室溫解凍禽肉。烤到大腿最厚處 74°C。",
+    "spoilage": [
+      "打開包裝聞到酸味、硫磺味或阿摩尼亞味",
+      "雞皮黏滑、發黏",
+      "肉或腹腔周圍泛灰或帶綠",
+      "盒底液體變混濁濃稠；冷凍品出現大量冰晶和乾燥的白色斑塊"
+    ],
+    "tips": [
+      "剖開壓平或對半切，受熱更均勻也更快。",
+      "冷凍前每隻分開包，之後要幾隻解凍幾隻。",
+      "提早把雞皮擦乾並抹鹽，烤起來才會脆。",
+      "一人一隻，或配菜豐盛時兩人分一隻。"
+    ],
+    "faq": [
+      {"q": "春雞可以冷凍嗎？", "a": "可以。每隻單獨包好後放 −18°C 冷凍：安全上無限期，品質約 12 個月。"},
+      {"q": "春雞放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起只有 1～2 天；冷凍品解凍後也是一樣。"},
+      {"q": "春雞到底是什麼雞？", "a": "就是很年輕的小型雞，通常 500～700 公克整隻販售。它不是特殊品種，只是提早出欄的雞。"}
+    ]
+  },
+  "ja": {
+    "name": "コーニッシュヘン（若鶏・丸ごと）",
+    "aliases": ["プーサン", "若どり（小型）", "ひな鶏", "小型の丸鶏"],
+    "summary": "コーニッシュヘンはごく若い小型の鶏で、通常500〜700g、1人1羽か2人で1羽が目安です。生の状態では4℃以下の冷蔵で購入日から1〜2日、−18℃の冷凍で約12か月が目安です。",
+    "pantry": "生のコーニッシュヘンを常温に置くことはできません。小さいため短時間で中心まで温まり、表面だけでなく全体が4〜60℃の危険温度帯に入ります。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。",
+    "fridge": "包装のままトレーにのせ、冷蔵庫の最下段で4℃以下を保ち、そのまま食べる食品より下に置いて購入から1〜2日以内に調理します。冷凍で売られていることも多く、その場合は凍ったまま保管し、使うときに冷蔵庫で解凍して1〜2日以内に調理してください。",
+    "freezer": "冷凍向きで、−18℃なら品質は約12か月、安全面では長期間保存できます。1羽ずつ包むとくっつかず、そのあと袋に入れて空気を抜きます。小さいぶん通常サイズの鶏よりずっと早く解凍でき、少人数の家庭に便利です。",
+    "thawing": "皿にのせて冷蔵庫で解凍します。1羽なら約12時間、一晩で十分です。密閉袋で冷水につけ30分ごとに水を替えれば1時間ほど。常温解凍は厳禁です。ももの厚い部分が74℃になるまで加熱します。",
+    "spoilage": [
+      "包装を開けたときに酸っぱいにおい、硫黄臭、アンモニア臭がする",
+      "皮がぬめる・べたつく",
+      "肉や腹腔まわりが灰色や緑がかった色になっている",
+      "トレーの液が濁ってとろみが出ている、冷凍品に大きな氷の結晶や乾いた白い斑がある"
+    ],
+    "tips": [
+      "背開きや半割りにすると、早く均一に焼ける。",
+      "冷凍前に1羽ずつ包み、必要な羽数だけ解凍する。",
+      "皮の水分を拭いて先に塩をしておくと、オーブンでパリッと仕上がる。",
+      "1人1羽、付け合わせが多い献立なら2人で1羽が目安。"
+    ],
+    "faq": [
+      {"q": "コーニッシュヘンは冷凍できますか？", "a": "できます。1羽ずつ包んで−18℃で冷凍すれば、安全面では長期間、品質は約12か月が目安です。"},
+      {"q": "コーニッシュヘンは冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から1〜2日です。冷凍品を解凍した場合も同じ目安になります。"},
+      {"q": "コーニッシュヘンとはどんな鶏ですか？", "a": "ごく若い小型の鶏で、通常500〜700gで丸ごと売られます。特別な品種ではなく、若いうちに出荷された鶏です。"}
+    ]
+  },
+  "es": {
+    "name": "Gallinita de Cornualles entera",
+    "aliases": ["picantón", "pollito entero", "poussin", "pollo pequeño de asar"],
+    "summary": "Las gallinitas de Cornualles son pollos muy jóvenes y pequeños, normalmente de 500–700 g, que se sirven uno por persona o compartidos entre dos. Crudas duran solo 1–2 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y unos 12 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "Nunca deben dejarse a temperatura ambiente. Al ser pequeñas se templan por completo en poco tiempo, de modo que toda el ave —y no solo la superficie— entra en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F). Deséchalas si llevan más de 2 horas fuera, o 1 hora por encima de 32 °C (90 °F).",
+    "fridge": "Guárdalas en su envase sobre una bandeja en el estante inferior a 4 °C (40 °F) o menos, por debajo de los alimentos listos para comer, y cocínalas en 1–2 días desde la compra. Muchas se venden congeladas: en ese caso mantenlas congeladas, descongélalas en el refrigerador y úsalas en uno o dos días.",
+    "freezer": "Se congelan muy bien y conservan buena calidad unos 12 meses a −18 °C (0 °F), donde son seguras indefinidamente. Envuelve cada ave por separado para que no se peguen y embólsalas sacando el aire. Al ser pequeñas se descongelan mucho antes que un pollo entero, lo que resulta cómodo en casas de pocas personas.",
+    "thawing": "Descongélalas en el refrigerador sobre un plato: una sola ave suele necesitar unas 12 horas, así que basta una noche. En bolsa cerrada bajo agua fría cambiada cada 30 minutos tardan alrededor de una hora. Nunca descongeles ave en la encimera. Cocina hasta 74 °C (165 °F) en la parte más gruesa del muslo.",
+    "spoilage": [
+      "Olor agrio, sulfuroso o a amoníaco al abrir el envase",
+      "Piel viscosa o pegajosa",
+      "Tono gris o verdoso en la carne o alrededor de la cavidad",
+      "Líquido turbio y espeso en la bandeja, o cristales de hielo y zonas blancas secas en un ave congelada"
+    ],
+    "tips": [
+      "Ábrelas en mariposa o pártelas por la mitad para un asado más rápido y uniforme.",
+      "Envuelve cada ave por separado antes de congelar para descongelar solo lo necesario.",
+      "Seca la piel y sálala con antelación para que quede crujiente en el horno.",
+      "Sirve una por persona, o media si las guarniciones son abundantes."
+    ],
+    "faq": [
+      {"q": "¿Se pueden congelar las gallinitas de Cornualles?", "a": "Sí. Envuelve cada una y congélalas a −18 °C (0 °F): seguras indefinidamente y con buena calidad unos 12 meses."},
+      {"q": "¿Cuánto duran en el refrigerador?", "a": "Solo 1–2 días desde el día de compra a 4 °C (40 °F) o menos, y lo mismo tras descongelar un ave congelada."},
+      {"q": "¿Qué es exactamente una gallinita de Cornualles?", "a": "Un pollo muy joven y pequeño, de unos 500–700 g, que se vende entero. No es una especie distinta, sino un ave sacrificada joven."}
+    ]
+  }
+}
