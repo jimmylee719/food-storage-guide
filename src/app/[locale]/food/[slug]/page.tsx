@@ -6,7 +6,7 @@ import StoragePanels from '@/components/StoragePanels';
 import Faq from '@/components/Faq';
 import AdSlot from '@/components/AdSlot';
 import { HTML_LANG, LOCALES, type Locale, isLocale, t } from '@/lib/i18n';
-import { foodsWithPages, getFood, guides, headline, relatedFoods } from '@/lib/data';
+import { foodsWithPages, getFood, headline, relatedFoods, relatedGuides } from '@/lib/data';
 import { buildMetadata, jsonLdScript } from '@/lib/seo';
 import { absoluteUrl } from '@/lib/site';
 
@@ -54,7 +54,7 @@ export default async function FoodPage({ params }: { params: Promise<{ locale: s
   if (c.thawing) sections.push({ id: 'thawing', heading: d.thawing, body: c.thawing });
 
   const related = relatedFoods(food);
-  const relatedGuideList = guides.slice(0, 4);
+  const relatedGuideList = relatedGuides(food);
 
   const faqLd = c.faq?.length
     ? {

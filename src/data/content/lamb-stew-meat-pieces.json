@@ -1,0 +1,107 @@
+{
+  "slug": "lamb-stew-meat-pieces",
+  "en": {
+    "name": "Lamb stew meat",
+    "aliases": ["diced stewing lamb", "lamb casserole meat", "lamb pieces", "curry lamb"],
+    "summary": "Lamb stew meat is trimmed pieces from the neck, shoulder or shin, rich in connective tissue and meant for long, gentle cooking in liquid. Raw, it keeps 3–5 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 4–12 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw lamb pieces must never be kept at room temperature. Small pieces have a lot of exposed surface, so bacteria on them grow quickly in the danger zone between 4 °C and 60 °C (40 °F and 140 °F); discard meat left out more than 2 hours, or 1 hour above 32 °C (90 °F). Cooked stew must also be cooled and refrigerated within 2 hours.",
+    "fridge": "Keep the pieces in their tray or a sealed container on the bottom shelf at 4 °C (40 °F) or below, standing on a plate so nothing drips. They are good for 3–5 days from purchase. If the meat is sitting in liquid, drain it and pat it dry before browning: a wet surface steams and the stew loses the depth that browning gives it.",
+    "freezer": "Stew pieces freeze and thaw quickly, which makes them very practical to keep. Weigh them into meal-sized portions, press flat in freezer bags with the air removed and freeze at −18 °C (0 °F): safe indefinitely, best quality for 4–12 months. Freezing a finished stew works just as well and saves a step on a busy evening.",
+    "thawing": "Thaw a flat bag in the fridge overnight, or under cold water changed every 30 minutes for a faster thaw, cooking immediately after. Frozen pieces can also go straight into a long braise with extra cooking time. Never thaw meat on the counter.",
+    "spoilage": [
+      "Sour or ammonia-like smell on opening the pack",
+      "Slimy or sticky pieces that cling together",
+      "Grey-green or dull brown colour throughout",
+      "Cloudy, thick liquid in the tray, or a passed use-by date"
+    ],
+    "tips": [
+      "Brown the pieces in batches in a hot pan; crowding the pan makes them steam.",
+      "Simmer gently for 1½–3 hours — stewing lamb is tough until the collagen melts.",
+      "Chill a finished stew overnight so the fat sets and can be lifted off.",
+      "Freeze in flat, meal-sized portions and label with the weight and date."
+    ],
+    "faq": [
+      {"q": "Can you freeze lamb stew meat?", "a": "Yes. Portion it flat in freezer bags and freeze at −18 °C (0 °F): safe indefinitely and best quality for 4–12 months."},
+      {"q": "How long does stewing lamb last in the fridge?", "a": "3–5 days from the day of purchase at 4 °C (40 °F) or below."},
+      {"q": "Why is my lamb stew still tough?", "a": "It probably needs longer. Connective tissue only melts with slow, moist heat, so keep it at a bare simmer and give it another 30–60 minutes."}
+    ]
+  },
+  "zh": {
+    "name": "燉煮用羊肉塊",
+    "aliases": ["羊肉丁", "燉羊肉", "咖哩羊肉", "羊頸肉塊", "紅燒羊肉用肉"],
+    "summary": "燉煮用羊肉塊多取自羊頸、羊肩或羊腱，結締組織豐富，適合長時間小火燉煮。生肉在 4°C 以下冷藏，從購買日起可放 3～5 天；放 −18°C 冷凍可放 4～12 個月。",
+    "pantry": "生羊肉塊絕對不能放室溫。小塊肉表面積大，在 4～60°C 的危險溫度帶細菌會快速繁殖；室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。煮好的燉肉也要在 2 小時內降溫冷藏。",
+    "fridge": "連原盒或裝進密封容器，放在盤子上、置於冰箱最下層，維持 4°C 以下。從購買日起可放 3～5 天。如果肉泡在血水裡，下鍋前請瀝乾並拍乾：濕的肉只會出水變蒸，燉出來就少了焦香帶來的層次。",
+    "freezer": "燉肉塊結凍和解凍都快，非常適合常備。秤成每餐份量，放進冷凍袋壓平、擠出空氣，放 −18°C 冷凍：安全上可以無限期保存，品質以 4～12 個月為佳。把煮好的燉羊肉整鍋冷凍也一樣好用，忙碌時可以省一道工。",
+    "thawing": "壓平的冷凍袋放冷藏室解凍一晚，想快一點就泡冷水、每 30 分鐘換水，解凍後立刻烹調。也可以把冷凍肉塊直接下鍋長時間燉，多留一些時間即可。絕對不要放室溫退冰。",
+    "spoilage": [
+      "打開包裝聞到酸味或阿摩尼亞味",
+      "肉塊黏滑、彼此黏在一起",
+      "整批肉都變成灰綠或暗褐色",
+      "盒底血水變得混濁濃稠，或已超過有效日期"
+    ],
+    "tips": [
+      "分批下鍋煎上色，一次放太多鍋溫會掉，肉只會出水。",
+      "小火燉 1.5～3 小時，膠質沒融化前羊肉一定是硬的。",
+      "燉好冰一晚，油脂會凝在表面很好撈除。",
+      "分裝成每餐份量壓平冷凍，並標註重量和日期。"
+    ],
+    "faq": [
+      {"q": "燉羊肉塊可以冷凍嗎？", "a": "可以。分裝壓平放進冷凍袋，放 −18°C 冷凍：安全上無限期，品質以 4～12 個月為佳。"},
+      {"q": "燉煮用羊肉放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起 3～5 天。"},
+      {"q": "燉羊肉還是很硬怎麼辦？", "a": "通常是時間不夠。結締組織要靠長時間濕熱才會軟化，保持微滾再多燉 30～60 分鐘看看。"}
+    ]
+  },
+  "ja": {
+    "name": "煮込み用ラム角切り肉",
+    "aliases": ["シチュー用ラム", "カレー用羊肉", "ラム角切り", "ラムネック肉", "煮込み用マトン"],
+    "summary": "煮込み用のラム肉は、ネックや肩、すねから切り出した肉片で、結合組織が多く、時間をかけて煮込む料理に向きます。生の状態なら4℃以下の冷蔵で購入日から3〜5日、−18℃の冷凍なら4〜12か月が目安です。",
+    "pantry": "生のラム肉片を常温に置くことはできません。小さく切ったぶん表面積が大きく、4〜60℃の危険温度帯では細菌が急速に増えます。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。煮上がった料理も2時間以内に冷まして冷蔵します。",
+    "fridge": "トレーのまま、または密閉容器に入れ、皿にのせて冷蔵庫の最下段で4℃以下を保ちます。購入日から3〜5日が目安。ドリップに浸かっている場合は、焼く前に汁気を切って表面を拭きましょう。濡れたままだと蒸し状態になり、煮込みの香ばしいこくが出ません。",
+    "freezer": "煮込み用の角切りは凍るのも解けるのも早く、常備に便利です。1回分ずつ計量して保存袋で薄く平らにし、空気を抜いて−18℃で冷凍します。安全面では長期間、品質は4〜12か月が目安。作った煮込みごと冷凍しても同じように使え、忙しい日の手間が省けます。",
+    "thawing": "平らにした袋のまま冷蔵庫で一晩、急ぐときは冷水で30分ごとに水を替えて解凍し、すぐ調理します。長時間の煮込みなら凍ったまま鍋に入れ、加熱時間を延ばす方法も可能です。常温解凍は避けてください。",
+    "spoilage": [
+      "パックを開けたときに酸っぱいにおいやアンモニア臭がする",
+      "肉がぬめって互いにくっついている",
+      "全体が灰緑色やくすんだ茶色に変わっている",
+      "トレーのドリップが濁ってとろりとしている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "数回に分けて焼き付ける。詰め込みすぎると温度が下がって蒸れる。",
+      "弱火で1時間半〜3時間。コラーゲンが溶けるまで肉は硬い。",
+      "一晩冷やすと脂が固まり、きれいに取り除ける。",
+      "1回分ずつ平らに冷凍し、重量と日付をラベルに書く。"
+    ],
+    "faq": [
+      {"q": "煮込み用のラム肉は冷凍できますか？", "a": "できます。1回分ずつ平らに袋詰めして−18℃で冷凍。安全面では長期間、品質は4〜12か月が目安です。"},
+      {"q": "煮込み用ラムは冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から3〜5日です。"},
+      {"q": "煮込んでもラムが硬いのはなぜ？", "a": "多くの場合、加熱時間が足りません。結合組織は湿熱でゆっくりほぐれるので、ごく弱い沸騰でさらに30〜60分続けてみてください。"}
+    ]
+  },
+  "es": {
+    "name": "Cordero en trozos para guisar",
+    "aliases": ["cordero para estofado", "cordero en dados para guiso", "carne de cordero para curry", "cuello de cordero troceado"],
+    "summary": "El cordero para guisar son trozos limpios de cuello, paletilla o jarrete, ricos en tejido conjuntivo y pensados para una cocción larga y suave en líquido. Crudo dura 3–5 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y 4–12 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "Los trozos de cordero crudo nunca deben guardarse a temperatura ambiente. Los trozos pequeños tienen mucha superficie expuesta y las bacterias crecen rápido en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F); desecha la carne que lleve más de 2 horas fuera, o 1 hora por encima de 32 °C (90 °F). El guiso ya cocinado también debe enfriarse y refrigerarse en menos de 2 horas.",
+    "fridge": "Guarda los trozos en su bandeja o en un recipiente cerrado, sobre un plato, en el estante inferior a 4 °C (40 °F) o menos. Duran 3–5 días desde la compra. Si la carne está en líquido, escúrrela y sécala antes de dorarla: una superficie húmeda cuece al vapor y el guiso pierde la profundidad que aporta el dorado.",
+    "freezer": "Los trozos se congelan y descongelan rápido, lo que los hace muy prácticos. Pésalos en raciones, aplánalos en bolsas de congelación sin aire y congela a −18 °C (0 °F): seguros indefinidamente y con la mejor calidad 4–12 meses. Congelar el guiso ya hecho funciona igual de bien y ahorra un paso.",
+    "thawing": "Descongela la bolsa plana en el refrigerador durante una noche, o bajo agua fría cambiada cada 30 minutos para ir más rápido, cocinando enseguida. Los trozos congelados también pueden ir directos a un braseado largo con tiempo extra. Nunca descongeles carne en la encimera.",
+    "spoilage": [
+      "Olor agrio o a amoníaco al abrir el paquete",
+      "Trozos viscosos o pegajosos que se adhieren entre sí",
+      "Color gris verdoso o pardo apagado en toda la carne",
+      "Líquido turbio y espeso en la bandeja, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Dora por tandas en sartén caliente; si amontonas, la carne se cuece al vapor.",
+      "Cuece a fuego muy suave 1½–3 horas: el cordero de guiso está duro hasta que se funde el colágeno.",
+      "Enfría el guiso una noche para que la grasa cuaje y puedas retirarla.",
+      "Congela en porciones planas del tamaño de una comida y etiqueta con peso y fecha."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el cordero para guisar?", "a": "Sí. Divídelo en bolsas planas y congélalo a −18 °C (0 °F): seguro indefinidamente y con la mejor calidad 4–12 meses."},
+      {"q": "¿Cuánto dura el cordero de guiso en el refrigerador?", "a": "3–5 días desde el día de compra a 4 °C (40 °F) o menos."},
+      {"q": "¿Por qué sigue duro mi guiso de cordero?", "a": "Seguramente le falta tiempo. El tejido conjuntivo solo se funde con calor húmedo y lento: mantén un hervor mínimo y dale otros 30–60 minutos."}
+    ]
+  }
+}

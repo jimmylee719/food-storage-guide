@@ -88,6 +88,35 @@ export function headline(food: Food, key: MethodKey, locale: Locale): string {
   return span?.tips ? d.seeNotes : '—';
 }
 
+/** Guides worth showing next to a given food, most relevant first. */
+export function relatedGuides(food: Food, limit = 4): Guide[] {
+  const perishable = ['meat', 'poultry', 'seafood', 'dairy-eggs', 'deli-prepared'].includes(food.category);
+  const freezable = Boolean(food.storage.freezer);
+  const pantryOnly = Boolean(food.storage.pantry) && !food.storage.fridge;
+
+  const scored = guides.map((g) => {
+    let score = 0;
+    if (g.category === 'freezer' && freezable) score += 3;
+    if (g.category === 'fridge' && food.storage.fridge) score += 3;
+    if (g.category === 'pantry' && pantryOnly) score += 3;
+    if (g.category === 'safety' && perishable) score += 2;
+    if (g.category === 'basics') score += 1;
+    if (food.category === 'deli-prepared' && g.slug.includes('leftovers')) score += 3;
+    if (food.category === 'dairy-eggs' && g.slug.includes('egg')) score += 3;
+    if (['fruits', 'vegetables'].includes(food.category) && g.slug.includes('ethylene')) score += 3;
+    if (['fruits', 'vegetables'].includes(food.category) && g.slug.includes('blanching')) score += 2;
+    if (food.category === 'grains-beans-pasta' && g.slug.includes('rice')) score += 3;
+    if (food.category === 'shelf-stable' && g.slug.includes('canned')) score += 3;
+    return { g, score };
+  });
+
+  return scored
+    .filter((x) => x.score > 0)
+    .sort((a, b) => b.score - a.score || a.g.slug.localeCompare(b.g.slug))
+    .slice(0, limit)
+    .map((x) => x.g);
+}
+
 export function relatedFoods(food: Food, limit = 8): Food[] {
   const sameCat = foods.filter((f) => f.category === food.category && f.slug !== food.slug && f.hasPage);
   const stem = food.baseName.split(/[ ,(]/)[0].toLowerCase();
