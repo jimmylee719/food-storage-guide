@@ -1,0 +1,654 @@
+[
+  {
+    "slug": "firm-tofu",
+    "category": "vegetarian-proteins",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Firm tofu",
+    "subtitle": "cotton / block tofu, water-packed",
+    "keywords": ["firm tofu", "cotton tofu", "block tofu", "板豆腐", "傳統豆腐", "老豆腐", "木綿豆腐", "もめん豆腐", "木綿どうふ", "tofu firme", "tofu duro", "queso de soja firme"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 2, "max": 3, "unit": "days", "tips": "Japan's tofu-industry HACCP guide, published by MHLW, sets 木綿豆腐 (cotton/firm tofu) at refrigerated 10 °C or below with a use-by of roughly 3 days. Taiwan's 農業部 says loose traditional tofu is best eaten the day it is bought and within two days at the outside. Keep it submerged in clean cold water in a covered box and change the water daily." }
+      },
+      "freezer": {
+        "base": { "min": 5, "max": 5, "unit": "months", "tips": "Freezing turns the block spongy and chewy — this is deliberate in dishes like 凍豆腐. Drain and press before freezing." }
+      }
+    },
+    "sources": [
+      { "name": "厚生労働省 / 日本豆腐協会 – HACCPの考え方を取り入れた衛生管理のための手引書（小規模な豆腐類製造事業者向け）豆腐・豆乳・オカラ編", "url": "https://www.mhlw.go.jp/content/11130500/000604265.pdf" },
+      { "name": "農業部農業知識入口網 – 為什麼豆腐要泡在水裡?", "url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=1935" },
+      { "name": "香港食物安全中心 – 豆腐：大豆製成的傳統素食", "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_239_02.html" }
+    ],
+    "analog": null,
+    "notes": "Fridge figure is directly sourced (MHLW/日本豆腐協会 ~3 days at ≤10 °C; 農業部 ~2 days for loose tofu). The 5-month freezer figure is borrowed from the USDA FoodKeeper entry 'tofu' — no Asian authority publishes a home freezer time. 農業部 also warns not to leave tofu out of the fridge for more than 4 hours, and 香港食物安全中心 notes fresh tofu is highly perishable and must be held at 4 °C or below."
+  },
+  {
+    "slug": "silken-tofu",
+    "category": "vegetarian-proteins",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Silken tofu",
+    "subtitle": "soft or sealed-pack",
+    "keywords": ["silken tofu", "soft tofu", "嫩豆腐", "絹豆腐", "盒裝豆腐", "充填豆腐", "絹ごし豆腐", "きぬごし豆腐", "充填豆腐", "tofu sedoso", "tofu suave", "tofu blando"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 3, "max": 7, "unit": "days", "tips": "MHLW's tofu HACCP guide gives 絹ごし豆腐 (silken, cut and packed) a use-by of roughly 3 days and 充填豆腐 (poured into the tub, sealed, then heated) roughly 7 days, both refrigerated at 10 °C or below. Sealed-pack tofu keeps to the printed date only while unopened." },
+        "afterOpening": { "min": 1, "max": 2, "unit": "days", "tips": "Once the seal is broken the pasteurised interior is exposed. Cover with fresh cold water in a lidded box and use within a day or two." }
+      }
+    },
+    "sources": [
+      { "name": "厚生労働省 / 日本豆腐協会 – HACCPの考え方を取り入れた衛生管理のための手引書（小規模な豆腐類製造事業者向け）豆腐・豆乳・オカラ編", "url": "https://www.mhlw.go.jp/content/11130500/000604265.pdf" },
+      { "name": "香港食物安全中心 – 豆腐：大豆製成的傳統素食", "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_239_02.html" }
+    ],
+    "analog": null,
+    "notes": "The 3-day and 7-day figures are the manufacturer shelf lives tabulated in the MHLW/日本豆腐協会 guide, not a domestic-fridge experiment; they assume 10 °C or below. The afterOpening figure is a conservative reading of the same guide's warning that spore-forming bacteria grow between 10 and 50 °C, not a published number. Do not freeze silken tofu unless you want the spongy texture — it collapses."
+  },
+  {
+    "slug": "dried-tofu",
+    "category": "vegetarian-proteins",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dried tofu",
+    "subtitle": "pressed bean curd, 豆干",
+    "keywords": ["dried tofu", "pressed tofu", "bean curd", "豆干", "豆乾", "豆腐乾", "干絲", "押し豆腐", "干し豆腐", "豆干（トウカン）", "tofu prensado", "tofu seco"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 5, "max": 7, "unit": "days", "tips": "Despite the name, 豆干 is not a dry food — it is pressed, still-moist bean curd and spoils like fresh tofu. Keep it at 4 °C or below, sealed, and use the printed date. Marinated and braised versions go slimy on the surface first; discard at the first sour smell." }
+      },
+      "freezer": {
+        "base": { "min": 3, "max": 5, "unit": "months", "tips": "Freezes better than fresh tofu because it holds less water. Slice or shred before freezing." }
+      }
+    },
+    "sources": [
+      { "name": "香港食物安全中心 – 豆腐：大豆製成的傳統素食", "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_239_02.html" }
+    ],
+    "analog": "tofu",
+    "notes": "No agency publishes a home storage time for 豆干. The numbers are borrowed: the fridge range sits between the USDA FoodKeeper 'tofu' figure (1 week) and the ~1 week that MHLW's tofu-industry guide gives pressed and fried bean-curd products, and the freezer figure is scaled down from FoodKeeper's 5 months for tofu. The cited CFS page supplies the safety rule only — fresh soy products are highly perishable and must be held at 4 °C or below."
+  },
+  {
+    "slug": "fried-tofu-puffs",
+    "category": "vegetarian-proteins",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Fried tofu puffs",
+    "subtitle": "油豆腐 / 豆卜",
+    "keywords": ["fried tofu puffs", "tofu puffs", "bean curd puffs", "油豆腐", "豆卜", "豆泡", "油炸豆腐", "揚げ豆腐", "厚揚げ", "生揚げ", "tofu frito", "buñuelos de tofu"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 5, "max": 7, "unit": "days", "tips": "Japan's MHLW HACCP guide for fried bean-curd products gives 厚揚げ (thick fried tofu) refrigerated storage at 10 °C or below and a use-by of roughly one week, and stresses that it must be chilled immediately after frying because the inside is still plain tofu." }
+      },
+      "freezer": {
+        "base": { "min": 2, "max": 3, "unit": "months", "tips": "Freeze in a bag with the air pressed out; the fried skin goes rancid before the tofu goes off." }
+      }
+    },
+    "sources": [
+      { "name": "厚生労働省 / 日本豆腐協会 – HACCP手引書（小規模な豆腐類製造事業者向け）油揚げ・厚揚げ・がんもどき・オカラドーナツ編", "url": "https://www.mhlw.go.jp/content/11130500/000604072.pdf" },
+      { "name": "香港食物安全中心 – 豆腐：大豆製成的傳統素食", "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_239_02.html" }
+    ],
+    "analog": null,
+    "notes": "The one-week fridge figure is the manufacturer shelf life tabulated in the MHLW/日本豆腐協会 guide for 厚揚げ, the closest documented product to Chinese 油豆腐/豆卜. The freezer figure is general practice, not from the source. CFS lists 豆卜 among the fresh soy products that spoil readily."
+  },
+  {
+    "slug": "aburaage",
+    "category": "vegetarian-proteins",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Aburaage",
+    "subtitle": "thin deep-fried tofu sheets",
+    "keywords": ["aburaage", "abura age", "fried tofu pouch", "inari skin", "油揚げ", "あぶらあげ", "いなり揚げ", "豆皮", "豆腐皮", "薄油豆腐皮", "tofu frito fino", "lámina de tofu frito"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 5, "max": 7, "unit": "days", "tips": "MHLW's HACCP guide for 油揚げ makers specifies refrigerated storage at 10 °C or below and a use-by of roughly one week. Rinse with boiling water (油抜き) before use to strip surface oil." }
+      },
+      "freezer": {
+        "base": { "min": 1, "max": 2, "unit": "months", "tips": "Freezes well flat in a sealed bag; the limit is oil going rancid, not microbial spoilage." }
+      }
+    },
+    "sources": [
+      { "name": "厚生労働省 / 日本豆腐協会 – HACCP手引書（小規模な豆腐類製造事業者向け）油揚げ・厚揚げ・がんもどき・オカラドーナツ編", "url": "https://www.mhlw.go.jp/content/11130500/000604072.pdf" }
+    ],
+    "analog": null,
+    "notes": "Fridge figure directly sourced (概ね１週間以内, 冷蔵10℃以下). Freezer figure is general practice, not from the source."
+  },
+  {
+    "slug": "atsuage",
+    "category": "vegetarian-proteins",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Atsuage",
+    "subtitle": "thick deep-fried tofu, 生揚げ",
+    "keywords": ["atsuage", "namaage", "thick fried tofu", "厚揚げ", "あつあげ", "生揚げ", "厚炸豆腐", "厚片油豆腐", "tofu frito grueso"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 5, "max": 7, "unit": "days", "tips": "Roughly one week at 10 °C or below per MHLW's tofu-products HACCP guide, which notes that atsuage is plain tofu inside and so must go into the fridge promptly after frying." }
+      },
+      "freezer": {
+        "base": { "min": 1, "max": 2, "unit": "months", "tips": "The tofu core turns spongy on thawing — fine for simmered dishes, poor for grilling." }
+      }
+    },
+    "sources": [
+      { "name": "厚生労働省 / 日本豆腐協会 – HACCP手引書（小規模な豆腐類製造事業者向け）油揚げ・厚揚げ・がんもどき・オカラドーナツ編", "url": "https://www.mhlw.go.jp/content/11130500/000604072.pdf" }
+    ],
+    "analog": null,
+    "notes": "Fridge figure directly sourced. Freezer figure is general practice, not from the source."
+  },
+  {
+    "slug": "dried-yuba",
+    "category": "vegetarian-proteins",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dried tofu skin",
+    "subtitle": "yuba / bean curd sticks, 腐竹",
+    "keywords": ["yuba", "tofu skin", "bean curd stick", "bean curd sheet", "腐竹", "豆皮", "豆腐皮", "腐皮", "ゆば", "湯葉", "干し湯葉", "piel de tofu", "yuba seca"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 4, "max": 12, "unit": "months", "tips": "Store the brittle dry sticks or sheets in an airtight container in a cool, dry, dark cupboard. NCHFP puts recommended storage of dried foods generally at 4 months to 1 year, shorter the warmer the room. Any softness, musty smell or visible mould means it has picked up moisture — throw it out." }
+      },
+      "freezer": {
+        "base": { "min": 12, "max": 12, "unit": "months", "tips": "Freezing in a sealed bag protects the oil-rich sheets from going rancid in a warm kitchen." }
+      }
+    },
+    "sources": [
+      { "name": "National Center for Home Food Preservation – Packaging and Storing Dried Foods", "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/" }
+    ],
+    "analog": null,
+    "notes": "NCHFP's 4-months-to-1-year range is its general figure for home-dried foods, not a figure for yuba specifically; commercial 腐竹 is usually labelled 6–12 months. Fresh (not dried) yuba is a different food entirely — it is refrigerated and lasts only a few days. This record covers the dried form only."
+  },
+  {
+    "slug": "fermented-bean-curd",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Fermented bean curd",
+    "subtitle": "jarred, in brine or wine",
+    "keywords": ["fermented bean curd", "fermented tofu", "preserved tofu", "red bean curd", "豆腐乳", "腐乳", "醬豆腐", "紅腐乳", "南乳", "腐乳（ふにゅう）", "豆腐よう", "tofu fermentado", "queso de soja fermentado"],
+    "storage": {
+      "pantry": {
+        "base": { "min": null, "max": null, "unit": null, "tips": "Unopened jars keep to the printed date in a cool dark cupboard. Hong Kong's Centre for Food Safety warns that fermented bean curd has been found contaminated with Bacillus cereus, and advises buying only from reputable suppliers, checking the date, and finishing it within the stated period." }
+      },
+      "fridge": {
+        "afterOpening": { "min": null, "max": null, "unit": null, "tips": "Refrigerate after opening. Always lift cubes out with a clean dry spoon and keep them fully covered by their brine or wine — the salt and alcohol are what hold spoilage off, and a wet or food-soiled spoon seeds the jar. Discard if the brine turns cloudy, gassy or smells of ammonia." }
+      }
+    },
+    "sources": [
+      { "name": "香港食物安全中心 – 豆腐：大豆製成的傳統素食", "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_239_02.html" }
+    ],
+    "analog": null,
+    "notes": "Deliberately given without numbers. No agency publishes a shelf life for opened 腐乳, and salt and alcohol content vary enormously between brands, so any figure would be invented. The CFS page is cited for the Bacillus cereus hazard and the instruction to follow the printed date."
+  },
+  {
+    "slug": "stinky-tofu",
+    "category": "vegetarian-proteins",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Stinky tofu",
+    "subtitle": "raw, brine-fermented",
+    "keywords": ["stinky tofu", "smelly tofu", "臭豆腐", "臭豆腐乾", "チョウドウフ", "臭豆腐（シュウドウフ）", "tofu apestoso", "tofu fermentado maloliente"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 2, "max": 3, "unit": "days", "tips": "Raw stinky tofu is a fresh, high-moisture, low-acid soy product that has already been through an uncontrolled brine ferment — keep it at 4 °C or below, boxed so the smell does not transfer, and cook it through. It is not a shelf-stable preserved food." }
+      },
+      "freezer": {
+        "base": { "min": 1, "max": 2, "unit": "months", "tips": "Freeze raw pieces individually; the texture turns spongy, which suits deep-frying and braising." }
+      }
+    },
+    "sources": [
+      { "name": "香港食物安全中心 – 豆腐：大豆製成的傳統素食", "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_239_02.html" }
+    ],
+    "analog": "tofu",
+    "notes": "Numbers are borrowed and shortened from the USDA FoodKeeper 'tofu' entry, because the brine ferment starts from a much higher microbial load than plain tofu. The CFS page is cited for the rule — fresh soy products are highly perishable and belong at 4 °C or below — not for the days. Cooked, deep-fried stinky tofu is a leftover: 3 to 4 days in the fridge."
+  },
+  {
+    "slug": "seitan",
+    "category": "vegetarian-proteins",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Seitan",
+    "subtitle": "cooked wheat gluten",
+    "keywords": ["seitan", "wheat gluten", "wheat meat", "麵筋", "烤麩", "麵腸", "生麩", "セイタン", "小麦グルテン", "seitán", "gluten de trigo", "carne de trigo"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 3, "max": 4, "unit": "days", "tips": "Cooked seitan is a moist, low-acid, cooked protein — treat it as a leftover and keep it in its cooking broth in a sealed box at 4 °C or below. Vacuum packs keep to the printed date unopened." }
+      },
+      "freezer": {
+        "base": { "min": 12, "max": 18, "unit": "months", "tips": "Freezes well in its broth; the texture firms slightly, which most people prefer." }
+      }
+    },
+    "sources": [],
+    "analog": "frozen-soy-meat-substitutes",
+    "notes": "No food safety agency publishes storage times for seitan. Both figures are borrowed wholesale from the USDA FoodKeeper entry 'Soy meat substitutes' (3 to 4 days refrigerated after cooking, 12 to 18 months frozen), which is the closest analogue — a cooked, moist, packaged meat-substitute protein. Seitan contains wheat gluten and is unsafe for coeliacs."
+  },
+  {
+    "slug": "soybean-sprouts",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Soybean sprouts",
+    "subtitle": "fresh, with the bean head",
+    "keywords": ["soybean sprouts", "soy sprouts", "黃豆芽", "黄豆芽", "大豆芽菜", "豆芽菜", "大豆もやし", "豆もやし", "brotes de soja", "germinados de soja"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 5, "max": 10, "unit": "days", "tips": "Keep dry and cold in a vented bag or lidded box; never store them wet. Sprouts are grown warm and damp, which is also ideal for Salmonella and E. coli, so cook soybean sprouts thoroughly rather than eating them raw." }
+      }
+    },
+    "sources": [],
+    "analog": "bean-sprouts",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'Bean sprouts' (5 to 10 days refrigerated). Soybean sprouts are a distinct food from mung bean sprouts — thicker, with a yellow bean head, and they must be cooked, both for safety and because raw soybean sprouts are unpleasantly bitter. No agency publishes a separate figure for them."
+  },
+  {
+    "slug": "natto",
+    "category": "vegetarian-proteins",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Natto",
+    "subtitle": "fermented soybeans",
+    "keywords": ["natto", "fermented soybeans", "納豆", "なっとう", "ひきわり納豆", "納豆（なっとう）", "拉絲納豆", "日本納豆", "soja fermentada", "frijoles de soja fermentados"],
+    "storage": {
+      "fridge": {
+        "base": { "min": null, "max": null, "unit": null, "tips": "Use the printed 賞味期限. Japan's natto-industry HACCP guide, published via MHLW, requires the chiller to run at 10 °C or below and explains why: after fermentation the packs are chilled specifically to stop Bacillus subtilis var. natto fermenting further. Held warm or held too long the culture keeps working — the smell turns to ammonia and white tyrosine crystals appear on the beans. That is over-fermentation rather than acute spoilage, but it is the point to stop eating it." }
+      },
+      "freezer": {
+        "base": { "min": 6, "max": 6, "unit": "months", "tips": "Freeze in the unopened pack; thaw overnight in the fridge, not on the counter. Freezing halts the culture, which is exactly what you want." }
+      }
+    },
+    "sources": [
+      { "name": "厚生労働省 / 全国納豆協同組合連合会 – HACCPの考え方を取り入れた衛生管理のための手引書（納豆製造業者向け）", "url": "https://www.mhlw.go.jp/file/05-Shingikai-11121000-Iyakushokuhinkyoku-Soumuka/0000188321.pdf" }
+    ],
+    "analog": "frozen-tempeh",
+    "notes": "The cited guide gives the rule (10 °C or below, chilled to stop re-fermentation) but publishes no consumer shelf life, so no fridge number is given here — the pack date is the real answer. The 6-month freezer figure is borrowed from the USDA FoodKeeper entry 'Tempeh', the nearest food: a live-culture whole-soybean ferment."
+  },
+  {
+    "slug": "century-egg",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Century egg",
+    "subtitle": "alkaline-cured duck egg, in shell",
+    "keywords": ["century egg", "preserved egg", "thousand-year egg", "pidan", "皮蛋", "松花蛋", "變蛋", "灰包蛋", "ピータン", "皮蛋（ピータン）", "huevo milenario", "huevo centenario", "huevo de cien años"],
+    "storage": {
+      "pantry": {
+        "base": { "min": null, "max": null, "unit": null, "tips": "Taiwan's 農業部 says finished century eggs should be kept somewhere cool and well ventilated, in the shell, and used by the printed date. The alkaline cure raises the pH to roughly 9–12, which is what preserves them; do not treat a cracked, weeping or ammonia-reeking egg as merely old." }
+      },
+      "fridge": {
+        "base": { "min": null, "max": null, "unit": null, "tips": "農業部 warns that refrigerated century eggs sweat when they come back up to room temperature, and condensation on a porous shell invites contamination — so if you do refrigerate them, take out only what you will eat." },
+        "afterOpening": { "min": 1, "max": 1, "unit": "weeks", "tips": "Once peeled, a century egg is an unprotected ready-to-eat food: cover it and keep it at 4 °C or below." }
+      }
+    },
+    "sources": [
+      { "name": "農業部農業知識入口網 – 皮蛋的作法", "url": "https://kmweb.moa.gov.tw/knowledge_view.php?id=770" },
+      { "name": "香港食物安全中心 – 蛋及蛋製品的食用安全", "url": "https://www.cfs.gov.hk/tc_chi/whatsnew/whatsnew_fst/whatsnew_fst_Food_safety_of_eggs_and_eggs_products.html" }
+    ],
+    "analog": "eggs-hard-boiled-cooked",
+    "notes": "No authority publishes a shelf life for century eggs, so the in-shell entries carry the rules only and no invented numbers — the printed date is the answer. The one-week figure for a peeled egg is borrowed from the USDA FoodKeeper entry 'Eggs, hard boiled cooked'. CFS is cited for the general shell-egg rules: store cool and dry, preferably chilled, rotate first-in-first-out, and do not wash the shell."
+  },
+  {
+    "slug": "salted-duck-egg",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Salted duck egg",
+    "subtitle": "brine-cured, in shell",
+    "keywords": ["salted duck egg", "salted egg", "鹹蛋", "鹹鴨蛋", "咸蛋", "紅土鹹蛋", "塩漬け卵", "塩卵", "アヒルの塩漬け卵", "huevo de pato salado", "huevo salado"],
+    "storage": {
+      "pantry": {
+        "base": { "min": null, "max": null, "unit": null, "tips": "Taiwan's 食農教育資訊整合平臺 describes the cure as soaking in brine of 20 % salt or stronger at room temperature for 20 to 30 days, after which the eggs are cooked. Raw brined eggs keep in their brine in a cool dark place; once you lift them out of the brine the clock starts." }
+      },
+      "fridge": {
+        "base": { "min": 1, "max": 1, "unit": "weeks", "tips": "Hard-cooked salted eggs are cooked eggs — 4 °C or below, in the shell, and eat within about a week. Salted egg yolks separated for baking or for 蛋黃酥 should be used the same day or frozen." }
+      },
+      "freezer": {
+        "base": { "min": 3, "max": 4, "unit": "months", "tips": "Freeze the raw or cooked yolks, not whole eggs in the shell — the shell cracks and the white turns rubbery." }
+      }
+    },
+    "sources": [
+      { "name": "食農教育資訊整合平臺 – 不平凡的傳統美味：鹹蛋", "url": "https://fae.moa.gov.tw/theme_data.php?theme=topics&sub_theme=knowledge&id=4460" },
+      { "name": "香港食物安全中心 – 蛋及蛋製品的食用安全", "url": "https://www.cfs.gov.hk/tc_chi/whatsnew/whatsnew_fst/whatsnew_fst_Food_safety_of_eggs_and_eggs_products.html" }
+    ],
+    "analog": "eggs-hard-boiled-cooked",
+    "notes": "The cure description (20 % brine, 20–30 days, then cooked) is sourced; the storage numbers are not. The one-week refrigerated figure is borrowed from the USDA FoodKeeper entry 'Eggs, hard boiled cooked' and the freezer figure is general practice. CFS is cited for the shell-egg handling rules. A raw salted egg is still a raw egg: cook it through."
+  },
+  {
+    "slug": "tea-egg",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Tea egg",
+    "subtitle": "simmered in tea and spice, in shell",
+    "keywords": ["tea egg", "marbled egg", "茶葉蛋", "茶蛋", "滷茶葉蛋", "台湾茶葉蛋", "茶玉子", "煮卵", "huevo al té", "huevo cocido en té"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 1, "max": 1, "unit": "weeks", "tips": "A tea egg is a hard-cooked egg with a cracked shell sitting in warm liquid, which is a poor combination — get it into the fridge at 4 °C or below within two hours of cooking, in its braise, and reheat before eating. Convenience-store tea eggs held in a hot pot all day are held hot deliberately, at 60 °C or above; a pot left to cool on the counter is not safe to keep." }
+      }
+    },
+    "sources": [
+      { "name": "香港食物安全中心 – 蛋及蛋製品的食用安全", "url": "https://www.cfs.gov.hk/tc_chi/whatsnew/whatsnew_fst/whatsnew_fst_Food_safety_of_eggs_and_eggs_products.html" }
+    ],
+    "analog": "eggs-hard-boiled-cooked",
+    "notes": "The one-week figure is borrowed from the USDA FoodKeeper entry 'Eggs, hard boiled cooked'; no authority publishes a figure for tea eggs. CFS is cited for the rule the record turns on — cooked egg dishes are held hot at 60 °C or above or cold at 4 °C or below, never in between."
+  },
+  {
+    "slug": "braised-egg",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Braised egg",
+    "subtitle": "shelled, in soy braise",
+    "keywords": ["braised egg", "soy sauce egg", "stewed egg", "滷蛋", "鹵蛋", "醬油蛋", "味付け玉子", "煮卵", "味玉", "huevo estofado", "huevo en salsa de soja"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 1, "max": 1, "unit": "weeks", "tips": "Keep the peeled eggs submerged in their cooled braise in a covered box at 4 °C or below. The braise is salty but not a preservative at home strengths — do not leave the pot out overnight to 'let the flavour soak in'." }
+      }
+    },
+    "sources": [
+      { "name": "香港食物安全中心 – 蛋及蛋製品的食用安全", "url": "https://www.cfs.gov.hk/tc_chi/whatsnew/whatsnew_fst/whatsnew_fst_Food_safety_of_eggs_and_eggs_products.html" }
+    ],
+    "analog": "eggs-hard-boiled-cooked",
+    "notes": "One-week figure borrowed from the USDA FoodKeeper entry 'Eggs, hard boiled cooked'. CFS supplies the hot-hold/cold-hold rule, not the days. Japanese 味付け玉子 for ramen are often soft-yolked, which is a shorter proposition still — treat those as two or three days."
+  },
+  {
+    "slug": "fish-balls",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Fish balls",
+    "subtitle": "cooked surimi balls",
+    "keywords": ["fish balls", "fishball", "魚丸", "魚蛋", "魚丸子", "福州魚丸", "つみれ", "魚肉だんご", "魚のつみれ", "bolas de pescado", "albóndigas de pescado"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 3, "max": 4, "unit": "days", "tips": "Fish balls look shelf-stable and are not. Japan's food sanitation standards classify them as 魚肉ねり製品 and require storage at 10 °C or below unless the pack has been retorted at 120 °C for 4 minutes or has a pH of 4.6 or less or water activity of 0.94 or less — home fish balls meet none of those. Keep them at 4 °C or below and cook them through." }
+      },
+      "freezer": {
+        "base": { "min": 9, "max": 9, "unit": "months", "tips": "Japan's standard for frozen fish-paste products is −15 °C or below; a domestic freezer at −18 °C is comfortably inside that. Freeze in a single layer first so they do not fuse into a block." }
+      }
+    },
+    "sources": [
+      { "name": "厚生労働省 – 食品、添加物等の規格基準：魚肉ねり製品の成分規格・製造基準・保存基準", "url": "https://www.mhlw.go.jp/topics/bukyoku/iyaku/syoku-anzen/jigyousya/shokuhin_kikaku/dl/11.pdf" }
+    ],
+    "analog": "surimi-seafood",
+    "notes": "The temperature rules (10 °C or below chilled, −15 °C or below frozen, and the retort/pH/water-activity exemptions) are quoted directly from the MHLW standard. The numbers are borrowed: the fridge figure from the USDA FoodKeeper entry 'Cooked fish, all' and the 9-month freezer figure from FoodKeeper's 'Surimi seafood'. Vacuum packs of fish balls sold chilled are a botulism consideration, not a shortcut — keep them refrigerated and use the printed date."
+  },
+  {
+    "slug": "pork-meatballs-gongwan",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Pork meatballs",
+    "subtitle": "貢丸, pounded and cooked",
+    "keywords": ["pork meatballs", "gongwan", "bouncy meatballs", "貢丸", "摃丸", "肉丸", "新竹貢丸", "肉団子", "豚肉だんご", "albóndigas de cerdo", "bolas de carne de cerdo"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 3, "max": 4, "unit": "days", "tips": "貢丸 are pre-cooked emulsified pork — a perishable cooked meat, not a cured sausage. Keep at 4 °C or below in a sealed box and reheat thoroughly. The springy texture comes from pounding and phosphates, not from any preservation step." }
+      },
+      "freezer": {
+        "base": { "min": 1, "max": 2, "unit": "months", "tips": "Freeze in portions; the emulsion goes crumbly after a couple of months and the fat picks up freezer taint." }
+      }
+    },
+    "sources": [],
+    "analog": "frozen-sausages-precooked",
+    "notes": "Both figures are borrowed from the USDA FoodKeeper entry 'Sausages, precooked' (3 to 4 days refrigerated after cooking, 1 to 2 months frozen), which is the closest analogue — a pre-cooked emulsified pork product. No Taiwanese or other authority publishes a home storage time for 貢丸."
+  },
+  {
+    "slug": "kamaboko",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Kamaboko",
+    "subtitle": "steamed fish cake loaf",
+    "keywords": ["kamaboko", "fish cake", "steamed fish cake", "narutomaki", "かまぼこ", "蒲鉾", "板かまぼこ", "鳴門巻き", "魚板", "日式魚板", "魚糕", "pastel de pescado", "kamaboko japonés"],
+    "storage": {
+      "fridge": {
+        "base": { "min": null, "max": null, "unit": null, "tips": "Unopened, use the printed 賞味期限. Japan's food sanitation standards require 特殊包装かまぼこ to be stored at 10 °C or below unless the pack was heated to 120 °C for 4 minutes in a sealed container, or has pH 4.6 or lower, or water activity 0.94 or lower." },
+        "afterOpening": { "min": 3, "max": 4, "unit": "days", "tips": "Once the wrapper is cut the surface is exposed and the salt content is far too low to hold bacteria off. Wrap the cut face, keep it at 4 °C or below, and slice off any surface that has gone slimy or smells sour rather than trimming and eating around it." }
+      },
+      "freezer": {
+        "base": { "min": null, "max": null, "unit": null, "tips": "Not recommended. Freezing wrecks the gel — kamaboko thaws watery and spongy. Japanese producers generally advise against it, and the frozen-product standard of −15 °C or below applies to products made to be frozen, not to a chilled board of kamaboko." }
+      }
+    },
+    "sources": [
+      { "name": "厚生労働省 – 食品、添加物等の規格基準：魚肉ねり製品の成分規格・製造基準・保存基準", "url": "https://www.mhlw.go.jp/topics/bukyoku/iyaku/syoku-anzen/jigyousya/shokuhin_kikaku/dl/11.pdf" }
+    ],
+    "analog": "cooked-fish-all",
+    "notes": "The 10 °C rule, the retort/pH/water-activity exemptions and the −15 °C frozen standard are quoted from the MHLW standard, which publishes no consumer shelf life. The 3-to-4-day after-opening figure is borrowed from the USDA FoodKeeper entry 'Cooked fish, all'. Unopened kamaboko is left without a number deliberately: its shelf life depends on how the maker pasteurised it, and that is what the printed date encodes."
+  },
+  {
+    "slug": "chikuwa",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Chikuwa",
+    "subtitle": "grilled tube-shaped fish paste",
+    "keywords": ["chikuwa", "grilled fish paste tube", "ちくわ", "竹輪", "焼きちくわ", "竹輪魚卷", "魚卷", "竹輪（ちくわ）", "chikuwa", "rollo de pasta de pescado"],
+    "storage": {
+      "fridge": {
+        "base": { "min": null, "max": null, "unit": null, "tips": "Unopened, use the printed date; the MHLW standard for 魚肉ねり製品 sets chilled storage at 10 °C or below for products that have not been retorted or made acidic or dry enough to be exempt." },
+        "afterOpening": { "min": 3, "max": 4, "unit": "days", "tips": "The grilled skin is not a barrier. Wrap and refrigerate at 4 °C or below once the pack is opened." }
+      },
+      "freezer": {
+        "base": { "min": 1, "max": 2, "unit": "months", "tips": "Freezes better than kamaboko because it is usually cooked into soups and simmers afterwards, where the coarser thawed texture does not matter. Slice before freezing." }
+      }
+    },
+    "sources": [
+      { "name": "厚生労働省 – 食品、添加物等の規格基準：魚肉ねり製品の成分規格・製造基準・保存基準", "url": "https://www.mhlw.go.jp/topics/bukyoku/iyaku/syoku-anzen/jigyousya/shokuhin_kikaku/dl/11.pdf" }
+    ],
+    "analog": "cooked-fish-all",
+    "notes": "Temperature rule sourced from MHLW; the after-opening figure is borrowed from the USDA FoodKeeper entry 'Cooked fish, all' and the freezer figure is general practice. No number is given for the unopened pack because the printed date encodes the maker's pasteurisation."
+  },
+  {
+    "slug": "dried-shrimp",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dried shrimp",
+    "subtitle": "salted and sun-dried",
+    "keywords": ["dried shrimp", "dried prawns", "蝦米", "蝦皮", "金鉤蝦", "開陽", "干しエビ", "干し海老", "桜えび", "アミエビ", "camarón seco", "camarones secos", "gambas secas"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 4, "max": 6, "unit": "months", "tips": "Airtight jar in a cool, dry, dark cupboard. Hong Kong's CFS rule for goods that need no refrigeration is a cool dry spot in a sealed or covered container. Check the jar often: dried shrimp that has picked up moisture goes tacky, then musty, then mouldy." }
+      },
+      "fridge": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Most Chinese kitchens keep 蝦米 in the fridge rather than the cupboard, and in a humid climate that is the sensible choice — it slows the oil going rancid and keeps pantry moths out." }
+      },
+      "freezer": {
+        "base": { "min": 12, "max": 12, "unit": "months", "tips": "Double-bag it; the smell transfers to everything else in the freezer." }
+      }
+    },
+    "sources": [
+      { "name": "National Center for Home Food Preservation – Packaging and Storing Dried Foods", "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/" },
+      { "name": "香港食物安全中心 – 食物安全五要點：貯存", "url": "https://www.cfs.gov.hk/tc_chi/consumer_zone/safefood_all/five_keys_apply_store.html" }
+    ],
+    "analog": null,
+    "notes": "No agency publishes a shelf life for dried shrimp. The pantry range is NCHFP's general figure for home-dried foods (4 months to 1 year, shorter the warmer the room), taken at the short end because dried shrimp is oily and salted rather than merely dried; the fridge and freezer figures extend that by ordinary practice and are not from either source. CFS is cited for the storage rule, not the months."
+  },
+  {
+    "slug": "dried-anchovies",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dried anchovies",
+    "subtitle": "small whole dried fish",
+    "keywords": ["dried anchovies", "dried baby fish", "ikan bilis", "niboshi", "小魚乾", "丁香魚乾", "銀魚乾", "煮干し", "にぼし", "いりこ", "ちりめんじゃこ", "anchoas secas", "boquerones secos", "pescaditos secos"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 4, "max": 6, "unit": "months", "tips": "Sealed, cool, dry and dark. The failure mode is not bacteria but rancidity — these are oily fish, and the give-away is a sharp paint-like smell and a yellow-brown cast on what should be silver." }
+      },
+      "fridge": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Better than the cupboard in a warm or humid kitchen. Keep the bag sealed so the fish do not perfume the milk." }
+      },
+      "freezer": {
+        "base": { "min": 12, "max": 12, "unit": "months", "tips": "The usual Japanese advice for 煮干し once opened: freeze it, and use straight from frozen for dashi." }
+      }
+    },
+    "sources": [
+      { "name": "National Center for Home Food Preservation – Packaging and Storing Dried Foods", "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/" },
+      { "name": "香港食物安全中心 – 食物安全五要點：貯存", "url": "https://www.cfs.gov.hk/tc_chi/consumer_zone/safefood_all/five_keys_apply_store.html" }
+    ],
+    "analog": null,
+    "notes": "Same basis as dried shrimp: the pantry range is NCHFP's general 4-months-to-1-year figure for dried foods, taken at the short end because the fish are oily; the fridge and freezer figures are ordinary practice, not published numbers. CFS supplies the dry-goods storage rule only."
+  },
+  {
+    "slug": "dried-scallop",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dried scallop",
+    "subtitle": "conpoy, whole dried adductor",
+    "keywords": ["dried scallop", "conpoy", "干貝", "乾貝", "瑤柱", "元貝", "干し貝柱", "ほたて貝柱", "干し帆立", "vieira seca", "callo de hacha seco"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Airtight, cool, dry and dark. Conpoy is drier and less oily than dried shrimp, so it keeps longer, but it is expensive enough that most households refrigerate or freeze it anyway. A white bloom of amino-acid crystals is normal; fuzzy grey or green mould is not." }
+      },
+      "fridge": {
+        "base": { "min": 12, "max": 12, "unit": "months", "tips": "Sealed jar in the fridge is the standard Hong Kong practice for good conpoy." }
+      },
+      "freezer": {
+        "base": { "min": 24, "max": 24, "unit": "months", "tips": "Freeze the sealed jar; bring it to room temperature before opening so condensation does not settle on the scallops." }
+      }
+    },
+    "sources": [
+      { "name": "National Center for Home Food Preservation – Packaging and Storing Dried Foods", "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/" },
+      { "name": "香港食物安全中心 – 食物安全五要點：貯存", "url": "https://www.cfs.gov.hk/tc_chi/consumer_zone/safefood_all/five_keys_apply_store.html" }
+    ],
+    "analog": null,
+    "notes": "The pantry figure sits at the long end of NCHFP's general 4-months-to-1-year range for dried foods because conpoy is dried much harder than dried shrimp; the fridge and freezer figures are ordinary practice and are not published numbers. CFS is cited for the dry-goods storage rule. Once soaked, treat rehydrated conpoy and its soaking liquid as fresh cooked seafood and use within a couple of days."
+  },
+  {
+    "slug": "bonito-flakes",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Bonito flakes",
+    "subtitle": "katsuobushi shavings",
+    "keywords": ["bonito flakes", "katsuobushi", "dried bonito", "かつお節", "鰹節", "かつおぶし", "削り節", "花かつお", "柴魚片", "柴魚", "木魚花", "copos de bonito", "bonito seco"],
+    "storage": {
+      "pantry": {
+        "base": { "min": null, "max": null, "unit": null, "tips": "Unopened packs keep to the printed date in a cool dry cupboard; the flakes are dried and smoked to a very low moisture content, so the enemy is air and humidity, not bacteria." }
+      },
+      "fridge": {
+        "afterOpening": { "min": 1, "max": 2, "unit": "months", "tips": "Once opened, press the air out, seal, and refrigerate. Shavings lose their aroma within weeks and eventually smell flat and cardboardy — that is the real end point, well before anything unsafe happens." }
+      },
+      "freezer": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Freezing an opened bag holds the aroma far better than the cupboard. Use straight from the freezer." }
+      }
+    },
+    "sources": [
+      { "name": "National Center for Home Food Preservation – Packaging and Storing Dried Foods", "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/" }
+    ],
+    "analog": null,
+    "notes": "No number is given for an unopened pack because the printed date is the honest answer. The after-opening and freezer figures are ordinary practice for an aroma-driven dried product, informed by but not stated in NCHFP's general dried-food guidance; treat them as quality, not safety, limits. A whole un-shaved 節 is a different object and keeps far longer."
+  },
+  {
+    "slug": "salted-fish",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Salted fish",
+    "subtitle": "salt-cured and dried",
+    "keywords": ["salted fish", "salt fish", "鹹魚", "咸鱼", "梅香鹹魚", "馬友鹹魚", "塩蔵魚", "塩干し魚", "干物", "pescado salado", "pescado en salazón", "bacalao salado"],
+    "storage": {
+      "pantry": {
+        "base": { "min": 4, "max": 6, "unit": "months", "tips": "Whole, hard-cured salted fish keeps wrapped in a cool, dry, well-ventilated place. Hong Kong's CFS rule for goods that need no refrigeration is a sealed or covered container somewhere cool and dry. Salt content varies enormously by style, and softer, wetter cures are not shelf-stable at all." }
+      },
+      "fridge": {
+        "base": { "min": 6, "max": 12, "unit": "months", "tips": "Wrap tightly — the smell travels — and refrigerate, which is the safer default in a warm climate and for any cure you are unsure about. Once cut, keep the pieces sealed." }
+      },
+      "freezer": {
+        "base": { "min": 12, "max": 12, "unit": "months", "tips": "Freezing stops the fat oxidising, which is what turns salted fish yellow and bitter." }
+      }
+    },
+    "sources": [
+      { "name": "National Center for Home Food Preservation – Packaging and Storing Dried Foods", "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/" },
+      { "name": "香港食物安全中心 – 食物安全五要點：貯存", "url": "https://www.cfs.gov.hk/tc_chi/consumer_zone/safefood_all/five_keys_apply_store.html" }
+    ],
+    "analog": null,
+    "notes": "Salt cures range from bone-dry to barely firm and no agency publishes a single shelf life. The pantry range is NCHFP's general 4-months-to-1-year figure for dried foods, taken at the short end; the fridge and freezer figures are ordinary practice. CFS is cited for the storage rule only. If the fish is soft, damp or smells of ammonia rather than of salt and fish, it is not a hard cure — refrigerate it and treat it as perishable."
+  },
+  {
+    "slug": "mullet-roe",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Mullet roe",
+    "subtitle": "salted and sun-dried, karasumi",
+    "keywords": ["mullet roe", "bottarga", "karasumi", "烏魚子", "烏魚膘", "台灣烏魚子", "からすみ", "唐墨", "カラスミ", "hueva de mújol", "botarga", "hueva curada"],
+    "storage": {
+      "fridge": {
+        "base": { "min": null, "max": null, "unit": null, "tips": "Taiwan's 農業部 states plainly that finished mullet roe must be kept frozen or refrigerated — the salting takes only about 10–15 % of the roe weight and three to five days of sun-drying, which is not enough to make it shelf-stable. Keep it vacuum-packed or tightly wrapped at 4 °C or below and cut only what you will grill." }
+      },
+      "freezer": {
+        "base": { "min": 3, "max": 4, "unit": "months", "tips": "農業部 notes that stored too long — beyond about four months — the fat oxidises and the roe turns from amber to dull dark red. That colour change is the practical end of its life, before anything unsafe happens." }
+      }
+    },
+    "sources": [
+      { "name": "農業部農業知識入口網 – 烏魚子的加工製作過程（烏魚主題館）", "url": "https://kmweb.moa.gov.tw/subject/subject.php?id=50059" }
+    ],
+    "analog": null,
+    "notes": "The requirement to chill or freeze, and the roughly four-month oxidation limit, are both stated on the cited 農業部 page ('成品應予冷凍或冷藏。儲藏太久(4個月以上)，因脂肪氧化，其顏色轉為暗紅色'). No chilled figure is given because the source does not distinguish fridge from freezer, and inventing one would be worse than leaving the rule to stand."
+  },
+  {
+    "slug": "mentaiko",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Mentaiko",
+    "subtitle": "salted pollock roe, raw",
+    "keywords": ["mentaiko", "karashi mentaiko", "tarako", "cod roe", "明太子", "辛子明太子", "たらこ", "めんたいこ", "鱈魚子", "明太子（辛子）", "hueva de abadejo", "hueva de bacalao salada"],
+    "storage": {
+      "fridge": {
+        "base": { "min": null, "max": null, "unit": null, "tips": "Unopened, use the printed date and keep it at 4 °C or below. Mentaiko and tarako are raw, lightly salted roe — not a cooked or pasteurised product — so they belong with sashimi in the fridge, not with preserves." },
+        "afterOpening": { "min": 2, "max": 3, "unit": "days", "tips": "Once the pack is open, wrap each sac and use within a couple of days. Japan's MHLW is explicit that salting, vinegar, soy sauce and wasabi do not kill Anisakis larvae, so none of the seasoning here is a safety step." }
+      },
+      "freezer": {
+        "base": { "min": 1, "max": 2, "unit": "months", "tips": "Freeze the sacs individually wrapped and thaw in the fridge. MHLW's freezing condition for killing Anisakis in raw seafood is −20 °C for 24 hours or more; a domestic freezer at −18 °C is close but not equivalent, so buy roe sold for raw eating rather than relying on your own freezer." }
+      }
+    },
+    "sources": [
+      { "name": "厚生労働省 – アニサキスによる食中毒を予防しましょう", "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000042953.html" }
+    ],
+    "analog": "caviar-fresh-jar",
+    "notes": "The parasite facts are sourced from MHLW — freezing at −20 °C for 24 hours or more, and the explicit statement that vinegar, salting, soy sauce and wasabi do not kill Anisakis larvae. The storage numbers are borrowed from the USDA FoodKeeper entry 'Caviar, fresh, in jar' (2 days after opening, rounded to 2 to 3 days here) and the freezer figure is ordinary practice; no unopened figure is given because the printed date is the real answer. Note that Anisakis is a hazard of fish flesh and viscera rather than of the roe itself — the MHLW rules are cited because they govern this whole class of raw, salted seafood, and because the seasoning is so often mistaken for a cure."
+  },
+  {
+    "slug": "ikura",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Ikura",
+    "subtitle": "salmon roe, salted or soy-cured",
+    "keywords": ["ikura", "salmon roe", "salmon caviar", "sujiko", "いくら", "イクラ", "筋子", "醤油漬けいくら", "鮭魚卵", "鮭卵", "鮭魚子", "hueva de salmón", "caviar de salmón"],
+    "storage": {
+      "fridge": {
+        "base": { "min": null, "max": null, "unit": null, "tips": "Buy it labelled for raw eating (生食用), keep it at 4 °C or below, and use the printed date. The salt or soy cure is a seasoning, not a preservation step — MHLW states outright that salting, vinegar, soy sauce and wasabi do not kill Anisakis larvae." },
+        "afterOpening": { "min": 2, "max": 2, "unit": "days", "tips": "Once opened, eat within about two days. Lift the eggs out with a clean dry spoon; a ready-to-eat raw food picks up whatever the spoon carries." }
+      },
+      "freezer": {
+        "base": { "min": 1, "max": 2, "unit": "months", "tips": "Freeze in small sealed portions and thaw slowly in the fridge — thawed fast, the eggs burst and go milky. MHLW's condition for killing Anisakis in raw seafood is −20 °C for 24 hours or more; the US standard it cites is −20 °C for 7 days or −35 °C for 15 hours." }
+      }
+    },
+    "sources": [
+      { "name": "厚生労働省 – アニサキスによる食中毒を予防しましょう", "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000042953.html" },
+      { "name": "香港食物安全中心 – 製作壽司及刺身（食物安全重點控制系統）", "url": "https://www.cfs.gov.hk/tc_chi/programme/programme_haccp/programme_haccp_making.html" }
+    ],
+    "analog": "caviar-fresh-jar",
+    "notes": "Storage numbers are borrowed from the USDA FoodKeeper entry 'Caviar, fresh, in jar' (2 days after opening); the freezer figure is ordinary practice. The sourced material is the safety rule: MHLW's freezing conditions and its statement that seasoning does not kill Anisakis, and CFS's sushi and sashimi guidance that fish be frozen at −20 °C or below for 7 days or about −35 °C for 20 hours to kill parasites, with chilled ingredients held at 0–4 °C. Ikura is a raw ready-to-eat food and is on the list pregnant people and other high-risk groups are usually told to avoid."
+  },
+  {
+    "slug": "sea-urchin-roe",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sea urchin roe",
+    "subtitle": "uni, fresh in tray",
+    "keywords": ["sea urchin", "sea urchin roe", "uni", "海膽", "海膽黃", "生海膽", "うに", "ウニ", "雲丹", "生うに", "erizo de mar", "hueva de erizo de mar"],
+    "storage": {
+      "fridge": {
+        "base": { "min": 1, "max": 2, "unit": "days", "tips": "Uni is the most perishable thing in this list — raw gonad with no skin, no salt and no acid. Keep the tray at 4 °C or below on ice, do not let it sit at room temperature while you prepare anything else, and eat it the day you buy it if you possibly can. Lobes that have gone soft, weeping or bitter are past it." }
+      }
+    },
+    "sources": [
+      { "name": "香港食物安全中心 – 製作壽司及刺身（食物安全重點控制系統）", "url": "https://www.cfs.gov.hk/tc_chi/programme/programme_haccp/programme_haccp_making.html" }
+    ],
+    "analog": "scallops",
+    "notes": "The one-to-two-day figure is borrowed and shortened from the USDA FoodKeeper entry 'Scallops' (1 to 3 days refrigerated), the closest raw shellfish analogue; no authority publishes a figure for uni. CFS is cited for the rule that chilled raw sushi and sashimi ingredients are held at 0–4 °C. Freezing is deliberately omitted: home-frozen uni thaws to mush, and alum-treated trays sold for the counter are a commercial product with their own date. Like all raw shellfish it carries a Vibrio and norovirus risk and is not for pregnant people, young children or anyone immunocompromised."
+  }
+]

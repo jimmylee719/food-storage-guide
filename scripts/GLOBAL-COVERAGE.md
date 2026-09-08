@@ -39,9 +39,10 @@ white fungus (白木耳), enoki (金針菇), king oyster (杏鮑菇), shiitake f
 shiitake dried (乾香菇), shimeji, maitake, nameko, straw mushroom, matsutake,
 dried lily flower (金針花), seaweed: kombu, wakame, nori, hijiki, agar
 
-## Batch C — Soy, tofu and Asian protein products  (not started)
+## Batch C — Soy, tofu and Asian protein products  ✅ DONE → src/data/base/extra/c-asian-protein.json (29 items)
 
-chayote appears in Batch B and Batch F and was skipped by both; verify before writing.
+chayote was verified absent from every data file and is still unwritten. Whoever's
+assigned Batch F owns it.
 
 
 firm tofu, silken tofu, dried tofu (豆干), fried tofu puffs (油豆腐), aburaage,
