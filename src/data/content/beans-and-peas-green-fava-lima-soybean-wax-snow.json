@@ -1,0 +1,107 @@
+{
+  "slug": "beans-and-peas-green-fava-lima-soybean-wax-snow",
+  "en": {
+    "name": "Fresh beans and peas",
+    "aliases": ["green beans", "fava beans", "lima beans", "edamame", "snow peas", "sugar snap peas"],
+    "summary": "Fresh pods and beans — green beans, broad beans, lima beans, edamame, wax beans, mangetout and sugar snaps — are high in sugar that converts to starch quickly after picking. Refrigerated they keep 3–5 days from the date of purchase, and blanched and frozen they last about 8 months.",
+    "pantry": "Fresh beans and peas should not be kept at room temperature. In a warm kitchen the pods wilt, the sugars turn starchy and the flavour flattens within a day. Take them home and refrigerate them promptly, and shell broad beans and edamame only when you are ready to cook.",
+    "fridge": "Store them unwashed in a perforated bag in the crisper at 4 °C (40 °F) or below, where they keep 3–5 days from purchase. They need humidity but not wet surfaces, so do not rinse before storing. Shelled beans deteriorate faster than beans left in the pod, so keep them whole until cooking.",
+    "freezer": "Beans and peas freeze for about 8 months from purchase at −18 °C (0 °F), but must be blanched first: boil for 2–3 minutes (a little longer for thick beans), plunge into iced water, drain and dry thoroughly, then freeze on a tray and bag. Unblanched pods go tough and develop off flavours within weeks.",
+    "thawing": "Cook frozen beans and peas straight from the freezer — thawing makes them limp. Drop them into boiling water, a hot pan or a simmering stew.",
+    "spoilage": [
+      "Limp, rubbery pods that bend instead of snapping",
+      "Brown, slimy or watery spots on the pods",
+      "Mould in the bag, usually where the pods touch",
+      "Sour or fermented smell"
+    ],
+    "tips": [
+      "Snap a bean when buying — it should break crisply, not bend",
+      "Store unwashed in a perforated bag and rinse just before cooking",
+      "Blanch before freezing, or the pods toughen and lose colour",
+      "Keep broad beans and edamame in the pod until you cook them"
+    ],
+    "faq": [
+      {"q": "How long do green beans last in the fridge?", "a": "3–5 days from purchase at 4 °C (40 °F) or below, stored unwashed in a perforated bag in the crisper drawer."},
+      {"q": "Can you freeze green beans?", "a": "Yes, but blanch them for 2–3 minutes first, then chill in iced water, dry and freeze. They keep about 8 months from purchase at −18 °C (0 °F)."},
+      {"q": "Should you wash beans before storing them?", "a": "No. Water on the pods encourages mould and slime. Store them dry and unwashed, then rinse just before cooking."}
+    ]
+  },
+  "zh": {
+    "name": "新鮮豆莢與豆類",
+    "aliases": ["四季豆", "敏豆", "蠶豆", "皇帝豆", "毛豆", "豌豆莢", "甜豆"],
+    "summary": "新鮮豆莢和豆類，包括四季豆、蠶豆、皇帝豆、毛豆、黃莢四季豆、荷蘭豆和甜豆，含糖量高，而且採收後糖分很快就會轉成澱粉。冷藏從購買日起可放 3～5 天，燙過後冷凍則可保存約 8 個月。",
+    "pantry": "新鮮豆莢和豆類不該放在室溫。在溫暖的廚房裡，豆莢一天內就會軟垮、糖分轉澱粉、風味變平淡。買回家請盡快冷藏，蠶豆和毛豆也要等到要煮的時候再剝。",
+    "fridge": "不清洗，裝在打洞袋裡放進蔬果保鮮室，維持 4°C 以下，從購買日起可放 3～5 天。它們需要濕度但不能有積水，所以保存前不要沖洗。已經剝好的豆仁壞得比帶莢的快，建議煮之前才剝。",
+    "freezer": "豆莢和豆類放 −18°C 冷凍，從購買日起約可保存 8 個月，但一定要先汆燙：煮 2～3 分鐘（厚實的豆類再久一點），撈起泡冰水，瀝乾並徹底擦乾，再鋪盤冷凍後裝袋。沒燙過就冷凍的豆莢，幾週內就會變韌並產生怪味。",
+    "thawing": "冷凍豆莢請直接下鍋，解凍反而會讓它變軟垮。直接丟進滾水、熱鍋或燉煮中的鍋裡即可。",
+    "spoilage": [
+      "豆莢軟垮、變得像橡膠，折起來只彎不斷",
+      "豆莢上出現褐色、黏滑或水爛的斑點",
+      "袋子裡長黴，通常在豆莢相接處",
+      "有酸味或發酵味"
+    ],
+    "tips": [
+      "買的時候折一根試試，應該要清脆折斷而不是彎曲",
+      "不清洗、裝打洞袋保存，煮之前再沖洗",
+      "冷凍前一定要汆燙，否則會變韌又褪色",
+      "蠶豆和毛豆保持帶莢，煮之前再剝"
+    ],
+    "faq": [
+      {"q": "四季豆放冰箱可以放多久？", "a": "不清洗、裝在打洞袋裡收在蔬果保鮮室，放 4°C 以下，從購買日起 3～5 天。"},
+      {"q": "四季豆可以冷凍嗎？", "a": "可以，但要先汆燙 2～3 分鐘，再冰鎮、擦乾後冷凍。放 −18°C，從購買日起約可保存 8 個月。"},
+      {"q": "豆莢保存前要先洗嗎？", "a": "不用。豆莢上的水分會助長黴菌和黏滑。乾燥不清洗地保存，煮之前再沖洗就好。"}
+    ]
+  },
+  "ja": {
+    "name": "さやいんげん・豆類（生）",
+    "aliases": ["さやいんげん", "そら豆", "ライマメ", "枝豆", "さやえんどう", "スナップえんどう"],
+    "summary": "さやいんげん、そら豆、ライマメ、枝豆、さやえんどう、スナップえんどうなどの生の豆類は糖分が多く、収穫後すぐにでんぷんへ変わってしまいます。冷蔵なら購入日から3〜5日、下ゆでして冷凍すれば約8か月保存できます。",
+    "pantry": "生の豆類を常温に置いてはいけません。暖かい台所では1日でさやがしなび、糖がでんぷんに変わって味がぼやけます。買ったらすぐ冷蔵庫へ。そら豆や枝豆は、調理する直前までさやから出さないでおきましょう。",
+    "fridge": "洗わずに穴あき袋へ入れ、4℃以下の野菜室で保存すれば購入日から3〜5日持ちます。湿度は必要ですが表面が濡れているのはよくないので、保存前に洗わないでください。むいた豆はさやつきより早く劣化するため、調理まで丸のままで。",
+    "freezer": "−18℃の冷凍なら購入日から約8か月保存できますが、必ず下ゆでを。2〜3分（厚みのある豆はもう少し長く）ゆで、氷水に取り、水気を切ってしっかり拭き、バットで凍らせてから袋へ。下ゆでせずに冷凍すると数週間で硬くなり、異臭が出ます。",
+    "thawing": "冷凍した豆は解凍せずそのまま調理を。解凍するとぐったりします。熱湯、フライパン、煮込み中の鍋に直接入れましょう。",
+    "spoilage": [
+      "さやがしなびてゴムのようになり、折れずに曲がる",
+      "さやに茶色い部分、ぬめり、水っぽい部分がある",
+      "袋の中、とくにさやが触れ合う部分にカビ",
+      "酸っぱいにおいや発酵臭がする"
+    ],
+    "tips": [
+      "買うときに1本折ってみましょう。パキッと折れるものが新鮮です",
+      "洗わず穴あき袋で保存し、調理直前にすすぎましょう",
+      "冷凍前は必ず下ゆでを。しないと硬くなり色も悪くなります",
+      "そら豆や枝豆は調理までさやつきのままで"
+    ],
+    "faq": [
+      {"q": "さやいんげんは冷蔵庫でどのくらい持ちますか？", "a": "洗わず穴あき袋に入れて野菜室に置き、4℃以下で購入日から3〜5日です。"},
+      {"q": "さやいんげんは冷凍できますか？", "a": "できますが、まず2〜3分下ゆでし、氷水で冷やして拭いてから冷凍を。−18℃で購入日から約8か月です。"},
+      {"q": "豆類は保存前に洗うべきですか？", "a": "いいえ。さやの水分がカビやぬめりを招きます。乾いたまま洗わずに保存し、調理直前にすすぎましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Judías y guisantes frescos",
+    "aliases": ["judías verdes", "habas", "frijoles de lima", "edamame", "tirabeques", "vainitas"],
+    "summary": "Las vainas y legumbres frescas —judías verdes, habas, frijoles de lima, edamame, judías amarillas y tirabeques— tienen mucho azúcar que se convierte en almidón poco después de la recolección. Refrigeradas duran 3–5 días desde la compra, y escaldadas y congeladas alrededor de 8 meses.",
+    "pantry": "Las judías y guisantes frescos no deben guardarse a temperatura ambiente. En una cocina cálida las vainas se marchitan, los azúcares se vuelven almidón y el sabor se apaga en un día. Llévalos a casa y refrigéralos pronto, y desgrana habas y edamame solo cuando vayas a cocinarlos.",
+    "fridge": "Guárdalos sin lavar en una bolsa perforada en el cajón de verduras a 4 °C (40 °F) o menos, donde duran 3–5 días desde la compra. Necesitan humedad pero no superficies mojadas, así que no los enjuagues antes de guardarlos. Las legumbres desgranadas se deterioran antes que las que siguen en la vaina.",
+    "freezer": "Se congelan alrededor de 8 meses desde la compra a −18 °C (0 °F), pero hay que escaldarlas antes: hiérvelas 2–3 minutos (algo más las gruesas), pásalas a agua helada, escúrrelas y sécalas bien, congélalas en bandeja y embólsalas. Sin escaldar se endurecen y cogen sabores extraños en semanas.",
+    "thawing": "Cocina las judías y guisantes congelados directamente: descongelarlos los deja flácidos. Échalos al agua hirviendo, a la sartén caliente o a un guiso a fuego lento.",
+    "spoilage": [
+      "Vainas flácidas y correosas que se doblan en vez de quebrarse",
+      "Manchas pardas, viscosas o aguadas en las vainas",
+      "Moho en la bolsa, normalmente donde las vainas se tocan",
+      "Olor agrio o fermentado"
+    ],
+    "tips": [
+      "Quiebra una judía al comprarla: debe partirse en seco, no doblarse",
+      "Guárdalas sin lavar en bolsa perforada y enjuágalas justo antes de cocinar",
+      "Escáldalas antes de congelar o las vainas se endurecen y pierden color",
+      "Mantén habas y edamame en la vaina hasta el momento de cocinarlos"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las judías verdes en la nevera?", "a": "3–5 días desde la compra a 4 °C (40 °F) o menos, sin lavar y en bolsa perforada en el cajón de verduras."},
+      {"q": "¿Se pueden congelar las judías verdes?", "a": "Sí, pero escáldalas 2–3 minutos primero, enfríalas en agua helada, sécalas y congélalas. Duran alrededor de 8 meses desde la compra a −18 °C (0 °F)."},
+      {"q": "¿Hay que lavar las judías antes de guardarlas?", "a": "No. El agua en las vainas favorece el moho y la viscosidad. Guárdalas secas y sin lavar y enjuágalas justo antes de cocinarlas."}
+    ]
+  }
+}

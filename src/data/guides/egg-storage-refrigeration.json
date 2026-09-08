@@ -1,0 +1,273 @@
+{
+  "slug": "egg-storage-refrigeration",
+  "category": "fridge",
+  "updated": "2026-09-08",
+  "en": {
+    "title": "Do Eggs Need Refrigerating? Storage, the Float Test, Freezing",
+    "description": "Washed eggs must stay cold; unwashed European eggs need not. Why not to wash them, how long they keep, what the float test really shows.",
+    "intro": "Whether eggs need a fridge depends on what happened to them before you bought them. Where eggs are washed and graded before sale — the United States, Japan, Taiwan — the protective cuticle is disturbed and refrigeration is required from then on. In much of Europe, eggs are not washed and come from vaccinated flocks, so they are sold at room temperature; the UK advice is to store them \"in a cool, dry place, ideally keep refrigerated until use\". Either way, a fridge extends their life, and once cold they should stay cold.",
+    "sections": [
+      {
+        "heading": "The cuticle, and why washing changes everything",
+        "body": "A freshly laid egg is coated in a thin protective layer. Hong Kong's Centre for Food Safety describes it as \"an outer layer of protection called cuticle that can help to retard the penetration of bacteria on egg shells\". The shell itself is porous — thousands of tiny pores — so that layer is doing real work.\n\nWashing removes or damages it. CFS: \"Improper washing may damage the cuticle\", and \"water left on shell surface may also enhance the survival of microorganisms on egg shells\".\n\nTwo regulatory systems grew from that fact.\n\n- **Wash-and-refrigerate** (US, Japan, Taiwan, and others): eggs are washed and sanitised at the packing station, which removes surface contamination but also the cuticle, so eggs must be kept refrigerated from packing to kitchen. The US FDA instruction is to \"store promptly in a clean refrigerator at a temperature of 40° F or below\".\n- **Don't-wash, vaccinate instead** (most of the EU and the UK): eggs are not washed, the cuticle stays intact, and *Salmonella* is controlled in the flock. The Food Standards Agency considers eggs produced under the British Lion code to \"present a very low risk of Salmonella\".\n\nNeither system is wrong. The mistake is mixing them up."
+      },
+      {
+        "heading": "So should you refrigerate yours?",
+        "body": "Practical answer, by where you shop.\n\n- **If eggs were refrigerated in the shop, refrigerate them at home.** This is the important rule. A cold egg brought into a warm kitchen sweats, and that condensation on a porous shell is exactly what you do not want. Do not move eggs back and forth between the counter and the fridge.\n- **If they were sold at room temperature** (typical in Europe), you can keep them in a cool cupboard away from heat and strong smells. The UK guidance is \"store eggs in a cool, dry place, ideally keep refrigerated until use\". Refrigerating still buys you weeks of extra life.\n- **In a hot or humid climate** — a Taiwanese or Japanese summer — refrigerate, regardless of how they were sold.\n\nWherever they go, keep [[food:eggs-shell|shell eggs]] in their original carton rather than a moulded rack. The carton buffers temperature changes, stops the shells absorbing odours from the fridge, and carries the date. And keep them on a shelf, not in the door, which is the warmest and least stable part of the cabinet — see [[guide:fridge-organization-what-goes-where|fridge organisation]]."
+      },
+      {
+        "heading": "How long eggs keep, and what the dates mean",
+        "body": "Refrigerated shell eggs keep about **3–5 weeks** from purchase according to the USDA FoodKeeper data, and the US FDA advises using them \"within 3 weeks for best quality\". They do not spoil dramatically; they slowly lose moisture and carbon dioxide, the white thins and the air cell grows.\n\nDate labels differ by country in a way worth knowing:\n\n- **EU/UK**: a **best before** date, set at 28 days from lay. Eggs are usually fine for cooking after it, though they should not be eaten raw or lightly cooked past that point; the UK catering guidance is not to use eggs beyond their best before date.\n- **Japan**: the 賞味期限 is specifically the limit for eating the egg **raw**. Japan's Ministry of Agriculture, Forestry and Fisheries explains that it indicates the period during which raw consumption is possible, currently a maximum of 21 days including seven days of home refrigeration — and that after the date, if the egg looks normal when cracked, it can still be eaten when heated thoroughly so the food reaches 70 °C.\n- **US/Taiwan**: a pack or sell-by date, with quality guidance of three to five weeks in the fridge.\n\nMore on the general logic in [[guide:food-date-labels-explained|food date labels explained]]."
+      },
+      {
+        "heading": "Do not wash eggs at home — and store them pointed end down",
+        "body": "This is the most common well-intentioned mistake. CFS is explicit: \"Shell eggs need not be washed as any process that wets the shell may facilitate the entry of microorganisms.\" Washing pushes contamination through the pores and strips whatever cuticle is left. The Spanish agency AESAN takes the same line: washing is not recommended, and if an egg is very dirty and you wash it, do so immediately before use, not before storage.\n\nIf an egg is visibly soiled, wipe it dry with a cloth or kitchen paper, or cook it thoroughly and use it soon. Do not keep cracked or leaking eggs — UK guidance is not to use eggs that are \"cracked, damaged or dirty\".\n\nOn orientation: store eggs **pointed end down**. Japan's MAFF notes that placing the hard, pointed end downwards makes eggs less likely to crack; it also keeps the air cell at the top and the yolk centred, which keeps the egg fresher-looking for longer. Cartons are already designed this way, which is another reason to keep them.\n\nAnd MAFF adds a related warning: if water droplets form on the shell, microorganisms can enter through them and spoil the egg — another argument against washing and against repeated warm-cold cycling."
+      },
+      {
+        "heading": "The float test: what it actually tells you",
+        "body": "Put an egg in a bowl of water. It sinks and lies flat; it sinks and stands on end; or it floats.\n\nWhat is really being measured is the size of the air cell. An eggshell is porous, so over weeks moisture evaporates out and air moves in, the air cell grows, and the egg becomes more buoyant. So the float test is a reasonable **age** indicator:\n\n- **Lies flat on the bottom** — young.\n- **Stands upright but stays down** — older, still fine; ideal for hard-boiling because it peels more easily.\n- **Floats** — old, or stored somewhere warm.\n\nWhat it is **not** is a safety test. A *Salmonella*-contaminated egg can sit flat on the bottom of the bowl, and a floating egg is often merely stale rather than dangerous. Nor does the test detect an egg that has been mishandled for a day at 30 °C.\n\nThe reliable check is to crack the egg into a separate small bowl. An off smell — sulphurous, sour, or simply wrong — means bin it, and that judgement beats any float. A cloudy white is a sign of freshness, not spoilage; a pinkish or iridescent white is not."
+      },
+      {
+        "heading": "Freezing eggs, and storing cooked ones",
+        "body": "Never freeze eggs in the shell: the contents expand and crack it. Out of the shell, they freeze well — the FoodKeeper data gives **12 months** for [[food:eggs-raw-whites-yolks|raw whites and yolks]] in the freezer, against 2–4 days in the fridge.\n\nHow to do it:\n\n- **Whites**: freeze as they are, one per ice-cube compartment, then bag the cubes. They whip almost as well after thawing.\n- **Yolks** gel in the freezer and turn gluey. Beat in about ⅛ teaspoon of salt or 1½ teaspoons of sugar per four yolks before freezing, and label which you used.\n- **Whole eggs**: beat lightly until just blended, then freeze in portions. Note how many eggs are in each container.\n- Thaw in the fridge, not on the counter, and use promptly. General packaging advice is in [[guide:how-to-freeze-food|how to freeze food properly]].\n\nCooked eggs are more perishable than raw ones. [[food:eggs-hard-boiled-cooked|Hard-boiled eggs]] keep about a week refrigerated and do not freeze well — the whites go rubbery. [[food:egg-dishes|Cooked egg dishes]] such as quiche or a frittata behave like any other leftover: cool quickly, refrigerate within two hours, eat within three to four days."
+      }
+    ],
+    "keyTakeaways": [
+      "If eggs were sold cold, keep them cold; if sold at room temperature, a cool cupboard is fine but the fridge is better.",
+      "Do not wash eggs at home — it damages the cuticle and pushes bacteria through the shell's pores.",
+      "Refrigerated shell eggs keep about 3–5 weeks; store them in the carton on a shelf, pointed end down.",
+      "The float test measures the air cell, so it shows age, not safety. Crack and smell instead.",
+      "Freeze eggs only out of the shell, up to about 12 months; beat salt or sugar into yolks first."
+    ],
+    "faq": [
+      {
+        "q": "Do eggs need to be refrigerated?",
+        "a": "It depends on the country. Where eggs are washed before sale — the US, Japan, Taiwan — the cuticle is disturbed and they must be refrigerated. Where they are unwashed and flocks are vaccinated, as in most of Europe, room temperature is acceptable, though the fridge extends their life considerably."
+      },
+      {
+        "q": "Why shouldn't you wash eggs before storing them?",
+        "a": "Hong Kong's Centre for Food Safety states that shell eggs need not be washed, because wetting the shell can help microorganisms get in. Washing also damages the cuticle, the natural coating that slows bacteria from penetrating the porous shell. Wipe a dirty egg dry instead."
+      },
+      {
+        "q": "How long do eggs last in the fridge?",
+        "a": "About three to five weeks from purchase, per USDA FoodKeeper data; the FDA suggests using them within three weeks for best quality. Keep them in the original carton on a middle shelf rather than in the door, where the temperature swings the most."
+      },
+      {
+        "q": "Does the float test tell you if an egg is bad?",
+        "a": "No — it tells you how old an egg is. As an egg ages, moisture evaporates through the porous shell and the air cell grows, so it becomes buoyant. A floating egg is usually stale, and a sunken egg can still be contaminated. Crack it into a bowl and smell it."
+      },
+      {
+        "q": "Can you freeze eggs?",
+        "a": "Not in the shell, which cracks as the contents expand. Out of the shell they freeze for around 12 months. Whites freeze as they are; yolks need about ⅛ teaspoon of salt or 1½ teaspoons of sugar per four yolks to stop them turning gluey. Thaw in the fridge."
+      }
+    ],
+    "sources": [
+      { "name": "US FDA – What You Need to Know About Egg Safety", "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety" },
+      { "name": "UK Government – Advice on safe storage, handling and use of eggs for catering", "url": "https://www.gov.uk/guidance/advice-on-safe-storage-handling-and-use-of-eggs-for-catering" },
+      { "name": "Hong Kong CFS – Bacteria on Eggs: Should Eggs be Washed?", "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_29_01.html" },
+      { "name": "Hong Kong CFS – Food safety of eggs and egg products", "url": "https://www.cfs.gov.hk/english/whatsnew/whatsnew_fst/whatsnew_fst_Food_safety_of_eggs_and_eggs_products.html" },
+      { "name": "Japan MAFF – Egg Q&A (storage and the raw-consumption date)", "url": "https://www.maff.go.jp/j/pr/aff/2404/spe1_01.html" }
+    ]
+  },
+  "zh": {
+    "title": "雞蛋一定要冷藏嗎？保存期限、浮水測試與冷凍",
+    "description": "洗選蛋必須全程冷藏，歐洲未洗選蛋則不必。為什麼不要自己洗蛋、冷藏可以放多久、浮水測試到底測出什麼。",
+    "intro": "雞蛋要不要冷藏，取決於它在你買到之前經歷了什麼。在販售前會清洗、洗選分級的地方——美國、日本、台灣——蛋殼外層的保護膜（角質層）已經被破壞，之後就必須全程冷藏。歐洲多數國家的蛋不洗選、雞群有施打疫苗，所以是常溫販售。無論哪一種，冷藏都能延長保存期；而且一旦冷了，就要一直保持冷藏。",
+    "sections": [
+      {
+        "heading": "角質層：為什麼「有沒有洗過」決定一切",
+        "body": "剛生下的蛋，殼外覆著一層薄薄的保護膜。香港食物安全中心稱之為「角質層」，可以延緩細菌穿透蛋殼。蛋殼本身是多孔的——上千個細小氣孔——所以這層膜是真的在工作。\n\n清洗會把它洗掉或弄壞。食安中心指出：不當清洗可能破壞角質層；殘留在蛋殼表面的水分也可能讓微生物更容易存活。\n\n世界上因此長出兩套制度：\n\n- **先洗選、後冷藏**（美國、日本、台灣等）：蛋在包裝場清洗消毒，去掉表面污染，但也去掉角質層，所以從包裝到廚房都必須維持冷藏。美國 FDA 的指示是「儘快存放在乾淨的冰箱中，溫度維持在 40°F（約 4℃）以下」。\n- **不洗、改在雞群打疫苗**（歐盟與英國多數）：蛋不清洗、角質層完整，沙門氏菌在雞群端控制。英國食品標準局認為符合 British Lion 規範的蛋「沙門氏菌風險非常低」。\n\n兩套制度都沒有錯，錯的是把它們混在一起用。"
+      },
+      {
+        "heading": "所以你家的蛋要不要冰？",
+        "body": "台灣市售雞蛋以洗選蛋為主，答案很單純：**要冷藏**。而且台灣夏天室溫常在 30℃ 以上，衛福部食藥署把 7～60℃ 定義為危險溫度帶，蛋放在流理台上就落在裡面。\n\n幾個實務原則：\n\n- **在店裡是冷藏的，回家就要冷藏。** 這條最重要。冷的蛋拿到溫暖廚房會「出汗」，凝結在多孔蛋殼上的水正是最不想要的東西。不要讓蛋在室溫和冰箱之間來回。\n- **在店裡是常溫的**（歐洲常見），可以放陰涼、遠離熱源與異味的櫃子；但冷藏仍能多爭取好幾週。\n- **濕熱氣候**（台灣、日本的夏天）一律冷藏。\n\n[[food:eggs-shell|帶殼雞蛋]]請連原本的紙盒／蛋盒一起放，不要拆到冰箱門上的蛋架。紙盒可以緩衝溫度變化、避免蛋吸到冰箱異味，上面還有日期。而且要放在層板上，不要放門邊——那是冰箱裡最溫暖、最不穩定的位置，詳見[[guide:fridge-organization-what-goes-where|冰箱怎麼擺]]。"
+      },
+      {
+        "heading": "可以放多久、日期怎麼看",
+        "body": "依美國農業部 FoodKeeper 資料，冷藏帶殼蛋自購買日起大約可放 **3～5 週**；美國 FDA 建議「三週內用完品質最好」。蛋不會突然壞掉，而是慢慢失去水分與二氧化碳，蛋白變稀、氣室變大。\n\n各地的日期標示邏輯不太一樣，值得知道：\n\n- **台灣**：包裝蛋標示有效日期，冷藏販售、冷藏保存是前提。\n- **歐盟／英國**：標示「最佳賞味期（best before）」，通常是產蛋後 28 天。過期後仍可煮熟食用，但不建議再生食或半熟食用。\n- **日本**：賞味期限指的是「可以生食的期限」，農林水產省說明現行最長 21 天（含家庭冷藏 7 天）；超過之後，只要打開來看起來正常，加熱到中心 70℃ 仍可食用。\n\n這套邏輯的整體說明請見[[guide:food-date-labels-explained|食品日期標示怎麼看]]。"
+      },
+      {
+        "heading": "不要自己洗蛋，而且尖端朝下放",
+        "body": "這是最常見的好意錯誤。香港食物安全中心講得很明白：帶殼蛋不需要清洗，因為任何弄濕蛋殼的動作都可能讓微生物更容易進入。清洗會把污染推進氣孔，也會把僅存的角質層洗掉。西班牙食品安全局 AESAN 的立場相同：不建議清洗；如果蛋真的很髒非洗不可，也要在「馬上要用」的時候洗，而不是洗完再存放。\n\n蛋殼髒了，用乾布或廚房紙巾擦乾淨即可，或是徹底煮熟後盡快吃掉。破裂或滲漏的蛋不要留——英國的建議是不要使用破裂、受損或髒污的蛋。\n\n擺放方向：**尖端朝下**。日本農林水產省指出，把比較硬的尖端朝下放，比較不容易破；同時也讓氣室留在上方、蛋黃維持在中央，看起來更新鮮。市售蛋盒本來就是這樣設計的，這也是留著蛋盒的理由之一。\n\n農林水產省還提醒一件相關的事：蛋殼表面若出現水珠，微生物可能由此侵入導致腐敗——這既是不該洗蛋的理由，也是不該讓蛋反覆冷熱來回的理由。"
+      },
+      {
+        "heading": "浮水測試：它其實在測什麼",
+        "body": "把蛋放進一碗水裡。它可能平躺沉底、可能直立沉著、也可能浮起來。\n\n真正被測到的是「氣室大小」。蛋殼多孔，幾週之間水分蒸散出去、空氣進來，氣室變大，浮力就增加。所以浮水測試是個還不錯的**新鮮度／年齡**指標：\n\n- **平躺沉底**——很新鮮。\n- **直立但仍沉著**——放比較久了，還可以吃；拿來做水煮蛋反而更好剝殼。\n- **浮起來**——老了，或是曾放在溫暖的地方。\n\n但它**不是**安全測試。被沙門氏菌污染的蛋一樣可以平躺沉底；浮起來的蛋多半只是不新鮮，不代表有毒。它也測不出一顆在 30℃ 放了一天的蛋。\n\n可靠的做法是把蛋打進另一個小碗裡。有硫磺味、酸味，或就是聞起來不對，就丟掉——這個判斷比任何浮沉都準。蛋白混濁其實是新鮮的表現，不是壞掉；粉紅色或帶虹彩的蛋白才是問題。"
+      },
+      {
+        "heading": "冷凍雞蛋，以及熟蛋的保存",
+        "body": "**絕對不要連殼冷凍**：內容物膨脹會把殼撐裂。去殼之後冷凍效果很好——FoodKeeper 資料給[[food:eggs-raw-whites-yolks|生蛋白與蛋黃]]冷凍 **12 個月**，冷藏則只有 2～4 天。\n\n做法：\n\n- **蛋白**：直接冷凍，一格製冰盒放一顆的量，凍硬後裝袋。解凍後打發的效果幾乎不受影響。\n- **蛋黃**冷凍後會膠化變黏。每 4 顆蛋黃先拌入約 1/8 小匙鹽或 1.5 小匙糖再冷凍，並在標籤上寫清楚加的是哪一種。\n- **全蛋**：稍微打散到均勻即可，分份冷凍，記下每盒有幾顆。\n- 解凍要放冷藏、不要放室溫，解凍後盡快用完。包裝原則請見[[guide:how-to-freeze-food|正確的冷凍方法]]。\n\n熟蛋比生蛋更容易壞。[[food:eggs-hard-boiled-cooked|水煮蛋]]冷藏大約一週，不適合冷凍（蛋白會變得像橡膠）。[[food:egg-dishes|蛋料理]]如鹹派、烘蛋，就當一般剩菜處理：快速降溫、兩小時內冷藏、3～4 天內吃完。"
+      }
+    ],
+    "keyTakeaways": [
+      "店裡冷藏販售的蛋（台灣的洗選蛋）回家一定要冷藏，不要在室溫與冰箱之間來回。",
+      "不要自己洗蛋：會破壞角質層，並把細菌推進蛋殼氣孔。",
+      "冷藏帶殼蛋約可放 3～5 週；連盒放層板上，尖端朝下。",
+      "浮水測試量的是氣室大小，反映的是新鮮度而非安全性；打開聞比較準。",
+      "冷凍一定要去殼，約可放 12 個月；蛋黃要先拌鹽或糖。"
+    ],
+    "faq": [
+      {
+        "q": "台灣買的雞蛋一定要冰嗎？",
+        "a": "要。台灣市售以洗選蛋為主，清洗過程會影響蛋殼的角質層，之後就需要全程冷藏。加上台灣夏天室溫常超過 30℃，放在流理台上等於落在食藥署定義的 7～60℃ 危險溫度帶內。"
+      },
+      {
+        "q": "為什麼不能先把蛋洗乾淨再放冰箱？",
+        "a": "香港食物安全中心指出，帶殼蛋不需要清洗，因為弄濕蛋殼反而可能幫助微生物進入。清洗也會破壞角質層這層天然保護。蛋殼髒了就用乾布或紙巾擦，或煮熟後盡快吃掉。"
+      },
+      {
+        "q": "雞蛋冷藏可以放多久？",
+        "a": "依美國農業部 FoodKeeper 資料，自購買起約 3～5 週；美國 FDA 建議三週內用完品質最好。請連原盒放在中層層板，不要放冰箱門，門邊溫度變化最大。"
+      },
+      {
+        "q": "浮水測試可以判斷蛋壞了沒？",
+        "a": "不行，它判斷的是蛋放多久了。蛋隨時間從氣孔散失水分、氣室變大而浮力增加。浮起來通常只是不新鮮；沉底的蛋也可能受沙門氏菌污染。要判斷該不該吃，請打進小碗聞味道。"
+      },
+      {
+        "q": "雞蛋可以冷凍嗎？",
+        "a": "不能連殼冷凍，內容物膨脹會把殼撐破。去殼後可冷凍約 12 個月。蛋白直接冷凍即可；蛋黃每 4 顆要先拌入約 1/8 小匙鹽或 1.5 小匙糖，否則會膠化變黏。解凍請放冷藏。"
+      }
+    ],
+    "sources": [
+      { "name": "香港食物安全中心－蛋殼上的細菌：雞蛋需要清洗嗎？", "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_29_01.html" },
+      { "name": "香港食物安全中心－蛋與蛋製品的食品安全", "url": "https://www.cfs.gov.hk/english/whatsnew/whatsnew_fst/whatsnew_fst_Food_safety_of_eggs_and_eggs_products.html" },
+      { "name": "美國食品藥物管理局－關於雞蛋安全你該知道的事", "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety" },
+      { "name": "衛生福利部食品藥物管理署－食品保存與危險溫度帶", "url": "https://www.fda.gov.tw/TC/sitecontent.aspx?sid=2572" },
+      { "name": "日本農林水產省－雞蛋 Q&A（保存與賞味期限）", "url": "https://www.maff.go.jp/j/pr/aff/2404/spe1_01.html" }
+    ]
+  },
+  "ja": {
+    "title": "卵は冷蔵すべき？保存期間・尖った方を下・浮く卵の話",
+    "description": "洗卵する国では冷蔵が必須、欧州の未洗卵は常温流通。家で洗ってはいけない理由、保存期間、浮沈テストで分かること。",
+    "intro": "卵に冷蔵が要るかどうかは、買う前にその卵が何をされたかで決まります。日本・米国・台湾のように販売前に洗卵する国では、殻を覆うクチクラ（保護膜）が損なわれるため、以後は冷蔵が前提になります。欧州の多くでは洗わず、ワクチン接種した鶏群で管理するため常温で売られます。いずれにせよ冷蔵は日持ちを延ばし、一度冷やしたら冷やし続けるのが原則です。農林水産省も「家庭では温度が一定な冷蔵庫で保存してください」としています。",
+    "sections": [
+      {
+        "heading": "クチクラ層と、洗うことの意味",
+        "body": "産みたての卵の殻は薄い保護層に覆われています。香港食物安全センターはこれを「クチクラ」と呼び、殻表面の細菌が内部へ入るのを遅らせると説明します。殻自体は多孔質で、無数の気孔があるため、この層は実際に働いています。\n\n洗うとこれが落ちるか傷みます。同センターは、不適切な洗浄はクチクラを損なうこと、殻表面に残った水は微生物の生存を助けうることを指摘しています。\n\nここから二つの制度が生まれました。\n\n- **洗卵して冷蔵**（日本、米国、台湾など）：GPセンターで洗浄・殺菌し、表面の汚染を除く代わりにクチクラも失われるため、包装から台所まで冷蔵が前提になります。米FDAは「40°F（約4℃）以下の清潔な冷蔵庫にすみやかに保管」するよう指示しています。\n- **洗わずワクチンで管理**（EU・英国の多く）：洗わないのでクチクラが残り、サルモネラは鶏群段階で抑えます。英国食品基準庁は、ブリティッシュ・ライオン規格の卵は「サルモネラのリスクが非常に低い」としています。\n\nどちらの制度も誤りではありません。まずいのは、二つを混ぜることです。"
+      },
+      {
+        "heading": "では家ではどうするか",
+        "body": "日本の市販卵は洗卵されているので、答えは単純です——**冷蔵**。農林水産省も、家庭では温度が一定な冷蔵庫での保存を勧めています（室温保存も可能ですが、夏は劣化が早いとしています）。\n\n実務上のポイント：\n\n- **店で冷蔵されていたものは、家でも冷蔵。** 冷たい卵を暖かい台所に出すと結露します。多孔質の殻に水滴がつくのは、いちばん避けたい状態です。常温と冷蔵を行き来させないでください。\n- **常温で売られていた卵**（欧州で一般的）は、熱源とにおいの強いものを避けた涼しい戸棚で構いません。ただし冷蔵にすれば日持ちは大きく延びます。\n- **高温多湿の夏**は、売られ方にかかわらず冷蔵にします。\n\n[[food:eggs-shell|殻付き卵]]はドアポケットの卵ケースではなく、**買ったパックのまま棚に**置きます。パックは温度変化を和らげ、においの移りを防ぎ、日付も書いてあります。ドアは庫内で最も温度が高く不安定です（[[guide:fridge-organization-what-goes-where|冷蔵庫の収納]]）。"
+      },
+      {
+        "heading": "どのくらいもつか、日付の意味",
+        "body": "米農務省FoodKeeperのデータでは、冷蔵した殻付き卵は購入から約 **3〜5週間**。米FDAは「品質のためには3週間以内」としています。卵は突然傷むというより、水分と二酸化炭素を少しずつ失い、白身が水っぽくなり気室が大きくなります。\n\n日付表示の考え方は国で異なります。\n\n- **日本**：賞味期限は「生食できる期限」を示すもの。農林水産省は現行で最長21日（家庭での冷蔵7日間を含む）と説明し、期限を過ぎても、割った状態に問題がなければ、食品全体が70℃に達するよう十分加熱すれば食べられるとしています。\n- **EU・英国**：産卵から28日の賞味期限。過ぎたら生食・半熟は避け、加熱調理に回します。\n- **米国・台湾**：パック日や販売期限に、冷蔵で3〜5週間という品質目安が添えられます。\n\n表示全般の考え方は[[guide:food-date-labels-explained|消費期限と賞味期限の違い]]に。"
+      },
+      {
+        "heading": "家で洗わない。そして尖った方を下に",
+        "body": "善意でやってしまいがちな失敗の筆頭です。香港食物安全センターは、殻付き卵を洗う必要はない、殻をぬらす行為はかえって微生物の侵入を助けうる、と明言しています。スペインのAESANも同様で、洗浄は推奨せず、どうしても汚れがひどい場合は保存前ではなく「使う直前」に洗うよう求めています。\n\n汚れが目立つ卵は、布やキッチンペーパーで乾いたまま拭き取り、早めに十分加熱して使います。ひび割れや漏れのある卵は使いません。\n\n置き方は**尖った方を下**。農林水産省は、殻が固い尖ったほうを下にすると割れにくくなると説明しています。気室が上に残り、黄身が中央に保たれるという利点もあります。市販パックはもともとこの向きに設計されています。\n\n同省はもう一点、殻の表面に水滴がつくとそこから微生物が侵入して腐敗につながる、と注意しています。これは「洗わない」理由でもあり、「冷蔵と常温を行き来させない」理由でもあります。"
+      },
+      {
+        "heading": "水に浮くかどうかで何が分かるのか",
+        "body": "ボウルの水に卵を入れると、横になって沈む・立って沈む・浮く、のいずれかになります。\n\n実際に測っているのは**気室の大きさ**です。多孔質の殻から水分が抜け空気が入ることで気室が育ち、浮力が増します。つまりこれは**古さ**の指標としてはそこそこ妥当です。\n\n- **底で横になる**——新しい。\n- **立つが沈んでいる**——やや古い。まだ問題なく、ゆで卵にすると殻がむきやすい。\n- **浮く**——古い、または暖かい場所に置かれていた。\n\nしかしこれは**安全性の検査ではありません**。サルモネラに汚染された卵でも底で横になりますし、浮く卵の多くは危険ではなく単に古いだけです。30℃で一日放置された卵も、この方法では分かりません。\n\n確実なのは、小さな器に割り入れてにおいを嗅ぐこと。硫黄臭や酸っぱいにおい、どこかおかしいと感じたら捨てます。白身が白く濁っているのは新鮮な証拠で、傷みではありません。ピンクがかった白身や虹色の光沢は別です。"
+      },
+      {
+        "heading": "卵の冷凍と、加熱済みの卵",
+        "body": "**殻のまま冷凍しない**こと。中身が膨張して割れます。殻から出せばよく凍り、FoodKeeperのデータでは[[food:eggs-raw-whites-yolks|生の卵白・卵黄]]は冷凍で **12か月**（冷蔵なら2〜4日）です。\n\nやり方：\n\n- **卵白**：そのまま製氷皿に1個分ずつ入れて凍らせ、袋にまとめます。解凍後の泡立ちもほぼ変わりません。\n- **卵黄**は凍るとゲル化して粘ります。卵黄4個につき塩約小さじ1/8、または砂糖小さじ1.5を混ぜてから凍らせ、どちらを入れたかラベルに書きます。\n- **全卵**：均一になる程度に軽く溶いて小分け冷凍。何個分かを書いておきます。\n- 解凍は常温ではなく冷蔵で行い、早めに使い切ります（[[guide:how-to-freeze-food|冷凍の基本]]）。\n\n加熱済みの卵は生卵より傷みやすいものです。[[food:eggs-hard-boiled-cooked|ゆで卵]]は冷蔵で約1週間、冷凍には向きません（白身がゴムのようになります）。[[food:egg-dishes|卵料理]]はほかの残り物と同じで、手早く冷まし、2時間以内に冷蔵し、3〜4日で食べ切ります。"
+      }
+    ],
+    "keyTakeaways": [
+      "日本の市販卵は洗卵済み。家庭では温度が一定な冷蔵庫で保存し、常温と行き来させない。",
+      "家で洗わない。クチクラを壊し、気孔から菌を押し込むことになる。",
+      "冷蔵の殻付き卵は約3〜5週間。パックのまま棚に、尖った方を下に置く。",
+      "浮沈テストで分かるのは気室の大きさ＝古さで、安全性ではない。",
+      "冷凍は必ず殻から出して。約12か月。卵黄は塩か砂糖を混ぜてから。"
+    ],
+    "faq": [
+      {
+        "q": "卵は冷蔵庫に入れるべきですか？",
+        "a": "日本の市販卵は洗卵されているため冷蔵が基本です。農林水産省も、家庭では温度が一定な冷蔵庫での保存を勧めています。室温保存も不可能ではありませんが、夏は劣化が早く、結露のリスクもあります。"
+      },
+      {
+        "q": "卵を洗ってから保存してはいけないのはなぜ？",
+        "a": "香港食物安全センターは、殻をぬらす行為が微生物の侵入を助けうるため、殻付き卵を洗う必要はないとしています。洗浄はクチクラという天然の保護層も損ないます。汚れは乾いた布で拭き取ってください。"
+      },
+      {
+        "q": "冷蔵した卵はどのくらいもちますか？",
+        "a": "米農務省FoodKeeperのデータで購入から約3〜5週間、米FDAは品質のため3週間以内を推奨しています。日本の賞味期限は「生食できる期限」で、最長21日（家庭の冷蔵7日を含む）です。"
+      },
+      {
+        "q": "水に浮く卵は傷んでいますか？",
+        "a": "浮くのは気室が大きくなった、つまり古いという意味で、傷みや汚染の証明ではありません。沈む卵が安全とも限りません。判断は、小さな器に割り入れてにおいと見た目を確かめるのが確実です。"
+      },
+      {
+        "q": "卵は冷凍できますか？",
+        "a": "殻のままは不可で、膨張して割れます。殻から出せば約12か月。卵白はそのまま、卵黄は4個につき塩小さじ1/8か砂糖小さじ1.5を混ぜてから凍らせるとゲル化を防げます。解凍は冷蔵庫で。"
+      }
+    ],
+    "sources": [
+      { "name": "農林水産省－たまごのヒミツQ&A（保存と賞味期限）", "url": "https://www.maff.go.jp/j/pr/aff/2404/spe1_01.html" },
+      { "name": "香港食物安全センター－卵の細菌：卵は洗うべきか", "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_29_01.html" },
+      { "name": "米FDA－卵の安全について知っておくべきこと", "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety" },
+      { "name": "英国政府－卵の安全な保管・取扱い・使用に関する助言", "url": "https://www.gov.uk/guidance/advice-on-safe-storage-handling-and-use-of-eggs-for-catering" },
+      { "name": "香港食物安全センター－卵と卵製品の食品安全", "url": "https://www.cfs.gov.hk/english/whatsnew/whatsnew_fst/whatsnew_fst_Food_safety_of_eggs_and_eggs_products.html" }
+    ]
+  },
+  "es": {
+    "title": "¿Hay que refrigerar los huevos? Conservación y prueba del agua",
+    "description": "Los huevos lavados exigen frío; los europeos sin lavar no. Por qué no lavarlos en casa, cuánto duran y qué indica realmente la prueba del agua.",
+    "intro": "Que un huevo necesite nevera depende de lo que le hicieron antes de venderlo. Donde se lavan y clasifican antes de la venta —Estados Unidos, Japón, Taiwán— la cutícula protectora queda alterada y a partir de ahí la refrigeración es obligatoria. En buena parte de Europa no se lavan y proceden de gallinas vacunadas, así que se venden a temperatura ambiente. En cualquier caso, el frío alarga su vida, y un huevo que ha estado frío debe seguir estándolo.",
+    "sections": [
+      {
+        "heading": "La cutícula y por qué lavar lo cambia todo",
+        "body": "Un huevo recién puesto lleva una fina capa protectora. El Centro de Seguridad Alimentaria de Hong Kong la describe como \"una capa externa de protección llamada cutícula, que ayuda a retardar la penetración de bacterias\". La cáscara es porosa —miles de poros diminutos—, así que esa capa hace un trabajo real.\n\nLavarla la elimina o la daña. El CFS señala que \"un lavado inadecuado puede dañar la cutícula\" y que \"el agua que queda en la superficie puede favorecer la supervivencia de microorganismos\".\n\nDe ese hecho nacieron dos sistemas.\n\n- **Lavar y refrigerar** (EE. UU., Japón, Taiwán): los huevos se lavan y desinfectan en el centro de embalaje, lo que elimina la contaminación superficial pero también la cutícula, de modo que deben mantenerse refrigerados hasta la cocina. La FDA indica \"guardarlos sin demora en una nevera limpia a 40 °F (4 °C) o menos\".\n- **No lavar y vacunar** (mayoría de la UE y Reino Unido): no se lavan, la cutícula permanece y la *Salmonella* se controla en la granja. La agencia británica considera que los huevos del código British Lion \"presentan un riesgo muy bajo de Salmonella\".\n\nNinguno de los dos sistemas está equivocado. El error es mezclarlos."
+      },
+      {
+        "heading": "Entonces, ¿los meto en la nevera?",
+        "body": "Respuesta práctica, según cómo los compres.\n\n- **Si estaban refrigerados en la tienda, refrigéralos en casa.** Esta es la regla que importa. Un huevo frío en una cocina templada suda, y esa condensación sobre una cáscara porosa es justo lo que no quieres. No los muevas de la encimera a la nevera y viceversa.\n- **Si se vendían a temperatura ambiente** (lo habitual en España), un armario fresco lejos del calor y de olores fuertes es válido. La guía británica lo formula así: \"guarda los huevos en un lugar fresco y seco, idealmente refrigerados hasta su uso\". El frío añade semanas de vida útil.\n- **En verano caluroso**, refrigéralos aunque los hayas comprado en el lineal ambiente.\n\nDondequiera que vayan, guarda los [[food:eggs-shell|huevos con cáscara]] en su envase original y no en la huevera moldeada de la puerta. El cartón amortigua los cambios de temperatura, evita que la cáscara absorba olores y lleva la fecha impresa. Y ponlos en una balda, no en la puerta, que es la zona más cálida e inestable: ver [[guide:fridge-organization-what-goes-where|cómo organizar la nevera]]."
+      },
+      {
+        "heading": "Cuánto duran y qué dicen las fechas",
+        "body": "Los huevos refrigerados aguantan unas **3–5 semanas** desde la compra según los datos FoodKeeper del USDA, y la FDA aconseja usarlos \"en 3 semanas para mejor calidad\". No se estropean de golpe: pierden humedad y dióxido de carbono poco a poco, la clara se afina y la cámara de aire crece.\n\nLas fechas funcionan distinto según el país:\n\n- **UE y España**: fecha de **consumo preferente**, fijada a 28 días desde la puesta. Después conviene no consumirlos crudos ni poco cocinados; la guía británica indica no usar huevos pasada esa fecha.\n- **Japón**: la fecha marca el límite para comer el huevo **crudo**. El Ministerio de Agricultura japonés explica que corresponde al periodo de consumo en crudo, hoy un máximo de 21 días incluidos 7 de refrigeración doméstica, y que después, si al cascarlo está normal, puede comerse calentándolo bien hasta 70 °C.\n- **EE. UU. y Taiwán**: fecha de envasado o de venta, con una orientación de calidad de tres a cinco semanas en frío.\n\nLa lógica general está en [[guide:food-date-labels-explained|las fechas de caducidad y consumo preferente]]."
+      },
+      {
+        "heading": "No laves los huevos en casa; guárdalos con la punta hacia abajo",
+        "body": "Es el error bienintencionado más común. El CFS es explícito: \"No es necesario lavar los huevos con cáscara, ya que cualquier proceso que moje la cáscara puede facilitar la entrada de microorganismos.\" Lavar empuja la contaminación por los poros y arranca la cutícula que quede. La AESAN mantiene la misma postura: el lavado no se recomienda, y si un huevo está muy sucio y decides lavarlo, hazlo justo antes de usarlo, no antes de guardarlo.\n\nSi un huevo está visiblemente sucio, límpialo en seco con un paño o papel de cocina, o cocínalo bien y úsalo pronto. No conserves huevos rotos o que rezuman: la guía británica pide no usar huevos \"agrietados, dañados o sucios\".\n\nSobre la orientación: guárdalos con la **punta hacia abajo**. El MAFF japonés señala que colocar hacia abajo el extremo duro y puntiagudo reduce la probabilidad de que se rompan; además mantiene la cámara de aire arriba y la yema centrada. Las hueveras de cartón ya están diseñadas así.\n\nEl mismo ministerio añade una advertencia relacionada: si se forman gotas de agua en la cáscara, los microorganismos pueden entrar por ahí y estropear el huevo."
+      },
+      {
+        "heading": "La prueba del agua: qué mide de verdad",
+        "body": "Mete un huevo en un bol con agua. Se hunde y se tumba; se hunde y se pone de pie; o flota.\n\nLo que en realidad se mide es el tamaño de la cámara de aire. La cáscara es porosa, así que con las semanas se evapora humedad y entra aire, la cámara crece y el huevo gana flotabilidad. Como indicador de **edad** es razonable:\n\n- **Tumbado en el fondo** — joven.\n- **De pie pero hundido** — más viejo, perfectamente utilizable; de hecho se pela mejor cocido.\n- **Flotando** — viejo, o guardado en un sitio cálido.\n\nLo que **no** es, es una prueba de seguridad. Un huevo contaminado con *Salmonella* puede quedarse tumbado en el fondo, y uno que flota suele estar simplemente rancio, no peligroso. Tampoco detecta un huevo que pasó un día a 30 °C.\n\nLa comprobación fiable es cascarlo en un bol aparte. Un olor raro —sulfuroso, agrio o sencillamente extraño— significa tirarlo, y ese juicio vale más que cualquier flotación. Una clara turbia indica frescura, no deterioro; una clara rosada o irisada, no."
+      },
+      {
+        "heading": "Congelar huevos y guardar los cocinados",
+        "body": "Nunca los congeles con cáscara: el contenido se expande y la parte. Fuera de la cáscara congelan bien: los datos FoodKeeper dan **12 meses** para [[food:eggs-raw-whites-yolks|claras y yemas crudas]] congeladas, frente a 2–4 días en la nevera.\n\nCómo hacerlo:\n\n- **Claras**: congélalas tal cual, una por hueco de cubitera, y luego embólsalas. Montan casi igual de bien tras descongelar.\n- **Yemas** gelifican en el congelador y quedan pegajosas. Bate ⅛ de cucharadita de sal o 1½ cucharaditas de azúcar por cada cuatro yemas antes de congelar, y anota cuál usaste.\n- **Huevos enteros**: bátelos apenas hasta homogeneizar y congela en raciones, indicando cuántos hay en cada bote.\n- Descongela en la nevera, no en la encimera, y úsalos pronto: ver [[guide:how-to-freeze-food|cómo congelar bien los alimentos]].\n\nLos huevos cocinados son más perecederos que los crudos. Los [[food:eggs-hard-boiled-cooked|huevos duros]] duran alrededor de una semana en frío y no se congelan bien: la clara queda gomosa. Los [[food:egg-dishes|platos de huevo]] como una quiche o una tortilla se tratan como cualquier sobra: enfriar rápido, refrigerar antes de dos horas y consumir en tres o cuatro días."
+      }
+    ],
+    "keyTakeaways": [
+      "Si se vendían fríos, mantenlos fríos; si se vendían a temperatura ambiente, un armario fresco vale, pero la nevera es mejor.",
+      "No laves los huevos en casa: daña la cutícula y empuja bacterias por los poros de la cáscara.",
+      "Refrigerados duran unas 3–5 semanas; guárdalos en su cartón, en una balda y con la punta hacia abajo.",
+      "La prueba del agua mide la cámara de aire: indica edad, no seguridad. Mejor cascar y oler.",
+      "Congélalos solo sin cáscara, hasta unos 12 meses; a las yemas, sal o azúcar antes."
+    ],
+    "faq": [
+      {
+        "q": "¿Hay que guardar los huevos en la nevera?",
+        "a": "Depende del país. Donde se lavan antes de venderlos —EE. UU., Japón, Taiwán— la cutícula queda alterada y deben refrigerarse. Donde no se lavan y las gallinas están vacunadas, como en buena parte de Europa, la temperatura ambiente es aceptable, aunque el frío alarga su vida."
+      },
+      {
+        "q": "¿Por qué no se deben lavar los huevos antes de guardarlos?",
+        "a": "El Centro de Seguridad Alimentaria de Hong Kong indica que no hace falta lavarlos, porque mojar la cáscara puede facilitar la entrada de microorganismos. Además el lavado daña la cutícula, la capa natural que frena a las bacterias. Límpialo en seco si está sucio."
+      },
+      {
+        "q": "¿Cuánto duran los huevos en la nevera?",
+        "a": "Unas tres a cinco semanas desde la compra, según los datos FoodKeeper del USDA; la FDA sugiere consumirlos en tres semanas para mejor calidad. Guárdalos en su envase original en una balda intermedia y no en la puerta, donde más oscila la temperatura."
+      },
+      {
+        "q": "¿La prueba del agua dice si un huevo está malo?",
+        "a": "No: dice cuántas semanas tiene. Al envejecer, la humedad se evapora por los poros y la cámara de aire crece, así que gana flotabilidad. Un huevo que flota suele estar viejo, y uno que se hunde puede estar contaminado igualmente. Cáscalo en un bol y huélelo."
+      },
+      {
+        "q": "¿Se pueden congelar los huevos?",
+        "a": "Con cáscara no: se agrieta al expandirse el contenido. Sin cáscara se conservan unos 12 meses. Las claras se congelan tal cual; las yemas necesitan ⅛ de cucharadita de sal o 1½ de azúcar por cada cuatro para no gelificar. Descongela siempre en la nevera."
+      }
+    ],
+    "sources": [
+      { "name": "FDA de EE. UU. – Lo que hay que saber sobre la seguridad de los huevos", "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety" },
+      { "name": "Gobierno del Reino Unido – Consejos sobre almacenamiento, manipulación y uso seguro de los huevos", "url": "https://www.gov.uk/guidance/advice-on-safe-storage-handling-and-use-of-eggs-for-catering" },
+      { "name": "Centro de Seguridad Alimentaria de Hong Kong – ¿Deben lavarse los huevos?", "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_29_01.html" },
+      { "name": "AESAN – Higiene de los alimentos", "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos" },
+      { "name": "Ministerio de Agricultura de Japón (MAFF) – Preguntas frecuentes sobre el huevo", "url": "https://www.maff.go.jp/j/pr/aff/2404/spe1_01.html" }
+    ]
+  }
+}

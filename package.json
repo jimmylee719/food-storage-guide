@@ -4,11 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node scripts/build-data.js && next build",
+    "build": "npm run data && next build",
     "start": "next start",
     "lint": "next lint",
-    "data": "node scripts/build-data.js",
-    "validate": "node scripts/validate-content.js && node scripts/validate-guides.js && node scripts/check-links.js",
+    "data": "node scripts/split-combined.js && node scripts/build-data.js",
+    "validate": "node scripts/validate-extra.js && node scripts/validate-content.js && node scripts/validate-guides.js && node scripts/check-links.js",
     "qa": "node scripts/qa-pages.js"
   },
   "dependencies": {

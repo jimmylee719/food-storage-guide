@@ -1,0 +1,107 @@
+{
+  "slug": "bacon-fully-cooked",
+  "en": {
+    "name": "Fully cooked bacon",
+    "aliases": ["precooked bacon", "ready-to-eat bacon", "shelf-stable bacon", "microwave bacon"],
+    "summary": "Fully cooked bacon is bacon that has been fried at the factory and packed so it needs only brief reheating — often in a shelf-stable pouch. Unopened it keeps about 6 months in the pantry from the day of purchase, and once opened it must be refrigerated at 4 °C (40 °F) or below and used within 5–14 days.",
+    "pantry": "This is one of the few bacon products that genuinely lives in a cupboard: cooking removes most of the moisture, and the sealed pack keeps it stable for about 6 months from purchase. Store it in a cool, dry place away from the cooker, and check the pack for a keep refrigerated instruction, since some precooked bacon is sold chilled and follows fridge rules from the start.",
+    "fridge": "Once the pack is opened, the protection is gone and the bacon is a ready-to-eat meat: move it to an airtight container or reseal it tightly and refrigerate at 4 °C (40 °F) or below for 5–14 days. Follow the manufacturer's number if the pack gives one. Do not leave opened bacon out at room temperature for more than 2 hours.",
+    "freezer": "Freezing extends things if you cannot finish an opened pack. Separate the rashers with baking paper, wrap tightly and bag with the air pressed out at −18 °C (0 °F), where the food stays safe indefinitely; use it within about a month, since salt and cooked fat go rancid quickly. Frozen cooked rashers can be reheated straight from the freezer.",
+    "thawing": "Thaw in the fridge overnight, or simply reheat frozen rashers in a pan or microwave until crisp and steaming. Never thaw cooked bacon on the counter, and do not refreeze it once thawed.",
+    "spoilage": [
+      "Rancid, paint-like or sour smell instead of a smoky, salty aroma",
+      "Slimy or tacky surface on the rashers",
+      "Grey, green or unusually dark patches, or fat that has yellowed",
+      "A puffed, leaking or damaged pouch — discard without tasting"
+    ],
+    "tips": [
+      "Check whether the pack says shelf-stable or keep refrigerated; they are stored very differently.",
+      "Write the opening date on the pack so the 5–14 day window is clear.",
+      "Reheat briefly — precooked bacon crisps in seconds and burns easily.",
+      "Keep a shelf-stable pack for camping or lunchboxes, where refrigeration is limited."
+    ],
+    "faq": [
+      {"q": "Does fully cooked bacon need refrigeration?", "a": "Not before opening if the pack is labelled shelf-stable — about 6 months in the pantry. After opening, refrigerate at 4 °C (40 °F) or below and use it within 5–14 days."},
+      {"q": "Can you freeze cooked bacon?", "a": "Yes, at −18 °C (0 °F). It stays safe indefinitely but is best within about a month, as cooked fat goes rancid quickly."},
+      {"q": "Can you eat fully cooked bacon cold?", "a": "It is ready to eat, but reheating it until steaming is safer and it tastes far better crisp."}
+    ]
+  },
+  "zh": {
+    "name": "熟培根（即食）",
+    "aliases": ["預煮培根", "即食培根", "常溫培根", "微波培根"],
+    "summary": "熟培根是在工廠就已經煎熟、包裝好的培根，只要稍微加熱就能吃，常見於常溫保存的鋁袋包裝。未開封放在櫥櫃，從購買日起約可放 6 個月；開封後必須放在 4°C 以下冷藏，並在 5～14 天內用完。",
+    "pantry": "這是少數真的可以放櫥櫃的培根產品：加熱去除了大部分水分，密封包裝讓它從購買日起可以穩定保存約 6 個月。請放在陰涼乾燥、遠離爐火的地方。同時要看清楚包裝上有沒有寫「需冷藏」，因為有些預煮培根是冷藏販售的，從一開始就要照冷藏規則。",
+    "fridge": "一旦拆封，保護就消失了，它就是一般的即食肉品：請移到密封容器或把包裝確實封好，放在 4°C 以下冷藏，5～14 天內用完；如果包裝上有標示天數，以廠商標示為準。開封後的培根不要在室溫放超過 2 小時。",
+    "freezer": "開封後吃不完的話，可以靠冷凍延長。用烘焙紙把培根片隔開、包緊後裝袋擠出空氣，放 −18°C 冷凍，安全上可以無限期保存；但建議一個月內用完，因為鹽分和已經煎過的油脂酸敗得很快。冷凍的熟培根可以直接加熱。",
+    "thawing": "放冷藏室解凍一晚，或直接把冷凍的培根片放進平底鍋或微波爐加熱到酥脆冒蒸氣。絕對不要放室溫解凍，解凍後也不要再冷凍。",
+    "spoilage": [
+      "不是煙燻鹹香，而是油耗味、像油漆的氣味或酸味",
+      "培根片表面黏滑、發黏",
+      "出現灰、綠或異常深色的斑塊，或脂肪泛黃",
+      "包裝鼓起、破損或漏液——不要試吃，直接丟棄"
+    ],
+    "tips": [
+      "先看包裝寫的是「常溫保存」還是「需冷藏」，兩者保存方式差很多。",
+      "在包裝寫上開封日期，5～14 天的期限才清楚。",
+      "加熱時間要短，預煮培根幾秒就脆，也很容易焦。",
+      "露營或帶便當這種不方便冷藏的場合，常溫包裝很好用。"
+    ],
+    "faq": [
+      {"q": "熟培根一定要冰嗎？", "a": "如果包裝標示常溫保存，未開封放櫥櫃約 6 個月即可。開封後要放 4°C 以下冷藏，並在 5～14 天內吃完。"},
+      {"q": "熟培根可以冷凍嗎？", "a": "可以，放 −18°C 冷凍。安全上可以無限期保存，但建議一個月內用完，因為煎過的油脂酸敗很快。"},
+      {"q": "熟培根可以直接冷吃嗎？", "a": "它是即食產品，不過加熱到冒蒸氣比較安全，煎脆之後也好吃很多。"}
+    ]
+  },
+  "ja": {
+    "name": "加熱済みベーコン（そのまま食べられる）",
+    "aliases": ["プレクックドベーコン", "調理済みベーコン", "常温保存ベーコン", "レンジ用ベーコン"],
+    "summary": "加熱済みベーコンは、工場で焼き上げてから包装した製品で、短時間温めるだけで食べられます。多くは常温保存可のパウチ入りです。未開封なら常温で購入日から約6か月、開封後は4℃以下で冷蔵し、5〜14日以内に使い切ります。",
+    "pantry": "常温の棚に置ける数少ないベーコン製品です。加熱によって水分の多くが失われ、密封包装によって購入日から約6か月安定します。コンロから離れた涼しく乾いた場所で保管してください。ただし「要冷蔵」と書かれた製品もあり、その場合は最初から冷蔵のルールに従います。",
+    "fridge": "開封するとその保護は失われ、ふつうのそのまま食べられる食肉と同じ扱いになります。密閉容器に移すか、しっかり封をして4℃以下で冷蔵し、5〜14日以内に使い切ってください。パックに日数の指定があればそれに従います。開封後のベーコンを室温に2時間以上置かないこと。",
+    "freezer": "開封して使い切れないときは冷凍が有効です。クッキングシートで挟み、密着させて包み、袋の空気を抜いて−18℃で冷凍します（安全面では長期間）。ただし塩分と加熱済みの脂は酸化が早いため、1か月ほどで使い切りましょう。凍ったまま温め直せます。",
+    "thawing": "冷蔵庫で一晩解凍するか、凍ったままフライパンや電子レンジでカリッと湯気が立つまで温めます。常温解凍と、解凍後の再冷凍は避けてください。",
+    "spoilage": [
+      "燻製と塩の香りではなく、酸敗臭・ペンキのようなにおい・酸っぱいにおいがする",
+      "スライスの表面がぬめる・べたつく",
+      "灰色・緑・不自然に濃い色の斑がある、脂が黄ばんでいる",
+      "パウチが膨らむ・破れる・液が漏れている（味見せず処分）"
+    ],
+    "tips": [
+      "「常温保存可」か「要冷蔵」かを必ず確認する。保存方法がまったく違う。",
+      "パックに開封日を書き、5〜14日の期限を明確にする。",
+      "温めるのは短時間で。加熱済みベーコンは数秒でカリッとなり、焦げやすい。",
+      "常温タイプはキャンプやお弁当など、冷蔵しにくい場面で便利。"
+    ],
+    "faq": [
+      {"q": "加熱済みベーコンは冷蔵が必要ですか？", "a": "常温保存可の表示があれば、未開封は常温で約6か月です。開封後は4℃以下で冷蔵し、5〜14日以内に使い切ってください。"},
+      {"q": "加熱済みベーコンは冷凍できますか？", "a": "できます。−18℃なら安全面では長期間ですが、加熱済みの脂は酸化が早いので1か月程度で使い切るのが目安です。"},
+      {"q": "そのまま冷たく食べられますか？", "a": "そのまま食べられる製品ですが、湯気が立つまで温めるほうが安全で、カリッとさせたほうが断然おいしくなります。"}
+    ]
+  },
+  "es": {
+    "name": "Tocino ya cocido",
+    "aliases": ["tocino precocido", "bacon listo para comer", "tocino de larga duración", "bacon para microondas"],
+    "summary": "El tocino ya cocido se fríe en la fábrica y se envasa de modo que solo necesita un breve recalentado, a menudo en bolsas de larga duración. Sin abrir dura unos 6 meses en la despensa desde la compra; una vez abierto debe refrigerarse a 4 °C (40 °F) o menos y consumirse en 5–14 días.",
+    "pantry": "Es uno de los pocos productos de tocino que realmente vive en un armario: la cocción elimina la mayor parte de la humedad y el envase sellado lo mantiene estable unos 6 meses desde la compra. Guárdalo en un lugar fresco y seco, lejos de la cocina, y comprueba si el paquete indica mantener refrigerado, porque algunos precocidos se venden en frío y siguen las reglas del refrigerador desde el principio.",
+    "fridge": "Al abrir el envase se pierde esa protección y el tocino pasa a ser una carne lista para comer: pásalo a un recipiente hermético o ciérralo bien y refrigéralo a 4 °C (40 °F) o menos durante 5–14 días. Sigue el plazo del fabricante si el paquete lo indica. No dejes tocino abierto a temperatura ambiente más de 2 horas.",
+    "freezer": "Congelar ayuda si no puedes terminar un paquete abierto. Separa las lonchas con papel de horno, envuélvelas apretadas y embólsalas sin aire a −18 °C (0 °F), donde se mantienen seguras indefinidamente; consúmelas en un mes aproximadamente, porque la sal y la grasa ya cocinada se enrancian rápido. Las lonchas congeladas se recalientan directamente.",
+    "thawing": "Descongélalo en el refrigerador durante una noche, o recalienta las lonchas congeladas en sartén o microondas hasta que estén crujientes y humeantes. Nunca lo descongeles en la encimera ni lo vuelvas a congelar.",
+    "spoilage": [
+      "Olor rancio, como a pintura, o agrio en lugar del aroma ahumado y salado",
+      "Superficie viscosa o pegajosa en las lonchas",
+      "Manchas grises, verdosas o anormalmente oscuras, o grasa amarillenta",
+      "Bolsa hinchada, con fugas o dañada: deséchala sin probar"
+    ],
+    "tips": [
+      "Comprueba si el paquete dice de larga duración o mantener refrigerado: se guardan de forma muy distinta.",
+      "Anota la fecha de apertura para tener claros los 5–14 días.",
+      "Recaliéntalo poco: el tocino precocido se dora en segundos y se quema fácil.",
+      "Ten un paquete de larga duración para acampadas o loncheras, donde no hay frío."
+    ],
+    "faq": [
+      {"q": "¿El tocino ya cocido necesita refrigeración?", "a": "Antes de abrir no, si el envase indica larga duración: unos 6 meses en la despensa. Después de abrirlo, refrigéralo a 4 °C (40 °F) o menos y úsalo en 5–14 días."},
+      {"q": "¿Se puede congelar el tocino cocido?", "a": "Sí, a −18 °C (0 °F). Se mantiene seguro indefinidamente, pero conviene usarlo en un mes porque la grasa cocinada se enrancia rápido."},
+      {"q": "¿Se puede comer frío el tocino ya cocido?", "a": "Está listo para comer, pero recalentarlo hasta que humee es más seguro y sabe mucho mejor crujiente."}
+    ]
+  }
+}

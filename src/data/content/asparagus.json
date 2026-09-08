@@ -1,0 +1,107 @@
+{
+  "slug": "asparagus",
+  "en": {
+    "name": "Asparagus",
+    "aliases": ["green asparagus", "white asparagus", "asparagus spears", "sparrow grass"],
+    "summary": "Asparagus is a fast-growing shoot that keeps growing and toughening after it is cut, which is why it loses quality so quickly. In the fridge it keeps just 3–4 days from the date of purchase, while blanched and frozen it lasts about 5 months. Buy it with tight tips and snap-fresh stems.",
+    "pantry": "Asparagus should not be kept at room temperature. Cut spears lose sugar and turn woody within hours in a warm kitchen, and the tips go slimy quickly. Take it straight home and refrigerate it; if you need to keep it out briefly while preparing dinner, stand the bunch in a jar of water like a bouquet.",
+    "fridge": "Refrigerate asparagus at 4 °C (40 °F) or below, where it keeps 3–4 days from purchase. The best method is to trim the cut ends, stand the bunch upright in a jar with 2–3 cm of water and cover the tips loosely with a bag. Alternatively, wrap the ends in damp kitchen paper and keep the bunch in a perforated bag in the crisper.",
+    "freezer": "Asparagus freezes for about 5 months from purchase at −18 °C (0 °F), but it must be blanched first: boil the spears for 2–4 minutes depending on thickness, plunge into iced water, drain and dry thoroughly, then freeze on a tray and bag. Unblanched asparagus turns limp and grassy within weeks.",
+    "thawing": "Cook frozen asparagus straight from the freezer — do not thaw, or it will go limp. Add it directly to boiling water, a hot pan or a roasting tray.",
+    "spoilage": [
+      "Slimy, dark, mushy tips",
+      "Limp stems that bend instead of snapping",
+      "Sour or sulphurous smell",
+      "Dry, split or woody cut ends"
+    ],
+    "tips": [
+      "Stand the bunch in a jar of water in the fridge, like flowers, and it stays crisp longer",
+      "Snap one spear to find the natural break point between tender and woody",
+      "Blanch before freezing, or the spears turn limp and lose flavour",
+      "Buy tightly closed tips — flowering or spreading tips mean old asparagus"
+    ],
+    "faq": [
+      {"q": "How long does asparagus last in the fridge?", "a": "Only 3–4 days from purchase at 4 °C (40 °F) or below. Standing the bunch in a jar with a little water helps it stay crisp."},
+      {"q": "Can you freeze asparagus?", "a": "Yes, but blanch it first for 2–4 minutes, then chill, dry and freeze. It keeps about 5 months from purchase at −18 °C (0 °F)."},
+      {"q": "How can you tell if asparagus has gone bad?", "a": "Slimy or dark tips, limp stems that bend without snapping, and a sour or sulphurous smell all mean it should be discarded."}
+    ]
+  },
+  "zh": {
+    "name": "蘆筍",
+    "aliases": ["綠蘆筍", "白蘆筍", "露筍", "石刁柏"],
+    "summary": "蘆筍是生長極快的嫩莖，採收後還會繼續生長變老，所以品質下降得特別快。冷藏從購買日起只能放 3～4 天，燙過後冷凍則可保存約 5 個月。挑選時要看筍尖緊實、莖折起來會清脆斷裂。",
+    "pantry": "蘆筍不該放在室溫。切下來的莖在溫暖的廚房裡幾小時內就會流失甜度、變得粗硬，筍尖也很快變黏滑。買回家請直接冷藏；準備晚餐時如果需要短暫放著，就像插花那樣把整把立在水杯裡。",
+    "fridge": "放在 4°C 以下的冰箱，從購買日起可放 3～4 天。最好的方法是把切口修一下，整把直立在裝了 2～3 公分水的杯子裡，上面鬆鬆罩一個袋子。或者用微濕的廚房紙巾包住切口，整把裝在打洞袋裡收在蔬果保鮮室。",
+    "freezer": "蘆筍放 −18°C 冷凍，從購買日起約可保存 5 個月，但一定要先汆燙：依粗細煮 2～4 分鐘，撈起泡冰水，瀝乾並徹底擦乾，再鋪盤冷凍後裝袋。沒燙過就冷凍的蘆筍，幾週內就會軟塌並產生青草味。",
+    "thawing": "冷凍蘆筍請直接下鍋，不要解凍，否則會變得軟塌。直接丟進滾水、熱鍋或烤盤即可。",
+    "spoilage": [
+      "筍尖變黏滑、發黑或軟爛",
+      "莖變軟，折起來只會彎不會斷",
+      "有酸味或硫磺般的臭味",
+      "切口乾裂、變得木質化"
+    ],
+    "tips": [
+      "整把像插花一樣立在水杯裡冷藏，可以維持脆度更久",
+      "折一根試試，自然斷點就是嫩與老的分界",
+      "冷凍前一定要汆燙，否則會軟塌又失去風味",
+      "挑筍尖緊閉的，尖端開花散開代表已經放很久了"
+    ],
+    "faq": [
+      {"q": "蘆筍放冰箱可以放多久？", "a": "放 4°C 以下，從購買日起只有 3～4 天。整把立在裝水的杯子裡有助於維持脆度。"},
+      {"q": "蘆筍可以冷凍嗎？", "a": "可以，但要先汆燙 2～4 分鐘，再冰鎮、擦乾後冷凍。放 −18°C，從購買日起約可保存 5 個月。"},
+      {"q": "怎麼知道蘆筍壞了？", "a": "筍尖變黏滑或發黑、莖軟到折不斷，或聞起來有酸味或硫磺味，都代表應該丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "アスパラガス",
+    "aliases": ["グリーンアスパラ", "ホワイトアスパラ", "アスパラ", "オランダキジカクシ"],
+    "summary": "アスパラガスは成長の早い若い茎で、収穫後も伸び続けて硬くなるため、鮮度の落ち方が非常に早い野菜です。冷蔵では購入日から3〜4日しか持たず、下ゆでして冷凍すれば約5か月保存できます。穂先が締まり、茎がポキッと折れるものを選びましょう。",
+    "pantry": "アスパラガスを常温に置いてはいけません。暖かい台所では数時間で甘みが抜けて筋張り、穂先もすぐぬめってきます。買ったらすぐ冷蔵庫へ。調理の準備中に少し出しておく場合は、花束のように水を入れた瓶に立てておきましょう。",
+    "fridge": "4℃以下で冷蔵し、購入日から3〜4日が目安です。おすすめは切り口を少し落とし、水を2〜3cm入れた瓶に立てて、穂先に袋を軽くかぶせる方法。あるいは切り口を湿らせたキッチンペーパーで包み、穴あき袋に入れて野菜室で保存します。",
+    "freezer": "−18℃の冷凍なら購入日から約5か月保存できますが、必ず下ゆでを。太さに応じて2〜4分ゆで、氷水に取り、水気をしっかり切って拭き、バットで凍らせてから袋へ。下ゆでせずに冷凍すると数週間でぐったりし、青臭くなります。",
+    "thawing": "冷凍アスパラは解凍せずそのまま調理してください。解凍するとぐったりします。熱湯、フライパン、天板に直接入れましょう。",
+    "spoilage": [
+      "穂先がぬめる、黒ずむ、ぶよぶよしている",
+      "茎がしなびて、折れずに曲がる",
+      "酸っぱいにおいや硫黄のようなにおいがする",
+      "切り口が乾いて割れ、木質化している"
+    ],
+    "tips": [
+      "花のように水を入れた瓶に立てて冷蔵すると、シャキッと感が長持ちします",
+      "1本折ってみると、やわらかい部分と硬い部分の境目が分かります",
+      "冷凍前は必ず下ゆでを。しないとぐったりして風味も落ちます",
+      "穂先が締まったものを選びましょう。開いているものは鮮度が落ちています"
+    ],
+    "faq": [
+      {"q": "アスパラガスは冷蔵庫でどのくらい持ちますか？", "a": "4℃以下で購入日から3〜4日だけです。水を入れた瓶に立てておくとシャキッと感が保てます。"},
+      {"q": "アスパラガスは冷凍できますか？", "a": "できますが、まず2〜4分下ゆでし、冷やして水気を拭いてから冷凍を。−18℃で購入日から約5か月です。"},
+      {"q": "アスパラガスが傷んだか見分けるには？", "a": "穂先のぬめりや黒ずみ、折れずに曲がる茎、酸っぱいにおいや硫黄臭があれば処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Espárragos",
+    "aliases": ["espárragos verdes", "espárragos blancos", "espárrago triguero", "trigueros"],
+    "summary": "El espárrago es un brote de crecimiento rápido que sigue creciendo y endureciéndose tras el corte, y por eso pierde calidad tan deprisa. En la nevera dura solo 3–4 días desde la compra, mientras que escaldado y congelado aguanta alrededor de 5 meses. Cómpralo con las puntas cerradas y tallos que se quiebren.",
+    "pantry": "Los espárragos no deben guardarse a temperatura ambiente. Los tallos cortados pierden azúcar y se vuelven leñosos en horas en una cocina cálida, y las puntas se vuelven viscosas rápido. Llévalos a casa y refrigéralos; si necesitas tenerlos fuera mientras preparas la cena, ponlos de pie en un tarro con agua, como un ramo.",
+    "fridge": "Refrigéralos a 4 °C (40 °F) o menos, donde duran 3–4 días desde la compra. Lo mejor es recortar los extremos, colocar el manojo de pie en un tarro con 2–3 cm de agua y cubrir las puntas con una bolsa suelta. Otra opción es envolver los extremos en papel de cocina húmedo y guardar el manojo en bolsa perforada en el cajón de verduras.",
+    "freezer": "Se congelan alrededor de 5 meses desde la compra a −18 °C (0 °F), pero hay que escaldarlos primero: hiérvelos 2–4 minutos según el grosor, pásalos a agua helada, escúrrelos y sécalos bien, congélalos en bandeja y embólsalos. Sin escaldar quedan flácidos y con sabor a hierba en pocas semanas.",
+    "thawing": "Cocina los espárragos congelados directamente: no los descongeles o quedarán flácidos. Échalos al agua hirviendo, a la sartén caliente o a la bandeja del horno.",
+    "spoilage": [
+      "Puntas viscosas, oscuras o blandas",
+      "Tallos flácidos que se doblan en vez de quebrarse",
+      "Olor agrio o sulfuroso",
+      "Extremos cortados secos, agrietados o leñosos"
+    ],
+    "tips": [
+      "Ponlos de pie en un tarro con agua en la nevera, como flores, y se mantienen crujientes más tiempo",
+      "Quiebra un espárrago para encontrar el punto natural entre la parte tierna y la leñosa",
+      "Escáldalos antes de congelar o quedarán flácidos y sin sabor",
+      "Compra puntas bien cerradas: las abiertas o floreadas indican espárragos viejos"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los espárragos en la nevera?", "a": "Solo 3–4 días desde la compra a 4 °C (40 °F) o menos. Ponerlos de pie en un tarro con algo de agua ayuda a mantenerlos crujientes."},
+      {"q": "¿Se pueden congelar los espárragos?", "a": "Sí, pero escáldalos primero 2–4 minutos, enfríalos, sécalos y congélalos. Duran alrededor de 5 meses desde la compra a −18 °C (0 °F)."},
+      {"q": "¿Cómo saber si los espárragos están malos?", "a": "Puntas viscosas u oscuras, tallos flácidos que se doblan sin quebrarse y olor agrio o sulfuroso indican que hay que tirarlos."}
+    ]
+  }
+}

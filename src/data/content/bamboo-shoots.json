@@ -1,0 +1,107 @@
+{
+  "slug": "bamboo-shoots",
+  "en": {
+    "name": "Bamboo shoots",
+    "aliases": ["fresh bamboo shoots", "canned bamboo shoots", "winter shoots", "green bamboo shoots"],
+    "summary": "Bamboo shoots are the young sprouts of bamboo, sold fresh in the husk, vacuum-packed or canned. Refrigerated they keep about 2 weeks from the date of purchase; once a can or pack is opened, drain the shoots, cover them with fresh water and use them within 5 days.",
+    "pantry": "Fresh bamboo shoots are not a pantry item — they turn bitter and fibrous within a day at room temperature, and their natural sugars convert to starch fast. Unopened cans are shelf stable in a cool, dry cupboard until their printed date, but once opened they must be refrigerated. Fresh shoots also need boiling before eating, which removes their natural bitterness.",
+    "fridge": "Keep fresh shoots in the fridge at 4 °C (40 °F) or below, in the husk and loosely bagged, where they keep about 2 weeks from purchase. Cooked or opened shoots should be drained, covered with fresh cold water in a sealed container and used within 5 days; change the water daily to keep them sweet and stop them souring.",
+    "freezer": "USDA gives no freezer timeline for bamboo shoots. In practice, boiled and sliced shoots freeze acceptably in an airtight bag, though the texture becomes softer and slightly spongy. Do not freeze them raw or in their soaking water.",
+    "thawing": "Add frozen bamboo shoots straight from the freezer to stir-fries, braises and soups. If you need them thawed, do it in the fridge and drain them well before cooking.",
+    "spoilage": [
+      "Sour, fermented or ammonia-like smell",
+      "Slimy surface or cloudy, ropy soaking water",
+      "Yellow, brown or grey discolouration on the cut flesh",
+      "Bulging or leaking can, which should be discarded unopened"
+    ],
+    "tips": [
+      "Boil fresh shoots before eating to remove their natural bitterness",
+      "Change the soaking water every day for opened shoots",
+      "Store fresh shoots in their husk, which protects them from drying",
+      "Never taste from a bulging or leaking can — discard it"
+    ],
+    "faq": [
+      {"q": "How long do bamboo shoots last in the fridge?", "a": "Fresh shoots keep about 2 weeks from purchase at 4 °C (40 °F) or below. Opened or cooked shoots keep about 5 days, covered in fresh water."},
+      {"q": "Do bamboo shoots need to be boiled first?", "a": "Fresh shoots should be boiled before eating, which removes their natural bitterness and softens the texture. Canned and vacuum-packed shoots are already prepared."},
+      {"q": "Can you freeze bamboo shoots?", "a": "Boiled, sliced shoots freeze acceptably in an airtight bag, though the texture softens. Do not freeze them raw or sitting in their soaking water."}
+    ]
+  },
+  "zh": {
+    "name": "竹筍",
+    "aliases": ["綠竹筍", "麻竹筍", "冬筍", "桂竹筍", "筍子"],
+    "summary": "竹筍是竹子的嫩芽，有帶殼的新鮮筍、真空包和罐頭等形式。冷藏從購買日起約可放 2 週；罐頭或包裝一旦開封，請把筍瀝乾、加新鮮的水淹過，並在 5 天內用完。",
+    "pantry": "新鮮竹筍不能常溫保存，在室溫一天內就會發苦、纖維化，天然糖分也會迅速轉成澱粉。未開封的罐頭放在陰涼乾燥的櫥櫃可以保存到標示日期，但開封後就必須冷藏。新鮮的筍還必須先煮過才能吃，煮的過程會去掉天然的苦澀味。",
+    "fridge": "新鮮竹筍請帶殼、鬆鬆裝袋，放在 4°C 以下的冰箱，從購買日起約可放 2 週。煮過或開封的筍請瀝乾，泡在冷開水裡裝進密封盒，並在 5 天內用完；每天換一次水，可以保持清甜、避免變酸。",
+    "freezer": "USDA 沒有提供竹筍的冷凍期限。實務上煮熟切片後裝密封袋冷凍還算可以，只是口感會變軟、略帶海綿感。不要生凍，也不要連著浸泡的水一起冷凍。",
+    "thawing": "冷凍竹筍可以直接下鍋炒、滷或煮湯。真的需要解凍就放冷藏室，煮之前徹底瀝乾。",
+    "spoilage": [
+      "有酸味、發酵味或阿摩尼亞般的刺鼻味",
+      "表面摸起來黏滑，或浸泡的水變混濁、牽絲",
+      "切面轉黃、轉褐或發灰",
+      "罐頭鼓起或滲漏，這種未開封也要直接丟掉"
+    ],
+    "tips": [
+      "新鮮竹筍要先煮過再吃，可以去掉天然的苦澀味",
+      "開封後的筍每天換一次浸泡的水",
+      "新鮮筍保存時帶殼，外殼可以防止乾燥",
+      "鼓起或滲漏的罐頭絕對不要試吃，直接丟棄"
+    ],
+    "faq": [
+      {"q": "竹筍放冰箱可以放多久？", "a": "新鮮帶殼的筍放 4°C 以下，從購買日起約 2 週。開封或煮過的筍泡在新鮮的水裡約可放 5 天。"},
+      {"q": "竹筍一定要先煮過嗎？", "a": "新鮮竹筍要先煮過再吃，這樣可以去掉天然苦味、讓口感變軟。罐頭和真空包的已經處理過了。"},
+      {"q": "竹筍可以冷凍嗎？", "a": "煮熟切片後裝密封袋冷凍還算可以，只是口感會變軟。不要生凍，也不要連浸泡的水一起冷凍。"}
+    ]
+  },
+  "ja": {
+    "name": "たけのこ",
+    "aliases": ["筍", "タケノコ", "水煮たけのこ", "孟宗竹の筍"],
+    "summary": "たけのこは竹の若い芽で、皮つきの生、真空パック、水煮缶などがあります。冷蔵なら購入日から約2週間持ちます。缶やパックを開けたら水気を切り、新しい水に浸して5日以内に使い切ってください。",
+    "pantry": "生のたけのこは常温保存できません。室温では1日でえぐみが出て繊維質になり、糖がすぐでんぷんに変わってしまいます。未開封の缶は涼しく乾燥した戸棚で表示期限まで常温保存できますが、開封後は必ず冷蔵を。生のたけのこは食べる前にゆでる必要があり、ゆでることでえぐみが抜けます。",
+    "fridge": "生のたけのこは皮つきのまま袋に軽く入れて4℃以下で冷蔵すれば、購入日から約2週間持ちます。ゆでたものや開封したものは水気を切り、新しい冷水に浸して密閉容器で保存し、5日以内に使い切りましょう。水は毎日替えると風味が保たれ、酸っぱくなるのを防げます。",
+    "freezer": "USDAはたけのこの冷凍期間を示していません。実際にはゆでてスライスしたものなら密閉袋でまずまず冷凍できますが、食感はやわらかくスポンジ状になります。生のまま、または浸け水ごと冷凍しないでください。",
+    "thawing": "冷凍たけのこは凍ったまま炒め物、煮物、汁物に加えます。解凍が必要な場合は冷蔵庫で行い、調理前によく水気を切ってください。",
+    "spoilage": [
+      "酸っぱいにおい、発酵臭、アンモニア臭がする",
+      "表面がぬめる、浸け水が濁って糸を引く",
+      "切り口が黄色、茶色、灰色に変色している",
+      "缶が膨らんでいる、液漏れしている（未開封でも処分）"
+    ],
+    "tips": [
+      "生のたけのこは食べる前にゆでてえぐみを抜きましょう",
+      "開封後は浸け水を毎日取り替えて",
+      "生のものは皮つきで保存すると乾燥を防げます",
+      "膨らんだ缶や液漏れした缶は味見せずに処分を"
+    ],
+    "faq": [
+      {"q": "たけのこは冷蔵庫でどのくらい持ちますか？", "a": "皮つきの生なら4℃以下で購入日から約2週間。開封済みやゆでたものは新しい水に浸して約5日です。"},
+      {"q": "たけのこは必ずゆでる必要がありますか？", "a": "生のたけのこはゆでてから食べてください。えぐみが抜け、食感もやわらかくなります。缶詰や真空パックはすでに下処理済みです。"},
+      {"q": "たけのこは冷凍できますか？", "a": "ゆでてスライスしたものなら密閉袋でまずまず冷凍できますが、食感はやわらかくなります。生のままや浸け水ごとの冷凍は避けましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Brotes de bambú",
+    "aliases": ["bambú fresco", "brotes de bambú en lata", "retoños de bambú", "bambú envasado"],
+    "summary": "Los brotes de bambú son los retoños jóvenes del bambú, y se venden frescos con su vaina, envasados al vacío o en lata. Refrigerados duran alrededor de 2 semanas desde la compra; una vez abierta la lata o el paquete, escúrrelos, cúbrelos con agua fresca y úsalos en 5 días.",
+    "pantry": "Los brotes frescos no son producto de despensa: en un día a temperatura ambiente amargan y se vuelven fibrosos, y sus azúcares se convierten rápido en almidón. Las latas cerradas se conservan en un armario fresco y seco hasta su fecha impresa, pero una vez abiertas deben refrigerarse. Los brotes frescos también deben hervirse antes de comerse, lo que elimina su amargor natural.",
+    "fridge": "Guarda los brotes frescos en la nevera a 4 °C (40 °F) o menos, con su vaina y en una bolsa suelta, donde duran alrededor de 2 semanas desde la compra. Los brotes cocidos o abiertos deben escurrirse, cubrirse con agua fría limpia en un recipiente cerrado y usarse en 5 días; cambia el agua a diario para que no se agrien.",
+    "freezer": "El USDA no da un plazo de congelación para los brotes de bambú. En la práctica, hervidos y en láminas se congelan aceptablemente en una bolsa hermética, aunque la textura queda más blanda y algo esponjosa. No los congeles crudos ni con su agua de remojo.",
+    "thawing": "Añade los brotes congelados directamente a salteados, guisos y sopas. Si necesitas descongelarlos, hazlo en la nevera y escúrrelos bien antes de cocinar.",
+    "spoilage": [
+      "Olor agrio, fermentado o amoniacal",
+      "Superficie viscosa o agua de remojo turbia y filamentosa",
+      "Coloración amarilla, parda o gris en la carne cortada",
+      "Lata abombada o con fugas, que debe desecharse sin abrir"
+    ],
+    "tips": [
+      "Hierve los brotes frescos antes de comerlos para quitar su amargor natural",
+      "Cambia el agua de remojo cada día en los brotes abiertos",
+      "Guarda los brotes frescos con su vaina, que los protege de la desecación",
+      "Nunca pruebes de una lata abombada o con fugas: deséchala"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los brotes de bambú en la nevera?", "a": "Los frescos duran alrededor de 2 semanas desde la compra a 4 °C (40 °F) o menos. Los abiertos o cocidos, unos 5 días cubiertos de agua fresca."},
+      {"q": "¿Hay que hervir los brotes de bambú?", "a": "Los frescos deben hervirse antes de comerse, lo que elimina el amargor y ablanda la textura. Los de lata y los envasados al vacío ya vienen preparados."},
+      {"q": "¿Se pueden congelar los brotes de bambú?", "a": "Hervidos y en láminas se congelan aceptablemente en bolsa hermética, aunque la textura se ablanda. No los congeles crudos ni con su agua de remojo."}
+    ]
+  }
+}
