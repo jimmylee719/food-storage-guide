@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>關於我們 - 食材保鮮指南</title>
+    <style>
+        :root {
+            --bg-color: #f8f9fa;
+            --card-bg-color: #ffffff;
+            --text-color: #212529;
+            --secondary-text-color: #6c757d;
+            --accent-color: #17a2b8;
+            --border-color: #dee2e6;
+            --shadow-color: rgba(0, 0, 0, 0.05);
+            --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+        }
+        body {
+            font-family: var(--font-family);
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            box-sizing: border-box;
+        }
+        .container {
+            width: 100%;
+            max-width: 800px;
+            text-align: center;
+        }
+        .card {
+            background-color: var(--card-bg-color);
+            border-radius: 12px;
+            padding: 40px;
+            box-shadow: 0 4px 15px var(--shadow-color);
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 2rem;
+        }
+        p {
+            line-height: 1.8;
+            color: var(--secondary-text-color);
+            margin-bottom: 20px;
+            font-size: 1.1rem;
+        }
+        .contact-info {
+            font-weight: bold;
+        }
+        .btn-container {
+            text-align: center;
+            margin-top: 30px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 12px 25px;
+            font-size: 1rem;
+            font-weight: 500;
+            color: white;
+            background-color: var(--accent-color);
+            border: none;
+            border-radius: 8px;
+            text-decoration: none;
+            cursor: pointer;
+            transition: background-color 0.2s, transform 0.1s;
+        }
+        .btn:hover {
+            background-color: #138496;
+        }
+        .btn:active {
+            transform: scale(0.98);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <h1>關於我們 (About Us)</h1>
+            <p>
+                「食材保鮮指南」的誕生，源自一個簡單的信念：減少食物浪費，從了解每一樣食材開始。我們致力於提供一個快速、準確且易於使用的查詢工具，幫助全球的家庭廚師與餐飲專業人士，以最正確的方式保存珍貴的食材。
+            </p>
+            <p>
+                The Food Storage Guide was born from a simple belief: reducing food waste starts with understanding our ingredients. We are dedicated to providing a fast, accurate, and user-friendly tool to help home cooks and culinary professionals worldwide store their valuable food items correctly.
+            </p>
+            <p class="contact-info">
+                如果您有任何問題或合作建議，歡迎隨時與我們聯繫。<br>
+                For any questions or collaboration inquiries, please feel free to contact us.
+                <br>
+                Email: skadoosh.ai.lab@gmail.com
+            </p>
+            <div class="btn-container">
+                <a href="./index.html" class="btn">返回指南 (Back to Guide)</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
