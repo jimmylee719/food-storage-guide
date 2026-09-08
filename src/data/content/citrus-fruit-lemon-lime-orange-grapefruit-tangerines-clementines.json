@@ -1,0 +1,107 @@
+{
+  "slug": "citrus-fruit-lemon-lime-orange-grapefruit-tangerines-clementines",
+  "en": {
+    "name": "Citrus fruit",
+    "aliases": ["lemons", "limes", "oranges", "grapefruit", "tangerines", "clementines"],
+    "summary": "Citrus fruits have a thick, oily peel that protects the flesh, which is why they keep well. On the counter they stay good for about 10 days from the date of purchase; in the fridge they last 10–21 days. They do not ripen further after picking, so buy fruit that already feels heavy for its size.",
+    "pantry": "A cool, airy spot out of direct sunlight keeps citrus in good condition for about 10 days from purchase. Store the fruit loose in a bowl rather than in the plastic bag it came in, because trapped moisture is what starts mould at the stem end. Room-temperature citrus also yields noticeably more juice than fruit straight from the fridge.",
+    "fridge": "In the crisper drawer at 4 °C (40 °F) or below, citrus keeps 10–21 days from purchase. Store the fruit loose or in a perforated bag so it does not sweat. Cut lemons and limes dry out fast: wrap the cut face tightly in cling film or store the halves cut-side-down on a small plate, and use them within 2–3 days.",
+    "freezer": "USDA gives no freezer timeline for fresh citrus, and whole fruit freezes poorly, turning soft and watery. Juice and zest, however, freeze very well: freeze juice in ice-cube trays and store zest in a small airtight container, ready to drop into sauces and cakes.",
+    "thawing": "Thaw frozen juice cubes in the fridge or drop them straight into a hot pan or a drink. Frozen zest can be used without thawing.",
+    "spoilage": [
+      "Soft, sunken patches on the peel, usually at the stem end",
+      "Blue-green or white fuzzy mould",
+      "Very light, dried-out fruit with a hard, shrunken peel",
+      "Fermented or sour smell through the skin"
+    ],
+    "tips": [
+      "Take citrus out of the plastic bag as soon as you get home",
+      "Roll a lemon firmly on the counter before juicing to get more juice out",
+      "Zest fruit before juicing it and freeze the zest for later",
+      "Remove any mouldy fruit at once, as the spores spread quickly in a bowl"
+    ],
+    "faq": [
+      {"q": "How long do lemons last in the fridge?", "a": "10–21 days from purchase at 4 °C (40 °F) or below, stored loose or in a perforated bag in the crisper drawer."},
+      {"q": "Can you freeze citrus fruit?", "a": "Whole fruit freezes poorly and turns watery. Freeze the juice in ice-cube trays and the zest in an airtight container instead — both keep very well."},
+      {"q": "Should citrus be kept in the fridge?", "a": "It lasts about twice as long refrigerated: roughly 10 days on the counter versus 10–21 days in the fridge. Room-temperature fruit does juice more easily."}
+    ]
+  },
+  "zh": {
+    "name": "柑橘類水果",
+    "aliases": ["檸檬", "萊姆", "柳橙", "葡萄柚", "橘子", "砂糖橘"],
+    "summary": "柑橘類的外皮厚且含油脂，能保護裡面的果肉，所以相當耐放。放在室溫，從購買日起約可放 10 天；放冰箱則可放 10～21 天。柑橘採收後不會再變甜，所以挑的時候要選拿起來沉甸甸的。",
+    "pantry": "放在陰涼通風、不曬太陽的地方，從購買日起約可維持 10 天。請把水果從塑膠袋拿出來鬆散地放在籃子裡，因為悶在袋子裡的水氣正是蒂頭發霉的起點。而且室溫的柑橘比冰過的明顯更容易榨出汁。",
+    "fridge": "放在 4°C 以下的蔬果保鮮室，從購買日起可放 10～21 天。鬆散擺放或裝在打洞的袋子裡，避免出水悶壞。切開的檸檬和萊姆很快就會乾掉：切面用保鮮膜緊貼包好，或切面朝下放在小盤子上，並在 2～3 天內用完。",
+    "freezer": "USDA 沒有提供新鮮柑橘的冷凍期限，整顆冷凍效果也不好，會變軟出水。但果汁和皮屑非常適合冷凍：果汁倒進製冰盒冷凍成塊，皮屑裝小密封盒，需要時直接加進醬汁或蛋糕裡。",
+    "thawing": "冷凍的果汁塊放冷藏室退冰，或直接丟進熱鍋或飲料裡。冷凍的皮屑不用解凍就能直接使用。",
+    "spoilage": [
+      "外皮出現軟軟凹陷的斑塊，通常從蒂頭開始",
+      "長出藍綠色或白色的毛狀黴菌",
+      "整顆變得很輕、外皮乾硬皺縮",
+      "隔著皮就聞得到發酵味或酸味"
+    ],
+    "tips": [
+      "買回家立刻把柑橘從塑膠袋裡拿出來",
+      "榨汁前先在檯面上用力滾一滾，可以多榨出不少汁",
+      "先刨皮再榨汁，皮屑冷凍起來以後用",
+      "發現發霉的立刻挑掉，孢子在同一籃裡散得很快"
+    ],
+    "faq": [
+      {"q": "檸檬放冰箱可以放多久？", "a": "鬆散放或裝在打洞袋裡收在蔬果保鮮室，維持 4°C 以下，從購買日起 10～21 天。"},
+      {"q": "柑橘可以冷凍嗎？", "a": "整顆冷凍效果不好，會變水水的。建議把果汁倒進製冰盒冷凍、皮屑裝密封盒冷凍，這兩種都保存得很好。"},
+      {"q": "柑橘要放冰箱嗎？", "a": "冷藏大約可以放兩倍久：室溫約 10 天，冷藏則 10～21 天。不過室溫的果實比較好榨汁。"}
+    ]
+  },
+  "ja": {
+    "name": "かんきつ類",
+    "aliases": ["レモン", "ライム", "オレンジ", "グレープフルーツ", "みかん", "クレメンタイン"],
+    "summary": "かんきつ類は厚くて油分のある皮が果肉を守るため、比較的日持ちします。常温では購入日から約10日、冷蔵なら10〜21日が目安です。収穫後に甘くなることはないので、持ったときにずっしり重いものを選びましょう。",
+    "pantry": "直射日光の当たらない涼しく風通しのよい場所なら、購入日から約10日おいしく保てます。買ったときのポリ袋から出して、かごにゆったり置きましょう。袋にこもった湿気が、軸のあたりからのカビの始まりになります。常温のかんきつは冷えたものよりはっきり果汁が搾りやすくなります。",
+    "fridge": "4℃以下の野菜室なら購入日から10〜21日持ちます。ゆったり置くか穴あき袋に入れて、蒸れないようにしましょう。切ったレモンやライムは乾きやすいので、切り口にラップを密着させるか小皿に伏せて置き、2〜3日で使い切ってください。",
+    "freezer": "USDAは生のかんきつの冷凍期間を示しておらず、丸ごとの冷凍は水っぽくなって不向きです。一方、果汁と皮のすりおろしはよく冷凍できます。果汁は製氷皿で凍らせ、皮は小さな密閉容器に入れておけば、ソースやお菓子にすぐ使えます。",
+    "thawing": "凍らせた果汁は冷蔵庫で解凍するか、熱した鍋や飲み物にそのまま入れます。冷凍した皮は解凍せずそのまま使えます。",
+    "spoilage": [
+      "皮にやわらかくへこんだ部分がある（軸のあたりに出やすい）",
+      "青緑や白のふわふわしたカビ",
+      "軽くなり、皮が硬くしなびている",
+      "皮ごしに発酵臭や酸っぱいにおいがする"
+    ],
+    "tips": [
+      "帰宅したらすぐポリ袋から出しましょう",
+      "搾る前に台の上でしっかり転がすと果汁が多く取れます",
+      "搾る前に皮をすりおろし、皮は冷凍しておきましょう",
+      "カビた実はすぐ取り除きを。かごの中で胞子が広がります"
+    ],
+    "faq": [
+      {"q": "レモンは冷蔵庫でどのくらい持ちますか？", "a": "野菜室にゆったり置くか穴あき袋に入れ、4℃以下で購入日から10〜21日です。"},
+      {"q": "かんきつ類は冷凍できますか？", "a": "丸ごとは水っぽくなり不向きです。果汁を製氷皿で、皮を密閉容器で冷凍するとよく保てます。"},
+      {"q": "かんきつ類は冷蔵すべきですか？", "a": "冷蔵すると約2倍持ちます（常温約10日に対し10〜21日）。ただし搾りやすさでは常温が有利です。"}
+    ]
+  },
+  "es": {
+    "name": "Cítricos",
+    "aliases": ["limones", "limas", "naranjas", "pomelo", "mandarinas", "clementinas"],
+    "summary": "Los cítricos tienen una piel gruesa y aceitosa que protege la pulpa, y por eso se conservan bien. En la encimera se mantienen unos 10 días desde la compra; en la nevera duran 10–21 días. No maduran más tras la recolección, así que elige piezas que pesen mucho para su tamaño.",
+    "pantry": "Un sitio fresco y aireado, fuera del sol directo, los mantiene bien unos 10 días desde la compra. Guárdalos sueltos en un frutero y no en la bolsa de plástico, porque la humedad retenida es lo que inicia el moho junto al rabito. Además, los cítricos a temperatura ambiente sueltan bastante más zumo que los recién sacados de la nevera.",
+    "fridge": "En el cajón de verduras a 4 °C (40 °F) o menos, los cítricos duran 10–21 días desde la compra. Guárdalos sueltos o en una bolsa perforada para que no suden. Los limones y limas cortados se secan rápido: envuelve bien la cara cortada en film o colócalos boca abajo en un plato pequeño y úsalos en 2–3 días.",
+    "freezer": "El USDA no da un plazo de congelación para los cítricos frescos, y la pieza entera se congela mal, quedando blanda y aguada. El zumo y la ralladura, en cambio, se congelan muy bien: congela el zumo en cubiteras y guarda la ralladura en un recipiente hermético pequeño.",
+    "thawing": "Descongela los cubitos de zumo en la nevera o échalos directamente a la sartén caliente o a una bebida. La ralladura congelada se usa sin descongelar.",
+    "spoilage": [
+      "Zonas blandas y hundidas en la piel, normalmente junto al rabito",
+      "Moho azul verdoso o blanco",
+      "Fruta muy ligera y reseca, con la piel dura y encogida",
+      "Olor fermentado o agrio a través de la piel"
+    ],
+    "tips": [
+      "Saca los cítricos de la bolsa de plástico nada más llegar a casa",
+      "Rueda el limón con fuerza sobre la encimera antes de exprimirlo para sacar más zumo",
+      "Ralla la piel antes de exprimir y congela la ralladura para más adelante",
+      "Retira de inmediato cualquier pieza mohosa: las esporas se extienden rápido en el frutero"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los limones en la nevera?", "a": "10–21 días desde la compra a 4 °C (40 °F) o menos, sueltos o en bolsa perforada en el cajón de verduras."},
+      {"q": "¿Se pueden congelar los cítricos?", "a": "La fruta entera se congela mal y queda aguada. Congela el zumo en cubiteras y la ralladura en un recipiente hermético: ambos se conservan muy bien."},
+      {"q": "¿Hay que guardar los cítricos en la nevera?", "a": "Duran alrededor del doble refrigerados: unos 10 días en la encimera frente a 10–21 días en la nevera. Eso sí, a temperatura ambiente se exprimen mejor."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "berries-cherries-goose-berries-lychee",
+  "en": {
+    "name": "Cherries, gooseberries and lychees",
+    "aliases": ["fresh cherries", "gooseberries", "lychee", "litchi", "summer berries"],
+    "summary": "Cherries, gooseberries and lychees are thin-skinned summer fruits that go downhill quickly once picked. Refrigerated they keep about 7 days from the date of purchase, and frozen at −18 °C (0 °F) they keep about 12 months. Do not wash them until you are ready to eat, because surface moisture speeds up mould.",
+    "pantry": "These fruits are not counter fruits. Left at room temperature they lose firmness within a day, ferment quickly in a warm kitchen and attract fruit flies. Take them out of the fridge only for the time it takes to serve them, and if a punnet has been out for several hours in hot weather, check carefully for softness and mould before eating.",
+    "fridge": "The fridge at 4 °C (40 °F) or below keeps them about 7 days from purchase. Store them unwashed and loose in a shallow container or a perforated bag so air can circulate, and line the container with kitchen paper to absorb condensation. Lychees keep their red shell colour longer in a sealed bag, though the flesh is fine even when the shell browns.",
+    "freezer": "All three freeze well for about 12 months at −18 °C (0 °F). Stone cherries and peel and stone lychees first, top and tail gooseberries, then freeze them in a single layer on a tray before bagging so they stay loose. Thawed fruit is soft and best used in compotes, sauces and baking.",
+    "thawing": "Thaw in the fridge in a bowl to catch the juices, or use the fruit straight from frozen in smoothies, sauces and baking. Do not thaw at room temperature for hours.",
+    "spoilage": [
+      "Soft, leaking or collapsed fruit in the punnet",
+      "Grey or white fuzzy mould on any fruit — check the ones underneath too",
+      "Fermented, alcoholic or vinegary smell",
+      "Sticky juice at the bottom of the container"
+    ],
+    "tips": [
+      "Never wash before storing — moisture on the skin invites mould",
+      "Line the container with kitchen paper and store in a single layer",
+      "Remove any mouldy fruit at once, as spores spread fast in a closed punnet",
+      "Freeze in a single layer on a tray first so the fruit does not clump"
+    ],
+    "faq": [
+      {"q": "How long do fresh cherries last in the fridge?", "a": "About 7 days from purchase at 4 °C (40 °F) or below, stored unwashed in a shallow, ventilated container."},
+      {"q": "Can you freeze cherries and lychees?", "a": "Yes. Stone the cherries, peel and stone the lychees, freeze in a single layer, then bag them. They keep about 12 months at −18 °C (0 °F)."},
+      {"q": "Should you wash berries before storing them?", "a": "No. Wash them just before eating. Water left on the skin dramatically speeds up mould in the fridge."}
+    ]
+  },
+  "zh": {
+    "name": "櫻桃、鵝莓與荔枝",
+    "aliases": ["櫻桃", "荔枝", "醋栗", "鵝莓", "車厘子"],
+    "summary": "櫻桃、鵝莓和荔枝都是果皮薄的夏季水果，採收後品質下降得很快。冷藏從購買日起約可放 7 天，放 −18°C 冷凍則約可保存 12 個月。要吃之前才洗，表面殘留的水分會大幅加速發霉。",
+    "pantry": "這幾種水果不適合放在室溫。放在常溫一天內就會失去脆度，在悶熱的廚房裡很快發酵，還會招來果蠅。只在要吃的時候從冰箱拿出來，如果在炎熱天氣下已經放了好幾個小時，吃之前請仔細檢查有沒有變軟或發霉。",
+    "fridge": "放在 4°C 以下的冰箱，從購買日起約可放 7 天。不要清洗，鬆散地裝在淺容器或打洞的袋子裡讓空氣流通，容器底部墊一張廚房紙巾吸收冷凝水。荔枝密封裝袋能讓紅殼的顏色維持久一點，不過殼變褐色時果肉通常還是好的。",
+    "freezer": "這三種水果都很適合冷凍，放 −18°C 約可保存 12 個月。櫻桃先去核、荔枝先剝殼去核、鵝莓摘掉蒂頭和尾端，再平鋪在盤子上冷凍定型後裝袋，這樣才不會黏成一坨。解凍後質地偏軟，適合做糖煮水果、醬汁和烘焙。",
+    "thawing": "放在碗裡於冷藏室退冰，順便接住流出的果汁；或是打果昔、做醬汁和烘焙時直接用冷凍狀態。不要在室溫放好幾個小時退冰。",
+    "spoilage": [
+      "盒子裡有變軟、出水或整顆塌掉的果實",
+      "任何一顆長出灰白色毛狀黴菌，下層的也要一起檢查",
+      "有發酵味、酒精味或醋酸味",
+      "容器底部積了黏黏的果汁"
+    ],
+    "tips": [
+      "保存前絕對不要洗，果皮上的水分等於邀請黴菌",
+      "容器墊廚房紙巾，並且單層擺放",
+      "發現發霉的果實立刻挑掉，密閉盒子裡孢子散得很快",
+      "冷凍時先平鋪一層在盤子上定型，果實才不會黏成一塊"
+    ],
+    "faq": [
+      {"q": "櫻桃放冰箱可以放多久？", "a": "不清洗、裝在通風的淺容器裡，放 4°C 以下，從購買日起約 7 天。"},
+      {"q": "櫻桃和荔枝可以冷凍嗎？", "a": "可以。櫻桃去核、荔枝剝殼去核，先平鋪冷凍再裝袋，放 −18°C 約可保存 12 個月。"},
+      {"q": "莓果類保存前需要先洗嗎？", "a": "不用。要吃之前再洗。留在果皮上的水分會讓冷藏時的發霉速度大幅加快。"}
+    ]
+  },
+  "ja": {
+    "name": "さくらんぼ・グーズベリー・ライチ",
+    "aliases": ["さくらんぼ", "チェリー", "ライチ", "グーズベリー", "スグリ"],
+    "summary": "さくらんぼ、グーズベリー、ライチはいずれも皮の薄い夏の果物で、収穫後の劣化が早いのが特徴です。冷蔵なら購入日から約7日、−18℃の冷凍なら約12か月保存できます。表面の水分はカビを早めるので、食べる直前まで洗わないでください。",
+    "pantry": "これらは常温向きの果物ではありません。室温では1日で食感が落ち、暑い台所ではすぐ発酵し、コバエも寄ってきます。食卓に出す時間だけ冷蔵庫から出すようにし、暑い日に数時間置いてしまった場合は、やわらかさやカビをよく確認してから食べましょう。",
+    "fridge": "4℃以下の冷蔵庫なら購入日から約7日持ちます。洗わずに、浅い容器や穴あき袋にゆったり入れて風が通るようにし、底にキッチンペーパーを敷いて結露を吸わせます。ライチは密閉袋に入れると赤い殻の色が長持ちしますが、殻が茶色くなっても果肉は問題ないことがほとんどです。",
+    "freezer": "3種とも−18℃で約12か月よく冷凍できます。さくらんぼは種を、ライチは殻と種を取り、グーズベリーはヘタと先を落としてから、バットに広げて凍らせてから袋へ。解凍後はやわらかくなるので、コンポートやソース、焼き菓子向きです。",
+    "thawing": "ボウルに入れて冷蔵庫で解凍すると果汁も受け止められます。スムージーやソース、焼き菓子には凍ったまま使えます。室温で何時間も解凍しないでください。",
+    "spoilage": [
+      "パックの中でやわらかくなり、果汁が出たりつぶれたりしている",
+      "灰色や白のふわふわしたカビ（下の段も必ず確認を）",
+      "発酵臭、アルコール臭、酢のようなにおい",
+      "容器の底に果汁がべたついてたまっている"
+    ],
+    "tips": [
+      "保存前に洗わないこと。皮の水分がカビを招きます",
+      "容器にキッチンペーパーを敷き、重ねずに保存を",
+      "カビた実はすぐ取り除きましょう。密閉容器では胞子が一気に広がります",
+      "冷凍はバットに広げて凍らせてから袋へ。くっつきません"
+    ],
+    "faq": [
+      {"q": "さくらんぼは冷蔵庫でどのくらい持ちますか？", "a": "洗わず通気性のある浅い容器に入れ、4℃以下なら購入日から約7日です。"},
+      {"q": "さくらんぼやライチは冷凍できますか？", "a": "できます。さくらんぼは種を、ライチは殻と種を除き、バットで凍らせてから袋へ。−18℃で約12か月保存できます。"},
+      {"q": "ベリー類は保存前に洗うべきですか？", "a": "いいえ。食べる直前に洗ってください。皮に残った水分は冷蔵庫でのカビを大幅に早めます。"}
+    ]
+  },
+  "es": {
+    "name": "Cerezas, grosellas y lichis",
+    "aliases": ["cerezas frescas", "grosella espinosa", "lichi", "litchi", "guindas"],
+    "summary": "Cerezas, grosellas y lichis son frutas de verano de piel fina que se deterioran rápido tras la recolección. Refrigeradas duran unos 7 días desde la compra, y congeladas a −18 °C (0 °F) alrededor de 12 meses. No las laves hasta el momento de comerlas, porque la humedad en la superficie acelera el moho.",
+    "pantry": "No son frutas de encimera. A temperatura ambiente pierden firmeza en un día, fermentan rápido en una cocina cálida y atraen mosquitas de la fruta. Sácalas de la nevera solo el tiempo de servirlas, y si una tarrina ha estado fuera varias horas con calor, revísala bien en busca de fruta blanda o mohosa antes de comerla.",
+    "fridge": "La nevera a 4 °C (40 °F) o menos las mantiene unos 7 días desde la compra. Guárdalas sin lavar y sueltas en un recipiente bajo o una bolsa perforada para que circule el aire, y forra el fondo con papel de cocina para absorber la condensación. Los lichis conservan más tiempo el color rojo en bolsa cerrada, aunque la pulpa está bien aun con la cáscara oscurecida.",
+    "freezer": "Las tres se congelan bien unos 12 meses a −18 °C (0 °F). Deshuesa las cerezas, pela y deshuesa los lichis y despunta las grosellas; congélalas en una sola capa en bandeja antes de embolsarlas para que queden sueltas. La fruta descongelada queda blanda y va mejor en compotas, salsas y repostería.",
+    "thawing": "Descongélalas en la nevera dentro de un bol para recoger el jugo, o úsalas congeladas en batidos, salsas y repostería. No las dejes descongelándose horas a temperatura ambiente.",
+    "spoilage": [
+      "Fruta blanda, que suelta jugo o está hundida dentro de la tarrina",
+      "Moho gris o blanco en cualquier pieza; revisa también las de abajo",
+      "Olor fermentado, alcohólico o avinagrado",
+      "Jugo pegajoso acumulado en el fondo del recipiente"
+    ],
+    "tips": [
+      "Nunca las laves antes de guardarlas: la humedad en la piel invita al moho",
+      "Forra el recipiente con papel de cocina y guárdalas en una sola capa",
+      "Retira de inmediato cualquier fruta mohosa: las esporas se extienden rápido",
+      "Congélalas primero en una capa en bandeja para que no se apelmacen"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las cerezas frescas en la nevera?", "a": "Unos 7 días desde la compra a 4 °C (40 °F) o menos, sin lavar y en un recipiente bajo y ventilado."},
+      {"q": "¿Se pueden congelar cerezas y lichis?", "a": "Sí. Deshuesa las cerezas, pela y deshuesa los lichis, congélalos en una capa y embólsalos. Duran unos 12 meses a −18 °C (0 °F)."},
+      {"q": "¿Hay que lavar las bayas antes de guardarlas?", "a": "No. Lávalas justo antes de comerlas. El agua en la piel acelera muchísimo el moho en la nevera."}
+    ]
+  }
+}

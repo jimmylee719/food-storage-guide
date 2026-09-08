@@ -1,0 +1,107 @@
+{
+  "slug": "bananas",
+  "en": {
+    "name": "Bananas",
+    "aliases": ["Cavendish bananas", "ripe bananas", "plantain (cooking banana)", "nanas"],
+    "summary": "Bananas ripen rapidly off the plant, going from green to yellow to spotted in a matter of days. Keep them at room temperature until ripe — tender, fully developed and ready to eat. Ripe bananas can be refrigerated for about 3 days; the skin will blacken but the flesh stays good. Peeled bananas freeze for 2–3 months.",
+    "pantry": "Bananas belong on the counter, hung or resting on a curved side, away from direct sun and heat. Leave them out until ripe, judging by the yellow colour and a few brown freckles. They give off a lot of ethylene, so keeping them apart from apples, avocados and tomatoes stops everything ripening at once. To slow them down slightly, split the bunch into single bananas.",
+    "fridge": "Once ripe, a banana keeps about 3 days in the fridge at 4 °C (40 °F) or below. The skin turns black within hours because the cold damages the peel cells, but this is cosmetic — the flesh inside stays firm and sweet. Never refrigerate green bananas, as the cold stops them ripening properly.",
+    "freezer": "Peeled bananas freeze for 2–3 months at −18 °C (0 °F) and are ideal for smoothies, banana bread and ice cream. Peel them first, cut into chunks, freeze on a tray so they do not stick together, then bag them. Frozen unpeeled bananas are almost impossible to peel once thawed.",
+    "thawing": "Use frozen banana chunks straight from the freezer in smoothies. For baking, thaw them in a bowl in the fridge; they will be very soft and release liquid, which you should include in the batter.",
+    "spoilage": [
+      "Mushy, liquid flesh that has collapsed inside the skin",
+      "Fermented, alcoholic or vinegary smell",
+      "Mould on the skin or at the cut stem",
+      "Grey or brown flesh throughout rather than pale cream"
+    ],
+    "tips": [
+      "Separate the bunch into single bananas to slow ripening slightly",
+      "Wrap the crown of the bunch in cling film to trap escaping ethylene",
+      "Freeze overripe bananas in chunks for banana bread instead of throwing them away",
+      "Keep bananas away from apples and tomatoes, which they ripen fast"
+    ],
+    "faq": [
+      {"q": "Can you put bananas in the fridge?", "a": "Yes, once they are ripe. They keep about 3 days at 4 °C (40 °F) or below. The skin blackens, but the flesh stays good. Do not refrigerate green bananas."},
+      {"q": "Can you freeze bananas?", "a": "Yes. Peel them, cut into chunks and freeze at −18 °C (0 °F) for 2–3 months. They are perfect for smoothies and banana bread."},
+      {"q": "How do you stop bananas ripening so fast?", "a": "Separate the bunch, keep them away from other ethylene-producing fruit, and wrap the stems in cling film. Once ripe, move them to the fridge."}
+    ]
+  },
+  "zh": {
+    "name": "香蕉",
+    "aliases": ["芭蕉", "北蕉", "旦蕉", "弓蕉", "香蕉串"],
+    "summary": "香蕉離株後熟成得非常快，幾天內就會從綠色轉黃、再長出黑斑。買回來先放室溫直到成熟——變軟、風味完整、可以直接吃的狀態。成熟的香蕉可以冷藏約 3 天，外皮會變黑，但裡面的果肉沒問題。剝皮後的香蕉冷凍可放 2～3 個月。",
+    "pantry": "香蕉該待在室溫，可以吊起來或側躺放，避開陽光直射和熱源。放到轉黃、開始出現幾顆褐色小斑點就代表熟了。它會釋放大量乙烯，所以和蘋果、酪梨、番茄分開放，才不會所有東西一起熟。想稍微放慢速度，可以把整串拆成單根。",
+    "fridge": "熟了之後放進 4°C 以下的冰箱，大約可放 3 天。外皮幾小時內就會變黑，那是低溫破壞果皮細胞造成的，純粹是外觀問題，裡面的果肉依然結實香甜。還沒熟的青香蕉絕對不要冷藏，低溫會讓它無法正常成熟。",
+    "freezer": "剝皮的香蕉放 −18°C 冷凍可保存 2～3 個月，很適合打果昔、做香蕉蛋糕和冰淇淋。請先剝皮、切塊，平鋪在盤子上冷凍定型後再裝袋。帶皮冷凍的香蕉解凍後幾乎剝不開。",
+    "thawing": "打果昔時直接用冷凍的香蕉塊就好。烘焙用的話，放在碗裡於冷藏室退冰；退冰後會非常軟並出水，那些汁液請一起拌進麵糊。",
+    "spoilage": [
+      "果肉在皮裡已經爛成糊狀、出水",
+      "有發酵味、酒精味或醋酸味",
+      "外皮或切口的蒂頭處長黴",
+      "果肉整體轉灰或轉褐，而不是原本的乳白色"
+    ],
+    "tips": [
+      "把整串拆成單根，可以稍微放慢熟成速度",
+      "用保鮮膜把蒂頭那一端包起來，減少乙烯散出",
+      "太熟的香蕉不要丟，切塊冷凍起來做香蕉蛋糕",
+      "香蕉要遠離蘋果和番茄，它會讓那些東西快速熟透"
+    ],
+    "faq": [
+      {"q": "香蕉可以放冰箱嗎？", "a": "熟了就可以，放 4°C 以下大約 3 天。外皮會變黑但果肉沒問題。青香蕉不要冷藏。"},
+      {"q": "香蕉可以冷凍嗎？", "a": "可以。剝皮切塊後放 −18°C 冷凍 2～3 個月，拿來打果昔或做香蕉蛋糕都很適合。"},
+      {"q": "怎麼讓香蕉不要那麼快熟？", "a": "把整串拆開、遠離其他會釋放乙烯的水果，並用保鮮膜包住蒂頭。熟了之後就移到冰箱。"}
+    ]
+  },
+  "ja": {
+    "name": "バナナ",
+    "aliases": ["ばなな", "キャベンディッシュ", "完熟バナナ", "モンキーバナナ"],
+    "summary": "バナナは収穫後すぐに熟し、数日で緑から黄色、そしてシュガースポットのある状態へ変わります。食べごろ（やわらかく風味がのった状態）になるまでは常温で。完熟したバナナは冷蔵で約3日持ち、皮は黒くなりますが中身は問題ありません。皮をむいたバナナは2〜3か月冷凍できます。",
+    "pantry": "バナナは常温が基本で、吊るすか曲がった面を下にして、直射日光と熱を避けて置きます。黄色くなり茶色い斑点が少し出れば食べごろです。エチレンを多く出すので、りんご、アボカド、トマトとは離しておくと、他の果物が一気に熟すのを防げます。房をばらして1本ずつにすると、進行がわずかに遅くなります。",
+    "fridge": "熟したら4℃以下の冷蔵庫で約3日持ちます。低温で皮の細胞が傷むため数時間で真っ黒になりますが、これは見た目だけの問題で、中の果肉はしっかり甘いままです。青いバナナは冷蔵しないでください。うまく熟さなくなります。",
+    "freezer": "皮をむいたバナナは−18℃で2〜3か月冷凍でき、スムージーやバナナブレッド、アイスに最適です。皮をむいてからひと口大に切り、くっつかないようバットで凍らせてから袋へ。皮つきのまま凍らせると、解凍後にむくのがほぼ不可能になります。",
+    "thawing": "スムージーには凍ったまま使えます。焼き菓子に使う場合はボウルに入れて冷蔵庫で解凍を。とてもやわらかくなり水分が出ますが、その汁ごと生地に加えてください。",
+    "spoilage": [
+      "皮の中で果肉が崩れ、どろどろになっている",
+      "発酵臭、アルコール臭、酢のようなにおい",
+      "皮や切った軸の部分にカビ",
+      "果肉全体が灰色や茶色に変わっている"
+    ],
+    "tips": [
+      "房をばらして1本ずつにすると熟成が少し遅くなります",
+      "軸の付け根をラップで包むとエチレンの拡散を抑えられます",
+      "熟しすぎたら捨てずに切って冷凍し、バナナブレッドに",
+      "りんごやトマトのそばに置かないこと。急速に熟してしまいます"
+    ],
+    "faq": [
+      {"q": "バナナは冷蔵庫に入れてもいいですか？", "a": "完熟してからならOKで、4℃以下で約3日持ちます。皮は黒くなりますが中身は大丈夫です。青いバナナは冷蔵しないでください。"},
+      {"q": "バナナは冷凍できますか？", "a": "できます。皮をむいて切り、−18℃で2〜3か月。スムージーやバナナブレッドにぴったりです。"},
+      {"q": "バナナが早く熟すのを防ぐには？", "a": "房をばらし、他のエチレンを出す果物から離し、軸をラップで包みます。熟したら冷蔵庫へ移しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Plátanos",
+    "aliases": ["bananas", "banano", "guineo", "cambur", "plátano Cavendish"],
+    "summary": "Los plátanos maduran muy rápido fuera de la planta, pasando de verdes a amarillos y moteados en pocos días. Mantenlos a temperatura ambiente hasta que estén maduros —tiernos, plenamente desarrollados y listos para comer—. Los maduros aguantan unos 3 días en la nevera; la piel se ennegrece pero la pulpa sigue bien. Pelados se congelan 2–3 meses.",
+    "pantry": "Los plátanos van en la encimera, colgados o apoyados sobre el lado curvo, lejos del sol y del calor. Déjalos fuera hasta que estén amarillos con algunas pecas marrones. Desprenden mucho etileno, así que separarlos de manzanas, aguacates y tomates evita que todo madure a la vez. Separar la piña en unidades ralentiza algo el proceso.",
+    "fridge": "Ya maduros, un plátano dura unos 3 días en la nevera a 4 °C (40 °F) o menos. La piel se vuelve negra en pocas horas porque el frío daña sus células, pero es solo estético: la pulpa sigue firme y dulce. Nunca refrigeres plátanos verdes, porque el frío les impide madurar bien.",
+    "freezer": "Los plátanos pelados se congelan 2–3 meses a −18 °C (0 °F) y son ideales para batidos, bizcocho de plátano y helados. Pélalos, córtalos en trozos, congélalos en una bandeja para que no se peguen y luego embólsalos. Los congelados con piel resultan casi imposibles de pelar después.",
+    "thawing": "Usa los trozos congelados directamente en batidos. Para repostería, descongélalos en un bol en la nevera; quedarán muy blandos y soltarán líquido, que conviene incorporar a la masa.",
+    "spoilage": [
+      "Pulpa deshecha y líquida dentro de la piel",
+      "Olor fermentado, alcohólico o avinagrado",
+      "Moho en la piel o en el extremo cortado del tallo",
+      "Pulpa gris o parda en toda la pieza en lugar de color crema"
+    ],
+    "tips": [
+      "Separa la piña en plátanos sueltos para frenar algo la maduración",
+      "Envuelve el extremo del tallo en film para retener el etileno",
+      "Congela en trozos los plátanos muy maduros para bizcocho en lugar de tirarlos",
+      "Manténlos lejos de manzanas y tomates, a los que maduran deprisa"
+    ],
+    "faq": [
+      {"q": "¿Se pueden meter los plátanos en la nevera?", "a": "Sí, una vez maduros. Duran unos 3 días a 4 °C (40 °F) o menos. La piel se ennegrece pero la pulpa sigue bien. No refrigeres plátanos verdes."},
+      {"q": "¿Se pueden congelar los plátanos?", "a": "Sí. Pélalos, córtalos en trozos y congélalos a −18 °C (0 °F) durante 2–3 meses. Son perfectos para batidos y bizcocho de plátano."},
+      {"q": "¿Cómo evitar que los plátanos maduren tan rápido?", "a": "Sepáralos, manténlos lejos de otras frutas que emiten etileno y envuelve los tallos en film. Una vez maduros, pásalos a la nevera."}
+    ]
+  }
+}

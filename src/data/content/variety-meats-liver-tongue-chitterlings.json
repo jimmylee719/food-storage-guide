@@ -1,0 +1,107 @@
+{
+  "slug": "variety-meats-liver-tongue-chitterlings",
+  "en": {
+    "name": "Variety meats (liver, tongue, chitterlings)",
+    "aliases": ["offal", "organ meats", "liver", "tongue", "tripe and chitterlings"],
+    "summary": "Variety meats — liver, kidney, heart, tongue, tripe and chitterlings — are organ and offal cuts that spoil faster than muscle meat because they are rich in enzymes, blood and moisture. Raw, they keep only 1–2 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 3–4 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw offal must never be left at room temperature — it is among the most perishable things you can buy. Its own enzymes keep breaking it down even while chilled, and in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) bacteria multiply very quickly. Discard offal left out for more than 2 hours, or 1 hour above 32 °C (90 °F).",
+    "fridge": "Store variety meats in a sealed container on the bottom shelf at 4 °C (40 °F) or below, on a plate, and keep them strictly separate from ready-to-eat food. Plan to use them within 1–2 days of purchase — this is the shortest fridge window of any raw meat. Chitterlings and tripe need thorough cleaning; do it just before cooking, and disinfect the sink and boards afterwards.",
+    "freezer": "Freeze offal as soon as you get it home if you are not cooking it the same day. Cut liver into portion-sized slices, wrap tightly and freeze at −18 °C (0 °F): safe indefinitely, best quality for 3–4 months, shorter than muscle meat because organ fats go rancid faster. Label clearly, since frozen liver and kidney look similar once wrapped.",
+    "thawing": "Thaw in the fridge overnight, keeping the package on a plate, and cook it the same day. Cold-water thawing in a sealed bag changed every 30 minutes also works. Never thaw offal on the counter, and always cook it thoroughly — liver and kidney should reach at least 71 °C (160 °F).",
+    "spoilage": [
+      "Strong sour, metallic or ammonia-like smell beyond the normal iron scent of fresh liver",
+      "Slimy, sticky or gluey surface",
+      "Grey-green or dull brown colour where the organ was deep red or pink",
+      "Cloudy, thickened liquid in the package, or a passed use-by date"
+    ],
+    "tips": [
+      "Buy offal on the day you plan to cook it — 1–2 days is genuinely short.",
+      "Soak liver in milk for 30 minutes in the fridge to soften its strong flavour.",
+      "Freeze liver in single portions between sheets of paper.",
+      "Clean chitterlings and tripe in a dedicated bowl, then disinfect the sink and utensils."
+    ],
+    "faq": [
+      {"q": "Can you freeze liver and other offal?", "a": "Yes. Portion it, wrap tightly and freeze at −18 °C (0 °F): safe indefinitely and best quality for 3–4 months, shorter than for muscle meat."},
+      {"q": "How long does liver last in the fridge?", "a": "Only 1–2 days from the day of purchase at 4 °C (40 °F) or below. Freeze it the same day if you cannot cook it."},
+      {"q": "How can you tell if liver has gone bad?", "a": "Fresh liver smells faintly of iron and looks glossy. A sour or ammonia smell, a slimy surface or a dull grey-brown colour all mean it should be thrown away."}
+    ]
+  },
+  "zh": {
+    "name": "內臟類（肝、舌、大腸等）",
+    "aliases": ["內臟", "下水", "豬肝", "牛舌", "大腸／粉腸"],
+    "summary": "內臟類——肝、腰子、心、舌、肚、腸——因為酵素、血液和水分都多，比一般肌肉肉品壞得快。生的內臟在 4°C 以下冷藏，從購買日起只能放 1～2 天；放 −18°C 冷凍可放 3～4 個月。",
+    "pantry": "生內臟絕對不能放室溫，它是最容易腐敗的食材之一。即使冷藏，本身的酵素也持續在分解組織；在 4～60°C 的危險溫度帶細菌更是繁殖得極快。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。",
+    "fridge": "裝進密封容器、放在盤子上，置於冰箱最下層，維持 4°C 以下，並與即食食品嚴格分開。從購買日起請在 1～2 天內用完——這是所有生肉中最短的冷藏期限。大腸和牛肚要徹底清洗，請在下鍋前才處理，洗完把水槽和砧板消毒乾淨。",
+    "freezer": "當天不煮的話，一買回來就冷凍。肝臟先切成每次要用的份量、包緊後放 −18°C 冷凍：安全上可以無限期保存，品質以 3～4 個月為佳，比一般肌肉肉短，因為內臟的脂肪氧化得更快。包好之後肝和腰子外觀很像，一定要清楚標示。",
+    "thawing": "放冷藏室解凍一晚（下面墊盤），並在當天煮完。裝密封袋泡冷水、每 30 分鐘換水也可以。絕對不要放室溫解凍，而且一定要煮熟——肝和腰子要達到中心至少 71°C。",
+    "spoilage": [
+      "除了新鮮肝臟正常的鐵味之外，出現強烈酸味、金屬味或阿摩尼亞味",
+      "表面黏滑、發黏或黏糊",
+      "原本深紅或粉紅的部位變成灰綠或暗褐色",
+      "包裝內的液體混濁變稠，或已超過有效日期"
+    ],
+    "tips": [
+      "當天要煮才買，1～2 天真的很短。",
+      "豬肝放冰箱用牛奶泡 30 分鐘，可以減輕腥味。",
+      "肝臟用紙隔開、一份一份冷凍。",
+      "清洗大腸、牛肚用專用的盆，洗完把水槽和器具消毒。"
+    ],
+    "faq": [
+      {"q": "豬肝、內臟可以冷凍嗎？", "a": "可以。分裝包緊後放 −18°C 冷凍：安全上無限期，品質以 3～4 個月為佳，比一般肉短。"},
+      {"q": "豬肝放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起只有 1～2 天。當天煮不完就直接冷凍。"},
+      {"q": "豬肝壞掉怎麼看？", "a": "新鮮的肝有淡淡鐵味、表面有光澤。出現酸味或阿摩尼亞味、表面黏滑、顏色變暗灰褐，就要丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "内臓肉（レバー・タン・もつ）",
+    "aliases": ["ホルモン", "モツ", "レバー", "牛タン", "ミノ・シマチョウ"],
+    "summary": "レバー、腎臓、ハツ、タン、ミノ、腸などの内臓肉は、酵素・血液・水分が多いため筋肉の肉より早く傷みます。生の状態では4℃以下の冷蔵で購入日から1〜2日しかもたず、−18℃の冷凍で3〜4か月が目安です。",
+    "pantry": "生の内臓を常温に置くことは絶対に避けてください。もっとも傷みやすい食材のひとつで、冷蔵中でも自身の酵素によって分解が進み、4〜60℃の危険温度帯では細菌が非常に速く増えます。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分します。",
+    "fridge": "密閉容器に入れて皿にのせ、冷蔵庫の最下段で4℃以下を保ち、そのまま食べる食品とは厳密に分けて保管します。購入日から1〜2日以内に使い切ってください。生肉のなかでもっとも短い期限です。もつやミノの下処理は調理直前に行い、終わったらシンクとまな板を消毒しましょう。",
+    "freezer": "当日調理しないなら、帰宅後すぐ冷凍します。レバーは1回分ずつに切り、密着させて包んで−18℃で冷凍。安全面では長期間ですが、品質の目安は3〜4か月と筋肉の肉より短めです。内臓の脂は酸化が早いためです。包むとレバーと腎臓は見分けがつかないので、はっきりラベルを付けましょう。",
+    "thawing": "皿にのせて冷蔵庫で一晩解凍し、その日のうちに調理します。密閉袋で冷水解凍（30分ごとに水替え）も可能です。常温解凍は避け、必ず十分に加熱してください。レバーや腎臓は中心温度71℃以上が目安です。",
+    "spoilage": [
+      "新鮮なレバー特有の鉄のにおいを超えて、強い酸敗臭・金属臭・アンモニア臭がする",
+      "表面がぬめる、べたつく、のり状になっている",
+      "本来の濃い赤やピンクではなく灰緑色やくすんだ茶色になっている",
+      "パック内の液体が濁ってとろみが出ている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "調理する日に買う。1〜2日は本当に短い。",
+      "レバーは冷蔵庫で牛乳に30分ほど浸すとくせがやわらぐ。",
+      "レバーは紙を挟んで1回分ずつ冷凍する。",
+      "もつやミノの下処理は専用のボウルで行い、終わったら器具とシンクを消毒する。"
+    ],
+    "faq": [
+      {"q": "レバーやもつは冷凍できますか？", "a": "できます。小分けにして密着させて包み−18℃で冷凍。安全面では長期間、品質は3〜4か月と、筋肉の肉より短めが目安です。"},
+      {"q": "レバーは冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から1〜2日だけです。当日調理できないならすぐ冷凍してください。"},
+      {"q": "レバーが傷んでいるかどうかの見分け方は？", "a": "新鮮なものはほのかな鉄のにおいでつやがあります。酸っぱいにおいやアンモニア臭、ぬめり、くすんだ灰褐色なら処分してください。"}
+    ]
+  },
+  "es": {
+    "name": "Vísceras (hígado, lengua, tripas)",
+    "aliases": ["menudencias", "casquería", "hígado", "lengua", "tripas y mondongo"],
+    "summary": "Las vísceras —hígado, riñón, corazón, lengua, callos y tripas— se estropean antes que la carne muscular porque son ricas en enzimas, sangre y humedad. Crudas duran solo 1–2 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y 3–4 meses en el congelador a −18 °C (0 °F).",
+    "pantry": "Las vísceras crudas nunca deben dejarse a temperatura ambiente: están entre los alimentos más perecederos que puedes comprar. Sus propias enzimas siguen degradándolas incluso en frío, y en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F) las bacterias se multiplican muy rápido. Desecha las que lleven más de 2 horas fuera, o 1 hora por encima de 32 °C (90 °F).",
+    "fridge": "Guárdalas en un recipiente cerrado, sobre un plato, en el estante inferior a 4 °C (40 °F) o menos y estrictamente separadas de alimentos listos para comer. Úsalas en 1–2 días desde la compra: es el plazo más corto de todas las carnes crudas. Las tripas y los callos requieren una limpieza a fondo; hazla justo antes de cocinar y desinfecta después el fregadero y las tablas.",
+    "freezer": "Congélalas nada más llegar a casa si no las vas a cocinar ese día. Corta el hígado en porciones, envuélvelas apretadas y congélalas a −18 °C (0 °F): seguras indefinidamente y con la mejor calidad 3–4 meses, menos que la carne muscular porque las grasas de las vísceras se enrancian antes. Etiqueta con claridad: hígado y riñón se parecen mucho una vez envueltos.",
+    "thawing": "Descongélalas en el refrigerador durante una noche, con el paquete sobre un plato, y cocínalas ese mismo día. El agua fría en bolsa cerrada, cambiada cada 30 minutos, también sirve. Nunca las descongeles en la encimera y cocínalas siempre por completo: hígado y riñón deben alcanzar al menos 71 °C (160 °F).",
+    "spoilage": [
+      "Olor agrio, metálico o a amoníaco muy marcado, más allá del aroma ferroso normal del hígado fresco",
+      "Superficie viscosa, pegajosa o gelatinosa",
+      "Color gris verdoso o pardo apagado donde el órgano era rojo intenso o rosado",
+      "Líquido turbio y espeso en el envase, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Cómpralas el día que vas a cocinarlas: 1–2 días es realmente poco.",
+      "Remoja el hígado en leche 30 minutos en el refrigerador para suavizar su sabor.",
+      "Congela el hígado en porciones individuales separadas con papel.",
+      "Limpia tripas y callos en un recipiente dedicado y desinfecta después fregadero y utensilios."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el hígado y otras vísceras?", "a": "Sí. Divídelas en porciones, envuélvelas bien y congélalas a −18 °C (0 °F): seguras indefinidamente y con la mejor calidad 3–4 meses."},
+      {"q": "¿Cuánto dura el hígado en el refrigerador?", "a": "Solo 1–2 días desde el día de compra a 4 °C (40 °F) o menos. Congélalo el mismo día si no puedes cocinarlo."},
+      {"q": "¿Cómo saber si el hígado está malo?", "a": "El hígado fresco huele levemente a hierro y se ve brillante. Olor agrio o a amoníaco, superficie viscosa o color gris pardo apagado indican que hay que tirarlo."}
+    ]
+  }
+}

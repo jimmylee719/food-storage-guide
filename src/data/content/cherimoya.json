@@ -1,0 +1,107 @@
+{
+  "slug": "cherimoya",
+  "en": {
+    "name": "Cherimoya",
+    "aliases": ["custard apple", "sugar apple", "sweetsop", "Annona cherimola"],
+    "summary": "Cherimoya is a heart-shaped tropical fruit with green scaled skin and creamy white flesh that tastes of banana, pineapple and vanilla. It is picked firm and ripens at room temperature until tender and ready to eat; once ripe it keeps about 4 days in the fridge. The pulp freezes for 10–12 months.",
+    "pantry": "Leave a firm cherimoya on the counter, out of direct sun, until it is ripe — the skin darkens slightly and the fruit gives to gentle pressure, like a ripe avocado or peach. This usually takes 2–4 days. Do not refrigerate it while it is still hard, because the cold halts ripening and the flesh never develops its custard texture.",
+    "fridge": "Once ripe, refrigerate the cherimoya at 4 °C (40 °F) or below, where it keeps about 4 days. The skin will blacken in the cold, which is cosmetic and does not affect the flesh. Store a cut fruit in an airtight container and eat it within a day or two, since the pale flesh browns quickly on contact with air.",
+    "freezer": "The scooped-out pulp freezes well for 10–12 months at −18 °C (0 °F). Remove all the hard black seeds, which are not edible, mash or purée the flesh with a squeeze of lime to prevent browning, and freeze it in airtight portions for smoothies, sorbet and ice cream.",
+    "thawing": "Thaw cherimoya pulp in the fridge and use it soon after, or blend it straight from frozen into a smoothie or sorbet. The texture becomes softer and more liquid once thawed.",
+    "spoilage": [
+      "Flesh that has turned brown, grey or watery throughout",
+      "Fermented, alcoholic or sour smell instead of a sweet, fragrant one",
+      "Mould or oozing liquid on the skin",
+      "Split skin with the flesh collapsed underneath"
+    ],
+    "tips": [
+      "Buy cherimoya firm and ripen it at home — ripe fruit travels badly",
+      "Do not eat the seeds; remove every one before puréeing",
+      "Chill a ripe cherimoya for an hour and eat it with a spoon like a custard",
+      "Add lime juice to the pulp before freezing to stop it browning"
+    ],
+    "faq": [
+      {"q": "How long does cherimoya last in the fridge?", "a": "About 4 days once ripe, at 4 °C (40 °F) or below. Do not refrigerate it while it is still hard, as the cold stops it ripening."},
+      {"q": "Can you freeze cherimoya?", "a": "Yes. Scoop out the pulp, remove all the seeds, add a little lime juice and freeze in airtight portions for 10–12 months at −18 °C (0 °F)."},
+      {"q": "How do you know when a cherimoya is ripe?", "a": "The skin darkens slightly and the fruit yields to gentle pressure, like a ripe avocado. It should also smell sweet and floral at the stem."}
+    ]
+  },
+  "zh": {
+    "name": "釋迦（南美釋迦）",
+    "aliases": ["秘魯番荔枝", "奶油果", "南美釋迦", "cherimoya", "番荔枝"],
+    "summary": "Cherimoya 是心形的熱帶水果，外皮青綠帶鱗片狀紋路，果肉乳白綿密，吃起來像香蕉、鳳梨和香草的綜合體。它是硬的時候採收，在室溫後熟到變軟就可以吃；熟了之後冷藏約可放 4 天。挖出的果肉冷凍可保存 10～12 個月。",
+    "pantry": "還硬的果實請放在室溫、避開陽光直射，直到後熟：外皮顏色會稍微變深，輕壓會下陷，就像熟透的酪梨或水蜜桃。通常需要 2～4 天。還硬的時候絕對不要冷藏，低溫會中斷後熟，果肉再也不會變成滑順的奶油質地。",
+    "fridge": "熟了之後放進 4°C 以下的冰箱，約可保存 4 天。冷藏後外皮會變黑，那只是外觀問題，不影響裡面的果肉。切開的果實請放密封盒，並在一兩天內吃完，因為白色果肉接觸空氣後很快就會褐變。",
+    "freezer": "挖出來的果肉很適合冷凍，放 −18°C 可保存 10～12 個月。先把所有黑色硬籽挑掉（籽不能吃），把果肉壓成泥並拌入一點萊姆汁防止褐變，再分裝密封冷凍，之後可以做果昔、雪酪和冰淇淋。",
+    "thawing": "果肉泥放冷藏室退冰後盡快使用，或是直接用冷凍狀態打成果昔或雪酪。解凍後質地會更軟、更接近液狀。",
+    "spoilage": [
+      "果肉整體變褐、變灰或出水",
+      "有發酵味、酒精味或酸味，而不是香甜的果香",
+      "外皮長黴或滲出汁液",
+      "外皮裂開，底下的果肉已經塌掉"
+    ],
+    "tips": [
+      "買硬的回家自己催熟，熟果不耐運送",
+      "籽不可食用，打泥前一定要全部挑乾淨",
+      "熟果冷藏一小時後用湯匙挖著吃，口感像布丁",
+      "果肉冷凍前拌一點萊姆汁，可以防止褐變"
+    ],
+    "faq": [
+      {"q": "Cherimoya 放冰箱可以放多久？", "a": "熟了之後放 4°C 以下約 4 天。還硬的時候不要冷藏，低溫會讓它無法後熟。"},
+      {"q": "Cherimoya 可以冷凍嗎？", "a": "可以。挖出果肉、去掉所有籽、拌一點萊姆汁後密封分裝，放 −18°C 可保存 10～12 個月。"},
+      {"q": "怎麼判斷 cherimoya 熟了？", "a": "外皮顏色稍微變深，輕壓會微微下陷，就像熟酪梨；蒂頭附近也會有香甜的花果香。"}
+    ]
+  },
+  "ja": {
+    "name": "チェリモヤ",
+    "aliases": ["カスタードアップル", "森のアイスクリーム", "バンレイシ", "アテモヤ"],
+    "summary": "チェリモヤはハート形の熱帯果実で、うろこ模様の緑の皮とクリーム色の果肉を持ち、バナナ・パイナップル・バニラを合わせたような味です。固い状態で収穫され、常温でやわらかくなるまで追熟させます。熟したものは冷蔵で約4日、果肉は10〜12か月冷凍できます。",
+    "pantry": "固いチェリモヤは直射日光を避けて常温に置き、追熟させます。皮の色がやや濃くなり、熟したアボカドや桃のように軽く押すと沈めば食べごろで、通常2〜4日かかります。固いうちに冷蔵すると追熟が止まり、あのなめらかな食感になりません。",
+    "fridge": "熟したら4℃以下で冷蔵し、約4日を目安に食べます。冷蔵で皮は黒ずみますが見た目だけの変化で、果肉に影響はありません。切ったものは密閉容器に入れて1〜2日以内に。白い果肉は空気に触れるとすぐ茶色くなります。",
+    "freezer": "取り出した果肉は−18℃で10〜12か月よく冷凍できます。食べられない黒い硬い種をすべて取り除き、変色防止にライム汁を少し加えてつぶすかピューレにし、小分け密閉して冷凍すれば、スムージーやシャーベット、アイスに使えます。",
+    "thawing": "果肉は冷蔵庫で解凍し、早めに使い切ります。スムージーやシャーベットには凍ったままミキサーにかけてもかまいません。解凍後はやわらかく、より液状に近づきます。",
+    "spoilage": [
+      "果肉全体が茶色や灰色に変色し、水っぽくなっている",
+      "甘い香りではなく発酵臭、アルコール臭、酸っぱいにおいがする",
+      "皮にカビが出ている、汁がしみ出している",
+      "皮が裂け、中の果肉が崩れている"
+    ],
+    "tips": [
+      "熟果は輸送に弱いので、固いものを買って家で追熟を",
+      "種は食べられません。ピューレにする前にすべて取り除きましょう",
+      "食べごろのものを1時間冷やし、スプーンですくって食べるのがおすすめ",
+      "冷凍前にライム汁を混ぜると変色を防げます"
+    ],
+    "faq": [
+      {"q": "チェリモヤは冷蔵庫でどのくらい持ちますか？", "a": "熟したものを4℃以下で約4日です。固いうちは冷蔵しないでください。追熟が止まってしまいます。"},
+      {"q": "チェリモヤは冷凍できますか？", "a": "できます。果肉を取り出して種をすべて除き、ライム汁を少し加えて小分け密閉し、−18℃で10〜12か月保存できます。"},
+      {"q": "チェリモヤの食べごろはどう見分けますか？", "a": "皮の色がやや濃くなり、熟したアボカドのように軽く押すと沈む状態です。軸のあたりから甘い花のような香りもします。"}
+    ]
+  },
+  "es": {
+    "name": "Chirimoya",
+    "aliases": ["chirimoya", "anona", "cherimoya", "guanábana blanca", "Annona cherimola"],
+    "summary": "La chirimoya es una fruta tropical acorazonada, de piel verde escamada y pulpa blanca y cremosa con sabor a plátano, piña y vainilla. Se recolecta firme y madura a temperatura ambiente hasta quedar tierna; ya madura aguanta unos 4 días en la nevera. La pulpa se congela 10–12 meses.",
+    "pantry": "Deja la chirimoya firme en la encimera, fuera del sol directo, hasta que madure: la piel se oscurece ligeramente y la fruta cede a una presión suave, como un aguacate o un melocotón maduros. Suele tardar 2–4 días. No la refrigeres mientras siga dura, porque el frío detiene la maduración y la pulpa nunca alcanza su textura de natilla.",
+    "fridge": "Una vez madura, refrigérala a 4 °C (40 °F) o menos, donde dura unos 4 días. La piel se ennegrece con el frío, algo estético que no afecta a la pulpa. Guarda la fruta cortada en un recipiente hermético y cómela en uno o dos días, porque la pulpa clara se oscurece rápido con el aire.",
+    "freezer": "La pulpa se congela bien 10–12 meses a −18 °C (0 °F). Retira todas las semillas negras y duras, que no son comestibles, tritura la pulpa con un chorro de lima para evitar el oscurecimiento y congélala en porciones herméticas para batidos, sorbetes y helados.",
+    "thawing": "Descongela la pulpa en la nevera y úsala pronto, o tritúrala congelada para un batido o un sorbete. Al descongelarse queda más blanda y líquida.",
+    "spoilage": [
+      "Pulpa parda, grisácea o aguada en toda la pieza",
+      "Olor fermentado, alcohólico o agrio en lugar de dulce y perfumado",
+      "Moho o líquido rezumando por la piel",
+      "Piel agrietada con la pulpa hundida debajo"
+    ],
+    "tips": [
+      "Cómprala firme y madúrala en casa: la fruta madura viaja mal",
+      "No comas las semillas; retíralas todas antes de triturar",
+      "Enfría una chirimoya madura una hora y cómela a cucharadas como una natilla",
+      "Añade zumo de lima a la pulpa antes de congelarla para que no se oscurezca"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la chirimoya en la nevera?", "a": "Unos 4 días una vez madura, a 4 °C (40 °F) o menos. No la refrigeres mientras siga dura, porque el frío detiene la maduración."},
+      {"q": "¿Se puede congelar la chirimoya?", "a": "Sí. Saca la pulpa, retira todas las semillas, añade un poco de lima y congélala en porciones herméticas 10–12 meses a −18 °C (0 °F)."},
+      {"q": "¿Cómo saber si una chirimoya está madura?", "a": "La piel se oscurece un poco y la fruta cede a la presión suave, como un aguacate maduro. También debe oler dulce y floral junto al rabito."}
+    ]
+  }
+}

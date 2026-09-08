@@ -1,0 +1,107 @@
+{
+  "slug": "berries-blackberries-boysenberries-currant",
+  "en": {
+    "name": "Blackberries, boysenberries and currants",
+    "aliases": ["blackberries", "boysenberries", "redcurrants", "blackcurrants", "brambles"],
+    "summary": "Blackberries, boysenberries and currants are among the most fragile of berries: soft, thin-skinned and quick to mould. Refrigerated they keep only 3–6 days from the date of purchase, but frozen at −18 °C (0 °F) they last about 12 months. Never wash them until the moment you eat them.",
+    "pantry": "These berries should not be stored at room temperature. Left on the counter they collapse and grow mould within a day, and in a warm kitchen they ferment fast and attract fruit flies. Bring them out of the fridge only to serve, and eat them within a couple of hours of being out.",
+    "fridge": "Store them unwashed at 4 °C (40 °F) or below, where they keep 3–6 days from purchase. Spread them in a shallow container lined with kitchen paper, in a single layer if possible, and leave the lid slightly ajar or use a perforated punnet so moisture escapes. Check the punnet daily and remove any soft or mouldy berry immediately.",
+    "freezer": "Freezing is by far the best way to keep a glut: about 12 months at −18 °C (0 °F). Spread the berries in a single layer on a tray, freeze until firm, then transfer to bags so they stay loose. Thawed berries are soft and juicy, which suits coulis, jam, smoothies and baking.",
+    "thawing": "Thaw in a bowl in the fridge to catch the juice, or add the berries straight from frozen to smoothies, sauces and cakes. Room-temperature thawing makes them collapse and weep.",
+    "spoilage": [
+      "Soft, leaking or collapsed berries at the bottom of the punnet",
+      "Grey or white fuzzy mould on any berry",
+      "Fermented, alcoholic or vinegary smell",
+      "Slimy texture or sticky juice pooling in the container"
+    ],
+    "tips": [
+      "Do not wash before storing — rinse only just before eating",
+      "Line the container with kitchen paper to absorb condensation",
+      "Sort through the punnet the day you buy it and discard any damaged fruit",
+      "Freeze on a tray in a single layer so the berries do not clump together"
+    ],
+    "faq": [
+      {"q": "How long do blackberries last in the fridge?", "a": "3–6 days from purchase at 4 °C (40 °F) or below, stored unwashed in a shallow, ventilated container lined with kitchen paper."},
+      {"q": "Can you freeze blackberries and currants?", "a": "Yes, and it is the best way to keep them. Freeze in a single layer on a tray, then bag them; they keep about 12 months at −18 °C (0 °F)."},
+      {"q": "Why do berries go mouldy so quickly?", "a": "Their thin skins damage easily and surface moisture lets mould spores grow. Store them dry and unwashed, remove damaged fruit and keep them cold."}
+    ]
+  },
+  "zh": {
+    "name": "黑莓、波森莓與醋栗",
+    "aliases": ["黑莓", "波森莓", "紅醋栗", "黑醋栗", "覆盆莓類"],
+    "summary": "黑莓、波森莓和醋栗是最嬌貴的莓果，果肉軟、果皮薄，很快就會發霉。冷藏從購買日起只能放 3～6 天，但放 −18°C 冷凍可保存約 12 個月。要吃的當下才洗，絕對不要提前清洗。",
+    "pantry": "這類莓果不該放在室溫。放在檯面上一天內就會塌掉、長黴，在悶熱的廚房裡發酵得更快，還會引來果蠅。只在上桌時從冰箱拿出來，並且在拿出來後兩小時內吃完。",
+    "fridge": "不清洗，直接放在 4°C 以下保存，從購買日起可放 3～6 天。裝在墊了廚房紙巾的淺容器裡，盡量單層擺放，蓋子留一點縫或使用打洞的果盒，讓水氣散得出去。每天檢查一次，發現變軟或發霉的立刻挑掉。",
+    "freezer": "一次買太多時，冷凍是最好的辦法：放 −18°C 約可保存 12 個月。把莓果單層鋪在盤子上冷凍到變硬，再倒進袋子保存，這樣才會粒粒分明。解凍後質地軟嫩多汁，很適合做果泥醬、果醬、果昔和烘焙。",
+    "thawing": "放在碗裡於冷藏室退冰，順便接住果汁；或是打果昔、做醬汁和蛋糕時直接用冷凍狀態。室溫退冰會讓它們塌爛出水。",
+    "spoilage": [
+      "盒底有變軟、出水或塌掉的果實",
+      "任何一顆長出灰白色毛狀黴菌",
+      "有發酵味、酒精味或醋酸味",
+      "摸起來黏滑，或容器裡積了黏黏的果汁"
+    ],
+    "tips": [
+      "保存前不要洗，吃之前再沖",
+      "容器裡墊廚房紙巾吸收冷凝水",
+      "買回來當天就先翻找一遍，破損的果實直接挑掉",
+      "冷凍時單層鋪盤，果實才不會黏成一團"
+    ],
+    "faq": [
+      {"q": "黑莓放冰箱可以放多久？", "a": "不清洗、裝在墊紙巾的通風淺容器裡，放 4°C 以下，從購買日起 3～6 天。"},
+      {"q": "黑莓和醋栗可以冷凍嗎？", "a": "可以，而且這是最好的保存方式。單層鋪盤冷凍後再裝袋，放 −18°C 約可保存 12 個月。"},
+      {"q": "莓果為什麼那麼容易發霉？", "a": "因為果皮薄、容易受損，加上表面的水分讓黴菌孢子有機可乘。請保持乾燥、不預先清洗、挑掉破損果實，並全程低溫保存。"}
+    ]
+  },
+  "ja": {
+    "name": "ブラックベリー・ボイセンベリー・カラント",
+    "aliases": ["ブラックベリー", "ボイセンベリー", "レッドカラント", "カシス", "スグリ"],
+    "summary": "ブラックベリー、ボイセンベリー、カラントはベリー類のなかでもとくに繊細で、やわらかく皮が薄く、すぐカビます。冷蔵では購入日から3〜6日しか持ちませんが、−18℃の冷凍なら約12か月保存できます。食べる直前まで絶対に洗わないでください。",
+    "pantry": "これらのベリーを常温で保存してはいけません。調理台に置くと1日で崩れてカビが出ますし、暑い台所では発酵が早く、コバエも寄ってきます。冷蔵庫から出すのは食べる分だけ、出したら2時間以内に食べ切りましょう。",
+    "fridge": "洗わずに4℃以下で保存し、購入日から3〜6日が目安です。キッチンペーパーを敷いた浅い容器にできれば一段で広げ、ふたを少しずらすか穴あきパックを使って湿気を逃がします。毎日確認し、やわらかい実やカビた実はすぐ取り除いてください。",
+    "freezer": "たくさん手に入ったときは冷凍が最善で、−18℃で約12か月。バットに一段に広げて固まるまで凍らせ、それから袋へ移すとばらばらのまま保てます。解凍後はやわらかくジューシーになり、クーリやジャム、スムージー、焼き菓子に向きます。",
+    "thawing": "ボウルに入れて冷蔵庫で解凍すると果汁も受け止められます。スムージーやソース、ケーキには凍ったまま使えます。室温解凍は崩れて水が出るので避けましょう。",
+    "spoilage": [
+      "パックの底にやわらかく崩れた実や果汁がたまっている",
+      "灰色や白のふわふわしたカビが出ている",
+      "発酵臭、アルコール臭、酢のようなにおい",
+      "ぬめりがある、容器に果汁がべたついている"
+    ],
+    "tips": [
+      "保存前は洗わず、食べる直前にすすぎましょう",
+      "容器にキッチンペーパーを敷いて結露を吸わせます",
+      "買った日にパックを見直し、傷んだ実は取り除きましょう",
+      "冷凍はバットに一段で。実どうしがくっつきません"
+    ],
+    "faq": [
+      {"q": "ブラックベリーは冷蔵庫でどのくらい持ちますか？", "a": "洗わずキッチンペーパーを敷いた通気性のある浅い容器に入れ、4℃以下で購入日から3〜6日です。"},
+      {"q": "ブラックベリーやカラントは冷凍できますか？", "a": "できますし、最良の保存法です。バットに一段で凍らせてから袋へ。−18℃で約12か月保存できます。"},
+      {"q": "ベリーはなぜすぐカビるのですか？", "a": "皮が薄く傷つきやすいうえ、表面の水分がカビの胞子を育てるためです。洗わず乾いた状態で、傷んだ実を取り除き、低温で保存しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Moras, boysenberries y grosellas",
+    "aliases": ["moras", "zarzamoras", "boysenberry", "grosellas rojas", "grosellas negras"],
+    "summary": "Las moras, boysenberries y grosellas están entre las bayas más frágiles: blandas, de piel fina y propensas al moho. Refrigeradas duran solo 3–6 días desde la compra, pero congeladas a −18 °C (0 °F) aguantan unos 12 meses. No las laves hasta el momento de comerlas.",
+    "pantry": "Estas bayas no deben guardarse a temperatura ambiente. En la encimera se deshacen y enmohecen en un día, y en una cocina cálida fermentan rápido y atraen mosquitas de la fruta. Sácalas de la nevera solo para servirlas y cómelas en un par de horas.",
+    "fridge": "Guárdalas sin lavar a 4 °C (40 °F) o menos, donde duran 3–6 días desde la compra. Extiéndelas en un recipiente bajo forrado con papel de cocina, en una sola capa si es posible, y deja la tapa entreabierta o usa una tarrina perforada para que salga la humedad. Revísalas a diario y retira enseguida cualquier baya blanda o mohosa.",
+    "freezer": "Congelar es con diferencia la mejor forma de aprovechar un excedente: unos 12 meses a −18 °C (0 °F). Extiéndelas en una capa sobre una bandeja, congélalas hasta que estén firmes y pásalas a bolsas para que queden sueltas. Descongeladas quedan blandas y jugosas, ideales para coulis, mermelada, batidos y repostería.",
+    "thawing": "Descongélalas en un bol en la nevera para recoger el jugo, o añádelas congeladas a batidos, salsas y bizcochos. Descongelarlas a temperatura ambiente las deshace y las deja aguadas.",
+    "spoilage": [
+      "Bayas blandas, que sueltan jugo o están hundidas en el fondo de la tarrina",
+      "Moho gris o blanco en cualquier baya",
+      "Olor fermentado, alcohólico o avinagrado",
+      "Textura viscosa o jugo pegajoso acumulado en el recipiente"
+    ],
+    "tips": [
+      "No las laves antes de guardarlas: enjuágalas justo antes de comerlas",
+      "Forra el recipiente con papel de cocina para absorber la condensación",
+      "Revisa la tarrina el día de la compra y descarta la fruta dañada",
+      "Congélalas en una sola capa en bandeja para que no se apelmacen"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las moras en la nevera?", "a": "3–6 días desde la compra a 4 °C (40 °F) o menos, sin lavar y en un recipiente bajo y ventilado forrado con papel de cocina."},
+      {"q": "¿Se pueden congelar moras y grosellas?", "a": "Sí, y es la mejor forma de conservarlas. Congélalas en una capa en bandeja y luego embólsalas; duran unos 12 meses a −18 °C (0 °F)."},
+      {"q": "¿Por qué las bayas enmohecen tan rápido?", "a": "Su piel fina se daña con facilidad y la humedad superficial permite que crezcan las esporas. Guárdalas secas y sin lavar, retira la fruta dañada y mantenlas frías."}
+    ]
+  }
+}

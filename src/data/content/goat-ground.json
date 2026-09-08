@@ -1,0 +1,107 @@
+{
+  "slug": "goat-ground",
+  "en": {
+    "name": "Ground goat",
+    "aliases": ["minced goat", "goat mince", "chevon mince", "ground chevon"],
+    "summary": "Ground goat is goat meat put through a grinder, lean and mildly gamey, popular in curries, keema, koftas and burgers. Grinding spreads surface bacteria right through the meat, so it keeps only 1–2 days in the fridge at 4 °C (40 °F) or below from the day you buy it, and 3–4 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Ground goat is highly perishable and cannot be stored at room temperature. Because the meat is mixed rather than sealed inside a surface crust, bacteria are distributed throughout and multiply quickly in the danger zone between 4 °C and 60 °C (40 °F and 140 °F). Discard mince left out for more than 2 hours — 1 hour above 32 °C (90 °F) — and refrigerate cooked dishes within 2 hours.",
+    "fridge": "Keep the mince in its tray or a sealed container on the bottom shelf at 4 °C (40 °F) or below, on a plate so nothing drips. Use it within 1–2 days of purchase, whether or not the package has been opened. If you have seasoned it for koftas or burgers, that does not extend the time; shape the patties and keep them covered.",
+    "freezer": "Freeze on the day of purchase if you will not cook within a day or two. Divide the mince into meal-sized portions, press each one flat in a freezer bag with the air squeezed out, and freeze at −18 °C (0 °F): safe indefinitely, best quality for 3–4 months. Flat packs freeze fast and thaw far quicker than a thick block.",
+    "thawing": "Thaw a flat pack in the fridge overnight, or in a sealed bag under cold water changed every 30 minutes, cooking immediately after. Microwave thawing works only if you cook straight away. Never thaw mince on the counter; cook goat mince through to 71 °C (160 °F).",
+    "spoilage": [
+      "Sour, ammonia-like or otherwise off smell as soon as the pack is opened",
+      "Slimy, sticky or tacky texture",
+      "Dull grey-brown or greenish colour throughout, not just in the middle of the pack",
+      "Bulging or leaking packaging, or a passed use-by date"
+    ],
+    "tips": [
+      "Buy ground goat last on your shopping trip and use a cooler bag in hot weather.",
+      "Freeze in flat 250–500 g portions for quick thawing.",
+      "Goat is lean — add a little oil or fat when frying so it does not dry out.",
+      "Cook ground goat to 71 °C (160 °F) since bacteria are mixed throughout."
+    ],
+    "faq": [
+      {"q": "Can you freeze ground goat?", "a": "Yes. Portion it flat, press the air out and freeze at −18 °C (0 °F): safe indefinitely and best quality for 3–4 months."},
+      {"q": "How long does ground goat last in the fridge?", "a": "Only 1–2 days from the day of purchase at 4 °C (40 °F) or below. Freeze it the same day if you cannot cook it."},
+      {"q": "What temperature should ground goat be cooked to?", "a": "71 °C (160 °F) throughout, the same as other ground meats, because grinding mixes surface bacteria into the whole batch."}
+    ]
+  },
+  "zh": {
+    "name": "羊肉絞肉（山羊）",
+    "aliases": ["山羊絞肉", "羊肉末", "碎山羊肉", "羊肉餡"],
+    "summary": "山羊絞肉是用絞肉機把山羊肉絞碎而成，肉質瘦、帶淡淡野味，常用來做咖哩、肉燥、肉丸和漢堡排。絞碎會把表面的細菌帶進整塊肉裡，因此在 4°C 以下冷藏，從購買日起只能放 1～2 天；放 −18°C 冷凍可放 3～4 個月。",
+    "pantry": "山羊絞肉非常容易腐敗，不能放室溫。因為細菌不再只在表面而是混在整批肉裡，在 4～60°C 的危險溫度帶會快速繁殖。室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄，煮好的料理也要在 2 小時內冷藏。",
+    "fridge": "連原盒或裝進密封容器，放在盤子上、置於冰箱最下層，維持 4°C 以下。從購買日起 1～2 天內用完，不論有沒有拆封。調味成肉丸或漢堡排也不會延長期限；捏好後蓋起來冷藏即可。",
+    "freezer": "一兩天內煮不完的話，買回來當天就冷凍。分裝成每餐份量，放進冷凍袋壓成扁平、擠出空氣，放 −18°C 冷凍：安全上可以無限期保存，品質以 3～4 個月為佳。壓扁的包裝結凍快，解凍也比厚塊快很多。",
+    "thawing": "壓平的包裝放冷藏室解凍一晚，或裝密封袋泡冷水、每 30 分鐘換水，解凍後立刻烹調。微波解凍只有在馬上下鍋時才適合。絕對不要放室溫退冰；山羊絞肉要煮到中心 71°C。",
+    "spoilage": [
+      "一打開包裝就聞到酸味、阿摩尼亞味或其他異味",
+      "質地黏滑、發黏",
+      "整批肉都變成暗灰褐色或帶綠色，不只是包裝中心",
+      "包裝鼓起或漏汁，或已超過有效日期"
+    ],
+    "tips": [
+      "採買時把絞肉留到最後才拿，天熱記得帶保冷袋。",
+      "分裝成 250～500 公克的扁平包冷凍，解凍很快。",
+      "山羊肉很瘦，煎炒時補一點油比較不會乾。",
+      "細菌混在整批肉裡，一定要煮到中心 71°C。"
+    ],
+    "faq": [
+      {"q": "山羊絞肉可以冷凍嗎？", "a": "可以。分裝壓平、擠出空氣後放 −18°C 冷凍：安全上無限期，品質以 3～4 個月為佳。"},
+      {"q": "山羊絞肉放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起只有 1～2 天。當天煮不完就直接冷凍。"},
+      {"q": "山羊絞肉要煮到幾度？", "a": "中心 71°C，和其他絞肉一樣，因為絞碎會把表面的細菌混進整批肉裡。"}
+    ]
+  },
+  "ja": {
+    "name": "ヤギのひき肉",
+    "aliases": ["山羊ひき肉", "ヤギ挽き肉", "ゴートミンチ", "ヤギミンチ"],
+    "summary": "ヤギのひき肉は山羊肉をミンサーで挽いたもので、赤身が強くほのかに野性味があり、カレーやキーマ、ケバブ、パティなどに使われます。挽くことで表面の細菌が全体に混ざるため、4℃以下の冷蔵で購入日から1〜2日、−18℃の冷凍で3〜4か月が目安です。",
+    "pantry": "ヤギのひき肉は非常に傷みやすく、常温保存はできません。細菌が表面だけでなく全体に分布しているため、4〜60℃の危険温度帯では一気に増殖します。室温に2時間以上（気温32℃以上なら1時間以上）置いたものは処分し、調理後も2時間以内に冷蔵してください。",
+    "fridge": "トレーのまま、または密閉容器に入れ、皿にのせて冷蔵庫の最下段で4℃以下を保ちます。開封の有無にかかわらず、購入日から1〜2日以内に使い切ってください。ケバブやパティ用に味付けしても期限は延びません。成形したら覆いをして冷蔵します。",
+    "freezer": "1〜2日で使い切れないなら購入当日に冷凍します。1回分ずつに分けて保存袋で薄く平らにし、空気を抜いて−18℃で冷凍。安全面では長期間、品質は3〜4か月が目安です。平らにしておくと凍るのも解けるのも、かたまりよりずっと早くなります。",
+    "thawing": "平らにした袋のまま冷蔵庫で一晩、または密閉袋で冷水につけ30分ごとに水を替えて解凍し、すぐ調理します。電子レンジ解凍はそのまま加熱調理する場合のみ。常温解凍は避け、中心温度71℃までしっかり火を通してください。",
+    "spoilage": [
+      "パックを開けた瞬間に酸っぱいにおいやアンモニア臭、その他の異臭がする",
+      "ぬめり、べたつきのある質感になっている",
+      "パックの中心だけでなく全体がくすんだ灰褐色や緑がかった色になっている",
+      "パックが膨らむ・汁が漏れている、消費期限を過ぎている"
+    ],
+    "tips": [
+      "買い物では最後にかごへ入れ、暑い時期は保冷バッグを使う。",
+      "250〜500gずつ薄く平らにして冷凍すると解凍が速い。",
+      "ヤギ肉は赤身なので、炒めるときに油を少し足すとパサつかない。",
+      "細菌が全体に混ざっているため、中心温度71℃まで加熱する。"
+    ],
+    "faq": [
+      {"q": "ヤギのひき肉は冷凍できますか？", "a": "できます。平らに小分けして空気を抜き、−18℃で冷凍。安全面では長期間、品質は3〜4か月が目安です。"},
+      {"q": "ヤギのひき肉は冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から1〜2日だけです。調理できないなら当日中に冷凍してください。"},
+      {"q": "ヤギのひき肉は何度まで加熱すればよいですか？", "a": "中心温度71℃です。挽く工程で表面の細菌が全体に混ざるため、ほかのひき肉と同じ基準になります。"}
+    ]
+  },
+  "es": {
+    "name": "Carne molida de cabra",
+    "aliases": ["carne picada de cabrito", "chivo molido", "cabra picada", "molida de chivo"],
+    "summary": "La carne molida de cabra es carne caprina pasada por la picadora: magra, con un punto suave de caza, muy usada en currys, keema, koftas y hamburguesas. Al molerla, las bacterias de la superficie se reparten por toda la masa, así que solo dura 1–2 días en el refrigerador a 4 °C (40 °F) o menos desde la compra, y 3–4 meses a −18 °C (0 °F).",
+    "pantry": "Es muy perecedera y no puede guardarse a temperatura ambiente. Como las bacterias quedan repartidas por dentro y no solo en la superficie, se multiplican rápido en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F). Desecha la molida que lleve más de 2 horas fuera —1 hora por encima de 32 °C (90 °F)— y refrigera los platos cocinados en menos de 2 horas.",
+    "fridge": "Guárdala en su bandeja o en un recipiente cerrado, sobre un plato, en el estante inferior a 4 °C (40 °F) o menos. Úsala en 1–2 días desde la compra, esté abierto o no el envase. Sazonarla para koftas o hamburguesas no alarga el plazo: forma las porciones y mantenlas tapadas.",
+    "freezer": "Congélala el mismo día si no vas a cocinar en uno o dos días. Divídela en raciones, aplana cada una en una bolsa de congelación sin aire y congela a −18 °C (0 °F): segura indefinidamente y con la mejor calidad 3–4 meses. Los paquetes planos se congelan rápido y se descongelan mucho antes que un bloque.",
+    "thawing": "Descongela el paquete plano en el refrigerador durante una noche, o en bolsa cerrada bajo agua fría cambiada cada 30 minutos, cocinando enseguida. El microondas sirve solo si cocinas de inmediato. Nunca la descongeles en la encimera y cocínala hasta 71 °C (160 °F).",
+    "spoilage": [
+      "Olor agrio, a amoníaco o claramente desagradable al abrir el paquete",
+      "Textura viscosa o pegajosa",
+      "Color gris pardo apagado o verdoso en toda la masa, no solo en el centro",
+      "Envase hinchado o con fugas, o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Tómala al final de la compra y usa bolsa térmica cuando haga calor.",
+      "Congela en porciones planas de 250–500 g para descongelar rápido.",
+      "La cabra es magra: añade algo de aceite al freír para que no se seque.",
+      "Cocínala hasta 71 °C (160 °F) porque las bacterias están repartidas por toda la masa."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la carne molida de cabra?", "a": "Sí. Divídela plana, saca el aire y congélala a −18 °C (0 °F): segura indefinidamente y con la mejor calidad 3–4 meses."},
+      {"q": "¿Cuánto dura la molida de cabra en el refrigerador?", "a": "Solo 1–2 días desde el día de compra a 4 °C (40 °F) o menos. Congélala el mismo día si no puedes cocinarla."},
+      {"q": "¿A qué temperatura hay que cocinar la molida de cabra?", "a": "A 71 °C (160 °F) en toda la masa, igual que otras carnes molidas, porque el molido mezcla las bacterias de la superficie con el resto."}
+    ]
+  }
+}

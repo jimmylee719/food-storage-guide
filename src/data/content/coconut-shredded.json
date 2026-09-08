@@ -1,0 +1,107 @@
+{
+  "slug": "coconut-shredded",
+  "en": {
+    "name": "Shredded coconut",
+    "aliases": ["desiccated coconut", "coconut flakes", "sweetened shredded coconut", "coconut shreds"],
+    "summary": "Shredded coconut is dried, grated coconut meat, sold sweetened or unsweetened for baking and curries. Unopened it keeps about 1 year from the date of purchase in the pantry; once opened, refrigerate it, where it lasts about 8 months. Frozen it keeps about 1 year, which protects the natural coconut oil from going rancid.",
+    "pantry": "An unopened packet keeps about 1 year from purchase in a cool, dry cupboard away from the stove. Coconut is high in oil, so heat and light shorten its life significantly. Once you open the packet, do not leave it in the cupboard: the exposed oil oxidises, and refrigeration is the better choice.",
+    "fridge": "After opening, transfer the coconut to an airtight container and refrigerate at 4 °C (40 °F) or below, where it keeps about 8 months. Cold slows oxidation of the coconut oil, which is what causes the soapy, rancid flavour in old coconut. Make sure the container seals properly, since coconut readily absorbs fridge odours.",
+    "freezer": "The freezer keeps shredded coconut about 1 year at −18 °C (0 °F) and is the best option if you buy in bulk or bake only occasionally. Seal it in an airtight bag with the air pressed out, and let the bag come to room temperature before opening so condensation does not clump the shreds.",
+    "thawing": "Let a frozen bag reach room temperature while still sealed, then open it and use the coconut as normal. Small amounts can be measured straight from frozen into a batter.",
+    "spoilage": [
+      "Rancid, soapy or crayon-like smell from the coconut oil",
+      "Yellowed or grey shreds instead of a clean white colour",
+      "Damp clumps or a sticky texture",
+      "Mould specks or insects in the packet"
+    ],
+    "tips": [
+      "Refrigerate or freeze the packet as soon as it is opened",
+      "Smell it before use — rancid coconut ruins an entire cake",
+      "Toast shredded coconut in a dry pan for a few minutes to revive the flavour",
+      "Sweetened and unsweetened coconut are not interchangeable in recipes"
+    ],
+    "faq": [
+      {"q": "How long does shredded coconut last after opening?", "a": "About 8 months refrigerated in an airtight container at 4 °C (40 °F) or below, or about 1 year in the freezer."},
+      {"q": "Can you freeze shredded coconut?", "a": "Yes, and it is a good idea. Sealed airtight at −18 °C (0 °F) it keeps about 1 year, protecting the coconut oil from turning rancid."},
+      {"q": "How can you tell if shredded coconut has gone bad?", "a": "Smell it. A soapy, rancid or crayon-like odour means the oil has oxidised. Yellowed shreds, damp clumps or mould also mean discard."}
+    ]
+  },
+  "zh": {
+    "name": "椰子絲／椰蓉",
+    "aliases": ["椰蓉", "椰絲", "乾燥椰子絲", "椰子粉", "椰片"],
+    "summary": "椰子絲是乾燥後刨絲的椰肉，有加糖和無糖版本，常用於烘焙和咖哩。未開封放在櫥櫃，從購買日起約可保存 1 年；開封後請改放冷藏，約可放 8 個月。冷凍則約可保存 1 年，能有效避免椰子油產生油耗味。",
+    "pantry": "未開封的包裝放在陰涼乾燥、遠離爐火的櫥櫃，從購買日起約 1 年。椰子含油量高，高溫和光線會明顯縮短保存期。一旦開封就不要再放櫥櫃，暴露的油脂會氧化，改放冰箱才是更好的選擇。",
+    "fridge": "開封後請倒進密封容器，放進 4°C 以下的冰箱，約可保存 8 個月。低溫能減緩椰子油的氧化，那正是舊椰絲會出現肥皂味、油耗味的原因。容器要確實密封，因為椰絲很容易吸附冰箱異味。",
+    "freezer": "冷凍可以讓椰子絲在 −18°C 保存約 1 年，如果你是大量購買或只偶爾烘焙，這是最好的選擇。裝進密封袋擠出空氣即可，取出後要等袋子回到室溫再開封，以免冷凝水氣讓椰絲結塊。",
+    "thawing": "冷凍袋維持密封放到室溫回溫，再打開正常使用。少量的話也可以直接從冷凍狀態量取拌進麵糊。",
+    "spoilage": [
+      "椰子油變質產生的油耗味、肥皂味或蠟筆味",
+      "椰絲從潔白轉黃或轉灰",
+      "受潮結塊，或摸起來黏黏的",
+      "包裝內有黴點或蟲跡"
+    ],
+    "tips": [
+      "開封後立刻改放冷藏或冷凍",
+      "使用前先聞一下，變質的椰絲會毀掉整個蛋糕",
+      "用乾鍋烘幾分鐘可以喚醒香氣",
+      "加糖和無糖的椰絲在配方中不能直接互換"
+    ],
+    "faq": [
+      {"q": "椰子絲開封後可以放多久？", "a": "裝密封容器放 4°C 以下冷藏約 8 個月，或冷凍約 1 年。"},
+      {"q": "椰子絲可以冷凍嗎？", "a": "可以，而且很建議。密封放 −18°C 約可保存 1 年，能避免椰子油氧化產生油耗味。"},
+      {"q": "怎麼知道椰子絲壞了？", "a": "聞味道。有肥皂味、油耗味或蠟筆味就代表油脂氧化了。椰絲泛黃、受潮結塊或發霉也要丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "ココナッツファイン（乾燥ココナッツ）",
+    "aliases": ["ココナッツファイン", "ココナッツロング", "デシケーテッドココナッツ", "ココナッツフレーク"],
+    "summary": "乾燥ココナッツは果肉を削って乾燥させたもので、加糖・無糖があり、焼き菓子やカレーに使います。未開封なら常温で購入日から約1年、開封後は冷蔵で約8か月が目安です。冷凍なら約1年保存でき、ココナッツオイルの酸化を防げます。",
+    "pantry": "未開封の袋はコンロから離れた涼しく乾燥した戸棚で、購入日から約1年。ココナッツは油分が多く、熱と光で日持ちが大きく縮みます。開封したら戸棚に置かないこと。空気に触れた油脂が酸化するので、冷蔵のほうが適しています。",
+    "fridge": "開封後は密閉容器に移して4℃以下で冷蔵すれば約8か月持ちます。低温でココナッツオイルの酸化が遅くなり、古いココナッツ特有の石けんのような風味を防げます。においを吸いやすいので、しっかり密閉できる容器を使いましょう。",
+    "freezer": "−18℃の冷凍なら約1年保存でき、まとめ買いする方やたまにしか焼かない方に最適です。空気を抜いて密閉袋へ入れ、開ける前は室温に戻して、結露で固まらないようにしてください。",
+    "thawing": "冷凍袋は密封したまま室温に戻してから開け、通常どおり使います。少量なら凍ったまま計量して生地に加えても構いません。",
+    "spoilage": [
+      "ココナッツオイルの酸化による古い油、石けん、クレヨンのようなにおい",
+      "白さが失われ、黄色や灰色になっている",
+      "湿気で固まっている、ベタついている",
+      "袋の中にカビの斑点や虫がいる"
+    ],
+    "tips": [
+      "開封したらすぐ冷蔵か冷凍に切り替えましょう",
+      "使う前ににおいを確認。酸化したココナッツはケーキ全体を台無しにします",
+      "フライパンで数分からいりすると香りがよみがえります",
+      "加糖と無糖はレシピで代用できません"
+    ],
+    "faq": [
+      {"q": "乾燥ココナッツは開封後どのくらい持ちますか？", "a": "密閉容器で4℃以下の冷蔵なら約8か月、冷凍なら約1年です。"},
+      {"q": "乾燥ココナッツは冷凍できますか？", "a": "できますし、おすすめです。密閉して−18℃なら約1年保存でき、油脂の酸化を防げます。"},
+      {"q": "乾燥ココナッツが傷んだか見分けるには？", "a": "においで判断します。石けんのような、または古い油のようなにおいがすれば酸化しています。黄ばみ、湿った固まり、カビも処分のサインです。"}
+    ]
+  },
+  "es": {
+    "name": "Coco rallado",
+    "aliases": ["coco deshidratado", "coco en hojuelas", "coco rallado azucarado", "coco seco"],
+    "summary": "El coco rallado es pulpa de coco seca y rallada, que se vende endulzada o sin endulzar para repostería y currys. Sin abrir dura alrededor de 1 año desde la compra en la despensa; una vez abierto, refrigéralo, donde aguanta unos 8 meses. Congelado dura alrededor de 1 año, lo que protege su aceite natural del enranciamiento.",
+    "pantry": "Un paquete cerrado dura alrededor de 1 año desde la compra en un armario fresco y seco, lejos de los fogones. El coco es rico en aceite, así que el calor y la luz acortan mucho su vida. Una vez abierto no lo dejes en el armario: el aceite expuesto se oxida, y la nevera es la mejor opción.",
+    "fridge": "Tras abrirlo, pásalo a un recipiente hermético y refrigéralo a 4 °C (40 °F) o menos, donde dura unos 8 meses. El frío frena la oxidación del aceite de coco, responsable del sabor jabonoso y rancio del coco viejo. Asegúrate de que el envase cierre bien, porque el coco absorbe olores con facilidad.",
+    "freezer": "El congelador lo mantiene alrededor de 1 año a −18 °C (0 °F) y es la mejor opción si compras a granel o horneas solo de vez en cuando. Ciérralo en una bolsa hermética sin aire y deja que se atempere antes de abrirla para que la condensación no lo apelmace.",
+    "thawing": "Deja que la bolsa congelada alcance la temperatura ambiente cerrada, ábrela y úsalo con normalidad. Cantidades pequeñas pueden medirse directamente congeladas sobre una masa.",
+    "spoilage": [
+      "Olor rancio, jabonoso o a cera procedente del aceite de coco",
+      "Hebras amarillentas o grisáceas en lugar de blancas",
+      "Grumos húmedos o textura pegajosa",
+      "Puntos de moho o insectos en el paquete"
+    ],
+    "tips": [
+      "Refrigera o congela el paquete nada más abrirlo",
+      "Huélelo antes de usarlo: el coco rancio arruina un pastel entero",
+      "Tuéstalo unos minutos en sartén seca para reavivar el sabor",
+      "El coco endulzado y el sin endulzar no son intercambiables en las recetas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el coco rallado una vez abierto?", "a": "Unos 8 meses refrigerado en un recipiente hermético a 4 °C (40 °F) o menos, o alrededor de 1 año en el congelador."},
+      {"q": "¿Se puede congelar el coco rallado?", "a": "Sí, y es buena idea. Cerrado herméticamente a −18 °C (0 °F) dura alrededor de 1 año, protegiendo el aceite del enranciamiento."},
+      {"q": "¿Cómo saber si el coco rallado está malo?", "a": "Huélelo. Un olor jabonoso, rancio o a cera indica que el aceite se ha oxidado. Las hebras amarillentas, los grumos húmedos o el moho también obligan a tirarlo."}
+    ]
+  }
+}

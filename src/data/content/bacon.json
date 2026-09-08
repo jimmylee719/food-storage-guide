@@ -1,0 +1,107 @@
+{
+  "slug": "bacon",
+  "en": {
+    "name": "Bacon",
+    "aliases": ["streaky bacon", "back bacon", "rashers", "cured pork belly", "sliced bacon"],
+    "summary": "Bacon is cured, usually smoked pork — most often belly or back — sliced into rashers and sold chilled or vacuum packed. In the fridge at 4 °C (40 °F) or below it keeps about 1 week from the day of purchase, and about 1 week once the pack is opened. In the freezer at −18 °C (0 °F) it holds good quality for about 1 month.",
+    "pantry": "Bacon is cured but not shelf-stable: it still needs refrigeration. Curing salts slow bacterial growth without stopping it, so bacon left in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) for more than 2 hours — 1 hour above 32 °C (90 °F) — should be discarded. Cooked bacon should also be refrigerated within 2 hours if you are keeping it.",
+    "fridge": "Keep the pack on a cold shelf at 4 °C (40 °F) or below, not in the door. Sealed, it keeps about 1 week from purchase; after opening, roll the pack tightly or transfer the rashers to an airtight container or zip bag and use them within about 1 week. Wrapping matters more than usual because bacon fat picks up fridge odours quickly.",
+    "freezer": "Bacon's short freezer life — around 1 month for best quality — surprises people, but salt speeds up fat rancidity even at −18 °C (0 °F), where the food itself stays safe indefinitely. Separate the rashers with baking paper or roll them individually so you can peel off one or two, then wrap tightly and bag with the air pressed out.",
+    "thawing": "Thaw bacon overnight in the fridge and use it within a week, or cook individual frozen rashers straight from the freezer over medium heat. Never thaw bacon on the counter, and do not refreeze thawed raw bacon unless you have cooked it first.",
+    "spoilage": [
+      "Sour, fishy or ammonia-like smell instead of the usual smoky, salty scent",
+      "Slimy or sticky surface film on the rashers",
+      "Grey, green or brown discolouration of the lean, or fat that has turned yellow and rancid-smelling",
+      "A bulging vacuum pack, or a passed use-by date"
+    ],
+    "tips": [
+      "Roll rashers individually before freezing so you can take out exactly what you need.",
+      "Write the opening date on the pack — the roughly 1-week clock starts then.",
+      "Save rendered bacon fat in a jar in the fridge for frying.",
+      "Buy vacuum-packed bacon if you use it slowly; it keeps better than a loose pack."
+    ],
+    "faq": [
+      {"q": "Can you freeze bacon?", "a": "Yes, at −18 °C (0 °F), but only about 1 month for good quality: the salt makes the fat go rancid faster than in fresh pork. Separate the rashers before freezing."},
+      {"q": "How long does bacon last after opening?", "a": "About 1 week in the fridge at 4 °C (40 °F) or below, resealed tightly — much the same as an unopened pack from the day of purchase."},
+      {"q": "Does bacon need to be refrigerated?", "a": "Yes. Curing slows spoilage but does not make bacon shelf-stable, so keep it at 4 °C (40 °F) or below."}
+    ]
+  },
+  "zh": {
+    "name": "培根",
+    "aliases": ["煙燻豬肉片", "培根片", "醃燻五花", "bacon", "鹹肉片"],
+    "summary": "培根是用鹽醃、多半再煙燻的豬肉，通常取自五花或背脊，切片後冷藏或真空包裝販售。在 4°C 以下冷藏，從購買日起約可放 1 週；開封後也約 1 週。放 −18°C 冷凍，品質約可維持 1 個月。",
+    "pantry": "培根雖然醃過，但不是常溫商品，仍然需要冷藏。醃漬鹽只能延緩細菌生長，不能阻止；培根在 4～60°C 的危險溫度帶超過 2 小時（氣溫超過 32°C 時 1 小時）就該丟掉。煎好的培根如果要留著，也要在 2 小時內冷藏。",
+    "fridge": "放在冰箱冷的層架，維持 4°C 以下，不要放門邊。未開封從購買日起約 1 週；開封後把包裝捲緊，或把培根片移到密封盒或夾鏈袋，約 1 週內用完。培根的油脂特別會吸味，包裝比一般食材更重要。",
+    "freezer": "培根的冷凍期限只有約 1 個月（以品質而言），常讓人意外——因為鹽分會加速脂肪氧化酸敗，即使在 −18°C 也一樣（安全上仍可無限期保存）。冷凍前用烘焙紙隔開，或一片片捲成小捲，這樣要拿一兩片很方便；之後包緊並裝袋擠出空氣。",
+    "thawing": "放冷藏室解凍一晚，一週內用完；或把冷凍的培根片直接下鍋，用中火慢慢煎開。絕對不要放室溫解凍；解凍後的生培根若沒煎過，不要再冷凍。",
+    "spoilage": [
+      "不是原本的煙燻鹹香，而是酸味、魚腥味或阿摩尼亞味",
+      "培根片表面有黏滑或發黏的薄膜",
+      "瘦肉部分變灰、變綠或變褐，脂肪泛黃並有油耗味",
+      "真空包裝鼓起，或已超過有效日期"
+    ],
+    "tips": [
+      "冷凍前一片片捲起來，之後要用幾片就拿幾片。",
+      "在包裝上寫開封日期，約 1 週的期限從那天起算。",
+      "煎出來的培根油裝進玻璃罐冷藏，炒菜很香。",
+      "用得慢的話買真空包裝，比散裝的耐放。"
+    ],
+    "faq": [
+      {"q": "培根可以冷凍嗎？", "a": "可以，放 −18°C 冷凍，但品質只有約 1 個月：鹽分會讓脂肪比新鮮豬肉更快酸敗。冷凍前記得先把肉片隔開。"},
+      {"q": "培根開封後可以放多久？", "a": "在 4°C 以下冷藏、確實密封的話約 1 週，和未開封從購買日起的期限差不多。"},
+      {"q": "培根一定要冰嗎？", "a": "要。醃漬只能延緩腐敗，不能讓培根變成常溫商品，請保持在 4°C 以下。"}
+    ]
+  },
+  "ja": {
+    "name": "ベーコン",
+    "aliases": ["スライスベーコン", "ブロックベーコン", "燻製豚バラ", "ベーコンスライス"],
+    "summary": "ベーコンは塩漬けにして多くは燻製にした豚肉（主にバラや肩ロース）をスライスした製品で、冷蔵または真空パックで売られます。4℃以下の冷蔵で購入日から約1週間、開封後も約1週間が目安。−18℃の冷凍では品質の目安が約1か月と短めです。",
+    "pantry": "ベーコンは塩漬けされていますが常温保存できる食品ではなく、冷蔵が必要です。塩せき剤は菌の増殖を遅らせるだけで止めるわけではないため、4〜60℃の危険温度帯に2時間以上（気温32℃以上なら1時間以上）置いたものは処分してください。焼いたベーコンを保存する場合も2時間以内に冷蔵します。",
+    "fridge": "ドアポケットではなく庫内のよく冷える棚で4℃以下を保ちます。未開封なら購入日から約1週間。開封後はパックをきつく巻くか、密閉容器やジッパー袋に移して約1週間で使い切りましょう。ベーコンの脂は庫内のにおいを吸いやすいので、包装はいつも以上に大切です。",
+    "freezer": "ベーコンの冷凍の目安が約1か月と短いのは意外に思われますが、塩分によって−18℃でも脂の酸化が進むためです（安全面では長期間保存できます）。冷凍前にクッキングシートで挟むか1枚ずつ巻いておくと、必要な枚数だけ取り出せます。そのうえで密着させて包み、袋の空気を抜きます。",
+    "thawing": "冷蔵庫で一晩解凍し、1週間以内に使い切ります。凍ったまま中火でゆっくり焼きほぐす方法も可能です。常温解凍は避け、解凍した生の状態での再冷凍もしないでください（加熱後なら可）。",
+    "spoilage": [
+      "燻製と塩の香りではなく、酸っぱいにおい・生臭さ・アンモニア臭がする",
+      "スライスの表面にぬめり・べたつきの膜がある",
+      "赤身が灰色・緑・茶色に変色している、脂が黄ばんで酸敗臭がする",
+      "真空パックが膨らんでいる、消費期限を過ぎている"
+    ],
+    "tips": [
+      "冷凍前に1枚ずつ巻いておくと、必要な枚数だけ取り出せる。",
+      "パックに開封日を書く。約1週間の目安はそこから数える。",
+      "出てきたベーコンの脂は瓶に入れて冷蔵し、炒め物に使うとおいしい。",
+      "使うペースが遅いなら真空パックを選ぶ。ばら売りより日もちする。"
+    ],
+    "faq": [
+      {"q": "ベーコンは冷凍できますか？", "a": "できますが、−18℃でも品質の目安は約1か月です。塩分のせいで脂の酸化が生の豚肉より早く進みます。冷凍前に1枚ずつ分けておきましょう。"},
+      {"q": "ベーコンは開封後どのくらいもちますか？", "a": "4℃以下でしっかり密封して約1週間です。未開封で購入日から数える場合とほぼ同じ目安になります。"},
+      {"q": "ベーコンは冷蔵が必要ですか？", "a": "必要です。塩せきは傷みを遅らせるだけで常温保存を可能にするものではありません。4℃以下で保存してください。"}
+    ]
+  },
+  "es": {
+    "name": "Tocino (bacon)",
+    "aliases": ["panceta curada", "tocineta", "bacon en lonchas", "beicon"],
+    "summary": "El tocino es cerdo curado y normalmente ahumado —casi siempre panceta o lomo— cortado en lonchas y vendido refrigerado o al vacío. En el refrigerador a 4 °C (40 °F) o menos dura alrededor de 1 semana desde la compra, y también alrededor de 1 semana una vez abierto el paquete. En el congelador a −18 °C (0 °F) conserva buena calidad cerca de 1 mes.",
+    "pantry": "El tocino está curado pero no es de larga duración: sigue necesitando frío. Las sales de curado frenan el crecimiento bacteriano sin detenerlo, así que el tocino que pase más de 2 horas en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F) —1 hora por encima de 32 °C (90 °F)— debe desecharse. El tocino ya frito también se refrigera en menos de 2 horas si lo vas a guardar.",
+    "fridge": "Guarda el paquete en un estante frío a 4 °C (40 °F) o menos, no en la puerta. Cerrado dura alrededor de 1 semana desde la compra; tras abrirlo, enrolla bien el envase o pasa las lonchas a un recipiente hermético o bolsa con cierre y consúmelas en aproximadamente 1 semana. El envoltorio importa más de lo habitual porque la grasa absorbe olores enseguida.",
+    "freezer": "Que el tocino aguante solo 1 mes de buena calidad sorprende, pero la sal acelera el enranciamiento de la grasa incluso a −18 °C (0 °F), donde el alimento sigue siendo seguro indefinidamente. Separa las lonchas con papel de horno o enróllalas de una en una para poder sacar solo las que necesites, y luego envuelve bien sacando el aire.",
+    "thawing": "Descongélalo durante una noche en el refrigerador y úsalo en una semana, o fríe lonchas congeladas directamente a fuego medio. Nunca lo descongeles en la encimera y no vuelvas a congelar tocino crudo descongelado sin cocinarlo antes.",
+    "spoilage": [
+      "Olor agrio, a pescado o a amoníaco en lugar del aroma ahumado y salado habitual",
+      "Película viscosa o pegajosa sobre las lonchas",
+      "Magro gris, verdoso o pardo, o grasa amarillenta con olor rancio",
+      "Envase al vacío hinchado o fecha de consumo vencida"
+    ],
+    "tips": [
+      "Enrolla las lonchas de una en una antes de congelar para sacar justo lo necesario.",
+      "Anota la fecha de apertura: la semana aproximada cuenta desde ahí.",
+      "Guarda la grasa que suelte en un frasco en el refrigerador para freír.",
+      "Compra tocino al vacío si lo consumes despacio: aguanta mejor que un paquete abierto."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el tocino?", "a": "Sí, a −18 °C (0 °F), pero solo alrededor de 1 mes con buena calidad: la sal hace que la grasa se enrancie antes que en el cerdo fresco. Separa las lonchas antes de congelar."},
+      {"q": "¿Cuánto dura el tocino después de abierto?", "a": "Alrededor de 1 semana en el refrigerador a 4 °C (40 °F) o menos, bien cerrado; prácticamente lo mismo que un paquete sin abrir desde la compra."},
+      {"q": "¿El tocino necesita refrigeración?", "a": "Sí. El curado retrasa el deterioro pero no lo convierte en un producto de despensa: mantenlo a 4 °C (40 °F) o menos."}
+    ]
+  }
+}

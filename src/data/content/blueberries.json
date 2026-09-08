@@ -1,0 +1,107 @@
+{
+  "slug": "blueberries",
+  "en": {
+    "name": "Blueberries",
+    "aliases": ["fresh blueberries", "bilberries", "highbush blueberries", "blues"],
+    "summary": "Blueberries are sturdier than most berries thanks to their firm skin and natural waxy bloom. Refrigerated they keep 1–2 weeks from the date of purchase, considerably longer than raspberries or blackberries, and frozen at −18 °C (0 °F) they last 8–12 months. Keep them dry and unwashed until you eat them.",
+    "pantry": "Blueberries are not a counter fruit. A punnet left at room temperature softens within a day or two and starts to mould, especially in a warm, humid kitchen. Take out only what you plan to eat, and return the rest to the fridge promptly rather than leaving the punnet on the table.",
+    "fridge": "Store blueberries unwashed at 4 °C (40 °F) or below in a shallow container or their original vented punnet, where they keep 1–2 weeks from purchase. Do not wash them before storing: the pale waxy bloom on the skin is a natural protective layer, and rinsing it off shortens their life. Line the container with kitchen paper to catch condensation.",
+    "freezer": "Blueberries freeze beautifully for 8–12 months at −18 °C (0 °F) and hold their shape better than soft berries. Freeze them unwashed in a single layer on a tray, then bag them; rinse just before use. They can go straight from freezer to muffin batter without thawing.",
+    "thawing": "Use frozen blueberries straight from the freezer in smoothies, muffins and pancakes. If you want them thawed, do it in the fridge in a bowl to catch the juice — thawed berries are soft and stain batters purple.",
+    "spoilage": [
+      "Soft, wrinkled or leaking berries in the punnet",
+      "Grey or white fuzzy mould on any berry",
+      "Fermented, alcoholic or vinegary smell",
+      "Sticky juice pooling in the bottom of the container"
+    ],
+    "tips": [
+      "Do not wash off the natural bloom until just before eating",
+      "Sort the punnet on the day of purchase and discard soft or split berries",
+      "Toss frozen blueberries in a little flour before adding to batter to stop them sinking",
+      "Line the storage container with kitchen paper to absorb moisture"
+    ],
+    "faq": [
+      {"q": "How long do blueberries last in the fridge?", "a": "1–2 weeks from purchase at 4 °C (40 °F) or below, stored unwashed in a vented container lined with kitchen paper."},
+      {"q": "Can you freeze blueberries?", "a": "Yes, very well. Freeze them unwashed in a single layer, then bag them; they keep 8–12 months at −18 °C (0 °F) and can be used straight from frozen."},
+      {"q": "Should you wash blueberries before storing?", "a": "No. The waxy bloom protects them, and moisture on the skin speeds up mould. Rinse them just before you eat or cook with them."}
+    ]
+  },
+  "zh": {
+    "name": "藍莓",
+    "aliases": ["新鮮藍莓", "越橘", "高叢藍莓", "藍苺"],
+    "summary": "藍莓因為果皮結實、表面帶有天然果粉，比大多數莓果耐放。冷藏從購買日起可放 1～2 週，比覆盆莓和黑莓久得多；放 −18°C 冷凍則可保存 8～12 個月。保存期間請保持乾燥、不要清洗。",
+    "pantry": "藍莓不適合放在室溫。整盒放在檯面上，一兩天內就會變軟並開始發霉，在又熱又濕的廚房更快。要吃多少拿多少，其餘的盡快放回冰箱，不要整盒擱在餐桌上。",
+    "fridge": "不清洗，直接放在 4°C 以下，用淺容器或原本的透氣果盒保存，從購買日起可放 1～2 週。保存前不要洗，果皮上那層淡淡的白霜是天然保護層，洗掉會縮短保存期。容器底部墊廚房紙巾吸收冷凝水。",
+    "freezer": "藍莓非常適合冷凍，放 −18°C 可保存 8～12 個月，而且比軟質莓果更能維持形狀。不清洗、單層鋪在盤子上冷凍定型後再裝袋，要用時再沖洗。做馬芬時可以直接從冷凍拌進麵糊，不用解凍。",
+    "thawing": "打果昔、做馬芬和鬆餅時直接用冷凍藍莓即可。真的要解凍就放在碗裡於冷藏室退冰，順便接住果汁；退冰後的藍莓偏軟，會把麵糊染成紫色。",
+    "spoilage": [
+      "盒子裡有變軟、皺縮或出水的果實",
+      "任何一顆長出灰白色毛狀黴菌",
+      "有發酵味、酒精味或醋酸味",
+      "容器底部積了黏黏的果汁"
+    ],
+    "tips": [
+      "吃之前才洗掉表面的天然果粉",
+      "買回來當天先挑一遍，軟掉或裂開的直接挑掉",
+      "冷凍藍莓拌一點麵粉再加進麵糊，可以避免全部沉底",
+      "保存容器裡墊廚房紙巾吸濕"
+    ],
+    "faq": [
+      {"q": "藍莓放冰箱可以放多久？", "a": "不清洗、裝在墊紙巾的透氣容器裡，放 4°C 以下，從購買日起 1～2 週。"},
+      {"q": "藍莓可以冷凍嗎？", "a": "可以，而且效果很好。不洗、單層冷凍後再裝袋，放 −18°C 可保存 8～12 個月，可以直接冷凍使用。"},
+      {"q": "藍莓保存前要先洗嗎？", "a": "不用。表面的果粉是天然保護層，果皮上的水分還會加速發霉。要吃或要烹調時再沖洗就好。"}
+    ]
+  },
+  "ja": {
+    "name": "ブルーベリー",
+    "aliases": ["生ブルーベリー", "ハイブッシュ", "ビルベリー", "冷凍ブルーベリー"],
+    "summary": "ブルーベリーは皮がしっかりしていて表面に天然のブルーム（白い粉）があるため、ベリー類のなかでは日持ちします。冷蔵なら購入日から1〜2週間と、ラズベリーやブラックベリーよりかなり長持ちし、−18℃の冷凍なら8〜12か月保存できます。食べるまで乾いたまま、洗わずに保管しましょう。",
+    "pantry": "ブルーベリーは常温向きではありません。パックを室温に置くと1〜2日でやわらかくなり、とくに高温多湿の台所ではカビ始めます。食べる分だけ取り出し、残りはテーブルに置きっぱなしにせず、すぐ冷蔵庫へ戻しましょう。",
+    "fridge": "洗わずに4℃以下で、浅い容器か購入時の通気パックに入れて保存すれば、購入日から1〜2週間持ちます。保存前に洗わないでください。皮の白い粉は天然の保護層で、洗い流すと日持ちが短くなります。容器にキッチンペーパーを敷いて結露を吸わせましょう。",
+    "freezer": "ブルーベリーは冷凍にとても向き、−18℃で8〜12か月保存でき、やわらかいベリーより形も崩れません。洗わずバットに一段で凍らせてから袋へ。使う直前にすすぎます。マフィン生地には凍ったまま加えられます。",
+    "thawing": "スムージーやマフィン、パンケーキには凍ったまま使えます。解凍する場合はボウルに入れて冷蔵庫で。解凍後はやわらかく、生地を紫色に染めます。",
+    "spoilage": [
+      "パックの中にやわらかい、しなびた、果汁の出た実がある",
+      "灰色や白のふわふわしたカビ",
+      "発酵臭、アルコール臭、酢のようなにおい",
+      "容器の底に果汁がべたついてたまっている"
+    ],
+    "tips": [
+      "天然のブルームは食べる直前まで洗い落とさないこと",
+      "買った日にパックを見直し、やわらかい実や割れた実は取り除きましょう",
+      "冷凍ブルーベリーは薄く粉をまぶしてから生地へ。沈み込みを防げます",
+      "保存容器にキッチンペーパーを敷いて湿気を吸わせましょう"
+    ],
+    "faq": [
+      {"q": "ブルーベリーは冷蔵庫でどのくらい持ちますか？", "a": "洗わずキッチンペーパーを敷いた通気容器に入れ、4℃以下で購入日から1〜2週間です。"},
+      {"q": "ブルーベリーは冷凍できますか？", "a": "とてもよく冷凍できます。洗わず一段で凍らせてから袋へ。−18℃で8〜12か月、凍ったまま使えます。"},
+      {"q": "ブルーベリーは保存前に洗うべきですか？", "a": "いいえ。表面の粉が実を守っていますし、水分はカビを早めます。食べる直前や調理直前にすすぎましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Arándanos azules",
+    "aliases": ["arándanos", "blueberries", "mirtilos", "arándano azul"],
+    "summary": "Los arándanos azules son más resistentes que la mayoría de las bayas gracias a su piel firme y a la pruina cerosa natural. Refrigerados duran 1–2 semanas desde la compra, bastante más que las frambuesas o las moras, y congelados a −18 °C (0 °F) aguantan 8–12 meses. Mantenlos secos y sin lavar hasta que los comas.",
+    "pantry": "No son fruta de encimera. Una tarrina a temperatura ambiente se ablanda en uno o dos días y empieza a enmohecer, sobre todo en una cocina cálida y húmeda. Saca solo lo que vayas a comer y devuelve el resto a la nevera enseguida en lugar de dejar la tarrina en la mesa.",
+    "fridge": "Guárdalos sin lavar a 4 °C (40 °F) o menos en un recipiente bajo o en su tarrina ventilada original, donde duran 1–2 semanas desde la compra. No los laves antes de guardarlos: la pruina clara de la piel es una capa protectora natural y quitarla acorta su vida. Forra el recipiente con papel de cocina para recoger la condensación.",
+    "freezer": "Se congelan estupendamente 8–12 meses a −18 °C (0 °F) y mantienen la forma mejor que las bayas blandas. Congélalos sin lavar en una sola capa en bandeja y luego embólsalos; enjuágalos justo antes de usarlos. Pueden ir del congelador a la masa de magdalenas sin descongelar.",
+    "thawing": "Úsalos congelados en batidos, magdalenas y tortitas. Si prefieres descongelarlos, hazlo en un bol en la nevera para recoger el jugo: quedan blandos y tiñen las masas de morado.",
+    "spoilage": [
+      "Bayas blandas, arrugadas o que sueltan jugo en la tarrina",
+      "Moho gris o blanco en cualquier baya",
+      "Olor fermentado, alcohólico o avinagrado",
+      "Jugo pegajoso acumulado en el fondo del recipiente"
+    ],
+    "tips": [
+      "No elimines la pruina natural hasta justo antes de comerlos",
+      "Revisa la tarrina el día de la compra y descarta las bayas blandas o partidas",
+      "Reboza los arándanos congelados en un poco de harina antes de añadirlos a la masa para que no se hundan",
+      "Forra el recipiente con papel de cocina para absorber la humedad"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los arándanos en la nevera?", "a": "1–2 semanas desde la compra a 4 °C (40 °F) o menos, sin lavar y en un recipiente ventilado forrado con papel de cocina."},
+      {"q": "¿Se pueden congelar los arándanos?", "a": "Sí, muy bien. Congélalos sin lavar en una capa y luego embólsalos; duran 8–12 meses a −18 °C (0 °F) y se usan congelados."},
+      {"q": "¿Hay que lavar los arándanos antes de guardarlos?", "a": "No. La pruina los protege y la humedad en la piel acelera el moho. Enjuágalos justo antes de comerlos o cocinarlos."}
+    ]
+  }
+}
