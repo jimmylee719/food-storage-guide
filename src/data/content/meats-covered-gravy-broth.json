@@ -1,0 +1,107 @@
+{
+  "slug": "meats-covered-gravy-broth",
+  "en": {
+    "name": "Cooked meats in gravy or broth",
+    "aliases": ["meat in sauce", "pot roast leftovers", "braised meat", "stewed beef in gravy"],
+    "summary": "Cooked meat kept submerged in gravy or broth — a pot roast, a braise, sliced roast beef in its juices — keeps 3–4 days in the fridge at 4 °C (40 °F) or below, and about 6 months in the freezer at −18 °C (0 °F). The liquid protects the meat from drying but does not extend its safe fridge life.",
+    "pantry": "A pot of meat in gravy left on the stove is a textbook food-safety risk. The liquid holds heat and cools slowly, so the food sits in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) for hours, exactly the conditions surviving spores need. Refrigerate within 2 hours of cooking — 1 hour above 32 °C (90 °F).",
+    "fridge": "Divide the meat and its gravy into shallow containers so they cool quickly, and refrigerate at 4 °C (40 °F) or below for 3–4 days. Keeping the meat submerged prevents it drying and picking up fridge odours. Reheat only the portion you are eating rather than heating and cooling the whole batch repeatedly.",
+    "freezer": "Meat frozen in its gravy keeps unusually well — about 6 months of good quality at −18 °C (0 °F), noticeably longer than dry-frozen cooked meat, because the liquid seals it from the air that causes freezer burn. Portion into containers or bags, leave headspace, and label with the contents and date.",
+    "thawing": "Thaw in the fridge overnight, or reheat gently from frozen in a pan or oven with a splash of extra liquid. Bring it to a full simmer and check that it reaches 74 °C (165 °F) throughout. Do not thaw at room temperature or refreeze after reheating.",
+    "spoilage": [
+      "Sour, yeasty or fermented smell when the container is opened",
+      "Bubbles, foam or fizzing in the cold gravy",
+      "Slimy meat, or gravy that has turned stringy, cloudy or unusually thick",
+      "Mould on the surface, or an off taste after reheating"
+    ],
+    "tips": [
+      "Keep the meat fully covered by gravy so it does not dry out.",
+      "Freeze in gravy rather than dry — it doubles the useful freezer life.",
+      "Cool in shallow containers and refrigerate within 2 hours.",
+      "Chill overnight and lift the set fat off the top before reheating."
+    ],
+    "faq": [
+      {"q": "Can you freeze meat in gravy?", "a": "Yes, at −18 °C (0 °F) for about 6 months of good quality — longer than plain cooked meat, because the gravy keeps air off it."},
+      {"q": "How long does cooked meat in gravy last in the fridge?", "a": "3–4 days at 4 °C (40 °F) or below, provided it was cooled and refrigerated within 2 hours of cooking."},
+      {"q": "Does the gravy make the meat safe for longer?", "a": "No. It protects texture and helps enormously in the freezer, but the fridge limit is still 3–4 days."}
+    ]
+  },
+  "zh": {
+    "name": "浸在肉汁或高湯裡的熟肉",
+    "aliases": ["醬燒肉", "燉肉", "紅燒肉剩菜", "泡在肉汁裡的烤牛肉"],
+    "summary": "浸在肉汁或高湯裡的熟肉——燉牛肉、紅燒肉、泡在肉汁裡的烤牛肉片——在 4°C 以下冷藏可放 3～4 天；放 −18°C 冷凍約可放 6 個月。湯汁能保護肉不乾掉，但不會延長冷藏的安全期限。",
+    "pantry": "把一鍋泡在肉汁裡的肉留在爐子上，是教科書等級的食安風險。湯汁保溫、降溫慢，食物會在 4～60°C 的危險溫度帶待上好幾個小時，正是存活芽孢最需要的條件。請在煮好後 2 小時內冷藏（氣溫超過 32°C 時 1 小時）。",
+    "fridge": "把肉和肉汁分裝到淺容器加速降溫，放 4°C 以下冷藏 3～4 天。讓肉浸在湯汁裡可以避免乾掉和吸附冰箱異味。每次只加熱要吃的份量，不要整鍋反覆加熱又放涼。",
+    "freezer": "連肉汁一起冷凍的效果特別好——放 −18°C 品質約可維持 6 個月，明顯比乾式冷凍的熟肉久，因為湯汁把造成凍燒的空氣隔絕在外。分裝成容器或袋裝、預留膨脹空間，並標註內容和日期。",
+    "thawing": "放冷藏室解凍一晚，或直接把冷凍的放進鍋子或烤箱，加一點液體慢慢加熱。要煮到完全滾起來，並確認中心達到 74°C。不要在室溫解凍，加熱過的也不要再冷凍。",
+    "spoilage": [
+      "打開容器聞到酸味、酵母味或發酵味",
+      "冷的肉汁裡有氣泡、泡沫或嘶嘶聲",
+      "肉黏滑，或肉汁變得牽絲、混濁、異常濃稠",
+      "表面長黴，或加熱後嚐起來有異味"
+    ],
+    "tips": [
+      "讓肉完全泡在肉汁裡，才不會乾掉。",
+      "連肉汁一起冷凍，可用的冷凍期限幾乎加倍。",
+      "用淺容器降溫，2 小時內冷藏。",
+      "先冰一晚，把凝在表面的油脂撈掉再加熱。"
+    ],
+    "faq": [
+      {"q": "泡在肉汁裡的肉可以冷凍嗎？", "a": "可以，放 −18°C 冷凍約 6 個月品質仍佳，比單純的熟肉更久，因為肉汁隔絕了空氣。"},
+      {"q": "肉汁裡的熟肉放冰箱可以放多久？", "a": "在 4°C 以下冷藏 3～4 天，前提是煮好後 2 小時內就降溫冷藏。"},
+      {"q": "泡在肉汁裡會比較安全耐放嗎？", "a": "不會。它能保護口感，在冷凍時幫助很大，但冷藏的期限一樣是 3～4 天。"}
+    ]
+  },
+  "ja": {
+    "name": "グレービーやだしに浸した加熱済みの肉",
+    "aliases": ["煮込み肉", "ソースに浸した肉", "ポットローストの残り", "肉汁に浸したローストビーフ"],
+    "summary": "グレービーやだしに浸した加熱済みの肉（ポットロースト、煮込み、肉汁に浸したローストビーフのスライスなど）は、4℃以下の冷蔵で3〜4日、−18℃の冷凍で約6か月が目安です。汁は乾燥から肉を守りますが、冷蔵での安全な期間を延ばすものではありません。",
+    "pantry": "汁に浸した肉の鍋をコンロに置きっぱなしにするのは、典型的な食品衛生上のリスクです。汁は熱を保ち冷めにくいため、食品が4〜60℃の危険温度帯に何時間もとどまり、生き残った芽胞にとって理想的な条件になります。調理後2時間以内（気温32℃以上なら1時間以内）に冷蔵してください。",
+    "fridge": "肉と汁を浅い容器に分けて手早く冷まし、4℃以下で3〜4日保存します。肉を汁に沈めておけば乾燥もにおい移りも防げます。温め直すのは食べるぶんだけにし、鍋ごと加熱と冷却を繰り返さないようにしましょう。",
+    "freezer": "汁ごと冷凍すると特に良好で、−18℃で品質は約6か月と、そのまま冷凍した加熱済みの肉よりはっきり長もちします。汁が、冷凍焼けの原因となる空気を遮ってくれるためです。容器や袋に小分けし、膨張分の余裕を残して、中身と日付をラベルに書いておきましょう。",
+    "thawing": "冷蔵庫で一晩解凍するか、凍ったまま鍋やオーブンで水分を少し足して弱火で温め直します。しっかり沸騰させ、中心まで74℃になったか確認してください。常温解凍と、温め直したあとの再冷凍は避けます。",
+    "spoilage": [
+      "容器を開けたときに酸っぱいにおい、酵母臭、発酵臭がする",
+      "冷たいグレービーに気泡や泡、しゅわしゅわとした音がある",
+      "肉がぬめる、グレービーが糸を引く・濁る・異常にとろみが増している",
+      "表面にカビがある、温め直して味に異常がある"
+    ],
+    "tips": [
+      "肉が完全に汁に浸かった状態を保ち、乾燥を防ぐ。",
+      "そのままではなく汁ごと冷凍すると、使える期間がほぼ倍になる。",
+      "浅い容器で冷まし、2時間以内に冷蔵する。",
+      "一晩冷やして表面に固まった脂を取り除いてから温め直す。"
+    ],
+    "faq": [
+      {"q": "グレービーに浸した肉は冷凍できますか？", "a": "できます。−18℃で約6か月が品質の目安で、そのまま冷凍した肉より長もちします。汁が空気を遮るためです。"},
+      {"q": "汁に浸した加熱済みの肉は冷蔵庫で何日もちますか？", "a": "調理後2時間以内に冷まして冷蔵していれば、4℃以下で3〜4日です。"},
+      {"q": "汁に浸すと安全に長く保存できますか？", "a": "できません。食感を守り冷凍では大きな効果がありますが、冷蔵の期限は3〜4日のままです。"}
+    ]
+  },
+  "es": {
+    "name": "Carnes cocinadas en salsa o caldo",
+    "aliases": ["carne en salsa", "restos de estofado", "carne braseada", "res guisada en su jugo"],
+    "summary": "La carne cocinada y sumergida en salsa o caldo —un estofado, un braseado, rosbif en sus jugos— dura 3–4 días en el refrigerador a 4 °C (40 °F) o menos, y unos 6 meses en el congelador a −18 °C (0 °F). El líquido protege la carne del resecado pero no alarga su vida segura en frío.",
+    "pantry": "Una olla de carne en salsa olvidada sobre el fogón es un riesgo de manual. El líquido retiene el calor y se enfría despacio, así que la comida pasa horas en la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F), justo las condiciones que necesitan las esporas supervivientes. Refrigera en menos de 2 horas tras cocinar —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Reparte la carne con su salsa en recipientes bajos para que enfríen rápido y refrigéralos a 4 °C (40 °F) o menos durante 3–4 días. Mantener la carne sumergida evita que se seque y que absorba olores. Recalienta solo la ración que vas a comer en lugar de calentar y enfriar la olla entera una y otra vez.",
+    "freezer": "La carne congelada en su salsa aguanta especialmente bien: unos 6 meses de buena calidad a −18 °C (0 °F), bastante más que la carne cocida congelada en seco, porque el líquido la aísla del aire que causa la quemadura por congelación. Divide en recipientes o bolsas, deja espacio libre y etiqueta con el contenido y la fecha.",
+    "thawing": "Descongela en el refrigerador durante una noche, o recalienta desde congelado a fuego suave en cazuela u horno con un chorro extra de líquido. Llévalo a hervor suave y comprueba que alcanza 74 °C (165 °F). No descongeles a temperatura ambiente ni vuelvas a congelar tras recalentar.",
+    "spoilage": [
+      "Olor agrio, a levadura o fermentado al abrir el recipiente",
+      "Burbujas, espuma o efervescencia en la salsa fría",
+      "Carne viscosa, o salsa filante, turbia o anormalmente espesa",
+      "Moho en la superficie, o sabor extraño tras recalentar"
+    ],
+    "tips": [
+      "Mantén la carne totalmente cubierta por la salsa para que no se reseque.",
+      "Congélala en salsa y no en seco: duplica su vida útil en el congelador.",
+      "Enfría en recipientes bajos y refrigera en menos de 2 horas.",
+      "Enfría una noche y retira la grasa cuajada de la superficie antes de recalentar."
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar la carne en salsa?", "a": "Sí, a −18 °C (0 °F) durante unos 6 meses de buena calidad, más que la carne cocida sola, porque la salsa la aísla del aire."},
+      {"q": "¿Cuánto dura la carne cocinada en salsa en el refrigerador?", "a": "3–4 días a 4 °C (40 °F) o menos, siempre que se enfriara y refrigerara dentro de las 2 horas tras cocinarla."},
+      {"q": "¿La salsa hace que la carne sea segura más tiempo?", "a": "No. Protege la textura y ayuda muchísimo en el congelador, pero el límite en frío sigue siendo de 3–4 días."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "olives-from-olive-bar",
+  "en": {
+    "name": "Olives from the olive bar",
+    "aliases": ["deli olives", "marinated olives", "loose olives", "antipasti olives"],
+    "summary": "Olives scooped from a self-service olive bar have been sitting in an open tub, handled with shared tongs and often dressed in oil and herbs rather than a strong brine, so they do not keep like a sealed jar. Refrigerated at 4 °C (40 °F) or below they last about 2 weeks from the day of purchase.",
+    "pantry": "Olive bar olives should be refrigerated rather than kept in a cupboard. Their marinade is usually far milder than the salty brine in a shelf-stable jar, and the shared serving spoons mean they have picked up bacteria and yeasts from the store. Do not leave a bowl out at a party for more than 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Store them in a covered container at 4 °C (40 °F) or below and use them within about 2 weeks. Keep the olives submerged in their marinade or brine, topping up with a little olive oil or lightly salted water if the level drops; exposed olives dry, shrivel and grow mould much faster. Always use a clean spoon.",
+    "freezer": "Freezing is not recommended for olives. The flesh is dense and waxy, and it turns soft and mealy on thawing while the flavour flattens. If you have far too many, blitz them into a tapenade with oil and freeze that instead, at −18 °C (0 °F), where it stays safe indefinitely and keeps good quality for a few months.",
+    "thawing": "If you have frozen a tapenade, thaw it in the fridge overnight and stir in a little fresh olive oil and lemon to bring it back. Do not thaw whole olives at room temperature and do not refreeze them.",
+    "spoilage": [
+      "Fermented, yeasty or fizzy smell, or bubbles rising in the brine",
+      "White or coloured fuzzy mould on the surface of the liquid or the olives",
+      "Slimy olives, or brine that has turned cloudy and ropey",
+      "Mushy, collapsing flesh or a distinctly sour, off taste"
+    ],
+    "tips": [
+      "Buy only what you will eat in two weeks — the tub is not sealed like a jar.",
+      "Keep the olives covered by their liquid, topping up with oil if needed.",
+      "Use a clean spoon every time to avoid introducing bacteria.",
+      "Turn a surplus into tapenade rather than freezing whole olives."
+    ],
+    "faq": [
+      {"q": "How long do olive bar olives last?", "a": "About 2 weeks in the fridge at 4 °C (40 °F) or below, considerably less than a sealed jar because the marinade is milder and the tub was open."},
+      {"q": "Can you freeze olives?", "a": "It is not recommended: they go soft and mealy. Blend a surplus into tapenade and freeze that at −18 °C (0 °F) instead."},
+      {"q": "Do olives need to be refrigerated?", "a": "Olive bar olives do. An unopened shelf-stable jar can live in the cupboard, but it goes in the fridge once opened."}
+    ]
+  },
+  "zh": {
+    "name": "散裝橄欖（熟食櫃／橄欖吧）",
+    "aliases": ["橄欖", "醃橄欖", "散裝醃漬橄欖", "調味橄欖"],
+    "summary": "從自助橄欖吧舀來的橄欖，原本泡在開放的容器裡、用公用夾子取用，而且多半是用油和香草調味而不是高鹽鹽水，所以不像密封罐頭那麼耐放。在 4°C 以下冷藏，從購買日起約可放 2 週。",
+    "pantry": "散裝橄欖應該冷藏，而不是收在櫥櫃。它的醃汁通常比常溫罐裝的鹹鹽水淡得多，而且公用湯匙也帶進了店裡的細菌和酵母。聚會時放在桌上的橄欖不要超過 2 小時（氣溫超過 32°C 時 1 小時）。",
+    "fridge": "裝在有蓋容器裡，放 4°C 以下冷藏，約 2 週內吃完。要讓橄欖一直浸在醃汁或鹽水裡，液面不夠時補一點橄欖油或淡鹽水；露出液面的橄欖會乾癟，也更快發霉。每次都用乾淨的湯匙。",
+    "freezer": "橄欖不建議冷凍。果肉緻密帶蠟質，解凍後會變軟、口感粉粉的，風味也會變平淡。真的買太多的話，可以加油打成橄欖醬（tapenade）再冷凍，放 −18°C 安全上可以無限期保存，品質可維持幾個月。",
+    "thawing": "如果冷凍的是橄欖醬，請放冷藏室解凍一晚，再拌入一點新鮮橄欖油和檸檬汁提味。整顆橄欖不要在室溫解凍，也不要再次冷凍。",
+    "spoilage": [
+      "出現發酵味、酵母味或氣泡感，或鹽水裡冒泡",
+      "液面或橄欖上長出白色或有顏色的絨毛黴",
+      "橄欖表面黏滑，或鹽水變混濁牽絲",
+      "果肉軟爛塌陷，或吃起來明顯發酸有異味"
+    ],
+    "tips": [
+      "只買兩週內吃得完的量，散裝盒不像玻璃罐是密封的。",
+      "讓橄欖泡在液體裡，不夠就補一點橄欖油。",
+      "每次都用乾淨的湯匙，避免帶進細菌。",
+      "買太多就打成橄欖醬，不要整顆冷凍。"
+    ],
+    "faq": [
+      {"q": "散裝橄欖可以放多久？", "a": "在 4°C 以下冷藏約 2 週，比密封罐裝短很多，因為醃汁較淡、容器也是開放的。"},
+      {"q": "橄欖可以冷凍嗎？", "a": "不建議，會變軟、口感粉粉的。買太多的話打成橄欖醬再放 −18°C 冷凍比較好。"},
+      {"q": "橄欖一定要冰嗎？", "a": "散裝的要。未開封的常溫罐裝可以放櫥櫃，但開封後就要移到冰箱。"}
+    ]
+  },
+  "ja": {
+    "name": "量り売りのオリーブ",
+    "aliases": ["オリーブの実", "マリネしたオリーブ", "デリのオリーブ", "オリーブバーのオリーブ"],
+    "summary": "量り売り（オリーブバー）のオリーブは、開いた容器に入って共用のトングで取り分けられており、塩分の強いブラインではなくオイルやハーブでマリネされていることが多いため、密封瓶ほど日もちしません。4℃以下の冷蔵で購入日から約2週間が目安です。",
+    "pantry": "量り売りのオリーブは棚ではなく冷蔵庫で保管します。マリネ液は常温保存瓶の塩水よりずっと穏やかで、共用の器具から店内の細菌や酵母が入り込んでいるためです。パーティーで器を2時間以上（気温32℃以上なら1時間以上）出したままにしないでください。",
+    "fridge": "ふた付き容器に入れて4℃以下で保存し、約2週間で食べ切ります。実が液に浸かった状態を保ち、液が減ったらオリーブオイルか薄い塩水を足しましょう。液面から出た実は乾いてしぼみ、カビも早く出ます。取り出すときは必ず清潔なスプーンで。",
+    "freezer": "オリーブの冷凍はおすすめしません。実が密でろう質のため、解凍するとやわらかく粉っぽくなり、風味も平板になります。買いすぎた場合は、オイルとともにペースト（タプナード）にしてから冷凍しましょう。−18℃なら安全面では長期間、品質も数か月保てます。",
+    "thawing": "タプナードを冷凍した場合は、冷蔵庫で一晩解凍し、新しいオリーブオイルとレモンを少し加えて味を戻します。実のまま常温解凍したり、再冷凍したりしないでください。",
+    "spoilage": [
+      "発酵臭・酵母臭・炭酸のような刺激がある、ブラインから気泡が上がる",
+      "液面や実に白色または色付きの毛羽立ったカビが出ている",
+      "実がぬめる、ブラインが濁って糸を引く",
+      "実がぶよぶよにくずれる、明らかに酸っぱく異味がある"
+    ],
+    "tips": [
+      "2週間で食べ切れる量だけ買う。量り売りの容器は瓶のように密封されていない。",
+      "実が液に浸かった状態を保ち、足りなければオイルを足す。",
+      "毎回清潔なスプーンを使い、菌を持ち込まない。",
+      "余ったら実のまま冷凍せず、タプナードにする。"
+    ],
+    "faq": [
+      {"q": "量り売りのオリーブはどのくらいもちますか？", "a": "4℃以下の冷蔵で約2週間です。マリネ液が穏やかで容器も開いていたぶん、密封瓶よりかなり短くなります。"},
+      {"q": "オリーブは冷凍できますか？", "a": "おすすめしません。やわらかく粉っぽくなります。余ったらタプナードにして−18℃で冷凍してください。"},
+      {"q": "オリーブは冷蔵が必要ですか？", "a": "量り売りのものは必要です。未開封の常温保存瓶は棚に置けますが、開封後は冷蔵してください。"}
+    ]
+  },
+  "es": {
+    "name": "Aceitunas a granel",
+    "aliases": ["aceitunas de charcutería", "aceitunas aliñadas", "olivas a granel", "aceitunas del mostrador"],
+    "summary": "Las aceitunas tomadas de una barra de autoservicio han estado en un recipiente abierto, se manipulan con pinzas compartidas y suelen estar aliñadas con aceite y hierbas en lugar de una salmuera fuerte, así que no se conservan como un frasco sellado. Refrigeradas a 4 °C (40 °F) o menos duran unas 2 semanas desde la compra.",
+    "pantry": "Las aceitunas a granel deben refrigerarse y no guardarse en un armario. Su aliño suele ser mucho más suave que la salmuera de un frasco de larga duración, y las cucharas compartidas han introducido bacterias y levaduras de la tienda. No dejes un bol fuera más de 2 horas —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Guárdalas en un recipiente tapado a 4 °C (40 °F) o menos y consúmelas en unas 2 semanas. Mantenlas sumergidas en su aliño o salmuera, completando con un poco de aceite de oliva o agua ligeramente salada si baja el nivel; las aceitunas al aire se secan, se arrugan y crían moho mucho antes. Usa siempre cuchara limpia.",
+    "freezer": "No se recomienda congelar aceitunas. Su pulpa es densa y cerosa, y al descongelarse queda blanda y harinosa mientras el sabor se apaga. Si te sobran muchas, tritúralas con aceite en una tapenade y congela eso a −18 °C (0 °F), donde se mantiene segura indefinidamente y con buena calidad unos meses.",
+    "thawing": "Si congelaste tapenade, descongélala en el refrigerador durante una noche y añade un poco de aceite fresco y limón para reavivarla. No descongeles aceitunas enteras a temperatura ambiente ni las vuelvas a congelar.",
+    "spoilage": [
+      "Olor fermentado, a levadura o con gas, o burbujas que suben por la salmuera",
+      "Moho blanco o de color en la superficie del líquido o en las aceitunas",
+      "Aceitunas viscosas, o salmuera turbia y filante",
+      "Pulpa blanda y desmoronada o sabor claramente ácido y extraño"
+    ],
+    "tips": [
+      "Compra solo lo que comerás en dos semanas: el envase no está sellado como un frasco.",
+      "Mantenlas cubiertas por su líquido, completando con aceite si hace falta.",
+      "Usa una cuchara limpia cada vez para no introducir bacterias.",
+      "Convierte el excedente en tapenade en vez de congelar aceitunas enteras."
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las aceitunas a granel?", "a": "Unas 2 semanas en el refrigerador a 4 °C (40 °F) o menos, bastante menos que un frasco sellado porque el aliño es más suave y el envase estaba abierto."},
+      {"q": "¿Se pueden congelar las aceitunas?", "a": "No es recomendable: quedan blandas y harinosas. Tritura el excedente en tapenade y congela esa a −18 °C (0 °F)."},
+      {"q": "¿Las aceitunas necesitan refrigeración?", "a": "Las de granel sí. Un frasco de larga duración sin abrir puede estar en la alacena, pero pasa al refrigerador una vez abierto."}
+    ]
+  }
+}

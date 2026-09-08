@@ -1,0 +1,107 @@
+{
+  "slug": "main-dishes-or-meals-hot-refrigerated",
+  "en": {
+    "name": "Prepared main dishes and meals",
+    "aliases": ["ready meals", "hot deli meals", "prepared dinners", "takeaway meals", "chilled ready meals"],
+    "summary": "Prepared main dishes bought hot from a deli counter or chilled from the ready-meal cabinet keep 3–4 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 2–3 months in the freezer at −18 °C (0 °F). The clock starts when you buy them, not when you open them.",
+    "pantry": "A hot prepared meal must not be left standing on the counter to cool slowly. It passes through the danger zone between 4 °C and 60 °C (40 °F and 140 °F) as it cools, and spores that survived cooking start to grow. Either keep it above 60 °C (140 °F) until you eat it, or refrigerate within 2 hours of buying — 1 hour above 32 °C (90 °F).",
+    "fridge": "Transfer a hot meal into a shallow container so it cools quickly, and refrigerate at 4 °C (40 °F) or below for 3–4 days from purchase. A chilled ready meal can stay in its own tray, but respect the printed date and treat it as the limit. Do not add a fresh portion to a container of older leftovers.",
+    "freezer": "Most prepared meals freeze well for 2–3 months of good quality at −18 °C (0 °F), where they stay safe indefinitely. Freeze them on the day of purchase rather than after several days in the fridge. Saucy dishes, stews and bakes freeze best; salads, fried coatings and creamy sauces do not, since they separate or go soggy.",
+    "thawing": "Thaw in the fridge overnight, or reheat straight from frozen following the pack instructions. Reheat until steaming hot throughout, at least 74 °C (165 °F), stirring halfway so there are no cold spots. Do not refreeze a meal that has been reheated.",
+    "spoilage": [
+      "Sour, yeasty or fermented smell when the container is opened",
+      "Bubbles or a fizzing sound in a cold sauce",
+      "Slimy surfaces or mould of any colour",
+      "An off taste on the first mouthful after reheating"
+    ],
+    "tips": [
+      "Refrigerate a hot meal within 2 hours in a shallow container.",
+      "Label with the purchase date; the 3–4 days is counted from then.",
+      "Freeze on the day of purchase if you will not eat it within 3–4 days.",
+      "Reheat once, to steaming hot, and only the portion you are eating."
+    ],
+    "faq": [
+      {"q": "How long does a ready meal last in the fridge?", "a": "3–4 days from the day of purchase at 4 °C (40 °F) or below, or until the printed date if that comes first."},
+      {"q": "Can you freeze a ready meal?", "a": "Yes, at −18 °C (0 °F) for 2–3 months of good quality. Freeze it on the day you buy it, and expect creamy sauces and fried coatings to suffer."},
+      {"q": "Can you refrigerate a meal that is still hot?", "a": "Yes — modern fridges cope well, and it is safer than cooling slowly on the counter. Use shallow containers so the food chills quickly."}
+    ]
+  },
+  "zh": {
+    "name": "調理好的主菜與便當",
+    "aliases": ["即食餐", "熟食主菜", "冷藏調理包餐", "外帶熟食", "便當"],
+    "summary": "在熟食櫃買的熱主菜，或冷藏櫃買的即食餐，在 4°C 以下冷藏，從購買日起可放 3～4 天；放 −18°C 冷凍可放 2～3 個月。期限從買回來那天開始算，而不是拆封那天。",
+    "pantry": "熱的熟食主菜不能放在流理台上慢慢放涼。降溫過程中它會通過 4～60°C 的危險溫度帶，加熱後存活的芽孢就會開始生長。要嘛保溫在 60°C 以上直接吃掉，要嘛在買回來 2 小時內冷藏（氣溫超過 32°C 時 1 小時）。",
+    "fridge": "把熱的主菜移到淺容器加速降溫，放 4°C 以下冷藏，從購買日起 3～4 天。冷藏即食餐可以留在原本的餐盒裡，但要以標示日期為上限。不要把新的份量加進裝著舊剩菜的容器。",
+    "freezer": "大多數調理主菜都很適合冷凍，放 −18°C 品質約 2～3 個月，安全上可以無限期保存。請在購買當天冷凍，而不是在冰箱放了好幾天才凍。帶醬汁的料理、燉煮和焗烤最適合冷凍；沙拉、油炸裹粉和奶油醬汁則不適合，會分離或變糊。",
+    "thawing": "放冷藏室解凍一晚，或依包裝指示直接從冷凍加熱。要加熱到整體冒蒸氣、至少 74°C，中途攪拌避免冷點。加熱過的餐點不要再冷凍。",
+    "spoilage": [
+      "打開容器聞到酸味、酵母味或發酵味",
+      "冷的醬汁裡有氣泡或嘶嘶聲",
+      "表面黏滑，或出現任何顏色的黴",
+      "加熱後第一口就嚐到異味"
+    ],
+    "tips": [
+      "熱的主菜用淺容器盛裝，2 小時內冷藏。",
+      "標註購買日期，3～4 天是從那天算起。",
+      "如果 3～4 天內吃不完，購買當天就冷凍。",
+      "只加熱一次、加熱到冒蒸氣，而且只加熱要吃的份量。"
+    ],
+    "faq": [
+      {"q": "即食餐放冰箱可以放多久？", "a": "在 4°C 以下冷藏，從購買日起 3～4 天，若標示日期更早則以標示為準。"},
+      {"q": "即食餐可以冷凍嗎？", "a": "可以，放 −18°C 冷凍 2～3 個月品質仍佳。請在購買當天冷凍，並注意奶油醬汁和油炸裹粉的口感會變差。"},
+      {"q": "還熱的餐點可以直接放冰箱嗎？", "a": "可以，現代冰箱應付得來，而且比放在檯面上慢慢冷卻安全得多。請用淺容器讓食物快速降溫。"}
+    ]
+  },
+  "ja": {
+    "name": "調理済みの主菜・お弁当",
+    "aliases": ["惣菜のメインディッシュ", "チルド弁当", "レディミール", "テイクアウトの食事", "調理済みおかず"],
+    "summary": "惣菜コーナーで温かい状態で買った主菜や、チルド棚のレディミールは、4℃以下の冷蔵で購入日から3〜4日、−18℃の冷凍で2〜3か月が目安です。期限のカウントは開封時ではなく購入した日から始まります。",
+    "pantry": "温かい調理済みの食事を台所に置いてゆっくり冷ますのは避けてください。冷める過程で4〜60℃の危険温度帯を通り、加熱で生き残った芽胞が発育し始めます。食べるまで60℃以上で保温するか、購入後2時間以内（気温32℃以上なら1時間以内）に冷蔵してください。",
+    "fridge": "温かい料理は浅い容器に移して手早く冷まし、4℃以下で購入日から3〜4日保存します。チルドのレディミールはトレーのままでも構いませんが、表示期限を上限として守ってください。古い残り物の容器に新しい分を足さないようにしましょう。",
+    "freezer": "多くの調理済み料理は冷凍向きで、−18℃で品質は2〜3か月、安全面では長期間保存できます。冷蔵で数日置いたあとではなく、購入当日に冷凍しましょう。ソースのある料理、煮込み、グラタンは冷凍向き。サラダ、揚げころも、クリームソースは分離したりべたついたりするため不向きです。",
+    "thawing": "冷蔵庫で一晩解凍するか、パッケージの表示に従って凍ったまま加熱します。全体が湯気を立てるまで、少なくとも74℃まで温め、途中でかき混ぜて冷たい部分を残さないようにします。温め直したものの再冷凍は避けてください。",
+    "spoilage": [
+      "容器を開けたときに酸っぱいにおい、酵母臭、発酵臭がする",
+      "冷たいソースに気泡やしゅわしゅわとした音がある",
+      "表面がぬめる、色を問わずカビが出ている",
+      "温め直して一口目に異味を感じる"
+    ],
+    "tips": [
+      "温かい料理は浅い容器に移し、2時間以内に冷蔵する。",
+      "購入日を書いておく。3〜4日はその日から数える。",
+      "3〜4日で食べ切れないなら購入当日に冷凍する。",
+      "温め直しは1回、湯気が立つまで、食べるぶんだけ。"
+    ],
+    "faq": [
+      {"q": "レディミールは冷蔵庫で何日もちますか？", "a": "4℃以下で購入日から3〜4日、または表示期限のいずれか早いほうまでです。"},
+      {"q": "レディミールは冷凍できますか？", "a": "できます。−18℃で2〜3か月が品質の目安。購入当日に冷凍し、クリームソースや揚げころもは食感が落ちる点に留意してください。"},
+      {"q": "熱いまま冷蔵庫に入れてもいいですか？", "a": "問題ありません。最近の冷蔵庫は対応でき、常温でゆっくり冷ますよりずっと安全です。浅い容器を使って手早く冷やしましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Platos principales y comidas preparadas",
+    "aliases": ["platos listos", "comida preparada caliente", "comida para llevar", "platos refrigerados listos"],
+    "summary": "Los platos principales preparados, comprados calientes en el mostrador o refrigerados en la sección de platos listos, duran 3–4 días en el refrigerador a 4 °C (40 °F) o menos desde el día de compra, y 2–3 meses en el congelador a −18 °C (0 °F). El reloj empieza al comprarlos, no al abrirlos.",
+    "pantry": "Un plato caliente no debe quedarse en la encimera enfriándose despacio. Al enfriarse atraviesa la zona de peligro entre 4 °C y 60 °C (40 °F y 140 °F), y las esporas que sobrevivieron a la cocción empiezan a desarrollarse. Mantenlo por encima de 60 °C (140 °F) hasta comerlo, o refrigéralo en menos de 2 horas desde la compra —1 hora por encima de 32 °C (90 °F)—.",
+    "fridge": "Pasa un plato caliente a un recipiente bajo para que enfríe rápido y refrigéralo a 4 °C (40 °F) o menos durante 3–4 días desde la compra. Un plato refrigerado puede quedarse en su bandeja, pero respeta la fecha impresa como límite. No añadas una ración nueva a un recipiente con sobras más antiguas.",
+    "freezer": "La mayoría de los platos preparados se congelan bien 2–3 meses de buena calidad a −18 °C (0 °F), donde son seguros indefinidamente. Congélalos el día de la compra y no tras varios días en frío. Los guisos y los horneados con salsa son los que mejor aguantan; las ensaladas, los rebozados y las salsas cremosas no, porque se separan o se ablandan.",
+    "thawing": "Descongélalos en el refrigerador durante una noche, o recaliéntalos desde congelado siguiendo las instrucciones del envase. Recalienta hasta que humeen por completo, al menos 74 °C (165 °F), removiendo a mitad para que no queden zonas frías. No vuelvas a congelar un plato ya recalentado.",
+    "spoilage": [
+      "Olor agrio, a levadura o fermentado al abrir el recipiente",
+      "Burbujas o efervescencia en una salsa fría",
+      "Superficies viscosas o moho de cualquier color",
+      "Sabor extraño en el primer bocado tras recalentar"
+    ],
+    "tips": [
+      "Refrigera un plato caliente en menos de 2 horas y en recipiente bajo.",
+      "Etiqueta con la fecha de compra: los 3–4 días se cuentan desde ahí.",
+      "Congélalo el mismo día si no lo comerás en 3–4 días.",
+      "Recalienta una sola vez, hasta que humee, y solo la ración que vas a comer."
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura un plato preparado en el refrigerador?", "a": "3–4 días desde el día de compra a 4 °C (40 °F) o menos, o hasta la fecha impresa si es anterior."},
+      {"q": "¿Se puede congelar un plato preparado?", "a": "Sí, a −18 °C (0 °F) durante 2–3 meses de buena calidad. Congélalo el día de la compra y cuenta con que las salsas cremosas y los rebozados sufran."},
+      {"q": "¿Se puede refrigerar un plato aún caliente?", "a": "Sí: los refrigeradores modernos lo asumen bien y es más seguro que enfriarlo despacio en la encimera. Usa recipientes bajos para que se enfríe rápido."}
+    ]
+  }
+}
