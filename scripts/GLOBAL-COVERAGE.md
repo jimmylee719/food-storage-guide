@@ -12,7 +12,7 @@ more useful than a silent gap.
 
 ---
 
-## Batch A — Tropical and subtropical fruit
+## Batch A — Tropical and subtropical fruit  ✅ DONE → src/data/base/extra/a-tropical-fruit.json (46 items)
 
 durian, mangosteen, rambutan, jackfruit, breadfruit, longan, langsat/lanzones,
 salak (snake fruit), soursop/guanábana, sweetsop/sugar apple (釋迦), cherimoya
@@ -25,7 +25,7 @@ açaí pulp, cupuaçu, pitanga, jabuticaba, granadilla, curuba, lulo/naranjilla,
 tree tomato/tamarillo, physalis/cape gooseberry, loquat (枇杷), bayberry (楊梅),
 mulberry, sea buckthorn, quince, medlar, black sapote, ice cream bean
 
-## Batch B — Asian vegetables, roots and fungi
+## Batch B — Asian vegetables, roots and fungi  ✅ DONE → src/data/base/extra/b-asian-vegetables.json (48 items)
 
 daikon (白蘿蔔), bitter melon (苦瓜), water spinach (空心菜), sweet potato leaves
 (地瓜葉), luffa/sponge gourd (絲瓜), winter melon (冬瓜), bottle gourd (蒲瓜),
@@ -39,7 +39,10 @@ white fungus (白木耳), enoki (金針菇), king oyster (杏鮑菇), shiitake f
 shiitake dried (乾香菇), shimeji, maitake, nameko, straw mushroom, matsutake,
 dried lily flower (金針花), seaweed: kombu, wakame, nori, hijiki, agar
 
-## Batch C — Soy, tofu and Asian protein products
+## Batch C — Soy, tofu and Asian protein products  (not started)
+
+chayote appears in Batch B and Batch F and was skipped by both; verify before writing.
+
 
 firm tofu, silken tofu, dried tofu (豆干), fried tofu puffs (油豆腐), aburaage,
 atsuage, tofu skin/yuba (腐竹), fermented bean curd (豆腐乳), stinky tofu,
