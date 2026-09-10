@@ -89,7 +89,7 @@ manchego, cabrales, membrillo/quince paste, turrón, boquerones en vinagre,
 bacalao salado, pulpo cooked, gazpacho, salmorejo, croquetas, tortilla de
 patatas, paella leftovers, horchata, mate/yerba, panela/piloncillo
 
-## Batch G — South Asia, Middle East and Africa
+## Batch G — South Asia, Middle East and Africa  ✅ DONE → src/data/base/extra/g-south-asia-africa.json (47 items)
 
 paneer, ghee (already — verify), curd/dahi, lassi, chapati/roti, naan, paratha
 frozen, idli batter, dosa batter, poha, semolina/sooji, besan/gram flour,

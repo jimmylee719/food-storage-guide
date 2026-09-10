@@ -1,0 +1,2366 @@
+[
+  {
+    "slug": "paneer",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Paneer",
+    "subtitle": "fresh, unaged Indian curd cheese",
+    "keywords": [
+      "paneer",
+      "panir",
+      "indian cottage cheese",
+      "fresh acid-set cheese",
+      "chhena",
+      "印度起司",
+      "印度乳酪",
+      "帕尼爾起司",
+      "印度鮮乳酪",
+      "パニール",
+      "パニル",
+      "インドのフレッシュチーズ",
+      "queso paneer",
+      "queso fresco indio"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 5,
+          "max": 7,
+          "unit": "days",
+          "tips": "Keep it at or below 4 °C (40 °F). Paneer is a high-moisture, low-acid fresh cheese, which is exactly the profile the FDA describes for queso fresco-type cheeses as a favourable environment for Listeria — and Listeria grows in a cold fridge. Anything left in the 4–60 °C danger zone for more than two hours should go. Submerging the block in fresh water and changing the water daily keeps it soft, but it does not buy extra days."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "No credible timeline exists for frozen paneer. It freezes without a safety problem but the curd tightens and turns rubbery and squeaky on thawing; cube it first, and use it in a simmered curry rather than fried fresh."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Queso Fresco-type Cheeses Consumer Guidance",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/queso-fresco-type-cheeses-consumer-guidance"
+      }
+    ],
+    "analog": "cottage-cheese",
+    "notes": "The rule is sourced, the number is borrowed. The FDA page states the hazard and the handling rule for fresh, high-moisture, low-acid cheese — at or below 40 °F, two-hour danger-zone limit, and its blunt advice not to keep leftover queso fresco once opened — and paneer is the same class of cheese, so the rule is applied here by our own extension, not by the FDA. The 5–7 day figure comes from the FoodKeeper entry 'cottage-cheese', which gives one week after opening. Commercially vacuum-packed paneer carries a printed date that runs far longer than this; that date applies only while the pack is sealed."
+  },
+  {
+    "slug": "curd-dahi",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Curd",
+    "subtitle": "dahi, home-set Indian yoghurt",
+    "keywords": [
+      "curd",
+      "dahi",
+      "dahee",
+      "indian curd",
+      "home set yogurt",
+      "mosaru",
+      "thayir",
+      "印度優格",
+      "印度酸奶",
+      "凝乳",
+      "達希",
+      "ダヒ",
+      "インドヨーグルト",
+      "自家製ヨーグルト",
+      "cuajada india",
+      "yogur casero dahi"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "Set it at room temperature only until it firms, then get it straight into the fridge — the culture keeps working in the cold, just slowly, so a batch that is pleasant on day two is sharply sour by day five. Never dip a used spoon into the pot; that is what makes a batch go slimy or pink."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "yogurt",
+    "notes": "Borrowed in full from the USDA FoodKeeper entry 'yogurt' (1–2 weeks refrigerated). No agency publishes a figure for home-set dahi. Treat 1–2 weeks as the outer safety limit rather than a quality window: home-set curd carries no preservative and no packaging date, and its eating quality is usually gone within three or four days. Freezing is left out deliberately — dahi separates and weeps on thawing and is only usable stirred into cooking."
+  },
+  {
+    "slug": "lassi",
+    "category": "beverages",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Lassi",
+    "subtitle": "yoghurt drink, sweet or salted",
+    "keywords": [
+      "lassi",
+      "mango lassi",
+      "salted lassi",
+      "namkeen lassi",
+      "chaas",
+      "buttermilk drink",
+      "拉西",
+      "印度優格飲",
+      "印度酸奶飲料",
+      "芒果拉西",
+      "ラッシー",
+      "マンゴーラッシー",
+      "インドのヨーグルト飲料",
+      "lassi",
+      "bebida de yogur india"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 1,
+          "max": 1,
+          "unit": "weeks",
+          "tips": "Chilled bottled lassi, unopened, up to its printed date."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Home-blended lassi is a fresh dairy drink: chill it the moment it is made and drink it the same day if you can. It separates within hours — that is quality, not spoilage — but a jug left standing on the counter through a meal is a different matter and should be discarded."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "kefir-fermented-milk",
+    "notes": "Both numbers are borrowed from the USDA FoodKeeper entry 'kefir-fermented-milk' (1 week unopened, 1–2 days after opening), the nearest cultured-milk drink in the dataset. No agency publishes a lassi-specific figure. Shelf-stable retort-packed lassi is a different product and keeps unrefrigerated until opened; once opened it falls under the same 1–2 day window."
+  },
+  {
+    "slug": "khoya",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Khoya",
+    "subtitle": "mawa, reduced milk solids",
+    "keywords": [
+      "khoya",
+      "khoa",
+      "mawa",
+      "milk solids",
+      "reduced milk",
+      "pindi khoa",
+      "dhap khoa",
+      "印度奶膏",
+      "濃縮奶塊",
+      "科亞奶酪",
+      "馬瓦",
+      "コヤ",
+      "カヤ",
+      "マワ",
+      "インドの濃縮乳固形",
+      "khoya",
+      "sólidos lácteos concentrados"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 5,
+          "max": 7,
+          "unit": "days",
+          "tips": "Perishable, not a pantry good — reducing milk removes water but leaves a moist, low-acid, protein-rich solid that spoils like fresh cheese. Keep it at or below 4 °C, wrapped tight, and smell it before use: khoya sours and picks up a stale, tallowy note well before it looks wrong."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Khoya is commonly frozen in flattened, wrapped portions and thawed in the fridge. No source gives a limit, and the fat is what eventually goes rancid, so treat it as a few months rather than indefinite."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "FSSAI (India) – Guidance Note on Milk Products, 24 Feb 2020",
+        "url": "https://fssai.gov.in/upload/uploadfiles/files/Guidance_Note_Milk_Products_24_02_2020.pdf"
+      }
+    ],
+    "analog": "cottage-cheese",
+    "notes": "The FSSAI guidance note is cited for the class, not for this number: it lists khoya-based sweets (milk cake, plain burfi, peda) under 'Long Shelf Life – 7 days', to be consumed within seven days of manufacture, and it treats khoya as a perishable milk product. Plain khoya, without the sugar of those sweets, cannot honestly be given a longer life, so the 5–7 day figure is borrowed from the FoodKeeper entry 'cottage-cheese' and capped by the FSSAI seven-day sweets figure."
+  },
+  {
+    "slug": "rasgulla",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Rasgulla",
+    "subtitle": "chhena balls in syrup; also rasmalai, sandesh",
+    "keywords": [
+      "rasgulla",
+      "roshogolla",
+      "rasmalai",
+      "sandesh",
+      "chhena sweet",
+      "bengali sweet",
+      "印度奶球",
+      "糖漿奶球",
+      "孟加拉奶點",
+      "拉斯古拉",
+      "ラスグッラ",
+      "ラスマライ",
+      "ベンガル菓子",
+      "rasgulla",
+      "dulce bengalí de leche"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "FSSAI puts rasgulla, rasmalai, sandesh, cham cham and rajbhog in the 'Short Shelf Life' class: keep refrigerated and eat within two days of the date of manufacture. The syrup does not preserve them — the ball is fresh chhena, a soft high-moisture curd. Buy from a counter with real refrigeration and note that mithai shops often sell yesterday's tray."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "FSSAI (India) – Guidance Note on Milk Products, 24 Feb 2020",
+        "url": "https://fssai.gov.in/upload/uploadfiles/files/Guidance_Note_Milk_Products_24_02_2020.pdf"
+      }
+    ],
+    "analog": null,
+    "notes": "Directly sourced. FSSAI's illustrative shelf-life table gives 'b) Short Shelf Life – 2 days: To be kept in refrigerator and consumed within 2 days from date of manufacturing' and names Rasgulla, Ras Malai, Sandesh, Cham Cham and Rajbhog among others. The same table gives kalakand the shortest life of all — same day, at room temperature — and khoya sweets seven days. Canned or retort-packed rasgulla is a different product entirely and keeps on the shelf until opened."
+  },
+  {
+    "slug": "halloumi",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Halloumi",
+    "subtitle": "brined, in its pack",
+    "keywords": [
+      "halloumi",
+      "haloumi",
+      "hellim",
+      "grilling cheese",
+      "cypriot cheese",
+      "哈羅米起司",
+      "哈魯米乳酪",
+      "賽普勒斯烤起司",
+      "鹽水起司",
+      "ハルーミ",
+      "ハロウミ",
+      "焼きチーズ",
+      "halloumi",
+      "queso halloumi"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 5,
+          "max": 5,
+          "unit": "months",
+          "tips": "Unopened, in its sealed brine pack, up to the printed date — the high salt and the brine are what carry it, not the cheese itself."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "Once cut, keep the block submerged in its own brine (top it up with a strong salt solution if you have poured it away) in a sealed tub at 4 °C or below. Halloumi is firmer and much saltier than a soft fresh cheese, but it is still a high-moisture cheese and Hong Kong's CFS notes Listeria grows at refrigerator temperatures as low as 0 °C — so if the brine turns cloudy or ropy, discard it."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Halloumi takes freezing better than most cheeses because it does not melt. Slice it before freezing and cook the slices from frozen."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Hong Kong Centre for Food Safety – Listeria monocytogenes in Cheese Products",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_94_01.html"
+      }
+    ],
+    "analog": "string-cheese",
+    "notes": "The CFS page is cited for the rule — that moisture and low acidity are what make a cheese a Listeria risk, that the organism grows down to 0 °C, and that you should store cheese strictly to its label. It does not give a timeline for halloumi. The unopened and frozen figures are borrowed from the FoodKeeper entry 'string-cheese' (5 months refrigerated) and from FoodKeeper's semi-hard cheese freezer figure of 6 months; the 1–2 week opened figure follows FoodKeeper's soft-cheese line. Halloumi's printed date is more reliable than any of these while the pack is sealed."
+  },
+  {
+    "slug": "labneh",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Labneh",
+    "subtitle": "strained yoghurt cheese",
+    "keywords": [
+      "labneh",
+      "labaneh",
+      "lebneh",
+      "strained yogurt",
+      "yogurt cheese",
+      "shanklish",
+      "優格起司",
+      "瀝乾優格",
+      "中東優格醬",
+      "拉布內",
+      "ラブネ",
+      "ラブネー",
+      "水切りヨーグルト",
+      "labneh",
+      "queso de yogur"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "Keep it in a sealed tub at or below 4 °C. Straining removes whey but not the live culture, so labneh keeps souring and sharpening in the fridge; a thin layer of olive oil poured over the surface slows the skin forming but does not preserve it."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "NCHFP (University of Georgia) – Freezing Garlic-in-Oil",
+        "url": "https://nchfp.uga.edu/how/freeze/vegetable/freezing-garlic-in-oil/"
+      }
+    ],
+    "analog": "yogurt",
+    "notes": "The 1–2 week figure is borrowed from the FoodKeeper entry 'yogurt'; no agency publishes a labneh timeline. The NCHFP page is cited only for the oil rule that matters here: labneh balls rolled and stored under olive oil are a traditional room-temperature preserve, and NCHFP's finding on garlic-in-oil — that a food held under oil at room temperature is an anaerobic environment in which Clostridium botulinum can produce toxin, and that such mixtures belong in the refrigerator — is why this record says to keep labneh-in-oil jars in the fridge and not on the counter. Labneh is acidic enough that it is not the same hazard as garlic; the caution is ours, extended from NCHFP's rule, not an NCHFP statement about labneh."
+  },
+  {
+    "slug": "feta",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Feta",
+    "subtitle": "in brine",
+    "keywords": [
+      "feta",
+      "feta cheese",
+      "brined cheese",
+      "greek cheese",
+      "菲達起司",
+      "費塔乳酪",
+      "希臘鹽漬起司",
+      "羊奶鹽水起司",
+      "フェタ",
+      "フェタチーズ",
+      "ギリシャのチーズ",
+      "feta",
+      "queso feta"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 1,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "Keep the block submerged in its brine at or below 4 °C. Hong Kong's CFS names feta among the soft cheeses to avoid if you are pregnant, elderly or immunocompromised, because soft cheeses are less acidic and hold more moisture — a favourable environment for Listeria monocytogenes, which grows slowly even at 0 °C. Choose feta made from pasteurised milk."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Freezing works only for cooking use — the curd goes crumbly and grainy on thawing. Freeze it drained, not in brine."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Hong Kong Centre for Food Safety – Listeria monocytogenes in Cheese Products",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_94_01.html"
+      }
+    ],
+    "analog": "cheese-soft-brie-bel-paese-goat",
+    "notes": "The Listeria rule and the classification of feta as a soft, higher-risk cheese are sourced from CFS. The numbers are borrowed from the FoodKeeper entry 'cheese-soft-brie-bel-paese-goat' (1–2 weeks refrigerated, 6 months frozen). A sealed brine tub with an unbroken seal keeps considerably longer than a fortnight — go by its printed date until you open it — but no agency publishes that figure, so it is not given here."
+  },
+  {
+    "slug": "kashk",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Kashk",
+    "subtitle": "dried whey balls, and the liquid paste",
+    "keywords": [
+      "kashk",
+      "qurut",
+      "kurut",
+      "chortan",
+      "dried whey",
+      "fermented whey",
+      "乾乳清球",
+      "發酵乳清",
+      "卡什克",
+      "中東乳清醬",
+      "カシュク",
+      "クルート",
+      "乾燥ホエイ",
+      "kashk",
+      "suero fermentado seco"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "Only the hard, sun-dried balls belong in a cupboard. Keep them bone dry in a sealed jar; if they soften or bloom with mould, moisture has got in and they are finished. The liquid kashk sold in jars is a different product and is not a pantry good once opened."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 5,
+          "max": 7,
+          "unit": "days",
+          "tips": "Jarred liquid or paste kashk goes in the fridge once opened. It is fermented and salty, which slows spoilage, but it is still a moist dairy product — many Iranian cooks bring it to a boil before use, which is a flavour and safety habit worth keeping."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "NCHFP (University of Georgia) – Packaging and Storing Dried Foods",
+        "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/"
+      }
+    ],
+    "analog": "powdered-milk",
+    "notes": "Two borrowed numbers, both disclosed. The pantry figure for dried kashk balls follows the FoodKeeper entry 'powdered-milk' (3 months after opening in heat, years in cool dark storage) tempered down to 6–12 months, and NCHFP is cited for the governing rule rather than the number: dried foods reabsorb moisture in storage, glass containers let you see it happen, and anything that has gone damp must be used at once, redried, or thrown out if mouldy. The refrigerated figure for opened liquid kashk is our own conservative reading of a salted fermented dairy paste and is not published anywhere; treat the jar's own date as authoritative if it carries one."
+  },
+  {
+    "slug": "chapati-roti",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Chapati",
+    "subtitle": "roti, phulka — fresh griddled flatbread",
+    "keywords": [
+      "chapati",
+      "chapatti",
+      "roti",
+      "phulka",
+      "indian flatbread",
+      "whole wheat flatbread",
+      "印度薄餅",
+      "恰巴提",
+      "印度全麥薄餅",
+      "洽巴提",
+      "チャパティ",
+      "ロティ",
+      "インドの薄焼きパン",
+      "chapati",
+      "pan plano indio",
+      "roti"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Stack them hot in a cloth-lined casserole so the steam keeps them pliable, and eat them the day they are made. There is no fat and no preservative in a plain chapati, so by day two they are leathery and by day three they mould, faster in a humid kitchen."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 5,
+          "unit": "days",
+          "tips": "Wrap the cooled stack airtight — refrigeration stales bread faster than the counter does, but it is what holds off mould. Bring them back with fifteen seconds on a dry hot tawa, not the microwave."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 3,
+          "max": 5,
+          "unit": "months",
+          "tips": "Interleave with baking paper and freeze flat; griddle from frozen."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "bread-homemade",
+    "notes": "All three figures are borrowed. The counter and refrigerator figures come from the FoodKeeper entry 'bread-homemade' (3–5 days at room temperature, which we have shortened to 1–2 days because a chapati is unleavened, fat-free and thin, and stales in hours rather than days); the freezer figure is FoodKeeper's 'commercial-bread-products-including-pan-breads-flat-breads-rolls' (3–5 months). No agency publishes a figure for fresh chapati. Packaged shop-bought roti carries a printed date and behaves like commercial flatbread, not like this."
+  },
+  {
+    "slug": "naan",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Naan",
+    "subtitle": "leavened tandoor flatbread",
+    "keywords": [
+      "naan",
+      "nan",
+      "tandoor bread",
+      "garlic naan",
+      "butter naan",
+      "kulcha",
+      "印度烤餅",
+      "囊餅",
+      "饢",
+      "印度手抓餅",
+      "ナン",
+      "インドのナン",
+      "タンドールパン",
+      "naan",
+      "pan naan"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "days",
+          "tips": "Naan holds better than chapati because it is leavened and enriched with yoghurt, milk or ghee, but it is still a moist bread — sealed in a bag at room temperature it moulds rather than dries. Packaged supermarket naan carries preservatives and a printed date; go by that instead."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 2,
+          "max": 3,
+          "unit": "weeks",
+          "tips": "Refrigeration is the anti-mould move, not a freshness move. Reheat under a grill or on a tawa with a flick of water to steam it back."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 3,
+          "max": 5,
+          "unit": "months",
+          "tips": "The best option by a distance. Freeze flat with paper between, and reheat from frozen."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "commercial-bread-products-including-pan-breads-flat-breads-rolls",
+    "notes": "Borrowed in full from the FoodKeeper entry 'commercial-bread-products-including-pan-breads-flat-breads-rolls', which explicitly covers flat breads: 14–18 days on the shelf from purchase, 2–3 weeks refrigerated after opening, 3–5 months frozen. The counter figure has been cut to 2–3 days here because that FoodKeeper number describes a preservative-loaded packaged loaf, not bread from a tandoor or a home oven. No agency publishes a naan-specific figure."
+  },
+  {
+    "slug": "paratha-frozen",
+    "category": "frozen-foods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Paratha",
+    "subtitle": "frozen, uncooked layered flatbread",
+    "keywords": [
+      "paratha",
+      "parantha",
+      "frozen paratha",
+      "malabar parotta",
+      "laccha paratha",
+      "aloo paratha",
+      "印度千層餅",
+      "帕拉塔",
+      "冷凍印度煎餅",
+      "拉餅",
+      "パラタ",
+      "パラータ",
+      "冷凍パラタ",
+      "paratha",
+      "pan hojaldrado indio"
+    ],
+    "storage": {
+      "freezer": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Keep it frozen hard at −18 °C and cook straight from frozen — do not thaw. A pack that has softened and refrozen will have fused into one block and the layers will not separate on the griddle; that is a quality loss, but repeated thaw–refreeze on a dough carrying raw filling is also a safety question, so buy from a freezer that is genuinely cold."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "Cooked parathas, cooled and wrapped."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "frozen-dough-commercial",
+    "notes": "Both numbers are borrowed from the FoodKeeper entry 'frozen-dough-commercial' (12 months frozen from purchase; 3–4 days refrigerated after cooking). No agency publishes a figure for frozen paratha. Stuffed parathas — aloo, mooli, keema — contain a cooked vegetable or meat filling and are the shorter-lived kind; a plain laccha or Malabar parotta is just dough and fat and keeps the full year."
+  },
+  {
+    "slug": "injera",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Injera",
+    "subtitle": "fermented teff flatbread",
+    "keywords": [
+      "injera",
+      "enjera",
+      "taita",
+      "teff flatbread",
+      "ethiopian bread",
+      "eritrean bread",
+      "衣索比亞發酵薄餅",
+      "因傑拉",
+      "苔麩薄餅",
+      "英吉拉",
+      "インジェラ",
+      "インジェラパン",
+      "エチオピアのパン",
+      "injera",
+      "pan de teff etíope"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Injera is a wet, spongy, live-fermented bread — much closer to a pancake than to a loaf. Keep the stack wrapped so it does not dry into a crisp, and eat it within a day or two; in a warm kitchen it grows surface mould quickly."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 4,
+          "max": 5,
+          "unit": "days",
+          "tips": "Wrapped airtight. It stiffens in the cold; steam it briefly or use it torn into firfir rather than as a fresh sheet."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 3,
+          "max": 5,
+          "unit": "months",
+          "tips": "Freeze the sheets interleaved with paper, flat, and thaw at room temperature."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "bread-homemade",
+    "notes": "Every figure here is borrowed from the FoodKeeper entries 'bread-homemade' (3–5 days at room temperature, which we have shortened to 1–2 days because injera holds far more water than a loaf) and 'commercial-bread-products-including-pan-breads-flat-breads-rolls' (3–5 months frozen). No agency publishes a timeline for injera. The teff batter itself is a multi-day ferment before baking and is not covered by this record."
+  },
+  {
+    "slug": "papad",
+    "category": "shelf-stable",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Papad",
+    "subtitle": "uncooked dried lentil wafers",
+    "keywords": [
+      "papad",
+      "papadum",
+      "pappadam",
+      "appalam",
+      "lentil wafer",
+      "urad papad",
+      "印度脆餅",
+      "帕帕德",
+      "豆薄餅",
+      "印度豆脆片",
+      "パパド",
+      "パパダム",
+      "豆せんべい",
+      "papad",
+      "oblea de lenteja"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "The whole preservation system here is dryness. Keep the discs in a sealed jar or their original sealed sleeve, in a cool dark cupboard away from the stove. A papad that has gone soft and bendy has picked up moisture; sun it or give it a minute in a low oven before frying, and throw out anything showing mould or a musty smell. Cooked papads keep only hours before going limp."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "NCHFP (University of Georgia) – Packaging and Storing Dried Foods",
+        "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/"
+      },
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": null,
+    "notes": "No source addresses papad. Both citations are for the governing rules, not for a papad figure, and the 6–12 month range is our reading of them: NCHFP gives 4 months to 1 year as the general span for home-dried foods, warns that food packed 'bone dry' spoils if it reabsorbs moisture in storage, and says to check stored dried food regularly and discard anything mouldy; Ohioline gives 12 months in an airtight container in a cool place for dried beans and legumes, which is what a papad is made of. Commercially packed papad carries a printed date that is usually 6 to 9 months and should be preferred over this range."
+  },
+  {
+    "slug": "filo-pastry",
+    "category": "frozen-foods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Filo pastry",
+    "subtitle": "phyllo sheets, frozen or chilled",
+    "keywords": [
+      "filo",
+      "phyllo",
+      "fillo",
+      "yufka",
+      "filo pastry sheets",
+      "baklava pastry",
+      "薄酥皮",
+      "費洛皮",
+      "千層薄餅皮",
+      "希臘薄酥皮",
+      "フィロ",
+      "フィロ生地",
+      "パイシート",
+      "pasta filo",
+      "masa filo"
+    ],
+    "storage": {
+      "freezer": {
+        "base": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Keep the roll sealed and frozen flat. Thaw it slowly — overnight in the fridge, then an hour at room temperature still in its wrapper. Thawing it fast, or refreezing a thawed roll, is what makes the sheets crack and weld together."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 3,
+          "max": 5,
+          "unit": "days",
+          "tips": "Once the roll is opened, rewrap it tightly in plastic and use it up within a few days. Keep the stack you are not working with under a damp tea towel — filo dries into shards in minutes on an open bench."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "puff-pastry",
+    "notes": "Both figures are borrowed from the FoodKeeper entry 'puff-pastry' (12 months frozen); the refrigerated-after-opening figure is our own conservative reading, since FoodKeeper gives no opened figure for pastry sheets. No agency publishes a filo timeline. Chilled (never-frozen) filo from a Turkish or Greek shop is fresh yufka and behaves like fresh dough — go by its date, which is usually a matter of days."
+  },
+  {
+    "slug": "idli-batter",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Idli batter",
+    "subtitle": "live fermented rice and urad dal batter",
+    "keywords": [
+      "idli batter",
+      "idly batter",
+      "fermented rice batter",
+      "urad dal batter",
+      "印度米豆糊",
+      "蒸米糕麵糊",
+      "發酵米豆麵糊",
+      "伊德利麵糊",
+      "イドリ生地",
+      "イドゥリー生地",
+      "発酵米豆バッター",
+      "masa de idli",
+      "masa fermentada de arroz"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 4,
+          "max": 6,
+          "unit": "days",
+          "tips": "Two different clocks run here. The safety clock: get the batter into the fridge at 4 °C or below as soon as it has risen, and do not leave it out to ferment for a second day in a warm kitchen — this is a starchy rice preparation, and Hong Kong's CFS notes that Bacillus cereus spores survive cooking and that the toxins formed while the bacteria multiply cannot be destroyed by reheating. The quality clock is much shorter: the culture keeps working in the cold, so batter that made light idlis on day one is noticeably sour by day three and by day five is only fit for dosas. Store it in a container half empty — it climbs. Never refreeze thawed batter."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Batter freezes in portions and thaws in the fridge overnight, but the culture takes a beating and the rise afterwards is weak. No source gives a limit; a month is a sensible ceiling."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Hong Kong Centre for Food Safety – Heat-stable Toxins from Bacillus cereus and Staphylococcus aureus",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_193_01.html"
+      }
+    ],
+    "analog": "cooked-rice",
+    "notes": "The hazard and the handling rule are sourced — CFS states that B. cereus spores resist normal cooking temperatures, that food should be cooled from 60 °C to 20 °C within two hours and then to 4 °C within four, that the fridge should run at 4 °C or below, and that the toxin is not eliminated by reheating. The 4–6 day number is borrowed from the FoodKeeper entry 'cooked-rice' and is a safety ceiling, not a quality window; nothing published gives a figure for a live batter. Shop-bought tubs of idli batter carry a printed date, usually three to five days, and should be trusted over this."
+  },
+  {
+    "slug": "dosa-batter",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dosa batter",
+    "subtitle": "live fermented rice and urad dal batter, thinner grind",
+    "keywords": [
+      "dosa batter",
+      "dosai batter",
+      "masala dosa batter",
+      "fermented rice lentil batter",
+      "多薩麵糊",
+      "印度煎餅麵糊",
+      "發酵米豆糊",
+      "朵薩麵糊",
+      "ドーサ生地",
+      "ドーサバッター",
+      "発酵米豆生地",
+      "masa de dosa",
+      "masa fermentada para dosa"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 4,
+          "max": 6,
+          "unit": "days",
+          "tips": "Same two clocks as idli batter, with the quality window running the other way: dosa batter is at its best after it has soured a little, so days two and three are the good ones and day one can taste flat. Past about five days it turns sharply acidic and thins out. Refrigerate at 4 °C or below straight after the rise, keep a clean spoon for it, and discard any batter that smells of alcohol or acetone, has gone pink or grey, or was left out overnight in a warm room — CFS notes that the toxins Bacillus cereus forms in starchy food while it multiplies cannot be destroyed by reheating."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Hong Kong Centre for Food Safety – Heat-stable Toxins from Bacillus cereus and Staphylococcus aureus",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_193_01.html"
+      }
+    ],
+    "analog": "cooked-rice",
+    "notes": "Split from idli batter deliberately: the two are stored the same way but their usable windows run in opposite directions, and one timeline cannot honestly describe both. The rule is sourced from CFS; the 4–6 day number is borrowed from the FoodKeeper entry 'cooked-rice' as a safety ceiling. No agency publishes a figure for fermented batter."
+  },
+  {
+    "slug": "poha",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Poha",
+    "subtitle": "flattened rice flakes, dry",
+    "keywords": [
+      "poha",
+      "pohe",
+      "aval",
+      "chira",
+      "atukulu",
+      "flattened rice",
+      "beaten rice",
+      "rice flakes",
+      "扁米",
+      "壓扁米片",
+      "印度米片",
+      "波哈米",
+      "ポハ",
+      "押し米",
+      "インドの平たい米",
+      "poha",
+      "arroz aplanado"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "Airtight jar, cool dark cupboard, away from the hob. Poha is rolled flat, so far more surface is exposed to air than in a whole grain and it goes stale and faintly cardboardy long before rice would. It is also a favourite of pantry moths and weevils — check for webbing before you soak a batch. Thick poha survives storage better than the paper-thin kind."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "rice-white-wild",
+    "notes": "Ohioline is cited for the storage rule for milled rice — kept tightly closed, white rice runs to about 2 years — and the FoodKeeper entry 'rice-white-wild' gives the same 2 years. Neither covers flattened rice, so the 6–12 months here is a deliberate shortening of that borrowed figure, on the grounds that flaking exposes the whole surface of the grain to oxygen. No agency publishes a poha figure."
+  },
+  {
+    "slug": "semolina-sooji",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Semolina",
+    "subtitle": "sooji, rava — coarse durum wheat",
+    "keywords": [
+      "semolina",
+      "sooji",
+      "suji",
+      "rava",
+      "durum wheat",
+      "farina",
+      "upma rava",
+      "粗粒小麥粉",
+      "杜蘭小麥粉",
+      "印度粗麵粉",
+      "蘇吉粉",
+      "セモリナ",
+      "セモリナ粉",
+      "デュラムセモリナ",
+      "sémola",
+      "semolina de trigo"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 6,
+          "max": 8,
+          "unit": "months",
+          "tips": "Airtight container in a cool cupboard. Semolina is milled from the endosperm with the germ largely removed, so it keeps like white flour rather than like a whole grain — the thing that ends it is usually insects or a musty smell from damp, not rancidity. Dry-roasting a batch and cooling it before storage is a common Indian household step and does buy time."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 1,
+          "unit": "years",
+          "tips": "Sealed against odours and moisture; bring it back to room temperature before opening so condensation does not clump it."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "flour-white",
+    "notes": "Ohioline gives white flour 6 to 8 months in an airtight container and notes it can be frozen; that is the rule and the pantry figure applied here, since semolina is a refined wheat milling product like white flour rather than a whole-grain one. The refrigerated figure of one year is borrowed from the FoodKeeper entry 'flour-white'. Wholemeal or unrefined rava, which retains the germ, should be treated as atta instead."
+  },
+  {
+    "slug": "besan-gram-flour",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Besan",
+    "subtitle": "gram flour, ground chana dal",
+    "keywords": [
+      "besan",
+      "gram flour",
+      "chickpea flour",
+      "chana flour",
+      "kadalai maavu",
+      "鷹嘴豆粉",
+      "雞豆粉",
+      "印度豆粉",
+      "貝桑粉",
+      "ベサン",
+      "ひよこ豆粉",
+      "グラムフラワー",
+      "harina de garbanzo",
+      "besan"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Besan is a legume flour and carries much more oil than wheat flour, so rancidity — not mould, not insects — is what finishes it. A bitter or paint-like smell when you open the jar means it has turned; nothing recovers it. Buy in small bags and keep it sealed and away from the stove."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "The right home for a big bag. Seal it well — besan takes up fridge odours readily — and bring it back to room temperature before opening."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "soy-flour-full-fat",
+    "notes": "Both numbers are borrowed from the FoodKeeper entry 'soy-flour-full-fat' (2 months in the pantry, 6 months refrigerated), the only full-fat legume flour in the dataset and the closest match for besan's oil content. Ohioline is cited for the general flour rule — airtight container, cool cupboard, refrigeration for the flours that carry oil. Neither source names besan. Note that besan behaves quite differently from the white flour figure most flour guidance gives."
+  },
+  {
+    "slug": "atta-flour",
+    "category": "baking-staples",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Atta",
+    "subtitle": "chakki-ground wholemeal wheat flour",
+    "keywords": [
+      "atta",
+      "atta flour",
+      "chakki atta",
+      "chapati flour",
+      "wholemeal indian flour",
+      "gehun ka atta",
+      "印度全麥麵粉",
+      "阿塔麵粉",
+      "全粒小麥粉",
+      "薄餅麵粉",
+      "アタ",
+      "アタ粉",
+      "全粒小麦粉",
+      "harina atta",
+      "harina integral india"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 3,
+          "max": 6,
+          "unit": "months",
+          "tips": "Atta keeps the germ and the bran, and the germ carries oil, so a warm cupboard is working against you from the day the bag is milled. Airtight container, cool dark shelf, and use your nose: fresh atta smells sweet and nutty, stale atta smells sharp and faintly of oil paint."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 6,
+          "max": 8,
+          "unit": "months",
+          "tips": "Ohioline puts whole wheat flour at 6 to 8 months refrigerated in an airtight container. Let it come back to room temperature before you knead — cold flour and cold water make a stiff dough that will not relax."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 1,
+          "unit": "years",
+          "tips": "The freezer is the honest answer for a 5 or 10 kg sack you will not finish quickly. Freezing a new bag for 48 hours also kills any weevil eggs that came with it."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "flour-whole-wheat",
+    "notes": "The refrigerated figure is sourced: Ohioline gives whole wheat flour 6 to 8 months refrigerated in an airtight container. The pantry figure is borrowed from the FoodKeeper entry 'flour-whole-wheat' (3–6 months) and the freezer figure is our own reading of the same rule. This record exists alongside the generic FoodKeeper entries 'flour-whole-wheat' and 'whole-wheat-flour', which disagree with each other (3–6 months versus 12 months in the pantry) and carry no handling detail at all; atta is the specific case a South Asian kitchen actually stores, and the searchable names for it were missing entirely."
+  },
+  {
+    "slug": "dal-split-pulses",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dal",
+    "subtitle": "dried split pulses — toor, moong, chana, urad, masoor",
+    "keywords": [
+      "dal",
+      "dahl",
+      "daal",
+      "toor dal",
+      "arhar dal",
+      "moong dal",
+      "chana dal",
+      "urad dal",
+      "masoor dal",
+      "split pulses",
+      "pigeon pea",
+      "印度豆",
+      "去皮乾豆",
+      "木豆",
+      "綠豆仁",
+      "扁豆",
+      "ダール",
+      "ダル",
+      "挽き割り豆",
+      "トゥールダル",
+      "dal",
+      "legumbres partidas",
+      "guandú partido"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Airtight container in a cool, dry, dark cupboard — Ohioline gives dried beans and legumes 12 months that way, and USU notes that food-grade polyethylene bags run to a year or more. Two things go wrong slowly: light bleaches the colour, and oxygen turns the small amount of oil in the seed. A third goes wrong faster — pantry weevils. Bay leaves are folklore; a genuinely airtight jar is not. Oiled toor dal, sold with a light film of oil to deter insects, should be rinsed in warm water before cooking."
+        },
+        "afterOpening": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Decant into a sealed jar as soon as the bag is opened."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      },
+      {
+        "name": "Utah State University Extension – Storing Dry Beans",
+        "url": "https://extension.usu.edu/preserve-the-harvest/dev/storing-dry-beans-1"
+      }
+    ],
+    "analog": null,
+    "notes": "Directly sourced. Ohioline gives dried beans and legumes 12 months in an airtight container in a cool place. USU adds the mechanism and the honest caveat: beans in ordinary food-grade polyethylene keep a year or more, colder storage extends it, oxygen leads to rancidity of the bean oils and light fades the colour — and, crucially, 'as dried beans age the seeds become harder', which means longer soaking and cooking rather than spoilage. That is why old dal never softens properly, and it is a quality limit rather than a safety one: two-year-old dal is safe to eat and frustrating to cook. Split, hulled dals expose more surface than whole beans and stale faster than the whole pulse."
+  },
+  {
+    "slug": "freekeh",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Freekeh",
+    "subtitle": "roasted green wheat, whole or cracked",
+    "keywords": [
+      "freekeh",
+      "frikeh",
+      "farik",
+      "green wheat",
+      "roasted green durum",
+      "青麥仁",
+      "煙燻青麥",
+      "烘烤青小麥",
+      "弗里克麥",
+      "フリーカ",
+      "フリーケ",
+      "青麦",
+      "freekeh",
+      "trigo verde tostado"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "Airtight, cool and dark. Freekeh is harvested green and fire-roasted, so it arrives already smoky; what you are guarding against is the germ oil turning, which reads as a flat, slightly bitter taste rather than a smell. Cracked freekeh has more cut surface than whole and keeps less well."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 1,
+          "unit": "years",
+          "tips": "Worth doing for a big bag, and it settles any question of weevils."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "bulgur",
+    "notes": "The 6–12 month figure is borrowed from the FoodKeeper entry 'bulgur' — the same crop, also parboiled or roasted and cracked — and the freezer figure is our own extension of it. Ohioline is cited for the rule that whole-grain products carrying the germ keep a fraction as long as refined ones and belong in an airtight container in a cool place. No source gives a freekeh figure."
+  },
+  {
+    "slug": "couscous",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Couscous",
+    "subtitle": "dry, uncooked",
+    "keywords": [
+      "couscous",
+      "cous cous",
+      "seksu",
+      "moghrabieh",
+      "pearl couscous",
+      "israeli couscous",
+      "北非小米",
+      "庫斯庫斯",
+      "北非麥粒",
+      "小米麵",
+      "クスクス",
+      "クースクース",
+      "cuscús",
+      "cuscus"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 2,
+          "max": 2,
+          "unit": "years",
+          "tips": "Couscous is not a grain — it is tiny pasta, rolled from semolina — so it stores like dry pasta: sealed, cool, dark, effectively indefinite in safety terms and limited by staling and insects. Wholemeal couscous carries the germ and should be treated like atta instead, at well under a year."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 5,
+          "unit": "days",
+          "tips": "Cooked and cooled couscous, in a sealed container. Fluff it and cool it fast rather than leaving the bowl covered on the counter."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": null,
+    "notes": "The pantry figure is Ohioline's figure for pasta — 2 years in an airtight container once opened — applied to couscous on the grounds that couscous is semolina pasta rather than a whole grain; Ohioline does not name couscous, and the FoodKeeper entry 'pasta-dry-without-eggs' independently gives the same 2 years. The cooked figure is borrowed from FoodKeeper's 'cooked-pasta' (3–5 days)."
+  },
+  {
+    "slug": "fufu-flour",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Fufu flour",
+    "subtitle": "instant cassava, yam or cocoyam pounding flour",
+    "keywords": [
+      "fufu flour",
+      "foofoo",
+      "fufu powder",
+      "instant fufu",
+      "cassava fufu",
+      "pounded yam flour",
+      "elubo",
+      "西非樹薯粉",
+      "富富粉",
+      "木薯粉",
+      "山藥粉",
+      "フフ粉",
+      "フフフラワー",
+      "キャッサバ粉",
+      "harina de fufu",
+      "harina de yuca"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "A dry starch flour with almost no fat, so it keeps well as long as it stays dry — humidity is the enemy, and a bag that has caked into lumps or smells musty has taken up water and should go. Keep it airtight, cool and away from the stove. Fermented cassava fufu flour has a sour smell when fresh; that is not spoilage."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      },
+      {
+        "name": "NCHFP (University of Georgia) – Packaging and Storing Dried Foods",
+        "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/"
+      }
+    ],
+    "analog": "flour-white",
+    "notes": "The 6–12 month range is borrowed from the FoodKeeper entry 'flour-white' (6–12 months from purchase) — the closest match, since fufu flour is a low-fat refined starch rather than a whole-grain flour. Ohioline is cited for the airtight-container-in-a-cool-place rule and its 12-month cornmeal figure; NCHFP for the rule that a dried food which reabsorbs moisture in storage must be used at once or discarded if mouldy. Neither names fufu. Reconstituted fufu dough is a cooked starch and belongs in the fridge within two hours, eaten within a few days."
+  },
+  {
+    "slug": "plantain-flour",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Plantain flour",
+    "subtitle": "dried unripe plantain, milled",
+    "keywords": [
+      "plantain flour",
+      "amala",
+      "elubo ogede",
+      "green banana flour",
+      "unripe plantain flour",
+      "大蕉粉",
+      "青蕉粉",
+      "芭蕉粉",
+      "西非大蕉麵粉",
+      "プランテン粉",
+      "調理用バナナ粉",
+      "harina de plátano macho",
+      "harina de plátano verde"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "Sealed jar, cool dark cupboard. Like other dried starch flours it is stable while dry and finished once it is not — clumping, a musty smell, or any visible mould means the bag drew moisture. It darkens with age, which is oxidation of the fruit's own phenolics and a quality change rather than a safety one."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "NCHFP (University of Georgia) – Packaging and Storing Dried Foods",
+        "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/"
+      },
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "flour-white",
+    "notes": "Kept separate from fufu flour because they are different raw materials with different failure signs, though the storage advice converges. The 6–12 month figure is borrowed from the FoodKeeper entry 'flour-white'. NCHFP supplies the dried-food rules — its general 4-months-to-1-year span, the warning that apparently bone-dry food spoils if it reabsorbs moisture, and the instruction to check stored dried foods regularly — and Ohioline the airtight-cool-cupboard rule. No source names plantain flour."
+  },
+  {
+    "slug": "curry-leaves",
+    "category": "herbs-spices",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Curry leaves",
+    "subtitle": "fresh, on the sprig",
+    "keywords": [
+      "curry leaves",
+      "curry leaf",
+      "kadi patta",
+      "karuveppilai",
+      "murraya koenigii",
+      "sweet neem",
+      "咖哩葉",
+      "可因氏月橘",
+      "咖喱樹葉",
+      "麻絞葉",
+      "カレーリーフ",
+      "カレーの葉",
+      "オオバゲッキツ",
+      "hoja de curry",
+      "hojas de curry"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 7,
+          "max": 10,
+          "unit": "days",
+          "tips": "Leave them on the stem, do not wash them until you cook, and keep them in a closed box lined with dry kitchen paper — wet leaves blacken within two days. Ohioline's method for fresh herbs also works: stems in an inch of water like a bouquet, loosely bagged, water changed daily, up to a week. Curry leaves lose their aroma fast once they go limp, and a blackened leaf has nothing left to give."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freezing beats drying for this leaf. Freeze whole sprigs dry in a bag and drop them straight into hot oil from frozen; they will not be crisp but the aroma survives, which it does not in the dried leaf."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5520 – Selecting, Storing, and Using Fresh Herbs",
+        "url": "https://ohioline.osu.edu/factsheet/hyg-5520"
+      }
+    ],
+    "analog": "herbs",
+    "notes": "The numbers are borrowed from the FoodKeeper entry 'herbs' (7–10 days refrigerated, 1–2 months frozen). Ohioline supplies the method and its own limit — trim the stems, stand them in an inch of water, cover loosely with a bag for air circulation, change the water daily, and herbs may last up to a week — plus the instruction to wash in cool running water without soap or bleach. It does not name curry leaves. Dried curry leaves are a different, much weaker product and store like any dried herb."
+  },
+  {
+    "slug": "fresh-turmeric",
+    "category": "herbs-spices",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Turmeric",
+    "subtitle": "fresh rhizome",
+    "keywords": [
+      "fresh turmeric",
+      "turmeric root",
+      "turmeric rhizome",
+      "haldi",
+      "kachi haldi",
+      "manjal",
+      "curcuma longa",
+      "薑黃",
+      "新鮮薑黃",
+      "黃薑",
+      "鬱金",
+      "ウコン",
+      "生ウコン",
+      "ターメリック",
+      "秋ウコン",
+      "cúrcuma fresca",
+      "raíz de cúrcuma"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 2,
+          "max": 5,
+          "unit": "days",
+          "tips": "A cool, dark, airy spot — turmeric is a tropical rhizome and, like ginger, is chilling sensitive below about 12 °C (54 °F), so a few days out of the fridge does it no harm. It dehydrates and shrivels quickly in a dry kitchen."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "weeks",
+          "tips": "Unpeeled, in a paper bag or a loosely closed box in the crisper. Cold is a compromise: the fridge is well below the 12–14 °C the rhizome actually wants, so expect skin darkening and pitting eventually, but it holds off mould and shrivelling for a couple of weeks. It stains everything it touches, cutting board and fingers included."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Freeze it whole and unpeeled, then grate from frozen — much the easiest way to handle it and no loss of colour."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "USDA ARS Agriculture Handbook 66 – The Commercial Storage of Fruits, Vegetables, and Florist and Nursery Stocks (Ginger chapter, R.E. Paull and C.C. Chen)",
+        "url": "https://www.ars.usda.gov/ARSUserFiles/oc/np/CommercialStorage/CommercialStorage.pdf"
+      }
+    ],
+    "analog": "ginger-root",
+    "notes": "The rule is sourced, the numbers are borrowed. AH-66 has no turmeric chapter, but it classes ginger and turmeric together as rhizomes and its ginger chapter gives the storage physiology that applies to both: 12 to 14 °C with 85–90 % RH for 60 to 90 days, chilling injury below 12 °C showing as loss of skin colour and pitting, dehydration as the commonest problem, and mould on the cut ends where condensation forms. Those are commercial cured-rhizome conditions, not kitchen ones. The 2–5 day, 2–3 week and 6-month figures are taken from the FoodKeeper entry 'ginger-root', which covers the same genus in the form a home cook buys it."
+  },
+  {
+    "slug": "asafoetida",
+    "category": "herbs-spices",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Asafoetida",
+    "subtitle": "hing — compounded powder or lump resin",
+    "keywords": [
+      "asafoetida",
+      "asafetida",
+      "hing",
+      "perungayam",
+      "devil's dung",
+      "ferula assa-foetida",
+      "阿魏",
+      "興渠",
+      "阿魏粉",
+      "臭阿魏",
+      "アサフェティダ",
+      "ヒング",
+      "アギ",
+      "asafétida",
+      "hing"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "Double-container it: hing will scent every other spice in the cupboard, and a screw-top tin inside a sealed jar is the standard fix. Cool, dark, dry, and away from the hob. The powder sold in India and abroad is 'compounded' — resin cut with wheat or rice flour and gum — so it is partly a flour product and stales faster than pure resin. Lump resin keeps for years but must be ground or fried in oil to release anything."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": null,
+    "notes": "Ohioline is cited for the rule and the bracketing figures — ground spices and herbs 6 months in airtight containers in a dry place away from sunlight and heat, whole spices 1 to 2 years — and the 6–12 month range here is our reading of where compounded hing powder sits between them, since it is a resin diluted with flour. Ohioline does not name asafoetida, and the FoodKeeper entries for ground spices (2–3 years) are far more generous than Ohioline's; the shorter figure is the useful one, because hing is bought for its aroma and it is the aroma that goes first."
+  },
+  {
+    "slug": "zaatar",
+    "category": "herbs-spices",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Za'atar",
+    "subtitle": "thyme, sesame and sumac blend",
+    "keywords": [
+      "zaatar",
+      "za'atar",
+      "zatar",
+      "thyme sesame blend",
+      "middle eastern spice mix",
+      "扎塔香料",
+      "中東百里香料",
+      "薩塔香料粉",
+      "百里香芝麻香料",
+      "ザータル",
+      "ザアタル",
+      "中東のスパイスミックス",
+      "zaatar",
+      "mezcla de especias zaatar"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Airtight jar, dry cupboard, out of sunlight and away from the heat of the stove. Za'atar is not a pure spice blend — the toasted sesame in it carries oil, and rancid sesame is what usually spoils an old jar, tasting flat and slightly bitter before it smells of anything. Buy small quantities; the dried thyme and the sumac both fade visibly, and a brown, dusty-looking za'atar has nothing left."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 1,
+          "unit": "years",
+          "tips": "Sensible for a large tub, because it is the sesame oil you are protecting. Seal it well and let it warm before opening so it does not take up condensation."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "sesame-seeds",
+    "notes": "The 6-month pantry figure is Ohioline's for ground spices and herbs, applied to a blend that is mostly dried herb — that part is sourced. The refrigerated figure is our own extension of Ohioline's rule to refrigerate what carries oil, informed by the FoodKeeper entry 'sesame-seeds'. Za'atar sold pre-mixed with olive oil is a different product, is not shelf-stable in the same way, and belongs in the fridge."
+  },
+  {
+    "slug": "sumac",
+    "category": "herbs-spices",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sumac",
+    "subtitle": "ground dried berries",
+    "keywords": [
+      "sumac",
+      "sumak",
+      "ground sumac",
+      "rhus coriaria",
+      "sour spice",
+      "鹽膚木粉",
+      "蘇馬克",
+      "漆樹果粉",
+      "酸味香料",
+      "スマック",
+      "サマック",
+      "ウルシ科の香辛料",
+      "zumaque",
+      "sumac molido"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Airtight, dark, dry, away from heat — Ohioline's 6 months for ground spices. Sumac is the clearest case in the spice rack of colour telling you the truth: fresh sumac is deep wine-red and tastes sharply lemony; faded brick-brown sumac has lost the acid and tastes only salty. Many brands are salted, which does nothing for keeping quality. It clumps in a humid kitchen because the ground berry is slightly moist and sticky by nature."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": null,
+    "notes": "Ohioline's ground-spice figure — 6 months in airtight containers in a dry place away from sunlight and heat — applied directly; sumac is a ground spice and nothing about it argues for a longer life. Ohioline does not name sumac. The FoodKeeper entries for ground spices give 2–3 years, which is a safety-and-still-edible figure rather than a useful one for a spice bought for its colour and acidity."
+  },
+  {
+    "slug": "berbere",
+    "category": "herbs-spices",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Berbere",
+    "subtitle": "Ethiopian chilli and spice blend",
+    "keywords": [
+      "berbere",
+      "berbere spice",
+      "ethiopian chili blend",
+      "mitmita",
+      "衣索比亞辣椒粉",
+      "貝爾貝雷香料",
+      "衣索比亞綜合香料",
+      "衣國辣香料",
+      "ベルベレ",
+      "バルバレ",
+      "エチオピアのスパイスミックス",
+      "berbere",
+      "mezcla de especias etíope"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Airtight jar, cool dark cupboard, dry hands and a dry spoon. Berbere is a ground blend and follows the 6-month rule, but two things shorten it further: the chilli pigment bleaches in daylight, so a jar on a sunny shelf goes orange and dull, and the blend is often slightly damp from the fenugreek and the ginger, so it cakes. Damp berbere in a warm kitchen can mould — break up any hard lumps and look at them before you use them."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": null,
+    "notes": "Ohioline's ground-spice rule and figure applied directly — 6 months, airtight, dry, away from sunlight and heat. Ohioline does not name berbere. Wet berbere paste (delek berbere / awaze), made up with water, wine or oil, is not covered here: that is a fresh condiment and belongs in the refrigerator."
+  },
+  {
+    "slug": "suya-spice",
+    "category": "herbs-spices",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Suya spice",
+    "subtitle": "yaji — groundnut and chilli rub",
+    "keywords": [
+      "suya spice",
+      "yaji",
+      "suya pepper",
+      "groundnut spice mix",
+      "nigerian suya rub",
+      "西非烤肉香料",
+      "花生辣香料",
+      "蘇亞香料",
+      "奈及利亞烤肉粉",
+      "スヤスパイス",
+      "ヤジ",
+      "ピーナッツスパイスミックス",
+      "especia suya",
+      "yaji"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Airtight, cool, dark and dry — but expect the shorter end. Yaji is not just spices: its bulk is defatted or roasted groundnut, and that fat goes rancid long before the chilli fades, showing up first as a stale, cardboardy taste. Never dip a wet or oily spoon into the jar, and if you are keeping a large batch, put it in the fridge instead."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 1,
+          "unit": "years",
+          "tips": "Sealed against odours and condensation; it is the groundnut oil you are protecting."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": null,
+    "notes": "Two Ohioline rules combined: 6 months for ground spices and herbs, and its instruction to refrigerate nuts once opened and freeze them for longer storage, because the fat is the limiting factor. Ohioline does not name suya spice. The refrigerated figure of a year is our own reading, not a published one. Suya rub that has been used on raw meat is contaminated and must be thrown away, never returned to the jar."
+  },
+  {
+    "slug": "egusi",
+    "category": "snacks-nuts-seeds",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Egusi",
+    "subtitle": "shelled melon seeds, whole or ground",
+    "keywords": [
+      "egusi",
+      "agusi",
+      "melon seeds",
+      "ground melon seed",
+      "citrullus lanatus seed",
+      "ogbono alternative",
+      "西非甜瓜籽",
+      "伊古西瓜籽",
+      "去殼瓜籽",
+      "瓜籽粉",
+      "エグシ",
+      "メロンの種",
+      "西アフリカのウリ種子",
+      "egusi",
+      "semillas de melón molidas"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "weeks",
+          "tips": "Only for what you will use soon. Egusi is roughly half oil, which is why it thickens a stew and also why it turns — rancid egusi is bitter and the smell is unmistakable once you know it. Ground egusi has far more exposed surface than whole seed and goes off several times faster, so grind in small batches."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 3,
+          "unit": "months",
+          "tips": "Airtight, and sealed hard — it takes up fridge smells as readily as any nut."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 9,
+          "max": 9,
+          "unit": "months",
+          "tips": "The right place for a big bag, whole or ground. Use it straight from the freezer."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "pine-nuts",
+    "notes": "All three numbers are borrowed from the FoodKeeper entry 'pine-nuts' (2–3 weeks pantry, 3 months refrigerated, 9 months frozen), chosen because pine nuts are the highest-oil seed in the dataset and behave the way egusi does. Ohioline supplies the rule — refrigerate nuts after opening, freeze for longer storage — and gives 4 months for unopened in-shell nuts. Neither source names egusi."
+  },
+  {
+    "slug": "tandoori-paste",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Tandoori paste",
+    "subtitle": "jarred marinade base",
+    "keywords": [
+      "tandoori paste",
+      "tandoori masala paste",
+      "tikka paste",
+      "marinade paste",
+      "坦都里醬",
+      "印度烤肉醬",
+      "唐杜里醬料",
+      "提卡醬",
+      "タンドリーペースト",
+      "タンドリーマサラ",
+      "ティッカペースト",
+      "pasta tandoori",
+      "pasta de especias tandoori"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "years",
+          "tips": "Unopened, cool dark cupboard, to its printed date."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Refrigerate once opened, always take it out with a clean dry spoon, and wipe the rim before the lid goes back on. Two habits ruin a jar: leaving oil-free paste exposed at the top, where it dries and moulds, and dipping a spoon that has touched raw chicken. Marinade that has held raw meat is contaminated and goes in the bin, not back in the jar and not onto cooked food."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "thai-red-curry-paste",
+    "notes": "Borrowed from the FoodKeeper entry 'thai-red-curry-paste' (2 years unopened in the pantry, refrigerated after opening), with the opened window widened from FoodKeeper's 5 days to 1–2 months because a commercial tandoori paste is an acidified, salted, oil-bearing product with a manufacturer's opened-life statement on the label — which should be followed in preference to this. Fresh home-made tandoori marinade, which is yoghurt-based, is a perishable dairy preparation: keep it at 4 °C and use it within two days."
+  },
+  {
+    "slug": "achar-oil-pickle",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Achar",
+    "subtitle": "oil- and salt-cured South Asian pickle",
+    "keywords": [
+      "achar",
+      "achaar",
+      "indian pickle",
+      "mango pickle",
+      "aam ka achar",
+      "lime pickle",
+      "nimbu achar",
+      "oil pickle",
+      "torshi",
+      "印度醃菜",
+      "油漬醃菜",
+      "芒果醃菜",
+      "阿查醃漬",
+      "アチャール",
+      "インドの漬物",
+      "マンゴーのピクルス",
+      "achar",
+      "encurtido indio en aceite"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 1,
+          "max": 1,
+          "unit": "years",
+          "tips": "A properly made achar is preserved by three things at once — heavy salt, a strong acid (lime juice, vinegar or the fruit's own sourness), and a layer of oil sealing the surface. Keep the oil covering the solids at all times; top the jar up with fresh mustard or sesame oil if the level drops. Use a bone-dry spoon, never a wet or used one, and never fingers. A traditional sun-cured achar lives in a cupboard for a year; the day water gets in is the day it starts to spoil."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 1,
+          "max": 3,
+          "unit": "months",
+          "tips": "The safe default for a jar you are unsure about, and the right place for any low-salt, low-oil or 'fresh' achar — the modern reduced-salt commercial kind especially. Watch for fizzing, a pushed-up lid, or a yeasty smell; those mean an unwanted fermentation is running."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "NCHFP (University of Georgia) – General Information on Pickling",
+        "url": "https://nchfp.uga.edu/how/pickle/general-information-pickling/general-information-on-pickling/"
+      },
+      {
+        "name": "NCHFP (University of Georgia) – Freezing Garlic-in-Oil",
+        "url": "https://nchfp.uga.edu/how/freeze/vegetable/freezing-garlic-in-oil/"
+      }
+    ],
+    "analog": "pickles",
+    "notes": "The numbers are borrowed from the FoodKeeper entry 'pickles' (1 year unopened in the pantry, 1–3 months refrigerated after opening); the two NCHFP pages are cited for the rules, which is where the real content is. NCHFP states the governing principle for any pickle: 'There must be a minimum, uniform level of acid throughout the mixed product to prevent the growth of botulinum bacteria' — a shelf-stable achar is one where salt, acid and oil genuinely reach every piece, and a lightly salted, lightly soured pickle is not that. The garlic-in-oil page is why the oil layer is not itself a preservative: NCHFP's own research found that mixtures of low-acid plant material in oil held at room temperature are at risk of botulism, and that such mixtures belong in the refrigerator and last only days there. The oil in an achar excludes air above an already-acidified, heavily salted mass; oil poured over under-salted or under-soured vegetables is a hazard, not a seal. Fresh, lightly spiced quick pickles are a different food and are covered by the fresh chutney record."
+  },
+  {
+    "slug": "chutney-fresh-herb",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Fresh chutney",
+    "subtitle": "coriander, mint or coconut, uncooked",
+    "keywords": [
+      "fresh chutney",
+      "green chutney",
+      "coriander chutney",
+      "cilantro chutney",
+      "mint chutney",
+      "pudina chutney",
+      "coconut chutney",
+      "hari chutney",
+      "新鮮酸辣醬",
+      "香菜醬",
+      "薄荷醬",
+      "椰子醬",
+      "印度青醬",
+      "フレッシュチャツネ",
+      "コリアンダーチャツネ",
+      "ココナッツチャツネ",
+      "chutney fresco",
+      "chutney de cilantro"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 5,
+          "unit": "days",
+          "tips": "This is a raw, high-moisture food — blended leaves, raw chilli, sometimes raw onion or garlic — with none of the salt, acid or cooking that preserves a jarred chutney. Refrigerate it the moment it is made, in a full container with as little air as possible. Coconut chutney is the short one: fresh grated coconut sours within a day even cold, and a chutney that has turned fizzy or smells yeasty is fermenting. Extra lime juice both keeps the green colour and helps it last."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Herb chutneys freeze well in ice-cube trays and thaw in minutes; coconut chutney does not — it separates into oil and grit. No source gives a limit, so treat a few months as the ceiling."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "salsa-homemade-fresh",
+    "notes": "Borrowed from the FoodKeeper entry 'salsa-homemade-fresh' (5–7 days refrigerated), shortened to 3–5 days here because a chutney is built on soft herb leaves and grated coconut rather than on acidic tomato and lime. No agency publishes a figure for fresh chutney. This record is deliberately separate from the existing generic 'chutney' entry, which describes a cooked, sugared and acidified jarred preserve — a year in the pantry, one to two months refrigerated after opening — and would be dangerously wrong applied to a bowl of blended coriander."
+  },
+  {
+    "slug": "pomegranate-molasses",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Pomegranate molasses",
+    "subtitle": "reduced pomegranate syrup",
+    "keywords": [
+      "pomegranate molasses",
+      "pomegranate syrup",
+      "dibs rumman",
+      "nar ekşisi",
+      "narsharab",
+      "石榴糖蜜",
+      "石榴糖漿",
+      "濃縮石榴汁",
+      "石榴醬",
+      "ザクロ糖蜜",
+      "ザクロシロップ",
+      "ポメグラネートモラセス",
+      "melaza de granada",
+      "jarabe de granada"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 1,
+          "max": 2,
+          "unit": "years",
+          "tips": "Unopened, cool and dark. It is a strongly acidic sugar syrup, which is a hostile environment for microbes; what changes with age is the colour, which darkens towards black, and the flavour, which loses its fruitiness."
+        },
+        "afterOpening": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Cap it tightly and wipe the neck — a sticky thread down the outside of the bottle attracts mould and ants. Crystals or a thicker pour are normal and not spoilage."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "Home-boiled pomegranate syrup, which is far less concentrated than the commercial article. USU gives one to two weeks refrigerated, or the freezer, for a home-made pomegranate syrup — treat that as the limit unless you reduced it to a true molasses."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Utah State University Extension – How to Preserve Pomegranates",
+        "url": "https://extension.usu.edu/preserve-the-harvest/research/pomegranates"
+      }
+    ],
+    "analog": "molasses",
+    "notes": "Two clearly different products in one record. The refrigerated figure is sourced: USU says of home-made pomegranate (grenadine) syrup, 'Store syrup in the refrigerator for one to two weeks or in the freezer', and gives 5 days for fresh juice or arils. The pantry figures are borrowed from the FoodKeeper entry 'molasses' (1–2 years unopened, 6 months after opening) and apply to the bought bottle of reduced concentrate, which is far more acidic and far more concentrated than home syrup. Many bottles say 'refrigerate after opening' on the label; that is a manufacturer's instruction and should be followed over the pantry figure here."
+  },
+  {
+    "slug": "harissa",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Harissa",
+    "subtitle": "North African chilli paste",
+    "keywords": [
+      "harissa",
+      "harisa",
+      "rose harissa",
+      "chili paste",
+      "tunisian chili paste",
+      "北非辣醬",
+      "哈里薩辣醬",
+      "突尼西亞辣椒醬",
+      "玫瑰辣醬",
+      "ハリッサ",
+      "ハリサ",
+      "北アフリカの唐辛子ペースト",
+      "harissa",
+      "pasta de chile norteafricana"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "years",
+          "tips": "Unopened tubes and tins, cool and dark, to the printed date."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Refrigerate once opened. In a jar, level the surface and pour a film of olive oil over it — that keeps the top from drying and darkening, and it is the traditional method. Clean dry spoon every time. A tube keeps better than a jar simply because no air gets back in."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Freezes well in teaspoon blobs on a tray, then bagged. No source gives a limit; several months is a fair ceiling."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "thai-red-curry-paste",
+    "notes": "The unopened figure is borrowed from the FoodKeeper entry 'thai-red-curry-paste' (2 years). The opened figure is widened from FoodKeeper's 5 days because commercial harissa is acidified with vinegar and heavily salted, unlike a fresh curry paste — but that widening is our judgement, not a published figure, and a jar's own label should be preferred. Home-made harissa is a fresh chilli-and-garlic purée with no added acid: keep it refrigerated, under oil, and use it within a week."
+  },
+  {
+    "slug": "preserved-lemons",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Preserved lemons",
+    "subtitle": "salt-cured in their own juice",
+    "keywords": [
+      "preserved lemons",
+      "salted lemons",
+      "l'hamd markad",
+      "leem",
+      "moroccan preserved lemon",
+      "salt cured lemon",
+      "鹽漬檸檬",
+      "醃檸檬",
+      "摩洛哥鹽漬檸檬",
+      "鹹檸檬",
+      "塩漬けレモン",
+      "塩レモン",
+      "モロッコの塩漬けレモン",
+      "limones en conserva",
+      "limones confitados en sal"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 4,
+          "max": 6,
+          "unit": "months",
+          "tips": "Keep the fruit pushed under the brine — a lemon standing proud of the liquid is where mould starts — and skim any surface scum whenever you open the jar. Use a clean dry fork, never fingers. The brine goes syrupy and the peel goes translucent and soft over the first month; that is the cure working, not spoilage. Never cut back the salt in the recipe."
+        }
+      },
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "A cupboard jar is the traditional Moroccan practice and it is how most recipes are written, but it is not a practice any food-safety authority endorses for the home, and no defensible number can be given for it. The cure needs three to four weeks at room temperature to work; after that, the refrigerator is where the jar should live."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "NCHFP (University of Georgia) – Dill Pickles (fermented)",
+        "url": "https://nchfp.uga.edu/how/ferment/recipes/dill-pickles/"
+      },
+      {
+        "name": "NCHFP (University of Georgia) – General Information on Fermenting",
+        "url": "https://nchfp.uga.edu/how/ferment/general-information-on-fermenting/general-information-on-fermenting/"
+      }
+    ],
+    "analog": null,
+    "notes": "The 4–6 month figure is NCHFP's, applied by class rather than by name: 'Fully fermented pickles may be stored in the original container for about 4 to 6 months, provided they are refrigerated and surface scum and molds are removed regularly.' Preserved lemons are a salt-cured pickle of exactly that kind — cured at room temperature for weeks, then kept in their brine — so the figure and its two conditions transfer cleanly, but NCHFP does not mention preserved lemons and the extension is ours. The second NCHFP page supplies the salt rule, which matters here because low-salt versions of this recipe circulate widely: 'Do not attempt to make sauerkraut or fermented pickles by cutting back on the salt required.'"
+  },
+  {
+    "slug": "baba-ganoush",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Baba ganoush",
+    "subtitle": "smoked aubergine and tahini dip",
+    "keywords": [
+      "baba ganoush",
+      "baba ghanoush",
+      "mutabbal",
+      "eggplant dip",
+      "aubergine tahini dip",
+      "茄子芝麻醬",
+      "中東烤茄泥",
+      "巴巴甘努什",
+      "煙燻茄子沾醬",
+      "ババガヌーシュ",
+      "ババガヌージュ",
+      "焼きナスのディップ",
+      "baba ganoush",
+      "puré de berenjena ahumada"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 5,
+          "max": 7,
+          "unit": "days",
+          "tips": "Sealed tub, at or below 4 °C, with a film of olive oil over the surface to stop it browning. Home-made baba ganoush is a cooked vegetable purée with raw garlic and lemon in it and no preservative — treat it like any fresh dip. Weeping liquid is normal; pour it off and stir. If it tastes fizzy or smells of yeast, it is fermenting and should go."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "It freezes acceptably and thaws watery; drain and re-whip after thawing. No source gives a limit."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "hummus-traditional",
+    "notes": "Borrowed from the FoodKeeper entry 'hummus-traditional' — unpasteurised hummus made without preservatives, 7 days refrigerated — which is the closest thing in the dataset: the same tahini, garlic and lemon base, the same absence of any preservative. Commercially made, pasteurised baba ganoush behaves like 'hummus-commercial' instead (up to 3 months sealed, 7 days after opening) and should be judged by its printed date."
+  },
+  {
+    "slug": "jaggery",
+    "category": "shelf-stable",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Jaggery",
+    "subtitle": "gur — unrefined cane or palm sugar",
+    "keywords": [
+      "jaggery",
+      "gur",
+      "gud",
+      "vellam",
+      "bella",
+      "palm jaggery",
+      "date jaggery",
+      "nolen gur",
+      "unrefined cane sugar",
+      "黑糖塊",
+      "印度粗糖",
+      "棕櫚糖",
+      "紅糖磚",
+      "ジャガリー",
+      "グル",
+      "未精製糖",
+      "パームシュガー",
+      "panela",
+      "azúcar de caña sin refinar",
+      "azúcar de palma"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 12,
+          "max": 18,
+          "unit": "months",
+          "tips": "Airtight, cool, dry and dark — the enemy is humidity, not microbes. Jaggery keeps some of the cane's own molasses and moisture, so unlike white sugar it goes sticky, weeps a syrup, and grows a white bloom or fine mould in a damp kitchen; it also attracts ants and, in warm storage, sugar-loving beetles. Soft palm jaggery and nolen gur hold much more moisture than a hard cane block and belong in the fridge. A darkening block that has hardened is fine to use."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 1,
+          "unit": "years",
+          "tips": "The right answer in a humid climate and for soft or liquid jaggery. Wrap it airtight — it takes up fridge odours and it sweats when you take it out."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Utah State University Extension – Storing Sugars",
+        "url": "https://extension.usu.edu/preserve-the-harvest/research/storing-sugars"
+      }
+    ],
+    "analog": "sugar-brown",
+    "notes": "USU is cited for the rules that decide this: commercial sugars have an indefinite shelf life because they resist microbial growth, with a best-if-used-by of about two years for quality only, and — the part that matters for jaggery — 'brown sugars contain natural moisture and do not store as well for long-term storage compared to refined granulated sugar', while syrups can grow mould once opened. USU does not name jaggery. The 12–18 month figure is our reading of that rule for an unrefined block, bracketed by the FoodKeeper entry 'sugar-brown' (18–24 months after opening); the refrigerated year is not published anywhere. Panela and piloncillo, covered separately in the Latin American set, are the same class of product."
+  },
+  {
+    "slug": "halva",
+    "category": "snacks-nuts-seeds",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Halva",
+    "subtitle": "sesame (tahini) halva",
+    "keywords": [
+      "halva",
+      "halvah",
+      "halawa",
+      "helva",
+      "tahini halva",
+      "sesame halva",
+      "sohan halwa",
+      "芝麻酥糖",
+      "哈爾瓦",
+      "中東芝麻糖",
+      "芝麻糖磚",
+      "ハルヴァ",
+      "ハルワ",
+      "ゴマの菓子",
+      "halva",
+      "dulce de sésamo"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 1,
+          "max": 1,
+          "unit": "years",
+          "tips": "Sealed, cool and dark. Halva is mostly sugar and sesame paste with almost no free water, which is why it sits on a shop counter unrefrigerated; what ends it is the sesame oil turning rancid, tasting sharp and bitter, not bacteria."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Wrap the cut face tightly against air. Oil beading on the surface and a crumbly, drier texture with age are normal. Keep it away from the stove and out of sunlight — heat is what accelerates the rancidity."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Worth it for a large slab or a warm kitchen, though the cold makes it hard and dulls the flavour; let it come back to room temperature before eating. Halva with fresh pistachio or chocolate through it keeps less well than plain."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "FSSAI (India) – Guidance Note on Milk Products, 24 Feb 2020",
+        "url": "https://fssai.gov.in/upload/uploadfiles/files/Guidance_Note_Milk_Products_24_02_2020.pdf"
+      }
+    ],
+    "analog": "tahini",
+    "notes": "The pantry figures are borrowed from the FoodKeeper entry 'tahini' (1 year from purchase), with the opened window widened to 1–2 months because halva is a dry sugar confection rather than a pourable paste — FoodKeeper's 3 weeks after opening applies to a jar of loose tahini. The refrigerated figure is our own reading. FSSAI is cited as a cross-check from the other end of the region: its shelf-life table puts Karachi halwa and sohan halwa in the 'Very Long Shelf life' class at around 30 days from manufacture — those are different, chewier, ghee-and-cornflour sweets, not sesame halva, so that figure is not used here, but it shows how far a sugar-and-fat confection can be expected to run."
+  },
+  {
+    "slug": "palm-oil",
+    "category": "oils-fats",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Palm oil",
+    "subtitle": "red (unrefined) or refined",
+    "keywords": [
+      "palm oil",
+      "red palm oil",
+      "palm fruit oil",
+      "zomi",
+      "dende",
+      "azeite de dendê",
+      "棕櫚油",
+      "紅棕櫚油",
+      "棕油",
+      "西非紅棕油",
+      "パーム油",
+      "赤パーム油",
+      "パームフルーツオイル",
+      "aceite de palma",
+      "aceite de palma roja"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 1,
+          "max": 1,
+          "unit": "years",
+          "tips": "A dark cupboard away from the cooker, tightly capped. Palm oil is mostly saturated, which makes it one of the more stable cooking fats — but the failure mode is still rancidity, not bacteria: heat, light and air oxidise it, and rancid oil smells of old crayons or putty and tastes bitter. Unrefined red palm oil also fades from deep orange to pale yellow as its carotenes break down, which is a fair visual clock. It sets solid below about 24 °C and melts again with no harm done."
+        },
+        "afterOpening": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Decant a working amount into a small bottle and keep the bulk container closed — every opening brings in fresh air. Never pour used frying oil back into the jar."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Refrigeration slows oxidation but sets palm oil rock hard and makes it awkward to use, the same objection FoodKeeper raises against refrigerating coconut oil. Reach for it only if you have bought a large tin you will not finish for a year."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension, Ohioline HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "coconut-oil",
+    "notes": "Ohioline is cited for the rule and is deliberately not used for the number: it gives vegetable oil 6 months unopened and 1 to 3 months once opened, with refrigeration after opening, which is written for polyunsaturated liquid oils and is far too short for a fat that is roughly half saturated. The figures used here are borrowed instead from the FoodKeeper entries for saturated and semi-solid fats — 'canola-oil' and 'sunflower-oil' at 1 year from purchase, 'sesame-oil' at 6 months after opening — and 'coconut-oil' supplies the note that refrigerating a solid fat is not recommended because it makes it hard to use. Nothing here is a palm-oil-specific published figure."
+  },
+  {
+    "slug": "biltong",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Biltong",
+    "subtitle": "air-dried cured beef or game",
+    "keywords": [
+      "biltong",
+      "droewors",
+      "air dried beef",
+      "cured dried meat",
+      "south african dried meat",
+      "南非肉乾",
+      "風乾牛肉乾",
+      "比爾通肉乾",
+      "醃製風乾肉",
+      "ビルトン",
+      "ビルトング",
+      "南アフリカの干し肉",
+      "biltong",
+      "carne seca curada"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 2,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "NCHFP's figure for properly dried jerky is two weeks at room temperature in a sealed container, and that is the honest ceiling for biltong too. What keeps it safe is water activity — how much water is actually available to microbes, not how dry it looks — so a thick, moist, red-centred slice cut wet is a perishable meat and belongs in the fridge from the start. Keep it in paper or a breathable cloth bag rather than sealed plastic if it is still soft: airtight plastic traps moisture and grows mould on the surface within days."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "NCHFP's advice for any dried meat is to refrigerate or freeze it to extend shelf life and keep the flavour. Sliced biltong dries out and goes dusty in the fridge; whole sticks hold up better."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Vacuum-seal and freeze for anything beyond a month. Thaw in the fridge, not on the counter."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "NCHFP (University of Georgia) – Jerky",
+        "url": "https://nchfp.uga.edu/how/dry/recipes/jerky/"
+      }
+    ],
+    "analog": "jerky-homemade",
+    "notes": "The pantry figure is sourced — NCHFP: 'Properly dried jerky will keep at room temperature two weeks in a sealed container', and 'to increase shelf life and maintain best flavor and quality, refrigerate or freeze jerky.' The refrigerated figure is borrowed from the FoodKeeper entry 'jerky-homemade' (1–2 months) and the freezer figure is our own. The distinction matters and is stated in the tips: home-dried biltong is not equivalent to a commercial product. NCHFP's central safety recommendation for home-dried meat is that the strips reach an internal 160 °F, either by heating in the marinade before drying or by oven-heating after drying, precisely because air-drying alone may not kill pathogens such as E. coli O157:H7 — and traditional biltong, cured in vinegar and salt and hung to dry cold, includes no such heat step. Commercially dried, vacuum-packed biltong is a controlled-water-activity product: FoodKeeper's 'jerky-commercially-dried' gives it 12 months unopened and 2–3 months refrigerated after opening, and its printed date should be followed."
+  },
+  {
+    "slug": "boerewors",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Boerewors",
+    "subtitle": "fresh raw coriander-spiced sausage",
+    "keywords": [
+      "boerewors",
+      "wors",
+      "farmer's sausage",
+      "south african sausage",
+      "fresh coriander sausage",
+      "南非香腸",
+      "農夫香腸",
+      "布爾沃斯香腸",
+      "生鮮香腸",
+      "ボーレボース",
+      "ブルボルス",
+      "南アフリカのソーセージ",
+      "boerewors",
+      "salchicha sudafricana"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Boerewors is raw sausage, not a cured one — the vinegar and the coriander are seasoning, not preservation — so it keeps like fresh minced beef and pork. Coldest shelf of the fridge, on a plate that will catch drips, below anything ready to eat. Cook it through; it is a coarse-ground mixed meat, and the surface bacteria of the cut get mixed all the way in when it is minced."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freeze the coil flat in its own wrap plus an outer bag. Quality falls off after a couple of months because the fat oxidises even at −18 °C. Thaw in the fridge and never refreeze raw."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "sausage-raw-bulk-type-patties",
+    "notes": "Both figures are borrowed from the FoodKeeper entry 'sausage-raw-bulk-type-patties' (1–2 days refrigerated, 1–2 months frozen), which is the correct class: boerewors is uncooked, unfermented and uncured. No agency publishes a boerewors figure. Dried boerewors — droëwors — is a different product entirely and stores like biltong."
+  },
+  {
+    "slug": "ghee-rice",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Ghee rice",
+    "subtitle": "cooked; also pulao, biryani, jeera rice",
+    "keywords": [
+      "ghee rice",
+      "neychoru",
+      "pulao",
+      "pilaf",
+      "jeera rice",
+      "biryani",
+      "cooked seasoned rice",
+      "酥油飯",
+      "印度香料飯",
+      "抓飯",
+      "熟米飯",
+      "ギーライス",
+      "プラオ",
+      "ビリヤニ",
+      "炊いた香辛料ご飯",
+      "arroz con ghee",
+      "arroz pilaf indio"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 4,
+          "max": 6,
+          "unit": "days",
+          "tips": "Cool it fast and get it cold — this is the dish where that rule earns its keep. Uncooked rice carries Bacillus cereus spores that survive cooking, and Hong Kong's CFS is explicit that the toxins formed while those bacteria multiply cannot be eliminated by reheating: spread the rice out to cool from 60 °C to 20 °C within two hours and then to 4 °C within four, and keep the fridge at 4 °C or below. A covered pot of pilaf left on the stove overnight is the classic way to get ill. Reheat only once, and until it is steaming hot right through. If there is chicken or egg in the biryani, treat it as leftover meat and use it sooner rather than later."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Freeze it in meal-sized portions the day it is made, while it is fresh, and reheat from frozen."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Hong Kong Centre for Food Safety – Heat-stable Toxins from Bacillus cereus and Staphylococcus aureus",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_193_01.html"
+      }
+    ],
+    "analog": "cooked-rice",
+    "notes": "The hazard and every handling rule in the tips are sourced from CFS — spores resistant to normal cooking temperatures, the two-hour/four-hour cooling schedule, a fridge at 4 °C or below, and the statement that reheating does not eliminate the toxin. The 4–6 day and 6-month numbers are borrowed from the FoodKeeper entry 'cooked-rice'. That 4–6 days is a generic cooked-rice figure and should be read as an outer limit: several national agencies give much shorter advice for leftover rice specifically, and if the pot could not be cooled quickly, treat it as a one-day food."
+  }
+]
