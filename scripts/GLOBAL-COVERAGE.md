@@ -1,5 +1,10 @@
 # Global coverage backlog
 
+**All eight batches are done.** 347 curated records now sit alongside the
+FoodKeeper backbone, for 1051 foods in total. What remains is editorial:
+most of these foods have no content file yet, so they appear in category
+tables but have no page of their own. Run scripts/make-briefs.js for the list.
+
 The USDA FoodKeeper backbone reflects an American supermarket. This is the list
 of foods eaten widely elsewhere that it does not cover. Each batch below is a
 research assignment: find real storage guidance from a credible source, then
@@ -102,7 +107,7 @@ sumac, pomegranate molasses, harissa, preserved lemons, dates fresh and dried
 teff flour (already), berbere, fufu flour, egusi, plantain flour, palm oil,
 suya spice, biltong, boerewors
 
-## Batch H — Europe, dairy, charcuterie and bakery
+## Batch H — Europe, dairy, charcuterie and bakery  ✅ DONE → src/data/base/extra/h-europe-dairy-charcuterie.json (45 items)
 
 crème fraîche, quark (already), skyr, mascarpone, ricotta (already), burrata,
 mozzarella fresh in brine, halloumi, raclette, gorgonzola, roquefort, stilton,

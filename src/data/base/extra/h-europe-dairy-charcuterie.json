@@ -1,0 +1,2731 @@
+[
+  {
+    "slug": "creme-fraiche",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Crème fraîche",
+    "subtitle": "cultured cream, 30–40 % fat",
+    "keywords": [
+      "creme fraiche",
+      "crème fraîche",
+      "cultured cream",
+      "french sour cream",
+      "法式酸奶油",
+      "法式酸鮮奶油",
+      "發酵鮮奶油",
+      "酸奶油",
+      "クレームフレーシュ",
+      "クレーム・フレーシュ",
+      "発酵クリーム",
+      "サワークリーム",
+      "crema fresca",
+      "nata agria",
+      "crema agria"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "Ohio State Extension gives commercial sour cream two weeks refrigerated, and crème fraîche is the same thing at a higher fat content and a slightly milder acidity. Keep it at 0–5 °C. It thickens and sharpens as it sits; a little clear whey on top is normal and can be stirred back in."
+        },
+        "afterOpening": {
+          "min": 7,
+          "max": 10,
+          "unit": "days",
+          "tips": "Once the pot is open, always use a clean spoon — crème fraîche is far less acidic than yoghurt and a mould spore or a buttery knife will start a colony. Pink, grey or fuzzy growth means the whole pot goes; Hong Kong's CFS is blunt that mould hyphae run deeper than the visible patch and that you cannot scoop the toxin out."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Freezing splits it. The high fat means it survives better than sour cream and can be whisked back together for a sauce, but it will never be a spoonable garnish again. Better to buy small pots."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5403 – Refrigerator Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5403"
+      },
+      {
+        "name": "Hong Kong Centre for Food Safety – Mouldy Food and Food Safety",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_199_04.html"
+      }
+    ],
+    "analog": "sour-cream",
+    "notes": "Nobody publishes a crème fraîche timeline. The two-week figure is Ohio State's line for commercial sour cream, applied here because the two products are the same technology — pasteurised cream soured with a mesophilic lactic culture — and crème fraîche's higher fat if anything helps. The FoodKeeper entry 'sour-cream' is named as the analogue for completeness, though note that FoodKeeper's own sour-cream record carries no numbers at all, which is why Ohio State is cited instead. The 7–10 day opened figure is our own conservative reading, not a published one. CFS is cited only for the mould rule."
+  },
+  {
+    "slug": "skyr",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Skyr",
+    "subtitle": "Icelandic strained cultured skim milk",
+    "keywords": [
+      "skyr",
+      "icelandic yogurt",
+      "strained yogurt",
+      "icelandic cheese",
+      "冰島優格",
+      "斯基爾",
+      "冰島酸奶",
+      "冰島瀝乾優格",
+      "スキール",
+      "スキル",
+      "アイスランドヨーグルト",
+      "skyr",
+      "yogur islandés",
+      "queso fresco islandés"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 1,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "Sealed, to the printed date, at 0–5 °C. Skyr is technically a fresh cheese — strained hard enough to be about three times the protein of yoghurt — but it is cultured, acidic and pasteurised, and it behaves like yoghurt in the fridge. Ohio State gives yoghurt 7 to 10 days."
+        },
+        "afterOpening": {
+          "min": 5,
+          "max": 7,
+          "unit": "days",
+          "tips": "Keep the lid on and use a clean spoon; the low pH holds bacteria off but not mould. Weeping whey is normal, not spoilage."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "It goes grainy on thawing. Fine stirred into a smoothie or a batter, wrong for eating with a spoon."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5403 – Refrigerator Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5403"
+      }
+    ],
+    "analog": "yogurt",
+    "notes": "No agency publishes a skyr figure. The numbers are borrowed from the FoodKeeper entry 'yogurt' (1–2 weeks refrigerated, 1–2 months frozen), cross-checked against Ohio State's 7–10 days for yoghurt, which is the more conservative of the two and is what the opened figure follows. Traditional Icelandic skyr was set with rennet as well as culture, which is why it is legally a cheese there; that does not change how it keeps."
+  },
+  {
+    "slug": "mascarpone",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Mascarpone",
+    "subtitle": "acid-set fresh cream cheese",
+    "keywords": [
+      "mascarpone",
+      "italian cream cheese",
+      "tiramisu cheese",
+      "馬斯卡彭",
+      "馬斯卡邦乳酪",
+      "義大利奶油乳酪",
+      "提拉米蘇起司",
+      "マスカルポーネ",
+      "マスカルポーネチーズ",
+      "イタリアンクリームチーズ",
+      "mascarpone",
+      "queso mascarpone"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "Unopened, at 0–5 °C, to the printed date. Mascarpone is cream set with acid and never ripened, so it is a high-moisture, high-fat, only mildly acidic cheese — the profile Hong Kong's CFS describes as favourable to Listeria monocytogenes, which grows down to 0 °C. Buy it pasteurised and keep it cold."
+        },
+        "afterOpening": {
+          "min": 5,
+          "max": 6,
+          "unit": "days",
+          "tips": "Ohio State gives opened soft cream cheese 5 to 6 days. Press the surface flat, cover it against the tub, and never return a used spoon. A dish built on raw mascarpone and raw egg — tiramisù — is a leftovers problem in its own right: keep it at or below 4 °C and treat it as a two-day food."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Not worth it. Mascarpone breaks into butter grains and water on thawing and cannot be whipped back."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5403 – Refrigerator Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5403"
+      },
+      {
+        "name": "Hong Kong Centre for Food Safety – Listeria monocytogenes in Cheese Products",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_94_01.html"
+      }
+    ],
+    "analog": "cream-cheese",
+    "notes": "The 5–6 day opened figure is Ohio State's, for soft cream cheese, and mascarpone is the closest thing to it. The two-week unopened figure is borrowed from the FoodKeeper entry 'cream-cheese'. CFS is cited for the rule, not the numbers: it explains why moisture and low acidity make a cheese a Listeria risk and that the organism grows at refrigerator temperature as low as 0 °C. It does not name mascarpone."
+  },
+  {
+    "slug": "burrata",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Burrata",
+    "subtitle": "mozzarella pouch filled with stracciatella and cream",
+    "keywords": [
+      "burrata",
+      "burrata cheese",
+      "stracciatella cheese",
+      "布拉塔",
+      "布拉塔起司",
+      "布拉塔乳酪",
+      "奶油夾心莫札瑞拉",
+      "ブラータ",
+      "ブッラータ",
+      "ブラータチーズ",
+      "burrata",
+      "queso burrata"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "There is no honest day count for burrata — go by the use-by date on the tub, which is short, and in the UK the Food Standards Agency's rule is that a use-by date is a legal limit, not a suggestion: eat, cook or freeze it by then. Keep it at 0–5 °C in its own liquid, and take it out only 20 minutes before serving. Once you cut the pouch the cream runs and the whole thing is a one-sitting food."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Do not freeze it. The point of burrata is a molten cream centre inside an elastic curd, and freezing destroys both."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "UK Food Standards Agency (GOV.UK) – How to chill, freeze and defrost food safely",
+        "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely"
+      },
+      {
+        "name": "Hong Kong Centre for Food Safety – Listeria monocytogenes in Cheese Products",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_94_01.html"
+      }
+    ],
+    "analog": null,
+    "notes": "Deliberately a tips-only record. Burrata is the most perishable cheese in this file — a fresh unripened curd wrapped around raw-ish cream, sold with a use-by measured in days — and any number we invented would be worse than the date the maker printed. FSA is cited for the rule that use-by dates on chilled food are the operative limit and that food can be frozen right up to midnight on that date; the fridge temperature of 0–5 °C is FSA's too. CFS is cited for why a soft, high-moisture, low-acid cheese is a Listeria risk and that Listeria grows down to 0 °C. Pregnant, elderly and immunocompromised readers: CFS advises avoiding soft cheeses altogether, and Health Canada extends that to pasteurised soft and semi-soft cheeses, not only raw-milk ones. Burrata is squarely in that category."
+  },
+  {
+    "slug": "mozzarella-in-brine",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Mozzarella, fresh in brine",
+    "subtitle": "fior di latte or di bufala, sold swimming in its liquid",
+    "keywords": [
+      "mozzarella in brine",
+      "fresh mozzarella",
+      "fior di latte",
+      "mozzarella di bufala",
+      "bocconcini",
+      "水牛乳酪",
+      "新鮮莫札瑞拉",
+      "鹽水莫札瑞拉",
+      "莫札瑞拉起司",
+      "モッツァレラ",
+      "フレッシュモッツァレラ",
+      "水牛モッツァレラ",
+      "mozzarella fresca",
+      "mozzarella en salmuera",
+      "queso mozzarella fresco"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "Unopened, in its sealed liquid, to the printed date at 0–5 °C. The liquid is the storage medium, not packing waste: it is lightly salted whey or brine that keeps the curd hydrated and holds a salt concentration at the surface where contamination would otherwise land. Never pour it away until you are ready to eat."
+        },
+        "afterOpening": {
+          "min": 5,
+          "max": 7,
+          "unit": "days",
+          "tips": "Once opened, keep the ball fully submerged in its own liquid in a sealed tub — top it up with lightly salted water if you have lost some — and eat within about a week. Cloudy, ropy or sour-smelling liquid means it goes. Do not store it in plain water: that leaches salt out of the curd and leaves you with a sweeter, wetter, less protected cheese."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Only for cooking. Drain it, blot it, freeze it in a block, and use it grated on a pizza. Thawed fresh mozzarella weeps and turns squeaky."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Hong Kong Centre for Food Safety – Listeria monocytogenes in Cheese Products",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_94_01.html"
+      },
+      {
+        "name": "Health Canada – Food safety for pregnant women",
+        "url": "https://www.canada.ca/en/health-canada/services/food-safety-vulnerable-populations/food-safety-pregnant-women.html"
+      }
+    ],
+    "analog": "cottage-cheese",
+    "notes": "Written separately from the drained record on purpose — mozzarella kept in its brine and mozzarella taken out of it are not the same proposition, and one timeline cannot honestly cover both. The numbers are borrowed from the FoodKeeper entry 'cottage-cheese' (2 weeks from purchase, 1 week after opening), the nearest published figure for a fresh, unripened, high-moisture curd. CFS is cited for the Listeria rule — soft, moist, low-acid cheeses are the risky ones and the organism grows down to 0 °C — and Health Canada for the advice to vulnerable groups, which covers pasteurised as well as unpasteurised soft and semi-soft cheeses. Mozzarella di bufala campana is often made from raw milk; if you are pregnant or immunocompromised, check, or cook it."
+  },
+  {
+    "slug": "mozzarella-drained",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Mozzarella, drained or vacuum-packed",
+    "subtitle": "the dry block sold for cooking, and any ball you have poured the brine off",
+    "keywords": [
+      "drained mozzarella",
+      "block mozzarella",
+      "pizza cheese",
+      "low moisture mozzarella",
+      "乾式莫札瑞拉",
+      "披薩起司",
+      "低水分莫札瑞拉",
+      "瀝乾莫札瑞拉",
+      "ドライモッツァレラ",
+      "ピザ用モッツァレラ",
+      "低水分モッツァレラ",
+      "mozzarella escurrida",
+      "mozzarella para pizza",
+      "mozzarella de baja humedad"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 3,
+          "max": 4,
+          "unit": "weeks",
+          "tips": "Unopened vacuum-packed low-moisture mozzarella keeps like a semi-hard cheese, to its printed date at 0–5 °C. It is a genuinely different food from the ball in brine: drier, saltier and firmer, made to be grated and melted."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "This is the number people get wrong. A fresh ball you have drained has lost its protection — the salted liquid was holding the surface hostile and keeping the curd from drying — so it is now an exposed, wet, low-acid cheese and it should be eaten the same day or the next. An opened block of low-moisture mozzarella is more forgiving; wrap it airtight and treat it as a week's cheese, watching for mould."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "The block freezes well grated; the drained fresh ball does not, beyond cooking use."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5403 – Refrigerator Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5403"
+      },
+      {
+        "name": "Hong Kong Centre for Food Safety – Listeria monocytogenes in Cheese Products",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_94_01.html"
+      }
+    ],
+    "analog": "cheese-processed-slices",
+    "notes": "The whole reason this record exists is the distinction most shoppers never hear: brine is not packing liquid, it is preservation, and a drained ball is a shorter-lived food than the same ball left in its tub. The 3–4 week unopened figure is borrowed from the FoodKeeper entry 'cheese-processed-slices', the closest published match for a firm, salted, vacuum-packed cheese; Ohio State's opened-hard-cheese line of 3 to 4 weeks is the sanity check on it for an opened block. The 1–2 day figure for a drained fresh ball is ours, reasoned from the loss of the brine barrier, and is not published anywhere. CFS supplies the Listeria rule."
+  },
+  {
+    "slug": "raclette",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Raclette",
+    "subtitle": "semi-hard washed-rind melting cheese",
+    "keywords": [
+      "raclette",
+      "raclette cheese",
+      "washed rind cheese",
+      "swiss melting cheese",
+      "拉可雷特",
+      "瑞可雷特起司",
+      "瑞士烤起司",
+      "融化起司",
+      "ラクレット",
+      "ラクレットチーズ",
+      "スイスの溶かしチーズ",
+      "raclette",
+      "queso raclette"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Unopened, to the date on the vacuum pack, at 0–5 °C. Raclette is a washed-rind cheese, which means the rind was deliberately kept damp and bacterially alive during ripening — it is moister and less acidic than a cheddar and it does not keep like one. The smell is the rind doing its job; ammonia is not."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 4,
+          "unit": "weeks",
+          "tips": "Ohio State gives opened hard cheese 3 to 4 weeks, which is the right order of magnitude for a firm raclette wedge, though a very ripe or very moist one will be closer to two. Wrap it in waxed or greaseproof paper inside a loose box, not in clingfilm against the cut face — the cheese needs to breathe or the rind sweats and slimes."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Freezing is legitimate here because you are going to melt it anyway. Slice it first, interleave with paper, and go straight from the freezer to the grill."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5403 – Refrigerator Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5403"
+      },
+      {
+        "name": "Health Canada – Food safety for pregnant women",
+        "url": "https://www.canada.ca/en/health-canada/services/food-safety-vulnerable-populations/food-safety-pregnant-women.html"
+      }
+    ],
+    "analog": "cheese-hard-cheddar-swiss-block-parmesan",
+    "notes": "The opened figure is Ohio State's line for opened hard cheese; the six-month freezer figure is borrowed from the FoodKeeper entry 'cheese-hard-cheddar-swiss-block-parmesan'. No unopened day count is given because raclette is sold at wildly different ripenesses and the pack date is the only honest number. Health Canada is cited because raclette sits in a category readers rarely think about: it lists 'unpasteurized and pasteurized semi-soft cheeses, such as Havarti' among the foods pregnant people should avoid, and a washed-rind raclette belongs with those rather than with cheddar. Melting it thoroughly removes that objection."
+  },
+  {
+    "slug": "gorgonzola",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Gorgonzola",
+    "subtitle": "dolce (soft, spoonable) and piccante (firm, aged)",
+    "keywords": [
+      "gorgonzola",
+      "gorgonzola dolce",
+      "gorgonzola piccante",
+      "blue cheese",
+      "italian blue cheese",
+      "古岡左拉",
+      "戈貢佐拉",
+      "藍紋乳酪",
+      "藍紋起司",
+      "義大利藍紋乳酪",
+      "ゴルゴンゾーラ",
+      "ゴルゴンゾーラチーズ",
+      "ブルーチーズ",
+      "青カビチーズ",
+      "gorgonzola",
+      "queso azul",
+      "queso gorgonzola"
+    ],
+    "storage": {
+      "fridge": {
+        "afterOpening": {
+          "min": 1,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "Gorgonzola dolce is a soft, wet, barely acidic cheese and should be treated as one: a fortnight at most at 0–5 °C, wrapped in waxed paper and then loosely boxed. The firmer, drier piccante will hold three to four weeks. Both keep ripening in the fridge — the blue veining spreads, the paste softens toward the rind, and the smell goes from sweet to ammoniac. Ammonia is the end point, not a phase."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Freezing wrecks the paste, which thaws crumbly and weeping. If you must, freeze it in cooking-sized lumps for sauces and accept that it will never go on a board again."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Hong Kong Centre for Food Safety – Listeria monocytogenes in Cheese Products",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_94_01.html"
+      },
+      {
+        "name": "Health Canada – Food safety for pregnant women",
+        "url": "https://www.canada.ca/en/health-canada/services/food-safety-vulnerable-populations/food-safety-pregnant-women.html"
+      }
+    ],
+    "analog": "cheese-soft-brie-bel-paese-goat",
+    "notes": "This is a safety record as much as a storage one. If you are pregnant, elderly or immunocompromised, the advice is different from the general advice and both agencies cited say so plainly: CFS tells susceptible people to 'avoid soft cheeses (e.g. Feta, Brie, Camembert) and blue cheeses', and Health Canada names 'all unpasteurized and pasteurized blue-veined cheeses' — pasteurisation does not take a blue cheese off that list, because the risk is post-pasteurisation contamination in a moist, low-acid, long-ripened cheese in which Listeria monocytogenes grows at refrigerator temperature. Cooking it through removes the objection. The 1–2 week figure is borrowed from the FoodKeeper entry 'cheese-soft-brie-bel-paese-goat'; the 3–4 week reading for piccante follows Ohio State's opened-hard-cheese line and is our extrapolation, not a published gorgonzola figure. One more thing worth saying: the blue in the cheese is deliberately inoculated Penicillium roqueforti and is not the mould CFS warns about — but fuzzy grey, pink or black growth on the cut face or rind is, and CFS's position is that mouldy food goes in the bin because the hyphae run deeper than the patch you can see."
+  },
+  {
+    "slug": "roquefort",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Roquefort",
+    "subtitle": "raw sheep's milk blue, cave-ripened",
+    "keywords": [
+      "roquefort",
+      "roquefort cheese",
+      "sheep milk blue cheese",
+      "raw milk blue",
+      "洛克福",
+      "洛克福藍紋乳酪",
+      "藍紋羊乳酪",
+      "生乳藍紋乳酪",
+      "ロックフォール",
+      "ロックフォールチーズ",
+      "羊乳ブルーチーズ",
+      "青カビチーズ",
+      "roquefort",
+      "queso roquefort",
+      "queso azul de oveja"
+    ],
+    "storage": {
+      "fridge": {
+        "afterOpening": {
+          "min": 2,
+          "max": 3,
+          "unit": "weeks",
+          "tips": "Wrap the cut face in its original foil or in waxed paper — foil is traditional here for a reason, it stops the paste drying and the blue over-breathing — then box it loosely at 0–5 °C. Roquefort is saltier and drier than gorgonzola dolce, which buys it a week or two, but it is still a moist, low-acid cheese and it goes on ripening in your fridge until it turns bitter and ammoniac."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Not recommended. It thaws into wet crumbs. Use those in a dressing if you have already done it."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Hong Kong Centre for Food Safety – Listeria monocytogenes in Cheese Products",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_94_01.html"
+      },
+      {
+        "name": "Health Canada – Food safety for pregnant women",
+        "url": "https://www.canada.ca/en/health-canada/services/food-safety-vulnerable-populations/food-safety-pregnant-women.html"
+      }
+    ],
+    "analog": "cheese-soft-brie-bel-paese-goat",
+    "notes": "Roquefort is made from raw ewes' milk — that is required by its appellation, not an artisan quirk — so it is the clearest case in this file of a cheese whose advice splits by who is eating it. CFS states that the Listeria risk from raw-milk soft cheeses 'is low in the general population but is high in the susceptible population' and tells pregnant, elderly and immunocompromised people to avoid soft and blue cheeses; Health Canada goes further and puts all blue-veined cheeses, pasteurised or not, on the avoid list, alongside cheese made from raw milk. For everyone else it is an ordinary fridge cheese. The 2–3 week figure is our extrapolation between the FoodKeeper entry 'cheese-soft-brie-bel-paese-goat' (1–2 weeks) and Ohio State's opened-hard-cheese line (3–4 weeks), reflecting that Roquefort sits between the two on moisture and salt. It is not a published Roquefort figure and no agency gives one."
+  },
+  {
+    "slug": "stilton",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Stilton",
+    "subtitle": "Blue Stilton; the White is a different, younger cheese",
+    "keywords": [
+      "stilton",
+      "blue stilton",
+      "white stilton",
+      "english blue cheese",
+      "斯蒂爾頓",
+      "史帝爾頓藍紋乳酪",
+      "英國藍紋乳酪",
+      "藍紋起司",
+      "スティルトン",
+      "ブルースティルトン",
+      "イギリスのブルーチーズ",
+      "stilton",
+      "queso stilton",
+      "queso azul inglés"
+    ],
+    "storage": {
+      "fridge": {
+        "afterOpening": {
+          "min": 2,
+          "max": 3,
+          "unit": "weeks",
+          "tips": "Firmer and drier than most blues, so it keeps at the long end of the blue-cheese range: two to three weeks at 0–5 °C, cut face covered with waxed paper or foil and the rind left exposed. A whole or half truckle in its wrapper keeps longer than a cut wedge — the cut face is where it dries, browns and picks up stray moulds. In the UK the use-by date on the pack is the legal limit, so use it while the wrapper is intact."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Only for soup and sauce. It thaws crumbly and wet."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Health Canada – Food safety for pregnant women",
+        "url": "https://www.canada.ca/en/health-canada/services/food-safety-vulnerable-populations/food-safety-pregnant-women.html"
+      },
+      {
+        "name": "UK Food Standards Agency (GOV.UK) – How to chill, freeze and defrost food safely",
+        "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely"
+      }
+    ],
+    "analog": "cheese-soft-brie-bel-paese-goat",
+    "notes": "Same split as gorgonzola and Roquefort, and it catches people out because Stilton is firm enough to look like a hard cheese: Health Canada tells pregnant people to avoid 'all unpasteurized and pasteurized blue-veined cheeses'. Whether a particular Stilton was made from pasteurised milk makes no difference to that advice, so this record does not claim anything about the milk. FSA is cited for the fridge temperature of 0–5 °C and for the rule that a use-by date is the operative limit and food may be frozen right up to midnight on it. The 2–3 week number is our extrapolation between the FoodKeeper soft-cheese entry and Ohio State's opened-hard-cheese line, on the reasoning that Stilton is drier than gorgonzola dolce; no agency publishes a Stilton figure."
+  },
+  {
+    "slug": "comte",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Comté",
+    "subtitle": "cooked, pressed, long-aged alpine cheese",
+    "keywords": [
+      "comte",
+      "comté",
+      "gruyere de comte",
+      "alpine cheese",
+      "hard cheese",
+      "康堤",
+      "康堤起司",
+      "孔泰乳酪",
+      "法國硬質乳酪",
+      "阿爾卑斯乳酪",
+      "コンテ",
+      "コンテチーズ",
+      "ハードチーズ",
+      "comté",
+      "queso comté"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 4,
+          "max": 6,
+          "unit": "months",
+          "tips": "Ohio State gives unopened hard cheese 4 to 6 months refrigerated. A vacuum-packed piece of Comté genuinely does this: it is a cooked, pressed, long-aged cheese with a low moisture content, which is precisely why it was invented — a wheel was a way to keep a summer's milk through an alpine winter."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 4,
+          "unit": "weeks",
+          "tips": "Ohio State's figure for opened hard cheese. Wrap it in waxed or greaseproof paper, not clingfilm, and change the paper every few days; a cut face left airtight against plastic sweats and grows moulds much faster than one allowed to breathe in a box. The white crystalline crunch in a well-aged piece is tyrosine, not spoilage."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Possible but pointless for a cheese this good — freezing makes it crumbly. Grate it first if you are going to."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5403 – Refrigerator Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5403"
+      },
+      {
+        "name": "Hong Kong Centre for Food Safety – Mouldy Food and Food Safety",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_199_04.html"
+      }
+    ],
+    "analog": null,
+    "notes": "Both refrigerator figures are directly sourced from Ohio State's hard-cheese lines; the six-month freezer figure matches the FoodKeeper hard-cheese entry, so nothing here is invented. On mould: readers will have heard the rule that you can cut an inch off a hard cheese and eat the rest, and that rule is not sourced here because the authority we could actually fetch takes the opposite line — CFS says 'do not eat mouldy food and throw it away', on the grounds that 'hyphae of the mould can invade deeply into the food'. We are reporting the more cautious published position rather than the folk rule; a surface bloom on a hard rind is a different case from mould in a soft paste, but no fetchable agency page says so in terms."
+  },
+  {
+    "slug": "gouda",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Gouda",
+    "subtitle": "jong through oud — young to extra-aged",
+    "keywords": [
+      "gouda",
+      "gouda cheese",
+      "oude kaas",
+      "aged gouda",
+      "dutch cheese",
+      "高達",
+      "高達起司",
+      "豪達乳酪",
+      "荷蘭乳酪",
+      "陳年高達",
+      "ゴーダ",
+      "ゴーダチーズ",
+      "オランダのチーズ",
+      "gouda",
+      "queso gouda"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 4,
+          "max": 6,
+          "unit": "months",
+          "tips": "Ohio State's unopened hard-cheese figure, and a fair one for a waxed or vacuum-packed piece at 0–5 °C. Age matters more than anything else here: a jonge Gouda of four weeks is a moist, mild, semi-hard cheese that will not last like this, while an oude of a year or more is dry, salty and crystalline and effectively keeps itself."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 4,
+          "unit": "weeks",
+          "tips": "Ohio State's opened hard-cheese figure. Waxed paper in a loose box; leave the red or yellow wax coating in place on the sides you have not cut, it is doing the job of a rind."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Fine for cooking cheese, grated. An aged Gouda is worth eating rather than freezing."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5403 – Refrigerator Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5403"
+      },
+      {
+        "name": "Health Canada – Food safety for pregnant women",
+        "url": "https://www.canada.ca/en/health-canada/services/food-safety-vulnerable-populations/food-safety-pregnant-women.html"
+      }
+    ],
+    "analog": null,
+    "notes": "Both refrigerator figures come straight from Ohio State's hard-cheese lines and the freezer figure matches the FoodKeeper hard-cheese entry, so no analogue is claimed. The caveat worth flagging: young Gouda is really a semi-soft cheese, and Health Canada's advice to pregnant people covers 'unpasteurized and pasteurized semi-soft cheeses, such as Havarti'. If what you have is a soft, bendy, four-week jonge Gouda rather than a hard aged one, treat it as semi-soft on both counts — shorter life, and on the avoid list for vulnerable eaters."
+  },
+  {
+    "slug": "edam",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Edam",
+    "subtitle": "part-skim Dutch ball in wax",
+    "keywords": [
+      "edam",
+      "edam cheese",
+      "edammer",
+      "dutch cheese",
+      "wax cheese",
+      "艾丹",
+      "艾丹起司",
+      "伊丹乳酪",
+      "紅衣乳酪",
+      "荷蘭圓球乳酪",
+      "エダム",
+      "エダムチーズ",
+      "オランダのチーズ",
+      "edam",
+      "queso edam",
+      "queso de bola"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 4,
+          "max": 6,
+          "unit": "months",
+          "tips": "Ohio State's unopened hard-cheese figure. Edam is made from part-skim milk, so it has less fat to go rancid than a full-fat cheese and its wax coat is a real barrier — a sealed ball is a long keeper at 0–5 °C."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 4,
+          "unit": "weeks",
+          "tips": "Ohio State's opened hard-cheese figure. Once you have breached the wax, wrap only the cut face and leave the waxed surface uncovered; sealing the whole thing in plastic traps moisture against the wax and grows mould underneath it where you cannot see it."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Acceptable for cooking use; it comes out drier and more crumbly."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5403 – Refrigerator Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5403"
+      }
+    ],
+    "analog": null,
+    "notes": "Directly sourced from Ohio State's hard-cheese lines (unopened 4–6 months, opened 3–4 weeks); the freezer figure matches the FoodKeeper hard-cheese entry. Nothing here is borrowed. Edam and Gouda are given separate records because they are separate cheeses in every shop that sells either, not because their timelines differ — they do not."
+  },
+  {
+    "slug": "cultured-butter",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Cultured butter",
+    "subtitle": "beurre de baratte, sauerrahmbutter — churned from soured cream",
+    "keywords": [
+      "cultured butter",
+      "beurre de baratte",
+      "sauerrahmbutter",
+      "sour cream butter",
+      "european butter",
+      "發酵奶油",
+      "發酵牛油",
+      "酸種奶油",
+      "歐式發酵奶油",
+      "培養奶油",
+      "発酵バター",
+      "カルチャードバター",
+      "ヨーロッパ産発酵バター",
+      "mantequilla cultivada",
+      "mantequilla fermentada",
+      "mantequilla de nata agria"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "A butter dish on the counter is fine for a day or two, and no longer for an unsalted cultured butter — this is the style most likely to go rancid on you, because the culture leaves it slightly acidic and it usually carries little or no salt. Keep the dish covered and out of the light; light and air, not bacteria, are what turn butter."
+        }
+      },
+      "fridge": {
+        "fromPurchase": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "New Mexico State gives butter 1 to 2 months refrigerated. Keep it wrapped and in the door-free part of the fridge if you can; Ohio State takes the stricter line of 1 to 2 weeks, and that is the better guide for quality, because butter picks up every smell in the fridge and cultured butter has a delicate flavour to lose."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 6,
+          "max": 9,
+          "unit": "months",
+          "tips": "New Mexico State gives 6 to 9 months. Freeze it in its original wrapper inside a bag; the wrapper is greaseproof and the bag keeps the smells out. Thaw in the fridge, not on the counter."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      },
+      {
+        "name": "Ohio State University Extension HYG-5403 – Refrigerator Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5403"
+      }
+    ],
+    "analog": null,
+    "notes": "The numbers are sourced but they are for butter generally, not for cultured butter specifically — no agency separates the two, and there is no safety reason to. The two sources disagree on refrigerated life (NMSU 1–2 months, Ohio State 1–2 weeks) and both are given here rather than splitting the difference: the longer figure is about safety and the shorter one about flavour. What is genuinely different about cultured butter is worth knowing: it is churned from cream that was soured with a lactic culture first, which drops the pH and builds diacetyl, and the residual buttermilk left in the grains is more acidic and more flavourful than in a sweet-cream butter. That makes it taste better and go off-flavour sooner, especially unsalted. FoodKeeper's 'butter' entry gives the same 1–2 months and 6–9 months."
+  },
+  {
+    "slug": "clotted-cream",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Clotted cream",
+    "subtitle": "scalded and crusted, Devon and Cornish style",
+    "keywords": [
+      "clotted cream",
+      "devon cream",
+      "cornish clotted cream",
+      "scalded cream",
+      "凝脂奶油",
+      "德文郡奶油",
+      "康瓦爾凝脂奶油",
+      "英式凝脂奶油",
+      "クロテッドクリーム",
+      "デヴォンシャークリーム",
+      "凝縮クリーム",
+      "clotted cream",
+      "nata cuajada",
+      "crema coagulada inglesa"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Unopened, to the use-by date on the pot, at 0–5 °C. FSA's rule is that a use-by date is the limit, not a suggestion, and that you can freeze right up to midnight on it. Clotted cream is made by holding cream at around 80 °C for hours until a crust forms, which is a heat treatment as well as a texture — but the pot is then filled and sealed cold, so the date is the date."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "New Mexico State gives opened cream 3 to 4 days, and clotted cream is a cream, whatever the spoon says. Keep the crust intact and scoop from one side; the golden crust is a physical barrier and breaking it up across the whole surface exposes far more of the soft cream underneath."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 3,
+          "max": 4,
+          "unit": "months",
+          "tips": "It freezes better than pouring cream because there is so little water in it — at around 55 to 64 % fat, there is not much left to form ice crystals. Thaw it slowly in the fridge and stir the crust back in."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      },
+      {
+        "name": "UK Food Standards Agency (GOV.UK) – How to chill, freeze and defrost food safely",
+        "url": "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely"
+      }
+    ],
+    "analog": "cream-heavy",
+    "notes": "The 3–4 day opened figure is New Mexico State's line for opened heavy or light cream, applied here because no agency publishes a clotted cream figure; Ohio State is stricter still at 3 days for cream. The 3–4 month freezer figure is borrowed from the FoodKeeper entry 'cream-heavy'. FSA supplies the use-by rule and the 0–5 °C fridge setting. The fat percentage quoted is the legal minimum for Cornish clotted cream and the typical range of the product, given as context rather than as a sourced storage claim."
+  },
+  {
+    "slug": "rillettes",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Rillettes",
+    "subtitle": "shredded meat potted under a fat cap",
+    "keywords": [
+      "rillettes",
+      "pork rillettes",
+      "duck rillettes",
+      "potted meat",
+      "meat spread",
+      "法式肉醬",
+      "油封肉醬",
+      "豬肉抹醬",
+      "罐封肉醬",
+      "法式豬肉抹醬",
+      "リエット",
+      "ポークリエット",
+      "肉のペースト",
+      "rillettes",
+      "carne desmenuzada en manteca",
+      "paté de cerdo desmenuzado"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "While the fat cap is unbroken and the pot is sealed, go by the date on it — a commercially potted rillettes is dated in weeks, and the fat is what makes that possible. Keep it at or below 4 °C. Health Canada and the FDA both name refrigerated pâtés and meat spreads as a Listeria risk, and Listeria grows in the fridge, so a long-dated chilled pot is exactly the kind of food where the date matters."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "Break the fat cap and you have opened the product — that is the whole point of this record. The layer of white fat on top is not decoration and not a garnish; it is an oxygen and moisture barrier over a cooked, low-acid, ready-to-eat meat, and once you dig through it the meat underneath is on the same clock as any cooked meat dish: 3 to 4 days at or below 4 °C, New Mexico State's figure. Smoothing the fat back over the surface makes it look sealed again. It is not."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freeze it in the pot or in small ramekins with the fat layer intact. The texture survives freezing better than a smooth pâté does because the meat is already shredded."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      },
+      {
+        "name": "Health Canada – Food safety for pregnant women",
+        "url": "https://www.canada.ca/en/health-canada/services/food-safety-vulnerable-populations/food-safety-pregnant-women.html"
+      },
+      {
+        "name": "US FDA – What You Need to Know About Preventing Listeria Infections",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-preventing-listeria-infections"
+      }
+    ],
+    "analog": "pate",
+    "notes": "The 3–4 day opened figure is New Mexico State's for cooked meat dishes; the 1–2 month freezer figure is borrowed from the FoodKeeper entry 'pate'. Note that FoodKeeper contradicts itself on potted meats — its 'pate' record says 1 to 2 days refrigerated while its 'pate, meat' and 'pate, poultry' records say 7 days — which is why this record does not simply defer to it and gives a sourced cooked-meat figure instead. On safety, both agencies cited are explicit: FDA lists 'refrigerated pâtés or meat spreads' among the foods that carry a Listeria risk, and Health Canada tells pregnant people to choose 'pâtés and meat spreads sold in cans, or that don't have to be refrigerated until they're opened' instead. Rillettes is a low-acid cooked meat held under fat — an anaerobic environment — which is also why it belongs in the refrigerator and not in a larder, however traditional the crock looks."
+  },
+  {
+    "slug": "terrine",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Terrine",
+    "subtitle": "coarse forcemeat baked in a mould, usually sealed with fat or jelly",
+    "keywords": [
+      "terrine",
+      "terrine de campagne",
+      "country terrine",
+      "meat loaf terrine",
+      "法式肉凍",
+      "陶罐肉派",
+      "法式凍派",
+      "鄉村肉凍",
+      "テリーヌ",
+      "パテ・ド・カンパーニュ",
+      "肉のテリーヌ",
+      "terrina",
+      "terrina de carne",
+      "paté en terrina"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "An uncut terrine still sealed under its layer of fat or aspic keeps to the date on it at or below 4 °C, and a home-made one should be pressed, sealed and eaten within about a week. The seal is not a garnish — it is what keeps air off a cooked, low-acid, ready-to-eat meat. Traditional practice of maturing a terrine for two or three days before cutting is about flavour and is done in the refrigerator, not the larder."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "Cut it and it is a cooked meat dish: 3 to 4 days at or below 4 °C, New Mexico State's figure. Press cling film directly onto the cut face so it does not grey, and keep the remaining fat or jelly layer over the rest. If it was made with liver, expect it to darken at the cut face within hours — that is oxidation, not spoilage."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freeze it whole or in thick slabs rather than in slices. Aspic does not survive freezing and will weep out on thawing."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      },
+      {
+        "name": "Health Canada – Food safety for pregnant women",
+        "url": "https://www.canada.ca/en/health-canada/services/food-safety-vulnerable-populations/food-safety-pregnant-women.html"
+      }
+    ],
+    "analog": "pate",
+    "notes": "Same reasoning as the rillettes record. The 3–4 day cut figure is New Mexico State's cooked-meat-dish line; the freezer figure is borrowed from the FoodKeeper entry 'pate'. FoodKeeper's own pâté records disagree with each other (1–2 days on 'pate', 7 days on 'pate, meat' and 'pate, poultry'), which is why a sourced cooked-meat figure is used for the cut terrine instead. Health Canada is cited for the group-specific advice: refrigerated pâtés and meat spreads are on the list of foods pregnant people should avoid, with canned or shelf-stable versions given as the safe substitute. A terrine is exactly that category of food however rustic the dish it is baked in."
+  },
+  {
+    "slug": "saucisson-sec-whole",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Saucisson sec",
+    "subtitle": "whole dry-cured sausage, uncut",
+    "keywords": [
+      "saucisson sec",
+      "saucisson",
+      "dry cured sausage",
+      "french salami",
+      "rosette de lyon",
+      "法式乾腸",
+      "索西頌乾香腸",
+      "法國乾式香腸",
+      "風乾香腸",
+      "整條乾香腸",
+      "ソーシソン・セック",
+      "ソーシソン",
+      "フランス産ドライソーセージ",
+      "乾燥ソーセージ",
+      "salchichón seco",
+      "salchichón francés",
+      "embutido curado"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "A whole, uncut, fully dried saucisson hangs. Somewhere cool, dry and airy — a larder, a cellar, a north-facing pantry, 12–16 °C — with air on all sides and never in a plastic bag, which sweats it. It goes on drying and hardening for as long as you leave it, which is not spoilage: eventually it is too hard to slice pleasantly, and that is the practical limit rather than a safety one. The powdery white bloom on the casing is a deliberate Penicillium culture and is normal. Fuzzy green, grey or black growth, a slimy casing, or a sour or rancid smell is not, and Hong Kong's CFS's position on visibly mouldy food is to throw it out because the hyphae go deeper than the patch."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "The fridge is a fine second choice, and the right one in a warm humid climate. Wrap the sausage in paper, not plastic, so it can still lose moisture. It will dry harder and faster in there than in a cellar because a fridge is a dehumidifier."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Health Canada – Food safety for pregnant women",
+        "url": "https://www.canada.ca/en/health-canada/services/food-safety-vulnerable-populations/food-safety-pregnant-women.html"
+      },
+      {
+        "name": "Hong Kong Centre for Food Safety – Mouldy Food and Food Safety",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_199_04.html"
+      }
+    ],
+    "analog": "prosciutto",
+    "notes": "Written separately from the sliced record on purpose, for the same reason the jamón records are split: a whole hanging sausage and an opened pack of slices are not the same food and one timeline cannot honestly cover both. No agency publishes a hanging time for a whole saucisson, so the pantry entry carries a rule rather than a number. The 2–3 month refrigerated figure is borrowed from the FoodKeeper entry 'prosciutto' — the nearest published whole-dry-cured figure — and is quality guidance, not a safety limit. Health Canada is cited for the classification that matters to vulnerable readers: it puts 'dried and salted deli meats, such as salami and pepperoni' among the safer choices for pregnant people, in contrast to non-dried deli meats. That is a real and often-missed distinction — dryness, not refrigeration, is what makes this product stable."
+  },
+  {
+    "slug": "saucisson-sec-sliced",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Saucisson sec, sliced",
+    "subtitle": "pre-sliced packs and anything cut at the counter",
+    "keywords": [
+      "sliced saucisson",
+      "sliced dry sausage",
+      "sliced salami",
+      "charcuterie slices",
+      "乾香腸切片",
+      "法式乾腸片",
+      "薄切乾香腸",
+      "真空包裝乾香腸",
+      "ソーシソン スライス",
+      "スライスドライソーセージ",
+      "サラミスライス",
+      "salchichón en lonchas",
+      "salchichón loncheado",
+      "embutido en lonchas"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "Unopened vacuum or modified-atmosphere packs, refrigerated at or below 4 °C, to the printed date. Lay them flat; a pack that has puffed up has lost its seal."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 5,
+          "unit": "days",
+          "tips": "This is the number that matters, and it is much shorter than people expect from a sausage that hangs happily in a cellar when whole. Slicing turns a small, dry, protected surface into a large, thin, freshly handled one — the moment where post-curing contamination and rapid oxidation both come in. Re-wrap the slices tightly touching each other and eat within a few days; they go brown, waxy and hard at the edges long before they become unsafe."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "A compromise. The fat oxidises and the texture goes greasy; use thawed slices in a stew or on a pizza rather than on a board."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Health Canada – Food safety for pregnant women",
+        "url": "https://www.canada.ca/en/health-canada/services/food-safety-vulnerable-populations/food-safety-pregnant-women.html"
+      },
+      {
+        "name": "Ohio State University Extension HYG-5403 – Refrigerator Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5403"
+      }
+    ],
+    "analog": "salami-pre-packaged-luncheon-deli-meat",
+    "notes": "The unopened, opened and frozen figures are all borrowed from the FoodKeeper entry 'salami, pre-packaged luncheon/deli meat' (2 weeks, 3–5 days, 1–2 months); Ohio State's line for opened luncheon meat, 3 to 5 days, is the independent check on the number that matters. Health Canada is cited for the rule that dried, salted deli meats are the safer class for pregnant readers — but note that the safety of a dry sausage rests on it being dry, and a pack of thin slices in a humid modified atmosphere is much less dry at its surface than the salami it was cut from."
+  },
+  {
+    "slug": "mortadella",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Mortadella",
+    "subtitle": "cooked emulsified sausage — not a dry-cured one",
+    "keywords": [
+      "mortadella",
+      "mortadella bologna",
+      "bologna sausage",
+      "cooked sausage",
+      "摩德代拉",
+      "摩塔德拉香腸",
+      "義大利大香腸",
+      "波隆那香腸",
+      "熟火腿腸",
+      "モルタデッラ",
+      "モルタデラ",
+      "ボローニャソーセージ",
+      "mortadela",
+      "mortadela italiana",
+      "salchicha cocida"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "Unopened, at or below 4 °C, to the printed date. Mortadella is the odd one out on a charcuterie board: it is not dried and not cured to shelf stability, it is a fine meat emulsion cooked slowly in a mould. It is a cooked, moist, low-acid, ready-to-eat meat and it keeps like one, not like a salami."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 5,
+          "unit": "days",
+          "tips": "Ohio State gives opened luncheon meat 3 to 5 days, and freshly counter-sliced mortadella is exactly that. Wrap it airtight, keep it in the coldest part of the fridge, and do not leave it out on the board for hours — Listeria grows at refrigeration temperature and a moist cooked meat with a long chilled shelf life is the classic vehicle."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "It survives freezing better than most emulsified sausages because of the fat cubes, but the texture goes slightly spongy and weepy. Freeze in thick pieces, not slices."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5403 – Refrigerator Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5403"
+      },
+      {
+        "name": "Health Canada – Food safety for pregnant women",
+        "url": "https://www.canada.ca/en/health-canada/services/food-safety-vulnerable-populations/food-safety-pregnant-women.html"
+      },
+      {
+        "name": "Public Health Agency of Canada – Listeria (listeriosis): Spread, prevention and risks",
+        "url": "https://www.canada.ca/en/public-health/services/diseases/listeriosis/prevention-listeriosis.html"
+      }
+    ],
+    "analog": "luncheon-meat-or-poultry-pre-packaged",
+    "notes": "The point of this record is that mortadella is put on the same plate as coppa and bresaola and does not belong on the same timeline. The 3–5 day opened figure is Ohio State's, directly sourced; the unopened and frozen figures are borrowed from the FoodKeeper entry 'luncheon meat or poultry, pre-packaged'. Health Canada draws the distinction explicitly, and it lands on mortadella: 'non-dried deli meats, such as bologna, roast beef and turkey breast' are on the list pregnant people should avoid, while dried and salted deli meats such as salami are given as the safer choice. Mortadella is bologna's ancestor and sits on the avoid side. PHAC is cited for the underlying reason — ready-to-eat meats including non-dried deli meats are named as higher-risk for Listeria, which grows at refrigerator temperature."
+  },
+  {
+    "slug": "coppa",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Coppa",
+    "subtitle": "capocollo — dry-cured pork neck, whole and sliced",
+    "keywords": [
+      "coppa",
+      "capocollo",
+      "capicola",
+      "gabagool",
+      "cured pork neck",
+      "義式豬頸火腿",
+      "卡波克洛",
+      "科帕火腿",
+      "醃豬頸肉",
+      "風乾豬頸肉",
+      "コッパ",
+      "カポコッロ",
+      "豚肩ロースの生ハム",
+      "coppa",
+      "capocollo",
+      "cabecero de lomo curado"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "A whole, uncut, fully cured coppa in its casing can hang in a cool, dry, airy larder at 12–16 °C like any dry-cured whole muscle, and will keep hardening. Once you cut into it, cover the face with a little of its own fat or a cloth and move it to the refrigerator — an opened cut surface on a piece this fatty oxidises quickly at room temperature."
+        }
+      },
+      "fridge": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "A whole piece, or an unopened vacuum pack, wrapped in paper at or below 4 °C. Coppa is dry-cured pork neck — the fat is intramuscular and abundant, which is what makes it taste good and what eventually makes it go rancid rather than mouldy."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 5,
+          "unit": "days",
+          "tips": "Sliced coppa is on the same clock as any sliced cured meat: a few days, tightly re-wrapped, at or below 4 °C. Whole and sliced are deliberately not given one number here. If the slices have gone dull brown at the edges and smell of old fat, that is rancidity, and no amount of refrigeration reverses it."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Health Canada – Food safety for pregnant women",
+        "url": "https://www.canada.ca/en/health-canada/services/food-safety-vulnerable-populations/food-safety-pregnant-women.html"
+      },
+      {
+        "name": "Ohio State University Extension HYG-5403 – Refrigerator Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5403"
+      }
+    ],
+    "analog": "prosciutto",
+    "notes": "The 2–3 month whole figure is borrowed from the FoodKeeper entry 'prosciutto', the nearest published whole-dry-cured-muscle figure; the 3–5 day sliced figure follows FoodKeeper's 'salami, pre-packaged' and is corroborated by Ohio State's 3–5 days for opened luncheon meat. The pantry entry is a rule, not a number, because nobody publishes a hanging time. Health Canada is cited for the dried-and-salted versus non-dried classification. Note that coppa cured with a high proportion of fat is a rancidity problem long before it is a microbiological one — which is the opposite of mortadella, three records above."
+  },
+  {
+    "slug": "bresaola",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Bresaola",
+    "subtitle": "air-dried salted beef, whole and sliced",
+    "keywords": [
+      "bresaola",
+      "bresaola della valtellina",
+      "air dried beef",
+      "cured beef",
+      "義式風乾牛肉",
+      "布雷薩歐拉",
+      "風乾牛肉",
+      "醃製牛肉片",
+      "ブレザオラ",
+      "ブレサオラ",
+      "牛肉の生ハム",
+      "bresaola",
+      "cecina de vacuno",
+      "carne curada de vacuno"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "A whole piece or an unopened vacuum pack, at or below 4 °C, to its printed date. Bresaola is very lean — it is cured beef topside with almost no fat — so unlike coppa it does not go rancid; it simply keeps drying, and a whole piece left too long becomes hard and dark rather than unsafe."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 5,
+          "unit": "days",
+          "tips": "Sliced bresaola is cut paper-thin and dries out faster than any other meat on this list. Keep the slices touching, wrapped airtight, at or below 4 °C, and eat within a few days. Grey-brown edges mean it has oxidised; deep red is what you want. Dress it at the table, not in the fridge — the oil and lemon will cure it further and turn it grey."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Not recommended for anything you want to eat as a carpaccio. Lean and thin is exactly what freezer burn ruins."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Health Canada – Food safety for pregnant women",
+        "url": "https://www.canada.ca/en/health-canada/services/food-safety-vulnerable-populations/food-safety-pregnant-women.html"
+      },
+      {
+        "name": "Ohio State University Extension HYG-5403 – Refrigerator Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5403"
+      }
+    ],
+    "analog": "prosciutto",
+    "notes": "Whole-piece figures borrowed from the FoodKeeper entry 'prosciutto'; sliced and frozen figures follow FoodKeeper's 'salami, pre-packaged', with Ohio State's 3–5 days for opened luncheon meat as the corroborating source for the sliced number. No agency publishes a bresaola timeline. Health Canada is cited for the classification of dried, salted cured meats as the safer choice for pregnant readers relative to non-dried deli meats; bresaola qualifies, but a pack of thin slices sitting in a modified atmosphere is a wetter surface than the whole muscle it came from, which is why the two are given separate numbers."
+  },
+  {
+    "slug": "speck",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Speck",
+    "subtitle": "Alto Adige style — dry-cured and cold-smoked ham",
+    "keywords": [
+      "speck",
+      "speck alto adige",
+      "südtiroler speck",
+      "smoked prosciutto",
+      "smoked cured ham",
+      "煙燻火腿",
+      "南提洛煙燻火腿",
+      "斯佩克火腿",
+      "煙燻生火腿",
+      "シュペック",
+      "スペック",
+      "燻製生ハム",
+      "speck",
+      "jamón ahumado tirolés",
+      "jamón curado ahumado"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "A whole or half piece with the rind on, or an unopened vacuum pack, wrapped in paper at or below 4 °C. Speck is boned ham that is both dry-salted and cold-smoked over beech at low temperature, then matured for months — the smoke is a surface treatment and a flavour, and it contributes to preservation, but the salt and the drying are what actually make it stable."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 5,
+          "unit": "days",
+          "tips": "Sliced or opened, a few days at or below 4 °C, tightly wrapped. Do not read the word 'smoked' as meaning 'cooked': cold-smoking is done at temperatures far too low to cook or pasteurise anything, which is the same fact that makes cold-smoked fish a Listeria concern. In speck, unlike in smoked salmon, the salt and the long dry cure do the safety work — but the smoke by itself does not."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freeze it in a block rather than sliced; the fat oxidises quickly in thin slices."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Hong Kong Centre for Food Safety – Cold-smoked Salmon and Listeria monocytogenes",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_106_01.html"
+      },
+      {
+        "name": "Health Canada – Food safety for pregnant women",
+        "url": "https://www.canada.ca/en/health-canada/services/food-safety-vulnerable-populations/food-safety-pregnant-women.html"
+      }
+    ],
+    "analog": "prosciutto",
+    "notes": "Numbers borrowed from the FoodKeeper entries 'prosciutto' (2–3 months whole refrigerated, 1 month frozen) and 'salami, pre-packaged' (3–5 days opened). The CFS page is cited for one specific claim used in the tips — that cold-smoking is carried out at a temperature chosen not to cook the flesh (it gives no higher than 33 °C for salmon) and is therefore 'generally insufficient to eliminate but only reduce the level of L. monocytogenes'. That page is about fish, and speck is not fish; it is quoted here only to correct the common belief that a smoked meat has been cooked. Health Canada is cited for the dried-and-salted classification."
+  },
+  {
+    "slug": "black-pudding",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Black pudding",
+    "subtitle": "cooked blood sausage — British and Irish style",
+    "keywords": [
+      "black pudding",
+      "blood sausage",
+      "blood pudding",
+      "boudin noir",
+      "blutwurst",
+      "血腸",
+      "黑布丁",
+      "英式血腸",
+      "豬血腸",
+      "米血腸",
+      "ブラックプディング",
+      "ブラッドソーセージ",
+      "血のソーセージ",
+      "morcilla inglesa",
+      "morcilla",
+      "salchicha de sangre"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 3,
+          "unit": "days",
+          "tips": "Ohio State gives fresh or smoked sausage 2 to 3 days refrigerated, and that is the right bracket for a chilled black pudding from a butcher. Keep it at or below 4 °C in its casing. It is already cooked when you buy it, but it is a moist, low-acid, blood-and-oatmeal food and it is not a cured keeper — always fry or grill it through before eating."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 5,
+          "unit": "days",
+          "tips": "A vacuum-packed supermarket ring keeps to its printed date sealed; once opened, wrap it and use it within a few days. Cooked slices left over from breakfast are a cooked meat dish: 3 to 4 days at or below 4 °C."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freezes well, and better sliced than whole so you can take out what you need. Fry the slices from frozen over a lower heat."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5403 – Refrigerator Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5403"
+      },
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      }
+    ],
+    "analog": "sausage-fully-cooked-smoked-links-kielbasa",
+    "notes": "The 2–3 day figure is Ohio State's for fresh or smoked sausage and the 3–4 day leftovers figure is New Mexico State's for cooked meat dishes; the freezer figure is borrowed from the FoodKeeper entry 'sausage, fully cooked smoked links, kielbasa' (1–2 months). Spanish morcilla already has its own record from an earlier batch and is a different enough product — rice or onion bound, often part-dried — to keep separate. The mechanism worth remembering: black pudding contains blood and cereal and almost no salt or acid by cured-meat standards, so nothing about it is preserved. It is a fresh cooked sausage that happens to be dark."
+  },
+  {
+    "slug": "haggis",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Haggis",
+    "subtitle": "sheep's pluck, oatmeal and suet in a casing",
+    "keywords": [
+      "haggis",
+      "scottish haggis",
+      "sheep pluck pudding",
+      "oatmeal pudding",
+      "哈吉斯",
+      "蘇格蘭羊雜布丁",
+      "羊肚雜碎布丁",
+      "蘇格蘭羊雜腸",
+      "ハギス",
+      "スコットランドのハギス",
+      "羊の内臓料理",
+      "haggis",
+      "asadura escocesa",
+      "embutido escocés de vísceras"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 3,
+          "unit": "days",
+          "tips": "A butcher's haggis, unwrapped and in its natural or synthetic casing, keeps like a fresh sausage — Ohio State gives fresh or smoked sausage 2 to 3 days at or below 4 °C. A vacuum-packed supermarket one keeps to its printed date instead. It is sold already cooked, but it is offal-based, moist and low-acid, so it must always be reheated right through before eating."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "Reheated haggis and its leftovers are a cooked meat dish: 3 to 4 days at or below 4 °C, New Mexico State's figure. Cool it quickly and refrigerate within two hours; a whole hot haggis is a dense mass that holds warmth for a very long time, which is the real hazard with it."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freezes well raw-packed or cooked. Thaw it fully in the refrigerator before reheating — a part-frozen centre in something this dense will not come up to temperature."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5403 – Refrigerator Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5403"
+      },
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      }
+    ],
+    "analog": "sausage-fully-cooked-smoked-links-kielbasa",
+    "notes": "The 2–3 day and 3–4 day figures are Ohio State's and New Mexico State's respectively; the freezer figure is borrowed from the FoodKeeper entry 'sausage, fully cooked smoked links, kielbasa'. No agency publishes a haggis timeline. The point worth making is the cooling one: haggis is usually reheated as a single dense mass, often in an oven for an hour or more, and dense low-acid offal cooling slowly on a worktop is a textbook Clostridium perfringens situation. Divide it and chill it fast."
+  },
+  {
+    "slug": "sauerkraut-fresh",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sauerkraut, live fermented",
+    "subtitle": "from the crock or the chiller cabinet — unpasteurised",
+    "keywords": [
+      "sauerkraut fresh",
+      "live sauerkraut",
+      "raw sauerkraut",
+      "unpasteurised sauerkraut",
+      "fermented cabbage",
+      "德式酸菜",
+      "生酸菜",
+      "活菌酸菜",
+      "未殺菌酸白菜",
+      "發酵高麗菜",
+      "ザワークラウト",
+      "生ザワークラウト",
+      "非加熱ザワークラウト",
+      "発酵キャベツ",
+      "chucrut",
+      "chucrut fresco",
+      "chucrut sin pasteurizar",
+      "col fermentada"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 3,
+          "max": 6,
+          "unit": "weeks",
+          "tips": "A crock at room temperature is fermenting, not storing, and this is the only stage that belongs out of the fridge. USDA's recommendation, via NCHFP, is 70–75 °F (21–24 °C) while fermenting, where kraut is fully fermented in about 3 to 4 weeks; at 60–65 °F (15–18 °C) it takes 5 to 6 weeks; above 75 °F the kraut may go soft. Keep the cabbage under the brine the whole time and skim the surface. Do not cut back the salt — NCHFP is explicit that the salt is not seasoning, it is what favours the lactic bacteria over everything else."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 4,
+          "max": 6,
+          "unit": "months",
+          "tips": "Once it is fully fermented, tightly covered in the refrigerator. NCHFP says fully fermented kraut keeps 'for several months' this way, and gives 4 to 6 months for fully fermented pickles in their original container, provided they are refrigerated and surface scum and moulds are removed regularly — Ohio State gives the same 4 to 6 months. Check the jar a couple of times a week and skim. The kraut goes on souring slowly and softening; it is still fermenting, just very slowly."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "National Center for Home Food Preservation – Sauerkraut",
+        "url": "https://nchfp.uga.edu/how/ferment/recipes/sauerkraut/"
+      },
+      {
+        "name": "National Center for Home Food Preservation – Fermented Dill Pickles",
+        "url": "https://nchfp.uga.edu/how/ferment/recipes/dill-pickles/"
+      },
+      {
+        "name": "Ohio State University Extension HYG-5342 – Making Fermented Dill Pickles",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5342"
+      }
+    ],
+    "analog": null,
+    "notes": "Fully sourced. Live kraut and jarred kraut are given separate records because they are not the same food: this one is a living culture with an active population of lactic bacteria and a limited, actively-managed refrigerated life, the other is a heat-processed shelf-stable preserve. NCHFP's kraut page gives the fermentation temperatures and times and says fully fermented kraut keeps 'several months' refrigerated but does not put a number on it; the 4–6 month figure comes from the same centre's fermented-pickle guidance and from Ohio State, both of which state it for fully fermented pickles in the original container. NCHFP's alternative for longer storage is canning — which turns it into the other record."
+  },
+  {
+    "slug": "sauerkraut-jarred",
+    "category": "shelf-stable",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sauerkraut, jarred or canned",
+    "subtitle": "pasteurised and shelf-stable",
+    "keywords": [
+      "jarred sauerkraut",
+      "canned sauerkraut",
+      "pasteurised sauerkraut",
+      "shelf stable sauerkraut",
+      "罐裝酸菜",
+      "瓶裝德式酸菜",
+      "殺菌酸菜",
+      "德國酸菜罐頭",
+      "瓶詰めザワークラウト",
+      "缶詰ザワークラウト",
+      "加熱殺菌ザワークラウト",
+      "chucrut en conserva",
+      "chucrut enlatado",
+      "chucrut pasteurizado"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Ohio State gives unopened canned foods 12 months in the pantry, and sauerkraut is a high-acid canned good, which is the easy end of canning. Cool, dark and dry. A jar with a bulging lid, a rusted or dented seam, or that hisses and smells wrong when opened goes in the bin unopened where possible."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Ohio State gives opened canned pickles and olives 1 to 2 months refrigerated, and jarred kraut keeps the same way: the acid does the work, the cold slows the yeasts and moulds that eventually grow on the surface. Keep the cabbage under its liquid and use a clean fork. This is a much longer life than the live version has — because there is nothing alive in it."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      },
+      {
+        "name": "National Center for Home Food Preservation – Sauerkraut",
+        "url": "https://nchfp.uga.edu/how/ferment/recipes/sauerkraut/"
+      }
+    ],
+    "analog": "canned-goods-high-acid",
+    "notes": "Both figures are Ohio State's, directly sourced. The FoodKeeper entry 'canned goods, high acid' explicitly lists sauerkraut in its subtitle and gives 12–18 months unopened and 5–7 days refrigerated after opening; it is named as the analogue here, but its 5–7 day figure is for canned goods generally and is far shorter than Ohio State's specific pickle-and-olive figure, so this record follows Ohio State. NCHFP is cited for the fact that canning is the recommended route for storing fully fermented kraut beyond a few refrigerated months — that is the step that turns the live product into this one, and it is why the two records exist separately."
+  },
+  {
+    "slug": "gherkins-fermented",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Gherkins, salt-brined",
+    "subtitle": "live fermented — barrel, crock or the deli's own",
+    "keywords": [
+      "fermented gherkins",
+      "brined cucumbers",
+      "sour pickles",
+      "half sour pickles",
+      "barrel pickles",
+      "鹽漬酸黃瓜",
+      "發酵小黃瓜",
+      "活菌醃黃瓜",
+      "酸黃瓜",
+      "乳酸發酵黃瓜",
+      "発酵ピクルス",
+      "塩漬けきゅうり",
+      "サワーピクルス",
+      "pepinillos fermentados",
+      "pepinillos en salmuera",
+      "encurtidos fermentados"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "weeks",
+          "tips": "As with kraut, room temperature is the fermentation, not the storage. NCHFP ferments dill pickles at 70–75 °F (21–24 °C) for about 3 to 4 weeks, and notes that regular dill pickles and sauerkraut are fermented and cured for about 3 weeks. Keep the cucumbers weighted under the brine and check the crock several times a week — Ohio State's instruction is to 'promptly remove surface scum or mold', because scum yeasts on the surface raise the pH and let softening organisms in."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 4,
+          "max": 6,
+          "unit": "months",
+          "tips": "NCHFP and Ohio State agree: fully fermented pickles may be stored in the original container for about 4 to 6 months, provided they are refrigerated and surface scum and moulds are removed regularly. They keep getting softer and more sour. NCHFP's advice for storing them longer is to can them — heat the brine to boiling, simmer 5 minutes, pack and process — which of course kills the culture."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "National Center for Home Food Preservation – Fermented Dill Pickles",
+        "url": "https://nchfp.uga.edu/how/ferment/recipes/dill-pickles/"
+      },
+      {
+        "name": "Ohio State University Extension HYG-5342 – Making Fermented Dill Pickles",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5342"
+      }
+    ],
+    "analog": null,
+    "notes": "Fully sourced from two independent extension services that give the same number. This record is kept apart from the vinegar-pickled jar for the same reason the two sauerkraut records are separate: a live salt-brined gherkin is preserved by an active lactic fermentation that has to be managed — skimmed, kept submerged, refrigerated — and a pasteurised jar of vinegar gherkins is preserved by acetic acid and heat and needs none of that. Selling both as 'pickles' hides a real difference in how long they keep and what you have to do."
+  },
+  {
+    "slug": "gherkins-pickled",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Gherkins in vinegar",
+    "subtitle": "cornichons and the ordinary jar — pasteurised",
+    "keywords": [
+      "gherkins",
+      "cornichons",
+      "pickled gherkins",
+      "vinegar pickles",
+      "sweet pickles",
+      "醃小黃瓜",
+      "酸黃瓜",
+      "法式小酸黃瓜",
+      "醋漬小黃瓜",
+      "コルニション",
+      "ガーキン",
+      "ピクルス",
+      "きゅうりのピクルス",
+      "pepinillos",
+      "pepinillos en vinagre",
+      "pepinillos encurtidos"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Ohio State gives unopened canned foods 12 months. Cool, dark, dry, and out of the sun — light bleaches them and softens the texture long before anything else goes wrong. Vinegar-pickled gherkins are a high-acid food, so a sealed jar is genuinely stable; the failure modes are softening and colour loss, not safety, unless the seal has gone."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Ohio State gives opened canned pickles and olives 1 to 2 months refrigerated. Keep the gherkins below the surface of the vinegar and use a clean fork — a finger or a used fork is how the white surface film starts. Once they have gone soft and hollow they are past it, which usually happens well before two months if the jar has been in and out of a warm kitchen."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "pickles",
+    "notes": "Both numbers are Ohio State's, directly sourced. The FoodKeeper entry 'pickles' is named as the analogue and gives 1 year in the pantry and 1 to 3 months refrigerated after opening — slightly more generous than Ohio State's 1 to 2 months, and this record takes the more conservative of the two. Written separately from the salt-brined record because the two are preserved by different mechanisms and keep for very different lengths of time once opened; the label word 'pickles' covers both and tells you nothing."
+  },
+  {
+    "slug": "pickled-herring",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Pickled herring",
+    "subtitle": "rollmops, matjes, sill — salted and marinated, never cooked",
+    "keywords": [
+      "pickled herring",
+      "rollmops",
+      "matjes",
+      "soused herring",
+      "sill",
+      "surstromming",
+      "醃鯡魚",
+      "酸漬鯡魚",
+      "鹽漬鯡魚",
+      "醋漬鯡魚",
+      "鯡魚捲",
+      "ニシンの酢漬け",
+      "ニシンの塩漬け",
+      "マチェス",
+      "ロールモップス",
+      "arenque en escabeche",
+      "arenque marinado",
+      "arenque encurtido"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 4,
+          "max": 6,
+          "unit": "months",
+          "tips": "An unopened commercial glass jar in wine or vinegar sauce, kept at or below 4 °C — never at room temperature, whatever the shelf you bought it from looked like. Home-marinated or deli-counter herring is a different thing altogether: it is a lightly salted raw fish sitting in a mild acid, it is not preserved to any meaningful degree, and it should be treated as a few days' food."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "Once the jar is open, keep every fillet submerged in its brine or sauce at or below 4 °C and use a clean fork. Cold-marinated fish is a ready-to-eat food with a long chilled shelf life, which is precisely the category the FDA and Health Canada flag for Listeria — it grows at refrigerator temperature and the longer the food sits, the more of it there is."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Read this before you pickle your own. Salt and acid do not kill parasites; freezing does. The FDA's parasite-destruction conditions are −4 °F (−20 °C) or below for 7 days total, or −31 °F (−35 °C) until solid then held at −35 °C for 15 hours, or −35 °C until solid then held at −20 °C for 24 hours — and it notes these may not suit fish thicker than 6 inches. The FDA states in terms that 'brining and pickling may reduce the parasite hazard in a fish, but they do not eliminate it', and that nematode larvae have survived 28 days in a 21 %-salt brine. So the freezing is a treatment applied to the raw fish before marinating, not a way of storing the finished jar — pickled herring frozen after the fact goes mushy and cloudy."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Fish and Fishery Products Hazards and Controls Guidance, Chapter 5: Parasites",
+        "url": "https://www.fda.gov/files/food/published/Fish-and-Fishery-Products-Hazards-and-Controls-Guidance-Chapter-5-Download.pdf"
+      },
+      {
+        "name": "US FDA – What You Need to Know About Preventing Listeria Infections",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-preventing-listeria-infections"
+      },
+      {
+        "name": "Public Health Agency of Canada – Listeria (listeriosis): Spread, prevention and risks",
+        "url": "https://www.canada.ca/en/public-health/services/diseases/listeriosis/prevention-listeriosis.html"
+      }
+    ],
+    "analog": "herring-glass-packed-wine-sauce",
+    "notes": "The parasite paragraph is quoted almost verbatim from FDA Chapter 5 and is the reason this record exists — it also names 'green herring (lightly brined herring)' among the traditional preparations implicated in seafood-borne parasitic infection. The 4–6 month unopened figure is borrowed from the FoodKeeper entry 'herring, glass packed, in wine sauce'; the 1–2 week opened figure is our own conservative reading and is not published anywhere, which is why it is deliberately short. FDA and PHAC are cited for the Listeria rule about refrigerated ready-to-eat fish, not for any number. A separate FoodKeeper record already covers the unopened commercial jar; this one exists to carry the hazard and the opened and home-made cases, which that record does not touch."
+  },
+  {
+    "slug": "rye-bread",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Rye bread",
+    "subtitle": "sour rye, pumpernickel, Vollkornbrot",
+    "keywords": [
+      "rye bread",
+      "sour rye",
+      "pumpernickel",
+      "vollkornbrot",
+      "roggenbrot",
+      "black bread",
+      "裸麥麵包",
+      "黑麥麵包",
+      "德式黑麥麵包",
+      "酸種黑麥麵包",
+      "全麥裸麥麵包",
+      "ライ麦パン",
+      "ライブレッド",
+      "黒パン",
+      "プンパニッケル",
+      "pan de centeno",
+      "pan negro",
+      "pan integral de centeno"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 4,
+          "max": 7,
+          "unit": "days",
+          "tips": "Cut side down on a board under a cloth, or in a paper bag inside a bread bin. A dense sour rye is the best keeper of any bread here: it is acidic from the rye sour, and rye's pentosans hold water so it dries slowly. A sealed, sliced, dark rye pack from the supermarket keeps to its printed date and then moulds fast once opened, because the pack has been holding humidity against it."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Don't, unless you are only going to toast it. Refrigeration is the worst temperature for bread: a controlled study of storage conditions found pan wheat bread firmed to 424 % of its initial value after 10 days at 8.2 °C against 390 % at 21.9 °C. Cold does not stop staling, it accelerates it — the amylopectin side chains recrystallise fastest a little above freezing. The same study found no visible mould at 8.2 °C over 10 days, so the fridge buys you mould-freedom at the cost of texture. That is only a good trade for bread you are going to toast."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 3,
+          "max": 3,
+          "unit": "months",
+          "tips": "Freezing does stop staling, because the starch cannot recrystallise below the glass transition. Slice the loaf first, freeze it in a bag, toast from frozen. This is the right answer for any bread you cannot finish in a few days."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Impact of Storing Condition on Staling and Microbial Spoilage Behavior of Bread and Their Contribution to Prevent Food Waste (Foods, PMC7824337)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7824337/"
+      },
+      {
+        "name": "Ohio State University Extension HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "whole-wheat-bread-commercially-baked-and-pre-sliced",
+    "notes": "The failure mode for bread is staling and mould, not pathogens, and the mechanism is worth more than a day count. The firming percentages and the no-mould-at-8-°C finding are quoted directly from the study; its explanation of staling is that 'the side chains of the amylopectin molecules reorganize, which results in the formation of double helices of the outer branches and increases the rigidity'. The 4–7 day pantry figure is our own, extrapolated from the study's wheat-bread mould onset (first visible mycelium at day 4 to 6 at room temperature, depending on wrapping) plus rye's lower pH, and it is longer than Ohio State's blanket 'Bread, rolls — 3 days'. Treat it as quality guidance. The three-month freezer figure is borrowed from the FoodKeeper entry 'whole wheat bread, commercially baked & pre-sliced', which also carries the same warning against refrigerating bread."
+  },
+  {
+    "slug": "sourdough-bread",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sourdough bread",
+    "subtitle": "naturally leavened wheat loaf, thick crust",
+    "keywords": [
+      "sourdough",
+      "sourdough bread",
+      "naturally leavened bread",
+      "levain",
+      "pain au levain",
+      "酸種麵包",
+      "天然酵母麵包",
+      "老麵麵包",
+      "歐式酸種麵包",
+      "サワードウ",
+      "サワードウブレッド",
+      "天然酵母パン",
+      "自家製酵母パン",
+      "pan de masa madre",
+      "pan de levadura natural",
+      "masa madre"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 3,
+          "max": 5,
+          "unit": "days",
+          "tips": "Cut face down on a wooden board, or in a paper bag or a cloth — not in plastic. A study that stored bread in plastic bags, paper bags and bread boxes found the paper bag held the lowest humidity (80.5 %) and the latest mould, first visible at day 5 or 6, while the plastic bag held 89.9 % and showed mould from day 4 or 5. A thick-crusted sourdough loaf holds its own moisture and the acidity of the leaven slows mould further, which is why a whole loaf outlasts a sliced one by days."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "No. The same study measured a mixed-type sourdough firming to 398 % of its initial value over 10 days at 8.2 °C against 330 % at 21.9 °C — refrigeration made it noticeably staler than leaving it on the counter did. The fridge is only defensible for bread destined for the toaster."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 3,
+          "max": 3,
+          "unit": "months",
+          "tips": "Freeze it the day it cools, sliced, in a sealed bag. Or freeze half the loaf whole and refresh it from frozen in a 200 °C oven for 20 minutes — the crust comes back properly, which it never does from a slice."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Impact of Storing Condition on Staling and Microbial Spoilage Behavior of Bread and Their Contribution to Prevent Food Waste (Foods, PMC7824337)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7824337/"
+      },
+      {
+        "name": "Hong Kong Centre for Food Safety – Mouldy Food and Food Safety",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_199_04.html"
+      }
+    ],
+    "analog": "whole-wheat-bread-commercially-baked-and-pre-sliced",
+    "notes": "The sourdough firming figures (398 % at 8.2 °C versus 330 % at 21.9 °C over 10 days) and the wrapping-and-humidity mould results are quoted directly from the study, which tested a mixed-type sourdough among its samples — an unusually good fit for this record. The 3–5 day pantry figure is our reading of those mould-onset results for a whole crusted loaf and is not itself a published figure; the three-month freezer figure is borrowed from the FoodKeeper entry 'whole wheat bread, commercially baked & pre-sliced'. CFS is cited for what to do when you do find mould: throw the loaf out rather than cut round it, because 'hyphae of the mould can invade deeply into the food' — and bread is about as porous as food gets, so this is the case where that advice is least arguable."
+  },
+  {
+    "slug": "baguette",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Baguette",
+    "subtitle": "lean crusty bread — flour, water, salt, yeast",
+    "keywords": [
+      "baguette",
+      "french bread",
+      "french stick",
+      "pain",
+      "crusty bread",
+      "法式長棍",
+      "法國麵包",
+      "長棍麵包",
+      "法棍",
+      "バゲット",
+      "フランスパン",
+      "バタール",
+      "baguette",
+      "barra de pan",
+      "pan francés"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 4,
+          "max": 24,
+          "unit": "hours",
+          "tips": "A baguette is a same-day bread and everyone in France knows it. It is lean — no fat, no sugar, no milk, nothing to hold water — with an enormous crust-to-crumb ratio, so it dries from both directions at once and is noticeably stale by the evening. Leave it out of any bag: a paper sleeve keeps the crust crisp and the crumb going, plastic softens the crust to leather within an hour. A day-old baguette revives once in a 200 °C oven for 5 minutes with the crust splashed with water, and then it is finished for good."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Never. Refrigeration accelerates starch retrogradation — a study of bread storage measured firmness rising to 424 % of its initial value over 10 days at 8.2 °C against 390 % at 21.9 °C — and a lean bread has nothing to buffer that. FoodKeeper says the same about bread generally: refrigeration is not recommended, bread will quickly dry out and become stale."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 3,
+          "max": 3,
+          "unit": "months",
+          "tips": "The only real way to keep one. Freeze it the hour it cools, whole or in halves, wrapped tight; refresh from frozen in a hot oven for 10 to 15 minutes and it comes back genuinely well, because freezing halts the recrystallisation that staling consists of."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Impact of Storing Condition on Staling and Microbial Spoilage Behavior of Bread and Their Contribution to Prevent Food Waste (Foods, PMC7824337)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7824337/"
+      },
+      {
+        "name": "Ohio State University Extension HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "whole-wheat-bread-commercially-baked-and-pre-sliced",
+    "notes": "The staling mechanism and the 424 %/390 % firmness comparison come from the cited study. The 4–24 hour figure is our own and is a quality judgement, not a safety one — Ohio State's blanket pantry line is 'Bread, rolls — 3 days', which is right for a soft pan loaf and much too generous for a baguette, and saying so is the point of this record. Nothing unsafe happens to a two-day-old baguette; it just stops being bread and starts being an ingredient for croûtons, panzanella or pain perdu. The three-month freezer figure is borrowed from the FoodKeeper entry 'whole wheat bread, commercially baked & pre-sliced', which also supplies the explicit no-refrigeration warning."
+  },
+  {
+    "slug": "brioche",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Brioche",
+    "subtitle": "enriched butter-and-egg bread",
+    "keywords": [
+      "brioche",
+      "enriched bread",
+      "butter bread",
+      "egg bread",
+      "布里歐",
+      "布里歐麵包",
+      "布莉歐修",
+      "奶油雞蛋麵包",
+      "法式奶油麵包",
+      "ブリオッシュ",
+      "ブリオッシュパン",
+      "バターパン",
+      "brioche",
+      "pan brioche",
+      "pan de mantequilla y huevo"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 2,
+          "max": 4,
+          "unit": "days",
+          "tips": "Wrapped, at room temperature. The butter and egg yolk in a brioche coat the starch and slow retrogradation, so it stays soft noticeably longer than a lean loaf — but that same richness makes it a better substrate for mould, and the soft moist crumb holds humidity. Keep it in a paper bag or a bread bin rather than sealed plastic, which pushes the humidity up and brings mould forward by a day or two."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Only if you are going to toast it. Cold stales bread faster than the counter does, enrichment or no enrichment; the fat delays it but does not reverse the direction."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 3,
+          "max": 6,
+          "unit": "months",
+          "tips": "Freezes very well — the fat protects the crumb from ice damage. Freeze individual buns or a sliced loaf and thaw at room temperature, or toast from frozen."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Impact of Storing Condition on Staling and Microbial Spoilage Behavior of Bread and Their Contribution to Prevent Food Waste (Foods, PMC7824337)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7824337/"
+      },
+      {
+        "name": "Ohio State University Extension HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "commercial-cakes-and-muffins",
+    "notes": "The wrapping-and-humidity results (plastic bag 89.9 % relative humidity with mould from day 4–5; paper bag 80.5 % with mould from day 5–6) come from the cited study, which tested pan wheat bread rather than brioche; the extension to an enriched dough is ours. The 2–4 day pantry figure and the 3–6 month freezer figure are borrowed from the FoodKeeper entry 'commercial cakes and muffins' (3–7 days pantry, 6 months frozen), trimmed at the front because a brioche is fresher and wetter than a packaged cake, and cross-checked against Ohio State's 'Cakes, purchased — 1 to 2 days', which is the conservative end. No agency publishes a brioche figure."
+  },
+  {
+    "slug": "croissant",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Croissant",
+    "subtitle": "laminated yeast pastry, baked",
+    "keywords": [
+      "croissant",
+      "laminated pastry",
+      "viennoiserie",
+      "pain au chocolat",
+      "可頌",
+      "牛角麵包",
+      "羊角麵包",
+      "法式可頌",
+      "千層酥麵包",
+      "クロワッサン",
+      "デニッシュ",
+      "パン・オ・ショコラ",
+      "croissant",
+      "cruasán",
+      "medialuna"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "A croissant is crisp for about four hours and then it is a soft pastry, which is a different and lesser thing. Leave them uncovered on a rack for the first day — covering them traps the steam that is coming out of the laminated layers and turns the shell chewy. From day two they want three or four minutes in a 180 °C oven to drive the moisture back out; that works twice at most."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Pointless. The butter in the layers sets hard, the crumb stales faster, and you have to warm it anyway. Refrigerate only a croissant that has been filled with something perishable — ham, egg, crème pâtissière — in which case the filling sets the timeline, not the pastry, and that is a two-day food at or below 4 °C."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freeze baked croissants the day they are made, in a sealed bag, and reheat from frozen at 180 °C for about 8 minutes — they come back closer to fresh than anything you can do on day three. Raw frozen croissant dough is a different product and follows its pack instructions."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      },
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      }
+    ],
+    "analog": "doughnuts",
+    "notes": "The 1–2 day figure is borrowed from the FoodKeeper entry 'doughnuts' (1–2 days pantry), the nearest published match for a fresh high-fat bakery item; Ohio State's 'Pies and pastries — 2 to 3 days' is the outer bound. The two-day rule for a filled croissant follows New Mexico State's cooked-dish and dairy lines rather than anything about the pastry. The freezer figure is our own. Nothing here is a safety limit: a plain croissant is a low-moisture, high-fat baked good and the way it fails is by going soft and then dry, then eventually mouldy."
+  },
+  {
+    "slug": "panettone",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Panettone",
+    "subtitle": "sourdough-leavened Milanese Christmas cake",
+    "keywords": [
+      "panettone",
+      "pandoro",
+      "italian christmas cake",
+      "christmas bread",
+      "潘娜朵尼",
+      "義大利聖誕麵包",
+      "水果甜麵包",
+      "潘尼朵尼",
+      "パネトーネ",
+      "パネットーネ",
+      "パンドーロ",
+      "イタリアのクリスマスケーキ",
+      "panettone",
+      "pan dulce de Navidad",
+      "bollo de Navidad italiano"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 3,
+          "max": 6,
+          "unit": "months",
+          "tips": "Sealed in its cellophane bag, somewhere cool and dark, to the printed date — and those dates really do run into months. This is not preservatives: a proper panettone is leavened with a stiff sourdough, carries a great deal of butter, egg yolk and sugar, and is baked to a low residual moisture. The sugar and fat bind and displace the water that mould and bacteria would otherwise need, and the acidity of the levain does the rest. Once you open the bag, the clock changes completely."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 5,
+          "unit": "days",
+          "tips": "Opened, it dries out fast because of the very open, shredded crumb. Press the cut face against the bag, fold it closed, and eat it within the week. Stale panettone is the point of French toast and of the Milanese habit of dunking it — it is not a failure state."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Don't. Refrigeration accelerates staling and this is a bread, whatever the tin says. If your kitchen is warm and humid the freezer is the answer, not the fridge."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "Freezes well whole in its bag, or in wedges. Thaw at room temperature and warm briefly."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      },
+      {
+        "name": "Impact of Storing Condition on Staling and Microbial Spoilage Behavior of Bread and Their Contribution to Prevent Food Waste (Foods, PMC7824337)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7824337/"
+      }
+    ],
+    "analog": "fruit-cake",
+    "notes": "This is the record that shows why forcing a day count onto every baked good is wrong. The numbers are borrowed from the FoodKeeper entry 'fruit cake' (6 months pantry, 12 months frozen), which is the closest published analogue — a high-sugar, high-fat, long-keeping festive bake — and trimmed to 3–6 months because panettone is moister than a fruit cake and its makers date it accordingly. The opened figure is our own. Ohio State is cited only for the contrast: its blanket pantry lines are 'Bread, rolls — 3 days' and 'Cakes, purchased — 1 to 2 days', which are simply the wrong tool for this food, and knowing why (water bound by sugar and fat, an acidic sourdough crumb, a sealed bag) is more useful than either number."
+  },
+  {
+    "slug": "stollen",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Stollen",
+    "subtitle": "German Christmas fruit bread, butter-soaked and sugar-crusted",
+    "keywords": [
+      "stollen",
+      "christstollen",
+      "dresdner stollen",
+      "german christmas bread",
+      "史多倫",
+      "德式聖誕麵包",
+      "耶誕水果麵包",
+      "史多倫麵包",
+      "シュトーレン",
+      "シュトレン",
+      "クリスマスシュトーレン",
+      "ドイツのクリスマスパン",
+      "stollen",
+      "pan de Navidad alemán",
+      "bizcocho navideño alemán"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Wrapped in foil or in its sealed bag, in a cool dry place — a cold larder is better than a warm kitchen. Stollen is built to keep: the baked loaf is brushed with a great deal of melted butter and then buried in caster and icing sugar, which sets into a shell that seals the surface against air and moisture, and the crumb itself is heavy with fat, sugar and soaked dried fruit. Traditionally it is baked weeks ahead and matured before Christmas, and it genuinely improves for the first fortnight."
+        },
+        "afterOpening": {
+          "min": 2,
+          "max": 3,
+          "unit": "weeks",
+          "tips": "Once cut, press the two cut halves back together and wrap the whole loaf again rather than wrapping the open faces — that is the traditional method and it works, because the sugar crust is still doing its job everywhere except at the cut. Weeks, not days."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Not the fridge — it stales the crumb and makes the sugar crust weep. Cool and dry is what stollen wants."
+        }
+      },
+      "freezer": {
+        "fromPurchase": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "Freezes whole with no harm at all. Thaw in the wrapper at room temperature so the condensation forms outside the foil rather than on the sugar."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "fruit-cake",
+    "notes": "Numbers borrowed from the FoodKeeper entry 'fruit cake' (6 months pantry, 12 months frozen), reduced for the pantry because stollen carries more butter and less alcohol-preserved fruit than a British fruit cake. The opened figure is our own. Ohio State is cited for the contrast with ordinary baked goods rather than for a stollen number, which nobody publishes. The mechanism is the same as panettone's and worth stating once more: sugar and fat bind water, and a butter-and-sugar crust is a physical barrier — that, not any additive, is why a festive bread keeps for months while a baguette keeps for hours."
+  },
+  {
+    "slug": "pretzel-soft-fresh",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Soft pretzel, fresh-baked",
+    "subtitle": "lye-dipped Brezel, sold warm",
+    "keywords": [
+      "soft pretzel",
+      "fresh pretzel",
+      "brezel",
+      "laugenbrezel",
+      "bretzel",
+      "德式扭結麵包",
+      "鹼水麵包",
+      "扭結麵包",
+      "布雷結",
+      "德國鹼水結",
+      "プレッツェル",
+      "ブレーツェル",
+      "ソフトプレッツェル",
+      "pretzel",
+      "pretzel blando",
+      "rosca salada alemana"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 4,
+          "max": 12,
+          "unit": "hours",
+          "tips": "A fresh soft pretzel is a same-morning food and it deteriorates faster than any other bread in this file. Two things work against it at once: the lye bath leaves a thin, deeply browned skin that goes leathery as soon as the crumb's moisture migrates outward, and the coarse salt on top is hygroscopic — it pulls water from the air and dissolves into wet patches. Leave it unwrapped and eat it. Wrapping makes it soggy; not wrapping makes it dry."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "No. Cold accelerates staling in a lean dough and this is about as lean as they come."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "The one thing that works. Freeze them the hour they cool, bagged, and reheat from frozen at 180 °C for 6 to 8 minutes; brush with a little water and re-salt if the salt has dissolved. Commercially frozen pretzels are packed to keep far longer — FoodKeeper gives 9 months for those, and once cooked they keep 3 to 4 days refrigerated."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "frozen-pretzels",
+    "notes": "The freezer figures referenced in the tips are from the FoodKeeper entry 'frozen pretzels' (9 months frozen, 3–4 days refrigerated after cooking), which covers the commercial frozen product rather than the fresh-baked one — this record exists because FoodKeeper's two pretzel entries are a frozen dough and a bagged hard snack, and neither is the thing you buy warm from a stall. The 4–12 hour figure is our own quality judgement, not a published number and not a safety limit. Ohio State's 'Bread, rolls — 3 days' is the outer bound at which it is still perfectly safe and no longer worth eating."
+  },
+  {
+    "slug": "crumpets",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Crumpets",
+    "subtitle": "yeast-and-soda batter griddled in rings",
+    "keywords": [
+      "crumpets",
+      "crumpet",
+      "pikelet",
+      "english griddle cake",
+      "英式煎餅",
+      "克朗佩",
+      "英式鬆餅圓餅",
+      "蜂窩鬆餅",
+      "英國煎餅",
+      "クランペット",
+      "イギリスのパンケーキ",
+      "クランペッツ",
+      "crumpet",
+      "panecillo inglés",
+      "torta inglesa a la plancha"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "days",
+          "tips": "In their bag, at room temperature, or to the printed date on a supermarket pack. Crumpets are wetter than any bread here — they are a pourable batter, cooked on one side only, and the famous holes run right through an open, humid crumb. That makes them a fast mould substrate, and a bag of crumpets in a warm kitchen will show blue-green spots inside a few days."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "This is the one bread product where the fridge is genuinely the right answer, and it is worth understanding why. Refrigeration's penalty is accelerated staling — but you are going to toast a crumpet anyway, and toasting reverses staling by re-gelatinising the starch. So you pay nothing and you buy real time against mould: the bread study cited found no visible mould at all over 10 days at 8.2 °C. New Mexico State gives shop-bought bread and baked goods 2 to 3 weeks refrigerated."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 3,
+          "max": 3,
+          "unit": "months",
+          "tips": "Freeze them interleaved and toast from frozen on a slightly longer setting. No thawing needed and no quality loss worth mentioning."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      },
+      {
+        "name": "Impact of Storing Condition on Staling and Microbial Spoilage Behavior of Bread and Their Contribution to Prevent Food Waste (Foods, PMC7824337)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7824337/"
+      }
+    ],
+    "analog": "whole-wheat-bread-commercially-baked-and-pre-sliced",
+    "notes": "The refrigerated figure is New Mexico State's line for store-bought bread and baked goods (2–3 weeks), trimmed to 1–2 weeks here because crumpets are far wetter than a pan loaf; the no-mould-at-8-°C-over-10-days finding is from the cited study. The 2–3 day pantry figure is our own. The three-month freezer figure is borrowed from the FoodKeeper entry 'whole wheat bread, commercially baked & pre-sliced'. The general rule in this file is that refrigeration is bad for bread; crumpets are the honest exception, because the staling penalty is undone by the toaster and the mould benefit is real."
+  },
+  {
+    "slug": "marzipan",
+    "category": "snacks-nuts-seeds",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Marzipan",
+    "subtitle": "almond and sugar paste — block, modelling and Lübeck styles",
+    "keywords": [
+      "marzipan",
+      "almond paste",
+      "marzapane",
+      "massepain",
+      "杏仁膏",
+      "杏仁糖膏",
+      "馬芝板",
+      "杏仁蛋白糖",
+      "マジパン",
+      "マルチパン",
+      "アーモンドペースト",
+      "mazapán",
+      "pasta de almendra",
+      "mazapán de Toledo"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Sealed, cool, dark and dry, to the printed date. Marzipan is roughly equal parts ground almond and sugar, and the sugar is what preserves it — dissolved sugar ties up the water so tightly that there is very little left available to moulds or bacteria. What actually limits it is the almond oil going rancid and the surface drying and cracking, both of which are speeded up by warmth and light."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Once the wrapper is open, press clingfilm directly onto the cut surface and then bag it — marzipan skins over within hours in dry air and goes sticky in humid air. Sugar bloom (a white dusty film) is cosmetic. An oily smell or a bitter, paint-like taste is rancidity and it does not go away."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 3,
+          "max": 6,
+          "unit": "months",
+          "tips": "Worth doing in a hot or humid climate, wrapped airtight, mainly to slow the almond oil oxidising. Bring it back to room temperature before you try to roll it or it will crack."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Freezes without harm, double-wrapped. Thaw fully in the wrapper so condensation forms outside it, not on the paste."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "fruit-cake",
+    "notes": "Numbers borrowed from the FoodKeeper entry 'fruit cake' (6 months pantry, 12 months refrigerated, 12 months frozen), the nearest published high-sugar, high-nut, long-keeping item; the opened figures are our own. Ohio State is cited for its pantry storage principles rather than for a marzipan line, which it does not carry. No agency publishes a marzipan figure. Note that the same word covers products with very different sugar ratios — a Lübeck-style paste with a high almond content has more oil to go rancid and less sugar to bind water than a cheap covering paste, so it is the shorter keeper of the two despite tasting better."
+  },
+  {
+    "slug": "nougat",
+    "category": "snacks-nuts-seeds",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Nougat",
+    "subtitle": "aerated honey-and-egg-white confection — torrone, nougat de Montélimar",
+    "keywords": [
+      "nougat",
+      "torrone",
+      "nougat de montelimar",
+      "white nougat",
+      "honey nougat",
+      "牛軋糖",
+      "鳥結糖",
+      "努加糖",
+      "蜂蜜蛋白糖",
+      "義大利牛軋糖",
+      "ヌガー",
+      "トローネ",
+      "ヌガーモンテリマール",
+      "nougat",
+      "turrón blando",
+      "turrón de Alicante"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Sealed, cool, dark and dry, to its printed date. Nougat is a supersaturated sugar and honey syrup aerated with egg white and loaded with nuts — the sugar binds the water and there is very little left for anything to grow in. Its enemy is humidity, not bacteria: nougat is strongly hygroscopic and a bar left open in a damp kitchen goes sticky, then weeps syrup, then sets into a solid slab."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 1,
+          "unit": "months",
+          "tips": "Re-wrap it airtight the moment you open it, edible rice paper and all — the paper is there to stop it sticking, not to protect it. Keep it away from steam and from the hob. The nuts are the other clock: almonds, pistachios and hazelnuts eventually go rancid, and that shows up as a bitter, crayon-like aftertaste."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Avoid it. A fridge is humid, and taking cold nougat out into a warm room condenses water straight onto the surface — which is the exact thing that ruins it. Cool and dry beats cold and damp."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "marshmallows",
+    "notes": "Numbers borrowed from the FoodKeeper entry 'marshmallows' (1 year in the pantry, 1 month after opening) — the closest published match, being the other aerated sugar-and-egg-white confection. Ohio State is cited for its pantry storage principles; it carries no nougat line and no agency publishes one. Spanish turrón already has its own record from an earlier batch, covering both the hard Alicante and soft Jijona styles; this record is for the Italian and French nougats sold as bars, and the storage logic is the same for all of them."
+  },
+  {
+    "slug": "lard",
+    "category": "oils-fats",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Lard",
+    "subtitle": "rendered pork fat — leaf lard, back fat, home-rendered",
+    "keywords": [
+      "lard",
+      "rendered pork fat",
+      "leaf lard",
+      "pork dripping",
+      "saindoux",
+      "豬油",
+      "板油",
+      "大油",
+      "熬製豬油",
+      "豬脂",
+      "ラード",
+      "豚脂",
+      "精製ラード",
+      "manteca de cerdo",
+      "manteca",
+      "grasa de cerdo"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 8,
+          "max": 8,
+          "unit": "months",
+          "tips": "Ohio State gives solid shortenings 8 months in the pantry, and a commercially rendered, filtered, sometimes hydrogenated block of lard behaves that way: cool, dark, dry, sealed. Home-rendered lard is a different proposition — it carries traces of water and meat solids that commercial rendering strips out, and those are what turn it. If your lard is cloudy at the bottom, smells of pork rather than of nothing, or was made in your own kitchen, refrigerate it instead."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 3,
+          "unit": "months",
+          "tips": "The right default for home-rendered lard and for any jar you have been dipping into. Keep it in a sealed jar with a clean spoon — bits of flour, salt and browned meat dropped back into the jar are the fastest way to turn a good lard rancid. Rancidity is oxidation, not spoilage: it makes the fat taste of old paint and cannot be cooked out."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Freeze it in usable portions — an ice-cube tray works — and it will keep essentially indefinitely for cooking purposes. Cold slows oxidation, which is the only thing happening to it."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "duck-fat",
+    "notes": "The 8-month pantry figure is Ohio State's, for solid shortening, and it fits commercial lard; the FoodKeeper entry 'shortening, solid' is more generous still at 1–2 years unopened and 6–12 months after opening. The refrigerated figure is borrowed from the FoodKeeper entry 'duck-fat', which gives 30 days refrigerated — that is the only published figure for a rendered animal fat we could find, and it is stretched to 1–3 months here for clean, well-strained lard, which is a judgement call and should be read as such. The freezer figure is our own. The distinction between commercial and home-rendered lard is the practical heart of this record and it is not sourced from any agency; it follows from what rendering and filtering actually remove."
+  },
+  {
+    "slug": "duck-confit",
+    "category": "poultry",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Duck confit",
+    "subtitle": "legs slow-cooked and stored under their own fat",
+    "keywords": [
+      "duck confit",
+      "confit de canard",
+      "confit duck leg",
+      "goose confit",
+      "油封鴨",
+      "油封鴨腿",
+      "法式油封鴨",
+      "封油鴨",
+      "コンフィ",
+      "鴨のコンフィ",
+      "ダックコンフィ",
+      "confit de pato",
+      "pato confitado",
+      "muslo de pato confitado"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "A retorted tin or jar bought off an ambient shelf is shelf-stable to its date — that is a commercial sterilisation, not the fat. A crock of home-made confit is not, and this is where the tradition and the modern kitchen part company. Meat submerged under a fat seal is a low-acid food in an anaerobic environment, which is the classic setting for Clostridium botulinum, and NCHFP's rule for foods held under oil at room temperature is that they belong in the refrigerator. The old farmhouse practice relied on a cold stone cellar, a heavy salt cure and a short season; a warm modern kitchen supplies none of those."
+        }
+      },
+      "fridge": {
+        "fromPurchase": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "An unopened chilled pack keeps to its printed date at or below 4 °C. Home-made confit, salted overnight, cooked slowly in fat, then packed into a sterile jar and covered completely with strained fat with no air pockets, keeps for weeks in the refrigerator — but no agency publishes a number for it, so this record will not invent one. Keep it cold, keep it covered, and use your nose."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "Break the fat seal and the clock resets, exactly as with rillettes. What is underneath is a cooked meat dish: 3 to 4 days at or below 4 °C, New Mexico State's figure. Lifting a leg out and smoothing the fat back over the rest restores the look of a seal but not the seal itself — the fat has been broken, contaminated and re-set over a surface that has met a spoon and the air."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "New Mexico State gives cooked meat dishes 2 to 3 months frozen. Freeze the legs individually with a good coat of fat on them; the fat is excellent protection against freezer burn."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      },
+      {
+        "name": "National Center for Home Food Preservation – Freezing Garlic-in-Oil",
+        "url": "https://nchfp.uga.edu/how/freeze/vegetable/freezing-garlic-in-oil/"
+      }
+    ],
+    "analog": null,
+    "notes": "The 3–4 day and 2–3 month figures are New Mexico State's cooked-meat-dish lines, directly sourced. NCHFP is cited for the rule and not for a number: its finding on garlic in oil is that 'mixtures of garlic in oil stored at room temperature are at risk for the development of botulism', that such mixtures should be refrigerated at 40 °F or lower, and that freezing is the long-term option. Duck confit is not garlic in oil — it is salted and thoroughly cooked, which garlic is not, and the salt cure genuinely matters — but it is the same physical situation, a low-acid food excluded from air by a layer of fat, and the same conclusion follows: refrigerate it. Deliberately no number is given for a well-sealed home-made jar, because none is published and the honest answer is a rule, not a figure. Note that the traditional cellar method is a real technique and this record is not calling it unsafe; it is pointing out that it depended on conditions most kitchens no longer have."
+  },
+  {
+    "slug": "truffle-fresh",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Truffle, fresh",
+    "subtitle": "black winter, summer and white Alba",
+    "keywords": [
+      "fresh truffle",
+      "black truffle",
+      "white truffle",
+      "tuber melanosporum",
+      "tuber magnatum",
+      "新鮮松露",
+      "黑松露",
+      "白松露",
+      "松露",
+      "義大利白松露",
+      "トリュフ",
+      "生トリュフ",
+      "黒トリュフ",
+      "白トリュフ",
+      "trufa fresca",
+      "trufa negra",
+      "trufa blanca"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 5,
+          "max": 7,
+          "unit": "days",
+          "tips": "A published study of black truffle preservation describes the fresh product as having a 'very limited shelf life (maximum of 5–7 days, room temperature)'. In practice nobody should be keeping a truffle on the counter — it loses aroma and water by the hour — but that is the outer bound if you do."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 7,
+          "unit": "days",
+          "tips": "In a sealed glass jar in the coldest part of the fridge, wrapped in kitchen paper that you change every single day. The paper absorbs the water the truffle sweats out; leave the same damp paper on it and you have made a mould incubator. Brush the soil off with a dry brush and do not wash it until the moment you use it. The rice trick is a myth worth killing: rice is a desiccant, it strips the truffle of both moisture and aroma, and all you get in return is faintly scented rice."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 3,
+          "max": 6,
+          "unit": "months",
+          "tips": "Freezing is a real option for black truffles and a poor one for white. Freeze it whole and hard, wrapped tight, and grate it from frozen straight onto the dish — never thaw it, because thawing collapses it into a grey wet lump. Expect to lose a good part of the aroma."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Hypobaric Packaging Prolongs the Shelf Life of Refrigerated Black Truffles (Tuber melanosporum), Molecules 2020 (PMC7504210)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7504210/"
+      }
+    ],
+    "analog": "mushrooms",
+    "notes": "The 5–7 day room-temperature figure is quoted directly from the study's introduction. The refrigerated figure is borrowed from the FoodKeeper entry 'mushrooms' (3–7 days refrigerated, 10–12 months frozen), because the study does not give a domestic refrigerated shelf life — and its own results should not be read as one: under laboratory conditions, in sealed vessels at 4 °C, its control truffles in normal air were still judged acceptable at 28 days, though with 9.9 % weight loss by day 35 and a microbial load reaching 8.9 × 10⁶ CFU/g by day 28, at which point they were unmarketable. Sealed research vessels that 'prevent the humidity transfer during the storage' are not a domestic fridge, so that 28-day result is deliberately not offered as guidance. The freezer figure is trimmed from FoodKeeper's mushroom line because aroma, not safety, is the limit for a truffle."
+  },
+  {
+    "slug": "truffle-oil",
+    "category": "oils-fats",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Truffle oil",
+    "subtitle": "aromatised oil — almost always synthetic",
+    "keywords": [
+      "truffle oil",
+      "white truffle oil",
+      "black truffle oil",
+      "aromatised oil",
+      "松露油",
+      "白松露油",
+      "黑松露油",
+      "松露風味油",
+      "トリュフオイル",
+      "白トリュフオイル",
+      "トリュフ風味オイル",
+      "aceite de trufa",
+      "aceite trufado",
+      "aceite de trufa blanca"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "Sealed, upright, in a dark cupboard away from the hob. Almost all commercial truffle oil is an ordinary oil carrying a synthesised aroma compound — 2,4-dithiapentane, the molecule responsible for most of what people recognise as truffle — rather than any truffle, and it keeps exactly as the base oil does. Heat, light and air are what age it."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 5,
+          "unit": "months",
+          "tips": "The aroma goes long before the oil does. Once opened, the volatile compound escapes every time you take the cap off, and a bottle a year old often smells of nothing but oil. Buy small bottles and use them fast. Rancidity — a stale crayon smell — is the separate, later failure."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 4,
+          "max": 4,
+          "unit": "months",
+          "tips": "Slows oxidation. Olive-based oils go cloudy and semi-solid in the fridge and clear again at room temperature, which is harmless. Refrigeration is worth it in a hot kitchen and pointless in a cool one."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension HYG-5401 – Pantry Food Storage",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      },
+      {
+        "name": "National Center for Home Food Preservation – Freezing Garlic-in-Oil",
+        "url": "https://nchfp.uga.edu/how/freeze/vegetable/freezing-garlic-in-oil/"
+      }
+    ],
+    "analog": "oils-olive-vegetable",
+    "notes": "Numbers borrowed from the FoodKeeper entry 'oils, olive or vegetable' (6–12 months unopened, 3–5 months after opening, 4 months refrigerated after opening); Ohio State's salad-oil lines are shorter still at 6 months unopened and 1 to 3 months opened. NCHFP is cited for a hazard that applies to a minority of these products but matters: an oil holding actual pieces of a low-acid food — real truffle shavings, garlic, herbs — is not the same thing as an aromatised oil, and NCHFP's finding is that mixtures of garlic in oil stored at room temperature are at risk for the development of botulism and belong refrigerated, for no more than a few days, or frozen. If your bottle has solids in it, that rule applies to it and the pantry figures above do not."
+  }
+]
