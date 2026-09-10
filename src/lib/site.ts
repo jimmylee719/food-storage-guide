@@ -9,7 +9,7 @@ export const GA_ID = process.env.NEXT_PUBLIC_GA_ID || '';
 /** The content value of Search Console's HTML-tag verification method. */
 export const GOOGLE_SITE_VERIFICATION = process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || '';
 
-export const CONTACT_EMAIL = 'skadoosh.ai.lab@gmail.com';
+export const CONTACT_EMAIL = 'getvanture@gmail.com';
 export const SITE_LAUNCH_YEAR = 2025;
 
 export function absoluteUrl(path: string): string {
