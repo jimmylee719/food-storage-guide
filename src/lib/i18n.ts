@@ -67,6 +67,7 @@ type Dict = {
   terms: string;
   contact: string;
   methodology: string;
+  foodSafety: string;
   disclaimer: string;
   disclaimerBody: string;
   backTo: string;
@@ -100,7 +101,7 @@ type Dict = {
 const zh: Dict = {
   siteName: '食材保存指南',
   tagline: '常溫、冷藏、冷凍保存期限查詢',
-  siteDescription: '查詢 700 多種食材的常溫、冷藏與冷凍保存期限，資料以美國農業部 FoodKeeper、FDA 與各國食品安全機關指引為基礎，並附上保存訣竅、腐敗判斷與安全解凍方法。',
+  siteDescription: '查詢 1000 多種食材的常溫、冷藏與冷凍保存期限，資料以美國農業部 FoodKeeper、FDA 與各國食品安全機關指引為基礎，並附上保存訣竅、腐敗判斷與安全解凍方法。',
   searchPlaceholder: '搜尋食材，例如：雞肉、高麗菜、鮭魚…',
   searchLabel: '搜尋食材',
   noResults: '找不到符合的食材，換個關鍵字試試。',
@@ -140,6 +141,7 @@ const zh: Dict = {
   terms: '使用條款',
   contact: '聯絡我們',
   methodology: '資料來源與方法',
+  foodSafety: '食品安全與危害',
   disclaimer: '免責聲明',
   disclaimerBody: '本站內容僅供一般參考，不構成醫療或專業建議。食材若有異味、變色、發霉或包裝膨脹，請直接丟棄，不要試吃。',
   backTo: '返回',
@@ -186,7 +188,7 @@ const zh: Dict = {
 const en: Dict = {
   siteName: 'Food Storage Guide',
   tagline: 'Pantry, fridge and freezer storage times',
-  siteDescription: 'How long 700+ foods keep in the pantry, fridge and freezer, built on the USDA FoodKeeper dataset, with storage tips, spoilage signs and safe thawing.',
+  siteDescription: 'How long 1,000+ foods keep in the pantry, fridge and freezer, built on the USDA FoodKeeper dataset, with storage tips, spoilage signs and safe thawing.',
   searchPlaceholder: 'Search a food, e.g. chicken, cabbage, salmon…',
   searchLabel: 'Search foods',
   noResults: 'No matching food. Try another word.',
@@ -226,6 +228,7 @@ const en: Dict = {
   terms: 'Terms of use',
   contact: 'Contact',
   methodology: 'Sources & method',
+  foodSafety: 'Food safety',
   disclaimer: 'Disclaimer',
   disclaimerBody: 'This site is general information, not medical or professional advice. If food smells off, looks discoloured, shows mould or the package is swollen, throw it out. Do not taste it.',
   backTo: 'Back to',
@@ -272,7 +275,7 @@ const en: Dict = {
 const ja: Dict = {
   siteName: '食品保存ガイド',
   tagline: '常温・冷蔵・冷凍の保存期間がすぐ分かる',
-  siteDescription: '700 種類以上の食材について、常温・冷蔵・冷凍の保存期間を検索できます。米国農務省 FoodKeeper データセットと各国food safety機関の指針をもとに、保存のコツ、傷みのサイン、安全な解凍方法をまとめました。',
+  siteDescription: '1000 種類以上の食材について、常温・冷蔵・冷凍の保存期間を検索できます。米国農務省 FoodKeeper データセットと各国の食品安全機関の指針をもとに、保存のコツ、傷みのサイン、安全な解凍方法をまとめました。',
   searchPlaceholder: '食材を検索（例：鶏肉、キャベツ、鮭…）',
   searchLabel: '食材を検索',
   noResults: '該当する食材が見つかりません。別のことばで試してください。',
@@ -312,6 +315,7 @@ const ja: Dict = {
   terms: '利用規約',
   contact: 'お問い合わせ',
   methodology: '出典と作成方法',
+  foodSafety: '食品の危害と安全',
   disclaimer: '免責事項',
   disclaimerBody: '本サイトは一般的な情報提供であり、医学的・専門的な助言ではありません。異臭、変色、カビ、容器の膨張がある場合は、味見せずに廃棄してください。',
   backTo: '戻る：',
@@ -358,7 +362,7 @@ const ja: Dict = {
 const es: Dict = {
   siteName: 'Guía de Conservación de Alimentos',
   tagline: 'Cuánto duran los alimentos',
-  siteDescription: 'Cuánto duran más de 700 alimentos en la despensa, la nevera y el congelador, según el conjunto de datos FoodKeeper del USDA, con consejos y señales de deterioro.',
+  siteDescription: 'Cuánto duran más de 1000 alimentos en la despensa, la nevera y el congelador, según el conjunto de datos FoodKeeper del USDA, con consejos y señales de deterioro.',
   searchPlaceholder: 'Busca un alimento: pollo, repollo, salmón…',
   searchLabel: 'Buscar alimentos',
   noResults: 'No hay resultados. Prueba con otra palabra.',
@@ -398,6 +402,7 @@ const es: Dict = {
   terms: 'Términos de uso',
   contact: 'Contacto',
   methodology: 'Fuentes y método',
+  foodSafety: 'Seguridad alimentaria',
   disclaimer: 'Aviso',
   disclaimerBody: 'Este sitio ofrece información general, no consejo médico ni profesional. Si un alimento huele mal, cambia de color, tiene moho o el envase está hinchado, tíralo. No lo pruebes.',
   backTo: 'Volver a',

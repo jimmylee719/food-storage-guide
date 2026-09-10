@@ -17,6 +17,7 @@ export default function Footer({ locale }: { locale: Locale }) {
             <ul>
               <li><Link href={`/${locale}/foods`}>{d.allFoods}</Link></li>
               <li><Link href={`/${locale}/guides`}>{d.guides}</Link></li>
+              <li><Link href={`/${locale}/food-safety`}>{d.foodSafety}</Link></li>
               <li><Link href={`/${locale}/methodology`}>{d.methodology}</Link></li>
             </ul>
           </div>

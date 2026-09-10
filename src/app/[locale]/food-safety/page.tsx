@@ -6,7 +6,7 @@ import { type Locale, isLocale, t } from '@/lib/i18n';
 import { getStaticPage } from '@/lib/pages';
 import { buildMetadata } from '@/lib/seo';
 
-const KEY = 'contact' as const;
+const KEY = 'food-safety' as const;
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;

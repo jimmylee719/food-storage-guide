@@ -16,7 +16,7 @@ function sample(arr, n) {
 
 const paths = [];
 for (const l of LOCALES) {
-  paths.push(`/${l}`, `/${l}/foods`, `/${l}/guides`, `/${l}/about`, `/${l}/privacy`, `/${l}/terms`, `/${l}/contact`, `/${l}/methodology`);
+  paths.push(`/${l}`, `/${l}/foods`, `/${l}/guides`, `/${l}/about`, `/${l}/privacy`, `/${l}/terms`, `/${l}/contact`, `/${l}/methodology`, `/${l}/food-safety`);
   for (const c of sample(CATEGORIES, 4)) paths.push(`/${l}/category/${c}`);
   for (const f of sample(withPages, 8)) paths.push(`/${l}/food/${f.slug}`);
   for (const g of sample(guides, 4)) paths.push(`/${l}/guides/${g.slug}`);
