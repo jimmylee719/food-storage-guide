@@ -76,7 +76,7 @@ tamarind paste (already — verify), coconut cream fresh, pandan, kimchi
 (榨菜), preserved mustard greens (梅干菜), fermented black beans (豆豉),
 salted duck egg yolk, chinkiang vinegar, laksa paste, rendang paste
 
-## Batch F — Latin America, Iberia and the Mediterranean
+## Batch F — Latin America, Iberia and the Mediterranean  ✅ DONE → src/data/base/extra/f-latin-iberia.json (53 items)
 
 nopales, tomatillo, poblano fresh, jalapeño fresh, habanero, dried chiles
 (ancho, guajillo, chipotle), epazote, huitlacoche, masa harina, fresh masa,

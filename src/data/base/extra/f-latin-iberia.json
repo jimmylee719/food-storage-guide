@@ -1,0 +1,2779 @@
+[
+  {
+    "slug": "nopales",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Nopales",
+    "subtitle": "fresh prickly pear cactus pads",
+    "keywords": [
+      "nopales",
+      "nopalitos",
+      "cactus paddles",
+      "prickly pear pads",
+      "opuntia",
+      "仙人掌葉",
+      "仙人掌莖片",
+      "食用仙人掌",
+      "ノパル",
+      "ノパレス",
+      "ウチワサボテン",
+      "サボテンの葉",
+      "nopal",
+      "penca de nopal"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "weeks",
+          "tips": "USDA Agriculture Handbook 66: whole pads hold good quality for 3 weeks at 5 °C (41 °F) or 2 weeks at 10 °C (50 °F) at 95–99 % humidity. They are chilling sensitive below 10 °C, so past three weeks in a cold fridge expect bronzing and decay at the cut stem end. Scrape or singe off every spine and glochid first, keep them dry, and do not sprinkle or top-ice them."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 8,
+          "unit": "months",
+          "tips": "Blanch or griddle the diced pads first to purge the viscous sap, drain well, then freeze."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "USDA ARS Agriculture Handbook 66 – The Commercial Storage of Fruits, Vegetables, and Florist and Nursery Stocks (Nopalitos chapter, M. Cantwell)",
+        "url": "https://www.ars.usda.gov/ARSUserFiles/oc/np/CommercialStorage/CommercialStorage.pdf"
+      },
+      {
+        "name": "New Mexico State University Extension E-217 – How to Prepare and Use Prickly Pear Cactus Fruit and Pads",
+        "url": "https://pubs.nmsu.edu/_e/E217/"
+      }
+    ],
+    "analog": "peppers",
+    "notes": "The refrigerator figure is sourced (AH-66, 3 weeks at 5 °C / 2 weeks at 10 °C). The freezer figure is borrowed from the USDA FoodKeeper entry 'peppers' (6–8 months) because no source gives a frozen life for cactus pads. AH-66 also notes that *diced* nopalitos last only 6 days at 5 °C and 1 day at 20 °C, and must not be washed after cutting — washing makes the mucilage run and the cut faces discolour. NMSU E-217 supplies the handling rule (remove all spines and prickles first) and gives up to 2 weeks refrigerated for the cooked nopalitos dish, cooled before refrigerating."
+  },
+  {
+    "slug": "tomatillo",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Tomatillo",
+    "subtitle": "fresh, in the husk",
+    "keywords": [
+      "tomatillo",
+      "husk tomato",
+      "green tomato mexican",
+      "physalis philadelphica",
+      "黏果酸漿",
+      "墨西哥酸漿",
+      "綠番茄",
+      "燈籠果",
+      "トマティーヨ",
+      "トマティージョ",
+      "オオブドウホオズキ",
+      "tomate verde",
+      "miltomate"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 5,
+          "max": 7,
+          "unit": "days",
+          "tips": "USDA Agriculture Handbook 66: at ambient temperature the husks dry out but the fruit itself stays in good condition for about a week. That is a legitimate way to keep them if your fridge runs cold."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "weeks",
+          "tips": "Utah State University Extension: store mature fruit in the husk in a paper bag in the refrigerator for up to three weeks. AH-66 is more precise — 5 to 10 °C at 80–90 % humidity, a full month at 10 °C (50 °F) without chilling injury, but pitting and decay begin after 3 weeks at 5 °C (41 °F) and sooner at 2.5 °C. Leave the husk on and do not wash until you cook."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "USU gives the method but no time limit: remove the husk, wash and dry the fruit, then place it in plastic bags in the freezer. Whole frozen tomatillos go straight into a salsa verde from frozen; they will never be firm again."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Utah State University Extension – How to Grow Tomatillos in Your Garden",
+        "url": "https://extension.usu.edu/yardandgarden/research/tomatillos-in-the-garden"
+      },
+      {
+        "name": "USDA ARS Agriculture Handbook 66 – The Commercial Storage of Fruits, Vegetables, and Florist and Nursery Stocks (Tomatillo chapter, M. Cantwell)",
+        "url": "https://www.ars.usda.gov/ARSUserFiles/oc/np/CommercialStorage/CommercialStorage.pdf"
+      }
+    ],
+    "analog": null,
+    "notes": "USU also notes that at the end of the season the whole plant can be pulled and hung upside down in an unheated garage, where fruit still on the vine will keep for several months — a garden trick rather than a kitchen one, so it is not given as a pantry timeline here."
+  },
+  {
+    "slug": "poblano-pepper-fresh",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Poblano pepper",
+    "subtitle": "fresh; dried it is the ancho",
+    "keywords": [
+      "poblano",
+      "poblano pepper",
+      "chile poblano",
+      "fresh ancho",
+      "波布拉諾辣椒",
+      "波布拉諾椒",
+      "墨西哥青椒",
+      "ポブラーノ",
+      "ポブラノ",
+      "チレ・ポブラーノ",
+      "chile poblano fresco",
+      "chile para rellenar"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "weeks",
+          "tips": "New Mexico State University gives fresh chile 2 to 3 weeks at 45–50 °F (7–10 °C) and 90–95 % relative humidity. That is warmer than a domestic fridge: below that range the pods take chilling injury — softening, pitting and faster decay — so use the least cold drawer and expect the shorter end of the range."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Poblanos are almost always roasted and peeled first. NMSU: refrigerate or freeze roasted, peeled chile within 2 hours of roasting, press the air out of the bag, and it keeps safely in the freezer for up to 12 months. Roasted chile that stays in the fridge instead must be used or frozen within 3 days."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension H-235 – Postharvest Handling of Fresh Chiles",
+        "url": "https://pubs.nmsu.edu/_h/H235/"
+      },
+      {
+        "name": "New Mexico State University Extension E-324 – Processing Fresh Chile Peppers",
+        "url": "https://pubs.nmsu.edu/_e/E324/"
+      }
+    ],
+    "analog": null,
+    "notes": "FoodKeeper's generic 'hot peppers' entry gives 1 week refrigerated with no explanation. This record is written separately because NMSU's postharvest figures are specific to chile and come with the chilling-injury rule that explains why a fridge underperforms. Freeze damage begins at 32 °F (0 °C)."
+  },
+  {
+    "slug": "jalapeno-pepper-fresh",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Jalapeño",
+    "subtitle": "fresh; smoke-dried it is the chipotle",
+    "keywords": [
+      "jalapeno",
+      "jalapeño",
+      "chile jalapeño",
+      "墨西哥辣椒",
+      "哈拉皮紐辣椒",
+      "墨西哥青辣椒",
+      "ハラペーニョ",
+      "ハラペニョ",
+      "チレ・ハラペーニョ",
+      "chile jalapeno",
+      "cuaresmeño"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "weeks",
+          "tips": "NMSU: 2 to 3 weeks at 45–50 °F (7–10 °C) and 90–95 % humidity. Keep the pods dry and whole — a cut or bruised jalapeño rots from the wound. Colder than 45 °F brings chilling injury: softening, pitting and decay."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Wash, stem and pack with no headspace; jalapeños do not need blanching. NMSU gives up to 12 months in the freezer for properly packed chile. They thaw limp, so freeze them for cooking, not for slicing raw."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension H-235 – Postharvest Handling of Fresh Chiles",
+        "url": "https://pubs.nmsu.edu/_h/H235/"
+      },
+      {
+        "name": "National Center for Home Food Preservation – Freezing Hot Peppers",
+        "url": "https://nchfp.uga.edu/how/freeze/vegetable/freezing-hot-peppers/"
+      }
+    ],
+    "analog": null,
+    "notes": "NCHFP's freezing method ('wash and stem peppers, package leaving no headspace, seal and freeze') carries no time limit of its own; the 12-month figure is NMSU's. FoodKeeper's generic 'hot peppers' slug exists but gives only 1 week refrigerated with no conditions attached, so this better-specified record was written instead of colliding with it."
+  },
+  {
+    "slug": "habanero-pepper-fresh",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Habanero",
+    "subtitle": "fresh",
+    "keywords": [
+      "habanero",
+      "chile habanero",
+      "scotch bonnet",
+      "哈瓦那辣椒",
+      "哈瓦那那辣椒",
+      "黃燈籠辣椒",
+      "ハバネロ",
+      "チレ・ハバネロ",
+      "chile habanero fresco"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "weeks",
+          "tips": "NMSU: 2 to 3 weeks at 45–50 °F (7–10 °C) and 90–95 % humidity, with chilling injury below that. Habaneros are small and thin-walled, so they shrivel before they rot — a wrinkled pod is still usable."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Freeze whole and unblanched, no headspace. Wear gloves when handling or chopping — capsaicin transfers to hands and then to eyes, and habanero is many times hotter than jalapeño."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension H-235 – Postharvest Handling of Fresh Chiles",
+        "url": "https://pubs.nmsu.edu/_h/H235/"
+      },
+      {
+        "name": "National Center for Home Food Preservation – Freezing Hot Peppers",
+        "url": "https://nchfp.uga.edu/how/freeze/vegetable/freezing-hot-peppers/"
+      }
+    ],
+    "analog": null,
+    "notes": "NMSU H-235 does not distinguish between chile types; the same postharvest protocol covers all of them. The 12-month freezer figure comes from NMSU E-324's roasted-chile guidance, which is the longest figure NMSU publishes for frozen chile."
+  },
+  {
+    "slug": "dried-chiles",
+    "category": "herbs-spices",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dried chiles",
+    "subtitle": "whole pods — ancho, guajillo, pasilla, chipotle, árbol",
+    "keywords": [
+      "dried chiles",
+      "dried chilies",
+      "ancho",
+      "guajillo",
+      "pasilla",
+      "chipotle",
+      "chile de arbol",
+      "mulato",
+      "cascabel",
+      "乾辣椒",
+      "墨西哥乾辣椒",
+      "安丘辣椒",
+      "瓜希柳辣椒",
+      "奇波雷辣椒",
+      "乾燥唐辛子",
+      "ドライチリ",
+      "アンチョ",
+      "グアヒージョ",
+      "チポトレ",
+      "chiles secos",
+      "chile ancho",
+      "chile guajillo"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 3,
+          "max": 6,
+          "unit": "months",
+          "tips": "Cool, dry and dark, in a sealed glass jar. NCHFP: dried vegetables keep about half as long as dried fruit, and dried fruit runs 1 year at 60 °F but only 6 months at 80 °F — so a warm kitchen halves the figure again. Pods should still bend without snapping; brittle, faded, dusty-smelling chiles have lost their aroma even if they are safe."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Sealed in a bag in the freezer, dried pods keep their colour and perfume far longer than in a cupboard, and freezing also settles any insect eggs that came in with them. Bring them to room temperature before opening the bag so they do not pick up condensation."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "National Center for Home Food Preservation – Packaging and Storing Dried Foods",
+        "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/"
+      }
+    ],
+    "analog": null,
+    "notes": "NCHFP gives 4 months to 1 year as the overall range for dried foods, 1 year at 60 °F / 6 months at 80 °F for dried fruit, and states that vegetables have about half the shelf life of fruits; 3–6 months is that halved figure. NCHFP also warns that dried foods reabsorb moisture and attract insects, which is the real failure mode for a bag of chiles. The 12-month freezer figure is an extrapolation of NCHFP's own rule that lower storage temperature means longer storage, not a separately published number — treat it as best-quality guidance."
+  },
+  {
+    "slug": "epazote",
+    "category": "herbs-spices",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Epazote",
+    "subtitle": "fresh sprigs",
+    "keywords": [
+      "epazote",
+      "wormseed",
+      "Mexican tea",
+      "dysphania ambrosioides",
+      "土荊芥",
+      "臭杏",
+      "墨西哥茶",
+      "エパソーテ",
+      "アリタソウ",
+      "ケアリタソウ",
+      "epazote fresco",
+      "paico"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "weeks",
+          "tips": "Stand the stems in a little water like cut flowers, or wrap them in a barely damp cloth in a bag. Epazote bruises black where it is crushed, so store the sprigs loose rather than packed."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Freezing turns the leaves black and slack, but the flavour survives and epazote is only ever used cooked — a bag of frozen sprigs dropped into a pot of black beans works. Do not expect to garnish with it."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "cilantro",
+    "notes": "Numbers borrowed wholesale from the USDA FoodKeeper entry 'cilantro' (1–2 weeks at room temperature, 2–3 weeks refrigerated), which is the closest soft-stemmed Mexican culinary herb in the dataset. No food safety agency or extension service publishes a storage life for epazote. The freezer entry deliberately carries no number because FoodKeeper's cilantro freezer note is itself only a warning that freeze damage will appear."
+  },
+  {
+    "slug": "huitlacoche",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Huitlacoche",
+    "subtitle": "corn smut, fresh galls",
+    "keywords": [
+      "huitlacoche",
+      "cuitlacoche",
+      "corn smut",
+      "Mexican truffle",
+      "ustilago maydis",
+      "玉米黑穗菌",
+      "玉米黑粉菌",
+      "墨西哥松露",
+      "ウイトラコチェ",
+      "クイトラコチェ",
+      "トウモロコシ黒穂病菌",
+      "hongo del maíz"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 7,
+          "unit": "days",
+          "tips": "Keep the galls whole and dry in a paper bag, not plastic — like any fungus they sweat and go slimy in a sealed bag. They darken from grey to black as they age, which is normal, but a sour smell is not."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 10,
+          "max": 12,
+          "unit": "months",
+          "tips": "Cook the galls down with onion and epazote first, cool, then freeze in portions. Raw huitlacoche freezes to mush."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "mushrooms",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'mushrooms' (3–7 days refrigerated, 10–12 months frozen). Huitlacoche is a fungus growing on corn ears and behaves like a very moist mushroom in storage, but no agency publishes a timeline for it. Canned and frozen huitlacoche are what most cooks outside Mexico can buy; those follow the can or packet date."
+  },
+  {
+    "slug": "masa-harina",
+    "category": "baking-staples",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Masa harina",
+    "subtitle": "dried nixtamalised corn flour",
+    "keywords": [
+      "masa harina",
+      "masa flour",
+      "nixtamalized corn flour",
+      "instant corn masa",
+      "馬薩玉米粉",
+      "鹼化玉米粉",
+      "墨西哥玉米粉",
+      "玉米薄餅粉",
+      "マサ・アリーナ",
+      "マサ粉",
+      "ニシュタマル化トウモロコシ粉",
+      "harina de maíz nixtamalizado",
+      "harina para tortillas"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "Cool, dry, dark, in the sealed bag inside an airtight tin. Masa harina still carries some corn germ oil, so it goes stale-rancid rather than mouldy; a crayon or cardboard smell means it is past it."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Refrigerating an opened bag in a sealed container roughly doubles its useful life and keeps pantry moths out. Let it come back to room temperature before mixing so it does not pull condensation."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "cornmeal-regular-degerminated",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'cornmeal, regular, degerminated' (6–12 months in the pantry from purchase, 1 year refrigerated after opening). Masa harina is dried, ground nixtamalised corn and stores as a corn flour does, but FoodKeeper has no entry for it and no agency publishes one. Note this is the dry flour — fresh masa is a completely different, perishable product, stored under its own record."
+  },
+  {
+    "slug": "masa-fresca",
+    "category": "baking-staples",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Fresh masa",
+    "subtitle": "wet nixtamal dough from a tortillería",
+    "keywords": [
+      "fresh masa",
+      "masa fresca",
+      "nixtamal dough",
+      "wet masa",
+      "masa para tortillas",
+      "新鮮玉米麵團",
+      "濕玉米麵團",
+      "鹼化玉米麵團",
+      "生マサ",
+      "マサ生地",
+      "ニシュタマル生地",
+      "masa de nixtamal",
+      "masa para tamales"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "Fresh masa is a wet, low-acid cooked starch and it sours quickly — that is the alcohol-and-yoghurt smell that tells you it has gone. Bag it airtight the moment you get home, at 40 °F (4 °C) or below, and never let it sit out for more than 2 hours; masa left on a warm counter is the same hazard as cooked rice left out."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Freeze in flattened, portioned slabs so it thaws fast. Thawed masa is drier and needs a splash of water kneaded back in; masa for tamales, already beaten with lard, freezes better than plain masa."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Refrigerator & Freezer Storage Chart",
+        "url": "https://www.fda.gov/media/74435/download"
+      }
+    ],
+    "analog": "leftovers-without-meat-fish-poultry-egg",
+    "notes": "The numbers are borrowed from the FoodKeeper leftovers entry (3–4 days refrigerated, 2–3 months frozen), which is also what the FDA's Refrigerator & Freezer Storage Chart gives for cooked, meat-free dishes. No agency publishes a shelf life for fresh nixtamal masa. The FDA chart is cited for the rule — the 40 °F line and the leftover timeline — not for masa specifically."
+  },
+  {
+    "slug": "tortillas-corn-fresh",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Corn tortillas",
+    "subtitle": "fresh from a tortillería, not the sealed supermarket bag",
+    "keywords": [
+      "corn tortillas",
+      "fresh tortillas",
+      "tortilleria tortillas",
+      "nixtamal tortillas",
+      "墨西哥薄餅",
+      "玉米薄餅",
+      "玉米餅",
+      "新鮮玉米薄餅",
+      "トルティーヤ",
+      "コーントルティーヤ",
+      "トウモロコシのトルティーヤ",
+      "tortillas de maíz",
+      "tortillas frescas"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "A warm stack straight from the tortillería is a moist cooked starch and it moulds fast in a closed bag. Keep it wrapped in a cloth inside a tortillero for the day you buy it; by day two it is stiff and better toasted than eaten soft. Never leave a warm stack sealed in plastic on the counter."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 5,
+          "max": 7,
+          "unit": "days",
+          "tips": "Bag them airtight once cool, at 40 °F (4 °C) or below. They come out of the fridge brittle and crack when folded — steam them for a few seconds or hit them on a dry comal and they come back. Blue-green or white fuzz means the whole stack goes."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Interleave with baking paper so you can pull off two at a time, then double-bag. Thaw in the bag; reheat straight from frozen on a comal."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      }
+    ],
+    "analog": "tortillas-corn",
+    "notes": "FoodKeeper's slug 'tortillas-corn' already exists and gives 25–45 days in the pantry and 60–90 days refrigerated with no conditions attached. Those figures describe a preservative-containing sealed supermarket packet, not a bag of hot tortillas from a tortillería, so this better-specified record was written alongside it rather than colliding with it. The refrigerated and frozen numbers here are the general cooked-dish figures NMSU E-118 gives, stretched slightly for a low-moisture griddled flatbread; treat them as best-quality guidance, not a safety limit. Fresh tortillas usually fail on mould and staling long before anything else."
+  },
+  {
+    "slug": "tamales",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Tamales",
+    "subtitle": "cooked, in the husk or leaf",
+    "keywords": [
+      "tamales",
+      "tamal",
+      "corn husk tamale",
+      "banana leaf tamale",
+      "墨西哥粽",
+      "玉米粽",
+      "塔馬利",
+      "玉米葉粽",
+      "タマレス",
+      "タマル",
+      "トウモロコシの包み蒸し",
+      "tamales de maíz",
+      "tamales oaxaqueños"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "Cool them fast and refrigerate within 2 hours — a tamal is wet cooked masa inside an insulating husk, so a stacked pot cools very slowly at the centre. Spread them in a single layer to chill, then bag. NMSU gives cooked meat dishes 3 to 4 days at 40 °F (4 °C)."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Freeze in the husk, bagged, once fully cold. Steam from frozen for 20 to 30 minutes; microwaving a frozen tamal leaves a cold core."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      },
+      {
+        "name": "GOV.UK / Food Standards Agency – Home food fact checker",
+        "url": "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker"
+      }
+    ],
+    "analog": null,
+    "notes": "The 3–4 day and 2–3 month figures are NMSU E-118's for cooked meat dishes. The FSA guidance is cited for the hazard, not the timeline: cooked starch left to cool slowly at room temperature grows Bacillus cereus, whose spores survive cooking, and FSA's rule for cooked rice is to chill it 'as quickly as possible, ideally within one hour'. A tall pot of tamales left to cool overnight is exactly that hazard. FSA also says never to reheat rice more than once and to reheat until steaming hot through; the same applies here."
+  },
+  {
+    "slug": "arepas",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Arepas",
+    "subtitle": "cooked corn cakes, and the dry masarepa flour",
+    "keywords": [
+      "arepas",
+      "arepa",
+      "masarepa",
+      "precooked cornmeal",
+      "玉米餅",
+      "委內瑞拉玉米餅",
+      "哥倫比亞玉米餅",
+      "阿雷帕",
+      "アレパ",
+      "アレパス",
+      "トウモロコシのパン",
+      "arepas de maíz",
+      "harina de maíz precocida"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "The dry precooked cornmeal (masarepa, harina de maíz precocida) keeps in a sealed container somewhere cool and dark. It is degerminated, so it stales rather than turning rancid; a flat, cardboard smell means the arepas will taste of nothing."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "Cook them, cool them, then bag airtight at 40 °F (4 °C) or below. Store them plain — an arepa split and filled with cheese, meat or avocado is a made-up sandwich and keeps only as long as its filling. Refresh on a dry griddle; the crust comes back, the crumb stays denser."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Griddle them until set but still pale, cool, then freeze flat in a single layer before bagging. Finish from frozen on the griddle or in the oven. Raw arepa dough freezes poorly — it dries and cracks."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      }
+    ],
+    "analog": "cornmeal-regular-degerminated",
+    "notes": "Two products in one record. The cooked-arepa figures are NMSU E-118's cooked-dish numbers (3–4 days refrigerated, months frozen). The pantry figure for the dry masarepa flour is borrowed from the FoodKeeper entry 'cornmeal, regular, degerminated' (6–12 months from purchase); no agency publishes a shelf life for precooked cornmeal specifically."
+  },
+  {
+    "slug": "cassava-fresh-root",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Cassava",
+    "subtitle": "fresh root — yuca, manioc",
+    "keywords": [
+      "cassava",
+      "yuca",
+      "manioc",
+      "mandioca",
+      "tapioca root",
+      "木薯",
+      "樹薯",
+      "木薯根",
+      "樹薯根",
+      "キャッサバ",
+      "タピオカの根",
+      "マニオク",
+      "yuca fresca",
+      "mandioca fresca"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "days",
+          "tips": "USDA Agriculture Handbook 66: fresh cassava roots are highly perishable under ambient conditions and become unmarketable in 3 days or less. The failure is vascular streaking — blue-purple lines through the flesh, worst at the cut end and at any break in the skin. Cut a root across before cooking and discard it if it is streaked."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "AH-66: cassava is chilling sensitive but tolerates 0 to 5 °C (32 to 41 °F) with minimal symptoms provided it is used as soon as it comes out of storage. Wax-coated import roots hold over 30 days at that temperature commercially; an unwaxed root in a home fridge loses water fast, so wrap it in plastic or a damp cloth and treat one to two weeks as the limit."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Peel, cut into chunks, remove the woody core and freeze raw, or boil first and freeze cooked. Do not freeze it in the skin."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "USDA ARS Agriculture Handbook 66 – The Commercial Storage of Fruits, Vegetables, and Florist and Nursery Stocks (Cassava chapter)",
+        "url": "https://www.ars.usda.gov/ARSUserFiles/oc/np/CommercialStorage/CommercialStorage.pdf"
+      },
+      {
+        "name": "Hong Kong Centre for Food Safety – Cyanide Poisoning and Cassava (Food Safety Focus)",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_19_01.html"
+      }
+    ],
+    "analog": "yuca-cassava",
+    "notes": "Cassava must be peeled and thoroughly cooked. Hong Kong CFS: cassava contains cyanogenic glycosides that break down to hydrogen cyanide, bitter roots carrying up to 400 mg per kg, and raw or inadequately cooked cassava causes cyanide poisoning. CFS's method is to peel, cut into small pieces, soak in water and then boil thoroughly; bitter varieties additionally need prolonged soaking, or grating and fermenting, before cooking. Never eat cassava raw. FoodKeeper already has a generic 'yuca-cassava' slug (7 days pantry, 3 days fridge, 1–2 months freezer) with no conditions and no mention of the cyanide hazard, so this better-specified record was written alongside it; the freezer figure here is FoodKeeper's, borrowed, since AH-66 covers fresh storage only."
+  },
+  {
+    "slug": "cassava-frozen",
+    "category": "frozen-foods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Cassava",
+    "subtitle": "frozen peeled chunks",
+    "keywords": [
+      "frozen cassava",
+      "frozen yuca",
+      "frozen manioc",
+      "冷凍木薯",
+      "冷凍樹薯",
+      "冷凍キャッサバ",
+      "yuca congelada",
+      "mandioca congelada"
+    ],
+    "storage": {
+      "freezer": {
+        "base": {
+          "min": 10,
+          "max": 18,
+          "unit": "months",
+          "tips": "Keep at 0 °F (−18 °C) in the unopened bag; reseal tightly once opened or the chunks frost-burn white and cook woolly. Cook from frozen — boil until a fork goes through with no resistance. Do not thaw and refreeze."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "Once boiled, keep cooked cassava covered at 40 °F (4 °C) or below and use within 3 to 4 days, the general NMSU figure for a cooked dish. It sets hard and starchy in the fridge; reheat it in its cooking liquid, or fry it."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      },
+      {
+        "name": "Hong Kong Centre for Food Safety – Cyanide Poisoning and Cassava (Food Safety Focus)",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_19_01.html"
+      }
+    ],
+    "analog": "frozen-vegetables",
+    "notes": "Frozen cassava is peeled, trimmed and usually blanched before freezing, so it behaves like any commercially frozen vegetable; the 10–18 month figure is borrowed from the FoodKeeper frozen-vegetable entry rather than published for cassava. The cooked-and-refrigerated figure is NMSU E-118's for cooked dishes. Freezing does not remove cyanogenic glycosides — CFS's rule that cassava must be thoroughly cooked applies to the frozen product exactly as it does to the fresh root."
+  },
+  {
+    "slug": "malanga",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Malanga",
+    "subtitle": "fresh corm — also sold as taro, dasheen, eddoe, yautía, cocoyam",
+    "keywords": [
+      "malanga",
+      "yautia",
+      "taro corm",
+      "dasheen",
+      "eddoe",
+      "cocoyam",
+      "芋頭",
+      "芋艿",
+      "小芋頭",
+      "美洲芋",
+      "タロイモ",
+      "サトイモ",
+      "マランガ",
+      "ヤウティア",
+      "malanga blanca",
+      "yautía lila"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 2,
+          "max": 4,
+          "unit": "weeks",
+          "tips": "USDA Agriculture Handbook 66 gives taro and its relatives 2 to 4 weeks at 20 °C (68 °F). Good ventilation is essential — keep the corms loose in a basket somewhere cool, dark and airy, never bagged. Do not wash off the clinging soil until you cook."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 8,
+          "max": 8,
+          "unit": "weeks",
+          "tips": "AH-66: up to 18 weeks at 7 to 10 °C (45 to 50 °F) and 80–95 % humidity, and up to 8 weeks at 11 to 13 °C (52 to 55 °F). A domestic fridge runs colder than either, and chilling injury shows as pitting and faster rot, so use the least cold part of the fridge and treat 8 weeks as the ceiling. AH-66 also warns that a corm brought back out to room temperature must be eaten within 2 days."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 10,
+          "max": 12,
+          "unit": "months",
+          "tips": "Peel, cube and freeze raw, or boil and freeze cooked. Wear gloves when peeling — the raw sap contains calcium oxalate raphides and itches."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "USDA ARS Agriculture Handbook 66 – The Commercial Storage of Fruits, Vegetables, and Florist and Nursery Stocks (Taro chapter)",
+        "url": "https://www.ars.usda.gov/ARSUserFiles/oc/np/CommercialStorage/CommercialStorage.pdf"
+      }
+    ],
+    "analog": "potatoes",
+    "notes": "AH-66's taro chapter explicitly covers the plant 'also known as tannier, malanga, dasheen, eddoe, and cocoyam', so the temperatures and durations are sourced. In the market 'malanga' most often means Xanthosoma rather than Colocasia; AH-66 treats them together and their storage behaviour is the same. AH-66 also states plainly that all parts of the plant must be cooked before eating, because of the acridity caused by calcium oxalate raphides — raw malanga burns the mouth. The freezer figure has no source and is borrowed from the FoodKeeper entry 'potatoes', whose 10–12 month freezer figure applies to cooked, mashed potato — which is how frozen malanga is actually kept."
+  },
+  {
+    "slug": "name-tropical-yam",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Ñame",
+    "subtitle": "true tropical yam (Dioscorea) — not a sweet potato",
+    "keywords": [
+      "name",
+      "ñame",
+      "true yam",
+      "tropical yam",
+      "dioscorea",
+      "igname",
+      "山藥",
+      "薯蕷",
+      "大薯",
+      "熱帶山藥",
+      "非洲山藥",
+      "ヤムイモ",
+      "ヤム芋",
+      "ダイジョ",
+      "ñame blanco",
+      "ñame criollo"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 2,
+          "max": 4,
+          "unit": "months",
+          "tips": "A true yam is a keeping crop: cool, dark, dry and above all well ventilated, spread out rather than piled, and never in a plastic bag. Check for soft spots and sprouting, and rub sprouts off as they appear. Seal a cut face and use that tuber within days."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Do not refrigerate a whole ñame. Like other tropical roots it is chilling sensitive, and a cold fridge brings internal browning and rot on faster than a cool pantry does. Refrigerate only peeled or cut pieces, submerged in water, for a day or two."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 10,
+          "max": 12,
+          "unit": "months",
+          "tips": "Peel, cube and boil, then freeze; or freeze the cooked, pounded purée. Raw frozen yam turns grey and watery."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "potatoes",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'potatoes' — 1 to 2 months in a cool pantry for whole tubers and 10 to 12 months frozen for cooked, mashed potato — and stretched at the pantry end because West African and Caribbean ñame is a long-storing tuber traditionally kept for months in a ventilated barn, far longer than a potato. No food safety agency or extension service publishes a home storage life for ñame, and USDA Agriculture Handbook 66 has no yam chapter. FoodKeeper's 'potatoes' entry also carries the do-not-refrigerate rule that applies here. Note the naming trap: in US supermarkets 'yam' usually means a sweet potato, which is covered by the separate FoodKeeper slug 'yams-sweet-potatoes'. This record is the real thing — rough-barked, starchy, sold in heavy lengths."
+  },
+  {
+    "slug": "chayote",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Chayote",
+    "subtitle": "fresh — mirliton, choko, vegetable pear",
+    "keywords": [
+      "chayote",
+      "mirliton",
+      "choko",
+      "vegetable pear",
+      "christophene",
+      "chocho",
+      "佛手瓜",
+      "隼人瓜",
+      "梨瓜",
+      "合掌瓜",
+      "ハヤトウリ",
+      "チャヨテ",
+      "chayote fresco",
+      "güisquil"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "A cool room suits chayote better than a cold fridge: Texas A&M gives ideal storage as 50 to 59 °F (10 to 15 °C) at 90 % humidity. The failure at room temperature is shrivelling and, eventually, a seedling pushing out of the broad end — a sprouted fruit is past eating, though it will grow into a vine."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 4,
+          "max": 6,
+          "unit": "weeks",
+          "tips": "University of Hawai'i CTAHR: chayote transports well for up to 6 weeks at 50 °F (10 °C) and 90 % relative humidity. Texas A&M puts chilling injury below 50 °F, which is colder than most domestic fridges run, so use the warmest drawer and expect pitting if it sits at the back. Both sources agree on the real enemy — chayotes shrivel badly under dry conditions regardless of temperature — so keep them in a loosely closed or perforated bag."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 10,
+          "max": 12,
+          "unit": "months",
+          "tips": "Peel, seed, dice and blanch before freezing; raw frozen chayote thaws to water. Frozen chayote is for soups and stews, never for a salad."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "University of Hawai'i CTAHR – Chayote, Vegetable Pear, Choko",
+        "url": "https://gms.ctahr.hawaii.edu/gs/handler/getmedia.ashx?moid=3171&dt=3&g=12"
+      },
+      {
+        "name": "Texas A&M AgriLife Aggie Horticulture – Chayote (Specialty Vegetables)",
+        "url": "https://aggie-horticulture.tamu.edu/vegetable/guides/specialty-vegetables/chayote/"
+      }
+    ],
+    "analog": "summer-squash",
+    "notes": "The refrigerated figure is CTAHR's 6 weeks at 50 °F, trimmed at the low end because a domestic fridge is colder than the recommended range and Texas A&M puts the chilling-injury threshold at 50 °F. The pantry figure is inferred from the same two sources — the recommended holding range of 50 to 59 °F is close to a cool room — rather than published directly, so treat it as an estimate. The freezer figure has no source and is borrowed from the FoodKeeper entry 'summer-squash', chayote being a cucurbit that behaves the same way frozen. CTAHR also notes the seed cannot be dried: the whole fruit is planted, which is why sprouted chayotes turn up in shops."
+  },
+  {
+    "slug": "aguaymanto",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Aguaymanto",
+    "subtitle": "cape gooseberry, goldenberry, poha — in the husk",
+    "keywords": [
+      "aguaymanto",
+      "cape gooseberry",
+      "goldenberry",
+      "golden berry",
+      "poha",
+      "physalis peruviana",
+      "inca berry",
+      "燈籠果",
+      "秘魯酸漿",
+      "黃金莓",
+      "醋栗",
+      "食用鬼灯",
+      "ゴールデンベリー",
+      "食用ホオズキ",
+      "ケープグーズベリー",
+      "uchuva",
+      "uvilla"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "University of Hawai'i CTAHR: the fruit lasts up to several months dry and in the husk, and it should be stored dry. Leave the papery calyx on, spread the fruit in a single layer somewhere cool and airy, and never wash it until you eat it — damp husks mould and the mould goes through to the berry."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "CTAHR: large commercial producers store them in the husk at 33 °F (about 1 °C). At home that means the coldest shelf, in an open or perforated container so condensation can escape. Husked fruit is a different proposition — the bare berry is sticky and bruises, and lasts days rather than months."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "CTAHR: they will keep more than a year when husked and frozen. Pull the husks off, rinse the sticky coating away, dry thoroughly and freeze on a tray before bagging."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "University of Hawai'i CTAHR – Poha (Cape Gooseberry)",
+        "url": "https://gms.ctahr.hawaii.edu/gs/handler/getmedia.ashx?moid=3093&dt=3&g=12"
+      }
+    ],
+    "analog": null,
+    "notes": "CTAHR gives the storage life qualitatively — 'up to several months dry and in-husk', commercial storage at 33 °F, 'more than a year when husked and frozen'. The month ranges here are that language put into numbers conservatively; the 33 °F commercial figure assumes better humidity control than a home fridge has. Aguaymanto is a Physalis, like the tomatillo already in this file, and behaves the same way: the husk is the packaging."
+  },
+  {
+    "slug": "lucuma",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Lúcuma",
+    "subtitle": "fresh fruit, and the dried flour",
+    "keywords": [
+      "lucuma",
+      "lúcuma",
+      "lucmo",
+      "eggfruit",
+      "pouteria lucuma",
+      "蛋黃果",
+      "仙桃",
+      "盧庫馬",
+      "蛋果",
+      "ルクマ",
+      "エッグフルーツ",
+      "クダモノタマゴ",
+      "lúcuma fresca",
+      "harina de lúcuma"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Lúcuma is climacteric and is picked hard: leave it at room temperature, traditionally buried in straw or rice, until it gives to a thumb. USDA Agriculture Handbook 66 notes that tree-ripened fruit becomes soft and very fragile and that the pulp is very dry when ripe — a dense, mealy, butterscotch-tasting flesh rather than a juicy one. Once soft, use it within a day or two."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 5,
+          "unit": "days",
+          "tips": "Refrigerate only once ripe. A hard lúcuma put in the fridge will never ripen properly, which is the standard behaviour of a chilling-sensitive tropical fruit."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 8,
+          "unit": "months",
+          "tips": "The pulp is what gets frozen, almost always. Scoop it, discard the seed and the fibrous core, and freeze in portions — this is how lúcuma reaches most kitchens outside Peru. The dried flour (harina de lúcuma) is a separate product: keep it sealed in a cool, dark cupboard like any low-oil flour and use it within about a year."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "USDA ARS Agriculture Handbook 66 – The Commercial Storage of Fruits, Vegetables, and Florist and Nursery Stocks (Lucuma chapter)",
+        "url": "https://www.ars.usda.gov/ARSUserFiles/oc/np/CommercialStorage/CommercialStorage.pdf"
+      }
+    ],
+    "analog": "sapote",
+    "notes": "AH-66 has a lucuma chapter but publishes no storage temperature or storage life for it — only maturity classes and the observation that ripe fruit is soft, fragile and dry-fleshed. The numbers here are therefore borrowed from the USDA FoodKeeper entry 'sapote' (ripen at room temperature then 1–2 days, 3–5 days refrigerated, frozen as sweetened pulp), lúcuma being a Sapotaceae fruit that ripens the same way; the freezer figure is stretched to the tropical-fruit-pulp range because lúcuma pulp is usually frozen unsweetened in bulk. The flour figure in the freezer tip is an estimate, not a sourced number."
+  },
+  {
+    "slug": "queso-fresco",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Queso fresco",
+    "subtitle": "fresh unaged white cheese — also queso blanco, requesón, panela",
+    "keywords": [
+      "queso fresco",
+      "queso blanco",
+      "requeson",
+      "queso panela",
+      "fresh cheese",
+      "hispanic style cheese",
+      "墨西哥新鮮乳酪",
+      "白乳酪",
+      "新鮮起司",
+      "生乳酪",
+      "ケソ・フレスコ",
+      "ケソフレスコ",
+      "フレッシュチーズ",
+      "queso fresco mexicano",
+      "requesón"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "Keep it at or below 40 °F (4 °C) — the FDA's explicit instruction for this cheese — sealed, and away from anything ready-to-eat. FDA is blunter still about leftovers: 'Do not keep leftover queso fresco-type cheeses after they have been opened to minimize the risk of Listeria growth.' Discard it if it has sat between 40 °F and 140 °F for more than 2 hours."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Freezing works for cooking only. The curd turns grainy and weeps on thawing, so use frozen queso fresco crumbled into a filling or melted into a sauce, never sliced onto a plate. Freezing does not kill Listeria — it only stops it multiplying."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Queso Fresco-type Cheeses Consumer Guidance",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/queso-fresco-type-cheeses-consumer-guidance"
+      },
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      }
+    ],
+    "analog": "cheese-soft-brie-bel-paese-goat",
+    "notes": "This is a documented Listeria vehicle and the reader deserves the plain version. FDA: queso fresco-type cheeses are 'high in moisture and low in acidity', which makes them an ideal environment for Listeria, and 'unlike many other foodborne bacteria, Listeria can thrive in cold environments, including inside refrigerators' — so refrigeration slows this organism, it does not stop it. Raw milk is the older risk, but FDA states that recent outbreaks were caused by cheeses made from pasteurized milk contaminated after pasteurisation, and it advises high-risk groups — pregnant women, adults over 65, anyone immunocompromised — to avoid queso fresco-type cheeses made from either pasteurized or unpasteurized milk. Everyone else should buy cheese labelled as made with pasteurized milk. The 1–2 week timeline is borrowed from the FoodKeeper soft-cheese entry and matches NMSU E-118's 2 weeks for soft cheese; FDA gives no number of its own, only 'do not keep leftovers'."
+  },
+  {
+    "slug": "queso-oaxaca",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Queso Oaxaca",
+    "subtitle": "quesillo — pulled, wound into a ball",
+    "keywords": [
+      "queso oaxaca",
+      "quesillo",
+      "oaxaca cheese",
+      "mexican string cheese",
+      "asadero",
+      "瓦哈卡乳酪",
+      "墨西哥拉絲乳酪",
+      "墨西哥起司球",
+      "ケソ・オアハカ",
+      "オアハカチーズ",
+      "ケシージョ",
+      "queso de hebra"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "weeks",
+          "tips": "Unopened and vacuum-packed it holds for weeks at or below 40 °F (4 °C). Once the ball is broken into, wrap the remainder tightly and use it within about a week — every pulled strand is a new surface. It should squeak and pull; a slick, sour or ammoniacal surface means it is done."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Freeze it as an unbroken ball or in wound skeins, double-wrapped. It thaws crumbly and loses some of the pull, so freeze it for quesadillas and tlayudas rather than for eating in strands."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Queso Fresco-type Cheeses Consumer Guidance",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/queso-fresco-type-cheeses-consumer-guidance"
+      },
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      }
+    ],
+    "analog": "string-cheese",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'string-cheese' (which gives 5 months refrigerated from purchase) and cut back hard, because Oaxaca is sold as a moist hand-wound ball rather than a sealed industrial stick, and because NMSU E-118 gives opened cheese roughly a month. Treat the 3–4 weeks as best-quality guidance for an unopened pack, not a safety limit. FDA is cited for the hazard, not the timeline: Oaxaca is a Mexican-style cheese that is pulled and handled by hand, and Listeria contamination of Hispanic-style cheeses has occurred with pasteurized milk as well as raw, so buy it labelled pasteurizada, keep it at or below 40 °F, and discard it if it has sat in the 40–140 °F danger zone for more than 2 hours. Pregnant, elderly and immunocompromised readers should treat any fresh Mexican-style cheese with the same caution FDA applies to queso fresco."
+  },
+  {
+    "slug": "cotija",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Cotija",
+    "subtitle": "aged, dry and salty — the añejo style",
+    "keywords": [
+      "cotija",
+      "queso cotija",
+      "cotija anejo",
+      "mexican aged cheese",
+      "grating cheese",
+      "科蒂哈乳酪",
+      "墨西哥硬質乳酪",
+      "墨西哥陳年乳酪",
+      "コティハ",
+      "コティハチーズ",
+      "熟成メキシコチーズ",
+      "queso añejo",
+      "queso cotija de montaña"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 6,
+          "unit": "months",
+          "tips": "A properly aged cotija is dry, hard and heavily salted, and it keeps like a parmesan. Wrap it in waxed or greaseproof paper inside a loose bag — sealed plastic makes it sweat — and keep it at or below 40 °F (4 °C). NMSU gives unopened hard cheese 3 to 6 months and opened hard cheese about a month; a wedge already cut into is nearer the latter. Surface mould on a hard cheese can be cut a good inch away and the rest used."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Freezing a hard cheese makes it crumbly, which barely matters for something you were going to grate anyway. Freeze it in a block, not grated, and grate from part-frozen."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      }
+    ],
+    "analog": "cheese-hard-cheddar-swiss-block-parmesan",
+    "notes": "Cotija sold outside Mexico varies enormously: the true aged Cotija de Montaña is rock hard and keeps for months, while much of what is labelled cotija in supermarkets is a moist, crumbly fresh cheese closer to queso fresco. This record covers the aged, dry style. If yours is wet and crumbles like feta, use the queso fresco record and its Listeria warning instead. The figures match NMSU E-118's hard-cheese line and the FoodKeeper entry 'cheese, hard' (6 months unopened, 3–4 weeks opened, 6 months frozen)."
+  },
+  {
+    "slug": "crema-mexicana",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Crema mexicana",
+    "subtitle": "cultured pourable cream — crema salvadoreña, crema centroamericana",
+    "keywords": [
+      "crema mexicana",
+      "mexican crema",
+      "crema salvadorena",
+      "table cream cultured",
+      "墨西哥酸奶油",
+      "墨西哥鮮奶油",
+      "墨西哥發酵鮮奶油",
+      "クレマ",
+      "メキシカンクレマ",
+      "サワークリーム風クリーム",
+      "crema agria",
+      "crema espesa"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 2,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "At or below 40 °F (4 °C), lid on, and never returned to the tub from a plate. Crema is cultured, so it sours further rather than going off cleanly — thin, separated whey on top can be stirred back in, but a fizzy, yeasty or bitter taste means it is finished. Squeeze bottles are worse than tubs for keeping it clean: wipe the nozzle."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Do not freeze it. Cultured cream splits into grains and water on thawing and will not come back, even stirred."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Queso Fresco-type Cheeses Consumer Guidance",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/queso-fresco-type-cheeses-consumer-guidance"
+      }
+    ],
+    "analog": "dips-sour-cream-based",
+    "notes": "The 2-week figure is borrowed from the USDA FoodKeeper entry 'dips, sour cream based'; FoodKeeper's own 'sour cream' slug carries no timeline at all, and no agency publishes one for crema. The FDA page is cited for the hazard and the temperature rule, not the number. It matters here because crema is a fresh, low-acid, high-moisture dairy product sold alongside queso fresco and often made by the same small producers — Listeria grows at refrigerator temperature, so buy crema made with pasteurized milk, keep it at or below 40 °F, and discard it if it has been in the 40–140 °F danger zone for more than 2 hours. Unpasteurised crema bought informally is not a safe product for a pregnant, elderly or immunocompromised reader."
+  },
+  {
+    "slug": "dulce-de-leche",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dulce de leche",
+    "subtitle": "jarred or canned milk caramel",
+    "keywords": [
+      "dulce de leche",
+      "manjar",
+      "manjar blanco",
+      "arequipe",
+      "doce de leite",
+      "milk caramel",
+      "牛奶焦糖醬",
+      "煉乳焦糖醬",
+      "焦糖牛奶醬",
+      "南美焦糖醬",
+      "ドゥルセ・デ・レチェ",
+      "ミルクジャム",
+      "ミルクキャラメルクリーム"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Unopened, in a cool dark cupboard. The jar or can is commercially heat-processed and shelf-stable; check the date on the lid. A can that is bulging, leaking or rusted through goes in the bin unopened. Homemade dulce de leche is not shelf-stable and belongs in the fridge from the moment it cools."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 3,
+          "max": 4,
+          "unit": "weeks",
+          "tips": "Once opened, keep it covered at or below 40 °F (4 °C) and always take it out with a clean spoon — a buttery knife is what turns a jar mouldy. It stiffens to a paste when cold; stand the jar in warm water rather than microwaving it. Decant anything left in an opened can into a glass jar."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "milk-canned-evaporated-condensed",
+    "notes": "Numbers based on the USDA FoodKeeper entry 'milk, canned evaporated or condensed' — 12 months unopened in the pantry, and 4 to 5 days refrigerated after opening. The unopened figure is used as FoodKeeper gives it. The after-opening figure has been deliberately extended, because dulce de leche is condensed milk cooked much further: far more water has been driven off and the sugar concentration is far higher, which is what makes it keep. That extension is our judgement, not a published number — if you want the conservative answer, use FoodKeeper's 4 to 5 days. Homemade dulce de leche, and the boiled-can version, should be treated as the perishable end of that range."
+  },
+  {
+    "slug": "cajeta",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Cajeta",
+    "subtitle": "goat's milk caramel from Celaya",
+    "keywords": [
+      "cajeta",
+      "cajeta de celaya",
+      "goat milk caramel",
+      "cajeta quemada",
+      "cajeta envinada",
+      "山羊奶焦糖醬",
+      "羊奶焦糖醬",
+      "墨西哥焦糖醬",
+      "カヘタ",
+      "ヤギミルクキャラメル",
+      "山羊乳のミルクジャム",
+      "dulce de leche de cabra"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Unopened, cool and dark. Commercial cajeta is heat-processed and very high in sugar; the date on the jar is the guide. The goat's milk gives it a tang that deepens with age, which is not spoilage."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 3,
+          "max": 4,
+          "unit": "weeks",
+          "tips": "Covered, at or below 40 °F (4 °C), clean spoon every time. Cajeta is looser and more pourable than most dulce de leche, so it is more likely to be contaminated by drips and double-dipping. Cajeta envinada carries a little alcohol, which helps it keep, but not enough to make it shelf-stable once opened."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "milk-canned-evaporated-condensed",
+    "notes": "Cajeta is dulce de leche made with goat's milk; storage behaviour is the same. Numbers based on the USDA FoodKeeper entry 'milk, canned evaporated or condensed' (12 months unopened; 4–5 days refrigerated after opening), with the after-opening figure extended for the same reason as the dulce de leche record — cajeta is cooked much further down and carries far more sugar per unit of water. That extension is our judgement rather than a published figure. No food safety agency publishes a shelf life for cajeta."
+  },
+  {
+    "slug": "mole-paste",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Mole paste",
+    "subtitle": "concentrated jarred paste — negro, poblano, coloradito",
+    "keywords": [
+      "mole paste",
+      "mole poblano",
+      "mole negro",
+      "mole coloradito",
+      "mole rojo",
+      "pasta de mole",
+      "墨西哥摩爾醬",
+      "摩爾醬",
+      "墨西哥辣椒巧克力醬",
+      "モレソース",
+      "モレ・ペースト",
+      "モーレ",
+      "mole en pasta",
+      "mole oaxaqueño"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Unopened jars and tubs keep in a cool dark cupboard. Mole paste is chiles, nuts, seeds and often chocolate ground to a stiff concentrate — the fat in the nuts and seeds is what limits it, so a rancid, crayon-like smell is the end even when the jar looks perfect."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 1,
+          "max": 3,
+          "unit": "months",
+          "tips": "Once opened, refrigerate. Press the surface flat, film it with a thin layer of oil or press cling film onto it so no air sits on the paste, and always use a clean dry spoon. Mould on the surface of an opened jar means the whole jar."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Mole paste freezes very well because it is low in water. Freeze it in tablespoon-sized blobs on a tray, then bag them — you thaw only what one pot needs. Made-up mole sauce, thinned with stock, is a cooked dish and keeps 3 to 4 days refrigerated or 2 to 3 months frozen."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      }
+    ],
+    "analog": "hoisin-sauce",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'hoisin sauce' (18–24 months unopened in the pantry, 3–6 months refrigerated after opening), trimmed because mole paste carries far more nut and seed oil than hoisin does and goes rancid sooner. No agency publishes a shelf life for mole. NMSU E-118 is cited only for the made-up-sauce figures in the freezer tip, which are its general cooked-dish numbers."
+  },
+  {
+    "slug": "chicharron",
+    "category": "snacks-nuts-seeds",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Chicharrón",
+    "subtitle": "puffed fried pork rind; see the note for the meaty prensado style",
+    "keywords": [
+      "chicharron",
+      "chicharrón",
+      "pork rind",
+      "pork crackling",
+      "chicharron de cerdo",
+      "cueritos",
+      "炸豬皮",
+      "豬皮酥",
+      "豬油渣",
+      "脆豬皮",
+      "チチャロン",
+      "豚皮の唐揚げ",
+      "ポークラインド",
+      "chicharrón prensado"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Sealed and dry, somewhere cool and dark. A puffed chicharrón is almost all rendered protein and fat with the water driven out, so it fails by going soft and then rancid rather than by growing anything. Once the bag is open it goes limp within a week or two in humid weather — clip the bag, or decant into a tin."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Do not refrigerate the dry puffed kind — it pulls moisture and turns leathery. The fridge is only for the wet styles: chicharrón prensado, chicharrón en salsa verde, or a meaty chicharrón still soft with fat. Those are cooked meat and keep 3 to 4 days at or below 40 °F (4 °C)."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      }
+    ],
+    "analog": "potato-chips",
+    "notes": "Two very different products share the name. The dry, puffed, market-stall chicharrón is a shelf-stable snack, and its numbers are borrowed from the FoodKeeper entry 'potato chips' (2 months from purchase, 1–2 weeks after opening) — nothing better exists and both fail the same way, on staling and rancidity. The meaty, fatty styles — prensado, and anything sold soft or in sauce — are cooked meat, not a snack, and take NMSU E-118's cooked-meat-dish figure of 3 to 4 days refrigerated. If in doubt about which you have: if it bends, refrigerate it."
+  },
+  {
+    "slug": "cecina",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Cecina",
+    "subtitle": "thin salted, air-dried beef",
+    "keywords": [
+      "cecina",
+      "cecina de leon",
+      "cecina de res",
+      "salted dried beef",
+      "cecina enchilada",
+      "牛肉乾",
+      "西班牙牛肉乾",
+      "鹽漬風乾牛肉",
+      "墨西哥薄切牛肉",
+      "セシーナ",
+      "干し牛肉",
+      "スペイン産干し肉",
+      "cecina de vacuno",
+      "tasajo"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "A whole, properly dried Spanish cecina hangs in a cool, dry, airy place like a dry-cured ham does. The salt and the water loss are the preservation. Wrap the cut face in a cloth, not plastic. This applies to a hard, fully cured piece — not to the moist Mexican cecina below."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 2,
+          "max": 3,
+          "unit": "weeks",
+          "tips": "Once vacuum-packed slices are opened, or a piece is cut into, refrigerate at or below 40 °F (4 °C) and use within two to three weeks. Mexican cecina — thin sheets of beef salted only briefly, often sold red with chile as cecina enchilada — is a fresh product, not a cured one: keep it refrigerated and cook it within 2 to 3 days, or freeze it."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freezing a dry cure is about stopping the fat oxidising rather than about safety. Interleave the slices with paper. Long freezing makes cured beef dull and tallowy."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Spain AESAN – Higiene de los alimentos",
+        "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos"
+      }
+    ],
+    "analog": "sausage-hard-dry-sliced",
+    "notes": "The refrigerated and frozen figures are borrowed from the USDA FoodKeeper entry 'sausage, hard/dry, sliced' (2–3 weeks refrigerated, 1–2 months frozen), the closest sliced dry-cured product in the dataset; the pantry figure for a whole piece is our extrapolation from the same logic that makes a whole dry-cured ham shelf-stable, not a published number. AESAN is cited for the rule rather than the timeline: it sets 7 °C or below for meat from ungulates and treats a dry-cured product's stability as a function of its salt and dryness. Spanish cecina de León is an IGP beef product cured for months; Mexican cecina is a completely different, barely-salted fresh cut, and confusing the two is how people leave raw beef on a counter."
+  },
+  {
+    "slug": "carnitas",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Carnitas",
+    "subtitle": "pork confited in its own fat",
+    "keywords": [
+      "carnitas",
+      "carnitas de cerdo",
+      "confit pork",
+      "michoacan carnitas",
+      "墨西哥燉豬肉",
+      "油封豬肉",
+      "墨西哥手撕豬肉",
+      "カルニータス",
+      "豚肉のコンフィ",
+      "メキシコ風煮込み豚",
+      "carnitas michoacanas"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "NMSU gives cooked meat and meat dishes 3 to 4 days at or below 40 °F (4 °C). Get it into shallow containers within 2 hours of coming out of the pot — a deep tub of hot pork in fat holds its heat for hours, which is exactly the wrong thing. Keeping the meat submerged in its own strained fat seals it from air and helps, but it is not a cure and does not extend the safe window."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Freeze in portions with a spoonful of the fat and a splash of the cooking juices, which is what stops it drying to string. Reheat spread out in a hot dry pan so it crisps, not in a microwave."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      }
+    ],
+    "analog": null,
+    "notes": "NMSU E-118's cooked meat and meat dishes line: 3 to 4 days refrigerated, 2 to 3 months frozen. The traditional idea that pork under a sealed cap of lard keeps for weeks in a cool larder belongs to unrefrigerated kitchens and to a much drier, saltier confit than restaurant carnitas; it is not a rule to apply to a tub from a taquería."
+  },
+  {
+    "slug": "ceviche",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Ceviche",
+    "subtitle": "raw fish or shellfish cured in citrus",
+    "keywords": [
+      "ceviche",
+      "cebiche",
+      "seviche",
+      "tiradito",
+      "leche de tigre",
+      "檸檬醃生魚",
+      "酸漬生魚",
+      "秘魯檸檬醃魚",
+      "南美醃生魚",
+      "セビーチェ",
+      "セビチェ",
+      "マリネした生魚",
+      "ceviche de pescado",
+      "ceviche mixto"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 1,
+          "unit": "days",
+          "tips": "Make it and eat it the same day, kept covered at or below 40 °F (4 °C) and never left out for more than 2 hours — the FDA's limit for seafood, one hour above 90 °F. It is at its best within the hour anyway; the acid keeps working and the fish goes chalky and dry overnight. Marinate in the fridge, not on the counter."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Never freeze finished ceviche — the acid-firmed flesh thaws to cotton wool. Freezing belongs at the other end: freeze the fish before you make the dish, to kill parasites."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Selecting and Serving Fresh and Frozen Seafood Safely",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely"
+      },
+      {
+        "name": "Spain AESAN – Higiene de los alimentos",
+        "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos"
+      }
+    ],
+    "analog": "cooked-fish-all",
+    "notes": "Ceviche is acid-denatured, not cooked. The flesh turns white and firm because the citrus unfolds its proteins; that is a texture change, not a kill step. Acid does not reliably destroy parasites and it does not destroy Vibrio, Salmonella or Listeria. FDA is direct about the underlying risk — 'it's always best to cook seafood thoroughly to minimize the risk of foodborne illness', and at-risk groups should avoid raw or undercooked fish and shellfish altogether. What does work against parasites is freezing: FDA states that 'some species of fish can contain parasites, and freezing will kill any parasites that may be present', while warning that 'freezing doesn't kill all harmful germs'. AESAN sets the freezing conditions for fish eaten raw or given insufficient treatment — −20 °C for 24 hours, or −35 °C for 15 hours — and a domestic freezer takes far longer than a commercial blast freezer to get a fish that cold right through, so several days is the practical home equivalent. Buy fish sold as sashimi- or ceviche-grade, meaning already commercially frozen, or freeze it yourself first. The 1-day timeline is a quality judgement anchored on FoodKeeper's 'cooked fish' entry (3–4 days) and cut hard because ceviche is raw; no agency publishes a shelf life for it."
+  },
+  {
+    "slug": "jamon-serrano-whole-leg",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Jamón serrano",
+    "subtitle": "whole leg, uncut or on the stand",
+    "keywords": [
+      "jamon serrano",
+      "jamón serrano",
+      "serrano ham",
+      "whole leg ham",
+      "dry cured ham",
+      "西班牙火腿",
+      "塞拉諾火腿",
+      "西班牙生火腿",
+      "整隻火腿",
+      "生ハム",
+      "ハモンセラーノ",
+      "スペイン産生ハム",
+      "原木生ハム",
+      "pata de jamón",
+      "jamón curado"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "A whole jamón is shelf-stable by design: the official IGP Jamón Serrano specification states that once the curing process is finished the ham may remain at room temperature. Hang it or stand it in a cool, dry, airy room, 15–20 °C, out of direct sun, and never in a sealed bag or the fridge. Once you cut into it, cover the exposed face with its own fat and a cloth and keep working across the same face; a started ham should be finished within a few weeks to a couple of months before the cut face dries out and turns rancid."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Do not refrigerate a whole leg. Cold hardens the fat, kills the aroma and brings condensation and surface mould when you take it out. A cool larder or the coolest room in the house is the right place."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ministerio de Agricultura, Pesca y Alimentación (Spain) – Pliego de condiciones IGP Jamón Serrano (October 2019 revision)",
+        "url": "https://www.mapa.gob.es/dam/mapa/contenido/alimentacion/temas/calidad-agroalimentaria/2017-calidad-diferenciada/nuevo_denominaciones/pliegos-de-condiciones/pliego-condiciones-agroalimentarios/pcigpjamonserranoversionoctubre2019.pdf"
+      }
+    ],
+    "analog": "ham-country-ham",
+    "notes": "This record exists separately from the sliced one on purpose: a whole hanging jamón and an opened vacuum pack are not the same food and must not share a timeline. The room-temperature rule is sourced — MAPA's IGP specification says in terms, 'Una vez terminado el proceso el jamón podrá permanecer a temperatura ambiente.' The same document sets the minimum cure at 210 days from salting with a minimum 33 % weight loss, which is what drives the water activity low enough to make the leg stable; it also records that the drying and ageing rooms run at 6–34 °C with relative humidity below 80 %. The duration figures are not from MAPA — they are borrowed from the FoodKeeper entry 'ham, country ham (whole or half)', the US dry-cured equivalent, and from ordinary Spanish practice for a started leg. Treat them as quality guidance."
+  },
+  {
+    "slug": "jamon-serrano-sliced",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Jamón serrano, sliced",
+    "subtitle": "vacuum-packed or cut at the counter",
+    "keywords": [
+      "jamon serrano sliced",
+      "jamón loncheado",
+      "sliced serrano ham",
+      "vacuum packed ham",
+      "西班牙火腿切片",
+      "生火腿切片",
+      "真空包裝西班牙火腿",
+      "生ハムスライス",
+      "ハモンセラーノ スライス",
+      "真空パック生ハム",
+      "jamón serrano loncheado",
+      "sobres de jamón"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Unopened vacuum packs keep refrigerated until the date on the pack. Lay them flat; a pack that has lost its vacuum and gone puffy goes back to the shop."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 5,
+          "unit": "days",
+          "tips": "This is the number that matters. Once the vacuum is broken — or once a shop has sliced it for you over the counter — the ham is an opened ready-to-eat meat, and it dries, oxidises and browns fast. Re-wrap tightly in film with the slices touching, at or below 40 °F (4 °C), and eat within a few days. Let it come to room temperature on the plate, not in the packet."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freezing sliced jamón is a compromise: the fat oxidises and the texture goes waxy. Freeze it interleaved with paper and use it in cooking rather than on a board."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Spain AESAN – Higiene de los alimentos",
+        "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos"
+      }
+    ],
+    "analog": "prosciutto",
+    "notes": "Written separately from the whole-leg record so that one timeline never stands for both. A whole jamón is shelf-stable because the whole piece is dry and salty and its surface is protected; a slicing machine turns that into a large, thin, exposed surface handled after curing, which is where post-process contamination and rapid drying come in. Numbers borrowed from the USDA FoodKeeper entries 'prosciutto' (2–3 months refrigerated unopened, 1 month frozen) and 'salami, pre-packaged' (3–5 days after opening). AESAN is cited for the refrigeration rule, not the timeline — it puts meat products from ungulates at 7 °C or below and refrigerated ready-to-eat preparations at 8 °C or below for short holding and 4 °C for anything longer."
+  },
+  {
+    "slug": "jamon-iberico",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Jamón ibérico",
+    "subtitle": "de bellota and cebo — whole leg, and sliced",
+    "keywords": [
+      "jamon iberico",
+      "jamón ibérico",
+      "iberico ham",
+      "bellota",
+      "pata negra",
+      "acorn fed ham",
+      "伊比利火腿",
+      "黑蹄火腿",
+      "橡實火腿",
+      "西班牙伊比利火腿",
+      "イベリコ生ハム",
+      "ハモン・イベリコ",
+      "ベジョータ",
+      "jamón de bellota",
+      "jamón ibérico de cebo"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "The same rule as serrano, and more so: ibérico is cured longer — commonly two to four years for a bellota leg — so it is drier and more stable still. Hang or stand it in a cool, dry, ventilated room out of the sun. The fat should look glossy and slightly oily at room temperature; that is the point of the breed and the acorns, and refrigeration ruins it. Cover the cut face with its own trimmed fat between sessions."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 3,
+          "max": 5,
+          "unit": "days",
+          "tips": "For sliced ibérico only. Once a vacuum pack is opened the slices dry and oxidise within days; re-wrap them tight and eat them soon. Never refrigerate the whole leg. Take sliced ibérico out 20 to 30 minutes before serving — cold ibérico fat is waxy and tastes of nothing."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Not recommended for anything you intend to eat as ham. The high oleic fat that makes ibérico worth the money is exactly what oxidises in a freezer."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ministerio de Agricultura, Pesca y Alimentación (Spain) – Pliego de condiciones IGP Jamón Serrano (October 2019 revision)",
+        "url": "https://www.mapa.gob.es/dam/mapa/contenido/alimentacion/temas/calidad-agroalimentaria/2017-calidad-diferenciada/nuevo_denominaciones/pliegos-de-condiciones/pliego-condiciones-agroalimentarios/pcigpjamonserranoversionoctubre2019.pdf"
+      }
+    ],
+    "analog": "ham-country-ham",
+    "notes": "The MAPA document cited is the specification for Jamón Serrano, not for ibérico, and it is used here only for the general dry-cured rule it states plainly — that once the curing process is finished the ham may remain at room temperature, after a minimum 210-day cure and at least 33 % weight loss. Ibérico is produced under its own quality standard and is cured considerably longer, so that rule applies with more margin, but no ibérico-specific published timeline was found. The duration figures are borrowed from the FoodKeeper entry 'ham, country ham (whole or half)' and from Spanish practice; the sliced figures follow the sliced-serrano record. As with serrano, whole and sliced are deliberately not given a single timeline."
+  },
+  {
+    "slug": "salchichon",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Salchichón",
+    "subtitle": "Spanish dry-cured peppered sausage",
+    "keywords": [
+      "salchichon",
+      "salchichón",
+      "salchichon de vic",
+      "fuet",
+      "longaniza curada",
+      "spanish dry sausage",
+      "西班牙臘腸",
+      "西班牙風乾香腸",
+      "胡椒風乾腸",
+      "薩奇瓊",
+      "サルチチョン",
+      "スペイン産サラミ",
+      "乾燥ソーセージ",
+      "salchichón ibérico"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "A whole, unopened dry-cured sausage in its natural casing hangs in a cool, dry, airy place — that is how it is sold in Spain and how it goes on drying. It gets firmer and more concentrated with time. The white bloom on the casing is the intended surface mould and is fine; fuzzy grey, green or black patches, or a sour ammonia smell, are not."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 2,
+          "max": 3,
+          "unit": "weeks",
+          "tips": "Once cut or once a vacuum pack is opened, refrigerate at or below 40 °F (4 °C). Wrap the cut end in paper rather than plastic film so it can still breathe a little, and slice from it as you go. Sliced salchichón dries out and browns within days — buy the piece, not the packet, if you are not going to finish it."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freezing is a last resort. The fat oxidises and the texture goes crumbly; the flavour does not survive well."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Spain AESAN – Higiene de los alimentos",
+        "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos"
+      }
+    ],
+    "analog": "sausage-hard-dry-sliced",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'sausage, hard/dry, sliced' (2–3 weeks refrigerated, 1–2 months frozen); the pantry figure for an unopened whole piece is an extrapolation from the same dry-cured logic, not a published number. AESAN is cited for the refrigeration rule — meat and meat products from ungulates at 7 °C or below — rather than for any timeline. A whole cured sausage and an opened pack of slices are different products: the whole piece is protected by its casing and its dryness, the slices are a large exposed surface handled after curing."
+  },
+  {
+    "slug": "lomo-embuchado",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Lomo embuchado",
+    "subtitle": "dry-cured pork loin in a casing",
+    "keywords": [
+      "lomo embuchado",
+      "lomo curado",
+      "caña de lomo",
+      "cured pork loin",
+      "lomo iberico",
+      "西班牙風乾里肌",
+      "西班牙醃里肌肉",
+      "風乾豬里肌",
+      "ロモ・エンブチャード",
+      "豚ロースの生ハム",
+      "スペイン産干し豚ロース",
+      "lomo ibérico de bellota"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "A whole uncut caña de lomo hangs in a cool, dry, ventilated place. It is very lean, which means it dries harder and faster than a fatty sausage does — a piece left too long goes from firm to woody. Keep it away from radiators and out of the sun."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 2,
+          "max": 3,
+          "unit": "weeks",
+          "tips": "Once cut into, or once a vacuum pack is open, refrigerate at or below 40 °F (4 °C) with the cut face wrapped. Because it is so lean it dries out visibly in a day or two in a fridge; press film directly onto the cut surface. Slice it thin and let it sit on the plate a few minutes before eating."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Not recommended for a whole piece. Sliced and interleaved with paper it survives a month or two, but it thaws dry."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Spain AESAN – Higiene de los alimentos",
+        "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos"
+      }
+    ],
+    "analog": "sausage-hard-dry-sliced",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'sausage, hard/dry, sliced'; the whole-piece pantry figure is an extrapolation from dry-cured practice rather than a published number. AESAN is cited for the storage-temperature rule only. Lomo is cured whole for two to four months and is one of the leanest cured meats there is, so drying out, not spoiling, is what usually ends it."
+  },
+  {
+    "slug": "morcilla",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Morcilla",
+    "subtitle": "cooked blood sausage — de Burgos with rice, de cebolla with onion",
+    "keywords": [
+      "morcilla",
+      "morcilla de burgos",
+      "morcilla de cebolla",
+      "blood sausage",
+      "black pudding spanish",
+      "西班牙血腸",
+      "血腸",
+      "米血腸",
+      "布爾戈斯血腸",
+      "モルシージャ",
+      "ブラッドソーセージ",
+      "血のソーセージ",
+      "morcilla de arroz"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 1,
+          "max": 1,
+          "unit": "weeks",
+          "tips": "Morcilla is cooked, not cured, and it is a perishable meat product: keep it at or below 40 °F (4 °C), in its wrapper, and cook it through before eating. AESAN sets 7 °C or below for meat products from ungulates and 4 °C for anything held more than a day. Burgos-style morcilla is full of cooked rice as well as blood and fat, which makes it wetter and shorter-lived than a dry sausage — treat the date on the pack as real."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freezes well in whole links, wrapped tight. Thaw in the fridge and fry or bake from cold; a frozen morcilla dropped straight into a hot pan bursts its casing."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Spain AESAN – Higiene de los alimentos",
+        "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos"
+      }
+    ],
+    "analog": "sausage-fully-cooked-smoked-links-kielbasa",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'sausage, fully cooked, smoked links (kielbasa)' — 1 week refrigerated from purchase, 1–2 months frozen — which is the closest cooked sausage in the dataset. AESAN is cited for the refrigeration temperatures, which are sourced; the durations are not. Some morcillas are semi-dried and firmer, and a few Spanish styles are air-dried enough to hang; if yours is hard and dry rather than soft and sliceable, the salchichón record is the better fit."
+  },
+  {
+    "slug": "sobrasada",
+    "category": "meat",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sobrasada",
+    "subtitle": "Mallorcan spreadable cured sausage",
+    "keywords": [
+      "sobrasada",
+      "sobrassada",
+      "sobrasada de mallorca",
+      "spreadable chorizo",
+      "spreadable cured sausage",
+      "馬約卡紅椒抹醬腸",
+      "西班牙可塗抹香腸",
+      "紅椒豬肉抹醬",
+      "ソブラサーダ",
+      "塗れるサラミ",
+      "マヨルカのソーセージ",
+      "sobrasada de cerdo negro"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "A whole uncut sobrasada in its casing hangs in a cool, dry, ventilated place, which is how it is made and matured on Mallorca. It stays soft and spreadable because of the fat, not because it is underdone — the cure and the paprika do the work. Keep it below about 20 °C; in a warm kitchen the fat weeps out and the surface goes rancid."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 2,
+          "max": 3,
+          "unit": "weeks",
+          "tips": "Once cut, refrigerate at or below 40 °F (4 °C) with the cut face covered. Cold sobrasada is stiff — cut what you need and let it warm before spreading, or melt it straight onto hot bread. A darkened, dried skin on the cut face can be scraped back; a sour or solvent smell means the fat has gone."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freezing works, badly. The emulsion breaks and the thawed paste is greasy and grainy — fine stirred into a stew, poor on toast."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Spain AESAN – Higiene de los alimentos",
+        "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos"
+      }
+    ],
+    "analog": "sausage-hard-dry-sliced",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'sausage, hard/dry, sliced'; the pantry figure for a whole uncut piece is an extrapolation from Mallorcan practice rather than a published figure, and it is the least certain number in this record because sobrasada is much moister and fattier than a hard salami. AESAN is cited for the refrigeration rule only. If the sobrasada you have is sold chilled in a tub rather than in a casing, treat it as a refrigerated product from the start."
+  },
+  {
+    "slug": "manchego",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Manchego",
+    "subtitle": "sheep's milk cheese — curado and viejo",
+    "keywords": [
+      "manchego",
+      "queso manchego",
+      "sheep milk cheese",
+      "manchego curado",
+      "manchego viejo",
+      "曼徹格乳酪",
+      "西班牙羊乳酪",
+      "羊奶乳酪",
+      "マンチェゴ",
+      "マンチェゴチーズ",
+      "羊乳のチーズ",
+      "queso de oveja"
+    ],
+    "storage": {
+      "fridge": {
+        "fromPurchase": {
+          "min": 3,
+          "max": 6,
+          "unit": "months",
+          "tips": "An unopened vacuum-packed wedge keeps for months at or below 40 °F (4 °C) — NMSU gives unopened hard cheese 3 to 6 months. Once opened, NMSU gives about a month: wrap it in waxed paper inside a loose bag or box so it breathes without drying, and change the paper when it gets greasy. Cut surface mould off with a good inch of margin on a firm cheese like this and eat the rest."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 4,
+          "unit": "weeks",
+          "tips": "The rind is edible in the sense that it is not harmful, but the black wax or the woven esparto pattern is not meant to be eaten. Keep the cheese in a whole wedge and cut from it — grated or cubed manchego dries out in days."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Freezing turns manchego crumbly and dulls the sheepy sweetness. Freeze it only if you plan to cook with it, in a block rather than grated."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      }
+    ],
+    "analog": "cheese-hard-cheddar-swiss-block-parmesan",
+    "notes": "Manchego is a pressed, aged sheep's milk cheese and stores like any hard cheese; the figures match NMSU E-118's hard-cheese line (3–6 months unopened, about a month opened, 6 months frozen) and the FoodKeeper entry 'cheese, hard, such as cheddar, swiss, block parmesan'. Young manchego fresco and semicurado are moister and shorter-lived — closer to a semi-soft cheese — so shade the numbers down for those. Raw-milk manchego (leche cruda) is legal and common in Spain; as with any raw-milk cheese, pregnant and immunocompromised readers should choose a pasteurised one, though a long-matured hard cheese is a far lower Listeria risk than a fresh one."
+  },
+  {
+    "slug": "cabrales",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Cabrales",
+    "subtitle": "Asturian cave-ripened blue cheese",
+    "keywords": [
+      "cabrales",
+      "queso cabrales",
+      "asturian blue cheese",
+      "picon bejes tresviso",
+      "valdeon",
+      "藍紋乳酪",
+      "西班牙藍紋乳酪",
+      "卡布拉萊斯",
+      "阿斯圖里亞斯藍乳酪",
+      "カブラレス",
+      "ブルーチーズ",
+      "スペイン産青カビチーズ",
+      "queso azul"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "weeks",
+          "tips": "Wrap it in its own foil or in waxed paper and put it in a closed box — cabrales is aggressive and will perfume everything in the fridge, butter and eggs first. Keep it at or below 40 °F (4 °C). It goes on ripening: it darkens, softens and gets stronger and saltier. When it turns runny brown at the edges and smells of ammonia rather than of blue, it is finished."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Freeze it only for cooking — into a sauce for meat, which is what most of it gets used for anyway. It thaws crumbly and weeping."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      }
+    ],
+    "analog": "cheese-hard-cheddar-swiss-block-parmesan",
+    "notes": "Numbers borrowed from the FoodKeeper entry for hard cheese after opening (3–4 weeks refrigerated, 6 months frozen), which is also NMSU E-118's figure of about a month for opened cheese; FoodKeeper has no blue cheese entry and no agency publishes one for cabrales. Cabrales is a raw cow's milk cheese — sometimes blended with goat's and sheep's milk — ripened in mountain caves, and its blue is naturally occurring Penicillium rather than an inoculated culture. It is a raw-milk cheese, so pregnant, elderly and immunocompromised readers should avoid it or choose a pasteurised blue; the surface blue-green mould is the cheese and is meant to be there, unlike fuzzy grey or pink growth."
+  },
+  {
+    "slug": "membrillo",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Membrillo",
+    "subtitle": "solid quince paste",
+    "keywords": [
+      "membrillo",
+      "dulce de membrillo",
+      "quince paste",
+      "quince cheese",
+      "carne de membrillo",
+      "marmelada",
+      "榲桲膏",
+      "木梨果凍磚",
+      "西班牙榲桲醬",
+      "榲桲果糕",
+      "メンブリージョ",
+      "マルメロのペースト",
+      "カリンの練り菓子",
+      "pasta de membrillo"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 6,
+          "max": 18,
+          "unit": "months",
+          "tips": "Unopened, in a cool dark cupboard. Membrillo is quince cooked with roughly its own weight in sugar and reduced until it sets solid — a very high sugar, high acid, low water preserve, which is exactly why it keeps. Sugar crystals appearing on the surface with age are a texture fault, not spoilage."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "Once the block is cut, wrap the cut face in film or greaseproof paper and refrigerate. It will sweat a little and may weep a syrupy film — blot it. Cut slices with a wet knife. Mould on the cut face means the block goes; unlike a hard cheese, a soft paste is colonised right through."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "jams-jellies-and-preserves",
+    "notes": "Numbers borrowed wholesale from the USDA FoodKeeper entry 'jams, jellies and preserves' (6–18 months unopened in the pantry, 6–12 months refrigerated after opening). Membrillo is a fruit preserve at the extreme dry end of that family, so if anything it outlasts a jam. No food safety agency publishes a shelf life for it. Note that the fresh fruit is a separate record under the slug 'quince'."
+  },
+  {
+    "slug": "turron",
+    "category": "snacks-nuts-seeds",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Turrón",
+    "subtitle": "almond nougat — duro (Alicante) and blando (Jijona)",
+    "keywords": [
+      "turron",
+      "turrón",
+      "turron de alicante",
+      "turron de jijona",
+      "almond nougat",
+      "nougat",
+      "西班牙杏仁糖",
+      "杏仁牛軋糖",
+      "杜隆糖",
+      "西班牙牛軋糖",
+      "トゥロン",
+      "アーモンドヌガー",
+      "スペインのヌガー",
+      "turrón duro",
+      "turrón blando"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Unopened, cool, dark and dry. Turrón is mostly almonds and honey, and what ends it is the almond oil going rancid — a stale, painty, cardboard taste — not anything growing. Heat and light accelerate that, so a cupboard, not a windowsill. Turrón blando (Jijona) is a ground almond paste and turns oily faster than the hard Alicante slab."
+        },
+        "afterOpening": {
+          "min": 2,
+          "max": 4,
+          "unit": "weeks",
+          "tips": "Once the block is opened, wrap it tightly — turrón duro pulls moisture from the air and goes from brittle to chewy, and turrón blando dries and crumbles. Keep the original foil or press film onto the cut face."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 4,
+          "max": 6,
+          "unit": "months",
+          "tips": "Refrigerating an opened block slows the almond oil going rancid, which is the real limit on how long it lasts. Wrap it airtight first or it will pick up fridge smells and condensation. Let it come back to room temperature before eating; cold turrón is flavourless and dangerously hard on teeth."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "nuts-jars-cans",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'nuts, jars or cans' (1 year in the pantry from purchase, 2–9 months after opening, 4–6 months refrigerated after opening), because the almonds are what limits turrón and nut rancidity is the failure mode; the after-opening pantry figure has been cut to weeks because an opened block also goes soft or dry on texture long before it goes rancid. No agency publishes a shelf life for turrón. Commercial blocks carry a best-before date, and it is a quality date, not a safety one."
+  },
+  {
+    "slug": "boquerones-en-vinagre",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Boquerones en vinagre",
+    "subtitle": "raw anchovies cured in vinegar, kept in oil",
+    "keywords": [
+      "boquerones",
+      "boquerones en vinagre",
+      "vinegar anchovies",
+      "white anchovies",
+      "marinated anchovies",
+      "醋漬鯷魚",
+      "西班牙醋漬鯷魚",
+      "白鯷魚",
+      "醋醃小魚",
+      "ボケロネス",
+      "アンチョビの酢漬け",
+      "白いアンチョビ",
+      "anchoas en vinagre"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "weeks",
+          "tips": "Always refrigerated, at or below 40 °F (4 °C), fully covered by their oil in a closed container — an exposed fillet oxidises grey within hours. They are a raw, lightly acidified fish, not a preserve. Cloudy oil, a sour-sharp smell beyond the vinegar, or fillets turning brown mean they are done."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Freezing here is not about storage, it is the safety step, and it happens before the vinegar. AESAN requires fish eaten raw or given treatment insufficient to kill anisakis larvae to be frozen at −20 °C for 24 hours, or −35 °C for 15 hours. A home freezer takes far longer than a commercial blast freezer to bring a fish that cold right through, so hold them several days rather than one, and only in a freezer that genuinely reaches −20 °C."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Spain AESAN – Higiene de los alimentos",
+        "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos"
+      }
+    ],
+    "analog": "herring-glass-packed-wine-sauce",
+    "notes": "Salt and vinegar do not kill anisakis. Boquerones en vinagre are among the classic Spanish vehicles for anisakiasis precisely because the cure is too mild to inactivate the larvae, which is why AESAN's freezing requirement — −20 °C for 24 hours or −35 °C for 15 hours — exists and why it must be done before marinating, not after. That rule is sourced; the storage durations are not. They are borrowed from the USDA FoodKeeper entry 'herring, glass-packed in wine sauce' (4–6 months refrigerated) and cut hard, because commercial glass-packed herring is a pasteurised or heavily acidified shelf product while home or deli boquerones are a barely-cured raw fish in oil. If you are buying them ready-made, buy them frozen or from a shop that can tell you the fish was frozen first."
+  },
+  {
+    "slug": "bacalao-salado",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Bacalao salado",
+    "subtitle": "salt-cured dried cod",
+    "keywords": [
+      "bacalao salado",
+      "salt cod",
+      "salted cod",
+      "baccala",
+      "bacalhau",
+      "morue salee",
+      "鹽漬鱈魚",
+      "鹹鱈魚",
+      "馬介休",
+      "鹽醃鱈魚乾",
+      "バカラオ",
+      "塩ダラ",
+      "干し塩ダラ",
+      "bacalao seco",
+      "bacalao en salazón"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 4,
+          "max": 12,
+          "unit": "months",
+          "tips": "A hard, fully dried and heavily salted piece keeps wrapped in paper or cloth in a cool, dry, dark, airy place. NCHFP's rule for dried foods is 4 months to 1 year, shorter the warmer it is, and it warns that food packed apparently bone dry can spoil if it reabsorbs moisture — so check it now and then and keep it away from steam. Salt crystals on the surface are normal; a damp, slippery or ammoniacal surface is not."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "The safer default, especially in a humid climate and for the softer, wetter cures sold vacuum-packed in the chiller. Wrap it tightly — the smell travels through a whole fridge — at or below 40 °F (4 °C). Desalting is a separate matter and must happen in the refrigerator: 24 to 48 hours in cold water with the water changed three or four times, never on the counter. Once desalted the cod is a fresh, wet fish again and keeps only a day or two."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Freezing does not preserve a salted fish so much as stop its fat oxidising, which is what turns bacalao yellow and rancid. Wrap airtight."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "National Center for Home Food Preservation – Packaging and Storing Dried Foods",
+        "url": "https://nchfp.uga.edu/how/dry/drying-general/packaging-and-storing-dried-foods/"
+      },
+      {
+        "name": "US FDA – CPG Sec. 540.650 Uneviscerated Fish Products That Are Salt-Cured, Dried, or Smoked",
+        "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cpg-sec-540650-uneviscerated-fish-products-are-salt-cured-dried-or-smoked-revised"
+      }
+    ],
+    "analog": null,
+    "notes": "The pantry range is NCHFP's general dried-food figure of 4 months to 1 year, applied here because no agency publishes a home storage life for salt cod specifically; the refrigerated and frozen figures are extrapolations from the same rule and should be read as quality guidance. The FDA guidance is cited for a hazard worth knowing about the wider family of salt-cured fish rather than for bacalao itself: FDA records three US botulism outbreaks from uneviscerated salt-cured fish between 1981 and 1987, causing 3 deaths and 11 illnesses, and an Egyptian outbreak implicating faseikh in at least 91 illnesses and 18 deaths, and explains the cause as 'the difficulty in attaining sufficient levels of salt in all portions of an uneviscerated fish to inhibit the growth of C. botulinum' — with toxin possibly present 'even when there are no outward signs of microbiological spoilage'. Commercial bacalao is split and gutted, which is precisely what makes it a different and far safer product; whole ungutted salt-cured fish is not. A separate record 'salted-fish' covers the Asian styles."
+  },
+  {
+    "slug": "pulpo-cooked",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Cooked octopus",
+    "subtitle": "boiled, for pulpo a feira and salads",
+    "keywords": [
+      "pulpo",
+      "cooked octopus",
+      "pulpo a feira",
+      "pulpo a la gallega",
+      "boiled octopus",
+      "熟章魚",
+      "水煮章魚",
+      "章魚",
+      "西班牙章魚",
+      "ゆでタコ",
+      "茹でだこ",
+      "タコ",
+      "プルポ",
+      "pulpo cocido"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "NMSU gives cooked fish and shellfish 3 to 4 days at or below 40 °F (4 °C). Cool it fast — pull the tentacles out of the hot cooking water, spread them on a tray, and refrigerate within 2 hours; a whole octopus left to cool in its pot stays warm for hours. Keeping it under a little of its own cooking liquor stops it drying, but does not extend the window."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 3,
+          "unit": "months",
+          "tips": "Freeze the cooked tentacles whole rather than sliced, with a splash of the cooking liquor. Freezing raw octopus before cooking is the old trick for tenderness — the ice crystals break down the muscle — and it works, so buying it frozen is no loss."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      },
+      {
+        "name": "US FDA – Selecting and Serving Fresh and Frozen Seafood Safely",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely"
+      }
+    ],
+    "analog": "cooked-shellfish-all",
+    "notes": "The refrigerated figure is NMSU E-118's for cooked fish and shellfish, matching the FoodKeeper entry 'cooked shellfish, all'; the freezer range is FoodKeeper's. FDA is cited for the 2-hour rule — seafood must never be left out of the refrigerator for more than 2 hours, or 1 hour above 90 °F. Cooked octopus sold vacuum-packed in the chiller carries its own use-by date and is usually pasteurised, so it keeps longer than a home-boiled one; once that pack is opened, this record applies."
+  },
+  {
+    "slug": "gazpacho",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Gazpacho",
+    "subtitle": "raw cold tomato soup",
+    "keywords": [
+      "gazpacho",
+      "gaspacho",
+      "cold tomato soup",
+      "raw vegetable soup",
+      "西班牙冷湯",
+      "番茄冷湯",
+      "蔬菜冷湯",
+      "加斯帕喬",
+      "ガスパチョ",
+      "冷製トマトスープ",
+      "スペインの冷たいスープ",
+      "gazpacho andaluz"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "days",
+          "tips": "Gazpacho is raw. Nothing in it has been cooked, so nothing has been killed — it is blended raw tomato, cucumber, pepper, garlic, oil, vinegar and bread, and it carries whatever the vegetables carried. AESAN's rule for cut fruit and vegetables is 4 °C or below; refrigerate gazpacho the moment it is made, in a covered jug, and keep it cold on the table in a jug standing in ice rather than out in the sun. Wash the vegetables properly before blending — that is the only control step this dish has."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Freezing splits it. The oil separates and the tomato goes watery and grainy; blending it again gets you most of the way back but never all of it. If you must, freeze it before the oil goes in."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Spain AESAN – Higiene de los alimentos",
+        "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos"
+      }
+    ],
+    "analog": "leftovers-without-meat-fish-poultry-egg",
+    "notes": "AESAN is cited for the temperature rule — cut fruit and vegetables at 4 °C or below — not for a shelf life; no agency publishes one for gazpacho. The 2–3 day figure is cut back from the FoodKeeper leftovers entry (3–4 days) because this is a raw preparation with no kill step, not a cooked leftover. Traditional gazpacho has no egg in it, unlike salmorejo. Shop-bought cartons in the chiller are pasteurised or high-pressure treated and carry their own use-by date; once opened, treat them as this record."
+  },
+  {
+    "slug": "salmorejo",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Salmorejo",
+    "subtitle": "thick raw tomato and bread emulsion, usually with raw egg",
+    "keywords": [
+      "salmorejo",
+      "salmorejo cordobes",
+      "thick cold tomato soup",
+      "科爾多瓦番茄冷湯",
+      "濃稠番茄冷湯",
+      "西班牙番茄麵包冷湯",
+      "サルモレホ",
+      "濃厚な冷製トマトスープ",
+      "コルドバ風冷製スープ",
+      "salmorejo cordobés"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Shorter than gazpacho, and for a specific reason: salmorejo is a raw emulsion and is very often made with raw egg or egg yolk to help it hold, and it is finished with chopped hard-boiled egg and jamón. Refrigerate it immediately at 4 °C, covered, and eat it the day it is made or the next. Never leave it standing at room temperature on a summer table."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Do not freeze it. The whole point of salmorejo is a stable emulsion of oil, bread and tomato, and freezing breaks it irreversibly."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Spain AESAN – Higiene de los alimentos",
+        "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos"
+      }
+    ],
+    "analog": "leftovers-without-meat-fish-poultry-egg",
+    "notes": "The raw egg is the reason this record is shorter than the gazpacho one. Spanish rules are strict about it: AESAN states that raw egg may be used only where the preparation is heat-treated to 70 °C or above for two seconds, and that otherwise pasteurised egg products (ovoproductos) must be used instead; where such a preparation is made and held, it must be kept at 8 °C or below and consumed within a maximum of 24 hours. That is a food-service rule, but it is the right instinct for a home kitchen in August too. If you want salmorejo to keep, make it without the raw yolk, or use pasteurised egg. The 1–2 day figure is our reading of that 24-hour rule against the FoodKeeper leftovers entry; it is not itself a published shelf life."
+  },
+  {
+    "slug": "croquetas",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Croquetas",
+    "subtitle": "béchamel croquettes — de jamón, de pollo, de bacalao",
+    "keywords": [
+      "croquetas",
+      "croqueta",
+      "croquettes",
+      "bechamel croquettes",
+      "croquetas de jamon",
+      "可樂餅",
+      "西班牙可樂餅",
+      "白醬可樂餅",
+      "炸奶油丸子",
+      "コロッケ",
+      "クロケッタ",
+      "ベシャメルコロッケ",
+      "croquetas caseras"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "days",
+          "tips": "This applies both to the chilled béchamel before shaping and to fried croquetas afterwards. The filling is a milk-and-flour paste enriched with cooked ham, chicken or fish — a wet, low-acid, ready-to-eat mixture that is handled a great deal by hand while being rolled and crumbed, which is exactly the profile that gets contaminated after cooking. Chill the béchamel spread thin in a tray, not deep in a bowl, cover it, and keep everything at or below 40 °F (4 °C)."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Freezing is the right way to keep croquetas, and it should happen at the raw, crumbed stage. Freeze them apart on a tray, then bag. Fry them from frozen in properly hot oil — a thawed croqueta bursts. Refried, previously frozen croquetas are not worth eating."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Spain AESAN – Higiene de los alimentos",
+        "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos"
+      },
+      {
+        "name": "New Mexico State University Extension E-118 – Storing Food Safely",
+        "url": "https://pubs.nmsu.edu/_e/E118/"
+      }
+    ],
+    "analog": "leftovers-meat-fish-poultry-egg",
+    "notes": "Numbers based on the FoodKeeper leftovers entry (3–4 days refrigerated, 2–3 months frozen) and NMSU E-118's cooked-dish figures, trimmed at the fridge end because of the amount of hand-shaping involved. AESAN is cited for the storage temperatures: refrigerated prepared meals at 8 °C or below for holding under 24 hours, and 4 °C for anything longer. If the croquetas contain egg in the béchamel and it is not fully cooked, AESAN's 70 °C for two seconds rule applies as it does to any egg preparation."
+  },
+  {
+    "slug": "tortilla-de-patatas",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Tortilla de patatas",
+    "subtitle": "Spanish potato omelette, often deliberately runny inside",
+    "keywords": [
+      "tortilla de patatas",
+      "tortilla espanola",
+      "spanish omelette",
+      "potato omelette",
+      "西班牙烘蛋",
+      "西班牙馬鈴薯蛋餅",
+      "馬鈴薯烘蛋",
+      "スペイン風オムレツ",
+      "トルティージャ・デ・パタタス",
+      "ジャガイモのオムレツ",
+      "tortilla española",
+      "tortilla de papas"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "A tortilla poco cuajada — the fashionable runny-centred kind — is undercooked egg, and it should be treated as a same-day dish: refrigerate it within 2 hours, at 4 °C, and eat it within a day. AESAN's line for egg dishes that have been heated to 70 °C for two seconds is 8 °C or below and a maximum of 24 hours; a tortilla whose centre never reached 70 °C has not met even that condition. A firm, fully set tortilla is more forgiving and will take 2 days. Do not leave one out on a counter overnight, however traditional that is."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Freezing ruins it. The potato goes mealy and the egg weeps water on thawing. There is no good way round this."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Spain AESAN – Higiene de los alimentos",
+        "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos"
+      }
+    ],
+    "analog": "leftovers-meat-fish-poultry-egg",
+    "notes": "Tortilla de patatas is one of the classic Spanish Salmonella vehicles, and the reason is in the recipe: the centre is meant to be soft. AESAN sets the standard clearly — dishes containing egg should reach 70 °C for two seconds; for immediate-consumption preparations that cannot, such as fried eggs and tortillas, 63 °C at the centre for 20 seconds is the alternative; and where raw egg cannot be avoided in food service, pasteurised egg products must be used. Those rules are sourced. The 1–2 day figure is not a published shelf life — it is AESAN's 24-hour maximum for held egg dishes read against the FoodKeeper leftovers entry (3–4 days), cut short because a runny tortilla does not meet the heat condition that 24-hour allowance assumes."
+  },
+  {
+    "slug": "paella-leftovers",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Paella, leftover",
+    "subtitle": "cooked rice with seafood or meat",
+    "keywords": [
+      "paella",
+      "paella leftovers",
+      "leftover rice dish",
+      "arroz",
+      "西班牙海鮮飯",
+      "西班牙燉飯",
+      "剩飯",
+      "海鮮飯剩菜",
+      "パエリア",
+      "パエリアの残り",
+      "スペイン風炊き込みご飯",
+      "paella valenciana",
+      "arroz sobrante"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 1,
+          "unit": "days",
+          "tips": "Cooked rice is the governing ingredient, and the FSA's rule for it is blunt: chill leftover rice 'as quickly as possible, ideally within one hour', then 'keep rice in the fridge for no more than one day until reheating'. A paellera holds an enormous amount of heat — get the rice off the pan and spread thin in shallow trays to cool, do not put the pan itself in the fridge. Reheat once only, until steaming hot all the way through, and never reheat it twice."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freeze it in single portions the same evening, once cooled fast. Seafood paella suffers most — prawns and mussels turn rubbery — so pick the shellfish out and freeze the rice. Reheat from frozen with a splash of stock, covered, until steaming."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "GOV.UK / Food Standards Agency – Home food fact checker",
+        "url": "https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker"
+      },
+      {
+        "name": "Spain AESAN – Higiene de los alimentos",
+        "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos"
+      }
+    ],
+    "analog": "leftovers-meat-fish-poultry-egg",
+    "notes": "The one-day figure and the cool-within-an-hour rule are the FSA's, and they exist because uncooked rice carries Bacillus cereus spores that survive cooking: FSA's explanation is that 'the longer cooked rice is left at room temperature, the more likely it is that the bacteria or toxins will make the rice unsafe to eat'. A pan of paella left on the table through a long lunch and then put away warm is the textbook version of that. This is deliberately shorter than the general FoodKeeper leftovers figure of 3–4 days, which does not account for the rice. AESAN is cited for the storage temperatures — 8 °C or below for a refrigerated meal held under 24 hours. The freezer figure is borrowed from the FoodKeeper leftovers entry."
+  },
+  {
+    "slug": "horchata",
+    "category": "beverages",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Horchata",
+    "subtitle": "fresh — de chufa (tiger nut) or de arroz (rice)",
+    "keywords": [
+      "horchata",
+      "orxata",
+      "horchata de chufa",
+      "horchata de arroz",
+      "tiger nut milk",
+      "rice drink",
+      "油莎豆飲",
+      "虎堅果飲料",
+      "米漿",
+      "墨西哥米漿",
+      "西班牙油莎豆奶",
+      "オルチャータ",
+      "オルチャータ・デ・チュファ",
+      "タイガーナッツミルク",
+      "米のドリンク",
+      "horchata fresca"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "days",
+          "tips": "Fresh horchata is a raw, unpasteurised, sweetened plant milk — ground tiger nuts or soaked rice, water and sugar, with nothing heated. That is a near-perfect growth medium, so keep it at or below 40 °F (4 °C) from the moment it is strained, in a closed bottle, and give it 2 to 3 days at most. It separates as it stands; shake it. If it fizzes, foams on pouring or tastes sharp, it has begun to ferment and it goes."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freezing changes the texture — it thaws grainy and needs blending — but it works, and in Valencia frozen horchata is a drink in its own right, granizada, spooned half-frozen. Freeze it in a container with headspace."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Spain AESAN – Higiene de los alimentos",
+        "url": "https://www.aesan.gob.es/seguridad-alimentaria/higiene-alimentos"
+      }
+    ],
+    "analog": "rice-milk",
+    "notes": "Numbers loosely based on the USDA FoodKeeper entry 'rice milk' (7–10 days refrigerated after opening) and cut sharply, because FoodKeeper's figure describes a commercially pasteurised or UHT carton and fresh horchata is neither heated nor preserved. AESAN is cited for the refrigeration rule — raw milk at 1–4 °C, cut fruit and vegetables at 4 °C or below — rather than for a timeline. Shelf-stable or chilled cartons of horchata sold in shops are pasteurised or UHT and follow their own date; once opened, treat them like the FoodKeeper rice-milk figure of about a week."
+  },
+  {
+    "slug": "yerba-mate",
+    "category": "beverages",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Yerba mate",
+    "subtitle": "dried leaf, loose",
+    "keywords": [
+      "yerba mate",
+      "mate",
+      "erva mate",
+      "chimarrao",
+      "terere",
+      "ilex paraguariensis",
+      "馬黛茶",
+      "巴拉圭茶",
+      "瑪黛茶",
+      "馬黛葉",
+      "マテ茶",
+      "イエルバマテ",
+      "マテの葉",
+      "yerba mate elaborada",
+      "yerba con palo"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "years",
+          "tips": "Sealed, cool, dark and dry — a cupboard, not the counter beside the kettle. Good yerba is aged for months or years before sale, so it is a stable dried leaf; what ruins it is damp and light. Keep the bag clipped or decant it into a tin."
+        },
+        "afterOpening": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "Once opened it loses aroma steadily and the dust settles out. Buy the size you will drink. Yerba that smells of hay and nothing else, or of the cupboard, is stale rather than unsafe. A gourd is a different matter entirely: a wet calabash left with damp yerba in it grows mould within a day, so empty and dry it after every session."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Do not freeze it. Yerba is hygroscopic and a freezer means condensation every time you open the bag, which is the one thing that genuinely spoils it."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "tea-loose",
+    "notes": "Numbers borrowed wholesale from the USDA FoodKeeper entry 'tea, loose' (2 years in the pantry from purchase, 6–12 months after opening, and a general recommendation against freezing). Yerba mate is a dried, cured leaf handled the same way, but no food safety agency or extension service publishes a storage life for it."
+  },
+  {
+    "slug": "panela-piloncillo",
+    "category": "baking-staples",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Panela",
+    "subtitle": "unrefined whole cane sugar — piloncillo, rapadura, papelón, chancaca",
+    "keywords": [
+      "panela",
+      "piloncillo",
+      "rapadura",
+      "papelon",
+      "chancaca",
+      "raspadura",
+      "unrefined cane sugar",
+      "whole cane sugar",
+      "黑糖磚",
+      "原蔗糖磚",
+      "粗糖磚",
+      "未精製蔗糖",
+      "パネラ",
+      "ピロンシージョ",
+      "黒糖ブロック",
+      "未精製さとうきび糖",
+      "azúcar de panela",
+      "piloncillo en cono"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 18,
+          "max": 24,
+          "unit": "months",
+          "tips": "Sugar does not spoil. Keep the cone or block sealed in a bag or an airtight tin somewhere cool and dry; the enemies are humidity, which makes it sticky and eventually weeps molasses, and ants, which find it unerringly. A hardened, rock-solid block is still perfectly good — grate it, smash it in a bag, or dissolve it in hot water. Do not refrigerate it; the fridge is damp."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "sugar-brown",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'sugar, brown', which says sugar never spoils but recommends using it within 18 to 24 months of opening for best quality. Panela and piloncillo are whole cane juice boiled down and set solid, so they retain more molasses and more moisture than refined brown sugar and are correspondingly stickier in a humid kitchen, but the principle is identical. No agency publishes a shelf life for panela."
+  }
+]
