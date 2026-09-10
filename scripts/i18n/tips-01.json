@@ -1,0 +1,1562 @@
+[
+ {
+  "en": "Keep frozen. For safety, cook as directed.",
+  "usedBy": 17,
+  "example": "Dough",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Timeline for refrigerator applies to ripe fruit.",
+  "usedBy": 13,
+  "example": "Apricots",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Recommendation is for storage after cooking.",
+  "usedBy": 13,
+  "example": "Dough",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freezing not recommended.",
+  "usedBy": 8,
+  "example": "Chicken",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Should be discarded after use-by date.",
+  "usedBy": 7,
+  "example": "Cereal, dry mixes",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Until Ripe, then 1-2 days. Ripe is when this item is tender, fully developed and ready to eat.",
+  "usedBy": 7,
+  "example": "Nectarines",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Ripe is when this item is tender, fully developed and ready to eat.",
+  "usedBy": 6,
+  "example": "Apricots",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Keep refrigerated.",
+  "usedBy": 5,
+  "example": "Almond milk",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freeze damage will appear.",
+  "usedBy": 5,
+  "example": "Chives",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Not recommended to refrigerate after cooking due to decreased quality.",
+  "usedBy": 5,
+  "example": "Frozen entrees",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freezing guidance applies to product when sliced, with lemon juice and sugar.",
+  "usedBy": 5,
+  "example": "Nectarines",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freeze the deseeded pulp.",
+  "usedBy": 4,
+  "example": "Atemoya",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Bouillon cubes will keep their best quality 1 year. The reconstituted broth lasts 3-4 days in the refrigerator.",
+  "usedBy": 3,
+  "example": "Beef broth/stock/consommé",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Or until ripe. Ripe is when this item is tender, fully developed and ready to eat.",
+  "usedBy": 3,
+  "example": "Pitaya/dragon fruit",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Sugar never spoils, but for best quality use within 2 years of opening.",
+  "usedBy": 3,
+  "example": "Sugar",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Refrigerate after opening.",
+  "usedBy": 2,
+  "example": "Base",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "May have shorter shelf life due to lack of preservatives.",
+  "usedBy": 2,
+  "example": "Bread",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Canned items will be safe to eat well past the ‘use-by’ or ‘best by’ date as long as the can shows no dents, rust, or swelling.",
+  "usedBy": 2,
+  "example": "Canned goods",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Or until ripe.",
+  "usedBy": 2,
+  "example": "Cantaloupe",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "It is not recommend freezing cranberry sauce, as after thawing, it may become too watery.",
+  "usedBy": 2,
+  "example": "Cranberry sauce",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Refrigeration time applies to prepared product.",
+  "usedBy": 2,
+  "example": "Dry gravy mixes",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Refrigeration not recommended - muffin will quickly dry out and become stale.",
+  "usedBy": 2,
+  "example": "Muffin",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Left over pâtés should be wrapped in plastic film.",
+  "usedBy": 2,
+  "example": "Pate",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Dark, away from direct heat or sunlight.",
+  "usedBy": 2,
+  "example": "Red wine",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "The (roasted) seeds will become rancid if stored at room temperature for long periods of time.",
+  "usedBy": 2,
+  "example": "Sunflower seeds",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Refrigeration not recommended - bread will quickly dry out and become stale.",
+  "usedBy": 2,
+  "example": "Whole wheat bread",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "CTAHR: full ripening occurs 1 to 5 days after harvest, once the pulp and skin lose their sticky latex.",
+  "usedBy": 1,
+  "example": "Abiu",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "CTAHR stores abiu at 50 °F (10 °C) for a shelf life of 7 to 14 days. A colder home fridge shortens this; the flesh browns quickly once sliced, so cut it just before eating.",
+  "usedBy": 1,
+  "example": "Abiu",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "MHLW's HACCP guide for 油揚げ makers specifies refrigerated storage at 10 °C or below and a use-by of roughly one week. Rinse with boiling water (油抜き) before use to strip surface oil.",
+  "usedBy": 1,
+  "example": "Aburaage",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freezes well flat in a sealed bag; the limit is oil going rancid, not microbial spoilage.",
+  "usedBy": 1,
+  "example": "Aburaage",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Thawed pulp oxidises fast and is meant to be blended straight away. Never refreeze it.",
+  "usedBy": 1,
+  "example": "Açaí Pulp",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Keep the sachets rock-hard at the back of the freezer, not in the door.",
+  "usedBy": 1,
+  "example": "Açaí Pulp",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Extremely fragile; CTAHR packs it no more than two layers deep because a third layer crushes the bottom fruit.",
+  "usedBy": 1,
+  "example": "Acerola",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "CTAHR: postharvest life runs from about 4 days up to 10 days when the fruit is cooled rapidly straight after picking.",
+  "usedBy": 1,
+  "example": "Acerola",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freeze whole or as pulp; this is how acerola is normally kept for juice.",
+  "usedBy": 1,
+  "example": "Acerola",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "A properly made achar is preserved by three things at once — heavy salt, a strong acid (lime juice, vinegar or the fruit's own sourness), and a layer of oil sealing the surface. Keep the oil covering the solids at all times; top the jar up with fresh mustard or sesame oil if the level drops. Use a bone-dry spoon, never a wet or used one, and never fingers. A traditional sun-cured achar lives in a cupboard for a year; the day water gets in is the day it starts to spoil.",
+  "usedBy": 1,
+  "example": "Achar",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "The safe default for a jar you are unsure about, and the right place for any low-salt, low-oil or 'fresh' achar — the modern reduced-salt commercial kind especially. Watch for fizzing, a pushed-up lid, or a yeasty smell; those mean an unwanted fermentation is running.",
+  "usedBy": 1,
+  "example": "Achar",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Japan's MAFF: keep dried goods away from heat, direct sunlight and damp and seal the container. Agar is essentially pure dried polysaccharide with almost no fat or protein to go rancid, so it is one of the longest-keeping dried goods in the cupboard.",
+  "usedBy": 1,
+  "example": "Agar",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "For a set agar jelly: covered, in the fridge. Agar sets and holds at room temperature, unlike gelatine, but a sweetened jelly still spoils like any other prepared food.",
+  "usedBy": 1,
+  "example": "Agar",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "University of Hawai'i CTAHR: the fruit lasts up to several months dry and in the husk, and it should be stored dry. Leave the papery calyx on, spread the fruit in a single layer somewhere cool and airy, and never wash it until you eat it — damp husks mould and the mould goes through to the berry.",
+  "usedBy": 1,
+  "example": "Aguaymanto",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "CTAHR: large commercial producers store them in the husk at 33 °F (about 1 °C). At home that means the coldest shelf, in an open or perforated container so condensation can escape. Husked fruit is a different proposition — the bare berry is sticky and bruises, and lasts days rather than months.",
+  "usedBy": 1,
+  "example": "Aguaymanto",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "CTAHR: they will keep more than a year when husked and frozen. Pull the husks off, rinse the sticky coating away, dry thoroughly and freeze on a tray before bagging.",
+  "usedBy": 1,
+  "example": "Aguaymanto",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "When stored in the pantry, almond butter may become hard and the natural oil may separate and float to the top; this is perfectly normal. To reincorporate the natural almond oils into the almond butter, simply mix it manually or with a hand mixer.",
+  "usedBy": 1,
+  "example": "Almond butter",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "One of the fastest-wilting Asian greens. Do not wash before storing; bag loosely with a sheet of kitchen paper to catch condensation.",
+  "usedBy": 1,
+  "example": "Amaranth Greens",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Remove from can before freezing.",
+  "usedBy": 1,
+  "example": "Anchovies",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freezing guidance applies to cooked product.",
+  "usedBy": 1,
+  "example": "Apples",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "The dry precooked cornmeal (masarepa, harina de maíz precocida) keeps in a sealed container somewhere cool and dark. It is degerminated, so it stales rather than turning rancid; a flat, cardboard smell means the arepas will taste of nothing.",
+  "usedBy": 1,
+  "example": "Arepas",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Cook them, cool them, then bag airtight at 40 °F (4 °C) or below. Store them plain — an arepa split and filled with cheese, meat or avocado is a made-up sandwich and keeps only as long as its filling. Refresh on a dry griddle; the crust comes back, the crumb stays denser.",
+  "usedBy": 1,
+  "example": "Arepas",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Griddle them until set but still pale, cool, then freeze flat in a single layer before bagging. Finish from frozen on the griddle or in the oven. Raw arepa dough freezes poorly — it dries and cracks.",
+  "usedBy": 1,
+  "example": "Arepas",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Double-container it: hing will scent every other spice in the cupboard, and a screw-top tin inside a sealed jar is the standard fix. Cool, dark, dry, and away from the hob. The powder sold in India and abroad is 'compounded' — resin cut with wheat or rice flour and gum — so it is partly a flour product and stales faster than pure resin. Lump resin keeps for years but must be ground or fried in oil to release anything.",
+  "usedBy": 1,
+  "example": "Asafoetida",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Ripen unripe fruit at room temperature — CTAHR says unripe atemoya should be displayed at room temperature, never chilled.",
+  "usedBy": 1,
+  "example": "Atemoya",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Only once ripe. CTAHR allows ripe fruit at 2 to 5 °C, but calls the fruit very sensitive to chilling, which darkens the skin and strips the aroma; its commercial optimum is 10 to 13 °C at 90–95 % RH.",
+  "usedBy": 1,
+  "example": "Atemoya",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Roughly one week at 10 °C or below per MHLW's tofu-products HACCP guide, which notes that atsuage is plain tofu inside and so must go into the fridge promptly after frying.",
+  "usedBy": 1,
+  "example": "Atsuage",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "The tofu core turns spongy on thawing — fine for simmered dishes, poor for grilling.",
+  "usedBy": 1,
+  "example": "Atsuage",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Atta keeps the germ and the bran, and the germ carries oil, so a warm cupboard is working against you from the day the bag is milled. Airtight container, cool dark shelf, and use your nose: fresh atta smells sweet and nutty, stale atta smells sharp and faintly of oil paint.",
+  "usedBy": 1,
+  "example": "Atta",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Ohioline puts whole wheat flour at 6 to 8 months refrigerated in an airtight container. Let it come back to room temperature before you knead — cold flour and cold water make a stiff dough that will not relax.",
+  "usedBy": 1,
+  "example": "Atta",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "The freezer is the honest answer for a 5 or 10 kg sack you will not finish quickly. Freezing a new bag for 48 hours also kills any weevil eggs that came with it.",
+  "usedBy": 1,
+  "example": "Atta",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Sealed tub, at or below 4 °C, with a film of olive oil over the surface to stop it browning. Home-made baba ganoush is a cooked vegetable purée with raw garlic and lemon in it and no preservative — treat it like any fresh dip. Weeping liquid is normal; pour it off and stir. If it tastes fizzy or smells of yeast, it is fermenting and should go.",
+  "usedBy": 1,
+  "example": "Baba ganoush",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "It freezes acceptably and thaws watery; drain and re-whip after thawing. No source gives a limit.",
+  "usedBy": 1,
+  "example": "Baba ganoush",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "below 75 °F",
+  "usedBy": 1,
+  "example": "Baby carrots",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Blanch before freezing.",
+  "usedBy": 1,
+  "example": "Baby carrots",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Keep the husks on until you cook it — the whole cob including the cob core is edible at this size. Ohio State gives corn in husks only 1 to 2 days, so use it early.",
+  "usedBy": 1,
+  "example": "Baby Corn",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "MAFF gives home-frozen vegetables about 3 weeks; blanch briefly first.",
+  "usedBy": 1,
+  "example": "Baby Corn",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "A hard, fully dried and heavily salted piece keeps wrapped in paper or cloth in a cool, dry, dark, airy place. NCHFP's rule for dried foods is 4 months to 1 year, shorter the warmer it is, and it warns that food packed apparently bone dry can spoil if it reabsorbs moisture — so check it now and then and keep it away from steam. Salt crystals on the surface are normal; a damp, slippery or ammoniacal surface is not.",
+  "usedBy": 1,
+  "example": "Bacalao salado",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "The safer default, especially in a humid climate and for the softer, wetter cures sold vacuum-packed in the chiller. Wrap it tightly — the smell travels through a whole fridge — at or below 40 °F (4 °C). Desalting is a separate matter and must happen in the refrigerator: 24 to 48 hours in cold water with the water changed three or four times, never on the counter. Once desalted the cod is a fresh, wet fish again and keeps only a day or two.",
+  "usedBy": 1,
+  "example": "Bacalao salado",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freezing does not preserve a salted fish so much as stop its fat oxidising, which is what turns bacalao yellow and rancid. Wrap airtight.",
+  "usedBy": 1,
+  "example": "Bacalao salado",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Refrigeration not recommended - bagel will quickly dry out and become stale.",
+  "usedBy": 1,
+  "example": "Bagel",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Unopened product will last 3 - 5 days after date on bag; after opening it will last 2 days.",
+  "usedBy": 1,
+  "example": "Bagged greens",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "A baguette is a same-day bread and everyone in France knows it. It is lean — no fat, no sugar, no milk, nothing to hold water — with an enormous crust-to-crumb ratio, so it dries from both directions at once and is noticeably stale by the evening. Leave it out of any bag: a paper sleeve keeps the crust crisp and the crumb going, plastic softens the crust to leather within an hour. A day-old baguette revives once in a 200 °C oven for 5 minutes with the crust splashed with water, and then it is finished for good.",
+  "usedBy": 1,
+  "example": "Baguette",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Never. Refrigeration accelerates starch retrogradation — a study of bread storage measured firmness rising to 424 % of its initial value over 10 days at 8.2 °C against 390 % at 21.9 °C — and a lean bread has nothing to buffer that. FoodKeeper says the same about bread generally: refrigeration is not recommended, bread will quickly dry out and become stale.",
+  "usedBy": 1,
+  "example": "Baguette",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "The only real way to keep one. Freeze it the hour it cools, whole or in halves, wrapped tight; refresh from frozen in a hot oven for 10 to 15 minutes and it comes back genuinely well, because freezing halts the recrystallisation that staling consists of.",
+  "usedBy": 1,
+  "example": "Baguette",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Store the bud whole and unpeeled — the tight purple bracts protect the pale heart. Once you strip it, the cut surfaces oxidise black in minutes, so work into acidulated water and cook the same day.",
+  "usedBy": 1,
+  "example": "Banana Blossom",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Timeline for refrigerator applies to ripe fruit; skin will blacken.",
+  "usedBy": 1,
+  "example": "Bananas",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Refrigeration ensures that commercial sauces and condiments stay fresh for a longer period of time. Shelf-stable commercial barbecue sauce is safe when stored at room temperature after opening. Quality, not safety, is the reason the labels on these products suggest that they be refrigerated after opening.",
+  "usedBy": 1,
+  "example": "Barbecue sauce",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Keep stems in water.",
+  "usedBy": 1,
+  "example": "Basil",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Will start to discolor.",
+  "usedBy": 1,
+  "example": "Basil",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Notoriously short-lived: the surface bristles collapse and the fruit weeps juice within a day at room temperature. Do not wash before storing.",
+  "usedBy": 1,
+  "example": "Chinese Bayberry",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Single layer in a vented punnet, not piled deep — the weight bruises the fruit underneath.",
+  "usedBy": 1,
+  "example": "Chinese Bayberry",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freeze on a tray then bag; frozen bayberry is eaten half-thawed or steeped in liquor.",
+  "usedBy": 1,
+  "example": "Chinese Bayberry",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Airtight jar, cool dark cupboard, dry hands and a dry spoon. Berbere is a ground blend and follows the 6-month rule, but two things shorten it further: the chilli pigment bleaches in daylight, so a jar on a sunny shelf goes orange and dull, and the blend is often slightly damp from the fenugreek and the ginger, so it cakes. Damp berbere in a warm kitchen can mould — break up any hard lumps and look at them before you use them.",
+  "usedBy": 1,
+  "example": "Berbere",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Besan is a legume flour and carries much more oil than wheat flour, so rancidity — not mould, not insects — is what finishes it. A bitter or paint-like smell when you open the jar means it has turned; nothing recovers it. Buy in small bags and keep it sealed and away from the stove.",
+  "usedBy": 1,
+  "example": "Besan",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "The right home for a big bag. Seal it well — besan takes up fridge odours readily — and bring it back to room temperature before opening.",
+  "usedBy": 1,
+  "example": "Besan",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Very short-lived and easily crushed; do not stack more than two or three deep.",
+  "usedBy": 1,
+  "example": "Bilimbi",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "CTAHR: shelf life is up to 4 or 5 days, lengthening to 7 or 8 days when the fruit is chilled immediately at harvest.",
+  "usedBy": 1,
+  "example": "Bilimbi",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "CTAHR notes bilimbi can be dried or frozen for future use; dried fruit rehydrates in soup and keeps most of its sourness.",
+  "usedBy": 1,
+  "example": "Bilimbi",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "NCHFP's figure for properly dried jerky is two weeks at room temperature in a sealed container, and that is the honest ceiling for biltong too. What keeps it safe is water activity — how much water is actually available to microbes, not how dry it looks — so a thick, moist, red-centred slice cut wet is a perishable meat and belongs in the fridge from the start. Keep it in paper or a breathable cloth bag rather than sealed plastic if it is still soft: airtight plastic traps moisture and grows mould on the surface within days.",
+  "usedBy": 1,
+  "example": "Biltong",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "NCHFP's advice for any dried meat is to refrigerate or freeze it to extend shelf life and keep the flavour. Sliced biltong dries out and goes dusty in the fridge; whole sticks hold up better.",
+  "usedBy": 1,
+  "example": "Biltong",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Vacuum-seal and freeze for anything beyond a month. Thaw in the fridge, not on the counter.",
+  "usedBy": 1,
+  "example": "Biltong",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Japan's MAFF gives goya one week refrigerated. Scoop out the seeds and spongy core first if you are keeping a cut half, and wrap the cut face.",
+  "usedBy": 1,
+  "example": "Bitter Melon",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "MAFF gives frozen goya one month. Slice, salt briefly, pat dry and freeze flat in a bag; it goes straight into a stir-fry from frozen.",
+  "usedBy": 1,
+  "example": "Bitter Melon",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Ohio State gives fresh or smoked sausage 2 to 3 days refrigerated, and that is the right bracket for a chilled black pudding from a butcher. Keep it at or below 4 °C in its casing. It is already cooked when you buy it, but it is a moist, low-acid, blood-and-oatmeal food and it is not a cured keeper — always fry or grill it through before eating.",
+  "usedBy": 1,
+  "example": "Black pudding",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "A vacuum-packed supermarket ring keeps to its printed date sealed; once opened, wrap it and use it within a few days. Cooked slices left over from breakfast are a cooked meat dish: 3 to 4 days at or below 4 °C.",
+  "usedBy": 1,
+  "example": "Black pudding",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freezes well, and better sliced than whole so you can take out what you need. Fry the slices from frozen over a lower heat.",
+  "usedBy": 1,
+  "example": "Black pudding",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Ripen at room temperature until the skin goes olive-brown and the fruit is soft to the point of collapse — under-ripe it is astringent like a firm persimmon.",
+  "usedBy": 1,
+  "example": "Black Sapote",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Only once fully soft; scoop the pulp and keep it covered.",
+  "usedBy": 1,
+  "example": "Black Sapote",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Unopened bottles keep in a cool dark cupboard. Ohio State Extension's pantry chart gives vinegar 2 years unopened.",
+  "usedBy": 1,
+  "example": "Black vinegar",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Ohioline gives opened vinegar 12 months. Taiwanese 烏醋 is not a straight vinegar — it is vinegar blended with vegetable and fruit extracts, sugar, salt and spices, so it has more to lose in flavour than a plain vinegar and sediment settling out is normal. Shake before use, cap tightly, keep it out of the light.",
+  "usedBy": 1,
+  "example": "Black vinegar",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Boerewors is raw sausage, not a cured one — the vinegar and the coriander are seasoning, not preservation — so it keeps like fresh minced beef and pork. Coldest shelf of the fridge, on a plate that will catch drips, below anything ready to eat. Cook it through; it is a coarse-ground mixed meat, and the surface bacteria of the cut get mixed all the way in when it is minced.",
+  "usedBy": 1,
+  "example": "Boerewors",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freeze the coil flat in its own wrap plus an outer bag. Quality falls off after a couple of months because the fat oxidises even at −18 °C. Thaw in the fridge and never refreeze raw.",
+  "usedBy": 1,
+  "example": "Boerewors",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Unopened packs keep to the printed date in a cool dry cupboard; the flakes are dried and smoked to a very low moisture content, so the enemy is air and humidity, not bacteria.",
+  "usedBy": 1,
+  "example": "Bonito flakes",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Once opened, press the air out, seal, and refrigerate. Shavings lose their aroma within weeks and eventually smell flat and cardboardy — that is the real end point, well before anything unsafe happens.",
+  "usedBy": 1,
+  "example": "Bonito flakes",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freezing an opened bag holds the aroma far better than the cupboard. Use straight from the freezer.",
+  "usedBy": 1,
+  "example": "Bonito flakes",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Always refrigerated, at or below 40 °F (4 °C), fully covered by their oil in a closed container — an exposed fillet oxidises grey within hours. They are a raw, lightly acidified fish, not a preserve. Cloudy oil, a sour-sharp smell beyond the vinegar, or fillets turning brown mean they are done.",
+  "usedBy": 1,
+  "example": "Boquerones en vinagre",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freezing here is not about storage, it is the safety step, and it happens before the vinegar. AESAN requires fish eaten raw or given treatment insufficient to kill anisakis larvae to be frozen at −20 °C for 24 hours, or −35 °C for 15 hours. A home freezer takes far longer than a commercial blast freezer to bring a fish that cold right through, so hold them several days rather than one, and only in a freezer that genuinely reaches −20 °C.",
+  "usedBy": 1,
+  "example": "Boquerones en vinagre",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "A whole, unblemished gourd keeps a few days in a cool airy spot.",
+  "usedBy": 1,
+  "example": "Bottle Gourd",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Whole, unwrapped, in the crisper. Wrap the cut face of a part-used gourd.",
+  "usedBy": 1,
+  "example": "Bottle Gourd",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Keep the peeled eggs submerged in their cooled braise in a covered box at 4 °C or below. The braise is salty but not a preservative at home strengths — do not leave the pot out overnight to 'let the flavour soak in'.",
+  "usedBy": 1,
+  "example": "Braised egg",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Mature green fruit softens and turns yellow-green at room temperature in a few days. Let the cut stem drain its latex before washing.",
+  "usedBy": 1,
+  "example": "Breadfruit",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "CTAHR's optimum is 12 to 14 °C at 90–95 % RH for a maximum of about 20 days; chilling injury starts within 7 days even at 12 °C, so a 4 °C home fridge is well below the safe range and the fruit keeps only about a week before the skin scalds brown.",
+  "usedBy": 1,
+  "example": "Breadfruit",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freeze cooked and cooled flesh in portions rather than the raw whole fruit.",
+  "usedBy": 1,
+  "example": "Breadfruit",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "A whole piece or an unopened vacuum pack, at or below 4 °C, to its printed date. Bresaola is very lean — it is cured beef topside with almost no fat — so unlike coppa it does not go rancid; it simply keeps drying, and a whole piece left too long becomes hard and dark rather than unsafe.",
+  "usedBy": 1,
+  "example": "Bresaola",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Sliced bresaola is cut paper-thin and dries out faster than any other meat on this list. Keep the slices touching, wrapped airtight, at or below 4 °C, and eat within a few days. Grey-brown edges mean it has oxidised; deep red is what you want. Dress it at the table, not in the fridge — the oil and lemon will cure it further and turn it grey.",
+  "usedBy": 1,
+  "example": "Bresaola",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Not recommended for anything you want to eat as a carpaccio. Lean and thin is exactly what freezer burn ruins.",
+  "usedBy": 1,
+  "example": "Bresaola",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Wrapped, at room temperature. The butter and egg yolk in a brioche coat the starch and slow retrogradation, so it stays soft noticeably longer than a lean loaf — but that same richness makes it a better substrate for mould, and the soft moist crumb holds humidity. Keep it in a paper bag or a bread bin rather than sealed plastic, which pushes the humidity up and brings mould forward by a day or two.",
+  "usedBy": 1,
+  "example": "Brioche",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Only if you are going to toast it. Cold stales bread faster than the counter does, enrichment or no enrichment; the fat delays it but does not reverse the direction.",
+  "usedBy": 1,
+  "example": "Brioche",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freezes very well — the fat protects the crumb from ice damage. Freeze individual buns or a sliced loaf and thaw at room temperature, or toast from frozen.",
+  "usedBy": 1,
+  "example": "Brioche",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "It is grown for its perfume, so a bowl on the counter is a legitimate way to keep it; the scent fades as the skin dries.",
+  "usedBy": 1,
+  "example": "Buddha's Hand",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Loose in a bag. It is nearly all pith and zest with no juice, so it dries out rather than rots.",
+  "usedBy": 1,
+  "example": "Buddha's Hand",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freeze grated zest or candied strips.",
+  "usedBy": 1,
+  "example": "Buddha's Hand",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Taiwan's Ministry of Agriculture: leave the soil on, wrap the root in damp paper and stand it leaning against a wall somewhere cool and shaded — kept that way it stores for a long time. Washed burdock will not do this.",
+  "usedBy": 1,
+  "example": "Burdock Root",
+  "missing": [
+   "zh",
+   "ja",
+   "es"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ }
+]

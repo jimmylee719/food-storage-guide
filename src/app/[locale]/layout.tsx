@@ -67,7 +67,7 @@ export default async function LocaleLayout({
         <script type="application/ld+json" dangerouslySetInnerHTML={jsonLdScript(websiteLd)} />
       </head>
       <body>
-        <a className="skip-link" href="#main">Skip to content</a>
+        <a className="skip-link" href="#main">{t(locale as Locale).skipToContent}</a>
         <Header locale={l} />
         <main id="main">{children}</main>
         <Footer locale={l} />

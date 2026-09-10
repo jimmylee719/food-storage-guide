@@ -99,6 +99,7 @@ type Dict = {
   /** Quick answer for a food whose full article has not been written yet. */
   autoSummary: (pantry: string | null, fridge: string | null, freezer: string | null) => string;
   dataOnlyNote: string;
+  skipToContent: string;
   analogNote: (analog: string) => string;
 };
 
@@ -195,6 +196,7 @@ const zh: Dict = {
     return parts.length ? parts.join('、') + '。' : '這項食材目前沒有可引用的保存期限，請依包裝標示與下方說明判斷。';
   },
   dataOnlyNote: '這項食材的完整保存說明還在撰寫中。上方的期限直接來自本站的保存資料庫，出處列在頁面下方，與其他食材使用同一套標準。',
+  skipToContent: '跳到主要內容',
   analogNote: (analog) => `本頁的期限沒有官方單獨公布的數字，是比照「${analog}」這項性質相近的食材推估的，僅供參考，不是官方公布的期限。`,
 };
 
@@ -291,6 +293,7 @@ const en: Dict = {
     return parts.length ? parts.join(', ') + '.' : 'No citable storage time is published for this food. Go by the date on the pack and the notes below.';
   },
   dataOnlyNote: 'The full write-up for this food is still being written. The times above come straight from our storage database, are sourced at the foot of the page, and follow the same standard as every other food here.',
+  skipToContent: 'Skip to content',
   analogNote: (analog) => `No authority publishes a figure for this food, so the times above are taken from ${analog}, the closest comparable food. Treat them as a working guide rather than a published limit.`,
 };
 
@@ -387,6 +390,7 @@ const ja: Dict = {
     return parts.length ? parts.join('、') + '。' : 'この食材には引用できる保存期間の公表値がありません。表示の期限と下記の説明で判断してください。';
   },
   dataOnlyNote: 'この食材の詳しい解説は現在執筆中です。上の期間は当サイトの保存データベースの数値をそのまま示したもので、出典はページ下部に記載しています。基準は他の食材と同じです。',
+  skipToContent: '本文へスキップ',
   analogNote: (analog) => `この食材については公的な数値が公表されていないため、性質の近い「${analog}」の期間を当てはめています。公表された期限ではなく、目安としてお使いください。`,
 };
 
@@ -483,6 +487,7 @@ const es: Dict = {
     return parts.length ? parts.join(', ') + '.' : 'No hay un tiempo de conservación publicado que podamos citar para este alimento. Guíese por la fecha del envase y por las notas de abajo.';
   },
   dataOnlyNote: 'La ficha completa de este alimento aún se está redactando. Los tiempos de arriba salen directamente de nuestra base de datos, tienen su fuente al pie de la página y siguen el mismo criterio que el resto del sitio.',
+  skipToContent: 'Saltar al contenido',
   analogNote: (analog) => `Ningún organismo publica una cifra para este alimento, así que los tiempos proceden de ${analog}, el alimento comparable más cercano. Tómelos como orientación, no como un límite publicado.`,
 };
 

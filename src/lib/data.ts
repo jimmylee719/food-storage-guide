@@ -2,6 +2,7 @@ import foodsRaw from '@/data/generated/foods.json';
 import guidesRaw from '@/data/generated/guides.json';
 import type { Food, Guide, Method, Span } from './types';
 import { type Locale, t } from './i18n';
+import { localiseTip } from './tips';
 
 export const foods = foodsRaw as unknown as Food[];
 export const guides = guidesRaw as unknown as Guide[];
@@ -82,7 +83,11 @@ export function methodRows(method: Method | undefined, locale: Locale): MethodRo
     if (!span) continue;
     const value = formatSpan(span, locale);
     if (!value && !span.tips) continue;
-    rows.push({ key, label, value, tips: span.tips });
+    const tips = localiseTip(span.tips, locale);
+    // A tip that has no translation yet drops out; a row that existed only to
+    // carry that tip drops with it rather than rendering empty.
+    if (!value && !tips) continue;
+    rows.push({ key, label, value, tips });
   }
   return rows;
 }
@@ -95,7 +100,7 @@ export function headline(food: Food, key: MethodKey, locale: Locale): string {
   const span = primarySpan(method);
   const value = formatSpan(span, locale);
   if (value) return value;
-  return span?.tips ? d.seeNotes : '—';
+  return span?.tips && localiseTip(span.tips, locale) ? d.seeNotes : '—';
 }
 
 /** Guides worth showing next to a given food, most relevant first. */
