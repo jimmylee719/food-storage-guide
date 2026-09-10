@@ -1,0 +1,1985 @@
+[
+  {
+    "slug": "doubanjiang",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Doubanjiang",
+    "subtitle": "fermented broad bean chilli paste, 豆瓣醬",
+    "keywords": [
+      "doubanjiang",
+      "broad bean paste",
+      "chili bean paste",
+      "toban djan",
+      "豆瓣醬",
+      "辣豆瓣醬",
+      "郫縣豆瓣",
+      "豆板醤",
+      "トウバンジャン",
+      "pasta de habas fermentadas",
+      "pasta de chile y habas",
+      "salsa doubanjiang"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 18,
+          "max": 24,
+          "unit": "months",
+          "tips": "Sealed jars keep on the shelf to the printed date. Store in a cool dark cupboard away from the stove."
+        },
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Doubanjiang is protected by salt, acidity and fermentation, not by refrigeration. The FDA's labelling guidance lists acidification (pH 4.6 or below), salt and low water activity as barriers that work the same way refrigeration does, and notes that condiments such as mustard, salsa and spaghetti sauce carry a 'refrigerate after opening' line to retard quality loss rather than to prevent illness. A jar left out will darken and lose aroma long before it becomes dangerous."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 3,
+          "max": 6,
+          "unit": "months",
+          "tips": "Refrigerate once opened. Always use a clean dry spoon — a wet spoon introduces water and mould, which is the usual way a jar of 豆瓣醬 is lost. Level the surface and press the paste down so no air pocket sits on top."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Guidance on Labeling of Foods That Need Refrigeration by Consumers",
+        "url": "https://www.fda.gov/media/134845/download"
+      },
+      {
+        "name": "香港食物安全中心 – 在雪櫃及冰格貯存食物的實用提示",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_218_01.html"
+      }
+    ],
+    "analog": "black-bean-sauce",
+    "notes": "The numbers are borrowed from the USDA FoodKeeper entry 'black bean sauce' (18–24 months unopened in the pantry, 3–6 months refrigerated after opening), which is the closest fermented salted Chinese bean paste in the dataset. No agency publishes a home storage time for 豆瓣醬 specifically. The cited sources supply the rules only: the FDA guidance for why salt and acidity, not the fridge, are what keep this product safe, and Hong Kong CFS for the rule that once a prepacked food is opened the printed date no longer applies and you follow the maker's after-opening instructions (fridge at 4 °C or below)."
+  },
+  {
+    "slug": "shacha-sauce",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Shacha sauce",
+    "subtitle": "沙茶醬, Chinese barbecue / satay paste",
+    "keywords": [
+      "shacha sauce",
+      "sha cha",
+      "Chinese barbecue sauce",
+      "satay sauce",
+      "沙茶醬",
+      "沙茶",
+      "沙嗲醬",
+      "沙茶醤",
+      "サーチャジャン",
+      "シャーチャージャン",
+      "salsa shacha",
+      "salsa satay china"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 18,
+          "max": 24,
+          "unit": "months",
+          "tips": "Unopened tins and jars keep on the shelf to the printed date. The paste separates — a layer of oil on top is normal and is part of how the jar is preserved."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 3,
+          "max": 6,
+          "unit": "months",
+          "tips": "Refrigerate after opening and keep the oil layer covering the paste; that seal is what keeps the dried shrimp and fish in it from going rancid. Use a clean dry spoon, and smooth the surface flat again afterwards. The oil sets solid in the fridge — stand the jar out for a few minutes before scooping."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Guidance on Labeling of Foods That Need Refrigeration by Consumers",
+        "url": "https://www.fda.gov/media/134845/download"
+      }
+    ],
+    "analog": "oyster-sauce",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'oyster sauce' (18–24 months unopened, 3–6 months refrigerated after opening) — the closest salted Chinese seafood-based sauce in the dataset. No agency publishes a figure for 沙茶醬. The FDA guidance is cited for the rule only: salt and low water activity are barriers to pathogen growth in their own right, so refrigerating an opened jar of a heavily salted commercial paste is largely about quality. Homemade shacha, which is fresh shallot, garlic and dried seafood fried into oil and not shelf-stabilised, is a different product — treat it as a fresh aromatic oil and see the chilli-oil entry."
+  },
+  {
+    "slug": "sweet-bean-sauce",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sweet bean sauce",
+    "subtitle": "甜麵醬, sweet flour paste",
+    "keywords": [
+      "sweet bean sauce",
+      "sweet flour paste",
+      "tianmianjiang",
+      "甜麵醬",
+      "甜面醤",
+      "テンメンジャン",
+      "甜麺醤",
+      "salsa de soja dulce china",
+      "pasta dulce de trigo fermentado"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 18,
+          "max": 24,
+          "unit": "months",
+          "tips": "Unopened jars and tubs keep on the shelf to the printed date, in a cool dark cupboard."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 3,
+          "max": 6,
+          "unit": "months",
+          "tips": "Refrigerate after opening. It is sweet as well as salty, so any moisture on the surface will grow mould faster than a plain salty paste — clean dry spoon, lid on tight, surface smoothed flat."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Guidance on Labeling of Foods That Need Refrigeration by Consumers",
+        "url": "https://www.fda.gov/media/134845/download"
+      }
+    ],
+    "analog": "hoisin-sauce",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'hoisin sauce' (18–24 months unopened, 3–6 months refrigerated after opening) — hoisin is the closest sweet fermented-soy Chinese sauce in the dataset. No agency publishes a figure for 甜麵醬. The FDA guidance is cited for the rule only (salt, acidity and low water activity as preservation barriers, and 'refrigerate after opening' on condiments usually meaning quality)."
+  },
+  {
+    "slug": "xo-sauce",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "XO sauce",
+    "subtitle": "dried seafood chilli relish in oil",
+    "keywords": [
+      "XO sauce",
+      "XO jiang",
+      "dried scallop sauce",
+      "XO醬",
+      "XO醤",
+      "エックスオー醤",
+      "XOジャン",
+      "salsa XO",
+      "salsa XO de mariscos secos"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 18,
+          "max": 24,
+          "unit": "months",
+          "tips": "Unopened commercial jars keep on the shelf to the printed date. Once opened, commercial XO sauce goes in the fridge — it is mostly dried scallop, dried shrimp and cured ham held under oil, and the oil is what keeps air off it."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Keep the solids submerged under the oil layer and use a clean dry spoon. Top up with a little neutral oil if the surface is exposed."
+        },
+        "base": {
+          "min": 4,
+          "max": 4,
+          "unit": "days",
+          "tips": "Homemade XO sauce is a different proposition: fresh garlic, shallot and chilli suspended in oil is exactly the low-acid-produce-under-oil situation that NCHFP warns about. NCHFP's rule for garlic in oil is refrigeration at 4 °C (40 °F) or lower for no more than 4 days, or the freezer for longer. Frying the aromatics until they are genuinely dry and crisp reduces but does not eliminate the risk."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 3,
+          "max": 3,
+          "unit": "months",
+          "tips": "Homemade XO sauce freezes well in a small jar or an ice-cube tray. NCHFP says garlic in oil 'may be frozen for long term storage for up to several months'."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "National Center for Home Food Preservation (UGA) – Freezing Garlic-in-Oil",
+        "url": "https://nchfp.uga.edu/how/freeze/vegetable/freezing-garlic-in-oil/"
+      },
+      {
+        "name": "Ohio State University Extension (Ohioline) – Botulism: What You Don't See or Smell Can Still Hurt You (HYG-5567)",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5567-11"
+      }
+    ],
+    "analog": "oyster-sauce",
+    "notes": "Two products in one record. The commercial figures (18–24 months unopened, 2–3 months refrigerated after opening) are borrowed and shortened from the USDA FoodKeeper entry 'oyster sauce'; no agency publishes a shelf life for XO sauce. The homemade figures are directly sourced: NCHFP gives garlic-in-oil 4 days at 40 °F or lower and 'several months' frozen, and Ohioline's botulism factsheet states that spores on herbs, garlic or tomatoes placed in oil can produce toxin in the anaerobic mixture and advises refrigerating flavoured oils and making only what will be used in a few days."
+  },
+  {
+    "slug": "chili-oil",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Chilli oil",
+    "subtitle": "紅油 / ラー油",
+    "keywords": [
+      "chili oil",
+      "chilli oil",
+      "hot oil",
+      "rayu",
+      "辣油",
+      "紅油",
+      "辣椒油",
+      "ラー油",
+      "食べるラー油",
+      "辣油（ラーユ）",
+      "aceite de chile",
+      "aceite picante",
+      "aceite de guindilla"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "This is the one entry in the batch where the difference between two similar-looking jars is a safety difference. Chilli oil made by pouring hot oil over dried chilli flakes and dried spices, then strained or left with only dried solids, is low-risk and is what commercial jars are. Chilli oil holding fresh garlic, fresh ginger, fresh chilli, shallot or fresh herbs is low-acid produce sealed under oil in an oxygen-free environment — the classic setting for Clostridium botulinum. Ohioline's botulism factsheet states that spores on herbs, garlic or tomatoes placed in oil can produce toxin in the anaerobic mixture of flavoured oils, and that using dried rather than fresh aromatics reduces the risk. Never leave an oil holding fresh produce at room temperature."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 3,
+          "unit": "months",
+          "tips": "For dried-aromatics and commercial chilli oil, the limit is the oil going rancid rather than anything microbial. Ohio State Extension's pantry chart gives opened salad oils 1 to 3 months. Keep the bottle capped, dark and away from the cooker; refrigeration extends it further at the cost of the oil clouding."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 4,
+          "max": 4,
+          "unit": "days",
+          "tips": "Any chilli oil containing fresh garlic, ginger, chilli, shallot or herbs. NCHFP's rule for garlic in oil is: make it fresh, store it in the refrigerator at 4 °C (40 °F) or lower, and use it within no more than 4 days. Ohioline puts it as 'refrigerate flavored oils and make an amount... that will be used in a few days'."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 3,
+          "max": 3,
+          "unit": "months",
+          "tips": "The safe way to keep a fresh-aromatic chilli oil for longer. NCHFP: garlic in oil 'may be frozen for long term storage for up to several months'. Freeze in a small jar with ½-inch headspace, or in an ice-cube tray."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "National Center for Home Food Preservation (UGA) – Freezing Garlic-in-Oil",
+        "url": "https://nchfp.uga.edu/how/freeze/vegetable/freezing-garlic-in-oil/"
+      },
+      {
+        "name": "Ohio State University Extension (Ohioline) – Botulism: What You Don't See or Smell Can Still Hurt You (HYG-5567)",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5567-11"
+      },
+      {
+        "name": "Ohio State University Extension (Ohioline) – Pantry Food Storage (HYG-5401)",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": null,
+    "notes": "All three figures are directly sourced. NCHFP gives garlic-in-oil 4 days at 40 °F or lower and 'several months' in the freezer; NCHFP also states plainly that 'mixtures of garlic in oil stored at room temperature are at risk for the development of botulism'. The 1–3 month pantry figure is Ohioline's opened-salad-oil line, applied here to the rancidity clock on a dried-aromatic chilli oil, not to any microbial risk. Botulinum toxin cannot be seen, smelled or tasted, so there is no way to inspect a suspect jar — the only control is refrigeration, freezing, or using dried aromatics."
+  },
+  {
+    "slug": "chili-crisp",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Chilli crisp",
+    "subtitle": "crunchy chilli oil with fried solids",
+    "keywords": [
+      "chili crisp",
+      "chilli crisp",
+      "crispy chili oil",
+      "lao gan ma",
+      "油潑辣子",
+      "辣椒脆",
+      "老干媽",
+      "香辣脆",
+      "食べるラー油",
+      "具入りラー油",
+      "chile crujiente",
+      "aceite de chile crujiente"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 24,
+          "unit": "months",
+          "tips": "Unopened commercial jars keep to the printed date in a cool dark cupboard. The solids in a commercial jar — chilli flakes, fried soybeans, fried onion and garlic, sesame — have been fried until dry, which is why the jar is shelf-stable."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 3,
+          "unit": "months",
+          "tips": "Ohio State Extension gives opened salad oils 1 to 3 months; that is the practical limit on an opened jar of commercial chilli crisp too, since the failure mode is the oil and the fried solids going rancid and stale rather than anything growing. Keep the solids under the oil."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 4,
+          "max": 4,
+          "unit": "days",
+          "tips": "Homemade chilli crisp that still contains soft, moist garlic, shallot or ginger has not been dried by the frying and is fresh low-acid produce under oil. Treat it exactly as NCHFP treats garlic in oil: refrigerate at 4 °C (40 °F) or lower and use within no more than 4 days, or freeze it."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 3,
+          "max": 3,
+          "unit": "months",
+          "tips": "NCHFP allows garlic in oil to be frozen 'for up to several months'. Freezing dulls the crunch but is the honest way to keep a homemade batch."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "National Center for Home Food Preservation (UGA) – Freezing Garlic-in-Oil",
+        "url": "https://nchfp.uga.edu/how/freeze/vegetable/freezing-garlic-in-oil/"
+      },
+      {
+        "name": "Ohio State University Extension (Ohioline) – Botulism: What You Don't See or Smell Can Still Hurt You (HYG-5567)",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5567-11"
+      },
+      {
+        "name": "Ohio State University Extension (Ohioline) – Pantry Food Storage (HYG-5401)",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": null,
+    "notes": "The fridge and freezer figures are NCHFP's garlic-in-oil numbers, applied to homemade chilli crisp because it is the same hazard: low-acid produce held under oil. The 1–3 month opened-pantry figure is Ohioline's opened-salad-oil line. The 12–24 month unopened figure is the range printed on commercial jars rather than an agency figure — treat it as the manufacturer's date, which Hong Kong CFS notes ceases to apply once the jar is opened."
+  },
+  {
+    "slug": "gochujang",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Gochujang",
+    "subtitle": "Korean fermented red chilli paste",
+    "keywords": [
+      "gochujang",
+      "Korean chili paste",
+      "red pepper paste",
+      "韓式辣椒醬",
+      "苦椒醬",
+      "高麗辣椒醬",
+      "コチュジャン",
+      "고추장",
+      "唐辛子味噌",
+      "gochujang",
+      "pasta coreana de chile",
+      "pasta de guindilla fermentada"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 24,
+          "unit": "months",
+          "tips": "Unopened tubs keep to the printed date in a cool dark cupboard. Gochujang is a salty, sweet, fermented paste with low water activity — the salt and sugar are the preservation, not the cold."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "Refrigerate once opened. Smooth the surface flat, lay the plastic disc or a piece of cling film straight onto the paste, and use a clean dry spoon. The colour darkens from bright red to brick over months — that is oxidation, not spoilage. Discard for fuzzy mould, an alcoholic or solvent smell, or bubbling that lifts the lid."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Guidance on Labeling of Foods That Need Refrigeration by Consumers",
+        "url": "https://www.fda.gov/media/134845/download"
+      },
+      {
+        "name": "香港食物安全中心 – 在雪櫃及冰格貯存食物的實用提示",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_218_01.html"
+      }
+    ],
+    "analog": "miso",
+    "notes": "The 6–12 month refrigerated figure is borrowed from the USDA FoodKeeper entry 'miso' (1 year refrigerated) and shortened at the low end because gochujang carries more sugar and moisture than most miso. No food safety agency publishes a home storage time for gochujang. The FDA guidance is cited for the rule that salt and low water activity (aw 0.85 or below) are preservation barriers in their own right; Hong Kong CFS for the rule that the printed date stops applying once the tub is opened and that the fridge should run at 4 °C or below."
+  },
+  {
+    "slug": "doenjang",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Doenjang",
+    "subtitle": "Korean fermented soybean paste",
+    "keywords": [
+      "doenjang",
+      "Korean soybean paste",
+      "韓式大醬",
+      "韓式味噌",
+      "大醬",
+      "テンジャン",
+      "된장",
+      "韓国味噌",
+      "doenjang",
+      "pasta coreana de soja fermentada",
+      "miso coreano"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 24,
+          "unit": "months",
+          "tips": "Unopened tubs keep to the printed date in a cool dark place. Traditional 된장 was kept for years in an earthenware jar outdoors at high salt; supermarket tubs are milder and less forgiving."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Refrigerate after opening, surface pressed flat under its plastic disc or cling film, clean dry spoon only. Darkening and a stronger, more ammoniac aroma over time are normal ageing. A white bloom on the surface is usually yeast and can be stirred in or scraped off; fuzzy coloured mould means discard."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Guidance on Labeling of Foods That Need Refrigeration by Consumers",
+        "url": "https://www.fda.gov/media/134845/download"
+      }
+    ],
+    "analog": "miso",
+    "notes": "The 1-year refrigerated figure is taken directly from the USDA FoodKeeper entry 'miso', which is the same class of food — a salted, koji-fermented soybean paste. No agency publishes a figure for doenjang. The FDA labelling guidance is cited only for the underlying rule that salt and low water activity are preservation barriers, so an opened tub kept out of the fridge loses quality rather than becoming acutely hazardous."
+  },
+  {
+    "slug": "ssamjang",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Ssamjang",
+    "subtitle": "Korean seasoned wrap sauce",
+    "keywords": [
+      "ssamjang",
+      "Korean wrap sauce",
+      "包飯醬",
+      "韓式包飯醬",
+      "サムジャン",
+      "쌈장",
+      "ssamjang",
+      "salsa coreana para envolver"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 18,
+          "unit": "months",
+          "tips": "Unopened commercial tubs keep to the printed date. Ssamjang is doenjang and gochujang blended with sesame oil, garlic, onion and sugar — sweeter, wetter and softer than either parent paste, so it does not keep as long."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 3,
+          "max": 6,
+          "unit": "months",
+          "tips": "Refrigerate after opening. Homemade ssamjang, which is mixed with raw garlic and spring onion and never heat-treated, is a shorter proposition — make what you will eat over a week or two and keep it cold."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Guidance on Labeling of Foods That Need Refrigeration by Consumers",
+        "url": "https://www.fda.gov/media/134845/download"
+      }
+    ],
+    "analog": "miso",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'miso' (1 year refrigerated) and cut roughly in half, because ssamjang carries added sugar, sesame oil and fresh aromatics that miso does not. No agency publishes a figure for ssamjang, and the halving is an editorial judgement, not a sourced one. The FDA guidance is cited for the preservation-barrier rule only."
+  },
+  {
+    "slug": "gochugaru",
+    "category": "herbs-spices",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Gochugaru",
+    "subtitle": "Korean coarse chilli powder",
+    "keywords": [
+      "gochugaru",
+      "Korean chili flakes",
+      "Korean red pepper powder",
+      "韓式辣椒粉",
+      "韓國辣椒粉",
+      "粗辣椒粉",
+      "コチュカル",
+      "粉唐辛子",
+      "韓国唐辛子",
+      "고춧가루",
+      "gochugaru",
+      "chile coreano molido",
+      "copos de chile coreano"
+    ],
+    "storage": {
+      "pantry": {
+        "afterOpening": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Ohio State Extension's pantry chart gives ground spices and herbs 6 months and whole spices 1 to 2 years. Gochugaru is ground, so take the 6-month figure for full colour and aroma; it stays safe well beyond that but fades to a dull brown-orange. Airtight, opaque container, away from the cooker."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Korean households routinely keep 고춧가루 in the fridge or freezer, and in a humid climate that is the sensible choice — it holds the red colour, keeps the powder free-running and shuts out pantry moths. No agency publishes a cold-storage timeline for it, so no number is given here. Let a cold bag come to room temperature before opening it, or condensation will cake the powder."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Same reasoning as the fridge: freezing preserves colour and pungency indefinitely for practical purposes, but there is no published home figure. Double-bag it and portion it so you are not thawing the whole bag every time."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension (Ohioline) – Pantry Food Storage (HYG-5401)",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": null,
+    "notes": "The 6-month pantry figure is Ohioline's published line for ground spices and herbs, applied directly. The fridge and freezer entries deliberately carry no numbers: cold storage is what Korean cooks actually do and it clearly helps, but no credible source puts a time on it, and inventing one would be worse than saying so."
+  },
+  {
+    "slug": "mirin",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Mirin",
+    "subtitle": "hon-mirin and mirin-style seasoning",
+    "keywords": [
+      "mirin",
+      "hon-mirin",
+      "sweet rice wine",
+      "味醂",
+      "味淋",
+      "本味醂",
+      "日式甜料酒",
+      "みりん",
+      "本みりん",
+      "みりん風調味料",
+      "vino dulce de arroz japonés",
+      "condimento mirin"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Which bottle you have decides everything, and the label says so. 本みりん (hon-mirin) is legally an alcoholic drink in Japan — the National Tax Agency classes it as 酒類 under the Liquor Tax Law — and its alcohol and sugar make it self-preserving. Keep it capped in a cool dark cupboard; do not refrigerate it, because the sugar crystallises out. みりん風調味料 (mirin-style seasoning) is a different product with less than 1 percent alcohol, deliberately kept below the threshold at which the tax law would call it a drink, and it has no alcohol barrier to speak of: refrigerate that one once it is opened. No agency publishes a home shelf life for either, so no number is given here rather than one being invented."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "For みりん風調味料 and 発酵調味料 (salted cooking mirin) only. Cap tightly, keep it cold, and go by the maker's after-opening instruction — Hong Kong's CFS rule is that the printed best-before date stops applying the moment the bottle is opened."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "東京国税局 – お酒に関するもの（本みりん・みりん風調味料）",
+        "url": "https://www.nta.go.jp/about/organization/tokyo/sake/abc/abc-other.htm"
+      },
+      {
+        "name": "香港食物安全中心 – 在雪櫃及冰格貯存食物的實用提示",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_218_01.html"
+      }
+    ],
+    "analog": null,
+    "notes": "Deliberately carries no numbers. The rule — hon-mirin is an alcoholic beverage under Japan's 酒税法 and keeps at room temperature, mirin-style seasoning is under 1 percent alcohol and needs the fridge once opened — is sourced from the Tokyo Regional Taxation Bureau. No national agency publishes a domestic shelf life for either, and manufacturing a fridge timeline for a shelf-stable alcoholic seasoning would be worse than saying there isn't one."
+  },
+  {
+    "slug": "cooking-sake",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Cooking sake",
+    "subtitle": "料理酒 / 料理清酒",
+    "keywords": [
+      "cooking sake",
+      "ryorishu",
+      "salted cooking sake",
+      "料理酒",
+      "日本料理酒",
+      "清酒",
+      "料理清酒",
+      "りょうりしゅ",
+      "加塩料理酒",
+      "sake para cocinar",
+      "vino de arroz japonés para cocinar"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Cooking sake sold as 料理酒 usually has salt added — the Tokyo Regional Taxation Bureau describes it as a fermented seasoning to which salt is added, which is what keeps it outside the liquor-tax system and off the licensed shelf. Alcohol plus salt makes it self-preserving: a cool dark cupboard, tightly capped, away from the cooker. Unsalted 料理清酒 is simply drinking sake and is treated the same way, though it oxidises faster and is worth refrigerating for flavour. No agency publishes a home shelf life, so none is given here."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "東京国税局 – お酒に関するもの（料理酒・発酵調味料）",
+        "url": "https://www.nta.go.jp/about/organization/tokyo/sake/abc/abc-other.htm"
+      }
+    ],
+    "analog": null,
+    "notes": "No numbers, on purpose. The cited page gives the rule — 料理酒 is a fermented seasoning with salt added — but no agency publishes a domestic storage time for it. The USDA FoodKeeper does carry a 'cooking wine' entry, but that record has no storage data at all, so there is nothing to borrow."
+  },
+  {
+    "slug": "rice-wine-cooking",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Rice wine",
+    "subtitle": "米酒, Chinese cooking rice wine",
+    "keywords": [
+      "rice wine",
+      "cooking rice wine",
+      "Shaoxing wine",
+      "米酒",
+      "料理米酒",
+      "紹興酒",
+      "花雕酒",
+      "米酒頭",
+      "ライスワイン",
+      "紹興酒",
+      "料理用米酒",
+      "vino de arroz",
+      "vino de arroz para cocinar",
+      "vino Shaoxing"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "米酒, Shaoxing and the other Chinese cooking wines are brewed or fortified alcohol at roughly 15 to 20 percent by volume, and alcohol at that strength is itself a preservation barrier — the FDA's labelling guidance lists barriers of this kind alongside acidification and salt as alternatives to refrigeration. Keep the bottle capped, upright, cool and dark. It does not need the fridge and does not spoil in the ordinary sense; what it does is oxidise, going flat and slightly sharp over a year or so of an open bottle. Cooking wines sold with salt added to dodge liquor licensing behave the same way."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Guidance on Labeling of Foods That Need Refrigeration by Consumers",
+        "url": "https://www.fda.gov/media/134845/download"
+      }
+    ],
+    "analog": null,
+    "notes": "No numbers. The FDA guidance supplies only the general rule that barriers other than refrigeration can control microbial growth; it does not name rice wine. No agency publishes a home shelf life for Chinese cooking wine, and the FoodKeeper 'cooking wine' record is empty, so there is nothing honest to borrow. Slug is rice-wine-cooking because plain 'cooking-wine' already exists in FoodKeeper."
+  },
+  {
+    "slug": "rice-vinegar",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Rice vinegar",
+    "subtitle": null,
+    "keywords": [
+      "rice vinegar",
+      "seasoned rice vinegar",
+      "sushi vinegar",
+      "米醋",
+      "白醋",
+      "壽司醋",
+      "調味米醋",
+      "米酢",
+      "こめず",
+      "すし酢",
+      "穀物酢",
+      "vinagre de arroz",
+      "vinagre de arroz sazonado"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "years",
+          "tips": "Ohio State Extension's pantry chart gives unopened vinegar 2 years. Cool dark cupboard, capped. Vinegar is acid — it is one of the barrier foods that does not need refrigeration at all."
+        },
+        "afterOpening": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Ohioline gives opened vinegar 12 months. A cloudy haze or a gelatinous blob (a vinegar 'mother') in an old bottle is harmless; strain it out or ignore it. Seasoned or sushi vinegar has sugar and salt added and will taste tired sooner than the plain kind."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension (Ohioline) – Pantry Food Storage (HYG-5401)",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      },
+      {
+        "name": "National Center for Home Food Preservation (UGA) – General Information on Pickling",
+        "url": "https://nchfp.uga.edu/how/pickle/general-information-pickling/general-information-on-pickling/"
+      }
+    ],
+    "analog": null,
+    "notes": "Both figures come straight from Ohioline's pantry chart entry for vinegar (2 years unopened, 12 months opened); they are quality figures, not safety limits. NCHFP is cited for the pickling rule that matters if you are using this vinegar to preserve rather than to season: acidity level is as important to safety as it is to taste, and pickling recipes assume vinegar of 5 percent acidity. Many Japanese and Chinese rice vinegars are weaker than 5 percent — check the label before using one in a pickling recipe."
+  },
+  {
+    "slug": "black-vinegar",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Black vinegar",
+    "subtitle": "烏醋, Taiwanese seasoned dark vinegar",
+    "keywords": [
+      "black vinegar",
+      "dark vinegar",
+      "Taiwanese black vinegar",
+      "烏醋",
+      "黑醋",
+      "五印醋",
+      "工研烏醋",
+      "黒酢",
+      "中華黒酢",
+      "ウスターソース風黒酢",
+      "vinagre negro",
+      "vinagre oscuro chino"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "years",
+          "tips": "Unopened bottles keep in a cool dark cupboard. Ohio State Extension's pantry chart gives vinegar 2 years unopened."
+        },
+        "afterOpening": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Ohioline gives opened vinegar 12 months. Taiwanese 烏醋 is not a straight vinegar — it is vinegar blended with vegetable and fruit extracts, sugar, salt and spices, so it has more to lose in flavour than a plain vinegar and sediment settling out is normal. Shake before use, cap tightly, keep it out of the light."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension (Ohioline) – Pantry Food Storage (HYG-5401)",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": null,
+    "notes": "Figures are Ohioline's published vinegar lines (2 years unopened, 12 months opened) applied to a seasoned vinegar. Because 烏醋 is diluted with non-acid ingredients its acidity is lower than a straight vinegar's, so it should not be substituted into a pickling recipe that specifies 5 percent acidity. Kept separate from chinkiang-vinegar, which is a different product: 烏醋 is a Taiwanese blended seasoning, 鎮江香醋 is a straight aged glutinous-rice vinegar."
+  },
+  {
+    "slug": "chinkiang-vinegar",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Chinkiang vinegar",
+    "subtitle": "鎮江香醋, aged black rice vinegar",
+    "keywords": [
+      "Chinkiang vinegar",
+      "Zhenjiang vinegar",
+      "aged black rice vinegar",
+      "鎮江香醋",
+      "鎮江醋",
+      "香醋",
+      "陳醋",
+      "山西老陳醋",
+      "鎮江香酢",
+      "中国黒酢",
+      "チンコウ酢",
+      "vinagre de Chinkiang",
+      "vinagre negro añejo de arroz"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "years",
+          "tips": "Ohio State Extension gives unopened vinegar 2 years. Chinkiang vinegar is a genuine aged vinegar brewed from glutinous rice and wheat bran — age is a selling point, and a bottle kept past its date is a quality question, not a safety one."
+        },
+        "afterOpening": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Ohioline gives opened vinegar 12 months. Cap it tightly and keep it dark; the malty top notes are the first thing to go. Sediment in the bottom of an aged bottle is normal."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension (Ohioline) – Pantry Food Storage (HYG-5401)",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      },
+      {
+        "name": "National Center for Home Food Preservation (UGA) – General Information on Pickling",
+        "url": "https://nchfp.uga.edu/how/pickle/general-information-pickling/general-information-on-pickling/"
+      }
+    ],
+    "analog": null,
+    "notes": "Figures are Ohioline's published vinegar lines applied to Chinkiang vinegar. NCHFP is cited for the pickling caveat only: recipes that rely on vinegar for safety assume 5 percent acidity, so check the bottle before using this vinegar to preserve anything."
+  },
+  {
+    "slug": "ponzu",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Ponzu",
+    "subtitle": "citrus soy dipping sauce",
+    "keywords": [
+      "ponzu",
+      "ponzu shoyu",
+      "citrus soy sauce",
+      "柚子醋",
+      "橙醋",
+      "日式柑橘醬油",
+      "和風醬油醋",
+      "ポン酢",
+      "ぽん酢",
+      "ポン酢しょうゆ",
+      "salsa ponzu",
+      "salsa de soja con cítricos"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 24,
+          "unit": "months",
+          "tips": "Unopened bottles keep to the printed date in a cool dark cupboard."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 1,
+          "max": 1,
+          "unit": "months",
+          "tips": "Refrigerate once opened. Ponzu is soy sauce cut with citrus juice and dashi, so it is both more dilute and more delicate than plain soy sauce — the citrus aroma is the first casualty of a bottle left on the counter. Homemade ponzu, which is fresh-squeezed juice with no pasteurisation, should be treated as a fresh food: keep it cold and use it within a week or two."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Guidance on Labeling of Foods That Need Refrigeration by Consumers",
+        "url": "https://www.fda.gov/media/134845/download"
+      }
+    ],
+    "analog": "soy-sauce-or-teriyaki-sauce",
+    "notes": "The 1-month refrigerated figure is borrowed from the USDA FoodKeeper entry 'soy sauce or teriyaki sauce', which gives opened soy sauce 1 month in the fridge; ponzu is that sauce diluted with citrus and dashi, so the figure is if anything generous. The 12–24 month unopened range is the span printed on commercial bottles, not an agency figure. No agency publishes a figure for ponzu. The FDA guidance is cited for the barrier rule (acidification at pH 4.6 or below, salt and low water activity as alternatives to refrigeration)."
+  },
+  {
+    "slug": "mentsuyu",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Mentsuyu",
+    "subtitle": "noodle soup base, concentrated or straight",
+    "keywords": [
+      "mentsuyu",
+      "noodle soup base",
+      "tsuyu",
+      "soba tsuyu",
+      "日式麵味露",
+      "麵味露",
+      "沾麵醬油",
+      "柴魚醬油",
+      "めんつゆ",
+      "麺つゆ",
+      "つゆ",
+      "ストレートつゆ",
+      "濃縮つゆ",
+      "base para sopa de fideos japonesa",
+      "salsa para fideos"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 6,
+          "max": 12,
+          "unit": "months",
+          "tips": "Unopened bottles keep to the printed date in a cool dark cupboard. Straight (ready-to-use) tsuyu carries a shorter date than concentrate because it is already watered down."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 2,
+          "max": 4,
+          "unit": "weeks",
+          "tips": "Always the fridge once opened, and this one is not purely a quality question: mentsuyu is soy sauce and mirin let down with dashi and water, which drops both the salt and the sugar concentration below the level that makes a soy sauce bottle self-preserving. Straight-type tsuyu is the most dilute and the most perishable — treat it like an opened carton of stock. Cloudiness, a film on the surface or a sour smell means throw it out."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Freezing a homemade or leftover diluted tsuyu in ice-cube trays is a reasonable way to keep it, on the same footing as a homemade broth."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Guidance on Labeling of Foods That Need Refrigeration by Consumers",
+        "url": "https://www.fda.gov/media/134845/download"
+      }
+    ],
+    "analog": "broth-homemade",
+    "notes": "Numbers are borrowed. The fridge range is set between the USDA FoodKeeper figure for opened soy sauce (1 month refrigerated) and its figure for an opened carton of commercial broth (3–4 days), because mentsuyu sits between the two — it is soy sauce diluted with dashi, and the more dilute the bottle the closer it is to the broth end. The freezer figure is FoodKeeper's for 'broth, homemade' (2–3 months). No agency publishes a figure for mentsuyu. The FDA guidance is cited for the rule that dilution removes the salt and water-activity barriers that keep an undiluted seasoning stable."
+  },
+  {
+    "slug": "dashi-homemade",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dashi",
+    "subtitle": "homemade stock from kombu and katsuobushi",
+    "keywords": [
+      "dashi",
+      "Japanese stock",
+      "kombu dashi",
+      "katsuo dashi",
+      "ichiban dashi",
+      "日式高湯",
+      "柴魚高湯",
+      "昆布高湯",
+      "出汁",
+      "だし",
+      "だし汁",
+      "一番だし",
+      "昆布だし",
+      "caldo dashi",
+      "caldo japonés",
+      "fondo dashi"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "Dashi is a plain, unsalted, low-acid stock and behaves like any other homemade broth: cool it quickly, get it into a covered container in the fridge at 4 °C or below, and use it within three to four days. It has no salt, sugar or acid barrier at all, which is why it is the shortest-lived thing in this batch."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Freeze in ice-cube trays or flat in bags so you can break off what a dish needs. This is how most Japanese home cooks handle a batch of 一番だし."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "香港食物安全中心 – 在雪櫃及冰格貯存食物的實用提示",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_218_01.html"
+      }
+    ],
+    "analog": "broth-homemade",
+    "notes": "Both figures are taken directly from the USDA FoodKeeper entry 'broth, homemade' (3–4 days refrigerated, 2–3 months frozen). Dashi is a homemade broth in every respect that matters to storage, but no agency names it, so this is an analogue rather than a sourced figure. Hong Kong CFS is cited for the refrigeration and freezing temperatures (4 °C or below; −18 °C or below)."
+  },
+  {
+    "slug": "dashi-packet",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Dashi packet",
+    "subtitle": "instant granules, sachets and concentrated liquid",
+    "keywords": [
+      "dashi packet",
+      "instant dashi",
+      "dashi granules",
+      "hondashi",
+      "dashi pack",
+      "日式高湯包",
+      "柴魚粉",
+      "高湯粉",
+      "鰹魚素",
+      "だしパック",
+      "顆粒だし",
+      "ほんだし",
+      "だしの素",
+      "液体だし",
+      "dashi instantáneo",
+      "caldo japonés en polvo",
+      "granulado de dashi"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Dry granules and sealed sachets keep about a year in a cool dry cupboard. Keep them airtight — the granules are hygroscopic and cake into a solid lump the moment they meet humidity, which is the usual end of a jar of だしの素 in a humid kitchen."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "Once you have made it up into liquid stock, it is stock: covered, at 4 °C or below, three to four days. Concentrated liquid dashi in a bottle should be refrigerated after opening and used to the maker's instruction — the printed date stops applying once the bottle is opened."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "香港食物安全中心 – 在雪櫃及冰格貯存食物的實用提示",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_218_01.html"
+      }
+    ],
+    "analog": "soup-mixes-dry-bouillon",
+    "notes": "The 1-year pantry figure is the USDA FoodKeeper figure for 'soup mixes, dry, bouillon'. The 3–4 day figure for made-up stock is FoodKeeper's line that reconstituted broth lasts 3–4 days in the refrigerator, which appears in its commercial broth entries. Neither is a figure any agency has published for dashi specifically. Hong Kong CFS supplies the rules: 4 °C or below, and the printed best-before date ceases to apply once a prepacked product is opened."
+  },
+  {
+    "slug": "fish-sauce",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Fish sauce",
+    "subtitle": "nam pla, nuoc mam, 魚露",
+    "keywords": [
+      "fish sauce",
+      "nam pla",
+      "nuoc mam",
+      "patis",
+      "魚露",
+      "魚醬",
+      "蝦油",
+      "ナンプラー",
+      "魚醤",
+      "ぎょしょう",
+      "しょっつる",
+      "ヌクマム",
+      "salsa de pescado",
+      "salsa de pescado fermentado"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 3,
+          "max": 3,
+          "unit": "years",
+          "tips": "Cool dark cupboard, capped. Unopened bottles keep for years — fish sauce is anchovy fermented under something like a quarter of its weight in salt."
+        },
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "The 'refrigerate after opening' line on the bottle is about quality, not safety. The FDA's labelling guidance is explicit that salt and low water activity (aw 0.85 or below) are preservation barriers in their own right, and that the condiments carrying this instruction do so 'to retard deterioration in the quality of the food'. An open bottle on the shelf will darken and turn from savoury towards harsh over months; it does not become hazardous. Salt crystals settling out of an old bottle are just salt."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Refrigeration slows the darkening and keeps the aroma cleaner, which is why many Thai and Vietnamese kitchens do it. No agency publishes a timeline for refrigerated fish sauce and none is invented here."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Guidance on Labeling of Foods That Need Refrigeration by Consumers",
+        "url": "https://www.fda.gov/media/134845/download"
+      }
+    ],
+    "analog": "soy-sauce-or-teriyaki-sauce",
+    "notes": "The 3-year unopened figure is borrowed from the USDA FoodKeeper entry 'soy sauce or teriyaki sauce', the closest heavily salted fermented seasoning in the dataset. FoodKeeper's own note on that entry — that shelf-stable commercial soy sauce is safe at room temperature after opening and that quality, not safety, is why the label advises refrigeration — is the same reasoning applied here, and the FDA guidance is the published statement of the underlying barrier rule. No refrigerated figure is given because none exists."
+  },
+  {
+    "slug": "shrimp-paste",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Shrimp paste",
+    "subtitle": "蝦醬 / belacan / terasi / kapi",
+    "keywords": [
+      "shrimp paste",
+      "belacan",
+      "terasi",
+      "kapi",
+      "mam tom",
+      "bagoong",
+      "蝦醬",
+      "蝦膏",
+      "鹹蝦醬",
+      "馬拉盞",
+      "エビ味噌",
+      "蝦醤",
+      "ブラチャン",
+      "テラシ",
+      "pasta de camarón",
+      "pasta de gambas fermentada"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Dried block belacan and terasi are among the driest, saltiest things in an Asian pantry, and the FDA's labelling guidance lists salt and low water activity (aw 0.85 or below) as barriers that do the same job refrigeration does. A wrapped block keeps in a cool dry cupboard; wrap it in several layers or a lidded jar, because the smell travels through anything thinner. Wet paste in a jar is a different, moister product and should follow the jar's own after-opening instruction."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 3,
+          "max": 6,
+          "unit": "months",
+          "tips": "Refrigerate opened wet paste. Keep the surface flat and use a clean dry spoon; water introduced on a wet spoon is what starts mould. Colour deepening from pink-grey to near-black over time is normal ageing."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Guidance on Labeling of Foods That Need Refrigeration by Consumers",
+        "url": "https://www.fda.gov/media/134845/download"
+      }
+    ],
+    "analog": "oyster-sauce",
+    "notes": "The 3–6 month refrigerated figure is borrowed from the USDA FoodKeeper entry 'oyster sauce', the closest salted fermented-seafood condiment in the dataset. No agency publishes a figure for shrimp paste. The FDA guidance is cited for the rule that salt and low water activity are preservation barriers, which is why the dried block form gets no number at all — it is shelf-stable, and putting a fridge deadline on it would misdescribe how it works."
+  },
+  {
+    "slug": "plum-sauce",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Plum sauce",
+    "subtitle": "蘇梅醬, duck sauce",
+    "keywords": [
+      "plum sauce",
+      "duck sauce",
+      "蘇梅醬",
+      "梅子醬",
+      "酸梅醬",
+      "話梅醬",
+      "プラムソース",
+      "梅ソース",
+      "中華梅ソース",
+      "salsa de ciruela",
+      "salsa de ciruela china"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 18,
+          "max": 24,
+          "unit": "months",
+          "tips": "Unopened jars and bottles keep to the printed date in a cool dark cupboard. Plum sauce is a sugar-and-vinegar preserve — sweet, acidic and thick, which is exactly the combination that makes jam shelf-stable."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 3,
+          "max": 6,
+          "unit": "months",
+          "tips": "Refrigerate after opening. Any darkening at the neck of the jar is oxidation. Fuzzy mould on the surface of a sugary sauce means the whole jar goes — mould in a high-sugar food can be growing deeper than it looks."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Guidance on Labeling of Foods That Need Refrigeration by Consumers",
+        "url": "https://www.fda.gov/media/134845/download"
+      }
+    ],
+    "analog": "hoisin-sauce",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'hoisin sauce' (18–24 months unopened, 3–6 months refrigerated after opening), the closest sweet Chinese jar sauce in the dataset; FoodKeeper's 'jams, jellies and preserves' entry gives a very similar 6–12 months refrigerated after opening, so the two anchors agree well enough. No agency publishes a figure for plum sauce. The FDA guidance is cited for the acidification and low-water-activity barrier rule only."
+  },
+  {
+    "slug": "sweet-chili-sauce",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sweet chilli sauce",
+    "subtitle": "Thai-style dipping sauce",
+    "keywords": [
+      "sweet chili sauce",
+      "sweet chilli sauce",
+      "Thai sweet chili",
+      "nam chim kai",
+      "泰式甜辣醬",
+      "甜辣醬",
+      "雞醬",
+      "スイートチリソース",
+      "甘辛ソース",
+      "salsa dulce de chile",
+      "salsa agridulce picante tailandesa"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Unopened bottles keep about a year in a cool dark cupboard."
+        },
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Sweet chilli sauce is sugar plus vinegar plus salt — the same acid-and-sugar barrier that keeps ketchup stable. The USDA FoodKeeper's note on shelf-stable chilli sauce is that it stays safe at room temperature after opening and that quality, not safety, is the reason the label suggests refrigerating it."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Refrigerate after opening for best colour and flavour. Wipe the neck of the bottle — sugary drips on the thread are where mould starts."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Guidance on Labeling of Foods That Need Refrigeration by Consumers",
+        "url": "https://www.fda.gov/media/134845/download"
+      },
+      {
+        "name": "Ohio State University Extension (Ohioline) – Pantry Food Storage (HYG-5401)",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "ketchup-cocktail-or-chili-sauce",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'ketchup, cocktail or chili sauce' (1 year unopened, 6 months refrigerated after opening), including its safety-versus-quality note quoted in the pantry tip. Ohioline's pantry chart is a second, tighter anchor for the same class of product — it gives catsup and chilli sauce 12 months unopened and 1 month opened — so treat 6 months as the outer edge for a sauce you want to taste good. No agency publishes a figure for Thai sweet chilli sauce specifically."
+  },
+  {
+    "slug": "curry-roux",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Curry roux",
+    "subtitle": "Japanese curry blocks",
+    "keywords": [
+      "curry roux",
+      "curry block",
+      "Japanese curry",
+      "kare ru",
+      "日式咖哩塊",
+      "咖哩塊",
+      "咖哩磚",
+      "カレールウ",
+      "カレールー",
+      "固形カレー",
+      "ハウスバーモントカレー",
+      "roux de curry japonés",
+      "pastillas de curry japonés"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 24,
+          "unit": "months",
+          "tips": "Sealed boxes keep to the printed date in a cool dry cupboard. A curry block is flour and spice cooked into hardened fat — palm oil or beef fat — so what limits it is the fat going rancid, not anything microbial. Keep it away from the cooker and out of the sun."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 3,
+          "unit": "months",
+          "tips": "Once the foil is cut, wrap the remaining blocks tightly or seal them in a bag. Ohio State Extension gives opened salad oils 1 to 3 months, which is the same rancidity clock. A white bloom on an old block is usually fat crystallising and is harmless; a crayon-like or paint-like smell means the fat has oxidised and the curry will taste of it."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "This is where most people actually lose curry: the made-up pot, not the block. Japanese curry is a thick, low-acid, starchy stew that cools slowly in the middle — divide it into shallow containers, get it cold fast, and eat it within three to four days. Reheat to a full boil, stirring, not just to warm."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Made-up curry freezes well minus the potatoes, which go grainy. Portion it flat in bags."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Ohio State University Extension (Ohioline) – Pantry Food Storage (HYG-5401)",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      },
+      {
+        "name": "香港食物安全中心 – 在雪櫃及冰格貯存食物的實用提示",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_218_01.html"
+      }
+    ],
+    "analog": "soup-stews",
+    "notes": "Mixed sourcing, stated plainly. The 1–3 month opened-box figure is Ohioline's opened-salad-oil line, applied because the failure mode of a curry block is the fat oxidising; the 12–24 month unopened range is the span printed on commercial boxes, not an agency figure. The fridge and freezer figures for made-up curry are borrowed from the USDA FoodKeeper entry 'soups and stews' (3–4 days refrigerated, 2–3 months frozen). Hong Kong CFS supplies the storage temperatures."
+  },
+  {
+    "slug": "coconut-cream-fresh",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Coconut cream",
+    "subtitle": "freshly pressed, unpasteurised",
+    "keywords": [
+      "fresh coconut cream",
+      "fresh coconut milk",
+      "santan",
+      "kathi",
+      "椰漿",
+      "新鮮椰漿",
+      "椰奶",
+      "現榨椰漿",
+      "ココナッツクリーム",
+      "生ココナッツミルク",
+      "ココナッツミルク",
+      "crema de coco fresca",
+      "leche de coco fresca"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Freshly pressed coconut cream is a raw, unpasteurised, low-acid emulsion — closer to raw milk than to the tin. Get it to 4 °C or below straight from the press and use it within a day or two. It separates into a thick cap and thin liquid in the fridge; that is normal, stir it back. Sourness, fizzing or a sharp yeasty smell means it has gone."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 3,
+          "max": 3,
+          "unit": "months",
+          "tips": "Freeze in an ice-cube tray or a flat bag. The emulsion breaks on thawing and looks curdled — whisk or blend it back together, and use it in cooked dishes rather than for a raw dressing."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "香港食物安全中心 – 在雪櫃及冰格貯存食物的實用提示",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_218_01.html"
+      }
+    ],
+    "analog": "coconut-cream-canned",
+    "notes": "Borrowed and shortened. The USDA FoodKeeper entry 'coconut cream, canned' gives 4 days refrigerated after opening and 3 months frozen; the freezer figure is taken as-is, but the fridge figure is cut to 1–2 days because canned cream has been retorted and freshly pressed 椰漿 has not. That shortening is an editorial judgement, not a sourced one. Hong Kong CFS supplies the temperatures (4 °C or below, −18 °C or below). Canned and UHT coconut cream and coconut milk are already covered by their own FoodKeeper records."
+  },
+  {
+    "slug": "pandan-leaves",
+    "category": "herbs-spices",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Pandan leaves",
+    "subtitle": "fresh screwpine leaves",
+    "keywords": [
+      "pandan",
+      "pandan leaves",
+      "screwpine",
+      "daun pandan",
+      "香蘭葉",
+      "斑蘭葉",
+      "七葉蘭",
+      "班蘭",
+      "パンダンリーフ",
+      "ニオイタコノキ",
+      "パンダン",
+      "hojas de pandano",
+      "pandan"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 7,
+          "max": 9,
+          "unit": "days",
+          "tips": "Wrap the bundle loosely in kitchen paper inside a bag in the crisper. The leaves are tough and waxy so they keep better than a soft herb, but they yellow from the cut ends and lose their vanilla-rice aroma as they go. Wash and dry them only when you are about to use them."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 6,
+          "unit": "months",
+          "tips": "Freezing is the sensible option outside the tropics: rinse, dry, cut into lengths, bag flat. Frozen leaves are limp on thawing but the aroma survives well, and they can go straight into a pot of rice or a coconut syrup from frozen."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "香港食物安全中心 – 在雪櫃及冰格貯存食物的實用提示",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_218_01.html"
+      }
+    ],
+    "analog": "lemongrass",
+    "notes": "Both figures are taken from the USDA FoodKeeper entry 'lemongrass' (7–9 days refrigerated, 6 months frozen), which is the closest thing in the dataset — a stiff, fibrous, aromatic Southeast Asian leaf used for perfume and removed before serving. No agency publishes a storage time for pandan. Hong Kong CFS is cited for the storage temperatures only."
+  },
+  {
+    "slug": "fermented-black-beans",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Fermented black beans",
+    "subtitle": "豆豉, dried salted soybeans",
+    "keywords": [
+      "fermented black beans",
+      "salted black beans",
+      "douchi",
+      "black bean",
+      "豆豉",
+      "蔭豉",
+      "濕豆豉",
+      "乾豆豉",
+      "豆鼓",
+      "トウチ",
+      "豆豉",
+      "浜納豆",
+      "frijoles negros fermentados",
+      "soja negra fermentada salada"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 24,
+          "unit": "months",
+          "tips": "Dry 豆豉 is a salt-cured, part-dried bean: an airtight jar in a cool dark cupboard is all it needs, and the FDA's labelling guidance is the reason why — salt and low water activity (aw 0.85 or below) are preservation barriers in their own right. Do not rinse the beans before storing, only before cooking, and never put a damp spoon in the jar."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "In a humid climate the fridge or freezer is the safer cupboard: it stops the beans absorbing moisture, going tacky and then mouldy, and keeps pantry moths out. No agency publishes a cold-storage figure for 豆豉, so none is given. Softer wet-packed 濕豆豉 in oil or brine is a different product — refrigerate that after opening and follow the jar."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA – Guidance on Labeling of Foods That Need Refrigeration by Consumers",
+        "url": "https://www.fda.gov/media/134845/download"
+      }
+    ],
+    "analog": "beans-dried",
+    "notes": "The 12–24 month pantry figure is borrowed from the USDA FoodKeeper entry 'beans, dried' (1–2 years), which is the closest dry storable bean in the dataset; 豆豉 carries far more salt and slightly more moisture, so the range is a fair read rather than a precise one. The FDA guidance is cited for the barrier rule only. Note this is the dry bean, not the jarred sauce — 'black bean sauce' already has its own FoodKeeper record."
+  },
+  {
+    "slug": "salted-duck-egg-yolk",
+    "category": "dairy-eggs",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Salted duck egg yolk",
+    "subtitle": "separated yolks, raw or baked",
+    "keywords": [
+      "salted duck egg yolk",
+      "salted egg yolk",
+      "鹹蛋黃",
+      "鹹鴨蛋黃",
+      "生鹹蛋黃",
+      "熟鹹蛋黃",
+      "蛋黃酥用蛋黃",
+      "塩漬け卵黄",
+      "塩漬けアヒル卵黄",
+      "ソルテッドエッグヨーク",
+      "yema de huevo de pato salada",
+      "yema salada"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 1,
+          "unit": "weeks",
+          "tips": "Vacuum-packed or loose yolks, raw or already baked, at 4 °C or below in a sealed box. Salt-cured they may be, but a yolk lifted out of its shell and its brine has lost most of its protection and is a rich, low-acid food. Baked or steamed yolks for 蛋黃酥 and mooncakes should go straight from cooling into the fridge and be used within the week."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "months",
+          "tips": "The right way to keep a bag of yolks. Freeze them in a single layer then bag them; they go slightly grainy but that does not matter once they are baked into a pastry or mashed into a sauce. Thaw in the fridge, not on the counter."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "香港食物安全中心 – 在雪櫃及冰格貯存食物的實用提示",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_218_01.html"
+      }
+    ],
+    "analog": "eggs-hard-boiled-cooked",
+    "notes": "The 1-week refrigerated figure is the USDA FoodKeeper figure for 'eggs, hard-boiled/cooked'. The 3–4 month freezer figure is the same figure this site's existing 'salted duck egg' record uses for separated yolks, and sits well inside FoodKeeper's 12 months for raw egg yolks removed from the shell. Neither is published for salted yolks by any agency. Whole salted duck eggs in shell or brine are covered by the separate 'salted duck egg' record; this entry is for yolks sold or separated on their own. Hong Kong CFS supplies the temperatures."
+  },
+  {
+    "slug": "laksa-paste",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Laksa paste",
+    "subtitle": "rempah for laksa",
+    "keywords": [
+      "laksa paste",
+      "rempah",
+      "curry laksa paste",
+      "叻沙醬",
+      "喇沙醬",
+      "南洋叻沙醬",
+      "ラクサペースト",
+      "ラクサの素",
+      "pasta de laksa",
+      "pasta rempah"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "years",
+          "tips": "Unopened jars, tubs and sachets keep to the printed date in a cool dark cupboard."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 5,
+          "max": 5,
+          "unit": "days",
+          "tips": "Refrigerate as soon as it is opened. Laksa paste is mostly fresh aromatics — shallot, garlic, galangal, lemongrass, chilli, candlenut, shrimp paste — bound with oil, and the USDA FoodKeeper gives opened Thai curry paste, which is built the same way, only 5 days in the fridge. Homemade rempah is the same or shorter. If the paste is sitting under a layer of oil, that is fresh low-acid produce under oil: keep it cold and do not leave it on the counter."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 3,
+          "max": 3,
+          "unit": "months",
+          "tips": "The practical way to keep it. Fry the paste off first if you have time, then freeze in tablespoon portions in an ice-cube tray. NCHFP allows garlic in oil, the closest hazard analogue, to be frozen 'for up to several months'."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "National Center for Home Food Preservation (UGA) – Freezing Garlic-in-Oil",
+        "url": "https://nchfp.uga.edu/how/freeze/vegetable/freezing-garlic-in-oil/"
+      },
+      {
+        "name": "Ohio State University Extension (Ohioline) – Botulism: What You Don't See or Smell Can Still Hurt You (HYG-5567)",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5567-11"
+      }
+    ],
+    "analog": "thai-red-curry-paste",
+    "notes": "The pantry and fridge figures are taken directly from the USDA FoodKeeper entry 'Thai red curry paste' (2 years unopened, 5 days refrigerated after opening) — the same category of fresh-aromatic Southeast Asian spice paste. No agency publishes a figure for laksa paste. The freezer figure and the oil warning are sourced: NCHFP gives garlic in oil 'several months' frozen and 4 days refrigerated, and Ohioline's botulism factsheet warns that garlic and herbs placed in oil can produce toxin in the anaerobic mixture."
+  },
+  {
+    "slug": "rendang-paste",
+    "category": "condiments-sauces",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Rendang paste",
+    "subtitle": "bumbu rendang",
+    "keywords": [
+      "rendang paste",
+      "bumbu rendang",
+      "rendang spice paste",
+      "仁當醬",
+      "冷當醬",
+      "峇東醬",
+      "南洋咖哩醬",
+      "ルンダンペースト",
+      "ルンダンの素",
+      "pasta de rendang",
+      "pasta bumbu rendang"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 2,
+          "max": 2,
+          "unit": "years",
+          "tips": "Unopened jars and sachets keep to the printed date in a cool dark cupboard."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 5,
+          "max": 5,
+          "unit": "days",
+          "tips": "Refrigerate once opened. Like every rempah, it is ground fresh shallot, garlic, ginger, galangal, turmeric and chilli — low-acid produce, usually sitting under oil, which is the exact combination NCHFP warns about. Five days cold is the USDA FoodKeeper figure for the equivalent Thai curry paste; NCHFP's limit for garlic in oil is four days at 4 °C or lower."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 3,
+          "max": 3,
+          "unit": "months",
+          "tips": "Freeze in portions. Homemade bumbu is much better frozen than refrigerated — NCHFP allows garlic in oil to be frozen 'for up to several months', and a fried-off paste keeps its flavour through it."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "National Center for Home Food Preservation (UGA) – Freezing Garlic-in-Oil",
+        "url": "https://nchfp.uga.edu/how/freeze/vegetable/freezing-garlic-in-oil/"
+      },
+      {
+        "name": "Ohio State University Extension (Ohioline) – Botulism: What You Don't See or Smell Can Still Hurt You (HYG-5567)",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5567-11"
+      }
+    ],
+    "analog": "thai-red-curry-paste",
+    "notes": "Pantry and fridge figures borrowed from the USDA FoodKeeper entry 'Thai red curry paste' (2 years unopened, 5 days refrigerated after opening). No agency publishes a figure for rendang paste. The freezer figure and the botulism warning are sourced from NCHFP and Ohioline. Note the finished dish is different again: dry-cooked rendang is nearly a preserve, but the paste on its own is not."
+  },
+  {
+    "slug": "takuan",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Takuan",
+    "subtitle": "たくあん漬, bran-pickled daikon",
+    "keywords": [
+      "takuan",
+      "takuwan",
+      "pickled daikon",
+      "yellow pickled radish",
+      "澤庵漬",
+      "黃蘿蔔",
+      "醃蘿蔔",
+      "日式醃蘿蔔",
+      "たくあん",
+      "たくあん漬",
+      "沢庵",
+      "沢庵漬け",
+      "daikon encurtido",
+      "rábano japonés encurtido"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Traditional takuan is not a fridge food. Japan's 農林水産省 describes it as sun-dried daikon layered with rice bran and salt under a weight at 15 to 17 percent salt, then fermented for 6 to 12 months — the salt is the preservation, and a whole radish left buried in its bran bed in a cool place keeps as long as the bed does. Historically it was salted three to five times more heavily than today's version. Modern supermarket takuan is nothing like this: low salt, sweetened, coloured and pasteurised, and it belongs in the fridge."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 4,
+          "max": 6,
+          "unit": "months",
+          "tips": "A genuinely fermented, high-salt takuan lifted out of its bran and kept cold. NCHFP's figure for fully fermented pickles is 4 to 6 months in the original container, refrigerated, with surface scum and moulds removed regularly — the same rule applies to a crock of 糠漬け."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 3,
+          "unit": "months",
+          "tips": "Opened vacuum packs of the modern seasoned type. Keep the slices submerged in whatever liquid came with them, in a sealed box at 4 °C or below. Sliminess on the surface or a lifted, gassy pack means discard."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "農林水産省 – たくあん漬（にっぽん伝統食図鑑）",
+        "url": "https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/takuan_zuke.html"
+      },
+      {
+        "name": "National Center for Home Food Preservation (UGA) – Fermented Dill Pickles",
+        "url": "https://nchfp.uga.edu/how/ferment/recipes/dill-pickles/"
+      }
+    ],
+    "analog": "pickles",
+    "notes": "Split sourcing, and the split matters because the two products in the shops are not the same food. The traditional method, salt level and 6–12 month fermentation are sourced from 農林水産省. The 4–6 month refrigerated figure is NCHFP's published figure for fully fermented pickles, applied here to bran-pickled daikon because it is the same preservation mechanism. The 1–3 month opened-pack figure is borrowed from the USDA FoodKeeper entry 'pickles' (1–3 months refrigerated after opening); no agency publishes one for takuan."
+  },
+  {
+    "slug": "umeboshi",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Umeboshi",
+    "subtitle": "salt-pickled and dried ume plums",
+    "keywords": [
+      "umeboshi",
+      "pickled plum",
+      "salted plum",
+      "日式梅干",
+      "鹹梅乾",
+      "紫蘇梅",
+      "話梅",
+      "醃梅",
+      "梅干し",
+      "うめぼし",
+      "白干梅",
+      "調味梅干",
+      "ciruela japonesa encurtida",
+      "umeboshi",
+      "ciruela salada"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Traditional 白干梅 — plums salted at about 20 percent, weighted for a month and then sun-dried — is a preserve, and 農林水産省 says plainly that it is the action of the salt that makes long keeping possible. A jar of the traditional kind lives in a cool dark cupboard and gets better rather than worse. The instruction to keep the salt at 20 percent is not decorative: 農林水産省 warns that reducing it can make the batch fail."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 1,
+          "max": 3,
+          "unit": "months",
+          "tips": "For the modern 調味梅干 sold today — plums desalted and re-seasoned with honey, dashi or shiso, often down at 5 to 8 percent salt. These are refrigerated products with a printed date, not preserves, and once the pack is opened the date no longer applies. Keep them in their liquid, sealed, at 4 °C or below."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "農林水産省 – 昔ながらの保存食！梅干し",
+        "url": "https://www.maff.go.jp/j/zyukyu/foodstock/imadoki/imadoki07.html"
+      },
+      {
+        "name": "香港食物安全中心 – 在雪櫃及冰格貯存食物的實用提示",
+        "url": "https://www.cfs.gov.hk/tc_chi/multimedia/multimedia_pub/multimedia_pub_fsf_218_01.html"
+      }
+    ],
+    "analog": "pickles",
+    "notes": "The 20 percent salt figure, the one-month curing and the statement that salt is what allows long storage all come from 農林水産省; that page gives no number of years, so none is quoted here even though traditional umeboshi is routinely kept for years. The 1–3 month refrigerated figure for the modern seasoned type is borrowed from the USDA FoodKeeper entry 'pickles'. Hong Kong CFS supplies the rules that the printed date stops applying once a pack is opened and that the fridge should run at 4 °C or below."
+  },
+  {
+    "slug": "tsukemono",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Tsukemono",
+    "subtitle": "Japanese pickles, shallow and fermented",
+    "keywords": [
+      "tsukemono",
+      "asazuke",
+      "nukazuke",
+      "shibazuke",
+      "Japanese pickles",
+      "日式醃菜",
+      "漬物",
+      "淺漬",
+      "米糠漬",
+      "柴漬",
+      "つけもの",
+      "漬物",
+      "浅漬け",
+      "ぬか漬け",
+      "しば漬け",
+      "encurtidos japoneses",
+      "verduras encurtidas japonesas"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 4,
+          "max": 6,
+          "unit": "months",
+          "tips": "This figure is for a genuinely fermented, properly salted pickle — a nukazuke bed, a salt-crock 古漬け — kept cold. NCHFP gives fully fermented pickles about 4 to 6 months in their original container, refrigerated, provided surface scum and moulds are removed regularly, and gives fully fermented sauerkraut 'several months' tightly covered. 浅漬け (asazuke) is the opposite case and the one people get wrong: lightly salted vegetables with no real fermentation and no acid to speak of, made in hours rather than weeks. NCHFP's own quick pickle, the refrigerator dill, ferments for only about a week. Treat asazuke as a salad — cold, covered, a few days at most."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 3,
+          "unit": "months",
+          "tips": "Opened commercial packs and jars. Keep the vegetables under their liquid, sealed, at 4 °C or below."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "National Center for Home Food Preservation (UGA) – Fermented Dill Pickles",
+        "url": "https://nchfp.uga.edu/how/ferment/recipes/dill-pickles/"
+      },
+      {
+        "name": "National Center for Home Food Preservation (UGA) – General Information on Fermenting",
+        "url": "https://nchfp.uga.edu/how/ferment/general-information-on-fermenting/general-information-on-fermenting/"
+      },
+      {
+        "name": "National Center for Home Food Preservation (UGA) – Sauerkraut",
+        "url": "https://nchfp.uga.edu/how/ferment/recipes/sauerkraut/"
+      }
+    ],
+    "analog": "pickles",
+    "notes": "The 4–6 month figure is NCHFP's published figure for fully fermented pickles, applied to fermented tsukemono because the preservation mechanism is the same — salt, exclusion of air, and lactic fermentation. The distinction the reader most needs is which pickle they are holding: NCHFP's fermenting page contrasts a 3-week fermented dill with a 1-week refrigerator dill, and asazuke is shorter again than either. The 1–3 month opened-pack figure is borrowed from the USDA FoodKeeper entry 'pickles'."
+  },
+  {
+    "slug": "pickled-ginger",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Pickled ginger",
+    "subtitle": "gari and beni shoga",
+    "keywords": [
+      "pickled ginger",
+      "gari",
+      "beni shoga",
+      "sushi ginger",
+      "壽司薑",
+      "醃薑",
+      "嫩薑片",
+      "紅薑絲",
+      "甘醋薑",
+      "がり",
+      "ガリ",
+      "紅生姜",
+      "甘酢生姜",
+      "新生姜漬け",
+      "jengibre encurtido",
+      "jengibre para sushi"
+    ],
+    "storage": {
+      "fridge": {
+        "afterOpening": {
+          "min": 1,
+          "max": 3,
+          "unit": "months",
+          "tips": "Refrigerate once opened, ginger kept under its liquid, lid on, 4 °C or below. Gari is a vinegar-and-sugar pickle so acidity is doing the work; NCHFP's rule is that the level of acidity in a pickled product is as important to its safety as it is to taste, and that pickling recipes assume vinegar at 5 percent acidity. Homemade gari made with a weak rice vinegar is not a preserve — keep it cold and eat it within a couple of weeks. Beni shoga in its plum brine is saltier and keeps better than sweet gari."
+        }
+      },
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Unopened shelf-stable jars keep about a year in a cool dark cupboard; refrigerated packs from the chiller cabinet do not belong here at all."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "National Center for Home Food Preservation (UGA) – General Information on Pickling",
+        "url": "https://nchfp.uga.edu/how/pickle/general-information-pickling/general-information-on-pickling/"
+      },
+      {
+        "name": "Ohio State University Extension (Ohioline) – Pantry Food Storage (HYG-5401)",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "pickles",
+    "notes": "The 1-year unopened and 1–3 month opened figures are borrowed from the USDA FoodKeeper entry 'pickles'; Ohioline's pantry chart is a second anchor and is tighter, giving opened canned pickles and olives 1 to 2 months, so the low end of the range is the safer read for quality. NCHFP supplies the rule, not the number: acidity is what makes a vinegar pickle safe, and a weak vinegar makes a pickle that is not one."
+  },
+  {
+    "slug": "zha-cai",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Zha cai",
+    "subtitle": "榨菜, pressed mustard stem",
+    "keywords": [
+      "zha cai",
+      "zhacai",
+      "Sichuan preserved vegetable",
+      "pickled mustard stem",
+      "榨菜",
+      "搾菜",
+      "榨菜絲",
+      "四川榨菜",
+      "ザーサイ",
+      "搾菜",
+      "verdura china encurtida",
+      "tallo de mostaza encurtido"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 12,
+          "unit": "months",
+          "tips": "Sealed vacuum sachets and tins keep to the printed date in a cool dry cupboard. Taiwan's 農業部 describes 榨菜 as mustard stem nodules field-dried, shade-dried for a day or two, then salted, turned twice during fermentation and aged for 4 to 6 months — it is a salt preserve, which is why the unopened pack does not need cold."
+        }
+      },
+      "fridge": {
+        "afterOpening": {
+          "min": 2,
+          "max": 4,
+          "unit": "weeks",
+          "tips": "Once the sachet is cut, get the contents into a sealed jar in the fridge. Shredded, seasoned 榨菜絲 in oil is the most perishable form — it is wet, it has been rinsed of some of its salt, and it moulds at the surface within weeks. A whole knob keeps better than shreds. Rinse only what you are about to cook."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "農業部食農教育資訊整合平臺 – 長年百歲菜：芥菜",
+        "url": "https://fae.moa.gov.tw/theme_data.php?theme=topics&sub_theme=knowledge&id=41"
+      },
+      {
+        "name": "Ohio State University Extension (Ohioline) – Pantry Food Storage (HYG-5401)",
+        "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+      }
+    ],
+    "analog": "pickles",
+    "notes": "The production method, the two turnings and the 4–6 month ageing are sourced from Taiwan's 農業部 food-and-agriculture education platform; that page gives no storage figure. The 1-year unopened figure is borrowed from the USDA FoodKeeper entry 'pickles'. The 2–4 week opened figure is a deliberate shortening of FoodKeeper's 1–3 months, because a cut sachet of rinsed, oiled, shredded 榨菜 is far wetter and less salty than a jar of brined cucumbers — Ohioline's 1–2 months for opened canned pickles was the upper bound considered. That shortening is an editorial judgement, not a sourced figure."
+  },
+  {
+    "slug": "preserved-mustard-greens",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Preserved mustard greens",
+    "subtitle": "梅干菜 and 福菜, dried Hakka pickled mustard",
+    "keywords": [
+      "preserved mustard greens",
+      "dried pickled mustard",
+      "mei gan cai",
+      "fu cai",
+      "梅干菜",
+      "梅乾菜",
+      "福菜",
+      "覆菜",
+      "客家鹹菜",
+      "酸菜",
+      "干し高菜漬け",
+      "メイガンツァイ",
+      "からし菜の漬物",
+      "hojas de mostaza encurtidas secas",
+      "mostaza china en conserva"
+    ],
+    "storage": {
+      "pantry": {
+        "fromPurchase": {
+          "min": 12,
+          "max": 24,
+          "unit": "months",
+          "tips": "梅干菜 is the driest end of the Hakka mustard-green family. Taiwan's 農業部 describes it as 福菜 that has been sun-dried until completely dry and then rolled into balls, and says the reason it keeps longer is precisely that there is no water left in it. An airtight jar in a cool dark cupboard; never a damp hand or a wet spoon in the jar. Bloom of salt crystals on the surface is normal."
+        },
+        "afterOpening": {
+          "min": 3,
+          "max": 3,
+          "unit": "months",
+          "tips": "For best aroma once the bag is opened. It stays safe far longer if it stays genuinely dry, but the smoky-sweet smell that is the whole point of the ingredient fades."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "unit": null,
+          "tips": "Wetter members of the family behave differently and should be cold. 福菜 is packed damp in an inverted jar and is still a wet pickle; 酸菜 is a straight brine ferment that 農業部 describes as ready after about a week and which should be kept in its liquid in the fridge once opened. No agency publishes cold-storage times for either, so none are given here."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "農業部食農教育資訊整合平臺 – 長年百歲菜：芥菜",
+        "url": "https://fae.moa.gov.tw/theme_data.php?theme=topics&sub_theme=knowledge&id=41"
+      },
+      {
+        "name": "National Center for Home Food Preservation (UGA) – General Information on Fermenting",
+        "url": "https://nchfp.uga.edu/how/ferment/general-information-on-fermenting/general-information-on-fermenting/"
+      }
+    ],
+    "analog": "mushrooms-dried",
+    "notes": "Numbers borrowed from the USDA FoodKeeper entry 'mushrooms, dried' (1–2 years in the pantry, 3 months after opening), which is the closest dried, aroma-driven plant product in the dataset. No agency publishes a storage time for 梅干菜. Everything about how the four Hakka mustard products differ — 酸菜 fermented about a week in salt, 福菜 rinsed, part-dried and jarred for 2 to 3 months, 梅干菜 dried to nothing and balled, 榨菜 the pressed stem — comes from Taiwan's 農業部, including its statement that complete dryness is what gives 梅干菜 the longer shelf life. NCHFP is cited for the general rule on salt and fermentation."
+  }
+]

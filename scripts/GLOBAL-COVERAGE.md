@@ -64,7 +64,7 @@ rice cooked, congee, onigiri, sushi rice cooked, sushi/sashimi prepared,
 pork floss (肉鬆), tapioca pearls cooked and dry, jelly/grass jelly (仙草),
 soy milk fresh and shelf-stable, douhua (豆花), tofu pudding
 
-## Batch E — Asian sauces, pastes and pickles
+## Batch E — Asian sauces, pastes and pickles  ✅ DONE → src/data/base/extra/e-asian-sauces.json (37 items)
 
 doubanjiang (豆瓣醬), shacha sauce (沙茶醬), sweet bean sauce (甜麵醬), XO sauce,
 chili oil, chili crisp, gochujang, gochugaru, ssamjang, doenjang, mirin,
