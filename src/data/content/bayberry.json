@@ -1,0 +1,107 @@
+{
+  "slug": "bayberry",
+  "en": {
+    "name": "Chinese bayberry",
+    "aliases": ["yangmei", "yumberry", "red bayberry", "Chinese strawberry tree fruit"],
+    "summary": "Chinese bayberry, or yangmei, is a dark red early-summer fruit covered in soft juice-filled bristles, and it is notoriously short-lived — a day at room temperature is enough to ruin it. No agency publishes a keeping time for it, so treat it as you would soft berries: about 3 to 5 days in the fridge and up to a year frozen.",
+    "pantry": "Room temperature is a countdown, not storage. Within a day the surface bristles collapse and the fruit starts weeping juice, and in warm weather it ferments almost immediately. Buy it in the morning, keep it out of the sun, and get it into the fridge the moment you are home. Do not wash it before storing — surface water accelerates the collapse.",
+    "fridge": "A reasonable working limit is 3 to 5 days at 4 °C (40 °F) or below, borrowed from the way soft berries are handled rather than from any published figure for yangmei. Spread the fruit in a single layer in a vented punnet; piled deep, the weight bruises everything underneath and one crushed fruit wets the rest. Rinse in cold water and briefly soak in lightly salted water only just before eating.",
+    "freezer": "Frozen bayberry keeps well, and 6 to 12 months at −18 °C (0 °F) is a sound planning range, again taken from general soft-fruit practice. Freeze on a tray in a single layer, then bag it, so the fruit does not fuse. Frozen yangmei is traditionally eaten half-thawed as a slushy snack or steeped in baijiu or rice wine.",
+    "thawing": "Do not fully thaw it — the fruit turns to pulp. Eat it half-thawed straight from the freezer, or drop it frozen into syrup, wine or a blender.",
+    "spoilage": [
+      "Bristles flattened and the fruit sitting in its own juice",
+      "Winey, fermented or sour smell",
+      "White or grey mould, which spreads through a punnet in hours",
+      "Dull brown patches instead of glossy dark red"
+    ],
+    "tips": [
+      "Buy fruit that is deep red and dry, not sitting in a wet, stained punnet",
+      "Refrigerate immediately; every hour at room temperature costs a day of shelf life",
+      "Freeze or steep the surplus the same day rather than hoping it will keep",
+      "Soak briefly in lightly salted water before eating to clean the bristles"
+    ],
+    "faq": [
+      {"q": "How long does yangmei last in the fridge?", "a": "Treat it like soft berries: roughly 3 to 5 days at 4 °C (40 °F) or below, in a single layer. No agency publishes a specific figure."},
+      {"q": "Can you freeze Chinese bayberry?", "a": "Yes, and it is the usual way to keep a glut. Tray-freeze then bag, and reckon on 6 to 12 months for good quality."},
+      {"q": "Should you wash bayberry before storing it?", "a": "No. Wash it just before eating; surface water makes the fruit collapse and mould far faster."}
+    ]
+  },
+  "zh": {
+    "name": "楊梅",
+    "aliases": ["楊梅果", "樹莓楊梅", "紅楊梅", "yumberry"],
+    "summary": "楊梅是初夏的深紅色水果，表面布滿飽含果汁的小肉刺，出了名的不耐放，室溫放一天就毀了。目前沒有官方單位公布楊梅的保存期限，所以用一般軟質莓果的標準來看：冷藏約 3 到 5 天，冷凍可放將近一年。",
+    "pantry": "室溫對楊梅來說是倒數計時，不是保存。一天之內表面肉刺就會塌陷、開始滲汁，天氣熱的話幾乎立刻發酵。早上買、避開日曬、到家立刻進冰箱。保存前不要洗，表面沾水只會讓它壞得更快。",
+    "fridge": "以 4°C 以下 3 到 5 天當作合理的使用上限；這是借用軟質莓果的處理方式，不是針對楊梅公布的數字。用透氣的淺盒單層鋪開，堆疊太深，底下整層會被壓爛，一顆破了就把旁邊都弄濕。要吃之前才用冷水沖洗、泡一下淡鹽水。",
+    "freezer": "楊梅很適合冷凍，−18°C 下以 6 到 12 個月當作規劃範圍很合理，同樣是取自軟質水果的一般做法。先在托盤上單層冷凍再裝袋，果實才不會黏成一塊。冷凍楊梅傳統上是半解凍當冰沙吃，或拿來泡白酒、米酒。",
+    "thawing": "不要完全解凍，那會整顆化成泥。從冷凍庫拿出來半解凍直接吃，或冷凍狀態直接下糖水、酒或調理機。",
+    "spoilage": [
+      "肉刺塌平，果實泡在自己流出來的汁裡",
+      "有酒味、發酵味或酸味",
+      "長白色或灰色黴，幾小時內就會傳遍整盒",
+      "原本亮澤的深紅出現暗褐斑"
+    ],
+    "tips": [
+      "挑深紅、乾爽的，不要挑盒底已經濕紅一片的",
+      "立刻冷藏，室溫每多放一小時就少一天壽命",
+      "吃不完的當天就冷凍或泡酒，不要指望放著",
+      "吃之前泡一下淡鹽水，把肉刺縫清乾淨"
+    ],
+    "faq": [
+      {"q": "楊梅放冰箱可以放多久？", "a": "用軟質莓果的標準看，4°C 以下單層鋪放約 3 到 5 天。沒有官方針對楊梅公布的數字。"},
+      {"q": "楊梅可以冷凍嗎？", "a": "可以，而且盛產時本來就是這樣處理。托盤冷凍後裝袋，品質良好約 6 到 12 個月。"},
+      {"q": "楊梅保存前要洗嗎？", "a": "不要。要吃之前再洗，先沾水會讓果實塌得更快、也更容易發黴。"}
+    ]
+  },
+  "ja": {
+    "name": "ヤマモモ",
+    "aliases": ["山桃", "楊梅", "ヤンメイ", "yumberry"],
+    "summary": "ヤマモモ（楊梅）は初夏の濃い赤色の果実で、果汁を含んだ細かい粒々に覆われ、日持ちの悪さで知られます。常温では1日で駄目になります。公的機関が保存期間を示していないため、やわらかいベリー類の目安として、冷蔵で3〜5日、冷凍で1年近くと考えます。",
+    "pantry": "常温は保存ではなくカウントダウンです。1日で表面の粒がつぶれて果汁がにじみ始め、暑い時期はほぼ即座に発酵します。午前中に買い、日光を避け、帰宅したらすぐ冷蔵庫へ。保存前に洗わないでください。表面の水分は劣化を早めます。",
+    "fridge": "4℃以下で3〜5日を無理のない目安とします。これはやわらかいベリーの扱いを当てはめたもので、ヤマモモ固有の公表値ではありません。通気のある浅い容器に一段で広げてください。深く積むと下の実がつぶれ、つぶれた一粒が周りを濡らします。洗うのは食べる直前、冷水でさっと、薄い塩水に少し浸すのがおすすめです。",
+    "freezer": "冷凍向きで、−18℃で6〜12か月を目安にするのが妥当です（これも軟質果実一般の慣行）。トレーで一段に凍らせてから袋へ移すと固まりません。冷凍ヤマモモは半解凍のシャーベット状で食べたり、焼酎や米酒に漬けたりします。",
+    "thawing": "完全解凍は避けてください。どろどろになります。半解凍のまま食べるか、凍ったままシロップ、酒、ミキサーへ。",
+    "spoilage": [
+      "表面の粒がつぶれ、果汁の中に浸っている",
+      "ワインのような発酵臭や酸臭",
+      "白や灰色のカビ（数時間で容器全体に広がる）",
+      "つやのある濃赤ではなく、くすんだ茶色の斑"
+    ],
+    "tips": [
+      "濃赤で乾いたものを選び、容器の底が濡れて染まったものは避ける",
+      "すぐ冷蔵。常温1時間で日持ちが1日縮むと考える",
+      "食べきれない分はその日のうちに冷凍か果実酒に",
+      "食べる前に薄い塩水に浸して粒の間を洗う"
+    ],
+    "faq": [
+      {"q": "ヤマモモは冷蔵庫でどのくらい持ちますか？", "a": "やわらかいベリーの目安として、4℃以下で一段に並べて3〜5日ほどです。固有の公表値はありません。"},
+      {"q": "ヤマモモは冷凍できますか？", "a": "できます。豊作時の定番の方法で、トレー冷凍後に袋へ。品質のよい期間は6〜12か月です。"},
+      {"q": "保存前に洗ったほうがいいですか？", "a": "いいえ。洗うのは食べる直前に。水分が付くとつぶれやすく、カビも早く出ます。"}
+    ]
+  },
+  "es": {
+    "name": "Mirto chino",
+    "aliases": ["yangmei", "yumberry", "bayberry chino", "fresa china"],
+    "summary": "El mirto chino, o yangmei, es una fruta roja oscura de principios de verano cubierta de papilas blandas llenas de jugo, y es célebre por durar poquísimo: un día a temperatura ambiente basta para arruinarla. Ningún organismo publica un plazo, así que trátala como una baya blanda: unos 3 a 5 días en la nevera y hasta un año congelada.",
+    "pantry": "La temperatura ambiente es una cuenta atrás, no un almacenamiento. En un día las papilas se aplastan y la fruta empieza a soltar jugo; con calor fermenta casi de inmediato. Cómprala por la mañana, mantenla fuera del sol y métela en la nevera al llegar a casa. No la laves antes de guardarla: el agua superficial acelera el desplome.",
+    "fridge": "Un límite de trabajo razonable son 3 a 5 días a 4 °C (40 °F) o menos, tomado del manejo de las bayas blandas y no de una cifra publicada para el yangmei. Extiéndela en una sola capa en una tarrina ventilada; apilada, el peso magulla lo de abajo y una fruta reventada moja el resto. Enjuágala en agua fría y dale un baño breve en agua ligeramente salada justo antes de comer.",
+    "freezer": "Congelado aguanta bien, y de 6 a 12 meses a −18 °C (0 °F) es un rango sensato, también tomado de la práctica general con fruta blanda. Congélala en bandeja en una capa y luego embólsala para que no se suelde. Tradicionalmente se come medio descongelada, como granizado, o macerada en licor de arroz.",
+    "thawing": "No la descongeles del todo: se convierte en pulpa. Cómela medio descongelada recién sacada del congelador, o échala congelada al almíbar, al vino o a la batidora.",
+    "spoilage": [
+      "Papilas aplastadas y fruta sumergida en su propio jugo",
+      "Olor avinado, fermentado o agrio",
+      "Moho blanco o gris, que recorre la tarrina en horas",
+      "Manchas pardas mates en lugar de rojo oscuro brillante"
+    ],
+    "tips": [
+      "Elige fruta roja intensa y seca, no una tarrina mojada y manchada",
+      "Refrigérala de inmediato: cada hora templada cuesta un día de vida útil",
+      "Congela o macera el excedente el mismo día",
+      "Un baño breve en agua ligeramente salada limpia entre las papilas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el yangmei en la nevera?", "a": "Como una baya blanda: unos 3 a 5 días a 4 °C (40 °F) o menos, en una sola capa. No hay una cifra oficial específica."},
+      {"q": "¿Se puede congelar el mirto chino?", "a": "Sí, y es lo habitual con una cosecha abundante. Congela en bandeja y embolsa: de 6 a 12 meses de buena calidad."},
+      {"q": "¿Hay que lavarlo antes de guardarlo?", "a": "No. Lávalo justo antes de comer; el agua superficial lo hace colapsar y enmohecer mucho antes."}
+    ]
+  }
+}

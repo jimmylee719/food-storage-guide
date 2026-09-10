@@ -33,6 +33,11 @@ for (const f of contentFiles) {
   if (j && j.slug) content.set(j.slug, j);
 }
 
+// Localised display names for foods that have no content file yet. Without
+// these a Chinese, Japanese or Spanish reader sees an English name in the
+// category tables and in search. See scripts/extract-names.js.
+const displayNames = readJson(D('names.json'), {});
+
 const guidesDir = D('guides');
 const guideFiles = fs.existsSync(guidesDir) ? fs.readdirSync(guidesDir).filter((f) => f.endsWith('.json')) : [];
 const guides = guideFiles.map((f) => readJson(path.join(guidesDir, f), null)).filter(Boolean);
@@ -44,7 +49,9 @@ for (const item of all) {
   const names = {};
   const aliases = {};
   for (const L of LOCALES) {
-    names[L] = c && c[L] && c[L].name ? c[L].name : item.name + (item.subtitle ? ` (${item.subtitle})` : '');
+    const override = displayNames[item.slug] && displayNames[item.slug][L];
+    names[L] = (c && c[L] && c[L].name) || override
+      || item.name + (item.subtitle ? ` (${item.subtitle})` : '');
     aliases[L] = c && c[L] && Array.isArray(c[L].aliases) ? c[L].aliases : [];
   }
   foods.push({
@@ -101,6 +108,9 @@ for (const L of LOCALES) fs.writeFileSync(path.join(pub, `${L}.json`), JSON.stri
 const withPage = foods.filter((f) => f.hasPage).length;
 const byCat = {};
 foods.forEach((f) => { byCat[f.category] = (byCat[f.category] || 0) + 1; });
+const localised = {};
+for (const L of LOCALES) localised[L] = foods.filter((f) => f.names[L] !== f.names.en).length;
+console.log(`localised names: ${JSON.stringify(localised)}`);
 console.log(`foods: ${foods.length} (${withPage} with full content, ${foods.length - withPage} listing-only)`);
 console.log(`guides: ${guideList.length}`);
 console.log(byCat);

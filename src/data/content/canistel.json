@@ -1,0 +1,107 @@
+{
+  "slug": "canistel",
+  "en": {
+    "name": "Canistel",
+    "aliases": ["egg fruit", "yellow sapote", "zapote amarillo", "huevo vegetal"],
+    "summary": "Canistel, or egg fruit, is a deep-orange tropical fruit whose dense, dry flesh has the texture of a hard-boiled yolk. No agency publishes storage figures for it, so treat it like other sapotes: 3 to 10 days ripening at room temperature, about 3 to 5 days in the fridge once soft, and roughly 3 to 6 months for frozen flesh.",
+    "pantry": "Ripen canistel at room temperature until the skin is deep orange and the fruit gives all over — anywhere from 3 to 10 days depending on how green it was picked. Unripe canistel is chalky and astringent and there is no shortcut, so leave it alone somewhere cool and out of the sun and check it daily. A paper bag with a banana speeds it up if you are impatient.",
+    "fridge": "Refrigerate only once the fruit is soft, and reckon on about 3 to 5 days as a working limit borrowed from other sapotes rather than a published figure. The flesh is dry and dense to begin with and cold air dries it further, so wrap the fruit or keep the scooped flesh in a covered tub at 4 °C (40 °F) or below. Do not chill hard fruit: cold stalls the ripening and you end up with an astringent, permanently firm fruit.",
+    "freezer": "Mashed flesh freezes reasonably well; about 3 to 6 months at −18 °C (0 °F) is a sensible working range rather than an official figure. Scoop the flesh from the skin, remove the large glossy seeds, mash it smooth and pack it flat in bags with the air pressed out. It is best used afterwards in custards, ice cream, milkshakes and quick breads, where its yolk-like texture is an advantage.",
+    "thawing": "Thaw the mashed flesh overnight in the fridge and use it the same day, or beat it into a batter straight from frozen. Do not thaw on the counter.",
+    "spoilage": [
+      "Fermented or alcoholic smell rather than a mild sweet one",
+      "Flesh gone grey, watery or sour-tasting",
+      "Skin split with juice weeping out",
+      "Mould at the stem end or in the skin cracks"
+    ],
+    "tips": [
+      "Buy it firm and let it ripen at home — the shops sell it unripe",
+      "Never refrigerate hard fruit; cold stops it ripening for good",
+      "Mash the flesh with a little lime juice to lift the flavour before freezing",
+      "Use it like cooked pumpkin or egg yolk: custards, cakes, shakes"
+    ],
+    "faq": [
+      {"q": "How do you know when canistel is ripe?", "a": "The skin turns deep orange and the fruit gives all over to gentle pressure. Firm fruit is chalky and astringent."},
+      {"q": "How long does canistel last in the fridge?", "a": "About 3 to 5 days once soft. There is no published figure; this follows the handling of other sapotes."},
+      {"q": "Can you freeze canistel?", "a": "Yes, as mashed deseeded flesh, for roughly 3 to 6 months. It is best used in baking, custards and shakes afterwards."}
+    ]
+  },
+  "zh": {
+    "name": "蛋黃果",
+    "aliases": ["仙桃", "獅頭果", "雞蛋果（蛋黃果）", "canistel"],
+    "summary": "蛋黃果是深橙色的熱帶水果，果肉緻密乾爽，口感就像水煮蛋的蛋黃。沒有官方單位公布它的保存數據，所以用其他 sapote 類水果的標準來看：室溫催熟 3 到 10 天，軟了之後冷藏約 3 到 5 天，果肉冷凍大約 3 到 6 個月。",
+    "pantry": "把蛋黃果放在室溫催熟，直到果皮轉為深橙、整顆按下去都會凹為止，依採收時的青熟程度大約 3 到 10 天。沒熟的蛋黃果又澀又粉，沒有捷徑，就是放在陰涼避光處每天檢查。真的等不及，可以用紙袋和一根香蕉一起悶著加速。",
+    "fridge": "軟了才冷藏，以約 3 到 5 天為使用上限——這是借用其他 sapote 類水果的做法，不是公布的數字。它的果肉本來就乾而密，冷空氣會讓它更乾，所以整顆要包起來，或把挖出來的果肉裝盒蓋好放 4°C 以下。硬果不要冰：低溫會讓它停止後熟，最後就是一顆永遠硬澀的果實。",
+    "freezer": "壓成泥的果肉冷凍效果還不錯，−18°C 下 3 到 6 個月是合理的使用範圍，不是官方數字。挖出果肉、去掉大顆光亮的種子、壓成細泥，平鋪裝袋擠出空氣。之後最適合用在卡士達、冰淇淋、奶昔和快速麵包上，它蛋黃般的質地反而是優點。",
+    "thawing": "果肉泥放冷藏隔夜解凍並當天用完，或冷凍狀態直接打進麵糊裡。不要放室溫解凍。",
+    "spoilage": [
+      "聞起來發酵或有酒味，而不是溫和的甜香",
+      "果肉發灰、變水水的，或嚐起來發酸",
+      "果皮裂開並滲汁",
+      "蒂頭或果皮裂縫處長黴"
+    ],
+    "tips": [
+      "買硬的回家自己催熟，店裡本來就是賣未熟果",
+      "硬果絕對不要冰，低溫會讓它永遠熟不了",
+      "冷凍前拌一點萊姆汁，風味會更明亮",
+      "把它當熟南瓜或蛋黃用：卡士達、蛋糕、奶昔"
+    ],
+    "faq": [
+      {"q": "蛋黃果要怎麼看熟了沒？", "a": "果皮轉深橙、整顆輕壓會凹就是熟了。還硬的時候口感粉粉的而且會澀。"},
+      {"q": "蛋黃果放冰箱可以放多久？", "a": "軟了之後約 3 到 5 天。沒有公布的數字，這是比照其他 sapote 類水果的做法。"},
+      {"q": "蛋黃果可以冷凍嗎？", "a": "可以，去籽壓成泥冷凍，大約 3 到 6 個月，之後最適合拿來烘焙、做卡士達或奶昔。"}
+    ]
+  },
+  "ja": {
+    "name": "カニステル",
+    "aliases": ["エッグフルーツ", "卵果", "黄色サポテ", "canistel"],
+    "summary": "カニステル（エッグフルーツ）は濃いオレンジ色の熱帯果実で、密度が高く水分の少ない果肉はゆで卵の黄身のような食感です。公的な保存データがないため、ほかのサポテ類に倣います。常温での追熟に3〜10日、柔らかくなってから冷蔵で3〜5日、果肉の冷凍でおよそ3〜6か月です。",
+    "pantry": "皮が濃いオレンジ色になり、全体が押してへこむまで常温で追熟させます。収穫時の青さ次第で3〜10日かかります。未熟なものは粉っぽく渋く、近道はありません。涼しく日の当たらない場所に置き、毎日確認してください。急ぐならバナナと一緒に紙袋に入れると早まります。",
+    "fridge": "柔らかくなってから冷蔵し、3〜5日を目安にします。これは公表値ではなく、ほかのサポテ類の扱いに倣った数字です。果肉はもともと乾いて密なので冷気でさらに乾きます。まるごとなら包み、すくった果肉はふたつき容器に入れて4℃以下で保存してください。硬いうちは冷やさないこと。低温で追熟が止まり、渋くて硬いままになります。",
+    "freezer": "つぶした果肉なら冷凍もそれなりに使えます。−18℃で3〜6か月は公的な数字ではなく妥当な目安です。果肉をすくって大きな光沢のある種を除き、なめらかにつぶして袋に平らに入れ空気を抜きます。カスタード、アイス、シェイク、クイックブレッドなど、黄身のような質感が生きる用途に向きます。",
+    "thawing": "つぶした果肉は冷蔵庫で一晩解凍してその日のうちに使うか、凍ったまま生地に混ぜます。常温解凍は避けてください。",
+    "spoilage": [
+      "穏やかな甘い香りではなく発酵臭・アルコール臭",
+      "果肉が灰色っぽい、水っぽい、酸っぱい",
+      "皮が裂けて果汁がにじんでいる",
+      "ヘタや皮の割れ目のカビ"
+    ],
+    "tips": [
+      "硬いものを買って家で追熟させる（店頭では未熟で売られます）",
+      "硬いうちは絶対に冷蔵しない（追熟が止まります）",
+      "冷凍前にライム果汁を少し混ぜると風味が締まる",
+      "ゆでかぼちゃや卵黄のように使う（カスタード、ケーキ、シェイク）"
+    ],
+    "faq": [
+      {"q": "カニステルの食べごろは？", "a": "皮が濃いオレンジ色になり、全体が軽い力でへこむときです。硬いうちは粉っぽく渋みがあります。"},
+      {"q": "カニステルは冷蔵庫でどのくらい持ちますか？", "a": "柔らかくなってから3〜5日が目安です。公表値はなく、ほかのサポテ類に倣っています。"},
+      {"q": "カニステルは冷凍できますか？", "a": "種を除いてつぶした果肉を3〜6か月ほど。焼き菓子やカスタード、シェイク向きです。"}
+    ]
+  },
+  "es": {
+    "name": "Canistel",
+    "aliases": ["zapote amarillo", "huevo vegetal", "fruta de huevo", "mamey de Campeche"],
+    "summary": "El canistel, o fruta de huevo, es una fruta tropical anaranjada cuya pulpa densa y seca tiene la textura de una yema cocida. Ningún organismo publica cifras para él, así que se trata como los demás zapotes: 3 a 10 días de maduración a temperatura ambiente, unos 3 a 5 días en la nevera ya blando y unos 3 a 6 meses de pulpa congelada.",
+    "pantry": "Madura el canistel a temperatura ambiente hasta que la piel sea naranja intenso y la fruta ceda por completo, entre 3 y 10 días según lo verde que se recogiera. Sin madurar es harinoso y astringente, y no hay atajos: déjalo en un sitio fresco y sin sol y revísalo a diario. Una bolsa de papel con un plátano acelera el proceso si tienes prisa.",
+    "fridge": "Refrigéralo solo cuando esté blando, contando con unos 3 a 5 días como límite tomado de otros zapotes, no de una cifra publicada. La pulpa ya es seca y densa de por sí y el aire frío la reseca más, así que envuelve la fruta o guarda la pulpa en un recipiente tapado a 4 °C (40 °F) o menos. No enfríes fruta dura: el frío detiene la maduración y te quedas con una fruta astringente para siempre.",
+    "freezer": "La pulpa aplastada se congela razonablemente bien; unos 3 a 6 meses a −18 °C (0 °F) es un rango sensato, no una cifra oficial. Saca la pulpa, retira las semillas grandes y brillantes, tritúrala y envásala plana sin aire. Después va muy bien en natillas, helados, batidos y bizcochos rápidos, donde su textura de yema es una ventaja.",
+    "thawing": "Descongela la pulpa toda la noche en la nevera y úsala el mismo día, o incorpórala congelada a una masa. No la descongeles en la encimera.",
+    "spoilage": [
+      "Olor fermentado o alcohólico en lugar de dulce y suave",
+      "Pulpa grisácea, acuosa o de sabor agrio",
+      "Piel agrietada que rezuma jugo",
+      "Moho en el pedúnculo o en las grietas de la piel"
+    ],
+    "tips": [
+      "Cómpralo firme y madúralo en casa: las tiendas lo venden verde",
+      "Nunca refrigeres fruta dura: el frío corta la maduración",
+      "Tritura la pulpa con un poco de lima antes de congelarla",
+      "Úsalo como calabaza cocida o yema: natillas, bizcochos, batidos"
+    ],
+    "faq": [
+      {"q": "¿Cómo se sabe si el canistel está maduro?", "a": "La piel se vuelve naranja intenso y la fruta cede a la presión suave. Firme resulta harinosa y astringente."},
+      {"q": "¿Cuánto dura el canistel en la nevera?", "a": "Unos 3 a 5 días ya blando. No hay cifra publicada; sigue el manejo de los demás zapotes."},
+      {"q": "¿Se puede congelar el canistel?", "a": "Sí, como pulpa sin semillas y triturada, unos 3 a 6 meses. Después va mejor en repostería, natillas y batidos."}
+    ]
+  }
+}

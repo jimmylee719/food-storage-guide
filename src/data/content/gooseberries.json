@@ -1,0 +1,107 @@
+{
+  "slug": "gooseberries",
+  "en": {
+    "name": "Gooseberries",
+    "aliases": ["European gooseberry", "goosegogs", "grosella espinosa", "Ribes uva-crispa"],
+    "summary": "Gooseberries are tart, translucent berries with a tough skin that makes them sturdier than most soft fruit. Refrigerated they keep about 7 days from purchase, and they freeze for a full 12 months.",
+    "pantry": "Gooseberries are best refrigerated rather than left out. At room temperature they soften and start to split within a day or two, and any berry that has burst will mould and spread to the rest. If you are eating them the same day a bowl is fine, but otherwise put them in the fridge as soon as you get home.",
+    "fridge": "Store them unwashed at 4 °C (40 °F) or below and use them within about 7 days of purchase — their tough skin gives them noticeably longer than raspberries or blackberries. Keep them in a shallow, vented container and go through them once when you get home, discarding any split or soft berries. Leave the tops and tails on until you cook: trimming opens the fruit and shortens its life sharply.",
+    "freezer": "Gooseberries freeze extremely well for 12 months at −18 °C (0 °F), and freezing is the classic way to hold a glut for pies, crumbles and jam. Wash, dry, top and tail them, freeze on a lined tray in a single layer and bag them once solid. Frozen fruit stays safe indefinitely; the year is a quality figure, and their high pectin makes them excellent for preserving straight from frozen.",
+    "thawing": "Cook them from frozen for fools, crumbles and jams. If you thaw them, do so in the fridge and expect them to be soft, since the skins split as they freeze.",
+    "spoilage": [
+      "Split, weeping berries with juice pooling in the container",
+      "Grey or white fuzzy mould on any berry",
+      "Fermented or winey smell",
+      "Shrivelled, dull fruit rather than plump and translucent"
+    ],
+    "tips": [
+      "Leave the tops and tails on until you are ready to cook",
+      "Sort through the punnet the day you buy it and remove split fruit",
+      "Freeze the surplus topped and tailed, ready to tip into a pan",
+      "Underripe green berries are for cooking; softer pink ones are sweet enough to eat raw"
+    ],
+    "faq": [
+      {"q": "How long do gooseberries last in the fridge?", "a": "About 7 days from purchase at 4 °C (40 °F) or below, unwashed and untrimmed in a vented container."},
+      {"q": "Can you freeze gooseberries?", "a": "Yes, for 12 months. Top and tail them first, tray-freeze and bag; they cook straight from frozen."},
+      {"q": "Should you top and tail gooseberries before storing?", "a": "No. Trimming opens the fruit and shortens its life. Do it just before cooking, or before freezing."}
+    ]
+  },
+  "zh": {
+    "name": "醋栗（鵝莓）",
+    "aliases": ["鵝莓", "歐洲醋栗", "刺醋栗", "gooseberry"],
+    "summary": "鵝莓是酸味明顯、果肉半透明的漿果，外皮較韌，所以比大多數軟質水果耐放。冷藏從購買日起約可放 7 天，冷凍則有完整的 12 個月。",
+    "pantry": "鵝莓最好冷藏，不要放在外面。室溫下一兩天就會軟化並開始裂開，只要有一顆破了就會發黴並傳給其他。當天要吃完的話放碗裡沒問題，否則到家就放進冰箱。",
+    "fridge": "不要洗，放 4°C 以下，從購買日起約 7 天內用完——韌韌的外皮讓它明顯比覆盆子或黑莓耐放。用淺而透氣的容器裝，回家時翻一遍，把裂開或變軟的挑掉。要煮之前才去頭尾：修剪等於把果實開了口，壽命會急遽縮短。",
+    "freezer": "鵝莓非常適合冷凍，−18°C 下可放 12 個月，而且冷凍正是盛產時留著做派、烤酥和果醬的經典做法。洗淨、擦乾、去頭尾，鋪在墊紙的托盤上單層冷凍，凍硬後裝袋。只要維持凍結就是安全的，一年是品質數字；它果膠含量高，直接用冷凍的做果醬效果很好。",
+    "thawing": "做慕斯、烤酥和果醬時直接用冷凍的下鍋。要解凍就放冷藏，並接受它會變軟，因為結凍時果皮會裂開。",
+    "spoilage": [
+      "果粒裂開滲汁，容器底部積水",
+      "任何一顆長出灰白色絨毛黴",
+      "有發酵味或酒味",
+      "果實不再飽滿透亮，變得皺縮暗沉"
+    ],
+    "tips": [
+      "要煮之前才去頭尾",
+      "買回來當天翻一遍，把裂開的挑掉",
+      "吃不完的去頭尾冷凍，之後可以直接倒進鍋裡",
+      "偏青的果實適合煮，偏粉紅較軟的則甜到可以生吃"
+    ],
+    "faq": [
+      {"q": "鵝莓放冰箱可以放多久？", "a": "從購買日起約 7 天，放 4°C 以下、不要洗、也先不要去頭尾，用透氣容器裝。"},
+      {"q": "鵝莓可以冷凍嗎？", "a": "可以，12 個月。先去頭尾，托盤冷凍後裝袋，之後可以直接冷凍下鍋煮。"},
+      {"q": "保存前要先去頭尾嗎？", "a": "不要。修剪會讓果實開口、大幅縮短壽命。要煮之前或要冷凍之前才處理。"}
+    ]
+  },
+  "ja": {
+    "name": "グーズベリー",
+    "aliases": ["セイヨウスグリ", "マルスグリ", "西洋すぐり", "gooseberry"],
+    "summary": "グーズベリーは酸味が強く半透明の果実で、皮がしっかりしているため多くの軟質果実より日持ちします。冷蔵なら購入日から約7日、冷凍ならまるまる12か月持ちます。",
+    "pantry": "グーズベリーは常温に出しておくより冷蔵が向きます。室温では1〜2日で軟らかくなり割れ始め、割れた実からカビが広がります。その日に食べきるなら器でも構いませんが、そうでなければ帰宅後すぐ冷蔵庫へ。",
+    "fridge": "洗わずに4℃以下で保存し、購入から約7日以内に使い切ります。丈夫な皮のおかげで、ラズベリーやブラックベリーよりはっきり長持ちします。浅い通気容器に入れ、帰宅時に一度見て割れた実や軟らかい実を取り除いてください。ヘタと先端は調理直前まで残しておくこと。切ると果実に傷口ができ、日持ちが一気に落ちます。",
+    "freezer": "冷凍向きで−18℃なら12か月持ち、パイやクランブル、ジャム用にまとめて保存する定番の方法です。洗って水気を拭き、ヘタと先端を取り、紙を敷いたトレーで一段に凍らせてから袋へ。凍っていれば安全性は保たれ、1年は品質の目安。ペクチンが多いので凍ったままジャムにできます。",
+    "thawing": "フールやクランブル、ジャムには凍ったまま加熱します。解凍する場合は冷蔵庫で。凍結時に皮が割れるため柔らかくなります。",
+    "spoilage": [
+      "実が割れて容器に果汁がたまっている",
+      "灰色や白の綿状のカビ",
+      "発酵臭やワインのようなにおい",
+      "ふっくら透明ではなく、しぼんでくすんでいる"
+    ],
+    "tips": [
+      "ヘタと先端は調理直前まで取らない",
+      "買った日に一度見て割れた実を取り除く",
+      "余りはヘタを取って冷凍し、そのまま鍋へ",
+      "青い実は加熱向き、ピンクで柔らかい実は生食できる甘さ"
+    ],
+    "faq": [
+      {"q": "グーズベリーは冷蔵庫でどのくらい持ちますか？", "a": "購入日から約7日です。4℃以下で洗わず、ヘタも取らずに通気容器で保存してください。"},
+      {"q": "グーズベリーは冷凍できますか？", "a": "はい、12か月です。ヘタと先端を取ってトレー冷凍し袋へ。凍ったまま調理できます。"},
+      {"q": "保存前にヘタを取るべき？", "a": "いいえ。傷口ができて日持ちが落ちます。調理直前か冷凍直前に取りましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Grosellas espinosas",
+    "aliases": ["uva espina", "grosellero espinoso", "gooseberries", "uva crispa"],
+    "summary": "Las grosellas espinosas son bayas ácidas y translúcidas con una piel resistente que las hace más duraderas que la mayoría de la fruta blanda. Refrigeradas aguantan unos 7 días desde la compra y se congelan durante 12 meses completos.",
+    "pantry": "Es mejor refrigerarlas que dejarlas fuera. A temperatura ambiente se ablandan y empiezan a rajarse en uno o dos días, y cualquier baya reventada enmohece y contagia al resto. Si las vas a comer el mismo día, un bol está bien; si no, mételas en la nevera nada más llegar.",
+    "fridge": "Guárdalas sin lavar a 4 °C (40 °F) o menos y úsalas en unos 7 días desde la compra: su piel dura les da bastante más margen que a frambuesas o moras. Ponlas en un recipiente bajo y ventilado y revísalas al llegar, descartando las rajadas o blandas. Deja el rabito y el resto de la flor hasta el momento de cocinar: recortarlas abre la fruta y acorta mucho su vida.",
+    "freezer": "Se congelan muy bien durante 12 meses a −18 °C (0 °F), y congelar es la forma clásica de guardar una cosecha para tartas, crumbles y mermelada. Lávalas, sécalas, límpialas de extremos, congélalas en una capa sobre bandeja y embólsalas ya duras. Congeladas son seguras indefinidamente; el año es calidad, y su alta pectina las hace ideales para conservas directamente congeladas.",
+    "thawing": "Cocínalas congeladas para cremas, crumbles y mermeladas. Si las descongelas, hazlo en la nevera y cuenta con fruta blanda, porque la piel se raja al congelarse.",
+    "spoilage": [
+      "Bayas rajadas que rezuman, con jugo acumulado en el recipiente",
+      "Moho gris o blanco algodonoso en cualquier baya",
+      "Olor fermentado o avinado",
+      "Fruta arrugada y mate en lugar de turgente y translúcida"
+    ],
+    "tips": [
+      "No les quites los extremos hasta el momento de cocinar",
+      "Revisa la tarrina el día de la compra y retira la fruta rajada",
+      "Congela el excedente ya limpio, listo para echar a la cazuela",
+      "Las verdes son para cocinar; las rosadas y blandas se comen crudas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las grosellas espinosas en la nevera?", "a": "Unos 7 días desde la compra a 4 °C (40 °F) o menos, sin lavar ni recortar y en recipiente ventilado."},
+      {"q": "¿Se pueden congelar?", "a": "Sí, 12 meses. Quítales los extremos, congélalas en bandeja y embólsalas; se cocinan directamente congeladas."},
+      {"q": "¿Hay que limpiarlas antes de guardarlas?", "a": "No. Recortarlas abre la fruta y acorta su vida. Hazlo justo antes de cocinar o de congelar."}
+    ]
+  }
+}

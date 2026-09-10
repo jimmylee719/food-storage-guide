@@ -1,0 +1,107 @@
+{
+  "slug": "camu-camu",
+  "en": {
+    "name": "Camu camu",
+    "aliases": ["camu-camu", "caçari", "araçá-d'água", "Myrciaria dubia"],
+    "summary": "Camu camu is a fiercely acidic Amazonian riverside berry that is picked, pulped and frozen almost immediately and rarely reaches a market fresh. No agency publishes figures for it, so treat fresh fruit like a soft berry — about 2 to 4 days in the fridge — while frozen pulp, the normal traded form, keeps 8 to 12 months.",
+    "pantry": "Camu camu does not hold at room temperature at all, which is why there is no counter timeline for it. The berry is extremely soft and extremely acidic, and in the humid heat where it grows it ferments within hours of picking. If you ever meet fresh fruit, get it cold or into a blender immediately rather than putting it in a fruit bowl.",
+    "fridge": "Reckon on about 2 to 4 days at 4 °C (40 °F) or below for fresh fruit, a working limit taken from the way soft berries are handled rather than a published camu camu figure. Keep it in a single shallow layer in a vented container and do not wash it until you use it. Thawed pulp should also be kept covered in the fridge and used within a couple of days.",
+    "freezer": "Frozen pulp is the normal form camu camu is traded and sold in, and 8 to 12 months at −18 °C (0 °F) is a sound planning range, following standard frozen-fruit practice. Keep sachets and tubs rock-hard at the back of the freezer, never in the door. Whole fruit can be tray-frozen and bagged too, though the pulp is more useful.",
+    "thawing": "Blend it straight from frozen — that is how the pulp is meant to be used. If you do thaw it, do so in the fridge, use it the same day and do not refreeze.",
+    "spoilage": [
+      "Fermented, alcoholic or yeasty smell",
+      "Pulp gone brown or dull instead of pale pink-red",
+      "Slushy or heavily ice-crystalled sachet, showing it thawed and refroze",
+      "Fresh fruit that is leaking juice or has collapsed"
+    ],
+    "tips": [
+      "Buy frozen pulp rather than expecting to find fresh fruit",
+      "Carry it home in an insulated bag so it never softens",
+      "Blend from frozen and sweeten to taste — it is intensely sour on its own",
+      "Portion the pulp before freezing so you never thaw more than you need"
+    ],
+    "faq": [
+      {"q": "Can you buy camu camu fresh?", "a": "Rarely. It is so soft and acidic that it is pulped and frozen at the riverside where it is picked, and frozen pulp is what is traded."},
+      {"q": "How long does frozen camu camu pulp keep?", "a": "About 8 to 12 months at −18 °C (0 °F) for good quality, following standard frozen-fruit practice. It stays safe longer."},
+      {"q": "How long does fresh camu camu last?", "a": "Only about 2 to 4 days in the fridge, treating it as a soft berry. It will not keep at room temperature at all."}
+    ]
+  },
+  "zh": {
+    "name": "卡姆果",
+    "aliases": ["卡姆卡姆", "亞馬遜莓", "camu camu", "卡姆莓"],
+    "summary": "卡姆果是亞馬遜河岸邊一種酸得非常猛烈的漿果，採下後幾乎立刻打漿冷凍，很少以新鮮狀態出現在市場上。沒有官方單位公布它的保存數據，所以新鮮果用軟質莓果的標準來看，冷藏約 2 到 4 天；而流通形式的冷凍果泥可以放 8 到 12 個月。",
+    "pantry": "卡姆果在室溫下根本放不住，所以這裡沒有常溫的期限。這種果實極軟又極酸，在原產地的濕熱環境裡，採下幾小時內就會發酵。萬一真的拿到新鮮果，請立刻冷藏或直接下調理機，不要放進果盤。",
+    "fridge": "新鮮果以 4°C 以下 2 到 4 天為合理上限；這是借用軟質莓果的處理方式，不是針對卡姆果公布的數字。用透氣容器單層淺放，要用之前才洗。解凍後的果泥同樣要蓋好冷藏，並在一兩天內用完。",
+    "freezer": "冷凍果泥就是卡姆果流通與販售的常規形式，−18°C 下 8 到 12 個月是合理的規劃範圍，依循一般冷凍水果的做法。小包和盒裝請放冷凍庫深處保持硬梆梆，不要放門邊。整顆果實也可以托盤冷凍後裝袋，只是果泥實用得多。",
+    "thawing": "直接用冷凍狀態下去打，本來就是這樣用的。真的要解凍就放冷藏、當天用完，不要回凍。",
+    "spoilage": [
+      "有發酵味、酒味或酵母味",
+      "果泥由淡粉紅轉褐或變得暗沉",
+      "整包呈泥漿狀或冰晶很多，表示曾經化掉又回凍",
+      "新鮮果實滲汁或已經塌掉"
+    ],
+    "tips": [
+      "直接買冷凍果泥，不要指望找到新鮮果",
+      "用保冷袋帶回家，讓它一路都不軟化",
+      "冷凍狀態直接打，並依口味加甜——它本身酸得非常兇",
+      "冷凍前先分小份，就不會一次解凍太多"
+    ],
+    "faq": [
+      {"q": "買得到新鮮的卡姆果嗎？", "a": "很難。它太軟太酸，在採收的河岸邊就打漿冷凍了，市面流通的是冷凍果泥。"},
+      {"q": "冷凍卡姆果泥可以放多久？", "a": "依一般冷凍水果的做法，−18°C 下約 8 到 12 個月品質良好，放更久仍然安全。"},
+      {"q": "新鮮卡姆果可以放多久？", "a": "用軟質莓果的標準來看，冷藏只有 2 到 4 天，而且室溫完全放不住。"}
+    ]
+  },
+  "ja": {
+    "name": "カムカム",
+    "aliases": ["カムカムフルーツ", "camu camu", "カムー", "アマゾンのベリー"],
+    "summary": "カムカムはアマゾンの川辺に育つ非常に酸っぱいベリーで、収穫後すぐに果肉化して冷凍されるため、生のまま市場に出ることはめったにありません。公的な保存データがないため、生果はやわらかいベリーの目安として冷蔵で2〜4日、流通形態である冷凍ピューレは8〜12か月と考えます。",
+    "pantry": "カムカムは常温ではまったく持たないため、常温の目安はありません。非常に軟らかく酸が強く、産地の高温多湿では収穫から数時間で発酵します。もし生果が手に入ったら、果物かごではなくすぐ冷蔵かミキサーへ。",
+    "fridge": "生果は4℃以下で2〜4日を目安にします。これはやわらかいベリーの扱いを当てはめたもので、カムカム固有の公表値ではありません。通気容器に一段で浅く並べ、使う直前まで洗わないこと。解凍したピューレも同様にふたをして冷蔵し、1〜2日で使い切ってください。",
+    "freezer": "冷凍ピューレがカムカムの標準的な流通・販売形態で、−18℃で8〜12か月が妥当な目安です（一般的な冷凍フルーツの慣行に従っています）。パックは冷凍庫の奥でカチカチのまま保管し、ドアポケットは避けます。まるごとをトレー冷凍して袋に入れることもできますが、ピューレのほうが使いやすいです。",
+    "thawing": "凍ったままミキサーへ。本来そういう使い方をするものです。解凍する場合は冷蔵庫で、その日のうちに使い、再冷凍はしないでください。",
+    "spoilage": [
+      "発酵臭、アルコール臭、酵母臭",
+      "淡いピンク赤ではなく茶色くくすんだピューレ",
+      "袋がシャーベット状、氷結晶が多い（解凍と再凍結の跡）",
+      "生果から果汁がにじむ、つぶれている"
+    ],
+    "tips": [
+      "生果を探すより冷凍ピューレを買う",
+      "保冷バッグで持ち帰り、途中で軟化させない",
+      "凍ったまま撹拌し、甘みは好みで足す（そのままでは極端に酸っぱい）",
+      "冷凍前に小分けにして、必要な分だけ解凍する"
+    ],
+    "faq": [
+      {"q": "生のカムカムは買えますか？", "a": "ほとんど無理です。軟らかく酸が強いため収穫地で果肉化・冷凍され、流通するのは冷凍ピューレです。"},
+      {"q": "冷凍カムカムピューレはどのくらい持ちますか？", "a": "冷凍フルーツ一般の目安として−18℃で8〜12か月おいしく保てます。それ以上でも安全です。"},
+      {"q": "生のカムカムはどのくらい持ちますか？", "a": "やわらかいベリーの目安で冷蔵2〜4日ほど。常温ではまったく持ちません。"}
+    ]
+  },
+  "es": {
+    "name": "Camu camu",
+    "aliases": ["camu-camu", "cacari", "guayabo del agua", "Myrciaria dubia"],
+    "summary": "El camu camu es una baya amazónica de ribera, ferozmente ácida, que se recoge, se despulpa y se congela casi de inmediato y rara vez llega fresca a un mercado. Ningún organismo publica cifras, así que la fruta fresca se trata como una baya blanda —unos 2 a 4 días en la nevera— mientras que la pulpa congelada, su forma comercial habitual, dura de 8 a 12 meses.",
+    "pantry": "El camu camu no se conserva a temperatura ambiente, y por eso no hay plazo de encimera. La baya es extremadamente blanda y ácida, y en el calor húmedo donde crece fermenta a las pocas horas de recogerse. Si alguna vez consigues fruta fresca, enfríala o bátela de inmediato en lugar de dejarla en un frutero.",
+    "fridge": "Cuenta con unos 2 a 4 días a 4 °C (40 °F) o menos para la fruta fresca, un límite tomado del manejo de las bayas blandas y no una cifra publicada. Guárdala en una capa fina en recipiente ventilado y no la laves hasta usarla. La pulpa descongelada también debe taparse y consumirse en un par de días.",
+    "freezer": "La pulpa congelada es la forma habitual en que se comercializa el camu camu, y 8 a 12 meses a −18 °C (0 °F) es un rango sensato siguiendo la práctica estándar con fruta congelada. Mantén sobres y tarrinas bien duros al fondo del congelador, nunca en la puerta. La fruta entera también puede congelarse en bandeja y embolsarse, aunque la pulpa es más útil.",
+    "thawing": "Bátela directamente congelada: así está pensada para usarse. Si la descongelas, hazlo en la nevera, úsala el mismo día y no la recongeles.",
+    "spoilage": [
+      "Olor fermentado, alcohólico o a levadura",
+      "Pulpa parda o apagada en lugar de rosa rojizo pálido",
+      "Sobre blando o con muchos cristales de hielo: se descongeló y recongeló",
+      "Fruta fresca que rezuma jugo o está deshecha"
+    ],
+    "tips": [
+      "Compra pulpa congelada en lugar de buscar fruta fresca",
+      "Llévala en bolsa isotérmica para que no se ablande por el camino",
+      "Bátela congelada y endulza al gusto: sola es intensamente ácida",
+      "Divide la pulpa en porciones antes de congelar"
+    ],
+    "faq": [
+      {"q": "¿Se puede comprar camu camu fresco?", "a": "Rara vez. Es tan blando y ácido que se despulpa y congela en la ribera donde se recoge; lo que se comercializa es pulpa congelada."},
+      {"q": "¿Cuánto dura la pulpa de camu camu congelada?", "a": "Unos 8 a 12 meses a −18 °C (0 °F) con buena calidad, según la práctica estándar con fruta congelada."},
+      {"q": "¿Cuánto dura el camu camu fresco?", "a": "Solo unos 2 a 4 días en la nevera, tratándolo como baya blanda. A temperatura ambiente no aguanta nada."}
+    ]
+  }
+}

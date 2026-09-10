@@ -1,0 +1,107 @@
+{
+  "slug": "cherries",
+  "en": {
+    "name": "Cherries",
+    "aliases": ["sweet cherries", "sour cherries", "bing cherries", "cerezas"],
+    "summary": "Cherries are a short-season stone fruit that stops improving the moment it is picked and starts losing sweetness and firmness immediately. Refrigerated they keep about 2 to 3 days from purchase, and pitted cherries freeze for 8 to 12 months.",
+    "pantry": "Cherries lose quality fast at room temperature — a warm afternoon on the counter costs you most of the fridge life they had left, and the stems yellow and the fruit softens within a day. If you are eating them the same day, a bowl is fine; otherwise refrigerate them the moment you get home. Do not leave them in a hot car, which is the single most common way a good punnet is ruined.",
+    "fridge": "Store them unwashed at 4 °C (40 °F) or below and eat them within about 2 to 3 days of purchase. Keep them in a shallow, vented container or their original bag, and leave the stems on — a stemless cherry has an open wound and softens and moulds first. Do not stack them deep, and pick out any split or soft fruit as soon as you spot it.",
+    "freezer": "Cherries freeze well for 8 to 12 months at −18 °C (0 °F). Wash, dry, pit them and freeze in a single layer on a lined tray before bagging, so they stay loose; pitting first saves a great deal of trouble later. Frozen cherries stay safe indefinitely, and they are excellent straight from the freezer in clafoutis, compotes, smoothies and sauces.",
+    "thawing": "Bake and cook them straight from frozen. If you want them thawed, do it in the fridge on a plate, catch the juice and use it — thawed cherries are soft, so they are for cooking rather than snacking.",
+    "spoilage": [
+      "Brown, soft or sunken patches on the fruit",
+      "Split skins with juice weeping out",
+      "Grey or white mould, which spreads through a punnet fast",
+      "Fermented, winey smell or a slimy, dull surface"
+    ],
+    "tips": [
+      "Buy cherries with green, flexible stems still attached",
+      "Refrigerate immediately — cherries deteriorate faster than almost any stone fruit",
+      "Wash only just before eating",
+      "Pit and freeze the surplus the day you buy it"
+    ],
+    "faq": [
+      {"q": "How long do cherries last in the fridge?", "a": "About 2 to 3 days from purchase at 4 °C (40 °F) or below, unwashed and with the stems still on."},
+      {"q": "Can you freeze cherries?", "a": "Yes, for 8 to 12 months. Pit them first and tray-freeze before bagging so they stay loose."},
+      {"q": "Should you wash cherries before storing them?", "a": "No. Wash them just before eating; surface moisture makes them split and mould much faster."}
+    ]
+  },
+  "zh": {
+    "name": "櫻桃",
+    "aliases": ["甜櫻桃", "酸櫻桃", "美國櫻桃", "車厘子"],
+    "summary": "櫻桃是產期很短的核果，一旦採下就不會再變好，甜度和脆度會立刻開始流失。冷藏從購買日起約可放 2 到 3 天，去核後冷凍則有 8 到 12 個月。",
+    "pantry": "櫻桃在室溫下品質掉得很快——在桌上放一個溫熱的下午，就會賠掉它原本剩下的大半冷藏壽命，梗會轉黃、果肉一天內就會軟。當天要吃完的話放碗裡沒問題；否則到家就立刻冷藏。千萬不要留在悶熱的車上，那是好好一盒櫻桃被毀掉最常見的原因。",
+    "fridge": "不要洗，放 4°C 以下，並在購買後約 2 到 3 天內吃完。用淺而透氣的容器或原本的袋子裝，梗留著——沒梗的櫻桃等於帶著傷口，會最先變軟發黴。不要堆太深，發現裂開或變軟的就立刻挑掉。",
+    "freezer": "櫻桃冷凍效果好，−18°C 下可放 8 到 12 個月。洗淨、擦乾、去核，先在墊紙的托盤上單層冷凍再裝袋，顆粒才會是散的；先去核可以省掉之後很多麻煩。只要維持凍結就是安全的，冷凍櫻桃直接下鍋做克拉芙緹、糖煮、果昔和醬汁都很好。",
+    "thawing": "烘焙和烹煮直接用冷凍的。想解凍就放盤子上冷藏，流出來的汁要接住並使用——解凍的櫻桃會軟，適合入菜而不是當零嘴。",
+    "spoilage": [
+      "果實出現褐色、軟塌或凹陷的斑塊",
+      "果皮裂開並滲汁",
+      "長灰白色黴，一盒裡擴散得很快",
+      "有發酵酒味，或表面黏滑無光澤"
+    ],
+    "tips": [
+      "挑梗還是綠色、有彈性的",
+      "立刻冷藏，櫻桃退化得比幾乎所有核果都快",
+      "要吃之前才洗",
+      "買回來當天就把吃不完的去核冷凍"
+    ],
+    "faq": [
+      {"q": "櫻桃放冰箱可以放多久？", "a": "從購買日起約 2 到 3 天，放 4°C 以下、不要洗、梗留著。"},
+      {"q": "櫻桃可以冷凍嗎？", "a": "可以，8 到 12 個月。先去核再托盤冷凍後裝袋，顆粒才不會黏成一塊。"},
+      {"q": "櫻桃保存前要洗嗎？", "a": "不要。要吃之前才洗，表面的水分會讓它更快裂開發黴。"}
+    ]
+  },
+  "ja": {
+    "name": "さくらんぼ",
+    "aliases": ["チェリー", "桜桃", "アメリカンチェリー", "サワーチェリー"],
+    "summary": "さくらんぼは旬の短い核果で、収穫した瞬間から品質は上がらず、甘みも歯ざわりもすぐ落ち始めます。冷蔵なら購入日から約2〜3日、種を抜けば冷凍で8〜12か月持ちます。",
+    "pantry": "さくらんぼは常温で急速に品質が落ちます。暖かい午後を台所に置いただけで、残っていた冷蔵の日持ちの大半を失い、軸は黄ばみ実は1日で軟らかくなります。その日のうちに食べるなら器で構いませんが、そうでなければ帰宅後すぐ冷蔵庫へ。暑い車内への置き忘れは、よいパックを台無しにする最大の原因です。",
+    "fridge": "洗わずに4℃以下で保存し、購入から2〜3日以内に食べきります。浅い通気容器か元の袋のまま、軸はつけたままで。軸を取った実は傷口が開いた状態で、真っ先に軟化しカビます。深く積まず、割れた実や軟らかい実は見つけ次第取り除いてください。",
+    "freezer": "冷凍向きで、−18℃なら8〜12か月持ちます。洗って水気を拭き、種を抜いて紙を敷いたトレーで一段に凍らせてから袋へ。先に種を抜いておくと後がずっと楽です。凍ったままクラフティやコンポート、スムージー、ソースに使えます。",
+    "thawing": "焼き菓子や加熱調理には凍ったまま。解凍する場合は皿にのせて冷蔵庫で、出た果汁も一緒に使います。解凍後は柔らかいので生食よりも加熱向きです。",
+    "spoilage": [
+      "実に茶色く軟らかい、へこんだ部分",
+      "皮が割れて果汁がにじんでいる",
+      "灰色や白のカビ（容器内で急速に広がる）",
+      "発酵したワインのようなにおい、表面のぬめり"
+    ],
+    "tips": [
+      "軸が緑でしなやかなものを選ぶ",
+      "すぐ冷蔵する（核果の中でも劣化が特に速い）",
+      "洗うのは食べる直前に",
+      "買った日に食べきれない分は種を抜いて冷凍"
+    ],
+    "faq": [
+      {"q": "さくらんぼは冷蔵庫でどのくらい持ちますか？", "a": "購入日から約2〜3日です。4℃以下で洗わず、軸をつけたまま保存してください。"},
+      {"q": "さくらんぼは冷凍できますか？", "a": "はい、8〜12か月です。先に種を抜き、トレーで凍らせてから袋に移します。"},
+      {"q": "保存前に洗ったほうがいいですか？", "a": "いいえ。表面の水分で割れやカビが早まります。食べる直前に洗いましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Cerezas",
+    "aliases": ["cereza picota", "guindas", "cerezas dulces", "cerezas ácidas"],
+    "summary": "Las cerezas son una fruta de hueso de temporada corta que deja de mejorar en cuanto se recoge y empieza a perder dulzor y firmeza de inmediato. Refrigeradas duran unos 2 a 3 días desde la compra, y deshuesadas se congelan de 8 a 12 meses.",
+    "pantry": "Las cerezas pierden calidad rápido a temperatura ambiente: una tarde templada en la encimera se lleva casi toda la vida de nevera que les quedaba, los rabos amarillean y la fruta se ablanda en un día. Si te las vas a comer el mismo día, un bol está bien; si no, refrigéralas nada más llegar. No las dejes en un coche caliente: es la forma más común de arruinar una buena tarrina.",
+    "fridge": "Guárdalas sin lavar a 4 °C (40 °F) o menos y cómelas en unos 2 a 3 días desde la compra. Usa un recipiente bajo y ventilado o su bolsa original, y deja los rabos puestos: una cereza sin rabo tiene una herida abierta y es la primera en ablandarse y enmohecer. No las apiles y retira cualquier fruta agrietada o blanda en cuanto la veas.",
+    "freezer": "Las cerezas se congelan bien de 8 a 12 meses a −18 °C (0 °F). Lávalas, sécalas, deshuésalas y congélalas en una capa sobre bandeja antes de embolsarlas para que queden sueltas; deshuesar antes ahorra muchísimo trabajo después. Congeladas son seguras indefinidamente y van perfectas del congelador a un clafoutis, una compota, un batido o una salsa.",
+    "thawing": "Hornéalas y cocínalas directamente congeladas. Si las quieres descongeladas, hazlo en la nevera sobre un plato y aprovecha el jugo: quedan blandas, así que son para cocinar más que para picar.",
+    "spoilage": [
+      "Manchas pardas, blandas o hundidas en la fruta",
+      "Piel agrietada que rezuma jugo",
+      "Moho gris o blanco, que se extiende rápido por la tarrina",
+      "Olor fermentado y avinado o superficie viscosa y mate"
+    ],
+    "tips": [
+      "Compra cerezas con el rabo verde y flexible",
+      "Refrigéralas de inmediato: se deterioran más rápido que casi ninguna fruta de hueso",
+      "Lávalas justo antes de comerlas",
+      "Deshuesa y congela el excedente el mismo día de la compra"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las cerezas en la nevera?", "a": "Unos 2 a 3 días desde la compra a 4 °C (40 °F) o menos, sin lavar y con el rabo puesto."},
+      {"q": "¿Se pueden congelar las cerezas?", "a": "Sí, de 8 a 12 meses. Deshuésalas primero y congélalas en bandeja antes de embolsarlas."},
+      {"q": "¿Hay que lavarlas antes de guardarlas?", "a": "No. Lávalas justo antes de comerlas; la humedad superficial las agrieta y enmohece mucho antes."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "acai-pulp",
+  "en": {
+    "name": "Açaí pulp",
+    "aliases": ["acai pulp", "frozen açaí", "açaí sachets", "unsweetened acai puree"],
+    "summary": "Açaí is an Amazonian palm fruit that is almost never sold fresh outside its home region; what reaches the rest of the world is frozen, unsweetened pulp in sachets or tubs. No authority publishes an açaí-specific timeline, so treat it as you would any frozen fruit: about 8 to 12 months in the freezer for best quality, and 1 to 2 days in the fridge once thawed.",
+    "pantry": "Açaí pulp has no shelf life at room temperature. The fresh berry ferments within about a day of picking, which is exactly why it is pulped and frozen at source, and a thawing sachet left on the counter is simply a perishable purée sitting in the danger zone between 4 and 60 °C (40 and 140 °F). Move sachets from the shop to your freezer without letting them soften, and never leave one out for more than 2 hours — 1 hour above 32 °C (90 °F).",
+    "fridge": "Once a sachet is opened or thawed, keep it covered at 4 °C (40 °F) or below and use it within 1 to 2 days. Thawed pulp oxidises fast — the deep purple dulls to grey-brown and the flavour flattens — so it is really meant to be blended straight away. Do not refreeze pulp that has thawed.",
+    "freezer": "A reasonable working limit for unopened frozen pulp is 8 to 12 months at −18 °C (0 °F), the standard range for frozen fruit rather than a published açaí figure. Kept solidly frozen it stays safe indefinitely; the timeline is about colour and flavour. Store the sachets flat at the back of the freezer, never in the door, where every opening lets them soften and refreeze.",
+    "thawing": "Most people never fully thaw it: break the frozen sachet into chunks and blend it straight from the freezer, which is how a thick açaí bowl is made. If you want it soft, thaw it in the fridge for a few hours, not on the counter, and use it the same day.",
+    "spoilage": [
+      "Grey or brownish colour instead of deep purple",
+      "Sour, winey or fermented smell on opening",
+      "Heavy ice crystals or a slushy sachet, showing it thawed and refroze",
+      "Any pulp left at room temperature for more than 2 hours"
+    ],
+    "tips": [
+      "Buy unsweetened pulp and add your own banana or honey for sweetness",
+      "Bring an insulated bag home from the shop so the sachets never soften",
+      "Blend straight from frozen for a thick bowl, not a runny smoothie",
+      "Label the box with the month you bought it and work through oldest first"
+    ],
+    "faq": [
+      {"q": "How long does frozen açaí pulp keep?", "a": "Treat it like any frozen fruit: roughly 8 to 12 months at −18 °C (0 °F) for good quality. It stays safe longer, but the colour and flavour fade."},
+      {"q": "Can you refreeze açaí pulp?", "a": "No. Once it has thawed, use it within 1 to 2 days from the fridge. Refreezing wrecks the texture and the pulp has already spent time warm."},
+      {"q": "Can you buy fresh açaí?", "a": "Almost never outside Amazonia. The berry ferments within about a day of picking, so it is pulped and frozen where it grows."}
+    ]
+  },
+  "zh": {
+    "name": "巴西莓果泥",
+    "aliases": ["阿薩伊", "açaí", "冷凍巴西莓漿", "阿薩伊果泥"],
+    "summary": "巴西莓是亞馬遜地區的棕櫚科果實，產地以外幾乎買不到新鮮的，流通的都是無糖冷凍果泥（小包裝或桶裝）。目前沒有任何權威機構公布巴西莓專屬的保存期限，所以用一般冷凍水果的標準來看：冷凍約 8 到 12 個月風味最好，解凍後冷藏 1 到 2 天內用完。",
+    "pantry": "巴西莓果泥沒有常溫保存這回事。新鮮果實採下約一天就會發酵，正因如此才會在產地直接打漿冷凍；放在流理台上慢慢化開的果泥，就只是一包停留在 4 到 60°C 危險溫度帶的易腐果泥。從店裡買回來要趁沒軟掉之前直接放冷凍，室溫放置不要超過 2 小時，氣溫高於 32°C 時不要超過 1 小時。",
+    "fridge": "拆封或解凍後請蓋好放 4°C 以下，並在 1 到 2 天內用完。解凍的果泥氧化很快，深紫色會轉成灰褐，風味也會變平淡，所以本來就是打開就要馬上打成飲品的東西。已經解凍的果泥不要再回凍。",
+    "freezer": "未開封的冷凍果泥，在 −18°C 下以 8 到 12 個月為合理的使用上限；這是冷凍水果的一般範圍，不是巴西莓的公告數字。只要全程保持凍結就是安全的，期限講的是顏色和風味。請把小包平放在冷凍庫深處，不要放門邊，門邊每開一次就軟化再凍一次。",
+    "thawing": "多數人根本不會完全解凍：把冷凍包剝成塊直接下調理機，這才打得出濃稠的巴西莓碗。想要軟一點就放冷藏室幾個小時，不要放室溫，而且當天要用完。",
+    "spoilage": [
+      "顏色不是深紫，而是發灰或轉褐",
+      "打開時聞到酸味、酒味或發酵味",
+      "冰晶很多或整包呈泥漿狀，表示曾經化掉又回凍",
+      "在室溫放超過 2 小時的果泥"
+    ],
+    "tips": [
+      "買無糖的果泥，甜度自己用香蕉或蜂蜜補",
+      "去店裡帶保冷袋，讓小包一路都不軟化",
+      "直接用冷凍狀態打，才會濃稠而不是稀稀的",
+      "在盒子上寫購買月份，先買的先用"
+    ],
+    "faq": [
+      {"q": "冷凍巴西莓果泥可以放多久？", "a": "用一般冷凍水果的標準來看，−18°C 下約 8 到 12 個月品質較佳。放更久仍然安全，但顏色和風味會流失。"},
+      {"q": "巴西莓果泥可以再冷凍嗎？", "a": "不建議。解凍後請冷藏並在 1 到 2 天內用完，重新冷凍會破壞質地，而且果泥已經回過溫。"},
+      {"q": "買得到新鮮的巴西莓嗎？", "a": "亞馬遜地區以外幾乎買不到。果實採下約一天就會發酵，所以都在產地打漿冷凍。"}
+    ]
+  },
+  "ja": {
+    "name": "アサイーピューレ",
+    "aliases": ["アサイー", "冷凍アサイー", "アサイーパルプ", "acai"],
+    "summary": "アサイーはアマゾンのヤシ科の果実で、産地以外で生のまま流通することはほぼなく、出回るのは無糖の冷凍ピューレです。アサイー専用の保存期間を示す公的な数字はないため、一般的な冷凍フルーツの目安として考えます。冷凍で品質よく8〜12か月、解凍後は冷蔵で1〜2日以内に使い切ります。",
+    "pantry": "アサイーピューレに常温保存はありません。生の果実は収穫から1日ほどで発酵するため産地で果肉化して凍結されるのであり、台所に置いて解けていくパックは4〜60℃の危険温度帯にある生のピューレそのものです。買ったら軟らかくなる前に冷凍庫へ入れ、常温放置は2時間以内、32℃を超える環境では1時間以内にとどめてください。",
+    "fridge": "開封または解凍したら4℃以下でふたをして保存し、1〜2日以内に使い切ります。解けたピューレは酸化が速く、濃い紫がくすんだ灰褐色になって風味も平板になります。もともとその場で撹拌して食べるものです。一度解けたものを冷凍し直さないでください。",
+    "freezer": "未開封の冷凍ピューレは−18℃で8〜12か月を無理のない目安と考えてください。これは冷凍フルーツ一般の範囲であって、アサイー固有の公表値ではありません。凍ったままなら安全性は保たれ、期間はあくまで色と風味の話です。パックは平らにして冷凍庫の奥に置き、開閉のたびに軟化するドアポケットは避けます。",
+    "thawing": "完全に解凍しないのが普通です。凍ったパックを割ってそのままミキサーにかけると、濃厚なアサイーボウルになります。柔らかくしたい場合は常温ではなく冷蔵庫で数時間置き、その日のうちに使い切ってください。",
+    "spoilage": [
+      "濃い紫ではなく灰色や茶色がかっている",
+      "開けたときに酸っぱい、ワインのような発酵臭がする",
+      "氷の結晶が多い、袋がシャーベット状（解凍と再凍結の跡）",
+      "常温に2時間以上置いてしまったもの"
+    ],
+    "tips": [
+      "無糖タイプを買い、甘みはバナナやはちみつで足す",
+      "保冷バッグで持ち帰り、途中で軟化させない",
+      "凍ったまま撹拌すると水っぽくならず濃厚に仕上がる",
+      "購入月を書いておき、古いものから使う"
+    ],
+    "faq": [
+      {"q": "冷凍アサイーはどのくらい持ちますか？", "a": "冷凍フルーツ一般の目安として−18℃で8〜12か月がおいしく食べられる範囲です。それ以上でも安全ですが色と風味が落ちます。"},
+      {"q": "アサイーは再冷凍できますか？", "a": "おすすめしません。解凍したら冷蔵で1〜2日以内に使い切ってください。再冷凍すると食感が崩れます。"},
+      {"q": "生のアサイーは買えますか？", "a": "アマゾン以外ではほぼ手に入りません。収穫から1日ほどで発酵するため、産地で果肉化して凍結されます。"}
+    ]
+  },
+  "es": {
+    "name": "Pulpa de açaí",
+    "aliases": ["açaí congelado", "asaí", "pulpa de acai", "açaí sin azúcar"],
+    "summary": "El açaí es el fruto de una palmera amazónica que casi nunca se vende fresco fuera de su región; lo que llega al resto del mundo es pulpa congelada sin azúcar, en sobres o tarrinas. Ningún organismo publica un plazo específico para el açaí, así que trátalo como cualquier fruta congelada: unos 8 a 12 meses en el congelador para buena calidad y 1 o 2 días en la nevera una vez descongelado.",
+    "pantry": "La pulpa de açaí no tiene vida útil a temperatura ambiente. La baya fresca fermenta en torno a un día tras la cosecha, y por eso se despulpa y congela en origen; un sobre descongelándose en la encimera es simplemente un puré perecedero dentro de la zona de peligro, entre 4 y 60 °C (40 y 140 °F). Llévalo del comercio al congelador sin que llegue a reblandecerse y nunca lo dejes fuera más de 2 horas, o 1 hora por encima de 32 °C (90 °F).",
+    "fridge": "Una vez abierto o descongelado, tápalo, mantenlo a 4 °C (40 °F) o menos y úsalo en 1 o 2 días. La pulpa descongelada se oxida deprisa: el morado intenso vira a gris pardo y el sabor se apaga, así que está pensada para batirse de inmediato. No vuelvas a congelar pulpa ya descongelada.",
+    "freezer": "Un límite de trabajo razonable para la pulpa congelada sin abrir son 8 a 12 meses a −18 °C (0 °F), el rango habitual de la fruta congelada y no una cifra publicada para el açaí. Bien congelada se mantiene segura de forma indefinida; el plazo se refiere al color y el sabor. Guarda los sobres planos al fondo del congelador, nunca en la puerta.",
+    "thawing": "Casi nadie lo descongela del todo: se parte el sobre congelado y se bate directamente, que es como sale un bol de açaí espeso. Si lo quieres blando, descongélalo unas horas en la nevera, no en la encimera, y úsalo el mismo día.",
+    "spoilage": [
+      "Color gris o parduzco en lugar de morado intenso",
+      "Olor agrio, avinagrado o fermentado al abrir",
+      "Muchos cristales de hielo o sobre blando: se descongeló y volvió a congelarse",
+      "Cualquier pulpa que haya pasado más de 2 horas a temperatura ambiente"
+    ],
+    "tips": [
+      "Compra pulpa sin azúcar y endulza tú con plátano o miel",
+      "Usa una bolsa isotérmica para que los sobres no se ablanden por el camino",
+      "Bátelo congelado para un bol espeso, no un batido líquido",
+      "Anota el mes de compra en la caja y consume primero lo más antiguo"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la pulpa de açaí congelada?", "a": "Como cualquier fruta congelada: unos 8 a 12 meses a −18 °C (0 °F) con buena calidad. Sigue siendo segura después, pero pierde color y sabor."},
+      {"q": "¿Se puede volver a congelar el açaí?", "a": "No conviene. Una vez descongelado, úsalo en 1 o 2 días desde la nevera; recongelarlo arruina la textura."},
+      {"q": "¿Se puede comprar açaí fresco?", "a": "Prácticamente nunca fuera de la Amazonía. La baya fermenta en torno a un día tras la cosecha, así que se despulpa y congela en origen."}
+    ]
+  }
+}

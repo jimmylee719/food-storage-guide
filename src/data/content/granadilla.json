@@ -1,0 +1,107 @@
+{
+  "slug": "granadilla",
+  "en": {
+    "name": "Granadilla",
+    "aliases": ["sweet granadilla", "grenadia", "Passiflora ligularis", "sweet passionfruit"],
+    "summary": "The sweet granadilla is the mild orange-shelled cousin of the passionfruit, with a hard brittle shell and grey, jelly-covered seeds that are eaten by the spoonful. No agency publishes figures for it, so treat it like passionfruit: 5 to 10 days on the counter, 2 to 4 weeks in the fridge, and 6 to 12 months for frozen pulp.",
+    "pantry": "The hard orange shell protects the pulp well, so a bowl on the counter works for about 5 to 10 days. A lightly wrinkled shell means the pulp inside has sweetened, not that the fruit has spoiled — this is the opposite of what most people assume. Keep it out of direct sun and handle it gently, because the shell is brittle and a crack lets the pulp dry out.",
+    "fridge": "Bagged in the crisper at 4 °C (40 °F) or below, granadilla holds roughly 2 to 4 weeks. The bag is what matters: the shell dehydrates and cracks on an open fridge shelf. This range follows the way passionfruit, the same genus, is handled rather than a published granadilla figure. Once you crack a fruit open, eat the pulp the same day.",
+    "freezer": "Freeze the pulp with its seeds for about 6 to 12 months at −18 °C (0 °F), a general soft-fruit range rather than an official figure. Scoop it into an ice cube tray or small tubs so you can take out one fruit's worth at a time, and press out the air. There is no point freezing whole fruit, since the shell is inedible.",
+    "thawing": "Thaw a portion in the fridge and use it the same day, or blend it from frozen into juice and desserts. Do not thaw on the counter or refreeze.",
+    "spoilage": [
+      "Shell cracked or leaking, with dried pulp inside",
+      "Fruit that feels light and rattles, meaning it has dried out",
+      "Fermented or musty smell when opened",
+      "Pulp gone brown or cloudy rather than clear grey"
+    ],
+    "tips": [
+      "Wrinkles on the shell mean sweeter pulp, not spoilage",
+      "Choose fruit that feels heavy for its size",
+      "Bag it in the fridge so the shell does not crack",
+      "Crack the shell by tapping it, then eat the pulp with a spoon"
+    ],
+    "faq": [
+      {"q": "How long does granadilla last?", "a": "About 5 to 10 days at room temperature and roughly 2 to 4 weeks bagged in the fridge. There is no official figure; this follows passionfruit."},
+      {"q": "Is a wrinkled granadilla still good?", "a": "Yes. Light wrinkling means the pulp has sweetened. Discard fruit only if it is cracked, leaking, light and hollow, or smells fermented."},
+      {"q": "Can you freeze granadilla?", "a": "Freeze the pulp with its seeds, not the whole fruit, for about 6 to 12 months. An ice cube tray works well."}
+    ]
+  },
+  "zh": {
+    "name": "甜西番蓮",
+    "aliases": ["甜百香果", "granadilla", "橙皮百香果", "香蜜果"],
+    "summary": "甜西番蓮是百香果溫和版的近親，橙色外殼堅硬易碎，裡面是灰色、裹著果凍狀漿液的種子，用湯匙挖著吃。沒有官方單位公布它的保存數據，所以用百香果的標準來看：室溫 5 到 10 天，冷藏 2 到 4 週，果肉冷凍 6 到 12 個月。",
+    "pantry": "堅硬的橙色外殼把果肉保護得很好，所以放在室溫的碗裡大約 5 到 10 天沒問題。外殼稍微皺一點代表裡面的果肉更甜了，不是壞掉——這跟大多數人的直覺剛好相反。避免日曬並且輕拿輕放，因為外殼很脆，一裂開果肉就會乾掉。",
+    "fridge": "裝袋放蔬果室、維持 4°C 以下，大約可放 2 到 4 週。袋子是重點：敞著放在冰箱層架上，外殼會脫水裂開。這個範圍是比照同屬的百香果，不是針對甜西番蓮公布的數字。一旦敲開，果肉當天就要吃完。",
+    "freezer": "果肉連籽一起冷凍，−18°C 下約 6 到 12 個月，這是軟質水果的一般範圍，不是官方數字。用製冰盒或小盒分裝，這樣每次可以取一顆的量，並擠出空氣。整顆冷凍沒有意義，因為外殼不能吃。",
+    "thawing": "取一份放冷藏解凍並當天用完，或直接冷凍狀態打成果汁和甜點。不要放室溫解凍，也不要回凍。",
+    "spoilage": [
+      "外殼裂開或滲漏，裡面的果肉已經乾掉",
+      "拿起來輕、搖起來會響，表示已經乾掉",
+      "敲開時聞到發酵味或霉味",
+      "果肉由清透的灰色轉褐或變混濁"
+    ],
+    "tips": [
+      "外殼有皺紋代表更甜，不是壞掉",
+      "挑拿起來比看起來重的",
+      "冰箱裡要裝袋，外殼才不會裂",
+      "用敲的把殼敲裂，再用湯匙挖果肉"
+    ],
+    "faq": [
+      {"q": "甜西番蓮可以放多久？", "a": "室溫約 5 到 10 天，裝袋冷藏約 2 到 4 週。沒有官方數字，這是比照百香果的做法。"},
+      {"q": "外殼皺掉的甜西番蓮還能吃嗎？", "a": "可以。輕微起皺代表果肉更甜了。只有裂開滲漏、輕飄飄空空的，或聞起來發酵才要丟。"},
+      {"q": "甜西番蓮可以冷凍嗎？", "a": "冷凍果肉連籽，不要整顆冷凍，約 6 到 12 個月，用製冰盒很方便。"}
+    ]
+  },
+  "ja": {
+    "name": "グラナディージャ",
+    "aliases": ["スイートグラナディージャ", "甘いパッションフルーツ", "granadilla", "オレンジパッション"],
+    "summary": "グラナディージャはパッションフルーツの穏やかな近縁種で、オレンジ色の硬くもろい殻の中に、ゼリーに包まれた灰色の種が入っており、スプーンですくって食べます。公的な保存データがないため、パッションフルーツの目安を使います。常温で5〜10日、冷蔵で2〜4週間、果肉の冷凍で6〜12か月です。",
+    "pantry": "硬いオレンジ色の殻が果肉をよく守るので、常温の器で5〜10日ほど大丈夫です。殻が少ししわになるのは中の果肉が甘くなったサインで、傷んだわけではありません。多くの人の直感とは逆です。直射日光を避け、やさしく扱ってください。殻はもろく、割れると中身が乾きます。",
+    "fridge": "袋に入れて4℃以下の野菜室なら2〜4週間ほど。袋が肝心で、庫内の棚に裸で置くと殻が乾いて割れます。この範囲は同属のパッションフルーツの扱いに倣ったもので、固有の公表値ではありません。割ったら果肉はその日のうちに食べきりましょう。",
+    "freezer": "果肉を種ごと−18℃で6〜12か月ほど冷凍します（軟質果実一般の範囲で、公的な数字ではありません）。製氷皿や小さな容器に1個分ずつ入れて空気を抜くと使いやすいです。殻は食べられないので、まるごと冷凍する意味はありません。",
+    "thawing": "1回分を冷蔵庫で解凍してその日のうちに使うか、凍ったままジュースやデザートに撹拌します。常温解凍と再冷凍は避けてください。",
+    "spoilage": [
+      "殻が割れて汁が出ている、中身が乾いている",
+      "持つと軽く、振ると音がする（乾燥）",
+      "割ったときの発酵臭・かび臭",
+      "透明感のある灰色ではなく茶色く濁った果肉"
+    ],
+    "tips": [
+      "殻のしわは甘さのサインで、傷みではありません",
+      "見た目より重いものを選ぶ",
+      "冷蔵庫では袋に入れて殻の割れを防ぐ",
+      "殻は軽くたたいて割り、スプーンで果肉をすくう"
+    ],
+    "faq": [
+      {"q": "グラナディージャはどのくらい持ちますか？", "a": "常温で5〜10日、袋に入れて冷蔵で2〜4週間ほどです。公的な数字はなく、パッションフルーツに倣っています。"},
+      {"q": "しわが出ても食べられますか？", "a": "食べられます。軽いしわは甘くなったサインです。割れて汁が出ている、軽く空洞、発酵臭がする場合のみ処分してください。"},
+      {"q": "冷凍できますか？", "a": "まるごとではなく果肉を種ごと6〜12か月ほど。製氷皿が便利です。"}
+    ]
+  },
+  "es": {
+    "name": "Granadilla",
+    "aliases": ["granadilla dulce", "granadilla común", "parcha dulce", "Passiflora ligularis"],
+    "summary": "La granadilla dulce es la prima suave del maracuyá, con una cáscara naranja dura y quebradiza y semillas grises envueltas en gelatina que se comen a cucharadas. Ningún organismo publica cifras, así que se trata como un maracuyá: 5 a 10 días en la encimera, 2 a 4 semanas en la nevera y 6 a 12 meses de pulpa congelada.",
+    "pantry": "La cáscara naranja y dura protege bien la pulpa, así que un frutero le sirve unos 5 a 10 días. Una cáscara ligeramente arrugada significa que la pulpa se ha endulzado, no que la fruta esté mala, justo al revés de lo que suele suponerse. Mantenla lejos del sol directo y manéjala con cuidado, porque la cáscara es quebradiza y una grieta reseca la pulpa.",
+    "fridge": "En bolsa en el cajón a 4 °C (40 °F) o menos aguanta unas 2 a 4 semanas. La bolsa es lo decisivo: en un estante abierto la cáscara se deshidrata y se agrieta. El rango sigue el manejo del maracuyá, del mismo género, y no una cifra publicada para la granadilla. Una vez abierta, come la pulpa el mismo día.",
+    "freezer": "Congela la pulpa con sus semillas unos 6 a 12 meses a −18 °C (0 °F), rango general de fruta blanda y no una cifra oficial. Ponla en cubitera o tarrinas pequeñas para sacar el equivalente a una fruta cada vez, y saca el aire. Congelar la fruta entera no aporta nada porque la cáscara no se come.",
+    "thawing": "Descongela una ración en la nevera y úsala el mismo día, o bátela congelada en zumos y postres. No la descongeles en la encimera ni la recongeles.",
+    "spoilage": [
+      "Cáscara agrietada o que rezuma, con la pulpa seca dentro",
+      "Fruta ligera que suena al agitarla: se ha secado",
+      "Olor fermentado o a humedad al abrirla",
+      "Pulpa parda o turbia en lugar de gris translúcida"
+    ],
+    "tips": [
+      "Las arrugas en la cáscara indican pulpa más dulce, no deterioro",
+      "Elige fruta pesada para su tamaño",
+      "Guárdala en bolsa en la nevera para que la cáscara no se agriete",
+      "Golpea la cáscara para abrirla y come la pulpa a cuchara"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la granadilla?", "a": "Unos 5 a 10 días a temperatura ambiente y de 2 a 4 semanas en bolsa en la nevera. No hay cifra oficial; sigue al maracuyá."},
+      {"q": "¿Sirve una granadilla arrugada?", "a": "Sí. Las arrugas ligeras indican pulpa más dulce. Descártala solo si está agrietada, hueca y ligera, o huele fermentada."},
+      {"q": "¿Se puede congelar la granadilla?", "a": "Congela la pulpa con semillas, no la fruta entera, unos 6 a 12 meses. La cubitera funciona muy bien."}
+    ]
+  }
+}

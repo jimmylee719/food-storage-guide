@@ -1,0 +1,107 @@
+{
+  "slug": "applesauce-homemade",
+  "en": {
+    "name": "Applesauce, homemade",
+    "aliases": ["apple sauce", "stewed apple", "apple purée", "home-cooked applesauce"],
+    "summary": "Homemade applesauce is cooked apple pulp, sweetened or not, without the commercial pasteurising and packaging that make a jar shelf stable. Refrigerated in a sealed container it keeps about 3 weeks, and it freezes well for 8 to 12 months.",
+    "pantry": "Home-cooked applesauce is not a pantry item. Unless it has been properly water-bath canned in sterilised jars to a tested recipe, it must go into the fridge as soon as it has cooled. Cool it quickly in a shallow dish and refrigerate within 2 hours of cooking — 1 hour if the kitchen is above 32 °C (90 °F).",
+    "fridge": "Store it at 4 °C (40 °F) or below in a clean, airtight container, and it keeps for about 3 weeks. Use a clean spoon each time rather than eating from the tub, since crumbs and saliva are what actually start it fermenting. Small jars are better than one big one — the sauce is only exposed to air when you open that jar.",
+    "freezer": "Applesauce freezes very well and holds good quality for 8 to 12 months at −18 °C (0 °F). Leave a couple of centimetres of headspace, because it expands, and freeze it in meal-sized portions or in an ice-cube tray for baby food and baking. Frozen sauce stays safe indefinitely; the timeline is about flavour and colour.",
+    "thawing": "Thaw overnight in the fridge and stir it, since it separates a little. For cooking or baking you can heat it gently straight from frozen. Do not thaw it on the counter.",
+    "spoilage": [
+      "Fizzing, bubbling or a lifted lid — it has started fermenting",
+      "Alcoholic, yeasty or sharply sour smell",
+      "Any mould spots on the surface, which means the whole batch goes",
+      "Slimy or stringy texture"
+    ],
+    "tips": [
+      "Cool it fast in a shallow dish, then refrigerate within 2 hours",
+      "Freeze in portions you will actually use in one go",
+      "Label every container with the date it was cooked",
+      "Always serve with a clean spoon rather than eating from the tub"
+    ],
+    "faq": [
+      {"q": "How long does homemade applesauce last in the fridge?", "a": "About 3 weeks in a sealed container at 4 °C (40 °F) or below, if it was cooled quickly and you always use a clean spoon."},
+      {"q": "Can you freeze homemade applesauce?", "a": "Yes, it freezes very well for 8 to 12 months. Leave headspace for expansion and freeze it in portions."},
+      {"q": "Does homemade applesauce need to be refrigerated?", "a": "Yes, unless it has been properly canned to a tested recipe. Refrigerate within 2 hours of cooking."}
+    ]
+  },
+  "zh": {
+    "name": "自製蘋果泥",
+    "aliases": ["蘋果醬", "自製蘋果醬", "煮蘋果泥", "applesauce"],
+    "summary": "自製蘋果泥就是煮軟的蘋果果肉，加不加糖都有，沒有商業產品那套殺菌與包裝，所以不能常溫放。密封冷藏約可放 3 週，冷凍則有 8 到 12 個月的良好品質。",
+    "pantry": "自製蘋果泥不能放常溫。除非是照著經過驗證的配方、用消毒過的玻璃瓶做完整的水浴殺菌罐藏，否則放涼後就必須進冰箱。請用淺盤攤開快速降溫，並在烹煮後 2 小時內冷藏；廚房超過 32°C 時要縮短到 1 小時。",
+    "fridge": "放 4°C 以下，用乾淨的密封容器裝，約可放 3 週。每次都用乾淨的湯匙舀，不要直接對著盒子吃——真正讓它開始發酵的就是碎屑和口水。分裝成幾個小罐比一個大罐好，因為只有打開的那一罐才會接觸空氣。",
+    "freezer": "蘋果泥很適合冷凍，−18°C 下 8 到 12 個月都能維持良好品質。裝的時候留兩公分左右的膨脹空間，並按一餐的份量分裝，或用製冰盒凍成小塊，方便做寶寶副食品和烘焙。只要維持凍結就是安全的，期限講的是風味和顏色。",
+    "thawing": "放冷藏室隔夜解凍，取出後攪一攪，因為會稍微分層。要煮或烘焙的話可以直接小火加熱不必解凍。不要放室溫退冰。",
+    "spoilage": [
+      "冒泡、有氣泡感或蓋子被頂起來，表示已經開始發酵",
+      "有酒味、酵母味或很嗆的酸味",
+      "表面出現任何黴斑，整批都要丟",
+      "質地變得黏滑或牽絲"
+    ],
+    "tips": [
+      "用淺盤快速降溫，2 小時內冷藏",
+      "按一次吃得完的份量分裝冷凍",
+      "每個容器都標上烹煮日期",
+      "一律用乾淨湯匙分食，不要對著整盒吃"
+    ],
+    "faq": [
+      {"q": "自製蘋果泥放冰箱可以放多久？", "a": "密封放 4°C 以下約 3 週，前提是有快速降溫，而且每次都用乾淨的湯匙。"},
+      {"q": "自製蘋果泥可以冷凍嗎？", "a": "可以，冷凍效果很好，8 到 12 個月。記得留膨脹空間並分小份。"},
+      {"q": "自製蘋果泥需要冷藏嗎？", "a": "需要，除非有照驗證過的配方做罐藏殺菌。煮好後 2 小時內就要冷藏。"}
+    ]
+  },
+  "ja": {
+    "name": "自家製アップルソース",
+    "aliases": ["りんごのコンポート", "アップルピューレ", "煮りんご", "applesauce"],
+    "summary": "自家製アップルソースは煮たりんごの果肉で、加糖・無糖どちらもあります。市販品のような殺菌と密封包装がないため常温保存はできません。密閉して冷蔵で約3週間、冷凍なら8〜12か月おいしく保てます。",
+    "pantry": "自家製のアップルソースは常温保存できません。検証されたレシピどおりに殺菌した瓶で湯煎殺菌（ボトリング）していない限り、粗熱が取れたらすぐ冷蔵庫へ。浅い容器に広げて手早く冷まし、調理後2時間以内に冷蔵してください。台所が32℃を超えるなら1時間以内です。",
+    "fridge": "清潔な密閉容器に入れて4℃以下で保存すれば約3週間持ちます。容器から直接食べず、毎回きれいなスプーンを使ってください。発酵の引き金になるのはパンくずや唾液です。大きな容器ひとつより小分けのほうがよく、開けた分だけが空気に触れます。",
+    "freezer": "アップルソースは冷凍向きで、−18℃なら8〜12か月おいしく保てます。膨張するので2センチほど空きを残し、一食分ずつ、または製氷皿で小分けにすると離乳食や製菓に便利です。凍ったままなら安全性は保たれ、期間は風味と色の話です。",
+    "thawing": "冷蔵庫で一晩解凍し、少し分離するので混ぜてから使います。加熱調理や製菓なら凍ったまま弱火で温めても大丈夫です。常温解凍は避けてください。",
+    "spoilage": [
+      "泡立つ、ふたが持ち上がる（発酵が始まっている）",
+      "アルコール臭、酵母臭、強い酸臭",
+      "表面のカビ（見つけたら全量処分）",
+      "ぬめりや糸を引く質感"
+    ],
+    "tips": [
+      "浅い容器で手早く冷まし、2時間以内に冷蔵",
+      "一度で使い切れる量に小分けして冷凍",
+      "容器には必ず調理日を書く",
+      "容器から直接食べず、清潔なスプーンで取り分ける"
+    ],
+    "faq": [
+      {"q": "自家製アップルソースは冷蔵庫でどのくらい持ちますか？", "a": "密閉して4℃以下で約3週間です。手早く冷まし、毎回清潔なスプーンを使うことが前提です。"},
+      {"q": "アップルソースは冷凍できますか？", "a": "はい、冷凍向きで8〜12か月持ちます。膨張分の空きを残して小分けにしてください。"},
+      {"q": "自家製アップルソースは冷蔵が必要ですか？", "a": "必要です。検証済みレシピで瓶詰め殺菌したものを除き、調理後2時間以内に冷蔵してください。"}
+    ]
+  },
+  "es": {
+    "name": "Compota de manzana casera",
+    "aliases": ["puré de manzana", "manzana cocida", "applesauce casero", "salsa de manzana"],
+    "summary": "La compota de manzana casera es pulpa de manzana cocida, con o sin azúcar, sin la pasteurización ni el envasado industriales que hacen estable un tarro comercial. Refrigerada en recipiente hermético dura unas 3 semanas, y se congela bien de 8 a 12 meses.",
+    "pantry": "La compota casera no es producto de despensa. Salvo que se haya envasado correctamente al baño maría en tarros esterilizados siguiendo una receta contrastada, debe ir a la nevera en cuanto se enfríe. Enfríala rápido en un recipiente ancho y refrigérala antes de 2 horas tras cocinarla, o 1 hora si la cocina supera los 32 °C (90 °F).",
+    "fridge": "Guárdala a 4 °C (40 °F) o menos en un recipiente limpio y hermético: dura unas 3 semanas. Usa una cuchara limpia cada vez en lugar de comer del bote, porque son las migas y la saliva las que la ponen a fermentar. Mejor varios tarros pequeños que uno grande: solo se airea el que abres.",
+    "freezer": "La compota se congela muy bien y mantiene buena calidad de 8 a 12 meses a −18 °C (0 °F). Deja un par de centímetros de aire porque expande, y congélala en raciones o en cubitera para papillas y repostería. Congelada se mantiene segura de forma indefinida; el plazo es de sabor y color.",
+    "thawing": "Descongélala toda la noche en la nevera y remuévela, porque se separa un poco. Para cocinar o hornear puedes calentarla suavemente desde congelada. No la descongeles en la encimera.",
+    "spoilage": [
+      "Burbujeo o tapa abombada: ha empezado a fermentar",
+      "Olor alcohólico, a levadura o muy ácido",
+      "Manchas de moho en la superficie, lo que obliga a tirar todo el lote",
+      "Textura viscosa o filamentosa"
+    ],
+    "tips": [
+      "Enfríala rápido en recipiente ancho y refrigera antes de 2 horas",
+      "Congélala en porciones que gastes de una vez",
+      "Etiqueta cada recipiente con la fecha de elaboración",
+      "Sírvela siempre con cuchara limpia, no comas del bote"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la compota de manzana casera en la nevera?", "a": "Unas 3 semanas en recipiente hermético a 4 °C (40 °F) o menos, si se enfrió rápido y usas siempre cuchara limpia."},
+      {"q": "¿Se puede congelar la compota de manzana casera?", "a": "Sí, muy bien, de 8 a 12 meses. Deja espacio para la expansión y congélala en porciones."},
+      {"q": "¿Hay que refrigerar la compota casera?", "a": "Sí, salvo que se haya envasado correctamente según una receta contrastada. Refrigera antes de 2 horas tras cocinarla."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "jaboticaba",
+  "en": {
+    "name": "Jaboticaba",
+    "aliases": ["jabuticaba", "Brazilian grape tree", "uva brasileña", "tree grape"],
+    "summary": "Jaboticaba is the dark purple Brazilian fruit that grows straight out of the trunk, with a tough skin and sweet white grape-like flesh. It lasts no more than about 3 days at room temperature, roughly 1 to 2 weeks refrigerated, and freezes for 6 to 12 months.",
+    "pantry": "Jaboticaba should not be left out for more than about 3 days at ambient temperature before decay sets in. The fruit ferments readily — in Brazil this is a feature, since the surplus becomes wine and liqueur, but it is not what you want in a bowl on the counter. Get it into the fridge quickly and leave it unwashed until you eat.",
+    "fridge": "Refrigerated at 4 °C (40 °F) or below, expect roughly 1 to 2 weeks, and chill the fruit as soon as possible after picking: pre-chilling in the field adds more than a week of life, which is why supermarket fruit and home-picked fruit behave so differently. Commercially, waxing plus a plastic wrap extends storage to 21 days at 12 °C, but that needs equipment and a controlled room rather than a domestic fridge. Store it in a shallow vented container and do not pile it deep.",
+    "freezer": "Freeze the fruit whole for about 6 to 12 months at −18 °C (0 °F) — the general berry range rather than a published jaboticaba figure. A useful side effect is that the tough skins slip off easily after thawing, which makes juice and jelly much less work. Tray-freeze in a single layer, then bag with the air pressed out.",
+    "thawing": "Thaw in the fridge or a bowl of cold water when you want to slip the skins for juice or jelly. For eating out of hand, half-thawed fruit is best; fully thawed berries are slack.",
+    "spoilage": [
+      "Skin split with juice weeping out",
+      "Fermented, winey or vinegary smell",
+      "White or grey mould on the fruit",
+      "Flesh gone brown or slimy inside a fruit that still looks whole"
+    ],
+    "tips": [
+      "Buy or pick fruit with taut, glossy, unsplit skin",
+      "Refrigerate the same day; the clock starts at picking",
+      "Freeze the surplus whole — the skins slip off after thawing",
+      "Its natural tendency to ferment makes it ideal for liqueur and wine"
+    ],
+    "faq": [
+      {"q": "How long does jaboticaba last?", "a": "No more than about 3 days at room temperature, and roughly 1 to 2 weeks refrigerated at 4 °C (40 °F) or below."},
+      {"q": "Can you freeze jaboticaba?", "a": "Yes, whole, for about 6 to 12 months. The skins slip off easily after thawing, which is handy for juice and jelly."},
+      {"q": "Do you eat the skin of jaboticaba?", "a": "The skin is edible but tough and tannic. Most people squeeze the sweet white pulp out and discard the skin and seed."}
+    ]
+  },
+  "zh": {
+    "name": "嘉寶果",
+    "aliases": ["樹葡萄", "臺灣樹葡萄", "jabuticaba", "巴西葡萄"],
+    "summary": "嘉寶果是直接長在樹幹上的巴西水果，外皮深紫堅韌，裡面是白色、口感像葡萄的甜果肉。室溫最多放約 3 天，冷藏大約 1 到 2 週，冷凍則有 6 到 12 個月。",
+    "pantry": "嘉寶果在常溫下放超過約 3 天就會開始腐壞。它非常容易發酵——在巴西這反而是優點，多出來的果實會拿去釀酒和做利口酒，但放在桌上的碗裡就不是你想要的結果了。請盡快放進冰箱，而且要吃之前才洗。",
+    "fridge": "放 4°C 以下冷藏大約 1 到 2 週，而且採收後要盡快降溫：在產地就先預冷，可以多出一週以上的壽命，這也是為什麼超市的果實和自己採的表現差那麼多。商業上會打蠟再包塑膠膜，在 12°C 下可以延長到 21 天，但那需要設備和控溫室，不是家用冰箱做得到的。請用淺而透氣的容器裝，不要堆太深。",
+    "freezer": "整顆冷凍，−18°C 下約 6 到 12 個月——這是漿果的一般範圍，不是針對嘉寶果公布的數字。冷凍還有一個好處：解凍後那層韌皮很容易剝掉，做果汁和果凍會省事很多。先托盤單層冷凍，再裝袋擠出空氣。",
+    "thawing": "要做果汁或果凍時，放冷藏或泡冷水解凍再把皮擠掉。直接吃的話半解凍最好，完全解凍的果實會軟塌。",
+    "spoilage": [
+      "果皮裂開並滲汁",
+      "有發酵味、酒味或醋味",
+      "果實上長白色或灰色的黴",
+      "外觀還完整，裡面的果肉卻已經轉褐或黏滑"
+    ],
+    "tips": [
+      "挑果皮緊繃、有光澤、沒有裂開的",
+      "當天就冷藏，時間是從採收那一刻開始算的",
+      "吃不完的整顆冷凍，解凍後皮很好剝",
+      "它天生容易發酵，正好適合拿來釀酒和做利口酒"
+    ],
+    "faq": [
+      {"q": "嘉寶果可以放多久？", "a": "室溫最多約 3 天，放 4°C 以下冷藏大約 1 到 2 週。"},
+      {"q": "嘉寶果可以冷凍嗎？", "a": "可以，整顆冷凍約 6 到 12 個月。解凍後皮很好剝，做果汁和果凍很方便。"},
+      {"q": "嘉寶果的皮可以吃嗎？", "a": "皮可以吃，但又韌又澀。大多數人會把白色甜果肉擠出來吃，皮和籽丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "ジャボチカバ",
+    "aliases": ["ジャバチカバ", "木ぶどう", "ブラジリアングレープ", "jabuticaba"],
+    "summary": "ジャボチカバは幹に直接実るブラジル原産の果実で、濃い紫のしっかりした皮の中に、ぶどうのような白い甘い果肉が入っています。常温では3日ほどが限度、冷蔵でおよそ1〜2週間、冷凍なら6〜12か月持ちます。",
+    "pantry": "ジャボチカバは常温で3日ほどを超えると傷み始めます。発酵しやすい果実で、ブラジルではそれを生かして果実酒やリキュールにしますが、台所の器の中で起きてほしいことではありません。早めに冷蔵庫へ入れ、食べる直前まで洗わないでください。",
+    "fridge": "4℃以下で1〜2週間ほど。収穫後はできるだけ早く冷やすことが重要で、畑での予冷があるだけで1週間以上寿命が延びます。店で買った果実と自分で摘んだ果実で持ちが違うのはそのためです。商業的にはワックスとフィルム包装で12℃・21日まで延ばせますが、設備と管理された室が必要で家庭の冷蔵庫では再現できません。浅い通気容器に入れ、深く積まないこと。",
+    "freezer": "まるごと−18℃で6〜12か月ほど。これはベリー一般の範囲で、ジャボチカバ固有の公表値ではありません。冷凍には利点もあり、解凍すると硬い皮がつるりと外れるので、ジュースやゼリー作りがぐんと楽になります。トレーで一段に凍らせてから袋へ入れ、空気を抜きます。",
+    "thawing": "ジュースやゼリーにするなら冷蔵庫か冷水で解凍して皮をむきます。そのまま食べるなら半解凍が最適で、完全解凍するとだれます。",
+    "spoilage": [
+      "皮が裂けて果汁がにじんでいる",
+      "発酵臭、ワイン臭、酢のようなにおい",
+      "白や灰色のカビ",
+      "外見は無事でも中の果肉が茶色い、ぬめる"
+    ],
+    "tips": [
+      "皮に張りとつやがあり、裂けていないものを選ぶ",
+      "その日のうちに冷蔵する（時計は収穫から動いています）",
+      "余ったらまるごと冷凍。解凍後は皮がむきやすい",
+      "発酵しやすい性質は果実酒やリキュール向き"
+    ],
+    "faq": [
+      {"q": "ジャボチカバはどのくらい持ちますか？", "a": "常温では3日ほどが限度、4℃以下の冷蔵でおよそ1〜2週間です。"},
+      {"q": "冷凍できますか？", "a": "できます。まるごと6〜12か月ほど。解凍すると皮が外れやすくジュースやゼリーに便利です。"},
+      {"q": "皮は食べられますか？", "a": "食べられますが硬く渋みがあります。多くは白い果肉を絞り出して食べ、皮と種は残します。"}
+    ]
+  },
+  "es": {
+    "name": "Jaboticaba",
+    "aliases": ["jabuticaba", "uva brasileña", "guapurú", "árbol de uvas"],
+    "summary": "La jaboticaba es la fruta morada oscura brasileña que crece directamente del tronco, con piel resistente y pulpa blanca y dulce parecida a la uva. No aguanta más de unos 3 días a temperatura ambiente, alrededor de 1 a 2 semanas refrigerada, y se congela de 6 a 12 meses.",
+    "pantry": "La jaboticaba no debe quedarse fuera más de unos 3 días antes de que empiece el deterioro. Fermenta con facilidad: en Brasil eso es una virtud, porque el excedente se convierte en vino y licor, pero no es lo que quieres en un frutero. Métela pronto en la nevera y déjala sin lavar hasta comerla.",
+    "fridge": "A 4 °C (40 °F) o menos cuenta con 1 a 2 semanas, y enfría la fruta cuanto antes tras la recolección: el preenfriado en campo añade más de una semana de vida, y por eso la fruta de tienda y la recogida en casa se comportan tan distinto. Comercialmente, encerarla y envolverla en plástico alarga la conservación a 21 días a 12 °C, pero eso exige equipo y una cámara controlada, no una nevera doméstica. Guárdala en recipiente bajo y ventilado, sin apilar.",
+    "freezer": "Congélala entera unos 6 a 12 meses a −18 °C (0 °F), el rango general de las bayas y no una cifra publicada. Un efecto útil es que la piel dura se desprende sola al descongelar, lo que facilita mucho zumos y jaleas. Congela en bandeja en una capa y luego embolsa sin aire.",
+    "thawing": "Descongela en la nevera o en un bol de agua fría cuando quieras quitar las pieles para zumo o jalea. Para comerla tal cual, medio descongelada es lo mejor; totalmente descongelada queda flácida.",
+    "spoilage": [
+      "Piel agrietada que rezuma jugo",
+      "Olor fermentado, avinado o avinagrado",
+      "Moho blanco o gris sobre la fruta",
+      "Pulpa parda o viscosa dentro de una fruta aparentemente entera"
+    ],
+    "tips": [
+      "Compra o recoge fruta de piel tersa, brillante y sin grietas",
+      "Refrigérala el mismo día: el reloj empieza en la cosecha",
+      "Congela el excedente entero: las pieles se sueltan al descongelar",
+      "Su tendencia natural a fermentar la hace ideal para licores y vino"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la jaboticaba?", "a": "No más de unos 3 días a temperatura ambiente y alrededor de 1 a 2 semanas refrigerada a 4 °C (40 °F) o menos."},
+      {"q": "¿Se puede congelar la jaboticaba?", "a": "Sí, entera, unos 6 a 12 meses. Las pieles se sueltan al descongelar, algo práctico para zumo y jalea."},
+      {"q": "¿Se come la piel?", "a": "Es comestible pero dura y tánica. La mayoría exprime la pulpa blanca y descarta piel y semilla."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "acerola",
+  "en": {
+    "name": "Acerola",
+    "aliases": ["Barbados cherry", "West Indian cherry", "cereza de Barbados", "wild crapemyrtle"],
+    "summary": "Acerola is a small, thin-skinned red tropical cherry, famous for an extremely high vitamin C content and for falling apart almost as soon as it is picked. At room temperature it lasts barely 1 to 2 days; refrigerated it keeps about 4 days, stretching to 10 if it was cooled immediately after harvest, and freezing is the normal way to hold a crop.",
+    "pantry": "Acerola is exceptionally fragile and a counter is not really storage — expect 1 to 2 days at most. The fruit is so soft that it is packed no more than two layers deep, because a third layer crushes everything underneath. If you have picked your own, spread it in a shallow tray in a single layer and get it cold quickly.",
+    "fridge": "Refrigerate at 4 °C (40 °F) or below in a shallow, vented container, still unwashed. Postharvest life runs from about 4 days up to 10 days, and the difference is almost entirely down to how fast the fruit was chilled after picking — market fruit that has spent a warm afternoon in a crate is at the short end of that range. Rinse only the portion you are about to eat.",
+    "freezer": "Freezing is how acerola is normally kept, whether whole or as pulp, and it is the standard route to year-round juice. A home freezer at −18 °C (0 °F) will hold good quality for roughly 6 to 12 months; that is the general soft-fruit range rather than a figure published for acerola. Freeze it in a single layer on a tray first, then bag it, so the fruit does not weld into a block.",
+    "thawing": "Thaw in the fridge, or blend it straight from frozen — the fruit collapses on thawing, so anything beyond juice or purée is disappointing. Use thawed acerola the same day and do not refreeze it.",
+    "spoilage": [
+      "Fruit weeping juice or gone soft and mushy in the punnet",
+      "Fermented or vinegary smell",
+      "Grey or white fuzzy mould, which spreads through a punnet very fast",
+      "Skin split and browning around the split"
+    ],
+    "tips": [
+      "Never pack more than two layers deep — the bottom fruit gets crushed",
+      "Get it into the fridge as fast as you can; the clock starts at picking",
+      "Freeze the surplus the day you buy it rather than trying to keep it fresh",
+      "Wash only what you will eat right away"
+    ],
+    "faq": [
+      {"q": "How long does acerola last in the fridge?", "a": "About 4 days, up to 10 days if it was chilled immediately after picking. Fruit that travelled warm sits at the short end."},
+      {"q": "Can you freeze acerola?", "a": "Yes, and it is the usual way to keep it. Freeze whole fruit or pulp on a tray, then bag it — roughly 6 to 12 months for good quality."},
+      {"q": "How can you tell if acerola has gone bad?", "a": "Mushy fruit weeping juice, a fermented smell, or fuzzy mould. One mouldy berry infects a whole punnet within a day."}
+    ]
+  },
+  "zh": {
+    "name": "西印度櫻桃",
+    "aliases": ["針葉櫻桃", "巴貝多櫻桃", "acerola", "аcerola cherry"],
+    "summary": "西印度櫻桃是果皮極薄的小型紅色熱帶漿果，以維生素 C 含量極高、以及採下後幾乎立刻軟爛聞名。室溫只撐得住 1 到 2 天；冷藏約 4 天，若採收後立刻降溫可以拉長到 10 天，而冷凍是保存一整批果實的常見做法。",
+    "pantry": "這種果實實在太脆弱，放在室溫其實稱不上保存，最多 1 到 2 天。它軟到裝箱時最多只能疊兩層，第三層一壓，底下整層就爛了。自己採的話請用淺盤單層攤開，並且盡快降溫。",
+    "fridge": "放 4°C 以下，用淺而透氣的容器裝，先不要洗。採收後的壽命約 4 天，最長可到 10 天，差別幾乎完全取決於採後多快降溫，市場上在紙箱裡曬過一下午的果實就落在短的那一端。要吃多少再洗多少。",
+    "freezer": "冷凍是保存西印度櫻桃的常規做法，整顆或打成果泥都可以，也是全年做果汁的標準途徑。家用冷凍庫 −18°C 下，品質良好的範圍大約 6 到 12 個月；這是一般軟質水果的區間，不是針對西印度櫻桃公布的數字。先在托盤上單層冷凍再裝袋，果實才不會凍成一整塊。",
+    "thawing": "放冷藏解凍，或直接用冷凍狀態打成汁。這種果實一解凍就會塌，所以除了果汁和果泥以外的用途都不太理想。解凍後當天用完，不要回凍。",
+    "spoilage": [
+      "果實出水、在盒子裡變得軟爛",
+      "有發酵味或醋酸味",
+      "長出灰白色絨毛黴，一盒裡擴散得非常快",
+      "果皮裂開、裂口周圍轉褐"
+    ],
+    "tips": [
+      "裝盒不要超過兩層，底層一定會被壓爛",
+      "盡快放進冰箱，時間是從採收那一刻開始算的",
+      "買回來當天就把吃不完的冷凍，不要指望放著保鮮",
+      "只清洗馬上要吃的部分"
+    ],
+    "faq": [
+      {"q": "西印度櫻桃放冰箱可以放多久？", "a": "約 4 天；如果採收後立刻降溫，最長可到 10 天。運送過程中回過溫的果實只有短的那一端。"},
+      {"q": "西印度櫻桃可以冷凍嗎？", "a": "可以，而且這是常見做法。整顆或果泥先托盤單層冷凍再裝袋，品質良好的範圍約 6 到 12 個月。"},
+      {"q": "西印度櫻桃壞掉怎麼看？", "a": "軟爛出水、聞起來發酵，或長出絨毛黴。一顆發黴的果實一天內就會傳染整盒。"}
+    ]
+  },
+  "ja": {
+    "name": "アセロラ",
+    "aliases": ["バルバドスチェリー", "西インドチェリー", "acerola", "アセロラチェリー"],
+    "summary": "アセロラは皮の非常に薄い小さな赤い熱帯果実で、ビタミンCの多さと、収穫直後から崩れやすいことで知られます。常温では1〜2日が限度、冷蔵で約4日、収穫直後に急冷されたものなら10日ほど持ちます。まとまった量を保存するなら冷凍が普通です。",
+    "pantry": "非常に傷みやすく、常温は保存とは言えません。もって1〜2日です。あまりに軟らかいため箱詰めは二段までで、三段目を載せると下の果実がつぶれます。自分で摘んだ場合は浅いトレーに一段で広げ、できるだけ早く冷やしてください。",
+    "fridge": "洗わずに、浅くて通気のある容器に入れて4℃以下で保存します。収穫後の日持ちは約4日、最長で10日ほどで、その差はほぼ収穫後どれだけ早く冷やせたかで決まります。暖かい箱の中で半日過ごした市販品は短いほうと考えてください。洗うのは食べる分だけにします。",
+    "freezer": "アセロラはまるごとでもピューレでも冷凍で保存するのが一般的で、通年でジュースにする標準的な方法です。家庭用冷凍庫の−18℃なら品質のよい期間はおよそ6〜12か月。これは軟質果実一般の範囲で、アセロラ固有の公表値ではありません。まずトレーで一段に凍らせてから袋に移すと、塊にならずに済みます。",
+    "thawing": "冷蔵庫で解凍するか、凍ったままミキサーへ。解凍すると崩れるので、ジュースやピューレ以外の用途には向きません。解凍したものはその日のうちに使い、再冷凍はしないでください。",
+    "spoilage": [
+      "果汁がにじみ、容器の中でぐずぐずになっている",
+      "発酵臭や酢のようなにおいがする",
+      "灰白色の綿状のカビ（一箱に一日で広がる）",
+      "皮が裂け、その周りが褐変している"
+    ],
+    "tips": [
+      "詰めるのは二段まで。三段目で下がつぶれます",
+      "とにかく早く冷蔵庫へ。時計は収穫の瞬間から動いています",
+      "買った日に食べきれない分は冷凍する",
+      "洗うのはすぐ食べる分だけ"
+    ],
+    "faq": [
+      {"q": "アセロラは冷蔵庫でどのくらい持ちますか？", "a": "約4日、収穫直後に急冷されていれば10日ほどです。暖かいまま運ばれたものは短くなります。"},
+      {"q": "アセロラは冷凍できますか？", "a": "できますし、それが普通の保存法です。トレーで凍らせてから袋へ移し、品質のよい期間はおよそ6〜12か月です。"},
+      {"q": "アセロラが傷んだ見分け方は？", "a": "汁が出てぐずぐずになる、発酵臭、綿状のカビが目安です。一粒のカビが一日で箱全体に広がります。"}
+    ]
+  },
+  "es": {
+    "name": "Acerola",
+    "aliases": ["cereza de Barbados", "cereza de las Antillas", "semeruco", "manzanita"],
+    "summary": "La acerola es una cereza tropical pequeña y de piel finísima, célebre por su altísimo contenido de vitamina C y por deshacerse casi en cuanto se recoge. A temperatura ambiente apenas dura 1 o 2 días; refrigerada aguanta unos 4 días, hasta 10 si se enfrió justo tras la cosecha, y congelarla es la forma habitual de conservar una recolección.",
+    "pantry": "La acerola es excepcionalmente frágil y la encimera no es realmente almacenamiento: cuenta con 1 o 2 días como mucho. Es tan blanda que se envasa como máximo en dos capas, porque una tercera aplasta todo lo de abajo. Si la has recogido tú, extiéndela en una bandeja en una sola capa y enfríala cuanto antes.",
+    "fridge": "Refrigérala a 4 °C (40 °F) o menos en un recipiente poco profundo y ventilado, sin lavar. La vida poscosecha va de unos 4 días hasta 10, y la diferencia depende casi por completo de la rapidez con que se enfrió tras la recolección: la fruta que ha pasado una tarde templada en una caja está en el extremo corto. Enjuaga solo la porción que vayas a comer.",
+    "freezer": "Congelar es la forma normal de guardar acerola, entera o en pulpa, y es la vía habitual para tener zumo todo el año. Un congelador doméstico a −18 °C (0 °F) mantiene buena calidad unos 6 a 12 meses; es el rango general de la fruta blanda, no una cifra publicada para la acerola. Congélala primero en una sola capa sobre bandeja y luego embólsala.",
+    "thawing": "Descongélala en la nevera o bátela directamente congelada: al descongelarse se deshace, así que fuera del zumo o el puré decepciona. Usa la acerola descongelada el mismo día y no la vuelvas a congelar.",
+    "spoilage": [
+      "Fruta que rezuma jugo o se ha vuelto pastosa en la tarrina",
+      "Olor fermentado o avinagrado",
+      "Moho gris o blanco algodonoso, que se extiende muy rápido",
+      "Piel agrietada y parda alrededor de la grieta"
+    ],
+    "tips": [
+      "Nunca la apiles más de dos capas: la de abajo se aplasta",
+      "Métela en frío cuanto antes; el reloj empieza en la cosecha",
+      "Congela el excedente el mismo día de la compra",
+      "Lava solo lo que vayas a comer en el momento"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la acerola en la nevera?", "a": "Unos 4 días, hasta 10 si se enfrió inmediatamente tras la cosecha. La fruta que viajó templada está en el extremo corto."},
+      {"q": "¿Se puede congelar la acerola?", "a": "Sí, y es lo habitual. Congela fruta entera o pulpa en bandeja y luego embolsa: unos 6 a 12 meses de buena calidad."},
+      {"q": "¿Cómo saber si la acerola está mala?", "a": "Fruta pastosa que rezuma, olor fermentado o moho algodonoso. Una baya con moho contagia la tarrina en un día."}
+    ]
+  }
+}

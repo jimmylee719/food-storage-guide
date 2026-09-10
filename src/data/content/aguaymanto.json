@@ -1,0 +1,107 @@
+{
+  "slug": "aguaymanto",
+  "en": {
+    "name": "Aguaymanto",
+    "aliases": ["cape gooseberry", "goldenberry", "poha", "uchuva", "Inca berry"],
+    "summary": "Aguaymanto is the golden Physalis berry sold inside its papery husk, known in the Andes as uchuva and in Hawai'i as poha. Kept dry in the husk it holds for a month or two in a cool room and two to three months in the fridge, and husked, frozen fruit keeps a year or more.",
+    "pantry": "The husk is the packaging, so leave it on. Dry and in the husk the fruit lasts up to several months in a cool, airy spot — roughly 1 to 2 months in a normal home. Spread the berries in a single layer, keep them out of the sun, and never wash them until you are about to eat: damp husks grow mould and the mould goes straight through to the berry.",
+    "fridge": "In the husk on the coldest shelf, aguaymanto holds roughly 2 to 3 months. Commercial stores hold it at about 1 °C with humidity control a home fridge cannot match, so treat the longer end as optimistic and use an open or perforated container so condensation can escape. Husked fruit is a different proposition entirely: the bare berry is sticky, bruises easily and lasts days rather than months.",
+    "freezer": "Husked and frozen, the fruit keeps more than a year — 12 months is a safe planning figure at −18 °C (0 °F). Pull the husks off, rinse away the sticky natural coating, dry the berries thoroughly and freeze them on a tray before bagging, or they cement together. Frozen berries go straight into compotes, jams and sauces.",
+    "thawing": "Thaw in the fridge if you need whole berries, and expect them to soften. For cooking, tip them into the pan frozen — they collapse into a sauce anyway.",
+    "spoilage": [
+      "Damp, dark or mouldy husk, which usually means the berry is gone too",
+      "Berry gone soft, wrinkled or leaking",
+      "Fermented or sour smell when you open the husk",
+      "Grey fuzz anywhere on the fruit or the calyx"
+    ],
+    "tips": [
+      "Buy fruit with dry, papery, straw-coloured husks, not damp green ones",
+      "De-husk only what you are about to eat",
+      "Rinse off the sticky coating right before eating, not before storing",
+      "Freeze the surplus husked and tray-frozen for jam later in the year"
+    ],
+    "faq": [
+      {"q": "How long does aguaymanto last?", "a": "Dry and in the husk, roughly 1 to 2 months in a cool room and 2 to 3 months in the fridge. Husked and frozen, a year or more."},
+      {"q": "Should you remove the husk before storing?", "a": "No. The husk is what makes the fruit keep; removing it cuts the storage life to days. De-husk only what you will eat."},
+      {"q": "Can you freeze aguaymanto?", "a": "Yes. Husk, rinse, dry thoroughly, freeze on a tray and then bag. It keeps well over a year at −18 °C (0 °F)."}
+    ]
+  },
+  "zh": {
+    "name": "燈籠果",
+    "aliases": ["秘魯酸漿", "黃金莓", "祕魯苦蘵", "uchuva", "goldenberry"],
+    "summary": "燈籠果是包在紙質果萼裡的金黃色酸漿果實，安地斯地區稱 uchuva，夏威夷叫 poha。連著果萼保持乾燥的話，陰涼室內可以放一兩個月，冰箱裡兩到三個月；剝殼冷凍則可以放一年以上。",
+    "pantry": "那層果萼就是它的包裝，請不要拆。乾燥、連萼的果實放在陰涼通風處可以放上好幾個月，以一般家庭的環境來說大約 1 到 2 個月。單層攤開、避免日曬，而且要吃之前才洗：果萼一濕就會發黴，黴會直接穿透到果實裡。",
+    "fridge": "連萼放在冰箱最冷的一層，大約可放 2 到 3 個月。商業冷藏是在 1°C 左右並且控濕，家用冰箱做不到，所以較長的那一端要打點折扣；請用開口或打洞的容器，讓凝結的水氣散得掉。剝了殼就完全是另一回事：裸果黏手又容易碰傷，只能以天計算。",
+    "freezer": "剝殼冷凍可以放一年以上，−18°C 下以 12 個月當作規劃數字很安全。把果萼撕掉、沖掉表面天然的黏膜、徹底擦乾，先在托盤上冷凍再裝袋，否則會黏成一團。冷凍果可以直接下鍋做果醬、糖煮或醬汁。",
+    "thawing": "需要完整果粒就放冷藏解凍，但要有變軟的心理準備。要煮的話直接把冷凍果倒進鍋裡，反正最後也是要煮化的。",
+    "spoilage": [
+      "果萼潮濕、發黑或長黴，通常裡面的果實也完了",
+      "果實變軟、皺縮或滲汁",
+      "剝開果萼時聞到發酵味或酸味",
+      "果實或果萼上出現灰色絨毛"
+    ],
+    "tips": [
+      "挑果萼乾燥、呈稻草色的，不要挑濕綠色的",
+      "要吃多少才剝多少殼",
+      "表面的黏膜是吃之前才沖掉，不是保存前",
+      "吃不完的剝殼托盤冷凍，留到後半年做果醬"
+    ],
+    "faq": [
+      {"q": "燈籠果可以放多久？", "a": "乾燥連萼的話，陰涼室內約 1 到 2 個月，冰箱 2 到 3 個月。剝殼冷凍可以放一年以上。"},
+      {"q": "保存前要把果萼剝掉嗎？", "a": "不要。果萼正是它耐放的原因，剝掉之後只剩幾天。要吃多少再剝多少。"},
+      {"q": "燈籠果可以冷凍嗎？", "a": "可以。剝殼、沖洗、徹底擦乾，先托盤冷凍再裝袋，−18°C 下可以放超過一年。"}
+    ]
+  },
+  "ja": {
+    "name": "食用ホオズキ",
+    "aliases": ["ゴールデンベリー", "ケープグーズベリー", "食用鬼灯", "アグアイマント"],
+    "summary": "食用ホオズキは紙のようなガクに包まれた金色のホオズキ果実で、アンデスではウチュバ、ハワイではポハと呼ばれます。乾いたガクつきのままなら涼しい室内で1〜2か月、冷蔵で2〜3か月。ガクを取って冷凍すれば1年以上持ちます。",
+    "pantry": "ガクがそのまま包装の役目を果たすので、外さないでください。乾いたガクつきの果実は涼しく風通しのよい場所で数か月持ち、一般的な家庭環境なら1〜2か月が目安です。一段に広げて日光を避け、食べる直前まで洗わないこと。ガクが湿るとカビが生え、そのまま果実まで届きます。",
+    "fridge": "ガクつきで庫内のいちばん冷たい棚に置けば、2〜3か月ほど持ちます。商業的な貯蔵は約1℃で湿度も管理されており、家庭の冷蔵庫では再現できないので、長いほうの数字は控えめに見てください。結露が逃げるよう、口の開いた容器か穴あき容器を使います。ガクを外した果実はまったく別物で、べたついて傷みやすく、日単位しか持ちません。",
+    "freezer": "ガクを取って冷凍すれば1年以上持ち、−18℃で12か月を目安にすれば十分です。ガクを外し、表面のべたつきを洗い流し、しっかり水気を拭いてからトレーで凍らせ、それから袋へ。まとめて凍らせると固まってしまいます。冷凍のままジャムやコンポート、ソースに使えます。",
+    "thawing": "粒のまま使いたいときは冷蔵庫で解凍しますが、柔らかくなるのは避けられません。加熱調理なら凍ったまま鍋に入れてかまいません。",
+    "spoilage": [
+      "ガクが湿って黒ずむ、カビている（中の実も傷んでいる）",
+      "果実が軟らかい、しぼんでいる、汁が出ている",
+      "ガクを開けたときに発酵臭や酸っぱいにおいがする",
+      "果実やガクに灰色の綿状のカビ"
+    ],
+    "tips": [
+      "ガクが乾いてわら色のものを選び、湿った緑色は避ける",
+      "ガクは食べる分だけ外す",
+      "べたつきは保存前ではなく食べる直前に洗い流す",
+      "余った分はガクを外してトレー冷凍し、後日のジャム用に"
+    ],
+    "faq": [
+      {"q": "食用ホオズキはどのくらい持ちますか？", "a": "乾いたガクつきなら涼しい室内で1〜2か月、冷蔵で2〜3か月です。ガクを外して冷凍すれば1年以上持ちます。"},
+      {"q": "保存前にガクは外しますか？", "a": "外さないでください。ガクがあるから日持ちするので、外すと日単位になります。食べる分だけ外しましょう。"},
+      {"q": "食用ホオズキは冷凍できますか？", "a": "できます。ガクを外し、洗って水気をよく取り、トレーで凍らせてから袋へ。−18℃で1年以上持ちます。"}
+    ]
+  },
+  "es": {
+    "name": "Aguaymanto",
+    "aliases": ["uchuva", "uvilla", "physalis", "goldenberry", "capulí"],
+    "summary": "El aguaymanto es la baya dorada de Physalis que se vende dentro de su cáliz de papel, llamada uchuva en Colombia y poha en Hawái. Seca y con cáliz aguanta uno o dos meses en un lugar fresco y de dos a tres meses en la nevera; sin cáliz y congelada, más de un año.",
+    "pantry": "El cáliz es el envase, así que déjalo puesto. Seca y con cáliz, la fruta dura varios meses en un sitio fresco y aireado: en una casa normal, alrededor de 1 a 2 meses. Extiéndela en una sola capa, lejos del sol, y no la laves hasta el momento de comerla: el cáliz húmedo cría moho y el moho pasa directamente a la baya.",
+    "fridge": "Con cáliz y en el estante más frío, el aguaymanto aguanta unos 2 a 3 meses. Los almacenes comerciales lo mantienen a 1 °C con un control de humedad que una nevera doméstica no iguala, así que toma el extremo largo con reservas y usa un recipiente abierto o perforado para que escape la condensación. Sin cáliz cambia todo: la baya desnuda es pegajosa, se magulla y dura días, no meses.",
+    "freezer": "Sin cáliz y congelada, la fruta se conserva más de un año; 12 meses a −18 °C (0 °F) es una cifra segura para planificar. Retira los cálices, enjuaga la película pegajosa, seca muy bien las bayas y congélalas en bandeja antes de embolsarlas, o se pegarán en bloque. Van congeladas directas a compotas, mermeladas y salsas.",
+    "thawing": "Descongela en la nevera si necesitas bayas enteras, contando con que se ablandarán. Para cocinar, échalas congeladas a la cazuela: de todos modos se deshacen en salsa.",
+    "spoilage": [
+      "Cáliz húmedo, oscuro o con moho, señal de que la baya también está perdida",
+      "Baya blanda, arrugada o que rezuma",
+      "Olor fermentado o agrio al abrir el cáliz",
+      "Pelusa gris en la fruta o en el cáliz"
+    ],
+    "tips": [
+      "Elige cálices secos, papeleros y color paja, no verdes y húmedos",
+      "Quita el cáliz solo a lo que vayas a comer",
+      "Enjuaga la película pegajosa justo antes de comer, no antes de guardar",
+      "Congela el excedente sin cáliz y en bandeja para mermelada más adelante"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el aguaymanto?", "a": "Seco y con cáliz, de 1 a 2 meses en un lugar fresco y de 2 a 3 meses en la nevera. Sin cáliz y congelado, más de un año."},
+      {"q": "¿Hay que quitar el cáliz antes de guardarlo?", "a": "No. El cáliz es lo que lo conserva; sin él la vida útil baja a días. Quítalo solo a lo que vayas a comer."},
+      {"q": "¿Se puede congelar el aguaymanto?", "a": "Sí. Quita el cáliz, enjuaga, seca bien, congela en bandeja y embolsa. Aguanta más de un año a −18 °C (0 °F)."}
+    ]
+  }
+}

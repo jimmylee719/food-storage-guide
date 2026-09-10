@@ -1,0 +1,107 @@
+{
+  "slug": "durian",
+  "en": {
+    "name": "Durian",
+    "aliases": ["king of fruits", "Musang King", "Monthong", "durio"],
+    "summary": "Durian is the spiny, famously pungent Southeast Asian fruit whose custardy flesh is eaten fresh or frozen. Keep a whole uncut fruit at room temperature for about 2 to 5 days until ripe, refrigerate the opened flesh sealed for 3 to 5 days, and freeze portioned flesh for roughly 3 to 6 months.",
+    "pantry": "A whole, uncut durian belongs at room temperature until it is ripe, and it must be ripened before it goes anywhere near a fridge. Philippine agricultural research recorded pods splitting 8 to 10 days after harvest in tropical ambient conditions, and the fruit eats best before it splits, so plan on opening it within about 2 to 5 days of buying. Keep it somewhere ventilated: a closed kitchen, a car or a hotel room will smell of durian for days.",
+    "fridge": "Refrigerate only once the fruit is ripe, and only the flesh — seal it in an airtight container at 4 °C (40 °F) or below and use it within 3 to 5 days. That figure follows the general handling of cut fruit rather than a durian-specific published number. Durian is also chilling-sensitive: damage appeared within two weeks at 7 °C, so do not park a whole fruit in the fridge for a long stay. The airtight box is not optional, because the aroma will find its way into butter, milk and everything uncovered.",
+    "freezer": "Freezing is how durian is traded internationally, and the texture survives better than most fruit. Remove the seeds, portion the flesh, double-bag it and press out the air; roughly 3 to 6 months at −18 °C (0 °F) is the range used commercially rather than an official figure. Many people prefer it eaten semi-frozen, when it has the texture of ice cream.",
+    "thawing": "Thaw a portion in the fridge, or eat it semi-frozen straight from the freezer, which is how frozen durian is usually served. Do not thaw it on the counter, and do not refreeze thawed flesh.",
+    "spoilage": [
+      "Alcoholic, sour or rancid note over and above the normal pungency",
+      "Flesh gone watery, grey or slack rather than creamy",
+      "Split shell with weeping liquid or visible mould inside",
+      "A fruit that feels light for its size and rattles, meaning it has dried out"
+    ],
+    "tips": [
+      "Ripen it whole at room temperature; never chill a hard durian",
+      "Open it over newspaper and wear gloves — the spines are genuinely sharp",
+      "Double-bag anything you refrigerate or freeze",
+      "Freeze in single-serving portions; you cannot refreeze it"
+    ],
+    "faq": [
+      {"q": "Can you freeze durian?", "a": "Yes, and it is how the fruit is traded worldwide. Deseed, portion and double-bag it for roughly 3 to 6 months, and eat it semi-frozen."},
+      {"q": "How long does opened durian last in the fridge?", "a": "About 3 to 5 days in an airtight container at 4 °C (40 °F) or below. Seal it well or the whole fridge will smell."},
+      {"q": "Should durian be refrigerated?", "a": "Only after it has ripened. A whole hard fruit needs room temperature, and prolonged cold causes chilling damage."}
+    ]
+  },
+  "zh": {
+    "name": "榴槤",
+    "aliases": ["榴蓮", "貓山王", "金枕頭", "durian"],
+    "summary": "榴槤是東南亞那顆帶刺、氣味出名濃烈的水果，綿密的果肉可以新鮮吃也可以冷凍吃。整顆未剖開的請放室溫約 2 到 5 天催熟；剖開的果肉密封冷藏 3 到 5 天；分份冷凍大約 3 到 6 個月。",
+    "pantry": "整顆沒剖開的榴槤該待的地方就是室溫，而且一定要先催熟才能靠近冰箱。菲律賓的農業研究記錄到，在熱帶常溫條件下果實會在採收後 8 到 10 天裂開，而在裂開之前吃最好，所以請打算在買回來 2 到 5 天內剖開。要放在通風處：密閉的廚房、車內或旅館房間會連續好幾天都是榴槤味。",
+    "fridge": "熟了才冷藏，而且只冷藏果肉——裝進密封盒放 4°C 以下，3 到 5 天內吃完。這個數字是比照「切開的水果」的一般處理方式，不是榴槤專屬的公布數據。榴槤也怕冷：在 7°C 下兩週內就出現寒害，所以不要把整顆榴槤長期放冰箱。密封盒不是可有可無的，那個香氣一定會鑽進奶油、牛奶和所有沒蓋好的東西裡。",
+    "freezer": "冷凍正是榴槤國際貿易的形式，而且它的口感比大多數水果更耐凍。去籽、分份、裝雙層袋並擠出空氣；−18°C 下大約 3 到 6 個月是商業上採用的範圍，不是官方數字。很多人偏好半解凍狀態吃，口感像冰淇淋。",
+    "thawing": "取一份放冷藏解凍，或直接從冷凍庫拿出來半解凍吃，冷凍榴槤通常就是這樣上桌的。不要放室溫解凍，解凍過的果肉也不要回凍。",
+    "spoilage": [
+      "在原本的濃烈氣味之外，出現酒味、酸味或油耗味",
+      "果肉不再綿密，變得水水的、發灰或鬆軟",
+      "外殼裂開並滲出液體，或裡面看得到黴",
+      "整顆拿起來輕、搖起來會響，表示已經乾掉"
+    ],
+    "tips": [
+      "整顆放室溫催熟，硬的榴槤絕對不要冰",
+      "墊報紙剖開並戴手套，那些刺是真的會刺傷人",
+      "要冷藏或冷凍的一律裝雙層袋",
+      "按一次吃得完的份量冷凍，因為不能回凍"
+    ],
+    "faq": [
+      {"q": "榴槤可以冷凍嗎？", "a": "可以，這正是它在全球流通的形式。去籽分份裝雙層袋，約 3 到 6 個月，半解凍吃最好。"},
+      {"q": "剖開的榴槤放冰箱可以放多久？", "a": "裝密封盒放 4°C 以下約 3 到 5 天。一定要密封好，不然整個冰箱都會是味道。"},
+      {"q": "榴槤需要冷藏嗎？", "a": "催熟之後才需要。整顆硬的要放室溫，長時間低溫會造成寒害。"}
+    ]
+  },
+  "ja": {
+    "name": "ドリアン",
+    "aliases": ["果物の王様", "モントン", "ムサンキング", "durian"],
+    "summary": "ドリアンはとげに覆われ、強烈な香りで知られる東南アジアの果実で、クリーム状の果肉を生でも冷凍でも食べます。丸ごとは常温で2〜5日ほど置いて追熟させ、開けた果肉は密閉して冷蔵で3〜5日、小分けにして冷凍でおよそ3〜6か月です。",
+    "pantry": "丸ごと切っていないドリアンの居場所は常温で、冷蔵庫に入れる前に必ず追熟させます。フィリピンの農業研究では、熱帯の常温下で収穫から8〜10日で果実が裂けると記録されており、裂ける前が最もおいしいので、購入から2〜5日で開ける前提で考えてください。風通しのよい場所に置くこと。閉め切った台所や車内、ホテルの部屋は何日もドリアンの香りが残ります。",
+    "fridge": "冷蔵は熟してから、しかも果肉だけにします。密閉容器に入れて4℃以下で3〜5日以内に。この数字はカットフルーツ一般の扱いに従ったもので、ドリアン固有の公表値ではありません。ドリアンは低温にも弱く、7℃では2週間以内に障害が現れたと報告されています。丸ごとを長く冷蔵しないでください。密閉は必須で、香りはバターや牛乳、ふたのないものすべてに移ります。",
+    "freezer": "冷凍はドリアンの国際的な流通形態そのもので、多くの果物より食感がよく残ります。種を除いて小分けにし、二重の袋に入れて空気を抜きます。−18℃で3〜6か月は商業的に使われる範囲で、公的な数字ではありません。半解凍でアイスクリームのような食感を楽しむ人が多いです。",
+    "thawing": "1回分を冷蔵庫で解凍するか、冷凍庫から出して半解凍のまま食べます。冷凍ドリアンはたいていその食べ方です。常温解凍と再冷凍は避けてください。",
+    "spoilage": [
+      "本来の強い香りに加えてアルコール臭・酸臭・古い油のにおい",
+      "果肉がクリーム状でなく水っぽい、灰色っぽい、だれている",
+      "殻が裂けて液が出ている、内部にカビが見える",
+      "見た目より軽く、振ると音がする（乾いている）"
+    ],
+    "tips": [
+      "丸ごと常温で追熟させる。硬いうちに冷やさない",
+      "新聞紙を敷き、手袋をして開ける（とげは本当に鋭い）",
+      "冷蔵・冷凍するものは必ず二重に包む",
+      "1回分ずつ冷凍する（再冷凍はできません）"
+    ],
+    "faq": [
+      {"q": "ドリアンは冷凍できますか？", "a": "できます。世界的にも冷凍で流通しています。種を除いて小分けにし二重の袋で3〜6か月、半解凍で食べるのがおすすめです。"},
+      {"q": "開けたドリアンは冷蔵庫でどのくらい持ちますか？", "a": "密閉容器で4℃以下なら3〜5日です。しっかり密閉しないと庫内全体が香ります。"},
+      {"q": "ドリアンは冷蔵が必要ですか？", "a": "追熟してからだけです。硬い丸ごとは常温に置き、長時間の低温は低温障害を招きます。"}
+    ]
+  },
+  "es": {
+    "name": "Durián",
+    "aliases": ["rey de las frutas", "durion", "Musang King", "Monthong"],
+    "summary": "El durián es la fruta espinosa del Sudeste Asiático, célebre por su olor, cuya pulpa cremosa se come fresca o congelada. Mantén la fruta entera a temperatura ambiente unos 2 a 5 días hasta que madure, refrigera la pulpa abierta bien cerrada de 3 a 5 días y congélala en porciones unos 3 a 6 meses.",
+    "pantry": "Un durián entero y sin abrir debe estar a temperatura ambiente hasta madurar, y hay que madurarlo antes de acercarlo a la nevera. La investigación agrícola filipina registró que las cápsulas se abren de 8 a 10 días tras la cosecha en condiciones tropicales, y la fruta está mejor antes de agrietarse, así que cuenta con abrirlo entre 2 y 5 días tras la compra. Déjalo en un sitio ventilado: una cocina cerrada, un coche o una habitación olerán a durián durante días.",
+    "fridge": "Refrigéralo solo ya maduro y solo la pulpa: ciérrala en un recipiente hermético a 4 °C (40 °F) o menos y consúmela en 3 a 5 días. Esa cifra sigue el manejo general de la fruta cortada, no un dato publicado para el durián. Además es sensible al frío: a 7 °C aparecieron daños en dos semanas, así que no dejes una fruta entera mucho tiempo en la nevera. El hermético no es opcional: el aroma acaba en la mantequilla, la leche y todo lo destapado.",
+    "freezer": "La congelación es la forma en que el durián se comercializa internacionalmente, y la textura resiste mejor que la de casi cualquier fruta. Quita las semillas, divide la pulpa en porciones, usa doble bolsa y saca el aire; unos 3 a 6 meses a −18 °C (0 °F) es el rango del comercio, no una cifra oficial. Mucha gente lo prefiere semicongelado, con textura de helado.",
+    "thawing": "Descongela una ración en la nevera, o cómelo semicongelado recién sacado, que es como suele servirse. No lo descongeles en la encimera ni recongeles pulpa descongelada.",
+    "spoilage": [
+      "Nota alcohólica, agria o rancia por encima de su olor habitual",
+      "Pulpa acuosa, grisácea o flácida en lugar de cremosa",
+      "Cáscara abierta que rezuma o moho visible en el interior",
+      "Fruta ligera para su tamaño que suena al agitarla: se ha secado"
+    ],
+    "tips": [
+      "Madúralo entero a temperatura ambiente; nunca enfríes un durián duro",
+      "Ábrelo sobre papel y con guantes: las espinas pinchan de verdad",
+      "Usa doble bolsa para todo lo que refrigeres o congeles",
+      "Congélalo en raciones individuales: no se puede recongelar"
+    ],
+    "faq": [
+      {"q": "¿Se puede congelar el durián?", "a": "Sí, y así se comercializa en todo el mundo. Sin semillas, en porciones y con doble bolsa, unos 3 a 6 meses; cómelo semicongelado."},
+      {"q": "¿Cuánto dura el durián abierto en la nevera?", "a": "Unos 3 a 5 días en recipiente hermético a 4 °C (40 °F) o menos. Ciérralo bien o toda la nevera olerá."},
+      {"q": "¿Hay que refrigerar el durián?", "a": "Solo después de madurar. La fruta entera y dura necesita temperatura ambiente, y el frío prolongado la daña."}
+    ]
+  }
+}

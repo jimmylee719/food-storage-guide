@@ -1,0 +1,107 @@
+{
+  "slug": "abiu",
+  "en": {
+    "name": "Abiu",
+    "aliases": ["abiú", "yellow star apple", "caimito amarillo", "Pouteria caimito"],
+    "summary": "Abiu is a smooth yellow tropical fruit with translucent, jelly-like flesh that tastes of caramel custard. Picked firm, it finishes ripening on the counter in 1 to 5 days, and cool storage holds it for roughly 7 to 14 days — though that figure comes from 10 °C storage, which is warmer than a domestic fridge.",
+    "pantry": "Room temperature is where abiu is meant to ripen. Harvested fruit takes 1 to 5 days to come good, and you can tell it is ready when the skin and pulp stop being sticky with latex. Keep it in a single layer out of direct sun; the skin marks easily and every bruise turns into a soft brown patch.",
+    "fridge": "Chilled at around 10 °C, abiu holds for about 7 to 14 days — but that is cold-room temperature, not the 4 °C (40 °F) of a home fridge, so expect noticeably less in a domestic appliance and check it daily. Refrigerate only fully ripe fruit, loosely bagged in the warmest part of the fridge. Cut flesh browns within minutes, so slice it only when you are ready to eat.",
+    "freezer": "There is no established freezer timeline for abiu, and it is a poor candidate: the jelly-like flesh collapses into liquid on thawing and the delicate caramel aroma does not survive. If you must keep a glut, scoop the pulp, discard the seeds and freeze it for smoothies rather than expecting to eat it as fruit.",
+    "thawing": "If you have frozen the pulp, thaw it in the fridge and use it straight away in a blender or a dessert base. Do not thaw it on the counter and do not refreeze it.",
+    "spoilage": [
+      "Fermented or alcoholic smell instead of the usual caramel scent",
+      "Skin gone brown and wrinkled, with the fruit weeping juice",
+      "Flesh turned watery, grey or slimy rather than translucent",
+      "Any mould around the stem scar or on split skin"
+    ],
+    "tips": [
+      "Buy it firm and yellow, and let it finish ripening at home",
+      "The latex on skin and pulp is the ripeness gauge — sticky means not ready",
+      "Cut it just before serving; the flesh browns almost immediately",
+      "Rub a little oil on your lips and hands before eating to stop latex sticking"
+    ],
+    "faq": [
+      {"q": "How long does abiu last?", "a": "It ripens at room temperature in 1 to 5 days. Cold storage at about 10 °C gives roughly 7 to 14 days; a colder home fridge will give less."},
+      {"q": "Should abiu be refrigerated?", "a": "Only once it is ripe. Unripe fruit needs room temperature to finish, and a very cold fridge is below the range the fruit was studied at."},
+      {"q": "How can you tell if abiu has gone bad?", "a": "Look for a fermented smell, wrinkled leaking skin, or flesh that has turned watery and grey rather than clear."}
+    ]
+  },
+  "zh": {
+    "name": "黃晶果",
+    "aliases": ["黄晶果", "阿比尤果", "加密蛋黃果", "abiu"],
+    "summary": "黃晶果外皮光滑金黃，果肉半透明如果凍，帶焦糖布丁般的香甜。採下時果實偏硬，室溫放 1 到 5 天就會完全成熟；低溫可放約 7 到 14 天，不過這個數字是在 10°C 的冷藏條件下得出的，比一般家用冰箱要暖。",
+    "pantry": "黃晶果本來就是靠室溫催熟的。剛採收的果實要 1 到 5 天才會好吃，判斷的方法是果皮和果肉不再滲出黏黏的乳汁。請單層平放、避免日曬；果皮很容易碰傷，每一處撞擊最後都會變成褐色軟斑。",
+    "fridge": "在 10°C 左右可以放 7 到 14 天，但那是冷藏庫的溫度，不是家用冰箱的 4°C，所以在家裡放通常撐不了那麼久，最好每天檢查。只冷藏完全熟透的果實，鬆鬆裝袋放在冰箱溫度較高的位置。切開後幾分鐘內就會褐化，要吃再切。",
+    "freezer": "黃晶果沒有公認的冷凍期限，而且它並不適合冷凍：果凍狀的果肉解凍後會塌成汁液，細緻的焦糖香氣也留不住。若真的一次收成太多，可以挖出果肉去籽冷凍，當作打果昔的材料，而不要期待解凍後還能當水果吃。",
+    "thawing": "冷凍果肉請放冷藏室解凍，取出後立刻打成果昔或做成甜點基底。不要放室溫退冰，也不要再回凍。",
+    "spoilage": [
+      "原本的焦糖香變成發酵味或酒味",
+      "外皮轉褐、皺縮，果實開始滲汁",
+      "果肉由透明變成水水的、發灰或黏滑",
+      "蒂頭周圍或裂開處長黴"
+    ],
+    "tips": [
+      "挑硬實、轉金黃的果實，回家再放軟",
+      "果皮和果肉上的乳汁就是熟度指標，還會黏手就是還沒熟",
+      "上桌前再切，果肉幾乎立刻就會褐化",
+      "吃之前在嘴唇和手上抹一點油，乳汁就不會黏住"
+    ],
+    "faq": [
+      {"q": "黃晶果可以放多久？", "a": "室溫 1 到 5 天會完全成熟。約 10°C 的低溫下大概 7 到 14 天，家用冰箱更冷，時間會更短。"},
+      {"q": "黃晶果需要冷藏嗎？", "a": "熟了才需要。沒熟的果實要靠室溫催熟，而且太冷的冰箱已經低於研究所採用的溫度範圍。"},
+      {"q": "黃晶果壞掉怎麼看？", "a": "聞到發酵味、外皮皺縮滲汁，或果肉由透明變成水水的灰色，就不要吃了。"}
+    ]
+  },
+  "ja": {
+    "name": "アビウ",
+    "aliases": ["アビュー", "黄晶果", "カニストル近縁種", "abiu"],
+    "summary": "アビウはなめらかな黄色い熱帯果実で、半透明のゼリー状の果肉はキャラメルカスタードのような甘さです。硬い状態で収穫され、常温で1〜5日置くと食べごろになります。低温では7〜14日ほど持ちますが、この数字は10℃での保存によるもので、家庭の冷蔵庫より高めの温度です。",
+    "pantry": "アビウはもともと常温で追熟させる果物です。収穫後1〜5日で食べごろになり、皮と果肉のベタつく乳液が引いたら食べどきです。重ねずに一段で置き、直射日光は避けてください。皮は傷つきやすく、ぶつけた場所は後で茶色い軟らかい斑点になります。",
+    "fridge": "10℃前後なら7〜14日ほど持ちますが、これは業務用冷蔵の温度で、家庭の冷蔵庫の4℃以下とは違います。家庭ではもっと短くなると考え、毎日状態を見てください。冷蔵するのは完熟したものだけにし、袋にゆるく入れて庫内の比較的温度が高い場所へ。切ると数分で褐変するので、食べる直前に切りましょう。",
+    "freezer": "アビウには定まった冷凍の目安がなく、そもそも冷凍向きではありません。ゼリー状の果肉は解凍すると液状に崩れ、繊細なキャラメル香も残りません。たくさん採れたときは種を除いた果肉をスムージー用として冷凍する程度に考えてください。",
+    "thawing": "冷凍した果肉は冷蔵庫で解凍し、すぐにスムージーやデザートのベースに使います。常温での解凍と再冷凍は避けてください。",
+    "spoilage": [
+      "キャラメル様の香りが発酵臭やアルコール臭に変わる",
+      "皮が茶色くしぼみ、果汁がにじみ出る",
+      "果肉が透明感を失い、水っぽく灰色でぬめる",
+      "ヘタ周りや裂けた皮にカビが出る"
+    ],
+    "tips": [
+      "硬めで黄色くなったものを買い、家で追熟させる",
+      "皮や果肉の乳液がベタつくうちはまだ未熟のサイン",
+      "果肉はすぐ褐変するので提供直前に切る",
+      "食べる前に唇と手に少し油を塗ると乳液が付きにくい"
+    ],
+    "faq": [
+      {"q": "アビウはどのくらい日持ちしますか？", "a": "常温で1〜5日で食べごろになります。10℃前後の低温なら7〜14日ほどですが、より冷たい家庭の冷蔵庫では短くなります。"},
+      {"q": "アビウは冷蔵が必要ですか？", "a": "完熟してからで十分です。未熟なものは常温で追熟させる必要があり、冷えすぎる冷蔵庫は想定された温度域より低くなります。"},
+      {"q": "アビウが傷んだかどうかは？", "a": "発酵臭、しぼんで汁が出る皮、透明感を失って灰色に水っぽくなった果肉が目安です。"}
+    ]
+  },
+  "es": {
+    "name": "Abiú",
+    "aliases": ["caimito amarillo", "abiu", "luma", "Pouteria caimito"],
+    "summary": "El abiú es una fruta tropical de piel lisa y amarilla, con pulpa translúcida y gelatinosa que sabe a natillas de caramelo. Se recoge firme y termina de madurar en la encimera en 1 a 5 días; en frío aguanta unos 7 a 14 días, aunque esa cifra corresponde a 10 °C, una temperatura más alta que la de una nevera doméstica.",
+    "pantry": "La temperatura ambiente es justo donde el abiú debe madurar. La fruta recolectada tarda de 1 a 5 días en estar lista, y se sabe que lo está cuando la piel y la pulpa dejan de estar pegajosas por el látex. Colócala en una sola capa y lejos del sol directo: la piel se marca con facilidad y cada golpe acaba en una mancha parda y blanda.",
+    "fridge": "A unos 10 °C el abiú aguanta entre 7 y 14 días, pero esa es temperatura de cámara, no los 4 °C (40 °F) de una nevera doméstica, así que en casa durará bastante menos y conviene revisarlo a diario. Refrigera solo fruta madura, en bolsa floja y en la zona menos fría. La pulpa cortada se oscurece en minutos, así que córtala justo antes de comer.",
+    "freezer": "No existe un plazo establecido de congelación para el abiú, y además es mala candidata: la pulpa gelatinosa se deshace en líquido al descongelarse y el aroma a caramelo no sobrevive. Si tienes exceso de fruta, saca la pulpa, retira las semillas y congélala pensando en batidos, no en comerla como fruta fresca.",
+    "thawing": "Si has congelado la pulpa, descongélala en la nevera y úsala enseguida en la batidora o como base de postre. No la descongeles en la encimera ni la vuelvas a congelar.",
+    "spoilage": [
+      "Olor fermentado o alcohólico en lugar del aroma a caramelo",
+      "Piel parda y arrugada, con la fruta rezumando jugo",
+      "Pulpa acuosa, grisácea o viscosa en vez de translúcida",
+      "Moho alrededor de la cicatriz del pedúnculo o en la piel agrietada"
+    ],
+    "tips": [
+      "Cómpralo firme y amarillo y deja que termine de madurar en casa",
+      "El látex pegajoso de piel y pulpa indica que aún no está listo",
+      "Córtalo justo antes de servir: la pulpa se oxida casi al instante",
+      "Un poco de aceite en labios y manos evita que el látex se pegue"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el abiú?", "a": "Madura a temperatura ambiente en 1 a 5 días. En frío a unos 10 °C aguanta de 7 a 14 días; en una nevera doméstica, más fría, durará menos."},
+      {"q": "¿Hay que refrigerar el abiú?", "a": "Solo cuando está maduro. La fruta verde necesita temperatura ambiente para terminar, y una nevera muy fría queda por debajo del rango estudiado."},
+      {"q": "¿Cómo saber si el abiú está malo?", "a": "Busca olor fermentado, piel arrugada que rezuma o pulpa que ha pasado de translúcida a acuosa y gris."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "breadfruit",
+  "en": {
+    "name": "Breadfruit",
+    "aliases": ["ulu", "fruta del pan", "breadnut relative", "Artocarpus altilis"],
+    "summary": "Breadfruit is a large starchy tropical fruit, sold mature green and cooked much like a potato before it softens and sweetens. At room temperature it softens within 2 to 5 days; a home fridge is actually too cold for it, so expect only 5 to 7 days there, and cooked flesh freezes for roughly 3 to 6 months.",
+    "pantry": "Mature green breadfruit softens and turns yellow-green on the counter within a few days, so plan to cook it within 2 to 5 days of buying. Let the cut stem drain its milky latex over paper before you wash the fruit, and stand it stem-down somewhere cool and airy. Once it starts to give under your thumb it is heading for the sweet, dessert-ripe stage and should be used quickly.",
+    "fridge": "A home fridge is below breadfruit's safe range. Its optimum is a cool room at 12 to 14 °C with high humidity, where it holds up to about 20 days, and chilling injury sets in within a week even at 12 °C — so at 4 °C (40 °F) the skin scalds brown and the fruit keeps only about 5 to 7 days. If your fridge has a warmer produce drawer use that, wrap the fruit to stop it drying, and accept that refrigeration is damage control rather than good storage.",
+    "freezer": "Freeze cooked and cooled flesh rather than the raw whole fruit — boil, steam or roast it, cut it into portions, cool it fully and bag it flat with the air pressed out. About 3 to 6 months at −18 °C (0 °F) is a sensible working range; it is general practice rather than a published breadfruit figure. Frozen breadfruit goes straight into curries, fries and mashes.",
+    "thawing": "Reheat cooked breadfruit straight from frozen in a pan, oven or steamer. If you need it thawed, do it overnight in the fridge, never on the counter.",
+    "spoilage": [
+      "Skin turned soft, black and weeping in patches",
+      "Sour or fermented smell rather than a faint bready sweetness",
+      "Mould at the stem scar or in cracks",
+      "Flesh that has gone grey or slimy when cut"
+    ],
+    "tips": [
+      "Buy it firm and mature green if you want it as a starch, softer if you want it sweet",
+      "Oil the knife and your hands before cutting to stop the latex sticking",
+      "A cool pantry beats the fridge — the cold scalds the skin",
+      "Cook a whole fruit at once and freeze it in portions"
+    ],
+    "faq": [
+      {"q": "Should breadfruit be refrigerated?", "a": "Only as a last resort. Its ideal is 12 to 14 °C; a 4 °C fridge causes chilling injury and browns the skin, giving only about 5 to 7 days."},
+      {"q": "How long does breadfruit last?", "a": "About 2 to 5 days at room temperature before it softens, or up to about 20 days in a cool store at 12 to 14 °C, which a home fridge cannot hold."},
+      {"q": "Can you freeze breadfruit?", "a": "Freeze it cooked and cooled, in portions, for roughly 3 to 6 months. Raw whole fruit does not freeze well."}
+    ]
+  },
+  "zh": {
+    "name": "麵包果",
+    "aliases": ["麵包樹果實", "巴基路", "羅蜜樹果", "ulu"],
+    "summary": "麵包果是大型的澱粉質熱帶果實，通常在青熟階段採收，像馬鈴薯一樣烹調，再往後才會變軟變甜。室溫 2 到 5 天就會軟化；家用冰箱其實對它太冷，只放得住約 5 到 7 天，煮熟的果肉冷凍大約 3 到 6 個月。",
+    "pantry": "青熟的麵包果放在室溫幾天內就會轉黃綠並變軟，所以請打算在買回來 2 到 5 天內煮掉。切口會流出乳白色的汁液，先墊紙讓它流乾再洗，然後蒂頭朝下放在陰涼通風處。一旦按下去會凹，就表示正往甜的「甜點熟度」走，要盡快用掉。",
+    "fridge": "家用冰箱低於麵包果能承受的範圍。它的理想環境是 12 到 14°C、高濕度的涼爽空間，那樣可以放將近 20 天；即使在 12°C，一週內也會開始出現寒害。所以放在 4°C 的冰箱裡，果皮會褐化「凍傷」，大概只放得住 5 到 7 天。如果冰箱有溫度較高的蔬果室就用那裡，並包起來防止乾燥，同時要理解冷藏是止血措施，不是好的保存方式。",
+    "freezer": "請冷凍煮熟放涼的果肉，而不是生的整顆——水煮、蒸或烤過，切成份量，完全放涼後平鋪裝袋擠出空氣。−18°C 下 3 到 6 個月是合理的使用範圍，這是一般做法而非針對麵包果公布的數字。冷凍麵包果可以直接下咖哩、油炸或搗泥。",
+    "thawing": "煮熟的麵包果可以直接用平底鍋、烤箱或蒸鍋加熱，不必解凍。真的需要解凍就放冷藏隔夜，絕對不要放室溫。",
+    "spoilage": [
+      "果皮出現軟塌發黑、滲汁的斑塊",
+      "聞起來發酸或發酵，而不是淡淡的麵包般甜香",
+      "蒂頭或裂縫處長黴",
+      "切開後果肉發灰或黏滑"
+    ],
+    "tips": [
+      "要當澱粉主食就挑硬實青熟的，要吃甜的就挑軟一點的",
+      "切之前在刀子和手上抹油，乳汁才不會黏住",
+      "陰涼的儲藏室比冰箱好，低溫會讓果皮褐變",
+      "一次把整顆煮好，再分份冷凍"
+    ],
+    "faq": [
+      {"q": "麵包果需要冷藏嗎？", "a": "不得已才冷藏。它的理想溫度是 12 到 14°C；4°C 的冰箱會造成寒害、果皮褐化，只能放約 5 到 7 天。"},
+      {"q": "麵包果可以放多久？", "a": "室溫約 2 到 5 天就會軟化；在 12 到 14°C 的涼爽儲藏環境可以放到約 20 天，但家用冰箱做不到那個溫度。"},
+      {"q": "麵包果可以冷凍嗎？", "a": "請煮熟放涼後分份冷凍，大約 3 到 6 個月。生的整顆冷凍效果不好。"}
+    ]
+  },
+  "ja": {
+    "name": "パンノキの実",
+    "aliases": ["ブレッドフルーツ", "パンの木の実", "ウル", "breadfruit"],
+    "summary": "パンノキの実はでんぷん質の大きな熱帯果実で、緑の成熟果のうちにじゃがいものように調理し、その後さらに軟らかく甘くなります。常温では2〜5日で軟化し、家庭の冷蔵庫はむしろ冷えすぎるため5〜7日程度。加熱した果肉なら冷凍でおよそ3〜6か月です。",
+    "pantry": "緑の成熟果は常温で数日のうちに黄緑色になって軟らかくなるので、購入から2〜5日で調理する前提で考えてください。切り口から出る白い乳液を紙の上で流し切ってから洗い、ヘタを下にして涼しく風通しのよい場所に置きます。指で押してへこむようになったら、甘いデザート向きの段階に入っているので早めに使いましょう。",
+    "fridge": "家庭の冷蔵庫はパンノキの実の適温域を下回ります。適温は12〜14℃・高湿度の涼しい環境で、そこなら約20日持ちますが、12℃でも1週間以内に低温障害が始まります。4℃の冷蔵庫では皮が茶色く傷み、5〜7日程度しか持ちません。温度の高い野菜室があればそちらへ、乾燥しないよう包んで入れ、冷蔵は応急処置と割り切ってください。",
+    "freezer": "生のまるごとではなく、加熱して冷ました果肉を冷凍します。ゆでる・蒸す・焼くなどしてから切り分け、完全に冷ましてから袋に平らに入れ空気を抜きます。−18℃で3〜6か月が妥当な範囲で、これは一般的な慣行であり公表値ではありません。凍ったままカレーや揚げ物、マッシュに使えます。",
+    "thawing": "加熱済みのものはフライパン、オーブン、蒸し器で凍ったまま温め直せます。解凍が必要なら冷蔵庫で一晩。常温解凍は避けてください。",
+    "spoilage": [
+      "皮が部分的に軟らかく黒ずみ、汁がにじむ",
+      "ほのかな甘い香りではなく酸臭や発酵臭がする",
+      "ヘタ跡や割れ目のカビ",
+      "切ったときに果肉が灰色っぽい、ぬめる"
+    ],
+    "tips": [
+      "主食にするなら硬い緑の成熟果、甘く食べるならやや軟らかいものを",
+      "切る前に包丁と手に油を塗ると乳液が付きにくい",
+      "冷蔵より涼しい貯蔵庫のほうが向く（冷えると皮が傷む）",
+      "一度にまるごと加熱し、小分けにして冷凍する"
+    ],
+    "faq": [
+      {"q": "パンノキの実は冷蔵が必要ですか？", "a": "最終手段としてのみです。適温は12〜14℃で、4℃の冷蔵庫では低温障害が出て皮が茶色くなり、5〜7日ほどしか持ちません。"},
+      {"q": "パンノキの実はどのくらい持ちますか？", "a": "常温で2〜5日、12〜14℃の涼しい貯蔵なら約20日ですが、その温度は家庭の冷蔵庫では保てません。"},
+      {"q": "パンノキの実は冷凍できますか？", "a": "加熱して冷ました果肉を小分けにして冷凍します。およそ3〜6か月。生のまるごとは冷凍に向きません。"}
+    ]
+  },
+  "es": {
+    "name": "Fruto del pan",
+    "aliases": ["fruta del pan", "árbol del pan", "ulu", "panapén"],
+    "summary": "El fruto del pan es una fruta tropical grande y feculenta que se vende verde madura y se cocina como una patata antes de ablandarse y endulzarse. A temperatura ambiente se ablanda en 2 a 5 días; una nevera doméstica le resulta demasiado fría, así que allí solo aguanta unos 5 a 7 días, y la pulpa cocida se congela unos 3 a 6 meses.",
+    "pantry": "El fruto verde maduro se ablanda y vira a verde amarillento en la encimera en pocos días, así que cuenta con cocinarlo entre 2 y 5 días tras la compra. Deja que el pedúnculo cortado escurra su látex lechoso sobre papel antes de lavarlo y colócalo con el tallo hacia abajo en un lugar fresco y aireado. Cuando empieza a ceder al pulgar entra en su fase dulce de postre y conviene usarlo pronto.",
+    "fridge": "Una nevera doméstica queda por debajo del rango seguro para esta fruta. Su óptimo es una cámara fresca de 12 a 14 °C con humedad alta, donde aguanta hasta unos 20 días, y el daño por frío aparece en una semana incluso a 12 °C; a 4 °C (40 °F) la piel se escalda y se pone parda y la fruta dura solo unos 5 a 7 días. Si tienes un cajón menos frío, úsalo, envuélvela para que no se reseque y asume que refrigerar es contener daños, no conservar bien.",
+    "freezer": "Congela la pulpa cocida y fría, no la fruta cruda entera: hiérvela, cuécela al vapor o ásala, córtala en raciones, enfríala del todo y embólsala plana sin aire. Unos 3 a 6 meses a −18 °C (0 °F) es un rango de trabajo sensato, práctica general y no una cifra publicada. Va congelada directa a currys, frituras y purés.",
+    "thawing": "Recalienta la pulpa cocida directamente congelada en sartén, horno o vaporera. Si necesitas descongelarla, hazlo toda la noche en la nevera, nunca en la encimera.",
+    "spoilage": [
+      "Piel blanda, negra y con zonas que rezuman",
+      "Olor agrio o fermentado en lugar de un dulzor tenue a pan",
+      "Moho en la cicatriz del pedúnculo o en las grietas",
+      "Pulpa grisácea o viscosa al cortarla"
+    ],
+    "tips": [
+      "Cómpralo firme y verde si lo quieres como fécula; más blando si lo quieres dulce",
+      "Aceita el cuchillo y las manos antes de cortarlo para que no se pegue el látex",
+      "Una despensa fresca supera a la nevera: el frío escalda la piel",
+      "Cocina la fruta entera de una vez y congélala en porciones"
+    ],
+    "faq": [
+      {"q": "¿Hay que refrigerar el fruto del pan?", "a": "Solo como último recurso. Su ideal son 12 a 14 °C; a 4 °C sufre daño por frío, se pardea la piel y dura unos 5 a 7 días."},
+      {"q": "¿Cuánto dura el fruto del pan?", "a": "De 2 a 5 días a temperatura ambiente antes de ablandarse, o hasta unos 20 días en cámara a 12–14 °C, temperatura que una nevera no mantiene."},
+      {"q": "¿Se puede congelar el fruto del pan?", "a": "Congélalo cocido y frío, en porciones, unos 3 a 6 meses. Crudo y entero no se congela bien."}
+    ]
+  }
+}

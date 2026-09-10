@@ -1,0 +1,1528 @@
+{
+ "aburaage": {
+  "zh": "豆皮",
+  "ja": "油揚げ"
+ },
+ "achar-oil-pickle": {
+  "zh": "印度醃菜",
+  "ja": "アチャール"
+ },
+ "agar-dried": {
+  "zh": "洋菜",
+  "ja": "かんてん"
+ },
+ "amaranth-greens": {
+  "zh": "莧菜",
+  "ja": "ヒユナ"
+ },
+ "arepas": {
+  "zh": "玉米餅",
+  "ja": "アレパ"
+ },
+ "asafoetida": {
+  "zh": "阿魏",
+  "ja": "アギ"
+ },
+ "atsuage": {
+  "zh": "厚炸豆腐",
+  "ja": "厚揚げ"
+ },
+ "atta-flour": {
+  "zh": "阿塔麵粉",
+  "ja": "アタ"
+ },
+ "baba-ganoush": {
+  "zh": "茄子芝麻醬",
+  "ja": "ババガヌーシュ"
+ },
+ "baby-corn": {
+  "zh": "玉米筍",
+  "ja": "ヤングコーン"
+ },
+ "bacalao-salado": {
+  "zh": "鹹鱈魚",
+  "ja": "塩ダラ"
+ },
+ "baguette": {
+  "zh": "法棍",
+  "ja": "バゲット"
+ },
+ "banana-blossom": {
+  "zh": "香蕉花",
+  "ja": "バナナの花"
+ },
+ "bell-peppers": {
+  "zh": "甜椒",
+  "ja": "ピーマン"
+ },
+ "berbere": {
+  "zh": "衣國辣香料",
+  "ja": "ベルベレ"
+ },
+ "besan-gram-flour": {
+  "zh": "雞豆粉",
+  "ja": "ベサン"
+ },
+ "biltong": {
+  "zh": "南非肉乾",
+  "ja": "ビルトン"
+ },
+ "bitter-melon": {
+  "zh": "苦瓜",
+  "ja": "ゴーヤー"
+ },
+ "black-pudding": {
+  "zh": "血腸",
+  "ja": "血のソーセージ"
+ },
+ "black-vinegar": {
+  "zh": "烏醋",
+  "ja": "ウスターソース風黒酢"
+ },
+ "bluefish": {
+  "zh": "扁鰺",
+  "ja": "あおざかな"
+ },
+ "boerewors": {
+  "zh": "南非香腸",
+  "ja": "ブルボルス"
+ },
+ "bonito-flakes": {
+  "zh": "鰹節",
+  "ja": "削り節"
+ },
+ "boquerones-en-vinagre": {
+  "zh": "白鯷魚",
+  "ja": "ボケロネス"
+ },
+ "bottle-gourd": {
+  "zh": "蒲瓜",
+  "ja": "ユウガオ"
+ },
+ "braised-egg": {
+  "zh": "滷蛋",
+  "ja": "味付け玉子"
+ },
+ "bresaola": {
+  "zh": "風乾牛肉",
+  "ja": "ブレザオラ"
+ },
+ "brie": {
+  "zh": "布里起司",
+  "ja": "ブリー"
+ },
+ "brioche": {
+  "zh": "布里歐",
+  "ja": "バターパン"
+ },
+ "broccoli": {
+  "zh": "青花菜",
+  "ja": "ブロッコリー"
+ },
+ "broccoli-rabe": {
+  "zh": "菜心",
+  "ja": "ブロッコリーラーブ"
+ },
+ "burdock": {
+  "zh": "牛蒡",
+  "ja": "ごぼう"
+ },
+ "burrata": {
+  "zh": "布拉塔",
+  "ja": "ブラータ"
+ },
+ "cabrales": {
+  "zh": "藍紋乳酪",
+  "ja": "カブラレス"
+ },
+ "cajeta": {
+  "zh": "羊奶焦糖醬",
+  "ja": "カヘタ"
+ },
+ "carnitas": {
+  "zh": "油封豬肉",
+  "ja": "カルニータス"
+ },
+ "carrots": {
+  "zh": "紅蘿蔔",
+  "ja": "にんじん"
+ },
+ "cassava-fresh-root": {
+  "zh": "木薯",
+  "ja": "マニオク"
+ },
+ "cassava-frozen": {
+  "zh": "冷凍木薯",
+  "ja": "冷凍キャッサバ"
+ },
+ "catfish": {
+  "zh": "鯰魚",
+  "ja": "なまず"
+ },
+ "cecina": {
+  "zh": "牛肉乾",
+  "ja": "セシーナ"
+ },
+ "century-egg": {
+  "zh": "皮蛋",
+  "ja": "ピータン"
+ },
+ "ceviche": {
+  "zh": "酸漬生魚",
+  "ja": "セビチェ"
+ },
+ "chapati-roti": {
+  "zh": "恰巴提",
+  "ja": "ロティ"
+ },
+ "chayote": {
+  "zh": "梨瓜",
+  "ja": "チャヨテ"
+ },
+ "cheddar-cheese": {
+  "zh": "切達起司",
+  "ja": "チェダーチーズ"
+ },
+ "chicharron": {
+  "zh": "炸豬皮",
+  "ja": "チチャロン"
+ },
+ "chikuwa": {
+  "zh": "竹輪",
+  "ja": "ちくわ"
+ },
+ "chili-crisp": {
+  "zh": "辣椒脆",
+  "ja": "食べるラー油"
+ },
+ "chili-oil": {
+  "zh": "辣油",
+  "ja": "ラー油"
+ },
+ "chinese-yam": {
+  "zh": "山藥",
+  "ja": "ながいも"
+ },
+ "chinkiang-vinegar": {
+  "zh": "香醋",
+  "ja": "チンコウ酢"
+ },
+ "chive-flowers": {
+  "zh": "韭花",
+  "ja": "花ニラ"
+ },
+ "choy-sum": {
+  "zh": "菜心",
+  "ja": "サイシン"
+ },
+ "chutney-fresh-herb": {
+  "zh": "香菜醬",
+  "ja": "フレッシュチャツネ"
+ },
+ "clams-shucked": {
+  "zh": "蛤蜊肉",
+  "ja": "むき身あさり"
+ },
+ "clotted-cream": {
+  "zh": "凝脂奶油",
+  "ja": "凝縮クリーム"
+ },
+ "coconut-cream-fresh": {
+  "zh": "椰漿",
+  "ja": "ココナッツミルク"
+ },
+ "cod": {
+  "zh": "鱈魚",
+  "ja": "たら"
+ },
+ "collard-greens": {
+  "zh": "芥菜葉",
+  "ja": "コラードグリーン"
+ },
+ "comte": {
+  "zh": "康堤",
+  "ja": "コンテ"
+ },
+ "congee": {
+  "zh": "粥",
+  "ja": "お粥"
+ },
+ "cooked-glutinous-rice": {
+  "zh": "油飯",
+  "ja": "おこわ"
+ },
+ "cooked-tapioca-pearls": {
+  "zh": "珍珠",
+  "ja": "タピオカ"
+ },
+ "cooking-sake": {
+  "zh": "清酒",
+  "ja": "りょうりしゅ"
+ },
+ "coppa": {
+  "zh": "卡波克洛",
+  "ja": "コッパ"
+ },
+ "cotija": {
+  "zh": "科蒂哈乳酪",
+  "ja": "コティハ"
+ },
+ "couscous": {
+  "zh": "小米麵",
+  "ja": "クスクス"
+ },
+ "crayfish": {
+  "zh": "小龍蝦",
+  "ja": "ザリガニ"
+ },
+ "crema-mexicana": {
+  "zh": "墨西哥酸奶油",
+  "ja": "クレマ"
+ },
+ "creme-fraiche": {
+  "zh": "酸奶油",
+  "ja": "発酵クリーム"
+ },
+ "croissant": {
+  "zh": "可頌",
+  "ja": "デニッシュ"
+ },
+ "croquetas": {
+  "zh": "可樂餅",
+  "ja": "コロッケ"
+ },
+ "crumpets": {
+  "zh": "克朗佩",
+  "ja": "クランペット"
+ },
+ "cultured-butter": {
+  "zh": "發酵奶油",
+  "ja": "発酵バター"
+ },
+ "curd-dahi": {
+  "zh": "凝乳",
+  "ja": "ダヒ"
+ },
+ "curry-leaves": {
+  "zh": "咖哩葉",
+  "ja": "カレーの葉"
+ },
+ "curry-roux": {
+  "zh": "咖哩塊",
+  "ja": "カレールウ"
+ },
+ "daikon": {
+  "zh": "菜頭",
+  "ja": "だいこん"
+ },
+ "dal-split-pulses": {
+  "zh": "木豆",
+  "ja": "ダル"
+ },
+ "dashi-homemade": {
+  "zh": "出汁",
+  "ja": "だし"
+ },
+ "dashi-packet": {
+  "zh": "柴魚粉",
+  "ja": "顆粒だし"
+ },
+ "doenjang": {
+  "zh": "大醬",
+  "ja": "テンジャン"
+ },
+ "dosa-batter": {
+  "zh": "多薩麵糊",
+  "ja": "ドーサ生地"
+ },
+ "doubanjiang": {
+  "zh": "豆瓣醬",
+  "ja": "トウバンジャン"
+ },
+ "douhua": {
+  "zh": "豆花",
+  "ja": "おぼろ豆腐"
+ },
+ "dried-anchovies": {
+  "zh": "小魚乾",
+  "ja": "煮干し"
+ },
+ "dried-chiles": {
+  "zh": "乾辣椒",
+  "ja": "アンチョ"
+ },
+ "dried-glass-noodles": {
+  "zh": "冬粉",
+  "ja": "はるさめ"
+ },
+ "dried-lily-flower": {
+  "zh": "金針",
+  "ja": "きんしんさい"
+ },
+ "dried-rice-vermicelli": {
+  "zh": "米粉",
+  "ja": "ビーフン"
+ },
+ "dried-scallop": {
+  "zh": "干貝",
+  "ja": "干し貝柱"
+ },
+ "dried-shrimp": {
+  "zh": "蝦米",
+  "ja": "桜えび"
+ },
+ "dried-soba-noodles": {
+  "zh": "蕎麦",
+  "ja": "干しそば"
+ },
+ "dried-tofu": {
+  "zh": "豆干",
+  "ja": "押し豆腐"
+ },
+ "dried-udon-noodles": {
+  "zh": "乾麺",
+  "ja": "ひやむぎ"
+ },
+ "dried-yuba": {
+  "zh": "腐竹",
+  "ja": "ゆば"
+ },
+ "dry-tapioca-pearls": {
+  "zh": "粉圓",
+  "ja": "タピオカ"
+ },
+ "duck-confit": {
+  "zh": "油封鴨",
+  "ja": "コンフィ"
+ },
+ "dulce-de-leche": {
+  "zh": "牛奶焦糖醬",
+  "ja": "ミルクジャム"
+ },
+ "dumpling-wrappers": {
+  "zh": "水餃皮",
+  "ja": "餃子の皮"
+ },
+ "edam": {
+  "zh": "艾丹",
+  "ja": "エダム"
+ },
+ "egusi": {
+  "zh": "瓜籽粉",
+  "ja": "エグシ"
+ },
+ "enoki": {
+  "zh": "金菇",
+  "ja": "えのきたけ"
+ },
+ "epazote": {
+  "zh": "臭杏",
+  "ja": "エパソーテ"
+ },
+ "fava-beans": {
+  "zh": "蠶豆",
+  "ja": "そら豆"
+ },
+ "fermented-bean-curd": {
+  "zh": "腐乳",
+  "ja": "豆腐よう"
+ },
+ "fermented-black-beans": {
+  "zh": "豆豉",
+  "ja": "トウチ"
+ },
+ "feta": {
+  "zh": "菲達起司",
+  "ja": "フェタ"
+ },
+ "filo-pastry": {
+  "zh": "薄酥皮",
+  "ja": "フィロ"
+ },
+ "firm-tofu": {
+  "zh": "板豆腐",
+  "ja": "もめん豆腐"
+ },
+ "fish-balls": {
+  "zh": "魚丸",
+  "ja": "つみれ"
+ },
+ "fish-sauce": {
+  "zh": "魚露",
+  "ja": "ヌクマム"
+ },
+ "flounder": {
+  "zh": "比目魚",
+  "ja": "ひらめ"
+ },
+ "freekeh": {
+  "zh": "青麦",
+  "ja": "フリーカ"
+ },
+ "fresh-ramen-noodles": {
+  "zh": "生麺",
+  "ja": "生めん"
+ },
+ "fresh-rice-noodles": {
+  "zh": "河粉",
+  "ja": "フォー"
+ },
+ "fresh-soba-noodles": {
+  "zh": "蕎麥麵",
+  "ja": "そば"
+ },
+ "fresh-soy-milk": {
+  "zh": "豆漿",
+  "ja": "とうにゅう"
+ },
+ "fresh-turmeric": {
+  "zh": "薑黃",
+  "ja": "ウコン"
+ },
+ "fresh-udon-noodles": {
+  "zh": "烏龍麵",
+  "ja": "うどん"
+ },
+ "fried-tofu-puffs": {
+  "zh": "豆卜",
+  "ja": "厚揚げ"
+ },
+ "frozen-dumplings": {
+  "zh": "水餃",
+  "ja": "冷凍ぎょうざ"
+ },
+ "frozen-tangyuan": {
+  "zh": "湯圓",
+  "ja": "だんご"
+ },
+ "fufu-flour": {
+  "zh": "富富粉",
+  "ja": "フフ粉"
+ },
+ "fuzzy-melon": {
+  "zh": "毛瓜",
+  "ja": "毛瓜（けがうり）"
+ },
+ "gai-lan": {
+  "zh": "芥藍",
+  "ja": "カイラン"
+ },
+ "garland-chrysanthemum": {
+  "zh": "茼蒿",
+  "ja": "シュンギク"
+ },
+ "garlic-chives": {
+  "zh": "韭菜",
+  "ja": "ニラ"
+ },
+ "gazpacho": {
+  "zh": "番茄冷湯",
+  "ja": "ガスパチョ"
+ },
+ "ghee-rice": {
+  "zh": "抓飯",
+  "ja": "プラオ"
+ },
+ "gherkins-fermented": {
+  "zh": "酸黃瓜",
+  "ja": "発酵ピクルス"
+ },
+ "gherkins-pickled": {
+  "zh": "酸黃瓜",
+  "ja": "ガーキン"
+ },
+ "glutinous-rice": {
+  "zh": "糯米",
+  "ja": "もち米"
+ },
+ "goat-cheese": {
+  "zh": "山羊起司",
+  "ja": "シェーブル"
+ },
+ "gochugaru": {
+  "zh": "粗辣椒粉",
+  "ja": "コチュカル"
+ },
+ "gochujang": {
+  "zh": "苦椒醬",
+  "ja": "コチュジャン"
+ },
+ "gorgonzola": {
+  "zh": "古岡左拉",
+  "ja": "ブルーチーズ"
+ },
+ "gouda": {
+  "zh": "高達",
+  "ja": "ゴーダ"
+ },
+ "grass-jelly": {
+  "zh": "仙草",
+  "ja": "仙草ゼリー"
+ },
+ "green-beans": {
+  "zh": "敏豆",
+  "ja": "いんげん"
+ },
+ "habanero-pepper-fresh": {
+  "zh": "哈瓦那辣椒",
+  "ja": "ハバネロ"
+ },
+ "haddock": {
+  "zh": "黑線鱈",
+  "ja": "ハドック"
+ },
+ "haggis": {
+  "zh": "哈吉斯",
+  "ja": "ハギス"
+ },
+ "halibut": {
+  "zh": "大比目魚",
+  "ja": "おひょう"
+ },
+ "halloumi": {
+  "zh": "鹽水起司",
+  "ja": "ハルーミ"
+ },
+ "halva": {
+  "zh": "哈爾瓦",
+  "ja": "ハルワ"
+ },
+ "harissa": {
+  "zh": "北非辣醬",
+  "ja": "ハリサ"
+ },
+ "hijiki-dried": {
+  "zh": "羊栖菜",
+  "ja": "ひじき"
+ },
+ "horchata": {
+  "zh": "米漿",
+  "ja": "オルチャータ"
+ },
+ "huitlacoche": {
+  "zh": "玉米黑穗菌",
+  "ja": "ウイトラコチェ"
+ },
+ "iceberg-lettuce": {
+  "zh": "美生菜",
+  "ja": "レタス"
+ },
+ "idli-batter": {
+  "zh": "印度米豆糊",
+  "ja": "イドリ生地"
+ },
+ "ikura": {
+  "zh": "筋子",
+  "ja": "いくら"
+ },
+ "injera": {
+  "zh": "因傑拉",
+  "ja": "インジェラ"
+ },
+ "instant-noodles": {
+  "zh": "泡麵",
+  "ja": "袋めん"
+ },
+ "jaboticaba": {
+  "zh": "嘉寶果",
+  "ja": "ジャボチカバ"
+ },
+ "jackfruit": {
+  "zh": "波羅蜜",
+  "ja": "パラミツ"
+ },
+ "jaggery": {
+  "zh": "黑糖塊",
+  "ja": "グル"
+ },
+ "jalapeno-pepper-fresh": {
+  "zh": "墨西哥辣椒",
+  "ja": "ハラペニョ"
+ },
+ "jamon-iberico": {
+  "zh": "黑蹄火腿",
+  "ja": "ベジョータ"
+ },
+ "jamon-serrano-sliced": {
+  "zh": "生火腿切片",
+  "ja": "生ハムスライス"
+ },
+ "jamon-serrano-whole-leg": {
+  "zh": "整隻火腿",
+  "ja": "生ハム"
+ },
+ "jujube-dried": {
+  "zh": "紅棗",
+  "ja": "なつめ"
+ },
+ "june-plum": {
+  "zh": "沙梨橄欖",
+  "ja": "アンバレラ"
+ },
+ "kamaboko": {
+  "zh": "蒲鉾",
+  "ja": "かまぼこ"
+ },
+ "kashk": {
+  "zh": "卡什克",
+  "ja": "カシュク"
+ },
+ "khoya": {
+  "zh": "馬瓦",
+  "ja": "コヤ"
+ },
+ "king-oyster-mushroom": {
+  "zh": "杏鮑菇",
+  "ja": "エリンギ"
+ },
+ "kiriboshi-daikon": {
+  "zh": "菜脯",
+  "ja": "切り干し大根"
+ },
+ "kirimochi": {
+  "zh": "角餅",
+  "ja": "切り餅"
+ },
+ "kombu": {
+  "zh": "昆布",
+  "ja": "こんぶ"
+ },
+ "labneh": {
+  "zh": "拉布內",
+  "ja": "ラブネ"
+ },
+ "laksa-paste": {
+  "zh": "叻沙醬",
+  "ja": "ラクサの素"
+ },
+ "langsat": {
+  "zh": "蘭撒果",
+  "ja": "ランサ"
+ },
+ "lard": {
+  "zh": "豬油",
+  "ja": "ラード"
+ },
+ "lassi": {
+  "zh": "拉西",
+  "ja": "ラッシー"
+ },
+ "leaf-lettuce": {
+  "zh": "葉萵苣",
+  "ja": "リーフレタス"
+ },
+ "lemons": {
+  "zh": "檸檬",
+  "ja": "レモン"
+ },
+ "lima-beans": {
+  "zh": "皇帝豆",
+  "ja": "ライマメ"
+ },
+ "limes": {
+  "zh": "萊姆",
+  "ja": "ライム"
+ },
+ "liver": {
+  "zh": "肝",
+  "ja": "レバー"
+ },
+ "lomo-embuchado": {
+  "zh": "風乾豬里肌",
+  "ja": "豚ロースの生ハム"
+ },
+ "long-bean": {
+  "zh": "豇豆",
+  "ja": "長ささげ"
+ },
+ "longan": {
+  "zh": "龍眼"
+ },
+ "longan-dried": {
+  "zh": "桂圓",
+  "ja": "干し龍眼"
+ },
+ "loquat": {
+  "zh": "枇杷"
+ },
+ "lotus-root": {
+  "zh": "藕",
+  "ja": "れんこん"
+ },
+ "lucuma": {
+  "zh": "仙桃",
+  "ja": "ルクマ"
+ },
+ "luffa": {
+  "zh": "絲瓜",
+  "ja": "ヘチマ"
+ },
+ "lulo": {
+  "zh": "奎東茄",
+  "ja": "ナランヒージャ"
+ },
+ "lychee": {
+  "zh": "荔枝",
+  "ja": "ライチ"
+ },
+ "mackerel": {
+  "zh": "鯖魚",
+  "ja": "さば"
+ },
+ "maitake": {
+  "zh": "舞菇",
+  "ja": "まいたけ"
+ },
+ "malabar-spinach": {
+  "zh": "落葵",
+  "ja": "ツルムラサキ"
+ },
+ "malanga": {
+  "zh": "芋頭",
+  "ja": "タロイモ"
+ },
+ "mamey-sapote": {
+  "zh": "瑪米果",
+  "ja": "マメイサポテ"
+ },
+ "mamoncillo": {
+  "zh": "番龍眼",
+  "ja": "マモンシージョ"
+ },
+ "manchego": {
+  "zh": "羊奶乳酪",
+  "ja": "マンチェゴ"
+ },
+ "mango": {
+  "zh": "芒果",
+  "ja": "マンゴー"
+ },
+ "mangosteen": {
+  "zh": "山竹",
+  "ja": "マンゴスチン"
+ },
+ "mantou": {
+  "zh": "饅頭",
+  "ja": "マントウ"
+ },
+ "marang": {
+  "zh": "馬蘭果",
+  "ja": "マラン"
+ },
+ "marzipan": {
+  "zh": "杏仁膏",
+  "ja": "マジパン"
+ },
+ "masa-fresca": {
+  "zh": "濕玉米麵團",
+  "ja": "生マサ"
+ },
+ "masa-harina": {
+  "zh": "馬薩玉米粉",
+  "ja": "マサ粉"
+ },
+ "mascarpone": {
+  "zh": "馬斯卡彭",
+  "ja": "マスカルポーネ"
+ },
+ "matsutake": {
+  "zh": "松茸",
+  "ja": "まつたけ"
+ },
+ "medlar": {
+  "zh": "歐楂",
+  "ja": "メドラー"
+ },
+ "membrillo": {
+  "zh": "榲桲膏",
+  "ja": "メンブリージョ"
+ },
+ "mentaiko": {
+  "zh": "明太子",
+  "ja": "たらこ"
+ },
+ "mentsuyu": {
+  "zh": "麵味露",
+  "ja": "つゆ"
+ },
+ "mirin": {
+  "zh": "味醂",
+  "ja": "みりん"
+ },
+ "mochi": {
+  "zh": "餅",
+  "ja": "のし餅"
+ },
+ "mole-paste": {
+  "zh": "摩爾醬",
+  "ja": "モーレ"
+ },
+ "monk-fruit-dried": {
+  "zh": "羅漢果",
+  "ja": "ラカンカ"
+ },
+ "morcilla": {
+  "zh": "血腸",
+  "ja": "モルシージャ"
+ },
+ "mortadella": {
+  "zh": "摩德代拉",
+  "ja": "モルタデラ"
+ },
+ "mountain-apple": {
+  "zh": "山蒲桃",
+  "ja": "ヤマフトモモ"
+ },
+ "mozzarella-drained": {
+  "zh": "披薩起司",
+  "ja": "ドライモッツァレラ"
+ },
+ "mozzarella-in-brine": {
+  "zh": "水牛乳酪",
+  "ja": "モッツァレラ"
+ },
+ "mulberry": {
+  "zh": "桑葚",
+  "ja": "クワの実"
+ },
+ "mullet": {
+  "zh": "烏魚",
+  "ja": "ぼら"
+ },
+ "mullet-roe": {
+  "zh": "唐墨",
+  "ja": "からすみ"
+ },
+ "mussels-shucked": {
+  "zh": "淡菜肉",
+  "ja": "むき身ムール貝"
+ },
+ "naan": {
+  "zh": "饢",
+  "ja": "ナン"
+ },
+ "name-tropical-yam": {
+  "zh": "山藥",
+  "ja": "ヤム芋"
+ },
+ "nameko": {
+  "zh": "滑菇",
+  "ja": "なめこ"
+ },
+ "napa-cabbage": {
+  "zh": "白菜",
+  "ja": "はくさい"
+ },
+ "natto": {
+  "zh": "納豆",
+  "ja": "なっとう"
+ },
+ "nectarines": {
+  "zh": "油桃",
+  "ja": "ネクタリン"
+ },
+ "nopales": {
+  "zh": "仙人掌葉",
+  "ja": "ノパル"
+ },
+ "nori": {
+  "zh": "海苔",
+  "ja": "のり"
+ },
+ "nougat": {
+  "zh": "牛軋糖",
+  "ja": "ヌガー"
+ },
+ "ocean-perch": {
+  "zh": "赤鮭",
+  "ja": "あかうお"
+ },
+ "onigiri": {
+  "zh": "飯糰",
+  "ja": "握り飯"
+ },
+ "onions": {
+  "zh": "洋蔥",
+  "ja": "たまねぎ"
+ },
+ "oranges": {
+  "zh": "柳橙",
+  "ja": "オレンジ"
+ },
+ "oysters-shucked": {
+  "zh": "蚵仔",
+  "ja": "むき身かき"
+ },
+ "paella-leftovers": {
+  "zh": "剩飯",
+  "ja": "パエリア"
+ },
+ "palm-oil": {
+  "zh": "棕油",
+  "ja": "パーム油"
+ },
+ "pandan-leaves": {
+  "zh": "班蘭",
+  "ja": "パンダン"
+ },
+ "paneer": {
+  "zh": "印度起司",
+  "ja": "パニル"
+ },
+ "panela-piloncillo": {
+  "zh": "黑糖磚",
+  "ja": "パネラ"
+ },
+ "panettone": {
+  "zh": "潘娜朵尼",
+  "ja": "パネトーネ"
+ },
+ "papad": {
+  "zh": "帕帕德",
+  "ja": "パパド"
+ },
+ "papaya": {
+  "zh": "木瓜",
+  "ja": "パパイヤ"
+ },
+ "paratha-frozen": {
+  "zh": "拉餅",
+  "ja": "パラタ"
+ },
+ "parmesan-block": {
+  "zh": "帕瑪森起司",
+  "ja": "パルメザンチーズ"
+ },
+ "parsnips": {
+  "zh": "歐防風",
+  "ja": "パースニップ"
+ },
+ "passionfruit": {
+  "zh": "百香果",
+  "ja": "パッションフルーツ"
+ },
+ "pea-shoots": {
+  "zh": "豆苗",
+  "ja": "とうみょう"
+ },
+ "peaches": {
+  "zh": "桃",
+  "ja": "もも"
+ },
+ "pears": {
+  "zh": "梨",
+  "ja": "洋なし"
+ },
+ "perilla-leaves": {
+  "zh": "紫蘇",
+  "ja": "しそ"
+ },
+ "persimmon": {
+  "zh": "柿子"
+ },
+ "persimmon-dried": {
+  "zh": "柿餅",
+  "ja": "干し柿"
+ },
+ "pickled-ginger": {
+  "zh": "醃薑",
+  "ja": "がり"
+ },
+ "pickled-herring": {
+  "zh": "醃鯡魚",
+  "ja": "マチェス"
+ },
+ "pitanga": {
+  "zh": "巴西櫻桃",
+  "ja": "ピタンガ"
+ },
+ "plantain-flour": {
+  "zh": "大蕉粉",
+  "ja": "プランテン粉"
+ },
+ "plum-sauce": {
+  "zh": "蘇梅醬",
+  "ja": "梅ソース"
+ },
+ "plums": {
+  "zh": "梅",
+  "ja": "プラム"
+ },
+ "poblano-pepper-fresh": {
+  "zh": "波布拉諾椒",
+  "ja": "ポブラノ"
+ },
+ "poha": {
+  "zh": "扁米",
+  "ja": "ポハ"
+ },
+ "pollock": {
+  "zh": "狹鱈",
+  "ja": "すけとうだら"
+ },
+ "pomegranate-molasses": {
+  "zh": "石榴醬",
+  "ja": "ザクロ糖蜜"
+ },
+ "pomelo": {
+  "zh": "柚子"
+ },
+ "ponzu": {
+  "zh": "橙醋",
+  "ja": "ポン酢"
+ },
+ "pork-floss": {
+  "zh": "肉鬆",
+  "ja": "でんぶ"
+ },
+ "pork-meatballs-gongwan": {
+  "zh": "貢丸",
+  "ja": "豚肉だんご"
+ },
+ "preserved-lemons": {
+  "zh": "醃檸檬",
+  "ja": "塩レモン"
+ },
+ "preserved-mustard-greens": {
+  "zh": "福菜",
+  "ja": "干し高菜漬け"
+ },
+ "pretzel-soft-fresh": {
+  "zh": "布雷結",
+  "ja": "プレッツェル"
+ },
+ "pulasan": {
+  "zh": "韶子",
+  "ja": "プラサン"
+ },
+ "pulpo-cooked": {
+  "zh": "章魚",
+  "ja": "タコ"
+ },
+ "queso-fresco": {
+  "zh": "白乳酪",
+  "ja": "ケソフレスコ"
+ },
+ "queso-oaxaca": {
+  "zh": "瓦哈卡乳酪",
+  "ja": "ケシージョ"
+ },
+ "quince": {
+  "zh": "榲桲",
+  "ja": "マルメロ"
+ },
+ "raclette": {
+  "zh": "拉可雷特",
+  "ja": "ラクレット"
+ },
+ "rambutan": {
+  "zh": "紅毛丹",
+  "ja": "ランブータン"
+ },
+ "rasgulla": {
+  "zh": "印度奶球",
+  "ja": "ラスグッラ"
+ },
+ "rendang-paste": {
+  "zh": "仁當醬",
+  "ja": "ルンダンの素"
+ },
+ "rice-vinegar": {
+  "zh": "米醋",
+  "ja": "こめず"
+ },
+ "rice-wine-cooking": {
+  "zh": "米酒",
+  "ja": "ライスワイン"
+ },
+ "rillettes": {
+  "zh": "法式肉醬",
+  "ja": "リエット"
+ },
+ "rockfish": {
+  "zh": "石斑",
+  "ja": "めばる"
+ },
+ "rollinia": {
+  "zh": "巴西釋迦",
+  "ja": "ビリバ"
+ },
+ "romaine-lettuce": {
+  "zh": "蘿蔓",
+  "ja": "ロメインレタス"
+ },
+ "roquefort": {
+  "zh": "洛克福",
+  "ja": "青カビチーズ"
+ },
+ "rye-bread": {
+  "zh": "裸麥麵包",
+  "ja": "黒パン"
+ },
+ "salak": {
+  "zh": "沙叻",
+  "ja": "サラク"
+ },
+ "salchichon": {
+  "zh": "薩奇瓊",
+  "ja": "サルチチョン"
+ },
+ "salmon": {
+  "zh": "鮭魚",
+  "ja": "さけ"
+ },
+ "salmorejo": {
+  "zh": "濃稠番茄冷湯",
+  "ja": "サルモレホ"
+ },
+ "salted-duck-egg": {
+  "zh": "鹹蛋",
+  "ja": "塩漬け卵"
+ },
+ "salted-duck-egg-yolk": {
+  "zh": "鹹蛋黃",
+  "ja": "塩漬け卵黄"
+ },
+ "salted-fish": {
+  "zh": "鹹魚",
+  "ja": "塩干し魚"
+ },
+ "santol": {
+  "zh": "山陀兒",
+  "ja": "サントール"
+ },
+ "sapodilla": {
+  "zh": "人心果",
+  "ja": "サポジラ"
+ },
+ "sapote": {
+  "zh": "人心果",
+  "ja": "サポテ"
+ },
+ "saucisson-sec-sliced": {
+  "zh": "乾香腸切片",
+  "ja": "サラミスライス"
+ },
+ "saucisson-sec-whole": {
+  "zh": "法式乾腸",
+  "ja": "ソーシソン"
+ },
+ "sauerkraut-fresh": {
+  "zh": "生酸菜",
+  "ja": "発酵キャベツ"
+ },
+ "sauerkraut-jarred": {
+  "zh": "罐裝酸菜",
+  "ja": "缶詰ザワークラウト"
+ },
+ "sea-buckthorn": {
+  "zh": "沙棘",
+  "ja": "サジー"
+ },
+ "sea-trout": {
+  "zh": "海鱒",
+  "ja": "うみます"
+ },
+ "sea-urchin-roe": {
+  "zh": "海膽",
+  "ja": "うに"
+ },
+ "seitan": {
+  "zh": "麵筋",
+  "ja": "セイタン"
+ },
+ "semolina-sooji": {
+  "zh": "蘇吉粉",
+  "ja": "セモリナ"
+ },
+ "shacha-sauce": {
+  "zh": "沙茶",
+  "ja": "サーチャジャン"
+ },
+ "shiitake-dried": {
+  "zh": "冬菇",
+  "ja": "干し椎茸"
+ },
+ "shiitake-fresh": {
+  "zh": "香菇",
+  "ja": "しいたけ"
+ },
+ "shimeji": {
+  "zh": "本菇",
+  "ja": "シメジ"
+ },
+ "shrimp": {
+  "zh": "蝦",
+  "ja": "えび"
+ },
+ "shrimp-paste": {
+  "zh": "蝦醬",
+  "ja": "テラシ"
+ },
+ "silken-tofu": {
+  "zh": "嫩豆腐",
+  "ja": "絹ごし豆腐"
+ },
+ "skyr": {
+  "zh": "斯基爾",
+  "ja": "スキル"
+ },
+ "snow-peas": {
+  "zh": "豌豆莢",
+  "ja": "さやえんどう"
+ },
+ "sobrasada": {
+  "zh": "紅椒豬肉抹醬",
+  "ja": "ソブラサーダ"
+ },
+ "sole": {
+  "zh": "鰈魚",
+  "ja": "したびらめ"
+ },
+ "sourdough-bread": {
+  "zh": "酸種麵包",
+  "ja": "サワードウ"
+ },
+ "soursop": {
+  "zh": "紅毛榴槤",
+  "ja": "サワーソップ"
+ },
+ "soybean-sprouts": {
+  "zh": "黃豆芽",
+  "ja": "豆もやし"
+ },
+ "speck": {
+  "zh": "煙燻火腿",
+  "ja": "スペック"
+ },
+ "spinach": {
+  "zh": "菠菜",
+  "ja": "ほうれん草"
+ },
+ "spring-roll-wrappers": {
+  "zh": "春捲皮",
+  "ja": "春巻きの皮"
+ },
+ "ssamjang": {
+  "zh": "包飯醬",
+  "ja": "サムジャン"
+ },
+ "star-apple": {
+  "zh": "金星果",
+  "ja": "カイミト"
+ },
+ "steamed-buns-baozi": {
+  "zh": "包子",
+  "ja": "肉まん"
+ },
+ "stilton": {
+  "zh": "斯蒂爾頓",
+  "ja": "スティルトン"
+ },
+ "stinky-tofu": {
+  "zh": "臭豆腐",
+  "ja": "チョウドウフ"
+ },
+ "stollen": {
+  "zh": "史多倫",
+  "ja": "シュトレン"
+ },
+ "straw-mushroom": {
+  "zh": "草菇",
+  "ja": "フクロタケ"
+ },
+ "sugar-apple": {
+  "zh": "釋迦"
+ },
+ "sugar-snap-peas": {
+  "zh": "甜豆",
+  "ja": "スナップえんどう"
+ },
+ "sumac": {
+  "zh": "蘇馬克",
+  "ja": "スマック"
+ },
+ "summer-squash": {
+  "zh": "夏南瓜",
+  "ja": "ズッキーニ"
+ },
+ "sushi-rice-cooked": {
+  "zh": "酢飯",
+  "ja": "すし飯"
+ },
+ "sushi-sashimi-prepared": {
+  "zh": "寿司",
+  "ja": "にぎり寿司"
+ },
+ "suya-spice": {
+  "zh": "蘇亞香料",
+  "ja": "ヤジ"
+ },
+ "sweet-bean-sauce": {
+  "zh": "甜麵醬",
+  "ja": "テンメンジャン"
+ },
+ "sweet-chili-sauce": {
+  "zh": "雞醬",
+  "ja": "甘辛ソース"
+ },
+ "sweet-potato-leaves": {
+  "zh": "地瓜葉",
+  "ja": "かんしょの葉"
+ },
+ "swiss-cheese": {
+  "zh": "瑞士起司",
+  "ja": "スイスチーズ"
+ },
+ "takuan": {
+  "zh": "沢庵",
+  "ja": "たくあん"
+ },
+ "tamales": {
+  "zh": "玉米粽",
+  "ja": "タマル"
+ },
+ "tamarillo": {
+  "zh": "樹番茄",
+  "ja": "タマリロ"
+ },
+ "tandoori-paste": {
+  "zh": "提卡醬",
+  "ja": "タンドリーマサラ"
+ },
+ "tangerines": {
+  "zh": "橘子",
+  "ja": "みかん"
+ },
+ "taro-leaves": {
+  "zh": "芋葉",
+  "ja": "タロイモの葉"
+ },
+ "tea-egg": {
+  "zh": "茶蛋"
+ },
+ "terrine": {
+  "zh": "法式肉凍",
+  "ja": "テリーヌ"
+ },
+ "thai-eggplant": {
+  "zh": "泰國茄子",
+  "ja": "タイナス"
+ },
+ "tomatillo": {
+  "zh": "綠番茄",
+  "ja": "トマティーヨ"
+ },
+ "tongue": {
+  "zh": "舌",
+  "ja": "たん"
+ },
+ "tortilla-de-patatas": {
+  "zh": "西班牙烘蛋",
+  "ja": "スペイン風オムレツ"
+ },
+ "tortillas-corn-fresh": {
+  "zh": "玉米餅",
+  "ja": "トルティーヤ"
+ },
+ "truffle-fresh": {
+  "zh": "松露",
+  "ja": "トリュフ"
+ },
+ "truffle-oil": {
+  "zh": "松露油",
+  "ja": "トリュフオイル"
+ },
+ "tsukemono": {
+  "zh": "漬物",
+  "ja": "浅漬け"
+ },
+ "tteok-rice-cake": {
+  "zh": "年糕",
+  "ja": "トック"
+ },
+ "tuna-fresh": {
+  "zh": "鮪魚",
+  "ja": "ツナ"
+ },
+ "turron": {
+  "zh": "杜隆糖",
+  "ja": "トゥロン"
+ },
+ "umeboshi": {
+  "zh": "話梅",
+  "ja": "梅干し"
+ },
+ "wakame-dried": {
+  "zh": "裙帶菜",
+  "ja": "わかめ"
+ },
+ "water-bamboo": {
+  "zh": "茭白筍",
+  "ja": "マコモタケ"
+ },
+ "water-chestnut": {
+  "zh": "水栗",
+  "ja": "シログワイ"
+ },
+ "water-spinach": {
+  "zh": "蕹菜",
+  "ja": "エンサイ"
+ },
+ "wax-apple": {
+  "zh": "蓮霧",
+  "ja": "レンブ"
+ },
+ "wax-beans": {
+  "zh": "黃四季豆",
+  "ja": "黄いんげん"
+ },
+ "white-fungus": {
+  "zh": "銀耳",
+  "ja": "白きくらげ"
+ },
+ "white-sapote": {
+  "zh": "白柿",
+  "ja": "ホワイトサポテ"
+ },
+ "winged-bean": {
+  "zh": "翼豆",
+  "ja": "シカクマメ"
+ },
+ "winter-melon": {
+  "zh": "冬瓜",
+  "ja": "トウガン"
+ },
+ "wonton-wrappers": {
+  "zh": "餛飩皮",
+  "ja": "雲呑の皮"
+ },
+ "wood-ear-dried": {
+  "zh": "木耳",
+  "ja": "きくらげ"
+ },
+ "wood-ear-fresh": {
+  "zh": "鮮木耳",
+  "ja": "生きくらげ"
+ },
+ "xo-sauce": {
+  "zh": "XO醬",
+  "ja": "XOジャン"
+ },
+ "yerba-mate": {
+  "zh": "馬黛茶",
+  "ja": "マテ茶"
+ },
+ "zaatar": {
+  "zh": "扎塔香料",
+  "ja": "ザータル"
+ },
+ "zha-cai": {
+  "zh": "榨菜",
+  "ja": "ザーサイ"
+ },
+ "zongzi": {
+  "zh": "粽子",
+  "ja": "ちまき"
+ }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "boysenberries",
+  "en": {
+    "name": "Boysenberries",
+    "aliases": ["boysenberry", "loganberry cross", "bramble hybrid", "baya de Boysen"],
+    "summary": "The boysenberry is a large, dark, soft bramble hybrid of blackberry, raspberry and loganberry, and it is even more delicate than its parents. Refrigerated it keeps about 3 to 6 days from purchase, and it freezes for a full 12 months.",
+    "pantry": "Boysenberries are too soft and too juicy for room-temperature storage. Within a day on the counter they slump, weep and start to ferment, and warm fruit moulds quickly. Refrigerate them as soon as you get home, and if you are picking your own, take a shallow tray to the bushes rather than a deep bucket.",
+    "fridge": "Keep them at 4 °C (40 °F) or below and eat them within about 3 to 6 days of purchase. Store unwashed in a shallow, vented container, no more than two berries deep, on a sheet of kitchen paper to catch juice. Their large size and thin skin mean they crush under their own weight faster than blackberries do, so never tip them into a deep bowl to store.",
+    "freezer": "Freezing is the best way to keep a boysenberry crop, and they hold good quality for 12 months at −18 °C (0 °F). Rinse gently, dry well, freeze in a single layer on a lined tray and then bag them with the air pressed out. They are excellent frozen for pies, jam and coulis; the texture is soft on thawing, which matters little once cooked.",
+    "thawing": "Cook them from frozen for pies, sauces and jam. If you need them thawed, put them on a plate in the fridge and use the juice that runs out — do not drain it away, that is where the flavour goes.",
+    "spoilage": [
+      "Fuzzy grey or white mould on any berry",
+      "Berries collapsed into juice at the bottom of the container",
+      "Winey, fermented or sour smell",
+      "Fruit that has gone dull and slimy rather than glossy"
+    ],
+    "tips": [
+      "Store no more than two berries deep; they crush under their own weight",
+      "Freeze the same day you pick or buy — this is not a keeping fruit",
+      "Do not wash until you are ready to eat or cook",
+      "Keep the juice from thawed fruit; it carries most of the flavour"
+    ],
+    "faq": [
+      {"q": "How long do boysenberries last in the fridge?", "a": "About 3 to 6 days from purchase at 4 °C (40 °F) or below, unwashed and stored no more than two berries deep."},
+      {"q": "Can you freeze boysenberries?", "a": "Yes, and it is the best way to keep them: 12 months at −18 °C (0 °F). Tray-freeze first, then bag."},
+      {"q": "How can you tell if boysenberries have gone bad?", "a": "Look for fuzzy mould, berries collapsed into juice, or a fermented winey smell. One mouldy berry spoils the rest quickly."}
+    ]
+  },
+  "zh": {
+    "name": "波森莓",
+    "aliases": ["boysenberry", "羅甘莓雜交種", "黑莓覆盆子雜交", "波生莓"],
+    "summary": "波森莓是黑莓、覆盆子與羅甘莓的大型深色雜交果，比它的親本更嬌嫩。冷藏從購買日起約可放 3 到 6 天，冷凍則有完整的 12 個月。",
+    "pantry": "波森莓太軟、太多汁，不適合常溫保存。放在室溫一天內就會塌陷出水並開始發酵，回過溫的果實也很快發黴。買回家請立刻冷藏；自己採果的話請帶淺盤去，而不是深桶。",
+    "fridge": "放 4°C 以下，從購買日起約 3 到 6 天內吃完。不要洗，用淺而透氣的容器裝，堆疊不要超過兩顆高，底下墊一張廚房紙巾吸汁。它顆粒大、皮又薄，比黑莓更容易被自己的重量壓爛，所以千萬不要倒進深碗裡保存。",
+    "freezer": "冷凍是保存波森莓最好的方式，−18°C 下 12 個月都能維持良好品質。輕輕沖洗、徹底瀝乾，鋪在墊紙的托盤上單層冷凍，再裝袋擠出空氣。冷凍的波森莓拿來做派、果醬和莓果醬非常好；解凍後質地會軟，但煮過就無所謂了。",
+    "thawing": "做派、醬汁和果醬時直接用冷凍的下鍋。需要解凍就放盤子上冷藏，流出來的汁請一併使用，不要倒掉，風味都在裡面。",
+    "spoilage": [
+      "任何一顆長出灰白色絨毛黴",
+      "果實塌成一灘汁積在容器底部",
+      "有酒味、發酵味或酸味",
+      "果實失去光澤、摸起來黏滑"
+    ],
+    "tips": [
+      "堆疊不要超過兩顆高，否則會被自己的重量壓爛",
+      "採收或購買當天就冷凍，這不是耐放的水果",
+      "要吃或要煮之前才洗",
+      "解凍流出來的汁要留著，風味大半在那裡"
+    ],
+    "faq": [
+      {"q": "波森莓放冰箱可以放多久？", "a": "從購買日起約 3 到 6 天，放 4°C 以下、不要洗、堆疊不超過兩顆高。"},
+      {"q": "波森莓可以冷凍嗎？", "a": "可以，而且這是最好的保存方式，−18°C 下 12 個月。先托盤冷凍再裝袋。"},
+      {"q": "波森莓壞掉怎麼看？", "a": "長絨毛黴、塌成一灘汁，或聞起來有發酵酒味。一顆發黴很快就會帶壞其他。"}
+    ]
+  },
+  "ja": {
+    "name": "ボイセンベリー",
+    "aliases": ["boysenberry", "ローガンベリー交配種", "ボイズンベリー", "キイチゴ交雑種"],
+    "summary": "ボイセンベリーはブラックベリー、ラズベリー、ローガンベリーの交配種で、大粒で色が濃く、親よりさらに繊細です。冷蔵なら購入日から約3〜6日、冷凍ならまるまる12か月持ちます。",
+    "pantry": "ボイセンベリーは軟らかく果汁が多いため常温保存には向きません。室温では1日でつぶれて汁が出て発酵し始め、温まった実はすぐカビます。帰宅したらすぐ冷蔵庫へ。自分で摘む場合は深いバケツではなく浅いトレーを持って行きましょう。",
+    "fridge": "4℃以下で保存し、購入日から3〜6日以内に食べきります。洗わずに浅い通気容器へ、粒が二段を超えないように入れ、下にキッチンペーパーを敷いて果汁を受けます。粒が大きく皮が薄いのでブラックベリーより自重でつぶれやすく、深いボウルに入れて保存するのは避けてください。",
+    "freezer": "冷凍が最良の保存法で、−18℃なら12か月おいしく保てます。やさしく洗って水気をよく拭き、紙を敷いたトレーで一段に凍らせてから袋へ入れて空気を抜きます。パイやジャム、クーリに向きます。解凍後は柔らかくなりますが、加熱すれば問題ありません。",
+    "thawing": "パイやソース、ジャムには凍ったまま使います。解凍が必要なら皿にのせて冷蔵庫で。出てきた果汁は捨てずに使ってください。風味の多くがそこにあります。",
+    "spoilage": [
+      "どれかの粒に綿状の灰色・白のカビ",
+      "粒がつぶれて容器の底に果汁がたまっている",
+      "ワイン臭、発酵臭、酸臭",
+      "つやを失い、ぬめりが出ている"
+    ],
+    "tips": [
+      "粒は二段まで。自重でつぶれます",
+      "収穫・購入した日に冷凍する（日持ちする果物ではありません）",
+      "洗うのは食べる直前、調理直前に",
+      "解凍で出た果汁は捨てずに使う"
+    ],
+    "faq": [
+      {"q": "ボイセンベリーは冷蔵庫でどのくらい持ちますか？", "a": "購入日から約3〜6日です。4℃以下で洗わず、粒が二段を超えないように保存してください。"},
+      {"q": "ボイセンベリーは冷凍できますか？", "a": "はい、最良の保存法で−18℃で12か月です。トレーで凍らせてから袋へ。"},
+      {"q": "傷んだ見分け方は？", "a": "綿状のカビ、果汁の中でつぶれている、発酵したワインのようなにおいが目安です。"}
+    ]
+  },
+  "es": {
+    "name": "Bayas de Boysen",
+    "aliases": ["boysenberry", "mora de Boysen", "híbrido de zarza", "loganberry cruzada"],
+    "summary": "La baya de Boysen es un híbrido grande, oscuro y blando de zarzamora, frambuesa y loganberry, aún más delicado que sus progenitores. Refrigerada dura unos 3 a 6 días desde la compra y se congela durante 12 meses completos.",
+    "pantry": "Las bayas de Boysen son demasiado blandas y jugosas para la temperatura ambiente. En un día en la encimera se hunden, rezuman y empiezan a fermentar, y la fruta templada enmohece deprisa. Refrigéralas nada más llegar a casa y, si las recoges tú, lleva una bandeja baja en vez de un cubo hondo.",
+    "fridge": "Guárdalas a 4 °C (40 °F) o menos y cómelas en unos 3 a 6 días desde la compra. Sin lavar, en un recipiente bajo y ventilado, con no más de dos bayas de altura y sobre papel de cocina que recoja el jugo. Su tamaño y su piel fina hacen que se aplasten bajo su propio peso antes que las moras, así que nunca las guardes en un bol hondo.",
+    "freezer": "Congelarlas es la mejor forma de conservar una cosecha, y mantienen buena calidad 12 meses a −18 °C (0 °F). Enjuágalas con suavidad, sécalas bien, congélalas en una capa sobre bandeja forrada y embólsalas sin aire. Son excelentes congeladas para tartas, mermelada y coulis; al descongelarse quedan blandas, lo que da igual una vez cocinadas.",
+    "thawing": "Cocínalas congeladas para tartas, salsas y mermelada. Si necesitas descongelarlas, ponlas en un plato en la nevera y aprovecha el jugo que suelten: ahí está buena parte del sabor.",
+    "spoilage": [
+      "Moho algodonoso gris o blanco en cualquier baya",
+      "Bayas deshechas en jugo en el fondo del recipiente",
+      "Olor avinado, fermentado o agrio",
+      "Fruta mate y viscosa en lugar de brillante"
+    ],
+    "tips": [
+      "No las guardes con más de dos bayas de altura: se aplastan solas",
+      "Congélalas el mismo día que las recoges o compras",
+      "No las laves hasta el momento de comerlas o cocinarlas",
+      "Guarda el jugo de la fruta descongelada: lleva casi todo el sabor"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las bayas de Boysen en la nevera?", "a": "Unos 3 a 6 días desde la compra a 4 °C (40 °F) o menos, sin lavar y con no más de dos bayas de altura."},
+      {"q": "¿Se pueden congelar las bayas de Boysen?", "a": "Sí, y es la mejor forma de conservarlas: 12 meses a −18 °C (0 °F). Congela en bandeja y luego embolsa."},
+      {"q": "¿Cómo saber si están malas?", "a": "Busca moho algodonoso, bayas deshechas en jugo o un olor fermentado y avinado. Una baya con moho estropea rápido el resto."}
+    ]
+  }
+}

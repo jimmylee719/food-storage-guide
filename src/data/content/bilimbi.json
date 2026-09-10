@@ -1,0 +1,107 @@
+{
+  "slug": "bilimbi",
+  "en": {
+    "name": "Bilimbi",
+    "aliases": ["cucumber tree fruit", "belimbing buluh", "tree sorrel", "bilimbí"],
+    "summary": "Bilimbi is the small, ferociously sour green fruit of the cucumber tree, a close relative of star fruit used as a souring agent across Southeast Asia. It lasts only 2 to 3 days on the counter and about 4 to 8 days refrigerated, and it can be dried or frozen for longer keeping.",
+    "pantry": "Bilimbi is very short-lived and crushes easily, so do not stack it more than two or three deep. On the counter you have 2 to 3 days before the fruit goes flabby and translucent. Keep it in a shallow, airy container out of direct sun and handle it gently — the thin skin splits and leaks juice at the smallest knock.",
+    "fridge": "Refrigerated, shelf life runs to about 4 or 5 days, lengthening to 7 or 8 days if the fruit was chilled immediately at harvest. Store it unwashed in a vented bag or a shallow box in the crisper at 4 °C (40 °F) or below. Fruit that reached you warm from a market stall is at the shorter end of that range.",
+    "freezer": "Bilimbi can be dried or frozen for future use; the source that recommends this gives no duration, so the 6 to 12 months at −18 °C (0 °F) quoted here is the usual home-freezer range for acid fruit rather than a published figure. Freeze it whole or sliced on a tray, then bag it. Dried bilimbi rehydrates well in soups and curries and keeps most of its sourness.",
+    "thawing": "There is little point thawing it: drop the frozen fruit straight into curries, sambals and sour soups. If you do thaw it, do so in the fridge and expect it to be soft and juicy rather than crisp.",
+    "spoilage": [
+      "Fruit gone limp, wrinkled or translucent",
+      "Brown, soft, weeping patches on the skin",
+      "Fermented or musty smell instead of the sharp fresh scent",
+      "Any mould at the stem end"
+    ],
+    "tips": [
+      "Buy firm, bright green fruit with intact skin",
+      "Never stack it more than two or three deep — the bottom layer crushes",
+      "Freeze or salt the surplus the day you get it",
+      "Dry it in the sun or a low oven for a shelf-stable souring ingredient"
+    ],
+    "faq": [
+      {"q": "How long does bilimbi last in the fridge?", "a": "About 4 to 5 days, stretching to 7 or 8 days if the fruit was chilled straight after picking."},
+      {"q": "Can you freeze bilimbi?", "a": "Yes — it can be dried or frozen for later use. No official duration exists, so reckon on the usual 6 to 12 months for acid fruit at −18 °C (0 °F)."},
+      {"q": "How can you tell if bilimbi has gone bad?", "a": "It goes limp and translucent, develops soft brown weeping patches, or smells fermented rather than sharply fresh."}
+    ]
+  },
+  "zh": {
+    "name": "木胡瓜",
+    "aliases": ["三稜果", "酸楊桃", "長葉五斂子", "bilimbi"],
+    "summary": "木胡瓜是五斂子樹（楊桃近親）結出的小型青綠色果實，酸得非常兇猛，在東南亞普遍當作酸味來源。室溫只放得住 2 到 3 天，冷藏約 4 到 8 天，要放更久就得曬乾或冷凍。",
+    "pantry": "木胡瓜很不耐放又容易被壓爛，堆疊不要超過兩三層。放在室溫大概 2 到 3 天，之後就會軟塌、變得半透明。請用淺而通風的容器裝、避免日曬，而且要輕拿輕放——薄薄的果皮稍微碰一下就會裂開流汁。",
+    "fridge": "冷藏的壽命大約 4 到 5 天；如果採收時立刻降溫，可以拉長到 7 到 8 天。不要洗，裝在打洞的袋子或淺盒裡放蔬果室，維持 4°C 以下。從市場攤位一路溫溫地帶回家的果實，就落在較短的那一端。",
+    "freezer": "木胡瓜可以曬乾或冷凍留著用；建議這麼做的資料並沒有給期限，所以這裡寫的 −18°C 下 6 到 12 個月，是酸性水果在家用冷凍庫的一般範圍，不是公告數字。整顆或切片先托盤冷凍再裝袋。曬乾的木胡瓜在湯和咖哩裡很容易回軟，酸味大致保留。",
+    "thawing": "其實不太需要解凍：冷凍果直接丟進咖哩、參巴醬和酸湯裡就好。真要解凍就放冷藏，但要有變軟出水、不再脆的心理準備。",
+    "spoilage": [
+      "果實變軟塌、皺縮或呈半透明",
+      "果皮出現褐色、軟爛、滲汁的斑塊",
+      "原本清爽的酸香變成發酵味或霉味",
+      "蒂頭處長黴"
+    ],
+    "tips": [
+      "挑硬實、翠綠、表皮完整的",
+      "堆疊不要超過兩三層，底層一定會被壓爛",
+      "拿到當天就把吃不完的冷凍或鹽漬起來",
+      "曬乾或用烤箱低溫烘乾，就是可以常溫保存的酸味材料"
+    ],
+    "faq": [
+      {"q": "木胡瓜放冰箱可以放多久？", "a": "約 4 到 5 天；採收後立刻降溫的話可以到 7 到 8 天。"},
+      {"q": "木胡瓜可以冷凍嗎？", "a": "可以，也可以曬乾。官方沒有給期限，以酸性水果的慣例來看，−18°C 下大約 6 到 12 個月。"},
+      {"q": "木胡瓜壞掉怎麼看？", "a": "軟塌變半透明、出現褐色滲汁的軟斑，或聞起來發酵而不是清爽的酸香。"}
+    ]
+  },
+  "ja": {
+    "name": "ビリンビ",
+    "aliases": ["ナガバノゴレンシ", "きゅうりの木の実", "ベリンビン", "bilimbi"],
+    "summary": "ビリンビはスターフルーツの近縁種であるナガバノゴレンシの小さな緑色の実で、非常に酸っぱく、東南アジアでは酸味づけに使われます。常温では2〜3日、冷蔵で4〜8日ほどしか持たず、長く保存するなら乾燥か冷凍です。",
+    "pantry": "ビリンビは日持ちせず、つぶれやすいので、二〜三段より深く重ねないでください。常温では2〜3日でくたっとして半透明になります。浅くて風通しのよい容器に入れ、直射日光を避け、やさしく扱ってください。薄い皮は軽くぶつけただけで裂けて果汁が出ます。",
+    "fridge": "冷蔵での日持ちは約4〜5日、収穫直後に冷やされたものなら7〜8日まで延びます。洗わずに穴あき袋か浅い容器に入れ、4℃以下の野菜室で保存します。市場から常温で持ち帰ったものは短いほうと考えてください。",
+    "freezer": "ビリンビは乾燥または冷凍で保存できます。それを勧める資料に期間の記載はないため、ここでの−18℃・6〜12か月は酸味の強い果実の家庭冷凍の一般的な範囲であり、公表値ではありません。まるごとかスライスをトレーで凍らせてから袋へ。乾燥させたものはスープやカレーで戻り、酸味もほぼ残ります。",
+    "thawing": "解凍する意味はあまりありません。凍ったままカレーやサンバル、酸味のあるスープに入れてください。解凍する場合は冷蔵庫で、しゃきっとはせず柔らかく水っぽくなります。",
+    "spoilage": [
+      "実がくたっとして、しぼんだり半透明になったりする",
+      "皮に茶色く軟らかい、汁のにじむ斑",
+      "さわやかな酸っぱい香りが発酵臭やかび臭に変わる",
+      "ヘタ部分のカビ"
+    ],
+    "tips": [
+      "硬くて鮮やかな緑、皮に傷のないものを選ぶ",
+      "二〜三段より深く重ねない。下がつぶれます",
+      "手に入れた日に余りは冷凍か塩漬けに",
+      "天日か低温のオーブンで乾かせば常温保存できる酸味材料になる"
+    ],
+    "faq": [
+      {"q": "ビリンビは冷蔵庫でどのくらい持ちますか？", "a": "約4〜5日、収穫直後に冷やされていれば7〜8日ほどです。"},
+      {"q": "ビリンビは冷凍できますか？", "a": "できますし、乾燥もできます。公式の期間はないため、酸味果実の慣例として−18℃で6〜12か月を目安に。"},
+      {"q": "ビリンビが傷んだ見分け方は？", "a": "くたっとして半透明になる、茶色い軟らかい斑が出る、発酵臭がする、が目安です。"}
+    ]
+  },
+  "es": {
+    "name": "Bilimbí",
+    "aliases": ["grosella china", "pepino de árbol agrio", "belimbing buluh", "vinagrillo"],
+    "summary": "El bilimbí es el fruto pequeño y ferozmente ácido del árbol del pepino, pariente cercano de la carambola y muy usado como acidulante en el Sudeste Asiático. Dura solo 2 o 3 días en la encimera y unos 4 a 8 días refrigerado, y puede secarse o congelarse para guardarlo más tiempo.",
+    "pantry": "El bilimbí dura muy poco y se aplasta con facilidad, así que no lo apiles más de dos o tres capas. En la encimera tienes 2 o 3 días antes de que se vuelva fofo y translúcido. Guárdalo en un recipiente ancho y aireado, lejos del sol, y manéjalo con cuidado: la piel fina se raja y suelta jugo al menor golpe.",
+    "fridge": "Refrigerado aguanta unos 4 o 5 días, y hasta 7 u 8 si se enfrió inmediatamente en la cosecha. Guárdalo sin lavar en una bolsa perforada o una caja baja en el cajón, a 4 °C (40 °F) o menos. La fruta que llegó templada del mercado está en el extremo corto.",
+    "freezer": "El bilimbí puede secarse o congelarse para usarlo más adelante; la fuente que lo recomienda no da plazo, así que los 6 a 12 meses a −18 °C (0 °F) citados aquí son el rango habitual de fruta ácida en congelador doméstico, no una cifra publicada. Congélalo entero o en rodajas sobre bandeja y luego embolsa. Seco se rehidrata bien en sopas y currys y conserva casi toda su acidez.",
+    "thawing": "Apenas tiene sentido descongelarlo: échalo congelado directamente a currys, sambales y sopas agrias. Si lo descongelas, hazlo en la nevera y espera una textura blanda y jugosa, no crujiente.",
+    "spoilage": [
+      "Fruta fofa, arrugada o translúcida",
+      "Manchas pardas y blandas que rezuman en la piel",
+      "Olor fermentado o a humedad en lugar del aroma ácido fresco",
+      "Moho en el pedúnculo"
+    ],
+    "tips": [
+      "Compra fruta firme, verde brillante y con la piel intacta",
+      "Nunca apiles más de dos o tres capas: la de abajo se aplasta",
+      "Congela o sala el excedente el mismo día",
+      "Sécalo al sol o al horno suave para tener un acidulante de despensa"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el bilimbí en la nevera?", "a": "Unos 4 o 5 días, hasta 7 u 8 si se enfrió justo tras la recolección."},
+      {"q": "¿Se puede congelar el bilimbí?", "a": "Sí, y también secarse. No hay plazo oficial, así que cuenta con los 6 a 12 meses habituales de fruta ácida a −18 °C (0 °F)."},
+      {"q": "¿Cómo saber si el bilimbí está malo?", "a": "Se vuelve fofo y translúcido, salen manchas pardas blandas que rezuman, o huele fermentado en vez de ácido y fresco."}
+    ]
+  }
+}

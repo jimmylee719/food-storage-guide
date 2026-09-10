@@ -1,0 +1,107 @@
+{
+  "slug": "blackberries",
+  "en": {
+    "name": "Blackberries",
+    "aliases": ["brambles", "bramble berries", "dewberries", "mora"],
+    "summary": "Blackberries are hollow-cored bramble fruit that bruise easily and mould fast, so they are bought for the week rather than the month. Refrigerated they keep about 3 to 6 days from purchase, and they freeze for a full 12 months.",
+    "pantry": "Blackberries do not belong on the counter. Left at room temperature they soften, leak and grow grey mould within a day or two, and warm fruit that is already wet in the punnet can go overnight. Bring them home and refrigerate them straight away rather than leaving them in a warm car or a sunny kitchen.",
+    "fridge": "Refrigerate at 4 °C (40 °F) or below and use them within about 3 to 6 days of purchase. Leave them unwashed in their vented punnet, or spread them in a single shallow layer lined with kitchen paper — piled deep, the fruit at the bottom crushes and the juice starts the whole box off. Pick out any soft or mouldy berry the day you get them, because mould jumps from berry to berry.",
+    "freezer": "Blackberries freeze extremely well and keep good quality for 12 months at −18 °C (0 °F). Rinse and dry them thoroughly, freeze them in a single layer on a lined tray until solid, then transfer to bags — that way they stay loose and you can pour out a handful at a time. Frozen fruit stays safe indefinitely; the year is about texture and flavour.",
+    "thawing": "For crumbles, sauces and baking, use them straight from frozen. If you want them thawed, do it in the fridge on a plate and accept that they will be soft and juicy, since freezing bursts the cells.",
+    "spoilage": [
+      "Grey or white fuzzy mould on any berry in the punnet",
+      "Berries collapsed and sitting in a pool of juice",
+      "Fermented, winey or vinegary smell",
+      "Dull, leaking fruit instead of plump and glossy"
+    ],
+    "tips": [
+      "Check the underside of the punnet for stains before buying",
+      "Wash only just before eating; water speeds up mould",
+      "Remove one bad berry immediately — it will spoil its neighbours",
+      "Tray-freeze the surplus the day you buy it rather than letting it turn"
+    ],
+    "faq": [
+      {"q": "How long do blackberries last in the fridge?", "a": "About 3 to 6 days from the day you buy them, at 4 °C (40 °F) or below, unwashed in a vented container."},
+      {"q": "Can you freeze blackberries?", "a": "Yes, and they freeze very well — 12 months at −18 °C (0 °F). Tray-freeze them first so they stay loose in the bag."},
+      {"q": "Should you wash blackberries before storing them?", "a": "No. Surface moisture makes them mould much faster. Rinse them just before you eat or cook with them."}
+    ]
+  },
+  "zh": {
+    "name": "黑莓",
+    "aliases": ["黑覆盆子", "露莓", "懸鉤子", "blackberry"],
+    "summary": "黑莓是中空果心的懸鉤子類漿果，很容易碰傷、發黴也快，所以是「買一週的量」而不是「買一個月的量」。冷藏從購買日起約可放 3 到 6 天，冷凍則有完整的 12 個月。",
+    "pantry": "黑莓不適合放在室溫。放著一兩天就會軟化、出水並長灰黴，如果盒子裡本來就有濕氣，一個晚上就會壞掉。買回家請立刻冷藏，不要留在悶熱的車上或曬得到太陽的廚房。",
+    "fridge": "放 4°C 以下，從購買日起約 3 到 6 天內吃完。不要洗，就放在原本透氣的盒子裡，或墊廚房紙巾單層淺鋪——堆得太深，底下的果實會被壓破，流出的汁會帶壞整盒。買回來當天就把軟掉或發黴的挑出來，黴會一顆傳一顆。",
+    "freezer": "黑莓非常適合冷凍，−18°C 下 12 個月都能維持良好品質。洗淨徹底瀝乾，鋪在墊紙的托盤上單層冷凍到硬，再倒進袋子——這樣顆粒是散的，要用多少倒多少。只要維持凍結就是安全的，一年講的是口感和風味。",
+    "thawing": "做烤酥、醬汁或烘焙時直接用冷凍的就好。想解凍就放冷藏、墊個盤子，並接受它會變軟出水，因為結凍會撐破細胞。",
+    "spoilage": [
+      "盒裡任何一顆長出灰白色絨毛黴",
+      "果實塌掉，泡在流出來的果汁裡",
+      "有發酵味、酒味或醋味",
+      "果實不再飽滿有光澤，變得暗沉滲汁"
+    ],
+    "tips": [
+      "買之前翻看盒底有沒有果汁染色",
+      "要吃之前才洗，沾水會加速發黴",
+      "發現壞掉的立刻挑掉，它會帶壞旁邊的",
+      "買回來當天就把吃不完的托盤冷凍，不要放到壞"
+    ],
+    "faq": [
+      {"q": "黑莓放冰箱可以放多久？", "a": "從購買當天起約 3 到 6 天，放 4°C 以下、不要洗、用透氣容器裝。"},
+      {"q": "黑莓可以冷凍嗎？", "a": "可以，而且效果很好，−18°C 下 12 個月。先托盤冷凍再裝袋，顆粒才不會黏成一塊。"},
+      {"q": "黑莓保存前要先洗嗎？", "a": "不要。表面的水分會讓它發黴快很多，要吃或要煮之前再沖洗。"}
+    ]
+  },
+  "ja": {
+    "name": "ブラックベリー",
+    "aliases": ["キイチゴ", "西洋ヤブイチゴ", "デューベリー", "blackberry"],
+    "summary": "ブラックベリーは芯が中空のキイチゴ類で、傷みやすくカビも早いため、まとめ買いには向きません。冷蔵なら購入日から約3〜6日、冷凍ならまるまる12か月持ちます。",
+    "pantry": "ブラックベリーは常温には向きません。室温では1〜2日で軟らかくなって果汁が出て、灰色のカビが生えます。パックの中がすでに濡れているものは一晩で駄目になることも。買ったらすぐ冷蔵庫へ入れ、暑い車内や日の当たる台所に置かないでください。",
+    "fridge": "4℃以下で保存し、購入日から3〜6日以内に食べきります。洗わずに通気のあるパックのまま、またはキッチンペーパーを敷いて一段に浅く広げてください。深く積むと下の実がつぶれ、その果汁が箱全体を傷めます。買った日に軟らかい実やカビた実を取り除きましょう。カビは実から実へ移ります。",
+    "freezer": "ブラックベリーは冷凍向きで、−18℃なら12か月おいしく保てます。洗ってしっかり水気を拭き、紙を敷いたトレーに一段で並べて凍らせてから袋へ移すと、粒がばらけて必要な分だけ取り出せます。凍ったままなら安全性は保たれ、1年という数字は食感と風味の話です。",
+    "thawing": "クランブルやソース、焼き菓子には凍ったまま使います。解凍したい場合は皿にのせて冷蔵庫で。冷凍で細胞が壊れるため、柔らかく水っぽくなります。",
+    "spoilage": [
+      "パック内のどれかに灰色や白の綿状のカビ",
+      "実がつぶれて果汁の中に浸っている",
+      "発酵臭、ワイン臭、酢のようなにおい",
+      "つやのある粒ではなく、くすんで汁が出ている"
+    ],
+    "tips": [
+      "買う前にパックの底に果汁のしみがないか確認",
+      "洗うのは食べる直前。水分はカビを早めます",
+      "傷んだ粒はすぐ取り除く（隣に移ります）",
+      "食べきれない分は買った日にトレー冷凍する"
+    ],
+    "faq": [
+      {"q": "ブラックベリーは冷蔵庫でどのくらい持ちますか？", "a": "購入日から約3〜6日です。4℃以下で、洗わずに通気のある容器に入れてください。"},
+      {"q": "ブラックベリーは冷凍できますか？", "a": "はい、冷凍向きで−18℃で12か月です。先にトレーで凍らせると袋の中でばらけます。"},
+      {"q": "保存前に洗ったほうがいいですか？", "a": "いいえ。表面の水分でカビが早く出ます。食べる直前、調理直前に洗いましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Moras",
+    "aliases": ["zarzamoras", "moras de zarza", "mora silvestre", "blackberries"],
+    "summary": "Las moras de zarza tienen el corazón hueco, se magullan con facilidad y enmohecen deprisa, así que se compran para la semana, no para el mes. Refrigeradas duran unos 3 a 6 días desde la compra y se congelan durante 12 meses completos.",
+    "pantry": "Las moras no son producto de encimera. A temperatura ambiente se ablandan, sueltan jugo y crían moho gris en uno o dos días, y una tarrina que ya viene húmeda puede perderse de un día para otro. Llévalas a casa y refrigéralas de inmediato, sin dejarlas en el coche caliente ni en una cocina soleada.",
+    "fridge": "Refrigéralas a 4 °C (40 °F) o menos y consúmelas en unos 3 a 6 días desde la compra. Déjalas sin lavar en su tarrina ventilada, o extiéndelas en una capa fina sobre papel de cocina: apiladas, las de abajo se aplastan y su jugo estropea la caja entera. Retira cualquier mora blanda o con moho el mismo día, porque el moho salta de una a otra.",
+    "freezer": "Las moras se congelan muy bien y mantienen buena calidad 12 meses a −18 °C (0 °F). Lávalas, sécalas a fondo, congélalas en una capa sobre bandeja hasta que estén duras y pásalas a bolsas: así quedan sueltas y puedes servir un puñado cada vez. Congeladas siguen siendo seguras indefinidamente; el año se refiere a textura y sabor.",
+    "thawing": "Para crumbles, salsas y repostería, úsalas directamente congeladas. Si las quieres descongeladas, hazlo en la nevera sobre un plato y asume que quedarán blandas y jugosas, porque el frío revienta las células.",
+    "spoilage": [
+      "Moho gris o blanco algodonoso en cualquier mora de la tarrina",
+      "Moras hundidas y sumergidas en su propio jugo",
+      "Olor fermentado, avinado o avinagrado",
+      "Fruta mate y que rezuma en lugar de turgente y brillante"
+    ],
+    "tips": [
+      "Mira la base de la tarrina antes de comprar: si está manchada, descártala",
+      "Lávalas justo antes de comerlas; el agua acelera el moho",
+      "Quita enseguida la mora estropeada: contagia a las vecinas",
+      "Congela en bandeja el excedente el mismo día de la compra"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las moras en la nevera?", "a": "Unos 3 a 6 días desde el día de la compra, a 4 °C (40 °F) o menos, sin lavar y en recipiente ventilado."},
+      {"q": "¿Se pueden congelar las moras?", "a": "Sí, y muy bien: 12 meses a −18 °C (0 °F). Congélalas antes en bandeja para que queden sueltas en la bolsa."},
+      {"q": "¿Hay que lavar las moras antes de guardarlas?", "a": "No. La humedad superficial las enmohece mucho antes. Enjuágalas justo antes de comerlas o cocinarlas."}
+    ]
+  }
+}

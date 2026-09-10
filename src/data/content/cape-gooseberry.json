@@ -1,0 +1,107 @@
+{
+  "slug": "cape-gooseberry",
+  "en": {
+    "name": "Cape gooseberry",
+    "aliases": ["physalis", "goldenberry", "poha", "uchuva", "Inca berry"],
+    "summary": "The cape gooseberry is a small golden Physalis berry sold inside a papery husk, which acts as its packaging. Leave the husk on and it keeps roughly 1 to 2 weeks at room temperature and 2 to 3 weeks in the fridge; husked and frozen, it holds 6 to 12 months.",
+    "pantry": "Leave the papery husk on — removing it measurably reduces postharvest life, so de-husk only what you are about to eat. Kept dry and in the husk in a cool, airy spot, the fruit lasts roughly 1 to 2 weeks. That range follows the way a firm, protected fruit like an apple is handled, shortened for the smaller berry, rather than a published cape gooseberry figure. Do not wash the fruit before storing: damp husks mould.",
+    "fridge": "In the husk on a cool shelf, reckon on about 2 to 3 weeks. Husked fruit should be packed no deeper than a pint container and chilled as soon as possible, since bare berries are sticky and bruise. Use an open or perforated container at 4 °C (40 °F) or below so condensation can escape — sealed plastic traps moisture and the husks go slimy.",
+    "freezer": "Husked fruit freezes well for about 6 to 12 months at −18 °C (0 °F), the general soft-fruit range. Peel off the husks, rinse away the sticky natural coating, dry the berries thoroughly and freeze them in a single layer on a tray before bagging, or they cement into a lump. Frozen berries go straight into jams, compotes and sauces.",
+    "thawing": "Thaw in the fridge if you want whole berries, accepting that they will be soft. For cooking, use them from frozen — they break down into sauce regardless.",
+    "spoilage": [
+      "Husk gone damp, dark or mouldy, which usually means the berry is too",
+      "Berry soft, wrinkled or weeping",
+      "Sour or fermented smell when the husk is opened",
+      "Grey fuzz on the fruit or inside the calyx"
+    ],
+    "tips": [
+      "Choose dry, straw-coloured, papery husks over damp green ones",
+      "De-husk only what you will eat straight away",
+      "Rinse the sticky coating off just before eating, not before storing",
+      "Store in an open container so condensation can escape"
+    ],
+    "faq": [
+      {"q": "How long do cape gooseberries last?", "a": "In the husk, roughly 1 to 2 weeks at room temperature and 2 to 3 weeks in the fridge. Husked and frozen, 6 to 12 months."},
+      {"q": "Should you remove the husk before storing?", "a": "No. Removing the husk reduces postharvest life, so de-husk only what you are about to eat."},
+      {"q": "Can you freeze cape gooseberries?", "a": "Yes. Husk them, rinse, dry well, tray-freeze and bag. Reckon on 6 to 12 months for good quality."}
+    ]
+  },
+  "zh": {
+    "name": "燈籠果",
+    "aliases": ["秘魯苦蘵", "黃金莓", "酸漿果", "physalis", "uchuva"],
+    "summary": "燈籠果是包在紙質果萼裡的金黃色小漿果，那層果萼就是它的天然包裝。連著果萼保存的話，室溫約可放 1 到 2 週，冰箱 2 到 3 週；剝殼冷凍則有 6 到 12 個月。",
+    "pantry": "請把紙質果萼留著——拿掉果萼會明顯縮短採後壽命，所以要吃多少剝多少。保持乾燥、連萼放在陰涼通風處，大約可放 1 到 2 週。這個範圍是比照像蘋果那種有保護外皮、耐放的水果，再因為果實較小而縮短，不是針對燈籠果公布的數字。保存前不要洗，果萼一濕就會發黴。",
+    "fridge": "連萼放在冰箱較冷的層架，大約 2 到 3 週。剝了殼的果實堆放不要超過一個小盒的高度，而且要盡快冷藏，因為裸果黏手又容易碰傷。用開口或打洞的容器放 4°C 以下，讓凝結的水氣散得掉；密封塑膠袋會悶出水，果萼會變黏。",
+    "freezer": "剝殼的果實冷凍效果好，−18°C 下約 6 到 12 個月，這是軟質水果的一般範圍。撕掉果萼、沖掉表面天然的黏膜、徹底擦乾，先在托盤上單層冷凍再裝袋，否則會黏成一團。冷凍果可以直接下鍋做果醬、糖煮或醬汁。",
+    "thawing": "想要完整果粒就放冷藏解凍，但會變軟。要煮的話直接用冷凍的，反正都會煮化成醬。",
+    "spoilage": [
+      "果萼潮濕、發黑或長黴，通常裡面的果實也壞了",
+      "果實變軟、皺縮或滲汁",
+      "剝開果萼時聞到酸味或發酵味",
+      "果實或果萼內側出現灰色絨毛"
+    ],
+    "tips": [
+      "挑果萼乾燥、稻草色的，不要挑濕綠色的",
+      "只剝馬上要吃的那些",
+      "表面黏膜是吃之前才沖掉，不是保存前",
+      "用開口容器保存，讓水氣散得掉"
+    ],
+    "faq": [
+      {"q": "燈籠果可以放多久？", "a": "連萼的話室溫約 1 到 2 週，冰箱 2 到 3 週。剝殼冷凍 6 到 12 個月。"},
+      {"q": "保存前要剝掉果萼嗎？", "a": "不要。剝掉果萼會縮短採後壽命，要吃多少再剝多少。"},
+      {"q": "燈籠果可以冷凍嗎？", "a": "可以。剝殼、沖洗、徹底擦乾，托盤冷凍後裝袋，品質良好約 6 到 12 個月。"}
+    ]
+  },
+  "ja": {
+    "name": "ケープグーズベリー",
+    "aliases": ["食用ホオズキ", "ゴールデンベリー", "ポハ", "ウチュバ", "physalis"],
+    "summary": "ケープグーズベリーは紙のようなガクに包まれた小さな金色のホオズキ果実で、そのガクが包装の役割を果たします。ガクつきのままなら常温で約1〜2週間、冷蔵で2〜3週間。ガクを外して冷凍すれば6〜12か月持ちます。",
+    "pantry": "紙のようなガクは外さないでください。外すと明らかに日持ちが短くなるので、食べる分だけむきます。乾いた状態でガクつきのまま涼しく風通しのよい場所に置けば、およそ1〜2週間持ちます。この範囲はりんごのように皮に守られた日持ちする果実の扱いを、小さい実に合わせて短くしたもので、固有の公表値ではありません。保存前に洗わないこと。湿ったガクはカビます。",
+    "fridge": "ガクつきで庫内の冷たい棚に置けば2〜3週間ほど。ガクを外した実は小さめの容器一杯分より深く積まず、できるだけ早く冷やしてください。裸の実はべたついて傷みやすいためです。結露が逃げるよう、口の開いた容器か穴あき容器で4℃以下に。密閉袋は湿気がこもってガクがぬめります。",
+    "freezer": "ガクを外した実は−18℃で6〜12か月ほど（軟質果実一般の範囲）よく凍ります。ガクをむき、表面のべたつきを洗い流し、水気をしっかり拭いてからトレーで一段に凍らせ、それから袋へ。まとめて凍らせると塊になります。凍ったままジャムやコンポート、ソースに使えます。",
+    "thawing": "粒のまま使うなら冷蔵庫で解凍しますが、柔らかくなります。加熱調理なら凍ったままで構いません。",
+    "spoilage": [
+      "ガクが湿って黒ずむ、カビている（中の実も傷んでいる）",
+      "実が軟らかい、しぼんでいる、汁が出ている",
+      "ガクを開けたときの酸臭・発酵臭",
+      "実やガクの内側の灰色の綿状のカビ"
+    ],
+    "tips": [
+      "湿った緑ではなく、乾いたわら色のガクを選ぶ",
+      "ガクはすぐ食べる分だけ外す",
+      "べたつきは保存前でなく食べる直前に洗い流す",
+      "結露が逃げる口の開いた容器で保存する"
+    ],
+    "faq": [
+      {"q": "ケープグーズベリーはどのくらい持ちますか？", "a": "ガクつきで常温1〜2週間、冷蔵2〜3週間。ガクを外して冷凍なら6〜12か月です。"},
+      {"q": "保存前にガクは外しますか？", "a": "外さないでください。日持ちが短くなります。食べる分だけむきましょう。"},
+      {"q": "冷凍できますか？", "a": "できます。ガクをむき、洗って水気を取り、トレー冷凍してから袋へ。品質のよい期間は6〜12か月です。"}
+    ]
+  },
+  "es": {
+    "name": "Uchuva",
+    "aliases": ["physalis", "aguaymanto", "uvilla", "alquequenje", "goldenberry"],
+    "summary": "La uchuva es una pequeña baya dorada de Physalis que se vende dentro de un cáliz de papel, que hace de envase. Con el cáliz puesto aguanta unas 1 a 2 semanas a temperatura ambiente y 2 a 3 semanas en la nevera; sin cáliz y congelada, de 6 a 12 meses.",
+    "pantry": "Deja puesto el cáliz papeloso: quitarlo reduce de forma apreciable la vida poscosecha, así que pela solo lo que vayas a comer. Seca y con cáliz, en un sitio fresco y aireado, la fruta dura entre 1 y 2 semanas. Ese rango sigue el manejo de una fruta firme y protegida como la manzana, acortado por el tamaño menor, y no una cifra publicada para la uchuva. No la laves antes de guardarla: los cálices húmedos crían moho.",
+    "fridge": "Con cáliz y en un estante frío, cuenta con unas 2 a 3 semanas. La fruta ya pelada no debe apilarse más allá de un recipiente pequeño y hay que enfriarla cuanto antes, porque la baya desnuda es pegajosa y se magulla. Usa un recipiente abierto o perforado a 4 °C (40 °F) o menos para que escape la condensación; el plástico cerrado atrapa humedad y los cálices se vuelven viscosos.",
+    "freezer": "Sin cáliz se congela bien unos 6 a 12 meses a −18 °C (0 °F), el rango general de la fruta blanda. Retira los cálices, enjuaga la película pegajosa, seca muy bien las bayas y congélalas en una capa sobre bandeja antes de embolsarlas, o se pegarán en bloque. Van congeladas directas a mermeladas, compotas y salsas.",
+    "thawing": "Descongela en la nevera si quieres bayas enteras, asumiendo que quedarán blandas. Para cocinar, úsalas congeladas: de todos modos se deshacen en salsa.",
+    "spoilage": [
+      "Cáliz húmedo, oscuro o con moho, señal de que la baya también está mal",
+      "Baya blanda, arrugada o que rezuma",
+      "Olor agrio o fermentado al abrir el cáliz",
+      "Pelusa gris en la fruta o dentro del cáliz"
+    ],
+    "tips": [
+      "Prefiere cálices secos, papeleros y color paja a los verdes y húmedos",
+      "Pela solo lo que vayas a comer en el momento",
+      "Enjuaga la película pegajosa justo antes de comer",
+      "Guárdalas en recipiente abierto para que escape la condensación"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las uchuvas?", "a": "Con cáliz, de 1 a 2 semanas a temperatura ambiente y de 2 a 3 semanas en la nevera. Peladas y congeladas, de 6 a 12 meses."},
+      {"q": "¿Hay que quitar el cáliz antes de guardarlas?", "a": "No. Quitarlo acorta la vida poscosecha; pela solo lo que vayas a comer."},
+      {"q": "¿Se pueden congelar las uchuvas?", "a": "Sí. Pélalas, enjuaga, seca bien, congela en bandeja y embolsa. Cuenta con 6 a 12 meses de buena calidad."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "currants",
+  "en": {
+    "name": "Currants",
+    "aliases": ["redcurrants", "blackcurrants", "whitecurrants", "grosellas"],
+    "summary": "Fresh currants are small, tart berries that grow in strigs — the little stems that hold the fruit — and they bruise and mould much like other soft berries. Refrigerated they keep about 3 to 6 days from purchase, and they freeze for a full 12 months.",
+    "pantry": "Currants are not a counter fruit. At room temperature the berries soften, the strigs wilt and mould appears within a day or two, and any fruit that was already split will go first. Refrigerate them as soon as you get home, and if you are picking your own, harvest whole strigs rather than individual berries — the fruit keeps better while still attached.",
+    "fridge": "Store them unwashed at 4 °C (40 °F) or below and use them within about 3 to 6 days of purchase. Keep the strigs intact in a shallow, vented container, no more than a couple of layers deep, and go through them the day you buy them to remove any burst fruit. Strip the berries from the strigs with a fork just before you cook or eat them, not before storing.",
+    "freezer": "Currants freeze beautifully for 12 months at −18 °C (0 °F) and are much easier to strip once frozen — freeze whole strigs on a tray, then rub the berries off with your fingers and bag them. Their high pectin and acid content makes them excellent frozen for jelly, jam and cordial. Frozen fruit stays safe indefinitely; the 12 months is a quality figure.",
+    "thawing": "Cook them straight from frozen for jelly, sauces and puddings. If you thaw them, do it in the fridge and expect soft, juicy fruit — freezing bursts the cells, which actually helps juice extraction.",
+    "spoilage": [
+      "Grey or white mould on any berry or on the strigs",
+      "Burst berries and juice pooling in the container",
+      "Fermented or winey smell",
+      "Dull, shrivelled fruit instead of glossy and translucent"
+    ],
+    "tips": [
+      "Buy or pick whole strigs — the fruit keeps better attached",
+      "Do not wash until just before use",
+      "Freeze on the strig, then strip the berries off frozen; it is far quicker",
+      "Blackcurrants and redcurrants keep the same way, though blackcurrants are a little sturdier"
+    ],
+    "faq": [
+      {"q": "How long do fresh currants last in the fridge?", "a": "About 3 to 6 days from purchase at 4 °C (40 °F) or below, unwashed and still on the strig."},
+      {"q": "Can you freeze currants?", "a": "Yes, for 12 months. Freeze whole strigs on a tray and strip the berries off once frozen — it is much easier that way."},
+      {"q": "Are these the same as dried currants in baking?", "a": "No. Dried baking currants are small dried grapes; these are fresh Ribes berries and are stored quite differently."}
+    ]
+  },
+  "zh": {
+    "name": "醋栗",
+    "aliases": ["紅醋栗", "黑醋栗", "白醋栗", "茶藨子", "currant"],
+    "summary": "新鮮醋栗是成串生長的小顆酸味漿果，那串細梗叫做果穗，它碰傷和發黴的模式跟其他軟質莓果差不多。冷藏從購買日起約可放 3 到 6 天，冷凍則有完整的 12 個月。",
+    "pantry": "醋栗不是放在桌上的水果。室溫下果粒會軟化、果穗會萎凋，一兩天內就會長黴，本來就裂開的果粒會最先壞。買回家立刻冷藏；自己採的話請整串採，果粒還連在穗上比較耐放。",
+    "fridge": "不要洗，放 4°C 以下，從購買日起約 3 到 6 天內用完。保持整串完整，用淺而透氣的容器裝，不要超過兩層高，並在買回來當天翻一遍，把破掉的挑出來。要煮或要吃之前才用叉子把果粒刮下來，不要保存前就先摘。",
+    "freezer": "醋栗非常適合冷凍，−18°C 下可放 12 個月，而且凍過之後反而更好摘——整串放托盤冷凍，再用手指把果粒搓下來裝袋。它果膠和酸度都高，冷凍後拿來做果凍、果醬和糖漿特別好。只要維持凍結就是安全的，12 個月是品質數字。",
+    "thawing": "做果凍、醬汁和布丁時直接用冷凍的下鍋。要解凍就放冷藏，並接受它會軟爛出水——結凍撐破細胞這件事，反而有助於榨汁。",
+    "spoilage": [
+      "果粒或果穗上長出灰白色黴",
+      "果粒破裂，容器底部積汁",
+      "有發酵味或酒味",
+      "果粒失去光澤、變得皺縮不透亮"
+    ],
+    "tips": [
+      "整串買或整串採，果粒連著穗比較耐放",
+      "要用之前才洗",
+      "連穗冷凍，凍好再摘果粒，快很多",
+      "黑醋栗和紅醋栗保存方式一樣，黑醋栗稍微強韌一點"
+    ],
+    "faq": [
+      {"q": "新鮮醋栗放冰箱可以放多久？", "a": "從購買日起約 3 到 6 天，放 4°C 以下、不要洗、保持整串。"},
+      {"q": "醋栗可以冷凍嗎？", "a": "可以，12 個月。整串托盤冷凍後再把果粒搓下來，這樣輕鬆很多。"},
+      {"q": "這跟烘焙用的 currant 乾是同一種嗎？", "a": "不是。烘焙用的 currant 乾是小顆葡萄乾；這裡講的是新鮮的茶藨子屬漿果，保存方式完全不同。"}
+    ]
+  },
+  "ja": {
+    "name": "スグリ",
+    "aliases": ["カラント", "赤スグリ", "黒スグリ（カシス）", "フサスグリ"],
+    "summary": "生のスグリは房状に実る小粒で酸味の強いベリーで、ほかのやわらかいベリーと同じように傷みやすくカビも出ます。冷蔵なら購入日から約3〜6日、冷凍ならまるまる12か月持ちます。",
+    "pantry": "スグリは常温向きではありません。室温では実が軟らかくなり房の軸がしおれ、1〜2日でカビが出ます。すでに割れている実から先に傷みます。帰宅したらすぐ冷蔵庫へ。自分で摘む場合は粒ではなく房ごと収穫してください。軸についたままのほうが日持ちします。",
+    "fridge": "洗わずに4℃以下で保存し、購入から3〜6日以内に使い切ります。房のまま浅い通気容器へ、二段程度までに。買った日に一度見て、割れた実は取り除きましょう。粒を軸から外すのは、保存前ではなく調理・実食の直前にフォークでしごくのが効率的です。",
+    "freezer": "冷凍向きで−18℃なら12か月持ち、凍らせたほうが粒を外しやすくなります。房ごとトレーで凍らせ、指でこすって粒を落として袋へ。ペクチンと酸が多いので、ゼリーやジャム、コーディアルに最適です。凍っていれば安全性は保たれ、12か月は品質の目安です。",
+    "thawing": "ゼリーやソース、プディングには凍ったまま加熱します。解凍する場合は冷蔵庫で。冷凍で細胞が壊れるため柔らかくなりますが、果汁を搾るにはむしろ好都合です。",
+    "spoilage": [
+      "実や房の軸に灰色・白のカビ",
+      "実が割れて容器に果汁がたまっている",
+      "発酵臭やワインのようなにおい",
+      "つやを失い、しぼんで透明感がない"
+    ],
+    "tips": [
+      "房ごと買う・摘む（軸についたほうが日持ちします）",
+      "洗うのは使う直前に",
+      "房のまま冷凍し、凍ってから粒を外すと速い",
+      "赤スグリも黒スグリも保存法は同じ（黒のほうがやや丈夫）"
+    ],
+    "faq": [
+      {"q": "生のスグリは冷蔵庫でどのくらい持ちますか？", "a": "購入日から約3〜6日です。4℃以下で洗わず、房のまま保存してください。"},
+      {"q": "スグリは冷凍できますか？", "a": "はい、12か月です。房ごとトレーで凍らせてから粒を外すと格段に楽です。"},
+      {"q": "製菓用のカラント（干しぶどう）と同じですか？", "a": "違います。製菓用カラントは小粒のレーズンで、こちらは生のスグリ属の果実です。"}
+    ]
+  },
+  "es": {
+    "name": "Grosellas",
+    "aliases": ["grosella roja", "grosella negra", "casis", "grosella blanca"],
+    "summary": "Las grosellas frescas son bayas pequeñas y ácidas que crecen en racimillos colgantes, y se magullan y enmohecen igual que las demás bayas blandas. Refrigeradas duran unos 3 a 6 días desde la compra y se congelan durante 12 meses completos.",
+    "pantry": "Las grosellas no son fruta de encimera. A temperatura ambiente las bayas se ablandan, los racimillos se marchitan y aparece moho en uno o dos días, y la fruta ya reventada se pierde primero. Refrigéralas al llegar a casa y, si las recoges tú, corta racimos enteros en vez de bayas sueltas: la fruta se conserva mejor unida al raquis.",
+    "fridge": "Guárdalas sin lavar a 4 °C (40 °F) o menos y úsalas en unos 3 a 6 días desde la compra. Mantén los racimillos intactos en un recipiente bajo y ventilado, con un par de capas como mucho, y revísalas el mismo día para retirar la fruta reventada. Desgránalas con un tenedor justo antes de cocinarlas o comerlas, no antes de guardarlas.",
+    "freezer": "Las grosellas se congelan estupendamente durante 12 meses a −18 °C (0 °F), y desgranarlas es mucho más fácil una vez congeladas: congela los racimos en bandeja y luego desprende las bayas con los dedos y embólsalas. Su alto contenido en pectina y ácido las hace ideales para jaleas, mermeladas y siropes. Congeladas son seguras indefinidamente; los 12 meses son calidad.",
+    "thawing": "Cocínalas directamente congeladas para jaleas, salsas y postres. Si las descongelas, hazlo en la nevera y cuenta con fruta blanda y jugosa: el frío revienta las células, lo que ayuda a extraer el zumo.",
+    "spoilage": [
+      "Moho gris o blanco en las bayas o en los racimillos",
+      "Bayas reventadas y jugo acumulado en el recipiente",
+      "Olor fermentado o avinado",
+      "Fruta mate y arrugada en lugar de brillante y translúcida"
+    ],
+    "tips": [
+      "Compra o recoge racimos enteros: la fruta se conserva mejor unida",
+      "No las laves hasta el momento de usarlas",
+      "Congela con el raquis y desgrana en congelado: es mucho más rápido",
+      "Grosella negra y roja se guardan igual, aunque la negra es algo más resistente"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las grosellas frescas en la nevera?", "a": "Unos 3 a 6 días desde la compra a 4 °C (40 °F) o menos, sin lavar y aún en el racimo."},
+      {"q": "¿Se pueden congelar las grosellas?", "a": "Sí, 12 meses. Congela los racimos en bandeja y desgrana en congelado: es mucho más fácil."},
+      {"q": "¿Son lo mismo que las pasas de Corinto?", "a": "No. Las de Corinto son uvas pequeñas desecadas; estas son bayas frescas del género Ribes y se guardan de otra forma."}
+    ]
+  }
+}

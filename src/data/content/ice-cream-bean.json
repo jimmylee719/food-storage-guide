@@ -1,0 +1,107 @@
+{
+  "slug": "ice-cream-bean",
+  "en": {
+    "name": "Ice cream bean",
+    "aliases": ["guaba", "pacay", "guama", "inga", "monkey tamarind"],
+    "summary": "The ice cream bean is a long green legume pod from the Inga tree; you snap it open and eat the sweet, cotton-wool-like white pulp wrapped around each seed. No agency publishes storage figures for it, so treat the pod like a fresh bean: about 2 to 4 days at room temperature and 5 to 7 days in the fridge, always kept closed.",
+    "pantry": "Keep the pod closed until you eat it — that is the single most important rule. The white pulp around the seeds browns within hours of being opened, and there is no way to keep it once exposed. A whole pod holds about 2 to 4 days at room temperature; stand the pods somewhere cool and airy rather than in a sealed bag, since they sweat and go mouldy at the seams.",
+    "fridge": "Whole pods only, loosely bagged in the crisper at 4 °C (40 °F) or below, for about 5 to 7 days. This is a working limit borrowed from the way fresh bean and pea pods are handled rather than a published Inga figure, and the edible part here is the sweet aril rather than a bean. The pulp itself does not store: once a pod is open, eat it that day.",
+    "freezer": "There is no established freezer timeline for ice cream bean, and it is not a good candidate. The pulp is mostly water and air, and it collapses into a grey sticky mush on thawing, losing exactly the texture the fruit is named for. If you want to keep some, scrape the pulp off the seeds and freeze it for a blended drink, accepting that you will never get the fresh texture back.",
+    "thawing": "If you have frozen the pulp, blend it straight from frozen into a drink. Do not thaw it and expect to eat it as fruit.",
+    "spoilage": [
+      "Pod gone brown, wet or limp instead of firm and green",
+      "Split seams with fluid leaking out",
+      "Fermented or sour smell when opened",
+      "Pulp already grey or brown, or seeds sprouting inside"
+    ],
+    "tips": [
+      "Choose firm, plump, unsplit pods that feel heavy",
+      "Never open a pod before you are ready to eat it",
+      "Do not eat the seeds raw — the white aril is the edible part",
+      "Bag the pods loosely; a sealed bag makes them sweat and mould"
+    ],
+    "faq": [
+      {"q": "How long does ice cream bean last?", "a": "About 2 to 4 days at room temperature and 5 to 7 days refrigerated, in the closed pod. Opened pulp does not keep at all."},
+      {"q": "Can you freeze ice cream bean?", "a": "Not usefully. The pulp collapses into a sticky mush on thawing. Freeze it only for blended drinks, if at all."},
+      {"q": "Which part do you eat?", "a": "The soft white pulp wrapped around each seed. The seeds themselves are not eaten raw, and the pod is discarded."}
+    ]
+  },
+  "zh": {
+    "name": "冰淇淋豆",
+    "aliases": ["印加豆", "guaba", "pacay", "印加果莢"],
+    "summary": "冰淇淋豆是印加樹（Inga）結出的長條形綠色豆莢，把它剝開，吃的是包在每顆種子外面那層甜甜的、像棉花一樣的白色果肉。沒有官方單位公布它的保存數據，所以把豆莢當新鮮豆莢來看：室溫約 2 到 4 天，冷藏 5 到 7 天，而且全程都要保持不剝開。",
+    "pantry": "要吃之前才剝開豆莢——這是最重要的一條。種子外面那層白色果肉一旦接觸空氣，幾小時內就會褐化，而且沒有任何方法能保存已經剝開的果肉。整根豆莢在室溫約可放 2 到 4 天；請放在陰涼通風處，不要裝在密封袋裡，因為悶住會出水、莢縫處會發黴。",
+    "fridge": "只冷藏完整的豆莢，鬆鬆裝袋放蔬果室、維持 4°C 以下，約 5 到 7 天。這是借用新鮮豆莢和豌豆莢的處理方式，不是針對 Inga 公布的數字，而且這裡吃的其實是甜甜的假種皮而不是豆子。果肉本身沒辦法保存：剝開了就當天吃完。",
+    "freezer": "冰淇淋豆沒有公認的冷凍期限，而且它並不適合冷凍。那層果肉幾乎全是水和空氣，解凍後會塌成灰灰黏黏的一團，正好失去它得名的那種口感。真的想留，就把果肉從種子上刮下來冷凍拿去打飲料，並接受它再也回不到新鮮的質地。",
+    "thawing": "如果冷凍了果肉，就直接冷凍狀態打成飲料。不要指望解凍後還能當水果吃。",
+    "spoilage": [
+      "豆莢不再結實翠綠，而是轉褐、潮濕或軟塌",
+      "莢縫裂開並滲出汁液",
+      "剝開時聞到發酵味或酸味",
+      "果肉已經發灰或轉褐，或裡面的種子已經發芽"
+    ],
+    "tips": [
+      "挑結實飽滿、沒有裂開、拿起來沉的豆莢",
+      "沒有要吃就不要剝開",
+      "種子不要生吃，能吃的是白色的假種皮",
+      "袋子要鬆，密封會讓豆莢出水發黴"
+    ],
+    "faq": [
+      {"q": "冰淇淋豆可以放多久？", "a": "保持豆莢完整的話，室溫約 2 到 4 天，冷藏 5 到 7 天。剝開的果肉完全無法保存。"},
+      {"q": "冰淇淋豆可以冷凍嗎？", "a": "意義不大。果肉解凍後會塌成黏糊糊的一團。真要冷凍就只當打飲料的材料。"},
+      {"q": "冰淇淋豆哪一部分能吃？", "a": "包在每顆種子外面那層柔軟的白色果肉。種子不生吃，豆莢丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "アイスクリームビーン",
+    "aliases": ["インガ", "グアバ（Inga）", "パカイ", "アイスクリームの豆"],
+    "summary": "アイスクリームビーンはインガという木につく細長い緑色のさやで、割って中の種を包む甘い綿のような白い果肉を食べます。公的な保存データがないため、さやは生の豆さやとして扱います。常温で2〜4日、冷蔵で5〜7日、いずれも割らないまま保存するのが前提です。",
+    "pantry": "食べる直前までさやを割らないこと。これが最も大切な点です。種を包む白い果肉は開けてから数時間で褐変し、いったん外気に触れたら保存する方法はありません。さやのままなら常温で2〜4日ほど。密閉袋ではなく、涼しく風通しのよい場所に立てて置いてください。密閉すると汗をかき、さやの合わせ目からカビます。",
+    "fridge": "さやのまま、袋にゆるく入れて4℃以下の野菜室で5〜7日ほど。これは生の豆さややえんどうの扱いを当てはめた目安で、インガ固有の公表値ではありません。しかもここで食べるのは豆ではなく甘い仮種皮です。果肉自体は保存できないので、割ったらその日のうちに食べきってください。",
+    "freezer": "アイスクリームビーンには定まった冷凍の目安がなく、そもそも向いていません。果肉はほぼ水と空気で、解凍すると灰色のべたついた塊に崩れ、名前の由来である食感がまさに失われます。どうしても保存したいなら、果肉を種から外して冷凍し、ドリンク用と割り切ってください。",
+    "thawing": "冷凍した果肉は凍ったままミキサーでドリンクに。解凍して果物として食べることは期待しないでください。",
+    "spoilage": [
+      "さやが張りのある緑ではなく茶色い、湿っている、しなびている",
+      "合わせ目が裂けて汁が出ている",
+      "割ったときの発酵臭・酸臭",
+      "果肉がすでに灰色や茶色、中で種が発芽している"
+    ],
+    "tips": [
+      "張りがあってふっくらし、裂けていない重いさやを選ぶ",
+      "食べる用意ができるまで割らない",
+      "種は生食しない。食べるのは白い仮種皮です",
+      "袋はゆるく。密閉すると汗をかいてカビます"
+    ],
+    "faq": [
+      {"q": "アイスクリームビーンはどのくらい持ちますか？", "a": "さやのままなら常温で2〜4日、冷蔵で5〜7日です。割った果肉はまったく保存できません。"},
+      {"q": "冷凍できますか？", "a": "実用的ではありません。解凍すると果肉がべたついた塊に崩れます。ドリンク用としてのみ。"},
+      {"q": "どこを食べますか？", "a": "種を包む柔らかい白い果肉です。種は生食せず、さやは捨てます。"}
+    ]
+  },
+  "es": {
+    "name": "Guaba",
+    "aliases": ["pacay", "guama", "inga", "ice cream bean", "cuajiniquil"],
+    "summary": "La guaba es una vaina verde y alargada del árbol de Inga; se abre y se come la pulpa blanca, dulce y algodonosa que envuelve cada semilla. Ningún organismo publica cifras, así que la vaina se trata como una legumbre fresca: unos 2 a 4 días a temperatura ambiente y 5 a 7 días en la nevera, siempre cerrada.",
+    "pantry": "Mantén la vaina cerrada hasta el momento de comerla: es la regla más importante. La pulpa blanca que rodea las semillas se oscurece a las pocas horas de abrirse, y no hay forma de conservarla una vez expuesta. Una vaina entera aguanta unos 2 a 4 días a temperatura ambiente; colócala en un sitio fresco y aireado y no en una bolsa cerrada, porque suda y enmohece por las costuras.",
+    "fridge": "Solo vainas enteras, en bolsa floja en el cajón a 4 °C (40 °F) o menos, unos 5 a 7 días. Es un límite tomado del manejo de vainas frescas de judía y guisante, no una cifra publicada para la Inga, y aquí lo comestible es el arilo dulce y no una legumbre. La pulpa en sí no se guarda: una vez abierta la vaina, cómela ese día.",
+    "freezer": "No existe un plazo establecido de congelación para la guaba, y no es buena candidata. La pulpa es casi toda agua y aire, y al descongelarse se deshace en una masa gris y pegajosa, perdiendo justo la textura que le da nombre. Si quieres guardar algo, raspa la pulpa de las semillas y congélala pensando en una bebida batida.",
+    "thawing": "Si has congelado la pulpa, bátela directamente congelada para una bebida. No esperes descongelarla y comerla como fruta.",
+    "spoilage": [
+      "Vaina parda, húmeda o lacia en lugar de firme y verde",
+      "Costuras abiertas que rezuman",
+      "Olor fermentado o agrio al abrirla",
+      "Pulpa ya gris o parda, o semillas germinando dentro"
+    ],
+    "tips": [
+      "Elige vainas firmes, llenas, sin grietas y con peso",
+      "No abras una vaina hasta que vayas a comerla",
+      "No comas las semillas crudas: lo comestible es el arilo blanco",
+      "Embólsalas sin cerrar; una bolsa hermética las hace sudar y enmohecer"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la guaba?", "a": "Unos 2 a 4 días a temperatura ambiente y 5 a 7 días refrigerada, con la vaina cerrada. La pulpa abierta no se conserva."},
+      {"q": "¿Se puede congelar la guaba?", "a": "No con provecho. La pulpa se deshace en una masa pegajosa. Congélala solo para bebidas batidas, si acaso."},
+      {"q": "¿Qué parte se come?", "a": "La pulpa blanca y blanda que envuelve cada semilla. Las semillas no se comen crudas y la vaina se descarta."}
+    ]
+  }
+}

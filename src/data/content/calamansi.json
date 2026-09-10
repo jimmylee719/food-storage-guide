@@ -1,0 +1,107 @@
+{
+  "slug": "calamansi",
+  "en": {
+    "name": "Calamansi",
+    "aliases": ["calamondin", "Philippine lime", "kalamansi", "limón filipino"],
+    "summary": "Calamansi is a small, thin-skinned green-to-orange citrus used across the Philippines and Taiwan as a souring juice rather than an eating fruit. No agency publishes figures for it, so treat it like a lime: 3 to 7 days on the counter, 2 to 3 weeks in the fridge, and 4 to 6 months for frozen juice.",
+    "pantry": "A bowl on the counter works for a few days — reckon on 3 to 7 — but calamansi dries out faster than a lime because the fruit is smaller and the skin is thinner, so the juice yield drops noticeably after a week. Keep it out of the sun and away from any heat source. If the skin starts to feel papery, juice the lot and freeze it rather than watching it shrivel.",
+    "fridge": "Sealed in a bag or a lidded box in the crisper at 4 °C (40 °F) or below, calamansi holds roughly 2 to 3 weeks; the container is what matters, since an open bowl in a fridge dries the fruit fast. This range follows the way limes are handled rather than a published calamansi figure. Roll the fruit firmly under your palm before cutting to get more juice out of it.",
+    "freezer": "The whole fruit turns to mush on thawing, so freeze the squeezed juice instead — an ice cube tray is ideal, and one cube is roughly the juice of two or three fruit. About 4 to 6 months at −18 °C (0 °F) is a sensible working range. Bag the cubes once solid and label them, because they look like every other frozen citrus cube.",
+    "thawing": "Drop a frozen juice cube straight into a sauce, marinade or drink, or thaw a couple in the fridge for an hour. Do not thaw at room temperature for long, and use thawed juice the same day.",
+    "spoilage": [
+      "Skin shrivelled, papery and giving almost no juice",
+      "Soft brown patches or blue-green mould on the rind",
+      "Fermented or musty smell when cut",
+      "Juice gone cloudy, dull or bitter"
+    ],
+    "tips": [
+      "Buy fruit that feels heavy for its size — that is the juice",
+      "Store in a sealed container in the fridge, not loose in a bowl",
+      "Juice the whole bag at once and freeze it in an ice cube tray",
+      "Roll the fruit under your palm before cutting to get more juice"
+    ],
+    "faq": [
+      {"q": "How long does calamansi last in the fridge?", "a": "Roughly 2 to 3 weeks sealed in a bag or box at 4 °C (40 °F) or below. There is no official figure; this follows lime storage."},
+      {"q": "Can you freeze calamansi?", "a": "Freeze the juice, not the whole fruit, which goes mushy. An ice cube tray works well and the juice keeps about 4 to 6 months."},
+      {"q": "Is calamansi the same as kumquat?", "a": "No. Kumquat is eaten whole, skin and all; calamansi is a sour juice citrus and is squeezed rather than eaten."}
+    ]
+  },
+  "zh": {
+    "name": "金桔",
+    "aliases": ["四季桔", "金柑橘", "calamansi", "菲律賓青檸"],
+    "summary": "金桔是小顆、皮薄、由綠轉橙的柑橘，在菲律賓和台灣主要當成取酸的汁液來源，而不是拿來直接吃的水果。沒有官方單位公布它的保存數據，所以用萊姆的標準來看：室溫 3 到 7 天，冷藏 2 到 3 週，榨出來的汁冷凍 4 到 6 個月。",
+    "pantry": "放在室溫的碗裡幾天沒問題，大約 3 到 7 天，但金桔比萊姆更快乾掉，因為果實更小、皮更薄，放超過一週出汁量會明顯下降。避開日曬和熱源。如果果皮開始摸起來像紙一樣，就整批榨汁冷凍，不要看著它皺掉。",
+    "fridge": "裝進密封袋或有蓋的盒子放蔬果室、維持 4°C 以下，大約可放 2 到 3 週；重點在容器，因為敞著放在冰箱裡會乾得很快。這個範圍是比照萊姆的做法，不是針對金桔公布的數字。切之前用掌心用力滾一滾，可以榨出更多汁。",
+    "freezer": "整顆解凍後會變成一團爛泥，所以請冷凍榨好的汁——製冰盒最好用，一格大約是兩三顆的量。−18°C 下 4 到 6 個月是合理的使用範圍。凍硬之後裝袋並貼標籤，因為所有柑橘冰塊看起來都一樣。",
+    "thawing": "冷凍果汁塊可以直接丟進醬汁、醃料或飲料裡，或放冷藏解凍一小時。不要在室溫放太久，解凍後的汁當天用完。",
+    "spoilage": [
+      "果皮皺縮、像紙一樣，幾乎榨不出汁",
+      "外皮出現褐色軟斑或藍綠色黴",
+      "切開時聞到發酵味或霉味",
+      "汁液變得混濁、暗沉或發苦"
+    ],
+    "tips": [
+      "挑拿起來比看起來重的，重量就是汁",
+      "冰箱裡要用密封容器裝，不要敞著放碗裡",
+      "整袋一次榨完，用製冰盒凍成塊",
+      "切之前用掌心滾壓，出汁會更多"
+    ],
+    "faq": [
+      {"q": "金桔放冰箱可以放多久？", "a": "密封裝在袋子或盒子裡、放 4°C 以下，大約 2 到 3 週。沒有官方數字，這是比照萊姆的做法。"},
+      {"q": "金桔可以冷凍嗎？", "a": "冷凍榨好的汁，不要整顆冷凍，整顆會爛掉。用製冰盒很方便，果汁大約可放 4 到 6 個月。"},
+      {"q": "金桔和金柑是同一種嗎？", "a": "不是。金柑（kumquat）是連皮整顆吃的；金桔（calamansi）是酸味柑橘，主要用來榨汁。"}
+    ]
+  },
+  "ja": {
+    "name": "カラマンシー",
+    "aliases": ["シキキツ", "四季橘", "カラモンディン", "フィリピンライム"],
+    "summary": "カラマンシーは小ぶりで皮の薄い、緑からオレンジに色づく柑橘で、フィリピンや台湾では食べる果物というより酸味を加える果汁として使われます。公的な保存データがないため、ライムの扱いに倣います。常温で3〜7日、冷蔵で2〜3週間、搾った果汁なら冷凍で4〜6か月です。",
+    "pantry": "常温の器で数日、目安として3〜7日は問題ありません。ただし果実が小さく皮も薄いのでライムより早く乾き、1週間を過ぎると果汁の量が目に見えて落ちます。日光と熱源を避けてください。皮が紙のような手触りになってきたら、しぼんでいくのを眺めずにまとめて搾って冷凍しましょう。",
+    "fridge": "袋やふたつき容器に密閉して4℃以下の野菜室に入れれば2〜3週間ほど持ちます。大事なのは容器で、冷蔵庫内で口を開けたまま置くとすぐ乾きます。この範囲はライムの扱いを当てはめたもので、カラマンシー固有の公表値ではありません。切る前に手のひらで転がすと果汁がよく出ます。",
+    "freezer": "まるごと凍らせると解凍時にどろどろになるので、搾った果汁を冷凍します。製氷皿が便利で、1個がだいたい2〜3個分の果汁です。−18℃で4〜6か月が妥当な範囲。凍ったら袋に移してラベルを貼ってください。柑橘の果汁キューブはどれも見た目が同じです。",
+    "thawing": "凍った果汁キューブはソースやマリネ、飲み物に直接入れます。冷蔵庫で1時間ほど解凍しても構いません。常温で長く置かず、解凍した果汁はその日のうちに使ってください。",
+    "spoilage": [
+      "皮がしぼんで紙のようになり、果汁がほとんど出ない",
+      "皮に茶色い軟らかい斑や青緑のカビ",
+      "切ったときに発酵臭やかび臭がする",
+      "果汁が濁る、くすむ、苦くなる"
+    ],
+    "tips": [
+      "見た目より重く感じるものを選ぶ（重さ＝果汁）",
+      "冷蔵庫では密閉容器に。器に裸で置かない",
+      "袋ごと一度に搾って製氷皿で冷凍する",
+      "切る前に手のひらで転がすと搾りやすい"
+    ],
+    "faq": [
+      {"q": "カラマンシーは冷蔵庫でどのくらい持ちますか？", "a": "密閉して4℃以下で2〜3週間ほどです。公的な数字はなく、ライムの保存に倣っています。"},
+      {"q": "カラマンシーは冷凍できますか？", "a": "まるごとではなく果汁を冷凍します。製氷皿が便利で、果汁はおよそ4〜6か月持ちます。"},
+      {"q": "きんかんと同じものですか？", "a": "違います。きんかんは皮ごと食べる果実、カラマンシーは搾って使う酸味柑橘です。"}
+    ]
+  },
+  "es": {
+    "name": "Calamansi",
+    "aliases": ["calamondín", "limón filipino", "naranjita china", "kalamansi"],
+    "summary": "El calamansi es un cítrico pequeño y de piel fina, de verde a naranja, usado en Filipinas y Taiwán como zumo acidulante más que como fruta de mesa. Ningún organismo publica cifras para él, así que se trata como una lima: 3 a 7 días en la encimera, 2 a 3 semanas en la nevera y 4 a 6 meses de zumo congelado.",
+    "pantry": "Un frutero en la encimera sirve unos días, entre 3 y 7, pero el calamansi se reseca antes que una lima porque la fruta es más pequeña y la piel más fina, y pasada la semana el rendimiento de zumo cae de forma notable. Mantenlo lejos del sol y de cualquier fuente de calor. Si la piel empieza a notarse papelosa, exprímelo todo y congela el zumo en vez de verlo arrugarse.",
+    "fridge": "Cerrado en una bolsa o caja con tapa en el cajón, a 4 °C (40 °F) o menos, aguanta unas 2 a 3 semanas; lo decisivo es el recipiente, porque en un bol abierto dentro de la nevera se seca rápido. Este rango sigue el manejo de las limas y no una cifra publicada para el calamansi. Rueda la fruta con la palma antes de cortarla para sacar más zumo.",
+    "freezer": "La fruta entera se deshace al descongelarse, así que congela el zumo exprimido: una cubitera es lo ideal y un cubito equivale al zumo de dos o tres frutas. Unos 4 a 6 meses a −18 °C (0 °F) es un rango sensato. Embolsa los cubitos cuando estén duros y etiquétalos, porque todos los cubitos de cítrico se parecen.",
+    "thawing": "Echa un cubito congelado directamente a la salsa, el adobo o la bebida, o descongela un par en la nevera durante una hora. No lo dejes mucho tiempo a temperatura ambiente y usa el zumo descongelado el mismo día.",
+    "spoilage": [
+      "Piel arrugada y papelosa que apenas da zumo",
+      "Manchas pardas blandas o moho verde azulado en la corteza",
+      "Olor fermentado o a humedad al cortarlo",
+      "Zumo turbio, apagado o amargo"
+    ],
+    "tips": [
+      "Elige fruta que pese mucho para su tamaño: ese peso es zumo",
+      "Guárdalo en recipiente cerrado en la nevera, no suelto en un bol",
+      "Exprime toda la bolsa de una vez y congela el zumo en cubitera",
+      "Rueda la fruta con la palma antes de cortarla"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el calamansi en la nevera?", "a": "Unas 2 a 3 semanas cerrado en bolsa o caja a 4 °C (40 °F) o menos. No hay cifra oficial; sigue el manejo de la lima."},
+      {"q": "¿Se puede congelar el calamansi?", "a": "Congela el zumo, no la fruta entera, que se deshace. La cubitera funciona bien y el zumo dura unos 4 a 6 meses."},
+      {"q": "¿Es lo mismo que el kumquat?", "a": "No. El kumquat se come entero, con piel; el calamansi es un cítrico ácido que se exprime."}
+    ]
+  }
+}
