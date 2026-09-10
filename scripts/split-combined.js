@@ -512,6 +512,19 @@ for (const [parentSlug, children] of Object.entries(SPLITS)) {
   const parent = bySlug.get(parentSlug);
   if (!parent) { problems.push(`parent not found: ${parentSlug}`); continue; }
   replaced.add(parentSlug);
+  // A bundled record's keywords list every food in the bundle, so inheriting
+  // them wholesale gives each child the names of all its siblings: mackerel
+  // ended up carrying the keyword "salmon", and a search for salmon returned
+  // every fish it had been bundled with. Only the terms that describe the group
+  // as a whole are inherited.
+  const siblingTerms = new Set();
+  for (const c of children) {
+    siblingTerms.add(c.name.toLowerCase());
+    for (const k of c.keywords || []) siblingTerms.add(String(k).toLowerCase());
+    for (const k of LOCAL_NAMES[c.slug] || []) siblingTerms.add(String(k).toLowerCase());
+  }
+  const sharedKeywords = parent.keywords.filter((k) => !siblingTerms.has(String(k).toLowerCase()));
+
   for (const child of children) {
     if (bySlug.get(child.slug)) { problems.push(`slug already exists in base: ${child.slug}`); continue; }
     out.push({
@@ -523,7 +536,7 @@ for (const [parentSlug, children] of Object.entries(SPLITS)) {
       derivedFromName: parent.name + (parent.subtitle ? `, ${parent.subtitle}` : ''),
       name: child.name,
       subtitle: child.subtitle || null,
-      keywords: [...new Set([...(child.keywords || []), ...(LOCAL_NAMES[child.slug] || []), ...parent.keywords])],
+      keywords: [...new Set([...(child.keywords || []), ...(LOCAL_NAMES[child.slug] || []), ...sharedKeywords])],
       storage: parent.storage,
     });
   }

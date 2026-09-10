@@ -19,7 +19,24 @@ const ROOT = path.join(__dirname, '..');
 const D = (...p) => path.join(ROOT, 'src', 'data', ...p);
 const BRIEF_SIZE = 25;
 
-// Search demand first, long tail last. Fruits, vegetables and sauces are both
+// Everyday staples come before everything else, whatever their category. These
+// are the foods people actually type into the search box, and a staple without
+// a page sends the reader to a row in a table instead of an answer.
+const STAPLES = [
+  'salmon', 'tuna-fresh', 'shrimp', 'cod', 'mackerel', 'squid', 'oysters-shucked', 'clams-shucked',
+  'firm-tofu', 'silken-tofu', 'natto', 'edamame-fresh',
+  'onions', 'carrots', 'broccoli', 'spinach', 'green-beans', 'bell-peppers', 'summer-squash',
+  'mango', 'papaya', 'lemons', 'limes', 'oranges', 'grapefruit', 'tangerines', 'peaches', 'pears', 'plums',
+  'lychee', 'blackberries', 'currants', 'passionfruit',
+  'cheddar-cheese', 'swiss-cheese', 'parmesan-block', 'brie', 'goat-cheese', 'mozzarella-in-brine',
+  'liver', 'collard-greens', 'iceberg-lettuce', 'romaine-lettuce', 'leaf-lettuce',
+  'daikon', 'napa-cabbage', 'shiitake-fresh', 'enoki', 'king-oyster-mushroom',
+  'fresh-ramen-noodles', 'fresh-udon', 'dumpling-wrappers', 'frozen-dumplings',
+  'kimchi', 'gochujang', 'doubanjiang', 'oyster-sauce', 'fish-sauce',
+  'paneer', 'naan', 'corn-tortillas-fresh', 'queso-fresco', 'chayote',
+];
+
+// Then by search demand, long tail last. Fruits, vegetables and sauces are both
 // the largest gaps and the ones readers arrive looking for.
 const PRIORITY = [
   'fruits', 'vegetables', 'condiments-sauces',
@@ -49,8 +66,14 @@ const withContent = new Set(
 );
 
 const missing = all.filter((f) => !withContent.has(f.slug));
+const staple = new Map(STAPLES.map((s, i) => [s, i]));
 const rank = (c) => { const i = PRIORITY.indexOf(c); return i === -1 ? PRIORITY.length : i; };
-missing.sort((a, b) => rank(a.category) - rank(b.category) || a.slug.localeCompare(b.slug));
+missing.sort((a, b) => {
+  const sa = staple.has(a.slug) ? staple.get(a.slug) : Infinity;
+  const sb = staple.has(b.slug) ? staple.get(b.slug) : Infinity;
+  if (sa !== sb) return sa - sb;
+  return rank(a.category) - rank(b.category) || a.slug.localeCompare(b.slug);
+});
 
 const briefs = missing.map((f) => ({
   slug: f.slug,

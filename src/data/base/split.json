@@ -13,11 +13,7 @@
    "mangoes",
    "芒果",
    "マンゴー",
-   "Papaya",
-   "feijoa",
-   "passionfruit",
    "casaha melon",
-   "melon",
    "fruit",
    "passion"
   ],
@@ -62,12 +58,7 @@
    "pawpaw",
    "木瓜",
    "パパイヤ",
-   "Papaya",
-   "mango",
-   "feijoa",
-   "passionfruit",
    "casaha melon",
-   "melon",
    "fruit",
    "passion"
   ],
@@ -115,11 +106,7 @@
    "パッションフルーツ",
    "maracuyá",
    "fruta de la pasión",
-   "Papaya",
-   "mango",
-   "feijoa",
    "casaha melon",
-   "melon",
    "fruit",
    "passion"
   ],
@@ -164,11 +151,7 @@
    "pineapple guava",
    "斐濟果",
    "フェイジョア",
-   "Papaya",
-   "mango",
-   "passionfruit",
    "casaha melon",
-   "melon",
    "fruit",
    "passion"
   ],
@@ -214,10 +197,6 @@
    "卡薩巴甜瓜",
    "カサバメロン",
    "melón casaba",
-   "Papaya",
-   "mango",
-   "feijoa",
-   "passionfruit",
    "casaha melon",
    "fruit",
    "passion"
@@ -270,8 +249,7 @@
    "cherries",
    "cherry",
    "goose berries",
-   "goose berry",
-   "gooseberries"
+   "goose berry"
   ],
   "storage": {
    "fridge": {
@@ -312,8 +290,7 @@
    "cherries",
    "cherry",
    "goose berries",
-   "goose berry",
-   "lychee"
+   "goose berry"
   ],
   "storage": {
    "fridge": {
@@ -350,10 +327,7 @@
    "ブラックベリー",
    "mora",
    "Berries",
-   "berry",
-   "boysenberries",
-   "boysenberry",
-   "currant"
+   "berry"
   ],
   "storage": {
    "fridge": {
@@ -389,11 +363,7 @@
    "ボイセンベリー",
    "baya de Boysen",
    "Berries",
-   "berry",
-   "blackberries",
-   "blackberry",
-   "boysenberries",
-   "currant"
+   "berry"
   ],
   "storage": {
    "fridge": {
@@ -431,11 +401,7 @@
    "カラント",
    "grosella",
    "Berries",
-   "berry",
-   "blackberries",
-   "blackberry",
-   "boysenberries",
-   "boysenberry"
+   "berry"
   ],
   "storage": {
    "fridge": {
@@ -472,15 +438,7 @@
    "桃",
    "もも",
    "melocotón",
-   "durazno",
-   "Peaches",
-   "nectarines",
-   "plums",
-   "pears",
-   "sapote",
-   "nectarine",
-   "plum",
-   "pear"
+   "durazno"
   ],
   "storage": {
    "pantry": {
@@ -522,15 +480,7 @@
    "nectarine",
    "油桃",
    "ネクタリン",
-   "nectarina",
-   "Peaches",
-   "nectarines",
-   "plums",
-   "pears",
-   "sapote",
-   "peach",
-   "plum",
-   "pear"
+   "nectarina"
   ],
   "storage": {
    "pantry": {
@@ -574,14 +524,7 @@
    "李子",
    "梅",
    "プラム",
-   "ciruela",
-   "Peaches",
-   "nectarines",
-   "pears",
-   "sapote",
-   "peach",
-   "nectarine",
-   "pear"
+   "ciruela"
   ],
   "storage": {
    "pantry": {
@@ -625,14 +568,7 @@
    "西洋梨",
    "梨",
    "洋なし",
-   "pera",
-   "Peaches",
-   "nectarines",
-   "plums",
-   "sapote",
-   "peach",
-   "nectarine",
-   "plum"
+   "pera"
   ],
   "storage": {
    "pantry": {
@@ -675,15 +611,7 @@
    "mamey",
    "人心果",
    "サポテ",
-   "zapote",
-   "Peaches",
-   "nectarines",
-   "plums",
-   "pears",
-   "peach",
-   "nectarine",
-   "plum",
-   "pear"
+   "zapote"
   ],
   "storage": {
    "pantry": {
@@ -730,14 +658,9 @@
    "Citrus fruit",
    "fruit",
    "citrus",
-   "lime",
-   "orange",
    "grape",
-   "grapefruit",
    "tangerines",
-   "tangerine",
-   "clementines",
-   "clementine"
+   "clementines"
   ],
   "storage": {
    "pantry": {
@@ -776,14 +699,9 @@
    "Citrus fruit",
    "fruit",
    "citrus",
-   "lemon",
-   "orange",
    "grape",
-   "grapefruit",
    "tangerines",
-   "tangerine",
-   "clementines",
-   "clementine"
+   "clementines"
   ],
   "storage": {
    "pantry": {
@@ -823,14 +741,9 @@
    "Citrus fruit",
    "fruit",
    "citrus",
-   "lemon",
-   "lime",
    "grape",
-   "grapefruit",
    "tangerines",
-   "tangerine",
-   "clementines",
-   "clementine"
+   "clementines"
   ],
   "storage": {
    "pantry": {
@@ -869,14 +782,9 @@
    "Citrus fruit",
    "fruit",
    "citrus",
-   "lemon",
-   "lime",
-   "orange",
    "grape",
    "tangerines",
-   "tangerine",
-   "clementines",
-   "clementine"
+   "clementines"
   ],
   "storage": {
    "pantry": {
@@ -918,11 +826,7 @@
    "Citrus fruit",
    "fruit",
    "citrus",
-   "lemon",
-   "lime",
-   "orange",
    "grape",
-   "grapefruit",
    "tangerines",
    "clementines"
   ],
@@ -960,10 +864,7 @@
    "紅蘿蔔",
    "胡蘿蔔",
    "にんじん",
-   "zanahoria",
-   "Carrots",
-   "parsnips",
-   "parsnip"
+   "zanahoria"
   ],
   "storage": {
    "fridge": {
@@ -997,10 +898,7 @@
    "parsnip",
    "歐防風",
    "パースニップ",
-   "chirivía",
-   "Carrots",
-   "parsnips",
-   "carrot"
+   "chirivía"
   ],
   "storage": {
    "fridge": {
@@ -1042,12 +940,10 @@
    "Beans",
    "peas",
    "green",
-   "fava",
    "lima",
    "soybean",
    "wax",
    "snow",
-   "sugar snap",
    "sugar",
    "pea",
    "soya"
@@ -1093,7 +989,6 @@
    "soybean",
    "wax",
    "snow",
-   "sugar snap",
    "sugar",
    "pea",
    "soya"
@@ -1135,12 +1030,10 @@
    "Beans",
    "peas",
    "green",
-   "fava",
    "lima",
    "soybean",
    "wax",
    "snow",
-   "sugar snap",
    "sugar",
    "pea",
    "soya"
@@ -1182,12 +1075,10 @@
    "Beans",
    "peas",
    "green",
-   "fava",
    "lima",
    "soybean",
    "wax",
    "snow",
-   "sugar snap",
    "sugar",
    "pea",
    "soya"
@@ -1230,12 +1121,10 @@
    "Beans",
    "peas",
    "green",
-   "fava",
    "lima",
    "soybean",
    "wax",
    "snow",
-   "sugar snap",
    "sugar",
    "pea",
    "soya"
@@ -1277,7 +1166,6 @@
    "Beans",
    "peas",
    "green",
-   "fava",
    "lima",
    "soybean",
    "wax",
@@ -1320,9 +1208,6 @@
    "綠花椰菜",
    "ブロッコリー",
    "brócoli",
-   "Broccoli",
-   "broccoli raab",
-   "rapini",
    "raab"
   ],
   "storage": {
@@ -1361,7 +1246,6 @@
    "菜心",
    "ブロッコリーラーブ",
    "grelo",
-   "Broccoli",
    "raab"
   ],
   "storage": {
@@ -1398,9 +1282,7 @@
    "結球萵苣",
    "美生菜",
    "レタス",
-   "lechuga iceberg",
-   "Lettuce",
-   "romaine"
+   "lechuga iceberg"
   ],
   "storage": {
    "fridge": {
@@ -1427,9 +1309,7 @@
    "cos lettuce",
    "蘿蔓",
    "ロメインレタス",
-   "lechuga romana",
-   "Lettuce",
-   "iceberg"
+   "lechuga romana"
   ],
   "storage": {
    "fridge": {
@@ -1458,8 +1338,7 @@
    "リーフレタス",
    "lechuga de hoja",
    "Lettuce",
-   "leaf",
-   "spinach"
+   "leaf"
   ],
   "storage": {
    "fridge": {
@@ -1565,7 +1444,6 @@
    "洋蔥",
    "たまねぎ",
    "cebolla",
-   "Onions",
    "yellow",
    "white",
    "red"
@@ -1654,10 +1532,6 @@
    "たら",
    "bacalao",
    "Lean fish",
-   "flounder",
-   "haddock",
-   "halibut",
-   "sole",
    "fish"
   ],
   "storage": {
@@ -1696,10 +1570,6 @@
    "かれい",
    "platija",
    "Lean fish",
-   "cod",
-   "haddock",
-   "halibut",
-   "sole",
    "fish"
   ],
   "storage": {
@@ -1736,10 +1606,6 @@
    "ハドック",
    "eglefino",
    "Lean fish",
-   "cod",
-   "flounder",
-   "halibut",
-   "sole",
    "fish"
   ],
   "storage": {
@@ -1776,10 +1642,6 @@
    "おひょう",
    "fletán",
    "Lean fish",
-   "cod",
-   "flounder",
-   "haddock",
-   "sole",
    "fish"
   ],
   "storage": {
@@ -1818,10 +1680,6 @@
    "したびらめ",
    "lenguado",
    "Lean fish",
-   "cod",
-   "flounder",
-   "haddock",
-   "halibut",
    "fish"
   ],
   "storage": {
@@ -1861,11 +1719,8 @@
    "abadejo",
    "Lean fish",
    "ocean",
-   "rockfish",
    "sea",
-   "sea trout",
    "fish",
-   "ocean perch",
    "perch",
    "trout",
    "rock"
@@ -1906,11 +1761,8 @@
    "あかうお",
    "gallineta",
    "Lean fish",
-   "pollock",
    "ocean",
-   "rockfish",
    "sea",
-   "sea trout",
    "fish",
    "perch",
    "trout",
@@ -1951,12 +1803,9 @@
    "めばる",
    "cabracho",
    "Lean fish",
-   "pollock",
    "ocean",
    "sea",
-   "sea trout",
    "fish",
-   "ocean perch",
    "perch",
    "trout",
    "rock"
@@ -1995,12 +1844,9 @@
    "うみます",
    "trucha marina",
    "Lean fish",
-   "pollock",
    "ocean",
-   "rockfish",
    "sea",
    "fish",
-   "ocean perch",
    "perch",
    "trout",
    "rock"
@@ -2041,11 +1887,6 @@
    "サーモン",
    "salmón",
    "Fatty fish",
-   "bluefish",
-   "catfish",
-   "mackerel",
-   "mullet",
-   "tuna",
    "fish",
    "fatty",
    "blue",
@@ -2089,11 +1930,6 @@
    "ツナ",
    "atún",
    "Fatty fish",
-   "bluefish",
-   "catfish",
-   "mackerel",
-   "mullet",
-   "salmon",
    "fish",
    "fatty",
    "blue",
@@ -2133,11 +1969,6 @@
    "さば",
    "caballa",
    "Fatty fish",
-   "bluefish",
-   "catfish",
-   "mullet",
-   "salmon",
-   "tuna",
    "fish",
    "fatty",
    "blue",
@@ -2177,11 +2008,6 @@
    "なまず",
    "bagre",
    "Fatty fish",
-   "bluefish",
-   "mackerel",
-   "mullet",
-   "salmon",
-   "tuna",
    "fish",
    "fatty",
    "blue",
@@ -2222,11 +2048,6 @@
    "あおざかな",
    "anjova",
    "Fatty fish",
-   "catfish",
-   "mackerel",
-   "mullet",
-   "salmon",
-   "tuna",
    "fish",
    "fatty",
    "blue",
@@ -2267,11 +2088,6 @@
    "mújol",
    "lisa",
    "Fatty fish",
-   "bluefish",
-   "catfish",
-   "mackerel",
-   "salmon",
-   "tuna",
    "fish",
    "fatty",
    "blue",
@@ -2315,8 +2131,6 @@
    "海老",
    "gamba",
    "camarón",
-   "Shrimp",
-   "crayfish",
    "cray",
    "fish"
   ],
@@ -2355,7 +2169,6 @@
    "小龍蝦",
    "ザリガニ",
    "cangrejo de río",
-   "Shrimp",
    "cray",
    "fish"
   ],
@@ -2394,11 +2207,7 @@
    "去殼蛤蜊",
    "むき身あさり",
    "almeja sin concha",
-   "Shucked clams",
-   "mussels",
-   "oysters",
-   "mussel",
-   "oyster"
+   "Shucked clams"
   ],
   "storage": {
    "fridge": {
@@ -2435,11 +2244,7 @@
    "去殼淡菜",
    "むき身ムール貝",
    "mejillón sin concha",
-   "Shucked clams",
-   "oysters",
-   "clams",
-   "clam",
-   "oyster"
+   "Shucked clams"
   ],
   "storage": {
    "fridge": {
@@ -2476,11 +2281,7 @@
    "牡蠣肉",
    "むき身かき",
    "ostra sin concha",
-   "Shucked clams",
-   "mussels",
-   "clams",
-   "clam",
-   "mussel"
+   "Shucked clams"
   ],
   "storage": {
    "fridge": {
@@ -2515,9 +2316,7 @@
    "切達起司",
    "チェダーチーズ",
    "queso cheddar",
-   "Cheese",
-   "swiss",
-   "parmesan"
+   "Cheese"
   ],
   "storage": {
    "fridge": {
@@ -2560,9 +2359,7 @@
    "瑞士起司",
    "スイスチーズ",
    "queso suizo",
-   "Cheese",
-   "cheddar",
-   "parmesan"
+   "Cheese"
   ],
   "storage": {
    "fridge": {
@@ -2604,9 +2401,7 @@
    "帕瑪森起司",
    "パルメザンチーズ",
    "queso parmesano",
-   "Cheese",
-   "cheddar",
-   "swiss"
+   "Cheese"
   ],
   "storage": {
    "fridge": {
@@ -2689,7 +2484,6 @@
    "シェーブル",
    "queso de cabra",
    "Cheese",
-   "brie",
    "bel paese",
    "goat"
   ],
@@ -2730,7 +2524,6 @@
    "肝",
    "hígado",
    "Variety meats",
-   "tongue",
    "chitterlings",
    "meats",
    "meat",
@@ -2772,7 +2565,6 @@
    "たん",
    "lengua",
    "Variety meats",
-   "liver",
    "chitterlings",
    "meats",
    "meat",
