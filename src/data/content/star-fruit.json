@@ -1,0 +1,107 @@
+{
+  "slug": "star-fruit",
+  "en": {
+    "name": "Star fruit",
+    "aliases": ["carambola", "five-corner fruit", "carambolo", "belimbing"],
+    "summary": "Star fruit, or carambola, is the waxy yellow ridged fruit that cuts into perfect stars, with crisp juicy flesh and an entirely edible skin. It keeps about 1 week on the counter or until ripe, then 1 to 2 weeks in the fridge from purchase, and sliced fruit freezes for 10 to 12 months.",
+    "pantry": "A bowl on the counter keeps star fruit about a week, or until it is ripe — tender, fully developed and ready to eat. Ripeness shows as the green tinge disappearing and the whole fruit turning golden yellow, often with brown edges along the ridges, which is normal rather than damage. Keep it out of the sun, in a single layer, because the thin ridges bruise where fruit presses against fruit.",
+    "fridge": "Refrigerated at 4 °C (40 °F) or below, star fruit keeps 1 to 2 weeks from purchase. Store it loose or in a perforated bag; sealed plastic makes the ridges go soft and brown. Slice it only when you want it, since the cut surfaces dry and dull quickly — and there is no need to peel or seed it beyond flicking out the few flat seeds.",
+    "freezer": "Sliced star fruit keeps 10 to 12 months at −18 °C (0 °F). Trim the brown edges off the ridges, slice the fruit across into stars, freeze them in a single layer on a lined tray and bag them once solid so they stay separate. The slices soften on thawing, so they are best used in drinks, compotes and as a garnish dropped in frozen rather than eaten raw.",
+    "thawing": "Drop the frozen stars straight into drinks and punches, or thaw briefly in the fridge for cooking. They will not be crisp once thawed.",
+    "spoilage": [
+      "Ridges gone brown and soft all the way along, not just at the very edge",
+      "Flesh turned translucent, brown or mushy",
+      "Fermented or sour smell",
+      "Mould at the stem end or in a split along a ridge"
+    ],
+    "tips": [
+      "Brown edges on the ridges are normal — trim them and eat the rest",
+      "The skin is edible; there is no need to peel it",
+      "Slice across the fruit to get the star shape",
+      "Freeze slices to drop into drinks as an edible garnish"
+    ],
+    "faq": [
+      {"q": "How long does star fruit last?", "a": "About 1 week on the counter or until ripe, then 1 to 2 weeks in the fridge from purchase."},
+      {"q": "Do you peel star fruit?", "a": "No. The skin is thin and entirely edible. Just trim any brown edges from the ridges and flick out the few flat seeds."},
+      {"q": "Can you freeze star fruit?", "a": "Yes, sliced, for 10 to 12 months. The slices soften, so use them in drinks and compotes rather than raw."}
+    ]
+  },
+  "zh": {
+    "name": "楊桃",
+    "aliases": ["五斂子", "陽桃", "carambola", "星星果"],
+    "summary": "楊桃是表面帶蠟質光澤、有稜的黃色水果，橫切開來是漂亮的星形，果肉清脆多汁，而且外皮完全可以吃。室溫約可放一週或放到熟，之後從購買日起冷藏 1 到 2 週；切片冷凍 10 到 12 個月。",
+    "pantry": "放在室溫的碗裡大約一週，或放到熟為止，也就是變得柔軟、發育完全、可以入口。熟度的表現是綠色調完全消失、整顆轉為金黃，稜邊常會帶點褐色，那是正常的而不是損傷。避開日曬、單層擺放，因為薄薄的稜在果實互相擠壓的地方很容易碰傷。",
+    "fridge": "放 4°C 以下冷藏，從購買日起可放 1 到 2 週。鬆散地放或用打洞的袋子裝；密封塑膠袋會讓稜邊變軟發褐。要吃再切，因為切面很快就會變乾失色——而且除了把幾顆扁扁的種子挑掉之外，不需要削皮也不用特別處理。",
+    "freezer": "切片的楊桃在 −18°C 下可放 10 到 12 個月。先把稜邊褐化的部分削掉，橫切成星形片，鋪在墊紙的托盤上單層冷凍，凍硬後裝袋，片與片才不會黏在一起。解凍後會變軟，所以最適合直接冷凍丟進飲料、做糖煮，或當裝飾，而不是生吃。",
+    "thawing": "冷凍的星形片直接丟進飲料和水果酒裡，或要煮的話放冷藏稍微解凍。解凍之後就不脆了。",
+    "spoilage": [
+      "整條稜都變褐變軟，而不只是最邊緣",
+      "果肉變得半透明、轉褐或軟爛",
+      "有發酵味或酸味",
+      "蒂頭處或稜上的裂縫長黴"
+    ],
+    "tips": [
+      "稜邊帶褐色是正常的，削掉那一條，其餘照吃",
+      "皮可以吃，不需要削",
+      "橫著切才會出現星形",
+      "切片冷凍起來，可以當成能吃的飲料裝飾"
+    ],
+    "faq": [
+      {"q": "楊桃可以放多久？", "a": "室溫約一週或放到熟，之後從購買日起冷藏 1 到 2 週。"},
+      {"q": "楊桃要削皮嗎？", "a": "不用。它的皮很薄而且完全可以吃，只要把稜邊褐化的部分削掉、挑掉幾顆扁種子就好。"},
+      {"q": "楊桃可以冷凍嗎？", "a": "可以，切片冷凍 10 到 12 個月。解凍後會變軟，適合加進飲料或做糖煮，不適合生吃。"}
+    ]
+  },
+  "ja": {
+    "name": "スターフルーツ",
+    "aliases": ["ゴレンシ", "五歛子", "カランボラ", "星型果実"],
+    "summary": "スターフルーツ（カランボラ）は稜のある黄色いつやのある果実で、横に切ると星形になり、果肉はしゃきっとしてみずみずしく、皮ごと食べられます。常温で約1週間（熟すまで）、その後は購入日から冷蔵で1〜2週間、スライスは冷凍で10〜12か月です。",
+    "pantry": "常温の器で約1週間、または熟すまで、つまりやわらかく十分に発育して食べられる状態になるまで置きます。熟すと緑みが消えて全体が黄金色になり、稜の縁が茶色くなることが多いのですが、これは傷みではなく正常です。日光を避け、一段に並べてください。薄い稜は実どうしが当たる場所で傷つきます。",
+    "fridge": "4℃以下なら購入日から1〜2週間持ちます。裸か穴あき袋で保存を。密閉すると稜が軟らかく茶色くなります。切り口はすぐ乾いてくすむので、食べるときに切りましょう。平たい種を数個取り除く以外に、皮をむくなどの下処理は不要です。",
+    "freezer": "スライスは−18℃で10〜12か月持ちます。稜の茶色い縁を削ぎ、横に切って星形にし、紙を敷いたトレーで一段に凍らせ、固まったら袋へ。解凍すると軟らかくなるので、生食よりも凍ったまま飲み物に入れたり、コンポートや飾りに使うのが向いています。",
+    "thawing": "凍った星形はそのまま飲み物やパンチへ。加熱調理するなら冷蔵庫で軽く解凍します。解凍後はしゃきっとしません。",
+    "spoilage": [
+      "縁だけでなく稜全体が茶色く軟らかい",
+      "果肉が半透明、茶色い、どろっとしている",
+      "発酵臭・酸臭",
+      "ヘタや稜の裂け目のカビ"
+    ],
+    "tips": [
+      "稜の縁の茶色は正常。そこだけ削いで残りは食べられます",
+      "皮は食べられるのでむく必要はありません",
+      "横に切ると星形になります",
+      "スライスを冷凍して、食べられる飲み物の飾りに"
+    ],
+    "faq": [
+      {"q": "スターフルーツはどのくらい持ちますか？", "a": "常温で約1週間（熟すまで）、その後は購入日から冷蔵で1〜2週間です。"},
+      {"q": "皮はむきますか？", "a": "むきません。皮は薄く食べられます。稜の茶色い縁を削ぎ、平たい種を取り除くだけで十分です。"},
+      {"q": "冷凍できますか？", "a": "はい、スライスで10〜12か月。解凍すると軟らかくなるので、飲み物やコンポート向きです。"}
+    ]
+  },
+  "es": {
+    "name": "Carambola",
+    "aliases": ["star fruit", "fruta estrella", "tamarindo chino", "carambolo"],
+    "summary": "La carambola es esa fruta amarilla y acostillada, de piel cerosa, que se corta en estrellas perfectas, con pulpa crujiente y jugosa y piel totalmente comestible. Aguanta alrededor de 1 semana en la encimera o hasta madurar, luego 1 a 2 semanas en la nevera desde la compra, y en rodajas se congela 10 a 12 meses.",
+    "pantry": "Un frutero conserva la carambola alrededor de una semana, o hasta que esté madura: tierna, plenamente desarrollada y lista para comer. La madurez se nota cuando desaparece el tono verde y la fruta se vuelve amarillo dorado, a menudo con los bordes de las aristas pardos, lo que es normal y no un daño. Mantenla fuera del sol y en una sola capa, porque las aristas finas se magullan donde una fruta presiona a otra.",
+    "fridge": "A 4 °C (40 °F) o menos la carambola aguanta 1 a 2 semanas desde la compra. Guárdala suelta o en bolsa perforada; el plástico cerrado ablanda y oscurece las aristas. Córtala solo cuando la vayas a usar, ya que las superficies cortadas se secan y apagan rápido, y no hace falta pelarla ni despepitarla más allá de sacar las pocas semillas planas.",
+    "freezer": "La carambola en rodajas aguanta 10 a 12 meses a −18 °C (0 °F). Recorta los bordes pardos de las aristas, córtala en estrellas, congélalas en una capa sobre bandeja forrada y embólsalas ya duras para que no se peguen. Las rodajas se ablandan al descongelarse, así que van mejor en bebidas, compotas o como adorno echado congelado que crudas.",
+    "thawing": "Echa las estrellas congeladas directamente a bebidas y ponches, o descongélalas brevemente en la nevera para cocinar. No quedarán crujientes.",
+    "spoilage": [
+      "Aristas pardas y blandas en toda su longitud, no solo en el borde",
+      "Pulpa translúcida, parda o pastosa",
+      "Olor fermentado o agrio",
+      "Moho en el pedúnculo o en una grieta de una arista"
+    ],
+    "tips": [
+      "Los bordes pardos de las aristas son normales: recórtalos y come el resto",
+      "La piel es comestible; no hace falta pelarla",
+      "Corta la fruta en transversal para obtener la estrella",
+      "Congela rodajas para usarlas como adorno comestible en bebidas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la carambola?", "a": "Alrededor de 1 semana en la encimera o hasta madurar, y luego 1 a 2 semanas en la nevera desde la compra."},
+      {"q": "¿Hay que pelar la carambola?", "a": "No. La piel es fina y totalmente comestible. Solo recorta los bordes pardos de las aristas y saca las pocas semillas planas."},
+      {"q": "¿Se puede congelar la carambola?", "a": "Sí, en rodajas, de 10 a 12 meses. Se ablandan, así que úsalas en bebidas y compotas más que crudas."}
+    ]
+  }
+}

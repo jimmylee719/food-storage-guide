@@ -1,0 +1,107 @@
+{
+  "slug": "tangerines",
+  "en": {
+    "name": "Tangerines and clementines",
+    "aliases": ["mandarin", "clementine", "satsuma", "mandarina"],
+    "summary": "Tangerines, clementines, satsumas and other easy-peel mandarins all keep the same way, and their loose skin makes them dry out faster than a thick-skinned orange. From purchase they hold about 10 days at room temperature and 10 to 21 days in the fridge.",
+    "pantry": "A bowl on the counter keeps mandarins about 10 days from the day you buy them, and they taste better at room temperature than straight from the fridge. Do not leave them in the net bag — the loose skin traps moisture inside it, and mould starts wherever fruit presses against fruit. Keep them out of direct sun and check the bottom of the bowl, since the fruit underneath goes first.",
+    "fridge": "In the crisper at 4 °C (40 °F) or below, mandarins keep roughly 10 to 21 days from purchase, about double their counter life. Store them loose in a single layer rather than piled up, and take one out half an hour before eating if you want the full aroma. Because the skin sits loosely on the segments, mandarins dry out from the inside faster than oranges do — a fruit that feels light and puffy is already past its best.",
+    "freezer": "USDA gives no freezer timeline for mandarins, and whole fruit does not freeze usefully: the delicate segments collapse and the pith turns bitter. What works is the juice frozen in an ice cube tray, the zest grated into a small tub and segments frozen in syrup for desserts. All keep good quality for months at −18 °C (0 °F).",
+    "thawing": "Use juice cubes and zest straight from the freezer. Thaw syrup-packed segments in the fridge and expect them to be soft.",
+    "spoilage": [
+      "Soft, wet or sunken patches, usually where fruit touched fruit",
+      "Blue-green or white mould on the skin",
+      "Fruit that feels light and puffy, meaning the segments have dried",
+      "Fermented smell or bitter, off-tasting juice"
+    ],
+    "tips": [
+      "Take them out of the net bag as soon as you get home",
+      "Choose fruit that feels heavy for its size, not puffy",
+      "Zest before peeling — mandarin zest is worth keeping",
+      "Remove any mouldy fruit at once; mould spreads through a bowl fast"
+    ],
+    "faq": [
+      {"q": "How long do mandarins last?", "a": "About 10 days at room temperature and 10 to 21 days in the fridge, both counted from the day you buy them."},
+      {"q": "Why do my clementines feel puffy and taste dry?", "a": "The loose skin lets the segments dry out from the inside. A fruit that feels light for its size is already past its best."},
+      {"q": "Can you freeze tangerines?", "a": "Not usefully as whole fruit. Freeze the juice in cubes, the zest in a tub, or segments in syrup."}
+    ]
+  },
+  "zh": {
+    "name": "橘子",
+    "aliases": ["柑橘", "椪柑", "砂糖橘", "克萊門氏小柑橘"],
+    "summary": "橘子、克萊門氏小柑橘、溫州蜜柑等好剝皮的柑橘，保存方式都一樣；而正因為皮和果肉之間是鬆的，它們比厚皮柳橙更快乾掉。從購買日起，室溫約可放 10 天，冷藏 10 到 21 天。",
+    "pantry": "放在室溫的碗裡，從買回來那天算起大約 10 天，而且它在室溫下比剛從冰箱拿出來時好吃。不要留在網袋裡——鬆鬆的果皮會把水氣困在袋子裡，而果實相貼的地方就是發黴的起點。避開日曬，並且要翻看碗底，因為最底下那幾顆會先壞。",
+    "fridge": "放在 4°C 以下的蔬果室，從購買日起大約 10 到 21 天，差不多是常溫的兩倍。單層鬆散地放而不要堆疊；想要完整香氣，吃之前先拿出來回溫半小時。因為果皮是鬆鬆貼在果瓣外面的，橘子會比柳橙更快從裡面乾掉——拿起來輕飄飄、皮鼓鼓的，就已經過了最佳狀態。",
+    "freezer": "USDA 沒有提供橘子的冷凍期限，而且整顆冷凍沒什麼用：細緻的果瓣會塌掉，白色海綿層還會發苦。可行的是：果汁用製冰盒凍成塊、果皮屑磨好裝小盒、果瓣泡糖水冷凍做甜點。這些在 −18°C 下都可以維持好幾個月的良好品質。",
+    "thawing": "果汁塊和果皮屑直接冷凍狀態使用。糖水果瓣放冷藏解凍，並預期它會偏軟。",
+    "spoilage": [
+      "出現軟塌、濕潤或凹陷的斑塊，通常在果實相貼的地方",
+      "外皮長藍綠色或白色的黴",
+      "拿起來輕、皮鼓鼓的，表示果瓣已經乾了",
+      "有發酵味，或果汁發苦、味道不對"
+    ],
+    "tips": [
+      "一到家就把它們從網袋裡拿出來",
+      "挑拿起來比看起來重的，不要挑皮鼓鼓的",
+      "剝皮之前先磨皮屑，橘皮屑很值得留",
+      "發黴的立刻拿掉，黴在一碗裡擴散得很快"
+    ],
+    "faq": [
+      {"q": "橘子可以放多久？", "a": "從購買日起，室溫約 10 天，冷藏 10 到 21 天。"},
+      {"q": "為什麼我的小柑橘皮鼓鼓的、吃起來很乾？", "a": "鬆鬆的果皮會讓果瓣從裡面乾掉。拿起來比看起來輕，就已經過了最佳狀態。"},
+      {"q": "橘子可以冷凍嗎？", "a": "整顆冷凍沒什麼用。建議冷凍果汁塊、果皮屑，或泡糖水的果瓣。"}
+    ]
+  },
+  "ja": {
+    "name": "みかん",
+    "aliases": ["温州みかん", "マンダリン", "クレメンティン", "柑橘"],
+    "summary": "みかん、クレメンティン、温州みかんなど皮のむきやすい柑橘は、いずれも同じように保存します。皮が果肉から浮いている分、皮の厚いオレンジより乾きやすいのが特徴です。購入日から常温で約10日、冷蔵で10〜21日持ちます。",
+    "pantry": "常温の器なら購入日から約10日持ち、冷蔵庫から出したてより常温のほうがおいしく感じられます。ネット袋に入れたままにしないでください。浮いた皮が袋の中に湿気をため、実どうしが触れている場所からカビが始まります。直射日光を避け、器の底も確認を。下になった実から傷みます。",
+    "fridge": "4℃以下の野菜室なら購入日から10〜21日ほどで、常温のおよそ倍です。積まずに一段で裸のまま置き、香りを楽しむなら食べる30分前に出しておきます。皮が果肉に密着していないぶん、オレンジより内側から乾きやすく、持って軽くふかふかしたものはすでに盛りを過ぎています。",
+    "freezer": "USDAはみかんの冷凍期間を示しておらず、まるごとの冷凍は実用的ではありません。繊細な房は崩れ、ワタは苦くなります。有効なのは果汁を製氷皿で、すりおろした皮を小容器で、房をシロップ漬けでデザート用に凍らせる方法。いずれも−18℃で数か月おいしく保てます。",
+    "thawing": "果汁キューブと皮は凍ったまま使います。シロップ漬けの房は冷蔵庫で解凍し、柔らかくなることを見越しておきましょう。",
+    "spoilage": [
+      "軟らかい、濡れた、へこんだ部分（実どうしが触れていた場所に多い）",
+      "皮の青緑や白のカビ",
+      "軽くふかふかしている（房が乾いているサイン）",
+      "発酵臭、果汁が苦く味がおかしい"
+    ],
+    "tips": [
+      "帰宅したらすぐネット袋から出す",
+      "見た目より重いものを選ぶ（ふかふかしたものは避ける）",
+      "むく前に皮をすりおろす（みかんの皮は使い道があります）",
+      "カビた実はすぐ取り除く（器の中で急速に広がります）"
+    ],
+    "faq": [
+      {"q": "みかんはどのくらい持ちますか？", "a": "購入日から常温で約10日、冷蔵で10〜21日です。"},
+      {"q": "皮がふかふかで中がぱさつくのはなぜ？", "a": "皮が浮いているため房が内側から乾くからです。見た目より軽い実はすでに盛りを過ぎています。"},
+      {"q": "冷凍できますか？", "a": "まるごとは向きません。果汁をキューブに、皮をすりおろして、房はシロップ漬けで冷凍しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Mandarinas y clementinas",
+    "aliases": ["mandarina", "clementina", "satsuma", "tangerina"],
+    "summary": "Mandarinas, clementinas, satsumas y demás cítricos de piel fácil se conservan igual, y esa piel suelta hace que se resequen antes que una naranja de corteza gruesa. Desde la compra aguantan unos 10 días a temperatura ambiente y de 10 a 21 días en la nevera.",
+    "pantry": "Un frutero conserva las mandarinas unos 10 días desde el día de la compra, y saben mejor a temperatura ambiente que recién sacadas del frío. No las dejes en la malla: la piel suelta atrapa humedad dentro y el moho empieza allí donde una fruta presiona a otra. Mantenlas lejos del sol directo y revisa el fondo del frutero, porque las de abajo se pierden primero.",
+    "fridge": "En el cajón a 4 °C (40 °F) o menos aguantan unos 10 a 21 días desde la compra, aproximadamente el doble que fuera. Guárdalas sueltas en una capa en lugar de apiladas, y saca una media hora antes de comerla si quieres todo su aroma. Como la piel no está pegada a los gajos, las mandarinas se secan por dentro antes que las naranjas: una fruta ligera y ahuecada ya pasó su mejor momento.",
+    "freezer": "El USDA no da plazo de congelación para las mandarinas, y la fruta entera no se congela con provecho: los gajos delicados se deshacen y el albedo amarga. Lo que funciona es el zumo en cubitera, la ralladura en un tarrito y los gajos en almíbar para postres. Todo mantiene buena calidad durante meses a −18 °C (0 °F).",
+    "thawing": "Usa los cubitos de zumo y la ralladura directamente congelados. Descongela los gajos en almíbar en la nevera contando con que queden blandos.",
+    "spoilage": [
+      "Zonas blandas, húmedas o hundidas, normalmente donde se tocaban las frutas",
+      "Moho verde azulado o blanco en la piel",
+      "Fruta ligera y ahuecada: los gajos se han secado",
+      "Olor fermentado o zumo amargo y con sabor raro"
+    ],
+    "tips": [
+      "Sácalas de la malla en cuanto llegues a casa",
+      "Elige fruta pesada para su tamaño, no ahuecada",
+      "Ralla antes de pelar: la ralladura de mandarina merece la pena",
+      "Retira enseguida cualquier fruta con moho: se propaga rápido en el frutero"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las mandarinas?", "a": "Unos 10 días a temperatura ambiente y de 10 a 21 días en la nevera, contados desde la compra."},
+      {"q": "¿Por qué mis clementinas están ahuecadas y secas?", "a": "La piel suelta deja que los gajos se sequen por dentro. Una fruta ligera para su tamaño ya pasó su punto."},
+      {"q": "¿Se pueden congelar las mandarinas?", "a": "Enteras no compensa. Congela el zumo en cubitos, la ralladura en un tarro o los gajos en almíbar."}
+    ]
+  }
+}

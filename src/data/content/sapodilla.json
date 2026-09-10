@@ -1,0 +1,107 @@
+{
+  "slug": "sapodilla",
+  "en": {
+    "name": "Sapodilla",
+    "aliases": ["chiku", "chicozapote", "naseberry", "Manilkara zapota"],
+    "summary": "Sapodilla, or chiku, is a small brown tropical fruit whose grainy flesh tastes of brown sugar and pear when properly ripe. Ripen it at room temperature over 3 to 7 days, then refrigerate for about 5 to 10 days, and freeze the deseeded pulp for roughly 3 to 6 months.",
+    "pantry": "Ripen sapodilla at room temperature until it yields to a thumb, which takes about 3 to 7 days. There is one thing worth knowing before you buy: fruit picked immature shrivels as it softens and never sweetens properly, so a wrinkling chiku that still tastes chalky and astringent was picked too soon and will not come right. Scratch the skin lightly at the shop — mature fruit shows yellow-brown beneath, not green.",
+    "fridge": "Refrigerate only after the fruit has softened, at 4 °C (40 °F) or below, where it keeps about 5 to 10 days. That range is a working limit taken from sapote handling rather than a published sapodilla figure, since the source gives maturity indices and the ripen-before-chilling rule but no home keeping time. Chilling a hard sapodilla stops it ripening, so do not use the fridge to buy time on firm fruit.",
+    "freezer": "Freeze the deseeded pulp for about 3 to 6 months at −18 °C (0 °F), a sensible working range rather than an official figure. Halve the fruit, scoop the flesh away from the black seeds and the fibrous core, mash or purée it and pack it flat with the air pressed out. The grainy texture does not survive freezing intact, so plan on smoothies, ice cream and milkshakes.",
+    "thawing": "Thaw the pulp in the fridge and use it the same day, or blend it straight from frozen. Do not thaw at room temperature or refreeze.",
+    "spoilage": [
+      "Fermented or alcoholic smell instead of a warm caramel one",
+      "Flesh gone brown, watery or sour under a normal-looking skin",
+      "Shrivelled skin over chalky, astringent flesh, meaning the fruit was picked immature",
+      "Mould at the stem end or in a split"
+    ],
+    "tips": [
+      "Scratch the skin before buying: yellow-brown beneath means mature, green does not",
+      "Never refrigerate a hard sapodilla; the cold stops it ripening",
+      "Remove all the black seeds, which are hard and hooked",
+      "Freeze the pulp of any glut for smoothies and ice cream"
+    ],
+    "faq": [
+      {"q": "How long does sapodilla last?", "a": "About 3 to 7 days ripening at room temperature and 5 to 10 days in the fridge once soft. There is no published figure; this follows sapote."},
+      {"q": "Why is my sapodilla shrivelled and still not sweet?", "a": "It was picked immature. Such fruit shrivels as it softens and never sweetens properly, so it cannot be rescued by waiting."},
+      {"q": "Can you freeze sapodilla?", "a": "Freeze the deseeded pulp for roughly 3 to 6 months. Use it afterwards in smoothies, ice cream and shakes."}
+    ]
+  },
+  "zh": {
+    "name": "人心果",
+    "aliases": ["吳鳳柿", "沙漠吉拉", "chiku", "赤鐵果"],
+    "summary": "人心果（chiku）是小型的褐色熱帶水果，熟得剛好時，帶顆粒感的果肉吃起來像黑糖配西洋梨。請在室溫催熟 3 到 7 天，之後冷藏約 5 到 10 天；去籽果肉冷凍大約 3 到 6 個月。",
+    "pantry": "把人心果放在室溫催熟，直到拇指按下去會凹，大約要 3 到 7 天。買之前有一件事值得知道：採收時還沒成熟的果實，會在變軟的過程中皺縮，而且永遠不會真正變甜——所以一顆已經皺了、吃起來卻還是粉粉又澀的人心果，就是採太早了，等再久也救不回來。在店裡輕輕刮一下果皮：成熟的果實底下是黃褐色，不是綠色。",
+    "fridge": "軟了之後才冷藏，放 4°C 以下大約 5 到 10 天。這個範圍是借用 sapote 類水果的處理方式，不是針對人心果公布的數字，因為資料來源給的是成熟度指標和「先催熟再冷藏」的規則，並沒有給家庭保存時間。硬的人心果冰起來會停止後熟，所以不要拿冰箱替硬果爭取時間。",
+    "freezer": "去籽果肉在 −18°C 下冷凍約 3 到 6 個月，這是合理的使用範圍而不是官方數字。把果實對半切，把果肉從黑色種子和纖維質果心上刮下來，壓碎或打成泥，平鋪裝袋擠出空氣。那種顆粒感撐不過冷凍，所以請規劃做果昔、冰淇淋和奶昔。",
+    "thawing": "果肉放冷藏解凍並當天用完，或直接冷凍狀態下去打。不要放室溫解凍，也不要回凍。",
+    "spoilage": [
+      "聞起來發酵或有酒味，而不是溫暖的焦糖香",
+      "外皮看起來正常，果肉卻已經轉褐、變水水的或發酸",
+      "外皮皺縮但果肉還是粉粉又澀，那代表採收時未成熟",
+      "蒂頭或裂縫處長黴"
+    ],
+    "tips": [
+      "買之前刮一下果皮：底下黃褐色代表成熟，綠色就不是",
+      "硬的人心果絕對不要冰，低溫會讓它熟不了",
+      "黑色的籽要全部挑掉，它又硬而且末端帶鉤",
+      "量太多就把果肉冷凍，之後做果昔和冰淇淋"
+    ],
+    "faq": [
+      {"q": "人心果可以放多久？", "a": "室溫催熟約 3 到 7 天，軟了之後冷藏 5 到 10 天。沒有公布的數字，這是比照 sapote 類水果。"},
+      {"q": "我的人心果皺了卻還是不甜？", "a": "那是採收時就未成熟。這種果實會邊變軟邊皺縮，而且永遠不會真正變甜，等再久也沒用。"},
+      {"q": "人心果可以冷凍嗎？", "a": "去籽果肉冷凍約 3 到 6 個月，之後拿來做果昔、冰淇淋和奶昔。"}
+    ]
+  },
+  "ja": {
+    "name": "サポジラ",
+    "aliases": ["チクー", "チューインガムノキ", "チコサポテ", "Manilkara zapota"],
+    "summary": "サポジラ（チクー）は小ぶりな茶色い熱帯果実で、きちんと熟すと、ざらりとした果肉が黒糖と洋なしを合わせたような味わいになります。常温で3〜7日追熟させ、その後は冷蔵で5〜10日、種を除いた果肉は冷凍でおよそ3〜6か月です。",
+    "pantry": "親指で押してへこむまで常温で追熟させます。3〜7日ほどかかります。買う前に知っておきたいことが一つあります。未熟なうちに収穫された果実は、軟らかくなる過程でしぼみ、きちんと甘くなりません。しわが寄っているのに粉っぽく渋いチクーは収穫が早すぎたもので、待っても直りません。店先で皮を軽くこすり、下が黄褐色なら成熟、緑ならまだです。",
+    "fridge": "軟らかくなってから4℃以下で冷蔵し、5〜10日を目安にします。これは、出典が成熟度の指標と「追熟してから冷やす」というルールは示しつつ家庭での保存期間を示していないため、サポテ類の扱いを借りた目安です。硬いサポジラを冷やすと追熟が止まるので、時間稼ぎに冷蔵庫を使わないでください。",
+    "freezer": "種を除いた果肉を−18℃で3〜6か月ほど。妥当な目安であって公的な数字ではありません。半分に切って黒い種と繊維質の芯から果肉をすくい取り、つぶすかピューレにして袋に平らに入れ、空気を抜きます。ざらりとした食感は冷凍では残らないので、スムージーやアイス、シェイク向けに考えてください。",
+    "thawing": "果肉は冷蔵庫で解凍してその日のうちに使うか、凍ったままミキサーへ。常温解凍と再冷凍は避けてください。",
+    "spoilage": [
+      "温かみのあるカラメル香ではなく発酵臭・アルコール臭",
+      "皮は普通に見えても果肉が茶色い、水っぽい、酸っぱい",
+      "皮がしぼんでいるのに果肉が粉っぽく渋い（未熟収穫のサイン）",
+      "ヘタや割れ目のカビ"
+    ],
+    "tips": [
+      "買う前に皮をこする（下が黄褐色なら成熟、緑なら未熟）",
+      "硬いうちは冷蔵しない（追熟が止まります）",
+      "黒い種はすべて取り除く（硬く、先が鉤状です）",
+      "多いときは果肉を冷凍してスムージーやアイスに"
+    ],
+    "faq": [
+      {"q": "サポジラはどのくらい持ちますか？", "a": "常温での追熟に3〜7日、軟らかくなってから冷蔵で5〜10日です。公表値はなくサポテ類に倣っています。"},
+      {"q": "しぼんでいるのに甘くならないのはなぜ？", "a": "未熟なうちに収穫されたためです。軟らかくなる過程でしぼみ、きちんと甘くなることはありません。"},
+      {"q": "冷凍できますか？", "a": "種を除いた果肉を3〜6か月ほど。スムージーやアイス、シェイクに使ってください。"}
+    ]
+  },
+  "es": {
+    "name": "Chicozapote",
+    "aliases": ["níspero", "chiku", "sapodilla", "zapote chico"],
+    "summary": "El chicozapote, o chiku, es una fruta tropical parda y pequeña cuya pulpa granulosa sabe a azúcar moreno y pera cuando está bien madura. Madúralo a temperatura ambiente durante 3 a 7 días, luego refrigéralo unos 5 a 10 días, y congela la pulpa sin semillas unos 3 a 6 meses.",
+    "pantry": "Madura el chicozapote a temperatura ambiente hasta que ceda al pulgar, lo que lleva unos 3 a 7 días. Hay algo que conviene saber antes de comprar: la fruta recogida inmadura se arruga al ablandarse y nunca endulza como debe, así que un chiku arrugado que sigue sabiendo harinoso y astringente se cosechó demasiado pronto y no se arregla esperando. Rasca ligeramente la piel en la tienda: la fruta madura muestra pardo amarillento debajo, no verde.",
+    "fridge": "Refrigéralo solo después de que se haya ablandado, a 4 °C (40 °F) o menos, donde aguanta unos 5 a 10 días. Ese rango es un límite tomado del manejo del zapote y no una cifra publicada, ya que la fuente da índices de madurez y la regla de madurar antes de enfriar pero ningún plazo doméstico. Enfriar un chicozapote duro detiene su maduración, así que no uses la nevera para ganar tiempo con fruta firme.",
+    "freezer": "Congela la pulpa sin semillas unos 3 a 6 meses a −18 °C (0 °F), un rango de trabajo razonable y no una cifra oficial. Parte la fruta, separa la pulpa de las semillas negras y del corazón fibroso, tritúrala y envásala plana sin aire. La textura granulosa no sobrevive intacta, así que piensa en batidos, helados y licuados.",
+    "thawing": "Descongela la pulpa en la nevera y úsala el mismo día, o bátela directamente congelada. No la descongeles a temperatura ambiente ni la recongeles.",
+    "spoilage": [
+      "Olor fermentado o alcohólico en lugar de cálido y acaramelado",
+      "Pulpa parda, acuosa o agria bajo una piel de aspecto normal",
+      "Piel arrugada sobre pulpa harinosa y astringente: se recogió inmadura",
+      "Moho en el pedúnculo o en una grieta"
+    ],
+    "tips": [
+      "Rasca la piel antes de comprar: pardo amarillento debajo indica madurez",
+      "Nunca refrigeres un chicozapote duro: el frío corta la maduración",
+      "Retira todas las semillas negras, duras y con un gancho en la punta",
+      "Congela la pulpa del excedente para batidos y helados"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el chicozapote?", "a": "Unos 3 a 7 días madurando a temperatura ambiente y 5 a 10 días en la nevera ya blando. No hay cifra publicada; sigue al zapote."},
+      {"q": "¿Por qué está arrugado y aún no dulce?", "a": "Se recogió inmaduro. Esa fruta se arruga al ablandarse y nunca endulza bien, así que esperar no lo soluciona."},
+      {"q": "¿Se puede congelar?", "a": "Congela la pulpa sin semillas unos 3 a 6 meses y úsala después en batidos, helados y licuados."}
+    ]
+  }
+}

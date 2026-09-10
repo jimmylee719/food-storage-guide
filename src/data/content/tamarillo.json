@@ -1,0 +1,107 @@
+{
+  "slug": "tamarillo",
+  "en": {
+    "name": "Tamarillo",
+    "aliases": ["tree tomato", "tomate de árbol", "tamamoro", "Solanum betaceum"],
+    "summary": "The tamarillo is an egg-shaped Andean fruit, red or golden, with tart tomato-like flesh and a bitter skin that is never eaten. No agency publishes figures for it, so treat it like a tomato with a tougher skin: 3 to 7 days on the counter, 1 to 2 weeks in the fridge, and 6 to 12 months for frozen flesh.",
+    "pantry": "Tamarillos ripen and sweeten off the tree, so leave firm fruit out for 3 to 7 days until it yields slightly to a thumb, the way you would judge a tomato. Colour deepens as it goes and the fruit loses its sharp green edge. Keep them out of direct sun in a single layer, and be patient: an underripe tamarillo is aggressively sour and no amount of sugar quite fixes it.",
+    "fridge": "Once ripe, bag them in the crisper at 4 °C (40 °F) or below, where they keep roughly 1 to 2 weeks. That range follows tomato storage, the same family, extended a little because the tamarillo's skin is much tougher and protects the flesh better. The skin is bitter and is always peeled or scooped around, so refrigerate the fruit whole and deal with the skin at the last moment.",
+    "freezer": "Blanch the fruit briefly, slip the skins off and freeze the flesh for about 6 to 12 months at −18 °C (0 °F), a general soft-fruit range rather than an official figure. Thirty seconds in boiling water and a plunge into cold makes the skins come away in one piece, which is far easier than peeling raw fruit. Pack the flesh flat in bags or freeze it as purée in an ice cube tray for sauces and chutneys.",
+    "thawing": "Cook the flesh straight from frozen for chutneys, sauces and compotes, or thaw a portion in the fridge and use it the same day.",
+    "spoilage": [
+      "Soft, wet, sunken patches on the skin",
+      "Flesh gone brown or watery around the seeds",
+      "Fermented or musty smell when cut",
+      "Mould at the stem or in a split in the skin"
+    ],
+    "tips": [
+      "Never eat the skin; it is bitter and astringent",
+      "Blanch and slip the skins rather than peeling raw fruit",
+      "Wait for a fruit that yields slightly — underripe tamarillo is punishing",
+      "Freeze the peeled flesh as purée cubes for chutney and sauces"
+    ],
+    "faq": [
+      {"q": "How long does tamarillo last?", "a": "About 3 to 7 days at room temperature and roughly 1 to 2 weeks bagged in the fridge. There is no official figure; this follows tomatoes."},
+      {"q": "Can you eat tamarillo skin?", "a": "No. The skin is bitter and astringent, so the fruit is halved and scooped or peeled after blanching."},
+      {"q": "Can you freeze tamarillo?", "a": "Yes — blanch briefly, slip the skins and freeze the flesh for about 6 to 12 months, ideally as purée cubes."}
+    ]
+  },
+  "zh": {
+    "name": "樹番茄",
+    "aliases": ["木立番茄", "紅樹番茄", "tamarillo", "tomate de árbol"],
+    "summary": "樹番茄是安地斯地區的蛋形水果，紅色或金黃色，果肉酸度高、質地近似番茄，外皮很苦，一律不吃。沒有官方單位公布它的保存數據，所以把它當成「皮更韌的番茄」：室溫 3 到 7 天，冷藏 1 到 2 週，果肉冷凍 6 到 12 個月。",
+    "pantry": "樹番茄會在離枝後繼續成熟變甜，所以硬的果實請放室溫 3 到 7 天，直到拇指按下去略軟，判斷方式和番茄一樣。過程中顏色會加深，那股青澀的銳角也會消失。單層擺放、避開日曬，而且要有耐心：沒熟的樹番茄酸得很兇，加多少糖都補不太回來。",
+    "fridge": "熟了之後裝袋放蔬果室、維持 4°C 以下，大約可放 1 到 2 週。這個範圍是比照同科的番茄，並稍微延長，因為樹番茄的皮韌得多，對果肉的保護也更好。皮很苦，一律是削掉或沿著皮內側挖，所以請整顆冷藏，皮的事最後再處理。",
+    "freezer": "把果實稍微汆燙、把皮撕下來，果肉在 −18°C 下冷凍約 6 到 12 個月，這是軟質水果的一般範圍而不是官方數字。滾水 30 秒再泡冷水，皮就會整片脫落，比生剝容易太多。果肉平鋪裝袋，或打成泥用製冰盒凍成塊，之後做醬汁和甜酸醬很方便。",
+    "thawing": "做甜酸醬、醬汁和糖煮時直接把冷凍果肉下鍋，或取一份放冷藏解凍並當天用完。",
+    "spoilage": [
+      "果皮出現軟塌、濕潤、凹陷的斑塊",
+      "籽的周圍果肉轉褐或變得水水的",
+      "切開時聞到發酵味或霉味",
+      "蒂頭或果皮裂縫處長黴"
+    ],
+    "tips": [
+      "皮絕對不要吃，又苦又澀",
+      "用汆燙脫皮，不要生剝",
+      "等到按下去略軟再吃，沒熟的樹番茄非常折磨人",
+      "去皮果肉打成泥凍成冰塊，做甜酸醬和醬汁很好用"
+    ],
+    "faq": [
+      {"q": "樹番茄可以放多久？", "a": "室溫約 3 到 7 天，裝袋冷藏約 1 到 2 週。沒有官方數字，這是比照番茄的做法。"},
+      {"q": "樹番茄的皮可以吃嗎？", "a": "不行。皮又苦又澀，所以通常是對半切開挖果肉，或汆燙後把皮撕掉。"},
+      {"q": "樹番茄可以冷凍嗎？", "a": "可以，稍微汆燙脫皮後把果肉冷凍約 6 到 12 個月，打成泥凍成塊最方便。"}
+    ]
+  },
+  "ja": {
+    "name": "タマリロ",
+    "aliases": ["ツリートマト", "木立トマト", "トマトの木の実", "Solanum betaceum"],
+    "summary": "タマリロはアンデス原産の卵形の果実で、赤や黄金色をしており、トマトに似た酸味のある果肉と、決して食べない苦い皮を持ちます。公的な保存データがないため、「皮の丈夫なトマト」として扱います。常温3〜7日、冷蔵1〜2週間、果肉の冷凍で6〜12か月です。",
+    "pantry": "タマリロは木を離れてからも熟して甘くなるので、硬い実は常温で3〜7日置き、親指で押して少しへこむまで待ちます。判断はトマトと同じです。その間に色は濃くなり、青くとがった風味が抜けていきます。日光を避けて一段に並べ、焦らないこと。未熟なタマリロは強烈に酸っぱく、砂糖ではあまり補えません。",
+    "fridge": "熟したら袋に入れて4℃以下の野菜室へ。1〜2週間ほど持ちます。この範囲は同じ科のトマトの保存に倣い、皮がずっと丈夫で果肉をよく守るぶん少し長めにしたものです。皮は苦く必ずむくかすくって避けるので、丸ごと冷蔵し、皮の処理は最後にしましょう。",
+    "freezer": "さっと湯通しして皮をむき、果肉を−18℃で6〜12か月ほど冷凍します（軟質果実一般の範囲で、公的な数字ではありません）。熱湯に30秒ほど入れて冷水に取ると皮がつるりと外れ、生でむくよりはるかに簡単です。果肉は袋に平らに入れるか、ピューレにして製氷皿で凍らせるとソースやチャツネに便利です。",
+    "thawing": "チャツネやソース、コンポートには凍った果肉をそのまま加熱します。1回分を冷蔵庫で解凍してその日のうちに使っても構いません。",
+    "spoilage": [
+      "皮の軟らかい、濡れた、へこんだ部分",
+      "種のまわりの果肉が茶色い、水っぽい",
+      "切ったときの発酵臭・かび臭",
+      "ヘタや皮の裂け目のカビ"
+    ],
+    "tips": [
+      "皮は食べない（苦く渋みがあります）",
+      "生でむかず、湯通しして皮を外す",
+      "少しへこむまで待つ（未熟だと酸味が強烈です）",
+      "皮をむいた果肉をピューレにしてキューブ冷凍すると便利"
+    ],
+    "faq": [
+      {"q": "タマリロはどのくらい持ちますか？", "a": "常温で3〜7日、袋に入れて冷蔵で1〜2週間ほどです。公的な数字はなく、トマトに倣っています。"},
+      {"q": "皮は食べられますか？", "a": "いいえ。苦く渋いので、半分に切ってすくうか、湯通ししてむきます。"},
+      {"q": "冷凍できますか？", "a": "できます。湯通しして皮をむき、果肉を6〜12か月ほど。ピューレのキューブにすると使いやすいです。"}
+    ]
+  },
+  "es": {
+    "name": "Tomate de árbol",
+    "aliases": ["tamarillo", "tomate andino", "tomate serrano", "Solanum betaceum"],
+    "summary": "El tomate de árbol es una fruta andina con forma de huevo, roja o dorada, de pulpa ácida parecida al tomate y piel amarga que nunca se come. Ningún organismo publica cifras, así que se trata como un tomate de piel más dura: 3 a 7 días en la encimera, 1 a 2 semanas en la nevera y 6 a 12 meses de pulpa congelada.",
+    "pantry": "El tomate de árbol madura y endulza fuera de la planta, así que deja la fruta firme fuera de 3 a 7 días hasta que ceda un poco al pulgar, igual que juzgarías un tomate. El color se intensifica y desaparece el filo verde. Colócalos en una capa lejos del sol directo y ten paciencia: uno inmaduro es agresivamente ácido y el azúcar no lo arregla del todo.",
+    "fridge": "Ya maduros, embólsalos en el cajón a 4 °C (40 °F) o menos, donde aguantan unas 1 a 2 semanas. Ese rango sigue el almacenamiento del tomate, de la misma familia, alargado un poco porque la piel del tamarillo es mucho más dura y protege mejor la pulpa. La piel es amarga y siempre se pela o se esquiva, así que refrigera la fruta entera y ocúpate de la piel al final.",
+    "freezer": "Escalda la fruta brevemente, retira las pieles y congela la pulpa unos 6 a 12 meses a −18 °C (0 °F), rango general de fruta blanda y no una cifra oficial. Treinta segundos en agua hirviendo y un baño frío hacen que la piel salga de una pieza, mucho más fácil que pelarla cruda. Envasa la pulpa plana o congélala en puré en cubitera para salsas y chutneys.",
+    "thawing": "Cocina la pulpa directamente congelada para chutneys, salsas y compotas, o descongela una ración en la nevera y úsala el mismo día.",
+    "spoilage": [
+      "Zonas blandas, húmedas y hundidas en la piel",
+      "Pulpa parda o acuosa alrededor de las semillas",
+      "Olor fermentado o a humedad al cortarlo",
+      "Moho en el pedúnculo o en una grieta de la piel"
+    ],
+    "tips": [
+      "Nunca comas la piel: es amarga y astringente",
+      "Escalda y retira las pieles en lugar de pelar en crudo",
+      "Espera a que ceda un poco: inmaduro resulta durísimo de comer",
+      "Congela la pulpa pelada en cubitos de puré para chutneys y salsas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el tomate de árbol?", "a": "Unos 3 a 7 días a temperatura ambiente y de 1 a 2 semanas embolsado en la nevera. No hay cifra oficial; sigue al tomate."},
+      {"q": "¿Se come la piel?", "a": "No. Es amarga y astringente, así que la fruta se parte y se saca la pulpa, o se pela tras escaldarla."},
+      {"q": "¿Se puede congelar?", "a": "Sí: escalda brevemente, retira las pieles y congela la pulpa unos 6 a 12 meses, mejor en cubitos de puré."}
+    ]
+  }
+}

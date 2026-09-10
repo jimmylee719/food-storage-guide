@@ -1,0 +1,107 @@
+{
+  "slug": "mamey-sapote",
+  "en": {
+    "name": "Mamey sapote",
+    "aliases": ["mamey", "zapote mamey", "sapote colorado", "Pouteria sapota"],
+    "summary": "Mamey sapote is a large brown-skinned tropical fruit with dense salmon-pink flesh that tastes of sweet potato, apricot and almond. No agency publishes storage figures for it, so treat it like other sapotes: 3 to 7 days ripening at room temperature, 3 to 5 days in the fridge once ripe, and roughly 3 to 6 months for frozen pulp.",
+    "pantry": "Ripen mamey at room temperature for about 3 to 7 days. The trick everyone in the trade uses is to scratch a small patch of the rough brown skin with a fingernail: if the flesh just underneath is salmon-pink and the fruit gives to pressure, it is ready; if it is green or pale, leave it. Keep it out of the sun and check daily once it starts to soften, because it goes from ripe to over quickly.",
+    "fridge": "Refrigerate only after ripening, and reckon on about 3 to 5 days at 4 °C (40 °F) or below. That figure is borrowed from sapote handling rather than published for mamey. Cut flesh oxidises and browns, so press cling film directly onto the surface or store the scooped pulp in a tub with as little air as possible. Chilling an unripe fruit stalls it and it never comes right.",
+    "freezer": "Freeze the pulp for batidos and ice cream, for roughly 3 to 6 months at −18 °C (0 °F), a sensible working range rather than an official figure. Scoop the flesh from the skin, discard the big glossy seed, blend or mash it and pack it flat in bags with the air pressed out. Mamey purée is a mainstay of Caribbean and Mexican milkshakes and freezes better than most tropical pulps because it is so dense.",
+    "thawing": "Thaw a portion in the fridge and use it the same day, or blend it straight from frozen with milk. Do not thaw on the counter and do not refreeze.",
+    "spoilage": [
+      "Fermented or alcoholic smell rather than a warm sweet one",
+      "Flesh gone brown, grey or watery instead of dense salmon-pink",
+      "Skin split with the fruit collapsing and weeping",
+      "Mould at the stem end or in any crack in the skin"
+    ],
+    "tips": [
+      "Scratch-test the skin: salmon-pink underneath means ripe",
+      "Never refrigerate a hard mamey — it stops ripening for good",
+      "Press cling film onto cut flesh to stop it browning",
+      "Freeze the purée in single-shake portions for batidos"
+    ],
+    "faq": [
+      {"q": "How do you know if a mamey is ripe?", "a": "Scratch a small patch of skin: salmon-pink flesh underneath and a slight give mean it is ready. Green or pale means it needs longer."},
+      {"q": "How long does mamey sapote last in the fridge?", "a": "About 3 to 5 days once ripe. There is no published figure; this follows the handling of other sapotes."},
+      {"q": "Can you freeze mamey sapote?", "a": "Yes — freeze the deseeded pulp for roughly 3 to 6 months. It is ideal for batidos and ice cream."}
+    ]
+  },
+  "zh": {
+    "name": "曼密蘋果",
+    "aliases": ["瑪米果", "紅毛丹柿（誤稱）", "mamey", "大果山欖"],
+    "summary": "曼密蘋果是大型的褐皮熱帶水果，果肉緻密、呈鮭魚粉色，味道介於地瓜、杏桃和杏仁之間。沒有官方單位公布它的保存數據，所以用其他 sapote 類水果的標準來看：室溫催熟 3 到 7 天，熟了之後冷藏 3 到 5 天，果肉冷凍大約 3 到 6 個月。",
+    "pantry": "放室溫催熟大約 3 到 7 天。業界人人都用的訣竅是：用指甲把粗糙的褐色外皮刮開一小塊，如果底下的果肉是鮭魚粉色、而且整顆按下去會凹，就可以吃了；如果是綠的或顏色很淡，就繼續放。避開日曬，開始變軟之後每天檢查，因為從剛好到過熟只要一下子。",
+    "fridge": "催熟之後才冷藏，放 4°C 以下大約 3 到 5 天。這個數字是借用 sapote 類水果的處理方式，不是針對曼密蘋果公布的。切開的果肉會氧化變褐，所以請把保鮮膜直接壓貼在切面上，或把挖出來的果肉裝盒、盡量擠掉空氣。硬果冰過就會卡住，之後再也熟不好。",
+    "freezer": "把果肉冷凍起來做奶昔和冰淇淋，−18°C 下大約 3 到 6 個月，這是合理的使用範圍而不是官方數字。挖出果肉、丟掉那顆又大又亮的種子、打成泥或壓碎，平鋪裝袋擠出空氣。曼密果泥是加勒比海和墨西哥奶昔的主力，而且因為質地緻密，比大多數熱帶果泥更耐凍。",
+    "thawing": "取一份放冷藏解凍並當天用完，或直接冷凍狀態加牛奶下去打。不要放室溫解凍，也不要回凍。",
+    "spoilage": [
+      "溫暖的甜香變成發酵味或酒味",
+      "果肉不再是緻密的鮭魚粉，而是轉褐、發灰或變得水水的",
+      "果皮裂開、整顆塌陷滲汁",
+      "蒂頭或果皮裂縫處長黴"
+    ],
+    "tips": [
+      "刮皮測試：底下是鮭魚粉色就是熟了",
+      "硬的曼密蘋果絕對不要冰，冰了就永遠熟不了",
+      "切面直接壓上保鮮膜，防止褐化",
+      "果泥按一杯奶昔的份量分裝冷凍"
+    ],
+    "faq": [
+      {"q": "曼密蘋果怎麼看熟了沒？", "a": "刮開一小塊皮：底下是鮭魚粉色、整顆略軟就是熟了。綠的或顏色淡就再放幾天。"},
+      {"q": "曼密蘋果放冰箱可以放多久？", "a": "熟了之後約 3 到 5 天。沒有公布的數字，這是比照其他 sapote 類水果。"},
+      {"q": "曼密蘋果可以冷凍嗎？", "a": "可以，去籽果肉冷凍約 3 到 6 個月，最適合做奶昔和冰淇淋。"}
+    ]
+  },
+  "ja": {
+    "name": "マメイサポテ",
+    "aliases": ["マメイ", "サポテコロラド", "mamey", "Pouteria sapota"],
+    "summary": "マメイサポテは茶色い皮の大きな熱帯果実で、密度の高いサーモンピンクの果肉はさつまいもとあんずとアーモンドを合わせたような味わいです。公的な保存データがないため、ほかのサポテ類に倣います。常温での追熟に3〜7日、熟してから冷蔵で3〜5日、果肉の冷凍でおよそ3〜6か月です。",
+    "pantry": "常温で3〜7日ほど追熟させます。業界で誰もが使う判定法は、ざらついた茶色い皮を爪で少しこすること。すぐ下の果肉がサーモンピンクで、押すと少しへこめば食べごろ。緑や淡い色ならまだです。日光を避け、軟らかくなり始めたら毎日確認を。食べごろから過熟までは一気です。",
+    "fridge": "追熟が終わってから冷蔵し、4℃以下で3〜5日を目安にします。これはサポテ類の扱いを借りた数字で、マメイの公表値ではありません。切った果肉は酸化して褐変するので、ラップを切り口に密着させるか、すくった果肉を容器に入れて空気をできるだけ抜いてください。硬いうちに冷やすと追熟が止まり、二度とよくなりません。",
+    "freezer": "バティード（シェイク）やアイス用に果肉を冷凍します。−18℃で3〜6か月が妥当な目安で、公的な数字ではありません。果肉をすくって大きな光沢のある種を除き、ピューレにするかつぶして袋に平らに入れ、空気を抜きます。マメイのピューレはカリブやメキシコのシェイクの定番で、密度が高いぶん多くの熱帯果肉より冷凍に強いです。",
+    "thawing": "1回分を冷蔵庫で解凍してその日のうちに使うか、凍ったまま牛乳と一緒にミキサーへ。常温解凍と再冷凍は避けてください。",
+    "spoilage": [
+      "温かみのある甘い香りが発酵臭・アルコール臭に変わる",
+      "密なサーモンピンクではなく茶色・灰色・水っぽい果肉",
+      "皮が裂けて果実がつぶれ汁がにじむ",
+      "ヘタや皮の割れ目のカビ"
+    ],
+    "tips": [
+      "皮を少しこする（下がサーモンピンクなら食べごろ）",
+      "硬いマメイは冷蔵しない（追熟が止まります）",
+      "切り口にラップを密着させて褐変を防ぐ",
+      "ピューレはシェイク1杯分ずつ小分け冷凍"
+    ],
+    "faq": [
+      {"q": "マメイの食べごろは？", "a": "皮を少しこすって、下の果肉がサーモンピンクで軽くへこめば食べごろです。緑や淡い色ならもう少し置きます。"},
+      {"q": "冷蔵庫でどのくらい持ちますか？", "a": "熟してから3〜5日が目安です。公表値はなく、ほかのサポテ類に倣っています。"},
+      {"q": "冷凍できますか？", "a": "はい。種を除いた果肉を3〜6か月ほど。シェイクやアイスに最適です。"}
+    ]
+  },
+  "es": {
+    "name": "Mamey",
+    "aliases": ["zapote mamey", "sapote colorado", "zapote rojo", "mamey sapote"],
+    "summary": "El mamey es una fruta tropical grande, de piel parda y pulpa densa de color salmón que sabe a boniato, albaricoque y almendra. Ningún organismo publica cifras para él, así que se trata como los demás zapotes: 3 a 7 días de maduración a temperatura ambiente, 3 a 5 días en la nevera ya maduro y unos 3 a 6 meses de pulpa congelada.",
+    "pantry": "Madura el mamey a temperatura ambiente unos 3 a 7 días. El truco que usa todo el mundo en el mercado es rascar con la uña un trocito de la piel áspera: si la pulpa justo debajo es color salmón y la fruta cede a la presión, está lista; si es verde o pálida, déjala. Mantenlo lejos del sol y revísalo a diario en cuanto empiece a ablandarse, porque pasa de maduro a pasado muy rápido.",
+    "fridge": "Refrigéralo solo tras madurar, y cuenta con unos 3 a 5 días a 4 °C (40 °F) o menos. Esa cifra está tomada del manejo del zapote y no publicada para el mamey. La pulpa cortada se oxida y se oscurece, así que pega film directamente sobre la superficie o guarda la pulpa en un recipiente con el mínimo aire posible. Enfriar una fruta dura la detiene y ya no madura bien.",
+    "freezer": "Congela la pulpa para batidos y helados, unos 3 a 6 meses a −18 °C (0 °F), un rango de trabajo razonable y no una cifra oficial. Saca la pulpa de la piel, descarta la semilla grande y brillante, tritúrala o aplástala y envásala plana sin aire. El puré de mamey es un pilar de los batidos caribeños y mexicanos y aguanta la congelación mejor que casi cualquier pulpa tropical por su densidad.",
+    "thawing": "Descongela una ración en la nevera y úsala el mismo día, o bátela congelada con leche. No la descongeles en la encimera ni la recongeles.",
+    "spoilage": [
+      "Olor fermentado o alcohólico en lugar de dulce y cálido",
+      "Pulpa parda, grisácea o acuosa en vez de densa y color salmón",
+      "Piel agrietada con la fruta hundida y rezumando",
+      "Moho en el pedúnculo o en cualquier grieta de la piel"
+    ],
+    "tips": [
+      "Haz la prueba del rascado: pulpa salmón debajo significa maduro",
+      "Nunca refrigeres un mamey duro: deja de madurar para siempre",
+      "Pega film sobre la pulpa cortada para que no se oscurezca",
+      "Congela el puré en raciones de un batido"
+    ],
+    "faq": [
+      {"q": "¿Cómo se sabe si un mamey está maduro?", "a": "Rasca un trocito de piel: pulpa color salmón debajo y una ligera cesión indican que está listo. Verde o pálida, necesita más tiempo."},
+      {"q": "¿Cuánto dura el mamey en la nevera?", "a": "Unos 3 a 5 días ya maduro. No hay cifra publicada; sigue el manejo de los demás zapotes."},
+      {"q": "¿Se puede congelar el mamey?", "a": "Sí: congela la pulpa sin semilla unos 3 a 6 meses. Es ideal para batidos y helados."}
+    ]
+  }
+}

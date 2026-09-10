@@ -1,0 +1,107 @@
+{
+  "slug": "santol",
+  "en": {
+    "name": "Santol",
+    "aliases": ["cotton fruit", "lolly fruit", "krathon", "Sandoricum koetjape"],
+    "summary": "Santol is a round Southeast Asian fruit with a thick tan rind and cottony white segments clinging tightly to large seeds, eaten sour with salt and chilli or sweet when fully ripe. No agency publishes figures for it, so treat it like thick-skinned citrus: 3 to 7 days on the counter and 1 to 2 weeks in the fridge.",
+    "pantry": "The thick rind protects the fruit well, so a bowl on the counter works for about 3 to 7 days. Keep it dry and out of the sun, and give it air rather than sealing it in a bag; the rind is what is doing the work, and trapped moisture starts mould on it. Handle it gently despite how solid it feels, since a bruised rind turns into a soft brown patch that spreads inward.",
+    "fridge": "Loose in the crisper at 4 °C (40 °F) or below, santol keeps roughly 1 to 2 weeks. That range follows the way thick-rinded citrus is handled rather than a published santol figure, chosen because the protective rind behaves in much the same way. Peeled segments are a completely different matter: the cottony flesh dries out and discolours fast, so eat them the same day.",
+    "freezer": "There is no established freezer timeline for santol. In practice the whole fruit is not worth freezing — the cottony segments cling to the seeds and go slack — while the peeled flesh can be frozen for cooking, and in Thailand and the Philippines the fruit is more often preserved in syrup or made into a sour curry than frozen. Treat any duration as your own planning figure.",
+    "thawing": "If you have frozen the flesh, cook it straight from frozen. Do not expect thawed santol to eat like fresh fruit.",
+    "spoilage": [
+      "Soft brown patches on the rind that give under a thumb",
+      "Fermented or sour smell rather than a faint sweet one",
+      "Segments gone grey, brown or slimy",
+      "Mould at the stem end or in a crack in the rind"
+    ],
+    "tips": [
+      "Buy fruit with an unblemished, evenly coloured rind",
+      "Store it dry and airy, not sealed in plastic",
+      "Do not chew the seeds — the flesh clings and the seeds are not swallowed",
+      "Peel and eat the same day; cut flesh dries out very fast"
+    ],
+    "faq": [
+      {"q": "How long does santol last?", "a": "About 3 to 7 days at room temperature and roughly 1 to 2 weeks in the fridge. There is no official figure; this follows thick-skinned citrus."},
+      {"q": "How do you eat santol?", "a": "Peel the thick rind, then suck the cottony flesh from around the large seeds. It is eaten with salt and chilli when sour, or plain when fully ripe."},
+      {"q": "Can you freeze santol?", "a": "No source gives a timeline, and the whole fruit does not freeze well. Preserving it in syrup or cooking it into a sour curry is the usual route."}
+    ]
+  },
+  "zh": {
+    "name": "山陀兒",
+    "aliases": ["山道楝", "棉花果", "santol", "krathon"],
+    "summary": "山陀兒是東南亞的圓形水果，厚實的褐黃色外皮裡是棉絮狀的白色果肉，緊緊包著大顆的種子；酸的時候沾鹽和辣椒吃，熟透了則是甜的。沒有官方單位公布它的保存數據，所以用厚皮柑橘的標準來看：室溫 3 到 7 天，冷藏 1 到 2 週。",
+    "pantry": "厚厚的外皮把果實保護得很好，所以放在室溫的碗裡大約 3 到 7 天沒問題。保持乾燥、避開日曬，讓它透氣而不要封在袋子裡；真正在發揮作用的是那層皮，而悶住的水氣正是從皮開始發黴的起點。儘管它摸起來很結實，還是要輕拿輕放，撞傷的地方會變成褐色軟斑並往裡面擴散。",
+    "fridge": "鬆散地放蔬果室、維持 4°C 以下，大約可放 1 到 2 週。這個範圍是比照厚皮柑橘的處理方式，不是針對山陀兒公布的數字，會這樣選是因為那層保護性外皮的行為模式很接近。剝好的果肉就完全是另一回事：棉絮狀的果肉很快就會乾掉變色，所以當天要吃完。",
+    "freezer": "山陀兒沒有公認的冷凍期限。實務上整顆冷凍不值得——棉絮狀的果肉黏在種子上，解凍後會變得鬆軟；剝好的果肉倒是可以冷凍留著入菜。在泰國和菲律賓，這種水果更常被糖漬或做成酸味咖哩，而不是冷凍。任何期限都請當成自己的規劃數字。",
+    "thawing": "如果冷凍了果肉，就直接冷凍下鍋煮。不要期待解凍後還能像新鮮水果那樣吃。",
+    "spoilage": [
+      "外皮出現褐色軟斑，一按就凹陷",
+      "聞起來發酵或發酸，而不是淡淡的甜香",
+      "果肉發灰、轉褐或變黏滑",
+      "蒂頭或外皮裂縫處長黴"
+    ],
+    "tips": [
+      "挑外皮完整、顏色均勻的",
+      "乾爽通風地放，不要用塑膠袋密封",
+      "種子不要咬，果肉是黏在籽上的，籽本身不吞",
+      "剝了就當天吃完，切開的果肉乾得非常快"
+    ],
+    "faq": [
+      {"q": "山陀兒可以放多久？", "a": "室溫約 3 到 7 天，冷藏約 1 到 2 週。沒有官方數字，這是比照厚皮柑橘的做法。"},
+      {"q": "山陀兒怎麼吃？", "a": "剝掉厚皮，再把包在大籽外面那層棉絮狀的果肉吸下來。酸的時候沾鹽和辣椒，熟透了直接吃。"},
+      {"q": "山陀兒可以冷凍嗎？", "a": "沒有來源給出期限，整顆冷凍效果也不好。比較常見的做法是糖漬或做成酸味咖哩。"}
+    ]
+  },
+  "ja": {
+    "name": "サントール",
+    "aliases": ["コットンフルーツ", "山道楝", "クラトン", "Sandoricum koetjape"],
+    "summary": "サントールは東南アジアの丸い果実で、厚い黄褐色の皮の中に綿のような白い果肉が大きな種を包んでいます。酸味のあるうちは塩と唐辛子で、完熟すればそのまま食べます。公的な保存データがないため、皮の厚い柑橘の扱いに倣い、常温で3〜7日、冷蔵で1〜2週間とします。",
+    "pantry": "厚い皮が果実をよく守るので、常温の器で3〜7日ほど大丈夫です。乾いた状態を保ち、日光を避け、袋に密閉せず空気に触れさせてください。働いているのは皮であり、こもった湿気はその皮からカビを生やします。硬く見えても丁寧に扱いましょう。打ち身は茶色い軟らかい斑になり、内側へ広がります。",
+    "fridge": "4℃以下の野菜室に裸で置けば、およそ1〜2週間持ちます。この範囲は、保護的な皮の挙動が近いことから、皮の厚い柑橘の扱いを当てはめたもので、サントール固有の公表値ではありません。むいた果肉はまったく別で、綿状の果肉はすぐ乾いて変色するため、その日のうちに食べきってください。",
+    "freezer": "サントールには定まった冷凍の目安がありません。実際、まるごとの冷凍は割に合わず、綿状の果肉は種に張り付いてだれてしまいます。むいた果肉なら調理用に凍らせられますが、タイやフィリピンでは冷凍より砂糖漬けや酸味のあるカレーにするほうが一般的です。期間はあくまで自己判断としてください。",
+    "thawing": "果肉を冷凍した場合は、凍ったまま加熱調理します。解凍して生の果物のように食べることは期待しないでください。",
+    "spoilage": [
+      "皮に押すとへこむ茶色い軟らかい斑",
+      "ほのかな甘い香りではなく発酵臭・酸臭",
+      "果肉が灰色、茶色、ぬめっている",
+      "ヘタや皮の割れ目のカビ"
+    ],
+    "tips": [
+      "傷がなく色の均一な皮のものを選ぶ",
+      "乾いた風通しのよい場所に。ビニール密閉は避ける",
+      "種は噛まない（果肉が張り付きますが種は食べません）",
+      "むいたらその日のうちに。切った果肉は非常に早く乾きます"
+    ],
+    "faq": [
+      {"q": "サントールはどのくらい持ちますか？", "a": "常温で3〜7日、冷蔵で1〜2週間ほどです。公的な数字はなく、皮の厚い柑橘に倣っています。"},
+      {"q": "どうやって食べますか？", "a": "厚い皮をむき、大きな種のまわりの綿状の果肉を吸います。酸味があるうちは塩と唐辛子で食べます。"},
+      {"q": "冷凍できますか？", "a": "期間を示す出典はなく、まるごとは向きません。砂糖漬けや酸味のあるカレーにするのが一般的です。"}
+    ]
+  },
+  "es": {
+    "name": "Santol",
+    "aliases": ["fruta algodón", "krathon", "sentul", "Sandoricum koetjape"],
+    "summary": "El santol es una fruta redonda del Sudeste Asiático con una corteza gruesa y beige y gajos algodonosos blancos muy pegados a semillas grandes; se come ácido con sal y chile, o dulce cuando está muy maduro. Ningún organismo publica cifras, así que se trata como un cítrico de piel gruesa: 3 a 7 días en la encimera y 1 a 2 semanas en la nevera.",
+    "pantry": "La corteza gruesa protege bien la fruta, así que un frutero sirve unos 3 a 7 días. Mantenla seca y lejos del sol, y dale aire en vez de cerrarla en una bolsa: la corteza es la que hace el trabajo y la humedad atrapada le provoca moho. Manéjala con cuidado pese a lo sólida que parece, porque una corteza magullada acaba en una mancha parda blanda que avanza hacia dentro.",
+    "fridge": "Suelto en el cajón a 4 °C (40 °F) o menos, el santol aguanta unas 1 a 2 semanas. Ese rango sigue el manejo de los cítricos de corteza gruesa y no una cifra publicada, elegido porque la corteza protectora se comporta de forma parecida. Los gajos pelados son otra historia: la pulpa algodonosa se seca y decolora rápido, así que cómelos el mismo día.",
+    "freezer": "No existe un plazo establecido de congelación para el santol. En la práctica la fruta entera no compensa —los gajos algodonosos se pegan a las semillas y quedan flojos—, mientras que la pulpa pelada sí puede congelarse para cocinar. En Tailandia y Filipinas se conserva más en almíbar o se cocina en curry ácido que se congela. Toma cualquier duración como criterio propio.",
+    "thawing": "Si has congelado la pulpa, cocínala directamente congelada. No esperes que el santol descongelado se coma como fruta fresca.",
+    "spoilage": [
+      "Manchas pardas blandas en la corteza que ceden al pulgar",
+      "Olor fermentado o agrio en lugar de dulce y tenue",
+      "Gajos grisáceos, pardos o viscosos",
+      "Moho en el pedúnculo o en una grieta de la corteza"
+    ],
+    "tips": [
+      "Compra fruta de corteza sin marcas y de color uniforme",
+      "Guárdala seca y aireada, no cerrada en plástico",
+      "No mastiques las semillas: la pulpa se adhiere pero la semilla no se come",
+      "Pela y come el mismo día: la pulpa cortada se seca muy rápido"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el santol?", "a": "Unos 3 a 7 días a temperatura ambiente y de 1 a 2 semanas en la nevera. No hay cifra oficial; sigue a los cítricos de piel gruesa."},
+      {"q": "¿Cómo se come el santol?", "a": "Se pela la corteza gruesa y se chupa la pulpa algodonosa de alrededor de las semillas grandes, con sal y chile si está ácido."},
+      {"q": "¿Se puede congelar el santol?", "a": "Ninguna fuente da plazo y entero no se congela bien. Lo habitual es conservarlo en almíbar o cocinarlo en curry ácido."}
+    ]
+  }
+}

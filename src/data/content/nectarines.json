@@ -1,0 +1,107 @@
+{
+  "slug": "nectarines",
+  "en": {
+    "name": "Nectarines",
+    "aliases": ["nectarine", "smooth-skinned peach", "nectarina", "fuzzless peach"],
+    "summary": "A nectarine is a peach without the fuzz, and it behaves the same way: bought firm, it ripens on the counter and only then goes in the fridge. There is no fixed counter timeline — leave it out until ripe, then 1 to 2 days — after which it keeps 3 to 5 days refrigerated, and sliced fruit freezes for 2 months.",
+    "pantry": "The counter rule here is a stage, not a number of days: leave nectarines out until they are ripe, which means tender, fully developed and ready to eat, and then a further 1 to 2 days at most. A ripe nectarine smells sweet at the stem end and gives to gentle pressure along the shoulders, not at the tip. Stand them stem-end down in a single layer so the shoulders do not bruise, and speed things up with a paper bag if you need to.",
+    "fridge": "Refrigerate only once the fruit is ripe, at 4 °C (40 °F) or below, where it keeps 3 to 5 days. Chilling a hard nectarine causes internal breakdown: the flesh turns dry, mealy and woolly rather than juicy, and no amount of counter time afterwards recovers it. Bring a refrigerated nectarine back to room temperature for half an hour before eating for the full aroma.",
+    "freezer": "Sliced nectarines keep 2 months at −18 °C (0 °F), and that figure assumes the fruit is sliced and packed with lemon juice and sugar, which is what stops it browning and going mushy. Halve, stone and slice the fruit, toss it with lemon juice and a little sugar, and pack it flat in bags or tubs with the air pressed out. Frozen fruit stays safe indefinitely; the 2 months is a quality window.",
+    "thawing": "Thaw in the fridge and use the fruit while it still has some chill, because it goes soft as it warms. For crumbles, pies and compotes, cook it straight from frozen.",
+    "spoilage": [
+      "Brown, soft, sunken bruises that weep when pressed",
+      "Wrinkled skin over dry, mealy flesh, usually from chilling too early",
+      "Fuzzy grey or brown mould, which spreads to touching fruit",
+      "Fermented or alcoholic smell"
+    ],
+    "tips": [
+      "Judge ripeness by smell and by give at the shoulders, not by colour",
+      "Never refrigerate a hard nectarine — it turns mealy",
+      "Stand them stem-end down in one layer so they do not bruise",
+      "Slice, toss with lemon and sugar, and freeze what you cannot eat"
+    ],
+    "faq": [
+      {"q": "How long do nectarines last?", "a": "Leave them out until ripe, then 1 to 2 days on the counter. Once ripe they keep 3 to 5 days in the fridge."},
+      {"q": "Why is my nectarine dry and mealy?", "a": "It was almost certainly refrigerated before it ripened. Cold causes internal breakdown in unripe stone fruit and it cannot be reversed."},
+      {"q": "Can you freeze nectarines?", "a": "Yes, sliced with lemon juice and sugar, for about 2 months. That preparation is what keeps them from browning and going mushy."}
+    ]
+  },
+  "zh": {
+    "name": "油桃",
+    "aliases": ["甜桃", "光桃", "無毛水蜜桃", "nectarine"],
+    "summary": "油桃就是沒有絨毛的桃子，行為模式也一樣：買回來是硬的，要在室溫催熟，熟了才能進冰箱。它的常溫沒有固定期限——放到熟為止，之後再放 1 到 2 天——熟了之後冷藏 3 到 5 天，切片冷凍則是 2 個月。",
+    "pantry": "這裡的室溫規則是「一個階段」而不是天數：把油桃放到熟為止，也就是變得柔軟、發育完全、可以入口，之後最多再放 1 到 2 天。熟的油桃蒂頭端聞得到甜香，而且是「肩膀」的部位輕壓會凹，不是尖端。請蒂頭朝下單層擺放，肩部才不會壓傷；需要加速的話用紙袋悶著。",
+    "fridge": "熟了才冷藏，放 4°C 以下可以放 3 到 5 天。硬的油桃冰起來會造成內部劣變：果肉不但不多汁，還會變乾、變粉、口感像棉絮，而且事後再放室溫多久都救不回來。冰過的油桃吃之前先回溫半小時，香氣才會完整。",
+    "freezer": "切片的油桃在 −18°C 下可放 2 個月，而這個數字的前提是切片後拌上檸檬汁和糖，正是那道手續讓它不會褐化、不會爛掉。把果實對半切、去核、切片，拌檸檬汁和一點糖，平鋪裝袋或裝盒並擠出空氣。只要維持凍結就是安全的，2 個月是品質區間。",
+    "thawing": "放冷藏解凍，趁還帶點冰涼時使用，因為回溫後會變軟。做烤酥、派和糖煮的話，直接冷凍下鍋。",
+    "spoilage": [
+      "出現褐色、軟塌、凹陷的撞傷，一壓就滲汁",
+      "果皮皺縮、果肉乾而粉，通常是太早冷藏造成的",
+      "長灰色或褐色絨毛黴，會傳給相鄰的果實",
+      "有發酵味或酒味"
+    ],
+    "tips": [
+      "靠氣味和肩部的柔軟度判斷熟度，不要看顏色",
+      "硬的油桃絕對不要冰，會變得粉粉的",
+      "蒂頭朝下、單層擺放，才不會壓傷",
+      "吃不完的切片拌檸檬和糖冷凍起來"
+    ],
+    "faq": [
+      {"q": "油桃可以放多久？", "a": "放到熟為止，熟了之後室溫再放 1 到 2 天；熟果冷藏 3 到 5 天。"},
+      {"q": "我的油桃為什麼又乾又粉？", "a": "幾乎可以確定是還沒熟就冰過了。核果類未熟時遇冷會內部劣變，而且無法逆轉。"},
+      {"q": "油桃可以冷凍嗎？", "a": "可以，切片拌檸檬汁和糖，大約 2 個月。這道手續正是讓它不褐化、不爛掉的關鍵。"}
+    ]
+  },
+  "ja": {
+    "name": "ネクタリン",
+    "aliases": ["油桃", "ズバイモモ", "つるつる桃", "nectarine"],
+    "summary": "ネクタリンは産毛のない桃で、扱いも同じです。硬い状態で買い、常温で追熟させてから冷蔵します。常温の期間は決まっておらず、熟すまで置いてさらに1〜2日。熟してからは冷蔵で3〜5日、スライスを冷凍すれば2か月です。",
+    "pantry": "ここでの常温のルールは日数ではなく状態です。熟すまで、つまりやわらかく十分に発育して食べられる状態になるまで置き、その後はせいぜい1〜2日。熟したネクタリンはヘタ側が甘く香り、先端ではなく肩の部分が軽い力でへこみます。肩を傷めないようヘタを下にして一段で置き、急ぐなら紙袋に入れてください。",
+    "fridge": "熟してから4℃以下で冷蔵し、3〜5日持ちます。硬いうちに冷やすと内部褐変・果肉障害が起き、みずみずしさを失って乾いた粉っぽい、綿のような食感になります。その後どれだけ常温に置いても戻りません。冷えたものは食べる30分ほど前に常温に戻すと香りが立ちます。",
+    "freezer": "スライスしたネクタリンは−18℃で2か月持ちます。この数字は、スライスしてレモン汁と砂糖をまぶすことが前提で、それが褐変と型崩れを防ぎます。半分に切って種を除き、スライスしてレモン汁と少量の砂糖であえ、袋や容器に平らに入れて空気を抜きます。凍っていれば安全性は保たれ、2か月は品質の目安です。",
+    "thawing": "冷蔵庫で解凍し、まだ冷たさが残るうちに使います。温まると柔らかくなるためです。クランブルやパイ、コンポートには凍ったまま加熱しましょう。",
+    "spoilage": [
+      "押すと汁が出る茶色く軟らかいへこんだ打ち身",
+      "皮がしわになり果肉が乾いて粉っぽい（早く冷やしすぎたサイン）",
+      "灰色や茶色の綿状のカビ（触れている実に移ります）",
+      "発酵臭・アルコール臭"
+    ],
+    "tips": [
+      "色ではなく香りと肩のやわらかさで判断する",
+      "硬いネクタリンは冷蔵しない（粉っぽくなります）",
+      "ヘタを下にして一段で置く",
+      "食べきれない分はスライスしてレモンと砂糖であえ冷凍"
+    ],
+    "faq": [
+      {"q": "ネクタリンはどのくらい持ちますか？", "a": "熟すまで常温に置き、その後1〜2日。熟したものは冷蔵で3〜5日です。"},
+      {"q": "乾いて粉っぽいのはなぜ？", "a": "熟す前に冷蔵した可能性がほぼ確実です。未熟な核果は低温で内部障害を起こし、元には戻りません。"},
+      {"q": "冷凍できますか？", "a": "はい。スライスしてレモン汁と砂糖をまぶし、約2か月。その下ごしらえが褐変と型崩れを防ぎます。"}
+    ]
+  },
+  "es": {
+    "name": "Nectarinas",
+    "aliases": ["nectarina", "briñón", "pelón", "durazno pelado"],
+    "summary": "Una nectarina es un melocotón sin pelusa, y se comporta igual: se compra firme, madura en la encimera y solo entonces pasa a la nevera. No hay plazo fijo fuera —déjala hasta que madure y luego 1 o 2 días—, tras lo cual aguanta 3 a 5 días refrigerada, y en rodajas se congela 2 meses.",
+    "pantry": "Aquí la regla de encimera es un estado, no un número de días: deja las nectarinas fuera hasta que estén maduras —tiernas, plenamente desarrolladas y listas para comer— y después 1 o 2 días como mucho. Una nectarina madura huele dulce por el pedúnculo y cede a la presión suave en los hombros, no en la punta. Colócalas con el pedúnculo hacia abajo, en una capa, para no magullar los hombros, y acelera el proceso con una bolsa de papel si hace falta.",
+    "fridge": "Refrigérala solo ya madura, a 4 °C (40 °F) o menos, donde aguanta 3 a 5 días. Enfriar una nectarina dura provoca degradación interna: la pulpa queda seca, harinosa y lanosa en lugar de jugosa, y ningún tiempo en la encimera lo revierte. Atempera media hora una nectarina refrigerada antes de comerla para recuperar el aroma.",
+    "freezer": "Las nectarinas en rodajas duran 2 meses a −18 °C (0 °F), y esa cifra da por hecho que la fruta va cortada y mezclada con zumo de limón y azúcar, que es lo que evita que se oscurezca y se deshaga. Pártelas, deshuésalas, córtalas, mézclalas con limón y un poco de azúcar y envásalas planas sin aire. Congeladas son seguras indefinidamente; los 2 meses son calidad.",
+    "thawing": "Descongélalas en la nevera y úsalas mientras conserven algo de frío, porque se ablandan al templarse. Para crumbles, tartas y compotas, cocínalas directamente congeladas.",
+    "spoilage": [
+      "Golpes pardos, blandos y hundidos que rezuman al presionar",
+      "Piel arrugada sobre pulpa seca y harinosa, normalmente por enfriarla demasiado pronto",
+      "Moho algodonoso gris o pardo, que pasa a la fruta en contacto",
+      "Olor fermentado o alcohólico"
+    ],
+    "tips": [
+      "Juzga la madurez por olor y por la cesión en los hombros, no por color",
+      "Nunca refrigeres una nectarina dura: se vuelve harinosa",
+      "Colócalas con el pedúnculo hacia abajo y en una sola capa",
+      "Corta, mezcla con limón y azúcar y congela lo que no vayas a comer"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las nectarinas?", "a": "Déjalas fuera hasta que maduren y luego 1 o 2 días. Ya maduras aguantan 3 a 5 días en la nevera."},
+      {"q": "¿Por qué mi nectarina está seca y harinosa?", "a": "Casi seguro se refrigeró antes de madurar. El frío causa degradación interna en fruta de hueso verde y no tiene marcha atrás."},
+      {"q": "¿Se pueden congelar las nectarinas?", "a": "Sí, en rodajas con zumo de limón y azúcar, unos 2 meses. Esa preparación evita que se oscurezcan y se deshagan."}
+    ]
+  }
+}

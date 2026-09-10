@@ -1,0 +1,107 @@
+{
+  "slug": "star-apple",
+  "en": {
+    "name": "Star apple",
+    "aliases": ["caimito", "milk fruit", "estrella", "Chrysophyllum cainito"],
+    "summary": "The star apple, or caimito, is a purple or green tropical fruit whose sweet milky pulp forms a star pattern when cut across. No agency publishes figures for it, so treat it like an apple: 2 to 4 days on the counter and 1 to 3 weeks in the fridge.",
+    "pantry": "Eat it when the skin is dull and slightly wrinkled and the fruit is soft, which is usually 2 to 4 days after you buy it. One thing matters more than any timeline here: the rind and the white latex just beneath it are not eaten, and they are unpleasantly gummy, so cut around them and scoop the inner pulp. Keep the fruit out of the sun and handle it gently, because a bruise turns dark quickly.",
+    "fridge": "Keep whole fruit in a loose bag in the crisper at 4 °C (40 °F) or below, where it holds roughly 1 to 3 weeks. That range follows apple storage rather than a published caimito figure — both are firm-skinned and non-climacteric, meaning the star apple will not improve after picking, so buying a hard one and waiting achieves nothing. Cut fruit should be scooped, covered and eaten the same day.",
+    "freezer": "There is no established freezer timeline for star apple, and it is a poor candidate: the milky pulp separates and goes watery on thawing, and the latex near the rind becomes even more noticeable. If you have a surplus, scoop the pulp away from the rind and freeze it for smoothies, accepting the texture change. Treat any duration as your own planning figure.",
+    "thawing": "If you have frozen the pulp, blend it straight from the freezer. Thawing it and eating it as fruit is disappointing.",
+    "spoilage": [
+      "Skin gone soft and wet in patches rather than merely dull",
+      "Pulp turned brown, grey or fermented-smelling",
+      "Sticky latex seeping from cracks in the rind",
+      "Mould at the stem end"
+    ],
+    "tips": [
+      "It is non-climacteric — buy fruit that is already ripe, not hard",
+      "Do not eat the rind or the white layer just under it; it is gummy latex",
+      "Cut it across the middle to see the star and scoop from there",
+      "Chill it before serving; it is much better cold"
+    ],
+    "faq": [
+      {"q": "How long does star apple last?", "a": "About 2 to 4 days at room temperature and roughly 1 to 3 weeks in the fridge. There is no official figure; this follows apples."},
+      {"q": "Why is my star apple gummy?", "a": "You have eaten too close to the rind. The skin and the white layer beneath it carry latex and are not eaten — scoop only the inner pulp."},
+      {"q": "Will a hard star apple ripen at home?", "a": "Not really. It is non-climacteric, so it does not improve after picking. Buy fruit that already feels soft with a dull skin."}
+    ]
+  },
+  "zh": {
+    "name": "金星果",
+    "aliases": ["牛奶果", "星蘋果", "caimito", "非洲山欖"],
+    "summary": "金星果（caimito）是紫色或綠色的熱帶水果，橫切開來，香甜的乳白色果肉會呈現星形花紋。沒有官方單位公布它的保存數據，所以用蘋果的標準來看：室溫 2 到 4 天，冷藏 1 到 3 週。",
+    "pantry": "當外皮變得暗沉、略微起皺，而且果實摸起來軟時就可以吃了，通常是買回來後的 2 到 4 天。這裡有一件比任何期限都重要的事：外皮和緊貼在皮下那層白色乳汁不能吃，而且黏膩得很不舒服，所以請沿著皮的內側切開，只挖裡面的果肉。避開日曬並輕拿輕放，撞傷的地方很快就會轉深。",
+    "fridge": "整顆鬆鬆裝袋放蔬果室、維持 4°C 以下，大約可放 1 到 3 週。這個範圍是比照蘋果，不是針對金星果公布的數字——兩者都是果皮結實的非更年性水果，也就是說金星果採下後不會再變好，所以買一顆硬的回家慢慢等是沒有意義的。切開的果實要挖出果肉、蓋好，並當天吃完。",
+    "freezer": "金星果沒有公認的冷凍期限，而且它並不適合冷凍：乳狀的果肉解凍後會分離、變得水水的，靠近皮的乳汁感也會更明顯。真的太多的話，就把果肉從皮上挖下來冷凍拿去打果昔，並接受質地的變化。任何期限都請當成自己的規劃數字。",
+    "thawing": "如果冷凍了果肉，就直接冷凍狀態下去打。解凍後當水果吃並不好吃。",
+    "spoilage": [
+      "外皮不只是變暗，而是出現軟塌濕潤的斑塊",
+      "果肉轉褐、發灰，或聞起來發酵",
+      "外皮裂縫處滲出黏黏的乳汁",
+      "蒂頭處長黴"
+    ],
+    "tips": [
+      "它是非更年性水果——請買已經熟的，不要買硬的",
+      "不要吃外皮和皮下那層白色部分，那是黏膩的乳汁",
+      "從中間橫切，看到星形花紋之後從那裡挖",
+      "上桌前先冰過，冰的好吃得多"
+    ],
+    "faq": [
+      {"q": "金星果可以放多久？", "a": "室溫約 2 到 4 天，冷藏約 1 到 3 週。沒有官方數字，這是比照蘋果的做法。"},
+      {"q": "金星果為什麼吃起來黏黏的？", "a": "你挖得太靠近果皮了。外皮和皮下那層白色部分含乳汁，是不吃的——只挖中間的果肉。"},
+      {"q": "硬的金星果放家裡會熟嗎？", "a": "不太會。它是非更年性水果，採下後不會再變好，請直接挑外皮暗沉、摸起來已經軟的。"}
+    ]
+  },
+  "ja": {
+    "name": "スターアップル",
+    "aliases": ["カイミト", "ミルクフルーツ", "金星果", "Chrysophyllum cainito"],
+    "summary": "スターアップル（カイミト）は紫または緑の熱帯果実で、横に切ると甘くミルクのような果肉が星形の模様を見せます。公的な保存データがないため、りんごの扱いに倣い、常温で2〜4日、冷蔵で1〜3週間とします。",
+    "pantry": "皮のつやが落ちて少ししわが寄り、実が軟らかくなったら食べごろで、たいてい購入から2〜4日後です。ここでは日数より大事なことがあります。皮と、そのすぐ内側の白い層は食べません。ねばついた乳液があるからです。皮の内側を避けて切り、中の果肉だけをすくってください。日光を避けてやさしく扱いましょう。打ち身はすぐ黒ずみます。",
+    "fridge": "丸ごと袋にゆるく入れて4℃以下の野菜室に置けば、およそ1〜3週間持ちます。この範囲はりんごの保存に倣ったもので、カイミト固有の公表値ではありません。どちらも皮がしっかりした非クライマクテリック型で、つまり収穫後に品質が上がることはないため、硬いものを買って待っても意味がありません。切った果実は果肉をすくってふたをし、その日のうちに食べきります。",
+    "freezer": "スターアップルには定まった冷凍の目安がなく、向いてもいません。ミルク状の果肉は解凍すると分離して水っぽくなり、皮の近くの乳液の存在感も強まります。余った場合は皮から果肉をすくって冷凍しスムージーに使い、食感の変化は割り切ってください。期間はあくまで自己判断です。",
+    "thawing": "果肉を冷凍した場合は凍ったままミキサーへ。解凍して果物として食べるのは期待外れになります。",
+    "spoilage": [
+      "皮がくすむだけでなく、軟らかく濡れた部分がある",
+      "果肉が茶色い、灰色っぽい、発酵臭がする",
+      "皮の割れ目からねばつく乳液がにじむ",
+      "ヘタのカビ"
+    ],
+    "tips": [
+      "非クライマクテリック型なので、硬いものではなく熟したものを買う",
+      "皮とそのすぐ下の白い層は食べない（ねばつく乳液です）",
+      "横に切って星形を確認し、そこからすくう",
+      "食べる前に冷やす。冷たいほうが格段においしいです"
+    ],
+    "faq": [
+      {"q": "スターアップルはどのくらい持ちますか？", "a": "常温で2〜4日、冷蔵で1〜3週間ほどです。公的な数字はなく、りんごに倣っています。"},
+      {"q": "食べるとねばつくのはなぜ？", "a": "皮に近すぎるところまで食べています。皮とその下の白い層には乳液があり、食べません。中の果肉だけをすくってください。"},
+      {"q": "硬いものは家で熟しますか？", "a": "ほぼ熟しません。非クライマクテリック型で収穫後は品質が上がらないので、皮がくすんで軟らかいものを選びましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Caimito",
+    "aliases": ["star apple", "estrella", "fruta de leche", "Chrysophyllum cainito"],
+    "summary": "El caimito es una fruta tropical morada o verde cuya pulpa dulce y lechosa dibuja una estrella al cortarla en sentido transversal. Ningún organismo publica cifras, así que se trata como una manzana: 2 a 4 días en la encimera y 1 a 3 semanas en la nevera.",
+    "pantry": "Cómelo cuando la piel esté mate y algo arrugada y la fruta ceda, normalmente 2 a 4 días después de comprarla. Aquí hay algo más importante que cualquier plazo: la cáscara y el látex blanco justo debajo no se comen y resultan desagradablemente gomosos, así que corta por dentro de ellos y saca solo la pulpa interior. Mantén la fruta lejos del sol y manéjala con cuidado, porque un golpe se oscurece deprisa.",
+    "fridge": "Guarda la fruta entera en bolsa floja en el cajón a 4 °C (40 °F) o menos, donde aguanta unas 1 a 3 semanas. Ese rango sigue el almacenamiento de la manzana y no una cifra publicada para el caimito: ambas son de piel firme y no climatéricas, así que el caimito no mejora tras la cosecha y comprar uno duro y esperar no sirve de nada. La fruta cortada debe sacarse, taparse y comerse el mismo día.",
+    "freezer": "No existe un plazo establecido de congelación para el caimito, y es mala candidata: la pulpa lechosa se separa y queda acuosa al descongelarse, y el látex cercano a la cáscara se nota aún más. Si tienes exceso, saca la pulpa de la cáscara y congélala para batidos, asumiendo el cambio de textura. Toma cualquier duración como criterio propio.",
+    "thawing": "Si has congelado la pulpa, bátela directamente congelada. Descongelarla y comerla como fruta decepciona.",
+    "spoilage": [
+      "Piel blanda y húmeda por zonas, no solo mate",
+      "Pulpa parda, grisácea o con olor fermentado",
+      "Látex pegajoso rezumando por grietas de la cáscara",
+      "Moho en el pedúnculo"
+    ],
+    "tips": [
+      "Es no climatérico: compra fruta ya madura, no dura",
+      "No comas la cáscara ni la capa blanca de debajo: es látex gomoso",
+      "Córtalo por la mitad transversal para ver la estrella y saca la pulpa desde ahí",
+      "Enfríalo antes de servir: está mucho mejor frío"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el caimito?", "a": "Unos 2 a 4 días a temperatura ambiente y de 1 a 3 semanas en la nevera. No hay cifra oficial; sigue a la manzana."},
+      {"q": "¿Por qué me sabe gomoso?", "a": "Has llegado demasiado cerca de la cáscara. La piel y la capa blanca de debajo llevan látex y no se comen: saca solo la pulpa interior."},
+      {"q": "¿Madurará en casa un caimito duro?", "a": "No realmente. Es no climatérico y no mejora tras la cosecha; compra fruta que ya ceda y tenga la piel mate."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "mulberry",
+  "en": {
+    "name": "Mulberry",
+    "aliases": ["black mulberry", "white mulberry", "mora de morera", "Morus"],
+    "summary": "Mulberries are soft, juice-heavy berries that stain everything they touch and collapse almost as soon as they are picked. They must be refrigerated, where they keep about 2 to 3 days, and they freeze for 10 to 12 months.",
+    "pantry": "Taiwan's agriculture ministry lists mulberry among the fruit that must be refrigerated, and a bowl on the counter is genuinely not an option — the berries weep, ferment and grow mould within a day in a warm kitchen. Bring them home quickly, keep them out of the sun and get them into the fridge or the freezer straight away. Do not wash them before storing; surface water accelerates the collapse.",
+    "fridge": "Refrigerate at 4 °C (40 °F) or below and use them within about 2 to 3 days. Keep them unwashed in a shallow single layer so the weight of the fruit does not crush the bottom layer — a punnet piled deep will be a pool of juice by the next morning. That range follows the way blackberries are handled, the closest soft berry with published figures, since the cited source establishes the refrigeration rule but gives no duration.",
+    "freezer": "Mulberries freeze well for 10 to 12 months at −18 °C (0 °F), and freezing is the only realistic way to keep a harvest. Freeze them in a single layer on a lined tray first, then bag them, so the berries do not clump into a solid block. Frozen fruit stays safe indefinitely; the months are about colour and flavour, and frozen mulberries go straight into jam, compote, syrup and baking.",
+    "thawing": "Cook them from frozen for jam, sauces and puddings. If you thaw them, do so in the fridge on a plate and use the juice that runs out — thawed berries are very soft and are for cooking rather than eating raw.",
+    "spoilage": [
+      "Berries collapsed with juice pooling in the container",
+      "Grey or white fuzzy mould, which spreads through a punnet in hours",
+      "Fermented, winey smell",
+      "Dull, slimy fruit rather than glossy and plump"
+    ],
+    "tips": [
+      "Refrigerate or freeze the same day you pick or buy",
+      "Store in a shallow single layer, never piled deep",
+      "Do not wash until you are about to eat or cook",
+      "Wear gloves and an apron — the juice stains permanently"
+    ],
+    "faq": [
+      {"q": "How long do mulberries last in the fridge?", "a": "About 2 to 3 days at 4 °C (40 °F) or below, unwashed and in a shallow single layer."},
+      {"q": "Can you freeze mulberries?", "a": "Yes, for 10 to 12 months. Freeze them on a tray first, then bag them so they stay loose."},
+      {"q": "Do mulberries need to be refrigerated?", "a": "Yes. They are listed among the fruit that must be refrigerated, and at room temperature they collapse and ferment within a day."}
+    ]
+  },
+  "zh": {
+    "name": "桑葚",
+    "aliases": ["桑椹", "桑果", "白桑葚", "黑桑葚"],
+    "summary": "桑葚是柔軟多汁的漿果，碰到什麼就染色什麼，而且幾乎採下就開始塌。它必須冷藏，大約可放 2 到 3 天；冷凍則有 10 到 12 個月。",
+    "pantry": "農業部把桑葚列在「必須冷藏」的水果裡，放在桌上的碗裡真的不是一個選項——在溫熱的廚房裡，一天之內果實就會出水、發酵、長黴。買回家要快，避開日曬，立刻放進冷藏或冷凍。保存前不要洗，表面的水分只會讓它塌得更快。",
+    "fridge": "放 4°C 以下，約 2 到 3 天內用完。不要洗，單層淺鋪，讓上層的重量不會壓爛下面的——堆得深的一盒，隔天早上就會變成一灘果汁。這個範圍是比照黑莓——有公布數字、最接近的軟質莓果——因為引用的來源只確立了「必須冷藏」這條規則，沒有給期限。",
+    "freezer": "桑葚很適合冷凍，−18°C 下可放 10 到 12 個月，而且冷凍是保存一整批採收唯一實際的方法。先鋪在墊紙的托盤上單層冷凍，再裝袋，果實才不會凍成一整塊。只要維持凍結就是安全的，月數講的是顏色和風味；冷凍桑葚可以直接做果醬、糖煮、糖漿和烘焙。",
+    "thawing": "做果醬、醬汁和布丁時直接用冷凍的下鍋。要解凍就放盤子上冷藏，流出來的汁一併使用——解凍後的果實非常軟，適合入菜而不是生吃。",
+    "spoilage": [
+      "果實塌掉，容器底部積了一灘汁",
+      "長灰白色絨毛黴，幾小時內就會傳遍整盒",
+      "有發酵味、酒味",
+      "果實失去光澤、摸起來黏滑，而不是飽滿有亮度"
+    ],
+    "tips": [
+      "採收或購買當天就冷藏或冷凍",
+      "單層淺鋪保存，絕對不要堆深",
+      "要吃或要煮之前才洗",
+      "戴手套穿圍裙，那個汁會永久染色"
+    ],
+    "faq": [
+      {"q": "桑葚放冰箱可以放多久？", "a": "放 4°C 以下、不要洗、單層淺鋪，約 2 到 3 天。"},
+      {"q": "桑葚可以冷凍嗎？", "a": "可以，10 到 12 個月。先托盤冷凍再裝袋，顆粒才不會黏成一塊。"},
+      {"q": "桑葚需要冷藏嗎？", "a": "需要。它被列在必須冷藏的水果裡，放室溫一天內就會塌掉並開始發酵。"}
+    ]
+  },
+  "ja": {
+    "name": "桑の実",
+    "aliases": ["マルベリー", "クワの実", "桑葚", "ヤマグワ"],
+    "summary": "桑の実は柔らかく果汁の多いベリーで、触れたものすべてを染め、収穫直後から崩れ始めます。冷蔵が必須で2〜3日ほど、冷凍なら10〜12か月持ちます。",
+    "pantry": "台湾の農業当局は桑の実を「冷蔵が必要な果物」に挙げており、常温の器は選択肢になりません。暖かい台所では1日で果汁がにじみ、発酵し、カビが出ます。手早く持ち帰り、日光を避け、すぐ冷蔵か冷凍へ。保存前に洗わないでください。表面の水分は崩れを早めます。",
+    "fridge": "4℃以下で保存し、2〜3日以内に使い切ります。洗わずに浅く一段に広げ、上の実の重みで下がつぶれないようにしてください。深く積んだ容器は翌朝には果汁の池になります。この範囲は、引用元が冷蔵の必要性は示しつつ期間を示していないため、データのある最も近い軟質ベリーであるブラックベリーの扱いに倣った目安です。",
+    "freezer": "冷凍向きで−18℃なら10〜12か月持ち、収穫をまとめて保存する現実的な方法は冷凍だけです。紙を敷いたトレーで一段に凍らせてから袋へ移すと、塊にならずに済みます。凍っていれば安全性は保たれ、月数は色と風味の目安。凍ったままジャム、コンポート、シロップ、焼き菓子に使えます。",
+    "thawing": "ジャムやソース、プディングには凍ったまま加熱します。解凍する場合は皿にのせて冷蔵庫で、出た果汁も一緒に使ってください。解凍後は非常に柔らかく、生食より加熱向きです。",
+    "spoilage": [
+      "実がつぶれ、容器に果汁がたまっている",
+      "灰色や白の綿状のカビ（数時間で容器全体に広がる）",
+      "発酵臭、ワインのようなにおい",
+      "つやのある粒ではなく、くすんでぬめっている"
+    ],
+    "tips": [
+      "収穫・購入した日に冷蔵か冷凍する",
+      "浅く一段で保存し、深く積まない",
+      "洗うのは食べる直前、調理直前に",
+      "手袋とエプロンを。果汁は落ちません"
+    ],
+    "faq": [
+      {"q": "桑の実は冷蔵庫でどのくらい持ちますか？", "a": "4℃以下で洗わず浅く一段に並べて2〜3日ほどです。"},
+      {"q": "桑の実は冷凍できますか？", "a": "はい、10〜12か月です。トレーで凍らせてから袋へ移すとばらけたまま使えます。"},
+      {"q": "冷蔵は必要ですか？", "a": "必要です。冷蔵が必要な果物に挙げられており、常温では1日で崩れて発酵します。"}
+    ]
+  },
+  "es": {
+    "name": "Moras de morera",
+    "aliases": ["morera negra", "morera blanca", "mora de árbol", "Morus"],
+    "summary": "Las moras de morera son bayas blandas y muy jugosas que manchan todo lo que tocan y se deshacen casi en cuanto se recogen. Deben refrigerarse, donde aguantan unos 2 a 3 días, y se congelan de 10 a 12 meses.",
+    "pantry": "El ministerio de agricultura de Taiwán incluye la morera entre las frutas que deben refrigerarse, y un frutero no es realmente una opción: en una cocina cálida las bayas rezuman, fermentan y crían moho en un día. Llévalas pronto a casa, mantenlas lejos del sol y pásalas de inmediato a la nevera o al congelador. No las laves antes de guardarlas: el agua superficial acelera el colapso.",
+    "fridge": "Refrigéralas a 4 °C (40 °F) o menos y úsalas en unos 2 a 3 días. Guárdalas sin lavar en una sola capa fina para que el peso no aplaste las de abajo: una tarrina apilada será un charco de jugo por la mañana. Ese rango sigue el manejo de las zarzamoras, la baya blanda comparable con cifras publicadas, ya que la fuente citada establece la regla de refrigerar pero no da plazo.",
+    "freezer": "Se congelan bien de 10 a 12 meses a −18 °C (0 °F), y congelar es la única forma realista de conservar una cosecha. Congélalas primero en una capa sobre bandeja forrada y luego embólsalas para que no se apelmacen en bloque. Congeladas son seguras indefinidamente; los meses son color y sabor, y van del congelador directas a mermelada, compota, sirope y repostería.",
+    "thawing": "Cocínalas congeladas para mermelada, salsas y postres. Si las descongelas, hazlo en la nevera sobre un plato y aprovecha el jugo: quedan muy blandas y son para cocinar más que para comer crudas.",
+    "spoilage": [
+      "Bayas deshechas con jugo acumulado en el recipiente",
+      "Moho gris o blanco algodonoso, que recorre la tarrina en horas",
+      "Olor fermentado y avinado",
+      "Fruta mate y viscosa en lugar de brillante y turgente"
+    ],
+    "tips": [
+      "Refrigera o congela el mismo día que las recoges o compras",
+      "Guárdalas en una capa fina, nunca apiladas",
+      "No las laves hasta el momento de comerlas o cocinarlas",
+      "Usa guantes y delantal: el jugo mancha para siempre"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las moras de morera en la nevera?", "a": "Unos 2 a 3 días a 4 °C (40 °F) o menos, sin lavar y en una sola capa fina."},
+      {"q": "¿Se pueden congelar?", "a": "Sí, de 10 a 12 meses. Congélalas antes en bandeja y luego embólsalas para que queden sueltas."},
+      {"q": "¿Hay que refrigerarlas?", "a": "Sí. Figuran entre las frutas que deben refrigerarse; a temperatura ambiente se deshacen y fermentan en un día."}
+    ]
+  }
+}

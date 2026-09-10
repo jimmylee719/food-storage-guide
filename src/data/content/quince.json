@@ -1,0 +1,107 @@
+{
+  "slug": "quince",
+  "en": {
+    "name": "Quince",
+    "aliases": ["membrillo", "coing", "golden apple", "Cydonia oblonga"],
+    "summary": "Quince is a hard, fragrant autumn pome fruit that is almost always cooked rather than eaten raw. Whole fruit keeps 2 to 4 weeks in a cool room and roughly 2 to 3 months refrigerated, and poached flesh freezes for 8 to 12 months.",
+    "pantry": "Quince is rock hard and keeps well in a cool room, where a bowl of them will perfume a whole kitchen for 2 to 4 weeks. That perfume is also the reason to store them away from other fruit, which picks up the scent readily — a quince next to apples will make the apples smell of quince. Lay them in a single layer without touching, and handle them gently despite their hardness, because the skin bruises brown where it knocks.",
+    "fridge": "Wrapped loosely in the fridge at 4 °C (40 °F) or below, quince holds roughly 2 to 3 months. That is an estimate rather than a published figure: apples are given 1 to 3 weeks in the fridge, and quince, being denser, harder and later-keeping, holds considerably longer. Wrap them so the skin does not knock against shelves, and check occasionally for the soft brown patches that spread from a bruise.",
+    "freezer": "Freeze quince peeled, cored and poached — raw quince flesh browns quickly and stays woody, so freezing it raw achieves nothing. Poach the prepared fruit in syrup until tender and pink, cool it and freeze it in its syrup for 8 to 12 months at −18 °C (0 °F). Poached quince is then ready for tarts, crumbles, membrillo and roasting alongside meat.",
+    "thawing": "Thaw poached quince in the fridge overnight, or tip it into a pan from frozen and warm it through in its syrup.",
+    "spoilage": [
+      "Soft brown patches spreading from a knock",
+      "Flesh gone brown and mushy through the core",
+      "Fuzzy grey or blue mould, often starting at the calyx",
+      "Fermented or musty smell instead of the strong floral perfume"
+    ],
+    "tips": [
+      "Store away from other fruit, which will smell of quince",
+      "Rub off the grey fuzz on the skin before cooking",
+      "Use a heavy knife and a stable board — raw quince is genuinely hard to cut",
+      "The peels and cores are full of pectin: simmer them for jelly rather than discarding"
+    ],
+    "faq": [
+      {"q": "How long does quince last?", "a": "About 2 to 4 weeks whole in a cool room and roughly 2 to 3 months refrigerated. The fridge figure is an estimate based on apple storage."},
+      {"q": "Can you eat quince raw?", "a": "Most varieties are too hard, astringent and woody to enjoy raw. Quince is poached, roasted or set into membrillo."},
+      {"q": "Can you freeze quince?", "a": "Freeze it peeled, cored and poached, in its syrup, for 8 to 12 months. Raw quince browns and stays woody, so freezing it raw achieves nothing."}
+    ]
+  },
+  "zh": {
+    "name": "榲桲",
+    "aliases": ["木梨", "金蘋果", "membrillo", "香木瓜（誤稱）"],
+    "summary": "榲桲是秋天的硬質仁果，香氣濃郁，幾乎都要煮過才吃，很少生食。整顆在陰涼室內可放 2 到 4 週，冷藏約 2 到 3 個月；糖煮過的果肉冷凍 8 到 12 個月。",
+    "pantry": "榲桲硬得像石頭，在陰涼的房間裡很耐放，一碗榲桲可以讓整個廚房香上 2 到 4 週。而這股香氣也正是要把它和其他水果分開放的原因，別的水果很容易吸味——榲桲旁邊的蘋果會變成榲桲味的蘋果。請單層擺放、彼此不要碰到；儘管它很硬，還是要輕拿輕放，因為果皮撞到的地方會出現褐色的傷。",
+    "fridge": "鬆鬆包好放 4°C 以下的冰箱，大約可放 2 到 3 個月。這是估計值而不是公布數字：蘋果在冰箱的參考值是 1 到 3 週，而榲桲更緻密、更硬、也更耐放，可以撐得久得多。包起來可以避免果皮撞到層架，並且偶爾檢查有沒有從撞傷處擴散開的褐色軟斑。",
+    "freezer": "榲桲要去皮、去核、糖煮之後才冷凍——生的榲桲果肉很快就會褐化，而且一直是木木的口感，生凍沒有任何意義。把處理好的果肉用糖水煮到軟嫩轉粉紅，放涼後連糖水一起冷凍，−18°C 下 8 到 12 個月。糖煮榲桲之後可以直接拿來做塔、烤酥、榲桲糕，或和肉一起爐烤。",
+    "thawing": "糖煮榲桲放冷藏隔夜解凍，或直接冷凍狀態倒進鍋裡，連糖水一起加熱。",
+    "spoilage": [
+      "從撞擊點擴散開來的褐色軟斑",
+      "從果核往外整個轉褐、軟爛",
+      "長灰色或藍色絨毛黴，常從花萼端開始",
+      "聞起來發酵或有霉味，而不是濃郁的花香"
+    ],
+    "tips": [
+      "和其他水果分開放，不然它們都會變成榲桲味",
+      "烹調前先把果皮上的灰色絨毛擦掉",
+      "用重一點的刀和穩固的砧板，生榲桲是真的很難切",
+      "果皮和果核富含果膠，煮成果凍比丟掉划算"
+    ],
+    "faq": [
+      {"q": "榲桲可以放多久？", "a": "整顆在陰涼室內約 2 到 4 週，冷藏約 2 到 3 個月。冷藏的數字是根據蘋果推估的。"},
+      {"q": "榲桲可以生吃嗎？", "a": "大多數品種太硬、太澀、口感太木，不適合生吃。它通常是糖煮、爐烤或做成榲桲糕。"},
+      {"q": "榲桲可以冷凍嗎？", "a": "去皮去核糖煮後連糖水冷凍 8 到 12 個月。生凍沒有意義，生果肉會褐化而且一直是木木的。"}
+    ]
+  },
+  "ja": {
+    "name": "マルメロ",
+    "aliases": ["西洋かりん", "クインス", "membrillo", "Cydonia oblonga"],
+    "summary": "マルメロは硬く香りの強い秋の仁果で、ほとんどの場合は生ではなく加熱して食べます。丸ごとなら涼しい室内で2〜4週間、冷蔵でおよそ2〜3か月、シロップ煮にした果肉は冷凍で8〜12か月です。",
+    "pantry": "マルメロは石のように硬く、涼しい室内でよく持ちます。器に盛っておけば2〜4週間、台所全体が香ります。その香りの強さゆえ、ほかの果物とは離して置いてください。においが移りやすく、りんごの隣に置けばりんごがマルメロの香りになります。触れ合わないよう一段に並べ、硬いとはいえやさしく扱いましょう。ぶつけた皮は茶色く傷みます。",
+    "fridge": "ゆるく包んで4℃以下に置けば、およそ2〜3か月持ちます。これは公表値ではなく推定です。りんごの冷蔵の目安は1〜3週間ですが、マルメロはより密で硬く日持ちするため、かなり長く保てます。棚に当たらないよう包み、打ち身から広がる茶色い軟らかい斑がないか時々確認してください。",
+    "freezer": "マルメロは皮と芯を除き、シロップで煮てから冷凍します。生の果肉はすぐ褐変し、木質のままなので、生で凍らせても意味がありません。下ごしらえした果肉をシロップで柔らかくピンク色になるまで煮て冷まし、シロップごと−18℃で8〜12か月冷凍します。タルトやクランブル、メンブリージョ、肉のローストの付け合わせにそのまま使えます。",
+    "thawing": "シロップ煮は冷蔵庫で一晩解凍するか、凍ったまま鍋に入れてシロップごと温めます。",
+    "spoilage": [
+      "打った箇所から広がる茶色い軟らかい斑",
+      "芯のほうまで茶色くどろっとしている",
+      "灰色や青の綿状のカビ（おしり側から出やすい）",
+      "強い花のような香りではなく発酵臭・かび臭"
+    ],
+    "tips": [
+      "ほかの果物と離して置く（においが移ります）",
+      "調理前に皮の灰色の綿毛をこすり落とす",
+      "重い包丁と安定したまな板で。生は本当に硬いです",
+      "皮と芯はペクチンが豊富。捨てずに煮てゼリーに"
+    ],
+    "faq": [
+      {"q": "マルメロはどのくらい持ちますか？", "a": "丸ごとで涼しい室内なら2〜4週間、冷蔵でおよそ2〜3か月です。冷蔵の数字はりんごを基にした推定です。"},
+      {"q": "生で食べられますか？", "a": "多くの品種は硬く渋く木質で生食には向きません。シロップ煮やロースト、メンブリージョにします。"},
+      {"q": "冷凍できますか？", "a": "皮と芯を除きシロップで煮てから、シロップごと8〜12か月。生で凍らせても褐変し木質のままです。"}
+    ]
+  },
+  "es": {
+    "name": "Membrillo",
+    "aliases": ["quince", "codony", "marmelo", "Cydonia oblonga"],
+    "summary": "El membrillo es un pomo otoñal duro y muy aromático que casi siempre se cocina en lugar de comerse crudo. La fruta entera aguanta 2 a 4 semanas en una habitación fresca y unos 2 a 3 meses refrigerada, y la carne escalfada se congela de 8 a 12 meses.",
+    "pantry": "El membrillo es durísimo y se conserva bien en una habitación fresca, donde un frutero perfumará toda la cocina durante 2 a 4 semanas. Ese perfume es también la razón para guardarlo lejos de otras frutas, que cogen el aroma con facilidad: un membrillo junto a manzanas hará que las manzanas huelan a membrillo. Colócalos en una capa sin que se toquen y manéjalos con cuidado pese a su dureza, porque la piel se pardea donde golpea.",
+    "fridge": "Envuelto sin apretar a 4 °C (40 °F) o menos, el membrillo aguanta unos 2 a 3 meses. Es una estimación y no una cifra publicada: a la manzana se le dan 1 a 3 semanas en nevera, y el membrillo, más denso, duro y de guarda más larga, aguanta bastante más. Envuélvelos para que la piel no golpee los estantes y revisa de vez en cuando las manchas pardas que se extienden desde un golpe.",
+    "freezer": "Congela el membrillo pelado, descorazonado y escalfado: la carne cruda se oscurece deprisa y sigue leñosa, así que congelarla cruda no aporta nada. Escálfala en almíbar hasta que esté tierna y rosada, enfríala y congélala en su almíbar de 8 a 12 meses a −18 °C (0 °F). Así queda listo para tartas, crumbles, dulce de membrillo y asados con carne.",
+    "thawing": "Descongela el membrillo escalfado toda la noche en la nevera, o échalo congelado a una cazuela y caliéntalo en su almíbar.",
+    "spoilage": [
+      "Manchas pardas y blandas que se extienden desde un golpe",
+      "Carne parda y pastosa hacia el corazón",
+      "Moho algodonoso gris o azul, a menudo desde el cáliz",
+      "Olor fermentado o a humedad en lugar del intenso perfume floral"
+    ],
+    "tips": [
+      "Guárdalo lejos de otras frutas, que acabarán oliendo a membrillo",
+      "Frota la pelusa gris de la piel antes de cocinarlo",
+      "Usa un cuchillo pesado y una tabla estable: crudo cuesta mucho cortarlo",
+      "Pieles y corazones son pura pectina: cuécelos para jalea en vez de tirarlos"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el membrillo?", "a": "Unas 2 a 4 semanas entero en una habitación fresca y unos 2 a 3 meses refrigerado. La cifra de nevera es una estimación basada en la manzana."},
+      {"q": "¿Se puede comer crudo?", "a": "La mayoría de variedades son demasiado duras, astringentes y leñosas. El membrillo se escalfa, se asa o se convierte en dulce."},
+      {"q": "¿Se puede congelar?", "a": "Congélalo pelado, descorazonado y escalfado, en su almíbar, de 8 a 12 meses. Crudo se oscurece y sigue leñoso."}
+    ]
+  }
+}

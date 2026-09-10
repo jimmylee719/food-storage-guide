@@ -1,0 +1,107 @@
+{
+  "slug": "bagged-greens-leaf-spinach-lettuce",
+  "en": {
+    "name": "Bagged greens",
+    "aliases": ["bagged salad", "pre-washed salad", "leaf spinach", "mixed leaves"],
+    "summary": "Bagged greens — washed leaf spinach, lettuce mixes, baby leaves and the like — are ready to eat straight from the pack and have a much shorter clock than a whole head. Unopened they last about 3 to 5 days beyond the date on the bag; once opened, about 2 days.",
+    "pantry": "Bagged greens must stay refrigerated. They are washed, cut and packed damp, and a warm room is exactly the environment that turns them from crisp to slimy — a bag left out for an afternoon should be treated as past it rather than merely tired. Bring them home in a cool bag, and never leave a pack in a hot car.",
+    "fridge": "Keep them at 4 °C (40 °F) or below. An unopened bag lasts about 3 to 5 days beyond the printed date, and once you have opened it, about 2 days. Do not re-wash pre-washed leaves — the packs are washed under controlled conditions, and rinsing them at home in a sink adds moisture and handling rather than safety. If the bag has puffed up, or the leaves at the bottom are dark and wet, discard the lot rather than picking through it.",
+    "freezer": "USDA gives no freezer timeline for bagged salad greens, and freezing them as salad is pointless — the leaves thaw dark and limp. Spinach and other cooking leaves are a different matter: wilt or blanch them, squeeze out the water and freeze the cooked greens in portions for soups, curries and pasta. Lettuce and delicate salad mixes are not worth the effort.",
+    "thawing": "Add frozen cooked greens straight to a hot pan or pot. If you thaw them, do it in the fridge and squeeze out the water before use.",
+    "spoilage": [
+      "Dark, translucent or slimy leaves, usually at the bottom of the bag",
+      "A puffed or inflated bag, which means the contents are respiring hard or spoiling",
+      "Sour, cabbagey or fermented smell on opening",
+      "Pooled liquid in the bag"
+    ],
+    "tips": [
+      "Buy the bag from the back of the chiller, where it is coldest",
+      "Do not re-wash pre-washed leaves; it adds moisture, not safety",
+      "Once opened, transfer the leaves to a box lined with kitchen paper",
+      "Discard the whole bag if any of it is slimy rather than picking out good leaves"
+    ],
+    "faq": [
+      {"q": "How long do bagged greens last?", "a": "Unopened, about 3 to 5 days beyond the date on the bag. Once opened, about 2 days at 4 °C (40 °F) or below."},
+      {"q": "Should you wash pre-washed salad?", "a": "No. The leaves are washed under controlled conditions; rinsing at home adds moisture and handling without improving safety."},
+      {"q": "Can you freeze bagged salad?", "a": "Not as salad. Cooking leaves like spinach can be wilted, squeezed dry and frozen; lettuce and delicate mixes are not worth freezing."}
+    ]
+  },
+  "zh": {
+    "name": "袋裝生菜",
+    "aliases": ["洗選生菜", "即食沙拉包", "袋裝菠菜", "綜合生菜"],
+    "summary": "袋裝生菜——洗好的嫩葉菠菜、萵苣綜合包、嫩葉沙拉那一類——打開就能吃，但它的時間比一整顆生菜短得多。未開封大約可以在袋上標示日期之後再放 3 到 5 天；開封後大約 2 天。",
+    "pantry": "袋裝生菜一定要全程冷藏。它們已經洗過、切過，而且是帶著水分包裝的，溫暖的房間正好是把它從清脆變黏滑的環境——一包在室溫放了一個下午的生菜，應該當成「已經過了」而不只是「有點蔫」。回家路上用保冷袋，也絕對不要把它留在悶熱的車上。",
+    "fridge": "放 4°C 以下。未開封的袋子大約可以在標示日期之後再放 3 到 5 天，一旦開封就大約 2 天。洗選過的葉菜不要再洗一次——那些包裝是在控制條件下清洗的，在家用水槽沖洗只是增加水分和接觸機會，對安全沒有幫助。如果袋子鼓起來，或底部的葉子已經發黑濕爛，請整包丟掉，不要一片片挑。",
+    "freezer": "USDA 沒有提供袋裝沙拉葉菜的冷凍期限，而且把它當沙拉冷凍毫無意義——解凍後葉子又黑又軟塌。菠菜這類要煮的葉菜則是另一回事：炒軟或汆燙、擠乾水分，再把煮熟的分份冷凍，之後拿來做湯、咖哩和義大利麵。萵苣和纖細的沙拉綜合包則不值得花這個工夫。",
+    "thawing": "煮熟後冷凍的葉菜直接丟進熱鍋或湯裡。真的要解凍就放冷藏，用之前先把水擠掉。",
+    "spoilage": [
+      "葉子發黑、變半透明或黏滑，通常是袋底那幾片",
+      "袋子鼓脹，表示裡面呼吸旺盛或已經在腐敗",
+      "打開時聞到酸味、甘藍味或發酵味",
+      "袋子裡積了一灘水"
+    ],
+    "tips": [
+      "從冷藏櫃最裡面拿，那裡溫度最低",
+      "洗選過的葉菜不要再洗，那只是增加水分而不是增加安全",
+      "開封後把葉子移到墊了廚房紙巾的保鮮盒裡",
+      "只要有一部分發黏就整包丟掉，不要挑好的留下"
+    ],
+    "faq": [
+      {"q": "袋裝生菜可以放多久？", "a": "未開封大約可以在袋上日期之後再放 3 到 5 天；開封後放 4°C 以下約 2 天。"},
+      {"q": "洗選沙拉還要再洗嗎？", "a": "不用。它是在控制條件下清洗的，在家沖洗只會增加水分和接觸，對安全沒有幫助。"},
+      {"q": "袋裝生菜可以冷凍嗎？", "a": "當沙拉不行。菠菜這類要煮的葉菜可以炒軟擠乾後冷凍；萵苣和纖細的綜合生菜不值得。"}
+    ]
+  },
+  "ja": {
+    "name": "カット野菜（サラダ用）",
+    "aliases": ["袋入りサラダ", "洗浄済みリーフ", "ベビーリーフ", "カットレタス"],
+    "summary": "袋入りのサラダ野菜――洗浄済みのほうれん草、レタスミックス、ベビーリーフなど――は開けてそのまま食べられますが、丸ごとの野菜よりずっと時間の余裕がありません。未開封なら袋の表示期限からさらに3〜5日、開封後は約2日です。",
+    "pantry": "袋入りサラダは常に冷蔵が必要です。洗って切って、水分を含んだ状態で包装されており、暖かい部屋はまさにシャキシャキをぬめりに変える環境です。半日出しっぱなしにした袋は「少しへたった」ではなく「もう過ぎた」と考えてください。保冷バッグで持ち帰り、暑い車内に置き忘れないこと。",
+    "fridge": "4℃以下で保存します。未開封の袋は表示の期限からさらに3〜5日、開封したら約2日です。洗浄済みの葉を家で洗い直さないでください。管理された条件で洗浄されており、家庭の流しですすぐことは水分と手指の接触を増やすだけで、安全性は上がりません。袋が膨らんでいたり、底の葉が黒く濡れていたりしたら、選り分けずに全量処分してください。",
+    "freezer": "USDAは袋入りサラダの冷凍期間を示しておらず、サラダとして凍らせても意味がありません。解凍すると黒くくたっとします。ほうれん草など加熱用の葉物は別で、炒めるかゆでて水気を絞り、加熱済みを小分け冷凍すればスープやカレー、パスタに使えます。レタスや繊細なミックスは手間に見合いません。",
+    "thawing": "加熱して冷凍した葉物は、そのまま熱した鍋やスープへ。解凍する場合は冷蔵庫で行い、使う前に水気を絞ってください。",
+    "spoilage": [
+      "葉が黒ずむ、半透明、ぬめる（袋の底に多い）",
+      "袋が膨らんでいる（内容物の呼吸が激しいか傷んでいるサイン）",
+      "開けたときの酸臭・キャベツ臭・発酵臭",
+      "袋の中に液がたまっている"
+    ],
+    "tips": [
+      "冷蔵ケースの奥から取る（そこがいちばん冷たい）",
+      "洗浄済みの葉は洗い直さない（水分が増えるだけです）",
+      "開封したらキッチンペーパーを敷いた保存容器へ移す",
+      "一部でもぬめっていたら選り分けず全量処分する"
+    ],
+    "faq": [
+      {"q": "袋入りサラダはどのくらい持ちますか？", "a": "未開封なら袋の表示期限からさらに3〜5日、開封後は4℃以下で約2日です。"},
+      {"q": "洗浄済みサラダは洗うべき？", "a": "いいえ。管理下で洗浄されており、家庭で洗うと水分と接触が増えるだけで安全性は上がりません。"},
+      {"q": "冷凍できますか？", "a": "サラダとしては不可です。ほうれん草など加熱用の葉物は炒めて水気を絞れば冷凍できますが、レタス類は向きません。"}
+    ]
+  },
+  "es": {
+    "name": "Ensaladas embolsadas",
+    "aliases": ["ensalada en bolsa", "brotes lavados", "mezcla de hojas", "espinaca baby en bolsa"],
+    "summary": "Las ensaladas embolsadas —espinaca lavada, mezclas de lechuga, brotes tiernos y similares— vienen listas para comer y tienen un reloj mucho más corto que una lechuga entera. Sin abrir duran unos 3 a 5 días más allá de la fecha de la bolsa; una vez abiertas, unos 2 días.",
+    "pantry": "Las ensaladas embolsadas deben mantenerse refrigeradas. Están lavadas, cortadas y envasadas húmedas, y una habitación cálida es justo el entorno que las pasa de crujientes a viscosas: una bolsa olvidada una tarde debe darse por perdida, no por simplemente mustia. Llévalas a casa en bolsa isotérmica y nunca dejes un paquete en un coche caliente.",
+    "fridge": "Mantenlas a 4 °C (40 °F) o menos. Una bolsa sin abrir dura unos 3 a 5 días más allá de la fecha impresa, y una vez abierta, unos 2 días. No vuelvas a lavar las hojas prelavadas: se lavan en condiciones controladas y enjuagarlas en el fregadero añade humedad y manipulación, no seguridad. Si la bolsa está hinchada o las hojas del fondo están oscuras y húmedas, tira el conjunto en lugar de rebuscar.",
+    "freezer": "El USDA no da plazo de congelación para las ensaladas embolsadas, y congelarlas como ensalada no sirve: las hojas se descongelan oscuras y lacias. Las hojas de cocción como la espinaca son otra cosa: rehógalas o escáldalas, escúrrelas apretando y congela las hojas cocidas en porciones para sopas, currys y pasta. La lechuga y las mezclas delicadas no compensan.",
+    "thawing": "Añade las hojas cocidas congeladas directamente a una sartén u olla caliente. Si las descongelas, hazlo en la nevera y escurre el agua antes de usarlas.",
+    "spoilage": [
+      "Hojas oscuras, translúcidas o viscosas, normalmente en el fondo de la bolsa",
+      "Bolsa hinchada, señal de respiración intensa o de deterioro",
+      "Olor agrio, a col o fermentado al abrirla",
+      "Líquido acumulado dentro de la bolsa"
+    ],
+    "tips": [
+      "Coge la bolsa del fondo del expositor refrigerado, donde hace más frío",
+      "No relaves las hojas prelavadas: añade humedad, no seguridad",
+      "Una vez abierta, pasa las hojas a un recipiente forrado con papel de cocina",
+      "Si una parte está viscosa, descarta toda la bolsa en lugar de salvar hojas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las ensaladas embolsadas?", "a": "Sin abrir, unos 3 a 5 días más allá de la fecha de la bolsa. Abiertas, unos 2 días a 4 °C (40 °F) o menos."},
+      {"q": "¿Hay que lavar la ensalada prelavada?", "a": "No. Se lava en condiciones controladas; enjuagarla en casa añade humedad y manipulación sin mejorar la seguridad."},
+      {"q": "¿Se puede congelar?", "a": "Como ensalada no. Las hojas de cocción como la espinaca sí, rehogadas y escurridas; la lechuga y las mezclas delicadas no compensan."}
+    ]
+  }
+}

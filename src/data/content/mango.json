@@ -1,0 +1,107 @@
+{
+  "slug": "mango",
+  "en": {
+    "name": "Mango",
+    "aliases": ["mangoes", "Ataulfo", "Alphonso", "Irwin mango"],
+    "summary": "Mangoes are picked firm and finish ripening off the tree, softening and sweetening as they go. From purchase they keep 3 to 5 days at room temperature and about a week in the fridge once ripe, and cubed flesh freezes for 6 to 8 months.",
+    "pantry": "Room temperature is where a mango ripens, and a firm one should stay on the counter for 3 to 5 days from purchase until it gives to gentle pressure and smells sweet at the stem end. Colour is not a reliable guide — many varieties stay green when perfectly ripe — so go by feel and smell. Do not refrigerate a hard mango: chilling injury stalls the ripening and leaves you with a fruit that turns grey and mealy instead of soft.",
+    "fridge": "Once the mango is ripe, refrigerate it at 4 °C (40 °F) or below for about 1 week from purchase, which buys you time without much loss of flavour. Bag it loosely so the skin does not dry, and let a fruit warm up for half an hour before eating if you want its full aroma. Cut mango goes into an airtight container and should be eaten within about 3 days.",
+    "freezer": "Peeled, cubed mango freezes for 6 to 8 months at −18 °C (0 °F) and is one of the most useful things in a freezer. Cut the cheeks off the flat stone, dice the flesh, freeze it in a single layer on a lined tray and bag it once solid so the pieces stay loose. Frozen mango stays safe indefinitely; the months are about texture and flavour, and it blends beautifully straight from frozen.",
+    "thawing": "Blend it from frozen for smoothies and lassi, or thaw in the fridge for chutney and baking. Thawed cubes are soft rather than firm, so do not plan on serving them as fresh fruit.",
+    "spoilage": [
+      "Large black, sunken, weeping patches on the skin",
+      "Fermented or alcoholic smell at the stem end",
+      "Flesh gone grey, stringy and mealy after being chilled too early",
+      "Mould at the stem scar or in any split"
+    ],
+    "tips": [
+      "Judge ripeness by feel and smell, not by colour",
+      "Never refrigerate a hard mango — the cold stops it ripening",
+      "Ripen it faster in a paper bag with a banana",
+      "Cube and freeze any fruit that ripens faster than you can eat it"
+    ],
+    "faq": [
+      {"q": "How long does a mango last?", "a": "About 3 to 5 days at room temperature and roughly 1 week in the fridge once ripe, both counted from purchase."},
+      {"q": "Should mangoes be refrigerated?", "a": "Only once ripe. A hard mango put in the fridge suffers chilling injury and never ripens properly."},
+      {"q": "Can you freeze mango?", "a": "Yes, peeled and cubed, for 6 to 8 months. Tray-freeze first so the pieces stay loose, and blend it straight from frozen."}
+    ]
+  },
+  "zh": {
+    "name": "芒果",
+    "aliases": ["檨仔", "愛文芒果", "金煌芒果", "土芒果"],
+    "summary": "芒果是硬著採、離樹後才完成後熟的水果，過程中會逐漸變軟變甜。從購買日起，室溫可放 3 到 5 天，熟了之後冷藏約一週；切塊果肉冷凍 6 到 8 個月。",
+    "pantry": "室溫才是芒果後熟的地方，硬的芒果請從購買日起在室溫放 3 到 5 天，直到輕壓會凹、蒂頭端聞得到甜香為止。顏色不是可靠的判斷依據——很多品種熟透了外皮還是綠的——所以要靠手感和氣味。硬的芒果不要冰：低溫會造成寒害、讓後熟停住，最後果肉不是變軟而是發灰、變得粉粉的。",
+    "fridge": "熟了之後放 4°C 以下冷藏，從購買日起約一週，可以爭取時間又不太損失風味。鬆鬆裝袋避免果皮乾掉；想要完整的香氣，吃之前先回溫半小時。切開的芒果請裝密封盒，約 3 天內吃完。",
+    "freezer": "去皮切塊的芒果在 −18°C 下可放 6 到 8 個月，是冷凍庫裡最好用的東西之一。沿著扁扁的果核把兩頰切下、切丁，鋪在墊紙的托盤上單層冷凍，凍硬後裝袋，塊狀才不會黏在一起。只要維持凍結就是安全的，月數講的是口感和風味，而且直接冷凍下去打非常好喝。",
+    "thawing": "做果昔和拉西直接用冷凍的打；做甜酸醬或烘焙就放冷藏解凍。解凍後的果丁會軟而不脆，所以不要拿來當新鮮水果上桌。",
+    "spoilage": [
+      "果皮出現大片發黑、凹陷、滲汁的斑塊",
+      "蒂頭端聞起來發酵或有酒味",
+      "太早冷藏導致果肉發灰、多纖維、口感粉粉的",
+      "蒂頭或裂縫處長黴"
+    ],
+    "tips": [
+      "靠手感和氣味判斷熟度，不要看顏色",
+      "硬的芒果絕對不要冰，低溫會讓它熟不了",
+      "想快一點就用紙袋和一根香蕉一起悶",
+      "熟得比你吃得快的，就切塊冷凍"
+    ],
+    "faq": [
+      {"q": "芒果可以放多久？", "a": "從購買日起，室溫約 3 到 5 天，熟了之後冷藏約一週。"},
+      {"q": "芒果需要冷藏嗎？", "a": "熟了才需要。硬的芒果放冰箱會有寒害，之後再也熟不好。"},
+      {"q": "芒果可以冷凍嗎？", "a": "可以，去皮切塊冷凍 6 到 8 個月。先托盤冷凍才不會黏成一團，直接冷凍下去打就好。"}
+    ]
+  },
+  "ja": {
+    "name": "マンゴー",
+    "aliases": ["アップルマンゴー", "アーウィン", "芒果", "アルフォンソ"],
+    "summary": "マンゴーは硬いうちに収穫され、樹を離れてから追熟して軟らかく甘くなります。購入日から常温で3〜5日、熟してからは冷蔵で約1週間、角切りの果肉は冷凍で6〜8か月です。",
+    "pantry": "マンゴーが熟すのは常温です。硬いものは購入日から3〜5日、軽く押してへこみ、ヘタ側から甘い香りがするまで常温に置きます。色は当てになりません。完熟でも緑のままの品種が多いので、手触りと香りで判断してください。硬いうちは冷蔵しないこと。低温障害で追熟が止まり、軟らかくならずに灰色で粉っぽい果肉になります。",
+    "fridge": "熟したら4℃以下で、購入日から約1週間冷蔵できます。風味をあまり損なわずに時間を稼げます。皮が乾かないよう袋にゆるく入れ、香りを楽しむなら食べる30分ほど前に出して常温に戻してください。カットしたものは密閉容器に入れ、約3日以内に食べきります。",
+    "freezer": "皮をむいて角切りにしたマンゴーは−18℃で6〜8か月持ち、冷凍庫でいちばん役に立つ食材のひとつです。平たい種に沿って両頬を切り取り、角切りにして紙を敷いたトレーで一段に凍らせ、固まったら袋へ移すとばらけたまま使えます。凍っていれば安全性は保たれ、月数は食感と風味の目安。凍ったまま撹拌するときれいに仕上がります。",
+    "thawing": "スムージーやラッシーには凍ったまま。チャツネや焼き菓子には冷蔵庫で解凍します。解凍した角切りは柔らかいので、生のフルーツとして出すのには向きません。",
+    "spoilage": [
+      "皮に大きな黒い、へこんで汁のにじむ部分",
+      "ヘタ側の発酵臭・アルコール臭",
+      "早く冷やしすぎて果肉が灰色で繊維質、粉っぽい",
+      "ヘタ跡や割れ目のカビ"
+    ],
+    "tips": [
+      "色ではなく手触りと香りで熟度を判断する",
+      "硬いマンゴーは冷蔵しない（追熟が止まります）",
+      "急ぐならバナナと一緒に紙袋へ",
+      "食べきれないほど熟したら角切りにして冷凍"
+    ],
+    "faq": [
+      {"q": "マンゴーはどのくらい持ちますか？", "a": "購入日から常温で3〜5日、熟してから冷蔵で約1週間です。"},
+      {"q": "マンゴーは冷蔵が必要ですか？", "a": "熟してからだけです。硬いまま冷蔵すると低温障害できちんと熟さなくなります。"},
+      {"q": "冷凍できますか？", "a": "はい、皮をむいて角切りで6〜8か月。トレー冷凍してから袋へ入れ、凍ったまま撹拌して使えます。"}
+    ]
+  },
+  "es": {
+    "name": "Mango",
+    "aliases": ["manga", "Ataulfo", "Alphonso", "mango Kent"],
+    "summary": "Los mangos se recogen firmes y terminan de madurar fuera del árbol, ablandándose y endulzándose por el camino. Desde la compra aguantan 3 a 5 días a temperatura ambiente y alrededor de una semana en la nevera ya maduros, y en dados se congelan de 6 a 8 meses.",
+    "pantry": "La temperatura ambiente es donde madura un mango, y uno firme debe quedarse en la encimera de 3 a 5 días desde la compra hasta que ceda a la presión suave y huela dulce por el pedúnculo. El color no es fiable —muchas variedades siguen verdes estando perfectas—, así que guíate por el tacto y el olfato. No refrigeres un mango duro: el daño por frío detiene la maduración y te deja una fruta gris y harinosa en lugar de blanda.",
+    "fridge": "Ya maduro, refrigéralo a 4 °C (40 °F) o menos alrededor de 1 semana desde la compra, lo que gana tiempo sin gran pérdida de sabor. Embólsalo sin apretar para que la piel no se reseque, y deja que se atempere media hora antes de comerlo si quieres todo su aroma. El mango cortado va en recipiente hermético y se come en unos 3 días.",
+    "freezer": "El mango pelado y en dados se congela de 6 a 8 meses a −18 °C (0 °F) y es de lo más útil que puede haber en un congelador. Corta las mejillas junto al hueso plano, trocea la pulpa, congélala en una capa sobre bandeja forrada y embólsala ya dura para que las piezas queden sueltas. Congelado es seguro indefinidamente; los meses son textura y sabor, y se bate estupendamente sin descongelar.",
+    "thawing": "Bátelo congelado para batidos y lassi, o descongélalo en la nevera para chutneys y repostería. Los dados descongelados quedan blandos, así que no los sirvas como fruta fresca.",
+    "spoilage": [
+      "Manchas negras grandes, hundidas y que rezuman en la piel",
+      "Olor fermentado o alcohólico en el pedúnculo",
+      "Pulpa gris, fibrosa y harinosa tras haberlo enfriado demasiado pronto",
+      "Moho en la cicatriz del pedúnculo o en cualquier grieta"
+    ],
+    "tips": [
+      "Juzga la madurez por tacto y olor, no por color",
+      "Nunca refrigeres un mango duro: el frío corta la maduración",
+      "Acelérala en una bolsa de papel con un plátano",
+      "Corta en dados y congela la fruta que madure más rápido de lo que puedas comer"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura un mango?", "a": "Unos 3 a 5 días a temperatura ambiente y alrededor de 1 semana en la nevera ya maduro, contados desde la compra."},
+      {"q": "¿Hay que refrigerar los mangos?", "a": "Solo ya maduros. Un mango duro en la nevera sufre daño por frío y nunca madura bien."},
+      {"q": "¿Se puede congelar el mango?", "a": "Sí, pelado y en dados, de 6 a 8 meses. Congélalo antes en bandeja y bátelo directamente congelado."}
+    ]
+  }
+}

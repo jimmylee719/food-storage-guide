@@ -1,0 +1,107 @@
+{
+  "slug": "mangosteen",
+  "en": {
+    "name": "Mangosteen",
+    "aliases": ["purple mangosteen", "mangostán", "queen of fruits", "Garcinia mangostana"],
+    "summary": "Mangosteen is the deep purple tropical fruit whose thick rind opens to reveal segments of soft white flesh. It keeps only about 2 to 4 days at room temperature before the rind hardens, and roughly 1 to 2 weeks refrigerated, which is where it belongs.",
+    "pantry": "Room temperature is a short holding period, not storage. The rind hardens and browns as it dries out, which makes the fruit difficult to open long before the flesh actually spoils — a mangosteen you cannot press open is usually still perfectly edible inside, just annoying. Reckon on 2 to 4 days, out of the sun, and eat the softest-shelled fruit first.",
+    "fridge": "Taiwan's agriculture ministry places mangosteen in the group of fruit that must be refrigerated to keep, though it gives no duration; the 1 to 2 weeks quoted here follows the way lychee is handled, the closest comparable tropical fruit with published figures. Store it in a perforated bag at 4 °C (40 °F) or below so the rind does not dry out. Do not seal it in airtight plastic, which sweats and rots the calyx.",
+    "freezer": "No source gives a freezer timeline for mangosteen. In practice, whole fruit can be frozen and is sometimes sold that way, but the segments come out soft and lose the clean, slightly resinous perfume that makes the fruit worth buying. If you need to keep a glut, freezing the segments for smoothies and sorbet is the usable route; treat any duration as your own planning figure.",
+    "thawing": "If you have frozen segments, eat them half-thawed or blend them from frozen. Fully thawed flesh is watery and slack.",
+    "spoilage": [
+      "Rind gone rock hard, so the fruit cannot be pressed open at all",
+      "Segments turned yellow, translucent or grey rather than clean white",
+      "Bitter yellow latex seeping into the flesh",
+      "Fermented smell, or mould around the green calyx"
+    ],
+    "tips": [
+      "Choose fruit with a rind that still yields to firm thumb pressure",
+      "The number of petals on the base tells you the number of segments inside",
+      "Perforated bag in the fridge, never sealed plastic",
+      "Rind stains fabric permanently — open it over a plate, not your lap"
+    ],
+    "faq": [
+      {"q": "How long does mangosteen last in the fridge?", "a": "Roughly 1 to 2 weeks in a perforated bag at 4 °C (40 °F) or below. No agency publishes a duration; this follows lychee."},
+      {"q": "Does mangosteen need to be refrigerated?", "a": "Yes. It is listed among the fruits that must be refrigerated to keep; at room temperature the rind hardens within a few days."},
+      {"q": "Why is my mangosteen so hard to open?", "a": "The rind has dried out and hardened. The flesh inside is often still fine — use a knife around the equator rather than your thumbs."}
+    ]
+  },
+  "zh": {
+    "name": "山竹",
+    "aliases": ["莽吉柿", "鳳果", "倒捻子", "mangosteen"],
+    "summary": "山竹是深紫色的熱帶水果，厚厚的果殼剝開後是一瓣瓣柔軟的白色果肉。室溫只放得住約 2 到 4 天，之後果殼就會變硬；冷藏大約 1 到 2 週，那也才是它該待的地方。",
+    "pantry": "室溫只是短暫的暫放，不是保存。果殼會隨著失水變硬、轉褐，早在果肉真的壞掉之前，就已經硬到剝不開——一顆按不開的山竹，裡面通常還是很好吃，只是很惱人。大約 2 到 4 天，避開日曬，殼最軟的先吃。",
+    "fridge": "農業部把山竹列在「必須冷藏才能保存」的水果裡，但沒有給出期限；這裡寫的 1 到 2 週是比照荔枝——資料庫裡有公布數字、條件最接近的熱帶水果。請用打洞的袋子裝、放 4°C 以下，避免果殼乾掉。不要用密封塑膠袋，會悶出水氣讓蒂頭爛掉。",
+    "freezer": "沒有任何來源提供山竹的冷凍期限。實務上整顆是可以冷凍的，市面上也有這樣賣，但果瓣解凍後會變軟，也會失去那股乾淨、微微帶樹脂感的香氣——而那正是買它的理由。如果收成太多，把果瓣冷凍起來打果昔或做雪酪是可行的做法；任何期限都請當成自己的規劃數字。",
+    "thawing": "冷凍果瓣請半解凍吃，或直接冷凍狀態下去打。完全解凍的果肉會水水的、鬆軟無味。",
+    "spoilage": [
+      "果殼硬到完全按不開",
+      "果瓣不再是乾淨的白色，而是轉黃、變半透明或發灰",
+      "苦苦的黃色汁液滲進果肉裡",
+      "有發酵味，或綠色蒂頭周圍長黴"
+    ],
+    "tips": [
+      "挑果殼用拇指用力按還會凹的",
+      "底部花瓣的數目，就是裡面果瓣的數目",
+      "冰箱裡用打洞袋，絕對不要密封塑膠袋",
+      "果殼的汁會永久染色，請在盤子上剝，不要放在腿上"
+    ],
+    "faq": [
+      {"q": "山竹放冰箱可以放多久？", "a": "用打洞袋裝放 4°C 以下約 1 到 2 週。沒有官方公布期限，這是比照荔枝的做法。"},
+      {"q": "山竹需要冷藏嗎？", "a": "需要。它被列在必須冷藏才能保存的水果裡；放室溫幾天內果殼就會變硬。"},
+      {"q": "山竹為什麼那麼難剝？", "a": "果殼失水變硬了。裡面的果肉通常還是好的，請用刀沿著中間切一圈，不要硬用拇指壓。"}
+    ]
+  },
+  "ja": {
+    "name": "マンゴスチン",
+    "aliases": ["山竹", "果物の女王", "パープルマンゴスチン", "mangosteen"],
+    "summary": "マンゴスチンは濃い紫色の熱帯果実で、厚い果皮を割ると柔らかい白い果肉が房状に現れます。常温では果皮が硬くなるまで2〜4日ほど、冷蔵ではおよそ1〜2週間で、本来の置き場所は冷蔵庫です。",
+    "pantry": "常温は保存ではなく一時的な置き場です。果皮は乾くにつれ硬く茶色くなり、果肉が傷むよりずっと前に割れなくなります。押しても開かないマンゴスチンは、たいてい中身は無事で、ただ厄介なだけです。目安は2〜4日、日光を避け、皮の軟らかいものから食べましょう。",
+    "fridge": "台湾の農業当局はマンゴスチンを「保存には冷蔵が必要な果物」に分類していますが、期間は示していません。ここでの1〜2週間は、データのある最も近い熱帯果実であるライチの扱いに倣った数字です。果皮が乾かないよう穴あき袋に入れ、4℃以下で保存してください。密閉袋は湿気がこもってヘタが腐るので避けます。",
+    "freezer": "マンゴスチンの冷凍期間を示す出典はありません。実際にはまるごと冷凍でき、そのように売られることもありますが、房は解凍すると柔らかくなり、この果実の魅力である澄んだ、かすかに樹脂のような香りが失われます。量が多いときは、スムージーやシャーベット用に房を冷凍するのが現実的です。期間はあくまで自己判断としてください。",
+    "thawing": "冷凍した房は半解凍で食べるか、凍ったままミキサーへ。完全に解凍すると水っぽくだれます。",
+    "spoilage": [
+      "果皮が硬すぎてまったく割れない",
+      "房が澄んだ白ではなく黄色、半透明、灰色になっている",
+      "苦い黄色の樹液が果肉ににじんでいる",
+      "発酵臭、緑のヘタまわりのカビ"
+    ],
+    "tips": [
+      "親指で強く押すとまだへこむ皮のものを選ぶ",
+      "おしり側の花びらの数が中の房の数と一致します",
+      "冷蔵庫では穴あき袋。密閉袋は避ける",
+      "果皮の汁は落ちないので、膝の上ではなく皿の上で割る"
+    ],
+    "faq": [
+      {"q": "マンゴスチンは冷蔵庫でどのくらい持ちますか？", "a": "穴あき袋に入れて4℃以下で1〜2週間ほどです。公表された期間はなく、ライチに倣っています。"},
+      {"q": "冷蔵は必要ですか？", "a": "必要です。保存には冷蔵が要る果物に分類されており、常温では数日で果皮が硬くなります。"},
+      {"q": "なぜ割れないほど硬いのですか？", "a": "果皮が乾いて硬くなったためです。中身は無事なことが多いので、親指ではなく包丁で赤道に沿って切り込みを入れてください。"}
+    ]
+  },
+  "es": {
+    "name": "Mangostán",
+    "aliases": ["mangostino", "mangostán morado", "reina de las frutas", "Garcinia mangostana"],
+    "summary": "El mangostán es la fruta tropical morada cuya corteza gruesa se abre para mostrar gajos de pulpa blanca y suave. A temperatura ambiente aguanta solo unos 2 a 4 días antes de que la corteza se endurezca, y alrededor de 1 a 2 semanas refrigerado, que es donde debe estar.",
+    "pantry": "La encimera es una espera corta, no un almacenamiento. La corteza se endurece y pardea al secarse, lo que hace la fruta difícil de abrir mucho antes de que la pulpa se estropee: un mangostán que no se abre con los pulgares suele estar perfectamente bien por dentro, solo resulta molesto. Cuenta con 2 a 4 días, lejos del sol, y come primero los de corteza más blanda.",
+    "fridge": "El ministerio de agricultura de Taiwán incluye el mangostán entre las frutas que deben refrigerarse para conservarse, aunque no da plazo; las 1 a 2 semanas citadas aquí siguen el manejo del lichi, la fruta tropical comparable con cifras publicadas. Guárdalo en bolsa perforada a 4 °C (40 °F) o menos para que la corteza no se reseque. No lo cierres en plástico hermético: suda y pudre el cáliz.",
+    "freezer": "Ninguna fuente da un plazo de congelación para el mangostán. En la práctica la fruta entera puede congelarse y a veces se vende así, pero los gajos salen blandos y pierden el perfume limpio y algo resinoso que justifica comprarlo. Si tienes exceso, congelar los gajos para batidos y sorbetes es la vía útil; toma cualquier duración como criterio propio.",
+    "thawing": "Si has congelado gajos, cómelos medio descongelados o bátelos congelados. La pulpa totalmente descongelada queda acuosa y floja.",
+    "spoilage": [
+      "Corteza durísima, imposible de abrir a presión",
+      "Gajos amarillentos, translúcidos o grises en lugar de blanco limpio",
+      "Látex amarillo y amargo filtrándose en la pulpa",
+      "Olor fermentado o moho alrededor del cáliz verde"
+    ],
+    "tips": [
+      "Elige fruta cuya corteza aún ceda a la presión firme del pulgar",
+      "El número de pétalos de la base indica cuántos gajos hay dentro",
+      "Bolsa perforada en la nevera, nunca plástico cerrado",
+      "La corteza mancha la ropa para siempre: ábrelo sobre un plato"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el mangostán en la nevera?", "a": "Alrededor de 1 a 2 semanas en bolsa perforada a 4 °C (40 °F) o menos. Ningún organismo publica un plazo; sigue al lichi."},
+      {"q": "¿Hay que refrigerar el mangostán?", "a": "Sí. Figura entre las frutas que deben refrigerarse; a temperatura ambiente la corteza se endurece en pocos días."},
+      {"q": "¿Por qué cuesta tanto abrirlo?", "a": "La corteza se ha secado y endurecido. La pulpa suele seguir bien: usa un cuchillo alrededor del ecuador en lugar de los pulgares."}
+    ]
+  }
+}

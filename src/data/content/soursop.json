@@ -1,0 +1,107 @@
+{
+  "slug": "soursop",
+  "en": {
+    "name": "Soursop",
+    "aliases": ["guanábana", "graviola", "prickly custard apple", "Annona muricata"],
+    "summary": "Soursop is a large green Annona with soft spines and fibrous white pulp that tastes of pineapple and cream. It softens 4 to 7 days after harvest and then has only another 3 to 5 days, refrigeration adds 3 to 5 days once soft, and the sieved pulp freezes for 6 to 12 months.",
+    "pantry": "Soursop softens 4 to 7 days after harvest and then has a shelf life of another 3 to 5 days, so the counter is where the whole useful life of the fruit is spent. Handle it gently: the skin bruises very easily and every knock becomes a black patch. Keep it out of the sun on a padded surface and press it daily — when it gives all over like a ripe avocado, open it that day or the next.",
+    "fridge": "Refrigerate only once the fruit has softened, at 4 °C (40 °F) or below, where it holds about 3 to 5 days. Chilling a hard soursop stops it ripening for good, which is the standard behaviour of an Annona. The easiest approach with a ripe fruit is to scoop the pulp, pull out the black seeds and keep the pulp covered in a tub rather than refrigerating the whole fruit.",
+    "freezer": "Freeze the sieved pulp — this is how soursop is normally kept for juice and ice cream — for about 6 to 12 months at −18 °C (0 °F). That figure is common practice for frozen fruit pulp rather than a published soursop number. Push the pulp through a sieve or squeeze it through a colander to leave the fibres and seeds behind, then freeze it in portions so you never thaw more than a recipe's worth.",
+    "thawing": "Blend the pulp straight from frozen for juice and ice cream, or thaw a portion in the fridge and use it the same day. Never thaw at room temperature and do not refreeze.",
+    "spoilage": [
+      "Alcoholic or vinegary smell rather than a creamy pineapple one",
+      "Pulp gone grey, brown or watery instead of white and fibrous",
+      "Skin blackened and collapsing, with liquid seeping out",
+      "Mould at the stem end or in a split in the skin"
+    ],
+    "tips": [
+      "Handle it like an egg; the skin bruises at the slightest knock",
+      "Never refrigerate a hard soursop — it will not ripen afterwards",
+      "The black seeds are not eaten and should never be blended",
+      "Sieve the pulp and freeze it in portions for juice through the year"
+    ],
+    "faq": [
+      {"q": "How long does soursop last?", "a": "It softens 4 to 7 days after harvest and then has 3 to 5 days more. Once soft, refrigeration gives about another 3 to 5 days."},
+      {"q": "Can you freeze soursop?", "a": "Yes — sieve the pulp to remove seeds and fibres and freeze it for about 6 to 12 months. This is how it is normally kept for juice."},
+      {"q": "Can you eat soursop seeds?", "a": "No. The black seeds are removed and discarded, and they should never go into a blender with the pulp."}
+    ]
+  },
+  "zh": {
+    "name": "刺果番荔枝",
+    "aliases": ["紅毛榴槤", "山刺番荔枝", "guanábana", "soursop"],
+    "summary": "刺果番荔枝是大型的綠色番荔枝屬水果，外皮布滿軟刺，白色多纖維的果肉吃起來像鳳梨加奶油。它在採收後 4 到 7 天會軟化，之後只剩 3 到 5 天；軟了之後冷藏再多 3 到 5 天，過篩後的果肉冷凍 6 到 12 個月。",
+    "pantry": "刺果番荔枝在採收後 4 到 7 天會軟化，之後還有 3 到 5 天的壽命——也就是說，這顆水果整段能用的時間幾乎都在室溫度過。請輕拿輕放：它的果皮非常容易碰傷，每一次撞擊都會變成黑斑。放在有緩衝的地方、避開日曬，並且每天按一按；當整顆像熟酪梨一樣按下去會凹，就當天或隔天剖開。",
+    "fridge": "軟化之後才冷藏，放 4°C 以下大約 3 到 5 天。硬的刺果番荔枝一冰就永遠不會再熟了，這是番荔枝屬的標準行為。熟果最省事的做法，其實是把果肉挖出來、挑掉黑籽，裝盒蓋好冷藏，而不是整顆放進冰箱。",
+    "freezer": "冷凍過篩後的果肉——這正是保存刺果番荔枝做果汁和冰淇淋的常規方式——在 −18°C 下約 6 到 12 個月。這個數字是冷凍果泥的一般做法，不是針對刺果番荔枝公布的數字。把果肉用篩網壓過或用濾網擠壓，把纖維和籽留在上面，然後分份冷凍，這樣每次解凍都不會超過一份食譜的量。",
+    "thawing": "做果汁和冰淇淋時直接用冷凍果肉下去打，或取一份放冷藏解凍並當天用完。絕對不要放室溫解凍，也不要回凍。",
+    "spoilage": [
+      "聞起來有酒味或醋味，而不是奶香鳳梨味",
+      "果肉不再是白色多纖維，而是發灰、轉褐或變得水水的",
+      "果皮發黑塌陷並滲出液體",
+      "蒂頭或果皮裂縫處長黴"
+    ],
+    "tips": [
+      "把它當雞蛋拿，果皮輕輕一碰就會傷",
+      "硬的刺果番荔枝絕對不要冰，冰過就不會熟了",
+      "黑色的籽不吃，也絕對不要跟果肉一起打",
+      "把果肉過篩後分份冷凍，全年都有果汁可用"
+    ],
+    "faq": [
+      {"q": "刺果番荔枝可以放多久？", "a": "採收後 4 到 7 天會軟化，之後還有 3 到 5 天。軟了之後冷藏大約再多 3 到 5 天。"},
+      {"q": "刺果番荔枝可以冷凍嗎？", "a": "可以，把果肉過篩去掉籽和纖維再冷凍約 6 到 12 個月，這也是保存它做果汁的常規方式。"},
+      {"q": "刺果番荔枝的籽可以吃嗎？", "a": "不行。黑色的籽要挑掉丟棄，而且絕對不要和果肉一起放進調理機。"}
+    ]
+  },
+  "ja": {
+    "name": "サワーソップ",
+    "aliases": ["トゲバンレイシ", "グラビオラ", "グアナバナ", "Annona muricata"],
+    "summary": "サワーソップは柔らかいとげに覆われた大きな緑色のバンレイシ属の果実で、白く繊維質の果肉はパイナップルとクリームを合わせたような味です。収穫後4〜7日で軟らかくなり、その後は3〜5日ほど。軟らかくなってから冷蔵で3〜5日、裏ごしした果肉は冷凍で6〜12か月です。",
+    "pantry": "サワーソップは収穫後4〜7日で軟化し、その後さらに3〜5日の日持ちがあります。つまりこの果実の使える時間のほとんどは常温で過ぎていきます。扱いはやさしく。皮は非常に傷つきやすく、ぶつけた場所はそのまま黒い斑になります。緩衝材を敷いた場所に日光を避けて置き、毎日押して確認を。熟したアボカドのように全体がへこんだら、その日か翌日には割ってください。",
+    "fridge": "軟らかくなってから4℃以下で冷蔵し、3〜5日ほど。硬いサワーソップを冷やすと二度と熟しません。バンレイシ属の典型的な性質です。完熟果はまるごと冷蔵するより、果肉をすくって黒い種を取り除き、ふたつき容器で保存するほうが扱いやすいでしょう。",
+    "freezer": "裏ごしした果肉を冷凍します。ジュースやアイス用にサワーソップを保存する標準的な方法で、−18℃で6〜12か月が目安です。これは冷凍果肉一般の慣行であり、サワーソップの公表値ではありません。ざるや裏ごし器で押して繊維と種を残し、1レシピ分ずつ小分けにして凍らせると、必要以上に解凍せずに済みます。",
+    "thawing": "ジュースやアイスには凍った果肉をそのままミキサーへ。1回分を冷蔵庫で解凍してその日のうちに使っても構いません。常温解凍と再冷凍は避けてください。",
+    "spoilage": [
+      "クリーミーなパイナップル香ではなくアルコール臭・酢のようなにおい",
+      "果肉が白く繊維質ではなく、灰色・茶色・水っぽい",
+      "皮が黒くつぶれて液がにじんでいる",
+      "ヘタや皮の裂け目のカビ"
+    ],
+    "tips": [
+      "卵のように扱う（皮はわずかな衝撃で傷みます）",
+      "硬いうちは絶対に冷蔵しない（もう熟しません）",
+      "黒い種は食べず、果肉と一緒にミキサーにかけない",
+      "果肉を裏ごしして小分け冷凍すれば通年ジュースが作れる"
+    ],
+    "faq": [
+      {"q": "サワーソップはどのくらい持ちますか？", "a": "収穫後4〜7日で軟化し、その後3〜5日。軟らかくなってからの冷蔵でさらに3〜5日ほどです。"},
+      {"q": "冷凍できますか？", "a": "できます。裏ごしして種と繊維を除いた果肉を6〜12か月ほど。ジュース用の標準的な保存法です。"},
+      {"q": "種は食べられますか？", "a": "いいえ。黒い種は取り除いて捨て、果肉と一緒にミキサーにかけてはいけません。"}
+    ]
+  },
+  "es": {
+    "name": "Guanábana",
+    "aliases": ["graviola", "soursop", "catuche", "Annona muricata"],
+    "summary": "La guanábana es una anona grande y verde con espinas blandas y pulpa blanca y fibrosa que sabe a piña con nata. Se ablanda de 4 a 7 días tras la cosecha y luego solo aguanta otros 3 a 5 días; la nevera añade 3 a 5 días una vez blanda, y la pulpa colada se congela de 6 a 12 meses.",
+    "pantry": "La guanábana se ablanda de 4 a 7 días tras la cosecha y después tiene una vida útil de otros 3 a 5 días, así que la encimera es donde transcurre prácticamente toda la vida útil de la fruta. Manéjala con suavidad: la piel se magulla con muchísima facilidad y cada golpe acaba en una mancha negra. Déjala fuera del sol sobre una superficie acolchada y pálpala a diario; cuando ceda de forma uniforme como un aguacate maduro, ábrela ese día o el siguiente.",
+    "fridge": "Refrigérala solo cuando se haya ablandado, a 4 °C (40 °F) o menos, donde aguanta unos 3 a 5 días. Enfriar una guanábana dura detiene su maduración de forma definitiva, el comportamiento típico de una anona. Con la fruta madura lo más práctico es sacar la pulpa, retirar las semillas negras y guardarla tapada en un recipiente en lugar de refrigerar la fruta entera.",
+    "freezer": "Congela la pulpa colada —así se conserva normalmente la guanábana para jugo y helado— unos 6 a 12 meses a −18 °C (0 °F). Esa cifra es práctica habitual con pulpa de fruta congelada, no un dato publicado para la guanábana. Pasa la pulpa por un colador para dejar atrás fibras y semillas y congélala en porciones para no descongelar más de una receta cada vez.",
+    "thawing": "Bate la pulpa directamente congelada para jugo y helado, o descongela una ración en la nevera y úsala el mismo día. Nunca la descongeles a temperatura ambiente ni la recongeles.",
+    "spoilage": [
+      "Olor alcohólico o avinagrado en lugar de cremoso y a piña",
+      "Pulpa gris, parda o acuosa en vez de blanca y fibrosa",
+      "Piel ennegrecida y hundida, con líquido rezumando",
+      "Moho en el pedúnculo o en una grieta de la piel"
+    ],
+    "tips": [
+      "Trátala como un huevo: la piel se magulla al menor golpe",
+      "Nunca refrigeres una guanábana dura: después no madura",
+      "Las semillas negras no se comen y nunca deben triturarse",
+      "Cuela la pulpa y congélala en porciones para tener jugo todo el año"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la guanábana?", "a": "Se ablanda de 4 a 7 días tras la cosecha y luego tiene 3 a 5 días más. Ya blanda, la nevera añade otros 3 a 5 días."},
+      {"q": "¿Se puede congelar la guanábana?", "a": "Sí: cuela la pulpa para quitar semillas y fibras y congélala unos 6 a 12 meses. Es como se conserva para jugo."},
+      {"q": "¿Se pueden comer las semillas?", "a": "No. Las semillas negras se retiran y se descartan, y nunca deben ir a la batidora con la pulpa."}
+    ]
+  }
+}

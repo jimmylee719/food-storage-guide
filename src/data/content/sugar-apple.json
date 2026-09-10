@@ -1,0 +1,107 @@
+{
+  "slug": "sugar-apple",
+  "en": {
+    "name": "Sugar apple",
+    "aliases": ["sweetsop", "custard apple", "anón", "Annona squamosa"],
+    "summary": "The sugar apple, known in Taiwan as 釋迦, is a knobbly green Annona whose segments pull apart into sweet, creamy white flesh. There is no fixed counter timeline: ripen it at room temperature until it gives, then refrigerate for 3 to 5 days, or freeze the deseeded pulp for 10 to 12 months.",
+    "pantry": "There is no set number of days here, because the rule is a stage: ripen the fruit at room temperature until it gives to gentle pressure, and only then move it. Taiwan's agriculture ministry is explicit that sugar apple must not be refrigerated before it is ripe, and a chilled hard fruit simply stops — it goes dark and leathery rather than soft. As the segments start to separate and the gaps between them widen, the fruit is nearly ready; check it daily, because the final stage is quick.",
+    "fridge": "Refrigerate only once ripe, at 4 °C (40 °F) or below, and eat it within 3 to 5 days. That range follows cherimoya, the same genus, since the cited source establishes the ripen-first rule without giving a duration. Eat it quickly at this stage: the flesh darkens fast once chilled, and a sugar apple left a week in the fridge will be brown inside even if the skin still looks acceptable.",
+    "freezer": "Scoop out the pulp, discard the black seeds and freeze it in portions for 10 to 12 months at −18 °C (0 °F). Pack it flat in bags with the air pressed out, or use small tubs so you never thaw more than you need. Frozen sugar apple pulp is excellent in ice cream, smoothies and shaved ice, and many people prefer eating the whole fruit semi-frozen, spooned out like a sorbet.",
+    "thawing": "Blend the pulp straight from frozen, or eat a frozen fruit semi-thawed with a spoon. Do not thaw at room temperature or refreeze.",
+    "spoilage": [
+      "Skin blackened and collapsing rather than simply soft",
+      "Flesh gone brown or watery instead of creamy white",
+      "Splitting segments with juice weeping out",
+      "Fermented smell, or mould in the gaps between segments"
+    ],
+    "tips": [
+      "Never refrigerate a hard sugar apple — the cold ends the ripening",
+      "Widening gaps between the segments mean it is nearly ready",
+      "Eat it with a spoon and spit out the shiny black seeds",
+      "Scoop and freeze the pulp of any fruit that ripens all at once"
+    ],
+    "faq": [
+      {"q": "How do you ripen a sugar apple?", "a": "Leave it at room temperature until it gives to gentle pressure and the segments start to separate. Do not refrigerate it before then."},
+      {"q": "How long does sugar apple last in the fridge?", "a": "About 3 to 5 days once ripe. The flesh darkens quickly in the cold, so eat it sooner rather than later."},
+      {"q": "Can you freeze sugar apple?", "a": "Yes — scoop the pulp, discard the seeds and freeze it in portions for 10 to 12 months. Semi-frozen fruit eaten with a spoon is excellent."}
+    ]
+  },
+  "zh": {
+    "name": "釋迦",
+    "aliases": ["番荔枝", "佛頭果", "軟枝釋迦", "sugar apple"],
+    "summary": "釋迦是外表凹凸的青綠色番荔枝屬水果，果瓣可以一瓣瓣剝開，果肉白色綿甜。它的常溫沒有固定期限：放室溫催熟到按下去會凹為止，之後冷藏 3 到 5 天；去籽果肉冷凍則有 10 到 12 個月。",
+    "pantry": "這裡沒有固定的天數，因為規則是「一個階段」：放在室溫催熟，直到輕壓會凹，然後才移動它。農業部明確指出釋迦必須催熟後才可以冷藏，而硬果一冰就直接停住了——它不會變軟，只會轉暗、變得像皮革。當果瓣開始分離、彼此之間的縫隙變寬，就表示快好了；請每天檢查，最後階段變化很快。",
+    "fridge": "熟了才冷藏，放 4°C 以下並在 3 到 5 天內吃完。這個範圍是比照同屬的冷子番荔枝，因為引用的來源確立了「先催熟」這條規則，卻沒有給期限。到這個階段就要快點吃：果肉一冷藏就會迅速變深，一顆在冰箱裡放了一週的釋迦，即使外皮看起來還可以，裡面多半已經褐化了。",
+    "freezer": "把果肉挖出來、去掉黑籽，分份冷凍，−18°C 下 10 到 12 個月。平鋪裝袋擠出空氣，或用小盒分裝，這樣每次都不會解凍過量。冷凍釋迦果肉拿來做冰淇淋、果昔和剉冰都很棒，而且很多人偏好把整顆半冷凍後用湯匙挖著吃，口感像雪酪。",
+    "thawing": "果肉直接冷凍狀態下去打，或把冷凍的整顆半解凍後用湯匙挖著吃。不要放室溫解凍，也不要回凍。",
+    "spoilage": [
+      "外皮不只是軟，而是發黑塌陷",
+      "果肉不再是乳白色，而是轉褐或變得水水的",
+      "果瓣裂開並滲汁",
+      "有發酵味，或果瓣縫隙裡長黴"
+    ],
+    "tips": [
+      "硬的釋迦絕對不要冰，低溫會終結它的後熟",
+      "果瓣之間的縫隙變寬，就表示快可以吃了",
+      "用湯匙挖著吃，亮黑色的籽吐掉",
+      "一次熟太多的話，就挖果肉冷凍"
+    ],
+    "faq": [
+      {"q": "釋迦怎麼催熟？", "a": "放室溫直到輕壓會凹、果瓣開始分離為止。在那之前不要冷藏。"},
+      {"q": "釋迦放冰箱可以放多久？", "a": "熟了之後約 3 到 5 天。低溫下果肉會迅速變深，建議早點吃完。"},
+      {"q": "釋迦可以冷凍嗎？", "a": "可以，挖出果肉去籽分份冷凍 10 到 12 個月。半冷凍狀態用湯匙挖著吃也很好吃。"}
+    ]
+  },
+  "ja": {
+    "name": "バンレイシ",
+    "aliases": ["シャカトウ", "釈迦頭", "スイートソップ", "Annona squamosa"],
+    "summary": "バンレイシ（台湾では釈迦頭）はでこぼこした緑色のバンレイシ属の果実で、果房をちぎると甘くクリーミーな白い果肉が現れます。常温の期間は決まっておらず、押してへこむまで追熟させ、その後は冷蔵で3〜5日、種を除いた果肉なら冷凍で10〜12か月です。",
+    "pantry": "ここに決まった日数はありません。ルールは状態です。常温で追熟させ、軽く押してへこむようになってから動かします。台湾の農業当局は、バンレイシは熟す前に冷蔵してはならないと明言しており、硬いまま冷やすとそこで止まり、軟らかくならずに黒ずんで革のようになります。果房の間の溝が広がってきたら食べごろが近いサインです。最後は一気なので毎日確認してください。",
+    "fridge": "熟してから4℃以下で冷蔵し、3〜5日以内に食べきります。この範囲は、引用元が「追熟してから」というルールは示しつつ期間を示していないため、同属のチェリモヤに倣った数字です。この段階では急ぎましょう。冷やすと果肉は急速に黒ずみ、1週間置いたバンレイシは皮が無事に見えても中は茶色くなっています。",
+    "freezer": "果肉をすくって黒い種を除き、小分けにして−18℃で10〜12か月冷凍します。袋に平らに入れて空気を抜くか、小さな容器に分けると必要以上に解凍せずに済みます。冷凍したバンレイシの果肉はアイスやスムージー、かき氷に最適で、まるごと半解凍にしてスプーンでシャーベットのように食べるのを好む人も多いです。",
+    "thawing": "果肉は凍ったままミキサーへ。まるごと凍らせたものは半解凍でスプーンですくって食べます。常温解凍と再冷凍は避けてください。",
+    "spoilage": [
+      "単に軟らかいのではなく、皮が黒くつぶれている",
+      "果肉がクリーム色ではなく茶色い、水っぽい",
+      "果房が裂けて果汁がにじんでいる",
+      "発酵臭、果房の隙間のカビ"
+    ],
+    "tips": [
+      "硬いバンレイシは絶対に冷蔵しない（追熟が終わります）",
+      "果房の間の溝が広がってきたら食べごろが近い",
+      "スプーンで食べ、光沢のある黒い種は出す",
+      "一度に熟してしまったら果肉をすくって冷凍"
+    ],
+    "faq": [
+      {"q": "バンレイシはどうやって追熟させますか？", "a": "常温で、軽く押してへこみ果房の間が開いてくるまで置きます。それ以前に冷蔵しないでください。"},
+      {"q": "冷蔵庫でどのくらい持ちますか？", "a": "熟してから3〜5日です。冷やすと果肉が急速に黒ずむので早めに食べましょう。"},
+      {"q": "冷凍できますか？", "a": "はい。果肉をすくって種を除き、小分けで10〜12か月。半解凍でスプーンで食べるのもおすすめです。"}
+    ]
+  },
+  "es": {
+    "name": "Anona",
+    "aliases": ["anón", "sweetsop", "saramuyo", "Annona squamosa"],
+    "summary": "La anona, llamada 釈迦 en Taiwán, es una fruta verde y rugosa del género Annona cuyos gajos se separan y descubren una pulpa blanca, dulce y cremosa. No hay plazo fijo en la encimera: madúrala a temperatura ambiente hasta que ceda, luego refrigérala 3 a 5 días, o congela la pulpa sin semillas 10 a 12 meses.",
+    "pantry": "Aquí no hay un número de días, porque la regla es un estado: madura la fruta a temperatura ambiente hasta que ceda a la presión suave y solo entonces muévela. El ministerio de agricultura de Taiwán es explícito en que la anona no debe refrigerarse antes de estar madura, y una fruta dura enfriada simplemente se detiene: se oscurece y se vuelve correosa en lugar de ablandarse. Cuando los gajos empiezan a separarse y los surcos entre ellos se ensanchan, está casi lista; revísala a diario, porque la fase final es rápida.",
+    "fridge": "Refrigérala solo ya madura, a 4 °C (40 °F) o menos, y cómela en 3 a 5 días. Ese rango sigue a la chirimoya, del mismo género, ya que la fuente citada establece la regla de madurar primero sin dar plazo. En esta fase conviene darse prisa: la pulpa se oscurece rápido en frío y una anona olvidada una semana en la nevera estará parda por dentro aunque la piel parezca aceptable.",
+    "freezer": "Saca la pulpa, descarta las semillas negras y congélala en porciones 10 a 12 meses a −18 °C (0 °F). Envásala plana sin aire o usa tarrinas pequeñas para no descongelar más de lo necesario. La pulpa congelada es excelente en helados, batidos y raspados, y a mucha gente le gusta comer la fruta semicongelada a cuchara, como un sorbete.",
+    "thawing": "Bate la pulpa directamente congelada, o come una fruta congelada semidescongelada con cuchara. No la descongeles a temperatura ambiente ni la recongeles.",
+    "spoilage": [
+      "Piel ennegrecida y hundida, no simplemente blanda",
+      "Pulpa parda o acuosa en lugar de blanca y cremosa",
+      "Gajos agrietados que rezuman jugo",
+      "Olor fermentado o moho en los surcos entre gajos"
+    ],
+    "tips": [
+      "Nunca refrigeres una anona dura: el frío termina la maduración",
+      "Surcos más anchos entre los gajos indican que está casi lista",
+      "Cómela a cuchara y aparta las semillas negras y brillantes",
+      "Saca y congela la pulpa de la fruta que madure toda a la vez"
+    ],
+    "faq": [
+      {"q": "¿Cómo se madura una anona?", "a": "Déjala a temperatura ambiente hasta que ceda a la presión suave y los gajos empiecen a separarse. No la refrigeres antes."},
+      {"q": "¿Cuánto dura la anona en la nevera?", "a": "Unos 3 a 5 días ya madura. La pulpa se oscurece rápido en frío, así que cómela cuanto antes."},
+      {"q": "¿Se puede congelar la anona?", "a": "Sí: saca la pulpa, descarta las semillas y congélala en porciones 10 a 12 meses. Semicongelada a cuchara está estupenda."}
+    ]
+  }
+}

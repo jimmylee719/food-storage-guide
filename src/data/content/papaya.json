@@ -1,0 +1,107 @@
+{
+  "slug": "papaya",
+  "en": {
+    "name": "Papaya",
+    "aliases": ["pawpaw", "papaw", "Solo papaya", "lechosa"],
+    "summary": "Papaya is a soft tropical fruit picked at the colour-break stage and finished at room temperature, sweetening as the green skin turns yellow-orange. From purchase it keeps 3 to 5 days on the counter and about a week in the fridge once ripe, and cubed flesh freezes for 6 to 8 months.",
+    "pantry": "Leave a green or part-yellow papaya on the counter for 3 to 5 days from purchase, until most of the skin has coloured and the fruit gives to gentle pressure. It ripens noticeably faster in a paper bag, and slower somewhere cool. Do not refrigerate a green papaya: chilling injury leaves it with hard patches, a bland taste and skin that pits and greys instead of colouring.",
+    "fridge": "Once the fruit is ripe, refrigerate it at 4 °C (40 °F) or below for about 1 week from purchase. Cut papaya goes into an airtight container and should be eaten within about 3 days; the scooped-out seed cavity holds moisture, so pat it dry and store the halves cut-side down or wrapped. The smell can transfer, so cover it well rather than leaving a cut half open on a shelf.",
+    "freezer": "Peeled, deseeded, cubed papaya keeps 6 to 8 months at −18 °C (0 °F). Freeze the pieces spread out on a lined tray and bag them once solid so they stay loose. The flesh thaws soft because of its high water content, so plan on smoothies, sorbets and agua fresca rather than fruit salad. Frozen fruit stays safe indefinitely; the months are a quality figure.",
+    "thawing": "Blend it from frozen for smoothies, or thaw partially in the fridge and use it while still icy. Fully thawed cubes are limp and watery.",
+    "spoilage": [
+      "Large soft, wet, sunken patches on the skin",
+      "Fermented or sour smell instead of a sweet musky one",
+      "Flesh gone watery, grey or slimy in the cavity",
+      "Mould at the stem end or on the cut face"
+    ],
+    "tips": [
+      "Buy at colour break and ripen at home; fully ripe papaya travels badly",
+      "Never refrigerate a green papaya — the cold ruins the flavour",
+      "A squeeze of lime lifts the flavour and cuts the musky note",
+      "Green papaya is a separate ingredient for salads, not underripe fruit to ripen"
+    ],
+    "faq": [
+      {"q": "How long does papaya last?", "a": "About 3 to 5 days at room temperature and roughly 1 week in the fridge once ripe, both counted from purchase."},
+      {"q": "Can you refrigerate an unripe papaya?", "a": "No. Chilling injury leaves hard patches, dull flavour and pitted skin, and the fruit will not ripen properly afterwards."},
+      {"q": "Can you freeze papaya?", "a": "Yes, peeled and cubed, for 6 to 8 months. It thaws soft, so use it for smoothies, sorbets and drinks."}
+    ]
+  },
+  "zh": {
+    "name": "木瓜",
+    "aliases": ["番木瓜", "萬壽果", "青木瓜（未熟用）", "papaya"],
+    "summary": "木瓜是在轉色初期採收、之後靠室溫完成後熟的軟質熱帶水果，綠皮轉成黃橙的同時也變甜。從購買日起，室溫可放 3 到 5 天，熟了之後冷藏約一週；切塊果肉冷凍 6 到 8 個月。",
+    "pantry": "青綠或半黃的木瓜請從購買日起在室溫放 3 到 5 天，直到大部分果皮轉色、輕壓會凹。放紙袋裡會明顯加快，放陰涼處則會變慢。青木瓜不要冰：寒害會留下硬塊、味道變淡，果皮也不會轉色，而是出現凹點並發灰。",
+    "fridge": "熟了之後放 4°C 以下冷藏，從購買日起約一週。切開的木瓜要裝密封盒，約 3 天內吃完；挖掉籽的凹槽會積水，請擦乾，並把切半的果實切面朝下放或包好。木瓜的氣味會轉移，所以要好好蓋住，不要把切半的敞著放在層架上。",
+    "freezer": "去皮去籽切塊的木瓜在 −18°C 下可放 6 到 8 個月。先鋪在墊紙的托盤上攤開冷凍，凍硬後裝袋，塊狀才會是散的。因為含水量高，解凍後果肉會軟，所以請規劃做果昔、雪酪和水果水，而不是水果沙拉。只要維持凍結就是安全的，月數講的是品質。",
+    "thawing": "做果昔直接用冷凍的打，或放冷藏半解凍、趁還帶冰渣時使用。完全解凍的果塊會軟塌出水。",
+    "spoilage": [
+      "果皮出現大片軟塌、濕潤、凹陷的斑塊",
+      "聞起來發酸或發酵，而不是甜甜帶麝香的氣味",
+      "果肉變得水水的、發灰，或籽囊處黏滑",
+      "蒂頭或切面長黴"
+    ],
+    "tips": [
+      "在轉色初期買、回家自己催熟；全熟的木瓜很不耐運送",
+      "青木瓜絕對不要冰，低溫會毀掉風味",
+      "擠一點萊姆汁可以提味，也壓得住那股麝香味",
+      "青木瓜是拿來做涼拌的獨立食材，不是「還沒熟、要催熟」的木瓜"
+    ],
+    "faq": [
+      {"q": "木瓜可以放多久？", "a": "從購買日起，室溫約 3 到 5 天，熟了之後冷藏約一週。"},
+      {"q": "沒熟的木瓜可以冰嗎？", "a": "不行。寒害會留下硬塊、味道變淡、果皮出現凹點，而且之後也熟不好。"},
+      {"q": "木瓜可以冷凍嗎？", "a": "可以，去皮切塊冷凍 6 到 8 個月。解凍後會軟，適合做果昔、雪酪和飲料。"}
+    ]
+  },
+  "ja": {
+    "name": "パパイヤ",
+    "aliases": ["パパイア", "万寿果", "青パパイヤ（未熟果）", "papaya"],
+    "summary": "パパイヤは色づき始めで収穫し常温で追熟させる柔らかい熱帯果実で、緑の皮が黄橙色に変わるにつれ甘くなります。購入日から常温で3〜5日、熟してからは冷蔵で約1週間、角切りの果肉は冷凍で6〜8か月です。",
+    "pantry": "緑または半分黄色いパパイヤは、購入日から3〜5日常温に置き、皮の大半が色づいて軽く押すとへこむまで待ちます。紙袋に入れると明らかに早まり、涼しい場所では遅くなります。緑のパパイヤは冷蔵しないでください。低温障害で硬い部分が残り、味が薄くなり、皮は色づかずにくぼんで灰色になります。",
+    "fridge": "熟したら4℃以下で、購入日から約1週間冷蔵できます。カットしたものは密閉容器に入れ、約3日以内に。種を除いたくぼみに水分がたまるので拭き取り、半割りは切り口を下にするか包んで保存します。においが移るので、切り口を出したまま棚に置かないでください。",
+    "freezer": "皮と種を除いて角切りにしたパパイヤは−18℃で6〜8か月持ちます。紙を敷いたトレーに広げて凍らせ、固まったら袋へ移すとばらけたまま使えます。水分が多いため解凍すると柔らかくなるので、フルーツサラダではなくスムージーやシャーベット、アグアフレスカ向けに。凍っていれば安全性は保たれ、月数は品質の目安です。",
+    "thawing": "スムージーには凍ったまま、または冷蔵庫で半解凍にして氷が残るうちに使います。完全に解凍した角切りはくたっとして水っぽくなります。",
+    "spoilage": [
+      "皮に大きな軟らかい、濡れた、へこんだ部分",
+      "甘くムスクのような香りではなく酸臭・発酵臭",
+      "果肉が水っぽい、灰色っぽい、種のくぼみがぬめる",
+      "ヘタや切り口のカビ"
+    ],
+    "tips": [
+      "色づき始めで買って家で追熟させる（完熟は輸送に弱い）",
+      "緑のパパイヤは冷蔵しない（風味が損なわれます）",
+      "ライムを搾ると風味が締まり独特の香りも和らぐ",
+      "青パパイヤはサラダ用の別食材で、追熟させる未熟果ではありません"
+    ],
+    "faq": [
+      {"q": "パパイヤはどのくらい持ちますか？", "a": "購入日から常温で3〜5日、熟してから冷蔵で約1週間です。"},
+      {"q": "未熟なパパイヤを冷蔵してもいい？", "a": "いけません。低温障害で硬い部分や味の低下、皮のくぼみが生じ、その後もきちんと熟しません。"},
+      {"q": "冷凍できますか？", "a": "はい、皮と種を除いた角切りで6〜8か月。解凍すると柔らかいのでスムージーやシャーベット向きです。"}
+    ]
+  },
+  "es": {
+    "name": "Papaya",
+    "aliases": ["lechosa", "fruta bomba", "mamón", "papayo"],
+    "summary": "La papaya es una fruta tropical blanda que se recoge al inicio del cambio de color y termina a temperatura ambiente, endulzándose mientras la piel verde vira a amarillo anaranjado. Desde la compra aguanta 3 a 5 días en la encimera y alrededor de una semana en la nevera ya madura; en dados se congela de 6 a 8 meses.",
+    "pantry": "Deja una papaya verde o a medio colorear en la encimera de 3 a 5 días desde la compra, hasta que casi toda la piel haya virado y la fruta ceda a la presión suave. Madura bastante más rápido en una bolsa de papel y más despacio en un sitio fresco. No refrigeres una papaya verde: el daño por frío deja zonas duras, sabor plano y una piel que se pica y agrisa en vez de colorear.",
+    "fridge": "Ya madura, refrigérala a 4 °C (40 °F) o menos alrededor de 1 semana desde la compra. La papaya cortada va en recipiente hermético y se come en unos 3 días; la cavidad de las semillas retiene humedad, así que sécala y guarda las mitades boca abajo o envueltas. El olor se transfiere, así que tápala bien en lugar de dejar media abierta en un estante.",
+    "freezer": "La papaya pelada, sin semillas y en dados aguanta de 6 a 8 meses a −18 °C (0 °F). Congela las piezas extendidas en bandeja forrada y embólsalas ya duras para que queden sueltas. Se descongela blanda por su alto contenido en agua, así que cuenta con batidos, sorbetes y aguas frescas más que con macedonia. Congelada es segura indefinidamente; los meses son calidad.",
+    "thawing": "Bátela congelada para batidos, o descongélala a medias en la nevera y úsala aún helada. Los dados totalmente descongelados quedan lacios y acuosos.",
+    "spoilage": [
+      "Zonas grandes blandas, húmedas y hundidas en la piel",
+      "Olor agrio o fermentado en lugar de dulce y almizclado",
+      "Pulpa acuosa, grisácea o viscosa en la cavidad",
+      "Moho en el pedúnculo o en la cara cortada"
+    ],
+    "tips": [
+      "Cómprala al inicio del cambio de color y madúrala en casa",
+      "Nunca refrigeres una papaya verde: el frío arruina el sabor",
+      "Un chorro de lima realza el sabor y suaviza la nota almizclada",
+      "La papaya verde es un ingrediente aparte para ensaladas, no fruta por madurar"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la papaya?", "a": "Unos 3 a 5 días a temperatura ambiente y alrededor de 1 semana en la nevera ya madura, contados desde la compra."},
+      {"q": "¿Se puede refrigerar una papaya verde?", "a": "No. El daño por frío deja zonas duras, sabor apagado y piel picada, y después no madura bien."},
+      {"q": "¿Se puede congelar la papaya?", "a": "Sí, pelada y en dados, de 6 a 8 meses. Se descongela blanda, así que úsala en batidos, sorbetes y bebidas."}
+    ]
+  }
+}

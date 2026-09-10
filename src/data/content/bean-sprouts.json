@@ -1,0 +1,107 @@
+{
+  "slug": "bean-sprouts",
+  "en": {
+    "name": "Bean sprouts",
+    "aliases": ["mung bean sprouts", "soybean sprouts", "moyashi", "brotes de soja"],
+    "summary": "Bean sprouts are germinated mung or soy beans, sold wet and alive, and they are one of the more perishable things in a produce aisle. Refrigerated they keep about 5 to 10 days from purchase, and they should always be kept cold.",
+    "pantry": "Bean sprouts must not be left at room temperature. They are grown warm and damp, they are still respiring when you buy them, and the same conditions that sprouted them will spoil them — a bag left out for an afternoon goes sour and slimy. Bring them home cold, and note that sprouts are one of the foods most often linked to foodborne illness, which is why thorough cooking is the safest way to eat them.",
+    "fridge": "Store them at 4 °C (40 °F) or below and use them within about 5 to 10 days of purchase, though in practice most home fridges give you the shorter end. Keep them in their bag or a vented container, and if you want to stretch them, submerge them in cold water in a lidded box and change the water daily, which keeps them crisp. Drain them well before cooking so they fry rather than steam.",
+    "freezer": "USDA gives no freezer timeline for bean sprouts, and freezing them raw is not worth doing: they are almost entirely water, and thawed sprouts are limp, grey threads with none of the snap that is the point of them. If you have a bag that will not get used, the better answer is to cook them into a dish today — a stir-fry, a soup or a filling — and refrigerate or freeze that instead.",
+    "thawing": "Not applicable for raw sprouts. If you have frozen a cooked dish containing sprouts, reheat it thoroughly straight from frozen.",
+    "spoilage": [
+      "Slimy, slippery sprouts or a milky liquid in the bag",
+      "Sour, musty or ammonia-like smell",
+      "Brown, soft heads and translucent stems",
+      "Any bag that has gone warm or has visibly wilted contents"
+    ],
+    "tips": [
+      "Buy the coldest bag you can and get it home fast",
+      "Change the soaking water daily if you store them submerged",
+      "Cook them thoroughly rather than eating them raw",
+      "Drain and dry them before they hit the pan, or they will steam"
+    ],
+    "faq": [
+      {"q": "How long do bean sprouts last in the fridge?", "a": "About 5 to 10 days from purchase at 4 °C (40 °F) or below, though most home fridges give the shorter end of that."},
+      {"q": "Can you freeze bean sprouts?", "a": "Not usefully. They are almost all water and thaw limp and grey. Cook them into a dish and freeze that instead."},
+      {"q": "Are raw bean sprouts safe to eat?", "a": "Sprouts are among the foods most often linked to foodborne illness because of how they are grown. Thorough cooking is the safest way to eat them."}
+    ]
+  },
+  "zh": {
+    "name": "豆芽菜",
+    "aliases": ["綠豆芽", "黃豆芽", "銀芽", "moyashi"],
+    "summary": "豆芽菜是發芽的綠豆或黃豆，帶著水分、活著被賣出，而它也是生鮮區裡最不耐放的東西之一。冷藏從購買日起約可放 5 到 10 天，而且必須全程保持低溫。",
+    "pantry": "豆芽菜絕對不能放在室溫。它本來就是在溫暖潮濕的環境裡培育出來的，你買到的時候它還在呼吸，而讓它發芽的那些條件也正是讓它敗壞的條件——一包在室溫放一個下午，就會發酸發黏。回家路上要保冷；另外要知道，芽菜是最常和食因性疾病扯上關係的食物之一，所以徹底加熱是最安全的吃法。",
+    "fridge": "放 4°C 以下，從購買日起約 5 到 10 天內用完，不過以家用冰箱的實際狀況來說，多半只有較短的那一端。保持在原本的袋子或透氣容器裡；想撐久一點的話，可以裝進有蓋的盒子、加冷水淹過，每天換水，這樣可以維持脆度。下鍋前徹底瀝乾，它才會炒起來而不是被自己的水蒸熟。",
+    "freezer": "USDA 沒有提供豆芽菜的冷凍期限，而且生凍不值得做：它幾乎全是水，解凍後是一根根灰灰軟軟的細絲，完全沒有那份「脆」——而脆正是吃它的理由。如果一包看起來用不完，比較好的做法是今天就把它煮進一道菜裡——炒一盤、煮個湯、做成餡料——再去冷藏或冷凍那道菜。",
+    "thawing": "生豆芽不適用。如果冷凍的是含豆芽的熟菜，請直接冷凍狀態徹底加熱。",
+    "spoilage": [
+      "豆芽黏滑，或袋子裡出現乳白色的液體",
+      "有酸味、霉味或阿摩尼亞般的刺鼻味",
+      "芽頭轉褐變軟、莖部變得半透明",
+      "袋子摸起來變溫，或裡面明顯萎軟"
+    ],
+    "tips": [
+      "挑最冰的那一包，並且盡快帶回家",
+      "如果泡水保存，每天換一次水",
+      "徹底煮熟再吃，不要生食",
+      "下鍋前瀝乾擦乾，否則只會被水蒸熟"
+    ],
+    "faq": [
+      {"q": "豆芽菜放冰箱可以放多久？", "a": "從購買日起約 5 到 10 天，放 4°C 以下；不過家用冰箱通常只有較短的那一端。"},
+      {"q": "豆芽菜可以冷凍嗎？", "a": "意義不大。它幾乎全是水，解凍後又軟又灰。建議先煮成一道菜，再冷凍那道菜。"},
+      {"q": "豆芽菜可以生吃嗎？", "a": "因為栽培方式的關係，芽菜是最常和食因性疾病相關的食物之一。徹底加熱是最安全的吃法。"}
+    ]
+  },
+  "ja": {
+    "name": "もやし",
+    "aliases": ["緑豆もやし", "大豆もやし", "豆もやし", "bean sprouts"],
+    "summary": "もやしは緑豆や大豆を発芽させたもので、水分を含んだ生きた状態で売られており、青果売り場でもとりわけ傷みやすい食材です。冷蔵なら購入日から約5〜10日、そして常に冷たく保つ必要があります。",
+    "pantry": "もやしを常温に置いてはいけません。もともと暖かく湿った環境で育てられ、買った時点でもまだ呼吸しており、発芽させたのと同じ条件がそのまま劣化の条件になります。半日出しておいた袋は酸っぱくぬめります。冷たいまま持ち帰ってください。またスプラウト類は食中毒との関連が指摘されることが多い食品でもあり、しっかり加熱して食べるのがいちばん安全です。",
+    "fridge": "4℃以下で保存し、購入日から5〜10日以内に使い切ります。ただし家庭の冷蔵庫では短いほうになりがちです。袋のままか通気容器に入れ、長く持たせたいときはふたつき容器で冷水に浸し、毎日水を替えるとシャキッと保てます。調理前によく水気を切ると、蒸れずに炒め上がります。",
+    "freezer": "USDAはもやしの冷凍期間を示しておらず、生のまま凍らせる価値もほとんどありません。ほぼ水分でできており、解凍するとくたっとした灰色の糸のようになり、持ち味のシャキシャキ感は残りません。使い切れそうにない袋があるなら、今日のうちに炒め物やスープ、具として調理し、その料理を冷蔵か冷凍するほうが賢明です。",
+    "thawing": "生のもやしには該当しません。もやし入りの加熱済み料理を冷凍した場合は、凍ったまま十分に加熱し直してください。",
+    "spoilage": [
+      "ぬめる、袋の中に白濁した液がある",
+      "酸臭、かび臭、アンモニア臭",
+      "芽先が茶色く軟らかい、茎が半透明",
+      "袋がぬるい、中身が明らかにしなびている"
+    ],
+    "tips": [
+      "いちばん冷たい袋を選び、早く持ち帰る",
+      "水に浸して保存するなら毎日水を替える",
+      "生食せず、しっかり加熱する",
+      "調理前に水気を切って拭く（でないと蒸れます）"
+    ],
+    "faq": [
+      {"q": "もやしは冷蔵庫でどのくらい持ちますか？", "a": "購入日から約5〜10日、4℃以下で。家庭の冷蔵庫では短いほうになりがちです。"},
+      {"q": "もやしは冷凍できますか？", "a": "実用的ではありません。ほぼ水分で、解凍するとくたっと灰色になります。料理にしてから冷凍しましょう。"},
+      {"q": "生で食べても安全ですか？", "a": "スプラウト類は栽培方法の性質上、食中毒と関連づけられることが多い食品です。十分に加熱して食べるのが安全です。"}
+    ]
+  },
+  "es": {
+    "name": "Brotes de soja",
+    "aliases": ["germinados de soja", "brotes de judía mungo", "moyashi", "germinados"],
+    "summary": "Los brotes de soja son judías mungo o soja germinadas, que se venden húmedas y vivas, y son de lo más perecedero de la sección de frescos. Refrigerados aguantan unos 5 a 10 días desde la compra, y deben mantenerse siempre en frío.",
+    "pantry": "Los brotes no deben dejarse a temperatura ambiente. Se cultivan en calor y humedad, siguen respirando cuando los compras, y las mismas condiciones que los germinaron los estropean: una bolsa olvidada una tarde se pone agria y viscosa. Llévalos a casa en frío, y ten en cuenta que los germinados están entre los alimentos más vinculados a enfermedades transmitidas por alimentos, por lo que cocinarlos bien es la forma más segura de comerlos.",
+    "fridge": "Guárdalos a 4 °C (40 °F) o menos y úsalos en unos 5 a 10 días desde la compra, aunque en la práctica la mayoría de neveras domésticas dan el extremo corto. Mantenlos en su bolsa o en un recipiente ventilado y, si quieres alargarlos, sumérgelos en agua fría en una caja con tapa y cambia el agua a diario, lo que los mantiene crujientes. Escúrrelos bien antes de cocinarlos para que se salteen en vez de cocerse al vapor.",
+    "freezer": "El USDA no da plazo de congelación para los brotes, y congelarlos crudos no compensa: son casi todo agua y descongelados quedan como hebras grises y lacias, sin nada del punto crujiente que los justifica. Si tienes una bolsa que no vas a gastar, lo mejor es cocinarlos hoy en un plato —un salteado, una sopa, un relleno— y refrigerar o congelar eso.",
+    "thawing": "No aplica a los brotes crudos. Si has congelado un plato cocinado con brotes, recaliéntalo bien directamente congelado.",
+    "spoilage": [
+      "Brotes viscosos o líquido lechoso en la bolsa",
+      "Olor agrio, a humedad o amoniacal",
+      "Cabezas pardas y blandas con tallos translúcidos",
+      "Cualquier bolsa que se haya templado o cuyo contenido esté visiblemente mustio"
+    ],
+    "tips": [
+      "Compra la bolsa más fría que encuentres y llévala rápido a casa",
+      "Cambia el agua a diario si los guardas sumergidos",
+      "Cocínalos bien en lugar de comerlos crudos",
+      "Escúrrelos y sécalos antes de echarlos a la sartén o se cocerán"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los brotes de soja en la nevera?", "a": "Unos 5 a 10 días desde la compra a 4 °C (40 °F) o menos, aunque la mayoría de neveras domésticas dan menos."},
+      {"q": "¿Se pueden congelar?", "a": "No con provecho. Son casi todo agua y quedan lacios y grises. Cocínalos en un plato y congela eso."},
+      {"q": "¿Es seguro comerlos crudos?", "a": "Los germinados están entre los alimentos más asociados a enfermedades alimentarias por su forma de cultivo. Cocinarlos bien es lo más seguro."}
+    ]
+  }
+}

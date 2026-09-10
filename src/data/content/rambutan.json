@@ -1,0 +1,107 @@
+{
+  "slug": "rambutan",
+  "en": {
+    "name": "Rambutan",
+    "aliases": ["hairy lychee", "rambután", "Nephelium lappaceum", "ramboutan"],
+    "summary": "Rambutan is the red, soft-spined Southeast Asian fruit with translucent lychee-like flesh around a single seed. It keeps about 3 to 5 days at room temperature and 10 to 16 days in cool storage — though a home fridge runs colder than the fruit likes, so expect the shorter end.",
+    "pantry": "At about 20 °C and 60 % humidity, rambutan keeps roughly 3 to 5 days. The soft spines dry and blacken first, and this is the thing worth understanding about the fruit: blackened spines look alarming but the flesh underneath is usually still perfectly good. Keep the fruit on its stems if it came that way, out of the sun, and judge it by opening one rather than by the look of the shell.",
+    "fridge": "Rambutan is best at 8 to 15 °C with high humidity, which gives 14 to 16 days. A home refrigerator runs colder than that, so keep the fruit in a sealed bag in the least cold part of the fridge and expect the shorter end of the 10 to 16 day range. The bag is what preserves the humidity the fruit needs; on an open shelf the shell dries out within days.",
+    "freezer": "No source gives a freezer timeline for rambutan. In practice it freezes in the shell much as lychee does, and is eaten half-thawed, with the shell splitting away easily while the fruit is still frozen. Treat any duration as your own planning figure rather than sourced guidance, and expect thawed flesh to be softer and wetter than fresh.",
+    "thawing": "Eat frozen rambutan half-thawed straight from the freezer, or peel it frozen and add it to a drink or dessert. Fully thawed flesh goes slack.",
+    "spoilage": [
+      "Shell gone black and damp rather than merely dry-spined",
+      "Flesh turned brown, grey or slimy",
+      "Fermented or vinegary smell when the shell is opened",
+      "Mould where the fruit joins the stem"
+    ],
+    "tips": [
+      "Black spines usually mean water loss, not spoilage — open one and check",
+      "Keep it in a sealed bag in the fridge to hold humidity",
+      "Choose the warmest part of the fridge; below 8 °C is colder than ideal",
+      "The seed coat clings to the flesh in some varieties — do not chew the seed"
+    ],
+    "faq": [
+      {"q": "How long does rambutan last in the fridge?", "a": "About 10 to 16 days, though a home fridge is colder than the ideal 8 to 15 °C, so expect nearer the short end."},
+      {"q": "Why have the rambutan spines turned black?", "a": "They dry out first and blacken. The flesh underneath is usually still good, so open one and judge by the flesh."},
+      {"q": "Can you freeze rambutan?", "a": "No source gives a timeline. In practice it freezes in the shell like lychee and is eaten half-thawed; the shell peels off easily while frozen."}
+    ]
+  },
+  "zh": {
+    "name": "紅毛丹",
+    "aliases": ["毛荔枝", "紅毛果", "rambutan", "毛丹"],
+    "summary": "紅毛丹是東南亞那種紅色、外殼長著軟刺的水果，裡面是像荔枝一樣半透明的果肉，中間一顆種子。室溫約可放 3 到 5 天，低溫貯藏 10 到 16 天——不過家用冰箱比它喜歡的溫度更冷，所以請預期較短的那一端。",
+    "pantry": "在約 20°C、相對濕度 60% 的條件下，紅毛丹大約可放 3 到 5 天。軟刺會最先變乾發黑，而這正是關於這種水果最值得理解的一件事：發黑的刺看起來嚇人，但底下的果肉通常還是完全沒問題。買來是連枝的就保持連枝、避開日曬，並且用剝一顆看果肉的方式判斷，而不是看外殼。",
+    "fridge": "紅毛丹最適合 8 到 15°C、高濕度的環境，那樣可以放 14 到 16 天。家用冰箱比這更冷，所以請把果實裝進密封袋放在冰箱溫度較高的位置，並預期落在 10 到 16 天的短端。袋子的作用就是維持它需要的濕度；敞著放在層架上，外殼幾天內就會乾掉。",
+    "freezer": "沒有任何來源提供紅毛丹的冷凍期限。實務上它可以像荔枝一樣連殼冷凍，半解凍吃，而且果實還凍著的時候外殼很容易裂開剝下。任何期限都請當成自己的規劃數字，而不是來自資料來源的建議，並預期解凍後的果肉比新鮮時更軟更多水。",
+    "thawing": "冷凍紅毛丹從冷凍庫拿出來半解凍直接吃，或凍著剝殼加進飲料和甜點裡。完全解凍的果肉會鬆軟。",
+    "spoilage": [
+      "外殼由「只是刺乾掉」變成整體濕黑",
+      "果肉轉褐、發灰或變黏滑",
+      "剝殼時聞到發酵味或醋味",
+      "果實與枝條接合處長黴"
+    ],
+    "tips": [
+      "刺發黑通常只是失水而不是壞掉，剝一顆確認",
+      "冰箱裡用密封袋裝，維持濕度",
+      "放在冰箱溫度最高的位置；低於 8°C 對它來說太冷",
+      "有些品種的種皮會黏在果肉上，種子不要咬"
+    ],
+    "faq": [
+      {"q": "紅毛丹放冰箱可以放多久？", "a": "大約 10 到 16 天，不過家用冰箱比理想的 8 到 15°C 更冷，所以會接近短的那一端。"},
+      {"q": "紅毛丹的刺為什麼變黑？", "a": "軟刺會最先乾掉發黑。底下的果肉通常還是好的，剝一顆用果肉判斷。"},
+      {"q": "紅毛丹可以冷凍嗎？", "a": "沒有來源給出期限。實務上可以像荔枝一樣連殼冷凍、半解凍吃，凍著的時候殼很好剝。"}
+    ]
+  },
+  "ja": {
+    "name": "ランブータン",
+    "aliases": ["毛ライチ", "レンブータン", "ランブタン", "Nephelium lappaceum"],
+    "summary": "ランブータンは赤い殻に柔らかいとげが並ぶ東南アジアの果実で、中はライチのような半透明の果肉と種が一つです。常温で3〜5日、低温貯蔵で10〜16日ほど持ちますが、家庭の冷蔵庫はこの果実の適温より冷たいため、短いほうを見込んでください。",
+    "pantry": "20℃・湿度60%程度なら3〜5日ほど持ちます。まず柔らかいとげが乾いて黒くなりますが、ここが理解しておくべき点です。とげが黒くても、中の果肉はたいてい問題ありません。枝つきなら枝のまま、日光を避けて置き、殻の見た目ではなく一つ割って果肉で判断してください。",
+    "fridge": "ランブータンの適温は8〜15℃・高湿度で、その条件なら14〜16日持ちます。家庭の冷蔵庫はそれより冷たいので、密閉袋に入れて庫内の比較的温度の高い場所に置き、10〜16日の短いほうを見込みましょう。袋は必要な湿度を保つためのもので、裸で棚に置くと数日で殻が乾きます。",
+    "freezer": "ランブータンの冷凍期間を示す出典はありません。実際にはライチ同様に殻つきで凍り、半解凍で食べられます。凍ったままなら殻も割れて外れやすくなります。期間はあくまで自己判断とし、解凍後の果肉は生より柔らかく水っぽくなることを見込んでください。",
+    "thawing": "冷凍したものは半解凍のまま食べるか、凍ったまま殻をむいて飲み物やデザートに。完全に解凍するとだれます。",
+    "spoilage": [
+      "とげが乾いているだけでなく、殻全体が黒く湿っている",
+      "果肉が茶色や灰色、ぬめっている",
+      "殻を割ったときの発酵臭・酢のようなにおい",
+      "枝との接合部のカビ"
+    ],
+    "tips": [
+      "とげの黒変はたいてい乾燥。一つ割って確認を",
+      "冷蔵庫では密閉袋で湿度を保つ",
+      "庫内の温度が高い場所へ。8℃未満は冷たすぎます",
+      "品種によっては種皮が果肉に張り付きます。種は噛まないこと"
+    ],
+    "faq": [
+      {"q": "ランブータンは冷蔵庫でどのくらい持ちますか？", "a": "約10〜16日ですが、家庭の冷蔵庫は適温の8〜15℃より冷たいので短めを見込んでください。"},
+      {"q": "とげが黒くなるのはなぜ？", "a": "先に乾いて黒くなるためです。中の果肉はたいてい無事なので、一つ割って果肉で判断しましょう。"},
+      {"q": "冷凍できますか？", "a": "期間を示す出典はありません。実際にはライチのように殻つきで凍り、半解凍で食べられます。"}
+    ]
+  },
+  "es": {
+    "name": "Rambután",
+    "aliases": ["lichi peludo", "achotillo", "mamón chino", "Nephelium lappaceum"],
+    "summary": "El rambután es la fruta roja del Sudeste Asiático cubierta de espinas blandas, con pulpa translúcida parecida al lichi alrededor de una semilla. Aguanta unos 3 a 5 días a temperatura ambiente y de 10 a 16 días en frío, aunque una nevera doméstica está más fría de lo que le conviene, así que cuenta con el extremo corto.",
+    "pantry": "A unos 20 °C y 60 % de humedad, el rambután dura unos 3 a 5 días. Las espinas blandas se secan y ennegrecen primero, y eso es lo importante que hay que entender: unas espinas negras asustan, pero la pulpa de debajo suele estar perfectamente bien. Deja la fruta en sus tallos si venía así, lejos del sol, y júzgala abriendo una en lugar de mirar la cáscara.",
+    "fridge": "El rambután está mejor entre 8 y 15 °C con humedad alta, condiciones que dan 14 a 16 días. Una nevera doméstica es más fría, así que guárdalo en bolsa cerrada en la zona menos fría y cuenta con el extremo corto del rango de 10 a 16 días. La bolsa es lo que conserva la humedad que la fruta necesita; en un estante abierto la cáscara se seca en días.",
+    "freezer": "Ninguna fuente da un plazo de congelación para el rambután. En la práctica se congela con cáscara igual que el lichi y se come medio descongelado, con la cáscara desprendiéndose fácil mientras sigue helado. Toma cualquier duración como criterio propio y cuenta con una pulpa más blanda y acuosa que en fresco.",
+    "thawing": "Come el rambután congelado medio descongelado recién sacado, o pélalo helado y añádelo a una bebida o postre. Totalmente descongelado queda flojo.",
+    "spoilage": [
+      "Cáscara negra y húmeda, no solo con las espinas secas",
+      "Pulpa parda, grisácea o viscosa",
+      "Olor fermentado o avinagrado al abrir la cáscara",
+      "Moho en la unión con el tallo"
+    ],
+    "tips": [
+      "Espinas negras suelen indicar pérdida de agua, no deterioro: abre uno",
+      "Guárdalo en bolsa cerrada en la nevera para retener humedad",
+      "Elige la zona menos fría; por debajo de 8 °C ya es demasiado frío",
+      "En algunas variedades la cubierta de la semilla se pega a la pulpa: no la mastiques"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el rambután en la nevera?", "a": "Unos 10 a 16 días, aunque una nevera doméstica es más fría que los 8–15 °C ideales, así que cuenta con menos."},
+      {"q": "¿Por qué se han puesto negras las espinas?", "a": "Se secan primero y ennegrecen. La pulpa suele seguir bien, así que abre uno y juzga por la pulpa."},
+      {"q": "¿Se puede congelar el rambután?", "a": "Ninguna fuente da plazo. En la práctica se congela con cáscara como el lichi y se come medio descongelado."}
+    ]
+  }
+}

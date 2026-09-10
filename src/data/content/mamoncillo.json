@@ -1,0 +1,107 @@
+{
+  "slug": "mamoncillo",
+  "en": {
+    "name": "Mamoncillo",
+    "aliases": ["quenepa", "guinep", "Spanish lime", "guaya", "limoncillo"],
+    "summary": "Mamoncillo is the small green-shelled Caribbean fruit sold in bunches, with a thin leathery skin over a single large seed wrapped in tangy salmon-coloured pulp. No agency publishes figures for it, so treat it like a lychee, its Sapindaceae relative: about 3 to 5 days on the counter and 1 to 2 weeks in the fridge.",
+    "pantry": "Mamoncillo is sold in bunches on the stem, and keeping the stems attached slows drying — so resist pulling the fruit off until you eat it. On the counter reckon on about 3 to 5 days, out of direct sun and spread rather than bagged. The shell hardens and cracks as the fruit dries, and once it cracks the pulp inside dries out very quickly.",
+    "fridge": "Bag them in the crisper at 4 °C (40 °F) or below so the leathery shell does not dry out, and reckon on 1 to 2 weeks. That range follows the way lychee is handled rather than a published mamoncillo figure — both are thin-shelled Sapindaceae fruit that fail the same way, by dehydration rather than rot. Leave the fruit on the stem and unwashed until you eat.",
+    "freezer": "No source gives a freezer timeline for mamoncillo. In practice, there is very little pulp on each seed and it clings tightly, so freezing whole fruit gains you little — the texture goes slack and you still have to work for every mouthful. If you have a large bunch, the more useful route is to simmer the fruit briefly and strain the pulp into a juice or syrup, which can then be frozen in portions.",
+    "thawing": "If you have frozen mamoncillo juice or syrup, thaw it in the fridge or use it straight from frozen in drinks. Whole frozen fruit is best eaten still icy.",
+    "spoilage": [
+      "Shell cracked with the pulp inside dried and shrunken",
+      "Fermented or sour smell when the shell is opened",
+      "Pulp gone brown or grey rather than salmon-orange",
+      "Mould where the fruit joins the stem"
+    ],
+    "tips": [
+      "Buy and keep them on the stem — attached fruit dries out more slowly",
+      "Bag them in the fridge, or the shell hardens and cracks",
+      "Crack the shell with your teeth at the seam, not by biting through",
+      "The pulp clings to the seed; suck it rather than trying to cut it off"
+    ],
+    "faq": [
+      {"q": "How long does mamoncillo last?", "a": "About 3 to 5 days on the counter and 1 to 2 weeks bagged in the fridge. There is no official figure; this follows lychee."},
+      {"q": "Can you freeze mamoncillo?", "a": "No source gives a timeline, and whole fruit gains little from freezing. Simmer and strain it into juice or syrup, then freeze that in portions."},
+      {"q": "How do you eat mamoncillo?", "a": "Crack the leathery shell at the seam, then suck the tangy pulp off the large seed. The seed and shell are discarded."}
+    ]
+  },
+  "zh": {
+    "name": "西班牙萊姆",
+    "aliases": ["番龍眼", "quenepa", "guinep", "mamoncillo"],
+    "summary": "西班牙萊姆是加勒比海地區成串販售的小型綠皮水果，薄薄的革質外殼裡是一顆大種子，外面包著酸香的鮭橙色果肉。沒有官方單位公布它的保存數據，所以用同為無患子科的荔枝來看：室溫約 3 到 5 天，冷藏 1 到 2 週。",
+    "pantry": "西班牙萊姆是整串帶梗販售的，保持連梗可以減緩乾燥，所以在要吃之前不要把果實摘下來。室溫大約 3 到 5 天，避開日曬、攤開放而不要裝袋。果實變乾時外殼會變硬並裂開，一旦裂開，裡面的果肉會乾得非常快。",
+    "fridge": "裝袋放 4°C 以下的蔬果室，避免革質外殼乾掉，大約可放 1 到 2 週。這個範圍是比照荔枝的做法，不是針對它公布的數字——兩者都是薄殼的無患子科水果，壞掉的方式一樣，是脫水而不是腐爛。保持連梗、不要洗，要吃再處理。",
+    "freezer": "沒有任何來源提供西班牙萊姆的冷凍期限。實務上，每顆種子外面的果肉很少而且黏得很緊，所以整顆冷凍收穫不大——口感會變鬆軟，而每一口還是一樣費工。如果拿到一大串，比較實用的做法是稍微煮一下、把果肉過濾成果汁或糖漿，再分份冷凍。",
+    "thawing": "如果冷凍了果汁或糖漿，放冷藏解凍，或直接冷凍狀態加進飲料裡。整顆冷凍的話，趁還帶冰渣時吃最好。",
+    "spoilage": [
+      "外殼裂開，裡面的果肉已經乾癟縮水",
+      "剝開時聞到發酵味或酸味",
+      "果肉不再是鮭橙色，而是轉褐或發灰",
+      "果實與果梗接合處長黴"
+    ],
+    "tips": [
+      "整串買、整串放，連著梗乾得比較慢",
+      "冰箱裡要裝袋，否則外殼會變硬裂開",
+      "用牙齒沿著接縫把殼咬裂，不要整顆咬穿",
+      "果肉黏在種子上，用吸的比用切的實際"
+    ],
+    "faq": [
+      {"q": "西班牙萊姆可以放多久？", "a": "室溫約 3 到 5 天，裝袋冷藏 1 到 2 週。沒有官方數字，這是比照荔枝的做法。"},
+      {"q": "西班牙萊姆可以冷凍嗎？", "a": "沒有來源給出期限，而且整顆冷凍收穫不大。建議煮過濾成果汁或糖漿再分份冷凍。"},
+      {"q": "西班牙萊姆怎麼吃？", "a": "沿著接縫把革質外殼咬裂，然後把包在大種子外面的酸甜果肉吸下來，殼和籽丟掉。"}
+    ]
+  },
+  "ja": {
+    "name": "マモンシージョ",
+    "aliases": ["ケネパ", "ギネップ", "スパニッシュライム", "mamoncillo"],
+    "summary": "マモンシージョはカリブ海地域で房のまま売られる小さな緑色の果実で、薄い革質の殻の中に大きな種が一つあり、そのまわりを酸味のあるサーモン色の果肉が包んでいます。公的な保存データがないため、同じムクロジ科のライチに倣い、常温で3〜5日、冷蔵で1〜2週間とします。",
+    "pantry": "マモンシージョは枝つきの房で売られ、枝についたままのほうが乾きにくいので、食べる直前まで外さないでください。常温では3〜5日を目安に、直射日光を避けて袋に入れず広げて置きます。乾くと殻が硬くなって割れ、割れると中の果肉は一気に乾きます。",
+    "fridge": "革質の殻が乾かないよう袋に入れ、4℃以下の野菜室で1〜2週間が目安。これはライチの扱いに倣ったもので、固有の公表値ではありません。どちらも薄い殻のムクロジ科果実で、腐るというより乾いて劣化します。枝につけたまま、洗わずに保存してください。",
+    "freezer": "マモンシージョの冷凍期間を示す出典はありません。実際、種一つあたりの果肉はごくわずかで強く張り付いているため、まるごと凍らせても得るものは少なく、食感がだれるうえ手間は変わりません。大きな房が手に入ったなら、さっと煮て果肉を漉し、ジュースやシロップにして小分け冷凍するほうが実用的です。",
+    "thawing": "ジュースやシロップを冷凍した場合は冷蔵庫で解凍するか、凍ったまま飲み物に加えます。まるごと冷凍したものは、氷が残るうちに食べるのがおすすめです。",
+    "spoilage": [
+      "殻が割れ、中の果肉が乾いて縮んでいる",
+      "殻を開けたときの発酵臭・酸臭",
+      "果肉がサーモン色ではなく茶色や灰色",
+      "枝との接合部のカビ"
+    ],
+    "tips": [
+      "房のまま買い、房のまま保存する（乾きにくい）",
+      "冷蔵庫では袋に入れる（殻が硬くなって割れます）",
+      "殻は合わせ目に歯を当てて割る（噛み抜かない）",
+      "果肉は種に張り付くので、切らずに吸って食べる"
+    ],
+    "faq": [
+      {"q": "マモンシージョはどのくらい持ちますか？", "a": "常温で3〜5日、袋に入れて冷蔵で1〜2週間ほどです。公的な数字はなく、ライチに倣っています。"},
+      {"q": "冷凍できますか？", "a": "期間を示す出典はなく、まるごとでは利点が少ないです。煮て漉したジュースやシロップを小分け冷凍するほうが実用的です。"},
+      {"q": "どうやって食べますか？", "a": "革質の殻を合わせ目から割り、大きな種のまわりの酸味のある果肉を吸います。殻と種は捨てます。"}
+    ]
+  },
+  "es": {
+    "name": "Mamoncillo",
+    "aliases": ["quenepa", "guaya", "limoncillo", "huaya", "guinep"],
+    "summary": "El mamoncillo es la fruta caribeña pequeña de cáscara verde que se vende en racimos, con una piel fina y coriácea sobre una semilla grande envuelta en pulpa ácida color salmón. Ningún organismo publica cifras, así que se trata como un lichi, su pariente sapindácea: unos 3 a 5 días en la encimera y 1 a 2 semanas en la nevera.",
+    "pantry": "El mamoncillo se vende en racimos con el tallo, y mantener los tallos frena la deshidratación, así que no arranques las frutas hasta comerlas. En la encimera cuenta con unos 3 a 5 días, lejos del sol directo y extendido en lugar de embolsado. La cáscara se endurece y agrieta a medida que la fruta se seca, y una vez agrietada la pulpa se reseca muy rápido.",
+    "fridge": "Embólsalos en el cajón a 4 °C (40 °F) o menos para que la cáscara coriácea no se reseque, y cuenta con 1 a 2 semanas. Ese rango sigue el manejo del lichi y no una cifra publicada para el mamoncillo: ambas son sapindáceas de cáscara fina que fallan igual, por deshidratación más que por pudrición. Déjalos en el tallo y sin lavar hasta comerlos.",
+    "freezer": "Ninguna fuente da un plazo de congelación. En la práctica hay muy poca pulpa por semilla y se adhiere con fuerza, así que congelar fruta entera aporta poco: la textura se afloja y sigue costando lo mismo cada bocado. Con un racimo grande resulta más útil hervir la fruta brevemente y colar la pulpa en jugo o almíbar, y congelar eso en porciones.",
+    "thawing": "Si has congelado jugo o almíbar de mamoncillo, descongélalo en la nevera o úsalo congelado en bebidas. La fruta entera congelada se come mejor aún helada.",
+    "spoilage": [
+      "Cáscara agrietada con la pulpa seca y encogida dentro",
+      "Olor fermentado o agrio al abrirla",
+      "Pulpa parda o grisácea en lugar de anaranjada salmón",
+      "Moho en la unión de la fruta con el tallo"
+    ],
+    "tips": [
+      "Cómpralos y guárdalos en el tallo: unidos se secan más despacio",
+      "Embólsalos en la nevera o la cáscara se endurece y se raja",
+      "Rompe la cáscara con los dientes por la costura, no de un mordisco",
+      "La pulpa se pega a la semilla: chúpala en lugar de intentar cortarla"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el mamoncillo?", "a": "Unos 3 a 5 días en la encimera y de 1 a 2 semanas embolsado en la nevera. No hay cifra oficial; sigue al lichi."},
+      {"q": "¿Se puede congelar el mamoncillo?", "a": "Ninguna fuente da plazo y la fruta entera gana poco. Hiérvelo y cuélalo en jugo o almíbar y congela eso en porciones."},
+      {"q": "¿Cómo se come el mamoncillo?", "a": "Se rompe la cáscara coriácea por la costura y se chupa la pulpa ácida de la semilla grande. Cáscara y semilla se descartan."}
+    ]
+  }
+}

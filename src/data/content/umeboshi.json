@@ -1,0 +1,107 @@
+{
+  "slug": "umeboshi",
+  "en": {
+    "name": "Umeboshi",
+    "aliases": ["salt-pickled plum", "pickled ume", "salted plum", "shiso plum"],
+    "summary": "Umeboshi are ume fruit salted, weighted and sun-dried, and there are really two different products under the name. Traditional heavily salted umeboshi is a preserve that lives in a cool dark cupboard; the modern re-seasoned kind sold today is a refrigerated product, good for about 1 to 3 months once opened.",
+    "pantry": "Traditional 白干梅 — plums salted at about 20 percent, weighted for a month and then sun-dried — is a preserve, and it is the action of the salt that makes long keeping possible. A jar of the traditional kind lives in a cool dark cupboard and gets better rather than worse. The 20 percent salt instruction is not decorative: reducing it can make the batch fail. No number of months or years is given here, because the source that establishes the principle does not give one.",
+    "fridge": "The modern 調味梅干 sold in most shops today is a different thing: plums desalted and re-seasoned with honey, dashi or shiso, often down at 5 to 8 percent salt. These are refrigerated products with a printed date, not preserves. Once the pack is opened the printed date no longer applies — keep them in their liquid, sealed, at 4 °C (40 °F) or below and use them within about 1 to 3 months, the working figure for opened pickles.",
+    "freezer": "There is no freezer guidance for umeboshi, and freezing is beside the point for either type. Traditional salted plums are already stable at room temperature, and the modern seasoned kind keeps for months in the fridge, so the freezer adds nothing but a change of texture in the softened flesh. If you have far more than you can use, the better answer is to keep them in their own brine.",
+    "thawing": null,
+    "spoilage": [
+      "Fuzzy mould on the surface or on the shiso leaves, as opposed to salt crystals",
+      "Cloudy, ropy or bubbling liquid in a jar of the seasoned type",
+      "Yeasty, alcoholic or unpleasantly sour-off smell",
+      "A lifted or bulging lid"
+    ],
+    "tips": [
+      "Check which type you have: traditional salted, or modern seasoned and refrigerated",
+      "Always use a clean, dry pair of chopsticks; wet ones introduce mould",
+      "Keep the plums submerged in their own liquid",
+      "White crystals on traditional plums are salt, not mould"
+    ],
+    "faq": [
+      {"q": "Does umeboshi need to be refrigerated?", "a": "Traditional heavily salted umeboshi does not — it is a preserve for a cool dark cupboard. Modern low-salt seasoned types are refrigerated products."},
+      {"q": "How long does umeboshi last once opened?", "a": "For the modern seasoned kind, about 1 to 3 months sealed in its liquid at 4 °C (40 °F) or below. The printed date stops applying once opened."},
+      {"q": "Is the white powder on umeboshi mould?", "a": "On traditional salted plums, white crystals are usually salt. Fuzzy growth, cloudy liquid or a bulging lid are the real warning signs."}
+    ]
+  },
+  "zh": {
+    "name": "日式梅干",
+    "aliases": ["鹹梅乾", "紫蘇梅", "醃梅", "梅干し"],
+    "summary": "日式梅干是把青梅鹽漬、重壓、再日曬做成的，而同一個名字底下其實有兩種完全不同的產品。傳統高鹽的梅干是「保存食品」，放在陰涼避光的櫥櫃就好；現在市面上常見的調味型則是冷藏食品，開封後大約 1 到 3 個月。",
+    "pantry": "傳統的白干梅——用約 20% 的鹽醃漬、重壓一個月、再日曬——是保存食品，而讓它能長期保存的正是鹽的作用。這種傳統梅干放在陰涼避光的櫥櫃裡，只會愈放愈好而不是愈放愈差。20% 這個鹽度不是裝飾性的說法：把鹽降低可能會讓整批醃壞。這裡不提幾個月或幾年，因為確立這個原則的資料來源本身並沒有給出數字。",
+    "fridge": "現在多數店裡賣的調味梅干是另一回事：先脫鹽，再用蜂蜜、柴魚高湯或紫蘇重新調味，鹽度往往降到 5 到 8%。這些是有標示日期的冷藏食品，不是保存食品。一旦開封，包裝上的日期就不再適用——請連著醃汁密封、放 4°C 以下，並在約 1 到 3 個月內用完，那是開封後醃漬品的實用參考值。",
+    "freezer": "梅干沒有任何冷凍方面的指引，而且對兩種類型來說，冷凍都沒有意義。傳統鹽漬梅本來就能常溫穩定保存，調味型在冰箱也能放好幾個月，冷凍除了讓已經軟化的果肉質地改變之外，並不會多帶來什麼。真的多到用不完，比較好的做法是讓它們泡在自己的醃汁裡。",
+    "thawing": null,
+    "spoilage": [
+      "表面或紫蘇葉上長出絨毛狀的黴（和鹽結晶不一樣）",
+      "調味型罐子裡的汁液變混濁、牽絲或冒泡",
+      "有酵母味、酒味，或不對勁的酸敗味",
+      "蓋子被頂起或鼓起"
+    ],
+    "tips": [
+      "先確認你買的是哪一種：傳統鹽漬，還是現代調味冷藏型",
+      "一律用乾淨乾燥的筷子夾，濕筷子會帶進黴菌",
+      "讓梅子維持泡在自己的醃汁裡",
+      "傳統鹽漬梅上的白色結晶是鹽，不是黴"
+    ],
+    "faq": [
+      {"q": "梅干需要冷藏嗎？", "a": "傳統高鹽的梅干不需要，它是放陰涼避光櫥櫃的保存食品。現代的低鹽調味型則是冷藏食品。"},
+      {"q": "梅干開封後可以放多久？", "a": "現代調味型連著醃汁密封放 4°C 以下約 1 到 3 個月。開封之後，包裝上的日期就不再適用了。"},
+      {"q": "梅干上的白粉是黴嗎？", "a": "傳統鹽漬梅上的白色結晶通常是鹽。長絨毛、汁液混濁或蓋子鼓起，才是真正的警訊。"}
+    ]
+  },
+  "ja": {
+    "name": "梅干し",
+    "aliases": ["うめぼし", "白干梅", "調味梅干", "しそ漬け梅"],
+    "summary": "梅干しは梅を塩漬けにし、重しをかけて天日干ししたもので、同じ名前の下に実は二種類の別物があります。伝統的な高塩分の梅干しは保存食で、涼しく暗い戸棚に置くもの。いま多く売られている調味梅干は冷蔵食品で、開封後はおよそ1〜3か月です。",
+    "pantry": "伝統的な白干梅――塩分約20パーセントで漬け、一か月ほど重しをかけ、天日干ししたもの――は保存食であり、長期保存を可能にしているのは塩の働きです。伝統的なタイプの瓶は涼しく暗い戸棚に置いておけば、悪くなるどころか良くなっていきます。20パーセントという塩分は飾りの数字ではなく、減らすと漬け込みが失敗することがあります。ここで何か月・何年という数字を挙げていないのは、この原則を示す出典がその数字を示していないためです。",
+    "fridge": "いま店頭に並ぶ調味梅干は別物です。梅の塩を抜いてから、はちみつやだし、しそで味付けし直したもので、塩分は5〜8パーセントまで下がっていることも多くあります。これらは期限表示のある冷蔵食品であって保存食ではありません。開封すると表示の期限は当てはまらなくなります。漬け液ごと密閉して4℃以下で保存し、開封後の漬けものの目安として1〜3か月を目安に使い切ってください。",
+    "freezer": "梅干しに冷凍の指針はなく、どちらのタイプでも冷凍する意味はほとんどありません。伝統的な塩漬けはもともと常温で安定し、調味タイプも冷蔵で数か月持ちます。冷凍しても、やわらかい果肉の食感が変わるだけです。使い切れないほど多い場合は、漬け液に浸したまま置いておくほうが賢明です。",
+    "thawing": null,
+    "spoilage": [
+      "表面やしその葉の綿状のカビ（塩の結晶とは別物）",
+      "調味タイプの瓶で液が濁る、糸を引く、泡立つ",
+      "酵母臭、アルコール臭、不快な酸敗臭",
+      "ふたが浮いている、膨らんでいる"
+    ],
+    "tips": [
+      "どちらのタイプか確認する（伝統的な塩漬けか、冷蔵の調味タイプか）",
+      "必ず清潔で乾いた箸を使う（濡れた箸はカビのもと）",
+      "梅は漬け液に浸したままにする",
+      "伝統的な梅の白い結晶は塩で、カビではありません"
+    ],
+    "faq": [
+      {"q": "梅干しは冷蔵が必要ですか？", "a": "伝統的な高塩分の梅干しは不要で、涼しく暗い戸棚に置く保存食です。現代の低塩の調味梅干は冷蔵食品です。"},
+      {"q": "開封後はどのくらい持ちますか？", "a": "調味タイプなら漬け液ごと密閉して4℃以下で1〜3か月が目安です。開封すると表示期限は当てはまりません。"},
+      {"q": "白い粉はカビですか？", "a": "伝統的な塩漬けの白い結晶はたいてい塩です。綿状のカビ、濁った液、膨らんだふたが本当の危険信号です。"}
+    ]
+  },
+  "es": {
+    "name": "Umeboshi",
+    "aliases": ["ciruela japonesa encurtida", "ciruela salada", "ume en salazón", "umeboshi de shiso"],
+    "summary": "El umeboshi son ciruelas ume saladas, prensadas y secadas al sol, y bajo ese nombre conviven en realidad dos productos distintos. El umeboshi tradicional, muy salado, es una conserva de armario fresco y oscuro; el tipo moderno resazonado que se vende hoy es un producto refrigerado, bueno durante 1 a 3 meses una vez abierto.",
+    "pantry": "El 白干梅 tradicional —ciruelas saladas a alrededor del 20 por ciento, prensadas un mes y luego secadas al sol— es una conserva, y es la acción de la sal la que hace posible su larga conservación. Un tarro de este tipo vive en un armario fresco y oscuro y mejora en lugar de empeorar. La indicación del 20 por ciento de sal no es decorativa: reducirla puede echar a perder el lote. Aquí no se da un número de meses ni de años, porque la fuente que establece el principio tampoco lo da.",
+    "fridge": "El 調味梅干 moderno que se vende en la mayoría de tiendas es otra cosa: ciruelas desaladas y resazonadas con miel, dashi o shiso, a menudo con solo un 5 a 8 por ciento de sal. Son productos refrigerados con fecha impresa, no conservas. Una vez abierto el envase la fecha deja de aplicarse: guárdalos en su líquido, bien cerrados, a 4 °C (40 °F) o menos y consúmelos en unos 1 a 3 meses, la cifra de trabajo para encurtidos abiertos.",
+    "freezer": "No hay orientación de congelación para el umeboshi, y congelarlo no aporta nada en ninguno de los dos tipos. Las ciruelas tradicionales saladas ya son estables a temperatura ambiente, y las modernas resazonadas duran meses en la nevera, así que el congelador solo cambia la textura de una pulpa ya blanda. Si tienes muchísimas, lo mejor es dejarlas sumergidas en su propia salmuera.",
+    "thawing": null,
+    "spoilage": [
+      "Moho algodonoso en la superficie o en las hojas de shiso, distinto de los cristales de sal",
+      "Líquido turbio, filamentoso o con burbujas en un tarro del tipo resazonado",
+      "Olor a levadura, alcohólico o agrio desagradable",
+      "Tapa levantada o abombada"
+    ],
+    "tips": [
+      "Comprueba qué tipo tienes: tradicional salado o moderno resazonado y refrigerado",
+      "Usa siempre palillos limpios y secos; los húmedos introducen moho",
+      "Mantén las ciruelas sumergidas en su propio líquido",
+      "Los cristales blancos en las tradicionales son sal, no moho"
+    ],
+    "faq": [
+      {"q": "¿Hay que refrigerar el umeboshi?", "a": "El tradicional muy salado no: es una conserva de armario fresco y oscuro. Los modernos bajos en sal y resazonados sí son refrigerados."},
+      {"q": "¿Cuánto dura el umeboshi abierto?", "a": "En el tipo resazonado, unos 1 a 3 meses cerrado en su líquido a 4 °C (40 °F) o menos. La fecha impresa deja de aplicarse al abrirlo."},
+      {"q": "¿El polvo blanco es moho?", "a": "En las ciruelas tradicionales saladas, los cristales blancos suelen ser sal. Lo preocupante es el moho algodonoso, el líquido turbio o la tapa abombada."}
+    ]
+  }
+}

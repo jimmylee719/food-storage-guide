@@ -1,0 +1,107 @@
+{
+  "slug": "persimmon-dried",
+  "en": {
+    "name": "Dried persimmon",
+    "aliases": ["persimmon cake", "hoshigaki", "shibing", "caqui seco"],
+    "summary": "Dried persimmon — the flattened, dusty-white cakes sold across Taiwan, Japan and Korea — is semi-dried rather than fully dried, which is why it does not keep like a raisin. A firm cake holds 1 to 2 months in a cool dry room, 6 to 12 months refrigerated and 12 to 18 months frozen.",
+    "pantry": "Room storage is only for a firm, well-dried cake in a cool dry room, and even then reckon on 1 to 2 months rather than the year a properly dried fruit would give you. The white bloom on the surface is crystallised sugar drawn out of the fruit, not mould — it is a sign of a well-made cake. Keep them in a tin or a sealed box away from heat, and check them if the weather turns humid.",
+    "fridge": "The fridge is the right default for commercial persimmon cakes, because they are semi-dried and much moister than raisins or apricots. Dried fruit as a class keeps about a year at 16 °C and 6 months at 27 °C, and refrigeration is advised where possible; for these cakes reckon on 6 to 12 months at 4 °C (40 °F) or below, sealed. Let a cold box come to room temperature before opening so condensation does not settle on the fruit.",
+    "freezer": "Wrapped individually and bagged, dried persimmons keep 12 to 18 months at −18 °C (0 °F). Individual wrapping matters because they stick to each other and tear when you pull them apart. They thaw in minutes, so you can take out one at a time without planning ahead.",
+    "thawing": "Take out a wrapped cake and leave it at room temperature for a few minutes; it will be ready to eat almost immediately. Do not thaw the whole bag if you only want one.",
+    "spoilage": [
+      "Fuzzy green, blue or grey mould — different from the powdery white sugar bloom",
+      "Sticky, wet surface and a sour or fermented smell",
+      "Off, alcoholic taste",
+      "Insects or webbing in the container"
+    ],
+    "tips": [
+      "White powdery bloom is sugar, not mould — fuzzy growth is mould",
+      "Wrap them individually before freezing so they do not tear apart",
+      "Refrigerate rather than shelving them; these cakes are moister than they look",
+      "Let a cold container warm up before opening it to avoid condensation"
+    ],
+    "faq": [
+      {"q": "Is the white powder on dried persimmon mould?", "a": "The powdery white bloom is crystallised sugar and is a good sign. Fuzzy green, blue or grey growth is mould and the fruit should be discarded."},
+      {"q": "How long does dried persimmon last?", "a": "About 1 to 2 months in a cool dry room for a firm cake, 6 to 12 months refrigerated and 12 to 18 months frozen."},
+      {"q": "Should dried persimmon be refrigerated?", "a": "Yes, as a default. Commercial cakes are semi-dried and moist enough that a cupboard is a short-term option only."}
+    ]
+  },
+  "zh": {
+    "name": "柿餅",
+    "aliases": ["柿乾", "吊柿餅", "白柿", "干し柿"],
+    "summary": "柿餅——台灣、日本、韓國都常見的那種壓扁、表面覆著白霜的果乾——其實是半乾而不是全乾，所以它不像葡萄乾那樣耐放。硬實的柿餅在陰涼乾燥的房間可放 1 到 2 個月，冷藏 6 到 12 個月，冷凍 12 到 18 個月。",
+    "pantry": "常溫保存只適用於硬實、乾得夠透的柿餅，而且要放在陰涼乾燥的房間；即使如此也只能算 1 到 2 個月，而不是真正全乾果乾的那種一年。表面的白霜是果實滲出來結晶的糖，不是黴——那反而是做得好的證明。請用鐵盒或密封盒裝、遠離熱源，天氣轉潮濕時要多檢查。",
+    "fridge": "市售柿餅的預設保存位置就是冰箱，因為它是半乾的，比葡萄乾或杏桃乾濕潤得多。果乾這一類在 16°C 大約可放一年、27°C 約半年，而且建議盡量冷藏；柿餅請以 4°C 以下密封 6 到 12 個月為準。冰過的盒子先回到室溫再打開，避免水氣凝在果實上。",
+    "freezer": "個別包好再裝袋，柿餅在 −18°C 下可放 12 到 18 個月。個別包裝很重要，因為它們會黏在一起，硬拉就會撕破。柿餅幾分鐘就會退冰，所以可以一次只拿一個，不必提前規劃。",
+    "thawing": "拿一個包好的柿餅放室溫幾分鐘就可以吃了。只想吃一個的話，不要整袋拿出來解凍。",
+    "spoilage": [
+      "長出綠色、藍色或灰色的絨毛黴——和粉狀的白色糖霜完全不同",
+      "表面變得濕黏，並且有酸味或發酵味",
+      "吃起來味道不對、帶酒味",
+      "容器裡有蟲或絲網"
+    ],
+    "tips": [
+      "白色粉霜是糖不是黴；長出絨毛的才是黴",
+      "冷凍前個別包好，才不會黏在一起撕破",
+      "預設放冰箱而不是櫥櫃，柿餅比看起來濕潤",
+      "冰過的容器先回溫再開，避免結露"
+    ],
+    "faq": [
+      {"q": "柿餅上的白粉是黴嗎？", "a": "粉狀的白霜是結晶的糖，反而是好徵兆。長出綠、藍或灰色絨毛的才是黴，整個要丟掉。"},
+      {"q": "柿餅可以放多久？", "a": "硬實的柿餅在陰涼乾燥處約 1 到 2 個月，冷藏 6 到 12 個月，冷凍 12 到 18 個月。"},
+      {"q": "柿餅需要冷藏嗎？", "a": "建議預設冷藏。市售柿餅是半乾的、含水量偏高，放櫥櫃只能算短期選項。"}
+    ]
+  },
+  "ja": {
+    "name": "干し柿",
+    "aliases": ["ころ柿", "あんぽ柿", "柿餅", "つるし柿"],
+    "summary": "干し柿は、台湾・日本・韓国で親しまれる平たく白い粉をふいた果実で、完全乾燥ではなく半乾燥です。だからレーズンのようには日持ちしません。しっかり乾いた硬めのものなら涼しく乾いた室内で1〜2か月、冷蔵で6〜12か月、冷凍で12〜18か月です。",
+    "pantry": "常温保存が使えるのは、しっかり乾いた硬めの干し柿を涼しく乾いた室内に置く場合だけで、それでも1〜2か月と考えてください。完全乾燥の果物のような1年ではありません。表面の白い粉は果実からしみ出て結晶化した糖で、カビではなく、むしろよくできた証拠です。缶や密閉容器に入れて熱を避け、湿気の多い時期は様子を見てください。",
+    "fridge": "市販の干し柿は半乾燥でレーズンや杏よりずっと水分が多いため、冷蔵が既定の保存法です。ドライフルーツ全般は16℃で約1年、27℃で約6か月とされ、可能なら冷蔵が推奨されます。干し柿は4℃以下で密閉し6〜12か月を目安に。冷たい容器は室温に戻してから開け、結露を避けてください。",
+    "freezer": "一つずつ包んで袋に入れれば、−18℃で12〜18か月持ちます。個包装が大事で、くっついたまま引き離すと破れます。数分で解凍できるので、必要な分だけ取り出せます。",
+    "thawing": "包んだまま室温に数分置けばすぐ食べられます。1個だけ食べたいなら袋ごと出さないでください。",
+    "spoilage": [
+      "緑・青・灰色の綿状のカビ（白い粉の糖とは別物）",
+      "表面がべたついて湿り、酸臭や発酵臭がする",
+      "味がおかしい、アルコールのような風味",
+      "容器の中の虫や糸"
+    ],
+    "tips": [
+      "白い粉は糖でカビではありません。綿状のものがカビです",
+      "冷凍前に一つずつ包む（くっついて破れます）",
+      "戸棚ではなく冷蔵を既定に（見た目より水分が多い）",
+      "冷たい容器は室温に戻してから開ける"
+    ],
+    "faq": [
+      {"q": "干し柿の白い粉はカビですか？", "a": "粉状の白い粉は結晶化した糖で、よい状態のしるしです。緑や青、灰色の綿状のものはカビなので処分してください。"},
+      {"q": "干し柿はどのくらい持ちますか？", "a": "硬めのものなら涼しく乾いた室内で1〜2か月、冷蔵で6〜12か月、冷凍で12〜18か月です。"},
+      {"q": "冷蔵は必要ですか？", "a": "既定として必要です。市販品は半乾燥で水分が多く、常温の戸棚は短期の選択肢にとどまります。"}
+    ]
+  },
+  "es": {
+    "name": "Caqui seco",
+    "aliases": ["hoshigaki", "pastel de caqui", "orejones de caqui", "柿餅"],
+    "summary": "El caqui seco —esos discos aplanados cubiertos de un polvillo blanco que se venden en Taiwán, Japón y Corea— es semiseco y no completamente deshidratado, y por eso no se conserva como una pasa. Una pieza firme aguanta 1 a 2 meses en una habitación fresca y seca, 6 a 12 meses refrigerada y 12 a 18 meses congelada.",
+    "pantry": "El almacenamiento a temperatura ambiente solo vale para una pieza firme y bien secada en una habitación fresca y seca, y aun así cuenta con 1 a 2 meses y no con el año que daría una fruta bien deshidratada. La flor blanca de la superficie es azúcar cristalizado que ha salido de la fruta, no moho: es señal de una pieza bien hecha. Guárdalos en lata o caja cerrada lejos del calor y revísalos si el tiempo se vuelve húmedo.",
+    "fridge": "La nevera es la opción por defecto para los caquis secos comerciales, porque son semisecos y mucho más húmedos que pasas u orejones. La fruta seca en general dura alrededor de un año a 16 °C y 6 meses a 27 °C, y se aconseja refrigerar cuando se pueda; para estas piezas cuenta con 6 a 12 meses a 4 °C (40 °F) o menos, bien cerradas. Deja que la caja fría se atempere antes de abrirla para que no se forme condensación.",
+    "freezer": "Envueltos de uno en uno y embolsados, los caquis secos aguantan 12 a 18 meses a −18 °C (0 °F). Envolverlos por separado importa porque se pegan entre sí y se rompen al separarlos. Se descongelan en minutos, así que puedes sacar uno cada vez sin planificar.",
+    "thawing": "Saca una pieza envuelta y déjala unos minutos a temperatura ambiente: estará lista casi de inmediato. No descongeles toda la bolsa si solo quieres una.",
+    "spoilage": [
+      "Moho algodonoso verde, azul o gris, distinto del polvillo blanco de azúcar",
+      "Superficie pegajosa y húmeda con olor agrio o fermentado",
+      "Sabor raro o alcohólico",
+      "Insectos o telillas en el recipiente"
+    ],
+    "tips": [
+      "El polvillo blanco es azúcar, no moho; lo algodonoso sí lo es",
+      "Envuélvelos por separado antes de congelar para que no se rompan",
+      "Refrigera en lugar de dejarlos en un armario: son más húmedos de lo que parecen",
+      "Atempera el recipiente frío antes de abrirlo para evitar condensación"
+    ],
+    "faq": [
+      {"q": "¿El polvo blanco del caqui seco es moho?", "a": "La flor blanca en polvo es azúcar cristalizado y es buena señal. Un crecimiento algodonoso verde, azul o gris sí es moho y hay que descartarlo."},
+      {"q": "¿Cuánto dura el caqui seco?", "a": "Unos 1 a 2 meses en habitación fresca si es firme, 6 a 12 meses refrigerado y 12 a 18 meses congelado."},
+      {"q": "¿Hay que refrigerarlo?", "a": "Sí, por defecto. Las piezas comerciales son semisecas y bastante húmedas, así que el armario es solo una opción a corto plazo."}
+    ]
+  }
+}

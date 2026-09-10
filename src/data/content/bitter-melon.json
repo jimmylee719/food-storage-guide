@@ -1,0 +1,107 @@
+{
+  "slug": "bitter-melon",
+  "en": {
+    "name": "Bitter melon",
+    "aliases": ["bitter gourd", "goya", "karela", "melón amargo"],
+    "summary": "Bitter melon is the warty green or white gourd eaten across Asia for exactly the flavour its name promises. Refrigerated it keeps about 5 to 7 days, and sliced and salted it freezes for about 1 month.",
+    "pantry": "Bitter melon is best refrigerated rather than left out. At room temperature it ripens on, and a ripening bitter melon turns orange, splits open and goes soft and unpleasantly sweet — the seeds inside develop a red coating and the flesh loses its firm bite. A day on the counter is fine, but there is nothing to gain from waiting, since this is a vegetable you want under-ripe.",
+    "fridge": "Refrigerated bitter melon keeps about one week at 4 °C (40 °F) or below. Store it whole and unwashed in the crisper, loosely bagged so it does not dry out. If you are keeping a cut half, scoop out the seeds and the spongy core first — they are the parts that deteriorate soonest — and wrap the cut face tightly.",
+    "freezer": "Frozen bitter melon keeps about 1 month at −18 °C (0 °F), which is a short window compared with most frozen vegetables. Slice it, salt it briefly to draw out water and some of the bitterness, pat it dry and freeze it flat in a bag. It goes straight into a stir-fry from frozen, which is the best use for it — the texture softens, so it suits scrambles and braises more than a crisp dish.",
+    "thawing": "Add it to the pan straight from frozen. Thawing first makes it release water and go limp before it ever hits the heat.",
+    "spoilage": [
+      "Skin turning orange and starting to split, meaning it has over-ripened",
+      "Soft, wet, sunken patches on the ridges",
+      "Slimy surface or a sour smell",
+      "Seeds gone red and mushy inside a cut melon"
+    ],
+    "tips": [
+      "Choose firm, deep green fruit with tight bumpy ridges",
+      "Scoop out the seeds and white pith — the pith carries much of the bitterness",
+      "Salt the slices for 10 minutes and rinse to tame the bitterness",
+      "Blanching briefly also reduces bitterness before stir-frying"
+    ],
+    "faq": [
+      {"q": "How long does bitter melon last in the fridge?", "a": "About 5 to 7 days at 4 °C (40 °F) or below, stored whole and loosely bagged."},
+      {"q": "Can you freeze bitter melon?", "a": "Yes, for about 1 month. Slice, salt briefly, pat dry and freeze flat, then stir-fry it straight from frozen."},
+      {"q": "How do you make bitter melon less bitter?", "a": "Scoop out the white pith, salt the slices for 10 minutes and rinse, or blanch them briefly before cooking."}
+    ]
+  },
+  "zh": {
+    "name": "苦瓜",
+    "aliases": ["涼瓜", "白玉苦瓜", "山苦瓜", "ゴーヤー"],
+    "summary": "苦瓜是表面凹凸的綠色或白色瓜果，在亞洲各地就是為了它名字所承諾的那個味道而被吃掉。冷藏約可放 5 到 7 天；切片鹽漬後冷凍約 1 個月。",
+    "pantry": "苦瓜最好冷藏，不要放在外面。它在室溫下會繼續成熟，而成熟中的苦瓜會轉橙、裂開、變軟並帶上一種不太討喜的甜——裡面的籽會裹上紅色的膜，果肉也失去爽脆的口感。放一天沒問題，但等待沒有任何好處，因為這是一種你希望它「還沒熟」的蔬菜。",
+    "fridge": "放 4°C 以下的冰箱大約可放一週。整條不要洗，鬆鬆裝袋放蔬果室，避免乾掉。如果是切了一半要留著，請先把籽和白色海綿狀的瓤挖乾淨——那是最先劣化的部分——再把切面緊緊包起來。",
+    "freezer": "冷凍苦瓜在 −18°C 下約可放 1 個月，這在冷凍蔬菜裡算是很短的期限。把苦瓜切片，用鹽稍微抓一下逼出水分和部分苦味，擦乾後平鋪裝袋冷凍。之後可以直接冷凍下鍋炒，那也是它最好的用途——質地會變軟，所以比起講究爽脆的菜色，它更適合炒蛋和滷煮。",
+    "thawing": "直接冷凍下鍋。先解凍只會讓它還沒碰到熱鍋就先出水軟掉。",
+    "spoilage": [
+      "外皮轉橙並開始裂開，那表示已經過熟",
+      "凸起的稜上出現軟塌、濕潤、凹陷的斑塊",
+      "表面黏滑或聞起來發酸",
+      "切開後裡面的籽已經變紅、變爛"
+    ],
+    "tips": [
+      "挑結實、深綠、表面凸起緊實的",
+      "把籽和白色瓜瓤挖乾淨，苦味有很大一部分在瓤裡",
+      "切片後用鹽抓 10 分鐘再沖掉，可以壓一下苦味",
+      "下鍋前稍微汆燙也能減少苦味"
+    ],
+    "faq": [
+      {"q": "苦瓜放冰箱可以放多久？", "a": "整條鬆鬆裝袋放 4°C 以下約 5 到 7 天。"},
+      {"q": "苦瓜可以冷凍嗎？", "a": "可以，約 1 個月。切片、稍微鹽漬、擦乾後平鋪冷凍，之後直接冷凍下鍋炒。"},
+      {"q": "苦瓜怎麼降低苦味？", "a": "把白色瓜瓤挖乾淨，切片後用鹽抓 10 分鐘再沖掉，或下鍋前稍微汆燙。"}
+    ]
+  },
+  "ja": {
+    "name": "ゴーヤー",
+    "aliases": ["ニガウリ", "苦瓜", "つるれいし", "レイシ"],
+    "summary": "ゴーヤーは表面がごつごつした緑または白のウリで、アジア各地でまさにその名のとおりの苦みを目当てに食べられます。冷蔵で約5〜7日、スライスして塩をしてから冷凍すれば約1か月です。",
+    "pantry": "ゴーヤーは外に置くより冷蔵が向きます。常温では熟成が進み、熟したゴーヤーはオレンジ色になって裂け、軟らかく好ましくない甘さを帯びます。中の種は赤い膜に包まれ、果肉は歯ごたえを失います。1日程度なら問題ありませんが、待って得することはありません。これは「熟していない状態」で食べたい野菜だからです。",
+    "fridge": "冷蔵なら4℃以下で約1週間持ちます。洗わずに丸ごと、乾かないようゆるく袋に入れて野菜室へ。半分に切ったものを保存する場合は、まず種とワタをかき出してください。そこが最も早く傷む部分です。そのうえで切り口をぴったり包みます。",
+    "freezer": "冷凍ゴーヤーは−18℃で約1か月。冷凍野菜としては短めの期間です。スライスして軽く塩をあて、水分と苦みを少し抜いてから水気を拭き、袋に平らに入れて凍らせます。凍ったまま炒め物に入れるのがいちばんの使い道で、食感は軟らかくなるため、しゃきっとした料理より卵とじや煮込みに向きます。",
+    "thawing": "凍ったままフライパンへ。先に解凍すると、火にかける前に水が出てくたっとしてしまいます。",
+    "spoilage": [
+      "皮がオレンジ色になり裂け始めている（熟しすぎ）",
+      "いぼ状の稜に軟らかく濡れてへこんだ部分",
+      "表面のぬめり、酸っぱいにおい",
+      "切ったときに中の種が赤くどろっとしている"
+    ],
+    "tips": [
+      "硬く濃い緑で、いぼが張っているものを選ぶ",
+      "種と白いワタをかき出す（苦みの多くはワタにあります）",
+      "スライスに10分ほど塩をしてすすぐと苦みが和らぐ",
+      "炒める前にさっと下ゆでするのも有効です"
+    ],
+    "faq": [
+      {"q": "ゴーヤーは冷蔵庫でどのくらい持ちますか？", "a": "丸ごとゆるく袋に入れて4℃以下で約5〜7日です。"},
+      {"q": "冷凍できますか？", "a": "はい、約1か月。スライスして軽く塩をし、水気を拭いて平らに冷凍し、凍ったまま炒めます。"},
+      {"q": "苦みを抑えるには？", "a": "白いワタを取り除き、スライスに10分ほど塩をしてすすぐか、調理前にさっと下ゆでしてください。"}
+    ]
+  },
+  "es": {
+    "name": "Melón amargo",
+    "aliases": ["cundeamor", "karela", "goya", "calabaza amarga"],
+    "summary": "El melón amargo es esa calabacita verrugosa verde o blanca que se come en toda Asia precisamente por el sabor que anuncia su nombre. Refrigerado aguanta unos 5 a 7 días, y en rodajas saladas se congela alrededor de 1 mes.",
+    "pantry": "Al melón amargo le conviene más la nevera que la encimera. A temperatura ambiente sigue madurando, y un melón amargo maduro se vuelve naranja, se abre y se ablanda con un dulzor poco agradable: las semillas se recubren de una capa roja y la pulpa pierde su mordisco firme. Un día fuera no pasa nada, pero no se gana nada esperando, porque es una verdura que quieres poco madura.",
+    "fridge": "Refrigerado aguanta alrededor de una semana a 4 °C (40 °F) o menos. Guárdalo entero y sin lavar en el cajón, en bolsa floja para que no se reseque. Si guardas media pieza cortada, saca primero las semillas y la parte esponjosa —son lo que antes se deteriora— y envuelve bien la cara cortada.",
+    "freezer": "Congelado aguanta alrededor de 1 mes a −18 °C (0 °F), una ventana corta comparada con la mayoría de verduras congeladas. Córtalo en rodajas, sálalas un momento para extraer agua y parte del amargor, sécalas y congélalas planas en una bolsa. Va del congelador directo al salteado, que es su mejor uso: la textura se ablanda, así que encaja mejor en revueltos y guisos que en platos crujientes.",
+    "thawing": "Échalo a la sartén directamente congelado. Descongelarlo antes hace que suelte agua y se lacie antes siquiera de tocar el calor.",
+    "spoilage": [
+      "Piel virando a naranja y empezando a abrirse: ha madurado de más",
+      "Zonas blandas, húmedas y hundidas en las crestas",
+      "Superficie viscosa u olor agrio",
+      "Semillas rojas y pastosas dentro de una pieza cortada"
+    ],
+    "tips": [
+      "Elige piezas firmes, verde intenso y de relieve prieto",
+      "Saca las semillas y la parte blanca: ahí está buena parte del amargor",
+      "Sala las rodajas 10 minutos y enjuágalas para suavizar el amargor",
+      "Un escaldado breve también lo reduce antes de saltear"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el melón amargo en la nevera?", "a": "Unos 5 a 7 días a 4 °C (40 °F) o menos, entero y en bolsa floja."},
+      {"q": "¿Se puede congelar?", "a": "Sí, alrededor de 1 mes. En rodajas saladas brevemente, secadas y congeladas planas; sáltealo directamente congelado."},
+      {"q": "¿Cómo se le quita amargor?", "a": "Retira la parte blanca interior, sala las rodajas 10 minutos y enjuágalas, o escáldalas brevemente antes de cocinar."}
+    ]
+  }
+}

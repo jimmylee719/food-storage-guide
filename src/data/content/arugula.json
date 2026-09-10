@@ -1,0 +1,107 @@
+{
+  "slug": "arugula",
+  "en": {
+    "name": "Arugula",
+    "aliases": ["rocket", "rucola", "roquette", "salad rocket"],
+    "summary": "Arugula is a peppery salad leaf sold loose, in bunches or washed in bags, and it wilts faster than sturdier greens because the leaves are thin. Refrigerated it keeps about 3 to 7 days, and it is not a candidate for room-temperature or freezer storage as a salad leaf.",
+    "pantry": "Arugula does not belong on the counter. The thin leaves lose water within hours at room temperature, going first limp and then yellow, and the peppery bite fades along with the crispness. Bring it home out of a warm bag and refrigerate it immediately; a bunch left out through a warm afternoon is usually only good for wilting into pasta afterwards.",
+    "fridge": "Store it at 4 °C (40 °F) or below and use it within about 3 to 7 days. Keep unwashed leaves loosely bagged with a sheet of kitchen paper to catch condensation, since trapped moisture is what turns arugula slimy. If it came in a washed bag, keep it sealed until you open it and finish it quickly afterwards. A bunch with roots or long stems keeps better standing in a little water with a bag over the top.",
+    "freezer": "USDA gives no freezer timeline for arugula, and freezing it as a salad leaf is pointless — it thaws limp and dark. What does work is freezing it as a purée: blitz the leaves with olive oil, or make pesto, and freeze it in an ice cube tray. Frozen arugula purée goes straight into pasta, soups and sauces, where the peppery flavour survives well.",
+    "thawing": "Drop frozen purée or pesto cubes straight into a hot pan or a bowl of hot pasta. There is no need to thaw them first.",
+    "spoilage": [
+      "Leaves gone limp, dark and translucent",
+      "Slimy patches, especially where leaves are pressed together",
+      "Yellowing across whole leaves",
+      "Sour or musty smell when the bag is opened"
+    ],
+    "tips": [
+      "Do not wash until you are ready to use it",
+      "Line the bag with kitchen paper to absorb condensation",
+      "Revive a slightly limp bunch in ice water for 10 minutes",
+      "Blitz the last of a bag into pesto and freeze it in cubes"
+    ],
+    "faq": [
+      {"q": "How long does arugula last in the fridge?", "a": "About 3 to 7 days at 4 °C (40 °F) or below, unwashed and loosely bagged with a sheet of kitchen paper."},
+      {"q": "Can you freeze arugula?", "a": "Not as a salad leaf — it thaws limp. Blitz it into a purée or pesto and freeze that in an ice cube tray."},
+      {"q": "Why has my arugula gone slimy?", "a": "Trapped moisture. Either it was washed before storing or condensation collected in a sealed bag with no paper to absorb it."}
+    ]
+  },
+  "zh": {
+    "name": "芝麻葉",
+    "aliases": ["火箭菜", "芝麻菜", "rocket", "rucola"],
+    "summary": "芝麻葉是帶胡椒辛香的沙拉葉菜，有散裝、整把和洗好的袋裝，因為葉片薄，它比結實的葉菜更快萎凋。冷藏約可放 3 到 7 天；以沙拉葉來說，它不適合常溫也不適合冷凍保存。",
+    "pantry": "芝麻葉不適合放在室溫。薄薄的葉片在常溫下幾小時就會失水，先軟塌再轉黃，那股胡椒般的辛香也會跟著脆度一起消失。不要悶在溫熱的袋子裡帶回家，到家立刻冷藏；在溫暖午後放了一下午的芝麻葉，通常只剩「炒進義大利麵裡」這個用途了。",
+    "fridge": "放 4°C 以下，約 3 到 7 天內用完。沒洗過的葉子請鬆鬆裝袋、裡面墊一張廚房紙巾吸收凝結的水氣，因為悶住的濕氣正是芝麻葉發黏的原因。如果是洗好的袋裝，開封前保持密封，開封後要盡快吃完。帶根或長梗的整把，可以立在一點水裡、上面罩個袋子，會比較耐放。",
+    "freezer": "USDA 沒有提供芝麻葉的冷凍期限，而且把它當沙拉葉冷凍毫無意義——解凍後又軟又黑。可行的是打成泥再冷凍：把葉子和橄欖油一起打碎，或做成青醬，用製冰盒凍成塊。冷凍芝麻葉泥可以直接下義大利麵、湯和醬汁，那股胡椒辛香保留得很好。",
+    "thawing": "冷凍的葉泥或青醬塊直接丟進熱鍋或熱義大利麵裡，不需要先解凍。",
+    "spoilage": [
+      "葉片軟塌、發黑、變得半透明",
+      "出現黏滑的區塊，尤其在葉片互相壓著的地方",
+      "整片葉子轉黃",
+      "打開袋子時聞到酸味或霉味"
+    ],
+    "tips": [
+      "要用之前才洗",
+      "袋子裡墊廚房紙巾吸收水氣",
+      "稍微軟掉的整把，可以泡冰水 10 分鐘救回來",
+      "剩下的把它打成青醬，凍成冰塊"
+    ],
+    "faq": [
+      {"q": "芝麻葉放冰箱可以放多久？", "a": "放 4°C 以下、不要洗、鬆鬆裝袋並墊一張廚房紙巾，大約 3 到 7 天。"},
+      {"q": "芝麻葉可以冷凍嗎？", "a": "當沙拉葉不行，解凍後會軟塌。請打成泥或做成青醬，再用製冰盒冷凍。"},
+      {"q": "芝麻葉為什麼發黏？", "a": "悶住的水氣。不是保存前洗過了，就是密封袋裡沒有紙巾吸水，凝結的水氣都留在裡面。"}
+    ]
+  },
+  "ja": {
+    "name": "ルッコラ",
+    "aliases": ["ロケット", "アルグラ", "ルコラ", "キバナスズシロ"],
+    "summary": "ルッコラはぴりっとした辛みのあるサラダ用の葉物で、束売り、ばら売り、洗浄済みの袋入りなどがあります。葉が薄いぶん丈夫な葉物より早くしおれます。冷蔵で3〜7日ほど。サラダ用の葉としては常温にも冷凍にも向きません。",
+    "pantry": "ルッコラは常温向きではありません。薄い葉は室温では数時間で水分を失い、まずくたっとし、次に黄ばみ、ぴりっとした辛みも歯ざわりとともに消えていきます。暖かい袋に入れたまま持ち歩かず、帰宅したらすぐ冷蔵庫へ。暖かい午後を出しっぱなしで過ごした束は、たいていパスタに炒め込むくらいしか使い道が残りません。",
+    "fridge": "4℃以下で保存し、3〜7日以内に使い切ります。洗っていない葉はキッチンペーパーを一枚入れて袋にゆるく包んでください。こもった水分こそがぬめりの原因です。洗浄済みの袋入りなら、開けるまで密閉のまま、開けたら早めに使い切りましょう。根や長い茎のついた束は、少量の水に立てて袋をかぶせると長持ちします。",
+    "freezer": "USDAはルッコラの冷凍期間を示しておらず、サラダ用の葉として凍らせても意味がありません。解凍するとくたっと黒ずみます。有効なのはピューレにして冷凍する方法で、オリーブオイルと一緒に撹拌するかジェノベーゼ風のペーストにし、製氷皿で凍らせます。凍ったままパスタやスープ、ソースに入れれば、辛みもよく残ります。",
+    "thawing": "冷凍したピューレやペーストのキューブは、熱した鍋やゆでたてのパスタに直接入れます。解凍は不要です。",
+    "spoilage": [
+      "葉がくたっとして黒ずみ、半透明になっている",
+      "ぬめった部分（葉が押し合っている場所に多い）",
+      "葉全体の黄変",
+      "袋を開けたときの酸臭・かび臭"
+    ],
+    "tips": [
+      "使う直前まで洗わない",
+      "袋にキッチンペーパーを入れて結露を吸わせる",
+      "少ししおれた束は氷水に10分ほど浸すと戻ります",
+      "残りはペーストにしてキューブ冷凍する"
+    ],
+    "faq": [
+      {"q": "ルッコラは冷蔵庫でどのくらい持ちますか？", "a": "4℃以下で洗わず、キッチンペーパーとともにゆるく袋に入れて3〜7日ほどです。"},
+      {"q": "冷凍できますか？", "a": "サラダ用の葉としては向きません。ピューレやペーストにして製氷皿で凍らせてください。"},
+      {"q": "ぬめるのはなぜ？", "a": "水分がこもったためです。保存前に洗ったか、紙を入れずに密閉袋で結露がたまったかのどちらかです。"}
+    ]
+  },
+  "es": {
+    "name": "Rúcula",
+    "aliases": ["arúgula", "roqueta", "rúgula", "oruga"],
+    "summary": "La rúcula es una hoja de ensalada picante que se vende suelta, en manojos o lavada en bolsa, y se marchita antes que las verduras más recias porque sus hojas son finas. Refrigerada aguanta unos 3 a 7 días, y como hoja de ensalada no es candidata ni para la encimera ni para el congelador.",
+    "pantry": "La rúcula no pinta nada en la encimera. Las hojas finas pierden agua en horas a temperatura ambiente: primero se lacían y luego amarillean, y el punto picante se va junto con el crujido. Llévala a casa fuera de una bolsa caliente y refrigérala de inmediato; un manojo que ha pasado una tarde templada fuera solo sirve ya para saltear con pasta.",
+    "fridge": "Guárdala a 4 °C (40 °F) o menos y úsala en unos 3 a 7 días. Mantén las hojas sin lavar en bolsa floja con una hoja de papel de cocina que recoja la condensación, porque la humedad atrapada es lo que la vuelve viscosa. Si viene en bolsa lavada, déjala cerrada hasta abrirla y termínala pronto. Un manojo con raíces o tallos largos aguanta mejor de pie en un poco de agua y con una bolsa por encima.",
+    "freezer": "El USDA no da plazo de congelación para la rúcula, y congelarla como hoja de ensalada no sirve: se descongela lacia y oscura. Lo que funciona es congelarla en puré: tritúrala con aceite de oliva o hazla pesto y congélala en cubitera. El puré congelado va directo a pastas, sopas y salsas, donde el sabor picante aguanta muy bien.",
+    "thawing": "Echa los cubitos de puré o pesto congelados directamente a una sartén caliente o a un bol de pasta recién hecha. No hace falta descongelarlos.",
+    "spoilage": [
+      "Hojas lacias, oscuras y translúcidas",
+      "Zonas viscosas, sobre todo donde las hojas se aprietan",
+      "Amarilleo de hojas enteras",
+      "Olor agrio o a humedad al abrir la bolsa"
+    ],
+    "tips": [
+      "No la laves hasta el momento de usarla",
+      "Forra la bolsa con papel de cocina para absorber la condensación",
+      "Revive un manojo algo lacio en agua con hielo durante 10 minutos",
+      "Tritura lo último de la bolsa en pesto y congélalo en cubitos"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la rúcula en la nevera?", "a": "Unos 3 a 7 días a 4 °C (40 °F) o menos, sin lavar y en bolsa floja con una hoja de papel de cocina."},
+      {"q": "¿Se puede congelar la rúcula?", "a": "Como hoja de ensalada no: se descongela lacia. Tritúrala en puré o pesto y congela eso en cubitera."},
+      {"q": "¿Por qué se ha puesto viscosa?", "a": "Por humedad atrapada. O se lavó antes de guardarla, o la condensación se acumuló en una bolsa cerrada sin papel que la absorbiera."}
+    ]
+  }
+}

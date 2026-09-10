@@ -1,0 +1,107 @@
+{
+  "slug": "mountain-apple",
+  "en": {
+    "name": "Mountain apple",
+    "aliases": ["Malay apple", "ohia ai", "pomarrosa", "Syzygium malaccense"],
+    "summary": "The mountain apple is a glossy crimson Pacific fruit with crisp, white, faintly perfumed flesh — and it is the most perishable of the Syzygium fruits. It lasts only 1 to 2 days at room temperature and about 3 to 5 days refrigerated, and it needs cooling almost immediately after picking.",
+    "pantry": "Room temperature is a countdown. Mountain apple is described as the most perishable of its family and must be cooled in the field to have any postharvest life at all, so fruit that has spent a warm morning in a crate is already partway through its life. Expect 1 to 2 days, spread in a single padded layer and out of the sun. If you have picked your own, get it cold immediately rather than admiring it.",
+    "fridge": "Store it in a single layer, padded, in a vented box at 4 °C (40 °F) or below, and reckon on 3 to 5 days. Stacking is what ruins it: the skin is thin and bruises under the weight of the fruit above, and one bruised fruit wets its neighbours. That range is a working limit borrowed from the way soft berries are handled rather than a published figure, because the source describes the fruit as highly perishable without giving days.",
+    "freezer": "No source gives a freezer timeline for mountain apple, and freezing does not suit it: the whole appeal is a crisp, watery crunch, and ice crystals turn that into limp pulp. If you have more than you can eat, poaching the fruit in syrup or turning it into jelly and then freezing that is the sensible route. Treat any duration as your own planning figure.",
+    "thawing": "If you have frozen poached fruit or jelly, thaw it in the fridge and use it within a couple of days.",
+    "spoilage": [
+      "Brown, soft, sunken bruises spreading across the glossy skin",
+      "Flesh gone brown, spongy or watery instead of crisp and white",
+      "Fermented smell rather than a faint rose-like perfume",
+      "Mould at the calyx or where fruit touched fruit"
+    ],
+    "tips": [
+      "Buy fruit that has been kept cold, not sitting warm on a stall",
+      "Store one layer deep with padding; stacking bruises the skin",
+      "Eat it within a couple of days — this is not a keeping fruit",
+      "Poach or make jelly with a surplus rather than trying to store it"
+    ],
+    "faq": [
+      {"q": "How long does mountain apple last?", "a": "Only about 1 to 2 days at room temperature and 3 to 5 days refrigerated in a single padded layer."},
+      {"q": "Why does my mountain apple go bad so quickly?", "a": "It is the most perishable of the Syzygium fruits and needs cooling right after picking. Fruit that travelled warm is already partway through its life."},
+      {"q": "Can you freeze mountain apple?", "a": "No source gives a timeline, and freezing destroys the crunch that is the point of the fruit. Poach it or make jelly, then freeze that."}
+    ]
+  },
+  "zh": {
+    "name": "山蒲桃",
+    "aliases": ["馬來蓮霧", "馬六甲蒲桃", "大蓮霧", "Malay apple"],
+    "summary": "山蒲桃是太平洋地區一種鮮紅有光澤的水果，果肉白色清脆、帶淡淡花香，而它是蒲桃屬裡最不耐放的一種。室溫只放得住 1 到 2 天，冷藏約 3 到 5 天，而且採收後幾乎要立刻降溫。",
+    "pantry": "室溫是倒數計時。山蒲桃被形容為同科裡最不耐放的水果，必須在產地就降溫，採後才會有任何可用的壽命，所以在紙箱裡放了一個溫熱早上的果實，其實已經走完一段路了。大約 1 到 2 天，單層攤放並墊軟、避開日曬。自己採的話，請立刻降溫，不要拿在手上欣賞。",
+    "fridge": "單層平放、底下墊軟，用透氣的盒子裝，放 4°C 以下，大約 3 到 5 天。毀掉它的往往是堆疊：果皮很薄，上面果實的重量就足以壓傷，而一顆壓傷了就會弄濕旁邊的。這個範圍是借用軟質莓果的處理方式，不是公布的數字，因為資料來源只說它極不耐放，並沒有給天數。",
+    "freezer": "沒有任何來源提供山蒲桃的冷凍期限，而且它並不適合冷凍：它好吃的地方就是那份清脆多汁，冰晶會把它變成軟趴趴的果泥。如果多到吃不完，比較合理的做法是用糖水煮過或做成果凍，再把成品冷凍。任何期限都請當成自己的規劃數字。",
+    "thawing": "如果冷凍了糖煮果或果凍，請放冷藏解凍，並在一兩天內用完。",
+    "spoilage": [
+      "光亮的果皮上出現褐色、軟塌、凹陷的撞傷並擴大",
+      "果肉不再清脆潔白，而是轉褐、變海綿狀或水水的",
+      "聞起來發酵，而不是淡淡的玫瑰般香氣",
+      "花萼處或果實相貼的地方長黴"
+    ],
+    "tips": [
+      "挑一路都保持低溫的，不要挑在攤位上曬溫的",
+      "只鋪一層並墊軟，堆疊一定會壓傷果皮",
+      "一兩天內吃完，這不是耐放的水果",
+      "吃不完就糖煮或做果凍，不要硬要保鮮"
+    ],
+    "faq": [
+      {"q": "山蒲桃可以放多久？", "a": "室溫只有約 1 到 2 天，單層墊軟冷藏約 3 到 5 天。"},
+      {"q": "山蒲桃為什麼壞得那麼快？", "a": "它是蒲桃屬裡最不耐放的，必須採後立刻降溫。一路溫溫地運回來的果實，壽命早就用掉一半了。"},
+      {"q": "山蒲桃可以冷凍嗎？", "a": "沒有來源給出期限，而且冷凍會毀掉它賴以立足的脆度。請先糖煮或做果凍，再冷凍成品。"}
+    ]
+  },
+  "ja": {
+    "name": "マレーフトモモ",
+    "aliases": ["ヤマフトモモ", "マウンテンアップル", "オヒアアイ", "Syzygium malaccense"],
+    "summary": "マレーフトモモは太平洋地域の光沢のある深紅の果実で、果肉は白くしゃきっとし、ほのかに花のような香りがあります。フトモモ属の中でも最も傷みやすい果実で、常温では1〜2日、冷蔵でも3〜5日ほどしか持たず、収穫直後の冷却がほぼ必須です。",
+    "pantry": "常温はカウントダウンです。この果実は同属で最も傷みやすいとされ、畑で冷やさなければ収穫後の日持ちがほとんど得られません。暖かい午前中を箱の中で過ごした果実は、すでに寿命の一部を使い切っています。目安は1〜2日、緩衝材を敷いて一段に広げ、日光を避けてください。自分で摘んだ場合は、眺めていないですぐ冷やしましょう。",
+    "fridge": "緩衝材を敷いて一段に並べ、通気のある容器で4℃以下に。目安は3〜5日です。だめにする原因はたいてい積み重ねで、皮が薄く上の果実の重みで傷み、傷んだ一つが隣を濡らします。この範囲は、出典が「極めて傷みやすい」とだけ述べて日数を示していないため、やわらかいベリーの扱いを借りた目安です。",
+    "freezer": "マレーフトモモの冷凍期間を示す出典はなく、冷凍にも向きません。魅力はみずみずしい歯ざわりで、氷結晶がそれをくたっとした果肉に変えてしまいます。食べきれないときは、シロップで煮るかゼリーにしてから冷凍するのが現実的です。期間はあくまで自己判断としてください。",
+    "thawing": "シロップ煮やゼリーを冷凍した場合は、冷蔵庫で解凍して1〜2日で使い切ってください。",
+    "spoilage": [
+      "つやのある皮に茶色く軟らかいへこんだ打ち身が広がる",
+      "果肉が白くしゃきっとせず、茶色い、スポンジ状、水っぽい",
+      "ほのかなバラのような香りではなく発酵臭",
+      "ヘタや実どうしが触れていた部分のカビ"
+    ],
+    "tips": [
+      "常温の店頭ではなく、冷やされて流通したものを選ぶ",
+      "緩衝材を敷いて一段だけで保存する",
+      "1〜2日で食べきる（日持ちする果物ではありません）",
+      "余ったらシロップ煮やゼリーにする"
+    ],
+    "faq": [
+      {"q": "マレーフトモモはどのくらい持ちますか？", "a": "常温で1〜2日、緩衝材つきの一段で冷蔵して3〜5日ほどです。"},
+      {"q": "なぜこんなに早く傷むのですか？", "a": "フトモモ属で最も傷みやすく、収穫直後の冷却が必要だからです。暖かいまま運ばれた果実はすでに寿命を消費しています。"},
+      {"q": "冷凍できますか？", "a": "期間を示す出典はなく、持ち味の歯ざわりが失われます。シロップ煮やゼリーにしてから冷凍しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Manzana malaya",
+    "aliases": ["pomarrosa de Malaca", "manzana de agua", "ohia ai", "Syzygium malaccense"],
+    "summary": "La manzana malaya es una fruta del Pacífico, carmesí y brillante, de pulpa blanca, crujiente y levemente perfumada, y es la más perecedera de las Syzygium. Dura solo 1 o 2 días a temperatura ambiente y unos 3 a 5 días refrigerada, y necesita enfriarse casi de inmediato tras la cosecha.",
+    "pantry": "La temperatura ambiente es una cuenta atrás. Se describe como la más perecedera de su familia y debe enfriarse en el campo para tener alguna vida poscosecha, así que una fruta que ha pasado una mañana templada en una caja ya lleva recorrida buena parte de su vida. Cuenta con 1 o 2 días, en una sola capa acolchada y lejos del sol. Si la recoges tú, enfríala de inmediato en lugar de admirarla.",
+    "fridge": "Guárdala en una sola capa, acolchada, en una caja ventilada a 4 °C (40 °F) o menos, y cuenta con 3 a 5 días. Apilarla es lo que la arruina: la piel es fina y se magulla con el peso de la fruta de encima, y una pieza magullada moja a sus vecinas. Ese rango es un límite tomado del manejo de las bayas blandas, no una cifra publicada, porque la fuente la describe como muy perecedera sin dar días.",
+    "freezer": "Ninguna fuente da un plazo de congelación, y congelarla no le conviene: todo su atractivo es el crujido acuoso y los cristales de hielo lo convierten en pulpa lacia. Si tienes más de la que puedes comer, lo sensato es escalfarla en almíbar o hacer jalea y congelar eso. Toma cualquier duración como criterio propio.",
+    "thawing": "Si has congelado fruta escalfada o jalea, descongélala en la nevera y úsala en un par de días.",
+    "spoilage": [
+      "Golpes pardos, blandos y hundidos que se extienden por la piel brillante",
+      "Pulpa parda, esponjosa o acuosa en lugar de crujiente y blanca",
+      "Olor fermentado en vez de un perfume tenue a rosa",
+      "Moho en el cáliz o donde las frutas se tocaban"
+    ],
+    "tips": [
+      "Compra fruta que se haya mantenido en frío, no templada en el puesto",
+      "Guárdala en una capa con acolchado: apilarla magulla la piel",
+      "Cómela en un par de días: no es fruta de guardar",
+      "Escálfala o haz jalea con el excedente en lugar de almacenarla"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la manzana malaya?", "a": "Solo unos 1 a 2 días a temperatura ambiente y 3 a 5 días refrigerada en una sola capa acolchada."},
+      {"q": "¿Por qué se estropea tan rápido?", "a": "Es la más perecedera de las Syzygium y necesita frío justo tras la cosecha. La fruta que viajó templada ya gastó parte de su vida."},
+      {"q": "¿Se puede congelar?", "a": "Ninguna fuente da plazo y la congelación destruye el crujido que la define. Escálfala o haz jalea y congela eso."}
+    ]
+  }
+}

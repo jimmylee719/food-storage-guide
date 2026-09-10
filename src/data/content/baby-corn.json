@@ -1,0 +1,107 @@
+{
+  "slug": "baby-corn",
+  "en": {
+    "name": "Baby corn",
+    "aliases": ["young corn", "candle corn", "maíz baby", "cornlets"],
+    "summary": "Baby corn is sweetcorn picked before pollination, so small that the cob core is tender and the whole thing is eaten. Fresh in the husk it keeps about 3 to 5 days in the fridge, and blanched it freezes for about 2 to 3 weeks.",
+    "pantry": "Fresh baby corn is not a counter item. Like all sweetcorn it starts converting its sugars to starch as soon as it is picked, and warmth speeds that up sharply — a few hours in a hot bag costs noticeably more than a day in the fridge. Buy it in the husk if you can, keep it out of the sun and refrigerate it as soon as you get home.",
+    "fridge": "Keep the husks on until you cook it, and store it at 4 °C (40 °F) or below, where it holds about 3 to 5 days. Sweetcorn in husks is generally given only 1 to 2 days, so use baby corn early even within that range; the reason it stretches a little further is that immature cobs have far less sugar to lose than a mature one. At this size the whole cob including the core is edible, so there is nothing to strip beyond the husk and silk.",
+    "freezer": "Blanch briefly first — about 2 minutes in boiling water, then straight into iced water and dried — and reckon on about 2 to 3 weeks at −18 °C (0 °F), the general figure for home-frozen vegetables. That is a short window compared with commercially frozen vegetables, which are frozen far faster and colder. Freeze the cobs spread on a tray, then bag them so they stay separate.",
+    "thawing": "Add frozen baby corn straight to stir-fries, curries and soups. Do not thaw it first, since it turns limp and watery as it warms.",
+    "spoilage": [
+      "Slimy surface or a sour smell when the husk is opened",
+      "Cobs gone soft and bendy rather than firm",
+      "Brown or grey patches on the kernels",
+      "Mould in the silk or between the husk layers"
+    ],
+    "tips": [
+      "Buy it in the husk; the husk keeps it fresher than trimmed cobs",
+      "Cook it as soon as you can — the sugars fade fast",
+      "The whole cob is edible at this size, core included",
+      "Blanch for 2 minutes before freezing rather than freezing it raw"
+    ],
+    "faq": [
+      {"q": "How long does fresh baby corn last?", "a": "About 3 to 5 days in the fridge with the husks on. Sweetcorn in husks is generally given only 1 to 2 days, so use it early."},
+      {"q": "Can you freeze baby corn?", "a": "Yes, blanched for about 2 minutes first, for roughly 2 to 3 weeks — the general figure for home-frozen vegetables."},
+      {"q": "Do you eat the whole baby corn?", "a": "Yes. At this size the cob core is still tender, so the entire cob is eaten once the husk and silk are removed."}
+    ]
+  },
+  "zh": {
+    "name": "玉米筍",
+    "aliases": ["珍珠筍", "小玉米", "嫩玉米", "baby corn"],
+    "summary": "玉米筍是在授粉之前採收的甜玉米，因為還很小，整根連玉米芯都是嫩的，可以整根吃。帶殼冷藏約可放 3 到 5 天；汆燙後冷凍約 2 到 3 週。",
+    "pantry": "新鮮玉米筍不是可以放在室溫的東西。和所有甜玉米一樣，採下的那一刻起，糖分就開始轉成澱粉，而溫度會讓這個過程明顯加快——在悶熱的袋子裡放幾小時，損失可能比在冰箱裡放一天還多。買得到帶殼的就買帶殼，避開日曬，到家立刻冷藏。",
+    "fridge": "要煮之前才剝殼，並放在 4°C 以下，大約可放 3 到 5 天。一般帶殼甜玉米的建議只有 1 到 2 天，所以就算在這個範圍內也要盡早用掉；玉米筍之所以能稍微多撐一點，是因為未成熟的穗本來就沒有多少糖可以流失。這個大小的玉米筍整根都能吃，連芯也一樣，除了外殼和玉米鬚之外沒有什麼要去掉的。",
+    "freezer": "冷凍前先汆燙——滾水約 2 分鐘，立刻冰鎮並擦乾——並以 −18°C 下約 2 到 3 週為準，那是家庭自製冷凍蔬菜的一般數字。和市售冷凍蔬菜相比，這個時間很短，因為工廠的凍結速度更快、溫度也更低。請把玉米筍攤在托盤上冷凍再裝袋，才不會黏在一起。",
+    "thawing": "冷凍玉米筍直接下鍋炒、煮咖哩或做湯。不要先解凍，回溫過程中它會變得軟塌出水。",
+    "spoilage": [
+      "表面黏滑，或剝開外殼時聞到酸味",
+      "玉米筍變軟可彎，而不是結實挺立",
+      "玉米粒上出現褐色或灰色斑塊",
+      "玉米鬚或外殼層之間長黴"
+    ],
+    "tips": [
+      "買帶殼的，外殼比修剪過的裸筍更能保鮮",
+      "盡快煮掉，甜味流失得很快",
+      "這個大小整根都能吃，包括中間的芯",
+      "冷凍前汆燙 2 分鐘，不要生凍"
+    ],
+    "faq": [
+      {"q": "新鮮玉米筍可以放多久？", "a": "帶殼放冰箱約 3 到 5 天。一般帶殼甜玉米只給 1 到 2 天，所以請盡早用掉。"},
+      {"q": "玉米筍可以冷凍嗎？", "a": "可以，先汆燙約 2 分鐘，冷凍約 2 到 3 週——那是家庭冷凍蔬菜的一般數字。"},
+      {"q": "玉米筍整根都可以吃嗎？", "a": "可以。這個大小的玉米芯還很嫩，剝掉外殼和玉米鬚之後整根都能吃。"}
+    ]
+  },
+  "ja": {
+    "name": "ヤングコーン",
+    "aliases": ["ベビーコーン", "玉米筍", "若どりとうもろこし", "ミニコーン"],
+    "summary": "ヤングコーンは受粉前に収穫したとうもろこしで、小さいうちは芯まで柔らかく、まるごと食べられます。皮つきなら冷蔵で3〜5日、下ゆでして冷凍すれば2〜3週間ほどです。",
+    "pantry": "生のヤングコーンは常温に置くものではありません。とうもろこし全般と同じく、収穫した瞬間から糖がでんぷんに変わり始め、暖かいとその進行が一気に速まります。暑い袋の中で数時間過ごすだけで、冷蔵庫で一日置くより大きく品質を落とします。できれば皮つきを買い、日光を避け、帰宅したらすぐ冷蔵庫へ。",
+    "fridge": "調理直前まで皮をつけたまま、4℃以下で保存すれば3〜5日ほど持ちます。皮つきのとうもろこしは一般に1〜2日とされるので、この範囲でも早めに使ってください。ヤングコーンが少し長く持つのは、未熟な穂には失う糖がそもそも少ないからです。このサイズなら芯まで食べられるので、外皮とひげ以外に取り除くものはありません。",
+    "freezer": "冷凍前にさっと下ゆでを。熱湯で約2分ゆで、すぐ氷水に取り、水気を拭きます。−18℃で2〜3週間が目安で、これは家庭で冷凍した野菜の一般的な数字です。工場で急速に、より低温で凍結される市販の冷凍野菜に比べると短い期間です。トレーに広げて凍らせてから袋へ移し、くっつかないようにします。",
+    "thawing": "冷凍のまま炒め物やカレー、スープに加えます。解凍すると温まる過程でくたっと水っぽくなるので、先に解凍しないでください。",
+    "spoilage": [
+      "表面のぬめり、皮を開いたときの酸臭",
+      "しゃんとせず、軟らかく曲がる",
+      "粒に茶色や灰色の斑",
+      "ひげや皮の間のカビ"
+    ],
+    "tips": [
+      "皮つきを買う（皮をむいたものより鮮度が保てます）",
+      "できるだけ早く調理する（甘みがすぐ落ちます）",
+      "このサイズなら芯までまるごと食べられます",
+      "生のまま凍らせず、2分下ゆでしてから冷凍する"
+    ],
+    "faq": [
+      {"q": "生のヤングコーンはどのくらい持ちますか？", "a": "皮つきで冷蔵3〜5日ほどです。皮つきとうもろこしは一般に1〜2日とされるので早めに使いましょう。"},
+      {"q": "冷凍できますか？", "a": "はい。約2分下ゆでしてから2〜3週間ほど。家庭で冷凍した野菜の一般的な目安です。"},
+      {"q": "まるごと食べられますか？", "a": "食べられます。このサイズなら芯もまだ柔らかいので、皮とひげを取ればすべて食べられます。"}
+    ]
+  },
+  "es": {
+    "name": "Maíz baby",
+    "aliases": ["elotito", "maíz tierno", "mazorquitas", "baby corn"],
+    "summary": "El maíz baby es maíz dulce recogido antes de la polinización, tan pequeño que el corazón de la mazorca está tierno y se come entero. Fresco y con su hoja aguanta unos 3 a 5 días en la nevera, y escaldado se congela unas 2 a 3 semanas.",
+    "pantry": "El maíz baby fresco no es producto de encimera. Como todo el maíz dulce, empieza a convertir sus azúcares en almidón en cuanto se recoge, y el calor acelera mucho ese proceso: unas horas en una bolsa caliente cuestan bastante más que un día en la nevera. Cómpralo con hoja si puedes, mantenlo lejos del sol y refrigéralo nada más llegar a casa.",
+    "fridge": "Deja las hojas puestas hasta cocinarlo y guárdalo a 4 °C (40 °F) o menos, donde aguanta unos 3 a 5 días. Al maíz dulce con hoja se le suelen dar solo 1 o 2 días, así que úsalo pronto incluso dentro de ese rango; si el maíz baby estira un poco más es porque una mazorca inmadura tiene mucho menos azúcar que perder. A este tamaño toda la mazorca es comestible, corazón incluido, así que no hay nada que retirar más allá de la hoja y los pelillos.",
+    "freezer": "Escáldalo brevemente antes: unos 2 minutos en agua hirviendo, luego a agua helada y secado. Cuenta con unas 2 a 3 semanas a −18 °C (0 °F), la cifra general para verduras congeladas en casa. Es una ventana corta comparada con la verdura congelada industrialmente, que se congela mucho más rápido y más frío. Congela las mazorquitas extendidas en bandeja y luego embólsalas para que no se peguen.",
+    "thawing": "Añade el maíz baby congelado directamente a salteados, currys y sopas. No lo descongeles antes, porque se vuelve lacio y acuoso al templarse.",
+    "spoilage": [
+      "Superficie viscosa u olor agrio al abrir la hoja",
+      "Mazorquitas blandas y flexibles en lugar de firmes",
+      "Manchas pardas o grises en los granos",
+      "Moho en los pelillos o entre las capas de hoja"
+    ],
+    "tips": [
+      "Cómpralo con hoja: se conserva mejor que las mazorquitas peladas",
+      "Cocínalo cuanto antes: los azúcares se pierden rápido",
+      "A este tamaño se come toda la mazorca, corazón incluido",
+      "Escáldalo 2 minutos antes de congelarlo en lugar de congelarlo crudo"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el maíz baby fresco?", "a": "Unos 3 a 5 días en la nevera con la hoja puesta. Al maíz con hoja se le dan solo 1 o 2 días, así que úsalo pronto."},
+      {"q": "¿Se puede congelar el maíz baby?", "a": "Sí, escaldado unos 2 minutos antes, durante unas 2 a 3 semanas: la cifra general de verduras congeladas en casa."},
+      {"q": "¿Se come entero?", "a": "Sí. A este tamaño el corazón sigue tierno, así que se come toda la mazorca una vez retiradas la hoja y los pelillos."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "marang",
+  "en": {
+    "name": "Marang",
+    "aliases": ["terap", "madang", "johey oak", "Artocarpus odoratissimus"],
+    "summary": "Marang is a soft, intensely aromatic relative of the jackfruit from Borneo and the southern Philippines, opened by hand to reveal creamy white segments. It ripens and must be eaten fast: 1 to 3 days whole at room temperature, 2 to 4 days for the segments in the fridge, and 3 to 6 months frozen.",
+    "pantry": "Marang ripens fast and is eaten within a day or two of the rind softening — the smell tells you when, long before you touch it. Reckon on 1 to 3 days at room temperature and keep it somewhere ventilated, because a ripe marang will fill a closed room. Once the spiny rind gives under your thumb, open it that day; a marang left one day too long ferments rather than mellows.",
+    "fridge": "Separate the pulp segments from the rind and seal them in a box at 4 °C (40 °F) or below for about 2 to 4 days. The sealed box is genuinely necessary — otherwise the aroma spreads through the whole fridge and into the butter. This range is a working limit borrowed from the way cherimoya, a comparably soft and fast-ripening tropical fruit, is handled rather than a published marang figure.",
+    "freezer": "Freeze the segments, not the whole fruit, for about 3 to 6 months at −18 °C (0 °F), again a sensible planning range rather than an official one. Deseed them, pack them flat in a double bag and press out the air. Frozen marang is usually eaten half-thawed like a soft-serve ice cream, which is arguably its best form outside the tropics.",
+    "thawing": "Eat the segments half-thawed straight from the freezer, or blend them from frozen. Fully thawed pulp goes slack and watery.",
+    "spoilage": [
+      "Alcoholic or sour note over and above the normal heavy sweetness",
+      "Segments gone grey, slack or watery rather than creamy white",
+      "Rind collapsed and weeping liquid",
+      "Mould in the cut face or around the core"
+    ],
+    "tips": [
+      "Let the smell tell you when it is ready; you will not miss it",
+      "Open it with your hands rather than a knife — the rind splits along the middle",
+      "Oil your hands first, because the rind leaks sticky latex",
+      "Double-bag anything you refrigerate or freeze"
+    ],
+    "faq": [
+      {"q": "How long does marang last?", "a": "About 1 to 3 days whole at room temperature and 2 to 4 days for the segments in a sealed box in the fridge."},
+      {"q": "Can you freeze marang?", "a": "Yes — deseed the segments, double-bag them and freeze for about 3 to 6 months. Eat them half-thawed, like ice cream."},
+      {"q": "How is marang different from jackfruit?", "a": "It is smaller, much softer, sweeter and far more aromatic, with a rind that opens by hand, and it spoils considerably faster."}
+    ]
+  },
+  "zh": {
+    "name": "馬蘭果",
+    "aliases": ["小菠蘿蜜", "榴槤蜜（近親）", "terap", "marang"],
+    "summary": "馬蘭果是波羅蜜的近親，產自婆羅洲和菲律賓南部，質地軟、香氣極濃，用手就能剝開，裡面是乳白色的果瓣。它熟得快、也必須馬上吃：整顆室溫 1 到 3 天，果瓣冷藏 2 到 4 天，冷凍 3 到 6 個月。",
+    "pantry": "馬蘭果熟得很快，通常在果皮變軟後一兩天內就要吃掉——而且早在你伸手摸之前，香氣就已經告訴你了。室溫大約 1 到 3 天，請放在通風的地方，因為熟透的馬蘭果會把整個密閉空間塞滿味道。一旦帶刺的外皮按下去會凹，就當天剖開；多放一天，它不會更醇，只會發酵。",
+    "fridge": "把果瓣從外皮上分下來，裝密封盒放 4°C 以下，約 2 到 4 天。密封盒是真的必要——否則香氣會散遍整個冰箱，連奶油都會有味道。這個範圍是借用冷子番荔枝（同樣軟、同樣熟得快的熱帶水果）的處理方式，不是針對馬蘭果公布的數字。",
+    "freezer": "冷凍果瓣而不是整顆，−18°C 下約 3 到 6 個月，同樣是合理的規劃範圍而不是官方數字。去籽後平鋪裝進雙層袋並擠出空氣。冷凍馬蘭果通常是半解凍吃，口感像霜淇淋，在熱帶以外的地方，這可以說是它最好的形式。",
+    "thawing": "果瓣從冷凍庫拿出來半解凍直接吃，或直接冷凍狀態下去打。完全解凍的果肉會鬆軟出水。",
+    "spoilage": [
+      "在原本濃厚的甜香之外，多了酒味或酸味",
+      "果瓣不再是乳白色，而是發灰、鬆軟或水水的",
+      "外皮塌陷並滲出液體",
+      "切面或果心周圍長黴"
+    ],
+    "tips": [
+      "靠氣味判斷什麼時候可以吃，你絕對不會錯過",
+      "用手剝而不是用刀，外皮會從中間裂開",
+      "先在手上抹油，外皮會滲出黏黏的乳汁",
+      "要冷藏或冷凍的一律用雙層袋"
+    ],
+    "faq": [
+      {"q": "馬蘭果可以放多久？", "a": "整顆室溫約 1 到 3 天；果瓣裝密封盒冷藏約 2 到 4 天。"},
+      {"q": "馬蘭果可以冷凍嗎？", "a": "可以，去籽果瓣裝雙層袋冷凍約 3 到 6 個月，半解凍吃像冰淇淋。"},
+      {"q": "馬蘭果和波羅蜜差在哪？", "a": "它比較小、軟得多、更甜、香氣濃烈得多，外皮用手就能剝開，而且壞得快很多。"}
+    ]
+  },
+  "ja": {
+    "name": "マラン",
+    "aliases": ["テラップ", "マダン", "小型パラミツ", "Artocarpus odoratissimus"],
+    "summary": "マランはボルネオやフィリピン南部原産のジャックフルーツの近縁種で、柔らかく香りが非常に強く、手で割るとクリーム色の果肉が現れます。熟すのが早く、すぐ食べる必要があります。丸ごと常温1〜3日、果肉は冷蔵2〜4日、冷凍で3〜6か月です。",
+    "pantry": "マランは熟すのが速く、皮が軟らかくなってから1〜2日で食べるのが普通です。触る前に香りが教えてくれます。常温では1〜3日を目安に、風通しのよい場所へ。熟したマランは閉め切った部屋を香りで満たします。とげのある皮が親指でへこむようになったらその日のうちに割ってください。1日置きすぎると、まろやかになるのではなく発酵します。",
+    "fridge": "果肉を皮から外し、密閉容器に入れて4℃以下で2〜4日ほど。密閉は本当に必要で、そうしないと香りが庫内全体、バターにまで移ります。この範囲は、同じく柔らかく熟成の速い熱帯果実であるチェリモヤの扱いを借りたもので、マラン固有の公表値ではありません。",
+    "freezer": "まるごとではなく果肉を−18℃で3〜6か月ほど。これも妥当な目安であって公的な数字ではありません。種を除いて二重の袋に平らに入れ、空気を抜きます。冷凍マランは半解凍でソフトクリームのように食べるのが一般的で、熱帯以外ではむしろこれが最良の食べ方かもしれません。",
+    "thawing": "果肉は冷凍庫から出して半解凍で食べるか、凍ったままミキサーへ。完全に解凍するとだれて水っぽくなります。",
+    "spoilage": [
+      "本来の濃い甘い香りに加えてアルコール臭・酸臭",
+      "果肉がクリーム色ではなく灰色、だれている、水っぽい",
+      "皮がつぶれて液が出ている",
+      "切り口や芯まわりのカビ"
+    ],
+    "tips": [
+      "食べどきは香りでわかります（見逃しません）",
+      "包丁ではなく手で割る（皮は中央から裂けます）",
+      "先に手に油を塗る（皮から粘る乳液が出ます）",
+      "冷蔵・冷凍するものは二重に包む"
+    ],
+    "faq": [
+      {"q": "マランはどのくらい持ちますか？", "a": "丸ごと常温で1〜3日、果肉を密閉容器で冷蔵して2〜4日ほどです。"},
+      {"q": "マランは冷凍できますか？", "a": "できます。種を除いた果肉を二重の袋で3〜6か月。半解凍でアイスのように食べます。"},
+      {"q": "ジャックフルーツとの違いは？", "a": "小ぶりでずっと柔らかく甘く、香りが非常に強く、皮は手で割れます。そして傷むのがかなり早いです。"}
+    ]
+  },
+  "es": {
+    "name": "Marang",
+    "aliases": ["terap", "madang", "yaca de Borneo", "Artocarpus odoratissimus"],
+    "summary": "El marang es un pariente blando y muy aromático de la yaca, de Borneo y el sur de Filipinas, que se abre con las manos para descubrir gajos blancos y cremosos. Madura y hay que comerlo rápido: 1 a 3 días entero a temperatura ambiente, 2 a 4 días los gajos en la nevera y 3 a 6 meses congelado.",
+    "pantry": "El marang madura deprisa y se come en uno o dos días desde que la corteza se ablanda; el olor te lo dice mucho antes de tocarlo. Cuenta con 1 a 3 días a temperatura ambiente y déjalo en un sitio ventilado, porque un marang maduro llena una habitación cerrada. En cuanto la corteza espinosa cede al pulgar, ábrelo ese mismo día: un día de más no lo suaviza, lo fermenta.",
+    "fridge": "Separa los gajos de la corteza y ciérralos en un recipiente a 4 °C (40 °F) o menos, de 2 a 4 días. El recipiente cerrado es realmente necesario: de lo contrario el aroma se reparte por toda la nevera y llega a la mantequilla. Este rango es un límite tomado del manejo de la chirimoya, una fruta igual de blanda y de maduración rápida, no una cifra publicada para el marang.",
+    "freezer": "Congela los gajos, no la fruta entera, unos 3 a 6 meses a −18 °C (0 °F), de nuevo un rango sensato y no oficial. Quítales las semillas, envásalos planos en doble bolsa y saca el aire. El marang congelado se come medio descongelado, como un helado soft, que fuera del trópico es posiblemente su mejor forma.",
+    "thawing": "Come los gajos medio descongelados recién sacados, o bátelos congelados. La pulpa totalmente descongelada queda floja y acuosa.",
+    "spoilage": [
+      "Nota alcohólica o agria por encima de su dulzor intenso habitual",
+      "Gajos grisáceos, flácidos o acuosos en vez de blancos y cremosos",
+      "Corteza hundida que rezuma líquido",
+      "Moho en la cara cortada o alrededor del corazón"
+    ],
+    "tips": [
+      "Deja que el olor te indique el punto: no te pasará desapercibido",
+      "Ábrelo con las manos, no con cuchillo: la corteza se raja por el centro",
+      "Aceita las manos antes: la corteza suelta látex pegajoso",
+      "Usa doble bolsa para lo que refrigeres o congeles"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el marang?", "a": "Unos 1 a 3 días entero a temperatura ambiente y 2 a 4 días los gajos en recipiente cerrado en la nevera."},
+      {"q": "¿Se puede congelar el marang?", "a": "Sí: gajos sin semilla en doble bolsa, unos 3 a 6 meses. Cómelos medio descongelados, como helado."},
+      {"q": "¿En qué se diferencia de la yaca?", "a": "Es más pequeño, mucho más blando, dulce y aromático, se abre con las manos y se estropea bastante antes."}
+    ]
+  }
+}

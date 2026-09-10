@@ -1,0 +1,107 @@
+{
+  "slug": "white-sapote",
+  "en": {
+    "name": "White sapote",
+    "aliases": ["casimiroa", "zapote blanco", "matasano", "Mexican apple"],
+    "summary": "The white sapote is a soft-skinned green fruit with creamy, custard-like flesh that tastes of banana, peach and vanilla. It is highly perishable: 2 to 4 days at room temperature and about 5 to 10 days refrigerated, and it needs cooling as soon as possible after picking.",
+    "pantry": "White sapote is described as highly perishable and soft-skinned, and each fruit needs padding or it bruises — the skin marks under its own weight if you stack it. Reckon on 2 to 4 days at room temperature in a single padded layer, out of the sun. A ripe fruit gives all over like a ripe avocado and the skin dulls from bright green to yellow-green; at that point eat it within a day.",
+    "fridge": "Chill it in the field or as soon as possible after harvest — that instruction is the single most useful thing to know about this fruit, because a white sapote that spent a warm afternoon in a crate has already used up much of its life. Refrigerated at 4 °C (40 °F) or below it keeps about 5 to 10 days, a working limit borrowed from sapote handling since the source gives handling rules but no keeping time. Cushion the fruit in the fridge too, rather than piling it in a drawer.",
+    "freezer": "No source gives a freezer timeline for white sapote. In practice the scooped, deseeded pulp freezes acceptably for smoothies and ice cream, as with other soft custard-fleshed fruit, but the flesh will not hold its texture and any duration you use is your own judgement rather than guidance. Squeeze a little lime into the pulp before freezing to slow the browning.",
+    "thawing": "If you have frozen the pulp, blend it straight from the freezer or thaw a portion in the fridge and use it the same day.",
+    "spoilage": [
+      "Brown, soft, sunken bruises spreading across the skin",
+      "Flesh gone brown, grey or watery instead of creamy white",
+      "Fermented or alcoholic smell",
+      "Mould at the stem end or in a split in the thin skin"
+    ],
+    "tips": [
+      "Pad every fruit; the skin bruises under the weight of the fruit above",
+      "Buy fruit that has been kept cold, not sitting warm on a stall",
+      "Do not eat the seeds, and remove them before blending",
+      "Eat it within a day of the skin turning yellow-green and going soft"
+    ],
+    "faq": [
+      {"q": "How long does white sapote last?", "a": "About 2 to 4 days at room temperature and 5 to 10 days refrigerated. It should be chilled as soon as possible after picking."},
+      {"q": "How do you know when white sapote is ripe?", "a": "It gives all over like a ripe avocado and the skin dulls from bright green to yellow-green. Eat it within a day of that point."},
+      {"q": "Can you freeze white sapote?", "a": "No source gives a timeline. The deseeded pulp freezes acceptably for smoothies, but the texture changes and the duration is your own judgement."}
+    ]
+  },
+  "zh": {
+    "name": "白柿",
+    "aliases": ["白肉果", "墨西哥蘋果", "casimiroa", "白色沙波果"],
+    "summary": "白柿是果皮柔軟的綠色水果，果肉綿密像卡士達，吃起來像香蕉、水蜜桃和香草的綜合。它非常不耐放：室溫 2 到 4 天，冷藏約 5 到 10 天，而且採收後要盡快降溫。",
+    "pantry": "白柿被形容為極不耐放、果皮柔軟，每一顆都需要墊軟，否則就會碰傷——只要疊起來，它就會被自己的重量壓出痕跡。室溫請以 2 到 4 天為準，單層墊軟、避開日曬。熟果整顆按下去會凹，像熟酪梨一樣，果皮也會從鮮綠轉為黃綠並失去光澤；到那個時候，一天內要吃掉。",
+    "fridge": "在產地或採收後盡快降溫——這是關於這種水果最有用的一句話，因為一顆在紙箱裡曬過一個溫熱午後的白柿，壽命早就用掉一大半了。放 4°C 以下大約可放 5 到 10 天；這是借用 sapote 類水果的使用上限，因為資料來源只給了處理原則，沒有給保存時間。在冰箱裡也要墊軟，不要整堆丟進蔬果室。",
+    "freezer": "沒有任何來源提供白柿的冷凍期限。實務上，挖出來去籽的果肉可以冷凍拿來打果昔和做冰淇淋，和其他卡士達質地的軟質水果一樣，但果肉的質地保不住，而且你採用的任何期限都是自己的判斷，不是任何建議。冷凍前擠一點萊姆汁進果肉，可以減緩褐化。",
+    "thawing": "如果冷凍了果肉，就直接冷凍狀態下去打，或取一份放冷藏解凍並當天用完。",
+    "spoilage": [
+      "果皮上出現褐色、軟塌、凹陷的撞傷並擴散",
+      "果肉不再是乳白色，而是轉褐、發灰或變得水水的",
+      "有發酵味或酒味",
+      "蒂頭或薄薄果皮的裂縫處長黴"
+    ],
+    "tips": [
+      "每一顆都要墊軟，上面果實的重量就足以壓傷果皮",
+      "挑一路保持低溫的，不要挑在攤位上曬溫的",
+      "種子不要吃，打果昔前一定要挑掉",
+      "果皮轉黃綠並變軟之後，一天內吃掉"
+    ],
+    "faq": [
+      {"q": "白柿可以放多久？", "a": "室溫約 2 到 4 天，冷藏 5 到 10 天。採收後應該盡快降溫。"},
+      {"q": "白柿怎麼看熟了沒？", "a": "整顆像熟酪梨一樣按下去會凹，果皮也從鮮綠轉為黃綠並失去光澤。到那時候一天內吃掉。"},
+      {"q": "白柿可以冷凍嗎？", "a": "沒有來源給出期限。去籽果肉冷凍拿來打果昔還可以，但質地會變，期限請當成自己的判斷。"}
+    ]
+  },
+  "ja": {
+    "name": "ホワイトサポテ",
+    "aliases": ["カシミロア", "白サポテ", "メキシカンアップル", "zapote blanco"],
+    "summary": "ホワイトサポテは皮のやわらかい緑色の果実で、クリーミーでカスタードのような果肉はバナナと桃とバニラを合わせたような味わいです。非常に傷みやすく、常温で2〜4日、冷蔵で5〜10日ほど。収穫後はできるだけ早く冷やす必要があります。",
+    "pantry": "ホワイトサポテは「非常に傷みやすく皮がやわらかい」と評され、一つずつ緩衝材を当てないと傷みます。積むだけで上の実の重みが皮に跡を残します。常温では2〜4日を目安に、緩衝材を敷いた一段で日光を避けて置いてください。熟すと熟したアボカドのように全体がへこみ、皮が鮮やかな緑から黄緑にくすみます。そうなったら1日以内に食べましょう。",
+    "fridge": "畑で、あるいは収穫後できるだけ早く冷やすこと。これがこの果実についていちばん役立つ一文です。暖かい午後を箱の中で過ごしたホワイトサポテは、すでに寿命の大半を使い切っています。4℃以下なら5〜10日ほど持ちます。これは、出典が扱い方のルールは示しつつ保存期間を示していないため、サポテ類の扱いを借りた目安です。冷蔵庫の中でも積まずに緩衝材を当ててください。",
+    "freezer": "ホワイトサポテの冷凍期間を示す出典はありません。実際には、ほかのカスタード質の柔らかい果実と同様、すくって種を除いた果肉はスムージーやアイス用にそれなりに凍ります。ただし食感は保てず、使う期間は助言ではなく自己判断です。冷凍前にライム果汁を少し加えると褐変を抑えられます。",
+    "thawing": "果肉を冷凍した場合は、凍ったままミキサーにかけるか、1回分を冷蔵庫で解凍してその日のうちに使ってください。",
+    "spoilage": [
+      "皮に広がる茶色く軟らかいへこんだ打ち身",
+      "果肉がクリーム色ではなく茶色い、灰色っぽい、水っぽい",
+      "発酵臭・アルコール臭",
+      "ヘタや薄い皮の裂け目のカビ"
+    ],
+    "tips": [
+      "一つずつ緩衝材を当てる（上の実の重みで傷みます）",
+      "常温の店頭ではなく、冷やされて流通したものを選ぶ",
+      "種は食べず、撹拌前に必ず取り除く",
+      "皮が黄緑になって軟らかくなったら1日以内に食べる"
+    ],
+    "faq": [
+      {"q": "ホワイトサポテはどのくらい持ちますか？", "a": "常温で2〜4日、冷蔵で5〜10日ほどです。収穫後はできるだけ早く冷やしてください。"},
+      {"q": "食べごろの見分け方は？", "a": "熟したアボカドのように全体がへこみ、皮が鮮緑から黄緑にくすんだときです。そこから1日以内に。"},
+      {"q": "冷凍できますか？", "a": "期間を示す出典はありません。種を除いた果肉はスムージー用に凍りますが、食感は変わり期間は自己判断です。"}
+    ]
+  },
+  "es": {
+    "name": "Zapote blanco",
+    "aliases": ["casimiroa", "matasano", "white sapote", "manzana mexicana"],
+    "summary": "El zapote blanco es una fruta verde de piel blanda con pulpa cremosa, tipo natillas, que sabe a plátano, melocotón y vainilla. Es muy perecedera: 2 a 4 días a temperatura ambiente y unos 5 a 10 días refrigerada, y necesita enfriarse cuanto antes tras la cosecha.",
+    "pantry": "El zapote blanco se describe como muy perecedero y de piel blanda, y cada fruta necesita acolchado o se magulla: apilada, la piel se marca bajo su propio peso. Cuenta con 2 a 4 días a temperatura ambiente en una sola capa acolchada y lejos del sol. La fruta madura cede en toda su superficie como un aguacate y la piel pasa de verde intenso a verde amarillento; en ese punto cómela en un día.",
+    "fridge": "Enfríala en el campo o lo antes posible tras la cosecha: esa indicación es lo más útil que se puede saber de esta fruta, porque un zapote blanco que ha pasado una tarde templada en una caja ya ha gastado buena parte de su vida. Refrigerada a 4 °C (40 °F) o menos aguanta unos 5 a 10 días, un límite tomado del manejo del zapote, ya que la fuente da reglas de manipulación pero ningún plazo. Acolcha también la fruta dentro de la nevera en lugar de amontonarla.",
+    "freezer": "Ninguna fuente da un plazo de congelación para el zapote blanco. En la práctica la pulpa sin semillas se congela de forma aceptable para batidos y helados, como en otras frutas de pulpa cremosa, pero la textura no se mantiene y cualquier duración es criterio propio, no una recomendación. Añade un poco de lima a la pulpa antes de congelarla para frenar el pardeamiento.",
+    "thawing": "Si has congelado la pulpa, bátela directamente congelada o descongela una ración en la nevera y úsala el mismo día.",
+    "spoilage": [
+      "Golpes pardos, blandos y hundidos que se extienden por la piel",
+      "Pulpa parda, grisácea o acuosa en lugar de blanca y cremosa",
+      "Olor fermentado o alcohólico",
+      "Moho en el pedúnculo o en una grieta de la piel fina"
+    ],
+    "tips": [
+      "Acolcha cada fruta: la piel se magulla con el peso de la de encima",
+      "Compra fruta que se haya mantenido fría, no templada en el puesto",
+      "No comas las semillas y retíralas antes de triturar",
+      "Cómela en un día desde que la piel vira a verde amarillento y se ablanda"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el zapote blanco?", "a": "Unos 2 a 4 días a temperatura ambiente y 5 a 10 días refrigerado. Debe enfriarse lo antes posible tras la cosecha."},
+      {"q": "¿Cómo se sabe si está maduro?", "a": "Cede en toda su superficie como un aguacate maduro y la piel pasa de verde intenso a verde amarillento. Cómelo en un día."},
+      {"q": "¿Se puede congelar?", "a": "Ninguna fuente da plazo. La pulpa sin semillas se congela aceptablemente para batidos, pero cambia la textura y la duración es criterio propio."}
+    ]
+  }
+}

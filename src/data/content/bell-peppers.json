@@ -1,0 +1,107 @@
+{
+  "slug": "bell-peppers",
+  "en": {
+    "name": "Bell peppers",
+    "aliases": ["capsicum", "sweet pepper", "pimiento", "paprika pepper"],
+    "summary": "Bell peppers are the sweet, non-spicy capsicums sold green, red, yellow and orange — the colours are ripeness stages, not varieties. Refrigerated they keep about 4 to 14 days from purchase, and sliced peppers freeze for 6 to 8 months.",
+    "pantry": "Peppers can sit on the counter for a day or two but they lose water quickly, and the walls go soft and wrinkled well before anything actually spoils. Green peppers, picked less ripe, hold out slightly longer than fully coloured red and yellow ones, which are further along and softer to begin with. If you are not eating them today, the fridge is a much better bet.",
+    "fridge": "Store them whole and unwashed in the crisper at 4 °C (40 °F) or below, where they keep about 4 to 14 days from purchase — the wide range reflects how ripe they were when you bought them. A loose bag helps them keep their moisture without sweating. Cut peppers should go into an airtight container and be eaten within about 3 days, and any pepper with a soft spot should be trimmed and used first.",
+    "freezer": "Bell peppers are one of the few vegetables that do not need blanching, because they are eaten soft in cooked dishes anyway. Deseed them, slice or dice them and freeze them spread on a lined tray, then bag them for 6 to 8 months at −18 °C (0 °F). Frozen peppers go straight into stews, sauces, fajitas and stir-fries; they will not be crisp again, so do not plan on salads.",
+    "thawing": "Cook them straight from frozen. Thawing first only makes them watery, and they release liquid into the pan either way, so give them a hot pan and a little space.",
+    "spoilage": [
+      "Soft, wet, sunken patches, often starting where the pepper was bruised",
+      "Wrinkled, deflated walls with a hollow feel",
+      "Mould around the stem or on the seed core inside",
+      "Slimy interior or a sour smell when cut"
+    ],
+    "tips": [
+      "Buy peppers that feel heavy and firm with taut, glossy skin",
+      "Store them whole; a cut pepper loses moisture from the cut face",
+      "Check inside the stem end, where mould starts unseen",
+      "Slice and freeze without blanching when you have a glut"
+    ],
+    "faq": [
+      {"q": "How long do bell peppers last in the fridge?", "a": "About 4 to 14 days from purchase at 4 °C (40 °F) or below. Green peppers usually last longer than fully coloured ones."},
+      {"q": "Can you freeze bell peppers without blanching?", "a": "Yes. Peppers are one of the few vegetables that freeze acceptably raw — deseed, slice and freeze for 6 to 8 months."},
+      {"q": "Are green and red peppers different vegetables?", "a": "No. They are the same fruit at different stages of ripeness, which is why red ones are sweeter and softer and keep a little less well."}
+    ]
+  },
+  "zh": {
+    "name": "甜椒",
+    "aliases": ["彩椒", "青椒", "燈籠椒", "柿子椒"],
+    "summary": "甜椒就是不辣的辣椒屬果實，有綠色、紅色、黃色和橙色——那些顏色代表的是成熟階段，不是不同品種。冷藏從購買日起約可放 4 到 14 天；切好的甜椒冷凍 6 到 8 個月。",
+    "pantry": "甜椒放在室溫一兩天沒問題，但它失水很快，果壁在真正壞掉之前就會先變軟起皺。青椒因為採收時比較不熟，會比全紅、全黃的撐得久一點，那些顏色深的本來就走得更遠、質地也更軟。如果不是今天要吃，冰箱是好得多的選擇。",
+    "fridge": "整顆不要洗，放 4°C 以下的蔬果室，從購買日起約可放 4 到 14 天——範圍拉這麼開，反映的是你買的時候它已經多熟。用鬆鬆的袋子裝可以保住水分又不悶。切開的甜椒要裝密封盒、約 3 天內吃完；有軟斑的那顆先削掉軟的部分並優先用掉。",
+    "freezer": "甜椒是少數不需要汆燙就能冷凍的蔬菜，因為它在熟食裡本來就是軟的。去籽、切片或切丁，攤在墊紙的托盤上冷凍再裝袋，−18°C 下 6 到 8 個月。冷凍甜椒可以直接下燉菜、醬汁、法士達和快炒；它不會再變脆，所以不要拿來做沙拉。",
+    "thawing": "直接冷凍下鍋。先解凍只會讓它更水，反正下鍋後都會出水，所以請用夠熱的鍋、也給它一點空間。",
+    "spoilage": [
+      "出現軟塌、濕潤、凹陷的斑塊，常從撞傷的地方開始",
+      "果壁皺縮、消風，摸起來空空的",
+      "蒂頭周圍或裡面的籽囊長黴",
+      "切開後內部黏滑，或聞到酸味"
+    ],
+    "tips": [
+      "挑拿起來沉、結實、表皮緊繃有光澤的",
+      "整顆保存；切開的甜椒會從切面一直失水",
+      "檢查蒂頭內側，黴常常從那裡開始而看不見",
+      "量太多的話，不用汆燙，切好直接冷凍"
+    ],
+    "faq": [
+      {"q": "甜椒放冰箱可以放多久？", "a": "從購買日起約 4 到 14 天，放 4°C 以下。青椒通常比全彩色的更耐放。"},
+      {"q": "甜椒可以不汆燙就冷凍嗎？", "a": "可以。甜椒是少數生凍效果就不錯的蔬菜——去籽切片後冷凍 6 到 8 個月。"},
+      {"q": "青椒和紅椒是不同的蔬菜嗎？", "a": "不是。它們是同一種果實在不同成熟階段，所以紅的比較甜、比較軟，也稍微不耐放。"}
+    ]
+  },
+  "ja": {
+    "name": "パプリカ・ピーマン",
+    "aliases": ["ピーマン", "パプリカ", "甘とうがらし", "カラーピーマン"],
+    "summary": "パプリカやピーマンは辛みのないトウガラシ属の果実で、緑・赤・黄・オレンジがありますが、この色の違いは品種ではなく熟度の段階です。冷蔵なら購入日から約4〜14日、カットしたものは冷凍で6〜8か月です。",
+    "pantry": "常温に1〜2日置くくらいなら問題ありませんが、水分が抜けるのが早く、傷む前に果肉の壁が軟らかくしわしわになります。緑のピーマンは熟度が浅いぶん、完全に色づいた赤や黄より少し長持ちします。色の濃いものはもともと熟が進み、質感も軟らかいからです。その日に食べないなら、冷蔵庫のほうがはるかに確実です。",
+    "fridge": "洗わずに丸ごと、4℃以下の野菜室で保存すれば購入日から4〜14日ほど持ちます。幅が広いのは、買った時点の熟度の差を反映しているからです。ゆるく袋に入れると、蒸れずに水分を保てます。切ったものは密閉容器に入れて約3日以内に。軟らかい部分があるものは、そこを切り落として先に使いましょう。",
+    "freezer": "パプリカ類は下ゆでなしで冷凍できる数少ない野菜のひとつです。加熱料理ではどのみち軟らかく食べるからです。種を取り、スライスか角切りにして紙を敷いたトレーで凍らせ、袋へ移して−18℃で6〜8か月。凍ったまま煮込みやソース、ファヒータ、炒め物に使えます。もうシャキッとはしないので、サラダ用には向きません。",
+    "thawing": "凍ったまま調理します。先に解凍しても水っぽくなるだけで、どちらにせよ鍋の中で水分が出るので、しっかり熱したフライパンで、詰め込みすぎずに焼いてください。",
+    "spoilage": [
+      "軟らかく濡れてへこんだ部分（打ち身のあった場所から出やすい）",
+      "壁がしぼんでしわが寄り、持つと空洞のよう",
+      "ヘタまわりや内部の種の芯のカビ",
+      "切ったときに内部がぬめる、酸臭がする"
+    ],
+    "tips": [
+      "ずっしり重く張りがあり、皮につやのあるものを選ぶ",
+      "丸ごと保存する（切り口から水分が抜けます）",
+      "ヘタの内側を確認する（見えないところでカビが始まります）",
+      "多いときは下ゆでせずに切って冷凍する"
+    ],
+    "faq": [
+      {"q": "パプリカは冷蔵庫でどのくらい持ちますか？", "a": "購入日から約4〜14日、4℃以下で。緑のピーマンのほうが完熟色のものより長持ちします。"},
+      {"q": "下ゆでなしで冷凍できますか？", "a": "できます。生のまま凍らせても使える数少ない野菜で、種を取って切り、6〜8か月冷凍できます。"},
+      {"q": "ピーマンとパプリカは別の野菜ですか？", "a": "同じ果実の熟度違いです。だから赤いほうが甘く軟らかく、日持ちはやや短くなります。"}
+    ]
+  },
+  "es": {
+    "name": "Pimientos",
+    "aliases": ["pimiento morrón", "ají dulce", "chile dulce", "pimentón"],
+    "summary": "Los pimientos son los capsicums dulces y sin picante que se venden verdes, rojos, amarillos y naranjas: los colores son fases de maduración, no variedades. Refrigerados aguantan unos 4 a 14 días desde la compra, y en tiras se congelan de 6 a 8 meses.",
+    "pantry": "Los pimientos pueden estar un día o dos en la encimera, pero pierden agua deprisa y las paredes se ablandan y arrugan mucho antes de que se estropeen de verdad. Los verdes, recogidos menos maduros, aguantan algo más que los rojos y amarillos plenamente coloreados, que van más avanzados y ya son más blandos. Si no los vas a comer hoy, la nevera es mucho mejor apuesta.",
+    "fridge": "Guárdalos enteros y sin lavar en el cajón a 4 °C (40 °F) o menos, donde aguantan unos 4 a 14 días desde la compra: el rango amplio refleja lo maduros que estaban al comprarlos. Una bolsa floja les ayuda a retener humedad sin sudar. Los pimientos cortados van en recipiente hermético y se comen en unos 3 días, y cualquier pieza con un punto blando debe recortarse y usarse primero.",
+    "freezer": "Los pimientos son de las pocas verduras que no necesitan escaldado, porque de todos modos se comen blandos en platos cocinados. Quítales las semillas, córtalos en tiras o dados, congélalos extendidos en bandeja forrada y embólsalos: 6 a 8 meses a −18 °C (0 °F). Van congelados directos a guisos, salsas, fajitas y salteados; ya no volverán a estar crujientes, así que no los destines a ensaladas.",
+    "thawing": "Cocínalos directamente congelados. Descongelarlos antes solo los deja acuosos y de todos modos sueltan líquido en la sartén, así que usa una sartén bien caliente y no la llenes demasiado.",
+    "spoilage": [
+      "Zonas blandas, húmedas y hundidas, a menudo desde un golpe previo",
+      "Paredes arrugadas y deshinchadas, con sensación hueca",
+      "Moho alrededor del pedúnculo o en el corazón de semillas",
+      "Interior viscoso u olor agrio al cortarlo"
+    ],
+    "tips": [
+      "Compra pimientos pesados y firmes, de piel tersa y brillante",
+      "Guárdalos enteros: uno cortado pierde humedad por la cara cortada",
+      "Revisa el interior del pedúnculo, donde el moho empieza sin verse",
+      "Corta y congela sin escaldar cuando tengas de sobra"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los pimientos en la nevera?", "a": "Unos 4 a 14 días desde la compra a 4 °C (40 °F) o menos. Los verdes suelen durar más que los plenamente coloreados."},
+      {"q": "¿Se pueden congelar sin escaldar?", "a": "Sí. Son de las pocas verduras que se congelan aceptablemente crudas: sin semillas, en tiras, de 6 a 8 meses."},
+      {"q": "¿El pimiento verde y el rojo son verduras distintas?", "a": "No. Son el mismo fruto en fases distintas de madurez, por eso el rojo es más dulce y blando y se conserva algo peor."}
+    ]
+  }
+}

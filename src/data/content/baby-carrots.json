@@ -1,0 +1,107 @@
+{
+  "slug": "baby-carrots",
+  "en": {
+    "name": "Baby carrots",
+    "aliases": ["carrot sticks", "cut-and-peel carrots", "mini carrots", "zanahorias baby"],
+    "summary": "Baby carrots are mature carrots cut and tumbled smooth, sold wet in sealed bags, and the missing skin is why they do not last like a whole carrot. Kept below 24 °C (75 °F) they hold about 4 days from purchase, refrigerated about 4 weeks, and blanched they freeze for 3 months.",
+    "pantry": "Room-temperature storage is possible only below about 24 °C (75 °F), and even then reckon on 4 days from purchase — a warm kitchen is well outside that. Baby carrots have no protective skin and are packed damp, so at room temperature they go slimy from the bag moisture long before they dry out. If yours have been out in a warm room for an afternoon, refrigerate them and use them soon rather than assuming the four days still apply.",
+    "fridge": "In the fridge at 4 °C (40 °F) or below, baby carrots keep about 4 weeks from purchase. Keep them in their original sealed bag until you open it; afterwards, transfer them to a container of cold water and change the water every couple of days, which stops them drying to a white bloom. That white bloom is dehydration rather than spoilage — the carrots are still fine, just dry.",
+    "freezer": "Blanch before freezing: 2 minutes in boiling water, then straight into iced water, drained and dried. Blanched baby carrots keep 3 months at −18 °C (0 °F). Freezing them raw gives you soft, faded carrots with a stale flavour, because the enzymes keep working in the freezer. Freeze them spread on a tray, then bag them so they stay loose.",
+    "thawing": "Cook them straight from frozen in soups, stews and roasting trays. Thawed baby carrots are too soft for a crudité platter, so do not plan on eating them raw.",
+    "spoilage": [
+      "Slimy surface or a slippery film in the bag",
+      "Sour or fermented smell when the bag is opened",
+      "Soft, bendy carrots rather than snappy ones",
+      "Black or dark green patches, which is decay rather than the white bloom"
+    ],
+    "tips": [
+      "White bloom is just dryness — a quick soak in cold water revives it",
+      "Store opened carrots in cold water and change it every couple of days",
+      "Do not refreeze thawed carrots, which go mushy",
+      "Blanch for 2 minutes before freezing or the flavour goes stale"
+    ],
+    "faq": [
+      {"q": "How long do baby carrots last in the fridge?", "a": "About 4 weeks from purchase at 4 °C (40 °F) or below, sealed or kept in a container of cold water once opened."},
+      {"q": "What is the white coating on baby carrots?", "a": "It is dehydration, not mould. The carrots are still perfectly good; a soak in cold water brings the colour back."},
+      {"q": "Can you freeze baby carrots?", "a": "Yes, but blanch them for 2 minutes first. Blanched, they keep 3 months; frozen raw, they turn soft and stale."}
+    ]
+  },
+  "zh": {
+    "name": "紅蘿蔔條",
+    "aliases": ["baby carrot", "迷你胡蘿蔔", "小紅蘿蔔條", "去皮胡蘿蔔"],
+    "summary": "所謂的 baby carrot 其實是成熟胡蘿蔔切段、滾磨成光滑小條的產品，以濕潤狀態密封裝袋販售，而少了那層皮，正是它不像整根胡蘿蔔那麼耐放的原因。放在 24°C 以下的環境，從購買日起約 4 天；冷藏約 4 週；汆燙後冷凍 3 個月。",
+    "pantry": "只有在約 24°C 以下才談得上常溫保存，而且即使如此，從購買日起也只有 4 天——溫熱的廚房早就超出這個範圍了。它沒有保護性的外皮，又是帶著水分包裝的，所以在室溫下，它會先因為袋內水氣而發黏，遠早於變乾。如果你的紅蘿蔔條在溫暖的房間裡放了一個下午，就冷藏並盡快用掉，不要再假設那四天還算數。",
+    "fridge": "放 4°C 以下的冰箱，從購買日起約可放 4 週。開封前就放在原本的密封袋裡；開封之後，改裝進裝了冷水的容器，每隔一兩天換一次水，這樣就不會乾出一層白霧。那層白霧是脫水而不是腐敗——蘿蔔本身還是好的，只是乾了。",
+    "freezer": "冷凍前一定要汆燙：滾水 2 分鐘，立刻冰鎮，瀝乾擦乾。汆燙過的紅蘿蔔條在 −18°C 下可放 3 個月。生凍的話會得到軟趴趴、褪色又有陳味的蘿蔔，因為酵素在冷凍庫裡還在繼續作用。請攤在托盤上冷凍再裝袋，這樣才不會黏成一塊。",
+    "thawing": "煮湯、燉菜和爐烤時直接冷凍下鍋。解凍後的紅蘿蔔條太軟，做不了生菜棒拼盤，所以不要指望生吃。",
+    "spoilage": [
+      "表面黏滑，或袋子裡有一層滑滑的液膜",
+      "打開袋子時聞到酸味或發酵味",
+      "蘿蔔條變軟可彎，而不是一折就斷",
+      "出現黑色或深綠色的斑塊，那是腐敗，和白霧不一樣"
+    ],
+    "tips": [
+      "白霧只是乾燥，泡一下冷水就會恢復",
+      "開封後改裝冷水裡保存，每一兩天換水",
+      "解凍過的不要回凍，會變得軟爛",
+      "冷凍前務必汆燙 2 分鐘，否則風味會走味"
+    ],
+    "faq": [
+      {"q": "紅蘿蔔條放冰箱可以放多久？", "a": "從購買日起約 4 週，放 4°C 以下，未開封就保持密封，開封後泡在冷水容器裡。"},
+      {"q": "紅蘿蔔條表面的白霧是什麼？", "a": "那是脫水不是黴。蘿蔔本身還是好的，泡一下冷水顏色就會回來。"},
+      {"q": "紅蘿蔔條可以冷凍嗎？", "a": "可以，但要先汆燙 2 分鐘。汆燙過可放 3 個月；生凍會變軟又有陳味。"}
+    ]
+  },
+  "ja": {
+    "name": "ベビーキャロット",
+    "aliases": ["ミニにんじん", "カットにんじん", "スティックにんじん", "baby carrot"],
+    "summary": "ベビーキャロットは成熟したにんじんを切って表面を丸く磨いた製品で、水分を含んだまま密封袋で売られます。皮がないことが、丸ごとのにんじんほど日持ちしない理由です。24℃以下なら購入日から約4日、冷蔵で約4週間、下ゆですれば冷凍で3か月です。",
+    "pantry": "常温保存が成り立つのは約24℃以下のときだけで、それでも購入日から4日が目安です。暖かい台所はこの範囲を大きく外れます。守る皮がなく湿った状態で包装されているため、常温では乾くよりも先に袋の水分でぬめってきます。暖かい部屋に半日置いてしまったら、4日という数字は当てにせず、冷蔵して早めに使い切ってください。",
+    "fridge": "4℃以下の冷蔵庫で、購入日から約4週間持ちます。開封するまでは元の密封袋のままで。開封後は冷水を張った容器に移し、水を1〜2日ごとに取り替えると、白く粉をふいたようになるのを防げます。あの白い膜は腐敗ではなく乾燥で、にんじん自体はまだ問題ありません。",
+    "freezer": "冷凍前に必ず下ゆでを。熱湯で2分ゆで、すぐ氷水に取り、水気を切ってよく拭きます。下ゆでしたベビーキャロットは−18℃で3か月持ちます。生のまま凍らせると、冷凍庫内でも酵素が働き続けるため、軟らかく色あせて古びた風味になります。トレーに広げて凍らせてから袋へ移すとばらけたまま使えます。",
+    "thawing": "スープや煮込み、オーブン料理には凍ったまま使います。解凍したベビーキャロットは生野菜スティックには柔らかすぎるので、生食は想定しないでください。",
+    "spoilage": [
+      "表面のぬめり、袋の中の滑る液膜",
+      "袋を開けたときの酸臭・発酵臭",
+      "ぱきっと折れず、軟らかく曲がる",
+      "黒や濃い緑の斑（白い粉とは別で、これは腐敗です）"
+    ],
+    "tips": [
+      "白い粉は乾燥だけ。冷水に少し浸せば戻ります",
+      "開封後は冷水に入れて保存し、1〜2日ごとに水を替える",
+      "解凍したものは再冷凍しない（どろっとします）",
+      "冷凍前に必ず2分下ゆでする（風味が落ちます）"
+    ],
+    "faq": [
+      {"q": "ベビーキャロットは冷蔵庫でどのくらい持ちますか？", "a": "購入日から約4週間です。4℃以下で、未開封なら袋のまま、開封後は冷水の容器に入れてください。"},
+      {"q": "表面の白いものは何ですか？", "a": "カビではなく乾燥です。冷水に浸すと色が戻り、品質にも問題ありません。"},
+      {"q": "冷凍できますか？", "a": "できますが、先に2分下ゆでを。下ゆですれば3か月、生のままだと軟らかく古びた風味になります。"}
+    ]
+  },
+  "es": {
+    "name": "Zanahorias baby",
+    "aliases": ["mini zanahorias", "zanahorias en bastón", "baby carrots", "zanahoria pelada"],
+    "summary": "Las zanahorias baby son zanahorias maduras cortadas y pulidas, vendidas húmedas en bolsas cerradas, y esa piel ausente explica por qué no duran como una zanahoria entera. Por debajo de 24 °C (75 °F) aguantan unos 4 días desde la compra, refrigeradas unas 4 semanas, y escaldadas se congelan 3 meses.",
+    "pantry": "El almacenamiento a temperatura ambiente solo es viable por debajo de unos 24 °C (75 °F), y aun así cuenta con 4 días desde la compra; una cocina cálida queda muy fuera de ese rango. No tienen piel protectora y se envasan húmedas, así que a temperatura ambiente se vuelven viscosas por la humedad de la bolsa mucho antes de secarse. Si las tuyas han pasado una tarde en una habitación cálida, refrigéralas y úsalas pronto en lugar de dar por buenos esos cuatro días.",
+    "fridge": "En la nevera a 4 °C (40 °F) o menos aguantan unas 4 semanas desde la compra. Déjalas en su bolsa cerrada original hasta abrirla; después, pásalas a un recipiente con agua fría y cámbiala cada dos días, lo que evita que se sequen y salga esa capa blanquecina. Ese velo blanco es deshidratación, no deterioro: las zanahorias siguen bien, solo están secas.",
+    "freezer": "Escáldalas antes de congelar: 2 minutos en agua hirviendo, luego a agua helada, escurridas y secas. Escaldadas aguantan 3 meses a −18 °C (0 °F). Congeladas en crudo salen blandas, descoloridas y con sabor rancio, porque las enzimas siguen trabajando en el congelador. Congélalas extendidas en bandeja y luego embólsalas para que queden sueltas.",
+    "thawing": "Cocínalas directamente congeladas en sopas, guisos y bandejas de horno. Descongeladas quedan demasiado blandas para una bandeja de crudités, así que no cuentes con comerlas crudas.",
+    "spoilage": [
+      "Superficie viscosa o película resbaladiza dentro de la bolsa",
+      "Olor agrio o fermentado al abrirla",
+      "Zanahorias blandas y flexibles en lugar de quebradizas",
+      "Manchas negras o verde oscuro, que sí son deterioro, a diferencia del velo blanco"
+    ],
+    "tips": [
+      "El velo blanco es solo sequedad: un baño en agua fría lo revive",
+      "Una vez abiertas, guárdalas en agua fría y cámbiala cada dos días",
+      "No recongeles zanahorias descongeladas: quedan pastosas",
+      "Escalda 2 minutos antes de congelar o el sabor se vuelve rancio"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las zanahorias baby en la nevera?", "a": "Unas 4 semanas desde la compra a 4 °C (40 °F) o menos, cerradas o en un recipiente con agua fría una vez abiertas."},
+      {"q": "¿Qué es la capa blanca que les sale?", "a": "Es deshidratación, no moho. Siguen perfectamente bien; un baño en agua fría les devuelve el color."},
+      {"q": "¿Se pueden congelar?", "a": "Sí, pero escáldalas 2 minutos antes. Escaldadas duran 3 meses; congeladas crudas quedan blandas y con sabor rancio."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "watermelon",
+  "en": {
+    "name": "Watermelon",
+    "aliases": ["seedless watermelon", "sandía", "melancia", "icebox melon"],
+    "summary": "Watermelon is over 90 per cent water and does not ripen further after picking, so what you buy is what you get. From purchase a whole melon keeps 1 to 2 days on the counter or until ripe, and 3 to 4 days in the fridge, while cubed flesh freezes for 12 months.",
+    "pantry": "A whole, uncut watermelon keeps 1 to 2 days at room temperature from the day you buy it, or until it is ripe. Look for a creamy yellow field spot where it sat on the ground, a dull rather than shiny rind, and a deep hollow sound when tapped. Once you cut it, room temperature is finished: cut melon is a well-documented vehicle for bacteria, so refrigerate within 2 hours, or 1 hour above 32 °C (90 °F), and scrub the rind before the knife goes in.",
+    "fridge": "A whole melon keeps only about 3 to 4 days in the fridge from purchase, so it is not a long-term store. Cut watermelon goes into an airtight container at 4 °C (40 °F) or below and should be eaten within about 3 days; cut faces left uncovered dry out and pick up fridge smells. If the melon is too big for the fridge whole, cube it rather than leaving half of it out on the counter.",
+    "freezer": "Cubed watermelon keeps 12 months at −18 °C (0 °F), although the very high water content means it thaws into something closer to juice than fruit. Freeze the cubes in a single layer on a lined tray and bag them once solid; they are excellent blended into agua fresca, granita and slushies straight from frozen. Frozen fruit stays safe indefinitely; the year is a quality figure.",
+    "thawing": "Blend it from frozen, which is the main use. Half-thawed cubes are pleasant to eat on a hot day, but fully thawed watermelon collapses into liquid.",
+    "spoilage": [
+      "Soft, wet or sunken patches on the rind",
+      "Flesh gone dry and grainy, or slimy and separating from the seeds",
+      "Fizzing, sour or fermented smell when cut",
+      "Liquid pooling around the cut faces in the container"
+    ],
+    "tips": [
+      "A creamy yellow field spot means it ripened on the vine",
+      "Scrub the rind before cutting; the knife carries surface bacteria inward",
+      "Refrigerate cut melon within 2 hours and finish it in about 3 days",
+      "Cube and freeze the last of a big melon for drinks"
+    ],
+    "faq": [
+      {"q": "How long does cut watermelon last in the fridge?", "a": "About 3 days in an airtight container at 4 °C (40 °F) or below. A whole melon keeps only 3 to 4 days from purchase."},
+      {"q": "How do you pick a ripe watermelon?", "a": "Look for a creamy yellow field spot, a dull rind and a deep hollow sound when tapped. Watermelon does not ripen further after picking."},
+      {"q": "Can you freeze watermelon?", "a": "Yes, cubed, for 12 months. It thaws almost to juice, so use it for agua fresca, granita and slushies."}
+    ]
+  },
+  "zh": {
+    "name": "西瓜",
+    "aliases": ["無籽西瓜", "小玉西瓜", "大西瓜", "sandía"],
+    "summary": "西瓜有超過九成是水，而且採下後不會再變甜，所以買到什麼樣就是什麼樣。從購買日起，整顆室溫可放 1 到 2 天或放到熟；冷藏 3 到 4 天；切塊果肉冷凍 12 個月。",
+    "pantry": "整顆沒切開的西瓜從購買日起在室溫可放 1 到 2 天，或放到熟為止。挑的時候看貼地那面有沒有奶油黃色的「著地斑」、外皮是霧面而不是亮面，拍起來要有低沉的空心聲。一旦切開，常溫就結束了：切開的西瓜是有充分紀錄的細菌溫床，所以要在 2 小時內冷藏，氣溫超過 32°C 時縮短到 1 小時；而且下刀之前先把外皮刷洗乾淨。",
+    "fridge": "整顆從購買日起只放得住約 3 到 4 天，所以它不是可以久放的東西。切開的西瓜要裝密封盒放 4°C 以下，約 3 天內吃完；切面沒蓋好會變乾，還會吸到冰箱的味道。如果整顆放不進冰箱，就切塊，不要把剩下的半顆留在流理台上。",
+    "freezer": "切塊的西瓜在 −18°C 下可放 12 個月，只是含水量極高，解凍後比較接近果汁而不是水果。先鋪在墊紙的托盤上單層冷凍，凍硬後裝袋；直接冷凍狀態打成水果水、冰沙或思樂冰都非常好。只要維持凍結就是安全的，一年是品質數字。",
+    "thawing": "直接用冷凍狀態打，這也是主要用途。半解凍的瓜塊在大熱天很好吃，但完全解凍的西瓜會化成一灘水。",
+    "spoilage": [
+      "外皮出現軟塌、濕潤或凹陷的斑塊",
+      "果肉變得乾而粗糙，或黏滑並從籽的周圍鬆散開來",
+      "切開時有氣泡感、酸味或發酵味",
+      "容器裡切面周圍積水"
+    ],
+    "tips": [
+      "著地斑呈奶油黃，代表它是在藤上熟的",
+      "切之前刷洗外皮，刀子會把表面的細菌帶進果肉",
+      "切開的瓜 2 小時內冷藏，約 3 天內吃完",
+      "大顆吃不完就切塊冷凍，之後打飲料"
+    ],
+    "faq": [
+      {"q": "切開的西瓜放冰箱可以放多久？", "a": "裝密封盒放 4°C 以下約 3 天。整顆從購買日起也只有 3 到 4 天。"},
+      {"q": "怎麼挑熟的西瓜？", "a": "看著地斑是不是奶油黃、外皮是不是霧面、拍起來有沒有低沉的空心聲。西瓜採下後不會再變甜。"},
+      {"q": "西瓜可以冷凍嗎？", "a": "可以，切塊冷凍 12 個月。解凍後幾乎變成汁，適合做水果水、冰沙和思樂冰。"}
+    ]
+  },
+  "ja": {
+    "name": "すいか",
+    "aliases": ["西瓜", "スイカ", "小玉すいか", "種なしすいか"],
+    "summary": "すいかは9割以上が水分で、収穫後は甘くなりません。つまり買った状態がそのまま味です。購入日から丸ごと常温で1〜2日（熟すまで）、冷蔵で3〜4日、角切りの果肉は冷凍で12か月です。",
+    "pantry": "丸ごと切っていないすいかは購入日から常温で1〜2日、または熟すまで置けます。選ぶときは、地面に接していた部分がクリーム色（地色斑）になっているか、皮がつやよりマットか、たたくと低く響くかを見てください。切ったら常温は終わりです。カットすいかは細菌が増えやすい食品として広く知られているので、2時間以内（32℃超なら1時間以内）に冷蔵し、包丁を入れる前に皮をこすり洗いしましょう。",
+    "fridge": "丸ごとでも購入日から3〜4日ほどしか持たないので、長期保存には向きません。カットしたものは密閉容器で4℃以下に置き、3日ほどで食べきります。切り口を出したままだと乾き、庫内のにおいも吸います。丸ごとが冷蔵庫に入らないなら、半分を台所に置きっぱなしにせず角切りにしてください。",
+    "freezer": "角切りは−18℃で12か月持ちますが、水分が非常に多いため、解凍すると果物というよりジュースに近くなります。紙を敷いたトレーで一段に凍らせ、固まったら袋へ。凍ったままアグアフレスカやグラニテ、シャーベット状の飲み物に撹拌すると絶品です。凍っていれば安全性は保たれ、1年は品質の目安です。",
+    "thawing": "凍ったままミキサーにかけるのが主な使い方です。半解凍の角切りは暑い日に心地よく食べられますが、完全に解凍すると液状に崩れます。",
+    "spoilage": [
+      "皮の軟らかい、濡れた、へこんだ部分",
+      "果肉が乾いてざらつく、またはぬめって種のまわりから崩れる",
+      "切ったときの発泡感、酸臭、発酵臭",
+      "容器の切り口まわりに汁がたまっている"
+    ],
+    "tips": [
+      "地色斑がクリーム色なら、つるの上で完熟したしるし",
+      "切る前に皮をこすり洗い（包丁が細菌を運びます）",
+      "カットしたら2時間以内に冷蔵、3日ほどで食べきる",
+      "大玉で余ったら角切りにして冷凍し、飲み物に"
+    ],
+    "faq": [
+      {"q": "カットすいかは冷蔵庫でどのくらい持ちますか？", "a": "密閉容器で4℃以下なら約3日です。丸ごとでも購入日から3〜4日ほどです。"},
+      {"q": "おいしいすいかの選び方は？", "a": "地色斑がクリーム色、皮がマット、たたくと低く響くもの。収穫後に甘くなることはありません。"},
+      {"q": "冷凍できますか？", "a": "角切りで12か月。解凍するとほぼジュースになるので、アグアフレスカやグラニテ向きです。"}
+    ]
+  },
+  "es": {
+    "name": "Sandía",
+    "aliases": ["patilla", "melancia", "sandía sin pepitas", "watermelon"],
+    "summary": "La sandía es más de un 90 por ciento agua y no sigue madurando tras la cosecha, así que lo que compras es lo que hay. Desde la compra, entera aguanta 1 a 2 días en la encimera o hasta madurar y 3 a 4 días en la nevera, mientras que en dados se congela 12 meses.",
+    "pantry": "Una sandía entera y sin cortar aguanta 1 a 2 días a temperatura ambiente desde la compra, o hasta que esté madura. Busca una mancha de campo amarillo cremoso donde reposó en el suelo, una corteza mate en lugar de brillante y un sonido hueco y profundo al golpearla. Una vez cortada se acabó la encimera: la sandía cortada es un vehículo bien documentado de bacterias, así que refrigérala antes de 2 horas, o 1 hora por encima de 32 °C (90 °F), y frota la corteza antes de meter el cuchillo.",
+    "fridge": "Entera aguanta solo unos 3 a 4 días en la nevera desde la compra, así que no es un almacén a largo plazo. La sandía cortada va en recipiente hermético a 4 °C (40 °F) o menos y conviene comerla en unos 3 días; las caras cortadas al aire se secan y cogen olores. Si la pieza no cabe entera, córtala en dados en lugar de dejar media en la encimera.",
+    "freezer": "En dados aguanta 12 meses a −18 °C (0 °F), aunque su altísimo contenido en agua hace que se descongele en algo más parecido a zumo que a fruta. Congela los dados en una capa sobre bandeja forrada y embólsalos ya duros; están estupendos batidos en agua fresca, granizado y slushies directamente congelados. Congelada es segura indefinidamente; el año es calidad.",
+    "thawing": "Bátela congelada, que es su uso principal. Los dados medio descongelados se comen bien en un día caluroso, pero descongelada del todo se convierte en líquido.",
+    "spoilage": [
+      "Zonas blandas, húmedas o hundidas en la corteza",
+      "Pulpa seca y granulosa, o viscosa y separándose de las semillas",
+      "Efervescencia u olor agrio o fermentado al cortarla",
+      "Líquido acumulado alrededor de las caras cortadas"
+    ],
+    "tips": [
+      "Una mancha de campo amarillo cremoso indica que maduró en la mata",
+      "Frota la corteza antes de cortar: el cuchillo lleva bacterias hacia dentro",
+      "Refrigera la sandía cortada antes de 2 horas y acábala en unos 3 días",
+      "Corta en dados y congela lo que sobre de una pieza grande para bebidas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la sandía cortada en la nevera?", "a": "Unos 3 días en recipiente hermético a 4 °C (40 °F) o menos. Entera aguanta solo 3 a 4 días desde la compra."},
+      {"q": "¿Cómo se elige una sandía madura?", "a": "Mancha de campo amarillo cremoso, corteza mate y sonido hueco y profundo al golpear. No madura más tras la cosecha."},
+      {"q": "¿Se puede congelar la sandía?", "a": "Sí, en dados, 12 meses. Se descongela casi en zumo, así que úsala en agua fresca, granizados y slushies."}
+    ]
+  }
+}

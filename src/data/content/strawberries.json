@@ -1,0 +1,107 @@
+{
+  "slug": "strawberries",
+  "en": {
+    "name": "Strawberries",
+    "aliases": ["strawberry", "garden strawberry", "fresa", "frutilla"],
+    "summary": "Strawberries are picked ripe and never improve afterwards, so the clock starts the moment they leave the field. Refrigerated they keep about 2 to 3 days from purchase, and hulled fruit freezes for 8 to 12 months.",
+    "pantry": "Strawberries do not belong on the counter for more than a few hours. They have no protective skin, so at room temperature they soften and grow grey mould within a day, and a warm car on the way home visibly shortens their life. Refrigerate them as soon as you get in, and leave the green hulls on until you eat — hulling first opens the fruit to water and mould.",
+    "fridge": "Store them unwashed at 4 °C (40 °F) or below and use them within about 2 to 3 days of purchase. Keep them in a vented punnet or spread one or two berries deep on kitchen paper, and pick out any soft or mouldy berry as soon as you get home, because grey mould jumps between touching fruit within hours. Wash them just before eating, and always before hulling, so they do not fill with water.",
+    "freezer": "Strawberries freeze for 8 to 12 months at −18 °C (0 °F). Wash, dry thoroughly, hull them, then freeze in a single layer on a lined tray before bagging so they stay loose. They thaw soft and weeping because of their high water content, so plan on smoothies, jam, sauces and baking rather than fruit salad. Frozen fruit stays safe indefinitely; the months are about quality.",
+    "thawing": "Blend them from frozen for smoothies, or cook them from frozen for jam and sauces. If you thaw them, do so in the fridge and use the juice that runs out.",
+    "spoilage": [
+      "Grey or white fuzzy mould on any berry in the punnet",
+      "Soft, dull, weeping fruit with juice pooling underneath",
+      "Fermented or winey smell",
+      "White or hollow centres with a slimy surface"
+    ],
+    "tips": [
+      "Check the base of the punnet for juice stains before buying",
+      "Leave the hulls on until you have washed the fruit",
+      "Remove one mouldy berry immediately; mould spreads within hours",
+      "Hull and tray-freeze the surplus the same day you buy it"
+    ],
+    "faq": [
+      {"q": "How long do strawberries last in the fridge?", "a": "About 2 to 3 days from purchase at 4 °C (40 °F) or below, unwashed, unhulled and no more than a couple of berries deep."},
+      {"q": "Can you freeze strawberries?", "a": "Yes, hulled, for 8 to 12 months. Tray-freeze them first so they stay loose, and use them for smoothies, jam and baking."},
+      {"q": "Should you wash strawberries before storing them?", "a": "No. Wash them just before eating, and before hulling, so the fruit does not absorb water and mould faster."}
+    ]
+  },
+  "zh": {
+    "name": "草莓",
+    "aliases": ["士多啤梨", "洋莓", "大湖草莓", "strawberry"],
+    "summary": "草莓是熟了才採、採下之後不會再變好的水果，所以離開產地的那一刻就開始倒數。冷藏從購買日起約可放 2 到 3 天，去蒂後冷凍則有 8 到 12 個月。",
+    "pantry": "草莓在室溫最多只能放幾個小時。它沒有保護性的果皮，所以室溫下一天內就會軟化並長灰黴，回家路上放在悶熱的車裡也會明顯縮短它的壽命。一進門就冷藏，而且要吃之前才去蒂——先去蒂等於替水分和黴菌開了門。",
+    "fridge": "不要洗，放 4°C 以下，從購買日起約 2 到 3 天內吃完。用透氣的盒子裝，或墊廚房紙巾鋪一到兩顆高，並在買回來時立刻把軟掉或發黴的挑出來，因為灰黴幾小時內就會在相鄰的果實之間跳過去。要吃之前才洗，而且一定要先洗再去蒂，果實才不會吸滿水。",
+    "freezer": "草莓在 −18°C 下可以冷凍 8 到 12 個月。洗淨、徹底擦乾、去蒂，鋪在墊紙的托盤上單層冷凍再裝袋，顆粒才是散的。因為含水量高，解凍後會軟爛出水，所以請規劃做果昔、果醬、醬汁和烘焙，而不是水果沙拉。只要維持凍結就是安全的，月數講的是品質。",
+    "thawing": "做果昔直接用冷凍的打；做果醬和醬汁直接冷凍下鍋。要解凍就放冷藏，流出來的汁一併使用。",
+    "spoilage": [
+      "盒裡任何一顆長出灰白色絨毛黴",
+      "果實變軟、失去光澤、滲汁，底下積著果汁",
+      "有發酵味或酒味",
+      "中心發白或中空，表面黏滑"
+    ],
+    "tips": [
+      "買之前先看盒底有沒有果汁染色",
+      "洗完之後才去蒂",
+      "發現發黴的立刻挑掉，黴幾小時內就會擴散",
+      "買回來當天就把吃不完的去蒂托盤冷凍"
+    ],
+    "faq": [
+      {"q": "草莓放冰箱可以放多久？", "a": "從購買日起約 2 到 3 天，放 4°C 以下、不要洗、不要去蒂、堆疊不超過兩顆高。"},
+      {"q": "草莓可以冷凍嗎？", "a": "可以，去蒂後 8 到 12 個月。先托盤冷凍才不會黏成一團，之後拿來做果昔、果醬和烘焙。"},
+      {"q": "草莓保存前要洗嗎？", "a": "不要。要吃之前才洗，而且先洗再去蒂，果實才不會吸水、也不會更快發黴。"}
+    ]
+  },
+  "ja": {
+    "name": "いちご",
+    "aliases": ["苺", "ストロベリー", "オランダイチゴ", "とちおとめ"],
+    "summary": "いちごは熟してから収穫され、その後は品質が上がることはありません。つまり畑を離れた瞬間からカウントダウンが始まります。冷蔵なら購入日から約2〜3日、ヘタを取って冷凍すれば8〜12か月です。",
+    "pantry": "いちごを常温に置いていいのはせいぜい数時間です。守る皮がないため、室温では1日で軟らかくなり灰色のカビが出ます。帰り道の暑い車内だけでも日持ちが目に見えて縮みます。帰宅したらすぐ冷蔵し、ヘタは食べる直前まで付けたままに。先にヘタを取ると、そこから水分とカビが入ります。",
+    "fridge": "洗わずに4℃以下で保存し、購入から2〜3日以内に食べきります。通気のある容器か、キッチンペーパーの上に一〜二段で並べ、帰宅時に軟らかい実やカビた実を取り除いてください。灰色かびは触れ合う実の間を数時間で移ります。洗うのは食べる直前、そしてヘタを取る前に。そうしないと実が水を吸います。",
+    "freezer": "いちごは−18℃で8〜12か月冷凍できます。洗って水気をよく拭き、ヘタを取り、紙を敷いたトレーで一段に凍らせてから袋へ移すとばらけたまま使えます。水分が多いため解凍すると柔らかく汁が出るので、フルーツサラダではなくスムージーやジャム、ソース、焼き菓子向けに考えてください。凍っていれば安全性は保たれ、月数は品質の目安です。",
+    "thawing": "スムージーには凍ったまま、ジャムやソースにも凍ったまま加熱します。解凍する場合は冷蔵庫で行い、出た果汁も使いましょう。",
+    "spoilage": [
+      "容器内のどれかに灰色や白の綿状のカビ",
+      "軟らかくつやを失い汁が出て、下に果汁がたまっている",
+      "発酵臭・ワインのようなにおい",
+      "中心が白い、または空洞で表面がぬめる"
+    ],
+    "tips": [
+      "買う前に容器の底の果汁のしみを確認",
+      "ヘタは洗ってから取る",
+      "カビた粒はすぐ取り除く（数時間で広がります）",
+      "食べきれない分は買った日にヘタを取ってトレー冷凍"
+    ],
+    "faq": [
+      {"q": "いちごは冷蔵庫でどのくらい持ちますか？", "a": "購入日から約2〜3日です。4℃以下で洗わず、ヘタを付けたまま、二段を超えないように保存してください。"},
+      {"q": "いちごは冷凍できますか？", "a": "はい、ヘタを取って8〜12か月です。トレーで凍らせてから袋へ。スムージーやジャム、製菓に使いましょう。"},
+      {"q": "保存前に洗ったほうがいいですか？", "a": "いいえ。洗うのは食べる直前、しかもヘタを取る前に。そうしないと水を吸ってカビも早まります。"}
+    ]
+  },
+  "es": {
+    "name": "Fresas",
+    "aliases": ["frutilla", "fresón", "fresa silvestre", "strawberry"],
+    "summary": "Las fresas se recogen maduras y ya no mejoran después, así que el reloj empieza en cuanto salen del campo. Refrigeradas duran unos 2 a 3 días desde la compra, y sin rabito se congelan de 8 a 12 meses.",
+    "pantry": "Las fresas no deben estar en la encimera más de unas horas. No tienen piel protectora, así que a temperatura ambiente se ablandan y crían moho gris en un día, y un coche caliente de vuelta a casa acorta su vida de forma visible. Refrigéralas nada más entrar y deja el rabito verde puesto hasta comerlas: quitarlo antes abre la fruta al agua y al moho.",
+    "fridge": "Guárdalas sin lavar a 4 °C (40 °F) o menos y consúmelas en unos 2 a 3 días desde la compra. Déjalas en tarrina ventilada o extendidas una o dos bayas de altura sobre papel de cocina, y retira cualquier fresa blanda o con moho al llegar a casa, porque el moho gris salta entre frutas en contacto en horas. Lávalas justo antes de comerlas y siempre antes de quitar el rabito, para que no se llenen de agua.",
+    "freezer": "Las fresas se congelan de 8 a 12 meses a −18 °C (0 °F). Lávalas, sécalas bien, quítales el rabito y congélalas en una capa sobre bandeja forrada antes de embolsarlas para que queden sueltas. Se descongelan blandas y soltando jugo por su alto contenido en agua, así que cuenta con batidos, mermelada, salsas y repostería más que con macedonia. Congeladas son seguras indefinidamente; los meses son calidad.",
+    "thawing": "Bátelas congeladas para batidos, o cocínalas congeladas para mermelada y salsas. Si las descongelas, hazlo en la nevera y aprovecha el jugo que suelten.",
+    "spoilage": [
+      "Moho gris o blanco algodonoso en cualquier fresa de la tarrina",
+      "Fruta blanda, mate y que rezuma, con jugo acumulado debajo",
+      "Olor fermentado o avinado",
+      "Centros blancos o huecos con la superficie viscosa"
+    ],
+    "tips": [
+      "Mira la base de la tarrina en busca de manchas de jugo antes de comprar",
+      "Deja el rabito hasta después de lavarlas",
+      "Retira enseguida una fresa con moho: se propaga en horas",
+      "Quita el rabito y congela en bandeja el excedente el mismo día"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las fresas en la nevera?", "a": "Unos 2 a 3 días desde la compra a 4 °C (40 °F) o menos, sin lavar, con rabito y con un par de bayas de altura como mucho."},
+      {"q": "¿Se pueden congelar las fresas?", "a": "Sí, sin rabito, de 8 a 12 meses. Congélalas antes en bandeja y úsalas en batidos, mermelada y repostería."},
+      {"q": "¿Hay que lavarlas antes de guardarlas?", "a": "No. Lávalas justo antes de comerlas, y antes de quitar el rabito, para que no absorban agua ni enmohezcan antes."}
+    ]
+  }
+}

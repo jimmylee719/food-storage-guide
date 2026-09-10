@@ -1,0 +1,107 @@
+{
+  "slug": "pomelo",
+  "en": {
+    "name": "Pomelo",
+    "aliases": ["pummelo", "shaddock", "Chinese grapefruit", "wendan"],
+    "summary": "The pomelo is the largest citrus, with a thick spongy rind protecting firm, mildly sweet segments — the ancestor of the grapefruit. Whole fruit keeps 1 to 2 weeks in a cool ventilated spot and 6 to 8 weeks in the fridge, and segmented flesh should be eaten within a few days.",
+    "pantry": "A whole pomelo keeps very well in a cool, ventilated spot for 1 to 2 weeks, because that thick rind is essentially a padded container. In Taiwan the fruit is traditionally left a few days after harvest before eating, which lets the flesh sweeten and the rind lose a little moisture — a slightly dull, faintly soft-feeling rind is often a better-eating pomelo than a taut, glossy one. Keep it off a sunny windowsill and give it air rather than a bag.",
+    "fridge": "Whole fruit only: refrigerated at 4 °C (40 °F) or below, a pomelo keeps roughly 6 to 8 weeks, which follows the way grapefruit is handled since the source that lists pomelo as a fruit to refrigerate gives no duration. Once you have peeled and segmented it, the flesh is a different proposition — keep it in a sealed container and eat it within a few days, as the segments dry out and pick up fridge odours quickly.",
+    "freezer": "There is no established freezer timeline for pomelo, and the segments do not freeze well: the juice vesicles that give the fruit its texture burst and the flesh turns mushy. What does work is the rind, which is candied across East Asia and freezes well once cooked in syrup, and the juice, frozen in an ice cube tray. Treat any duration as your own planning figure.",
+    "thawing": "Use frozen juice cubes straight from the freezer. Thaw candied peel in the fridge or at room temperature briefly, since it is sugar-stabilised and does not need care.",
+    "spoilage": [
+      "Soft, wet or sunken patches on the rind, usually at the stem end",
+      "Blue-green mould on the rind",
+      "Segments gone dry, papery and juiceless",
+      "Fermented smell or bitter, off-tasting flesh"
+    ],
+    "tips": [
+      "Choose a fruit that feels heavy for its size; that weight is juice",
+      "A slightly softened rind after a few days often means sweeter flesh",
+      "Peel with a knife scored down the rind rather than trying to tear it",
+      "Candy the thick rind instead of throwing it away"
+    ],
+    "faq": [
+      {"q": "How long does a pomelo last?", "a": "One to two weeks whole in a cool ventilated spot and roughly 6 to 8 weeks refrigerated. Peeled segments keep only a few days."},
+      {"q": "Does pomelo need to be refrigerated?", "a": "It is listed among the fruit that should be refrigerated, though a whole fruit is also fine for a week or two in a cool room."},
+      {"q": "Can you freeze pomelo?", "a": "The segments do not freeze well and turn mushy. Freeze the juice in cubes or candy the rind and freeze that instead."}
+    ]
+  },
+  "zh": {
+    "name": "柚子",
+    "aliases": ["文旦", "麻豆文旦", "白柚", "大白柚"],
+    "summary": "柚子是體型最大的柑橘，厚厚的海綿狀外皮包著結實、清甜的果瓣，也是葡萄柚的祖先。整顆在陰涼通風處可放 1 到 2 週，冷藏 6 到 8 週；剝好的果肉則要在幾天內吃完。",
+    "pantry": "整顆柚子放在陰涼通風的地方非常耐放，1 到 2 週沒問題，因為那層厚皮本身就是一個有緩衝的容器。在台灣，傳統上會在採收後放幾天再吃，讓果肉變甜、外皮稍微失一點水——外皮略微失去光澤、按下去有一點軟的柚子，往往比緊繃油亮的那顆好吃。不要放在曬得到太陽的窗台，也讓它透氣而不是裝袋。",
+    "fridge": "只冷藏整顆：放 4°C 以下大約可放 6 到 8 週。這個範圍是比照葡萄柚，因為把柚子列為「應冷藏」的來源並沒有給出期限。剝好、分好瓣之後就完全是另一回事了——請裝密封盒並在幾天內吃完，因為果瓣會很快變乾，也很會吸冰箱的味道。",
+    "freezer": "柚子沒有公認的冷凍期限，而且果瓣並不適合冷凍：構成口感的那些汁胞會脹破，果肉就變成一團糊。真正可行的是外皮——東亞普遍拿來做糖漬柚皮，煮過糖水之後很耐凍——以及果汁，用製冰盒凍成塊。任何期限都請當成自己的規劃數字。",
+    "thawing": "冷凍果汁塊直接使用。糖漬柚皮放冷藏或室溫稍微回溫即可，糖本身就有穩定作用，不需要特別處理。",
+    "spoilage": [
+      "外皮出現軟塌、濕潤或凹陷的斑塊，通常在蒂頭處",
+      "外皮長藍綠色的黴",
+      "果瓣變乾、像紙一樣、榨不出汁",
+      "有發酵味，或果肉吃起來發苦、味道不對"
+    ],
+    "tips": [
+      "挑拿起來比看起來重的，重量就是汁",
+      "放幾天後外皮略軟，往往代表果肉更甜",
+      "用刀在外皮劃幾道再剝，比硬撕省力",
+      "厚厚的外皮做成糖漬柚皮，不要直接丟掉"
+    ],
+    "faq": [
+      {"q": "柚子可以放多久？", "a": "整顆在陰涼通風處 1 到 2 週，冷藏約 6 到 8 週。剝好的果肉只有幾天。"},
+      {"q": "柚子需要冷藏嗎？", "a": "它被列在應該冷藏的水果裡，不過整顆放陰涼的房間一兩週也沒問題。"},
+      {"q": "柚子可以冷凍嗎？", "a": "果瓣冷凍效果不好，會變成糊。建議冷凍果汁塊，或把外皮做成糖漬再冷凍。"}
+    ]
+  },
+  "ja": {
+    "name": "ザボン",
+    "aliases": ["文旦", "ブンタン", "ポメロ", "晩白柚"],
+    "summary": "ザボン（文旦）は柑橘の中で最大で、厚くスポンジ状の皮がしっかりした穏やかな甘さの果肉を守っています。グレープフルーツの祖先にあたる果実です。丸ごとなら涼しく風通しのよい場所で1〜2週間、冷蔵で6〜8週間、房に分けた果肉は数日以内に食べきります。",
+    "pantry": "丸ごとのザボンは涼しく風通しのよい場所で1〜2週間よく持ちます。厚い皮がそのまま緩衝材つきの容器の役目を果たすからです。台湾では収穫後に数日置いてから食べるのが伝統で、その間に果肉が甘くなり皮の水分が少し抜けます。皮のつやがやや落ちて軽く押すとへこむくらいのほうが、ぱんと張ったものよりおいしいことが多いのです。日の当たる窓辺を避け、袋に入れず空気に触れさせてください。",
+    "fridge": "冷蔵するのは丸ごとだけ。4℃以下でおよそ6〜8週間持ちます。ザボンを「冷蔵すべき果物」に挙げる資料に期間の記載がないため、この範囲はグレープフルーツの扱いに倣っています。むいて房に分けたら別物で、密閉容器に入れて数日以内に。房は乾きやすく庫内のにおいも吸います。",
+    "freezer": "ザボンには定まった冷凍の目安がなく、房は冷凍に向きません。食感をつくっているさじょう（果汁の粒）が壊れてどろどろになります。有効なのは皮で、東アジアでは砂糖漬けにされ、シロップで煮たものはよく凍ります。果汁を製氷皿で凍らせるのも有効です。期間はあくまで自己判断としてください。",
+    "thawing": "冷凍した果汁キューブはそのまま使います。砂糖漬けの皮は冷蔵か常温で軽く戻せば十分で、糖で安定しているため手間はいりません。",
+    "spoilage": [
+      "皮の軟らかい、濡れた、へこんだ部分（多くはヘタ側）",
+      "皮の青緑のカビ",
+      "房が乾いて紙のようになり果汁が出ない",
+      "発酵臭、果肉が苦く味がおかしい"
+    ],
+    "tips": [
+      "見た目より重いものを選ぶ（重さ＝果汁）",
+      "数日置いて皮が少し軟らかくなったものは果肉が甘いことが多い",
+      "皮に包丁で切り込みを入れてからむくと楽",
+      "厚い皮は捨てずに砂糖漬けにする"
+    ],
+    "faq": [
+      {"q": "ザボンはどのくらい持ちますか？", "a": "丸ごとで涼しい場所なら1〜2週間、冷蔵でおよそ6〜8週間です。むいた房は数日しか持ちません。"},
+      {"q": "冷蔵は必要ですか？", "a": "冷蔵すべき果物に挙げられていますが、丸ごとなら涼しい室内で1〜2週間置いても問題ありません。"},
+      {"q": "冷凍できますか？", "a": "房は崩れて向きません。果汁をキューブにするか、皮を砂糖漬けにして冷凍しましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Pomelo chino",
+    "aliases": ["pummelo", "toronja china", "cimboa", "pamplemusa"],
+    "summary": "El pomelo chino es el cítrico más grande, con una corteza gruesa y esponjosa que protege gajos firmes y suavemente dulces: es el antepasado del pomelo común. Entero aguanta 1 a 2 semanas en un lugar fresco y ventilado y 6 a 8 semanas en la nevera; la pulpa ya pelada debe comerse en pocos días.",
+    "pantry": "Un pomelo chino entero se conserva muy bien 1 a 2 semanas en un sitio fresco y ventilado, porque esa corteza gruesa es en la práctica un envase acolchado. En Taiwán se deja tradicionalmente unos días tras la cosecha antes de comerlo, lo que endulza la pulpa y hace que la corteza pierda algo de humedad: una corteza algo mate y levemente blanda suele indicar mejor fruta que una tersa y brillante. Mantenlo lejos de una ventana soleada y dale aire en vez de bolsa.",
+    "fridge": "Solo la fruta entera: a 4 °C (40 °F) o menos aguanta unas 6 a 8 semanas, siguiendo el manejo del pomelo común, ya que la fuente que lo incluye entre las frutas a refrigerar no da plazo. Una vez pelado y separado en gajos cambia todo: guárdalo en recipiente cerrado y cómelo en pocos días, porque los gajos se secan y cogen olores rápido.",
+    "freezer": "No existe un plazo establecido de congelación, y los gajos no se congelan bien: las vesículas de zumo que dan la textura revientan y la pulpa se vuelve pastosa. Lo que sí funciona es la corteza, que en Asia Oriental se confita y, ya cocida en almíbar, se congela bien, y el zumo, congelado en cubitera. Toma cualquier duración como criterio propio.",
+    "thawing": "Usa los cubitos de zumo directamente congelados. La corteza confitada se atempera en la nevera o brevemente fuera, ya que el azúcar la estabiliza.",
+    "spoilage": [
+      "Zonas blandas, húmedas o hundidas en la corteza, normalmente en el pedúnculo",
+      "Moho verde azulado en la corteza",
+      "Gajos secos, papeleros y sin jugo",
+      "Olor fermentado o pulpa amarga y con sabor extraño"
+    ],
+    "tips": [
+      "Elige una pieza pesada para su tamaño: ese peso es zumo",
+      "Una corteza algo blanda tras unos días suele significar pulpa más dulce",
+      "Marca la corteza con un cuchillo en lugar de intentar rasgarla",
+      "Confita la corteza gruesa en vez de tirarla"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura un pomelo chino?", "a": "Una o dos semanas entero en un sitio fresco y ventilado y unas 6 a 8 semanas refrigerado. Los gajos pelados, solo unos días."},
+      {"q": "¿Hay que refrigerarlo?", "a": "Figura entre las frutas que conviene refrigerar, aunque entero también aguanta una o dos semanas en una habitación fresca."},
+      {"q": "¿Se puede congelar?", "a": "Los gajos no se congelan bien y quedan pastosos. Congela el zumo en cubitos o confita la corteza y congela eso."}
+    ]
+  }
+}

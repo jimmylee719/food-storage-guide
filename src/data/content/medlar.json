@@ -1,0 +1,107 @@
+{
+  "slug": "medlar",
+  "en": {
+    "name": "Medlar",
+    "aliases": ["common medlar", "níspola", "openarse", "Mespilus germanica"],
+    "summary": "The medlar is an old European pome fruit picked rock hard and deliberately left to blet — to soften and brown until it becomes edible. Bletting takes about 2 to 4 weeks in a cool airy room, and once bletted the fruit keeps roughly 1 to 2 weeks in the fridge.",
+    "pantry": "This is where the whole story happens. Medlars are picked hard and inedible and are laid out in a single layer in a cool, airy place — traditionally on straw in a shed — until the flesh goes brown and soft, which takes about 2 to 4 weeks. That process is bletting, not spoilage: a brown, wrinkled, collapsing medlar is a ripe one, and a firm pale one is not yet food. Keep them apart so they do not touch, and turn them occasionally to spot any that are actually rotting.",
+    "fridge": "Refrigerate only once the fruit has bletted, and reckon on 1 to 2 weeks at 4 °C (40 °F) or below. Refrigerating medlars before they blet simply delays the process, which is the opposite of what you want, so leave unbletted fruit out. This range follows apple storage reshaped around bletting rather than a published medlar figure. Once bletted, the pulp can also be scooped out and kept covered in a tub.",
+    "freezer": "There is no established freezer timeline for medlars. The bletted pulp does freeze usefully — scoop it, sieve out the seeds and skin, and pack the purée flat for later use in medlar cheese, jelly and tarts — but treat any duration as your own planning figure. Freezing unbletted fruit is sometimes suggested as a way to speed bletting; it softens them, but the flavour is not the same as slow bletting.",
+    "thawing": "Thaw the purée in the fridge and use it within a couple of days, or heat it straight from frozen when making jelly or medlar cheese.",
+    "spoilage": [
+      "Grey or green fuzzy mould, which is decay rather than bletting",
+      "Sour, fermented or vinegary smell instead of a winey, apple-butter one",
+      "Wet, leaking flesh with a slimy skin",
+      "Whole fruit collapsed to liquid rather than soft, dark paste"
+    ],
+    "tips": [
+      "Brown and soft is ripe, not rotten — that is the point of bletting",
+      "Lay them in a single layer without touching, on straw or paper",
+      "Do not refrigerate hard fruit; the cold just delays bletting",
+      "Scoop the pulp with a spoon and sieve out the large seeds"
+    ],
+    "faq": [
+      {"q": "How long does bletting take?", "a": "About 2 to 4 weeks in a cool airy room, laid out in a single layer, until the flesh is brown and soft."},
+      {"q": "Are brown, soft medlars spoiled?", "a": "No. That is bletting, and it is when the fruit becomes edible. Discard only fruit with fuzzy mould or a sour, fermented smell."},
+      {"q": "Should medlars be refrigerated?", "a": "Only after bletting, for about 1 to 2 weeks. Refrigerating hard fruit simply delays the process you are waiting for."}
+    ]
+  },
+  "zh": {
+    "name": "歐楂",
+    "aliases": ["歐洲山楂果", "西洋榲桲", "medlar", "枸杞葉山楂（誤稱）"],
+    "summary": "歐楂是歐洲的古老仁果，採下時硬得像石頭，並且要刻意放到「後熟軟化」（bletting）——放到果肉轉褐變軟才能吃。這個過程在陰涼通風的房間裡大約要 2 到 4 週，軟化完成之後冷藏大約可放 1 到 2 週。",
+    "pantry": "整個故事都發生在這裡。歐楂是硬著採、而且當下不能吃的，要單層攤放在陰涼通風處——傳統上是放在棚子裡的稻草上——直到果肉轉褐變軟，大約 2 到 4 週。這個過程叫 bletting，是後熟不是腐敗：褐色、皺縮、快要塌掉的歐楂才是熟的，硬硬淡色的那顆還不算食物。擺放時彼此不要碰到，偶爾翻一翻，才看得出哪一顆是真的爛了。",
+    "fridge": "軟化完成之後才冷藏，放 4°C 以下大約 1 到 2 週。在軟化之前就冰，只會拖慢那個過程，跟你的目的正好相反，所以還硬的果實請留在室溫。這個範圍是把蘋果的保存方式，依 bletting 的節奏重新調整而來，不是針對歐楂公布的數字。軟化之後，也可以把果肉挖出來裝盒蓋好。",
+    "freezer": "歐楂沒有公認的冷凍期限。軟化後的果肉倒是很值得冷凍——挖出來、過篩去掉籽和皮，把果泥平鋪冷凍，之後拿來做歐楂果凍、果糕和塔——但任何期限都請當成自己的規劃數字。也有人建議用冷凍來加速未軟化果實的後熟；那確實會讓它變軟，但風味和慢慢 blet 出來的不一樣。",
+    "thawing": "果泥放冷藏解凍並在一兩天內用完，或做果凍、果糕時直接冷凍狀態下鍋加熱。",
+    "spoilage": [
+      "長出灰色或綠色的絨毛黴，那是腐敗而不是後熟",
+      "聞起來發酸、發酵或帶醋味，而不是酒香和蘋果醬般的氣味",
+      "果肉濕爛滲汁、表皮黏滑",
+      "整顆塌成液體，而不是柔軟的深色果泥"
+    ],
+    "tips": [
+      "褐色又軟就是熟了，不是壞了——那正是 bletting 的目的",
+      "單層攤放、彼此不要碰到，底下墊稻草或紙",
+      "硬的果實不要冰，低溫只會拖慢後熟",
+      "用湯匙挖果肉，並把大顆的籽過篩掉"
+    ],
+    "faq": [
+      {"q": "歐楂後熟要多久？", "a": "在陰涼通風的房間單層攤放，大約 2 到 4 週，直到果肉轉褐變軟。"},
+      {"q": "褐色軟掉的歐楂是壞了嗎？", "a": "不是。那是 bletting，也正是它變得可以吃的時候。只有長絨毛黴或聞起來酸敗發酵的才要丟。"},
+      {"q": "歐楂需要冷藏嗎？", "a": "後熟完成之後才冷藏，大約 1 到 2 週。硬果冰起來只會拖慢你正在等的那個過程。"}
+    ]
+  },
+  "ja": {
+    "name": "セイヨウカリン",
+    "aliases": ["メドラー", "西洋花梨", "メスピルス", "Mespilus germanica"],
+    "summary": "セイヨウカリン（メドラー）はヨーロッパの古い仁果で、石のように硬い状態で収穫し、あえて「ブレッティング」させます。果肉が茶色く軟らかくなって初めて食べられるようになります。涼しく風通しのよい室内で2〜4週間かかり、その後は冷蔵でおよそ1〜2週間持ちます。",
+    "pantry": "物語のすべてがここで起きます。メドラーは硬く、そのままでは食べられない状態で収穫され、涼しく風通しのよい場所に一段に並べます（伝統的には小屋のわらの上）。果肉が茶色く軟らかくなるまで2〜4週間ほど。これがブレッティングで、腐敗ではありません。茶色くしわが寄り崩れかけたメドラーが熟した状態で、硬く色の淡いものはまだ食べ物ではありません。実どうしが触れないように並べ、時々返して本当に腐ったものを見つけてください。",
+    "fridge": "ブレッティングが済んでから冷蔵し、4℃以下で1〜2週間を目安にします。ブレッティング前に冷やすと過程が遅れるだけで、目的と逆です。硬いうちは常温に置いてください。この範囲はりんごの保存をブレッティングに合わせて組み直したもので、メドラー固有の公表値ではありません。熟したら果肉をすくって容器で保存することもできます。",
+    "freezer": "セイヨウカリンには定まった冷凍の目安がありません。ブレッティング後の果肉は冷凍が有効で、すくって種と皮を裏ごしし、ピューレを平らに冷凍しておけば、後からゼリーやフルーツチーズ、タルトに使えます。ただし期間は自己判断としてください。未熟果を凍らせてブレッティングを早める方法もありますが、軟らかくはなるものの、ゆっくり熟したものとは風味が違います。",
+    "thawing": "ピューレは冷蔵庫で解凍して1〜2日で使い切るか、ゼリーやフルーツチーズを作るときは凍ったまま加熱します。",
+    "spoilage": [
+      "灰色や緑の綿状のカビ（これは熟成ではなく腐敗）",
+      "ワインやアップルバターのような香りではなく酸臭・発酵臭・酢のにおい",
+      "果肉が濡れて汁が出て、皮がぬめる",
+      "柔らかい暗色のペーストではなく、液状に崩れている"
+    ],
+    "tips": [
+      "茶色く軟らかいのが食べごろ。腐敗ではありません",
+      "わらや紙の上に、触れ合わないよう一段で並べる",
+      "硬いうちは冷蔵しない（熟成が遅れるだけ）",
+      "スプーンで果肉をすくい、大きな種は裏ごしで除く"
+    ],
+    "faq": [
+      {"q": "ブレッティングにはどのくらいかかりますか？", "a": "涼しく風通しのよい室内に一段で並べて2〜4週間、果肉が茶色く軟らかくなるまでです。"},
+      {"q": "茶色く軟らかいのは傷んでいますか？", "a": "いいえ。それがブレッティングで、食べられるようになった状態です。処分するのは綿状のカビや酸敗臭があるものだけです。"},
+      {"q": "冷蔵は必要ですか？", "a": "ブレッティング後に1〜2週間。硬いうちに冷やすと待っている過程が遅れるだけです。"}
+    ]
+  },
+  "es": {
+    "name": "Níspero europeo",
+    "aliases": ["níspola", "nispolero", "medlar", "Mespilus germanica"],
+    "summary": "El níspero europeo es un antiguo pomo europeo que se recoge durísimo y se deja deliberadamente ablandar y pardear hasta volverse comestible, un proceso llamado blettificación. Tarda unas 2 a 4 semanas en una habitación fresca y aireada, y ya blando aguanta alrededor de 1 a 2 semanas en la nevera.",
+    "pantry": "Aquí ocurre toda la historia. Los nísperos se recogen duros e incomestibles y se extienden en una sola capa en un lugar fresco y aireado —tradicionalmente sobre paja en un cobertizo— hasta que la pulpa se vuelve parda y blanda, lo que lleva unas 2 a 4 semanas. Ese proceso es maduración, no deterioro: un níspero pardo, arrugado y hundido está en su punto, y uno firme y pálido todavía no es alimento. Colócalos sin que se toquen y dales la vuelta de vez en cuando para detectar los que sí se estén pudriendo.",
+    "fridge": "Refrigéralos solo cuando ya estén blandos, y cuenta con 1 a 2 semanas a 4 °C (40 °F) o menos. Refrigerarlos antes solo retrasa el proceso, que es lo contrario de lo que buscas, así que deja fuera la fruta dura. Este rango adapta el almacenamiento de la manzana al proceso de blettificación y no es una cifra publicada para el níspero. Ya blandos, la pulpa también puede sacarse y guardarse tapada.",
+    "freezer": "No existe un plazo establecido de congelación. La pulpa ya madura sí se congela con provecho: sácala, pasa por un colador para retirar semillas y piel y guarda el puré plano para luego hacer jalea, dulce o tartas; pero toma cualquier duración como criterio propio. A veces se sugiere congelar fruta dura para acelerar el ablandamiento: sí la ablanda, aunque el sabor no es el de una maduración lenta.",
+    "thawing": "Descongela el puré en la nevera y úsalo en un par de días, o caliéntalo directamente congelado para hacer jalea o dulce.",
+    "spoilage": [
+      "Moho algodonoso gris o verde, que es podredumbre y no maduración",
+      "Olor agrio, fermentado o avinagrado en lugar de vinoso y a compota de manzana",
+      "Pulpa húmeda que rezuma con la piel viscosa",
+      "Fruta deshecha en líquido en vez de pasta oscura y blanda"
+    ],
+    "tips": [
+      "Pardo y blando es maduro, no podrido: ese es el objetivo",
+      "Colócalos en una capa, sin tocarse, sobre paja o papel",
+      "No refrigeres fruta dura: el frío solo retrasa el proceso",
+      "Saca la pulpa con cuchara y cuela las semillas grandes"
+    ],
+    "faq": [
+      {"q": "¿Cuánto tarda en ablandarse un níspero europeo?", "a": "Unas 2 a 4 semanas en una habitación fresca y aireada, en una sola capa, hasta que la pulpa esté parda y blanda."},
+      {"q": "¿Están malos si están pardos y blandos?", "a": "No. Es la blettificación y es cuando se vuelven comestibles. Descarta solo los que tengan moho algodonoso u olor agrio."},
+      {"q": "¿Hay que refrigerarlos?", "a": "Solo tras ablandarse, de 1 a 2 semanas. Refrigerar fruta dura únicamente retrasa el proceso que estás esperando."}
+    ]
+  }
+}

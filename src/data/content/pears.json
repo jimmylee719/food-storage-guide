@@ -1,0 +1,107 @@
+{
+  "slug": "pears",
+  "en": {
+    "name": "Pears",
+    "aliases": ["Bartlett", "Williams pear", "Anjou", "Comice"],
+    "summary": "Pears are one of the few fruits that ripen better off the tree than on it, which is why they are always sold hard. There is no fixed counter timeline — leave them out until ripe, then 1 to 2 days — after which they keep 3 to 5 days in the fridge, and sliced fruit freezes for 2 months.",
+    "pantry": "The rule here is a stage, not a number of days: leave pears at room temperature until they are ripe — tender, fully developed and ready to eat — then 1 to 2 days at most. The reliable test is the neck: press gently at the stem end, and if it yields, the pear is ready, while the belly is still firm. Do not wait for the whole fruit to soften, because by then the flesh nearest the core has gone brown and grainy.",
+    "fridge": "Refrigerate only once the pear is ripe, at 4 °C (40 °F) or below, where it keeps 3 to 5 days. The fridge is also a legitimate way to hold hard pears in suspension for a while, but they will not ripen there — take them out and let them warm up when you want them. Cut pear browns fast, so brush the surface with lemon juice and cover it.",
+    "freezer": "Sliced pears keep 2 months at −18 °C (0 °F), a figure that assumes the fruit is sliced and packed with lemon juice and sugar to prevent browning and mushiness. Peel, core, slice, toss with lemon and a little sugar and pack flat with the air pressed out. Frozen fruit stays safe indefinitely; the 2 months is a quality window, and the thawed slices are best cooked.",
+    "thawing": "Thaw in the fridge and use the slices cold, or cook them straight from frozen in tarts, crumbles and compotes. They will not hold their shape once fully thawed.",
+    "spoilage": [
+      "Brown, soft, wet bruises spreading from a knock",
+      "Flesh brown and grainy around the core in a fruit left too long",
+      "Fuzzy mould at the stem or blossom end",
+      "Fermented or alcoholic smell"
+    ],
+    "tips": [
+      "Check the neck, not the belly — that is where ripeness shows first",
+      "Buy them hard; a soft pear on a shelf is already past its best",
+      "Ripen faster in a paper bag with a banana",
+      "Refrigerate to pause ripening, then warm them up to finish"
+    ],
+    "faq": [
+      {"q": "How do you tell if a pear is ripe?", "a": "Press gently at the neck near the stem. If it gives, it is ready. Waiting for the whole fruit to soften means the core is already grainy."},
+      {"q": "How long do pears last?", "a": "Leave them out until ripe, then 1 to 2 days on the counter. Ripe pears keep 3 to 5 days in the fridge."},
+      {"q": "Can you freeze pears?", "a": "Yes, sliced with lemon juice and sugar, for about 2 months. They thaw soft, so use them for baking and compotes."}
+    ]
+  },
+  "zh": {
+    "name": "西洋梨",
+    "aliases": ["洋梨", "巴梨", "啤梨", "康佛倫斯梨"],
+    "summary": "西洋梨是少數「離樹後才熟得更好」的水果，所以買到的一定是硬的。它的常溫沒有固定期限——放到熟為止，之後再放 1 到 2 天——熟了之後冷藏 3 到 5 天，切片冷凍 2 個月。",
+    "pantry": "這裡的規則是「一個階段」而不是天數：把西洋梨放在室溫直到熟為止，也就是變得柔軟、發育完全、可以入口，之後最多再放 1 到 2 天。可靠的判斷方法是看「頸部」：在靠近蒂頭的地方輕壓，會凹就是可以吃了，這時果腹還是硬的。不要等到整顆都變軟，那時候靠近果核的部分早就轉褐、變得沙沙的了。",
+    "fridge": "熟了才冷藏，放 4°C 以下可以放 3 到 5 天。用冰箱把硬梨「按下暫停」也是合理的做法，但它在冰箱裡不會熟——要吃的時候拿出來回溫就好。切開的梨很快會褐化，切面請刷檸檬汁並蓋好。",
+    "freezer": "切片的西洋梨在 −18°C 下可放 2 個月，這個數字的前提是切片後拌檸檬汁和糖以防止褐化與軟爛。去皮、去核、切片，拌檸檬汁和一點糖，平鋪裝袋擠出空氣。只要維持凍結就是安全的，2 個月是品質區間，而且解凍後的梨片比較適合入菜。",
+    "thawing": "放冷藏解凍後冰冰地用，或直接冷凍下鍋做塔、烤酥和糖煮。完全解凍之後就撐不住形狀了。",
+    "spoilage": [
+      "從撞擊點擴散開來的褐色、軟塌、濕潤的傷痕",
+      "放太久的果實，靠近果核處果肉轉褐且沙沙的",
+      "蒂頭或花萼端長絨毛黴",
+      "有發酵味或酒味"
+    ],
+    "tips": [
+      "看頸部不要看腹部，熟度最先從頸部顯現",
+      "買硬的；架上已經軟掉的梨其實已經過了最佳狀態",
+      "想快一點就用紙袋和一根香蕉一起悶",
+      "用冷藏暫停後熟，要吃時再回溫完成"
+    ],
+    "faq": [
+      {"q": "西洋梨怎麼看熟了沒？", "a": "在靠近蒂頭的頸部輕壓，會凹就是熟了。等到整顆都軟，果核附近其實已經沙沙的了。"},
+      {"q": "西洋梨可以放多久？", "a": "放到熟為止，之後室溫再放 1 到 2 天；熟果冷藏 3 到 5 天。"},
+      {"q": "西洋梨可以冷凍嗎？", "a": "可以，切片拌檸檬汁和糖約 2 個月。解凍後會軟，適合烘焙和糖煮。"}
+    ]
+  },
+  "ja": {
+    "name": "洋なし",
+    "aliases": ["洋梨", "ラ・フランス", "バートレット", "西洋なし"],
+    "summary": "洋なしは樹上よりも収穫後のほうがうまく熟す数少ない果物で、そのため必ず硬い状態で売られます。常温の期間は決まっておらず、熟すまで置いてさらに1〜2日。熟してからは冷蔵で3〜5日、スライスを冷凍すれば2か月です。",
+    "pantry": "ここでのルールは日数ではなく状態です。やわらかく十分に発育して食べられる状態になるまで常温に置き、その後はせいぜい1〜2日。確実な判定は「首」です。ヘタに近い部分を軽く押してへこめば食べごろで、そのときお腹の部分はまだ硬いままです。全体が軟らかくなるまで待つと、芯の近くはすでに茶色くざらついています。",
+    "fridge": "熟してから4℃以下で冷蔵し、3〜5日持ちます。硬い洋なしを冷蔵して追熟を一時停止させるのも正当な使い方ですが、庫内では熟しません。食べたいときに出して常温に戻してください。切ると早く褐変するので、切り口にレモン汁を塗ってふたをします。",
+    "freezer": "スライスした洋なしは−18℃で2か月持ちます。これはスライスしてレモン汁と砂糖をまぶし、褐変と型崩れを防ぐことを前提とした数字です。皮と芯を除いてスライスし、レモンと少量の砂糖であえ、平らに詰めて空気を抜きます。凍っていれば安全性は保たれ、2か月は品質の目安。解凍後は加熱調理向きです。",
+    "thawing": "冷蔵庫で解凍して冷たいまま使うか、タルトやクランブル、コンポートに凍ったまま加熱します。完全に解凍すると形は保てません。",
+    "spoilage": [
+      "打った箇所から広がる茶色く軟らかい、濡れた傷み",
+      "置きすぎた果実の芯周りが茶色くざらついている",
+      "ヘタやおしり側の綿状のカビ",
+      "発酵臭・アルコール臭"
+    ],
+    "tips": [
+      "お腹ではなく首を確認する（熟度は首から出ます）",
+      "硬いものを買う。店頭で軟らかいものはすでに盛りを過ぎています",
+      "急ぐならバナナと一緒に紙袋へ",
+      "冷蔵で追熟を止め、食べる前に常温に戻して仕上げる"
+    ],
+    "faq": [
+      {"q": "洋なしの食べごろは？", "a": "ヘタに近い首の部分を軽く押してへこめば食べごろです。全体が軟らかくなるまで待つと芯がざらつきます。"},
+      {"q": "洋なしはどのくらい持ちますか？", "a": "熟すまで常温に置き、その後1〜2日。熟したものは冷蔵で3〜5日です。"},
+      {"q": "冷凍できますか？", "a": "はい。スライスしてレモン汁と砂糖をまぶし約2か月。解凍後は柔らかいので焼き菓子やコンポート向きです。"}
+    ]
+  },
+  "es": {
+    "name": "Peras",
+    "aliases": ["pera Williams", "pera conferencia", "pera de agua", "Anjou"],
+    "summary": "La pera es de las pocas frutas que maduran mejor fuera del árbol que en él, y por eso siempre se vende dura. No hay plazo fijo en la encimera —déjalas hasta que maduren y luego 1 o 2 días—, tras lo cual aguantan 3 a 5 días en la nevera; en rodajas se congelan 2 meses.",
+    "pantry": "Aquí la regla es un estado, no un número de días: deja las peras a temperatura ambiente hasta que estén maduras —tiernas, plenamente desarrolladas y listas para comer— y luego 1 o 2 días como mucho. La prueba fiable es el cuello: presiona suavemente junto al pedúnculo y, si cede, la pera está lista mientras el cuerpo sigue firme. No esperes a que se ablande entera, porque para entonces la pulpa junto al corazón ya está parda y granulosa.",
+    "fridge": "Refrigéralas solo ya maduras, a 4 °C (40 °F) o menos, donde aguantan 3 a 5 días. La nevera también sirve para mantener peras duras en pausa un tiempo, pero allí no madurarán: sácalas y deja que se atemperen cuando las quieras. La pera cortada se oscurece rápido, así que pincela la superficie con limón y tápala.",
+    "freezer": "Las peras en rodajas duran 2 meses a −18 °C (0 °F), cifra que da por hecho que van cortadas con zumo de limón y azúcar para evitar el pardeamiento y que se deshagan. Pela, descorazona, corta, mezcla con limón y un poco de azúcar y envasa plano sin aire. Son seguras indefinidamente; los 2 meses son calidad y las rodajas descongeladas van mejor cocinadas.",
+    "thawing": "Descongélalas en la nevera y úsalas frías, o cocínalas directamente congeladas en tartas, crumbles y compotas. No mantendrán la forma una vez descongeladas del todo.",
+    "spoilage": [
+      "Golpes pardos, blandos y húmedos que se extienden desde un impacto",
+      "Pulpa parda y granulosa alrededor del corazón en fruta muy pasada",
+      "Moho algodonoso en el pedúnculo o el extremo de la flor",
+      "Olor fermentado o alcohólico"
+    ],
+    "tips": [
+      "Comprueba el cuello, no el cuerpo: la madurez se nota antes ahí",
+      "Cómpralas duras; una pera blanda en el lineal ya pasó su punto",
+      "Acelera la maduración en bolsa de papel con un plátano",
+      "Refrigera para pausar la maduración y atempera para terminarla"
+    ],
+    "faq": [
+      {"q": "¿Cómo se sabe si una pera está madura?", "a": "Presiona suavemente el cuello, junto al pedúnculo. Si cede, está lista. Esperar a que se ablande entera significa un corazón ya granuloso."},
+      {"q": "¿Cuánto duran las peras?", "a": "Déjalas fuera hasta que maduren y luego 1 o 2 días. Ya maduras aguantan 3 a 5 días en la nevera."},
+      {"q": "¿Se pueden congelar las peras?", "a": "Sí, en rodajas con zumo de limón y azúcar, unos 2 meses. Se descongelan blandas, así que úsalas para hornear y compotas."}
+    ]
+  }
+}

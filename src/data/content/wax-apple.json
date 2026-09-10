@@ -1,0 +1,107 @@
+{
+  "slug": "wax-apple",
+  "en": {
+    "name": "Wax apple",
+    "aliases": ["java apple", "rose apple", "bell fruit", "lian wu"],
+    "summary": "The wax apple is the glossy bell-shaped fruit sold across Taiwan as 蓮霧, with crisp, faintly sweet, extremely watery flesh and a thin skin. It keeps only 2 to 3 days at room temperature and about 5 to 7 days refrigerated, and it needs to be wrapped in paper before it goes in the fridge.",
+    "pantry": "The skin is thin and loses water quickly, so a wax apple shrivels rather than rots — it goes from taut and shiny to dull and slightly soft within 2 to 3 days on the counter. Do not wash before storing; wipe the fruit with a dry cloth instead, since surface water speeds up both the softening and the spotting. Keep them in a single layer out of the sun.",
+    "fridge": "Wrap wax apples in paper before refrigerating, because the bare fruit suffers cold damage and pits. Wrapped and kept at 4 °C (40 °F) or below they hold roughly 5 to 7 days, a range that follows guava, the closest thin-skinned tropical fruit with published figures, since the sources give the method and the requirement to refrigerate but no duration. Wash them only when you are ready to eat.",
+    "freezer": "There is no established freezer timeline for wax apple, and it is a poor candidate: the fruit is mostly water and its whole appeal is a light, crisp crunch, which ice crystals destroy completely. A thawed wax apple is a limp, watery shell. If you have a glut, the practical routes are pickling in salt and plum powder, or slicing them into a salad the same week.",
+    "thawing": null,
+    "spoilage": [
+      "Skin shrivelled and dull, with the fruit feeling light",
+      "Brown, soft, sunken spots, often where fruit touched fruit",
+      "Flesh gone spongy or cottony rather than crisp",
+      "Mould around the open flower end at the base"
+    ],
+    "tips": [
+      "Wrap them in paper before refrigerating; bare fruit gets cold damage",
+      "Wipe with a dry cloth rather than washing before storage",
+      "Choose fruit that feels heavy and has a taut, glossy skin",
+      "Check the open base — it is where mould starts"
+    ],
+    "faq": [
+      {"q": "How long does wax apple last?", "a": "About 2 to 3 days at room temperature and roughly 5 to 7 days wrapped in paper in the fridge."},
+      {"q": "Why wrap wax apples in paper?", "a": "The bare fruit suffers cold damage in a fridge and pits. Paper buffers it and also absorbs condensation."},
+      {"q": "Can you freeze wax apple?", "a": "It is not worth freezing. The fruit is almost all water and its crisp texture does not survive. Pickle a glut or eat it within the week."}
+    ]
+  },
+  "zh": {
+    "name": "蓮霧",
+    "aliases": ["黑珍珠蓮霧", "爪哇蒲桃", "洋蒲桃", "wax apple"],
+    "summary": "蓮霧是台灣常見的鐘形水果，外皮光亮、果肉清脆微甜、水分極多，而且皮很薄。它在室溫只放得住 2 到 3 天，冷藏約 5 到 7 天，而且進冰箱之前要先用紙包起來。",
+    "pantry": "果皮薄、失水快，所以蓮霧是「乾癟」而不是「腐爛」——在室溫下 2 到 3 天，它就會從緊實光亮變成暗沉略軟。保存前不要洗，用乾布擦一擦就好，因為表面的水分會同時加速軟化和斑點的形成。請單層擺放、避開日曬。",
+    "fridge": "冷藏前先用紙把蓮霧包起來，因為裸放的果實會有寒害、表面出現凹點。包好放 4°C 以下大約可放 5 到 7 天；這個範圍是比照番石榴——有公布數字、最接近的薄皮熱帶水果——因為資料來源提供的是保存方法和「必須冷藏」的要求，並沒有給期限。要吃的時候再洗。",
+    "freezer": "蓮霧沒有公認的冷凍期限，而且它並不適合冷凍：這種水果幾乎全是水，好吃的地方就是那份輕盈清脆，而冰晶會把它徹底毀掉。解凍後的蓮霧就是一顆軟趴趴的水殼。真的太多，實際的做法是用鹽和梅粉醃漬，或在當週切片做沙拉吃掉。",
+    "thawing": null,
+    "spoilage": [
+      "果皮皺縮暗沉，果實拿起來變輕",
+      "出現褐色、軟塌、凹陷的斑點，常在果實相貼的地方",
+      "果肉不再清脆，變得像海綿或棉絮",
+      "底部開口的花萼周圍長黴"
+    ],
+    "tips": [
+      "冷藏前用紙包起來，裸放會有寒害",
+      "保存前用乾布擦，不要用水洗",
+      "挑拿起來沉、外皮緊實有光澤的",
+      "檢查底部的開口，那裡是發黴的起點"
+    ],
+    "faq": [
+      {"q": "蓮霧可以放多久？", "a": "室溫約 2 到 3 天，用紙包好冷藏約 5 到 7 天。"},
+      {"q": "蓮霧為什麼要用紙包？", "a": "裸放的果實在冰箱裡會有寒害、表面出現凹點。紙可以緩衝，也能吸收凝結的水氣。"},
+      {"q": "蓮霧可以冷凍嗎？", "a": "不值得。它幾乎全是水，清脆的口感撐不過冷凍。太多的話請醃漬，或當週切片吃掉。"}
+    ]
+  },
+  "ja": {
+    "name": "レンブ",
+    "aliases": ["蓮霧", "ジャワフトモモ", "ワックスアップル", "ローズアップル"],
+    "summary": "レンブ（蓮霧）は台湾でおなじみの釣り鐘形の果実で、皮につやがあり、果肉はしゃきっとしてほのかに甘く、水分が非常に多いのが特徴です。常温では2〜3日、冷蔵で5〜7日ほどしか持たず、冷蔵庫に入れる前に紙で包む必要があります。",
+    "pantry": "皮が薄く水分がすぐ抜けるため、レンブは腐るというよりしぼみます。常温では2〜3日で、張りとつやのある状態からくすんで少し軟らかい状態へ変わります。保存前に洗わず、乾いた布で拭いてください。表面の水分は軟化もしみも早めます。一段に並べ、日光を避けましょう。",
+    "fridge": "冷蔵する前に紙で包んでください。裸のままだと低温障害で表面がくぼみます。包んで4℃以下に置けば5〜7日ほど。この範囲は、出典が保存方法と冷蔵の必要性は示しつつ期間を示していないため、データのある最も近い薄皮の熱帯果実であるグアバに倣った目安です。洗うのは食べる直前に。",
+    "freezer": "レンブには定まった冷凍の目安がなく、向いてもいません。ほとんどが水分で、魅力は軽やかな歯ざわり。氷結晶がそれを完全に壊してしまいます。解凍したレンブは水っぽくくたっとした殻のようなものです。たくさんあるなら、塩や梅粉で漬けるか、その週のうちにスライスしてサラダにするのが現実的です。",
+    "thawing": null,
+    "spoilage": [
+      "皮がしぼんでくすみ、持つと軽い",
+      "茶色く軟らかいへこんだ斑（実どうしが触れていた場所に多い）",
+      "果肉がしゃきっとせずスポンジ状・綿状になっている",
+      "底の開いた部分（花のあと）まわりのカビ"
+    ],
+    "tips": [
+      "冷蔵前に紙で包む（裸だと低温障害が出ます）",
+      "保存前は洗わず乾いた布で拭く",
+      "重みがあり、皮が張ってつやのあるものを選ぶ",
+      "底の開口部を確認する（カビはそこから始まります）"
+    ],
+    "faq": [
+      {"q": "レンブはどのくらい持ちますか？", "a": "常温で2〜3日、紙で包んで冷蔵すれば5〜7日ほどです。"},
+      {"q": "なぜ紙で包むのですか？", "a": "裸のまま冷蔵すると低温障害でくぼみが出るためです。紙が緩衝材になり、結露も吸ってくれます。"},
+      {"q": "冷凍できますか？", "a": "向きません。ほぼ水分で、しゃきっとした食感が失われます。漬けものにするか、その週に食べきりましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Manzana de agua",
+    "aliases": ["manzana de Java", "pomarrosa", "wax apple", "yambo"],
+    "summary": "La manzana de agua es esa fruta brillante con forma de campana que en Taiwán se vende como 蓮霧, de pulpa crujiente, apenas dulce y extremadamente acuosa, con la piel muy fina. Aguanta solo 2 o 3 días a temperatura ambiente y unos 5 a 7 días refrigerada, y hay que envolverla en papel antes de meterla en la nevera.",
+    "pantry": "La piel es fina y pierde agua deprisa, así que la manzana de agua se arruga más que se pudre: pasa de tersa y brillante a mate y algo blanda en 2 o 3 días en la encimera. No la laves antes de guardarla; pásale un paño seco, porque el agua superficial acelera tanto el ablandamiento como las manchas. Colócalas en una capa y lejos del sol.",
+    "fridge": "Envuelve las manzanas de agua en papel antes de refrigerarlas, porque la fruta desnuda sufre daño por frío y se pica. Envueltas y a 4 °C (40 °F) o menos aguantan unos 5 a 7 días, un rango que sigue a la guayaba, la fruta tropical de piel fina comparable con cifras publicadas, ya que las fuentes dan el método y la obligación de refrigerar pero ningún plazo. Lávalas solo cuando vayas a comerlas.",
+    "freezer": "No existe un plazo establecido de congelación, y es mala candidata: la fruta es casi toda agua y su atractivo es un crujido ligero que los cristales de hielo destruyen por completo. Una manzana de agua descongelada es una cáscara lacia y acuosa. Si tienes exceso, lo práctico es encurtirla con sal y polvo de ciruela, o cortarla en ensalada esa misma semana.",
+    "thawing": null,
+    "spoilage": [
+      "Piel arrugada y mate, con la fruta ligera al cogerla",
+      "Puntos pardos, blandos y hundidos, a menudo donde se tocaban las frutas",
+      "Pulpa esponjosa o algodonosa en lugar de crujiente",
+      "Moho alrededor del extremo abierto de la base"
+    ],
+    "tips": [
+      "Envuélvelas en papel antes de refrigerar; desnudas sufren daño por frío",
+      "Pásales un paño seco en vez de lavarlas antes de guardarlas",
+      "Elige fruta pesada, de piel tersa y brillante",
+      "Revisa la base abierta: es donde empieza el moho"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura la manzana de agua?", "a": "Unos 2 o 3 días a temperatura ambiente y alrededor de 5 a 7 días envuelta en papel en la nevera."},
+      {"q": "¿Por qué envolverla en papel?", "a": "La fruta desnuda sufre daño por frío en la nevera y se pica. El papel amortigua y además absorbe la condensación."},
+      {"q": "¿Se puede congelar?", "a": "No compensa. Es casi toda agua y su textura crujiente no sobrevive. Encurte el excedente o cómelo esa semana."}
+    ]
+  }
+}

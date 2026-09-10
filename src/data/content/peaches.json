@@ -1,0 +1,107 @@
+{
+  "slug": "peaches",
+  "en": {
+    "name": "Peaches",
+    "aliases": ["peach", "clingstone peach", "freestone peach", "melocotón"],
+    "summary": "Peaches are picked firm and finish ripening off the tree, softening and perfuming but never getting much sweeter. There is no fixed counter timeline — leave them out until ripe, then 1 to 2 days — after which they keep 3 to 5 days in the fridge, and sliced fruit freezes for 2 months.",
+    "pantry": "The counter rule is a stage rather than a number of days: leave peaches out until they are ripe, meaning tender, fully developed and ready to eat, and then 1 to 2 days at most. Judge by smell at the stem end and by a slight give at the shoulders, never by how red the blush is. Stand them stem-end down in a single layer so they do not bruise, and use a paper bag to speed things up.",
+    "fridge": "Refrigerate only once ripe, at 4 °C (40 °F) or below, where peaches keep 3 to 5 days. Chilling an unripe peach causes internal breakdown — the flesh goes dry, mealy and woolly instead of juicy — and no amount of time on the counter afterwards will fix it. Take a peach out half an hour before eating to bring the aroma back.",
+    "freezer": "Sliced peaches keep 2 months at −18 °C (0 °F), a figure that assumes the fruit is sliced and packed with lemon juice and sugar, which is what prevents browning and mushiness. Skin them if you like — a 30-second dip in boiling water slips the skins — then stone, slice, toss with lemon and sugar and pack flat with the air pressed out. The fruit stays safe indefinitely; 2 months is a quality window.",
+    "thawing": "Thaw in the fridge and use the slices while still cold, since they slump as they warm. For cobblers, pies and compotes, cook them straight from frozen.",
+    "spoilage": [
+      "Brown, soft, sunken bruises that weep when pressed",
+      "Wrinkled skin over dry, mealy flesh, usually from early chilling",
+      "Fuzzy grey or brown mould, which spreads to touching fruit fast",
+      "Fermented or alcoholic smell"
+    ],
+    "tips": [
+      "Smell the stem end — that is the most reliable ripeness test",
+      "Never refrigerate a hard peach; the cold makes it mealy",
+      "Store stem-end down in one layer so the shoulders do not bruise",
+      "Slice with lemon and sugar and freeze what you cannot eat in time"
+    ],
+    "faq": [
+      {"q": "How long do peaches last?", "a": "Leave them out until ripe, then 1 to 2 days on the counter. Ripe peaches keep 3 to 5 days in the fridge."},
+      {"q": "Why is my peach dry and mealy?", "a": "It was refrigerated before it ripened. Cold causes internal breakdown in unripe stone fruit, and it cannot be reversed."},
+      {"q": "Can you freeze peaches?", "a": "Yes, sliced with lemon juice and sugar, for about 2 months. That preparation is what keeps them from browning and going mushy."}
+    ]
+  },
+  "zh": {
+    "name": "桃子",
+    "aliases": ["水蜜桃", "黏核桃", "離核桃", "蟠桃"],
+    "summary": "桃子是硬著採、離樹後才完成後熟的水果，會變軟、變香，但甜度不會再增加多少。它的常溫沒有固定期限——放到熟為止，之後再放 1 到 2 天——熟了之後冷藏 3 到 5 天，切片冷凍 2 個月。",
+    "pantry": "這裡的室溫規則是「一個階段」而不是天數：把桃子放到熟為止，也就是變得柔軟、發育完全、可以入口，之後最多再放 1 到 2 天。判斷方式是聞蒂頭端的香氣、以及「肩膀」部位輕壓會不會凹，絕對不是看紅得多漂亮。蒂頭朝下單層擺放才不會壓傷，想加快就用紙袋悶著。",
+    "fridge": "熟了才冷藏，放 4°C 以下可以放 3 到 5 天。硬桃子冰起來會造成內部劣變——果肉不但不多汁，還會變乾、變粉、像棉絮——而且事後放室溫再久也救不回來。吃之前半小時拿出來回溫，香氣才會回來。",
+    "freezer": "切片的桃子在 −18°C 下可放 2 個月，這個數字的前提是切片後拌上檸檬汁和糖，正是那道手續讓它不會褐化、不會爛掉。想去皮的話，滾水燙 30 秒就能把皮剝下來；接著去核、切片、拌檸檬汁和糖，平鋪裝袋擠出空氣。只要維持凍結就是安全的，2 個月是品質區間。",
+    "thawing": "放冷藏解凍，趁還冰涼時使用，因為回溫後會塌。做酥皮派、水果派和糖煮的話，直接冷凍下鍋。",
+    "spoilage": [
+      "出現褐色、軟塌、凹陷的撞傷，一壓就滲汁",
+      "果皮皺縮、果肉乾而粉，通常是太早冷藏造成的",
+      "長灰色或褐色絨毛黴，很快就傳給相鄰的果實",
+      "有發酵味或酒味"
+    ],
+    "tips": [
+      "聞蒂頭端的香氣，那是最可靠的熟度測試",
+      "硬桃子絕對不要冰，低溫會讓它變粉",
+      "蒂頭朝下、單層擺放，肩部才不會壓傷",
+      "來不及吃完的切片拌檸檬和糖冷凍"
+    ],
+    "faq": [
+      {"q": "桃子可以放多久？", "a": "放到熟為止，熟了之後室溫再放 1 到 2 天；熟果冷藏 3 到 5 天。"},
+      {"q": "我的桃子為什麼又乾又粉？", "a": "還沒熟就冰過了。核果類未熟時遇冷會內部劣變，而且無法逆轉。"},
+      {"q": "桃子可以冷凍嗎？", "a": "可以，切片拌檸檬汁和糖，大約 2 個月。這道手續正是防止褐化和軟爛的關鍵。"}
+    ]
+  },
+  "ja": {
+    "name": "もも",
+    "aliases": ["桃", "白桃", "黄桃", "ピーチ"],
+    "summary": "ももは硬い状態で収穫され、樹を離れてから追熟して軟らかく香り高くなりますが、甘みはあまり増えません。常温の期間は決まっておらず、熟すまで置いてさらに1〜2日。熟してからは冷蔵で3〜5日、スライスを冷凍すれば2か月です。",
+    "pantry": "常温のルールは日数ではなく状態です。やわらかく十分に発育して食べられる状態になるまで置き、その後はせいぜい1〜2日。判断はヘタ側の香りと、肩の部分がわずかにへこむかどうかで、赤みの強さではありません。傷めないようヘタを下にして一段で置き、急ぐなら紙袋を使ってください。",
+    "fridge": "熟してから4℃以下で冷蔵し、3〜5日持ちます。硬いももを冷やすと内部障害が起き、みずみずしさを失って乾いた粉っぽい、綿のような食感になり、その後常温に置いても戻りません。食べる30分前に出しておくと香りが戻ります。",
+    "freezer": "スライスしたももは−18℃で2か月持ちます。この数字は、スライスしてレモン汁と砂糖をまぶすことが前提で、それが褐変と型崩れを防ぎます。皮をむくなら熱湯に30秒ほどくぐらせるとつるりとむけます。種を除いてスライスし、レモンと砂糖であえ、平らに詰めて空気を抜きます。凍っていれば安全性は保たれ、2か月は品質の目安です。",
+    "thawing": "冷蔵庫で解凍し、冷たいうちに使います。温まると崩れるためです。コブラーやパイ、コンポートには凍ったまま加熱しましょう。",
+    "spoilage": [
+      "押すと汁が出る茶色く軟らかいへこんだ打ち身",
+      "皮がしわになり果肉が乾いて粉っぽい（早く冷やしすぎたサイン）",
+      "灰色や茶色の綿状のカビ（接している実にすぐ移ります）",
+      "発酵臭・アルコール臭"
+    ],
+    "tips": [
+      "ヘタ側の香りをかぐのがいちばん確実な熟度判定",
+      "硬いももは冷蔵しない（粉っぽくなります）",
+      "ヘタを下にして一段で置き、肩を傷めない",
+      "食べきれない分はスライスしてレモンと砂糖であえ冷凍"
+    ],
+    "faq": [
+      {"q": "ももはどのくらい持ちますか？", "a": "熟すまで常温に置き、その後1〜2日。熟したものは冷蔵で3〜5日です。"},
+      {"q": "乾いて粉っぽいのはなぜ？", "a": "熟す前に冷蔵したためです。未熟な核果は低温で内部障害を起こし、元に戻りません。"},
+      {"q": "冷凍できますか？", "a": "はい。スライスしてレモン汁と砂糖をまぶし、約2か月。その下ごしらえが褐変と型崩れを防ぎます。"}
+    ]
+  },
+  "es": {
+    "name": "Melocotones",
+    "aliases": ["durazno", "melocotón", "pavía", "prisco"],
+    "summary": "Los melocotones se recogen firmes y terminan de madurar fuera del árbol, ablandándose y perfumándose aunque sin ganar mucho dulzor. No hay plazo fijo en la encimera —déjalos hasta que maduren y luego 1 o 2 días—, tras lo cual aguantan 3 a 5 días en la nevera; en rodajas se congelan 2 meses.",
+    "pantry": "La regla de encimera es un estado, no un número de días: deja los melocotones fuera hasta que estén maduros —tiernos, plenamente desarrollados y listos para comer— y después 1 o 2 días como mucho. Júzgalos por el olor en el pedúnculo y por una ligera cesión en los hombros, nunca por lo rojo del rubor. Colócalos con el pedúnculo hacia abajo en una capa para que no se magullen, y usa una bolsa de papel para acelerar.",
+    "fridge": "Refrigéralos solo ya maduros, a 4 °C (40 °F) o menos, donde aguantan 3 a 5 días. Enfriar un melocotón verde provoca degradación interna —la pulpa queda seca, harinosa y lanosa en lugar de jugosa— y ningún tiempo posterior en la encimera lo arregla. Sácalo media hora antes de comerlo para recuperar el aroma.",
+    "freezer": "Los melocotones en rodajas duran 2 meses a −18 °C (0 °F), cifra que da por hecho que van cortados y mezclados con zumo de limón y azúcar, que es lo que evita el pardeamiento y que se deshagan. Pélalos si quieres —30 segundos en agua hirviendo sueltan la piel—, deshuésalos, córtalos, mézclalos con limón y azúcar y envásalos planos sin aire. Son seguros indefinidamente; los 2 meses son calidad.",
+    "thawing": "Descongélalos en la nevera y usa las rodajas aún frías, porque se hunden al templarse. Para cobblers, tartas y compotas, cocínalos directamente congelados.",
+    "spoilage": [
+      "Golpes pardos, blandos y hundidos que rezuman al presionar",
+      "Piel arrugada sobre pulpa seca y harinosa, normalmente por enfriarlos pronto",
+      "Moho algodonoso gris o pardo, que pasa rápido a la fruta en contacto",
+      "Olor fermentado o alcohólico"
+    ],
+    "tips": [
+      "Huele el pedúnculo: es la prueba de madurez más fiable",
+      "Nunca refrigeres un melocotón duro: el frío lo vuelve harinoso",
+      "Guárdalos con el pedúnculo hacia abajo y en una capa",
+      "Corta con limón y azúcar y congela lo que no vayas a comer a tiempo"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los melocotones?", "a": "Déjalos fuera hasta que maduren y luego 1 o 2 días. Ya maduros aguantan 3 a 5 días en la nevera."},
+      {"q": "¿Por qué mi melocotón está seco y harinoso?", "a": "Se refrigeró antes de madurar. El frío degrada por dentro la fruta de hueso verde y no tiene marcha atrás."},
+      {"q": "¿Se pueden congelar los melocotones?", "a": "Sí, en rodajas con zumo de limón y azúcar, unos 2 meses. Esa preparación evita el pardeamiento y que se deshagan."}
+    ]
+  }
+}

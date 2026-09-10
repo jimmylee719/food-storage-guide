@@ -1,0 +1,107 @@
+{
+  "slug": "pulasan",
+  "en": {
+    "name": "Pulasan",
+    "aliases": ["kapulasan", "hairless rambutan", "Nephelium ramboutan-ake", "pulasan merah"],
+    "summary": "Pulasan is a Malaysian relative of the rambutan and lychee, with a thick red shell covered in short blunt knobs rather than long hairs, and sweeter flesh that comes cleanly away from the seed. No agency publishes figures for it, so treat it like lychee: 2 to 3 days on the counter and 5 to 10 days in the fridge.",
+    "pantry": "The shell dries and browns quickly at room temperature even though the flesh inside is still good, so a bowl on the counter buys you about 2 to 3 days. Keep the fruit on its stems if it came that way, out of the sun and out of a draught. Judge it by opening one rather than by shell colour, because browning here is water loss rather than spoilage.",
+    "fridge": "Seal pulasan in a bag at 4 °C (40 °F) or below to hold humidity, where it keeps about 5 to 10 days — a working limit borrowed from lychee, its closest relative with published figures. The bag genuinely matters: the loss of shell colour that follows a few days on an open fridge shelf is dehydration, not decay, but the flesh dries out behind it. Leave the fruit unwashed and in the shell until you eat.",
+    "freezer": "No source gives a freezer timeline for pulasan. In practice it can be frozen in the shell the way lychee is, and eaten half-thawed, with the shell peeling off easily while the fruit is still frozen. Treat any duration as your own planning figure rather than sourced guidance, and expect the thawed flesh to be slacker than fresh.",
+    "thawing": "Eat frozen pulasan half-thawed straight from the freezer, or peel it while frozen and drop it into a drink or dessert. Fully thawed flesh goes watery.",
+    "spoilage": [
+      "Shell gone black and damp rather than red or tan and dry",
+      "Flesh turned brown, grey or slimy",
+      "Fermented or vinegary smell when the shell is opened",
+      "Mould where the fruit joins the stem or between fruit"
+    ],
+    "tips": [
+      "Buy fruit still on the stem — it keeps better attached",
+      "Bag it in the fridge; loose fruit dries and the shell hardens",
+      "Brown shell is usually water loss, not spoilage — open one and check",
+      "The flesh separates from the seed more cleanly than a rambutan's, so it is easier to eat"
+    ],
+    "faq": [
+      {"q": "How long does pulasan last?", "a": "About 2 to 3 days at room temperature and 5 to 10 days sealed in a bag in the fridge. There is no official figure; this follows lychee."},
+      {"q": "Why does the pulasan shell turn brown?", "a": "It is losing water. The flesh inside is usually still good, so open one and judge by the flesh rather than the shell."},
+      {"q": "How is pulasan different from rambutan?", "a": "The shell has short blunt knobs rather than long soft hairs, the flesh is sweeter, and it separates from the seed more cleanly."}
+    ]
+  },
+  "zh": {
+    "name": "韶子",
+    "aliases": ["毛荔枝", "無毛紅毛丹", "pulasan", "紅毛丹近親"],
+    "summary": "韶子是馬來西亞的紅毛丹、荔枝近親，厚厚的紅色外殼上長的是短而鈍的凸起而不是長毛，果肉比紅毛丹甜，而且能乾淨地和種子分開。沒有官方單位公布它的保存數據，所以用荔枝的標準來看：室溫 2 到 3 天，冷藏 5 到 10 天。",
+    "pantry": "在室溫下，外殼會很快變乾轉褐，儘管裡面的果肉還是好的，所以放在桌上的碗裡大概能撐 2 到 3 天。買來是連枝的就保持連枝，避開日曬也避開風口。判斷方式是剝一顆看看，而不是看殼的顏色，因為這裡的褐化是失水而不是腐壞。",
+    "fridge": "裝袋密封放 4°C 以下以維持濕度，大約可放 5 到 10 天——這是借用荔枝（有公布數字、最近的親戚）的使用上限。袋子是真的重要：敞著放在冰箱層架上幾天後外殼褪色，那是脫水而不是腐敗，但果肉也會跟著在裡面乾掉。要吃之前不要洗、也不要剝殼。",
+    "freezer": "沒有任何來源提供韶子的冷凍期限。實務上可以像荔枝一樣連殼冷凍，半解凍吃，而且果實還凍著的時候殼很好剝。任何期限都請當成自己的規劃數字，而不是來自資料來源的建議，並預期解凍後的果肉會比新鮮時鬆軟。",
+    "thawing": "冷凍韶子從冷凍庫拿出來半解凍直接吃，或凍著剝殼丟進飲料和甜點裡。完全解凍的果肉會變得水水的。",
+    "spoilage": [
+      "外殼由紅色或淺褐的乾爽狀態變成濕黑",
+      "果肉轉褐、發灰或變黏滑",
+      "剝殼時聞到發酵味或醋味",
+      "果實與枝條接合處、或果實之間長黴"
+    ],
+    "tips": [
+      "買連枝的，連著比較耐放",
+      "冰箱裡要裝袋，散放會乾掉、外殼變硬",
+      "殼變褐通常只是失水，剝一顆確認果肉狀態",
+      "它的果肉比紅毛丹更容易和種子分開，吃起來更方便"
+    ],
+    "faq": [
+      {"q": "韶子可以放多久？", "a": "室溫約 2 到 3 天，裝袋密封冷藏約 5 到 10 天。沒有官方數字，這是比照荔枝的做法。"},
+      {"q": "韶子的殼為什麼會變褐？", "a": "那是失水。裡面的果肉通常還是好的，剝一顆用果肉判斷，不要只看殼。"},
+      {"q": "韶子和紅毛丹差在哪？", "a": "外殼是短而鈍的凸起而不是長軟毛，果肉更甜，而且和種子分得更乾淨。"}
+    ]
+  },
+  "ja": {
+    "name": "プラサン",
+    "aliases": ["カプラサン", "毛のないランブータン", "韶子", "Nephelium ramboutan-ake"],
+    "summary": "プラサンはマレーシア原産のランブータン・ライチの近縁種で、厚い赤い殻には長い毛ではなく短く丸い突起が並び、果肉はより甘く種からきれいに外れます。公的な保存データがないため、ライチの扱いに倣い、常温で2〜3日、冷蔵で5〜10日とします。",
+    "pantry": "常温では中の果肉が無事でも殻が早く乾いて褐変するため、器に置ける期間は2〜3日ほどです。枝つきで買ったなら枝のまま、日光と風の当たらない場所に置いてください。判断は殻の色ではなく、一つ割って中を見ること。ここでの褐変は腐敗ではなく水分の喪失です。",
+    "fridge": "湿度を保つため袋に密閉し、4℃以下で5〜10日ほど。これは公表値のある最も近い親戚であるライチの扱いを借りた目安です。袋は本当に重要で、庫内の棚に裸で数日置くと殻の色が落ちます。それは乾燥であって腐敗ではありませんが、その裏で果肉も乾いていきます。食べる直前まで洗わず殻つきのままで。",
+    "freezer": "プラサンの冷凍期間を示す出典はありません。実際にはライチと同様に殻つきで冷凍でき、半解凍で食べられます。凍ったままなら殻も簡単にむけます。期間はあくまで自己判断とし、解凍後の果肉は生よりだれることを見込んでください。",
+    "thawing": "冷凍したものは冷凍庫から出して半解凍で食べるか、凍ったまま殻をむいて飲み物やデザートに。完全に解凍すると水っぽくなります。",
+    "spoilage": [
+      "殻が赤や淡褐色の乾いた状態ではなく黒く湿っている",
+      "果肉が茶色や灰色、ぬめっている",
+      "殻を割ったときの発酵臭・酢のようなにおい",
+      "枝との接合部や実どうしの間のカビ"
+    ],
+    "tips": [
+      "枝つきのものを買う（そのほうが日持ちします）",
+      "冷蔵庫では袋に入れる（裸だと乾いて殻が硬くなります）",
+      "殻の褐変はたいてい乾燥。一つ割って果肉で判断を",
+      "ランブータンより種離れがよく食べやすい果実です"
+    ],
+    "faq": [
+      {"q": "プラサンはどのくらい持ちますか？", "a": "常温で2〜3日、袋に密閉して冷蔵で5〜10日ほどです。公的な数字はなく、ライチに倣っています。"},
+      {"q": "殻が茶色くなるのはなぜ？", "a": "水分が抜けているためです。中の果肉はたいてい無事なので、一つ割って確かめてください。"},
+      {"q": "ランブータンとの違いは？", "a": "殻の突起が長い毛ではなく短く丸いこと、果肉がより甘く、種からきれいに外れることです。"}
+    ]
+  },
+  "es": {
+    "name": "Pulasán",
+    "aliases": ["kapulasan", "rambután sin pelo", "pulasan", "Nephelium ramboutan-ake"],
+    "summary": "El pulasán es un pariente malasio del rambután y el lichi, con una cáscara roja gruesa cubierta de protuberancias cortas y romas en vez de pelos largos, y pulpa más dulce que se separa limpiamente de la semilla. Ningún organismo publica cifras, así que se trata como un lichi: 2 a 3 días en la encimera y 5 a 10 días en la nevera.",
+    "pantry": "La cáscara se seca y pardea rápido a temperatura ambiente aunque la pulpa siga bien, así que un frutero te da unos 2 a 3 días. Deja la fruta en sus tallos si venía así, lejos del sol y de corrientes. Júzgala abriendo una y no por el color de la cáscara, porque aquí el pardeamiento es pérdida de agua y no deterioro.",
+    "fridge": "Cierra el pulasán en una bolsa a 4 °C (40 °F) o menos para retener humedad; así aguanta unos 5 a 10 días, un límite tomado del lichi, su pariente con cifras publicadas. La bolsa importa de verdad: la pérdida de color tras unos días en un estante abierto es deshidratación, no podredumbre, pero detrás de ella la pulpa también se seca. Déjalo sin lavar y con cáscara hasta comerlo.",
+    "freezer": "Ninguna fuente da un plazo de congelación para el pulasán. En la práctica puede congelarse con cáscara como el lichi y comerse medio descongelado, con la cáscara desprendiéndose fácil mientras sigue helado. Toma cualquier duración como criterio propio y cuenta con una pulpa más floja que en fresco.",
+    "thawing": "Come el pulasán congelado medio descongelado recién sacado, o pélalo helado y échalo a una bebida o un postre. La pulpa totalmente descongelada queda acuosa.",
+    "spoilage": [
+      "Cáscara negra y húmeda en lugar de roja o beige y seca",
+      "Pulpa parda, grisácea o viscosa",
+      "Olor fermentado o avinagrado al abrir la cáscara",
+      "Moho en la unión con el tallo o entre frutas"
+    ],
+    "tips": [
+      "Cómpralo aún en el tallo: se conserva mejor unido",
+      "Embólsalo en la nevera; suelto se seca y la cáscara se endurece",
+      "La cáscara parda suele ser pérdida de agua: abre uno y comprueba",
+      "La pulpa se separa de la semilla mejor que en el rambután"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el pulasán?", "a": "Unos 2 a 3 días a temperatura ambiente y 5 a 10 días cerrado en bolsa en la nevera. No hay cifra oficial; sigue al lichi."},
+      {"q": "¿Por qué se pardea la cáscara?", "a": "Está perdiendo agua. La pulpa suele seguir bien, así que abre uno y juzga por la pulpa, no por la cáscara."},
+      {"q": "¿En qué se diferencia del rambután?", "a": "La cáscara tiene protuberancias cortas y romas en lugar de pelos largos, la pulpa es más dulce y se separa mejor de la semilla."}
+    ]
+  }
+}

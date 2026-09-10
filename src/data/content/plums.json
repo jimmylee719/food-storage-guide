@@ -1,0 +1,107 @@
+{
+  "slug": "plums",
+  "en": {
+    "name": "Plums",
+    "aliases": ["plum", "damson", "greengage", "ciruela"],
+    "summary": "Plums are stone fruit sold firm and finished at room temperature, softening and juicing up but gaining little extra sweetness. There is no fixed counter timeline — leave them out until ripe, then 1 to 2 days — after which they keep 3 to 5 days in the fridge, and sliced fruit freezes for 2 months.",
+    "pantry": "The counter rule is a stage, not a number of days: leave plums out until they are ripe, meaning tender, fully developed and ready to eat, and then 1 to 2 days at most. A ripe plum gives to gentle pressure and smells sweet at the stem end; the dusty bloom on the skin is natural and a sign of careful handling, not dirt. Keep them in a single layer out of the sun, and speed up ripening in a paper bag.",
+    "fridge": "Refrigerate only once ripe, at 4 °C (40 °F) or below, where plums keep 3 to 5 days. Chilling an unripe plum causes internal breakdown: the flesh goes dry and mealy and the fruit never develops properly afterwards. Store them loose in the crisper rather than sealed, and let one warm up for half an hour before eating for the full flavour.",
+    "freezer": "Sliced plums keep 2 months at −18 °C (0 °F), a figure that assumes the fruit is sliced and packed with lemon juice and sugar to stop browning and mushiness. Halve, stone and slice the plums, toss with lemon and a little sugar, and pack flat with the air pressed out. Frozen fruit stays safe indefinitely; the 2 months is a quality window, and thawed slices are best cooked.",
+    "thawing": "Thaw in the fridge and use the slices while cold, or cook them straight from frozen in crumbles, compotes and jam. They will not hold their shape once fully thawed.",
+    "spoilage": [
+      "Brown, soft, sunken bruises that weep when pressed",
+      "Split skin, especially after rain or over-ripening",
+      "Fuzzy grey or brown mould, which spreads to touching fruit",
+      "Fermented or alcoholic smell"
+    ],
+    "tips": [
+      "The dusty bloom on the skin is natural — do not rub it off before storing",
+      "Never refrigerate a hard plum; the cold makes it mealy",
+      "Ripen faster in a paper bag, slower somewhere cool",
+      "Slice with lemon and sugar and freeze what you cannot eat in time"
+    ],
+    "faq": [
+      {"q": "How long do plums last?", "a": "Leave them out until ripe, then 1 to 2 days on the counter. Ripe plums keep 3 to 5 days in the fridge."},
+      {"q": "What is the white dust on plum skin?", "a": "It is bloom, a natural waxy coating that protects the fruit. It is a good sign, not dirt, so leave it until you wash the fruit to eat."},
+      {"q": "Can you freeze plums?", "a": "Yes, sliced with lemon juice and sugar, for about 2 months. Thawed slices are soft, so use them for baking and jam."}
+    ]
+  },
+  "zh": {
+    "name": "李子",
+    "aliases": ["加州李", "黑布林", "紅肉李", "洋李"],
+    "summary": "李子是硬著賣、在室溫完成後熟的核果，會變軟、變多汁，但甜度不太會再增加。它的常溫沒有固定期限——放到熟為止，之後再放 1 到 2 天——熟了之後冷藏 3 到 5 天，切片冷凍 2 個月。",
+    "pantry": "這裡的室溫規則是「一個階段」而不是天數：把李子放到熟為止，也就是變得柔軟、發育完全、可以入口，之後最多再放 1 到 2 天。熟的李子輕壓會凹，蒂頭端聞得到甜香；果皮上那層白霧是天然果粉，代表被小心對待過，不是髒污。單層擺放、避開日曬，想加快就用紙袋悶著。",
+    "fridge": "熟了才冷藏，放 4°C 以下可以放 3 到 5 天。硬李子冰起來會造成內部劣變：果肉會變乾變粉，而且之後也不會再好好熟成。鬆散地放在蔬果室而不要密封；吃之前先回溫半小時，風味才完整。",
+    "freezer": "切片的李子在 −18°C 下可放 2 個月，這個數字的前提是切片後拌檸檬汁和糖，以防止褐化與軟爛。把果實對半切、去核、切片，拌檸檬汁和一點糖，平鋪裝袋擠出空氣。只要維持凍結就是安全的，2 個月是品質區間，而且解凍後的李片比較適合入菜。",
+    "thawing": "放冷藏解凍後趁冰涼時使用，或直接冷凍下鍋做烤酥、糖煮和果醬。完全解凍之後就撐不住形狀了。",
+    "spoilage": [
+      "出現褐色、軟塌、凹陷的撞傷，一壓就滲汁",
+      "果皮裂開，尤其在下雨後或過熟時",
+      "長灰色或褐色絨毛黴，會傳給相鄰的果實",
+      "有發酵味或酒味"
+    ],
+    "tips": [
+      "果皮上的白霧是天然果粉，保存前不要擦掉",
+      "硬李子絕對不要冰，低溫會讓它變粉",
+      "想快就用紙袋，想慢就放陰涼處",
+      "來不及吃完的切片拌檸檬和糖冷凍"
+    ],
+    "faq": [
+      {"q": "李子可以放多久？", "a": "放到熟為止，之後室溫再放 1 到 2 天；熟果冷藏 3 到 5 天。"},
+      {"q": "李子皮上的白粉是什麼？", "a": "那是天然的果粉（bloom），一層保護果實的蠟質，是好徵兆而不是髒污。要吃再洗掉就好。"},
+      {"q": "李子可以冷凍嗎？", "a": "可以，切片拌檸檬汁和糖約 2 個月。解凍後會軟，適合烘焙和做果醬。"}
+    ]
+  },
+  "ja": {
+    "name": "プラム",
+    "aliases": ["すもも", "李", "西洋すもも", "ソルダム"],
+    "summary": "プラムは硬い状態で売られ常温で仕上がる核果で、軟らかくジューシーになりますが甘みはあまり増えません。常温の期間は決まっておらず、熟すまで置いてさらに1〜2日。熟してからは冷蔵で3〜5日、スライスを冷凍すれば2か月です。",
+    "pantry": "常温のルールは日数ではなく状態です。やわらかく十分に発育して食べられる状態になるまで置き、その後はせいぜい1〜2日。熟したプラムは軽い力でへこみ、ヘタ側から甘い香りがします。皮の白い粉（ブルーム）は天然のもので、丁寧に扱われた証拠であり汚れではありません。一段に並べて日光を避け、急ぐなら紙袋に入れてください。",
+    "fridge": "熟してから4℃以下で冷蔵し、3〜5日持ちます。硬いプラムを冷やすと内部障害が起き、果肉が乾いて粉っぽくなり、その後もきちんと熟しません。密閉せず野菜室に裸で置き、食べる30分前に出しておくと風味が立ちます。",
+    "freezer": "スライスしたプラムは−18℃で2か月。これはスライスしてレモン汁と砂糖をまぶし、褐変と型崩れを防ぐことを前提とした数字です。半分に切って種を除き、スライスしてレモンと少量の砂糖であえ、平らに詰めて空気を抜きます。凍っていれば安全性は保たれ、2か月は品質の目安。解凍後は加熱調理向きです。",
+    "thawing": "冷蔵庫で解凍して冷たいうちに使うか、クランブルやコンポート、ジャムに凍ったまま加熱します。完全に解凍すると形は保てません。",
+    "spoilage": [
+      "押すと汁が出る茶色く軟らかいへこんだ打ち身",
+      "皮の裂け（雨のあとや熟しすぎたときに多い）",
+      "灰色や茶色の綿状のカビ（接する実に移ります）",
+      "発酵臭・アルコール臭"
+    ],
+    "tips": [
+      "皮の白い粉は天然のブルーム。保存前にこすり落とさない",
+      "硬いプラムは冷蔵しない（粉っぽくなります）",
+      "急ぐなら紙袋、遅らせたいなら涼しい場所へ",
+      "食べきれない分はスライスしてレモンと砂糖であえ冷凍"
+    ],
+    "faq": [
+      {"q": "プラムはどのくらい持ちますか？", "a": "熟すまで常温に置き、その後1〜2日。熟したものは冷蔵で3〜5日です。"},
+      {"q": "皮の白い粉は何ですか？", "a": "ブルームという天然のろう質で、果実を守っています。汚れではないので、食べる直前に洗えば十分です。"},
+      {"q": "冷凍できますか？", "a": "はい。スライスしてレモン汁と砂糖をまぶし約2か月。解凍後は柔らかいので焼き菓子やジャム向きです。"}
+    ]
+  },
+  "es": {
+    "name": "Ciruelas",
+    "aliases": ["ciruela", "ciruela claudia", "ciruela damascena", "ciruela roja"],
+    "summary": "Las ciruelas son fruta de hueso que se vende firme y termina a temperatura ambiente, ablandándose y ganando jugo aunque poco dulzor extra. No hay plazo fijo en la encimera —déjalas hasta que maduren y luego 1 o 2 días—, tras lo cual aguantan 3 a 5 días en la nevera; en rodajas se congelan 2 meses.",
+    "pantry": "La regla de encimera es un estado, no un número de días: deja las ciruelas fuera hasta que estén maduras —tiernas, plenamente desarrolladas y listas para comer— y después 1 o 2 días como mucho. Una ciruela madura cede a la presión suave y huele dulce por el pedúnculo; la pruina blanquecina de la piel es natural y señal de buen manejo, no suciedad. Colócalas en una capa lejos del sol y acelera la maduración en bolsa de papel.",
+    "fridge": "Refrigéralas solo ya maduras, a 4 °C (40 °F) o menos, donde aguantan 3 a 5 días. Enfriar una ciruela dura provoca degradación interna: la pulpa queda seca y harinosa y la fruta ya no se desarrolla bien. Guárdalas sueltas en el cajón y no cerradas, y atempera una media hora antes de comerla para todo su sabor.",
+    "freezer": "Las ciruelas en rodajas duran 2 meses a −18 °C (0 °F), cifra que da por hecho que van cortadas con zumo de limón y azúcar para evitar el pardeamiento y que se deshagan. Pártelas, deshuésalas, córtalas, mézclalas con limón y un poco de azúcar y envásalas planas sin aire. Son seguras indefinidamente; los 2 meses son calidad y las rodajas descongeladas van mejor cocinadas.",
+    "thawing": "Descongélalas en la nevera y úsalas frías, o cocínalas directamente congeladas en crumbles, compotas y mermelada. No mantendrán la forma una vez descongeladas del todo.",
+    "spoilage": [
+      "Golpes pardos, blandos y hundidos que rezuman al presionar",
+      "Piel agrietada, sobre todo tras lluvia o exceso de madurez",
+      "Moho algodonoso gris o pardo, que pasa a la fruta en contacto",
+      "Olor fermentado o alcohólico"
+    ],
+    "tips": [
+      "La pruina blanquecina es natural: no la frotes antes de guardar",
+      "Nunca refrigeres una ciruela dura: el frío la vuelve harinosa",
+      "Madura más rápido en bolsa de papel, más despacio en un sitio fresco",
+      "Corta con limón y azúcar y congela lo que no vayas a comer a tiempo"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las ciruelas?", "a": "Déjalas fuera hasta que maduren y luego 1 o 2 días. Ya maduras aguantan 3 a 5 días en la nevera."},
+      {"q": "¿Qué es el polvo blanco de la piel?", "a": "Es pruina, una capa cerosa natural que protege la fruta. Es buena señal, no suciedad; lávala solo al ir a comerla."},
+      {"q": "¿Se pueden congelar las ciruelas?", "a": "Sí, en rodajas con zumo de limón y azúcar, unos 2 meses. Descongeladas quedan blandas: úsalas para hornear y mermelada."}
+    ]
+  }
+}

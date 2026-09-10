@@ -1,0 +1,107 @@
+{
+  "slug": "raspberries",
+  "en": {
+    "name": "Raspberries",
+    "aliases": ["red raspberry", "golden raspberry", "frambuesa", "Rubus idaeus"],
+    "summary": "Raspberries are hollow, thin-walled berries with no skin to protect them, which makes them the most fragile fruit in most shopping baskets. Refrigerated they keep only about 2 to 3 days from purchase, and they freeze for 8 to 12 months.",
+    "pantry": "Raspberries do not belong on the counter at all. There is no skin between the flesh and the air, so at room temperature they soften, weep and grow grey mould within a day, and a warm car on the way home costs a noticeable share of their life. Refrigerate them the moment you get in, and do not wash them until the moment you eat.",
+    "fridge": "Store them unwashed at 4 °C (40 °F) or below and use them within about 2 to 3 days of purchase. Keep them in their vented punnet or spread one or two berries deep on kitchen paper — piled deep they crush under their own weight. Go through the punnet as soon as you get home and remove any soft or mouldy berry, because grey mould jumps from berry to berry within hours.",
+    "freezer": "Raspberries freeze well for 8 to 12 months at −18 °C (0 °F) and are one of the few berries that keep their shape reasonably in the freezer. Spread them in a single layer on a lined tray, freeze until firm and then bag them, so they stay loose and you can pour out a handful. Frozen fruit stays safe indefinitely; the months are about texture and flavour.",
+    "thawing": "Use them straight from frozen in coulis, jam, baking and smoothies. If you thaw them, do it in the fridge on a plate and accept that they will collapse — the juice is worth keeping.",
+    "spoilage": [
+      "Grey or white fuzzy mould on any berry in the punnet",
+      "Berries collapsed into juice at the bottom of the container",
+      "Fermented or winey smell",
+      "Dull, damp fruit rather than plump and velvety"
+    ],
+    "tips": [
+      "Check the base of the punnet for juice stains before buying",
+      "Remove one mouldy berry immediately; mould spreads within hours",
+      "Never wash until the moment you eat them",
+      "Tray-freeze the surplus the same day you buy it"
+    ],
+    "faq": [
+      {"q": "How long do raspberries last in the fridge?", "a": "Only about 2 to 3 days from purchase at 4 °C (40 °F) or below, unwashed and no more than a couple of berries deep."},
+      {"q": "Can you freeze raspberries?", "a": "Yes, for 8 to 12 months. Tray-freeze them in a single layer first so they stay loose in the bag."},
+      {"q": "Why do raspberries go mouldy so fast?", "a": "They have no protective skin and are hollow, so any moisture or bruise starts mould, which then spreads through the punnet in hours."}
+    ]
+  },
+  "zh": {
+    "name": "覆盆子",
+    "aliases": ["紅覆盆子", "樹莓", "覆盆莓", "raspberry"],
+    "summary": "覆盆子是中空、壁很薄的漿果，沒有果皮保護，這讓它成為多數人購物籃裡最脆弱的水果。冷藏從購買日起只放得住約 2 到 3 天，冷凍則有 8 到 12 個月。",
+    "pantry": "覆盆子完全不適合放在室溫。果肉和空氣之間沒有一層皮，所以室溫下一天內就會軟化、出水、長灰黴，光是回家路上放在悶熱的車裡，就會消耗掉可觀的壽命。一進門就冷藏，而且要吃的那一刻才洗。",
+    "fridge": "不要洗，放 4°C 以下，從購買日起約 2 到 3 天內吃完。保持在原本透氣的盒子裡，或墊廚房紙巾鋪一到兩顆高——堆得深，它會被自己的重量壓爛。買回來立刻翻一遍，把軟掉或發黴的挑掉，因為灰黴幾小時內就會一顆傳一顆。",
+    "freezer": "覆盆子冷凍效果好，−18°C 下可放 8 到 12 個月，而且它是少數冷凍後還能大致保持形狀的莓果。鋪在墊紙的托盤上單層冷凍到硬，再裝袋，這樣顆粒是散的，要用多少倒多少。只要維持凍結就是安全的，月數講的是口感和風味。",
+    "thawing": "做莓果醬、果醬、烘焙和果昔時直接用冷凍的。要解凍就放盤子上冷藏，並接受它會塌掉——流出來的汁很值得留著。",
+    "spoilage": [
+      "盒裡任何一顆長出灰白色絨毛黴",
+      "果實塌成一灘汁積在容器底部",
+      "有發酵味或酒味",
+      "果實不再飽滿有絨感，變得暗沉濕黏"
+    ],
+    "tips": [
+      "買之前先看盒底有沒有果汁染色",
+      "發現壞掉的立刻挑掉，黴幾小時內就會擴散",
+      "要吃的那一刻才洗",
+      "買回來當天就把吃不完的托盤冷凍"
+    ],
+    "faq": [
+      {"q": "覆盆子放冰箱可以放多久？", "a": "從購買日起只有約 2 到 3 天，放 4°C 以下、不要洗、堆疊不要超過兩顆高。"},
+      {"q": "覆盆子可以冷凍嗎？", "a": "可以，8 到 12 個月。先托盤單層冷凍，裝袋後顆粒才不會黏成一塊。"},
+      {"q": "覆盆子為什麼那麼快發黴？", "a": "它沒有保護性的果皮而且是中空的，只要有水氣或撞傷就會開始長黴，然後幾小時內傳遍整盒。"}
+    ]
+  },
+  "ja": {
+    "name": "ラズベリー",
+    "aliases": ["木いちご", "フランボワーズ", "紅苺", "Rubus idaeus"],
+    "summary": "ラズベリーは中空で壁の薄い果実で、守ってくれる皮がないため、買い物かごの中でもっとも繊細な果物です。冷蔵でも購入日から2〜3日ほどしか持たず、冷凍なら8〜12か月です。",
+    "pantry": "ラズベリーは常温にはまったく向きません。果肉と外気の間に皮がないため、室温では1日で軟らかくなって汁が出て灰色のカビが生えます。帰り道の暑い車内だけでも寿命をかなり削ります。家に着いたらすぐ冷蔵し、洗うのは食べる直前にしてください。",
+    "fridge": "洗わずに4℃以下で保存し、購入から2〜3日以内に食べきります。通気のあるパックのまま、またはキッチンペーパーの上に一〜二段で広げてください。深く積むと自重でつぶれます。帰宅したらすぐ見て、軟らかい実やカビた実を取り除きましょう。灰色かびは数時間で隣の実に移ります。",
+    "freezer": "冷凍向きで−18℃なら8〜12か月持ち、冷凍後も形がわりあい残る数少ないベリーです。紙を敷いたトレーに一段で広げて凍らせ、固まったら袋へ移すとばらけたまま必要な分だけ使えます。凍っていれば安全性は保たれ、月数は食感と風味の目安です。",
+    "thawing": "クーリやジャム、焼き菓子、スムージーには凍ったまま使います。解凍する場合は皿にのせて冷蔵庫で。崩れますが、出てきた果汁は使う価値があります。",
+    "spoilage": [
+      "パック内のどれかに灰色や白の綿状のカビ",
+      "実がつぶれて容器の底に果汁がたまっている",
+      "発酵臭、ワインのようなにおい",
+      "ふっくらビロードのような粒ではなく、くすんで湿っている"
+    ],
+    "tips": [
+      "買う前にパックの底の果汁のしみを確認",
+      "傷んだ粒はすぐ取り除く（数時間で広がります）",
+      "洗うのは食べる直前に",
+      "食べきれない分は買った日にトレー冷凍する"
+    ],
+    "faq": [
+      {"q": "ラズベリーは冷蔵庫でどのくらい持ちますか？", "a": "購入日から2〜3日ほどです。4℃以下で洗わず、二段を超えないように保存してください。"},
+      {"q": "ラズベリーは冷凍できますか？", "a": "はい、8〜12か月です。トレーで一段に凍らせてから袋へ移すとばらけます。"},
+      {"q": "なぜすぐカビるのですか？", "a": "守る皮がなく中空だからです。水分や傷からカビが始まり、数時間で容器全体に広がります。"}
+    ]
+  },
+  "es": {
+    "name": "Frambuesas",
+    "aliases": ["frambuesa roja", "frambuesa dorada", "raspberry", "Rubus idaeus"],
+    "summary": "Las frambuesas son bayas huecas de paredes finísimas sin piel que las proteja, lo que las convierte en la fruta más frágil de casi cualquier compra. Refrigeradas duran solo unos 2 a 3 días desde la compra, y se congelan de 8 a 12 meses.",
+    "pantry": "Las frambuesas no pintan nada en la encimera. No hay piel entre la pulpa y el aire, así que a temperatura ambiente se ablandan, rezuman y crían moho gris en un día, y un coche caliente de vuelta a casa se lleva una parte notable de su vida. Refrigéralas al entrar por la puerta y no las laves hasta el momento de comerlas.",
+    "fridge": "Guárdalas sin lavar a 4 °C (40 °F) o menos y consúmelas en unos 2 a 3 días desde la compra. Déjalas en su tarrina ventilada o extendidas una o dos bayas de altura sobre papel de cocina: apiladas se aplastan solas. Revisa la tarrina nada más llegar y retira cualquier baya blanda o con moho, porque el moho gris salta de una a otra en horas.",
+    "freezer": "Se congelan bien de 8 a 12 meses a −18 °C (0 °F) y son de las pocas bayas que mantienen razonablemente la forma. Extiéndelas en una capa sobre bandeja forrada, congélalas hasta que estén firmes y embólsalas para que queden sueltas y puedas servir un puñado. Congeladas son seguras indefinidamente; los meses son textura y sabor.",
+    "thawing": "Úsalas directamente congeladas en coulis, mermelada, repostería y batidos. Si las descongelas, hazlo en la nevera sobre un plato y asume que se deshacen: el jugo merece la pena guardarlo.",
+    "spoilage": [
+      "Moho gris o blanco algodonoso en cualquier baya de la tarrina",
+      "Bayas deshechas en jugo en el fondo del recipiente",
+      "Olor fermentado o avinado",
+      "Fruta mate y húmeda en lugar de turgente y aterciopelada"
+    ],
+    "tips": [
+      "Mira la base de la tarrina en busca de manchas de jugo antes de comprar",
+      "Retira enseguida una baya con moho: se propaga en horas",
+      "No las laves hasta el momento de comerlas",
+      "Congela el excedente en bandeja el mismo día de la compra"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las frambuesas en la nevera?", "a": "Solo unos 2 a 3 días desde la compra a 4 °C (40 °F) o menos, sin lavar y con un par de bayas de altura como mucho."},
+      {"q": "¿Se pueden congelar las frambuesas?", "a": "Sí, de 8 a 12 meses. Congélalas antes en bandeja en una capa para que queden sueltas en la bolsa."},
+      {"q": "¿Por qué enmohecen tan rápido?", "a": "No tienen piel protectora y son huecas, así que cualquier humedad o golpe inicia el moho, que recorre la tarrina en horas."}
+    ]
+  }
+}

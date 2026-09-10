@@ -1,0 +1,107 @@
+{
+  "slug": "persimmon",
+  "en": {
+    "name": "Persimmon",
+    "aliases": ["kaki", "fuyu", "hachiya", "sharon fruit", "caqui"],
+    "summary": "Persimmons come in two kinds that are stored the same way but eaten quite differently: astringent varieties such as hachiya, edible only when jelly-soft, and non-astringent ones such as fuyu, eaten crisp. Ripen at room temperature first, then refrigerate for about 2 to 4 weeks, or freeze the pulp for 6 to 8 months.",
+    "pantry": "There is no fixed number of days here, because the rule is which kind you have. Ripen persimmons at room temperature first: an astringent variety such as hachiya is only edible once it is fully soft, almost liquid inside, while a non-astringent one such as fuyu can be eaten firm and crisp straight away. Biting into an unripe hachiya is a memorable mistake — the tannins dry your whole mouth out. Keep them out of the sun and check the soft-eaten types daily.",
+    "fridge": "Refrigerate only after ripening, at 4 °C (40 °F) or below, where persimmons keep about 2 to 4 weeks. Commercial cold storage at −1 °C holds them for 3 to 4 months, but that is a controlled facility a home refrigerator cannot reproduce, so treat the weeks rather than the months as your figure. Keep them loose or lightly bagged, and away from ethylene-producing fruit, which will soften them faster than you want.",
+    "freezer": "Freeze the pulp rather than the whole fruit, for 6 to 8 months at −18 °C (0 °F). Scoop the flesh, blend it smooth if you like, and pack it flat in bags with the air pressed out. There is a useful side effect: freezing removes astringency from hachiya-type fruit, so a hard astringent persimmon frozen solid and then thawed is edible in a way it was not before.",
+    "thawing": "Thaw pulp in the fridge and use it the same day, or blend it from frozen into smoothies and ice cream. A whole frozen astringent persimmon can be thawed partly and eaten with a spoon like a sorbet.",
+    "spoilage": [
+      "Fermented or alcoholic smell rather than a mild honeyed one",
+      "Flesh gone brown, grey or watery instead of glossy orange jelly",
+      "Split skin with liquid weeping out",
+      "Mould around the green calyx"
+    ],
+    "tips": [
+      "Know which kind you have: hachiya soft, fuyu crisp",
+      "Ripen at room temperature before refrigerating, never the other way round",
+      "Freezing removes astringency from hachiya-type fruit",
+      "Leave the calyx on until you eat; it slows moisture loss"
+    ],
+    "faq": [
+      {"q": "How long do persimmons last in the fridge?", "a": "About 2 to 4 weeks once ripened. Commercial storage near −1 °C reaches 3 to 4 months, but a home fridge cannot do that."},
+      {"q": "Why is my persimmon so astringent?", "a": "It is an astringent variety such as hachiya, eaten only when fully soft. Freezing it solid also removes the astringency."},
+      {"q": "Can you freeze persimmons?", "a": "Freeze the pulp for 6 to 8 months rather than the whole fruit. Freezing also de-astringes hachiya-type persimmons."}
+    ]
+  },
+  "zh": {
+    "name": "柿子",
+    "aliases": ["甜柿", "澀柿", "牛心柿", "筆柿"],
+    "summary": "柿子分成兩類，保存方式一樣但吃法完全不同：澀柿（如 hachiya 類）要軟到像果凍才能吃，甜柿（如富有柿）則是硬脆時就吃。請先在室溫催熟，之後冷藏約 2 到 4 週，或把果肉冷凍 6 到 8 個月。",
+    "pantry": "這裡沒有固定的天數，因為關鍵是你拿到的是哪一種。柿子要先在室溫催熟：澀柿要完全軟透、裡面幾乎像液體才能吃；甜柿則可以硬脆時直接吃。咬一口沒熟的澀柿是會讓人記一輩子的錯誤——單寧會讓整個口腔乾到發澀。請避開日曬，軟食型的每天檢查。",
+    "fridge": "催熟之後才冷藏，放 4°C 以下大約可放 2 到 4 週。商業冷藏在 −1°C 可以放 3 到 4 個月，但那是家用冰箱做不到的控溫設施，所以請以「週」而不是「月」當成你的數字。鬆散放或輕輕裝袋，並遠離會釋放乙烯的水果，否則它會軟得比你想要的快。",
+    "freezer": "冷凍果肉而不是整顆，−18°C 下 6 到 8 個月。挖出果肉，喜歡的話打成泥，平鋪裝袋擠出空氣。還有一個很有用的副作用：冷凍可以去除澀柿的澀味，所以一顆硬硬的澀柿凍透再解凍，就變得可以吃了。",
+    "thawing": "果肉放冷藏解凍並當天用完，或直接冷凍狀態打成果昔和冰淇淋。整顆冷凍的澀柿也可以半解凍後用湯匙挖著吃，像雪酪一樣。",
+    "spoilage": [
+      "聞起來發酵或有酒味，而不是淡淡的蜜香",
+      "果肉不再是透亮的橙色果凍狀，而是轉褐、發灰或變得水水的",
+      "果皮裂開並滲出液體",
+      "綠色蒂頭周圍長黴"
+    ],
+    "tips": [
+      "先搞清楚是哪一種：澀柿要軟、甜柿吃脆",
+      "先室溫催熟再冷藏，順序不能顛倒",
+      "冷凍可以去掉澀柿的澀味",
+      "蒂頭留到要吃時再拿掉，可以減緩水分流失"
+    ],
+    "faq": [
+      {"q": "柿子放冰箱可以放多久？", "a": "催熟之後約 2 到 4 週。商業冷藏在 −1°C 可以到 3 到 4 個月，但家用冰箱辦不到。"},
+      {"q": "我的柿子為什麼那麼澀？", "a": "那是澀柿品種，要完全軟透才能吃。把它凍透也可以去掉澀味。"},
+      {"q": "柿子可以冷凍嗎？", "a": "冷凍果肉 6 到 8 個月，不要整顆冷凍。冷凍同時也能為澀柿脫澀。"}
+    ]
+  },
+  "ja": {
+    "name": "柿",
+    "aliases": ["かき", "富有柿", "渋柿", "次郎柿"],
+    "summary": "柿には保存法は同じでも食べ方がまったく違う二種類があります。渋柿はとろりと軟らかくなって初めて食べられ、甘柿は硬いままシャリッと食べられます。まず常温で追熟させ、その後冷蔵で約2〜4週間、果肉なら冷凍で6〜8か月です。",
+    "pantry": "ここに決まった日数はありません。大事なのはどちらの柿かです。まず常温で追熟させます。渋柿は完全に軟らかく、中がほぼ液状になって初めて食べられ、甘柿は硬くシャキシャキのまま食べられます。未熟な渋柿をかじるのは忘れられない失敗で、タンニンで口中が乾ききります。日光を避け、軟らかくして食べる品種は毎日確認してください。",
+    "fridge": "追熟してから4℃以下で冷蔵し、約2〜4週間持ちます。商業的な−1℃の貯蔵では3〜4か月持ちますが、家庭の冷蔵庫では再現できない管理環境なので、「月」ではなく「週」を目安にしてください。裸か軽く袋に入れ、エチレンを出す果物からは離します。思ったより早く軟らかくなってしまいます。",
+    "freezer": "まるごとではなく果肉を−18℃で6〜8か月冷凍します。果肉をすくい、好みでなめらかにして袋に平らに入れ、空気を抜きます。うれしい副次効果として、冷凍は渋柿の渋を抜きます。硬い渋柿を凍らせて解凍すると、それまでとは違って食べられるようになります。",
+    "thawing": "果肉は冷蔵庫で解凍してその日のうちに使うか、凍ったままスムージーやアイスに。まるごと凍らせた渋柿は半解凍にしてシャーベットのようにスプーンで食べられます。",
+    "spoilage": [
+      "穏やかな蜜のような香りではなく発酵臭・アルコール臭",
+      "つやのあるオレンジのゼリー状ではなく茶色・灰色・水っぽい果肉",
+      "皮が裂けて汁が出ている",
+      "緑のヘタまわりのカビ"
+    ],
+    "tips": [
+      "まずどちらの柿か確認する（渋柿は軟らかく、甘柿は硬いまま）",
+      "常温で追熟してから冷蔵。逆にしない",
+      "冷凍すると渋柿の渋が抜けます",
+      "ヘタは食べる直前まで付けておくと乾燥を防げます"
+    ],
+    "faq": [
+      {"q": "柿は冷蔵庫でどのくらい持ちますか？", "a": "追熟後で約2〜4週間です。−1℃の業務用貯蔵なら3〜4か月ですが、家庭では再現できません。"},
+      {"q": "渋いのはなぜですか？", "a": "渋柿の品種で、完全に軟らかくなってから食べるものだからです。凍らせても渋は抜けます。"},
+      {"q": "冷凍できますか？", "a": "まるごとより果肉を6〜8か月。冷凍は渋柿の脱渋にもなります。"}
+    ]
+  },
+  "es": {
+    "name": "Caqui",
+    "aliases": ["kaki", "palosanto", "fruta sharon", "persimón"],
+    "summary": "Hay dos tipos de caqui que se guardan igual pero se comen de forma muy distinta: los astringentes, como el hachiya, comestibles solo cuando están gelatinosos, y los no astringentes, como el fuyu, que se comen firmes. Madúralos primero a temperatura ambiente, luego refrigéralos unas 2 a 4 semanas, o congela la pulpa de 6 a 8 meses.",
+    "pantry": "Aquí no hay un número fijo de días, porque la regla depende del tipo que tengas. Madura los caquis primero a temperatura ambiente: una variedad astringente como el hachiya solo se come cuando está completamente blanda, casi líquida por dentro, mientras que una no astringente como el fuyu se come firme y crujiente desde el principio. Morder un hachiya verde es un error memorable: los taninos te secan toda la boca. Mantenlos fuera del sol y revisa a diario los que se comen blandos.",
+    "fridge": "Refrigéralos solo tras madurar, a 4 °C (40 °F) o menos, donde aguantan unas 2 a 4 semanas. El almacenamiento comercial a −1 °C los conserva 3 o 4 meses, pero es una instalación controlada que una nevera doméstica no reproduce, así que toma las semanas y no los meses como tu cifra. Guárdalos sueltos o en bolsa ligera y lejos de fruta que produzca etileno, que los ablandará antes de lo que quieres.",
+    "freezer": "Congela la pulpa en lugar de la fruta entera, de 6 a 8 meses a −18 °C (0 °F). Saca la pulpa, tritúrala si quieres y envásala plana sin aire. Hay un efecto secundario útil: la congelación elimina la astringencia de los caquis tipo hachiya, así que un caqui astringente y duro, congelado y luego descongelado, resulta comestible como antes no lo era.",
+    "thawing": "Descongela la pulpa en la nevera y úsala el mismo día, o bátela congelada en batidos y helados. Un caqui astringente congelado entero puede descongelarse a medias y comerse a cuchara como un sorbete.",
+    "spoilage": [
+      "Olor fermentado o alcohólico en lugar de suave y a miel",
+      "Pulpa parda, grisácea o acuosa en vez de gelatina naranja brillante",
+      "Piel agrietada que rezuma líquido",
+      "Moho alrededor del cáliz verde"
+    ],
+    "tips": [
+      "Identifica el tipo: hachiya blando, fuyu firme",
+      "Madura a temperatura ambiente antes de refrigerar, nunca al revés",
+      "La congelación quita la astringencia de los tipo hachiya",
+      "Deja el cáliz puesto hasta comerlo: frena la pérdida de humedad"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los caquis en la nevera?", "a": "Unas 2 a 4 semanas ya maduros. El almacenamiento comercial cerca de −1 °C llega a 3 o 4 meses, algo que una nevera no logra."},
+      {"q": "¿Por qué mi caqui es tan astringente?", "a": "Es una variedad astringente como el hachiya, que solo se come completamente blanda. Congelarlo también elimina la astringencia."},
+      {"q": "¿Se pueden congelar los caquis?", "a": "Congela la pulpa de 6 a 8 meses en lugar de la fruta entera. La congelación además desastringe los tipo hachiya."}
+    ]
+  }
+}

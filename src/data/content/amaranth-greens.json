@@ -1,0 +1,107 @@
+{
+  "slug": "amaranth-greens",
+  "en": {
+    "name": "Amaranth greens",
+    "aliases": ["Chinese spinach", "callaloo", "yin choy", "een choy", "bledo"],
+    "summary": "Amaranth greens are the soft red-and-green leaves sold in Asian markets as 莧菜 and in the Caribbean as callaloo, cooked down like spinach. They are among the fastest-wilting leafy greens: reckon on about 2 to 4 days in the fridge, and there is no useful room-temperature or freezer option for the fresh leaves.",
+    "pantry": "Amaranth greens do not keep at room temperature at all. The leaves are thin and lose water within hours, so a bunch left on a warm counter will be limp by the evening and slimy by the next morning. Get them home quickly, out of a hot bag, and into the fridge; if you bought them at a morning market, plan to cook them that day or the next.",
+    "fridge": "Do not wash before storing. Bag them loosely with a sheet of kitchen paper to catch condensation, and keep them at 4 °C (40 °F) or below, where they hold about 2 to 4 days. That range follows spinach storage, shortened by a day because amaranth leaves are thinner and collapse sooner. Stand the bunch upright if it has stems, and pull out any leaf that has already gone dark and wet, since it wets its neighbours.",
+    "freezer": "USDA gives no freezer timeline for amaranth greens, and freezing raw leaves is a waste — they collapse into a wet clump. What works is cooking them first: wilt them in a pan with a little garlic and oil, or blanch and squeeze them dry, then freeze the cooked greens in portions. They go straight into soups, curries and stir-fries from frozen.",
+    "thawing": "Add cooked frozen greens directly to a hot pan or pot. If you need them thawed, do it in the fridge and squeeze out the water before using.",
+    "spoilage": [
+      "Leaves gone limp, dark and translucent",
+      "Slimy stems or a wet, slippery feel to the leaves",
+      "Sour or fermented smell in the bag",
+      "Yellowing across whole leaves rather than just the outer edges"
+    ],
+    "tips": [
+      "Buy stiff, perky bunches; a floppy bunch is already halfway gone",
+      "Do not wash until you cook — surface water is what makes them slimy",
+      "Line the bag with kitchen paper to absorb condensation",
+      "The stems are edible but cook slower; add them to the pan first"
+    ],
+    "faq": [
+      {"q": "How long do amaranth greens last in the fridge?", "a": "About 2 to 4 days at 4 °C (40 °F) or below, unwashed and loosely bagged with kitchen paper."},
+      {"q": "Can you freeze amaranth greens?", "a": "Not raw. Cook or blanch them first, squeeze them dry and freeze the cooked greens in portions."},
+      {"q": "Can you eat the stems?", "a": "Yes. They are edible but take longer to soften, so add them to the pan a minute or two before the leaves."}
+    ]
+  },
+  "zh": {
+    "name": "莧菜",
+    "aliases": ["紅莧菜", "白莧菜", "野莧", "凹頭莧"],
+    "summary": "莧菜就是市場上那種葉片柔軟、紅綠相間的葉菜，加勒比地區叫 callaloo，煮法和菠菜差不多。它是最容易萎凋的葉菜之一：冷藏約 2 到 4 天，而新鮮葉片沒有實用的常溫或冷凍選項。",
+    "pantry": "莧菜在室溫下根本放不住。葉片薄，幾個小時就會失水，所以一把莧菜放在溫熱的流理台上，傍晚就軟了，隔天早上就會發黏。買回家要快、不要悶在熱袋子裡，並且直接進冰箱；早市買的，就打算當天或隔天煮掉。",
+    "fridge": "保存前不要洗。鬆鬆裝袋、裡面墊一張廚房紙巾吸收凝結的水氣，放 4°C 以下，大約可放 2 到 4 天。這個範圍是比照菠菜的保存方式，再縮短一天，因為莧菜的葉片更薄、塌得更快。有梗的話就把整把立著放，並把已經發黑濕爛的葉子挑出來，它會把旁邊也弄濕。",
+    "freezer": "USDA 沒有提供莧菜的冷凍期限，而且生葉冷凍是浪費——解凍後會變成一團濕答答的東西。可行的是先煮過：用一點蒜和油在鍋裡炒軟，或汆燙後擠乾水分，再把煮熟的莧菜分份冷凍。之後可以直接冷凍下鍋做湯、咖哩和炒菜。",
+    "thawing": "煮熟後冷凍的莧菜直接丟進熱鍋或湯裡。真的需要解凍就放冷藏，用之前先把水擠掉。",
+    "spoilage": [
+      "葉片軟塌、發黑、變得半透明",
+      "菜梗黏滑，或葉片摸起來濕滑",
+      "袋子裡有酸味或發酵味",
+      "整片葉子發黃，而不只是外緣"
+    ],
+    "tips": [
+      "挑挺立有精神的整把，軟趴趴的其實已經壞了一半",
+      "要煮之前才洗，表面的水正是讓它發黏的原因",
+      "袋子裡墊廚房紙巾吸收水氣",
+      "梗可以吃，但比較慢熟，先下梗再下葉"
+    ],
+    "faq": [
+      {"q": "莧菜放冰箱可以放多久？", "a": "放 4°C 以下、不要洗、鬆鬆裝袋加廚房紙巾，大約 2 到 4 天。"},
+      {"q": "莧菜可以冷凍嗎？", "a": "生的不行。先炒過或汆燙擠乾，再把煮熟的分份冷凍。"},
+      {"q": "莧菜的梗可以吃嗎？", "a": "可以。梗能吃但比較慢軟，建議比葉子早一兩分鐘下鍋。"}
+    ]
+  },
+  "ja": {
+    "name": "ヒユナ",
+    "aliases": ["ハゲイトウ", "アマランサスの葉", "莧菜", "バイアム"],
+    "summary": "ヒユナ（莧菜）はアジアの市場で売られる赤みを帯びたやわらかい葉物で、カリブではカラルーと呼ばれ、ほうれん草のように火を通して食べます。葉物の中でもとりわけしおれやすく、冷蔵で2〜4日ほど。生葉には実用的な常温・冷凍の選択肢はありません。",
+    "pantry": "ヒユナは常温ではまったく持ちません。葉が薄く数時間で水分が抜けるため、暖かい台所に置いた束は夕方にはくたっとし、翌朝にはぬめっています。熱い袋に入れっぱなしにせず手早く持ち帰り、すぐ冷蔵庫へ。朝市で買ったなら、その日か翌日には調理する前提で考えてください。",
+    "fridge": "保存前に洗わないでください。キッチンペーパーを一枚入れて袋にゆるく包み、4℃以下で保存すれば2〜4日ほど持ちます。この範囲はほうれん草の保存に倣い、葉が薄く早く崩れる分を1日短くしたものです。茎があれば立てて置き、すでに黒っぽく濡れた葉は取り除いてください。隣の葉まで濡らします。",
+    "freezer": "USDAはヒユナの冷凍期間を示しておらず、生葉の冷凍は無駄になります。解凍すると濡れた塊になるだけです。有効なのは先に火を通すこと。にんにくと油でさっと炒めるか、ゆでて水気を絞り、加熱済みのものを小分けにして冷凍します。凍ったままスープやカレー、炒め物に加えられます。",
+    "thawing": "加熱して冷凍したものは、そのまま熱した鍋やスープへ。解凍が必要なら冷蔵庫で行い、使う前に水気を絞ってください。",
+    "spoilage": [
+      "葉がくたっとして黒ずみ、半透明になっている",
+      "茎がぬめる、葉が濡れて滑る",
+      "袋の中の酸臭・発酵臭",
+      "外側の縁だけでなく葉全体が黄色くなっている"
+    ],
+    "tips": [
+      "しゃんと立った束を選ぶ（へたった束はすでに半分だめです）",
+      "洗うのは調理直前に（表面の水分がぬめりの原因）",
+      "袋にキッチンペーパーを入れて結露を吸わせる",
+      "茎も食べられますが火が通りにくいので先に鍋へ"
+    ],
+    "faq": [
+      {"q": "ヒユナは冷蔵庫でどのくらい持ちますか？", "a": "4℃以下で洗わず、キッチンペーパーとともにゆるく袋に入れて2〜4日ほどです。"},
+      {"q": "冷凍できますか？", "a": "生のままでは向きません。炒めるかゆでて水気を絞り、加熱済みを小分け冷凍してください。"},
+      {"q": "茎は食べられますか？", "a": "食べられます。ただし柔らかくなるのに時間がかかるので、葉より1〜2分早く鍋に入れましょう。"}
+    ]
+  },
+  "es": {
+    "name": "Hojas de amaranto",
+    "aliases": ["quelite", "bledo", "callaloo", "espinaca china", "amaranto"],
+    "summary": "Las hojas de amaranto son esas hojas blandas verdes y rojizas que se venden en los mercados asiáticos como 莧菜 y en el Caribe como callaloo, y se cocinan como la espinaca. Están entre las verduras de hoja que antes se marchitan: cuenta con unos 2 a 4 días en la nevera, y para la hoja fresca no hay opción útil ni a temperatura ambiente ni en congelador.",
+    "pantry": "Las hojas de amaranto no aguantan nada a temperatura ambiente. Son finas y pierden agua en horas, así que un manojo olvidado en una encimera cálida estará lacio por la tarde y viscoso a la mañana siguiente. Llévalas a casa deprisa, fuera de una bolsa caliente, y mételas en la nevera; si las compraste en el mercado por la mañana, cuenta con cocinarlas ese día o el siguiente.",
+    "fridge": "No las laves antes de guardarlas. Embólsalas sin apretar con una hoja de papel de cocina que recoja la condensación y mantenlas a 4 °C (40 °F) o menos, donde aguantan unos 2 a 4 días. Ese rango sigue el almacenamiento de la espinaca, acortado un día porque la hoja de amaranto es más fina y colapsa antes. Coloca el manojo de pie si tiene tallos y retira cualquier hoja ya oscura y húmeda, porque moja a las vecinas.",
+    "freezer": "El USDA no da plazo de congelación para las hojas de amaranto, y congelarlas crudas es un desperdicio: se deshacen en un bloque húmedo. Lo que funciona es cocinarlas antes: rehógalas con un poco de ajo y aceite, o escáldalas y escúrrelas apretando, y congela las hojas ya cocidas en porciones. Van congeladas directas a sopas, currys y salteados.",
+    "thawing": "Añade las hojas cocidas congeladas directamente a una sartén u olla caliente. Si necesitas descongelarlas, hazlo en la nevera y escurre el agua antes de usarlas.",
+    "spoilage": [
+      "Hojas lacias, oscuras y translúcidas",
+      "Tallos viscosos u hojas resbaladizas al tacto",
+      "Olor agrio o fermentado dentro de la bolsa",
+      "Amarilleo de la hoja entera y no solo de los bordes"
+    ],
+    "tips": [
+      "Compra manojos tiesos y erguidos; uno lacio ya está medio perdido",
+      "No las laves hasta cocinarlas: el agua superficial las vuelve viscosas",
+      "Forra la bolsa con papel de cocina para absorber la condensación",
+      "Los tallos son comestibles pero tardan más: échalos antes a la sartén"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las hojas de amaranto en la nevera?", "a": "Unos 2 a 4 días a 4 °C (40 °F) o menos, sin lavar y en bolsa floja con papel de cocina."},
+      {"q": "¿Se pueden congelar?", "a": "Crudas no. Cocínalas o escáldalas primero, escúrrelas bien y congela las hojas cocidas en porciones."},
+      {"q": "¿Se comen los tallos?", "a": "Sí. Son comestibles pero tardan más en ablandarse, así que échalos a la sartén un minuto o dos antes que las hojas."}
+    ]
+  }
+}

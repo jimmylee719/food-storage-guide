@@ -1,0 +1,107 @@
+{
+  "slug": "sea-buckthorn",
+  "en": {
+    "name": "Sea buckthorn",
+    "aliases": ["seaberry", "sallowthorn", "espino amarillo", "Hippophae rhamnoides"],
+    "summary": "Sea buckthorn berries are tiny, intensely sour orange fruits that burst at a touch, which is why they are almost never sold fresh. No agency publishes figures for them, so treat them like soft berries: about 3 to 7 days in the fridge, while frozen berries — the normal form — keep 8 to 12 months.",
+    "pantry": "Sea buckthorn does not keep at room temperature at all, which is why there is no counter timeline here. The berries are thin-skinned, packed with juice and attached so tightly to thorny branches that they are usually harvested by freezing the branches and shaking the fruit off. Anything you have fresh should go straight into the fridge or the freezer.",
+    "fridge": "Reckon on about 3 to 7 days at 4 °C (40 °F) or below, a working limit taken from the handling of soft berries rather than a published sea buckthorn figure. The berries burst easily, so keep them in a shallow layer in a vented container and do not wash them until you use them — a washed punnet turns into juice within a day. Sort out any crushed fruit as soon as you get them.",
+    "freezer": "Sea buckthorn is almost always frozen straight after harvest, and 8 to 12 months at −18 °C (0 °F) is a sound planning range following standard frozen-fruit practice. It is juiced from frozen, which is far cleaner than trying to press thawed berries. Freeze on a tray in a single layer, then bag; frozen berries stay safe indefinitely and the months are about colour and vitamin quality.",
+    "thawing": "Press or blend them straight from frozen — that is how the juice is normally extracted. If you must thaw, do it in the fridge over a bowl and keep every drop of juice.",
+    "spoilage": [
+      "Berries crushed and sitting in a pool of juice",
+      "Fermented, alcoholic or yeasty smell",
+      "Colour dulled from bright orange to brown",
+      "White or grey mould anywhere in the container"
+    ],
+    "tips": [
+      "Buy frozen unless you have a bush; fresh berries barely travel",
+      "Do not wash before storing — the skins burst",
+      "Juice them from frozen for a cleaner press",
+      "It is far too sour to eat plain; blend with sweeter juice or honey"
+    ],
+    "faq": [
+      {"q": "How long do sea buckthorn berries last?", "a": "About 3 to 7 days in the fridge, treating them as soft berries. Frozen, reckon on 8 to 12 months at −18 °C (0 °F)."},
+      {"q": "Can you freeze sea buckthorn?", "a": "Yes, and it is the normal way to keep it — the fruit is usually frozen right after harvest and juiced from frozen."},
+      {"q": "Why is sea buckthorn so hard to find fresh?", "a": "The berries burst at a touch and cling to thorny branches, so they are usually harvested frozen and sold frozen or as juice."}
+    ]
+  },
+  "zh": {
+    "name": "沙棘",
+    "aliases": ["沙棘果", "醋柳果", "seaberry", "沙棘漿果"],
+    "summary": "沙棘是極小、極酸的橙色漿果，一碰就破，這也是它幾乎買不到新鮮貨的原因。沒有官方單位公布它的保存數據，所以用軟質莓果的標準來看：冷藏約 3 到 7 天；而流通形式的冷凍果實可以放 8 到 12 個月。",
+    "pantry": "沙棘在室溫下根本放不住，所以這裡沒有常溫的期限。它果皮薄、汁液飽滿，而且緊緊長在多刺的枝條上，採收方式通常是把枝條凍起來再把果實抖下來。手上有新鮮的，就直接進冷藏或冷凍。",
+    "fridge": "以 4°C 以下 3 到 7 天為合理上限；這是借用軟質莓果的處理方式，不是針對沙棘公布的數字。果實非常容易破，所以請用透氣容器淺淺鋪一層，而且要用之前才洗——洗過的一盒沙棘一天內就會變成一灘果汁。拿到就先把已經破掉的挑出來。",
+    "freezer": "沙棘幾乎都是採收後立刻冷凍的，−18°C 下 8 到 12 個月是合理的規劃範圍，依循一般冷凍水果的做法。它是在冷凍狀態下榨汁的，比解凍後再壓乾淨得多。先在托盤上單層冷凍再裝袋；只要維持凍結就是安全的，月數講的是顏色和營養品質。",
+    "thawing": "直接用冷凍狀態壓榨或打碎，果汁本來就是這樣取的。真的要解凍就放冷藏、下面墊個碗，並且把每一滴汁都留住。",
+    "spoilage": [
+      "果實被壓破，泡在一灘果汁裡",
+      "有發酵味、酒味或酵母味",
+      "顏色由鮮橙轉為暗褐",
+      "容器裡任何地方出現白色或灰色的黴"
+    ],
+    "tips": [
+      "除非家裡有樹，否則直接買冷凍的，新鮮果實幾乎沒辦法運送",
+      "保存前不要洗，果皮會破",
+      "冷凍狀態榨汁比較乾淨俐落",
+      "它酸到不適合單吃，請和較甜的果汁或蜂蜜一起調"
+    ],
+    "faq": [
+      {"q": "沙棘可以放多久？", "a": "用軟質莓果的標準來看，冷藏約 3 到 7 天。冷凍的話 −18°C 下約 8 到 12 個月。"},
+      {"q": "沙棘可以冷凍嗎？", "a": "可以，而且這本來就是它的保存方式——通常採收後立刻冷凍，並在冷凍狀態下榨汁。"},
+      {"q": "為什麼很難買到新鮮沙棘？", "a": "果實一碰就破，又緊緊長在多刺的枝條上，所以採收時多半是連枝冷凍，市面上賣的是冷凍果或果汁。"}
+    ]
+  },
+  "ja": {
+    "name": "サジー",
+    "aliases": ["シーベリー", "沙棘", "シーバックソーン", "Hippophae rhamnoides"],
+    "summary": "サジー（シーベリー）は非常に小さく強烈に酸っぱいオレンジ色の果実で、触れただけでつぶれるため、生で売られることはほとんどありません。公的な保存データがないため、やわらかいベリーの目安として冷蔵で3〜7日、流通形態である冷凍なら8〜12か月と考えます。",
+    "pantry": "サジーは常温ではまったく持たないため、常温の目安はありません。皮が薄く果汁がぎっしり詰まっており、とげのある枝に強く付いているので、枝ごと凍らせて振り落とす方法で収穫されるのが普通です。生の実が手に入ったら、すぐ冷蔵か冷凍へ。",
+    "fridge": "4℃以下で3〜7日を目安にします。これはやわらかいベリーの扱いを当てはめたもので、サジー固有の公表値ではありません。粒がつぶれやすいので、通気容器に浅く一段で入れ、使う直前まで洗わないこと。洗った容器は一日で果汁の海になります。手に入れたらつぶれた粒を取り除いてください。",
+    "freezer": "サジーは収穫後すぐ冷凍されるのが一般的で、−18℃で8〜12か月が妥当な目安です（冷凍フルーツ一般の慣行に従っています）。搾汁は凍ったまま行うほうが、解凍してから搾るよりずっときれいに仕上がります。トレーで一段に凍らせてから袋へ。凍っていれば安全性は保たれ、月数は色と栄養面の品質の目安です。",
+    "thawing": "凍ったまま搾るか撹拌します。もともとそうやって果汁を取ります。解凍する場合はボウルの上で冷蔵庫に置き、果汁を一滴も逃さないようにしてください。",
+    "spoilage": [
+      "粒がつぶれて果汁の中に浸っている",
+      "発酵臭、アルコール臭、酵母臭",
+      "鮮やかなオレンジが茶色くくすんでいる",
+      "容器内の白や灰色のカビ"
+    ],
+    "tips": [
+      "自宅に木がなければ冷凍を買う（生はほとんど流通しません）",
+      "保存前に洗わない（皮が破れます）",
+      "凍ったまま搾ると仕上がりがきれい",
+      "そのままでは酸が強すぎるので、甘いジュースやはちみつと合わせる"
+    ],
+    "faq": [
+      {"q": "サジーはどのくらい持ちますか？", "a": "やわらかいベリーの目安として冷蔵で3〜7日、冷凍なら−18℃で8〜12か月です。"},
+      {"q": "冷凍できますか？", "a": "できますし、それが標準的な保存法です。収穫後すぐ凍らせ、凍ったまま搾汁します。"},
+      {"q": "なぜ生のサジーは手に入りにくいのですか？", "a": "触れるとつぶれ、とげのある枝に強く付いているため、枝ごと凍らせて収穫し、冷凍かジュースで流通するからです。"}
+    ]
+  },
+  "es": {
+    "name": "Espino amarillo",
+    "aliases": ["seaberry", "sea buckthorn", "espino falso", "Hippophae rhamnoides"],
+    "summary": "Las bayas de espino amarillo son diminutas, intensamente ácidas y anaranjadas, y revientan al menor roce, motivo por el que casi nunca se venden frescas. Ningún organismo publica cifras, así que se tratan como bayas blandas: unos 3 a 7 días en la nevera, mientras que congeladas —su forma habitual— duran de 8 a 12 meses.",
+    "pantry": "El espino amarillo no aguanta nada a temperatura ambiente, y por eso aquí no hay plazo de encimera. Las bayas tienen la piel finísima, están llenas de jugo y se agarran tan fuerte a ramas espinosas que suelen cosecharse congelando las ramas y sacudiendo el fruto. Lo que tengas fresco debe ir directo a la nevera o al congelador.",
+    "fridge": "Cuenta con unos 3 a 7 días a 4 °C (40 °F) o menos, un límite tomado del manejo de las bayas blandas y no una cifra publicada. Revientan con facilidad, así que guárdalas en una capa fina en recipiente ventilado y no las laves hasta usarlas: una tarrina lavada se convierte en jugo en un día. Retira la fruta reventada nada más llegar.",
+    "freezer": "El espino amarillo se congela casi siempre justo tras la cosecha, y 8 a 12 meses a −18 °C (0 °F) es un rango sensato según la práctica estándar con fruta congelada. Se exprime en congelado, lo que resulta mucho más limpio que prensar bayas descongeladas. Congela en bandeja en una capa y luego embolsa; congeladas son seguras indefinidamente y los meses se refieren al color y la calidad vitamínica.",
+    "thawing": "Prénsalas o bátelas directamente congeladas: así se extrae normalmente el zumo. Si tienes que descongelarlas, hazlo en la nevera sobre un bol y guarda hasta la última gota.",
+    "spoilage": [
+      "Bayas aplastadas sumergidas en su jugo",
+      "Olor fermentado, alcohólico o a levadura",
+      "Color apagado, de naranja vivo a pardo",
+      "Moho blanco o gris en cualquier punto del recipiente"
+    ],
+    "tips": [
+      "Compra congelado salvo que tengas un arbusto: la fruta fresca apenas viaja",
+      "No las laves antes de guardarlas: la piel revienta",
+      "Exprímelas congeladas para un prensado más limpio",
+      "Es demasiado ácido para comerlo solo: mézclalo con zumo dulce o miel"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las bayas de espino amarillo?", "a": "Unos 3 a 7 días en la nevera, tratándolas como bayas blandas. Congeladas, de 8 a 12 meses a −18 °C (0 °F)."},
+      {"q": "¿Se puede congelar el espino amarillo?", "a": "Sí, y es la forma normal de conservarlo: se congela justo tras la cosecha y se exprime en congelado."},
+      {"q": "¿Por qué es tan difícil encontrarlo fresco?", "a": "Las bayas revientan al tocarlas y se aferran a ramas espinosas, así que se cosechan congeladas y se venden congeladas o en zumo."}
+    ]
+  }
+}

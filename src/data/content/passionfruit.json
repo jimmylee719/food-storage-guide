@@ -1,0 +1,107 @@
+{
+  "slug": "passionfruit",
+  "en": {
+    "name": "Passionfruit",
+    "aliases": ["passion fruit", "maracuyá", "purple granadilla", "fruta de la pasión"],
+    "summary": "Passionfruit is a hard-shelled tropical fruit whose seedy, intensely aromatic pulp is scooped straight out with a spoon. From purchase it keeps 3 to 5 days on the counter and about a week in the fridge, and the pulp freezes for 6 to 8 months.",
+    "pantry": "A bowl on the counter keeps passionfruit about 3 to 5 days from purchase, and the fruit sweetens as it sits. Wrinkling is not spoilage — a lightly shrivelled passionfruit has concentrated pulp and is usually better than a smooth, taut one. Keep it out of direct sun and check it by weight: a fruit that feels light and rattles has dried out inside.",
+    "fridge": "Refrigerated at 4 °C (40 °F) or below, passionfruit holds about 1 week from purchase. Keep it in a bag or lidded box so the shell does not dehydrate and crack, since a cracked shell dries the pulp out fast. Once you cut a fruit open, scrape the pulp into a covered tub and use it within about 3 days.",
+    "freezer": "Passionfruit pulp freezes for 6 to 8 months at −18 °C (0 °F), seeds and all, and this is the most useful thing you can do with a glut. Scoop it into an ice cube tray, freeze until solid, then bag the cubes — one cube is roughly one fruit, which makes measuring easy. Freezing whole fruit is a waste of space because the shell is inedible.",
+    "thawing": "Thaw a cube or two in the fridge, or drop them frozen into a sauce, drink or curd as it heats. Use thawed pulp the same day and do not refreeze.",
+    "spoilage": [
+      "Shell cracked or leaking with dried pulp inside",
+      "Fruit that feels light and rattles when shaken",
+      "Fermented, alcoholic or musty smell when opened",
+      "Pulp gone brown and cloudy rather than bright orange"
+    ],
+    "tips": [
+      "Wrinkled skin means sweeter, more concentrated pulp — not spoilage",
+      "Choose fruit that feels heavy for its size",
+      "Freeze the pulp in an ice cube tray: one cube equals one fruit",
+      "Warm the pulp gently and strain it if you want juice without seeds"
+    ],
+    "faq": [
+      {"q": "How long does passionfruit last?", "a": "About 3 to 5 days at room temperature and roughly 1 week in the fridge, both counted from purchase."},
+      {"q": "Is a wrinkled passionfruit still good?", "a": "Yes, and usually better. Wrinkling concentrates the pulp. Discard only fruit that is light and hollow, cracked, or smells fermented."},
+      {"q": "Can you freeze passionfruit?", "a": "Freeze the pulp with its seeds for 6 to 8 months, ideally in an ice cube tray. Whole fruit is not worth the freezer space."}
+    ]
+  },
+  "zh": {
+    "name": "百香果",
+    "aliases": ["西番蓮", "雞蛋果", "熱情果", "maracuyá"],
+    "summary": "百香果是外殼堅硬的熱帶水果，裡面帶籽的果肉香氣極濃，用湯匙直接挖著吃。從購買日起，室溫可放 3 到 5 天，冷藏約一週；果肉冷凍 6 到 8 個月。",
+    "pantry": "放在室溫的碗裡，從購買日起大約 3 到 5 天，而且放著會愈來愈甜。起皺不是壞掉——外皮微微皺縮的百香果果肉更濃縮，通常比光滑緊繃的那顆好吃。避開日曬，並用重量判斷：拿起來輕、搖起來會響的，裡面已經乾掉了。",
+    "fridge": "放 4°C 以下冷藏，從購買日起約一週。裝袋或用有蓋的盒子裝，避免外殼脫水裂開，因為殼一裂，果肉很快就會乾掉。切開之後，把果肉刮進有蓋的盒子，約 3 天內用完。",
+    "freezer": "百香果果肉連籽在 −18°C 下可以冷凍 6 到 8 個月，這也是盛產時最實用的處理方式。挖進製冰盒凍硬後裝袋——一格大約就是一顆的量，之後很好計量。整顆冷凍是浪費空間，因為外殼不能吃。",
+    "thawing": "取一兩塊放冷藏解凍，或在加熱醬汁、飲料、檸檬凝乳時直接把冷凍塊丟進去。解凍的果肉當天用完，不要回凍。",
+    "spoilage": [
+      "外殼裂開或滲漏，裡面的果肉已經乾掉",
+      "拿起來輕、搖起來會響",
+      "剝開時聞到發酵味、酒味或霉味",
+      "果肉不再是鮮橙色，而是轉褐、變混濁"
+    ],
+    "tips": [
+      "外皮起皺代表果肉更甜更濃縮，不是壞掉",
+      "挑拿起來比看起來重的",
+      "果肉用製冰盒冷凍：一格就是一顆",
+      "想要無籽果汁，就把果肉稍微加溫再過篩"
+    ],
+    "faq": [
+      {"q": "百香果可以放多久？", "a": "從購買日起，室溫約 3 到 5 天，冷藏約一週。"},
+      {"q": "皺掉的百香果還能吃嗎？", "a": "可以，而且通常更好吃。起皺代表果肉更濃縮。只有輕飄飄空空的、裂開的，或聞起來發酵的才要丟。"},
+      {"q": "百香果可以冷凍嗎？", "a": "冷凍果肉連籽 6 到 8 個月，用製冰盒最方便。整顆冷凍不值得占空間。"}
+    ]
+  },
+  "ja": {
+    "name": "パッションフルーツ",
+    "aliases": ["クダモノトケイソウ", "果物時計草", "マラクヤ", "passion fruit"],
+    "summary": "パッションフルーツは硬い殻を持つ熱帯果実で、種ごとの香り高い果肉をスプーンですくって食べます。購入日から常温で3〜5日、冷蔵で約1週間、果肉は冷凍で6〜8か月持ちます。",
+    "pantry": "常温の器なら購入日から3〜5日ほど持ち、置くほど甘くなります。しわは傷みではありません。少ししぼんだパッションフルーツは果肉が凝縮しており、つるつるに張ったものよりおいしいことが多いです。直射日光を避け、重さで判断してください。軽くて振ると音がするものは中が乾いています。",
+    "fridge": "4℃以下なら購入日から約1週間持ちます。殻が乾いて割れないよう袋かふたつき容器に入れてください。割れると果肉が一気に乾きます。切ったら果肉をふたつき容器にこそげ取り、約3日以内に使い切りましょう。",
+    "freezer": "果肉は種ごと−18℃で6〜8か月冷凍でき、たくさん手に入ったときにいちばん役立つ方法です。製氷皿に入れて凍らせ、固まったら袋へ。1個がだいたい果実1個分なので分量も計りやすくなります。殻は食べられないので、まるごと冷凍は場所の無駄です。",
+    "thawing": "1〜2個を冷蔵庫で解凍するか、ソースや飲み物、カードを温めるときに凍ったまま加えます。解凍した果肉はその日のうちに使い、再冷凍はしないでください。",
+    "spoilage": [
+      "殻が割れて汁が出ている、中の果肉が乾いている",
+      "持つと軽く、振ると音がする",
+      "割ったときの発酵臭・アルコール臭・かび臭",
+      "鮮やかなオレンジではなく茶色く濁った果肉"
+    ],
+    "tips": [
+      "皮のしわは果肉が凝縮したサインで、傷みではありません",
+      "見た目より重いものを選ぶ",
+      "果肉は製氷皿で冷凍（1個＝果実1個分）",
+      "種のないジュースにしたいときは軽く温めて漉す"
+    ],
+    "faq": [
+      {"q": "パッションフルーツはどのくらい持ちますか？", "a": "購入日から常温で3〜5日、冷蔵で約1週間です。"},
+      {"q": "しわが出ても食べられますか？", "a": "食べられますし、むしろおいしいことが多いです。処分するのは軽く空洞のもの、割れているもの、発酵臭のするものだけです。"},
+      {"q": "冷凍できますか？", "a": "果肉を種ごと6〜8か月。製氷皿が便利です。まるごとは場所を取るだけです。"}
+    ]
+  },
+  "es": {
+    "name": "Maracuyá",
+    "aliases": ["fruta de la pasión", "parchita", "granadilla morada", "passionfruit"],
+    "summary": "El maracuyá es una fruta tropical de cáscara dura cuya pulpa con semillas, intensamente aromática, se come a cucharadas. Desde la compra aguanta 3 a 5 días en la encimera y alrededor de una semana en la nevera, y la pulpa se congela de 6 a 8 meses.",
+    "pantry": "Un frutero conserva el maracuyá unos 3 a 5 días desde la compra, y la fruta se endulza mientras espera. Las arrugas no son deterioro: un maracuyá algo arrugado tiene la pulpa más concentrada y suele estar mejor que uno liso y tenso. Mantenlo lejos del sol directo y júzgalo por el peso: si se nota ligero y suena al agitarlo, está seco por dentro.",
+    "fridge": "A 4 °C (40 °F) o menos el maracuyá aguanta alrededor de 1 semana desde la compra. Guárdalo en bolsa o caja con tapa para que la cáscara no se deshidrate y se agriete, porque una cáscara rota reseca la pulpa deprisa. Una vez abierto, raspa la pulpa a un recipiente tapado y úsala en unos 3 días.",
+    "freezer": "La pulpa de maracuyá se congela de 6 a 8 meses a −18 °C (0 °F), semillas incluidas, y es lo más útil que puedes hacer con un exceso. Ponla en una cubitera, congélala y embolsa los cubitos: uno equivale más o menos a una fruta, lo que facilita medir. Congelar la fruta entera desperdicia espacio porque la cáscara no se come.",
+    "thawing": "Descongela uno o dos cubitos en la nevera, o échalos congelados a una salsa, bebida o crema mientras se calienta. Usa la pulpa descongelada el mismo día y no la recongeles.",
+    "spoilage": [
+      "Cáscara agrietada o que rezuma, con la pulpa seca dentro",
+      "Fruta ligera que suena al agitarla",
+      "Olor fermentado, alcohólico o a humedad al abrirla",
+      "Pulpa parda y turbia en lugar de naranja brillante"
+    ],
+    "tips": [
+      "La piel arrugada indica pulpa más dulce y concentrada, no deterioro",
+      "Elige fruta pesada para su tamaño",
+      "Congela la pulpa en cubitera: un cubito equivale a una fruta",
+      "Calienta suavemente la pulpa y cuélala si quieres zumo sin semillas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el maracuyá?", "a": "Unos 3 a 5 días a temperatura ambiente y alrededor de 1 semana en la nevera, contados desde la compra."},
+      {"q": "¿Sirve un maracuyá arrugado?", "a": "Sí, y suele estar mejor: las arrugas concentran la pulpa. Descarta solo el que esté ligero y hueco, agrietado o huela fermentado."},
+      {"q": "¿Se puede congelar el maracuyá?", "a": "Congela la pulpa con semillas de 6 a 8 meses, mejor en cubitera. La fruta entera no merece el espacio."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "sapote",
+  "en": {
+    "name": "Sapote",
+    "aliases": ["zapote", "mamey sapote", "white sapote", "sapota"],
+    "summary": "Sapote is the general name for a group of soft-fleshed tropical fruits, all of which are picked firm and ripened at room temperature. There is no fixed counter timeline — leave the fruit out until ripe, then 1 to 2 days — after which it keeps 3 to 5 days in the fridge, and sliced fruit freezes for 2 months.",
+    "pantry": "The counter rule is a stage rather than a number of days: leave sapote at room temperature until it is ripe, meaning tender, fully developed and ready to eat, and then 1 to 2 days at most. Judge it by an even give under gentle pressure and by the skin dulling; on mamey types you can scratch a small patch of skin and look for coloured flesh underneath. Keep it out of direct sun and check it daily as it softens.",
+    "fridge": "Refrigerate only once the fruit is ripe, at 4 °C (40 °F) or below, where it keeps 3 to 5 days. These are chilling-sensitive tropical fruits: a hard sapote put in the fridge stalls, darkens and never ripens properly afterwards. Cut flesh oxidises quickly, so press cling film onto the surface or keep the scooped pulp in a covered tub.",
+    "freezer": "Sliced sapote keeps 2 months at −18 °C (0 °F), a figure that assumes the fruit is sliced and packed with lemon juice and sugar, which is what keeps it from browning and going mushy. Scoop or slice the flesh away from the seed, toss it with lemon and a little sugar and pack it flat with the air pressed out. Frozen fruit stays safe indefinitely; 2 months is a quality window.",
+    "thawing": "Thaw in the fridge and use the same day, or blend the pulp straight from frozen into shakes and ice cream. Do not thaw at room temperature.",
+    "spoilage": [
+      "Fermented or alcoholic smell rather than a mild sweet one",
+      "Flesh gone brown, grey or watery",
+      "Skin split with the fruit collapsing and weeping",
+      "Mould at the stem end or in a crack in the skin"
+    ],
+    "tips": [
+      "Buy firm and ripen at home; refrigerated hard fruit never comes right",
+      "Judge ripeness by an even give, not by colour alone",
+      "Press cling film onto cut flesh to stop it browning",
+      "Freeze the pulp with lemon and sugar for shakes and ice cream"
+    ],
+    "faq": [
+      {"q": "How long does sapote last?", "a": "Leave it out until ripe, then 1 to 2 days on the counter. Ripe fruit keeps 3 to 5 days in the fridge."},
+      {"q": "Can you refrigerate an unripe sapote?", "a": "No. These are chilling-sensitive fruits: cold stalls the ripening and the fruit darkens instead of softening properly."},
+      {"q": "Can you freeze sapote?", "a": "Yes, sliced with lemon juice and sugar, for about 2 months. That preparation is what prevents browning and mushiness."}
+    ]
+  },
+  "zh": {
+    "name": "山欖果",
+    "aliases": ["sapote", "zapote", "人心果類", "曼密蘋果類"],
+    "summary": "Sapote 是一群軟質熱帶水果的統稱，它們有一個共通點：都是硬著採、在室溫催熟。它的常溫沒有固定期限——放到熟為止，之後再放 1 到 2 天——熟了之後冷藏 3 到 5 天，切片冷凍 2 個月。",
+    "pantry": "這裡的室溫規則是「一個階段」而不是天數：把果實放在室溫直到熟為止，也就是變得柔軟、發育完全、可以入口，之後最多再放 1 到 2 天。判斷方式是整顆均勻地輕壓會凹、外皮由亮轉暗；曼密類的還可以刮開一小塊皮，看底下的果肉有沒有轉色。避開日曬，開始變軟之後每天檢查。",
+    "fridge": "熟了才冷藏，放 4°C 以下可以放 3 到 5 天。這一類都是怕冷的熱帶水果：硬的果實放進冰箱會卡住、變黑，之後再也熟不好。切開的果肉氧化很快，所以請把保鮮膜直接壓貼在切面上，或把挖出來的果肉裝盒蓋好。",
+    "freezer": "切片的 sapote 在 −18°C 下可放 2 個月，這個數字的前提是切片後拌上檸檬汁和糖，正是那道手續讓它不會褐化、不會爛掉。把果肉從種子上挖下或切下，拌檸檬汁和一點糖，平鋪裝袋擠出空氣。只要維持凍結就是安全的，2 個月是品質區間。",
+    "thawing": "放冷藏解凍並當天用完，或直接把冷凍果肉打進奶昔和冰淇淋裡。不要放室溫解凍。",
+    "spoilage": [
+      "聞起來發酵或有酒味，而不是溫和的甜香",
+      "果肉轉褐、發灰或變得水水的",
+      "果皮裂開、整顆塌陷滲汁",
+      "蒂頭或果皮裂縫處長黴"
+    ],
+    "tips": [
+      "買硬的回家自己催熟；硬的時候冰過就再也熟不好",
+      "靠整顆均勻的柔軟度判斷，不要只看顏色",
+      "切面直接壓上保鮮膜，防止褐化",
+      "果肉拌檸檬和糖冷凍，之後做奶昔和冰淇淋"
+    ],
+    "faq": [
+      {"q": "Sapote 可以放多久？", "a": "放到熟為止，之後室溫再放 1 到 2 天；熟果冷藏 3 到 5 天。"},
+      {"q": "沒熟的 sapote 可以冰嗎？", "a": "不行。這類水果怕冷，低溫會讓後熟停住，果實不會好好變軟，只會變黑。"},
+      {"q": "Sapote 可以冷凍嗎？", "a": "可以，切片拌檸檬汁和糖約 2 個月。這道手續正是防止褐化和軟爛的關鍵。"}
+    ]
+  },
+  "ja": {
+    "name": "サポテ",
+    "aliases": ["ザポテ", "マメイサポテ", "ホワイトサポテ", "sapote"],
+    "summary": "サポテは果肉のやわらかい熱帯果実の総称で、いずれも硬い状態で収穫し常温で追熟させます。常温の期間は決まっておらず、熟すまで置いてさらに1〜2日。熟してからは冷蔵で3〜5日、スライスを冷凍すれば2か月です。",
+    "pantry": "常温のルールは日数ではなく状態です。やわらかく十分に発育して食べられる状態になるまで置き、その後はせいぜい1〜2日。全体が均一に軽くへこむこと、皮のつやが落ちることが目安で、マメイ系なら皮を少しこすって下の果肉の色を見る方法もあります。直射日光を避け、軟らかくなり始めたら毎日確認してください。",
+    "fridge": "熟してから4℃以下で冷蔵し、3〜5日持ちます。いずれも低温に弱い熱帯果実で、硬いまま冷蔵すると追熟が止まり黒ずんで、その後きちんと熟すことはありません。切った果肉は酸化が速いので、切り口にラップを密着させるか、すくった果肉をふたつき容器に入れてください。",
+    "freezer": "スライスしたサポテは−18℃で2か月。これはスライスしてレモン汁と砂糖をまぶし、褐変と型崩れを防ぐことを前提とした数字です。種から果肉をすくうか切り取り、レモンと少量の砂糖であえて袋に平らに入れ、空気を抜きます。凍っていれば安全性は保たれ、2か月は品質の目安です。",
+    "thawing": "冷蔵庫で解凍してその日のうちに使うか、凍った果肉をそのままシェイクやアイスに撹拌します。常温解凍は避けてください。",
+    "spoilage": [
+      "穏やかな甘い香りではなく発酵臭・アルコール臭",
+      "果肉が茶色い、灰色っぽい、水っぽい",
+      "皮が裂けて果実がつぶれ汁がにじむ",
+      "ヘタや皮の割れ目のカビ"
+    ],
+    "tips": [
+      "硬いものを買って家で追熟（硬いうちに冷やすと戻りません）",
+      "色だけでなく全体の均一なやわらかさで判断する",
+      "切り口にラップを密着させて褐変を防ぐ",
+      "果肉をレモンと砂糖であえて冷凍し、シェイクやアイスに"
+    ],
+    "faq": [
+      {"q": "サポテはどのくらい持ちますか？", "a": "熟すまで常温に置き、その後1〜2日。熟したものは冷蔵で3〜5日です。"},
+      {"q": "未熟なサポテを冷蔵してもいい？", "a": "いけません。低温に弱く、冷やすと追熟が止まり、軟らかくならずに黒ずみます。"},
+      {"q": "冷凍できますか？", "a": "はい。スライスしてレモン汁と砂糖をまぶし約2か月。その下ごしらえが褐変と型崩れを防ぎます。"}
+    ]
+  },
+  "es": {
+    "name": "Zapote",
+    "aliases": ["sapote", "mamey", "zapote blanco", "zapotillo"],
+    "summary": "Zapote es el nombre general de un grupo de frutas tropicales de pulpa blanda, todas ellas recogidas firmes y maduradas a temperatura ambiente. No hay plazo fijo en la encimera —déjalas hasta que maduren y luego 1 o 2 días—, tras lo cual aguantan 3 a 5 días en la nevera; en rodajas se congelan 2 meses.",
+    "pantry": "La regla de encimera es un estado, no un número de días: deja el zapote a temperatura ambiente hasta que esté maduro —tierno, plenamente desarrollado y listo para comer— y luego 1 o 2 días como mucho. Júzgalo por una cesión uniforme a la presión suave y por la piel que pierde brillo; en los tipo mamey puedes rascar un trocito de piel y mirar el color de la pulpa. Mantenlo lejos del sol directo y revísalo a diario mientras se ablanda.",
+    "fridge": "Refrigéralo solo ya maduro, a 4 °C (40 °F) o menos, donde aguanta 3 a 5 días. Son frutas tropicales sensibles al frío: un zapote duro metido en la nevera se detiene, se oscurece y ya no madura bien. La pulpa cortada se oxida deprisa, así que pega film sobre la superficie o guarda la pulpa en un recipiente tapado.",
+    "freezer": "El zapote en rodajas dura 2 meses a −18 °C (0 °F), cifra que da por hecho que va cortado con zumo de limón y azúcar, que es lo que evita el pardeamiento y que se deshaga. Separa la pulpa de la semilla, mézclala con limón y un poco de azúcar y envásala plana sin aire. Congelado es seguro indefinidamente; los 2 meses son calidad.",
+    "thawing": "Descongela en la nevera y úsalo el mismo día, o bate la pulpa directamente congelada en batidos y helados. No lo descongeles a temperatura ambiente.",
+    "spoilage": [
+      "Olor fermentado o alcohólico en lugar de dulce y suave",
+      "Pulpa parda, grisácea o acuosa",
+      "Piel agrietada con la fruta hundida y rezumando",
+      "Moho en el pedúnculo o en una grieta de la piel"
+    ],
+    "tips": [
+      "Cómpralo firme y madúralo en casa; la fruta dura refrigerada ya no se recupera",
+      "Juzga la madurez por una cesión uniforme, no solo por el color",
+      "Pega film sobre la pulpa cortada para que no se oscurezca",
+      "Congela la pulpa con limón y azúcar para batidos y helados"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el zapote?", "a": "Déjalo fuera hasta que madure y luego 1 o 2 días. Ya maduro aguanta 3 a 5 días en la nevera."},
+      {"q": "¿Se puede refrigerar un zapote verde?", "a": "No. Son frutas sensibles al frío: el frío detiene la maduración y la fruta se oscurece en vez de ablandarse bien."},
+      {"q": "¿Se puede congelar el zapote?", "a": "Sí, en rodajas con zumo de limón y azúcar, unos 2 meses. Esa preparación evita el pardeamiento y que se deshaga."}
+    ]
+  }
+}

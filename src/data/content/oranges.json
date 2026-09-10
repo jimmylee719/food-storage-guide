@@ -1,0 +1,107 @@
+{
+  "slug": "oranges",
+  "en": {
+    "name": "Oranges",
+    "aliases": ["navel orange", "Valencia orange", "sweet orange", "naranja"],
+    "summary": "Oranges are among the longest-keeping fresh fruits because the rind is a sealed container. From purchase they hold about 10 days at room temperature and 10 to 21 days in the fridge, and the juice and zest freeze for months.",
+    "pantry": "A bowl on the counter keeps oranges about 10 days from the day you buy them, and they taste sweeter and more aromatic at room temperature than straight from the fridge. Give them air rather than sealing them in the net bag they came in, because trapped moisture is what starts the blue-green mould you see at the stem end. Keep them out of direct sun and away from ripening bananas, whose ethylene speeds up their decline.",
+    "fridge": "In the crisper at 4 °C (40 °F) or below, oranges keep roughly 10 to 21 days from purchase — about double their counter life. Store them loose rather than bagged so the rind can breathe, and pull one out half an hour before eating if you want the full flavour. Peeled segments or cut fruit should go into an airtight container and be eaten within about 3 days.",
+    "freezer": "USDA gives no freezer timeline for whole oranges, and freezing one whole is not useful — the segments collapse and the pith turns bitter, so the fruit is only good for juice afterwards. What does work is juice frozen in an ice cube tray, zest grated into a small tub and segments frozen in syrup, all of which hold good quality for months at −18 °C (0 °F). Always zest before you juice.",
+    "thawing": "Use frozen juice cubes and zest straight from the freezer in drinks, sauces and baking. Thaw syrup-packed segments in the fridge and expect them to be soft.",
+    "spoilage": [
+      "Soft, wet or sunken patches, usually starting at the stem end",
+      "Blue-green or white fuzzy mould on the rind",
+      "Fruit gone light and hollow-feeling from drying out",
+      "Fermented smell or fizzy, off-tasting juice"
+    ],
+    "tips": [
+      "Choose fruit that feels heavy for its size; skin colour says little about ripeness",
+      "Store loose, not sealed in the net bag",
+      "Zest before juicing and freeze the zest",
+      "Remove one mouldy orange immediately — mould spreads through a bowl"
+    ],
+    "faq": [
+      {"q": "How long do oranges last?", "a": "About 10 days at room temperature and 10 to 21 days in the fridge, both counted from the day you buy them."},
+      {"q": "Do oranges need to be refrigerated?", "a": "No, but refrigerating roughly doubles their life. They taste better if you let them warm up briefly before eating."},
+      {"q": "Can you freeze oranges?", "a": "Freeze the juice in cubes, the zest in a tub or the segments in syrup. Whole fruit collapses and the pith turns bitter."}
+    ]
+  },
+  "zh": {
+    "name": "柳橙",
+    "aliases": ["柳丁", "香吉士", "臍橙", "甜橙"],
+    "summary": "柳橙是最耐放的新鮮水果之一，因為外皮本身就是一個密封容器。從購買日起，室溫約可放 10 天，冷藏 10 到 21 天；果汁和果皮屑冷凍可以放好幾個月。",
+    "pantry": "放在室溫的碗裡，從買回來那天算起大約 10 天，而且常溫的柳橙比剛從冰箱拿出來的更甜、更香。讓它透氣，不要繼續封在買回來的網袋裡，因為悶住的水氣正是蒂頭那圈藍綠色黴菌的起點。避開日曬，也不要跟正在後熟的香蕉放一起，它釋放的乙烯會加速老化。",
+    "fridge": "放在 4°C 以下的蔬果室，從購買日起大約 10 到 21 天，差不多是常溫的兩倍。鬆散地放而不是裝袋，讓外皮可以呼吸；想要完整風味，吃之前先拿出來回溫半小時。剝好的果瓣或切開的果肉要裝密封盒，約 3 天內吃完。",
+    "freezer": "USDA 沒有提供整顆柳橙的冷凍期限，而且整顆冷凍沒什麼意義——果瓣會塌掉，白色海綿層還會發苦，之後只能拿去榨汁。可行的是：果汁用製冰盒凍成塊、果皮屑磨好裝小盒、果瓣泡糖水冷凍，這些在 −18°C 下都可以維持好幾個月的良好品質。記得一定要先磨皮屑再榨汁。",
+    "thawing": "冷凍果汁塊和皮屑可以直接用在飲料、醬汁和烘焙上。糖水果瓣放冷藏解凍，並預期它會偏軟。",
+    "spoilage": [
+      "出現軟塌、濕潤或凹陷的斑塊，通常從蒂頭開始",
+      "外皮長藍綠色或白色的絨毛黴",
+      "拿起來變輕、感覺空空的，那是乾掉了",
+      "有發酵味，或果汁帶氣泡、味道不對"
+    ],
+    "tips": [
+      "挑拿起來比看起來重的；外皮顏色其實看不出熟度",
+      "鬆散地放，不要封在網袋裡",
+      "先磨皮屑再榨汁，皮屑冷凍起來",
+      "發黴的那顆要立刻拿掉，黴會傳遍整碗"
+    ],
+    "faq": [
+      {"q": "柳橙可以放多久？", "a": "從購買日起，室溫約 10 天，冷藏 10 到 21 天。"},
+      {"q": "柳橙需要冷藏嗎？", "a": "不一定，但冷藏大致能讓壽命翻倍。吃之前稍微回溫，風味會更好。"},
+      {"q": "柳橙可以冷凍嗎？", "a": "建議冷凍果汁塊、果皮屑或糖水果瓣。整顆冷凍會塌掉，白色海綿層還會發苦。"}
+    ]
+  },
+  "ja": {
+    "name": "オレンジ",
+    "aliases": ["ネーブルオレンジ", "バレンシアオレンジ", "甘橙", "スイートオレンジ"],
+    "summary": "オレンジは皮そのものが密閉容器の役目を果たすため、生の果物の中でもとりわけ日持ちします。購入日から常温で約10日、冷蔵で10〜21日、果汁とすりおろした皮は数か月冷凍できます。",
+    "pantry": "常温の器なら購入日から約10日持ち、冷蔵庫から出したてより常温のほうが甘く香りも豊かに感じられます。買ってきたネット袋に密閉したままにせず空気に触れさせてください。こもった湿気がヘタ側の青緑のカビの原因です。直射日光を避け、追熟中のバナナの隣も避けましょう。エチレンで劣化が早まります。",
+    "fridge": "4℃以下の野菜室なら購入日から10〜21日ほどで、常温のおよそ倍です。皮が呼吸できるよう袋に入れず裸で置き、風味を楽しみたいなら食べる30分前に出しておきます。むいた房やカットしたものは密閉容器に入れ、約3日以内に食べきってください。",
+    "freezer": "USDAはまるごとのオレンジの冷凍期間を示しておらず、まるごとの冷凍は実用的ではありません。房は崩れ、ワタは苦くなり、後は搾るしか使い道がなくなります。有効なのは、果汁を製氷皿で、すりおろした皮を小容器で、房をシロップ漬けで凍らせる方法。いずれも−18℃で数か月おいしく保てます。搾る前に必ず皮をすりおろしましょう。",
+    "thawing": "冷凍した果汁キューブや皮はそのまま飲み物、ソース、焼き菓子に使えます。シロップ漬けの房は冷蔵庫で解凍し、柔らかくなることを見越しておきましょう。",
+    "spoilage": [
+      "軟らかい、濡れた、へこんだ部分（多くはヘタ側から）",
+      "皮の青緑や白の綿状のカビ",
+      "軽く中が空洞のような感触（乾燥）",
+      "発酵臭、果汁が発泡して味がおかしい"
+    ],
+    "tips": [
+      "見た目より重いものを選ぶ（皮の色は熟度をあまり示しません）",
+      "ネット袋に入れたままにせず裸で保存する",
+      "搾る前に皮をすりおろし、皮は冷凍する",
+      "カビた一つはすぐ取り除く（器全体に広がります）"
+    ],
+    "faq": [
+      {"q": "オレンジはどのくらい持ちますか？", "a": "購入日から常温で約10日、冷蔵で10〜21日です。"},
+      {"q": "冷蔵は必要ですか？", "a": "必須ではありませんが、冷蔵でおよそ倍持ちます。食べる前に少し常温に戻すと風味がよくなります。"},
+      {"q": "冷凍できますか？", "a": "果汁をキューブに、皮をすりおろして、房はシロップ漬けで。まるごとは崩れてワタが苦くなります。"}
+    ]
+  },
+  "es": {
+    "name": "Naranjas",
+    "aliases": ["naranja de ombligo", "naranja Valencia", "naranja dulce", "china"],
+    "summary": "Las naranjas están entre las frutas frescas que más duran porque la corteza es un envase sellado. Desde la compra aguantan unos 10 días a temperatura ambiente y de 10 a 21 días en la nevera, y el zumo y la ralladura se congelan durante meses.",
+    "pantry": "Un frutero conserva las naranjas unos 10 días desde el día de la compra, y saben más dulces y aromáticas a temperatura ambiente que recién sacadas del frío. Dales aire en lugar de dejarlas cerradas en la malla, porque la humedad atrapada es lo que inicia el moho verde azulado del pedúnculo. Mantenlas lejos del sol directo y de plátanos madurando, cuyo etileno acelera su declive.",
+    "fridge": "En el cajón a 4 °C (40 °F) o menos aguantan unos 10 a 21 días desde la compra, aproximadamente el doble que fuera. Guárdalas sueltas y no embolsadas para que la corteza respire, y saca una media hora antes de comerla si quieres todo su sabor. Los gajos pelados o la fruta cortada van en recipiente hermético y se comen en unos 3 días.",
+    "freezer": "El USDA no da plazo de congelación para naranjas enteras, y congelar una entera no sirve de mucho: los gajos se deshacen y el albedo amarga, así que después solo vale para zumo. Lo que funciona es el zumo en cubitera, la ralladura en un tarrito y los gajos en almíbar, y todo mantiene buena calidad durante meses a −18 °C (0 °F). Ralla siempre antes de exprimir.",
+    "thawing": "Usa los cubitos de zumo y la ralladura directamente congelados en bebidas, salsas y repostería. Descongela los gajos en almíbar en la nevera contando con que queden blandos.",
+    "spoilage": [
+      "Zonas blandas, húmedas o hundidas, normalmente desde el pedúnculo",
+      "Moho algodonoso verde azulado o blanco en la corteza",
+      "Fruta ligera y con sensación hueca por deshidratación",
+      "Olor fermentado o zumo con gas y sabor raro"
+    ],
+    "tips": [
+      "Elige fruta pesada para su tamaño; el color de la piel dice poco de la madurez",
+      "Guárdalas sueltas, no cerradas en la malla",
+      "Ralla antes de exprimir y congela la ralladura",
+      "Retira enseguida una naranja con moho: se propaga por todo el frutero"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las naranjas?", "a": "Unos 10 días a temperatura ambiente y de 10 a 21 días en la nevera, contados desde la compra."},
+      {"q": "¿Hay que refrigerar las naranjas?", "a": "No, pero refrigerarlas casi duplica su vida. Saben mejor si las atemperas un rato antes de comerlas."},
+      {"q": "¿Se pueden congelar las naranjas?", "a": "Congela el zumo en cubitos, la ralladura o los gajos en almíbar. Enteras se deshacen y el albedo amarga."}
+    ]
+  }
+}
