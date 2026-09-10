@@ -57,9 +57,7 @@ export default async function FoodsPage({ params }: { params: Promise<{ locale: 
             <ul className="index-list">
               {items.map((f) => (
                 <li key={f.slug}>
-                  {f.hasPage
-                    ? <Link href={`/${l}/food/${f.slug}`}>{f.names[l]}</Link>
-                    : <Link href={`/${l}/category/${c}#${f.slug}`} className="muted-link">{f.names[l]}</Link>}
+                  <Link href={`/${l}/food/${f.slug}`}>{f.names[l]}</Link>
                 </li>
               ))}
             </ul>

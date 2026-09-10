@@ -15,6 +15,16 @@ export function getFood(slug: string): Food | undefined {
 export function getGuide(slug: string): Guide | undefined {
   return guideBySlug.get(slug);
 }
+/**
+ * Every food has a page. A food whose article is still unwritten renders from
+ * its storage data alone: a table row is a number, not an answer, and sending
+ * a reader who searched for salmon to an anchor inside a long table is a dead
+ * end.
+ */
+export function allFoods(): Food[] {
+  return foods;
+}
+/** Only the foods with a full four-language article, for counting. */
 export function foodsWithPages(): Food[] {
   return foods.filter((f) => f.hasPage);
 }
@@ -118,7 +128,7 @@ export function relatedGuides(food: Food, limit = 4): Guide[] {
 }
 
 export function relatedFoods(food: Food, limit = 8): Food[] {
-  const sameCat = foods.filter((f) => f.category === food.category && f.slug !== food.slug && f.hasPage);
+  const sameCat = foods.filter((f) => f.category === food.category && f.slug !== food.slug);
   const stem = food.baseName.split(/[ ,(]/)[0].toLowerCase();
   const scored = sameCat
     .map((f) => ({ f, score: f.baseName.toLowerCase().startsWith(stem) ? 2 : 1 }))

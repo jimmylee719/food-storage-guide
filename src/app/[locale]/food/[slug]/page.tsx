@@ -6,12 +6,12 @@ import StoragePanels from '@/components/StoragePanels';
 import Faq from '@/components/Faq';
 import AdSlot from '@/components/AdSlot';
 import { HTML_LANG, LOCALES, type Locale, isLocale, t } from '@/lib/i18n';
-import { foodsWithPages, getFood, headline, relatedFoods, relatedGuides } from '@/lib/data';
+import { allFoods, getFood, headline, relatedFoods, relatedGuides } from '@/lib/data';
 import { buildMetadata, jsonLdScript } from '@/lib/seo';
 import { absoluteUrl } from '@/lib/site';
 
 export function generateStaticParams() {
-  return LOCALES.flatMap((locale) => foodsWithPages().map((f) => ({ locale, slug: f.slug })));
+  return LOCALES.flatMap((locale) => allFoods().map((f) => ({ locale, slug: f.slug })));
 }
 
 /**
@@ -30,15 +30,28 @@ function titleFor(locale: Locale, name: string): string {
   return full.length <= 65 ? full : t(locale).foodTitleShort(name);
 }
 
+/** The quick answer for a food whose article has not been written yet. */
+function autoSummaryFor(food: ReturnType<typeof getFood>, locale: Locale): string {
+  const d = t(locale);
+  const val = (k: 'pantry' | 'fridge' | 'freezer') => {
+    const v = headline(food!, k, locale);
+    return v === '—' ? null : v;
+  };
+  return d.autoSummary(val('pantry'), val('fridge'), val('freezer'));
+}
+
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }): Promise<Metadata> {
   const { locale, slug } = await params;
   if (!isLocale(locale)) return {};
   const food = getFood(slug);
-  if (!food?.hasPage) return {};
-  const c = food.content![locale];
+  if (!food) return {};
+  const name = food.hasPage ? food.content![locale].name : food.names[locale];
+  const description = food.hasPage
+    ? food.content![locale].summary
+    : `${name}: ${autoSummaryFor(food, locale)} ${t(locale).sourceNote}`;
   return buildMetadata({
-    title: titleFor(locale, c.name),
-    description: c.summary.slice(0, 155),
+    title: titleFor(locale, name),
+    description: description.slice(0, 155),
     path: `/food/${slug}`,
     locale,
     type: 'article',
@@ -51,19 +64,24 @@ export default async function FoodPage({ params }: { params: Promise<{ locale: s
   const l = locale as Locale;
   const d = t(l);
   const food = getFood(slug);
-  if (!food?.hasPage) notFound();
-  const c = food.content![l];
+  if (!food) notFound();
+  // A food whose article is still unwritten renders from its storage data: the
+  // numbers, their provenance, related foods and the relevant guides. That is a
+  // real answer, which a row in a category table is not.
+  const c = food.hasPage ? food.content![l] : null;
+  const name = c ? c.name : food.names[l];
+  const summary = c ? c.summary : autoSummaryFor(food, l);
 
   const sections: { id: string; heading: string; body: string }[] = [];
-  if (c.pantry) sections.push({ id: 'pantry', heading: d.pantryLong, body: c.pantry });
-  if (c.fridge) sections.push({ id: 'fridge', heading: d.fridgeLong, body: c.fridge });
-  if (c.freezer) sections.push({ id: 'freezer', heading: d.freezerLong, body: c.freezer });
-  if (c.thawing) sections.push({ id: 'thawing', heading: d.thawing, body: c.thawing });
+  if (c?.pantry) sections.push({ id: 'pantry', heading: d.pantryLong, body: c.pantry });
+  if (c?.fridge) sections.push({ id: 'fridge', heading: d.fridgeLong, body: c.fridge });
+  if (c?.freezer) sections.push({ id: 'freezer', heading: d.freezerLong, body: c.freezer });
+  if (c?.thawing) sections.push({ id: 'thawing', heading: d.thawing, body: c.thawing });
 
   const related = relatedFoods(food);
   const relatedGuideList = relatedGuides(food);
 
-  const faqLd = c.faq?.length
+  const faqLd = c?.faq?.length
     ? {
         '@context': 'https://schema.org',
         '@type': 'FAQPage',
@@ -78,11 +96,11 @@ export default async function FoodPage({ params }: { params: Promise<{ locale: s
   const articleLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: titleFor(l, c.name),
-    description: c.summary,
+    headline: titleFor(l, name),
+    description: summary,
     inLanguage: HTML_LANG[l],
     mainEntityOfPage: absoluteUrl(`/${l}/food/${slug}`),
-    about: { '@type': 'Thing', name: c.name, alternateName: c.aliases },
+    about: { '@type': 'Thing', name, alternateName: c?.aliases ?? [] },
     isBasedOn: 'https://catalog.data.gov/dataset/fsis-foodkeeper-data',
     publisher: { '@type': 'Organization', name: d.siteName, url: absoluteUrl(`/${l}`) },
   };
@@ -94,16 +112,17 @@ export default async function FoodPage({ params }: { params: Promise<{ locale: s
           { name: d.home, href: `/${l}` },
           { name: d.allFoods, href: `/${l}/foods` },
           { name: d.categoryNames[food.category as keyof typeof d.categoryNames] ?? food.category, href: `/${l}/category/${food.category}` },
-          { name: c.name },
+          { name },
         ]}
       />
 
-      <h1>{c.name}</h1>
-      {c.aliases?.length ? <p className="alias">{c.aliases.join(' · ')}</p> : null}
+      <h1>{name}</h1>
+      {c?.aliases?.length ? <p className="alias">{c.aliases.join(' · ')}</p> : null}
 
       <div className="callout">
         <p><strong>{d.quickAnswer}</strong></p>
-        <p>{c.summary}</p>
+        <p>{summary}</p>
+        {food.analog ? <p className="footer-note">{d.analogNote(food.analog)}</p> : null}
       </div>
 
       <StoragePanels food={food} locale={l} />
@@ -118,14 +137,16 @@ export default async function FoodPage({ params }: { params: Promise<{ locale: s
           </section>
         ))}
 
-        {c.spoilage?.length ? (
+        {!c ? <p>{d.dataOnlyNote}</p> : null}
+
+        {c?.spoilage?.length ? (
           <section>
             <h2 id="spoilage">{d.spoilageSigns}</h2>
             <ul>{c.spoilage.map((s, i) => <li key={i}>{s}</li>)}</ul>
           </section>
         ) : null}
 
-        {c.tips?.length ? (
+        {c?.tips?.length ? (
           <section>
             <h2 id="tips">{d.tips}</h2>
             <ul>{c.tips.map((s, i) => <li key={i}>{s}</li>)}</ul>
@@ -133,7 +154,7 @@ export default async function FoodPage({ params }: { params: Promise<{ locale: s
         ) : null}
       </div>
 
-      <Faq items={c.faq} heading={d.faq} />
+      {c?.faq?.length ? <Faq items={c.faq} heading={d.faq} /> : null}
 
       {related.length > 0 && (
         <section>

@@ -96,6 +96,10 @@ type Dict = {
   homeFaqHeading: string;
   homeFaq: { q: string; a: string }[];
   dataNote: (foods: number, pages: number, guides: number) => string;
+  /** Quick answer for a food whose full article has not been written yet. */
+  autoSummary: (pantry: string | null, fridge: string | null, freezer: string | null) => string;
+  dataOnlyNote: string;
+  analogNote: (analog: string) => string;
 };
 
 const zh: Dict = {
@@ -183,6 +187,15 @@ const zh: Dict = {
     { q: '退冰後的食物可以再冷凍嗎？', a: '如果是在冷藏室慢慢解凍、而且中心溫度仍維持在 4°C 以下，可以再冷凍，只是口感會變差。用冷水或微波解凍的食物必須先煮熟才能再冷凍。放在室溫解凍過的食物不要再冷凍。' },
   ],
   dataNote: (foods, pages, guides) => `目前收錄 ${foods} 種食材的保存期限，其中 ${pages} 種有完整的四語系保存說明，另有 ${guides} 篇附出處的保存知識長文。內容持續增加中。`,
+  autoSummary: (pantry, fridge, freezer) => {
+    const parts = [];
+    if (pantry) parts.push(`常溫可放 ${pantry}`);
+    if (fridge) parts.push(`冷藏 ${fridge}`);
+    if (freezer) parts.push(`冷凍 ${freezer}`);
+    return parts.length ? parts.join('、') + '。' : '這項食材目前沒有可引用的保存期限，請依包裝標示與下方說明判斷。';
+  },
+  dataOnlyNote: '這項食材的完整保存說明還在撰寫中。上方的期限直接來自本站的保存資料庫，出處列在頁面下方，與其他食材使用同一套標準。',
+  analogNote: (analog) => `本頁的期限沒有官方單獨公布的數字，是比照「${analog}」這項性質相近的食材推估的，僅供參考，不是官方公布的期限。`,
 };
 
 const en: Dict = {
@@ -270,6 +283,15 @@ const en: Dict = {
     { q: 'Can you refreeze food that has thawed?', a: 'Yes, if it thawed in the refrigerator and is still at or below 4 °C, though the texture suffers. Food thawed in cold water or a microwave must be cooked before refreezing. Anything thawed at room temperature should not go back in the freezer.' },
   ],
   dataNote: (foods, pages, guides) => `${foods} foods with storage times, ${pages} of them with a full write-up in all four languages, plus ${guides} sourced guide articles. The library keeps growing.`,
+  autoSummary: (pantry, fridge, freezer) => {
+    const parts = [];
+    if (pantry) parts.push(`${pantry} in the pantry`);
+    if (fridge) parts.push(`${fridge} in the fridge`);
+    if (freezer) parts.push(`${freezer} in the freezer`);
+    return parts.length ? parts.join(', ') + '.' : 'No citable storage time is published for this food. Go by the date on the pack and the notes below.';
+  },
+  dataOnlyNote: 'The full write-up for this food is still being written. The times above come straight from our storage database, are sourced at the foot of the page, and follow the same standard as every other food here.',
+  analogNote: (analog) => `No authority publishes a figure for this food, so the times above are taken from ${analog}, the closest comparable food. Treat them as a working guide rather than a published limit.`,
 };
 
 const ja: Dict = {
@@ -357,6 +379,15 @@ const ja: Dict = {
     { q: '解凍した食品を再冷凍してもよいですか？', a: '冷蔵庫で解凍し、中心が 4°C 以下に保たれていれば再冷凍できます。ただし食感は落ちます。流水や電子レンジで解凍したものは、加熱調理してから冷凍してください。常温で解凍したものは再冷凍しないでください。' },
   ],
   dataNote: (foods, pages, guides) => `現在 ${foods} 品目の保存期間を収録し、うち ${pages} 品目は 4 言語の詳しい解説つきです。出典を明記したガイド記事も ${guides} 本あります。内容は随時追加しています。`,
+  autoSummary: (pantry, fridge, freezer) => {
+    const parts = [];
+    if (pantry) parts.push(`常温 ${pantry}`);
+    if (fridge) parts.push(`冷蔵 ${fridge}`);
+    if (freezer) parts.push(`冷凍 ${freezer}`);
+    return parts.length ? parts.join('、') + '。' : 'この食材には引用できる保存期間の公表値がありません。表示の期限と下記の説明で判断してください。';
+  },
+  dataOnlyNote: 'この食材の詳しい解説は現在執筆中です。上の期間は当サイトの保存データベースの数値をそのまま示したもので、出典はページ下部に記載しています。基準は他の食材と同じです。',
+  analogNote: (analog) => `この食材については公的な数値が公表されていないため、性質の近い「${analog}」の期間を当てはめています。公表された期限ではなく、目安としてお使いください。`,
 };
 
 const es: Dict = {
@@ -444,6 +475,15 @@ const es: Dict = {
     { q: '¿Se puede volver a congelar un alimento descongelado?', a: 'Sí, si se descongeló en la nevera y sigue a 4 °C o menos, aunque la textura se resiente. Lo descongelado en agua fría o microondas hay que cocinarlo antes de volver a congelarlo. Lo que se ha descongelado a temperatura ambiente no debe volver al congelador.' },
   ],
   dataNote: (foods, pages, guides) => `${foods} alimentos con tiempos de conservación, ${pages} de ellos con ficha completa en los cuatro idiomas, además de ${guides} guías con fuentes citadas. La colección sigue creciendo.`,
+  autoSummary: (pantry, fridge, freezer) => {
+    const parts = [];
+    if (pantry) parts.push(`${pantry} en la despensa`);
+    if (fridge) parts.push(`${fridge} en la nevera`);
+    if (freezer) parts.push(`${freezer} en el congelador`);
+    return parts.length ? parts.join(', ') + '.' : 'No hay un tiempo de conservación publicado que podamos citar para este alimento. Guíese por la fecha del envase y por las notas de abajo.';
+  },
+  dataOnlyNote: 'La ficha completa de este alimento aún se está redactando. Los tiempos de arriba salen directamente de nuestra base de datos, tienen su fuente al pie de la página y siguen el mismo criterio que el resto del sitio.',
+  analogNote: (analog) => `Ningún organismo publica una cifra para este alimento, así que los tiempos proceden de ${analog}, el alimento comparable más cercano. Tómelos como orientación, no como un límite publicado.`,
 };
 
 const DICTS: Record<Locale, Dict> = { zh, en, ja, es };

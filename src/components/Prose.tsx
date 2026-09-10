@@ -24,7 +24,7 @@ function inline(text: string, locale: Locale, keyBase: string): ReactNode[] {
     if (m[1] === 'food') {
       const food = getFood(m[2]);
       const text = label || food?.names[locale];
-      if (food && food.hasPage) {
+      if (food) {
         out.push(<Link key={`${keyBase}-${i}`} href={`/${locale}/food/${food.slug}`}>{text}</Link>);
       } else if (text) {
         out.push(text);

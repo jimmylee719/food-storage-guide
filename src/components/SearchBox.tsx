@@ -56,7 +56,7 @@ export default function SearchBox({ locale, autoFocus }: Props) {
 
   function go(entry: SearchEntry) {
     setOpen(false);
-    router.push(entry.p ? `/${locale}/food/${entry.s}` : `/${locale}/category/${entry.c}#${entry.s}`);
+    router.push(`/${locale}/food/${entry.s}`);
   }
 
   function onKeyDown(e: React.KeyboardEvent<HTMLInputElement>) {

@@ -20,7 +20,7 @@ export default function FoodTable({ items, locale }: { items: Food[]; locale: Lo
           {items.map((f) => (
             <tr key={f.slug} id={f.slug}>
               <th scope="row" style={{ background: 'transparent', whiteSpace: 'normal', fontWeight: 500, color: 'inherit' }}>
-                {f.hasPage ? <Link href={`/${locale}/food/${f.slug}`}>{f.names[locale]}</Link> : f.names[locale]}
+                <Link href={`/${locale}/food/${f.slug}`}>{f.names[locale]}</Link>
               </th>
               <td className="num">{headline(f, 'pantry', locale)}</td>
               <td className="num">{headline(f, 'fridge', locale)}</td>

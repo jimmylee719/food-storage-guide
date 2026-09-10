@@ -38,7 +38,8 @@ export default async function CategoryPage({ params }: { params: Promise<{ local
   const name = d.categoryNames[cat];
   const items = foodsInCategory(cat).sort((a, b) => a.names[l].localeCompare(b.names[l], l));
   if (!items.length) notFound();
-  const detailed = items.filter((f) => f.hasPage);
+  // Every food has a page now, so the list schema covers the whole category.
+  const detailed = items;
 
   const ld = {
     '@context': 'https://schema.org',
