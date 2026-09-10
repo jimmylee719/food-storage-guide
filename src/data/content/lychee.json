@@ -1,0 +1,107 @@
+{
+  "slug": "lychee",
+  "en": {
+    "name": "Lychee",
+    "aliases": ["litchi", "lichee", "lichi", "leechee"],
+    "summary": "The lychee is a summer fruit with a rough red shell over translucent, perfumed white flesh and a single brown seed. Refrigerated it keeps about 7 days from purchase, and it freezes in the shell for a full 12 months.",
+    "pantry": "Lychees are not a counter fruit. Once picked, the red shell loses water and browns quickly at room temperature — the flesh underneath is usually still fine at that point, but the fruit dries and the perfume fades within a day or two in a warm kitchen. Buy lychees still on the branch if you can, keep them out of the sun, and refrigerate them as soon as you get home.",
+    "fridge": "Store them at 4 °C (40 °F) or below and use them within about 7 days of purchase. Keep them in a perforated or loosely closed bag, since the shell dries out fast in the fridge's moving air and a brittle shell means dry flesh. Leave them unwashed and on the branch if they came that way, and do not peel any until you are ready to eat, because bare lychee flesh browns within hours.",
+    "freezer": "Lychees freeze very well in the shell for 12 months at −18 °C (0 °F), and this is the classic way to keep a summer glut. Freeze them loose on a tray in a single layer, then bag them; the shell peels off easily while the fruit is still frozen. Frozen lychee stays safe indefinitely and is traditionally eaten half-thawed, when the flesh is like a sorbet.",
+    "thawing": "Eat them half-thawed straight from the freezer, or peel them frozen and drop them into a drink or a fruit soup. Fully thawed flesh goes slack and watery, so do not thaw ahead of time.",
+    "spoilage": [
+      "Shell gone black and damp rather than red or tan and dry",
+      "Flesh turned brown, grey or slimy",
+      "Fermented or vinegary smell when the shell is cracked",
+      "Mould where the fruit joins the branch, or between fruit"
+    ],
+    "tips": [
+      "Buy lychees on the branch — they keep better attached",
+      "Bag them in the fridge so the shell does not dry out",
+      "Brown shell does not always mean bad fruit; open one and check",
+      "Freeze surplus in the shell and eat them half-thawed"
+    ],
+    "faq": [
+      {"q": "How long do lychees last in the fridge?", "a": "About 7 days from purchase at 4 °C (40 °F) or below, unpeeled and in a perforated bag."},
+      {"q": "Can you freeze lychees?", "a": "Yes, in the shell, for 12 months. Tray-freeze then bag, and eat them half-thawed — the shell peels off easily while frozen."},
+      {"q": "Why do lychee shells turn brown?", "a": "The shell loses water quickly after picking, especially at room temperature. The flesh underneath is often still perfectly good."}
+    ]
+  },
+  "zh": {
+    "name": "荔枝",
+    "aliases": ["丹荔", "離枝", "玉荷包", "黑葉荔枝"],
+    "summary": "荔枝是夏天的水果，粗糙的紅色外殼包著半透明、香氣濃郁的白色果肉，中間一顆褐色的籽。冷藏從購買日起約可放 7 天，連殼冷凍則有完整的 12 個月。",
+    "pantry": "荔枝不適合放在室溫。採下後紅殼會迅速失水褐化——那時候底下的果肉通常還是好的，但在悶熱的廚房裡，一兩天內果肉就會變乾、香氣散掉。買得到的話盡量挑連枝的，避開日曬，到家立刻冷藏。",
+    "fridge": "放 4°C 以下，從購買日起約 7 天內吃完。用打洞或鬆鬆закрыт的袋子裝，因為冰箱裡流動的空氣會讓外殼很快乾掉，殼一脆果肉也跟著乾。不要洗，連枝買的就保持連枝，也不要提前剝殼，因為裸露的荔枝肉幾小時內就會褐化。",
+    "freezer": "荔枝很適合連殼冷凍，−18°C 下可放 12 個月，這也是保存夏天盛產最經典的做法。先在托盤上單層冷凍再裝袋；果實還凍著的時候，殼非常好剝。冷凍荔枝只要維持凍結就是安全的，傳統上是半解凍吃，果肉像雪酪一樣。",
+    "thawing": "從冷凍庫拿出來半解凍直接吃，或凍著剝殼丟進飲料或甜湯裡。完全解凍的果肉會鬆軟出水，所以不要提前退冰。",
+    "spoilage": [
+      "外殼由紅色或淺褐的乾爽狀態變成濕黑",
+      "果肉轉褐、發灰或變黏滑",
+      "剝殼時聞到發酵味或醋味",
+      "果實與枝條接合處、或果實之間長黴"
+    ],
+    "tips": [
+      "買連枝的荔枝，連著比較耐放",
+      "冰箱裡要裝袋，外殼才不會乾掉",
+      "殼變褐不一定代表壞掉，剝一顆看看",
+      "吃不完的連殼冷凍，之後半解凍吃"
+    ],
+    "faq": [
+      {"q": "荔枝放冰箱可以放多久？", "a": "從購買日起約 7 天，放 4°C 以下、不要剝殼、用打洞的袋子裝。"},
+      {"q": "荔枝可以冷凍嗎？", "a": "可以，連殼冷凍 12 個月。托盤冷凍後裝袋，半解凍吃，而且凍著的時候殼很好剝。"},
+      {"q": "荔枝殼為什麼會變褐？", "a": "採下後外殼很快失水，室溫下尤其明顯。底下的果肉通常還是很好的。"}
+    ]
+  },
+  "ja": {
+    "name": "ライチ",
+    "aliases": ["茘枝", "レイシ", "リーチー", "litchi"],
+    "summary": "ライチは夏の果実で、ざらついた赤い殻の中に半透明で香り高い白い果肉と褐色の種が一つ入っています。冷蔵なら購入日から約7日、殻つきで冷凍すればまるまる12か月持ちます。",
+    "pantry": "ライチは常温向きではありません。収穫後、赤い殻は常温で急速に水分を失って褐変します。その時点では中の果肉は問題ないことが多いのですが、暑い台所では1〜2日で果肉が乾き香りも抜けます。できれば枝つきのものを買い、日光を避け、帰宅後すぐ冷蔵庫へ入れてください。",
+    "fridge": "4℃以下で保存し、購入から約7日以内に食べきります。穴あき袋か口をゆるく閉じた袋に入れてください。庫内の風で殻がすぐ乾き、殻がもろくなると果肉も乾きます。洗わず、枝つきならそのままで、食べる直前まで皮をむかないこと。むいた果肉は数時間で褐変します。",
+    "freezer": "ライチは殻つきのまま冷凍によく向き、−18℃で12か月持ちます。夏の豊作を保存する定番の方法です。トレーで一段に凍らせてから袋へ。凍ったままなら殻は簡単にむけます。冷凍ライチは安全性が保たれ、半解凍でシャーベットのような食感を楽しむのが伝統的です。",
+    "thawing": "冷凍庫から出して半解凍のまま食べるか、凍ったまま殻をむいて飲み物や甘いスープに入れます。完全に解凍するとだれて水っぽくなるので、前もって解凍しないでください。",
+    "spoilage": [
+      "殻が赤や淡褐色の乾いた状態ではなく黒く湿っている",
+      "果肉が茶色や灰色、ぬめっている",
+      "殻を割ったときの発酵臭・酢のようなにおい",
+      "枝との接合部や実どうしの間のカビ"
+    ],
+    "tips": [
+      "枝つきのライチを買う（そのほうが日持ちします）",
+      "冷蔵庫では袋に入れて殻の乾燥を防ぐ",
+      "殻が茶色くても中身は無事なことが多い。一つ開けて確認を",
+      "余りは殻つきで冷凍し、半解凍で食べる"
+    ],
+    "faq": [
+      {"q": "ライチは冷蔵庫でどのくらい持ちますか？", "a": "購入日から約7日です。4℃以下で、皮をむかず穴あき袋に入れて保存してください。"},
+      {"q": "ライチは冷凍できますか？", "a": "はい、殻つきで12か月。トレー冷凍してから袋へ。半解凍で食べると、凍ったまま殻も簡単にむけます。"},
+      {"q": "殻が茶色くなるのはなぜ？", "a": "収穫後に殻が急速に水分を失うためで、常温では特に顕著です。中の果肉はたいてい問題ありません。"}
+    ]
+  },
+  "es": {
+    "name": "Lichi",
+    "aliases": ["litchi", "lychee", "ciruela china", "leechee"],
+    "summary": "El lichi es una fruta de verano con una cáscara roja rugosa que envuelve una pulpa blanca translúcida y perfumada con una única semilla marrón. Refrigerado dura unos 7 días desde la compra, y con cáscara se congela durante 12 meses completos.",
+    "pantry": "El lichi no es fruta de encimera. Tras la cosecha, la cáscara roja pierde agua y se pardea deprisa a temperatura ambiente; la pulpa suele seguir bien en ese punto, pero en una cocina cálida la fruta se seca y el perfume se apaga en uno o dos días. Compra lichis aún en rama si puedes, mantenlos lejos del sol y refrigéralos nada más llegar a casa.",
+    "fridge": "Guárdalos a 4 °C (40 °F) o menos y consúmelos en unos 7 días desde la compra. Mantenlos en bolsa perforada o cerrada sin apretar, porque la cáscara se reseca rápido con el aire en movimiento de la nevera y una cáscara quebradiza significa pulpa seca. Déjalos sin lavar y en la rama si venían así, y no peles ninguno hasta comerlo: la pulpa desnuda se pardea en horas.",
+    "freezer": "Los lichis se congelan muy bien con cáscara durante 12 meses a −18 °C (0 °F), y es la forma clásica de conservar una cosecha de verano. Congélalos sueltos en bandeja en una capa y luego embólsalos; la cáscara se desprende con facilidad mientras la fruta sigue congelada. Congelados son seguros indefinidamente y tradicionalmente se comen medio descongelados, cuando la pulpa parece un sorbete.",
+    "thawing": "Cómelos medio descongelados recién sacados, o pélalos congelados y échalos a una bebida o una sopa de frutas. La pulpa totalmente descongelada queda flácida y acuosa, así que no los descongeles con antelación.",
+    "spoilage": [
+      "Cáscara negra y húmeda en lugar de roja o beige y seca",
+      "Pulpa parda, grisácea o viscosa",
+      "Olor fermentado o avinagrado al abrir la cáscara",
+      "Moho en la unión con la rama o entre frutas"
+    ],
+    "tips": [
+      "Compra lichis en rama: se conservan mejor unidos",
+      "Embólsalos en la nevera para que la cáscara no se reseque",
+      "Una cáscara parda no siempre significa fruta mala: abre uno y comprueba",
+      "Congela el excedente con cáscara y cómelos medio descongelados"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los lichis en la nevera?", "a": "Unos 7 días desde la compra a 4 °C (40 °F) o menos, sin pelar y en bolsa perforada."},
+      {"q": "¿Se pueden congelar los lichis?", "a": "Sí, con cáscara, 12 meses. Congela en bandeja y embolsa; medio descongelados se pelan solos."},
+      {"q": "¿Por qué se pardea la cáscara?", "a": "Pierde agua rápido tras la cosecha, sobre todo a temperatura ambiente. La pulpa suele estar perfectamente bien."}
+    ]
+  }
+}

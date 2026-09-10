@@ -1,0 +1,107 @@
+{
+  "slug": "limes",
+  "en": {
+    "name": "Limes",
+    "aliases": ["Persian lime", "key lime", "lima", "green lemon"],
+    "summary": "Limes are thin-skinned green citrus that dry out faster than lemons because there is less rind between the juice and the air. From purchase they keep about 10 days at room temperature and 10 to 21 days in the fridge, and the juice and zest freeze well for months.",
+    "pantry": "A bowl on the counter keeps limes about 10 days from the day you buy them, and room-temperature fruit yields noticeably more juice. Watch them more closely than lemons, though: the thinner skin means they go from firm and glossy to hard, yellowed and juiceless quite quickly, especially in a dry kitchen or near a sunny window. Do not seal them in the bag they came in, which traps moisture and starts mould at the stem end.",
+    "fridge": "In the crisper at 4 °C (40 °F) or below, limes keep roughly 10 to 21 days from purchase. Sealing them in a bag or a lidded box makes a real difference here, because the thin rind loses water fast in dry fridge air and a shrivelled lime gives almost nothing. A cut half should be wrapped tightly or set cut-side down on a saucer and used within about 3 days.",
+    "freezer": "USDA gives no freezer timeline for whole limes, and a whole frozen lime collapses on thawing and is then only good for juicing. The useful approach is to freeze the juice in an ice cube tray, the zest in a small airtight tub and slices flat for drinks; all keep good quality for months at −18 °C (0 °F). Zest before juicing — this is the single most common thing people regret.",
+    "thawing": "Use frozen juice cubes, slices and zest straight from the freezer in drinks, marinades, curries and dressings. Do not leave zest out to thaw, since the aroma goes with it.",
+    "spoilage": [
+      "Skin gone hard, yellowed and shrivelled, with almost no juice",
+      "Soft, wet or sunken patches, usually at the stem end",
+      "Blue-green or white mould on the rind",
+      "Fermented smell or cloudy, bitter juice"
+    ],
+    "tips": [
+      "Buy fruit that feels heavy for its size with smooth, thin skin",
+      "Bag them in the fridge; loose limes shrivel fast",
+      "Zest before you juice, and freeze the zest",
+      "Roll the lime firmly before cutting, or microwave it for 10 seconds, to get more juice"
+    ],
+    "faq": [
+      {"q": "How long do limes last?", "a": "About 10 days at room temperature and 10 to 21 days in the fridge, both counted from the day you buy them."},
+      {"q": "Why do my limes go hard and yellow?", "a": "They are drying out. The thin rind loses water quickly, especially loose in a fridge or in a dry kitchen, so bag them."},
+      {"q": "Can you freeze limes?", "a": "Freeze the juice in cubes, the zest in a tub and slices flat rather than whole fruit, which collapses on thawing."}
+    ]
+  },
+  "zh": {
+    "name": "萊姆",
+    "aliases": ["青檸", "無籽檸檬", "綠檸檬", "lime"],
+    "summary": "萊姆是皮薄的綠色柑橘，因為果汁和空氣之間隔的果皮比較少，所以比黃檸檬更快乾掉。從購買日起，室溫約可放 10 天，冷藏 10 到 21 天；果汁和果皮屑冷凍都可以放好幾個月。",
+    "pantry": "放在室溫的碗裡，從買回來那天算起大約 10 天，而且常溫的萊姆明顯比較會出汁。不過要比黃檸檬更留意它：皮比較薄，所以會相當快地從結實有光澤變成硬邦邦、發黃、榨不出汁，尤其在乾燥的廚房或曬得到太陽的窗邊。不要繼續封在買回來的袋子裡，悶住的水氣會從蒂頭開始發黴。",
+    "fridge": "放在 4°C 以下的蔬果室，從購買日起大約 10 到 21 天。這裡用密封袋或有蓋的盒子真的差很多，因為薄薄的果皮在乾燥的冰箱空氣裡失水很快，而皺掉的萊姆幾乎榨不出東西。切了一半的請緊緊包好，或切面朝下放小盤上，約 3 天內用完。",
+    "freezer": "USDA 沒有提供整顆萊姆的冷凍期限，而且整顆冷凍解凍後會塌掉，之後只剩榨汁一途。實用的做法是：果汁用製冰盒凍成塊、果皮屑裝小密封盒、切片攤平冷凍拿來加飲料；在 −18°C 下都可以維持好幾個月的良好品質。記得先磨皮屑再榨汁，這是大家最常後悔的一件事。",
+    "thawing": "冷凍果汁塊、切片和皮屑都可以直接丟進飲料、醃料、咖哩和沙拉醬裡。皮屑不要放在外面等它解凍，香氣會跟著跑掉。",
+    "spoilage": [
+      "果皮變硬、轉黃、皺縮，幾乎榨不出汁",
+      "出現軟塌、濕潤或凹陷的斑塊，通常在蒂頭處",
+      "外皮長藍綠色或白色的黴",
+      "有發酵味，或果汁混濁發苦"
+    ],
+    "tips": [
+      "挑拿起來比看起來重、表皮光滑薄的",
+      "冰箱裡要裝袋，敞著放會很快皺掉",
+      "先磨皮屑再榨汁，皮屑冷凍起來",
+      "切之前用力滾一滾，或微波 10 秒，可以榨出更多汁"
+    ],
+    "faq": [
+      {"q": "萊姆可以放多久？", "a": "從購買日起，室溫約 10 天，冷藏 10 到 21 天。"},
+      {"q": "萊姆為什麼會變硬變黃？", "a": "那是乾掉了。薄皮失水很快，尤其敞著放在冰箱或乾燥的廚房裡，所以請裝袋保存。"},
+      {"q": "萊姆可以冷凍嗎？", "a": "建議冷凍果汁塊、果皮屑和切片，不要整顆冷凍；整顆解凍後會塌掉。"}
+    ]
+  },
+  "ja": {
+    "name": "ライム",
+    "aliases": ["タヒチライム", "キーライム", "青レモン", "lime"],
+    "summary": "ライムは皮の薄い緑色の柑橘で、果汁と外気の間の皮が薄いぶんレモンより早く乾きます。購入日から常温で約10日、冷蔵で10〜21日持ち、果汁とすりおろした皮は数か月冷凍できます。",
+    "pantry": "常温の器なら購入日から約10日持ち、常温のほうが果汁がよく出ます。ただしレモンより注意が必要です。皮が薄いため、張りとつやのある状態から硬く黄ばんで果汁の出ない状態へ、かなり早く進みます。乾いた台所や日の差す窓辺では特に顕著です。買ってきた袋に密閉したままにしないでください。湿気がこもってヘタ側からカビます。",
+    "fridge": "4℃以下の野菜室なら購入日から10〜21日ほど。ここでは密閉袋やふたつき容器が本当に効きます。薄い皮は乾いた庫内で急速に水分を失い、しぼんだライムはほとんど搾れません。切りかけの半分はしっかり包むか切り口を下にして小皿に置き、約3日以内に使い切ってください。",
+    "freezer": "USDAはまるごとのライムの冷凍期間を示しておらず、まるごと凍らせると解凍時に崩れて搾る以外の使い道がなくなります。実用的なのは、果汁を製氷皿で、すりおろした皮を小さな密閉容器で、スライスを平らにして飲み物用に凍らせる方法で、いずれも−18℃で数か月おいしく保てます。搾る前に皮をすりおろすこと。これがいちばんよくある後悔です。",
+    "thawing": "冷凍した果汁キューブ、スライス、皮はそのまま飲み物やマリネ、カレー、ドレッシングへ。皮を室温で解凍すると香りが逃げます。",
+    "spoilage": [
+      "皮が硬く黄ばんでしぼみ、果汁がほとんど出ない",
+      "軟らかい、濡れた、へこんだ部分（多くはヘタ側）",
+      "皮の青緑や白のカビ",
+      "発酵臭、果汁が濁って苦い"
+    ],
+    "tips": [
+      "見た目より重く、皮が薄くなめらかなものを選ぶ",
+      "冷蔵庫では袋に入れる（裸だとすぐしぼみます）",
+      "搾る前に皮をすりおろし、皮は冷凍する",
+      "切る前に転がすか10秒ほど加熱すると搾りやすい"
+    ],
+    "faq": [
+      {"q": "ライムはどのくらい持ちますか？", "a": "購入日から常温で約10日、冷蔵で10〜21日です。"},
+      {"q": "ライムが硬く黄色くなるのはなぜ？", "a": "乾燥です。薄い皮は水分をすぐ失うので、袋に入れて保存してください。"},
+      {"q": "冷凍できますか？", "a": "まるごとより、果汁をキューブに、皮をすりおろして、スライスを平らにして冷凍するのがおすすめです。"}
+    ]
+  },
+  "es": {
+    "name": "Limas",
+    "aliases": ["limón verde", "lima persa", "limón sutil", "key lime"],
+    "summary": "Las limas son cítricos verdes de piel fina que se resecan antes que los limones porque hay menos corteza entre el zumo y el aire. Desde la compra aguantan unos 10 días a temperatura ambiente y de 10 a 21 días en la nevera, y el zumo y la ralladura se congelan bien durante meses.",
+    "pantry": "Un frutero conserva las limas unos 10 días desde el día de la compra, y a temperatura ambiente dan bastante más zumo. Vigílalas más que a los limones: con la piel más fina pasan de firmes y brillantes a duras, amarillentas y sin jugo con rapidez, sobre todo en una cocina seca o junto a una ventana soleada. No las dejes cerradas en la bolsa de la compra, que retiene humedad e inicia el moho en el pedúnculo.",
+    "fridge": "En el cajón a 4 °C (40 °F) o menos aguantan unos 10 a 21 días desde la compra. Aquí cerrarlas en bolsa o caja con tapa marca una diferencia real, porque la corteza fina pierde agua deprisa con el aire seco de la nevera y una lima arrugada apenas da nada. Media lima cortada se envuelve bien o se pone boca abajo en un plato y se usa en unos 3 días.",
+    "freezer": "El USDA no da plazo de congelación para limas enteras, y una lima entera congelada se deshace al descongelarse y solo sirve luego para exprimir. Lo práctico es congelar el zumo en cubitera, la ralladura en un tarrito hermético y rodajas planas para bebidas; todo mantiene buena calidad durante meses a −18 °C (0 °F). Ralla antes de exprimir: es el arrepentimiento más común.",
+    "thawing": "Usa los cubitos de zumo, las rodajas y la ralladura directamente congelados en bebidas, adobos, currys y aliños. No dejes la ralladura descongelándose al aire: el aroma se va con ella.",
+    "spoilage": [
+      "Piel dura, amarillenta y arrugada, casi sin zumo",
+      "Zonas blandas, húmedas o hundidas, normalmente en el pedúnculo",
+      "Moho verde azulado o blanco en la corteza",
+      "Olor fermentado o zumo turbio y amargo"
+    ],
+    "tips": [
+      "Compra fruta pesada para su tamaño y de piel lisa y fina",
+      "Guárdalas en bolsa en la nevera; sueltas se arrugan rápido",
+      "Ralla antes de exprimir y congela la ralladura",
+      "Ruédala con fuerza antes de cortarla, o dale 10 segundos de microondas, para sacar más zumo"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran las limas?", "a": "Unos 10 días a temperatura ambiente y de 10 a 21 días en la nevera, contados desde la compra."},
+      {"q": "¿Por qué se ponen duras y amarillas?", "a": "Se están secando. La corteza fina pierde agua rápido, sobre todo sueltas en la nevera o en cocinas secas: embólsalas."},
+      {"q": "¿Se pueden congelar las limas?", "a": "Congela el zumo en cubitos, la ralladura y rodajas planas, mejor que la fruta entera, que se deshace al descongelarse."}
+    ]
+  }
+}

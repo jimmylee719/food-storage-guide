@@ -1,0 +1,107 @@
+{
+  "slug": "longan",
+  "en": {
+    "name": "Longan",
+    "aliases": ["dragon eye", "lungan", "lengkeng", "Dimocarpus longan"],
+    "summary": "Longan is the small tan-shelled summer fruit of southern China and Taiwan, with translucent flesh around a single glossy black seed. At room temperature the shell browns within 3 to 5 days; sealed in a bag in the fridge it holds 2 to 4 weeks, though the flavour fades the longer you keep it.",
+    "pantry": "Longan is sold on the branch and eats best within a few days of picking. At room temperature the shell loses water and browns within 3 to 5 days even when the humidity is kept up, and the flesh underneath dries and loses its perfume soon after. Keep the fruit on its branches, out of the sun, and eat the ones that are already loose first.",
+    "fridge": "Seal longan in a plastic bag and refrigerate near 4 °C (40 °F), where it holds 2 to 4 weeks. The bag is essential: unbagged fruit dries out and the shell goes hard and brittle within days. Flavour fades the longer the fruit is held, so the shorter end of the range genuinely eats better — treat 4 weeks as the point at which the fruit is still safe rather than still good.",
+    "freezer": "There is no published freezer timeline for fresh longan. In practice, shelled and deseeded flesh freezes acceptably and is eaten half-thawed or dropped into cold desserts and drinks, and freezing the fruit in its shell also works if you plan to peel it frozen. Treat any duration as your own planning figure rather than sourced guidance, and note that the traditional way to keep a longan glut is to dry it into 桂圓 instead.",
+    "thawing": "Eat frozen longan half-thawed, straight from the freezer, or drop it frozen into a sweet soup. Fully thawed flesh is slack and watery.",
+    "spoilage": [
+      "Shell gone black and damp rather than tan and dry",
+      "Flesh turned grey, brown or slimy",
+      "Fermented or sour smell when the shell is cracked",
+      "Mould where the fruit joins the stem"
+    ],
+    "tips": [
+      "Buy longan still on the branch — it keeps and travels better",
+      "Bag it before refrigerating; open air makes the shell brittle",
+      "Eat the earliest fruit first; flavour fades faster than safety does",
+      "Dry a glut into 桂圓 rather than trying to keep it fresh for weeks"
+    ],
+    "faq": [
+      {"q": "How long does longan last in the fridge?", "a": "Two to four weeks sealed in a plastic bag near 4 °C (40 °F). Flavour fades over that time, so eat it sooner rather than later."},
+      {"q": "Why does the longan shell go brown?", "a": "It is losing water. At room temperature the shell browns within 3 to 5 days; sealing the fruit in a bag in the fridge slows it down."},
+      {"q": "Can you freeze longan?", "a": "No official timeline exists. Shelled flesh freezes acceptably and is eaten half-thawed, but drying it into 桂圓 is the traditional way to keep a glut."}
+    ]
+  },
+  "zh": {
+    "name": "龍眼",
+    "aliases": ["桂圓（鮮果）", "福圓", "牛眼", "龍眼果"],
+    "summary": "龍眼是華南和台灣夏天的小型水果，淺褐色的殼裡是半透明的果肉，中間一顆亮黑的籽。室溫下 3 到 5 天外殼就會褐化；裝袋密封放冰箱可以放 2 到 4 週，但放愈久風味流失愈多。",
+    "pantry": "龍眼多半整串連枝販售，採下後幾天內吃最好。就算維持濕度，室溫下外殼也會在 3 到 5 天內失水褐化，底下的果肉隨後就變乾、香氣散掉。請保持連枝、避開日曬，並先吃已經掉下來的那些。",
+    "fridge": "把龍眼裝進塑膠袋密封，放在接近 4°C 的冰箱，可以放 2 到 4 週。袋子是關鍵：沒裝袋的果實幾天內就會乾掉，外殼變硬變脆。放愈久風味掉得愈多，所以較短的那一端真的比較好吃——4 週要理解成「還安全」，而不是「還好吃」。",
+    "freezer": "新鮮龍眼沒有公布的冷凍期限。實務上，剝殼去籽的果肉冷凍效果還可以，半解凍吃或加進冰甜湯和飲料都行；連殼冷凍再冰著剝也可行。任何期限都請當成自己的規劃數字，而不是來自資料來源的建議；另外要記得，傳統上處理龍眼盛產的方法是烘成桂圓乾。",
+    "thawing": "冷凍龍眼從冷凍庫拿出來半解凍直接吃，或冷凍狀態丟進甜湯裡。完全解凍的果肉會鬆軟出水。",
+    "spoilage": [
+      "外殼由乾爽的淺褐轉成濕黑",
+      "果肉發灰、轉褐或變黏滑",
+      "剝殼時聞到發酵味或酸味",
+      "果實與果梗連接處長黴"
+    ],
+    "tips": [
+      "買連枝的龍眼，比較耐放也比較耐運送",
+      "冷藏前先裝袋，敞著放外殼會變脆",
+      "先吃最早採的，風味流失得比安全性快得多",
+      "盛產時烘成桂圓乾，比硬撐幾週保鮮實際"
+    ],
+    "faq": [
+      {"q": "龍眼放冰箱可以放多久？", "a": "裝袋密封放接近 4°C 的冰箱約 2 到 4 週。這段期間風味會慢慢流失，建議早點吃完。"},
+      {"q": "龍眼的殼為什麼會變褐？", "a": "那是失水。室溫下 3 到 5 天就會褐化，裝袋放冰箱可以延緩。"},
+      {"q": "龍眼可以冷凍嗎？", "a": "沒有官方期限。剝殼果肉冷凍還可以，半解凍吃；不過傳統上盛產時是烘成桂圓乾。"}
+    ]
+  },
+  "ja": {
+    "name": "リュウガン",
+    "aliases": ["竜眼", "龍眼", "ロンガン", "ドラゴンアイ"],
+    "summary": "リュウガンは中国南部や台湾の夏の小さな果実で、淡褐色の殻の中に半透明の果肉と黒く光る種が一つ入っています。常温では3〜5日で殻が茶色くなり、袋に密閉して冷蔵すれば2〜4週間持ちますが、長く置くほど風味は落ちます。",
+    "pantry": "リュウガンは枝つきで売られることが多く、収穫後数日以内がいちばんおいしい果実です。湿度を保っていても、常温では3〜5日で殻が水分を失って褐変し、その後まもなく中の果肉も乾いて香りが抜けます。枝についたまま、日光を避けて置き、外れてしまった実から先に食べましょう。",
+    "fridge": "ポリ袋に密閉して4℃前後で冷蔵すれば2〜4週間持ちます。袋は必須で、裸のままだと数日で乾き、殻が硬くもろくなります。長く置くほど風味は落ちるので、短いほうの数字のうちに食べたほうが確実においしいです。4週間は「まだ食べられる」時期であって「まだおいしい」時期ではありません。",
+    "freezer": "生のリュウガンには公表された冷凍期間がありません。実際には殻と種を除いた果肉はそれなりに凍り、半解凍で食べたり冷たいデザートや飲み物に入れたりできます。殻つきのまま凍らせて凍ったままむく方法もあります。期間はあくまで自己判断で、出典に基づく助言ではありません。なお、大量にあるときは干して桂圓にするのが伝統的な保存法です。",
+    "thawing": "冷凍したものは冷凍庫から出して半解凍で食べるか、凍ったまま甘いスープに入れます。完全に解凍するとだれて水っぽくなります。",
+    "spoilage": [
+      "殻が乾いた淡褐色ではなく黒く湿っている",
+      "果肉が灰色や茶色、ぬめっている",
+      "殻を割ったときの発酵臭・酸臭",
+      "果実と枝の接合部のカビ"
+    ],
+    "tips": [
+      "枝つきのものを買う（日持ちも輸送性もよい）",
+      "冷蔵前に袋へ入れる（裸だと殻がもろくなります）",
+      "古いものから食べる。風味は安全性よりずっと早く落ちます",
+      "大量にあるなら干して桂圓にする"
+    ],
+    "faq": [
+      {"q": "リュウガンは冷蔵庫でどのくらい持ちますか？", "a": "袋に密閉して4℃前後で2〜4週間です。その間に風味が落ちるので早めに食べましょう。"},
+      {"q": "殻が茶色くなるのはなぜ？", "a": "水分が失われるためです。常温では3〜5日で褐変し、袋に入れて冷蔵すると遅らせられます。"},
+      {"q": "冷凍できますか？", "a": "公式の期間はありません。殻と種を除いた果肉はそれなりに凍り半解凍で食べられますが、伝統的には干して桂圓にします。"}
+    ]
+  },
+  "es": {
+    "name": "Longan",
+    "aliases": ["ojo de dragón", "lengkeng", "mamoncillo chino", "Dimocarpus longan"],
+    "summary": "El longan es la pequeña fruta de verano del sur de China y Taiwán, de cáscara beige y pulpa translúcida en torno a una única semilla negra brillante. A temperatura ambiente la cáscara se pardea en 3 a 5 días; cerrado en bolsa en la nevera aguanta de 2 a 4 semanas, aunque el sabor se apaga cuanto más se guarda.",
+    "pantry": "El longan se vende en rama y está mejor a los pocos días de recogerse. A temperatura ambiente la cáscara pierde agua y se pardea en 3 a 5 días incluso manteniendo la humedad, y la pulpa se seca y pierde perfume poco después. Deja la fruta en sus ramas, lejos del sol, y come primero las que ya se hayan soltado.",
+    "fridge": "Ciérralo en una bolsa de plástico y refrigéralo cerca de 4 °C (40 °F): así aguanta de 2 a 4 semanas. La bolsa es esencial; sin ella la fruta se seca y la cáscara se vuelve dura y quebradiza en días. El sabor se pierde con el tiempo, así que el extremo corto del rango come mucho mejor: entiende las 4 semanas como el punto en que sigue siendo seguro, no en que sigue estando bueno.",
+    "freezer": "No hay un plazo publicado de congelación para el longan fresco. En la práctica, la pulpa pelada y sin semilla se congela de forma aceptable y se come medio descongelada o se echa a postres y bebidas frías; también funciona congelarlo con cáscara si piensas pelarlo helado. Toma cualquier duración como criterio propio y no como recomendación de una fuente, y ten presente que lo tradicional ante una cosecha abundante es secarlo.",
+    "thawing": "Come el longan congelado medio descongelado, recién sacado, o échalo congelado a una sopa dulce. La pulpa totalmente descongelada queda flácida y acuosa.",
+    "spoilage": [
+      "Cáscara negra y húmeda en lugar de beige y seca",
+      "Pulpa grisácea, parda o viscosa",
+      "Olor fermentado o agrio al abrir la cáscara",
+      "Moho en la unión de la fruta con el pedúnculo"
+    ],
+    "tips": [
+      "Compra longan aún en rama: se conserva y viaja mejor",
+      "Embólsalo antes de refrigerar; al aire la cáscara se vuelve quebradiza",
+      "Come primero la fruta más antigua: el sabor se pierde antes que la seguridad",
+      "Seca el excedente en lugar de intentar mantenerlo fresco semanas"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el longan en la nevera?", "a": "De 2 a 4 semanas cerrado en bolsa cerca de 4 °C (40 °F). El sabor decae en ese tiempo, así que cómelo pronto."},
+      {"q": "¿Por qué se pone parda la cáscara?", "a": "Está perdiendo agua. A temperatura ambiente se pardea en 3 a 5 días; embolsarlo en la nevera lo ralentiza."},
+      {"q": "¿Se puede congelar el longan?", "a": "No hay plazo oficial. La pulpa pelada se congela aceptablemente y se come medio descongelada, pero secarlo es lo tradicional."}
+    ]
+  }
+}

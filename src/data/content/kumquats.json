@@ -1,0 +1,107 @@
+{
+  "slug": "kumquats",
+  "en": {
+    "name": "Kumquats",
+    "aliases": ["cumquat", "金桔 (kam kwat)", "naranja china", "Fortunella"],
+    "summary": "Kumquats are the thumb-sized citrus you eat whole, skin and all — the rind is sweet and the flesh is sour, which is the point. There is no fixed counter timeline: leave them out only until they are ripe, then refrigerate, where they keep about 3 weeks.",
+    "pantry": "There is no set number of days for kumquats at room temperature, because the rule is a stage rather than a duration: keep them out until they are ripe, which means tender, fully developed and ready to eat, and then move them to the fridge. In practice most shop kumquats already are ripe, so the counter is only for the last day or two if the fruit still feels hard and looks pale. Keep them out of the sun and do not seal them in a bag while they are out.",
+    "fridge": "Once ripe, kumquats keep about 3 weeks in the fridge at 4 °C (40 °F) or below. Store them loose in the crisper or in a perforated bag so the skin does not sweat, and do not wash them until you eat — surface moisture is what starts mould at the stem end. Roll one between your fingers before eating to mix the sweet rind oils into the sour flesh.",
+    "freezer": "USDA gives no freezer timeline for kumquats, and there is little reason to freeze them whole: the fruit thaws limp and the skin loses the snap that makes it worth eating raw. What works instead is candying or preserving them in syrup or salt, all of which keep for months, or freezing sliced fruit specifically to drop into drinks and marmalade.",
+    "thawing": "If you have frozen sliced kumquats, use them straight from the freezer in drinks, marmalade or a braise. Do not expect to thaw them and eat them raw.",
+    "spoilage": [
+      "Soft, wet or sunken patches on the skin",
+      "Blue-green or white mould, usually starting at the stem end",
+      "Fruit gone light and hollow, meaning it has dried out",
+      "Fermented smell or a bitter, off taste"
+    ],
+    "tips": [
+      "Eat them whole — the sweetness is in the rind, the sourness in the flesh",
+      "Roll one between your fingers first to release the rind oils",
+      "Store loose or in a perforated bag; sealed plastic makes them sweat",
+      "Candy or preserve a glut rather than freezing whole fruit"
+    ],
+    "faq": [
+      {"q": "How long do kumquats last in the fridge?", "a": "About 3 weeks at 4 °C (40 °F) or below once they are ripe, stored loose or in a perforated bag."},
+      {"q": "Do you eat the skin of a kumquat?", "a": "Yes, that is the whole idea. The rind is sweet and the flesh is sour, so the fruit is eaten whole."},
+      {"q": "Should kumquats be left out or refrigerated?", "a": "Leave them out only until they are ripe — tender and ready to eat — then refrigerate them, where they keep about 3 weeks."}
+    ]
+  },
+  "zh": {
+    "name": "金柑",
+    "aliases": ["金桔（金柑）", "金棗", "牛奶金棗", "kumquat"],
+    "summary": "金柑是拇指大小、連皮整顆吃的柑橘——皮是甜的、果肉是酸的，這正是它好玩的地方。它沒有固定的常溫期限：放到熟為止就好，之後冷藏大約可放 3 週。",
+    "pantry": "金柑在室溫沒有固定的天數，因為這裡的規則是「一個階段」而不是「一段時間」：放到熟為止，也就是果實變得柔軟、發育完全、可以入口，然後就移進冰箱。實務上，市售金柑多半已經是熟的，所以如果果實摸起來還硬、顏色偏淡，常溫也只是放個一兩天。避開日曬，而且放在外面時不要封在袋子裡。",
+    "fridge": "熟了之後放 4°C 以下冷藏，大約可放 3 週。鬆散地放蔬果室或用打洞的袋子裝，讓果皮不會悶出水；要吃之前才洗，表面的水分正是蒂頭發黴的起點。吃之前用手指搓揉一下，讓果皮的甜味精油跟酸果肉混在一起。",
+    "freezer": "USDA 沒有提供金柑的冷凍期限，而且整顆冷凍意義不大：解凍後果實會軟塌，果皮也失去那份讓人願意生吃的爽脆感。比較好的做法是做成蜜餞、糖漬或鹽漬，這些都可以放好幾個月；或者專門把切片冷凍起來，之後丟進飲料或做果醬。",
+    "thawing": "如果冷凍了切片，就直接冷凍狀態丟進飲料、果醬或滷汁裡。不要期待解凍後可以生吃。",
+    "spoilage": [
+      "果皮出現軟塌、濕潤或凹陷的斑塊",
+      "長藍綠色或白色的黴，通常從蒂頭開始",
+      "拿起來變輕、感覺空空的，表示已經乾掉",
+      "有發酵味，或吃起來發苦、味道不對"
+    ],
+    "tips": [
+      "整顆連皮吃——甜在皮，酸在肉",
+      "吃之前先在手指間搓一下，把果皮的香氣揉出來",
+      "鬆散放或用打洞袋，密封塑膠袋會悶出水",
+      "量太多的話做蜜餞或糖漬，比整顆冷凍實用"
+    ],
+    "faq": [
+      {"q": "金柑放冰箱可以放多久？", "a": "熟了之後放 4°C 以下約 3 週，鬆散地放或用打洞的袋子裝。"},
+      {"q": "金柑的皮可以吃嗎？", "a": "可以，而且本來就是這樣吃的。皮是甜的、果肉是酸的，所以整顆一起吃。"},
+      {"q": "金柑要放室溫還是冰箱？", "a": "放室溫只是為了讓它熟——變軟、可以入口為止；熟了就冷藏，大約可以放 3 週。"}
+    ]
+  },
+  "ja": {
+    "name": "きんかん",
+    "aliases": ["金柑", "キンカン", "ヒメタチバナ", "kumquat"],
+    "summary": "きんかんは親指ほどの大きさで、皮ごとまるごと食べる柑橘です。皮が甘く果肉が酸っぱいのが持ち味。常温での日数は決まっておらず、熟すまで置いてから冷蔵に移すのがルールで、冷蔵なら約3週間持ちます。",
+    "pantry": "きんかんの常温保存に決まった日数はありません。ここでの目安は期間ではなく状態で、「熟すまで」置きます。熟したとは、やわらかく十分に発育し、そのまま食べられる状態のことです。そうなったら冷蔵庫へ移してください。実際には店頭のきんかんはすでに熟していることが多いので、硬く色が淡いときに1〜2日置く程度です。日光を避け、常温では袋に密閉しないでください。",
+    "fridge": "熟したら4℃以下で約3週間持ちます。野菜室に裸か穴あき袋で入れ、皮が汗をかかないようにします。洗うのは食べる直前に。表面の水分がヘタ側のカビの始まりです。食べる前に指で軽く転がすと、皮の甘い香り成分が酸っぱい果肉と混ざります。",
+    "freezer": "USDAはきんかんの冷凍期間を示しておらず、まるごと凍らせる意味もあまりありません。解凍するとくたっとして、生食の魅力である皮の歯切れが失われます。それよりも甘露煮やシロップ漬け、塩漬けにすれば数か月持ちますし、スライスを飲み物やマーマレード用に凍らせるのも有効です。",
+    "thawing": "スライスを冷凍した場合は、凍ったまま飲み物やマーマレード、煮込みに使います。解凍して生食するのは期待しないでください。",
+    "spoilage": [
+      "皮の軟らかい、濡れた、へこんだ部分",
+      "青緑や白のカビ（多くはヘタ側から）",
+      "軽く中が空洞のような感触（乾燥）",
+      "発酵臭、苦く違和感のある味"
+    ],
+    "tips": [
+      "皮ごとまるごと食べる（甘みは皮、酸味は果肉）",
+      "食べる前に指で転がして皮の香りを立たせる",
+      "裸か穴あき袋で保存（密閉すると汗をかきます）",
+      "たくさんあるなら甘露煮や漬けものにする"
+    ],
+    "faq": [
+      {"q": "きんかんは冷蔵庫でどのくらい持ちますか？", "a": "熟したものなら4℃以下で約3週間です。裸か穴あき袋で保存してください。"},
+      {"q": "きんかんの皮は食べられますか？", "a": "はい、それが本来の食べ方です。皮が甘く果肉が酸っぱいので、まるごと食べます。"},
+      {"q": "常温と冷蔵、どちらがいいですか？", "a": "熟すまでは常温に置き、食べごろになったら冷蔵へ。冷蔵で約3週間持ちます。"}
+    ]
+  },
+  "es": {
+    "name": "Kumquats",
+    "aliases": ["naranja china", "quinoto", "naranjita china", "Fortunella"],
+    "summary": "Los kumquats son cítricos del tamaño de un pulgar que se comen enteros, con piel: la corteza es dulce y la pulpa ácida, y ahí está la gracia. No hay un plazo fijo de encimera: déjalos fuera solo hasta que estén maduros y luego refrigéralos, donde aguantan unas 3 semanas.",
+    "pantry": "No hay un número fijo de días a temperatura ambiente, porque la regla es un estado y no una duración: déjalos fuera hasta que estén maduros —tiernos, plenamente desarrollados y listos para comer— y entonces pásalos a la nevera. En la práctica, los kumquats de tienda ya suelen estar maduros, así que la encimera es solo para uno o dos días si la fruta se nota dura y pálida. Mantenlos lejos del sol y no los cierres en una bolsa mientras estén fuera.",
+    "fridge": "Ya maduros aguantan unas 3 semanas a 4 °C (40 °F) o menos. Guárdalos sueltos en el cajón o en bolsa perforada para que la piel no sude, y no los laves hasta comerlos: la humedad superficial es lo que inicia el moho en el pedúnculo. Rueda uno entre los dedos antes de comerlo para mezclar los aceites dulces de la piel con la pulpa ácida.",
+    "freezer": "El USDA no da plazo de congelación para los kumquats, y congelarlos enteros aporta poco: se descongelan lacios y la piel pierde el mordisco que hace atractivo comerlos crudos. Funciona mejor confitarlos o conservarlos en almíbar o en sal, todo lo cual dura meses, o congelar rodajas específicamente para bebidas y mermelada.",
+    "thawing": "Si has congelado rodajas, úsalas directamente congeladas en bebidas, mermelada o un guiso. No cuentes con descongelarlas y comerlas crudas.",
+    "spoilage": [
+      "Zonas blandas, húmedas o hundidas en la piel",
+      "Moho verde azulado o blanco, normalmente desde el pedúnculo",
+      "Fruta ligera y hueca: se ha secado",
+      "Olor fermentado o sabor amargo y extraño"
+    ],
+    "tips": [
+      "Cómelos enteros: el dulzor está en la piel y la acidez en la pulpa",
+      "Rueda uno entre los dedos primero para liberar los aceites de la corteza",
+      "Guárdalos sueltos o en bolsa perforada; el plástico cerrado los hace sudar",
+      "Confita o conserva el excedente en lugar de congelar fruta entera"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los kumquats en la nevera?", "a": "Unas 3 semanas a 4 °C (40 °F) o menos una vez maduros, sueltos o en bolsa perforada."},
+      {"q": "¿Se come la piel del kumquat?", "a": "Sí, esa es la idea. La corteza es dulce y la pulpa ácida, así que la fruta se come entera."},
+      {"q": "¿Encimera o nevera?", "a": "Déjalos fuera solo hasta que maduren —tiernos y listos para comer— y luego refrigéralos, donde duran unas 3 semanas."}
+    ]
+  }
+}

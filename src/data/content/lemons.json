@@ -1,0 +1,107 @@
+{
+  "slug": "lemons",
+  "en": {
+    "name": "Lemons",
+    "aliases": ["Eureka lemon", "Meyer lemon", "limón", "citron (French)"],
+    "summary": "Lemons are one of the most forgiving things in the kitchen because the rind acts as its own packaging. From purchase they keep about 10 days at room temperature and 10 to 21 days in the fridge, and the juice and zest freeze well for months.",
+    "pantry": "A bowl on the counter keeps lemons about 10 days from the day you buy them, and room-temperature fruit gives noticeably more juice than fridge-cold fruit. Keep them out of direct sun and give them air rather than sealing them in the bag they came in — trapped moisture is what starts the blue-green mould you see at the stem end. Do not store them next to bananas or apples, whose ethylene speeds up the decline.",
+    "fridge": "In the crisper at 4 °C (40 °F) or below, lemons keep roughly 10 to 21 days from purchase, roughly doubling their counter life. A sealed bag or a container of water extends this further by stopping the rind drying out, though water storage needs changing every few days. Half a cut lemon should go cut-side down on a saucer or wrapped tightly and be used within about 3 days.",
+    "freezer": "USDA gives no freezer timeline for whole lemons, and freezing one whole is a poor use of space — the flesh collapses and the fruit is only good for juicing afterwards. What works well is juice frozen in an ice cube tray, zest grated into a small tub, and slices frozen flat for drinks. All of these keep good quality for months at −18 °C (0 °F).",
+    "thawing": "Drop frozen juice cubes and slices straight into drinks, sauces and dressings. Use zest from frozen — it grates and scatters better cold and loses aroma if it sits out.",
+    "spoilage": [
+      "Soft, wet or sunken patches, usually starting at the stem end",
+      "Blue-green or white fuzzy mould on the rind",
+      "Fruit gone hard, light and hollow-feeling from drying out",
+      "Fermented smell or cloudy, off-tasting juice"
+    ],
+    "tips": [
+      "Choose fruit that feels heavy for its size with a thin, smooth skin",
+      "Zest a lemon before you juice it — you cannot zest a squeezed half",
+      "Roll it firmly under your palm before cutting to get more juice",
+      "Freeze surplus juice in an ice cube tray and bag the cubes"
+    ],
+    "faq": [
+      {"q": "How long do lemons last?", "a": "About 10 days at room temperature and 10 to 21 days in the fridge, both counted from the day you buy them."},
+      {"q": "Do lemons need to be refrigerated?", "a": "No, but refrigerating roughly doubles their life. Room-temperature lemons yield more juice, so take one out ahead of time."},
+      {"q": "Can you freeze lemons?", "a": "Freeze the juice in cubes, the zest in a tub and slices flat rather than whole fruit, which collapses and is then only useful for juicing."}
+    ]
+  },
+  "zh": {
+    "name": "檸檬",
+    "aliases": ["黃檸檬", "尤利卡檸檬", "梅爾檸檬", "香水檸檬"],
+    "summary": "檸檬是廚房裡最不容易出錯的東西之一，因為它的外皮本身就是包裝。從購買日起，室溫約可放 10 天，冷藏 10 到 21 天；果汁和果皮屑冷凍都可以放好幾個月。",
+    "pantry": "放在室溫的碗裡，從買回來那天算起大約 10 天，而且常溫的檸檬明顯比冰過的更會出汁。避開日曬，讓它透氣，不要繼續封在買回來的那個袋子裡——悶住的水氣正是蒂頭那圈藍綠色黴菌的起點。也不要跟香蕉、蘋果放在一起，它們釋放的乙烯會加速老化。",
+    "fridge": "放在 4°C 以下的蔬果室，從購買日起大約 10 到 21 天，等於把常溫壽命翻倍。密封袋或泡水盒可以再延長一些，因為能防止果皮乾掉，只是泡水的話每隔幾天要換水。切了一半的檸檬請切面朝下放小盤上，或緊緊包好，約 3 天內用完。",
+    "freezer": "USDA 沒有提供整顆檸檬的冷凍期限，而且整顆冷凍很浪費空間——果肉會塌掉，解凍後只剩榨汁一途。真正好用的是：果汁用製冰盒凍成塊、果皮屑磨好裝小盒、切片攤平冷凍拿來加飲料。這些在 −18°C 下都可以維持好幾個月的良好品質。",
+    "thawing": "冷凍果汁塊和切片可以直接丟進飲料、醬汁和沙拉醬裡。果皮屑直接冷凍狀態使用——冰著比較好撥散，放到回溫反而會流失香氣。",
+    "spoilage": [
+      "出現軟塌、濕潤或凹陷的斑塊，通常從蒂頭開始",
+      "外皮長藍綠色或白色的絨毛黴",
+      "果實變硬、變輕、感覺空空的，那是乾掉了",
+      "有發酵味，或果汁混濁、味道不對"
+    ],
+    "tips": [
+      "挑拿起來比看起來重、皮薄光滑的",
+      "先磨皮屑再榨汁——擠過的半顆沒辦法磨皮",
+      "切之前用掌心用力滾一滾，出汁更多",
+      "多出來的汁用製冰盒凍成塊再裝袋"
+    ],
+    "faq": [
+      {"q": "檸檬可以放多久？", "a": "從購買日起，室溫約 10 天，冷藏 10 到 21 天。"},
+      {"q": "檸檬需要冷藏嗎？", "a": "不一定，但冷藏大致能讓壽命翻倍。常溫的檸檬比較會出汁，所以可以提前拿一顆出來回溫。"},
+      {"q": "檸檬可以冷凍嗎？", "a": "建議冷凍果汁塊、果皮屑和切片，不要整顆冷凍；整顆會塌掉，之後只能拿去榨汁。"}
+    ]
+  },
+  "ja": {
+    "name": "レモン",
+    "aliases": ["檸檬", "マイヤーレモン", "ユーレカレモン", "国産レモン"],
+    "summary": "レモンは皮そのものが包装の役目を果たすため、台所でいちばん扱いやすい食材のひとつです。購入日から常温で約10日、冷蔵で10〜21日持ち、果汁とすりおろした皮は数か月冷凍できます。",
+    "pantry": "常温の器なら購入日から約10日持ち、冷やしたものより明らかに果汁がよく出ます。直射日光を避け、買ってきた袋に入れたままにせず空気に触れさせてください。こもった湿気がヘタ側の青緑のカビの原因です。バナナやりんごの隣も避けましょう。エチレンで劣化が早まります。",
+    "fridge": "4℃以下の野菜室なら購入日から10〜21日ほどで、常温のおよそ倍になります。密閉袋や水を張った容器に入れるとさらに延び、皮の乾燥を防げます（水は数日ごとに交換を）。切りかけの半分は切り口を下にして小皿に置くか、しっかり包んで約3日以内に使い切ってください。",
+    "freezer": "USDAはまるごとのレモンの冷凍期間を示しておらず、まるごと凍らせるのは場所の無駄です。果肉が崩れ、後は搾るしか使い道がなくなります。有効なのは、果汁を製氷皿で、すりおろした皮を小さな容器で、スライスを平らにして飲み物用に凍らせる方法。いずれも−18℃で数か月おいしく保てます。",
+    "thawing": "冷凍した果汁キューブやスライスは、そのまま飲み物やソース、ドレッシングへ。皮は凍ったまま使います。ほぐしやすく、置いておくと香りが飛びます。",
+    "spoilage": [
+      "軟らかい、濡れた、へこんだ部分（多くはヘタ側から）",
+      "皮の青緑や白の綿状のカビ",
+      "硬く軽くなり中が空洞のような感触（乾燥）",
+      "発酵臭、果汁が濁って味がおかしい"
+    ],
+    "tips": [
+      "見た目より重く、皮が薄くなめらかなものを選ぶ",
+      "搾る前に皮をすりおろす（搾った後ではできません）",
+      "切る前に手のひらで転がすと果汁が出やすい",
+      "余った果汁は製氷皿で凍らせて袋に移す"
+    ],
+    "faq": [
+      {"q": "レモンはどのくらい持ちますか？", "a": "購入日から常温で約10日、冷蔵で10〜21日です。"},
+      {"q": "冷蔵は必要ですか？", "a": "必須ではありませんが、冷蔵でおよそ倍持ちます。常温のほうが果汁が出るので、使う前に出しておくとよいでしょう。"},
+      {"q": "冷凍できますか？", "a": "まるごとより、果汁をキューブに、皮をすりおろして、スライスを平らにして冷凍するのがおすすめです。"}
+    ]
+  },
+  "es": {
+    "name": "Limones",
+    "aliases": ["limón amarillo", "limón Eureka", "limón Meyer", "lemon"],
+    "summary": "Los limones son de lo más agradecido en la cocina porque la corteza hace de envase. Desde la compra aguantan unos 10 días a temperatura ambiente y de 10 a 21 días en la nevera, y el zumo y la ralladura se congelan bien durante meses.",
+    "pantry": "Un frutero conserva los limones unos 10 días desde el día de la compra, y la fruta a temperatura ambiente da bastante más zumo que la fría. Mantenlos lejos del sol directo y dales aire en vez de dejarlos cerrados en la bolsa: la humedad atrapada es lo que inicia el moho verde azulado del pedúnculo. No los guardes junto a plátanos o manzanas, cuyo etileno acelera su declive.",
+    "fridge": "En el cajón a 4 °C (40 °F) o menos aguantan unos 10 a 21 días desde la compra, aproximadamente el doble que fuera. Una bolsa cerrada o un recipiente con agua alarga aún más al evitar que la corteza se reseque, aunque el agua hay que cambiarla cada pocos días. Medio limón cortado va boca abajo en un plato o bien envuelto, y se usa en unos 3 días.",
+    "freezer": "El USDA no da plazo de congelación para limones enteros, y congelar uno entero es mal uso del espacio: la pulpa se deshace y después solo sirve para exprimir. Lo que funciona es el zumo congelado en cubitera, la ralladura en un tarrito y las rodajas congeladas planas para bebidas. Todo ello mantiene buena calidad durante meses a −18 °C (0 °F).",
+    "thawing": "Echa los cubitos de zumo y las rodajas congeladas directamente a bebidas, salsas y aliños. La ralladura se usa congelada: se desmenuza mejor fría y pierde aroma al aire.",
+    "spoilage": [
+      "Zonas blandas, húmedas o hundidas, normalmente desde el pedúnculo",
+      "Moho algodonoso verde azulado o blanco en la corteza",
+      "Fruta dura, ligera y con sensación hueca por deshidratación",
+      "Olor fermentado o zumo turbio con sabor raro"
+    ],
+    "tips": [
+      "Elige fruta pesada para su tamaño y de piel fina y lisa",
+      "Ralla el limón antes de exprimirlo: media mitad exprimida ya no se ralla",
+      "Ruédalo con firmeza bajo la palma antes de cortarlo para sacar más zumo",
+      "Congela el zumo sobrante en cubitera y embolsa los cubitos"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los limones?", "a": "Unos 10 días a temperatura ambiente y de 10 a 21 días en la nevera, contados desde la compra."},
+      {"q": "¿Hay que refrigerar los limones?", "a": "No, pero refrigerarlos casi duplica su vida. A temperatura ambiente dan más zumo, así que saca uno con antelación."},
+      {"q": "¿Se pueden congelar los limones?", "a": "Congela el zumo en cubitos, la ralladura y rodajas planas, mejor que la fruta entera, que se deshace y luego solo sirve para exprimir."}
+    ]
+  }
+}

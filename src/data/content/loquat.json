@@ -1,0 +1,107 @@
+{
+  "slug": "loquat",
+  "en": {
+    "name": "Loquat",
+    "aliases": ["Japanese plum", "biwa", "níspero japonés", "Eriobotrya japonica"],
+    "summary": "The loquat is a small orange spring fruit with thin skin, sweet-tart flesh and a few large glossy seeds. It belongs at room temperature, where it keeps about 2 to 4 days; home refrigeration is not recommended, because the cold browns the flesh.",
+    "pantry": "Room temperature is where loquats should live. Taiwan's agriculture ministry groups them with bananas and star fruit as fruit that should be kept at room temperature precisely because chilling damages them. Expect about 2 to 4 days, spread in a single layer and handled gently — the skin is thin and every fingerprint eventually shows as a brown mark. Buy loquats with their stems and a little bloom still on, and eat them within a couple of days of getting them home.",
+    "fridge": "There is no honest home-fridge timeline for loquats, because refrigerating them at home is not recommended: a domestic fridge causes chilling injury and the flesh browns. Commercial storage does work — around 0 °C for about 3 weeks — but that depends on controlled humidity and fruit chilled promptly and evenly after picking, neither of which a kitchen fridge provides. If you must chill loquats briefly before serving, do it for an hour rather than for days.",
+    "freezer": "No source gives a freezer timeline for loquats, and the fresh fruit does not suit freezing — the thin skin and soft flesh collapse into mush. What does work is cooking the fruit first: peeled, deseeded loquats poached in syrup, or made into jam or a compote, freeze in portions and hold their character well. Treat any duration you use as your own planning figure rather than sourced guidance.",
+    "thawing": "If you have frozen cooked loquats or loquat jam, thaw them overnight in the fridge and use them within a couple of days. Do not thaw on the counter.",
+    "spoilage": [
+      "Brown, soft, sunken patches spreading across the skin",
+      "Flesh gone brown and watery under intact-looking skin",
+      "Fermented or alcoholic smell",
+      "Mould around the stem or the flower end"
+    ],
+    "tips": [
+      "Keep them at room temperature — the fridge browns the flesh",
+      "Buy fruit with the stem attached and eat within a couple of days",
+      "Handle them by the stem; fingerprints turn into brown marks",
+      "Turn a glut into jam or syrup rather than trying to store the fresh fruit"
+    ],
+    "faq": [
+      {"q": "Should loquats be refrigerated?", "a": "Not at home. A domestic fridge causes chilling injury and browns the flesh; keep them at room temperature and eat them within 2 to 4 days."},
+      {"q": "How long do loquats last?", "a": "About 2 to 4 days at room temperature. Commercial cold storage near 0 °C works for about 3 weeks, but that needs controlled humidity."},
+      {"q": "Can you freeze loquats?", "a": "No source gives a timeline, and fresh fruit turns to mush. Cook them into jam, compote or syrup first, then freeze in portions."}
+    ]
+  },
+  "zh": {
+    "name": "枇杷",
+    "aliases": ["琵琶果", "盧橘", "枇杷果", "biwa"],
+    "summary": "枇杷是春天的小型橙色水果，果皮薄、果肉酸甜，裡面有幾顆光亮的大籽。它該待在室溫，大約可放 2 到 4 天；家用冰箱並不建議，因為低溫會讓果肉褐化。",
+    "pantry": "室溫才是枇杷該待的地方。農業部把它和香蕉、楊桃歸在同一類，都是「應該常溫保存」的水果，理由正是低溫會傷害它。大約可放 2 到 4 天，請單層攤開、輕拿輕放——果皮很薄，每一個指印最後都會變成褐色斑點。買的時候挑還帶著果梗、表面還有一層果粉的，回家後一兩天內吃完。",
+    "fridge": "枇杷沒有誠實的家用冷藏期限，因為在家冷藏本來就不建議：家用冰箱會造成寒害，果肉會褐化。商業冷藏確實可行——在 0°C 左右可以放約 3 週——但那要靠控制濕度、以及採後迅速均勻降溫，這兩件事廚房冰箱都做不到。如果一定要在上桌前冰鎮一下，就冰一小時，而不是放好幾天。",
+    "freezer": "沒有任何來源提供枇杷的冷凍期限，而且新鮮果實並不適合冷凍——薄皮和軟肉會塌成一團爛泥。可行的是先煮過：去皮去籽用糖水煮過的枇杷，或做成果醬、糖煮，分份冷凍可以保留原本的風味特性。你採用的任何期限，都請當成自己的規劃數字，而不是來自資料來源的建議。",
+    "thawing": "如果冷凍了煮過的枇杷或枇杷醬，請放冷藏隔夜解凍，並在一兩天內用完。不要放室溫解凍。",
+    "spoilage": [
+      "果皮出現褐色、軟塌、凹陷的斑塊並持續擴大",
+      "外皮看起來還好，裡面的果肉卻已經褐化出水",
+      "有發酵味或酒味",
+      "果梗或花萼端周圍長黴"
+    ],
+    "tips": [
+      "放室溫保存——冰箱會讓果肉褐化",
+      "挑還帶果梗的，回家一兩天內吃完",
+      "拿的時候抓果梗，指印會變成褐斑",
+      "量太多就做成果醬或糖漬，不要硬要保鮮"
+    ],
+    "faq": [
+      {"q": "枇杷需要冷藏嗎？", "a": "在家不建議。家用冰箱會造成寒害、讓果肉褐化；請放室溫並在 2 到 4 天內吃完。"},
+      {"q": "枇杷可以放多久？", "a": "室溫約 2 到 4 天。商業上在 0°C 左右可以放約 3 週，但那需要控制濕度的環境。"},
+      {"q": "枇杷可以冷凍嗎？", "a": "沒有來源給出期限，而且新鮮果實會凍成爛泥。請先做成果醬、糖煮或糖漬再分份冷凍。"}
+    ]
+  },
+  "ja": {
+    "name": "びわ",
+    "aliases": ["枇杷", "ビワ", "ロクワット", "びわの実"],
+    "summary": "びわは薄い皮と甘酸っぱい果肉、光沢のある大きな種を持つ春の小さなオレンジ色の果実です。常温が本来の置き場所で、2〜4日ほど持ちます。家庭での冷蔵は推奨されません。冷えると果肉が褐変するためです。",
+    "pantry": "びわの居場所は常温です。台湾の農業当局は、びわをバナナやスターフルーツと同じ「常温で保存すべき果物」に分類しています。理由はまさに低温障害です。目安は2〜4日。一段に広げ、やさしく扱ってください。皮が薄く、指の跡はいずれ茶色い斑になります。軸がついてブルーム（果粉）の残ったものを選び、持ち帰ってから1〜2日で食べきりましょう。",
+    "fridge": "びわには家庭の冷蔵での正直な目安がありません。そもそも家庭での冷蔵が推奨されないからです。家庭用冷蔵庫では低温障害が起き、果肉が褐変します。商業的な貯蔵なら0℃前後で約3週間可能ですが、それは湿度管理と収穫後の速やかで均一な予冷があってのことで、台所の冷蔵庫では再現できません。食べる直前に冷やしたいなら、数日ではなく1時間程度にとどめてください。",
+    "freezer": "びわの冷凍期間を示す出典はなく、生の果実は冷凍に向きません。薄い皮と柔らかい果肉が崩れてどろどろになります。有効なのは先に加熱すること。皮と種を除いてシロップで煮たものやジャム、コンポートにすれば、小分け冷凍でも持ち味が保てます。使う期間はあくまで自己判断で、出典に基づく助言ではありません。",
+    "thawing": "加熱したびわやジャムを冷凍した場合は、冷蔵庫で一晩解凍し、1〜2日で使い切ってください。常温解凍は避けましょう。",
+    "spoilage": [
+      "皮の茶色く軟らかいへこんだ斑が広がっている",
+      "皮は無事に見えても中の果肉が茶色く水っぽい",
+      "発酵臭・アルコール臭",
+      "軸やおしり側のカビ"
+    ],
+    "tips": [
+      "常温で保存する（冷蔵は果肉を褐変させます）",
+      "軸つきのものを買い、1〜2日で食べきる",
+      "軸を持って扱う（指の跡が茶色い斑になります）",
+      "たくさんあるならジャムやシロップ煮にする"
+    ],
+    "faq": [
+      {"q": "びわは冷蔵が必要ですか？", "a": "家庭では推奨されません。低温障害で果肉が褐変します。常温に置き、2〜4日で食べきってください。"},
+      {"q": "びわはどのくらい持ちますか？", "a": "常温で2〜4日です。商業的な0℃前後の貯蔵なら約3週間ですが、湿度管理が前提です。"},
+      {"q": "びわは冷凍できますか？", "a": "期間を示す出典はなく、生ではどろどろになります。ジャムやコンポートにしてから小分け冷凍してください。"}
+    ]
+  },
+  "es": {
+    "name": "Níspero japonés",
+    "aliases": ["níspero", "loquat", "biwa", "ciruela japonesa", "Eriobotrya japonica"],
+    "summary": "El níspero japonés es una fruta pequeña y anaranjada de primavera, de piel fina, pulpa agridulce y unas pocas semillas grandes y brillantes. Su sitio es la temperatura ambiente, donde aguanta unos 2 a 4 días; refrigerarlo en casa no se recomienda, porque el frío pardea la pulpa.",
+    "pantry": "La temperatura ambiente es donde deben estar los nísperos. El ministerio de agricultura de Taiwán los agrupa con el plátano y la carambola como fruta que debe guardarse a temperatura ambiente precisamente porque el frío los daña. Cuenta con unos 2 a 4 días, extendidos en una sola capa y manipulados con cuidado: la piel es fina y cada huella acaba viéndose como una marca parda. Cómpralos con el rabito y algo de pruina y cómelos en un par de días.",
+    "fridge": "No existe un plazo honesto de nevera doméstica para los nísperos, porque refrigerarlos en casa no se recomienda: una nevera doméstica provoca daño por frío y la pulpa se pardea. El almacenamiento comercial sí funciona —en torno a 0 °C durante unas 3 semanas— pero depende de humedad controlada y de fruta enfriada pronto y de forma uniforme tras la cosecha, cosas que una nevera de cocina no ofrece. Si necesitas enfriarlos antes de servir, hazlo una hora, no días.",
+    "freezer": "Ninguna fuente da un plazo de congelación, y la fruta fresca no se presta: la piel fina y la pulpa blanda se deshacen. Lo que sí funciona es cocinarla antes: nísperos pelados y sin semillas escalfados en almíbar, o en mermelada o compota, se congelan en porciones y conservan bien su carácter. Toma cualquier duración como criterio propio, no como recomendación de una fuente.",
+    "thawing": "Si has congelado nísperos cocidos o mermelada, descongélalos toda la noche en la nevera y úsalos en un par de días. No los descongeles en la encimera.",
+    "spoilage": [
+      "Manchas pardas, blandas y hundidas que se extienden por la piel",
+      "Pulpa parda y acuosa bajo una piel de aspecto intacto",
+      "Olor fermentado o alcohólico",
+      "Moho alrededor del rabito o del extremo de la flor"
+    ],
+    "tips": [
+      "Guárdalos a temperatura ambiente: la nevera pardea la pulpa",
+      "Compra fruta con el rabito y cómela en un par de días",
+      "Manéjalos por el rabito; las huellas se vuelven marcas pardas",
+      "Convierte el excedente en mermelada o almíbar en lugar de guardarlo fresco"
+    ],
+    "faq": [
+      {"q": "¿Hay que refrigerar los nísperos?", "a": "En casa no. La nevera provoca daño por frío y pardea la pulpa; guárdalos a temperatura ambiente y cómelos en 2 a 4 días."},
+      {"q": "¿Cuánto duran los nísperos?", "a": "Unos 2 a 4 días a temperatura ambiente. En cámara comercial cerca de 0 °C aguantan unas 3 semanas, pero con humedad controlada."},
+      {"q": "¿Se pueden congelar?", "a": "Ninguna fuente da plazo y la fruta fresca se deshace. Conviértelos en mermelada, compota o almíbar y congela en porciones."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "jujube-dried",
+  "en": {
+    "name": "Dried jujube (red dates)",
+    "aliases": ["red dates", "Chinese dates", "hongzao", "Ziziphus jujuba"],
+    "summary": "Dried jujubes are the wrinkled red dates used across East Asia in soups, teas and braises. Like most dried fruit they keep about 6 to 12 months in a cool cupboard — closer to a year at 16 °C and about 6 months at 27 °C — 12 to 18 months refrigerated, and 18 to 24 months frozen.",
+    "pantry": "Keep them in an airtight jar in a dark cupboard away from the stove. Temperature is what decides the shelf life: most dried fruit keeps about a year at 16 °C and only about 6 months at 27 °C, which is why the range here is so wide. In a humid subtropical summer, a jar on an open shelf will draw moisture, and once the dates go sticky they are on the way to mould.",
+    "fridge": "Refrigerating dried fruit is worth doing wherever you can, and dried jujubes keep about 12 to 18 months at 4 °C (40 °F) or below in a sealed jar or tub. In a humid climate this also stops them going tacky and mouldy. Let the jar come to room temperature before opening it, otherwise condensation forms on the cold fruit — which is exactly the moisture you were trying to avoid.",
+    "freezer": "Double-bagged in the freezer they hold about 18 to 24 months at −18 °C (0 °F). Freezing a new packet for a few days is also the simplest way to kill any pantry moth eggs it came home with, which is a real problem with dried fruit and grains. Thaw sealed so the fruit does not sweat.",
+    "thawing": "Take out what you need and let the sealed bag come to room temperature before opening. You can also drop frozen dates straight into a simmering soup or tea.",
+    "spoilage": [
+      "White or green mould, especially in the wrinkles and around the stem",
+      "Sticky, wet surface where the fruit was previously dry and leathery",
+      "Sour or fermented smell",
+      "Insects, webbing or fine dust in the jar, which means pantry moths"
+    ],
+    "tips": [
+      "Store in an airtight jar, not the paper bag it came in",
+      "Freeze a new packet for a few days to kill any moth eggs",
+      "Let a cold jar warm up before opening to avoid condensation",
+      "Buy in quantities you will use within a season if your kitchen is humid"
+    ],
+    "faq": [
+      {"q": "How long do dried red dates last?", "a": "About 6 to 12 months in a cool cupboard, 12 to 18 months refrigerated and 18 to 24 months frozen, all in an airtight container."},
+      {"q": "Do dried jujubes need to be refrigerated?", "a": "Not strictly, but it is worth doing, especially in a humid climate — refrigeration roughly doubles their life and stops them going sticky."},
+      {"q": "Can you freeze dried red dates?", "a": "Yes, double-bagged, for about 18 to 24 months. It also kills any pantry moth eggs in a newly bought packet."}
+    ]
+  },
+  "zh": {
+    "name": "紅棗",
+    "aliases": ["乾紅棗", "大棗", "中國棗", "曬乾棗子"],
+    "summary": "紅棗就是東亞在燉湯、泡茶和滷煮裡常用的那種皺皮乾棗。和大多數果乾一樣，放在陰涼的櫥櫃約可保存 6 到 12 個月——16°C 時接近一年，27°C 時大約只有 6 個月——冷藏 12 到 18 個月，冷凍 18 到 24 個月。",
+    "pantry": "裝進密封罐，放在陰暗的櫥櫃、遠離爐火。決定保存期限的是溫度：大多數果乾在 16°C 可以放約一年，在 27°C 只有約 6 個月，這也是這裡的範圍拉這麼開的原因。在濕熱的亞熱帶夏天，敞在開放層架上的罐子會吸濕，而棗子一旦變黏，就離發黴不遠了。",
+    "fridge": "只要有空間，果乾冷藏一律划算；紅棗裝密封罐或密封盒放 4°C 以下，約可保存 12 到 18 個月。在潮濕的氣候裡，這也能避免它變黏、發黴。開罐之前先讓罐子回到室溫，否則冰冷的果乾表面會結露——那正是你努力想避開的水分。",
+    "freezer": "裝雙層袋冷凍，−18°C 下約可放 18 到 24 個月。新買的一包先冷凍幾天，也是最簡單的殺死穀蛾蟲卵的方法，果乾和穀物真的很常遇到這個問題。解凍時保持密封，果乾才不會出汗。",
+    "thawing": "取出需要的量，讓密封袋先回到室溫再打開。也可以直接把冷凍的紅棗丟進正在煮的湯或茶裡。",
+    "spoilage": [
+      "長白色或綠色的黴，尤其在皺褶和蒂頭附近",
+      "原本乾爽帶韌性的表面變得黏濕",
+      "有酸味或發酵味",
+      "罐子裡有蟲、絲網或細細的粉屑，那是穀蛾"
+    ],
+    "tips": [
+      "用密封罐裝，不要留在原本的紙袋裡",
+      "新買的一包先冷凍幾天，殺掉可能帶回來的蟲卵",
+      "冰過的罐子先回溫再開，避免結露",
+      "廚房潮濕的話，一次買一季用得完的量就好"
+    ],
+    "faq": [
+      {"q": "紅棗可以放多久？", "a": "密封裝，陰涼櫥櫃約 6 到 12 個月，冷藏 12 到 18 個月，冷凍 18 到 24 個月。"},
+      {"q": "紅棗需要冷藏嗎？", "a": "不是非得如此，但很值得，尤其在潮濕的氣候——冷藏大致能讓壽命翻倍，也能避免變黏。"},
+      {"q": "紅棗可以冷凍嗎？", "a": "可以，裝雙層袋約 18 到 24 個月，順便還能殺掉新買那包裡的蟲卵。"}
+    ]
+  },
+  "ja": {
+    "name": "干しなつめ",
+    "aliases": ["紅棗", "なつめ", "大棗", "ホンザオ"],
+    "summary": "干しなつめ（紅棗）は東アジアでスープやお茶、煮込みに使われるしわのある赤い実です。多くのドライフルーツと同じく、涼しい戸棚で約6〜12か月（16℃なら1年近く、27℃なら6か月ほど）、冷蔵で12〜18か月、冷凍で18〜24か月持ちます。",
+    "pantry": "密閉瓶に入れ、コンロから離れた暗い戸棚へ。日持ちを決めるのは温度で、ドライフルーツ一般は16℃で約1年、27℃では約6か月しか持ちません。ここで幅が広いのはそのためです。蒸し暑い亜熱帯の夏に開いた棚へ置くと湿気を吸い、実がべたつき始めたらカビへの入り口です。",
+    "fridge": "ドライフルーツは可能なら冷蔵するのが得策で、干しなつめは密閉容器で4℃以下なら約12〜18か月持ちます。湿度の高い気候では、べたつきやカビも防げます。開ける前に容器を室温に戻してください。冷たい実に結露が付き、避けたかった水分そのものになります。",
+    "freezer": "二重の袋に入れて−18℃で約18〜24か月。新しい袋を数日冷凍しておくと、ドライフルーツや穀類に付き物のノシメマダラメイガの卵を死滅させられます。解凍は袋を密閉したまま行い、汗をかかせないこと。",
+    "thawing": "必要な分を取り出し、袋を密閉したまま室温に戻してから開けます。凍ったままスープやお茶に入れても構いません。",
+    "spoilage": [
+      "白や緑のカビ（特にしわの間やヘタ周り）",
+      "乾いて革のようだった表面がべたつき湿っている",
+      "酸臭や発酵臭",
+      "瓶の中の虫、糸、細かい粉（メイガのサイン）"
+    ],
+    "tips": [
+      "紙袋のままにせず密閉瓶へ移す",
+      "新しい袋は数日冷凍して虫の卵を死滅させる",
+      "冷たい容器は室温に戻してから開ける",
+      "台所が湿るなら、ひと季節で使い切る量だけ買う"
+    ],
+    "faq": [
+      {"q": "干しなつめはどのくらい持ちますか？", "a": "密閉容器で、涼しい戸棚6〜12か月、冷蔵12〜18か月、冷凍18〜24か月です。"},
+      {"q": "冷蔵は必要ですか？", "a": "必須ではありませんが、湿度の高い環境では特に有効です。日持ちがおよそ倍になり、べたつきも防げます。"},
+      {"q": "冷凍できますか？", "a": "できます。二重の袋で18〜24か月ほど。新しい袋の虫の卵対策にもなります。"}
+    ]
+  },
+  "es": {
+    "name": "Azufaifa seca",
+    "aliases": ["dátil chino", "jujube seco", "hongzao", "azufaifo seco"],
+    "summary": "Las azufaifas secas son los dátiles rojos arrugados que se usan en Asia Oriental en sopas, tés y guisos. Como casi toda la fruta seca duran unos 6 a 12 meses en un armario fresco —cerca de un año a 16 °C y unos 6 meses a 27 °C—, de 12 a 18 meses refrigeradas y de 18 a 24 meses congeladas.",
+    "pantry": "Guárdalas en un tarro hermético, en un armario oscuro y lejos del fuego. La temperatura es lo que decide la vida útil: la mayoría de la fruta seca dura alrededor de un año a 16 °C y solo unos 6 meses a 27 °C, de ahí lo amplio del rango. En un verano húmedo, un tarro en un estante abierto captará humedad, y cuando los dátiles se ponen pegajosos van camino del moho.",
+    "fridge": "Refrigerar la fruta seca compensa siempre que puedas, y las azufaifas secas aguantan unos 12 a 18 meses a 4 °C (40 °F) o menos en tarro cerrado. En clima húmedo evita además que se vuelvan pegajosas y enmohezcan. Deja que el tarro se atempere antes de abrirlo, o se formará condensación sobre la fruta fría, justo la humedad que querías evitar.",
+    "freezer": "En doble bolsa aguantan unos 18 a 24 meses a −18 °C (0 °F). Congelar un paquete nuevo unos días es además la forma más sencilla de matar los huevos de polilla de despensa que pueda traer, un problema real con frutos secos y cereales. Descongela con la bolsa cerrada para que no sude.",
+    "thawing": "Saca lo que necesites y deja que la bolsa cerrada se atempere antes de abrirla. También puedes echar los dátiles congelados directamente a una sopa o un té a fuego lento.",
+    "spoilage": [
+      "Moho blanco o verde, sobre todo en las arrugas y el pedúnculo",
+      "Superficie pegajosa y húmeda donde antes estaba seca y correosa",
+      "Olor agrio o fermentado",
+      "Insectos, telillas o polvillo fino en el tarro: polilla de despensa"
+    ],
+    "tips": [
+      "Guárdalas en tarro hermético, no en la bolsa de papel original",
+      "Congela un paquete nuevo unos días para matar huevos de polilla",
+      "Atempera un tarro frío antes de abrirlo para evitar condensación",
+      "Compra cantidades de una temporada si tu cocina es húmeda"
+    ],
+    "faq": [
+      {"q": "¿Cuánto duran los dátiles rojos secos?", "a": "Unos 6 a 12 meses en armario fresco, 12 a 18 meses refrigerados y 18 a 24 meses congelados, siempre en recipiente hermético."},
+      {"q": "¿Hay que refrigerarlos?", "a": "No es obligatorio, pero compensa, sobre todo en clima húmedo: refrigerar casi duplica su vida y evita que se peguen."},
+      {"q": "¿Se pueden congelar?", "a": "Sí, en doble bolsa, unos 18 a 24 meses. Además elimina los huevos de polilla de un paquete recién comprado."}
+    ]
+  }
+}

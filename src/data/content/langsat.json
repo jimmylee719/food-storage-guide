@@ -1,0 +1,107 @@
+{
+  "slug": "langsat",
+  "en": {
+    "name": "Langsat",
+    "aliases": ["lanzones", "duku", "longkong", "lanzón", "Lansium parasiticum"],
+    "summary": "Langsat, sold variously as duku or longkong, is a small tan-skinned Southeast Asian fruit with translucent segments like a peeled lychee. It is best kept cool but not cold: about 3 to 5 days in a cool, dry spot, and only 4 to 7 days in a home fridge, where the skin browns.",
+    "pantry": "A cool, dry spot genuinely beats the fridge for this fruit. Commercially it is displayed at around 15 °C, and it should not be misted — surface water speeds up decay on that papery skin. Reckon on about 3 to 5 days at room temperature, spread in a single layer rather than piled in a bag, and buy fruit still attached to its bunch if you can, since it keeps better on the stem.",
+    "fridge": "Recommended storage is 18 °C at 90 % humidity for about 21 days, but that is a controlled commercial room, not a domestic fridge. Langsat browns rapidly below 12 °C, so a home fridge at 4 °C (40 °F) will discolour the peel within about a week even though the flesh underneath stays good — expect 4 to 7 days and judge by the flesh rather than the skin. If you refrigerate, use a paper bag rather than sealed plastic so condensation does not sit on the fruit.",
+    "freezer": "No source gives a freezer timeline for langsat, and it is not a fruit that suits freezing: the segments are mostly water and collapse into a slack, watery mush on thawing, losing the springy texture that is the point of the fruit. If you have a glut, eat it, share it or make it into a syrup rather than trying to freeze it.",
+    "thawing": null,
+    "spoilage": [
+      "Skin gone black and wet rather than tan and dry",
+      "Segments turned grey, slack or watery",
+      "Fermented or sour smell when peeled",
+      "Mould at the stem scar or where fruit touched fruit"
+    ],
+    "tips": [
+      "Buy fruit still on the bunch — it keeps better attached",
+      "Keep it cool and dry rather than cold; never mist it",
+      "Brown skin does not mean bad fruit; open one and check the flesh",
+      "Do not bite the seeds: the seed coat is intensely bitter"
+    ],
+    "faq": [
+      {"q": "How long does langsat last?", "a": "About 3 to 5 days in a cool, dry spot. In a home fridge the peel browns within about a week, so reckon on 4 to 7 days."},
+      {"q": "Why does langsat skin turn brown in the fridge?", "a": "The fruit browns rapidly below 12 °C, and a home fridge runs at about 4 °C. The flesh inside is usually still fine."},
+      {"q": "Can you freeze langsat?", "a": "No source gives a timeline, and it does not suit freezing — the segments collapse into watery mush and lose their texture."}
+    ]
+  },
+  "zh": {
+    "name": "龍宮果",
+    "aliases": ["蘭撒果", "杜古果", "longkong", "duku"],
+    "summary": "龍宮果（也以 duku 或 longkong 之名販售）是東南亞一種淺褐色外皮的小型水果，剝開後果瓣半透明，很像剝了殼的荔枝。它適合涼但不適合冰：陰涼乾燥處約 3 到 5 天，放家用冰箱只有 4 到 7 天，而且果皮會轉褐。",
+    "pantry": "對這種水果來說，陰涼乾燥的地方真的比冰箱好。商業上是在 15°C 左右陳列，而且不能噴水——那層紙質果皮沾了水會加速腐壞。室溫大約 3 到 5 天，請單層攤開而不是塞在袋子裡；如果買得到，盡量挑還連在整串上的，連著梗比較耐放。",
+    "fridge": "建議的貯藏條件是 18°C、相對濕度 90%，可以放約 21 天，但那是控溫控濕的商業冷藏室，不是家用冰箱。龍宮果在 12°C 以下會迅速褐變，所以放在 4°C 的家用冰箱，一週內果皮就會變色，儘管底下的果肉還是好的——請預期 4 到 7 天，而且以果肉而不是外皮來判斷。要冷藏的話請用紙袋而不是密封塑膠袋，避免水氣凝在果實上。",
+    "freezer": "沒有任何來源提供龍宮果的冷凍期限，而且它並不適合冷凍：果瓣幾乎全是水分，解凍後會塌成軟爛水水的一團，正好失去它那份彈嫩的口感。收成太多的話，就趕快吃、分送出去，或做成糖漿，不要想著冷凍。",
+    "thawing": null,
+    "spoilage": [
+      "果皮由乾爽的淺褐轉成濕黑",
+      "果瓣發灰、變鬆軟或水水的",
+      "剝開時聞到發酵味或酸味",
+      "蒂頭處或果實相貼的地方長黴"
+    ],
+    "tips": [
+      "買還連在整串上的，連著梗比較耐放",
+      "要涼不要冰，而且絕對不要噴水",
+      "外皮變褐不代表壞掉，剝一顆看看果肉",
+      "不要咬破種子，種皮苦得非常兇"
+    ],
+    "faq": [
+      {"q": "龍宮果可以放多久？", "a": "陰涼乾燥處約 3 到 5 天。放家用冰箱果皮一週內就會轉褐，大約 4 到 7 天。"},
+      {"q": "龍宮果放冰箱為什麼會變褐？", "a": "它在 12°C 以下會迅速褐變，而家用冰箱大約是 4°C。裡面的果肉通常還是好的。"},
+      {"q": "龍宮果可以冷凍嗎？", "a": "沒有來源給出期限，而且它不適合冷凍——果瓣會塌成水水的一團，口感完全走樣。"}
+    ]
+  },
+  "ja": {
+    "name": "ランサ",
+    "aliases": ["ドゥク", "ロンコン", "ランソネス", "langsat"],
+    "summary": "ランサ（ドゥクやロンコンの名でも売られます）は東南アジアの小さな淡褐色の果実で、むくと皮をむいたライチのような半透明の果肉が現れます。冷たすぎない涼しさが向いており、涼しく乾いた場所で3〜5日、家庭の冷蔵庫では皮が茶色くなり4〜7日ほどです。",
+    "pantry": "この果実に関しては、涼しく乾いた場所のほうが冷蔵庫より本当に適しています。商業的には15℃前後で陳列され、霧吹きは厳禁です。紙のような皮に水がつくと傷みが早まります。常温では3〜5日を目安に、袋に詰め込まず一段に広げてください。可能なら房についたままのものを選ぶと日持ちします。",
+    "fridge": "推奨される貯蔵は18℃・湿度90%で約21日ですが、これは管理された業務用の室であり家庭の冷蔵庫ではありません。ランサは12℃を下回ると急速に褐変するため、4℃の家庭用冷蔵庫では1週間ほどで皮が変色します。中の果肉は無事なことが多いので、4〜7日を目安に、皮ではなく果肉で判断してください。冷蔵するなら密閉袋ではなく紙袋を使い、結露が実に付かないようにします。",
+    "freezer": "ランサの冷凍期間を示す出典はなく、そもそも冷凍向きではありません。果肉はほぼ水分で、解凍すると水っぽく崩れ、持ち味の弾力が失われます。たくさんあるなら冷凍を考えるより、早く食べる、分ける、シロップにするほうが賢明です。",
+    "thawing": null,
+    "spoilage": [
+      "皮が乾いた淡褐色ではなく黒く湿っている",
+      "果肉が灰色っぽい、だれている、水っぽい",
+      "むいたときの発酵臭・酸臭",
+      "ヘタ跡や実どうしが触れていた部分のカビ"
+    ],
+    "tips": [
+      "房についたままのものを選ぶ（そのほうが日持ちします）",
+      "冷たくではなく涼しく。霧吹きは厳禁",
+      "皮が茶色くても中身は無事なことが多い。一つむいて確認を",
+      "種は噛まないこと。種皮は強烈に苦い"
+    ],
+    "faq": [
+      {"q": "ランサはどのくらい持ちますか？", "a": "涼しく乾いた場所で3〜5日。家庭の冷蔵庫では1週間ほどで皮が茶色くなるので4〜7日が目安です。"},
+      {"q": "冷蔵庫で皮が茶色くなるのはなぜ？", "a": "12℃を下回ると急速に褐変するためです。家庭の冷蔵庫は約4℃。中の果肉はたいてい問題ありません。"},
+      {"q": "冷凍できますか？", "a": "期間を示す出典はなく、向いていません。果肉が水っぽく崩れて食感が失われます。"}
+    ]
+  },
+  "es": {
+    "name": "Langsat",
+    "aliases": ["lanzones", "duku", "longkong", "lanzón", "Lansium parasiticum"],
+    "summary": "El langsat, vendido también como duku o longkong, es una fruta pequeña del Sudeste Asiático de piel beige y gajos translúcidos parecidos a un lichi pelado. Le conviene el fresco pero no el frío: unos 3 a 5 días en un sitio fresco y seco, y solo 4 a 7 días en una nevera doméstica, donde la piel se pardea.",
+    "pantry": "Para esta fruta, un lugar fresco y seco supera de verdad a la nevera. Comercialmente se expone a unos 15 °C y no debe pulverizarse con agua: la humedad superficial acelera el deterioro de esa piel papelosa. Cuenta con unos 3 a 5 días a temperatura ambiente, extendido en una sola capa y no amontonado en una bolsa, y compra fruta aún unida al racimo si puedes, porque se conserva mejor con el pedúnculo.",
+    "fridge": "El almacenamiento recomendado son 18 °C al 90 % de humedad durante unos 21 días, pero eso es una cámara comercial controlada, no una nevera doméstica. El langsat se pardea rápidamente por debajo de 12 °C, así que a 4 °C (40 °F) la piel se descolorará en torno a una semana aunque la pulpa siga bien: cuenta con 4 a 7 días y juzga por la pulpa, no por la piel. Si lo refrigeras, usa una bolsa de papel y no plástico cerrado, para que la condensación no se quede sobre la fruta.",
+    "freezer": "Ninguna fuente da un plazo de congelación para el langsat, y no es una fruta que se preste a ello: los gajos son casi todo agua y se deshacen en una masa acuosa al descongelarse, perdiendo la textura elástica que es su gracia. Si tienes exceso, cómelo, compártelo o conviértelo en almíbar en lugar de congelarlo.",
+    "thawing": null,
+    "spoilage": [
+      "Piel negra y húmeda en lugar de beige y seca",
+      "Gajos grisáceos, flácidos o acuosos",
+      "Olor fermentado o agrio al pelarlo",
+      "Moho en la cicatriz del pedúnculo o donde las frutas se tocaban"
+    ],
+    "tips": [
+      "Compra fruta aún en el racimo: se conserva mejor unida",
+      "Mantenlo fresco y seco, no frío; nunca lo mojes",
+      "La piel parda no significa fruta mala: abre una y mira la pulpa",
+      "No muerdas las semillas: la cubierta es intensamente amarga"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el langsat?", "a": "Unos 3 a 5 días en un sitio fresco y seco. En la nevera la piel se pardea en torno a una semana, así que cuenta con 4 a 7 días."},
+      {"q": "¿Por qué se pone parda la piel en la nevera?", "a": "La fruta se pardea rápido por debajo de 12 °C y una nevera doméstica ronda los 4 °C. La pulpa suele seguir bien."},
+      {"q": "¿Se puede congelar el langsat?", "a": "Ninguna fuente da plazo, y no se presta: los gajos se deshacen en una masa acuosa y pierden su textura."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "lulo",
+  "en": {
+    "name": "Lulo",
+    "aliases": ["naranjilla", "little orange", "quito orange", "Solanum quitoense"],
+    "summary": "Lulo, or naranjilla, is a fuzzy orange Andean relative of the tomato with sharp green pulp that is almost always turned into juice. No agency publishes figures for it, so treat it like a tomato: 3 to 5 days on the counter, 1 to 2 weeks in the fridge once fully orange, and 6 to 12 months for frozen pulp.",
+    "pantry": "Rub the fine hairs off the skin before you use the fruit — they are irritating and come away easily under a cloth. Like a tomato, lulo ripens further on the counter and dislikes hard chilling, so leave partly green fruit out for 3 to 5 days until the skin is evenly orange. Keep it out of direct sun and off a hot windowsill, and do not stack the fruit deep, because the thin skin bruises.",
+    "fridge": "Refrigerate only once the fruit is fully orange; cold storage of unripe fruit stops it colouring altogether. Reckon on 1 to 2 weeks at 4 °C (40 °F) or below in the crisper. That range follows the way tomatoes are handled, the closest relative with published figures, and it matches lulo's chilling behaviour. Keep the fruit loose or lightly bagged so it does not sweat.",
+    "freezer": "Freeze the sieved pulp — this is the normal form lulo is sold in outside the Andes — for about 6 to 12 months at −18 °C (0 °F), a general soft-fruit range rather than an official figure. Halve the fruit, scoop the pulp, push it through a sieve to remove the seeds if you want a clean juice, and freeze it in portions or an ice cube tray. Whole fruit is not worth freezing since the skin is not eaten.",
+    "thawing": "Blend the pulp straight from frozen for juice, or thaw a portion in the fridge and use it the same day. Do not thaw at room temperature.",
+    "spoilage": [
+      "Soft, wet, sunken patches on the skin",
+      "Pulp gone brown or dull instead of bright green",
+      "Fermented or musty smell when cut",
+      "Mould at the stem scar or in any split"
+    ],
+    "tips": [
+      "Rub off the fuzzy hairs with a cloth before cutting",
+      "Wait for an even orange skin before refrigerating",
+      "Sieve the pulp for a smooth juice, or leave the seeds for texture",
+      "Freeze the pulp in cubes; a couple of cubes make one glass of juice"
+    ],
+    "faq": [
+      {"q": "How long does lulo last?", "a": "About 3 to 5 days at room temperature and 1 to 2 weeks in the fridge once fully orange. There is no official figure; this follows tomatoes."},
+      {"q": "Can you freeze lulo?", "a": "Freeze the sieved pulp, not the whole fruit, for about 6 to 12 months. That is how lulo is normally sold outside the Andes."},
+      {"q": "Why is my lulo not ripening?", "a": "It was probably refrigerated while still green. Cold storage of unripe fruit stops it colouring, so ripen it on the counter first."}
+    ]
+  },
+  "zh": {
+    "name": "奎東茄",
+    "aliases": ["小黃果", "納蘭吉拉", "基多柑", "lulo", "naranjilla"],
+    "summary": "奎東茄（naranjilla）是安地斯地區的番茄近親，外皮橙色帶細毛，裡面是酸度很高的綠色果肉，幾乎都是拿去打果汁。沒有官方單位公布它的保存數據，所以用番茄的標準來看：室溫 3 到 5 天，完全轉橙後冷藏 1 到 2 週，果泥冷凍 6 到 12 個月。",
+    "pantry": "用之前先把表皮的細毛搓掉——那些毛會刺激皮膚，用布一擦就掉了。它和番茄一樣會在室溫繼續後熟，也一樣不喜歡低溫，所以還帶點綠的果實請放室溫 3 到 5 天，直到外皮均勻轉橙。避開日曬和悶熱的窗台，也不要堆太深，薄皮很容易碰傷。",
+    "fridge": "完全轉橙之後才冷藏；沒熟就先冰，它會從此不再轉色。放 4°C 以下的蔬果室大約 1 到 2 週。這個範圍是比照番茄——資料庫裡有公布數字、也最接近的親戚——而且很符合奎東茄怕冷的表現。鬆散地放或輕輕裝袋，避免悶出水氣。",
+    "freezer": "請冷凍過篩的果泥——這正是安地斯以外地區販售的形式——在 −18°C 下約 6 到 12 個月，這是軟質水果的一般範圍，不是官方數字。把果實對半切、挖出果肉，想要清爽的果汁就過篩去籽，然後分份或用製冰盒冷凍。整顆冷凍沒有意義，因為皮不吃。",
+    "thawing": "要打果汁就直接用冷凍果泥下去打，或取一份放冷藏解凍當天用完。不要放室溫解凍。",
+    "spoilage": [
+      "果皮出現軟塌、濕潤、凹陷的斑塊",
+      "果肉不再是鮮綠，而是轉褐或變暗",
+      "切開時聞到發酵味或霉味",
+      "蒂頭處或裂縫長黴"
+    ],
+    "tips": [
+      "切之前先用布把細毛搓掉",
+      "等外皮均勻轉橙再冷藏",
+      "想要滑順果汁就過篩，想要口感就留籽",
+      "果泥凍成冰塊，兩三塊大約就是一杯果汁"
+    ],
+    "faq": [
+      {"q": "奎東茄可以放多久？", "a": "室溫約 3 到 5 天，完全轉橙後冷藏 1 到 2 週。沒有官方數字，這是比照番茄的做法。"},
+      {"q": "奎東茄可以冷凍嗎？", "a": "冷凍過篩的果泥而不是整顆，約 6 到 12 個月，這也是安地斯以外常見的販售形式。"},
+      {"q": "我的奎東茄為什麼不會熟？", "a": "很可能是還青的時候就冰過了。未熟果冷藏會讓它停止轉色，請先放室溫催熟。"}
+    ]
+  },
+  "ja": {
+    "name": "ナランヒージャ",
+    "aliases": ["ルロ", "小さなオレンジ", "キトオレンジ", "Solanum quitoense"],
+    "summary": "ナランヒージャ（ルロ）はトマトの近縁にあたるアンデスの果実で、産毛の生えたオレンジ色の皮の中に酸味の強い緑色の果肉があり、ほぼジュースにされます。公的な保存データがないため、トマトの扱いに倣います。常温3〜5日、完全にオレンジ色になってから冷蔵で1〜2週間、果肉の冷凍で6〜12か月です。",
+    "pantry": "使う前に皮の細かい毛を布でこすり落としてください。刺激があり、布で簡単に取れます。トマトと同じく常温で追熟が進み、強い低温を嫌うので、まだ緑の残る実は常温で3〜5日置き、皮が均一なオレンジ色になるまで待ちます。直射日光や暑い窓辺を避け、皮が薄く傷つきやすいので深く積まないこと。",
+    "fridge": "冷蔵は完全にオレンジ色になってから。未熟なまま冷やすと色づかなくなります。4℃以下の野菜室で1〜2週間が目安です。この範囲はデータのある最も近い親戚であるトマトの扱いに倣ったもので、ナランヒージャの低温挙動ともよく合います。汗をかかないよう、裸か軽く袋に入れて保存してください。",
+    "freezer": "冷凍するのは裏ごしした果肉です。アンデス以外ではこの形で売られます。−18℃で6〜12か月が目安（軟質果実一般の範囲で、公的な数字ではありません）。半分に切って果肉をすくい、澄んだジュースにしたければ裏ごしして種を除き、小分けか製氷皿で凍らせます。皮は食べないので、まるごと冷凍する意味はありません。",
+    "thawing": "ジュースには凍った果肉をそのままミキサーへ。1回分を冷蔵庫で解凍してその日のうちに使っても構いません。常温解凍は避けてください。",
+    "spoilage": [
+      "皮の軟らかい、濡れた、へこんだ部分",
+      "果肉が鮮やかな緑ではなく茶色くくすんでいる",
+      "切ったときの発酵臭・かび臭",
+      "ヘタ跡や割れ目のカビ"
+    ],
+    "tips": [
+      "切る前に布で産毛をこすり落とす",
+      "皮が均一なオレンジ色になってから冷蔵する",
+      "なめらかなジュースなら裏ごし、食感を残すなら種ごと",
+      "果肉をキューブに冷凍。2〜3個でコップ1杯分です"
+    ],
+    "faq": [
+      {"q": "ナランヒージャはどのくらい持ちますか？", "a": "常温で3〜5日、完全にオレンジ色になってから冷蔵で1〜2週間です。公的な数字はなく、トマトに倣っています。"},
+      {"q": "冷凍できますか？", "a": "まるごとではなく裏ごしした果肉を6〜12か月ほど。アンデス以外ではその形で流通します。"},
+      {"q": "熟さないのはなぜ？", "a": "青いうちに冷やした可能性が高いです。未熟なまま冷蔵すると色づかなくなるので、まず常温で追熟させてください。"}
+    ]
+  },
+  "es": {
+    "name": "Lulo",
+    "aliases": ["naranjilla", "lulo de Castilla", "naranjita de Quito", "Solanum quitoense"],
+    "summary": "El lulo, o naranjilla, es un pariente andino del tomate, de piel anaranjada y aterciopelada y pulpa verde muy ácida que casi siempre se convierte en jugo. Ningún organismo publica cifras, así que se trata como un tomate: 3 a 5 días en la encimera, 1 a 2 semanas en la nevera ya bien naranja, y 6 a 12 meses de pulpa congelada.",
+    "pantry": "Frota los pelillos finos de la piel antes de usarlo: irritan y salen con facilidad pasando un paño. Como el tomate, el lulo sigue madurando en la encimera y no tolera el frío fuerte, así que deja la fruta aún verdosa fuera de 3 a 5 días hasta que la piel esté naranja de forma uniforme. Mantenlo lejos del sol directo y de una repisa caliente, y no lo apiles: la piel fina se magulla.",
+    "fridge": "Refrigéralo solo cuando esté completamente naranja; guardar en frío fruta verde detiene por completo su coloración. Cuenta con 1 a 2 semanas a 4 °C (40 °F) o menos en el cajón. Ese rango sigue el manejo del tomate, el pariente más cercano con cifras publicadas, y encaja con el comportamiento del lulo frente al frío. Guárdalo suelto o en bolsa ligera para que no sude.",
+    "freezer": "Congela la pulpa colada —es la forma habitual en que se vende el lulo fuera de los Andes— unos 6 a 12 meses a −18 °C (0 °F), rango general de fruta blanda y no una cifra oficial. Parte la fruta, saca la pulpa, pásala por un colador si quieres un jugo limpio y congélala en porciones o en cubitera. La fruta entera no compensa porque la piel no se come.",
+    "thawing": "Bate la pulpa directamente congelada para el jugo, o descongela una ración en la nevera y úsala el mismo día. No la descongeles a temperatura ambiente.",
+    "spoilage": [
+      "Zonas blandas, húmedas y hundidas en la piel",
+      "Pulpa parda o apagada en lugar de verde brillante",
+      "Olor fermentado o a humedad al cortarlo",
+      "Moho en la cicatriz del pedúnculo o en cualquier grieta"
+    ],
+    "tips": [
+      "Quita los pelillos con un paño antes de cortarlo",
+      "Espera a que la piel esté naranja uniforme antes de refrigerarlo",
+      "Cuela la pulpa para un jugo suave, o deja las semillas para textura",
+      "Congela la pulpa en cubitos: un par bastan para un vaso de jugo"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el lulo?", "a": "Unos 3 a 5 días a temperatura ambiente y de 1 a 2 semanas en la nevera ya naranja. No hay cifra oficial; sigue al tomate."},
+      {"q": "¿Se puede congelar el lulo?", "a": "Congela la pulpa colada, no la fruta entera, unos 6 a 12 meses. Así se vende normalmente fuera de los Andes."},
+      {"q": "¿Por qué no madura mi lulo?", "a": "Seguramente se refrigeró aún verde. El frío en fruta inmadura detiene la coloración: madúralo antes en la encimera."}
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "lucuma",
+  "en": {
+    "name": "Lúcuma",
+    "aliases": ["lucmo", "Peruvian eggfruit", "gold of the Incas", "Pouteria lucuma"],
+    "summary": "Lúcuma is a Peruvian Sapotaceae fruit with dense, dry, butterscotch-flavoured flesh, sold fresh in the Andes and as frozen pulp or dried flour everywhere else. It is picked hard and ripened at room temperature with no fixed timeline; once soft it keeps about 3 to 5 days refrigerated, and the pulp freezes for 6 to 8 months.",
+    "pantry": "There is no set number of days here, because lúcuma is climacteric and is picked hard: the rule is to leave it at room temperature — traditionally buried in straw or rice — until it gives to a thumb. USDA's commercial storage handbook has a lúcuma chapter but publishes no storage life for it, noting only that tree-ripened fruit becomes soft and very fragile and that the ripe pulp is very dry, dense and mealy rather than juicy. Once the fruit is soft, use it within a day or two; ripening is the timeline, not the storage.",
+    "fridge": "Refrigerate only once the fruit is ripe, and reckon on about 3 to 5 days. That figure is borrowed from the way sapote is handled rather than published for lúcuma. A hard lúcuma put in the fridge will never ripen properly, which is the standard behaviour of a chilling-sensitive tropical fruit — so do not use the fridge to buy yourself time on unripe fruit. Keep the scooped pulp covered at 4 °C (40 °F) or below.",
+    "freezer": "The pulp is what gets frozen, almost always, and it keeps about 6 to 8 months at −18 °C (0 °F). Scoop it out, discard the seed and the fibrous core, and freeze it in portions — this is how lúcuma reaches most kitchens outside Peru. The dried flour, harina de lúcuma, is a different product: keep it sealed in a cool, dark cupboard like any low-oil flour and use it within about a year, which is an estimate rather than a sourced figure.",
+    "thawing": "Thaw a portion of pulp in the fridge and use it the same day, or blend it from frozen into ice cream, milkshakes and mousses. Do not thaw it at room temperature or refreeze it.",
+    "spoilage": [
+      "Fermented or alcoholic smell instead of a warm butterscotch one",
+      "Flesh gone grey or watery rather than deep orange-yellow and dense",
+      "Skin split with the fruit collapsing rather than simply softening",
+      "Mould at the stem end, and in flour, any clumping or musty smell"
+    ],
+    "tips": [
+      "Buy it hard and ripen it in a paper bag or a box of rice",
+      "Never refrigerate a hard fruit — it will not ripen afterwards",
+      "The flesh is dry by nature; blend it with milk rather than expecting juice",
+      "Outside Peru, frozen pulp and dried flour are the practical forms"
+    ],
+    "faq": [
+      {"q": "How do you ripen lúcuma?", "a": "Leave it at room temperature, traditionally buried in straw or rice, until it gives to a thumb. There is no fixed number of days."},
+      {"q": "How long does lúcuma last in the fridge?", "a": "About 3 to 5 days once ripe. That figure follows sapote handling; no authority publishes a lúcuma storage life."},
+      {"q": "How do you store lúcuma flour?", "a": "Sealed in a cool, dark cupboard like any low-oil flour, and use it within about a year. That is an estimate, not a published figure."}
+    ]
+  },
+  "zh": {
+    "name": "盧庫馬",
+    "aliases": ["蛋果", "秘魯蛋黃果", "印加金果", "lúcuma"],
+    "summary": "盧庫馬是秘魯的山欖科水果，果肉緻密乾爽、帶焦糖太妃般的風味，在安地斯地區賣新鮮果，其他地方則以冷凍果泥或乾燥果粉的形式流通。它是硬著採、在室溫催熟的，沒有固定的天數；軟了之後冷藏約 3 到 5 天，果泥冷凍 6 到 8 個月。",
+    "pantry": "這裡沒有固定的天數，因為盧庫馬屬於更年性果實、採收時是硬的：規則是放在室溫——傳統上會埋在稻草或米裡——直到用拇指按下去會凹為止。USDA 的商業貯藏手冊有盧庫馬的章節，但並沒有公布它的保存期限，只提到樹上熟的果實會變得柔軟而極為脆弱，熟果的果肉非常乾、緻密、帶粉感，而不是多汁的。一旦軟了，請在一兩天內用掉；這裡的時間軸是「催熟」，不是「保存」。",
+    "fridge": "熟了才冷藏，大約 3 到 5 天。這個數字是借用 sapote 類水果的處理方式，不是針對盧庫馬公布的。硬的盧庫馬放進冰箱就再也不會好好後熟了，這是怕冷的熱帶水果的標準行為——所以不要拿冰箱來替未熟的果實「爭取時間」。挖出來的果肉請蓋好放 4°C 以下。",
+    "freezer": "幾乎都是冷凍果泥，−18°C 下約可放 6 到 8 個月。挖出果肉、去掉種子和纖維質的果心，分份冷凍——秘魯以外的廚房拿到的大多就是這種形式。乾燥的盧庫馬粉（harina de lúcuma）是另一種產品：像一般低油脂的粉類一樣密封放在陰涼避光的櫥櫃，約一年內用完；這是估計值而不是有來源的數字。",
+    "thawing": "取一份果泥放冷藏解凍並當天用完，或直接冷凍狀態打進冰淇淋、奶昔和慕斯裡。不要放室溫解凍，也不要回凍。",
+    "spoilage": [
+      "溫暖的焦糖香變成發酵味或酒味",
+      "果肉不再是深橙黃而緻密，變得發灰或水水的",
+      "果皮裂開、整顆塌掉，而不只是變軟",
+      "蒂頭處長黴；果粉的話則是結塊或有霉味"
+    ],
+    "tips": [
+      "買硬的，用紙袋或一盒米催熟",
+      "硬的果實絕對不要冰，冰過就不會再熟了",
+      "它的果肉天生就乾，請加牛奶打，不要指望有果汁",
+      "秘魯以外，冷凍果泥和乾燥果粉才是實際可得的形式"
+    ],
+    "faq": [
+      {"q": "盧庫馬怎麼催熟？", "a": "放室溫，傳統上埋在稻草或米裡，直到拇指按下去會凹。沒有固定的天數。"},
+      {"q": "盧庫馬放冰箱可以放多久？", "a": "熟了之後約 3 到 5 天。這個數字是比照 sapote 類水果；沒有權威機構公布盧庫馬的保存期限。"},
+      {"q": "盧庫馬粉怎麼保存？", "a": "像一般低油脂粉類一樣密封放陰涼避光的櫥櫃，約一年內用完。這是估計值，不是公布的數字。"}
+    ]
+  },
+  "ja": {
+    "name": "ルクマ",
+    "aliases": ["ルクモ", "インカの黄金", "ペルーのエッグフルーツ", "lúcuma"],
+    "summary": "ルクマはペルー原産のアカテツ科の果実で、密度が高く水分の少ない果肉はキャラメルのような風味です。アンデスでは生果、それ以外では冷凍ピューレか乾燥パウダーとして流通します。硬い状態で収穫して常温で追熟させるため決まった日数はなく、柔らかくなってから冷蔵で3〜5日、ピューレは冷凍で6〜8か月です。",
+    "pantry": "ここに決まった日数はありません。ルクマはクライマクテリック型で硬いうちに収穫され、常温に置いて（伝統的にはわらや米の中に埋めて）親指で押してへこむまで待つのがルールです。USDAの商業貯蔵ハンドブックにはルクマの章がありますが保存期間は示されておらず、樹上完熟した果実は軟らかく非常に壊れやすいこと、熟した果肉はみずみずしくなく非常に乾いて粉っぽいことが述べられているだけです。柔らかくなったら1〜2日で使い切ってください。ここでの時間軸は保存ではなく追熟です。",
+    "fridge": "冷蔵は熟してからにして、3〜5日を目安にします。これはサポテ類の扱いを借りた数字で、ルクマの公表値ではありません。硬いルクマを冷蔵庫に入れると二度ときちんと熟しません。低温に弱い熱帯果実の典型的な挙動です。未熟な果実の「時間稼ぎ」に冷蔵庫を使わないでください。すくった果肉はふたをして4℃以下に。",
+    "freezer": "冷凍されるのはほぼ常に果肉で、−18℃で6〜8か月ほど持ちます。果肉をすくい、種と繊維質の芯を除いて小分けに冷凍します。ペルー国外の台所に届くのはたいていこの形です。乾燥パウダー（harina de lúcuma）は別の製品で、油分の少ない粉類と同様に密閉して涼しく暗い戸棚に置き、1年ほどで使い切ります。これは推定であり出典に基づく数字ではありません。",
+    "thawing": "ピューレは1回分を冷蔵庫で解凍してその日のうちに使うか、凍ったままアイスやシェイク、ムースに撹拌します。常温解凍と再冷凍は避けてください。",
+    "spoilage": [
+      "温かみのあるキャラメル香が発酵臭・アルコール臭に変わる",
+      "濃い橙黄色で密な果肉が、灰色っぽく水っぽくなる",
+      "単に軟らかくなるのではなく皮が裂けてつぶれている",
+      "ヘタのカビ。パウダーなら固まりやかび臭"
+    ],
+    "tips": [
+      "硬いものを買い、紙袋か米の中で追熟させる",
+      "硬いうちは絶対に冷蔵しない（もう熟しません）",
+      "果肉はもともと乾いているので、牛乳と合わせて撹拌する",
+      "ペルー国外では冷凍ピューレと乾燥パウダーが現実的な形態"
+    ],
+    "faq": [
+      {"q": "ルクマはどうやって追熟させますか？", "a": "常温に置き、伝統的にはわらや米に埋めて、親指で押してへこむまで待ちます。決まった日数はありません。"},
+      {"q": "ルクマは冷蔵庫でどのくらい持ちますか？", "a": "熟してから3〜5日が目安です。これはサポテ類に倣った数字で、公表された保存期間はありません。"},
+      {"q": "ルクマパウダーの保存法は？", "a": "油分の少ない粉類と同様、密閉して涼しく暗い場所へ。1年ほどで使い切る想定ですが、これは推定値です。"}
+    ]
+  },
+  "es": {
+    "name": "Lúcuma",
+    "aliases": ["lucmo", "oro de los incas", "lúcuma fresca", "harina de lúcuma"],
+    "summary": "La lúcuma es una fruta peruana de la familia de las sapotáceas, de pulpa densa, seca y con sabor a caramelo, que se vende fresca en los Andes y como pulpa congelada o harina en el resto del mundo. Se cosecha dura y madura a temperatura ambiente sin plazo fijo; ya blanda dura unos 3 a 5 días refrigerada, y la pulpa se congela de 6 a 8 meses.",
+    "pantry": "Aquí no hay un número de días, porque la lúcuma es climatérica y se recoge dura: la regla es dejarla a temperatura ambiente —tradicionalmente enterrada en paja o arroz— hasta que ceda al pulgar. El manual de almacenamiento comercial del USDA tiene un capítulo sobre la lúcuma pero no publica vida útil alguna: solo señala que la fruta madurada en el árbol queda blanda y muy frágil, y que la pulpa madura es muy seca, densa y harinosa, no jugosa. En cuanto se ablanda, úsala en uno o dos días: aquí el plazo es la maduración, no el almacenamiento.",
+    "fridge": "Refrigérala solo cuando esté madura, y cuenta con unos 3 a 5 días. Esa cifra está tomada del manejo del zapote y no publicada para la lúcuma. Una lúcuma dura metida en la nevera ya no madurará bien, el comportamiento habitual de una fruta tropical sensible al frío, así que no uses la nevera para ganar tiempo con fruta verde. Guarda la pulpa tapada a 4 °C (40 °F) o menos.",
+    "freezer": "Lo que se congela, casi siempre, es la pulpa, y aguanta unos 6 a 8 meses a −18 °C (0 °F). Sácala, descarta la semilla y el corazón fibroso y congélala en porciones: así llega la lúcuma a la mayoría de cocinas fuera del Perú. La harina de lúcuma es otro producto: guárdala cerrada en un armario fresco y oscuro como cualquier harina baja en grasa y úsala en torno a un año, que es una estimación y no una cifra con fuente.",
+    "thawing": "Descongela una ración de pulpa en la nevera y úsala el mismo día, o bátela congelada en helados, batidos y mousses. No la descongeles a temperatura ambiente ni la recongeles.",
+    "spoilage": [
+      "Olor fermentado o alcohólico en lugar del aroma cálido a caramelo",
+      "Pulpa grisácea o acuosa en vez de densa y amarillo anaranjada",
+      "Piel agrietada con la fruta deshecha, no simplemente blanda",
+      "Moho en el pedúnculo; en la harina, grumos u olor a humedad"
+    ],
+    "tips": [
+      "Cómprala dura y madúrala en una bolsa de papel o una caja de arroz",
+      "Nunca refrigeres fruta dura: después ya no madura",
+      "La pulpa es seca por naturaleza: bátela con leche, no esperes jugo",
+      "Fuera del Perú, la pulpa congelada y la harina son las formas prácticas"
+    ],
+    "faq": [
+      {"q": "¿Cómo se madura la lúcuma?", "a": "Déjala a temperatura ambiente, tradicionalmente enterrada en paja o arroz, hasta que ceda al pulgar. No hay un número fijo de días."},
+      {"q": "¿Cuánto dura la lúcuma en la nevera?", "a": "Unos 3 a 5 días ya madura. Esa cifra sigue el manejo del zapote; ningún organismo publica una vida útil para la lúcuma."},
+      {"q": "¿Cómo se guarda la harina de lúcuma?", "a": "Cerrada en un armario fresco y oscuro, como cualquier harina baja en grasa, y consumida en torno a un año. Es una estimación."}
+    ]
+  }
+}

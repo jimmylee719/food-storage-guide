@@ -1,0 +1,107 @@
+{
+  "slug": "longan-dried",
+  "en": {
+    "name": "Dried longan",
+    "aliases": ["longan flesh", "guiyuan", "dragon eye fruit", "longan seco"],
+    "summary": "Dried longan is the shelled, deseeded flesh used in sweet soups, teas and tonics, sold loose or already pressed into blocks. Like other dried fruit it keeps about 6 to 12 months in a cool cupboard — around a year at 16 °C but only 6 months at 27 °C — 12 to 18 months refrigerated and 18 to 24 months frozen.",
+    "pantry": "Keep the sticky flesh in an airtight jar away from heat and light. Dried fruit keeps about a year at 16 °C and only about 6 months at 27 °C, so where you live and where in the kitchen you put the jar matter more than the label date. Dried longan is hygroscopic, meaning it actively draws moisture from the air, so a loosely closed bag on an open shelf in a humid summer is asking for trouble.",
+    "fridge": "Refrigerating dried fruit is worth doing wherever you can, and dried longan keeps about 12 to 18 months at 4 °C (40 °F) or below in a sealed jar. This is particularly worthwhile through a subtropical summer, when the flesh picks up humidity and moulds. Let the jar come to room temperature before opening it, since condensation on cold, sticky fruit undoes the point of refrigerating it.",
+    "freezer": "Sealed well, dried longan keeps about 18 to 24 months at −18 °C (0 °F). Thaw the bag sealed so the flesh does not sweat as it warms. A few days in the freezer is also the simplest way to deal with any pantry moth eggs that came home in a new packet, which is a common problem with dried fruit.",
+    "thawing": "Take out what you need and let the sealed bag reach room temperature before opening. Frozen flesh can also go straight into a simmering soup or a pot of tea.",
+    "spoilage": [
+      "White or green mould, often in the folds of the flesh",
+      "Wet, syrupy surface where it was previously tacky but dry",
+      "Sour or fermented smell",
+      "Webbing, larvae or fine dust in the jar, meaning pantry moths"
+    ],
+    "tips": [
+      "Store in an airtight jar, not the bag it came in",
+      "Freeze a new packet for a few days to deal with moth eggs",
+      "Warm a cold jar before opening to avoid condensation",
+      "Buy a season's worth at a time if your kitchen is humid"
+    ],
+    "faq": [
+      {"q": "How long does dried longan last?", "a": "About 6 to 12 months in a cool cupboard, 12 to 18 months refrigerated and 18 to 24 months frozen, always in an airtight container."},
+      {"q": "Does dried longan need refrigerating?", "a": "Not strictly, but it is worth doing in a humid climate: it is hygroscopic and moulds once it picks up moisture."},
+      {"q": "Can you freeze dried longan?", "a": "Yes, sealed, for about 18 to 24 months. Thaw the bag closed so the sticky flesh does not sweat."}
+    ]
+  },
+  "zh": {
+    "name": "桂圓",
+    "aliases": ["龍眼乾", "桂圓肉", "福圓肉", "圓肉"],
+    "summary": "桂圓是剝殼去籽烘乾的龍眼果肉，常用在甜湯、茶飲和藥膳裡，有散裝也有壓成塊狀的。和其他果乾一樣，放在陰涼櫥櫃約 6 到 12 個月——16°C 時接近一年，27°C 時大約只有 6 個月——冷藏 12 到 18 個月，冷凍 18 到 24 個月。",
+    "pantry": "把黏黏的果肉裝進密封罐，遠離熱源和光線。果乾在 16°C 可以放約一年，在 27°C 只有約 6 個月，所以你住哪裡、罐子放在廚房的哪個位置，比標籤上的日期更關鍵。桂圓具吸濕性，會主動從空氣中吸水，所以濕熱的夏天把一包鬆鬆封著的桂圓放在開放層架上，就是在自找麻煩。",
+    "fridge": "只要有空間，果乾冷藏一律划算；桂圓裝密封罐放 4°C 以下，約可保存 12 到 18 個月。在亞熱帶的夏天特別值得，因為果肉一吸濕就會發黴。開罐之前先讓它回到室溫，否則冰冷黏膩的果肉表面會結露，等於白冷藏了。",
+    "freezer": "密封好放冷凍，−18°C 下約可放 18 到 24 個月。解凍時保持袋子密封，果肉回溫時才不會出汗。冷凍幾天也是處理新買那包裡穀蛾蟲卵最簡單的方法，果乾很常遇到這個問題。",
+    "thawing": "取出需要的量，讓密封袋先回到室溫再打開。冷凍的果肉也可以直接丟進正在煮的甜湯或茶壺裡。",
+    "spoilage": [
+      "長白色或綠色的黴，常出現在果肉的皺褶裡",
+      "原本只是微黏的表面變得濕濕黏黏、出糖水",
+      "有酸味或發酵味",
+      "罐子裡出現絲網、幼蟲或細粉，那是穀蛾"
+    ],
+    "tips": [
+      "用密封罐裝，不要留在原本的包裝袋裡",
+      "新買的一包先冷凍幾天，處理可能的蟲卵",
+      "冰過的罐子先回溫再開，避免結露",
+      "廚房潮濕的話，一次買一季用得完的量"
+    ],
+    "faq": [
+      {"q": "桂圓可以放多久？", "a": "密封裝，陰涼櫥櫃約 6 到 12 個月，冷藏 12 到 18 個月，冷凍 18 到 24 個月。"},
+      {"q": "桂圓需要冷藏嗎？", "a": "不是非得如此，但在潮濕的氣候很值得：它會吸濕，一旦受潮就容易發黴。"},
+      {"q": "桂圓可以冷凍嗎？", "a": "可以，密封約 18 到 24 個月。解凍時袋子要保持密封，黏黏的果肉才不會出汗。"}
+    ]
+  },
+  "ja": {
+    "name": "干し龍眼",
+    "aliases": ["桂圓", "リュウガン肉", "ロンガン乾", "竜眼肉"],
+    "summary": "干し龍眼（桂圓）は殻と種を除いて乾燥させた果肉で、甘いスープやお茶、薬膳に使われ、ばら売りやブロック状で売られます。ほかのドライフルーツ同様、涼しい戸棚で約6〜12か月（16℃なら1年近く、27℃では6か月ほど）、冷蔵で12〜18か月、冷凍で18〜24か月です。",
+    "pantry": "べたつく果肉は密閉瓶に入れ、熱と光を避けて保管します。ドライフルーツは16℃で約1年、27℃では約6か月しか持たないので、住んでいる場所と瓶を置く位置のほうが表示の日付より重要です。干し龍眼は吸湿性が高く、空気中の水分を積極的に吸います。蒸し暑い夏に口の甘い袋を開いた棚に置くのは危険です。",
+    "fridge": "ドライフルーツは可能なら冷蔵が得策で、干し龍眼は密閉瓶で4℃以下なら約12〜18か月持ちます。亜熱帯の夏には特に有効で、湿気を吸ってカビるのを防げます。開ける前に瓶を室温に戻してください。冷たくべたついた果肉に結露が付くと、冷蔵した意味がなくなります。",
+    "freezer": "しっかり密閉すれば−18℃で約18〜24か月。解凍は袋を閉じたまま行い、温まる間に汗をかかせないこと。新しい袋を数日冷凍しておくと、ドライフルーツにつきもののメイガの卵対策にもなります。",
+    "thawing": "必要な分を取り出し、袋を密閉したまま室温に戻してから開けます。凍ったままスープやお茶に入れても構いません。",
+    "spoilage": [
+      "白や緑のカビ（果肉のしわの間に出やすい）",
+      "べたつく程度だった表面が濡れてシロップ状になっている",
+      "酸臭・発酵臭",
+      "瓶の中の糸、幼虫、細かい粉（メイガのサイン）"
+    ],
+    "tips": [
+      "元の袋のままにせず密閉瓶へ",
+      "新しい袋は数日冷凍して虫の卵対策を",
+      "冷たい瓶は室温に戻してから開ける",
+      "台所が湿るなら、ひと季節分ずつ買う"
+    ],
+    "faq": [
+      {"q": "干し龍眼はどのくらい持ちますか？", "a": "密閉容器で、涼しい戸棚6〜12か月、冷蔵12〜18か月、冷凍18〜24か月です。"},
+      {"q": "冷蔵は必要ですか？", "a": "必須ではありませんが、湿度の高い環境では有効です。吸湿性が高く、湿気を吸うとカビます。"},
+      {"q": "冷凍できますか？", "a": "できます。密閉して18〜24か月ほど。解凍は袋を閉じたまま行ってください。"}
+    ]
+  },
+  "es": {
+    "name": "Longan seco",
+    "aliases": ["guiyuan", "pulpa de longan seca", "ojo de dragón seco", "桂圓"],
+    "summary": "El longan seco es la pulpa pelada y sin semilla que se usa en sopas dulces, tés y tónicos, y se vende suelta o prensada en bloques. Como otras frutas secas dura unos 6 a 12 meses en un armario fresco —alrededor de un año a 16 °C y solo 6 meses a 27 °C—, de 12 a 18 meses refrigerado y de 18 a 24 meses congelado.",
+    "pantry": "Guarda la pulpa pegajosa en un tarro hermético, lejos del calor y la luz. La fruta seca dura alrededor de un año a 16 °C y solo unos 6 meses a 27 °C, así que dónde vives y dónde pones el tarro importan más que la fecha impresa. El longan seco es higroscópico: capta activamente humedad del aire, de modo que una bolsa mal cerrada en un estante abierto durante un verano húmedo es pedir problemas.",
+    "fridge": "Refrigerar la fruta seca compensa siempre que puedas, y el longan seco aguanta unos 12 a 18 meses a 4 °C (40 °F) o menos en tarro cerrado. Es especialmente útil en un verano subtropical, cuando la pulpa capta humedad y enmohece. Deja que el tarro se atempere antes de abrirlo: la condensación sobre una pulpa fría y pegajosa deshace el beneficio de refrigerarla.",
+    "freezer": "Bien cerrado aguanta unos 18 a 24 meses a −18 °C (0 °F). Descongela la bolsa cerrada para que la pulpa no sude al templarse. Unos días de congelador son además la forma más sencilla de acabar con los huevos de polilla de despensa que traiga un paquete nuevo.",
+    "thawing": "Saca lo que necesites y deja que la bolsa cerrada llegue a temperatura ambiente antes de abrirla. La pulpa congelada también puede ir directa a una sopa a fuego lento o a una tetera.",
+    "spoilage": [
+      "Moho blanco o verde, a menudo en los pliegues de la pulpa",
+      "Superficie húmeda y almibarada donde antes estaba pegajosa pero seca",
+      "Olor agrio o fermentado",
+      "Telillas, larvas o polvillo fino en el tarro: polilla de despensa"
+    ],
+    "tips": [
+      "Guárdalo en tarro hermético, no en la bolsa original",
+      "Congela un paquete nuevo unos días para eliminar huevos de polilla",
+      "Atempera un tarro frío antes de abrirlo para evitar condensación",
+      "Compra cantidades de una temporada si tu cocina es húmeda"
+    ],
+    "faq": [
+      {"q": "¿Cuánto dura el longan seco?", "a": "Unos 6 a 12 meses en armario fresco, 12 a 18 meses refrigerado y 18 a 24 meses congelado, siempre hermético."},
+      {"q": "¿Hay que refrigerarlo?", "a": "No es obligatorio, pero compensa en clima húmedo: es higroscópico y enmohece en cuanto capta humedad."},
+      {"q": "¿Se puede congelar?", "a": "Sí, bien cerrado, unos 18 a 24 meses. Descongélalo con la bolsa cerrada para que no sude."}
+    ]
+  }
+}
