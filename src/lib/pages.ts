@@ -1,4 +1,4 @@
-import type { Locale } from './i18n';
+import type { AnyLocale, Locale } from './i18n';
 import { CONTACT_EMAIL } from './site';
 
 export type StaticPage = {
@@ -9,7 +9,7 @@ export type StaticPage = {
 
 type PageKey = 'about' | 'contact' | 'privacy' | 'terms' | 'methodology' | 'food-safety';
 
-const P: Record<PageKey, Record<Locale, StaticPage>> = {
+const P: Record<PageKey, Record<AnyLocale, StaticPage>> = {
   about: {
     zh: {
       title: '關於本站',

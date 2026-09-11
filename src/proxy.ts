@@ -1,7 +1,7 @@
 import { NextResponse, type NextRequest } from 'next/server';
 
 // Kept inline rather than imported so the edge bundle stays small.
-const LOCALES = ['zh', 'en', 'ja', 'es'] as const;
+const LOCALES = ['zh', 'en'] as const;
 type Locale = (typeof LOCALES)[number];
 const FALLBACK: Locale = 'en';
 
@@ -25,8 +25,6 @@ function pickLocale(header: string | null): Locale {
   for (const { tag } of ranked) {
     const primary = tag.split('-')[0];
     if (primary === 'zh') return 'zh';
-    if (primary === 'ja') return 'ja';
-    if (primary === 'es') return 'es';
     if (primary === 'en') return 'en';
   }
   return FALLBACK;

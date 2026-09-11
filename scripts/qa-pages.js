@@ -1,7 +1,7 @@
 // Crawls a running server and checks the SEO essentials on a sample of pages.
 // Usage: node scripts/qa-pages.js [baseUrl]
 const base = process.argv[2] || 'http://localhost:3000';
-const LOCALES = ['zh', 'en', 'ja', 'es'];
+const LOCALES = ['zh', 'en'];
 
 const foods = require('../src/data/generated/foods.json');
 const guides = require('../src/data/generated/guides.json');
@@ -57,7 +57,7 @@ function fail(path, msg) { problems++; console.log(`  ${path}\n    ${msg}`); }
     if (!h1) fail(p, 'no <h1>');
     if (!canonical) fail(p, 'no canonical');
     if (!lang) fail(p, 'no html lang');
-    for (const need of ['zh-Hant-TW', 'en', 'ja', 'es', 'x-default']) {
+    for (const need of ['zh-Hant-TW', 'en', 'x-default']) {
       if (!hreflangs.includes(need)) fail(p, `missing hreflang ${need}`);
     }
     if (title) {

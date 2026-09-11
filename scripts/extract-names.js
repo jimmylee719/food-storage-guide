@@ -93,7 +93,7 @@ console.log(`  ja name available: ${total - missing.ja.length}   still English: 
 console.log(`  es name available: ${total - missing.es.length}   still English: ${missing.es.length}`);
 
 if (process.argv.includes('--report')) {
-  for (const L of ['zh', 'ja', 'es']) {
+  for (const L of ['zh']) {
     console.log(`\n--- missing ${L} (${missing[L].length}) ---`);
     console.log(missing[L].join('\n'));
   }

@@ -251,3 +251,143 @@ details.faq-item .faq-answer { padding: 0 16px 14px; color: var(--muted); font-s
 }
 .index-list li { margin: 0; padding: 3px 0; }
 .index-list a.muted-link { color: var(--muted); }
+
+/* ---------- hero banner ---------- */
+/* The photograph carries the "this is about food" message; the overlay exists
+   only so white text stays legible on top of it at every viewport width. */
+.hero-banner {
+  position: relative;
+  margin-bottom: 34px;
+  background-image:
+    linear-gradient(180deg, rgba(12, 22, 16, .78) 0%, rgba(12, 22, 16, .62) 45%, rgba(12, 22, 16, .86) 100%),
+    url('/nz-produce.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+.hero-banner-inner { padding: 68px 20px 56px; }
+.hero-banner h1 {
+  color: #fff;
+  font-size: clamp(1.9rem, 5vw, 3rem);
+  letter-spacing: -.01em;
+  margin-bottom: .3em;
+  text-shadow: 0 2px 18px rgba(0, 0, 0, .45);
+}
+.hero-banner .hero-lead {
+  color: rgba(255, 255, 255, .93);
+  font-size: clamp(1rem, 2.4vw, 1.2rem);
+  max-width: 640px;
+  margin-bottom: 22px;
+  text-shadow: 0 1px 12px rgba(0, 0, 0, .5);
+}
+.hero-banner .search { max-width: 720px; }
+.hero-banner .hero-points li {
+  color: rgba(255, 255, 255, .92);
+  text-shadow: 0 1px 10px rgba(0, 0, 0, .5);
+}
+.hero-banner .hero-points li::before { color: #7ee2ab; }
+
+/* ---------- search ---------- */
+/* Searching is the whole product, so the control is large, high-contrast and
+   carries a labelled button rather than relying on the Enter key. */
+.search { display: flex; gap: 10px; position: relative; }
+.search-input {
+  flex: 1 1 auto;
+  min-width: 0;
+  font-size: 1.05rem;
+  padding: 15px 16px;
+  border-radius: 14px;
+  border: 2px solid transparent;
+  background: var(--surface);
+  color: var(--text);
+  box-shadow: 0 10px 30px rgba(15, 30, 22, .16);
+}
+.search-input:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 4px var(--accent-soft), 0 10px 30px rgba(15, 30, 22, .18);
+}
+.search-go {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 22px;
+  min-height: 54px;
+  border: none;
+  border-radius: 14px;
+  background: linear-gradient(135deg, var(--accent) 0%, #14915c 100%);
+  color: #fff;
+  font: inherit;
+  font-size: 1.02rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 10px 26px rgba(20, 122, 77, .34);
+}
+.search-go:hover { filter: brightness(1.07); }
+.search-go:active { transform: translateY(1px); }
+.search-go:focus-visible { outline: 3px solid #fff; outline-offset: 2px; }
+.search-go-icon { display: inline-flex; }
+.search-results { top: calc(100% + 8px); }
+.search-hit { min-height: 46px; align-items: center; }
+
+/* A phone keyboard eats half the screen, so the button drops below the field
+   rather than squeezing the field into uselessness. */
+@media (max-width: 560px) {
+  .search { flex-wrap: wrap; }
+  .search-input { flex: 1 1 100%; font-size: 16px; /* iOS zooms below 16px */ }
+  .search-go { flex: 1 1 100%; justify-content: center; }
+  .hero-banner-inner { padding: 44px 18px 38px; }
+}
+
+/* ---------- category cards ---------- */
+/* Each category gets its own hue so the grid is scannable at a glance and the
+   site stops looking like a spreadsheet. */
+.cat-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  border-inline-start: 5px solid var(--cat-colour, var(--accent));
+  background: linear-gradient(100deg, var(--cat-tint, var(--accent-soft)) 0%, var(--surface) 62%);
+  transition: transform .12s ease, box-shadow .12s ease;
+}
+.cat-card:hover { transform: translateY(-2px); box-shadow: 0 12px 26px rgba(20, 30, 25, .12); }
+.cat-card h3 { margin: 0; font-size: 1rem; }
+.cat-card p { margin: 2px 0 0; font-size: .85rem; color: var(--muted); }
+.cat-icon { font-size: 1.6rem; line-height: 1; flex: 0 0 auto; }
+
+.cat-card[data-cat="vegetables"]          { --cat-colour: #4b9b3f; --cat-tint: #eaf6e6; }
+.cat-card[data-cat="fruits"]              { --cat-colour: #e07b16; --cat-tint: #fdf0e0; }
+.cat-card[data-cat="meat"]                { --cat-colour: #c0392b; --cat-tint: #fbeae8; }
+.cat-card[data-cat="poultry"]             { --cat-colour: #d4922a; --cat-tint: #fcf2e2; }
+.cat-card[data-cat="seafood"]             { --cat-colour: #2c8fb5; --cat-tint: #e6f4fa; }
+.cat-card[data-cat="dairy-eggs"]          { --cat-colour: #d6b431; --cat-tint: #fbf6e0; }
+.cat-card[data-cat="grains-beans-pasta"]  { --cat-colour: #a8762f; --cat-tint: #f7efe3; }
+.cat-card[data-cat="baked-goods"]         { --cat-colour: #b5762b; --cat-tint: #f9f0e4; }
+.cat-card[data-cat="baking-staples"]      { --cat-colour: #c06fa0; --cat-tint: #fbedf5; }
+.cat-card[data-cat="condiments-sauces"]   { --cat-colour: #b4453f; --cat-tint: #fbecea; }
+.cat-card[data-cat="herbs-spices"]        { --cat-colour: #3f9d6d; --cat-tint: #e7f6ee; }
+.cat-card[data-cat="oils-fats"]           { --cat-colour: #8a9b33; --cat-tint: #f2f6e0; }
+.cat-card[data-cat="shelf-stable"]        { --cat-colour: #7d7f86; --cat-tint: #f0f1f3; }
+.cat-card[data-cat="snacks-nuts-seeds"]   { --cat-colour: #9a6b3c; --cat-tint: #f6efe7; }
+.cat-card[data-cat="beverages"]           { --cat-colour: #4a7fc1; --cat-tint: #eaf1fb; }
+.cat-card[data-cat="frozen-foods"]        { --cat-colour: #4f8fd6; --cat-tint: #e9f2fc; }
+.cat-card[data-cat="deli-prepared"]       { --cat-colour: #c2673a; --cat-tint: #fbeee6; }
+.cat-card[data-cat="vegetarian-proteins"] { --cat-colour: #6d9b3a; --cat-tint: #eff6e4; }
+.cat-card[data-cat="baby-food"]           { --cat-colour: #d98aa6; --cat-tint: #fdeef3; }
+
+@media (prefers-color-scheme: dark) {
+  .cat-card {
+    background: linear-gradient(100deg, color-mix(in srgb, var(--cat-colour) 22%, var(--surface)) 0%, var(--surface) 62%);
+  }
+  .cat-card p { color: var(--muted); }
+}
+
+/* ---------- touch targets ---------- */
+/* Everything tappable clears the 44px the platform guidelines ask for; this is
+   a site people use one-handed with a shopping bag in the other. */
+@media (max-width: 760px) {
+  .main-nav a, .main-nav button { min-height: 44px; display: inline-flex; align-items: center; }
+  .chip-row .pill { min-height: 40px; display: inline-flex; align-items: center; }
+  table th, table td { padding-block: 12px; }
+}

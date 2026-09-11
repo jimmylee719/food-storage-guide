@@ -1,15 +1,27 @@
-export const LOCALES = ['zh', 'en', 'ja', 'es'] as const;
+// Published locales. Japanese and Spanish dictionaries and content are kept in
+// the repository but are not published, so either can be restored by adding it
+// back to this list.
+export const LOCALES = ['zh', 'en'] as const;
 export type Locale = (typeof LOCALES)[number];
+
+/**
+ * Every locale the repository holds content for. Japanese and Spanish articles,
+ * dictionaries and static pages are all still here; they are simply not routed.
+ * Data structures are keyed by this, so restoring a locale means adding it to
+ * LOCALES above and nothing else.
+ */
+export const ALL_LOCALES = ['zh', 'en', 'ja', 'es'] as const;
+export type AnyLocale = (typeof ALL_LOCALES)[number];
 export const DEFAULT_LOCALE: Locale = 'zh';
 
-export const HTML_LANG: Record<Locale, string> = {
+export const HTML_LANG: Record<AnyLocale, string> = {
   zh: 'zh-Hant-TW',
   en: 'en',
   ja: 'ja',
   es: 'es',
 };
 
-export const LOCALE_NAMES: Record<Locale, string> = {
+export const LOCALE_NAMES: Record<AnyLocale, string> = {
   zh: '繁體中文',
   en: 'English',
   ja: '日本語',
@@ -187,7 +199,7 @@ const zh: Dict = {
     { q: '冷凍食品放太久還能吃嗎？', a: '只要全程維持在 −18°C，就微生物安全而言可以無限期保存。本站標示的冷凍期限指的是風味與口感開始明顯下降的時間點，不是安全的界線。' },
     { q: '退冰後的食物可以再冷凍嗎？', a: '如果是在冷藏室慢慢解凍、而且中心溫度仍維持在 4°C 以下，可以再冷凍，只是口感會變差。用冷水或微波解凍的食物必須先煮熟才能再冷凍。放在室溫解凍過的食物不要再冷凍。' },
   ],
-  dataNote: (foods, pages, guides) => `目前收錄 ${foods} 種食材的保存期限，其中 ${pages} 種有完整的四語系保存說明，另有 ${guides} 篇附出處的保存知識長文。內容持續增加中。`,
+  dataNote: (foods, pages, guides) => `目前收錄 ${foods} 種食材的保存期限，其中 ${pages} 種有完整的中英雙語保存說明，另有 ${guides} 篇附出處的保存知識長文。內容持續增加中。`,
   autoSummary: (pantry, fridge, freezer) => {
     const parts = [];
     if (pantry) parts.push(`常溫可放 ${pantry}`);
@@ -284,7 +296,7 @@ const en: Dict = {
     { q: 'Is frozen food still safe after the recommended time?', a: 'Food held continuously at −18 °C (0 °F) stays microbiologically safe indefinitely. The freezer times on this site mark when flavour and texture start to fall off noticeably, not a safety cut-off.' },
     { q: 'Can you refreeze food that has thawed?', a: 'Yes, if it thawed in the refrigerator and is still at or below 4 °C, though the texture suffers. Food thawed in cold water or a microwave must be cooked before refreezing. Anything thawed at room temperature should not go back in the freezer.' },
   ],
-  dataNote: (foods, pages, guides) => `${foods} foods with storage times, ${pages} of them with a full write-up in all four languages, plus ${guides} sourced guide articles. The library keeps growing.`,
+  dataNote: (foods, pages, guides) => `${foods} foods with storage times, ${pages} of them with a full write-up in both languages, plus ${guides} sourced guide articles. The library keeps growing.`,
   autoSummary: (pantry, fridge, freezer) => {
     const parts = [];
     if (pantry) parts.push(`${pantry} in the pantry`);
@@ -491,7 +503,7 @@ const es: Dict = {
   analogNote: (analog) => `Ningún organismo publica una cifra para este alimento, así que los tiempos proceden de ${analog}, el alimento comparable más cercano. Tómelos como orientación, no como un límite publicado.`,
 };
 
-const DICTS: Record<Locale, Dict> = { zh, en, ja, es };
+const DICTS: Record<AnyLocale, Dict> = { zh, en, ja, es };
 
 export function t(locale: Locale): Dict {
   return DICTS[locale] ?? DICTS[DEFAULT_LOCALE];

@@ -23,6 +23,8 @@ const path = require('path');
 const ROOT = path.join(__dirname, '..');
 const D = (...p) => path.join(ROOT, 'src', 'data', ...p);
 const CHUNK = 120;
+// Only the published non-English locales need translating.
+const PUBLISHED = ['zh'];
 
 function readJson(p, fallback) {
   try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch { return fallback; }
@@ -43,7 +45,7 @@ const nameWork = [];
 for (const f of foods) {
   if (f.hasPage) continue; // an article supplies its own names
   const have = names[f.slug] || {};
-  const missing = ['zh', 'ja', 'es'].filter((l) => !have[l]);
+  const missing = PUBLISHED.filter((l) => !have[l]);
   if (!missing.length) continue;
   nameWork.push({
     slug: f.slug,
@@ -73,7 +75,7 @@ for (const f of foods) {
 }
 const tipWork = [];
 for (const [tip, use] of [...tipUses].sort((a, b) => b[1].count - a[1].count)) {
-  const missing = ['zh', 'ja', 'es'].filter((l) => !tipDicts[l][tip]);
+  const missing = PUBLISHED.filter((l) => !tipDicts[l][tip]);
   if (!missing.length) continue;
   tipWork.push({
     en: tip,

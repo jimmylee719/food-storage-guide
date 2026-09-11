@@ -1,4 +1,4 @@
-import type { Locale } from './i18n';
+import type { AnyLocale, Locale } from './i18n';
 import zh from '@/data/tips/zh.json';
 import ja from '@/data/tips/ja.json';
 import es from '@/data/tips/es.json';
@@ -17,7 +17,7 @@ import es from '@/data/tips/es.json';
  * A tip with no translation yet is hidden rather than shown in English:
  * silence is better than the wrong language.
  */
-const DICTS: Record<Exclude<Locale, 'en'>, Record<string, string>> = {
+const DICTS: Record<Exclude<AnyLocale, 'en'>, Record<string, string>> = {
   zh: zh as Record<string, string>,
   ja: ja as Record<string, string>,
   es: es as Record<string, string>,
@@ -27,7 +27,7 @@ export function localiseTip(tip: string | null, locale: Locale): string | null {
   if (!tip) return null;
   if (locale === 'en') return tip;
   const key = tip.trim();
-  return DICTS[locale][key] ?? null;
+  return DICTS[locale as Exclude<AnyLocale, 'en'>][key] ?? null;
 }
 
 /** How many tips are still untranslated, for scripts/check-language.js. */

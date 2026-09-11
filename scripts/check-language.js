@@ -74,7 +74,7 @@ async function main() {
     '/food/salmon', '/food/mackerel', '/food/pandan', '/food/durian', '/food/natto', '/food/queso-fresco',
     '/guides/how-to-freeze-food',
   ];
-  const locales = ['zh', 'ja', 'es'];
+  const locales = ['zh'];
   let checked = 0;
   const byPage = [];
 

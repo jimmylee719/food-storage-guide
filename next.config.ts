@@ -12,6 +12,12 @@ const nextConfig: NextConfig = {
       { source: '/index.html', destination: '/zh', permanent: true },
       { source: '/about.html', destination: '/zh/about', permanent: true },
       { source: '/privacy-policy.html', destination: '/zh/privacy', permanent: true },
+      // Japanese and Spanish were published earlier. Their URLs keep working
+      // rather than 404ing, and land on the same page in English.
+      { source: '/ja', destination: '/en', permanent: true },
+      { source: '/es', destination: '/en', permanent: true },
+      { source: '/ja/:path*', destination: '/en/:path*', permanent: true },
+      { source: '/es/:path*', destination: '/en/:path*', permanent: true },
     ];
   },
   async headers() {

@@ -58,7 +58,8 @@ export function formatSpan(span: Span | null | undefined, locale: Locale): strin
   const plural = hi > 1 || lo > 1;
   const word = plural ? forms[1] : forms[0];
   const num = lo === hi ? `${lo}` : `${lo}${d.rangeJoin}${hi}`;
-  if (locale === 'zh' || locale === 'ja') return `${num}${word}`;
+  // CJK sets a number against its unit with no space.
+  if (locale === 'zh' || (locale as string) === 'ja') return `${num}${word}`;
   return `${num} ${word}`;
 }
 

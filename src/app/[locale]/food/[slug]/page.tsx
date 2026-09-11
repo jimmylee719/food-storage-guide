@@ -20,7 +20,7 @@ export function generateStaticParams() {
  */
 function titleFor(locale: Locale, name: string): string {
   const full = (() => {
-    switch (locale) {
+    switch (locale as string) {
       case 'zh': return `${name}可以放多久？常溫、冷藏、冷凍保存`;
       case 'ja': return `${name}の保存期間：常温・冷蔵・冷凍`;
       case 'es': return `¿Cuánto dura ${name.toLowerCase()}? Despensa, nevera y congelador`;

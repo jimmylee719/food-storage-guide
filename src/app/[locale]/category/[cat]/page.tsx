@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const name = d.categoryNames[cat];
   const items = foodsInCategory(cat);
   // CJK titles read better without the colon separator.
-  const cjk = locale === 'zh' || locale === 'ja';
+  const cjk = locale === 'zh' || (locale as string) === 'ja';
   const title = cjk ? `${name}${d.categoryTitleSuffix}` : `${name}: ${d.categoryTitleSuffix}`;
   const description = d.categoryDescLead(items.length, name);
   return buildMetadata({ title, description, path: `/category/${cat}`, locale });

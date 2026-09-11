@@ -15,17 +15,17 @@ export default function SearchBox({ locale, autoFocus }: Props) {
   const [query, setQuery] = useState('');
   const [open, setOpen] = useState(false);
   const [active, setActive] = useState(0);
-  const boxRef = useRef<HTMLDivElement>(null);
+  const boxRef = useRef<HTMLFormElement>(null);
 
   useEffect(() => {
     let cancelled = false;
-    if (index || !open) return;
+    if (index) return;
     fetch(`/search/${locale}.json`)
       .then((r) => r.json())
       .then((data: SearchEntry[]) => { if (!cancelled) setIndex(data); })
       .catch(() => {});
     return () => { cancelled = true; };
-  }, [open, index, locale]);
+  }, [index, locale]);
 
   useEffect(() => {
     function onClick(e: MouseEvent) {
@@ -67,8 +67,19 @@ export default function SearchBox({ locale, autoFocus }: Props) {
     else if (e.key === 'Escape') setOpen(false);
   }
 
+  function submit() {
+    if (hits.length) { go(hits[active] ?? hits[0]); return; }
+    // No match yet — send them somewhere useful rather than nowhere.
+    if (query.trim()) router.push(`/${locale}/foods`);
+  }
+
   return (
-    <div className="search" ref={boxRef}>
+    <form
+      className="search"
+      ref={boxRef}
+      role="search"
+      onSubmit={(e) => { e.preventDefault(); submit(); }}
+    >
       <input
         className="search-input"
         type="search"
@@ -82,7 +93,17 @@ export default function SearchBox({ locale, autoFocus }: Props) {
         onFocus={() => setOpen(true)}
         onChange={(e) => { setQuery(e.target.value); setOpen(true); }}
         onKeyDown={onKeyDown}
+        enterKeyHint="search"
       />
+      <button className="search-go" type="submit" aria-label={d.searchLabel}>
+        <span className="search-go-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round">
+            <circle cx="11" cy="11" r="7" />
+            <line x1="16.5" y1="16.5" x2="21" y2="21" />
+          </svg>
+        </span>
+        <span className="search-go-label">{d.searchLabel}</span>
+      </button>
       {open && query.trim() && (
         <div className="search-results" id="search-results" role="listbox">
           {hits.length === 0 ? (
@@ -106,6 +127,6 @@ export default function SearchBox({ locale, autoFocus }: Props) {
           )}
         </div>
       )}
-    </div>
+    </form>
   );
 }
