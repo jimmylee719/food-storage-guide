@@ -1,0 +1,57 @@
+{
+  "slug": "cheddar-cheese",
+  "en": {
+    "name": "Cheddar",
+    "aliases": ["cheddar cheese", "mature cheddar", "mild cheddar", "block cheddar", "tasty cheese"],
+    "summary": "Cheddar is a hard, pressed cow's-milk cheese whose low moisture and salt make it one of the longest-keeping things in the fridge. Unopened it keeps about 6 months from purchase, once opened 3–4 weeks, and frozen about 6 months — though freezing costs it its texture.",
+    "pantry": "Cheddar is not a room-temperature food in the sense of storage, even though it is far more robust than a soft cheese. Leave it out and the fat sweats to the surface, it dries and cracks at the edges, and the two-hour rule applies as it does to any dairy product (one hour above 32 °C / 90 °F). Bring it to room temperature for half an hour before serving — that is for flavour — and return the rest to the fridge straight after.",
+    "fridge": "Keep cheddar at 4 °C (40 °F) or below in the main body of the fridge, not the door. Unopened in its vacuum pack it holds about 6 months from purchase; once opened, 3–4 weeks. Wrap cut cheese in waxed or greaseproof paper and then loosely in foil or a box: it needs to breathe a little, and cling film pressed directly against the cut face traps moisture and grows mould faster. Re-wrap in fresh paper each time rather than reusing a damp sheet.",
+    "freezer": "Cheddar freezes for about 6 months from purchase at −18 °C (0 °F), but it comes back crumbly because the ice crystals break the curd structure. That is fine for grating over pasta, melting into a sauce or topping a gratin, and poor for a cheeseboard. Grate it before freezing and pack it in a sealed bag with a spoonful of cornflour tossed through to stop clumping; freeze blocks in pieces of 250 g or less so they freeze quickly.",
+    "thawing": "Thaw cheddar in the fridge overnight, still wrapped, and use it within about a week. Grated frozen cheddar goes straight onto a dish from the freezer without thawing. Do not thaw cheese at room temperature or in the microwave.",
+    "spoilage": [
+      "Fuzzy mould in blue, green, black or pink on a cut face",
+      "A sharp ammonia smell, quite different from cheddar's usual tang",
+      "Slimy or sticky surface rather than dry and firm",
+      "Unusual darkening, or a bitter, soapy taste"
+    ],
+    "tips": [
+      "Buy a block rather than pre-grated; grated cheese dries out and moulds far faster.",
+      "Wrap in waxed paper, then loosely in foil — not tightly in cling film.",
+      "Label the wrapper with the date you opened it; the 3–4 week clock starts then.",
+      "Grate the last of a block and freeze it rather than letting the end dry out."
+    ],
+    "faq": [
+      {"q": "How long does cheddar last in the fridge?", "a": "About 6 months from purchase while the vacuum pack is unopened, and 3–4 weeks once you have opened it, at 4 °C (40 °F) or below."},
+      {"q": "Can you freeze cheddar?", "a": "Yes, for about 6 months at −18 °C (0 °F). It thaws crumbly, so freeze it grated and use it for cooking rather than for eating as it is."},
+      {"q": "Can you cut mould off cheddar?", "a": "Yes. For hard cheese, cut at least 2.5 cm (1 inch) around and below the mould spot, keep the knife out of the mould itself, and re-wrap the rest in fresh paper. This applies to hard cheese only, never to soft cheese."},
+      {"q": "Why has my cheddar gone greasy on the surface?", "a": "The butterfat has separated out, usually because the cheese was left out or the fridge is running warm. It is a quality fault, not a safety one; blot it and keep the cheese colder."}
+    ]
+  },
+  "zh": {
+    "name": "切達起司",
+    "aliases": ["切達乳酪", "車打芝士", "cheddar", "熟成切達"],
+    "summary": "切達是壓製的硬質牛奶起司，水分低、鹽度高，是冰箱裡最耐放的食材之一。未開封從購買日起約可放 6 個月，開封後 3～4 週，冷凍約 6 個月——但冷凍會犧牲口感。",
+    "pantry": "切達雖然比軟質起司強韌得多，但就保存而言仍然不是能放室溫的食材。放在外面，油脂會滲到表面、邊緣乾裂，而且兩小時原則對所有乳製品都適用（氣溫超過 32°C 時只有一小時）。上桌前提早半小時回溫是為了風味，吃完請立刻把剩下的收回冰箱。",
+    "fridge": "冷藏請維持 4°C 以下，放在冰箱內部而不是門邊。真空包裝未開封的話，從購買日起約可放 6 個月；開封後則是 3～4 週。切開的起司請先用蠟紙或烘焙紙包起來，外面再鬆鬆包一層鋁箔或放進盒子：起司需要一點透氣，保鮮膜直接貼在切面上會鎖住水氣，反而更快發霉。每次都換一張乾淨的紙，不要重複用已經潮濕的那張。",
+    "freezer": "切達在 −18°C 冷凍，從購買日起約可放 6 個月，但解凍後會變得鬆散易碎，因為冰晶破壞了凝乳結構。這用來刨在義大利麵上、融進醬汁裡或鋪在焗烤上完全沒問題，但拿來做起司拼盤就不行了。建議先刨絲再冷凍，裝袋時拌一小匙玉米粉可以防止結塊；整塊冷凍請切成 250 公克以下，才凍得快。",
+    "thawing": "解凍請連著包裝放冷藏室退冰一晚，並在一週內用完。刨絲的冷凍切達可以不解凍直接撒在料理上。不要在室溫解凍，也不要用微波。",
+    "spoilage": [
+      "切面長出藍色、綠色、黑色或粉紅色的毛狀黴",
+      "有刺鼻的阿摩尼亞味，和切達原本的酸香明顯不同",
+      "表面變得黏滑，而不是乾爽結實",
+      "顏色異常變深，或吃起來有苦味、肥皂味"
+    ],
+    "tips": [
+      "買整塊而不是已刨絲的；刨絲起司乾得快、也更快發霉。",
+      "先用蠟紙包，外層再鬆鬆包鋁箔，不要用保鮮膜緊貼。",
+      "在包裝上寫下開封日期，3～4 週是從那天開始算。",
+      "剩下最後一小塊時直接刨絲冷凍，別放到乾硬。"
+    ],
+    "faq": [
+      {"q": "切達起司放冰箱可以放多久？", "a": "4°C 以下冷藏，真空未開封從購買日起約 6 個月，開封後 3～4 週。"},
+      {"q": "切達起司可以冷凍嗎？", "a": "可以，放 −18°C 約 6 個月。解凍後質地變碎，建議刨絲後冷凍並用於烹調，不要直接單吃。"},
+      {"q": "切達發霉可以把霉切掉嗎？", "a": "可以。硬質起司請在霉點周圍和底下各切除至少 2.5 公分，刀子不要碰到霉，再用乾淨的紙重新包好。這個做法只適用硬質起司，軟質起司絕對不行。"},
+      {"q": "切達表面出油是壞掉了嗎？", "a": "那是乳脂分離，通常是放在室溫太久或冰箱溫度偏高造成的。屬於品質問題而非安全問題，擦掉後把冰箱調冷一點即可。"}
+    ]
+  }
+}

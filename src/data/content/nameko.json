@@ -1,0 +1,91 @@
+{
+  "slug": "nameko",
+  "en": {
+    "name": "Nameko",
+    "aliases": [
+      "butterscotch mushroom",
+      "pearl mushroom",
+      "nameko mushroom",
+      "glutinous mushroom"
+    ],
+    "summary": "Nameko are small amber mushrooms naturally coated in a clear gel, used in miso soup and grated-radish dishes. No figure is published for them, so treat them like mushrooms — but shortened: about 2–4 days refrigerated, because nameko spoils faster than any other cultivated mushroom.",
+    "pantry": "Nameko should never be left at room temperature, not even briefly. Its surface gel holds a great deal of water against the cap, which is exactly the condition bacteria want, and a warm pack goes sour within hours. There is no room-temperature figure and none should be assumed. Buy it from the chiller cabinet and get it home cold.",
+    "fridge": "Keep the sealed pack cold at 4 °C (40 °F) or below and use it soon — about 2–4 days is the working limit, borrowed from the general mushroom figure and shortened because nameko's high surface moisture makes it the most perishable of the group. There is a judging problem worth knowing about: nameko is naturally coated in gel, so the usual slimy-means-spoiled test does not apply. Judge it instead by smell, and by whether the caps have gone brown and mushy rather than firm and amber.",
+    "freezer": "There is no freezer timeline for nameko and we will not invent one. It can be frozen in its pack or bagged flat at −18 °C (0 °F) and dropped into miso soup from frozen, and food at that temperature stays safe indefinitely — but no quality window has been published. Given how quickly nameko goes over in the fridge, freezing the pack on the day you buy it is a reasonable thing to do; just do not treat it as a long-term store.",
+    "thawing": "Do not thaw nameko. Tip it straight from frozen into miso soup or a simmering broth. Thawed nameko loses what structure it has and the gel thins out into the liquid.",
+    "spoilage": [
+      "A sour, fermented or ammonia smell — the most reliable test for this mushroom",
+      "Caps gone brown and mushy instead of firm and amber",
+      "Cloudy or discoloured liquid in the pack",
+      "A puffed or gassy pack, or a date that has passed"
+    ],
+    "tips": [
+      "Buy nameko last and get it into the fridge fast; it is the least forgiving mushroom there is.",
+      "Do not judge it by sliminess — the gel is supposed to be there.",
+      "Rinse it briefly only if the recipe asks; the gel is the thickening you want in miso soup.",
+      "Freeze the pack on the day you buy it if you will not cook it within a couple of days."
+    ],
+    "faq": [
+      {
+        "q": "How long does nameko last in the fridge?",
+        "a": "About 2–4 days at 4 °C (40 °F) or below, in the sealed pack. That figure is borrowed from mushrooms generally and shortened, because nameko is the most perishable of them."
+      },
+      {
+        "q": "Nameko is slimy — is it off?",
+        "a": "Not necessarily. Nameko is naturally coated in a clear gel, so the usual slimy test does not work. Go by smell and by whether the caps are still firm and amber."
+      },
+      {
+        "q": "Can you freeze nameko?",
+        "a": "No timeline is published, so we do not give one. It freezes at −18 °C (0 °F) and goes straight into miso soup from frozen, which is a reasonable move given how fast it goes over."
+      },
+      {
+        "q": "Should you wash nameko?",
+        "a": "Only briefly, and only if a recipe asks. The gel on the surface is what thickens a miso soup pleasantly; rinsing it all away wastes the point of the mushroom."
+      }
+    ]
+  },
+  "zh": {
+    "name": "滑菇",
+    "aliases": [
+      "珍珠菇",
+      "滑子菇",
+      "光帽鱗傘",
+      "滑菇菌"
+    ],
+    "summary": "滑菇是表面天然包覆一層透明膠質的小型琥珀色菇，常用於味噌湯和蘿蔔泥料理。它沒有公布的保存數據，可以比照菇類來看，但要縮短：冷藏約 2～4 天，因為滑菇是所有人工栽培菇裡壞得最快的。",
+    "pantry": "滑菇絕對不能放室溫，連一下子都不行。表面的膠質把大量水分鎖在菌傘上，那正是細菌最喜歡的條件，一包回過溫的滑菇幾小時內就會發酸。這裡不提供常溫保存天數，也請不要自行推估。請在冷藏櫃購買並全程保冷帶回家。",
+    "fridge": "請保持密封包裝冷藏於 4°C 以下，並盡快用掉——約 2～4 天是工作上限，這是比照菇類整體的數字並往下縮短，因為滑菇表面水分高，是這一群裡最不耐放的。這裡有個值得知道的判斷陷阱：滑菇本來就包著一層膠質，所以「變黏就是壞了」這條常用規則在它身上不成立。請改用氣味判斷，並看菌傘是否還結實呈琥珀色，而不是已經轉褐變糊。",
+    "freezer": "滑菇沒有冷凍保存期限，我們也不會自己編一個。它可以連包裝或平鋪裝袋冷凍於 −18°C，使用時不解凍直接丟進味噌湯；食品在該溫度下安全上可無限期保存，只是沒有公布的品質期限。考慮到滑菇在冰箱裡壞得多快，買回來當天就冷凍是很合理的做法，只是不要把它當成長期庫存。",
+    "thawing": "滑菇不要解凍。直接從冷凍狀態倒進味噌湯或滾著的高湯裡。解凍後它僅有的結構會散掉，膠質也會稀釋進湯裡。",
+    "spoilage": [
+      "有酸味、發酵味或阿摩尼亞味——這是這種菇最可靠的判斷方式",
+      "菌傘轉褐變糊，而不是結實的琥珀色",
+      "包裝內的液體變混濁或變色",
+      "包裝鼓脹產氣，或已超過標示日期"
+    ],
+    "tips": [
+      "採買時最後才拿，並盡快放進冰箱；它是最不容錯的菇。",
+      "不要用「黏不黏」判斷——那層膠本來就該在。",
+      "除非食譜要求，否則不用沖洗；那層膠正是味噌湯要的濃稠感。",
+      "兩天內煮不完的話，買回來當天就整包冷凍。"
+    ],
+    "faq": [
+      {
+        "q": "滑菇放冰箱可以放多久？",
+        "a": "4°C 以下冷藏、保持密封包裝約 2～4 天。這個數字是比照菇類整體並往下縮短，因為滑菇是其中最不耐放的。"
+      },
+      {
+        "q": "滑菇黏黏的是壞掉了嗎？",
+        "a": "不一定。滑菇表面本來就有一層透明膠質，所以常用的「變黏就丟」規則不適用。請用氣味判斷，並看菌傘是否還結實呈琥珀色。"
+      },
+      {
+        "q": "滑菇可以冷凍嗎？",
+        "a": "沒有公布的期限，所以我們不給數字。它可以冷凍於 −18°C 並不解凍直接下味噌湯；考量到它壞得快，這其實是很合理的做法。"
+      },
+      {
+        "q": "滑菇需要洗嗎？",
+        "a": "除非食譜要求，否則只要快速沖一下就好。表面那層膠正是讓味噌湯口感變滑順的關鍵，全沖掉就白買了。"
+      }
+    ]
+  }
+}

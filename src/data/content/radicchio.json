@@ -1,0 +1,57 @@
+{
+  "slug": "radicchio",
+  "en": {
+    "name": "Radicchio",
+    "aliases": ["Italian chicory", "Chioggia radicchio", "Treviso", "red chicory"],
+    "summary": "Radicchio is the deep red, white-veined chicory sold as a tight round head or as elongated Treviso spears, bitter raw and sweeter grilled. Refrigerated at 4 °C (40 °F) or below it keeps about 2–3 weeks — far longer than any lettuce.",
+    "pantry": "Radicchio should not be kept at room temperature. It is a chicory rather than a lettuce, and it is much sturdier, but a warm kitchen still wilts the outer leaves within a day and turns the cut base brown. There is no room-temperature figure here and none should be assumed. Refrigerate the head whole and unwashed as soon as you get home.",
+    "fridge": "Keep radicchio whole and unwashed in the crisper at 4 °C (40 °F) or below, loosely bagged or wrapped, where it keeps about 2–3 weeks — considerably longer than an iceberg and several times longer than a soft leaf lettuce. The tight head is what does it: the outer leaves protect everything inside, so peel leaves off as you need them rather than cutting the head in half. A cut face browns and dries, and a halved head will not last the week.",
+    "freezer": "There is no freezer timeline for radicchio in our data, and freezing it raw makes no sense — the crisp bitter leaf is the point, and freezing collapses it. The useful exception is cooked: braised or grilled radicchio, cooled and frozen in portions, holds its flavour well and is exactly what you want for a risotto later. Freeze the dish, not the vegetable.",
+    "thawing": "If you have frozen braised radicchio, reheat it from frozen in a pan or stir it straight into a risotto. Do not thaw raw radicchio and expect to serve it in a salad.",
+    "spoilage": [
+      "Slimy or blackened outer leaves, especially at the edges",
+      "Brown or rust-coloured streaks along the white ribs",
+      "A soft, browning base with a sour smell",
+      "Leaves gone limp and leathery instead of snapping"
+    ],
+    "tips": [
+      "Choose heads that feel heavy and tight with crisp white ribs and a pale, dry cut base.",
+      "Keep the head whole; peel leaves from the outside as you need them.",
+      "Soak cut leaves in cold water for 20 minutes to take the hardest edge off the bitterness.",
+      "Grill or roast it with olive oil and a little balsamic — heat turns the bitterness sweet."
+    ],
+    "faq": [
+      {"q": "How long does radicchio last in the fridge?", "a": "About 2–3 weeks at 4 °C (40 °F) or below, kept whole and unwashed in the crisper — much longer than lettuce."},
+      {"q": "Can you freeze radicchio?", "a": "No timeline exists for raw radicchio and freezing it raw destroys the crisp leaf. Braise or grill it first and freeze the cooked dish in portions."},
+      {"q": "How do you make radicchio less bitter?", "a": "Soak the cut leaves in cold water for 20 minutes, or cook it — grilling and braising turn the bitterness into sweetness. Salt, fat and something acidic all help too."},
+      {"q": "Is radicchio the same as red cabbage?", "a": "No. Radicchio is a chicory, related to endive, with a bitter flavour and tender leaves. Red cabbage is a brassica, much denser and sweeter, and they behave nothing alike in cooking."}
+    ]
+  },
+  "zh": {
+    "name": "紫菊苣",
+    "aliases": ["radicchio", "義大利菊苣", "紅菊苣", "特雷維索菊苣"],
+    "summary": "紫菊苣是深紅色帶白色葉脈的菊苣，有結球的圓形品種，也有細長的 Treviso 品種；生吃偏苦，炙烤後轉甜。4°C 以下冷藏約可放 2～3 週，比任何萵苣都久得多。",
+    "pantry": "紫菊苣不應該放室溫。它屬於菊苣而不是萵苣，體質硬朗得多，但在溫暖的廚房裡，外層葉子一天內還是會萎，根部切口也會發褐。這裡不提供常溫保存天數，也請不要自行推估。買回家請整顆不清洗直接冷藏。",
+    "fridge": "請整顆不清洗，鬆鬆裝袋或包好放在 4°C 以下的蔬果保鮮室，約可放 2～3 週——比美生菜長得多，更是軟質葉萵苣的好幾倍。關鍵就在那顆緊實的球：外層葉子保護了裡面的一切，所以請要用時從外面一片片剝，不要整顆對切。切面會褐變乾掉，切半的球撐不過一週。",
+    "freezer": "我們的資料裡沒有紫菊苣的冷凍保存期限，而且生凍也說不通——爽脆帶苦的葉片就是它的重點，冷凍會讓它整個塌掉。唯一有用的例外是煮熟後：燜煮或炙烤過的紫菊苣放涼後分裝冷凍，風味保留得很好，之後拿來做燉飯正好。要冷凍的是那道菜，不是那顆菜。",
+    "thawing": "如果冷凍的是燜煮好的紫菊苣，請不解凍直接下鍋回熱，或直接拌進燉飯裡。不要解凍生的紫菊苣還指望拿它做沙拉。",
+    "spoilage": [
+      "外層葉子變黏或發黑，尤其是葉緣",
+      "白色葉肋上出現褐色或鏽色條紋",
+      "根部變軟發褐並帶酸味",
+      "葉片變得軟韌像皮革，折起來不再清脆"
+    ],
+    "tips": [
+      "挑拿起來有重量、包得緊實、葉肋白脆、根部切口乾爽淡色的。",
+      "保持整顆完整，要用時從外層一片片剝。",
+      "切好的葉子泡冷水 20 分鐘，可以去掉最尖銳的苦味。",
+      "淋橄欖油和一點巴薩米克醋炙烤或焗烤——熱度會把苦味轉成甜味。"
+    ],
+    "faq": [
+      {"q": "紫菊苣放冰箱可以放多久？", "a": "4°C 以下冷藏，整顆不清洗放在蔬果保鮮室，約 2～3 週，比萵苣久得多。"},
+      {"q": "紫菊苣可以冷凍嗎？", "a": "生的沒有對應的期限，冷凍也會毀掉爽脆的葉片。請先燜煮或炙烤，再把成品分裝冷凍。"},
+      {"q": "紫菊苣怎麼變得比較不苦？", "a": "切好後泡冷水 20 分鐘，或是加熱——炙烤和燜煮會把苦味轉成甜味。鹽、油脂和一點酸味也都有幫助。"},
+      {"q": "紫菊苣和紫高麗菜一樣嗎？", "a": "不一樣。紫菊苣屬於菊苣類，和苦苣是親戚，味道偏苦、葉片柔嫩；紫高麗菜是十字花科，紮實得多也甜得多，兩者在料理上的表現完全不同。"}
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "romaine-lettuce",
+  "en": {
+    "name": "Romaine lettuce",
+    "aliases": ["cos lettuce", "romaine hearts", "little gem", "Caesar lettuce"],
+    "summary": "Romaine is the upright, long-leaved lettuce with a thick white rib and firm dark green tips — sturdier than a butterhead and the reason it holds up under a Caesar dressing. Refrigerated at 4 °C (40 °F) or below a whole head keeps 1–2 weeks from the day of purchase.",
+    "pantry": "Romaine should not be left at room temperature. The leaves lose water quickly, the tips wilt within hours in a warm kitchen, and the cut base browns and starts to smell. No room-temperature figure is given here and none should be assumed. Get it into the crisper unwashed, whole and as soon as you can.",
+    "fridge": "Store the head whole and unwashed in a perforated bag in the crisper at 4 °C (40 °F) or below, where it keeps 1–2 weeks from purchase. Wrapping the cut base in kitchen paper and keeping the head upright helps, because moisture collects at the stem end and rots it first. Peel leaves off as you need them rather than cutting the head in half. Keep it away from apples, pears and tomatoes, whose ethylene causes the reddish-brown spotting along the ribs.",
+    "freezer": "There is no freezer timeline for romaine and freezing it is not worth doing. The crisp rib is a structure of water-filled cells, and freezing bursts them, so what thaws is a wet, floppy heap. It would not be unsafe, just useless as a salad leaf. If you have too much, grill or braise the hearts instead — romaine takes far better to a hot pan than most lettuces do.",
+    "thawing": null,
+    "spoilage": [
+      "Reddish-brown spotting or rust-coloured streaks along the white ribs",
+      "Slimy, darkened outer leaves that stick together",
+      "A brown or black, soft base with a sour smell",
+      "Leaves gone limp and leathery instead of snapping when bent"
+    ],
+    "tips": [
+      "Pick heads with firm, squeaky ribs and no brown edging at the base.",
+      "Keep the head whole and stand it upright in the crisper.",
+      "Wash and spin dry only what you are about to eat.",
+      "Crisp tired leaves by soaking them in iced water for 15 minutes, then drying them thoroughly."
+    ],
+    "faq": [
+      {"q": "How long does romaine lettuce last in the fridge?", "a": "1–2 weeks from the day of purchase at 4 °C (40 °F) or below, whole and unwashed in a perforated bag in the crisper."},
+      {"q": "Can you freeze romaine lettuce?", "a": "No timeline exists and there is no point. Freezing bursts the water-filled cells that make the ribs crisp, so it thaws limp and wet."},
+      {"q": "Why does my romaine go brown at the base?", "a": "The cut stem oxidises and moisture collects there. Trim a thin slice off, wrap the base in kitchen paper, and store the head upright."},
+      {"q": "Are the outer leaves of romaine worth keeping?", "a": "Yes, unless they are slimy. The dark outer leaves are tougher but more flavourful, and they grill or braise beautifully even when they are too limp for a salad."}
+    ]
+  },
+  "zh": {
+    "name": "蘿蔓萵苣",
+    "aliases": ["蘿蔓", "羅馬生菜", "長葉萵苣", "凱薩生菜"],
+    "summary": "蘿蔓是葉片直立細長、中肋厚白、葉尖深綠結實的萵苣，比奶油萵苣硬挺，這也是它能撐得住凱薩醬的原因。4°C 以下冷藏，整顆從購買當天算起可放 1～2 週。",
+    "pantry": "蘿蔓不應該放在室溫。葉片失水很快，在溫暖的廚房裡幾小時葉尖就萎了，根部切口也會發褐、產生異味。這裡不提供常溫保存天數，也請不要自行推估。請整顆不清洗，盡快放進蔬果保鮮室。",
+    "fridge": "整顆不清洗，裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 1～2 週。根部切口用廚房紙巾包起來、整顆直立擺放會更好，因為水氣會積在莖部，那裡也最先爛。要用時再從外層剝，不要把整顆切半。另外要遠離蘋果、梨子和番茄，它們釋出的乙烯會讓葉肋出現紅褐斑點。",
+    "freezer": "蘿蔓沒有冷凍保存期限，也不值得冷凍。它爽脆的葉肋就是一堆充滿水的細胞，冷凍會把細胞撐破，解凍後只剩濕軟的一團。這不會不安全，只是完全失去生菜的意義。吃不完的話，不如把菜心拿去炙烤或燜煮——蘿蔓比大多數萵苣都更耐得住熱鍋。",
+    "thawing": null,
+    "spoilage": [
+      "白色葉肋上出現紅褐斑點或鏽色條紋",
+      "外層葉子黏滑發暗、黏成一團",
+      "根部發褐發黑變軟，並有酸味",
+      "葉片變得軟韌像皮革，折起來不再清脆"
+    ],
+    "tips": [
+      "挑葉肋厚實、摸起來有澀感、根部沒有褐邊的。",
+      "保持整顆完整，直立放在蔬果保鮮室。",
+      "只洗當餐要吃的份量，洗完務必甩乾。",
+      "有點軟的葉子泡冰水 15 分鐘，再徹底擦乾就能回復脆度。"
+    ],
+    "faq": [
+      {"q": "蘿蔓放冰箱可以放多久？", "a": "4°C 以下冷藏，整顆不清洗裝在打洞袋放蔬果室，從購買當天算起 1～2 週。"},
+      {"q": "蘿蔓可以冷凍嗎？", "a": "沒有對應的冷凍期限，也沒有意義。冷凍會撐破讓葉肋爽脆的含水細胞，解凍後只剩濕軟的葉子。"},
+      {"q": "蘿蔓根部為什麼會變褐？", "a": "切口氧化加上水氣積在那裡。薄薄切掉一片，根部用廚房紙巾包好，整顆直立保存就好。"},
+      {"q": "蘿蔓的外層葉子要丟掉嗎？", "a": "只要沒有黏滑就別丟。深色外葉口感較粗但風味更足，即使軟到不適合做沙拉，拿去炙烤或燜煮依然很好吃。"}
+    ]
+  }
+}

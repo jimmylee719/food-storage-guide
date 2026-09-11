@@ -1,0 +1,57 @@
+{
+  "slug": "chayote",
+  "en": {
+    "name": "Chayote",
+    "aliases": ["mirliton", "choko", "vegetable pear", "christophene", "güisquil"],
+    "summary": "Chayote is a pale green, pear-shaped gourd with one soft flat seed, eaten skin and all. It suits a cool room better than a cold fridge: roughly 1–2 weeks in a cool spot, 4–6 weeks refrigerated, and 10–12 months frozen once peeled, diced and blanched.",
+    "pantry": "Chayote's ideal storage is 10–15 °C (50–59 °F) at high humidity, which is cooler than most kitchens and warmer than any fridge. A genuinely cool, shaded, humid spot will hold it about 1–2 weeks — that estimate is inferred from the recommended holding range rather than published as a figure, so treat it as a guide. The two things that end it are shrivelling in dry air and, eventually, a seedling pushing out of the broad end. A sprouted chayote is past eating, though it will happily grow into a vine if you plant it.",
+    "fridge": "Chayote transports and stores for up to six weeks at 10 °C (50 °F) and 90 % humidity, and four to six weeks from purchase is the sensible domestic range. The catch is that chilling injury starts below 10 °C, which is colder than the recommended range and colder than most fridges run — so use the warmest drawer and expect pitting on the skin if it sits at the back. The real enemy, whatever the temperature, is dry air: chayote shrivels badly under dry conditions, so keep it in a loosely closed or perforated bag rather than bare on a shelf.",
+    "freezer": "Chayote freezes for 10–12 months at −18 °C (0 °F) if you prepare it properly — that figure is borrowed from summer squash, chayote being a cucurbit that behaves the same way frozen, rather than published for chayote itself. Peel, remove the seed, dice and blanch for 2–3 minutes, then chill, drain very thoroughly and freeze in flat sealed bags. Raw frozen chayote thaws to water. Frozen chayote is for soups and stews, never for a salad.",
+    "thawing": "Add frozen chayote straight to soups and stews without thawing. If a recipe needs it thawed, do so in the fridge and drain it before use. It will never be crisp again, so do not plan on using it raw.",
+    "spoilage": [
+      "Deep wrinkles and a shrunken, light-feeling fruit",
+      "A seedling pushing out of the broad end",
+      "Soft brown patches or weeping spots on the skin",
+      "Flesh gone brown, hollow or fibrous when you cut it open"
+    ],
+    "tips": [
+      "Choose firm, unwrinkled fruit with smooth skin and no sprout showing.",
+      "Store in a perforated bag; dry air shrivels chayote faster than anything else.",
+      "The seed is edible and the nicest part — do not throw it away.",
+      "Some varieties leak a sap that dries sticky on the hands; peel under running water or wear gloves."
+    ],
+    "faq": [
+      {"q": "How long does chayote last?", "a": "Roughly 1–2 weeks in a cool humid spot, and 4–6 weeks refrigerated from the day of purchase. The pantry figure is an estimate inferred from its ideal storage range rather than a published number."},
+      {"q": "Can you freeze chayote?", "a": "Yes, if you peel, dice and blanch it first. Packed airtight at −18 °C (0 °F), 10–12 months is the working limit, a figure borrowed from summer squash."},
+      {"q": "Why is my chayote sprouting?", "a": "The seed cannot be dried, so the whole fruit is what gets planted — which is why sprouted chayotes turn up in shops. A sprouted one is past eating, but it will grow if you bury it."},
+      {"q": "Do you have to peel chayote?", "a": "Not for young fruit, where the skin is thin and edible. Older, tougher fruit is better peeled, and peeling under running water avoids the sticky sap some varieties produce."}
+    ]
+  },
+  "zh": {
+    "name": "佛手瓜",
+    "aliases": ["隼人瓜", "梨瓜", "合掌瓜", "香瓜茄", "龍鬚菜瓜"],
+    "summary": "佛手瓜是淡綠色、梨形、中間只有一顆軟扁種子的瓜，皮也可以吃。它適合涼爽的室內勝過冰冷的冰箱：涼爽處約 1～2 週，冷藏 4～6 週；去皮切丁汆燙後冷凍則可放 10～12 個月。",
+    "pantry": "佛手瓜最理想的保存條件是 10～15°C 加上高濕度，比一般廚房涼、又比任何冰箱溫暖。真正涼爽、避光、有濕度的地方大約可以放 1～2 週——這個估計是從建議的保存溫濕度範圍推得，而不是直接公布的數字，請當作參考。終結它的兩件事是：乾燥空氣造成的皺縮，以及最後從寬端冒出來的芽。已經發芽的佛手瓜不適合再吃，但種下去它會長成藤蔓。",
+    "fridge": "在 10°C、相對濕度 90% 的條件下，佛手瓜可以運送與貯藏達六週，家庭冷藏則以從購買日起 4～6 週為合理範圍。問題在於低於 10°C 就會開始出現低溫傷害，而那比建議範圍更冷，也比多數冰箱的運轉溫度更冷——所以請放在溫度最高的那一格，如果塞在最裡面，表皮出現凹點是可以預期的。不論溫度如何，真正的大敵是乾燥空氣：佛手瓜在乾燥環境下會皺得很嚴重，請裝在不封死或打洞的袋子裡，不要光溜溜地放在層架上。",
+    "freezer": "佛手瓜處理好之後，在 −18°C 可放 10～12 個月——這個數字是比照夏南瓜而來，因為兩者同屬葫蘆科、冷凍後的表現相同，並不是針對佛手瓜公布的數據。請去皮、去籽、切丁，汆燙 2～3 分鐘後冰鎮，徹底瀝乾再壓平裝密封袋。生的直接冷凍，解凍後會化成一灘水。冷凍佛手瓜只適合煮湯和燉菜，絕對不適合做沙拉。",
+    "thawing": "冷凍佛手瓜可以不解凍直接下湯或下燉鍋。食譜若需要解凍，請放冷藏室退冰並瀝乾水分。它不可能再脆回來，所以不要打算拿來生食。",
+    "spoilage": [
+      "表面出現深皺紋，整顆縮水、拿起來明顯變輕",
+      "寬端冒出芽來",
+      "表皮出現褐色軟斑或滲水的斑點",
+      "切開後果肉發褐、中空或變成粗纖維"
+    ],
+    "tips": [
+      "挑結實不皺、表皮光滑、還沒冒芽的。",
+      "用打洞袋保存；乾燥空氣是讓佛手瓜皺掉最快的原因。",
+      "中間那顆籽可以吃，而且是最好吃的部分，不要丟。",
+      "有些品種削皮時會滲出黏液，乾掉後很難洗，請在流動水下削或戴手套。"
+    ],
+    "faq": [
+      {"q": "佛手瓜可以放多久？", "a": "涼爽有濕度的地方約 1～2 週；冷藏從購買當天算起 4～6 週。常溫那個數字是從理想保存範圍推估而來，不是公布的數據。"},
+      {"q": "佛手瓜可以冷凍嗎？", "a": "可以，但要先去皮、切丁、汆燙。密封放 −18°C，10～12 個月是工作上限，這個數字是比照夏南瓜而來。"},
+      {"q": "佛手瓜為什麼會發芽？", "a": "它的種子無法乾燥保存，所以是整顆果實拿去種——這也是市面上常見發芽佛手瓜的原因。發芽的不適合再吃，但埋進土裡就會長。"},
+      {"q": "佛手瓜一定要削皮嗎？", "a": "嫩果不用，皮薄可食。比較老、皮較韌的建議削掉；在流動水下削可以避開某些品種會滲出的黏液。"}
+    ]
+  }
+}

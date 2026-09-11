@@ -1,0 +1,57 @@
+{
+  "slug": "carrots",
+  "en": {
+    "name": "Carrots",
+    "aliases": ["whole carrots", "baby carrots", "carrot sticks", "orange carrot"],
+    "summary": "Carrots are a sturdy root vegetable and one of the better keepers in the fridge, lasting 2–3 weeks from the day of purchase at 4 °C (40 °F) or below. Blanched and frozen they hold good quality for 10–12 months.",
+    "pantry": "Carrots are not really a pantry vegetable in a warm kitchen. At room temperature they lose water quickly, go rubbery and bendy within a few days, and turn from sweet to bitter. They store well at cellar temperatures in damp sand — the traditional method — but in an ordinary heated or tropical home the fridge is far better. No number is given here for room-temperature storage, and none should be assumed.",
+    "fridge": "Keep carrots in the crisper at 4 °C (40 °F) or below, unwashed, in a perforated bag or wrapped in kitchen paper inside a loosely closed bag, where they keep 2–3 weeks from purchase. The single most useful step is to cut the leafy tops off as soon as you get home: the greens keep drawing moisture out of the root and will leave you with limp carrots in days. Keep them away from apples, pears and other heavy ethylene producers, which make carrots bitter.",
+    "freezer": "Carrots must be blanched before freezing or the enzymes keep working and they go strange in colour and taste. Peel, slice or dice, boil for 2–3 minutes, plunge into iced water, drain well and pack airtight at −18 °C (0 °F). They stay safe indefinitely and keep good quality for 10–12 months. Frozen carrots are soft when thawed, so use them in soups, stews and braises rather than salads.",
+    "thawing": "Add frozen carrots straight to soups, stews and stir-fries without thawing. If a recipe needs them thawed, do it in the fridge and drain the water off before cooking.",
+    "spoilage": [
+      "Limp, bendy carrots that no longer snap when bent",
+      "Slimy black or white patches, especially at the ends",
+      "Soft, mushy or wet areas and a sour smell",
+      "Fuzzy mould, or a root that has gone hollow and spongy inside"
+    ],
+    "tips": [
+      "Cut the green tops off the day you buy them.",
+      "Store unwashed; rinse just before use so they do not sit wet.",
+      "Revive slightly limp carrots by standing them in cold water in the fridge for an hour.",
+      "The white bloom on a cut carrot is just dryness, not mould — a rinse or a light peel fixes it."
+    ],
+    "faq": [
+      {"q": "How long do carrots last in the fridge?", "a": "2–3 weeks from purchase at 4 °C (40 °F) or below, unwashed in the crisper with the leafy tops removed."},
+      {"q": "Can you freeze carrots?", "a": "Yes, but blanch them for 2–3 minutes first. Packed airtight at −18 °C (0 °F) they keep good quality for 10–12 months."},
+      {"q": "Can you eat limp carrots?", "a": "Yes, as long as they are not slimy or smelly. Limpness is just water loss; an hour standing in cold water brings much of the crispness back."},
+      {"q": "What is the white coating on cut carrots?", "a": "It is called carrot blush and it is simply the cut surface drying out. Rinse it off or peel it away — it is not mould and it is not a safety problem."}
+    ]
+  },
+  "zh": {
+    "name": "紅蘿蔔",
+    "aliases": ["胡蘿蔔", "甘筍", "紅蘿蔔條", "迷你紅蘿蔔"],
+    "summary": "紅蘿蔔是結實的根莖類，也是冰箱裡相對耐放的蔬菜，在 4°C 以下冷藏，從購買當天算起可放 2～3 週。汆燙後冷凍則能維持 10～12 個月的良好品質。",
+    "pantry": "在溫暖的廚房裡，紅蘿蔔並不適合常溫保存。室溫下它很快脫水，幾天就變得軟軟可彎，甜味也會轉成苦味。傳統上把它埋在濕沙裡、放在地窖溫度可以放得很好，但在有暖氣或濕熱的一般住家，冷藏遠遠更可靠。這裡不提供常溫保存的天數，也請不要自行推估。",
+    "fridge": "不清洗，裝進打洞袋，或用廚房紙巾包起來再放進不封死的袋子，收在 4°C 以下的蔬果保鮮室，從購買日起可放 2～3 週。最有效的一招是回家後立刻把葉子切掉：葉子會持續從根部吸走水分，留著的話幾天就軟了。另外請和蘋果、梨子這類大量釋出乙烯的水果分開，否則紅蘿蔔會變苦。",
+    "freezer": "紅蘿蔔一定要先汆燙再冷凍，否則酵素會繼續作用，顏色和味道都會走樣。去皮、切片或切丁，滾水煮 2～3 分鐘，撈起泡冰水，徹底瀝乾後密封放 −18°C。安全上可無限期保存，品質可維持 10～12 個月。解凍後口感偏軟，適合煮湯、燉菜和滷味，不適合做沙拉。",
+    "thawing": "冷凍紅蘿蔔不需解凍，直接丟進湯鍋、燉菜或熱炒即可。食譜若需要解凍，請放冷藏室退冰，並在下鍋前把水倒掉。",
+    "spoilage": [
+      "整根軟趴趴，折彎也不會啪一聲斷開",
+      "表面出現黏滑的黑斑或白斑，尤其是兩端",
+      "有軟爛、濕黏的區塊並帶酸味",
+      "長出毛狀黴菌，或中心變空、變得像海綿一樣"
+    ],
+    "tips": [
+      "買回來當天就把葉子切掉。",
+      "保存時不要洗，要用之前再沖，避免整根濕著放。",
+      "有點軟掉的紅蘿蔔，泡在冷水裡冷藏一小時就能救回不少脆度。",
+      "切面泛白只是乾燥，不是發霉，沖一下水或薄薄削一層就好。"
+    ],
+    "faq": [
+      {"q": "紅蘿蔔放冰箱可以放多久？", "a": "4°C 以下冷藏、不清洗、去掉葉子放在蔬果室，從購買日起約 2～3 週。"},
+      {"q": "紅蘿蔔可以冷凍嗎？", "a": "可以，但要先汆燙 2～3 分鐘。密封後放 −18°C 冷凍，品質可維持 10～12 個月。"},
+      {"q": "紅蘿蔔變軟了還能吃嗎？", "a": "只要沒有黏滑、沒有異味就可以吃。變軟只是失水，泡冷水一小時能回復大半脆度。"},
+      {"q": "紅蘿蔔切面上的白白一層是什麼？", "a": "那是切面乾燥造成的白化現象，沖水或削掉一層就好。它不是黴菌，也沒有安全上的問題。"}
+    ]
+  }
+}

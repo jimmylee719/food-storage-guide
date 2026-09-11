@@ -1,0 +1,57 @@
+{
+  "slug": "collard-greens",
+  "en": {
+    "name": "Collard and mustard greens",
+    "aliases": ["collards", "mustard greens", "turnip greens", "cooking greens"],
+    "summary": "Collard, mustard and turnip greens are large, tough-leaved brassicas grown for slow cooking rather than salads. Refrigerated at 4 °C (40 °F) or below they keep 1–4 days from the day of purchase, and blanched and frozen they hold good quality for 10–12 months.",
+    "pantry": "These greens are not a room-temperature vegetable. The leaves are big and thin and lose water through their whole surface, so in a warm kitchen a bunch goes limp within hours and yellows by the next day. There is no pantry figure here and none should be assumed. Refrigerate them as soon as you get home, unwashed, and buy them the day you plan to cook if you can.",
+    "fridge": "Store the greens unwashed in a perforated bag in the crisper at 4 °C (40 °F) or below, where they keep 1–4 days from purchase — the short end for a soft, already-wilting market bunch, the long end for firm, dry, freshly cut leaves. Wrap the cut stems in kitchen paper to soak up moisture and keep the leaves loose rather than crushed. Do not wash them before storing; water trapped between the leaves is what turns the edges black.",
+    "freezer": "These greens freeze very well, which is why the frozen bags are a staple. Strip the leaves from the thick ribs, wash them properly, blanch for 2–3 minutes, plunge into iced water, drain and squeeze hard, then pack airtight at −18 °C (0 °F). They are safe indefinitely and keep good quality for 10–12 months. Frozen greens are soft, which is the point — they are destined for a long braise anyway.",
+    "thawing": "Add frozen greens straight to the pot without thawing. If a recipe needs them thawed, thaw in the fridge and squeeze the water out before they go in, or the braise will be thin.",
+    "spoilage": [
+      "Yellowing leaves, or leaves that have gone translucent and water-soaked",
+      "Slimy, blackened edges, especially where the leaves were pressed together",
+      "Stems gone soft and bendy instead of snapping",
+      "A sour or strongly sulphurous cabbage smell"
+    ],
+    "tips": [
+      "Choose bunches with firm stems and deep colour, and avoid any with yellow lower leaves.",
+      "Wrap the cut stems in kitchen paper and store in a perforated bag.",
+      "Strip the tough central rib out before cooking — it never softens at the same rate as the leaf.",
+      "Blanch and freeze a whole bunch if you cannot cook it within a couple of days; these greens do not wait."
+    ],
+    "faq": [
+      {"q": "How long do collard greens last in the fridge?", "a": "1–4 days from the day of purchase at 4 °C (40 °F) or below, unwashed in a perforated bag in the crisper. Soft market bunches go at the short end of that."},
+      {"q": "Can you freeze collard and mustard greens?", "a": "Yes, and they freeze well. Blanch for 2–3 minutes, chill, squeeze dry and pack airtight at −18 °C (0 °F) for 10–12 months of good quality."},
+      {"q": "Can you eat greens with yellow leaves?", "a": "Pull off the yellow outer leaves and use the rest if the remainder is firm and smells clean. Discard the bunch if the leaves are slimy or blackened."},
+      {"q": "Do you have to remove the stems?", "a": "The thick central rib is much tougher than the leaf and stays chewy unless cooked far longer. Strip it out, or slice it finely and start it in the pan a few minutes earlier."}
+    ]
+  },
+  "zh": {
+    "name": "芥菜葉與羽衣甘藍葉",
+    "aliases": ["芥菜", "大葉芥菜", "羽衣甘藍葉", "蕪菁葉", "厚葉青菜"],
+    "summary": "芥菜葉、羽衣甘藍葉和蕪菁葉都是葉片大而粗韌的十字花科蔬菜，適合久燉而不是做沙拉。4°C 以下冷藏，從購買當天算起可放 1～4 天；汆燙後冷凍則可維持 10～12 個月的良好品質。",
+    "pantry": "這類葉菜不適合常溫保存。葉片又大又薄，整面都在散失水分，在溫暖的廚房裡幾小時就軟垮，隔天就開始泛黃。這裡不提供常溫保存天數，也請不要自行推估。買回家請不清洗直接冷藏，能當天煮最好。",
+    "fridge": "不清洗，裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 1～4 天——市場上已經有點軟的整把偏短端，結實乾爽、剛採收的葉子才能到長端。莖部切口用廚房紙巾包起來吸水，葉子鬆鬆放好不要壓實。保存前不要洗；葉片之間積的水，正是葉緣發黑的原因。",
+    "freezer": "這類葉菜非常適合冷凍，市面上冷凍包是常備品也是這個原因。先把葉片從粗梗上撕下來，徹底洗淨，汆燙 2～3 分鐘，泡冰水冷卻，瀝乾並用力擠掉水分，密封後放 −18°C。安全上可無限期保存，品質可維持 10～12 個月。冷凍後質地變軟正合適，反正它本來就是要拿去久燉的。",
+    "thawing": "冷凍葉菜可以不解凍直接下鍋。食譜若需要解凍，請放冷藏室退冰，並在下鍋前把水擠乾，否則燉出來的湯汁會太稀。",
+    "spoilage": [
+      "葉片泛黃，或出現半透明、像泡過水的水漬狀",
+      "葉緣黏滑發黑，尤其是葉片互相壓著的地方",
+      "莖變軟可彎，折不斷",
+      "有酸味，或濃重的硫磺菜臭味"
+    ],
+    "tips": [
+      "挑莖部結實、顏色深濃的，下層葉子已經泛黃的不要買。",
+      "莖的切口用廚房紙巾包好，裝在打洞袋裡保存。",
+      "料理前把中間的粗梗撕掉，它和葉子的軟化速度完全不同。",
+      "兩天內煮不完就整把汆燙冷凍起來；這類菜真的等不了人。"
+    ],
+    "faq": [
+      {"q": "芥菜葉放冰箱可以放多久？", "a": "4°C 以下冷藏，不清洗、裝打洞袋放蔬果室，從購買當天算起 1～4 天。市場上較軟的整把只有短端那幾天。"},
+      {"q": "芥菜葉可以冷凍嗎？", "a": "可以，而且效果很好。汆燙 2～3 分鐘、冰鎮、擠乾後密封放 −18°C，品質可維持 10～12 個月。"},
+      {"q": "葉子發黃還能吃嗎？", "a": "把外層黃葉摘掉，其餘只要結實、沒有異味就能用。但若葉片已經黏滑或發黑，整把丟掉。"},
+      {"q": "粗梗一定要去掉嗎？", "a": "中間的粗梗比葉子韌得多，不另外處理會一直咬不動。建議撕掉，或切細後比葉子早幾分鐘下鍋。"}
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "malanga",
+  "en": {
+    "name": "Malanga",
+    "aliases": ["yautía", "taro corm", "dasheen", "eddoe", "cocoyam"],
+    "summary": "Malanga is the starchy corm sold variously as taro, dasheen, eddoe, yautía or cocoyam — a hairy brown root with crisp white or lilac flesh that must always be cooked. About 2–4 weeks at cool room temperature, up to 8 weeks refrigerated, and 10–12 months frozen once cooked.",
+    "pantry": "Taro and its relatives keep 2–4 weeks at 20 °C (68 °F), and good ventilation is essential. Keep the corms loose in a basket somewhere cool, dark and airy, never bagged — a bag traps the moisture that starts rot in the hairy skin. Do not wash the clinging soil off until you cook. And before anything else: all parts of the plant must be cooked before eating, because the calcium oxalate raphides in the raw corm make it acrid and burn the mouth. Raw malanga is not food.",
+    "fridge": "The published figures are up to 18 weeks at 7–10 °C (45–50 °F) and 80–95 % humidity, and up to 8 weeks at 11–13 °C (52–55 °F). A domestic fridge runs colder than either, and chilling injury shows as pitting and faster rot, so use the least cold part of the fridge and treat 8 weeks as the ceiling rather than the expectation. There is one more rule worth knowing: a corm brought back out to room temperature after cold storage must be eaten within two days.",
+    "freezer": "Peel, cube and freeze the corms raw, or boil them and freeze them cooked — the latter is how frozen malanga is actually kept, and it works far better. About 10–12 months at −18 °C (0 °F) is the working limit, a figure borrowed from the timeline for cooked, mashed potato rather than published for malanga. Wear gloves when peeling: the raw sap contains the same calcium oxalate needles that make the raw corm acrid, and they itch badly on skin.",
+    "thawing": "Cook frozen malanga from frozen, straight into boiling water or a stew. Do not thaw it on the counter, and make sure it ends up thoroughly cooked whichever state it went into the freezer in.",
+    "spoilage": [
+      "Soft, wet or sunken patches, especially at either end of the corm",
+      "Mould in the hairy skin or in a crevice",
+      "Flesh gone grey, brown or translucent when cut across",
+      "A sour or fermented smell rather than a clean starchy one"
+    ],
+    "tips": [
+      "Store loose in a basket with plenty of air; bagging malanga is the main way it is lost.",
+      "Leave the soil on until you cook.",
+      "Wear gloves to peel, or peel under running water — the raw sap itches.",
+      "Eat a corm within two days of taking it out of cold storage back to room temperature."
+    ],
+    "faq": [
+      {"q": "How long does malanga last?", "a": "2–4 weeks at cool room temperature with good ventilation, and up to 8 weeks refrigerated — though a home fridge is colder than ideal, so treat 8 weeks as a ceiling."},
+      {"q": "Can you eat malanga raw?", "a": "No. All parts of the plant must be cooked. The raw corm contains calcium oxalate needles that make it acrid and burn the mouth."},
+      {"q": "Can you freeze malanga?", "a": "Yes, about 10–12 months at −18 °C (0 °F), best boiled first and frozen cooked. That figure is borrowed from cooked mashed potato rather than published for malanga."},
+      {"q": "Why do my hands itch after peeling malanga?", "a": "The raw sap contains needle-shaped calcium oxalate crystals. Wear gloves or peel under running water, and rinse your hands with vinegar water afterwards."}
+    ]
+  },
+  "zh": {
+    "name": "芋頭",
+    "aliases": ["小芋頭", "芋艿", "美洲芋", "malanga", "yautía"],
+    "summary": "malanga 是市場上以芋頭、dasheen、eddoe、yautía 或 cocoyam 等名稱販售的澱粉質球莖：褐色帶毛的外皮，裡面是白色或帶紫的爽脆肉質，而且一定要煮熟才能吃。涼爽室溫約 2～4 週，冷藏最多 8 週，煮熟後冷凍 10～12 個月。",
+    "pantry": "芋頭及其近親在 20°C 下可放 2～4 週，而通風是關鍵。請把球莖鬆散地放在籃子裡，置於陰涼、避光、通風的地方，絕對不要裝袋——袋子會困住水氣，而帶毛的外皮一旦受潮就開始腐爛。表面附著的土要到烹調前才洗掉。另外，在其他一切之前：這種植物的所有部位都必須煮熟才能食用，因為生球莖裡的草酸鈣針晶會造成強烈的刺麻感、灼傷口腔。生的 malanga 不是食物。",
+    "fridge": "公布的數字是：7～10°C、相對濕度 80～95% 可放最多 18 週；11～13°C 可放最多 8 週。家用冰箱比這兩者都冷，低溫傷害的表現是凹點和加速腐敗，所以請放在冰箱溫度最高的位置，並把 8 週當成上限而不是預期值。還有一條規則值得記住：從低溫貯藏拿回室溫的球莖，必須在兩天內吃掉。",
+    "freezer": "可以去皮切塊生凍，也可以煮熟後再冷凍——後者才是冷凍芋頭實際的保存方式，效果也好得多。−18°C 下約 10～12 個月是工作上限，這個數字是比照「煮熟搗成泥的馬鈴薯」而來，並非針對 malanga 公布。削皮時請戴手套：生的汁液含有和生球莖刺麻感同源的草酸鈣針晶，碰到皮膚會非常癢。",
+    "thawing": "冷凍的請不解凍直接下滾水或下燉鍋。不要在室溫解凍；不論當初是生凍還是熟凍，吃之前都必須確實煮透。",
+    "spoilage": [
+      "出現軟爛、滲水或凹陷的部位，尤其是球莖兩端",
+      "帶毛的外皮或凹縫裡長黴",
+      "橫切後肉質轉灰、發褐或變得半透明",
+      "有酸味或發酵味，而不是乾淨的澱粉香"
+    ],
+    "tips": [
+      "鬆散放在籃子裡保持通風；裝袋是芋頭最常見的死因。",
+      "烹調前才洗掉表面的土。",
+      "削皮戴手套，或在流動水下削——生汁液會讓手很癢。",
+      "從冷藏拿回室溫的球莖，請在兩天內吃完。"
+    ],
+    "faq": [
+      {"q": "芋頭可以放多久？", "a": "通風良好的涼爽室溫 2～4 週；冷藏最多 8 週——不過家用冰箱比理想溫度更冷，8 週請當成上限。"},
+      {"q": "芋頭可以生吃嗎？", "a": "不行。這種植物的所有部位都必須煮熟。生球莖含有草酸鈣針晶，會造成刺麻並灼傷口腔。"},
+      {"q": "芋頭可以冷凍嗎？", "a": "可以，−18°C 下約 10～12 個月，最好先煮熟再冷凍。這個數字是比照煮熟的馬鈴薯泥而來，並非針對它公布。"},
+      {"q": "削芋頭為什麼手會癢？", "a": "生汁液含有針狀的草酸鈣結晶。請戴手套或在流動水下削，事後再用醋水洗手。"}
+    ]
+  }
+}

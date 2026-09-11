@@ -1,0 +1,57 @@
+{
+  "slug": "sugarcane",
+  "en": {
+    "name": "Sugarcane",
+    "aliases": ["sugar cane", "cane stalks", "peeled cane", "red sugarcane", "white sugarcane"],
+    "summary": "Sugarcane is sold as whole unpeeled stalks or as peeled, chopped sections ready for juicing or chewing. No published storage figure exists for it, so treat it like a melon: about 3–5 days whole at cool room temperature, and 1–2 weeks refrigerated once it has been cut.",
+    "pantry": "Whole unpeeled stalks keep in a cool, shaded spot for about 3–5 days — a figure borrowed from melons, another dense, high-sugar item that keeps at room temperature while whole and moves to the fridge once cut. The cut ends dry out and go fibrous first, so stand the stalks upright rather than laying them across a warm floor, and keep them out of direct sun. Once the rind is off, that protection is gone and room temperature is no longer an option.",
+    "fridge": "Peeled or chopped sections must be refrigerated at 4 °C (40 °F) or below and wrapped so they do not dry out, where 1–2 weeks is a reasonable working limit — again borrowed from melons rather than published for cane. Be fussy about what you keep: discard any cane whose pith has gone reddish-brown, or that smells sour or alcoholic rather than sweet. Mould growing inside stored cane is the specific reason to be strict here, and discolouration through the pith is the visible warning. Fresh cane juice is highly perishable and should be drunk the day it is pressed.",
+    "freezer": "No freezer timeline exists for sugarcane and we will not invent one. Peeled sections can be frozen — they are mostly sugar and water, and a frozen stick chews perfectly well straight from the freezer — but nobody has published a quality window. The more useful answer is to press the cane into juice and freeze that, in portions, since the juice is what most people actually want and it is far too perishable to keep any other way.",
+    "thawing": "If you have frozen cane juice, thaw it in the fridge and drink it the same day; it separates and darkens if it sits. Frozen cane sections are best chewed straight from the freezer rather than thawed, which leaves them limp and weeping.",
+    "spoilage": [
+      "Pith gone reddish-brown or streaked rather than pale and creamy",
+      "A sour, alcoholic or fermented smell instead of a clean sweet one",
+      "Mould at the cut ends or under the rind",
+      "Sections that have dried to a stringy, sapless husk"
+    ],
+    "tips": [
+      "Buy cane with fresh-looking, moist cut ends and no discolouration showing.",
+      "Cut a section across before you buy or use it to check the pith is pale.",
+      "Wrap peeled sections tightly; they dry out within hours uncovered.",
+      "Drink freshly pressed cane juice the same day — it is one of the most perishable drinks there is."
+    ],
+    "faq": [
+      {"q": "How long does sugarcane last?", "a": "No figure is published for it. Treated like a melon, about 3–5 days whole in a cool shaded place and 1–2 weeks refrigerated once peeled or cut."},
+      {"q": "Can you freeze sugarcane?", "a": "No timeline is published, so we do not give one. Peeled sections freeze and chew well from frozen, but freezing the pressed juice in portions is the more useful approach."},
+      {"q": "The inside of my sugarcane is reddish — can I still eat it?", "a": "No. Reddish-brown pith means the cane has deteriorated inside, usually with mould involved. Discard it rather than cutting the discoloured part away."},
+      {"q": "How long does fresh sugarcane juice keep?", "a": "Drink it the day it is pressed. It is unpasteurised, sugar-rich and ferments quickly; keep it refrigerated from the moment it is made."}
+    ]
+  },
+  "zh": {
+    "name": "甘蔗",
+    "aliases": ["紅甘蔗", "白甘蔗", "去皮甘蔗", "蔗", "甘蔗段"],
+    "summary": "甘蔗有整根帶皮販售的，也有削好切段、可以直接啃或榨汁的。它沒有公布的保存數據，可以比照瓜類來看：整根放在涼爽室內約 3～5 天，削切之後冷藏 1～2 週。",
+    "pantry": "整根未削皮的甘蔗放在陰涼避光處大約可放 3～5 天——這個數字是比照瓜類而來，同樣是質地緻密、糖分高、整顆時可常溫、切開後就得冷藏的東西。切口會最先乾掉、變成粗纖維，所以請立著放而不是橫躺在溫熱的地面上，並避開陽光直射。一旦削掉外皮，那層保護就沒了，常溫也就不再是選項。",
+    "fridge": "削好或切段的甘蔗必須冷藏於 4°C 以下並包好防止乾燥，1～2 週是合理的工作上限——同樣是比照瓜類而來，並非針對甘蔗公布。這裡要挑剔一點：蔗心若已經轉成紅褐色，或聞起來發酸、有酒味而不是清甜味，請直接丟棄。貯藏中的甘蔗長黴正是需要嚴格把關的原因，而蔗心變色就是看得見的警訊。現榨甘蔗汁極易敗壞，當天就要喝完。",
+    "freezer": "甘蔗沒有冷凍保存期限，我們也不會自己編一個。削好的蔗段是可以冷凍的——它幾乎只有糖和水，凍過之後直接啃口感也不差——但沒有人公布過品質期限。更實用的做法是榨成汁後分裝冷凍，因為多數人要的本來就是汁，而甘蔗汁用其他方式根本存不住。",
+    "thawing": "冷凍甘蔗汁請放冷藏室解凍並當天喝完，放久會分層變色。冷凍蔗段建議直接啃，不要解凍，解凍後會軟塌出水。",
+    "spoilage": [
+      "蔗心由淡黃白轉為紅褐色或出現條紋",
+      "聞起來酸、有酒味或發酵味，而不是清爽的甜味",
+      "切口或皮下長黴",
+      "蔗段已經乾成沒有汁的粗纖維枯柴"
+    ],
+    "tips": [
+      "挑切口濕潤新鮮、沒有變色的。",
+      "買之前或用之前橫切一段，確認蔗心是淡色的。",
+      "削好的蔗段要包緊；不包的話幾小時就乾掉。",
+      "現榨甘蔗汁當天喝完，那是最容易壞的飲料之一。"
+    ],
+    "faq": [
+      {"q": "甘蔗可以放多久？", "a": "沒有公布的數字。比照瓜類來看：整根放陰涼避光處約 3～5 天，削切後冷藏 1～2 週。"},
+      {"q": "甘蔗可以冷凍嗎？", "a": "沒有公布的冷凍期限，所以我們不給數字。削好的蔗段可以冷凍、凍著啃也不錯，但榨成汁分裝冷凍更實用。"},
+      {"q": "甘蔗裡面變紅了還能吃嗎？", "a": "不能。蔗心變紅褐色代表內部已經劣變，通常伴隨黴菌。請整根丟棄，不要只把變色的部分切掉。"},
+      {"q": "現榨甘蔗汁可以放多久？", "a": "當天喝完。它未經殺菌、糖分又高，發酵得很快，榨好就要立刻冷藏。"}
+    ]
+  }
+}

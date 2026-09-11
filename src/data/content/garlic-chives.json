@@ -1,0 +1,57 @@
+{
+  "slug": "garlic-chives",
+  "en": {
+    "name": "Garlic chives",
+    "aliases": ["Chinese chives", "nira", "flat chives", "ku chai"],
+    "summary": "Garlic chives are the flat, strap-like green leaves with a pronounced garlic smell, used in dumpling fillings, egg dishes and stir-fries. No figure is published for them, so treat them like chives: about 3–5 days refrigerated, and roughly 2–3 weeks chopped and frozen.",
+    "pantry": "Garlic chives should not be kept at room temperature. The leaves are thin and full of water and they go limp within hours in a warm kitchen; once bruised they turn slimy at the crease. There is no room-temperature figure and none should be assumed. Get them home and into the fridge quickly, and buy them close to when you will cook them.",
+    "fridge": "Wrap the bunch in slightly damp paper and bag it, then keep it in the crisper at 4 °C (40 °F) or below, where about 3–5 days is the working limit — a figure borrowed from chives rather than published for nira. The damp paper matters in both directions: too dry and the leaves go papery at the tips, too wet and they rot where they touch. Seal the bag properly as well. Cut garlic chives smell strongly and will scent everything else in the fridge, butter and milk included.",
+    "freezer": "Garlic chives freeze usefully, which is not true of most soft herbs. Chop them, dry off the surface water thoroughly, bag them flat and freeze at −18 °C (0 °F); about 2–3 weeks is the working limit, taken from the general guide for home-frozen vegetables rather than published for nira specifically. Use them straight from frozen — they go into a dumpling filling or an omelette without thawing. Surface water is the enemy here: wet chives freeze into a single brick.",
+    "thawing": "Do not thaw frozen garlic chives. Break off what you need and add it straight to the pan or the filling. Thawed chives collapse into a wet green paste and will water down a dumpling filling badly.",
+    "spoilage": [
+      "Slimy or yellowing leaves, especially where the bunch was tied",
+      "Leaves gone limp and translucent rather than firm and matt",
+      "Dry, papery, browning tips over more than the top centimetre",
+      "A sour or fermented smell rather than a sharp garlic one"
+    ],
+    "tips": [
+      "Choose bunches with firm, matt, deep green leaves and dry cut ends.",
+      "Wrap in slightly damp paper, bag, and seal the bag so the smell stays inside.",
+      "Dry chopped chives thoroughly before freezing or they set into a block.",
+      "Add them at the end of a stir-fry — thirty seconds is plenty."
+    ],
+    "faq": [
+      {"q": "How long do garlic chives last in the fridge?", "a": "About 3–5 days at 4 °C (40 °F) or below, wrapped in slightly damp paper and bagged. That figure is borrowed from chives; none is published for garlic chives."},
+      {"q": "Can you freeze garlic chives?", "a": "Yes, and it works well. Chop, dry the surface water, bag flat and freeze at −18 °C (0 °F) for about 2–3 weeks, using them straight from frozen."},
+      {"q": "Are garlic chives the same as chives?", "a": "No. Garlic chives have flat strap-like leaves and a garlic flavour; ordinary chives are hollow, round and onion-flavoured. They are not interchangeable in a dumpling filling."},
+      {"q": "Why does my fridge smell of garlic?", "a": "Cut garlic chives release sulphur compounds continuously, and fats absorb them readily. Seal them in a bag or a lidded box and keep butter and milk away from them."}
+    ]
+  },
+  "zh": {
+    "name": "韭菜",
+    "aliases": ["韮菜", "扁韭", "青韭", "韭黃（軟化栽培）"],
+    "summary": "韭菜是扁平帶狀、蒜味濃郁的綠葉，水餃餡、炒蛋和快炒都少不了它。它沒有公布的保存數據，可以比照西洋細香蔥來看：冷藏約 3～5 天，切碎冷凍約 2～3 週。",
+    "pantry": "韭菜不應該放室溫。葉片薄又多水，在溫暖的廚房裡幾小時就軟垂；一旦折到壓到，折痕處很快就變黏。這裡不提供常溫保存天數，也請不要自行推估。買回家盡快放冰箱，而且盡量接近要煮的時間再買。",
+    "fridge": "請用稍微沾濕的紙把整把包起來再裝袋，放在 4°C 以下的蔬果保鮮室，約 3～5 天是工作上限——這個數字是比照西洋細香蔥而來，並非針對韭菜公布。濕紙的濕度兩邊都要顧：太乾葉尖會變得像紙，太濕接觸處就會爛掉。袋口也要確實封好。切過的韭菜味道很衝，會把味道傳給冰箱裡所有東西，奶油和牛奶尤其容易吸味。",
+    "freezer": "韭菜的冷凍效果意外地好，這在軟質香草裡並不常見。切碎後把表面水分徹底擦乾，壓平裝袋放 −18°C；約 2～3 週是工作上限，這個數字取自家庭冷凍蔬菜的一般指引，並非針對韭菜公布。使用時不解凍，直接丟進餃子餡或蛋液裡。表面水分是這裡的大敵：濕的韭菜會凍成一整塊磚。",
+    "thawing": "冷凍韭菜不要解凍。需要多少剝多少，直接下鍋或拌進餡裡。解凍後的韭菜會化成濕軟的綠糊，會把水餃餡弄得很稀。",
+    "spoilage": [
+      "葉片變黏或泛黃，尤其是綁束的位置",
+      "葉子軟垂、變得半透明，失去原本的挺度和霧面感",
+      "葉尖乾枯發褐超過一公分以上",
+      "聞起來有酸味或發酵味，而不是嗆辣的蒜香"
+    ],
+    "tips": [
+      "挑葉片挺實、霧面深綠、切口乾爽的。",
+      "用微濕的紙包好裝袋，封緊袋口把味道關在裡面。",
+      "切碎後務必擦乾再冷凍，否則會凍成一整塊。",
+      "快炒時最後才下，三十秒就夠了。"
+    ],
+    "faq": [
+      {"q": "韭菜放冰箱可以放多久？", "a": "4°C 以下冷藏，用微濕的紙包好裝袋，約 3～5 天。這個數字是比照西洋細香蔥而來；韭菜本身沒有公布的數據。"},
+      {"q": "韭菜可以冷凍嗎？", "a": "可以，而且效果不錯。切碎、擦乾表面水分、壓平裝袋放 −18°C 約 2～3 週，使用時不解凍直接下鍋。"},
+      {"q": "韭菜和西洋細香蔥一樣嗎？", "a": "不一樣。韭菜葉片扁平、帶蒜味；西洋細香蔥（chives）是中空圓管狀、帶洋蔥味。包水餃時兩者不能互換。"},
+      {"q": "為什麼整個冰箱都是韭菜味？", "a": "切過的韭菜會持續釋出含硫化合物，而油脂特別容易吸味。請用密封袋或有蓋容器裝好，並讓奶油和牛奶離它遠一點。"}
+    ]
+  }
+}

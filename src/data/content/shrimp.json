@@ -1,0 +1,57 @@
+{
+  "slug": "shrimp",
+  "en": {
+    "name": "Shrimp",
+    "aliases": ["prawns", "raw shrimp", "king prawns", "tiger prawns"],
+    "summary": "Shrimp are shellfish sold raw or cooked, head-on or peeled, and they spoil quickly once out of the cold. Fresh shrimp keep 1–3 days in the fridge from the day of purchase, and 6–18 months at −18 °C (0 °F) for best quality.",
+    "pantry": "Shrimp must not be kept at room temperature. Raw shellfish can carry Vibrio bacteria, which multiply fast in warmth, and shrimp also blacken quickly through an enzyme reaction once they warm up. Two hours out of the cold is the limit and one hour above 32 °C (90 °F). If you bought them frozen, do not let them thaw on the way home.",
+    "fridge": "Keep shrimp at 4 °C (40 °F) or below in a covered container on the coldest shelf, ideally sitting on ice in a dish that drains, with the meltwater poured off. From the date of purchase they are good for 1–3 days. Head-on shrimp sit at the short end of that range because enzymes in the head break down the tail meat and turn it mushy; pulling the heads off on the day you buy them buys you time.",
+    "freezer": "Shrimp freeze exceptionally well, which is why most of the world's shrimp is sold frozen. Freeze them raw in a sealed bag, or cover peeled shrimp with water in a tub and freeze them in a block so no surface meets air. At −18 °C (0 °F) they are safe indefinitely and keep good quality for 6–18 months, the longer end applying to shrimp frozen properly at sea. Do not refreeze shrimp you bought already thawed at the fish counter.",
+    "thawing": "Thaw shrimp overnight in the fridge, or in a sealed bag under cold running water for 10–20 minutes if you need them quickly. Never thaw them on the counter or in hot water. Cook thawed shrimp the same day.",
+    "spoilage": [
+      "Ammonia or sharp sour smell — the clearest sign, and one to act on immediately",
+      "Shells that have turned black or the meat grey and blotchy",
+      "Slimy or gritty film on the shells that does not wash off",
+      "Mushy, falling-apart flesh instead of a firm springy texture"
+    ],
+    "tips": [
+      "Buy shrimp frozen where you can; that is usually fresher than thawed shrimp on display.",
+      "Remove the heads on the day of purchase if you are not cooking them straight away.",
+      "Freeze in a block of water rather than loose to prevent freezer burn.",
+      "Cook shrimp until the flesh is opaque and curled into a loose C shape — a tight O means overcooked."
+    ],
+    "faq": [
+      {"q": "How long do shrimp last in the fridge?", "a": "1–3 days from the day of purchase at 4 °C (40 °F) or below, kept on ice if possible. Head-on shrimp go soft sooner than headless ones."},
+      {"q": "Can you freeze shrimp?", "a": "Yes, and they freeze better than most seafood. At −18 °C (0 °F) they are safe indefinitely and keep good quality for 6–18 months."},
+      {"q": "How can you tell if shrimp have gone bad?", "a": "An ammonia smell means discard them at once. Blackened shells, grey blotchy meat, slime or mushy texture are also signs to throw them out."},
+      {"q": "Why do shrimp heads turn black?", "a": "That is melanosis, an enzyme reaction with air that starts at the head. Slight blackening is a cosmetic fault rather than spoilage, but it tells you the shrimp are no longer fresh."}
+    ]
+  },
+  "zh": {
+    "name": "蝦子",
+    "aliases": ["蝦", "白蝦", "草蝦", "明蝦", "生鮮蝦"],
+    "summary": "蝦子是常見的甲殼類，市面上有帶頭、去殼、生的與熟的各種形式，離開低溫後壞得很快。生鮮蝦從購買當天算起冷藏可放 1～3 天，−18°C 冷凍則以 6～18 個月內食用品質最佳。",
+    "pantry": "蝦子不能放室溫。生的甲殼類可能帶有腸炎弧菌，溫度一高就迅速繁殖；而且蝦子一回溫，酵素作用也會讓外殼快速發黑。離開低溫最多 2 小時，氣溫超過 32°C 時只有 1 小時。買冷凍蝦的話，回家路上不要讓它退冰。",
+    "fridge": "冷藏請保持 4°C 以下，裝進加蓋容器放在最冷的一層；最理想是放在有濾水的盒子裡鋪冰，並隨時倒掉融水。從購買日起可放 1～3 天。帶頭蝦要算在這個區間的短端，因為蝦頭裡的酵素會把蝦仁分解到軟爛——買回來當天先把頭拔掉，可以多撐一點時間。",
+    "freezer": "蝦子非常適合冷凍，這也是全球蝦貨多半以冷凍流通的原因。可以生蝦直接裝袋密封冷凍，或把去殼蝦仁放在保鮮盒裡加水淹過，整盒凍成冰磚，讓蝦肉完全不接觸空氣。放 −18°C 安全上可以無限期保存，品質則以 6～18 個月為佳，能到 18 個月的通常是船上就急速冷凍的貨。魚攤上已經解凍販售的蝦，不要再拿回去冷凍。",
+    "thawing": "解凍請放冷藏室退冰一晚；趕時間就裝密封袋泡冷水，約 10～20 分鐘。千萬不要放室溫或泡熱水。解凍後當天要煮完。",
+    "spoilage": [
+      "有阿摩尼亞味或刺鼻酸味——這是最明確的警訊，聞到就該丟",
+      "蝦殼整體發黑，或蝦肉變灰、出現斑塊",
+      "殼上有一層黏滑或粗糙的膜，沖水也去不掉",
+      "肉質軟爛一夾就散，失去原本彈牙的口感"
+    ],
+    "tips": [
+      "能買冷凍蝦就買冷凍蝦，通常比冰櫃上退冰陳列的更新鮮。",
+      "當天不煮的話，買回來先把蝦頭摘掉。",
+      "用水凍成冰磚比散裝冷凍更能避免凍傷（脫水乾化）。",
+      "蝦子煮到肉變不透明、彎成鬆鬆的 C 字形就好，捲成緊緊的 O 字形代表煮過頭了。"
+    ],
+    "faq": [
+      {"q": "蝦子放冰箱可以放多久？", "a": "4°C 以下冷藏，從購買當天算起 1～3 天，能鋪冰更好。帶頭蝦會比去頭的更快變軟。"},
+      {"q": "蝦子可以冷凍嗎？", "a": "可以，而且比大多數海鮮都耐凍。放 −18°C 安全上可無限期保存，品質以 6～18 個月內為佳。"},
+      {"q": "怎麼判斷蝦子壞掉了？", "a": "聞到阿摩尼亞味就要立刻丟棄。蝦殼發黑、蝦肉變灰有斑、表面黏滑、肉質軟爛，也都是不能吃的訊號。"},
+      {"q": "蝦頭變黑是壞掉了嗎？", "a": "那是黑變（melanosis），蝦體酵素接觸空氣後從頭部開始的反應。輕微發黑主要是外觀問題而非腐敗，但也代表這批蝦已經不新鮮了。"}
+    ]
+  }
+}

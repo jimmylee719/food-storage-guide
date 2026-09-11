@@ -1,0 +1,57 @@
+{
+  "slug": "chinese-yam",
+  "en": {
+    "name": "Chinese yam",
+    "aliases": ["nagaimo", "yamaimo", "mountain yam", "shan yao", "huai shan"],
+    "summary": "Chinese yam is the long, pale, slippery tuber grated raw into tororo or simmered in soups. A whole unbroken tuber keeps 3–4 weeks at room temperature if it does not dry out; a cut piece lasts only 5–7 days refrigerated, and grated yam freezes for about 2–3 weeks.",
+    "pantry": "A whole tuber is the one that keeps, and the rule is simply not to let it dry out: put it in a plastic bag and keep it at room temperature, out of the wind and out of direct sun. Roughly 3–4 weeks is the working range — that number is borrowed from potatoes, the nearest starchy tuber with a published figure, since the method is documented but the duration is not. Do not wash off the sawdust or soil it came packed in; that is what stops it drying.",
+    "fridge": "The fridge is for cut pieces, not whole tubers. Wrap the cut face tightly in cling film and refrigerate at 4 °C (40 °F) or below, where 5–7 days is the limit — again a figure borrowed from potatoes. The exposed flesh oxidises brown and then turns slimy, so trim a thin slice off the face before you use it. If you only need half, cut once and wrap the remainder immediately rather than cutting it into pieces you will not use today.",
+    "freezer": "Grated yam freezes well, which is the sensible way to keep a tuber you have already cut into. Grate it, bag it flat and freeze at −18 °C (0 °F); about 2–3 weeks is the working limit, taken from the general guide for home-frozen vegetables rather than published for yam specifically. Grated yam is used straight from frozen — snap off what you need and return the rest. Whole chunks can be frozen too, but they thaw watery and lose the slippery texture entirely.",
+    "thawing": "Do not thaw grated yam fully; let it soften for a few minutes at room temperature or add it to hot soup from frozen. Fully thawed yam separates into water and starch and will not whip back together.",
+    "spoilage": [
+      "Soft, wet or sunken patches along the tuber",
+      "Mould at the cut end or in the bag",
+      "Flesh gone brown, grey or slimy when cut across",
+      "A sour or fermented smell rather than a clean earthy one"
+    ],
+    "tips": [
+      "Buy a whole tuber rather than a cut piece if you want it to keep.",
+      "Keep it bagged so it does not dry out, but not sealed wet.",
+      "Wear gloves when peeling — the raw sap makes many people's hands itch.",
+      "A splash of vinegar in the water you rinse peeled yam in keeps it white."
+    ],
+    "faq": [
+      {"q": "How long does Chinese yam last?", "a": "About 3–4 weeks whole at room temperature in a bag, and 5–7 days for a cut piece in the fridge. Both figures are borrowed from potatoes; the storage method is documented but the durations are not."},
+      {"q": "Does Chinese yam need refrigerating?", "a": "Not while it is whole — a bag at room temperature, out of wind and sun, keeps it best. Once you cut it, wrap the face and refrigerate."},
+      {"q": "Can you freeze Chinese yam?", "a": "Yes, grated and bagged flat at −18 °C (0 °F) for about 2–3 weeks, used straight from frozen. That figure comes from the general home-freezing guide, not from a yam-specific number."},
+      {"q": "Why do my hands itch after peeling yam?", "a": "The raw sap contains needle-shaped calcium oxalate crystals that irritate skin. Wear gloves, or rinse your hands in vinegar water afterwards."}
+    ]
+  },
+  "zh": {
+    "name": "山藥",
+    "aliases": ["淮山", "長芋", "日本山藥", "白山藥", "薯蕷"],
+    "summary": "山藥是細長、色淺、口感黏滑的塊莖，可以磨成泥生食，也可以切塊燉湯。整根未切開的在室溫下只要不乾掉可放 3～4 週；切開的冷藏只剩 5～7 天；磨成泥冷凍約 2～3 週。",
+    "pantry": "耐放的是整根未切開的山藥，而規則其實只有一條：不要讓它乾掉。請裝進塑膠袋放在室溫，避開風口和陽光直射。大約 3～4 週是工作上的參考範圍——這個數字是比照馬鈴薯而來（那是最接近、又有公布數字的澱粉質塊莖），因為保存方法有依據，天數則沒有。包裝裡附的木屑或表面的土不要洗掉，那正是防止它乾燥的東西。",
+    "fridge": "冰箱是給切開的山藥用的，不是給整根用的。切面請用保鮮膜緊貼包好，冷藏於 4°C 以下，5～7 天是上限——同樣是比照馬鈴薯而來。露出的肉會先氧化發褐、接著變黏，所以要用之前把切面薄薄削掉一層。如果只需要一半，就只切一刀並立刻把剩下的包好，不要一次切成今天用不完的塊。",
+    "freezer": "磨成泥的山藥很適合冷凍，這也是處理已經切開的山藥最合理的方式。磨好後壓平裝袋放 −18°C；約 2～3 週是工作上限，這個數字取自家庭冷凍蔬菜的一般指引，並非針對山藥公布。冷凍山藥泥可以直接使用——需要多少剝多少，其餘放回去。整塊也能冷凍，但解凍後會出水，黏滑口感完全消失。",
+    "thawing": "山藥泥不要完全解凍；在室溫放幾分鐘讓它微軟，或直接下熱湯。完全解凍後會水和澱粉分離，再怎麼攪也拌不回原本的狀態。",
+    "spoilage": [
+      "塊莖上出現濕軟或凹陷的區塊",
+      "切口或袋內長黴",
+      "橫切後肉質發褐、轉灰或變得黏滑",
+      "聞起來有酸味或發酵味，而不是乾淨的土香"
+    ],
+    "tips": [
+      "想放久一點就買整根，不要買切好的段。",
+      "裝袋防乾燥，但不要濕著密封。",
+      "削皮時戴手套——生的黏液會讓很多人手癢。",
+      "削好的山藥泡在加了一點醋的水裡，可以保持白皙。"
+    ],
+    "faq": [
+      {"q": "山藥可以放多久？", "a": "整根裝袋放室溫約 3～4 週；切開的冷藏 5～7 天。兩個數字都是比照馬鈴薯而來，保存方法有依據，天數則沒有。"},
+      {"q": "山藥需要冷藏嗎？", "a": "整根不用——裝袋放在室溫、避開風和陽光最好。一旦切開，切面包好後就要冷藏。"},
+      {"q": "山藥可以冷凍嗎？", "a": "可以，磨成泥壓平裝袋放 −18°C 約 2～3 週，使用時直接取用不解凍。這個數字來自家庭冷凍蔬菜的一般指引，不是山藥專屬的數據。"},
+      {"q": "削山藥為什麼手會癢？", "a": "生山藥的黏液含有針狀的草酸鈣結晶，會刺激皮膚。請戴手套，或事後用醋水洗手。"}
+    ]
+  }
+}

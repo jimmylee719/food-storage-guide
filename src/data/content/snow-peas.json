@@ -1,0 +1,91 @@
+{
+  "slug": "snow-peas",
+  "en": {
+    "name": "Snow peas",
+    "aliases": [
+      "mangetout",
+      "Chinese pea pods",
+      "flat pea pods",
+      "sugar peas"
+    ],
+    "summary": "Snow peas are flat, translucent pea pods eaten whole before the peas inside swell. Refrigerated at 4 °C (40 °F) or below they keep 3–5 days from the day of purchase, and blanched and frozen they hold good quality for about 8 months.",
+    "pantry": "Snow peas should not be kept at room temperature. The pods are very thin, so they lose water fast and go limp within a few hours in a warm kitchen, and the sugar that makes them sweet starts turning to starch immediately after picking. There is no room-temperature figure here and none should be assumed. Refrigerate them unwashed as soon as you get home.",
+    "fridge": "Store snow peas unwashed in a perforated bag in the crisper at 4 °C (40 °F) or below, where they keep 3–5 days from purchase. Keep them dry and loose; condensation in a sealed bag turns the pods slimy where they touch. Do not string or trim them until you cook, since every trimmed end is another place to lose water. They are best eaten as soon as possible — the sweetness fades noticeably even within that short window.",
+    "freezer": "Snow peas freeze well after a very brief blanch. String them, boil for 1–2 minutes only — any longer and they go limp — plunge into iced water, drain thoroughly and freeze flat in a sealed bag at −18 °C (0 °F). They are safe indefinitely and keep good quality for about 8 months. The short blanch matters more here than with a thick vegetable, because there is so little pod to work with.",
+    "thawing": "Cook snow peas from frozen, straight into a hot wok or a pot of soup, adding them at the very end. Thawing first leaves them limp and watery and they will not stay crisp in the pan.",
+    "spoilage": [
+      "Pods gone limp and leathery, bending instead of snapping",
+      "Yellowing or translucent-looking pods",
+      "Slimy or blackened patches, especially where pods were pressed together",
+      "A sour smell, or mould at the stem ends"
+    ],
+    "tips": [
+      "Choose flat, bright green pods; bulging pods mean the peas inside have swollen and the pod will be tough.",
+      "String them just before cooking — pull the tip down along the straight edge.",
+      "Cook them for barely a minute; snow peas go from crisp to grey in moments.",
+      "Store unwashed and dry in a perforated bag."
+    ],
+    "faq": [
+      {
+        "q": "How long do snow peas last in the fridge?",
+        "a": "3–5 days from the day of purchase at 4 °C (40 °F) or below, unwashed and dry in a perforated bag in the crisper."
+      },
+      {
+        "q": "Can you freeze snow peas?",
+        "a": "Yes, after a brief 1–2 minute blanch. Frozen flat at −18 °C (0 °F) they keep good quality for about 8 months."
+      },
+      {
+        "q": "What is the difference between snow peas and sugar snaps?",
+        "a": "Snow peas are flat and eaten before the peas develop; sugar snaps are plump and rounded with fully formed peas inside. Both pods are eaten whole, but sugar snaps are sweeter and crunchier."
+      },
+      {
+        "q": "Do you have to string snow peas?",
+        "a": "For all but the youngest pods, yes. Snap the stem end and pull it down along the straight edge to take the string with it."
+      }
+    ]
+  },
+  "zh": {
+    "name": "荷蘭豆",
+    "aliases": [
+      "豌豆莢",
+      "扁豆莢",
+      "雪豆",
+      "軟莢豌豆"
+    ],
+    "summary": "荷蘭豆是趁裡面豆仁還沒長大時連莢吃的扁平豌豆莢。4°C 以下冷藏，從購買當天算起可放 3～5 天；汆燙後冷凍則可維持約 8 個月的良好品質。",
+    "pantry": "荷蘭豆不應該放室溫。豆莢極薄，失水非常快，在溫暖的廚房裡幾小時就軟垂；而讓它清甜的糖分，在採收後也立刻開始轉成澱粉。這裡不提供常溫保存天數，也請不要自行推估。買回家請不清洗直接冷藏。",
+    "fridge": "不清洗，裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 3～5 天。請保持乾燥、不要壓實；密封袋裡凝結的水會讓豆莢互相接觸的地方變黏。要煮之前才撕除粗絲和摘蒂，因為每一個切口都是失水的出口。這種菜愈早吃愈好——即使在這短短幾天內，甜味也會明顯下降。",
+    "freezer": "荷蘭豆只要非常短暫地汆燙就很適合冷凍。撕掉粗絲，滾水煮 1～2 分鐘就好——再久就軟了——泡冰水冷卻，徹底瀝乾後平鋪裝密封袋放 −18°C。安全上可無限期保存，品質可維持約 8 個月。汆燙時間短在這裡比對厚實蔬菜更重要，因為豆莢本身就沒多少厚度可以承受。",
+    "thawing": "荷蘭豆請不解凍直接下熱鍋或下湯，而且在最後一刻才放。先解凍只會軟爛出水，下鍋也留不住脆度。",
+    "spoilage": [
+      "豆莢軟韌像皮革，折起來只是彎而不會斷",
+      "豆莢泛黃或看起來變得半透明",
+      "出現黏滑或發黑的斑塊，尤其是豆莢互相壓著的地方",
+      "有酸味，或蒂頭處長黴"
+    ],
+    "tips": [
+      "挑扁平、翠綠的；鼓起來的表示裡面豆仁已經長大，莢會變老。",
+      "要煮之前才撕絲——從蒂頭折下來，沿著直邊往下拉。",
+      "下鍋一分鐘左右就好；荷蘭豆從爽脆到發灰只是一瞬間的事。",
+      "不清洗、保持乾燥裝在打洞袋裡保存。"
+    ],
+    "faq": [
+      {
+        "q": "荷蘭豆放冰箱可以放多久？",
+        "a": "4°C 以下冷藏，不清洗、保持乾燥裝在打洞袋放蔬果室，從購買當天算起 3～5 天。"
+      },
+      {
+        "q": "荷蘭豆可以冷凍嗎？",
+        "a": "可以，先短暫汆燙 1～2 分鐘。平鋪冷凍於 −18°C，品質可維持約 8 個月。"
+      },
+      {
+        "q": "荷蘭豆和甜豆有什麼不同？",
+        "a": "荷蘭豆是扁的，趁豆仁還沒長大就吃；甜豆則是圓鼓鼓的，裡面豆仁已經飽滿。兩者都連莢吃，但甜豆更甜也更脆。"
+      },
+      {
+        "q": "荷蘭豆一定要撕絲嗎？",
+        "a": "除了最嫩的莢之外都要。把蒂頭折斷後沿著直邊往下拉，粗絲就會跟著下來。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "fresh-ramen-noodles",
+  "en": {
+    "name": "Fresh ramen noodles",
+    "aliases": ["raw ramen noodles", "nama men", "alkaline noodles", "par-boiled ramen", "fresh Chinese noodles"],
+    "summary": "Fresh ramen noodles come either raw or already par-boiled, sold chilled in a sealed pack. There is no general day count for them and we will not invent one — the printed use-by date is the answer, backed by the rule that they must be held at 10 °C or below. Opened, use them within a day or two; frozen, about two months.",
+    "pantry": "Fresh ramen is a high-moisture refrigerated food and it does not belong on a shelf. Hygiene rules for fresh-noodle makers classify both raw and par-boiled noodles as refrigerated goods that must be held at 10 °C or below, and require boiled noodles to be chilled to that temperature within minutes of leaving the water. Dried noodle timelines do not apply here at all — these are two different products that happen to share a shape.",
+    "fridge": "Treat the printed use-by date as the real limit and keep the pack cold: in the body of the fridge, not in the door, where the temperature swings every time it opens. The published rule is 10 °C or below, and a domestic fridge running at 4 °C (40 °F) or below is comfortably inside that. No agency publishes a home day count, so any generic figure you see is somebody's estimate. Once the pack is open, the acid dip and modified atmosphere that were holding the noodles stop working, and a working limit of one to two days applies — a figure borrowed from fresh pasta rather than published for ramen.",
+    "freezer": "Freezing is the right move if you are not going to cook them soon. Freeze the pack unopened, or portion the noodles into single servings and bag them flat, at −18 °C (0 °F). About two months is a sensible quality limit, borrowed from fresh pasta rather than documented for fresh ramen. Boil them straight from frozen — they take only a little longer than fresh and cook far better than thawed noodles, which turn gummy.",
+    "thawing": "Do not thaw fresh ramen. Drop the frozen block into fast-boiling water and loosen it with chopsticks as it softens. Thawing first makes the strands stick together into a solid mass.",
+    "spoilage": [
+      "A sour, alcoholic or fermented smell when the pack is opened",
+      "A slimy or sticky film on the strands beyond their normal light dusting",
+      "Grey, pink or greenish patches, or any fuzzy mould",
+      "A puffed or gas-filled pack, or a use-by date that has passed"
+    ],
+    "tips": [
+      "Buy fresh ramen last on your shopping trip and keep it cold on the way home.",
+      "Freeze the packs you will not cook this week on the day you buy them.",
+      "Loosen the strands with your hands before they go into the water so they cook evenly.",
+      "Cook the noodles in a separate pot from the soup; the surface starch will cloud your broth."
+    ],
+    "faq": [
+      {"q": "How long do fresh ramen noodles last in the fridge?", "a": "There is no general published figure. Follow the printed use-by date and keep the pack at 10 °C or below — a home fridge at 4 °C is better. Once opened, use them within a day or two."},
+      {"q": "Can you freeze fresh ramen noodles?", "a": "Yes, and it is the best way to keep them. Freeze the pack unopened at −18 °C (0 °F); about two months is a sensible quality limit, borrowed from fresh pasta. Boil from frozen."},
+      {"q": "Can you store fresh ramen like instant noodles?", "a": "No. Instant and dried noodles are shelf-stable because the water has been removed. Fresh ramen is a chilled, high-moisture food and must stay refrigerated."},
+      {"q": "The noodles smell slightly sour — are they still good?", "a": "No. A sour or alcoholic smell means fermentation has started in the pack. Throw them away rather than trying to rinse or boil it off."}
+    ]
+  },
+  "zh": {
+    "name": "生拉麵",
+    "aliases": ["生麵", "鹼水麵", "油麵", "拉麵生麵", "熟麵（冷藏）"],
+    "summary": "生拉麵分成完全生的和已經汆燙過的兩種，都以冷藏密封包裝販售。它沒有一個通用的天數，我們也不會硬編——包裝上的有效日期就是答案，背後的規則是必須保存在 10°C 以下。開封後一兩天內煮完，冷凍則約兩個月。",
+    "pantry": "生拉麵是高含水的冷藏食品，不屬於常溫貨架。日本針對生麵業者的衛生管理規範，把生麵和茹麵都歸為必須維持 10°C 以下的冷藏品，而且要求煮好的麵條在離水後數分鐘內就降到該溫度。乾麵的保存期限在這裡完全不適用——它們只是形狀像，實際上是兩種不同的食品。",
+    "fridge": "請把包裝上的有效日期當成真正的期限，並讓它保持低溫：放在冰箱內部而不是門邊，門邊每開一次溫度就跳一次。公布的規則是 10°C 以下，家用冰箱維持在 4°C 以下就綽綽有餘。沒有任何單位公布家庭保存的天數，所以看到的通用數字多半是估的。一旦拆封，原本靠酸浸與充氣包裝維持的保護就失效了，此時以一到兩天為工作上限——這個數字是比照新鮮義大利麵而來，並非針對拉麵公布。",
+    "freezer": "不打算馬上煮的話，冷凍是正確做法。可以整包未開封直接冷凍，或分成單人份壓平裝袋，放 −18°C。品質上以約兩個月為合理參考，這是比照新鮮義大利麵而來，並非針對生拉麵的公布數據。煮的時候不解凍直接下滾水——只比新鮮麵多煮一點點時間，而且比解凍後的麵好太多，後者會糊成一團。",
+    "thawing": "生拉麵不要解凍。整塊冷凍麵直接丟進大滾的水裡，一邊用筷子撥散。先解凍只會讓麵條黏成一坨。",
+    "spoilage": [
+      "拆開包裝聞到酸味、酒味或發酵味",
+      "麵條表面除了正常的手粉之外，還出現黏滑的膜",
+      "出現灰色、粉紅或泛綠的斑塊，或任何毛狀黴",
+      "包裝鼓脹產氣，或已經超過有效日期"
+    ],
+    "tips": [
+      "採買時最後才拿，回程保持低溫。",
+      "這週煮不完的份量，買回來當天就冷凍。",
+      "下鍋前先用手把麵條抓散，受熱才會均勻。",
+      "煮麵和煮湯請分兩鍋；麵條表面的澱粉會讓湯頭混濁。"
+    ],
+    "faq": [
+      {"q": "生拉麵放冰箱可以放多久？", "a": "沒有通用的公布數字。請依包裝上的有效日期，並保存在 10°C 以下（家用冰箱建議 4°C 以下）。開封後一到兩天內煮完。"},
+      {"q": "生拉麵可以冷凍嗎？", "a": "可以，而且是最好的保存方式。整包未開封放 −18°C；品質上約兩個月是合理參考，這是比照新鮮義大利麵而來。煮時不解凍直接下鍋。"},
+      {"q": "生拉麵可以像泡麵一樣常溫放嗎？", "a": "不行。泡麵和乾麵之所以能常溫保存，是因為水分已經去除。生拉麵是高含水的冷藏食品，必須全程冷藏。"},
+      {"q": "麵有點酸味還能煮嗎？", "a": "不能。酸味或酒味代表包裝內已經開始發酵。請直接丟棄，不要想用沖洗或久煮蓋過去。"}
+    ]
+  }
+}

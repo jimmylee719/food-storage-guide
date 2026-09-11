@@ -1,0 +1,57 @@
+{
+  "slug": "nopales",
+  "en": {
+    "name": "Nopales",
+    "aliases": ["nopalitos", "cactus paddles", "prickly pear pads", "penca de nopal"],
+    "summary": "Nopales are the flattened pads of the prickly pear cactus, cleaned of spines and cooked like a vegetable. Whole pads hold good quality for 3 weeks at 5 °C (41 °F) or 2 weeks at 10 °C (50 °F) at very high humidity. Diced nopalitos are a different story — about six days.",
+    "pantry": "Nopales are not a counter vegetable, though the pads are tough enough to survive a day or two. The real reason not to leave them out is that diced pads last only about a day at 20 °C (68 °F), and even whole pads lose water and toughen. Deal with them as soon as you get home: scrape or singe off every spine and glochid — the tiny hair-like barbs are worse than the obvious spines and are the reason to be thorough.",
+    "fridge": "Whole pads keep for about 2–3 weeks refrigerated: three weeks at 5 °C (41 °F) or two weeks at 10 °C (50 °F), at 95–99 % humidity. They are chilling sensitive below 10 °C, so past three weeks in a cold fridge expect bronzing and decay starting at the cut stem end. Remove every spine first, keep the pads dry, and do not sprinkle them with water or top them with ice. Diced nopalitos are far more perishable — around six days at 5 °C — and must not be washed after cutting, because washing makes the mucilage run and the cut faces discolour. A cooked nopalitos dish, cooled before it goes in, keeps up to two weeks refrigerated.",
+    "freezer": "Blanch or griddle the diced pads first to purge the viscous sap, drain them well, then freeze at −18 °C (0 °F), where 6–8 months is the working limit — a figure borrowed from peppers, since no source gives a frozen life for cactus pads. Freezing raw dice is a poor idea: the mucilage stays in, and what thaws is a slippery green mass rather than the firm, green-bean-like pieces you wanted.",
+    "thawing": "Add frozen nopalitos straight to a pan, a stew or a salsa without thawing. If you thaw them, drain the liquid off before they go into anything, or the dish will be slippery.",
+    "spoilage": [
+      "Bronzing and decay starting at the cut stem end",
+      "Soft, wet or collapsing patches on the pad",
+      "Mould at the cut end or in a scar where a spine was removed",
+      "A sour or fermented smell instead of a fresh, faintly green-bean one"
+    ],
+    "tips": [
+      "Remove every spine and glochid before storing, not before cooking.",
+      "Keep whole pads dry; do not sprinkle or ice them.",
+      "Do not wash diced nopalitos — washing makes the mucilage run.",
+      "Griddle the pads whole over high heat to purge the sap before dicing; it works better than boiling."
+    ],
+    "faq": [
+      {"q": "How long do nopales last in the fridge?", "a": "Whole pads keep about 3 weeks at 5 °C (41 °F) or 2 weeks at 10 °C (50 °F) at high humidity. Diced nopalitos last only about six days."},
+      {"q": "Can you freeze nopales?", "a": "Yes, after blanching or griddling the dice to purge the sap. About 6–8 months at −18 °C (0 °F) is the working limit, borrowed from peppers; no source publishes one for cactus pads."},
+      {"q": "How do you get rid of the slime?", "a": "Griddling or blanching the pads purges most of the viscous sap. Do not wash the pieces after dicing, which makes the mucilage run instead."},
+      {"q": "Do you have to remove the small hairs?", "a": "Yes, and thoroughly. The tiny glochids are harder to see than the obvious spines and far more irritating if they get into skin. Scrape or singe them off before storing."}
+    ]
+  },
+  "zh": {
+    "name": "食用仙人掌",
+    "aliases": ["仙人掌葉", "仙人掌莖片", "nopales", "nopalitos"],
+    "summary": "nopales 是仙人掌扁平的莖片，去掉刺之後當蔬菜料理。完整的莖片在極高濕度下，5°C 可維持約三週、10°C 約兩週的良好品質。切丁後的 nopalitos 則是另一回事——大約只有六天。",
+    "pantry": "食用仙人掌不是放檯面的蔬菜，雖然莖片夠硬、放個一兩天也撐得住。真正不該放室溫的理由是：切丁後在 20°C 只能放大約一天，而完整的莖片也會失水變韌。買回家就先處理：把每一根刺和刺座上的細鉤毛都刮掉或燒掉——那些細如毛髮的倒鉤比明顯的大刺麻煩得多，也正是必須處理徹底的原因。",
+    "fridge": "完整莖片冷藏約可放 2～3 週：在相對濕度 95～99% 的條件下，5°C 約三週、10°C 約兩週。它在 10°C 以下會有低溫敏感反應，所以在冷藏庫放超過三週，可以預期切口端會出現褐化與腐敗。請先把刺完全去除，保持莖片乾燥，不要灑水、也不要壓冰。切丁的 nopalitos 不耐放得多——5°C 下約六天——而且切完不可以再洗，因為沖洗會讓黏液流出、切面也會變色。至於煮好的仙人掌料理，放涼後再冷藏，最多可放兩週。",
+    "freezer": "請先把切丁的莖片汆燙或用熱鐵板煎過以逼出黏液，徹底瀝乾後冷凍於 −18°C，6～8 個月是工作上限——這個數字是比照甜椒而來，因為沒有任何來源給出仙人掌莖片的冷凍壽命。生的直接切丁冷凍不是好主意：黏液還在裡面，解凍後只剩一團滑膩的綠色物質，而不是你要的、口感像四季豆的方塊。",
+    "thawing": "冷凍 nopalitos 可以不解凍直接下鍋、下燉菜或拌莎莎醬。如果解凍了，請先把滲出的液體瀝掉再入菜，否則整道菜都會黏黏的。",
+    "spoilage": [
+      "切口端開始褐化並往內腐敗",
+      "莖片出現軟爛、滲水或塌陷的區塊",
+      "切口或去刺留下的疤痕處長黴",
+      "有酸味或發酵味，而不是清新、略帶四季豆氣息的味道"
+    ],
+    "tips": [
+      "在保存前就把刺和細鉤毛全部去除，不要等到要煮才處理。",
+      "完整莖片保持乾燥；不要灑水、不要壓冰。",
+      "切丁後不要沖洗——沖洗會讓黏液流出來。",
+      "整片用大火煎烤逼出黏液後再切丁，效果比水煮好。"
+    ],
+    "faq": [
+      {"q": "食用仙人掌放冰箱可以放多久？", "a": "高濕度下，完整莖片在 5°C 約三週、10°C 約兩週。切丁的 nopalitos 只有約六天。"},
+      {"q": "食用仙人掌可以冷凍嗎？", "a": "可以，先把切丁的莖片汆燙或煎過逼出黏液。−18°C 下約 6～8 個月是工作上限，這是比照甜椒而來；沒有來源為仙人掌莖片公布過數字。"},
+      {"q": "怎麼去掉那股黏液？", "a": "整片煎烤或汆燙可以逼掉大部分黏液。切丁之後不要再沖洗，沖洗反而會讓黏液一直流出來。"},
+      {"q": "表面的細毛一定要清掉嗎？", "a": "一定，而且要徹底。那些細鉤毛比明顯的大刺更難看見，刺進皮膚也更難受。請在保存前就刮掉或燒掉。"}
+    ]
+  }
+}

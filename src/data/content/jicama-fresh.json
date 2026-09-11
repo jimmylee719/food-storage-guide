@@ -1,0 +1,91 @@
+{
+  "slug": "jicama-fresh",
+  "en": {
+    "name": "Jicama",
+    "aliases": [
+      "yam bean",
+      "Mexican turnip",
+      "sa got",
+      "Mexican yam bean"
+    ],
+    "summary": "Jicama is a large, brown-skinned root with crisp white flesh that stays crunchy and sweet even raw. Kept dry and whole it can last up to 4 months from purchase in good conditions, or only 1–2 weeks if it is handled badly; refrigerated it keeps 2–3 weeks.",
+    "pantry": "A whole, undamaged jicama is a remarkable keeper: up to four months from purchase, though 1–2 weeks is what you get if it is handled inappropriately, and the difference is almost entirely about moisture and bruising. Keep it dry, whole, unwrapped and in a cool dark airy place, and do not wash it before storing. Damp skin is what starts the rot, and every scrape or bruise becomes an entry point.",
+    "fridge": "Refrigerated, jicama keeps 2–3 weeks from purchase — shorter than its best pantry life, because the fridge is humid and jicama is chilling sensitive. Keep it free from moisture; chilling injury shows up as decay, discolouration or loss of the texture that is the entire point of the vegetable. The fridge is really for pieces you have already cut: wrap the cut face tightly or submerge the cut pieces in water, and use them within a few days.",
+    "freezer": "There is no freezer timeline for jicama in our data and freezing it would defeat the purpose. Its whole appeal is a crunch that survives being eaten raw, and freezing bursts the cells that provide it — you would thaw a limp, watery root. Nothing unsafe would happen; there would simply be nothing worth eating. Keep a whole root cool and dry instead, which it does far better than most vegetables.",
+    "thawing": null,
+    "spoilage": [
+      "Soft, wet or sunken patches, especially where the skin was scraped",
+      "Mould on the skin, usually starting at a bruise or the stem end",
+      "Flesh gone translucent, grey or slimy when cut",
+      "A sour or fermented smell instead of a faintly sweet, clean one"
+    ],
+    "tips": [
+      "Choose roots that are firm, dry and heavy, with unbroken skin and no soft spots.",
+      "Do not wash it before storing — dry skin is what makes it keep.",
+      "Peel thickly with a knife; the skin and the fibrous layer under it both come off.",
+      "Keep cut pieces in water in the fridge so they stay white and crisp."
+    ],
+    "faq": [
+      {
+        "q": "How long does jicama last?",
+        "a": "Up to 4 months from purchase kept dry and whole in a cool dark place, or only 1–2 weeks if it has been damaged or stored damp. Refrigerated, 2–3 weeks."
+      },
+      {
+        "q": "Does jicama need to be refrigerated?",
+        "a": "Not while whole — a cool dry place suits it better and keeps it much longer. Refrigerate it once it has been cut."
+      },
+      {
+        "q": "Can you freeze jicama?",
+        "a": "No timeline exists and there is no point. Freezing bursts the cells that give jicama its crunch, which is the only reason to eat it."
+      },
+      {
+        "q": "Can you eat jicama raw?",
+        "a": "Yes, and that is how it is usually eaten — peeled, cut into sticks, and dressed with lime, salt and chilli. Peel it thoroughly; only the white flesh is eaten."
+      }
+    ]
+  },
+  "zh": {
+    "name": "豆薯",
+    "aliases": [
+      "涼薯",
+      "地瓜（閩南語）",
+      "沙葛",
+      "涼薯瓜"
+    ],
+    "summary": "豆薯是外皮褐色的大型塊根，白色的肉質爽脆清甜，生吃也很好吃。保持乾燥完整、條件良好時，從購買日起最長可放 4 個月；若處理不當就只有 1～2 週。冷藏則是 2～3 週。",
+    "pantry": "完整無傷的豆薯非常耐放：從購買日起最長可到 4 個月；但如果處理不當，就只剩 1～2 週，而這個差距幾乎完全取決於濕氣和碰傷。請保持乾燥、整顆不包裝，放在陰涼避光通風處，保存前也不要洗。表皮潮濕就是腐爛的起點，每一道刮痕或碰傷都會變成入侵口。",
+    "fridge": "冷藏從購買日起可放 2～3 週，比它在良好常溫條件下的表現短，因為冰箱濕度高，而豆薯又對低溫敏感。請務必保持乾燥；低溫傷害的表現是腐敗、變色，或失去那份脆度——而脆度正是這種蔬菜的全部意義。冰箱其實比較適合用來放已經切開的部分：切面包緊，或把切好的塊泡在水裡，並在幾天內吃完。",
+    "freezer": "我們的資料裡沒有豆薯的冷凍保存期限，而且冷凍它等於違背它的用途。它的價值全在那份連生吃都撐得住的脆度，而冷凍會撐破提供脆度的細胞——解凍後只剩一塊軟趴趴、會出水的根。這不會有安全問題，只是沒有什麼值得吃的東西了。整顆保持陰涼乾燥就好，它在這方面的表現遠勝多數蔬菜。",
+    "thawing": null,
+    "spoilage": [
+      "出現軟塌、滲水或凹陷的部位，尤其是表皮被刮傷的地方",
+      "表皮長黴，通常從碰傷處或蒂頭開始",
+      "切開後果肉變得半透明、轉灰或黏滑",
+      "有酸味或發酵味，而不是淡淡的清甜氣味"
+    ],
+    "tips": [
+      "挑結實、乾燥、有重量感、表皮完整沒有軟點的。",
+      "保存前不要洗——乾爽的表皮才是它耐放的原因。",
+      "用刀厚削一層，把外皮和底下那層纖維一起去掉。",
+      "切好的塊泡水冷藏，可以保持白皙爽脆。"
+    ],
+    "faq": [
+      {
+        "q": "豆薯可以放多久？",
+        "a": "保持乾燥完整、放在陰涼避光處，從購買日起最長 4 個月；若有碰傷或濕著保存就只有 1～2 週。冷藏則是 2～3 週。"
+      },
+      {
+        "q": "豆薯需要冷藏嗎？",
+        "a": "整顆的不用——陰涼乾燥的地方更適合，也放得久很多。切開之後才需要冷藏。"
+      },
+      {
+        "q": "豆薯可以冷凍嗎？",
+        "a": "沒有對應的期限，也沒有意義。冷凍會撐破讓它爽脆的細胞，而那是吃它的唯一理由。"
+      },
+      {
+        "q": "豆薯可以生吃嗎？",
+        "a": "可以，而且多半就是生吃——削皮切條，撒鹽、擠萊姆、加辣椒粉。請徹底削皮，只吃白色的肉。"
+      }
+    ]
+  }
+}

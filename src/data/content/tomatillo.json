@@ -1,0 +1,57 @@
+{
+  "slug": "tomatillo",
+  "en": {
+    "name": "Tomatillo",
+    "aliases": ["tomate verde", "miltomate", "husk tomato", "Mexican husk tomato"],
+    "summary": "Tomatillos are tart green fruits that grow inside a papery husk, the base of a salsa verde. At room temperature the husks dry but the fruit stays good for about a week; in the husk in a paper bag in the fridge they keep 3–4 weeks.",
+    "pantry": "At ambient temperature the husks dry out but the fruit itself stays in good condition for about 5–7 days. That is a legitimate way to keep them, particularly if your fridge runs cold — a dried husk looks worse than the fruit inside actually is. Keep them in a single layer out of direct sun, and leave the husks on: the husk is doing exactly the job it looks like it is doing.",
+    "fridge": "Store mature fruit in the husk in a paper bag in the fridge for up to three weeks, and 3–4 weeks is the realistic range. More precisely, tomatillos want 5–10 °C at 80–90 % humidity: at 10 °C (50 °F) they hold a full month without chilling injury, while at 5 °C (41 °F) pitting and decay begin after about three weeks, and sooner below that. So use the warmest drawer. Leave the husk on and do not wash them until you cook — the fruit underneath is coated in a sticky film that comes off easily under warm water at the point of use.",
+    "freezer": "No time limit is published for frozen tomatillos, so we do not give one, but the method is documented and simple: remove the husk, wash and dry the fruit, then place it in plastic bags in the freezer at −18 °C (0 °F). Whole frozen tomatillos go straight into a salsa verde from frozen. They will never be firm again, which does not matter for a sauce and rules them out for anything raw.",
+    "thawing": "Do not thaw tomatillos. Put them straight from the freezer into the pan, the blender or the roasting tray. Thawed fruit slumps and weeps, and you lose the juice you were going to use anyway.",
+    "spoilage": [
+      "Fruit gone soft, wrinkled or sunken under the husk",
+      "Mould inside the husk, usually where it sits against the fruit",
+      "Sticky black patches, or a husk that has gone wet rather than papery",
+      "A fermented or sour smell instead of a sharp, green, citrusy one"
+    ],
+    "tips": [
+      "Choose fruit that fills its husk completely; a loose husk means the fruit has shrunk.",
+      "Leave the husks on for storage and pull them off only at the moment of use.",
+      "Wash off the sticky coating under warm water just before cooking.",
+      "Roast or char tomatillos before blending for a deeper, less sharp salsa verde."
+    ],
+    "faq": [
+      {"q": "How long do tomatillos last?", "a": "About 5–7 days at room temperature, where the husks dry but the fruit stays good, and 3–4 weeks in the husk in a paper bag in the fridge."},
+      {"q": "Should tomatillos be refrigerated?", "a": "The fridge gives you several times longer, but use the warmest drawer — below about 5 °C (41 °F) pitting and decay start sooner. A week at room temperature is perfectly legitimate."},
+      {"q": "Can you freeze tomatillos?", "a": "Yes. Husk, wash, dry and bag them at −18 °C (0 °F). No time limit is published, so we do not quote one. Use them from frozen in a salsa verde."},
+      {"q": "Why are my tomatillos sticky?", "a": "The fruit produces a sticky coating under the husk. It is normal and washes off easily under warm water — do it just before cooking rather than before storing."}
+    ]
+  },
+  "zh": {
+    "name": "墨西哥酸漿",
+    "aliases": ["黏果酸漿", "綠番茄（墨西哥）", "tomatillo", "燈籠果（綠）"],
+    "summary": "tomatillo 是包在紙質果萼裡的酸味綠色果實，綠莎莎醬的基底。放在室溫下果萼會乾掉，但果實本身大約還能維持一週；連著果萼裝紙袋冷藏則可放 3～4 週。",
+    "pantry": "在室溫下，果萼會乾掉，但果實本身大約可以維持良好狀態 5～7 天。如果你家冰箱溫度偏低，這其實是個合理的保存方式——乾掉的果萼看起來比裡面的果實實際狀況糟得多。請單層攤放、避開陽光直射，並保留果萼：那層萼做的正是它看起來在做的事。",
+    "fridge": "成熟的果實請連著果萼裝進紙袋冷藏，最長可達三週，實際上 3～4 週是合理範圍。更精確地說，tomatillo 適合 5～10°C、相對濕度 80～90%：在 10°C 可以完整放一個月而不出現低溫傷害；在 5°C 則大約三週後開始出現凹點和腐敗，更低溫會更早。所以請放在冰箱溫度最高的那一格。果萼留著，要煮之前才洗——果皮上那層黏膜用溫水一沖就掉了。",
+    "freezer": "冷凍 tomatillo 沒有公布的保存期限，所以我們不提供數字；但做法有依據而且很簡單：剝掉果萼，洗淨擦乾，裝進塑膠袋放 −18°C。整顆冷凍的果實可以不解凍直接丟進綠莎莎醬。它不會再恢復硬挺，這對做醬完全沒差，但也等於排除了任何生食的用途。",
+    "thawing": "tomatillo 不要解凍。從冷凍庫直接下鍋、進調理機或放上烤盤。解凍後果實會塌掉滲汁，而那些汁本來就是你要用的。",
+    "spoilage": [
+      "果萼底下的果實變軟、起皺或凹陷",
+      "果萼內部長黴，通常在緊貼果實的地方",
+      "出現黏黏的黑斑，或果萼變濕而不是乾爽的紙質",
+      "有發酵味或酸敗味，而不是那股銳利的青綠柑橘香"
+    ],
+    "tips": [
+      "挑果實把果萼撐得滿滿的；果萼鬆垮就代表果實已經縮水。",
+      "保存時果萼留著，要用的那一刻才剝。",
+      "下鍋前用溫水把表面黏膜沖掉。",
+      "打成醬之前先烤過或炙燒，綠莎莎會更濃郁、酸味也更柔和。"
+    ],
+    "faq": [
+      {"q": "tomatillo 可以放多久？", "a": "室溫約 5～7 天，果萼會乾但果實仍好；連著果萼裝紙袋冷藏則是 3～4 週。"},
+      {"q": "tomatillo 需要冷藏嗎？", "a": "冷藏可以放好幾倍久，但請放在溫度最高的那一格——低於約 5°C，凹點和腐敗會提早出現。放室溫一週也是完全合理的做法。"},
+      {"q": "tomatillo 可以冷凍嗎？", "a": "可以。剝萼、洗淨、擦乾後裝袋放 −18°C。沒有公布的保存期限，所以我們不引用數字。使用時不解凍直接做綠莎莎。"},
+      {"q": "tomatillo 表面為什麼黏黏的？", "a": "果萼底下的果實本來就會分泌一層黏膜，屬正常現象，用溫水一沖就掉。請在要煮之前才沖，不要保存前就洗。"}
+    ]
+  }
+}

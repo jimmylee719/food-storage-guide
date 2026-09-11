@@ -1,0 +1,57 @@
+{
+  "slug": "summer-squash",
+  "en": {
+    "name": "Summer squash",
+    "aliases": ["yellow squash", "crookneck squash", "pattypan", "courgette family", "soft-skinned squash"],
+    "summary": "Summer squash are the thin-skinned squashes picked young and eaten whole, skin and seeds included — yellow squash, crookneck, pattypan and courgettes among them. They keep 1–5 days at room temperature and 4–5 days in the fridge from the day of purchase, and 10–12 months frozen at −18 °C (0 °F).",
+    "pantry": "Unlike winter squash, summer squash has no hard rind to protect it, so a cool room buys only 1–5 days from purchase, and the warm end of that range is optimistic in a hot kitchen. Keep them out of direct sun, in a single layer rather than piled up, and check daily for soft spots. If the room is above about 25 °C, the fridge is the better choice even though the skin dislikes the cold.",
+    "fridge": "Store summer squash whole and unwashed in a perforated bag in the crisper at 4 °C (40 °F) or below, where they keep 4–5 days from purchase. They are mildly chill-sensitive, so if your crisper runs very cold you may see pitting on the skin — that is cold damage, not spoilage, but it shortens their life. Do not cut them until you need them; a cut face weeps and goes slimy within a day or two even wrapped.",
+    "freezer": "Summer squash is mostly water, so it never comes back crisp — freeze it for cooking only. Slice or dice, blanch for 3 minutes, chill in iced water, drain very thoroughly and freeze in flat sealed bags at −18 °C (0 °F). Grated squash for cakes and fritters can be frozen after squeezing the water out. At −18 °C it is safe indefinitely and keeps good quality for 10–12 months.",
+    "thawing": "Cook frozen summer squash without thawing wherever you can — straight into soups, stews or a hot pan. If a recipe needs it thawed, thaw in the fridge and press the water out first, or the dish will be watery.",
+    "spoilage": [
+      "Soft, sunken or wrinkled patches, especially at the stem end",
+      "Slimy or sticky skin that does not rinse clean",
+      "Watery, oozing spots or visible mould",
+      "Flesh gone stringy and hollow, with hard mature seeds"
+    ],
+    "tips": [
+      "Choose small to medium squash with glossy, unblemished skin — big ones are watery and seedy.",
+      "Store them in a single layer; pressure points turn into soft spots.",
+      "Salt sliced squash for 15 minutes and pat dry before frying so it browns instead of steaming.",
+      "Do not peel them — the skin holds the shape and most of the flavour."
+    ],
+    "faq": [
+      {"q": "How long does summer squash last?", "a": "1–5 days at cool room temperature and 4–5 days in the fridge, both counted from the day of purchase. Frozen, it keeps good quality for 10–12 months."},
+      {"q": "Can you freeze summer squash?", "a": "Yes, blanched for 3 minutes and drained well, at −18 °C (0 °F) for 10–12 months. It thaws soft, so use it in cooking rather than as a fresh vegetable."},
+      {"q": "Does summer squash need to be refrigerated?", "a": "Not necessarily — a cool room gives it 1–5 days. But in a warm or humid kitchen the fridge roughly doubles that, so refrigerate it unless your kitchen is genuinely cool."},
+      {"q": "Why has my squash gone soft at one end?", "a": "Soft, sunken patches are the start of rot, usually beginning at the stem or at a bruise. If it is small and firm elsewhere, cut it well away; if it has spread or weeps, discard the squash."}
+    ]
+  },
+  "zh": {
+    "name": "夏南瓜",
+    "aliases": ["櫛瓜", "黃金櫛瓜", "彎頸瓜", "飛碟瓜", "軟皮南瓜"],
+    "summary": "夏南瓜泛指趁嫩採收、連皮帶籽整條吃的薄皮瓜類，包括黃色夏南瓜、彎頸瓜、飛碟瓜和櫛瓜。從購買當天算起，常溫可放 1～5 天，冷藏 4～5 天；−18°C 冷凍則可維持 10～12 個月。",
+    "pantry": "和冬南瓜不同，夏南瓜沒有堅硬外殼保護，放在涼爽的室內從購買日起只有 1～5 天，而且在悶熱的廚房裡，5 天這個上限是相當樂觀的估計。請避開陽光直射，單層平鋪不要堆疊，每天檢查有沒有出現軟塌。若室溫超過 25°C 左右，即使瓜皮怕冷，冷藏還是比較好的選擇。",
+    "fridge": "整條不清洗，裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 4～5 天。夏南瓜對低溫略為敏感，如果蔬果室溫度很低，皮上可能出現凹點——那是低溫傷害不是腐敗，但確實會縮短保存期。要用之前再切；切面即使包好，一兩天內也會出水變黏。",
+    "freezer": "夏南瓜幾乎都是水，解凍後絕對脆不回來，冷凍只為了之後拿來煮。切片或切丁，汆燙 3 分鐘，泡冰水冷卻，徹底瀝乾後壓平裝密封袋放 −18°C。要做蛋糕或煎餅的刨絲夏南瓜，擠乾水分後也可以直接冷凍。放 −18°C 安全上可無限期保存，品質可維持 10～12 個月。",
+    "thawing": "能不解凍就不解凍，直接下湯、下燉鍋或下熱鍋。食譜若需要解凍，請放冷藏室退冰並先把水壓乾，否則整道菜會水水的。",
+    "spoilage": [
+      "出現軟塌、凹陷或皺縮的部位，尤其是蒂頭附近",
+      "表皮黏手，沖水也沖不乾淨",
+      "有滲水的濕爛處或看得到黴菌",
+      "果肉變得粗纖維、中心空掉，籽已經變硬"
+    ],
+    "tips": [
+      "挑中小尺寸、表皮光亮無傷的；太大的水分多、籽也老。",
+      "平鋪保存，不要層層堆疊，受壓處很快就變成軟爛點。",
+      "切片後撒鹽靜置 15 分鐘、擦乾再下鍋，才煎得出焦香而不是一直出水。",
+      "不要削皮，皮是撐住形狀和風味的關鍵。"
+    ],
+    "faq": [
+      {"q": "夏南瓜可以放多久？", "a": "從購買當天算起，涼爽室溫 1～5 天，冷藏 4～5 天。冷凍則可維持 10～12 個月的良好品質。"},
+      {"q": "夏南瓜可以冷凍嗎？", "a": "可以，汆燙 3 分鐘、徹底瀝乾後放 −18°C，品質可維持 10～12 個月。解凍後偏軟，請用於烹調而非當生鮮蔬菜吃。"},
+      {"q": "夏南瓜一定要冷藏嗎？", "a": "不一定，涼爽的室內可以放 1～5 天。但在悶熱潮濕的廚房裡，冷藏大約能延長一倍，所以除非廚房真的涼爽，否則建議冷藏。"},
+      {"q": "夏南瓜一端變軟了怎麼辦？", "a": "軟塌凹陷是腐敗的開始，通常從蒂頭或碰傷處開始。範圍小、其他部位仍硬實的話可以大範圍切除；若已擴散或會滲水，就整條丟掉。"}
+    ]
+  }
+}

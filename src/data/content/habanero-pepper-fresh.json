@@ -1,0 +1,57 @@
+{
+  "slug": "habanero-pepper-fresh",
+  "en": {
+    "name": "Habanero, fresh",
+    "aliases": ["chile habanero", "Scotch bonnet", "lantern chilli", "habanero pepper"],
+    "summary": "The habanero is a small, thin-walled, lantern-shaped chilli and one of the hottest commonly sold. Refrigerated it keeps 2–3 weeks, ideally at 7–10 °C (45–50 °F) at high humidity, and whole unblanched pods freeze for up to 12 months.",
+    "pantry": "Habaneros are not a counter vegetable, though they will sit out for a few days without harm. What they do at room temperature is shrivel: the pod walls are thin and lose water quickly, so they wrinkle rather than rot. A wrinkled habanero is still perfectly usable, particularly for cooking, so do not throw wrinkled pods away. No room-temperature figure is published here and none should be assumed.",
+    "fridge": "Two to three weeks is the published figure, at 7–10 °C (45–50 °F) and 90–95 % humidity — warmer than most fridges run, with chilling injury appearing below that range as softening, pitting and faster decay. In practice, use the least cold drawer, keep the pods dry and whole, and accept that a domestic fridge is colder than ideal. Shrivelling comes before rotting with a chilli this thin-walled, so judge by softness and mould rather than wrinkles.",
+    "freezer": "Habaneros freeze whole and unblanched, which makes them one of the easiest things in the kitchen to preserve. Wash, dry and pack the pods with no headspace in a sealed bag at −18 °C (0 °F), where up to 12 months is the working limit. They thaw limp, so freeze them for cooking rather than for slicing raw. Wear gloves when handling or chopping: capsaicin transfers to hands and then to eyes, and a habanero is many times hotter than a jalapeño.",
+    "thawing": "Use frozen habaneros without thawing — chop them straight from the freezer, which is actually easier than chopping them fresh. Thawed pods go soft and weep. Gloves still apply: frozen chilli is no less potent than fresh.",
+    "spoilage": [
+      "Soft, wet or sunken patches, particularly around the stem",
+      "White or grey mould at the stem end or in the folds",
+      "Skin gone slippery or slimy rather than dry",
+      "A fermented or sour smell instead of the usual fruity, floral one"
+    ],
+    "tips": [
+      "Wear gloves — habanero oil stays on skin for hours and finds your eyes later.",
+      "Freeze whole; there is no need to blanch, stem or seed them first.",
+      "Wrinkled pods are fine for cooking; softness and mould are what matter.",
+      "Keep the pods dry and whole in the fridge, since a cut or bruised chilli rots from the wound."
+    ],
+    "faq": [
+      {"q": "How long do fresh habaneros last in the fridge?", "a": "2–3 weeks, ideally at 7–10 °C (45–50 °F) at high humidity. A domestic fridge runs colder than that, so use the warmest drawer and expect some pitting."},
+      {"q": "Can you freeze habaneros?", "a": "Yes, whole and unblanched, packed with no headspace at −18 °C (0 °F) for up to 12 months. They thaw limp, so use them for cooking."},
+      {"q": "My habaneros have gone wrinkly — are they still good?", "a": "Yes. Thin-walled chillies shrivel long before they spoil. Discard them only for softness, sliminess or mould."},
+      {"q": "How do you stop chilli burn on your hands?", "a": "Wear gloves in the first place. Capsaicin is not water-soluble, so once it is on your skin, washing with soap and oil, or rubbing with oil then soap, works better than water alone."}
+    ]
+  },
+  "zh": {
+    "name": "哈瓦那辣椒",
+    "aliases": ["黃燈籠辣椒", "habanero", "蘇格蘭帽椒", "燈籠椒（辣）"],
+    "summary": "哈瓦那辣椒是小小的燈籠狀薄壁辣椒，也是市面上常見品種中最辣的之一。冷藏可放 2～3 週，理想條件是 7～10°C 加高濕度；整顆不汆燙直接冷凍則可放最多 12 個月。",
+    "pantry": "哈瓦那辣椒不是放檯面的蔬菜，不過放個幾天也不會壞。它在室溫下會做的事是「皺掉」：果壁很薄、失水很快，所以它是先皺而不是先爛。皺掉的哈瓦那辣椒完全還能用，尤其拿來煮，請不要因為皺了就丟。這裡不提供常溫保存天數，也請不要自行推估。",
+    "fridge": "公布的數字是 2～3 週，條件為 7～10°C、相對濕度 90～95%——那比多數冰箱的運轉溫度更高；低於這個範圍會出現低溫傷害，表現為軟化、凹點和加速腐敗。實務上請放在溫度最高的那一格，保持果實乾燥完整，並接受家用冰箱本來就比理想值冷。果壁這麼薄的辣椒是先皺才爛，所以請用「軟不軟、有沒有黴」判斷，而不是看皺紋。",
+    "freezer": "哈瓦那辣椒可以整顆、不汆燙直接冷凍，這讓它成為廚房裡最好保存的東西之一。洗淨擦乾，裝進密封袋、不留空隙，放 −18°C，最多 12 個月是工作上限。解凍後會軟垮，所以冷凍是為了之後拿來煮，不是為了生切。處理或切的時候務必戴手套：辣椒素會沾在手上，之後再跑到眼睛裡，而哈瓦那的辣度是墨西哥辣椒的好幾倍。",
+    "thawing": "冷凍哈瓦那辣椒請不解凍直接使用——從冷凍庫拿出來直接切，其實比切新鮮的還好切。解凍後會變軟出水。手套一樣要戴：冷凍辣椒的辣度不會比較低。",
+    "spoilage": [
+      "出現軟塌、滲水或凹陷的部位，尤其是蒂頭周圍",
+      "蒂頭或皺摺處長出白色或灰色黴",
+      "表皮變得滑膩黏手，而不是乾爽",
+      "有發酵味或酸味，而不是原本的果香花香"
+    ],
+    "tips": [
+      "一定要戴手套——辣椒油會在皮膚上停留好幾小時，之後才找上你的眼睛。",
+      "整顆冷凍就好，不用汆燙、不用去蒂去籽。",
+      "皺掉的拿來煮完全沒問題；要看的是軟化和發霉。",
+      "冷藏時保持整顆乾燥；切過或碰傷的辣椒會從傷口開始爛。"
+    ],
+    "faq": [
+      {"q": "新鮮哈瓦那辣椒放冰箱可以放多久？", "a": "2～3 週，理想條件是 7～10°C 加高濕度。家用冰箱比這個更冷，請放在溫度最高的那一格，並接受可能出現凹點。"},
+      {"q": "哈瓦那辣椒可以冷凍嗎？", "a": "可以，整顆不汆燙、裝袋不留空隙放 −18°C，最多 12 個月。解凍後會軟，請用於烹調。"},
+      {"q": "哈瓦那辣椒皺掉了還能用嗎？", "a": "可以。薄壁辣椒在真正壞掉之前就會先皺。只有變軟、發黏或發霉時才需要丟棄。"},
+      {"q": "手被辣到怎麼辦？", "a": "最好的做法是一開始就戴手套。辣椒素不溶於水，一旦沾上皮膚，用油搓過再用肥皂洗，效果比單純沖水好得多。"}
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "enoki",
+  "en": {
+    "name": "Enoki",
+    "aliases": [
+      "enokitake",
+      "golden needle mushroom",
+      "velvet shank",
+      "winter mushroom"
+    ],
+    "summary": "Enoki are the thin white clusters sold in a sealed bag, used in hotpot, soups and grilled parcels. No authority publishes a keeping time for them, so treat them like mushrooms generally — about five to seven days refrigerated at 4 °C (40 °F) or below, stretched a little because enoki come vacuum-bagged rather than loose.",
+    "pantry": "Enoki should not be left at room temperature at all. There is a specific reason to be careful with this mushroom: chilled packaged enoki have been linked to Listeria outbreaks, and Listeria is unusual in that it grows slowly even inside a fridge, let alone on a warm counter. Keep the bag cold from the shop to the pan, and cook enoki rather than eating them raw — a brief dip in a hotpot is not the same as being served them as a cold salad.",
+    "fridge": "Leave enoki in their original sealed bag until you use them and keep them in the coldest part of the fridge at 4 °C (40 °F) or below. About five to seven days from purchase is a reasonable working limit, borrowed from the general figure for mushrooms rather than published for enoki, so treat it as guidance and follow the printed date if the bag carries one. Once the bag is open the clock speeds up considerably — re-wrap the rest in paper and use it within a day or two. Trim the brown root block off only at the moment of cooking.",
+    "freezer": "No freezer timeline exists for enoki and we will not invent one. They can be frozen — trim the base, separate the strands, bag them flat and freeze at −18 °C (0 °F), then cook from frozen — and food held at −18 °C stays safe indefinitely. But nobody has published a quality window for it, and the texture is the whole point of enoki, so the honest advice is to buy the amount you will actually cook.",
+    "thawing": "If you have frozen enoki, do not thaw them. Drop them straight into a hotpot, soup or hot pan from frozen. Thawed enoki release a lot of water and go stringy.",
+    "spoilage": [
+      "A slimy or slippery film on the strands",
+      "Brown, orange or watery tips at the top of the cluster",
+      "Strands gone soft and limp instead of firm and springy",
+      "A sour or fermented smell when the bag is opened"
+    ],
+    "tips": [
+      "Buy bags with dry white strands and no liquid pooled at the bottom.",
+      "Keep the bag sealed and cold until you cook.",
+      "Cook enoki through — they are not a raw-salad mushroom.",
+      "Cut the root block off just before cooking, not before storing."
+    ],
+    "faq": [
+      {
+        "q": "How long does enoki last in the fridge?",
+        "a": "There is no published figure. Around five to seven days from purchase is a reasonable working limit, borrowed from mushrooms generally, and the printed date on a sealed bag takes precedence."
+      },
+      {
+        "q": "Can you eat enoki raw?",
+        "a": "It is better not to. Chilled packaged enoki have been linked to Listeria outbreaks, and cooking is what removes that risk. Give them a proper simmer rather than a quick dip."
+      },
+      {
+        "q": "Can you freeze enoki?",
+        "a": "No freezer timeline is published, so we do not give one. You can freeze them trimmed and bagged flat at −18 °C (0 °F) and cook from frozen, but texture is what you are buying, so it is better to buy less."
+      },
+      {
+        "q": "The enoki have gone slimy — can I rinse them?",
+        "a": "No. Sliminess means the mushrooms have broken down and bacteria have multiplied through the cluster. Rinsing does not reverse it; throw the bag away."
+      }
+    ]
+  },
+  "zh": {
+    "name": "金針菇",
+    "aliases": [
+      "金菇",
+      "白金針菇",
+      "益智菇",
+      "樸菇"
+    ],
+    "summary": "金針菇就是袋裝販售、細白成束的那種菇，火鍋、湯品和烤物都常見。沒有權威單位公布它的保存期限，可以比照菇類整體的標準來看——4°C 以下冷藏約五到七天，因為金針菇是真空袋裝而非散裝，可以稍微往上抓。",
+    "pantry": "金針菇完全不能放室溫。這種菇有個特別需要謹慎的理由：冷藏包裝的金針菇曾經與李斯特菌事件有關，而李斯特菌特別的地方在於，即使在冰箱裡也還能緩慢生長，放在溫熱的檯面上更不用說。從商店到下鍋請全程保冷，而且務必煮熟再吃——在火鍋裡涮一下，和當成冷盤生吃，完全是兩回事。",
+    "fridge": "請保持原本的密封袋，要用時再拆，放在冰箱最冷的位置、維持 4°C 以下。從購買日起約五到七天是合理的參考上限，這是比照菇類整體的數字而來，並非針對金針菇公布，請當作參考；袋上若有印製日期，以該日期為準。一旦拆封，時間會走得快很多——剩下的改用紙包好，一兩天內用完。底部褐色的根部，請在要下鍋時才切掉。",
+    "freezer": "金針菇沒有公布的冷凍保存期限，我們也不會自己編一個。它是可以冷凍的——切掉根部、把菇絲撥散、平鋪裝袋放 −18°C，使用時不解凍直接下鍋——而食品在 −18°C 下安全上可無限期保存。但沒有人公布過品質期限，而口感又正是金針菇的全部價值，所以最誠實的建議是：買剛好煮得完的量。",
+    "thawing": "如果有冷凍的金針菇，請不要解凍。直接從冷凍狀態丟進火鍋、湯裡或熱鍋。解凍後的金針菇會大量出水，口感變得絲絲柴柴的。",
+    "spoilage": [
+      "菇絲表面出現黏滑的薄膜",
+      "上端菇傘轉褐、泛橘或濕爛",
+      "菇絲變得軟塌，不再挺直有彈性",
+      "拆開袋子聞到酸味或發酵味"
+    ],
+    "tips": [
+      "挑菇絲潔白乾爽、袋底沒有積水的。",
+      "下鍋前保持密封、保持低溫。",
+      "一定要煮熟；金針菇不是拿來做生菜沙拉的菇。",
+      "根部要下鍋時才切，不要保存前就切掉。"
+    ],
+    "faq": [
+      {
+        "q": "金針菇放冰箱可以放多久？",
+        "a": "沒有公布的數字。從購買日起約五到七天是合理參考，這是比照菇類整體而來；袋上有印日期的話以該日期為準。"
+      },
+      {
+        "q": "金針菇可以生吃嗎？",
+        "a": "最好不要。冷藏包裝的金針菇曾與李斯特菌事件有關，加熱才能消除這個風險。請確實煮熟，不要只涮一下。"
+      },
+      {
+        "q": "金針菇可以冷凍嗎？",
+        "a": "沒有公布的冷凍期限，所以我們不給數字。可以切好平鋪裝袋放 −18°C，使用時不解凍直接下鍋；但金針菇買的就是口感，買少一點更實際。"
+      },
+      {
+        "q": "金針菇變黏了洗一洗還能用嗎？",
+        "a": "不能。變黏代表菇體已經崩解、細菌也已大量繁殖，沖洗改變不了，整袋丟掉。"
+      }
+    ]
+  }
+}

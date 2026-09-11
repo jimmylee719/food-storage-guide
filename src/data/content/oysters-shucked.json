@@ -1,0 +1,57 @@
+{
+  "slug": "oysters-shucked",
+  "en": {
+    "name": "Oysters, shucked",
+    "aliases": ["shucked oysters", "oyster meat", "jarred oysters", "tub oysters"],
+    "summary": "Shucked oysters are oysters already taken out of the shell and sold loose in their own liquor, usually in a tub or jar. Kept at 4 °C (40 °F) or below they last 3–10 days from the day of purchase, and 3–4 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Shucked oysters cannot be left out, not even briefly. Oysters filter large volumes of seawater and can concentrate Vibrio bacteria, which multiply rapidly as soon as the meat warms — this is the single most important reason the cold chain for shellfish is never broken. Two hours out of refrigeration is the limit and one hour above 32 °C (90 °F). If you plan to eat them raw, keep them colder still and eat them as soon as possible.",
+    "fridge": "Store shucked oysters in their original sealed tub, or in a covered container with their liquor, in the coldest part of the fridge at 4 °C (40 °F) or below. They keep 3–10 days from purchase — the wide range reflects how fresh they were when they reached you, so the printed date on a sealed tub is the better guide if there is one. Never let them sit in water: the liquor is what protects them, and plain water kills them.",
+    "freezer": "Freeze shucked oysters in their own liquor, topped up with a little cold salted water if needed so the meat is fully submerged, in a rigid container with a couple of centimetres of headspace. At −18 °C (0 °F) they stay safe indefinitely and hold quality for 3–4 months. Thawed oysters lose their raw texture completely, so plan to cook them — fried, in a stew, or in a 蚵仔煎-style pancake.",
+    "thawing": "Thaw oysters overnight in the fridge, never on the counter or in warm water, and cook them the same day. Do not eat previously frozen oysters raw, and do not refreeze them.",
+    "spoilage": [
+      "Sour, sulphurous or strongly fishy smell instead of a clean sea smell",
+      "Liquor that has turned cloudy, milky, thick or pink",
+      "Meat gone grey, brown or unusually soft and flabby",
+      "A bulging, leaking or swollen tub, or a date that has passed"
+    ],
+    "tips": [
+      "Buy from a chilled cabinet, not a room-temperature display, and get them home cold.",
+      "Keep the tub on the bottom shelf at the back, the coldest part of the fridge.",
+      "Never store oysters in fresh water — always in their own liquor.",
+      "Cook them through if you are pregnant, elderly, very young or immunocompromised."
+    ],
+    "faq": [
+      {"q": "How long do shucked oysters last in the fridge?", "a": "3–10 days from purchase at 4 °C (40 °F) or below, kept in their own liquor. Where a sealed tub carries a printed date, follow that."},
+      {"q": "Can you freeze shucked oysters?", "a": "Yes. Freeze them submerged in their liquor at −18 °C (0 °F); safe indefinitely, best quality within 3–4 months. Cook them after thawing rather than eating them raw."},
+      {"q": "How can you tell if shucked oysters have gone bad?", "a": "Cloudy or thickened liquor, a sour or sulphurous smell, and grey or flabby meat. If the tub is swollen or leaking, throw it away unopened."},
+      {"q": "Are raw oysters safe?", "a": "Raw oysters always carry some risk of Vibrio and norovirus, which cooking eliminates. People who are pregnant, elderly, very young or immunocompromised should eat them only cooked."}
+    ]
+  },
+  "zh": {
+    "name": "蚵仔（去殼牡蠣）",
+    "aliases": ["牡蠣肉", "生蠔肉", "蚵", "海蚵", "去殼生蠔"],
+    "summary": "蚵仔是已經剝好殼、連同本身湯汁散裝或盒裝販售的牡蠣肉。放在 4°C 以下冷藏，從購買當天算起可放 3～10 天；−18°C 冷凍則以 3～4 個月內食用品質最佳。",
+    "pantry": "蚵仔完全不能放室溫，連短時間都不行。牡蠣靠過濾海水維生，可能累積腸炎弧菌，而這類細菌一旦回溫就急速增殖——這正是貝類冷鏈絕對不能斷的最大理由。離開冷藏最多 2 小時，氣溫超過 32°C 時只有 1 小時。若打算生食，溫度要壓得更低，而且要盡快吃完。",
+    "fridge": "請連同原本的密封盒，或改放加蓋容器並保留原汁，收在冰箱最冷的位置，維持 4°C 以下。從購買日起可放 3～10 天——範圍這麼寬，是因為到你手上時的新鮮度差異很大；如果密封盒上印有有效日期，那個日期才是更可靠的依據。千萬不要泡在清水裡：原汁才是保護蚵仔的介質，清水會讓它很快爛掉。",
+    "freezer": "冷凍時連同原汁一起裝進硬質容器，必要時補一點冷鹽水讓蚵仔完全浸沒，並留 2 公分左右的膨脹空間。放 −18°C 安全上可無限期保存，品質以 3～4 個月為佳。解凍後的蚵仔完全失去生食的口感，請一律煮熟食用，例如煎蚵仔煎、煮湯或油炸。",
+    "thawing": "解凍請放冷藏室退冰一晚，不要放室溫、也不要泡溫水，並於當天煮熟食用。冷凍過的蚵仔不要生吃，也不要再次冷凍。",
+    "spoilage": [
+      "有酸味、硫磺味或濃重的腥臭味，而不是清爽的海水味",
+      "湯汁變混濁、乳白、變稠或泛粉紅",
+      "蚵肉轉灰、發褐，或變得異常軟爛",
+      "包裝盒鼓起、漏汁，或已經超過有效日期"
+    ],
+    "tips": [
+      "請在冷藏櫃購買，不要買常溫陳列的，回家全程保冷。",
+      "放在冰箱最下層最裡面，那裡溫度最穩定也最低。",
+      "絕對不要用清水泡養，一定要保留原本的湯汁。",
+      "孕婦、年長者、幼童與免疫力較弱的人，請務必煮到全熟再吃。"
+    ],
+    "faq": [
+      {"q": "蚵仔放冰箱可以放多久？", "a": "4°C 以下冷藏、保留原汁，從購買當天算起 3～10 天。密封盒上若有印製日期，以該日期為準。"},
+      {"q": "蚵仔可以冷凍嗎？", "a": "可以。連同原汁淹過蚵肉後放 −18°C 冷凍，安全上可無限期保存，品質以 3～4 個月內為佳。解凍後請煮熟，不要生食。"},
+      {"q": "怎麼判斷蚵仔壞掉了？", "a": "湯汁變混濁變稠、聞起來酸或有硫磺味、蚵肉發灰軟爛，都代表不能吃。盒子鼓起或漏汁的話，請不要打開直接丟棄。"},
+      {"q": "生蠔生吃安全嗎？", "a": "生食牡蠣一定帶有腸炎弧菌與諾羅病毒的風險，加熱可以消除。孕婦、年長者、幼童與免疫力較弱者請只吃熟的。"}
+    ]
+  }
+}

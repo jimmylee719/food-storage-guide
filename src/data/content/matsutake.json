@@ -1,0 +1,91 @@
+{
+  "slug": "matsutake",
+  "en": {
+    "name": "Matsutake",
+    "aliases": [
+      "pine mushroom",
+      "song rong",
+      "matsutake mushroom",
+      "pine ring mushroom"
+    ],
+    "summary": "Matsutake is the wild pine mushroom bought entirely for its aroma — spicy, resinous and unmistakable. No figure is published for it, so treat it like mushrooms: about 3–5 days refrigerated, wrapped in paper in the least cold part of the fridge, and roughly 1–2 months sliced and frozen.",
+    "pantry": "Matsutake should not be left at room temperature. It is a fresh mushroom like any other, and warmth softens it and lets the aroma escape faster than it already does. There is no room-temperature figure and none should be assumed. This is a mushroom you plan a meal around rather than store: the aroma peaks on the day it is picked and declines from there whatever you do.",
+    "fridge": "Never wash matsutake — the whole point is the aroma, and water strips it. Wrap each mushroom individually in kitchen paper, then in foil or a paper bag, and keep it in the least cold part of the fridge, where about 3–5 days is the working limit. That figure is borrowed from mushrooms generally; nothing is published for matsutake. Wipe grit off with a barely damp cloth just before cooking, and trim the very base of the stem rather than peeling it. Keep it away from strongly scented food: matsutake absorbs other smells as readily as it gives off its own.",
+    "freezer": "Slice the mushrooms and freeze them in a sealed bag at −18 °C (0 °F); about 1–2 months is the working limit. That figure reflects common domestic practice in Japan rather than a published number, so treat it as guidance. The texture suffers noticeably — frozen matsutake goes soft — but most of the aroma survives, which is enough for a pot of matsutake rice. Cook the slices from frozen.",
+    "thawing": "Do not thaw matsutake. Put the frozen slices straight into the rice pot, the clear soup or the foil parcel. Thawing lets the aroma go with the water it releases, which is the one thing you were trying to keep.",
+    "spoilage": [
+      "The aroma gone — the mushroom may be edible but there is no reason to eat it",
+      "A slimy or wet film on the cap or stem",
+      "Soft, dark or hollow patches in what should be dense white flesh",
+      "A sour or ammonia smell instead of the resinous pine one"
+    ],
+    "tips": [
+      "Buy it the day you will cook it; the aroma only goes one way.",
+      "Never wash it — wipe with a barely damp cloth instead.",
+      "Wrap each mushroom separately in paper so they do not press and bruise.",
+      "Cook it simply: rice, clear soup or grilled in foil. Anything stronger buries the aroma you paid for."
+    ],
+    "faq": [
+      {
+        "q": "How long does matsutake last in the fridge?",
+        "a": "About 3–5 days at fridge temperature, wrapped in paper. That figure is borrowed from mushrooms generally; none is published for matsutake, and the aroma fades well before the mushroom spoils."
+      },
+      {
+        "q": "Can you freeze matsutake?",
+        "a": "Yes, sliced and sealed at −18 °C (0 °F), for about 1–2 months. That figure reflects common Japanese domestic practice rather than a published number. The texture suffers but the aroma largely survives."
+      },
+      {
+        "q": "Should you wash matsutake?",
+        "a": "Never. Water strips the aroma that is the entire reason to buy it. Wipe grit off with a barely damp cloth just before cooking."
+      },
+      {
+        "q": "Why has my matsutake lost its smell?",
+        "a": "The aroma compounds are volatile and start leaving from the moment it is picked. Cold, paper wrapping and speed slow it down; nothing reverses it."
+      }
+    ]
+  },
+  "zh": {
+    "name": "松茸",
+    "aliases": [
+      "松蕈",
+      "松口蘑",
+      "松茸菇",
+      "松菇"
+    ],
+    "summary": "松茸是野生的松林菇，買它完全是為了那股辛香帶松脂、無可取代的香氣。它沒有公布的保存數據，可以比照菇類來看：用紙包好放在冰箱溫度最高的位置約 3～5 天；切片冷凍則約 1～2 個月。",
+    "pantry": "松茸不應該放室溫。它就是一朵新鮮的菇，溫度一高就會變軟，香氣也散得比原本更快。這裡不提供常溫保存天數，也請不要自行推估。這是一種你會為它安排一頓飯、而不是拿來囤放的菇：香氣在採下來那天達到頂點，之後不論怎麼做都只會往下走。",
+    "fridge": "松茸絕對不要洗——買它就是為了香氣，而水會把香氣帶走。請一朵一朵用廚房紙巾包好，外面再包鋁箔或裝進紙袋，放在冰箱溫度最高的位置，約 3～5 天是工作上限。這個數字是比照菇類整體而來；松茸本身沒有公布的數據。要煮之前用幾乎不滴水的濕布把土擦掉，菇柄末端切薄薄一片就好，不要削皮。另外要遠離氣味強烈的食物：松茸吸別人味道的能力，和它散發自己香氣的能力一樣強。",
+    "freezer": "把松茸切片裝進密封袋放 −18°C 冷凍，約 1～2 個月是工作上限。這個數字反映的是日本家庭的普遍做法，而不是公布的數據，請當作參考。口感會明顯變差——冷凍過的松茸偏軟——但香氣大致還在，拿來煮一鍋松茸飯綽綽有餘。使用時不解凍直接下鍋。",
+    "thawing": "松茸不要解凍。把冷凍薄片直接放進飯鍋、清湯或鋁箔包裡。解凍時釋出的水會把香氣一起帶走，而那正是你想留住的唯一一樣東西。",
+    "spoilage": [
+      "香氣已經消失——它也許還能吃，但已經沒有吃它的理由",
+      "菌傘或菇柄上出現黏滑濕答答的薄膜",
+      "原本緻密潔白的地方出現軟爛、發暗或空洞",
+      "有酸味或阿摩尼亞味，而不是那股松脂般的香氣"
+    ],
+    "tips": [
+      "當天要煮再買；香氣只會往一個方向走。",
+      "絕對不要洗，用幾乎不滴水的濕布擦就好。",
+      "一朵一朵分開用紙包，避免互相擠壓碰傷。",
+      "料理方式愈簡單愈好：炊飯、清湯或鋁箔燒烤。味道重的做法只會埋掉你花錢買的香氣。"
+    ],
+    "faq": [
+      {
+        "q": "松茸放冰箱可以放多久？",
+        "a": "用紙包好冷藏約 3～5 天。這個數字是比照菇類整體而來；松茸本身沒有公布的數據，而且香氣在它真正壞掉之前就已經跑掉了。"
+      },
+      {
+        "q": "松茸可以冷凍嗎？",
+        "a": "可以，切片密封後放 −18°C 約 1～2 個月。這個數字反映日本家庭的普遍做法，不是公布的數據。口感會變差，但香氣大致留得住。"
+      },
+      {
+        "q": "松茸要洗嗎？",
+        "a": "絕對不要。水會沖掉你買它的唯一理由。要煮之前用幾乎不滴水的濕布把土擦掉即可。"
+      },
+      {
+        "q": "松茸為什麼沒香味了？",
+        "a": "香氣成分是揮發性的，從採下那一刻就開始流失。低溫、用紙包、動作快都能放慢，但沒有任何方法能把它找回來。"
+      }
+    ]
+  }
+}

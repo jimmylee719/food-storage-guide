@@ -1,0 +1,57 @@
+{
+  "slug": "leaf-lettuce",
+  "en": {
+    "name": "Leaf lettuce",
+    "aliases": ["loose-leaf lettuce", "oak leaf", "red leaf lettuce", "green leaf lettuce", "butterhead"],
+    "summary": "Leaf lettuce is the loose, open kind that never forms a tight head — oak leaf, red leaf, butterhead and the soft green leaves in a salad mix. Refrigerated at 4 °C (40 °F) or below it keeps only 3–7 days from the day of purchase, much less than a firm head lettuce.",
+    "pantry": "Leaf lettuce cannot be kept at room temperature in any meaningful way. Without a tight head there are no outer leaves to protect the rest, so every leaf is losing water from both surfaces at once; a warm kitchen will wilt a bag of it in an afternoon. Refrigerate it the moment you get home, and in hot weather bring it back in a cool bag.",
+    "fridge": "Store leaf lettuce unwashed in the crisper at 4 °C (40 °F) or below, in a perforated bag or a box lined with kitchen paper, where it keeps 3–7 days from purchase. Keep the leaves dry and loose: damp leaves pressed together go slimy at the edges within a day or two, so change the paper if it dampens. Bagged salad leaves keep to their printed date while sealed but collapse quickly once the bag is opened, so finish an opened bag within a couple of days.",
+    "freezer": "There is no freezer timeline for leaf lettuce and freezing it serves no purpose. These are the thinnest, most delicate salad leaves there are; frozen and thawed they come back as a translucent, watery mass. Nothing unsafe happens, but there is nothing left to eat either. If you have more than you can use, wilt it quickly into a soup or a stir-fry — soft lettuces cook surprisingly well.",
+    "thawing": null,
+    "spoilage": [
+      "Slimy, translucent or blackened leaf edges",
+      "Leaves stuck together in a wet clump that will not separate",
+      "A sour, muddy or faintly ammonia smell when the bag is opened",
+      "Liquid pooling in the bottom of the bag or box"
+    ],
+    "tips": [
+      "Buy leaves that look dry and springy, with no condensation inside the bag.",
+      "Line a box with kitchen paper and replace it when it feels damp.",
+      "Wash and spin dry only the handful you are about to eat.",
+      "Dress the salad at the last moment — salt and acid wilt soft leaves in minutes."
+    ],
+    "faq": [
+      {"q": "How long does leaf lettuce last in the fridge?", "a": "3–7 days from the day of purchase at 4 °C (40 °F) or below, unwashed and dry in a perforated bag or a paper-lined box."},
+      {"q": "Can you freeze leaf lettuce?", "a": "No timeline exists and there is no point. Thin salad leaves thaw into a watery, translucent mass with no texture left."},
+      {"q": "Why does leaf lettuce go slimy so fast?", "a": "It has no protective outer head, so damp leaves pressed against each other break down quickly. Keeping the leaves dry and loose is the whole trick."},
+      {"q": "Can you eat bagged salad after the date on the pack?", "a": "Judge by the leaves, not the date alone. If they are dry, springy and smell clean they are usually fine; slimy leaves or liquid in the bag mean it goes."}
+    ]
+  },
+  "zh": {
+    "name": "葉萵苣",
+    "aliases": ["散葉萵苣", "橡葉萵苣", "紅捲鬚", "奶油萵苣", "生菜葉"],
+    "summary": "葉萵苣是不會結成硬球的鬆散型萵苣，包括橡葉、紅捲鬚、奶油萵苣，以及沙拉生菜包裡那些柔軟的綠葉。4°C 以下冷藏，從購買當天算起只能放 3～7 天，遠比結球萵苣短。",
+    "pantry": "葉萵苣基本上沒有常溫保存這回事。它不結球，也就沒有外層葉子可以保護裡面，每一片葉子兩面都在失水；在溫暖的廚房裡，一整袋一個下午就垮了。買回家請立刻冷藏，天熱時用保冷袋帶回家。",
+    "fridge": "不清洗，裝進打洞袋或鋪了廚房紙巾的保鮮盒，放在 4°C 以下的蔬果保鮮室，從購買日起可放 3～7 天。重點是保持乾燥、不要壓實：潮濕的葉子擠在一起，一兩天內葉緣就會變黏，紙巾濕了就要換。袋裝沙拉葉在未開封時可以放到標示日期，但一開封就垮得很快，請在兩天內吃完。",
+    "freezer": "葉萵苣沒有冷凍保存期限，冷凍也毫無意義。這是所有沙拉葉裡最薄最嬌嫩的一類，冷凍解凍後只剩半透明的一攤水。這不會造成安全問題，但也沒有東西可吃了。真的太多的話，丟進湯裡或下鍋快炒——軟質萵苣其實很耐煮。",
+    "thawing": null,
+    "spoilage": [
+      "葉緣黏滑、半透明或發黑",
+      "葉子濕黏成一坨，怎麼撥都分不開",
+      "打開袋子聞到酸味、土味或淡淡的阿摩尼亞味",
+      "袋底或盒底積出一灘水"
+    ],
+    "tips": [
+      "挑葉子乾爽有彈性、袋內沒有水氣凝結的。",
+      "保鮮盒底部鋪廚房紙巾，摸到潮濕就換一張。",
+      "只洗當餐要吃的量，洗完務必用蔬菜脫水器甩乾。",
+      "醬汁最後一刻再拌；鹽和酸只要幾分鐘就能讓軟葉萎掉。"
+    ],
+    "faq": [
+      {"q": "葉萵苣放冰箱可以放多久？", "a": "4°C 以下冷藏，不清洗、保持乾燥裝在打洞袋或鋪紙巾的盒子裡，從購買當天算起 3～7 天。"},
+      {"q": "葉萵苣可以冷凍嗎？", "a": "沒有對應的冷凍期限，也沒有意義。薄葉解凍後會變成半透明的水糊，完全沒有口感。"},
+      {"q": "葉萵苣為什麼這麼快就變黏？", "a": "因為它沒有外層球葉保護，潮濕的葉片互相擠壓就會迅速崩解。保持乾燥、不要壓實，就是全部的訣竅。"},
+      {"q": "袋裝生菜過了標示日期還能吃嗎？", "a": "請看葉子本身而不是只看日期。葉片乾爽有彈性、氣味乾淨通常沒問題；葉子黏滑或袋底積水就該丟掉。"}
+    ]
+  }
+}

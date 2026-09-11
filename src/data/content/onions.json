@@ -1,0 +1,57 @@
+{
+  "slug": "onions",
+  "en": {
+    "name": "Onions",
+    "aliases": ["yellow onion", "brown onion", "red onion", "white onion", "cooking onion"],
+    "summary": "Onions are dry-skinned bulbs that store better than almost any other fresh vegetable. Whole and uncut they keep about a month in a cool dark pantry, about two months refrigerated, and chopped or sliced onions freeze for 10–12 months.",
+    "pantry": "A cool, dark, dry and well-ventilated spot is the classic home for whole onions, and from the day you buy them that gives you roughly a month. Air matters more than anything: keep them in an open basket, a mesh bag or a paper bag with holes, never sealed in plastic. Keep them away from potatoes, which give off moisture and ethylene and will make onions sprout and soften, and out of direct light, which encourages green shoots.",
+    "fridge": "Refrigerated at 4 °C (40 °F) or below, onions keep about two months from purchase — twice the pantry figure — but the fridge is humid, so they must be kept dry and loosely wrapped rather than sealed. Keep them well away from anything you would not like to taste of onion. Once an onion is cut, refrigeration is not optional: wrap the cut face tightly or put it in a sealed container and use it within a few days.",
+    "freezer": "Onions freeze well but only for cooking — they thaw soft and will never be crisp again. Peel, chop or slice, and freeze in a flat sealed bag at −18 °C (0 °F), ideally spread on a tray first so the pieces stay loose. At −18 °C they are safe indefinitely and keep good quality for 10–12 months. Caramelised or sautéed onions freeze even better than raw ones and are worth batch-cooking.",
+    "thawing": "Do not thaw frozen onions. Tip them straight into the hot pan, the pot or the sauce; they release water as they go, so give them a minute longer than fresh. Thawed raw onion is limp and watery and best avoided.",
+    "spoilage": [
+      "Soft or squashy patches, especially around the neck",
+      "Black or dark grey powdery mould under the papery skin",
+      "Visible wet rot, leaking liquid, or a sharp rotten-onion smell",
+      "Long green shoots and a hollow, soft centre"
+    ],
+    "tips": [
+      "Store onions in a basket or mesh bag, never sealed in plastic.",
+      "Keep onions and potatoes apart — together they spoil each other faster.",
+      "Chop a whole bag at once and freeze in flat portions; it saves the worst kitchen job.",
+      "Chill an onion for 15 minutes before cutting and it will make your eyes water much less."
+    ],
+    "faq": [
+      {"q": "How long do onions last?", "a": "About a month in a cool, dark, airy pantry from the day you buy them, and about two months in the fridge. Chopped onion freezes for 10–12 months."},
+      {"q": "Should onions be kept in the fridge?", "a": "Whole onions do not need to be, and the pantry suits them if it is cool, dark and ventilated. The fridge roughly doubles their life but is humid, so keep them dry and unwrapped in plastic. Cut onions always go in the fridge."},
+      {"q": "Can you freeze onions?", "a": "Yes, chopped or sliced, for 10–12 months at −18 °C (0 °F). They thaw soft, so use them in cooking rather than raw."},
+      {"q": "Is a sprouting onion still safe to eat?", "a": "Yes, if the bulb is still firm. Cut the green shoot out and use the rest; sprouting onions are simply past their best and turn soft sooner."}
+    ]
+  },
+  "zh": {
+    "name": "洋蔥",
+    "aliases": ["黃洋蔥", "紫洋蔥", "紅洋蔥", "白洋蔥", "圓蔥"],
+    "summary": "洋蔥外層是乾燥的紙質皮，是最耐放的生鮮蔬菜之一。整顆未切的洋蔥放在陰涼乾燥處大約可放一個月，冷藏約兩個月；切好的洋蔥冷凍則可保存 10～12 個月。",
+    "pantry": "陰涼、乾燥、避光且通風的地方，是整顆洋蔥最經典的保存位置，從購買日算起大約一個月。通風比什麼都重要：請用開放式籃子、網袋，或戳洞的紙袋，絕對不要密封在塑膠袋裡。另外要和馬鈴薯分開放，馬鈴薯會釋出水氣和乙烯，讓洋蔥發芽變軟；也要避開直射光線，見光容易長出綠芽。",
+    "fridge": "冷藏在 4°C 以下，從購買日起大約可放兩個月，是常溫的兩倍；但冰箱濕度高，所以要保持乾燥、鬆鬆包著就好，不要密封。也請離其他不希望染上洋蔥味的食材遠一點。洋蔥一旦切開，冷藏就不是選項而是必須：切面用保鮮膜緊貼包好或放密封盒，並在幾天內用完。",
+    "freezer": "洋蔥很適合冷凍，但只能用來煮——解凍後一定是軟的，回不到脆度。去皮、切丁或切絲，平鋪裝進密封袋放 −18°C；先攤在托盤上凍硬再裝袋，可以保持顆粒分明。在 −18°C 下安全上可以無限期保存，品質則可維持 10～12 個月。炒過的洋蔥或炒到焦糖化的洋蔥冷凍效果更好，很值得一次做一大鍋分裝。",
+    "thawing": "冷凍洋蔥不需要解凍。直接下熱鍋、丟進湯裡或醬汁中即可；它會出水，所以比新鮮的多炒一分鐘。解凍後的生洋蔥軟爛出水，不建議生食使用。",
+    "spoilage": [
+      "出現軟塌的凹陷，尤其是靠近蒂頭的部位",
+      "外皮底下有黑色或深灰色的粉狀黴",
+      "有明顯的濕爛、滲出汁液，或散發刺鼻的腐敗臭味",
+      "長出長長的綠芽，而且中心變空、變軟"
+    ],
+    "tips": [
+      "用籃子或網袋保存，絕對不要密封在塑膠袋裡。",
+      "洋蔥和馬鈴薯分開放，放一起兩邊都壞得更快。",
+      "一次把整袋切完、分裝壓平冷凍，省下廚房裡最討人厭的工作。",
+      "切之前先冰 15 分鐘，眼睛會舒服很多。"
+    ],
+    "faq": [
+      {"q": "洋蔥可以放多久？", "a": "整顆放在陰涼避光通風處，從購買日算起約一個月；冷藏約兩個月。切好的洋蔥冷凍可放 10～12 個月。"},
+      {"q": "洋蔥需要放冰箱嗎？", "a": "整顆的不一定要，只要環境陰涼、避光、通風就很合適。冷藏大約可以放到兩倍久，但冰箱濕度高，要保持乾燥、不要用塑膠袋密封。切開的洋蔥則一定要冷藏。"},
+      {"q": "洋蔥可以冷凍嗎？", "a": "可以，切丁或切絲後放 −18°C 冷凍，品質可維持 10～12 個月。解凍後偏軟，請用於烹調而非生食。"},
+      {"q": "洋蔥發芽還能吃嗎？", "a": "只要球體還硬實就可以。把綠芽切掉，其餘照常使用；發芽只代表它已過了最佳狀態，之後會比較快變軟。"}
+    ]
+  }
+}

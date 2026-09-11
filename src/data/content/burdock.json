@@ -1,0 +1,91 @@
+{
+  "slug": "burdock",
+  "en": {
+    "name": "Burdock root",
+    "aliases": [
+      "gobo",
+      "greater burdock",
+      "edible burdock",
+      "burdock"
+    ],
+    "summary": "Burdock is the long, thin, earthy root used in kinpira and simmered dishes, and how it was sold decides how it keeps. Unwashed, with the soil still on, a cool shaded spot holds it 2–4 weeks; washed burdock has to be bagged and refrigerated, where 1–2 weeks is the working limit.",
+    "pantry": "Unwashed burdock is a genuine long-keeper if you leave it alone. Leave the soil on, wrap the root in damp paper, and stand it leaning against a wall somewhere cool and shaded — kept that way it stores for a long time, and roughly 2–4 weeks is a reasonable working range. That figure is borrowed from carrots, the nearest long root vegetable with a published number, and extended because unwashed burdock is explicitly described as a long keeper. Washed burdock will not do this at all: the skin has been scrubbed off along with the soil, and it dries and browns within days.",
+    "fridge": "Washed burdock should be bagged and refrigerated at 4 °C (40 °F) or below, where about 1–2 weeks is the working limit — again borrowed from carrots rather than published for burdock. Wrap it loosely so it neither dries out nor sweats. Cut surfaces brown within minutes because burdock is exceptionally high in polyphenols, so drop cut pieces straight into water with a splash of vinegar. That soak also removes some of the harshness, though a long one washes out the flavour you were after.",
+    "freezer": "No freezer timeline exists for burdock in our sources, so none is given. It can be frozen — shred or slice it, soak briefly in vinegar water, drain, and freeze flat in a sealed bag at −18 °C (0 °F), cooking from frozen — and anything at −18 °C stays safe indefinitely. But burdock's whole appeal is its fibrous bite, and freezing raw root softens exactly that. Cooking it into kinpira first and freezing the finished dish keeps much more of what you wanted.",
+    "thawing": "Cook frozen burdock from frozen, straight into the pan or the pot. Thawed raw burdock goes limp and watery and loses the crunch that is the point of it.",
+    "spoilage": [
+      "A root that bends easily instead of snapping, or has gone light and hollow",
+      "Soft, wet, dark patches along the root",
+      "A sour or musty smell rather than a clean earthy one",
+      "Flesh gone brown or spongy right through when cut across"
+    ],
+    "tips": [
+      "Buy unwashed burdock with the soil on if you want it to keep; washed roots are for cooking this week.",
+      "Scrape rather than peel — the flavour sits right under the skin, so the back of a knife is better than a peeler.",
+      "Drop cut pieces into vinegar water immediately, but do not soak them for long.",
+      "Freeze cooked kinpira in portions rather than trying to freeze the raw root."
+    ],
+    "faq": [
+      {
+        "q": "How long does burdock root last?",
+        "a": "Unwashed with the soil on, wrapped in damp paper in a cool shaded spot, roughly 2–4 weeks. Washed burdock keeps about 1–2 weeks bagged in the fridge. Both figures are borrowed from carrots."
+      },
+      {
+        "q": "Should you wash burdock before storing it?",
+        "a": "No. The soil is what keeps it. Wash it only when you are ready to cook, and expect washed roots to keep a fraction as long."
+      },
+      {
+        "q": "Can you freeze burdock?",
+        "a": "No published timeline exists, so we do not give one. Raw frozen burdock loses its crunch; freezing cooked kinpira is the better approach."
+      },
+      {
+        "q": "Why does burdock turn brown so fast?",
+        "a": "It is very high in polyphenols, which oxidise on contact with air. Dropping cut pieces into water with a splash of vinegar stops it."
+      }
+    ]
+  },
+  "zh": {
+    "name": "牛蒡",
+    "aliases": [
+      "牛蒡根",
+      "牛菜",
+      "東洋蘿蔔",
+      "吳某"
+    ],
+    "summary": "牛蒡是又細又長、帶土香的根莖，金平牛蒡和燉煮料理都少不了它；而它耐不耐放，取決於你買到的是哪一種。帶土未清洗的，放在陰涼避光處約可放 2～4 週；已經洗好的則必須裝袋冷藏，工作上限約 1～2 週。",
+    "pantry": "帶土的牛蒡只要不去動它，真的很耐放。請保留表面的土，用濕報紙或濕紙包起來，斜靠在牆邊放在陰涼避光處——這樣可以放很久，大約 2～4 週是合理的參考範圍。這個數字是比照紅蘿蔔而來（那是最接近、又有公布數字的長條根菜），並因為帶土牛蒡本來就被形容為耐放而往上調整。洗過的牛蒡完全做不到這一點：連土帶皮都被刷掉了，幾天內就會乾掉發褐。",
+    "fridge": "洗好的牛蒡請裝袋冷藏於 4°C 以下，約 1～2 週是工作上限——同樣是比照紅蘿蔔而來，並非針對牛蒡公布。請鬆鬆包好，既不乾掉也不悶出水。牛蒡多酚含量特別高，切面幾分鐘內就會變褐，所以切好請立刻丟進加了一點醋的水裡。泡水也能去掉一些澀味，但泡太久會把你想要的風味一起洗掉。",
+    "freezer": "我們的資料來源中沒有牛蒡的冷凍保存期限，所以這裡不給。它是可以冷凍的——刨絲或切片、用醋水泡一下、瀝乾後平鋪裝密封袋放 −18°C，使用時不解凍直接下鍋——而任何食品在 −18°C 下安全上都可以無限期保存。但牛蒡的魅力全在那股纖維感的嚼勁，而生根冷凍恰好會軟化的就是這一點。先炒成金平牛蒡再把成品冷凍，能保留多得多。",
+    "thawing": "冷凍牛蒡請不解凍直接下鍋或下湯。解凍後的生牛蒡會軟爛出水，完全失去它最重要的脆度。",
+    "spoilage": [
+      "整根一折就彎而不會斷，或變得輕飄飄、中心空掉",
+      "根身出現濕軟發暗的斑塊",
+      "聞起來有酸味或霉味，而不是乾淨的土香",
+      "橫切後裡面整個發褐或呈海綿狀"
+    ],
+    "tips": [
+      "想放久一點就買帶土的；洗好的牛蒡是給這禮拜就要煮的。",
+      "用刀背刮而不是削皮——香味就在皮下面，削皮器會削掉太多。",
+      "切好立刻丟進醋水，但不要泡太久。",
+      "與其冷凍生牛蒡，不如把炒好的金平牛蒡分裝冷凍。"
+    ],
+    "faq": [
+      {
+        "q": "牛蒡可以放多久？",
+        "a": "帶土未洗、用濕紙包好放陰涼避光處約 2～4 週；洗好的裝袋冷藏約 1～2 週。兩個數字都是比照紅蘿蔔而來。"
+      },
+      {
+        "q": "牛蒡要先洗再保存嗎？",
+        "a": "不要。土就是它的保護層。要煮之前再洗，而且洗過的牛蒡保存期會短非常多。"
+      },
+      {
+        "q": "牛蒡可以冷凍嗎？",
+        "a": "沒有公布的冷凍期限，所以我們不給數字。生牛蒡冷凍後會失去脆度，把炒好的金平牛蒡冷凍是更好的做法。"
+      },
+      {
+        "q": "牛蒡為什麼這麼快變黑？",
+        "a": "它的多酚含量很高，接觸空氣就會氧化。切好立刻丟進加了一點醋的水裡就能避免。"
+      }
+    ]
+  }
+}

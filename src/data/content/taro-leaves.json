@@ -1,0 +1,91 @@
+{
+  "slug": "taro-leaves",
+  "en": {
+    "name": "Taro leaves",
+    "aliases": [
+      "luau leaf",
+      "dasheen leaves",
+      "callaloo",
+      "taro tops"
+    ],
+    "summary": "Taro leaves are the broad heart-shaped leaves of the taro plant, wrapped around fillings in laulau and simmered into callaloo. No figure is published for them, so treat them like cooking greens: about 2–4 days refrigerated. They must always be cooked thoroughly.",
+    "pantry": "Taro leaves should not be kept at room temperature. They are large, thin and full of water, and a warm kitchen wilts them within hours. There is no room-temperature figure here and none should be assumed. More importantly than any storage question: taro leaves must be cooked thoroughly, because raw or undercooked leaves contain calcium oxalate crystals that burn the mouth and throat. No amount of careful storage changes that — the cooking is not optional.",
+    "fridge": "Bag them dry and unwashed, and keep them in the crisper at 4 °C (40 °F) or below, where about 2–4 days is the working limit — borrowed from the general figure for cooking greens, since nothing is published for taro leaves specifically. Keep them flat and uncrushed; a folded or creased leaf bruises along the fold and goes black. Do not wash before storing, since water on such a large leaf surface is what starts the sliminess.",
+    "freezer": "There is no freezer timeline for taro leaves, so we do not give one. They can be blanched, drained and frozen at −18 °C (0 °F), where food stays safe indefinitely, and in practice frozen taro leaf is sold that way for laulau. But no quality window has been published, and freezing raw leaves is a poor idea anyway: they collapse, and you still have to do the long cooking that the oxalate requires.",
+    "thawing": "Add frozen taro leaves straight to a long simmer without thawing, and make sure they cook right through — the calcium oxalate needs prolonged cooking, not just reheating. Do not thaw them on the counter.",
+    "spoilage": [
+      "Leaves gone slimy, translucent or blackened at the edges",
+      "Yellowing, or black bruising along a fold in the leaf",
+      "Stems gone soft and bendy instead of snapping",
+      "A sour or fermented smell when the bag is opened"
+    ],
+    "tips": [
+      "Store the leaves flat; a fold becomes a black bruise within a day.",
+      "Cook them long and thoroughly — a quick wilt is not enough.",
+      "Wear gloves when handling large quantities; the sap irritates some people's skin.",
+      "Coconut milk or another fat in the pot both mellows the flavour and suits the long cooking the leaves need."
+    ],
+    "faq": [
+      {
+        "q": "How long do taro leaves last in the fridge?",
+        "a": "About 2–4 days at 4 °C (40 °F) or below, bagged dry and unwashed. That figure is borrowed from cooking greens; none is published for taro leaves."
+      },
+      {
+        "q": "Can you eat taro leaves raw?",
+        "a": "No, never. Raw and undercooked taro leaves contain calcium oxalate crystals that burn the mouth and throat. They must be cooked thoroughly and for a long time."
+      },
+      {
+        "q": "Can you freeze taro leaves?",
+        "a": "No timeline is published, so we do not give one. Blanched and frozen at −18 °C (0 °F) they are safe indefinitely, and frozen taro leaf is sold commercially for laulau."
+      },
+      {
+        "q": "Why do taro leaves make my throat itch?",
+        "a": "That is the calcium oxalate, and it means they were not cooked long enough. Prolonged cooking is what breaks it down; acid and fat in the pot help as well."
+      }
+    ]
+  },
+  "zh": {
+    "name": "芋葉",
+    "aliases": [
+      "芋頭葉",
+      "芋艿葉",
+      "檳榔心芋葉",
+      "芋梗葉"
+    ],
+    "summary": "芋葉是芋頭植株寬大的心形葉片，夏威夷的 laulau 用它包餡，加勒比海的 callaloo 則把它燉成一鍋。它沒有公布的保存數據，可以比照一般烹調用葉菜來看：冷藏約 2～4 天。而且它必須徹底煮熟。",
+    "pantry": "芋葉不應該放室溫。葉片又大又薄、含水量高，在溫暖的廚房裡幾小時就萎了。這裡不提供常溫保存天數，也請不要自行推估。而比保存問題更重要的是：芋葉必須徹底煮熟，因為生的或沒煮透的葉片含有草酸鈣結晶，會灼傷口腔和咽喉。再怎麼小心保存也改變不了這一點——煮透不是選項。",
+    "fridge": "不清洗，保持乾燥裝袋，放在 4°C 以下的蔬果保鮮室，約 2～4 天是工作上限——這是比照一般烹調用葉菜的數字而來，因為芋葉本身沒有任何公布的數據。請攤平保存、不要壓到；折過的葉子會沿著折痕瘀傷發黑。保存前不要洗，這麼大片的葉面一沾水就是變黏的起點。",
+    "freezer": "芋葉沒有公布的冷凍保存期限，所以我們不提供數字。它可以汆燙、瀝乾後冷凍於 −18°C，在該溫度下安全上可無限期保存；實務上市售的冷凍芋葉就是這樣供給 laulau 使用的。但既然沒有公布的品質期限，我們不引用；而且生葉直接冷凍本來也不是好主意：它會塌掉，而草酸鈣所需要的長時間烹煮，你還是得做。",
+    "thawing": "冷凍芋葉請不解凍，直接下鍋長時間燉煮，並確保完全煮透——草酸鈣需要的是長時間加熱，不是加熱一下就好。不要在室溫解凍。",
+    "spoilage": [
+      "葉片變黏、變得半透明，或葉緣發黑",
+      "葉子泛黃，或沿著折痕出現黑色瘀傷",
+      "葉柄變軟可彎，折不斷",
+      "打開袋子聞到酸味或發酵味"
+    ],
+    "tips": [
+      "攤平保存；折一道，一天內那裡就會變成黑色瘀傷。",
+      "要久煮、要煮透——稍微燙軟是不夠的。",
+      "處理大量芋葉時戴手套，汁液會刺激某些人的皮膚。",
+      "鍋裡加椰奶或其他油脂，既能柔化味道，也很適合芋葉所需要的長時間烹煮。"
+    ],
+    "faq": [
+      {
+        "q": "芋葉放冰箱可以放多久？",
+        "a": "4°C 以下冷藏，不清洗、保持乾燥裝袋，約 2～4 天。這個數字是比照烹調用葉菜而來；芋葉本身沒有公布的數據。"
+      },
+      {
+        "q": "芋葉可以生吃嗎？",
+        "a": "絕對不行。生的或沒煮透的芋葉含有草酸鈣結晶，會灼傷口腔和咽喉。必須長時間徹底煮熟。"
+      },
+      {
+        "q": "芋葉可以冷凍嗎？",
+        "a": "沒有公布的期限，所以我們不給數字。汆燙後冷凍於 −18°C 在安全上可無限期保存，市售冷凍芋葉也是這樣供 laulau 使用的。"
+      },
+      {
+        "q": "吃芋葉為什麼會刺喉嚨？",
+        "a": "那是草酸鈣，代表煮的時間不夠。長時間加熱才能分解它，鍋裡加點酸和油脂也有幫助。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "green-beans",
+  "en": {
+    "name": "Green beans",
+    "aliases": ["string beans", "French beans", "snap beans", "haricots verts"],
+    "summary": "Green beans are immature bean pods eaten whole, and they lose their snap faster than they lose their looks. Refrigerated at 4 °C (40 °F) or below they keep 3–5 days from the day of purchase, and blanched and frozen they hold good quality for about 8 months.",
+    "pantry": "Green beans should not be kept at room temperature. The pods are thin and lose water quickly, so in a warm kitchen they go flexible and leathery within a day and develop rusty brown spots soon after. There is no room-temperature figure for them here and none should be assumed. Refrigerate them as soon as you get home, unwashed.",
+    "fridge": "Store green beans unwashed in a perforated bag in the crisper at 4 °C (40 °F) or below, where they keep 3–5 days from purchase. They need a little humidity but not wet: a bag with holes or a box lined with kitchen paper suits them better than a sealed container, where condensation turns the pods slimy. Do not trim the ends until you cook them, since every cut is a place to lose water and pick up bacteria.",
+    "freezer": "Green beans freeze well, but they must be blanched — raw-frozen beans turn dull, tough and off-flavoured as their enzymes keep working. Top and tail, boil for 3 minutes, plunge into iced water, drain thoroughly, then freeze spread on a tray before bagging so they stay loose. At −18 °C (0 °F) they are safe indefinitely and keep good quality for about 8 months.",
+    "thawing": "Cook green beans from frozen. Drop them into boiling water, a steamer or a hot pan without thawing, allowing an extra minute or two. Thawed beans are limp and watery and will not crisp up again.",
+    "spoilage": [
+      "Pods that bend instead of snapping cleanly in half",
+      "Brown or rust-coloured spots spreading along the pod",
+      "Slimy, wet or darkened patches, especially where beans touched",
+      "A sour smell, or visible mould at the stem end"
+    ],
+    "tips": [
+      "Choose beans that snap audibly when you bend one — that is the freshness test.",
+      "Store unwashed and untrimmed; prepare them only when you are ready to cook.",
+      "Freeze on a tray first so you can pour out exactly the handful you need.",
+      "Cook them properly — green beans should never be eaten raw or barely cooked."
+    ],
+    "faq": [
+      {"q": "How long do green beans last in the fridge?", "a": "3–5 days from the day of purchase at 4 °C (40 °F) or below, unwashed in a perforated bag in the crisper."},
+      {"q": "Can you freeze green beans?", "a": "Yes, after blanching for 3 minutes and chilling in iced water. Packed airtight at −18 °C (0 °F) they keep good quality for about 8 months."},
+      {"q": "Can you eat green beans raw?", "a": "No. Raw and undercooked green beans contain lectins that cause stomach upset, so cook them through until they are tender rather than squeaky."},
+      {"q": "What are the brown spots on my green beans?", "a": "They are usually rust or bruising from handling and cold damage. A few small spots can be trimmed away; widespread brown patches with softness mean the beans should go."}
+    ]
+  },
+  "zh": {
+    "name": "四季豆",
+    "aliases": ["敏豆", "菜豆", "四季豆莢", "醜豆"],
+    "summary": "四季豆是連莢食用的未熟豆莢，它失去脆度的速度比外觀變差還快。冷藏在 4°C 以下，從購買當天算起可放 3～5 天；汆燙後冷凍則能維持約 8 個月的良好品質。",
+    "pantry": "四季豆不適合放室溫。豆莢很薄，失水非常快，在溫暖的廚房裡一天就會變得軟軟可彎，接著長出鏽褐色斑點。這裡不提供常溫保存的天數，也請不要自行推估。買回家請不清洗直接冷藏。",
+    "fridge": "不清洗，裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 3～5 天。它需要一點濕度但不能濕：打洞袋或鋪廚房紙巾的保鮮盒，都比完全密封的容器好，密封容器裡凝結的水會讓豆莢變黏。另外，要煮之前再摘蒂去筋，因為每一個切口都會流失水分、也是細菌的入口。",
+    "freezer": "四季豆很適合冷凍，但一定要先汆燙——生凍的豆莢酵素持續作用，顏色會變暗、口感變柴、還會產生怪味。摘掉頭尾，滾水煮 3 分鐘，撈起泡冰水，徹底瀝乾後先攤在托盤上凍硬再裝袋，可以保持顆粒分明。放 −18°C 安全上可無限期保存，品質可維持約 8 個月。",
+    "thawing": "四季豆請不解凍直接煮。冷凍狀態下丟進滾水、蒸鍋或熱鍋，加熱時間多抓一兩分鐘。解凍後的豆莢軟爛出水，再也脆不回來。",
+    "spoilage": [
+      "折彎時只是彎曲，不會清脆地折斷",
+      "豆莢上出現褐色或鏽色斑點並且擴散",
+      "有黏滑、濕爛或發黑的區塊，尤其是豆莢互相接觸的地方",
+      "有酸味，或蒂頭處看得到黴"
+    ],
+    "tips": [
+      "挑折一下會發出清脆聲響的，那就是新鮮度測試。",
+      "保存時不洗、不摘頭尾，要煮之前再處理。",
+      "先攤在托盤上凍硬再裝袋，之後要用多少倒多少。",
+      "一定要煮熟；四季豆絕對不能生吃或半生食用。"
+    ],
+    "faq": [
+      {"q": "四季豆放冰箱可以放多久？", "a": "4°C 以下冷藏，不清洗、裝打洞袋放蔬果室，從購買當天算起 3～5 天。"},
+      {"q": "四季豆可以冷凍嗎？", "a": "可以，先汆燙 3 分鐘並冰鎮瀝乾。密封後放 −18°C 冷凍，品質可維持約 8 個月。"},
+      {"q": "四季豆可以生吃嗎？", "a": "不可以。生的或沒煮透的四季豆含有凝集素，會引起腸胃不適，一定要煮到完全軟熟，不要留生脆感。"},
+      {"q": "四季豆上的褐斑是什麼？", "a": "多半是碰撞或低溫傷害造成的鏽斑。少數小斑點削掉即可；如果褐斑大片又伴隨變軟，就該丟掉。"}
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "silken-tofu",
+  "en": {
+    "name": "Silken tofu",
+    "aliases": ["soft tofu", "kinugoshi tofu", "boxed tofu", "filled tofu", "egg-box tofu"],
+    "summary": "Silken tofu is set without pressing, so it holds all its whey and has a custard-like texture. Refrigerated at 10 °C or below it keeps roughly 3–7 days depending on how it was packed, and only 1–2 days once the seal is broken. It is not a food to freeze unless you want it to collapse.",
+    "pantry": "Silken tofu is not a room-temperature food. It is high in moisture, low in acid and low in salt, which is close to ideal for bacterial growth, and spore-forming bacteria are active anywhere between roughly 10 °C and 50 °C. Keep it refrigerated until the moment you use it, follow the two-hour rule (one hour above 32 °C / 90 °F), and do not let a pack sit in a hot car on the way home.",
+    "fridge": "Store it unopened in its pack in the coldest part of the fridge. How long it keeps depends on how it was made: silken tofu that is cut and then packed runs to about three days, while filled tofu — poured into the tub, sealed and then heated — runs to about seven. Either way the printed date applies only while the pack is sealed. Industry hygiene standards set the chiller at 10 °C or below; a home fridge at 4 °C (40 °F) or below is better. Once opened, the pasteurised interior is exposed, so cover the remaining block with fresh cold water in a lidded box and finish it within a day or two.",
+    "freezer": "There is no useful freezer timeline for silken tofu, and we are not going to invent one. Freezing forces the water in the curd into ice crystals that tear the delicate protein network apart; what you get back is not soft tofu that has been preserved but a spongy, weeping block with none of the texture you bought it for. If you want frozen tofu for hotpot, use a firm block, which takes the change gracefully. Silken tofu is better bought in the size you will actually eat.",
+    "thawing": null,
+    "spoilage": [
+      "Sour, yeasty or sharply fermented smell when the pack is opened",
+      "Liquid in the tub gone cloudy, thick or ropy",
+      "Surface turned slippery or slimy rather than smooth and wet",
+      "A swollen or domed lid, yellowing, pink patches, or any mould"
+    ],
+    "tips": [
+      "Buy the pack size you will finish; opened silken tofu has a very short life.",
+      "Open it over a plate and drain the whey rather than tipping the block out through your hands.",
+      "Keep an opened block submerged in fresh cold water with a lid on.",
+      "A domed or tight lid on an unopened tub means gas inside — do not open it, discard it."
+    ],
+    "faq": [
+      {"q": "How long does silken tofu last in the fridge?", "a": "Roughly 3 days for cut-and-packed silken tofu and around 7 for sealed filled tofu, both unopened and refrigerated. Once opened, use it within 1–2 days."},
+      {"q": "Can you freeze silken tofu?", "a": "You can put it in the freezer, but there is no published timeline and little point: it thaws spongy and weeping. Use firm tofu if you want frozen tofu for hotpot."},
+      {"q": "Can you eat silken tofu straight from the pack?", "a": "Yes, packaged silken tofu is made to be eaten cold, as in 涼拌豆腐 or hiyayakko. Rinse the block, drain it, and dress it just before serving."},
+      {"q": "The tofu pack is puffed up — is it still good?", "a": "No. A domed or tight lid means gas has been produced inside. Throw the pack away unopened rather than smelling it."}
+    ]
+  },
+  "zh": {
+    "name": "嫩豆腐",
+    "aliases": ["絹豆腐", "盒裝豆腐", "充填豆腐", "嫩板豆腐", "軟豆腐"],
+    "summary": "嫩豆腐不經壓製，整鍋豆漿直接凝固，因此保留全部水分，口感像布丁。冷藏在 10°C 以下大約可放 3～7 天，視製法而定；一旦拆封只剩 1～2 天。除非你要的就是海綿口感，否則不建議冷凍。",
+    "pantry": "嫩豆腐不能放室溫。它含水量高、酸度低、鹽分低，幾乎是細菌最愛的環境，而會形成芽孢的細菌在大約 10～50°C 之間都很活躍。用之前才從冰箱拿出來，並遵守兩小時原則（氣溫超過 32°C 時只有一小時）；也不要讓盒裝豆腐在悶熱的車裡放著。",
+    "fridge": "未開封請連盒放在冰箱最冷的位置。能放多久取決於製法：切塊後再包裝的絹豆腐大約三天，先灌入盒中密封再加熱的充填豆腐則可到七天左右。不論哪一種，包裝上的日期只在未開封時成立。業界衛生規範把冷藏庫訂在 10°C 以下，家用冰箱維持 4°C 以下更理想。開封後，原本經過殺菌的內部就暴露了，請把剩下的豆腐泡在乾淨冷水裡、加蓋冷藏，並在一兩天內吃完。",
+    "freezer": "嫩豆腐沒有可用的冷凍保存期限，我們也不會硬掰一個。冷凍會讓豆腐裡的水結成冰晶，把細緻的蛋白質網絡撐破；解凍後得到的不是「被保存下來的嫩豆腐」，而是一塊會出水的海綿，完全失去你當初買它的口感。想要火鍋用的凍豆腐，請改用板豆腐，它承受得住這個變化。嫩豆腐還是買剛好吃得完的份量最實在。",
+    "thawing": null,
+    "spoilage": [
+      "拆封時聞到酸味、酵母味或明顯的發酵味",
+      "盒中的水變混濁、變稠或牽絲",
+      "表面由光滑濕潤變得黏手滑膩",
+      "盒蓋鼓起，或豆腐發黃、出現粉紅斑塊、長黴"
+    ],
+    "tips": [
+      "買吃得完的份量，開封後的嫩豆腐真的放不久。",
+      "拆封時在盤子上開，把水瀝掉，不要用手直接把豆腐倒出來。",
+      "開封後剩下的豆腐泡冷水、加蓋冷藏。",
+      "未開封的盒子如果鼓脹、膜繃得很緊，代表裡面產氣了，不要打開，直接丟棄。"
+    ],
+    "faq": [
+      {"q": "嫩豆腐放冰箱可以放多久？", "a": "未開封冷藏，切塊包裝的絹豆腐約 3 天，密封充填的盒豆腐約 7 天。開封後請在 1～2 天內吃完。"},
+      {"q": "嫩豆腐可以冷凍嗎？", "a": "放得進冷凍庫，但沒有公布的保存期限，實際上也沒什麼意義：解凍後會變成出水的海綿。想要凍豆腐請改用板豆腐。"},
+      {"q": "盒裝嫩豆腐可以直接吃嗎？", "a": "可以，盒裝嫩豆腐本來就是設計成可以冷食的，像涼拌豆腐就是。沖一下、瀝乾，要吃之前再淋醬。"},
+      {"q": "豆腐盒鼓起來還能吃嗎？", "a": "不能。盒蓋鼓脹代表裡面已經產氣，請不要拆開聞，直接整盒丟掉。"}
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "edamame-fresh",
+  "en": {
+    "name": "Edamame, fresh",
+    "aliases": ["fresh soybeans", "green soybeans", "edamame pods", "mao dou"],
+    "summary": "Fresh edamame are immature soybeans sold in the pod, still on the stem or loose. Refrigerated at 4 °C (40 °F) or below they keep about 4–5 days, and the sugars that make them taste sweet start converting almost as soon as they are picked, so the sooner you cook them the better.",
+    "pantry": "Edamame are a living, respiring vegetable and they do not belong on the counter. At room temperature the pods respire fast, the sugar turns to starch, the beans lose their sweetness within a day and the pods yellow. In a warm kitchen a bunch bought in the morning can be noticeably worse by evening. Take them home and refrigerate straight away, or better still boil them the day you buy them.",
+    "fridge": "Store edamame unwashed in a perforated or loosely closed bag in the crisper at 4 °C (40 °F) or below, where they keep roughly 4–5 days. Keep them dry; trapped condensation is what turns the pods slimy. If they came on the stalk, cutting the pods off first saves space and does not shorten their life. Boiled and salted edamame are a different matter — treat them as cooked food and eat them within a couple of days.",
+    "freezer": "Our data gives no freezer timeline for fresh edamame, so there is no number here to quote. In practice the way it is done is to boil the pods for 3–4 minutes, cool them in iced water, drain hard and pack them airtight at −18 °C (0 °F) — the same principle behind the frozen edamame sold in every supermarket, which is blanched and frozen within hours of harvest. Frozen food held at −18 °C stays safe indefinitely; without a published figure we will not pretend to know the quality window.",
+    "thawing": "Frozen edamame do not need thawing. Drop them into boiling water for a minute or two, or steam them from frozen, and salt them while hot. To eat them cold, run them under cold water and pat dry.",
+    "spoilage": [
+      "Pods gone yellow, brown-spotted or dry and papery",
+      "Slimy or sticky pods, especially where they were bagged wet",
+      "A sour or fermented smell when you open the bag",
+      "Beans inside shrunken, wrinkled or mushy instead of plump and bright green"
+    ],
+    "tips": [
+      "Buy edamame with bright green, fuzzy, tight-filled pods and cook them the same day if you can.",
+      "Boil in well-salted water; a pinch of salt rubbed on the pods first makes the fuzz less noticeable.",
+      "Cool boiled edamame in a single layer rather than piling them up, or they carry on cooking.",
+      "Do not wash them before storing — moisture on the pods is what starts the sliminess."
+    ],
+    "faq": [
+      {"q": "How long does fresh edamame last in the fridge?", "a": "About 4–5 days at 4 °C (40 °F) or below, unwashed in a perforated bag in the crisper. The flavour drops off well before the pods actually spoil."},
+      {"q": "Can you freeze fresh edamame?", "a": "There is no published freezer timeline for fresh edamame, so we do not give one. Blanching for 3–4 minutes, chilling and packing airtight at −18 °C (0 °F) is the standard method, and frozen food kept at that temperature stays safe indefinitely."},
+      {"q": "Should you eat edamame pods?", "a": "No. Squeeze the beans out and discard the pod, which is fibrous and inedible. The salt on the outside of the pod is part of the point."},
+      {"q": "Why has my edamame lost its sweetness?", "a": "Soybeans convert sugar to starch quickly after picking, and warmth speeds it up. Refrigerating immediately slows it, but nothing brings the sweetness back."}
+    ]
+  },
+  "zh": {
+    "name": "毛豆",
+    "aliases": ["枝豆", "新鮮毛豆", "毛豆莢", "青毛豆"],
+    "summary": "毛豆是連莢採收的未成熟黃豆，市場上有整枝的也有散裝的。冷藏在 4°C 以下大約可放 4～5 天；不過毛豆一採下來，甜味來源的糖分就開始轉成澱粉，所以愈早煮愈好吃。",
+    "pantry": "毛豆是還在呼吸的活體蔬菜，不適合放在室溫。常溫下豆莢呼吸旺盛，糖轉成澱粉，一天之內甜味就明顯下降，豆莢也會開始泛黃。在悶熱的廚房裡，早上買的毛豆到晚上就吃得出差別。買回家請立刻冷藏，最理想是當天就燙起來。",
+    "fridge": "不清洗，裝進打洞袋或不要封死的袋子，放在 4°C 以下的蔬果保鮮室，大約可放 4～5 天。重點是保持乾燥，袋內積水正是豆莢變黏的原因。如果買的是整枝的，先把豆莢剪下來比較省空間，也不會因此更快壞。已經煮好調味的鹽水毛豆是另一回事，請當成熟食處理，兩天內吃完。",
+    "freezer": "我們的資料裡沒有新鮮毛豆的冷凍保存期限，所以這裡不給數字。實務上的做法是：豆莢用滾水煮 3～4 分鐘，冰水冷卻，徹底瀝乾後密封放 −18°C——超市裡的冷凍毛豆就是這個原理，只是在採收後幾小時內就完成。食品在 −18°C 保存，安全上可以無限期；但既然沒有公布的品質期限，我們就不假裝知道。",
+    "thawing": "冷凍毛豆不需要解凍。直接丟進滾水煮一兩分鐘，或整包冷凍下去蒸，趁熱撒鹽。要做冷食就沖冷水後擦乾即可。",
+    "spoilage": [
+      "豆莢泛黃、出現褐斑，或乾癟變得像紙一樣",
+      "豆莢摸起來黏滑，尤其是濕著裝袋的部分",
+      "打開袋子聞到酸味或發酵味",
+      "剝開後豆仁乾癟、皺縮或軟爛，不再飽滿翠綠"
+    ],
+    "tips": [
+      "挑豆莢翠綠、絨毛完整、豆粒飽滿撐滿的，能當天煮最好。",
+      "用鹽水煮；下鍋前先用鹽搓一搓豆莢，可以讓絨毛的口感不那麼明顯。",
+      "燙好後攤平放涼，不要堆成一坨，否則餘熱會繼續把它悶熟。",
+      "保存前不要洗，豆莢上的水分正是變黏的起點。"
+    ],
+    "faq": [
+      {"q": "新鮮毛豆放冰箱可以放多久？", "a": "4°C 以下冷藏、不清洗裝在打洞袋裡放蔬果室，大約 4～5 天。但風味在真正壞掉之前就已經明顯下滑了。"},
+      {"q": "新鮮毛豆可以冷凍嗎？", "a": "新鮮毛豆沒有公布的冷凍保存期限，我們不編一個。標準做法是汆燙 3～4 分鐘、冰鎮、瀝乾後密封放 −18°C；在該溫度下安全上可以無限期保存。"},
+      {"q": "毛豆的豆莢可以吃嗎？", "a": "不行。把豆仁擠出來吃，豆莢纖維粗、不能吃。附著在莢上的鹹味本來就是這道菜的一部分。"},
+      {"q": "毛豆為什麼變得不甜了？", "a": "黃豆採收後會很快把糖轉成澱粉，溫度高轉得更快。立刻冷藏可以放慢這個過程，但已經流失的甜味回不來。"}
+    ]
+  }
+}

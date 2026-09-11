@@ -1,0 +1,57 @@
+{
+  "slug": "brie",
+  "en": {
+    "name": "Brie",
+    "aliases": ["Camembert", "bloomy-rind cheese", "white-rind cheese", "soft-ripened cheese"],
+    "summary": "Brie is a soft cheese ripened from the outside in by the white mould on its rind, which means it is always changing and never stops. Refrigerated at 4 °C (40 °F) or below it keeps 1–2 weeks from the day of purchase, and about 6 months in the freezer, though freezing is a compromise.",
+    "pantry": "Brie is a high-moisture, low-acid soft cheese and it must be kept refrigerated. Listeria monocytogenes is the specific concern with cheeses of this kind: it is the organism that soft, moist, low-acid cheeses favour, and unusually it can still grow slowly at fridge temperatures, let alone on a warm table. Serve brie at room temperature for taste by all means, but that means half an hour or so, not an afternoon — the two-hour rule applies, one hour above 32 °C (90 °F).",
+    "fridge": "Store brie at 4 °C (40 °F) or below in the main compartment, in its original box or wrapped in waxed paper, never sealed tightly in cling film — the rind is alive and suffocating it makes the paste turn to ammonia. It keeps 1–2 weeks from purchase. A firm, chalky centre means it is young; a paste that bulges when cut means it is fully ripe and should be eaten now. If you are pregnant or immunocompromised, soft and semi-soft cheeses are best avoided unless thoroughly cooked, and that advice applies to pasteurised brie as well as to raw-milk brie.",
+    "freezer": "Brie freezes for about 6 months from purchase at −18 °C (0 °F), but the texture never fully recovers: it thaws grainier and wetter, and the ripening that gives brie its character stops for good. Freeze it in wedges, wrapped airtight, and plan to bake it whole, fold it into a sauce or melt it into a tart rather than serve it on a board.",
+    "thawing": "Thaw brie slowly in the fridge overnight, still wrapped, and use it within a couple of days. Never thaw it at room temperature, which is precisely the condition Listeria likes. Do not refreeze it.",
+    "spoilage": [
+      "A strong ammonia smell — a hint is normal in a ripe brie, a sharp reek is not",
+      "Coloured mould on the rind: grey, blue-green, black or pink patches among the white",
+      "A rind that has gone slimy, sticky or brown, or paste leaking out",
+      "A bitter or acrid taste, or a rind that tastes of nothing but ammonia"
+    ],
+    "tips": [
+      "Buy the size you will finish within a week or two; brie does not wait.",
+      "Keep it in its wooden box or wrap it in waxed paper so the rind can breathe.",
+      "Take it out 30 minutes before serving, then put the rest away promptly.",
+      "Never cut mould off a soft cheese — unlike hard cheese, the threads run right through the paste."
+    ],
+    "faq": [
+      {"q": "How long does brie last in the fridge?", "a": "1–2 weeks from the day of purchase at 4 °C (40 °F) or below, wrapped in paper rather than plastic film."},
+      {"q": "Can you freeze brie?", "a": "Yes, for about 6 months at −18 °C (0 °F), but it thaws grainy and wet. Freeze it only if you intend to bake or melt it."},
+      {"q": "Can you eat the rind of brie?", "a": "Yes, the white bloomy rind is edible and is part of the cheese. If it has turned grey, brown or slimy, the cheese has gone too far."},
+      {"q": "Can you cut mould off brie?", "a": "No. Soft cheeses hold enough moisture for mould and bacteria to spread through the whole paste, so unexpected coloured mould means the whole piece goes."}
+    ]
+  },
+  "zh": {
+    "name": "布里起司",
+    "aliases": ["白黴起司", "卡門貝爾", "Brie", "Camembert", "軟質熟成起司"],
+    "summary": "布里是靠外皮上的白黴由外往內熟成的軟質起司，也就是說它一直在變化、而且不會停下來。4°C 以下冷藏，從購買當天算起可放 1～2 週；冷凍約 6 個月，但那是一種妥協。",
+    "pantry": "布里屬於高含水、低酸度的軟質起司，必須全程冷藏。這類起司特別要留意的是李斯特菌：軟質、濕潤、低酸的起司正是它偏好的環境，而且它即使在冷藏溫度下也還能緩慢生長，更別說放在溫熱的餐桌上。為了風味讓布里回到室溫當然沒問題，但指的是半小時左右，不是一整個下午——兩小時原則同樣適用，氣溫超過 32°C 時只有一小時。",
+    "fridge": "冷藏維持 4°C 以下，放在冰箱主室，用原本的木盒或蠟紙包著，千萬不要用保鮮膜緊緊密封——外皮是活的，悶住它會讓內部整個變成阿摩尼亞味。從購買日起可放 1～2 週。切開後中心還是白白粉粉、偏硬，代表熟成度還輕；一切開就往外流，代表已經完全熟成，要盡快吃完。孕婦和免疫力較弱的人，除非徹底加熱，否則建議避開軟質與半軟質起司，而且這個建議對殺菌乳製的布里同樣成立，不只針對生乳製品。",
+    "freezer": "布里在 −18°C 冷凍，從購買日起約可放 6 個月，但質地回不來：解凍後會變得顆粒感重、出水，而且賦予布里個性的熟成過程也就此終止。請切成小塊密封冷凍，並打算用來整顆焗烤、融進醬汁或做鹹派，而不是切片上拼盤。",
+    "thawing": "解凍請連著包裝放冷藏室慢慢退冰一晚，並在兩天內用完。絕對不要在室溫解凍，那正是李斯特菌喜歡的條件。解凍後不要再冷凍。",
+    "spoilage": [
+      "強烈的阿摩尼亞味——熟成布里帶一點是正常的，刺鼻嗆人就不是",
+      "外皮的白黴中夾雜灰色、藍綠色、黑色或粉紅色的黴斑",
+      "外皮變得黏滑、發黏或轉褐，或內餡整個流出來",
+      "吃起來苦澀嗆口，或外皮只剩阿摩尼亞味"
+    ],
+    "tips": [
+      "買一兩週內吃得完的份量，布里不會等人。",
+      "放在原本的木盒裡或用蠟紙包，讓外皮能呼吸。",
+      "上桌前 30 分鐘拿出來回溫，吃完立刻收回冰箱。",
+      "軟質起司絕對不要「把霉切掉繼續吃」——和硬起司不同，菌絲會貫穿整塊。"
+    ],
+    "faq": [
+      {"q": "布里起司放冰箱可以放多久？", "a": "4°C 以下冷藏，從購買當天算起 1～2 週。用紙包而不是用保鮮膜密封。"},
+      {"q": "布里起司可以冷凍嗎？", "a": "可以，放 −18°C 約 6 個月，但解凍後質地會變粗、會出水。只有打算焗烤或融化使用時才建議冷凍。"},
+      {"q": "布里的外皮可以吃嗎？", "a": "可以，白色的外皮本來就是起司的一部分。但如果它已經轉灰、轉褐或變黏，就代表這塊起司過頭了。"},
+      {"q": "布里發霉可以把霉切掉嗎？", "a": "不行。軟質起司含水量高，黴菌和細菌會蔓延到整塊裡面，只要出現不該有的雜色黴，整塊都要丟棄。"}
+    ]
+  }
+}

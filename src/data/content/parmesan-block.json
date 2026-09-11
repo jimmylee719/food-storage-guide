@@ -1,0 +1,57 @@
+{
+  "slug": "parmesan-block",
+  "en": {
+    "name": "Parmesan, block",
+    "aliases": ["Parmigiano-Reggiano", "Grana Padano", "parmesan wedge", "hard grating cheese"],
+    "summary": "Block parmesan is a very hard, long-aged grating cheese with so little moisture that it keeps better than almost any other cheese. Unopened it lasts about 6 months from purchase at 4 °C (40 °F) or below, 3–4 weeks once opened, and about 6 months in the freezer.",
+    "pantry": "Parmesan is dry and salty enough to sit on a table through a long meal without coming to harm, but it is not a pantry cheese. At room temperature the fat gradually sweats out and the cut face hardens into an inedible crust, and the two-hour rule still applies as a habit (one hour above 32 °C / 90 °F). Grate what you need and put the block back.",
+    "fridge": "Store parmesan at 4 °C (40 °F) or below in the main body of the fridge. Vacuum-sealed it keeps about 6 months from purchase; once opened, 3–4 weeks. Wrap the cut wedge in waxed or greaseproof paper — better still, lightly damp paper — and then in foil or a lidded box. A dry wedge left naked in the fridge turns to a rock in a week; one smothered in cling film sweats and moulds. Both problems have the same answer: paper first, then a loose outer layer.",
+    "freezer": "Parmesan freezes for about 6 months from purchase at −18 °C (0 °F). Because it is already dry and crumbly, it suffers less from freezing than a softer cheese does — grated parmesan in particular comes out of the freezer almost unchanged and can be used without thawing. Freeze it grated in a sealed bag, or in small wedges wrapped airtight.",
+    "thawing": "Thaw a wedge overnight in the fridge in its wrapping and use it within a week or so. Grated parmesan needs no thawing at all — take what you need straight from the bag and return the rest to the freezer immediately.",
+    "spoilage": [
+      "Fuzzy blue, green, black or pink mould on the cut face",
+      "A sharp ammonia smell instead of the usual nutty, savoury one",
+      "A damp, slimy surface, usually from being wrapped in plastic",
+      "A rancid or bitter taste, which points to fat that has oxidised"
+    ],
+    "tips": [
+      "Buy a wedge and grate it yourself; pre-grated parmesan stales fast and often contains anti-caking agents.",
+      "Keep the rinds in a bag in the freezer and simmer them in soups and sauces.",
+      "Wrap in slightly damp greaseproof paper, then foil, to stop the face drying out.",
+      "Grate the last dry end straight into a freezer bag rather than throwing it away."
+    ],
+    "faq": [
+      {"q": "How long does block parmesan last in the fridge?", "a": "About 6 months from purchase while vacuum-sealed, and 3–4 weeks once opened, at 4 °C (40 °F) or below."},
+      {"q": "Can you freeze parmesan?", "a": "Yes, for about 6 months at −18 °C (0 °F). It handles freezing better than softer cheeses, and grated parmesan can be used straight from frozen."},
+      {"q": "Can you cut mould off parmesan?", "a": "Yes. It is a hard cheese, so cut at least 2.5 cm (1 inch) around and below the mould, avoid touching the mould with the knife, and re-wrap the rest in fresh paper."},
+      {"q": "Can you eat the parmesan rind?", "a": "It is not pleasant to eat as it is, but it is perfectly edible. Drop it into a soup, stock or tomato sauce as it simmers and remove it before serving."}
+    ]
+  },
+  "zh": {
+    "name": "帕瑪森起司（塊）",
+    "aliases": ["帕馬森", "Parmigiano-Reggiano", "巴馬乾酪", "Grana Padano", "起司磚"],
+    "summary": "塊狀帕瑪森是長期熟成的超硬質刨絲用起司，含水量極低，耐放程度幾乎是所有起司之最。4°C 以下冷藏，未開封從購買日起約 6 個月，開封後 3～4 週，冷凍約 6 個月。",
+    "pantry": "帕瑪森夠乾、夠鹹，整頓飯放在餐桌上也不會出問題，但它不是能常溫保存的起司。室溫下油脂會慢慢滲出，切面會硬成一層吃不動的殼；兩小時原則仍應當成習慣（氣溫超過 32°C 時只有一小時）。刨完需要的量就把整塊收回去。",
+    "fridge": "冷藏維持 4°C 以下，放在冰箱主室。真空包裝未開封從購買日起約 6 個月；開封後 3～4 週。切開的那塊請先用蠟紙或烘焙紙包起來——稍微沾濕的紙更好——外面再包鋁箔或放進有蓋盒子。乾放在冰箱裡不包的話，一週就硬得像石頭；用保鮮膜緊緊裹住則會悶出水發霉。兩個問題的解法是同一個：先包紙，外層再鬆鬆包一層。",
+    "freezer": "帕瑪森在 −18°C 冷凍，從購買日起約可放 6 個月。因為它本來就乾、本來就碎，冷凍造成的損傷比軟質起司小得多——尤其刨好的帕瑪森，從冷凍庫拿出來幾乎沒有變化，可以不解凍直接使用。建議刨絲後裝密封袋，或切成小塊密封包好再冷凍。",
+    "thawing": "整塊請連著包裝放冷藏室退冰一晚，並在約一週內用完。刨絲的完全不需要解凍，要多少拿多少，其餘立刻放回冷凍庫。",
+    "spoilage": [
+      "切面長出藍色、綠色、黑色或粉紅色的毛狀黴",
+      "有刺鼻的阿摩尼亞味，而不是原本的堅果鹹香",
+      "表面潮濕黏滑，通常是被保鮮膜密封造成的",
+      "吃起來有油耗味或苦味，代表油脂已經氧化"
+    ],
+    "tips": [
+      "買整塊自己刨；預刨的帕瑪森走味快，而且多半添加了防結塊劑。",
+      "外皮收在冷凍袋裡，煮湯或熬醬時丟一塊進去提味。",
+      "用微濕的烘焙紙包起來再包鋁箔，可以避免切面乾裂。",
+      "最後乾掉的一小截直接刨進冷凍袋，不要丟。"
+    ],
+    "faq": [
+      {"q": "帕瑪森起司放冰箱可以放多久？", "a": "4°C 以下冷藏，真空未開封從購買日起約 6 個月，開封後 3～4 週。"},
+      {"q": "帕瑪森可以冷凍嗎？", "a": "可以，放 −18°C 約 6 個月。它比軟質起司耐凍，刨好的甚至可以不解凍直接使用。"},
+      {"q": "帕瑪森發霉可以切掉嗎？", "a": "可以。它屬於硬質起司，請在霉點周圍與底下各切除至少 2.5 公分，刀子避免碰到霉，再用乾淨的紙重新包好。"},
+      {"q": "帕瑪森的外皮可以吃嗎？", "a": "直接啃不好吃，但完全可以食用。熬湯、煮高湯或煮番茄醬時丟一塊進去，上桌前撈出來即可。"}
+    ]
+  }
+}

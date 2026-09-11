@@ -1,0 +1,57 @@
+{
+  "slug": "marinated-vegetables-oil",
+  "en": {
+    "name": "Marinated vegetables in oil",
+    "aliases": ["vegetables under oil", "sott'olio", "oil-marinated antipasti", "garlic in oil"],
+    "summary": "These are vegetables — peppers, mushrooms, artichokes, garlic, herbs — covered with oil rather than preserved in acid. Refrigerated at 4 °C (40 °F) or below they keep 3–4 days, and the short figure is not caution for its own sake: oil excludes air, and that is exactly what Clostridium botulinum needs.",
+    "pantry": "Vegetables under oil must not be kept at room temperature. Oil is not a preservative; it is a barrier that keeps oxygen out, and low-acid vegetables in an oxygen-free environment at room temperature are the textbook conditions for Clostridium botulinum to grow and produce toxin. Garlic and herbs in oil are the best-known example, but peppers, mushrooms and aubergine behave the same way. The toxin has no smell, no taste and no visible sign. Commercially made jars sold from a shelf have been acidified or otherwise treated to make them safe; a homemade jar has not.",
+    "fridge": "Keep marinated vegetables in a sealed container at 4 °C (40 °F) or below and use them within 3–4 days. Cold does not make the food safe on its own — it slows the organism down, which is why the window is measured in days rather than weeks. Take out what you need with a clean dry spoon and put the container straight back; leaving it on the table through a long lunch uses up part of that window. Discard anything that has been out of the fridge for more than two hours, one hour above 32 °C (90 °F).",
+    "freezer": "There is no freezer timeline for oil-marinated vegetables and freezing them is not a sensible answer. The oil separates and goes cloudy, the vegetables collapse, and freezing does not destroy botulinum toxin if any has already formed — it only stops the organism growing further. If you want to keep vegetables in oil for longer than a few days, the real answer is a properly acidified recipe from a tested source, not the freezer.",
+    "thawing": null,
+    "spoilage": [
+      "Bubbling, fizzing, or a lid that has domed or popped",
+      "A cloudy, ropy or slimy liquid where the oil should be clear",
+      "Any mould at all on the surface or around the rim",
+      "An off, sour or fermented smell — but note that botulinum toxin gives no warning signs at all"
+    ],
+    "tips": [
+      "Make small batches; this is not a keeping preserve.",
+      "Always use a clean dry spoon and return the jar to the fridge at once.",
+      "Never store homemade garlic-in-oil or herb-in-oil at room temperature.",
+      "Buy commercially acidified jars if you want something that keeps in the cupboard."
+    ],
+    "faq": [
+      {"q": "How long do marinated vegetables in oil last?", "a": "3–4 days refrigerated at 4 °C (40 °F) or below. They should never be kept at room temperature."},
+      {"q": "Why is garlic in oil dangerous?", "a": "Oil keeps oxygen out, and garlic is a low-acid vegetable. That combination at room temperature lets Clostridium botulinum grow and produce toxin, which you cannot see, smell or taste."},
+      {"q": "Can you freeze vegetables marinated in oil?", "a": "No timeline exists and it is not a solution. The oil and vegetables both suffer, and freezing does not destroy toxin that has already formed."},
+      {"q": "Why do shop-bought jars keep in the cupboard?", "a": "Because they have been acidified or heat-treated to a tested process that makes them shelf-stable. A homemade jar of oil-covered vegetables has had none of that done to it."}
+    ]
+  },
+  "zh": {
+    "name": "油漬蔬菜",
+    "aliases": ["橄欖油漬蔬菜", "油封蔬菜", "義式油漬前菜", "蒜頭泡油"],
+    "summary": "油漬蔬菜是把甜椒、蘑菇、朝鮮薊、蒜頭或香草浸在油裡，靠油覆蓋而不是靠酸度保存。4°C 以下冷藏可放 3～4 天；這個數字短得有理由：油會隔絕空氣，而那正是肉毒桿菌所需要的環境。",
+    "pantry": "油漬蔬菜絕對不能放室溫。油不是防腐劑，它是一道隔絕氧氣的屏障；而低酸度的蔬菜處在無氧環境、又在室溫下，正是肉毒桿菌生長並產生毒素的教科書條件。蒜頭和香草泡油是最有名的例子，但甜椒、蘑菇和茄子的情況完全一樣。肉毒毒素沒有氣味、沒有味道，也看不出來。超市架上常溫販售的商品是經過酸化或其他加工處理才做到安全的；自家做的罐子沒有。",
+    "fridge": "請裝在密封容器裡冷藏於 4°C 以下，並在 3～4 天內吃完。低溫本身並不能讓這種食品變安全——它只是把菌的活動放慢，這也是為什麼期限是以「天」而不是「週」計算。要用時用乾淨的乾湯匙取出，並立刻把容器放回冰箱；整頓飯放在桌上，就等於消耗掉一部分的期限。離開冷藏超過兩小時（氣溫超過 32°C 時一小時）的請丟棄。",
+    "freezer": "油漬蔬菜沒有冷凍保存期限，冷凍也不是合理的答案。油會分離變混濁，蔬菜會塌掉；而且如果毒素已經形成，冷凍並不能破壞它，只能讓菌停止繼續生長。想讓油漬蔬菜放超過幾天，真正的解法是採用經過驗證的酸化配方，而不是冷凍庫。",
+    "thawing": null,
+    "spoilage": [
+      "冒泡、發脹，或蓋子鼓起、彈開",
+      "原本應該清澈的油變得混濁、牽絲或黏滑",
+      "表面或瓶口出現任何黴點",
+      "有異味、酸味或發酵味——但要注意，肉毒毒素完全不會給任何警訊"
+    ],
+    "tips": [
+      "一次只做少量；這不是拿來長期保存的東西。",
+      "一定要用乾淨的乾湯匙，取完立刻放回冰箱。",
+      "自製的蒜頭泡油、香草泡油，絕對不要放室溫。",
+      "想要能放櫥櫃的，請購買經過酸化處理的市售罐裝品。"
+    ],
+    "faq": [
+      {"q": "油漬蔬菜可以放多久？", "a": "4°C 以下冷藏 3～4 天。任何情況下都不應該放在室溫。"},
+      {"q": "蒜頭泡油為什麼危險？", "a": "油會隔絕氧氣，而蒜頭是低酸度蔬菜。這個組合在室溫下會讓肉毒桿菌生長並產生毒素，而你看不到、聞不到、也嘗不出來。"},
+      {"q": "油漬蔬菜可以冷凍嗎？", "a": "沒有對應的期限，而且冷凍不是解方。油和蔬菜都會受損，而且冷凍無法破壞已經產生的毒素。"},
+      {"q": "為什麼市售罐裝可以放櫥櫃？", "a": "因為它們經過酸化或加熱處理，走的是經過驗證的常溫保存製程。自家做的油漬罐完全沒有經過這些步驟。"}
+    ]
+  }
+}

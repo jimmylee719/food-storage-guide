@@ -1,0 +1,57 @@
+{
+  "slug": "clams-shucked",
+  "en": {
+    "name": "Clams, shucked",
+    "aliases": ["shucked clams", "clam meat", "jarred clams", "tub clams"],
+    "summary": "Shucked clams are clam meats already removed from the shell and packed in their own juice. Held at 4 °C (40 °F) or below they keep 3–10 days from the day of purchase, and 3–4 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Shucked clams must stay refrigerated. Like all filter-feeding shellfish they can carry Vibrio bacteria and norovirus, and Vibrio grows very quickly once the meat warms up. Two hours out of the cold is the absolute limit, one hour if it is above 32 °C (90 °F). Shucking removes the shell that was protecting the meat, so shucked clams are more vulnerable than live ones, not less.",
+    "fridge": "Store shucked clams in their sealed tub or in a covered container with their own juice, at 4 °C (40 °F) or below on the coldest shelf. They keep 3–10 days from purchase; the range is wide because so much depends on how recently they were shucked, so a printed date on a sealed pack beats the general figure. Never cover them with tap water — the natural juice both protects the meat and keeps it from going flabby.",
+    "freezer": "Freeze shucked clams submerged in their own juice, topped up with lightly salted cold water if there is not enough, in a rigid container with headspace for expansion. At −18 °C (0 °F) they are safe indefinitely and hold good quality for 3–4 months. Freezing firms the meat, so use thawed clams in chowders, pasta sauces, miso soup or fried dishes rather than anywhere their texture is the point.",
+    "thawing": "Thaw clams overnight in the fridge and cook them the same day. Never thaw on the counter or in warm water, and do not refreeze them once thawed.",
+    "spoilage": [
+      "Sour, sulphurous or strongly fishy smell rather than a clean brine smell",
+      "Juice that has gone cloudy, milky, thick or pinkish",
+      "Meat turned grey, brownish or unpleasantly soft",
+      "A swollen or leaking tub, or a date that has already passed"
+    ],
+    "tips": [
+      "Buy from a chilled cabinet and get them home in a cool bag.",
+      "Store them right at the back of the bottom shelf, the coldest spot in most fridges.",
+      "Keep the juice: it is the storage medium, not waste liquid.",
+      "Cook clams until fully opaque and firm; do not eat shucked clams raw."
+    ],
+    "faq": [
+      {"q": "How long do shucked clams last in the fridge?", "a": "3–10 days from the day of purchase at 4 °C (40 °F) or below, kept in their own juice. Follow the printed date if a sealed tub carries one."},
+      {"q": "Can you freeze shucked clams?", "a": "Yes. Freeze them covered in their juice at −18 °C (0 °F); safe indefinitely, best quality within 3–4 months. Cook them after thawing."},
+      {"q": "How can you tell if shucked clams have gone bad?", "a": "A sour or sulphurous smell, cloudy thickened juice, or grey flabby meat. A swollen or leaking tub should go in the bin unopened."},
+      {"q": "Are shucked clams the same as live clams in the shell?", "a": "No. Live clams in the shell are judged by whether the shell closes when tapped and must be kept breathing, not sealed in water. Shucked clams are a different product with their own, shorter timeline."}
+    ]
+  },
+  "zh": {
+    "name": "蛤蜊肉（去殼）",
+    "aliases": ["去殼蛤蜊", "蛤肉", "文蛤肉", "蜆肉", "剝好的蛤蜊"],
+    "summary": "蛤蜊肉是已經剝除外殼、連同原汁包裝販售的蛤仔肉。放在 4°C 以下冷藏，從購買當天算起可放 3～10 天；−18°C 冷凍則以 3～4 個月內食用品質最佳。",
+    "pantry": "蛤蜊肉必須全程冷藏。和所有濾食性貝類一樣，它可能帶有腸炎弧菌與諾羅病毒，而腸炎弧菌在回溫後增殖得非常快。離開低溫最多 2 小時，氣溫超過 32°C 時只有 1 小時。剝殼等於拿掉了原本保護肉的屏障，所以去殼蛤蜊比活蛤更脆弱，而不是更耐放。",
+    "fridge": "請連同密封盒，或改放加蓋容器並保留原汁，收在冰箱最冷的一層，維持 4°C 以下。從購買日起可放 3～10 天；範圍這麼寬是因為剝殼到你手上的時間差很大，密封包裝上若印有日期，請以該日期為準。不要用自來水淹過：原汁既能保護蛤肉，也能避免肉質變得軟塌。",
+    "freezer": "冷凍時讓蛤蜊肉浸在自己的原汁裡，不夠就補一點冷的淡鹽水，裝進硬質容器並留下膨脹空間。放 −18°C 安全上可無限期保存，品質以 3～4 個月為佳。冷凍會讓肉質變得比較緊實，解凍後適合煮蛤蜊湯、炒義大利麵、味噌湯或油炸，不適合用在講究口感的料理。",
+    "thawing": "解凍請放冷藏室退冰一晚，並於當天煮熟。不要放室溫或泡溫水，解凍後也不要再次冷凍。",
+    "spoilage": [
+      "有酸味、硫磺味或濃重腥臭味，而不是清爽的鹹海味",
+      "原汁變混濁、乳白、變稠或泛粉紅",
+      "蛤肉轉灰、發褐，或變得異常軟爛",
+      "包裝鼓起、漏汁，或已經超過有效日期"
+    ],
+    "tips": [
+      "在冷藏櫃購買，並用保冷袋帶回家。",
+      "放在冰箱最下層最裡面，那通常是溫度最低的位置。",
+      "原汁要留著，那是保存介質，不是要倒掉的水。",
+      "煮到肉完全不透明且緊實再吃；去殼蛤蜊肉不要生食。"
+    ],
+    "faq": [
+      {"q": "去殼蛤蜊肉放冰箱可以放多久？", "a": "4°C 以下冷藏、保留原汁，從購買當天算起 3～10 天。密封盒上有印日期的話以該日期為準。"},
+      {"q": "蛤蜊肉可以冷凍嗎？", "a": "可以。連同原汁淹過後放 −18°C 冷凍，安全上可無限期保存，品質以 3～4 個月內為佳，解凍後請煮熟。"},
+      {"q": "怎麼判斷蛤蜊肉壞了？", "a": "聞起來酸或有硫磺味、原汁混濁變稠、蛤肉發灰軟爛，都代表該丟了。盒子鼓起或漏汁請直接整盒丟棄。"},
+      {"q": "去殼蛤蜊肉和帶殼活蛤保存方式一樣嗎？", "a": "不一樣。帶殼活蛤要看敲一敲會不會閉殼，而且必須讓牠能呼吸、不能密封泡水。去殼蛤蜊肉是另一種產品，保存期限也更短。"}
+    ]
+  }
+}

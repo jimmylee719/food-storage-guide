@@ -1,0 +1,57 @@
+{
+  "slug": "swiss-cheese",
+  "en": {
+    "name": "Swiss cheese",
+    "aliases": ["Emmental", "Emmentaler", "Gruyère", "holey cheese", "Swiss-type cheese"],
+    "summary": "Swiss cheese covers the firm, cooked-curd alpine cheeses — Emmental with its famous holes, Gruyère without them. Unopened it keeps about 6 months from purchase at 4 °C (40 °F) or below, 3–4 weeks once opened, and about 6 months in the freezer.",
+    "pantry": "Swiss cheese is robust but it is still a dairy product, and it should not be stored at room temperature. Left out it sweats fat, dries at the cut face and picks up the smell of whatever is nearby. The two-hour rule applies (one hour above 32 °C / 90 °F). Taking it out half an hour before serving is worth doing for flavour — a cold slice of Gruyère tastes of very little — but it goes back in the fridge immediately afterwards.",
+    "fridge": "Store Swiss cheese at 4 °C (40 °F) or below in the main compartment. Unopened in its vacuum pack it keeps about 6 months from purchase; opened, 3–4 weeks. Wrap the cut piece in waxed or greaseproof paper and then loosely in foil so the paste can breathe without drying out. The holes in Emmental are gas pockets left by propionic bacteria during ripening and are a normal feature, not a defect; small white crystals in an aged Gruyère are calcium lactate or tyrosine and are likewise a sign of proper maturation.",
+    "freezer": "Swiss cheese freezes for about 6 months from purchase at −18 °C (0 °F). It thaws crumbly and loses the elastic pull that makes it good for fondue and toasties, so freeze it for cooking rather than for the table. Grate or cut it into pieces of 250 g or less, wrap it airtight, and label it — a block that freezes slowly suffers more.",
+    "thawing": "Thaw Swiss cheese overnight in the fridge in its wrapping and use it within about a week. Grated cheese goes straight from the freezer into a sauce or onto a gratin without thawing. Never thaw cheese on the counter.",
+    "spoilage": [
+      "Fuzzy blue, green, black or pink mould on the surface",
+      "A sharp ammonia smell that overwhelms the usual nutty one",
+      "A slimy or wet surface instead of a firm, slightly waxy one",
+      "Dark, hard, cracked edges with a bitter taste"
+    ],
+    "tips": [
+      "Buy in a block and slice as needed; pre-sliced cheese dries at every cut face.",
+      "Wrap in paper first, foil second — never cling film against the cheese.",
+      "Write the opening date on the wrapper.",
+      "Save the rind for flavouring soup; simmer it and fish it out before serving."
+    ],
+    "faq": [
+      {"q": "How long does Swiss cheese last in the fridge?", "a": "About 6 months from purchase while vacuum-sealed, and 3–4 weeks once opened, at 4 °C (40 °F) or below."},
+      {"q": "Can you freeze Swiss cheese?", "a": "Yes, for about 6 months at −18 °C (0 °F). It thaws crumbly, so use it grated in cooking rather than sliced on a board."},
+      {"q": "Can you cut mould off Swiss cheese?", "a": "Yes. It is a hard cheese, so cut at least 2.5 cm (1 inch) around and below the mould, keep the knife clean of it, and re-wrap in fresh paper."},
+      {"q": "What are the white crystals in aged Swiss cheese?", "a": "Calcium lactate or tyrosine crystals. They are a normal product of long ripening, they crunch pleasantly, and they are not mould."}
+    ]
+  },
+  "zh": {
+    "name": "瑞士起司",
+    "aliases": ["艾曼塔", "葛瑞爾", "Emmental", "Gruyère", "洞洞起司"],
+    "summary": "瑞士起司泛指質地紮實、以加熱凝乳製成的阿爾卑斯系起司，包括有名的洞洞艾曼塔和沒有洞的葛瑞爾。4°C 以下冷藏，未開封從購買日起約可放 6 個月，開封後 3～4 週，冷凍約 6 個月。",
+    "pantry": "瑞士起司雖然耐放，本質仍是乳製品，不該常溫保存。放在外面會出油、切面乾裂，還會吸附周圍的氣味。兩小時原則同樣適用（氣溫超過 32°C 時只有一小時）。上桌前提早半小時回溫很值得，冰冷的葛瑞爾幾乎吃不出味道，但吃完要立刻收回冰箱。",
+    "fridge": "冷藏維持 4°C 以下，放在冰箱主室。真空未開封從購買日起約可放 6 個月，開封後 3～4 週。切開的部分請先用蠟紙或烘焙紙包好，外面再鬆鬆包一層鋁箔，讓起司能透氣又不至於乾掉。艾曼塔的洞是熟成期間丙酸菌產生的氣孔，是正常特徵而不是瑕疵；熟成葛瑞爾裡的白色小顆粒則是乳酸鈣或酪胺酸結晶，同樣代表熟成良好。",
+    "freezer": "瑞士起司在 −18°C 冷凍，從購買日起約可放 6 個月。解凍後質地會變碎，也失去做起司鍋和烤吐司時那種牽絲的彈性，所以冷凍是為了之後入菜，而不是為了上桌單吃。請刨絲或切成 250 公克以下的小塊，密封包好並標註日期——凍得慢的大塊起司受損更嚴重。",
+    "thawing": "解凍請連著包裝放冷藏室退冰一晚，並在約一週內用完。刨絲的可以不解凍直接下醬汁或鋪在焗烤上。絕對不要在室溫解凍。",
+    "spoilage": [
+      "表面長出藍色、綠色、黑色或粉紅色的毛狀黴",
+      "刺鼻的阿摩尼亞味蓋過原本的堅果香",
+      "表面變得黏滑潮濕，而不是結實微帶蠟感",
+      "邊緣發黑乾硬龜裂，並帶苦味"
+    ],
+    "tips": [
+      "買整塊、要用再切；預先切片的起司每一個切面都在乾掉。",
+      "先包紙再包鋁箔，不要讓保鮮膜直接貼著起司。",
+      "在包裝上寫下開封日期。",
+      "外皮不要丟，煮湯時丟進去增添風味，上桌前撈掉即可。"
+    ],
+    "faq": [
+      {"q": "瑞士起司放冰箱可以放多久？", "a": "4°C 以下冷藏，真空未開封從購買日起約 6 個月，開封後 3～4 週。"},
+      {"q": "瑞士起司可以冷凍嗎？", "a": "可以，放 −18°C 約 6 個月。解凍後會變碎，建議刨絲後用於烹調，不要切片直接吃。"},
+      {"q": "瑞士起司發霉可以切掉嗎？", "a": "可以。它屬於硬質起司，請在霉點周圍與底下各切除至少 2.5 公分，刀子避免沾到霉，再用乾淨的紙重新包好。"},
+      {"q": "熟成瑞士起司裡的白色顆粒是什麼？", "a": "是乳酸鈣或酪胺酸結晶，長期熟成的正常產物，咬起來會有顆粒感，不是黴菌。"}
+    ]
+  }
+}

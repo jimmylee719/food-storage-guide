@@ -1,0 +1,57 @@
+{
+  "slug": "hot-peppers",
+  "en": {
+    "name": "Hot peppers",
+    "aliases": ["chillies", "chili peppers", "fresh chillies", "hot chilli peppers"],
+    "summary": "Hot peppers covers fresh chillies as a group, from bird's eye to cayenne. Kept dry and whole they last about a week in the fridge from the day of purchase, and frozen they keep good quality for about 9 months — though they lose their crispness on thawing.",
+    "pantry": "Fresh chillies will sit out for a few days without becoming unsafe, but they shrivel steadily as they lose water through their thin walls. There is no room-temperature figure given here and none should be assumed. What room temperature is genuinely good for is drying: threaded on a string in a dry airy place, small thin-walled chillies dry rather than rot, which is a preservation method in its own right.",
+    "fridge": "Fresh whole peppers will last longer if kept dry — that is the single most useful thing to know about them. Store them unwashed in the crisper at 4 °C (40 °F) or below, in a paper bag or a box lined with kitchen paper rather than sealed in plastic where they sweat, and about a week from purchase is the figure. Keep them whole: a cut or bruised chilli rots from the wound outward, and the wound is also where mould takes hold.",
+    "freezer": "Chillies freeze easily and need no blanching. Wash, dry, and pack them whole into a sealed bag with as little air as possible at −18 °C (0 °F), where they keep good quality for about 9 months. Peppers lose their crispness when frozen and thawed, so this is a method for cooking chillies rather than for garnishes. Frozen chillies are also much easier to chop finely than fresh ones.",
+    "thawing": "Do not thaw chillies — chop or slice them straight from the freezer. Thawed pods go soft and weep, and they will not hold a clean slice. Wash your hands or wear gloves regardless: freezing does nothing to the heat.",
+    "spoilage": [
+      "Soft, wet or collapsing patches, usually starting at the stem",
+      "White, grey or black mould at the stem end or in a crease",
+      "Slimy skin rather than dry and taut",
+      "A fermented or sour smell instead of a fresh vegetal one"
+    ],
+    "tips": [
+      "Keep them dry above all else; moisture is what ends a bag of chillies.",
+      "Store whole and unwashed, and rinse only when you cook.",
+      "Freeze whole in a bag — no blanching, no stemming, no seeding.",
+      "String thin-walled chillies up to dry if you have more than you can use."
+    ],
+    "faq": [
+      {"q": "How long do fresh hot peppers last in the fridge?", "a": "About a week from the day of purchase at 4 °C (40 °F) or below, kept dry and whole. Moisture is what shortens that."},
+      {"q": "Can you freeze hot peppers?", "a": "Yes, whole and unblanched at −18 °C (0 °F) for about 9 months of good quality. They thaw limp, so use them in cooking rather than raw."},
+      {"q": "Should hot peppers be refrigerated?", "a": "The fridge gives about a week and keeps them usable. Drying them is the other good option, especially for small thin-walled chillies."},
+      {"q": "Do chillies get hotter as they age?", "a": "Not really — but as they dry and shrink, the same amount of capsaicin sits in less flesh, so a wrinkled chilli can taste sharper by weight."}
+    ]
+  },
+  "zh": {
+    "name": "辣椒",
+    "aliases": ["新鮮辣椒", "朝天椒", "青辣椒", "紅辣椒", "小辣椒"],
+    "summary": "辣椒泛指各種新鮮辣椒，從朝天椒到長條的卡宴椒都算。保持乾燥、整根不切，冷藏從購買當天算起約可放一週；冷凍則可維持約 9 個月的良好品質，只是解凍後會失去脆度。",
+    "pantry": "新鮮辣椒放在室溫幾天不會有安全問題，但果壁薄、會持續失水而皺縮。這裡不提供常溫保存天數，也請不要自行推估。室溫真正擅長的其實是「乾燥」：把小型薄壁辣椒串起來掛在乾燥通風處，它會慢慢乾掉而不是爛掉，這本身就是一種保存法。",
+    "fridge": "保持乾燥的整根辣椒放得比較久，這是關於辣椒最有用的一句話。請不清洗，裝在紙袋或鋪了廚房紙巾的盒子裡放進 4°C 以下的蔬果保鮮室，不要密封在塑膠袋裡悶出水；從購買日起約一週。請保持整根完整：切過或碰傷的辣椒會從傷口往外爛，而傷口也正是黴菌著床的地方。",
+    "freezer": "辣椒非常好冷凍，而且不需要汆燙。洗淨擦乾，整根裝進密封袋、盡量把空氣擠掉，放 −18°C，品質可維持約 9 個月。辣椒冷凍解凍後會失去脆度，所以這是給烹調用的做法，不適合拿來當盤飾。另外，冷凍的辣椒其實比新鮮的好切得多。",
+    "thawing": "辣椒不要解凍——直接從冷凍狀態切片或切碎。解凍後會軟爛出水，也切不出漂亮的形狀。不論如何請戴手套或事後洗手：冷凍完全不會降低辣度。",
+    "spoilage": [
+      "出現軟塌、滲水或塌陷的部位，通常從蒂頭開始",
+      "蒂頭或皺摺處長出白色、灰色或黑色黴",
+      "表皮變得黏滑，而不是乾爽緊實",
+      "有發酵味或酸味，而不是新鮮的青椒味"
+    ],
+    "tips": [
+      "最重要的就是保持乾燥；濕氣是一整袋辣椒的終結者。",
+      "整根不清洗保存，要煮之前再沖。",
+      "整根裝袋冷凍即可——不用汆燙、不用去蒂、不用去籽。",
+      "用不完的薄壁辣椒可以串起來風乾。"
+    ],
+    "faq": [
+      {"q": "新鮮辣椒放冰箱可以放多久？", "a": "4°C 以下冷藏、保持乾燥且整根完整，從購買當天算起約一週。縮短它的主要原因就是濕氣。"},
+      {"q": "辣椒可以冷凍嗎？", "a": "可以，整根不汆燙放 −18°C，品質可維持約 9 個月。解凍後會軟，請用於烹調而非生食。"},
+      {"q": "辣椒一定要冷藏嗎？", "a": "冷藏大約給你一週，狀態也比較好。另一個好選擇是風乾，尤其是小型薄壁的品種。"},
+      {"q": "辣椒放久會變更辣嗎？", "a": "其實不會。但隨著它乾燥縮水，同樣的辣椒素集中在更少的果肉裡，所以按重量算，皺掉的辣椒吃起來可能更嗆。"}
+    ]
+  }
+}

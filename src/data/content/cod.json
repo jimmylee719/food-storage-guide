@@ -1,0 +1,57 @@
+{
+  "slug": "cod",
+  "en": {
+    "name": "Cod",
+    "aliases": ["codfish", "cod fillet", "cod loin", "Atlantic cod", "Pacific cod"],
+    "summary": "Cod is a lean white fish with large, mild-tasting flakes and very little fat. Raw cod keeps 1–2 days in the fridge from the day of purchase, and because there is so little oil to go rancid it holds good quality in the freezer for 6–8 months at −18 °C (0 °F).",
+    "pantry": "Raw cod cannot be stored at room temperature. Its low fat content does nothing to slow bacterial growth, and the danger zone of 4–60 °C (40–140 °F) applies in full. Two hours out of the cold is the limit, one hour above 32 °C (90 °F). Fish enzymes also break down soft white flesh quickly, so warm cod goes pasty as well as unsafe.",
+    "fridge": "Keep cod at 4 °C (40 °F) or below on the coldest shelf, on a plate with a loose cover so air can move but drips cannot spread. It is good for 1–2 days from the day you bought it. Cod holds a lot of water, so do not leave it sitting in the pooled liquid; blot it and change the paper underneath if it gets wet. Salt cod is a different product entirely and follows its own rules.",
+    "freezer": "Cod is one of the best fish for the freezer precisely because it is lean — with little oil, there is little to turn rancid. Pat the fillets dry, wrap each one tightly in film and then in foil or a freezer bag with the air squeezed out. At −18 °C (0 °F) it is safe indefinitely and keeps good quality for 6–8 months, considerably longer than an oily fish like salmon or mackerel.",
+    "thawing": "Thaw cod in the fridge overnight on a rack over a plate so it does not sit in melt, or in a sealed bag under cold running water. Never on the counter. Cook it within a day of thawing. Cod can also go from frozen straight into the oven or a poaching liquid if you add a few minutes.",
+    "spoilage": [
+      "Sour or ammonia smell rather than a faint clean sea smell",
+      "Flesh gone chalky, yellowish or grey instead of white and translucent",
+      "A slippery, sticky film that does not rinse off",
+      "Flesh that falls apart into mush or leaves a dent when pressed"
+    ],
+    "tips": [
+      "Blot cod dry before cooking; the water it holds is what stops it browning.",
+      "Freeze thin tail pieces separately from thick loin so they cook evenly later.",
+      "Label with the freezing date — 6–8 months goes past quickly.",
+      "If a fillet was previously frozen and thawed at the counter, cook it rather than refreezing it raw."
+    ],
+    "faq": [
+      {"q": "How long does cod last in the fridge?", "a": "1–2 days from the day of purchase at 4 °C (40 °F) or below. Keep it on a plate, loosely covered, and do not let it sit in its own liquid."},
+      {"q": "Can you freeze cod?", "a": "Yes, and it freezes better than oily fish. Wrapped airtight at −18 °C (0 °F) it is safe indefinitely and keeps good quality for 6–8 months."},
+      {"q": "How can you tell if cod has gone bad?", "a": "A sour or ammonia smell, chalky yellow-grey flesh, a sticky film, or flesh that mushes under a finger. Any one of these and it should be thrown out."},
+      {"q": "Can you cook cod from frozen?", "a": "Yes. Baking, poaching and pan-steaming all work from frozen if you allow roughly half again as long. Do not deep-fry frozen fillets, as the ice makes the oil spit."}
+    ]
+  },
+  "zh": {
+    "name": "鱈魚",
+    "aliases": ["大西洋鱈", "太平洋鱈", "鱈魚片", "真鱈"],
+    "summary": "鱈魚是脂肪極少的白肉魚，肉質呈大片剝落狀、味道清淡。生鱈魚從購買當天算起冷藏可放 1～2 天；正因為油脂少、不容易產生油耗味，在 −18°C 冷凍可維持 6～8 個月的良好品質。",
+    "pantry": "生鱈魚不能放室溫。脂肪少並不會讓細菌長得比較慢，4～60°C 的危險溫度帶一樣適用。離開低溫最多 2 小時，氣溫超過 32°C 時只有 1 小時。而且白肉魚的酵素分解很快，放溫了不只不安全，肉質也會變得糊爛。",
+    "fridge": "冷藏保持 4°C 以下，放最冷的一層，墊盤子、鬆鬆蓋住，讓空氣流通又不會讓血水亂滴。從購買日起可放 1～2 天。鱈魚含水量高，不要讓它一直泡在滲出的水裡；擦乾表面、底下的紙巾濕了就換。醃製的鹹鱈魚是完全不同的產品，保存方式另當別論。",
+    "freezer": "鱈魚是最適合冷凍的魚種之一，原因就在於它脂肪少——沒有太多油可以氧化變味。把魚片擦乾，一片一片先用保鮮膜貼緊包好，再包鋁箔或裝冷凍袋擠出空氣。放 −18°C 安全上可以無限期保存，品質可維持 6～8 個月，比鮭魚、鯖魚這類油脂魚長得多。",
+    "thawing": "解凍請放冷藏室，架在網架上、下面墊盤子退冰一晚，避免泡在融水裡；或裝密封袋泡冷水。不要放室溫。解凍後一天內煮完。鱈魚也可以不解凍直接烤或水煮，只要多留幾分鐘加熱時間。",
+    "spoilage": [
+      "有酸味或阿摩尼亞味，而不是淡淡的海水味",
+      "魚肉變得粉白死白、發黃或轉灰，失去原本的通透感",
+      "表面有一層滑膩黏手的膜，沖水沖不掉",
+      "一碰就散成糊狀，或按壓後凹陷回不來"
+    ],
+    "tips": [
+      "下鍋前務必把鱈魚表面擦乾，水分正是讓它煎不出金黃色的原因。",
+      "薄的尾段和厚的背肉分開冷凍，之後料理受熱才會均勻。",
+      "在包裝上標註冷凍日期，6～8 個月一下就過去了。",
+      "如果是魚攤先解凍後販售的退冰魚片，請直接煮熟，不要生的再冷凍。"
+    ],
+    "faq": [
+      {"q": "鱈魚放冰箱可以放多久？", "a": "4°C 以下冷藏，從購買當天算起 1～2 天。墊盤子鬆蓋保存，不要讓它泡在自己滲出的水裡。"},
+      {"q": "鱈魚可以冷凍嗎？", "a": "可以，而且比油脂魚更耐凍。密封包好放 −18°C，安全上可無限期保存，品質可維持 6～8 個月。"},
+      {"q": "怎麼判斷鱈魚壞了？", "a": "有酸味或阿摩尼亞味、魚肉發黃轉灰、表面黏膩、輕壓就糊掉，只要出現其中一項就該丟棄。"},
+      {"q": "冷凍鱈魚可以不解凍直接煮嗎？", "a": "可以。用烤的、水煮或加蓋煎蒸都行，加熱時間大約多抓一半。但不要拿冷凍魚片直接油炸，冰會讓油噴濺。"}
+    ]
+  }
+}

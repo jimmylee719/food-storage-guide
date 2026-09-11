@@ -1,0 +1,57 @@
+{
+  "slug": "shiitake-fresh",
+  "en": {
+    "name": "Shiitake, fresh",
+    "aliases": ["fresh shiitake", "Chinese black mushroom", "donko", "xiang gu"],
+    "summary": "Fresh shiitake are firmer and drier than a button mushroom, which is why they keep noticeably longer. Refrigerated at 4 °C (40 °F) or below they hold 4–7 days from the day of purchase, and sliced and frozen raw they keep about 2–3 weeks.",
+    "pantry": "Shiitake should not be left at room temperature. Mushrooms respire fast, and warmth opens the caps, darkens the gills and starts the slimy film that ends their life. The published guidance for mushrooms as a class is conservative — one to two days refrigerated — and that figure is worth treating as the safe floor rather than the target. There is no room-temperature figure and none should be assumed.",
+    "fridge": "Keep shiitake in a paper bag in the fridge at 4 °C (40 °F) or below, gills down, where they hold 4–7 days from purchase. Never store them sealed in plastic: mushrooms are mostly water and a closed bag sweats them into slime within a day. Do not wash them before storing — brush the caps clean with a dry cloth and rinse only just before cooking, if at all. If they came in a plastic-wrapped tray, take them out and re-bag them in paper.",
+    "freezer": "Shiitake freeze raw, which is unusual among vegetables and saves you blanching. Trim the woody stems, slice the caps, spread them in a flat sealed bag and freeze at −18 °C (0 °F), where they keep about 2–3 weeks at good quality. Cook them straight from frozen. Drying is the other classic answer and a far longer-term one — dried shiitake keep for months in a sealed jar and arguably taste better than the fresh ones.",
+    "thawing": "Do not thaw shiitake. Tip the frozen slices straight into the pan, the soup or the braise; they release water as they cook, so give them a minute or two longer. Thawed shiitake are limp and watery.",
+    "spoilage": [
+      "A slimy or sticky film on the caps",
+      "Gills gone dark brown or black and mushy",
+      "Dark, wet, soft patches rather than firm dry flesh",
+      "A sour or ammonia smell instead of a clean earthy one"
+    ],
+    "tips": [
+      "Choose caps that are thick, firm and dry, with the gills still pale.",
+      "Store in a paper bag, gills down, never sealed in plastic.",
+      "Do not wash before storing; brush them clean instead.",
+      "Keep the trimmed stems in the freezer and simmer them into stock — they are full of flavour."
+    ],
+    "faq": [
+      {"q": "How long do fresh shiitake last in the fridge?", "a": "4–7 days from the day of purchase at 4 °C (40 °F) or below, kept in a paper bag. The general figure for mushrooms is only 1–2 days, so treat that as the conservative floor."},
+      {"q": "Can you freeze fresh shiitake?", "a": "Yes, and unusually you can freeze them raw. Slice and freeze flat at −18 °C (0 °F) for about 2–3 weeks, then cook from frozen."},
+      {"q": "Should you wash shiitake before storing?", "a": "No. They absorb water, and damp mushrooms go slimy fast. Brush them clean and rinse only just before cooking."},
+      {"q": "Can you eat the shiitake stems?", "a": "The woody stems are too tough to eat but far too flavourful to bin. Freeze them and simmer them into stock, then strain them out."}
+    ]
+  },
+  "zh": {
+    "name": "鮮香菇",
+    "aliases": ["香菇", "冬菇", "花菇", "新鮮香菇"],
+    "summary": "鮮香菇的質地比洋菇結實、水分也少，所以明顯更耐放。4°C 以下冷藏，從購買當天算起可放 4～7 天；切片後生凍則約可放 2～3 週。",
+    "pantry": "香菇不應該放室溫。菇類呼吸旺盛，一回溫菌傘就會張開、菌褶轉黑，接著出現終結它的那層黏膜。針對「菇類」整體公布的建議相當保守——冷藏一到兩天——那個數字比較適合當成安全下限而不是目標。這裡不提供常溫保存天數，也請不要自行推估。",
+    "fridge": "請裝進紙袋、菌褶朝下，放在 4°C 以下冷藏，從購買日起可放 4～7 天。絕對不要密封在塑膠袋裡：菇幾乎都是水，密封袋一天就能把它悶成一團黏滑。保存前不要洗——用乾布或刷子把菌傘刷乾淨，真要沖洗也請在下鍋前才做。如果買的是保鮮膜包的托盤裝，回家後請拆開改裝紙袋。",
+    "freezer": "香菇可以生凍，這在蔬菜裡很少見，也省去汆燙的步驟。把木質的菇柄切掉，菌傘切片，平鋪裝進密封袋放 −18°C，品質約可維持 2～3 週，使用時不解凍直接下鍋。另一個經典解法是曬乾——乾香菇密封後可以放好幾個月，而且風味可以說比鮮香菇更好。",
+    "thawing": "香菇不要解凍。冷凍切片直接下鍋、下湯或下滷鍋即可；它加熱時會出水，所以多煮個一兩分鐘。解凍過的香菇軟爛又出水。",
+    "spoilage": [
+      "菌傘表面出現黏滑的薄膜",
+      "菌褶轉為深褐或發黑並且變糊",
+      "出現濕軟發暗的斑塊，而不是原本乾爽結實的質地",
+      "聞起來有酸味或阿摩尼亞味，而不是乾淨的土香"
+    ],
+    "tips": [
+      "挑菌傘厚實、摸起來乾爽、菌褶還是淺色的。",
+      "裝紙袋、菌褶朝下保存，千萬不要密封在塑膠袋裡。",
+      "保存前不要洗，用刷的就好。",
+      "切下來的菇柄收進冷凍庫，拿來熬高湯非常夠味。"
+    ],
+    "faq": [
+      {"q": "鮮香菇放冰箱可以放多久？", "a": "4°C 以下冷藏、裝在紙袋裡，從購買當天算起 4～7 天。菇類整體的公布數字只有 1～2 天，那是比較保守的下限。"},
+      {"q": "鮮香菇可以冷凍嗎？", "a": "可以，而且難得地能直接生凍。切片平鋪冷凍於 −18°C，品質約 2～3 週，使用時不解凍直接下鍋。"},
+      {"q": "香菇要先洗再冰嗎？", "a": "不要。菇會吸水，濕掉的菇很快就變黏。用刷的清乾淨，真要沖洗也請在下鍋前才做。"},
+      {"q": "香菇的柄可以吃嗎？", "a": "木質的菇柄太硬不好吃，但香味十足別丟掉。收進冷凍庫拿來熬高湯，煮完撈掉即可。"}
+    ]
+  }
+}

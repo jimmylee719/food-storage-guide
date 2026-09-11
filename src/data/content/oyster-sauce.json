@@ -1,0 +1,57 @@
+{
+  "slug": "oyster-sauce",
+  "en": {
+    "name": "Oyster sauce",
+    "aliases": ["oyster flavoured sauce", "hou yau", "vegetarian oyster sauce", "mushroom oyster sauce"],
+    "summary": "Oyster sauce is a thick, dark, salty-sweet sauce made from oyster extract, thickened and seasoned. An unopened bottle keeps 18–24 months in the cupboard from the day you buy it, and once opened it belongs in the fridge, where it holds 3–6 months.",
+    "pantry": "Unopened bottles are shelf-stable and keep 18–24 months in a cool dark cupboard from purchase. Keep them away from the stove and out of sunlight — heat and light darken the sauce and dull the flavour long before the date runs out. Once the seal is broken the cupboard is no longer the right place, so move it to the fridge rather than leaving it beside the wok where it is most convenient.",
+    "fridge": "After opening, store oyster sauce at 4 °C (40 °F) or below, where it keeps 3–6 months. Keep it in the body of the fridge rather than the door if you can, wipe the neck of the bottle before capping it so dried sauce does not build up and stop the cap sealing, and never pour used sauce back in. It thickens considerably when cold, so stand the bottle in warm water for a minute rather than shaking it hard.",
+    "freezer": "There is no freezer timeline for oyster sauce and no reason to freeze it. The salt and sugar content keeps it from freezing properly, and a refrigerated bottle already lasts several months — longer than most households take to finish one. If you have somehow bought a catering-sized tub, decant it into a smaller bottle and keep the rest sealed and cold rather than trying to freeze it.",
+    "thawing": null,
+    "spoilage": [
+      "Fuzzy mould around the neck or on the surface of the sauce",
+      "A sour, fermented or fishy-off smell instead of the usual sweet-savoury one",
+      "Bubbling, fizzing, or a cap that has domed upward",
+      "The sauce separating into a watery layer and a sludge that will not stir back together"
+    ],
+    "tips": [
+      "Move the bottle to the fridge the day you open it, not the day you remember.",
+      "Wipe the neck and cap after each use so the seal keeps working.",
+      "Write the opening date on the label.",
+      "Add oyster sauce at the end of cooking; long boiling flattens its flavour."
+    ],
+    "faq": [
+      {"q": "Does oyster sauce need to be refrigerated?", "a": "Unopened, no — the cupboard is fine for 18–24 months. Once opened, refrigerate it and use it within 3–6 months."},
+      {"q": "How long does oyster sauce last after opening?", "a": "3–6 months at 4 °C (40 °F) or below. It stays usable-looking for longer, but the flavour flattens noticeably."},
+      {"q": "Can you freeze oyster sauce?", "a": "There is no timeline for it and no need. The salt and sugar keep it from freezing solid, and a refrigerated bottle already lasts months."},
+      {"q": "My oyster sauce has gone very thick in the fridge — is it off?", "a": "No, that is just the cold. Stand the bottle in warm water for a minute and it will pour again."}
+    ]
+  },
+  "zh": {
+    "name": "蠔油",
+    "aliases": ["蠔油醬", "素蠔油", "香菇素蠔油", "蚵油"],
+    "summary": "蠔油是用蠔汁濃縮、加稠調味做成的深色濃稠醬料，鹹中帶甜。未開封放在櫥櫃裡，從購買日起可放 18～24 個月；開封後就該進冰箱，可放 3～6 個月。",
+    "pantry": "未開封的蠔油屬於常溫保存品，放在陰涼避光的櫥櫃，從購買日起可放 18～24 個月。請遠離爐火和陽光——熱和光會讓醬色變深、風味變鈍，遠早於標示日期。一旦開封，櫥櫃就不再是正確的位置，請移到冰箱，而不是為了順手一直放在爐台旁。",
+    "fridge": "開封後請冷藏，維持 4°C 以下，可放 3～6 個月。盡量放在冰箱主室而不是門邊；每次用完把瓶口擦乾淨再蓋上，避免醬汁乾掉結痂導致蓋子密合不良；也不要把已經倒出來的醬倒回瓶子裡。冷藏後會明顯變稠，請把瓶子泡在溫水裡一分鐘，不要用力猛甩。",
+    "freezer": "蠔油沒有冷凍保存期限，也沒有冷凍的理由。它的鹽分和糖分讓它凍不硬，而冷藏一瓶本來就能放好幾個月——通常比一般家庭用完的速度還久。如果不小心買了營業用的大桶，請分裝成小瓶，其餘密封冷藏，不要拿去冷凍。",
+    "thawing": null,
+    "spoilage": [
+      "瓶口或醬面長出毛狀黴",
+      "聞起來酸、有發酵味或不新鮮的腥味，而不是原本的甜鹹香",
+      "冒泡、發脹，或瓶蓋被頂得鼓起",
+      "醬體分離成一層水和一層沉渣，怎麼搖都拌不回去"
+    ],
+    "tips": [
+      "開封當天就把瓶子移進冰箱，不要等到想起來才移。",
+      "每次用完擦乾淨瓶口和蓋子，密封才有效。",
+      "在標籤上寫下開封日期。",
+      "蠔油請在起鍋前才下；久煮會把它的鮮味煮平。"
+    ],
+    "faq": [
+      {"q": "蠔油一定要冷藏嗎？", "a": "未開封不用，放櫥櫃 18～24 個月沒問題。開封後請冷藏，並在 3～6 個月內用完。"},
+      {"q": "蠔油開封後可以放多久？", "a": "4°C 以下冷藏 3～6 個月。放更久外觀通常還看得過去，但風味會明顯變鈍。"},
+      {"q": "蠔油可以冷凍嗎？", "a": "沒有對應的期限，也沒有必要。鹽和糖讓它凍不硬，冷藏本來就能放好幾個月。"},
+      {"q": "蠔油冰過變得很稠是壞了嗎？", "a": "不是，那只是低溫造成的。把瓶子泡溫水一分鐘就能順利倒出來了。"}
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "dumpling-wrappers",
+  "en": {
+    "name": "Dumpling wrappers",
+    "aliases": ["gyoza wrappers", "jiaozi skins", "dumpling skins", "potsticker wrappers", "wonton skins"],
+    "summary": "Dumpling wrappers are fresh rounds of wheat dough, dusted with starch and sold in a stack. No agency publishes a shelf life for them, so treat them like fresh pasta: about one to two days refrigerated once you are relying on your own judgement, and about two months frozen — and if the pack carries a printed date, that date wins.",
+    "pantry": "Fresh dough rounds are a chilled product and should not be left out. The wrappers are moist enough to mould rather than simply dry, and a stack left on the counter also dries at the edges so badly that it will no longer seal. Refrigerate them as soon as you get home and take out only the number of skins you are about to fill, keeping the rest covered.",
+    "fridge": "Keep the stack sealed and lying flat at 4 °C (40 °F) or below. A working limit of one to two days applies — borrowed from fresh pasta rather than published for dumpling skins — but a sealed supermarket pack will carry its own printed date, usually considerably longer, and that is the figure to follow while the pack is unopened. Once air reaches them the edges dry out and stop sticking, which is a quality problem you can work around with a damp cloth over the stack. A slimy surface or a sour smell is a different matter and means the pack should be discarded.",
+    "freezer": "Dumpling wrappers freeze well and this is the sensible way to keep a pack you cannot use quickly. Freeze the stack flat in its sleeve at −18 °C (0 °F); about two months is a reasonable quality limit, borrowed from fresh pasta rather than documented for wrappers. Freezing them flat matters — a bent stack cracks along the fold and you lose half the skins.",
+    "thawing": "Thaw dumpling wrappers in the fridge, still wrapped, so condensation does not form between the sheets and glue them into a solid block. Give a small pack a few hours and a large one overnight, then peel the skins apart gently and keep them under a damp cloth while you work.",
+    "spoilage": [
+      "A sour, yeasty or fermented smell when the pack is opened",
+      "A slimy or tacky surface beyond the normal starch dusting",
+      "Grey, pink or greenish discolouration, or any fuzzy mould",
+      "Skins fused into a solid block that tears rather than peels"
+    ],
+    "tips": [
+      "Keep the stack under a damp cloth while you are wrapping so the edges stay tacky.",
+      "Freeze flat, never folded or rolled.",
+      "Take out only what you need; returning warmed skins to the pack shortens its life.",
+      "If the edges have dried, brush them with a little water rather than throwing the skins away."
+    ],
+    "faq": [
+      {"q": "How long do dumpling wrappers last in the fridge?", "a": "Follow the printed date on a sealed pack. Without one, about one to two days at 4 °C (40 °F) or below is a sensible working limit, borrowed from fresh pasta."},
+      {"q": "Can you freeze dumpling wrappers?", "a": "Yes. Freeze the stack flat in its sleeve at −18 °C (0 °F); about two months is a reasonable quality limit. Thaw in the fridge, still wrapped."},
+      {"q": "The wrappers have dried out — can I still use them?", "a": "Yes, if they are only dry. Brush the edge with water to make it stick. Dryness is a quality problem; sliminess, a sour smell or mould mean the pack goes."},
+      {"q": "Why did my frozen wrappers stick together?", "a": "They were thawed too fast, so condensation formed between the sheets. Thaw them slowly in the fridge inside their wrapping and they peel apart cleanly."}
+    ]
+  },
+  "zh": {
+    "name": "水餃皮",
+    "aliases": ["餃子皮", "煎餃皮", "手工餃子皮", "餛飩皮", "冷藏餃皮"],
+    "summary": "水餃皮是撒了手粉、一疊疊販售的新鮮麵皮。沒有權威單位公布它的保存期限，可以比照新鮮義大利麵來看：自行判斷時以冷藏一到兩天為限，冷凍約兩個月；如果包裝上印有日期，以該日期為準。",
+    "pantry": "新鮮麵皮屬於冷藏品，不能放在室溫。它的含水量足以發霉而不只是變乾；而且一疊皮放在檯面上，邊緣會乾到完全黏不起來。買回家請立刻冷藏，要包多少就拿多少張出來，其餘蓋好。",
+    "fridge": "請保持整疊密封、平放，冷藏於 4°C 以下。自行判斷時以一到兩天為工作上限——這是比照新鮮義大利麵而來，並非針對餃子皮公布的數字；但超市的密封包裝通常印有自己的日期，而且長得多，未開封時請以該日期為準。一旦接觸空氣，邊緣會乾到黏不住，這是品質問題，蓋一條濕布就能解決。但如果表面變得黏滑或聞起來發酸，那是另一回事，整包丟掉。",
+    "freezer": "水餃皮很適合冷凍，短期內用不完就該這麼做。連著包裝整疊平放冷凍於 −18°C；品質上約兩個月是合理參考，同樣是比照新鮮義大利麵而來。務必平放冷凍——折到的那一疊會沿著折線裂開，一半的皮就報銷了。",
+    "thawing": "解凍請連著包裝放冷藏室，避免水氣在皮與皮之間凝結、黏成一整塊。小包幾小時、大包放一晚，之後輕輕一張張撕開，包的過程中用濕布蓋著。",
+    "spoilage": [
+      "拆開包裝聞到酸味、酵母味或發酵味",
+      "表面除了正常的手粉外，還出現黏滑或發黏的觸感",
+      "出現灰色、粉紅或泛綠的變色，或任何毛狀黴",
+      "整疊黏成一塊，一撕就破而不是乾淨分開"
+    ],
+    "tips": [
+      "包餃子時整疊蓋一條濕布，邊緣才保持黏性。",
+      "冷凍一定要平放，不要折、不要捲。",
+      "要用多少拿多少；回過溫的皮再放回去會縮短整包壽命。",
+      "邊緣乾掉的話刷一點水就能黏，不用整包丟。"
+    ],
+    "faq": [
+      {"q": "水餃皮放冰箱可以放多久？", "a": "密封包裝請看上面印的日期。沒有日期時，4°C 以下冷藏一到兩天是合理上限，這是比照新鮮義大利麵而來。"},
+      {"q": "水餃皮可以冷凍嗎？", "a": "可以。連包裝整疊平放冷凍於 −18°C，品質上約兩個月是合理參考。解凍請連著包裝放冷藏室慢慢退冰。"},
+      {"q": "餃子皮乾掉了還能用嗎？", "a": "只是乾的話可以，邊緣刷一點水就能黏合。乾燥屬於品質問題；但黏滑、發酸或發霉就整包丟掉。"},
+      {"q": "冷凍的餃子皮為什麼黏成一塊？", "a": "解凍太快，水氣在皮之間凝結了。請連著包裝放冷藏室慢慢退冰，就能一張張乾淨撕開。"}
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "tuna-fresh",
+  "en": {
+    "name": "Tuna, fresh",
+    "aliases": ["ahi", "bluefin tuna", "yellowfin tuna", "bigeye", "tuna steak"],
+    "summary": "Fresh tuna is a dark-fleshed oily fish sold as loins, blocks or steaks. Raw it keeps just 1–2 days in the fridge from the day of purchase, and 2–3 months at −18 °C (0 °F) for best quality. Because it is a scombroid fish, keeping it properly cold matters more than with most foods.",
+    "pantry": "Fresh tuna cannot be left out. Dark-fleshed fish such as tuna, mackerel and bonito are naturally high in histidine, and bacteria that grow at warm temperatures convert it into histamine — the cause of scombroid poisoning. Histamine is not destroyed by cooking, freezing or searing, so once it has formed there is no way to fix the fish. Two hours out of the cold is the absolute limit, one hour above 32 °C (90 °F).",
+    "fridge": "Store tuna at 4 °C (40 °F) or below, at the back or bottom of the fridge, on a plate and loosely covered rather than sealed in a wet package. From the day of purchase it is good for 1–2 days. If you can, sit the wrapped fish on a tray of ice in the fridge and pour the meltwater away — the colder it runs, the slower histamine forms.",
+    "freezer": "Freeze tuna on the day you buy it if it will not be eaten within two days. Blot the surface dry, wrap it tightly in film and then in foil or a freezer bag with the air pressed out, because the fat and the red myoglobin both oxidise on contact with air and turn the flesh brown. At −18 °C (0 °F) it stays safe indefinitely; quality holds for 2–3 months.",
+    "thawing": "Thaw tuna in the fridge overnight, or in a sealed bag under cold running water if you are in a hurry — never on the counter, which is exactly the condition that lets histamine form. Cook or eat fridge-thawed tuna within a day and do not refreeze it raw.",
+    "spoilage": [
+      "A sharp sour, metallic or ammonia smell instead of a clean sea smell",
+      "Flesh gone dull brown or grey-green rather than deep red or pink",
+      "A slimy, tacky surface, or liquid in the pack that has turned cloudy and thick",
+      "A peppery or tingling taste on the tongue — stop eating immediately, this is a histamine warning sign"
+    ],
+    "tips": [
+      "Buy tuna last, keep it in a cool bag, and get it into the fridge within the hour.",
+      "Ask when it was cut; the fridge clock runs from the counter, not from your kitchen.",
+      "Portion into single servings before freezing so nothing thaws twice.",
+      "Sashimi-grade means the fish was handled and frozen for raw eating — ordinary fresh tuna is not a substitute."
+    ],
+    "faq": [
+      {"q": "How long does fresh tuna last in the fridge?", "a": "Only 1–2 days from the day of purchase at 4 °C (40 °F) or below. If you cannot use it in that time, freeze it the same day."},
+      {"q": "Can you freeze fresh tuna?", "a": "Yes. Wrap it airtight and freeze at −18 °C (0 °F); it is safe indefinitely and best within 2–3 months. Freezing does not undo histamine that formed before freezing."},
+      {"q": "Why did my tuna turn brown?", "a": "The red pigment in tuna oxidises on contact with air. Slight browning on the cut face is a quality change, but brown flesh combined with a sour smell or slime means it is spoiled."},
+      {"q": "What is scombroid poisoning?", "a": "It is a reaction to histamine that forms in dark-fleshed fish left too warm. It cannot be cooked out, which is why unbroken cold storage from the boat to your kitchen is the only real protection."}
+    ]
+  },
+  "zh": {
+    "name": "鮪魚",
+    "aliases": ["生鮪魚", "黑鮪魚", "黃鰭鮪", "吞拿魚", "金槍魚"],
+    "summary": "生鮪魚是紅肉系的油脂魚，市場上多以魚柳、魚塊或切片販售。冷藏從購買當天算起只能放 1～2 天，冷凍在 −18°C 以 2～3 個月內食用風味最佳。鮪魚屬於鯖科魚類，全程低溫比其他食材更重要。",
+    "pantry": "生鮪魚不能放室溫。鮪魚、鯖魚、鰹魚這類紅肉魚本身組胺酸含量高，在偏溫的環境下細菌會把它轉成組織胺，也就是俗稱的鯖魚毒素中毒。組織胺不會因為煮熟、冷凍或炙燒而被破壞，一旦生成就沒有補救方法。離開低溫最多 2 小時，氣溫超過 32°C 時只有 1 小時。",
+    "fridge": "冷藏請保持 4°C 以下，放在冰箱最裡側或最下層，下面墊盤子、上面鬆鬆蓋住，不要整塊悶在濕答答的包裝裡。從購買日算起可放 1～2 天。如果可以，把包好的魚放在鋪冰的托盤上冰鎮，並隨時倒掉融水——溫度壓得愈低，組織胺生成得愈慢。",
+    "freezer": "兩天內吃不完，買回來當天就冷凍。先把表面水分吸乾，用保鮮膜緊貼包覆後再包鋁箔或裝冷凍袋擠出空氣；鮪魚的油脂和紅色肌紅蛋白一接觸空氣就會氧化變褐。放 −18°C 冷凍，安全上可以無限期保存，風味則以 2～3 個月為限。",
+    "thawing": "解凍請放冷藏室退冰一晚，趕時間就裝密封袋泡冷水。千萬不要放在室溫自然退冰——那正是組織胺最容易生成的條件。冷藏解凍後一天內吃完，生的不要再回冷凍。",
+    "spoilage": [
+      "聞起來是刺鼻的酸味、金屬味或阿摩尼亞味，而不是乾淨的海味",
+      "魚肉由深紅、粉紅轉為暗褐或灰綠",
+      "表面黏手，或包裝裡的湯汁變得混濁濃稠",
+      "入口有胡椒般的刺麻感——請立刻停止食用，這是組織胺的警訊"
+    ],
+    "tips": [
+      "採買時最後才拿魚，用保冷袋，一小時內進冰箱。",
+      "可以問店家是什麼時候分切的；冷藏天數是從切好那天算，不是從你帶回家算。",
+      "冷凍前先分成單餐份量，避免同一塊反覆解凍。",
+      "「生食級」是指整個處理與冷凍流程都以生食為前提，一般生鮮鮪魚不能拿來代替。"
+    ],
+    "faq": [
+      {"q": "生鮪魚放冰箱可以放多久？", "a": "4°C 以下冷藏，從購買當天算起只有 1～2 天。來不及吃就當天冷凍。"},
+      {"q": "生鮪魚可以冷凍嗎？", "a": "可以。密封包好放 −18°C，安全上可放很久，風味以 2～3 個月內為佳。但要注意，冷凍無法消除冷凍前已經生成的組織胺。"},
+      {"q": "鮪魚變褐色還能吃嗎？", "a": "紅色色素接觸空氣後會氧化，切面稍微變褐屬於品質變化。但如果變褐又伴隨酸味或黏滑感，就是壞了，不要吃。"},
+      {"q": "什麼是鯖魚毒素（組織胺）中毒？", "a": "紅肉魚放得太溫時會生成組織胺，吃下後可能引起不適。它煮不掉也凍不掉，所以從漁船到廚房不斷鏈的低溫保存才是唯一的防線。"}
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "gai-lan",
+  "en": {
+    "name": "Gai lan",
+    "aliases": ["Chinese broccoli", "kai lan", "Chinese kale", "jie lan"],
+    "summary": "Gai lan is the thick-stemmed Chinese brassica with broad blue-green leaves and small white buds, usually blanched and dressed with oyster sauce. No figure is published for it, so treat it like broccoli, its closest relative: about 4–7 days refrigerated at 4 °C (40 °F) or below.",
+    "pantry": "Gai lan should not be left at room temperature. It is hardier than most Asian greens, but the leaves still wilt within hours in a warm kitchen and the buds open and yellow overnight. There is no room-temperature figure here and none should be assumed. Bag it unwashed and refrigerate it as soon as you get home.",
+    "fridge": "Bag gai lan unwashed and keep it in the crisper at 4 °C (40 °F) or below, where about 4–7 days is the working limit — a figure borrowed from broccoli, its nearest relative with a published number. It is thicker-stemmed and hardier than choy sum or bok choy and genuinely does hold longer than either. Keep the leaves dry and loose; trapped moisture turns the leaf edges slimy. Trim and peel the woody stem base before cooking, not before storing.",
+    "freezer": "No freezer timeline exists for gai lan, so we do not give one. It can be blanched for 2 minutes, chilled, drained and frozen airtight at −18 °C (0 °F), where food stays safe indefinitely — but the thick stem is what people buy gai lan for, and freezing softens it into something closer to a soup vegetable. If you have too much, cook it now and eat it cold the next day rather than freezing it.",
+    "thawing": "If you have frozen blanched gai lan, add it to soups or a hot wok straight from frozen. Do not thaw it and expect to serve it as a plate of greens; the stems will be limp.",
+    "spoilage": [
+      "White flowers opened out and the buds browning",
+      "Leaves yellowing, or slimy and darkened at the edges",
+      "Stems gone limp and hollow instead of snapping cleanly",
+      "A sour or strongly sulphurous smell in the bag"
+    ],
+    "tips": [
+      "Choose bunches with firm stems, unopened buds and no yellow leaves.",
+      "Peel the bottom few centimetres of the thickest stems — the outside is woody, the inside is sweet.",
+      "Split thick stems lengthways so they cook at the same rate as the leaves.",
+      "Blanch in salted water with a drop of oil, then dress with oyster sauce off the heat."
+    ],
+    "faq": [
+      {"q": "How long does gai lan last in the fridge?", "a": "About 4–7 days at 4 °C (40 °F) or below, bagged unwashed in the crisper. That figure is borrowed from broccoli; none is published for gai lan."},
+      {"q": "Can you freeze gai lan?", "a": "No timeline is published, so we do not give one. Blanched and frozen at −18 °C (0 °F) it works in soups, but the stem texture that makes it worth buying does not survive."},
+      {"q": "Why is my gai lan bitter?", "a": "Gai lan is naturally a little bitter, and older, thicker-stemmed bunches more so. Blanching in well-salted water and dressing it with oyster sauce is the standard way to balance it."},
+      {"q": "Do you have to peel the stems?", "a": "Only the bottom few centimetres of thick stems, where the outer layer is woody. The tender inside is the best part of the plant."}
+    ]
+  },
+  "zh": {
+    "name": "芥藍",
+    "aliases": ["芥蘭", "芥藍菜", "中國芥蘭", "白花芥藍"],
+    "summary": "芥藍是莖粗、葉片寬厚呈藍綠色、頂端帶白色小花苞的中式十字花科蔬菜，最常見的吃法是汆燙後淋蠔油。它沒有公布的保存數據，可以比照最接近的青花菜來看：4°C 以下冷藏約 4～7 天。",
+    "pantry": "芥藍不應該放室溫。它比多數亞洲葉菜強韌，但在溫暖的廚房裡葉子還是幾小時就萎，花苞也會一夜之間綻開泛黃。這裡不提供常溫保存天數，也請不要自行推估。買回家請不清洗裝袋直接冷藏。",
+    "fridge": "不清洗裝袋，放在 4°C 以下的蔬果保鮮室，約 4～7 天是工作上限——這個數字是比照青花菜而來，那是它最接近、又有公布數字的親戚。芥藍莖粗、體質也比菜心和青江菜硬朗，確實比它們耐放。請保持葉片乾燥、不要壓實；積在裡面的水氣會讓葉緣變黏。粗硬的莖基請在烹調前才削，不要保存前就處理。",
+    "freezer": "芥藍沒有冷凍保存期限，所以我們不提供數字。它可以汆燙 2 分鐘、冰鎮瀝乾後密封冷凍於 −18°C，在該溫度下安全上可無限期保存——但大家買芥藍要的就是那根粗莖，而冷凍會把它軟化成比較接近湯料的東西。真的太多的話，現在煮起來、隔天當冷菜吃，會比冷凍好。",
+    "thawing": "如果是汆燙後冷凍的，請不解凍直接下湯或下熱鍋。不要解凍後還指望端出一盤青菜，莖一定是軟的。",
+    "spoilage": [
+      "白花綻開，花苞開始轉褐",
+      "葉片泛黃，或葉緣變黏、發暗",
+      "莖變軟中空，折起來不再清脆斷開",
+      "袋內有酸味或濃重的硫磺味"
+    ],
+    "tips": [
+      "挑莖結實、花苞未開、沒有黃葉的。",
+      "粗莖底部幾公分削掉外層——外面是粗纖維，裡面很甜。",
+      "粗莖縱向剖開，才能和葉子同時熟。",
+      "用加鹽和一點油的滾水汆燙，離火後再淋蠔油。"
+    ],
+    "faq": [
+      {"q": "芥藍放冰箱可以放多久？", "a": "4°C 以下冷藏、不清洗裝袋放蔬果室，約 4～7 天。這個數字是比照青花菜而來；芥藍本身沒有公布的數據。"},
+      {"q": "芥藍可以冷凍嗎？", "a": "沒有公布的期限，所以我們不給數字。汆燙後冷凍於 −18°C 可以拿來煮湯，但讓它值得買的莖部口感撐不過去。"},
+      {"q": "芥藍為什麼會苦？", "a": "芥藍本來就帶一點苦味，莖愈粗、愈老的更明顯。用足量鹽水汆燙再淋蠔油，是平衡它的標準做法。"},
+      {"q": "芥藍的莖一定要削皮嗎？", "a": "只需要削粗莖底部那幾公分，外層纖維較老。裡面柔嫩的部分其實是整株最好吃的地方。"}
+    ]
+  }
+}

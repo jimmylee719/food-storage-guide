@@ -1,0 +1,57 @@
+{
+  "slug": "napa-cabbage",
+  "en": {
+    "name": "Napa cabbage",
+    "aliases": ["Chinese cabbage", "wombok", "Peking cabbage", "hakusai"],
+    "summary": "Napa cabbage is the tall, pale, loosely packed Chinese cabbage that goes into hotpot, dumpling fillings and kimchi. A whole head keeps 3–5 days wrapped and stood somewhere cool, and 1–2 weeks refrigerated at 4 °C (40 °F) or below — though for a napa head, two weeks is optimistic.",
+    "pantry": "A whole head will hold for about 3–5 days out of the fridge if you wrap it in a large sheet of paper and stand it at an angle in a cool, shaded place. Standing rather than lying matters: a head on its side bruises under its own weight and rots where it touches the surface. This works well enough in a cool winter kitchen and badly in a humid summer one, and the fridge is the better option whenever you have the space.",
+    "fridge": "Refrigerated at 4 °C (40 °F) or below in the crisper or a moisture-resistant wrap, napa cabbage keeps 1–2 weeks from purchase. Keep the head whole and peel leaves off as you need them rather than cutting it in half — a cut face browns, dries and then goes slimy, while an intact head simply loses its outermost leaf. Bear in mind the published figure covers cabbage generally: napa is looser-leaved and much softer than a dense green head cabbage, so treat two weeks as the optimistic end rather than the expectation.",
+    "freezer": "No freezer timeline exists for napa cabbage in our sources, so we are not giving one. Raw, it is far too watery to freeze well — it thaws limp and floods whatever you put it in. The traditional solutions are better: salt it and make kimchi, which is a storage method in its own right, or blanch and squeeze it hard before it goes into a bag, which at least makes a usable dumpling filling later.",
+    "thawing": null,
+    "spoilage": [
+      "Slimy, blackened or translucent outer leaves",
+      "Brown or grey spots spreading across the white ribs",
+      "A soft, wet, foul-smelling core at the base",
+      "A sour or strongly sulphurous smell when the head is cut"
+    ],
+    "tips": [
+      "Choose a head that feels heavy and tightly packed with crisp white ribs.",
+      "Store it whole and standing up; peel leaves off from the outside.",
+      "Small black specks on the ribs are usually a harmless pigment disorder, not mould — rinse and use.",
+      "Cook the thick white ribs first and add the leafy tops at the end."
+    ],
+    "faq": [
+      {"q": "How long does napa cabbage last in the fridge?", "a": "1–2 weeks from the day of purchase at 4 °C (40 °F) or below, kept whole in the crisper. Because napa is softer than green cabbage, treat two weeks as the optimistic end."},
+      {"q": "Does napa cabbage need refrigerating?", "a": "Not immediately. Wrapped in paper and stood at an angle somewhere cool it keeps 3–5 days, but the fridge roughly triples that."},
+      {"q": "Can you freeze napa cabbage?", "a": "No published timeline exists, so we do not give one. It is too watery to freeze raw; salting it into kimchi, or blanching and squeezing it dry, are better ways to keep it."},
+      {"q": "What are the little black dots on the leaves?", "a": "Usually pepper spot, a harmless physiological disorder caused by growing conditions or long cold storage. It looks unappetising but the cabbage is fine to eat."}
+    ]
+  },
+  "zh": {
+    "name": "大白菜",
+    "aliases": ["包心白菜", "山東大白菜", "結球白菜", "黃芽白"],
+    "summary": "大白菜就是火鍋、水餃餡和泡菜裡不可或缺的那顆高身、淡色、葉片鬆散的結球白菜。整顆包好立放在陰涼處可放 3～5 天；4°C 以下冷藏，從購買當天算起 1～2 週——不過對大白菜來說，兩週算是相當樂觀。",
+    "pantry": "整顆大白菜用大張紙包起來、斜立在陰涼避光處，大約可以放 3～5 天。立著而不是躺著很重要：橫放的菜會被自身重量壓傷，接觸面最先爛掉。這個做法在涼爽的冬天廚房沒問題，在悶熱潮濕的夏天就不太行；只要冰箱放得下，冷藏都是更好的選擇。",
+    "fridge": "放在 4°C 以下的蔬果保鮮室，或用能擋水氣的材質包好，從購買日起可放 1～2 週。請保持整顆完整，要用時從外層一片片剝，不要整顆對切——切面會褐變、乾掉，然後開始變黏；完整的菜球頂多是外層那片葉子壞掉。另外要注意，公布的數字涵蓋的是「高麗菜、白菜類」整體，而大白菜葉片鬆散、質地也比結球高麗菜柔軟得多，所以兩週請當成樂觀上限，而不是預期值。",
+    "freezer": "我們的資料來源中沒有大白菜的冷凍保存期限，因此不提供。生的大白菜含水量太高，根本不適合直接冷凍——解凍後軟爛出水，會把整鍋菜稀釋掉。傳統做法反而更好：抹鹽做成泡菜，本身就是一種保存法；或是先汆燙、用力擠乾再裝袋，至少之後還能拿來包水餃。",
+    "thawing": null,
+    "spoilage": [
+      "外層葉子黏滑、發黑或變得半透明",
+      "白色葉梗上出現褐色或灰色斑塊並擴散",
+      "根部菜心變軟濕爛並發出臭味",
+      "切開時聞到酸味或濃重的硫磺味"
+    ],
+    "tips": [
+      "挑拿起來有重量、包得紮實、葉梗白脆的。",
+      "整顆保存並立著放，要用時從外層剝。",
+      "葉梗上的小黑點多半是無害的生理性斑點而非發霉，沖洗後照常使用。",
+      "料理時先下厚厚的白色菜梗，葉子最後再放。"
+    ],
+    "faq": [
+      {"q": "大白菜放冰箱可以放多久？", "a": "4°C 以下冷藏、整顆放在蔬果保鮮室，從購買當天算起 1～2 週。大白菜比高麗菜軟，兩週請當成樂觀上限。"},
+      {"q": "大白菜一定要冷藏嗎？", "a": "不一定要馬上冷藏。用紙包好、斜立在陰涼處可以放 3～5 天，但冷藏大約能延長到三倍。"},
+      {"q": "大白菜可以冷凍嗎？", "a": "沒有公布的冷凍期限，所以我們不給數字。生的太多水不適合直接冷凍；做成泡菜，或汆燙擠乾後再冷凍，都是更好的做法。"},
+      {"q": "葉子上的小黑點是什麼？", "a": "多半是「芝麻點」，由生長環境或長期低溫貯藏造成的生理性斑點，無害。外觀不好看，但可以正常食用。"}
+    ]
+  }
+}

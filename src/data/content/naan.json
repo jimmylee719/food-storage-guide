@@ -1,0 +1,57 @@
+{
+  "slug": "naan",
+  "en": {
+    "name": "Naan",
+    "aliases": ["nan bread", "garlic naan", "butter naan", "kulcha", "tandoor flatbread"],
+    "summary": "Naan is a leavened flatbread baked against the wall of a tandoor, enriched with yoghurt, milk or ghee. Fresh from a tandoor it is good for about 2–3 days at room temperature; refrigerated it holds 2–3 weeks, and frozen 3–5 months — the last being much the best option.",
+    "pantry": "Naan holds better than an unleavened chapati because it is leavened and enriched, but it is still a moist bread and its failure mode is mould rather than staling. Sealed in a bag at room temperature in a warm kitchen, a tandoor or home-baked naan is good for about 2–3 days. Packaged supermarket naan is a different product, made with preservatives and carrying its own printed date — follow that instead of this figure, which is deliberately shorter. These numbers are borrowed from the general timeline for commercial flat breads, with the counter figure cut because that published number describes a preservative-loaded packaged loaf.",
+    "fridge": "Refrigeration is the anti-mould move, not a freshness move: chilled bread goes stale faster than bread at room temperature, because starch retrogrades quickest just above freezing. What you get in exchange is 2–3 weeks instead of a few days. Keep it sealed at 4 °C (40 °F) or below and plan to reheat every piece — under a grill, or on a dry tawa with a flick of water thrown in to steam it back to softness. Naan straight from the fridge is leathery.",
+    "freezer": "Freezing is the best answer by a distance, and about 3–5 months at −18 °C (0 °F) is the working limit. Stack the breads flat with a sheet of paper between each one so you can take out a single piece, and seal the stack in a bag with the air pressed out. Reheat from frozen — a hot dry pan, a grill or a few minutes in the oven — rather than thawing first.",
+    "thawing": "Do not thaw naan. Take a piece straight from the freezer onto a hot dry pan or under the grill; a flick of water and a lid for thirty seconds brings the softness back. Thawing at room temperature first makes it soggy on the surface and tough underneath.",
+    "spoilage": [
+      "Fuzzy mould spots, green, white or black, anywhere on the surface",
+      "A musty or sour smell when you open the bag",
+      "A wet, tacky surface where the bread has sweated in a sealed bag",
+      "Hard, cracked and leathery all the way through, with no give"
+    ],
+    "tips": [
+      "Freeze on the day you buy or bake it, not when it is already going stale.",
+      "Layer sheets of paper between breads so they come apart frozen.",
+      "Reheat with a splash of water and a lid — steam is what makes naan soft again.",
+      "Let it cool completely before bagging; warm bread in a sealed bag moulds fast."
+    ],
+    "faq": [
+      {"q": "How long does naan last?", "a": "About 2–3 days sealed at room temperature, 2–3 weeks refrigerated, and 3–5 months frozen. A packaged supermarket naan carries its own date, which runs longer."},
+      {"q": "Can you freeze naan?", "a": "Yes, and it is the best way to keep it. Stack with paper between, seal, and freeze at −18 °C (0 °F) for about 3–5 months. Reheat straight from frozen."},
+      {"q": "Why does naan go hard in the fridge?", "a": "Cold speeds up staling — starch recrystallises fastest just above freezing. The fridge buys you protection from mould, not freshness, so always reheat refrigerated naan."},
+      {"q": "Can you cut mould off naan?", "a": "No. Bread is soft and porous, so mould threads run well beyond the visible spot. Throw the whole piece away, and the rest of the bag if more than one piece is affected."}
+    ]
+  },
+  "zh": {
+    "name": "印度烤餅",
+    "aliases": ["囊餅", "饢", "naan", "蒜香烤餅", "坦都烤餅"],
+    "summary": "印度烤餅是貼在坦都窯壁上烤出來的發酵扁麵包，麵團裡加了優格、牛奶或酥油。剛出爐的常溫可放約 2～3 天，冷藏 2～3 週，冷凍 3～5 個月——冷凍是遙遙領先的最佳選擇。",
+    "pantry": "印度烤餅比沒發酵的印度薄餅耐放，因為它有發酵、又加了油脂與乳製品；但它終究是含水量高的麵包，壞掉的方式是發霉而不是變硬。在溫暖的廚房裡密封放著，窯烤或自家烤的餅大約可放 2～3 天。超市的包裝烤餅是另一種產品，添加了防腐劑、也印有自己的日期，請以那個日期為準。這裡的天數是比照市售扁麵包的通用時程而來，並刻意縮短常溫那一項，因為原本的數字描述的是添加防腐劑的包裝麵包。",
+    "fridge": "冷藏是防霉手段，不是保鮮手段：冷藏的麵包其實比常溫更快變硬，因為澱粉在略高於冰點的溫度下老化得最快。你換到的是 2～3 週而不是幾天。請密封冷藏於 4°C 以下，而且每一片都要復熱——用烤箱上火烤，或放平底鍋乾煎、灑幾滴水加蓋蒸一下讓它回軟。直接從冰箱拿出來的烤餅硬得像皮革。",
+    "freezer": "冷凍是遙遙領先的最佳解，−18°C 下約 3～5 個月是工作上限。請一片一片疊好、中間夾烘焙紙，這樣才能一次只拿一片；整疊裝袋並把空氣壓出來。復熱時不要先解凍——直接上熱鍋乾煎、上火烤，或進烤箱幾分鐘。",
+    "thawing": "印度烤餅不要解凍。直接從冷凍庫拿出來放上熱鍋或送進烤箱；灑幾滴水、蓋上蓋子三十秒，就能把柔軟度找回來。先在室溫解凍反而會表面濕黏、底下變韌。",
+    "spoilage": [
+      "表面任何地方出現綠色、白色或黑色的毛狀黴斑",
+      "打開袋子聞到霉味或酸味",
+      "密封袋內悶出水氣，餅面變得濕黏",
+      "整片乾硬龜裂像皮革，完全沒有彈性"
+    ],
+    "tips": [
+      "買回來或烤好當天就冷凍，不要等到快變硬才想到。",
+      "餅與餅之間夾一張紙，冷凍後才拆得開。",
+      "復熱時灑點水並加蓋，蒸氣才是讓它回軟的關鍵。",
+      "完全放涼再裝袋；溫熱的麵包密封起來會很快發霉。"
+    ],
+    "faq": [
+      {"q": "印度烤餅可以放多久？", "a": "密封常溫約 2～3 天，冷藏 2～3 週，冷凍 3～5 個月。超市包裝款有自己的日期，通常更長。"},
+      {"q": "印度烤餅可以冷凍嗎？", "a": "可以，而且是最好的保存方式。中間夾紙疊好、密封後放 −18°C 約 3～5 個月，復熱時直接從冷凍下鍋。"},
+      {"q": "烤餅冰過為什麼會變硬？", "a": "低溫會加速老化——澱粉在略高於冰點時重新結晶最快。冷藏換到的是防霉而不是保鮮，所以冷藏過的烤餅一定要復熱。"},
+      {"q": "烤餅發霉可以把霉切掉嗎？", "a": "不行。麵包柔軟多孔，菌絲會遠遠超出看得見的霉斑。整片丟掉；如果不只一片受影響，整袋都丟。"}
+    ]
+  }
+}

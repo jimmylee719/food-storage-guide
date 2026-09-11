@@ -1,0 +1,57 @@
+{
+  "slug": "broccoli",
+  "en": {
+    "name": "Broccoli",
+    "aliases": ["broccoli head", "broccoli florets", "calabrese", "broccoli crown"],
+    "summary": "Broccoli is a flower head harvested before it opens, which is why it goes off so visibly: the buds keep trying to bloom. Refrigerated at 4 °C (40 °F) or below it keeps 3–5 days from the day of purchase, and blanched and frozen it holds good quality for 10–12 months.",
+    "pantry": "Broccoli should not be left at room temperature. It respires very fast for a vegetable, and in a warm kitchen the tight green buds yellow and open within a day, while the stem goes woody and the smell turns sulphurous. There is no room-temperature storage figure for broccoli and none should be assumed — refrigerate it as soon as you get home.",
+    "fridge": "Keep broccoli unwashed in a perforated bag in the crisper at 4 °C (40 °F) or below, where it keeps 3–5 days from purchase. It needs air: sealed airtight in plastic it sweats and turns slimy, so use a bag with holes or leave the top open. Standing the head stem-down in a little water, loosely covered, keeps it crisp noticeably longer. Keep it away from apples and other ethylene producers, which yellow the buds.",
+    "freezer": "Broccoli freezes well and is one of the best vegetables to keep this way, but it must be blanched. Cut into even florets, boil for 3 minutes, plunge into iced water, drain thoroughly and pack airtight at −18 °C (0 °F). Without blanching, enzymes keep working and the florets turn olive-coloured and bitter. At −18 °C it is safe indefinitely and keeps good quality for 10–12 months.",
+    "thawing": "Do not thaw broccoli before cooking. Put the frozen florets straight into boiling water, a steamer or a hot wok; thawed broccoli is waterlogged and falls apart. Add a couple of minutes to your usual cooking time.",
+    "spoilage": [
+      "Buds turning yellow, then opening into small flowers",
+      "Slimy, darkened or blackened patches on the head",
+      "A strong sulphurous or cabbage-like smell",
+      "Limp, rubbery stems or a hollow, browning core"
+    ],
+    "tips": [
+      "Buy heads with tight, deep green or blue-green buds and a moist-looking cut stem.",
+      "Store in a perforated bag, never sealed airtight.",
+      "Do not throw the stalk away — peel off the tough skin and it is sweeter than the florets.",
+      "Cook it briefly; long boiling is what makes broccoli smell of sulphur."
+    ],
+    "faq": [
+      {"q": "How long does broccoli last in the fridge?", "a": "3–5 days from the day of purchase at 4 °C (40 °F) or below, unwashed in a perforated bag in the crisper."},
+      {"q": "Can you freeze broccoli?", "a": "Yes, after blanching for 3 minutes and chilling in iced water. Packed airtight at −18 °C (0 °F) it keeps good quality for 10–12 months."},
+      {"q": "Can you eat broccoli that has turned yellow?", "a": "A slight yellow tinge is a quality problem rather than a safety one and it will taste stronger and more bitter. Discard the head if it is slimy, dark or smells sulphurous."},
+      {"q": "Should broccoli be washed before storing?", "a": "No. Wash it just before cooking. Water trapped in the florets is exactly what makes them go slimy in the fridge."}
+    ]
+  },
+  "zh": {
+    "name": "青花菜",
+    "aliases": ["綠花椰菜", "花椰菜（綠）", "西蘭花", "青花椰"],
+    "summary": "青花菜其實是還沒開的花苞，這也是它壞得特別明顯的原因——花苞會繼續想開花。冷藏在 4°C 以下，從購買當天算起可放 3～5 天；汆燙後冷凍則可維持 10～12 個月的良好品質。",
+    "pantry": "青花菜不應該放在室溫。它在蔬菜裡算呼吸作用特別旺盛的，在溫暖的廚房裡，一天內花苞就會泛黃開花，莖部變老，還會散出硫磺味。青花菜沒有常溫保存的天數，也請不要自行推估——買回家就立刻冷藏。",
+    "fridge": "不清洗，裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 3～5 天。它需要透氣：密封在塑膠袋裡會悶出水、變黏，所以請用有洞的袋子或袋口不要封死。把整顆莖朝下立在一點點水裡、上面鬆蓋，可以明顯多脆幾天。另外要遠離蘋果等會釋出乙烯的水果，否則花苞很快泛黃。",
+    "freezer": "青花菜很適合冷凍，是最值得冷凍備用的蔬菜之一，但一定要先汆燙。切成大小一致的小朵，滾水煮 3 分鐘，撈起泡冰水，徹底瀝乾後密封放 −18°C。不汆燙的話酵素會繼續作用，花朵會轉成橄欖綠並帶苦味。在 −18°C 下安全上可無限期保存，品質可維持 10～12 個月。",
+    "thawing": "冷凍青花菜不要先解凍。直接丟進滾水、放進蒸鍋或下熱鍋快炒；解凍過的青花菜吸飽水，一炒就散。加熱時間比平常多抓兩分鐘。",
+    "spoilage": [
+      "花苞開始泛黃，接著綻開成小黃花",
+      "花球表面出現黏滑、發黑或深褐的斑塊",
+      "散發濃重的硫磺味或悶悶的菜臭味",
+      "莖部軟塌像橡皮，或中心變空、切面發褐"
+    ],
+    "tips": [
+      "挑花苞緊實、呈深綠或帶點藍綠、切口看起來還濕潤的。",
+      "用打洞袋保存，千萬不要整顆密封。",
+      "梗不要丟，削掉外層粗皮後其實比花球還甜。",
+      "快速烹調就好；久煮正是青花菜產生硫磺味的原因。"
+    ],
+    "faq": [
+      {"q": "青花菜放冰箱可以放多久？", "a": "4°C 以下冷藏，不清洗、裝打洞袋放蔬果室，從購買當天算起 3～5 天。"},
+      {"q": "青花菜可以冷凍嗎？", "a": "可以，先汆燙 3 分鐘並冰鎮瀝乾。密封後放 −18°C，品質可維持 10～12 個月。"},
+      {"q": "青花菜變黃還能吃嗎？", "a": "稍微泛黃屬於品質問題而非安全問題，但味道會變重、偏苦。如果已經黏滑、發黑或有硫磺味，整顆丟掉。"},
+      {"q": "青花菜要先洗再冰嗎？", "a": "不要。請在料理前才洗。卡在花苞間的水分，正是它在冰箱裡變黏的主因。"}
+    ]
+  }
+}

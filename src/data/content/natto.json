@@ -1,0 +1,92 @@
+{
+  "slug": "natto",
+  "en": {
+    "name": "Natto",
+    "aliases": [
+      "fermented soybeans",
+      "nattō",
+      "hikiwari natto",
+      "sticky soybeans"
+    ],
+    "summary": "Natto is whole soybeans fermented with a live Bacillus culture until they turn sticky and stringy. There is no general fridge figure for it and we will not make one up — the printed date on the pack is the answer, and the chiller has to run cold to make that date mean anything. Frozen, it will comfortably hold for months.",
+    "pantry": "Natto is not a shelf-stable food, even though it is a ferment. The culture inside is alive, and warmth simply restarts it. Industry hygiene rules for natto makers require the chiller to run at 10 °C or below for precisely this reason: after fermentation the packs are chilled to stop Bacillus subtilis var. natto working any further. Left at room temperature the beans keep fermenting, the smell turns to ammonia and the texture goes past the point most people will eat.",
+    "fridge": "Go by the 賞味期限 printed on the pack. No authority publishes a general home-fridge duration for natto, so any number you see quoted is somebody's guess. What is published is the rule: keep it at 10 °C or below, and a domestic fridge at 4 °C (40 °F) or below is comfortably within that. Keep the packs stacked flat in the coldest part, not in the door. The failure mode is over-fermentation rather than sudden spoilage — an ammonia smell and white tyrosine crystals on the beans are the point at which to stop eating it, and they can appear before the printed date if the chain has been warm.",
+    "freezer": "Freezing is the right way to keep natto, because it stops the culture dead rather than merely slowing it. Freeze the packs unopened, exactly as they come, at −18 °C (0 °F). About six months is a reasonable working limit for quality — that figure is borrowed from tempeh, the nearest comparable food, since no home freezer time is published for natto itself. Treat it as guidance rather than as a documented limit.",
+    "thawing": "Thaw a pack overnight in the fridge, not on the counter and never in the microwave, which kills the texture. Stir it hard once thawed to bring the stickiness back, then eat it that day.",
+    "spoilage": [
+      "A sharp ammonia smell, quite distinct from natto's usual funk",
+      "White or pale crystals scattered over the beans, a sign of over-fermentation",
+      "Beans gone dry, shrunken and dark instead of plump",
+      "Any mould that is not the usual white bloom, or fuzz in green, blue or black"
+    ],
+    "tips": [
+      "Buy it from the chilled cabinet and get it home cold; never buy natto from an unrefrigerated shelf.",
+      "Freeze packs you will not eat this week, on the day you buy them.",
+      "Keep the sauce and mustard sachets with the pack so the frozen pack is ready to go.",
+      "Stir before adding the sauce, not after — the stringiness develops better dry."
+    ],
+    "faq": [
+      {
+        "q": "How long does natto keep in the fridge?",
+        "a": "There is no general published figure. Follow the date printed on the pack, keep it at 10 °C or below (a home fridge at 4 °C is better), and stop eating it if it smells of ammonia."
+      },
+      {
+        "q": "Can you freeze natto?",
+        "a": "Yes, and it is the best way to keep it, because freezing halts the culture. Around six months is a sensible quality limit, borrowed from tempeh rather than published for natto."
+      },
+      {
+        "q": "What are the white crystals on my natto?",
+        "a": "They are tyrosine, an amino acid thrown out by continued fermentation. They are a sign the natto has gone further than it should have, which is the point to stop eating it."
+      },
+      {
+        "q": "Does natto go bad if it smells strong?",
+        "a": "Natto always smells strong. The smell to act on is ammonia specifically — sharp and eye-watering rather than earthy — which means the culture has kept working past where you want it."
+      }
+    ]
+  },
+  "zh": {
+    "name": "納豆",
+    "aliases": [
+      "日本納豆",
+      "拉絲納豆",
+      "碎粒納豆",
+      "發酵黃豆",
+      "納豆菌豆"
+    ],
+    "summary": "納豆是用納豆菌發酵整顆黃豆做成的，會牽出黏絲。它沒有一個通用的冷藏天數，我們也不會硬編一個——包裝上的賞味期限才是答案，而且冷藏溫度要夠低，這個日期才有意義。冷凍保存則可以撐上好幾個月。",
+    "pantry": "納豆雖然是發酵食品，卻不是可以常溫放的東西。裡面的菌是活的，一回溫就會繼續工作。日本納豆業界的衛生管理規範要求冷藏庫維持 10°C 以下，原因正在於此：發酵完成後靠低溫讓納豆菌停下來。放在室溫，豆子會繼續發酵，氣味轉為刺鼻的阿摩尼亞味，口感也會壞到大多數人吃不下去。",
+    "fridge": "請以包裝上的賞味期限為準。沒有任何權威單位公布納豆在家用冰箱能放幾天，所以網路上看到的數字多半是猜的。真正有公布的是規則：保存在 10°C 以下，而家用冰箱維持在 4°C 以下更安全。請把納豆平放堆在冰箱最冷的位置，不要放門邊。納豆的劣化方式是「發酵過頭」而不是突然腐敗——聞到阿摩尼亞味、豆子表面出現白色酪胺酸結晶，就是該停止食用的點；如果中途回過溫，這些跡象可能在賞味期限前就出現。",
+    "freezer": "冷凍是保存納豆最好的方式，因為它是直接讓菌停下來，而不只是放慢。請整盒未開封直接放進 −18°C 冷凍。品質上大約以六個月為合理參考——這個數字是比照天貝（tempeh）這個最接近的食品來看，因為納豆本身並沒有公布的家用冷凍時程，請當作參考而非定論。",
+    "thawing": "解凍請放冷藏室退冰一晚，不要放室溫，更不要用微波，微波會毀掉它的口感。退冰後用力攪拌把黏絲拌回來，並在當天吃完。",
+    "spoilage": [
+      "出現刺鼻的阿摩尼亞味，和納豆原本的發酵味明顯不同",
+      "豆子表面布滿白色顆粒結晶，代表發酵過頭",
+      "豆子乾癟、縮水、顏色變深，不再飽滿",
+      "長出非白色薄膜狀的黴，例如綠色、藍色或黑色的毛狀物"
+    ],
+    "tips": [
+      "請在冷藏櫃購買並全程保冷；不要買常溫架上的納豆。",
+      "這週吃不完的份量，買回來當天就整盒冷凍。",
+      "附的醬汁和黃芥末一起收在盒子裡，之後冷凍取出就能直接用。",
+      "先攪拌再加醬汁，乾拌時黏絲才拉得出來。"
+    ],
+    "faq": [
+      {
+        "q": "納豆放冰箱可以放多久？",
+        "a": "沒有通用的公布數字。請依包裝上的賞味期限，保存在 10°C 以下（家用冰箱建議 4°C 以下），一旦聞到阿摩尼亞味就不要再吃。"
+      },
+      {
+        "q": "納豆可以冷凍嗎？",
+        "a": "可以，而且是最好的保存方式，因為冷凍會讓納豆菌停止作用。品質上大約六個月是合理參考，這是比照天貝而來，並非納豆本身公布的數字。"
+      },
+      {
+        "q": "納豆上的白色結晶是什麼？",
+        "a": "那是酪胺酸，發酵持續進行時析出的胺基酸。它代表納豆已經發酵過頭，是該停止食用的訊號。"
+      },
+      {
+        "q": "納豆味道很重是壞掉了嗎？",
+        "a": "納豆本來味道就重。真正要警覺的是阿摩尼亞味——那種刺鼻嗆眼的味道，代表菌已經作用得太久了。"
+      }
+    ]
+  }
+}

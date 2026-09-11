@@ -1,0 +1,57 @@
+{
+  "slug": "fish-sauce",
+  "en": {
+    "name": "Fish sauce",
+    "aliases": ["nam pla", "nuoc mam", "patis", "anchovy sauce", "yu lu"],
+    "summary": "Fish sauce is anchovies fermented under something like a quarter of their weight in salt, then drawn off as a clear amber liquid. An unopened bottle keeps about three years in a cool dark cupboard, and the 'refrigerate after opening' line on the label is about flavour rather than safety.",
+    "pantry": "Keep the bottle capped in a cool dark cupboard, away from the stove. Unopened it will keep for years — about three is a reasonable working limit, borrowed from soy sauce, the nearest heavily salted fermented seasoning with a published figure. Once opened, the bottle does not become hazardous on a shelf: salt and low water activity are recognised preservation barriers in their own right, and the condiments that carry a refrigerate-after-opening instruction generally do so to slow quality loss rather than to prevent illness. What an open bottle on a warm shelf does do is darken and turn from savoury towards harsh over the months. Salt crystals settling in an old bottle are just salt.",
+    "fridge": "Refrigeration slows the darkening and keeps the aroma cleaner, which is why many Thai and Vietnamese kitchens keep the bottle cold. No agency publishes a timeline for refrigerated fish sauce, and we are not going to invent one — what you are buying with the fridge is flavour, not safety, and there is no date at which a refrigerated bottle turns. Judge it by smell and colour: clean, sharp and translucent amber is good, flat and near-black is past its best.",
+    "freezer": "Fish sauce should not be frozen and there is no timeline for it. The salt concentration is so high that it will not freeze solid at domestic freezer temperatures — it just goes syrupy — and freezing gains you nothing when the bottle already keeps for years. Buy small bottles instead of large ones if you use it rarely; that solves the real problem, which is a bottle going flat before it is finished.",
+    "thawing": null,
+    "spoilage": [
+      "Fuzzy mould around the neck or under the cap",
+      "A rotten or putrid smell, quite different from fish sauce's usual sharp funk",
+      "The liquid turning thick, cloudy or sludgy rather than clear",
+      "Fizzing or a cap that has been pushed up by gas"
+    ],
+    "tips": [
+      "Buy a small bottle if you cook with it occasionally; flavour, not safety, is what runs out.",
+      "Wipe the neck before capping so the thread does not crust up.",
+      "Keep it away from the hob; heat is what dulls it fastest.",
+      "Crystals in an old bottle are salt — strain them out or ignore them."
+    ],
+    "faq": [
+      {"q": "Does fish sauce need to be refrigerated after opening?", "a": "Not for safety. Salt and low water activity are what preserve it, and the label instruction is there to slow quality loss. Refrigerating it does keep the aroma cleaner for longer."},
+      {"q": "How long does fish sauce last?", "a": "About three years unopened in a cool dark cupboard, a figure borrowed from soy sauce. No timeline is published for a refrigerated open bottle, so judge it by smell and colour."},
+      {"q": "My fish sauce has gone very dark — is it bad?", "a": "Darkening is oxidation, not spoilage. It will taste flatter and harsher than a fresh bottle, but it is not unsafe. Discard it only for mould, a putrid smell, or a cloudy, sludgy liquid."},
+      {"q": "What are the crystals at the bottom of the bottle?", "a": "Salt that has come out of solution as the sauce concentrated. It is harmless — strain it out if it bothers you."}
+    ]
+  },
+  "zh": {
+    "name": "魚露",
+    "aliases": ["魚醬", "蝦油", "nam pla", "nuoc mam", "越式魚露"],
+    "summary": "魚露是鯷魚在大約四分之一自身重量的鹽下發酵後，抽取出來的琥珀色清澈液體。未開封放在陰涼避光的櫥櫃約可放三年；瓶身上「開封後請冷藏」那行字，談的是風味而不是安全。",
+    "pantry": "請把瓶子蓋緊，放在陰涼避光的櫥櫃、遠離爐火。未開封可以放好幾年——約三年是合理的參考上限，這是比照醬油而來，那是最接近的高鹽發酵調味料，而且有公布數字。開封後，放在架上的魚露也不會變得危險：鹽與低水活性本身就是被認可的保存屏障，而標示「開封後冷藏」的調味料，多半是為了減緩品質下降而非防止食品中毒。開封後放在溫暖架上的瓶子，真正會發生的是顏色變深、味道從鮮香轉為尖銳刺鼻。老瓶底部析出的鹽結晶，就只是鹽。",
+    "fridge": "冷藏可以減緩變深、讓香氣維持得更乾淨，這也是許多泰國和越南廚房把魚露冰起來的原因。沒有任何單位公布冷藏魚露的保存期限，我們也不會自己編一個——冰箱換來的是風味而不是安全，也沒有哪一天一瓶冷藏魚露會突然壞掉。請用氣味和顏色判斷：清澈透亮的琥珀色、氣味乾淨銳利就是好的；顏色近乎全黑、味道變平，就是過了最佳狀態。",
+    "freezer": "魚露不該冷凍，也沒有對應的保存期限。它的鹽度高到在家用冷凍溫度下根本凍不成固體，頂多變得像糖漿；而且一瓶本來就能放好幾年，冷凍什麼也換不到。偶爾才用的話，請改買小瓶——那才是真正在解決問題，也就是一瓶還沒用完味道就先走掉。",
+    "thawing": null,
+    "spoilage": [
+      "瓶口或瓶蓋內側長出毛狀黴",
+      "出現腐臭味，那和魚露原本尖銳的發酵味完全不同",
+      "液體變得濃稠、混濁或帶沉泥感，而不是清澈",
+      "冒泡，或瓶蓋被氣體頂起來"
+    ],
+    "tips": [
+      "偶爾才煮的話買小瓶；先用完的是風味，不是安全性。",
+      "每次用完擦乾淨瓶口，螺牙才不會結垢。",
+      "遠離爐台，高溫最容易讓它走味。",
+      "老瓶底部的結晶是鹽，濾掉或不管它都可以。"
+    ],
+    "faq": [
+      {"q": "魚露開封後一定要冷藏嗎？", "a": "就安全而言不一定。保存它的是鹽和低水活性，標籤上的指示是為了減緩品質下降。冷藏確實能讓香氣維持得更久更乾淨。"},
+      {"q": "魚露可以放多久？", "a": "未開封放陰涼避光處約三年，這是比照醬油而來。冷藏開封後的瓶子沒有公布的期限，請用氣味和顏色判斷。"},
+      {"q": "魚露顏色變很深是壞掉了嗎？", "a": "變深是氧化而不是腐敗。味道會比新瓶平淡刺鼻，但並非不安全。只有長霉、發出腐臭味，或液體變混濁帶沉泥時才需要丟棄。"},
+      {"q": "瓶底的結晶是什麼？", "a": "是魚露濃縮後析出的鹽結晶，無害。覺得礙眼的話濾掉即可。"}
+    ]
+  }
+}

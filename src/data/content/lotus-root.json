@@ -1,0 +1,91 @@
+{
+  "slug": "lotus-root",
+  "en": {
+    "name": "Lotus root",
+    "aliases": [
+      "renkon",
+      "lian ou",
+      "lotus rhizome",
+      "lotus stem"
+    ],
+    "summary": "Lotus root is the linked rhizome of the lotus, with the hollow channels that make its slices look like flowers. Unpeeled with the mud still on and the nodes intact it keeps 1–2 weeks refrigerated; a cut section lasts only 2–3 days, and blanched slices freeze for about 2–3 weeks.",
+    "pantry": "Lotus root is not a room-temperature vegetable. It is harvested from mud and stored wet, and it dries out and browns quickly in open air; the hollow channels also let air straight into the middle of the rhizome, so a cut root deteriorates from the inside as well as the outside. There is no room-temperature figure here and none should be assumed.",
+    "fridge": "Leave the mud on and the sealed nodes intact, wrap the rhizome in damp paper, bag it and refrigerate at 4 °C (40 °F) or below, where 1–2 weeks is the working limit — a figure borrowed from carrots, the closest dense root vegetable with a published number. A cut section keeps only two to three days, because the exposed channels dry and discolour, so buy whole linked sections rather than cut pieces if you want them to keep. Cut slices go pink-brown within minutes, so hold them in water with a splash of vinegar.",
+    "freezer": "Slice the root, blanch the slices briefly in water with a little vinegar to keep them white, cool, drain and freeze flat in a sealed bag at −18 °C (0 °F). About 2–3 weeks is the working limit, taken from the general guide for home-frozen vegetables rather than published for lotus root. Freezing costs it some of the crunch that is its main attraction, so this suits simmered and braised dishes better than a quick stir-fry.",
+    "thawing": "Cook frozen lotus root from frozen, straight into the pan or the pot. Thawed slices go soft and darken, and they will not hold the crisp bite you froze them for.",
+    "spoilage": [
+      "Flesh gone grey, brown or black inside the hollow channels",
+      "Soft, slimy or wet patches on the skin",
+      "A sour or fermented smell rather than a clean muddy one",
+      "A rhizome that feels light or gives when squeezed"
+    ],
+    "tips": [
+      "Buy whole linked sections with the mud on and the ends sealed — they keep several times longer than cut pieces.",
+      "Hold peeled slices in vinegar water to keep them white.",
+      "Rinse the channels out under running water after slicing; mud collects in them.",
+      "Cook it briefly for crunch or long and slow for starchy softness — the middle ground is the worst of both."
+    ],
+    "faq": [
+      {
+        "q": "How long does lotus root last in the fridge?",
+        "a": "1–2 weeks with the mud on and the nodes intact, wrapped in damp paper. A cut section keeps only 2–3 days. Both figures are borrowed from carrots."
+      },
+      {
+        "q": "Can you freeze lotus root?",
+        "a": "Yes, sliced and briefly blanched, frozen flat at −18 °C (0 °F) for about 2–3 weeks — a figure from the general home-freezing guide. It loses some crunch."
+      },
+      {
+        "q": "Why does lotus root turn brown?",
+        "a": "It is high in polyphenols that oxidise the moment a cut surface meets air. Drop slices into water with a splash of vinegar as you cut them."
+      },
+      {
+        "q": "Should you wash the mud off lotus root?",
+        "a": "Not until you cook it. The mud is what keeps the rhizome from drying out; wash it and the root will go over in a fraction of the time."
+      }
+    ]
+  },
+  "zh": {
+    "name": "蓮藕",
+    "aliases": [
+      "藕",
+      "蓮藕節",
+      "藕節",
+      "蓮菜"
+    ],
+    "summary": "蓮藕是蓮的地下莖，一節一節相連，切片後那些中空的孔洞讓它看起來像花。帶泥、藕節封口完整的未削皮蓮藕冷藏可放 1～2 週；已經切開的只剩 2～3 天；汆燙後的藕片冷凍約 2～3 週。",
+    "pantry": "蓮藕不是能放室溫的蔬菜。它從泥裡挖出來、也是帶濕保存的，在乾燥空氣中很快脫水發褐；中空的孔道更讓空氣直達藕的中心，所以切開的藕是從裡外同時劣化。這裡不提供常溫保存天數，也請不要自行推估。",
+    "fridge": "請保留表面的泥、也保持藕節封口完整，用濕紙包起來裝袋，冷藏於 4°C 以下，1～2 週是工作上限——這個數字是比照紅蘿蔔而來，那是最接近、又有公布數字的緻密根莖。切開的藕段只能放兩到三天，因為裸露的孔道會迅速乾燥變色；想放久一點，就買一整節相連、兩端未切開的。切片後幾分鐘內就會轉成粉褐色，所以請立刻泡進加了一點醋的水裡。",
+    "freezer": "把藕切片，用加了一點醋的水快速汆燙保持白皙，放涼瀝乾後平鋪裝密封袋放 −18°C。約 2～3 週是工作上限，這個數字取自家庭冷凍蔬菜的一般指引，並非針對蓮藕公布。冷凍會犧牲一部分脆度，而脆度正是蓮藕的主要魅力，所以這比較適合燉煮而不是快炒。",
+    "thawing": "冷凍蓮藕請不解凍直接下鍋或下湯。解凍後的藕片會變軟變黑，也留不住你當初想保存的那份脆度。",
+    "spoilage": [
+      "孔洞內部的肉質轉灰、發褐或發黑",
+      "表皮出現軟爛、黏滑或濕爛的區塊",
+      "有酸味或發酵味，而不是乾淨的泥土味",
+      "整節拿起來變輕，或捏下去會凹"
+    ],
+    "tips": [
+      "買一整節相連、帶泥、兩端未切開的，保存期是切好的好幾倍。",
+      "削好的藕片泡醋水可以保持白皙。",
+      "切片後在流動水下把孔洞沖乾淨，泥都卡在裡面。",
+      "要脆就快炒、要鬆軟就久燉；火候取中間反而兩邊都不討好。"
+    ],
+    "faq": [
+      {
+        "q": "蓮藕放冰箱可以放多久？",
+        "a": "帶泥、藕節完整並用濕紙包好，冷藏 1～2 週；已經切開的只有 2～3 天。兩個數字都是比照紅蘿蔔而來。"
+      },
+      {
+        "q": "蓮藕可以冷凍嗎？",
+        "a": "可以，切片快速汆燙後平鋪冷凍於 −18°C 約 2～3 週，這個數字取自家庭冷凍蔬菜的一般指引。脆度會打折。"
+      },
+      {
+        "q": "蓮藕為什麼很快變黑？",
+        "a": "它的多酚含量高，切面一接觸空氣就氧化。切的時候就把藕片丟進加了一點醋的水裡。"
+      },
+      {
+        "q": "蓮藕上的泥要洗掉嗎？",
+        "a": "要煮之前才洗。泥正是避免藕乾掉的東西；洗掉之後，保存期會縮短到原本的一小部分。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "takuan",
+  "en": {
+    "name": "Takuan",
+    "aliases": [
+      "takuwan",
+      "bran-pickled daikon",
+      "yellow pickled radish",
+      "nukazuke daikon"
+    ],
+    "summary": "Takuan is daikon sun-dried and then pickled, traditionally buried in a bed of rice bran and salt. The traditional version is not a fridge food at all; the modern supermarket kind — low-salt, sweetened, coloured and pasteurised — is, keeping 1–3 months once the pack is opened.",
+    "pantry": "Traditional takuan is not a fridge food. The method is to sun-dry whole daikon, then layer them with rice bran and salt under a weight at 15–17 percent salt, and ferment for six to twelve months. The salt is the preservation, and a whole radish left buried in its bran bed in a cool place keeps as long as the bed does — historically it was salted three to five times more heavily than today's version. Modern supermarket takuan is nothing like this: low in salt, sweetened, coloured and pasteurised, and it belongs in the fridge whatever the traditional product does.",
+    "fridge": "For a genuinely fermented, high-salt takuan lifted out of its bran and kept cold, 4–6 months is the working figure — the published figure for fully fermented pickles in their original container, refrigerated, with surface scum and moulds removed regularly. The same rule applies to a crock of 糠漬け. For an opened vacuum pack of the modern seasoned type, reckon on 1–3 months: keep the slices submerged in whatever liquid came with them, in a sealed box at 4 °C (40 °F) or below. That figure is borrowed from pickles generally; no agency publishes one for takuan. Sliminess on the surface, or a lifted, gassy pack, means discard it.",
+    "freezer": "There is no freezer timeline for takuan and freezing it works against the point. Its entire character is the crunch of a salted, dried, fermented radish, and freezing bursts what is left of the cell structure so that the slices thaw limp and weeping. It is already a preserve with months of life in it; the freezer adds nothing. If you have a whole radish, leave it in its bran bed, which is where it keeps best.",
+    "thawing": null,
+    "spoilage": [
+      "A slimy or ropy film on the surface of the slices",
+      "A lifted, domed or gassy vacuum pack",
+      "Fuzzy mould, as distinct from the surface bloom on a traditional bran bed",
+      "A rotten or off smell rather than the sharp, funky, fermented one"
+    ],
+    "tips": [
+      "Keep the slices submerged in their liquid and use a clean dry utensil.",
+      "Skim surface scum from a crock of bran pickles regularly.",
+      "A bright yellow colour usually means dye, not turmeric — it says nothing about freshness.",
+      "Rinse traditional high-salt takuan before serving if it is too salty; do not rinse the modern sweetened kind."
+    ],
+    "faq": [
+      {
+        "q": "How long does takuan keep after opening?",
+        "a": "1–3 months refrigerated for an opened pack of the modern seasoned type, borrowed from pickles generally. A genuinely fermented high-salt takuan keeps 4–6 months refrigerated with regular skimming."
+      },
+      {
+        "q": "Does takuan need refrigerating?",
+        "a": "The modern supermarket kind does — it is low-salt, sweetened and pasteurised. Traditional high-salt takuan buried in its bran bed keeps in a cool place as long as the bed does."
+      },
+      {
+        "q": "Can you freeze takuan?",
+        "a": "There is no timeline and no reason to. It is already a preserve, and freezing turns the crunch that defines it into limp, weeping slices."
+      },
+      {
+        "q": "Why is my takuan so yellow?",
+        "a": "Usually dye. Traditionally the colour came from the drying and the bran; most supermarket takuan is coloured, and the shade tells you nothing about how fresh or how well made it is."
+      }
+    ]
+  },
+  "zh": {
+    "name": "澤庵漬",
+    "aliases": [
+      "黃蘿蔔",
+      "日式醃蘿蔔",
+      "米糠醃蘿蔔",
+      "澤庵"
+    ],
+    "summary": "澤庵漬是把白蘿蔔曬乾後再醃漬的產品，傳統做法是埋在米糠和鹽的糠床裡。傳統版本根本不是冷藏食品；而現在超市賣的那種——低鹽、加糖、染色又經過殺菌——則是，開封後可放 1～3 個月。",
+    "pantry": "傳統的澤庵漬不是冷藏食品。做法是把整根白蘿蔔曬乾，再和米糠、鹽層層堆疊，上面壓重石，鹽度達 15～17%，發酵六到十二個月。真正在保存它的是鹽，而一整根埋在糠床裡的蘿蔔，放在陰涼處可以和糠床一樣久——歷史上的鹽度是現在版本的三到五倍。現代超市的澤庵漬完全是另一回事：低鹽、加糖、染色、殺菌，不論傳統產品怎麼做，它都該放冰箱。",
+    "fridge": "如果是真正發酵、高鹽、從糠床裡取出來低溫保存的澤庵漬，4～6 個月是工作上的參考數字——這是「完全發酵的醃漬品保存在原容器中冷藏、並定期撈除表面浮渣與黴」的公布數字，同樣適用於一缸糠漬。至於現代調味型的真空包裝開封後，請抓 1～3 個月：把蘿蔔片壓在原本附的醃汁裡，密封盒裝好放 4°C 以下。這個數字是比照醃漬類整體而來；沒有任何單位為澤庵漬公布過。表面變黏，或真空包鼓脹產氣，就要丟棄。",
+    "freezer": "澤庵漬沒有冷凍保存期限，冷凍也違背它的意義。它的全部個性就在那股醃漬乾蘿蔔的脆度，而冷凍會撐破僅存的細胞結構，解凍後只剩軟塌出水的蘿蔔片。它本身就是保存品、還有好幾個月的壽命，冷凍什麼也沒增加。如果拿到的是一整根，就讓它留在糠床裡，那才是它最好的歸宿。",
+    "thawing": null,
+    "spoilage": [
+      "蘿蔔片表面出現黏滑或牽絲的薄膜",
+      "真空包鼓起、隆起或明顯產氣",
+      "長出毛狀黴（這和傳統糠床表面的正常菌膜不同）",
+      "有腐臭味或異味，而不是那股尖銳的發酵香"
+    ],
+    "tips": [
+      "把蘿蔔片壓在醃汁底下，並使用乾淨的乾器具。",
+      "糠床的表面浮渣要定期撈掉。",
+      "鮮黃色多半是色素而不是薑黃——顏色完全不能用來判斷新鮮度。",
+      "傳統高鹽澤庵太鹹的話，上桌前沖一下；現代加糖的那種不要沖。"
+    ],
+    "faq": [
+      {
+        "q": "澤庵漬開封後可以放多久？",
+        "a": "現代調味型的開封後冷藏 1～3 個月，這是比照醃漬類而來。真正發酵的高鹽澤庵冷藏可放 4～6 個月，並要定期撈除表面浮渣。"
+      },
+      {
+        "q": "澤庵漬一定要冷藏嗎？",
+        "a": "現代超市那種要——它低鹽、加糖又經過殺菌。傳統高鹽、埋在糠床裡的澤庵，放在陰涼處可以和糠床一樣久。"
+      },
+      {
+        "q": "澤庵漬可以冷凍嗎？",
+        "a": "沒有對應的期限，也沒有理由。它本身就是保存品，而冷凍會把定義它的那份脆度變成軟塌出水的蘿蔔片。"
+      },
+      {
+        "q": "澤庵漬為什麼那麼黃？",
+        "a": "通常是色素。傳統上顏色來自曬乾和米糠；現在市售的多半經過染色，顏色深淺完全說明不了新鮮度或製作品質。"
+      }
+    ]
+  }
+}

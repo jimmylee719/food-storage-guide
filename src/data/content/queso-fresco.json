@@ -1,0 +1,57 @@
+{
+  "slug": "queso-fresco",
+  "en": {
+    "name": "Queso fresco",
+    "aliases": ["queso blanco", "requesón", "queso panela", "fresh white cheese", "Hispanic-style fresh cheese"],
+    "summary": "Queso fresco is the fresh, unaged, crumbly white cheese of Mexican and Central American cooking. It must be kept at 4 °C (40 °F) or below; about 1–2 weeks is the working figure, but this is a documented Listeria vehicle and the safest advice is not to keep leftovers once the pack is opened.",
+    "pantry": "Queso fresco cannot be left out, and the reason matters. Cheeses of this type are high in moisture and low in acidity, which makes them an ideal environment for Listeria monocytogenes — and unlike most foodborne bacteria, Listeria thrives in cold places, including inside refrigerators. Anything that has sat between 4 °C and 60 °C (40 °F and 140 °F) for more than two hours should be thrown away, one hour above 32 °C (90 °F). Take out what you are serving and put the rest back immediately.",
+    "fridge": "Keep it sealed at 4 °C (40 °F) or below and away from anything ready-to-eat, so a leaking pack cannot cross-contaminate. About 1–2 weeks is the working timeline, borrowed from the general figure for soft cheese; no agency publishes a number of its own for queso fresco. The published advice is blunter than a number: do not keep leftover queso fresco-type cheese after the pack has been opened, precisely to minimise the risk of Listeria growing. Raw milk is the older risk, but recent outbreaks have been traced to cheeses made from pasteurised milk that were contaminated afterwards — so buy cheese labelled as made with pasteurised milk, and if you are pregnant, over 65 or immunocompromised, avoid queso fresco-type cheeses altogether unless they are thoroughly cooked.",
+    "freezer": "Freezing works for cooking only, and no timeline is published for it. The curd turns grainy and weeps on thawing, so frozen queso fresco belongs crumbled into a filling or melted into a sauce, never sliced onto a plate. Note that freezing does not kill Listeria — it only stops it multiplying, and the organism resumes growing when the cheese thaws. Freezing is therefore not a way to rescue cheese you are unsure about.",
+    "thawing": "Thaw in the fridge only, never on the counter, and cook the cheese rather than eating it as it is. Use it the same day it thaws and do not refreeze it.",
+    "spoilage": [
+      "A sour, yeasty or sharply fermented smell rather than a clean milky one",
+      "A slimy or sticky surface, or cloudy liquid pooling in the pack",
+      "Yellowing, pink or grey patches, or any mould",
+      "A pack that has swollen or is leaking"
+    ],
+    "tips": [
+      "Buy cheese labelled as made with pasteurised milk.",
+      "Buy the smallest pack you will finish in one go.",
+      "Keep it on a low shelf away from ready-to-eat food.",
+      "Cook it through if anyone eating is pregnant, elderly or immunocompromised."
+    ],
+    "faq": [
+      {"q": "How long does queso fresco last in the fridge?", "a": "About 1–2 weeks at 4 °C (40 °F) or below is the working figure, but the published safety advice is not to keep leftovers once the pack is opened, because of the Listeria risk."},
+      {"q": "Can you freeze queso fresco?", "a": "You can, but no timeline is published and it thaws grainy and wet. Use it crumbled into cooking, and remember that freezing pauses Listeria rather than killing it."},
+      {"q": "Is pasteurised queso fresco safe?", "a": "Pasteurisation removes the raw-milk risk, but recent outbreaks involved pasteurised cheeses contaminated after pasteurisation. Buy pasteurised, keep it cold, and higher-risk groups should eat it only cooked."},
+      {"q": "Can you cut mould off queso fresco?", "a": "No. It is a soft, high-moisture cheese, and mould and bacteria spread right through it. Discard the whole piece."}
+    ]
+  },
+  "zh": {
+    "name": "新鮮白乳酪",
+    "aliases": ["queso fresco", "墨西哥新鮮乳酪", "queso blanco", "requesón", "panela 起司"],
+    "summary": "queso fresco 是墨西哥與中美洲料理中那種新鮮、未熟成、易碎的白色起司。必須保存在 4°C 以下；約 1～2 週是工作上的參考數字，但它是有案例紀錄的李斯特菌媒介，最安全的建議是拆封後就不要留剩下的。",
+    "pantry": "這類起司不能放在室溫，而理由很關鍵。它含水量高、酸度低，正是李斯特菌的理想環境；而且和大多數食媒性細菌不同，李斯特菌在低溫環境——包括冰箱裡——依然能生長。任何在 4～60°C 之間停留超過兩小時的都應該丟棄，氣溫超過 32°C 時只有一小時。要吃多少拿多少，其餘立刻放回冰箱。",
+    "fridge": "請密封冷藏於 4°C 以下，並和即食食品分開放，避免包裝滲漏造成交叉污染。約 1～2 週是工作上的參考期限，這是比照軟質起司的通用數字而來；沒有任何單位為 queso fresco 公布自己的數字。已公布的建議比數字更直接：拆封後不要保留剩餘的 queso fresco 類起司，正是為了把李斯特菌生長的風險降到最低。生乳是比較舊的風險來源，但近年的事件是由殺菌後才受污染的殺菌乳起司造成的——所以請選購標示使用殺菌乳製造的產品；孕婦、65 歲以上或免疫力較弱者，除非徹底加熱，否則請完全避開這類起司。",
+    "freezer": "冷凍只適用於之後要加熱烹調的情況，而且沒有公布的保存期限。凝乳解凍後會變得粗糙並出水，所以冷凍過的 queso fresco 適合捏碎拌進內餡或融進醬汁，絕不適合切片直接上桌。另外要注意：冷凍不會殺死李斯特菌，只是讓它停止繁殖，起司一解凍它就會重新生長。因此冷凍並不能拿來「搶救」你已經不確定的起司。",
+    "thawing": "只能放冷藏室解凍，絕不要放室溫，而且解凍後請加熱烹調而不是直接吃。解凍當天用完，不要再次冷凍。",
+    "spoilage": [
+      "聞起來酸、有酵母味或明顯發酵味，而不是乾淨的奶味",
+      "表面黏滑，或包裝內積出混濁的液體",
+      "出現泛黃、粉紅或灰色的斑塊，或任何黴點",
+      "包裝鼓脹或滲漏"
+    ],
+    "tips": [
+      "選購標示使用殺菌乳製造的產品。",
+      "買一次就能用完的最小包裝。",
+      "放在冰箱下層，遠離即食食品。",
+      "用餐者若有孕婦、長者或免疫力較弱者，請一律加熱到全熟。"
+    ],
+    "faq": [
+      {"q": "queso fresco 放冰箱可以放多久？", "a": "4°C 以下冷藏約 1～2 週是工作參考值，但已公布的安全建議是：拆封後不要保留剩餘的，因為有李斯特菌風險。"},
+      {"q": "queso fresco 可以冷凍嗎？", "a": "可以，但沒有公布的期限，而且解凍後會變粗、出水。請捏碎用於烹調，並記得冷凍只是暫停李斯特菌，不是殺死它。"},
+      {"q": "殺菌乳做的 queso fresco 就安全嗎？", "a": "殺菌可以排除生乳風險，但近年的事件是殺菌後才受污染的產品造成的。請選殺菌乳、全程冷藏，高風險族群只吃煮熟的。"},
+      {"q": "queso fresco 發霉可以切掉嗎？", "a": "不行。它是高含水的軟質起司，黴菌和細菌會蔓延到整塊，請整塊丟棄。"}
+    ]
+  }
+}

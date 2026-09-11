@@ -1,0 +1,57 @@
+{
+  "slug": "kale",
+  "en": {
+    "name": "Kale",
+    "aliases": ["curly kale", "cavolo nero", "lacinato kale", "borecole"],
+    "summary": "Kale is a sturdy, non-heading brassica with tough ribs and thick leaves, and it holds up better than most greens without holding up for long. Refrigerated at 4 °C (40 °F) or below it keeps 3–5 days from the day of purchase, and blanched and frozen it keeps good quality for 8–12 months.",
+    "pantry": "Kale should not be left at room temperature. The leaves are thick, so it does not collapse the way spinach does, but it wilts steadily, the flavour turns from sweet to harshly bitter, and the cut stems dry out. There is no room-temperature figure here and none should be assumed. Refrigerate it unwashed as soon as you get home.",
+    "fridge": "Store kale unwashed in a perforated bag in the crisper at 4 °C (40 °F) or below, where it keeps 3–5 days from purchase. Keep the leaves dry and loose — condensation in a sealed bag is what blackens the edges. If the bunch has thick stems, leave them attached until you cook and wrap the cut ends in kitchen paper. Kale grown through a frost is noticeably sweeter, because the plant converts starch to sugar as an antifreeze, and that sweetness fades in storage.",
+    "freezer": "Kale freezes well and is one of the better greens for it. Strip the leaves from the ribs, wash, blanch for 2 minutes, plunge into iced water, drain and squeeze out as much water as you can, then pack airtight at −18 °C (0 °F). It is safe indefinitely and keeps good quality for 8–12 months. Kale can also be frozen raw in a bag for smoothies, though it is bulky and browns sooner that way.",
+    "thawing": "Add frozen kale straight to soups, stews and pasta. If a recipe needs it thawed, thaw in the fridge and squeeze the water out hard first — frozen kale holds far more water than it looks.",
+    "spoilage": [
+      "Yellowing leaves, or leaves gone translucent and water-soaked",
+      "Slimy or blackened edges, especially where leaves were pressed together",
+      "Stems gone limp and bendy instead of snapping",
+      "A sour or strongly sulphurous smell in the bag"
+    ],
+    "tips": [
+      "Choose bunches with firm stems, deep colour and no yellowing at the base.",
+      "Strip the tough central rib out before cooking; it never softens at the same rate as the leaf.",
+      "Massage raw kale with a little oil and salt for a minute before using it in a salad.",
+      "Store unwashed and dry; wash only what you are about to cook."
+    ],
+    "faq": [
+      {"q": "How long does kale last in the fridge?", "a": "3–5 days from the day of purchase at 4 °C (40 °F) or below, unwashed and dry in a perforated bag in the crisper."},
+      {"q": "Can you freeze kale?", "a": "Yes. Strip the ribs, blanch for 2 minutes, chill, squeeze dry and pack airtight at −18 °C (0 °F) for 8–12 months of good quality."},
+      {"q": "Can you eat kale with yellow leaves?", "a": "Remove the yellow leaves and use the rest if it is firm and smells clean. Discard the bunch if the leaves are slimy or blackened."},
+      {"q": "Why is my kale so bitter?", "a": "Kale gets more bitter as it ages and after warm storage. Blanching, a good dose of salt, or a splash of acid all help; cold-grown kale is naturally sweeter."}
+    ]
+  },
+  "zh": {
+    "name": "羽衣甘藍",
+    "aliases": ["捲葉羽衣甘藍", "黑葉甘藍", "kale", "皺葉甘藍"],
+    "summary": "羽衣甘藍是不結球的十字花科蔬菜，葉厚梗硬，比多數葉菜耐放，但也沒有耐放到哪裡去。4°C 以下冷藏，從購買當天算起可放 3～5 天；汆燙後冷凍則可維持 8～12 個月的良好品質。",
+    "pantry": "羽衣甘藍不應該放室溫。葉片厚，所以不會像菠菜那樣一下就垮，但它會持續萎凋，味道也會從清甜轉為明顯的苦澀，莖的切口則會乾掉。這裡不提供常溫保存天數，也請不要自行推估。買回家請不清洗直接冷藏。",
+    "fridge": "不清洗，裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 3～5 天。請保持葉片乾燥、不要壓實——密封袋裡凝結的水正是讓葉緣發黑的原因。如果整把帶著粗梗，請留到烹調前再處理，並用廚房紙巾包住切口。經過霜期的羽衣甘藍明顯比較甜，因為植株會把澱粉轉成糖當作抗凍劑；而這份甜味會在貯藏中慢慢消失。",
+    "freezer": "羽衣甘藍很適合冷凍，在葉菜裡算表現優秀的。把葉片從粗梗上撕下來，洗淨後汆燙 2 分鐘，泡冰水冷卻，瀝乾並盡量把水擠掉，再密封放 −18°C。安全上可無限期保存，品質可維持 8～12 個月。也可以生的整袋冷凍拿來打果昔，只是體積大、也比較容易褐變。",
+    "thawing": "冷凍羽衣甘藍可以直接下湯、下燉菜或拌義大利麵。食譜若需要解凍，請放冷藏室退冰並先用力把水擠乾——它含的水比看起來多很多。",
+    "spoilage": [
+      "葉片泛黃，或變得半透明、像泡過水",
+      "葉緣黏滑或發黑，尤其是葉片互相壓著的地方",
+      "梗變軟可彎，折不斷",
+      "袋內有酸味或濃重的硫磺味"
+    ],
+    "tips": [
+      "挑梗結實、顏色深濃、基部沒有泛黃的。",
+      "烹調前把中間的粗梗撕掉，它和葉子的軟化速度完全不同。",
+      "做沙拉前用一點油和鹽把生葉抓揉一分鐘，口感會好很多。",
+      "不清洗、乾燥保存，只洗當餐要煮的量。"
+    ],
+    "faq": [
+      {"q": "羽衣甘藍放冰箱可以放多久？", "a": "4°C 以下冷藏，不清洗、保持乾燥裝在打洞袋放蔬果室，從購買當天算起 3～5 天。"},
+      {"q": "羽衣甘藍可以冷凍嗎？", "a": "可以。去粗梗、汆燙 2 分鐘、冰鎮擠乾後密封放 −18°C，品質可維持 8～12 個月。"},
+      {"q": "葉子發黃還能吃嗎？", "a": "把黃葉摘掉，其餘只要結實、氣味乾淨就能用。若葉片已經黏滑或發黑，整把丟掉。"},
+      {"q": "羽衣甘藍為什麼這麼苦？", "a": "它放愈久、或保存溫度偏高就會愈苦。汆燙、加足夠的鹽或淋一點酸味都有幫助；冷涼氣候種出來的天生比較甜。"}
+    ]
+  }
+}

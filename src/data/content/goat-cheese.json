@@ -1,0 +1,57 @@
+{
+  "slug": "goat-cheese",
+  "en": {
+    "name": "Goat cheese",
+    "aliases": ["chèvre", "fresh goat cheese", "goat log", "crottin"],
+    "summary": "Goat cheese covers everything from the soft fresh log to the small ash-coated crottin, and in its fresh form it is a high-moisture, lightly acidic cheese that does not keep long. Refrigerated at 4 °C (40 °F) or below it lasts 1–2 weeks from the day of purchase, and about 6 months frozen.",
+    "pantry": "Fresh goat cheese must stay refrigerated. Soft, moist, low-acid cheeses are the ones Listeria monocytogenes favours, and that organism is unusual in still growing slowly at fridge temperature — a warm kitchen is far worse. Take goat cheese out 20–30 minutes before serving so it is not fridge-cold on the plate, and put the rest away straight afterwards. The two-hour rule applies, one hour above 32 °C (90 °F).",
+    "fridge": "Keep goat cheese at 4 °C (40 °F) or below in the main body of the fridge, wrapped in waxed paper inside a lidded box rather than sealed in cling film, which makes the surface sweat and sour. It keeps 1–2 weeks from purchase. A fresh log dries and cracks at the cut end, so slice from one end and re-wrap the face. Aged and rind-ripened goat cheeses run to the longer end of that window, fresh spreadable ones to the shorter. Pregnant and immunocompromised people should avoid soft and semi-soft cheeses unless they are thoroughly cooked, pasteurised ones included.",
+    "freezer": "Goat cheese freezes for about 6 months from purchase at −18 °C (0 °F), and it is one of the cheeses that survives the process reasonably well because it is already crumbly. It thaws grainier and wetter than it went in, so use it in cooking — stirred through pasta, baked on toast, folded into a tart filling — rather than on a cheeseboard. Freeze in portions, wrapped airtight.",
+    "thawing": "Thaw goat cheese in the fridge overnight in its wrapping, and use it within a couple of days. Pour off any whey that separates. Never thaw it at room temperature, and do not refreeze it.",
+    "spoilage": [
+      "Pink, grey, blue-green or black mould — anything other than the intended white or ash-grey coat",
+      "A sharp ammonia smell rather than the usual clean, tangy, goaty one",
+      "A slimy or sticky surface, or liquid pooling in the container",
+      "A bitter or acrid taste, or a rind that has gone brown and wet"
+    ],
+    "tips": [
+      "Buy a log small enough to finish within a week or two.",
+      "Wrap in waxed paper and box it; cling film against the surface makes it sour.",
+      "Slice a log with dental floss or a wire rather than a knife to avoid squashing it.",
+      "Crumble the last of it into a freezer bag for cooking instead of letting it dry out."
+    ],
+    "faq": [
+      {"q": "How long does goat cheese last in the fridge?", "a": "1–2 weeks from the day of purchase at 4 °C (40 °F) or below, wrapped in paper in a lidded box rather than in cling film."},
+      {"q": "Can you freeze goat cheese?", "a": "Yes, for about 6 months at −18 °C (0 °F). It thaws grainier and wetter, so use it for cooking rather than serving it as it is."},
+      {"q": "Can you cut mould off goat cheese?", "a": "No. It is a soft cheese, and mould and bacteria spread through the whole paste rather than staying on the surface. Unexpected coloured mould means the whole piece goes."},
+      {"q": "Is the grey coating on some goat cheese mould?", "a": "On an ash-coated crottin the grey is edible vegetable ash, applied deliberately, often with a white bloom over it. Grey fuzz appearing in patches on a plain log is a different matter and means the cheese should be discarded."}
+    ]
+  },
+  "zh": {
+    "name": "山羊起司",
+    "aliases": ["羊奶起司", "chèvre", "新鮮羊乳酪", "灰皮山羊起司"],
+    "summary": "山羊起司從柔軟的新鮮條狀到裹灰的小圓餅都有，新鮮型態屬於高含水、微酸的起司，不耐久放。4°C 以下冷藏，從購買當天算起可放 1～2 週，冷凍約 6 個月。",
+    "pantry": "新鮮山羊起司必須全程冷藏。軟質、濕潤、低酸的起司正是李斯特菌偏好的環境，而這種菌特別的地方在於，即使在冷藏溫度下仍能緩慢生長——放在溫暖的廚房只會更糟。上桌前 20～30 分鐘再拿出來回溫，吃完立刻收回冰箱。兩小時原則同樣適用，氣溫超過 32°C 時只有一小時。",
+    "fridge": "冷藏維持 4°C 以下，放在冰箱主室，用蠟紙包好再放進有蓋盒子，不要用保鮮膜密封，那會讓表面出水發酸。從購買日起可放 1～2 週。新鮮條狀的切口容易乾裂，所以請從同一端切，切完把切面重新包好。熟成款和帶皮熟成款可以放到區間的長端，新鮮可塗抹型則偏短端。孕婦與免疫力較弱者，除非徹底加熱，否則應避開軟質與半軟質起司，包含使用殺菌乳製作的產品。",
+    "freezer": "山羊起司在 −18°C 冷凍，從購買日起約可放 6 個月；因為它本來就偏碎，是少數冷凍後表現還算過得去的起司。解凍後質地會更粗、更容易出水，所以請用在烹調上——拌義大利麵、烤在麵包上、拌進鹹派內餡——而不是切片上拼盤。請分成小份密封冷凍。",
+    "thawing": "解凍請連著包裝放冷藏室退冰一晚，兩天內用完，並把分離出來的乳清倒掉。不要在室溫解凍，也不要再次冷凍。",
+    "spoilage": [
+      "出現粉紅、灰、藍綠或黑色的黴——也就是白色或灰燼色外衣以外的任何顏色",
+      "有刺鼻的阿摩尼亞味，而不是原本乾淨的酸香羊味",
+      "表面黏滑，或容器裡積出一灘水",
+      "吃起來苦澀嗆口，或外皮轉褐、變得濕黏"
+    ],
+    "tips": [
+      "買一兩週內吃得完的份量。",
+      "用蠟紙包好放盒子；保鮮膜直接貼著表面會讓它發酸。",
+      "切條狀山羊起司用牙線或細線比用刀好，不會把它壓爛。",
+      "最後剩下的一點捏碎裝進冷凍袋留著入菜，不要放到乾硬。"
+    ],
+    "faq": [
+      {"q": "山羊起司放冰箱可以放多久？", "a": "4°C 以下冷藏，從購買當天算起 1～2 週。用紙包好放進有蓋盒子，不要用保鮮膜密封。"},
+      {"q": "山羊起司可以冷凍嗎？", "a": "可以，放 −18°C 約 6 個月。解凍後質地變粗、會出水，建議用於烹調而非直接食用。"},
+      {"q": "山羊起司發霉可以切掉嗎？", "a": "不行。它是軟質起司，黴菌和細菌會滲入整塊而不只停在表面，一旦出現不該有的雜色黴，整塊都要丟。"},
+      {"q": "山羊起司外層的灰色是發霉嗎？", "a": "裹灰的小圓餅上，那層灰是刻意撒上的可食用植物灰，常常還會再長一層白黴。但如果原本沒有灰衣的起司上出現一塊塊灰色絨毛，那就是發霉，應該丟棄。"}
+    ]
+  }
+}

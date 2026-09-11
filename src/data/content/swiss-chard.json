@@ -1,0 +1,57 @@
+{
+  "slug": "swiss-chard",
+  "en": {
+    "name": "Swiss chard",
+    "aliases": ["chard", "silverbeet", "rainbow chard", "leaf beet"],
+    "summary": "Swiss chard is a beet grown for its leaves and thick ribs rather than its root, sold with white, yellow or scarlet stems. Refrigerated at 4 °C (40 °F) or below it keeps 1–2 weeks from the day of purchase — longer than most tender greens, thanks to those substantial ribs.",
+    "pantry": "Swiss chard should not be kept at room temperature. The leaves are large and thin and lose water through their whole surface, so a bunch left out in a warm kitchen wilts within a few hours and the cut stem ends brown. There is no room-temperature figure here and none should be assumed. Refrigerate it as soon as you get home.",
+    "fridge": "Keep chard in a plastic bag to retain moisture, in the crisper at 4 °C (40 °F) or below, where it keeps 1–2 weeks from purchase. That is deliberately different advice from the perforated bag most greens want: chard's failure mode is drying out and going papery at the leaf edges rather than sweating, and the thick ribs give it enough structure to cope with a closed bag. Do not wash it before storing, and leave the ribs attached — trimming them just creates more cut surface to lose water from.",
+    "freezer": "No freezer timeline is given for Swiss chard in our data, so we do not quote one. The usual method is to separate the leaves from the ribs and treat them as two vegetables: blanch the leaves for about 2 minutes and the chopped ribs for 3, chill both in iced water, squeeze the leaves dry and pack everything airtight at −18 °C (0 °F), where food stays safe indefinitely. Without a published quality window we will not invent one.",
+    "thawing": "Add frozen chard straight to soups, stews and pasta. If a recipe needs it thawed, thaw in the fridge and squeeze the leaves out hard first — frozen chard leaves hold a great deal of water.",
+    "spoilage": [
+      "Leaves gone slimy, translucent or blackened at the edges",
+      "Yellowing leaves, or brown spots spreading across them",
+      "Ribs gone limp and hollow instead of snapping",
+      "A sour or muddy smell in the bag"
+    ],
+    "tips": [
+      "Choose bunches with glossy, unblemished leaves and firm, crisp ribs.",
+      "Separate the ribs from the leaves and start the ribs in the pan a few minutes earlier.",
+      "Do not throw the ribs away; sliced and braised they are the best part of the plant.",
+      "Store in a closed bag, which is the exception rather than the rule for greens."
+    ],
+    "faq": [
+      {"q": "How long does Swiss chard last in the fridge?", "a": "1–2 weeks from the day of purchase at 4 °C (40 °F) or below, kept in a plastic bag to retain moisture."},
+      {"q": "Can you freeze Swiss chard?", "a": "No timeline is published in our data, so we do not give one. Blanching leaves and ribs separately and packing them airtight at −18 °C (0 °F) is the standard method."},
+      {"q": "Can you eat the stems of Swiss chard?", "a": "Yes, and they are excellent. Slice them, start them in the pan a few minutes before the leaves, and they cook to something close to a mild celery."},
+      {"q": "Is Swiss chard the same as spinach?", "a": "No. Chard is a beet relative with thick ribs and a firmer leaf; spinach is a different plant entirely and keeps for a fraction as long."}
+    ]
+  },
+  "zh": {
+    "name": "瑞士甜菜",
+    "aliases": ["牛皮菜", "莙薘菜", "彩虹甜菜", "葉用甜菜"],
+    "summary": "瑞士甜菜是專門採收葉片和粗葉柄、而不是採收根部的甜菜品種，葉柄有白色、黃色或鮮紅色。4°C 以下冷藏，從購買當天算起可放 1～2 週——靠著那些厚實的葉柄，它比大多數嫩葉菜耐放。",
+    "pantry": "瑞士甜菜不應該放室溫。葉片又大又薄，整面都在散失水分，放在溫暖的廚房裡幾小時就萎，莖的切口也會發褐。這裡不提供常溫保存天數，也請不要自行推估。買回家請立刻冷藏。",
+    "fridge": "請裝進塑膠袋以保住水分，放在 4°C 以下的蔬果保鮮室，從購買日起可放 1～2 週。這和多數葉菜「用打洞袋」的建議刻意不同：瑞士甜菜的劣化方式是乾掉、葉緣變得像紙，而不是悶出水；而厚實的葉柄也讓它撐得住封閉的袋子。保存前不要洗，葉柄也留著不要切——多切一刀就是多一個失水的斷面。",
+    "freezer": "我們的資料裡沒有瑞士甜菜的冷凍保存期限，所以不引用數字。一般做法是把葉片和葉柄當成兩種蔬菜分開處理：葉片汆燙約 2 分鐘、切好的葉柄 3 分鐘，兩者都泡冰水冷卻，葉片擠乾後全部密封放 −18°C，在該溫度下安全上可無限期保存。既然沒有公布的品質期限，我們就不編一個。",
+    "thawing": "冷凍瑞士甜菜可以直接下湯、下燉鍋或拌義大利麵。食譜若需要解凍，請放冷藏室退冰並先把葉片用力擠乾——冷凍甜菜葉含的水非常多。",
+    "spoilage": [
+      "葉片變黏、變得半透明，或葉緣發黑",
+      "葉子泛黃，或出現褐斑並擴散",
+      "葉柄變軟中空，折不斷",
+      "袋內有酸味或土味"
+    ],
+    "tips": [
+      "挑葉片有光澤無損傷、葉柄結實爽脆的。",
+      "把葉柄和葉片分開，葉柄提早幾分鐘下鍋。",
+      "葉柄千萬不要丟；切段燜煮後是整株最好吃的部分。",
+      "用封閉的袋子保存，這在葉菜裡算是例外而不是通則。"
+    ],
+    "faq": [
+      {"q": "瑞士甜菜放冰箱可以放多久？", "a": "4°C 以下冷藏、裝在塑膠袋裡保住水分，從購買當天算起 1～2 週。"},
+      {"q": "瑞士甜菜可以冷凍嗎？", "a": "我們的資料中沒有公布的期限，所以不提供數字。標準做法是葉片與葉柄分開汆燙，密封後放 −18°C。"},
+      {"q": "瑞士甜菜的梗可以吃嗎？", "a": "可以，而且非常好吃。切段後比葉片早幾分鐘下鍋，煮出來的口感接近溫和的西洋芹。"},
+      {"q": "瑞士甜菜和菠菜一樣嗎？", "a": "不一樣。瑞士甜菜是甜菜的近親，葉柄厚、葉片也更挺；菠菜是完全不同的植物，保存期只有它的一小部分。"}
+    ]
+  }
+}

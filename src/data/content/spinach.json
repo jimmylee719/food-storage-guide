@@ -1,0 +1,57 @@
+{
+  "slug": "spinach",
+  "en": {
+    "name": "Spinach",
+    "aliases": ["baby spinach", "flat-leaf spinach", "bunched spinach", "English spinach"],
+    "summary": "Spinach is a thin-leaved green with a very large surface area for its weight, which is why it wilts so fast. Refrigerated at 4 °C (40 °F) or below it keeps 3–7 days from the day of purchase — bunched spinach at the short end, dry pre-washed leaves at the long end.",
+    "pantry": "Spinach has no room-temperature storage life worth naming. The leaves lose water through their whole surface, and in a warm kitchen a bunch left out collapses in a few hours and is usually beyond saving by the next morning. Take it home and refrigerate it straight away; in hot weather a cool bag for the trip makes a visible difference.",
+    "fridge": "Store spinach unwashed at 4 °C (40 °F) or below in the crisper, in a perforated bag or a box lined with kitchen paper to catch condensation, where it keeps 3–7 days. Moisture is the enemy: wet leaves go slimy and translucent within a day or two, so change the paper if it dampens. Loose bunched spinach with roots attached goes first; pre-washed dry leaves in a sealed bag last longest but collapse quickly once the bag is opened.",
+    "freezer": "Our data gives no freezer timeline for spinach, so there is no figure to quote here. The usual method is to blanch the leaves for about a minute, chill them in iced water, squeeze out as much water as you can and freeze the balls airtight at −18 °C (0 °F), where frozen food stays safe indefinitely. Raw spinach can also be frozen loose for smoothies. What we will not do is invent a quality window that nobody has published.",
+    "thawing": "Add frozen spinach straight to soups, curries and pasta sauces. If a recipe needs it thawed, thaw it in the fridge and squeeze the water out hard before it goes in — frozen spinach carries a surprising amount and will water down anything it is added to.",
+    "spoilage": [
+      "Dark, translucent or water-soaked patches on the leaves",
+      "Slimy leaves that clump together and will not separate",
+      "A sour, muddy or faintly ammonia smell on opening the bag",
+      "Yellowing leaves, or liquid pooling in the bottom of the bag"
+    ],
+    "tips": [
+      "Buy spinach with dry, springy leaves and no condensation inside the bag.",
+      "Line the storage box with kitchen paper and replace it when it feels damp.",
+      "Wash only what you are about to cook; a whole washed bunch will not keep.",
+      "A huge pan of raw spinach cooks down to almost nothing — allow far more than looks sensible."
+    ],
+    "faq": [
+      {"q": "How long does spinach last in the fridge?", "a": "3–7 days from the day of purchase at 4 °C (40 °F) or below. Bunched spinach is at the short end, dry pre-washed leaves at the long end."},
+      {"q": "Can you freeze spinach?", "a": "No published freezer timeline exists in our data, so we do not give one. Blanching, squeezing dry and packing airtight at −18 °C (0 °F) is the standard method, and food held at that temperature stays safe indefinitely."},
+      {"q": "Is slimy spinach safe if you wash it?", "a": "No. Once leaves have gone slimy the cell walls have broken down and bacteria have multiplied through them. Washing does not undo that — throw the bag away."},
+      {"q": "Should spinach be washed before storing?", "a": "No. Store it dry and unwashed, and rinse just before cooking. Water on the leaves is what starts the sliminess."}
+    ]
+  },
+  "zh": {
+    "name": "菠菜",
+    "aliases": ["赤根菜", "菠薐菜", "嫩菠菜", "波菜"],
+    "summary": "菠菜葉片薄、表面積相對於重量非常大，所以萎凋得特別快。冷藏在 4°C 以下，從購買當天算起可放 3～7 天——帶根整把的偏短，乾燥的洗淨包裝葉可到長端。",
+    "pantry": "菠菜沒有值得一提的常溫保存期。葉子整片都在散失水分，放在溫暖的廚房裡幾小時就垮掉，隔天早上通常已經救不回來。買回家請立刻冷藏；天熱時用保冷袋帶回家，差別看得出來。",
+    "fridge": "不清洗，裝進打洞袋或鋪了廚房紙巾的保鮮盒，放在 4°C 以下的蔬果保鮮室，可放 3～7 天。濕氣是大敵：葉子一濕，一兩天就會變得黏滑半透明，紙巾濕了就要換。帶根散裝的菠菜最先壞；乾燥的洗淨袋裝葉能放最久，但袋子一開就垮得很快。",
+    "freezer": "我們的資料裡沒有菠菜的冷凍保存期限，所以這裡不給數字。一般做法是把葉子汆燙約一分鐘、冰鎮、盡量擠乾水分後搓成球狀密封放 −18°C；食品在該溫度下安全上可以無限期保存。生菠菜也可以直接散裝冷凍打成果昔。但我們不會憑空編一個沒人公布過的品質期限。",
+    "thawing": "冷凍菠菜可以直接下湯、下咖哩或拌義大利麵醬。食譜若需要解凍，請放冷藏室退冰，並在下鍋前用力把水擠乾——冷凍菠菜含水量比想像中多，不擠乾會把整道菜稀釋掉。",
+    "spoilage": [
+      "葉片出現深色、半透明或像泡過水的水漬斑",
+      "葉子黏滑、糊成一團分不開",
+      "打開袋子有酸味、土味或淡淡的阿摩尼亞味",
+      "葉子泛黃，或袋底積了一灘水"
+    ],
+    "tips": [
+      "挑葉片乾爽有彈性、袋內沒有水氣凝結的。",
+      "保鮮盒底部鋪廚房紙巾，摸到潮濕就換。",
+      "只洗當餐要煮的量；整把洗過的菠菜放不住。",
+      "一大鍋生菠菜炒完只剩一點點，份量要抓得比看起來合理的再多很多。"
+    ],
+    "faq": [
+      {"q": "菠菜放冰箱可以放多久？", "a": "4°C 以下冷藏，從購買當天算起 3～7 天。帶根整把的偏短，乾燥的洗淨袋裝葉可到長端。"},
+      {"q": "菠菜可以冷凍嗎？", "a": "我們的資料中沒有公布的冷凍期限，所以不給數字。標準做法是汆燙、擠乾、密封後放 −18°C，在該溫度下安全上可無限期保存。"},
+      {"q": "菠菜變黏了洗一洗還能吃嗎？", "a": "不行。葉子變黏代表細胞壁已經崩解、細菌也已大量繁殖，沖洗改變不了這件事，整袋丟掉。"},
+      {"q": "菠菜要先洗再冰嗎？", "a": "不要。請乾燥、不清洗地保存，料理前再沖洗。葉片上的水分正是變黏的起點。"}
+    ]
+  }
+}

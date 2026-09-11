@@ -1,0 +1,57 @@
+{
+  "slug": "liver",
+  "en": {
+    "name": "Liver",
+    "aliases": ["pork liver", "beef liver", "chicken liver", "offal", "variety meat"],
+    "summary": "Liver is offal, and it is among the most perishable things a butcher sells because it is rich in blood, moisture and enzymes. Refrigerated at 4 °C (40 °F) or below it keeps only 1–2 days from the day of purchase, and 3–4 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Liver must never be left at room temperature. It comes into contact with a great deal of blood during slaughter and dressing, it has a huge surface area of soft tissue, and bacteria multiply through it quickly in the danger zone of 4–60 °C (40–140 °F). Two hours out of the cold is the limit, and one hour if it is above 32 °C (90 °F). Buy it last, carry it cold and refrigerate it as soon as you get in.",
+    "fridge": "Keep liver at 4 °C (40 °F) or below on the bottom shelf, in a covered container so nothing can drip onto other food. It is good for 1–2 days from the day of purchase. Sitting in blood softens it, so drain the container or change the paper underneath. Soaking liver in milk for half an hour before cooking mellows the flavour, but it does not add a day to its life — do that soak in the fridge and cook it straight afterwards.",
+    "freezer": "Liver freezes for 3–4 months at −18 °C (0 °F), shorter than most muscle meat because of its high enzyme and fat content. Slice it before freezing, pat the slices dry, separate them with greaseproof paper and pack them flat in a sealed bag with the air pressed out. At −18 °C it is safe indefinitely; 3–4 months is the quality window.",
+    "thawing": "Thaw liver overnight in the fridge, or in a sealed bag under cold running water if you need it sooner. Never on the counter. Cook it within a day of fridge-thawing and do not refreeze it raw. Cook liver through — offal is not a food to serve rare in the way a steak can be.",
+    "spoilage": [
+      "A sour, sharp or ammonia smell rather than a clean metallic one",
+      "A grey, greenish or dull brown surface instead of deep glossy red-brown",
+      "A slimy or tacky film that does not rinse off",
+      "Dry, hardened edges, or liquid in the pack that has gone thick and cloudy"
+    ],
+    "tips": [
+      "Buy liver from a busy counter and cook it the same day if you can.",
+      "Slice before freezing so you can take out one portion at a time.",
+      "Pull off the thin outer membrane before cooking; it shrinks and curls in the pan.",
+      "Cook liver hot and fast to just done — overcooked liver goes grainy and bitter."
+    ],
+    "faq": [
+      {"q": "How long does liver last in the fridge?", "a": "Only 1–2 days from the day of purchase at 4 °C (40 °F) or below. It is one of the shortest-lived things in the fridge, so freeze it if you cannot cook it quickly."},
+      {"q": "Can you freeze liver?", "a": "Yes. Slice it, wrap it airtight and freeze at −18 °C (0 °F); it is safe indefinitely and keeps good quality for 3–4 months."},
+      {"q": "How can you tell if liver has gone bad?", "a": "A sour or ammonia smell, a grey or greenish surface, or a sticky film that will not wash off. Any of these and it should be thrown away."},
+      {"q": "Does soaking liver in milk make it keep longer?", "a": "No. Soaking softens the flavour, nothing more. Do it in the fridge and cook the liver immediately afterwards."}
+    ]
+  },
+  "zh": {
+    "name": "肝臟",
+    "aliases": ["豬肝", "牛肝", "雞肝", "內臟", "肝"],
+    "summary": "肝臟屬於內臟類，含血、含水、酵素活性又高，是肉攤上最不耐放的東西之一。4°C 以下冷藏，從購買當天算起只能放 1～2 天；−18°C 冷凍則可保存 3～4 個月。",
+    "pantry": "肝臟絕對不能放室溫。屠宰分切過程中它大量接觸血液，本身又是柔軟且表面積極大的組織，在 4～60°C 的危險溫度帶裡細菌會迅速繁殖到整塊。離開低溫最多 2 小時，氣溫超過 32°C 時只有 1 小時。採買時最後才拿，全程保冷，進門就冷藏。",
+    "fridge": "冷藏維持 4°C 以下，放在冰箱最下層，裝在有蓋容器裡，避免血水滴到其他食物。從購買當天算起可放 1～2 天。泡在血水裡會讓質地變爛，所以記得倒掉積水或更換底下的紙巾。料理前用牛奶浸泡半小時可以減輕腥味，但不會因此多放一天——請在冷藏狀態下泡，泡完立刻下鍋。",
+    "freezer": "肝臟在 −18°C 冷凍可放 3～4 個月，比一般肌肉部位短，因為它的酵素活性和脂肪含量都高。冷凍前先切片，把片狀擦乾，中間夾烘焙紙分隔，壓平裝進密封袋並擠出空氣。在 −18°C 下安全上可無限期保存，3～4 個月是品質期限。",
+    "thawing": "解凍請放冷藏室退冰一晚，趕時間就裝密封袋泡冷水。不要放室溫。冷藏解凍後一天內煮完，生的不要再冷凍。肝臟務必煮熟——內臟不像牛排可以吃三分熟。",
+    "spoilage": [
+      "有酸味、刺鼻味或阿摩尼亞味，而不是原本乾淨的鐵鏽味",
+      "表面轉灰、泛綠或變成暗沉的褐色，失去深紅褐的光澤",
+      "表面有黏滑或發黏的膜，沖水也沖不掉",
+      "邊緣乾硬變色，或包裝裡的血水變得濃稠混濁"
+    ],
+    "tips": [
+      "在生意好、貨流動快的攤商買，盡量當天就煮。",
+      "冷凍前先切片，之後要用一份拿一份。",
+      "下鍋前把外層的薄膜撕掉，否則加熱時會縮起來捲成一團。",
+      "大火快炒到剛好熟就起鍋；煮過頭的肝會變得粉粉的又發苦。"
+    ],
+    "faq": [
+      {"q": "豬肝放冰箱可以放多久？", "a": "4°C 以下冷藏，從購買當天算起只有 1～2 天，是冰箱裡最不耐放的食材之一。來不及煮就直接冷凍。"},
+      {"q": "肝臟可以冷凍嗎？", "a": "可以。切片、密封包好放 −18°C 冷凍，安全上可無限期保存，品質可維持 3～4 個月。"},
+      {"q": "怎麼判斷肝臟壞掉了？", "a": "有酸味或阿摩尼亞味、表面轉灰泛綠、有沖不掉的黏膜，出現任何一項都應該丟棄。"},
+      {"q": "用牛奶泡豬肝可以讓它放比較久嗎？", "a": "不行。泡牛奶只能減輕腥味，沒有延長保存的效果。請在冷藏狀態下浸泡，泡完立刻烹調。"}
+    ]
+  }
+}

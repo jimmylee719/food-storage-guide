@@ -1,0 +1,57 @@
+{
+  "slug": "doubanjiang",
+  "en": {
+    "name": "Doubanjiang",
+    "aliases": ["chilli bean paste", "broad bean paste", "toban djan", "Pixian bean paste", "spicy bean sauce"],
+    "summary": "Doubanjiang is broad beans and chilli fermented under heavy salt, the backbone of Sichuan cooking. A sealed jar keeps 18–24 months in the cupboard to its printed date; once opened it goes in the fridge, where about 3–6 months is a sensible working limit.",
+    "pantry": "A sealed jar belongs in a cool dark cupboard away from the stove and keeps 18–24 months to the printed date. What protects doubanjiang is salt, acidity and fermentation, not refrigeration: acidification, salt and low water activity are recognised as preservation barriers that do the same job the cold does, and the condiments that carry a 'refrigerate after opening' line generally do so to slow quality loss rather than to prevent illness. A jar left out on a hot kitchen counter will darken and lose its aroma long before it becomes dangerous — but it will lose that aroma, which is reason enough to put it away.",
+    "fridge": "Refrigerate once opened, at 4 °C (40 °F) or below, and treat about 3–6 months as a working limit. That figure is borrowed from black bean sauce, the closest salted fermented Chinese bean paste with a published number; no agency publishes one for doubanjiang itself. Always use a clean dry spoon — a wet spoon introduces water and mould, and that is how most jars of 豆瓣醬 are actually lost. Level the surface and press the paste down so no air pocket sits on top, and top it with a thin film of oil if the jar is going to sit for a while.",
+    "freezer": "No freezer timeline exists for doubanjiang and there is no reason to freeze it. Salt keeps it from ever freezing solid, and a refrigerated jar already lasts months. Freezing would not hurt it, but you would be storing a preserved food inside a preservation system it does not need. If you find yourself with far too much, cook it into a chilli oil or a batch of mapo sauce and freeze that instead.",
+    "thawing": null,
+    "spoilage": [
+      "Fuzzy mould of any colour on the surface of the paste",
+      "An alcoholic, yeasty or solvent smell rather than the usual deep salty funk",
+      "Bubbling or a lid that has domed upward",
+      "A slimy or ropy texture where the paste should be thick and grainy"
+    ],
+    "tips": [
+      "Only ever a clean dry spoon — water is what ruins a jar.",
+      "Level the paste and cover it with a film of oil if you use it rarely.",
+      "Write the opening date on the lid.",
+      "Fry doubanjiang in oil before adding liquid; the colour and aroma only come out with heat."
+    ],
+    "faq": [
+      {"q": "Does doubanjiang need to be refrigerated?", "a": "Unopened, no — a cool dark cupboard is fine to the printed date. After opening, refrigerate it; the fridge is mainly protecting flavour rather than preventing illness."},
+      {"q": "How long does doubanjiang last after opening?", "a": "No agency publishes a figure for it. About 3–6 months refrigerated is a sensible working limit, borrowed from black bean sauce."},
+      {"q": "Why has my doubanjiang gone darker?", "a": "Oxidation. Salted fermented pastes darken steadily with air and time, and that is not spoilage. Mould, bubbling or an alcoholic smell are the signs that matter."},
+      {"q": "Can you freeze doubanjiang?", "a": "There is no timeline for it and no need. The salt stops it freezing solid, and a refrigerated jar already keeps for months."}
+    ]
+  },
+  "zh": {
+    "name": "豆瓣醬",
+    "aliases": ["辣豆瓣醬", "郫縣豆瓣", "蠶豆辣醬", "豆板醤", "四川豆瓣"],
+    "summary": "豆瓣醬是蠶豆加辣椒在重鹽下發酵而成，是川菜的骨幹。未開封的罐子放櫥櫃可放 18～24 個月至標示日期；開封後改冷藏，約 3～6 個月是合理的參考上限。",
+    "pantry": "未開封的罐子請放在陰涼避光的櫥櫃、遠離爐火，可放 18～24 個月至標示日期。保護豆瓣醬的是鹽、酸度和發酵，不是冷藏：酸化、鹽和低水活性都被認定為與低溫作用相同的保存屏障，而標示「開封後冷藏」的調味料，多半是為了減緩品質下降而不是為了防止食品中毒。放在悶熱檯面上的一罐，會先變暗、香氣先跑掉，遠在它變得危險之前——但香氣跑掉本身就足以構成收好它的理由。",
+    "fridge": "開封後請冷藏，維持 4°C 以下，並以約 3～6 個月為工作上限。這個數字是比照豆豉醬（black bean sauce）而來，那是資料中最接近的中式鹹味發酵豆醬，而且有公布數字；豆瓣醬本身則沒有任何單位公布。請務必使用乾淨的乾湯匙——沾水的湯匙會把水和黴菌帶進去，這才是大多數豆瓣醬真正壞掉的原因。用完把表面抹平壓實，不要在上面留空氣層；如果一陣子才用一次，可以在表面淋一層薄油封住。",
+    "freezer": "豆瓣醬沒有冷凍保存期限，也沒有冷凍的理由。鹽分讓它凍不成硬塊，而冷藏本來就能放好幾個月。冷凍不會傷害它，只是把一個本來就靠保存技術做出來的食品，再塞進一套它不需要的保存系統。真的多到用不完，不如炒成紅油或一鍋麻婆醬底再冷凍。",
+    "thawing": null,
+    "spoilage": [
+      "醬面長出任何顏色的毛狀黴",
+      "聞起來有酒味、酵母味或溶劑味，而不是原本深沉的鹹香發酵味",
+      "冒泡，或蓋子被頂得鼓起來",
+      "原本應該濃稠帶顆粒的醬體變得黏滑牽絲"
+    ],
+    "tips": [
+      "只用乾淨的乾湯匙；進水就是一罐醬報銷的原因。",
+      "很少用的話，抹平後在表面淋一層薄油封住。",
+      "在蓋子上寫下開封日期。",
+      "下鍋時先用油炒香再加液體，紅油和香氣要受熱才會出來。"
+    ],
+    "faq": [
+      {"q": "豆瓣醬一定要冷藏嗎？", "a": "未開封不用，放陰涼避光的櫥櫃到標示日期即可。開封後請冷藏，不過冷藏主要是在保護風味，而不是在防止食品中毒。"},
+      {"q": "豆瓣醬開封後可以放多久？", "a": "沒有單位為它公布數字。冷藏約 3～6 個月是合理的工作上限，這是比照豆豉醬而來。"},
+      {"q": "豆瓣醬顏色變深了還能用嗎？", "a": "可以，那是氧化。鹹味發酵醬會隨著接觸空氣和時間持續變深，不代表壞掉。真正要注意的是發霉、冒泡和酒味。"},
+      {"q": "豆瓣醬可以冷凍嗎？", "a": "沒有對應的期限，也沒有必要。鹽分讓它凍不硬，冷藏本來就能放好幾個月。"}
+    ]
+  }
+}

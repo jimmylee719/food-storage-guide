@@ -1,0 +1,57 @@
+{
+  "slug": "king-oyster-mushroom",
+  "en": {
+    "name": "King oyster mushroom",
+    "aliases": ["king trumpet", "eryngii", "French horn mushroom", "trumpet royale"],
+    "summary": "The king oyster is the thick-stemmed mushroom with a small cap, and it is the densest and best-keeping of the common cultivated mushrooms. No agency publishes a figure for it, so treat it like mushrooms generally — about seven to ten days refrigerated at 4 °C (40 °F) or below, stretched because the stem holds up far better than a gilled cap.",
+    "pantry": "King oysters should not be kept at room temperature. Even a dense mushroom respires, and warmth softens the stem and starts the surface film that ends its life. There is no room-temperature figure and none should be assumed. The general published figure for mushrooms as a class is only one to two days refrigerated, which is worth keeping in mind as the conservative floor for any mushroom.",
+    "fridge": "Store king oysters in a paper bag in the fridge at 4 °C (40 °F) or below, never sealed in plastic, which sweats them. About seven to ten days from purchase is a reasonable working limit — a figure borrowed from the general mushroom timeline rather than published for this species, and stretched because the thick dry stem is much more robust than a delicate cap. Do not wash them before storing; wipe them with a dry cloth and rinse only just before cooking, if at all. If they came shrink-wrapped on a tray, unwrap them and re-bag them in paper.",
+    "freezer": "There is no published freezer timeline for king oyster mushrooms, so we do not give one. They can be sliced and frozen raw, spread flat in a sealed bag at −18 °C (0 °F) and cooked straight from frozen, and anything held at −18 °C stays safe indefinitely. But the whole point of a king oyster is the meaty bite of the stem, and freezing softens exactly that. Cooking them first — seared, then frozen — preserves more of what you wanted.",
+    "thawing": "Cook king oysters from frozen without thawing, straight into a hot pan or a braise. Thawed raw slices weep water and go limp, and they will steam rather than brown.",
+    "spoilage": [
+      "A slimy or tacky film on the stem or cap",
+      "Soft, dark, wet patches on what should be firm white flesh",
+      "Wrinkled, shrivelled stems that have dried out and hollowed",
+      "A sour or ammonia smell instead of a clean, faintly sweet one"
+    ],
+    "tips": [
+      "Choose mushrooms with fat, firm, unblemished white stems and small tight caps.",
+      "Store in a paper bag; plastic is what makes mushrooms slimy.",
+      "Slice the stem into thick rounds and score them — they sear like scallops.",
+      "Do not soak them; they absorb water and then refuse to brown."
+    ],
+    "faq": [
+      {"q": "How long do king oyster mushrooms last in the fridge?", "a": "No figure is published. Around seven to ten days from purchase at 4 °C (40 °F) or below is a reasonable working limit, borrowed from mushrooms generally and stretched for the dense stem."},
+      {"q": "Can you freeze king oyster mushrooms?", "a": "No published timeline exists, so we do not quote one. They freeze raw, sliced and flat at −18 °C (0 °F), but freezing softens the meaty texture that is the reason to buy them; searing them first keeps more of it."},
+      {"q": "Should you wash king oyster mushrooms?", "a": "No. They soak up water and then steam instead of browning. Wipe them with a dry cloth and trim any dirt off the base."},
+      {"q": "Why has my king oyster gone wrinkly?", "a": "It has dried out, usually from being stored uncovered or for too long. If it is still firm and smells clean it is fine to cook, but the texture will be spongier."}
+    ]
+  },
+  "zh": {
+    "name": "杏鮑菇",
+    "aliases": ["刺芹側耳", "王菇", "干貝菇", "杏鮑菇柄"],
+    "summary": "杏鮑菇就是菇柄粗厚、菌傘小小的那種菇，在常見的人工栽培菇裡質地最紮實、也最耐放。沒有權威單位公布它的保存期限，可以比照菇類整體的標準來看——4°C 以下冷藏約七到十天，因為粗壯的菇柄比有菌褶的菌傘耐放得多，可以往上抓。",
+    "pantry": "杏鮑菇不應該放室溫。再紮實的菇也在呼吸，溫度一高菇柄就會變軟，接著出現終結它的那層表面黏膜。這裡不提供常溫保存天數，也請不要自行推估。針對「菇類」整體公布的數字是冷藏僅一到兩天，那個數字適合當成所有菇類的保守下限記在心裡。",
+    "fridge": "請裝進紙袋放在 4°C 以下冷藏，絕對不要密封在塑膠袋裡，那會把它悶出水。從購買日起約七到十天是合理的參考上限——這是比照菇類整體的數字而來，並非針對杏鮑菇公布，因為粗壯乾爽的菇柄比嬌嫩的菌傘強韌很多，所以往上調整。保存前不要洗；用乾布擦乾淨，真要沖洗也請在下鍋前才做。若買的是保鮮膜包托盤裝，回家拆開改裝紙袋。",
+    "freezer": "杏鮑菇沒有公布的冷凍保存期限，所以我們不給數字。它可以切片生凍，平鋪裝密封袋放 −18°C，使用時不解凍直接下鍋；食品在 −18°C 下安全上可無限期保存。但杏鮑菇的價值就在菇柄那種紮實有嚼勁的口感，而冷凍恰好會軟化的就是這一點。先煎香再冷凍，能保住比較多你原本想要的東西。",
+    "thawing": "杏鮑菇請不解凍直接下熱鍋或下滷鍋。解凍過的生菇片會出水變軟，下鍋只會一直冒水而煎不上色。",
+    "spoilage": [
+      "菇柄或菌傘表面出現黏滑的薄膜",
+      "原本潔白結實的地方出現濕軟發暗的斑塊",
+      "菇柄皺縮乾癟，中心變空",
+      "聞起來有酸味或阿摩尼亞味，而不是乾淨帶點甜的菇香"
+    ],
+    "tips": [
+      "挑菇柄粗胖結實、表面潔白沒有傷痕、菌傘小而緊的。",
+      "用紙袋保存；塑膠袋正是讓菇變黏的元兇。",
+      "菇柄切厚片再劃刀，煎起來口感很像干貝。",
+      "不要泡水，吸飽水之後就怎麼煎都不上色了。"
+    ],
+    "faq": [
+      {"q": "杏鮑菇放冰箱可以放多久？", "a": "沒有公布的數字。4°C 以下冷藏、從購買日起約七到十天是合理參考，這是比照菇類整體並針對紮實菇柄往上調整而來。"},
+      {"q": "杏鮑菇可以冷凍嗎？", "a": "沒有公布的冷凍期限，所以我們不引用數字。可以切片平鋪生凍於 −18°C，但冷凍會軟化它最值得買的紮實口感；先煎過再冷凍可以保留更多。"},
+      {"q": "杏鮑菇要洗嗎？", "a": "不要。它會吸水，之後下鍋只會出水而不上色。用乾布擦乾淨，底部有土的話削掉即可。"},
+      {"q": "杏鮑菇皺掉了還能吃嗎？", "a": "那是失水，通常是沒包好或放太久。只要還結實、氣味乾淨就可以煮，只是口感會偏海綿感。"}
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "choy-sum",
+  "en": {
+    "name": "Choy sum",
+    "aliases": ["choi sum", "flowering cabbage", "yau choy", "cai xin"],
+    "summary": "Choy sum is the slender flowering brassica with pale green stems, tender leaves and small yellow buds, blanched or stir-fried whole. No duration is published for it, so treat it like bok choy: about 3–5 days refrigerated at 4 °C (40 °F) or below.",
+    "pantry": "Choy sum does not keep at room temperature. It is a thin-stemmed, high-water green with buds that are still trying to flower, and a warm kitchen will wilt a bunch in a few hours and yellow the buds by the next morning. There is no room-temperature figure here and none should be assumed. Buy it on the day you plan to cook it wherever you can.",
+    "fridge": "The documented method is to mist the whole plant, bag it, and stand it root-end down in the fridge at 4 °C (40 °F) or below; standing it upright stops the stems bending and bruising under their own weight. About 3–5 days is the working limit, borrowed from bok choy, since the method is documented but the duration is not. Yellowing flowers are the first sign it is going. Do not wash it beyond that light misting, and do not pack the bag tight.",
+    "freezer": "There is no freezer timeline for choy sum and freezing it is not really worthwhile. The stems are its whole attraction — juicy and crisp — and freezing collapses them, leaving you with something you can only put in a soup. If you have too much, blanch it, squeeze it dry and freeze it for dumpling filling, where the texture does not matter; but do not expect to get a plate of stir-fried choy sum back out of the freezer.",
+    "thawing": "If you have blanched and frozen it, add it to soups or fillings straight from frozen and squeeze the water out first for a filling. Do not thaw it and try to stir-fry it.",
+    "spoilage": [
+      "Yellow flowers opening, then the buds browning",
+      "Slimy or blackened leaves, especially where the bunch was tied",
+      "Stems gone limp and hollow instead of snapping",
+      "A sour or strongly cabbage-like smell in the bag"
+    ],
+    "tips": [
+      "Choose bunches with tight green buds, few open flowers and firm pale stems.",
+      "Mist, bag and stand it upright root-end down.",
+      "Split the thick stem bases lengthways so they cook at the same rate as the leaves.",
+      "Blanch in salted water with a drop of oil to keep the colour bright."
+    ],
+    "faq": [
+      {"q": "How long does choy sum last in the fridge?", "a": "About 3–5 days at 4 °C (40 °F) or below, misted, bagged and stood upright. That figure is borrowed from bok choy; no duration is published for choy sum."},
+      {"q": "Can you eat choy sum once the flowers open?", "a": "Yes, open yellow flowers are edible and mild. They simply mean the bunch is past its peak and the stems may be starting to toughen."},
+      {"q": "Can you freeze choy sum?", "a": "No timeline is published and it is not really worth it. Blanched, squeezed dry and frozen it works as a dumpling filling, but the stir-fry texture does not survive."},
+      {"q": "Should you wash choy sum before storing it?", "a": "Only a light mist. Washing it properly and then bagging it wet is what makes the leaves go slimy; rinse it fully just before cooking."}
+    ]
+  },
+  "zh": {
+    "name": "菜心",
+    "aliases": ["油菜花", "小白菜心", "廣東菜心", "菜薹"],
+    "summary": "菜心是莖細色淺、葉片柔嫩、頂端帶小黃花苞的抽薹十字花科蔬菜，通常整株汆燙或快炒。它沒有公布的保存天數，可以比照青江菜來看：4°C 以下冷藏約 3～5 天。",
+    "pantry": "菜心無法在室溫保存。它莖細、含水量高，而且花苞還在努力開花，放在溫暖的廚房裡幾小時就軟垮，隔天早上花苞就泛黃了。這裡不提供常溫保存天數，也請不要自行推估。能當天煮再買最好。",
+    "fridge": "有依據的做法是：整株噴一點水，裝袋後根部朝下立放在 4°C 以下的冰箱裡；立著放能避免莖被自身重量壓彎、壓傷。約 3～5 天是工作上限，這是比照青江菜而來——方法有依據，天數則沒有。花苞開始泛黃就是它要壞的第一個徵兆。除了那點噴霧之外不要清洗，袋子也不要塞太緊。",
+    "freezer": "菜心沒有冷凍保存期限，而且冷凍其實不太值得。它的價值全在那根多汁爽脆的莖，冷凍會讓莖整個塌掉，剩下的東西只能丟進湯裡。真的太多的話，可以汆燙、擠乾後冷凍拿來包水餃，那種用途不在意口感；但別期待從冷凍庫裡拿得出一盤炒菜心。",
+    "thawing": "如果是汆燙後冷凍的，請不解凍直接下湯；要拿來做餡的話，先把水擠乾。不要解凍後拿去炒。",
+    "spoilage": [
+      "黃花綻開，接著花苞轉褐",
+      "葉片黏滑或發黑，尤其是綁束的位置",
+      "莖變軟、中空，折不斷",
+      "袋內有酸味或濃重的菜臭味"
+    ],
+    "tips": [
+      "挑花苞緊實翠綠、開花少、莖結實淡綠的。",
+      "噴水、裝袋、根部朝下立著放。",
+      "粗的莖基部縱向剖開，才能和葉子同時熟。",
+      "用加了鹽和一點油的滾水汆燙，顏色會更翠綠。"
+    ],
+    "faq": [
+      {"q": "菜心放冰箱可以放多久？", "a": "4°C 以下冷藏、噴水裝袋立放，約 3～5 天。這個數字是比照青江菜而來；菜心本身沒有公布的天數。"},
+      {"q": "菜心開花了還能吃嗎？", "a": "可以，綻開的黃花能吃、味道也溫和。只是這代表整把已經過了最佳狀態，莖可能開始變老。"},
+      {"q": "菜心可以冷凍嗎？", "a": "沒有公布的期限，而且其實不太值得。汆燙擠乾後冷凍可以拿來做水餃餡，但炒菜的口感救不回來。"},
+      {"q": "菜心要先洗再冰嗎？", "a": "只噴一點水就好。徹底洗過再濕著裝袋，正是葉子變黏的原因；請在要煮之前才完整沖洗。"}
+    ]
+  }
+}

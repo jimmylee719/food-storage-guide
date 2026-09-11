@@ -1,0 +1,57 @@
+{
+  "slug": "firm-tofu",
+  "en": {
+    "name": "Firm tofu",
+    "aliases": ["cotton tofu", "block tofu", "momen tofu", "water-packed tofu", "traditional tofu"],
+    "summary": "Firm tofu is the dense, water-packed block pressed in cloth, sold loose from a tub or in a sealed tray. Refrigerated at 10 °C or below it keeps about 2–3 days — loose market tofu at the shorter end, packaged at the longer — and it can be frozen, which deliberately changes its texture into the spongy 凍豆腐 many dishes call for.",
+    "pantry": "Fresh tofu is a high-moisture, low-acid, low-salt food, which makes it one of the most perishable things in a vegetarian kitchen. It should not be left at room temperature at all; guidance in Taiwan puts the outside limit at about four hours out of the fridge, and the ordinary two-hour rule (one hour above 32 °C / 90 °F) is the safer habit. Buy it last, carry it home cold, and refrigerate it immediately.",
+    "fridge": "Keep firm tofu submerged in clean cold water in a lidded box and change the water every day; the water keeps the block hydrated and stops the cut surfaces drying and souring. Industry guidance sets the chiller at 10 °C or below, but a domestic fridge at 4 °C (40 °F) or below is better still, and food-safety advice for fresh tofu specifically calls for 4 °C or below. Loose tofu from a market stall is best eaten the day you buy it and within two days at the outside; a sealed pack keeps to roughly three days, or to its printed date while unopened.",
+    "freezer": "Freezing works, but as a transformation rather than as preservation. Drain the block, press out water under a weight for 20–30 minutes, cut it into cubes and freeze in a sealed bag at −18 °C (0 °F); the ice crystals open the curd into a honeycomb that soaks up broth, which is exactly the point of 凍豆腐 in hotpot and braises. About five months is a reasonable working limit for quality — that figure is borrowed from the general timeline for tofu rather than published for cotton tofu itself, so treat it as guidance, not a documented limit.",
+    "thawing": "Thaw frozen tofu overnight in the fridge, or drop the cubes straight into a simmering soup or braise from frozen. Squeeze out the water that runs from thawed tofu before frying it, or it will spit in the pan.",
+    "spoilage": [
+      "A sour or sharply fermented smell when you lift the lid",
+      "Slimy or slippery surfaces, and water that has gone cloudy or ropy",
+      "Colour turned from clean white to yellow, grey or pink",
+      "Any mould, or a block that has started to fall apart at the edges"
+    ],
+    "tips": [
+      "Change the storage water daily — it is the single biggest thing you can do.",
+      "Buy loose market tofu on the day you plan to cook it.",
+      "Press it before frying; a drier block browns instead of steaming.",
+      "Freeze in cubes rather than as a whole block so it thaws and takes up flavour evenly."
+    ],
+    "faq": [
+      {"q": "How long does firm tofu last in the fridge?", "a": "Roughly 2–3 days, submerged in clean cold water that you change daily. Loose market tofu is best eaten the day you buy it; a sealed pack keeps to its printed date while unopened."},
+      {"q": "Can you freeze firm tofu?", "a": "Yes, and it is done on purpose to make 凍豆腐. Press, cube and freeze at −18 °C (0 °F). Around five months is a sensible quality limit, borrowed from the general tofu figure rather than published for this type."},
+      {"q": "Why does tofu come sitting in water?", "a": "The water keeps the block hydrated and keeps air off the cut surfaces. Discarding it and storing tofu dry makes it sour and crack much faster."},
+      {"q": "Does tofu need to be refrigerated?", "a": "Fresh tofu does, and at 4 °C (40 °F) or below. Shelf-stable aseptic packs are a different product and only need refrigerating once opened."}
+    ]
+  },
+  "zh": {
+    "name": "板豆腐",
+    "aliases": ["傳統豆腐", "老豆腐", "木綿豆腐", "硬豆腐", "豆腐（板）"],
+    "summary": "板豆腐是用布包壓製、質地扎實的含水豆腐，市場散裝或超市盒裝都有。冷藏在 10°C 以下大約可放 2～3 天，市場散裝的偏短、盒裝的偏長；它也可以冷凍，而且冷凍後會變成蜂窩狀的凍豆腐，那正是許多料理要的口感。",
+    "pantry": "新鮮豆腐含水量高、酸度低、鹽分也低，是素食廚房裡最容易壞的食材之一。它完全不適合放室溫；國內的建議是離開冷藏最多不要超過四小時，而一般的兩小時原則（氣溫超過 32°C 時只有一小時）是更安全的習慣。採買時最後才拿，全程保冷，回家立刻冷藏。",
+    "fridge": "請把板豆腐泡在乾淨冷水裡、裝進有蓋保鮮盒，每天換一次水；水能讓豆腐保持含水狀態，也避免切面乾掉發酸。業界的衛生管理標準是冷藏庫 10°C 以下，但家用冰箱維持在 4°C 以下更好，食品安全單位針對新鮮豆腐也明確建議 4°C 以下。市場散裝豆腐最好當天吃完，最多不要超過兩天；盒裝的大約三天，未開封則以包裝上印的日期為準。",
+    "freezer": "冷凍是可行的，但它比較像是「變化質地」而不是「延長保存」。把豆腐瀝乾，壓上重物去水 20～30 分鐘，切塊後裝密封袋放 −18°C；冰晶會把豆腐撐成蜂窩狀，非常吸湯汁，這就是火鍋和滷味裡凍豆腐的由來。品質上大約以五個月為合理的參考上限——這個數字是比照一般豆腐的時程來看，並不是針對板豆腐公布的數據，請當作參考而非定論。",
+    "thawing": "解凍請放冷藏室退冰一晚，或直接把冷凍豆腐塊丟進滾湯、滷汁裡煮。解凍後如果要煎炸，先把水分擠乾，否則下鍋會噴油。",
+    "spoilage": [
+      "打開盒蓋就聞到酸味或明顯的發酵味",
+      "表面黏滑，泡的水變混濁或牽絲",
+      "顏色從潔白轉為發黃、發灰或泛粉紅",
+      "長出黴點，或邊角開始散開崩解"
+    ],
+    "tips": [
+      "每天換水，這是最有效的一件事。",
+      "市場散裝豆腐當天煮再買。",
+      "煎之前先壓乾水分，豆腐才會上色而不是在鍋裡出水。",
+      "冷凍請切塊而不是整塊凍，解凍均勻也比較入味。"
+    ],
+    "faq": [
+      {"q": "板豆腐放冰箱可以放多久？", "a": "泡在乾淨冷水裡、每天換水，大約 2～3 天。市場散裝的最好當天吃完；盒裝未開封則看包裝上的日期。"},
+      {"q": "板豆腐可以冷凍嗎？", "a": "可以，而且是刻意為之——這就是凍豆腐。壓乾、切塊後放 −18°C 冷凍。品質上大約五個月是合理參考，不過這是比照一般豆腐的時程，並非針對板豆腐公布的數字。"},
+      {"q": "豆腐為什麼要泡在水裡？", "a": "水能維持豆腐的含水度，也隔絕空氣、保護切面。把水倒掉乾放，豆腐會更快發酸、表面龜裂。"},
+      {"q": "豆腐一定要冷藏嗎？", "a": "新鮮豆腐一定要，而且建議 4°C 以下。常溫無菌包裝的盒豆腐是另一種產品，開封後才需要冷藏。"}
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "jalapeno-pepper-fresh",
+  "en": {
+    "name": "Jalapeño, fresh",
+    "aliases": ["chile jalapeño", "cuaresmeño", "jalapeno pepper", "green jalapeño"],
+    "summary": "The jalapeño is the thick-walled, moderately hot green chilli of Mexican cooking; smoke-dried and ripened it becomes the chipotle. Refrigerated it keeps 2–3 weeks, ideally at 7–10 °C (45–50 °F) at high humidity, and it freezes whole and unblanched for up to 12 months.",
+    "pantry": "Jalapeños are not a counter vegetable, though a few days out will not make them unsafe. Their walls are thicker than a habanero's, so they hold their shape longer, but warmth still costs them firmness and lets any bruise turn into rot. There is no room-temperature figure here and none should be assumed. If you want to keep them without refrigeration, the traditional answer is to ripen them red, smoke them and dry them — which is exactly what a chipotle is.",
+    "fridge": "Two to three weeks is the published figure, at 7–10 °C (45–50 °F) and 90–95 % humidity. Colder than about 7 °C brings chilling injury: softening, pitting and decay. Most domestic fridges run colder than that, so use the least cold drawer, keep the pods dry, and check them every few days. Keep them whole — a cut or bruised jalapeño rots from the wound outward, and no amount of careful wrapping stops it.",
+    "freezer": "Jalapeños freeze extremely easily and do not need blanching. Wash them, remove the stems, pack them into a bag leaving no headspace, seal and freeze at −18 °C (0 °F), where up to 12 months is the working limit for properly packed chile. They thaw limp, so freeze them for cooking rather than for slicing raw onto a plate. Frozen jalapeños dice more neatly than fresh ones, which is a small bonus.",
+    "thawing": "Do not thaw jalapeños. Chop or slice them straight from the freezer and add them to the pan. A thawed pod is soft and wet and will not give you a clean cut or a firm bite.",
+    "spoilage": [
+      "Soft or sunken patches, usually starting at the stem end",
+      "Pitting and water-soaked areas, which is chilling injury turning into decay",
+      "Mould, white or grey, at the stem or in a crease",
+      "A slimy skin or a sour, fermented smell"
+    ],
+    "tips": [
+      "Choose firm, glossy pods with tight skin and a fresh green stem.",
+      "Store dry and whole in the least cold drawer of the fridge.",
+      "Corking — the fine white lines on the skin — is a sign of a mature, often hotter pod, not a fault.",
+      "Freeze whole with the stems off; there is no need to seed them first."
+    ],
+    "faq": [
+      {"q": "How long do fresh jalapeños last in the fridge?", "a": "2–3 weeks, ideally at 7–10 °C (45–50 °F) and high humidity. Below about 7 °C you get chilling injury, so use the warmest drawer of the fridge."},
+      {"q": "Can you freeze jalapeños?", "a": "Yes. Wash, stem, pack with no headspace and freeze at −18 °C (0 °F) for up to 12 months. No blanching needed. They thaw limp, so use them cooked."},
+      {"q": "What are the white lines on my jalapeño?", "a": "Corking — stretch marks in the skin from the pod growing. It is a sign of a mature pepper and often a hotter one, and is not a defect."},
+      {"q": "Is a chipotle the same as a jalapeño?", "a": "Yes, at a later stage. A chipotle is a jalapeño left to ripen red, then smoke-dried. It is a different product with its own, much longer, storage life."}
+    ]
+  },
+  "zh": {
+    "name": "墨西哥辣椒",
+    "aliases": ["哈拉皮紐", "jalapeño", "墨西哥青辣椒", "煙燻辣椒（乾製後）"],
+    "summary": "墨西哥辣椒是果壁厚、辣度中等的綠色辣椒，是墨西哥料理的常客；轉紅熟成後再煙燻乾燥，就成了 chipotle。冷藏可放 2～3 週，理想條件是 7～10°C 加高濕度；整顆不汆燙冷凍則最多可放 12 個月。",
+    "pantry": "墨西哥辣椒不是放檯面的蔬菜，不過放個幾天也不會不安全。它的果壁比哈瓦那厚，形狀撐得比較久，但溫度高還是會讓它變軟，也會讓任何碰傷變成腐爛點。這裡不提供常溫保存天數，也請不要自行推估。若想在不冷藏的情況下保存，傳統答案是讓它轉紅熟成、再煙燻乾燥——那就是 chipotle。",
+    "fridge": "公布的數字是 2～3 週，條件為 7～10°C、相對濕度 90～95%。低於約 7°C 會出現低溫傷害：軟化、凹點與加速腐敗。多數家用冰箱都比這個冷，所以請放在溫度最高的那一格，保持乾燥，每隔幾天檢查一次。請保持整顆完整——切過或碰傷的墨西哥辣椒會從傷口往外爛，包得再仔細也擋不住。",
+    "freezer": "墨西哥辣椒非常好冷凍，而且不需要汆燙。洗淨、去蒂，裝袋時不留空隙，密封後放 −18°C；包裝妥當的辣椒最多可放 12 個月。解凍後會軟垮，所以冷凍是為了之後烹調，不是為了生切上桌。另外，冷凍的墨西哥辣椒切丁比新鮮的整齊，算是個小紅利。",
+    "thawing": "墨西哥辣椒不要解凍。從冷凍狀態直接切片或切丁下鍋。解凍後的果實又軟又濕，既切不漂亮、口感也沒了。",
+    "spoilage": [
+      "出現軟塌或凹陷的部位，通常從蒂頭開始",
+      "表面出現凹點與水浸狀斑塊，那是低溫傷害正在轉成腐敗",
+      "蒂頭或皺摺處長出白色或灰色黴",
+      "表皮變得黏滑，或散發酸味、發酵味"
+    ],
+    "tips": [
+      "挑結實光亮、表皮緊繃、蒂頭青綠的。",
+      "保持乾燥、整顆放在冰箱溫度最高的那一格。",
+      "表皮上細細的白色紋路（corking）代表果實成熟、通常更辣，不是瑕疵。",
+      "整顆去蒂後冷凍即可，不需要先去籽。"
+    ],
+    "faq": [
+      {"q": "新鮮墨西哥辣椒放冰箱可以放多久？", "a": "2～3 週，理想條件是 7～10°C 加高濕度。低於約 7°C 會有低溫傷害，所以請放在冰箱溫度最高的那一格。"},
+      {"q": "墨西哥辣椒可以冷凍嗎？", "a": "可以。洗淨去蒂、裝袋不留空隙，放 −18°C 最多 12 個月，不需要汆燙。解凍後會軟，請用於烹調。"},
+      {"q": "墨西哥辣椒上的白色紋路是什麼？", "a": "那是 corking，果實生長時撐出來的紋路。它代表這顆比較成熟、通常也比較辣，不是缺陷。"},
+      {"q": "chipotle 和墨西哥辣椒是同一種嗎？", "a": "是，只是階段不同。chipotle 是讓墨西哥辣椒轉紅熟成後再煙燻乾燥的產品，保存方式和期限都完全不同，而且長得多。"}
+    ]
+  }
+}

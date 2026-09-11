@@ -1,0 +1,57 @@
+{
+  "slug": "luffa",
+  "en": {
+    "name": "Luffa",
+    "aliases": ["sponge gourd", "angled luffa", "silk squash", "loofah", "ridge gourd"],
+    "summary": "Luffa is the young sponge gourd, eaten before the fibre network inside develops — the same fruit left to mature becomes a bath sponge. No figure is published for it, so treat it like summer squash: about 4–7 days refrigerated at 4 °C (40 °F) or below.",
+    "pantry": "Luffa should not be kept at room temperature. It is picked young and thin-skinned, and in a warm kitchen it loses water quickly and the flesh starts to toughen as the fibres inside develop — the gourd is still trying to become a sponge. There is no room-temperature figure here and none should be assumed. Refrigerate it whole and dry as soon as you get home.",
+    "fridge": "Store luffa whole and dry in the crisper at 4 °C (40 °F) or below, where about 4–7 days is the working limit. That figure is borrowed from summer squash, which luffa resembles closely in water content and handling; nothing is published for 絲瓜 itself. Buy them heavy and firm — a light gourd is a fibrous one. The flesh browns quickly once cut, so peel and cook straight away; a cut end wrapped tightly in cling film buys you a day or two, no more.",
+    "freezer": "No freezer timeline exists for luffa and freezing it raw is not worth doing. It is largely water held in a very soft flesh, and what thaws is a collapsed, dripping mass — the texture that makes luffa good, that slippery tenderness, is the first thing to go. If you have too much, cook it now: luffa with egg, or luffa with clams, takes minutes and is far better than anything the freezer will give back.",
+    "thawing": null,
+    "spoilage": [
+      "A gourd that feels light for its size, with tough fibrous flesh inside",
+      "Soft, sunken or watery patches on the skin",
+      "Flesh gone brown or spongy when cut across",
+      "Slimy skin, or mould at the stem or blossom end"
+    ],
+    "tips": [
+      "Choose gourds that feel heavy and firm; lightness means fibre has developed.",
+      "Peel only the ridges and the toughest skin, not the pale green flesh underneath.",
+      "Cook it the moment it is cut — luffa browns faster than an apple.",
+      "It releases a lot of water in the pan, so cook it fast and do not add stock until you see how much it gives up."
+    ],
+    "faq": [
+      {"q": "How long does luffa last in the fridge?", "a": "About 4–7 days at 4 °C (40 °F) or below, stored whole and dry in the crisper. That figure is borrowed from summer squash; none is published for luffa."},
+      {"q": "Can you freeze luffa?", "a": "No timeline exists and it is not worth it. Raw luffa thaws collapsed and watery, losing the tender texture that is the reason to eat it."},
+      {"q": "Why has my luffa gone stringy?", "a": "It was picked or kept too long and the fibre network inside has started to develop. That is the same fibre that becomes a bath sponge, and no amount of cooking will soften it."},
+      {"q": "Do you have to peel luffa?", "a": "Partly. Shave off the ridges and the toughest outer skin with a peeler and leave the pale green layer underneath, which is tender and keeps the pieces from falling apart."}
+    ]
+  },
+  "zh": {
+    "name": "絲瓜",
+    "aliases": ["菜瓜", "澎湖絲瓜", "角瓜", "水瓜"],
+    "summary": "絲瓜是趁嫩採收的瓜，要在裡面的纖維網形成之前吃掉——同一顆瓜放到老，就變成洗澡用的菜瓜布。它沒有公布的保存數據，可以比照夏南瓜來看：4°C 以下冷藏約 4～7 天。",
+    "pantry": "絲瓜不應該放室溫。它是趁嫩採收、皮薄的瓜，在溫暖的廚房裡失水很快，瓜肉也會隨著內部纖維發育而變韌——這顆瓜其實還在努力變成菜瓜布。這裡不提供常溫保存天數，也請不要自行推估。買回家請整條保持乾燥直接冷藏。",
+    "fridge": "請整條保持乾燥放在 4°C 以下的蔬果保鮮室，約 4～7 天是工作上限。這個數字是比照夏南瓜而來——兩者含水量和處理方式都很接近；絲瓜本身沒有公布的數據。挑的時候要挑沉甸甸、結實的，輕飄飄的就是已經走纖維了。瓜肉切開後褐變非常快，所以請削好就立刻下鍋；切口用保鮮膜緊貼包好大概可以多撐一兩天，不會更多。",
+    "freezer": "絲瓜沒有冷凍保存期限，生凍也不值得。它基本上就是包在極軟瓜肉裡的水，解凍後只剩一灘塌掉又滴水的東西——而讓絲瓜好吃的那份滑嫩，正是第一個消失的。真的太多的話，現在就煮吧：絲瓜炒蛋、蛤蜊絲瓜，幾分鐘就好，而且遠勝冷凍庫還你的任何東西。",
+    "thawing": null,
+    "spoilage": [
+      "拿起來比看起來輕，切開後瓜肉纖維又粗又韌",
+      "表皮出現軟塌、凹陷或滲水的區塊",
+      "橫切後瓜肉發褐或呈海綿狀",
+      "表皮黏滑，或蒂頭、花蒂處長黴"
+    ],
+    "tips": [
+      "挑沉甸甸、結實的；變輕就代表纖維已經開始發育。",
+      "只削掉稜和最外層的硬皮，底下那層淡綠的瓜肉要留著。",
+      "切好立刻下鍋——絲瓜褐變比蘋果還快。",
+      "它在鍋裡會大量出水，所以要快炒，而且先看它出多少水再決定要不要加高湯。"
+    ],
+    "faq": [
+      {"q": "絲瓜放冰箱可以放多久？", "a": "4°C 以下冷藏、整條乾燥放在蔬果室，約 4～7 天。這個數字是比照夏南瓜而來；絲瓜本身沒有公布的數據。"},
+      {"q": "絲瓜可以冷凍嗎？", "a": "沒有對應的期限，也不值得。生絲瓜解凍後會塌掉出水，失去它最重要的滑嫩口感。"},
+      {"q": "絲瓜為什麼變得粗粗有纖維？", "a": "採收太晚或放太久，內部的纖維網已經開始形成。那就是最後會變成菜瓜布的纖維，怎麼煮都不會軟。"},
+      {"q": "絲瓜要削皮嗎？", "a": "削一部分就好。用削皮器把稜和最外層硬皮刨掉，保留底下那層淡綠色，它很嫩，也能讓瓜塊煮的時候不散開。"}
+    ]
+  }
+}

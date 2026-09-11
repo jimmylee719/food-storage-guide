@@ -1,0 +1,57 @@
+{
+  "slug": "fava-beans",
+  "en": {
+    "name": "Fava beans",
+    "aliases": ["broad beans", "faba beans", "fresh fava", "ful"],
+    "summary": "Fava beans are large flat beans sold in thick padded pods, shelled and usually peeled again before eating. In the pod they keep 3–5 days in the fridge from the day of purchase, and blanched and frozen they hold good quality for about 8 months.",
+    "pantry": "Fava beans should not be kept at room temperature. The pods look robust, but the beans inside are respiring hard and converting sugar to starch, so warmth costs you sweetness within a day and toughens the skins. There is no room-temperature figure here and none should be assumed. Refrigerate them in the pod as soon as you get home, and shell them only when you are ready to cook.",
+    "fridge": "Store fava beans in their pods, unwashed, in a perforated bag in the crisper at 4 °C (40 °F) or below, where they keep 3–5 days from purchase. The pod is the beans' packaging — it holds moisture in and keeps the skins from toughening — so leaving them in it is worth the fridge space. Shelled beans dry out and discolour within a day or two, so if you have shelled them already, cover them and use them the next day at the latest.",
+    "freezer": "Fava beans freeze well after blanching, which also makes the second skin slip off easily. Shell the beans, boil them for 2 minutes, plunge into iced water, then either freeze them as they are or slip the skins off first — the latter is much easier while they are still warm. Pack airtight at −18 °C (0 °F), where they are safe indefinitely and keep good quality for about 8 months.",
+    "thawing": "Add frozen fava beans straight to soups, stews and risottos. If you want them for a salad, drop them into boiling water for a minute from frozen and then into iced water, rather than thawing them slowly, which makes them mushy.",
+    "spoilage": [
+      "Pods gone brown, blackened or leathery",
+      "Beans inside shrivelled, discoloured or spotted",
+      "Slimy or mouldy patches, especially at the stem end",
+      "A sour or fermented smell when the bag is opened"
+    ],
+    "tips": [
+      "Buy pods that feel full and springy; flat pods mean tiny beans and a lot of waste.",
+      "Leave the beans in the pod until you cook — the pod is the best packaging there is.",
+      "Blanch for two minutes and the tough second skin slips off with a squeeze.",
+      "Expect roughly a quarter of the weight you buy to end up on the plate."
+    ],
+    "faq": [
+      {"q": "How long do fava beans last in the fridge?", "a": "3–5 days from the day of purchase at 4 °C (40 °F) or below, kept in the pod in a perforated bag."},
+      {"q": "Can you freeze fava beans?", "a": "Yes. Shell, blanch for 2 minutes, chill and pack airtight at −18 °C (0 °F); they keep good quality for about 8 months."},
+      {"q": "Do you have to peel fava beans twice?", "a": "For all but the youngest beans, yes. The pod comes off first, then the pale skin around each bean, which stays tough and bitter. Blanching makes the second peel easy."},
+      {"q": "Can you eat fava beans raw?", "a": "Very young, small beans are eaten raw in some places, but older beans should be cooked. Anyone with G6PD deficiency should avoid fava beans entirely."}
+    ]
+  },
+  "zh": {
+    "name": "蠶豆",
+    "aliases": ["新鮮蠶豆", "胡豆", "羅漢豆", "青蠶豆"],
+    "summary": "蠶豆是包在厚實海綿狀豆莢裡的大型扁豆，剝莢後通常還要再去一層薄皮才吃。連莢冷藏從購買當天算起可放 3～5 天；汆燙後冷凍則可維持約 8 個月的良好品質。",
+    "pantry": "蠶豆不適合放室溫。豆莢看起來厚實，但裡面的豆子呼吸旺盛、正在把糖轉成澱粉，所以溫度一高，一天內甜味就流失，豆皮也會變韌。這裡不提供常溫保存天數，也請不要自行推估。買回家請連莢直接冷藏，要煮之前才剝。",
+    "fridge": "請連莢、不清洗，裝進打洞袋放在 4°C 以下的蔬果保鮮室，從購買日起可放 3～5 天。豆莢就是豆子的包裝——它鎖住水分、也避免豆皮變韌——所以留著它很值得佔那點空間。剝好的豆仁一兩天就會乾掉變色，如果已經剝好，請蓋好並最晚隔天用完。",
+    "freezer": "蠶豆汆燙後很適合冷凍，而且汆燙也會讓第二層薄皮變得好剝。剝出豆仁，滾水煮 2 分鐘，撈起泡冰水，之後可以直接冷凍，也可以先去薄皮再冷凍——趁溫熱時去皮輕鬆很多。密封後放 −18°C，安全上可無限期保存，品質可維持約 8 個月。",
+    "thawing": "冷凍蠶豆可以直接下湯、下燉菜或做燉飯。想做沙拉的話，請從冷凍狀態丟進滾水一分鐘再泡冰水，不要慢慢解凍，那會讓豆子變糊。",
+    "spoilage": [
+      "豆莢轉褐、發黑或變得像皮革",
+      "裡面的豆仁皺縮、變色或出現斑點",
+      "出現黏滑或發霉的區塊，尤其是蒂頭附近",
+      "打開袋子聞到酸味或發酵味"
+    ],
+    "tips": [
+      "挑豆莢飽滿有彈性的；扁扁的莢代表豆子很小、廢料很多。",
+      "要煮之前才剝莢，豆莢是最好的天然包裝。",
+      "汆燙兩分鐘後，那層韌韌的薄皮輕輕一擠就掉。",
+      "買進來的重量大約只有四分之一會上桌，份量要抓夠。"
+    ],
+    "faq": [
+      {"q": "新鮮蠶豆放冰箱可以放多久？", "a": "4°C 以下冷藏、連莢裝在打洞袋裡，從購買當天算起 3～5 天。"},
+      {"q": "蠶豆可以冷凍嗎？", "a": "可以。剝出豆仁、汆燙 2 分鐘、冰鎮後密封放 −18°C，品質可維持約 8 個月。"},
+      {"q": "蠶豆一定要剝兩次皮嗎？", "a": "除了最嫩的豆子之外，是的。先剝豆莢，再剝每顆豆外面那層淡色薄皮，那層又韌又苦。汆燙過後很好剝。"},
+      {"q": "蠶豆可以生吃嗎？", "a": "極嫩的小豆在某些地方會生吃，但成熟一點的請煮熟。另外，蠶豆症（G6PD 缺乏症）患者應完全避免食用蠶豆。"}
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "poblano-pepper-fresh",
+  "en": {
+    "name": "Poblano pepper, fresh",
+    "aliases": ["chile poblano", "fresh ancho", "stuffing chile", "poblano chilli"],
+    "summary": "The poblano is the broad, dark green, mildly hot chilli used for chiles rellenos; dried, the same pod is the ancho. Fresh it keeps 2–3 weeks refrigerated, ideally at 7–10 °C (45–50 °F) at high humidity, and roasted and peeled it freezes for up to 12 months.",
+    "pantry": "Poblanos are not a counter vegetable, though a few days out will not make them unsafe. What they lose at room temperature is firmness and the taut skin that makes them easy to roast and peel. There is no room-temperature figure here and none should be assumed. If you want to keep them without refrigeration, the traditional answer is the one the name changes for: let them ripen, dry them, and you have anchos.",
+    "fridge": "The published figure for fresh chile is 2–3 weeks at 7–10 °C (45–50 °F) and 90–95 % relative humidity. That is warmer than a domestic fridge, and below that range the pods take chilling injury — softening, pitting and faster decay — so use the least cold drawer and expect the shorter end of the range. Freeze damage begins at 0 °C (32 °F), so a fridge running very cold can genuinely harm them. Roasted chile kept in the fridge rather than frozen must be used or frozen within three days.",
+    "freezer": "Poblanos are almost always roasted and peeled before freezing, which is the right way round: the skin comes off easily while they are hot, and it never will once they have been frozen raw. Refrigerate or freeze roasted, peeled chile within two hours of roasting, press the air out of the bag, and it keeps safely in the freezer for up to 12 months at −18 °C (0 °F). Freeze them flat with paper between so you can take out one pod at a time for stuffing.",
+    "thawing": "Thaw roasted poblanos in the fridge if you need whole pods for stuffing, or add strips straight to a pan from frozen. Do not thaw them on the counter — roasted chile is a cooked, low-acid food and the ordinary two-hour rule applies.",
+    "spoilage": [
+      "Soft or sunken patches, usually starting at the stem end",
+      "Pitting and water-soaked areas, which is chilling injury turning into decay",
+      "Mould at the stem or in a fold of the skin",
+      "A slimy skin, or a sour, fermented smell"
+    ],
+    "tips": [
+      "Choose pods with taut, glossy, unwrinkled skin and a firm green stem.",
+      "Use the least cold drawer of the fridge; poblanos suffer below 7 °C.",
+      "Roast and peel before freezing, never after.",
+      "Get roasted chile into the fridge or freezer within two hours of coming off the heat."
+    ],
+    "faq": [
+      {"q": "How long do fresh poblanos last in the fridge?", "a": "2–3 weeks, ideally at 7–10 °C (45–50 °F) and high humidity. A home fridge is colder than that, so use the warmest drawer and expect the shorter end."},
+      {"q": "Can you freeze poblano peppers?", "a": "Yes, and roasted and peeled is the way to do it. Frozen within two hours of roasting, with the air pressed out, they keep up to 12 months at −18 °C (0 °F)."},
+      {"q": "How long does roasted chile keep in the fridge?", "a": "Use it or freeze it within three days. Roasted chile is a cooked food and should be refrigerated or frozen within two hours of roasting."},
+      {"q": "Is an ancho the same as a poblano?", "a": "Yes, at a later stage. An ancho is a poblano ripened and dried. It is a dried product with entirely different storage rules and a much longer life."}
+    ]
+  },
+  "zh": {
+    "name": "波布拉諾辣椒",
+    "aliases": ["chile poblano", "墨西哥鑲餡青椒", "寬葉椒", "ancho（乾製後）"],
+    "summary": "波布拉諾是寬大、深綠、辣度溫和的辣椒，也是墨西哥鑲餡辣椒的主角；同一顆果實乾燥後就叫 ancho。新鮮冷藏可放 2～3 週，理想條件是 7～10°C 加高濕度；先烤過去皮再冷凍則可放最多 12 個月。",
+    "pantry": "波布拉諾不是放檯面的蔬菜，不過放個幾天也不會不安全。它在室溫下失去的是硬挺度，以及那層讓它好烤好剝的緊繃外皮。這裡不提供常溫保存天數，也請不要自行推估。若想在不冷藏的情況下保存，傳統做法正是那個會讓它改名的方式：讓它熟成、乾燥，就成了 ancho。",
+    "fridge": "新鮮辣椒公布的數字是 7～10°C、相對濕度 90～95% 下可放 2～3 週。那比家用冰箱溫暖；低於這個範圍，果實會出現低溫傷害——軟化、凹點與加速腐敗——所以請放在冰箱溫度最高的那一格，並預期落在範圍的短端。凍傷從 0°C 就開始，所以冰箱溫度過低是真的會傷到它。另外，烤過的辣椒若放冷藏而非冷凍，必須在三天內用掉或改冷凍。",
+    "freezer": "波布拉諾幾乎都是先烤過去皮再冷凍，而這個順序才是對的：趁熱時皮很好剝，但一旦生凍過就再也剝不下來。烤好後兩小時內要冷藏或冷凍，裝袋時把空氣壓出來，在 −18°C 下最多可安全保存 12 個月。請平鋪冷凍、中間夾紙，之後要鑲餡時才能一次拿一顆。",
+    "thawing": "需要整顆鑲餡的話，請放冷藏室解凍；切成條的則可以不解凍直接下鍋。不要在室溫解凍——烤過的辣椒是低酸度的熟食，一般的兩小時原則同樣適用。",
+    "spoilage": [
+      "出現軟塌或凹陷的部位，通常從蒂頭開始",
+      "表面出現凹點與水浸狀斑塊，那是低溫傷害正在轉成腐敗",
+      "蒂頭或皮的皺摺處長黴",
+      "表皮變得黏滑，或散發酸味、發酵味"
+    ],
+    "tips": [
+      "挑外皮緊繃光亮不皺、蒂頭青綠結實的。",
+      "放在冰箱溫度最高的那一格；低於 7°C 波布拉諾就會受傷。",
+      "先烤過去皮再冷凍，順序絕對不要顛倒。",
+      "烤好的辣椒離火後兩小時內要進冰箱或冷凍庫。"
+    ],
+    "faq": [
+      {"q": "新鮮波布拉諾放冰箱可以放多久？", "a": "2～3 週，理想條件是 7～10°C 加高濕度。家用冰箱比這個冷，請放在溫度最高的那一格，並預期落在短端。"},
+      {"q": "波布拉諾可以冷凍嗎？", "a": "可以，而且正確做法是先烤過去皮。烤好兩小時內冷凍、裝袋壓出空氣，在 −18°C 下最多可放 12 個月。"},
+      {"q": "烤好的辣椒冷藏可以放多久？", "a": "三天內要用掉或改冷凍。烤過的辣椒是熟食，離火後兩小時內就該冷藏或冷凍。"},
+      {"q": "ancho 和波布拉諾是同一種嗎？", "a": "是，只是階段不同。ancho 是熟成後乾燥的波布拉諾，屬於乾貨，保存規則完全不同，保存期也長得多。"}
+    ]
+  }
+}

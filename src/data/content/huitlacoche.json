@@ -1,0 +1,57 @@
+{
+  "slug": "huitlacoche",
+  "en": {
+    "name": "Huitlacoche",
+    "aliases": ["cuitlacoche", "corn smut", "Mexican truffle", "corn mushroom"],
+    "summary": "Huitlacoche is the swollen grey-black galls of a fungus that grows on ears of corn, prized in Mexican cooking and cooked down with onion and epazote. No agency publishes a timeline for it, so treat it like mushrooms: about 3–7 days refrigerated, and 10–12 months frozen once cooked.",
+    "pantry": "Fresh huitlacoche galls should not be kept at room temperature. They are a very moist fungus growing on a sugary host, and warmth makes them sweat, soften and go sour quickly. There is no room-temperature figure and none should be assumed. Most cooks outside Mexico can only buy it canned or frozen anyway, and those follow the can or packet date rather than anything here.",
+    "fridge": "Keep the galls whole and dry in a paper bag at 4 °C (40 °F) or below, never in plastic — like any fungus they sweat and go slimy in a sealed bag. About 3–7 days is the working limit, borrowed from mushrooms, since huitlacoche behaves in storage like a very moist mushroom and no figure is published for it. The galls darken from grey to black as they age, which is entirely normal and in fact desirable; a sour smell is not. Cut them off the cob only when you are ready to cook.",
+    "freezer": "Cook the galls down first — with onion and epazote, the classic way — then cool them and freeze in portions at −18 °C (0 °F), where 10–12 months is the working limit, again borrowed from mushrooms. Raw huitlacoche freezes to mush, because the galls are almost entirely water held in a delicate structure. Cooking first drives off that water and concentrates the flavour, so what you take out of the freezer is a usable filling rather than a puddle.",
+    "thawing": "Thaw cooked huitlacoche in the fridge overnight, or reheat it straight from frozen in a pan. Do not thaw raw galls, which collapse completely; if you have frozen them raw, cook them from frozen and accept a softer result.",
+    "spoilage": [
+      "A sour, fermented or ammonia smell instead of a earthy, sweetcorn one",
+      "Slimy or wet galls rather than dry and firm",
+      "Galls that have burst and released black powder everywhere",
+      "Any fuzzy mould growing on the gall surface or the cob"
+    ],
+    "tips": [
+      "Buy galls that are plump and still mostly grey with a firm surface.",
+      "Paper bag only — plastic turns any fungus slimy within a day.",
+      "Cook it with epazote; the pairing is traditional because it works.",
+      "Darkening to black is normal ripening, not spoilage."
+    ],
+    "faq": [
+      {"q": "How long does fresh huitlacoche last in the fridge?", "a": "About 3–7 days at 4 °C (40 °F) or below in a paper bag. That figure is borrowed from mushrooms; no agency publishes one for huitlacoche."},
+      {"q": "Can you freeze huitlacoche?", "a": "Cook it first, then freeze in portions at −18 °C (0 °F) for 10–12 months — again a mushroom figure. Raw galls freeze to mush."},
+      {"q": "Is black huitlacoche spoiled?", "a": "No. The galls darken from grey to black as they mature, and the black spores are the flavour. Judge it by smell and texture instead."},
+      {"q": "Is huitlacoche safe to eat?", "a": "Yes. It is a fungus that infects corn ears and has been eaten in Mexico for centuries; it is a delicacy, not a contaminant. Cook it as you would mushrooms."}
+    ]
+  },
+  "zh": {
+    "name": "玉米黑穗菌",
+    "aliases": ["墨西哥松露", "玉米黑粉菌", "huitlacoche", "玉米菌癭"],
+    "summary": "玉米黑穗菌是長在玉米穗上、由真菌造成的灰黑色腫大菌癭，在墨西哥料理中是珍饈，通常和洋蔥、土荊芥一起炒煮。沒有權威單位公布它的保存期限，可以比照菇類來看：冷藏約 3～7 天，煮熟後冷凍 10～12 個月。",
+    "pantry": "新鮮的菌癭不應該放室溫。它是長在高糖分寄主上、含水量極高的真菌，一回溫就會出水、變軟並迅速發酸。這裡不提供常溫保存天數，也請不要自行推估。何況墨西哥以外的地區多半只買得到罐頭或冷凍品，那些請以罐上或包裝上的日期為準。",
+    "fridge": "請保持整顆菌癭乾燥、裝在紙袋裡，冷藏於 4°C 以下，絕對不要用塑膠袋——任何真菌在密封袋裡都會出水變黏。約 3～7 天是工作上限，這是比照菇類而來，因為玉米黑穗菌在保存上的表現就像一種含水量特別高的菇，而且沒有針對它公布的數字。菌癭會隨著成熟由灰轉黑，那完全正常，甚至是好事；但發酸的氣味就不是。要煮之前才從玉米上取下。",
+    "freezer": "請先把菌癭炒煮收乾——經典做法是配洋蔥和土荊芥——放涼後分裝冷凍於 −18°C，10～12 個月是工作上限，同樣是比照菇類而來。生的直接冷凍會變成一攤糊，因為菌癭幾乎全是水、而且結構脆弱。先煮過可以逼出水分、濃縮風味，這樣從冷凍庫拿出來的才是能用的餡料，而不是一灘水。",
+    "thawing": "煮熟的請放冷藏室退冰一晚，或直接下鍋從冷凍加熱。生的菌癭不要解凍，它會整個塌掉；如果已經生凍了，請不解凍直接下鍋，並接受比較軟的成品。",
+    "spoilage": [
+      "聞起來酸、有發酵味或阿摩尼亞味，而不是帶土香的玉米甜味",
+      "菌癭變得濕黏，而不是乾爽結實",
+      "菌癭已經爆開，黑色孢子粉散得到處都是",
+      "菌癭表面或玉米穗上長出毛狀黴"
+    ],
+    "tips": [
+      "挑飽滿、大致仍呈灰色、表面結實的。",
+      "只能用紙袋；塑膠袋一天就能把任何真菌悶成黏糊。",
+      "配土荊芥一起煮；這個經典組合之所以經典，是因為真的搭。",
+      "由灰轉黑是正常的成熟，不是腐敗。"
+    ],
+    "faq": [
+      {"q": "新鮮玉米黑穗菌放冰箱可以放多久？", "a": "4°C 以下冷藏、裝紙袋約 3～7 天。這個數字是比照菇類而來；沒有單位為它公布過數字。"},
+      {"q": "玉米黑穗菌可以冷凍嗎？", "a": "請先煮熟再分裝冷凍於 −18°C，10～12 個月，同樣是菇類的數字。生的冷凍會變成糊。"},
+      {"q": "變黑的玉米黑穗菌是壞掉了嗎？", "a": "不是。菌癭成熟時本來就會由灰轉黑，黑色孢子正是風味來源。請用氣味和質地判斷。"},
+      {"q": "玉米黑穗菌可以吃嗎？", "a": "可以。它是感染玉米穗的真菌，在墨西哥已被食用數百年，是珍饈而不是污染物。當成菇類來料理即可。"}
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "kimchi",
+  "en": {
+    "name": "Kimchi",
+    "aliases": ["kimchee", "baechu kimchi", "Korean pickled cabbage", "gimchi"],
+    "summary": "Kimchi is salted cabbage fermented with chilli, garlic and fish seasonings, and the fermentation is itself the preservation. Refrigerated at 4 °C (40 °F) or below it keeps 6–12 months from the day of purchase, going steadily more sour as it goes.",
+    "pantry": "Kimchi is not a room-temperature food, though it is a ferment. Fermentation never actually stops; it only slows down, and the cold is what holds it at the stage you want. Left on the counter a jar will keep working, turn sharply sour within days, build up enough gas to push brine out past the lid, and soften from crisp to mushy. A short deliberate ferment at room temperature is how a new batch is started, but that is a step in making it, not a way of keeping it.",
+    "fridge": "Keep kimchi at 4 °C (40 °F) or below, in a sealed container with the cabbage pressed down under its brine, where it keeps 6–12 months from purchase. Kimchi covered by liquid is protected; kimchi sticking up into the air is where surface mould and white film appear. Use a clean dry utensil every time, and keep the jar in the body of the fridge rather than the door. Expect it to change: fresh kimchi is crunchy and mildly sour, old kimchi is soft, fizzy and sharply acidic, and both are perfectly good — they just belong in different dishes.",
+    "freezer": "There is no freezer timeline for kimchi in our data, and freezing it is not really the point. The cabbage collapses on thawing because its cells are already softened by salt and acid, and the live culture that makes kimchi what it is stops for good. If you have more than you can eat, the answer that Korean kitchens actually use is to let it get old and cook with it — kimchi jjigae, kimchi fried rice and kimchi pancakes all want the sour stuff.",
+    "thawing": null,
+    "spoilage": [
+      "Fuzzy mould in blue, green, grey or black anywhere on the surface",
+      "A white film or scum across the top — yeast, which means the cabbage was exposed above the brine",
+      "Slimy, ropy or stringy brine rather than a clean liquid",
+      "A rotten or putrid smell, quite different from the sharp sourness of an old batch"
+    ],
+    "tips": [
+      "Press the cabbage down under the brine every time you take some out.",
+      "Always use a clean dry utensil; a wet spoon is how mould gets in.",
+      "Keep the jar upright in the main fridge, not the door, and stand it on a plate — it will bubble over.",
+      "Do not throw old sour kimchi away; it is the best kind for stews and fried rice."
+    ],
+    "faq": [
+      {"q": "How long does kimchi last in the fridge?", "a": "6–12 months from the day of purchase at 4 °C (40 °F) or below, kept under its brine. It gets steadily more sour over that time, which is normal."},
+      {"q": "Can you freeze kimchi?", "a": "No timeline exists for it and we do not recommend it. The cabbage collapses on thawing and the live culture dies. Cook sour kimchi into stew or fried rice instead."},
+      {"q": "Is white film on top of kimchi mould?", "a": "It is usually a yeast film rather than true mould, and it forms where cabbage sits above the brine. Skim it off, push everything back under the liquid, and use the jar up soon. Fuzzy coloured mould means discard it."},
+      {"q": "My kimchi has gone very sour — is it still safe?", "a": "Yes, as long as there is no mould and it smells sour rather than rotten. Sourness is the ferment maturing. Old kimchi is prized for cooking."}
+    ]
+  },
+  "zh": {
+    "name": "韓式泡菜",
+    "aliases": ["泡菜", "辣白菜", "韓國泡菜", "김치", "白菜泡菜"],
+    "summary": "韓式泡菜是把鹽漬白菜加上辣椒、大蒜和魚類調味料發酵而成，發酵本身就是它的保存方式。4°C 以下冷藏，從購買當天算起可放 6～12 個月，期間會持續變酸。",
+    "pantry": "泡菜雖然是發酵食品，卻不是能放室溫的東西。發酵從來不會真正停止，只是被放慢；低溫的作用就是把它固定在你想要的階段。放在室溫的話，罐子會繼續發酵，幾天就變得很酸，產生的氣體甚至會把汁液從蓋子邊擠出來，白菜也會從脆變糊。新做的泡菜刻意在室溫放幾天是製作步驟，不是保存方法。",
+    "fridge": "冷藏維持 4°C 以下，裝在密封容器裡並把白菜壓進醃汁中，從購買日起可放 6～12 個月。泡在汁裡的泡菜是受保護的；露出液面的那部分，才是長出表面黴和白膜的地方。每次都用乾淨的乾筷子或夾子，罐子放冰箱內部而不是門邊。它會一直變化：新鮮泡菜爽脆微酸，老泡菜軟、帶氣泡、酸味強烈，兩種都很好，只是適合的料理不同。",
+    "freezer": "我們的資料裡沒有泡菜的冷凍保存期限，而且冷凍它本來就沒什麼意義。白菜細胞已經被鹽和酸軟化，解凍後一定塌掉；讓泡菜成為泡菜的活菌也會就此終止。真的吃不完的話，韓國廚房實際的做法是讓它變老、拿去煮——泡菜鍋、泡菜炒飯、泡菜煎餅，要的都是酸掉的那種。",
+    "thawing": null,
+    "spoilage": [
+      "表面任何地方長出藍、綠、灰或黑色的毛狀黴",
+      "表面浮出一層白膜或白渣——那是酵母膜，代表白菜露出醃汁之上",
+      "醃汁變得黏滑牽絲，而不是清爽的液體",
+      "出現腐臭味，那和老泡菜那種尖銳的酸味完全不同"
+    ],
+    "tips": [
+      "每次夾完都把白菜壓回醃汁底下。",
+      "一定要用乾淨的乾器具；沾水的湯匙正是黴菌進罐的途徑。",
+      "罐子直立放在冰箱主室而不是門邊，底下墊個盤子，它一定會冒汁。",
+      "酸掉的老泡菜別丟，那才是煮鍋物和炒飯最好的材料。"
+    ],
+    "faq": [
+      {"q": "韓式泡菜放冰箱可以放多久？", "a": "4°C 以下冷藏、壓在醃汁底下，從購買當天算起 6～12 個月。這段期間會愈來愈酸，是正常的。"},
+      {"q": "泡菜可以冷凍嗎？", "a": "沒有對應的冷凍期限，我們也不建議。白菜解凍後會塌掉，活菌也會死亡。把酸泡菜拿去煮鍋或炒飯才是更好的做法。"},
+      {"q": "泡菜上面的白膜是發霉嗎？", "a": "通常是酵母膜而不是真的黴，長在露出醃汁的部分。撈掉、把菜壓回汁裡，並盡快吃完。但若是彩色的毛狀黴，整罐丟棄。"},
+      {"q": "泡菜變得很酸還能吃嗎？", "a": "只要沒有發霉、聞起來是酸而不是腐臭，就可以吃。變酸是發酵成熟的表現，老泡菜拿來料理反而更搶手。"}
+    ]
+  }
+}

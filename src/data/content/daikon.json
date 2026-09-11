@@ -1,0 +1,57 @@
+{
+  "slug": "daikon",
+  "en": {
+    "name": "Daikon",
+    "aliases": ["white radish", "mooli", "Chinese radish", "long white radish"],
+    "summary": "Daikon is the large white radish used in soups, stews and pickles across East Asia. Kept cool and shaded with the tops cut off it holds 3–7 days, and refrigerated at 4 °C (40 °F) or below it keeps 1–2 weeks from the day of purchase.",
+    "pantry": "A whole daikon will sit in a cool, shaded spot for about 3–7 days if you prepare it properly first. Cut the leafy tops off straight away — left on, they keep drawing water out of the root and it goes spongy within days — then seal the cut end with cling film, wrap the whole root in paper and put it in a bag. In a warm or humid kitchen the fridge is the better choice; this figure assumes somewhere genuinely cool.",
+    "fridge": "Refrigerated at 4 °C (40 °F) or below, with the tops removed, daikon keeps 1–2 weeks from purchase. Wrap it in paper or a damp cloth and bag it loosely so it neither dries out nor sweats. If it is too long for the drawer, cut it in half and wrap both cut faces rather than leaving them open. Bear in mind that the published figure covers radishes as a group; a whole daikon is far bigger than a bunch of small red radishes and generally outlasts them. Grated daikon is a different matter — it loses its bite and its aroma within hours, so grate it just before serving and use it the same day.",
+    "freezer": "No freezer timeline exists for daikon in our sources, so none is given. The texture is the honest obstacle: daikon is watery and crisp, and freezing it raw leaves it collapsed and stringy. If you want to keep it beyond the fridge window, the traditional answers are better ones — simmer it into a braise and freeze that, pickle it, or dry it into 蘿蔔乾, which is how Taiwanese kitchens have always dealt with a glut.",
+    "thawing": null,
+    "spoilage": [
+      "Flesh gone spongy or hollow, or a root that gives when squeezed",
+      "Brown or translucent patches inside when you cut it across",
+      "Slimy skin, or soft black spots where it was bruised",
+      "A sharply bitter taste or a strong sulphurous smell"
+    ],
+    "tips": [
+      "Cut the leaves off the moment you get home — this matters more than anything else.",
+      "Do not throw the leaves away; they are edible and good stir-fried or salted.",
+      "Wrap the cut face if you use half a root; an open face dries and goes woolly.",
+      "Grate daikon to order — grated radish loses its pungency within the hour."
+    ],
+    "faq": [
+      {"q": "How long does daikon last in the fridge?", "a": "1–2 weeks from the day of purchase at 4 °C (40 °F) or below, with the leafy tops removed and the root wrapped in paper."},
+      {"q": "Does daikon need to be refrigerated?", "a": "Not necessarily. With the tops cut off, the cut end sealed and the root wrapped in paper, a cool shaded spot gives it 3–7 days. The fridge roughly doubles that."},
+      {"q": "Can you freeze daikon?", "a": "No freezer timeline is published for it, so we do not give one. Raw daikon freezes to a collapsed, stringy texture; braising, pickling or drying it are better ways to keep a glut."},
+      {"q": "Why has my daikon gone hollow inside?", "a": "That is pithiness, caused by water loss — usually from leaving the leaves attached or storing it somewhere dry. It is not unsafe, but the texture is gone."}
+    ]
+  },
+  "zh": {
+    "name": "白蘿蔔",
+    "aliases": ["菜頭", "大根", "日本蘿蔔", "長白蘿蔔"],
+    "summary": "白蘿蔔是東亞煮湯、燉滷、醃漬都少不了的大型根菜。切掉葉子後放在陰涼避光處可放 3～7 天；4°C 以下冷藏，從購買當天算起則可放 1～2 週。",
+    "pantry": "整根白蘿蔔只要先處理好，放在陰涼避光處大約可放 3～7 天。回家後請立刻把葉子切掉——留著的話，葉子會持續把水分從根部抽走，幾天內蘿蔔就變得空心鬆軟——接著用保鮮膜封住切口，整根用紙包起來再裝袋。若廚房悶熱潮濕，還是冷藏比較保險；這個天數是以真正涼爽的環境為前提。",
+    "fridge": "切掉葉子後，放在 4°C 以下冷藏，從購買日起可放 1～2 週。用紙或濕布包起來、鬆鬆裝袋，既不會乾掉也不會悶出水。若長度放不進蔬果室，可以對切，但兩個切面都要包好，不要就這樣露著。要注意的是，公布的數字涵蓋的是「蘿蔔類」整體；整根白蘿蔔比一把小紅蘿蔔大得多，通常也更耐放。磨成泥的蘿蔔則是另一回事——辛辣味和香氣幾小時內就跑掉了，請現磨現吃，當天用完。",
+    "freezer": "我們的資料來源中沒有白蘿蔔的冷凍保存期限，所以這裡不給。真正的障礙在口感：白蘿蔔水分多又脆，生凍後會塌成粗纖維的一團。如果要保存超過冷藏期限，傳統做法其實更好——燉成滷味或湯品再冷凍、醃成漬物，或曬成蘿蔔乾，這正是台灣廚房面對盛產期一直以來的答案。",
+    "thawing": null,
+    "spoilage": [
+      "肉質變得鬆軟空心，捏起來會凹",
+      "橫切後裡面出現褐色或半透明的斑塊",
+      "表皮黏滑，或碰傷處出現軟黑的斑點",
+      "吃起來明顯發苦，或有濃重的硫磺味"
+    ],
+    "tips": [
+      "買回家第一件事就是把葉子切掉，這比其他任何做法都重要。",
+      "葉子別丟，可以吃，炒過或醃成雪裡紅都很好。",
+      "只用半根時，切面一定要包好，露著的切面會乾掉變棉絮狀。",
+      "蘿蔔泥現磨現用，磨好放一小時辛香味就沒了。"
+    ],
+    "faq": [
+      {"q": "白蘿蔔放冰箱可以放多久？", "a": "4°C 以下冷藏，切掉葉子並用紙包好，從購買當天算起 1～2 週。"},
+      {"q": "白蘿蔔一定要冷藏嗎？", "a": "不一定。切掉葉子、封住切口、整根用紙包好，放在陰涼避光處可以放 3～7 天。冷藏大約能延長一倍。"},
+      {"q": "白蘿蔔可以冷凍嗎？", "a": "沒有公布的冷凍期限，所以我們不給數字。生蘿蔔冷凍後會塌軟變粗絲，改成燉煮、醃漬或曬蘿蔔乾都是更好的做法。"},
+      {"q": "白蘿蔔為什麼會空心？", "a": "那是失水造成的糠心，通常是葉子沒切掉或放在太乾的環境。它不至於不安全，但口感已經沒了。"}
+    ]
+  }
+}

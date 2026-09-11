@@ -1,0 +1,57 @@
+{
+  "slug": "salmon",
+  "en": {
+    "name": "Salmon",
+    "aliases": ["Atlantic salmon", "king salmon", "sockeye", "salmon fillet", "salmon steak"],
+    "summary": "Salmon is an oily fish whose fat is what makes it delicious and also what makes it go off quickly. Raw salmon keeps only 1–2 days in the fridge from the day you buy it, and holds its best quality for 2–3 months at −18 °C (0 °F).",
+    "pantry": "Raw salmon must never be stored at room temperature. Fish spoilage bacteria and the enzymes in the flesh work faster than in red meat, and the danger zone of 4–60 °C (40–140 °F) applies just as it does to poultry. Two hours out of the cold is the limit, and only one hour if the room is above 32 °C (90 °F). Carry it home in a cool bag and refrigerate it immediately.",
+    "fridge": "Keep salmon at 4 °C (40 °F) or below, on the coldest shelf at the back or bottom, on a plate so any drip cannot reach other food. Counted from the day of purchase it is good for 1–2 days, whether it is a whole side, fillets or steaks. If the counter sold it over ice, replace that with a bed of ice in a draining dish and pour off the meltwater — salmon sitting in its own liquid softens fast.",
+    "freezer": "Freeze salmon the same day you buy it if you are not cooking it within two days. Pat each portion dry, wrap tightly in plastic film and then in foil or a freezer bag with the air pressed out, since the oil in salmon oxidises and turns rancid where air touches it. At −18 °C (0 °F) it is safe indefinitely but tastes best within 2–3 months.",
+    "thawing": "Thaw salmon overnight in the fridge on a plate, or in a sealed bag under cold running water for quicker results. Never leave it on the counter or in warm water. Cook fridge-thawed salmon within a day, and never refreeze raw fish that has thawed unless you cook it first.",
+    "spoilage": [
+      "A strong fishy, sour or ammonia smell rather than a clean sea smell",
+      "Flesh that is dull, greyish or browning at the edges instead of bright and translucent",
+      "A slimy or sticky film on the surface that does not rinse away",
+      "Flesh that stays dented when you press it, or gaps opening between the muscle flakes"
+    ],
+    "tips": [
+      "Buy salmon last on your shopping trip and keep it cold on the way home.",
+      "Write the purchase date on the wrapping — the 1–2 day fridge clock starts then, not when you open it.",
+      "Freeze in single-meal portions; a thin fillet thaws in hours, a whole side takes a day.",
+      "Do not buy fish for raw eating unless it is labelled for sashimi and has been frozen to kill parasites."
+    ],
+    "faq": [
+      {"q": "How long does salmon last in the fridge?", "a": "Only 1–2 days from the day of purchase at 4 °C (40 °F) or below. Freeze it on the day you buy it if you cannot cook it in that window."},
+      {"q": "Can you freeze salmon?", "a": "Yes. Wrap it airtight to keep oxygen off the fat and freeze at −18 °C (0 °F). It stays safe indefinitely but is best within 2–3 months."},
+      {"q": "How can you tell if salmon has gone bad?", "a": "A sour or ammonia smell is decisive. Dull grey flesh, a sticky surface or a dent that stays put when you press it all mean it should go in the bin."},
+      {"q": "Is the white stuff on cooked salmon a sign of spoilage?", "a": "No. That is albumin, a protein pushed out by heat. It is harmless and usually means the fish was cooked a little hot or a little long."}
+    ]
+  },
+  "zh": {
+    "name": "鮭魚",
+    "aliases": ["三文魚", "鮭魚排", "鮭魚菲力", "大西洋鮭", "紅鮭"],
+    "summary": "鮭魚是典型的油脂魚，油脂帶來風味，同時也讓它特別容易變質。生鮭魚從購買當天算起冷藏只能放 1～2 天，放進 −18°C 的冷凍庫則以 2～3 個月內吃完風味最佳。",
+    "pantry": "生鮭魚絕對不能放在室溫。魚肉的腐敗菌和自身酵素比紅肉作用得更快，4～60°C 的危險溫度帶同樣適用。離開低溫超過 2 小時就不該再吃，氣溫超過 32°C 時只有 1 小時。採買時請用保冷袋帶回家，進門就放冰箱。",
+    "fridge": "冷藏請維持在 4°C 以下，放在冰箱最裡面或最下層這種溫度最穩定的位置，下面墊盤子接住血水，避免滴到其他食物。從購買日算起可放 1～2 天，不論是整片、切片還是魚排都一樣。如果攤商是用冰墊著賣的，回家後可以改放有濾網的盒子鋪冰保存，並隨時倒掉融化的水——鮭魚泡在自己的血水裡肉質會很快變糊。",
+    "freezer": "兩天內煮不完的話，買回來當天就冷凍。先用廚房紙巾把表面水分吸乾，一份一份先包保鮮膜再包鋁箔或裝冷凍袋並擠出空氣；鮭魚油脂一接觸空氣就會氧化產生油耗味，密封是重點。放在 −18°C 冷凍，安全上可以無限期保存，但 2～3 個月內吃完最好吃。",
+    "thawing": "解凍請放在盤子上、置於冷藏室退冰一晚；趕時間就裝進密封袋泡冷水。千萬不要放室溫或泡溫水。冷藏解凍後一天內要煮完；已經解凍的生魚不要再冷凍，除非先煮熟。",
+    "spoilage": [
+      "聞起來是刺鼻的腥味、酸味或阿摩尼亞味，而不是清爽的海味",
+      "魚肉暗沉發灰、邊緣變褐，失去原本的通透感",
+      "表面有一層黏滑的膜，沖水也沖不掉",
+      "用手指壓下去凹陷回不來，或肌肉纖維之間出現裂縫"
+    ],
+    "tips": [
+      "採買時把魚留到最後才拿，回程全程保冷。",
+      "在包裝上寫購買日期，1～2 天是從買的那天開始算，不是從拆封開始算。",
+      "依每餐份量分裝冷凍，薄片幾小時就退冰，整片魚要一整天。",
+      "要生食請買標示可做生魚片、且已做過冷凍除蟲處理的魚，一般生鮮鮭魚不要直接生吃。"
+    ],
+    "faq": [
+      {"q": "鮭魚放冰箱可以放多久？", "a": "4°C 以下冷藏，從購買當天算起只有 1～2 天。來不及煮就當天直接冷凍。"},
+      {"q": "鮭魚可以冷凍嗎？", "a": "可以。密封包好隔絕空氣、避免油脂氧化，放 −18°C 冷凍。安全上可以放很久，風味則以 2～3 個月內為佳。"},
+      {"q": "怎麼判斷鮭魚壞掉了？", "a": "有酸味或阿摩尼亞味就不要吃。魚肉發灰暗沉、表面黏滑、壓下去凹陷回不來，也都該丟掉。"},
+      {"q": "煎鮭魚時跑出來的白色東西是壞掉嗎？", "a": "不是。那是受熱後被擠出來的白蛋白，對健康無害，通常代表火太大或煎太久。"}
+    ]
+  }
+}

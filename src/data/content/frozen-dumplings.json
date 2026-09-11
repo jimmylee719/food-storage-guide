@@ -1,0 +1,57 @@
+{
+  "slug": "frozen-dumplings",
+  "en": {
+    "name": "Frozen dumplings",
+    "aliases": ["frozen gyoza", "frozen potstickers", "frozen jiaozi", "frozen wontons", "raw frozen dumplings"],
+    "summary": "Frozen dumplings are raw dumplings frozen solid, whether from a supermarket bag or wrapped at home. Kept at −18 °C (0 °F) or below, about twelve months is a reasonable working limit — a figure borrowed from frozen prepared meals — and a commercial bag carries its own printed date, which takes precedence.",
+    "pantry": "Frozen dumplings have no room-temperature storage life whatsoever. They contain raw meat or seafood and raw dough, so the moment the surface thaws the outside is sitting in the danger zone while the centre is still frozen. Buy them last, get them home fast, and put them in the freezer rather than the fridge unless you are cooking them today.",
+    "fridge": "The fridge is for thawing, not for storing. If you must thaw dumplings, do it in the fridge and cook them the same day. Do not thaw them on the counter: the surface climbs into the danger zone while the middle is still solid, which is exactly the failure that home thawing is warned against. Cold water in a sealed bag, changed every 30 minutes, or the microwave followed by cooking immediately, are the other two acceptable methods. Never refreeze raw dumplings that have thawed.",
+    "freezer": "Keep the bag at −18 °C (0 °F) or below, deep in the freezer rather than in the door, and do not overfill the cabinet — crowding blocks airflow and lets the temperature drift upwards. About twelve months from purchase is a reasonable working limit, borrowed from frozen prepared meals rather than published for dumplings, and a commercial bag's own printed date is the better guide. Home-frozen dumplings dry out and crack long before twelve months because they are not packed under vacuum, so double-bag them and press the air out.",
+    "thawing": "The best answer is not to thaw at all — boil or pan-fry dumplings straight from frozen, adding a couple of minutes. If a recipe needs them thawed, thaw in the fridge and cook the same day, or use a sealed bag in cold water changed every 30 minutes. Never thaw on the counter, and never refreeze thawed raw dumplings.",
+    "spoilage": [
+      "Thick white frost inside the bag, or dumplings frozen together into a solid lump — a sign they have thawed and refrozen",
+      "Dry, greyish, leathery patches on the wrappers, which is freezer burn",
+      "Wrappers cracked open with the filling exposed and dried out",
+      "A rancid or off smell when the bag is opened, or a sour smell after cooking"
+    ],
+    "tips": [
+      "Freeze home-made dumplings spaced apart on a tray first, then bag them once solid.",
+      "Double-bag home-frozen dumplings and press the air out; they dry far faster than commercial ones.",
+      "Label the bag with the date and the filling.",
+      "Keep them at the back of the freezer, not in the door where the temperature swings."
+    ],
+    "faq": [
+      {"q": "How long do frozen dumplings keep?", "a": "Follow the printed date on a commercial bag. Without one, about twelve months at −18 °C (0 °F) is a reasonable working limit, borrowed from frozen prepared meals."},
+      {"q": "Do you need to thaw frozen dumplings before cooking?", "a": "No, and it is better not to. Boil or pan-fry them straight from frozen, allowing a couple of extra minutes."},
+      {"q": "Can you refreeze dumplings that have thawed?", "a": "Not raw ones. Cook them first and you may freeze the cooked dumplings; refreezing thawed raw dumplings is not safe."},
+      {"q": "What is the white frosty patch on my dumplings?", "a": "Freezer burn — moisture that has sublimated off the surface. It is not unsafe, but those patches will be dry and tough, and heavy frost suggests the bag has thawed and refrozen at some point."}
+    ]
+  },
+  "zh": {
+    "name": "冷凍水餃",
+    "aliases": ["冷凍餃子", "生水餃", "冷凍煎餃", "手工冷凍水餃", "冷凍餛飩"],
+    "summary": "冷凍水餃就是整顆凍硬的生水餃，不論是超市買的還是自己包的都算。保存在 −18°C 以下，約十二個月是合理的參考上限——這個數字是比照冷凍調理食品而來；市售包裝上如有印製日期，請以該日期為準。",
+    "pantry": "冷凍水餃完全沒有常溫保存這回事。裡面是生肉或生海鮮加生麵皮，表面一退冰，外層就落在危險溫度帶裡，中心卻還是硬的。採買時最後才拿、盡快回家，而且除非今天就要煮，否則請直接放冷凍而不是冷藏。",
+    "fridge": "冰箱冷藏室是用來解凍的，不是用來保存的。若一定要解凍，請放冷藏室並於當天煮完。千萬不要放在室溫解凍：表面會升到危險溫度帶，中心卻還結著冰，這正是家庭解凍最常被提醒的風險。另外兩種可接受的方式是：裝密封袋泡冷水、每 30 分鐘換水，或用微波解凍後立刻烹調。已經解凍的生水餃，絕對不要再冷凍。",
+    "freezer": "請把整袋放在 −18°C 以下、冷凍庫深處而不是門邊，也不要把冷凍庫塞滿——塞太滿會阻礙冷空氣循環，讓溫度慢慢升高。從購買日起約十二個月是合理的參考上限，這是比照冷凍調理食品而來，並非針對水餃公布的數字；市售包裝自己印的日期才是更好的依據。自己包的水餃因為沒有真空包裝，遠遠撐不到十二個月就會乾掉裂開，所以請套兩層袋子並把空氣壓出來。",
+    "thawing": "最好的答案是根本不要解凍——直接從冷凍狀態下水煮或下鍋煎，多抓個兩分鐘即可。食譜若需要解凍，請放冷藏室並當天煮完，或裝密封袋泡冷水、每 30 分鐘換水。絕對不要放室溫解凍，解凍過的生水餃也絕對不要再冷凍。",
+    "spoilage": [
+      "袋內結了厚厚的白霜，或水餃凍成一整坨——代表中途退冰又重新結凍過",
+      "餃皮上出現乾燥發灰、像皮革的斑塊，也就是凍燒",
+      "餃皮裂開、內餡外露而且已經乾掉",
+      "拆袋時聞到油耗味或異味，或煮好後有酸味"
+    ],
+    "tips": [
+      "自己包的水餃請先在托盤上分開排好凍硬，再裝袋。",
+      "自家冷凍的請套兩層袋子並壓出空氣，它比市售品乾得快很多。",
+      "在袋子上標註日期和內餡口味。",
+      "放在冷凍庫深處，不要放門邊，門邊溫度變化最大。"
+    ],
+    "faq": [
+      {"q": "冷凍水餃可以放多久？", "a": "市售包裝請依上面印的日期。沒有日期時，−18°C 以下約十二個月是合理上限，這是比照冷凍調理食品而來。"},
+      {"q": "冷凍水餃要先解凍再煮嗎？", "a": "不用，而且最好不要。直接從冷凍下水煮或下鍋煎，多煮個兩分鐘就好。"},
+      {"q": "解凍過的水餃可以再冷凍嗎？", "a": "生的不行。請先煮熟，煮熟的水餃可以冷凍；已解凍的生水餃再冷凍並不安全。"},
+      {"q": "水餃上白白一層是什麼？", "a": "那是凍燒，表面水分昇華造成的。它本身不是安全問題，但那些地方會又乾又柴；如果霜很厚，代表這袋中途可能退冰又重凍過。"}
+    ]
+  }
+}

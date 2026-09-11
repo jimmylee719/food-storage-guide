@@ -1,0 +1,57 @@
+{
+  "slug": "gochujang",
+  "en": {
+    "name": "Gochujang",
+    "aliases": ["Korean chilli paste", "red pepper paste", "hot pepper paste", "gochoojang"],
+    "summary": "Gochujang is a fermented Korean paste of chilli, glutinous rice and soybean, sweet and salty at once. An unopened tub keeps 12–24 months in a cool dark cupboard to its printed date; once opened it goes in the fridge, where about 6–12 months is a sensible working limit.",
+    "pantry": "An unopened tub belongs in a cool dark cupboard, away from the stove, and keeps 12–24 months to the date on the label. What preserves gochujang is the salt, the sugar and the low water activity that come with it, not the cold — salt and low water activity are recognised preservation barriers in their own right, the same way acidity is. That is why an unopened tub is perfectly happy on a shelf, and why a jar that has been out for an afternoon has not become dangerous.",
+    "fridge": "Refrigerate once opened, at 4 °C (40 °F) or below. About 6–12 months is a reasonable working limit — a figure borrowed from miso, the nearest fermented salted paste with a published number, shortened at the low end because gochujang carries more sugar and moisture than most miso. No food safety agency publishes a home storage time for it. Smooth the surface flat after each use, lay the plastic disc or a piece of cling film directly onto the paste so no air pocket sits on top, and always use a clean dry spoon. The colour darkens from bright red towards brick over the months; that is oxidation, not spoilage.",
+    "freezer": "There is no freezer timeline for gochujang and freezing it is unnecessary. The sugar and salt content means it never freezes solid anyway — it just goes stiff — and a refrigerated tub already lasts most of a year. If you genuinely bought too much, portion it into an ice-cube tray and freeze the cubes; nothing is harmed, but you are solving a problem the paste does not have.",
+    "thawing": null,
+    "spoilage": [
+      "Fuzzy mould of any colour on the surface",
+      "An alcoholic, solvent or yeasty smell instead of the usual sweet-savoury one",
+      "Bubbling or fizzing that pushes the lid up",
+      "Liquid separating out and turning cloudy or ropy"
+    ],
+    "tips": [
+      "Always use a clean dry spoon; water in the tub is how a jar is lost.",
+      "Press the plastic disc back onto the surface after each use.",
+      "Write the opening date on the lid.",
+      "Darkening colour is oxidation, not spoilage — stir it and carry on."
+    ],
+    "faq": [
+      {"q": "Does gochujang need to be refrigerated?", "a": "Unopened, no — a cool dark cupboard is fine to the printed date. Once opened, refrigerate it at 4 °C (40 °F) or below."},
+      {"q": "How long does gochujang last after opening?", "a": "No agency publishes a figure. About 6–12 months refrigerated is a sensible working limit, borrowed from miso and shortened a little because gochujang is sweeter and wetter."},
+      {"q": "My gochujang has gone darker — is it bad?", "a": "No. Gochujang darkens from bright red to brick red as it oxidises. Discard it only for fuzzy mould, an alcoholic smell, or bubbling that lifts the lid."},
+      {"q": "Can you freeze gochujang?", "a": "There is no timeline for it and no need. The salt and sugar stop it freezing solid, and a refrigerated tub already keeps the better part of a year."}
+    ]
+  },
+  "zh": {
+    "name": "韓式辣椒醬",
+    "aliases": ["苦椒醬", "고추장", "韓國辣醬", "辣椒醬（韓式）"],
+    "summary": "韓式辣椒醬是用辣椒、糯米和黃豆發酵而成的醬料，同時帶甜與鹹。未開封放在陰涼避光的櫥櫃可放 12～24 個月，以包裝日期為準；開封後改冷藏，約 6～12 個月是合理的參考上限。",
+    "pantry": "未開封的辣椒醬請放在陰涼避光的櫥櫃裡、遠離爐火，可放 12～24 個月至標示日期。真正在保存它的是鹽、糖和隨之而來的低水活性，而不是低溫——鹽與低水活性本身就是被認可的保存屏障，和酸度一樣。這也是為什麼未開封的罐子放在架上完全沒問題，以及為什麼一罐在桌上放了一個下午的醬並沒有因此變得危險。",
+    "fridge": "開封後請冷藏，維持 4°C 以下。約 6～12 個月是合理的工作上限——這個數字是比照味噌而來（味噌是最接近、又有公布數字的發酵鹹味醬），下限稍微往前縮，因為辣椒醬的糖分和水分都比多數味噌高。沒有任何食品安全單位公布它的家庭保存期限。每次用完把表面抹平，把塑膠圓片或一張保鮮膜直接貼在醬面上，別讓上頭留著空氣層，而且一定要用乾淨的乾湯匙。顏色會在數個月間由鮮紅轉為磚紅，那是氧化，不是腐敗。",
+    "freezer": "韓式辣椒醬沒有冷凍保存期限，也沒有冷凍的必要。含糖含鹽高，它本來就凍不成硬塊，頂多變得比較硬；而冷藏的一罐本來就能放上大半年。真的買太多的話，可以分裝進製冰盒冷凍成小塊，這不會有什麼損害，但你解決的是一個它本來就沒有的問題。",
+    "thawing": null,
+    "spoilage": [
+      "表面長出任何顏色的毛狀黴",
+      "聞起來有酒味、溶劑味或酵母味，而不是原本的甜鹹醬香",
+      "冒泡發脹，甚至把蓋子頂起來",
+      "分離出的液體變得混濁或牽絲"
+    ],
+    "tips": [
+      "一定要用乾淨的乾湯匙；罐內進水就是整罐報銷的原因。",
+      "每次用完把塑膠圓片壓回醬面上。",
+      "在蓋子上寫下開封日期。",
+      "顏色變深是氧化不是壞掉，拌一拌照常使用。"
+    ],
+    "faq": [
+      {"q": "韓式辣椒醬一定要冷藏嗎？", "a": "未開封不用，放陰涼避光的櫥櫃到標示日期即可。開封後請冷藏，維持 4°C 以下。"},
+      {"q": "韓式辣椒醬開封後可以放多久？", "a": "沒有單位公布數字。冷藏約 6～12 個月是合理參考，這是比照味噌而來，並因為它較甜較濕而稍微縮短。"},
+      {"q": "辣椒醬顏色變深了還能吃嗎？", "a": "可以。它會從鮮紅氧化成磚紅色。只有長出毛狀黴、聞到酒味，或冒泡頂蓋時才需要丟棄。"},
+      {"q": "韓式辣椒醬可以冷凍嗎？", "a": "沒有對應的期限，也沒有必要。鹽和糖讓它凍不硬，而冷藏本來就能放大半年。"}
+    ]
+  }
+}

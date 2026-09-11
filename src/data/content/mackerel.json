@@ -1,0 +1,91 @@
+{
+  "slug": "mackerel",
+  "en": {
+    "name": "Mackerel",
+    "aliases": [
+      "Atlantic mackerel",
+      "Spanish mackerel",
+      "saba",
+      "chub mackerel"
+    ],
+    "summary": "Mackerel is a small oily fish with dark, strongly flavoured flesh that spoils faster than almost any other fish on the counter. Fresh mackerel keeps only 1–2 days in the fridge from the day of purchase and 2–3 months at −18 °C (0 °F) for best quality.",
+    "pantry": "Mackerel must not sit at room temperature at all. It is the classic scombroid fish: its flesh is rich in histidine, and bacteria growing in warmth convert that into histamine, which cooking, grilling and freezing cannot destroy. Two hours out of the cold is the outside limit, one hour if it is above 32 °C (90 °F). Fish that has been warm at any point in its journey can be unsafe even though it looks and smells acceptable.",
+    "fridge": "Keep mackerel at 4 °C (40 °F) or below on the coldest shelf, on a plate with a loose cover so it is not swimming in its own liquid. It is good for 1–2 days from the day you bought it. Gutting and rinsing it as soon as you get home helps, because the gut enzymes in an oily fish break the belly flesh down quickly. Ice under the fish, with the meltwater poured off, buys you the best of that short window.",
+    "freezer": "Freeze mackerel the day you buy it unless you are cooking it straight away. Gut it, rinse, pat dry, then wrap each fish or fillet tightly in film and again in foil or a freezer bag with the air pressed out — mackerel's high oil content goes rancid fast where air can reach it. Safe indefinitely at −18 °C (0 °F); quality holds 2–3 months, less than for a lean fish like cod.",
+    "thawing": "Thaw mackerel in the fridge overnight, or in a sealed bag under cold running water. Never thaw it on the counter, and never in warm water. Cook it within a day of thawing and do not refreeze it raw.",
+    "spoilage": [
+      "Sour, sharply fishy or ammonia smell rather than a clean briny one",
+      "Eyes sunken and cloudy, gills brown or grey instead of bright red",
+      "Soft belly flesh, or a body that droops limply when held by the head",
+      "A peppery, tingling taste — stop eating at once, this points to histamine"
+    ],
+    "tips": [
+      "Buy mackerel the day you plan to cook it; it does not reward waiting.",
+      "Ask the fishmonger to gut it, or do it yourself as soon as you get home.",
+      "Salting mackerel lightly an hour before grilling firms the flesh and improves flavour, but it does not extend safe storage.",
+      "Pack it on ice for the trip home if the weather is warm."
+    ],
+    "faq": [
+      {
+        "q": "How long does fresh mackerel last in the fridge?",
+        "a": "Only 1–2 days from the day you bought it, at 4 °C (40 °F) or below. Gut it on arrival and keep it as cold as your fridge will run."
+      },
+      {
+        "q": "Can you freeze mackerel?",
+        "a": "Yes. Gut, dry and wrap it airtight, then freeze at −18 °C (0 °F). It stays safe indefinitely, but the oil means quality falls off after 2–3 months."
+      },
+      {
+        "q": "How can you tell if mackerel has gone bad?",
+        "a": "Cloudy sunken eyes, dull brown gills, a soft belly and a sour or ammonia smell. Any peppery tingle in the mouth means you should stop eating immediately."
+      },
+      {
+        "q": "Why is mackerel more risky than white fish?",
+        "a": "Its dark flesh is high in histidine, which turns into histamine if the fish is kept too warm. Lean white fish like cod does not carry that particular risk."
+      }
+    ]
+  },
+  "zh": {
+    "name": "鯖魚",
+    "aliases": [
+      "青花魚",
+      "花飛",
+      "薄鹽鯖魚",
+      "白腹鯖"
+    ],
+    "summary": "鯖魚是典型的青背紅肉魚，油脂多、風味濃，也是魚攤上最不耐放的魚之一。生鯖魚從購買當天算起冷藏只能放 1～2 天，−18°C 冷凍則以 2～3 個月內食用風味最好。",
+    "pantry": "鯖魚完全不能放室溫。它是鯖科魚類的代表：肉中組胺酸含量高，一旦回溫，細菌就會把它轉成組織胺，而煮、烤、冷凍都無法破壞組織胺。離開低溫最多 2 小時，氣溫超過 32°C 時只有 1 小時。一旦中途回過溫，即使外觀和氣味看起來沒問題，也可能已經不安全。",
+    "fridge": "冷藏保持 4°C 以下，放在最冷的一層，下面墊盤子、上面鬆蓋，不要讓魚泡在血水裡。從購買日起可放 1～2 天。回家後盡快去內臟、沖洗乾淨會差很多，因為油脂魚的內臟酵素會很快把腹部的肉分解掉。若能在魚身下鋪冰、並隨時倒掉融水，這短短的保存期會用得最漂亮。",
+    "freezer": "不是當天要煮就當天冷凍。去內臟、沖洗、擦乾後，一尾或一片先用保鮮膜緊貼包好，再包鋁箔或裝冷凍袋擠出空氣——鯖魚油脂高，接觸空氣很快就會有油耗味。放 −18°C 安全上可無限期保存，但風味只撐 2～3 個月，比鱈魚這類白身魚短得多。",
+    "thawing": "解凍請放冷藏室退冰一晚，或裝密封袋泡冷水。絕對不要放室溫、也不要泡溫水。解凍後一天內煮完，生的不要再回冷凍。",
+    "spoilage": [
+      "有酸味、刺鼻腥味或阿摩尼亞味，而不是清爽的海水味",
+      "眼睛混濁凹陷，魚鰓由鮮紅轉為褐色或灰色",
+      "腹部的肉變軟爛，或抓住頭部時整尾軟垂下來",
+      "吃起來有胡椒般的刺麻感——請立刻停止食用，這是組織胺的徵兆"
+    ],
+    "tips": [
+      "當天要煮再買，鯖魚放不住。",
+      "請魚販代為處理內臟，或回家後立刻自己清掉。",
+      "烤之前一小時抹薄鹽可以讓肉質緊實、去腥提味，但這不會延長安全保存期限。",
+      "天氣熱時用保冷袋加冰塊帶回家。"
+    ],
+    "faq": [
+      {
+        "q": "鯖魚放冰箱可以放多久？",
+        "a": "4°C 以下冷藏，從購買當天算起只有 1～2 天。買回來先去內臟，冰箱溫度盡量調低。"
+      },
+      {
+        "q": "鯖魚可以冷凍嗎？",
+        "a": "可以。去內臟、擦乾、密封包好，放 −18°C 冷凍。安全上可放很久，但因為油脂高，2～3 個月後風味會明顯下滑。"
+      },
+      {
+        "q": "怎麼判斷鯖魚不新鮮？",
+        "a": "看眼睛混濁凹陷、魚鰓變褐、腹部軟爛，聞起來有酸味或阿摩尼亞味。入口若有刺麻感請立刻停止食用。"
+      },
+      {
+        "q": "為什麼鯖魚比白肉魚更需要小心？",
+        "a": "因為紅色魚肉的組胺酸含量高，保存溫度一高就會轉成組織胺。鱈魚這類白身魚沒有這個特定風險。"
+      }
+    ]
+  }
+}

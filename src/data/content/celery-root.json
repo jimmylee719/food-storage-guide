@@ -1,0 +1,57 @@
+{
+  "slug": "celery-root",
+  "en": {
+    "name": "Celery root",
+    "aliases": ["celeriac", "knob celery", "turnip-rooted celery"],
+    "summary": "Celery root, or celeriac, is the gnarled, knobbly swollen stem base of a celery variety grown for the root rather than the stalks. Refrigerated at 4 °C (40 °F) or below it keeps about a week, and its rough skin hides more soil and more waste than it looks.",
+    "pantry": "Celery root does not belong on a warm counter. It is a dense root and will not collapse overnight, but it loses water steadily in dry warm air and goes spongy and hollow at the centre, and the crevices in the skin hold soil and moisture together, which is where rot starts. There is no room-temperature figure for it here, and none should be assumed. Refrigerate it unwashed with the soil still on.",
+    "fridge": "Store celery root unwashed in the crisper at 4 °C (40 °F) or below, wrapped loosely in a perforated bag or a damp cloth, where it keeps about a week. If it came with leafy tops, cut them off at once — they keep drawing water out of the root. Do not peel it until you are ready to cook; the cut surface browns quickly, so drop peeled pieces into water with a squeeze of lemon. Peel generously with a knife rather than a peeler: the outer layer is fibrous and the roots in the crevices never soften.",
+    "freezer": "No freezer timeline exists for celery root in our data, so we do not give one. It can be frozen — peel, dice, blanch for 3 minutes, chill, drain and bag flat at −18 °C (0 °F) — and anything at that temperature stays safe indefinitely, but no quality window has been published. The better answer for a glut is to cook it first: celeriac purée and celeriac soup both freeze well and keep far more of what you liked about it than raw cubes do.",
+    "thawing": "Add frozen celery root straight to soups and stews. If a recipe needs it thawed, thaw in the fridge and drain it well; thawed cubes are soft and will not roast or fry to a crisp edge.",
+    "spoilage": [
+      "A spongy, hollow or brown centre when you cut it open",
+      "Soft, wet or mouldy patches in the crevices of the skin",
+      "A root that feels light for its size and gives when squeezed",
+      "A sour or musty smell rather than a clean celery one"
+    ],
+    "tips": [
+      "Choose roots that feel heavy for their size with as few deep crevices as possible.",
+      "Cut the leafy tops off the day you buy it.",
+      "Peel with a knife, taking a thick layer; a peeler leaves the fibrous outside behind.",
+      "Drop peeled pieces into lemon water — celeriac browns as fast as an apple."
+    ],
+    "faq": [
+      {"q": "How long does celery root last in the fridge?", "a": "About a week at 4 °C (40 °F) or below, stored unwashed in the crisper with the leafy tops removed."},
+      {"q": "Can you freeze celery root?", "a": "No published timeline exists, so we do not give one. Blanched cubes freeze safely at −18 °C (0 °F), but cooking it into a purée or soup and freezing that keeps more of the quality."},
+      {"q": "Do you have to peel celery root?", "a": "Yes. The outer layer is fibrous and the crevices hold soil that never washes fully clean. Take a thick layer off with a knife rather than using a peeler."},
+      {"q": "Why is my celeriac hollow in the middle?", "a": "It has lost water, either in the field or in storage. It is not unsafe if it smells clean, but cut the spongy centre out and expect less from the texture."}
+    ]
+  },
+  "zh": {
+    "name": "根芹菜",
+    "aliases": ["塊根芹", "芹菜根", "西芹根", "celeriac"],
+    "summary": "根芹菜是專門培育來吃根部的芹菜品種，可食用的其實是那顆凹凸不平、疙疙瘩瘩的肥大莖基。4°C 以下冷藏約可放一週；它粗糙的表皮藏著比看起來更多的泥土，削掉的比例也比想像中高。",
+    "pantry": "根芹菜不適合放在溫暖的檯面上。它是質地紮實的根莖，不會一夜垮掉，但在乾燥溫暖的空氣中會持續失水，中心變成海綿狀甚至中空；而表皮凹槽裡同時卡著泥土和水氣，腐爛就從那裡開始。這裡不提供常溫保存天數，也請不要自行推估。請帶土不清洗直接冷藏。",
+    "fridge": "不清洗，裝進打洞袋或用濕布鬆鬆包好，放在 4°C 以下的蔬果保鮮室，大約可放一週。如果附有葉子，請立刻切掉——葉子會持續把水分從根部抽走。要煮之前再削皮；切面褐變很快，削好請立刻泡進加了檸檬汁的水裡。削皮請用刀大方地削，不要用削皮器：外層纖維粗，凹槽裡的細根怎麼煮都不會軟。",
+    "freezer": "我們的資料裡沒有根芹菜的冷凍保存期限，所以不提供數字。它是可以冷凍的——去皮切丁、汆燙 3 分鐘、冰鎮瀝乾後平鋪裝袋放 −18°C——在該溫度下安全上可無限期保存，只是沒有公布的品質期限。真的買太多的話，更好的答案是先煮：根芹菜泥和根芹菜濃湯都很耐冷凍，保留下來的風味也比生丁多得多。",
+    "thawing": "冷凍根芹菜可以直接下湯或下燉鍋。食譜若需要解凍，請放冷藏室退冰並徹底瀝乾；解凍後的丁偏軟，烤或煎都不會有酥脆的邊。",
+    "spoilage": [
+      "切開後中心呈海綿狀、中空或發褐",
+      "表皮凹槽裡出現濕軟或發霉的區塊",
+      "整顆拿起來比看起來輕，捏下去會凹",
+      "聞起來有酸味或霉味，而不是乾淨的芹菜香"
+    ],
+    "tips": [
+      "挑拿起來有重量感、凹槽愈少愈好的。",
+      "買回來當天就把葉子切掉。",
+      "用刀厚削一層；削皮器會把纖維粗的外層留下來。",
+      "削好立刻泡檸檬水，根芹菜褐變的速度跟蘋果一樣快。"
+    ],
+    "faq": [
+      {"q": "根芹菜放冰箱可以放多久？", "a": "4°C 以下冷藏、不清洗、切掉葉子放在蔬果保鮮室，大約一週。"},
+      {"q": "根芹菜可以冷凍嗎？", "a": "沒有公布的冷凍期限，所以我們不給數字。汆燙後的丁放 −18°C 冷凍在安全上沒問題，但打成泥或煮成湯再冷凍，品質保留得更好。"},
+      {"q": "根芹菜一定要削皮嗎？", "a": "要。外層纖維粗，凹槽裡的泥土也洗不乾淨。請用刀厚削一層，不要用削皮器。"},
+      {"q": "根芹菜中間空空的還能吃嗎？", "a": "那是失水造成的，可能發生在田間或貯藏期間。只要氣味乾淨就不至於不安全，但請把海綿狀的中心挖掉，口感也別期待太高。"}
+    ]
+  }
+}

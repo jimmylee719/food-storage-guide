@@ -1,0 +1,57 @@
+{
+  "slug": "cassava-fresh-root",
+  "en": {
+    "name": "Cassava, fresh root",
+    "aliases": ["yuca", "manioc", "mandioca", "tapioca root", "cassava root"],
+    "summary": "Cassava is a starchy tropical root that must always be peeled and thoroughly cooked — never eaten raw. Fresh roots are highly perishable at room temperature, becoming unusable in three days or less, and last 1–2 weeks refrigerated at 0–5 °C. Peeled and prepared, they freeze for 1–2 months.",
+    "pantry": "Fresh cassava roots are highly perishable under ambient conditions and become unmarketable in three days or less. The failure is vascular streaking: blue-purple lines running through the flesh, worst at the cut end and at any break in the skin, and it moves fast. Cut a root across before cooking and discard it if it is streaked. Before anything else, though: cassava contains cyanogenic glycosides that break down into hydrogen cyanide, with bitter roots carrying as much as 400 mg per kg, and raw or inadequately cooked cassava causes cyanide poisoning. Peel it, cut it into small pieces, soak it in water and then boil it thoroughly; bitter varieties need prolonged soaking, or grating and fermenting, before they are cooked. Never eat cassava raw.",
+    "fridge": "Cassava is chilling sensitive but tolerates 0–5 °C (32–41 °F) with minimal symptoms, provided it is used as soon as it comes out of storage. Wax-coated import roots hold over thirty days at that temperature commercially, but an unwaxed root in a home fridge loses water fast, so wrap it in plastic or a damp cloth and treat one to two weeks as the limit. Check the flesh each time you cut into a root rather than assuming the last one was representative.",
+    "freezer": "Freezing is the practical way to keep cassava past a fortnight, and 1–2 months at −18 °C (0 °F) is the working limit. Peel it fully, cut it into chunks, remove the woody central core, and freeze it either raw or — better — boiled first and cooled. Do not freeze it in the skin: the peel is where much of the cyanogenic content sits, and it is also the layer you most need to remove while you can still see what you are doing.",
+    "thawing": "Cook frozen cassava from frozen, dropping the chunks straight into boiling water. Never thaw it on the counter. Whether it was frozen raw or cooked, it must end up thoroughly boiled before it is eaten.",
+    "spoilage": [
+      "Blue-purple or dark streaks running through the flesh when cut across",
+      "Soft, wet or mouldy patches, especially at the cut ends",
+      "Flesh gone grey or brown rather than clean white",
+      "A sour or fermented smell from the cut surface"
+    ],
+    "tips": [
+      "Buy roots with intact, unbroken skin and freshly cut, pale ends.",
+      "Cut every root across before cooking and check the flesh for streaking.",
+      "Peel thickly — the whole pink-brown layer under the bark comes off, not just the outer skin.",
+      "Always boil cassava; roasting or frying alone does not reliably remove the hazard."
+    ],
+    "faq": [
+      {"q": "How long does fresh cassava last?", "a": "Three days or less at room temperature, and 1–2 weeks refrigerated at 0–5 °C wrapped to stop it drying. Frozen after peeling and cutting, 1–2 months."},
+      {"q": "Can you eat cassava raw?", "a": "No, never. It contains cyanogenic glycosides that release hydrogen cyanide, and raw or undercooked cassava causes cyanide poisoning. Peel, cut small, soak and boil thoroughly."},
+      {"q": "What are the blue streaks inside my cassava?", "a": "Vascular streaking, the way cassava deteriorates once harvested. It starts at the cut ends and at breaks in the skin. Discard a streaked root."},
+      {"q": "Can you freeze cassava?", "a": "Yes, for 1–2 months at −18 °C (0 °F). Peel it, remove the woody core and cut it into chunks first; freezing it in the skin is not acceptable."}
+    ]
+  },
+  "zh": {
+    "name": "木薯",
+    "aliases": ["樹薯", "木薯根", "樹薯根", "yuca", "mandioca"],
+    "summary": "木薯是澱粉質的熱帶根莖，一定要去皮並徹底煮熟，絕對不能生吃。新鮮木薯在常溫下極易敗壞，三天內就會不堪使用；在 0～5°C 冷藏可放 1～2 週，去皮處理後冷凍則可放 1～2 個月。",
+    "pantry": "新鮮木薯在常溫下極易敗壞，三天或更短的時間內就會失去商品價值。它的劣化方式是「維管束褐變」：藍紫色的條紋沿著薯肉蔓延，切口和表皮破損處最嚴重，而且進展很快。烹調前請把根橫切檢查，有條紋就丟掉。但在這些之前，更重要的是：木薯含有氰苷，分解後會產生氰化氫，苦味品種每公斤可高達 400 毫克，生食或未煮透的木薯會造成氰化物中毒。請去皮、切成小塊、浸泡在水中，然後徹底煮沸；苦味品種還需要長時間浸泡，或刨絲發酵後再烹調。木薯絕對不能生吃。",
+    "fridge": "木薯對低溫敏感，但只要一離開貯藏就馬上使用，在 0～5°C 下症狀輕微、可以接受。商業上打蠟的進口薯在該溫度下可以放超過三十天，但沒打蠟的薯在家用冰箱裡失水很快，所以請用保鮮膜或濕布包好，並以一到兩週為限。每次切開新的一根都要重新檢查薯肉，不要因為上一根沒事就假設這一根也沒事。",
+    "freezer": "要保存超過兩週，冷凍是實際可行的做法，−18°C 下 1～2 個月是工作上限。請徹底去皮、切塊、挖掉中間的木質芯，然後生凍，或者——更好的做法——先煮熟放涼再冷凍。不要連皮冷凍：皮下那層正是氰苷含量最高的地方，也是你最該趁看得清楚時先處理掉的部分。",
+    "thawing": "冷凍木薯請不解凍，直接把薯塊丟進滾水裡煮。絕對不要在室溫解凍。不論當初是生凍還是熟凍，吃之前都必須確實煮透。",
+    "spoilage": [
+      "橫切後薯肉中出現藍紫色或深色條紋",
+      "出現濕軟或發霉的區塊，尤其是切口處",
+      "薯肉由潔白轉為灰色或褐色",
+      "切面散發酸味或發酵味"
+    ],
+    "tips": [
+      "挑表皮完整無破損、切口新鮮淡色的。",
+      "每一根在烹調前都橫切檢查薯肉有沒有條紋。",
+      "削皮要削厚——外層樹皮下那整層粉褐色都要去掉，不是只削表皮。",
+      "一定要用水煮；只用烤的或炸的，無法可靠地去除危害。"
+    ],
+    "faq": [
+      {"q": "新鮮木薯可以放多久？", "a": "常溫三天或更短；包好冷藏於 0～5°C 可放 1～2 週。去皮切塊後冷凍則是 1～2 個月。"},
+      {"q": "木薯可以生吃嗎？", "a": "絕對不行。它含有氰苷，會釋出氰化氫，生食或未煮透會造成氰化物中毒。請去皮、切小塊、浸泡後徹底煮沸。"},
+      {"q": "木薯裡面的藍色條紋是什麼？", "a": "那是維管束褐變，木薯採收後的劣化方式，從切口和表皮破損處開始。有條紋的整根丟掉。"},
+      {"q": "木薯可以冷凍嗎？", "a": "可以，−18°C 下 1～2 個月。請先去皮、挖掉木質芯、切塊；連皮冷凍是不被接受的做法。"}
+    ]
+  }
+}

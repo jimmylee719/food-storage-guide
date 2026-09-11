@@ -1,0 +1,91 @@
+{
+  "slug": "sauerkraut-fresh",
+  "en": {
+    "name": "Sauerkraut, live fermented",
+    "aliases": [
+      "raw sauerkraut",
+      "unpasteurised sauerkraut",
+      "live kraut",
+      "fermented cabbage"
+    ],
+    "summary": "Live sauerkraut is cabbage fermented in its own brine by lactic bacteria and never heat-treated, so the culture is still working. Fermenting takes 3–6 weeks at room temperature depending on how warm it is; once fully fermented it keeps 4–6 months tightly covered in the fridge.",
+    "pantry": "A crock at room temperature is fermenting, not storing, and this is the only stage that belongs out of the fridge. The recommendation is 21–24 °C (70–75 °F) while fermenting, where kraut is fully fermented in about 3–4 weeks; at 15–18 °C (60–65 °F) it takes 5–6 weeks; above about 24 °C the kraut may go soft. Keep the cabbage under the brine the whole time and skim the surface. Do not cut back the salt: the salt is not seasoning, it is what favours the lactic bacteria over everything else, and a low-salt batch is a different and much less reliable proposition.",
+    "fridge": "Once it is fully fermented, move it to the fridge tightly covered, where 4–6 months is the published figure for fully fermented pickles kept in their original container — provided they are refrigerated and surface scum and moulds are removed regularly. Check the jar a couple of times a week and skim. The kraut goes on souring slowly and softening; it is still fermenting, just very slowly, so it will not taste the same in month five as it did in week one. That is expected, not spoilage. Keep the cabbage under the brine, and always use a clean dry utensil.",
+    "freezer": "There is no freezer timeline for live sauerkraut, and freezing defeats the purpose. The live lactic culture is the difference between this and a jar of pasteurised kraut, and freezing kills most of it; the cabbage also softens badly. The published alternative for longer storage is canning — but heat-processing turns it into the other product entirely, shelf-stable and no longer alive. Choose one or the other rather than hoping the freezer gives you both.",
+    "thawing": null,
+    "spoilage": [
+      "Fuzzy mould in blue, green, black or pink on the surface",
+      "A soft, slimy or ropy texture in the cabbage or the brine",
+      "A rotten or putrid smell, quite different from a clean sharp sourness",
+      "Cabbage sitting above the brine and drying or discolouring"
+    ],
+    "tips": [
+      "Keep the cabbage under the brine at every stage; that is the single rule that matters most.",
+      "Skim the surface a couple of times a week while it is in the fridge.",
+      "Do not reduce the salt in a fermentation recipe — it is doing a job, not seasoning.",
+      "A clean dry fork every time; a wet or used utensil is how a jar is lost."
+    ],
+    "faq": [
+      {
+        "q": "How long does live sauerkraut keep?",
+        "a": "4–6 months tightly covered in the fridge once fully fermented, with surface scum and mould skimmed off regularly."
+      },
+      {
+        "q": "How long does sauerkraut take to ferment?",
+        "a": "About 3–4 weeks at 21–24 °C (70–75 °F), and 5–6 weeks at 15–18 °C (60–65 °F). Above about 24 °C the kraut may go soft."
+      },
+      {
+        "q": "Can you freeze live sauerkraut?",
+        "a": "No timeline exists and it defeats the point — freezing kills most of the live culture and softens the cabbage. Canning is the published route to longer storage, but that makes it a different product."
+      },
+      {
+        "q": "Is the white film on my sauerkraut dangerous?",
+        "a": "A thin white film is usually a yeast, not a true mould, and it forms where cabbage sits above the brine. Skim it off and push everything back under. Fuzzy coloured mould is a different matter and means discard."
+      }
+    ]
+  },
+  "zh": {
+    "name": "生酸菜（德式）",
+    "aliases": [
+      "活菌酸菜",
+      "未殺菌酸菜",
+      "德式酸菜",
+      "發酵高麗菜"
+    ],
+    "summary": "生酸菜是高麗菜在自身鹽水中由乳酸菌發酵而成、完全未經加熱處理的產品，菌還活著、也還在工作。發酵依溫度需要 3～6 週；完全發酵後密封冷藏可放 4～6 個月。",
+    "pantry": "放在室溫的發酵罐是在「發酵」而不是在「保存」，這也是唯一該離開冰箱的階段。建議的發酵溫度是 21～24°C，在這個溫度下大約 3～4 週完成；15～18°C 則需要 5～6 週；超過約 24°C，酸菜可能會變軟。整個過程中高麗菜都必須壓在鹽水底下，並隨時撈掉表面的浮渣。千萬不要減鹽：鹽在這裡不是調味，而是讓乳酸菌壓過其他微生物的關鍵，低鹽的一批是完全不同、而且可靠度低很多的東西。",
+    "fridge": "完全發酵後請密封移入冰箱。公布的數字是：完全發酵的醃漬品保存在原容器中冷藏可放 4～6 個月，前提是持續冷藏並定期撈除表面浮渣與黴。請每週檢查兩次並撈一撈。酸菜會繼續緩慢變酸、質地也會變軟；它還在發酵，只是非常慢，所以第五個月的味道不會和第一週一樣。那是可以預期的變化，不是腐敗。請讓菜一直壓在鹽水底下，並永遠使用乾淨的乾器具。",
+    "freezer": "生酸菜沒有冷凍保存期限，而且冷凍違背了它的意義。活的乳酸菌正是它和殺菌罐裝酸菜的差別，而冷凍會殺掉大部分的菌；高麗菜也會嚴重軟化。要延長保存，公布的替代方案是裝罐殺菌——但加熱處理之後它就變成另一種產品了：常溫可存放，也不再是活的。請在兩者之間選一個，而不是期待冷凍庫兩邊都給你。",
+    "thawing": null,
+    "spoilage": [
+      "表面長出藍、綠、黑或粉紅色的毛狀黴",
+      "菜或鹽水變得軟爛、黏滑或牽絲",
+      "出現腐臭味，那和乾淨銳利的酸味完全不同",
+      "高麗菜露出鹽水之上並開始乾掉或變色"
+    ],
+    "tips": [
+      "每個階段都讓高麗菜壓在鹽水底下，這是最重要的一條規則。",
+      "冷藏期間每週撈兩次表面浮渣。",
+      "不要減少發酵配方裡的鹽——它有實際功能，不是調味。",
+      "每次都用乾淨的乾叉子；濕的或用過的器具就是一罐酸菜的死因。"
+    ],
+    "faq": [
+      {
+        "q": "生酸菜可以放多久？",
+        "a": "完全發酵後密封冷藏 4～6 個月，並定期撈除表面浮渣與黴。"
+      },
+      {
+        "q": "酸菜要發酵多久？",
+        "a": "21～24°C 約 3～4 週；15～18°C 則要 5～6 週。超過約 24°C，酸菜可能會變軟。"
+      },
+      {
+        "q": "生酸菜可以冷凍嗎？",
+        "a": "沒有對應的期限，而且冷凍違背它的意義——會殺掉大部分活菌，也會讓高麗菜軟化。公布的長期保存方式是裝罐殺菌，但那會變成另一種產品。"
+      },
+      {
+        "q": "酸菜表面的白膜危險嗎？",
+        "a": "薄薄一層白膜通常是酵母而不是真正的黴，長在露出鹽水的部分。撈掉、把菜壓回鹽水底下即可。若是帶顏色的毛狀黴就不一樣了，那要整罐丟棄。"
+      }
+    ]
+  }
+}

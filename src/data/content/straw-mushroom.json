@@ -1,0 +1,91 @@
+{
+  "slug": "straw-mushroom",
+  "en": {
+    "name": "Straw mushroom",
+    "aliases": [
+      "paddy straw mushroom",
+      "volvariella",
+      "fukurotake",
+      "straw mushrooms"
+    ],
+    "summary": "Fresh straw mushrooms are the small egg-shaped buttons still enclosed in their veil, and they are notoriously short-lived — about 1–3 days refrigerated. They are also damaged by cold, which makes them one of the few vegetables the fridge actively harms.",
+    "pantry": "Straw mushrooms should not be left at room temperature either, but the reason they are difficult is unusual: they are a tropical species and are actually damaged by cold storage below about 10 °C, which turns them grey and watery. So neither the counter nor a cold fridge suits them, and there is no room-temperature figure to quote. The honest answer is that this is a mushroom you buy on the day you cook it.",
+    "fridge": "About 1–3 days is the working limit — a figure borrowed from mushrooms generally and shortened, because this species is chilling-sensitive as well as perishable. Use the least cold part of the fridge, keep them dry in a paper bag, and accept that a domestic fridge is colder than they would like. Buy them the day you cook them; otherwise buy the canned ones, which are what most kitchens outside the tropics use anyway and which are a perfectly good product in their own right.",
+    "freezer": "There is no freezer timeline for fresh straw mushrooms and freezing them raw is a poor idea. They are already fragile and full of water, and a mushroom that suffers at 5 °C is not going to reward −18 °C: what thaws is grey and collapsed. If you need straw mushrooms to keep, the canned ones are the answer the market has already settled on. Cook fresh ones the day you get them.",
+    "thawing": null,
+    "spoilage": [
+      "Caps gone grey and watery — often a sign of cold damage rather than age",
+      "The veil split and the cap opened out, which means they are past the button stage",
+      "A slimy film, or soft dark patches on what should be firm flesh",
+      "A sour or ammonia smell instead of a clean, faintly sweet one"
+    ],
+    "tips": [
+      "Buy them on the day you will cook them; nothing you do at home will extend them much.",
+      "Choose tight, unopened buttons that feel firm and dry.",
+      "Use the least cold part of the fridge — the cold hurts this species.",
+      "Keep canned straw mushrooms in the cupboard as the practical everyday option."
+    ],
+    "faq": [
+      {
+        "q": "How long do fresh straw mushrooms last?",
+        "a": "Only about 1–3 days refrigerated, and the fridge itself does them no favours. Buy them on the day you cook them."
+      },
+      {
+        "q": "Why do straw mushrooms go grey in the fridge?",
+        "a": "They are a tropical species and take chilling injury below about 10 °C, which turns them grey and watery. That is cold damage, not ordinary ageing."
+      },
+      {
+        "q": "Can you freeze straw mushrooms?",
+        "a": "No timeline exists and it is a poor idea. A mushroom that suffers at fridge temperature will not survive freezing; use canned straw mushrooms instead."
+      },
+      {
+        "q": "Are canned straw mushrooms as good as fresh?",
+        "a": "They are different but genuinely good, and they are what most kitchens outside the tropics use. Drain and rinse them before cooking to lose the tinny brine."
+      }
+    ]
+  },
+  "zh": {
+    "name": "草菇",
+    "aliases": [
+      "稻草菇",
+      "麻菇",
+      "包腳菇",
+      "草菰"
+    ],
+    "summary": "新鮮草菇是還被菌膜包著的小型蛋形菇蕾，出了名地不耐放——冷藏大約只有 1～3 天。它同時又怕冷，是少數「冰箱反而會傷害它」的蔬菜之一。",
+    "pantry": "草菇一樣不能放室溫，但它難搞的理由很特別：它是熱帶種，在低於約 10°C 的冷藏環境下其實會受傷，變得灰灰的、水水的。所以檯面和冷冰箱都不適合它，這裡也沒有常溫天數可以引用。誠實的答案是：這是一種當天買、當天煮的菇。",
+    "fridge": "約 1～3 天是工作上限——這是比照菇類整體的數字並往下縮短，因為這個品種既不耐放、又對低溫敏感。請放在冰箱溫度最高的位置，保持乾燥裝在紙袋裡，並接受家用冰箱本來就比它喜歡的溫度更冷。請當天要煮再買；否則就買罐頭的——熱帶以外的廚房本來多半也是用罐頭，而且那本身就是很好的產品。",
+    "freezer": "新鮮草菇沒有冷凍保存期限，生凍也不是好主意。它本來就脆弱、含水量又高；一朵在 5°C 就會受傷的菇，不會在 −18°C 得到好結果：解凍後只剩灰灰塌塌的一團。真的需要庫存的話，市場早就給出答案了，那就是罐頭草菇。新鮮的請當天煮掉。",
+    "thawing": null,
+    "spoilage": [
+      "菇體轉灰、變得水水的——這通常是低溫傷害而不是單純變老",
+      "菌膜裂開、菌傘張開，代表已經過了菇蕾階段",
+      "表面出現黏膜，或原本結實的地方出現軟爛發暗的斑塊",
+      "有酸味或阿摩尼亞味，而不是乾淨帶點甜的菇香"
+    ],
+    "tips": [
+      "當天要煮再買；在家裡做什麼都延長不了多少。",
+      "挑緊實未開傘、摸起來結實乾爽的菇蕾。",
+      "放在冰箱溫度最高的位置——低溫對這個品種是傷害。",
+      "櫥櫃裡常備罐頭草菇，那才是日常實際可行的選項。"
+    ],
+    "faq": [
+      {
+        "q": "新鮮草菇可以放多久？",
+        "a": "冷藏大約只有 1～3 天，而且冰箱本身對它並不友善。請當天要煮再買。"
+      },
+      {
+        "q": "草菇冰過為什麼變灰？",
+        "a": "它是熱帶種，低於約 10°C 就會出現低溫傷害，變灰變水。那是凍傷性的低溫損害，不是一般的老化。"
+      },
+      {
+        "q": "草菇可以冷凍嗎？",
+        "a": "沒有對應的期限，而且是個壞主意。一朵在冷藏溫度就會受傷的菇撐不過冷凍；請改用罐頭草菇。"
+      },
+      {
+        "q": "罐頭草菇和新鮮的一樣好嗎？",
+        "a": "不一樣，但確實很好用，熱帶以外的廚房多半也是用罐頭。下鍋前瀝掉並沖洗一下，可以去掉罐頭汁的金屬味。"
+      }
+    ]
+  }
+}

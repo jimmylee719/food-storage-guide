@@ -1,0 +1,57 @@
+{
+  "slug": "fuzzy-melon",
+  "en": {
+    "name": "Fuzzy melon",
+    "aliases": ["hairy gourd", "mo gwa", "hairy melon", "Chinese fuzzy squash"],
+    "summary": "Fuzzy melon is the small, downy, cylindrical gourd stuffed, steamed or stir-fried in Cantonese cooking — botanically a young winter melon, but stored like a courgette rather than like a mature wax gourd. About 1–2 weeks refrigerated at 4 °C (40 °F) or below.",
+    "pantry": "Unlike a mature winter melon, which has a hard waxy rind and sits happily in a cool room for months, a fuzzy melon is picked young and thin-skinned and does not keep out of the fridge. No room-temperature figure is given here and none should be assumed. The fine hairs are the clue to its age: they rub off in handling, so a bald, shiny melon is an older one that has already been passed around a lot.",
+    "fridge": "Keep fuzzy melon dry in the crisper at 4 °C (40 °F) or below, where about 1–2 weeks is the working limit. That figure is borrowed from summer squash — the melon is handled the same way and has the same water content — since no agency publishes a number for 節瓜 itself. Store it whole and dry; a damp melon develops soft spots where it touches the drawer. Once cut, wrap the face tightly and use it within a couple of days, since the exposed flesh weeps.",
+    "freezer": "There is no freezer timeline for fuzzy melon and freezing it raw is not worth doing. It is largely water held in a fine-textured flesh, and thawing leaves it collapsed and dripping. If you want to keep it, cook it first: stuffed and braised fuzzy melon, or a batch of soup, freezes far better than the raw gourd and keeps something you would actually want to eat.",
+    "thawing": null,
+    "spoilage": [
+      "Soft, sunken or watery patches, especially where it rested on a surface",
+      "Skin gone slimy or slippery to the touch",
+      "Mould at the stem or blossom end",
+      "Flesh gone brown, spongy or fibrous with hard seeds when cut"
+    ],
+    "tips": [
+      "Choose melons that still have their fuzz and feel heavy for their size.",
+      "Store dry and whole; moisture is what starts the soft spots.",
+      "Scrape the fuzz off with the back of a knife rather than peeling — the skin is thin and good.",
+      "Cook it briefly; fuzzy melon goes from tender to collapsed in a couple of minutes."
+    ],
+    "faq": [
+      {"q": "How long does fuzzy melon last in the fridge?", "a": "About 1–2 weeks at 4 °C (40 °F) or below, stored whole and dry in the crisper. That figure is borrowed from summer squash; none is published for fuzzy melon."},
+      {"q": "Is fuzzy melon the same as winter melon?", "a": "It is the same plant picked young. A mature winter melon has a hard waxy rind and stores for months in a cool room; a fuzzy melon is thin-skinned and belongs in the fridge."},
+      {"q": "Can you freeze fuzzy melon?", "a": "No timeline exists and raw freezing is not worth it — it thaws collapsed and watery. Cook it first and freeze the finished dish."},
+      {"q": "Do you peel fuzzy melon?", "a": "Not fully. Scrape the fine hairs off with the back of a knife; the thin skin underneath is tender and holds the pieces together while they cook."}
+    ]
+  },
+  "zh": {
+    "name": "節瓜",
+    "aliases": ["毛瓜", "毛冬瓜", "小冬瓜", "毛節瓜"],
+    "summary": "節瓜是粵菜裡用來釀、蒸或快炒的小型圓柱狀絨毛瓜，植物學上其實是還沒長大的冬瓜，但保存方式比較像櫛瓜而不是成熟的冬瓜。4°C 以下冷藏約 1～2 週。",
+    "pantry": "成熟的冬瓜有硬硬的蠟質外皮，放在涼爽的室內可以撐好幾個月；節瓜則是趁嫩採收、皮薄，離開冰箱就放不住。這裡不提供常溫保存天數，也請不要自行推估。表面那層細絨毛正是判斷新鮮度的線索：絨毛會在搬運中被磨掉，所以一顆光滑發亮的節瓜，通常是已經被翻來翻去很久的老瓜。",
+    "fridge": "請保持乾燥放在 4°C 以下的蔬果保鮮室，約 1～2 週是工作上限。這個數字是比照夏南瓜而來——兩者處理方式相同、含水量也接近——因為沒有任何單位為節瓜公布過數字。請整顆乾燥保存；表面潮濕的話，接觸抽屜的地方就會出現軟塌點。切開後請把切面包緊，並在兩天內用完，因為裸露的瓜肉會一直出水。",
+    "freezer": "節瓜沒有冷凍保存期限，生凍也不值得。它基本上就是包在細緻瓜肉裡的水，解凍後會塌掉、一直滴水。真要保存的話，請先煮：釀節瓜、燜節瓜或煮成一鍋湯再冷凍，效果遠比生凍好，留下來的也是你真的會想吃的東西。",
+    "thawing": null,
+    "spoilage": [
+      "出現軟塌、凹陷或滲水的區塊，尤其是接觸檯面的那一面",
+      "表皮摸起來變得黏滑",
+      "蒂頭或花蒂處長黴",
+      "切開後瓜肉發褐、呈海綿狀，或纖維變粗、籽已經變硬"
+    ],
+    "tips": [
+      "挑還帶著絨毛、拿起來有重量感的。",
+      "整顆乾燥保存；水氣就是軟塌點的起點。",
+      "用刀背把絨毛刮掉就好，不要削皮——薄皮很好吃。",
+      "快煮就好；節瓜從剛好軟嫩到整個散掉，只有兩三分鐘的差距。"
+    ],
+    "faq": [
+      {"q": "節瓜放冰箱可以放多久？", "a": "4°C 以下冷藏、整顆乾燥放在蔬果室，約 1～2 週。這個數字是比照夏南瓜而來；節瓜本身沒有公布的數據。"},
+      {"q": "節瓜和冬瓜一樣嗎？", "a": "是同一種植物，只是趁嫩採收。成熟冬瓜外皮硬、帶蠟質，放涼爽室內可以撐數月；節瓜皮薄，該放冰箱。"},
+      {"q": "節瓜可以冷凍嗎？", "a": "沒有對應的期限，而且生凍不值得——解凍後會塌軟出水。請先煮成料理再冷凍。"},
+      {"q": "節瓜要削皮嗎？", "a": "不用完全削掉。用刀背把絨毛刮掉即可，底下的薄皮很嫩，也能在烹調時幫忙撐住形狀。"}
+    ]
+  }
+}

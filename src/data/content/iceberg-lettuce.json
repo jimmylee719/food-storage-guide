@@ -1,0 +1,57 @@
+{
+  "slug": "iceberg-lettuce",
+  "en": {
+    "name": "Iceberg lettuce",
+    "aliases": ["crisphead lettuce", "iceberg", "head lettuce", "crisp lettuce"],
+    "summary": "Iceberg is the tight, pale, crisp-headed lettuce whose appeal is entirely texture — it is about 96 % water. Refrigerated at 4 °C (40 °F) or below a whole head keeps 1–2 weeks from the day of purchase, longer than any other lettuce, because the outer leaves protect the ones inside.",
+    "pantry": "Iceberg should not be kept at room temperature. Warmth makes the head respire, the leaves go floppy, and the cut base browns within hours; a head left out overnight in a warm kitchen is usually only fit for cooking by morning. There is no room-temperature figure here and none should be assumed. Refrigerate it whole and unwashed as soon as you get home.",
+    "fridge": "Store the head whole and unwashed in the crisper at 4 °C (40 °F) or below, in a perforated bag or loosely wrapped, where it keeps 1–2 weeks from purchase. Leave it intact and peel leaves off as you need them; once you cut or shred it the exposed surfaces brown and wilt within a day or two. Keep it away from apples, bananas and tomatoes — the ethylene they give off is what causes the rusty brown spots along the ribs.",
+    "freezer": "Freezing iceberg is not worth doing and there is no timeline for it. Almost all of its weight is water held inside intact cells, and freezing bursts those cells, so what thaws is a limp, translucent, dripping heap with none of the crunch you bought it for. There is no safety problem with freezing it, simply no point. If you have more than you can eat, use it up braised or in a stir-fry rather than trying to store it.",
+    "thawing": null,
+    "spoilage": [
+      "Rusty brown or reddish streaks along the leaf ribs",
+      "Slimy, translucent outer leaves that cling together",
+      "A brown or blackened core and a bitter, sour smell",
+      "Leaves that have gone soft and limp rather than snapping"
+    ],
+    "tips": [
+      "Buy a head that feels heavy for its size with a dry, pale cut stem.",
+      "Keep it whole; peel leaves off from the outside rather than cutting it up.",
+      "Tear rather than cut for salads — a knife accelerates browning along the edges.",
+      "Revive a slightly limp head by standing the leaves in iced water for 15 minutes."
+    ],
+    "faq": [
+      {"q": "How long does iceberg lettuce last in the fridge?", "a": "1–2 weeks from the day of purchase at 4 °C (40 °F) or below, kept whole and unwashed in the crisper."},
+      {"q": "Can you freeze iceberg lettuce?", "a": "There is no freezer timeline and no reason to freeze it. It is almost all water, so it thaws limp and translucent with no crunch left."},
+      {"q": "What are the brown spots on iceberg lettuce?", "a": "Rusty streaks along the ribs are usually russet spotting, caused by ethylene from nearby fruit or by cold damage. Trim them off; discard the head if the leaves have gone slimy."},
+      {"q": "Should you wash lettuce before storing it?", "a": "No. Store it dry and unwashed and rinse just before use. Water trapped between the leaves is what makes them go slimy."}
+    ]
+  },
+  "zh": {
+    "name": "結球萵苣",
+    "aliases": ["美生菜", "西生菜", "圓生菜", "球生菜", "冰山萵苣"],
+    "summary": "結球萵苣就是外型緊實、顏色偏淡、口感爽脆的球狀生菜，它的價值幾乎全在口感——含水量約 96%。4°C 以下冷藏，整顆從購買當天算起可放 1～2 週，是所有萵苣中最耐放的，因為外層葉子保護了裡面的葉片。",
+    "pantry": "結球萵苣不應該放在室溫。溫度一高，整顆的呼吸作用加快，葉子變軟，切口幾小時內就發褐；在溫暖的廚房放過一夜，隔天大概只能拿去炒了。這裡不提供常溫保存天數，也請不要自行推估。買回家請整顆不清洗直接冷藏。",
+    "fridge": "整顆不清洗，裝進打洞袋或鬆鬆包起來，放在 4°C 以下的蔬果保鮮室，從購買日起可放 1～2 週。請保持整顆完整，要用時再從外面一片一片剝；一旦切開或切絲，暴露的切面一兩天內就會褐變萎凋。另外要遠離蘋果、香蕉和番茄，它們釋放的乙烯正是葉脈上出現鏽褐斑點的原因。",
+    "freezer": "結球萵苣不值得冷凍，也沒有對應的保存期限。它的重量幾乎都是鎖在完整細胞裡的水，冷凍會把細胞撐破，解凍後只剩一灘軟爛半透明、不停滴水的葉子，完全沒有你當初買它的脆度。冷凍本身沒有安全問題，只是沒有意義。吃不完的話，不如拿去燙一下或快炒吃掉。",
+    "thawing": null,
+    "spoilage": [
+      "葉脈上出現鏽褐色或偏紅的條紋",
+      "外層葉子黏滑、半透明並黏成一團",
+      "菜心發褐或發黑，並帶苦味或酸味",
+      "葉子軟塌，折起來不再清脆"
+    ],
+    "tips": [
+      "挑拿起來有重量感、切口乾爽偏白的。",
+      "保持整顆完整，從外層一片片剝下來用，不要整顆切開。",
+      "做沙拉用手撕不要用刀切，刀切的切口褐變得更快。",
+      "稍微軟掉的葉子泡冰水 15 分鐘可以恢復不少脆度。"
+    ],
+    "faq": [
+      {"q": "美生菜放冰箱可以放多久？", "a": "4°C 以下冷藏，整顆不清洗放在蔬果保鮮室，從購買當天算起 1～2 週。"},
+      {"q": "美生菜可以冷凍嗎？", "a": "沒有冷凍保存期限，也沒有冷凍的必要。它幾乎都是水，解凍後只會變成軟爛半透明的一團，完全沒有脆度。"},
+      {"q": "美生菜上的褐斑是什麼？", "a": "葉脈上的鏽褐條紋多半是鏽斑，由旁邊水果釋出的乙烯或低溫傷害造成。切掉即可；但若葉子已經黏滑，整顆丟掉。"},
+      {"q": "生菜要先洗再冰嗎？", "a": "不要。請保持乾燥不清洗，要吃之前再沖。葉片間積的水正是變黏的主因。"}
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "long-bean",
+  "en": {
+    "name": "Long bean",
+    "aliases": ["yardlong bean", "snake bean", "asparagus bean", "Chinese long bean"],
+    "summary": "Long beans are the metre-long pods of the yardlong bean, sold coiled in bundles and stir-fried or dry-fried rather than boiled. No figure is published for them, so treat them like green beans: about 4–7 days refrigerated at 4 °C (40 °F) or below, and roughly 2–3 weeks blanched and frozen.",
+    "pantry": "Long beans should not be kept at room temperature. They tolerate a few days better than an ordinary green bean because the pod wall is tougher, but they still lose water from the cut ends inward and go limp and rubbery. There is no room-temperature figure here and none should be assumed. Coil the bundle into a bag and refrigerate it as soon as you get home.",
+    "fridge": "Coil the bundle loosely into a bag and keep it in the crisper at 4 °C (40 °F) or below, where about 4–7 days is the working limit — a figure borrowed from green beans and their relatives, since nothing is published for long beans. They go limp and rubbery from the cut ends inward, so that is where to look when you are judging a bundle. Do not cut them into lengths until you cook: every cut is another end losing water.",
+    "freezer": "Long beans freeze after blanching. Cut them into lengths, boil for 2 minutes, plunge into iced water, drain thoroughly and freeze flat in a sealed bag at −18 °C (0 °F). About 2–3 weeks is the working limit, taken from the general guide for home-frozen vegetables rather than published for long beans. They thaw soft, which suits a braise but not the blistered, dry-fried texture the vegetable is really for.",
+    "thawing": "Cook long beans from frozen, straight into a hot pan or a pot. Thawed beans weep and will steam rather than blister, which defeats the point of dry-frying them.",
+    "spoilage": [
+      "Pods gone limp and rubbery, bending instead of snapping",
+      "Rust-coloured or brown spots spreading along the pod",
+      "Slimy or blackened cut ends, or wet patches where the bundle was tied",
+      "A sour smell, or mould where the beans were pressed together"
+    ],
+    "tips": [
+      "Buy bundles that feel springy and snap when you bend one.",
+      "Coil them into a bag rather than folding them; a sharp fold bruises the pod.",
+      "Cut to length only when you cook.",
+      "Dry-fry them in a little oil until blistered before adding anything else — that is the dish."
+    ],
+    "faq": [
+      {"q": "How long do long beans last in the fridge?", "a": "About 4–7 days at 4 °C (40 °F) or below, coiled loosely in a bag in the crisper. That figure is borrowed from green beans; none is published for long beans."},
+      {"q": "Can you freeze long beans?", "a": "Yes, blanched for 2 minutes and frozen flat at −18 °C (0 °F); about 2–3 weeks is the working limit, taken from the general home-freezing guide."},
+      {"q": "Are long beans the same as green beans?", "a": "No. They are a different species with a tougher, drier pod wall, which is why they blister in a hot pan instead of going soggy. They keep a little longer too."},
+      {"q": "Can you eat long beans raw?", "a": "Better not. Like other beans they are best cooked through; dry-frying or stir-frying until the pods blister and soften is the usual method."}
+    ]
+  },
+  "zh": {
+    "name": "長豆",
+    "aliases": ["豇豆", "菜豆（長）", "蛇豆", "十六豇"],
+    "summary": "長豆是豇豆的長莢，常捲成一把販售，適合乾煸或快炒而不是水煮。它沒有公布的保存數據，可以比照四季豆來看：4°C 以下冷藏約 4～7 天；汆燙後冷凍約 2～3 週。",
+    "pantry": "長豆不應該放室溫。它的莢壁比四季豆韌，撐個幾天的能力確實比較好，但仍然會從切口往內失水，最後變得軟軟像橡皮。這裡不提供常溫保存天數，也請不要自行推估。買回家請把整把捲進袋子裡立刻冷藏。",
+    "fridge": "把整把鬆鬆捲進袋子，放在 4°C 以下的蔬果保鮮室，約 4～7 天是工作上限——這個數字是比照四季豆和同類豆莢而來，因為長豆本身沒有公布的數據。它是從切口往內開始變軟變韌的，所以判斷一把長豆的狀態就看那裡。要煮之前才切段：每多一個切口，就多一個失水的出口。",
+    "freezer": "長豆汆燙後可以冷凍。切段，滾水煮 2 分鐘，泡冰水冷卻，徹底瀝乾後平鋪裝密封袋放 −18°C。約 2～3 週是工作上限，這個數字取自家庭冷凍蔬菜的一般指引，並非針對長豆公布。解凍後偏軟，適合燜煮，但做不出乾煸長豆那種起皺焦香的口感。",
+    "thawing": "長豆請不解凍直接下熱鍋或下湯。解凍後會出水，在鍋裡只會一直冒蒸氣而煸不出皺皮，那就失去乾煸的意義了。",
+    "spoilage": [
+      "豆莢軟趴趴像橡皮，折起來只是彎而不會斷",
+      "莢上出現鏽色或褐色斑點並且擴散",
+      "切口變黏或發黑，或綁束處出現濕爛",
+      "有酸味，或豆莢互相壓著的地方長黴"
+    ],
+    "tips": [
+      "挑整把有彈性、折一根會清脆折斷的。",
+      "捲進袋子而不是對折；用力折過的地方會碰傷。",
+      "要煮之前才切段。",
+      "先用少許油乾煸到表皮起皺，再加其他配料——那才是這道菜。"
+    ],
+    "faq": [
+      {"q": "長豆放冰箱可以放多久？", "a": "4°C 以下冷藏、鬆鬆捲進袋子放蔬果室，約 4～7 天。這個數字是比照四季豆而來；長豆本身沒有公布的數據。"},
+      {"q": "長豆可以冷凍嗎？", "a": "可以，汆燙 2 分鐘後平鋪冷凍於 −18°C；約 2～3 週是工作上限，取自家庭冷凍蔬菜的一般指引。"},
+      {"q": "長豆和四季豆一樣嗎？", "a": "不一樣。它們是不同的物種，長豆的莢壁更韌更乾，所以下熱鍋會起皺而不是出水軟爛，保存期也稍微長一點。"},
+      {"q": "長豆可以生吃嗎？", "a": "最好不要。和其他豆類一樣，長豆要確實煮熟；一般做法是乾煸或快炒到豆莢起皺變軟。"}
+    ]
+  }
+}

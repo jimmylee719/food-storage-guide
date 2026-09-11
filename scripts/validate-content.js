@@ -2,7 +2,9 @@
 const fs = require('fs');
 const path = require('path');
 const dir = path.join(__dirname, '..', 'src', 'data', 'content');
-const LOCALES = ['en', 'zh', 'ja', 'es'];
+// Only the published locales are required. Older files also carry ja and es;
+// those are validated when present but never demanded.
+const LOCALES = ['en', 'zh'];
 const KEYS = ['name', 'aliases', 'summary', 'pantry', 'fridge', 'freezer', 'thawing', 'spoilage', 'tips', 'faq'];
 const args = process.argv.slice(2);
 const files = args.length ? args.map((s) => s.replace(/\.json$/, '') + '.json') : fs.readdirSync(dir).filter((f) => f.endsWith('.json'));

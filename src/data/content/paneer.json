@@ -1,0 +1,57 @@
+{
+  "slug": "paneer",
+  "en": {
+    "name": "Paneer",
+    "aliases": ["panir", "Indian cottage cheese", "chhena", "fresh acid-set cheese"],
+    "summary": "Paneer is a fresh, unaged Indian cheese set with acid rather than rennet, so it does not melt and does not ripen. No agency publishes a shelf life for it, so treat it like cottage cheese: about five to seven days refrigerated at 4 °C (40 °F) or below. A vacuum pack's printed date applies only while the pack is sealed.",
+    "pantry": "Paneer must be kept refrigerated. It is a high-moisture, low-acid fresh cheese, which is precisely the profile that makes fresh white cheeses a favourable environment for Listeria — and Listeria is unusual in that it grows even in a cold fridge. Anything left in the 4–60 °C (40–140 °F) danger zone for more than two hours should be discarded, one hour if it is above 32 °C (90 °F). There is no version of leaving paneer on the counter that is fine.",
+    "fridge": "Keep paneer at 4 °C (40 °F) or below, in a sealed container. About five to seven days is a reasonable working limit — borrowed from cottage cheese rather than published for paneer — and commercially vacuum-packed paneer carries a printed date that runs far longer, but that date only holds while the pack is sealed. Submerging the block in fresh water and changing the water daily keeps it soft and stops the surface drying, which is worth doing, but it does not buy you extra days. Cut only what you need and keep the rest in one piece.",
+    "freezer": "No credible timeline exists for frozen paneer, so we do not give one. It freezes without any safety problem, but the curd tightens on thawing and comes back rubbery and squeaky. If you are going to do it, cube the block first and freeze the cubes in a sealed bag at −18 °C (0 °F), then use them in a simmered curry where the sauce softens them again — never pan-fried fresh, where the change in texture is obvious.",
+    "thawing": "Thaw frozen paneer in the fridge, or drop the cubes straight into a simmering curry from frozen. Never thaw it on the counter. A short soak in hot salted water after thawing helps to soften the curd again.",
+    "spoilage": [
+      "A sour, yeasty or sharply fermented smell",
+      "A slimy or sticky surface, or water around it that has turned cloudy",
+      "Yellowing, pink patches, or any mould at all",
+      "A bitter or fizzy taste rather than a clean milky one"
+    ],
+    "tips": [
+      "Buy the size you will use within the week; paneer does not improve with keeping.",
+      "Keep the block whole and cut to order.",
+      "Soak cubes in hot salted water for 10 minutes before adding them to a curry — it makes even shop paneer soft.",
+      "Never cut mould off a fresh cheese; the whole block goes."
+    ],
+    "faq": [
+      {"q": "How long does paneer last in the fridge?", "a": "No figure is published for it. About five to seven days at 4 °C (40 °F) or below is a sensible working limit, borrowed from cottage cheese. A sealed vacuum pack keeps to its printed date until you open it."},
+      {"q": "Can you freeze paneer?", "a": "No credible timeline exists, so we do not quote one. It freezes safely but thaws rubbery; cube it first and use it in a simmered curry rather than frying it fresh."},
+      {"q": "Should paneer be kept in water?", "a": "It helps. Fresh water changed daily keeps the block soft and stops the surface drying out, but it does not extend how long the cheese is good for."},
+      {"q": "Is paneer safe during pregnancy?", "a": "Fresh, high-moisture cheeses are the kind Listeria favours, and it grows even in the fridge. Cooked through in a curry is a very different proposition from eaten fresh; anyone in a higher-risk group should stick to the cooked version."}
+    ]
+  },
+  "zh": {
+    "name": "印度起司",
+    "aliases": ["帕尼爾起司", "paneer", "印度鮮乳酪", "印度白乳酪"],
+    "summary": "印度起司是用酸而非凝乳酶凝結的新鮮未熟成起司，所以它不會融化、也不會熟成。沒有權威單位公布它的保存期限，可以比照茅屋起司（cottage cheese）來看：4°C 以下冷藏約五到七天。真空包裝上印的日期，只在未開封時成立。",
+    "pantry": "印度起司必須全程冷藏。它是高含水、低酸度的新鮮起司，而這正是新鮮白乳酪成為李斯特菌溫床的條件；李斯特菌特別的地方在於，即使在冷藏的冰箱裡也還能生長。任何在 4～60°C 危險溫度帶停留超過兩小時的都該丟棄，氣溫超過 32°C 時只有一小時。沒有任何「放檯面上一下」的版本是可以的。",
+    "fridge": "冷藏維持 4°C 以下，裝在密封容器裡。約五到七天是合理的工作上限——這是比照茅屋起司而來，並非針對印度起司公布；市售真空包裝印的日期長得多，但那個日期只在未開封時有效。把整塊泡在乾淨的水裡、每天換水，能保持柔軟、避免表面乾裂，很值得做，但並不會因此多幾天保存期。要用多少切多少，其餘保持整塊。",
+    "freezer": "冷凍印度起司沒有可信的保存期限，所以我們不提供。冷凍本身不會造成安全問題，但凝乳解凍後會收緊，質地變得又彈又「吱」。真的要冷凍的話，請先切塊，裝密封袋放 −18°C，之後用在需要久燉的咖哩裡，讓醬汁把它重新煮軟——不要拿去當新鮮起司直接煎，質地的落差會非常明顯。",
+    "thawing": "解凍請放冷藏室，或直接把冷凍塊丟進正在燉的咖哩裡。不要在室溫解凍。解凍後先用熱鹽水泡一下，可以讓凝乳重新變軟。",
+    "spoilage": [
+      "聞起來酸、有酵母味或明顯的發酵味",
+      "表面黏滑，或泡著的水變得混濁",
+      "出現泛黃、粉紅斑塊，或任何黴點",
+      "吃起來發苦或有刺舌感，而不是乾淨的奶味"
+    ],
+    "tips": [
+      "買一週內用得完的份量；印度起司放愈久只會愈差。",
+      "保持整塊，要用時再切。",
+      "下咖哩前先用熱鹽水泡 10 分鐘，連市售的都會變軟嫩。",
+      "新鮮起司絕對不要把霉切掉繼續用，整塊丟棄。"
+    ],
+    "faq": [
+      {"q": "印度起司放冰箱可以放多久？", "a": "沒有公布的數字。4°C 以下冷藏約五到七天是合理的工作上限，這是比照茅屋起司而來。未開封的真空包裝則以上面印的日期為準。"},
+      {"q": "印度起司可以冷凍嗎？", "a": "沒有可信的冷凍期限，所以我們不引用數字。冷凍在安全上沒問題，但解凍後質地變彈；請先切塊並用於久燉咖哩，不要拿去現煎。"},
+      {"q": "印度起司要泡在水裡嗎？", "a": "泡著有幫助。每天換乾淨的水可以維持柔軟、避免表面乾裂，但不會延長它可以吃的天數。"},
+      {"q": "懷孕可以吃印度起司嗎？", "a": "高含水的新鮮起司正是李斯特菌偏好的類型，而且它在冰箱裡也能生長。煮進咖哩裡徹底加熱，和直接吃新鮮的，是完全不同的兩件事；高風險族群請只吃煮熟的。"}
+    ]
+  }
+}
