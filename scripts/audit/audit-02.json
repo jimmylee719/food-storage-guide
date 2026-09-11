@@ -1,0 +1,422 @@
+[
+ {
+  "slug": "ham-fresh-cook-before-eating-shoulder-roll",
+  "locale": "en",
+  "said": "3–4 days",
+  "allowed": "1|weeks, 1|months, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "ham-fresh-cook-before-eating-shoulder-roll",
+  "locale": "zh",
+  "said": "4 天",
+  "allowed": "1|weeks, 1|months, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "jaboticaba",
+  "locale": "en",
+  "said": "21 days",
+  "allowed": "2|days, 3|days, 1|weeks, 2|weeks, 6|months, 12|months, 7|months, 8|months, 9|months, 10|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "jaboticaba",
+  "locale": "zh",
+  "said": "21 天",
+  "allowed": "2|days, 3|days, 1|weeks, 2|weeks, 6|months, 12|months, 7|months, 8|months, 9|months, 10|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "jicama-fresh",
+  "locale": "en",
+  "said": "1–2 weeks",
+  "allowed": "4|months, 2|weeks, 3|weeks",
+  "kind": "prose"
+ },
+ {
+  "slug": "jicama-fresh",
+  "locale": "en",
+  "said": "1–2 weeks",
+  "allowed": "4|months, 2|weeks, 3|weeks",
+  "kind": "prose"
+ },
+ {
+  "slug": "langsat",
+  "locale": "en",
+  "said": "21 days",
+  "allowed": "3|days, 5|days, 4|days, 7|days, 6|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "langsat",
+  "locale": "zh",
+  "said": "21 天",
+  "allowed": "3|days, 5|days, 4|days, 7|days, 6|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "lemons",
+  "locale": "en",
+  "said": "3 days",
+  "allowed": "10|days, 21|days, 11|days, 12|days, 13|days, 14|days, 15|days, 16|days, 17|days, 18|days, 19|days, 20|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "lemons",
+  "locale": "zh",
+  "said": "3 天",
+  "allowed": "10|days, 21|days, 11|days, 12|days, 13|days, 14|days, 15|days, 16|days, 17|days, 18|days, 19|days, 20|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "limes",
+  "locale": "en",
+  "said": "3 days",
+  "allowed": "10|days, 21|days, 11|days, 12|days, 13|days, 14|days, 15|days, 16|days, 17|days, 18|days, 19|days, 20|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "limes",
+  "locale": "zh",
+  "said": "3 天",
+  "allowed": "10|days, 21|days, 11|days, 12|days, 13|days, 14|days, 15|days, 16|days, 17|days, 18|days, 19|days, 20|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "loquat",
+  "locale": "en",
+  "said": "3 weeks",
+  "allowed": "2|days, 4|days, 3|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "loquat",
+  "locale": "zh",
+  "said": "3 週",
+  "allowed": "2|days, 4|days, 3|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "lotus-root",
+  "locale": "en",
+  "said": "2–3 days",
+  "allowed": "1|weeks, 2|weeks, 3|weeks",
+  "kind": "prose"
+ },
+ {
+  "slug": "lotus-root",
+  "locale": "en",
+  "said": "2–3 days",
+  "allowed": "1|weeks, 2|weeks, 3|weeks",
+  "kind": "prose"
+ },
+ {
+  "slug": "lotus-root",
+  "locale": "zh",
+  "said": "3 天",
+  "allowed": "1|weeks, 2|weeks, 3|weeks",
+  "kind": "prose"
+ },
+ {
+  "slug": "malanga",
+  "locale": "en",
+  "said": "18 weeks",
+  "allowed": "2|weeks, 4|weeks, 3|weeks, 8|weeks, 10|months, 12|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "malanga",
+  "locale": "zh",
+  "said": "18 週",
+  "allowed": "2|weeks, 4|weeks, 3|weeks, 8|weeks, 10|months, 12|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "meat-products-canned",
+  "locale": "en",
+  "said": "2 months",
+  "allowed": "5|years, 3|days, 4|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "meat-products-canned",
+  "locale": "zh",
+  "said": "2 個月",
+  "allowed": "5|years, 3|days, 4|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "melons",
+  "locale": "en",
+  "said": "7 days",
+  "allowed": "2|weeks, 2|days, 4|days, 3|days, 1|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "melons",
+  "locale": "en",
+  "said": "7 days",
+  "allowed": "2|weeks, 2|days, 4|days, 3|days, 1|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "melons",
+  "locale": "zh",
+  "said": "7 天",
+  "allowed": "2|weeks, 2|days, 4|days, 3|days, 1|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "melons",
+  "locale": "zh",
+  "said": "7 天",
+  "allowed": "2|weeks, 2|days, 4|days, 3|days, 1|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "nectarines",
+  "locale": "en",
+  "said": "2 days",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "nectarines",
+  "locale": "en",
+  "said": "2 days",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "nectarines",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "nectarines",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "oranges",
+  "locale": "en",
+  "said": "3 days",
+  "allowed": "10|days, 21|days, 11|days, 12|days, 13|days, 14|days, 15|days, 16|days, 17|days, 18|days, 19|days, 20|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "oranges",
+  "locale": "zh",
+  "said": "3 天",
+  "allowed": "10|days, 21|days, 11|days, 12|days, 13|days, 14|days, 15|days, 16|days, 17|days, 18|days, 19|days, 20|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "pastries-danish",
+  "locale": "en",
+  "said": "2–3 days",
+  "allowed": "5|days, 10|days, 6|days, 7|days, 8|days, 9|days, 14|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "pastries-danish",
+  "locale": "en",
+  "said": "2–3 days",
+  "allowed": "5|days, 10|days, 6|days, 7|days, 8|days, 9|days, 14|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "pastries-danish",
+  "locale": "zh",
+  "said": "3 天",
+  "allowed": "5|days, 10|days, 6|days, 7|days, 8|days, 9|days, 14|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "peaches",
+  "locale": "en",
+  "said": "2 days",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "peaches",
+  "locale": "en",
+  "said": "2 days",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "peaches",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "peaches",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "pears",
+  "locale": "en",
+  "said": "2 days",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "pears",
+  "locale": "en",
+  "said": "2 days",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "pears",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "pears",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "persimmon",
+  "locale": "en",
+  "said": "4 months",
+  "allowed": "2|weeks, 4|weeks, 3|weeks, 6|months, 8|months, 7|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "persimmon",
+  "locale": "zh",
+  "said": "4 個月",
+  "allowed": "2|weeks, 4|weeks, 3|weeks, 6|months, 8|months, 7|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "pineapple",
+  "locale": "en",
+  "said": "1–2 days",
+  "allowed": "5|days, 7|days, 6|days, 10|months, 12|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "pineapple",
+  "locale": "en",
+  "said": "1–2 days",
+  "allowed": "5|days, 7|days, 6|days, 10|months, 12|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "pineapple",
+  "locale": "en",
+  "said": "1–2 days",
+  "allowed": "5|days, 7|days, 6|days, 10|months, 12|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "pineapple",
+  "locale": "en",
+  "said": "1–2 days",
+  "allowed": "5|days, 7|days, 6|days, 10|months, 12|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "pineapple",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "5|days, 7|days, 6|days, 10|months, 12|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "pineapple",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "5|days, 7|days, 6|days, 10|months, 12|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "plantains",
+  "locale": "en",
+  "said": "1–2 days",
+  "allowed": "3|days, 5|days, 4|days, 10|months, 12|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "plantains",
+  "locale": "en",
+  "said": "1–2 days",
+  "allowed": "3|days, 5|days, 4|days, 10|months, 12|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "plantains",
+  "locale": "en",
+  "said": "1–2 days",
+  "allowed": "3|days, 5|days, 4|days, 10|months, 12|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "plantains",
+  "locale": "en",
+  "said": "1–2 days",
+  "allowed": "3|days, 5|days, 4|days, 10|months, 12|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "plantains",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "3|days, 5|days, 4|days, 10|months, 12|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "plantains",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "3|days, 5|days, 4|days, 10|months, 12|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "plums",
+  "locale": "en",
+  "said": "2 days",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "plums",
+  "locale": "en",
+  "said": "2 days",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "plums",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "plums",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ }
+]

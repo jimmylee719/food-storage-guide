@@ -1,0 +1,422 @@
+[
+ {
+  "slug": "avocados",
+  "locale": "en",
+  "said": "2–5 days",
+  "allowed": "3|days, 4|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "avocados",
+  "locale": "en",
+  "said": "2–5 days",
+  "allowed": "3|days, 4|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "avocados",
+  "locale": "zh",
+  "said": "5 天",
+  "allowed": "3|days, 4|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "baby-corn",
+  "locale": "en",
+  "said": "2 days",
+  "allowed": "3|days, 5|days, 4|days, 2|weeks, 3|weeks",
+  "kind": "prose"
+ },
+ {
+  "slug": "baby-corn",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "3|days, 5|days, 4|days, 2|weeks, 3|weeks",
+  "kind": "prose"
+ },
+ {
+  "slug": "beets",
+  "locale": "en",
+  "said": "3–5 days",
+  "allowed": "1|days, 1|weeks, 2|weeks, 6|months, 8|months, 7|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "beets",
+  "locale": "en",
+  "said": "3–5 days",
+  "allowed": "1|days, 1|weeks, 2|weeks, 6|months, 8|months, 7|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "beets",
+  "locale": "zh",
+  "said": "5 天",
+  "allowed": "1|days, 1|weeks, 2|weeks, 6|months, 8|months, 7|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "bell-peppers",
+  "locale": "en",
+  "said": "3 days",
+  "allowed": "4|days, 14|days, 5|days, 6|days, 7|days, 8|days, 9|days, 10|days, 11|days, 12|days, 13|days, 6|months, 8|months, 7|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "bell-peppers",
+  "locale": "zh",
+  "said": "3 天",
+  "allowed": "4|days, 14|days, 5|days, 6|days, 7|days, 8|days, 9|days, 10|days, 11|days, 12|days, 13|days, 6|months, 8|months, 7|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "breadfruit",
+  "locale": "en",
+  "said": "20 days",
+  "allowed": "2|days, 5|days, 3|days, 4|days, 7|days, 6|days, 3|months, 6|months, 4|months, 5|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "breadfruit",
+  "locale": "zh",
+  "said": "20 天",
+  "allowed": "2|days, 5|days, 3|days, 4|days, 7|days, 6|days, 3|months, 6|months, 4|months, 5|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "butter",
+  "locale": "en",
+  "said": "1–2 days",
+  "allowed": "1|months, 2|months, 6|months, 9|months, 7|months, 8|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "butter",
+  "locale": "en",
+  "said": "1–2 days",
+  "allowed": "1|months, 2|months, 6|months, 9|months, 7|months, 8|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "butter",
+  "locale": "en",
+  "said": "1–2 days",
+  "allowed": "1|months, 2|months, 6|months, 9|months, 7|months, 8|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "butter",
+  "locale": "en",
+  "said": "1–2 days",
+  "allowed": "1|months, 2|months, 6|months, 9|months, 7|months, 8|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "butter",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "1|months, 2|months, 6|months, 9|months, 7|months, 8|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "butter",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "1|months, 2|months, 6|months, 9|months, 7|months, 8|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "cherimoya",
+  "locale": "en",
+  "said": "2–4 days",
+  "allowed": "4|days, 10|months, 12|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "chicken-nuggets-patties",
+  "locale": "en",
+  "said": "3–4 days",
+  "allowed": "1|days, 2|days, 1|months, 3|months, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "chicken-nuggets-patties",
+  "locale": "en",
+  "said": "3–4 days",
+  "allowed": "1|days, 2|days, 1|months, 3|months, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "chicken-nuggets-patties",
+  "locale": "zh",
+  "said": "4 天",
+  "allowed": "1|days, 2|days, 1|months, 3|months, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "commercial-brand-vacuum-packed-dinners-usda-seal",
+  "locale": "en",
+  "said": "3–4 days",
+  "allowed": "2|weeks",
+  "kind": "prose"
+ },
+ {
+  "slug": "commercial-brand-vacuum-packed-dinners-usda-seal",
+  "locale": "en",
+  "said": "3–4 days",
+  "allowed": "2|weeks",
+  "kind": "prose"
+ },
+ {
+  "slug": "commercial-brand-vacuum-packed-dinners-usda-seal",
+  "locale": "zh",
+  "said": "4 天",
+  "allowed": "2|weeks",
+  "kind": "prose"
+ },
+ {
+  "slug": "cookies-crispy",
+  "locale": "en",
+  "said": "1–2 weeks",
+  "allowed": "4|months, 6|months, 5|months, 8|months, 12|months, 9|months, 10|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "cookies-crispy",
+  "locale": "en",
+  "said": "1–2 weeks",
+  "allowed": "4|months, 6|months, 5|months, 8|months, 12|months, 9|months, 10|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "cookies-crispy",
+  "locale": "zh",
+  "said": "2 週",
+  "allowed": "4|months, 6|months, 5|months, 8|months, 12|months, 9|months, 10|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "cookies-soft",
+  "locale": "en",
+  "said": "3–5 days",
+  "allowed": "2|months, 3|months, 8|months, 12|months, 9|months, 10|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "cookies-soft",
+  "locale": "en",
+  "said": "3–5 days",
+  "allowed": "2|months, 3|months, 8|months, 12|months, 9|months, 10|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "cookies-soft",
+  "locale": "zh",
+  "said": "5 天",
+  "allowed": "2|months, 3|months, 8|months, 12|months, 9|months, 10|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "cornmeal-regular-degerminated",
+  "locale": "en",
+  "said": "1 year",
+  "allowed": "6|months, 12|months, 7|months, 8|months, 9|months, 10|months, 11|months, 2|years, 1|year",
+  "kind": "prose"
+ },
+ {
+  "slug": "cornmeal-regular-degerminated",
+  "locale": "en",
+  "said": "1 year",
+  "allowed": "6|months, 12|months, 7|months, 8|months, 9|months, 10|months, 11|months, 2|years, 1|year",
+  "kind": "prose"
+ },
+ {
+  "slug": "cornmeal-regular-degerminated",
+  "locale": "en",
+  "said": "48 hours",
+  "allowed": "6|months, 12|months, 7|months, 8|months, 9|months, 10|months, 11|months, 2|years, 1|year",
+  "kind": "prose"
+ },
+ {
+  "slug": "cornmeal-regular-degerminated",
+  "locale": "zh",
+  "said": "1 年",
+  "allowed": "6|months, 12|months, 7|months, 8|months, 9|months, 10|months, 11|months, 2|years, 1|year",
+  "kind": "prose"
+ },
+ {
+  "slug": "cornmeal-regular-degerminated",
+  "locale": "zh",
+  "said": "1 年",
+  "allowed": "6|months, 12|months, 7|months, 8|months, 9|months, 10|months, 11|months, 2|years, 1|year",
+  "kind": "prose"
+ },
+ {
+  "slug": "cornmeal-regular-degerminated",
+  "locale": "zh",
+  "said": "48 小時",
+  "allowed": "6|months, 12|months, 7|months, 8|months, 9|months, 10|months, 11|months, 2|years, 1|year",
+  "kind": "prose"
+ },
+ {
+  "slug": "durian",
+  "locale": "en",
+  "said": "10 days",
+  "allowed": "2|days, 5|days, 3|days, 4|days, 3|months, 6|months, 4|months, 5|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "durian",
+  "locale": "zh",
+  "said": "10 天",
+  "allowed": "2|days, 5|days, 3|days, 4|days, 3|months, 6|months, 4|months, 5|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "fish-cold-smoked-vacuum-pack",
+  "locale": "en",
+  "said": "3–5 days",
+  "allowed": "21|days, 30|days, 22|days, 23|days, 24|days, 25|days, 26|days, 27|days, 28|days, 29|days, 9|months, 12|months, 10|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "fish-cold-smoked-vacuum-pack",
+  "locale": "en",
+  "said": "3–5 days",
+  "allowed": "21|days, 30|days, 22|days, 23|days, 24|days, 25|days, 26|days, 27|days, 28|days, 29|days, 9|months, 12|months, 10|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "fish-cold-smoked-vacuum-pack",
+  "locale": "zh",
+  "said": "5 天",
+  "allowed": "21|days, 30|days, 22|days, 23|days, 24|days, 25|days, 26|days, 27|days, 28|days, 29|days, 9|months, 12|months, 10|months, 11|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "flour-white",
+  "locale": "en",
+  "said": "1 year",
+  "allowed": "6|months, 12|months, 7|months, 8|months, 9|months, 10|months, 11|months, 1|year",
+  "kind": "prose"
+ },
+ {
+  "slug": "flour-white",
+  "locale": "en",
+  "said": "1 year",
+  "allowed": "6|months, 12|months, 7|months, 8|months, 9|months, 10|months, 11|months, 1|year",
+  "kind": "prose"
+ },
+ {
+  "slug": "flour-white",
+  "locale": "en",
+  "said": "48 hours",
+  "allowed": "6|months, 12|months, 7|months, 8|months, 9|months, 10|months, 11|months, 1|year",
+  "kind": "prose"
+ },
+ {
+  "slug": "flour-white",
+  "locale": "zh",
+  "said": "1 年",
+  "allowed": "6|months, 12|months, 7|months, 8|months, 9|months, 10|months, 11|months, 1|year",
+  "kind": "prose"
+ },
+ {
+  "slug": "flour-white",
+  "locale": "zh",
+  "said": "1 年",
+  "allowed": "6|months, 12|months, 7|months, 8|months, 9|months, 10|months, 11|months, 1|year",
+  "kind": "prose"
+ },
+ {
+  "slug": "flour-white",
+  "locale": "zh",
+  "said": "48 小時",
+  "allowed": "6|months, 12|months, 7|months, 8|months, 9|months, 10|months, 11|months, 1|year",
+  "kind": "prose"
+ },
+ {
+  "slug": "grapefruit",
+  "locale": "en",
+  "said": "3 days",
+  "allowed": "10|days, 21|days, 11|days, 12|days, 13|days, 14|days, 15|days, 16|days, 17|days, 18|days, 19|days, 20|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "grapefruit",
+  "locale": "zh",
+  "said": "3 天",
+  "allowed": "10|days, 21|days, 11|days, 12|days, 13|days, 14|days, 15|days, 16|days, 17|days, 18|days, 19|days, 20|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "ham-canned",
+  "locale": "en",
+  "said": "3–5 days",
+  "allowed": "6|months, 9|months, 7|months, 8|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "ham-canned",
+  "locale": "en",
+  "said": "3–5 days",
+  "allowed": "6|months, 9|months, 7|months, 8|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "ham-canned",
+  "locale": "zh",
+  "said": "5 天",
+  "allowed": "6|months, 9|months, 7|months, 8|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "ham-fresh-cook-before-eating-arm-picnic",
+  "locale": "en",
+  "said": "3–4 days",
+  "allowed": "1|weeks, 1|months, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "ham-fresh-cook-before-eating-arm-picnic",
+  "locale": "en",
+  "said": "3–4 days",
+  "allowed": "1|weeks, 1|months, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "ham-fresh-cook-before-eating-arm-picnic",
+  "locale": "zh",
+  "said": "4 天",
+  "allowed": "1|weeks, 1|months, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "ham-fresh-cook-before-eating-bone-whole",
+  "locale": "en",
+  "said": "3–4 days",
+  "allowed": "1|weeks, 1|months, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "ham-fresh-cook-before-eating-bone-whole",
+  "locale": "en",
+  "said": "3–4 days",
+  "allowed": "1|weeks, 1|months, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "ham-fresh-cook-before-eating-bone-whole",
+  "locale": "zh",
+  "said": "4 天",
+  "allowed": "1|weeks, 1|months, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "ham-fresh-cook-before-eating-shoulder-roll",
+  "locale": "en",
+  "said": "3–4 days",
+  "allowed": "1|weeks, 1|months, 2|months",
+  "kind": "prose"
+ }
+]

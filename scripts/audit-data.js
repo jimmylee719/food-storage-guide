@@ -24,7 +24,9 @@ const path = require('path');
 
 const ROOT = path.join(__dirname, '..');
 const D = (...p) => path.join(ROOT, 'src', 'data', ...p);
-const LOCALES = ['en', 'zh', 'ja', 'es'];
+// Published locales only. Japanese and Spanish articles are retained but not
+// served, so a contradiction there misleads nobody today.
+const LOCALES = ['en', 'zh'];
 
 function readJson(p, fallback) {
   try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch { return fallback; }
@@ -163,6 +165,25 @@ if (!process.argv.includes('--prose-only')) {
       }
     }
   }
+}
+
+// --json writes every finding to scripts/audit/ so a reviewer can work the
+// whole queue instead of the first forty lines of console output.
+if (process.argv.includes('--json')) {
+  const dir = path.join(ROOT, 'scripts', 'audit');
+  fs.mkdirSync(dir, { recursive: true });
+  for (const f of fs.readdirSync(dir)) fs.unlinkSync(path.join(dir, f));
+  const rows = problems.prose.map((r) => ({ ...r, kind: 'prose' }))
+    .concat(problems.ordering.map((r) => ({ ...r, kind: 'ordering' })))
+    .concat(problems.magnitude.map((r) => ({ ...r, kind: 'magnitude' })));
+  const CHUNK = 60;
+  let n = 0;
+  for (let i = 0; i < rows.length; i += CHUNK) {
+    n++;
+    fs.writeFileSync(path.join(dir, `audit-${String(n).padStart(2, '0')}.json`), JSON.stringify(rows.slice(i, i + CHUNK), null, 1) + '\n');
+  }
+  console.log(`${rows.length} findings written to scripts/audit/ in ${n} files`);
+  process.exit(0);
 }
 
 function report(title, rows, render) {

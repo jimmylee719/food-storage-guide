@@ -1,0 +1,257 @@
+[
+ {
+  "slug": "pumpkins",
+  "locale": "en",
+  "said": "3–5 days",
+  "allowed": "2|months, 3|months, 5|months, 4|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "pumpkins",
+  "locale": "en",
+  "said": "3–5 days",
+  "allowed": "2|months, 3|months, 5|months, 4|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "pumpkins",
+  "locale": "zh",
+  "said": "5 天",
+  "allowed": "2|months, 3|months, 5|months, 4|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "retort-pouches-meat",
+  "locale": "en",
+  "said": "3 months",
+  "allowed": "3|days, 4|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "retort-pouches-meat",
+  "locale": "zh",
+  "said": "3 個月",
+  "allowed": "3|days, 4|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "sapote",
+  "locale": "en",
+  "said": "2 days",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "sapote",
+  "locale": "en",
+  "said": "2 days",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "sapote",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "sapote",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "3|days, 5|days, 4|days, 2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "sugar-brown",
+  "locale": "en",
+  "said": "2 years",
+  "allowed": "18|months, 24|months, 19|months, 20|months, 21|months, 22|months, 23|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "sugar-brown",
+  "locale": "zh",
+  "said": "2 年",
+  "allowed": "18|months, 24|months, 19|months, 20|months, 21|months, 22|months, 23|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "sugar-confectioners",
+  "locale": "en",
+  "said": "2 years",
+  "allowed": "18|months, 24|months, 19|months, 20|months, 21|months, 22|months, 23|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "sugar-confectioners",
+  "locale": "zh",
+  "said": "2 年",
+  "allowed": "18|months, 24|months, 19|months, 20|months, 21|months, 22|months, 23|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "sugar-granulated",
+  "locale": "en",
+  "said": "2 years",
+  "allowed": "18|months, 24|months, 19|months, 20|months, 21|months, 22|months, 23|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "sugar-granulated",
+  "locale": "zh",
+  "said": "2 年",
+  "allowed": "18|months, 24|months, 19|months, 20|months, 21|months, 22|months, 23|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "sweet-potato-leaves",
+  "locale": "en",
+  "said": "3–5 days",
+  "allowed": "2|days, 4|days, 3|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "sweet-potato-leaves",
+  "locale": "zh",
+  "said": "5 天",
+  "allowed": "2|days, 4|days, 3|days",
+  "kind": "prose"
+ },
+ {
+  "slug": "tomatoes",
+  "locale": "en",
+  "said": "7 days",
+  "allowed": "2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "tomatoes",
+  "locale": "en",
+  "said": "7 days",
+  "allowed": "2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "tomatoes",
+  "locale": "zh",
+  "said": "7 天",
+  "allowed": "2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "tomatoes",
+  "locale": "zh",
+  "said": "7 天",
+  "allowed": "2|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "turducken",
+  "locale": "en",
+  "said": "1–2 days",
+  "allowed": "9|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "turducken",
+  "locale": "en",
+  "said": "1–2 days",
+  "allowed": "9|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "turducken",
+  "locale": "en",
+  "said": "3–4 days",
+  "allowed": "9|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "turducken",
+  "locale": "en",
+  "said": "3–4 days",
+  "allowed": "9|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "turducken",
+  "locale": "en",
+  "said": "1–2 days",
+  "allowed": "9|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "turducken",
+  "locale": "en",
+  "said": "1–2 days",
+  "allowed": "9|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "turducken",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "9|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "turducken",
+  "locale": "zh",
+  "said": "4 天",
+  "allowed": "9|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "turducken",
+  "locale": "zh",
+  "said": "2 天",
+  "allowed": "9|months",
+  "kind": "prose"
+ },
+ {
+  "slug": "bresaola",
+  "why": "fromPurchase: fridge (2190h) outlasts freezer (1460h)",
+  "kind": "ordering"
+ },
+ {
+  "slug": "crab-meat-pasteurized",
+  "why": "fromPurchase: fridge (8760h) outlasts freezer (7300h)",
+  "kind": "ordering"
+ },
+ {
+  "slug": "ham-fully-cooked-canned-boneless",
+  "why": "fromPurchase: fridge (6570h) outlasts freezer (1460h)",
+  "kind": "ordering"
+ },
+ {
+  "slug": "prosciutto",
+  "why": "base: fridge (2190h) outlasts freezer (730h)",
+  "kind": "ordering"
+ },
+ {
+  "slug": "speck",
+  "why": "fromPurchase: fridge (2190h) outlasts freezer (1460h)",
+  "kind": "ordering"
+ },
+ {
+  "slug": "crab-meat-pasteurized",
+  "why": "fridge 10-12 months for a perishable",
+  "kind": "magnitude"
+ },
+ {
+  "slug": "cream-whipping-ultrapasteurized",
+  "why": "fridge 1-1 months for a perishable",
+  "kind": "magnitude"
+ },
+ {
+  "slug": "eggs-shell",
+  "why": "fridge 3-5 weeks for a perishable",
+  "kind": "magnitude"
+ },
+ {
+  "slug": "whipped-topping-aerosol-can",
+  "why": "fridge 3-3 months for a perishable",
+  "kind": "magnitude"
+ }
+]
