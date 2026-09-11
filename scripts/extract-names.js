@@ -39,6 +39,8 @@ const extra = fs.existsSync(extraDir)
   ? fs.readdirSync(extraDir).filter((f) => f.endsWith('.json')).sort()
       .flatMap((f) => readJson(path.join(extraDir, f), []))
   : [];
+// A curated record can retire a FoodKeeper record that had no storage data.
+for (const e of extra) for (const s of e.supersedes || []) replaced.add(s);
 const all = [...base.filter((f) => !replaced.has(f.slug)), ...split, ...extra];
 
 const contentDir = D('content');
