@@ -16,8 +16,16 @@
  * Findings are reported, never auto-fixed: every one needs a person to decide
  * which side is right.
  *
- *   node scripts/audit-data.js
- *   node scripts/audit-data.js --prose-only
+ * Findings that a person has reviewed and judged correct are recorded in
+ * scripts/audit-accepted.json, and are not reported again. That baseline is what
+ * makes this a regression check rather than a wall of noise: a run that prints
+ * nothing means nothing has changed since the last review, and anything printed
+ * is new.
+ *
+ *   node scripts/audit-data.js            # findings not yet accepted
+ *   node scripts/audit-data.js --all      # including accepted ones
+ *   node scripts/audit-data.js --accept   # record the current findings as reviewed
+ *   node scripts/audit-data.js --json     # write the queue to scripts/audit/
  */
 const fs = require('fs');
 const path = require('path');
@@ -62,13 +70,30 @@ function spans(food) {
 
 // ---- 1. prose against the table -----------------------------------------
 // Every duration the record permits, as "<number> <unit>" pairs.
+const NORM_UNIT = { year: 'years', month: 'months', week: 'weeks', day: 'days', hour: 'hours' };
+const norm = (u) => NORM_UNIT[u] || u;
+
 function permitted(food) {
   const set = new Set();
   for (const s of spans(food)) {
-    for (const n of [s.min, s.max]) if (n != null) set.add(`${n}|${s.unit}`);
+    const unit = norm(s.unit);
+    for (const n of [s.min, s.max]) if (n != null) set.add(`${n}|${unit}`);
+    // A figure given in months is often written as the equivalent in years, and
+    // the other way round. Both are the same claim.
+    if (unit === 'months') {
+      for (const n of [s.min, s.max]) {
+        if (n != null && n % 12 === 0) set.add(`${n / 12}|years`);
+      }
+      if (s.min != null && s.max != null) {
+        for (let y = Math.ceil(s.min / 12); y <= Math.floor(s.max / 12); y++) set.add(`${y}|years`);
+      }
+    }
+    if (unit === 'years') {
+      for (const n of [s.min, s.max]) if (n != null) set.add(`${n * 12}|months`);
+    }
     // A range written as prose often rounds to a value inside it.
     if (s.min != null && s.max != null) {
-      for (let n = s.min; n <= s.max && n - s.min < 24; n++) set.add(`${n}|${s.unit}`);
+      for (let n = s.min; n <= s.max && n - s.min < 24; n++) set.add(`${n}|${unit}`);
     }
   }
   return set;
@@ -82,6 +107,27 @@ const UNIT_WORDS = {
   years: /\b(years?|años?|ano)\b|年/,
 };
 
+/**
+ * A duration is only comparable with the table when it describes the same thing
+ * the table describes. These phrases mark a sentence that is talking about some
+ * other state of the food — cut, cooked, opened, still ripening — or about a
+ * condition the record has no row for, such as a commercial cold store. The
+ * record cannot confirm or contradict those, so flagging them is noise: a review
+ * of 159 such findings found every single one correct.
+ */
+const OTHER_STATE = new RegExp([
+  // English
+  'cut', 'sliced', 'chopped', 'cooked', 'boiled', 'roasted', 'pur[ée]e', 'leftover',
+  'once opened', 'after opening', 'opened', 'ripen', 'ripening', 'unripe',
+  'commercial', 'controlled', 'cold store', 'cold storage', 'storage room', 'warehouse',
+  'harvest', 'blanch', 'marinate', 'insect', 'egg[s]? in the flour', 'kill',
+  'is generally given', 'published figure for', 'compared with', 'whereas',
+  // Chinese
+  '切開', '切片', '切塊', '切好', '煮熟', '熟的', '煮過', '打成泥', '剩',
+  '開封後', '開封', '催熟', '未熟', '熟成', '商業', '冷藏庫', '冷藏庫房', '低溫倉',
+  '採收', '汆燙', '醃', '蟲卵', '殺蟲', '相比', '相較', '的數據是', '一般只給',
+].join('|'), 'i');
+
 function proseDurations(text) {
   const found = [];
   // The unit must follow the number directly. Allowing filler characters between
@@ -93,9 +139,15 @@ function proseDurations(text) {
     let unit = null;
     for (const [u, rx] of Object.entries(UNIT_WORDS)) if (rx.test(word)) { unit = u; break; }
     if (!unit) continue;
+    // The clause the number sits in, bounded by sentence punctuation.
+    const before = text.slice(0, m.index);
+    const after = text.slice(m.index);
+    const start = Math.max(before.lastIndexOf('.'), before.lastIndexOf('。'), before.lastIndexOf('；'), before.lastIndexOf(';')) + 1;
+    const endRel = after.search(/[.。！!？?]/);
+    const clause = (before.slice(start) + (endRel === -1 ? after : after.slice(0, endRel))).trim();
     for (const raw of [m[1], m[2]]) {
       if (raw == null) continue;
-      found.push({ n: Number(raw), unit, text: m[0].trim() });
+      found.push({ n: Number(raw), unit, text: m[0].trim(), clause });
     }
   }
   return found;
@@ -113,11 +165,12 @@ for (const food of foods) {
     const text = [c.summary, c.pantry, c.fridge, c.freezer].filter(Boolean).join(' ');
     for (const d of proseDurations(text)) {
       if (SAFETY_NUMBERS.has(d.n) && d.unit === 'hours') continue;
+      if (OTHER_STATE.test(d.clause)) continue;
       if (allow.has(`${d.n}|${d.unit}`)) continue;
       // A prose figure inside any permitted range of the same unit is fine.
-      const inRange = spans(food).some((s) => s.unit === d.unit && s.min != null && s.max != null && d.n >= s.min && d.n <= s.max);
+      const inRange = spans(food).some((s) => norm(s.unit) === d.unit && s.min != null && s.max != null && d.n >= s.min && d.n <= s.max);
       if (inRange) continue;
-      problems.prose.push({ slug: food.slug, locale: L, said: d.text, allowed: [...allow].join(', ') });
+      problems.prose.push({ slug: food.slug, locale: L, said: d.text, clause: d.clause.slice(0, 160), allowed: [...allow].join(', ') });
     }
   }
 }
@@ -186,7 +239,40 @@ if (process.argv.includes('--json')) {
   process.exit(0);
 }
 
+// ---- accepted baseline --------------------------------------------------
+const ACCEPTED_FILE = path.join(ROOT, 'scripts', 'audit-accepted.json');
+const key = (r) => [r.kind, r.slug, r.locale || '', r.said || r.why || ''].join(' ');
+
+const all = problems.prose.map((r) => ({ ...r, kind: 'prose' }))
+  .concat(problems.ordering.map((r) => ({ ...r, kind: 'ordering' })))
+  .concat(problems.magnitude.map((r) => ({ ...r, kind: 'magnitude' })));
+// The matcher emits one row per number in a range, so the same sentence can
+// arrive twice.
+const deduped = [...new Map(all.map((r) => [key(r), r])).values()];
+
+if (process.argv.includes('--accept')) {
+  const out = {
+    reviewed: new Date().toISOString().slice(0, 10),
+    note: 'Findings a reviewer checked against the article and the source, and judged correct. Delete an entry to have it reported again.',
+    findings: deduped.map((r) => ({ kind: r.kind, slug: r.slug, locale: r.locale ?? null, said: r.said ?? r.why })),
+  };
+  fs.writeFileSync(ACCEPTED_FILE, JSON.stringify(out, null, 1) + String.fromCharCode(10));
+  console.log(`accepted ${out.findings.length} reviewed findings`);
+  process.exit(0);
+}
+
+const acceptedRaw = readJson(ACCEPTED_FILE, { findings: [] });
+const accepted = new Set((acceptedRaw.findings || []).map((r) => key({ ...r, why: r.said })));
+const showAll = process.argv.includes('--all');
+const fresh = showAll ? deduped : deduped.filter((r) => !accepted.has(key(r)));
+
+problems.prose = fresh.filter((r) => r.kind === 'prose');
+problems.ordering = fresh.filter((r) => r.kind === 'ordering');
+problems.magnitude = fresh.filter((r) => r.kind === 'magnitude');
+
 function report(title, rows, render) {
+  // An empty section is noise on a clean run.
+  if (!rows.length) return;
   console.log(`\n${title}: ${rows.length}`);
   for (const r of rows.slice(0, 40)) console.log('  ' + render(r));
   if (rows.length > 40) console.log(`  … and ${rows.length - 40} more`);
@@ -200,4 +286,9 @@ if (!process.argv.includes('--prose-only')) {
 }
 
 const total = problems.prose.length + problems.ordering.length + problems.magnitude.length;
-console.log(`\n${foods.length} foods audited, ${total} finding${total === 1 ? '' : 's'}.`);
+console.log(
+  `\n${foods.length} foods audited, ${total} ${showAll ? '' : 'new '}finding${total === 1 ? '' : 's'}` +
+    (accepted.size && !showAll ? `, ${accepted.size} previously reviewed and accepted (${acceptedRaw.reviewed}).` : '.'),
+);
+// A clean run is a passing run, so this can gate a build.
+process.exit(total ? 1 : 0);

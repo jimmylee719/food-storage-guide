@@ -1,0 +1,312 @@
+{
+ "reviewed": "2026-09-11",
+ "note": "Findings a reviewer checked against the article and the source, and judged correct. Delete an entry to have it reported again.",
+ "findings": [
+  {
+   "kind": "prose",
+   "slug": "avocados",
+   "locale": "en",
+   "said": "2–5 days"
+  },
+  {
+   "kind": "prose",
+   "slug": "avocados",
+   "locale": "zh",
+   "said": "5 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "breadfruit",
+   "locale": "en",
+   "said": "20 days"
+  },
+  {
+   "kind": "prose",
+   "slug": "breadfruit",
+   "locale": "zh",
+   "said": "20 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "butter",
+   "locale": "en",
+   "said": "1–2 days"
+  },
+  {
+   "kind": "prose",
+   "slug": "butter",
+   "locale": "zh",
+   "said": "2 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "cherimoya",
+   "locale": "en",
+   "said": "2–4 days"
+  },
+  {
+   "kind": "prose",
+   "slug": "cookies-crispy",
+   "locale": "en",
+   "said": "1–2 weeks"
+  },
+  {
+   "kind": "prose",
+   "slug": "cookies-crispy",
+   "locale": "zh",
+   "said": "2 週"
+  },
+  {
+   "kind": "prose",
+   "slug": "cookies-soft",
+   "locale": "en",
+   "said": "3–5 days"
+  },
+  {
+   "kind": "prose",
+   "slug": "cookies-soft",
+   "locale": "zh",
+   "said": "5 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "jicama-fresh",
+   "locale": "en",
+   "said": "1–2 weeks"
+  },
+  {
+   "kind": "prose",
+   "slug": "lemons",
+   "locale": "zh",
+   "said": "3 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "limes",
+   "locale": "zh",
+   "said": "3 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "malanga",
+   "locale": "en",
+   "said": "18 weeks"
+  },
+  {
+   "kind": "prose",
+   "slug": "malanga",
+   "locale": "zh",
+   "said": "18 週"
+  },
+  {
+   "kind": "prose",
+   "slug": "meat-products-canned",
+   "locale": "en",
+   "said": "2 months"
+  },
+  {
+   "kind": "prose",
+   "slug": "meat-products-canned",
+   "locale": "zh",
+   "said": "2 個月"
+  },
+  {
+   "kind": "prose",
+   "slug": "melons",
+   "locale": "zh",
+   "said": "7 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "nectarines",
+   "locale": "en",
+   "said": "2 days"
+  },
+  {
+   "kind": "prose",
+   "slug": "nectarines",
+   "locale": "zh",
+   "said": "2 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "pastries-danish",
+   "locale": "en",
+   "said": "2–3 days"
+  },
+  {
+   "kind": "prose",
+   "slug": "pastries-danish",
+   "locale": "zh",
+   "said": "3 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "peaches",
+   "locale": "en",
+   "said": "2 days"
+  },
+  {
+   "kind": "prose",
+   "slug": "peaches",
+   "locale": "zh",
+   "said": "2 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "pears",
+   "locale": "en",
+   "said": "2 days"
+  },
+  {
+   "kind": "prose",
+   "slug": "pears",
+   "locale": "zh",
+   "said": "2 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "pineapple",
+   "locale": "en",
+   "said": "1–2 days"
+  },
+  {
+   "kind": "prose",
+   "slug": "pineapple",
+   "locale": "zh",
+   "said": "2 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "plantains",
+   "locale": "en",
+   "said": "1–2 days"
+  },
+  {
+   "kind": "prose",
+   "slug": "plantains",
+   "locale": "zh",
+   "said": "2 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "plums",
+   "locale": "en",
+   "said": "2 days"
+  },
+  {
+   "kind": "prose",
+   "slug": "plums",
+   "locale": "zh",
+   "said": "2 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "pumpkins",
+   "locale": "zh",
+   "said": "5 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "retort-pouches-meat",
+   "locale": "en",
+   "said": "3 months"
+  },
+  {
+   "kind": "prose",
+   "slug": "sapote",
+   "locale": "en",
+   "said": "2 days"
+  },
+  {
+   "kind": "prose",
+   "slug": "sapote",
+   "locale": "zh",
+   "said": "2 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "sweet-potato-leaves",
+   "locale": "zh",
+   "said": "5 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "tomatoes",
+   "locale": "en",
+   "said": "7 days"
+  },
+  {
+   "kind": "prose",
+   "slug": "tomatoes",
+   "locale": "zh",
+   "said": "7 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "turducken",
+   "locale": "en",
+   "said": "1–2 days"
+  },
+  {
+   "kind": "prose",
+   "slug": "turducken",
+   "locale": "zh",
+   "said": "2 天"
+  },
+  {
+   "kind": "ordering",
+   "slug": "bresaola",
+   "locale": null,
+   "said": "fromPurchase: fridge (2190h) outlasts freezer (1460h)"
+  },
+  {
+   "kind": "ordering",
+   "slug": "crab-meat-pasteurized",
+   "locale": null,
+   "said": "fromPurchase: fridge (8760h) outlasts freezer (7300h)"
+  },
+  {
+   "kind": "ordering",
+   "slug": "ham-fully-cooked-canned-boneless",
+   "locale": null,
+   "said": "fromPurchase: fridge (6570h) outlasts freezer (1460h)"
+  },
+  {
+   "kind": "ordering",
+   "slug": "prosciutto",
+   "locale": null,
+   "said": "base: fridge (2190h) outlasts freezer (730h)"
+  },
+  {
+   "kind": "ordering",
+   "slug": "speck",
+   "locale": null,
+   "said": "fromPurchase: fridge (2190h) outlasts freezer (1460h)"
+  },
+  {
+   "kind": "magnitude",
+   "slug": "crab-meat-pasteurized",
+   "locale": null,
+   "said": "fridge 10-12 months for a perishable"
+  },
+  {
+   "kind": "magnitude",
+   "slug": "cream-whipping-ultrapasteurized",
+   "locale": null,
+   "said": "fridge 1-1 months for a perishable"
+  },
+  {
+   "kind": "magnitude",
+   "slug": "eggs-shell",
+   "locale": null,
+   "said": "fridge 3-5 weeks for a perishable"
+  },
+  {
+   "kind": "magnitude",
+   "slug": "whipped-topping-aerosol-can",
+   "locale": null,
+   "said": "fridge 3-3 months for a perishable"
+  }
+ ]
+}

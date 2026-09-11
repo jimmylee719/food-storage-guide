@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "data": "node scripts/split-combined.js && node scripts/build-data.js",
-    "validate": "node scripts/validate-extra.js && node scripts/validate-content.js && node scripts/validate-guides.js && node scripts/check-links.js",
+    "validate": "node scripts/validate-extra.js && node scripts/validate-content.js && node scripts/validate-guides.js && node scripts/check-links.js && node scripts/audit-data.js",
     "qa": "node scripts/qa-pages.js",
     "labels": "node scripts/label-food-links.js"
   },
