@@ -1,12 +1,87 @@
 [
  {
+  "en": "A butter dish on the counter is fine for a day or two, and no longer for an unsalted cultured butter — this is the style most likely to go rancid on you, because the culture leaves it slightly acidic and it usually carries little or no salt. Keep the dish covered and out of the light; light and air, not bacteria, are what turn butter.",
+  "usedBy": 1,
+  "example": "Cultured butter",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "New Mexico State gives butter 1 to 2 months refrigerated. Keep it wrapped and in the door-free part of the fridge if you can; Ohio State takes the stricter line of 1 to 2 weeks, and that is the better guide for quality, because butter picks up every smell in the fridge and cultured butter has a delicate flavour to lose.",
+  "usedBy": 1,
+  "example": "Cultured butter",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "New Mexico State gives 6 to 9 months. Freeze it in its original wrapper inside a bag; the wrapper is greaseproof and the bag keeps the smells out. Thaw in the fridge, not on the counter.",
+  "usedBy": 1,
+  "example": "Cultured butter",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "The thick brown rind protects the pulp; the fruit is normally opened as soon as it drops.",
+  "usedBy": 1,
+  "example": "Cupuaçu",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Scoop the pulp off the seeds and keep it covered.",
+  "usedBy": 1,
+  "example": "Cupuaçu",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Frozen pulp is the standard form outside Brazil.",
+  "usedBy": 1,
+  "example": "Cupuaçu",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Set it at room temperature only until it firms, then get it straight into the fridge — the culture keeps working in the cold, just slowly, so a batch that is pleasant on day two is sharply sour by day five. Never dip a used spoon into the pot; that is what makes a batch go slimy or pink.",
+  "usedBy": 1,
+  "example": "Curd",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
   "en": "Leave them on the stem, do not wash them until you cook, and keep them in a closed box lined with dry kitchen paper — wet leaves blacken within two days. Ohioline's method for fresh herbs also works: stems in an inch of water like a bouquet, loosely bagged, water changed daily, up to a week. Curry leaves lose their aroma fast once they go limp, and a blackened leaf has nothing left to give.",
   "usedBy": 1,
   "example": "Curry leaves",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -17,9 +92,7 @@
   "usedBy": 1,
   "example": "Curry leaves",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -30,9 +103,7 @@
   "usedBy": 1,
   "example": "Curry roux",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -43,9 +114,7 @@
   "usedBy": 1,
   "example": "Curry roux",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -56,9 +125,7 @@
   "usedBy": 1,
   "example": "Curry roux",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -69,9 +136,7 @@
   "usedBy": 1,
   "example": "Curry roux",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -82,9 +147,7 @@
   "usedBy": 1,
   "example": "Curuba",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -95,9 +158,7 @@
   "usedBy": 1,
   "example": "Curuba",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -108,9 +169,7 @@
   "usedBy": 1,
   "example": "Curuba",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -121,9 +180,7 @@
   "usedBy": 1,
   "example": "Custard Apple",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -134,9 +191,29 @@
   "usedBy": 1,
   "example": "Custard Apple",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Clean out the ink sac and cuttlebone before storing, and keep it covered at 4C or below - the ink stains everything it touches.",
+  "usedBy": 1,
+  "example": "Cuttlefish",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freezing actually tenderises the flesh; freeze cleaned, in portions.",
+  "usedBy": 1,
+  "example": "Cuttlefish",
+  "missing": [
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -147,9 +224,7 @@
   "usedBy": 1,
   "example": "Daikon",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -160,9 +235,7 @@
   "usedBy": 1,
   "example": "Daikon",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -173,9 +246,7 @@
   "usedBy": 1,
   "example": "Dal",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -186,9 +257,7 @@
   "usedBy": 1,
   "example": "Dal",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -199,9 +268,7 @@
   "usedBy": 1,
   "example": "Dashi",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -212,9 +279,7 @@
   "usedBy": 1,
   "example": "Dashi",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -225,9 +290,7 @@
   "usedBy": 1,
   "example": "Dashi packet",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -238,9 +301,7 @@
   "usedBy": 1,
   "example": "Dashi packet",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -251,9 +312,7 @@
   "usedBy": 1,
   "example": "Doenjang",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -264,9 +323,7 @@
   "usedBy": 1,
   "example": "Doenjang",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -277,9 +334,7 @@
   "usedBy": 1,
   "example": "Dosa batter",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -290,9 +345,7 @@
   "usedBy": 1,
   "example": "Doubanjiang",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -303,9 +356,7 @@
   "usedBy": 1,
   "example": "Doubanjiang",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -316,9 +367,7 @@
   "usedBy": 1,
   "example": "Doubanjiang",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -329,9 +378,7 @@
   "usedBy": 1,
   "example": "Douhua",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -342,9 +389,7 @@
   "usedBy": 1,
   "example": "Douhua",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -355,9 +400,7 @@
   "usedBy": 1,
   "example": "Douhua",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -368,9 +411,7 @@
   "usedBy": 1,
   "example": "Dried anchovies",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -381,9 +422,7 @@
   "usedBy": 1,
   "example": "Dried anchovies",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -394,9 +433,7 @@
   "usedBy": 1,
   "example": "Dried anchovies",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -407,9 +444,7 @@
   "usedBy": 1,
   "example": "Dried chiles",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -420,9 +455,7 @@
   "usedBy": 1,
   "example": "Dried chiles",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -433,9 +466,7 @@
   "usedBy": 1,
   "example": "Glass noodles, dried",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -446,9 +477,7 @@
   "usedBy": 1,
   "example": "Glass noodles, dried",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -459,9 +488,7 @@
   "usedBy": 1,
   "example": "Dried Lily Flower",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -472,9 +499,7 @@
   "usedBy": 1,
   "example": "Dried Lily Flower",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -485,9 +510,7 @@
   "usedBy": 1,
   "example": "Rice vermicelli, dried",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -498,9 +521,7 @@
   "usedBy": 1,
   "example": "Rice vermicelli, dried",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -511,9 +532,7 @@
   "usedBy": 1,
   "example": "Dried scallop",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -524,9 +543,7 @@
   "usedBy": 1,
   "example": "Dried scallop",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -537,9 +554,7 @@
   "usedBy": 1,
   "example": "Dried scallop",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -550,9 +565,7 @@
   "usedBy": 1,
   "example": "Dried shrimp",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -563,9 +576,7 @@
   "usedBy": 1,
   "example": "Dried shrimp",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -576,9 +587,7 @@
   "usedBy": 1,
   "example": "Dried shrimp",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -589,9 +598,7 @@
   "usedBy": 1,
   "example": "Dried soba noodles",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -602,9 +609,7 @@
   "usedBy": 1,
   "example": "Dried soba noodles",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -615,9 +620,7 @@
   "usedBy": 1,
   "example": "Dried tofu",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -628,9 +631,7 @@
   "usedBy": 1,
   "example": "Dried tofu",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -641,9 +642,7 @@
   "usedBy": 1,
   "example": "Dried udon noodles",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -654,9 +653,7 @@
   "usedBy": 1,
   "example": "Dried udon noodles",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -667,9 +664,7 @@
   "usedBy": 1,
   "example": "Dried tofu skin",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -680,9 +675,7 @@
   "usedBy": 1,
   "example": "Dried tofu skin",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -693,9 +686,7 @@
   "usedBy": 1,
   "example": "Dry stuffing mix",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -706,9 +697,7 @@
   "usedBy": 1,
   "example": "Tapioca pearls, dry",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -719,9 +708,7 @@
   "usedBy": 1,
   "example": "Tapioca pearls, dry",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -732,9 +719,7 @@
   "usedBy": 1,
   "example": "Duck confit",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -745,9 +730,7 @@
   "usedBy": 1,
   "example": "Duck confit",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -758,9 +741,7 @@
   "usedBy": 1,
   "example": "Duck confit",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -771,9 +752,7 @@
   "usedBy": 1,
   "example": "Duck confit",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -784,9 +763,7 @@
   "usedBy": 1,
   "example": "Dulce de leche",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -797,9 +774,7 @@
   "usedBy": 1,
   "example": "Dulce de leche",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -810,9 +785,7 @@
   "usedBy": 1,
   "example": "Dumpling wrappers",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -823,9 +796,7 @@
   "usedBy": 1,
   "example": "Dumpling wrappers",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -836,9 +807,7 @@
   "usedBy": 1,
   "example": "Durian",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -849,9 +818,7 @@
   "usedBy": 1,
   "example": "Durian",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -862,9 +829,7 @@
   "usedBy": 1,
   "example": "Durian",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -875,9 +840,7 @@
   "usedBy": 1,
   "example": "Edam",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -888,9 +851,7 @@
   "usedBy": 1,
   "example": "Edam",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -901,9 +862,29 @@
   "usedBy": 1,
   "example": "Edam",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "A fresh wheat batter sheet with nothing to preserve it; keep at 4C or below and follow the printed date on a sealed pack.",
+  "usedBy": 1,
+  "example": "Egg crepe wrappers",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freeze with the interleaving sheets in place and peel them apart while still frozen.",
+  "usedBy": 1,
+  "example": "Egg crepe wrappers",
+  "missing": [
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -914,9 +895,7 @@
   "usedBy": 1,
   "example": "Egg dishes",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -927,9 +906,7 @@
   "usedBy": 1,
   "example": "Egusi",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -940,9 +917,7 @@
   "usedBy": 1,
   "example": "Egusi",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -953,9 +928,7 @@
   "usedBy": 1,
   "example": "Egusi",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -966,9 +939,7 @@
   "usedBy": 1,
   "example": "Enoki",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -979,9 +950,7 @@
   "usedBy": 1,
   "example": "Epazote",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -992,9 +961,7 @@
   "usedBy": 1,
   "example": "Epazote",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1005,9 +972,7 @@
   "usedBy": 1,
   "example": "Farro",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1018,9 +983,7 @@
   "usedBy": 1,
   "example": "Fermented bean curd",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1031,9 +994,7 @@
   "usedBy": 1,
   "example": "Fermented bean curd",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1044,9 +1005,7 @@
   "usedBy": 1,
   "example": "Fermented black beans",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1057,9 +1016,7 @@
   "usedBy": 1,
   "example": "Fermented black beans",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1070,9 +1027,7 @@
   "usedBy": 1,
   "example": "Feta",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1083,9 +1038,7 @@
   "usedBy": 1,
   "example": "Feta",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1096,9 +1049,7 @@
   "usedBy": 1,
   "example": "Filo pastry",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1109,9 +1060,7 @@
   "usedBy": 1,
   "example": "Filo pastry",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1122,9 +1071,7 @@
   "usedBy": 1,
   "example": "Firm tofu",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1135,9 +1082,7 @@
   "usedBy": 1,
   "example": "Firm tofu",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1148,9 +1093,7 @@
   "usedBy": 1,
   "example": "Fish balls",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1161,9 +1104,7 @@
   "usedBy": 1,
   "example": "Fish balls",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1174,9 +1115,7 @@
   "usedBy": 1,
   "example": "Fish sauce",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1187,9 +1126,7 @@
   "usedBy": 1,
   "example": "Fish sauce",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1200,9 +1137,7 @@
   "usedBy": 1,
   "example": "Fish sauce",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1213,9 +1148,7 @@
   "usedBy": 1,
   "example": "Flaxseed",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1226,9 +1159,29 @@
   "usedBy": 1,
   "example": "Flaxseed",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Keep at 4C or below; the salted, part-dried 一夜干 version is a different food with a different life.",
+  "usedBy": 1,
+  "example": "Threadfin",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "An oily fish - wrap tightly and use within the quality window.",
+  "usedBy": 1,
+  "example": "Threadfin",
+  "missing": [
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1239,9 +1192,7 @@
   "usedBy": 1,
   "example": "Freekeh",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1252,9 +1203,7 @@
   "usedBy": 1,
   "example": "Freekeh",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1265,9 +1214,7 @@
   "usedBy": 1,
   "example": "Fresh ramen noodles",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1278,9 +1225,7 @@
   "usedBy": 1,
   "example": "Fresh ramen noodles",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1291,9 +1236,7 @@
   "usedBy": 1,
   "example": "Fresh ramen noodles",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1304,9 +1247,7 @@
   "usedBy": 1,
   "example": "Fresh rice noodles",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1317,9 +1258,7 @@
   "usedBy": 1,
   "example": "Fresh rice noodles",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1330,9 +1269,7 @@
   "usedBy": 1,
   "example": "Fresh soba noodles",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1343,9 +1280,7 @@
   "usedBy": 1,
   "example": "Fresh soba noodles",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1356,9 +1291,7 @@
   "usedBy": 1,
   "example": "Fresh soba noodles",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1369,9 +1302,7 @@
   "usedBy": 1,
   "example": "Soy milk, freshly made",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1382,178 +1313,7 @@
   "usedBy": 1,
   "example": "Soy milk, freshly made",
   "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Freezing splits it. The protein and the water separate and no amount of shaking brings it back; use it in cooking if you have frozen some.",
-  "usedBy": 1,
-  "example": "Soy milk, freshly made",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "A cool, dark, airy spot — turmeric is a tropical rhizome and, like ginger, is chilling sensitive below about 12 °C (54 °F), so a few days out of the fridge does it no harm. It dehydrates and shrivels quickly in a dry kitchen.",
-  "usedBy": 1,
-  "example": "Turmeric",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Unpeeled, in a paper bag or a loosely closed box in the crisper. Cold is a compromise: the fridge is well below the 12–14 °C the rhizome actually wants, so expect skin darkening and pitting eventually, but it holds off mould and shrivelling for a couple of weeks. It stains everything it touches, cutting board and fingers included.",
-  "usedBy": 1,
-  "example": "Turmeric",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Freeze it whole and unpeeled, then grate from frozen — much the easiest way to handle it and no loss of colour.",
-  "usedBy": 1,
-  "example": "Turmeric",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Boiled udon is a 茹めん under Japan's 生めん類の衛生規範 and must be kept at 10 °C or below; the MHLW fresh-noodle HACCP guide requires it to be cooled to 10 °C promptly after boiling and held there. Go by the printed use-by date.",
-  "usedBy": 1,
-  "example": "Fresh udon noodles",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Sealed packs rely on an acid dip or post-pack pasteurisation. Once opened, cook within a day or two.",
-  "usedBy": 1,
-  "example": "Fresh udon noodles",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Udon freezes unusually well — commercial 冷凍うどん is sold this way. Boil from frozen; do not thaw first or it goes slack.",
-  "usedBy": 1,
-  "example": "Fresh udon noodles",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "It is not safe to cook and eat a whole lobster if it is dead at the time of preparation.",
-  "usedBy": 1,
-  "example": "Fresh whole lobster",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Japan's MHLW HACCP guide for fried bean-curd products gives 厚揚げ (thick fried tofu) refrigerated storage at 10 °C or below and a use-by of roughly one week, and stresses that it must be chilled immediately after frying because the inside is still plain tofu.",
-  "usedBy": 1,
-  "example": "Fried tofu puffs",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Freeze in a bag with the air pressed out; the fried skin goes rancid before the tofu goes off.",
-  "usedBy": 1,
-  "example": "Fried tofu puffs",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Keep the bag at -18 °C or below, deep in the freezer rather than in the door, and do not overfill the cabinet — crowding blocks airflow and lets the temperature drift.",
-  "usedBy": 1,
-  "example": "Frozen dumplings",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Do not thaw dumplings on the counter: the surface climbs into the 7-60 °C danger zone while the middle is still frozen, which the TFDA names as the biggest risk in home thawing. Boil or pan-fry straight from frozen, or thaw in the fridge and cook the same day. Never refreeze thawed raw dumplings.",
-  "usedBy": 1,
-  "example": "Frozen dumplings",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Thawing in the refrigerator is not recommended.",
-  "usedBy": 1,
-  "example": "Fruits",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",

@@ -15,6 +15,48 @@
   "zh": "洋菜",
   "ja": "かんてん"
  },
+ "aioli-homemade": {
+  "zh": "蒜味蛋黃醬（自製）"
+ },
+ "almond-butter": {
+  "zh": "杏仁醬"
+ },
+ "almond-extract": {
+  "zh": "杏仁精"
+ },
+ "almond-milk": {
+  "zh": "杏仁奶"
+ },
+ "almond-oil": {
+  "zh": "杏仁油"
+ },
+ "almonds-no-shell": {
+  "zh": "杏仁果（去殼）"
+ },
+ "almonds-shell": {
+  "zh": "杏仁果（帶殼）"
+ },
+ "amaranth-flour-meal": {
+  "zh": "莧籽粉"
+ },
+ "amaranth-whole-grain": {
+  "zh": "莧籽（全穀粒）"
+ },
+ "anchovies-canned": {
+  "zh": "鯷魚罐頭"
+ },
+ "apple-cider-fresh": {
+  "zh": "新鮮蘋果原汁"
+ },
+ "apple-cider-vinegar": {
+  "zh": "蘋果醋"
+ },
+ "apple-juice-fresh-squeezed": {
+  "zh": "蘋果汁（現榨）"
+ },
+ "applesauce-commercial": {
+  "zh": "蘋果泥醬（市售）"
+ },
  "arepas": {
   "zh": "玉米餅",
   "ja": "アレパ"
@@ -35,17 +77,83 @@
   "zh": "阿塔麵粉",
   "ja": "アタ"
  },
+ "avocado-oil": {
+  "zh": "酪梨油"
+ },
  "baba-ganoush": {
   "zh": "茄子芝麻醬",
   "ja": "ババガヌーシュ"
+ },
+ "baby-food-cereal": {
+  "zh": "嬰兒米麥精（沖泡穀粉）"
+ },
+ "baby-food-dinners": {
+  "zh": "嬰兒主餐副食品"
+ },
+ "baby-food-fruit": {
+  "zh": "嬰兒水果泥"
+ },
+ "baby-food-jars-pouches": {
+  "zh": "嬰兒副食品（罐裝或袋裝）"
+ },
+ "baby-food-vegetables": {
+  "zh": "嬰兒蔬菜泥"
  },
  "bacalao-salado": {
   "zh": "鹹鱈魚",
   "ja": "塩ダラ"
  },
+ "bacon-bits-imitation": {
+  "zh": "素培根碎粒"
+ },
+ "bacon-grease": {
+  "zh": "培根油"
+ },
+ "bacon-uncured": {
+  "zh": "培根（未醃製）"
+ },
+ "bagel-commercially-frozen": {
+  "zh": "貝果（市售冷凍）"
+ },
+ "bagel-fresh-baked": {
+  "zh": "貝果（現烤）"
+ },
  "baguette": {
   "zh": "法棍",
   "ja": "バゲット"
+ },
+ "balsamic-vinegar": {
+  "zh": "巴薩米克醋"
+ },
+ "barbecue-sauce-bottled": {
+  "zh": "烤肉醬（瓶裝）"
+ },
+ "barbecue-sauce-homemade-canned": {
+  "zh": "烤肉醬（自製罐裝）"
+ },
+ "barley-flour-meal": {
+  "zh": "大麥粉"
+ },
+ "barley-whole-grain": {
+  "zh": "大麥（全穀粒）"
+ },
+ "base-beef-vegetable": {
+  "zh": "濃縮高湯基底（牛肉、蔬菜）"
+ },
+ "basil-dried": {
+  "zh": "羅勒（乾燥）"
+ },
+ "basil-fresh": {
+  "zh": "羅勒（新鮮）"
+ },
+ "beans-dried": {
+  "zh": "豆類（乾燥）"
+ },
+ "beef-broth-stock-consomm-commercially-produced": {
+  "zh": "牛高湯（市售）"
+ },
+ "beets-pickled": {
+  "zh": "醃甜菜根"
  },
  "berbere": {
   "zh": "衣國辣香料",
@@ -58,6 +166,24 @@
  "biltong": {
   "zh": "南非肉乾",
   "ja": "ビルトン"
+ },
+ "biscuits-refrigerated": {
+  "zh": "比司吉麵團（冷藏）"
+ },
+ "bison-ground": {
+  "zh": "美洲野牛絞肉"
+ },
+ "bison-whole": {
+  "zh": "美洲野牛肉（整塊）"
+ },
+ "black-bean-sauce": {
+  "zh": "豆豉醬"
+ },
+ "black-pepper-cracked-dried-commercially-bottled-purchased-bulk": {
+  "zh": "黑胡椒粗粒"
+ },
+ "black-pepper-ground-dried-commercially-bottled-purchased-bulk": {
+  "zh": "黑胡椒粉"
  },
  "black-pudding": {
   "zh": "血腸",
@@ -87,6 +213,18 @@
   "zh": "滷蛋",
   "ja": "味付け玉子"
  },
+ "bratwurst-fresh": {
+  "zh": "德式香腸（生鮮）"
+ },
+ "bratwurst-smoked-processed": {
+  "zh": "德式香腸（煙燻加工）"
+ },
+ "bread-homemade": {
+  "zh": "麵包（自製）"
+ },
+ "breadcrumbs-commercial": {
+  "zh": "麵包粉（市售）"
+ },
  "bresaola": {
   "zh": "風乾牛肉",
   "ja": "ブレザオラ"
@@ -107,6 +245,18 @@
   "zh": "菜心",
   "ja": "ブロッコリーラーブ"
  },
+ "broth-homemade": {
+  "zh": "高湯（自製）"
+ },
+ "buckwheat-flour-meal": {
+  "zh": "蕎麥粉"
+ },
+ "buckwheat-whole-grain": {
+  "zh": "蕎麥（全穀粒）"
+ },
+ "bulgur": {
+  "zh": "布格麥"
+ },
  "burdock": {
   "zh": "牛蒡",
   "ja": "ごぼう"
@@ -114,6 +264,9 @@
  "burrata": {
   "zh": "布拉塔",
   "ja": "ブラータ"
+ },
+ "butter-flavor": {
+  "zh": "奶油香精"
  },
  "cabrales": {
   "zh": "藍紋乳酪",
@@ -123,13 +276,43 @@
   "zh": "羊奶焦糖醬",
   "ja": "カヘタ"
  },
+ "cajun-seasoning-blend-ground-dried-commercially-bottled-purchased-bulk": {
+  "zh": "卡真綜合香料粉"
+ },
+ "canadian-bacon-sliced": {
+  "zh": "加拿大培根（切片）"
+ },
+ "canadian-bacon-whole": {
+  "zh": "加拿大培根（整塊）"
+ },
+ "canned-goods-high-acid": {
+  "zh": "罐頭食品（高酸性）"
+ },
+ "canned-goods-low-acid": {
+  "zh": "罐頭食品（低酸性）"
+ },
+ "canola-oil": {
+  "zh": "芥花油"
+ },
+ "capers-jar": {
+  "zh": "酸豆（瓶裝）"
+ },
  "carnitas": {
   "zh": "油封豬肉",
   "ja": "カルニータス"
  },
+ "carrot-juice-fresh-squeezed": {
+  "zh": "胡蘿蔔汁（現榨）"
+ },
  "carrots": {
   "zh": "紅蘿蔔",
   "ja": "にんじん"
+ },
+ "cashew-butter": {
+  "zh": "腰果醬"
+ },
+ "cashews-no-shell": {
+  "zh": "腰果（去殼）"
  },
  "cassava-fresh-root": {
   "zh": "木薯",
@@ -139,6 +322,9 @@
   "zh": "冷凍木薯",
   "ja": "冷凍キャッサバ"
  },
+ "casseroles": {
+  "zh": "焗烤料理"
+ },
  "catfish": {
   "zh": "鯰魚",
   "ja": "なまず"
@@ -147,9 +333,21 @@
   "zh": "牛肉乾",
   "ja": "セシーナ"
  },
+ "celery-root": {
+  "zh": "根芹菜"
+ },
  "century-egg": {
   "zh": "皮蛋",
   "ja": "ピータン"
+ },
+ "cereal-cook-before-eating": {
+  "zh": "穀片（需煮過再食用，如燕麥片）"
+ },
+ "cereal-or-granola-bars": {
+  "zh": "穀物棒"
+ },
+ "cereal-ready-to-eat": {
+  "zh": "即食穀片"
  },
  "ceviche": {
   "zh": "酸漬生魚",
@@ -171,9 +369,27 @@
   "zh": "切達起司",
   "ja": "チェダーチーズ"
  },
+ "cheese-curds-fresh-unaged": {
+  "zh": "乳酪凝塊（新鮮未熟成）"
+ },
+ "cherry-tomatoes": {
+  "zh": "小番茄"
+ },
+ "chia-seeds": {
+  "zh": "奇亞籽"
+ },
  "chicharron": {
   "zh": "炸豬皮",
   "ja": "チチャロン"
+ },
+ "chicken-broth-stock-consomm-commercially-produced": {
+  "zh": "雞高湯（市售）"
+ },
+ "chicken-pre-packaged-luncheon-deli-meat": {
+  "zh": "雞肉（預包裝熟食肉片）"
+ },
+ "chicken-salad": {
+  "zh": "雞肉沙拉"
  },
  "chikuwa": {
   "zh": "竹輪",
@@ -199,13 +415,49 @@
   "zh": "韭花",
   "ja": "花ニラ"
  },
+ "chives": {
+  "zh": "蝦夷蔥"
+ },
+ "chocolate-hazlenut-spread": {
+  "zh": "榛果巧克力醬"
+ },
+ "chocolate-syrup": {
+  "zh": "巧克力糖漿"
+ },
+ "chorizo-fresh": {
+  "zh": "西班牙臘腸（生鮮）"
+ },
+ "chorizo-smoked-processed-cooked": {
+  "zh": "西班牙臘腸（煙燻加工、已熟）"
+ },
+ "chorizo-smoked-processed-uncooked": {
+  "zh": "西班牙臘腸（煙燻加工、未熟）"
+ },
  "choy-sum": {
   "zh": "菜心",
   "ja": "サイシン"
  },
+ "chutney": {
+  "zh": "印度酸甜醬"
+ },
  "chutney-fresh-herb": {
   "zh": "香菜醬",
   "ja": "フレッシュチャツネ"
+ },
+ "cilantro": {
+  "zh": "香菜"
+ },
+ "cinnamon-extract": {
+  "zh": "肉桂精"
+ },
+ "cinnamon-ground-dried-commercially-bottled-purchased-bulk": {
+  "zh": "肉桂粉"
+ },
+ "cinnamon-rolls-baked": {
+  "zh": "肉桂捲（已烤）"
+ },
+ "cinnamon-rolls-unbaked-tube": {
+  "zh": "肉桂捲麵團（未烤、筒裝）"
  },
  "clams-shucked": {
   "zh": "蛤蜊肉",
@@ -215,13 +467,52 @@
   "zh": "凝脂奶油",
   "ja": "凝縮クリーム"
  },
+ "coconut-cream-canned": {
+  "zh": "椰漿（罐裝）"
+ },
  "coconut-cream-fresh": {
   "zh": "椰漿",
   "ja": "ココナッツミルク"
  },
+ "coconut-flavor": {
+  "zh": "椰子香精"
+ },
+ "coconut-flour": {
+  "zh": "椰子粉"
+ },
+ "coconut-milk": {
+  "zh": "椰奶"
+ },
+ "coconut-milk-canned": {
+  "zh": "椰奶（罐裝）"
+ },
+ "coconut-oil": {
+  "zh": "椰子油"
+ },
+ "coconut-water": {
+  "zh": "椰子水"
+ },
  "cod": {
   "zh": "鱈魚",
   "ja": "たら"
+ },
+ "coffee-commercial-ground-non-vacuum": {
+  "zh": "咖啡粉（市售研磨、非真空包裝）"
+ },
+ "coffee-creamer-powdered": {
+  "zh": "奶精粉"
+ },
+ "coffee-home-ground-non-vacuum": {
+  "zh": "咖啡粉（自家研磨、非真空包裝）"
+ },
+ "coffee-instant": {
+  "zh": "即溶咖啡"
+ },
+ "coffee-whole-beans": {
+  "zh": "咖啡豆"
+ },
+ "coleslaw-homemade-prepared": {
+  "zh": "涼拌高麗菜絲（自製）"
  },
  "collard-greens": {
   "zh": "芥菜葉",
@@ -251,9 +542,15 @@
   "zh": "清酒",
   "ja": "りょうりしゅ"
  },
+ "cooking-wine": {
+  "zh": "料理酒"
+ },
  "coppa": {
   "zh": "卡波克洛",
   "ja": "コッパ"
+ },
+ "corn-syrup": {
+  "zh": "玉米糖漿"
  },
  "cotija": {
   "zh": "科蒂哈乳酪",
@@ -263,9 +560,24 @@
   "zh": "小米麵",
   "ja": "クスクス"
  },
+ "crackers": {
+  "zh": "鹹餅乾"
+ },
+ "cranberry-sauce-canned": {
+  "zh": "蔓越莓醬（罐裝）"
+ },
+ "cranberry-sauce-homemade": {
+  "zh": "蔓越莓醬（自製）"
+ },
  "crayfish": {
   "zh": "小龍蝦",
   "ja": "ザリガニ"
+ },
+ "cream-liquors-unopened": {
+  "zh": "奶酒（未開封）"
+ },
+ "cream-sauces-milk-solids": {
+  "zh": "奶油白醬（含乳固形物）"
  },
  "crema-mexicana": {
   "zh": "墨西哥酸奶油",
@@ -283,6 +595,9 @@
   "zh": "可樂餅",
   "ja": "コロッケ"
  },
+ "croutons": {
+  "zh": "麵包丁"
+ },
  "crumpets": {
   "zh": "克朗佩",
   "ja": "クランペット"
@@ -290,6 +605,9 @@
  "cultured-butter": {
   "zh": "發酵奶油",
   "ja": "発酵バター"
+ },
+ "cumin-ground-dried-commercially-bottled-purchased-bulk": {
+  "zh": "孜然粉"
  },
  "curd-dahi": {
   "zh": "凝乳",
@@ -322,6 +640,9 @@
  "dashi-packet": {
   "zh": "柴魚粉",
   "ja": "顆粒だし"
+ },
+ "diet-powder-mixes-and-drink-mixes": {
+  "zh": "代餐粉與沖泡飲品粉"
  },
  "doenjang": {
   "zh": "大醬",
@@ -383,6 +704,15 @@
   "zh": "腐竹",
   "ja": "ゆば"
  },
+ "dry-egg-noodles": {
+  "zh": "乾燥雞蛋麵"
+ },
+ "dry-gravy-mixes": {
+  "zh": "肉汁醬粉"
+ },
+ "dry-stuffing-mix-commercially-packaged": {
+  "zh": "乾燥填餡麵包粉（市售包裝）"
+ },
  "dry-tapioca-pearls": {
   "zh": "粉圓",
   "ja": "タピオカ"
@@ -390,6 +720,9 @@
  "duck-confit": {
   "zh": "油封鴨",
   "ja": "コンフィ"
+ },
+ "duck-fat": {
+  "zh": "鴨油"
  },
  "dulce-de-leche": {
   "zh": "牛奶焦糖醬",
@@ -403,9 +736,21 @@
   "zh": "艾丹",
   "ja": "エダム"
  },
+ "edamame-fresh": {
+  "zh": "毛豆（新鮮）"
+ },
+ "edamame-frozen": {
+  "zh": "毛豆（冷凍）"
+ },
+ "edamame-salted-dry-roasted-out-pod": {
+  "zh": "毛豆仁（鹽味乾烤）"
+ },
  "egg-crepe-wrapper": {
   "zh": "蛋餅",
   "ja": "クレープ生地"
+ },
+ "egg-salad": {
+  "zh": "蛋沙拉"
  },
  "egusi": {
   "zh": "瓜籽粉",
@@ -418,6 +763,12 @@
  "epazote": {
   "zh": "臭杏",
   "ja": "エパソーテ"
+ },
+ "farro-flour-meal": {
+  "zh": "法羅麥粉"
+ },
+ "farro-whole-grain": {
+  "zh": "法羅麥（全穀粒）"
  },
  "fava-beans": {
   "zh": "蠶豆",
@@ -451,9 +802,18 @@
   "zh": "魚露",
   "ja": "ヌクマム"
  },
+ "flaxseed-ground": {
+  "zh": "亞麻仁籽粉"
+ },
+ "flaxseed-whole-seed": {
+  "zh": "亞麻仁籽（全粒）"
+ },
  "flounder": {
   "zh": "比目魚",
   "ja": "ひらめ"
+ },
+ "formula-prepared": {
+  "zh": "配方奶（已沖泡）"
  },
  "fourfinger-threadfin": {
   "zh": "午仔",
@@ -462,6 +822,9 @@
  "freekeh": {
   "zh": "青麦",
   "ja": "フリーカ"
+ },
+ "fresh-pasta": {
+  "zh": "新鮮義大利麵"
  },
  "fresh-ramen-noodles": {
   "zh": "生麺",
@@ -495,9 +858,69 @@
   "zh": "水餃",
   "ja": "冷凍ぎょうざ"
  },
+ "frozen-egg-substitutes": {
+  "zh": "蛋替代品（冷凍）"
+ },
+ "frozen-entrees-prepared-meals": {
+  "zh": "冷凍調理主餐"
+ },
+ "frozen-fish-breaded": {
+  "zh": "魚排（裹粉冷凍）"
+ },
+ "frozen-fish-raw-headed-gutted": {
+  "zh": "魚（生鮮、已去頭去內臟）"
+ },
+ "frozen-fruits": {
+  "zh": "冷凍水果（莓果、瓜類等）"
+ },
+ "frozen-lobster-tails": {
+  "zh": "龍蝦尾（冷凍）"
+ },
+ "frozen-pancakes-waffles": {
+  "zh": "冷凍鬆餅與格子鬆餅"
+ },
+ "frozen-potato-products-fries-hashbrowns-tater-tots": {
+  "zh": "冷凍馬鈴薯製品（薯條、薯餅、薯球）"
+ },
+ "frozen-pretzels": {
+  "zh": "冷凍蝴蝶脆餅"
+ },
+ "frozen-sausages-precooked": {
+  "zh": "香腸（預熟、冷凍）"
+ },
+ "frozen-sausages-uncooked": {
+  "zh": "香腸（生鮮、冷凍）"
+ },
+ "frozen-shrimp-shellfish": {
+  "zh": "冷凍蝦與貝類"
+ },
+ "frozen-soy-crumbles-hot-dogs": {
+  "zh": "素肉碎與素熱狗（冷凍）"
+ },
+ "frozen-soy-meat-substitutes": {
+  "zh": "大豆素肉（冷凍）"
+ },
  "frozen-tangyuan": {
   "zh": "湯圓",
   "ja": "だんご"
+ },
+ "frozen-tempeh": {
+  "zh": "天貝（冷凍）"
+ },
+ "frozen-vegetables": {
+  "zh": "冷凍蔬菜"
+ },
+ "fruit-cocktail-canned": {
+  "zh": "什錦水果罐頭"
+ },
+ "fruit-juice-in-cartons-fruit-drinks-punch": {
+  "zh": "盒裝果汁、果汁飲料與綜合果汁飲"
+ },
+ "fruits-dried-raisins-apricots-mangoes-cranberries": {
+  "zh": "果乾（葡萄乾、杏桃乾、芒果乾、蔓越莓乾等）"
+ },
+ "frying-oil-re-used": {
+  "zh": "油炸油（重複使用）"
  },
  "fufu-flour": {
   "zh": "富富粉",
@@ -511,6 +934,9 @@
   "zh": "芥藍",
   "ja": "カイラン"
  },
+ "garam-masala": {
+  "zh": "印度綜合香料"
+ },
  "garland-chrysanthemum": {
   "zh": "茼蒿",
   "ja": "シュンギク"
@@ -519,9 +945,21 @@
   "zh": "韭菜",
   "ja": "ニラ"
  },
+ "garlic-powder-dried-commercially-bottled-purchased-bulk": {
+  "zh": "蒜粉"
+ },
  "gazpacho": {
   "zh": "番茄冷湯",
   "ja": "ガスパチョ"
+ },
+ "genuine-maple-syrup-unopened-glass": {
+  "zh": "純楓糖漿（未開封、玻璃瓶）"
+ },
+ "genuine-maple-syrup-unopened-plastic": {
+  "zh": "純楓糖漿（未開封、塑膠瓶）"
+ },
+ "ghee": {
+  "zh": "印度酥油"
  },
  "ghee-rice": {
   "zh": "抓飯",
@@ -559,13 +997,31 @@
   "zh": "高達",
   "ja": "ゴーダ"
  },
+ "graham-cracker-animal-cracker": {
+  "zh": "全麥餅乾／動物餅乾"
+ },
+ "granola": {
+  "zh": "格蘭諾拉麥片"
+ },
+ "grapeseed-oil": {
+  "zh": "葡萄籽油"
+ },
  "grass-jelly": {
   "zh": "仙草",
   "ja": "仙草ゼリー"
  },
+ "gravy-jars-cans": {
+  "zh": "肉汁醬（瓶裝或罐裝）"
+ },
  "green-beans": {
   "zh": "敏豆",
   "ja": "いんげん"
+ },
+ "grits-boxed": {
+  "zh": "玉米粗粉（盒裝）"
+ },
+ "gummy-fruit-snacks": {
+  "zh": "水果軟糖"
  },
  "habanero-pepper-fresh": {
   "zh": "哈瓦那辣椒",
@@ -591,9 +1047,24 @@
   "zh": "哈爾瓦",
   "ja": "ハルワ"
  },
+ "ham-pre-packaged-luncheon-deli-meat": {
+  "zh": "火腿（預包裝熟食肉片）"
+ },
+ "ham-salad": {
+  "zh": "火腿沙拉"
+ },
+ "ham-uncured-fresh-cooked": {
+  "zh": "火腿（未醃製、生鮮、已煮熟）"
+ },
+ "ham-uncured-fresh-uncooked": {
+  "zh": "火腿（未醃製、生鮮、未煮熟）"
+ },
  "hard-clam-live": {
   "zh": "文蛤",
   "ja": "あさり"
+ },
+ "hard-liquors": {
+  "zh": "烈酒"
  },
  "harissa": {
   "zh": "北非辣醬",
@@ -603,6 +1074,12 @@
   "zh": "羊栖菜",
   "ja": "ひじき"
  },
+ "hoisin-sauce": {
+  "zh": "海鮮醬"
+ },
+ "honey": {
+  "zh": "蜂蜜"
+ },
  "horchata": {
   "zh": "米漿",
   "ja": "オルチャータ"
@@ -611,9 +1088,24 @@
   "zh": "巴攏",
   "ja": "あじ"
  },
+ "horseradish-jar": {
+  "zh": "辣根醬（瓶裝）"
+ },
+ "hot-peppers": {
+  "zh": "辣椒"
+ },
+ "hot-sauce": {
+  "zh": "辣椒醬"
+ },
  "huitlacoche": {
   "zh": "玉米黑穗菌",
   "ja": "ウイトラコチェ"
+ },
+ "ice-cream": {
+  "zh": "冰淇淋"
+ },
+ "ice-pops": {
+  "zh": "冰棒"
  },
  "iceberg-lettuce": {
   "zh": "美生菜",
@@ -630,6 +1122,9 @@
  "injera": {
   "zh": "因傑拉",
   "ja": "インジェラ"
+ },
+ "instant-breakfast-drinks-bottled": {
+  "zh": "即飲早餐飲品（瓶裝）"
  },
  "instant-noodles": {
   "zh": "泡麵",
@@ -655,9 +1150,24 @@
   "zh": "整隻火腿",
   "ja": "生ハム"
  },
+ "jams-jellies-and-preserves": {
+  "zh": "果醬、果凍醬與蜜餞"
+ },
  "japanese-eel": {
   "zh": "鰻",
   "ja": "うなぎ"
+ },
+ "jicama-fresh": {
+  "zh": "豆薯（新鮮）"
+ },
+ "juice-boxes": {
+  "zh": "果汁（鋁箔包）"
+ },
+ "juice-concentrates": {
+  "zh": "濃縮果汁"
+ },
+ "kale": {
+  "zh": "羽衣甘藍"
  },
  "kamaboko": {
   "zh": "蒲鉾",
@@ -667,9 +1177,15 @@
   "zh": "卡什克",
   "ja": "カシュク"
  },
+ "ketchup-cocktail-or-chili-sauce": {
+  "zh": "番茄醬、海鮮醬汁或辣醬"
+ },
  "khoya": {
   "zh": "馬瓦",
   "ja": "コヤ"
+ },
+ "kimchi": {
+  "zh": "韓式泡菜"
  },
  "king-oyster-mushroom": {
   "zh": "杏鮑菇",
@@ -683,9 +1199,18 @@
   "zh": "角餅",
   "ja": "切り餅"
  },
+ "kohlrabi": {
+  "zh": "球莖甘藍"
+ },
  "kombu": {
   "zh": "昆布",
   "ja": "こんぶ"
+ },
+ "kugel-commercial": {
+  "zh": "猶太烤麵布丁（市售）"
+ },
+ "kugel-homemade": {
+  "zh": "猶太烤麵布丁（自製）"
  },
  "labneh": {
   "zh": "拉布內",
@@ -711,9 +1236,30 @@
   "zh": "葉萵苣",
   "ja": "リーフレタス"
  },
+ "lemon-extract": {
+  "zh": "檸檬精"
+ },
+ "lemon-juice": {
+  "zh": "檸檬汁"
+ },
+ "lemon-juice-fresh-squeezed": {
+  "zh": "檸檬汁（現榨）"
+ },
+ "lemongrass": {
+  "zh": "香茅"
+ },
+ "lentils-dried": {
+  "zh": "扁豆（乾燥）"
+ },
  "lima-beans": {
   "zh": "皇帝豆",
   "ja": "ライマメ"
+ },
+ "lime-juice": {
+  "zh": "萊姆汁"
+ },
+ "liquid-concentrate-or-ready-to-feed-formula": {
+  "zh": "濃縮液態或即飲配方奶"
  },
  "liver": {
   "zh": "肝",
@@ -734,6 +1280,15 @@
  "luffa": {
   "zh": "絲瓜",
   "ja": "ヘチマ"
+ },
+ "luncheon-meat-or-poultry-pre-packaged": {
+  "zh": "午餐肉或家禽肉片（預包裝）"
+ },
+ "macadamias-no-shell": {
+  "zh": "夏威夷豆（去殼）"
+ },
+ "macaroons-french": {
+  "zh": "馬卡龍（法式）"
  },
  "mackerel": {
   "zh": "鯖魚",
@@ -763,6 +1318,18 @@
   "zh": "饅頭",
   "ja": "マントウ"
  },
+ "marinades": {
+  "zh": "醃醬"
+ },
+ "marinated-vegetables-oil": {
+  "zh": "油漬醃蔬菜"
+ },
+ "marshmallow-cr-me": {
+  "zh": "棉花糖醬"
+ },
+ "marshmallows": {
+  "zh": "棉花糖"
+ },
  "marzipan": {
   "zh": "杏仁膏",
   "ja": "マジパン"
@@ -783,6 +1350,9 @@
   "zh": "松茸",
   "ja": "まつたけ"
  },
+ "mayonnaise-commercial": {
+  "zh": "美乃滋（市售）"
+ },
  "membrillo": {
   "zh": "榲桲膏",
   "ja": "メンブリージョ"
@@ -795,9 +1365,30 @@
   "zh": "麵味露",
   "ja": "つゆ"
  },
+ "milk-canned-evaporated-condensed": {
+  "zh": "罐裝奶水或煉乳"
+ },
+ "milk-lactose-free": {
+  "zh": "牛奶（無乳糖）"
+ },
+ "milk-shelf-stable": {
+  "zh": "牛奶（常溫保久）"
+ },
+ "milk-ultra-pasteurized": {
+  "zh": "牛奶（超高溫殺菌）"
+ },
  "milkfish": {
   "zh": "虱目魚",
   "ja": "サバヒー"
+ },
+ "millet-flour-meal": {
+  "zh": "小米粉"
+ },
+ "millet-whole-grain": {
+  "zh": "小米（全穀粒）"
+ },
+ "mint": {
+  "zh": "薄荷"
  },
  "mirin": {
   "zh": "味醂",
@@ -806,6 +1397,9 @@
  "mochi": {
   "zh": "餅",
   "ja": "のし餅"
+ },
+ "molasses": {
+  "zh": "糖蜜"
  },
  "mole-paste": {
   "zh": "摩爾醬",
@@ -827,6 +1421,15 @@
   "zh": "水牛乳酪",
   "ja": "モッツァレラ"
  },
+ "muffin-commercially-packaged": {
+  "zh": "瑪芬（市售包裝）"
+ },
+ "muffin-homemade-including-bran-blueberry-banana-corn": {
+  "zh": "瑪芬（自製，含麩皮、藍莓、香蕉、玉米、巧克力豆口味）"
+ },
+ "muffin-mix-dry-commercially-packaged": {
+  "zh": "瑪芬預拌粉（市售包裝）"
+ },
  "mullet": {
   "zh": "烏魚",
   "ja": "ぼら"
@@ -835,13 +1438,34 @@
   "zh": "唐墨",
   "ja": "からすみ"
  },
+ "mung-bean-dry-food-grade-bags": {
+  "zh": "綠豆（乾燥、食品級袋裝）"
+ },
+ "mung-bean-dry-vacuum-sealed": {
+  "zh": "綠豆（乾燥、真空包裝）"
+ },
+ "mung-bean-sprouts": {
+  "zh": "綠豆芽"
+ },
+ "mushrooms-dried": {
+  "zh": "乾燥菇類"
+ },
  "mussels-shucked": {
   "zh": "淡菜肉",
   "ja": "むき身ムール貝"
  },
+ "mustard": {
+  "zh": "芥末醬"
+ },
+ "mustard-dried-ground": {
+  "zh": "芥末粉"
+ },
  "naan": {
   "zh": "饢",
   "ja": "ナン"
+ },
+ "nacho-cheese-store-bought": {
+  "zh": "玉米片起司醬（市售）"
  },
  "name-tropical-yam": {
   "zh": "山藥",
@@ -859,6 +1483,9 @@
   "zh": "納豆",
   "ja": "なっとう"
  },
+ "nectar-papaya-mango-guava-guavabana": {
+  "zh": "果肉飲（木瓜、芒果、芭樂或刺果番荔枝）"
+ },
  "nopales": {
   "zh": "仙人掌葉",
   "ja": "ノパル"
@@ -871,17 +1498,56 @@
   "zh": "牛軋糖",
   "ja": "ヌガー"
  },
+ "nutmeg-ground-dried-commercially-bottled-purchased-bulk": {
+  "zh": "肉豆蔻粉"
+ },
+ "nutrition-supplement-drinks-bottled": {
+  "zh": "營養補充飲品（瓶裝）"
+ },
+ "nutrition-supplement-drinks-canned": {
+  "zh": "營養補充飲品（罐裝）"
+ },
+ "nuts-jars-cans": {
+  "zh": "堅果（瓶裝或罐裝）"
+ },
+ "oats-flour-meal": {
+  "zh": "燕麥粉"
+ },
+ "oats-whole-grain": {
+  "zh": "燕麥（全穀粒）"
+ },
  "ocean-perch": {
   "zh": "赤鮭",
   "ja": "あかうお"
+ },
+ "olives-black-green": {
+  "zh": "橄欖（黑橄欖與綠橄欖）"
  },
  "onigiri": {
   "zh": "飯糰",
   "ja": "握り飯"
  },
+ "onion-powder-dried-commercially-bottled-purchased-bulk": {
+  "zh": "洋蔥粉"
+ },
  "onions": {
   "zh": "洋蔥",
   "ja": "たまねぎ"
+ },
+ "orange-juice-commercially-frozen-concentrate": {
+  "zh": "柳橙汁（市售冷凍濃縮）"
+ },
+ "orange-juice-commercially-packaged-carton": {
+  "zh": "柳橙汁（市售紙盒裝）"
+ },
+ "orange-juice-freshly-squeezed": {
+  "zh": "柳橙汁（現榨）"
+ },
+ "oregano": {
+  "zh": "奧勒岡"
+ },
+ "oyster-sauce": {
+  "zh": "蠔油"
  },
  "oysters-shucked": {
   "zh": "蚵仔",
@@ -927,17 +1593,74 @@
   "zh": "帕瑪森起司",
   "ja": "パルメザンチーズ"
  },
+ "parsley-fresh": {
+  "zh": "巴西里（新鮮）"
+ },
  "parsnips": {
   "zh": "歐防風",
   "ja": "パースニップ"
+ },
+ "pasta-dry-without-eggs": {
+  "zh": "義大利麵（乾燥、不含蛋）"
+ },
+ "pasta-salad": {
+  "zh": "義大利麵沙拉"
+ },
+ "pastrami": {
+  "zh": "煙燻牛肉"
+ },
+ "pate": {
+  "zh": "肉醬抹醬"
+ },
+ "pate-meat": {
+  "zh": "肉醬抹醬（畜肉）"
+ },
+ "pate-poultry": {
+  "zh": "肉醬抹醬（禽肉）"
  },
  "pea-shoots": {
   "zh": "豆苗",
   "ja": "とうみょう"
  },
+ "peanut-butter-commercial": {
+  "zh": "花生醬（市售）"
+ },
+ "peanut-butter-commercially-produced-containing-hydrogenated-fat-other": {
+  "zh": "花生醬（市售，含氫化油或安定劑）"
+ },
+ "peanut-butter-natural": {
+  "zh": "花生醬（天然無添加）"
+ },
+ "peanuts-boiled-shelled": {
+  "zh": "花生（水煮、去殼）"
+ },
+ "peanuts-no-shell": {
+  "zh": "花生（去殼）"
+ },
+ "peanuts-shell": {
+  "zh": "花生（帶殼）"
+ },
+ "peas-dried-split": {
+  "zh": "乾燥去皮豌豆"
+ },
+ "pecans-chopped": {
+  "zh": "胡桃（碎粒）"
+ },
+ "pecans-no-shell": {
+  "zh": "胡桃（去殼）"
+ },
+ "pecans-shell": {
+  "zh": "胡桃（帶殼）"
+ },
+ "pectin": {
+  "zh": "果膠"
+ },
  "perilla-leaves": {
   "zh": "紫蘇",
   "ja": "しそ"
+ },
+ "pesto-jarred": {
+  "zh": "青醬（瓶裝）"
  },
  "pickled-ginger": {
   "zh": "醃薑",
@@ -947,9 +1670,27 @@
   "zh": "醃鯡魚",
   "ja": "マチェス"
  },
+ "pickles": {
+  "zh": "醃黃瓜"
+ },
+ "pie-crust-refrigerated": {
+  "zh": "派皮（冷藏）"
+ },
  "pig-blood-cake": {
   "zh": "米血",
   "ja": "豚の血の餅"
+ },
+ "pimento-cheese-packaged": {
+  "zh": "甜椒乳酪抹醬（包裝）"
+ },
+ "pine-nuts": {
+  "zh": "松子"
+ },
+ "pistachios-shell-no-shell": {
+  "zh": "開心果（帶殼或去殼）"
+ },
+ "pizza-frozen": {
+  "zh": "披薩（冷凍）"
  },
  "plantain-flour": {
   "zh": "大蕉粉",
@@ -967,6 +1708,12 @@
   "zh": "扁米",
   "ja": "ポハ"
  },
+ "polenta-frozen": {
+  "zh": "玉米糕（冷凍）"
+ },
+ "polenta-shelf-stable": {
+  "zh": "玉米糕（常溫保存）"
+ },
  "pollock": {
   "zh": "狹鱈",
   "ja": "すけとうだら"
@@ -979,6 +1726,15 @@
   "zh": "橙醋",
   "ja": "ポン酢"
  },
+ "popcorn-commercially-popped-bags": {
+  "zh": "爆米花（市售袋裝）"
+ },
+ "popcorn-dry-kernels-jar": {
+  "zh": "爆米花玉米粒（瓶裝）"
+ },
+ "popcorn-microwave-packets": {
+  "zh": "微波爆米花（包裝）"
+ },
  "pork-floss": {
   "zh": "肉鬆",
   "ja": "でんぶ"
@@ -986,6 +1742,24 @@
  "pork-meatballs-gongwan": {
   "zh": "貢丸",
   "ja": "豚肉だんご"
+ },
+ "pork-rinds": {
+  "zh": "炸豬皮"
+ },
+ "pork-roll": {
+  "zh": "豬肉腸卷"
+ },
+ "potato-chips": {
+  "zh": "洋芋片"
+ },
+ "potato-salad": {
+  "zh": "馬鈴薯沙拉"
+ },
+ "potatoes-instant": {
+  "zh": "馬鈴薯泥粉（即食）"
+ },
+ "powdered-milk": {
+  "zh": "奶粉"
  },
  "preserved-lemons": {
   "zh": "醃檸檬",
@@ -999,9 +1773,39 @@
   "zh": "布雷結",
   "ja": "プレッツェル"
  },
+ "pretzels": {
+  "zh": "蝴蝶脆餅"
+ },
+ "prosciutto": {
+  "zh": "義式生火腿"
+ },
+ "pudding-mixes": {
+  "zh": "布丁粉"
+ },
+ "puff-pastry": {
+  "zh": "酥皮"
+ },
  "pulpo-cooked": {
   "zh": "章魚",
   "ja": "タコ"
+ },
+ "pumpkin-seeds-raw-no-shell": {
+  "zh": "南瓜子（生、去殼）"
+ },
+ "pumpkin-seeds-raw-shell": {
+  "zh": "南瓜子（生、帶殼）"
+ },
+ "pumpkin-seeds-roasted-no-shell": {
+  "zh": "南瓜子（烘烤、去殼）"
+ },
+ "pumpkin-seeds-roasted-shell": {
+  "zh": "南瓜子（烘烤、帶殼）"
+ },
+ "pure-vanilla-extract": {
+  "zh": "純香草精"
+ },
+ "quark-fresh-cheese": {
+  "zh": "夸克乳酪（新鮮）"
  },
  "queso-fresco": {
   "zh": "白乳酪",
@@ -1011,9 +1815,21 @@
   "zh": "瓦哈卡乳酪",
   "ja": "ケシージョ"
  },
+ "quinoa-cooked": {
+  "zh": "藜麥（已煮熟）"
+ },
+ "quinoa-uncooked": {
+  "zh": "藜麥（未煮）"
+ },
+ "rabbit-whole-fresh": {
+  "zh": "兔肉（整隻、生鮮）"
+ },
  "raclette": {
   "zh": "拉可雷特",
   "ja": "ラクレット"
+ },
+ "radicchio": {
+  "zh": "紫菊苣"
  },
  "rasgulla": {
   "zh": "印度奶球",
@@ -1023,21 +1839,48 @@
   "zh": "真鯛",
   "ja": "たい"
  },
+ "red-wine": {
+  "zh": "紅酒"
+ },
+ "refried-beans": {
+  "zh": "墨西哥豆泥"
+ },
+ "relish": {
+  "zh": "酸黃瓜醬"
+ },
  "rendang-paste": {
   "zh": "仁當醬",
   "ja": "ルンダンの素"
+ },
+ "rice-brown": {
+  "zh": "糙米"
+ },
+ "rice-milk": {
+  "zh": "米漿"
  },
  "rice-vinegar": {
   "zh": "米醋",
   "ja": "こめず"
  },
+ "rice-white-wild": {
+  "zh": "米（白米或野米）"
+ },
  "rice-wine-cooking": {
   "zh": "米酒",
   "ja": "ライスワイン"
  },
+ "ricotta": {
+  "zh": "瑞可達乳酪"
+ },
  "rillettes": {
   "zh": "法式肉醬",
   "ja": "リエット"
+ },
+ "roasted-nuts-peanuts-cashews-almonds": {
+  "zh": "烘烤堅果（花生、腰果、杏仁）"
+ },
+ "roasted-red-peppers-jar": {
+  "zh": "烤紅甜椒（瓶裝）"
  },
  "rockfish": {
   "zh": "石斑",
@@ -1051,9 +1894,39 @@
   "zh": "洛克福",
   "ja": "青カビチーズ"
  },
+ "rosemary": {
+  "zh": "迷迭香"
+ },
  "rye-bread": {
   "zh": "裸麥麵包",
   "ja": "黒パン"
+ },
+ "rye-flour-meal": {
+  "zh": "黑麥粉"
+ },
+ "rye-whole-grain": {
+  "zh": "黑麥（全穀粒）"
+ },
+ "salad-dressing-creamy": {
+  "zh": "沙拉醬（濃稠乳化型）"
+ },
+ "salad-dressing-dry-packaged": {
+  "zh": "沙拉醬粉（包裝）"
+ },
+ "salad-dressing-homemade": {
+  "zh": "沙拉醬（自製）"
+ },
+ "salad-dressing-vinaigrette": {
+  "zh": "油醋醬"
+ },
+ "salad-dressing-vinaigrette-homemade": {
+  "zh": "油醋醬（自製）"
+ },
+ "salad-dressings-commercial-bottled": {
+  "zh": "沙拉醬（市售瓶裝）"
+ },
+ "salami-pre-packaged-luncheon-deli-meat": {
+  "zh": "莎樂美腸（預包裝熟食肉片）"
  },
  "salchichon": {
   "zh": "薩奇瓊",
@@ -1067,6 +1940,21 @@
   "zh": "濃稠番茄冷湯",
   "ja": "サルモレホ"
  },
+ "salsa-fresh": {
+  "zh": "莎莎醬（新鮮）"
+ },
+ "salsa-homemade-canned": {
+  "zh": "莎莎醬（自製罐裝）"
+ },
+ "salsa-homemade-fresh": {
+  "zh": "莎莎醬（自製新鮮）"
+ },
+ "salsa-picante-taco-sauces": {
+  "zh": "莎莎醬（辣味醬與塔可醬）"
+ },
+ "salt-table-plain-iodized": {
+  "zh": "食鹽（一般或加碘）"
+ },
  "salted-duck-egg": {
   "zh": "鹹蛋",
   "ja": "塩漬け卵"
@@ -1078,6 +1966,9 @@
  "salted-fish": {
   "zh": "鹹魚",
   "ja": "塩干し魚"
+ },
+ "sauce-mixes-nondairy": {
+  "zh": "醬料粉（不含乳製品，如義大利麵醬、塔可醬）"
  },
  "saucisson-sec-sliced": {
   "zh": "乾香腸切片",
@@ -1107,6 +1998,12 @@
   "zh": "海膽",
   "ja": "うに"
  },
+ "seafood-canned": {
+  "zh": "海鮮罐頭"
+ },
+ "seafood-salads": {
+  "zh": "海鮮沙拉（鮪魚、鮮蝦、鮭魚或綜合海鮮沙拉）"
+ },
  "seitan": {
   "zh": "麵筋",
   "ja": "セイタン"
@@ -1115,6 +2012,12 @@
   "zh": "蘇吉粉",
   "ja": "セモリナ"
  },
+ "sesame-oil": {
+  "zh": "麻油"
+ },
+ "sesame-seeds": {
+  "zh": "芝麻"
+ },
  "shacha-sauce": {
   "zh": "沙茶",
   "ja": "サーチャジャン"
@@ -1122,6 +2025,9 @@
  "shaobing": {
   "zh": "燒餅",
   "ja": "焼き餅"
+ },
+ "sherbet-sorbet": {
+  "zh": "雪酪與冰沙"
  },
  "shiitake-dried": {
   "zh": "冬菇",
@@ -1163,21 +2069,60 @@
   "zh": "紅椒豬肉抹醬",
   "ja": "ソブラサーダ"
  },
+ "soda-carbonated-cola-drinks-mixers-diet-sodas": {
+  "zh": "汽水（可樂、調飲汽水、無糖汽水；瓶裝或罐裝）"
+ },
  "sole": {
   "zh": "鰈魚",
   "ja": "したびらめ"
+ },
+ "sorghum-flour-meal": {
+  "zh": "高粱粉"
+ },
+ "sorghum-whole-grain": {
+  "zh": "高粱（全穀粒）"
+ },
+ "soup-mixes-dry-bouillon": {
+  "zh": "湯粉（乾燥高湯塊）"
+ },
+ "soup-stews": {
+  "zh": "湯品與燉菜"
  },
  "sourdough-bread": {
   "zh": "酸種麵包",
   "ja": "サワードウ"
  },
+ "soy-milk": {
+  "zh": "豆漿"
+ },
+ "soy-or-rice-beverage": {
+  "zh": "豆奶或米奶"
+ },
+ "soy-sauce-or-teriyaki-sauce": {
+  "zh": "醬油或照燒醬"
+ },
  "soybean-sprouts": {
   "zh": "黃豆芽",
   "ja": "豆もやし"
  },
+ "spaghetti-sauce-jars": {
+  "zh": "義大利麵醬（瓶裝）"
+ },
+ "spaghetti-squash-cut": {
+  "zh": "金絲瓜（已切）"
+ },
+ "spaghetti-squash-whole": {
+  "zh": "金絲瓜（整顆）"
+ },
  "speck": {
   "zh": "煙燻火腿",
   "ja": "スペック"
+ },
+ "spelt-flour-meal": {
+  "zh": "斯佩爾特小麥粉"
+ },
+ "spelt-whole-grain": {
+  "zh": "斯佩爾特小麥（全穀粒）"
  },
  "spinach": {
   "zh": "菠菜",
@@ -1211,6 +2156,9 @@
   "zh": "草菇",
   "ja": "フクロタケ"
  },
+ "string-cheese": {
+  "zh": "乳酪條"
+ },
  "sugar-snap-peas": {
   "zh": "甜豆",
   "ja": "スナップえんどう"
@@ -1226,6 +2174,21 @@
  "summer-squash": {
   "zh": "夏南瓜",
   "ja": "ズッキーニ"
+ },
+ "sun-dried-tomatoes-jar": {
+  "zh": "油漬番茄乾（瓶裝）"
+ },
+ "sunflower-oil": {
+  "zh": "葵花油"
+ },
+ "sunflower-seeds-raw-unsalted-no-shell": {
+  "zh": "葵瓜子（生、無鹽、去殼）"
+ },
+ "sunflower-seeds-roasted-no-shell": {
+  "zh": "葵瓜子（烘烤、去殼）"
+ },
+ "sunflower-seeds-roasted-salted-shell": {
+  "zh": "葵瓜子（烘烤、鹽味、帶殼）"
  },
  "sushi-rice-cooked": {
   "zh": "酢飯",
@@ -1251,9 +2214,18 @@
   "zh": "地瓜葉",
   "ja": "かんしょの葉"
  },
+ "swiss-chard": {
+  "zh": "瑞士甜菜"
+ },
  "swiss-cheese": {
   "zh": "瑞士起司",
   "ja": "スイスチーズ"
+ },
+ "syrup": {
+  "zh": "糖漿"
+ },
+ "tahini": {
+  "zh": "中東芝麻醬"
  },
  "takuan": {
   "zh": "沢庵",
@@ -1267,6 +2239,9 @@
   "zh": "提卡醬",
   "ja": "タンドリーマサラ"
  },
+ "tapenade": {
+  "zh": "橄欖酸豆醬"
+ },
  "taro-balls": {
   "zh": "芋圓",
   "ja": "タロイモ団子"
@@ -1275,8 +2250,23 @@
   "zh": "芋葉",
   "ja": "タロイモの葉"
  },
+ "tea-bags": {
+  "zh": "茶包"
+ },
  "tea-egg": {
   "zh": "茶蛋"
+ },
+ "tea-instant": {
+  "zh": "即溶茶粉"
+ },
+ "tea-loose": {
+  "zh": "散裝茶葉"
+ },
+ "teff-flour-meal": {
+  "zh": "苔麩粉"
+ },
+ "teff-whole-grain": {
+  "zh": "苔麩（全穀粒）"
  },
  "tempura-fishcake": {
   "zh": "黑輪",
@@ -1290,13 +2280,31 @@
   "zh": "泰國茄子",
   "ja": "タイナス"
  },
+ "thai-red-curry-paste": {
+  "zh": "泰式紅咖哩醬"
+ },
+ "thyme": {
+  "zh": "百里香"
+ },
  "tilapia": {
   "zh": "吳郭魚",
   "ja": "テラピア"
  },
+ "toaster-pastries": {
+  "zh": "烤吐司餡餅"
+ },
  "tomatillo": {
   "zh": "綠番茄",
   "ja": "トマティーヨ"
+ },
+ "tomato-paste": {
+  "zh": "番茄糊"
+ },
+ "tomato-sauce-homemade-canned": {
+  "zh": "番茄醬汁（自製罐裝）"
+ },
+ "tomato-sauce-spaghetti-pizza": {
+  "zh": "番茄醬汁（義大利麵、披薩用）"
  },
  "tongue": {
   "zh": "舌",
@@ -1305,6 +2313,9 @@
  "tortilla-de-patatas": {
   "zh": "西班牙烘蛋",
   "ja": "スペイン風オムレツ"
+ },
+ "tortillas-corn": {
+  "zh": "玉米薄餅"
  },
  "tortillas-corn-fresh": {
   "zh": "玉米餅",
@@ -1326,9 +2337,21 @@
   "zh": "年糕",
   "ja": "トック"
  },
+ "tuna-canned": {
+  "zh": "鮪魚罐頭"
+ },
  "tuna-fresh": {
   "zh": "鮪魚",
   "ja": "ツナ"
+ },
+ "tuna-packet": {
+  "zh": "鮪魚（軟袋包裝）"
+ },
+ "turkey-bacon": {
+  "zh": "火雞培根"
+ },
+ "turkey-pre-packaged-luncheon-deli-meat": {
+  "zh": "火雞肉（預包裝熟食肉片）"
  },
  "turron": {
   "zh": "杜隆糖",
@@ -1338,13 +2361,37 @@
   "zh": "蒲焼",
   "ja": "かばやき"
  },
+ "vegan-cheddar-cheese": {
+  "zh": "純素切達乳酪"
+ },
  "vegetable-fern": {
   "zh": "過貓",
   "ja": "コゴミ"
  },
+ "vegetable-juice-commercial-sold-refrigerated": {
+  "zh": "蔬菜汁（市售冷藏）"
+ },
+ "vegetable-juice-homemade": {
+  "zh": "蔬菜汁（自製）"
+ },
+ "vegetable-juice-shelf-stable": {
+  "zh": "蔬菜汁（常溫保存）"
+ },
+ "vegetable-soup-homemade": {
+  "zh": "蔬菜湯（自製）"
+ },
+ "vegetable-stock-broth-commercially-produced": {
+  "zh": "蔬菜高湯（市售）"
+ },
+ "vinegar": {
+  "zh": "醋"
+ },
  "wakame-dried": {
   "zh": "裙帶菜",
   "ja": "わかめ"
+ },
+ "walnuts-shell-no-shell": {
+  "zh": "核桃（帶殼或去殼）"
  },
  "water-bamboo": {
   "zh": "茭白筍",
@@ -1358,6 +2405,9 @@
   "zh": "水栗",
   "ja": "シログワイ"
  },
+ "water-commercially-bottled": {
+  "zh": "瓶裝水"
+ },
  "water-spinach": {
   "zh": "蕹菜",
   "ja": "エンサイ"
@@ -1369,6 +2419,18 @@
  "white-fungus": {
   "zh": "銀耳",
   "ja": "白きくらげ"
+ },
+ "white-wine": {
+  "zh": "白酒"
+ },
+ "whole-wheat-bread-commercially-baked-and-pre-sliced": {
+  "zh": "全麥吐司（市售預切）"
+ },
+ "whole-wheat-bread-homemade": {
+  "zh": "全麥麵包（自製）"
+ },
+ "whole-wheat-flour": {
+  "zh": "全麥麵粉"
  },
  "winged-bean": {
   "zh": "翼豆",
@@ -1390,9 +2452,18 @@
   "zh": "鮮木耳",
   "ja": "生きくらげ"
  },
+ "worcestershire-sauce": {
+  "zh": "伍斯特醬"
+ },
  "xo-sauce": {
   "zh": "XO醬",
   "ja": "XOジャン"
+ },
+ "yams-sweet-potatoes": {
+  "zh": "地瓜／山藥"
+ },
+ "yeast-packaged": {
+  "zh": "酵母（包裝）"
  },
  "yellowtail-buri": {
   "zh": "鰤魚",
@@ -1410,6 +2481,12 @@
   "zh": "油條",
   "ja": "揚げパン"
  },
+ "yuzu-fruit-fresh": {
+  "zh": "香橙（新鮮果實）"
+ },
+ "yuzu-juice": {
+  "zh": "香橙汁"
+ },
  "zaatar": {
   "zh": "扎塔香料",
   "ja": "ザータル"
@@ -1421,5 +2498,8 @@
  "zongzi": {
   "zh": "粽子",
   "ja": "ちまき"
+ },
+ "zucchini-fresh-whole": {
+  "zh": "櫛瓜（新鮮、整條）"
  }
 }

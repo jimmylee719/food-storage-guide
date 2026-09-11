@@ -116,7 +116,7 @@ export default function SearchBox({ locale, autoFocus }: Props) {
                 role="option"
                 aria-selected={i === active}
                 data-active={i === active}
-                href={h.p ? `/${locale}/food/${h.s}` : `/${locale}/category/${h.c}#${h.s}`}
+                href={`/${locale}/food/${h.s}`}
                 onClick={() => setOpen(false)}
                 onMouseEnter={() => setActive(i)}
               >

@@ -1,83 +1,5 @@
 [
  {
-  "slug": "aburaage",
-  "category": "vegetarian-proteins",
-  "english": "Aburaage (thin deep-fried tofu sheets)",
-  "keywords": [
-   "aburaage",
-   "abura age",
-   "fried tofu pouch",
-   "inari skin",
-   "油揚げ",
-   "あぶらあげ",
-   "いなり揚げ",
-   "豆皮",
-   "豆腐皮",
-   "薄油豆腐皮",
-   "tofu frito fino",
-   "lámina de tofu frito"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "豆皮",
-  "ja": "油揚げ",
-  "es": ""
- },
- {
-  "slug": "achar-oil-pickle",
-  "category": "condiments-sauces",
-  "english": "Achar (oil- and salt-cured South Asian pickle)",
-  "keywords": [
-   "achar",
-   "achaar",
-   "indian pickle",
-   "mango pickle",
-   "aam ka achar",
-   "lime pickle",
-   "nimbu achar",
-   "oil pickle",
-   "torshi",
-   "印度醃菜",
-   "油漬醃菜",
-   "芒果醃菜",
-   "阿查醃漬",
-   "アチャール",
-   "インドの漬物",
-   "マンゴーのピクルス",
-   "achar",
-   "encurtido indio en aceite"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "印度醃菜",
-  "ja": "アチャール",
-  "es": ""
- },
- {
-  "slug": "agar-dried",
-  "category": "shelf-stable",
-  "english": "Agar (dried strips, sticks or powder)",
-  "keywords": [
-   "agar",
-   "agar agar",
-   "kanten",
-   "洋菜",
-   "寒天",
-   "菜燕",
-   "かんてん",
-   "カンテン",
-   "agar-agar"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "洋菜",
-  "ja": "かんてん",
-  "es": ""
- },
- {
   "slug": "aioli-homemade",
   "category": "condiments-sauces",
   "english": "Aioli (homemade)",
@@ -92,9 +14,7 @@
    "mayo"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -110,9 +30,7 @@
    "butter"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -126,9 +44,7 @@
    "Almond extract"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -144,9 +60,7 @@
    "almond"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -161,9 +75,7 @@
    "almond"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -180,9 +92,7 @@
    "shell"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -198,9 +108,7 @@
    "shell"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -216,9 +124,7 @@
    "meal"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -234,9 +140,7 @@
    "grain"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -252,9 +156,7 @@
    "canned anchovies"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -270,9 +172,7 @@
    "cider"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -290,9 +190,7 @@
    "apple"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -311,9 +209,7 @@
    "apple"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -330,116 +226,10 @@
    "commercial"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
-  "es": ""
- },
- {
-  "slug": "arepas",
-  "category": "baked-goods",
-  "english": "Arepas (cooked corn cakes, and the dry masarepa flour)",
-  "keywords": [
-   "arepas",
-   "arepa",
-   "masarepa",
-   "precooked cornmeal",
-   "玉米餅",
-   "委內瑞拉玉米餅",
-   "哥倫比亞玉米餅",
-   "阿雷帕",
-   "アレパ",
-   "アレパス",
-   "トウモロコシのパン",
-   "arepas de maíz",
-   "harina de maíz precocida"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "玉米餅",
-  "ja": "アレパ",
-  "es": ""
- },
- {
-  "slug": "asafoetida",
-  "category": "herbs-spices",
-  "english": "Asafoetida (hing — compounded powder or lump resin)",
-  "keywords": [
-   "asafoetida",
-   "asafetida",
-   "hing",
-   "perungayam",
-   "devil's dung",
-   "ferula assa-foetida",
-   "阿魏",
-   "興渠",
-   "阿魏粉",
-   "臭阿魏",
-   "アサフェティダ",
-   "ヒング",
-   "アギ",
-   "asafétida",
-   "hing"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "阿魏",
-  "ja": "アギ",
-  "es": ""
- },
- {
-  "slug": "atsuage",
-  "category": "vegetarian-proteins",
-  "english": "Atsuage (thick deep-fried tofu, 生揚げ)",
-  "keywords": [
-   "atsuage",
-   "namaage",
-   "thick fried tofu",
-   "厚揚げ",
-   "あつあげ",
-   "生揚げ",
-   "厚炸豆腐",
-   "厚片油豆腐",
-   "tofu frito grueso"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "厚炸豆腐",
-  "ja": "厚揚げ",
-  "es": ""
- },
- {
-  "slug": "atta-flour",
-  "category": "baking-staples",
-  "english": "Atta (chakki-ground wholemeal wheat flour)",
-  "keywords": [
-   "atta",
-   "atta flour",
-   "chakki atta",
-   "chapati flour",
-   "wholemeal indian flour",
-   "gehun ka atta",
-   "印度全麥麵粉",
-   "阿塔麵粉",
-   "全粒小麥粉",
-   "薄餅麵粉",
-   "アタ",
-   "アタ粉",
-   "全粒小麦粉",
-   "harina atta",
-   "harina integral india"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "阿塔麵粉",
-  "ja": "アタ",
   "es": ""
  },
  {
@@ -452,39 +242,10 @@
    "oil"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
-  "es": ""
- },
- {
-  "slug": "baba-ganoush",
-  "category": "deli-prepared",
-  "english": "Baba ganoush (smoked aubergine and tahini dip)",
-  "keywords": [
-   "baba ganoush",
-   "baba ghanoush",
-   "mutabbal",
-   "eggplant dip",
-   "aubergine tahini dip",
-   "茄子芝麻醬",
-   "中東烤茄泥",
-   "巴巴甘努什",
-   "煙燻茄子沾醬",
-   "ババガヌーシュ",
-   "ババガヌージュ",
-   "焼きナスのディップ",
-   "baba ganoush",
-   "puré de berenjena ahumada"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "茄子芝麻醬",
-  "ja": "ババガヌーシュ",
   "es": ""
  },
  {
@@ -499,9 +260,7 @@
    "dry"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -516,9 +275,7 @@
    "dinner"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -532,9 +289,7 @@
    "Fruit"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -551,9 +306,7 @@
    "pouch"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -568,40 +321,10 @@
    "vegetable"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
-  "es": ""
- },
- {
-  "slug": "bacalao-salado",
-  "category": "seafood",
-  "english": "Bacalao salado (salt-cured dried cod)",
-  "keywords": [
-   "bacalao salado",
-   "salt cod",
-   "salted cod",
-   "baccala",
-   "bacalhau",
-   "morue salee",
-   "鹽漬鱈魚",
-   "鹹鱈魚",
-   "馬介休",
-   "鹽醃鱈魚乾",
-   "バカラオ",
-   "塩ダラ",
-   "干し塩ダラ",
-   "bacalao seco",
-   "bacalao en salazón"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "鹹鱈魚",
-  "ja": "塩ダラ",
   "es": ""
  },
  {
@@ -616,9 +339,7 @@
    "bit"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -634,9 +355,7 @@
    "grease"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -657,9 +376,7 @@
    "bacon"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -675,9 +392,7 @@
    "frozen"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -693,40 +408,10 @@
    "baked"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
-  "es": ""
- },
- {
-  "slug": "baguette",
-  "category": "baked-goods",
-  "english": "Baguette (lean crusty bread — flour, water, salt, yeast)",
-  "keywords": [
-   "baguette",
-   "french bread",
-   "french stick",
-   "pain",
-   "crusty bread",
-   "法式長棍",
-   "法國麵包",
-   "長棍麵包",
-   "法棍",
-   "バゲット",
-   "フランスパン",
-   "バタール",
-   "baguette",
-   "barra de pan",
-   "pan francés"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "法棍",
-  "ja": "バゲット",
   "es": ""
  },
  {
@@ -739,9 +424,7 @@
    "vinegar"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -758,9 +441,7 @@
    "Barbecue"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -778,9 +459,7 @@
    "barbecue sauce"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -796,9 +475,7 @@
    "meal"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -814,9 +491,7 @@
    "grain"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -834,9 +509,7 @@
    "vegetable"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -851,9 +524,7 @@
    "dried"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -868,9 +539,7 @@
    "fresh"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -885,9 +554,7 @@
    "dried"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -905,9 +572,7 @@
    "commercially produced"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -923,92 +588,10 @@
    "pickled"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
-  "es": ""
- },
- {
-  "slug": "berbere",
-  "category": "herbs-spices",
-  "english": "Berbere (Ethiopian chilli and spice blend)",
-  "keywords": [
-   "berbere",
-   "berbere spice",
-   "ethiopian chili blend",
-   "mitmita",
-   "衣索比亞辣椒粉",
-   "貝爾貝雷香料",
-   "衣索比亞綜合香料",
-   "衣國辣香料",
-   "ベルベレ",
-   "バルバレ",
-   "エチオピアのスパイスミックス",
-   "berbere",
-   "mezcla de especias etíope"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "衣國辣香料",
-  "ja": "ベルベレ",
-  "es": ""
- },
- {
-  "slug": "besan-gram-flour",
-  "category": "grains-beans-pasta",
-  "english": "Besan (gram flour, ground chana dal)",
-  "keywords": [
-   "besan",
-   "gram flour",
-   "chickpea flour",
-   "chana flour",
-   "kadalai maavu",
-   "鷹嘴豆粉",
-   "雞豆粉",
-   "印度豆粉",
-   "貝桑粉",
-   "ベサン",
-   "ひよこ豆粉",
-   "グラムフラワー",
-   "harina de garbanzo",
-   "besan"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "雞豆粉",
-  "ja": "ベサン",
-  "es": ""
- },
- {
-  "slug": "biltong",
-  "category": "meat",
-  "english": "Biltong (air-dried cured beef or game)",
-  "keywords": [
-   "biltong",
-   "droewors",
-   "air dried beef",
-   "cured dried meat",
-   "south african dried meat",
-   "南非肉乾",
-   "風乾牛肉乾",
-   "比爾通肉乾",
-   "醃製風乾肉",
-   "ビルトン",
-   "ビルトング",
-   "南アフリカの干し肉",
-   "biltong",
-   "carne seca curada"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "南非肉乾",
-  "ja": "ビルトン",
   "es": ""
  },
  {
@@ -1021,9 +604,7 @@
    "refrigerated"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1039,9 +620,7 @@
    "ground"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1057,9 +636,7 @@
    "whole"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1078,9 +655,7 @@
    "bean sauce"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1108,9 +683,7 @@
    "purchase"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1137,192 +710,10 @@
    "purchase"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
-  "es": ""
- },
- {
-  "slug": "black-pudding",
-  "category": "meat",
-  "english": "Black pudding (cooked blood sausage — British and Irish style)",
-  "keywords": [
-   "black pudding",
-   "blood sausage",
-   "blood pudding",
-   "boudin noir",
-   "blutwurst",
-   "血腸",
-   "黑布丁",
-   "英式血腸",
-   "豬血腸",
-   "米血腸",
-   "ブラックプディング",
-   "ブラッドソーセージ",
-   "血のソーセージ",
-   "morcilla inglesa",
-   "morcilla",
-   "salchicha de sangre"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "血腸",
-  "ja": "血のソーセージ",
-  "es": ""
- },
- {
-  "slug": "black-vinegar",
-  "category": "condiments-sauces",
-  "english": "Black vinegar (烏醋, Taiwanese seasoned dark vinegar)",
-  "keywords": [
-   "black vinegar",
-   "dark vinegar",
-   "Taiwanese black vinegar",
-   "烏醋",
-   "黑醋",
-   "五印醋",
-   "工研烏醋",
-   "黒酢",
-   "中華黒酢",
-   "ウスターソース風黒酢",
-   "vinagre negro",
-   "vinagre oscuro chino"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "烏醋",
-  "ja": "ウスターソース風黒酢",
-  "es": ""
- },
- {
-  "slug": "bluefish",
-  "category": "seafood",
-  "english": "Bluefish",
-  "keywords": [
-   "bluefish",
-   "扁鰺",
-   "青魚",
-   "あおざかな",
-   "anjova",
-   "Fatty fish",
-   "fish",
-   "fatty",
-   "blue",
-   "cat"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "扁鰺",
-  "ja": "あおざかな",
-  "es": ""
- },
- {
-  "slug": "boerewors",
-  "category": "meat",
-  "english": "Boerewors (fresh raw coriander-spiced sausage)",
-  "keywords": [
-   "boerewors",
-   "wors",
-   "farmer's sausage",
-   "south african sausage",
-   "fresh coriander sausage",
-   "南非香腸",
-   "農夫香腸",
-   "布爾沃斯香腸",
-   "生鮮香腸",
-   "ボーレボース",
-   "ブルボルス",
-   "南アフリカのソーセージ",
-   "boerewors",
-   "salchicha sudafricana"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "南非香腸",
-  "ja": "ブルボルス",
-  "es": ""
- },
- {
-  "slug": "bonito-flakes",
-  "category": "seafood",
-  "english": "Bonito flakes (katsuobushi shavings)",
-  "keywords": [
-   "bonito flakes",
-   "katsuobushi",
-   "dried bonito",
-   "かつお節",
-   "鰹節",
-   "かつおぶし",
-   "削り節",
-   "花かつお",
-   "柴魚片",
-   "柴魚",
-   "木魚花",
-   "copos de bonito",
-   "bonito seco"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "鰹節",
-  "ja": "削り節",
-  "es": ""
- },
- {
-  "slug": "boquerones-en-vinagre",
-  "category": "seafood",
-  "english": "Boquerones en vinagre (raw anchovies cured in vinegar, kept in oil)",
-  "keywords": [
-   "boquerones",
-   "boquerones en vinagre",
-   "vinegar anchovies",
-   "white anchovies",
-   "marinated anchovies",
-   "醋漬鯷魚",
-   "西班牙醋漬鯷魚",
-   "白鯷魚",
-   "醋醃小魚",
-   "ボケロネス",
-   "アンチョビの酢漬け",
-   "白いアンチョビ",
-   "anchoas en vinagre"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "白鯷魚",
-  "ja": "ボケロネス",
-  "es": ""
- },
- {
-  "slug": "braised-egg",
-  "category": "dairy-eggs",
-  "english": "Braised egg (shelled, in soy braise)",
-  "keywords": [
-   "braised egg",
-   "soy sauce egg",
-   "stewed egg",
-   "滷蛋",
-   "鹵蛋",
-   "醬油蛋",
-   "味付け玉子",
-   "煮卵",
-   "味玉",
-   "huevo estofado",
-   "huevo en salsa de soja"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "滷蛋",
-  "ja": "味付け玉子",
   "es": ""
  },
  {
@@ -1335,9 +726,7 @@
    "fresh"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1355,9 +744,7 @@
    "processed"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1373,9 +760,7 @@
    "homemade"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1390,129 +775,10 @@
    "breadcrumb"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
-  "es": ""
- },
- {
-  "slug": "bresaola",
-  "category": "meat",
-  "english": "Bresaola (air-dried salted beef, whole and sliced)",
-  "keywords": [
-   "bresaola",
-   "bresaola della valtellina",
-   "air dried beef",
-   "cured beef",
-   "義式風乾牛肉",
-   "布雷薩歐拉",
-   "風乾牛肉",
-   "醃製牛肉片",
-   "ブレザオラ",
-   "ブレサオラ",
-   "牛肉の生ハム",
-   "bresaola",
-   "cecina de vacuno",
-   "carne curada de vacuno"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "風乾牛肉",
-  "ja": "ブレザオラ",
-  "es": ""
- },
- {
-  "slug": "brie",
-  "category": "dairy-eggs",
-  "english": "Brie",
-  "keywords": [
-   "brie",
-   "camembert",
-   "布里起司",
-   "カマンベール",
-   "ブリー",
-   "queso brie",
-   "Cheese",
-   "bel paese",
-   "goat"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "布里起司",
-  "ja": "ブリー",
-  "es": ""
- },
- {
-  "slug": "brioche",
-  "category": "baked-goods",
-  "english": "Brioche (enriched butter-and-egg bread)",
-  "keywords": [
-   "brioche",
-   "enriched bread",
-   "butter bread",
-   "egg bread",
-   "布里歐",
-   "布里歐麵包",
-   "布莉歐修",
-   "奶油雞蛋麵包",
-   "法式奶油麵包",
-   "ブリオッシュ",
-   "ブリオッシュパン",
-   "バターパン",
-   "brioche",
-   "pan brioche",
-   "pan de mantequilla y huevo"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "布里歐",
-  "ja": "バターパン",
-  "es": ""
- },
- {
-  "slug": "broccoli",
-  "category": "vegetables",
-  "english": "Broccoli",
-  "keywords": [
-   "broccoli",
-   "青花菜",
-   "綠花椰菜",
-   "ブロッコリー",
-   "brócoli",
-   "raab"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "青花菜",
-  "ja": "ブロッコリー",
-  "es": ""
- },
- {
-  "slug": "broccoli-rabe",
-  "category": "vegetables",
-  "english": "Broccoli rabe",
-  "keywords": [
-   "broccoli raab",
-   "rapini",
-   "broccoli rabe",
-   "蕪菁葉花菜",
-   "菜心",
-   "ブロッコリーラーブ",
-   "grelo",
-   "raab"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "菜心",
-  "ja": "ブロッコリーラーブ",
   "es": ""
  },
  {
@@ -1524,9 +790,7 @@
    "homemade"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1543,9 +807,7 @@
    "meal"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1561,9 +823,7 @@
    "grain"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1577,57 +837,10 @@
    "bulgur"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
-  "es": ""
- },
- {
-  "slug": "burdock",
-  "category": "vegetables",
-  "english": "Burdock Root (fresh)",
-  "keywords": [
-   "burdock",
-   "gobo",
-   "牛蒡",
-   "ごぼう",
-   "ゴボウ",
-   "bardana",
-   "raíz de bardana"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "牛蒡",
-  "ja": "ごぼう",
-  "es": ""
- },
- {
-  "slug": "burrata",
-  "category": "dairy-eggs",
-  "english": "Burrata (mozzarella pouch filled with stracciatella and cream)",
-  "keywords": [
-   "burrata",
-   "burrata cheese",
-   "stracciatella cheese",
-   "布拉塔",
-   "布拉塔起司",
-   "布拉塔乳酪",
-   "奶油夾心莫札瑞拉",
-   "ブラータ",
-   "ブッラータ",
-   "ブラータチーズ",
-   "burrata",
-   "queso burrata"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "布拉塔",
-  "ja": "ブラータ",
   "es": ""
  },
  {
@@ -1639,63 +852,10 @@
    "butter"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
-  "es": ""
- },
- {
-  "slug": "cabrales",
-  "category": "dairy-eggs",
-  "english": "Cabrales (Asturian cave-ripened blue cheese)",
-  "keywords": [
-   "cabrales",
-   "queso cabrales",
-   "asturian blue cheese",
-   "picon bejes tresviso",
-   "valdeon",
-   "藍紋乳酪",
-   "西班牙藍紋乳酪",
-   "卡布拉萊斯",
-   "阿斯圖里亞斯藍乳酪",
-   "カブラレス",
-   "ブルーチーズ",
-   "スペイン産青カビチーズ",
-   "queso azul"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "藍紋乳酪",
-  "ja": "カブラレス",
-  "es": ""
- },
- {
-  "slug": "cajeta",
-  "category": "condiments-sauces",
-  "english": "Cajeta (goat's milk caramel from Celaya)",
-  "keywords": [
-   "cajeta",
-   "cajeta de celaya",
-   "goat milk caramel",
-   "cajeta quemada",
-   "cajeta envinada",
-   "山羊奶焦糖醬",
-   "羊奶焦糖醬",
-   "墨西哥焦糖醬",
-   "カヘタ",
-   "ヤギミルクキャラメル",
-   "山羊乳のミルクジャム",
-   "dulce de leche de cabra"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "羊奶焦糖醬",
-  "ja": "カヘタ",
   "es": ""
  },
  {
@@ -1722,9 +882,7 @@
    "purchase"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1740,9 +898,7 @@
    "sliced"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1758,9 +914,7 @@
    "whole"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1795,9 +949,7 @@
    "vinegar"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1834,9 +986,7 @@
    "spinach"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1851,9 +1001,7 @@
    "canola"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1871,36 +1019,10 @@
    "jar"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
-  "es": ""
- },
- {
-  "slug": "carnitas",
-  "category": "deli-prepared",
-  "english": "Carnitas (pork confited in its own fat)",
-  "keywords": [
-   "carnitas",
-   "carnitas de cerdo",
-   "confit pork",
-   "michoacan carnitas",
-   "墨西哥燉豬肉",
-   "油封豬肉",
-   "墨西哥手撕豬肉",
-   "カルニータス",
-   "豚肉のコンフィ",
-   "メキシコ風煮込み豚",
-   "carnitas michoacanas"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "油封豬肉",
-  "ja": "カルニータス",
   "es": ""
  },
  {
@@ -1915,31 +1037,10 @@
    "juices"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
-  "es": ""
- },
- {
-  "slug": "carrots",
-  "category": "vegetables",
-  "english": "Carrots",
-  "keywords": [
-   "carrot",
-   "carrots",
-   "紅蘿蔔",
-   "胡蘿蔔",
-   "にんじん",
-   "zanahoria"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "紅蘿蔔",
-  "ja": "にんじん",
   "es": ""
  },
  {
@@ -1952,9 +1053,7 @@
    "butter"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1971,60 +1070,10 @@
    "shell"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
-  "es": ""
- },
- {
-  "slug": "cassava-fresh-root",
-  "category": "vegetables",
-  "english": "Cassava (fresh root — yuca, manioc)",
-  "keywords": [
-   "cassava",
-   "yuca",
-   "manioc",
-   "mandioca",
-   "tapioca root",
-   "木薯",
-   "樹薯",
-   "木薯根",
-   "樹薯根",
-   "キャッサバ",
-   "タピオカの根",
-   "マニオク",
-   "yuca fresca",
-   "mandioca fresca"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "木薯",
-  "ja": "マニオク",
-  "es": ""
- },
- {
-  "slug": "cassava-frozen",
-  "category": "frozen-foods",
-  "english": "Cassava (frozen peeled chunks)",
-  "keywords": [
-   "frozen cassava",
-   "frozen yuca",
-   "frozen manioc",
-   "冷凍木薯",
-   "冷凍樹薯",
-   "冷凍キャッサバ",
-   "yuca congelada",
-   "mandioca congelada"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "冷凍木薯",
-  "ja": "冷凍キャッサバ",
   "es": ""
  },
  {
@@ -2036,61 +1085,10 @@
    "Casserole"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
-  "es": ""
- },
- {
-  "slug": "catfish",
-  "category": "seafood",
-  "english": "Catfish",
-  "keywords": [
-   "catfish",
-   "鯰魚",
-   "なまず",
-   "bagre",
-   "Fatty fish",
-   "fish",
-   "fatty",
-   "blue",
-   "cat"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "鯰魚",
-  "ja": "なまず",
-  "es": ""
- },
- {
-  "slug": "cecina",
-  "category": "meat",
-  "english": "Cecina (thin salted, air-dried beef)",
-  "keywords": [
-   "cecina",
-   "cecina de leon",
-   "cecina de res",
-   "salted dried beef",
-   "cecina enchilada",
-   "牛肉乾",
-   "西班牙牛肉乾",
-   "鹽漬風乾牛肉",
-   "墨西哥薄切牛肉",
-   "セシーナ",
-   "干し牛肉",
-   "スペイン産干し肉",
-   "cecina de vacuno",
-   "tasajo"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "牛肉乾",
-  "ja": "セシーナ",
   "es": ""
  },
  {
@@ -2103,38 +1101,10 @@
    "celery"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
-  "es": ""
- },
- {
-  "slug": "century-egg",
-  "category": "dairy-eggs",
-  "english": "Century egg (alkaline-cured duck egg, in shell)",
-  "keywords": [
-   "century egg",
-   "preserved egg",
-   "thousand-year egg",
-   "pidan",
-   "皮蛋",
-   "松花蛋",
-   "變蛋",
-   "灰包蛋",
-   "ピータン",
-   "皮蛋（ピータン）",
-   "huevo milenario",
-   "huevo centenario",
-   "huevo de cien años"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "皮蛋",
-  "ja": "ピータン",
   "es": ""
  },
  {
@@ -2150,9 +1120,7 @@
    "meal"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -2191,9 +1159,7 @@
    "breakfast bars"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -2209,113 +1175,10 @@
    "eat"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
-  "es": ""
- },
- {
-  "slug": "ceviche",
-  "category": "seafood",
-  "english": "Ceviche (raw fish or shellfish cured in citrus)",
-  "keywords": [
-   "ceviche",
-   "cebiche",
-   "seviche",
-   "tiradito",
-   "leche de tigre",
-   "檸檬醃生魚",
-   "酸漬生魚",
-   "秘魯檸檬醃魚",
-   "南美醃生魚",
-   "セビーチェ",
-   "セビチェ",
-   "マリネした生魚",
-   "ceviche de pescado",
-   "ceviche mixto"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "酸漬生魚",
-  "ja": "セビチェ",
-  "es": ""
- },
- {
-  "slug": "chapati-roti",
-  "category": "baked-goods",
-  "english": "Chapati (roti, phulka — fresh griddled flatbread)",
-  "keywords": [
-   "chapati",
-   "chapatti",
-   "roti",
-   "phulka",
-   "indian flatbread",
-   "whole wheat flatbread",
-   "印度薄餅",
-   "恰巴提",
-   "印度全麥薄餅",
-   "洽巴提",
-   "チャパティ",
-   "ロティ",
-   "インドの薄焼きパン",
-   "chapati",
-   "pan plano indio",
-   "roti"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "恰巴提",
-  "ja": "ロティ",
-  "es": ""
- },
- {
-  "slug": "chayote",
-  "category": "vegetables",
-  "english": "Chayote (fresh — mirliton, choko, vegetable pear)",
-  "keywords": [
-   "chayote",
-   "mirliton",
-   "choko",
-   "vegetable pear",
-   "christophene",
-   "chocho",
-   "佛手瓜",
-   "隼人瓜",
-   "梨瓜",
-   "合掌瓜",
-   "ハヤトウリ",
-   "チャヨテ",
-   "chayote fresco",
-   "güisquil"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "梨瓜",
-  "ja": "チャヨテ",
-  "es": ""
- },
- {
-  "slug": "cheddar-cheese",
-  "category": "dairy-eggs",
-  "english": "Cheddar",
-  "keywords": [
-   "cheddar",
-   "切達起司",
-   "チェダーチーズ",
-   "queso cheddar",
-   "Cheese"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "切達起司",
-  "ja": "チェダーチーズ",
   "es": ""
  },
  {
@@ -2330,9 +1193,7 @@
    "cheese curds"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -2348,9 +1209,7 @@
    "tomato"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -2367,39 +1226,10 @@
    "seeds"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
-  "es": ""
- },
- {
-  "slug": "chicharron",
-  "category": "snacks-nuts-seeds",
-  "english": "Chicharrón (puffed fried pork rind; see the note for the meaty prensado style)",
-  "keywords": [
-   "chicharron",
-   "chicharrón",
-   "pork rind",
-   "pork crackling",
-   "chicharron de cerdo",
-   "cueritos",
-   "炸豬皮",
-   "豬皮酥",
-   "豬油渣",
-   "脆豬皮",
-   "チチャロン",
-   "豚皮の唐揚げ",
-   "ポークラインド",
-   "chicharrón prensado"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "炸豬皮",
-  "ja": "チチャロン",
   "es": ""
  },
  {
@@ -2413,9 +1243,7 @@
    "commercially produced"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -2433,9 +1261,7 @@
    "packaged"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -2451,156 +1277,10 @@
    "salad"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
-  "es": ""
- },
- {
-  "slug": "chikuwa",
-  "category": "seafood",
-  "english": "Chikuwa (grilled tube-shaped fish paste)",
-  "keywords": [
-   "chikuwa",
-   "grilled fish paste tube",
-   "ちくわ",
-   "竹輪",
-   "焼きちくわ",
-   "竹輪魚卷",
-   "魚卷",
-   "竹輪（ちくわ）",
-   "chikuwa",
-   "rollo de pasta de pescado"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "竹輪",
-  "ja": "ちくわ",
-  "es": ""
- },
- {
-  "slug": "chili-crisp",
-  "category": "condiments-sauces",
-  "english": "Chilli crisp (crunchy chilli oil with fried solids)",
-  "keywords": [
-   "chili crisp",
-   "chilli crisp",
-   "crispy chili oil",
-   "lao gan ma",
-   "油潑辣子",
-   "辣椒脆",
-   "老干媽",
-   "香辣脆",
-   "食べるラー油",
-   "具入りラー油",
-   "chile crujiente",
-   "aceite de chile crujiente"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "辣椒脆",
-  "ja": "食べるラー油",
-  "es": ""
- },
- {
-  "slug": "chili-oil",
-  "category": "condiments-sauces",
-  "english": "Chilli oil (紅油 / ラー油)",
-  "keywords": [
-   "chili oil",
-   "chilli oil",
-   "hot oil",
-   "rayu",
-   "辣油",
-   "紅油",
-   "辣椒油",
-   "ラー油",
-   "食べるラー油",
-   "辣油（ラーユ）",
-   "aceite de chile",
-   "aceite picante",
-   "aceite de guindilla"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "辣油",
-  "ja": "ラー油",
-  "es": ""
- },
- {
-  "slug": "chinese-yam",
-  "category": "vegetables",
-  "english": "Chinese Yam (nagaimo, whole)",
-  "keywords": [
-   "chinese yam",
-   "nagaimo",
-   "yamaimo",
-   "mountain yam",
-   "山藥",
-   "淮山",
-   "長芋",
-   "ながいも",
-   "ヤマイモ",
-   "ñame chino"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "山藥",
-  "ja": "ながいも",
-  "es": ""
- },
- {
-  "slug": "chinkiang-vinegar",
-  "category": "condiments-sauces",
-  "english": "Chinkiang vinegar (鎮江香醋, aged black rice vinegar)",
-  "keywords": [
-   "Chinkiang vinegar",
-   "Zhenjiang vinegar",
-   "aged black rice vinegar",
-   "鎮江香醋",
-   "鎮江醋",
-   "香醋",
-   "陳醋",
-   "山西老陳醋",
-   "鎮江香酢",
-   "中国黒酢",
-   "チンコウ酢",
-   "vinagre de Chinkiang",
-   "vinagre negro añejo de arroz"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "香醋",
-  "ja": "チンコウ酢",
-  "es": ""
- },
- {
-  "slug": "chive-flowers",
-  "category": "vegetables",
-  "english": "Garlic Chive Flowers (flowering stems)",
-  "keywords": [
-   "chive flowers",
-   "flowering garlic chives",
-   "韭菜花",
-   "韭花",
-   "花韭",
-   "ニラの花",
-   "花ニラ",
-   "flor de cebollino chino"
-  ],
-  "missing": [
-   "es"
-  ],
-  "zh": "韭花",
-  "ja": "花ニラ",
   "es": ""
  },
  {
@@ -2611,9 +1291,832 @@
    "Chives"
   ],
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "chocolate-hazlenut-spread",
+  "category": "shelf-stable",
+  "english": "Chocolate hazlenut spread",
+  "keywords": [
+   "hazelnut spread",
+   "spread",
+   "hazelnut",
+   "chocolate spread",
+   "chocolate",
+   "Nutella",
+   "cocoa",
+   "cocoa spread"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "chocolate-syrup",
+  "category": "shelf-stable",
+  "english": "Chocolate syrup",
+  "keywords": [
+   "Chocolate syrup",
+   "Chocolate",
+   "syrup"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "chorizo-fresh",
+  "category": "meat",
+  "english": "Chorizo (fresh)",
+  "keywords": [
+   "fresh chorizo",
+   "chorizo"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "chorizo-smoked-processed-cooked",
+  "category": "meat",
+  "english": "Chorizo (smoked and processed, cooked)",
+  "keywords": [
+   "smoked chorizo",
+   "chorizo",
+   "processed chorizo",
+   "smoked",
+   "processed",
+   "cooked",
+   "cooked processed chorizo",
+   "cooked smoked chorizo"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "chorizo-smoked-processed-uncooked",
+  "category": "meat",
+  "english": "Chorizo (smoked and processed, uncooked)",
+  "keywords": [
+   "smoked chorizo",
+   "chorizo",
+   "processed chorizo",
+   "smoked",
+   "processed",
+   "uncooked",
+   "uncooked processed chorizo",
+   "uncooked smoked chorizo"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "chutney",
+  "category": "condiments-sauces",
+  "english": "Chutney",
+  "keywords": [
+   "Chutney"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "cilantro",
+  "category": "herbs-spices",
+  "english": "Cilantro",
+  "keywords": [
+   "Cilantro"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "cinnamon-extract",
+  "category": "baking-staples",
+  "english": "Cinnamon extract",
+  "keywords": [
+   "Cinnamon extract"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "cinnamon-ground-dried-commercially-bottled-purchased-bulk",
+  "category": "herbs-spices",
+  "english": "Cinnamon (ground, dried, commercially bottled or purchased in bulk)",
+  "keywords": [
+   "Cinnamon",
+   "ground",
+   "dried",
+   "commercially bottled",
+   "commercially",
+   "bottled",
+   "bottle",
+   "commercial",
+   "purchased in bulk",
+   "bulk",
+   "purchased",
+   "purchase"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "cinnamon-rolls-baked",
+  "category": "baking-staples",
+  "english": "Cinnamon rolls (baked)",
+  "keywords": [
+   "cinnamon rolls",
+   "cinnamon roll",
+   "cinnamon",
+   "roll",
+   "rolls"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "cinnamon-rolls-unbaked-tube",
+  "category": "baked-goods",
+  "english": "Cinnamon rolls (unbaked, tube)",
+  "keywords": [
+   "cinnamon rolls",
+   "cinnamon roll",
+   "cinnamon",
+   "roll",
+   "rolls"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "coconut-cream-canned",
+  "category": "shelf-stable",
+  "english": "Coconut cream (canned)",
+  "keywords": [
+   "coconut cream",
+   "coconut",
+   "cream",
+   "canned",
+   "can"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "coconut-flavor",
+  "category": "baking-staples",
+  "english": "Coconut flavor",
+  "keywords": [
+   "Coconut flavor",
+   "coconut"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "coconut-flour",
+  "category": "baking-staples",
+  "english": "Coconut flour",
+  "keywords": [
+   "coconut flour",
+   "coconut",
+   "flour"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "coconut-milk",
+  "category": "dairy-eggs",
+  "english": "Coconut milk",
+  "keywords": [
+   "Coconut milk",
+   "coconut",
+   "milk"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "coconut-milk-canned",
+  "category": "shelf-stable",
+  "english": "Coconut milk (canned)",
+  "keywords": [
+   "coconut milk",
+   "coconut",
+   "milk",
+   "canned",
+   "can"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "coconut-oil",
+  "category": "oils-fats",
+  "english": "Coconut oil",
+  "keywords": [
+   "Coconut oil",
+   "coconut",
+   "oil"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "coconut-water",
+  "category": "beverages",
+  "english": "Coconut water",
+  "keywords": [
+   "coconut water",
+   "coconut",
+   "water"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "coffee-commercial-ground-non-vacuum",
+  "category": "beverages",
+  "english": "Coffee (commercial ground, non-vacuum)",
+  "keywords": [
+   "Coffee",
+   "commercial ground",
+   "non-vacuum"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "coffee-creamer-powdered",
+  "category": "dairy-eggs",
+  "english": "Coffee creamer (powdered)",
+  "keywords": [
+   "Coffee creamer",
+   "creamer",
+   "cream",
+   "coffee",
+   "powdered",
+   "powder"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "coffee-home-ground-non-vacuum",
+  "category": "beverages",
+  "english": "Coffee (home ground, non-vacuum)",
+  "keywords": [
+   "Coffee",
+   "home ground",
+   "non vacuum",
+   "ground",
+   "home",
+   "vacuum"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "coffee-instant",
+  "category": "beverages",
+  "english": "Coffee (instant)",
+  "keywords": [
+   "Coffee",
+   "instant"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "coffee-whole-beans",
+  "category": "beverages",
+  "english": "Coffee (whole beans)",
+  "keywords": [
+   "Coffee",
+   "whole beans",
+   "beans",
+   "whole",
+   "bean"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "coleslaw-homemade-prepared",
+  "category": "deli-prepared",
+  "english": "Coleslaw (homemade, prepared)",
+  "keywords": [
+   "coleslaw",
+   "homemade",
+   "homemade coleslaw",
+   "prepared",
+   "prepared coleslaw"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "cooking-wine",
+  "category": "condiments-sauces",
+  "english": "Cooking wine",
+  "keywords": [
+   "cooking wine",
+   "wine",
+   "cooking"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "corn-syrup",
+  "category": "shelf-stable",
+  "english": "Corn syrup",
+  "keywords": [
+   "corn syrup",
+   "corn",
+   "syrup"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "crackers",
+  "category": "snacks-nuts-seeds",
+  "english": "Crackers",
+  "keywords": [
+   "Crackers",
+   "cracker"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "cranberry-sauce-canned",
+  "category": "condiments-sauces",
+  "english": "Cranberry sauce (canned)",
+  "keywords": [
+   "Cranberry sauce",
+   "sauce",
+   "canned"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "cranberry-sauce-homemade",
+  "category": "condiments-sauces",
+  "english": "Cranberry sauce (homemade)",
+  "keywords": [
+   "Cranberry sauce",
+   "sauce",
+   "homemade"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "cream-liquors-unopened",
+  "category": "beverages",
+  "english": "Cream liquors (unopened)",
+  "keywords": [
+   "Cream liquors",
+   "liquors",
+   "unopened",
+   "liquor"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "cream-sauces-milk-solids",
+  "category": "condiments-sauces",
+  "english": "Cream sauces, milk solids",
+  "keywords": [
+   "Cream sauces",
+   "milk solids",
+   "sauce",
+   "solids",
+   "cream",
+   "sauces",
+   "milk",
+   "solid"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "croutons",
+  "category": "snacks-nuts-seeds",
+  "english": "Croutons",
+  "keywords": [
+   "croutons",
+   "crouton",
+   "bread"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "cumin-ground-dried-commercially-bottled-purchased-bulk",
+  "category": "herbs-spices",
+  "english": "Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)",
+  "keywords": [
+   "Cumin",
+   "ground",
+   "dried",
+   "commercially bottled",
+   "commercially",
+   "bottled",
+   "bottle",
+   "commercial",
+   "purchased in bulk",
+   "bulk",
+   "purchased",
+   "purchase",
+   "opened",
+   "unopened",
+   "open",
+   "unopen"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "diet-powder-mixes-and-drink-mixes",
+  "category": "beverages",
+  "english": "Diet powder mixes and drink mixes",
+  "keywords": [
+   "Diet powder mixes",
+   "drink mixes",
+   "mixes",
+   "drink",
+   "powder mixes",
+   "diet powder",
+   "mix"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "dry-egg-noodles",
+  "category": "grains-beans-pasta",
+  "english": "Dry egg noodles",
+  "keywords": [
+   "Dry egg noodles",
+   "egg noodles",
+   "egg",
+   "noodles",
+   "noodle",
+   "dry"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "dry-gravy-mixes",
+  "category": "condiments-sauces",
+  "english": "Dry gravy mixes",
+  "keywords": [
+   "Dry gravy mixes",
+   "gravy",
+   "mixes",
+   "mix",
+   "dry"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "dry-stuffing-mix-commercially-packaged",
+  "category": "shelf-stable",
+  "english": "Dry stuffing mix (commercially packaged)",
+  "keywords": [
+   "Dry stuffing mix",
+   "Dry stuffing",
+   "stuffing mix",
+   "Dry",
+   "stuffing",
+   "mix",
+   "commercially packaged",
+   "packaged",
+   "commercially",
+   "commercial",
+   "pack"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "duck-fat",
+  "category": "oils-fats",
+  "english": "Duck fat",
+  "keywords": [
+   "Duck fat",
+   "duck"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "edamame-fresh",
+  "category": "vegetables",
+  "english": "Edamame (fresh)",
+  "keywords": [
+   "edamame",
+   "fresh",
+   "fresh edamame",
+   "soybeans",
+   "soybean"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "edamame-frozen",
+  "category": "frozen-foods",
+  "english": "Edamame (frozen)",
+  "keywords": [
+   "edamame",
+   "frozen",
+   "frozen edamame",
+   "soybean",
+   "soybeans"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "edamame-salted-dry-roasted-out-pod",
+  "category": "shelf-stable",
+  "english": "Edamame (salted, dry roasted, out of pod)",
+  "keywords": [
+   "edamame",
+   "soybean",
+   "soybeans",
+   "salted",
+   "roasted",
+   "dry roasted"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "egg-salad",
+  "category": "deli-prepared",
+  "english": "Egg salad",
+  "keywords": [
+   "Egg salad",
+   "egg",
+   "salad"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "farro-flour-meal",
+  "category": "baking-staples",
+  "english": "Farro (flour, meal)",
+  "keywords": [
+   "Farro",
+   "flour",
+   "meal"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "farro-whole-grain",
+  "category": "grains-beans-pasta",
+  "english": "Farro (whole grain)",
+  "keywords": [
+   "Farro",
+   "whole grain",
+   "grain"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "flaxseed-ground",
+  "category": "snacks-nuts-seeds",
+  "english": "Flaxseed (ground)",
+  "keywords": [
+   "Flaxseed",
+   "ground"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "flaxseed-whole-seed",
+  "category": "snacks-nuts-seeds",
+  "english": "Flaxseed (whole seed)",
+  "keywords": [
+   "Flaxseed",
+   "whole seed",
+   "seed"
+  ],
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "slug": "formula-prepared",
+  "category": "baby-food",
+  "english": "Formula (prepared)",
+  "keywords": [
+   "Formula",
+   "prepared",
+   "prepare"
+  ],
+  "missing": [
+   "zh"
   ],
   "zh": "",
   "ja": "",

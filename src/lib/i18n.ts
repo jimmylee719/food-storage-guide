@@ -188,7 +188,7 @@ const zh: Dict = {
   seeGuide: '閱讀完整指南',
   languageLabel: '語言',
   toc: '本文目錄',
-  groupedWith: (parent) => `美國農業部 FoodKeeper 將此食材與「${parent}」歸為同一筆資料，保存期限相同。`,
+  groupedWith: () => '美國農業部 FoodKeeper 把這項食材和數種性質相近的食材合併為同一筆資料，因此這裡的保存期限是那一組共用的數字。',
   foodTitleShort: (name) => `${name}保存期限一覽`,
   allFoodsDescription: '依分類瀏覽全部收錄食材，快速找到你要查的東西。每個分類頁都有常溫、冷藏、冷凍三欄的保存期限對照表。',
   homeFaqHeading: '關於食物保存的常見問題',

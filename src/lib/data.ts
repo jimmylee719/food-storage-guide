@@ -44,6 +44,15 @@ export function primarySpan(method?: Method): Span | null {
   return method.base || method.fromPurchase || method.afterOpening || method.afterThawing || null;
 }
 
+/** Which span the headline figure came from, so the panel can qualify it. */
+export function primarySpanKey(method?: Method): keyof Method | null {
+  if (!method) return null;
+  for (const k of ['base', 'fromPurchase', 'afterOpening', 'afterThawing'] as const) {
+    if (method[k]) return k;
+  }
+  return null;
+}
+
 /** "3–5 天" / "3–5 days" / "3〜5日" / "3–5 días" */
 export function formatSpan(span: Span | null | undefined, locale: Locale): string | null {
   if (!span) return null;

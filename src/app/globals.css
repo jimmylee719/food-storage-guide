@@ -96,20 +96,34 @@ small { font-size: .85rem; }
 .main-nav a:hover { background: var(--surface-2); color: var(--text); text-decoration: none; }
 .main-nav a[aria-current="page"] { color: var(--accent-text); background: var(--accent-soft); }
 
-.lang-switch { position: relative; }
-.lang-switch summary {
-  list-style: none; cursor: pointer; padding: 7px 11px; border-radius: 8px;
-  font-size: .92rem; color: var(--muted); border: 1px solid var(--line); background: var(--surface);
+/* A segmented switch, not a dropdown: both languages are visible, so nobody
+   has to guess that the label is clickable. */
+.lang-switch {
+  display: inline-flex;
+  padding: 3px;
+  gap: 2px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--surface-2);
 }
-.lang-switch summary::-webkit-details-marker { display: none; }
-.lang-menu {
-  position: absolute; inset-inline-end: 0; top: calc(100% + 6px); background: var(--surface);
-  border: 1px solid var(--line); border-radius: 10px; padding: 6px; min-width: 150px;
-  box-shadow: 0 12px 32px rgba(0,0,0,.14); z-index: 60;
+.lang-option {
+  display: inline-flex;
+  align-items: center;
+  padding: 7px 14px;
+  border-radius: 999px;
+  font-size: .88rem;
+  font-weight: 500;
+  color: var(--muted);
+  white-space: nowrap;
+  transition: background .12s ease, color .12s ease;
 }
-.lang-menu a { display: block; padding: 8px 12px; border-radius: 7px; color: var(--text); font-size: .92rem; }
-.lang-menu a:hover { background: var(--surface-2); text-decoration: none; }
-.lang-menu a[aria-current="true"] { color: var(--accent-text); font-weight: 600; }
+.lang-option:hover { color: var(--text); text-decoration: none; }
+.lang-option[data-active="true"] {
+  background: var(--accent);
+  color: #fff;
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(20, 122, 77, .3);
+}
 
 /* ---------- search ---------- */
 .search {
@@ -140,7 +154,7 @@ small { font-size: .85rem; }
 
 /* ---------- cards & grids ---------- */
 .grid { display: grid; gap: 14px; }
-.grid-cats { grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); }
+.grid-cats { grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); }
 .grid-cards { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
 
 .card {
@@ -390,4 +404,144 @@ details.faq-item .faq-answer { padding: 0 16px 14px; color: var(--muted); font-s
   .main-nav a, .main-nav button { min-height: 44px; display: inline-flex; align-items: center; }
   .chip-row .pill { min-height: 40px; display: inline-flex; align-items: center; }
   table th, table td { padding-block: 12px; }
+}
+
+
+/* ---------- consistent card sizing ---------- */
+/* Every category card is the same height whatever the label length, so the
+   grid reads as even rows rather than a ragged staircase. */
+.cat-card {
+  /* Fixed, not min: a long label must not make its card taller than the one
+     beside it. */
+  height: 88px;
+  padding: 14px 16px;
+  align-items: center;
+  overflow: hidden;
+}
+.cat-card-text { display: block; min-width: 0; }
+.cat-card h3 {
+  margin: 0;
+  font-size: .98rem;
+  line-height: 1.3;
+  overflow-wrap: anywhere;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.cat-card p {
+  margin: 3px 0 0;
+  font-size: .82rem;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+/* ---------- food tiles on the index ---------- */
+/* The index used to be a bare column of links. Every food now gets the same
+   tile as everywhere else: glyph, name, and the fridge time that answers the
+   question most people came with, without opening the page. */
+.food-tiles {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 10px;
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+}
+.food-tiles li { margin: 0; }
+.food-tile {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  /* Fixed height so a two-line name cannot stretch its whole row. */
+  height: 64px;
+  padding: 11px 13px;
+  border: 1px solid var(--line);
+  border-inline-start: 4px solid var(--cat-colour, var(--accent));
+  border-radius: var(--radius);
+  background: linear-gradient(100deg, var(--cat-tint, var(--accent-soft)) 0%, var(--surface) 58%);
+  color: var(--text);
+  transition: transform .12s ease, box-shadow .12s ease;
+}
+.food-tile:hover {
+  text-decoration: none;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 22px rgba(20, 30, 25, .12);
+}
+.food-tile-icon { font-size: 1.25rem; line-height: 1; flex: 0 0 auto; }
+.food-tile-name {
+  flex: 1 1 auto;
+  min-width: 0;
+  font-size: .95rem;
+  font-weight: 500;
+  line-height: 1.32;
+  overflow-wrap: anywhere;
+  /* Two lines, then ellipsis. The full name is on the food's own page. */
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.food-tile-time {
+  flex: 0 0 auto;
+  font-size: .82rem;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+/* Tiles inherit the category palette the same way the category cards do. */
+.food-tiles[data-cat="vegetables"]          { --cat-colour: #4b9b3f; --cat-tint: #eaf6e6; }
+.food-tiles[data-cat="fruits"]              { --cat-colour: #e07b16; --cat-tint: #fdf0e0; }
+.food-tiles[data-cat="meat"]                { --cat-colour: #c0392b; --cat-tint: #fbeae8; }
+.food-tiles[data-cat="poultry"]             { --cat-colour: #d4922a; --cat-tint: #fcf2e2; }
+.food-tiles[data-cat="seafood"]             { --cat-colour: #2c8fb5; --cat-tint: #e6f4fa; }
+.food-tiles[data-cat="dairy-eggs"]          { --cat-colour: #d6b431; --cat-tint: #fbf6e0; }
+.food-tiles[data-cat="grains-beans-pasta"]  { --cat-colour: #a8762f; --cat-tint: #f7efe3; }
+.food-tiles[data-cat="baked-goods"]         { --cat-colour: #b5762b; --cat-tint: #f9f0e4; }
+.food-tiles[data-cat="baking-staples"]      { --cat-colour: #c06fa0; --cat-tint: #fbedf5; }
+.food-tiles[data-cat="condiments-sauces"]   { --cat-colour: #b4453f; --cat-tint: #fbecea; }
+.food-tiles[data-cat="herbs-spices"]        { --cat-colour: #3f9d6d; --cat-tint: #e7f6ee; }
+.food-tiles[data-cat="oils-fats"]           { --cat-colour: #8a9b33; --cat-tint: #f2f6e0; }
+.food-tiles[data-cat="shelf-stable"]        { --cat-colour: #7d7f86; --cat-tint: #f0f1f3; }
+.food-tiles[data-cat="snacks-nuts-seeds"]   { --cat-colour: #9a6b3c; --cat-tint: #f6efe7; }
+.food-tiles[data-cat="beverages"]           { --cat-colour: #4a7fc1; --cat-tint: #eaf1fb; }
+.food-tiles[data-cat="frozen-foods"]        { --cat-colour: #4f8fd6; --cat-tint: #e9f2fc; }
+.food-tiles[data-cat="deli-prepared"]       { --cat-colour: #c2673a; --cat-tint: #fbeee6; }
+.food-tiles[data-cat="vegetarian-proteins"] { --cat-colour: #6d9b3a; --cat-tint: #eff6e4; }
+.food-tiles[data-cat="baby-food"]           { --cat-colour: #d98aa6; --cat-tint: #fdeef3; }
+
+@media (prefers-color-scheme: dark) {
+  .food-tile {
+    background: linear-gradient(100deg, color-mix(in srgb, var(--cat-colour) 20%, var(--surface)) 0%, var(--surface) 58%);
+  }
+}
+
+@media (max-width: 560px) {
+  .food-tiles { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; }
+  .food-tile { height: 60px; padding: 10px; }
+  .food-tile-time { display: none; }
+  .grid-cats { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+  .lang-option { padding: 7px 10px; font-size: .82rem; }
+}
+
+/* ---------- qualifiers ---------- */
+/* Which form of the food a figure describes — opened, whole, cooked — changes
+   the answer, so it is shown with the number rather than left implicit. */
+.storage-qualifier {
+  margin: 0 0 2px;
+  font-size: .82rem;
+  font-weight: 600;
+  color: var(--muted);
+  letter-spacing: .01em;
+}
+.food-qualifier {
+  margin: -6px 0 14px;
+  display: inline-block;
+  padding: 4px 11px;
+  border-radius: 999px;
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  color: var(--muted);
+  font-size: .85rem;
 }

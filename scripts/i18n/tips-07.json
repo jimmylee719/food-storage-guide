@@ -1,12 +1,340 @@
 [
  {
+  "en": "Freezing is legitimate here because you are going to melt it anyway. Slice it first, interleave with paper, and go straight from the freezer to the grill.",
+  "usedBy": 1,
+  "example": "Raclette",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "University of Hawaii postharvest guidance records about 3 to 5 days at 20 °C and 60% relative humidity. The spines dry and blacken first; the flesh is usually still good at that point.",
+  "usedBy": 1,
+  "example": "Rambutan",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Best at 8 to 15 °C with high humidity, which gives 14 to 16 days. A home refrigerator runs colder than that, so keep the fruit in a sealed bag in the least cold part and expect the shorter end of the range.",
+  "usedBy": 1,
+  "example": "Rambutan",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "FSSAI puts rasgulla, rasmalai, sandesh, cham cham and rajbhog in the 'Short Shelf Life' class: keep refrigerated and eat within two days of the date of manufacture. The syrup does not preserve them — the ball is fresh chhena, a soft high-moisture curd. Buy from a counter with real refrigeration and note that mithai shops often sell yesterday's tray.",
+  "usedBy": 1,
+  "example": "Rasgulla",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Scale and gut before chilling; hold at 4C or below and eat it raw only on the day it is cut.",
+  "usedBy": 1,
+  "example": "Sea bream",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freezing costs the firm texture prized for sashimi - freeze only fish you plan to cook.",
+  "usedBy": 1,
+  "example": "Sea bream",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Unopened jars and sachets keep to the printed date in a cool dark cupboard.",
+  "usedBy": 1,
+  "example": "Rendang paste",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Refrigerate once opened. Like every rempah, it is ground fresh shallot, garlic, ginger, galangal, turmeric and chilli — low-acid produce, usually sitting under oil, which is the exact combination NCHFP warns about. Five days cold is the USDA FoodKeeper figure for the equivalent Thai curry paste; NCHFP's limit for garlic in oil is four days at 4 °C or lower.",
+  "usedBy": 1,
+  "example": "Rendang paste",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freeze in portions. Homemade bumbu is much better frozen than refrigerated — NCHFP allows garlic in oil to be frozen 'for up to several months', and a fried-off paste keeps its flavour through it.",
+  "usedBy": 1,
+  "example": "Rendang paste",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Ohio State Extension's pantry chart gives unopened vinegar 2 years. Cool dark cupboard, capped. Vinegar is acid — it is one of the barrier foods that does not need refrigeration at all.",
+  "usedBy": 1,
+  "example": "Rice vinegar",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Ohioline gives opened vinegar 12 months. A cloudy haze or a gelatinous blob (a vinegar 'mother') in an old bottle is harmless; strain it out or ignore it. Seasoned or sushi vinegar has sugar and salt added and will taste tired sooner than the plain kind.",
+  "usedBy": 1,
+  "example": "Rice vinegar",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "米酒, Shaoxing and the other Chinese cooking wines are brewed or fortified alcohol at roughly 15 to 20 percent by volume, and alcohol at that strength is itself a preservation barrier — the FDA's labelling guidance lists barriers of this kind alongside acidification and salt as alternatives to refrigeration. Keep the bottle capped, upright, cool and dark. It does not need the fridge and does not spoil in the ordinary sense; what it does is oxidise, going flat and slightly sharp over a year or so of an open bottle. Cooking wines sold with salt added to dodge liquor licensing behave the same way.",
+  "usedBy": 1,
+  "example": "Rice wine",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "While the fat cap is unbroken and the pot is sealed, go by the date on it — a commercially potted rillettes is dated in weeks, and the fat is what makes that possible. Keep it at or below 4 °C. Health Canada and the FDA both name refrigerated pâtés and meat spreads as a Listeria risk, and Listeria grows in the fridge, so a long-dated chilled pot is exactly the kind of food where the date matters.",
+  "usedBy": 1,
+  "example": "Rillettes",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Break the fat cap and you have opened the product — that is the whole point of this record. The layer of white fat on top is not decoration and not a garnish; it is an oxygen and moisture barrier over a cooked, low-acid, ready-to-eat meat, and once you dig through it the meat underneath is on the same clock as any cooked meat dish: 3 to 4 days at or below 4 °C, New Mexico State's figure. Smoothing the fat back over the surface makes it look sealed again. It is not.",
+  "usedBy": 1,
+  "example": "Rillettes",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freeze it in the pot or in small ramekins with the fat layer intact. The texture survives freezing better than a smooth pâté does because the meat is already shredded.",
+  "usedBy": 1,
+  "example": "Rillettes",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "CTAHR: harvested fruit fully ripens in 5 to 8 days. Once the skin turns fully black the pulp goes clear and mucous and the fruit is edible for only 1 or 2 more days before it ferments.",
+  "usedBy": 1,
+  "example": "Rollinia",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "CTAHR records a shelf life of less than one week; refrigeration buys a couple of days at the ripe stage but this Annona is chilling-sensitive.",
+  "usedBy": 1,
+  "example": "Rollinia",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Wrap the cut face in its original foil or in waxed paper — foil is traditional here for a reason, it stops the paste drying and the blue over-breathing — then box it loosely at 0–5 °C. Roquefort is saltier and drier than gorgonzola dolce, which buys it a week or two, but it is still a moist, low-acid cheese and it goes on ripening in your fridge until it turns bitter and ammoniac.",
+  "usedBy": 1,
+  "example": "Roquefort",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Not recommended. It thaws into wet crumbs. Use those in a dressing if you have already done it.",
+  "usedBy": 1,
+  "example": "Roquefort",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Cut side down on a board under a cloth, or in a paper bag inside a bread bin. A dense sour rye is the best keeper of any bread here: it is acidic from the rye sour, and rye's pentosans hold water so it dries slowly. A sealed, sliced, dark rye pack from the supermarket keeps to its printed date and then moulds fast once opened, because the pack has been holding humidity against it.",
+  "usedBy": 1,
+  "example": "Rye bread",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Don't, unless you are only going to toast it. Refrigeration is the worst temperature for bread: a controlled study of storage conditions found pan wheat bread firmed to 424 % of its initial value after 10 days at 8.2 °C against 390 % at 21.9 °C. Cold does not stop staling, it accelerates it — the amylopectin side chains recrystallise fastest a little above freezing. The same study found no visible mould at 8.2 °C over 10 days, so the fridge buys you mould-freedom at the cost of texture. That is only a good trade for bread you are going to toast.",
+  "usedBy": 1,
+  "example": "Rye bread",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freezing does stop staling, because the starch cannot recrystallise below the glass transition. Slice the loaf first, freeze it in a bag, toast from frozen. This is the right answer for any bread you cannot finish in a few days.",
+  "usedBy": 1,
+  "example": "Rye bread",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Refrigeration ensures that commercial sauces and condiments stay fresh for a longer period of time. Shelf-stable commercial salad dressing is safe when stored at room temperature after opening. Quality, not safety, is the reason the labels on these products suggest that they be refrigerated after opening.",
+  "usedBy": 1,
+  "example": "Salad dressings",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Keep the scaly skin on and store dry and cool; overripe fruit turns tasteless and develops an off odour.",
+  "usedBy": 1,
+  "example": "Salak",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Loose in a paper bag rather than sealed plastic, which sweats and rots the fruit.",
+  "usedBy": 1,
+  "example": "Salak",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "A whole, unopened dry-cured sausage in its natural casing hangs in a cool, dry, airy place — that is how it is sold in Spain and how it goes on drying. It gets firmer and more concentrated with time. The white bloom on the casing is the intended surface mould and is fine; fuzzy grey, green or black patches, or a sour ammonia smell, are not.",
+  "usedBy": 1,
+  "example": "Salchichón",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Once cut or once a vacuum pack is opened, refrigerate at or below 40 °F (4 °C). Wrap the cut end in paper rather than plastic film so it can still breathe a little, and slice from it as you go. Sliced salchichón dries out and browns within days — buy the piece, not the packet, if you are not going to finish it.",
+  "usedBy": 1,
+  "example": "Salchichón",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freezing is a last resort. The fat oxidises and the texture goes crumbly; the flavour does not survive well.",
+  "usedBy": 1,
+  "example": "Salchichón",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Shorter than gazpacho, and for a specific reason: salmorejo is a raw emulsion and is very often made with raw egg or egg yolk to help it hold, and it is finished with chopped hard-boiled egg and jamón. Refrigerate it immediately at 4 °C, covered, and eat it the day it is made or the next. Never leave it standing at room temperature on a summer table.",
+  "usedBy": 1,
+  "example": "Salmorejo",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Do not freeze it. The whole point of salmorejo is a stable emulsion of oil, bread and tomato, and freezing breaks it irreversibly.",
+  "usedBy": 1,
+  "example": "Salmorejo",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
   "en": "Refrigeration ensures that commercial sauces and condiments stay fresh for a longer period of time. Shelf-stable commercial salsa is safe when stored at room temperature after opening. Quality, not safety, is the reason the labels on these products suggest that they be refrigerated after opening.",
   "usedBy": 1,
   "example": "Salsa",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -17,9 +345,7 @@
   "usedBy": 1,
   "example": "Salted duck egg",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -30,9 +356,7 @@
   "usedBy": 1,
   "example": "Salted duck egg",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -43,9 +367,7 @@
   "usedBy": 1,
   "example": "Salted duck egg",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -56,9 +378,7 @@
   "usedBy": 1,
   "example": "Salted duck egg yolk",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -69,9 +389,7 @@
   "usedBy": 1,
   "example": "Salted duck egg yolk",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -82,9 +400,7 @@
   "usedBy": 1,
   "example": "Salted fish",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -95,9 +411,7 @@
   "usedBy": 1,
   "example": "Salted fish",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -108,9 +422,7 @@
   "usedBy": 1,
   "example": "Salted fish",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -121,9 +433,7 @@
   "usedBy": 1,
   "example": "Santol",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -134,9 +444,7 @@
   "usedBy": 1,
   "example": "Santol",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -147,9 +455,7 @@
   "usedBy": 1,
   "example": "Sapodilla",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -160,9 +466,7 @@
   "usedBy": 1,
   "example": "Sapodilla",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -173,9 +477,7 @@
   "usedBy": 1,
   "example": "Saucisson sec, sliced",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -186,9 +488,7 @@
   "usedBy": 1,
   "example": "Saucisson sec, sliced",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -199,9 +499,7 @@
   "usedBy": 1,
   "example": "Saucisson sec, sliced",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -212,9 +510,7 @@
   "usedBy": 1,
   "example": "Saucisson sec",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -225,9 +521,7 @@
   "usedBy": 1,
   "example": "Saucisson sec",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -238,9 +532,7 @@
   "usedBy": 1,
   "example": "Sauerkraut, live fermented",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -251,9 +543,7 @@
   "usedBy": 1,
   "example": "Sauerkraut, live fermented",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -264,9 +554,7 @@
   "usedBy": 1,
   "example": "Sauerkraut, jarred or canned",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -277,9 +565,29 @@
   "usedBy": 1,
   "example": "Sauerkraut, jarred or canned",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Keep the interleaving sheets between the discs and cook straight from frozen - a thawed disc turns into a sticky lump you cannot separate.",
+  "usedBy": 1,
+  "example": "Scallion pancake",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Not a fridge food. If a pack has thawed in the fridge, cook it that day rather than refreezing it.",
+  "usedBy": 1,
+  "example": "Scallion pancake",
+  "missing": [
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -290,9 +598,7 @@
   "usedBy": 1,
   "example": "Sea Buckthorn",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -303,9 +609,7 @@
   "usedBy": 1,
   "example": "Sea Buckthorn",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -316,9 +620,7 @@
   "usedBy": 1,
   "example": "Sea urchin roe",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -329,9 +631,7 @@
   "usedBy": 1,
   "example": "Seitan",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -342,9 +642,7 @@
   "usedBy": 1,
   "example": "Seitan",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -355,9 +653,7 @@
   "usedBy": 1,
   "example": "Semolina",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -368,9 +664,7 @@
   "usedBy": 1,
   "example": "Semolina",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -381,9 +675,7 @@
   "usedBy": 1,
   "example": "Shacha sauce",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -394,9 +686,29 @@
   "usedBy": 1,
   "example": "Shacha sauce",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Loosely wrapped at room temperature. The layers go leathery within a day - reheat dry in a pan rather than a microwave.",
+  "usedBy": 1,
+  "example": "Sesame flatbread",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freeze plain and unfilled; a shaobing filled with egg or beef is a made-up meal and should be refrigerated and eaten the same day instead.",
+  "usedBy": 1,
+  "example": "Sesame flatbread",
+  "missing": [
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -407,9 +719,7 @@
   "usedBy": 1,
   "example": "Dried Shiitake",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -420,9 +730,7 @@
   "usedBy": 1,
   "example": "Dried Shiitake",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -433,9 +741,7 @@
   "usedBy": 1,
   "example": "Shiitake",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -446,9 +752,7 @@
   "usedBy": 1,
   "example": "Shiitake",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -459,9 +763,7 @@
   "usedBy": 1,
   "example": "Shimeji",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -472,9 +774,7 @@
   "usedBy": 1,
   "example": "Shrimp paste",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -485,9 +785,7 @@
   "usedBy": 1,
   "example": "Shrimp paste",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -498,9 +796,7 @@
   "usedBy": 1,
   "example": "Silken tofu",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -511,9 +807,7 @@
   "usedBy": 1,
   "example": "Silken tofu",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -524,9 +818,7 @@
   "usedBy": 1,
   "example": "Skyr",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -537,9 +829,7 @@
   "usedBy": 1,
   "example": "Skyr",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -550,9 +840,29 @@
   "usedBy": 1,
   "example": "Skyr",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Keep whole and un-rinsed on ice at 4C or below; the skin loses its pink bloom within hours of cleaning.",
+  "usedBy": 1,
+  "example": "Small squid",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freeze whole with the head on; cleaned rings weep and go rubbery.",
+  "usedBy": 1,
+  "example": "Small squid",
+  "missing": [
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -563,9 +873,7 @@
   "usedBy": 1,
   "example": "Sobrasada",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -576,9 +884,7 @@
   "usedBy": 1,
   "example": "Sobrasada",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -589,9 +895,7 @@
   "usedBy": 1,
   "example": "Sobrasada",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -602,9 +906,7 @@
   "usedBy": 1,
   "example": "Sourdough bread",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -615,9 +917,7 @@
   "usedBy": 1,
   "example": "Sourdough bread",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -628,9 +928,7 @@
   "usedBy": 1,
   "example": "Sourdough bread",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -641,9 +939,7 @@
   "usedBy": 1,
   "example": "Soursop",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -654,9 +950,7 @@
   "usedBy": 1,
   "example": "Soursop",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -667,9 +961,7 @@
   "usedBy": 1,
   "example": "Soursop",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -680,9 +972,7 @@
   "usedBy": 1,
   "example": "Soy sauce or teriyaki sauce",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -693,9 +983,7 @@
   "usedBy": 1,
   "example": "Soybean sprouts",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -706,9 +994,7 @@
   "usedBy": 1,
   "example": "Spaghetti squash",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -719,9 +1005,7 @@
   "usedBy": 1,
   "example": "Speck",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -732,9 +1016,7 @@
   "usedBy": 1,
   "example": "Speck",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -745,9 +1027,7 @@
   "usedBy": 1,
   "example": "Speck",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -758,9 +1038,7 @@
   "usedBy": 1,
   "example": "Spring roll wrappers",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -771,9 +1049,7 @@
   "usedBy": 1,
   "example": "Spring roll wrappers",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -784,9 +1060,7 @@
   "usedBy": 1,
   "example": "Ssamjang",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -797,9 +1071,7 @@
   "usedBy": 1,
   "example": "Ssamjang",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -810,9 +1082,7 @@
   "usedBy": 1,
   "example": "Star Apple",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -823,9 +1093,7 @@
   "usedBy": 1,
   "example": "Star Apple",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -836,9 +1104,7 @@
   "usedBy": 1,
   "example": "Steamed buns",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -849,9 +1115,7 @@
   "usedBy": 1,
   "example": "Steamed buns",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -862,9 +1126,7 @@
   "usedBy": 1,
   "example": "Steamed buns",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -875,9 +1137,7 @@
   "usedBy": 1,
   "example": "Stilton",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -888,9 +1148,7 @@
   "usedBy": 1,
   "example": "Stilton",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -901,9 +1159,7 @@
   "usedBy": 1,
   "example": "Stinky tofu",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -914,9 +1170,7 @@
   "usedBy": 1,
   "example": "Stinky tofu",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -927,9 +1181,7 @@
   "usedBy": 1,
   "example": "Stollen",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -940,9 +1192,7 @@
   "usedBy": 1,
   "example": "Stollen",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -953,9 +1203,7 @@
   "usedBy": 1,
   "example": "Stollen",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -966,9 +1214,7 @@
   "usedBy": 1,
   "example": "Stollen",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -979,9 +1225,7 @@
   "usedBy": 1,
   "example": "Straw Mushroom",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -992,9 +1236,7 @@
   "usedBy": 1,
   "example": "Sugar apple",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1005,9 +1247,7 @@
   "usedBy": 1,
   "example": "Sugar apple",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1018,9 +1258,29 @@
   "usedBy": 1,
   "example": "Sugar apple",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Whole unpeeled stalks keep in a cool, shaded spot; the cut ends dry out and go fibrous first.",
+  "usedBy": 1,
+  "example": "Sugarcane",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Peeled or chopped sections must be refrigerated and wrapped. Discard any cane whose pith has gone reddish-brown or smells sour or alcoholic rather than sweet - mould in stored cane is the reason to be fussy here.",
+  "usedBy": 1,
+  "example": "Sugarcane",
+  "missing": [
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1031,9 +1291,7 @@
   "usedBy": 1,
   "example": "Sumac",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1044,9 +1302,7 @@
   "usedBy": 1,
   "example": "Sushi rice, cooked",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1057,503 +1313,7 @@
   "usedBy": 1,
   "example": "Sushi rice, cooked",
   "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Hong Kong’s CFS requires displayed sashimi to be held at 4 °C or below and frozen fish to be thawed in a 0-4 °C refrigerator. Its holding rule for prepared sushi is by elapsed time above 4 °C: under 2 hours it may be returned to the fridge or eaten within 4 hours; between 2 and 4 hours it must be eaten within 4 hours total and cannot go back in the fridge; over 4 hours it must be discarded.",
-  "usedBy": 1,
-  "example": "Sushi and sashimi",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Do not freeze finished sushi — the rice turns to chalk. Freezing is a parasite-control step applied to the fish before it is cut: CFS gives -20 °C or below for seven days, or about -35 °C for twenty hours, to kill parasites in fish intended to be eaten raw.",
-  "usedBy": 1,
-  "example": "Sushi and sashimi",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Airtight, cool, dark and dry — but expect the shorter end. Yaji is not just spices: its bulk is defatted or roasted groundnut, and that fat goes rancid long before the chilli fades, showing up first as a stale, cardboardy taste. Never dip a wet or oily spoon into the jar, and if you are keeping a large batch, put it in the fridge instead.",
-  "usedBy": 1,
-  "example": "Suya spice",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Sealed against odours and condensation; it is the groundnut oil you are protecting.",
-  "usedBy": 1,
-  "example": "Suya spice",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Unopened jars and tubs keep on the shelf to the printed date, in a cool dark cupboard.",
-  "usedBy": 1,
-  "example": "Sweet bean sauce",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Refrigerate after opening. It is sweet as well as salty, so any moisture on the surface will grow mould faster than a plain salty paste — clean dry spoon, lid on tight, surface smoothed flat.",
-  "usedBy": 1,
-  "example": "Sweet bean sauce",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Unopened bottles keep about a year in a cool dark cupboard.",
-  "usedBy": 1,
-  "example": "Sweet chilli sauce",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Sweet chilli sauce is sugar plus vinegar plus salt — the same acid-and-sugar barrier that keeps ketchup stable. The USDA FoodKeeper's note on shelf-stable chilli sauce is that it stays safe at room temperature after opening and that quality, not safety, is the reason the label suggests refrigerating it.",
-  "usedBy": 1,
-  "example": "Sweet chilli sauce",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Refrigerate after opening for best colour and flavour. Wipe the neck of the bottle — sugary drips on the thread are where mould starts.",
-  "usedBy": 1,
-  "example": "Sweet chilli sauce",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Ohio State gives spinach 3 to 5 days in a crisper or moisture-resistant wrap. Sweet potato tips wilt faster than that — do not wash them, bag them loosely and cook them the day after you buy them if you can.",
-  "usedBy": 1,
-  "example": "Sweet Potato Leaves",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Keep them in a plastic bag to retain moisture.",
-  "usedBy": 1,
-  "example": "Swiss chard",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Traditional takuan is not a fridge food. Japan's 農林水産省 describes it as sun-dried daikon layered with rice bran and salt under a weight at 15 to 17 percent salt, then fermented for 6 to 12 months — the salt is the preservation, and a whole radish left buried in its bran bed in a cool place keeps as long as the bed does. Historically it was salted three to five times more heavily than today's version. Modern supermarket takuan is nothing like this: low salt, sweetened, coloured and pasteurised, and it belongs in the fridge.",
-  "usedBy": 1,
-  "example": "Takuan",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "A genuinely fermented, high-salt takuan lifted out of its bran and kept cold. NCHFP's figure for fully fermented pickles is 4 to 6 months in the original container, refrigerated, with surface scum and moulds removed regularly — the same rule applies to a crock of 糠漬け.",
-  "usedBy": 1,
-  "example": "Takuan",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Opened vacuum packs of the modern seasoned type. Keep the slices submerged in whatever liquid came with them, in a sealed box at 4 °C or below. Sliminess on the surface or a lifted, gassy pack means discard.",
-  "usedBy": 1,
-  "example": "Takuan",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Cool them fast and refrigerate within 2 hours — a tamal is wet cooked masa inside an insulating husk, so a stacked pot cools very slowly at the centre. Spread them in a single layer to chill, then bag. NMSU gives cooked meat dishes 3 to 4 days at 40 °F (4 °C).",
-  "usedBy": 1,
-  "example": "Tamales",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Freeze in the husk, bagged, once fully cold. Steam from frozen for 20 to 30 minutes; microwaving a frozen tamal leaves a cold core.",
-  "usedBy": 1,
-  "example": "Tamales",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Ripens and sweetens off the tree; leave firm fruit out until it yields slightly.",
-  "usedBy": 1,
-  "example": "Tamarillo",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Once ripe, bagged in the crisper. The skin is bitter and is always peeled or scooped around.",
-  "usedBy": 1,
-  "example": "Tamarillo",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Blanch briefly, slip the skins, then freeze the flesh.",
-  "usedBy": 1,
-  "example": "Tamarillo",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Refrigeration guidelines apply to just the pulp.",
-  "usedBy": 1,
-  "example": "Tamarind",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Freezing guidelines apply to just the pulp.",
-  "usedBy": 1,
-  "example": "Tamarind",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Unopened, cool dark cupboard, to its printed date.",
-  "usedBy": 1,
-  "example": "Tandoori paste",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Refrigerate once opened, always take it out with a clean dry spoon, and wipe the rim before the lid goes back on. Two habits ruin a jar: leaving oil-free paste exposed at the top, where it dries and moulds, and dipping a spoon that has touched raw chicken. Marinade that has held raw meat is contaminated and goes in the bin, not back in the jar and not onto cooked food.",
-  "usedBy": 1,
-  "example": "Tandoori paste",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Not necessary, but flavor will enhance.",
-  "usedBy": 1,
-  "example": "Tapenade",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Refrigeration not recommended.",
-  "usedBy": 1,
-  "example": "Taro",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Bag them dry and unwashed. Taro leaves must be cooked thoroughly — raw or undercooked leaves contain calcium oxalate crystals that burn the mouth and throat.",
-  "usedBy": 1,
-  "example": "Taro Leaves",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "A tea egg is a hard-cooked egg with a cracked shell sitting in warm liquid, which is a poor combination — get it into the fridge at 4 °C or below within two hours of cooking, in its braise, and reheat before eating. Convenience-store tea eggs held in a hot pot all day are held hot deliberately, at 60 °C or above; a pot left to cool on the counter is not safe to keep.",
-  "usedBy": 1,
-  "example": "Tea egg",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Matcha tea is the only tea that can be frozen after opening.",
-  "usedBy": 1,
-  "example": "Tea",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "An uncut terrine still sealed under its layer of fat or aspic keeps to the date on it at or below 4 °C, and a home-made one should be pressed, sealed and eaten within about a week. The seal is not a garnish — it is what keeps air off a cooked, low-acid, ready-to-eat meat. Traditional practice of maturing a terrine for two or three days before cutting is about flavour and is done in the refrigerator, not the larder.",
-  "usedBy": 1,
-  "example": "Terrine",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Cut it and it is a cooked meat dish: 3 to 4 days at or below 4 °C, New Mexico State's figure. Press cling film directly onto the cut face so it does not grey, and keep the remaining fat or jelly layer over the rest. If it was made with liver, expect it to darken at the cut face within hours — that is oxidation, not spoilage.",
-  "usedBy": 1,
-  "example": "Terrine",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Freeze it whole or in thick slabs rather than in slices. Aspic does not survive freezing and will weep out on thawing.",
-  "usedBy": 1,
-  "example": "Terrine",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Keep the green calyx on. Cut halves brown almost immediately, so drop them into salted water until you cook them.",
-  "usedBy": 1,
-  "example": "Thai Eggplant",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "USDA Agriculture Handbook 66: at ambient temperature the husks dry out but the fruit itself stays in good condition for about a week. That is a legitimate way to keep them if your fridge runs cold.",
-  "usedBy": 1,
-  "example": "Tomatillo",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Utah State University Extension: store mature fruit in the husk in a paper bag in the refrigerator for up to three weeks. AH-66 is more precise — 5 to 10 °C at 80–90 % humidity, a full month at 10 °C (50 °F) without chilling injury, but pitting and decay begin after 3 weeks at 5 °C (41 °F) and sooner at 2.5 °C. Leave the husk on and do not wash until you cook.",
-  "usedBy": 1,
-  "example": "Tomatillo",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "USU gives the method but no time limit: remove the husk, wash and dry the fruit, then place it in plastic bags in the freezer. Whole frozen tomatillos go straight into a salsa verde from frozen; they will never be firm again.",
-  "usedBy": 1,
-  "example": "Tomatillo",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Refrigerating unopened jars will NOT lengthen shelf life.",
-  "usedBy": 1,
-  "example": "Tomato sauce",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Until Ripe, then 7 days. Ripe is when this item is tender, fully developed and ready to eat. Refrigeration may affect flavor; USDA recommends pantry storage.",
-  "usedBy": 1,
-  "example": "Tomatoes",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "A tortilla poco cuajada — the fashionable runny-centred kind — is undercooked egg, and it should be treated as a same-day dish: refrigerate it within 2 hours, at 4 °C, and eat it within a day. AESAN's line for egg dishes that have been heated to 70 °C for two seconds is 8 °C or below and a maximum of 24 hours; a tortilla whose centre never reached 70 °C has not met even that condition. A firm, fully set tortilla is more forgiving and will take 2 days. Do not leave one out on a counter overnight, however traditional that is.",
-  "usedBy": 1,
-  "example": "Tortilla de patatas",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",

@@ -1,12 +1,219 @@
 [
  {
+  "en": "Once the wrapper is cut the surface is exposed and the salt content is far too low to hold bacteria off. Wrap the cut face, keep it at 4 °C or below, and slice off any surface that has gone slimy or smells sour rather than trimming and eating around it.",
+  "usedBy": 1,
+  "example": "Kamaboko",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Not recommended. Freezing wrecks the gel — kamaboko thaws watery and spongy. Japanese producers generally advise against it, and the frozen-product standard of −15 °C or below applies to products made to be frozen, not to a chilled board of kamaboko.",
+  "usedBy": 1,
+  "example": "Kamaboko",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Only the hard, sun-dried balls belong in a cupboard. Keep them bone dry in a sealed jar; if they soften or bloom with mould, moisture has got in and they are finished. The liquid kashk sold in jars is a different product and is not a pantry good once opened.",
+  "usedBy": 1,
+  "example": "Kashk",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Jarred liquid or paste kashk goes in the fridge once opened. It is fermented and salty, which slows spoilage, but it is still a moist dairy product — many Iranian cooks bring it to a boil before use, which is a flavour and safety habit worth keeping.",
+  "usedBy": 1,
+  "example": "Kashk",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Refrigeration ensures that commercial sauces and condiments stay fresh for a longer period of time. Shelf-stable commercial ketchup, cocktail sauce, and chili sauce are safe when stored at room temperature after opening. Quality, not safety, is the reason the labels on these products suggest that they be refrigerated after opening.",
+  "usedBy": 1,
+  "example": "Ketchup, cocktail, or chili sauce",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Perishable, not a pantry good — reducing milk removes water but leaves a moist, low-acid, protein-rich solid that spoils like fresh cheese. Keep it at or below 4 °C, wrapped tight, and smell it before use: khoya sours and picks up a stale, tallowy note well before it looks wrong.",
+  "usedBy": 1,
+  "example": "Khoya",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Khoya is commonly frozen in flattened, wrapped portions and thawed in the fridge. No source gives a limit, and the fat is what eventually goes rancid, so treat it as a few months rather than indefinite.",
+  "usedBy": 1,
+  "example": "Khoya",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "The densest and best-keeping of the common cultivated mushrooms. Paper bag, not sealed plastic; do not wash before storing.",
+  "usedBy": 1,
+  "example": "King Oyster Mushroom",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Japan's MAFF: keep dried goods out of heat, direct sunlight and damp, and close the container tightly. NCHFP puts dried vegetables at about 6 months at 60 °F, 3 months at 80 °F. The strips darken from white to tan as they age — still edible, but the flavour is stronger.",
+  "usedBy": 1,
+  "example": "Dried Daikon Strips",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Sealed. Once rehydrated, treat it as a fresh cooked vegetable and use it within a few days.",
+  "usedBy": 1,
+  "example": "Dried Daikon Strips",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Individually wrapped kirimochi is sealed with an oxygen absorber, which is the whole preservation system — MAFF lists unopened 切り餅 among the household stockpile foods that keep well. Store cool and dark and go by the printed date; a punctured or puffed pack is finished.",
+  "usedBy": 1,
+  "example": "Kirimochi",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Once a piece is unwrapped it behaves like fresh mochi and will mould. Either cook it or freeze it; MAFF’s 水餅 method — submerged in water, water changed daily — also works for opened pieces.",
+  "usedBy": 1,
+  "example": "Kirimochi",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Wrap opened pieces individually and freeze; grill or boil after a short rest at room temperature.",
+  "usedBy": 1,
+  "example": "Kirimochi",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Japan's MAFF: dried goods keep several months or more at room temperature provided you avoid heat, direct sunlight and damp and seal the bag tightly. The white powder on the surface is mannitol, a natural sugar and part of the flavour — do not wipe it off.",
+  "usedBy": 1,
+  "example": "Kombu",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Sealed, in a humid climate. Used kombu from a dashi pot must be treated as a cooked food and refrigerated, then used within 2 to 3 days.",
+  "usedBy": 1,
+  "example": "Kombu",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Keep it in a sealed tub at or below 4 °C. Straining removes whey but not the live culture, so labneh keeps souring and sharpening in the fridge; a thin layer of olive oil poured over the surface slows the skin forming but does not preserve it.",
+  "usedBy": 1,
+  "example": "Labneh",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Unopened jars, tubs and sachets keep to the printed date in a cool dark cupboard.",
+  "usedBy": 1,
+  "example": "Laksa paste",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Refrigerate as soon as it is opened. Laksa paste is mostly fresh aromatics — shallot, garlic, galangal, lemongrass, chilli, candlenut, shrimp paste — bound with oil, and the USDA FoodKeeper gives opened Thai curry paste, which is built the same way, only 5 days in the fridge. Homemade rempah is the same or shorter. If the paste is sitting under a layer of oil, that is fresh low-acid produce under oil: keep it cold and do not leave it on the counter.",
+  "usedBy": 1,
+  "example": "Laksa paste",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "The practical way to keep it. Fry the paste off first if you have time, then freeze in tablespoon portions in an ice-cube tray. NCHFP allows garlic in oil, the closest hazard analogue, to be frozen 'for up to several months'.",
+  "usedBy": 1,
+  "example": "Laksa paste",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
   "en": "CTAHR displays langsat at 15 °C and says not to mist it. A cool, dry spot beats the fridge for this fruit.",
   "usedBy": 1,
   "example": "Langsat",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -17,9 +224,7 @@
   "usedBy": 1,
   "example": "Langsat",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -30,9 +235,7 @@
   "usedBy": 1,
   "example": "Lard",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -43,9 +246,7 @@
   "usedBy": 1,
   "example": "Lard",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -56,9 +257,29 @@
   "usedBy": 1,
   "example": "Lard",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Buy it already cut into sections and gutted, and hold it at 4C or below.",
+  "usedBy": 1,
+  "example": "Hairtail",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "The silver guanine layer on the skin flakes off with handling; freeze the sections in a single layer.",
+  "usedBy": 1,
+  "example": "Hairtail",
+  "missing": [
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -69,9 +290,7 @@
   "usedBy": 1,
   "example": "Lassi",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -82,9 +301,7 @@
   "usedBy": 1,
   "example": "Lassi",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -95,9 +312,7 @@
   "usedBy": 1,
   "example": "Lomo embuchado",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -108,9 +323,7 @@
   "usedBy": 1,
   "example": "Lomo embuchado",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -121,9 +334,7 @@
   "usedBy": 1,
   "example": "Lomo embuchado",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -134,9 +345,7 @@
   "usedBy": 1,
   "example": "Long Bean",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -147,9 +356,7 @@
   "usedBy": 1,
   "example": "Long Bean",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -160,9 +367,7 @@
   "usedBy": 1,
   "example": "Longan",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -173,9 +378,7 @@
   "usedBy": 1,
   "example": "Longan",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -186,9 +389,7 @@
   "usedBy": 1,
   "example": "Dried Longan",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -199,9 +400,7 @@
   "usedBy": 1,
   "example": "Dried Longan",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -212,9 +411,7 @@
   "usedBy": 1,
   "example": "Dried Longan",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -225,9 +422,7 @@
   "usedBy": 1,
   "example": "Loquat",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -238,9 +433,7 @@
   "usedBy": 1,
   "example": "Loquat",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -251,9 +444,7 @@
   "usedBy": 1,
   "example": "Lotus Root",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -264,9 +455,7 @@
   "usedBy": 1,
   "example": "Lotus Root",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -277,9 +466,7 @@
   "usedBy": 1,
   "example": "Lúcuma",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -290,9 +477,7 @@
   "usedBy": 1,
   "example": "Lúcuma",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -303,9 +488,7 @@
   "usedBy": 1,
   "example": "Lúcuma",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -316,9 +499,7 @@
   "usedBy": 1,
   "example": "Luffa",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -329,9 +510,7 @@
   "usedBy": 1,
   "example": "Lulo",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -342,9 +521,7 @@
   "usedBy": 1,
   "example": "Lulo",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -355,9 +532,7 @@
   "usedBy": 1,
   "example": "Lulo",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -368,9 +543,18 @@
   "usedBy": 1,
   "example": "Macaroons",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Store unwashed in a perforated bag; the leaves are mucilaginous and go slimy fast once wet.",
+  "usedBy": 1,
+  "example": "Madeira vine leaves",
+  "missing": [
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -381,9 +565,7 @@
   "usedBy": 1,
   "example": "Maitake",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -394,9 +576,7 @@
   "usedBy": 1,
   "example": "Malabar Spinach",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -407,9 +587,7 @@
   "usedBy": 1,
   "example": "Malanga",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -420,9 +598,7 @@
   "usedBy": 1,
   "example": "Malanga",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -433,9 +609,7 @@
   "usedBy": 1,
   "example": "Malanga",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -446,9 +620,7 @@
   "usedBy": 1,
   "example": "Mamey Sapote",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -459,9 +631,7 @@
   "usedBy": 1,
   "example": "Mamey Sapote",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -472,9 +642,7 @@
   "usedBy": 1,
   "example": "Mamey Sapote",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -485,9 +653,7 @@
   "usedBy": 1,
   "example": "Mamoncillo",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -498,9 +664,7 @@
   "usedBy": 1,
   "example": "Mamoncillo",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -511,9 +675,7 @@
   "usedBy": 1,
   "example": "Manchego",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -524,9 +686,7 @@
   "usedBy": 1,
   "example": "Manchego",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -537,9 +697,7 @@
   "usedBy": 1,
   "example": "Manchego",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -550,9 +708,7 @@
   "usedBy": 1,
   "example": "Mangosteen",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -563,9 +719,7 @@
   "usedBy": 1,
   "example": "Mangosteen",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -576,9 +730,7 @@
   "usedBy": 1,
   "example": "Mantou",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -589,9 +741,7 @@
   "usedBy": 1,
   "example": "Mantou",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -602,9 +752,7 @@
   "usedBy": 1,
   "example": "Mantou",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -615,9 +763,7 @@
   "usedBy": 1,
   "example": "Marang",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -628,9 +774,7 @@
   "usedBy": 1,
   "example": "Marang",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -641,9 +785,7 @@
   "usedBy": 1,
   "example": "Marang",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -654,9 +796,7 @@
   "usedBy": 1,
   "example": "Marzipan",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -667,9 +807,7 @@
   "usedBy": 1,
   "example": "Marzipan",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -680,9 +818,7 @@
   "usedBy": 1,
   "example": "Marzipan",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -693,9 +829,7 @@
   "usedBy": 1,
   "example": "Marzipan",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -706,9 +840,7 @@
   "usedBy": 1,
   "example": "Fresh masa",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -719,9 +851,7 @@
   "usedBy": 1,
   "example": "Fresh masa",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -732,9 +862,7 @@
   "usedBy": 1,
   "example": "Masa harina",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -745,9 +873,7 @@
   "usedBy": 1,
   "example": "Masa harina",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -758,9 +884,7 @@
   "usedBy": 1,
   "example": "Mascarpone",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -771,9 +895,7 @@
   "usedBy": 1,
   "example": "Mascarpone",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -784,9 +906,7 @@
   "usedBy": 1,
   "example": "Mascarpone",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -797,9 +917,7 @@
   "usedBy": 1,
   "example": "Matsutake",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -810,9 +928,7 @@
   "usedBy": 1,
   "example": "Matsutake",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -823,9 +939,7 @@
   "usedBy": 1,
   "example": "Mayonnaise",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -836,9 +950,7 @@
   "usedBy": 1,
   "example": "Medlar",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -849,9 +961,7 @@
   "usedBy": 1,
   "example": "Medlar",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -862,9 +972,7 @@
   "usedBy": 1,
   "example": "Melons",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -875,9 +983,7 @@
   "usedBy": 1,
   "example": "Melons",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -888,9 +994,7 @@
   "usedBy": 1,
   "example": "Membrillo",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -901,9 +1005,7 @@
   "usedBy": 1,
   "example": "Membrillo",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -914,9 +1016,7 @@
   "usedBy": 1,
   "example": "Mentaiko",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -927,9 +1027,7 @@
   "usedBy": 1,
   "example": "Mentaiko",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -940,9 +1038,7 @@
   "usedBy": 1,
   "example": "Mentaiko",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -953,9 +1049,7 @@
   "usedBy": 1,
   "example": "Mentsuyu",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -966,9 +1060,7 @@
   "usedBy": 1,
   "example": "Mentsuyu",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -979,9 +1071,29 @@
   "usedBy": 1,
   "example": "Mentsuyu",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Belly cuts are the fattiest part and spoil first; keep at 4C or below and cook within two days.",
+  "usedBy": 1,
+  "example": "Milkfish",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Vacuum-packed belly freezes well; press out the air or the fat picks up freezer taint.",
+  "usedBy": 1,
+  "example": "Milkfish",
+  "missing": [
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -992,9 +1104,7 @@
   "usedBy": 1,
   "example": "Mirin",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1005,9 +1115,7 @@
   "usedBy": 1,
   "example": "Mirin",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1018,9 +1126,7 @@
   "usedBy": 1,
   "example": "Mochi",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1031,9 +1137,7 @@
   "usedBy": 1,
   "example": "Mochi",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1044,9 +1148,7 @@
   "usedBy": 1,
   "example": "Mochi",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1057,9 +1159,7 @@
   "usedBy": 1,
   "example": "Mole paste",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1070,9 +1170,7 @@
   "usedBy": 1,
   "example": "Mole paste",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1083,9 +1181,7 @@
   "usedBy": 1,
   "example": "Mole paste",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1096,9 +1192,7 @@
   "usedBy": 1,
   "example": "Monk Fruit",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1109,9 +1203,7 @@
   "usedBy": 1,
   "example": "Monk Fruit",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1122,9 +1214,7 @@
   "usedBy": 1,
   "example": "Morcilla",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1135,9 +1225,7 @@
   "usedBy": 1,
   "example": "Morcilla",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1148,9 +1236,7 @@
   "usedBy": 1,
   "example": "Mortadella",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1161,9 +1247,7 @@
   "usedBy": 1,
   "example": "Mortadella",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1174,9 +1258,7 @@
   "usedBy": 1,
   "example": "Mortadella",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1187,9 +1269,7 @@
   "usedBy": 1,
   "example": "Mountain Apple",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1200,9 +1280,7 @@
   "usedBy": 1,
   "example": "Mountain Apple",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1213,9 +1291,7 @@
   "usedBy": 1,
   "example": "Mozzarella, drained or vacuum-packed",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1226,9 +1302,7 @@
   "usedBy": 1,
   "example": "Mozzarella, drained or vacuum-packed",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1239,321 +1313,7 @@
   "usedBy": 1,
   "example": "Mozzarella, drained or vacuum-packed",
   "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Unopened, in its sealed liquid, to the printed date at 0–5 °C. The liquid is the storage medium, not packing waste: it is lightly salted whey or brine that keeps the curd hydrated and holds a salt concentration at the surface where contamination would otherwise land. Never pour it away until you are ready to eat.",
-  "usedBy": 1,
-  "example": "Mozzarella, fresh in brine",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Once opened, keep the ball fully submerged in its own liquid in a sealed tub — top it up with lightly salted water if you have lost some — and eat within about a week. Cloudy, ropy or sour-smelling liquid means it goes. Do not store it in plain water: that leaches salt out of the curd and leaves you with a sweeter, wetter, less protected cheese.",
-  "usedBy": 1,
-  "example": "Mozzarella, fresh in brine",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Only for cooking. Drain it, blot it, freeze it in a block, and use it grated on a pizza. Thawed fresh mozzarella weeps and turns squeaky.",
-  "usedBy": 1,
-  "example": "Mozzarella, fresh in brine",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Taiwan's Ministry of Agriculture lists mulberry among fruit that must be refrigerated. Do not wash before storing, and keep in a shallow single layer so the weight of the fruit does not crush the bottom layer.",
-  "usedBy": 1,
-  "example": "Mulberry",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Freeze in a single layer on a tray first, then bag, so the berries do not clump.",
-  "usedBy": 1,
-  "example": "Mulberry",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Taiwan's 農業部 states plainly that finished mullet roe must be kept frozen or refrigerated — the salting takes only about 10–15 % of the roe weight and three to five days of sun-drying, which is not enough to make it shelf-stable. Keep it vacuum-packed or tightly wrapped at 4 °C or below and cut only what you will grill.",
-  "usedBy": 1,
-  "example": "Mullet roe",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "農業部 notes that stored too long — beyond about four months — the fat oxidises and the roe turns from amber to dull dark red. That colour change is the practical end of its life, before anything unsafe happens.",
-  "usedBy": 1,
-  "example": "Mullet roe",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Keep the beans in an airtight container as it’s imperative that they remain dry.",
-  "usedBy": 1,
-  "example": "Mung bean",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Never refrigerate wet sprouts. Transfer to a plastic bag or use a glass or plastic container.",
-  "usedBy": 1,
-  "example": "Mung bean",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Refrigeration ensures that commercial sauces and condiments stay fresh for a longer period of time. Shelf-stable commercial mustard is safe when stored at room temperature after opening. Quality, not safety, is the reason the labels on these products suggest that they be refrigerated after opening.",
-  "usedBy": 1,
-  "example": "Mustard",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Naan holds better than chapati because it is leavened and enriched with yoghurt, milk or ghee, but it is still a moist bread — sealed in a bag at room temperature it moulds rather than dries. Packaged supermarket naan carries preservatives and a printed date; go by that instead.",
-  "usedBy": 1,
-  "example": "Naan",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Refrigeration is the anti-mould move, not a freshness move. Reheat under a grill or on a tawa with a flick of water to steam it back.",
-  "usedBy": 1,
-  "example": "Naan",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "The best option by a distance. Freeze flat with paper between, and reheat from frozen.",
-  "usedBy": 1,
-  "example": "Naan",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Freezing not recommended - may negatively impact the texture.",
-  "usedBy": 1,
-  "example": "Nacho cheese",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "A true yam is a keeping crop: cool, dark, dry and above all well ventilated, spread out rather than piled, and never in a plastic bag. Check for soft spots and sprouting, and rub sprouts off as they appear. Seal a cut face and use that tuber within days.",
-  "usedBy": 1,
-  "example": "Ñame",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Do not refrigerate a whole ñame. Like other tropical roots it is chilling sensitive, and a cold fridge brings internal browning and rot on faster than a cool pantry does. Refrigerate only peeled or cut pieces, submerged in water, for a day or two.",
-  "usedBy": 1,
-  "example": "Ñame",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Peel, cube and boil, then freeze; or freeze the cooked, pounded purée. Raw frozen yam turns grey and watery.",
-  "usedBy": 1,
-  "example": "Ñame",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Nameko is naturally coated in a gel, so the usual slimy-means-spoiled test does not apply — judge it by smell and by whether the caps have gone brown and mushy. Keep the sealed pack cold and use it soon; it spoils faster than any other cultivated mushroom.",
-  "usedBy": 1,
-  "example": "Nameko",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Taiwan's Ministry of Agriculture: wrap the head in a large sheet of paper and stand it at an angle in a cool place — it stays fresh several days that way, though the fridge is better.",
-  "usedBy": 1,
-  "example": "Napa Cabbage",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Ohio State gives cabbage 1 to 2 weeks in a crisper or moisture-resistant wrap. Keep the head whole; peel leaves off as you need them rather than cutting it in half.",
-  "usedBy": 1,
-  "example": "Napa Cabbage",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Use the printed 賞味期限. Japan's natto-industry HACCP guide, published via MHLW, requires the chiller to run at 10 °C or below and explains why: after fermentation the packs are chilled specifically to stop Bacillus subtilis var. natto fermenting further. Held warm or held too long the culture keeps working — the smell turns to ammonia and white tyrosine crystals appear on the beans. That is over-fermentation rather than acute spoilage, but it is the point to stop eating it.",
-  "usedBy": 1,
-  "example": "Natto",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Freeze in the unopened pack; thaw overnight in the fridge, not on the counter. Freezing halts the culture, which is exactly what you want.",
-  "usedBy": 1,
-  "example": "Natto",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "USDA Agriculture Handbook 66: whole pads hold good quality for 3 weeks at 5 °C (41 °F) or 2 weeks at 10 °C (50 °F) at 95–99 % humidity. They are chilling sensitive below 10 °C, so past three weeks in a cold fridge expect bronzing and decay at the cut stem end. Scrape or singe off every spine and glochid first, keep them dry, and do not sprinkle or top-ice them.",
-  "usedBy": 1,
-  "example": "Nopales",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Blanch or griddle the diced pads first to purge the viscous sap, drain well, then freeze.",
-  "usedBy": 1,
-  "example": "Nopales",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",

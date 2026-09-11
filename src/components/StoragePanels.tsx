@@ -1,5 +1,5 @@
 import { type Locale, t } from '@/lib/i18n';
-import { METHOD_KEYS, formatSpan, methodRows, primarySpan, type MethodKey } from '@/lib/data';
+import { METHOD_KEYS, formatSpan, methodRows, primarySpan, primarySpanKey, type MethodKey } from '@/lib/data';
 import type { Food } from '@/lib/types';
 
 const ICONS: Record<MethodKey, string> = { pantry: '🗄', fridge: '🧊', freezer: '❄' };
@@ -15,12 +15,21 @@ export default function StoragePanels({ food, locale }: { food: Food; locale: Lo
         const rows = methodRows(method, locale);
         const main = formatSpan(primarySpan(method), locale);
         const tip = rows.find((r) => r.tips)?.tips ?? null;
+        // A single figure that is really "once opened" or "from the date of
+        // purchase" must say so. Showing the number alone reads as the life of
+        // an unopened pack, which is a different and longer thing.
+        const spanKey = primarySpanKey(method);
+        const qualifier =
+          rows.length === 1 && spanKey && spanKey !== 'base'
+            ? rows[0].label
+            : null;
         return (
           <section key={key} className={`storage-panel ${key}`}>
             <h3 className="storage-head">
               <span aria-hidden="true">{ICONS[key]}</span> {labels[key]}
             </h3>
             <div className="storage-body">
+              {qualifier ? <p className="storage-qualifier">{qualifier}</p> : null}
               {main ? <p className="storage-value">{main}</p> : null}
               {!main && !tip ? <p className="storage-none">{d.noData}</p> : null}
               {rows.length > 1 || (rows.length === 1 && !main) ? (

@@ -6,16 +6,7 @@ import Faq from '@/components/Faq';
 import { CATEGORIES, type Locale, isLocale, t } from '@/lib/i18n';
 import { categoryCounts, foods, foodsWithPages, guides } from '@/lib/data';
 import { buildMetadata, jsonLdScript } from '@/lib/seo';
-
-/** One glyph per category, so the grid is scannable before it is read. */
-const CATEGORY_ICON: Record<string, string> = {
-  vegetables: '🥬', fruits: '🍊', meat: '🥩', poultry: '🍗', seafood: '🐟',
-  'dairy-eggs': '🥛', 'grains-beans-pasta': '🌾', 'baked-goods': '🍞',
-  'baking-staples': '🧁', 'condiments-sauces': '🧂', 'herbs-spices': '🌿',
-  'oils-fats': '🫒', 'shelf-stable': '🥫', 'snacks-nuts-seeds': '🥜',
-  beverages: '🧃', 'frozen-foods': '🧊', 'deli-prepared': '🍱',
-  'vegetarian-proteins': '🫘', 'baby-food': '🍼',
-};
+import { CATEGORY_ICON } from '@/lib/icons';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;

@@ -10,15 +10,19 @@ export default function LanguageSwitch({ locale }: { locale: Locale }) {
   const suffix = rest.length ? `/${rest.join('/')}` : '';
 
   return (
-    <details className="lang-switch">
-      <summary aria-label={t(locale).languageLabel}>{LOCALE_NAMES[locale]}</summary>
-      <nav className="lang-menu">
-        {LOCALES.map((l) => (
-          <a key={l} href={`/${l}${suffix}`} hrefLang={l} aria-current={l === locale ? 'true' : undefined}>
-            {LOCALE_NAMES[l]}
-          </a>
-        ))}
-      </nav>
-    </details>
+    <nav className="lang-switch" aria-label={t(locale).languageLabel}>
+      {LOCALES.map((l) => (
+        <a
+          key={l}
+          href={`/${l}${suffix}`}
+          hrefLang={l}
+          className="lang-option"
+          aria-current={l === locale ? 'true' : undefined}
+          data-active={l === locale}
+        >
+          {LOCALE_NAMES[l]}
+        </a>
+      ))}
+    </nav>
   );
 }

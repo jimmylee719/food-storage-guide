@@ -4,7 +4,8 @@ import { notFound } from 'next/navigation';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import SearchBox from '@/components/SearchBox';
 import { CATEGORIES, type Locale, isLocale, t } from '@/lib/i18n';
-import { categoryCounts, foods, foodsInCategory } from '@/lib/data';
+import { categoryCounts, foods, foodsInCategory, headline } from '@/lib/data';
+import { CATEGORY_ICON } from '@/lib/icons';
 import { buildMetadata } from '@/lib/seo';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
@@ -37,9 +38,12 @@ export default async function FoodsPage({ params }: { params: Promise<{ locale: 
         <div className="section-head"><h2>{d.browseByCategory}</h2></div>
         <div className="grid grid-cats">
           {CATEGORIES.map((c) => (
-            <Link key={c} href={`/${l}/category/${c}`} className="card">
-              <h3>{d.categoryNames[c]}</h3>
-              <p>{d.itemsCount(counts[c] ?? 0)}</p>
+            <Link key={c} href={`/${l}/category/${c}`} className="card cat-card" data-cat={c}>
+              <span className="cat-icon" aria-hidden="true">{CATEGORY_ICON[c]}</span>
+              <span className="cat-card-text">
+                <h3>{d.categoryNames[c]}</h3>
+                <p>{d.itemsCount(counts[c] ?? 0)}</p>
+              </span>
             </Link>
           ))}
         </div>
@@ -54,10 +58,14 @@ export default async function FoodsPage({ params }: { params: Promise<{ locale: 
               <h2>{d.categoryNames[c]}</h2>
               <Link href={`/${l}/category/${c}`}>{d.pantry} · {d.fridge} · {d.freezer} →</Link>
             </div>
-            <ul className="index-list">
+            <ul className="food-tiles" data-cat={c}>
               {items.map((f) => (
                 <li key={f.slug}>
-                  <Link href={`/${l}/food/${f.slug}`}>{f.names[l]}</Link>
+                  <Link href={`/${l}/food/${f.slug}`} className="food-tile">
+                    <span className="food-tile-icon" aria-hidden="true">{CATEGORY_ICON[c]}</span>
+                    <span className="food-tile-name">{f.names[l]}</span>
+                    <span className="food-tile-time">{headline(f, 'fridge', l)}</span>
+                  </Link>
                 </li>
               ))}
             </ul>

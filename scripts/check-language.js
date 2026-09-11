@@ -19,6 +19,28 @@ const ALLOWED = [
   'Listeria', 'Salmonella', 'Campylobacter', 'Clostridium', 'botulinum', 'perfringens', 'Bacillus',
   'cereus', 'Staphylococcus', 'aureus', 'Vibrio', 'Anisakis', 'Toxoplasma', 'coli', 'monocytogenes',
   'norovirus', 'Norovirus', 'aflatoxin', 'patulin', 'lox', 'Espa', 'English', 'llms', 'txt', 'https',
+  'Burkholderia',
+  'University', 'Extension', 'Department of Agriculture', 'Refrigerator', 'Storage Chart',
+  'Storing Garden Fruits and Vegetables',
+  // Titles of the documents the site cites, and the agencies that publish them. A
+  // citation is quoted as its author wrote it, so these stay in their own language
+  // on every page.
+  'What You Need to Know About Foodborne Illnesses', 'Natural toxins in food',
+  'Five Keys to Safer Food', 'Cold Facts about Food Safety', 'Safe Food Handling',
+  'Selecting and Serving Fresh and Frozen Seafood Safely', 'Food Safety for Moms-to-Be',
+  'Food and Water Safety During Power Outages and Floods', 'Ensuring Safe Canned Foods',
+  'What You Don', 'See or Smell Can Still Hurt You', 'Threat to Food Safety',
+  'Histamine in Fish and Fish Products', 'Botulism and Vacuum Packed Food',
+  'How to chill', 'freeze and defrost food safely', 'Understanding food labelling',
+  'best before and use-by dates', 'Safe food storage', 'Higiene de los alimentos',
+  'Philippine Department of Agriculture', 'Bureau of Agricultural Research',
+  'Improving durian shelf life through postharvest strategies',
+  'Queso Fresco-type Cheeses Consumer Guidance', 'New Mexico State University Extension',
+  'Storing Food Safely',
+  // Product names a Chinese reader meets in English on the packet, glossed in the
+  // articles on purpose, and the safety slogan the site quotes as FSIS coined it.
+  'half and half', 'queso blanco', 'fresh unaged white cheese',
+  'When in doubt', 'throw it out',
 ];
 
 const SKIP_TAGS = /<(script|style|code|pre)[\s\S]*?<\/\1>/gi;
@@ -71,7 +93,11 @@ async function main() {
   const paths = [
     '', '/foods', '/guides', '/food-safety', '/methodology', '/about', '/privacy', '/terms', '/contact',
     '/category/seafood', '/category/vegetables', '/category/herbs-spices', '/category/condiments-sauces',
-    '/food/salmon', '/food/mackerel', '/food/pandan', '/food/durian', '/food/natto', '/food/queso-fresco',
+    '/food/salmon', '/food/mackerel', '/food/durian', '/food/natto', '/food/queso-fresco',
+    // Foods with no article yet: these render straight from the data, which is
+    // written in English, so they are where a leak shows up first.
+    '/food/abalone', '/food/daikon', '/food/pacific-saury', '/food/cheddar-cheese',
+    '/food/youtiao', '/food/summer-squash', '/food/liver', '/food/chayote-shoots',
     '/guides/how-to-freeze-food',
   ];
   const locales = ['zh'];

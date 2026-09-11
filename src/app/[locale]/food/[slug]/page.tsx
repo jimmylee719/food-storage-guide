@@ -117,6 +117,10 @@ export default async function FoodPage({ params }: { params: Promise<{ locale: s
       />
 
       <h1>{name}</h1>
+      {/* The record's qualifier is English. The Chinese display name already
+          carries it in parentheses — 杏仁果（去殼） — so showing it again would
+          put an English phrase under a Chinese heading. */}
+      {!c && food.subtitle && l === 'en' ? <p className="food-qualifier">{food.subtitle}</p> : null}
       {c?.aliases?.length ? <p className="alias">{c.aliases.join(' · ')}</p> : null}
 
       <div className="callout">
@@ -198,6 +202,8 @@ export default async function FoodPage({ params }: { params: Promise<{ locale: s
           ))}
         </ul>
         {food.derivedFrom ? <p className="footer-note">{d.groupedWith(food.derivedFromName ?? food.derivedFrom)}</p> : null}
+        {/* groupedWith ignores the argument in locales whose sentence cannot
+            carry an English record name. */}
         <p className="footer-note">{d.sourceNote}</p>
         <p className="footer-note"><strong>{d.disclaimer}:</strong> {d.disclaimerBody}</p>
       </section>

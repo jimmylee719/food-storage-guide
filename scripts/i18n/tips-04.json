@@ -1,12 +1,153 @@
 [
  {
+  "en": "Freezing splits it. The protein and the water separate and no amount of shaking brings it back; use it in cooking if you have frozen some.",
+  "usedBy": 1,
+  "example": "Soy milk, freshly made",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "A cool, dark, airy spot — turmeric is a tropical rhizome and, like ginger, is chilling sensitive below about 12 °C (54 °F), so a few days out of the fridge does it no harm. It dehydrates and shrivels quickly in a dry kitchen.",
+  "usedBy": 1,
+  "example": "Turmeric",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Unpeeled, in a paper bag or a loosely closed box in the crisper. Cold is a compromise: the fridge is well below the 12–14 °C the rhizome actually wants, so expect skin darkening and pitting eventually, but it holds off mould and shrivelling for a couple of weeks. It stains everything it touches, cutting board and fingers included.",
+  "usedBy": 1,
+  "example": "Turmeric",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freeze it whole and unpeeled, then grate from frozen — much the easiest way to handle it and no loss of colour.",
+  "usedBy": 1,
+  "example": "Turmeric",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Boiled udon is a 茹めん under Japan's 生めん類の衛生規範 and must be kept at 10 °C or below; the MHLW fresh-noodle HACCP guide requires it to be cooled to 10 °C promptly after boiling and held there. Go by the printed use-by date.",
+  "usedBy": 1,
+  "example": "Fresh udon noodles",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Sealed packs rely on an acid dip or post-pack pasteurisation. Once opened, cook within a day or two.",
+  "usedBy": 1,
+  "example": "Fresh udon noodles",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Udon freezes unusually well — commercial 冷凍うどん is sold this way. Boil from frozen; do not thaw first or it goes slack.",
+  "usedBy": 1,
+  "example": "Fresh udon noodles",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "It is not safe to cook and eat a whole lobster if it is dead at the time of preparation.",
+  "usedBy": 1,
+  "example": "Fresh whole lobster",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Japan's MHLW HACCP guide for fried bean-curd products gives 厚揚げ (thick fried tofu) refrigerated storage at 10 °C or below and a use-by of roughly one week, and stresses that it must be chilled immediately after frying because the inside is still plain tofu.",
+  "usedBy": 1,
+  "example": "Fried tofu puffs",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freeze in a bag with the air pressed out; the fried skin goes rancid before the tofu goes off.",
+  "usedBy": 1,
+  "example": "Fried tofu puffs",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Keep the bag at -18 °C or below, deep in the freezer rather than in the door, and do not overfill the cabinet — crowding blocks airflow and lets the temperature drift.",
+  "usedBy": 1,
+  "example": "Frozen dumplings",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Do not thaw dumplings on the counter: the surface climbs into the 7-60 °C danger zone while the middle is still frozen, which the TFDA names as the biggest risk in home thawing. Boil or pan-fry straight from frozen, or thaw in the fridge and cook the same day. Never refreeze thawed raw dumplings.",
+  "usedBy": 1,
+  "example": "Frozen dumplings",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Thawing in the refrigerator is not recommended.",
+  "usedBy": 1,
+  "example": "Fruits",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
   "en": "TFDA’s festival advice is blunt: refrigerate or freeze, and never let them stand in the 7-60 °C range. Keep the bag at -18 °C or below and cook straight from frozen — thawed tangyuan collapse and the filling leaks out.",
   "usedBy": 1,
   "example": "Tangyuan, frozen",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -17,9 +158,7 @@
   "usedBy": 1,
   "example": "Tangyuan, frozen",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -30,9 +169,7 @@
   "usedBy": 1,
   "example": "Fufu flour",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -43,9 +180,7 @@
   "usedBy": 1,
   "example": "Fuzzy Melon",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -56,9 +191,7 @@
   "usedBy": 1,
   "example": "Gai Lan",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -69,9 +202,7 @@
   "usedBy": 1,
   "example": "Garland Chrysanthemum",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -82,9 +213,7 @@
   "usedBy": 1,
   "example": "Garlic",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -95,9 +224,7 @@
   "usedBy": 1,
   "example": "Garlic",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -108,9 +235,7 @@
   "usedBy": 1,
   "example": "Garlic Chives",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -121,9 +246,7 @@
   "usedBy": 1,
   "example": "Garlic Chives",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -134,9 +257,7 @@
   "usedBy": 1,
   "example": "Gazpacho",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -147,9 +268,7 @@
   "usedBy": 1,
   "example": "Gazpacho",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -160,9 +279,7 @@
   "usedBy": 1,
   "example": "Ghee rice",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -173,9 +290,7 @@
   "usedBy": 1,
   "example": "Ghee rice",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -186,9 +301,7 @@
   "usedBy": 1,
   "example": "Gherkins, salt-brined",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -199,9 +312,7 @@
   "usedBy": 1,
   "example": "Gherkins, salt-brined",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -212,9 +323,7 @@
   "usedBy": 1,
   "example": "Gherkins in vinegar",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -225,9 +334,7 @@
   "usedBy": 1,
   "example": "Gherkins in vinegar",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -238,9 +345,7 @@
   "usedBy": 1,
   "example": "Glutinous rice",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -251,9 +356,7 @@
   "usedBy": 1,
   "example": "Glutinous rice",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -264,9 +367,7 @@
   "usedBy": 1,
   "example": "Glutinous rice",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -277,9 +378,7 @@
   "usedBy": 1,
   "example": "Gochugaru",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -290,9 +389,7 @@
   "usedBy": 1,
   "example": "Gochugaru",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -303,9 +400,7 @@
   "usedBy": 1,
   "example": "Gochugaru",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -316,9 +411,7 @@
   "usedBy": 1,
   "example": "Gochujang",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -329,9 +422,7 @@
   "usedBy": 1,
   "example": "Gochujang",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -342,9 +433,7 @@
   "usedBy": 1,
   "example": "Gorgonzola",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -355,9 +444,7 @@
   "usedBy": 1,
   "example": "Gorgonzola",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -368,9 +455,7 @@
   "usedBy": 1,
   "example": "Gouda",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -381,9 +466,7 @@
   "usedBy": 1,
   "example": "Gouda",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -394,9 +477,7 @@
   "usedBy": 1,
   "example": "Gouda",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -407,9 +488,7 @@
   "usedBy": 1,
   "example": "Granadilla",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -420,9 +499,7 @@
   "usedBy": 1,
   "example": "Granadilla",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -433,9 +510,7 @@
   "usedBy": 1,
   "example": "Granadilla",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -446,9 +521,7 @@
   "usedBy": 1,
   "example": "Grapes",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -459,9 +532,7 @@
   "usedBy": 1,
   "example": "Grass jelly",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -472,9 +543,7 @@
   "usedBy": 1,
   "example": "Grass jelly",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -485,9 +554,7 @@
   "usedBy": 1,
   "example": "Grass jelly",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -498,9 +565,7 @@
   "usedBy": 1,
   "example": "Guava",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -511,9 +576,7 @@
   "usedBy": 1,
   "example": "Habanero",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -524,9 +587,7 @@
   "usedBy": 1,
   "example": "Habanero",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -537,9 +598,7 @@
   "usedBy": 1,
   "example": "Haggis",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -550,9 +609,7 @@
   "usedBy": 1,
   "example": "Haggis",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -563,9 +620,7 @@
   "usedBy": 1,
   "example": "Haggis",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -576,9 +631,7 @@
   "usedBy": 1,
   "example": "Halloumi",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -589,9 +642,7 @@
   "usedBy": 1,
   "example": "Halloumi",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -602,9 +653,7 @@
   "usedBy": 1,
   "example": "Halloumi",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -615,9 +664,7 @@
   "usedBy": 1,
   "example": "Halva",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -628,9 +675,7 @@
   "usedBy": 1,
   "example": "Halva",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -641,9 +686,29 @@
   "usedBy": 1,
   "example": "Halva",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Keep live in a shallow open bowl under a damp cloth at 4C or below. Purge in salted water at room temperature for no more than an hour, then get them straight back in the cold. Throw away any clam that stays open when tapped.",
+  "usedBy": 1,
+  "example": "Hard clams",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freeze live in the shell in a single layer; cook from frozen without thawing.",
+  "usedBy": 1,
+  "example": "Hard clams",
+  "missing": [
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -654,9 +719,7 @@
   "usedBy": 1,
   "example": "Harissa",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -667,9 +730,7 @@
   "usedBy": 1,
   "example": "Harissa",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -680,9 +741,7 @@
   "usedBy": 1,
   "example": "Harissa",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -693,9 +752,7 @@
   "usedBy": 1,
   "example": "Hijiki",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -706,9 +763,7 @@
   "usedBy": 1,
   "example": "Hijiki",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -719,9 +774,7 @@
   "usedBy": 1,
   "example": "Horchata",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -732,9 +785,29 @@
   "usedBy": 1,
   "example": "Horchata",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Chill to 4C or below immediately and remove the gills and guts on the day of purchase.",
+  "usedBy": 1,
+  "example": "Horse mackerel",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Freeze as fillets, skin on and tightly wrapped - the dark flesh oxidises fast.",
+  "usedBy": 1,
+  "example": "Horse mackerel",
+  "missing": [
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -745,9 +818,7 @@
   "usedBy": 1,
   "example": "Hot peppers",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -758,9 +829,7 @@
   "usedBy": 1,
   "example": "Hot peppers",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -771,9 +840,7 @@
   "usedBy": 1,
   "example": "Hot sauce",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -784,9 +851,7 @@
   "usedBy": 1,
   "example": "Huitlacoche",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -797,9 +862,7 @@
   "usedBy": 1,
   "example": "Huitlacoche",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -810,9 +873,7 @@
   "usedBy": 1,
   "example": "Ice Cream Bean",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -823,9 +884,7 @@
   "usedBy": 1,
   "example": "Ice Cream Bean",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -836,9 +895,7 @@
   "usedBy": 1,
   "example": "Idli batter",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -849,9 +906,7 @@
   "usedBy": 1,
   "example": "Idli batter",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -862,9 +917,7 @@
   "usedBy": 1,
   "example": "Ikura",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -875,9 +928,7 @@
   "usedBy": 1,
   "example": "Ikura",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -888,9 +939,7 @@
   "usedBy": 1,
   "example": "Ikura",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -901,9 +950,7 @@
   "usedBy": 1,
   "example": "Indian Jujube",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -914,9 +961,7 @@
   "usedBy": 1,
   "example": "Indian Jujube",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -927,9 +972,7 @@
   "usedBy": 1,
   "example": "Injera",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -940,9 +983,7 @@
   "usedBy": 1,
   "example": "Injera",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -953,9 +994,7 @@
   "usedBy": 1,
   "example": "Injera",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -966,9 +1005,7 @@
   "usedBy": 1,
   "example": "Instant noodles",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -979,9 +1016,7 @@
   "usedBy": 1,
   "example": "Jaboticaba",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -992,9 +1027,7 @@
   "usedBy": 1,
   "example": "Jaboticaba",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1005,9 +1038,7 @@
   "usedBy": 1,
   "example": "Jaboticaba",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1018,9 +1049,7 @@
   "usedBy": 1,
   "example": "Jackfruit",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1031,9 +1060,7 @@
   "usedBy": 1,
   "example": "Jackfruit",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1044,9 +1071,7 @@
   "usedBy": 1,
   "example": "Jackfruit",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1057,9 +1082,7 @@
   "usedBy": 1,
   "example": "Jaggery",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1070,9 +1093,7 @@
   "usedBy": 1,
   "example": "Jaggery",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1083,9 +1104,7 @@
   "usedBy": 1,
   "example": "Jalapeño",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1096,9 +1115,7 @@
   "usedBy": 1,
   "example": "Jalapeño",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1109,9 +1126,7 @@
   "usedBy": 1,
   "example": "Jamón ibérico",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1122,9 +1137,7 @@
   "usedBy": 1,
   "example": "Jamón ibérico",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1135,9 +1148,7 @@
   "usedBy": 1,
   "example": "Jamón ibérico",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1148,9 +1159,7 @@
   "usedBy": 1,
   "example": "Jamón serrano, sliced",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1161,9 +1170,7 @@
   "usedBy": 1,
   "example": "Jamón serrano, sliced",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1174,9 +1181,7 @@
   "usedBy": 1,
   "example": "Jamón serrano, sliced",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1187,9 +1192,7 @@
   "usedBy": 1,
   "example": "Jamón serrano",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1200,9 +1203,29 @@
   "usedBy": 1,
   "example": "Jamón serrano",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "Have the fishmonger kill and clean it; hold at 4C or below. Raw eel blood contains a heat-labile toxin, so eel is always cooked, never eaten raw.",
+  "usedBy": 1,
+  "example": "Eel",
+  "missing": [
+   "zh"
+  ],
+  "zh": "",
+  "ja": "",
+  "es": ""
+ },
+ {
+  "en": "A very oily fish - wrap in two layers and use well inside the quality window.",
+  "usedBy": 1,
+  "example": "Eel",
+  "missing": [
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1213,9 +1236,7 @@
   "usedBy": 1,
   "example": "Jicama",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1226,9 +1247,7 @@
   "usedBy": 1,
   "example": "Jicama",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1239,9 +1258,7 @@
   "usedBy": 1,
   "example": "Chinese Jujube",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1252,9 +1269,7 @@
   "usedBy": 1,
   "example": "Chinese Jujube",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1265,9 +1280,7 @@
   "usedBy": 1,
   "example": "Chinese Jujube",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1278,9 +1291,7 @@
   "usedBy": 1,
   "example": "June Plum",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1291,9 +1302,7 @@
   "usedBy": 1,
   "example": "June Plum",
   "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
@@ -1304,256 +1313,7 @@
   "usedBy": 1,
   "example": "Kamaboko",
   "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Once the wrapper is cut the surface is exposed and the salt content is far too low to hold bacteria off. Wrap the cut face, keep it at 4 °C or below, and slice off any surface that has gone slimy or smells sour rather than trimming and eating around it.",
-  "usedBy": 1,
-  "example": "Kamaboko",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Not recommended. Freezing wrecks the gel — kamaboko thaws watery and spongy. Japanese producers generally advise against it, and the frozen-product standard of −15 °C or below applies to products made to be frozen, not to a chilled board of kamaboko.",
-  "usedBy": 1,
-  "example": "Kamaboko",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Only the hard, sun-dried balls belong in a cupboard. Keep them bone dry in a sealed jar; if they soften or bloom with mould, moisture has got in and they are finished. The liquid kashk sold in jars is a different product and is not a pantry good once opened.",
-  "usedBy": 1,
-  "example": "Kashk",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Jarred liquid or paste kashk goes in the fridge once opened. It is fermented and salty, which slows spoilage, but it is still a moist dairy product — many Iranian cooks bring it to a boil before use, which is a flavour and safety habit worth keeping.",
-  "usedBy": 1,
-  "example": "Kashk",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Refrigeration ensures that commercial sauces and condiments stay fresh for a longer period of time. Shelf-stable commercial ketchup, cocktail sauce, and chili sauce are safe when stored at room temperature after opening. Quality, not safety, is the reason the labels on these products suggest that they be refrigerated after opening.",
-  "usedBy": 1,
-  "example": "Ketchup, cocktail, or chili sauce",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Perishable, not a pantry good — reducing milk removes water but leaves a moist, low-acid, protein-rich solid that spoils like fresh cheese. Keep it at or below 4 °C, wrapped tight, and smell it before use: khoya sours and picks up a stale, tallowy note well before it looks wrong.",
-  "usedBy": 1,
-  "example": "Khoya",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Khoya is commonly frozen in flattened, wrapped portions and thawed in the fridge. No source gives a limit, and the fat is what eventually goes rancid, so treat it as a few months rather than indefinite.",
-  "usedBy": 1,
-  "example": "Khoya",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "The densest and best-keeping of the common cultivated mushrooms. Paper bag, not sealed plastic; do not wash before storing.",
-  "usedBy": 1,
-  "example": "King Oyster Mushroom",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Japan's MAFF: keep dried goods out of heat, direct sunlight and damp, and close the container tightly. NCHFP puts dried vegetables at about 6 months at 60 °F, 3 months at 80 °F. The strips darken from white to tan as they age — still edible, but the flavour is stronger.",
-  "usedBy": 1,
-  "example": "Dried Daikon Strips",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Sealed. Once rehydrated, treat it as a fresh cooked vegetable and use it within a few days.",
-  "usedBy": 1,
-  "example": "Dried Daikon Strips",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Individually wrapped kirimochi is sealed with an oxygen absorber, which is the whole preservation system — MAFF lists unopened 切り餅 among the household stockpile foods that keep well. Store cool and dark and go by the printed date; a punctured or puffed pack is finished.",
-  "usedBy": 1,
-  "example": "Kirimochi",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Once a piece is unwrapped it behaves like fresh mochi and will mould. Either cook it or freeze it; MAFF’s 水餅 method — submerged in water, water changed daily — also works for opened pieces.",
-  "usedBy": 1,
-  "example": "Kirimochi",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Wrap opened pieces individually and freeze; grill or boil after a short rest at room temperature.",
-  "usedBy": 1,
-  "example": "Kirimochi",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Japan's MAFF: dried goods keep several months or more at room temperature provided you avoid heat, direct sunlight and damp and seal the bag tightly. The white powder on the surface is mannitol, a natural sugar and part of the flavour — do not wipe it off.",
-  "usedBy": 1,
-  "example": "Kombu",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Sealed, in a humid climate. Used kombu from a dashi pot must be treated as a cooked food and refrigerated, then used within 2 to 3 days.",
-  "usedBy": 1,
-  "example": "Kombu",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Keep it in a sealed tub at or below 4 °C. Straining removes whey but not the live culture, so labneh keeps souring and sharpening in the fridge; a thin layer of olive oil poured over the surface slows the skin forming but does not preserve it.",
-  "usedBy": 1,
-  "example": "Labneh",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Unopened jars, tubs and sachets keep to the printed date in a cool dark cupboard.",
-  "usedBy": 1,
-  "example": "Laksa paste",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "Refrigerate as soon as it is opened. Laksa paste is mostly fresh aromatics — shallot, garlic, galangal, lemongrass, chilli, candlenut, shrimp paste — bound with oil, and the USDA FoodKeeper gives opened Thai curry paste, which is built the same way, only 5 days in the fridge. Homemade rempah is the same or shorter. If the paste is sitting under a layer of oil, that is fresh low-acid produce under oil: keep it cold and do not leave it on the counter.",
-  "usedBy": 1,
-  "example": "Laksa paste",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
-  ],
-  "zh": "",
-  "ja": "",
-  "es": ""
- },
- {
-  "en": "The practical way to keep it. Fry the paste off first if you have time, then freeze in tablespoon portions in an ice-cube tray. NCHFP allows garlic in oil, the closest hazard analogue, to be frozen 'for up to several months'.",
-  "usedBy": 1,
-  "example": "Laksa paste",
-  "missing": [
-   "zh",
-   "ja",
-   "es"
+   "zh"
   ],
   "zh": "",
   "ja": "",
