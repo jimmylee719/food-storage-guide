@@ -1,0 +1,92 @@
+{
+ "slug": "gherkins-fermented",
+ "en": {
+  "name": "Salt-brined gherkins",
+  "aliases": [
+   "fermented gherkins",
+   "sour pickles",
+   "half-sour pickles",
+   "barrel pickles",
+   "brined cucumbers"
+  ],
+  "summary": "These are cucumbers preserved by a live lactic fermentation in salt brine — the barrel pickle, the crock pickle, the deli's own — not the vinegar jar. The ferment itself runs about 3–4 weeks at room temperature. Once fermented, they keep about 4–6 months refrigerated in their original container, provided you skim the surface regularly.",
+  "pantry": "Room temperature is the fermentation, not the storage. Dill pickles ferment at 21–24 °C (70–75 °F) for about 3 to 4 weeks, and regular dill pickles and sauerkraut are fermented and cured for about 3 weeks. Keep the cucumbers weighted under the brine for the whole of it and check the crock several times a week: promptly remove surface scum or mould, because scum yeasts on the surface raise the pH and let softening organisms in. Once the ferment is finished, the crock does not stay on the counter.",
+  "fridge": "Fully fermented pickles may be stored in the original container for about 4 to 6 months, provided they are refrigerated at 4 °C (40 °F) or below and surface scum and moulds are removed regularly. They keep getting softer and more sour the whole time, so the end of that window is a texture judgement as much as anything. Keep the cucumbers under the brine, and use a clean fork rather than fingers. To store them longer, the advice is to can them — heat the brine to boiling, simmer, pack and process — which of course kills the culture.",
+  "freezer": "There is no freezer timeline for brined gherkins and freezing defeats them twice over: it kills the live culture that defines them and it turns a crisp cucumber into a limp, hollow one. If a crock is outlasting you, canning is the published route to longer storage, at the cost of the live ferment. Otherwise, ferment smaller batches more often.",
+  "thawing": null,
+  "spoilage": [
+   "Soft, hollow or slippery cucumbers — a sign softening organisms took hold",
+   "Brine gone ropy, slimy or foul rather than cloudy and sour",
+   "Fuzzy or coloured mould that is more than a skimmable surface scum",
+   "A rotten or yeasty smell instead of a clean lactic sourness"
+  ],
+  "tips": [
+   "Keep everything weighted below the brine at all times.",
+   "Skim surface scum promptly and often; it is the single most important habit.",
+   "Use a clean fork — fingers are how a good crock goes wrong.",
+   "Expect the texture to soften over time; eat the crock down rather than saving it."
+  ],
+  "faq": [
+   {
+    "q": "How long do fermented gherkins last in the fridge?",
+    "a": "About 4 to 6 months in their original container at 4 °C or below, as long as surface scum and moulds are removed regularly."
+   },
+   {
+    "q": "How long does fermenting gherkins take?",
+    "a": "About 3 to 4 weeks at 21–24 °C, with the cucumbers weighted under the brine and the surface skimmed several times a week."
+   },
+   {
+    "q": "Can you freeze brined gherkins?",
+    "a": "No timeline exists and it is a bad idea — freezing kills the live culture and leaves the cucumbers limp and hollow."
+   },
+   {
+    "q": "Is white scum on the brine dangerous?",
+    "a": "A surface scum is common and should be removed promptly, because it raises the pH and lets softening organisms in. Fuzzy coloured mould or a rotten smell means the batch goes out."
+   }
+  ]
+ },
+ "zh": {
+  "name": "鹽漬發酵小黃瓜",
+  "aliases": [
+   "發酵酸黃瓜",
+   "乳酸發酵小黃瓜",
+   "木桶酸黃瓜",
+   "活菌醃黃瓜"
+  ],
+  "summary": "這裡指的是靠鹽水中的活乳酸發酵保存的小黃瓜——木桶酸黃瓜、缸醃酸黃瓜、熟食店自己醃的那種，而不是醋漬罐裝。發酵本身在室溫大約要 3～4 週。發酵完成後，只要定期撈掉表面浮沫，在原容器中冷藏大約可放 4～6 個月。",
+  "pantry": "室溫是「發酵」，不是「保存」。蒔蘿酸黃瓜在 21～24 °C 下發酵大約 3 到 4 週，一般的蒔蘿酸黃瓜和德式酸菜也是發酵熟成約 3 週。整個過程都要把小黃瓜壓在鹽水面以下，並且每週查看好幾次：一出現浮沫或霉就要立刻撈掉，因為表面的浮沫酵母會拉高 pH 值，讓造成軟爛的菌有機可乘。發酵結束之後，醃缸就不該再留在檯面上。",
+  "fridge": "完成發酵的酸黃瓜可以留在原容器中，放 4 °C 以下冷藏大約 4 到 6 個月，前提是表面的浮沫和霉要定期撈除。它們在這段期間會持續變軟、變酸，所以這個窗口的終點，很大程度上是口感的判斷。請讓小黃瓜保持在鹽水面以下，並用乾淨的叉子而不是手取用。想放更久的官方做法是裝罐殺菌——把鹽水煮沸、小滾、裝罐處理——當然，那也等於把活菌殺掉。",
+  "freezer": "鹽漬發酵小黃瓜沒有冷凍期限，而冷凍會從兩個方向毀掉它：殺死定義它的活菌，又把爽脆的小黃瓜變成軟塌中空的東西。一缸吃不完的話，裝罐殺菌是已發表的長期保存方式，代價是失去活菌。否則就少量多次地醃。",
+  "thawing": null,
+  "spoilage": [
+   "小黃瓜變軟、中空或滑手——代表軟化菌已經佔上風",
+   "鹽水變得黏稠、牽絲或發臭，而不是正常的混濁帶酸",
+   "出現毛狀或有顏色的霉，而且不只是可以撈掉的表面浮沫",
+   "聞起來是腐敗味或酵母味，而不是乾淨的乳酸酸味"
+  ],
+  "tips": [
+   "全程用重物把所有材料壓在鹽水面以下。",
+   "表面浮沫要勤撈、立刻撈；這是最重要的一個習慣。",
+   "用乾淨的叉子——用手取是好好一缸醃菜出事的主因。",
+   "接受口感會隨時間變軟；與其留著，不如趁狀態好時吃完。"
+  ],
+  "faq": [
+   {
+    "q": "發酵酸黃瓜放冰箱可以放多久？",
+    "a": "留在原容器中放 4 °C 以下大約 4 到 6 個月，前提是表面的浮沫和霉要定期撈除。"
+   },
+   {
+    "q": "小黃瓜要發酵多久？",
+    "a": "在 21～24 °C 下大約 3 到 4 週，過程中要壓在鹽水面以下，每週撈除表面浮沫好幾次。"
+   },
+   {
+    "q": "發酵酸黃瓜可以冷凍嗎？",
+    "a": "沒有對應期限，而且不是好主意——冷凍會殺死活菌，小黃瓜也會變得軟塌中空。"
+   },
+   {
+    "q": "鹽水表面的白色浮沫有危險嗎？",
+    "a": "表面浮沫很常見，要立刻撈掉，因為它會拉高 pH 值、讓軟化菌有機可乘。若是毛狀有顏色的霉或有腐敗味，整批就要丟掉。"
+   }
+  ]
+ }
+}

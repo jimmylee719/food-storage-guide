@@ -1,0 +1,91 @@
+{
+ "slug": "salad-dressing-creamy",
+ "en": {
+  "name": "Creamy salad dressing",
+  "aliases": [
+   "ranch dressing",
+   "blue cheese dressing",
+   "Caesar dressing",
+   "Thousand Island dressing"
+  ],
+  "summary": "Creamy bottled dressings — ranch, blue cheese, Caesar, Thousand Island — are emulsions with dairy or egg in them. Unopened they keep about 6 months from purchase in the cupboard. Once opened, refrigerate and use within about 3–4 weeks. Freezing is not recommended.",
+  "pantry": "An unopened bottle keeps about 6 months from purchase in a cool, dry cupboard, away from the hob and out of the sun. Heat and light are what stale the oil, and a creamy dressing has dairy or egg solids in it as well, which gives it less margin than a plain vinaigrette. Once the bottle is opened it belongs in the fridge; do not return it to the shelf.",
+  "fridge": "After opening, keep the bottle at 4 °C (40 °F) or below and use within about 3–4 weeks. Stand it upright on an inside shelf rather than in the door, where the temperature swings every time someone opens the fridge. Shake before pouring, wipe the neck afterwards, and never pour dressing back from a salad bowl into the bottle. If a dressing has been sitting out on a table through a meal, put it back cold rather than leaving it out for the next one.",
+  "freezer": "Freezing creamy salad dressing is not recommended and no freezer timeline is given for it. The emulsion breaks on thawing, leaving oil on top and curds of dairy or egg beneath, and whisking will not bring it back. Buy the bottle size you will get through in a month, and use the last of one in a potato salad or a coleslaw rather than trying to store it colder.",
+  "thawing": null,
+  "spoilage": [
+   "The emulsion separated into oil and curds and no longer shaking back together",
+   "A sour, rancid or fermented smell rather than a clean tangy one",
+   "Mould around the neck, the cap or on the surface",
+   "A bottle that fizzes or a cap that has domed up"
+  ],
+  "tips": [
+   "Write the opening date on the label — weeks pass faster than months.",
+   "Store upright on an inside shelf, not in the fridge door.",
+   "Pour what you need over the salad; never dip or pour back.",
+   "Buy smaller bottles of the dressings you use occasionally."
+  ],
+  "faq": [
+   {
+    "q": "How long does creamy salad dressing last once opened?",
+    "a": "About 3–4 weeks refrigerated at 4 °C or below."
+   },
+   {
+    "q": "How long does an unopened bottle keep?",
+    "a": "About 6 months from purchase in a cool dry cupboard."
+   },
+   {
+    "q": "Can you freeze creamy dressing?",
+    "a": "Freezing is not recommended and no timeline is given. The emulsion splits into oil and curds on thawing."
+   },
+   {
+    "q": "Does creamy dressing need to be refrigerated after opening?",
+    "a": "Yes. It contains dairy or egg, so put it in the fridge once opened rather than back in the cupboard."
+   }
+  ]
+ },
+ "zh": {
+  "name": "奶香沙拉醬",
+  "aliases": [
+   "牧場沙拉醬",
+   "藍紋起司醬",
+   "凱薩沙拉醬",
+   "千島醬"
+  ],
+  "summary": "瓶裝的奶香型沙拉醬——牧場醬、藍紋起司醬、凱薩醬、千島醬——是含乳製品或蛋的乳化醬。未開封放櫥櫃，從購買日起算大約 6 個月。開封後請冷藏，並在大約 3～4 週內用完。不建議冷凍。",
+  "pantry": "未開封的瓶子放在陰涼乾燥的櫥櫃、遠離爐火與日曬，從購買日起算大約 6 個月。讓油走味的是溫度和光，而奶香型沙拉醬還含有乳製品或蛋的固形物，容錯空間比單純的油醋醬更小。一旦開瓶，它就屬於冰箱，不要再放回架上。",
+  "fridge": "開封後請放 4 °C 以下，並在大約 3～4 週內用完。請直立放在冰箱內側層架，不要放門邊——門邊每次開關都在經歷溫度起伏。倒之前搖勻，倒完擦瓶口，沙拉碗裡的醬也絕對不要倒回瓶子。如果一瓶在餐桌上擺了一整頓飯，吃完就冰回去，不要留到下一餐。",
+  "freezer": "奶香沙拉醬不建議冷凍，也沒有提供冷凍期限。解凍時乳化會破掉，上層是油、下層是乳製品或蛋的凝結物，攪也攪不回來。請買一個月內用得完的容量，剩下的就拌馬鈴薯沙拉或涼拌高麗菜絲用掉，不要想著冰得更冷。",
+  "thawing": null,
+  "spoilage": [
+   "乳化分離成油和凝結物，搖也搖不勻",
+   "聞起來發酸、有油耗味或發酵味，而不是乾淨的酸香",
+   "瓶口、瓶蓋或液面長霉",
+   "瓶子冒氣，或瓶蓋鼓起"
+  ],
+  "tips": [
+   "在標籤上寫開封日期——以「週」計的時間過得很快。",
+   "直立放在冰箱內側層架，不要放門邊。",
+   "要多少倒多少淋在沙拉上；不要沾、也不要倒回去。",
+   "偶爾才用的口味請買小瓶。"
+  ],
+  "faq": [
+   {
+    "q": "奶香沙拉醬開封後可以放多久？",
+    "a": "放 4 °C 以下冷藏大約 3～4 週。"
+   },
+   {
+    "q": "未開封的沙拉醬可以放多久？",
+    "a": "陰涼乾燥的櫥櫃，從購買日起算大約 6 個月。"
+   },
+   {
+    "q": "奶香沙拉醬可以冷凍嗎？",
+    "a": "不建議，也沒有提供期限。解凍後乳化會分離成油和凝結物。"
+   },
+   {
+    "q": "奶香沙拉醬開封後要冰嗎？",
+    "a": "要。它含乳製品或蛋，開封後請放冰箱，不要放回櫥櫃。"
+   }
+  ]
+ }
+}

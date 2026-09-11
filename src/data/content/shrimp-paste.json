@@ -1,0 +1,93 @@
+{
+ "slug": "shrimp-paste",
+ "en": {
+  "name": "Shrimp paste",
+  "aliases": [
+   "belacan",
+   "terasi",
+   "kapi",
+   "fermented shrimp paste",
+   "bagoong"
+  ],
+  "summary": "Shrimp paste comes in two very different forms. The dried block — belacan, terasi — is among the driest and saltiest things in an Asian pantry and keeps in a cupboard with no timeline attached. Wet paste in a jar is moister, and once opened it should be refrigerated and used within about 3–6 months.",
+  "pantry": "A wrapped dried block keeps in a cool dry cupboard, and no number is given for it on purpose: salt and low water activity do the same job refrigeration does, so putting a deadline on it would misdescribe how it works. Wrap the block in several layers or keep it in a lidded jar, because the smell travels through anything thinner — a single sheet of cling film will scent an entire cupboard. Wet paste in a jar is a different, moister product and should follow the jar's own after-opening instruction.",
+  "fridge": "Refrigerate opened wet paste at 4 °C (40 °F) or below and use within about 3–6 months, a figure borrowed from oyster sauce, the closest salted fermented-seafood condiment with a published number. Keep the surface flat and use a clean dry spoon; water introduced on a wet spoon is what starts mould in an otherwise hostile jar. Colour deepening from pink-grey towards near-black over time is normal ageing. A dried block can also live in the fridge in a sealed jar if the smell is a problem at room temperature.",
+  "freezer": "There is no freezer timeline for shrimp paste and it is rarely necessary — the dried block is already shelf-stable and the wet jar keeps for months cold. The freezer does have one practical use here: a double-bagged block in the freezer contains the smell better than anything else, and it stays soft enough to cut because of the salt. Toast or fry the paste before use either way.",
+  "thawing": "No thawing is needed. Cut or scrape what you want straight from a frozen block; the salt keeps it workable at freezer temperature.",
+  "spoilage": [
+   "Fuzzy mould on the surface of a wet paste, usually where a wet spoon went in",
+   "A rancid or sharply sour smell rather than the usual deep, pungent, marine one",
+   "A dried block gone soft, tacky or damp",
+   "A bulging jar, or gas escaping when it is opened"
+  ],
+  "tips": [
+   "Double-wrap a block or keep it in a sealed jar; the smell goes through thin film.",
+   "Use a clean dry spoon on wet paste — water is the only real enemy.",
+   "Toast or fry the paste before adding it to a dish; it is not eaten raw.",
+   "Cut a block into usable pieces and wrap them individually so you open one at a time."
+  ],
+  "faq": [
+   {
+    "q": "Does shrimp paste need to be refrigerated?",
+    "a": "A dried block does not — salt and low water activity keep it in a cupboard. Opened wet paste in a jar should be refrigerated and used within about 3–6 months."
+   },
+   {
+    "q": "How long does a block of belacan last?",
+    "a": "No timeline is given, and that is deliberate: it is shelf-stable by salt and dryness. Keep it wrapped and dry in a cool cupboard."
+   },
+   {
+    "q": "Can you freeze shrimp paste?",
+    "a": "There is no timeline and it is rarely needed, but the freezer is the best way to contain the smell. The salt keeps a block soft enough to cut."
+   },
+   {
+    "q": "Why has my shrimp paste gone almost black?",
+    "a": "It deepens in colour as it ages. That is normal; mould or a rancid smell are the real warning signs."
+   }
+  ]
+ },
+ "zh": {
+  "name": "蝦醬",
+  "aliases": [
+   "蝦膏",
+   "馬拉盞",
+   "belacan",
+   "terasi",
+   "鹹蝦醬"
+  ],
+  "summary": "蝦醬有兩種差別很大的形態。乾燥磚狀的——馬拉盞、terasi——是亞洲櫥櫃裡最乾最鹹的東西之一，放在櫥櫃且不附任何期限。罐裝的濕蝦醬水分較多，開封後應冷藏，並在大約 3～6 個月內用完。",
+  "pantry": "包好的乾蝦醬磚放在陰涼乾燥的櫥櫃，而這裡刻意不給數字：鹽和低水活性做的正是冷藏在做的事，硬加一個期限反而會誤導它的原理。請用多層包裹，或放進有蓋的玻璃罐，因為那個味道會穿透任何比這更薄的東西——單一層保鮮膜足以讓整個櫥櫃都是味道。罐裝濕蝦醬是水分較多的另一種產品，請依罐上的開封後指示處理。",
+  "fridge": "開封的濕蝦醬請放 4 °C 以下冷藏，並在大約 3～6 個月內用完；這個數字借自蠔油，那是最接近的鹹味發酵海鮮調味料且有公布數字。請把表面抹平，並使用乾淨乾燥的湯匙；沾水的湯匙帶進去的水分，正是這罐原本很不利於微生物的環境裡長霉的起點。顏色隨時間從粉灰轉向近黑是正常的熟成。如果室溫下氣味太擾人，乾蝦醬磚也可以密封裝罐放冰箱。",
+  "freezer": "蝦醬沒有冷凍期限，通常也不必要——乾磚本來就能常溫保存，濕罐冷藏也能放好幾個月。不過冷凍在這裡確實有一個實際用途：雙層密封的蝦醬磚放冷凍，控味效果比任何方式都好，而且因為含鹽，它仍然軟到可以切。不管哪一種，使用前都要先烤過或炒過。",
+  "thawing": "不需要解凍。直接從冷凍的磚上切或刮下需要的量；鹽讓它在冷凍溫度下仍然好處理。",
+  "spoilage": [
+   "濕蝦醬表面長出毛狀的霉，通常在沾水湯匙碰過的地方",
+   "聞起來有油耗味或強烈酸敗味，而不是原本深沉濃郁的海味",
+   "乾蝦醬磚變軟、變黏或摸起來潮濕",
+   "罐子鼓起，或開罐時有氣體跑出"
+  ],
+  "tips": [
+   "蝦醬磚請多層包裹或放進密封罐；味道會穿透薄膜。",
+   "濕蝦醬一定要用乾淨乾燥的湯匙——水是唯一真正的敵人。",
+   "下鍋前先烤過或炒過；蝦醬不生食。",
+   "把整磚切成好用的份量分別包好，每次只開一份。"
+  ],
+  "faq": [
+   {
+    "q": "蝦醬要冰嗎？",
+    "a": "乾蝦醬磚不用——靠鹽和低水活性就能放櫥櫃。開封的罐裝濕蝦醬要冷藏，並在大約 3～6 個月內用完。"
+   },
+   {
+    "q": "一塊馬拉盞可以放多久？",
+    "a": "沒有給期限，而且是刻意的：它靠鹽和乾燥就能常溫保存。請包好、保持乾燥、放陰涼櫥櫃。"
+   },
+   {
+    "q": "蝦醬可以冷凍嗎？",
+    "a": "沒有對應期限，通常也不必要，但冷凍是控制氣味最有效的方法。含鹽讓它在冷凍時仍然切得動。"
+   },
+   {
+    "q": "蝦醬顏色變得幾乎全黑正常嗎？",
+    "a": "正常。它會隨熟成變深。真正的警訊是長霉或油耗味。"
+   }
+  ]
+ }
+}

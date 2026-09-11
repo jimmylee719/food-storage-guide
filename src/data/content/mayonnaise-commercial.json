@@ -1,0 +1,91 @@
+{
+ "slug": "mayonnaise-commercial",
+ "en": {
+  "name": "Mayonnaise, commercial",
+  "aliases": [
+   "mayo",
+   "shop-bought mayonnaise",
+   "jarred mayonnaise",
+   "salad cream (similar)"
+  ],
+  "summary": "Commercial mayonnaise is an acidified, pasteurised emulsion, which makes it far more stable than the homemade kind. Unopened it keeps about 3–6 months from purchase in the cupboard. After opening, about 2 months refrigerated — and the label's advice to refrigerate is about quality rather than safety.",
+  "pantry": "An unopened jar keeps about 3–6 months from purchase in a cool, dry cupboard. The point worth knowing is that shelf-stable commercial mayonnaise is safe when stored at room temperature after opening; quality, not safety, is the reason the labels suggest refrigerating it, and refrigeration ensures commercial sauces and condiments stay fresh for a longer period of time. Keep the jar out of sunlight and away from the hob either way; warmth and light are what turn the oil stale.",
+  "fridge": "After opening, keep it at 4 °C (40 °F) or below and use within about 2 months. Use a clean spoon or knife every time — the classic way a jar goes wrong is a knife that has been across a sandwich, putting crumbs and moisture into an otherwise stable emulsion. Wipe the rim before closing. Once mayonnaise has been mixed into a salad with tuna, egg, potato or chicken, the salad is a perishable dish on its own short clock, not a mayonnaise on this one.",
+  "freezer": "There is no freezer timeline for mayonnaise and freezing it does not work. The emulsion breaks on thawing into a pool of oil with curds in it, and whisking will not bring it back. This is true of commercial mayonnaise as well as homemade. Buy the jar size you will finish, and use up the last of a jar in a dressing or a potato salad rather than trying to store it colder.",
+  "thawing": null,
+  "spoilage": [
+   "The emulsion separated, with oil pooling on the surface",
+   "A sharp, sour, rancid or fermented smell instead of a mild vinegary one",
+   "A yellowed or browned colour, or a discoloured crust at the rim",
+   "Any mould in the jar or around the lid"
+  ],
+  "tips": [
+   "Use a clean knife every time; crumbs are what spoil a jar.",
+   "Write the opening date on the lid.",
+   "Keep the jar out of the sun — light and warmth stale the oil.",
+   "Mayonnaise-dressed salads are their own perishable dish; do not judge them by the jar's dates."
+  ],
+  "faq": [
+   {
+    "q": "Does commercial mayonnaise need to be refrigerated after opening?",
+    "a": "Not for safety — shelf-stable commercial mayonnaise is safe at room temperature after opening. Refrigeration keeps it fresher for longer, which is why the label suggests it."
+   },
+   {
+    "q": "How long does mayonnaise last once opened?",
+    "a": "About 2 months refrigerated at 4 °C or below."
+   },
+   {
+    "q": "How long does an unopened jar of mayonnaise keep?",
+    "a": "About 3–6 months from purchase in a cool, dry cupboard."
+   },
+   {
+    "q": "Can you freeze mayonnaise?",
+    "a": "No. The emulsion splits on thawing into oil and curds, and no amount of whisking brings it back."
+   }
+  ]
+ },
+ "zh": {
+  "name": "市售美乃滋",
+  "aliases": [
+   "美奶滋",
+   "蛋黃醬",
+   "沙拉醬",
+   "mayonnaise"
+  ],
+  "summary": "市售美乃滋是經過酸化和殺菌的乳化醬，比自製版本穩定得多。未開封放櫥櫃，從購買日起算大約 3～6 個月。開封後冷藏大約 2 個月——而標籤建議冷藏，講的是品質而不是安全。",
+  "pantry": "未開封的罐子放在陰涼乾燥的櫥櫃，從購買日起算大約 3～6 個月。值得知道的一點是：常溫販售的市售美乃滋，開封後放室溫仍然是安全的；標籤建議冷藏的理由是品質而不是安全，而冷藏能讓市售醬料維持新鮮更久。不管放哪裡，都要避免日曬、遠離爐火；讓油走味的就是溫度和光。",
+  "fridge": "開封後請放 4 °C 以下，並在大約 2 個月內用完。每次都要用乾淨的湯匙或刀子——一罐美乃滋出事最經典的方式，就是一把抹過三明治的刀，把麵包屑和水分帶進本來很穩定的乳化醬裡。蓋回去前擦一下瓶口。另外，一旦美乃滋被拌進鮪魚、蛋、馬鈴薯或雞肉沙拉，那道沙拉就是有自己短時限的易腐料理，不再適用這一篇的數字。",
+  "freezer": "美乃滋沒有冷凍期限，而且冷凍根本行不通。解凍時乳化會破掉，變成一灘油加上凝結的屑塊，怎麼攪都救不回來。市售的和自製的都一樣。請買你用得完的容量，最後剩下的就拌進沙拉醬或馬鈴薯沙拉用掉，不要想著冰得更冷。",
+  "thawing": null,
+  "spoilage": [
+   "乳化分離，表面浮出一層油",
+   "聞起來刺酸、有油耗味或發酵味，而不是溫和的醋香",
+   "顏色轉黃或發褐，或瓶口結了一圈變色的硬殼",
+   "罐內或蓋子周圍出現任何霉"
+  ],
+  "tips": [
+   "每次都用乾淨的刀；麵包屑才是毀掉一罐的原因。",
+   "在蓋子上寫開封日期。",
+   "避免日曬——光和溫度會讓油走味。",
+   "拌了美乃滋的沙拉是另一道易腐料理，不要用罐子的日期去判斷它。"
+  ],
+  "faq": [
+   {
+    "q": "市售美乃滋開封後一定要冰嗎？",
+    "a": "以安全來說不用——常溫販售的市售美乃滋開封後放室溫仍然安全。冷藏是為了維持新鮮更久，所以標籤才會建議。"
+   },
+   {
+    "q": "美乃滋開封後可以放多久？",
+    "a": "放 4 °C 以下冷藏大約 2 個月。"
+   },
+   {
+    "q": "未開封的美乃滋可以放多久？",
+    "a": "陰涼乾燥的櫥櫃，從購買日起算大約 3～6 個月。"
+   },
+   {
+    "q": "美乃滋可以冷凍嗎？",
+    "a": "不行。解凍後乳化會破掉，分離成油和凝結的屑塊，攪也攪不回來。"
+   }
+  ]
+ }
+}

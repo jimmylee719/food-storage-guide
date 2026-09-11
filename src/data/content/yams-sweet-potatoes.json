@@ -1,0 +1,91 @@
+{
+ "slug": "yams-sweet-potatoes",
+ "en": {
+  "name": "Yams / sweet potatoes",
+  "aliases": [
+   "sweet potato",
+   "kumara",
+   "yam",
+   "camote"
+  ],
+  "summary": "Sweet potatoes — sold as yams in much of the United States — are a storage root, and the cupboard is where they belong. From the day you buy them expect about 2–3 weeks in a cool, dark, airy place. There is no refrigerator or freezer timeline for raw ones, and the fridge actively harms them.",
+  "pantry": "This is the only storage method with a published timeline: about 2–3 weeks from purchase, kept in a cool, dark, well-ventilated spot. Spread them in a single layer in a basket or paper bag rather than sealing them in plastic, which traps the moisture they breathe out and starts rot. Keep them away from the cooker and out of sunlight, and store them apart from onions, which push each other along.",
+  "fridge": "There is no refrigerator timeline for raw sweet potatoes, and that omission is deliberate: below about 10 °C (50 °F) they suffer chilling injury, developing a hard core that never softens in cooking and an off, sometimes bitter taste. Keep them out of the fridge. Cooked sweet potato is a different food and does belong in the fridge, cooled quickly and covered — put it away within two hours, or one hour if the kitchen is above 32 °C (90 °F).",
+  "freezer": "No freezer timeline is published for raw sweet potatoes, and freezing them raw is not the way to keep them: the flesh darkens and goes watery. What freezes well is cooked sweet potato — baked, boiled or mashed, cooled, portioned and sealed at −18 °C (0 °F). Frozen food held at that temperature stays safe indefinitely, so the limit there is quality rather than safety.",
+  "thawing": "Thaw cooked, frozen sweet potato in the fridge or reheat it straight from frozen. Do not leave it on the counter to thaw.",
+  "spoilage": [
+   "Soft, wet or sunken patches, especially at the ends",
+   "Black or dark brown rot spreading inwards from a bruise",
+   "White or blue-green mould on the skin",
+   "Long sprouts and a shrivelled, light-feeling root"
+  ],
+  "tips": [
+   "Buy firm roots with unbroken skin; a nick in the skin is where rot starts.",
+   "Do not wash before storing — store dry and brush the soil off at the sink.",
+   "Keep them in a basket or paper bag, never sealed plastic.",
+   "Store them away from onions and away from the cooker."
+  ],
+  "faq": [
+   {
+    "q": "Should you keep sweet potatoes in the fridge?",
+    "a": "No. Below about 10 °C they take chilling injury, which gives them a hard core and an off taste. Keep them in a cool dark cupboard."
+   },
+   {
+    "q": "How long do sweet potatoes last?",
+    "a": "About 2–3 weeks from purchase in a cool, dark, airy place. There is no published fridge or freezer timeline for raw ones."
+   },
+   {
+    "q": "Can you freeze sweet potatoes?",
+    "a": "Not usefully when raw. Cook them first — baked, boiled or mashed — then cool, portion and freeze at −18 °C."
+   },
+   {
+    "q": "Are sprouted sweet potatoes safe to eat?",
+    "a": "A few small sprouts can be rubbed off and the root used, as long as it is still firm. A shrivelled, soft or mouldy one goes in the bin."
+   }
+  ]
+ },
+ "zh": {
+  "name": "地瓜",
+  "aliases": [
+   "番薯",
+   "甘藷",
+   "紅薯",
+   "山芋"
+  ],
+  "summary": "地瓜（美國市場常標示為 yam）是儲藏型的塊根，櫥櫃才是它該待的地方。從購買日起算，放在陰涼、避光、通風的地方大約 2～3 週。生地瓜沒有冷藏或冷凍的期限數據，而且冰箱其實會傷害它。",
+  "pantry": "這是唯一有公布期限的保存方式：從購買日起算大約 2～3 週，放在陰涼、避光、通風良好的位置。用籃子或紙袋單層鋪開，不要密封在塑膠袋裡——袋子會把它呼吸出來的水氣悶住，那是腐爛的起點。遠離爐火、避免日曬，也不要和洋蔥放在一起，兩者會互相催老。",
+  "fridge": "生地瓜沒有冷藏期限，這個空缺是刻意的：低於約 10 °C 它會出現低溫傷害，中心變硬、怎麼煮都煮不軟，還會產生怪味甚至苦味。請讓它遠離冰箱。煮熟的地瓜則是另一回事，本來就該冷藏：快速放涼、加蓋，兩小時內收進冰箱，廚房超過 32 °C 時縮短為一小時。",
+  "freezer": "生地瓜沒有公布的冷凍期限，而生凍也不是保存它的方法：肉質會變黑、出水。真正適合冷凍的是煮熟的地瓜——烤過、蒸過或壓成泥，放涼分裝密封後放 −18 °C。食物在這個溫度下安全性可以無限期維持，所以限制的是風味而不是安全。",
+  "thawing": "熟的冷凍地瓜請放冷藏解凍，或直接從冷凍加熱。不要放在室溫等它退冰。",
+  "spoilage": [
+   "出現軟爛、滲水或凹陷的區塊，特別是兩端",
+   "從碰傷處往內蔓延的黑色或深褐色腐爛",
+   "外皮長出白色或藍綠色的霉",
+   "長出長芽，整條皺縮、拿起來變輕"
+  ],
+  "tips": [
+   "挑結實、外皮完整的；皮上的傷口就是腐爛的入口。",
+   "不要洗過再存放——乾燥存放，要煮的時候再在水槽刷掉泥土。",
+   "用籃子或紙袋裝，絕對不要密封塑膠袋。",
+   "和洋蔥分開放，也要遠離爐火。"
+  ],
+  "faq": [
+   {
+    "q": "地瓜要放冰箱嗎？",
+    "a": "不要。低於約 10 °C 會出現低溫傷害，中心變硬、產生怪味。請放陰涼避光的櫥櫃。"
+   },
+   {
+    "q": "地瓜可以放多久？",
+    "a": "從購買日起算，放在陰涼避光通風處大約 2～3 週。生地瓜沒有已發表的冷藏或冷凍期限。"
+   },
+   {
+    "q": "地瓜可以冷凍嗎？",
+    "a": "生的冷凍沒什麼意義。請先煮熟——烤、蒸或壓成泥——放涼分裝後再放 −18 °C 冷凍。"
+   },
+   {
+    "q": "發芽的地瓜還能吃嗎？",
+    "a": "只有幾個小芽、整條還結實的話，把芽摘掉還可以吃。已經皺縮、發軟或發霉的就要丟掉。"
+   }
+  ]
+ }
+}

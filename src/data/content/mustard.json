@@ -1,0 +1,91 @@
+{
+ "slug": "mustard",
+ "en": {
+  "name": "Mustard",
+  "aliases": [
+   "prepared mustard",
+   "Dijon mustard",
+   "yellow mustard",
+   "wholegrain mustard"
+  ],
+  "summary": "Prepared mustard is ground mustard seed with vinegar and salt — an acidic, hostile little jar that keeps very well. Unopened it runs about 1–2 years from purchase in the cupboard. After opening, refrigeration gives about 1 year, and the label's advice to refrigerate is about quality rather than safety.",
+  "pantry": "An unopened jar keeps about 1–2 years from purchase in a cool, dry cupboard. What is worth knowing is what happens next: shelf-stable commercial mustard is safe when stored at room temperature after opening, and quality, not safety, is the reason the labels suggest refrigerating it. Refrigeration simply ensures commercial sauces and condiments stay fresh for a longer period of time. A jar left in a warm cupboard fades in pungency and darkens; it does not become hazardous.",
+  "fridge": "After opening, keep it at 4 °C (40 °F) or below and reckon on about 1 year. Cold is what holds the sharpness, since the volatile compounds that give mustard its bite escape steadily in a warm kitchen. Keep the lid on tight, wipe the rim so dried mustard does not crust into the thread, and use a clean spoon — a knife that has been across a sandwich is the usual route to a mouldy jar. A dried crust at the surface can be scraped away if the mustard beneath is clean and smells right.",
+  "freezer": "There is no freezer timeline for mustard and no reason to freeze it. It is acidic and salted enough to keep for months or longer in the fridge, and freezing splits it — the emulsion separates and the texture goes grainy. If a jar is outlasting your enthusiasm, use it more freely in dressings and marinades, where a spoonful does a lot of work.",
+  "thawing": null,
+  "spoilage": [
+   "Mould on the surface, around the rim or under the lid",
+   "A sharp rancid or fermented smell instead of a clean vinegary one",
+   "Colour gone dark brown throughout with liquid separating out",
+   "No pungency at all — old rather than unsafe, but no longer worth using"
+  ],
+  "tips": [
+   "Use a clean spoon; never a knife that has been on a sandwich.",
+   "Wipe the rim before closing so the lid seals and the thread stays clean.",
+   "Refrigerate after opening if you care about the heat; it fades fastest in a warm cupboard.",
+   "Buy small jars of the specialty mustards you use rarely."
+  ],
+  "faq": [
+   {
+    "q": "Does mustard need to be refrigerated after opening?",
+    "a": "Not for safety — shelf-stable commercial mustard is safe at room temperature after opening. Refrigeration keeps it fresher and sharper for longer."
+   },
+   {
+    "q": "How long does mustard last in the fridge?",
+    "a": "About 1 year after opening at 4 °C or below."
+   },
+   {
+    "q": "How long does an unopened jar of mustard keep?",
+    "a": "About 1–2 years from purchase in a cool dry cupboard."
+   },
+   {
+    "q": "Why has my mustard lost its kick?",
+    "a": "The pungent compounds are volatile and escape over time, faster in a warm cupboard. It is a quality change, not spoilage."
+   }
+  ]
+ },
+ "zh": {
+  "name": "芥末醬",
+  "aliases": [
+   "黃芥末醬",
+   "第戎芥末醬",
+   "顆粒芥末醬",
+   "mustard"
+  ],
+  "summary": "調製芥末醬是芥末籽磨碎後加醋和鹽做成的——酸、鹹，對微生物很不友善，因此非常耐放。未開封放櫥櫃，從購買日起算大約 1～2 年。開封後冷藏大約 1 年，而標籤建議冷藏，講的是品質而不是安全。",
+  "pantry": "未開封的罐子放在陰涼乾燥的櫥櫃，從購買日起算大約 1～2 年。值得知道的是接下來這件事：常溫販售的市售芥末醬，開封後放室溫仍然是安全的，標籤建議冷藏的理由是品質而不是安全。冷藏只是讓市售醬料維持新鮮更久。放在溫暖櫥櫃裡的罐子會失去嗆勁、顏色變深，但不會變得有危險。",
+  "fridge": "開封後請放 4 °C 以下，大約以 1 年為準。低溫能留住那股嗆勁，因為讓芥末嗆鼻的揮發性成分在溫暖的廚房裡會持續散失。蓋子要蓋緊、擦淨瓶口避免醬垢卡進螺紋，並使用乾淨的湯匙——抹過三明治的刀正是一罐芥末長霉最常見的原因。表面若結了一層乾殼，只要底下的醬乾淨、氣味正常，把乾殼刮掉即可。",
+  "freezer": "芥末醬沒有冷凍期限，也沒有冷凍的理由。它夠酸也夠鹹，冷藏就能放很久，而冷凍會讓它分離、質地變粗。如果一罐老是用不完，就在沙拉醬和醃料裡多用一點——一小匙就很有存在感。",
+  "thawing": null,
+  "spoilage": [
+   "醬面、瓶口或蓋子內側長霉",
+   "聞起來有油耗味或發酵味，而不是乾淨的醋酸味",
+   "整罐顏色轉成深褐，並且分離出液體",
+   "完全沒有嗆味——那是老了，不是不安全，但也沒有使用價值了"
+  ],
+  "tips": [
+   "用乾淨的湯匙；絕對不要用抹過三明治的刀。",
+   "蓋回去前擦瓶口，讓蓋子密合、螺紋保持乾淨。",
+   "在意嗆度就冷藏；放溫暖的櫥櫃流失最快。",
+   "很少用的特殊口味芥末請買小罐。"
+  ],
+  "faq": [
+   {
+    "q": "芥末醬開封後一定要冰嗎？",
+    "a": "以安全來說不用——常溫販售的市售芥末醬開封後放室溫仍然安全。冷藏能讓它更久保持新鮮和嗆勁。"
+   },
+   {
+    "q": "芥末醬放冰箱可以放多久？",
+    "a": "開封後在 4 °C 以下冷藏大約 1 年。"
+   },
+   {
+    "q": "未開封的芥末醬可以放多久？",
+    "a": "陰涼乾燥的櫥櫃，從購買日起算大約 1～2 年。"
+   },
+   {
+    "q": "芥末醬為什麼不嗆了？",
+    "a": "嗆味成分是揮發性的，會隨時間散失，放在溫暖的櫥櫃更快。那是品質變化，不是腐壞。"
+   }
+  ]
+ }
+}

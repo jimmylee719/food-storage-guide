@@ -1,0 +1,91 @@
+{
+ "slug": "salad-dressings-commercial-bottled",
+ "en": {
+  "name": "Salad dressing, commercial bottled",
+  "aliases": [
+   "bottled dressing",
+   "shop-bought salad dressing",
+   "store dressing",
+   "commercial dressing"
+  ],
+  "summary": "Commercial bottled salad dressing is an acidified, shelf-stable product. Unopened it keeps about 10–12 months from purchase in the cupboard. After opening, the fridge gives about 1–3 months — and the label's advice to refrigerate is about quality rather than safety.",
+  "pantry": "An unopened bottle keeps about 10–12 months from purchase in a cool, dry cupboard. The part worth knowing is what happens next: shelf-stable commercial salad dressing is safe when stored at room temperature after opening, and quality, not safety, is the reason the labels suggest refrigerating it. Refrigeration simply ensures that commercial sauces and condiments stay fresh for a longer period of time. Keep bottles out of sunlight and away from the hob, since warmth and light are what stale the oil.",
+  "fridge": "After opening, keep it at 4 °C (40 °F) or below and use within about 1–3 months. Store it upright on an inside shelf rather than in the door, shake before every pour, and wipe the neck afterwards. Never pour dressing back from a salad bowl into the bottle, and do not top up an old bottle with a new one. Dressings with dairy or egg in them sit at the short end of that range; plain oil-and-vinegar ones at the long end.",
+  "freezer": "No freezer timeline is given for bottled salad dressing and it is a poor candidate. Every dressing is an emulsion of some kind, and emulsions split when they thaw, leaving oil above sediment or curds. Shaking does not properly put them back. Since the fridge already gives an opened bottle months, the sensible move is to buy the size you will use rather than to freeze the surplus.",
+  "thawing": null,
+  "spoilage": [
+   "Separation that no longer shakes back together",
+   "A rancid, crayon-like smell from the oil",
+   "Mould around the neck, the cap or on the surface",
+   "A sour or fermented smell, or a bottle that fizzes when opened"
+  ],
+  "tips": [
+   "Write the opening date on the label.",
+   "Store upright on an inside shelf, not in the fridge door.",
+   "Shake hard before every pour; separation is normal.",
+   "Buy small bottles of the dressings you use rarely."
+  ],
+  "faq": [
+   {
+    "q": "Does bottled salad dressing need to be refrigerated after opening?",
+    "a": "Not for safety — a shelf-stable commercial dressing is safe at room temperature after opening. Refrigeration keeps it fresher for longer, which is why the label suggests it."
+   },
+   {
+    "q": "How long does bottled dressing last in the fridge?",
+    "a": "About 1–3 months after opening at 4 °C or below."
+   },
+   {
+    "q": "How long does an unopened bottle keep?",
+    "a": "About 10–12 months from purchase in a cool dry cupboard."
+   },
+   {
+    "q": "Can you freeze salad dressing?",
+    "a": "No timeline is given and it is a poor candidate — the emulsion splits on thawing. Buy the size you will use instead."
+   }
+  ]
+ },
+ "zh": {
+  "name": "市售瓶裝沙拉醬",
+  "aliases": [
+   "瓶裝沙拉醬",
+   "市售淋醬",
+   "沙拉淋醬",
+   "salad dressing"
+  ],
+  "summary": "市售瓶裝沙拉醬是經過酸化、可常溫保存的產品。未開封放櫥櫃，從購買日起算大約 10～12 個月。開封後冷藏大約 1～3 個月——而標籤建議冷藏，講的是品質而不是安全。",
+  "pantry": "未開封的瓶子放在陰涼乾燥的櫥櫃，從購買日起算大約 10～12 個月。值得知道的是接下來這件事：常溫販售的市售沙拉醬，開封後放室溫仍然是安全的，標籤建議冷藏的理由是品質而不是安全。冷藏只是讓市售醬料維持新鮮更久。請避免日曬、遠離爐火，因為讓油走味的就是溫度和光。",
+  "fridge": "開封後請放 4 °C 以下，並在大約 1～3 個月內用完。直立放在冰箱內側層架而不是門邊，每次倒之前搖勻，倒完擦瓶口。沙拉碗裡的醬絕對不要倒回瓶子，也不要把新瓶倒進舊瓶續用。含乳製品或蛋的落在這個範圍較短的一端；單純油醋型的落在較長的一端。",
+  "freezer": "瓶裝沙拉醬沒有提供冷凍期限，而且本來就不適合。每一種沙拉醬都是某種形式的乳化液，而乳化液解凍時會分離，留下上層的油和下層的沉澱或凝結物，搖也搖不回來。既然冷藏已經給了開封後好幾個月，合理的做法是買用得完的容量，而不是把多的冷凍起來。",
+  "thawing": null,
+  "spoilage": [
+   "分層之後怎麼搖都混不回去",
+   "油發出油耗味或蠟筆味",
+   "瓶口、瓶蓋或液面長霉",
+   "聞起來發酸或有發酵味，或開瓶時冒氣"
+  ],
+  "tips": [
+   "在標籤上寫開封日期。",
+   "直立放在冰箱內側層架，不要放門邊。",
+   "每次倒之前用力搖；分層是正常的。",
+   "很少用的口味請買小瓶。"
+  ],
+  "faq": [
+   {
+    "q": "瓶裝沙拉醬開封後一定要冰嗎？",
+    "a": "以安全來說不用——常溫販售的市售沙拉醬開封後放室溫仍然安全。冷藏是為了維持新鮮更久，所以標籤才會建議。"
+   },
+   {
+    "q": "瓶裝沙拉醬放冰箱可以放多久？",
+    "a": "開封後在 4 °C 以下冷藏大約 1～3 個月。"
+   },
+   {
+    "q": "未開封的沙拉醬可以放多久？",
+    "a": "陰涼乾燥的櫥櫃，從購買日起算大約 10～12 個月。"
+   },
+   {
+    "q": "沙拉醬可以冷凍嗎？",
+    "a": "沒有提供期限，也不適合——解凍後乳化會分離。建議改買用得完的容量。"
+   }
+  ]
+ }
+}

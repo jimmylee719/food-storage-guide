@@ -1,0 +1,91 @@
+{
+ "slug": "salsa-homemade-canned",
+ "en": {
+  "name": "Salsa, homemade and canned",
+  "aliases": [
+   "home-canned salsa",
+   "preserved salsa",
+   "jarred homemade salsa",
+   "canned tomato salsa"
+  ],
+  "summary": "This is salsa made at home and preserved by canning in sealed jars, not a bowl of fresh pico de gallo. Properly processed and sealed, it keeps about 9–12 months in the cupboard. Once a jar is opened it becomes an ordinary refrigerated leftover.",
+  "pantry": "Sealed jars keep about 9–12 months in a cool, dark, dry cupboard. That figure assumes the salsa was made to a tested recipe and processed properly, and with salsa that matters more than with most things: tomatoes, onions, peppers and garlic are all low-acid or borderline, and it is the added vinegar or bottled lemon juice in a tested recipe that brings the whole jar to a safe acidity. Do not improvise the acid, do not add extra vegetables, and label every jar with the date. Store them without their screw bands so a failed seal shows itself, and check each lid is still concave before use.",
+  "fridge": "Once a jar is opened, keep it at 4 °C (40 °F) or below and treat it as a leftover rather than a preserve — spoon out what you need with a clean spoon and never serve from the storage jar at a table. A jar that failed to seal never belonged in the cupboard at all: refrigerate it straight away and use it quickly, or freeze it. The same goes for any batch you cooked but did not process.",
+  "freezer": "No freezer timeline is published for home-canned salsa, but freezing is a perfectly sensible alternative to canning for anyone without the equipment, and it sidesteps the acidity question entirely. Cool the salsa, pack it into rigid containers with headspace, and freeze at −18 °C (0 °F). Frozen food held at that temperature stays safe indefinitely; expect the tomatoes and peppers to come back softer, which matters less in a cooked salsa than in a fresh one.",
+  "thawing": "Thaw frozen salsa in the fridge overnight, or reheat it straight from frozen in a pan. Do not thaw it on the counter, and stir it after thawing since it will have separated.",
+  "spoilage": [
+   "A lid that has lost its seal, flexes, or pops when pressed",
+   "Spurting liquid, fizzing or pressure on opening",
+   "Mould on the surface, under the lid or around the rim",
+   "A fermented or yeasty smell, or an unusually darkened colour"
+  ],
+  "tips": [
+   "Use a tested recipe and never alter the vinegar or bottled lemon juice it calls for.",
+   "Date every jar and work through them oldest first.",
+   "Store jars without screw bands so a failed seal is obvious.",
+   "When in doubt, freeze rather than can — it is the forgiving option."
+  ],
+  "faq": [
+   {
+    "q": "How long does home-canned salsa last?",
+    "a": "About 9–12 months in a cool dark cupboard, provided it was made to a tested recipe and the jars are properly sealed."
+   },
+   {
+    "q": "Can you add extra peppers or onions to a canning recipe?",
+    "a": "No. Those are low-acid ingredients, and changing the proportions changes the acidity the recipe was designed around."
+   },
+   {
+    "q": "Can you freeze homemade salsa instead?",
+    "a": "Yes, and it is the safer route without canning equipment. Cool it, pack with headspace and freeze at −18 °C."
+   },
+   {
+    "q": "What if a jar did not seal?",
+    "a": "It is not shelf-stable. Refrigerate it straight away and use it quickly, or freeze it."
+   }
+  ]
+ },
+ "zh": {
+  "name": "自製封罐莎莎醬",
+  "aliases": [
+   "家庭裝罐莎莎醬",
+   "自製番茄莎莎醬",
+   "封罐 salsa",
+   "手作莎莎醬"
+  ],
+  "summary": "這裡指的是在家做好、以裝罐密封方式保存的莎莎醬，不是一碗現拌的生莎莎。處理與密封得當的話，放在櫥櫃裡大約 9～12 個月。一旦開罐，它就變成一般的冷藏剩食。",
+  "pantry": "密封完好的罐子放在陰涼、避光、乾燥的櫥櫃，大約 9～12 個月。這個數字的前提是照著經過驗證的配方製作並正確殺菌處理，而莎莎醬尤其不能馬虎：番茄、洋蔥、辣椒和大蒜全都是低酸或接近臨界，是配方裡加的醋或瓶裝檸檬汁把整罐拉到安全酸度。不要自己調整酸量，也不要多加蔬菜，每罐都要標日期。存放時拆掉外圈螺蓋，密封失敗才會顯現，使用前也要確認蓋子仍然凹陷。",
+  "fridge": "開罐後請放 4 °C 以下，並把它當成剩菜而不是保存品——用乾淨的湯匙挖出要用的份量，絕對不要直接拿保存罐上桌。密封失敗的罐子本來就不該進櫥櫃：請立刻冷藏並盡快用完，或改成冷凍。煮好但沒有做殺菌處理的那一批也一樣。",
+  "freezer": "自製封罐莎莎醬沒有公布冷凍期限，但對沒有裝罐設備的人來說，冷凍是非常合理的替代方案，而且完全繞開酸度的問題。醬放涼後裝進硬質容器、留出膨脹空間，放 −18 °C。食物在這個溫度下安全性可以無限期維持；只要有心理準備，番茄和辣椒解凍後會比較軟——這對熟製的莎莎醬影響遠小於對生莎莎。",
+  "thawing": "冷凍莎莎醬請放冷藏隔夜解凍，或直接從冷凍下鍋加熱。不要放室溫解凍；解凍後會分離，攪拌一下即可。",
+  "spoilage": [
+   "蓋子失去真空、按下去會彈動或彈起",
+   "開罐時液體噴出、冒氣或有壓力",
+   "醬面、蓋子內側或瓶口周圍長霉",
+   "有發酵味或酵母味，或顏色異常變深"
+  ],
+  "tips": [
+   "使用經驗證的配方，絕不更動它要求的醋或瓶裝檸檬汁用量。",
+   "每罐標日期，先做先用。",
+   "存放時拆掉外圈螺蓋，密封失敗才看得出來。",
+   "拿不準就改冷凍，那是容錯率最高的做法。"
+  ],
+  "faq": [
+   {
+    "q": "自製封罐莎莎醬可以放多久？",
+    "a": "只要依經驗證配方製作且密封完好，陰涼避光的櫥櫃大約 9～12 個月。"
+   },
+   {
+    "q": "可以在裝罐配方裡多加辣椒或洋蔥嗎？",
+    "a": "不行。那些都是低酸性食材，改變比例就改變了配方所設計的酸度。"
+   },
+   {
+    "q": "可以改用冷凍嗎？",
+    "a": "可以，而且沒有裝罐設備時更安全。放涼、留膨脹空間分裝，放 −18 °C。"
+   },
+   {
+    "q": "罐子沒有密封成功怎麼辦？",
+    "a": "那就不是常溫保存品。請立刻冷藏並盡快用完，或改成冷凍。"
+   }
+  ]
+ }
+}

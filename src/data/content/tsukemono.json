@@ -1,0 +1,93 @@
+{
+ "slug": "tsukemono",
+ "en": {
+  "name": "Tsukemono",
+  "aliases": [
+   "Japanese pickles",
+   "asazuke",
+   "nukazuke",
+   "shibazuke",
+   "tsukemono vegetables"
+  ],
+  "summary": "Tsukemono covers everything from a barely salted overnight cucumber to a rice-bran pickle that has been fermenting for months, and the two keep for wildly different lengths of time. A genuinely fermented, properly salted pickle kept cold runs about 4–6 months; an opened commercial pack is more like 1–3 months. Lightly salted asazuke is a different food altogether and should be treated as a salad.",
+  "pantry": "A crock or nuka bed kept at room temperature is an active ferment, not storage, and it demands daily attention — turning the bed, removing surface scum and mould. Once vegetables are pickled and you intend to keep them, they belong in the fridge. Anything shop-bought and opened should never be left on the counter, and a lightly salted asazuke has no meaningful preservation at all.",
+  "fridge": "Keep tsukemono at 4 °C (40 °F) or below, vegetables submerged in their own liquid, container sealed. A fully fermented pickle in its original container runs about 4–6 months provided you skim surface scum and mould whenever they appear; an opened commercial jar or pack is about 1–3 months. The distinction that matters most is which pickle you are holding: asazuke is lightly salted, unfermented and has almost no acid, made in hours rather than weeks, and it is a salad with a few days of life.",
+  "freezer": "There is no freezer timeline for tsukemono and freezing is not worth doing. Salt and fermentation already do the preserving, and freezing wrecks the one thing the pickle is for — the crunch. Cucumber, daikon and aubergine all collapse into wet strings once thawed. If you have too much, give it away or cook it into fried rice or a filling instead.",
+  "thawing": null,
+  "spoilage": [
+   "Fuzzy or coloured mould, especially pink or black, that is more than a skimmable surface film",
+   "Vegetables that have gone soft, slimy or hollow rather than crisp",
+   "An off, yeasty or rotten smell instead of a clean sour-salty one",
+   "A pushed-up lid or fizzing in a pack that is not meant to be actively fermenting"
+  ],
+  "tips": [
+   "Ask yourself first whether it is fermented or merely salted; that single answer sets the timeline.",
+   "Keep the vegetables under the liquid — anything above the surface is where mould starts.",
+   "Use clean, dry chopsticks each time; wet or used utensils shorten any pickle's life.",
+   "Rinse the salt off only the portion you are about to eat, not the whole container."
+  ],
+  "faq": [
+   {
+    "q": "How long does tsukemono last in the fridge?",
+    "a": "A fully fermented, well-salted pickle runs about 4–6 months cold, skimming surface mould as it appears. An opened commercial pack is about 1–3 months."
+   },
+   {
+    "q": "How long does asazuke last?",
+    "a": "Only a few days. It is lightly salted, unfermented and has no real acidity, so treat it like a dressed salad rather than a preserve."
+   },
+   {
+    "q": "Can you freeze tsukemono?",
+    "a": "There is no freezer timeline and it is not worth doing. Thawed pickles lose the crunch that is the entire point of them."
+   },
+   {
+    "q": "Is white film on the surface of a pickle crock dangerous?",
+    "a": "A thin white film is common on ferments and is normally skimmed off. Fuzzy, coloured or black mould, or a rotten smell, means the batch goes out."
+   }
+  ]
+ },
+ "zh": {
+  "name": "日式醃菜",
+  "aliases": [
+   "漬物",
+   "つけもの",
+   "淺漬",
+   "米糠漬",
+   "柴漬"
+  ],
+  "summary": "日式醃菜涵蓋的範圍很廣，從只用一點鹽醃一晚的小黃瓜，到在米糠床裡發酵好幾個月的糠漬都算，兩者的保存期天差地遠。真正發酵、鹽下得足、又全程冷藏的醃菜大約 4～6 個月；市售包裝開封後大約 1～3 個月。淺漬則是完全不同的東西，要當成沙拉看待。",
+  "pantry": "放在室溫的醃缸或米糠床是「正在發酵」，不是「保存」，而且需要每天照顧——翻床、撈掉表面的浮沫和霉。蔬菜醃好、打算存放之後，就該進冰箱。市售品開封後絕對不要放在檯面上，而淺漬根本沒有實質的防腐效果。",
+  "fridge": "請放在 4 °C 以下，蔬菜要完全泡在原本的醃汁裡，容器密封。真正完成發酵的醃菜在原容器中大約 4～6 個月，前提是表面一出現浮沫或霉就要撈掉；市售罐裝或袋裝開封後大約 1～3 個月。最需要分清楚的是你手上拿的是哪一種：淺漬鹽分低、沒有真正發酵、幾乎沒有酸度，幾小時就做好而不是幾週，本質上就是一道能放幾天的沙拉。",
+  "freezer": "日式醃菜沒有對應的冷凍期限，也沒有冷凍的必要。鹽和發酵已經在做保存的工作，而冷凍會毀掉醃菜唯一的重點——脆度。小黃瓜、白蘿蔔和茄子解凍後都會變成一團濕爛的纖維。真的醃太多，不如分送他人，或切碎炒飯、做包餡。",
+  "thawing": null,
+  "spoilage": [
+   "長出毛狀或有顏色的霉，特別是粉紅色或黑色，而且不只是可以撈掉的一層薄膜",
+   "蔬菜不再爽脆，變得軟爛、黏滑或中空",
+   "聞起來有異味、酵母味或腐敗味，而不是乾淨的鹹酸味",
+   "本來不該持續發酵的包裝出現脹袋、脹蓋或氣泡"
+  ],
+  "tips": [
+   "先問自己這是「發酵」還是「只有鹽漬」，這個答案就決定了保存期。",
+   "讓蔬菜維持在醃汁液面以下——露出液面的地方就是發霉的起點。",
+   "每次都用乾淨乾燥的筷子；沾水或用過的餐具會縮短任何醃菜的壽命。",
+   "只沖洗當下要吃的份量，不要把整罐都洗過。"
+  ],
+  "faq": [
+   {
+    "q": "日式醃菜放冰箱可以放多久？",
+    "a": "真正發酵、鹽分足夠的醃菜冷藏大約 4～6 個月，表面有霉要隨時撈掉。市售包裝開封後大約 1～3 個月。"
+   },
+   {
+    "q": "淺漬可以放多久？",
+    "a": "只有幾天。它鹽分低、沒有發酵、也沒有真正的酸度，請當成拌好的沙拉，而不是醃漬保存品。"
+   },
+   {
+    "q": "日式醃菜可以冷凍嗎？",
+    "a": "沒有對應的冷凍期限，也不值得冷凍。解凍後會失去脆度，而脆度正是醃菜的全部意義。"
+   },
+   {
+    "q": "醃缸表面的白膜有危險嗎？",
+    "a": "薄薄一層白膜在發酵品上很常見，撈掉即可。但如果是毛狀、有顏色或黑色的霉，或聞起來已經腐敗，就整批丟掉。"
+   }
+  ]
+ }
+}

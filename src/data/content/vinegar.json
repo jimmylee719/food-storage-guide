@@ -1,0 +1,91 @@
+{
+ "slug": "vinegar",
+ "en": {
+  "name": "Vinegar",
+  "aliases": [
+   "white vinegar",
+   "distilled vinegar",
+   "wine vinegar",
+   "malt vinegar"
+  ],
+  "summary": "Vinegar preserves itself at its own acidity, which makes it one of the least demanding things in a kitchen. The published figure is about 2 years from purchase in a cupboard, and that is a quality window rather than a safety limit. It does not need refrigeration and should never be kept in bare metal.",
+  "pantry": "Keep it capped in a cool, dark cupboard, about 2 years from purchase. Acidity is what protects it, so a bottle does not spoil in the way a food does; what the years cost is aroma and colour, and light and air take those faster than time does. A haze, sediment, or a gelatinous 'mother' forming in an unfiltered bottle is normal and harmless — strain it out or ignore it. Store vinegar in glass or food-grade plastic, never in a bare metal container, because the acid attacks the metal and the vinegar picks up the taste.",
+  "fridge": "Vinegar does not need refrigeration and gains very little from it. A cold bottle will look cloudier, since chilling drops sediment out of solution, which people sometimes misread as spoilage. If your kitchen is very warm and a bottle will sit for a long time, the fridge slows the flavour fading — but a tight cap and a dark cupboard do most of that already.",
+  "freezer": "There is no freezer timeline for vinegar and no reason to freeze it. It is a shelf-stable acid that preserves itself indefinitely in practical terms, so the freezer space is better used on something perishable. Freezing would also unsettle the sediment and cloud the bottle without improving anything.",
+  "thawing": null,
+  "spoilage": [
+   "A genuinely off, solvent-like or rotten smell — rare, and different from vinegar's normal sharpness",
+   "Fuzzy coloured mould on the surface, as opposed to a smooth gelatinous mother",
+   "Solid matter floating beyond the expected haze and sediment",
+   "A metallic taste after storage in a bare metal container"
+  ],
+  "tips": [
+   "Cap it tightly and keep it out of sunlight; light and air cost more flavour than shelf time.",
+   "Store in glass or food-grade plastic, never bare metal.",
+   "Check the acidity on the label before using vinegar to preserve anything — pickling recipes assume 5 percent.",
+   "Keep a cheap distilled vinegar for cleaning and a good one for food."
+  ],
+  "faq": [
+   {
+    "q": "Does vinegar go bad?",
+    "a": "Not in any practical sense. Its own acidity preserves it. The published figure of about 2 years is about flavour, not safety."
+   },
+   {
+    "q": "Does vinegar need to be refrigerated?",
+    "a": "No. A cool dark cupboard is ideal. Chilling only makes it look cloudier as sediment drops out."
+   },
+   {
+    "q": "What is the cloudy blob in my vinegar?",
+    "a": "A vinegar mother — a harmless cellulose mat formed by the vinegar bacteria. Strain it out or leave it."
+   },
+   {
+    "q": "Can you freeze vinegar?",
+    "a": "There is no timeline and no reason to. It is shelf-stable on its own."
+   }
+  ]
+ },
+ "zh": {
+  "name": "醋",
+  "aliases": [
+   "白醋",
+   "蒸餾醋",
+   "酒醋",
+   "麥芽醋"
+  ],
+  "summary": "醋靠自己的酸度保存自己，是廚房裡最不挑的東西之一。公布的數字是從購買日起算約 2 年，而那是風味期限而不是安全期限。它不需要冷藏，也絕對不能裝在裸露的金屬容器裡。",
+  "pantry": "蓋緊放在陰涼避光的櫥櫃，從購買日起算大約 2 年。保護它的是酸度，所以一瓶醋不會像食物那樣腐壞；時間奪走的是香氣和色澤，而光和空氣奪走它們的速度比時間更快。未過濾的瓶子出現霧狀混濁、沉澱，或一團膠狀的「醋母」，都是正常且無害的——濾掉或不理它都可以。請用玻璃或食品級塑膠容器，絕對不要用裸露的金屬，因為酸會侵蝕金屬，醋也會沾上金屬味。",
+  "fridge": "醋不需要冷藏，冰了也得不到多少好處。冰過的瓶子看起來會更混濁，因為低溫會讓沉澱析出，有些人會誤以為是壞掉。如果你的廚房很熱、某一瓶又會擱很久，冷藏可以減緩風味流失——但蓋緊和避光其實已經完成了大部分的工作。",
+  "freezer": "醋沒有冷凍期限，也沒有冷凍的理由。它是能在架上實際無限期自我保存的酸性液體，冷凍庫的空間留給易腐食材比較好。冷凍還會把沉澱攪起來、讓瓶子變濁，卻不會改善任何事。",
+  "thawing": null,
+  "spoilage": [
+   "真的出現異味，像溶劑味或腐敗味——很少見，而且和醋本身的嗆酸不一樣",
+   "表面長出毛狀、有顏色的霉，而不是平滑膠狀的醋母",
+   "除了預期的霧狀和沉澱之外，還有其他固體漂浮物",
+   "曾放在裸露金屬容器中，現在帶金屬味"
+  ],
+  "tips": [
+   "蓋緊、避免日曬；光和空氣造成的風味損失大於架上的時間。",
+   "用玻璃或食品級塑膠容器，絕對不要用裸露金屬。",
+   "要用醋來醃漬保存前先看標示酸度——醃漬配方預設 5%。",
+   "清潔用便宜的蒸餾白醋，食用用好一點的醋，分開使用。"
+  ],
+  "faq": [
+   {
+    "q": "醋會壞掉嗎？",
+    "a": "實務上不會。它靠自己的酸度保存。公布的約 2 年講的是風味，不是安全。"
+   },
+   {
+    "q": "醋要冰嗎？",
+    "a": "不用。陰涼避光的櫥櫃最理想。冷藏只會讓沉澱析出、看起來更混濁。"
+   },
+   {
+    "q": "醋裡那團混濁的東西是什麼？",
+    "a": "那是醋母，醋酸菌形成的纖維素膜，無害。濾掉或留著都可以。"
+   },
+   {
+    "q": "醋可以冷凍嗎？",
+    "a": "沒有對應期限，也沒有理由。它本來就能常溫保存。"
+   }
+  ]
+ }
+}

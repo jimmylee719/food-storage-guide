@@ -1,0 +1,91 @@
+{
+ "slug": "mirin",
+ "en": {
+  "name": "Mirin",
+  "aliases": [
+   "hon-mirin",
+   "sweet rice wine",
+   "mirin-style seasoning",
+   "aji-mirin"
+  ],
+  "summary": "Which bottle you have decides everything, and the label says so. Hon-mirin is legally an alcoholic drink in Japan and its alcohol and sugar make it self-preserving, so it lives capped in a cool dark cupboard. Mirin-style seasoning has under one percent alcohol and no real barrier: refrigerate that one once it is opened. No agency publishes a home shelf life for either, so no number is given here.",
+  "pantry": "Hon-mirin is classed as a liquor under Japan's liquor tax law, and that classification is also the storage advice: alcohol plus a very high sugar content keeps it. Keep it capped in a cool dark cupboard, away from the hob — and do not refrigerate it, because the sugar crystallises out in the cold. Mirin-style seasoning is a different product, deliberately kept below the alcohol threshold at which the tax law would call it a drink, and it has no alcohol barrier to speak of; the cupboard is fine for it only while the bottle is sealed.",
+  "fridge": "The fridge is for mirin-style seasoning and for salted cooking mirin, once opened. Cap tightly, keep it cold, and go by the maker's after-opening instruction — the printed best-before date stops applying the moment the bottle is opened. There is no published figure to offer in its place, which is why none is given. Hon-mirin should stay out of the fridge: chilling it gains nothing and drops sugar crystals into the bottle.",
+  "freezer": "There is no freezer timeline for mirin and no reason to freeze either type. Hon-mirin will not freeze solid because of its alcohol and sugar, and a mirin-style seasoning gains nothing that the fridge does not already give it. Keep the freezer for foods that genuinely need it.",
+  "thawing": null,
+  "spoilage": [
+   "A flat, sherry-like or vinegary smell where there was a sweet rice one",
+   "A colour that has darkened markedly since opening",
+   "Cloudiness, a surface film or floating matter",
+   "Mould around the neck or cap, usually in dried sticky residue"
+  ],
+  "tips": [
+   "Read the label first: hon-mirin and mirin-style seasoning are different products with different storage.",
+   "Do not refrigerate hon-mirin; the sugar crystallises.",
+   "Refrigerate mirin-style seasoning once opened and follow the maker's instruction.",
+   "Wipe the neck after pouring — mirin is sugary and the cap sticks."
+  ],
+  "faq": [
+   {
+    "q": "Does mirin need to be refrigerated?",
+    "a": "Hon-mirin does not — keep it capped in a cool dark cupboard, since refrigeration crystallises the sugar. Mirin-style seasoning should be refrigerated once opened."
+   },
+   {
+    "q": "How long does mirin last after opening?",
+    "a": "No agency publishes a home shelf life for either type. Follow the maker's after-opening instruction, and judge it by smell and colour."
+   },
+   {
+    "q": "What is the difference between hon-mirin and mirin-style seasoning?",
+    "a": "Hon-mirin is legally an alcoholic drink in Japan. Mirin-style seasoning is kept under one percent alcohol so it is not taxed as a drink, and it has no alcohol barrier."
+   },
+   {
+    "q": "Can you freeze mirin?",
+    "a": "There is no timeline and no reason to. Hon-mirin will not freeze solid anyway, and the fridge already covers the mirin-style bottle."
+   }
+  ]
+ },
+ "zh": {
+  "name": "味醂",
+  "aliases": [
+   "本味醂",
+   "みりん",
+   "味淋",
+   "味醂風調味料"
+  ],
+  "summary": "你手上是哪一瓶，決定了一切，而標籤上就寫著。本味醂在日本法律上屬於酒類，酒精加上高糖讓它能自我保存，所以蓋緊放陰涼避光的櫥櫃即可。味醂風調味料的酒精不到 1%，幾乎沒有屏障：那一瓶開封後要冷藏。兩者都沒有機構公布家庭保存期限，所以這裡不給數字。",
+  "pantry": "本味醂在日本酒稅法上被歸類為酒類，而這個分類本身就是保存建議：酒精加上極高的糖分在保存它。請蓋緊放在陰涼避光的櫥櫃、遠離爐火——而且不要冷藏，因為低溫會讓糖結晶析出。味醂風調味料是另一種產品，刻意把酒精壓在稅法認定為「酒」的門檻以下，實際上沒有酒精屏障可言；只有在瓶子還沒開封時，櫥櫃對它才是合適的。",
+  "fridge": "冰箱是給開封後的味醂風調味料和加鹽的発酵調味料用的。請蓋緊、保持低溫，並依廠商的開封後指示使用——預先包裝的產品一旦開封，標示的有效日期就不再適用。這裡沒有已發表的數字可以替代，所以不給。本味醂則應該留在櫥櫃：冷藏毫無益處，還會讓糖結晶沉到瓶底。",
+  "freezer": "味醂沒有冷凍期限，兩種也都沒有冷凍的理由。本味醂因為酒精和糖根本凍不硬；味醂風調味料放冷凍也得不到冷藏給不了的好處。冷凍庫留給真正需要的食材。",
+  "thawing": null,
+  "spoilage": [
+   "原本的甜米香變成扁平的雪莉味或醋味",
+   "顏色比開封時明顯變深",
+   "出現混濁、表面浮膜或漂浮物",
+   "瓶口或瓶蓋的黏漬處長霉"
+  ],
+  "tips": [
+   "先看標籤：本味醂和味醂風調味料是不同產品，保存方式也不同。",
+   "本味醂不要冷藏，糖會結晶。",
+   "味醂風調味料開封後冷藏，並依廠商指示使用。",
+   "倒完擦瓶口——味醂含糖，瓶蓋容易黏死。"
+  ],
+  "faq": [
+   {
+    "q": "味醂要冰嗎？",
+    "a": "本味醂不用——蓋緊放陰涼避光的櫥櫃即可，冷藏反而會讓糖結晶。味醂風調味料開封後要冷藏。"
+   },
+   {
+    "q": "味醂開封後可以放多久？",
+    "a": "兩種都沒有機構公布家庭保存期限。請依廠商的開封後指示，並用氣味和顏色判斷。"
+   },
+   {
+    "q": "本味醂和味醂風調味料差在哪？",
+    "a": "本味醂在日本法律上是酒類。味醂風調味料的酒精刻意壓在 1% 以下，以免被課酒稅，也因此沒有酒精屏障。"
+   },
+   {
+    "q": "味醂可以冷凍嗎？",
+    "a": "沒有對應期限，也沒有理由。本味醂根本凍不硬，味醂風的部分冷藏就足夠了。"
+   }
+  ]
+ }
+}

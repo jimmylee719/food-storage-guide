@@ -1,0 +1,91 @@
+{
+ "slug": "hot-sauce",
+ "en": {
+  "name": "Hot sauce",
+  "aliases": [
+   "pepper sauce",
+   "chilli sauce (thin, vinegar-based)",
+   "Louisiana-style hot sauce",
+   "table hot sauce"
+  ],
+  "summary": "Hot sauce here means the thin, vinegar-based bottle that lives on the table — chillies, vinegar and salt. The published figure is about 6 months, and it will stay fresher longer if refrigerated. The bottle rarely becomes unsafe; it fades, darkens and loses its edge.",
+  "pantry": "A cool, dark cupboard, capped tight, away from the hob: about 6 months is the figure given, and it applies from the time you start using the bottle. Vinegar and salt do the preserving, so a cupboard bottle is not a safety problem. What the cupboard costs you is colour and brightness — bright red sauces go brown, and the fresh chilli aroma flattens into something duller and more purely sour. Sunlight accelerates all of that, so the back of a cupboard beats a windowsill or the shelf above the cooker.",
+  "fridge": "Hot sauce will stay fresher longer if refrigerated, which is the whole reason to do it — it holds the colour and the aroma rather than adding safety the sauce does not already have. Keep it at 4 °C (40 °F) or below, capped tight. Wipe the nozzle or the neck after use: dried sauce in the cap is where mould starts on an otherwise stable bottle, and it is also what makes the first shake come out as a splutter.",
+  "freezer": "There is no freezer timeline for hot sauce and no reason to freeze it. It is an acidic, salted liquid that keeps for months on its own, and freezing separates it and dulls the flavour further. If you have more bottles than you can use, the answer is to buy smaller ones or cook with it more freely, not to fill the freezer.",
+  "thawing": null,
+  "spoilage": [
+   "Mould around the neck, the cap or the nozzle",
+   "A fermented, yeasty or alcoholic smell, or a bottle that fizzes on opening",
+   "Colour gone dark brown and flavour flat and purely sour",
+   "Separation into a watery layer and a sludgy one that will not shake back together"
+  ],
+  "tips": [
+   "Wipe the neck and nozzle after every use.",
+   "Keep bottles out of sunlight; light is what browns a red sauce.",
+   "Refrigerate if you want to keep the colour and aroma bright.",
+   "Buy small bottles — most households cannot finish a large one while it is at its best."
+  ],
+  "faq": [
+   {
+    "q": "Does hot sauce need to be refrigerated?",
+    "a": "Not for safety — vinegar and salt preserve it. But it will stay fresher longer if refrigerated, which is worth doing if you care about colour and aroma."
+   },
+   {
+    "q": "How long does hot sauce last?",
+    "a": "About 6 months is the published figure. Refrigeration keeps it fresher for longer than that."
+   },
+   {
+    "q": "Why has my hot sauce turned brown?",
+    "a": "Light and air. Red chilli pigments oxidise over time, faster on a sunny shelf. It is a quality change, not spoilage."
+   },
+   {
+    "q": "Can you freeze hot sauce?",
+    "a": "There is no timeline and no reason to. It already keeps for months and freezing separates it."
+   }
+  ]
+ },
+ "zh": {
+  "name": "辣椒醬（醋基）",
+  "aliases": [
+   "hot sauce",
+   "美式辣醬",
+   "墨西哥辣醬",
+   "餐桌辣醬"
+  ],
+  "summary": "這裡的「辣椒醬」指的是餐桌上那種稀的醋基辣醬——辣椒、醋和鹽。公布的數字大約是 6 個月，而且冷藏可以讓它維持新鮮更久。這種瓶子很少變得不安全；它是褪色、變暗、失去鋒芒。",
+  "pantry": "陰涼避光的櫥櫃、蓋緊、遠離爐火：公布的數字大約是 6 個月，從你開始使用這瓶起算。做保存工作的是醋和鹽，所以放櫥櫃不是安全問題。放櫥櫃損失的是顏色和明亮度——鮮紅的醬會轉褐，新鮮辣椒的香氣會變得沉悶、只剩單純的酸。陽光會加速這一切，所以櫥櫃深處比窗台或爐台上方的層架好得多。",
+  "fridge": "辣椒醬冷藏可以維持新鮮更久，而這正是冷藏的唯一理由——它保住顏色和香氣，而不是補上它本來就不缺的安全性。請放 4 °C 以下、蓋緊。用完擦一下瓶嘴或瓶口：卡在蓋子裡乾掉的醬，正是一瓶原本很穩定的醬開始長霉的起點，也是下次第一下擠出來會噴的原因。",
+  "freezer": "辣椒醬沒有冷凍期限，也沒有冷凍的理由。它是酸性又含鹽的液體，本來就能放好幾個月，冷凍反而會讓它分離、風味更鈍。買太多瓶的話，答案是改買小瓶或在料理中放手用，而不是塞冷凍庫。",
+  "thawing": null,
+  "spoilage": [
+   "瓶口、瓶蓋或噴嘴周圍長霉",
+   "聞起來有發酵味、酵母味或酒味，或開瓶時冒氣",
+   "顏色轉成深褐，味道扁平、只剩酸",
+   "分離成水層和泥狀層，搖也搖不勻"
+  ],
+  "tips": [
+   "每次用完都擦瓶口和噴嘴。",
+   "避免日曬；讓紅醬變褐的就是光。",
+   "想保住顏色和香氣就冷藏。",
+   "買小瓶——多數家庭無法在最佳狀態內用完一大瓶。"
+  ],
+  "faq": [
+   {
+    "q": "辣椒醬要冰嗎？",
+    "a": "以安全而言不用，醋和鹽已經在保存它。但冷藏可以維持新鮮更久，在意顏色和香氣的話值得一冰。"
+   },
+   {
+    "q": "辣椒醬可以放多久？",
+    "a": "公布的數字大約是 6 個月。冷藏可以讓它比這更久保持新鮮。"
+   },
+   {
+    "q": "辣椒醬為什麼變褐色了？",
+    "a": "光和空氣。紅辣椒色素會隨時間氧化，放在有陽光的層架上更快。那是品質變化，不是腐壞。"
+   },
+   {
+    "q": "辣椒醬可以冷凍嗎？",
+    "a": "沒有對應期限，也沒有必要。它本來就能放好幾個月，冷凍反而會分離。"
+   }
+  ]
+ }
+}

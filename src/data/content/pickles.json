@@ -1,0 +1,91 @@
+{
+ "slug": "pickles",
+ "en": {
+  "name": "Pickles",
+  "aliases": [
+   "dill pickles",
+   "pickled cucumbers",
+   "sweet pickles",
+   "jarred pickles"
+  ],
+  "summary": "Jarred pickles are cucumbers preserved in vinegar brine and pasteurised, which makes them one of the more forgiving things on a shelf. Unopened they keep about 1 year from purchase in the cupboard. Once opened, refrigerate and use within about 1–3 months.",
+  "pantry": "An unopened jar keeps about 1 year from purchase in a cool, dark, dry cupboard. Vinegar and salt do the preserving, so the cupboard is genuinely fine while the seal holds; what the shelf costs is texture and colour, and light in particular bleaches pickles and softens them. Do not keep a jar whose lid has lost its vacuum, that is leaking, or that fizzes when opened. Refrigerator pickles and live salt-brined pickles are different products and never belonged in the cupboard.",
+  "fridge": "Once opened, keep the jar at 4 °C (40 °F) or below and use within about 1–3 months. Keep the pickles under the brine — anything standing above the liquid dries out and grows the first film — and use a clean fork rather than fingers. Top up with brine or vinegar if the level falls, never with water, which weakens the acid that is doing the work. Expect them to soften gradually; a hollow, slippery pickle is past its best even if nothing is wrong with the jar.",
+  "freezer": "There is no freezer timeline for pickles and freezing ruins them. A cucumber is mostly water, and what thaws is limp, hollow and weeping. They are already a preserve with months of fridge life, so there is nothing to gain. Buy the jar size you will finish, and keep the leftover brine for dressings, potato salad or a quick refrigerator pickle of something else.",
+  "thawing": null,
+  "spoilage": [
+   "Pickles gone soft, hollow or slippery rather than crisp",
+   "A white film or fuzzy mould on the surface of the brine",
+   "Brine turned cloudy, ropy or foul-smelling",
+   "A domed lid, or fizzing and spurting when the jar is opened"
+  ],
+  "tips": [
+   "Use a clean fork and push the remaining pickles back under the brine.",
+   "Top up with brine or vinegar, never water.",
+   "Keep jars out of the light; bleached pickles go soft.",
+   "Save the brine — it makes a good dressing base and a quick pickle for onions."
+  ],
+  "faq": [
+   {
+    "q": "How long do pickles last once opened?",
+    "a": "About 1–3 months refrigerated at 4 °C or below, kept under their brine."
+   },
+   {
+    "q": "How long does an unopened jar of pickles keep?",
+    "a": "About 1 year from purchase in a cool dark cupboard, provided the seal is intact."
+   },
+   {
+    "q": "Can you freeze pickles?",
+    "a": "There is no timeline and it wrecks them — they thaw limp and hollow. The fridge already gives them months."
+   },
+   {
+    "q": "Why have my pickles gone soft?",
+    "a": "Light, warmth and time all soften them, and so does diluted brine. Keep the jar cold and dark and never top it up with water."
+   }
+  ]
+ },
+ "zh": {
+  "name": "醃黃瓜",
+  "aliases": [
+   "酸黃瓜",
+   "蒔蘿醃黃瓜",
+   "甜醃黃瓜",
+   "pickles"
+  ],
+  "summary": "罐裝醃黃瓜是用醋鹽水醃漬並經過殺菌的小黃瓜，是架上最好照顧的東西之一。未開封放櫥櫃，從購買日起算大約 1 年。開封後請冷藏，並在大約 1～3 個月內用完。",
+  "pantry": "未開封的罐子放在陰涼、避光、乾燥的櫥櫃，從購買日起算大約 1 年。做保存工作的是醋和鹽，所以只要封口完好，放櫥櫃真的沒問題；放架上損失的是口感和顏色，其中光線特別會讓醃黃瓜褪色、變軟。蓋子沒有真空感、會滲漏，或開罐時冒氣的罐子就不要留。冷藏型快速醃菜和活菌鹽漬酸黃瓜是不同產品，本來就不該放櫥櫃。",
+  "fridge": "開封後請放 4 °C 以下，並在大約 1～3 個月內用完。讓醃黃瓜保持在醃汁以下——露出液面的會先乾掉、也最先長膜——並用乾淨的叉子而不是手取用。液面下降時補鹽水或醋，絕對不要補清水，那會削弱正在做事的酸度。它會逐漸變軟；中空、滑手的醃黃瓜即使罐子沒問題，也已經過了最佳狀態。",
+  "freezer": "醃黃瓜沒有冷凍期限，冷凍也會毀了它。小黃瓜幾乎都是水，解凍後只剩軟塌、中空、出水的殘骸。它本來就是能在冰箱放好幾個月的醃漬品，冷凍毫無好處。請買你吃得完的罐子大小，剩下的醃汁留著調沙拉醬、拌馬鈴薯沙拉，或拿來快醃別的蔬菜。",
+  "thawing": null,
+  "spoilage": [
+   "醃黃瓜變軟、中空或滑手，不再爽脆",
+   "醃汁表面出現白膜或毛狀的霉",
+   "醃汁變濁、牽絲或有異味",
+   "蓋子鼓起，或開罐時冒氣噴出"
+  ],
+  "tips": [
+   "用乾淨的叉子，取完把剩下的壓回醃汁裡。",
+   "補液位請用鹽水或醋，絕不用清水。",
+   "罐子避光存放；褪色的醃黃瓜會變軟。",
+   "醃汁別倒掉——拿來調醬或快醃洋蔥都很好。"
+  ],
+  "faq": [
+   {
+    "q": "醃黃瓜開封後可以放多久？",
+    "a": "放 4 °C 以下冷藏大約 1～3 個月，並讓它們保持泡在醃汁裡。"
+   },
+   {
+    "q": "未開封的醃黃瓜可以放多久？",
+    "a": "只要封口完好，陰涼避光的櫥櫃從購買日起算大約 1 年。"
+   },
+   {
+    "q": "醃黃瓜可以冷凍嗎？",
+    "a": "沒有對應期限，而且會毀了它——解凍後軟塌中空。冷藏本來就能放好幾個月。"
+   },
+   {
+    "q": "醃黃瓜為什麼變軟了？",
+    "a": "光、溫度和時間都會讓它變軟，被稀釋的醃汁也會。請冷藏避光，也不要加清水。"
+   }
+  ]
+ }
+}

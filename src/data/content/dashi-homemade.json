@@ -1,0 +1,92 @@
+{
+ "slug": "dashi-homemade",
+ "en": {
+  "name": "Dashi, homemade",
+  "aliases": [
+   "Japanese stock",
+   "kombu dashi",
+   "katsuo dashi",
+   "ichiban dashi",
+   "bonito stock"
+  ],
+  "summary": "Dashi is the Japanese stock drawn from kombu and katsuobushi in a few minutes rather than hours, and it is plain, unsalted and low in acid. Refrigerated it keeps 3–4 days. Frozen it holds about 2–3 months, which is how most home cooks manage a batch.",
+  "pantry": "Dashi must never be left at room temperature. It has no salt, sugar or acid barrier at all, which makes it the most perishable thing on a Japanese condiment shelf. Cool it quickly and refrigerate or freeze it within two hours of straining, or one hour if the kitchen is above 32 °C (90 °F). Do not leave the pot on the stove to cool overnight; a deep pot holds the 4–60 °C (40–140 °F) danger zone for hours.",
+  "fridge": "Cool it quickly, cover it and keep it at 4 °C (40 °F) or below for 3–4 days. It behaves like any other homemade broth, and these numbers come from the homemade broth line rather than from a figure published for dashi itself. Strain out the kombu and the katsuobushi before storing — leaving the solids in makes the stock cloudy and bitter and gives bacteria something to work on. Reheat only what you need, and bring it to a boil.",
+  "freezer": "Freeze dashi in ice-cube trays or flat in bags at −18 °C (0 °F), where it holds about 2–3 months of good quality; that figure is also taken from homemade broth. Cubes are the practical form: a miso soup or a simmered dish needs a small amount, and you can break off exactly what you want. Frozen food kept at that temperature stays safe indefinitely, so the limit here is aroma, which is the whole point of dashi and fades first.",
+  "thawing": "Thaw dashi in the fridge, or drop the frozen cubes straight into a hot pan. Never thaw it on the counter, and bring thawed dashi to a boil before use.",
+  "spoilage": [
+   "A sour or fermented smell instead of a clean, smoky, marine one",
+   "Cloudiness, ropiness or sliminess in a stock that was clear",
+   "Bubbles or fizzing in a covered container",
+   "A film or mould on the surface"
+  ],
+  "tips": [
+   "Strain thoroughly before storing; solids left in shorten it and muddy the flavour.",
+   "Freeze in ice-cube trays and bag the cubes, labelled with the date.",
+   "Cool it fast in a shallow container rather than in the pot.",
+   "Reuse the spent kombu and katsuobushi for a second, gentler batch the same day."
+  ],
+  "faq": [
+   {
+    "q": "How long does homemade dashi last in the fridge?",
+    "a": "3–4 days covered at 4 °C (40 °F) or below. It has no salt or acid to preserve it, so treat it like any fresh broth."
+   },
+   {
+    "q": "Can you freeze dashi?",
+    "a": "Yes. Ice-cube trays or flat bags at −18 °C hold about 2–3 months of good quality."
+   },
+   {
+    "q": "Why does dashi spoil faster than other stocks?",
+    "a": "It has no salt, sugar or acid barrier at all, and it is usually made without long boiling. Cool it fast and refrigerate it straight away."
+   },
+   {
+    "q": "Can you leave the kombu in the stored dashi?",
+    "a": "Better not. Strain it out — the solids make the stock cloudy and bitter and give spoilage organisms something to feed on."
+   }
+  ]
+ },
+ "zh": {
+  "name": "自製日式高湯",
+  "aliases": [
+   "柴魚高湯",
+   "昆布高湯",
+   "出汁",
+   "一番だし"
+  ],
+  "summary": "日式高湯是用昆布和柴魚片在幾分鐘內萃出的高湯，本身沒有鹽、糖或酸。冷藏可放 3～4 天。冷凍風味大約可維持 2～3 個月，這也是多數家庭處理一大鍋高湯的方式。",
+  "pantry": "日式高湯絕對不能放室溫。它完全沒有鹽、糖或酸的屏障，是日式調味架上最容易壞的東西。過濾後兩小時內快速降溫並冷藏或冷凍，廚房超過 32 °C 時縮短為一小時。不要把鍋子留在爐上放涼過夜；一深鍋會在 4～60 °C 的危險溫度帶裡停留好幾個小時。",
+  "fridge": "快速放涼、加蓋，放 4 °C 以下，可放 3～4 天。它的行為和其他自製高湯一樣，這裡的數字取自「自製高湯」的資料，而不是專為日式高湯發表的數字。保存前請把昆布和柴魚片濾掉——留著會讓湯變濁、發苦，也等於留給細菌可以利用的東西。每次只加熱要用的份量，而且要煮滾。",
+  "freezer": "用製冰盒或平放的密封袋在 −18 °C 冷凍，風味大約可維持 2～3 個月；這個數字同樣取自自製高湯。冰塊是最實用的形式：煮味噌湯或燉煮料理只需要一點點，要多少敲多少。食物在這個溫度下安全性可以無限期維持，所以這裡的限制是香氣——而香氣正是日式高湯的全部，也最先流失。",
+  "thawing": "日式高湯請放冷藏解凍，或直接把冰塊丟進熱鍋。絕對不要放室溫解凍，解凍後使用前要煮滾。",
+  "spoilage": [
+   "聞起來發酸或有發酵味，而不是乾淨的燻香與海味",
+   "原本清澈的湯變濁、出現絲狀物或黏稠感",
+   "加蓋的容器裡出現氣泡或冒氣",
+   "表面結膜或長霉"
+  ],
+  "tips": [
+   "保存前徹底過濾；留著料會縮短保存期，也會讓味道混濁。",
+   "用製冰盒凍成小塊後裝袋，記得標日期。",
+   "用淺容器快速降溫，不要整鍋慢慢放涼。",
+   "用過的昆布和柴魚可以當天再煮一次，做成味道較淡的二番高湯。"
+  ],
+  "faq": [
+   {
+    "q": "自製日式高湯放冰箱可以放多久？",
+    "a": "加蓋放 4 °C 以下，3～4 天。它沒有鹽或酸在保存它，請當成一般新鮮高湯看待。"
+   },
+   {
+    "q": "日式高湯可以冷凍嗎？",
+    "a": "可以。製冰盒或平放密封袋放 −18 °C，風味大約可維持 2～3 個月。"
+   },
+   {
+    "q": "日式高湯為什麼比其他高湯更快壞？",
+    "a": "它完全沒有鹽、糖或酸的屏障，而且通常不經長時間滾煮。請快速降溫並立刻冷藏。"
+   },
+   {
+    "q": "昆布可以留在高湯裡一起冰嗎？",
+    "a": "最好不要。請濾掉——留著會讓湯變濁發苦，也給腐敗菌提供養分。"
+   }
+  ]
+ }
+}

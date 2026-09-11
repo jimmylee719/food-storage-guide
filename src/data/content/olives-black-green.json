@@ -1,0 +1,91 @@
+{
+ "slug": "olives-black-green",
+ "en": {
+  "name": "Olives, black and green",
+  "aliases": [
+   "table olives",
+   "jarred olives",
+   "canned olives",
+   "brined olives"
+  ],
+  "summary": "Table olives are cured in brine or lye and packed in jars, cans or pouches. Unopened they keep about 12–18 months from purchase in the cupboard. Once opened, refrigerate them and use within about 2 weeks — a much shorter window than the jar's size usually suggests.",
+  "pantry": "An unopened jar or can keeps about 12–18 months from purchase in a cool, dry cupboard, away from the hob and out of the sun. The cure and the seal are doing the work. Discard without opening any can that is bulging, leaking or badly rusted, and do not keep a jar whose lid has lost its vacuum. Olives sold loose from a deli counter are not a cupboard product at all — they come home and go straight into the fridge.",
+  "fridge": "Once opened, keep them at 4 °C (40 °F) or below and use within about 2 weeks. The single habit that decides whether they get there is keeping them under the brine: olives standing above the liquid dry out, wrinkle and grow the first mould. Transfer the contents of an opened can into a glass jar, top up with brine rather than water if the level drops, and lift them out with a clean fork rather than your fingers. Olives packed in oil behave the same way; keep the oil covering them.",
+  "freezer": "There is no freezer timeline for table olives and freezing does them no favours: the flesh goes soft and mealy and the brine forms crystals that damage the texture further. Two weeks is short, so buy the jar size that matches how you actually eat them, or buy from the deli counter by weight. Leftover brine is worth keeping for a martini or a dressing rather than pouring away.",
+  "thawing": null,
+  "spoilage": [
+   "Mould on the surface or on olives standing above the brine",
+   "Brine gone cloudy, ropy or foul-smelling",
+   "Flesh gone mushy, slimy or falling off the stone",
+   "A bulging lid, or fizzing when the jar is opened"
+  ],
+  "tips": [
+   "Move opened cans into a glass jar straight away.",
+   "Keep every olive under the brine or oil; push them back down after each use.",
+   "Use a clean fork, never fingers.",
+   "Buy small jars or buy loose by weight — two weeks goes quickly."
+  ],
+  "faq": [
+   {
+    "q": "How long do olives last once opened?",
+    "a": "About 2 weeks refrigerated at 4 °C or below, with the olives kept under their brine."
+   },
+   {
+    "q": "How long does an unopened jar of olives keep?",
+    "a": "About 12–18 months from purchase in a cool dry cupboard, provided the container is undamaged."
+   },
+   {
+    "q": "Can you freeze olives?",
+    "a": "There is no timeline and it is not worth doing — the flesh turns soft and mealy. Buy smaller quantities instead."
+   },
+   {
+    "q": "Can you top up the jar with water?",
+    "a": "No. Water dilutes the brine that is preserving them. Top up with brine, or with a salt solution if you have none."
+   }
+  ]
+ },
+ "zh": {
+  "name": "橄欖（黑橄欖與綠橄欖）",
+  "aliases": [
+   "醃橄欖",
+   "罐頭橄欖",
+   "鹽水橄欖",
+   "油漬橄欖"
+  ],
+  "summary": "食用橄欖是用鹽水或鹼液醃製後裝進玻璃罐、金屬罐或軟袋販售。未開封放櫥櫃，從購買日起算大約 12～18 個月。開封後請冷藏，並在大約 2 週內用完——這個窗口比罐子的大小給人的印象短很多。",
+  "pantry": "未開封的罐子放在陰涼乾燥的櫥櫃、遠離爐火與日曬，從購買日起算大約 12～18 個月。做保存工作的是醃製與密封。罐身鼓起、滲漏或嚴重生鏽的，不要開，直接丟掉；蓋子沒有真空感的玻璃罐也不要留。熟食櫃秤重散賣的橄欖則完全不是常溫商品——買回家就直接進冰箱。",
+  "fridge": "開封後請放 4 °C 以下，並在大約 2 週內用完。決定它能不能撐到那時的唯一習慣，就是讓橄欖保持在醃汁以下：露出液面的會先乾掉、起皺，也最先長霉。開過的金屬罐請把內容物移到玻璃罐；液面下降時補鹽水而不是清水，並用乾淨的叉子夾取，不要用手。油漬橄欖也一樣，要讓油始終蓋過它們。",
+  "freezer": "食用橄欖沒有冷凍期限，冷凍對它也沒有好處：果肉會變軟、口感變粉，鹽水結晶還會進一步破壞質地。兩週確實很短，所以請依自己實際的吃法選罐子大小，或到熟食櫃秤重買。剩下的醃汁別急著倒掉，調馬丁尼或做沙拉醬都很好用。",
+  "thawing": null,
+  "spoilage": [
+   "液面或露出液面的橄欖長霉",
+   "醃汁變濁、牽絲或有異味",
+   "果肉變糊、變黏，或整片從籽上脫落",
+   "蓋子鼓起，或開罐時冒氣"
+  ],
+  "tips": [
+   "開過的金屬罐請立刻把內容物移到玻璃罐。",
+   "每一顆都要泡在醃汁或油裡，用完把它們壓回去。",
+   "用乾淨的叉子，不要用手。",
+   "買小罐或秤重買——兩週過得很快。"
+  ],
+  "faq": [
+   {
+    "q": "橄欖開封後可以放多久？",
+    "a": "放 4 °C 以下冷藏大約 2 週，並讓橄欖保持泡在醃汁裡。"
+   },
+   {
+    "q": "未開封的橄欖罐可以放多久？",
+    "a": "只要容器完好，陰涼乾燥的櫥櫃從購買日起算大約 12～18 個月。"
+   },
+   {
+    "q": "橄欖可以冷凍嗎？",
+    "a": "沒有對應期限，也不值得——果肉會變軟變粉。建議改買小份量。"
+   },
+   {
+    "q": "醃汁不夠可以加水嗎？",
+    "a": "不行。清水會稀釋正在保存它的鹽水。請補鹽水，沒有的話用鹽溶液。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "slug": "truffle-fresh",
+ "en": {
+  "name": "Fresh truffle",
+  "aliases": [
+   "black winter truffle",
+   "summer truffle",
+   "white Alba truffle",
+   "tuber melanosporum",
+   "tuber magnatum"
+  ],
+  "summary": "A fresh truffle is a subterranean fungus sold whole and still carrying its soil, and it is one of the shortest-lived luxuries in any kitchen. A published study of black truffle preservation describes the fresh product as having a very limited shelf life of at most 5–7 days at room temperature; refrigerated, treat it the way you would treat mushrooms, about 3–7 days. Black truffles freeze tolerably for 3–6 months, white ones barely at all.",
+  "pantry": "Nobody should actually be keeping a truffle on the counter. It loses water and aroma by the hour, and 5–7 days is the outer bound quoted in the research, not a target. If a truffle is sitting out at all it should be because you are about to shave it over something. Anywhere warm and dry is the fastest way to turn an expensive thing into a cheap one.",
+  "fridge": "The fridge is where a truffle belongs: a sealed glass jar in the coldest part, at 4 °C (40 °F) or below, with the truffle wrapped in kitchen paper that you change every single day. The paper absorbs the water the truffle sweats out — leave the same damp paper on it and you have built a mould incubator. No authority publishes a domestic refrigerated shelf life for truffles, so the 3–7 days here is borrowed from mushrooms, which sit in the same place and fail the same way. Brush the soil off with a dry brush and do not wash it until the moment you use it.",
+  "freezer": "Freezing is a real option for black truffles and a poor one for white. Wrap it tight, freeze it whole and hard at −18 °C (0 °F), and expect 3–6 months of useful aroma; frozen food held at −18 °C stays safe indefinitely, so this is a quality window, not a safety one. Grate it from frozen straight onto the dish. Never thaw it — thawing collapses it into a grey wet lump.",
+  "thawing": "Do not thaw a frozen truffle. Take it out, grate or shave it while it is still rock hard, and return the rest to the freezer immediately.",
+  "spoilage": [
+   "Soft or spongy spots where the flesh should be firm and dense",
+   "White or grey fuzz, usually starting where the truffle touched damp paper",
+   "A sour, fermented or ammonia edge replacing the clean earthy aroma",
+   "Weeping liquid in the jar, or a truffle that has visibly shrunk and gone light"
+  ],
+  "tips": [
+   "Change the kitchen paper daily without fail; this single habit does more than anything else.",
+   "Ignore the rice trick. Rice is a desiccant: it strips the truffle of moisture and aroma and gives you faintly scented rice in return.",
+   "Buy the smallest truffle that does the job, and buy it for a specific meal rather than to keep.",
+   "Store eggs or butter in the same sealed jar — they pick up aroma, and that is a bonus, not a loss."
+  ],
+  "faq": [
+   {
+    "q": "Can you freeze fresh truffles?",
+    "a": "Black truffles yes, for roughly 3–6 months wrapped tight at −18 °C, grated from frozen. White truffles lose too much to be worth it."
+   },
+   {
+    "q": "How long do fresh truffles last in the fridge?",
+    "a": "Around 3–7 days in a sealed jar with daily paper changes. That figure is borrowed from mushrooms, because no agency publishes a domestic one for truffles."
+   },
+   {
+    "q": "Should you store truffles in rice?",
+    "a": "No. Rice dries the truffle out and pulls the aroma away from it. Use kitchen paper in a sealed jar and change it every day."
+   },
+   {
+    "q": "Do you wash a truffle before storing it?",
+    "a": "No. Brush the soil off dry and wash it only at the moment of use; water on the skin starts mould almost immediately."
+   }
+  ]
+ },
+ "zh": {
+  "name": "新鮮松露",
+  "aliases": [
+   "黑松露",
+   "白松露",
+   "冬季黑松露",
+   "夏松露",
+   "義大利白松露"
+  ],
+  "summary": "新鮮松露是長在地下的塊菌，帶著泥土整顆販售，是廚房裡最難保存的高價食材之一。一篇黑松露保鮮研究直接寫明：新鮮松露的保存期極短，室溫下最多 5～7 天。冷藏的話，請比照蘑菇來看，大約 3～7 天。黑松露冷凍勉強可行，約 3～6 個月；白松露則幾乎不值得冷凍。",
+  "pantry": "其實沒有人應該把松露放在檯面上。它每一個小時都在流失水分和香氣，5～7 天是研究給的極限值，不是目標。松露會離開冰箱，理由只該有一個：你正要把它刨到菜上。任何溫暖乾燥的地方，都是把貴東西變成便宜東西最快的方法。",
+  "fridge": "冰箱才是松露該待的地方：裝進密封玻璃罐，放在冰箱最冷的位置、4 °C 以下，外面包廚房紙巾，而且每天都要換新的。紙巾負責吸掉松露滲出的水；同一張濕紙巾留著不換，等於幫它做了一個發霉培養皿。目前沒有任何機構發表過松露在家用冰箱的保存天數，所以這裡的 3～7 天是比照蘑菇來看的——兩者放在同一個位置、也以同樣的方式壞掉。泥土請用乾刷子刷掉，要用的那一刻才洗。",
+  "freezer": "冷凍對黑松露是可行的選項，對白松露則不是。包緊、整顆硬凍在 −18 °C，香氣的可用期大約 3～6 個月；食物在 −18 °C 下安全性可以無限期維持，所以這是風味期限，不是安全期限。要用時直接從冷凍取出刨屑撒到菜上。千萬不要解凍——解凍會讓它塌成一團灰灰的濕塊。",
+  "thawing": "冷凍松露請勿解凍。拿出來趁還硬邦邦時直接刨或削，剩下的立刻放回冷凍庫。",
+  "spoilage": [
+   "本該緊實紮實的地方出現軟爛或海綿感",
+   "長出白色或灰色的絨毛，通常從貼著濕紙巾的那一面開始",
+   "乾淨的泥土香被酸味、發酵味或阿摩尼亞味取代",
+   "罐子裡積水，或整顆明顯縮水、拿起來變輕"
+  ],
+  "tips": [
+   "每天換廚房紙巾，一天都別漏；這個習慣比其他任何做法都有效。",
+   "別再用米保存了。米是乾燥劑，會把松露的水分和香氣一起抽走，最後你只得到有點香味的米。",
+   "買剛好夠用的大小，而且為特定的一餐而買，不要買來囤。",
+   "把蛋或奶油一起放進密封罐，它們會吸到香氣——這是額外收穫，不是損失。"
+  ],
+  "faq": [
+   {
+    "q": "新鮮松露可以冷凍嗎？",
+    "a": "黑松露可以，包緊後在 −18 °C 約 3～6 個月，要用時直接從冷凍刨。白松露損失太大，不建議。"
+   },
+   {
+    "q": "松露放冰箱可以放多久？",
+    "a": "密封罐加每天換紙巾，大約 3～7 天。這個數字是比照蘑菇來看的，因為沒有機構為松露發表家用冷藏期限。"
+   },
+   {
+    "q": "松露可以埋在米裡保存嗎？",
+    "a": "不行。米會把松露弄乾，也會把香氣拉走。請用密封罐加廚房紙巾，每天換。"
+   },
+   {
+    "q": "松露要先洗再冰嗎？",
+    "a": "不要。用乾刷子刷掉泥土就好，要用的當下才洗；表面帶水幾乎馬上就會開始發霉。"
+   }
+  ]
+ }
+}

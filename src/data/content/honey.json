@@ -1,0 +1,91 @@
+{
+ "slug": "honey",
+ "en": {
+  "name": "Honey",
+  "aliases": [
+   "raw honey",
+   "runny honey",
+   "set honey",
+   "creamed honey"
+  ],
+  "summary": "Honey is one of the most stable foods in any kitchen: too sugary and too low in water for microbes to grow in. The published figure is about 2 years from purchase in the cupboard, and that is a quality window rather than a safety limit. Do not refrigerate it, and never give honey to an infant under twelve months.",
+  "pantry": "Keep honey tightly capped in a cool, dry, dark cupboard, about 2 years from purchase. Sugar concentration and low water activity are what preserve it, so no refrigeration is needed and nothing is gained by it. Crystallisation is not spoilage — most honeys granulate eventually, and standing the jar in warm water reliquefies it. Keep water out of the jar above all: a wet spoon adds the one thing honey lacks, and a diluted patch can ferment. One serious exception to honey's general safety: honey can carry Clostridium botulinum spores and must never be given to an infant under twelve months.",
+  "fridge": "Do not refrigerate honey. The cold accelerates crystallisation and makes it hard to pour without improving keeping quality at all, since there is nothing for cold to protect it from. If a jar has already set solid, the fix is gentle warmth, not cold: stand it in a bowl of warm water and stir. Comb honey and raw unfiltered honey behave the same way and also belong in the cupboard.",
+  "freezer": "There is no freezer timeline for honey and no reason to freeze it. It does not freeze solid at domestic freezer temperatures because of its sugar concentration, and the cupboard already keeps it indefinitely in practical terms. Freezing simply makes it unpourable and takes up space that a perishable food could use.",
+  "thawing": null,
+  "spoilage": [
+   "A fermented, yeasty or alcoholic smell, or visible bubbling — usually a sign water got in",
+   "Mould on the surface or around the rim",
+   "A sharp, sour taste rather than sweet",
+   "A watery layer separating on top of the honey"
+  ],
+  "tips": [
+   "Use a dry spoon and cap the jar immediately; water is the only real enemy.",
+   "Warm a crystallised jar in a bowl of warm water — crystals are normal, not spoilage.",
+   "Do not microwave honey in a sealed jar; it heats unevenly and scorches.",
+   "Never give honey to a baby under twelve months."
+  ],
+  "faq": [
+   {
+    "q": "Does honey go bad?",
+    "a": "Not in practical terms. The published figure is about 2 years from purchase, but that is about flavour and colour. Kept dry and capped, honey keeps almost indefinitely."
+   },
+   {
+    "q": "Should honey be refrigerated?",
+    "a": "No. Cold speeds up crystallisation and gains nothing. A cool dark cupboard is the right place."
+   },
+   {
+    "q": "Is crystallised honey still good?",
+    "a": "Yes. Granulation is normal. Stand the jar in warm water and stir until it runs again."
+   },
+   {
+    "q": "Can babies eat honey?",
+    "a": "No. Honey can carry Clostridium botulinum spores and must never be given to an infant under twelve months."
+   }
+  ]
+ },
+ "zh": {
+  "name": "蜂蜜",
+  "aliases": [
+   "生蜂蜜",
+   "結晶蜜",
+   "純蜜",
+   "蜜"
+  ],
+  "summary": "蜂蜜是廚房裡最穩定的食物之一：糖度太高、水分太少，微生物長不起來。公布的數字是從購買日起算約 2 年，而那是風味期限而不是安全期限。不要冷藏，也絕對不要餵給未滿一歲的嬰兒。",
+  "pantry": "蜂蜜請蓋緊放在陰涼、乾燥、避光的櫥櫃，從購買日起算大約 2 年。保存它的是高糖濃度和低水活性，所以不需要冷藏，冰了也沒有任何好處。結晶不是腐壞——大多數蜂蜜最後都會結晶，把罐子泡在溫水裡就會化回液態。最重要的是別讓水跑進罐子：一支濕湯匙等於把蜂蜜唯一缺少的東西加進去，被稀釋的那一塊就可能發酵。蜂蜜的安全性有一個重大例外：它可能帶有肉毒桿菌孢子，絕對不可以給未滿一歲的嬰兒食用。",
+  "fridge": "蜂蜜不要冷藏。低溫會加速結晶、讓它難以倒出，卻完全無助於保存，因為根本沒有什麼需要低溫去防範。已經整罐凝固的話，解法是溫熱而不是低溫：把罐子放在溫水碗裡攪拌。蜂巢蜜和未過濾的生蜜也一樣，同樣放櫥櫃。",
+  "freezer": "蜂蜜沒有冷凍期限，也沒有冷凍的理由。因為糖度太高，它在家用冷凍庫也凍不硬，而櫥櫃實際上已經能讓它幾乎無限期保存。冷凍只會讓它倒不出來，還佔掉本來可以放易腐食材的空間。",
+  "thawing": null,
+  "spoilage": [
+   "有發酵味、酵母味或酒味，或看得到冒泡——通常代表有水跑進去",
+   "表面或瓶口周圍長霉",
+   "嚐起來刺酸而不是甜",
+   "蜂蜜上方分離出一層水"
+  ],
+  "tips": [
+   "用乾燥的湯匙，取完立刻蓋緊；水是它唯一真正的敵人。",
+   "結晶的罐子泡溫水回液——結晶是正常的，不是壞掉。",
+   "不要把密封的蜂蜜罐直接微波，受熱不均容易燒焦。",
+   "絕對不要給未滿一歲的嬰兒吃蜂蜜。"
+  ],
+  "faq": [
+   {
+    "q": "蜂蜜會過期嗎？",
+    "a": "實務上不會。公布的數字是從購買日起算約 2 年，但那講的是風味和色澤。保持乾燥、蓋緊，蜂蜜幾乎可以無限期保存。"
+   },
+   {
+    "q": "蜂蜜要冰嗎？",
+    "a": "不用。低溫只會加速結晶，沒有任何好處。陰涼避光的櫥櫃才對。"
+   },
+   {
+    "q": "結晶的蜂蜜還能吃嗎？",
+    "a": "可以。結晶是正常現象。把罐子泡在溫水裡攪拌到恢復流動即可。"
+   },
+   {
+    "q": "嬰兒可以吃蜂蜜嗎？",
+    "a": "不可以。蜂蜜可能帶有肉毒桿菌孢子，未滿一歲的嬰兒絕對不能食用。"
+   }
+  ]
+ }
+}

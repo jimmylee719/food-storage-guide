@@ -1,0 +1,91 @@
+{
+ "slug": "mentsuyu",
+ "en": {
+  "name": "Mentsuyu",
+  "aliases": [
+   "noodle soup base",
+   "tsuyu",
+   "soba tsuyu",
+   "Japanese noodle sauce"
+  ],
+  "summary": "Mentsuyu is soy sauce and mirin let down with dashi — the bottle you dilute for soba dipping sauce or noodle broth. Unopened it keeps about 6–12 months in the cupboard. Once opened it must be refrigerated, where about 2–4 weeks is the range, because dilution has taken away the barriers that make a soy sauce bottle self-preserving.",
+  "pantry": "Unopened bottles keep to the printed date in a cool dark cupboard, about 6–12 months from purchase. Straight (ready-to-use) tsuyu carries a shorter date than a concentrate because it is already watered down. Keep bottles away from the hob and out of the sun. Once a bottle is opened the cupboard is not an option, whatever the label looked like when it was sealed.",
+  "fridge": "Always the fridge once opened, at 4 °C (40 °F) or below, and about 2–4 weeks is the working range. This one is not purely a quality question: mentsuyu is soy sauce and mirin diluted with dashi and water, which drops both the salt and the sugar concentration below the level that makes a soy sauce bottle self-preserving. Straight-type tsuyu is the most dilute and the most perishable of the lot — treat it like an opened carton of stock rather than like a seasoning. These figures are set between the published lines for opened soy sauce and opened commercial broth, since mentsuyu sits between the two. Cloudiness, a film on the surface or a sour smell means throw it out.",
+  "freezer": "Freezing a homemade or leftover diluted tsuyu is reasonable and puts it on the same footing as a homemade broth: about 2–3 months at −18 °C (0 °F). Ice-cube trays are the useful format, since a bowl of noodles wants only a small amount. Frozen food held at that temperature stays safe indefinitely; the limit is the dashi aroma, which fades first. A sealed commercial bottle does not need freezing.",
+  "thawing": "Thaw frozen tsuyu in the fridge, or drop the cubes straight into a hot pan of broth. Do not thaw it on the counter.",
+  "spoilage": [
+   "Cloudiness in what should be a clear dark liquid",
+   "A film or scum on the surface",
+   "A sour, fermented or off smell rather than a savoury dashi-and-soy one",
+   "Bubbles or fizzing in a capped bottle"
+  ],
+  "tips": [
+   "Write the opening date on the bottle — weeks pass faster than months.",
+   "Buy concentrate rather than straight type if you use it slowly; it keeps better.",
+   "Never pour leftover dipping sauce from the table back into the bottle.",
+   "Freeze homemade tsuyu in ice-cube trays for single servings."
+  ],
+  "faq": [
+   {
+    "q": "How long does mentsuyu last once opened?",
+    "a": "About 2–4 weeks refrigerated at 4 °C or below. Straight-type tsuyu is at the short end because it is the most dilute."
+   },
+   {
+    "q": "Does mentsuyu need to be refrigerated?",
+    "a": "Yes, once opened. Dilution removes the salt and sugar barriers that keep an undiluted soy sauce stable."
+   },
+   {
+    "q": "How long does an unopened bottle keep?",
+    "a": "About 6–12 months from purchase in a cool dark cupboard, to the printed date."
+   },
+   {
+    "q": "Can you freeze mentsuyu?",
+    "a": "Yes, a homemade or diluted one — about 2–3 months at −18 °C, ideally in ice-cube trays."
+   }
+  ]
+ },
+ "zh": {
+  "name": "麵味露",
+  "aliases": [
+   "めんつゆ",
+   "日式沾麵醬油",
+   "柴魚醬油",
+   "つゆ"
+  ],
+  "summary": "麵味露是醬油和味醂用日式高湯調稀而成，就是那瓶拿來稀釋成蕎麥麵沾醬或湯底的東西。未開封放櫥櫃大約 6～12 個月。開封後一定要冷藏，大約 2～4 週，因為稀釋已經拿掉了讓醬油能自我保存的屏障。",
+  "pantry": "未開封的瓶子放在陰涼避光的櫥櫃，到標示日期為止，從購買日起算大約 6～12 個月。已經稀釋好、可直接使用的「ストレート」型，標示日期比濃縮型短，因為它本來就已經加過水。請遠離爐火、避免日曬。一旦開瓶，不管密封時標的是什麼，櫥櫃都不再是選項。",
+  "fridge": "開瓶後一律冷藏在 4 °C 以下，大約 2～4 週。這一項不純粹是品質問題：麵味露是醬油和味醂被高湯與水稀釋過的東西，鹽度和糖度都被拉到「醬油能自我保存」的門檻以下。直接使用型最稀、也最容易壞——請把它當成開封的高湯紙盒，而不是調味料。這裡的數字落在「開封醬油」和「開封市售高湯」兩條已發表資料之間，因為麵味露正好介於兩者。出現混濁、表面浮膜或酸味，就要丟掉。",
+  "freezer": "自製或用剩的稀釋麵味露可以冷凍，做法比照自製高湯：在 −18 °C 大約 2～3 個月。製冰盒很好用，因為一碗麵只需要一點點。食物在這個溫度下安全性可以無限期維持，限制的是高湯香氣，那也是最先流失的。未開封的市售瓶裝則不需要冷凍。",
+  "thawing": "冷凍的麵味露請放冷藏解凍，或直接把冰塊丟進熱湯鍋。不要放室溫解凍。",
+  "spoilage": [
+   "本該清澈的深色液體變得混濁",
+   "表面出現薄膜或浮渣",
+   "聞起來發酸、有發酵味或異味，而不是柴魚醬油的鹹鮮",
+   "蓋緊的瓶子裡出現氣泡或冒氣"
+  ],
+  "tips": [
+   "在瓶身寫開封日期——以「週」計的時間過得比「月」快。",
+   "用得慢的話買濃縮型而不是直接使用型，比較耐放。",
+   "桌上用剩的沾醬絕對不要倒回瓶子。",
+   "自製的用製冰盒凍成單人份。"
+  ],
+  "faq": [
+   {
+    "q": "麵味露開封後可以放多久？",
+    "a": "放 4 °C 以下冷藏大約 2～4 週。直接使用型最稀，屬於較短的那一端。"
+   },
+   {
+    "q": "麵味露要冰嗎？",
+    "a": "開封後要。稀釋掉了原本讓純醬油穩定的鹽度和糖度屏障。"
+   },
+   {
+    "q": "未開封的麵味露可以放多久？",
+    "a": "陰涼避光的櫥櫃，從購買日起算大約 6～12 個月，以標示日期為準。"
+   },
+   {
+    "q": "麵味露可以冷凍嗎？",
+    "a": "自製或稀釋過的可以——在 −18 °C 大約 2～3 個月，用製冰盒最方便。"
+   }
+  ]
+ }
+}

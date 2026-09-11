@@ -1,0 +1,91 @@
+{
+ "slug": "relish",
+ "en": {
+  "name": "Relish",
+  "aliases": [
+   "sweet pickle relish",
+   "hot dog relish",
+   "cucumber relish",
+   "corn relish"
+  ],
+  "summary": "Relish is chopped pickled vegetables in a sweet-sour brine, and the vinegar and sugar make it very stable. Unopened it keeps about 30 months from purchase in the cupboard, and about 9 months refrigerated. Freezing is not recommended.",
+  "pantry": "An unopened jar keeps about 30 months from purchase in a cool, dry, dark cupboard — a long life that comes straight from the vinegar and sugar. Store it upright, away from the hob and out of sunlight, which bleaches the colour. Do not keep a jar that has lost its vacuum, is leaking, or fizzes on opening. Once the jar has been opened, it belongs in the fridge rather than back on the shelf.",
+  "fridge": "Refrigerated, relish runs about 9 months from purchase at 4 °C (40 °F) or below. Keep the solids under the liquid so nothing dries at the surface, use a clean spoon each time, and wipe the rim before closing — a sticky thread is what makes a lid seat badly and lets air in. Never return relish from a plate or a hot dog to the jar, and do not serve straight from the storage jar at a barbecue; spoon what you need into a bowl.",
+  "freezer": "Freezing relish is not recommended and no freezer timeline is given for it. The chopped vegetables are mostly water and lose their crunch entirely, leaving a watery, separated mush when thawed — and the fridge already gives you months. If you have made a large home batch, canning it to a tested recipe is the route to long storage, not the freezer.",
+  "thawing": null,
+  "spoilage": [
+   "Mould on the surface, around the rim or under the lid",
+   "A fermented, yeasty or alcoholic smell",
+   "Liquid gone cloudy or ropy",
+   "A domed lid, or fizzing and spurting when the jar is opened"
+  ],
+  "tips": [
+   "Spoon relish into a bowl for the table; never serve from the storage jar.",
+   "Use a clean spoon and wipe the rim before closing.",
+   "Write the opening date on the lid.",
+   "Keep the jar out of sunlight, which dulls the colour quickly."
+  ],
+  "faq": [
+   {
+    "q": "How long does relish last in the fridge?",
+    "a": "About 9 months from purchase at 4 °C or below, with the solids kept under the liquid."
+   },
+   {
+    "q": "How long does an unopened jar of relish keep?",
+    "a": "About 30 months from purchase in a cool dry cupboard."
+   },
+   {
+    "q": "Can you freeze relish?",
+    "a": "Freezing is not recommended and no timeline is given. The vegetables lose their crunch and thaw watery."
+   },
+   {
+    "q": "Does relish need to be refrigerated after opening?",
+    "a": "Yes. Put it in the fridge once the jar is opened rather than returning it to the cupboard."
+   }
+  ]
+ },
+ "zh": {
+  "name": "甜酸醃菜醬",
+  "aliases": [
+   "relish",
+   "熱狗醬瓜",
+   "醃黃瓜碎醬",
+   "玉米甜酸醬"
+  ],
+  "summary": "Relish 是切碎的醃漬蔬菜泡在甜酸醃汁裡，靠醋和糖讓它非常穩定。未開封放櫥櫃，從購買日起算大約 30 個月；冷藏大約 9 個月。不建議冷凍。",
+  "pantry": "未開封的罐子放在陰涼、乾燥、避光的櫥櫃，從購買日起算大約 30 個月——這麼長的壽命完全來自醋和糖。請直立擺放、遠離爐火、避免日曬，陽光會讓顏色褪掉。已經沒有真空感、會滲漏，或開罐時冒氣的罐子就不要留。開封之後，它該進冰箱，而不是放回架上。",
+  "fridge": "冷藏在 4 °C 以下，從購買日起算大約 9 個月。請讓固形物保持在液面以下，避免表面乾掉；每次用乾淨的湯匙，蓋回去前擦瓶口——黏答答的螺紋會讓蓋子蓋不平、空氣跑進去。盤子上或熱狗上用剩的絕對不要倒回罐子；烤肉時也不要直接拿保存罐上桌，請舀到碗裡。",
+  "freezer": "Relish 不建議冷凍，也沒有提供冷凍期限。切碎的蔬菜幾乎都是水，冷凍後會完全失去脆度，解凍只剩出水分離的糊——而冷藏本來就能放好幾個月。自己做了一大批的話，依經驗證的配方裝罐殺菌才是長期保存的方法，不是冷凍。",
+  "thawing": null,
+  "spoilage": [
+   "醬面、瓶口或蓋子內側長霉",
+   "聞起來有發酵味、酵母味或酒味",
+   "醃汁變濁或牽絲",
+   "蓋子鼓起，或開罐時冒氣噴出"
+  ],
+  "tips": [
+   "上桌時舀到碗裡，不要直接用保存罐。",
+   "用乾淨的湯匙，蓋回去前擦瓶口。",
+   "在蓋子上寫開封日期。",
+   "避免日曬，陽光很快會讓顏色變暗。"
+  ],
+  "faq": [
+   {
+    "q": "Relish 放冰箱可以放多久？",
+    "a": "冷藏在 4 °C 以下，從購買日起算大約 9 個月，並讓固形物保持在液面以下。"
+   },
+   {
+    "q": "未開封的 relish 可以放多久？",
+    "a": "陰涼乾燥的櫥櫃，從購買日起算大約 30 個月。"
+   },
+   {
+    "q": "Relish 可以冷凍嗎？",
+    "a": "不建議，也沒有提供期限。蔬菜會失去脆度，解凍後出水。"
+   },
+   {
+    "q": "Relish 開封後要冰嗎？",
+    "a": "要。開封後請放冰箱，不要放回櫥櫃。"
+   }
+  ]
+ }
+}

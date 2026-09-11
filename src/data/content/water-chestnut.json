@@ -1,0 +1,91 @@
+{
+ "slug": "water-chestnut",
+ "en": {
+  "name": "Water chestnut",
+  "aliases": [
+   "Chinese water chestnut",
+   "ma tai",
+   "fresh water chestnut corms",
+   "eleocharis dulcis"
+  ],
+  "summary": "Fresh water chestnuts are the corms of a sedge, sold unpeeled with a dark brown skin and a crisp white interior that stays crunchy even after cooking. Unpeeled in the fridge they keep about 1–2 weeks. No agency publishes a figure for them, so that range is borrowed from carrots, a root stored the same way.",
+  "pantry": "A warm room dries water chestnuts out and shrivels them, and any that are already bruised will mould. There is no counter-storage time worth quoting. Buy them, take them home and refrigerate them; if they arrive wet from the market, let the surface water drain before bagging them.",
+  "fridge": "Keep the dark skins on and the corms slightly damp in a bag in the crisper at 4 °C (40 °F) or below, where they run about 1–2 weeks. That range comes from the carrot line rather than from any published water-chestnut figure. Slightly damp is the target, not wet — a pool of water in the bottom of the bag starts rot. Check the bag every few days and pull out any corm that has gone soft, because one mouldy chestnut will take the rest with it.",
+  "freezer": "There is no freezer timeline for fresh water chestnuts and freezing raw ones defeats the purpose of the vegetable: the cell structure that keeps them crunchy after cooking does not survive it, and what thaws is soft and grainy. If you need a standby, canned water chestnuts are the sensible answer and hold their crunch well. Drain and rinse them before use.",
+  "thawing": null,
+  "spoilage": [
+   "Corms that give when squeezed instead of feeling rock hard",
+   "Mould at the flat base or at any bruised spot",
+   "A sour or fermented smell from the bag",
+   "Flesh that is grey, yellow or translucent rather than bright white when peeled"
+  ],
+  "tips": [
+   "Choose heavy, hard corms with no soft spots; the skin should be tight, not wrinkled.",
+   "Peel only what you are cooking — peeled water chestnuts must be covered in water and used within 2 to 3 days.",
+   "Change the water daily on any peeled corms you are holding.",
+   "Keep a can in the cupboard for the days you do not have fresh ones."
+  ],
+  "faq": [
+   {
+    "q": "How long do fresh water chestnuts last in the fridge?",
+    "a": "About 1–2 weeks unpeeled and slightly damp in a bag. That range is borrowed from carrots; no agency publishes one for water chestnuts."
+   },
+   {
+    "q": "How do you store peeled water chestnuts?",
+    "a": "Submerged in water in a sealed container in the fridge, changing the water daily, and use them within 2 to 3 days."
+   },
+   {
+    "q": "Can you freeze water chestnuts?",
+    "a": "There is no timeline and it is not worth doing. Freezing destroys the crunch that makes them worth buying; use canned ones instead."
+   },
+   {
+    "q": "Why did my water chestnuts go mouldy?",
+    "a": "Usually standing water in the bag or a bruise that was already there. Keep them just damp, not wet, and remove any soft corm as soon as you spot it."
+   }
+  ]
+ },
+ "zh": {
+  "name": "荸薺",
+  "aliases": [
+   "馬蹄",
+   "水栗",
+   "地栗",
+   "馬薯"
+  ],
+  "summary": "荸薺是莎草科植物的球莖，帶著深褐色外皮整顆販售，裡面雪白清脆，煮過還是脆的。不削皮冷藏大約可放 1～2 週。沒有機構為它發表過數字，這個範圍是比照紅蘿蔔來看的——同樣是這樣存放的根莖類。",
+  "pantry": "室溫會讓荸薺失水乾癟，本來就有碰傷的還會發霉。這裡沒有值得引用的常溫天數。買回來就直接冷藏；如果從市場帶回來時是濕的，先把表面的水瀝掉再裝袋。",
+  "fridge": "外皮不要削，讓球莖保持「微濕」裝袋放進 4 °C 以下的蔬果室，大約 1～2 週。這個範圍來自紅蘿蔔的數字，不是荸薺自己的已發表數據。目標是微濕而不是泡水——袋底積水就是腐爛的開始。每隔幾天翻一次袋子，摸到軟掉的就挑出來，因為一顆發霉會拖垮整袋。",
+  "freezer": "新鮮荸薺沒有冷凍期限，而且生凍會違背吃它的初衷：讓它煮過還脆的細胞結構撐不過冷凍，解凍後只剩軟粉的口感。需要常備的話，罐頭荸薺是合理的選項，脆度保留得不錯，使用前瀝乾沖洗即可。",
+  "thawing": null,
+  "spoilage": [
+   "捏起來會凹，而不是硬邦邦的",
+   "底部平面或碰傷處長霉",
+   "袋子裡傳出酸味或發酵味",
+   "削開後果肉是灰色、黃色或半透明，而不是雪白"
+  ],
+  "tips": [
+   "挑沉手、硬實、沒有軟點的；外皮應該緊繃而不是皺的。",
+   "要煮多少削多少——削好的荸薺必須泡在水裡，並在 2 到 3 天內用完。",
+   "泡水保存的削皮荸薺要每天換水。",
+   "櫥櫃裡備一罐罐頭荸薺，應付沒有新鮮貨的日子。"
+  ],
+  "faq": [
+   {
+    "q": "荸薺放冰箱可以放多久？",
+    "a": "不削皮、保持微濕裝袋大約 1～2 週。這個範圍是比照紅蘿蔔來看的，荸薺沒有機構發表過數字。"
+   },
+   {
+    "q": "削好的荸薺怎麼保存？",
+    "a": "泡在水裡密封冷藏，每天換水，並在 2 到 3 天內用完。"
+   },
+   {
+    "q": "荸薺可以冷凍嗎？",
+    "a": "沒有對應期限，也不值得。冷凍會破壞它最值錢的脆度，需要備料請用罐頭。"
+   },
+   {
+    "q": "荸薺為什麼會發霉？",
+    "a": "通常是袋底積水，或本來就有碰傷。保持微濕而不是泡水，發現軟掉的立刻挑掉。"
+   }
+  ]
+ }
+}

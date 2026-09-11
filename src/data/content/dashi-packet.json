@@ -1,0 +1,93 @@
+{
+ "slug": "dashi-packet",
+ "en": {
+  "name": "Instant dashi",
+  "aliases": [
+   "dashi packet",
+   "dashi granules",
+   "hondashi",
+   "dashi no moto",
+   "liquid dashi concentrate"
+  ],
+  "summary": "Instant dashi comes as granules in a jar, tea-bag style sachets of ground kombu and bonito, or a concentrated liquid in a bottle. Dry forms keep about 12 months in a cool dry cupboard. Once you make it up into stock it is stock: 3–4 days in the fridge.",
+  "pantry": "Dry granules and sealed sachets keep about 12 months from purchase in a cool, dry cupboard — a figure taken from the dry soup-mix and bouillon line, not one published for dashi. Airtight is the whole game: the granules are hygroscopic and cake into a solid lump the moment they meet humidity, which is how most jars of instant dashi actually end in a humid kitchen. Keep them away from the kettle, the rice cooker and the hob, and never shake damp granules back into the jar.",
+  "fridge": "The dry product does not belong in the fridge; moving it in and out drives condensation into the powder. Once made up into liquid stock, though, it is stock: covered, at 4 °C (40 °F) or below, 3–4 days. Concentrated liquid dashi in a bottle should be refrigerated after opening and used to the maker's instruction — the printed best-before date stops applying once a prepacked product is opened.",
+  "freezer": "There is no freezer timeline for the dry product and freezing a hygroscopic powder is a bad idea: every trip out of the freezer invites condensation. Made-up dashi is a different matter and freezes like any stock — ice-cube trays at −18 °C (0 °F) are the practical form. But if you have instant dashi in the cupboard, there is rarely any reason to freeze stock at all; you can make what you need in a minute.",
+  "thawing": "Thaw frozen made-up dashi in the fridge or drop the cubes straight into a hot pan. Do not thaw it on the counter.",
+  "spoilage": [
+   "Granules caked into a hard lump that will not break up",
+   "A stale or fishy-rancid smell rather than a clean smoky-marine one",
+   "Damp, discoloured or clumping sachets",
+   "Made-up stock that smells sour or has a film on the surface"
+  ],
+  "tips": [
+   "Use a dry spoon and close the jar immediately; humidity is the enemy.",
+   "Keep granules away from steam sources — kettle, rice cooker, hob.",
+   "Refrigerate opened liquid concentrate and follow the bottle.",
+   "Buy small jars if you cook Japanese food only occasionally."
+  ],
+  "faq": [
+   {
+    "q": "How long does instant dashi last?",
+    "a": "About 12 months from purchase for dry granules and sealed sachets, kept airtight in a cool dry cupboard."
+   },
+   {
+    "q": "How long does made-up dashi keep?",
+    "a": "3–4 days covered in the fridge at 4 °C or below, the same as any prepared stock."
+   },
+   {
+    "q": "Does liquid dashi concentrate need refrigerating?",
+    "a": "Yes, after opening, and follow the maker's instruction. The printed date stops applying once the bottle is opened."
+   },
+   {
+    "q": "Why did my dashi granules turn into a solid lump?",
+    "a": "They absorbed moisture from the air. Store them airtight away from steam and use a dry spoon each time."
+   }
+  ]
+ },
+ "zh": {
+  "name": "日式高湯粉／高湯包",
+  "aliases": [
+   "柴魚粉",
+   "鰹魚素",
+   "ほんだし",
+   "だしパック",
+   "液體高湯露"
+  ],
+  "summary": "即溶日式高湯有罐裝顆粒、像茶包一樣的高湯包，以及瓶裝濃縮液三種形式。乾燥形式放在陰涼乾燥的櫥櫃大約 12 個月。一旦沖泡成高湯，它就是高湯：冷藏 3～4 天。",
+  "pantry": "乾燥顆粒和未拆封的高湯包放在陰涼乾燥的櫥櫃，從購買日起算大約 12 個月——這個數字取自「乾燥湯粉與高湯塊」的資料，不是專為日式高湯發表的。關鍵全在密封：顆粒吸濕性強，碰到濕氣就會結成一整塊，而這正是台灣這種潮濕廚房裡一罐柴魚粉真正的結局。請遠離熱水壺、電鍋和爐火，也不要把受潮的顆粒抖回罐子裡。",
+  "fridge": "乾燥品不該放冰箱；反覆進出會把冷凝水帶進粉裡。但沖泡成液體高湯之後，它就是高湯：加蓋、放 4 °C 以下，3～4 天。瓶裝的濃縮高湯露開封後要冷藏，並依廠商指示使用——預先包裝的產品一旦開封，標示的有效日期就不再適用。",
+  "freezer": "乾燥品沒有冷凍期限，而且冷凍吸濕性粉末並不明智：每次拿進拿出都在招來冷凝水。沖泡好的高湯則不同，冷凍方式和一般高湯一樣——用製冰盒在 −18 °C 凍成小塊最實用。不過既然櫥櫃裡就有高湯粉，其實很少有理由去冷凍高湯，要用時一分鐘就能泡好。",
+  "thawing": "冷凍的高湯塊請放冷藏解凍，或直接丟進熱鍋。不要放室溫解凍。",
+  "spoilage": [
+   "顆粒結成敲不散的硬塊",
+   "聞起來有陳味或魚油走味的味道，而不是乾淨的燻香海味",
+   "高湯包受潮、變色或結塊",
+   "沖好的高湯發酸，或表面結了一層膜"
+  ],
+  "tips": [
+   "用乾燥的湯匙，取完立刻蓋緊；濕氣是頭號敵人。",
+   "遠離蒸氣來源——熱水壺、電鍋、爐台。",
+   "開封的濃縮高湯露要冷藏，並照瓶身指示使用。",
+   "偶爾才做日式料理的話，請買小罐。"
+  ],
+  "faq": [
+   {
+    "q": "日式高湯粉可以放多久？",
+    "a": "乾燥顆粒和未拆的高湯包密封放陰涼乾燥處，從購買日起算大約 12 個月。"
+   },
+   {
+    "q": "泡好的日式高湯可以放多久？",
+    "a": "加蓋冷藏在 4 °C 以下 3～4 天，和其他現成高湯一樣。"
+   },
+   {
+    "q": "濃縮高湯露要冰嗎？",
+    "a": "開封後要，並依廠商指示使用。瓶身標示的日期在開封後就不再適用。"
+   },
+   {
+    "q": "柴魚粉為什麼結成一塊？",
+    "a": "它從空氣中吸了水。請密封、遠離蒸氣，每次都用乾燥的湯匙。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "slug": "cooking-sake",
+ "en": {
+  "name": "Cooking sake",
+  "aliases": [
+   "ryorishu",
+   "salted cooking sake",
+   "ryori seishu",
+   "Japanese cooking rice wine"
+  ],
+  "summary": "Cooking sake sold as 料理酒 usually has salt added, which is what keeps it outside the liquor-tax system and on the seasoning shelf rather than the licensed one. Alcohol plus salt makes it self-preserving, so it lives in a cool dark cupboard, tightly capped. No agency publishes a home shelf life for it, so none is given here.",
+  "pantry": "The cupboard is the answer, and the rule is the answer rather than a number. Salted 料理酒 is a fermented seasoning with salt added, and alcohol plus salt means it does not spoil dangerously the way a low-alcohol liquid would. Keep it tightly capped, cool, dark and away from the cooker. Unsalted 料理清酒 is simply drinking sake used for cooking and is treated the same way, though it oxidises faster and is worth refrigerating for the sake of flavour.",
+  "fridge": "Refrigeration is not required for safety and no timeline is published for it. It is worth doing for flavour, particularly with unsalted 料理清酒, which loses its freshness faster than a salted bottle does — the aroma flattens and the taste turns sherry-like as it oxidises. A salted cooking sake holds up perfectly well in the cupboard. Whichever you keep, the cap matters more than the shelf.",
+  "freezer": "There is no freezer timeline for cooking sake and no reason to freeze it. Alcohol does not freeze solid at domestic freezer temperatures, and the salt and alcohol already preserve it. Freezer space is better spent on something perishable.",
+  "thawing": null,
+  "spoilage": [
+   "A flat, sherry-like or cardboard smell where there was a clean rice aroma",
+   "A noticeably darker, browner colour than when the bottle was opened",
+   "Cloudiness or sediment in a bottle that was previously clear",
+   "Mould around the neck or cap, usually in dried residue"
+  ],
+  "tips": [
+   "Cap it tightly after every use; air is what costs it flavour.",
+   "Keep it away from the hob — heat ages an opened bottle fastest.",
+   "Refrigerate unsalted 料理清酒 if you use it slowly.",
+   "Buy the size you cook through; a small bottle in good condition beats a big flat one."
+  ],
+  "faq": [
+   {
+    "q": "Does cooking sake need to be refrigerated?",
+    "a": "Not for safety. Salted 料理酒 keeps in a cool dark cupboard, tightly capped. Refrigerating unsalted 料理清酒 is worth it for flavour."
+   },
+   {
+    "q": "How long does cooking sake last?",
+    "a": "No agency publishes a home shelf life, so no number is given here. Keep it capped, cool and dark, and judge it by aroma and colour."
+   },
+   {
+    "q": "Why is cooking sake salted?",
+    "a": "Salt makes it a fermented seasoning rather than a drink, which keeps it off the licensed liquor shelf. It also helps it keep."
+   },
+   {
+    "q": "Can you drink cooking sake?",
+    "a": "Salted 料理酒 is made to season food, not to drink. Unsalted 料理清酒 is drinking sake and can be used either way."
+   }
+  ]
+ },
+ "zh": {
+  "name": "日式料理酒",
+  "aliases": [
+   "料理酒",
+   "料理清酒",
+   "加鹽料理酒",
+   "日本料理米酒"
+  ],
+  "summary": "標示為「料理酒」的日式料理酒通常有加鹽，這正是它得以不受酒稅規範、擺在調味料架而不是酒類專櫃的原因。酒精加上鹽讓它能自我保存，所以放在陰涼避光的櫥櫃、蓋緊即可。沒有機構公布它的家庭保存期限，因此這裡也不給數字。",
+  "pantry": "答案是櫥櫃，而且這個答案是規則而不是數字。加鹽的「料理酒」屬於加了鹽的發酵調味料，酒精加鹽代表它不會像低酒精液體那樣危險地腐敗。請蓋緊、陰涼、避光、遠離爐火。未加鹽的「料理清酒」其實就是可以喝的清酒拿來做菜，保存方式相同，只是氧化較快，為了風味值得冷藏。",
+  "fridge": "以安全而言不需要冷藏，也沒有公布的冷藏期限。但為了風味值得一冰，尤其是未加鹽的料理清酒——它比加鹽款更快走味，香氣會變扁、味道轉成像雪莉酒那樣的氧化味。加鹽的料理酒放櫥櫃完全沒問題。不管放哪裡，蓋子蓋緊比放在哪一層更重要。",
+  "freezer": "料理酒沒有冷凍期限，也沒有冷凍的理由。含酒精的液體在家用冷凍庫溫度下不會凍硬，而鹽和酒精本來就在保存它。冷凍庫的空間留給易腐食材比較划算。",
+  "thawing": null,
+  "spoilage": [
+   "原本乾淨的米香變成扁平的雪莉酒味或紙板味",
+   "顏色比剛開瓶時明顯變深、偏褐",
+   "原本清澈的瓶子變得混濁或出現沉澱",
+   "瓶口或瓶蓋的乾漬處長霉"
+  ],
+  "tips": [
+   "每次用完都蓋緊；讓它失去風味的是空氣。",
+   "遠離爐火——高溫是開封後老化最快的原因。",
+   "用得慢的未加鹽料理清酒請冷藏。",
+   "買你用得完的容量；一小瓶狀態好的勝過一大瓶走味的。"
+  ],
+  "faq": [
+   {
+    "q": "料理酒要冰嗎？",
+    "a": "以安全而言不用。加鹽料理酒蓋緊放陰涼避光的櫥櫃即可。未加鹽的料理清酒為了風味值得冷藏。"
+   },
+   {
+    "q": "料理酒可以放多久？",
+    "a": "沒有機構公布家庭保存期限，所以這裡不給數字。請蓋緊、陰涼避光存放，並用香氣和顏色判斷。"
+   },
+   {
+    "q": "料理酒為什麼要加鹽？",
+    "a": "加鹽讓它成為發酵調味料而不是酒類，因此不必放在酒類專櫃。鹽同時也有助於保存。"
+   },
+   {
+    "q": "料理酒可以直接喝嗎？",
+    "a": "加鹽的料理酒是設計來調味的，不是拿來喝的。未加鹽的料理清酒本來就是可飲用的清酒，兩種用途都行。"
+   }
+  ]
+ }
+}

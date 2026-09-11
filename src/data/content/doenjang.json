@@ -1,0 +1,91 @@
+{
+ "slug": "doenjang",
+ "en": {
+  "name": "Doenjang",
+  "aliases": [
+   "Korean soybean paste",
+   "Korean miso",
+   "fermented soybean paste",
+   "dwenjang"
+  ],
+  "summary": "Doenjang is Korea's salted, fermented soybean paste — deeper, coarser and funkier than most Japanese miso. An unopened tub keeps about 12–24 months in a cool dark cupboard. Once opened, refrigerate it and reckon on about 12 months, a figure taken from miso rather than published for doenjang.",
+  "pantry": "Unopened tubs keep to the printed date in a cool dark place, about 12–24 months from purchase. Salt and low water activity are what preserve it, which is why a sealed tub does not need cold. Traditional 된장 was kept for years in an earthenware jar outdoors at a much higher salt level; supermarket tubs are milder and less forgiving, so once the seal is broken the cupboard is no longer the right place.",
+  "fridge": "Refrigerate after opening at 4 °C (40 °F) or below and reckon on about 12 months — that figure comes from the miso line, since no agency publishes one for doenjang. Press the surface flat and keep the plastic disc or a sheet of cling film directly on it, and use a clean dry spoon only. Darkening and a stronger, more ammoniac aroma over time are normal ageing rather than spoilage. A white bloom on the surface is usually yeast and can be stirred in or scraped off; fuzzy coloured mould means the tub goes out.",
+  "freezer": "There is no freezer timeline for doenjang and no real need for one: it is salty enough to last a year in the fridge, which is longer than most households take to finish a tub. It will not freeze solid at domestic freezer temperatures because of the salt, so a tub in the freezer behaves much like a tub in the fridge, only less convenient. Use the space for something perishable.",
+  "thawing": null,
+  "spoilage": [
+   "Fuzzy or coloured mould — green, black or pink — on the surface",
+   "A rotten or solvent-like smell rather than a deep, salty, ammoniac one",
+   "The tub swelling, or gas escaping when opened",
+   "Liquid pooling with an unpleasant sour smell, as opposed to normal dark tamari-like seepage"
+  ],
+  "tips": [
+   "Keep the surface pressed flat and covered; air is what dries and darkens the top layer.",
+   "Use a clean dry spoon every time — never one that has been in the soup.",
+   "Write the opening date on the tub.",
+   "Buy the tub size that matches how often you make jjigae; a year passes quickly."
+  ],
+  "faq": [
+   {
+    "q": "Does doenjang need to be refrigerated?",
+    "a": "Unopened, no — about 12–24 months in a cool dark cupboard. After opening, yes: refrigerate at 4 °C or below for about 12 months."
+   },
+   {
+    "q": "Is the white film on top of my doenjang mould?",
+    "a": "Usually it is yeast, and it can be stirred in or scraped off. Fuzzy coloured mould is different and means discarding the tub."
+   },
+   {
+    "q": "Can you freeze doenjang?",
+    "a": "There is no timeline and no need. The salt keeps it for about a year refrigerated, and it will not freeze solid anyway."
+   },
+   {
+    "q": "Why has my doenjang gone darker?",
+    "a": "That is normal ageing. The colour deepens and the aroma gets stronger and more ammoniac over time without becoming unsafe."
+   }
+  ]
+ },
+ "zh": {
+  "name": "韓式大醬",
+  "aliases": [
+   "된장",
+   "韓式味噌",
+   "大醬",
+   "韓國黃豆醬"
+  ],
+  "summary": "韓式大醬是韓國的鹽漬發酵黃豆醬，比多數日式味噌更深沉、顆粒更粗、風味也更野。未開封的盒裝放在陰涼避光處大約 12～24 個月。開封後請冷藏，大約以 12 個月為準——這個數字取自味噌，不是專為大醬發表的。",
+  "pantry": "未開封的盒裝放在陰涼避光處，到標示日期為止，從購買日起算大約 12～24 個月。保存它的是鹽和低水活性，所以未拆封的盒裝不需要冷藏。傳統的된장是放在戶外陶甕裡、用高得多的鹽度存放好幾年；超市的盒裝鹽度較低、容錯率也低，所以封口一開，櫥櫃就不再適合。",
+  "fridge": "開封後請放 4 °C 以下冷藏，大約以 12 個月為準——這個數字來自味噌的資料，因為沒有機構為大醬公布過期限。請把表面壓平，讓附的塑膠片或保鮮膜直接貼著醬面，而且只用乾淨乾燥的湯匙。顏色隨時間變深、氣味變得更強烈甚至帶點氨味，都是正常的熟成而不是腐壞。表面的白色薄膜通常是酵母，可以拌進去或刮掉；但如果是有顏色的毛狀霉，整盒就要丟掉。",
+  "freezer": "大醬沒有冷凍期限，實際上也不需要：它夠鹹，冷藏就能放大約一年，比多數家庭用完一盒的時間還長。而且因為鹽分高，它在家用冷凍庫也不會真的凍硬，放冷凍其實和放冷藏差不多，只是更不方便。冷凍空間留給易腐食材比較好。",
+  "thawing": null,
+  "spoilage": [
+   "表面出現毛狀或有顏色的霉——綠色、黑色或粉紅色",
+   "聞起來是腐敗味或溶劑味，而不是深沉的鹹香帶氨味",
+   "盒子膨脹，或開蓋時有氣體跑出",
+   "積出的液體帶不舒服的酸敗味（正常滲出的深色醬汁則沒問題）"
+  ],
+  "tips": [
+   "醬面壓平並貼緊覆蓋；讓表層乾掉發黑的是空氣。",
+   "每次都用乾淨乾燥的湯匙——絕對不要用剛攪過湯的那支。",
+   "在盒子上寫開封日期。",
+   "依照做鍋物的頻率選盒子大小；一年過得很快。"
+  ],
+  "faq": [
+   {
+    "q": "韓式大醬要冰嗎？",
+    "a": "未開封不用，陰涼避光處大約 12～24 個月。開封後要，放 4 °C 以下冷藏大約 12 個月。"
+   },
+   {
+    "q": "大醬上面的白膜是霉嗎？",
+    "a": "通常是酵母，拌進去或刮掉都可以。有顏色的毛狀霉則不同，整盒要丟。"
+   },
+   {
+    "q": "大醬可以冷凍嗎？",
+    "a": "沒有對應期限，也沒有必要。鹽讓它冷藏就能放大約一年，而且它本來也凍不硬。"
+   },
+   {
+    "q": "大醬顏色變深了正常嗎？",
+    "a": "正常，那是熟成。顏色會加深、香氣會更強烈甚至帶氨味，但並不代表不安全。"
+   }
+  ]
+ }
+}

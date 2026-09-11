@@ -1,0 +1,91 @@
+{
+ "slug": "broth-homemade",
+ "en": {
+  "name": "Broth, homemade",
+  "aliases": [
+   "homemade stock",
+   "bone broth",
+   "home-made soup stock",
+   "kitchen stock"
+  ],
+  "summary": "Homemade broth is a low-acid, protein-rich liquid with nothing added to preserve it, which makes it one of the more perishable things a kitchen produces. Refrigerated it keeps 3–4 days. Frozen it holds about 2–3 months of good quality, and freezing is what makes a big batch worth making.",
+  "pantry": "Broth must never be stored at room temperature, and the most common mistake is leaving the stockpot on the stove to cool overnight. A deep pot of hot broth stays inside the 4–60 °C (40–140 °F) danger zone for hours. Get it out of that range fast: divide it into shallow containers, or sit the pot in a sink of iced water and stir. Then refrigerate or freeze it within two hours of cooking, one hour if the kitchen is above 32 °C (90 °F).",
+  "fridge": "Cooled and covered at 4 °C (40 °F) or below, homemade broth keeps 3–4 days. Leave the fat cap on if there is one — it seals the surface and lifts off cleanly when you want it. Store it in a container you can see into, and reheat only the portion you need, bringing it to a full rolling boil each time rather than warming it through. Reheating the whole batch repeatedly wastes its short life.",
+  "freezer": "Freezing is the point of making broth in quantity. Cool it first, then fill rigid containers or flat-laid bags at −18 °C (0 °F), leaving headspace because liquid expands, and expect about 2–3 months of good quality. Frozen food held at that temperature stays safe indefinitely; the limit is flavour. Freeze in the portions you actually cook with, and freeze a tray of cubes for the splash a pan sauce needs.",
+  "thawing": "Thaw broth in the fridge, or drop the frozen block straight into a hot pan. Never thaw it on the counter, and bring it to a rolling boil before using thawed broth.",
+  "spoilage": [
+   "A sour, sharp or fermented smell",
+   "Ropy or slimy strands when you stir it, or a stickiness on the spoon",
+   "Bubbles, fizzing or a lid that has domed up",
+   "Mould on the surface or on the fat cap"
+  ],
+  "tips": [
+   "Cool it fast in shallow containers, never overnight on the stove.",
+   "Label every container with the contents and the date.",
+   "Freeze cubes for pan sauces and larger portions for soups.",
+   "Reduce a batch before freezing to save space, and dilute it back when you use it."
+  ],
+  "faq": [
+   {
+    "q": "How long does homemade broth last in the fridge?",
+    "a": "3–4 days at 4 °C (40 °F) or below, cooled quickly and covered."
+   },
+   {
+    "q": "Can you freeze homemade broth?",
+    "a": "Yes, and you should. Cool it, portion it with headspace and freeze at −18 °C for about 2–3 months of good quality."
+   },
+   {
+    "q": "Can you leave broth on the stove to cool overnight?",
+    "a": "No. A deep pot stays in the danger zone for hours. Cool it in shallow containers or an ice bath and refrigerate within two hours."
+   },
+   {
+    "q": "Does boiling old broth make it safe again?",
+    "a": "No. Boiling kills bacteria but does not remove the toxins some of them leave behind. If it smells sour or looks ropy, discard it."
+   }
+  ]
+ },
+ "zh": {
+  "name": "自製高湯",
+  "aliases": [
+   "自熬高湯",
+   "大骨湯",
+   "雞高湯（自製）",
+   "湯底"
+  ],
+  "summary": "自製高湯是低酸、富含蛋白質的液體，而且沒有任何防腐成分，是廚房裡最容易變質的產物之一。冷藏 3～4 天。冷凍風味大約可維持 2～3 個月——而冷凍正是「一次熬一大鍋」值得的理由。",
+  "pantry": "高湯絕對不能放室溫，最常見的錯誤就是把湯鍋留在爐上放涼過夜。一深鍋熱湯會在 4～60 °C 的危險溫度帶裡停留好幾個小時。請快速讓它離開這個區間：分裝到淺容器，或把鍋子坐在裝冰水的水槽裡並持續攪拌。然後在煮好後兩小時內冷藏或冷凍，廚房超過 32 °C 時縮短為一小時。",
+  "fridge": "放涼加蓋後放 4 °C 以下，自製高湯可放 3～4 天。表面如果有一層凝固的油脂，就留著——它會封住表面，要用時整片掀掉很乾淨。裝在看得見內容物的容器裡，每次只加熱要用的份量，而且每次都要煮到大滾，不要只是溫熱。整鍋反覆加熱只會浪費它本來就很短的壽命。",
+  "freezer": "冷凍才是熬一大鍋高湯的意義所在。先放涼，再裝進硬質容器或平放的密封袋放 −18 °C，記得留膨脹空間，風味大約可維持 2～3 個月。食物在這個溫度下安全性可以無限期維持，限制的是風味。請按實際下廚會用到的份量分裝，另外凍一盤高湯冰塊，做鍋底醬時只需要一點點。",
+  "thawing": "高湯請放冷藏解凍，或直接把凍塊丟進熱鍋。絕對不要放室溫解凍，解凍後使用前要煮到大滾。",
+  "spoilage": [
+   "聞起來發酸、刺鼻或有發酵味",
+   "攪動時出現絲狀或黏稠感，湯匙上黏黏的",
+   "冒泡、有氣體，或蓋子鼓起",
+   "湯面或油脂層上長霉"
+  ],
+  "tips": [
+   "用淺容器快速降溫，絕對不要留在爐上過夜。",
+   "每個容器都標示內容物和日期。",
+   "小份凍成冰塊做醬汁，大份分裝煮湯。",
+   "冷凍前先收乾一點可以省空間，使用時再加水稀釋回來。"
+  ],
+  "faq": [
+   {
+    "q": "自製高湯放冰箱可以放多久？",
+    "a": "快速放涼、加蓋後放 4 °C 以下，可放 3～4 天。"
+   },
+   {
+    "q": "自製高湯可以冷凍嗎？",
+    "a": "可以，而且很推薦。放涼、留膨脹空間分裝後放 −18 °C，風味大約可維持 2～3 個月。"
+   },
+   {
+    "q": "高湯可以留在爐上放涼過夜嗎？",
+    "a": "不行。深鍋會在危險溫度帶停留好幾個小時。請用淺容器或冰水浴降溫，並在兩小時內冷藏。"
+   },
+   {
+    "q": "放太久的高湯再煮沸就沒問題了嗎？",
+    "a": "不是。煮沸能殺死細菌，但無法去除某些細菌留下的毒素。聞起來發酸或變得黏稠就要丟掉。"
+   }
+  ]
+ }
+}
