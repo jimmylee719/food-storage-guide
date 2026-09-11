@@ -1,0 +1,428 @@
+[
+ {
+  "slug": "sour-cream-fresh",
+  "category": "dairy-eggs",
+  "source": "curated",
+  "sourceId": null,
+  "name": "Sour cream",
+  "subtitle": "cultured, refrigerated tub",
+  "keywords": [
+   "sour cream",
+   "cultured cream",
+   "soured cream",
+   "酸奶油",
+   "酸乳酪",
+   "酸忌廉",
+   "發酵酸奶油",
+   "サワークリーム",
+   "サワークリーム(発酵クリーム)",
+   "crema agria",
+   "nata agria"
+  ],
+  "storage": {
+   "fridge": {
+    "base": {
+     "min": 2,
+     "max": 2,
+     "unit": "weeks",
+     "tips": "Keep tightly covered at 4C or below, and never on the fridge door. Spoon it out with a clean spoon - a spoon that has been in the soup is what turns a tub mouldy early. Follow the printed date if it falls sooner."
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": null,
+     "max": null,
+     "tips": "Do not freeze. Freezing makes sour cream separate and it will not blend back together acceptably; it can still be stirred into a cooked sauce, but it is ruined as a topping."
+    }
+   }
+  },
+  "sources": [
+   {
+    "name": "Ohio State University Extension (Ohioline) - Refrigerator Storage, HYG-5403",
+    "url": "https://ohioline.osu.edu/factsheet/HYG-5403"
+   },
+   {
+    "name": "National Center for Home Food Preservation - Freezing Sour Cream",
+    "url": "https://nchfp.uga.edu/how/freeze/dairy-products/freezing-sour-cream/"
+   }
+  ],
+  "analog": null,
+  "notes": "Supersedes the FoodKeeper record 'sour-cream', which arrived with an empty storage object and shows a reader nothing at all. The two-week refrigerated figure is Ohioline's, whose table row reads 'Commercial dips, such as sour cream - 2 weeks - Keep tightly covered'; the same page tells you to keep the refrigerator below 41F (5C). NCHFP is cited for the freezer advice: sour cream should not be frozen because it separates and will not blend back together acceptably.",
+  "supersedes": [
+   "sour-cream"
+  ]
+ },
+ {
+  "slug": "apple-cider-vinegar-bottled",
+  "category": "condiments-sauces",
+  "source": "curated",
+  "sourceId": null,
+  "name": "Apple cider vinegar",
+  "subtitle": "bottled, filtered or unfiltered",
+  "keywords": [
+   "apple cider vinegar",
+   "cider vinegar",
+   "ACV",
+   "raw vinegar",
+   "vinegar mother",
+   "蘋果醋",
+   "蘋果酒醋",
+   "蘋果西打醋",
+   "醋",
+   "果醋",
+   "醋母",
+   "りんご酢",
+   "アップルビネガー",
+   "リンゴ酢",
+   "酢",
+   "vinagre de manzana",
+   "vinagre de sidra de manzana"
+  ],
+  "storage": {
+   "pantry": {
+    "base": {
+     "min": null,
+     "max": null,
+     "tips": "No fixed shelf life. Vinegar preserves itself at its own acidity, so a capped bottle in a cool, dark cupboard keeps almost indefinitely - the printed date is about flavour, not safety. Cloudiness, sediment, or a gelatinous 'mother' forming in an unfiltered bottle is normal and harmless; strain it out or ignore it. Keep it tightly closed and out of sunlight, and never decant it into a bare metal container."
+    }
+   }
+  },
+  "sources": [
+   {
+    "name": "Ohio State University Extension (Ohioline) - Pantry Food Storage, HYG-5401",
+    "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+   },
+   {
+    "name": "UK Government - Food labelling: giving food information to consumers",
+    "url": "https://www.gov.uk/guidance/food-labelling-giving-food-information-to-consumers"
+   }
+  ],
+  "analog": null,
+  "notes": "Supersedes the empty FoodKeeper record 'apple-cider-vinegar'. Deliberately carries no number, because the honest answer here is a rule. Ohioline states that 'Vinegars have a long-lasting shelf life; they may be kept in a cool, dark place almost indefinitely' and that a 'slightly cloudy appearance doesn't affect quality', adding that distilled vinegar keeps longer than cider vinegar. The same page's quality guide, for anyone who wants a figure, is 2 years unopened and 12 months opened - a flavour window, not a safety limit. UK government labelling guidance lists vinegar among the foods that need no 'best before' or 'use by' date at all, which is the regulator saying the same thing.",
+  "supersedes": [
+   "apple-cider-vinegar"
+  ]
+ },
+ {
+  "slug": "capers-in-brine",
+  "category": "condiments-sauces",
+  "source": "curated",
+  "sourceId": null,
+  "name": "Capers",
+  "subtitle": "in brine or vinegar, jar",
+  "keywords": [
+   "capers",
+   "caper",
+   "capers in brine",
+   "caperberries",
+   "酸豆",
+   "續隨子",
+   "刺山柑",
+   "醃酸豆",
+   "鹽漬酸豆",
+   "馬檳榔",
+   "ケッパー",
+   "ケーパー",
+   "ケイパー",
+   "alcaparras",
+   "alcaparra",
+   "alcaparrones"
+  ],
+  "storage": {
+   "pantry": {
+    "base": {
+     "min": 12,
+     "max": 12,
+     "unit": "months",
+     "tips": "An unopened jar keeps in a cool, dark cupboard; go by the printed date if it is shorter."
+    }
+   },
+   "fridge": {
+    "afterOpening": {
+     "min": 1,
+     "max": 2,
+     "unit": "months",
+     "tips": "Refrigerate once opened and keep the capers submerged in their brine - any that sit proud of the liquid dry out and go mouldy first. Use a clean fork, never your fingers, and top the jar up with brine rather than water."
+    }
+   }
+  },
+  "sources": [
+   {
+    "name": "Ohio State University Extension (Ohioline) - Pantry Food Storage, HYG-5401",
+    "url": "https://ohioline.osu.edu/factsheet/HYG-5401"
+   }
+  ],
+  "analog": null,
+  "notes": "Supersedes the empty FoodKeeper record 'capers-jar'. No source publishes a figure for capers by name. The numbers are Ohioline's rows for the same class of food: 'Canned foods (unopened) - 12 months - Keep cool' and 'Canned pickles, olives (opened) - 1 to 2 months', under that table's instruction that all opened canned foods be refrigerated and covered tightly. Capers are a brined, acidified bud sold in the same kind of jar as those two, which is why that line is the right one to borrow.",
+  "supersedes": [
+   "capers-jar"
+  ]
+ },
+ {
+  "slug": "cooking-wine-bottled",
+  "category": "condiments-sauces",
+  "source": "curated",
+  "sourceId": null,
+  "name": "Cooking wine",
+  "subtitle": "bottled rice or grape cooking wine, including salted",
+  "keywords": [
+   "cooking wine",
+   "rice cooking wine",
+   "shaoxing wine",
+   "salted cooking wine",
+   "料理米酒",
+   "米酒",
+   "料理酒",
+   "紹興酒",
+   "烹飪酒",
+   "調理酒",
+   "加鹽料理酒",
+   "料理用ワイン",
+   "vino para cocinar",
+   "vino de cocina"
+  ],
+  "storage": {
+   "pantry": {
+    "base": {
+     "min": null,
+     "max": null,
+     "tips": "No fixed shelf life. At 10% alcohol or more a cooking wine is not a food that spoils dangerously; keep it capped in a cool, dark cupboard, away from the hob. What you lose after opening is aroma - an opened bottle goes flat and sherry-like over months as it oxidises, and a salted cooking wine holds up longer than a plain one. Refrigeration is not needed and will not stop the oxidation."
+    }
+   }
+  },
+  "sources": [
+   {
+    "name": "UK Government - Food labelling: giving food information to consumers",
+    "url": "https://www.gov.uk/guidance/food-labelling-giving-food-information-to-consumers"
+   }
+  ],
+  "analog": null,
+  "notes": "Supersedes the empty FoodKeeper record 'cooking-wine'. No agency publishes a storage time for cooking wine, so this record gives the rule rather than inventing a number. UK government labelling guidance lists 'drinks containing 10% or more alcohol by volume', along with wines and drinks made from fermented grapes, among the foods that need no 'best before' or 'use by' date - which covers Taiwanese 料理米酒 at around 19.5% and most bottled cooking wines. Note that a table wine you happen to be cooking with is a different case: FoodKeeper gives opened red and white wine 1 to 3 days refrigerated, because it is being judged as a drink.",
+  "supersedes": [
+   "cooking-wine"
+  ]
+ },
+ {
+  "slug": "spirits-distilled",
+  "category": "beverages",
+  "source": "curated",
+  "sourceId": null,
+  "name": "Spirits",
+  "subtitle": "whisky, vodka, gin, rum and other distilled liquor",
+  "keywords": [
+   "spirits",
+   "distilled spirits",
+   "hard liquor",
+   "whisky",
+   "whiskey",
+   "vodka",
+   "gin",
+   "rum",
+   "brandy",
+   "tequila",
+   "烈酒",
+   "蒸餾酒",
+   "威士忌",
+   "伏特加",
+   "琴酒",
+   "蘭姆酒",
+   "白蘭地",
+   "高粱酒",
+   "蒸留酒",
+   "ウイスキー",
+   "ウォッカ",
+   "ジン",
+   "ラム酒",
+   "licores destilados",
+   "aguardiente",
+   "bebidas espirituosas"
+  ],
+  "storage": {
+   "pantry": {
+    "base": {
+     "min": null,
+     "max": null,
+     "tips": "Does not spoil. At 40% alcohol there is nothing for a microbe to live on and effectively no available water, so an unopened bottle stored upright in a cool, dark cupboard keeps indefinitely. Store upright: unlike wine, a high-proof spirit lying on a cork will eat it. An opened bottle only fades - once it is below about a third full, oxygen in the headspace dulls the aroma over a year or so, which is a quality loss, not a safety one. Cream liqueurs are the exception and are not covered here; they contain dairy and carry a real date."
+    }
+   }
+  },
+  "sources": [
+   {
+    "name": "UK Government - Food labelling: giving food information to consumers",
+    "url": "https://www.gov.uk/guidance/food-labelling-giving-food-information-to-consumers"
+   }
+  ],
+  "analog": null,
+  "notes": "Supersedes the empty FoodKeeper record 'hard-liquors'. Deliberately carries no number. The one citation supports the central claim: UK government labelling guidance lists 'drinks containing 10% or more alcohol by volume' among the foods that need no 'best before' or 'use by' date - the regulator's way of saying a spirit does not go off. The storage advice about upright bottles and headspace oxidation is general practice, not a figure from that page. FoodKeeper keeps a separate record for unopened cream liquors, which do have a shelf life because of the dairy in them.",
+  "supersedes": [
+   "hard-liquors"
+  ]
+ },
+ {
+  "slug": "table-salt",
+  "category": "herbs-spices",
+  "source": "curated",
+  "sourceId": null,
+  "name": "Table salt",
+  "subtitle": "plain or iodised",
+  "keywords": [
+   "table salt",
+   "salt",
+   "iodised salt",
+   "iodized salt",
+   "cooking salt",
+   "sea salt",
+   "食鹽",
+   "食用鹽",
+   "精鹽",
+   "碘鹽",
+   "加碘鹽",
+   "鹽巴",
+   "海鹽",
+   "食塩",
+   "塩",
+   "ヨウ素添加塩",
+   "食卓塩",
+   "sal de mesa",
+   "sal yodada",
+   "sal común"
+  ],
+  "storage": {
+   "pantry": {
+    "base": {
+     "min": null,
+     "max": null,
+     "tips": "Does not spoil. Salt is what other foods are preserved with: dry salt holds essentially no water a microbe could use, so it keeps indefinitely in a closed container in a dry cupboard. Caking in humid weather is a nuisance, not a fault - break it up, or keep a few grains of rice in the shaker. Store it away from the steam of the hob and the sink. The iodine in iodised salt does slowly fade with heat, light and moisture, so a tightly closed opaque container is worth using, and a box opened years ago is best treated as plain salt."
+    }
+   }
+  },
+  "sources": [
+   {
+    "name": "UK Government - Food labelling: giving food information to consumers",
+    "url": "https://www.gov.uk/guidance/food-labelling-giving-food-information-to-consumers"
+   },
+   {
+    "name": "US FDA - Water Activity (aw) in Foods, Inspection Technical Guide",
+    "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspection-technical-guides/water-activity-aw-foods"
+   }
+  ],
+  "analog": null,
+  "notes": "Supersedes the empty FoodKeeper record 'salt-table-plain-iodized'. No number is given because there is no honest one to give. UK government labelling guidance lists 'cooking salt' among the foods that need no 'best before' or 'use by' date. The FDA's water-activity guide explains the mechanism: water activity in foods 'is usually controlled by the use of salt or sugar', C. botulinum needs a water activity of roughly 0.93 to grow, and a finished product held at 0.85 or below falls outside the low-acid canned food regulations entirely. Dry salt sits far below any of that. Caking and the slow loss of added iodine are quality matters; neither makes salt unsafe.",
+  "supersedes": [
+   "salt-table-plain-iodized"
+  ]
+ },
+ {
+  "slug": "refrigerated-dough-tube",
+  "category": "baked-goods",
+  "source": "curated",
+  "sourceId": null,
+  "name": "Refrigerated dough in a tube",
+  "subtitle": "biscuits, rolls, cinnamon rolls and pizza dough",
+  "keywords": [
+   "refrigerated dough",
+   "tube dough",
+   "canned dough",
+   "refrigerated biscuits",
+   "biscuit dough",
+   "crescent roll dough",
+   "cinnamon roll dough",
+   "refrigerated pizza dough",
+   "冷藏生麵團",
+   "罐裝麵團",
+   "冷藏餅乾麵團",
+   "冷藏麵包麵團",
+   "肉桂捲麵團",
+   "披薩麵團",
+   "冷藏派皮",
+   "冷蔵生地",
+   "筒入り生地",
+   "シナモンロール生地",
+   "ピザ生地",
+   "masa refrigerada en tubo",
+   "masa para bisquets",
+   "masa de pizza refrigerada"
+  ],
+  "storage": {
+   "fridge": {
+    "base": {
+     "min": null,
+     "max": null,
+     "tips": "Go by the use-by date printed on the tube - that is the whole answer, and it is the one figure the manufacturer can give you. Keep the tube refrigerated the entire time, including the trip home: this is a raw, chemically leavened wet dough, not a shelf-stable can. Once it is opened, bake the lot the same day; a part-used tube cannot be resealed. Past the date the usual failure is a flat, heavy bake, because the leavening dies long before anything dangerous happens - but raw dough also means raw flour, so do not taste it."
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": null,
+     "max": null,
+     "tips": "Do not freeze the sealed tube - it can burst, and freezing kills the leavening so the dough bakes flat. Bake it first and freeze the finished rolls instead."
+    }
+   }
+  },
+  "sources": [
+   {
+    "name": "Ohio State University Extension (Ohioline) - Refrigerator Storage, HYG-5403",
+    "url": "https://ohioline.osu.edu/factsheet/HYG-5403"
+   }
+  ],
+  "analog": null,
+  "notes": "One record superseding three empty FoodKeeper records - 'biscuits-refrigerated', 'cinnamon-rolls-unbaked-tube' and 'tube-cans-biscuits-rolls-pizza-dough' - because all three are the same product in the same packaging and behave identically; three separate stubs helped nobody. Ohioline's refrigerator table gives exactly this answer for 'Refrigerated biscuits, rolls, pastries, cookie dough': 'Use by date on label', on a page that also tells you to keep the refrigerator below 41F (5C). No day count is offered here because no agency publishes one - the date on the tube is the number. The freezing and raw-flour advice is general practice, not a figure from that page.",
+  "supersedes": [
+   "biscuits-refrigerated",
+   "cinnamon-rolls-unbaked-tube",
+   "tube-cans-biscuits-rolls-pizza-dough"
+  ]
+ },
+ {
+  "slug": "nutrition-drinks-bottled",
+  "category": "beverages",
+  "source": "curated",
+  "sourceId": null,
+  "name": "Nutrition supplement drinks",
+  "subtitle": "bottled, shelf-stable",
+  "keywords": [
+   "nutrition supplement drink",
+   "nutritional drink",
+   "meal replacement drink",
+   "oral nutritional supplement",
+   "ensure",
+   "營養補充飲品",
+   "營養補充飲料",
+   "營養品",
+   "管灌配方",
+   "均衡營養配方",
+   "安素",
+   "亞培安素",
+   "栄養補助飲料",
+   "栄養機能飲料",
+   "経腸栄養剤",
+   "bebida nutricional",
+   "suplemento nutricional líquido",
+   "batido sustitutivo"
+  ],
+  "storage": {
+   "pantry": {
+    "base": {
+     "min": 2,
+     "max": 5,
+     "unit": "years",
+     "tips": "Unopened bottles keep in a cool, dark cupboard - go by the printed date, and treat the long end of this range as optimistic for a plastic bottle, which lets in more oxygen than a can. Do not use a bottle that is swollen, leaking or cloudy."
+    }
+   },
+   "fridge": {
+    "afterOpening": {
+     "min": 2,
+     "max": 2,
+     "unit": "days",
+     "tips": "Once opened this is essentially milk: cap it, refrigerate it at 4C or below and finish it within two days. Drink from a glass rather than the bottle if you are not finishing it, and never leave an opened bottle standing at room temperature - these drinks are often given to the elderly, the ill and the tube-fed, the people least able to shrug off a mistake."
+    }
+   }
+  },
+  "sources": [],
+  "analog": "nutrition-supplement-drinks-canned",
+  "notes": "Supersedes the empty FoodKeeper record 'nutrition-supplement-drinks-bottled'. No published figure exists for the bottled form, so both numbers are borrowed from its canned sibling in FoodKeeper ('nutrition-supplement-drinks-canned': 2 to 5 years unopened in the pantry, 2 days refrigerated after opening) - the same UHT-sterilised product in different packaging. They are an analogue, not a sourced figure. A bottle is a poorer oxygen barrier than a can, which is why the printed date should win over the upper figure here.",
+  "supersedes": [
+   "nutrition-supplement-drinks-bottled"
+  ]
+ }
+]

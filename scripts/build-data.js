@@ -23,6 +23,10 @@ const extra = fs.existsSync(extraDir)
 // foods generated in scripts/split-combined.js.
 const split = readJson(D('base', 'split.json'), []);
 const replaced = new Set(readJson(D('base', 'split-replaces.json'), []));
+// A curated record may also replace a FoodKeeper record that arrived with no
+// storage data at all. Leaving the stub in place would publish the same food
+// twice, once with nothing to say.
+for (const e of extra) for (const s of e.supersedes || []) replaced.add(s);
 const all = [...base.filter((f) => !replaced.has(f.slug)), ...split, ...extra];
 
 const contentDir = D('content');

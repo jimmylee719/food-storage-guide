@@ -83,6 +83,13 @@ for (const item of extra) {
       if (!s || !s.name || !/^https?:\/\//.test(s.url || '')) err(slug, `bad source entry: ${JSON.stringify(s)}`);
     }
   }
+  if (item.supersedes !== undefined) {
+    if (!Array.isArray(item.supersedes) || !item.supersedes.length) err(slug, 'supersedes must be a non-empty array');
+    else for (const s of item.supersedes) {
+      if (!taken.has(s)) err(slug, `supersedes "${s}" is not a known food slug`);
+      if (!item.notes) err(slug, 'a superseding record must explain itself in notes');
+    }
+  }
   if (item.analog) {
     if (!taken.has(item.analog)) err(slug, `analog "${item.analog}" is not a known food slug`);
     if (!item.notes) err(slug, 'an analog must be explained in notes');
