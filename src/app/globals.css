@@ -294,7 +294,9 @@ details.faq-item .faq-answer { padding: 0 16px 14px; color: var(--muted); font-s
   margin-bottom: 22px;
   text-shadow: 0 1px 12px rgba(0, 0, 0, .5);
 }
-.hero-banner .search { max-width: 720px; }
+/* Full width, matching the index page. A search bar is the product here, and a
+   short one reads as a secondary control. */
+.hero-banner .search { max-width: none; }
 .hero-banner .hero-points li {
   color: rgba(255, 255, 255, .92);
   text-shadow: 0 1px 10px rgba(0, 0, 0, .5);
