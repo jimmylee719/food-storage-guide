@@ -1,0 +1,1330 @@
+[
+  {
+    "slug": "pacific-saury",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Pacific saury",
+    "subtitle": "whole, fresh",
+    "keywords": [
+      "pacific saury",
+      "saury",
+      "sanma",
+      "秋刀魚",
+      "竹刀魚",
+      "さんま",
+      "サンマ",
+      "paparda del Pacífico",
+      "sauro"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Gut it the day you buy it and hold it at 4C or below; histamine-producing bacteria sit in the gills and guts."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "An oily fish, so the freezer limit is quality rather than safety - the fat turns rancid before anything else goes wrong."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA - Refrigerator & Freezer Storage Chart",
+        "url": "https://www.fda.gov/media/74435/download"
+      },
+      {
+        "name": "Japan 厚生労働省 - ヒスタミンによる食中毒について",
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000130677.html"
+      }
+    ],
+    "analog": null,
+    "notes": "Times are the FDA chart's fatty-fish figures (1-2 days refrigerated, 2-3 months frozen). Japan's MHLW names サンマ among the histidine-rich fish behind histamine (scombroid) poisoning, and tells shoppers not to leave the fish at room temperature and to remove gills and viscera as soon as possible after buying. Histamine is heat-stable: once formed, cooking, canning and freezing will not remove it."
+  },
+  {
+    "slug": "horse-mackerel",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Horse mackerel",
+    "subtitle": "aji / jack mackerel, whole fresh",
+    "keywords": [
+      "horse mackerel",
+      "jack mackerel",
+      "aji",
+      "scad",
+      "竹筴魚",
+      "竹莢魚",
+      "巴攏",
+      "瓜仔魚",
+      "あじ",
+      "アジ",
+      "真あじ",
+      "jurel",
+      "chicharro"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Chill to 4C or below immediately and remove the gills and guts on the day of purchase."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Freeze as fillets, skin on and tightly wrapped - the dark flesh oxidises fast."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA - Refrigerator & Freezer Storage Chart",
+        "url": "https://www.fda.gov/media/74435/download"
+      },
+      {
+        "name": "Japan 厚生労働省 - ヒスタミンによる食中毒について",
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000130677.html"
+      }
+    ],
+    "analog": null,
+    "notes": "Fatty-fish times from the FDA chart. MHLW lists アジ as one of the histidine-rich species behind histamine (scombroid) food poisoning; a fish that has been warm can carry enough histamine to make you ill with no smell or slime to warn you."
+  },
+  {
+    "slug": "yellowtail-buri",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Yellowtail",
+    "subtitle": "buri / hamachi, fresh fillet or steak",
+    "keywords": [
+      "yellowtail",
+      "buri",
+      "hamachi",
+      "japanese amberjack",
+      "鰤魚",
+      "青甘",
+      "青魽",
+      "紅甘",
+      "ぶり",
+      "ブリ",
+      "はまち",
+      "ハマチ",
+      "seriola",
+      "medregal"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Keep the fillet on a rack over ice in the coldest part of the fridge, at 4C or below."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Freeze in portions; the belly cut is the fattiest and is the first to taste stale."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA - Refrigerator & Freezer Storage Chart",
+        "url": "https://www.fda.gov/media/74435/download"
+      },
+      {
+        "name": "Japan 厚生労働省 - ヒスタミンによる食中毒について",
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000130677.html"
+      }
+    ],
+    "analog": null,
+    "notes": "Fatty-fish times from the FDA chart. MHLW names ブリ among the histidine-rich species linked to histamine poisoning, so temperature control matters more here than for a white fish."
+  },
+  {
+    "slug": "largehead-hairtail",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Hairtail",
+    "subtitle": "cutlassfish / beltfish, fresh sections",
+    "keywords": [
+      "hairtail",
+      "largehead hairtail",
+      "cutlassfish",
+      "beltfish",
+      "ribbonfish",
+      "白帶魚",
+      "帶魚",
+      "たちうお",
+      "タチウオ",
+      "太刀魚",
+      "pez sable",
+      "pez cinto"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Buy it already cut into sections and gutted, and hold it at 4C or below."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "The silver guanine layer on the skin flakes off with handling; freeze the sections in a single layer."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA - Refrigerator & Freezer Storage Chart",
+        "url": "https://www.fda.gov/media/74435/download"
+      },
+      {
+        "name": "Hong Kong CFS - Histamine in Fish and Fish Products",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_150_02.html"
+      }
+    ],
+    "analog": null,
+    "notes": "Fatty-fish times from the FDA chart. The CFS histamine page is cited for the rule, not for hairtail by name: it names mackerel, sardine, tuna and anchovy, and says chilled fish should be kept at or below 4C along the supply chain and chilled rapidly after purchase. Hairtail is an oily, dark-fleshed fish often displayed at ambient temperature in Taiwanese markets, so the same rapid-chilling rule is the one to follow."
+  },
+  {
+    "slug": "milkfish",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Milkfish",
+    "subtitle": "fresh belly, fillet or whole",
+    "keywords": [
+      "milkfish",
+      "bangus",
+      "虱目魚",
+      "虱目魚肚",
+      "麻虱目",
+      "安平魚",
+      "サバヒー",
+      "ミルクフィッシュ",
+      "chanos",
+      "pez lechero"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Belly cuts are the fattiest part and spoil first; keep at 4C or below and cook within two days."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Vacuum-packed belly freezes well; press out the air or the fat picks up freezer taint."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA - Refrigerator & Freezer Storage Chart",
+        "url": "https://www.fda.gov/media/74435/download"
+      }
+    ],
+    "analog": null,
+    "notes": "Milkfish is an oily fish, so the FDA chart's fatty-fish line (1-2 days refrigerated, 2-3 months frozen) is the one that applies. Deboned belly sold on ice in a traditional market has already spent time near the top of the chill range - treat two days as a maximum, not a target."
+  },
+  {
+    "slug": "tilapia",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Tilapia",
+    "subtitle": "Taiwan tilapia, fresh fillet or whole",
+    "keywords": [
+      "tilapia",
+      "taiwan tilapia",
+      "st peters fish",
+      "吳郭魚",
+      "台灣鯛",
+      "臺灣鯛",
+      "南洋鯽仔",
+      "ティラピア",
+      "テラピア",
+      "イズミダイ",
+      "mojarra"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "A lean white fish; keep it dry on a rack over ice at 4C or below."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 8,
+          "unit": "months",
+          "tips": "Lean flesh freezes better than oily fish - glaze the fillets with a thin film of water before bagging."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA - Refrigerator & Freezer Storage Chart",
+        "url": "https://www.fda.gov/media/74435/download"
+      }
+    ],
+    "analog": null,
+    "notes": "Lean-fish times from the FDA chart (1-2 days refrigerated, 6-8 months frozen)."
+  },
+  {
+    "slug": "asian-sea-bass",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sea bass",
+    "subtitle": "barramundi / Asian sea bass, fresh",
+    "keywords": [
+      "sea bass",
+      "asian sea bass",
+      "barramundi",
+      "giant perch",
+      "鱸魚",
+      "金目鱸",
+      "七星鱸",
+      "加州鱸",
+      "スズキ",
+      "すずき",
+      "アカメ",
+      "róbalo",
+      "perca gigante"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Keep whole fish gutted and on ice at 4C or below; fillets go slack and weep sooner."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 8,
+          "unit": "months",
+          "tips": "Lean flesh; wrap tightly and use within the quality window."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA - Refrigerator & Freezer Storage Chart",
+        "url": "https://www.fda.gov/media/74435/download"
+      }
+    ],
+    "analog": null,
+    "notes": "Lean-fish times from the FDA chart. In Taiwan this is mostly a soup and steaming fish bought live and killed at the stall - the clock starts then, not at the time printed on any label."
+  },
+  {
+    "slug": "red-seabream",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sea bream",
+    "subtitle": "madai / red seabream, fresh",
+    "keywords": [
+      "sea bream",
+      "red seabream",
+      "madai",
+      "porgy",
+      "真鯛",
+      "嘉鱲",
+      "赤鯮",
+      "鯛魚",
+      "たい",
+      "タイ",
+      "まだい",
+      "マダイ",
+      "besugo",
+      "dorada"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Scale and gut before chilling; hold at 4C or below and eat it raw only on the day it is cut."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 8,
+          "unit": "months",
+          "tips": "Freezing costs the firm texture prized for sashimi - freeze only fish you plan to cook."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA - Refrigerator & Freezer Storage Chart",
+        "url": "https://www.fda.gov/media/74435/download"
+      }
+    ],
+    "analog": null,
+    "notes": "Lean-fish times from the FDA chart."
+  },
+  {
+    "slug": "japanese-eel",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Eel",
+    "subtitle": "fresh or live freshwater eel, raw",
+    "keywords": [
+      "eel",
+      "japanese eel",
+      "unagi",
+      "freshwater eel",
+      "鰻魚",
+      "白鰻",
+      "日本鰻",
+      "鱸鰻",
+      "うなぎ",
+      "ウナギ",
+      "鰻",
+      "生うなぎ",
+      "anguila",
+      "anguila japonesa"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Have the fishmonger kill and clean it; hold at 4C or below. Raw eel blood contains a heat-labile toxin, so eel is always cooked, never eaten raw."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "A very oily fish - wrap in two layers and use well inside the quality window."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA - Refrigerator & Freezer Storage Chart",
+        "url": "https://www.fda.gov/media/74435/download"
+      }
+    ],
+    "analog": null,
+    "notes": "Fatty-fish times from the FDA chart (1-2 days refrigerated, 2-3 months frozen). Eel is one of the fattiest fish sold, so treat the frozen figure as the short end."
+  },
+  {
+    "slug": "unagi-kabayaki",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Grilled eel",
+    "subtitle": "kabayaki, cooked and sauced, chilled or frozen pack",
+    "keywords": [
+      "unagi kabayaki",
+      "grilled eel",
+      "broiled eel",
+      "蒲燒鰻",
+      "蒲燒鰻魚",
+      "烤鰻魚",
+      "鰻魚飯",
+      "うなぎの蒲焼",
+      "蒲焼",
+      "かばやき",
+      "anguila a la parrilla",
+      "anguila kabayaki"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "Once the vacuum pack is opened it is simply cooked fish - eat it within a few days. An unopened pack goes by its own printed date."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freeze in the unopened pack; reheat from frozen in the bag in hot water so the glaze does not scorch."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "cooked-fish-all",
+    "notes": "No published figure for sauced grilled eel, so the numbers are the FoodKeeper timeline for cooked fish (cooked-fish-all). Commercially vacuum-packed kabayaki carries a longer printed date that reflects the pack, not the fish - follow the printed date while the pack is sealed, and these numbers once it is open."
+  },
+  {
+    "slug": "conger-eel-anago",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Conger eel",
+    "subtitle": "anago, fresh saltwater eel",
+    "keywords": [
+      "conger eel",
+      "anago",
+      "whitespotted conger",
+      "saltwater eel",
+      "穴子",
+      "星鰻",
+      "海鰻",
+      "糯米鰻",
+      "あなご",
+      "アナゴ",
+      "congrio",
+      "anguila de mar"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Sold cleaned and split; keep at 4C or below and cook it - conger blood carries the same heat-labile toxin as freshwater eel."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 8,
+          "unit": "months",
+          "tips": "Leaner and whiter than freshwater eel, so it keeps longer frozen."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA - Refrigerator & Freezer Storage Chart",
+        "url": "https://www.fda.gov/media/74435/download"
+      }
+    ],
+    "analog": null,
+    "notes": "Lean-fish times from the FDA chart. Conger is much leaner than unagi, which is why the frozen figure differs from the freshwater-eel entry."
+  },
+  {
+    "slug": "fourfinger-threadfin",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Threadfin",
+    "subtitle": "fourfinger threadfin, fresh whole or fillet",
+    "keywords": [
+      "threadfin",
+      "fourfinger threadfin",
+      "ma yau",
+      "午仔魚",
+      "午仔",
+      "馬友魚",
+      "四指馬鮁",
+      "ツバメコノシロ",
+      "オニアジ",
+      "barbudo",
+      "barbudo de cuatro barbas"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Keep at 4C or below; the salted, part-dried 一夜干 version is a different food with a different life."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "An oily fish - wrap tightly and use within the quality window."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "US FDA - Refrigerator & Freezer Storage Chart",
+        "url": "https://www.fda.gov/media/74435/download"
+      }
+    ],
+    "analog": null,
+    "notes": "Fatty-fish times from the FDA chart. Farmed threadfin is fatty enough to sit on the oily-fish line rather than the lean one."
+  },
+  {
+    "slug": "cuttlefish",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Cuttlefish",
+    "subtitle": "fresh, whole",
+    "keywords": [
+      "cuttlefish",
+      "sepia",
+      "花枝",
+      "墨魚",
+      "烏賊",
+      "目賊",
+      "こういか",
+      "コウイカ",
+      "もんごういか",
+      "sepia",
+      "jibia",
+      "choco"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 3,
+          "unit": "days",
+          "tips": "Clean out the ink sac and cuttlebone before storing, and keep it covered at 4C or below - the ink stains everything it touches."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 18,
+          "unit": "months",
+          "tips": "Freezing actually tenderises the flesh; freeze cleaned, in portions."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "squid",
+    "notes": "No separate published figure for cuttlefish, so the numbers are FoodKeeper's squid timeline. A distinct entry exists because a Taiwanese shopper looking for 花枝 or 墨魚 finds nothing under 'squid'."
+  },
+  {
+    "slug": "small-squid",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Small squid",
+    "subtitle": "mitre squid and bigfin reef squid, fresh",
+    "keywords": [
+      "small squid",
+      "mitre squid",
+      "bigfin reef squid",
+      "baby squid",
+      "小卷",
+      "透抽",
+      "軟絲",
+      "鎖管",
+      "中卷",
+      "小管",
+      "やりいか",
+      "ヤリイカ",
+      "あおりいか",
+      "アオリイカ",
+      "calamar",
+      "calamarcito",
+      "chipirón"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 3,
+          "unit": "days",
+          "tips": "Keep whole and un-rinsed on ice at 4C or below; the skin loses its pink bloom within hours of cleaning."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 6,
+          "max": 18,
+          "unit": "months",
+          "tips": "Freeze whole with the head on; cleaned rings weep and go rubbery."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "squid",
+    "notes": "Numbers are FoodKeeper's squid timeline. Listed separately because the Taiwanese market names 小卷, 透抽, 軟絲 and 鎖管 do not lead a searcher to the generic squid entry. Boiled 小卷 sold ready to eat at a stall is a cooked food and should be treated as one, not as fresh squid."
+  },
+  {
+    "slug": "abalone",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Abalone",
+    "subtitle": "live or fresh in the shell",
+    "keywords": [
+      "abalone",
+      "small abalone",
+      "鮑魚",
+      "九孔",
+      "九孔鮑",
+      "台灣鮑",
+      "あわび",
+      "アワビ",
+      "とこぶし",
+      "oreja de mar",
+      "abulón"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Keep live, in a bowl under a damp cloth at 4C or below - never sealed in water or a closed bag, which suffocates it. Discard any that does not react to touch."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Shuck and clean before freezing; the shell traps air and gives freezer burn."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Hong Kong CFS - Vibrio Species in Seafood",
+        "url": "https://www.cfs.gov.hk/english/programme/programme_rafs/programme_rafs_fm_01_02_vss.html"
+      }
+    ],
+    "analog": "live-clams-mussels-crab-and-oysters",
+    "notes": "Timings are FoodKeeper's figures for live clams, mussels, crab and oysters - there is no separate published number for abalone. The CFS is cited for the handling rule rather than the number: seafood to be eaten raw should be packed and stored at 4C or below, separated from raw food and eaten within 1 to 2 days, and vibrios multiply rapidly between 20 and 40C, with generation times as short as 9 to 10 minutes reported at 37C. That is why a bag of live shellfish left in a warm car is the real risk, not the day count."
+  },
+  {
+    "slug": "hard-clam-live",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Hard clams",
+    "subtitle": "live, in the shell",
+    "keywords": [
+      "hard clam",
+      "live clams",
+      "manila clam",
+      "文蛤",
+      "蛤蜊",
+      "蛤仔",
+      "赤嘴蛤",
+      "海瓜子",
+      "はまぐり",
+      "ハマグリ",
+      "あさり",
+      "アサリ",
+      "almeja",
+      "almeja viva"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Keep live in a shallow open bowl under a damp cloth at 4C or below. Purge in salted water at room temperature for no more than an hour, then get them straight back in the cold. Throw away any clam that stays open when tapped."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Freeze live in the shell in a single layer; cook from frozen without thawing."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Hong Kong CFS - Vibrio Species in Seafood",
+        "url": "https://www.cfs.gov.hk/english/programme/programme_rafs/programme_rafs_fm_01_02_vss.html"
+      }
+    ],
+    "analog": "live-clams-mussels-crab-and-oysters",
+    "notes": "The numbers are FoodKeeper's live clams, mussels, crab and oysters entry; this record exists so that 文蛤 and 蛤蜊 return something. The CFS is cited for the hazard: vibrios multiply rapidly between 20 and 40C, and chilled seafood should be held at 4C or below and eaten within 1 to 2 days. Bivalves filter their water, so they concentrate whatever is in it - this is the food where a warm hour genuinely matters."
+  },
+  {
+    "slug": "chayote-shoots",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Chayote shoots",
+    "subtitle": "longxucai, fresh tips",
+    "keywords": [
+      "chayote shoots",
+      "chayote tips",
+      "dragon whisker vegetable",
+      "龍鬚菜",
+      "龍須菜",
+      "佛手瓜苗",
+      "隼人瓜苗",
+      "ハヤトウリの新芽",
+      "リュウスサイ",
+      "brotes de chayote",
+      "guías de chayote"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 2,
+          "max": 4,
+          "unit": "days",
+          "tips": "Store unwashed, loosely packed in a perforated bag; the curled tendrils go limp and brown first."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "University of Maryland Extension - Storing Garden Fruits and Vegetables",
+        "url": "https://extension.umd.edu/resource/storing-garden-fruits-and-vegetables"
+      }
+    ],
+    "analog": null,
+    "notes": "UMD Extension's salad-greens line - refrigerator, loosely packed in a perforated mesh bag for 2-4 days, stored unwashed and washed before use - is the closest published rule for a tender leafy shoot like this. There is no separate published figure for chayote shoots themselves."
+  },
+  {
+    "slug": "vegetable-fern",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Vegetable fern",
+    "subtitle": "pako / fiddlehead fern, fresh",
+    "keywords": [
+      "vegetable fern",
+      "fiddlehead fern",
+      "pako",
+      "diplazium",
+      "過貓",
+      "過溝菜蕨",
+      "過貓仔",
+      "山蕨菜",
+      "クワズイモシダ",
+      "シダ野菜",
+      "コゴミ",
+      "helecho comestible"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 2,
+          "max": 4,
+          "unit": "days",
+          "tips": "Keep unwashed in a perforated bag; the coiled tips uncurl and toughen within days. Always blanch or stir-fry ferns rather than eating them raw."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "University of Maryland Extension - Storing Garden Fruits and Vegetables",
+        "url": "https://extension.umd.edu/resource/storing-garden-fruits-and-vegetables"
+      }
+    ],
+    "analog": null,
+    "notes": "Timing borrowed from UMD Extension's salad-greens rule (refrigerator, loosely packed in a perforated mesh bag for 2-4 days). No published figure exists for Diplazium esculentum; the cooking advice is general fern practice, not a figure from that page."
+  },
+  {
+    "slug": "madeira-vine-leaves",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Madeira vine leaves",
+    "subtitle": "chuanqi, fresh leaves",
+    "keywords": [
+      "madeira vine",
+      "madeira vine leaves",
+      "anredera",
+      "川七",
+      "洋落葵",
+      "藤三七",
+      "雲南白藥",
+      "アカザカズラ",
+      "オカワカメ",
+      "hojas de anredera",
+      "parra de madeira"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 2,
+          "max": 4,
+          "unit": "days",
+          "tips": "Store unwashed in a perforated bag; the leaves are mucilaginous and go slimy fast once wet."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "University of Maryland Extension - Storing Garden Fruits and Vegetables",
+        "url": "https://extension.umd.edu/resource/storing-garden-fruits-and-vegetables"
+      }
+    ],
+    "analog": null,
+    "notes": "Timing borrowed from UMD Extension's salad-greens rule (2-4 days refrigerated, loosely packed, stored unwashed). No published figure exists for Anredera cordifolia leaves."
+  },
+  {
+    "slug": "water-caltrop",
+    "category": "vegetables",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Water caltrop",
+    "subtitle": "raw, in the horned shell",
+    "keywords": [
+      "water caltrop",
+      "water chestnut horn",
+      "buffalo nut",
+      "ling jiao",
+      "菱角",
+      "水菱",
+      "紅菱",
+      "菱",
+      "ヒシ",
+      "ひしの実",
+      "castaña de agua con cuernos",
+      "abrojo acuático"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "Keep raw ones dry and loose in the fridge, not sealed in a bag - they mould where they touch."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "bamboo-shoots",
+    "notes": "No published figure for water caltrop, so this uses FoodKeeper's fresh bamboo-shoot timeline, the closest fresh starchy shoot in the dataset. Boiled water caltrop, which is how most of it is sold in Taiwan in autumn, is a cooked starchy food and should be refrigerated and eaten within a few days instead."
+  },
+  {
+    "slug": "sugarcane",
+    "category": "fruits",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sugarcane",
+    "subtitle": "fresh stalks or peeled sections",
+    "keywords": [
+      "sugarcane",
+      "sugar cane",
+      "cane stalks",
+      "甘蔗",
+      "白甘蔗",
+      "紅甘蔗",
+      "蔗",
+      "サトウキビ",
+      "さとうきび",
+      "caña de azúcar",
+      "caña"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 3,
+          "max": 5,
+          "unit": "days",
+          "tips": "Whole unpeeled stalks keep in a cool, shaded spot; the cut ends dry out and go fibrous first."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "weeks",
+          "tips": "Peeled or chopped sections must be refrigerated and wrapped. Discard any cane whose pith has gone reddish-brown or smells sour or alcoholic rather than sweet - mould in stored cane is the reason to be fussy here."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "melons",
+    "notes": "No published storage figure was found for fresh sugarcane, so the timings follow FoodKeeper's melon entry - another dense, high-sugar item that keeps at room temperature whole and moves to the fridge once cut. The warning about discoloured pith is general practice, not a sourced figure."
+  },
+  {
+    "slug": "tempura-fishcake",
+    "category": "seafood",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Fried fish cake",
+    "subtitle": "tianbula / satsuma-age, cooked surimi, chilled",
+    "keywords": [
+      "fried fish cake",
+      "tempura fish cake",
+      "satsuma age",
+      "oden fish cake",
+      "fish tempura",
+      "甜不辣",
+      "天婦羅",
+      "黑輪",
+      "甜不辣片",
+      "魚漿製品",
+      "さつま揚げ",
+      "薩摩揚げ",
+      "てんぷら",
+      "おでん種",
+      "pastel de pescado frito",
+      "surimi frito"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "Once the pack is opened this is cooked fish paste: keep it at 4C or below and finish it within a few days. Follow the printed date while the pack is sealed."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freezes acceptably but comes out spongier; cook straight from frozen in soup or hotpot."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "cooked-fish-all",
+    "notes": "No published figure for fried surimi cakes, so the numbers are FoodKeeper's cooked-fish timeline. Fish paste products are moist, low-salt and fully cooked, which is exactly the profile that supports bacterial growth after opening - the pack date covers the unopened pack, not the leftover half."
+  },
+  {
+    "slug": "pig-blood-cake",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Pig blood cake",
+    "subtitle": "steamed glutinous rice and pig blood, cooked",
+    "keywords": [
+      "pig blood cake",
+      "pork blood cake",
+      "rice blood cake",
+      "豬血糕",
+      "米血糕",
+      "米血",
+      "豬血粿",
+      "豚の血の餅",
+      "ブラッドライスケーキ",
+      "pastel de sangre de cerdo con arroz"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 3,
+          "max": 4,
+          "unit": "days",
+          "tips": "Wrap and keep at 4C or below. This is cooked blood and cooked glutinous rice together - two of the most perishable things in a Taiwanese kitchen in one block."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 3,
+          "unit": "months",
+          "tips": "Freezes well in portions; steam from frozen rather than thawing on the counter."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Hong Kong CFS - Bacillus cereus in Processed Food",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_97_01.html"
+      }
+    ],
+    "analog": "leftovers-meat-fish-poultry-egg",
+    "notes": "The day counts are FoodKeeper's cooked meat/fish/poultry leftovers timeline; no published figure exists for 豬血糕. The CFS is cited for the hazard rather than the number: Bacillus cereus spores survive normal cooking temperatures and the heat of cooking activates their germination, poisoning from its toxin is generally associated with rice products and other starchy foods, and food not eaten immediately should be kept above 60C or at or below 4C. A blood cake left on a counter or in a warm steamer cabinet all afternoon is the exact scenario that page describes."
+  },
+  {
+    "slug": "taro-balls",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Taro balls",
+    "subtitle": "yuyuan, raw dough pieces",
+    "keywords": [
+      "taro balls",
+      "yuyuan",
+      "sweet potato balls",
+      "taro q balls",
+      "芋圓",
+      "地瓜圓",
+      "芋圓地瓜圓",
+      "九份芋圓",
+      "タロイモ団子",
+      "芋団子",
+      "bolitas de taro",
+      "bolas de taro"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Raw balls are little more than mashed taro and starch; keep them dusted with starch in a single layer at 4C or below."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freeze on a tray first, then bag - boil from frozen, never thawed, or they dissolve."
+        }
+      }
+    },
+    "sources": [
+      {
+        "name": "Hong Kong CFS - Bacillus cereus in Processed Food",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_97_01.html"
+      }
+    ],
+    "analog": "fresh-pasta",
+    "notes": "The numbers are FoodKeeper's fresh-pasta timeline - raw taro balls are a fresh starch dough with the same short life, and no published figure exists for them. CFS is cited for the hazard, not the number: Bacillus cereus spores survive normal cooking and its toxin poisoning is generally associated with rice products and other starchy foods, so boiled taro balls sitting in warm syrup at a dessert stall or at home should be kept above 60C or chilled to 4C or below rather than left standing."
+  },
+  {
+    "slug": "scallion-pancake",
+    "category": "frozen-foods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Scallion pancake",
+    "subtitle": "cong you bing / zhua bing, frozen raw discs",
+    "keywords": [
+      "scallion pancake",
+      "spring onion pancake",
+      "green onion pancake",
+      "flaky pancake",
+      "蔥油餅",
+      "抓餅",
+      "手抓餅",
+      "蔥抓餅",
+      "冷凍蔥油餅",
+      "ネギ餅",
+      "葱油餅",
+      "チヂミ風ねぎ餅",
+      "torta de cebolleta",
+      "panqueque de cebollín"
+    ],
+    "storage": {
+      "freezer": {
+        "base": {
+          "min": 3,
+          "max": 3,
+          "unit": "months",
+          "tips": "Keep the interleaving sheets between the discs and cook straight from frozen - a thawed disc turns into a sticky lump you cannot separate."
+        }
+      },
+      "fridge": {
+        "base": {
+          "min": null,
+          "max": null,
+          "tips": "Not a fridge food. If a pack has thawed in the fridge, cook it that day rather than refreezing it."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "frozen-pancakes-waffles",
+    "notes": "Numbers are FoodKeeper's frozen pancakes and waffles timeline; there is no published figure for frozen raw scallion pancakes. FoodKeeper's entry is for a precooked product, so the freezer figure carries over but its fridge guidance does not - hence the tips-only fridge note."
+  },
+  {
+    "slug": "youtiao",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Chinese fried dough stick",
+    "subtitle": "youtiao, freshly fried",
+    "keywords": [
+      "youtiao",
+      "chinese cruller",
+      "fried dough stick",
+      "oil stick",
+      "油條",
+      "油炸鬼",
+      "油炸粿",
+      "豆漿油條",
+      "揚げパン",
+      "ヨウティアオ",
+      "中国式揚げパン",
+      "churro chino",
+      "palito de masa frita"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Keep loosely covered at room temperature - a sealed bag steams the crust soft within an hour. Best eaten the morning it is fried."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 1,
+          "unit": "months",
+          "tips": "Freeze in a bag and reheat in a hot oven or air fryer; it crisps up better from frozen than from the fridge."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "doughnuts",
+    "notes": "Numbers are FoodKeeper's doughnut timeline - the same thing in food-science terms, a lean fried dough. The freezer figure is a conservative quality estimate on the same basis, not a published number; youtiao has no published storage figure of its own."
+  },
+  {
+    "slug": "shaobing",
+    "category": "baked-goods",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Sesame flatbread",
+    "subtitle": "shaobing, baked, unfilled",
+    "keywords": [
+      "shaobing",
+      "sesame flatbread",
+      "chinese sesame bread",
+      "clay oven roll",
+      "燒餅",
+      "芝麻燒餅",
+      "燒餅油條",
+      "厚燒餅",
+      "焼き餅",
+      "シャオビン",
+      "ごま焼き餅",
+      "pan plano de sésamo"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "Loosely wrapped at room temperature. The layers go leathery within a day - reheat dry in a pan rather than a microwave."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 1,
+          "max": 1,
+          "unit": "months",
+          "tips": "Freeze plain and unfilled; a shaobing filled with egg or beef is a made-up meal and should be refrigerated and eaten the same day instead."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "doughnuts",
+    "notes": "No published figure for shaobing. The room-temperature window is FoodKeeper's doughnut timeline, used because both are unpackaged, same-day bakery items with no preservatives - not the commercial packaged-bread figures, which assume a sealed bag and a preservative."
+  },
+  {
+    "slug": "yi-mein-dried",
+    "category": "grains-beans-pasta",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Yi mein",
+    "subtitle": "dried Tainan-style flat egg noodles",
+    "keywords": [
+      "yi mein",
+      "yimian",
+      "tainan noodles",
+      "flat egg noodles",
+      "意麵",
+      "鹽水意麵",
+      "台南意麵",
+      "福州意麵",
+      "乾意麵",
+      "イーメン",
+      "意麺",
+      "fideos yi mein",
+      "fideos planos de huevo"
+    ],
+    "storage": {
+      "pantry": {
+        "base": {
+          "min": 2,
+          "max": 2,
+          "unit": "years",
+          "tips": "Keep the bundles dry and out of the sun. Egg noodles absorb kitchen humidity and go musty long before they look wrong."
+        },
+        "afterOpening": {
+          "min": 1,
+          "max": 2,
+          "unit": "months",
+          "tips": "Once the bag is open, move them into an airtight tin."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "dry-egg-noodles",
+    "notes": "Numbers are FoodKeeper's dry egg noodles timeline; yi mein is a dried wheat-and-egg noodle with no published figure of its own. Fresh, unsold-from-the-rack 意麵 sold damp at a market stall is a different food - treat that as a fresh noodle, refrigerated and used within a day or two."
+  },
+  {
+    "slug": "egg-crepe-wrapper",
+    "category": "deli-prepared",
+    "source": "curated",
+    "sourceId": null,
+    "name": "Egg crepe wrappers",
+    "subtitle": "danbing pi, fresh refrigerated sheets",
+    "keywords": [
+      "egg crepe wrapper",
+      "danbing wrapper",
+      "breakfast crepe sheet",
+      "蛋餅皮",
+      "蛋餅",
+      "粉漿蛋餅皮",
+      "冷藏蛋餅皮",
+      "台式蛋餅",
+      "クレープ生地",
+      "タンピン生地",
+      "obleas para crepe de huevo",
+      "masa para crepe china"
+    ],
+    "storage": {
+      "fridge": {
+        "base": {
+          "min": 1,
+          "max": 2,
+          "unit": "days",
+          "tips": "A fresh wheat batter sheet with nothing to preserve it; keep at 4C or below and follow the printed date on a sealed pack."
+        }
+      },
+      "freezer": {
+        "base": {
+          "min": 2,
+          "max": 2,
+          "unit": "months",
+          "tips": "Freeze with the interleaving sheets in place and peel them apart while still frozen."
+        }
+      }
+    },
+    "sources": [],
+    "analog": "fresh-pasta",
+    "notes": "No published figure for 蛋餅皮, so the numbers are FoodKeeper's fresh-pasta timeline - the closest equivalent, a fresh unpreserved wheat dough sold chilled. Supermarket packs carry a longer printed date because they are sealed and often part-cooked; once the pack is open, use these numbers."
+  }
+]

@@ -1,4 +1,8 @@
 {
+ "abalone": {
+  "zh": "鮑魚",
+  "ja": "あわび"
+ },
  "aburaage": {
   "zh": "豆皮",
   "ja": "油揚げ"
@@ -18,6 +22,10 @@
  "asafoetida": {
   "zh": "阿魏",
   "ja": "アギ"
+ },
+ "asian-sea-bass": {
+  "zh": "鱸魚",
+  "ja": "スズキ"
  },
  "atsuage": {
   "zh": "厚炸豆腐",
@@ -155,6 +163,10 @@
   "zh": "梨瓜",
   "ja": "チャヨテ"
  },
+ "chayote-shoots": {
+  "zh": "龍鬚菜",
+  "ja": "リュウスサイ"
+ },
  "cheddar-cheese": {
   "zh": "切達起司",
   "ja": "チェダーチーズ"
@@ -223,6 +235,10 @@
   "zh": "粥",
   "ja": "お粥"
  },
+ "conger-eel-anago": {
+  "zh": "穴子",
+  "ja": "あなご"
+ },
  "cooked-glutinous-rice": {
   "zh": "油飯",
   "ja": "おこわ"
@@ -286,6 +302,10 @@
  "curry-roux": {
   "zh": "咖哩塊",
   "ja": "カレールウ"
+ },
+ "cuttlefish": {
+  "zh": "花枝",
+  "ja": "こういか"
  },
  "daikon": {
   "zh": "菜頭",
@@ -383,6 +403,10 @@
   "zh": "艾丹",
   "ja": "エダム"
  },
+ "egg-crepe-wrapper": {
+  "zh": "蛋餅",
+  "ja": "クレープ生地"
+ },
  "egusi": {
   "zh": "瓜籽粉",
   "ja": "エグシ"
@@ -430,6 +454,10 @@
  "flounder": {
   "zh": "比目魚",
   "ja": "ひらめ"
+ },
+ "fourfinger-threadfin": {
+  "zh": "午仔",
+  "ja": "オニアジ"
  },
  "freekeh": {
   "zh": "青麦",
@@ -563,6 +591,10 @@
   "zh": "哈爾瓦",
   "ja": "ハルワ"
  },
+ "hard-clam-live": {
+  "zh": "文蛤",
+  "ja": "あさり"
+ },
  "harissa": {
   "zh": "北非辣醬",
   "ja": "ハリサ"
@@ -574,6 +606,10 @@
  "horchata": {
   "zh": "米漿",
   "ja": "オルチャータ"
+ },
+ "horse-mackerel": {
+  "zh": "巴攏",
+  "ja": "あじ"
  },
  "huitlacoche": {
   "zh": "玉米黑穗菌",
@@ -619,6 +655,10 @@
   "zh": "整隻火腿",
   "ja": "生ハム"
  },
+ "japanese-eel": {
+  "zh": "鰻",
+  "ja": "うなぎ"
+ },
  "kamaboko": {
   "zh": "蒲鉾",
   "ja": "かまぼこ"
@@ -659,6 +699,10 @@
   "zh": "豬油",
   "ja": "ラード"
  },
+ "largehead-hairtail": {
+  "zh": "帶魚",
+  "ja": "たちうお"
+ },
  "lassi": {
   "zh": "拉西",
   "ja": "ラッシー"
@@ -694,6 +738,10 @@
  "mackerel": {
   "zh": "鯖魚",
   "ja": "さば"
+ },
+ "madeira-vine-leaves": {
+  "zh": "川七",
+  "ja": "オカワカメ"
  },
  "maitake": {
   "zh": "舞菇",
@@ -746,6 +794,10 @@
  "mentsuyu": {
   "zh": "麵味露",
   "ja": "つゆ"
+ },
+ "milkfish": {
+  "zh": "虱目魚",
+  "ja": "サバヒー"
  },
  "mirin": {
   "zh": "味醂",
@@ -835,6 +887,10 @@
   "zh": "蚵仔",
   "ja": "むき身かき"
  },
+ "pacific-saury": {
+  "zh": "秋刀魚",
+  "ja": "さんま"
+ },
  "paella-leftovers": {
   "zh": "剩飯",
   "ja": "パエリア"
@@ -890,6 +946,10 @@
  "pickled-herring": {
   "zh": "醃鯡魚",
   "ja": "マチェス"
+ },
+ "pig-blood-cake": {
+  "zh": "米血",
+  "ja": "豚の血の餅"
  },
  "plantain-flour": {
   "zh": "大蕉粉",
@@ -958,6 +1018,10 @@
  "rasgulla": {
   "zh": "印度奶球",
   "ja": "ラスグッラ"
+ },
+ "red-seabream": {
+  "zh": "真鯛",
+  "ja": "たい"
  },
  "rendang-paste": {
   "zh": "仁當醬",
@@ -1031,6 +1095,10 @@
   "zh": "罐裝酸菜",
   "ja": "缶詰ザワークラウト"
  },
+ "scallion-pancake": {
+  "zh": "抓餅",
+  "ja": "ネギ餅"
+ },
  "sea-trout": {
   "zh": "海鱒",
   "ja": "うみます"
@@ -1050,6 +1118,10 @@
  "shacha-sauce": {
   "zh": "沙茶",
   "ja": "サーチャジャン"
+ },
+ "shaobing": {
+  "zh": "燒餅",
+  "ja": "焼き餅"
  },
  "shiitake-dried": {
   "zh": "冬菇",
@@ -1078,6 +1150,10 @@
  "skyr": {
   "zh": "斯基爾",
   "ja": "スキル"
+ },
+ "small-squid": {
+  "zh": "小卷",
+  "ja": "やりいか"
  },
  "snow-peas": {
   "zh": "豌豆莢",
@@ -1139,6 +1215,10 @@
   "zh": "甜豆",
   "ja": "スナップえんどう"
  },
+ "sugarcane": {
+  "zh": "蔗",
+  "ja": "サトウキビ"
+ },
  "sumac": {
   "zh": "蘇馬克",
   "ja": "スマック"
@@ -1187,12 +1267,20 @@
   "zh": "提卡醬",
   "ja": "タンドリーマサラ"
  },
+ "taro-balls": {
+  "zh": "芋圓",
+  "ja": "タロイモ団子"
+ },
  "taro-leaves": {
   "zh": "芋葉",
   "ja": "タロイモの葉"
  },
  "tea-egg": {
   "zh": "茶蛋"
+ },
+ "tempura-fishcake": {
+  "zh": "黑輪",
+  "ja": "薩摩揚げ"
  },
  "terrine": {
   "zh": "法式肉凍",
@@ -1201,6 +1289,10 @@
  "thai-eggplant": {
   "zh": "泰國茄子",
   "ja": "タイナス"
+ },
+ "tilapia": {
+  "zh": "吳郭魚",
+  "ja": "テラピア"
  },
  "tomatillo": {
   "zh": "綠番茄",
@@ -1242,6 +1334,14 @@
   "zh": "杜隆糖",
   "ja": "トゥロン"
  },
+ "unagi-kabayaki": {
+  "zh": "蒲焼",
+  "ja": "かばやき"
+ },
+ "vegetable-fern": {
+  "zh": "過貓",
+  "ja": "コゴミ"
+ },
  "wakame-dried": {
   "zh": "裙帶菜",
   "ja": "わかめ"
@@ -1249,6 +1349,10 @@
  "water-bamboo": {
   "zh": "茭白筍",
   "ja": "マコモタケ"
+ },
+ "water-caltrop": {
+  "zh": "菱",
+  "ja": "ヒシ"
  },
  "water-chestnut": {
   "zh": "水栗",
@@ -1290,9 +1394,21 @@
   "zh": "XO醬",
   "ja": "XOジャン"
  },
+ "yellowtail-buri": {
+  "zh": "鰤魚",
+  "ja": "ぶり"
+ },
  "yerba-mate": {
   "zh": "馬黛茶",
   "ja": "マテ茶"
+ },
+ "yi-mein-dried": {
+  "zh": "意麵",
+  "ja": "イーメン"
+ },
+ "youtiao": {
+  "zh": "油條",
+  "ja": "揚げパン"
  },
  "zaatar": {
   "zh": "扎塔香料",
