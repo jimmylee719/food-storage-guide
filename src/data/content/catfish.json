@@ -1,0 +1,91 @@
+{
+ "slug": "catfish",
+ "en": {
+  "name": "Catfish",
+  "aliases": [
+   "channel catfish",
+   "farmed catfish",
+   "basa",
+   "whiskerfish"
+  ],
+  "summary": "Catfish is a soft-fleshed freshwater fish, usually farmed and sold skinned as fillets or whole. From purchase it keeps 1–2 days in the fridge and 2–3 months in the freezer.",
+  "pantry": "Catfish must not sit at room temperature. It has no scales and a thin skin, so the flesh is exposed from the moment it is dressed, and it softens quickly when warm. Bring it home in a cool bag, and follow the 2-hour rule, or 1 hour if it is above 32 °C (90 °F). A fillet that has been warm on the way home is not rescued by the fridge — it simply starts its short life already spent.",
+  "fridge": "Keep catfish at 4 °C (40 °F) or below on ice, in a container that will catch the melt water, and cook it within 1–2 days from purchase. Pat the fillets dry and lay them on a rack over the ice rather than in a puddle — sitting in water makes the flesh mushy and speeds spoilage. Store it on the bottom shelf, below anything ready to eat. Farmed catfish sometimes carries a muddy flavour from its pond; a short soak in milk or salted water helps, but do that on the day you cook it, not as a way of keeping it longer.",
+  "freezer": "Catfish keeps 2–3 months at −18 °C (0 °F). Wrap fillets tightly with no air pockets, or ice-glaze them by dipping in cold water and freezing the film that forms. Frozen food stays safe indefinitely at −18 °C; the months are about quality, and catfish flesh in particular goes cottony and dry if it is kept much longer. Freeze in meal-sized portions so you never have to thaw more than you will cook.",
+  "thawing": "Thaw in the fridge overnight on a plate, or in a sealed bag under cold running water. Never on the counter or in warm water. Cook it promptly, and do not refreeze raw fish.",
+  "spoilage": [
+   "A sour, ammoniacal or strongly muddy smell rather than a clean one.",
+   "Flesh that stays dented when pressed instead of springing back.",
+   "A slimy or sticky surface, or milky liquid pooling under the fillet.",
+   "A grey, yellow or translucent cast where the flesh should be firm and pinkish-white."
+  ],
+  "tips": [
+   "Buy fillets that look firm and dry rather than glassy and wet.",
+   "Keep them on a rack over ice, not sitting in melt water.",
+   "Freeze the same day if you are not cooking within a day or two.",
+   "Soak in milk on the day of cooking if the fish tastes of the pond."
+  ],
+  "faq": [
+   {
+    "q": "How long does catfish keep in the fridge?",
+    "a": "1–2 days from purchase at 4 °C (40 °F) or below, kept on ice."
+   },
+   {
+    "q": "Can you freeze catfish?",
+    "a": "Yes, 2–3 months at −18 °C. Wrap it airtight or ice-glaze it, and freeze in meal-sized portions."
+   },
+   {
+    "q": "Why does my catfish taste muddy?",
+    "a": "Compounds from the pond can accumulate in farmed fish. A short soak in milk or salted water on the day of cooking helps; it is a flavour issue, not a spoilage one."
+   },
+   {
+    "q": "How can you tell if catfish has gone off?",
+    "a": "A sour or ammoniacal smell, slime on the surface, flesh that will not spring back, or a grey translucent look."
+   }
+  ]
+ },
+ "zh": {
+  "name": "鯰魚",
+  "aliases": [
+   "土虱",
+   "塘虱",
+   "巴沙魚",
+   "鬍鬚魚"
+  ],
+  "summary": "鯰魚是肉質細軟的淡水魚，多為養殖，通常剝皮後以魚片或整條販售。從購買日起冷藏可放 1～2 天，冷凍 2～3 個月。",
+  "pantry": "鯰魚不能放在室溫。牠沒有鱗、皮又薄，處理之後魚肉等於整片暴露，一回溫就很快變軟。請用保冷袋帶回家，並守 2 小時原則，室溫超過 32 °C 時為 1 小時。回家路上被放溫的魚片，不是冰進冰箱就能救回來的——它只是一開始就已經耗掉了本來就不長的壽命。",
+  "fridge": "鋪冰放 4 °C 以下，容器要能接住融水，並在購買後 1～2 天內煮掉。魚片先擦乾，架在網架上放在冰的上方，不要泡在水裡——泡水會讓肉質變糊，也加速腐敗。放最下層，位置低於所有即食食品。養殖鯰魚有時會帶土味；用牛奶或鹽水稍微泡一下有幫助，但那要在要煮的當天做，不是拿來延長保存的方法。",
+  "freezer": "鯰魚在 −18 °C 下可放 2～3 個月。魚片包緊不留空氣，或浸冷水做冰鍍後冷凍。−18 °C 下安全性是無限期的，月數講的是品質；鯰魚肉放太久尤其會變得乾柴如棉絮。請按一餐的量分裝，才不會每次都要解凍超過需要的份量。",
+  "thawing": "放盤子上冷藏隔夜解凍，或密封裝袋用冷水沖。不要放室溫或泡溫水。解凍後盡快烹調，生魚不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸、有氨味或強烈土腥味，而不是乾淨的魚味。",
+   "按壓後凹陷回不來，而不是有彈性。",
+   "表面黏滑，或魚片下方積出乳白色液體。",
+   "本該結實粉白的魚肉泛灰、泛黃或變得半透明。"
+  ],
+  "tips": [
+   "挑看起來結實乾爽的魚片，不要挑玻璃般透亮出水的。",
+   "架在網架上、放冰的上方，不要泡在融水裡。",
+   "一兩天內不煮就當天冷凍。",
+   "有土味的話，在要煮的當天用牛奶泡一下。"
+  ],
+  "faq": [
+   {
+    "q": "鯰魚冷藏可以放多久？",
+    "a": "鋪冰放 4 °C 以下，從購買日起 1～2 天。"
+   },
+   {
+    "q": "鯰魚可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2～3 個月。包緊或做冰鍍，並按一餐的量分裝。"
+   },
+   {
+    "q": "鯰魚為什麼有土味？",
+    "a": "養殖池裡的某些成分會累積在魚體中。在要煮的當天用牛奶或鹽水泡一下有幫助；那是風味問題，不是腐敗。"
+   },
+   {
+    "q": "怎麼判斷鯰魚壞掉了？",
+    "a": "發酸或氨味、表面黏滑、按壓沒有彈性，或魚肉泛灰變得半透明。"
+   }
+  ]
+ }
+}

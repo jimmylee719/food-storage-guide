@@ -1,0 +1,91 @@
+{
+ "slug": "tilapia",
+ "en": {
+  "name": "Tilapia",
+  "aliases": [
+   "Taiwan tilapia",
+   "Taiwan snapper",
+   "mojarra",
+   "St Peter's fish"
+  ],
+  "summary": "Tilapia is the farmed lean white fish of Taiwanese ponds, sold whole or as skinless fillets and marketed as 台灣鯛. From purchase it keeps 1–2 days in the fridge and 6–8 months in the freezer.",
+  "pantry": "Tilapia has no room-temperature life. Lean farmed fish has no fat to buffer it and the fillets are usually skinless, so the flesh is exposed on both sides. Bring it home in a cool bag and follow the 2-hour rule, or 1 hour if it is above 32 °C (90 °F). Do not let a tray of fillets sit out while the oil heats; a cold fillet goes into the pan perfectly well.",
+  "fridge": "Keep tilapia dry on a rack over ice at 4 °C (40 °F) or below, in a container that catches the melt water, and cook it within 1–2 days from purchase. Dryness is the point: a lean fillet sitting in liquid turns mushy and sours faster. Store in a single layer on the bottom shelf, below anything ready to eat. Pond-farmed tilapia sometimes carries an earthy flavour from its water; a soak in milk or lightly salted water on the day of cooking helps, but it is not a way of extending its life.",
+  "freezer": "Tilapia keeps 6–8 months at −18 °C (0 °F) — a long window, because lean flesh has little fat to oxidise. Glaze the fillets with a thin film of water before bagging, which is the cheapest protection against freezer burn, or wrap them tightly with no air pockets. Freeze flat in meal-sized portions and label the date. Frozen food stays safe indefinitely at −18 °C; the months are about quality, and a badly wrapped fillet goes dry and cottony well before then.",
+  "thawing": "Thaw in the fridge overnight on a plate, or in a sealed bag under cold running water. Never on the counter or in warm water. Pat it very dry before cooking, and do not refreeze raw fish.",
+  "spoilage": [
+   "A sour, ammoniacal or strongly muddy smell rather than a clean one.",
+   "Flesh that stays dented when pressed instead of springing back.",
+   "A milky or sticky film on the fillet, or liquid pooling underneath.",
+   "Grey or yellow patches where the flesh should be white and firm."
+  ],
+  "tips": [
+   "Keep the fillets dry on a rack; wet lean fish spoils faster.",
+   "Ice-glaze before freezing — it is the easiest way to avoid freezer burn.",
+   "Soak in milk on the day of cooking if the fish tastes earthy.",
+   "Freeze in meal-sized portions the day you buy it."
+  ],
+  "faq": [
+   {
+    "q": "How long does tilapia keep in the fridge?",
+    "a": "1–2 days from purchase at 4 °C (40 °F) or below, kept dry on a rack over ice."
+   },
+   {
+    "q": "Can you freeze tilapia?",
+    "a": "Yes, 6–8 months at −18 °C. Ice-glaze the fillets or wrap them airtight, and freeze in meal-sized portions."
+   },
+   {
+    "q": "Why does tilapia taste earthy?",
+    "a": "Compounds from the pond accumulate in farmed fish. A soak in milk or lightly salted water on the day of cooking helps; it is a flavour issue, not spoilage."
+   },
+   {
+    "q": "How can you tell if tilapia has gone off?",
+    "a": "A sour or ammoniacal smell, a sticky film, flesh that will not spring back, or grey patches in the fillet."
+   }
+  ]
+ },
+ "zh": {
+  "name": "吳郭魚",
+  "aliases": [
+   "台灣鯛",
+   "南洋鯽仔",
+   "尼羅口孵魚",
+   "臺灣鯛魚片"
+  ],
+  "summary": "吳郭魚是台灣魚塭最普遍的低脂白肉養殖魚，整條或去皮魚片都有，也以「台灣鯛」的名義行銷。從購買日起冷藏可放 1～2 天，冷凍 6～8 個月。",
+  "pantry": "吳郭魚沒有室溫保存這回事。低脂養殖魚沒有脂肪當緩衝，而且魚片通常已經去皮，兩面的魚肉都是暴露的。請用保冷袋帶回家，並守 2 小時原則，室溫超過 32 °C 時為 1 小時。不要一邊熱油、一邊把整盤魚片放在檯面上；冰的魚片下鍋一樣煎得很好。",
+  "fridge": "保持乾爽、架在網架上放在冰的上方，溫度 4 °C 以下，容器要能接住融水，並在購買後 1～2 天內煮掉。「乾」是重點：泡在水裡的低脂魚片會變糊、也更快發酸。單層平放在最下層，位置低於所有即食食品。魚塭養的吳郭魚有時會帶土味；要煮的當天用牛奶或淡鹽水泡一下有幫助，但那不是延長保存的方法。",
+  "freezer": "吳郭魚在 −18 °C 下可放 6～8 個月——區間長，因為低脂魚肉幾乎沒有會氧化的脂肪。裝袋前先給魚片鍍上一層薄冰，是最便宜的防凍燒方法；或者包緊不留空氣。按一餐的量壓平分裝並標上日期。−18 °C 下安全性是無限期的，月數講的是品質；包裝不確實的魚片，遠在期限之前就會乾得像棉絮。",
+  "thawing": "放盤子上冷藏隔夜解凍，或密封裝袋用冷水沖。不要放室溫或泡溫水。下鍋前擦得非常乾，生魚不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸、有氨味或強烈土腥味，而不是乾淨的魚味。",
+   "按壓後凹陷回不來，而不是有彈性。",
+   "魚片表面出現乳白黏膜，或下方積水。",
+   "本該白皙結實的魚肉出現灰斑或黃斑。"
+  ],
+  "tips": [
+   "魚片保持乾爽架高；濕的低脂魚壞得更快。",
+   "冷凍前做冰鍍——這是最簡單的防凍燒做法。",
+   "有土味的話，在要煮的當天用牛奶泡一下。",
+   "買回來當天就按一餐的量分裝冷凍。"
+  ],
+  "faq": [
+   {
+    "q": "吳郭魚冷藏可以放多久？",
+    "a": "保持乾爽架在冰上、放 4 °C 以下，從購買日起 1～2 天。"
+   },
+   {
+    "q": "吳郭魚可以冷凍嗎？",
+    "a": "可以，−18 °C 下 6～8 個月。先做冰鍍或包緊，按一餐的量分裝。"
+   },
+   {
+    "q": "吳郭魚為什麼有土味？",
+    "a": "魚塭水中的某些成分會累積在魚體。要煮的當天用牛奶或淡鹽水泡一下有幫助；那是風味問題，不是腐敗。"
+   },
+   {
+    "q": "怎麼判斷吳郭魚不新鮮了？",
+    "a": "發酸或氨味、表面黏膜、按壓沒有彈性，或魚片出現灰斑。"
+   }
+  ]
+ }
+}

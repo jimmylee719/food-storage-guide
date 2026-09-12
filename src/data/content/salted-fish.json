@@ -1,0 +1,91 @@
+{
+ "slug": "salted-fish",
+ "en": {
+  "name": "Salted fish",
+  "aliases": [
+   "salt fish",
+   "haam yu",
+   "dried salted fish",
+   "himono"
+  ],
+  "summary": "Salted fish covers everything from a bone-dry hard cure to a barely firm one, and the storage depends entirely on which you have. A hard cure keeps 4–6 months wrapped in a cool dry place, 6–12 months refrigerated, and about 12 months frozen.",
+  "pantry": "Whole, hard-cured salted fish keeps wrapped in a cool, dry, well-ventilated place for about 4–6 months. That range is the general dried-food figure taken at the short end; no agency publishes a single shelf life, because salt content varies enormously by style. The rule for goods that need no refrigeration is a sealed or covered container somewhere cool and dry. Softer, wetter cures are not shelf-stable at all: if the fish is soft, damp or smells of ammonia rather than of salt and fish, refrigerate it and treat it as perishable.",
+  "fridge": "In a warm climate, and for any cure you are unsure about, refrigeration is the safer default: about 6–12 months wrapped tightly at 4 °C (40 °F) or below. Wrap it very well — the smell travels through a fridge and gets into butter, milk and cut fruit with remarkable speed. Once you have cut a piece, keep the pieces sealed rather than leaving the cut face exposed. These figures are ordinary practice rather than published numbers and should be read as quality guidance.",
+  "freezer": "Freezing keeps salted fish about 12 months at −18 °C (0 °F). What it really does is stop the fat oxidising, which is what turns salted fish yellow and bitter — the salt is already handling the bacteria. Double-bag it, because the smell transfers to everything in the freezer. Frozen food stays safe indefinitely at −18 °C; the timeline is about flavour. Let the package come up to room temperature before opening so condensation does not settle on the fish.",
+  "thawing": "Thaw wrapped, in the fridge, and use the fish within a few days. Soak or rinse it as the recipe requires just before cooking. Do not refreeze.",
+  "spoilage": [
+   "A soft, damp or slippery surface on what should be a firm dry cure.",
+   "An ammonia smell rather than a clean salty-fishy one.",
+   "Fuzzy mould, or red or pink patches spreading across the surface.",
+   "A deep yellow or orange cast with a rancid, paint-like smell."
+  ],
+  "tips": [
+   "Work out which cure you have: hard and dry, or soft and damp — they store differently.",
+   "Wrap it twice; the smell gets into everything.",
+   "Refrigerate or freeze in a humid climate, whatever the packet says.",
+   "Buy small pieces; a little salted fish goes a very long way."
+  ],
+  "faq": [
+   {
+    "q": "How long does salted fish keep?",
+    "a": "A hard cure keeps about 4–6 months in a cool dry place, 6–12 months refrigerated, and about 12 months frozen. Soft, damp cures are perishable and belong in the fridge."
+   },
+   {
+    "q": "Does salted fish need to be refrigerated?",
+    "a": "A fully dried hard cure does not if the spot is cool, dry and airy. Anything soft or damp does, and in a humid climate the fridge is the safer default for both."
+   },
+   {
+    "q": "Can you freeze salted fish?",
+    "a": "Yes, about 12 months at −18 °C, double-bagged. Freezing stops the fat going rancid rather than preserving the fish, which the salt already does."
+   },
+   {
+    "q": "What does ammonia-smelling salted fish mean?",
+    "a": "It is not a hard cure doing its job. Ammonia means the fish is breaking down — refrigerate nothing, discard it."
+   }
+  ]
+ },
+ "zh": {
+  "name": "鹹魚",
+  "aliases": [
+   "梅香鹹魚",
+   "馬友鹹魚",
+   "鹽漬魚乾",
+   "干物"
+  ],
+  "summary": "「鹹魚」涵蓋的範圍很廣，從乾到像木頭的硬醃，到只是稍微結實的軟醃都有，保存方式完全取決於你買到哪一種。硬醃的包好放陰涼乾燥處約 4～6 個月，冷藏 6～12 個月，冷凍約 12 個月。",
+  "pantry": "整條硬醃的鹹魚包好放在陰涼、乾燥、通風的地方，大約 4～6 個月。這個區間取自乾貨通用數字的短端；沒有機構能公告單一的保存期限，因為不同流派的鹽度差異極大。不需冷藏的乾貨通則是：密封或加蓋容器，放陰涼乾燥處。質地較軟、較濕的醃法則根本不耐常溫：如果魚身偏軟、潮濕，或聞起來是氨味而不是鹹魚味，請冷藏並當成易腐食品。",
+  "fridge": "在溫暖氣候下，或是你不確定醃法時，冷藏是比較保險的預設：包緊放 4 °C 以下約 6～12 個月。一定要包得很確實——那個味道在冰箱裡跑得極快，奶油、牛奶和切好的水果都會中招。切開之後，每塊都要密封，不要讓切面裸露。這些數字是一般實務而非公告值，請當品質指引看。",
+  "freezer": "冷凍可讓鹹魚在 −18 °C 下維持約 12 個月。它真正的作用是阻止脂肪氧化——那才是讓鹹魚發黃、發苦的原因——細菌的部分鹽已經處理掉了。請套兩層袋，因為氣味會轉移到冷凍庫所有東西上。−18 °C 下安全性是無限期的，期限講的是風味。開封前先讓包裝回到室溫，避免水氣凝在魚上。",
+  "thawing": "連包裝放冷藏解凍，並在幾天內用完。要泡水或沖洗請在下鍋前依食譜進行。不要再次冷凍。",
+  "spoilage": [
+   "本該乾硬的醃品變得柔軟、潮濕或滑膩。",
+   "聞起來是氨味，而不是乾淨的鹹魚味。",
+   "長出絨毛狀的霉，或表面出現紅色、粉紅色斑塊蔓延。",
+   "整體轉深黃或橘色，並帶油耗、油漆般的氣味。"
+  ],
+  "tips": [
+   "先判斷你買的是哪一種：乾硬型還是軟濕型，保存方式不同。",
+   "包兩層；那個味道會滲進所有東西。",
+   "潮濕氣候下請冷藏或冷凍，不論包裝怎麼寫。",
+   "買小塊就好；鹹魚用量本來就很少。"
+  ],
+  "faq": [
+   {
+    "q": "鹹魚可以放多久？",
+    "a": "硬醃的放陰涼乾燥處約 4～6 個月，冷藏 6～12 個月，冷凍約 12 個月。軟濕型的屬易腐品，要放冰箱。"
+   },
+   {
+    "q": "鹹魚需要冷藏嗎？",
+    "a": "完全乾硬的醃品，在陰涼乾燥通風處可以不用。偏軟或偏濕的一定要；潮濕氣候下兩者都以冷藏為宜。"
+   },
+   {
+    "q": "鹹魚可以冷凍嗎？",
+    "a": "可以，套兩層袋放 −18 °C 約 12 個月。冷凍的作用是防止脂肪油耗，防菌的工作鹽已經做了。"
+   },
+   {
+    "q": "鹹魚有氨味代表什麼？",
+    "a": "那不是硬醃該有的味道。氨味代表魚體正在分解——不要冷藏留著，直接丟棄。"
+   }
+  ]
+ }
+}

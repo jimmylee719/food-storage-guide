@@ -1,0 +1,91 @@
+{
+ "slug": "ceviche",
+ "en": {
+  "name": "Ceviche",
+  "aliases": [
+   "cebiche",
+   "seviche",
+   "tiradito",
+   "leche de tigre"
+  ],
+  "summary": "Ceviche is raw fish or shellfish cured in citrus juice until the flesh turns white and firm. That is acid denaturing the protein — a texture change, not cooking. Make it and eat it the same day, keeping it at 4 °C or below, and freeze the fish before you make it, not after.",
+  "pantry": "Ceviche is a raw seafood dish and must never sit out. Seafood should not be left out of the refrigerator for more than 2 hours, or 1 hour above 32 °C (90 °F). Marinate it in the fridge, not on the counter, and serve it straight from the cold. Acid does not destroy Vibrio, Salmonella or Listeria, and it does not reliably kill parasites either: the flesh turning opaque tells you nothing about safety, only about texture.",
+  "fridge": "Make it and eat it the same day, kept covered at 4 °C (40 °F) or below — 1 day is a quality judgement anchored on the published figure for cooked fish and cut hard because this is raw; no agency publishes a shelf life for ceviche. In truth it is at its best within the hour anyway: the acid keeps working, and the fish goes chalky and dry overnight. The safest version starts with fish sold as sashimi- or ceviche-grade, meaning it has already been commercially frozen. Anyone pregnant, elderly, very young or immunocompromised should avoid raw fish and shellfish altogether.",
+  "freezer": "Never freeze finished ceviche — the acid-firmed flesh thaws to cotton wool, and no timeline is given here for that reason. Freezing belongs at the other end, as the parasite control before you make the dish. The published conditions for fish eaten raw are −20 °C for 24 hours, or −35 °C for fifteen hours, and a domestic freezer takes far longer than a commercial blast freezer to get a fish that cold right through, so several days is the practical home equivalent. Freezing kills parasites; it does not kill all harmful germs, so temperature control still matters afterwards.",
+  "thawing": "Thaw the fish in the fridge before making ceviche, never on the counter, and cut it while it is still very cold. Do not refreeze thawed fish, and do not freeze the finished dish.",
+  "spoilage": [
+   "A sour, ammoniacal smell distinct from the sharp citrus one.",
+   "Fish gone chalky, dry and crumbling rather than firm and glossy.",
+   "Cloudy, ropy or slimy leche de tigre.",
+   "Any shellfish in the mix that smells strong, or has gone grey and mushy."
+  ],
+  "tips": [
+   "Buy fish sold for raw eating, which has been commercially frozen.",
+   "Mix it in a chilled bowl and keep it in the fridge until it goes to the table.",
+   "Make only what you will eat at that sitting.",
+   "Dress it at the last minute; the acid keeps cooking it while it waits."
+  ],
+  "faq": [
+   {
+    "q": "How long does ceviche keep?",
+    "a": "Make it and eat it the same day — 1 day at 4 °C or below is the outer limit, and it is a quality judgement rather than a published figure."
+   },
+   {
+    "q": "Does lime juice cook the fish?",
+    "a": "No. The acid unfolds the proteins so the flesh turns white and firm, but that is a texture change. It does not destroy Vibrio, Salmonella, Listeria or parasites."
+   },
+   {
+    "q": "Can you freeze ceviche?",
+    "a": "No. The finished dish thaws to mush. Freeze the fish before you make the ceviche — that is the step that kills parasites."
+   },
+   {
+    "q": "Is ceviche safe in pregnancy?",
+    "a": "No. Raw fish and shellfish are not advised for pregnant, elderly, very young or immunocompromised people, whatever the citrus has done to the texture."
+   }
+  ]
+ },
+ "zh": {
+  "name": "檸檬醃生魚",
+  "aliases": [
+   "ceviche",
+   "秘魯檸檬醃魚",
+   "酸漬生魚",
+   "南美醃生魚"
+  ],
+  "summary": "Ceviche 是把生魚或生貝類用柑橘汁醃到魚肉轉白變結實的料理。那是酸讓蛋白質變性，是質地改變，不是煮熟。請當天做當天吃，全程 4 °C 以下，而冷凍要在「做之前」，不是做之後。",
+  "pantry": "Ceviche 是生鮮海產料理，絕對不能放在外面。海鮮離開冷藏不應超過 2 小時，室溫超過 32 °C 時為 1 小時。請在冰箱裡醃，不要放在流理臺上，端上桌也是直接從冷的狀態上。酸並不會殺死腸炎弧菌、沙門氏菌或李斯特菌，也無法可靠地殺死寄生蟲：魚肉變成不透明只說明質地變了，沒有說明任何安全上的事。",
+  "fridge": "當天做當天吃，加蓋放 4 °C 以下——1 天是以「熟魚」公告值為錨、再大幅下修的品質判斷，因為這是生的；沒有機構公告過 ceviche 的保存期限。老實說它本來就是一小時內最好吃：酸還在作用，放過夜魚肉就變得乾澀粉白。最安全的版本是從標示可生食（sashimi 級或 ceviche 級）的魚開始，那代表它已經經過商業冷凍處理。孕婦、長者、幼童與免疫力低下者應完全避免生魚和生貝類。",
+  "freezer": "做好的 ceviche 絕對不要冷凍——被酸醃硬的魚肉解凍後像棉絮，這也是這裡不給期限的原因。冷凍屬於另一端，是動手做之前的寄生蟲控制步驟。生食魚的公告冷凍條件是 −20 °C 二十四小時，或 −35 °C 十五小時；家用冷凍庫要把魚整條凍透，所需時間遠比商用急速冷凍長，所以家裡的實務等價做法是放好幾天。冷凍能殺死寄生蟲，但殺不死所有有害微生物，所以之後的溫度管理一樣重要。",
+  "thawing": "做 ceviche 前請把魚放冷藏解凍，不要放室溫，並趁魚還很冰的時候切。解凍過的魚不要再次冷凍，做好的成品也不要冷凍。",
+  "spoilage": [
+   "在明亮的柑橘酸味之外，出現發酸或氨味。",
+   "魚肉變得粉白乾散，而不是結實有光澤。",
+   "醃汁（leche de tigre）變混濁、牽絲或黏滑。",
+   "裡面的貝類氣味變重，或轉灰變糊。"
+  ],
+  "tips": [
+   "買標示可生食的魚，那代表經過商業冷凍。",
+   "用冰過的盆子拌，上桌前都放冰箱。",
+   "只做這一餐吃得完的量。",
+   "最後一刻再拌酸汁；等待的時候酸還在繼續作用。"
+  ],
+  "faq": [
+   {
+    "q": "ceviche 可以放多久？",
+    "a": "當天做當天吃——4 °C 以下 1 天是上限，而且那是品質判斷，不是公告數字。"
+   },
+   {
+    "q": "檸檬汁算把魚煮熟了嗎？",
+    "a": "不算。酸讓蛋白質展開，所以魚肉變白變結實，但那只是質地變化，並不會殺死腸炎弧菌、沙門氏菌、李斯特菌或寄生蟲。"
+   },
+   {
+    "q": "ceviche 可以冷凍嗎？",
+    "a": "不行。成品解凍後會變成糊狀。要冷凍的是「做之前的魚」，那才是殺寄生蟲的步驟。"
+   },
+   {
+    "q": "懷孕可以吃 ceviche 嗎？",
+    "a": "不建議。不論柑橘汁把質地變成什麼樣，生魚與生貝類都不適合孕婦、長者、幼童與免疫力低下者。"
+   }
+  ]
+ }
+}

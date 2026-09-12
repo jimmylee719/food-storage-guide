@@ -1,0 +1,91 @@
+{
+ "slug": "asian-sea-bass",
+ "en": {
+  "name": "Asian sea bass",
+  "aliases": [
+   "barramundi",
+   "giant perch",
+   "sea bass",
+   "Lates calcarifer"
+  ],
+  "summary": "Asian sea bass, or barramundi, is a lean white fish bought whole and live in most Taiwanese markets and killed at the stall. Refrigerated it keeps 1–2 days; frozen, 6–8 months. The clock starts when the fish is killed, not at the time printed on any label.",
+  "pantry": "Fresh fish has no room-temperature life. It should go from the stall into a cool bag and into the fridge as quickly as you can manage; enzymes and bacteria in the gut start softening the flesh from the moment the fish dies. Never leave a fish on the counter while you do other shopping, and follow the 2-hour rule, or 1 hour above 32 °C (90 °F) — for a fish in a hot market that hour is the realistic limit.",
+  "fridge": "Keep whole fish gutted and on ice at 4 °C (40 °F) or below, in a container that will catch the melt water, and cook it within 1–2 days. Ask the stall to gut and scale it rather than doing it at home hours later — the guts are where spoilage starts. Fillets go slack and weep sooner than a whole fish does, so buy whole if you are not cooking today. Store it on the bottom shelf, below anything ready to eat.",
+  "freezer": "Lean flesh like this freezes well: 6–8 months at −18 °C (0 °F). Wrap fillets tightly with no air pockets, or glaze them by dipping in cold water and freezing the thin film of ice that forms, which protects against freezer burn. Frozen food stays safe indefinitely at −18 °C; the months are a quality window, and a lean fish holds its quality far longer than an oily one because there is less fat to oxidise.",
+  "thawing": "Thaw in the fridge overnight on a plate, or in a sealed bag under cold running water for a quicker job. Never thaw fish on the counter or in warm water, cook it promptly, and do not refreeze raw fish.",
+  "spoilage": [
+   "A sour or ammoniacal smell instead of a clean, faintly seaweed one.",
+   "Flesh that stays dented when pressed rather than springing back.",
+   "Cloudy sunken eyes and grey-brown gills on a whole fish.",
+   "A slimy, sticky surface or milky liquid pooling under the fillet."
+  ],
+  "tips": [
+   "Have the fish killed, gutted and scaled at the stall.",
+   "Take a cool bag; the trip home is where most quality is lost.",
+   "Store it on ice in the coldest part of the fridge, not the door.",
+   "Freeze it the day you buy it if you are not cooking within a day or two."
+  ],
+  "faq": [
+   {
+    "q": "How long does fresh sea bass keep in the fridge?",
+    "a": "1–2 days at 4 °C (40 °F) or below, gutted and on ice. Count from when the fish was killed."
+   },
+   {
+    "q": "Can you freeze sea bass?",
+    "a": "Yes, 6–8 months at −18 °C. It is a lean fish, so it holds its quality well if wrapped airtight or ice-glazed."
+   },
+   {
+    "q": "Should you buy it whole or as fillets?",
+    "a": "Whole, if you are not cooking it today. Fillets lose texture and weep sooner than a gutted whole fish."
+   },
+   {
+    "q": "How can you tell if sea bass has gone off?",
+    "a": "Smell first: sour or ammoniacal is the giveaway. Then check whether the flesh springs back, and look at the eyes and gills on a whole fish."
+   }
+  ]
+ },
+ "zh": {
+  "name": "鱸魚",
+  "aliases": [
+   "金目鱸",
+   "七星鱸",
+   "尖吻鱸",
+   "盲曹"
+  ],
+  "summary": "金目鱸是肉質細白的低脂魚，台灣市場多半賣活魚、現場宰殺。冷藏可放 1～2 天；冷凍 6～8 個月。計時是從魚被宰殺那一刻開始，不是從標籤上印的時間開始。",
+  "pantry": "生鮮魚沒有室溫保存這回事。從攤子買回來就該進保冷袋、盡快進冰箱；魚一死，內臟裡的酵素和細菌就開始讓魚肉變軟。不要一邊買其他東西、一邊把魚放在旁邊，並請守 2 小時原則，室溫超過 32 °C 時為 1 小時——在悶熱的傳統市場裡，那一小時才是現實的上限。",
+  "fridge": "整條魚去內臟後鋪冰，放 4 °C 以下，容器要能接住融水，並在 1～2 天內煮掉。請攤商當場去鱗去內臟，不要拖到幾小時後回家再處理——腐敗就是從內臟開始的。魚片比整條魚更快變得鬆軟出水，所以今天不煮的話就買整條。放在最下層，位置低於所有即食食品。",
+  "freezer": "這種低脂白肉很耐凍：−18 °C 下 6～8 個月。魚片要包緊、不留空氣，或用冰鍍法——浸一下冷水、讓表面結一層薄冰，可以防止凍燒。−18 °C 下安全性是無限期的，月數講的是品質；低脂魚因為可氧化的脂肪少，品質維持得比油脂魚久得多。",
+  "thawing": "放盤子上冷藏隔夜解凍，趕時間就密封裝袋用冷水沖。絕對不要放室溫或泡溫水解凍，解凍後盡快烹調，生魚不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸或有氨味，而不是淡淡的海藻清香。",
+   "按下去凹陷回不來，而不是有彈性。",
+   "整條魚的眼睛混濁凹陷、魚鰓轉為灰褐色。",
+   "表面黏滑，或魚片下方積出乳白色液體。"
+  ],
+  "tips": [
+   "請攤商現場宰殺、去鱗、去內臟。",
+   "帶保冷袋；回家這段路才是品質流失最多的時候。",
+   "鋪冰放冰箱最冷的位置，不要放門邊。",
+   "一兩天內不煮的話，當天就冷凍。"
+  ],
+  "faq": [
+   {
+    "q": "新鮮鱸魚冷藏可以放多久？",
+    "a": "去內臟鋪冰、放 4 °C 以下，1～2 天。從宰殺那一刻起算。"
+   },
+   {
+    "q": "鱸魚可以冷凍嗎？",
+    "a": "可以，−18 °C 下 6～8 個月。它是低脂魚，包緊或做冰鍍後品質維持得很好。"
+   },
+   {
+    "q": "要買整條還是魚片？",
+    "a": "今天不煮就買整條。魚片比去內臟的整條魚更快失去質地、更快出水。"
+   },
+   {
+    "q": "怎麼判斷鱸魚不新鮮了？",
+    "a": "先聞：發酸或有氨味就是關鍵。再按壓看彈性，整條魚還可以看眼睛和鰓。"
+   }
+  ]
+ }
+}

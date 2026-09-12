@@ -1,0 +1,91 @@
+{
+ "slug": "gorgonzola",
+ "en": {
+  "name": "Gorgonzola",
+  "aliases": [
+   "gorgonzola dolce",
+   "gorgonzola piccante",
+   "Italian blue cheese",
+   "blue cheese"
+  ],
+  "summary": "Gorgonzola comes in two forms: dolce, soft and almost spoonable, and piccante, firmer, drier and sharper. Once opened, treat the dolce as a 1–2 week cheese in the fridge; the piccante holds rather longer. Do not plan on freezing it — it thaws crumbly and weeping.",
+  "pantry": "Gorgonzola is a moist, low-acid cheese and does not keep at room temperature. Take out the piece you are serving about half an hour before you eat, which is when the paste is at its best, and put the rest back cold. A wedge left on a board through a long evening warms, softens and starts to run; that is not ripening, it is the beginning of the end.",
+  "fridge": "Gorgonzola dolce is a soft, wet, barely acidic cheese and should be treated as one: about 1–2 weeks at 0–5 °C once opened, wrapped in waxed paper and then loosely boxed. That figure is borrowed from what is published for soft cheeses such as brie, because no agency publishes a gorgonzola number. The firmer, drier piccante will hold nearer three to four weeks, which is our own extrapolation from the opened-hard-cheese line rather than a published figure. Both keep ripening in the fridge — the veining spreads, the paste softens toward the rind, and the smell goes from sweet to ammoniac. Ammonia is the end point, not a phase.",
+  "freezer": "No freezer timeline is given, because freezing wrecks the paste: it thaws crumbly and weeping and cannot go back on a board. If you must, freeze it in cooking-sized lumps at −18 °C (0 °F) for sauces and accept the loss. The better answer is to buy the piece you will actually finish — gorgonzola is sold by the wedge precisely because it does not keep.",
+  "thawing": "Thaw it wrapped in the fridge and take it straight into a hot sauce. Never thaw cheese on the counter, and do not refreeze it.",
+  "spoilage": [
+   "An ammonia smell that has overtaken the sweet, blue one.",
+   "Fuzzy grey, pink or black growth on the cut face — the blue veining is the cheese, this is not.",
+   "A brown, translucent, running edge creeping into the paste.",
+   "A bitter or metallic taste."
+  ],
+  "tips": [
+   "Buy a small wedge often rather than a large one occasionally.",
+   "Waxed paper and a loose box; clingfilm against the cut face makes it sweat.",
+   "Wrap it twice or it will flavour the butter and the eggs.",
+   "Cook it into a sauce to use up the last of a piece that is turning strong."
+  ],
+  "faq": [
+   {
+    "q": "How long does gorgonzola keep in the fridge?",
+    "a": "Once opened, about 1–2 weeks at 0–5 °C for the soft dolce. The firm piccante holds nearer three to four weeks, which is our own extrapolation rather than a published figure."
+   },
+   {
+    "q": "Can you freeze gorgonzola?",
+    "a": "There is no timeline for it, and freezing ruins the paste. Freeze it only in lumps for cooking, and accept that it is no longer a table cheese."
+   },
+   {
+    "q": "Is gorgonzola safe during pregnancy?",
+    "a": "No. Pregnant, elderly and immunocompromised people are advised to avoid blue-veined cheeses, and that includes pasteurised ones — the risk is contamination after pasteurisation in a moist, low-acid, long-ripened cheese. Cooking it through removes the objection."
+   },
+   {
+    "q": "Is the blue mould in gorgonzola safe?",
+    "a": "The veining is deliberately inoculated Penicillium roqueforti and is the cheese itself. Fuzzy grey, pink or black growth on the cut face is different, and means the piece goes in the bin."
+   }
+  ]
+ },
+ "zh": {
+  "name": "古岡左拉乳酪",
+  "aliases": [
+   "戈貢佐拉",
+   "義大利藍紋乳酪",
+   "藍紋起司",
+   "gorgonzola"
+  ],
+  "summary": "古岡左拉有兩種：dolce 柔軟到幾乎可以用湯匙挖，piccante 則結實、乾一些、味道更嗆。開封後請把 dolce 當成冷藏 1～2 週的乳酪；piccante 可以放久一點。不要指望冷凍——解凍後會碎散又出水。",
+  "pantry": "古岡左拉濕潤、酸度低，不能室溫保存。要吃之前約半小時把那一塊拿出來回溫，這時質地最好，其餘冰回去。一整塊在起司盤上放一整晚會回溫、軟塌、開始流動；那不是熟成，那是走向終點。",
+  "fridge": "Dolce 是柔軟、含水量高、酸度又低的乳酪，就該照這個規格對待：開封後在 0～5 °C 下大約 1～2 週，用蠟紙包好再放進不密閉的盒子。這個數字借自布里等軟質乳酪的公告值，因為沒有機構公告過古岡左拉的數字。結實偏乾的 piccante 可以撐到接近三到四週，那是我們從「已開封硬質乳酪」推估出來的，不是公告數字。兩種在冰箱裡都還在熟成——藍紋擴散、靠近外皮的質地變軟、氣味從甜轉為刺鼻的氨味。氨味是終點，不是一個階段。",
+  "freezer": "這裡不給冷凍期限，因為冷凍會毀掉它的質地：解凍後碎散出水，回不去起司盤。真的必須冷凍，就切成一次入菜的小塊放 −18 °C 做醬汁用，並接受這個損失。比較好的做法是只買吃得完的量——古岡左拉按塊零售，正是因為它放不久。",
+  "thawing": "連包裝放冷藏解凍，解凍後直接下熱醬汁。乳酪不要放室溫解凍，也不要再次冷凍。",
+  "spoilage": [
+   "氨味蓋過原本香甜的藍黴氣味。",
+   "切面長出灰、粉紅或黑色的絨毛霉——藍色紋路是乳酪本身，這些不是。",
+   "邊緣出現褐色、半透明的流動狀並向內蔓延。",
+   "吃起來發苦或有金屬味。"
+  ],
+  "tips": [
+   "常買小塊，不要偶爾買一大塊。",
+   "蠟紙包、鬆蓋盒裝；保鮮膜貼著切面會讓它出汗。",
+   "包兩層，不然奶油和蛋都會被染味。",
+   "味道開始太衝的那一塊，就煮進醬汁裡用掉。"
+  ],
+  "faq": [
+   {
+    "q": "古岡左拉乳酪冷藏可以放多久？",
+    "a": "柔軟的 dolce 開封後在 0～5 °C 下大約 1～2 週。結實的 piccante 接近三到四週，那是我們的推估而非公告數字。"
+   },
+   {
+    "q": "古岡左拉可以冷凍嗎？",
+    "a": "沒有對應期限，而且冷凍會毀掉質地。只有要入菜時才切塊冷凍，並接受它不再能當佐酒乳酪。"
+   },
+   {
+    "q": "懷孕可以吃古岡左拉嗎？",
+    "a": "不建議。孕婦、長者與免疫力低下者被建議避開藍紋乳酪，包括使用巴氏殺菌乳製作的——風險來自殺菌之後的污染，在這種濕潤、低酸、長期熟成的乳酪中李斯特菌可以生長。加熱煮透則沒有這個顧慮。"
+   },
+   {
+    "q": "古岡左拉的藍黴可以吃嗎？",
+    "a": "藍色紋路是刻意接種的 Penicillium roqueforti，本來就是乳酪的一部分。切面上灰色、粉紅或黑色的絨毛霉則不是，出現就整塊丟掉。"
+   }
+  ]
+ }
+}

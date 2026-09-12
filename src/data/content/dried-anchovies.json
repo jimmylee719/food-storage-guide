@@ -1,0 +1,91 @@
+{
+ "slug": "dried-anchovies",
+ "en": {
+  "name": "Dried anchovies",
+  "aliases": [
+   "niboshi",
+   "ikan bilis",
+   "dried baby fish",
+   "iriko"
+  ],
+  "summary": "Dried anchovies are tiny whole fish boiled in brine and dried until brittle, used for stock and for frying. Sealed in a cool dry cupboard they keep 4–6 months; in the fridge 6–12 months, and in the freezer about 12 months. The failure mode is rancidity, not bacteria.",
+  "pantry": "Keep them sealed, cool, dry and dark, and they run about 4–6 months. That range is the general figure for dried foods taken at the short end, because these are oily little fish rather than merely dried ones; no agency publishes a number for dried anchovies specifically. The rule for anything that needs no refrigeration is a sealed or covered container somewhere cool and dry. The failure mode is not bacteria but rancidity: the give-away is a sharp paint-like smell and a yellow-brown cast on what should be silver.",
+  "fridge": "In a warm or humid kitchen the fridge is the better home: 6–12 months at 4 °C (40 °F) or below in a well-sealed jar or a double bag. This figure is ordinary practice rather than a published number, so treat it as quality guidance. Seal them properly or the fish will perfume the milk and the butter — dried anchovy smell travels through a fridge with remarkable efficiency. Let the jar come up to room temperature before opening it, so condensation does not settle on the fish.",
+  "freezer": "Freezing is the standard advice for an opened bag: about 12 months at −18 °C (0 °F), again ordinary practice rather than a published figure. Double-bag them, because the smell transfers to everything else in the freezer. Use them straight from frozen for stock — there is so little water in them that they do not clump or need thawing. Frozen food stays safe indefinitely at −18 °C; the timeline is about the oil, which is what eventually turns.",
+  "thawing": "No thawing needed: use them straight from the freezer. Reseal the bag at once so moisture does not condense on the fish.",
+  "spoilage": [
+   "A sharp, paint-like or crayon smell — the oil has gone rancid.",
+   "A yellow-brown cast where the fish should be silver.",
+   "Fish that have gone soft, tacky or limp instead of brittle.",
+   "Any mould, or a musty smell from damp that has got in."
+  ],
+  "tips": [
+   "Buy small bags; oily dried fish does not reward stocking up.",
+   "Freeze the bag as soon as you open it.",
+   "Remove the heads and guts for a cleaner, less bitter stock.",
+   "Let a cold jar warm up before opening it, to avoid condensation."
+  ],
+  "faq": [
+   {
+    "q": "How long do dried anchovies keep?",
+    "a": "About 4–6 months sealed in a cool dry cupboard, 6–12 months refrigerated, and about 12 months frozen."
+   },
+   {
+    "q": "Do dried anchovies need to be refrigerated?",
+    "a": "Not necessarily, but in a warm or humid kitchen it is the better choice — it slows the oil going rancid and keeps pantry moths out."
+   },
+   {
+    "q": "Can you freeze dried anchovies?",
+    "a": "Yes, about 12 months at −18 °C, and it is the usual advice once a bag is opened. Use them straight from frozen."
+   },
+   {
+    "q": "How can you tell if dried anchovies have gone off?",
+    "a": "A sharp paint-like smell and a yellow-brown colour mean the oil has turned. Softness or mould means they have taken up moisture."
+   }
+  ]
+ },
+ "zh": {
+  "name": "小魚乾",
+  "aliases": [
+   "丁香魚乾",
+   "銀魚乾",
+   "煮干し",
+   "江魚仔"
+  ],
+  "summary": "小魚乾是整條小魚用鹽水煮過後乾燥到酥脆的產品，用來熬湯或油炸。密封放陰涼乾燥櫥櫃可放 4～6 個月；冷藏 6～12 個月；冷凍約 12 個月。它壞掉的方式是油耗，不是細菌。",
+  "pantry": "密封、陰涼、乾燥、避光，大約可放 4～6 個月。這個區間取自乾貨的通用數字的短端，因為它們是含油的小魚，而不只是單純曬乾的東西；沒有機構針對小魚乾公告過數字。所有不需冷藏的乾貨的通則是：密封或加蓋容器，放在陰涼乾燥處。它的失效模式不是細菌而是油耗：判斷關鍵是刺鼻的油漆味，以及本該銀亮的魚身泛出黃褐色。",
+  "fridge": "在悶熱或潮濕的廚房，冰箱是更好的住處：密封罐或雙層袋裝，放 4 °C 以下，6～12 個月。這個數字是一般實務做法而非公告值，請當成品質指引。務必密封好，否則牛奶和奶油都會被染味——小魚乾的氣味在冰箱裡跑得非常有效率。開罐前先讓罐子回到室溫，避免水氣凝結在魚上。",
+  "freezer": "開封後冷凍是標準做法：−18 °C 下約 12 個月，同樣是一般實務而非公告值。請套兩層袋，因為氣味會轉移到冷凍庫裡所有東西上。熬湯時直接從冷凍拿出來用——它含水極低，不會結塊也不需要解凍。−18 °C 下安全性是無限期的，期限講的是油脂，那才是最後會變質的部分。",
+  "thawing": "不需要解凍，直接從冷凍取用。取完立刻封回袋口，避免水氣凝結。",
+  "spoilage": [
+   "刺鼻的油漆味或蠟筆味——油脂已經油耗。",
+   "本該銀亮的魚身泛出黃褐色。",
+   "魚身變軟、發黏、失去脆度。",
+   "長霉，或因受潮出現霉味。"
+  ],
+  "tips": [
+   "買小包；含油的乾魚不適合囤。",
+   "一開封就整袋冷凍。",
+   "去頭去內臟，熬出來的湯更清、不苦。",
+   "冰過的罐子先回溫再開，避免結露。"
+  ],
+  "faq": [
+   {
+    "q": "小魚乾可以放多久？",
+    "a": "密封放陰涼乾燥櫥櫃約 4～6 個月，冷藏 6～12 個月，冷凍約 12 個月。"
+   },
+   {
+    "q": "小魚乾需要冷藏嗎？",
+    "a": "不一定，但在濕熱的廚房裡冷藏比較好——可以減緩油脂氧化，也避免米蟲。"
+   },
+   {
+    "q": "小魚乾可以冷凍嗎？",
+    "a": "可以，−18 °C 下約 12 個月，而且是開封後的常見做法。直接從冷凍取用即可。"
+   },
+   {
+    "q": "怎麼判斷小魚乾壞掉了？",
+    "a": "刺鼻油漆味加上黃褐色，代表油脂變質；變軟或長霉則代表受潮。"
+   }
+  ]
+ }
+}

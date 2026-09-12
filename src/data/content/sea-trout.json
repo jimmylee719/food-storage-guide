@@ -1,0 +1,91 @@
+{
+ "slug": "sea-trout",
+ "en": {
+  "name": "Sea trout",
+  "aliases": [
+   "sewin",
+   "salmon trout",
+   "migratory brown trout",
+   "weakfish"
+  ],
+  "summary": "Sea trout is a brown trout that has run to sea and come back, with pale pink flesh somewhere between trout and salmon. From purchase it keeps 1–2 days in the fridge and 4–8 months in the freezer.",
+  "pantry": "Sea trout has no room-temperature life. It is a delicate fish with fine flakes that soften quickly once warm, and the belly is the first part to go. Take a cool bag, get it home, and follow the 2-hour rule, or 1 hour if it is above 32 °C (90 °F). If you have been given a whole fish by an angler, gut it as soon as you can rather than waiting until you get home — the gut is where spoilage starts.",
+  "fridge": "Keep it at 4 °C (40 °F) or below, gutted, on ice, in a container that catches the melt water, and cook it within 1–2 days from purchase. Lay fillets skin-side down in a single layer rather than stacking them, and leave the skin on: it protects the flesh and it crisps beautifully. Store on the bottom shelf below anything ready to eat. If you plan to eat it raw or lightly cured, buy fish sold for raw eating — freezing is the parasite control for any fish eaten raw, and salt, vinegar and citrus are not.",
+  "freezer": "Sea trout keeps 4–8 months at −18 °C (0 °F). Wrap fillets tightly with no air pockets, or ice-glaze them by dipping in cold water and freezing the film that forms, then freeze flat in meal-sized portions. The pink colour dulls over time; that is oxidation of the pigment rather than spoilage, but it is a sign the quality window is closing. Frozen food stays safe indefinitely at −18 °C; the months are about quality.",
+  "thawing": "Thaw in the fridge overnight on a plate, or in a sealed bag under cold running water. Never on the counter or in warm water. Pat it dry, cook it promptly, and do not refreeze raw fish.",
+  "spoilage": [
+   "A sour or ammoniacal smell instead of a clean, faintly sweet one.",
+   "Flesh that stays dented when pressed rather than springing back.",
+   "A soft, translucent belly, or flakes that gape apart.",
+   "Dull grey-pink flesh with a milky film on the surface."
+  ],
+  "tips": [
+   "Gut it as early as possible, especially a fish from an angler.",
+   "Leave the skin on for storage; it protects the flesh.",
+   "Freeze in meal-sized portions the day you get it.",
+   "For raw or cured dishes, buy fish sold for raw eating — curing is not a parasite control."
+  ],
+  "faq": [
+   {
+    "q": "How long does sea trout keep in the fridge?",
+    "a": "1–2 days from purchase at 4 °C (40 °F) or below, gutted and on ice."
+   },
+   {
+    "q": "Can you freeze sea trout?",
+    "a": "Yes, 4–8 months at −18 °C. Wrap it airtight or ice-glaze it and freeze in meal-sized portions."
+   },
+   {
+    "q": "Can you cure sea trout at home like gravlax?",
+    "a": "Only with fish that was frozen first. Salt, sugar, citrus and vinegar do not kill parasites; freezing is the control for any fish eaten raw or lightly cured."
+   },
+   {
+    "q": "Why has my frozen sea trout gone pale?",
+    "a": "The pink pigment oxidises in the freezer. It is not spoilage, but it means the quality window is closing."
+   }
+  ]
+ },
+ "zh": {
+  "name": "海鱒",
+  "aliases": [
+   "降海型褐鱒",
+   "鮭鱒",
+   "海鱒魚",
+   "sea trout"
+  ],
+  "summary": "海鱒是入海洄游後又返回河川的褐鱒，魚肉呈淡粉色，風味介於鱒魚與鮭魚之間。從購買日起冷藏可放 1～2 天，冷凍 4～8 個月。",
+  "pantry": "海鱒沒有室溫保存這回事。它肉質細緻，一回溫魚肉纖維就很快鬆散，而腹部是最先壞的地方。請帶保冷袋盡快回家，並守 2 小時原則，室溫超過 32 °C 時為 1 小時。若是釣友送的整條魚，請盡早在現場就去內臟，不要等回家——腐敗就是從內臟開始的。",
+  "fridge": "去內臟後鋪冰，放 4 °C 以下，容器要能接住融水，並在購買後 1～2 天內煮掉。魚片皮朝下單層平放，不要疊；皮留著，它既保護魚肉、煎起來也很脆。放最下層，位置低於所有即食食品。如果打算生食或做輕漬料理，請購買標示可生食的魚貨——所有生食魚的寄生蟲控制手段是冷凍，鹽、醋和柑橘都不是。",
+  "freezer": "海鱒在 −18 °C 下可放 4～8 個月。魚片包緊不留空氣，或浸冷水做冰鍍，按一餐的量壓平分裝。粉色會隨時間變淡，那是色素氧化而不是腐敗，但它代表品質窗口正在收攏。−18 °C 下安全性是無限期的，月數講的是品質。",
+  "thawing": "放盤子上冷藏隔夜解凍，或密封裝袋用冷水沖。不要放室溫或泡溫水。擦乾後盡快烹調，生魚不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸或有氨味，而不是乾淨帶淡甜的魚味。",
+   "按壓後凹陷回不來，而不是有彈性。",
+   "腹部變軟、變得半透明，或肌肉纖維裂開。",
+   "魚肉轉為黯淡灰粉色，表面出現乳白薄膜。"
+  ],
+  "tips": [
+   "盡早去內臟，釣友給的魚尤其如此。",
+   "保存時魚皮留著，它會保護魚肉。",
+   "拿到當天就按一餐的量分裝冷凍。",
+   "要做生食或漬物，請買標示可生食的魚——醃漬不是寄生蟲控制手段。"
+  ],
+  "faq": [
+   {
+    "q": "海鱒冷藏可以放多久？",
+    "a": "去內臟鋪冰、放 4 °C 以下，從購買日起 1～2 天。"
+   },
+   {
+    "q": "海鱒可以冷凍嗎？",
+    "a": "可以，−18 °C 下 4～8 個月。包緊或做冰鍍，按一餐的量分裝。"
+   },
+   {
+    "q": "可以在家做成類似生醃鮭魚的漬物嗎？",
+    "a": "只有先冷凍過的魚才行。鹽、糖、柑橘和醋都殺不死寄生蟲；生食或輕漬的控制手段是冷凍。"
+   },
+   {
+    "q": "冷凍的海鱒為什麼顏色變淡？",
+    "a": "粉紅色素在冷凍過程中氧化了。那不是腐敗，但代表品質期限快到了。"
+   }
+  ]
+ }
+}

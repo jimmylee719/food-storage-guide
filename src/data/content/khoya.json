@@ -1,0 +1,91 @@
+{
+ "slug": "khoya",
+ "en": {
+  "name": "Khoya",
+  "aliases": [
+   "khoa",
+   "mawa",
+   "reduced milk solids",
+   "pindi khoa"
+  ],
+  "summary": "Khoya is whole milk boiled down until almost all the water has gone and what is left is a dense, pale mass of milk solids — the base of burfi, peda and gulab jamun. It is perishable, not a pantry good: keep it refrigerated and use it within 5–7 days.",
+  "pantry": "Khoya does not keep at room temperature, despite how dry and solid it looks. Reducing milk removes water but leaves a moist, low-acid, protein- and fat-rich solid that spoils much like a fresh cheese. Buy it from a counter with real refrigeration, carry it home cold, and follow the 2-hour rule once it is out — 1 hour if the kitchen is above 32 °C (90 °F). Sweetmeat shops often display trays at room temperature; that is a same-day proposition at best.",
+  "fridge": "Keep khoya at 4 °C (40 °F) or below, wrapped tight, and use it within 5–7 days. That range is borrowed from what is published for cottage cheese and capped by the guidance that khoya-based sweets such as milk cake, plain burfi and peda should be eaten within 7 days of manufacture; plain khoya, without the sugar of those sweets, cannot honestly be given longer. Smell it before use — khoya sours and picks up a stale, tallowy note well before it looks wrong. Wrap it in its own greaseproof paper inside a box so it does not dry out or take up fridge smells.",
+  "freezer": "Khoya is commonly frozen and it works: flatten it into wrapped portions, bag them and freeze at −18 °C (0 °F), then thaw in the fridge. No source gives a limit, so we do not invent one — but the fat is what eventually goes rancid, so treat it as a few months rather than indefinite, and label the date. Frozen khoya crumbles more after thawing, which matters not at all once it is cooked into a sweet.",
+  "thawing": "Thaw wrapped portions overnight in the fridge, never on the counter, and use them within a day or two. Do not refreeze thawed khoya.",
+  "spoilage": [
+   "A sour or fermented smell instead of a sweet, cooked-milk one.",
+   "A stale, tallowy or crayon-like note — the fat is going rancid.",
+   "Any mould, or a slimy or sticky surface.",
+   "A sharp or bitter taste, or a grey or pink cast to the colour."
+  ],
+  "tips": [
+   "Buy from a shop with proper chilled display and quick turnover.",
+   "Freeze it in flattened, recipe-sized portions the day you buy it.",
+   "Smell it every time; khoya goes off by nose long before it looks bad.",
+   "Wrap tightly — it dries out and takes up fridge odours fast."
+  ],
+  "faq": [
+   {
+    "q": "How long does khoya last in the fridge?",
+    "a": "About 5–7 days at 4 °C or below, wrapped tight. That is borrowed from cottage cheese and capped by the 7-day guidance for khoya-based sweets."
+   },
+   {
+    "q": "Can khoya be kept at room temperature?",
+    "a": "No. It is a perishable milk product, not a dried one. Keep it cold and follow the 2-hour rule once it is out."
+   },
+   {
+    "q": "Can you freeze khoya?",
+    "a": "Yes, in flattened wrapped portions at −18 °C. No source gives a limit, so treat it as a few months rather than indefinite and label the date."
+   },
+   {
+    "q": "How can you tell if khoya has gone bad?",
+    "a": "Smell it. Sourness, or a stale tallowy note, comes well before any visible change. Mould or sliminess means throw it out."
+   }
+  ]
+ },
+ "zh": {
+  "name": "印度濃縮奶膏",
+  "aliases": [
+   "khoya",
+   "mawa",
+   "馬瓦",
+   "濃縮奶塊"
+  ],
+  "summary": "Khoya 是把全脂牛奶熬到幾乎收乾，剩下的一團緻密淺色乳固形物，是 burfi、peda、gulab jamun 等印度甜點的基底。它是易腐食品而不是常溫乾貨：請冷藏並在 5～7 天內用完。",
+  "pantry": "khoya 看起來又乾又硬，但它並不耐室溫。熬煮去掉的是水分，留下的仍是濕潤、低酸、蛋白質與脂肪都高的固體，腐敗方式和新鮮乳酪差不多。請向有確實冷藏設備的店家購買，回程保冷，離開冰箱後遵守 2 小時原則（廚房超過 32 °C 時為 1 小時）。甜點店常常把整盤放在室溫展示，那頂多是「當天吃完」的做法。",
+  "fridge": "包緊放在 4 °C 以下，並在 5～7 天內用完。這個區間借自茅屋起司的公告值，並以另一條指引為上限：以 khoya 為基底的甜點（milk cake、原味 burfi、peda）應在製造後 7 天內食用完畢；沒有那些糖分的純 khoya，實在無法誠實地給更長的期限。使用前先聞——khoya 走味時會先出現酸味和陳舊的油脂味，外觀往往還看不出來。用防油紙包好再裝盒，才不會乾掉或吸附冰箱雜味。",
+  "freezer": "khoya 很常被冷凍，效果也不錯：壓扁、分成小份包好裝袋，放 −18 °C，之後放冷藏解凍。沒有任何來源給出上限，所以我們不會自己編一個——但最終會壞掉的是脂肪的氧化，所以請當成幾個月而不是無限期，並標上日期。解凍後質地更鬆散，但只要煮成甜點就完全不影響。",
+  "thawing": "小份包裝放冷藏隔夜解凍，不要放室溫，解凍後一兩天內用完。不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸或有發酵味，而不是煮過牛奶的甜香。",
+   "出現陳舊的油脂味或蠟筆味——脂肪正在氧化。",
+   "長霉，或表面黏滑。",
+   "吃起來刺口發苦，或顏色泛灰、泛粉紅。"
+  ],
+  "tips": [
+   "向有確實冷藏展示、周轉又快的店家購買。",
+   "買回來當天就壓平分成食譜用量的小份冷凍。",
+   "每次用之前都先聞；khoya 壞掉是先從氣味開始。",
+   "包緊——它乾得快，也很會吸冰箱的味道。"
+  ],
+  "faq": [
+   {
+    "q": "khoya 冷藏可以放多久？",
+    "a": "包緊放 4 °C 以下約 5～7 天。這是借用茅屋起司的數字，並以 khoya 甜點「製造後 7 天內食用」的指引為上限。"
+   },
+   {
+    "q": "khoya 可以放室溫嗎？",
+    "a": "不行。它是易腐的乳製品而不是乾貨，要全程冷藏，離開冰箱後守 2 小時原則。"
+   },
+   {
+    "q": "khoya 可以冷凍嗎？",
+    "a": "可以，壓平分小份包好放 −18 °C。沒有來源給出上限，所以請當成幾個月而不是無限期，並標上日期。"
+   },
+   {
+    "q": "怎麼判斷 khoya 壞掉了？",
+    "a": "用聞的。酸味或陳舊油脂味會比外觀變化早很多。長霉或表面黏滑就直接丟掉。"
+   }
+  ]
+ }
+}

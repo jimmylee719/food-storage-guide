@@ -1,0 +1,91 @@
+{
+ "slug": "halloumi",
+ "en": {
+  "name": "Halloumi",
+  "aliases": [
+   "haloumi",
+   "hellim",
+   "grilling cheese",
+   "Cypriot cheese"
+  ],
+  "summary": "Halloumi is a firm, very salty Cypriot cheese kept in brine, famous for holding its shape on a grill. Unopened in its sealed brine pack it keeps up to about 5 months in the fridge; once cut, 1–2 weeks submerged in brine. It freezes for 6 months and takes it better than most cheeses.",
+  "pantry": "Halloumi is a chilled cheese, not a preserve. The salt and the brine are what carry it, not the curd itself, and a pack left out in a warm kitchen is a wet, low-acid cheese sitting in the danger zone. Follow the 2-hour rule, or 1 hour above 32 °C (90 °F). Cook it straight from the fridge — it does not need to come up to room temperature first, and it grills better cold.",
+  "fridge": "Unopened in its sealed brine pack, halloumi keeps up to about 5 months at 4 °C (40 °F) or below, or to the printed date if that comes first — and while the pack is sealed the printed date is the more reliable of the two. That figure is borrowed from what is published for string cheese rather than measured on halloumi. Once cut, keep the block submerged in its own brine, topping it up with a strong salt solution if you poured it away, in a sealed tub for 1–2 weeks. It is firmer and far saltier than a soft fresh cheese, but it is still high in moisture, and Listeria monocytogenes grows at refrigerator temperatures as low as 0 °C — so if the brine turns cloudy or ropy, discard it.",
+  "freezer": "Halloumi freezes for 6 months at −18 °C (0 °F) and takes it better than almost any other cheese, because it does not melt: the protein structure that survives a hot pan also survives ice crystals reasonably well. Slice it before freezing, interleave the slices with baking paper so they come apart, and cook them straight from frozen. Frozen food stays safe indefinitely at −18 °C; the timeline is about quality.",
+  "thawing": "There is no need to thaw halloumi — grill or fry the slices from frozen. If you do thaw it, do so in the fridge and use it the same day. Do not refreeze.",
+  "spoilage": [
+   "Brine that has turned cloudy, ropy or slippery.",
+   "A sour, yeasty or ammoniac smell over the usual salty milkiness.",
+   "Slime or any mould on the block.",
+   "A soft, mushy surface where the cheese should squeak and resist."
+  ],
+  "tips": [
+   "Keep the cut block under brine; drained halloumi dries and sours much faster.",
+   "Slice the whole block before freezing so you can cook a few pieces at a time.",
+   "Soak very salty halloumi in fresh water briefly before cooking, then cook it that day.",
+   "Use a clean fork; never return a slice to the tub."
+  ],
+  "faq": [
+   {
+    "q": "How long does halloumi last in the fridge?",
+    "a": "Unopened in its sealed brine pack, up to about 5 months at 4 °C or below, or the printed date if sooner. Once cut, 1–2 weeks submerged in brine."
+   },
+   {
+    "q": "Can you freeze halloumi?",
+    "a": "Yes, 6 months at −18 °C, and it takes freezing well because it does not melt. Slice it first and cook it from frozen."
+   },
+   {
+    "q": "What if I threw the brine away?",
+    "a": "Make a strong salt solution and cover the block with it. Drained halloumi loses its protection and dries out and sours quickly."
+   },
+   {
+    "q": "How can you tell if halloumi has gone off?",
+    "a": "Cloudy or ropy brine, slime on the block, mould, or a sour rather than salty smell. Discard rather than rinsing and using it."
+   }
+  ]
+ },
+ "zh": {
+  "name": "哈羅米起司",
+  "aliases": [
+   "哈魯米乳酪",
+   "賽普勒斯烤起司",
+   "halloumi",
+   "鹽水起司"
+  ],
+  "summary": "哈羅米是賽普勒斯的結實鹹味乳酪，泡在鹽水裡保存，最有名的是下鍋煎烤也不會融化。未開封的鹽水包冷藏可放到約 5 個月；切開後浸在鹽水裡 1～2 週。冷凍可放 6 個月，而且它的耐凍性比多數乳酪都好。",
+  "pantry": "哈羅米是冷藏乳酪，不是常溫保存品。撐住它的是鹽和鹽水，不是凝乳本身；整包放在溫暖廚房裡，就是一塊低酸高水分的乳酪待在危險溫度帶。請守 2 小時原則，超過 32 °C 時為 1 小時。要煎就直接從冰箱拿出來下鍋——不需要先回溫，冰的反而更好煎。",
+  "fridge": "未開封的密封鹽水包放 4 °C 以下，可以放到約 5 個月，或以包裝標示日期為準（兩者取先到者）——而且在包裝完好的情況下，標示日期比這個數字更可靠。那個月數是借用「拉絲起司條」的公告值，不是哈羅米本身的實測值。切開之後，請把整塊浸在自己的鹽水裡（倒掉了就自己調濃鹽水補上），密封盒裝，1～2 週內用完。它比軟質新鮮乳酪結實得多也鹹得多，但含水量仍然高，而李斯特菌在低到 0 °C 的冷藏溫度下仍會生長——所以鹽水一旦變混濁或牽絲，就丟掉。",
+  "freezer": "哈羅米在 −18 °C 下可放 6 個月，而且耐凍程度幾乎勝過所有乳酪，因為它不融化：能撐過熱鍋的蛋白質結構，對冰晶也相對耐受。冷凍前先切片，片與片之間夾烘焙紙好分開，之後直接從冷凍下鍋煎。−18 °C 下安全性是無限期的，期限講的是品質。",
+  "thawing": "哈羅米不需要解凍——直接從冷凍煎或烤即可。如果真的解凍了，請放冷藏並當天用完，不要再次冷凍。",
+  "spoilage": [
+   "鹽水變混濁、牽絲或滑膩。",
+   "在原本的鹹奶味之外出現酸味、酵母味或氨味。",
+   "塊體發黏或長霉。",
+   "本該咬起來有阻力、會吱吱響的部位變得軟爛。"
+  ],
+  "tips": [
+   "切開的塊體要泡在鹽水裡；瀝乾的哈羅米乾得快、酸得也快。",
+   "冷凍前把整塊切完片，之後要煎幾片拿幾片。",
+   "太鹹的話下鍋前用清水泡一下，但泡過就當天用完。",
+   "用乾淨的叉子；拿出來的片不要放回盒裡。"
+  ],
+  "faq": [
+   {
+    "q": "哈羅米起司冷藏可以放多久？",
+    "a": "未開封的密封鹽水包在 4 °C 以下可放到約 5 個月，或以標示日期為準。切開後浸在鹽水裡 1～2 週。"
+   },
+   {
+    "q": "哈羅米可以冷凍嗎？",
+    "a": "可以，−18 °C 下 6 個月，而且因為它不融化，耐凍性很好。先切片，直接從冷凍下鍋。"
+   },
+   {
+    "q": "鹽水倒掉了怎麼辦？",
+    "a": "自己調濃鹽水把整塊淹過。瀝乾的哈羅米失去保護，會很快變乾變酸。"
+   },
+   {
+    "q": "怎麼判斷哈羅米壞掉了？",
+    "a": "鹽水混濁牽絲、塊體發黏、長霉，或聞起來是酸味而不是鹹味。請直接丟棄，不要沖洗後繼續用。"
+   }
+  ]
+ }
+}

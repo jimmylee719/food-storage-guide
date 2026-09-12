@@ -1,0 +1,91 @@
+{
+ "slug": "salted-duck-egg-yolk",
+ "en": {
+  "name": "Salted duck egg yolk",
+  "aliases": [
+   "salted egg yolk",
+   "salted yolk",
+   "mooncake yolk",
+   "baked salted yolk"
+  ],
+  "summary": "These are the yolks of brine-cured duck eggs, sold loose or vacuum-packed, raw or already baked, for mooncakes, 蛋黃酥 and zongzi. Refrigerated they keep about 1 week; frozen, 3–4 months, which is the right way to keep a bag of them.",
+  "pantry": "Separated yolks do not keep at room temperature. Salt-cured they may be, but a yolk lifted out of its shell and its brine has lost most of its protection and is a rich, low-acid food. Baked or steamed yolks should go straight from cooling into the fridge rather than sitting on a tray while you finish the pastry, and raw ones should never be left out at all. Follow the 2-hour rule, or 1 hour above 32 °C (90 °F).",
+  "fridge": "Keep the yolks in a sealed box at 4 °C (40 °F) or below and use them within about 1 week, whether they are raw, vacuum-packed or already baked. That figure is borrowed from what is published for hard-boiled eggs; no agency publishes one for salted yolks. Keep them separate from strong-smelling food — egg yolk picks up odours readily — and if they came in a vacuum pack, decant what you open into a covered box rather than trying to reseal it.",
+  "freezer": "Freezing is the right way to keep a bag of yolks: 3–4 months at −18 °C (0 °F). Freeze them in a single layer on a tray first, then bag them so they do not fuse into a lump. They come out slightly grainy, which does not matter once they are baked into a pastry or mashed into a sauce. Frozen food stays safe indefinitely at −18 °C; the months are a quality window, and it is the fat that eventually goes off-flavour.",
+  "thawing": "Thaw the yolks in the fridge, not on the counter, and use them the same day. They can also go straight into a hot dish from frozen. Do not refreeze them.",
+  "spoilage": [
+   "A rancid, paint-like or fishy smell — the fat has oxidised.",
+   "A grey, green or chalky-white surface instead of deep orange.",
+   "A slimy or sticky coating, or any mould.",
+   "A dry, crumbling yolk that has lost its oil, or a bitter taste."
+  ],
+  "tips": [
+   "Freeze them on a tray first so they stay separate in the bag.",
+   "Label the bag with the date and whether they are raw or baked.",
+   "Keep them away from milk and butter in the fridge; the smell transfers.",
+   "Spritz raw yolks with a little rice wine before baking, as many bakers do, and use them that day."
+  ],
+  "faq": [
+   {
+    "q": "How long do salted egg yolks keep in the fridge?",
+    "a": "About 1 week at 4 °C or below, raw or baked. That is the hard-boiled egg figure applied here; no agency publishes one for salted yolks."
+   },
+   {
+    "q": "Can you freeze salted egg yolks?",
+    "a": "Yes, 3–4 months at −18 °C, and it is the best way to keep them. Freeze them in a single layer first, then bag them."
+   },
+   {
+    "q": "Do raw salted egg yolks need cooking?",
+    "a": "Yes. The salt cure is a seasoning, not a kill step, so bake or steam them before eating."
+   },
+   {
+    "q": "Why have my salted egg yolks gone grainy?",
+    "a": "Freezing does that to the fat and protein. It makes no difference once they are baked into a pastry or mashed into a filling."
+   }
+  ]
+ },
+ "zh": {
+  "name": "鹹蛋黃",
+  "aliases": [
+   "鹹鴨蛋黃",
+   "生鹹蛋黃",
+   "熟鹹蛋黃",
+   "蛋黃酥用蛋黃"
+  ],
+  "summary": "鹹蛋黃是鹽漬鴨蛋剝出來的蛋黃，散裝或真空包裝，有生的也有已經烤熟的，用來做月餅、蛋黃酥和粽子。冷藏大約可放 1 週；冷凍 3～4 個月，而後者才是保存一整包蛋黃的正確方式。",
+  "pantry": "剝出來的蛋黃不耐室溫。它確實經過鹽漬，但一顆離開蛋殼和鹽水的蛋黃已經失去大部分保護，而且是油脂豐富、酸度又低的食物。烤過或蒸過的蛋黃放涼後就要直接進冰箱，不要一邊做酥皮一邊讓它在盤子上放著；生的更是完全不能放外面。請守 2 小時原則，超過 32 °C 時為 1 小時。",
+  "fridge": "密封盒裝放 4 °C 以下，約 1 週內用完，不管是生的、真空包的還是已經烤過的。這個數字借自水煮蛋的公告值；沒有機構公告過鹹蛋黃的期限。要和氣味重的食物分開放——蛋黃很會吸味；真空包拆開後請倒進有蓋容器，不要硬去重新封口。",
+  "freezer": "一整包蛋黃的正確保存方式就是冷凍：−18 °C 下 3～4 個月。先單層排在盤上凍硬，再裝袋，才不會黏成一整團。解凍後質地略粗，但做成酥皮內餡或壓進醬汁完全不影響。−18 °C 下安全性是無限期的，月數是品質窗口，最終走味的是油脂。",
+  "thawing": "放冷藏解凍，不要放室溫，並當天用完。也可以直接從冷凍下熱鍋。不要再次冷凍。",
+  "spoilage": [
+   "有油耗味、油漆味或腥味——油脂已經氧化。",
+   "表面泛灰、泛綠或變成粉白，而不是深橘色。",
+   "表面黏滑，或長霉。",
+   "蛋黃乾硬碎裂、油脂盡失，或吃起來發苦。"
+  ],
+  "tips": [
+   "先鋪盤單層凍硬再裝袋，才不會黏成一塊。",
+   "袋上標日期，並註明是生的還是烤過的。",
+   "冰箱裡遠離牛奶和奶油；氣味會轉移。",
+   "生蛋黃入烤箱前噴一點米酒（很多烘焙師傅的做法），並當天用完。"
+  ],
+  "faq": [
+   {
+    "q": "鹹蛋黃冷藏可以放多久？",
+    "a": "不論生熟，放 4 °C 以下約 1 週。這是水煮蛋的數字套用過來；鹹蛋黃本身沒有公告值。"
+   },
+   {
+    "q": "鹹蛋黃可以冷凍嗎？",
+    "a": "可以，−18 °C 下 3～4 個月，而且這是最好的保存方式。先單層凍硬再裝袋。"
+   },
+   {
+    "q": "生鹹蛋黃需要煮熟嗎？",
+    "a": "需要。鹽漬是調味不是殺菌步驟，請先烤過或蒸過再吃。"
+   },
+   {
+    "q": "鹹蛋黃為什麼變得粗粗沙沙的？",
+    "a": "冷凍會讓油脂和蛋白質產生這種變化。烤成酥皮內餡或壓成餡料之後完全吃不出來。"
+   }
+  ]
+ }
+}

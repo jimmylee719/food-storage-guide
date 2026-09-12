@@ -1,0 +1,91 @@
+{
+ "slug": "queso-oaxaca",
+ "en": {
+  "name": "Queso Oaxaca",
+  "aliases": [
+   "quesillo",
+   "Oaxaca cheese",
+   "Mexican string cheese",
+   "queso de hebra"
+  ],
+  "summary": "Queso Oaxaca is a pulled-curd cheese wound by hand into a ball, the Mexican cousin of mozzarella — mild, salty and stringy. Unopened and vacuum-packed it keeps about 3–4 weeks in the fridge; once you break into the ball it is a much shorter proposition. Frozen, about 6 months.",
+  "pantry": "Oaxaca is a moist fresh cheese and must stay cold. It is pulled and wound by hand, which means a lot of handling, and Listeria contamination has occurred in Mexican-style cheeses made with pasteurised milk as well as raw — so buy it labelled pasteurizada, keep it at 4 °C (40 °F) or below, and discard it if it has sat in the danger zone between 4 and 60 °C (40–140 °F) for more than 2 hours, or 1 hour above 32 °C (90 °F). Pregnant, elderly and immunocompromised readers should treat any fresh Mexican-style cheese with the same caution as queso fresco.",
+  "fridge": "Unopened and vacuum-packed it holds about 3–4 weeks at 4 °C (40 °F) or below. That figure is borrowed from what is published for string cheese and cut back hard, because Oaxaca is sold as a moist hand-wound ball rather than a sealed industrial stick — read it as best-quality guidance for an unopened pack rather than a safety limit. Once the ball is broken into, wrap the remainder tightly and use it within about a week: every strand you pull is a new surface exposed. It should squeak and pull; a slick, sour or ammoniacal surface means it is done.",
+  "freezer": "Oaxaca freezes for about 6 months at −18 °C (0 °F). Freeze it as an unbroken ball or in wound skeins, double-wrapped so it does not pick up freezer smells. It thaws crumbly and loses some of the pull, so freeze it for quesadillas and tlayudas rather than for eating in strands. Frozen food stays safe indefinitely at −18 °C; the months are about quality.",
+  "thawing": "Thaw it wrapped in the fridge overnight and use it melted. Do not thaw it on the counter, and do not refreeze it.",
+  "spoilage": [
+   "A slick or slimy surface rather than a springy, squeaky one.",
+   "A sour or ammoniacal smell instead of a mild milky one.",
+   "Mould of any colour, especially where strands overlap.",
+   "Strands that tear and crumble instead of pulling."
+  ],
+  "tips": [
+   "Buy it labelled pasteurizada.",
+   "Keep the ball whole until you need it; unwinding it starts the clock.",
+   "Wrap the remainder tight and press the air out.",
+   "Freeze it whole rather than shredded."
+  ],
+  "faq": [
+   {
+    "q": "How long does queso Oaxaca keep in the fridge?",
+    "a": "About 3–4 weeks unopened and vacuum-packed at 4 °C or below. Once broken into, use it within about a week."
+   },
+   {
+    "q": "Can you freeze queso Oaxaca?",
+    "a": "Yes, about 6 months at −18 °C. Freeze it as a whole ball; it thaws crumblier and loses some stretch, so use it melted."
+   },
+   {
+    "q": "Is queso Oaxaca safe during pregnancy?",
+    "a": "Treat it with the same caution as queso fresco: buy it pasteurised, keep it properly cold, and eat it thoroughly cooked rather than raw."
+   },
+   {
+    "q": "How can you tell if queso Oaxaca has gone bad?",
+    "a": "It stops squeaking and pulling, the surface goes slick, and the smell turns sour or ammoniacal. Any mould means it goes."
+   }
+  ]
+ },
+ "zh": {
+  "name": "瓦哈卡乳酪",
+  "aliases": [
+   "quesillo",
+   "墨西哥拉絲乳酪",
+   "墨西哥起司球",
+   "queso Oaxaca"
+  ],
+  "summary": "瓦哈卡乳酪是把凝乳拉伸後用手繞成球狀的墨西哥乳酪，可以說是莫札瑞拉的墨西哥表親，味道溫和帶鹹、可以撕成絲。未開封的真空包冷藏約 3～4 週；一旦把球拆開，能放的時間就短得多。冷凍約 6 個月。",
+  "pantry": "瓦哈卡是含水量高的新鮮乳酪，必須保持低溫。它是靠手工拉伸與纏繞成形，代表經手很多；而墨西哥風味乳酪不論用生乳或巴氏殺菌乳，都曾發生過李斯特菌污染事件——所以請買標示 pasteurizada 的產品，放 4 °C 以下，在 4 到 60 °C 的危險溫度帶超過 2 小時（超過 32 °C 時 1 小時）就丟棄。孕婦、長者與免疫力低下者，請以對待 queso fresco 的同等謹慎看待所有墨西哥新鮮乳酪。",
+  "fridge": "未開封的真空包放 4 °C 以下大約 3～4 週。這個數字借自「拉絲起司條」的公告值並且大幅下修，因為瓦哈卡是手工纏繞、含水量高的球，而不是密封的工業化起司條——請把它讀成未開封包裝的品質指引，而不是安全上限。球一旦拆開，剩下的要包緊並在大約一週內用完：每撕出一條絲，就多一個暴露的表面。它應該有彈性、會吱吱響、能拉出絲；表面滑膩、發酸或出現氨味就是到頭了。",
+  "freezer": "瓦哈卡在 −18 °C 下大約可放 6 個月。整球或整束冷凍，包兩層避免吸附冷凍庫氣味。解凍後會變碎、拉絲能力下降，所以請為了做墨西哥夾餅、tlayuda 而冷凍，不要為了撕著吃。−18 °C 下安全性是無限期的，月數講的是品質。",
+  "thawing": "連包裝放冷藏隔夜解凍，解凍後加熱融化使用。不要放室溫解凍，也不要再次冷凍。",
+  "spoilage": [
+   "表面變得滑膩，而不是有彈性、會吱吱響。",
+   "聞起來發酸或有氨味，而不是淡淡奶香。",
+   "任何顏色的霉，尤其在絲與絲交疊處。",
+   "拉不出絲，一撕就碎。"
+  ],
+  "tips": [
+   "買標示 pasteurizada 的產品。",
+   "要用之前都保持整球；拆開就開始計時。",
+   "剩下的包緊、把空氣擠出來。",
+   "整球冷凍，不要先剝成絲。"
+  ],
+  "faq": [
+   {
+    "q": "瓦哈卡乳酪冷藏可以放多久？",
+    "a": "未開封的真空包在 4 °C 以下約 3～4 週。拆開之後請在大約一週內用完。"
+   },
+   {
+    "q": "瓦哈卡乳酪可以冷凍嗎？",
+    "a": "可以，−18 °C 下約 6 個月。整球冷凍；解凍後較碎、拉絲變差，適合加熱融化使用。"
+   },
+   {
+    "q": "懷孕可以吃瓦哈卡乳酪嗎？",
+    "a": "請以對待 queso fresco 的謹慎看待：買巴氏殺菌品、全程冷藏，並加熱煮透再吃。"
+   },
+   {
+    "q": "怎麼判斷瓦哈卡乳酪壞掉了？",
+    "a": "不再吱吱作響、拉不出絲、表面滑膩、氣味轉酸或出現氨味。長霉就整份丟棄。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "slug": "labneh",
+ "en": {
+  "name": "Labneh",
+  "aliases": [
+   "labaneh",
+   "lebneh",
+   "strained yoghurt",
+   "yoghurt cheese"
+  ],
+  "summary": "Labneh is yoghurt hung and drained until it is thick enough to spread or roll into balls. Refrigerated it keeps 1–2 weeks, a figure borrowed from yoghurt since no agency publishes one for labneh. Jars of labneh balls under olive oil belong in the fridge too, not on the counter.",
+  "pantry": "Labneh is a fresh cultured dairy product and has no room-temperature life. Straining removes whey but not the live culture, so a tub left out keeps fermenting and sours fast. Follow the 2-hour rule, or 1 hour above 32 °C (90 °F). The one case people get wrong is labneh balls under oil, a traditional preserve that looks shelf-stable: food held under oil at room temperature is an anaerobic environment in which Clostridium botulinum can produce toxin, which is why such mixtures are kept refrigerated. Labneh is acidic enough that it is not the same hazard as the garlic-in-oil case that rule comes from, but the caution is worth applying — keep the jar cold.",
+  "fridge": "Keep labneh in a sealed tub at 4 °C (40 °F) or below and treat 1–2 weeks as the working limit, borrowed from the published figure for yoghurt. It keeps souring and sharpening in the cold, so what is pleasant in the first week is noticeably sharper by the second. A thin layer of olive oil poured over the surface slows a skin forming and keeps air off, but it does not preserve it and does not extend the window. Clean spoon every time; a used spoon is what turns a tub ropy or pink.",
+  "freezer": "There is no freezer timeline for labneh, and freezing does it no favours: the strained curd separates and weeps, so what thaws is grainy and watery and only good stirred into cooking — a marinade, a soup finished off the heat, a batter. Make or buy smaller quantities instead. If you have too much, roll it into balls, cover them with olive oil and keep the jar in the fridge, which is the traditional way to stretch it.",
+  "thawing": null,
+  "spoilage": [
+   "Any mould on the surface, under the lid, or on a ball in the oil.",
+   "A yeasty, fizzy or alcoholic smell rather than a clean lactic tang.",
+   "A ropy or stringy texture when you lift the spoon.",
+   "A bitter taste, or a pink or grey cast."
+  ],
+  "tips": [
+   "Buy or make the amount you will eat in a week or so.",
+   "Clean dry spoon every time — this matters more than anything else.",
+   "Pour oil over the surface to stop a skin forming, but keep it cold anyway.",
+   "Keep labneh-in-oil jars in the fridge, not on the counter."
+  ],
+  "faq": [
+   {
+    "q": "How long does labneh keep in the fridge?",
+    "a": "About 1–2 weeks at 4 °C or below in a sealed tub. That figure is borrowed from yoghurt; nobody publishes one for labneh."
+   },
+   {
+    "q": "Can labneh balls in olive oil be kept at room temperature?",
+    "a": "Keep them in the fridge. Food held under oil at room temperature is an anaerobic environment in which Clostridium botulinum can produce toxin, and the safe practice for such jars is refrigeration."
+   },
+   {
+    "q": "Can you freeze labneh?",
+    "a": "There is no timeline for it and it is not worth doing. It separates and weeps, so the thawed labneh is only usable stirred into cooking."
+   },
+   {
+    "q": "Why has my labneh gone slimy?",
+    "a": "Almost always a used spoon introducing other organisms. A ropy or pink tub goes out; it cannot be rescued."
+   }
+  ]
+ },
+ "zh": {
+  "name": "中東瀝乾優格",
+  "aliases": [
+   "labneh",
+   "拉布內",
+   "優格起司",
+   "瀝乾優格"
+  ],
+  "summary": "Labneh 是把優格吊起來瀝掉乳清，濃縮到可以抹、可以搓成球的程度。冷藏可以放 1～2 週，這個數字借自優格，因為沒有機構公告過 labneh 的期限。泡在橄欖油裡的 labneh 球同樣要放冰箱，不是放在流理臺上。",
+  "pantry": "labneh 是生鮮發酵乳製品，沒有室溫保存這回事。瀝掉的是乳清，不是活菌，所以放在室溫它會繼續發酵、很快變酸。請守 2 小時原則，超過 32 °C 時為 1 小時。最常被搞錯的是那種泡油的 labneh 球，它看起來像可以常溫的醃漬品：食物浸在油裡並置於室溫，會形成無氧環境，肉毒桿菌（Clostridium botulinum）有可能在其中產生毒素，這也是這類油漬品被要求冷藏的原因。labneh 的酸度不低，風險並不等同於這條規則來源的蒜頭泡油，但這份謹慎值得沿用——罐子請放冰箱。",
+  "fridge": "密封盒裝、放 4 °C 以下，把 1～2 週當成工作上限，這個數字借自優格的公告值。它在低溫下還是會繼續變酸，所以第一週宜人的酸度，到第二週會明顯變尖。表面淋一層薄薄的橄欖油可以減緩結皮、隔絕空氣，但那不是保存，也不會延長期限。每次都要用乾淨的湯匙；用過的湯匙正是整盒變得牽絲或泛紅的原因。",
+  "freezer": "labneh 沒有冷凍期限，冷凍對它也沒好處：瀝過的凝乳會分離出水，解凍後又粗又稀，只能拌進加熱料理裡用——當醃料、離火後拌進湯裡、或調麵糊。與其冷凍，不如一次少做一點。真的太多的話，就搓成球、用橄欖油淹過，整罐放冷藏，那才是傳統上延長它的方式。",
+  "thawing": null,
+  "spoilage": [
+   "表面、蓋內或油裡的球長霉。",
+   "有酵母味、氣泡感或酒味，而不是乾淨的乳酸味。",
+   "舀起來牽絲。",
+   "吃起來發苦，或顏色泛粉紅、泛灰。"
+  ],
+  "tips": [
+   "買或做一週左右吃得完的量。",
+   "每次都用乾淨乾燥的湯匙——這比什麼都重要。",
+   "表面淋油可以防止結皮，但還是要冷藏。",
+   "泡油的 labneh 罐請放冰箱，不要放室溫。"
+  ],
+  "faq": [
+   {
+    "q": "labneh 冷藏可以放多久？",
+    "a": "密封盒裝放 4 °C 以下大約 1～2 週。這個數字借自優格；labneh 本身沒有人公告過。"
+   },
+   {
+    "q": "泡橄欖油的 labneh 球可以放室溫嗎？",
+    "a": "請放冰箱。食物浸在油中並置於室溫會形成無氧環境，肉毒桿菌有可能在其中產生毒素，這類油漬品的安全做法是冷藏。"
+   },
+   {
+    "q": "labneh 可以冷凍嗎？",
+    "a": "沒有對應期限，也不值得。解凍後分離出水，只能拌進加熱料理。"
+   },
+   {
+    "q": "labneh 為什麼變得黏黏牽絲？",
+    "a": "幾乎都是用過的湯匙帶入其他菌造成的。變牽絲或泛紅的整盒都要丟，救不回來。"
+   }
+  ]
+ }
+}

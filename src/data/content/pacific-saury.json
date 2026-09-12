@@ -1,0 +1,91 @@
+{
+ "slug": "pacific-saury",
+ "en": {
+  "name": "Pacific saury",
+  "aliases": [
+   "sanma",
+   "saury",
+   "mackerel pike",
+   "autumn saury"
+  ],
+  "summary": "Pacific saury is the long, silver, intensely oily autumn fish grilled whole with salt. Fresh it keeps 1–2 days in the fridge and 2–3 months in the freezer. It is one of the histamine species, so how fast it was chilled matters more than the day count.",
+  "pantry": "Saury should never be left at room temperature, not even while you fire up the grill. It is one of the histidine-rich fish behind histamine, or scombroid, poisoning: the advice is not to leave the fish at room temperature and to remove the gills and viscera as soon as possible after buying. Histamine is heat-stable, so once it has formed, cooking, canning and freezing will not remove it — and a fish carrying it may look and smell perfectly normal. Follow the 2-hour rule, or 1 hour above 32 °C (90 °F).",
+  "fridge": "Gut it the day you buy it and hold it at 4 °C (40 °F) or below on ice, in a container that catches the melt water, cooking it within 1–2 days. Histamine-producing bacteria sit in the gills and guts, so removing those is the single most useful thing you can do — even though whole grilled saury with the innards left in is the traditional way to eat it, and that is a choice worth making only with a very fresh fish kept properly cold. Store it on the bottom shelf below anything ready to eat.",
+  "freezer": "Saury keeps 2–3 months at −18 °C (0 °F). This is an exceptionally oily fish, so the freezer limit is about quality rather than safety: the fat turns rancid long before anything else goes wrong, and the dark flesh along the spine browns first. Wrap it tightly with no air pockets, or ice-glaze it, and freeze flat in single fish. Frozen food stays safe indefinitely at −18 °C. Freezing does nothing about histamine formed before the fish went in.",
+  "thawing": "Thaw in the fridge overnight on a plate, or in a sealed bag under cold running water. Never on the counter or in warm water. Grill it promptly and do not refreeze raw fish.",
+  "spoilage": [
+   "A sour or ammoniacal smell rather than a clean sea one.",
+   "A belly that has gone soft or split, which happens fast in an oily fish.",
+   "Cloudy sunken eyes and grey-brown gills.",
+   "A rancid, paint-like smell and a brown cast to the dark flesh."
+  ],
+  "tips": [
+   "Buy saury in autumn when it is fattest, and cook it the same day if you can.",
+   "Remove the gills and guts as soon as you get home.",
+   "Take a cool bag; the warm hour is the risk you cannot smell.",
+   "Freeze single fish flat, wrapped tight, and use them well inside the window."
+  ],
+  "faq": [
+   {
+    "q": "How long does Pacific saury keep in the fridge?",
+    "a": "1–2 days at 4 °C (40 °F) or below, gutted and on ice."
+   },
+   {
+    "q": "Can you freeze saury?",
+    "a": "Yes, 2–3 months at −18 °C. It is very oily, so the limit is about quality — the fat turns rancid first."
+   },
+   {
+    "q": "Why is saury a histamine risk?",
+    "a": "It is rich in histidine, which bacteria in the gills and gut convert to histamine when the fish is warm. Histamine survives cooking, canning and freezing."
+   },
+   {
+    "q": "Can you grill saury with the guts in?",
+    "a": "It is the traditional way, and the bitter innards are part of the appeal — but only with a very fresh fish that has been kept properly cold throughout."
+   }
+  ]
+ },
+ "zh": {
+  "name": "秋刀魚",
+  "aliases": [
+   "竹刀魚",
+   "さんま",
+   "sanma",
+   "秋光魚"
+  ],
+  "summary": "秋刀魚是秋天那條細長銀亮、油脂極豐的魚，最常整條撒鹽炭烤。新鮮的冷藏可放 1～2 天，冷凍 2～3 個月。它屬於組織胺魚種，所以「多快降溫」比「放幾天」更關鍵。",
+  "pantry": "秋刀魚絕對不要放在室溫，連等烤爐升溫的那段時間也不行。它是引起組織胺（鯖魚毒素）中毒的高組胺酸魚種之一：官方建議就是不要把魚放在室溫，並且買回來後盡快去除鰓和內臟。組織胺耐熱，一旦生成，加熱、罐藏、冷凍都去不掉——而帶有組織胺的魚可能外觀氣味都完全正常。請守 2 小時原則，室溫超過 32 °C 時為 1 小時。",
+  "fridge": "買回來當天就去內臟，鋪冰放 4 °C 以下，容器要能接住融水，並在 1～2 天內煮掉。產生組織胺的細菌就住在鰓和內臟裡，所以把它們去掉是你能做的最有效的一件事——儘管「連內臟一起烤」才是傳統吃法，而那只有在魚非常新鮮、又全程確實低溫的前提下才值得選擇。放最下層，位置低於所有即食食品。",
+  "freezer": "秋刀魚在 −18 °C 下可放 2～3 個月。這是一種油脂極多的魚，所以冷凍上限講的是品質而不是安全：脂肪會遠早於其他部分先走油耗，而脊骨旁的暗色肉最先變褐。請包緊不留空氣，或做冰鍍，一條一條壓平冷凍。−18 °C 下安全性是無限期的。另外請記得：冷凍對「進冷凍庫前就已生成的組織胺」毫無作用。",
+  "thawing": "放盤子上冷藏隔夜解凍，或密封裝袋用冷水沖。不要放室溫或泡溫水。解凍後盡快烤，生魚不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸或有氨味，而不是乾淨的海味。",
+   "腹部變軟或裂開——油脂魚這個變化來得很快。",
+   "眼睛混濁凹陷、魚鰓轉灰褐。",
+   "出現油耗、油漆般的氣味，暗色肉轉褐。"
+  ],
+  "tips": [
+   "秋天買最肥的，盡量當天烤掉。",
+   "一回家就去鰓去內臟。",
+   "帶保冷袋；那個溫暖的小時是你聞不出來的風險。",
+   "一條條包緊壓平冷凍，並在期限內用完。"
+  ],
+  "faq": [
+   {
+    "q": "秋刀魚冷藏可以放多久？",
+    "a": "去內臟鋪冰、放 4 °C 以下，1～2 天。"
+   },
+   {
+    "q": "秋刀魚可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2～3 個月。它非常油，所以上限講的是品質——最先變質的是脂肪。"
+   },
+   {
+    "q": "秋刀魚為什麼有組織胺風險？",
+    "a": "它組胺酸含量高，魚體溫暖時鰓和內臟裡的細菌會把它轉成組織胺，而組織胺耐得住加熱、罐藏與冷凍。"
+   },
+   {
+    "q": "秋刀魚可以連內臟一起烤嗎？",
+    "a": "那是傳統吃法，微苦的內臟也是風味的一部分——但只有在魚非常新鮮、全程確實低溫的情況下才適合。"
+   }
+  ]
+ }
+}

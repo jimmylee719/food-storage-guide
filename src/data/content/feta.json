@@ -1,0 +1,91 @@
+{
+ "slug": "feta",
+ "en": {
+  "name": "Feta",
+  "aliases": [
+   "feta cheese",
+   "Greek brined cheese",
+   "sheep's milk feta",
+   "brined white cheese"
+  ],
+  "summary": "Feta is a white sheep's-milk cheese — often with some goat's milk — cured and kept in brine. Once you are into the tub, treat it as a 1–2 week cheese in the fridge, kept submerged in its brine. It freezes for 6 months but only for cooking.",
+  "pantry": "Feta has no room-temperature life. It is a soft, high-moisture, brined cheese, and the brine is a curing medium rather than a preservative strong enough to make it shelf-stable. Bring out only the piece you are crumbling over a salad and put the tub back; follow the 2-hour rule at the table, or 1 hour above 32 °C (90 °F). A tub left out in a warm kitchen should be discarded rather than chilled and kept.",
+  "fridge": "Keep the block submerged in its brine at 4 °C (40 °F) or below, and treat 1–2 weeks as the working limit — a figure borrowed from what is published for soft cheeses such as brie and fresh goat's cheese, since no agency publishes one for feta. A sealed brine tub with an unbroken seal keeps considerably longer than that, and its printed date is the guide until you open it; we give no number for that because none is published. Feta is named among the soft cheeses that pregnant, elderly and immunocompromised people are advised to avoid, because soft cheeses are less acidic and hold more moisture — a favourable environment for Listeria monocytogenes, which grows slowly even at 0 °C. Choose feta made from pasteurised milk.",
+  "freezer": "Feta freezes for 6 months at −18 °C (0 °F), but only usefully for cooking: the curd goes crumbly and grainy on thawing and will never crumble cleanly over a salad again. Freeze it drained rather than in brine — the brine will not freeze solid and the block ends up mushy — in cooking-sized pieces, wrapped tight. Frozen food stays safe indefinitely at −18 °C; the months are a quality window.",
+  "thawing": "Thaw it in the fridge, wrapped, and use it baked, melted or stirred into a filling. Do not thaw it on the counter, and do not refreeze it.",
+  "spoilage": [
+   "Brine gone cloudy, ropy or slippery.",
+   "A sour, yeasty or ammoniac smell over and above the usual salty tang.",
+   "Any mould, pink or grey tint, or slime on the block.",
+   "A soft, mushy surface where the cheese should be firm."
+  ],
+  "tips": [
+   "Keep the block in brine — drained feta dries and sours much faster.",
+   "If you poured the brine away, cover the block with a strong salt solution.",
+   "Use a clean fork, and never return crumbled cheese to the tub.",
+   "Buy pasteurised feta, and if you are pregnant or immunocompromised, eat it cooked."
+  ],
+  "faq": [
+   {
+    "q": "How long does feta keep in the fridge?",
+    "a": "About 1–2 weeks at 4 °C or below once you are into the tub, kept submerged in its brine. Unopened, follow the printed date."
+   },
+   {
+    "q": "Can you freeze feta?",
+    "a": "Yes, 6 months at −18 °C, drained rather than in brine. It comes out crumbly and grainy, so use it in cooking."
+   },
+   {
+    "q": "Is feta safe during pregnancy?",
+    "a": "Feta is named among the soft cheeses pregnant, elderly and immunocompromised people are advised to avoid. Choose pasteurised feta and eat it thoroughly cooked, or skip it."
+   },
+   {
+    "q": "Should feta be stored in its brine?",
+    "a": "Yes. The brine keeps the surface hostile and stops the curd drying. If yours came without any, make a strong salt solution to cover it."
+   }
+  ]
+ },
+ "zh": {
+  "name": "費塔起司",
+  "aliases": [
+   "菲達起司",
+   "費塔乳酪",
+   "希臘鹽漬起司",
+   "羊奶鹽水起司"
+  ],
+  "summary": "費塔是希臘的白色羊奶乳酪（常混一部分山羊奶），在鹽水裡熟成並保存。只要開了盒，就請當成冷藏 1～2 週的乳酪，而且要一直泡在鹽水裡。冷凍可放 6 個月，但只適合入菜。",
+  "pantry": "費塔沒有室溫保存這回事。它是含水量高的軟質鹽漬乳酪，鹽水是熟成介質，濃度不足以讓它常溫穩定。要撒進沙拉的那一塊拿出來就好，整盒立刻冰回去；上桌時守 2 小時原則，超過 32 °C 時為 1 小時。整盒在溫暖廚房裡放過的，請丟棄，不要冰回去繼續吃。",
+  "fridge": "整塊浸在鹽水裡放 4 °C 以下，並把 1～2 週當成工作上限——這個數字借自布里、山羊乳酪等軟質乳酪的公告值，因為沒有機構公告過費塔本身的數字。未拆封、封口完整的鹽水盒可以放得比這久得多，在開封前請以包裝日期為準；我們不給那個數字，是因為沒有人公告過。費塔被點名在孕婦、長者與免疫力低下者應避開的軟質乳酪之列，原因是軟質乳酪酸度較低、含水量較高，正好有利於李斯特菌（Listeria monocytogenes），而這種菌連 0 °C 都還能緩慢生長。請選用巴氏殺菌乳製作的費塔。",
+  "freezer": "費塔在 −18 °C 下可放 6 個月，但只有入菜時才有意義：解凍後凝乳會變得碎散粗糙，再也無法乾淨地撒在沙拉上。請瀝乾後冷凍，不要連鹽水一起——鹽水凍不硬，整塊會變得爛糊——切成一次入菜的分量包緊。−18 °C 下安全性是無限期的，月數講的是品質。",
+  "thawing": "連包裝放冷藏解凍，解凍後用來烘烤、融化或拌成內餡。不要放室溫解凍，也不要再次冷凍。",
+  "spoilage": [
+   "鹽水變混濁、牽絲或摸起來滑膩。",
+   "在原本的鹹味之外出現酸味、酵母味或氨味。",
+   "塊體長霉、泛粉紅或泛灰，或表面發黏。",
+   "本該結實的部位變得軟爛。"
+  ],
+  "tips": [
+   "整塊泡在鹽水裡——瀝乾的費塔乾得快、酸得也快。",
+   "鹽水倒掉了的話，自己調濃鹽水把它蓋過去。",
+   "用乾淨的叉子，已經弄碎的不要倒回盒裡。",
+   "選巴氏殺菌的費塔；孕婦或免疫力低下者請加熱煮透再吃。"
+  ],
+  "faq": [
+   {
+    "q": "費塔起司冷藏可以放多久？",
+    "a": "開盒後浸在鹽水裡放 4 °C 以下大約 1～2 週。未開封則以包裝上的日期為準。"
+   },
+   {
+    "q": "費塔可以冷凍嗎？",
+    "a": "可以，瀝乾後在 −18 °C 下放 6 個月。解凍後碎散粗糙，適合入菜。"
+   },
+   {
+    "q": "懷孕可以吃費塔嗎？",
+    "a": "費塔被列在孕婦、長者與免疫力低下者建議避開的軟質乳酪中。請選巴氏殺菌品並加熱煮透，或乾脆不吃。"
+   },
+   {
+    "q": "費塔一定要泡在鹽水裡嗎？",
+    "a": "是的。鹽水讓表面維持不利微生物的環境，也防止凝乳乾掉。如果買到沒附鹽水的，就自己調濃鹽水淹過它。"
+   }
+  ]
+ }
+}

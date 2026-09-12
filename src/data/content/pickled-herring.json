@@ -1,0 +1,91 @@
+{
+ "slug": "pickled-herring",
+ "en": {
+  "name": "Pickled herring",
+  "aliases": [
+   "rollmops",
+   "matjes",
+   "soused herring",
+   "sill"
+  ],
+  "summary": "Pickled herring is raw herring salted and marinated in vinegar or a wine sauce — cured, never cooked. An unopened commercial jar keeps 4–6 months refrigerated; once opened, 1–2 weeks. The freezing that matters happens to the raw fish before marinating, as the parasite control.",
+  "pantry": "Pickled herring is a refrigerated food, whatever the shelf you bought it from looked like. Keep an unopened jar at 4 °C (40 °F) or below and never at room temperature. Home-marinated or deli-counter herring is a different thing altogether: it is a lightly salted raw fish sitting in a mild acid, it is not preserved to any meaningful degree, and it should be treated as a few days' food. Follow the 2-hour rule at the table, or 1 hour above 32 °C (90 °F).",
+  "fridge": "An unopened commercial glass jar in wine or vinegar sauce keeps 4–6 months at 4 °C (40 °F) or below. Once the jar is open, keep every fillet submerged in its brine or sauce and use a clean fork, for 1–2 weeks — a deliberately short figure, because it is our own conservative reading rather than a published one. Cold-marinated fish is a ready-to-eat food with a long chilled shelf life, which is precisely the category flagged for Listeria monocytogenes: it grows at refrigerator temperature, and the longer the food sits the more of it there is. That is the reason not to stretch an opened jar.",
+  "freezer": "Read this before you pickle your own. Salt and acid do not kill parasites; freezing does. The published parasite-destruction conditions are −20 °C or below for seven days in total, or −35 °C until solid and then held at −35 °C for fifteen hours, or −35 °C until solid and then held at −20 °C for twenty-four hours — and these may not suit fish thicker than about six inches. Brining and pickling may reduce the parasite hazard but they do not eliminate it; nematode larvae have survived four weeks in a very strong brine. So the freezing is a treatment applied to the raw fish before marinating, not a way of storing the finished jar, and no freezer timeline is given here: pickled herring frozen after the fact goes mushy and cloudy.",
+  "thawing": "Thaw raw herring in the fridge before marinating, never on the counter. A finished jar should not be frozen, so there is nothing to thaw.",
+  "spoilage": [
+   "Cloudy, ropy or slimy brine.",
+   "Fillets gone grey-brown, mushy or falling apart.",
+   "A putrid or yeasty smell over the vinegar and spice.",
+   "A bulging lid, or gas bubbles rising in the jar."
+  ],
+  "tips": [
+   "Keep every fillet under the liquid; the exposed ones spoil first.",
+   "Clean fork every time, and never return a fillet to the jar.",
+   "Write the opening date on the lid and keep to the short window.",
+   "If you pickle your own, freeze the raw herring first — the vinegar is not the control."
+  ],
+  "faq": [
+   {
+    "q": "How long does pickled herring keep?",
+    "a": "An unopened commercial jar keeps 4–6 months at 4 °C or below. Once opened, 1–2 weeks — a deliberately conservative figure, since none is published."
+   },
+   {
+    "q": "Does pickling kill parasites?",
+    "a": "No. Brining and pickling may reduce the hazard but do not eliminate it; larvae have survived weeks in strong brine. Freezing at the published conditions is the control, and it must come before marinating."
+   },
+   {
+    "q": "Can you freeze pickled herring?",
+    "a": "No timeline is given, and it is not the point of freezing here. A finished jar thaws mushy and cloudy. Freeze the raw fish beforehand instead."
+   },
+   {
+    "q": "Why is pickled herring a Listeria concern?",
+    "a": "It is a ready-to-eat fish kept chilled for a long time, and Listeria grows at refrigerator temperature. That is why an opened jar should not be stretched."
+   }
+  ]
+ },
+ "zh": {
+  "name": "醃鯡魚",
+  "aliases": [
+   "rollmops",
+   "matjes",
+   "醋漬鯡魚",
+   "鹽漬鯡魚捲"
+  ],
+  "summary": "醃鯡魚是生鯡魚經鹽漬後，再用醋或酒醬醃漬而成——是「醃」，不是「煮」。未開封的市售玻璃瓶冷藏可放 4～6 個月；開瓶後 1～2 週。真正重要的冷凍，發生在生魚醃漬之前，那是寄生蟲的控制步驟。",
+  "pantry": "不管你是在哪一層貨架上拿到它的，醃鯡魚都是冷藏食品。未開封的瓶子請放 4 °C 以下，絕不放室溫。自家醃的或熟食櫃秤重的又完全是另一回事：那是輕度鹽漬的生魚泡在弱酸裡，幾乎談不上保存，請當成幾天內要吃完的食物。上桌時守 2 小時原則，室溫超過 32 °C 時為 1 小時。",
+  "fridge": "未開封的市售玻璃瓶（酒醬或醋漬）放 4 °C 以下可存 4～6 個月。開瓶之後，每片魚都要浸在醃汁裡、用乾淨的叉子取用，並在 1～2 週內吃完——這是刻意訂短的數字，因為它是我們保守的判讀而非公告值。冷漬魚是一種「冷藏期很長的即食食品」，而這正是李斯特菌被特別點名的類別：它在冷藏溫度下仍會生長，食物放得愈久，菌量就愈多。這就是開瓶後不該硬撐的理由。",
+  "freezer": "打算自己醃之前請先讀這一段。鹽和酸殺不死寄生蟲，冷凍才可以。公告的殺蟲條件是：−20 °C 以下合計七天；或 −35 °C 凍到全硬後再於 −35 °C 保持十五小時；或 −35 °C 凍到全硬後再於 −20 °C 保持二十四小時——而且這些條件可能不適用厚度超過約六英吋的魚體。鹽漬和醋漬或許能降低寄生蟲風險，但無法消除；線蟲幼蟲曾在極濃鹽水中存活四週。所以冷凍是「醃漬前施加於生魚」的處理，不是保存成品的方法，這裡也因此不給冷凍期限：做好之後再冷凍的醃鯡魚會變糊、湯汁混濁。",
+  "thawing": "要醃之前，生鯡魚請放冷藏解凍，不要放室溫。成品不該冷凍，所以也沒有解凍的問題。",
+  "spoilage": [
+   "醃汁變混濁、牽絲或黏滑。",
+   "魚片轉灰褐、變糊或一夾就散。",
+   "在醋香和香料味之外出現腐臭或酵母味。",
+   "瓶蓋鼓起，或瓶內冒出氣泡。"
+  ],
+  "tips": [
+   "每片都要壓在液面下；露出來的先壞。",
+   "每次用乾淨的叉子，夾出來的不要放回瓶裡。",
+   "在瓶蓋上寫開封日期，並嚴守那個短窗口。",
+   "自己醃的話，生鯡魚要先冷凍——醋不是控制手段。"
+  ],
+  "faq": [
+   {
+    "q": "醃鯡魚可以放多久？",
+    "a": "未開封的市售瓶裝在 4 °C 以下 4～6 個月。開瓶後 1～2 週——這是刻意保守的數字，因為沒有公告值。"
+   },
+   {
+    "q": "醃漬可以殺死寄生蟲嗎？",
+    "a": "不行。鹽漬和醋漬可能降低風險但無法消除；幼蟲曾在濃鹽水中存活數週。符合公告條件的冷凍才是控制手段，而且必須在醃漬之前完成。"
+   },
+   {
+    "q": "醃鯡魚可以冷凍嗎？",
+    "a": "這裡不給期限，而且冷凍的重點也不在保存成品。成品解凍後會變糊、湯汁混濁。請改為在醃漬前冷凍生魚。"
+   },
+   {
+    "q": "為什麼醃鯡魚要注意李斯特菌？",
+    "a": "因為它是冷藏保存期很長的即食魚製品，而李斯特菌在冷藏溫度下仍會生長。這就是開瓶後不該硬撐的原因。"
+   }
+  ]
+ }
+}

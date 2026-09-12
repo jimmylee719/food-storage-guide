@@ -1,0 +1,91 @@
+{
+ "slug": "fish-balls",
+ "en": {
+  "name": "Fish balls",
+  "aliases": [
+   "fishball",
+   "surimi balls",
+   "Fuzhou fish balls",
+   "tsumire"
+  ],
+  "summary": "Fish balls are cooked surimi — fish paste beaten with salt and starch and poached or fried into balls. They look shelf-stable and are not: keep them at 4 °C or below and use within 3–4 days, or freeze for about 9 months.",
+  "pantry": "Fish balls are a chilled food, whatever the market stall does with them. Japanese food sanitation standards classify them with fish-paste products and require storage at 10 °C or below unless the pack has been retorted in a sealed container, or has a pH of 4.6 or less, or a water activity of 0.94 or less — and ordinary fish balls meet none of those. In practice keep them at 4 °C (40 °F) or below, follow the 2-hour rule when they are out, and 1 hour above 32 °C (90 °F). Vacuum packs sold chilled are a botulism consideration, not a shortcut: keep them refrigerated and go by the printed date.",
+  "fridge": "Keep them at 4 °C (40 °F) or below in a covered container and use them within 3–4 days, which is the published figure for cooked fish applied here. The paste is moist, low in salt and fully cooked, which is exactly the profile that supports bacterial growth once a pack is opened. Cook them through before eating rather than warming them in a bowl of hot broth and hoping. Do not keep a half pack in its opened bag; decant it into a box.",
+  "freezer": "Fish balls freeze for about 9 months at −18 °C (0 °F), borrowed from what is published for surimi seafood. Japan's standard for frozen fish-paste products is −15 °C or below, so a domestic freezer at −18 °C is comfortably inside that. Freeze them in a single layer on a tray first so they do not fuse into a block, then bag them. Cook them straight from frozen in soup or hotpot; there is no advantage in thawing first.",
+  "thawing": "Drop them into simmering broth straight from the freezer. If you do thaw them, do it in the fridge, cook them the same day, and do not refreeze.",
+  "spoilage": [
+   "A slimy or sticky surface, or balls sticking together in a wet mass.",
+   "A sour or fermented smell instead of a mild fishy-savoury one.",
+   "A puffed, gassy pack, or liquid pooling in the bag.",
+   "Any mould, or a grey or greenish cast to the paste."
+  ],
+  "tips": [
+   "Buy from a chilled cabinet, not a room-temperature tray.",
+   "Freeze on a tray first so you can take out a handful at a time.",
+   "Cook them through rather than just warming them in broth.",
+   "Decant an opened pack into a covered box and note the date."
+  ],
+  "faq": [
+   {
+    "q": "How long do fish balls keep in the fridge?",
+    "a": "3–4 days at 4 °C (40 °F) or below in a covered container. An unopened pack goes by its printed date."
+   },
+   {
+    "q": "Can you freeze fish balls?",
+    "a": "Yes, about 9 months at −18 °C. Freeze them in a single layer first, then bag them, and cook from frozen."
+   },
+   {
+    "q": "Do fish balls need to be refrigerated?",
+    "a": "Yes. Fish-paste products must be kept chilled unless they have been retorted, acidified or dried, and ordinary fish balls are none of those."
+   },
+   {
+    "q": "Are vacuum-packed fish balls shelf-stable?",
+    "a": "No. A vacuum pack is not a preservative, and an oxygen-free pack at room temperature is a botulism consideration. Keep them refrigerated."
+   }
+  ]
+ },
+ "zh": {
+  "name": "魚丸",
+  "aliases": [
+   "魚蛋",
+   "福州魚丸",
+   "魚丸子",
+   "花枝丸（同類）"
+  ],
+  "summary": "魚丸是熟的魚漿製品——魚肉打成漿、加鹽和澱粉摔打後煮熟或油炸成丸。它看起來像常溫食品，其實不是：請放 4 °C 以下並在 3～4 天內吃完，或冷凍約 9 個月。",
+  "pantry": "不管市場攤子怎麼擺，魚丸都是冷藏食品。日本的食品衛生規格把它歸在魚肉煉製品，要求在 10 °C 以下保存，除非該包裝已在密封容器中高溫殺菌、或 pH 值在 4.6 以下、或水活性在 0.94 以下——而一般魚丸三者皆非。實務上請放 4 °C 以下，離開冰箱後守 2 小時原則，室溫超過 32 °C 時為 1 小時。冷藏販售的真空包並不是捷徑，反而是肉毒桿菌的考量點：請冷藏並依標示日期。",
+  "fridge": "加蓋容器放 4 °C 以下，3～4 天內用完，這是「熟魚」的公告值套用過來。魚漿含水高、鹽分低、又是全熟品，正是包裝拆開後最容易長菌的條件。吃之前請確實煮透，不要只是丟進熱湯裡泡一下就當作加熱過了。拆開的包裝不要直接放回冰箱，請倒進有蓋容器。",
+  "freezer": "魚丸在 −18 °C 下大約可放 9 個月，借自「蟹味棒等魚漿海產」的公告值。日本對冷凍魚肉煉製品的標準是 −15 °C 以下，所以家用冷凍庫的 −18 °C 綽綽有餘。先單層排在盤上凍硬，再裝袋，才不會黏成一大塊。煮湯或火鍋時直接從冷凍下鍋，先解凍沒有任何好處。",
+  "thawing": "直接從冷凍丟進滾湯裡。若真的解凍了，請放冷藏並當天煮掉，不要再次冷凍。",
+  "spoilage": [
+   "表面黏滑，或整袋黏成一團濕塊。",
+   "聞起來發酸或有發酵味，而不是淡淡的魚鮮味。",
+   "包裝鼓脹有氣，或袋內積水。",
+   "長霉，或魚漿泛灰、泛綠。"
+  ],
+  "tips": [
+   "向冷藏櫃購買，不要買室溫托盤上的。",
+   "先鋪盤凍硬再裝袋，之後一次抓幾顆很方便。",
+   "確實煮透，不要只在湯裡泡熱。",
+   "拆開的包裝倒進有蓋容器並記下日期。"
+  ],
+  "faq": [
+   {
+    "q": "魚丸冷藏可以放多久？",
+    "a": "加蓋容器放 4 °C 以下 3～4 天。未開封則以包裝標示日期為準。"
+   },
+   {
+    "q": "魚丸可以冷凍嗎？",
+    "a": "可以，−18 °C 下約 9 個月。先單層凍硬再裝袋，直接從冷凍下鍋。"
+   },
+   {
+    "q": "魚丸需要冷藏嗎？",
+    "a": "需要。魚漿製品除非經高溫殺菌、酸化或乾燥，否則必須冷藏，而一般魚丸都不是。"
+   },
+   {
+    "q": "真空包的魚丸可以常溫嗎？",
+    "a": "不行。真空不是防腐，而且無氧包裝放在室溫是肉毒桿菌的風險考量。請冷藏。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "slug": "horse-mackerel",
+ "en": {
+  "name": "Horse mackerel",
+  "aliases": [
+   "aji",
+   "jack mackerel",
+   "scad",
+   "Japanese horse mackerel"
+  ],
+  "summary": "Horse mackerel, aji, is a small oily fish with dark flesh along the flank and a row of hard scutes on the tail. Fresh it keeps 1–2 days in the fridge and 2–3 months in the freezer. It is one of the histamine species, so temperature control matters more than the day count.",
+  "pantry": "Never leave horse mackerel at room temperature. It is one of the histidine-rich species behind histamine, or scombroid, poisoning: bacteria in the gills and gut convert histidine in the flesh to histamine whenever the fish is warm, and histamine is heat-stable — cooking, canning and freezing will not remove it once it has formed. A fish that has been warm can therefore carry enough to make you ill with no smell or slime to warn you. Chill it immediately, take a cool bag to the market, and follow the 2-hour rule, or 1 hour above 32 °C (90 °F).",
+  "fridge": "Chill it to 4 °C (40 °F) or below immediately and remove the gills and guts on the day of purchase — that is where histamine-producing bacteria live. Keep it on ice in a container that catches the melt water and cook it within 1–2 days. If you plan to eat it raw as sashimi, buy it from a counter that sells fish for raw eating, keep it at the bottom of the fridge on ice, and eat it the day it is cut. Store it below anything ready to eat.",
+  "freezer": "Horse mackerel keeps 2–3 months at −18 °C (0 °F) — short, because it is an oily fish and the fat oxidises long before lean flesh would. Freeze it as fillets, skin on and tightly wrapped, because the dark flesh along the lateral line oxidises fastest of all and turns brown. Ice-glazing helps. Frozen food stays safe indefinitely at −18 °C; the months are about quality, and freezing does nothing to any histamine that formed before the fish went in.",
+  "thawing": "Thaw in the fridge overnight on a plate, or in a sealed bag under cold running water. Never on the counter or in warm water. Cook it promptly and do not refreeze raw fish.",
+  "spoilage": [
+   "A sour or ammoniacal smell rather than a clean sea one.",
+   "Grey-brown gills and cloudy, sunken eyes.",
+   "Flesh that stays dented when pressed, or a belly that has gone soft.",
+   "A brown, rancid cast to the dark lateral flesh."
+  ],
+  "tips": [
+   "Gut and gill it the day you buy it.",
+   "Take a cool bag; with this fish the warm hour is the risk you cannot see.",
+   "Buy from a stall that keeps its fish buried in ice, not laid out on a tray.",
+   "Freeze in single portions on the day of purchase if you are not cooking it."
+  ],
+  "faq": [
+   {
+    "q": "How long does horse mackerel keep in the fridge?",
+    "a": "1–2 days at 4 °C (40 °F) or below, gutted and on ice."
+   },
+   {
+    "q": "Can you freeze horse mackerel?",
+    "a": "Yes, 2–3 months at −18 °C. It is oily, so wrap the fillets tightly or ice-glaze them and use them within the window."
+   },
+   {
+    "q": "Why is aji a histamine risk?",
+    "a": "It is rich in histidine, which bacteria convert to histamine when the fish is warm. Histamine survives cooking and freezing, so the fish must be chilled from the moment it is caught."
+   },
+   {
+    "q": "Can you eat horse mackerel raw?",
+    "a": "Only fish sold for raw eating, kept cold throughout and eaten the day it is cut. Raw fish is not advised for pregnant, elderly or immunocompromised people."
+   }
+  ]
+ },
+ "zh": {
+  "name": "竹筴魚",
+  "aliases": [
+   "竹莢魚",
+   "巴攏",
+   "瓜仔魚",
+   "あじ"
+  ],
+  "summary": "竹筴魚是側線帶有暗紅色肉、尾部有一排硬稜鱗的小型油脂魚。新鮮的冷藏可放 1～2 天，冷凍 2～3 個月。它屬於組織胺魚種，所以溫度管理比天數更重要。",
+  "pantry": "竹筴魚絕對不要放室溫。它是與組織胺（鯖魚毒素）中毒相關的高組胺酸魚種之一：魚體一溫暖，鰓和內臟裡的細菌就會把魚肉中的組胺酸轉成組織胺，而組織胺耐熱——一旦生成，加熱、罐藏、冷凍都去不掉。所以一條被放溫過的魚，可能帶有足以讓你不舒服的量，卻沒有任何異味或黏液可以警告你。請立刻降溫、去市場帶保冷袋，並守 2 小時原則，室溫超過 32 °C 時為 1 小時。",
+  "fridge": "立刻降到 4 °C 以下，並在購買當天就把鰓和內臟去掉——產生組織胺的細菌就住在那裡。鋪冰放在能接住融水的容器裡，1～2 天內煮掉。若打算做生魚片，請向有販售生食級魚貨的店家購買，鋪冰放在冰箱最下層，並在切開當天吃完。位置要低於所有即食食品。",
+  "freezer": "竹筴魚在 −18 °C 下可放 2～3 個月——偏短，因為它是油脂魚，脂肪氧化得遠比瘦肉快。請切成帶皮魚片並包緊，因為側線那條暗色肉氧化最快、也最先變褐。做冰鍍會有幫助。−18 °C 下安全性是無限期的，月數講的是品質；而且冷凍對「進冷凍庫之前就已經生成的組織胺」完全無效。",
+  "thawing": "放盤子上冷藏隔夜解凍，或密封裝袋用冷水沖。不要放室溫或泡溫水。解凍後盡快烹調，生魚不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸或有氨味，而不是乾淨的海味。",
+   "魚鰓轉灰褐、眼睛混濁凹陷。",
+   "按壓後凹陷回不來，或腹部變軟。",
+   "側線暗色肉轉褐並帶油耗味。"
+  ],
+  "tips": [
+   "買回來當天就去鰓去內臟。",
+   "帶保冷袋；這種魚最大的風險就是你看不見的那個溫暖小時。",
+   "向把魚埋在冰裡、而不是平放在托盤上的攤商購買。",
+   "當天不煮就分成單份冷凍。"
+  ],
+  "faq": [
+   {
+    "q": "竹筴魚冷藏可以放多久？",
+    "a": "去內臟鋪冰、放 4 °C 以下，1～2 天。"
+   },
+   {
+    "q": "竹筴魚可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2～3 個月。它含油，魚片要包緊或做冰鍍，並在期限內用完。"
+   },
+   {
+    "q": "竹筴魚為什麼有組織胺風險？",
+    "a": "它組胺酸含量高，魚體溫暖時細菌會把它轉成組織胺。組織胺耐得住加熱和冷凍，所以必須從捕撈起就全程低溫。"
+   },
+   {
+    "q": "竹筴魚可以生吃嗎？",
+    "a": "只有標示可生食的魚貨、且全程低溫並在切開當天吃完才行。生魚不建議孕婦、長者與免疫力低下者食用。"
+   }
+  ]
+ }
+}

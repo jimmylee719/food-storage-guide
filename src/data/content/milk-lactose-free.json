@@ -1,0 +1,91 @@
+{
+ "slug": "milk-lactose-free",
+ "en": {
+  "name": "Lactose-free milk",
+  "aliases": [
+   "lactose free milk",
+   "low-lactose milk",
+   "lactase-treated milk",
+   "digestive milk"
+  ],
+  "summary": "Lactose-free milk is ordinary cow's milk with the enzyme lactase added to split the lactose into simpler sugars. It is still milk and still perishable: keep it cold, follow the date on an unopened carton, and use it within about 1 week of opening.",
+  "pantry": "Chilled lactose-free milk must not be left out. It is dairy in every respect that matters for storage, so follow the 2-hour rule, or 1 hour if the kitchen is above 32 °C (90 °F), and put the carton back as soon as you have poured. UHT lactose-free milk in an aseptic carton is a different case and can sit in the cupboard until you open it, after which it belongs in the fridge like any other.",
+  "fridge": "Keep it at 4 °C (40 °F) or below, on an inside shelf rather than the door. Unopened, follow the use-by date on the carton. Once opened, use it within about 1 week, with the cap closed and the carton upright. One thing catches people out: lactose-free milk often tastes noticeably sweeter than regular milk, because lactase splits lactose into glucose and galactose, which taste sweeter than the sugar they came from. That sweetness is not a sign that it is turning.",
+  "freezer": "There is no published freezer timeline for lactose-free milk. Freezing is possible but the fat and protein separate, and thawed milk is grainy and watery — fine for baking or a cooked sauce, poor for a cup of tea. If you do it, freeze it at −18 °C (0 °F) in a container with headspace, because milk expands as it freezes, and shake the thawed milk hard. Buying the size you will actually drink is a better answer.",
+  "thawing": "Thaw it in the fridge, never on the counter, and shake it hard before pouring. Use it within a day or two and do not refreeze it.",
+  "spoilage": [
+   "A sour or sharp smell instead of a clean, faintly sweet dairy one.",
+   "Lumps, curdled strands or a thickened pour.",
+   "A swollen carton, or gas escaping when you open it.",
+   "A bitter or fizzy taste, or slime around the spout."
+  ],
+  "tips": [
+   "Buy the size you will finish in a week once opened.",
+   "Keep it on a shelf, not in the door — the door is the warmest part of the fridge.",
+   "Do not drink from the carton if you are keeping the rest.",
+   "Write the opening date on the carton."
+  ],
+  "faq": [
+   {
+    "q": "How long does lactose-free milk last after opening?",
+    "a": "About 1 week at 4 °C (40 °F) or below, kept closed and upright."
+   },
+   {
+    "q": "Does lactose-free milk keep longer than ordinary milk?",
+    "a": "Not because of the lactase. UHT versions last longer unopened because of the heat treatment and the aseptic carton, not because the lactose was removed."
+   },
+   {
+    "q": "Can you freeze lactose-free milk?",
+    "a": "There is no established timeline. It separates and goes grainy, so freeze it only for baking or cooking, at −18 °C with headspace in the container."
+   },
+   {
+    "q": "Why does lactose-free milk taste sweeter?",
+    "a": "Lactase splits lactose into glucose and galactose, which taste sweeter. That is normal and not a sign of spoilage."
+   }
+  ]
+ },
+ "zh": {
+  "name": "無乳糖牛奶",
+  "aliases": [
+   "零乳糖牛奶",
+   "低乳糖牛奶",
+   "分解乳糖鮮乳",
+   "好吸收牛奶"
+  ],
+  "summary": "無乳糖牛奶就是加了乳糖酶、把乳糖分解成更小的糖的一般牛奶。它仍然是牛奶，也一樣容易腐敗：全程冷藏，未開封以包裝日期為準，開封後約 1 週內喝完。",
+  "pantry": "冷藏型無乳糖牛奶不能放在室溫。就保存而言，它和一般鮮乳沒有差別，請守 2 小時原則（廚房超過 32 °C 時為 1 小時），倒完立刻冰回去。無菌包裝的保久型則是另一回事，開封前可以放櫥櫃，開封後同樣要冷藏。",
+  "fridge": "放在 4 °C 以下的內側層架，不要放門邊。未開封以包裝上的有效日期為準。開封後請在約 1 週內喝完，蓋子關緊、盒身直立。有一點常讓人誤會：無乳糖牛奶通常嚐起來比一般牛奶更甜，因為乳糖酶把乳糖分解成葡萄糖和半乳糖，而這兩種比原本的乳糖甜。那股甜味不是變質的跡象。",
+  "freezer": "無乳糖牛奶沒有公告的冷凍期限。冷凍做得到，但脂肪和蛋白質會分離，解凍後質地粗又水——拿去烘焙或煮醬汁沒問題，泡茶就不行。真要冷凍，請放 −18 °C，容器要留膨脹空間（牛奶結冰會膨脹），解凍後用力搖勻。買喝得完的容量才是更好的答案。",
+  "thawing": "放冷藏解凍，不要放室溫，倒之前用力搖勻。解凍後一兩天內喝完，不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸或刺鼻，而不是乾淨微甜的乳香。",
+   "出現結塊、凝絮，或倒起來變稠。",
+   "包裝鼓脹，或開封時有氣體逸出。",
+   "吃起來發苦或有氣泡感，吸嘴周圍發黏。"
+  ],
+  "tips": [
+   "買開封後一週內喝得完的容量。",
+   "放層架不要放門邊——門邊是冰箱最溫暖的位置。",
+   "還要留著喝的話，不要直接對著盒口喝。",
+   "在盒身寫上開封日期。"
+  ],
+  "faq": [
+   {
+    "q": "無乳糖牛奶開封後可以放多久？",
+    "a": "蓋緊直立放 4 °C 以下，大約 1 週。"
+   },
+   {
+    "q": "無乳糖牛奶比一般牛奶耐放嗎？",
+    "a": "不是因為乳糖酶。保久型之所以未開封放得久，是因為高溫殺菌和無菌包裝，跟去除乳糖無關。"
+   },
+   {
+    "q": "無乳糖牛奶可以冷凍嗎？",
+    "a": "沒有既定期限。它會分離、質地變粗，只適合冷凍後用於烘焙或料理；請放 −18 °C，容器留膨脹空間。"
+   },
+   {
+    "q": "無乳糖牛奶為什麼比較甜？",
+    "a": "乳糖酶把乳糖分解成葡萄糖和半乳糖，這兩種嚐起來比較甜。這是正常的，不是壞掉。"
+   }
+  ]
+ }
+}

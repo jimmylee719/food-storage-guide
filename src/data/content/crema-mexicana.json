@@ -1,0 +1,91 @@
+{
+ "slug": "crema-mexicana",
+ "en": {
+  "name": "Crema mexicana",
+  "aliases": [
+   "Mexican crema",
+   "crema salvadoreña",
+   "table cream",
+   "crema espesa"
+  ],
+  "summary": "Crema is a cultured pourable cream, thinner and less sour than sour cream, spooned or squeezed over tacos, soups and elotes. Refrigerated it runs about 2 weeks. Do not freeze it — cultured cream splits into grains and water and does not come back.",
+  "pantry": "Crema is a fresh cultured dairy product and has no room-temperature life. It is low in acid and high in moisture, which is exactly the profile that supports Listeria monocytogenes, an organism that grows even at fridge temperature. Discard crema that has sat in the danger zone between 4 and 60 °C (40–140 °F) for more than 2 hours, or 1 hour above 32 °C (90 °F). Buy crema made with pasteurised milk; crema bought informally from an unregulated seller is not a safe product for a pregnant, elderly or immunocompromised reader.",
+  "fridge": "Keep it at 4 °C (40 °F) or below with the lid on, and treat about 2 weeks as the working limit — a figure borrowed from what is published for sour-cream-based dips, because no agency publishes one for crema itself. Never return crema to the tub from a plate. Being cultured, it sours further rather than going off cleanly: a thin layer of separated whey on top can be stirred back in, but a fizzy, yeasty or bitter taste means it is finished. Squeeze bottles are harder to keep clean than tubs — wipe the nozzle each time.",
+  "freezer": "Do not freeze crema. Cultured cream splits into grains and water on thawing and will not come back together even whisked, so there is no freezer timeline here and there should not be one. If you regularly have half a tub going to waste, buy the smaller size or use the rest up cooked — stirred into a soup or a sauce off the heat, where a slightly broken texture does not show.",
+  "thawing": null,
+  "spoilage": [
+   "Mould of any colour on the surface or under the lid.",
+   "A bitter, yeasty or fizzy taste rather than a clean mild sourness.",
+   "A lid that has bulged, or bubbles rising in the tub.",
+   "Pink or grey discolouration, or a ropy, stringy pour."
+  ],
+  "tips": [
+   "Buy the size you will finish in a fortnight.",
+   "Spoon out a portion rather than dressing food directly from the tub.",
+   "Wipe the nozzle of a squeeze bottle and keep the cap on.",
+   "Check the label says pasteurised milk."
+  ],
+  "faq": [
+   {
+    "q": "How long does crema last in the fridge?",
+    "a": "About 2 weeks at 4 °C or below. That figure is borrowed from sour-cream-based dips; nobody publishes one for crema."
+   },
+   {
+    "q": "Can you freeze crema mexicana?",
+    "a": "No. It splits into grains and water on thawing and cannot be whisked back. There is no freezer timeline for it."
+   },
+   {
+    "q": "Is the watery layer on top normal?",
+    "a": "Yes, that is whey separating, and you can stir it back in. A fizzy or bitter taste is not normal and means it goes."
+   },
+   {
+    "q": "Is crema safe during pregnancy?",
+    "a": "Only if it is made with pasteurised milk and has been kept properly cold. Crema is a fresh, low-acid dairy product, and Listeria grows at refrigerator temperature."
+   }
+  ]
+ },
+ "zh": {
+  "name": "墨西哥酸奶油",
+  "aliases": [
+   "crema mexicana",
+   "墨西哥發酵鮮奶油",
+   "中美洲酸奶油",
+   "crema"
+  ],
+  "summary": "Crema 是一種可以流動的發酵鮮奶油，比酸奶油更稀、酸味也更淡，常淋在塔可、湯品和烤玉米上。冷藏大約可以放 2 週。請不要冷凍——發酵鮮奶油解凍後會分離成顆粒和水，而且回不來。",
+  "pantry": "Crema 是生鮮發酵乳製品，沒有室溫保存這個選項。它酸度低、含水量高，正是李斯特菌（Listeria monocytogenes）喜歡的條件，而這種菌連冷藏溫度都能生長。在 4 至 60 °C 的危險溫度帶放超過 2 小時（室溫超過 32 °C 時為 1 小時）就請丟棄。請選用巴氏殺菌乳製作的產品；來路不明的自製 crema 對孕婦、長者與免疫力低下者而言並不安全。",
+  "fridge": "蓋好放在 4 °C 以下，並把大約 2 週當成工作上限——這個數字借自「酸奶油基底沾醬」的公告值，因為沒有任何機構公告過 crema 本身的期限。已經淋到盤子上的，不要再倒回罐子。它是發酵製品，壞掉的方式是愈來愈酸而不是乾脆變質：表面浮出一層薄薄的乳清可以攪回去，但吃起來有氣泡感、酵母味或苦味就是到頭了。擠壓瓶比罐裝更難保持乾淨，每次用完請擦一下瓶口。",
+  "freezer": "不要冷凍 crema。發酵鮮奶油解凍後會分離成顆粒和水，就算用打蛋器也打不回來，所以這裡沒有冷凍期限，也不該有。如果你常常有半罐用不完，請改買小罐，或把剩下的加熱用掉——離火後拌進湯或醬汁裡，稍微分離也看不出來。",
+  "thawing": null,
+  "spoilage": [
+   "表面或蓋子內側出現任何顏色的霉。",
+   "吃起來發苦、有酵母味或氣泡感，而不是乾淨的微酸。",
+   "蓋子鼓起，或罐內冒泡。",
+   "轉粉紅或轉灰，或倒出來牽絲。"
+  ],
+  "tips": [
+   "買兩週內用得完的容量。",
+   "先舀出一份再淋，不要直接拿整罐往食物上倒。",
+   "擠壓瓶的瓶口每次擦乾淨，蓋子蓋好。",
+   "確認標示是巴氏殺菌乳製作。"
+  ],
+  "faq": [
+   {
+    "q": "墨西哥酸奶油放冰箱可以放多久？",
+    "a": "4 °C 以下大約 2 週。這個數字借自酸奶油基底沾醬，crema 本身沒有人公告過。"
+   },
+   {
+    "q": "crema 可以冷凍嗎？",
+    "a": "不行。解凍後會分離成顆粒和水，打不回來，也沒有冷凍期限。"
+   },
+   {
+    "q": "表面那層水正常嗎？",
+    "a": "正常，那是分離出來的乳清，攪回去即可。但吃起來有氣泡感或苦味就不正常，要丟掉。"
+   },
+   {
+    "q": "懷孕可以吃 crema 嗎？",
+    "a": "要確認是巴氏殺菌乳製作、而且全程冷藏才行。它是低酸的生鮮乳製品，而李斯特菌在冷藏溫度下仍會生長。"
+   }
+  ]
+ }
+}

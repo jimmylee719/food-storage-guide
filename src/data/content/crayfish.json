@@ -1,0 +1,91 @@
+{
+ "slug": "crayfish",
+ "en": {
+  "name": "Crayfish",
+  "aliases": [
+   "crawfish",
+   "crawdad",
+   "freshwater lobster",
+   "yabby"
+  ],
+  "summary": "Crayfish are small freshwater crustaceans, usually bought live by the sackful and boiled. From purchase they keep 1–3 days refrigerated, and the cooked or peeled tails freeze for 6–18 months.",
+  "pantry": "Live crayfish must not be kept at room temperature, and a sealed sack in a warm car is the classic way to lose a batch. Keep them cool and damp but never submerged in fresh water, which drowns them. Once cooked, the 2-hour rule applies — 1 hour above 32 °C (90 °F) — and a pot of boiled crayfish left out on the table through a long afternoon should be thrown out rather than saved. Raw shellfish also carries a Vibrio risk, and those bacteria multiply fast in warmth.",
+  "fridge": "Keep live crayfish in the coldest part of the fridge at 4 °C (40 °F) or below, in an open container or a mesh bag covered with a damp cloth so they can breathe, and cook them within 1–3 days from purchase. Do not seal them in a plastic bag and do not put them in a bowl of water. Discard any that are already dead before cooking — a dead crayfish deteriorates very quickly. Cooked crayfish and picked tails should go straight into a covered box in the fridge as soon as they have cooled.",
+  "freezer": "Crayfish keep 6–18 months at −18 °C (0 °F). Freeze the cooked, picked tails rather than whole live animals: bag them flat with a little of their cooking liquor or a splash of water to keep the air off, press out the air and label the date. Whole cooked crayfish freeze too but take far more space and lose more texture. Frozen food stays safe indefinitely at −18 °C; the range is a quality window and the tails go cottony at the long end.",
+  "thawing": "Thaw in the fridge overnight, or in a sealed bag under cold running water. Never on the counter or in warm water. Use them within a day and do not refreeze.",
+  "spoilage": [
+   "A crayfish that does not move or flex its tail before cooking — it is dead.",
+   "A sour, ammoniacal or sulphurous smell rather than a clean freshwater one.",
+   "Cooked tails that have gone soft, mushy or slimy.",
+   "A black, spreading discolouration in the head or at the joints of a cooked crayfish."
+  ],
+  "tips": [
+   "Buy them live and cook them the day you get them if you can.",
+   "Never store them in standing water; damp cloth and air is what they need.",
+   "Purge them briefly in salted water just before cooking, then cook straight away.",
+   "Freeze picked tails rather than whole bodies to save freezer space."
+  ],
+  "faq": [
+   {
+    "q": "How long do live crayfish keep in the fridge?",
+    "a": "1–3 days from purchase at 4 °C (40 °F) or below, kept damp in an open container. Discard any that die before cooking."
+   },
+   {
+    "q": "Can you freeze crayfish?",
+    "a": "Yes, 6–18 months at −18 °C. Freeze the cooked, picked tails with a little liquid to keep the air off."
+   },
+   {
+    "q": "Can you store crayfish in water?",
+    "a": "No. Fresh water drowns them. Keep them in an open container under a damp cloth so they can breathe."
+   },
+   {
+    "q": "Is it safe to cook a crayfish that has died?",
+    "a": "Better not. A dead crustacean deteriorates fast and there is no way to tell how long it has been dead. Discard it."
+   }
+  ]
+ },
+ "zh": {
+  "name": "淡水螯蝦",
+  "aliases": [
+   "小龍蝦",
+   "克氏原螯蝦",
+   "淡水龍蝦",
+   "crayfish"
+  ],
+  "summary": "淡水螯蝦是小型淡水甲殼類，通常整袋買活的回來水煮。從購買日起冷藏可放 1～3 天，煮熟剝好的蝦尾冷凍可放 6～18 個月。",
+  "pantry": "活的螯蝦不能放室溫，而「整袋封死放在悶熱的車上」正是最經典的全軍覆沒方式。請保持低溫潮濕，但絕對不要泡在淡水裡，那會把牠們淹死。煮熟之後就適用 2 小時原則（室溫超過 32 °C 時為 1 小時），在餐桌上放了一整個下午的那一鍋請丟掉，不要留。生鮮貝甲類也帶有腸炎弧菌風險，而這類細菌在溫暖環境中繁殖很快。",
+  "fridge": "活螯蝦放在冰箱最冷的位置、4 °C 以下，用開口容器或網袋裝、上面蓋濕布讓牠們能呼吸，並在購買後 1～3 天內煮掉。不要密封在塑膠袋裡，也不要放進裝水的盆子。下鍋前先把已經死掉的挑掉丟棄——死掉的螯蝦劣化非常快。煮熟的螯蝦和剝好的蝦尾，放涼後就要立刻裝進加蓋容器冷藏。",
+  "freezer": "螯蝦在 −18 °C 下可放 6～18 個月。請冷凍煮熟剝好的蝦尾，而不是整隻活體：壓平裝袋，加一點煮汁或清水隔絕空氣，擠出空氣並標上日期。整隻熟蝦也可以冷凍，但佔空間，質地損失也比較大。−18 °C 下安全性是無限期的，這個區間講的是品質，靠近長端時蝦尾會變得乾柴。",
+  "thawing": "放冷藏隔夜解凍，或密封裝袋用冷水沖。不要放室溫或泡溫水。解凍後一天內用完，不要再次冷凍。",
+  "spoilage": [
+   "下鍋前不會動、尾巴也不會彈——代表已經死了。",
+   "聞起來發酸、有氨味或硫味，而不是乾淨的淡水味。",
+   "煮熟的蝦尾變軟爛或黏滑。",
+   "熟蝦頭部或關節處出現擴散的黑色變色。"
+  ],
+  "tips": [
+   "盡量買活的並當天煮掉。",
+   "絕對不要泡在水裡；牠們需要的是濕布和空氣。",
+   "下鍋前用鹽水短暫吐沙，吐完馬上煮。",
+   "冷凍剝好的蝦尾而不是整隻，比較省空間。"
+  ],
+  "faq": [
+   {
+    "q": "活的小龍蝦冷藏可以放多久？",
+    "a": "開口容器保濕、放 4 °C 以下，從購買日起 1～3 天。下鍋前把死掉的挑掉。"
+   },
+   {
+    "q": "小龍蝦可以冷凍嗎？",
+    "a": "可以，−18 °C 下 6～18 個月。請冷凍煮熟剝好的蝦尾，並加一點湯汁隔絕空氣。"
+   },
+   {
+    "q": "小龍蝦可以泡在水裡保存嗎？",
+    "a": "不行。淡水會把牠們淹死。請用開口容器蓋濕布，讓牠們能呼吸。"
+   },
+   {
+    "q": "死掉的小龍蝦還能煮嗎？",
+    "a": "最好不要。甲殼類死後劣化很快，而且你無從得知牠死了多久。請丟棄。"
+   }
+  ]
+ }
+}

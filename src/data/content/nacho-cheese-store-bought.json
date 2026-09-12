@@ -1,0 +1,91 @@
+{
+ "slug": "nacho-cheese-store-bought",
+ "en": {
+  "name": "Nacho cheese sauce",
+  "aliases": [
+   "store-bought nacho cheese",
+   "cheese dip",
+   "queso dip",
+   "jarred cheese sauce"
+  ],
+  "summary": "Store-bought nacho cheese sauce is a processed, heat-treated cheese product sold in jars, pouches or cans. Unopened it is shelf-stable for about 2 years from purchase; once opened it goes in the fridge for about 2 weeks. Freezing is not recommended, and if you do it, about 3 months.",
+  "pantry": "An unopened jar or can keeps in a cool, dry cupboard for about 2 years from purchase. It was heat-treated and sealed, and the emulsifying salts that keep it smooth also make it a stable product — which is why it survives a cupboard and a fresh cheese does not. Keep it away from the cooker and out of direct sun, and do not store a jar whose seal has been broken or whose lid no longer clicks. Once open, the cupboard is finished with it.",
+  "fridge": "After opening, keep it at 4 °C (40 °F) or below and use it within about 2 weeks. Transfer a pouch into a lidded jar rather than trying to reseal it. Warm only what you are serving, in a bowl, and do not pour leftovers back into the jar from a dish people have been dipping in — that is the fastest way to spoil it. Sauce that has sat out at a party for hours should go in the bin rather than back in the fridge: the danger zone runs from 4 to 60 °C (40–140 °F), and 2 hours is the limit, or 1 hour above 32 °C (90 °F).",
+  "freezer": "Freezing is not recommended, because it damages the texture — the emulsion breaks and the thawed sauce is grainy and oily. If you freeze it anyway, about 3 months at −18 °C (0 °F) is the guidance, in a sealed container with a little headspace. Reheat it gently, stirring hard, and expect to whisk it back together; it will be better poured over hot chips than served as a dip.",
+  "thawing": "Thaw in the fridge overnight, never on the counter, then reheat gently while stirring. Do not refreeze thawed sauce.",
+  "spoilage": [
+   "A bulging jar, pouch or can, or a lid that pops up.",
+   "Mould of any colour on the surface or around the rim.",
+   "A sour, yeasty or fermented smell instead of a mild cheesy one.",
+   "Gas bubbles, a fizzy taste, or a separated oily layer that will not stir back."
+  ],
+  "tips": [
+   "Decant an opened pouch into a clean lidded jar.",
+   "Heat only what you will serve, and never return it to the jar.",
+   "Write the opening date on the lid.",
+   "Discard a jar with a broken seal without tasting it."
+  ],
+  "faq": [
+   {
+    "q": "Does nacho cheese sauce need to be refrigerated?",
+    "a": "Not until it is opened — a sealed jar keeps about 2 years from purchase in the cupboard. Once opened it must stay at 4 °C or below and be used within about 2 weeks."
+   },
+   {
+    "q": "Can you freeze nacho cheese sauce?",
+    "a": "It is not recommended; freezing breaks the emulsion. If you do it anyway, about 3 months at −18 °C, and expect a grainy texture."
+   },
+   {
+    "q": "How long does nacho cheese last once opened?",
+    "a": "About 2 weeks refrigerated. Do not count sauce that sat out at a party — discard that rather than saving it."
+   },
+   {
+    "q": "How can you tell if nacho cheese has gone bad?",
+    "a": "A bulging container, mould, a sour smell, or gas bubbles. Throw it out without tasting."
+   }
+  ]
+ },
+ "zh": {
+  "name": "市售起司醬",
+  "aliases": [
+   "玉米片起司醬",
+   "nacho 起司醬",
+   "罐裝起司醬",
+   "起司沾醬"
+  ],
+  "summary": "市售起司醬是經過加熱處理的加工乳酪製品，裝在玻璃罐、軟袋或罐頭裡。未開封可常溫保存，從購買日起約 2 年；開封後冷藏約 2 週。不建議冷凍，真要冷凍大約是 3 個月。",
+  "pantry": "未開封的罐裝或鐵罐放在陰涼乾燥的櫥櫃，從購買日起約 2 年。它經過加熱殺菌並密封，而讓質地滑順的乳化鹽同時也讓它成為安定的產品——這就是它能待在櫥櫃、而新鮮乳酪不行的原因。請遠離爐火、避免陽光直射；封條破損或蓋子按下去不再有回彈的就不要留。一旦開封，櫥櫃就跟它無關了。",
+  "fridge": "開封後放 4 °C 以下，約 2 週內用完。軟袋裝的請倒進有蓋玻璃罐，不要硬去重新封口。要吃多少就加熱多少、裝在小碗裡，大家沾過的那碗不要倒回罐子——那是最快把整罐弄壞的方式。在派對上放了好幾個小時的醬請直接丟掉，不要冰回去：危險溫度帶是 4 到 60 °C，上限是 2 小時，室溫超過 32 °C 時為 1 小時。",
+  "freezer": "不建議冷凍，因為會破壞質地——乳化結構散開，解凍後又粗又出油。若還是要冷凍，指引大約是 −18 °C 下 3 個月，密封容器並留一點膨脹空間。回溫時小火慢慢加熱並持續攪拌，要有重新打勻的心理準備；它比較適合淋在熱玉米片上，不適合再當沾醬。",
+  "thawing": "放冷藏隔夜解凍，不要放室溫，之後小火邊攪邊加熱。解凍過的不要再次冷凍。",
+  "spoilage": [
+   "罐子、軟袋或鐵罐鼓脹，或蓋子彈起。",
+   "表面或罐口周圍出現任何顏色的霉。",
+   "聞起來發酸、有酵母味或發酵味，而不是淡淡的起司味。",
+   "出現氣泡、吃起來有氣泡感，或分離出攪不回去的油層。"
+  ],
+  "tips": [
+   "開封的軟袋請倒進乾淨的有蓋玻璃罐。",
+   "要吃多少加熱多少，用過的絕不倒回罐子。",
+   "在蓋子上寫開封日期。",
+   "封條破損的罐子直接丟棄，不要試吃。"
+  ],
+  "faq": [
+   {
+    "q": "市售起司醬需要冷藏嗎？",
+    "a": "未開封不用——密封罐放櫥櫃，從購買日起約 2 年。開封後必須放 4 °C 以下並在約 2 週內用完。"
+   },
+   {
+    "q": "起司醬可以冷凍嗎？",
+    "a": "不建議，冷凍會破壞乳化。真要冷凍大約是 −18 °C 下 3 個月，解凍後質地會變粗。"
+   },
+   {
+    "q": "起司醬開封後可以放多久？",
+    "a": "冷藏約 2 週。在派對上放到室溫的那些不算，請直接丟掉。"
+   },
+   {
+    "q": "怎麼判斷起司醬壞掉了？",
+    "a": "容器鼓脹、長霉、發酸、有氣泡，任一項都直接丟棄，不要試吃。"
+   }
+  ]
+ }
+}

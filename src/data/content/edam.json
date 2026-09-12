@@ -1,0 +1,91 @@
+{
+ "slug": "edam",
+ "en": {
+  "name": "Edam",
+  "aliases": [
+   "Edam cheese",
+   "Edammer",
+   "queso de bola",
+   "Dutch ball cheese"
+  ],
+  "summary": "Edam is a part-skim Dutch cheese sold as a red- or yellow-waxed ball, mild when young and firmer and saltier with age. Sealed, it keeps 4–6 months in the fridge; once you breach the wax, 3–4 weeks. It freezes for 6 months, best kept for cooking.",
+  "pantry": "The wax coat makes Edam look shelf-stable and it is not. The wax slows moisture loss and keeps mould off the surface, but the cheese underneath is still a refrigerated food. Bring a piece up to room temperature for half an hour before serving — it tastes flat straight from the fridge — and put the rest back. Do not store a ball in a warm cupboard, however impressive it looks on the shelf.",
+  "fridge": "An unopened waxed or vacuum-packed ball keeps 4–6 months at 0–5 °C. Being made from part-skim milk, Edam has less fat to go rancid than a full-fat cheese, and the wax is a genuine barrier. Once cut, give it 3–4 weeks: wrap only the cut face and leave the waxed surface uncovered. Sealing the whole ball in plastic traps moisture against the wax and grows mould underneath it, where you cannot see it until you unwrap the thing.",
+  "freezer": "Edam freezes for 6 months at −18 °C (0 °F), which is acceptable for cooking use — it comes out drier and more crumbly than it went in. Cut it into cooking-sized pieces or grate it first, bag it flat with the air pressed out, and label the date. Frozen food stays safe indefinitely at −18 °C; the timeline is about quality. A young, mild Edam has little to lose from freezing, an older one rather more.",
+  "thawing": "Thaw it wrapped in the fridge and use it melted or grated. Do not thaw cheese on the counter, and do not refreeze it.",
+  "spoilage": [
+   "Mould growing under the wax, found when you peel it back.",
+   "A slimy or wet cut face rather than a merely dry one.",
+   "An ammonia or sour smell instead of the usual mild nutty one.",
+   "Cracks weeping fat, or a bitter taste."
+  ],
+  "tips": [
+   "Leave the wax on every side you have not cut.",
+   "Wrap the cut face in waxed paper and box it loosely.",
+   "Buy a smaller ball if you eat cheese slowly; a cut one runs on a much shorter clock.",
+   "Grate the dry end into a sauce rather than throwing it out."
+  ],
+  "faq": [
+   {
+    "q": "How long does Edam keep in the fridge?",
+    "a": "About 4–6 months unopened at 0–5 °C, and 3–4 weeks once the wax has been cut."
+   },
+   {
+    "q": "Should you wrap the whole Edam ball in plastic?",
+    "a": "No. Wrap the cut face only. Plastic over the wax traps moisture and grows mould underneath where you cannot see it."
+   },
+   {
+    "q": "Can you freeze Edam?",
+    "a": "Yes, 6 months at −18 °C. It comes out drier and crumblier, so use it grated or melted."
+   },
+   {
+    "q": "Can you eat the wax on Edam?",
+    "a": "No. The wax is packaging. Peel it off the piece you are cutting and leave it on the rest."
+   }
+  ]
+ },
+ "zh": {
+  "name": "艾丹乳酪",
+  "aliases": [
+   "艾丹起司",
+   "伊丹乳酪",
+   "荷蘭圓球乳酪",
+   "紅衣乳酪"
+  ],
+  "summary": "艾丹是荷蘭的部分脫脂乳酪，外面裹著紅色或黃色的蠟，做成球狀販售；年輕時溫和，愈陳愈結實、愈鹹。未開封可冷藏 4～6 個月；蠟一旦切開，就是 3～4 週。冷凍可放 6 個月，主要留作料理用。",
+  "pantry": "那層蠟讓艾丹看起來可以常溫保存，其實不行。蠟的作用是減緩水分散失、擋住表面長霉，但底下那塊乳酪仍然是冷藏食品。要吃之前先回溫半小時再上桌——剛從冰箱拿出來風味是平的——其餘立刻冰回去。不管球狀外型放在架上多好看，都不要放在溫暖的櫥櫃裡。",
+  "fridge": "未開封的蠟球或真空包在 0～5 °C 下可放 4～6 個月。艾丹用部分脫脂乳製作，可以走油耗的脂肪比全脂乳酪少，而蠟殼確實是一道有效屏障。切開之後就是 3～4 週：只包切面，其餘有蠟的部分讓它裸露。把整顆用保鮮膜包起來，會把水氣封在蠟殼上，霉就長在你看不見的蠟底下，直到拆開才發現。",
+  "freezer": "艾丹在 −18 °C 下可放 6 個月，拿來入菜是可以接受的——解凍後會比原本更乾、更碎。先切成一次入菜的大小或刨成絲，壓平裝袋、擠出空氣並標上日期。−18 °C 下安全性是無限期的，期限講的是品質。年輕溫和的艾丹冷凍起來損失不大，陳年的損失就比較明顯。",
+  "thawing": "連包裝放冷藏解凍，解凍後用來融化或刨絲。乳酪不要放室溫解凍，也不要再次冷凍。",
+  "spoilage": [
+   "剝開蠟殼時發現底下長霉。",
+   "切面變得濕黏，而不只是乾掉。",
+   "出現氨味或酸味，而不是原本淡淡的堅果香。",
+   "裂縫滲油，或吃起來發苦。"
+  ],
+  "tips": [
+   "沒有切到的那幾面，蠟都留著。",
+   "切面用蠟紙包好，放進不完全密閉的盒子。",
+   "吃得慢的話買小顆；切開後的時鐘走得快多了。",
+   "乾掉的那一端刨進醬汁裡，不要丟掉。"
+  ],
+  "faq": [
+   {
+    "q": "艾丹乳酪冷藏可以放多久？",
+    "a": "未開封在 0～5 °C 下約 4～6 個月；蠟切開之後約 3～4 週。"
+   },
+   {
+    "q": "整顆艾丹要用保鮮膜包起來嗎？",
+    "a": "不要。只包切面。保鮮膜蓋在蠟上會把水氣封住，霉就長在你看不見的蠟底下。"
+   },
+   {
+    "q": "艾丹可以冷凍嗎？",
+    "a": "可以，−18 °C 下 6 個月。解凍後偏乾偏碎，適合刨絲或融化使用。"
+   },
+   {
+    "q": "艾丹外面的蠟可以吃嗎？",
+    "a": "不能。蠟是包裝。要切的那一面把蠟剝掉，其餘留著。"
+   }
+  ]
+ }
+}

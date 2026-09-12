@@ -1,0 +1,91 @@
+{
+ "slug": "bison-whole",
+ "en": {
+  "name": "Bison",
+  "aliases": [
+   "buffalo steak",
+   "bison roast",
+   "whole-muscle bison",
+   "American buffalo"
+  ],
+  "summary": "Whole cuts of bison — steaks, roasts and joints — keep 3–5 days in the fridge and 6–9 months in the freezer. It is a much leaner red meat than beef, which changes how it cooks more than how it stores.",
+  "pantry": "Raw bison must not be kept at room temperature. It is a fresh red meat and belongs at 4 °C (40 °F) or below at all times; follow the 2-hour rule, or 1 hour if the kitchen is above 32 °C (90 °F). Taking a steak out for twenty minutes or so before cooking is fine and helps it cook evenly, but an hour on a warm counter is not, whatever a recipe says about bringing meat to room temperature.",
+  "fridge": "Keep whole cuts at 4 °C (40 °F) or below and use them within 3–5 days of purchase. Store them on the bottom shelf in a container or on a plate that catches drips, below anything ready to eat, and leave them loosely covered rather than sealed tight — a dry surface browns and sears better than a wet one. A whole cut keeps far longer than mince because the bacteria stay on the outside, where the heat of the pan reaches them; that is also why a steak can be served pink and mince cannot.",
+  "freezer": "Bison keeps 6–9 months at −18 °C (0 °F). Wrap each cut airtight with no air pockets, or vacuum-seal it, then bag it — lean meat freezer-burns quickly because there is little fat to protect the surface. Freeze in single cuts or meal-sized portions and label the date. Frozen food stays safe indefinitely at −18 °C; the months are about quality, and dryness is what ends it.",
+  "thawing": "Thaw in the fridge — allow a day for a steak and longer for a roast — or in a sealed bag under cold running water. Never on the counter. Cook thawed bison within a day or two, and do not refreeze it raw.",
+  "spoilage": [
+   "A slimy or sticky surface rather than a merely tacky one.",
+   "A sour, sulphurous or ammoniacal smell instead of a clean metallic one.",
+   "A grey-green or iridescent cast over the whole cut, not just a darker face.",
+   "A swollen vacuum pack, or cloudy, ropy liquid in the tray."
+  ],
+  "tips": [
+   "Keep the surface dry; a dry steak sears and a wet one steams.",
+   "Bison is lean, so it cooks faster than beef — pull it earlier than you think.",
+   "Vacuum-seal before freezing; lean meat burns quickly in the freezer.",
+   "Store below ready-to-eat food, always."
+  ],
+  "faq": [
+   {
+    "q": "How long does bison keep in the fridge?",
+    "a": "3–5 days at 4 °C (40 °F) or below for whole cuts like steaks and roasts."
+   },
+   {
+    "q": "Can you freeze bison?",
+    "a": "Yes, 6–9 months at −18 °C. Vacuum-seal or wrap airtight, because lean meat freezer-burns easily."
+   },
+   {
+    "q": "Why do whole cuts keep longer than mince?",
+    "a": "Bacteria stay on the outside of a whole cut, where cooking heat reaches them. Mincing spreads them all the way through, so mince spoils faster and must be cooked through."
+   },
+   {
+    "q": "Does bison cook like beef?",
+    "a": "It is leaner, so it cooks faster and dries out sooner. Storage is the same; cooking times are not."
+   }
+  ]
+ },
+ "zh": {
+  "name": "美洲野牛肉",
+  "aliases": [
+   "野牛排",
+   "bison 肉",
+   "美洲野牛塊肉",
+   "buffalo 肉"
+  ],
+  "summary": "整塊的野牛肉——牛排、烤肉塊、大塊肉——冷藏可放 3～5 天，冷凍 6～9 個月。它比一般牛肉瘦得多，但那影響的主要是烹調方式，而不是保存方式。",
+  "pantry": "生野牛肉不能放室溫。它是生鮮紅肉，必須全程保持在 4 °C 以下；請守 2 小時原則，廚房超過 32 °C 時為 1 小時。下鍋前拿出來放個二十分鐘左右讓受熱均勻是可以的，但不管食譜怎麼說「回到室溫」，在溫暖的檯面上放一小時就不行。",
+  "fridge": "整塊肉放 4 °C 以下，購買後 3～5 天內用完。放最下層、用容器或盤子接住滴液，位置低於所有即食食品；建議鬆鬆地蓋著而不是密封——表面乾的肉比濕的更好上色。整塊肉比絞肉耐放得多，因為細菌只留在外層，而那正是鍋子的高溫碰得到的地方；這也是為什麼牛排可以帶粉紅、絞肉不行。",
+  "freezer": "野牛肉在 −18 °C 下可放 6～9 個月。每塊密封包好不留空氣，或真空封裝後再套袋——瘦肉表面沒什麼脂肪保護，很快就會凍燒。請單塊或按一餐的量分裝並標上日期。−18 °C 下安全性是無限期的，月數講的是品質，而終結它的是「變乾」。",
+  "thawing": "放冷藏解凍——牛排大約一天，大塊烤肉更久——或密封裝袋用冷水沖。不要放室溫。解凍後一兩天內煮掉，生的不要再次冷凍。",
+  "spoilage": [
+   "表面變得黏滑，而不只是略帶黏手。",
+   "聞起來發酸、有硫味或氨味，而不是乾淨的金屬味。",
+   "整塊泛灰綠或出現虹彩，而不只是某一面顏色較深。",
+   "真空包鼓脹，或盤中的血水變得混濁牽絲。"
+  ],
+  "tips": [
+   "保持表面乾燥；乾的才會上色，濕的只會變成用蒸的。",
+   "野牛肉很瘦，比牛肉熟得快——比你以為的更早起鍋。",
+   "冷凍前真空封裝；瘦肉在冷凍庫裡很快凍燒。",
+   "永遠放在即食食品的下層。"
+  ],
+  "faq": [
+   {
+    "q": "野牛肉冷藏可以放多久？",
+    "a": "整塊的牛排或烤肉塊，在 4 °C 以下 3～5 天。"
+   },
+   {
+    "q": "野牛肉可以冷凍嗎？",
+    "a": "可以，−18 °C 下 6～9 個月。請真空封裝或密封包好，瘦肉很容易凍燒。"
+   },
+   {
+    "q": "為什麼整塊肉比絞肉耐放？",
+    "a": "整塊肉的細菌只在外層，正好是加熱碰得到的地方。絞碎會把細菌帶進整塊肉，所以絞肉壞得快，也必須煮全熟。"
+   },
+   {
+    "q": "野牛肉的煮法和牛肉一樣嗎？",
+    "a": "它更瘦，所以熟得更快、也更容易乾柴。保存方式相同，烹調時間不同。"
+   }
+  ]
+ }
+}

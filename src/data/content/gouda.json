@@ -1,0 +1,91 @@
+{
+ "slug": "gouda",
+ "en": {
+  "name": "Gouda",
+  "aliases": [
+   "Gouda cheese",
+   "oude kaas",
+   "aged Gouda",
+   "jonge Gouda"
+  ],
+  "summary": "Gouda spans an enormous range, from a young jonge that is soft and mild to an oude aged a year or more, dry, salty and full of crunchy crystals. Sealed, it keeps 4–6 months in the fridge; opened, 3–4 weeks; frozen, 6 months. Age matters more here than with almost any other cheese.",
+  "pantry": "Gouda is a refrigerated cheese whatever its age, and the wax or vacuum pack does not change that. Warmth makes the paste sweat fat and go greasy, and a young Gouda will soften and sour quickly. Bring a piece out about half an hour before serving to let the flavour open up, then put the rest back. Do not keep a waxed wheel on a kitchen shelf as decoration and then eat it.",
+  "fridge": "An unopened waxed or vacuum-packed piece keeps 4–6 months at 0–5 °C. Age is the thing to judge by: a jonge Gouda of a few weeks is moist, mild and semi-hard and will not really last like that, while an oude of a year or more is dry, salty and crystalline and effectively keeps itself. Once opened, give it 3–4 weeks — waxed paper in a loose box, and leave the coloured wax in place on any side you have not cut, because it is doing the job of a rind. One caveat worth knowing: a soft, bendy young Gouda is really a semi-soft cheese, and pregnant, elderly and immunocompromised readers are advised to avoid semi-soft cheeses whether pasteurised or not.",
+  "freezer": "Gouda freezes for 6 months at −18 °C (0 °F), and it is fine for cooking cheese: grate it first, bag it flat with the air pressed out, and use the gratings straight from frozen in a sauce or a gratin. It comes out drier and crumblier. An aged Gouda is worth eating rather than freezing — its whole appeal is a texture that freezing flattens. Frozen food stays safe indefinitely at −18 °C; the timeline is quality.",
+  "thawing": "Thaw it wrapped in the fridge, or use grated Gouda straight from the freezer. Do not thaw cheese on the counter and do not refreeze it.",
+  "spoilage": [
+   "Mould under the wax, found when you peel it back.",
+   "A slimy or wet cut face rather than a dry one.",
+   "An ammonia or sour smell instead of the usual caramel-nutty one.",
+   "A bitter taste, or fat weeping out of cracks in the paste."
+  ],
+  "tips": [
+   "Leave the wax on every side you have not cut into.",
+   "Waxed paper and a loose box beats clingfilm every time.",
+   "The crunchy crystals in an aged Gouda are tyrosine, not sugar or grit.",
+   "Grate the dry end of an old piece into a sauce rather than binning it."
+  ],
+  "faq": [
+   {
+    "q": "How long does Gouda keep in the fridge?",
+    "a": "About 4–6 months unopened at 0–5 °C, and 3–4 weeks once opened. A very young Gouda sits at the short end of both."
+   },
+   {
+    "q": "Can you freeze Gouda?",
+    "a": "Yes, 6 months at −18 °C. Grate it first and use it for cooking; it thaws drier and crumblier."
+   },
+   {
+    "q": "What are the crunchy bits in aged Gouda?",
+    "a": "Tyrosine crystals from long protein breakdown. They are a mark of maturity, not spoilage."
+   },
+   {
+    "q": "Is young Gouda safe during pregnancy?",
+    "a": "A soft, bendy jonge Gouda behaves as a semi-soft cheese, and pregnant, elderly and immunocompromised people are advised to avoid semi-soft cheeses, pasteurised or not. A hard aged Gouda is a different case."
+   }
+  ]
+ },
+ "zh": {
+  "name": "高達乳酪",
+  "aliases": [
+   "高達起司",
+   "豪達乳酪",
+   "陳年高達",
+   "荷蘭乳酪"
+  ],
+  "summary": "高達的跨度很大，從柔軟溫和的年輕 jonge，到熟成一年以上、乾硬帶鹹又有脆結晶的 oude 都有。未開封冷藏可放 4～6 個月；開封後 3～4 週；冷凍 6 個月。在這支乳酪上，熟成度比什麼都重要。",
+  "pantry": "不管熟成幾年，高達都是冷藏乳酪，外面的蠟或真空包不改變這件事。室溫會讓它滲油、變得油膩，年輕的高達還會很快變軟、變酸。上桌前半小時左右拿出來讓風味打開就好，其餘冰回去。不要把蠟封的乳酪輪當擺飾放在廚房架上，然後再拿來吃。",
+  "fridge": "未開封的蠟封或真空包在 0～5 °C 下可放 4～6 個月。判斷的關鍵是熟成度：只熟成幾週的 jonge 濕潤溫和、屬半硬質，其實撐不了那麼久；熟成一年以上的 oude 乾、鹹、佈滿結晶，基本上自己就能保存自己。開封後請以 3～4 週為限——蠟紙包、鬆蓋盒裝，沒切到的那幾面把彩色蠟留著，它正在扮演外皮的角色。有一點值得知道：柔軟有彈性的年輕高達其實屬於半軟質乳酪，而孕婦、長者與免疫力低下者被建議避開半軟質乳酪，不論是否為巴氏殺菌。",
+  "freezer": "高達在 −18 °C 下可放 6 個月，拿來當料理用乳酪沒問題：先刨絲、壓平裝袋擠出空氣，之後直接從冷凍狀態下鍋做醬汁或焗烤。解凍後會更乾更碎。陳年高達則值得好好吃掉而不是冷凍——它的價值就在質地，而冷凍正好把質地壓平。−18 °C 下安全性是無限期的，期限講的是品質。",
+  "thawing": "連包裝放冷藏解凍，或把刨絲的高達直接從冷凍拿出來用。乳酪不要放室溫解凍，也不要再次冷凍。",
+  "spoilage": [
+   "剝開蠟殼時發現底下長霉。",
+   "切面濕黏，而不只是乾掉。",
+   "出現氨味或酸味，而不是原本的焦糖堅果香。",
+   "吃起來發苦，或裂縫處滲出油脂。"
+  ],
+  "tips": [
+   "沒有切到的面，蠟都留著。",
+   "蠟紙加鬆蓋盒，永遠優於保鮮膜。",
+   "陳年高達裡的脆顆粒是酪胺酸，不是糖粒也不是砂。",
+   "老塊乾掉的那一端刨進醬汁，不要丟。"
+  ],
+  "faq": [
+   {
+    "q": "高達乳酪冷藏可以放多久？",
+    "a": "未開封在 0～5 °C 下約 4～6 個月，開封後約 3～4 週。非常年輕的高達要取兩者的短端。"
+   },
+   {
+    "q": "高達可以冷凍嗎？",
+    "a": "可以，−18 °C 下 6 個月。先刨絲並用於料理；解凍後偏乾偏碎。"
+   },
+   {
+    "q": "陳年高達裡脆脆的顆粒是什麼？",
+    "a": "是長時間熟成中蛋白質分解產生的酪胺酸結晶，代表熟成度，不是壞掉。"
+   },
+   {
+    "q": "懷孕可以吃年輕高達嗎？",
+    "a": "柔軟有彈性的 jonge 高達其實表現得像半軟質乳酪，而孕婦、長者與免疫力低下者被建議避開半軟質乳酪，不論是否巴氏殺菌。硬質的陳年高達則是另一回事。"
+   }
+  ]
+ }
+}

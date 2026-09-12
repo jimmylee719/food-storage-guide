@@ -1,0 +1,93 @@
+{
+ "slug": "curd-dahi",
+ "en": {
+  "name": "Curd (dahi)",
+  "aliases": [
+   "dahi",
+   "Indian curd",
+   "home-set yoghurt",
+   "mosaru",
+   "thayir"
+  ],
+  "summary": "Dahi is milk set at home with a spoonful of the last batch — the Indian household yoghurt, milder and looser than a commercial pot. Refrigerated it runs 1–2 weeks, but treat that as the outer limit rather than the eating window: home-set curd is usually at its best for only a few days.",
+  "pantry": "Room temperature has exactly one job here, and it is setting, not storing. Leave the pot out only until the curd firms, then get it straight into the fridge. A home-set curd carries no preservative, no packaging date and no controlled culture, so left warm it goes from pleasantly tart to sharply sour to separated and slimy, quickly in a hot kitchen. If the room is above 32 °C (90 °F) it will set fast and needs watching.",
+  "fridge": "Keep dahi at 4 °C (40 °F) or below in a covered pot. A working limit of 1–2 weeks is borrowed from the published timeline for yoghurt, since no agency gives one for home-set dahi, and it is best read as the outer safety limit: the culture keeps working in the cold, just slowly, so a batch that is pleasant on the second day is sharply sour by the fifth. Never dip a used spoon into the pot — that is what turns a batch slimy or pink. Save the starter for the next batch from the middle of the pot, not the surface.",
+  "freezer": "Freezing is deliberately left out here. Dahi separates and weeps badly on thawing, the set collapses, and what you get back is only usable stirred into cooking — a kadhi, a marinade, a batter. There is no timeline for it because there is no good reason to do it. Set a smaller pot more often instead; that is how dahi is meant to work, and a fresh batch is only a day away.",
+  "thawing": null,
+  "spoilage": [
+   "A slimy, ropy or stringy texture when you lift the spoon.",
+   "Pink, grey or fuzzy growth on the surface.",
+   "A yeasty or fermented-alcohol smell rather than a clean milky sourness.",
+   "Watery separation with a bitter or fizzy taste."
+  ],
+  "tips": [
+   "Set a small pot every couple of days rather than one big one weekly.",
+   "Keep the starter spoonful from the centre of the pot, in a clean container.",
+   "Clean dry spoon every time; this matters more than the temperature.",
+   "Drain the sourest of an old batch and use it as chaas or in a marinade."
+  ],
+  "faq": [
+   {
+    "q": "How long does home-set dahi keep in the fridge?",
+    "a": "Up to 1–2 weeks at 4 °C or below as an outer limit, borrowed from the published figure for yoghurt. For eating quality, a few days is nearer the mark."
+   },
+   {
+    "q": "Why has my curd gone slimy?",
+    "a": "Almost always a used spoon. A dipped spoon introduces other organisms that make the curd ropy or pink; that batch goes."
+   },
+   {
+    "q": "Can you freeze dahi?",
+    "a": "There is no timeline for it and no real point. It separates and weeps, so the thawed curd is only good stirred into cooking."
+   },
+   {
+    "q": "Should dahi be left out overnight to set?",
+    "a": "Only until it firms. Once it is set, refrigerate it — in a warm kitchen it will sour fast and eventually separate."
+   }
+  ]
+ },
+ "zh": {
+  "name": "印度優格",
+  "aliases": [
+   "dahi",
+   "達希",
+   "印度凝乳",
+   "自製優格",
+   "印度酸奶"
+  ],
+  "summary": "Dahi 是印度家庭用上一批留的一匙當菌種、在家裡發酵出來的優格，比市售杯裝更溫和、質地也更鬆。冷藏可以放 1～2 週，但那要當成上限而不是賞味期：自家做的凝乳通常只有前幾天最好吃。",
+  "pantry": "室溫在這裡只有一個任務，就是讓它「凝」，不是保存。放在室溫只到凝固為止，然後立刻進冰箱。自製凝乳沒有防腐劑、沒有包裝日期，菌相也不受控制，放在溫暖環境會從宜人的微酸一路變成死酸、再變成出水黏滑，在熱廚房裡尤其快。室溫超過 32 °C 時凝固得很快，要盯著。",
+  "fridge": "加蓋放在 4 °C 以下。1～2 週這個工作上限是借用優格的公告期限，因為沒有機構公告過家製 dahi 的數字；而且最好理解成安全上限：菌在低溫下還是在工作，只是慢，所以第二天好吃的那一鍋，到第五天就會酸得很兇。絕對不要把用過的湯匙伸進去——那正是整鍋變黏、變粉紅的原因。要留菌種，請從中央取，不要取表面。",
+  "freezer": "這裡刻意不談冷凍。Dahi 解凍後嚴重出水分離、凝固結構整個垮掉，拿回來只能拌進料理裡用——煮 kadhi、當醃料、調麵糊。沒有給期限，是因為根本沒有好理由這樣做。與其冷凍，不如少量多次地做；dahi 本來就是這樣運作的，新的一鍋不過隔一天。",
+  "thawing": null,
+  "spoilage": [
+   "舀起來黏滑牽絲。",
+   "表面出現粉紅、灰色或絨毛狀的霉。",
+   "有酵母味或發酵酒味，而不是乾淨的奶酸味。",
+   "出水分離並帶苦味或氣泡感。"
+  ],
+  "tips": [
+   "每兩三天做一小鍋，不要一週做一大鍋。",
+   "留菌種請從中央舀，放進另一個乾淨容器。",
+   "每次都用乾淨乾燥的湯匙；這比溫度還重要。",
+   "太酸的舊批次可以濾一濾做成印度鹹優格飲或當醃料。"
+  ],
+  "faq": [
+   {
+    "q": "自製印度優格冷藏可以放多久？",
+    "a": "4 °C 以下最多 1～2 週，這是借用優格的公告值當上限。就口感來說，幾天內吃完比較實際。"
+   },
+   {
+    "q": "我的凝乳為什麼變得黏黏牽絲？",
+    "a": "幾乎都是用過的湯匙造成的。沾過口水的湯匙會帶入其他菌，使凝乳牽絲或泛紅，那一鍋就要丟。"
+   },
+   {
+    "q": "dahi 可以冷凍嗎？",
+    "a": "沒有對應期限，也沒什麼意義。解凍後出水分離，只能拌進加熱料理裡用。"
+   },
+   {
+    "q": "dahi 要放室溫過夜讓它凝固嗎？",
+    "a": "只放到凝固為止。凝了就要冰起來，在溫暖的廚房裡它會迅速變酸，最後出水分離。"
+   }
+  ]
+ }
+}

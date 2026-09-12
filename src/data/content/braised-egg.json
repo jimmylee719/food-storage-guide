@@ -1,0 +1,91 @@
+{
+ "slug": "braised-egg",
+ "en": {
+  "name": "Braised egg",
+  "aliases": [
+   "soy sauce egg",
+   "stewed egg",
+   "lu dan",
+   "marinated egg"
+  ],
+  "summary": "A braised egg is a hard-cooked egg, shelled and left to steep in a soy-and-spice braise until it takes on colour and salt. Kept submerged in its cooled braise in the fridge, it runs about 1 week. The braise is a seasoning, not a preservative.",
+  "pantry": "Room temperature is not an option, however salty the liquid looks. A shelled cooked egg in a wet, low-acid braise is exactly the kind of food bacteria like, and home braises are nowhere near salty enough to hold them off. Cool the pot quickly and refrigerate within 2 hours of cooking — 1 hour if the kitchen is above 32 °C (90 °F) — and resist the folk habit of leaving the pot out overnight to let the flavour soak in. It soaks in just as well in the cold, only slower.",
+  "fridge": "Keep the peeled eggs fully submerged in their cooled braise, in a covered box at 4 °C (40 °F) or below, and use them within about 1 week. That figure is not a published braised-egg number: it is the established timeline for hard-boiled eggs, applied here because that is what a braised egg is underneath. Lift eggs out with clean chopsticks and never return one that has been on a plate. If the braise turns ropy or throws a film, discard the lot rather than straining it.",
+  "freezer": "There is no freezer timeline for braised eggs and freezing is a poor idea anyway. A cooked egg white freezes into something rubbery and weeping — the protein network tightens and squeezes water out — so what you take back out is not the same food. If you have braised more than you can eat, make fewer next time or share them; the braise itself can be strained, boiled and frozen for a future batch.",
+  "thawing": null,
+  "spoilage": [
+   "A sour or fermented smell from the braise rather than a soy-and-spice one.",
+   "A slimy or ropy film on the eggs or strands in the liquid.",
+   "Gas bubbles or fizzing in a cold container.",
+   "White surface patches or fuzzy growth on an egg."
+  ],
+  "tips": [
+   "Cool the pot fast in a sink of cold water before it goes in the fridge.",
+   "Braise in small batches rather than a big pot you cannot finish.",
+   "Use clean chopsticks every time; one dip with used ones starts the clock over.",
+   "Label the box with the day you cooked them."
+  ],
+  "faq": [
+   {
+    "q": "How long do braised eggs last in the fridge?",
+    "a": "About 1 week at 4 °C or below, kept submerged in their cooled braise in a covered box."
+   },
+   {
+    "q": "Can you leave braised eggs out overnight to soak up flavour?",
+    "a": "No. Get them into the fridge within 2 hours of cooking. The flavour still penetrates in the cold, and the braise is not salty enough to preserve anything."
+   },
+   {
+    "q": "Are ramen-style soft-yolk marinated eggs the same?",
+    "a": "No. A runny yolk was never fully cooked, so treat those as a two- or three-day food rather than a week's."
+   },
+   {
+    "q": "Can you freeze braised eggs?",
+    "a": "There is no timeline and it is not worth doing. Cooked egg white turns rubbery and weeps water after freezing."
+   }
+  ]
+ },
+ "zh": {
+  "name": "滷蛋",
+  "aliases": [
+   "鹵蛋",
+   "醬油蛋",
+   "滷雞蛋",
+   "茶滷蛋"
+  ],
+  "summary": "滷蛋是水煮蛋剝殼後泡在醬油香料滷汁裡上色入味的蛋。整顆浸在放涼的滷汁裡冷藏，大約可以放 1 週。滷汁是調味，不是防腐。",
+  "pantry": "不管滷汁看起來多鹹，室溫都不是選項。剝了殼的熟蛋泡在濕潤、低酸的滷汁裡，正好是細菌最喜歡的環境，而家裡滷汁的鹹度遠遠不足以壓制它們。煮好後盡快降溫，2 小時內冰進冰箱（室溫超過 32 °C 時縮短為 1 小時），也請放棄「整鍋放外面過夜比較入味」這個習慣。冷藏一樣會入味，只是慢一點。",
+  "fridge": "剝好的蛋要完全浸在放涼的滷汁裡，裝進有蓋容器放 4 °C 以下，大約 1 週內吃完。這個數字不是滷蛋專屬的公告值，而是水煮蛋的既有期限——滷蛋說到底就是水煮蛋——所以拿來比照使用。要吃就用乾淨的筷子夾，夾出來放過盤子的就不要再放回去。滷汁如果變得牽絲或浮出一層膜，整鍋丟掉，不要只是過濾。",
+  "freezer": "滷蛋沒有冷凍期限，冷凍本身也不是好主意。煮熟的蛋白冷凍後會變得又橡皮又出水——蛋白質網絡收緊把水擠出來——拿出來的已經不是同一種食物了。滷太多的話，下次少滷一點或分送出去；滷汁本身倒是可以過濾煮沸後冷凍，留給下一鍋用。",
+  "thawing": null,
+  "spoilage": [
+   "滷汁聞起來發酸或有發酵味，而不是醬香。",
+   "蛋表面黏滑、滷汁牽絲成絲狀。",
+   "冷藏狀態下容器裡出現氣泡或嘶嘶聲。",
+   "蛋面出現白色斑塊或絨毛狀霉。"
+  ],
+  "tips": [
+   "整鍋先放冷水盆裡快速降溫，再進冰箱。",
+   "一次滷吃得完的量，不要滷一大鍋。",
+   "每次都用乾淨的筷子；用過的筷子伸進去一次，等於重新計時。",
+   "在盒子上寫下滷製當天的日期。"
+  ],
+  "faq": [
+   {
+    "q": "滷蛋放冰箱可以放多久？",
+    "a": "浸在放涼的滷汁裡、加蓋放 4 °C 以下，大約 1 週。"
+   },
+   {
+    "q": "滷蛋可以放室溫過夜比較入味嗎？",
+    "a": "不行。煮好後 2 小時內就要冰起來。冷藏一樣會入味，而滷汁的鹹度不足以防腐。"
+   },
+   {
+    "q": "日式半熟溏心蛋也一樣嗎？",
+    "a": "不一樣。溏心蛋的蛋黃沒有全熟，請當成兩三天的食物，不要比照一週。"
+   },
+   {
+    "q": "滷蛋可以冷凍嗎？",
+    "a": "沒有對應期限，也不建議。熟蛋白冷凍後會變橡皮質地並且出水。"
+   }
+  ]
+ }
+}

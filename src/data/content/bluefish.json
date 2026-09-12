@@ -1,0 +1,91 @@
+{
+ "slug": "bluefish",
+ "en": {
+  "name": "Bluefish",
+  "aliases": [
+   "snapper blue",
+   "tailor",
+   "elf",
+   "Pomatomus saltatrix"
+  ],
+  "summary": "Bluefish is an oily, dark-fleshed fish with a strong flavour that fades fast. From purchase it keeps 1–2 days in the fridge and 2–3 months in the freezer — a short freezer window, because the fat is what turns first.",
+  "pantry": "Fresh fish has no room-temperature life, and an oily dark-fleshed fish least of all. Dark-fleshed species are the ones associated with histamine, or scombroid, poisoning: bacteria in the gills and gut convert histidine in the flesh into histamine when the fish is warm, and once formed, histamine is heat-stable — cooking, canning and freezing will not remove it. That is why a fish that has been warm can make you ill with no smell or slime to warn you. Get it home cold and follow the 2-hour rule, or 1 hour above 32 °C (90 °F).",
+  "fridge": "Keep bluefish at 4 °C (40 °F) or below, gutted, on ice, in a container that catches the melt water, and cook it within 1–2 days from purchase. Remove the gills and guts on the day you buy it if the fishmonger has not — that is where spoilage and histamine formation begin. Store it on the bottom shelf below ready-to-eat food. The dark lateral strip along the flank is the strongest-tasting part and the first to go; trim it if you want a milder plate.",
+  "freezer": "Bluefish keeps 2–3 months at −18 °C (0 °F). That is short for a fish, and the reason is fat: an oily fish oxidises in the freezer long before a lean white fish would, going rancid and grey. Freeze it as fillets, skin on, wrapped tightly with no air pockets, or ice-glazed by dipping in cold water first. Frozen food stays safe indefinitely at −18 °C; the months are a quality window. Label the date, because an oily fish that has overstayed tastes unmistakably of old oil.",
+  "thawing": "Thaw in the fridge overnight on a plate, or in a sealed bag under cold running water. Never on the counter or in warm water. Cook it promptly and do not refreeze raw fish.",
+  "spoilage": [
+   "A sour or ammoniacal smell rather than a clean sea one.",
+   "Flesh that stays dented when pressed instead of springing back.",
+   "Grey-brown gills and cloudy, sunken eyes on a whole fish.",
+   "A rancid, paint-like smell from the fat, or a yellow-brown cast on the cut surface."
+  ],
+  "tips": [
+   "Gut it the day you buy it.",
+   "Take a cool bag to the market; the trip home is where quality goes.",
+   "Freeze in portions the same day if you are not cooking within a day or two.",
+   "A dark-fleshed fish that has been left warm is a risk you cannot smell — buy from a stall that keeps its fish on ice."
+  ],
+  "faq": [
+   {
+    "q": "How long does bluefish keep in the fridge?",
+    "a": "1–2 days from purchase at 4 °C (40 °F) or below, gutted and on ice."
+   },
+   {
+    "q": "Can you freeze bluefish?",
+    "a": "Yes, 2–3 months at −18 °C. The window is short because the fat oxidises; wrap it airtight or ice-glaze it."
+   },
+   {
+    "q": "Why is bluefish a histamine risk?",
+    "a": "It is a dark-fleshed fish rich in histidine, which bacteria convert to histamine when the fish is warm. Histamine survives cooking and freezing, so temperature control from the moment of catch is what matters."
+   },
+   {
+    "q": "How can you tell if bluefish has gone off?",
+    "a": "Smell first: sour, ammoniacal or rancid. Then check that the flesh springs back, and look at the gills and eyes on a whole fish."
+   }
+  ]
+ },
+ "zh": {
+  "name": "扁鰺（藍魚）",
+  "aliases": [
+   "bluefish",
+   "藍鯥",
+   "青魚",
+   "油魚"
+  ],
+  "summary": "扁鰺是紅肉油脂魚，味道濃郁但退得很快。從購買日起冷藏可放 1～2 天，冷凍 2～3 個月——冷凍期偏短，因為最先變質的就是脂肪。",
+  "pantry": "生鮮魚沒有室溫保存這回事，紅肉油脂魚更是如此。紅肉魚正是與組織胺（鯖魚毒素）中毒相關的那一類：魚體溫暖時，鰓和內臟裡的細菌會把魚肉中的組胺酸轉化成組織胺，而組織胺一旦生成就耐熱——加熱、罐藏、冷凍都去不掉。這就是為什麼一條被放溫過的魚可能讓你不舒服，卻沒有任何異味或黏液可以警告你。請保冷帶回家，並守 2 小時原則，室溫超過 32 °C 時為 1 小時。",
+  "fridge": "去內臟後鋪冰，放 4 °C 以下，容器要能接住融水，並在購買後 1～2 天內煮掉。攤商沒處理的話，請當天自己把鰓和內臟去掉——腐敗和組織胺生成都是從那裡開始的。放在最下層，位置低於所有即食食品。魚身側線那條深色肉是味道最重、也最先走味的部分，想吃清爽一點就把它修掉。",
+  "freezer": "扁鰺在 −18 °C 下可放 2～3 個月。以魚類來說這算短，原因就是脂肪：油脂魚在冷凍庫裡氧化得遠比白肉瘦魚快，會變得油耗、發灰。請切成帶皮魚片，包緊不留空氣，或先浸冷水做冰鍍再冷凍。−18 °C 下安全性是無限期的，月數講的是品質。務必標日期，因為放過頭的油脂魚吃起來就是一股陳油味。",
+  "thawing": "放盤子上冷藏隔夜解凍，或密封裝袋用冷水沖。不要放室溫或泡溫水。解凍後盡快烹調，生魚不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸或有氨味，而不是乾淨的海味。",
+   "按壓後凹陷回不來，而不是有彈性。",
+   "整條魚的鰓轉灰褐、眼睛混濁凹陷。",
+   "脂肪出現油耗、油漆般的氣味，或切面泛黃褐。"
+  ],
+  "tips": [
+   "買回來當天就去內臟。",
+   "帶保冷袋去市場；回家這段路最傷品質。",
+   "一兩天內不煮就當天分裝冷凍。",
+   "被放溫過的紅肉魚是聞不出來的風險——請向有確實鋪冰的攤商購買。"
+  ],
+  "faq": [
+   {
+    "q": "扁鰺冷藏可以放多久？",
+    "a": "去內臟鋪冰、放 4 °C 以下，從購買日起 1～2 天。"
+   },
+   {
+    "q": "扁鰺可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2～3 個月。期限短是因為脂肪會氧化；請密封包好或做冰鍍。"
+   },
+   {
+    "q": "為什麼扁鰺有組織胺風險？",
+    "a": "它是組胺酸含量高的紅肉魚，魚體溫暖時細菌會把組胺酸轉成組織胺。組織胺耐得住加熱和冷凍，所以從捕撈開始的溫度管理才是關鍵。"
+   },
+   {
+    "q": "怎麼判斷扁鰺不新鮮了？",
+    "a": "先聞：發酸、氨味或油耗味。再看魚肉有沒有彈性，整條魚還可以看鰓和眼睛。"
+   }
+  ]
+ }
+}

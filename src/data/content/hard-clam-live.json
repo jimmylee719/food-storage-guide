@@ -1,0 +1,91 @@
+{
+ "slug": "hard-clam-live",
+ "en": {
+  "name": "Hard clams",
+  "aliases": [
+   "live clams",
+   "manila clam",
+   "littleneck",
+   "asari"
+  ],
+  "summary": "Live hard clams keep 1–2 days in the fridge and 2–3 months in the freezer. Bivalves filter their water, so they concentrate whatever is in it — this is the food where a warm hour genuinely matters, more than the extra day in the cold.",
+  "pantry": "Live clams must never be kept at room temperature. Vibrio species multiply rapidly between about 20 and 40 °C, and chilled seafood should be held at 4 °C (40 °F) or below and eaten within a day or two. Purging is the one exception: stand them in salted water at room temperature for no more than an hour so they spit their sand, then get them straight back into the cold. A bag of live clams left in a warm car is the real hazard here, not the day count.",
+  "fridge": "Keep them live in a shallow open bowl under a damp cloth at 4 °C (40 °F) or below, and cook them within 1–2 days. Never seal them in a bag or submerge them in fresh water — both kill them, and a dead clam deteriorates fast. Throw away any clam that stays open when tapped, and any with a cracked or broken shell. Put the bowl on the bottom shelf where drips cannot reach anything else. That 1–2 day figure is the published one for live clams, mussels, crab and oysters.",
+  "freezer": "Clams keep 2–3 months at −18 °C (0 °F). Freeze them live, in the shell, in a single layer so they do not fuse, then bag them; cook them from frozen without thawing, and expect the shells to open as they heat. Discard any that were already dead before freezing. Frozen food stays safe indefinitely at −18 °C; the months are about quality, and clam meat goes rubbery and shrunken at the far end. Cooked, shucked clam meat freezes too, covered in its own liquor.",
+  "thawing": "Cook clams from frozen rather than thawing them. Cooked clam meat can be thawed in the fridge and used the same day. Never thaw shellfish on the counter, and do not refreeze.",
+  "spoilage": [
+   "A shell that stays open when tapped — the clam is dead.",
+   "A broken or cracked shell.",
+   "A sour, sulphurous or strongly fishy smell rather than a clean sea one.",
+   "Meat that is grey, mushy or slippery instead of plump and firm."
+  ],
+  "tips": [
+   "Take a cool bag to the market; a warm hour costs more than a cold day.",
+   "Damp cloth and an open bowl, never a sealed bag or standing fresh water.",
+   "Purge briefly in salted water, not for hours.",
+   "Tap any open clam before cooking and discard the ones that do not close."
+  ],
+  "faq": [
+   {
+    "q": "How long do live clams keep in the fridge?",
+    "a": "1–2 days at 4 °C (40 °F) or below, in an open bowl under a damp cloth."
+   },
+   {
+    "q": "Can you freeze clams?",
+    "a": "Yes, 2–3 months at −18 °C, live in the shell in a single layer. Cook them from frozen."
+   },
+   {
+    "q": "Should you keep clams in water?",
+    "a": "Only briefly, in salted water, to purge sand — no more than an hour, then back into the cold. Fresh water kills them."
+   },
+   {
+    "q": "What if a clam does not close when tapped?",
+    "a": "Throw it away. It is dead, and a dead bivalve deteriorates quickly with nothing to warn you."
+   }
+  ]
+ },
+ "zh": {
+  "name": "文蛤",
+  "aliases": [
+   "蛤蜊",
+   "蛤仔",
+   "赤嘴蛤",
+   "海瓜子"
+  ],
+  "summary": "活文蛤冷藏可放 1～2 天，冷凍 2～3 個月。雙殼貝會過濾海水，水裡有什麼就濃縮什麼——這是「溫暖的一小時」比「冷藏多放一天」更要命的食材。",
+  "pantry": "活蛤蜊絕對不能放室溫。弧菌屬細菌在大約 20 至 40 °C 之間繁殖迅速，冷藏海鮮應保持在 4 °C 以下並在一兩天內吃掉。吐沙是唯一的例外：用鹽水在室溫靜置不超過一小時讓牠吐沙，然後立刻放回低溫。一袋活蛤被留在悶熱的車上，才是真正的風險，而不是多放的那一天。",
+  "fridge": "保持活體，放在淺的開口盆裡蓋上濕布，溫度 4 °C 以下，並在 1～2 天內煮掉。不要密封在袋子裡，也不要泡在淡水中——兩者都會讓牠死掉，而死蛤劣化很快。敲一敲不會閉合的、以及殼破裂的，全部丟棄。盆子放最下層，滴出來的水不會碰到別的食物。這個 1～2 天的數字是活文蛤、淡菜、螃蟹與牡蠣的公告值。",
+  "freezer": "文蛤在 −18 °C 下可放 2～3 個月。請把活的連殼單層排開冷凍，凍硬後再裝袋；煮的時候直接從冷凍下鍋，不要解凍，加熱後殼會自己打開。冷凍前已經死掉的要挑掉丟棄。−18 °C 下安全性是無限期的，月數講的是品質；放到後段蛤肉會縮小、變得像橡皮。煮熟剝出來的蛤肉也可以冷凍，要連自己的湯汁一起蓋住。",
+  "thawing": "蛤蜊直接從冷凍下鍋，不要解凍。熟蛤肉可以放冷藏解凍並當天用完。貝類絕對不要放室溫解凍，也不要再次冷凍。",
+  "spoilage": [
+   "敲一敲殼仍然開著不閉合——代表已經死了。",
+   "殼有裂痕或破損。",
+   "聞起來發酸、有硫味或強烈腥味，而不是乾淨的海味。",
+   "蛤肉發灰、軟爛黏滑，而不是飽滿結實。"
+  ],
+  "tips": [
+   "去市場帶保冷袋；溫暖的一小時比冷藏的一天更傷。",
+   "濕布加開口盆，絕對不要密封袋或泡淡水。",
+   "吐沙用鹽水短時間即可，不要泡好幾個小時。",
+   "下鍋前敲一敲張開的，不閉合的就丟掉。"
+  ],
+  "faq": [
+   {
+    "q": "活蛤蜊冷藏可以放多久？",
+    "a": "開口盆蓋濕布、放 4 °C 以下，1～2 天。"
+   },
+   {
+    "q": "蛤蜊可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2～3 個月，活的連殼單層冷凍。煮的時候直接從冷凍下鍋。"
+   },
+   {
+    "q": "蛤蜊可以泡水保存嗎？",
+    "a": "只能短時間用鹽水吐沙，不超過一小時，然後立刻放回低溫。泡淡水會讓牠們死掉。"
+   },
+   {
+    "q": "敲了不閉合的蛤蜊怎麼辦？",
+    "a": "丟掉。牠已經死了，而死掉的雙殼貝劣化很快，又沒有任何警訊。"
+   }
+  ]
+ }
+}

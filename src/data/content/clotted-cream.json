@@ -1,0 +1,91 @@
+{
+ "slug": "clotted-cream",
+ "en": {
+  "name": "Clotted cream",
+  "aliases": [
+   "Devon cream",
+   "Cornish clotted cream",
+   "Devonshire cream",
+   "scalded cream"
+  ],
+  "summary": "Clotted cream is cream held at a low heat for hours until a thick golden crust forms on top. Unopened, it keeps to the use-by date on the pot; once opened, give it 3–4 days in the fridge. It freezes better than pouring cream, for about 3–4 months.",
+  "pantry": "Clotted cream is a fresh dairy product and cannot live in a cupboard, despite being cooked. The long scald is a heat treatment, but the pots are filled and sealed cold afterwards, so the printed date is the date. On a table with scones, follow the 2-hour rule — 1 hour if the room is above 32 °C (90 °F) — and put the pot back in the fridge between servings rather than leaving it out through a long afternoon tea.",
+  "fridge": "Keep it at 0–5 °C, sealed, and go by the use-by date on an unopened pot: that date is a limit rather than a suggestion, and no general figure would improve on it. Once opened, use it within 3–4 days — the published figure for opened cream, applied here because clotted cream is a cream whatever the spoon says. Keep the golden crust intact and scoop from one side; the crust is a physical barrier, and breaking it up across the whole surface exposes far more of the soft cream underneath.",
+  "freezer": "Clotted cream freezes surprisingly well because there is so little water in it — at roughly 55 to 64 % fat, there is not much left to form ice crystals. Treat 3–4 months at −18 °C (0 °F) as a working limit; that figure is borrowed from what is published for heavy cream rather than measured on clotted cream. Freeze it in the unopened pot or in small tubs with a little headspace, and note that you can freeze it right up to the use-by date, not before.",
+  "thawing": "Thaw it slowly in the fridge overnight, never on the counter, and stir the crust back in before serving. Use it within a few days and do not refreeze.",
+  "spoilage": [
+   "Mould anywhere on the surface or under the lid, even a single spot.",
+   "A sour, cheesy or yeasty smell instead of a sweet cooked-cream one.",
+   "Watery separation with a grey or yellow cast to the crust.",
+   "A sharp, bitter or metallic taste — the fat has gone rancid."
+  ],
+  "tips": [
+   "Buy the small pot unless you have a crowd; it does not keep long once opened.",
+   "Scoop from one side and leave the rest of the crust whole.",
+   "Use a clean dry spoon every time — jam in the pot is a classic way to ruin it.",
+   "If you want to freeze it, do it while the pot is still sealed."
+  ],
+  "faq": [
+   {
+    "q": "How long does clotted cream last once opened?",
+    "a": "About 3–4 days at 0–5 °C, which is the figure published for opened cream generally. Unopened, go by the use-by date on the pot."
+   },
+   {
+    "q": "Can you freeze clotted cream?",
+    "a": "Yes. Treat about 3–4 months at −18 °C as a working limit, borrowed from heavy cream. Thaw it in the fridge and stir the crust back in."
+   },
+   {
+    "q": "Does clotted cream need to be refrigerated?",
+    "a": "Yes. The long scald is a heat treatment, but the pot is filled cold and it is still a fresh dairy product."
+   },
+   {
+    "q": "Is the separated liquid under the crust normal?",
+    "a": "A little is. A watery pool with a grey or yellow crust and a sour smell is not, and means the pot goes."
+   }
+  ]
+ },
+ "zh": {
+  "name": "凝脂奶油",
+  "aliases": [
+   "德文郡奶油",
+   "康瓦爾凝脂奶油",
+   "英式凝脂奶油",
+   "clotted cream"
+  ],
+  "summary": "凝脂奶油是把鮮奶油以低溫長時間加熱，直到表面結出一層金黃硬殼的英式奶油。未開封時以罐上的有效日期為準；開封後冷藏請在 3～4 天內用完。它比液態鮮奶油更適合冷凍，大約 3～4 個月。",
+  "pantry": "凝脂奶油雖然是「煮過」的，卻仍是生鮮乳製品，不能放櫥櫃。長時間加熱確實是一道熱處理，但裝罐封口是在冷卻之後才做的，所以標示日期就是標示日期。配司康擺上桌時請守 2 小時原則（室溫超過 32 °C 時為 1 小時），兩輪之間就把罐子冰回去，不要整個下午茶都放在桌上。",
+  "fridge": "密封放在 0～5 °C。未開封時以罐上的有效日期為準：那是界線而不是參考值，任何通用數字都不會比它更好。開封後請在 3～4 天內用完——這是「已開封鮮奶油」的公告值，套用在這裡是因為不管質地多厚，它終究是鮮奶油。表面那層金黃硬殼盡量保持完整，固定從同一邊挖；硬殼是實質的物理屏障，把它整片挖破，等於讓底下柔軟的奶油大面積暴露。",
+  "freezer": "凝脂奶油的冷凍表現出乎意料地好，因為它含水量極低——脂肪含量大約在 55 到 64 % 之間，剩下能結冰的水並不多。在 −18 °C 下把 3～4 個月當作工作上限；這個數字是借用「高脂鮮奶油」的公告值，不是針對凝脂奶油量測的。連未開封的罐子一起冷凍，或分裝小盒並留一點膨脹空間；另外要知道，冷凍可以一路做到有效日期當天，但不能超過。",
+  "thawing": "放冷藏慢慢隔夜解凍，不要放室溫；上桌前把硬殼拌回去。解凍後幾天內用完，不要再次冷凍。",
+  "spoilage": [
+   "表面或蓋子內側出現霉點，哪怕只有一點。",
+   "聞起來發酸、有起司味或酵母味，而不是煮過奶油的甜香。",
+   "出水分離，且硬殼泛灰或泛黃。",
+   "吃起來刺、苦或有金屬味——脂肪已經油耗了。"
+  ],
+  "tips": [
+   "除非人多，否則買小罐就好；開封後放不久。",
+   "固定從同一邊挖，其餘硬殼保持完整。",
+   "每次都用乾淨乾燥的湯匙——果醬沾進罐子是最典型的失敗。",
+   "想冷凍的話，趁罐子還沒開封時就凍。"
+  ],
+  "faq": [
+   {
+    "q": "凝脂奶油開封後可以放多久？",
+    "a": "在 0～5 °C 下大約 3～4 天，這是已開封鮮奶油的公告值。未開封則以罐上有效日期為準。"
+   },
+   {
+    "q": "凝脂奶油可以冷凍嗎？",
+    "a": "可以。在 −18 °C 下把約 3～4 個月當工作上限，這個數字借自高脂鮮奶油。放冷藏解凍並把硬殼拌回去。"
+   },
+   {
+    "q": "凝脂奶油一定要冷藏嗎？",
+    "a": "要。長時間加熱雖是熱處理，但裝罐是冷的，它仍然是生鮮乳製品。"
+   },
+   {
+    "q": "硬殼底下有分離的液體正常嗎？",
+    "a": "少量是正常的。如果積出一灘水、硬殼泛灰泛黃又發酸，就不正常，整罐丟掉。"
+   }
+  ]
+ }
+}

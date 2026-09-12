@@ -1,0 +1,91 @@
+{
+ "slug": "abalone",
+ "en": {
+  "name": "Abalone",
+  "aliases": [
+   "small abalone",
+   "live abalone",
+   "paua",
+   "ormer"
+  ],
+  "summary": "Abalone is a single-shelled marine snail, sold live or very fresh in the shell. Live in the fridge it keeps 1–2 days; shucked and cleaned it freezes for 2–3 months. The real risk is not the day count but temperature: Vibrio bacteria multiply fast in a warm bag.",
+  "pantry": "Live abalone must never be kept at room temperature. Vibrio species multiply rapidly between about 20 and 40 °C, with generation times as short as nine or ten minutes reported at body temperature, so a bag of live shellfish left in a warm car is the real hazard here, not the extra day in the fridge. Seafood to be eaten raw should be packed and held at 4 °C or below from the moment you buy it. Take a cool bag to the market and get it home fast.",
+  "fridge": "Keep abalone live, in a shallow open bowl under a damp cloth at 4 °C (40 °F) or below, and cook it within 1–2 days. Never seal it in water or in a closed bag — it suffocates, and a dead abalone deteriorates quickly. Discard any that does not react to touch. That 1–2 day figure is borrowed from what is published for live clams, mussels, crab and oysters; no agency publishes one for abalone. Keep it in a container that will catch drips and store it below ready-to-eat food.",
+  "freezer": "Shuck and clean abalone before freezing — the shell traps air and gives freezer burn — then wrap the meat tightly or vacuum-pack it at −18 °C (0 °F) for 2–3 months. Freezing also helps the texture, since ice crystals break down some of the very dense muscle that makes abalone chewy. Frozen food stays safe indefinitely at −18 °C; the months are about quality, and abalone loses its sweetness faster than most shellfish.",
+  "thawing": "Thaw abalone in the fridge overnight, or under cold running water if you are in a hurry. Never thaw it on the counter or in warm water, and do not refreeze it.",
+  "spoilage": [
+   "A foot that does not contract or cling when touched — the animal is dead.",
+   "A sour, ammoniacal or strongly fishy smell rather than a clean sea one.",
+   "Slimy, sticky flesh or cloudy liquid pooling in the bowl.",
+   "Flesh that has gone grey-green and soft instead of firm and pale."
+  ],
+  "tips": [
+   "Buy it live and cook it the same day if you can.",
+   "Damp cloth, open bowl, never sealed in water.",
+   "Take a cool bag to the market; a warm hour matters more than a cold day.",
+   "Shuck before freezing and vacuum-pack if you can."
+  ],
+  "faq": [
+   {
+    "q": "How long does live abalone keep in the fridge?",
+    "a": "1–2 days at 4 °C or below, under a damp cloth in an open bowl. That figure is borrowed from live clams, mussels and oysters."
+   },
+   {
+    "q": "Can you freeze abalone?",
+    "a": "Yes, shucked and cleaned, for 2–3 months at −18 °C. Do not freeze it in the shell."
+   },
+   {
+    "q": "How do you tell if abalone is still alive?",
+    "a": "Touch the foot: it should contract or grip. One that does not react should be discarded."
+   },
+   {
+    "q": "Is it safe to eat abalone raw?",
+    "a": "Raw shellfish carries a Vibrio risk that chilling slows but does not remove, and it is not advised for pregnant people, young children or anyone immunocompromised. If you do eat it raw, buy it live and keep it at 4 °C or below throughout."
+   }
+  ]
+ },
+ "zh": {
+  "name": "鮑魚",
+  "aliases": [
+   "九孔",
+   "九孔鮑",
+   "台灣鮑",
+   "活鮑魚"
+  ],
+  "summary": "鮑魚是單殼的海生螺類，市場上以活體或極新鮮的帶殼型態販售。活的冷藏可放 1～2 天；去殼洗淨後冷凍可放 2～3 個月。真正的風險不是天數，而是溫度：腸炎弧菌在溫暖環境中繁殖得非常快。",
+  "pantry": "活鮑魚絕對不能放室溫。弧菌屬細菌在大約 20 至 40 °C 之間繁殖迅速，在接近體溫時甚至有九到十分鐘就分裂一代的紀錄，所以一袋活貝類被留在悶熱的車裡，才是真正的危險，而不是冰箱裡多放的那一天。要生食的海鮮從買回來那一刻起就該包好、保持在 4 °C 以下。去市場請帶保冷袋，並盡快回家。",
+  "fridge": "讓鮑魚保持活體，放在淺的開口盆裡、上面蓋濕布，溫度 4 °C 以下，並在 1～2 天內煮掉。千萬不要泡在密封的水裡或裝進封死的袋子——牠會窒息，而死掉的鮑魚劣化很快。碰觸沒有反應的就丟棄。這個 1～2 天的數字是借用活文蛤、淡菜、螃蟹與牡蠣的公告值；沒有機構公告過鮑魚的數字。用會接住滴液的容器裝，並放在即食食品的下層。",
+  "freezer": "冷凍前先去殼洗淨——殼裡會困住空氣，造成凍燒——然後把肉包緊或真空包裝，放 −18 °C 可存 2～3 個月。冷凍對口感其實有幫助，冰晶會破壞一部分讓鮑魚嚼勁十足的緻密肌肉。−18 °C 下安全性是無限期的，月數講的是品質，而鮑魚的鮮甜比多數貝類流失得更快。",
+  "thawing": "放冷藏隔夜解凍，趕時間可以用冷水沖。絕對不要放室溫或用溫水解凍，也不要再次冷凍。",
+  "spoilage": [
+   "碰觸腹足不會收縮或吸附——代表已經死亡。",
+   "聞起來發酸、有氨味或強烈腥味，而不是乾淨的海味。",
+   "肉質黏滑，或盆底積出混濁液體。",
+   "肉色轉灰綠、質地變軟，而不是結實偏白。"
+  ],
+  "tips": [
+   "盡量買活的並當天煮掉。",
+   "濕布蓋著、開口盆裝，絕對不要密封泡水。",
+   "去市場帶保冷袋；溫暖的一小時比冷藏的一天更要命。",
+   "冷凍前先去殼，有真空機就真空包裝。"
+  ],
+  "faq": [
+   {
+    "q": "活鮑魚冷藏可以放多久？",
+    "a": "蓋濕布、開口盆裝放 4 °C 以下，1～2 天。這個數字借自活文蛤、淡菜與牡蠣。"
+   },
+   {
+    "q": "鮑魚可以冷凍嗎？",
+    "a": "可以，去殼洗淨後在 −18 °C 下 2～3 個月。不要帶殼冷凍。"
+   },
+   {
+    "q": "怎麼判斷鮑魚還活著？",
+    "a": "碰一下腹足，牠應該會收縮或吸附。沒有反應的就丟棄。"
+   },
+   {
+    "q": "鮑魚可以生吃嗎？",
+    "a": "生食貝類帶有腸炎弧菌風險，低溫只能減緩、不能消除，也不建議孕婦、幼童與免疫力低下者食用。真要生吃，請買活的並全程保持 4 °C 以下。"
+   }
+  ]
+ }
+}

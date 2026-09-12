@@ -1,0 +1,91 @@
+{
+ "slug": "largehead-hairtail",
+ "en": {
+  "name": "Hairtail",
+  "aliases": [
+   "cutlassfish",
+   "beltfish",
+   "ribbonfish",
+   "largehead hairtail"
+  ],
+  "summary": "Hairtail is the long silver ribbon of a fish sold in cut sections, oily and dark-fleshed under the shine. Fresh it keeps 1–2 days in the fridge and 2–3 months in the freezer, and it needs chilling fast for reasons beyond freshness.",
+  "pantry": "Hairtail should never sit at ambient temperature, which is unfortunately how it is often displayed in Taiwanese markets. It is an oily, dark-fleshed fish, and that family is the one associated with histamine poisoning: chilled fish should be kept at 4 °C (40 °F) or below right along the supply chain and chilled rapidly after purchase. Histamine, once it has formed in a warm fish, survives cooking and freezing. Take a cool bag, buy from a stall that keeps its fish on ice, and follow the 2-hour rule, or 1 hour above 32 °C (90 °F).",
+  "fridge": "Buy it already cut into sections and gutted, and hold it at 4 °C (40 °F) or below on ice, in a container that catches the melt water, cooking it within 1–2 days. Lay the sections in a single layer rather than piling them up. The silver guanine layer on the skin is delicate and flakes off with handling — it is edible and adds to the look of the finished dish, so handle the sections as little as you can. Store on the bottom shelf, below anything ready to eat.",
+  "freezer": "Hairtail keeps 2–3 months at −18 °C (0 °F) — a short window, as for any oily fish, because the fat oxidises first. Freeze the sections in a single layer on a tray so the silver skin does not stick and tear, then bag them flat with the air pressed out, or ice-glaze them first. Frozen food stays safe indefinitely at −18 °C; the months are about quality. Freezing does nothing about histamine that formed before the fish went into the freezer.",
+  "thawing": "Thaw in the fridge overnight on a plate, or in a sealed bag under cold running water. Never on the counter or in warm water. Pat dry, cook promptly, and do not refreeze raw fish.",
+  "spoilage": [
+   "A sour or ammoniacal smell instead of a clean sea one.",
+   "The silver layer gone dull, yellow or patchy over most of the fish.",
+   "Flesh that stays dented when pressed rather than springing back.",
+   "A rancid, paint-like smell, or a brown cast to the dark flesh along the spine."
+  ],
+  "tips": [
+   "Buy from a stall that keeps its fish on ice, not on an open tray.",
+   "Ask for it cut into sections and gutted at the stall.",
+   "Freeze in a single layer first so the silver skin does not tear.",
+   "Pat the sections dry before frying; wet hairtail spits and sticks."
+  ],
+  "faq": [
+   {
+    "q": "How long does hairtail keep in the fridge?",
+    "a": "1–2 days at 4 °C (40 °F) or below, gutted, cut into sections and kept on ice."
+   },
+   {
+    "q": "Can you freeze hairtail?",
+    "a": "Yes, 2–3 months at −18 °C. Freeze it in a single layer first so the silver skin stays intact."
+   },
+   {
+    "q": "Should you scrape off the silver skin?",
+    "a": "No need. The silver guanine layer is edible and part of the look. It flakes off with handling, so handle the fish gently."
+   },
+   {
+    "q": "Why does hairtail need chilling so quickly?",
+    "a": "It is an oily, dark-fleshed fish, the family associated with histamine poisoning. Histamine formed in a warm fish survives cooking and freezing, so rapid chilling is the control."
+   }
+  ]
+ },
+ "zh": {
+  "name": "白帶魚",
+  "aliases": [
+   "帶魚",
+   "太刀魚",
+   "刀魚",
+   "たちうお"
+  ],
+  "summary": "白帶魚是那條銀亮的長帶狀魚，通常切段販售，銀皮底下是含油的暗色肉。新鮮的冷藏可放 1～2 天，冷凍 2～3 個月；而它需要盡快降溫的理由，不只是新鮮度。",
+  "pantry": "白帶魚絕不該放在常溫，偏偏台灣市場很常這樣陳列。它是含油的暗色肉魚種，而這一類正是與組織胺中毒相關的家族：冷藏魚應在整條供應鏈上都維持 4 °C 以下，買回來後也要迅速降溫。組織胺一旦在溫暖的魚體中生成，加熱和冷凍都消不掉。請帶保冷袋、向有鋪冰的攤商購買，並守 2 小時原則，室溫超過 32 °C 時為 1 小時。",
+  "fridge": "請買已經切段、去內臟的，鋪冰放 4 °C 以下，容器要能接住融水，並在 1～2 天內煮掉。魚段單層平放，不要疊高。魚皮上那層銀色的鳥糞嘌呤很脆弱，一翻動就會剝落——它可以吃，也是成品好看的關鍵，所以盡量少動它。放最下層，位置低於所有即食食品。",
+  "freezer": "白帶魚在 −18 °C 下可放 2～3 個月——和所有油脂魚一樣是短區間，因為最先變質的是脂肪。魚段先單層排在盤上冷凍，銀皮才不會沾黏撕破，凍硬後再壓平裝袋、擠出空氣，或先做冰鍍。−18 °C 下安全性是無限期的，月數講的是品質。冷凍對「進冷凍庫之前就生成的組織胺」毫無作用。",
+  "thawing": "放盤子上冷藏隔夜解凍，或密封裝袋用冷水沖。不要放室溫或泡溫水。擦乾後盡快烹調，生魚不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸或有氨味，而不是乾淨的海味。",
+   "大面積銀色變得黯淡、泛黃或斑駁脫落。",
+   "按壓後凹陷回不來，而不是有彈性。",
+   "出現油耗、油漆般的氣味，或脊骨邊暗色肉轉褐。"
+  ],
+  "tips": [
+   "向有鋪冰的攤商購買，不要買敞開托盤上的。",
+   "請攤商當場切段、去內臟。",
+   "先單層冷凍，銀皮才不會撕破。",
+   "下鍋前擦乾；濕的白帶魚會噴油又黏鍋。"
+  ],
+  "faq": [
+   {
+    "q": "白帶魚冷藏可以放多久？",
+    "a": "去內臟切段、鋪冰放 4 °C 以下，1～2 天。"
+   },
+   {
+    "q": "白帶魚可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2～3 個月。先單層冷凍，銀皮才能保持完整。"
+   },
+   {
+    "q": "銀色的皮要刮掉嗎？",
+    "a": "不用。那層銀色可以吃，也是賣相的一部分。它一翻動就會剝落，所以動作輕一點。"
+   },
+   {
+    "q": "白帶魚為什麼要盡快降溫？",
+    "a": "它是含油的暗色肉魚，屬於與組織胺中毒相關的家族。溫暖魚體中生成的組織胺耐得住加熱和冷凍，所以迅速降溫就是控制手段。"
+   }
+  ]
+ }
+}

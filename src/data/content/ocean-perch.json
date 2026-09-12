@@ -1,0 +1,91 @@
+{
+ "slug": "ocean-perch",
+ "en": {
+  "name": "Ocean perch",
+  "aliases": [
+   "redfish",
+   "rosefish",
+   "Sebastes",
+   "red perch"
+  ],
+  "summary": "Ocean perch is a lean, orange-skinned deep-water fish sold mostly as skin-on fillets. From purchase it keeps 1–2 days in the fridge and 4–8 months in the freezer.",
+  "pantry": "Ocean perch has no room-temperature life. Lean white fish has no fat to buffer it, and much of what is sold has already been frozen once at sea and thawed for the counter — which means its clock started well before you saw it. Bring it home cold and follow the 2-hour rule, or 1 hour if it is above 32 °C (90 °F). If the fillet was sold as previously frozen, do not refreeze it raw.",
+  "fridge": "Keep fillets at 4 °C (40 °F) or below, on a rack over ice in a container that catches the melt water, and cook within 1–2 days from purchase. Leave the skin on: the bright orange skin is edible, it crisps well, and it protects the flesh underneath while the fillet sits. Lay the pieces in a single layer rather than stacking them, and keep them on the bottom shelf below anything ready to eat. Check for pin bones before storing, not after thawing, so you handle the fish less later.",
+  "freezer": "Ocean perch keeps 4–8 months at −18 °C (0 °F). Lean flesh freezes well, but ocean perch fillets are thin at the tail end and burn easily there, so wrap tightly with no air pockets or ice-glaze them by dipping in cold water and freezing the film that forms. Freeze in meal-sized portions, flat, and label the date. Frozen food stays safe indefinitely at −18 °C; the months are about quality, and dryness is what ends it.",
+  "thawing": "Thaw in the fridge overnight on a plate, or in a sealed bag under cold running water. Never on the counter or in warm water. Pat it dry, cook it promptly, and do not refreeze raw fish.",
+  "spoilage": [
+   "A sour or ammoniacal smell instead of a clean, mild one.",
+   "Flesh that stays dented when pressed rather than springing back.",
+   "Skin that has gone dull brown-orange and slimy rather than bright and firm.",
+   "Milky liquid pooling under the fillet, or gaping flakes."
+  ],
+  "tips": [
+   "Leave the skin on for storage; it protects the flesh.",
+   "Ask whether the fillet was previously frozen — if so, do not refreeze it raw.",
+   "Ice-glaze thin tail ends before freezing; they burn first.",
+   "Store in a single layer, not stacked."
+  ],
+  "faq": [
+   {
+    "q": "How long does ocean perch keep in the fridge?",
+    "a": "1–2 days from purchase at 4 °C (40 °F) or below, on ice and in a single layer."
+   },
+   {
+    "q": "Can you freeze ocean perch?",
+    "a": "Yes, 4–8 months at −18 °C, wrapped airtight or ice-glazed. Do not refreeze a fillet that was sold thawed from frozen."
+   },
+   {
+    "q": "Can you eat the orange skin?",
+    "a": "Yes. It is edible, crisps nicely, and protects the flesh while the fillet is stored."
+   },
+   {
+    "q": "How can you tell if ocean perch has gone off?",
+    "a": "A sour or ammoniacal smell, dull slimy skin, milky liquid under the fillet, or flesh that will not spring back."
+   }
+  ]
+ },
+ "zh": {
+  "name": "紅魚",
+  "aliases": [
+   "赤鮭",
+   "平鮋",
+   "海鱸",
+   "ocean perch"
+  ],
+  "summary": "紅魚是深海的低脂魚，魚皮橘紅，市面上多以帶皮魚片販售。從購買日起冷藏可放 1～2 天，冷凍 4～8 個月。",
+  "pantry": "紅魚沒有室溫保存這回事。低脂白肉魚沒有脂肪當緩衝，而且市售品有不少是在船上就冷凍過、到櫃上才解凍的——也就是說它的時鐘在你看到之前早就開始走了。請保冷帶回家，守 2 小時原則，室溫超過 32 °C 時為 1 小時。若店家標示是「解凍品」，生的就不要再冷凍回去。",
+  "fridge": "魚片架在網架上、下面鋪冰，容器要能接住融水，放 4 °C 以下，並在購買後 1～2 天內煮掉。魚皮留著：橘紅色的皮可以吃、煎起來很脆，放置期間也保護底下的魚肉。魚片單層平放不要疊，放最下層、位置低於所有即食食品。刺要在保存前就檢查挑掉，不要等解凍後才處理，這樣後續可以少翻動它。",
+  "freezer": "紅魚在 −18 °C 下可放 4～8 個月。低脂魚肉耐凍，但紅魚魚片的尾端很薄、最容易凍燒，所以請包緊不留空氣，或浸冷水做冰鍍。按一餐的量壓平分裝並標上日期。−18 °C 下安全性是無限期的，月數講的是品質，而終結它的是「變乾」。",
+  "thawing": "放盤子上冷藏隔夜解凍，或密封裝袋用冷水沖。不要放室溫或泡溫水。擦乾後盡快烹調，生魚不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸或有氨味，而不是乾淨溫和的魚味。",
+   "按壓後凹陷回不來，而不是有彈性。",
+   "魚皮由鮮亮轉成暗褐橘並發黏。",
+   "魚片下方積出乳白液體，或肌肉纖維裂開。"
+  ],
+  "tips": [
+   "保存時把魚皮留著，它會保護魚肉。",
+   "問清楚是不是解凍品；是的話生魚不要再冷凍。",
+   "薄的尾端冷凍前先做冰鍍，那裡最先凍燒。",
+   "單層平放，不要疊起來。"
+  ],
+  "faq": [
+   {
+    "q": "紅魚冷藏可以放多久？",
+    "a": "鋪冰單層平放、4 °C 以下，從購買日起 1～2 天。"
+   },
+   {
+    "q": "紅魚可以冷凍嗎？",
+    "a": "可以，−18 °C 下 4～8 個月，密封包好或做冰鍍。解凍品不要生的再冷凍。"
+   },
+   {
+    "q": "橘色的魚皮可以吃嗎？",
+    "a": "可以。它能吃、煎起來很脆，保存期間也保護魚肉。"
+   },
+   {
+    "q": "怎麼判斷紅魚不新鮮了？",
+    "a": "發酸或氨味、魚皮暗淡發黏、魚片下積乳白液體，或按壓沒有彈性。"
+   }
+  ]
+ }
+}

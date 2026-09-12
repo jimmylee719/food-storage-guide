@@ -1,0 +1,91 @@
+{
+ "slug": "ghee",
+ "en": {
+  "name": "Ghee",
+  "aliases": [
+   "clarified butter",
+   "desi ghee",
+   "drawn butter",
+   "anhydrous milk fat"
+  ],
+  "summary": "Ghee is butter simmered until the water boils off and the milk solids brown and are strained out, leaving almost pure fat. That is why it keeps without refrigeration: about 6–8 months in the cupboard, and 1–2 years in the fridge.",
+  "pantry": "A cool, dark cupboard is the traditional home for ghee and it works — about 6–8 months there. What makes it shelf-stable is that the water and the milk solids are gone, so there is nothing for bacteria to grow in; what eventually spoils it is oxidation of the fat itself. Keep the jar tightly closed, away from the cooker and out of the light, and always use a clean, completely dry spoon. A single drop of water or a crumb of food is what starts mould on the surface of a jar of ghee.",
+  "fridge": "Refrigeration is optional but it roughly triples the life: 1–2 years at 4 °C (40 °F) or below. It is worth doing in a hot or humid kitchen, or if you bought a large tin you will work through slowly. Cold ghee sets hard and granular, so either keep a small jar in the cupboard for daily cooking and the rest in the fridge, or let the jar stand for a while before you try to spoon it. Condensation is the one risk: close the lid while the jar is still cold rather than leaving it open to warm up.",
+  "freezer": "There is no freezer timeline for ghee and no need for one. At 1–2 years refrigerated it already outlasts almost anything else in the kitchen, and freezing pure fat gains nothing except a rock-hard jar and a risk of condensation every time you open it. If you have a great deal of it, decant into smaller jars so the bulk stays sealed and refrigerate those instead.",
+  "thawing": null,
+  "spoilage": [
+   "A sharp, crayon-like or paint-like smell — the fat has gone rancid.",
+   "Any mould on the surface, usually where water or food got in.",
+   "A sour or fermented smell instead of the usual nutty, toasted one.",
+   "A bitter taste, or a darkening far beyond the original golden colour."
+  ],
+  "tips": [
+   "Dry spoon, every time — water is the only real enemy.",
+   "Decant a small working jar and keep the big tin sealed.",
+   "Store away from the cooker; heat and light drive rancidity.",
+   "Label the tin with the date you opened it."
+  ],
+  "faq": [
+   {
+    "q": "Does ghee need to be refrigerated?",
+    "a": "No. A cool dark cupboard gives it about 6–8 months. The fridge extends that to 1–2 years, which is worth it in a hot kitchen or for a big tin."
+   },
+   {
+    "q": "How long does ghee last?",
+    "a": "About 6–8 months in the pantry, and 1–2 years refrigerated at 4 °C or below."
+   },
+   {
+    "q": "Can you freeze ghee?",
+    "a": "There is no timeline for it and no reason to. Refrigerated ghee already keeps for years, and freezing only adds condensation."
+   },
+   {
+    "q": "Why has my ghee grown mould?",
+    "a": "Water or food got into the jar, almost always on a wet or used spoon. Pure fat cannot support mould on its own."
+   }
+  ]
+ },
+ "zh": {
+  "name": "印度酥油",
+  "aliases": [
+   "ghee",
+   "澄清奶油",
+   "無水奶油",
+   "酥油"
+  ],
+  "summary": "酥油是把奶油煮到水分蒸乾、乳固形物焦化後濾掉，留下幾乎純粹的油脂。這就是它不用冷藏也能久放的原因：櫥櫃裡大約 6～8 個月，冷藏則是 1～2 年。",
+  "pantry": "陰涼避光的櫥櫃是酥油傳統的住處，而且真的有用——大約 6～8 個月。它之所以能常溫保存，是因為水分和乳固形物都被去掉了，細菌沒有生長的基質；最後讓它壞掉的是油脂本身的氧化。罐蓋要旋緊、遠離爐火、避開光線，每次都用乾淨且完全乾燥的湯匙。一滴水或一點食物碎屑，就是罐子表面開始長霉的起點。",
+  "fridge": "冷藏不是必須，但可以把壽命拉長約三倍：4 °C 以下 1～2 年。在濕熱的廚房，或是買了大罐要慢慢用的情況下，很值得。冰過的酥油會凝成硬砂狀，所以建議櫥櫃裡放一小罐日常用、其餘冷藏，或是讓罐子在室溫下站一會兒再挖。唯一要注意的是結露：趁罐子還冰的時候就蓋回去，不要開著蓋讓它回溫。",
+  "freezer": "酥油沒有冷凍期限，也不需要。冷藏就有 1～2 年，已經比廚房裡幾乎所有東西都長，冷凍純油脂除了讓罐子硬得挖不動、每次開罐都結露之外沒有好處。量真的很多的話，請分裝成小罐、其餘保持密封後冷藏。",
+  "thawing": null,
+  "spoilage": [
+   "有刺鼻的蠟筆味或油漆味——油脂已經油耗。",
+   "表面長霉，通常是水或食物跑進去造成的。",
+   "出現酸味或發酵味，而不是原本的堅果焦香。",
+   "吃起來發苦，或顏色遠深於原本的金黃。"
+  ],
+  "tips": [
+   "每次都用乾燥的湯匙——水是唯一真正的敵人。",
+   "分裝一小罐日常使用，大罐保持密封。",
+   "放遠離爐火的位置；高溫和光線會加速油耗。",
+   "在罐子上寫下開封日期。"
+  ],
+  "faq": [
+   {
+    "q": "酥油需要冷藏嗎？",
+    "a": "不需要。陰涼避光的櫥櫃大約可放 6～8 個月。冷藏可以延長到 1～2 年，濕熱環境或大罐裝很值得這樣做。"
+   },
+   {
+    "q": "酥油可以放多久？",
+    "a": "常溫櫥櫃約 6～8 個月；4 °C 以下冷藏約 1～2 年。"
+   },
+   {
+    "q": "酥油可以冷凍嗎？",
+    "a": "沒有對應期限，也沒有必要。冷藏本來就能放好幾年，冷凍只會帶來結露問題。"
+   },
+   {
+    "q": "酥油為什麼會長霉？",
+    "a": "因為水或食物跑進罐子裡，幾乎都是濕湯匙或用過的湯匙造成的。純油脂本身是長不出霉的。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "slug": "quark-fresh-cheese",
+ "en": {
+  "name": "Quark",
+  "aliases": [
+   "quark cheese",
+   "Topfen",
+   "fresh curd cheese",
+   "German fresh cheese"
+  ],
+  "summary": "Quark is a soft, unripened fresh cheese made by souring milk with a lactic culture and draining the curd — mild, slightly tangy, somewhere between yoghurt and cream cheese. Refrigerated it keeps 7–10 days. It is not a cheese to freeze.",
+  "pantry": "Quark is a fresh, unripened cheese and has no room-temperature life. It is high in moisture and only mildly acidic, the profile that supports Listeria monocytogenes, which grows even at fridge temperature — so buy it made with pasteurised milk and keep it cold. Follow the 2-hour rule when it is out, or 1 hour if the kitchen is above 32 °C (90 °F). Let it stand only a few minutes to take the chill off before whisking it into a batter or a dip.",
+  "fridge": "Keep quark at 4 °C (40 °F) or below on an inside shelf and use it within 7–10 days, or to the printed date if that comes first. Keep the lid sealed and use a clean spoon every time; quark is far less acidic than yoghurt and a used spoon will start mould or a ropy texture. Clear whey separating at the surface is normal and can be stirred back in or poured off. Press the surface flat when you put it away so less of it is in contact with the air.",
+  "freezer": "There is no freezer timeline for quark, and freezing is a poor match for it. The drained curd separates and weeps on thawing, and what you get back is grainy and watery — usable stirred into a cheesecake batter, a dough or a sauce, but never again as a spoonable fresh cheese. Buying the smaller tub is the better answer. If you do have a surplus, bake with it while it is still fresh and freeze the finished cake instead.",
+  "thawing": null,
+  "spoilage": [
+   "Mould of any colour on the surface or under the lid.",
+   "A yeasty, fizzy or bitter taste rather than a clean mild tang.",
+   "A ropy or stringy texture when you lift the spoon.",
+   "A bulging lid, or pink or grey discolouration."
+  ],
+  "tips": [
+   "Buy the size you will finish in a week or so.",
+   "Clean dry spoon every time — this matters more than anything else.",
+   "Stir the whey back in rather than pouring it off, for a softer texture.",
+   "Choose pasteurised quark, especially if you are pregnant or immunocompromised."
+  ],
+  "faq": [
+   {
+    "q": "How long does quark keep in the fridge?",
+    "a": "About 7–10 days at 4 °C (40 °F) or below, or to the printed date if that is sooner."
+   },
+   {
+    "q": "Can you freeze quark?",
+    "a": "There is no timeline for it and it is not worth doing. It separates and weeps, so thawed quark is only usable in baking or a sauce."
+   },
+   {
+    "q": "Is the watery layer on top of quark normal?",
+    "a": "Yes, that is whey. Stir it back in or pour it off. Mould, fizz or bitterness is a different matter and means the tub goes."
+   },
+   {
+    "q": "Is quark safe during pregnancy?",
+    "a": "Choose one made with pasteurised milk and keep it properly cold. It is a fresh, low-acid cheese, and Listeria grows at refrigerator temperature."
+   }
+  ]
+ },
+ "zh": {
+  "name": "夸克鮮乳酪",
+  "aliases": [
+   "quark",
+   "德式鮮乳酪",
+   "凝乳起司",
+   "白乳酪"
+  ],
+  "summary": "夸克是用乳酸菌讓牛奶變酸、再瀝掉乳清做成的軟質未熟成鮮乳酪，味道溫和帶點微酸，質地介於優格和奶油乳酪之間。冷藏可以放 7～10 天。它不是適合冷凍的乳酪。",
+  "pantry": "夸克是未熟成的新鮮乳酪，沒有室溫保存這回事。它含水量高、酸度只是微弱，正是有利於李斯特菌的條件，而這種菌連冷藏溫度都能生長——請選用巴氏殺菌乳製作的產品並保持低溫。離開冰箱後守 2 小時原則（廚房超過 32 °C 時為 1 小時）。要打進麵糊或沾醬之前，放個幾分鐘退冰就好。",
+  "fridge": "放在 4 °C 以下的內側層架，7～10 天內用完，或以包裝日期為準（取先到者）。蓋子要密封，每次都用乾淨的湯匙；夸克的酸度遠低於優格，用過的湯匙很容易引來霉或讓質地變牽絲。表面分離出透明乳清是正常的，攪回去或倒掉都可以。收進冰箱前把表面抹平，減少與空氣接觸的面積。",
+  "freezer": "夸克沒有冷凍期限，冷凍也不適合它。瀝過的凝乳解凍後會分離出水，拿回來質地又粗又稀——拌進起司蛋糕麵糊、麵團或醬汁還可以，但再也回不去可以用湯匙吃的鮮乳酪。買小盒才是更好的辦法。真的有多的，就趁新鮮拿去烘焙，然後冷凍做好的蛋糕。",
+  "thawing": null,
+  "spoilage": [
+   "表面或蓋內出現任何顏色的霉。",
+   "吃起來有酵母味、氣泡感或苦味，而不是乾淨的微酸。",
+   "舀起來牽絲。",
+   "蓋子鼓起，或顏色泛粉紅、泛灰。"
+  ],
+  "tips": [
+   "買一週左右吃得完的容量。",
+   "每次都用乾淨乾燥的湯匙——這比什麼都重要。",
+   "想要質地更柔順，把乳清攪回去而不是倒掉。",
+   "選巴氏殺菌的夸克，孕婦或免疫力低下者尤其要注意。"
+  ],
+  "faq": [
+   {
+    "q": "夸克乳酪冷藏可以放多久？",
+    "a": "4 °C 以下大約 7～10 天，或以包裝日期為準。"
+   },
+   {
+    "q": "夸克可以冷凍嗎？",
+    "a": "沒有對應期限，也不值得。它會分離出水，解凍後只能用在烘焙或醬汁。"
+   },
+   {
+    "q": "夸克表面那層水正常嗎？",
+    "a": "正常，那是乳清，攪回去或倒掉都行。長霉、冒泡或發苦則不正常，整盒要丟。"
+   },
+   {
+    "q": "懷孕可以吃夸克嗎？",
+    "a": "請選巴氏殺菌乳製作的並全程冷藏。它是低酸的新鮮乳酪，而李斯特菌在冷藏溫度下仍會生長。"
+   }
+  ]
+ }
+}

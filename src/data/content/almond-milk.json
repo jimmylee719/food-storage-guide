@@ -1,0 +1,91 @@
+{
+ "slug": "almond-milk",
+ "en": {
+  "name": "Almond milk",
+  "aliases": [
+   "almond drink",
+   "almond beverage",
+   "unsweetened almond milk"
+  ],
+  "summary": "Almond milk is ground almonds pressed with water into a milk-like drink, sold either chilled or in shelf-stable cartons. The chilled kind belongs in the fridge and should be used by the date on the pack; once you open it, it runs about 7–10 days.",
+  "pantry": "A shelf-stable carton that has not been opened can sit in a cool cupboard until its printed date, because it was sterilised and filled aseptically. Chilled cartons are a different product and must never be left out: treat them like dairy and follow the 2-hour rule, or 1 hour if the kitchen is above 32 °C (90 °F). Once any carton is opened, the cupboard is no longer an option.",
+  "fridge": "Keep almond milk at 4 °C (40 °F) or below on an inside shelf, not in the door where the temperature swings every time someone opens it. Unopened chilled cartons go by the use-by date on the package. After opening, use it within 7–10 days, keeping the cap or spout closed and the carton upright. It separates as it stands; shake it before pouring, and judge it by smell rather than by the settling.",
+  "freezer": "There is no published freezer timeline for almond milk, and freezing is rarely worth it: the emulsion breaks and the thawed drink is grainy and watery, no good in coffee or on cereal. If you have a carton you cannot finish, freeze it in an ice-cube tray at −18 °C (0 °F) and use the cubes in smoothies or baking, where the texture does not matter. Blend it well after thawing.",
+  "thawing": "Thaw frozen almond-milk cubes in the fridge, never on the counter, and blend or shake hard before use. Expect separation; it will not come back completely.",
+  "spoilage": [
+   "A sour, sharp or yeasty smell instead of the usual faint nutty one.",
+   "Thick lumps or curdled strands that do not disappear when you shake it.",
+   "A bulging carton, or a hiss and fizz when you open it.",
+   "A slimy or gluey pour, or any mould around the spout."
+  ],
+  "tips": [
+   "Write the opening date on the carton; a week and a half passes quickly.",
+   "Buy small cartons if you only use it for coffee.",
+   "Never drink from the carton — backwash shortens its life sharply.",
+   "Keep it away from the fridge door and away from raw meat drips."
+  ],
+  "faq": [
+   {
+    "q": "How long does almond milk last after opening?",
+    "a": "About 7–10 days at 4 °C (40 °F) or below, whether it started as a chilled or a shelf-stable carton."
+   },
+   {
+    "q": "Does unopened almond milk need to be refrigerated?",
+    "a": "Chilled cartons do, and go by the use-by date on the pack. Aseptic shelf-stable cartons can stay in the cupboard until you open them."
+   },
+   {
+    "q": "Can you freeze almond milk?",
+    "a": "You can, but there is no established timeline and it separates badly. Freeze it in cubes for smoothies and baking rather than for drinking."
+   },
+   {
+    "q": "How can you tell if almond milk has gone bad?",
+    "a": "A sour or yeasty smell, lumps that will not shake out, a swollen carton or a fizz on opening all mean throw it away."
+   }
+  ]
+ },
+ "zh": {
+  "name": "杏仁奶",
+  "aliases": [
+   "杏仁飲",
+   "美式杏仁奶",
+   "巴旦木奶",
+   "扁桃仁奶",
+   "植物奶"
+  ],
+  "summary": "杏仁奶是把杏仁磨碎後加水榨壓而成的植物奶，市面上分冷藏和常溫利樂包兩種。冷藏的必須全程放冰箱，未開封時以包裝上的有效日期為準；開封之後大約可以放 7～10 天。",
+  "pantry": "未開封的常溫利樂包可以放在陰涼的櫥櫃裡到標示日期，因為它經過滅菌並以無菌方式充填。冷藏包裝是另一種產品，絕對不能放在室溫：當成乳製品看待，遵守 2 小時原則（室溫超過 32 °C 時縮短為 1 小時）。任何一種包裝一旦開封，就不再有櫥櫃這個選項。",
+  "fridge": "放在 4 °C 以下的內側層架，不要放門邊——門邊每開一次冰箱溫度就晃一次。未開封的冷藏包裝以包裝上的有效日期為準。開封後請在 7～10 天內喝完，蓋子或吸嘴要關緊、盒身直立。靜置後會分層，倒之前搖一搖；判斷好壞要靠氣味，不是靠有沒有沉澱。",
+  "freezer": "杏仁奶沒有公告的冷凍期限，而且冷凍通常不划算：乳化狀態會被破壞，解凍後又粗又水，加咖啡或泡穀片都不行。真的喝不完，可以倒進製冰盒放 −18 °C，之後用在果昔或烘焙上，質地就不重要了。解凍後務必徹底攪打。",
+  "thawing": "冷凍的杏仁奶冰磚請放冷藏解凍，不要放室溫，用之前用果汁機打勻或用力搖勻。分層是一定會發生的，而且不會完全回復。",
+  "spoilage": [
+   "聞起來發酸、刺鼻或有酵母味，而不是原本淡淡的堅果香。",
+   "出現搖不散的濃稠結塊或凝絮。",
+   "包裝鼓脹，或開封時有氣體嘶聲、冒泡。",
+   "倒起來黏稠牽絲，或吸嘴周圍長霉。"
+  ],
+  "tips": [
+   "在盒身寫上開封日期；一個多星期過得比想像快。",
+   "如果只用來加咖啡，買小包裝就好。",
+   "不要直接就著盒口喝，口水回流會大幅縮短保存期。",
+   "放遠離冰箱門的位置，也要避開生肉可能滴落的下方。"
+  ],
+  "faq": [
+   {
+    "q": "杏仁奶開封後可以放多久？",
+    "a": "在 4 °C 以下大約 7～10 天，不管原本是冷藏包裝還是常溫利樂包都一樣。"
+   },
+   {
+    "q": "未開封的杏仁奶一定要冰嗎？",
+    "a": "冷藏包裝一定要，並以包裝有效日期為準。無菌充填的常溫利樂包在開封前可以放櫥櫃。"
+   },
+   {
+    "q": "杏仁奶可以冷凍嗎？",
+    "a": "可以，但沒有對應的期限，而且解凍後分層嚴重。建議做成冰磚給果昔或烘焙用，不要指望拿來直接喝。"
+   },
+   {
+    "q": "怎麼判斷杏仁奶壞掉了？",
+    "a": "發酸或有酵母味、搖不散的結塊、包裝鼓脹、開封冒氣泡，任何一項都代表該丟了。"
+   }
+  ]
+ }
+}

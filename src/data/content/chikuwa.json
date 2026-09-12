@@ -1,0 +1,90 @@
+{
+ "slug": "chikuwa",
+ "en": {
+  "name": "Chikuwa",
+  "aliases": [
+   "grilled fish paste tube",
+   "chikuwa fish cake",
+   "bamboo-ring fish cake"
+  ],
+  "summary": "Chikuwa is surimi wrapped round a stick and grilled, leaving a browned tube with a hole through the middle. Unopened it goes by the printed date; once the pack is open, 3–4 days in the fridge. It freezes for 1–2 months and takes it better than most fish cakes.",
+  "pantry": "Chikuwa is not a shelf-stable snack. Japanese food sanitation standards for fish-paste products set chilled storage at 10 °C or below for anything that has not been retorted in a sealed container, or made acidic enough (pH 4.6 or lower) or dry enough (water activity 0.94 or lower) to be exempt — and ordinary chilled chikuwa meets none of those exemptions. In practice keep it at 4 °C (40 °F) or below, follow the 2-hour rule when it is out, and 1 hour above 32 °C (90 °F).",
+  "fridge": "Unopened, use the printed date; no general number is given here because that date encodes how the maker pasteurised it. The grilled skin looks like a barrier and is not — it is simply browned protein, and the paste underneath is moist, low in salt and fully cooked, which is exactly the profile bacteria like. Once the pack is opened, wrap it and use it within 3–4 days at 4 °C (40 °F) or below. That figure is borrowed from what is published for cooked fish. Cut off and discard any surface that has gone slimy rather than trimming around it.",
+  "freezer": "Chikuwa freezes for 1–2 months at −18 °C (0 °F), and it takes freezing better than kamaboko does, because it usually ends up in soups, oden and simmered dishes where a slightly coarser thawed texture does not matter. Slice it before freezing and spread the slices in a single layer first so they do not fuse, then bag them flat. Cook them straight from frozen. Frozen food stays safe indefinitely at −18 °C; the timeline is about quality.",
+  "thawing": "Add frozen slices straight to hot soup or a simmering pot. If you thaw them, do it in the fridge, use them the same day, and do not refreeze.",
+  "spoilage": [
+   "A slimy or sticky surface on the tube.",
+   "A sour or fermented smell instead of a mild grilled-fish one.",
+   "Liquid pooling in the pack, or a puffed, gassy package.",
+   "Any mould, or a grey or greenish cast to the paste."
+  ],
+  "tips": [
+   "Buy the size you will use in a few days once opened.",
+   "Slice before freezing; you will never want to thaw a whole tube.",
+   "Keep it at the back of a shelf, not in the fridge door.",
+   "Vacuum-packed chilled fish cakes still need refrigeration — the pack is not a preservative."
+  ],
+  "faq": [
+   {
+    "q": "How long does chikuwa keep once opened?",
+    "a": "3–4 days at 4 °C (40 °F) or below, wrapped. Unopened, follow the printed date."
+   },
+   {
+    "q": "Can you freeze chikuwa?",
+    "a": "Yes, 1–2 months at −18 °C, and it freezes better than kamaboko. Slice it first and cook it from frozen."
+   },
+   {
+    "q": "Does chikuwa need to be refrigerated?",
+    "a": "Yes. Fish-paste products must be kept chilled unless they have been retorted, acidified or dried, and ordinary chikuwa is none of those."
+   },
+   {
+    "q": "Is the grilled surface a protective skin?",
+    "a": "No. It is browned protein, not a barrier. The paste underneath is moist and low in salt and needs the fridge."
+   }
+  ]
+ },
+ "zh": {
+  "name": "竹輪",
+  "aliases": [
+   "ちくわ",
+   "魚卷",
+   "竹輪魚卷",
+   "烤魚漿卷"
+  ],
+  "summary": "竹輪是把魚漿裹在棒子上烤成的中空魚漿卷。未開封以包裝標示日期為準；開封後冷藏 3～4 天。冷凍可放 1～2 個月，而且它比蒲鉾（魚板）更耐凍。",
+  "pantry": "竹輪不是常溫零食。日本對魚肉煉製品的食品衛生規格要求：未經密封容器高溫殺菌（120 °C 四分鐘）、酸度未達 pH 4.6 以下、水活性未達 0.94 以下者，須於 10 °C 以下保存——而一般冷藏竹輪這三個豁免條件一個都不符合。實務上請放 4 °C 以下，離開冰箱後守 2 小時原則，室溫超過 32 °C 時為 1 小時。",
+  "fridge": "未開封請以包裝標示日期為準；這裡不另外給數字，因為那個日期反映的是製造商的殺菌條件。烤過的外皮看起來像屏障，其實不是——那只是褐變的蛋白質，底下的魚漿含水高、鹽分低、又是全熟品，正好是細菌喜歡的條件。包裝拆開後請包好，在 4 °C 以下 3～4 天內用完。這個數字借自「熟魚」的公告值。表面一旦發黏，請整段切掉丟棄，不要只修邊繼續吃。",
+  "freezer": "竹輪在 −18 °C 下可放 1～2 個月，而且比蒲鉾耐凍，因為它通常最後是下湯、關東煮或滷煮，解凍後質地稍微變粗並不影響。冷凍前先切片，單層攤開凍硬再裝袋壓平，才不會黏成一塊。要用時直接從冷凍下鍋。−18 °C 下安全性是無限期的，期限講的是品質。",
+  "thawing": "冷凍切片直接丟進熱湯或滾鍋。若要解凍，請放冷藏並當天用完，不要再次冷凍。",
+  "spoilage": [
+   "表面變得黏滑。",
+   "聞起來發酸或有發酵味，而不是淡淡的烤魚香。",
+   "包裝內積水，或整包鼓脹有氣。",
+   "長霉，或魚漿泛灰、泛綠。"
+  ],
+  "tips": [
+   "買開封後幾天內用得完的量。",
+   "冷凍前先切片；沒有人會想解凍一整條。",
+   "放層架深處，不要放冰箱門邊。",
+   "真空包的冷藏魚漿製品一樣要冷藏——包裝不是防腐劑。"
+  ],
+  "faq": [
+   {
+    "q": "竹輪開封後可以放多久？",
+    "a": "包好放 4 °C 以下 3～4 天。未開封請以包裝標示日期為準。"
+   },
+   {
+    "q": "竹輪可以冷凍嗎？",
+    "a": "可以，−18 °C 下 1～2 個月，而且比魚板耐凍。先切片，直接從冷凍下鍋。"
+   },
+   {
+    "q": "竹輪需要冷藏嗎？",
+    "a": "需要。魚漿製品除非經過高溫殺菌、酸化或乾燥，否則必須冷藏，而一般竹輪三者皆非。"
+   },
+   {
+    "q": "烤過的外皮算保護層嗎？",
+    "a": "不算。那只是褐變的蛋白質，不是屏障。底下的魚漿含水高、鹽分低，需要冷藏。"
+   }
+  ]
+ }
+}

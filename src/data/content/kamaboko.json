@@ -1,0 +1,91 @@
+{
+ "slug": "kamaboko",
+ "en": {
+  "name": "Kamaboko",
+  "aliases": [
+   "steamed fish cake",
+   "narutomaki",
+   "fish cake loaf",
+   "board kamaboko"
+  ],
+  "summary": "Kamaboko is surimi steamed into a firm pink-and-white loaf on a wooden board, sliced for soups, bento and New Year dishes. Unopened it goes by its printed date; once the wrapper is cut, 3–4 days in the fridge. Freezing is not recommended — it wrecks the gel.",
+  "pantry": "Kamaboko is a chilled product, not a shelf one. Japanese food sanitation standards require specially packaged kamaboko to be stored at 10 °C or below unless it was heated to 120 °C for four minutes in a sealed container, or has a pH of 4.6 or lower, or a water activity of 0.94 or lower — and ordinary chilled kamaboko meets none of those. In practice keep it at 4 °C (40 °F) or below, follow the 2-hour rule while it is out, and 1 hour if the room is above 32 °C (90 °F).",
+  "fridge": "Unopened, use the printed date; no general number is given here because a kamaboko's shelf life depends on how the maker pasteurised it, and that is exactly what the date encodes. Once the wrapper is cut the surface is exposed, and the salt content is far too low to hold bacteria off: wrap the cut face, keep it at 4 °C (40 °F) or below, and use it within 3–4 days, which is the published figure for cooked fish. If the cut surface has gone slimy or smells sour, discard the piece rather than trimming and eating around it.",
+  "freezer": "Freezing is not recommended and no timeline is given. It wrecks the gel that is the entire point of kamaboko: the springy, sliceable texture comes from a protein network that ice crystals tear apart, and what thaws is watery and spongy. Japanese producers generally advise against it, and the frozen-product standard of −15 °C or below applies to products made to be frozen, not to a chilled board of kamaboko. Buy a smaller board, or use up the remainder in a soup where texture matters less.",
+  "thawing": null,
+  "spoilage": [
+   "A slimy or sticky cut face.",
+   "A sour or fermented smell instead of a mild sweet-fishy one.",
+   "Liquid pooling in the pack, or a puffed, gassy wrapper.",
+   "Any mould, or a grey or greenish tinge to the white paste."
+  ],
+  "tips": [
+   "Buy the size you will finish in a few days once opened.",
+   "Wrap the cut face tight against the surface, not loosely.",
+   "Slice with a clean knife each time.",
+   "Use the last of a board in miso soup or udon rather than freezing it."
+  ],
+  "faq": [
+   {
+    "q": "How long does kamaboko keep once opened?",
+    "a": "3–4 days at 4 °C (40 °F) or below with the cut face wrapped. Unopened, follow the printed date."
+   },
+   {
+    "q": "Can you freeze kamaboko?",
+    "a": "It is not recommended and no timeline is given. Freezing destroys the springy gel and it thaws watery and spongy."
+   },
+   {
+    "q": "Does kamaboko need to be refrigerated?",
+    "a": "Yes. Fish-paste products must be kept chilled unless they have been retorted, acidified or dried, and ordinary kamaboko is none of those."
+   },
+   {
+    "q": "Can you cut the slimy part off and eat the rest?",
+    "a": "No. Slime on the cut face means bacterial growth through the exposed surface; discard the piece."
+   }
+  ]
+ },
+ "zh": {
+  "name": "魚板",
+  "aliases": [
+   "蒲鉾",
+   "かまぼこ",
+   "鳴門卷",
+   "日式魚糕"
+  ],
+  "summary": "魚板是魚漿蒸熟成型、附在小木板上的粉白色魚糕，切片用在湯品、便當和年節料理。未開封以標示日期為準；包裝一切開，冷藏 3～4 天。不建議冷凍——那會毀掉它的凝膠。",
+  "pantry": "魚板是冷藏品，不是常溫品。日本食品衛生規格要求特殊包裝的蒲鉾須保存在 10 °C 以下，除非該產品已在密封容器中以 120 °C 加熱四分鐘、或 pH 值在 4.6 以下、或水活性在 0.94 以下——而一般冷藏魚板三者皆非。實務上請放 4 °C 以下，離開冰箱後守 2 小時原則，室溫超過 32 °C 時為 1 小時。",
+  "fridge": "未開封請以標示日期為準；這裡不給通用數字，因為魚板的保存期取決於製造商的殺菌條件，而那正是日期所編碼的內容。包裝一切開，切面就暴露了，而它的鹽分遠不足以壓制細菌：請把切面包緊，放 4 °C 以下，3～4 天內用完，這是「熟魚」的公告值。切面一旦發黏或聞起來發酸，請整塊丟棄，不要只切掉表面繼續吃。",
+  "freezer": "不建議冷凍，這裡也不給期限。冷凍會毀掉魚板存在的全部意義——那股 Q 彈、好切片的質地來自一個蛋白質網絡，而冰晶會把它撕開，解凍後只剩下又水又海綿的東西。日本製造商普遍不建議冷凍，而「−15 °C 以下」的冷凍品標準適用的是本來就做成冷凍販售的產品，不是冷藏的魚板。請買小塊，或把剩下的用在湯裡，那裡質地沒那麼要緊。",
+  "thawing": null,
+  "spoilage": [
+   "切面變得黏滑。",
+   "聞起來發酸或有發酵味，而不是淡淡的魚甜味。",
+   "包裝內積水，或封膜鼓脹有氣。",
+   "長霉，或白色部分泛灰、泛綠。"
+  ],
+  "tips": [
+   "買開封後幾天內用得完的大小。",
+   "切面要貼緊包住，不要鬆鬆地蓋著。",
+   "每次都用乾淨的刀切。",
+   "剩下的拿去煮味噌湯或烏龍麵，不要冷凍。"
+  ],
+  "faq": [
+   {
+    "q": "魚板開封後可以放多久？",
+    "a": "切面包好、放 4 °C 以下 3～4 天。未開封請依標示日期。"
+   },
+   {
+    "q": "魚板可以冷凍嗎？",
+    "a": "不建議，也不給期限。冷凍會破壞 Q 彈凝膠，解凍後又水又海綿。"
+   },
+   {
+    "q": "魚板需要冷藏嗎？",
+    "a": "需要。魚漿製品除非經高溫殺菌、酸化或乾燥，否則必須冷藏，而一般魚板都不是。"
+   },
+   {
+    "q": "發黏的部分切掉還能吃嗎？",
+    "a": "不行。切面發黏代表細菌已從暴露面繁殖，請整塊丟棄。"
+   }
+  ]
+ }
+}

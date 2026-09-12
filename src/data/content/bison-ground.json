@@ -1,0 +1,91 @@
+{
+ "slug": "bison-ground",
+ "en": {
+  "name": "Ground bison",
+  "aliases": [
+   "bison mince",
+   "minced buffalo",
+   "ground buffalo",
+   "bison burger meat"
+  ],
+  "summary": "Ground bison is very lean minced red meat, leaner than most beef mince. Like any ground meat it keeps only 1–2 days in the fridge, and 3–4 months in the freezer.",
+  "pantry": "Raw ground meat has no room-temperature life at all. Mincing takes the bacteria that were on the surface of the cut and distributes them all the way through, which is why ground meat spoils faster than a whole piece and why it has to be cooked through rather than served rare. Follow the 2-hour rule, or 1 hour if the kitchen is above 32 °C (90 °F), and never leave a packet out to come up to temperature before cooking.",
+  "fridge": "Keep ground bison at 4 °C (40 °F) or below and use it within 1–2 days of purchase. Store it on the bottom shelf in a container or on a plate that will catch drips, below anything ready to eat, and leave it in its original tray until you cook it. Because bison is so lean, it dries and browns at the surface faster than beef mince — a darker surface on otherwise fresh mince is usually oxidation, not spoilage, but smell is the better test. If you are not cooking it within a day, freeze it now rather than later.",
+  "freezer": "Ground bison keeps 3–4 months at −18 °C (0 °F). Press it flat in a bag, squeeze the air out and freeze it in meal-sized slabs — flat packets freeze and thaw far faster than a lump, which matters for a food you should not thaw slowly. Frozen food stays safe indefinitely at −18 °C; the months are about quality, and lean meat dries out in the freezer sooner than fatty meat. Label the date.",
+  "thawing": "Thaw in the fridge overnight, in a sealed bag under cold running water, or in the microwave if you are cooking it straight away. Never on the counter. Cook thawed mince the same day and do not refreeze it raw.",
+  "spoilage": [
+   "A slimy or sticky surface on the meat.",
+   "A sour, sulphurous or ammoniacal smell instead of a clean metallic one.",
+   "Grey or greenish-brown colour throughout, not just at the surface.",
+   "A swollen, gassy pack or liquid that has gone cloudy and ropy."
+  ],
+  "tips": [
+   "Freeze in flat, meal-sized slabs; they thaw far faster and more evenly.",
+   "Cook it through — mincing spreads surface bacteria all the way in.",
+   "Bison is lean, so it cooks faster and dries out sooner than beef mince.",
+   "Store on the bottom shelf so drips cannot reach ready-to-eat food."
+  ],
+  "faq": [
+   {
+    "q": "How long does ground bison keep in the fridge?",
+    "a": "1–2 days at 4 °C (40 °F) or below. Ground meat has a much shorter life than a whole cut."
+   },
+   {
+    "q": "Can you freeze ground bison?",
+    "a": "Yes, 3–4 months at −18 °C. Freeze it flat in meal-sized portions with the air pressed out."
+   },
+   {
+    "q": "Can bison burgers be served rare?",
+    "a": "Ground meat should be cooked through, because mincing spreads any surface bacteria all the way into the middle."
+   },
+   {
+    "q": "Why has my ground bison gone dark in the middle of the pack?",
+    "a": "Meat away from the air turns darker; it is usually oxygen, not spoilage. Judge it by smell and texture instead."
+   }
+  ]
+ },
+ "zh": {
+  "name": "美洲野牛絞肉",
+  "aliases": [
+   "野牛絞肉",
+   "bison 絞肉",
+   "美洲野牛肉泥",
+   "buffalo 絞肉"
+  ],
+  "summary": "美洲野牛絞肉是非常瘦的紅肉絞肉，比多數牛絞肉還瘦。跟所有絞肉一樣，冷藏只能放 1～2 天，冷凍 3～4 個月。",
+  "pantry": "生絞肉完全沒有室溫保存這回事。絞碎這個動作把原本只在表面的細菌均勻帶進整塊肉裡，這既是絞肉比整塊肉壞得快的原因，也是絞肉必須煮全熟、不能做成三分熟的原因。請守 2 小時原則，廚房超過 32 °C 時為 1 小時；也不要為了「先回溫」把整盒放在外面。",
+  "fridge": "放 4 °C 以下，購買後 1～2 天內用完。放最下層，用容器或盤子接住滴液，位置低於所有即食食品，並且在下鍋前都留在原本的包裝盒裡。因為野牛肉極瘦，表面比牛絞肉更快變乾、變深——新鮮絞肉表面顏色較深通常只是氧化而不是腐敗，但用聞的判斷更可靠。一天內不會煮的話，現在就冷凍，不要拖。",
+  "freezer": "野牛絞肉在 −18 °C 下可放 3～4 個月。裝袋壓平、擠出空氣，分成一餐的量做成薄片狀——扁平的包裝凍得快也解得快，這對「不該慢慢解凍」的食材特別重要。−18 °C 下安全性是無限期的，月數講的是品質，而瘦肉在冷凍庫裡比肥肉更快變乾。記得標上日期。",
+  "thawing": "放冷藏隔夜解凍、密封裝袋用冷水沖，或馬上要煮的話用微波解凍。不要放室溫。解凍後當天煮完，生的不要再次冷凍。",
+  "spoilage": [
+   "肉的表面變得黏滑。",
+   "聞起來發酸、有硫味或氨味，而不是乾淨的金屬味。",
+   "整塊（不只表面）轉為灰色或灰綠褐色。",
+   "包裝鼓脹有氣，或滲出的血水變得混濁牽絲。"
+  ],
+  "tips": [
+   "分成一餐的量壓平冷凍；解凍快很多也更均勻。",
+   "一定要煮全熟——絞碎會把表面細菌帶進中心。",
+   "野牛肉很瘦，比牛絞肉更快熟、也更容易乾柴。",
+   "放最下層，滴液才碰不到即食食品。"
+  ],
+  "faq": [
+   {
+    "q": "野牛絞肉冷藏可以放多久？",
+    "a": "4 °C 以下 1～2 天。絞肉的壽命比整塊肉短得多。"
+   },
+   {
+    "q": "野牛絞肉可以冷凍嗎？",
+    "a": "可以，−18 °C 下 3～4 個月。分成一餐的量壓平、擠出空氣再冷凍。"
+   },
+   {
+    "q": "野牛漢堡排可以吃半熟嗎？",
+    "a": "絞肉應該煮全熟，因為絞碎會把表面細菌帶進中心。"
+   },
+   {
+    "q": "包裝中間的絞肉為什麼顏色比較深？",
+    "a": "接觸不到空氣的肉顏色會變深，通常是氧氣的問題而不是腐敗。請改用氣味和質地判斷。"
+   }
+  ]
+ }
+}

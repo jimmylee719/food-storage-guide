@@ -1,0 +1,91 @@
+{
+ "slug": "rice-milk",
+ "en": {
+  "name": "Rice milk",
+  "aliases": [
+   "rice drink",
+   "rice beverage",
+   "horchata de arroz",
+   "rice-based milk"
+  ],
+  "summary": "Rice milk is milled rice cooked and pressed into a thin, faintly sweet drink, sold chilled or in shelf-stable cartons. Keep it refrigerated and go by the use-by date on an unopened pack; once opened, use it within 7–10 days.",
+  "pantry": "An unopened aseptic carton keeps in a cool cupboard to its printed date, because it was sterilised and filled sealed. A chilled carton is a different product and must stay cold — follow the 2-hour rule, or 1 hour if the kitchen is above 32 °C (90 °F). Once opened, neither kind belongs in a cupboard. Rice milk is low in acid and contains plenty of available starch sugars, so it ferments readily if it is left warm.",
+  "fridge": "Keep it at 4 °C (40 °F) or below on an inside shelf rather than the door. Unopened chilled cartons run to the use-by date on the package. After opening, use it within 7–10 days with the cap closed and the carton upright. Rice milk settles more than most plant drinks — a chalky layer of starch on the bottom is normal, not spoilage — so shake it well before pouring and judge it on smell and taste rather than on the sediment.",
+  "freezer": "There is no published freezer timeline for rice milk, and freezing suits it poorly: the starch retrogrades as it freezes and the thawed drink is gritty and separated in a way that shaking will not fix. If you have to, freeze it at −18 °C (0 °F) in a container with headspace and use it in porridge, baking or a smoothie rather than in a glass. Buying a smaller carton is usually the better answer.",
+  "thawing": "Thaw in the fridge, never on the counter, and shake or blend hard. Expect a grainy texture and use it in cooking. Do not refreeze.",
+  "spoilage": [
+   "A sour, sharp or yeasty smell rather than a faint sweet-cereal one.",
+   "A fizz or hiss on opening, or a swollen carton.",
+   "Ropy, slimy or gluey strands when you pour.",
+   "Mould around the spout or cap, or visible growth in the liquid."
+  ],
+  "tips": [
+   "Shake hard before every pour; sediment is normal and misleads people.",
+   "Write the opening date on the carton.",
+   "Do not drink from the carton if you are keeping the rest.",
+   "Buy small cartons if you only use it occasionally."
+  ],
+  "faq": [
+   {
+    "q": "How long does rice milk last after opening?",
+    "a": "About 7–10 days at 4 °C (40 °F) or below, kept closed and upright."
+   },
+   {
+    "q": "Does rice milk need to be refrigerated?",
+    "a": "Chilled cartons do, and unopened ones go by the use-by date. Aseptic shelf-stable cartons can stay in the cupboard until opened."
+   },
+   {
+    "q": "Can you freeze rice milk?",
+    "a": "There is no established timeline, and it thaws gritty because the starch retrogrades. Freeze it only for cooking, at −18 °C with headspace."
+   },
+   {
+    "q": "Why is there a layer at the bottom of the carton?",
+    "a": "Rice starch settles. That is normal — shake it back in. Judge spoilage by smell and taste, not by sediment."
+   }
+  ]
+ },
+ "zh": {
+  "name": "米漿（米奶）",
+  "aliases": [
+   "米奶",
+   "稻米飲",
+   "rice milk",
+   "植物奶"
+  ],
+  "summary": "這裡的米漿指的是把米煮過壓榨而成、質地稀薄帶淡甜味的西式米奶，有冷藏與常溫利樂包兩種。請冷藏保存，未開封以包裝有效日期為準；開封後請在 7～10 天內喝完。",
+  "pantry": "未開封的無菌利樂包放在陰涼櫥櫃可以到標示日期，因為它經過滅菌並密封充填。冷藏包裝是另一種產品，必須全程保冷——請守 2 小時原則（廚房超過 32 °C 時為 1 小時）。一旦開封，兩種都不能回到櫥櫃。米漿酸度低、又含有不少可利用的澱粉糖，放在溫暖環境很容易發酵。",
+  "fridge": "放在 4 °C 以下的內側層架，不要放門邊。未開封的冷藏包裝以有效日期為準。開封後請在 7～10 天內用完，蓋子關緊、盒身直立。米漿比多數植物奶更容易沉澱——底部一層粉白色澱粉是正常的，不是壞掉——倒之前用力搖勻，並以氣味和味道判斷，不要靠沉澱判斷。",
+  "freezer": "米漿沒有公告的冷凍期限，而且它不適合冷凍：澱粉在冷凍過程中會老化回凝，解凍後粗糙分離，怎麼搖都回不來。真的要凍，請放 −18 °C 並在容器留膨脹空間，之後用在粥、烘焙或果昔，不要直接倒來喝。買小包裝通常是更好的答案。",
+  "thawing": "放冷藏解凍，不要放室溫，之後用力搖勻或打勻。質地會偏粗，請用於料理。不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸、刺鼻或有酵母味，而不是淡淡的穀物甜香。",
+   "開封時冒泡或有嘶聲，或包裝鼓脹。",
+   "倒出來牽絲、黏滑。",
+   "吸嘴或瓶蓋周圍長霉，或液體中看得到菌落。"
+  ],
+  "tips": [
+   "每次倒之前用力搖；沉澱是正常的，但常被誤判。",
+   "在盒身寫上開封日期。",
+   "還要留著喝的話，不要直接對著盒口喝。",
+   "偶爾才喝的話請買小包裝。"
+  ],
+  "faq": [
+   {
+    "q": "米漿開封後可以放多久？",
+    "a": "蓋緊直立放 4 °C 以下，大約 7～10 天。"
+   },
+   {
+    "q": "米漿一定要冷藏嗎？",
+    "a": "冷藏包裝一定要，未開封以有效日期為準。無菌常溫利樂包在開封前可放櫥櫃。"
+   },
+   {
+    "q": "米漿可以冷凍嗎？",
+    "a": "沒有既定期限，而且澱粉老化會讓它解凍後變粗糙。只建議冷凍後用於料理，放 −18 °C 並留膨脹空間。"
+   },
+   {
+    "q": "盒底那層沉澱是什麼？",
+    "a": "是沉下去的米澱粉，正常現象，搖勻即可。判斷有沒有壞要靠氣味和味道，不是靠沉澱。"
+   }
+  ]
+ }
+}

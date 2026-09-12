@@ -1,0 +1,91 @@
+{
+ "slug": "biltong",
+ "en": {
+  "name": "Biltong",
+  "aliases": [
+   "droëwors",
+   "air-dried beef",
+   "South African dried meat",
+   "cured dried meat"
+  ],
+  "summary": "Biltong is beef or game marinated in vinegar and spice and air-dried without heat. Properly dried, it keeps 2 weeks at room temperature in a sealed container; refrigerated 1–2 months, and frozen about 6 months. A thick, moist, red-centred slice is a perishable meat, not a dried one.",
+  "pantry": "Two weeks at room temperature in a sealed container is the honest ceiling for properly dried biltong, and it is the published figure for properly dried jerky. What keeps dried meat safe is water activity — how much water is actually available to microbes, not how dry it looks — so a thick, moist, red-centred slice cut wet belongs in the fridge from the start. If it is still soft, keep it in paper or a breathable cloth bag rather than sealed plastic: airtight plastic traps moisture against the surface and grows mould within days. There is a safety point worth knowing about home-dried biltong: the standard recommendation for home-dried meat is that the strips reach an internal 160 °F, either by heating in the marinade before drying or by oven-heating afterwards, precisely because air-drying alone may not kill pathogens such as E. coli O157:H7 — and traditional biltong, cured in vinegar and salt and hung to dry cold, includes no such heat step.",
+  "fridge": "Refrigerating or freezing dried meat extends its shelf life and keeps the flavour, and 1–2 months at 4 °C (40 °F) or below is a fair working figure, borrowed from what is published for home-made jerky. Sliced biltong dries out and goes dusty in the fridge, so whole sticks hold up much better — slice as you eat. Keep it in a paper bag inside a loosely closed box rather than sealed airtight, unless it is genuinely bone dry.",
+  "freezer": "For anything beyond a month, vacuum-seal it and freeze: about 6 months at −18 °C (0 °F), which is our own figure rather than a published one. Freeze whole sticks rather than slices, and thaw them in the fridge, not on the counter. Frozen food stays safe indefinitely at −18 °C; the months are about the fat, which is what eventually turns rancid and gives old biltong its stale, tallowy note.",
+  "thawing": "Thaw vacuum-sealed sticks in the fridge and slice them as you eat. Do not thaw biltong at room temperature in a sealed bag — condensation on the surface is what starts mould.",
+  "spoilage": [
+   "Fuzzy white, green or black mould, especially inside a sealed bag.",
+   "A damp, tacky or slippery surface on what should be dry.",
+   "A sour or fermented smell rather than a vinegar-and-spice one.",
+   "A rancid, tallowy smell from the fat, or a dull grey cast."
+  ],
+  "tips": [
+   "Keep soft, moist biltong in the fridge from day one.",
+   "Store it in paper or cloth, not sealed plastic, unless it is bone dry.",
+   "Buy or cut whole sticks and slice as you eat; slices dry out fast.",
+   "Home-dried is not the same as a commercial vacuum-packed product — follow the printed date on the latter."
+  ],
+  "faq": [
+   {
+    "q": "How long does biltong keep at room temperature?",
+    "a": "2 weeks in a sealed container if it is properly dried. Thick, moist slices are a perishable meat and belong in the fridge."
+   },
+   {
+    "q": "Should biltong be refrigerated?",
+    "a": "Refrigerating or freezing extends shelf life and keeps the flavour: 1–2 months at 4 °C or below. Soft, moist biltong needs it from the start."
+   },
+   {
+    "q": "Can you freeze biltong?",
+    "a": "Yes, about 6 months at −18 °C, vacuum-sealed and in whole sticks. That figure is our own rather than a published one."
+   },
+   {
+    "q": "Is home-made biltong as safe as shop-bought?",
+    "a": "Not necessarily. Commercial biltong is a controlled-water-activity product with a printed date. The standard advice for home-dried meat is a heat step to 160 °F, which traditional biltong does not include."
+   }
+  ]
+ },
+ "zh": {
+  "name": "南非風乾牛肉",
+  "aliases": [
+   "biltong",
+   "比爾通肉乾",
+   "風乾牛肉乾",
+   "droëwors"
+  ],
+  "summary": "Biltong 是牛肉或野味用醋和香料醃過後、不加熱風乾而成的肉乾。真正乾透的，密封放室溫可放 2 週；冷藏 1～2 個月；冷凍約 6 個月。厚切、中心還帶紅的濕潤肉片，屬於易腐肉品而不是乾貨。",
+  "pantry": "「密封容器放室溫 2 週」是乾透的 biltong 誠實的上限，這也是「正確乾燥的肉乾」的公告值。讓乾肉安全的是水活性——也就是微生物真正能利用的水分，而不是它看起來多乾——所以切得厚、中心濕潤帶紅的那種，從一開始就該放冰箱。如果它還偏軟，請用紙袋或透氣布袋裝，不要用密封塑膠袋：密封塑膠會把水氣封在表面，幾天就長霉。關於自家風乾的 biltong，有一個安全重點值得知道：家庭乾燥肉品的標準建議是肉條中心要達到 160 °F，做法是乾燥前先在醃汁中加熱、或乾燥後再進烤箱，原因正是單靠風乾未必能殺死大腸桿菌 O157:H7 之類的病原；而傳統 biltong 用醋和鹽醃過後低溫吊乾，完全沒有這道加熱步驟。",
+  "fridge": "冷藏或冷凍可以延長乾肉的保存期並保住風味，4 °C 以下 1～2 個月是合理的工作數字，借自「自製肉乾」的公告值。切片的 biltong 在冰箱裡會乾掉、口感變粉，整條保存好得多——要吃再切。除非它真的乾透了，否則請用紙袋裝再放進不完全密閉的盒子，不要密封。",
+  "freezer": "超過一個月的份量請真空封袋冷凍：−18 °C 下約 6 個月，這是我們自己的數字，不是公告值。請整條冷凍而不是切片，解凍時放冷藏、不要放室溫。−18 °C 下安全性是無限期的，月數講的是脂肪，那才是最後會油耗、讓舊肉乾出現陳舊油味的部分。",
+  "thawing": "真空包的整條請放冷藏解凍，要吃再切。不要把密封袋放在室溫解凍——表面的結露正是長霉的起點。",
+  "spoilage": [
+   "長出白色、綠色或黑色絨毛霉，密封袋裡尤其常見。",
+   "本該乾燥的表面變得潮濕、發黏或滑膩。",
+   "聞起來發酸或有發酵味，而不是醋與香料的味道。",
+   "脂肪出現油耗、陳舊油脂的氣味，或整體泛暗灰。"
+  ],
+  "tips": [
+   "偏軟、偏濕的 biltong 從第一天就放冰箱。",
+   "除非乾透，否則用紙或布裝，不要密封塑膠袋。",
+   "買或切整條，要吃再切片；切片乾得很快。",
+   "自家做的和商業真空包不是同一回事——後者請依包裝標示日期。"
+  ],
+  "faq": [
+   {
+    "q": "biltong 放室溫可以放多久？",
+    "a": "真正乾透的話，密封容器放室溫 2 週。厚切濕潤的則屬易腐肉品，要放冰箱。"
+   },
+   {
+    "q": "biltong 需要冷藏嗎？",
+    "a": "冷藏或冷凍可以延長保存並保住風味：4 °C 以下 1～2 個月。偏軟偏濕的更是從一開始就需要。"
+   },
+   {
+    "q": "biltong 可以冷凍嗎？",
+    "a": "可以，真空封袋整條放 −18 °C 約 6 個月。這是我們自己的數字，不是公告值。"
+   },
+   {
+    "q": "自製 biltong 和市售的一樣安全嗎？",
+    "a": "不一定。商業產品是水活性受控的製品，並有標示日期。家庭乾燥肉品的標準建議是加熱到 160 °F，而傳統 biltong 沒有這道步驟。"
+   }
+  ]
+ }
+}

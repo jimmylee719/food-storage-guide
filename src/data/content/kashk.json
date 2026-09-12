@@ -1,0 +1,91 @@
+{
+ "slug": "kashk",
+ "en": {
+  "name": "Kashk",
+  "aliases": [
+   "qurut",
+   "kurut",
+   "chortan",
+   "dried fermented whey"
+  ],
+  "summary": "Kashk is fermented, drained whey, sold either as rock-hard sun-dried balls or as a smooth liquid paste in a jar. The dried balls keep about 6–12 months in a dry cupboard; the jarred liquid goes in the fridge once opened and lasts roughly 5–7 days.",
+  "pantry": "Only the hard, sun-dried balls belong in a cupboard, and a working range of 6–12 months is reasonable for them — a figure adapted from what is published for powdered milk rather than measured on kashk. Keep them bone dry in a sealed jar: the governing rule for any dried food is that it can reabsorb moisture in storage, so glass lets you see trouble coming, and anything that has gone damp must be used at once, dried again, or thrown out if it has moulded. If the balls soften or bloom, moisture has got in and they are finished. Jarred liquid kashk is a different product and is not a pantry good once opened.",
+  "fridge": "Once a jar of liquid or paste kashk is open, it goes in the fridge at 4 °C (40 °F) or below, and roughly 5–7 days is our own conservative reading rather than a published number — if the jar carries its own date, that date wins. It is fermented and salty, which slows spoilage, but it is still a moist dairy product with a mild acidity. Many Iranian cooks bring kashk to a boil before use, which is both a flavour habit and a sensible safety one, and worth keeping. Never dip a used spoon into the jar.",
+  "freezer": "There is no freezer timeline for kashk in either form, and neither really needs one. The dried balls are already preserved by drying, and freezing them only risks condensation each time the jar comes out. Liquid kashk can be frozen in small portions if you genuinely have a surplus, but it separates and grains on thawing and has to be whisked or blended back, so it is only useful stirred into a cooked dish like kashk-e bademjan.",
+  "thawing": null,
+  "spoilage": [
+   "Dried balls that have gone soft, tacky or bloomed with mould.",
+   "A musty, mouldy smell instead of a sharp fermented one.",
+   "Liquid kashk that has gone fizzy, bitter or ropy.",
+   "A lifted lid, gas bubbles, or any surface mould in the jar."
+  ],
+  "tips": [
+   "Store the dried balls in glass so you can see if they take up moisture.",
+   "Grind or soak only the quantity you are about to cook with.",
+   "Boil liquid kashk before adding it, as Iranian cooks do.",
+   "Clean dry spoon every time, and write the opening date on the jar."
+  ],
+  "faq": [
+   {
+    "q": "How long does kashk keep?",
+    "a": "Hard dried balls keep about 6–12 months sealed in a dry cupboard. Opened jarred liquid kashk keeps roughly 5–7 days refrigerated, or to its own printed date."
+   },
+   {
+    "q": "Does kashk need to be refrigerated?",
+    "a": "The dried balls do not — keep them dry and sealed. Liquid or paste kashk must be refrigerated once the jar is opened."
+   },
+   {
+    "q": "Can you freeze kashk?",
+    "a": "There is no timeline for it. Dried kashk does not need it, and liquid kashk separates on thawing and is only usable in cooked dishes afterwards."
+   },
+   {
+    "q": "Why do recipes say to boil kashk first?",
+    "a": "It smooths the flavour and is a sensible safety step for a moist fermented dairy product. It is a habit worth keeping."
+   }
+  ]
+ },
+ "zh": {
+  "name": "卡什克發酵乳清",
+  "aliases": [
+   "kashk",
+   "乾乳清球",
+   "中東乳清醬",
+   "qurut"
+  ],
+  "summary": "Kashk 是發酵並瀝乾的乳清製品，市面上有兩種形態：曬得硬邦邦的乾球，以及裝在罐子裡的滑順液狀醬。乾球放在乾燥櫥櫃大約 6～12 個月；罐裝液狀的開封後要冷藏，大約 5～7 天。",
+  "pantry": "只有曬乾的硬球適合放櫥櫃，把 6～12 個月當成合理區間——這個數字是從奶粉的公告值改寫而來，不是針對 kashk 量測的。密封玻璃罐、保持全乾：所有乾貨的通則都是它會在保存期間重新吸收水分，玻璃罐讓你及早看見問題；一旦受潮就要立刻用掉、重新乾燥，或已經長霉就丟棄。乾球變軟或表面起霧、長絨，代表水氣已經進去，就不能用了。罐裝液狀 kashk 是另一種產品，開封後不屬於常溫食品。",
+  "fridge": "液狀或膏狀的 kashk 一開罐就要放 4 °C 以下冷藏，大約 5～7 天——這是我們保守的判讀，不是公告數字；如果罐子本身有標示日期，以標示為準。它經過發酵又含鹽，確實會減緩腐敗，但終究是含水量高、酸度不強的乳製品。許多伊朗廚師會在使用前把 kashk 煮沸，那既是風味習慣也是合理的安全步驟，值得沿用。用過的湯匙絕對不要伸進罐子。",
+  "freezer": "兩種形態的 kashk 都沒有冷凍期限，實際上也不需要。乾球本來就靠乾燥保存，冷凍只會讓每次取用時多一次結露。液狀的若真的多到用不完，可以小份冷凍，但解凍後會分離出顆粒、必須重新打勻，之後也只適合拌進像 kashk-e bademjan 這類加熱料理。",
+  "thawing": null,
+  "spoilage": [
+   "乾球變軟、發黏或表面長霉。",
+   "聞起來是霉味、陳味，而不是明快的發酵味。",
+   "液狀 kashk 冒泡、發苦或牽絲。",
+   "罐蓋被頂起、有氣體，或罐內表面長霉。"
+  ],
+  "tips": [
+   "乾球用玻璃罐裝，才看得出有沒有受潮。",
+   "要煮多少就磨多少、泡多少。",
+   "照伊朗做法，液狀 kashk 加入前先煮沸。",
+   "每次用乾淨乾燥的湯匙，並在罐上寫開封日期。"
+  ],
+  "faq": [
+   {
+    "q": "kashk 可以放多久？",
+    "a": "曬乾的硬球密封放乾燥櫥櫃約 6～12 個月。罐裝液狀開封後冷藏約 5～7 天，或以罐上日期為準。"
+   },
+   {
+    "q": "kashk 需要冷藏嗎？",
+    "a": "乾球不用，保持乾燥密封即可。液狀或膏狀的一開罐就必須冷藏。"
+   },
+   {
+    "q": "kashk 可以冷凍嗎？",
+    "a": "沒有對應期限。乾球不需要；液狀的解凍後會分離，之後只能用在加熱料理。"
+   },
+   {
+    "q": "為什麼食譜說 kashk 要先煮過？",
+    "a": "煮過風味更順口，對一個含水的發酵乳製品來說也是合理的安全步驟，值得保留這個習慣。"
+   }
+  ]
+ }
+}

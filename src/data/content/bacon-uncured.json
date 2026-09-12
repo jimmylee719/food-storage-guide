@@ -1,0 +1,91 @@
+{
+ "slug": "bacon-uncured",
+ "en": {
+  "name": "Uncured bacon",
+  "aliases": [
+   "nitrite-free bacon",
+   "naturally cured bacon",
+   "no-nitrate-added bacon",
+   "celery-cured bacon"
+  ],
+  "summary": "Uncured bacon is bacon made without added sodium nitrite, usually salted and often cured instead with celery powder or juice. It keeps 4–7 days in the fridge and only 3–4 weeks in the freezer — a much shorter freezer life than most cured meat.",
+  "pantry": "Uncured bacon is a refrigerated raw meat and has no cupboard life at all. Without added nitrite it has less protection than conventional bacon, so treat it as you would fresh pork belly: straight into the fridge, and never left out. Follow the 2-hour rule, or 1 hour if the kitchen is above 32 °C (90 °F). Cooked bacon left over from breakfast is a cooked meat and belongs back in the fridge promptly too.",
+  "fridge": "Keep it at 4 °C (40 °F) or below and use it within 4–7 days, whether the pack is opened or not. Store it on the bottom shelf in a container that will catch any drips, below anything ready to eat. Once you open a vacuum pack, rewrap the rashers tightly or move them to a covered box — air is what turns the fat first. The word \"uncured\" on the label mostly means no synthetic sodium nitrite was added: celery powder supplies nitrite naturally, so the difference is in the ingredient list rather than the chemistry, and it does not make the bacon last longer.",
+  "freezer": "This is the figure worth noticing: 3–4 weeks at −18 °C (0 °F), far shorter than most frozen meat. The reason is fat. Bacon is mostly fat, that fat is salted, and salt speeds oxidation, so frozen bacon goes rancid and tastes stale long before anything unsafe happens. Freeze it flat in portions with paper between the rashers, wrapped airtight, and label the date. Frozen food stays safe indefinitely at −18 °C; these weeks are strictly about quality.",
+  "thawing": "Thaw in the fridge overnight, or cook the rashers straight from frozen over a lower heat. Never thaw bacon on the counter, and do not refreeze it raw.",
+  "spoilage": [
+   "A slimy or sticky surface on the rashers.",
+   "A sour, sulphurous or ammoniacal smell rather than a smoky-salty one.",
+   "Fat gone yellow-grey, or meat turned dull brown rather than pink.",
+   "A rancid, paint-like smell — common in bacon kept too long frozen."
+  ],
+  "tips": [
+   "Freeze rashers flat with paper between them so you can take one or two.",
+   "Label the freezer date; bacon's freezer window is unusually short.",
+   "Rewrap an opened pack tightly — air turns the fat first.",
+   "Cook straight from frozen over a lower heat rather than thawing."
+  ],
+  "faq": [
+   {
+    "q": "How long does uncured bacon keep in the fridge?",
+    "a": "4–7 days at 4 °C (40 °F) or below, opened or unopened."
+   },
+   {
+    "q": "Can you freeze uncured bacon?",
+    "a": "Yes, but only 3–4 weeks at −18 °C for good quality. The salted fat oxidises quickly, so it tastes stale long before it becomes unsafe."
+   },
+   {
+    "q": "Is uncured bacon actually nitrite-free?",
+    "a": "Usually not. \"Uncured\" generally means no synthetic sodium nitrite was added; celery powder or juice supplies nitrite naturally instead. It does not keep longer."
+   },
+   {
+    "q": "How can you tell if bacon has gone bad?",
+    "a": "Sliminess, a sour or sulphurous smell, grey-yellow fat, or a rancid paint-like note. Any of those means throw it out."
+   }
+  ]
+ },
+ "zh": {
+  "name": "無添加亞硝酸鹽培根",
+  "aliases": [
+   "無硝培根",
+   "天然醃製培根",
+   "uncured bacon",
+   "芹菜粉醃培根"
+  ],
+  "summary": "所謂「無添加亞硝酸鹽」的培根，是不加合成亞硝酸鈉的培根，通常用鹽醃，並常以芹菜粉或芹菜汁代替。冷藏可放 4～7 天，冷凍卻只有 3～4 週——比多數醃製肉品短得多。",
+  "pantry": "這種培根是冷藏生肉，完全沒有常溫保存這回事。少了添加的亞硝酸鹽，它的保護比一般培根更少，所以請當新鮮五花肉看待：買回來直接進冰箱，絕不放在外面。請守 2 小時原則，廚房超過 32 °C 時為 1 小時。早餐吃剩的熟培根也是熟肉，同樣要盡快冰回去。",
+  "fridge": "放 4 °C 以下，不論開封與否都在 4～7 天內用完。放最下層、用能接住滴液的容器裝，位置低於所有即食食品。真空包一拆開，請把培根片重新包緊或移到有蓋容器——最先變質的是脂肪，而元凶是空氣。標示上的「無硝」多半只代表沒有添加合成亞硝酸鈉：芹菜粉本身就會提供亞硝酸鹽，所以差別在成分表而不在化學，也不會讓它更耐放。",
+  "freezer": "這個數字特別值得注意：−18 °C 下只有 3～4 週，遠短於多數冷凍肉品。原因是脂肪。培根絕大部分是脂肪，而那些脂肪含鹽，鹽又會加速氧化，所以冷凍培根會在任何安全問題發生之前很久，就先變得油耗、走味。請分份壓平冷凍、片與片之間夾紙、密封包好並標上日期。−18 °C 下安全性是無限期的，這幾週純粹講品質。",
+  "thawing": "放冷藏隔夜解凍，或直接從冷凍以較小的火慢煎。培根不要放室溫解凍，生的也不要再次冷凍。",
+  "spoilage": [
+   "培根片表面變得黏滑。",
+   "聞起來發酸、有硫味或氨味，而不是煙燻鹹香。",
+   "脂肪轉為灰黃，或瘦肉由粉紅變成暗褐。",
+   "出現油耗、油漆般的氣味——冷凍過久的培根很常見。"
+  ],
+  "tips": [
+   "分片夾紙壓平冷凍，之後要幾片拿幾片。",
+   "務必標冷凍日期；培根的冷凍窗口短得不尋常。",
+   "拆封後重新包緊——最先變質的是接觸空氣的脂肪。",
+   "直接從冷凍以小火慢煎，不必先解凍。"
+  ],
+  "faq": [
+   {
+    "q": "無硝培根冷藏可以放多久？",
+    "a": "4 °C 以下 4～7 天，不論是否開封。"
+   },
+   {
+    "q": "培根可以冷凍嗎？",
+    "a": "可以，但品質上只有 −18 °C 下 3～4 週。含鹽的脂肪氧化很快，所以遠在變得不安全之前就先走味了。"
+   },
+   {
+    "q": "「無硝培根」真的沒有亞硝酸鹽嗎？",
+    "a": "多半不是。它通常只代表沒有添加合成亞硝酸鈉，而是由芹菜粉或芹菜汁提供天然亞硝酸鹽。保存期並不會更長。"
+   },
+   {
+    "q": "怎麼判斷培根壞掉了？",
+    "a": "表面黏滑、發酸或有硫味、脂肪轉灰黃，或出現油耗味。任何一項都直接丟棄。"
+   }
+  ]
+ }
+}

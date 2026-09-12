@@ -1,0 +1,91 @@
+{
+ "slug": "soy-milk",
+ "en": {
+  "name": "Soy milk",
+  "aliases": [
+   "soya milk",
+   "soybean milk",
+   "soy drink",
+   "doujiang"
+  ],
+  "summary": "Soy milk is ground soaked soybeans cooked and strained into a drink, sold chilled or in shelf-stable cartons. Keep it refrigerated and follow the use-by date on an unopened pack; once opened, use it within 7–10 days.",
+  "pantry": "An unopened aseptic carton keeps in a cool cupboard to its printed date, because it was sterilised and filled sealed. Chilled cartons must stay cold — follow the 2-hour rule, or 1 hour if the kitchen is above 32 °C (90 °F). Once opened, neither belongs in a cupboard. Freshly made soy milk from a breakfast shop or a home machine is a different thing again: it is a warm, low-acid, protein-rich liquid with no preservative, it sours within hours at room temperature, and it should be chilled fast and drunk the same day.",
+  "fridge": "Keep soy milk at 4 °C (40 °F) or below on an inside shelf rather than the door. Unopened chilled cartons run to the use-by date on the package. After opening, use it within 7–10 days with the cap closed and the carton upright. Soy milk separates and forms a skin as it stands, both of which are normal; shake it before pouring. It curdles in coffee for a reason unrelated to spoilage — the acidity and heat of the coffee destabilise the soy protein — so a curdled latte is not proof that the carton has turned.",
+  "freezer": "There is no published freezer timeline for soy milk, and freezing separates it: the protein and fat come out of suspension and the thawed drink is grainy and watery in a way that shaking will not fully fix. If you have to, freeze it at −18 °C (0 °F) in a container with headspace and use it in cooking, baking or a smoothie. It is better to buy a size you will finish, or to make less at a time.",
+  "thawing": "Thaw in the fridge, never on the counter, and blend or shake hard. Use it in cooking rather than drinking it straight, and do not refreeze.",
+  "spoilage": [
+   "A sour, sharp or yeasty smell instead of a clean beany one.",
+   "Lumps or curdled strands in the carton that do not shake out.",
+   "A swollen carton, or a fizz and hiss on opening.",
+   "A slimy, ropy pour, or mould around the spout."
+  ],
+  "tips": [
+   "Write the opening date on the carton.",
+   "Shake before every pour; separation and a skin are normal.",
+   "Never drink from the carton if you are keeping the rest.",
+   "Drink freshly made soy milk the same day and chill it fast."
+  ],
+  "faq": [
+   {
+    "q": "How long does soy milk last after opening?",
+    "a": "About 7–10 days at 4 °C (40 °F) or below, kept closed and upright."
+   },
+   {
+    "q": "Does soy milk need to be refrigerated?",
+    "a": "Chilled cartons do, and unopened ones go by the use-by date. Aseptic shelf-stable cartons can stay in the cupboard until opened."
+   },
+   {
+    "q": "Can you freeze soy milk?",
+    "a": "There is no established timeline. It separates badly, so freeze it only for cooking or baking, at −18 °C with headspace in the container."
+   },
+   {
+    "q": "Why does soy milk curdle in coffee?",
+    "a": "The acidity and heat of the coffee destabilise the soy protein. It is a chemistry problem, not a sign that the milk has gone off."
+   }
+  ]
+ },
+ "zh": {
+  "name": "豆漿",
+  "aliases": [
+   "豆奶",
+   "黃豆漿",
+   "soy milk",
+   "植物奶"
+  ],
+  "summary": "豆漿是黃豆泡軟磨碎、煮熟過濾而成的飲品，市面上有冷藏與常溫利樂包兩種。請冷藏保存，未開封以包裝有效日期為準；開封後請在 7～10 天內喝完。",
+  "pantry": "未開封的無菌利樂包可以放陰涼櫥櫃到標示日期，因為它經過滅菌並密封充填。冷藏包裝則必須保冷——請守 2 小時原則（廚房超過 32 °C 時為 1 小時）。一旦開封，兩種都不能放櫥櫃。早餐店或豆漿機現做的又是另一回事：那是溫熱、低酸、蛋白質豐富又完全沒有防腐的液體，在室溫下幾個小時就會發酸，必須迅速降溫並當天喝完。",
+  "fridge": "放在 4 °C 以下的內側層架，不要放門邊。未開封的冷藏包裝以有效日期為準。開封後請在 7～10 天內喝完，蓋子關緊、盒身直立。豆漿靜置會分層、表面也會結一層皮，兩者都正常，倒之前搖勻即可。它在咖啡裡結絮的原因和變質無關——是咖啡的酸度和溫度讓大豆蛋白失去穩定——所以拿鐵結絮並不代表那盒豆漿壞了。",
+  "freezer": "豆漿沒有公告的冷凍期限，而且冷凍會讓它分離：蛋白質和油脂脫離懸浮狀態，解凍後又粗又水，搖也搖不回來。真的要凍，請放 −18 °C、容器留膨脹空間，之後用於料理、烘焙或果昔。比較好的做法是買喝得完的容量，或一次少做一點。",
+  "thawing": "放冷藏解凍，不要放室溫，之後用力搖勻或打勻。建議用於料理而不是直接喝，也不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸、刺鼻或有酵母味，而不是乾淨的豆香。",
+   "盒內出現搖不散的結塊或凝絮。",
+   "包裝鼓脹，或開封時冒泡、有嘶聲。",
+   "倒出來黏稠牽絲，或吸嘴周圍長霉。"
+  ],
+  "tips": [
+   "在盒身寫上開封日期。",
+   "每次倒之前搖一搖；分層和結皮都是正常的。",
+   "還要留著喝的話，不要直接對著盒口喝。",
+   "現做豆漿請快速降溫並當天喝完。"
+  ],
+  "faq": [
+   {
+    "q": "豆漿開封後可以放多久？",
+    "a": "蓋緊直立放 4 °C 以下，大約 7～10 天。"
+   },
+   {
+    "q": "豆漿一定要冷藏嗎？",
+    "a": "冷藏包裝一定要，未開封以有效日期為準。無菌常溫利樂包在開封前可放櫥櫃。"
+   },
+   {
+    "q": "豆漿可以冷凍嗎？",
+    "a": "沒有既定期限。它分離得厲害，只建議冷凍後用於料理或烘焙，放 −18 °C 並留膨脹空間。"
+   },
+   {
+    "q": "豆漿加咖啡為什麼會結絮？",
+    "a": "咖啡的酸度和溫度讓大豆蛋白失去穩定。那是化學問題，不代表豆漿壞掉。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "slug": "tea-egg",
+ "en": {
+  "name": "Tea egg",
+  "aliases": [
+   "marbled egg",
+   "cha ye dan",
+   "tea-simmered egg",
+   "braised tea egg"
+  ],
+  "summary": "A tea egg is a hard-cooked egg with its shell cracked all over and simmered in tea, soy and spices until the marbling soaks through. Keep it in its braise at 4 °C or below and eat within about 1 week, reheating before serving.",
+  "pantry": "This is the part people get wrong. A tea egg is a cooked egg with a cracked shell sitting in warm liquid, which is a poor combination: the shell is no longer a barrier and the braise is warm and low in acid. Cooked egg dishes are held hot at 60 °C or above, or cold at 4 °C (40 °F) or below, and never in between. The convenience-store pot is held deliberately hot all day, which is legitimate; a pot left to cool on your counter has passed through the danger zone and is not safe to keep. Get the eggs into the fridge within 2 hours of cooking, or 1 hour if the kitchen is above 32 °C (90 °F).",
+  "fridge": "Keep the eggs submerged in their braise in a covered box at 4 °C (40 °F) or below, and use them within about 1 week. That figure is borrowed from what is published for hard-boiled eggs, since no authority publishes one for tea eggs. Reheat them before eating rather than serving them cold from the box — a quick simmer in their own liquid does it, and it also deepens the flavour. Lift them out with clean chopsticks and do not return an egg that has been on a plate.",
+  "freezer": "There is no freezer timeline for tea eggs, and freezing them is a poor idea. A cooked egg white freezes into something rubbery and weeping because the protein network tightens and squeezes the water out, and the cracked shell makes it worse. If you have made too many, share them or scale the batch down; the braise itself can be strained, boiled and frozen ready for the next lot.",
+  "thawing": null,
+  "spoilage": [
+   "A sour or fermented smell from the braise rather than a tea-and-spice one.",
+   "A slimy, ropy film on the eggs or threads in the liquid.",
+   "Bubbles or fizzing in a cold container.",
+   "White or fuzzy growth on an egg, or a grey slimy white under the shell."
+  ],
+  "tips": [
+   "Cool the pot fast in a sink of cold water before refrigerating.",
+   "Make a batch you will get through in a week.",
+   "Reheat to serve rather than eating them straight from the fridge.",
+   "Never buy a tea egg from a pot that is merely warm."
+  ],
+  "faq": [
+   {
+    "q": "How long do tea eggs keep in the fridge?",
+    "a": "About 1 week at 4 °C or below, submerged in their braise in a covered box."
+   },
+   {
+    "q": "Can you leave a pot of tea eggs out overnight?",
+    "a": "No. Cooked eggs are held hot at 60 °C or above or cold at 4 °C or below. A pot cooling on the counter has been through the danger zone and should not be kept."
+   },
+   {
+    "q": "Can you freeze tea eggs?",
+    "a": "There is no timeline for it and it is not worth doing. Cooked egg white turns rubbery and weeps water after freezing."
+   },
+   {
+    "q": "Do convenience-store tea eggs sit out all day safely?",
+    "a": "They are held deliberately hot, at 60 °C or above, which is a legitimate method. A pot at room temperature is not the same thing."
+   }
+  ]
+ },
+ "zh": {
+  "name": "茶葉蛋",
+  "aliases": [
+   "茶蛋",
+   "滷茶葉蛋",
+   "五香茶葉蛋",
+   "大理石蛋"
+  ],
+  "summary": "茶葉蛋是水煮蛋敲裂蛋殼後，用茶葉、醬油和香料慢煮到花紋滲入的蛋。連同滷汁放 4 °C 以下，約 1 週內吃完，吃之前先加熱。",
+  "pantry": "這正是最多人做錯的地方。茶葉蛋是一顆蛋殼已經裂開、又泡在溫熱液體裡的熟蛋，這個組合很不妙：蛋殼不再是屏障，滷汁又溫又低酸。熟蛋料理的原則是熱存 60 °C 以上、冷藏 4 °C 以下，中間地帶不行。便利商店那鍋是刻意整天保持高溫的，那是合規做法；你家流理臺上慢慢放涼的那一鍋則已經走過危險溫度帶，不該再留。煮好後 2 小時內就要冰起來，廚房超過 32 °C 時縮短為 1 小時。",
+  "fridge": "整顆浸在滷汁裡、加蓋放 4 °C 以下，約 1 週內吃完。這個數字借自水煮蛋的公告值，因為沒有任何機關公告過茶葉蛋的期限。吃之前請加熱，不要直接從盒子裡拿冷的吃——連湯汁滾一下就好，順便更入味。用乾淨的筷子夾，已經放過盤子的就不要再放回去。",
+  "freezer": "茶葉蛋沒有冷凍期限，冷凍也不是好主意。熟蛋白冷凍後會變成又橡皮又出水的東西，因為蛋白質網絡收緊把水擠出來，而裂開的蛋殼只會讓情況更糟。煮太多的話就分送出去或下次少煮一點；滷汁本身倒是可以過濾煮沸後冷凍，留給下一鍋。",
+  "thawing": null,
+  "spoilage": [
+   "滷汁聞起來發酸或有發酵味，而不是茶香與滷香。",
+   "蛋表面黏滑、滷汁牽絲。",
+   "冷藏狀態下容器裡冒泡或有嘶聲。",
+   "蛋面長出白色或絨毛狀的霉，或剝開後蛋白灰白黏滑。"
+  ],
+  "tips": [
+   "整鍋先放冷水盆快速降溫再進冰箱。",
+   "煮一週內吃得完的量。",
+   "吃之前加熱，不要直接吃冰的。",
+   "外面那鍋只是「溫溫的」的茶葉蛋，不要買。"
+  ],
+  "faq": [
+   {
+    "q": "茶葉蛋放冰箱可以放多久？",
+    "a": "浸在滷汁裡、加蓋放 4 °C 以下，大約 1 週。"
+   },
+   {
+    "q": "整鍋茶葉蛋可以放室溫過夜嗎？",
+    "a": "不行。熟蛋要熱存 60 °C 以上或冷藏 4 °C 以下。在流理臺上放涼的那鍋已經走過危險溫度帶，不該再留。"
+   },
+   {
+    "q": "茶葉蛋可以冷凍嗎？",
+    "a": "沒有對應期限，也不值得。熟蛋白冷凍後會變橡皮並出水。"
+   },
+   {
+    "q": "便利商店的茶葉蛋放一整天為什麼可以？",
+    "a": "因為它是刻意保持在 60 °C 以上熱存，那是合規的方法。室溫下的一鍋則完全不同。"
+   }
+  ]
+ }
+}

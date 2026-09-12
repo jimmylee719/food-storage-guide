@@ -1,0 +1,91 @@
+{
+ "slug": "comte",
+ "en": {
+  "name": "Comté",
+  "aliases": [
+   "Comte",
+   "Gruyère de Comté",
+   "alpine cheese",
+   "French hard cheese"
+  ],
+  "summary": "Comté is a cooked, pressed, long-aged cheese from the Jura, made in wheels big enough to carry a summer's milk through an alpine winter. An unopened vacuum-packed piece keeps 4–6 months in the fridge; once opened, 3–4 weeks. It can be frozen for 6 months, though it is rather a waste.",
+  "pantry": "Comté is not a room-temperature cheese for storage, only for serving. Its low moisture and long maturation make it robust, but a warm kitchen sweats fat out of the paste and softens the texture that ageing built. Take out the piece you want an hour before eating, which is genuinely how it tastes best, and put the rest back cold. Do not leave a wedge on the board overnight.",
+  "fridge": "Unopened and vacuum-packed, Comté keeps 4–6 months at 4 °C (40 °F) or below — a cooked, pressed cheese with low moisture really does this. Once opened, give it 3–4 weeks. Wrap it in waxed or greaseproof paper rather than clingfilm, and change the paper every few days: a cut face left airtight against plastic sweats and grows mould much faster than one allowed to breathe inside a box. The white crystalline crunch in a well-aged piece is tyrosine, an amino acid, not a fault.",
+  "freezer": "Comté freezes for 6 months at −18 °C (0 °F), but it is close to pointless for a cheese this good — freezing makes it crumbly and flattens the nutty, fruity notes you paid for. If you are going to do it, grate it first and freeze the gratings flat in a bag, so you can take out what a gratin needs. Frozen food stays safe indefinitely at −18 °C; the timeline is about quality.",
+  "thawing": "Thaw it in the fridge, wrapped, and use it cooked — melted into a sauce, a gratin or a toastie. Do not refreeze it.",
+  "spoilage": [
+   "Fuzzy grey, pink, black or green growth on the cut face or the rind.",
+   "A cut face that has gone slimy or wet rather than simply dry.",
+   "An ammonia or sour smell instead of the usual nutty, brothy one.",
+   "A bitter or soapy taste."
+  ],
+  "tips": [
+   "Buy a thick wedge rather than thin slices; it keeps far better.",
+   "Waxed paper in a loosely closed box is the best home for it.",
+   "Grate the dry end of an old piece rather than throwing it away.",
+   "Save the rind for a stock or a soup — it is not meant to be eaten raw."
+  ],
+  "faq": [
+   {
+    "q": "How long does Comté keep in the fridge?",
+    "a": "About 4–6 months unopened and vacuum-packed, and 3–4 weeks once opened, at 4 °C (40 °F) or below."
+   },
+   {
+    "q": "Can you freeze Comté?",
+    "a": "Yes, about 6 months at −18 °C, but it comes out crumbly and duller. Grate it before freezing and use it for cooking."
+   },
+   {
+    "q": "Can you cut the mould off a hard cheese and eat the rest?",
+    "a": "That is the folk rule, but the published food-safety position we follow is more cautious: mould hyphae can run deeper than the patch you can see, so discard mouldy cheese rather than trimming it."
+   },
+   {
+    "q": "What are the white crunchy bits in Comté?",
+    "a": "Tyrosine crystals, formed as the proteins break down during long ageing. They are a sign of maturity, not spoilage."
+   }
+  ]
+ },
+ "zh": {
+  "name": "康堤乳酪",
+  "aliases": [
+   "康堤起司",
+   "孔泰乳酪",
+   "法國硬質乳酪",
+   "阿爾卑斯乳酪"
+  ],
+  "summary": "康堤是法國侏羅山區的熟成硬質乳酪，經過加溫、壓製與長時間熟成，一整輪的大小本來就是為了把夏天的牛奶帶過高山的冬天。未開封的真空包冷藏可放 4～6 個月；開封後 3～4 週。冷凍可放 6 個月，但那有點浪費。",
+  "pantry": "康堤不是可以常溫保存的乳酪，室溫只用來回溫上桌。它水分低、熟成久，確實比多數乳酪耐放，但溫暖的廚房會讓油脂滲出、質地變軟，那正是熟成辛苦建立起來的東西。要吃之前一小時把那一塊拿出來回溫（這也真的最好吃），其餘包好冰回去。不要把整塊留在起司盤上過夜。",
+  "fridge": "未開封的真空包放 4 °C 以下可以放 4～6 個月——一塊加溫壓製、水分又低的乳酪真的做得到。開封之後請以 3～4 週為限。用蠟紙或防油紙包，不要用保鮮膜，而且每隔幾天換一次紙：切面被塑膠膜緊貼密封會出汗，長霉的速度遠比放在盒子裡讓它呼吸來得快。熟成夠久的康堤裡那種白色結晶顆粒是酪胺酸，是胺基酸，不是瑕疵。",
+  "freezer": "康堤在 −18 °C 下可以放 6 個月，但對這種等級的乳酪來說幾乎沒有意義——冷凍會讓它變得碎散，也把你花錢買的堅果與果香壓平。真要冷凍，請先刨成絲、壓平裝袋，之後要做焗烤時取用多少拿多少。−18 °C 下食品安全性是無限期的，期限講的是品質。",
+  "thawing": "連包裝放冷藏解凍，解凍後用在加熱料理——做醬汁、焗烤或熱三明治。不要再次冷凍。",
+  "spoilage": [
+   "切面或外皮長出灰、粉紅、黑或綠色的絨毛狀霉。",
+   "切面變得黏滑潮濕，而不只是乾掉。",
+   "出現氨味或酸味，而不是原本的堅果與高湯香。",
+   "吃起來發苦或有肥皂味。"
+  ],
+  "tips": [
+   "買厚塊而不是薄片，耐放很多。",
+   "蠟紙包好、放進不完全密閉的盒子，是它最好的住處。",
+   "老掉的那一端刨絲用掉，不要整塊丟。",
+   "外皮留著熬湯，不要直接生吃。"
+  ],
+  "faq": [
+   {
+    "q": "康堤乳酪冷藏可以放多久？",
+    "a": "未開封真空包在 4 °C 以下約 4～6 個月，開封後約 3～4 週。"
+   },
+   {
+    "q": "康堤可以冷凍嗎？",
+    "a": "可以，−18 °C 下約 6 個月，但會變碎、風味變鈍。冷凍前先刨絲，並用於加熱料理。"
+   },
+   {
+    "q": "硬質乳酪長霉可以切掉繼續吃嗎？",
+    "a": "那是民間說法。我們採用的公告立場比較保守：霉的菌絲可能比看得見的斑塊更深入食物，所以長霉的乳酪請整塊丟棄，不要只切掉表面。"
+   },
+   {
+    "q": "康堤裡白色的顆粒是什麼？",
+    "a": "是酪胺酸結晶，長時間熟成中蛋白質分解形成的。那是熟成度的象徵，不是壞掉。"
+   }
+  ]
+ }
+}

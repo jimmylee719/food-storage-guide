@@ -1,0 +1,91 @@
+{
+ "slug": "yellowtail-buri",
+ "en": {
+  "name": "Yellowtail",
+  "aliases": [
+   "buri",
+   "hamachi",
+   "Japanese amberjack",
+   "seriola"
+  ],
+  "summary": "Yellowtail — buri when mature, hamachi when young and farmed — is a rich, oily fish sold as fillets and steaks. Fresh it keeps 1–2 days in the fridge and 2–3 months in the freezer. It is one of the histamine species, so temperature control matters more here than for a white fish.",
+  "pantry": "Yellowtail should never sit at room temperature. It is among the histidine-rich species linked to histamine, or scombroid, poisoning: bacteria convert histidine in the flesh into histamine whenever the fish is warm, and histamine is heat-stable — once formed, cooking and freezing will not remove it, and the fish may look and smell entirely normal. Keep it cold from the counter to the fridge, and follow the 2-hour rule, or 1 hour above 32 °C (90 °F).",
+  "fridge": "Keep the fillet on a rack over ice in the coldest part of the fridge at 4 °C (40 °F) or below, in a container that catches the melt water, and cook it within 1–2 days. Leave the bloodline in place while it stores and trim it before cooking; it is the fastest part to oxidise. If you are eating it raw, buy fish sold for raw eating, keep it on ice, and eat it on the day it is cut — raw fish is not advised for pregnant, elderly, very young or immunocompromised people. Store it below anything ready to eat.",
+  "freezer": "Yellowtail keeps 2–3 months at −18 °C (0 °F), the short window that goes with a fatty fish, because the oil oxidises long before lean flesh would. Freeze it in portions — the belly cut is the fattiest and is the first to taste stale, so use those first — wrapped tightly with no air pockets or ice-glazed. Frozen food stays safe indefinitely at −18 °C; the months are about quality. Freezing does nothing about histamine formed before the fish went in.",
+  "thawing": "Thaw in the fridge overnight on a plate, or in a sealed bag under cold running water. Never on the counter or in warm water. Cook it promptly and do not refreeze raw fish.",
+  "spoilage": [
+   "A sour or ammoniacal smell instead of a clean, rich sea one.",
+   "Flesh that stays dented when pressed rather than springing back.",
+   "The bloodline gone brown and spreading into the pale flesh.",
+   "A rancid, paint-like smell, or a dull grey cast to a cut surface."
+  ],
+  "tips": [
+   "Cook or eat the belly cuts first; they go stale before the loin.",
+   "Trim the bloodline at cooking time, not at storage time.",
+   "Take a cool bag; with this fish the warm hour is the risk you cannot smell.",
+   "Freeze in single portions the day you buy it."
+  ],
+  "faq": [
+   {
+    "q": "How long does yellowtail keep in the fridge?",
+    "a": "1–2 days at 4 °C (40 °F) or below, on a rack over ice."
+   },
+   {
+    "q": "Can you freeze yellowtail?",
+    "a": "Yes, 2–3 months at −18 °C. It is oily, so wrap it tightly or ice-glaze it and use the belly cuts first."
+   },
+   {
+    "q": "Why is yellowtail a histamine risk?",
+    "a": "It is rich in histidine, which bacteria convert to histamine when the fish is warm. Histamine survives cooking and freezing, so continuous chilling is the only control."
+   },
+   {
+    "q": "Can you eat yellowtail raw?",
+    "a": "Only fish sold for raw eating, kept cold throughout and eaten the day it is cut. It is not advised for pregnant, elderly or immunocompromised people."
+   }
+  ]
+ },
+ "zh": {
+  "name": "鰤魚",
+  "aliases": [
+   "青甘",
+   "青魽",
+   "はまち",
+   "ぶり"
+  ],
+  "summary": "鰤魚（成魚稱 buri，年輕養殖個體稱 hamachi）是油脂豐厚的魚，多以魚片或魚排販售。新鮮的冷藏可放 1～2 天，冷凍 2～3 個月。它屬於組織胺魚種，所以溫度管理比白肉魚更關鍵。",
+  "pantry": "鰤魚絕不該放在室溫。它屬於與組織胺（鯖魚毒素）中毒相關的高組胺酸魚種：魚體一溫暖，細菌就會把魚肉裡的組胺酸轉成組織胺，而組織胺耐熱——一旦生成，加熱和冷凍都去不掉，而且魚的外觀和氣味可能完全正常。請從櫃檯到冰箱全程保冷，並守 2 小時原則，室溫超過 32 °C 時為 1 小時。",
+  "fridge": "魚片架在網架上、下面鋪冰，放冰箱最冷的位置、4 °C 以下，容器要能接住融水，並在 1～2 天內煮掉。保存時把血合肉留著，下鍋前再修掉；那是最快氧化的部位。要生食的話，請買標示可生食的魚貨、鋪冰保存，並在切開當天吃完——生魚不建議孕婦、長者、幼童與免疫力低下者食用。位置要低於所有即食食品。",
+  "freezer": "鰤魚在 −18 °C 下可放 2～3 個月，這是油脂魚該有的短區間，因為油脂氧化得遠比瘦肉快。請分份冷凍——腹部是最肥的部位，也最先出現陳味，請優先用掉——包緊不留空氣，或做冰鍍。−18 °C 下安全性是無限期的，月數講的是品質。另外，冷凍對「進冷凍庫前就生成的組織胺」毫無作用。",
+  "thawing": "放盤子上冷藏隔夜解凍，或密封裝袋用冷水沖。不要放室溫或泡溫水。解凍後盡快烹調，生魚不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸或有氨味，而不是乾淨濃郁的海味。",
+   "按壓後凹陷回不來，而不是有彈性。",
+   "血合肉轉褐並往淡色魚肉蔓延。",
+   "出現油耗、油漆般的氣味，或切面泛暗灰。"
+  ],
+  "tips": [
+   "先吃或先煮腹部；它比背肉更早出現陳味。",
+   "血合肉在下鍋前才修，不要在保存前修掉。",
+   "帶保冷袋；這種魚最大的風險是你聞不出來的那個溫暖小時。",
+   "買回來當天就分成單份冷凍。"
+  ],
+  "faq": [
+   {
+    "q": "鰤魚冷藏可以放多久？",
+    "a": "架在網架上鋪冰、放 4 °C 以下，1～2 天。"
+   },
+   {
+    "q": "鰤魚可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2～3 個月。它含油，請包緊或做冰鍍，並優先用掉腹部。"
+   },
+   {
+    "q": "鰤魚為什麼有組織胺風險？",
+    "a": "它組胺酸含量高，魚體溫暖時細菌會把它轉成組織胺。組織胺耐得住加熱和冷凍，所以持續低溫是唯一的控制手段。"
+   },
+   {
+    "q": "鰤魚可以生吃嗎？",
+    "a": "只有標示可生食、全程低溫並在切開當天吃完才行。不建議孕婦、長者與免疫力低下者食用。"
+   }
+  ]
+ }
+}

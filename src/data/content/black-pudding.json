@@ -1,0 +1,91 @@
+{
+ "slug": "black-pudding",
+ "en": {
+  "name": "Black pudding",
+  "aliases": [
+   "blood sausage",
+   "blood pudding",
+   "boudin noir",
+   "Blutwurst"
+  ],
+  "summary": "Black pudding is blood, fat and cereal cooked in a casing — already cooked when you buy it, but not cured or preserved in any meaningful way. From the butcher it keeps 2–3 days in the fridge; a vacuum pack keeps to its date and 3–5 days once opened. Frozen, 1–2 months.",
+  "pantry": "Black pudding is a chilled food and has no cupboard life. It contains blood and cereal and almost no salt or acid by cured-meat standards, so nothing about it is preserved: it is a fresh cooked sausage that happens to be dark. Keep it at 4 °C (40 °F) or below, follow the 2-hour rule when it is out, or 1 hour above 32 °C (90 °F), and always fry or grill it through before eating, even though it was cooked at the maker.",
+  "fridge": "A chilled ring or slice from a butcher keeps 2–3 days at 4 °C (40 °F) or below, in its casing — that is the published figure for fresh or smoked sausage and the right bracket here. A vacuum-packed supermarket ring keeps to its printed date while sealed; once opened, wrap it and use it within 3–5 days. Cooked slices left over from breakfast are a cooked meat dish and keep 3–4 days at 4 °C or below. Store it on a lower shelf where it cannot drip on anything, and keep it wrapped: black pudding picks up and gives off strong smells.",
+  "freezer": "Black pudding freezes well for 1–2 months at −18 °C (0 °F), a figure borrowed from what is published for fully cooked smoked sausage. Slice it before freezing rather than freezing the ring whole, interleave the slices with paper, and bag them flat — that way you can take out two slices for a breakfast instead of thawing the lot. Fry the slices straight from frozen over a lower heat so the outside does not scorch before the middle is hot. Frozen food stays safe indefinitely at −18 °C; the months are about quality.",
+  "thawing": "Cook slices straight from frozen over a moderate heat, or thaw them in the fridge overnight. Never thaw on the counter, and do not refreeze once cooked from frozen.",
+  "spoilage": [
+   "A slimy or sticky casing, or slime on a cut face.",
+   "A sour or putrid smell rather than a savoury, faintly metallic one.",
+   "Any mould on the casing or the cut end.",
+   "A swollen vacuum pack, or grey-green patches in the filling."
+  ],
+  "tips": [
+   "Slice before freezing so you can cook two pieces at a time.",
+   "Fry from frozen over a lower heat; high heat scorches the outside.",
+   "Wrap it well — it flavours everything near it in the fridge.",
+   "Cook it through even though it was cooked when you bought it."
+  ],
+  "faq": [
+   {
+    "q": "How long does black pudding keep in the fridge?",
+    "a": "2–3 days from a butcher's counter at 4 °C or below. A vacuum pack keeps to its printed date sealed, and 3–5 days once opened."
+   },
+   {
+    "q": "Can you freeze black pudding?",
+    "a": "Yes, 1–2 months at −18 °C. Slice it first, interleave with paper, and fry the slices from frozen."
+   },
+   {
+    "q": "Is black pudding already cooked?",
+    "a": "Yes, but it is not cured or preserved — it is a fresh cooked sausage. Always fry or grill it through before eating."
+   },
+   {
+    "q": "How long do cooked black pudding leftovers keep?",
+    "a": "Treat them as a cooked meat dish: 3–4 days at 4 °C or below, covered."
+   }
+  ]
+ },
+ "zh": {
+  "name": "英式血腸",
+  "aliases": [
+   "black pudding",
+   "黑布丁",
+   "血腸",
+   "血糕腸"
+  ],
+  "summary": "英式血腸是血、油脂和穀物灌進腸衣煮熟的香腸，買到時就已經是熟的，但完全談不上醃製或保存。肉舖現切的冷藏可放 2～3 天；真空包未開封依標示日期，開封後 3～5 天。冷凍 1～2 個月。",
+  "pantry": "血腸是冷藏食品，沒有櫥櫃保存這回事。它含血和穀物，以醃製肉品的標準來說幾乎不含鹽也不含酸，所以裡面沒有任何東西在「保存」它：它就是一條顏色很深的新鮮熟香腸。請放 4 °C 以下，離開冰箱後守 2 小時原則（超過 32 °C 時為 1 小時），而且即使它在工廠就煮過了，吃之前仍然要煎或烤透。",
+  "fridge": "肉舖買的冷藏血腸連腸衣放 4 °C 以下可存 2～3 天——這是「生鮮或煙燻香腸」的公告值，用在這裡量級正確。超市的真空包未開封時依標示日期；一旦開封，包好並在 3～5 天內用完。早餐吃剩的熟血腸片屬於熟肉料理，在 4 °C 以下可放 3～4 天。請放在較低層、不會滴到別的東西的位置，並且包好：血腸既會吸味也會散味。",
+  "freezer": "血腸很耐凍，在 −18 °C 下 1～2 個月，這個數字借自「全熟煙燻香腸」的公告值。請先切片再冷凍，不要整條凍，片與片之間夾紙、壓平裝袋——這樣早餐要煎兩片就拿兩片，不必解凍一整條。直接從冷凍以較小的火慢煎，外層才不會在中心熱透前就焦掉。−18 °C 下安全性是無限期的，月數講的是品質。",
+  "thawing": "切片直接從冷凍以中小火煎，或放冷藏隔夜解凍。不要放室溫解凍；從冷凍煎過的也不要再冷凍。",
+  "spoilage": [
+   "腸衣或切面變得黏滑。",
+   "聞起來發酸或腐臭，而不是帶點金屬味的鹹香。",
+   "腸衣或切口長霉。",
+   "真空包鼓脹，或內餡出現灰綠色斑塊。"
+  ],
+  "tips": [
+   "冷凍前先切片，之後要煎幾片拿幾片。",
+   "從冷凍以小火慢煎；大火會讓外層先焦。",
+   "包好——它會讓冰箱裡旁邊的東西都變味。",
+   "即使買來就是熟的，吃之前還是要煎透。"
+  ],
+  "faq": [
+   {
+    "q": "血腸冷藏可以放多久？",
+    "a": "肉舖買的在 4 °C 以下 2～3 天。真空包未開封依標示日期，開封後 3～5 天。"
+   },
+   {
+    "q": "血腸可以冷凍嗎？",
+    "a": "可以，−18 °C 下 1～2 個月。先切片、中間夾紙，直接從冷凍下鍋煎。"
+   },
+   {
+    "q": "血腸買來是熟的嗎？",
+    "a": "是熟的，但它沒有經過醃製或保存處理——它就是一條新鮮熟香腸。吃之前一定要煎或烤透。"
+   },
+   {
+    "q": "煎過的血腸剩下來可以放多久？",
+    "a": "當成熟肉料理看待：加蓋放 4 °C 以下 3～4 天。"
+   }
+  ]
+ }
+}

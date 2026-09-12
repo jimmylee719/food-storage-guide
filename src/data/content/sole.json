@@ -1,0 +1,91 @@
+{
+ "slug": "sole",
+ "en": {
+  "name": "Sole",
+  "aliases": [
+   "Dover sole",
+   "lemon sole",
+   "tongue sole",
+   "lenguado"
+  ],
+  "summary": "Sole is a lean flatfish with fine, sweet flesh and very thin fillets. From purchase it keeps 1–2 days in the fridge and 6–8 months in the freezer.",
+  "pantry": "Sole does not keep at room temperature. Thin flatfish fillets have a great deal of surface for very little weight and almost nothing to buffer them, so they go slack within an hour or two in a warm kitchen. Bring it home cold and follow the 2-hour rule, or 1 hour if it is above 32 °C (90 °F). Whole Dover sole is traditionally rested a day or two before cooking, but that resting happens on ice in a chiller, not on a counter.",
+  "fridge": "Keep sole at 4 °C (40 °F) or below, on a rack over ice in a container that catches the melt water, and cook it within 1–2 days from purchase. Do not let the fillets sit in liquid — thin flatfish flesh takes up water and goes mushy quickly. A whole sole keeps a little better than fillets because the skin and frame protect the flesh, and it is easier to judge for freshness. Store it in a single layer on the bottom shelf, below anything ready to eat.",
+  "freezer": "Sole keeps 6–8 months at −18 °C (0 °F), a long window for such a delicate fish, thanks to how little fat it carries. Freeze fillets flat, separated by baking paper so you can take one at a time, wrapped airtight with no air pockets or ice-glazed first. Frozen food stays safe indefinitely at −18 °C; the months are about quality, and a thin fillet dries out sooner than a thick one if the wrapping is poor.",
+  "thawing": "Thaw in the fridge on a plate — thin fillets take only a few hours — or cook them straight from frozen in a hot pan. Never thaw on the counter, and do not refreeze raw fish.",
+  "spoilage": [
+   "A sour or ammoniacal smell instead of a clean, sweet one.",
+   "Flesh that stays dented when pressed rather than springing back.",
+   "A milky or sticky film on the fillet, or liquid pooling underneath.",
+   "Grey or yellowing edges, and flesh that tears when lifted."
+  ],
+  "tips": [
+   "Buy whole if you are not cooking today; the frame protects the flesh.",
+   "Keep fillets on a rack, never in melt water.",
+   "Interleave fillets with paper before freezing.",
+   "Cook from frozen if you forgot to thaw — thin sole copes very well."
+  ],
+  "faq": [
+   {
+    "q": "How long does sole keep in the fridge?",
+    "a": "1–2 days from purchase at 4 °C (40 °F) or below, on ice and not sitting in water."
+   },
+   {
+    "q": "Can you freeze sole?",
+    "a": "Yes, 6–8 months at −18 °C. Freeze fillets flat and airtight, with paper between them."
+   },
+   {
+    "q": "Should Dover sole be rested before cooking?",
+    "a": "Traditionally yes, for a day or two — but on ice in a chiller, never at room temperature, and within the same fridge window."
+   },
+   {
+    "q": "How can you tell if sole has gone off?",
+    "a": "A sour or ammoniacal smell, a milky film on the surface, or flesh that will not spring back when pressed."
+   }
+  ]
+ },
+ "zh": {
+  "name": "鰨魚",
+  "aliases": [
+   "龍脷",
+   "舌鰨",
+   "多佛比目魚",
+   "sole"
+  ],
+  "summary": "鰨魚是低脂扁身魚，肉質細緻清甜，魚片非常薄。從購買日起冷藏可放 1～2 天，冷凍 6～8 個月。",
+  "pantry": "鰨魚不耐室溫。薄的扁身魚片相對於重量有極大的表面積，也幾乎沒有任何緩衝，在溫暖的廚房裡一兩個小時就鬆軟了。請保冷帶回家，守 2 小時原則，室溫超過 32 °C 時為 1 小時。整條多佛鰨傳統上會先靜置一兩天再煮，但那是在冷藏櫃的冰上靜置，不是放在流理臺上。",
+  "fridge": "架在網架上、下面鋪冰，容器要能接住融水，放 4 °C 以下，並在購買後 1～2 天內煮掉。不要讓魚片泡在液體裡——薄的扁魚肉吸水後很快變糊。整條比魚片略耐放，因為魚皮和骨架保護著魚肉，也比較好判斷新鮮度。單層平放在最下層，位置低於所有即食食品。",
+  "freezer": "鰨魚在 −18 °C 下可放 6～8 個月，對這麼細緻的魚來說算長，原因就是它含脂極低。魚片壓平、中間夾烘焙紙好分開，包緊不留空氣或先做冰鍍。−18 °C 下安全性是無限期的，月數講的是品質；包裝不確實的話，薄魚片會比厚的更快變乾。",
+  "thawing": "放盤子上冷藏解凍，薄魚片幾小時就好；也可以直接從冷凍下熱鍋。不要放室溫解凍，生魚不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸或有氨味，而不是乾淨清甜的魚味。",
+   "按壓後凹陷回不來，而不是有彈性。",
+   "魚片表面出現乳白黏膜，或下方積水。",
+   "邊緣泛灰泛黃，拿起來就散。"
+  ],
+  "tips": [
+   "今天不煮就買整條；骨架會保護魚肉。",
+   "魚片架在網架上，不要泡融水。",
+   "冷凍前魚片之間夾紙。",
+   "忘了解凍就直接下鍋——薄的鰨魚完全沒問題。"
+  ],
+  "faq": [
+   {
+    "q": "鰨魚冷藏可以放多久？",
+    "a": "鋪冰、不泡水，放 4 °C 以下，從購買日起 1～2 天。"
+   },
+   {
+    "q": "鰨魚可以冷凍嗎？",
+    "a": "可以，−18 °C 下 6～8 個月。魚片壓平密封，中間夾紙。"
+   },
+   {
+    "q": "多佛鰨要先靜置再煮嗎？",
+    "a": "傳統上會靜置一兩天，但那是在冷藏櫃的冰上，絕不是室溫，而且仍在同一個冷藏期限之內。"
+   },
+   {
+    "q": "怎麼判斷鰨魚不新鮮了？",
+    "a": "發酸或氨味、表面乳白黏膜，或按壓沒有彈性。"
+   }
+  ]
+ }
+}

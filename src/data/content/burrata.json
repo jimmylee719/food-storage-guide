@@ -1,0 +1,90 @@
+{
+ "slug": "burrata",
+ "en": {
+  "name": "Burrata",
+  "aliases": [
+   "burrata cheese",
+   "stracciatella-filled mozzarella",
+   "burrata di bufala"
+  ],
+  "summary": "Burrata is a pouch of fresh mozzarella curd filled with shredded curd and cream. There is no honest day count for it: the use-by date printed on the tub is the answer, and it is a short one. Keep it in its own liquid in the fridge, do not freeze it, and eat it in one sitting once cut.",
+  "pantry": "Burrata does not belong at room temperature at all. It is an unripened, high-moisture, barely acidic cheese wrapped around cream, which is about as perishable as cheese gets. Take it out of the fridge only about 20 minutes before serving so it loses its chill, and put anything left straight back. Follow the 2-hour rule at the table, or 1 hour if the room is above 32 °C (90 °F).",
+  "fridge": "Keep the tub at 0–5 °C, sitting in the liquid it came in, and go by the use-by date on the pack — a use-by date is a limit, not a suggestion, and there is no general timeline we could honestly substitute for it. Once you cut the pouch, the cream runs and the cheese is a one-sitting food. Soft, fresh cheeses like this are the ones food-safety agencies single out for Listeria monocytogenes, which grows slowly even at fridge temperature; pregnant, elderly and immunocompromised readers are advised to avoid soft cheeses altogether, and pasteurisation does not remove that advice.",
+  "freezer": "Do not freeze burrata. The whole point of it is a molten cream centre inside an elastic curd, and freezing destroys both: the curd goes grainy and the filling separates into fat and water. There is no freezer timeline for it and there should not be. If you cannot eat it in time, use it up cooked — melted over a hot pizza or stirred into a pasta — rather than putting it in the freezer.",
+  "thawing": null,
+  "spoilage": [
+   "The liquid in the tub turns cloudy, ropy or slippery.",
+   "A sour, yeasty or sharply acidic smell instead of a clean milky one.",
+   "The outer pouch goes slimy or yellow at the surface.",
+   "The cream inside tastes bitter or fizzy."
+  ],
+  "tips": [
+   "Buy it on the day you plan to serve it; this is not a stock-up cheese.",
+   "Keep it in its liquid until the moment it goes on the plate.",
+   "Never cut it in advance to save time — it cannot be kept once opened.",
+   "Carry it home cold, in a bag with an ice pack in summer."
+  ],
+  "faq": [
+   {
+    "q": "How long does burrata keep in the fridge?",
+    "a": "Go by the use-by date on the tub — it is short, and no general figure would be honest. Keep it at 0–5 °C in its own liquid."
+   },
+   {
+    "q": "Can you freeze burrata?",
+    "a": "No. Freezing ruins both the curd and the cream centre, and there is no freezer timeline for it."
+   },
+   {
+    "q": "Can you eat burrata the day after opening it?",
+    "a": "Better not. Once the pouch is cut the cream runs out and the cheese is exposed; treat an opened burrata as a one-sitting food."
+   },
+   {
+    "q": "Is burrata safe during pregnancy?",
+    "a": "Food-safety agencies advise pregnant, elderly and immunocompromised people to avoid soft cheeses, and burrata is squarely in that category. Pasteurised milk does not change that advice."
+   }
+  ]
+ },
+ "zh": {
+  "name": "布拉塔起司",
+  "aliases": [
+   "布拉塔",
+   "布拉塔乳酪",
+   "奶油夾心莫札瑞拉",
+   "布拉塔乳酪球"
+  ],
+  "summary": "布拉塔是用新鮮莫札瑞拉凝乳包成的袋子，裡面填著撕碎的凝乳和鮮奶油。它沒有一個誠實的天數可講：盒上的有效日期就是答案，而且那個日期很短。連同原本的乳清一起冷藏，不要冷凍，切開之後就要一次吃完。",
+  "pantry": "布拉塔完全不適合放在室溫。它是未熟成、含水量高、酸度又低的凝乳，裡面還包著鮮奶油，大概是所有起司裡最容易壞的。上桌前大約 20 分鐘再從冰箱拿出來退冰就好，沒吃完的立刻冰回去。餐桌上請守 2 小時原則，室溫超過 32 °C 時縮短為 1 小時。",
+  "fridge": "整盒放在 0～5 °C，讓它泡在原本的乳清裡，並以包裝上的有效日期為準——有效日期是界線，不是參考值，我們也沒有任何通用數字可以誠實地拿來取代它。袋子一切開，奶油就流出來，這時它就是一次吃完的食物。像這樣柔軟的新鮮起司，正是各國食品安全單位點名的李斯特菌（Listeria monocytogenes）風險食品，這種菌在冷藏溫度下仍會緩慢生長；孕婦、長者與免疫力低下者被建議完全避開軟質起司，就算標示「巴氏殺菌」也不改變這個建議。",
+  "freezer": "布拉塔不要冷凍。它的價值就在於彈性凝乳裡那包流動的奶油心，而冷凍會同時毀掉兩者：凝乳變粗糙，內餡分離成油和水。它沒有冷凍期限，也不該有。真的吃不完，寧可加熱用掉——鋪在剛出爐的披薩上或拌進義大利麵——也不要塞冷凍庫。",
+  "thawing": null,
+  "spoilage": [
+   "盒裡的乳清變混濁、牽絲或摸起來滑膩。",
+   "聞起來發酸、有酵母味或尖銳的酸味，而不是乾淨的奶香。",
+   "外層袋子表面變黏或泛黃。",
+   "裡面的奶油吃起來發苦或有氣泡感。"
+  ],
+  "tips": [
+   "要吃的當天再買；這不是可以囤的起司。",
+   "上桌那一刻之前，都讓它泡在原本的乳清裡。",
+   "不要為了省時間提前切開——切開後就留不住了。",
+   "回家路上全程保冷，夏天請放保冷袋加冰寶。"
+  ],
+  "faq": [
+   {
+    "q": "布拉塔起司放冰箱可以放多久？",
+    "a": "以盒上的有效日期為準，那個日期很短，任何通用數字都不夠誠實。放 0～5 °C 並泡在原本的乳清裡。"
+   },
+   {
+    "q": "布拉塔可以冷凍嗎？",
+    "a": "不行。冷凍會同時毀掉凝乳和奶油內餡，而且它根本沒有冷凍期限。"
+   },
+   {
+    "q": "布拉塔切開後隔天還能吃嗎？",
+    "a": "最好不要。袋子一破奶油就流出來、內部完全暴露，切開的布拉塔請當成一次吃完的食物。"
+   },
+   {
+    "q": "懷孕可以吃布拉塔嗎？",
+    "a": "食品安全單位建議孕婦、長者與免疫力低下者避開軟質起司，布拉塔正屬於這一類。使用巴氏殺菌乳並不改變這項建議。"
+   }
+  ]
+ }
+}

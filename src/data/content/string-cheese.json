@@ -1,0 +1,91 @@
+{
+ "slug": "string-cheese",
+ "en": {
+  "name": "String cheese",
+  "aliases": [
+   "cheese sticks",
+   "mozzarella sticks",
+   "cheese strings",
+   "snack cheese"
+  ],
+  "summary": "String cheese is low-moisture mozzarella extruded into sticks and sealed one by one, which is why it peels into strands. Kept refrigerated in its sealed wrappers it lasts about 5 months from purchase, or to the printed date if that comes sooner.",
+  "pantry": "String cheese is a chilled cheese, not a shelf snack, however much the individual wrapper suggests otherwise. It is drier and saltier than a fresh mozzarella ball, but it is still a moist cheese and belongs at 4 °C (40 °F) or below. In a lunch box it is fine for a few hours with an ice pack; beyond that, follow the 2-hour rule, or 1 hour if it is above 32 °C (90 °F). A stick that has been warm all day and come home again should be thrown away, not put back in the fridge.",
+  "fridge": "Keep the sticks in their sealed wrappers at 4 °C (40 °F) or below, on a shelf rather than the door, and they run about 5 months from purchase, or to the printed date if that is sooner. The individual seal is what carries them: once a wrapper is opened the stick is an exposed fresh cheese and should be eaten there and then rather than re-wrapped and saved. Keep the bag closed so the sticks do not dry at the ends, and check the wrappers for punctures before storing a value pack.",
+  "freezer": "There is no published freezer timeline for string cheese. It can be frozen in its wrappers at −18 °C (0 °F) and it thaws safely, but the texture suffers: the strands go crumbly and the stick loses the peel that is the entire point of it. If you have a pack running out of time, freeze it for cooking — grated into a bake or melted into a toastie — rather than for lunch boxes, and label the date.",
+  "thawing": "Thaw sticks in their wrappers in the fridge, not on the counter, and use them melted or grated. Do not refreeze them.",
+  "spoilage": [
+   "Mould inside the wrapper, often blue-green at the twisted ends.",
+   "A slimy or sticky surface on the stick.",
+   "A sour or yeasty smell instead of a mild milky one.",
+   "A stick that has gone hard and yellow at the ends, or a puffed wrapper."
+  ],
+  "tips": [
+   "Check individual wrappers for splits before buying a multipack.",
+   "Keep them on a shelf, not the fridge door.",
+   "Pack them with an ice pack in a lunch box.",
+   "Once a wrapper is open, finish that stick rather than saving half."
+  ],
+  "faq": [
+   {
+    "q": "How long does string cheese last?",
+    "a": "About 5 months from purchase at 4 °C (40 °F) or below in its sealed wrapper, or to the printed date if that comes sooner."
+   },
+   {
+    "q": "Does string cheese need to be refrigerated?",
+    "a": "Yes. The single wrapper makes it look like a shelf snack, but it is a moist cheese and must be kept cold."
+   },
+   {
+    "q": "Can you freeze string cheese?",
+    "a": "There is no published timeline. It freezes safely at −18 °C but thaws crumbly and loses the peel, so use it for cooking afterwards."
+   },
+   {
+    "q": "Can you keep half a stick?",
+    "a": "Better not. Once the wrapper is opened it is an exposed fresh cheese; eat it rather than re-wrapping it."
+   }
+  ]
+ },
+ "zh": {
+  "name": "乳酪棒",
+  "aliases": [
+   "起司條",
+   "拉絲起司棒",
+   "string cheese",
+   "莫札瑞拉起司條"
+  ],
+  "summary": "乳酪棒是把低水分莫札瑞拉擠壓成條、再一支一支獨立密封的產品，所以可以一絲一絲撕開。連同密封包裝冷藏，從購買日起大約可放 5 個月，或以包裝日期為準（取先到者）。",
+  "pantry": "不管獨立包裝看起來多像常溫零食，乳酪棒都是冷藏乳酪。它比新鮮莫札瑞拉球更乾更鹹，但仍然是含水量高的乳酪，必須放 4 °C 以下。放便當盒搭配保冷劑撐幾小時沒問題；超過就請守 2 小時原則，超過 32 °C 時為 1 小時。在外面熱了一整天又帶回家的那一支請丟掉，不要冰回去。",
+  "fridge": "連同密封包裝放 4 °C 以下的層架（不要放門邊），從購買日起約 5 個月，或以包裝日期為準（取先到者）。真正撐住它的是那層獨立封膜：一旦拆開，那支就是暴露的新鮮乳酪，應該當場吃完，不要重新包起來留著。外袋要封好，避免兩端乾掉；買整袋時先檢查有沒有破孔的包裝。",
+  "freezer": "乳酪棒沒有公告的冷凍期限。連包裝放 −18 °C 冷凍在安全上沒問題，解凍後也可以吃，但質地會受損：纖維變得碎散，也失去「撕成絲」這個唯一的重點。如果整包快到期，請為了入菜而冷凍——刨進焗烤或融進熱三明治——而不是為了帶便當，並記得標上日期。",
+  "thawing": "連包裝放冷藏解凍，不要放室溫，解凍後刨絲或加熱融化使用。不要再次冷凍。",
+  "spoilage": [
+   "包裝內長霉，常在扭封的兩端出現藍綠色。",
+   "起司棒表面變得黏滑。",
+   "聞起來發酸或有酵母味，而不是淡淡奶香。",
+   "兩端變硬泛黃，或包裝鼓起。"
+  ],
+  "tips": [
+   "買整袋前先檢查每支包裝有沒有破。",
+   "放層架，不要放冰箱門邊。",
+   "放便當盒時搭配保冷劑。",
+   "包裝一旦拆開就把那支吃完，不要留半支。"
+  ],
+  "faq": [
+   {
+    "q": "乳酪棒可以放多久？",
+    "a": "連密封包裝放 4 °C 以下，從購買日起約 5 個月，或以包裝日期為準。"
+   },
+   {
+    "q": "乳酪棒需要冷藏嗎？",
+    "a": "需要。獨立包裝讓它看起來像常溫零食，但它是含水量高的乳酪，必須保持低溫。"
+   },
+   {
+    "q": "乳酪棒可以冷凍嗎？",
+    "a": "沒有公告期限。在 −18 °C 冷凍安全上沒問題，但解凍後變碎、撕不成絲，之後請用於料理。"
+   },
+   {
+    "q": "拆開的乳酪棒可以留半支嗎？",
+    "a": "最好不要。拆封後它就是暴露的新鮮乳酪，請直接吃完，不要重新包起來。"
+   }
+  ]
+ }
+}

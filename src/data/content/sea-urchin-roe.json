@@ -1,0 +1,91 @@
+{
+ "slug": "sea-urchin-roe",
+ "en": {
+  "name": "Sea urchin roe",
+  "aliases": [
+   "uni",
+   "sea urchin gonad",
+   "uni tray",
+   "fresh uni"
+  ],
+  "summary": "Uni is the gonad of the sea urchin, sold as delicate lobes on a wooden tray. It is the most perishable thing on a sushi counter — raw tissue with no skin, no salt and no acid. Keep it at 4 °C or below and eat it within 1–2 days, ideally the day you buy it.",
+  "pantry": "Uni has no room-temperature life at all, not even the few minutes it takes to prepare something else. Keep the tray at 4 °C (40 °F) or below on ice, and take it out only when the rest of the dish is ready — chilled raw sushi and sashimi ingredients are held at 0–4 °C for exactly this reason. Like all raw shellfish it carries a Vibrio and norovirus risk, and it is not for pregnant people, young children or anyone immunocompromised.",
+  "fridge": "Keep the tray at 4 °C (40 °F) or below, sitting on ice but never in melt water, and use it within 1–2 days — eat it the day you buy it if you possibly can. That figure is borrowed from what is published for scallops, the closest raw shellfish analogue, and shortened, because no authority publishes a figure for uni. Do not rinse the lobes; water collapses them. Lobes that have gone soft, weeping or bitter are past it, and bitterness is the most reliable early sign.",
+  "freezer": "Freezing is deliberately left out here. Home-frozen uni thaws to mush — there is no structure in a gonad to survive ice crystals — so no timeline is given and none should be. The alum-treated trays sold for counters are a commercial product with their own date and their own handling, and they are not something you can replicate at home. Buy only what you will eat that day, and buy it from somewhere with fast turnover.",
+  "thawing": null,
+  "spoilage": [
+   "Lobes that have gone soft, slumped or are weeping liquid.",
+   "A bitter taste — the earliest and most reliable sign.",
+   "A sour, ammoniacal or strongly iodine smell rather than a sweet marine one.",
+   "Colour gone dull brown or grey instead of bright orange-gold."
+  ],
+  "tips": [
+   "Buy it on the day you will eat it, from a counter with turnover.",
+   "Keep the tray on ice but never let melt water reach the lobes.",
+   "Never rinse uni; water destroys it.",
+   "Lift lobes with a clean, dry, flat spoon rather than chopsticks."
+  ],
+  "faq": [
+   {
+    "q": "How long does uni keep in the fridge?",
+    "a": "1–2 days at 4 °C (40 °F) or below, and the day you buy it is far better. That figure is borrowed from scallops and shortened."
+   },
+   {
+    "q": "Can you freeze sea urchin roe?",
+    "a": "No timeline is given because home freezing ruins it — the lobes thaw to mush. Buy only what you will eat that day."
+   },
+   {
+    "q": "Is uni safe in pregnancy?",
+    "a": "No. It is a raw shellfish carrying a Vibrio and norovirus risk, and is not advised for pregnant people, young children or anyone immunocompromised."
+   },
+   {
+    "q": "How can you tell if uni has gone off?",
+    "a": "It turns bitter first, then soft and weeping, and the colour dulls. Any sour or strongly ammoniacal smell means discard it."
+   }
+  ]
+ },
+ "zh": {
+  "name": "海膽",
+  "aliases": [
+   "海膽黃",
+   "生海膽",
+   "うに",
+   "雲丹"
+  ],
+  "summary": "海膽是海膽的生殖腺，通常以一瓣瓣的形式排在小木盒裡販售。它是壽司檯上最容易壞的東西——沒有皮、沒有鹽、沒有酸的生組織。請放 4 °C 以下並在 1～2 天內吃完，最好是當天。",
+  "pantry": "海膽完全不能放室溫，連你準備其他配料的那幾分鐘都不行。整盒鋪冰放 4 °C 以下，等其他東西都備好了再拿出來——生食壽司與生魚片的冷藏食材規定在 0～4 °C，正是為了這個。它跟所有生鮮貝類一樣帶有腸炎弧菌與諾羅病毒風險，不適合孕婦、幼童與免疫力低下者。",
+  "fridge": "整盒鋪冰放 4 °C 以下，但絕對不要讓融水碰到海膽，並在 1～2 天內吃完——能當天吃完最好。這個數字借自「干貝」的公告值（最接近的生鮮貝類）再往下修，因為沒有任何機關公告過海膽的數字。不要沖水，水會讓它整瓣塌掉。變軟、出水或發苦的就是過了，而發苦是最可靠的早期徵兆。",
+  "freezer": "這裡刻意不談冷凍。家裡冷凍的海膽解凍後會變成糊——生殖腺根本沒有結構可以撐過冰晶——所以不給期限，也不該給。壽司店用的明礬處理盒裝品是商業產品，有自己的日期和處理方式，家裡複製不來。請只買當天吃得完的量，並向周轉快的店家購買。",
+  "thawing": null,
+  "spoilage": [
+   "整瓣變軟、塌陷或滲出液體。",
+   "吃起來發苦——這是最早也最可靠的訊號。",
+   "聞起來發酸、有氨味或強烈碘味，而不是清甜的海味。",
+   "顏色從亮橘金轉為暗褐或灰。"
+  ],
+  "tips": [
+   "當天吃就當天買，並向周轉快的店家買。",
+   "盒子鋪冰，但別讓融水碰到海膽。",
+   "絕對不要沖水；水會毀掉它。",
+   "用乾淨乾燥的扁平湯匙取，不要用筷子夾。"
+  ],
+  "faq": [
+   {
+    "q": "海膽冷藏可以放多久？",
+    "a": "4 °C 以下 1～2 天，當天吃完好得多。這個數字借自干貝並再往下修。"
+   },
+   {
+    "q": "海膽可以冷凍嗎？",
+    "a": "這裡不給期限，因為家用冷凍會毀掉它——解凍後整瓣變成糊。請只買當天吃得完的量。"
+   },
+   {
+    "q": "懷孕可以吃海膽嗎？",
+    "a": "不行。它是生鮮貝類，帶有腸炎弧菌與諾羅病毒風險，不建議孕婦、幼童與免疫力低下者食用。"
+   },
+   {
+    "q": "怎麼判斷海膽壞掉了？",
+    "a": "先發苦，接著變軟出水、顏色轉暗。出現酸味或強烈氨味就直接丟棄。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "slug": "century-egg",
+ "en": {
+  "name": "Century egg",
+  "aliases": [
+   "preserved egg",
+   "thousand-year egg",
+   "pidan",
+   "hundred-year egg"
+  ],
+  "summary": "A century egg is a duck egg cured in an alkaline mix until the white turns to translucent amber jelly and the yolk goes dark and creamy. In the shell there is no fixed number of days: keep it somewhere cool and airy and use it by the printed date. Once peeled it is a ready-to-eat food and keeps about 1 week refrigerated.",
+  "pantry": "Finished century eggs are kept in the shell somewhere cool and well ventilated, and used by the date the maker printed. What preserves them is the cure, which drives the pH up to roughly 9–12 — hostile to most spoilage organisms, but not a guarantee and not a reason to keep one forever. No authority publishes a shelf life for them, so the printed date really is the answer rather than a number we could supply. A cracked, weeping or ammonia-reeking egg is not simply an old one; throw it out.",
+  "fridge": "Refrigeration is optional for an egg still in its shell, and it has a drawback worth knowing: a cold egg sweats when it comes back up to room temperature, and condensation on a porous shell invites contamination. If you do keep them cold, take out only what you are going to eat rather than moving the box in and out. Once peeled, a century egg is an unprotected ready-to-eat food — cover it and keep it at 4 °C (40 °F) or below for about 1 week. That figure is borrowed from what is published for hard-boiled eggs; nobody publishes one for pidan.",
+  "freezer": "There is no freezer timeline for century eggs and freezing ruins them. The white is a delicate alkaline gel held together by water, and ice crystals tear that structure apart: what thaws is rubbery, watery and grey. The cure and a cool cupboard already do the job the freezer would be trying to do. Buy them in the quantity you will actually use.",
+  "thawing": null,
+  "spoilage": [
+   "A cracked or weeping shell, or liquid pooling under the egg.",
+   "A sharp ammonia smell when you peel it, rather than the usual mild sulphurous one.",
+   "A white that is runny or cloudy instead of firm translucent jelly.",
+   "Any mould on the shell or a grey, dry, crumbly yolk."
+  ],
+  "tips": [
+   "Buy from a shop with turnover and check the printed date on the box.",
+   "Do not wash the shell — washing removes the natural barrier.",
+   "Rotate stock first in, first out.",
+   "Peel only what you are serving, and cover any leftover halves."
+  ],
+  "faq": [
+   {
+    "q": "Do century eggs need to be refrigerated?",
+    "a": "Not in the shell. A cool, airy spot and the printed date are the rule. If you do refrigerate them, take out only what you will eat, because condensation on the shell is its own risk."
+   },
+   {
+    "q": "How long do century eggs last once peeled?",
+    "a": "About 1 week, covered, at 4 °C or below. That is the timeline for hard-boiled eggs, applied here because a peeled century egg is just as exposed."
+   },
+   {
+    "q": "Can you freeze century eggs?",
+    "a": "No. Freezing wrecks the alkaline jelly, and there is no timeline for it. The cure and a cool cupboard are what preserve them."
+   },
+   {
+    "q": "How can you tell if a century egg has gone bad?",
+    "a": "A cracked or weeping shell, a strong ammonia smell, a runny cloudy white, or mould. Do not treat any of those as just age."
+   }
+  ]
+ },
+ "zh": {
+  "name": "皮蛋",
+  "aliases": [
+   "松花蛋",
+   "變蛋",
+   "灰包蛋",
+   "鹼蛋"
+  ],
+  "summary": "皮蛋是鴨蛋用鹼性材料醃製到蛋白變成半透明琥珀凍、蛋黃轉深色泥狀的蛋。帶殼時沒有固定天數：放在陰涼通風處，並依包裝標示的日期食用。剝殼之後就是即食食品，冷藏大約可以放 1 週。",
+  "pantry": "做好的皮蛋帶殼保存，放在陰涼通風的地方，並在標示日期前用完。真正保存它的是那道鹼性醃製，把 pH 值推到大約 9～12，對多數腐敗菌不友善——但那不是保證，也不代表可以無限期放著。目前沒有任何機關公告皮蛋的保存期限，所以標示日期就是答案，而不是我們可以隨便補上一個數字。蛋殼破裂、滲液或聞起來一股氨味的皮蛋，不是「比較舊」而已，請丟掉。",
+  "fridge": "帶殼的皮蛋要不要冷藏都可以，但有一個值得知道的缺點：冰過的蛋回到室溫會冒汗，而多孔的蛋殼沾上冷凝水正好方便微生物入侵。真要冷藏，就只拿出當餐要吃的量，不要整盒進進出出。剝殼之後，皮蛋就是一個沒有任何保護的即食食品——加蓋放 4 °C 以下，約 1 週內吃完。這個數字是借用水煮蛋的公告值，皮蛋本身沒有人公告過。",
+  "freezer": "皮蛋沒有冷凍期限，冷凍也會毀掉它。蛋白是靠水撐起來的鹼性凝膠，冰晶會把結構整個撕開：解凍後又橡皮、又出水、顏色發灰。醃製加上陰涼櫥櫃已經完成冷凍想做的事了。請按實際會吃的量購買。",
+  "thawing": null,
+  "spoilage": [
+   "蛋殼破裂、滲液，或蛋下方積出液體。",
+   "剝開時是刺鼻的氨味，而不是原本淡淡的硫味。",
+   "蛋白稀軟或混濁，而不是結實的半透明凍狀。",
+   "蛋殼長霉，或蛋黃呈灰色、乾硬鬆散。"
+  ],
+  "tips": [
+   "向周轉快的店家購買，並確認外盒上的標示日期。",
+   "不要洗蛋殼，洗掉的是天然屏障。",
+   "先買先用，照順序輪替。",
+   "要吃多少剝多少，切開沒吃完的一定要加蓋。"
+  ],
+  "faq": [
+   {
+    "q": "皮蛋要放冰箱嗎？",
+    "a": "帶殼的不用。放陰涼通風處、依標示日期食用即可。若要冷藏，請只取出當餐要吃的量，因為蛋殼冒汗本身就是風險。"
+   },
+   {
+    "q": "皮蛋剝殼後可以放多久？",
+    "a": "加蓋放 4 °C 以下大約 1 週。這是水煮蛋的期限，因為剝殼後的皮蛋暴露程度相同，所以比照使用。"
+   },
+   {
+    "q": "皮蛋可以冷凍嗎？",
+    "a": "不行。冷凍會破壞鹼性凝膠，也沒有對應期限。醃製和陰涼櫥櫃就是它的保存方式。"
+   },
+   {
+    "q": "怎麼判斷皮蛋壞掉了？",
+    "a": "蛋殼破裂滲液、強烈氨味、蛋白稀軟混濁、長霉，任一項都不要當成只是放久了。"
+   }
+  ]
+ }
+}

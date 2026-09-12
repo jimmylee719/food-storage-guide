@@ -1,0 +1,91 @@
+{
+ "slug": "pollock",
+ "en": {
+  "name": "Pollock",
+  "aliases": [
+   "pollack",
+   "Alaska pollock",
+   "walleye pollock",
+   "saithe"
+  ],
+  "summary": "Pollock is a lean, mild white fish and the workhorse behind fish fingers and surimi. From purchase the fresh fillets keep 1–2 days in the fridge and 4–8 months in the freezer.",
+  "pantry": "Fresh pollock does not keep at room temperature. It is a lean fish with soft flakes that go slack quickly once warm, and much of what is sold at a counter was frozen at sea and thawed for display, which means its clock started long before you saw it. Bring it home cold and follow the 2-hour rule, or 1 hour above 32 °C (90 °F). If the fillet was sold as previously frozen, do not refreeze it raw.",
+  "fridge": "Keep pollock at 4 °C (40 °F) or below, on a rack over ice in a container that catches the melt water, and cook it within 1–2 days from purchase. Do not let it sit in liquid; pollock takes up water and goes mushy faster than a firmer white fish. Store it in a single layer on the bottom shelf, below anything ready to eat. Ask the counter whether it was previously frozen — with pollock it very often was, and the answer changes what you can do with it.",
+  "freezer": "Pollock keeps 4–8 months at −18 °C (0 °F). Lean flesh freezes well, but pollock fillets are soft and thin and burn easily, so wrap tightly with no air pockets or ice-glaze them first by dipping in cold water. Freeze in meal-sized portions, flat, and label the date. Frozen food stays safe indefinitely at −18 °C; the months are about quality. Commercially frozen-at-sea pollock is usually better than anything you can freeze at home, so buying it frozen is no compromise.",
+  "thawing": "Thaw in the fridge overnight on a plate, or in a sealed bag under cold running water. Never on the counter or in warm water. Pat it dry, cook it promptly, and do not refreeze raw fish.",
+  "spoilage": [
+   "A sour or ammoniacal smell instead of a clean, mild one.",
+   "Flesh that stays dented when pressed rather than springing back.",
+   "Flakes that gape apart, or a milky film on the fillet.",
+   "A grey or yellow cast where the flesh should be white."
+  ],
+  "tips": [
+   "Ask whether it was previously frozen; if so, cook it rather than refreezing.",
+   "Keep it on a rack over ice, never in melt water.",
+   "Ice-glaze before freezing — thin soft fillets burn quickly.",
+   "Buy frozen-at-sea pollock without hesitation; it is often the better fish."
+  ],
+  "faq": [
+   {
+    "q": "How long does pollock keep in the fridge?",
+    "a": "1–2 days from purchase at 4 °C (40 °F) or below, on ice and not sitting in water."
+   },
+   {
+    "q": "Can you freeze pollock?",
+    "a": "Yes, 4–8 months at −18 °C, wrapped airtight or ice-glazed. Do not refreeze a fillet that was sold thawed."
+   },
+   {
+    "q": "Is pollock the fish in fish fingers and surimi?",
+    "a": "Usually, yes. Alaska pollock is the main species used for both, which is why it is one of the most-caught fish in the world."
+   },
+   {
+    "q": "How can you tell if pollock has gone off?",
+    "a": "A sour or ammoniacal smell, a milky film, gaping flakes, or flesh that will not spring back when pressed."
+   }
+  ]
+ },
+ "zh": {
+  "name": "狹鱈",
+  "aliases": [
+   "阿拉斯加鱈魚",
+   "明太魚",
+   "黃線狹鱈",
+   "pollock"
+  ],
+  "summary": "狹鱈是味道溫和的低脂白肉魚，也是魚柳條和魚漿（蟹味棒）背後的主力魚種。生鮮魚片從購買日起冷藏可放 1～2 天，冷凍 4～8 個月。",
+  "pantry": "新鮮狹鱈不耐室溫。它是低脂魚，肉片鬆軟，一回溫就迅速鬆散；而且櫃上賣的很多其實是船凍後解凍陳列的，也就是說它的時鐘在你看到之前早就開始走了。請保冷帶回家，守 2 小時原則，室溫超過 32 °C 時為 1 小時。若標示是解凍品，生的就不要再冷凍。",
+  "fridge": "架在網架上、下面鋪冰，容器要能接住融水，放 4 °C 以下，並在購買後 1～2 天內煮掉。不要讓它泡在液體裡；狹鱈吸水後變糊的速度比質地緊實的白肉魚快得多。單層平放在最下層，位置低於所有即食食品。買的時候問一下是不是解凍品——狹鱈很常是，而答案會改變你接下來能怎麼處理它。",
+  "freezer": "狹鱈在 −18 °C 下可放 4～8 個月。低脂魚肉耐凍，但狹鱈魚片又軟又薄、很容易凍燒，所以要包緊不留空氣，或先浸冷水做冰鍍。按一餐的量壓平分裝並標日期。−18 °C 下安全性是無限期的，月數講的是品質。船上急速冷凍的狹鱈通常比你在家能凍出來的好，所以買冷凍品一點都不吃虧。",
+  "thawing": "放盤子上冷藏隔夜解凍，或密封裝袋用冷水沖。不要放室溫或泡溫水。擦乾後盡快烹調，生魚不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸或有氨味，而不是乾淨溫和的魚味。",
+   "按壓後凹陷回不來，而不是有彈性。",
+   "肌肉纖維裂開，或魚片表面出現乳白薄膜。",
+   "本該白皙的魚肉泛灰或泛黃。"
+  ],
+  "tips": [
+   "問清楚是不是解凍品；是的話就煮掉，不要再冷凍。",
+   "架在網架上放冰的上方，不要泡融水。",
+   "冷凍前做冰鍍——又薄又軟的魚片很快凍燒。",
+   "放心買船凍狹鱈，品質常常更好。"
+  ],
+  "faq": [
+   {
+    "q": "狹鱈冷藏可以放多久？",
+    "a": "鋪冰、不泡水，放 4 °C 以下，從購買日起 1～2 天。"
+   },
+   {
+    "q": "狹鱈可以冷凍嗎？",
+    "a": "可以，−18 °C 下 4～8 個月，密封包好或做冰鍍。解凍品不要再冷凍。"
+   },
+   {
+    "q": "魚柳條和蟹味棒用的是狹鱈嗎？",
+    "a": "通常是。阿拉斯加狹鱈是這兩者的主要原料，也因此成為全球捕獲量最大的魚種之一。"
+   },
+   {
+    "q": "怎麼判斷狹鱈不新鮮了？",
+    "a": "發酸或氨味、表面乳白薄膜、肌肉纖維裂開，或按壓沒有彈性。"
+   }
+  ]
+ }
+}

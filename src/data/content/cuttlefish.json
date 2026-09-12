@@ -1,0 +1,91 @@
+{
+ "slug": "cuttlefish",
+ "en": {
+  "name": "Cuttlefish",
+  "aliases": [
+   "sepia",
+   "common cuttlefish",
+   "inkfish",
+   "choco"
+  ],
+  "summary": "Cuttlefish is the broad, flat cephalopod with an internal chalky bone and a big ink sac — meatier and firmer than squid. Refrigerated it keeps 1–3 days; frozen, 6–18 months, and freezing actually improves the texture.",
+  "pantry": "Cuttlefish must not be kept at room temperature. Cephalopods are low in acid and soften fast once the digestive enzymes get going, and like all raw seafood they carry a Vibrio risk that multiplies quickly in warmth. Take a cool bag to the market, and follow the 2-hour rule once it is out of the fridge, or 1 hour if it is above 32 °C (90 °F). Clean it as soon as you get home rather than leaving it in the bag.",
+  "fridge": "Clean out the ink sac and the cuttlebone before storing, and keep the cleaned body covered at 4 °C (40 °F) or below for 1–3 days. The ink stains everything it touches, including plastic boxes and fridge shelves, so work over a bowl and store it in glass or stainless steel if you can. Those numbers are the published squid timeline applied here; no agency gives a separate figure for cuttlefish. If you want to keep the ink, freeze the sacs whole rather than trying to refrigerate them.",
+  "freezer": "Cuttlefish keeps 6–18 months at −18 °C (0 °F), which is a long window for seafood because there is so little fat to go rancid. Freezing is also a genuine improvement here: ice crystals break down some of the dense muscle, so frozen-then-thawed cuttlefish cooks more tender than fresh. Freeze it cleaned, in portions, pressed flat in a bag with the air squeezed out. Frozen food stays safe indefinitely at −18 °C; the range is about quality.",
+  "thawing": "Thaw in the fridge overnight, or in a sealed bag under cold running water. Never on the counter. Pat it dry before cooking, since thawed cuttlefish releases a lot of water, and do not refreeze it raw.",
+  "spoilage": [
+   "A sour or ammoniacal smell rather than a clean sea one.",
+   "Flesh that has gone pink, grey or yellowish instead of pearly white.",
+   "A sticky or slimy surface that does not rinse clean.",
+   "Flesh that tears or mushes when handled instead of staying firm."
+  ],
+  "tips": [
+   "Clean it the day you buy it; the guts are where spoilage starts.",
+   "Freeze the ink sacs separately for risotto or pasta.",
+   "Store and freeze it cleaned, not whole.",
+   "Buy frozen cuttlefish without guilt — it is often more tender than fresh."
+  ],
+  "faq": [
+   {
+    "q": "How long does cuttlefish keep in the fridge?",
+    "a": "1–3 days at 4 °C (40 °F) or below, cleaned and covered. That is the published squid figure applied to cuttlefish."
+   },
+   {
+    "q": "Can you freeze cuttlefish?",
+    "a": "Yes, 6–18 months at −18 °C, and it comes out more tender than fresh because the ice crystals break down the muscle."
+   },
+   {
+    "q": "Should you clean cuttlefish before storing it?",
+    "a": "Yes. Remove the ink sac and the cuttlebone the day you buy it — the guts are where spoilage starts, and the ink stains everything."
+   },
+   {
+    "q": "How can you tell if cuttlefish has gone off?",
+    "a": "A sour or ammoniacal smell, a pink or yellow cast to the flesh, or a sticky surface that will not rinse clean."
+   }
+  ]
+ },
+ "zh": {
+  "name": "花枝",
+  "aliases": [
+   "墨魚",
+   "烏賊",
+   "目賊",
+   "花枝（軟體）"
+  ],
+  "summary": "花枝是身體寬扁、體內有一片白色軟骨（海螵蛸）和一個大墨囊的頭足類，肉比小卷厚實有咬勁。冷藏可放 1～3 天；冷凍 6～18 個月，而且冷凍過反而更嫩。",
+  "pantry": "花枝不能放室溫。頭足類酸度低，消化酵素一啟動肉質很快就軟掉，而且跟所有生鮮海產一樣帶有腸炎弧菌風險，這類細菌在溫暖環境繁殖極快。去市場請帶保冷袋，離開冰箱後守 2 小時原則，室溫超過 32 °C 時為 1 小時。回家就立刻清理，不要讓牠一直待在袋子裡。",
+  "fridge": "保存前先把墨囊和軟骨取出，清好的身體加蓋放 4 °C 以下，1～3 天內煮掉。墨汁會把碰到的一切染色，包括塑膠盒和冰箱層板，所以請在盆子上方處理，有玻璃或不鏽鋼容器就用那個裝。這組數字是沿用小卷／魷魚的公告值；沒有機構另外公告花枝的數字。想留墨汁的話，請把整個墨囊冷凍，不要放冷藏。",
+  "freezer": "花枝在 −18 °C 下可放 6～18 個月，以海產來說是很長的區間，因為牠幾乎沒有會油耗的脂肪。而且冷凍在這裡是真的加分：冰晶會破壞一部分緻密肌肉，所以凍過再解凍的花枝煮起來比生鮮的還嫩。請清理好、分成一次用量、壓平裝袋擠出空氣再冷凍。−18 °C 下安全性是無限期的，這個區間講的是品質。",
+  "thawing": "放冷藏隔夜解凍，或密封裝袋用冷水沖。不要放室溫。下鍋前擦乾，因為解凍的花枝會出很多水；生的不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸或有氨味，而不是乾淨的海味。",
+   "肉色轉粉紅、轉灰或泛黃，而不是珍珠白。",
+   "表面黏手，沖水也沖不乾淨。",
+   "一拿就破、一壓就糊，而不是結實。"
+  ],
+  "tips": [
+   "買回來當天就清理；腐敗從內臟開始。",
+   "墨囊另外冷凍，可以做墨魚燉飯或義大利麵。",
+   "清理好再保存、再冷凍，不要整隻放。",
+   "買冷凍花枝不必有罪惡感——常常比生鮮的還嫩。"
+  ],
+  "faq": [
+   {
+    "q": "花枝冷藏可以放多久？",
+    "a": "清理好加蓋放 4 °C 以下 1～3 天。這是魷魚的公告值套用到花枝。"
+   },
+   {
+    "q": "花枝可以冷凍嗎？",
+    "a": "可以，−18 °C 下 6～18 個月，而且因為冰晶破壞肌肉纖維，解凍後反而更嫩。"
+   },
+   {
+    "q": "花枝要先清理再冰嗎？",
+    "a": "要。買回來當天就把墨囊和軟骨取出——腐敗從內臟開始，而且墨汁會染色。"
+   },
+   {
+    "q": "怎麼判斷花枝壞掉了？",
+    "a": "發酸或氨味、肉色泛粉泛黃，或表面黏手沖不乾淨。"
+   }
+  ]
+ }
+}

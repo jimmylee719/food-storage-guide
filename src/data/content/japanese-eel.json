@@ -1,0 +1,91 @@
+{
+ "slug": "japanese-eel",
+ "en": {
+  "name": "Freshwater eel",
+  "aliases": [
+   "unagi",
+   "Japanese eel",
+   "live eel",
+   "raw eel"
+  ],
+  "summary": "This is fresh or live freshwater eel, before it becomes kabayaki. Refrigerated it keeps 1–2 days and frozen 2–3 months — a short freezer window, because eel is one of the fattiest fish sold. It is always cooked, never eaten raw.",
+  "pantry": "Eel has no room-temperature life, and there is a second reason to be careful with it: raw eel blood contains a toxin that is destroyed by heat, which is why eel is always cooked and never served as sashimi. Have the fishmonger kill and clean it rather than doing it at home, wash your hands and the board afterwards, and keep the fish cold the whole way. Follow the 2-hour rule, or 1 hour above 32 °C (90 °F).",
+  "fridge": "Hold it at 4 °C (40 °F) or below, cleaned, on ice, in a container that catches the melt water, and cook it within 1–2 days. Eel flesh is rich and gelatinous and it loses its bounce quickly; the fat also picks up off-flavours from anything strong in the fridge, so keep it covered and on the bottom shelf below ready-to-eat food. If you are not going to cook it within a day, grill or simmer it today and keep the cooked eel instead — that is what kabayaki is for.",
+  "freezer": "Eel keeps 2–3 months at −18 °C (0 °F), and the short window is entirely about fat: it is one of the oiliest fish on the slab and the oil oxidises in the freezer long before anything else fails. Wrap it in two layers, or wrap and then bag it, pressing out all the air, and freeze flat in single portions. Frozen food stays safe indefinitely at −18 °C; the months are about quality, and eel past that point tastes of old oil. Cooked, sauced kabayaki freezes more usefully than raw eel.",
+  "thawing": "Thaw in the fridge overnight on a plate, or in a sealed bag under cold running water. Never on the counter or in warm water. Cook it through promptly and do not refreeze raw eel.",
+  "spoilage": [
+   "A sour or ammoniacal smell rather than a clean river-water one.",
+   "Flesh that stays dented when pressed or has gone soft and sloppy.",
+   "A rancid, paint-like smell from the fat, or a yellow cast to the belly.",
+   "A slimy surface that does not rinse clean, or cloudy liquid in the tray."
+  ],
+  "tips": [
+   "Have it killed and cleaned at the stall.",
+   "Cook it through — eel is never eaten raw.",
+   "Wrap it in two layers before freezing; the fat burns easily.",
+   "If in doubt, grill it today and keep the cooked eel instead."
+  ],
+  "faq": [
+   {
+    "q": "How long does fresh eel keep in the fridge?",
+    "a": "1–2 days at 4 °C (40 °F) or below, cleaned and on ice."
+   },
+   {
+    "q": "Can you freeze eel?",
+    "a": "Yes, 2–3 months at −18 °C. The window is short because eel is extremely fatty, so wrap it in two layers or vacuum-pack it."
+   },
+   {
+    "q": "Can you eat eel raw?",
+    "a": "No. Raw eel blood contains a heat-sensitive toxin, so eel is always grilled, simmered or fried."
+   },
+   {
+    "q": "How can you tell if eel has gone off?",
+    "a": "A sour or ammoniacal smell, a rancid note from the fat, flesh that will not spring back, or slime that will not rinse off."
+   }
+  ]
+ },
+ "zh": {
+  "name": "鰻魚",
+  "aliases": [
+   "白鰻",
+   "日本鰻",
+   "生鰻",
+   "うなぎ"
+  ],
+  "summary": "這裡指的是還沒做成蒲燒之前的生鮮或活體淡水鰻。冷藏可放 1～2 天，冷凍 2～3 個月——冷凍期短，因為鰻魚是市面上最肥的魚之一。它一律要煮熟，絕不生食。",
+  "pantry": "鰻魚沒有室溫保存這回事，而且還有第二個要小心的理由：生鰻的血含有不耐熱的毒素，這就是為什麼鰻魚總是煮熟吃、從不做成生魚片。請讓魚販代為宰殺清理，處理後要洗手和洗砧板，回程全程保冷。請守 2 小時原則，室溫超過 32 °C 時為 1 小時。",
+  "fridge": "清理好後鋪冰，放 4 °C 以下，容器要能接住融水，並在 1～2 天內煮掉。鰻魚肉質豐腴帶膠質，彈性流失得很快；它的油脂也很容易吸收冰箱裡氣味重的東西，所以要加蓋，並放在最下層、位置低於即食食品。如果一天內不會煮，那就今天先烤或先滷，改保存熟的——蒲燒本來就是為此而生。",
+  "freezer": "鰻魚在 −18 °C 下可放 2～3 個月，這個短區間完全是脂肪造成的：牠是魚攤上最油的魚之一，而油脂在冷凍庫裡遠早於其他部分先氧化。請包兩層，或先包再裝袋、把空氣全部擠出，分成單份壓平冷凍。−18 °C 下安全性是無限期的，月數講的是品質；放過頭的鰻魚吃起來就是陳油味。做成蒲燒的熟鰻，放冷凍比生鰻實用得多。",
+  "thawing": "放盤子上冷藏隔夜解凍，或密封裝袋用冷水沖。不要放室溫或泡溫水。解凍後盡快煮透，生鰻不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸或有氨味，而不是乾淨的淡水氣味。",
+   "按壓凹陷回不來，或整條變軟糊。",
+   "脂肪出現油耗、油漆般的氣味，腹部泛黃。",
+   "表面黏滑沖不乾淨，或盤底積出混濁液體。"
+  ],
+  "tips": [
+   "請攤商現場宰殺清理。",
+   "一定要煮熟——鰻魚不生食。",
+   "冷凍前包兩層；油脂很容易凍燒。",
+   "拿不準的話，今天先烤過，改存熟的。"
+  ],
+  "faq": [
+   {
+    "q": "生鰻冷藏可以放多久？",
+    "a": "清理好鋪冰、放 4 °C 以下，1～2 天。"
+   },
+   {
+    "q": "鰻魚可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2～3 個月。因為極油，期限短，請包兩層或真空包裝。"
+   },
+   {
+    "q": "鰻魚可以生吃嗎？",
+    "a": "不行。生鰻血含有不耐熱的毒素，所以鰻魚一律用烤、滷或炸的方式煮熟。"
+   },
+   {
+    "q": "怎麼判斷鰻魚不新鮮了？",
+    "a": "發酸或氨味、油脂出現油耗味、按壓沒有彈性，或表面黏滑沖不掉。"
+   }
+  ]
+ }
+}

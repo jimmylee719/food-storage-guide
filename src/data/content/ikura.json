@@ -1,0 +1,91 @@
+{
+ "slug": "ikura",
+ "en": {
+  "name": "Ikura",
+  "aliases": [
+   "salmon roe",
+   "salmon caviar",
+   "sujiko",
+   "soy-cured roe"
+  ],
+  "summary": "Ikura is salmon roe separated from the skein and cured in salt or soy — a raw, ready-to-eat food. Unopened, go by the printed date at 4 °C or below; once opened, about 2 days. Frozen, 1–2 months. The cure is a seasoning, not a preservation step.",
+  "pantry": "Ikura never sits at room temperature. It is raw fish roe with no cooking step anywhere in its making, and the salt or soy it is packed in is there for flavour. Japanese guidance is explicit that salting, vinegar, soy sauce and wasabi do not kill Anisakis larvae — only freezing does. Buy roe labelled for raw eating, keep it cold from the shop to the fridge, and follow the 2-hour rule, or 1 hour above 32 °C (90 °F). Ikura is a raw ready-to-eat food and is on the list pregnant people and other high-risk groups are usually told to avoid.",
+  "fridge": "Keep it at 4 °C (40 °F) or below and use the printed date while the pack is sealed — no general number is given for an unopened jar, because the maker's date is the honest answer. Once opened, eat within about 2 days, a figure borrowed from what is published for fresh caviar in a jar. Lift the eggs out with a clean dry spoon; a raw ready-to-eat food picks up whatever the spoon carries, and there is no cooking step later to fix it. Keep the jar at the back of a shelf, not in the door.",
+  "freezer": "Ikura freezes for 1–2 months at −18 °C (0 °F). Freeze it in small sealed portions and thaw it slowly in the fridge — thawed fast, the eggs burst and go milky. The published condition for killing Anisakis in raw seafood is −20 °C for twenty-four hours or more; other standards give −20 °C for seven days, or −35 °C for fifteen hours. A domestic freezer at −18 °C is close but not equivalent, so buy roe sold for raw eating rather than relying on your own freezer to make it safe.",
+  "thawing": "Thaw ikura slowly in the fridge, never at room temperature or under water, and eat it the same day. Do not refreeze it.",
+  "spoilage": [
+   "Eggs gone cloudy, milky or collapsed instead of glossy and taut.",
+   "A sour or rancid smell over the clean briny-sweet one.",
+   "A sticky, stringy liquid in the jar.",
+   "A bitter or metallic taste, or a whitened film on the surface."
+  ],
+  "tips": [
+   "Buy roe labelled for raw eating and check the date.",
+   "Clean dry spoon every time; never a used one.",
+   "Freeze in small portions so you thaw only what you will eat.",
+   "Thaw slowly in the fridge — speed is what bursts the eggs."
+  ],
+  "faq": [
+   {
+    "q": "How long does ikura keep once opened?",
+    "a": "About 2 days at 4 °C (40 °F) or below. Unopened, follow the printed date."
+   },
+   {
+    "q": "Can you freeze ikura?",
+    "a": "Yes, 1–2 months at −18 °C, in small sealed portions. Thaw it slowly in the fridge or the eggs burst."
+   },
+   {
+    "q": "Does the soy or salt cure make ikura safe?",
+    "a": "No. Salting, vinegar, soy sauce and wasabi do not kill Anisakis larvae. Only freezing at the published conditions does."
+   },
+   {
+    "q": "Is ikura safe in pregnancy?",
+    "a": "It is a raw ready-to-eat seafood, and pregnant people and other high-risk groups are usually advised to avoid that category."
+   }
+  ]
+ },
+ "zh": {
+  "name": "鮭魚卵",
+  "aliases": [
+   "いくら",
+   "鮭魚子",
+   "醬油漬鮭魚卵",
+   "筋子"
+  ],
+  "summary": "いくら是把鮭魚卵從卵巢膜剝散後，用鹽或醬油醃漬而成的生食即食品。未開封請在 4 °C 以下依標示日期食用；開封後約 2 天。冷凍 1～2 個月。那層醃漬是調味，不是保存步驟。",
+  "pantry": "鮭魚卵完全不能放室溫。它從頭到尾沒有任何加熱步驟，是生的魚卵，而鹽或醬油存在的理由是風味。日本的指引說得很清楚：鹽漬、醋、醬油和芥末都殺不死海獸胃線蟲（Anisakis）幼蟲，只有冷凍可以。請買標示可生食（生食用）的產品，從店裡到冰箱全程保冷，並守 2 小時原則，室溫超過 32 °C 時為 1 小時。鮭魚卵是生的即食海產，通常被列在孕婦與其他高風險族群建議避開的名單上。",
+  "fridge": "放 4 °C 以下，未開封時以包裝標示日期為準——這裡不給通用數字，因為製造商的日期就是誠實的答案。開封後請在約 2 天內吃完，這個數字借自「玻璃瓶裝生魚子醬」的公告值。用乾淨乾燥的湯匙舀取；生的即食食品會把湯匙上的東西全部收下，而後面沒有任何加熱步驟可以補救。罐子放層架深處，不要放冰箱門邊。",
+  "freezer": "鮭魚卵在 −18 °C 下可放 1～2 個月。請分成小份密封冷凍，並放冷藏慢慢解凍——解得太快，卵粒會破掉、變得白濁。殺死生食海產中 Anisakis 的公告條件是 −20 °C 二十四小時以上；其他標準則是 −20 °C 七天，或 −35 °C 十五小時。家用冷凍庫的 −18 °C 很接近但並不等同，所以請購買標示可生食的產品，不要指望自家冷凍庫來把它變安全。",
+  "thawing": "放冷藏慢慢解凍，不要放室溫或泡水，並當天吃完。不要再次冷凍。",
+  "spoilage": [
+   "卵粒混濁、白化或塌陷，而不是飽滿有光澤。",
+   "在乾淨的鹹鮮香之外出現酸味或油耗味。",
+   "罐內液體變得黏稠牽絲。",
+   "吃起來發苦或有金屬味，或表面出現白膜。"
+  ],
+  "tips": [
+   "買標示「生食用」的產品並確認日期。",
+   "每次都用乾淨乾燥的湯匙，絕不用用過的。",
+   "分成小份冷凍，只解凍當餐要吃的量。",
+   "放冷藏慢慢解凍——解得快正是卵粒破掉的原因。"
+  ],
+  "faq": [
+   {
+    "q": "鮭魚卵開封後可以放多久？",
+    "a": "4 °C 以下約 2 天。未開封請以包裝標示日期為準。"
+   },
+   {
+    "q": "鮭魚卵可以冷凍嗎？",
+    "a": "可以，−18 °C 下 1～2 個月，分小份密封。解凍要放冷藏慢慢來，否則卵粒會破。"
+   },
+   {
+    "q": "醬油或鹽漬過就安全了嗎？",
+    "a": "不是。鹽漬、醋、醬油和芥末都殺不死 Anisakis 幼蟲，只有符合公告條件的冷凍可以。"
+   },
+   {
+    "q": "懷孕可以吃鮭魚卵嗎？",
+    "a": "它是生的即食海產，孕婦與其他高風險族群通常被建議避開這一類食物。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "slug": "boerewors",
+ "en": {
+  "name": "Boerewors",
+  "aliases": [
+   "wors",
+   "farmer's sausage",
+   "South African sausage",
+   "coriander sausage"
+  ],
+  "summary": "Boerewors is a coarse-ground raw sausage of beef and pork seasoned with coriander, vinegar and spice, coiled into a spiral. It is uncooked, unfermented and uncured, so it keeps like fresh mince: 1–2 days in the fridge, 1–2 months in the freezer.",
+  "pantry": "Boerewors is raw meat and has no room-temperature life. The vinegar and the coriander are seasoning, not preservation — this is not a cured or fermented sausage, and nothing in it is holding bacteria back. Keep it at 4 °C (40 °F) or below, and follow the 2-hour rule while it is out, or 1 hour above 32 °C (90 °F). At a braai, keep the coil in a cool box until the fire is ready rather than on a table in the sun.",
+  "fridge": "Keep it at 4 °C (40 °F) or below and cook it within 1–2 days of purchase — the same window as fresh minced beef and pork, because that is essentially what it is. Store it on the coldest shelf, on a plate that will catch drips, below anything ready to eat. Cook it through: it is a coarse-ground mixed meat, and mincing takes the surface bacteria of the cut all the way in, so a rare boerewors is not the same proposition as a rare steak.",
+  "freezer": "Boerewors keeps 1–2 months at −18 °C (0 °F). Freeze the coil flat in its own wrap plus an outer bag, or coil it on a tray, freeze it solid and then bag it so it holds its shape. Quality falls off after a couple of months because the fat oxidises even at −18 °C, and a fatty fresh sausage is one of the quicker things in a freezer to taste stale. Thaw it in the fridge and never refreeze it raw.",
+  "thawing": "Thaw in the fridge overnight on a plate, or in a sealed bag under cold running water. Never on the counter. Cook it the same day it thaws, and do not refreeze raw sausage.",
+  "spoilage": [
+   "A slimy or sticky surface on the casing.",
+   "A sour, sulphurous or ammoniacal smell instead of a coriander-and-meat one.",
+   "Grey or greenish colour running through the filling, not just at the surface.",
+   "A swollen pack, or cloudy, ropy liquid on the plate."
+  ],
+  "tips": [
+   "Buy it the day you are braaiing if you can; it is fresh sausage, not cured.",
+   "Freeze the coil flat and double-wrapped so the fat does not oxidise.",
+   "Cook it through, and turn it gently so the casing does not split.",
+   "Keep it in a cool box at a braai, not on a sunny table."
+  ],
+  "faq": [
+   {
+    "q": "How long does boerewors keep in the fridge?",
+    "a": "1–2 days at 4 °C (40 °F) or below — the same as fresh mince, because it is uncooked, unfermented and uncured."
+   },
+   {
+    "q": "Can you freeze boerewors?",
+    "a": "Yes, 1–2 months at −18 °C. Freeze the coil flat and double-wrapped; the fat oxidises and it tastes stale beyond that."
+   },
+   {
+    "q": "Does the vinegar in boerewors preserve it?",
+    "a": "No. The vinegar and coriander are seasoning. Boerewors is a raw sausage and must be kept cold and cooked through."
+   },
+   {
+    "q": "Is droëwors the same thing?",
+    "a": "No. Droëwors is dried and stores like biltong, which is a different record entirely."
+   }
+  ]
+ },
+ "zh": {
+  "name": "南非香腸",
+  "aliases": [
+   "boerewors",
+   "布爾沃斯香腸",
+   "農夫香腸",
+   "芫荽籽香腸"
+  ],
+  "summary": "Boerewors 是用粗絞的牛肉與豬肉、以芫荽籽、醋和香料調味後灌成一大圈的生香腸。它沒有煮熟、沒有發酵、也沒有醃製，所以保存方式等同新鮮絞肉：冷藏 1～2 天，冷凍 1～2 個月。",
+  "pantry": "Boerewors 是生肉，沒有室溫保存這回事。醋和芫荽籽是調味而不是保存——它既不是醃製香腸也不是發酵香腸，裡面沒有任何東西在壓制細菌。請放 4 °C 以下，離開冰箱後守 2 小時原則，室溫超過 32 °C 時為 1 小時。烤肉時請把整圈放在冰桶裡等炭火，不要擺在太陽下的桌上。",
+  "fridge": "放 4 °C 以下，購買後 1～2 天內煮掉——和新鮮牛豬絞肉同一個窗口，因為它本質上就是那個。放在最冷的層架、下面墊盤子接住滴液，位置低於所有即食食品。請煮全熟：它是粗絞的混合肉，而絞碎會把原本在表面的細菌帶進整條香腸，所以「三分熟的 boerewors」和「三分熟的牛排」不是同一回事。",
+  "freezer": "Boerewors 在 −18 °C 下可放 1～2 個月。整圈連原本的包裝壓平、再套一個外袋冷凍；或先在盤上盤好、凍硬後再裝袋，這樣可以維持形狀。超過兩個月品質就會下滑，因為即使在 −18 °C 脂肪還是會氧化，而含脂高的生香腸是冷凍庫裡比較快出現陳味的東西之一。請放冷藏解凍，生的絕不再次冷凍。",
+  "thawing": "放盤子上冷藏隔夜解凍，或密封裝袋用冷水沖。不要放室溫。解凍當天就要煮完，生香腸不要再次冷凍。",
+  "spoilage": [
+   "腸衣表面變得黏滑。",
+   "聞起來發酸、有硫味或氨味，而不是芫荽籽與肉香。",
+   "內餡整體（不只表面）轉灰或泛綠。",
+   "包裝鼓脹，或盤中滲出的液體混濁牽絲。"
+  ],
+  "tips": [
+   "盡量在要烤的當天買；它是生香腸，不是醃腸。",
+   "整圈壓平、包兩層冷凍，減緩脂肪氧化。",
+   "煮全熟，翻面時動作輕一點，腸衣才不會破。",
+   "烤肉時放冰桶，不要放在太陽下的桌上。"
+  ],
+  "faq": [
+   {
+    "q": "南非香腸冷藏可以放多久？",
+    "a": "4 °C 以下 1～2 天——和新鮮絞肉一樣，因為它沒煮熟、沒發酵、也沒醃製。"
+   },
+   {
+    "q": "南非香腸可以冷凍嗎？",
+    "a": "可以，−18 °C 下 1～2 個月。整圈壓平、包兩層；超過之後脂肪氧化，會出現陳味。"
+   },
+   {
+    "q": "裡面的醋可以防腐嗎？",
+    "a": "不行。醋和芫荽籽都是調味。Boerewors 是生香腸，必須全程冷藏並煮全熟。"
+   },
+   {
+    "q": "droëwors 是同一種東西嗎？",
+    "a": "不是。Droëwors 是風乾的，保存方式比照南非風乾牛肉，屬於另一篇。"
+   }
+  ]
+ }
+}

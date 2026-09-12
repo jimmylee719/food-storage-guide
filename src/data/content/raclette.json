@@ -1,0 +1,91 @@
+{
+ "slug": "raclette",
+ "en": {
+  "name": "Raclette",
+  "aliases": [
+   "raclette cheese",
+   "washed-rind cheese",
+   "Swiss melting cheese",
+   "fromage à raclette"
+  ],
+  "summary": "Raclette is a semi-hard washed-rind cheese bred to melt, with a rind kept deliberately damp and bacterially alive during ripening. Unopened, go by the date on the vacuum pack; once opened, about 3–4 weeks in the fridge. It freezes for 6 months, and freezing is legitimate here because you are going to melt it anyway.",
+  "pantry": "Raclette is a chilled cheese. It is moister and less acidic than a cheddar and it does not keep like one, so warmth makes the rind sweat and go sticky within hours. Take out the slices you are grilling and leave the rest cold. The smell of the rind is the rind doing its job, and it gets stronger at room temperature; ammonia is not part of that and means the piece has gone too far.",
+  "fridge": "Unopened, follow the date printed on the vacuum pack at 0–5 °C — raclette is sold at wildly different ripenesses and the pack date is the only honest number, so we give none of our own. Once opened, treat 3–4 weeks as the working limit: that is the published line for opened hard cheese and the right order of magnitude for a firm wedge, though a very ripe or very moist one will be closer to half that. Wrap it in waxed or greaseproof paper inside a loose box, not in clingfilm against the cut face — the cheese needs to breathe or the rind sweats and slimes. One thing worth knowing: a washed-rind raclette belongs with the semi-soft cheeses, and pregnant, elderly and immunocompromised readers are advised to avoid semi-soft cheeses whether pasteurised or not. Melting it thoroughly removes that objection.",
+  "freezer": "Raclette freezes for 6 months at −18 °C (0 °F), and unlike most cheeses that is a sensible thing to do, because melting is its whole purpose. Slice it first, interleave the slices with baking paper so they come apart, bag them flat and go straight from the freezer to the grill or the pan. Frozen food stays safe indefinitely at −18 °C; the timeline is about quality.",
+  "thawing": "There is no need to thaw sliced raclette — grill it from frozen. If you thaw a wedge, do it wrapped in the fridge and melt it that day. Do not refreeze.",
+  "spoilage": [
+   "An ammonia smell instead of the usual meaty, washed-rind one.",
+   "A slimy, sticky rind or a wet cut face.",
+   "Fuzzy grey, black or pink growth on the paste.",
+   "A bitter taste, or a paste that has gone runny and brown at the edge."
+  ],
+  "tips": [
+   "Slice the whole piece before freezing so you can grill a few slices at a time.",
+   "Waxed paper and a loose box; clingfilm slimes the rind.",
+   "Buy from a counter that can tell you how ripe the wheel is.",
+   "Melt it thoroughly if anyone at the table is pregnant or immunocompromised."
+  ],
+  "faq": [
+   {
+    "q": "How long does raclette keep in the fridge?",
+    "a": "Unopened, go by the date on the vacuum pack — ripeness varies too much for a general number. Once opened, about 3–4 weeks at 0–5 °C."
+   },
+   {
+    "q": "Can you freeze raclette?",
+    "a": "Yes, 6 months at −18 °C, and it makes sense here because it is a melting cheese. Slice it first and grill it from frozen."
+   },
+   {
+    "q": "Can you eat the rind of raclette?",
+    "a": "Many people do, and it is where much of the flavour lives. If it has gone sticky or smells of ammonia, cut it off — or discard the piece."
+   },
+   {
+    "q": "Is raclette safe during pregnancy?",
+    "a": "A washed-rind raclette counts as a semi-soft cheese, which pregnant, elderly and immunocompromised people are advised to avoid, pasteurised or not. Melted through, it is a different matter."
+   }
+  ]
+ },
+ "zh": {
+  "name": "瑞可雷特乳酪",
+  "aliases": [
+   "raclette",
+   "拉可雷特",
+   "瑞士烤起司",
+   "洗浸乳酪"
+  ],
+  "summary": "瑞可雷特是天生為了融化而存在的半硬質洗浸乳酪，熟成期間外皮被刻意保持潮濕、菌相活躍。未開封請以真空包上的日期為準；開封後冷藏約 3～4 週。冷凍可放 6 個月，而且在這支乳酪上冷凍是合理的，因為反正你就是要把它融掉。",
+  "pantry": "瑞可雷特是冷藏乳酪。它比切達更濕、酸度更低，耐放程度完全不同，在室溫下外皮幾個小時就會出汗發黏。要烤的片拿出來就好，其餘留在冷藏。外皮的氣味是它正常工作的結果，回溫後會更明顯；但氨味不屬於這一類，出現就代表已經過頭。",
+  "fridge": "未開封請在 0～5 °C 下依真空包上的日期為準——瑞可雷特的熟成度差異極大，包裝日期是唯一誠實的數字，所以我們不另外給。開封後請把 3～4 週當成工作上限：這是「已開封硬質乳酪」的公告值，對一塊結實的楔形塊而言量級正確，不過非常熟或非常濕潤的那種大概只有一半。用蠟紙或防油紙包好放進不密閉的盒子，不要用保鮮膜貼著切面——它需要呼吸，否則外皮會出汗發黏。另有一點值得知道：洗浸外皮的瑞可雷特屬於半軟質乳酪，而孕婦、長者與免疫力低下者被建議避開半軟質乳酪，不論是否巴氏殺菌。徹底加熱融化則沒有這個顧慮。",
+  "freezer": "瑞可雷特在 −18 °C 下可放 6 個月，而且不像多數乳酪，這裡冷凍是合理的選擇，因為融化本來就是它的用途。先切片、片間夾烘焙紙好分開、壓平裝袋，之後直接從冷凍上烤盤或下鍋。−18 °C 下安全性是無限期的，期限講的是品質。",
+  "thawing": "切片的瑞可雷特不需要解凍——直接從冷凍烤。若解凍整塊，請連包裝放冷藏並當天融化用完，不要再次冷凍。",
+  "spoilage": [
+   "出現氨味，而不是原本洗浸皮那種肉香。",
+   "外皮黏滑，或切面濕潤出水。",
+   "乳酪體上長出灰、黑或粉紅色的絨毛霉。",
+   "吃起來發苦，或邊緣變成褐色的流動狀。"
+  ],
+  "tips": [
+   "冷凍前把整塊切完片，之後要烤幾片拿幾片。",
+   "蠟紙包、鬆蓋盒裝；保鮮膜會讓外皮發黏。",
+   "向說得出熟成度的專櫃購買。",
+   "席間有孕婦或免疫力低下者時，請確實融透再吃。"
+  ],
+  "faq": [
+   {
+    "q": "瑞可雷特乳酪冷藏可以放多久？",
+    "a": "未開封請依真空包上的日期——熟成度差異太大，給不出通用數字。開封後在 0～5 °C 下約 3～4 週。"
+   },
+   {
+    "q": "瑞可雷特可以冷凍嗎？",
+    "a": "可以，−18 °C 下 6 個月，而且因為它是融化用乳酪，冷凍很合理。先切片，直接從冷凍烤。"
+   },
+   {
+    "q": "瑞可雷特的外皮可以吃嗎？",
+    "a": "很多人會吃，風味有不少就在外皮。但如果外皮已經發黏或出現氨味，就切掉，或整塊丟棄。"
+   },
+   {
+    "q": "懷孕可以吃瑞可雷特嗎？",
+    "a": "洗浸皮的瑞可雷特屬於半軟質乳酪，孕婦、長者與免疫力低下者被建議避開，不論是否巴氏殺菌。徹底融透後則是另一回事。"
+   }
+  ]
+ }
+}

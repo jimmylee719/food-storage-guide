@@ -1,0 +1,91 @@
+{
+ "slug": "powdered-milk",
+ "en": {
+  "name": "Powdered milk",
+  "aliases": [
+   "milk powder",
+   "dried milk",
+   "instant nonfat dry milk",
+   "skimmed milk powder"
+  ],
+  "summary": "Powdered milk is milk spray-dried to a shelf-stable powder. Kept cool and dark it lasts 3–5 years; in a hot cupboard it can spoil in as little as 3 months. Once the packet is open, use it within 3 months.",
+  "pantry": "The cupboard is where powdered milk belongs, and the temperature of that cupboard is what decides its life. Cool and dark gives you 3–5 years; a hot storeroom can take it down to 3 months, because heat drives the fat and the milk proteins to react and go stale. Once a packet or tin is opened, count 3 months, and keep it airtight — humidity is the other enemy, and damp powder clumps, then cakes, then goes musty. Store it away from the cooker and the kettle, and use a dry scoop every time.",
+  "fridge": "There is no refrigerated timeline for powdered milk, and the fridge is not the right place for it. Every time a cold tin comes out into a warm kitchen, moisture condenses on the powder, and that is precisely what shortens its life. Keep it in the cupboard instead. Milk you have reconstituted with water is a different matter entirely — that is fresh milk from the moment you mix it, and it must be refrigerated and treated as such.",
+  "freezer": "No freezer timeline is given, and freezing is not needed: a cool, dark cupboard already gives the powder years. Some people freeze bulk milk powder for very long storage, but the condensation risk each time the container comes out works against it, so if you try it, do it in small sealed portions you will not keep reopening. For most kitchens, buying a size you will finish within a few months of opening is the better plan.",
+  "thawing": null,
+  "spoilage": [
+   "Hard lumps or a solid cake that will not break up.",
+   "A stale, cardboard or paint-like smell — the milk fat has oxidised.",
+   "Powder that has turned yellow or brown rather than creamy white.",
+   "Any mould, or a musty smell from damp that has got in."
+  ],
+  "tips": [
+   "Store in the coolest, darkest cupboard you have — heat is the deciding factor.",
+   "Decant a bulk bag into small airtight jars and keep the rest sealed.",
+   "Always use a dry scoop; one damp spoon cakes the tin.",
+   "Reconstituted milk is fresh milk — refrigerate it and use it quickly."
+  ],
+  "faq": [
+   {
+    "q": "How long does powdered milk last?",
+    "a": "3–5 years in cool, dark storage. In a hot cupboard it can spoil in as little as 3 months. Once opened, use it within 3 months."
+   },
+   {
+    "q": "Does powdered milk need to be refrigerated?",
+    "a": "No, and the fridge causes condensation that shortens its life. Keep it airtight in a cool cupboard."
+   },
+   {
+    "q": "Can you freeze powdered milk?",
+    "a": "There is no timeline for it and no real need, since cool dry storage already gives it years. Condensation on opening works against it."
+   },
+   {
+    "q": "How long does reconstituted milk keep?",
+    "a": "Treat it as fresh milk from the moment you mix it: refrigerate it at 4 °C or below and use it quickly."
+   }
+  ]
+ },
+ "zh": {
+  "name": "奶粉",
+  "aliases": [
+   "全脂奶粉",
+   "脫脂奶粉",
+   "乾燥乳粉",
+   "即溶奶粉"
+  ],
+  "summary": "奶粉是把牛奶噴霧乾燥成可常溫保存的粉末。放在陰涼避光處可以放 3～5 年；但放在悶熱的櫥櫃，最短 3 個月就可能走味。開封之後請在 3 個月內用完。",
+  "pantry": "櫥櫃就是奶粉該待的地方，而那個櫥櫃的溫度決定它的壽命。陰涼避光可以放 3～5 年；悶熱的儲藏室則可能縮短到 3 個月，因為高溫會促使乳脂和乳蛋白起反應而走味。袋子或罐子一開封，就以 3 個月計算，並保持密封——濕氣是另一個敵人，受潮的粉會先結粒、再結餅、然後發霉走味。放遠離爐火和熱水瓶的位置，每次都用乾燥的量匙。",
+  "fridge": "奶粉沒有冷藏期限，冰箱也不是它該待的地方。冰過的罐子每次拿到溫暖的廚房，水氣就會在粉上凝結，而那正好會縮短它的壽命。請放櫥櫃就好。已經沖泡好的奶則完全是另一回事——從加水那一刻起它就是鮮奶，必須冷藏並照鮮奶的標準處理。",
+  "freezer": "這裡不給冷凍期限，也不需要：陰涼避光的櫥櫃本來就能放好幾年。有些人會把大包奶粉冷凍做超長期保存，但每次取用的結露風險會抵銷好處，真要這樣做請分成小份密封、不要反覆開封。對一般家庭來說，買開封後幾個月內用得完的容量才是更好的做法。",
+  "thawing": null,
+  "spoilage": [
+   "結成壓不散的硬塊或整片結餅。",
+   "有陳味、紙板味或油漆味——乳脂已經氧化。",
+   "顏色從乳白轉黃或轉褐。",
+   "長霉，或因受潮而出現霉味。"
+  ],
+  "tips": [
+   "放在家裡最陰涼避光的櫥櫃——溫度是決定因素。",
+   "大包裝分裝成小密封罐，其餘保持密封。",
+   "每次都用乾燥的量匙；一支濕湯匙就能讓整罐結塊。",
+   "沖泡好的奶就是鮮奶——請冷藏並盡快喝完。"
+  ],
+  "faq": [
+   {
+    "q": "奶粉可以放多久？",
+    "a": "陰涼避光保存 3～5 年。放在悶熱的櫥櫃最短 3 個月就可能走味。開封後 3 個月內用完。"
+   },
+   {
+    "q": "奶粉需要冷藏嗎？",
+    "a": "不需要，而且冰箱造成的結露反而會縮短壽命。請密封放在陰涼櫥櫃。"
+   },
+   {
+    "q": "奶粉可以冷凍嗎？",
+    "a": "沒有對應期限，也沒什麼必要，因為乾燥陰涼保存本來就能放好幾年，而每次取用的結露反而是扣分。"
+   },
+   {
+    "q": "泡好的奶可以放多久？",
+    "a": "從加水那一刻起就當鮮奶看待：放 4 °C 以下冷藏並盡快喝完。"
+   }
+  ]
+ }
+}

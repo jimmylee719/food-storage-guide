@@ -1,0 +1,90 @@
+{
+ "slug": "haddock",
+ "en": {
+  "name": "Haddock",
+  "aliases": [
+   "finnan haddie (smoked)",
+   "Melanogrammus aeglefinus",
+   "white fish"
+  ],
+  "summary": "Haddock is a lean North Atlantic white fish, a little softer and sweeter than cod, and the classic fish for a British fry-up. From purchase it keeps 1–2 days in the fridge and 6–8 months in the freezer.",
+  "pantry": "Fresh haddock does not keep at room temperature. Lean white fish has no fat to buffer it and the flesh softens quickly once it warms, which is why fishmongers keep it buried in ice rather than simply chilled. Take a cool bag, get it home, and follow the 2-hour rule, or 1 hour if it is above 32 °C (90 °F). Smoked haddock is a different product with its own date and is still a chilled food, not a preserve.",
+  "fridge": "Keep haddock at 4 °C (40 °F) or below, on a rack over ice in a container that catches the melt water, and cook it within 1–2 days from purchase. Do not let the fillets sit in the water they release. Haddock flakes more readily than cod, which is lovely on the plate and means the fillet falls apart sooner in storage, so handle it as little as possible and store it in a single layer. Keep it on the bottom shelf, below anything ready to eat.",
+  "freezer": "Haddock keeps 6–8 months at −18 °C (0 °F). Lean flesh freezes very well: wrap fillets airtight with no air pockets, or ice-glaze them by dipping in cold water and letting the film freeze, which is what the trade does. Freeze in portions so you never thaw more than you will cook. Frozen food stays safe indefinitely at −18 °C; the months are a quality window, and past it haddock dries and goes cottony rather than becoming unsafe.",
+  "thawing": "Thaw in the fridge overnight on a plate, or in a sealed bag under cold running water. Never on the counter or in warm water. Pat it dry before cooking and do not refreeze raw fish.",
+  "spoilage": [
+   "A sour or ammoniacal smell rather than a clean, mild one.",
+   "Flesh that stays dented when pressed rather than springing back.",
+   "A milky or sticky film on the fillet, or liquid pooling underneath.",
+   "A grey or yellow cast where the flesh should be white and translucent."
+  ],
+  "tips": [
+   "Buy fillets that look glossy and firm, not chalky or gaping.",
+   "Keep it on a rack over ice, not in the melt water.",
+   "Ice-glaze before freezing if you want to keep it near the long end.",
+   "Freeze in meal-sized portions the day you buy it."
+  ],
+  "faq": [
+   {
+    "q": "How long does haddock keep in the fridge?",
+    "a": "1–2 days from purchase at 4 °C (40 °F) or below, kept on ice and not sitting in water."
+   },
+   {
+    "q": "Can you freeze haddock?",
+    "a": "Yes, 6–8 months at −18 °C. Wrap it airtight or ice-glaze it, and freeze in meal-sized portions."
+   },
+   {
+    "q": "Is smoked haddock stored the same way?",
+    "a": "No. Smoked haddock is a separate product with its own printed date. It is still a chilled food — smoking here is flavour, not preservation."
+   },
+   {
+    "q": "How can you tell if haddock has gone off?",
+    "a": "A sour or ammoniacal smell, a milky film, flesh that will not spring back, or a grey cast."
+   }
+  ]
+ },
+ "zh": {
+  "name": "黑線鱈",
+  "aliases": [
+   "haddock",
+   "北大西洋鱈",
+   "黑線鱈魚片",
+   "白身魚"
+  ],
+  "summary": "黑線鱈是北大西洋的低脂白肉魚，比大西洋鱈略軟、略甜，是英式炸魚薯條的經典魚種。從購買日起冷藏可放 1～2 天，冷凍 6～8 個月。",
+  "pantry": "新鮮黑線鱈不耐室溫。低脂白肉魚沒有脂肪當緩衝，一回溫肉質就迅速變軟，這也是為什麼魚販是把它埋在冰裡，而不是只放在冷櫃。請帶保冷袋盡快回家，並守 2 小時原則，室溫超過 32 °C 時為 1 小時。煙燻黑線鱈是另一種產品，有自己的標示日期，而且仍然是冷藏食品而非保存食品。",
+  "fridge": "架在網架上、下面鋪冰，容器要能接住融水，放 4 °C 以下，並在購買後 1～2 天內煮掉。不要讓魚片泡在自己滲出的水裡。黑線鱈比大西洋鱈更容易剝落成片，上桌很美，但也代表保存時更快散開，所以盡量少翻動，並單層平放。放最下層，位置低於所有即食食品。",
+  "freezer": "黑線鱈在 −18 °C 下可放 6～8 個月。低脂白肉非常耐凍：魚片密封包好不留空氣，或浸冷水讓表面結一層薄冰再凍（也就是業界的冰鍍做法）。按一餐的量分裝，才不會每次解凍過量。−18 °C 下安全性是無限期的，月數講的是品質；超過之後它會變乾、口感像棉絮，而不是變得不安全。",
+  "thawing": "放盤子上冷藏隔夜解凍，或密封裝袋用冷水沖。不要放室溫或泡溫水。下鍋前擦乾，生魚不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸或有氨味，而不是乾淨溫和的魚味。",
+   "按壓後凹陷回不來，而不是有彈性。",
+   "魚片表面出現乳白黏膜，或下方積水。",
+   "本該白皙半透明的魚肉泛灰或泛黃。"
+  ],
+  "tips": [
+   "挑有光澤、結實的魚片，不要挑粉白或肉片已經裂開的。",
+   "架在網架上放冰的上方，不要泡在融水裡。",
+   "想放到接近上限，冷凍前先做冰鍍。",
+   "買回來當天就按一餐的量分裝冷凍。"
+  ],
+  "faq": [
+   {
+    "q": "黑線鱈冷藏可以放多久？",
+    "a": "鋪冰、不泡水，放 4 °C 以下，從購買日起 1～2 天。"
+   },
+   {
+    "q": "黑線鱈可以冷凍嗎？",
+    "a": "可以，−18 °C 下 6～8 個月。密封包好或做冰鍍，按一餐的量分裝。"
+   },
+   {
+    "q": "煙燻黑線鱈保存方式一樣嗎？",
+    "a": "不一樣。煙燻品有自己的標示日期，而且仍是冷藏食品——這裡的煙燻是風味，不是防腐。"
+   },
+   {
+    "q": "怎麼判斷黑線鱈不新鮮了？",
+    "a": "發酸或氨味、表面乳白黏膜、按壓沒有彈性，或魚肉泛灰。"
+   }
+  ]
+ }
+}

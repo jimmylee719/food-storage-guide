@@ -1,0 +1,91 @@
+{
+ "slug": "coconut-milk",
+ "en": {
+  "name": "Coconut milk",
+  "aliases": [
+   "coconut drink",
+   "coconut beverage",
+   "carton coconut milk",
+   "coconut milk drink"
+  ],
+  "summary": "This is the coconut milk sold as a drink in cartons, rather than the thick cooking milk in a tin. Keep it refrigerated and go by the use-by date on the pack; once opened, use it within 7–10 days.",
+  "pantry": "An unopened aseptic carton can sit in a cool cupboard until its printed date, because it was sterilised and filled sealed. A chilled carton is a different product and must stay cold — treat it as you would dairy and follow the 2-hour rule, or 1 hour if the kitchen is above 32 °C (90 °F). Once opened, no carton of either kind belongs in a cupboard again. Canned coconut milk for cooking is a separate product with its own rules.",
+  "fridge": "Keep it at 4 °C (40 °F) or below on an inside shelf, not in the door. Unopened chilled cartons run to the use-by date printed on the package. After opening, use it within 7–10 days with the cap closed and the carton standing upright. Coconut milk separates hard in the cold — a solid white cap over thin liquid is normal, not spoilage — so shake it well before pouring and judge it on smell and taste.",
+  "freezer": "There is no published freezer timeline for carton coconut milk. Freezing is possible but the emulsion breaks and the thawed drink is grainy, which matters in coffee and does not matter in a curry. If you freeze it, use an ice-cube tray at −18 °C (0 °F) and blend the cubes into cooked dishes or smoothies. Buying smaller cartons is usually the better answer.",
+  "thawing": "Thaw cubes in the fridge or drop them straight into a hot pan. Blend or shake hard afterwards; the texture will not fully recover.",
+  "spoilage": [
+   "A sour, sharp or yeasty smell rather than a sweet coconut one.",
+   "Lumps or curdled strands that do not disappear when shaken.",
+   "A swollen carton, or a fizz and hiss on opening.",
+   "Mould around the spout or cap, or a slimy pour."
+  ],
+  "tips": [
+   "Write the opening date on the carton.",
+   "Shake before every pour — separation is normal and misleads people.",
+   "Do not drink straight from the carton if you plan to keep it.",
+   "Use the tinned kind for curries; the carton drink is thin by design."
+  ],
+  "faq": [
+   {
+    "q": "How long does coconut milk last after opening?",
+    "a": "About 7–10 days at 4 °C (40 °F) or below, kept closed and upright."
+   },
+   {
+    "q": "Does coconut milk need to be refrigerated?",
+    "a": "Chilled cartons do, and unopened ones go by the use-by date. Aseptic shelf-stable cartons can stay in the cupboard until opened."
+   },
+   {
+    "q": "Can you freeze coconut milk?",
+    "a": "There is no established timeline for the carton kind. It separates badly, so freeze it in cubes for cooking rather than for drinking."
+   },
+   {
+    "q": "Is the thick white layer in the carton a problem?",
+    "a": "No. Coconut fat sets solid in the cold and floats. Shake it back in; judge spoilage by smell, not by separation."
+   }
+  ]
+ },
+ "zh": {
+  "name": "椰奶",
+  "aliases": [
+   "椰子飲",
+   "椰奶飲品",
+   "盒裝椰奶",
+   "植物奶"
+  ],
+  "summary": "這裡指的是紙盒包裝、當作飲品的椰奶，而不是罐頭裡那種濃稠的料理用椰漿。它要冷藏保存，未開封時以包裝上的有效日期為準；開封後請在 7～10 天內喝完。",
+  "pantry": "未開封的無菌利樂包可以放在陰涼櫥櫃裡到標示日期，因為它經過滅菌並密封充填。冷藏包裝是另一種產品，必須全程保冷——當成乳製品看待，遵守 2 小時原則（廚房超過 32 °C 時為 1 小時）。不管哪一種，一旦開封就不能再回到櫥櫃。料理用的罐頭椰漿是另一種產品，規則也不同。",
+  "fridge": "放在 4 °C 以下的內側層架，不要放門邊。未開封的冷藏包裝以包裝上的有效日期為準。開封後請在 7～10 天內用完，蓋子關緊、盒身直立。椰奶在低溫下分層很明顯——上層一塊白色固體、下層清液是正常的，不是壞掉——倒之前用力搖勻，並以氣味和味道判斷好壞。",
+  "freezer": "盒裝椰奶沒有公告的冷凍期限。冷凍做得到，但乳化會散掉、解凍後口感偏粗，這對咖啡是問題，對咖哩則無所謂。真要冷凍，就倒進製冰盒放 −18 °C，之後把冰磚打進料理或果昔裡。多數情況下，改買小包裝是更好的辦法。",
+  "thawing": "冰磚放冷藏解凍，或直接丟進熱鍋。之後要打勻或用力搖勻，但質地不會完全回復。",
+  "spoilage": [
+   "聞起來發酸、刺鼻或有酵母味，而不是椰子的甜香。",
+   "出現搖不散的結塊或凝絮。",
+   "包裝鼓脹，或開封時冒氣泡、有嘶聲。",
+   "吸嘴或瓶蓋周圍長霉，或倒出來黏稠牽絲。"
+  ],
+  "tips": [
+   "在盒身寫上開封日期。",
+   "每次倒之前都搖一搖——分層是正常的，但常被誤判。",
+   "還要留著喝的話，不要直接就著盒口喝。",
+   "煮咖哩請用罐頭椰漿；盒裝飲品本來就是稀的。"
+  ],
+  "faq": [
+   {
+    "q": "椰奶開封後可以放多久？",
+    "a": "蓋緊直立放 4 °C 以下，大約 7～10 天。"
+   },
+   {
+    "q": "椰奶一定要冷藏嗎？",
+    "a": "冷藏包裝一定要，未開封時以有效日期為準。無菌常溫利樂包在開封前可以放櫥櫃。"
+   },
+   {
+    "q": "椰奶可以冷凍嗎？",
+    "a": "盒裝椰奶沒有既定期限。它分離得厲害，所以建議做成冰磚給料理用，不要拿來直接喝。"
+   },
+   {
+    "q": "盒子裡那層白色凝固物有問題嗎？",
+    "a": "沒有。椰子油脂在低溫下會凝固並浮在上層。搖勻即可；判斷有沒有壞要靠氣味，不是靠分層。"
+   }
+  ]
+ }
+}
