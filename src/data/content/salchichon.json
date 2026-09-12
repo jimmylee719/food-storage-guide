@@ -1,0 +1,93 @@
+{
+ "slug": "salchichon",
+ "en": {
+  "name": "Salchichón",
+  "aliases": [
+   "salchichón de Vic",
+   "fuet",
+   "longaniza curada",
+   "Spanish dry sausage",
+   "salchichón ibérico"
+  ],
+  "summary": "Salchichón is a Spanish dry-cured sausage seasoned with black pepper rather than paprika — the plain cousin of chorizo. A whole unopened piece hangs in a cool, dry place for 2–3 months; once cut or opened it keeps 2–3 weeks refrigerated, and 1–2 months frozen. The numbers are read across from sliced hard dry sausage rather than published for salchichón.",
+  "pantry": "A whole, unopened dry-cured sausage in its natural casing hangs in a cool, dry, airy place for about 2–3 months — that is how it is sold in Spain and how it goes on drying, getting firmer and more concentrated with time. That pantry figure is an extrapolation from dry-cured practice rather than a published shelf life. The powdery white bloom on the casing is the intended surface mould and is fine; fuzzy grey, green or black patches, or a sour ammonia smell, are not. Never hang it in a plastic bag, which sweats it.",
+  "fridge": "Once it is cut, or once a vacuum pack is opened, refrigerate at 4 °C (40 °F) or below and use within 2–3 weeks. Wrap the cut end in paper rather than cling film so it can still breathe a little, and slice from it as you go. A whole piece and an opened pack of slices are genuinely different products — the whole sausage is protected by its casing and its dryness, while slices are a large surface handled after curing, and they brown and dry within days. If you are not going to finish it quickly, buy the piece rather than the packet.",
+  "freezer": "A working limit of 1–2 months at −18 °C (0 °F), and freezing is a last resort. The fat oxidises, the texture goes crumbly and the flavour does not survive well, which is a poor trade for a sausage that keeps perfectly happily on a hook. Frozen food kept at −18 °C stays safe indefinitely; this is a quality judgement. If you do freeze it, slice first and interleave with paper.",
+  "thawing": "Thaw in the fridge in its wrapping and use within a few days. Never on the counter, and do not refreeze.",
+  "spoilage": [
+   "Fuzzy grey, green or black growth as distinct from the dry white bloom on the casing.",
+   "A sour, ammonia-like smell rather than a clean peppery, cured one.",
+   "A rancid, old-oil smell from the fat specks.",
+   "Slime or a tacky film on opened slices."
+  ],
+  "tips": [
+   "Buy the whole piece and cut as you go; slices lose the plot within days.",
+   "Hang it with air on all sides — a bag or a sealed box is what spoils it.",
+   "Paper, not plastic, on the cut face.",
+   "The white bloom is meant to be there; wipe it if you dislike it, but it is not spoilage."
+  ],
+  "faq": [
+   {
+    "q": "Does salchichón need to be refrigerated?",
+    "a": "A whole unopened piece does not — hang it somewhere cool, dry and airy for about 2–3 months. Once cut or opened, refrigerate at 4 °C (40 °F) or below."
+   },
+   {
+    "q": "How long does salchichón keep once opened?",
+    "a": "About 2–3 weeks refrigerated with the cut end wrapped in paper. That figure is borrowed from sliced hard dry sausage."
+   },
+   {
+    "q": "Is the white mould on salchichón safe?",
+    "a": "A dry, powdery white bloom is the intended surface culture. Fuzzy green, grey or black growth is not, and a mouldy sausage should be discarded rather than trimmed."
+   },
+   {
+    "q": "Can you freeze salchichón?",
+    "a": "For 1–2 months, but it is a last resort — the fat oxidises and the texture goes crumbly."
+   }
+  ]
+ },
+ "zh": {
+  "name": "西班牙胡椒風乾香腸",
+  "aliases": [
+   "salchichón",
+   "fuet",
+   "西班牙臘腸",
+   "維克風乾香腸",
+   "西班牙乾式香腸"
+  ],
+  "summary": "Salchichón 是以黑胡椒而非紅椒粉調味的西班牙風乾香腸，可以說是 chorizo 樸素的表親。完整未開封的整條吊在陰涼乾燥處約 2～3 個月；切開或拆封後冷藏 2～3 週，冷凍 1～2 個月。這些數字是比照「硬式乾香腸切片」讀過來的，不是專為 salchichón 公布的。",
+  "pantry": "完整未開封、還在天然腸衣裡的風乾香腸，吊在陰涼、乾燥、通風的地方約 2～3 個月——西班牙就是這樣賣的，它也會繼續變乾、變結實、風味更濃縮。這個常溫數字是從風乾肉的通則推得，不是官方公布的保存期限。腸衣上乾燥的白色粉狀霉花是刻意培養的表面霉，沒有問題；灰、綠、黑色的絨毛狀斑塊，或刺鼻的氨味，就不是。絕對不要裝在塑膠袋裡吊，那會把它悶出水。",
+  "fridge": "一旦切開，或真空包拆封，就放 4 °C 以下，2～3 週內用完。切口用紙包而不要用保鮮膜，讓它還能透一點氣，要吃多少切多少。整條和拆封的切片包是真的不同的東西——整條有腸衣和乾燥度保護，切片則是熟成之後才被經手的一大片表面，幾天內就會變褐變乾。吃得不快的話，請買整條不要買切片包。",
+  "freezer": "−18 °C 下的工作參考值是 1～2 個月，而且冷凍是最後手段。油脂會氧化、口感變得鬆散粉粉、風味流失，對一條本來掛著就很好的香腸來說很不划算。−18 °C 下安全性是無限期的，這只是品質判斷。真要凍就先切片，並用紙一片片隔開。",
+  "thawing": "維持包裝放冷藏解凍，幾天內用完。不要放室溫，也不要再次冷凍。",
+  "spoilage": [
+   "長出灰、綠、黑色的絨毛狀霉（腸衣上乾燥的白色粉霜則正常）。",
+   "聞起來發酸、有氨味，而不是乾淨的胡椒熟成香。",
+   "油花處散發油耗、陳油味。",
+   "開封切片發黏、表面有黏膜。"
+  ],
+  "tips": [
+   "買整條、隨吃隨切；切片幾天內就走味。",
+   "吊起來讓四面通風——裝袋或密封盒才是把它悶壞的元凶。",
+   "切口包紙，不要包塑膠。",
+   "白色霉花本來就該在；不喜歡可以擦掉，但那不是腐敗。"
+  ],
+  "faq": [
+   {
+    "q": "西班牙風乾香腸需要冷藏嗎？",
+    "a": "完整未開封的不需要，吊在陰涼乾燥通風處約 2～3 個月。切開或拆封後就要放 4 °C 以下。"
+   },
+   {
+    "q": "salchichón 開封後可以放多久？",
+    "a": "冷藏、切口用紙包好，約 2～3 週。這個數字借自硬式乾香腸切片。"
+   },
+   {
+    "q": "香腸表面的白霉可以吃嗎？",
+    "a": "乾燥的白色粉狀霉花是刻意培養的表面菌，沒問題。綠、灰、黑色的絨毛霉就不行，而且長霉的香腸應整條丟棄，不要只削掉那一塊。"
+   },
+   {
+    "q": "salchichón 可以冷凍嗎？",
+    "a": "可以放 1～2 個月，但那是最後手段——油脂氧化，口感也會變鬆散。"
+   }
+  ]
+ }
+}

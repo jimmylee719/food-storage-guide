@@ -1,0 +1,83 @@
+{
+ "slug": "barley-whole-grain",
+ "en": {
+  "name": "Barley, whole grain",
+  "aliases": [
+   "hulled barley",
+   "pot barley",
+   "whole grain barley",
+   "barley groats"
+  ],
+  "summary": "Whole grain barley — hulled or pot barley, with the bran and germ still on — keeps about 6 months in a sealed container in the cupboard and 12 months in the freezer at −18 °C (0 °F). Pearl barley, which has been polished, keeps longer, because the polishing takes away the oily germ.",
+  "pantry": "Store it airtight in a cool, dark, dry cupboard and use it within about 6 months. The bran and germ are what make whole barley worth eating and what limit its life: the germ carries oil, and oil goes rancid. Keep the jar away from the hob and out of the light. A glass jar you can see into is genuinely useful here, because the first sign of pantry moths is usually webbing rather than anything you smell.",
+  "fridge": "No refrigerator figure is published for whole barley, so this page does not give one. The fridge is nonetheless a reasonable home for an opened bag in a humid kitchen, as long as the container is properly airtight — grain takes up both moisture and smells, and a cold jar opened in a warm kitchen collects condensation on whatever is inside. Bring it up to room temperature before you open it.",
+  "freezer": "The freezer doubles the window to about 12 months at −18 °C (0 °F), in an airtight container or a heavy bag with the air pressed out. It is worth doing for a large bag, and it also kills off any weevil eggs that came home with a bulk purchase. Barley does not need thawing before cooking — measure it out frozen and add it straight to the pot.",
+  "thawing": null,
+  "spoilage": [
+   "A bitter or paint-like smell from rancid germ oil.",
+   "A musty, damp smell, which usually means it has picked up moisture.",
+   "Webbing, small moths, or fine dust at the bottom of the jar.",
+   "Grains that stay hard and chalky however long you simmer them."
+  ],
+  "tips": [
+   "Buy pearl barley instead if you use it rarely; polished grain keeps longer.",
+   "Decant bags into airtight jars as soon as you get home.",
+   "Freeze large bags on the day of purchase to settle any insect question.",
+   "Label with the date you bought it — a bag can sit on a shop shelf for months first."
+  ],
+  "faq": [
+   {
+    "q": "How long does whole grain barley keep?",
+    "a": "About 6 months airtight in a cool, dark cupboard, or 12 months at −18 °C (0 °F)."
+   },
+   {
+    "q": "Why does whole barley keep less time than pearl barley?",
+    "a": "Because it still has its germ, and the oil in the germ turns rancid. Pearling removes it along with the bran."
+   },
+   {
+    "q": "Can you freeze barley?",
+    "a": "Yes, about 12 months at −18 °C in an airtight container. Cook it straight from frozen."
+   }
+  ]
+ },
+ "zh": {
+  "name": "全粒大麥",
+  "aliases": [
+   "大麥",
+   "裸麥仁",
+   "全穀大麥",
+   "洋薏仁（全粒）"
+  ],
+  "summary": "全粒大麥——只去外殼、仍保留麩皮與胚芽的大麥——密封放櫥櫃約 6 個月，−18 °C 冷凍 12 個月。經過拋光的珍珠麥（洋薏仁）比較耐放，因為拋光把含油的胚芽磨掉了。",
+  "pantry": "密封裝罐，放陰涼、避光、乾燥的櫥櫃，約 6 個月內用完。麩皮和胚芽既是全粒大麥值得吃的理由，也是限制它壽命的東西：胚芽含油，而油會走油耗。罐子請遠離爐台、避免光照。這裡用看得到內容物的玻璃罐特別實用，因為穀蛾最早的跡象通常是絲網，而不是你聞得到的味道。",
+  "fridge": "全粒大麥沒有公布的冷藏數字，本頁也不給。不過在潮濕的廚房裡，開封後的袋子放冰箱仍然合理，前提是容器真的密封——穀物會同時吸水氣和氣味，而冰冷的罐子在溫暖廚房打開，裡面的東西就會結露。開封前先讓它回到室溫。",
+  "freezer": "冷凍把期限拉長到 −18 °C 下約 12 個月，裝密封容器或厚袋壓出空氣。大包裝很值得這樣做，而且能順便殺掉散裝帶回來的蟲卵。大麥不需要解凍就能煮——直接量取冷凍的量下鍋即可。",
+  "thawing": null,
+  "spoilage": [
+   "聞到胚芽油走油耗後的苦味或油漆味。",
+   "有潮濕的霉味，通常代表它吸了水氣。",
+   "看到絲網、小蛾，或罐底出現細粉。",
+   "不管煮多久都硬硬粉粉、煮不軟。"
+  ],
+  "tips": [
+   "很少用的話就改買珍珠麥；拋光過的比較耐放。",
+   "一回家就把袋裝的倒進密封罐。",
+   "大包裝買回來當天就冷凍，順便解決蟲的問題。",
+   "標上「購買日期」——一包穀物在店裡可能已經放了好幾個月。"
+  ],
+  "faq": [
+   {
+    "q": "全粒大麥可以放多久？",
+    "a": "密封、陰涼避光的櫥櫃約 6 個月，或 −18 °C 冷凍 12 個月。"
+   },
+   {
+    "q": "為什麼全粒大麥比珍珠麥不耐放？",
+    "a": "因為它還帶著胚芽，而胚芽裡的油會走油耗。拋光時把胚芽連同麩皮一起磨掉了。"
+   },
+   {
+    "q": "大麥可以冷凍嗎？",
+    "a": "可以，−18 °C 下密封容器約 12 個月，直接從冷凍下鍋煮即可。"
+   }
+  ]
+ }
+}

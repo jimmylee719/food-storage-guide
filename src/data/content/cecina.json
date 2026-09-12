@@ -1,0 +1,93 @@
+{
+ "slug": "cecina",
+ "en": {
+  "name": "Cecina",
+  "aliases": [
+   "cecina de León",
+   "cecina de res",
+   "salted dried beef",
+   "cecina enchilada",
+   "tasajo"
+  ],
+  "summary": "Cecina is salted, air-dried beef. The Spanish version — cecina de León — is cured for months and behaves like a dry-cured ham: a whole piece keeps 6–12 months in a cool, dry larder. Once a piece is cut into or a vacuum pack is opened it runs 2–3 weeks refrigerated, and it freezes for 1–2 months. Mexican cecina is a different food entirely and is treated below.",
+  "pantry": "A whole, properly dried Spanish cecina hangs in a cool, dry, airy place for 6–12 months from purchase, exactly as a dry-cured ham does — the salt and the water it has lost are the preservation, not refrigeration. Wrap the cut face in a cloth rather than plastic so it can keep breathing. This is an extrapolation from dry-cured practice rather than a published shelf life, so use your eyes and nose as well as the calendar. It applies only to a hard, fully cured piece.",
+  "fridge": "Once the vacuum pack is opened, or a whole piece is cut into, refrigerate at 4 °C (40 °F) or below and use it within 2–3 weeks — a working limit read across from sliced hard dry sausage, since no authority publishes one for cecina. Keep the cut face covered. Mexican cecina is not the same product: thin sheets of beef salted only briefly, often sold red with chile as cecina enchilada, it is a fresh raw meat rather than a cured one, so keep it cold, cook it through within a couple of days, or freeze it. Confusing the two is how people end up leaving raw beef on a counter.",
+  "freezer": "A month or two at −18 °C (0 °F), again borrowed from sliced dry sausage. Freezing a dry cure is about stopping the fat oxidising rather than about safety — the salt has already done the safety part. Interleave slices with baking paper and press the air out of the bag. Long freezing makes cured beef dull and tallowy, so this is a way to rescue a surplus, not a way to store it well.",
+  "thawing": "Thaw in the fridge in its wrapping and use it within a few days. Never thaw on the counter, and cook Mexican cecina straight from the fridge after thawing rather than letting it sit out.",
+  "spoilage": [
+   "A sour, sharp or ammonia-like smell instead of a clean salty-beef one.",
+   "Fuzzy green, grey or black mould, as opposed to a dry white bloom on a whole piece.",
+   "Sliminess or tackiness on opened slices.",
+   "A rancid, old-oil smell from the fat around the edges."
+  ],
+  "tips": [
+   "Buy a piece rather than slices if you eat it slowly — slices dry out and brown fast.",
+   "Cover the cut face with cloth or paper, never cling film pressed airtight on a whole piece.",
+   "Label Mexican and Spanish cecina differently in the fridge; they are not interchangeable.",
+   "Slice it thin and let it come up to room temperature on the plate."
+  ],
+  "faq": [
+   {
+    "q": "Does cecina need to be refrigerated?",
+    "a": "A whole Spanish cecina does not — it hangs in a cool, dry place for 6–12 months. An opened pack, a cut piece and all Mexican cecina do."
+   },
+   {
+    "q": "How long does cecina last once opened?",
+    "a": "About 2–3 weeks at 4 °C (40 °F) or below. That figure is borrowed from sliced hard dry sausage rather than published for cecina."
+   },
+   {
+    "q": "Can you freeze cecina?",
+    "a": "Yes, 1–2 months at −18 °C, but it dulls the flavour and makes the fat tallowy. Freeze only what you cannot eat in time."
+   },
+   {
+    "q": "Is Mexican cecina the same as Spanish cecina?",
+    "a": "No. Mexican cecina is barely salted fresh beef that must be cooked; Spanish cecina de León is cured for months and eaten raw."
+   }
+  ]
+ },
+ "zh": {
+  "name": "鹽漬風乾牛肉",
+  "aliases": [
+   "cecina",
+   "西班牙牛肉乾",
+   "萊昂風乾牛肉",
+   "墨西哥薄切牛肉",
+   "cecina enchilada"
+  ],
+  "summary": "Cecina 是鹽漬後風乾的牛肉。西班牙版本（cecina de León）要熟成好幾個月，性質接近西班牙生火腿：整塊放在陰涼乾燥處，從購買日起算可放 6～12 個月。切開或真空包拆封後，冷藏 2～3 週，冷凍 1～2 個月。墨西哥的 cecina 則是完全不同的東西，下面另外說明。",
+  "pantry": "完整、確實乾透的西班牙 cecina，可以像生火腿一樣吊在陰涼、乾燥、通風的地方，從購買日起算 6～12 個月——保存它的是鹽和失去的水分，不是冰箱。切面請用棉布包，不要用塑膠膜悶住，讓它繼續呼吸。這個數字是從風乾肉的通則推出來的工作值，不是官方公布的保存期限，所以除了看日期，也要靠眼睛和鼻子判斷。這只適用於硬實、完全熟成的整塊肉。",
+  "fridge": "真空包拆封後，或整塊被切開之後，請放 4 °C 以下，2～3 週內用完——這個工作參考值是比照「硬式乾香腸切片」推得的，因為沒有任何機構替 cecina 公布過期限。切面要蓋好。墨西哥的 cecina 不是同一種東西：那是只稍微抹鹽的薄片牛肉，常見加辣椒醬做成紅色的 cecina enchilada，本質上是生鮮肉不是熟成肉，所以要冷藏、在兩三天內煮熟吃掉，或直接冷凍。把兩者搞混，就是有人把生牛肉留在流理台上的原因。",
+  "freezer": "−18 °C 下約一到兩個月，一樣是從乾香腸切片借來的數字。冷凍風乾肉是為了延緩油脂氧化，不是為了安全——安全那部分鹽已經做完了。切片之間夾烘焙紙，裝袋壓出空氣。長時間冷凍會讓風乾牛肉風味變鈍、帶油脂味，所以這是處理吃不完的手段，不是理想的保存方式。",
+  "thawing": "維持包裝放冷藏解凍，幾天內用完。不要放室溫退冰；墨西哥 cecina 解凍後請直接從冰箱拿出來下鍋，不要在室溫等。",
+  "spoilage": [
+   "聞起來發酸、刺鼻或有氨味，而不是乾淨的鹹牛肉香。",
+   "長出綠、灰或黑色絨毛霉（整塊表面乾燥的白粉狀霉花則屬正常）。",
+   "開封的切片摸起來發黏。",
+   "邊緣的油脂散發油耗、陳油的氣味。"
+  ],
+  "tips": [
+   "吃得慢就買整塊，不要買切片——切片乾得快、也很快變褐。",
+   "整塊的切面用布或紙蓋著，不要用保鮮膜壓緊密封。",
+   "冰箱裡把墨西哥版和西班牙版分開標示，兩者不能互換。",
+   "切薄片，放在盤子上回溫幾分鐘再吃。"
+  ],
+  "faq": [
+   {
+    "q": "風乾牛肉 cecina 需要冷藏嗎？",
+    "a": "整塊的西班牙 cecina 不需要，吊在陰涼乾燥處可放 6～12 個月。但拆封的包裝、切開的肉塊，以及所有墨西哥 cecina 都需要冷藏。"
+   },
+   {
+    "q": "cecina 開封後可以放多久？",
+    "a": "4 °C 以下約 2～3 週。這個數字是比照硬式乾香腸切片，不是專為 cecina 公布的。"
+   },
+   {
+    "q": "cecina 可以冷凍嗎？",
+    "a": "可以，−18 °C 下 1～2 個月，但風味會變鈍、油脂會出現牛脂味。吃不完才冷凍。"
+   },
+   {
+    "q": "墨西哥 cecina 和西班牙 cecina 一樣嗎？",
+    "a": "不一樣。墨西哥 cecina 是只稍微抹鹽的生牛肉，必須煮熟；西班牙 cecina de León 熟成數月，可以直接生食。"
+   }
+  ]
+ }
+}

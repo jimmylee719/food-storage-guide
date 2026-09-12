@@ -1,0 +1,93 @@
+{
+ "slug": "coppa",
+ "en": {
+  "name": "Coppa",
+  "aliases": [
+   "capocollo",
+   "capicola",
+   "gabagool",
+   "cured pork neck",
+   "coppa stagionata"
+  ],
+  "summary": "Coppa, or capocollo, is dry-cured pork neck — a whole muscle laced with fat, cured in a casing and sliced thin. A whole piece or an unopened vacuum pack keeps about 2–3 months refrigerated; once it is opened or sliced that falls to 3–5 days. Nobody publishes a coppa timeline, so these are working limits read across from prosciutto and pre-packaged salami.",
+  "pantry": "There is no fixed pantry number for coppa, because no authority publishes a hanging time — the honest answer is a rule rather than a figure. A whole, uncut, fully cured coppa in its casing can hang in a cool, dry, airy larder at around 12–16 °C like any dry-cured whole muscle, and it will simply keep hardening. Once you cut into it, cover the face with a little of its own fat or a cloth and move it to the refrigerator: an opened cut surface on a piece this fatty oxidises quickly at room temperature.",
+  "fridge": "A whole piece or an unopened vacuum pack keeps about 2–3 months from purchase at 4 °C (40 °F) or below, wrapped in paper rather than airtight plastic. Sliced coppa is on a much shorter clock — 3–5 days, tightly re-wrapped, at 4 °C or below. Whole and sliced are deliberately not given one number here, because slicing turns a small protected surface into a large, freshly handled one. Coppa is fat-marbled by nature, which is what makes it delicious and what eventually ends it: if slices have gone dull brown at the edges and smell of old fat, that is rancidity, and refrigeration does not reverse it.",
+  "freezer": "There is no freezer timeline for coppa here, and freezing it is largely self-defeating. The abundant intramuscular fat is the first thing a freezer damages — it oxidises, the texture goes waxy, and a thawed slice tastes of nothing much. If you have too much, buy a smaller piece next time, or cook with the surplus rather than putting it in the freezer for a board you will regret.",
+  "thawing": null,
+  "spoilage": [
+   "A rancid, old-oil or paint-like smell from the fat.",
+   "Slices gone dull brown at the edges instead of pink-red with white fat.",
+   "Fuzzy green, grey or black mould on a cut face — discard the piece, not just the patch.",
+   "Sliminess or a tacky film on opened slices."
+  ],
+  "tips": [
+   "Buy a piece rather than a packet if you eat it slowly; slices last only a few days.",
+   "Wrap a whole piece in paper so it can still lose moisture; plastic sweats it.",
+   "Cover the cut face with its own trimmed fat between sessions.",
+   "Slice thin and let it warm on the plate — cold coppa fat tastes waxy."
+  ],
+  "faq": [
+   {
+    "q": "How long does coppa keep in the fridge?",
+    "a": "About 2–3 months for a whole piece or unopened pack; 3–5 days once it is opened or sliced. Treat both as working limits, not published ones."
+   },
+   {
+    "q": "Can you keep coppa out of the fridge?",
+    "a": "A whole uncut piece can hang in a cool, dry, airy larder. Once cut, move it to the fridge — the exposed fatty face goes rancid at room temperature."
+   },
+   {
+    "q": "Can you freeze coppa?",
+    "a": "There is no timeline for it and little point. The fat that makes coppa worth eating is exactly what a freezer spoils."
+   },
+   {
+    "q": "Is white bloom on coppa a problem?",
+    "a": "A dry, powdery white bloom on the casing is normal. Fuzzy green, grey or black growth, or a sour ammonia smell, is not."
+   }
+  ]
+ },
+ "zh": {
+  "name": "義式豬頸火腿",
+  "aliases": [
+   "coppa",
+   "capocollo",
+   "卡波克洛",
+   "風乾豬頸肉",
+   "科帕火腿"
+  ],
+  "summary": "Coppa（capocollo）是風乾熟成的豬頸肉——一整條帶著漂亮油花的肌肉，灌進腸衣熟成後薄切食用。整塊或未開封真空包冷藏約 2～3 個月；一旦拆封或切片就只剩 3～5 天。沒有任何機構公布過 coppa 的期限，這些是比照生火腿與預包裝莎樂美腸推得的工作參考值。",
+  "pantry": "coppa 沒有固定的常溫天數，因為沒有任何單位公布過吊掛時間——誠實的答案是一條規則，不是一個數字。完整、未切開、確實熟成、還在腸衣裡的 coppa，可以像其他風乾整肌一樣吊在陰涼、乾燥、通風的儲藏室，大約 12～16 °C，而且會持續變硬。一旦切開，就用它自己的油脂或一塊布蓋住切面，移進冰箱：這麼肥的肉一旦出現裸露切面，在室溫下氧化得很快。",
+  "fridge": "整塊或未開封真空包，從購買日起算在 4 °C 以下約 2～3 個月，用紙包而不要用塑膠密封悶著。切片的 coppa 時程短得多——包緊、4 °C 以下，3～5 天。這裡刻意不讓整塊和切片共用一個數字，因為切片會把一個小而受保護的表面，變成一大片剛剛被經手過的新鮮切面。coppa 天生油花多，這是它好吃的原因，也是它最後壞掉的原因：如果切片邊緣轉成暗褐、聞起來像放久的油，那是油耗，冷藏救不回來。",
+  "freezer": "這份資料沒有 coppa 的冷凍期限，而且冷凍它其實是自找麻煩。豐富的肌內脂肪正是冷凍庫最先傷害的東西——油脂氧化、口感發蠟，解凍後幾乎沒什麼味道。買太多的話，下次買小塊一點，或把多的拿去入菜，不要冰起來等著做一盤讓你後悔的冷盤。",
+  "thawing": null,
+  "spoilage": [
+   "油脂散發油耗味、陳油味或油漆般的氣味。",
+   "切片邊緣轉成暗褐，而不是粉紅肉配白色油花。",
+   "切面長出綠、灰或黑色絨毛霉——整塊丟掉，不要只削那一塊。",
+   "開封後的切片發黏、表面有黏膜。"
+  ],
+  "tips": [
+   "吃得慢就買整塊，不要買切片包；切片只有幾天。",
+   "整塊用紙包，讓它繼續散水；塑膠袋會悶出水氣。",
+   "每次切完，用修下來的油脂蓋住切面。",
+   "切薄片、在盤子上回溫再吃——冰冷的 coppa 油脂吃起來像蠟。"
+  ],
+  "faq": [
+   {
+    "q": "coppa 冷藏可以放多久？",
+    "a": "整塊或未開封包裝約 2～3 個月；拆封或切片後 3～5 天。兩者都是工作參考值，不是官方數字。"
+   },
+   {
+    "q": "coppa 可以不放冰箱嗎？",
+    "a": "完整未切開的整塊可以吊在陰涼乾燥通風處。一旦切開就要移進冰箱，裸露的肥切面在室溫下會走油耗。"
+   },
+   {
+    "q": "coppa 可以冷凍嗎？",
+    "a": "沒有對應期限，也沒什麼意義。讓 coppa 好吃的那些油脂，正是冷凍庫最會毀掉的部分。"
+   },
+   {
+    "q": "coppa 表面的白色粉末正常嗎？",
+    "a": "腸衣上乾燥的白色粉狀霉花是正常的。綠、灰、黑色的絨毛狀霉，或刺鼻的氨味，就不正常。"
+   }
+  ]
+ }
+}

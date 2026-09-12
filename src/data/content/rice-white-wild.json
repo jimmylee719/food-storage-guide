@@ -1,0 +1,85 @@
+{
+ "slug": "rice-white-wild",
+ "en": {
+  "name": "White or wild rice",
+  "aliases": [
+   "polished rice",
+   "long grain rice",
+   "jasmine rice",
+   "wild rice",
+   "白米"
+  ],
+  "summary": "White rice — and wild rice, which behaves the same way in storage — keeps about 2 years from purchase sealed, about 1 year once the bag is opened, and about 6 months refrigerated after opening. Milling has taken away the bran and germ, and with them the oil that limits brown rice.",
+  "pantry": "An airtight container in a cool, dark, dry cupboard gives 2 years from purchase and about 1 year from opening. What is left after milling is essentially starch, which sits quietly for years as long as it stays dry. The everyday threats are damp, smell transfer and rice weevils — and weevils walk straight through a paper sack, so decant the bag into a sealed container rather than clipping it shut. Keep it away from the hob, where steam and heat both reach it, and out of direct sunlight.",
+  "fridge": "An airtight container in the fridge at 4 °C (40 °F) or below gives about 6 months after opening. In a cool dry kitchen there is no need for it, since the cupboard figure is longer; the reason to do it is a humid summer, where cold slows both insects and the slow staling that makes old rice smell dusty. Seal it properly — rice takes up fridge odours — and let the container come to room temperature before opening so moisture does not condense on the grain. Cooked rice is a different food with a short window and a real Bacillus cereus hazard.",
+  "freezer": "No freezer timeline is published for dry white rice, so none is given, and it does not need one — two years in a cupboard is longer than almost any household's stock lasts. A sealed bag in the freezer for a few days is a reliable way to kill weevil eggs in rice bought loose from a bin, but that is a pest measure rather than a shelf life.",
+  "thawing": null,
+  "spoilage": [
+   "A musty or mouldy smell, which means the rice got damp — do not rinse it and cook it anyway.",
+   "Live weevils, small moths, webbing or fine powdery dust at the bottom of the container.",
+   "Grains that have gone yellow or are spotted.",
+   "A smell of soap, spice or detergent picked up in storage."
+  ],
+  "tips": [
+   "Decant paper sacks into a sealed container the day you buy them.",
+   "Keep rice away from soap and strong spices; it absorbs smells readily.",
+   "Store an opened container in the fridge through a humid summer.",
+   "Freeze bulk-bin rice for a few days to settle the weevil question."
+  ],
+  "faq": [
+   {
+    "q": "How long does white rice keep?",
+    "a": "About 2 years from purchase sealed, about 1 year from opening, or about 6 months refrigerated after opening."
+   },
+   {
+    "q": "Does white rice go bad?",
+    "a": "Rarely, if it stays dry. Damp, mould, weevils and absorbed smells are the real reasons to throw it out."
+   },
+   {
+    "q": "Is wild rice stored the same way?",
+    "a": "Yes. Despite being a different plant, it keeps on the same timeline as white rice."
+   }
+  ]
+ },
+ "zh": {
+  "name": "白米與菰米",
+  "aliases": [
+   "精白米",
+   "在來米",
+   "蓬萊米",
+   "茉莉香米",
+   "野生菰米"
+  ],
+  "summary": "白米——以及在保存上表現相同的菰米（wild rice）——密封保存從購買日起算約 2 年，開封後約 1 年，開封後冷藏約 6 個月。碾製已經把麩皮和胚芽去掉，也帶走了限制糙米壽命的那些油脂。",
+  "pantry": "密封容器放陰涼、避光、乾燥的櫥櫃，從購買日起算 2 年，開封後約 1 年。碾製之後剩下的基本上就是澱粉，只要保持乾燥就能安靜地待上好幾年。日常的威脅是受潮、吸味和米象——而米象可以直接穿過紙袋，所以請把整袋倒進密封容器，不要只把袋口夾起來。遠離爐台（蒸氣和高溫都到得了），也避免陽光直射。",
+  "fridge": "密封容器放 4 °C 以下，開封後約 6 個月。在涼爽乾燥的廚房裡其實不必，因為櫥櫃的數字更長；真正的理由是潮濕的夏天——低溫同時延緩蟲害和那種讓陳米聞起來有粉塵味的緩慢老化。密封要確實（米很會吸冰箱的味道），開封前先讓容器回到室溫，免得水氣凝在米粒上。煮熟的飯是另一種食物，期限很短，而且有實際的仙人掌桿菌風險。",
+  "freezer": "乾白米沒有公布的冷凍期限，所以本頁不給，它也不需要——櫥櫃裡的兩年，比幾乎任何家庭的庫存週轉都長。把密封袋冷凍幾天，是散裝買米時殺死蟲卵的可靠方法，但那是防蟲措施而不是保存期限。",
+  "thawing": null,
+  "spoilage": [
+   "聞到潮霉味，代表米受潮了——不要洗一洗照樣煮。",
+   "容器底部出現活的米象、小蛾、絲網或細粉屑。",
+   "米粒泛黃或出現斑點。",
+   "吸到了肥皂、香料或清潔劑的氣味。"
+  ],
+  "tips": [
+   "紙袋裝的米買回來當天就倒進密封容器。",
+   "遠離肥皂和重味香料；米非常會吸味。",
+   "潮濕的夏天，開封後那一罐請放冰箱。",
+   "散裝買的米先冷凍幾天，把米象的問題解決掉。"
+  ],
+  "faq": [
+   {
+    "q": "白米可以放多久？",
+    "a": "密封保存從購買日起算約 2 年，開封後約 1 年，開封後冷藏約 6 個月。"
+   },
+   {
+    "q": "白米會壞嗎？",
+    "a": "保持乾燥的話很少壞。受潮、發霉、生蟲和吸到異味，才是真正該丟掉的理由。"
+   },
+   {
+    "q": "菰米的保存方式一樣嗎？",
+    "a": "一樣。雖然是完全不同的植物，但保存時程和白米相同。"
+   }
+  ]
+ }
+}

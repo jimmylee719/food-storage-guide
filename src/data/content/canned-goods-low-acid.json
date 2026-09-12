@@ -1,0 +1,85 @@
+{
+ "slug": "canned-goods-low-acid",
+ "en": {
+  "name": "Canned goods, low acid",
+  "aliases": [
+   "canned beans",
+   "canned meat",
+   "canned soup",
+   "canned vegetables",
+   "canned fish"
+  ],
+  "summary": "Low-acid canned goods — meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach — keep 2–5 years from purchase in the cupboard, and stay safe well past the printed date as long as the can shows no dents, rust or swelling. Once opened, 3–4 days refrigerated.",
+  "pantry": "A cool, dry, dark cupboard gives 2–5 years from purchase. Canned items will be safe to eat well past the use-by or best-by date as long as the can shows no dents, rust or swelling — those three are the test, and the date is about quality. Low-acid cans last longer than acidic ones simply because there is no acid attacking the lining from the inside. Store them off damp floors and away from heat, and treat a bulging can as a serious sign: discard it unopened, without tasting and without opening it to check, because a swollen low-acid can is the classic setting for botulinum toxin.",
+  "fridge": "Once opened, transfer the contents to a clean covered container and refrigerate at 4 °C (40 °F) or below for 3–4 days. That is a shorter window than the high-acid cans get, and the reason is the food itself: meat, fish, beans and vegetables in a can are moist, low-acid and protein-rich, which is to say an excellent growth medium once the sterile seal is gone. Reheat leftovers to steaming hot rather than merely warm.",
+  "freezer": "No freezer timeline is given for canned goods here. Never freeze an unopened can — the contents expand and can split the seam. Leftovers decanted from an opened can freeze perfectly well and are safe indefinitely at −18 °C (0 °F), though no published figure is offered: beans and stews freeze particularly well in flat, meal-sized bags, while canned potatoes and pasta tend to go mealy.",
+  "thawing": "Thaw in the fridge overnight, or reheat straight from frozen until steaming hot. Never thaw on the counter.",
+  "spoilage": [
+   "A bulging, swollen or leaking can — discard it unopened and do not taste it.",
+   "A can that hisses, spurts or sprays liquid when opened.",
+   "Deep rust or a dented seam, as distinct from a harmless dent in the body.",
+   "Contents that are foamy, cloudy, discoloured or smell off once opened."
+  ],
+  "tips": [
+   "Write the purchase month on the lid and rotate your stock.",
+   "Keep cans off damp floors and away from the hob.",
+   "Decant leftovers into a covered container rather than storing the open can.",
+   "Discard a swollen can without opening it — this is the one to take seriously."
+  ],
+  "faq": [
+   {
+    "q": "How long do canned beans, meat or soup keep?",
+    "a": "2–5 years from purchase in a cool, dry cupboard, and safe well past the printed date as long as the can is not dented, rusted or swollen."
+   },
+   {
+    "q": "How long do they keep once opened?",
+    "a": "3–4 days at 4 °C (40 °F) or below, decanted into a covered container."
+   },
+   {
+    "q": "What should you do with a bulging can?",
+    "a": "Throw it away without opening it and without tasting it. A swollen low-acid can is the classic warning sign for botulinum toxin."
+   }
+  ]
+ },
+ "zh": {
+  "name": "低酸性罐頭食品",
+  "aliases": [
+   "豆類罐頭",
+   "肉類罐頭",
+   "湯罐頭",
+   "蔬菜罐頭",
+   "魚罐頭"
+  ],
+  "summary": "低酸性罐頭——肉、禽、魚、肉汁、燉菜、湯、豆類、胡蘿蔔、玉米、義大利麵、豌豆、馬鈴薯、菠菜——從購買日起算放櫥櫃 2～5 年；只要罐身沒有凹陷、生鏽或膨脹，超過標示日期仍然安全。開封後冷藏 3～4 天。",
+  "pantry": "陰涼、乾燥、避光的櫥櫃，從購買日起算 2～5 年。只要罐身沒有凹陷、生鏽或膨脹，罐頭在有效日期或賞味期限之後仍然可以安全食用——判準就是那三件事，日期講的是品質。低酸性罐頭比酸性罐頭耐放，單純是因為沒有酸從內部侵蝕內膜。請避開潮濕地面與高溫；而膨脹的罐頭要當成嚴重警訊：整罐丟棄，不要打開、也不要「嘗一口確認」，因為脹起來的低酸性罐頭正是肉毒桿菌毒素的典型情境。",
+  "fridge": "開封後把內容物移到乾淨的加蓋容器，放 4 °C 以下 3～4 天。這個期限比高酸性罐頭短，原因在食物本身：罐頭裡的肉、魚、豆和蔬菜含水、低酸、蛋白質豐富，換句話說，一旦失去無菌密封，它就是很好的培養基。剩菜復熱要熱到冒蒸氣，不能只是溫熱。",
+  "freezer": "這裡沒有給罐頭的冷凍期限。未開封的罐頭絕對不要冷凍——內容物膨脹會撐裂接縫。開封後倒出來的剩料則很耐凍，在 −18 °C 下安全性是無限期的，只是沒有公布數字：豆類和燉菜特別適合分份壓平冷凍，罐頭馬鈴薯和義大利麵則容易變得粉粉的。",
+  "thawing": "冷藏隔夜解凍，或直接從冷凍加熱到冒蒸氣。不要放室溫退冰。",
+  "spoilage": [
+   "罐身膨脹、鼓起或滲漏——整罐丟棄，不要打開也不要試吃。",
+   "打開時有洩氣聲、噴汁或噴液。",
+   "嚴重生鏽，或接縫被撞凹（罐身一般凹痕則無妨）。",
+   "開封後內容物起泡、混濁、變色或有異味。"
+  ],
+  "tips": [
+   "在蓋上寫購買月份，並定期輪替庫存。",
+   "罐頭遠離潮濕地面和爐台。",
+   "剩料倒進加蓋容器，不要整罐開著冰。",
+   "脹罐連開都不要開——這一項請認真看待。"
+  ],
+  "faq": [
+   {
+    "q": "豆類、肉類或湯罐頭可以放多久？",
+    "a": "從購買日起算，陰涼乾燥的櫥櫃 2～5 年；只要沒有凹陷、生鏽或膨脹，超過標示日期仍然安全。"
+   },
+   {
+    "q": "開封後可以放多久？",
+    "a": "倒進加蓋容器、放 4 °C 以下，3～4 天。"
+   },
+   {
+    "q": "罐頭脹起來該怎麼辦？",
+    "a": "連開都不要開，直接丟棄，也不要試吃。脹起來的低酸性罐頭是肉毒桿菌毒素最典型的警訊。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "slug": "cooked-glutinous-rice",
+ "en": {
+  "name": "Sticky rice, cooked",
+  "aliases": [
+   "cooked glutinous rice",
+   "youfan",
+   "okowa",
+   "sekihan",
+   "oil rice"
+  ],
+  "summary": "Cooked sticky rice — 油飯, 糯米飯, 筒仔米糕, おこわ, 赤飯 — is the single most common vehicle for Bacillus cereus food poisoning. It should never be left to cool slowly on the counter. Refrigerated at 5 °C or below it keeps 1–2 days; frozen at −18 °C (0 °F) it keeps 6 months.",
+  "pantry": "There is no counter storage for cooked sticky rice, and this is the item where that matters most. Bacillus cereus spores survive the steamer, and a bowl of oily sticky rice cooling slowly on a counter sits right in the warm window where the emetic toxin forms — a toxin that reheating will not destroy, because it is heat-stable. So the cooling is what matters, not the reheating. Cooked rice dishes must be held above 60 °C or got into the fridge; a large batch cooked in the morning and left covered for the afternoon is exactly the pattern that makes people ill, and it is why a tray of 油飯 at a room-temperature celebration is a genuine risk rather than a fussy one.",
+  "fridge": "Spread it out in a shallow container so it chills fast, rather than leaving it warm in a deep pot where the middle stays hot for hours, and get it to 5 °C or below. It keeps 1–2 days there — two days at most, and beyond that it must be frozen rather than kept on. Divide a big batch into meal-sized boxes as it comes out of the steamer; small portions cool quickly and deep pots do not. Reheat until steaming hot all the way through, and reheat only once.",
+  "freezer": "Freezing is the right answer for anything beyond a couple of days: 6 months at −18 °C (0 °F). Portion it while it is still warm-ish, wrap tightly or box it, and freeze it quickly so it passes through the warm range fast. Steam or microwave it straight from frozen — the texture of glutinous rice survives freezing far better than it survives refrigeration, where it goes hard and chalky. Frozen food stays safe indefinitely at −18 °C; the months are about quality.",
+  "thawing": "Do not thaw sticky rice on the counter — that is the same slow warm hold you were avoiding in the first place. Steam or microwave it from frozen until it is steaming hot all the way through, or thaw it overnight in the fridge and reheat it fully.",
+  "spoilage": [
+   "A sour, fermented or faintly sweet-off smell.",
+   "Sliminess or stickiness beyond the normal glutinous texture, or strands when you lift it.",
+   "Any mould spots, including on the surface of a covered box.",
+   "Rice that was left out overnight — discard it, however normal it looks and smells."
+  ],
+  "tips": [
+   "Portion into shallow boxes straight from the steamer; do not let a deep pot cool on its own.",
+   "Freeze anything you will not eat within a couple of days, on the day you cook it.",
+   "Reheat once, to steaming hot, and do not put it back for a second round.",
+   "At a party, keep the tray hot or keep it cold — the middle ground is the problem."
+  ],
+  "faq": [
+   {
+    "q": "How long does cooked sticky rice keep in the fridge?",
+    "a": "1–2 days at 5 °C or below, in a shallow container so it chilled quickly. Beyond that it should have been frozen."
+   },
+   {
+    "q": "Can you freeze cooked glutinous rice?",
+    "a": "Yes, 6 months at −18 °C (0 °F), and it is much better than refrigerating it — the texture holds up well when steamed from frozen."
+   },
+   {
+    "q": "Is it safe to eat rice left out overnight?",
+    "a": "No. Bacillus cereus can form a heat-stable toxin in rice held warm, and reheating does not destroy it. Throw it out."
+   },
+   {
+    "q": "Why does cooling matter more than reheating?",
+    "a": "Because the spores survive cooking anyway. What you are controlling is the time the rice spends warm, which is when the toxin forms."
+   }
+  ]
+ },
+ "zh": {
+  "name": "熟糯米飯",
+  "aliases": [
+   "油飯",
+   "糯米飯",
+   "筒仔米糕",
+   "收涎油飯",
+   "赤飯"
+  ],
+  "summary": "煮熟的糯米飯——油飯、糯米飯、筒仔米糕、おこわ、赤飯——是仙人掌桿菌（Bacillus cereus）食物中毒最常見的載體，絕對不能放在室溫慢慢放涼。冷藏在 5 °C 以下可放 1～2 天；−18 °C 冷凍可放 6 個月。",
+  "pantry": "熟糯米飯沒有常溫保存，而且這一項正是最要緊的地方。仙人掌桿菌的孢子撐得過蒸籠，而一盆油亮的糯米飯在檯面上慢慢放涼，剛好落在嘔吐型毒素生成的那個微溫區間——這種毒素耐熱，再怎麼加熱也去不掉。所以關鍵在「降溫」，不在「復熱」。熟飯類必須保持在 60 °C 以上，或盡快進冰箱；早上煮一大鍋、蓋著放一下午，正是最容易出事的模式，也是為什麼喜慶場合那一大盤室溫油飯是真實的風險，而不是小題大作。",
+  "fridge": "請攤在淺容器裡讓它快速降溫，不要留在深鍋裡——深鍋中心會熱好幾個小時——並降到 5 °C 以下。這樣可以放 1～2 天，最多兩天；超過就必須改成冷凍，不能繼續冰下去。一出蒸籠就分裝成一餐份的小盒；小份降得快，深鍋不會。復熱要熱到中心冒蒸氣，而且只復熱一次。",
+  "freezer": "超過兩天的量，正解就是冷凍：−18 °C 下 6 個月。趁還有點溫熱時分裝、包緊或裝盒，並盡快凍硬，讓它快速通過微溫區間。要吃時直接從冷凍蒸或微波——糯米的口感撐得過冷凍，卻撐不過冷藏，冷藏會讓它變硬變粉。−18 °C 下安全性是無限期的，月數講的是品質。",
+  "thawing": "不要把糯米飯放在室溫退冰——那就是你一開始要避免的「慢慢微溫」。請直接從冷凍蒸或微波到中心冒蒸氣，或放冷藏隔夜解凍後確實復熱。",
+  "spoilage": [
+   "聞到酸味、發酵味，或帶點怪甜的異味。",
+   "超出糯米本身黏度的黏滑感，或夾起來會牽絲。",
+   "任何霉點，包括加蓋保鮮盒表面。",
+   "在室溫放過一整夜的飯——不管看起來聞起來多正常，都請丟掉。"
+  ],
+  "tips": [
+   "一出蒸籠就分裝到淺盒；不要讓深鍋自己慢慢涼。",
+   "兩三天內吃不完的，當天就冷凍。",
+   "只復熱一次、熱到冒蒸氣，不要熱了又收、收了又熱。",
+   "辦活動時，那一盤不是保持熱就是保持冰——中間地帶才是問題。"
+  ],
+  "faq": [
+   {
+    "q": "熟糯米飯冷藏可以放多久？",
+    "a": "攤平快速降溫後放 5 °C 以下，1～2 天。超過就該一開始就冷凍。"
+   },
+   {
+    "q": "熟糯米飯可以冷凍嗎？",
+    "a": "可以，−18 °C 下 6 個月，而且比冷藏好很多——從冷凍直接蒸，口感維持得不錯。"
+   },
+   {
+    "q": "在室溫放一整晚的飯還能吃嗎？",
+    "a": "不能。仙人掌桿菌在微溫的飯裡會生成耐熱毒素，再加熱也無法破壞。請丟掉。"
+   },
+   {
+    "q": "為什麼降溫比復熱更重要？",
+    "a": "因為孢子本來就撐得過烹煮。你能控制的是飯停留在溫熱狀態的時間，而那正是毒素生成的時候。"
+   }
+  ]
+ }
+}

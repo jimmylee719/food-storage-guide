@@ -1,0 +1,83 @@
+{
+ "slug": "teff-whole-grain",
+ "en": {
+  "name": "Teff, whole grain",
+  "aliases": [
+   "t'ef",
+   "ጤፍ",
+   "whole teff",
+   "teff grain"
+  ],
+  "summary": "Teff is the tiny Ethiopian grain used for injera — so small that it is always milled or cooked whole, bran and germ included. It keeps about 4 months in a sealed container in the cupboard and 8 months in the freezer at −18 °C (0 °F).",
+  "pantry": "Keep it airtight in a cool, dark, dry cupboard and use it within about 4 months. Teff is never refined, because the grain is too small to separate — every grain you buy is a whole grain complete with its germ, which is why the pantry window is short by the standards of a bag of rice. The seeds are fine enough to sift through a loose fold in a bag, so decant into a jar with a proper seal, both to keep moisture out and to stop the grain finding its way around the cupboard.",
+  "fridge": "No refrigerator timeline is published for teff, so none is given. An airtight jar in the fridge is a reasonable place for an opened bag in a hot, humid kitchen, since cold slows the germ oil turning — the seal must be real, and the jar should come back to room temperature before opening so condensation forms on the outside rather than on the grain. Teff flour behaves the same way and keeps no better.",
+  "freezer": "The freezer doubles it, to about 8 months at −18 °C (0 °F), in an airtight container with the air pressed out. That is worth doing for a large bag, particularly since teff is usually bought in quantity by people who make injera regularly. Frozen food stays safe indefinitely at −18 °C; the months are about quality. Fermented injera batter is a different matter and is a live ferment, not a dry good.",
+  "thawing": null,
+  "spoilage": [
+   "A bitter or paint-like smell from rancid germ oil.",
+   "A musty or damp smell, or the grain clumping.",
+   "Webbing, small moths or fine dust in the jar.",
+   "Injera that tastes bitter rather than pleasantly sour."
+  ],
+  "tips": [
+   "Decant into a well-sealed jar; the grain is fine enough to escape a folded bag.",
+   "Freeze a bulk bag on the day of purchase.",
+   "Smell the grain or flour before mixing a batter; rancidity does not show.",
+   "Buy smaller amounts if you only make injera occasionally."
+  ],
+  "faq": [
+   {
+    "q": "How long does teff keep?",
+    "a": "About 4 months airtight in a cool, dark cupboard, or 8 months at −18 °C (0 °F)."
+   },
+   {
+    "q": "Why is teff always a whole grain?",
+    "a": "The grain is too small to mill the bran and germ away, so every teff you buy keeps its germ — and its oil."
+   },
+   {
+    "q": "Can you freeze teff?",
+    "a": "Yes, about 8 months at −18 °C in an airtight container, and it is worth doing for a large bag."
+   }
+  ]
+ },
+ "zh": {
+  "name": "苔麩",
+  "aliases": [
+   "teff",
+   "衣索比亞畫眉草",
+   "苔麩粒",
+   "injera 用穀物"
+  ],
+  "summary": "苔麩是衣索比亞用來做 injera 的極小穀粒，小到根本無法分離麩皮與胚芽，所以永遠是全穀。密封放櫥櫃約 4 個月，−18 °C 冷凍 8 個月。",
+  "pantry": "密封放陰涼、避光、乾燥的櫥櫃，約 4 個月內用完。苔麩從來不會被精製，因為穀粒太小無法分離——你買到的每一粒都是連胚芽完整保留的全穀，這就是它的櫥櫃期限以「一袋米」的標準來說偏短的原因。它的顆粒細到可以從沒折好的袋口漏出去，所以請倒進密封性確實的罐子，既擋濕氣，也免得整個櫥櫃都是穀粒。",
+  "fridge": "苔麩沒有公布的冷藏期限，所以本頁不給。濕熱的廚房裡，開封後裝密封罐放冰箱是合理的做法，因為低溫能延緩胚芽油脂變質——密封必須是真的，而且開封前先回到室溫，讓水氣凝在外面而不是穀粒上。苔麩粉的情況相同，也不會比較耐放。",
+  "freezer": "冷凍讓期限加倍，−18 °C 下約 8 個月，裝密封容器並壓出空氣。大包裝很值得這樣做，尤其常做 injera 的人通常都是整批買。−18 °C 下安全性是無限期的，月數講的是品質。發酵中的 injera 麵糊則是另一回事：那是活的發酵物，不是乾貨。",
+  "thawing": null,
+  "spoilage": [
+   "聞到胚芽油走油耗後的苦味或油漆味。",
+   "有潮霉味，或穀粒結成塊。",
+   "罐內出現絲網、小蛾或細粉屑。",
+   "做出來的 injera 吃起來是苦的，而不是宜人的酸。"
+  ],
+  "tips": [
+   "倒進密封性好的罐子；它細到會從折起的袋口漏出來。",
+   "大包裝買回來當天就冷凍。",
+   "調麵糊前先聞穀粒或粉；油耗是看不出來的。",
+   "偶爾才做 injera 的話就少量買。"
+  ],
+  "faq": [
+   {
+    "q": "苔麩可以放多久？",
+    "a": "密封、陰涼避光的櫥櫃約 4 個月，或 −18 °C 冷凍 8 個月。"
+   },
+   {
+    "q": "苔麩為什麼一定是全穀？",
+    "a": "穀粒太小，無法把麩皮和胚芽磨掉，所以每一粒都保留著胚芽——以及裡面的油脂。"
+   },
+   {
+    "q": "苔麩可以冷凍嗎？",
+    "a": "可以，−18 °C 下密封容器約 8 個月，大包裝很值得這麼做。"
+   }
+  ]
+ }
+}

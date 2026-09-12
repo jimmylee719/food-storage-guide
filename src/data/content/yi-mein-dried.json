@@ -1,0 +1,83 @@
+{
+ "slug": "yi-mein-dried",
+ "en": {
+  "name": "Yi mein, dried",
+  "aliases": [
+   "yimian",
+   "意麵",
+   "Tainan noodles",
+   "flat egg noodles"
+  ],
+  "summary": "Dried yi mein is the flat Tainan-style wheat-and-egg noodle, sold in bundles. Sealed and dry it keeps about 2 years, but once the bag is open the egg in the dough shortens it sharply to 1–2 months. The figures are read across from dry egg noodles, as nothing is published for yi mein itself.",
+  "pantry": "Keep the bundles dry and out of the sun, where they run about 2 years. Once the bag is open, move them into an airtight tin and use them within 1–2 months — that drop is not arbitrary: egg brings fat into the dough, and fat oxidises once air and light get at it, which is the same reason Italian egg pasta has a short opened life. Egg noodles also absorb kitchen humidity and go musty long before they look wrong, so a tin is better than a folded bag, and a spot away from the rice cooker is better than the shelf above it.",
+  "fridge": "No refrigerator timeline is published for dried yi mein, so none is given. An airtight tin in the fridge is a reasonable way to slow the egg fat turning in a hot kitchen, provided the seal is real and you let the tin reach room temperature before opening it. Note that fresh 意麵 — the damp bundles sold from a market rack — is a completely different food: treat that as a fresh noodle, refrigerated and used within a day or two.",
+  "freezer": "No freezer figure is given for dried yi mein. Freezing a sealed tin does slow rancidity and deals with pantry insects, but it is not a documented shelf life and this page will not invent one. The more useful habit is to buy the amount you will cook within a couple of months of opening, since that opened window is what really governs a bag of egg noodles.",
+  "thawing": null,
+  "spoilage": [
+   "A bitter, paint-like or crayon smell — the egg fat has turned.",
+   "A musty smell, which egg noodles develop before they look damaged.",
+   "Bundles gone soft or bendy rather than snapping cleanly.",
+   "Webbing, small moths or fine dust in the bag."
+  ],
+  "tips": [
+   "Move opened bundles into an airtight tin and write the date on it.",
+   "Store away from the rice cooker and the kettle; humidity is the enemy.",
+   "Smell a bundle before cooking; rancid egg noodles taste bitter.",
+   "Do not store dried and fresh 意麵 together — they are not the same food."
+  ],
+  "faq": [
+   {
+    "q": "How long does dried yi mein keep?",
+    "a": "About 2 years sealed and dry, but only 1–2 months once the bag is opened, because of the egg in the dough."
+   },
+   {
+    "q": "Why does yi mein keep so much less time after opening?",
+    "a": "Egg brings fat into the noodle, and fat goes rancid once air and light reach it. Plain wheat noodles have no such problem."
+   },
+   {
+    "q": "Is fresh 意麵 stored the same way?",
+    "a": "No. The damp bundles sold at a market stall are a fresh noodle — refrigerate them and cook within a day or two."
+   }
+  ]
+ },
+ "zh": {
+  "name": "乾意麵",
+  "aliases": [
+   "意麵",
+   "鹽水意麵",
+   "台南意麵",
+   "福州意麵"
+  ],
+  "summary": "乾意麵是台南風格的扁身小麥雞蛋麵，以一把把販售。密封乾燥保存約可放 2 年，但一旦拆封，麵團裡的蛋就會讓期限驟降到 1～2 個月。這些數字是從乾燥雞蛋麵讀過來的，意麵本身沒有任何公布數字。",
+  "pantry": "麵束保持乾燥、避免日曬，大約可放 2 年。袋子一開封，就移進密封鐵罐，並在 1～2 個月內用完——這個落差不是隨便訂的：蛋把油脂帶進麵團，而油脂一接觸空氣和光線就會氧化，義大利雞蛋麵開封後期限很短，也是同一個道理。雞蛋麵還很會吸廚房的濕氣，而且在外觀變化之前就先有霉味，所以鐵罐比折起來的袋子好，遠離電鍋的位置也比電鍋上方那層架好。",
+  "fridge": "乾意麵沒有公布的冷藏期限，所以本頁不給。在悶熱的廚房裡，密封鐵罐放冰箱是延緩蛋油變質的合理做法，前提是密封確實，而且開封前先讓罐子回到室溫。另外請注意，市場架上那種帶點濕氣、現賣的新鮮意麵是完全不同的食物：請當生鮮麵條處理，冷藏並在一兩天內煮掉。",
+  "freezer": "乾意麵沒有給冷凍數字。把密封鐵罐冷凍確實能延緩油耗、也能解決櫥櫃害蟲，但那不是有出處的保存期限，本頁不會憑空生一個。更實用的習慣是：買開封後一兩個月內煮得完的量，因為真正決定一袋雞蛋麵壽命的，就是開封後那段時間。",
+  "thawing": null,
+  "spoilage": [
+   "聞到苦味、油漆味或蠟筆味——蛋的油脂變質了。",
+   "出現霉味，雞蛋麵通常在外觀變壞之前就先有味道。",
+   "麵束變軟、可以彎折，而不是乾脆折斷。",
+   "袋內出現絲網、小蛾或細粉屑。"
+  ],
+  "tips": [
+   "開封後移進密封鐵罐，並在罐上寫日期。",
+   "遠離電鍋和熱水瓶；濕氣是最大的敵人。",
+   "煮之前先聞一把；走油耗的雞蛋麵會苦。",
+   "乾意麵和新鮮意麵不要放在一起——它們不是同一種食物。"
+  ],
+  "faq": [
+   {
+    "q": "乾意麵可以放多久？",
+    "a": "密封乾燥保存約 2 年，但開封後因為麵團含蛋，只有 1～2 個月。"
+   },
+   {
+    "q": "為什麼意麵開封後短那麼多？",
+    "a": "蛋把油脂帶進麵條，而油脂一接觸空氣和光線就會走油耗。純小麥的乾麵沒有這個問題。"
+   },
+   {
+    "q": "新鮮意麵也是這樣保存嗎？",
+    "a": "不是。市場現賣、帶點濕氣的那種是生鮮麵條——請冷藏並在一兩天內煮掉。"
+   }
+  ]
+ }
+}

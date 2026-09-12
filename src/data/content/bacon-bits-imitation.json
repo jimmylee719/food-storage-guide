@@ -1,0 +1,83 @@
+{
+ "slug": "bacon-bits-imitation",
+ "en": {
+  "name": "Bacon bits, imitation",
+  "aliases": [
+   "bacon-flavoured bits",
+   "soy bacon bits",
+   "salad topping bits",
+   "素培根碎"
+  ],
+  "summary": "Imitation bacon bits are textured soy protein flavoured and coloured to taste like bacon — they contain no meat, which is exactly why they sit on a shelf. Sealed, they keep about 1 year from purchase in the cupboard.",
+  "pantry": "A cool, dark cupboard gives about 1 year from purchase, or the printed date if it comes first. What makes them shelf-stable is that they are dry: textured soy with flavouring and oil, dried down far enough that nothing grows. That also tells you what will end them — the oil and the flavouring both fade with heat and light, so the jar above the hob will taste of cardboard long before its date. Reseal the container tightly after each use, because the bits take up humidity and go soft and chewy, which is the end of the point of them.",
+  "fridge": "No refrigerator timeline is published for imitation bacon bits, and they do not need one — a dry cupboard is the right home and a fridge is a humid place. If your kitchen is very hot, an airtight jar in the fridge slows the oil from turning, but bring it back to room temperature before opening or you will condense water onto a product whose entire quality is its crispness. Real bacon pieces, sold chilled, are a different food entirely and must be refrigerated.",
+  "freezer": "No freezer figure is given, and freezing is pointless: the product is already dry and stable, and every trip in and out of a freezer brings condensation, which is the one thing that softens them. If you buy a large tub, decant what you use into a small jar and keep the rest sealed in the cupboard rather than filling freezer space.",
+  "thawing": null,
+  "spoilage": [
+   "A rancid or crayon-like smell from the oil in the bits.",
+   "Bits gone soft and chewy rather than crisp — they have taken up moisture.",
+   "Clumping, or a damp-looking layer at the bottom of the jar.",
+   "A flat, cardboardy taste with none of the smoky flavouring left."
+  ],
+  "tips": [
+   "Reseal the tub tightly; humidity is what softens them.",
+   "Keep them away from the hob — heat fades the flavouring fastest.",
+   "Decant a large tub into a small working jar.",
+   "Do not confuse these with real bacon pieces from the chiller, which need refrigeration."
+  ],
+  "faq": [
+   {
+    "q": "How long do imitation bacon bits keep?",
+    "a": "About 1 year from purchase in a sealed container in a cool, dark cupboard."
+   },
+   {
+    "q": "Do bacon bits need to be refrigerated?",
+    "a": "The imitation soy kind do not — they are a dry good. Real bacon pieces sold chilled are a different product and do."
+   },
+   {
+    "q": "Why have my bacon bits gone soft?",
+    "a": "They have absorbed humidity. They are still a dry product going stale rather than spoiling, but the texture does not come back."
+   }
+  ]
+ },
+ "zh": {
+  "name": "素培根碎",
+  "aliases": [
+   "仿培根碎",
+   "培根風味碎粒",
+   "大豆培根碎",
+   "沙拉配料碎"
+  ],
+  "summary": "素培根碎是用組織化大豆蛋白調味、上色做成的培根風味碎粒——裡面沒有肉，這正是它能放在常溫架上的原因。密封保存，從購買日起算約可放 1 年。",
+  "pantry": "陰涼避光的櫥櫃，從購買日起算約 1 年，若標示日期更早則以標示為準。它能常溫保存是因為它夠乾：組織化大豆加上調味料和油脂，乾燥到什麼都長不起來。這也說明了什麼會終結它——油脂和香料都怕熱怕光，所以放在爐台上方的那一罐，遠在標示日期之前就會只剩紙板味。每次用完都要確實封緊，因為它會吸濕氣變軟變韌，而那等於失去了使用它的全部意義。",
+  "fridge": "素培根碎沒有公布的冷藏期限，它也不需要——乾燥櫥櫃才是對的位置，而冰箱是潮濕的地方。如果你的廚房非常熱，密封罐放冰箱能延緩油脂變質，但開封前一定要先回到室溫，否則你會把水凝在一個「全部價值就是酥脆」的產品上。冷藏櫃賣的真培根碎則完全是另一種食物，必須冷藏。",
+  "freezer": "這裡沒有給冷凍數字，冷凍也沒有意義：產品本來就乾燥穩定，而每次進出冷凍庫都會結露，那正是讓它變軟的唯一元凶。如果買了大罐，就分裝一小罐日常使用，其餘密封放櫥櫃，不要佔用冷凍空間。",
+  "thawing": null,
+  "spoilage": [
+   "碎粒裡的油脂散發油耗味或蠟筆味。",
+   "碎粒變軟變韌而不酥脆——代表吸了水氣。",
+   "結塊，或罐底出現看起來濕濕的一層。",
+   "味道變得平淡如紙板，煙燻香完全消失。"
+  ],
+  "tips": [
+   "每次用完確實封緊；濕氣是讓它變軟的原因。",
+   "遠離爐台——高溫最快讓香氣流失。",
+   "大罐分裝成小罐日常使用。",
+   "不要和冷藏櫃的真培根碎搞混，那個是需要冷藏的。"
+  ],
+  "faq": [
+   {
+    "q": "素培根碎可以放多久？",
+    "a": "密封容器放陰涼避光的櫥櫃，從購買日起算約 1 年。"
+   },
+   {
+    "q": "培根碎需要冷藏嗎？",
+    "a": "大豆製的素培根碎不用，它是乾貨。冷藏櫃販售的真培根碎是另一種產品，需要冷藏。"
+   },
+   {
+    "q": "我的培根碎為什麼變軟了？",
+    "a": "它吸了濕氣。那還算是乾貨走味而不是腐敗，但口感回不來了。"
+   }
+  ]
+ }
+}

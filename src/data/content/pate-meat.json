@@ -1,0 +1,85 @@
+{
+ "slug": "pate-meat",
+ "en": {
+  "name": "Pâté, meat",
+  "aliases": [
+   "meat pâté",
+   "liver pâté",
+   "pâté de campagne",
+   "terrine",
+   "coarse pâté"
+  ],
+  "summary": "Meat pâté — liver or country style, in a terrine, a tub or under a lid of fat — is a moist, ready-to-eat product and one of the more perishable things on a charcuterie board. Refrigerated at 4 °C (40 °F) or below it keeps about 7 days. Leftover pâté should be wrapped in plastic film against the cut surface.",
+  "pantry": "Fresh meat pâté has no room-temperature storage. It is soft, moist, low in salt compared with a cured sausage, and made from liver and fat that were handled a good deal — everything that makes it delicious also makes it a good growth medium. Serve it from the fridge, leave it out no longer than the two-hour rule allows, or one hour above 32 °C (90 °F), and return the rest to the cold rather than leaving the terrine on the table through a long meal.",
+  "fridge": "Keep it at 4 °C (40 °F) or below and eat it within about 7 days. Wrap leftovers in plastic film pressed directly against the cut surface so no air sits on it — a pâté oxidises to grey from the face inwards. If your pâté came sealed under a cap of fat or clarified butter, understand what that cap is: it is the seal. Breaking it is the same as opening the product, the seven-day clock starts there, and smoothing the fat back over the top afterwards does not restore anything. Store it away from raw meat and keep it on a shelf rather than in the door.",
+  "freezer": "No freezer timeline is given for meat pâté, and this page will not invent one. Freezing is generally a poor idea in any case: a pâté is an emulsion of fat, meat and liquid, and freezing breaks it, so what thaws is grainy and weeping rather than smooth. Buy or make the amount you will eat within the week instead. A firm, coarse country terrine survives it better than a smooth liver parfait, but neither improves.",
+  "thawing": "If a pâté has been frozen, thaw it in the fridge, still wrapped, and eat it within a day or two. Never thaw it on the counter, and do not refreeze it.",
+  "spoilage": [
+   "A grey or green cast spreading in from the cut surface rather than a thin oxidised skin you can scrape.",
+   "A sour, metallic or ammonia smell instead of a rich, livery one.",
+   "Liquid separating out, or a slimy, glossy film on the surface.",
+   "Any mould, including under the fat cap."
+  ],
+  "tips": [
+   "Press film onto the cut face every time; air is what greys it.",
+   "Cut from one end rather than digging at the middle, so less surface is exposed.",
+   "Serve a slice at a time and keep the rest cold, not the whole terrine on the table.",
+   "Write the date you broke the fat cap on the wrapper."
+  ],
+  "faq": [
+   {
+    "q": "How long does pâté keep in the fridge?",
+    "a": "About 7 days at 4 °C (40 °F) or below, with film pressed against the cut surface."
+   },
+   {
+    "q": "Can you freeze pâté?",
+    "a": "There is no timeline for it here and it is rarely worth doing — freezing breaks the emulsion and the thawed pâté is grainy and watery."
+   },
+   {
+    "q": "Does the layer of fat on top keep pâté longer?",
+    "a": "Only while it is intact. The fat cap is the seal; once you cut through it the product counts as opened, and pressing the fat back does not undo that."
+   }
+  ]
+ },
+ "zh": {
+  "name": "肉醬抹醬",
+  "aliases": [
+   "pâté",
+   "法式肉醬",
+   "肝醬",
+   "鄉村肉派",
+   "terrine"
+  ],
+  "summary": "肉類 pâté——不論是肝醬、鄉村風、裝在陶模、塑膠盒裡，或表面封著一層油脂——都是濕潤的即食品，也是冷肉盤上最容易壞的東西之一。放 4 °C 以下冷藏約 7 天。吃剩的請用保鮮膜直接貼著切面包好。",
+  "pantry": "新鮮肉醬沒有常溫保存。它柔軟、含水量高，鹽分又比風乾香腸低，而且由經過大量處理的肝和油脂做成——讓它好吃的每一個條件，同時也讓它成為很好的細菌培養基。請從冰箱取出上桌，在室溫停留不要超過 2 小時原則允許的時間（室溫超過 32 °C 時為 1 小時），吃不完的收回冷藏，不要讓整個陶模在餐桌上放一整頓飯。",
+  "fridge": "放 4 °C 以下，約 7 天內吃完。吃剩的用保鮮膜緊貼切面包好，不要讓空氣停在上面——肉醬是從切面往內氧化變灰的。如果你的 pâté 是封在一層油脂或澄清奶油底下的，請理解那層油脂是什麼：它就是封口。破壞它等同於開封，七天的時鐘從那一刻開始跑，而事後把油脂抹平回去並不能還原任何東西。請和生肉分開，並放在層架上而不是冰箱門。",
+  "freezer": "這份資料沒有給肉醬的冷凍期限，本頁也不會憑空生一個。何況冷凍它本來就不划算：pâté 是油脂、肉與水分的乳化物，冷凍會把乳化打散，解凍後又沙又出水。與其如此，不如一次只買或只做這一週吃得完的量。質地粗、結實的鄉村陶罐派比細滑的肝醬耐凍一點，但兩者都不會變好。",
+  "thawing": "如果已經冷凍，請維持包裝放冷藏解凍，一兩天內吃完。不要放室溫退冰，也不要再次冷凍。",
+  "spoilage": [
+   "灰色或綠色從切面往內擴散，而不只是表面一層可以刮掉的氧化膜。",
+   "聞起來發酸、帶金屬味或氨味，而不是濃郁的肝香。",
+   "出現分離的水分，或表面有一層光亮的黏膜。",
+   "任何地方長霉，包括油脂封層底下。"
+  ],
+  "tips": [
+   "每次都把保鮮膜壓在切面上；讓它變灰的就是空氣。",
+   "從一端切起，不要從中間挖，暴露的面積才小。",
+   "一次切一份上桌，其餘留在冰箱，不要整模端出去。",
+   "在包裝上寫下你破開油脂封層的日期。"
+  ],
+  "faq": [
+   {
+    "q": "肉醬冷藏可以放多久？",
+    "a": "4 °C 以下約 7 天，並用保鮮膜緊貼切面。"
+   },
+   {
+    "q": "肉醬可以冷凍嗎？",
+    "a": "這裡沒有對應期限，而且通常不划算——冷凍會破壞乳化，解凍後又沙又出水。"
+   },
+   {
+    "q": "表面那層油脂可以讓肉醬放更久嗎？",
+    "a": "只有在它完整的時候。那層油脂就是封口；一旦切穿，產品就算已開封，把油脂抹回去也無法逆轉。"
+   }
+  ]
+ }
+}

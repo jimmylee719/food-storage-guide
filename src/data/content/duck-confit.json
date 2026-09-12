@@ -1,0 +1,91 @@
+{
+ "slug": "duck-confit",
+ "en": {
+  "name": "Duck confit",
+  "aliases": [
+   "confit de canard",
+   "confit duck leg",
+   "goose confit",
+   "preserved duck leg"
+  ],
+  "summary": "Duck confit is legs salted, cooked slowly in fat and stored under a seal of that fat. The fat cap is the seal, and breaking it resets everything: once opened, the confit is a cooked meat dish with 3–4 days at 4 °C (40 °F) or below, or 2–3 months frozen. Unopened, there is no number here — only a rule, explained below.",
+  "pantry": "A retorted tin or jar bought off an ambient shelf is shelf-stable to its printed date, and what makes it so is a commercial sterilisation, not the fat. A crock of home-made confit is a different thing, and this is where the tradition and the modern kitchen part company. Meat submerged under a fat seal is a low-acid food in an anaerobic environment, which is the classic setting for Clostridium botulinum, and the guidance for foods held under oil at room temperature is that they belong in the refrigerator. The old farmhouse method relied on a cold stone cellar, a heavy salt cure and a short winter season; a warm modern kitchen supplies none of those. It is a real technique, not an unsafe one — it simply depended on conditions most homes no longer have.",
+  "fridge": "Keep it at 4 °C (40 °F) or below. An unopened chilled pack keeps to its printed date. For home-made confit — salted overnight, cooked slowly in fat, packed into a sterile jar and covered completely with strained fat with no air pockets — no agency publishes a figure, so this page will not invent one: it keeps for weeks in the refrigerator, and the honest instruction is to keep it cold, keep it covered and use your nose. Once you break the fat seal the clock resets: what is underneath is a cooked meat dish with 3–4 days in it. Lifting a leg out and smoothing the fat back over the rest restores the look of a seal but not the seal — the fat has been broken, contaminated and re-set over a surface that has met a spoon and the air.",
+  "freezer": "Cooked meat dishes keep 2–3 months at −18 °C (0 °F), and confit freezes very well. Freeze the legs individually with a good coat of fat on them: the fat is excellent protection against freezer burn, better than any wrapping. Bag them once they are solid and label the bag. Frozen food stays safe indefinitely at −18 °C; the months are about quality.",
+  "thawing": "Thaw overnight in the fridge, then crisp the skin in a hot oven or a dry pan. Never thaw on the counter, and treat thawed confit as an opened product — a few days, not weeks.",
+  "spoilage": [
+   "A sour, cheesy or fermented smell when the fat is broken.",
+   "Bubbles rising in the fat, or a lid that is domed or hisses when opened.",
+   "Fat gone cloudy, pink or streaked rather than evenly pale.",
+   "Any mould at the fat surface or around the rim of the jar."
+  ],
+  "tips": [
+   "Portion into small jars so you open only what you will eat in a few days.",
+   "Strain the fat while it is hot and pour it over so no air pockets are trapped.",
+   "Write the date you broke the seal on the jar, not the date you made it.",
+   "Freeze the legs coated in fat rather than wiped clean."
+  ],
+  "faq": [
+   {
+    "q": "How long does duck confit keep once opened?",
+    "a": "3–4 days at 4 °C (40 °F) or below. Once the fat cap is broken it is simply a cooked meat dish."
+   },
+   {
+    "q": "Can you keep duck confit at room temperature?",
+    "a": "Only a commercially retorted tin or jar, to its printed date. Home-made confit under fat is a low-acid food excluded from air and belongs in the refrigerator."
+   },
+   {
+    "q": "Does smoothing the fat back over reseal it?",
+    "a": "No. It restores the appearance of a seal but not the seal — the fat has already been broken over a surface that met a spoon and the air."
+   },
+   {
+    "q": "Can you freeze duck confit?",
+    "a": "Yes, 2–3 months at −18 °C (0 °F). Freeze the legs with their coat of fat on, which protects them from freezer burn."
+   }
+  ]
+ },
+ "zh": {
+  "name": "油封鴨",
+  "aliases": [
+   "confit de canard",
+   "油封鴨腿",
+   "法式油封鴨",
+   "油封鵝"
+  ],
+  "summary": "油封鴨是把鴨腿抹鹽、以油脂低溫慢煮後，浸在同一份油脂底下保存。那層油脂就是封口，一旦破開，一切重新計時：開封後它就是一道熟肉料理，4 °C 以下 3～4 天，或冷凍 2～3 個月。未開封的部分，這裡沒有數字，只有一條規則，說明如下。",
+  "pantry": "從常溫貨架上買到的殺菌罐頭或玻璃罐，可以放到標示日期為止，而讓它常溫穩定的是商業滅菌，不是那層油脂。自家做的一罐油封則完全是另一回事，傳統與現代廚房也正是在這裡分道揚鑣。浸在油脂封層底下的肉，是一種處於無氧環境的低酸性食品，而那正是肉毒桿菌（Clostridium botulinum）的典型舞台；對於浸油保存的食品，通則是：它該放冰箱。以前農家的做法，靠的是冰冷的石造地窖、重鹽醃漬與短暫的冬季；溫暖的現代廚房一項都提供不了。這不是在說傳統做法不安全——它只是依賴大多數家庭已經沒有的條件。",
+  "fridge": "請放 4 °C 以下。未開封的冷藏包裝可放到標示日期。自製油封——前一晚抹鹽、以油脂慢煮、裝進消毒過的罐子、用過濾後的油脂完全覆蓋且不留空隙——沒有任何機構公布過數字，所以本頁不會憑空生一個：它在冰箱裡可以放數週，而誠實的指示是保持低溫、保持覆蓋、並相信你的鼻子。一旦破開油脂封層，時鐘就重新開始：底下那個東西是一道熟肉料理，只剩 3～4 天。夾一支腿出來、再把油脂抹平回去，只還原了封口的外觀而不是封口本身——油脂已經被破壞、被污染，然後重新蓋在一個接觸過湯匙與空氣的表面上。",
+  "freezer": "熟肉料理在 −18 °C 下可放 2～3 個月，而油封鴨非常適合冷凍。每支腿帶著一層厚厚的油脂分開冷凍：那層油脂是比任何包材都好的防凍傷保護。凍硬之後再裝袋並標上日期。−18 °C 下安全性是無限期的，月數講的是品質。",
+  "thawing": "冷藏隔夜解凍，再用熱烤箱或乾鍋把皮煎脆。不要放室溫退冰；解凍後的油封請當成已開封的產品看待——是幾天，不是幾週。",
+  "spoilage": [
+   "破開油脂時聞到酸味、起司味或發酵味。",
+   "油脂中有氣泡上升，或罐蓋鼓起、打開時有洩氣聲。",
+   "油脂變混濁、泛粉紅或出現條紋，而不是均勻的淡色。",
+   "油脂表面或罐口周圍出現任何霉。"
+  ],
+  "tips": [
+   "分裝成小罐，一次只開幾天內吃得完的量。",
+   "趁熱過濾油脂再倒入，才不會包進空氣。",
+   "在罐子上寫的是「破封日期」，不是製作日期。",
+   "冷凍時讓鴨腿帶著油脂，不要把油抹乾淨。"
+  ],
+  "faq": [
+   {
+    "q": "油封鴨開封後可以放多久？",
+    "a": "4 °C 以下 3～4 天。油脂封層一破，它就只是一道熟肉料理。"
+   },
+   {
+    "q": "油封鴨可以放常溫嗎？",
+    "a": "只有商業殺菌的罐頭或玻璃罐可以，並以標示日期為準。自製的浸油油封是隔絕空氣的低酸性食品，應該冷藏。"
+   },
+   {
+    "q": "把油脂抹平回去算重新密封嗎？",
+    "a": "不算。那只還原了封口的外觀；油脂已經在一個接觸過湯匙和空氣的表面上被破壞過了。"
+   },
+   {
+    "q": "油封鴨可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2～3 個月。讓鴨腿帶著油脂一起凍，可以有效防止凍傷。"
+   }
+  ]
+ }
+}

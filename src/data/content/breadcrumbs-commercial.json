@@ -1,0 +1,83 @@
+{
+ "slug": "breadcrumbs-commercial",
+ "en": {
+  "name": "Breadcrumbs, commercial",
+  "aliases": [
+   "dried breadcrumbs",
+   "panko",
+   "麵包粉",
+   "golden breadcrumbs"
+  ],
+  "summary": "Commercial dried breadcrumbs, panko included, keep about 6 months in a sealed container in the cupboard. They are dried bread, so the two things that end them are damp and the small amount of fat in the crumb going stale.",
+  "pantry": "A sealed container in a cool, dark, dry cupboard gives about 6 months. Breadcrumbs are dried far enough that nothing grows in them, but they are also porous and hygroscopic — a box left open in a steamy kitchen draws moisture, clumps and eventually moulds, which is much faster than the calendar suggests. Keep them away from the hob and the kettle, decant the cardboard box into an airtight jar, and do not tip used crumbs from a coating bowl back into the container, since flour, egg and meat juices ruin the whole jar.",
+  "fridge": "No refrigerator timeline is published for commercial breadcrumbs, so none is given. A fridge is a humid environment and breadcrumbs are a dry good, so the cupboard is the better home in most kitchens. If yours is very hot and humid, an airtight jar in the fridge is defensible — but let it reach room temperature before opening, or you will condense water into a product whose entire virtue is dryness. Fresh breadcrumbs made from a loaf are a different thing entirely and belong in the freezer.",
+  "freezer": "No freezer figure is given for the commercial dried kind. Freezing them is unnecessary — the cupboard already covers half a year — and every trip out of the freezer risks condensation. Fresh breadcrumbs you have blitzed from a stale loaf are the ones worth freezing: they freeze loose in a bag and can be used from frozen, though no published figure is offered for those here either.",
+  "thawing": null,
+  "spoilage": [
+   "A stale, rancid or crayon-like smell from the fat in the crumb.",
+   "Clumping or damp patches — moisture has got in.",
+   "Visible mould, usually in a container left open in a humid kitchen.",
+   "Webbing, small moths or fine dust, which breadcrumbs attract readily."
+  ],
+  "tips": [
+   "Decant the box into an airtight jar as soon as you open it.",
+   "Pour out what you need; never tip used coating crumbs back in.",
+   "Keep the jar away from the kettle and the hob.",
+   "Blitz stale bread and freeze the crumbs rather than buying more than you use."
+  ],
+  "faq": [
+   {
+    "q": "How long do breadcrumbs keep?",
+    "a": "About 6 months in an airtight container in a cool, dark, dry cupboard."
+   },
+   {
+    "q": "Can breadcrumbs go mouldy?",
+    "a": "Yes, if they take up moisture. Clumping and damp patches come first, and a container left open in a steamy kitchen is the usual cause."
+   },
+   {
+    "q": "Should breadcrumbs be refrigerated?",
+    "a": "No — a fridge is humid and they are a dry good. Fresh breadcrumbs made from a loaf are different and are best frozen."
+   }
+  ]
+ },
+ "zh": {
+  "name": "市售麵包粉",
+  "aliases": [
+   "麵包屑",
+   "パン粉",
+   "panko",
+   "乾燥麵包粉"
+  ],
+  "summary": "市售乾燥麵包粉（包括日式麵包粉）密封放櫥櫃約可放 6 個月。它就是乾燥的麵包，所以終結它的兩件事是受潮，以及麵包屑裡少量油脂走味。",
+  "pantry": "密封容器放陰涼、避光、乾燥的櫥櫃，約 6 個月。麵包粉乾燥到什麼都長不起來，但它同時多孔而且很吸濕——一盒在蒸氣瀰漫的廚房裡敞著的麵包粉會吸水、結塊，最後發霉，而且遠比日曆上的數字快。請遠離爐台和熱水瓶，把紙盒裡的內容物倒進密封罐，也不要把裹粉碗裡用剩的麵包粉倒回罐子，因為麵粉、蛋液和肉汁會毀掉一整罐。",
+  "fridge": "市售麵包粉沒有公布的冷藏期限，所以本頁不給。冰箱是潮濕的環境，而麵包粉是乾貨，所以大多數廚房裡櫥櫃才是更好的位置。如果你家又熱又濕，密封罐放冰箱說得過去——但開封前先回到室溫，否則你會把水凝進一個「全部優點就是乾燥」的產品裡。用吐司自己打的新鮮麵包粉則完全是另一回事，那種該放冷凍庫。",
+  "freezer": "市售乾燥麵包粉沒有給冷凍數字。冷凍它沒有必要——櫥櫃已經涵蓋半年——而且每次拿出冷凍庫都可能結露。值得冷凍的是你用放乾的吐司打出來的新鮮麵包粉：裝袋鬆散冷凍、可以直接從冷凍使用，不過本頁同樣沒有它的公布數字。",
+  "thawing": null,
+  "spoilage": [
+   "麵包屑裡的油脂散發陳味、油耗味或蠟筆味。",
+   "結塊或出現受潮的區塊——水氣跑進去了。",
+   "看得見霉，通常發生在潮濕廚房裡敞著的容器。",
+   "出現絲網、小蛾或細粉屑；麵包粉很容易招來牠們。"
+  ],
+  "tips": [
+   "一開封就把紙盒倒進密封罐。",
+   "要用多少倒多少；裹粉用剩的絕對不要倒回去。",
+   "罐子遠離熱水瓶和爐台。",
+   "與其買超過用量，不如把放乾的吐司打成粉冷凍起來。"
+  ],
+  "faq": [
+   {
+    "q": "麵包粉可以放多久？",
+    "a": "密封容器放陰涼、避光、乾燥的櫥櫃約 6 個月。"
+   },
+   {
+    "q": "麵包粉會發霉嗎？",
+    "a": "會，只要它吸了水。先是結塊和受潮，而原因通常是容器在蒸氣多的廚房裡敞著。"
+   },
+   {
+    "q": "麵包粉要冷藏嗎？",
+    "a": "不用——冰箱潮濕，而它是乾貨。用吐司自製的新鮮麵包粉則不同，最好冷凍。"
+   }
+  ]
+ }
+}

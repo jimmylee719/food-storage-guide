@@ -1,0 +1,81 @@
+{
+ "slug": "whole-wheat-bread-homemade",
+ "en": {
+  "name": "Whole wheat bread, homemade",
+  "aliases": [
+   "homemade wholemeal loaf",
+   "home-baked brown bread",
+   "自製全麥麵包"
+  ],
+  "summary": "A homemade wholemeal loaf keeps 3–5 days at cool room temperature and 3 months in the freezer at −18 °C (0 °F) — and it may well be at the shorter end of that, because there are no preservatives in it. Refrigeration is not recommended: bread stales faster in a fridge.",
+  "pantry": "Cool the loaf completely on a rack before you wrap it — a warm loaf in a bag steams itself, softens its own crust and moulds in a day. After that, a paper bag or a bread bin at cool room temperature, out of the sun, gives 3–5 days. Expect the shorter end of that span: a home loaf has none of the mould inhibitors or emulsifiers that keep a commercial loaf soft, which is the trade you made for the flavour. Cut from the middle and store the two halves cut-face down if you want the crumb to stay moist.",
+  "fridge": "Refrigeration is not recommended. Bread goes stale through starch retrogradation, which is at its fastest just above freezing, so the fridge dries a loaf out considerably faster than the counter does while doing little against mould. A home-baked loaf, with its open crumb and thin crust, suffers this even more obviously than a packaged one. In a hot, humid kitchen, freeze it rather than refrigerating it.",
+  "freezer": "Freeze for 3 months at −18 °C (0 °F). Slice the loaf first — a whole frozen loaf is close to useless on a weekday morning — then bag the slices with the air pressed out, or freeze the loaf in halves if you would rather have it fresh-cut. Wrap it while it is completely cool but as soon after baking as possible, because freezing preserves the loaf at whatever stage you froze it. Toast from frozen. Frozen food stays safe indefinitely at −18 °C; the months are about quality.",
+  "thawing": "Toast slices straight from frozen, or thaw a half loaf wrapped at room temperature and refresh it in a hot oven for a few minutes. Never thaw bread in the fridge.",
+  "spoilage": [
+   "Any mould spot, of any colour, anywhere on the loaf.",
+   "A musty or alcoholic smell rather than a bready one.",
+   "A crumb gone dry, hard and crumbling — stale rather than unsafe.",
+   "A sticky, ropy crumb that pulls into threads when torn."
+  ],
+  "tips": [
+   "Cool completely on a rack before bagging; a warm loaf moulds fast.",
+   "Slice before freezing so you can take out a slice at a time.",
+   "Freeze on baking day rather than when the loaf is already going stale.",
+   "Use a paper bag or a bread bin, not an airtight plastic box, which softens the crust."
+  ],
+  "faq": [
+   {
+    "q": "How long does homemade wholemeal bread keep?",
+    "a": "3–5 days at cool room temperature, and often the shorter end, since there are no preservatives. Frozen, 3 months."
+   },
+   {
+    "q": "Why does homemade bread go stale faster than shop bread?",
+    "a": "A commercial loaf contains emulsifiers and mould inhibitors that keep it soft for longer. A home loaf has neither."
+   },
+   {
+    "q": "Can you refrigerate homemade bread?",
+    "a": "It is not recommended — the fridge is where bread stales fastest. Freeze it instead."
+   }
+  ]
+ },
+ "zh": {
+  "name": "自製全麥麵包",
+  "aliases": [
+   "家用全麥吐司",
+   "手作全麥麵包",
+   "自家烘焙麵包"
+  ],
+  "summary": "自製的全麥麵包放在涼爽室溫可放 3～5 天，−18 °C 冷凍 3 個月——而且很可能落在這個區間的短邊，因為它完全沒有防腐成分。不建議冷藏：麵包在冰箱裡老化得更快。",
+  "pantry": "包起來之前，先在網架上完全放涼——溫熱的麵包裝進袋子會自己悶出蒸氣、把外皮泡軟，一天就發霉。放涼之後，用紙袋或麵包箱放在涼爽、不曬太陽的室溫，可放 3～5 天。請預期會落在短邊：自家麵包沒有商業麵包那些抑霉劑和乳化劑來維持柔軟，而這正是你為了風味所做的取捨。想讓內部保持濕潤，就從中間切，兩半以切面朝下擺放。",
+  "fridge": "不建議冷藏。麵包因澱粉老化而變乾變硬，而那在略高於冰點時最快，所以冰箱讓麵包乾得比放檯面快得多，對防霉卻幫助有限。自家烘焙的麵包氣孔大、外皮薄，這個現象比包裝麵包更明顯。廚房濕熱的話，請冷凍而不是冷藏。",
+  "freezer": "−18 °C 冷凍 3 個月。先切片再凍——平日早上面對一整條冷凍麵包幾乎是無解——切好裝袋壓出空氣；想保留現切口感的話，也可以切成兩半再凍。請在完全放涼、但盡可能接近出爐的時間點包起來冷凍，因為冷凍只會把麵包保存在你冷凍它的那個狀態。直接從冷凍烤。−18 °C 下安全性是無限期的，月數講的是品質。",
+  "thawing": "切片直接從冷凍烤，或把半條連包裝放室溫回溫，再進熱烤箱幾分鐘回烤。麵包絕對不要放冷藏解凍。",
+  "spoilage": [
+   "麵包上任何位置出現任何顏色的霉點。",
+   "聞起來有霉味或酒精味，而不是麵包香。",
+   "麵包心變乾、變硬、一碰就碎——那是走味而不是不安全。",
+   "麵包心變得黏稠，撕開會牽絲。"
+  ],
+  "tips": [
+   "在網架上完全放涼再裝袋；溫熱入袋很快就發霉。",
+   "先切片再冷凍，才能一片一片拿。",
+   "烘焙當天就冷凍，不要等到麵包已經開始變乾。",
+   "用紙袋或麵包箱，不要用密閉塑膠盒，那會把外皮悶軟。"
+  ],
+  "faq": [
+   {
+    "q": "自製全麥麵包可以放多久？",
+    "a": "涼爽室溫 3～5 天，而且常落在短邊，因為沒有防腐成分。冷凍則是 3 個月。"
+   },
+   {
+    "q": "為什麼自製麵包比市售麵包更快變硬？",
+    "a": "商業麵包含有乳化劑和抑霉成分，能讓它維持柔軟更久。自家麵包兩者都沒有。"
+   },
+   {
+    "q": "自製麵包可以冷藏嗎？",
+    "a": "不建議——冰箱正是麵包老化最快的地方。要保存請冷凍。"
+   }
+  ]
+ }
+}

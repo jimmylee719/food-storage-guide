@@ -1,0 +1,85 @@
+{
+ "slug": "canned-goods-high-acid",
+ "en": {
+  "name": "Canned goods, high acid",
+  "aliases": [
+   "canned fruit",
+   "canned tomatoes",
+   "canned juice",
+   "pickles in cans",
+   "sauerkraut"
+  ],
+  "summary": "High-acid canned goods — juices, fruit, pickles, sauerkraut, tomato soup, anything in a vinegar-based sauce — keep 12–18 months from purchase in the cupboard. They will be safe well past the use-by or best-by date as long as the can shows no dents, rust or swelling. Once opened, 5–7 days refrigerated.",
+  "pantry": "A cool, dry, dark cupboard gives 12–18 months from purchase, and canned items will be safe to eat well past the use-by or best-by date as long as the can shows no dents, rust or swelling. Those three things are the real test, not the calendar. The reason high-acid cans get a shorter window than low-acid ones is not safety but the can itself: acid slowly attacks the lining and the metal, so tomatoes and fruit take on a tinny taste and can corrode a seam from the inside. Store cans off a damp floor, and never keep a can that is bulging, leaking or heavily rusted at the seam.",
+  "fridge": "Once opened, transfer the contents to a clean covered container — not back into the can — and refrigerate at 4 °C (40 °F) or below for 5–7 days. Leaving food in an opened can is more about metallic taste than safety with a modern lined can, but a covered glass or plastic box is the better habit, and it lets you see what you have. Keep fruit under its syrup or juice so the top layer does not dry and darken.",
+  "freezer": "No freezer timeline is given for canned goods here. Never put an unopened can in the freezer: the contents expand and can split the seam or burst the can. Leftovers from an opened can can be frozen once decanted, and will be safe indefinitely at −18 °C (0 °F), though no figure is published for them — canned fruit freezes reasonably in its syrup, while tomatoes freeze very well and are best portioned flat in bags.",
+  "thawing": "Thaw in the fridge, or tip frozen tomato or fruit straight into the pot if it is going to be cooked. Never thaw on the counter.",
+  "spoilage": [
+   "A bulging or swollen can, a leaking seam, or a can that hisses or spurts when opened — discard without tasting.",
+   "Deep rust, especially at the seam, or a badly dented seam.",
+   "Liquid gone cloudy, foamy or ropy, or an off, fermented smell.",
+   "Any mould at the surface after the can has been opened and stored."
+  ],
+  "tips": [
+   "Rotate your cans; write the purchase month on the lid with a marker.",
+   "Never store cans on a damp floor — rust starts from the outside.",
+   "Decant leftovers into a covered container rather than keeping the can.",
+   "Discard a bulging can without opening it, and do not taste to check."
+  ],
+  "faq": [
+   {
+    "q": "How long do high-acid canned goods keep?",
+    "a": "12–18 months from purchase in a cool, dry cupboard, and they stay safe well past the printed date as long as the can is not dented, rusted or swollen."
+   },
+   {
+    "q": "How long do they keep once opened?",
+    "a": "5–7 days at 4 °C (40 °F) or below, decanted into a covered container."
+   },
+   {
+    "q": "Why do acidic cans keep less time than meat or bean cans?",
+    "a": "Acid slowly attacks the can lining and the metal, so the quality falls off first — the food takes on a metallic taste and the seam can corrode."
+   }
+  ]
+ },
+ "zh": {
+  "name": "高酸性罐頭食品",
+  "aliases": [
+   "水果罐頭",
+   "番茄罐頭",
+   "果汁罐",
+   "酸菜罐頭",
+   "醋漬罐頭"
+  ],
+  "summary": "高酸性罐頭——果汁、水果、醃漬物、德式酸菜、番茄湯，以及各種泡在醋基醬汁裡的食品——從購買日起算放櫥櫃 12～18 個月。只要罐身沒有凹陷、生鏽或膨脹，超過有效日期或賞味期限之後仍然可以安全食用。開封後冷藏 5～7 天。",
+  "pantry": "陰涼、乾燥、避光的櫥櫃，從購買日起算 12～18 個月；只要罐身沒有凹陷、生鏽或膨脹，罐頭在標示日期之後仍然可以安全食用。真正的判準是那三件事，不是日曆。高酸性罐頭的期限比低酸性短，理由不是安全而是罐子本身：酸會慢慢侵蝕內膜和金屬，所以番茄和水果會帶出金屬味，接縫也可能從內部被腐蝕。罐頭不要直接放在潮濕的地面上；膨脹、滲漏或接縫嚴重生鏽的，一律不要留。",
+  "fridge": "開封後把內容物移到乾淨的加蓋容器——不要留在罐子裡——放 4 °C 以下 5～7 天。以現代有內膜的罐頭來說，留在罐裡比較是金屬味的問題而不是安全問題，但用加蓋的玻璃或塑膠盒是更好的習慣，也看得到裡面還有什麼。水果請保持浸在糖水或果汁裡，最上層才不會變乾變深色。",
+  "freezer": "這裡沒有給罐頭的冷凍期限。未開封的罐頭絕對不要放冷凍庫：內容物膨脹會撐裂接縫甚至把罐子擠爆。開封後倒出來的剩料可以冷凍，在 −18 °C 下安全性是無限期的，只是沒有公布數字——水果連糖水冷凍還可以，番茄則非常耐凍，建議分份壓平裝袋。",
+  "thawing": "放冷藏解凍；如果接下來要下鍋煮，冷凍的番茄或水果可以直接丟進鍋裡。不要放室溫退冰。",
+  "spoilage": [
+   "罐身膨脹、接縫滲漏，或打開時有洩氣聲、噴汁——直接丟棄，不要試吃。",
+   "嚴重生鏽（尤其接縫處），或接縫被撞出深凹。",
+   "湯汁變混濁、起泡或牽絲，或聞起來有異味、發酵味。",
+   "開封保存後表面出現任何霉。"
+  ],
+  "tips": [
+   "庫存要輪替；用麥克筆在蓋上寫購買月份。",
+   "罐頭不要放在潮濕地面——生鏽是從外面開始的。",
+   "剩料倒進加蓋容器，不要留在罐子裡。",
+   "膨脹的罐頭連開都不要開，也不要「嘗一口看看」。"
+  ],
+  "faq": [
+   {
+    "q": "高酸性罐頭可以放多久？",
+    "a": "從購買日起算，陰涼乾燥的櫥櫃 12～18 個月；只要沒有凹陷、生鏽或膨脹，超過標示日期仍然安全。"
+   },
+   {
+    "q": "開封後可以放多久？",
+    "a": "倒進加蓋容器、放 4 °C 以下，5～7 天。"
+   },
+   {
+    "q": "為什麼酸性罐頭比肉類、豆類罐頭短？",
+    "a": "因為酸會慢慢侵蝕罐頭內膜和金屬，品質先下滑——食物帶出金屬味，接縫也可能被腐蝕。"
+   }
+  ]
+ }
+}

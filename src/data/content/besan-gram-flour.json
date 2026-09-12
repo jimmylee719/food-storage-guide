@@ -1,0 +1,83 @@
+{
+ "slug": "besan-gram-flour",
+ "en": {
+  "name": "Besan (gram flour)",
+  "aliases": [
+   "gram flour",
+   "chickpea flour",
+   "chana flour",
+   "kadalai maavu"
+  ],
+  "summary": "Besan is ground chana dal — a legume flour, not a cereal one — and it carries far more oil than wheat flour. That is what limits it: about 2–3 months in a cool cupboard, and about 6 months refrigerated. Both figures are read across from full-fat soy flour, the closest published legume flour; no source names besan.",
+  "pantry": "Keep besan sealed in a cool, dark cupboard and use it within about 2–3 months. Rancidity is what finishes it — not mould, not insects. A bitter or paint-like smell when you open the jar means it has turned, and nothing recovers it; the pakoras will taste bitter no matter what you put in the batter. Buy small bags rather than the big economy sack, and keep it away from the stove, because heat is what costs you the most.",
+  "fridge": "The fridge is the right home for a big bag: about 6 months at 4 °C (40 °F) or below in a well-sealed container. Seal it properly, because besan takes up fridge odours readily and a flour that smells of last night's curry is no use in a delicate batter. Bring the container back to room temperature before you open it so moisture condenses on the outside rather than in the flour, and stir it before measuring — cold besan packs down tighter than you expect.",
+  "freezer": "No freezer timeline is given for besan here. Freezing an airtight container works on the same principle as refrigeration — cold slows the oil turning — but no published figure exists for it, so this page will not supply one. If you buy in bulk, the fridge covers the realistic span of a large bag, and a sealed jar in the freezer is best treated as an extension of that rather than as a documented shelf life.",
+  "thawing": null,
+  "spoilage": [
+   "A bitter, paint-like or crayon smell on opening — rancid legume oil.",
+   "A distinctly sour or musty note instead of a clean, nutty chickpea smell.",
+   "Clumping or damp patches in a flour that should run free.",
+   "Webbing, small moths or fine dust in the bag."
+  ],
+  "tips": [
+   "Buy small bags — two to three months is not long for a flour you use occasionally.",
+   "Smell it before you batter anything; rancidity is invisible.",
+   "Keep a sealed jar in the fridge and a small working jar in the cupboard.",
+   "Do not store it next to spices; it picks up smells through a loose bag."
+  ],
+  "faq": [
+   {
+    "q": "How long does besan last?",
+    "a": "About 2–3 months in a cool, sealed cupboard, or about 6 months refrigerated. Those figures are borrowed from full-fat soy flour."
+   },
+   {
+    "q": "Should besan be kept in the fridge?",
+    "a": "A big bag, yes. Besan carries much more oil than wheat flour, and cold slows that oil turning rancid."
+   },
+   {
+    "q": "How do you tell if besan has gone bad?",
+    "a": "Smell it. Bitter, paint-like or crayon notes mean the oil has turned, and nothing brings it back."
+   }
+  ]
+ },
+ "zh": {
+  "name": "鷹嘴豆粉",
+  "aliases": [
+   "besan",
+   "雞豆粉",
+   "印度豆粉",
+   "gram flour"
+  ],
+  "summary": "Besan 是研磨去皮鷹嘴豆瓣做成的粉——屬於豆類粉而不是穀類粉，含油量遠高於小麥麵粉。限制它的正是油脂：陰涼櫥櫃約 2～3 個月，冷藏約 6 個月。兩個數字都借自「全脂黃豆粉」，那是目前已公布數字中最接近的豆類粉；沒有任何來源直接寫到 besan。",
+  "pantry": "密封放陰涼避光的櫥櫃，約 2～3 個月內用完。終結它的是油耗——不是霉，也不是蟲。打開罐子聞到苦味或油漆味就代表它變質了，而且救不回來；不管麵糊裡加什麼，炸出來的餅都會帶苦。請買小包裝而不是大容量包，並遠離爐火，因為高溫是損失最大的一項。",
+  "fridge": "大包裝最適合放冰箱：4 °C 以下、確實密封的容器，約 6 個月。密封一定要做好，因為鷹嘴豆粉很會吸冰箱的氣味，一罐聞起來像昨晚咖哩的粉，做細緻的麵糊完全不能用。開封前先讓容器回到室溫，讓水氣凝在容器外面而不是粉裡；量取前先攪鬆，冰過的豆粉壓得比你以為的還實。",
+  "freezer": "這裡沒有給鷹嘴豆粉的冷凍期限。把密封容器冷凍的原理和冷藏一樣——低溫延緩油脂變質——但沒有公布過的數字，所以本頁不會憑空給一個。如果你大量採購，冷藏已經涵蓋一大包粉的實際使用期；密封罐放冷凍，請當成冷藏的延伸，而不是一個有出處的保存期限。",
+  "thawing": null,
+  "spoilage": [
+   "開封時聞到苦味、油漆味或蠟筆味——豆類油脂走油耗。",
+   "出現明顯的酸味或霉味，而不是乾淨的鷹嘴豆堅果香。",
+   "本該鬆散的粉出現結塊或受潮的區塊。",
+   "袋內有絲網、小蛾或細粉屑。"
+  ],
+  "tips": [
+   "買小包——對偶爾才用的粉來說，兩三個月並不長。",
+   "調麵糊前先聞一下；油耗是看不出來的。",
+   "冰箱放一罐密封庫存，櫥櫃放一小罐日常用量。",
+   "不要和香料放一起；隔著鬆口的袋子它照樣會吸味。"
+  ],
+  "faq": [
+   {
+    "q": "鷹嘴豆粉可以放多久？",
+    "a": "密封放陰涼櫥櫃約 2～3 個月，冷藏約 6 個月。這些數字借自全脂黃豆粉。"
+   },
+   {
+    "q": "鷹嘴豆粉要冰嗎？",
+    "a": "大包裝建議冰。它的含油量遠高於小麥麵粉，低溫能延緩油脂走油耗。"
+   },
+   {
+    "q": "怎麼判斷鷹嘴豆粉壞了？",
+    "a": "用聞的。出現苦味、油漆味或蠟筆味就是油脂變質了，而且救不回來。"
+   }
+  ]
+ }
+}

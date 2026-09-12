@@ -1,0 +1,83 @@
+{
+ "slug": "dry-egg-noodles",
+ "en": {
+  "name": "Dry egg noodles",
+  "aliases": [
+   "egg pasta",
+   "dried egg noodles",
+   "tagliatelle all'uovo",
+   "egg nests"
+  ],
+  "summary": "Dry egg noodles are pasta made with egg rather than water, which changes how they store. Unopened they keep about 2 years from purchase, but once the packet is opened that falls sharply to 1–2 months — the fat in the egg yolk is what makes the difference.",
+  "pantry": "An unopened packet keeps about 2 years from purchase in a cool, dark, dry cupboard. Once you open it, reseal it or decant it into an airtight jar and use it within 1–2 months. That drop surprises people who are used to plain dry pasta keeping for years after opening, and the reason is the egg: yolk brings fat into the dough, and fat goes rancid on contact with air and light in a way that semolina and water simply do not. Keep the jar away from the stove and out of the light, and buy the size of packet you will finish in a couple of months.",
+  "fridge": "No refrigerator timeline is published for dry egg noodles, so none is given. In a hot, humid kitchen an airtight jar in the fridge is a reasonable way to slow the egg fat turning, provided the seal is genuine and you let the jar come back to room temperature before opening it, so condensation forms on the glass rather than on the pasta. Cooked egg noodles are a different food: cool them fast and keep them covered at 4 °C (40 °F) or below.",
+  "freezer": "No freezer figure is given for dry egg noodles either. Freezing a sealed jar does slow rancidity and deals with any pantry insects, but it is not a documented shelf life and this page will not invent one. The practical answer is simpler: buy smaller packets more often, because the one to two months after opening is what actually governs how long a bag of egg noodles is good for.",
+  "thawing": null,
+  "spoilage": [
+   "A bitter, paint-like or crayon smell on opening the jar — rancid egg fat.",
+   "Colour gone from warm yellow to dull grey-beige.",
+   "Webbing, small moths or fine dust in the packet.",
+   "A musty smell or clumping, which means damp has got in."
+  ],
+  "tips": [
+   "Write the opening date on the jar — this is one of the few dry pastas where it matters.",
+   "Buy small packets; two years unopened is irrelevant if you open it on day one.",
+   "Smell them before cooking; rancid egg noodles taste bitter and cannot be rescued.",
+   "Keep them away from the hob — heat is what turns the yolk fat fastest."
+  ],
+  "faq": [
+   {
+    "q": "How long do dry egg noodles keep after opening?",
+    "a": "1–2 months in an airtight jar in a cool, dark cupboard. Unopened, about 2 years from purchase."
+   },
+   {
+    "q": "Why do egg noodles keep so much less time than plain pasta?",
+    "a": "Because egg yolk brings fat into the dough, and fat turns rancid once the packet is open. Plain pasta is just semolina and water."
+   },
+   {
+    "q": "Should dry egg noodles be refrigerated?",
+    "a": "There is no published figure for it, but an airtight jar in the fridge is a reasonable way to slow rancidity in a hot kitchen."
+   }
+  ]
+ },
+ "zh": {
+  "name": "乾燥雞蛋麵",
+  "aliases": [
+   "蛋麵",
+   "雞蛋義大利麵",
+   "乾蛋麵",
+   "egg noodles"
+  ],
+  "summary": "乾燥雞蛋麵是用蛋而不是水和成的麵，這一點改變了它的保存方式。未開封從購買日起算約 2 年，但一旦拆封就驟降到 1～2 個月——差別來自蛋黃裡的油脂。",
+  "pantry": "未開封的包裝放陰涼、避光、乾燥的櫥櫃，從購買日起算約 2 年。一旦拆封，就封緊或倒進密封罐，1～2 個月內用完。這個落差常讓習慣「乾麵開封後還能放好幾年」的人嚇一跳，原因就是蛋：蛋黃把油脂帶進麵團，而油脂一接觸空氣和光線就會走油耗，這是粗粒小麥粉加水的麵完全不會有的問題。罐子請遠離爐火與光線，並且買你兩個月內吃得完的份量。",
+  "fridge": "乾燥雞蛋麵沒有公布的冷藏期限，所以本頁不給。在濕熱的廚房裡，用真正密封的罐子放冰箱，是延緩蛋油變質的合理做法，但開封前要先讓罐子回到室溫，讓水氣凝在玻璃上而不是麵上。煮過的雞蛋麵則是另一種食物：快速降溫、加蓋放 4 °C 以下。",
+  "freezer": "乾燥雞蛋麵也沒有給冷凍數字。把密封罐冷凍確實能延緩油耗、也能解決櫥櫃害蟲，但那不是有出處的保存期限，本頁不會憑空給一個。實際的答案更簡單：少量多次地買，因為真正決定一包蛋麵能撐多久的，是開封後的那一兩個月。",
+  "thawing": null,
+  "spoilage": [
+   "打開罐子聞到苦味、油漆味或蠟筆味——蛋油走油耗。",
+   "顏色從溫暖的黃色變成暗沉的灰米色。",
+   "包裝內出現絲網、小蛾或細粉屑。",
+   "有霉味或結塊，代表濕氣跑進去了。"
+  ],
+  "tips": [
+   "在罐子上寫開封日期——在乾麵裡這是少數真的有差的品項。",
+   "買小包；如果第一天就拆開，未開封的兩年毫無意義。",
+   "下鍋前先聞；走油耗的蛋麵會苦，救不回來。",
+   "遠離爐台——高溫是讓蛋黃油脂最快變質的原因。"
+  ],
+  "faq": [
+   {
+    "q": "乾燥雞蛋麵開封後可以放多久？",
+    "a": "密封罐、陰涼避光的櫥櫃，1～2 個月。未開封則是從購買日起算約 2 年。"
+   },
+   {
+    "q": "為什麼蛋麵比一般乾麵短那麼多？",
+    "a": "因為蛋黃把油脂帶進麵團，而開封後油脂會走油耗。一般乾麵只有粗粒小麥粉和水。"
+   },
+   {
+    "q": "乾燥雞蛋麵要冰嗎？",
+    "a": "沒有公布的數字可引用，但在悶熱的廚房裡，密封罐放冰箱是延緩油耗的合理做法。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "slug": "beans-dried",
+ "en": {
+  "name": "Beans, dried",
+  "aliases": [
+   "dry beans",
+   "pulses",
+   "haricot beans",
+   "kidney beans",
+   "black beans"
+  ],
+  "summary": "Dried beans are one of the most forgiving things in a kitchen: sealed and dry, they keep 1–2 years from purchase, and about 1 year once the bag is opened and they are decanted into a jar. What ends them is almost never safety — it is that old beans get harder and refuse to soften.",
+  "pantry": "Keep them in an airtight jar in a cool, dark, dry cupboard: 1–2 years from purchase unopened, and about 1 year once opened. Two things go wrong slowly — light bleaches the colour, and oxygen turns the small amount of oil in the seed — and one goes wrong faster, which is pantry weevils. Bay leaves in the jar are folklore; a genuinely airtight jar is not. The important thing to understand is that ageing beans harden: a two-year-old bag is safe to eat and frustrating to cook, needing a longer soak and a much longer simmer, and some batches never really come good.",
+  "fridge": "No refrigerator timeline is published for dried beans and they do not need one — a dry cupboard already gives you a year or more. Cold storage does extend the life of any dried pulse, so if your kitchen is hot and humid, an airtight jar in the fridge is a reasonable choice; just let it come back to room temperature before opening so moisture does not condense on the beans. Cooked beans are a different food and belong in the fridge in a covered container.",
+  "freezer": "No freezer figure is given for dried beans either. Freezing an airtight bag is nonetheless a useful trick for a bulk purchase — it settles any question of weevil eggs and slows the seed oil oxidising — but it does not reverse hardening, so it will not rescue beans that are already old. Cooked beans freeze very well in their liquid, which is the more useful thing to put in a freezer.",
+  "thawing": null,
+  "spoilage": [
+   "Small holes in the beans, fine dust, webbing or live weevils in the jar.",
+   "A musty or mouldy smell, which means damp has got in.",
+   "Beans that stay hard after a long soak and a long simmer — an age problem rather than a safety one.",
+   "Any visible mould on beans that have been stored damp."
+  ],
+  "tips": [
+   "Decant into airtight jars and write the purchase date on the lid.",
+   "Buy from a shop with turnover; a bag may already be a year old on the shelf.",
+   "Cook old and new beans in separate pots — they will never finish together.",
+   "Freeze cooked beans in their cooking liquid rather than storing more dry ones than you use."
+  ],
+  "faq": [
+   {
+    "q": "How long do dried beans last?",
+    "a": "1–2 years from purchase sealed, and about 1 year once opened and kept in an airtight jar."
+   },
+   {
+    "q": "Are old dried beans safe to eat?",
+    "a": "Generally yes, if they have been kept dry and insect-free. The problem is that they harden with age and may never soften properly."
+   },
+   {
+    "q": "Do dried beans need to be refrigerated?",
+    "a": "No. An airtight jar in a cool, dark cupboard is enough. The fridge is only worth it in a very hot, humid kitchen."
+   }
+  ]
+ },
+ "zh": {
+  "name": "乾豆",
+  "aliases": [
+   "乾燥豆類",
+   "豆子",
+   "白腰豆",
+   "紅腰豆",
+   "黑豆"
+  ],
+  "summary": "乾豆是廚房裡最寬容的東西之一：密封乾燥保存，從購買日起算可放 1～2 年，開封倒進密封罐後約 1 年。終結它的幾乎從來不是安全問題，而是老豆會愈來愈硬、煮不軟。",
+  "pantry": "裝密封罐，放陰涼、避光、乾燥的櫥櫃：未開封從購買日起算 1～2 年，開封後約 1 年。兩件事慢慢發生——光線會讓顏色褪掉，氧氣會讓種子裡少量的油脂變質——另一件事發生得比較快，就是米象等櫥櫃害蟲。罐子裡放月桂葉是民間說法；真正密封的罐子才是有效的。更重要的是要理解：豆子會隨著年紀變硬。放了兩年的豆子吃起來是安全的，但煮起來很折磨，要泡更久、煮更久，有些批次甚至怎麼煮都不會軟。",
+  "fridge": "乾豆沒有公布的冷藏期限，它也不需要——放乾燥的櫥櫃本來就有一年以上。不過低溫確實能延長任何乾豆的壽命，所以如果你家廚房又熱又濕，密封罐放冰箱是合理的選擇；只要記得開封前先回到室溫，免得水氣凝在豆子上。煮熟的豆子則是另一種食物，要加蓋冷藏。",
+  "freezer": "乾豆也沒有給冷凍數字。不過把密封袋整包冷凍，對大量採購來說是個好用的手法——可以解決蟲卵問題，也延緩種子油脂氧化——但它無法逆轉「變硬」這件事，救不了本來就已經很老的豆子。真正值得放進冷凍庫的，是連著湯汁一起冷凍的熟豆，那效果非常好。",
+  "thawing": null,
+  "spoilage": [
+   "豆子上有小孔、罐內有細粉、絲網或活的米象。",
+   "聞到潮霉味，代表濕氣跑進去了。",
+   "泡很久、煮很久還是硬——這是年紀問題，不是安全問題。",
+   "受潮保存的豆子上出現肉眼可見的霉。"
+  ],
+  "tips": [
+   "倒進密封罐，並在蓋子上寫購買日期。",
+   "跟週轉快的店家買；一包豆子在架上可能已經放了一年。",
+   "新豆和舊豆分鍋煮——它們永遠不會同時煮好。",
+   "與其囤太多乾豆，不如把煮好的豆連湯汁冷凍。"
+  ],
+  "faq": [
+   {
+    "q": "乾豆可以放多久？",
+    "a": "未開封從購買日起算 1～2 年；開封後放密封罐約 1 年。"
+   },
+   {
+    "q": "放很久的乾豆還能吃嗎？",
+    "a": "只要一直保持乾燥、沒有生蟲，通常可以吃。問題在於它會隨年紀變硬，可能怎麼煮都不會軟。"
+   },
+   {
+    "q": "乾豆需要冷藏嗎？",
+    "a": "不需要。陰涼避光的櫥櫃加密封罐就夠了。只有在非常濕熱的廚房才值得放冰箱。"
+   }
+  ]
+ }
+}

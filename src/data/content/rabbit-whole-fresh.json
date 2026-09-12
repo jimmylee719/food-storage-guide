@@ -1,0 +1,83 @@
+{
+ "slug": "rabbit-whole-fresh",
+ "en": {
+  "name": "Rabbit, whole and fresh",
+  "aliases": [
+   "fresh rabbit",
+   "whole rabbit",
+   "farmed rabbit",
+   "coney"
+  ],
+  "summary": "A fresh whole rabbit is very lean white meat with almost no fat cover, which is why it dries out easily and why it keeps a short time chilled. Refrigerated at 4 °C (40 °F) or below it lasts 2 days; frozen at −18 °C (0 °F) it keeps 9 months.",
+  "pantry": "Fresh rabbit has no room-temperature storage. It is raw meat, so the danger zone of 4–60 °C (40–140 °F) and the two-hour rule apply — one hour if the day is above 32 °C (90 °F). Rabbit is often bought from a farm gate or a market stall rather than a chilled cabinet, so take a cool bag: the journey home is where most of its short fridge life gets spent.",
+  "fridge": "Keep it at 4 °C (40 °F) or below, on a tray on the bottom shelf, and cook it within 2 days. That is a genuinely short window, shorter than chicken, so plan the meal around the purchase rather than the other way round. Store it below anything ready to eat, use a separate board and knife, wash your hands after handling it, and cook it right through. If you are marinating it, do so in the fridge in a covered dish, and do not count the marinating time as extra storage.",
+  "freezer": "Rabbit keeps 9 months at −18 °C (0 °F) for best quality, a long window that reflects how little fat there is to go rancid. Joint it before freezing — saddle, legs and forelegs cook at different speeds anyway — and wrap each piece tightly before bagging, because a lean meat with no fat cover suffers badly from freezer burn. Frozen food stays safe indefinitely at −18 °C; the months are about quality. Label with the date.",
+  "thawing": "Thaw in the fridge overnight on a tray, or in a sealed bag under cold running water and cook straight away. Never on the counter. Do not refreeze rabbit that has fully thawed at room temperature — cook it, then freeze the cooked dish if you must.",
+  "spoilage": [
+   "A sour or distinctly gamey-off smell rather than a faintly sweet, clean one.",
+   "A sticky or slimy film on the surface of the carcass.",
+   "Flesh gone dull grey or greenish, especially around the belly flaps.",
+   "Liquid in the pack gone cloudy or ropy."
+  ],
+  "tips": [
+   "Take a cool bag to the market; this meat has no spare days to lose.",
+   "Joint it the day you buy it and freeze what you will not cook.",
+   "Save the liver and kidneys separately and use them first.",
+   "Bard or brine it before roasting — lean rabbit dries out faster than it spoils."
+  ],
+  "faq": [
+   {
+    "q": "How long does fresh rabbit keep in the fridge?",
+    "a": "2 days at 4 °C (40 °F) or below, on a tray on the bottom shelf."
+   },
+   {
+    "q": "Can you freeze rabbit?",
+    "a": "Yes, 9 months at −18 °C (0 °F) for best quality. Joint it first and wrap each piece tightly against freezer burn."
+   },
+   {
+    "q": "How do you thaw rabbit safely?",
+    "a": "Overnight in the fridge on a tray, or in a sealed bag under cold running water followed by immediate cooking. Never on the counter."
+   }
+  ]
+ },
+ "zh": {
+  "name": "全兔（生鮮）",
+  "aliases": [
+   "兔肉",
+   "生鮮兔",
+   "整隻兔子",
+   "白肉兔"
+  ],
+  "summary": "生鮮全兔是非常瘦的白肉，幾乎沒有皮下脂肪，所以容易乾柴，冷藏期也短。放 4 °C 以下冷藏 2 天；−18 °C 冷凍則可放 9 個月。",
+  "pantry": "生鮮兔肉沒有常溫保存。它是生肉，所以 4～60 °C 的危險溫度帶與 2 小時原則都適用，氣溫超過 32 °C 時縮為 1 小時。兔肉常常是在農場或市場攤位買的，不是從冷藏櫃拿的，所以請帶保冷袋：它本來就很短的冷藏壽命，大半是耗在回家的路上。",
+  "fridge": "放 4 °C 以下、最下層墊托盤，2 天內烹調。這個期限是真的短，比雞肉還短，所以請先決定哪天煮再去買，而不是反過來。位置放在所有即食食品下方，砧板和刀要分開，處理後洗手，並且要煮透。要醃的話請在冰箱裡加蓋醃，而且醃的時間算在保存期內，不是額外加送的。",
+  "freezer": "兔肉在 −18 °C 下品質可維持 9 個月，這個期限之所以長，正是因為它沒什麼會走油耗的脂肪。冷凍前先分切——背脊、後腿和前腿本來熟成速度就不同——每塊包緊再裝袋，因為沒有脂肪保護的瘦肉特別怕凍傷。−18 °C 下安全性是無限期的，月數講的是品質。記得標日期。",
+  "thawing": "墊托盤冷藏隔夜解凍，或密封裝袋用冷水沖、沖完立刻下鍋。不要放室溫退冰。已在室溫下完全退冰的兔肉不要再冷凍——先煮熟，真要保存就冷凍煮好的菜。",
+  "spoilage": [
+   "聞起來發酸或有明顯的腐敗腥味，而不是淡淡的清甜味。",
+   "體表摸起來黏手、有一層滑膜。",
+   "肉色轉暗灰或帶綠，尤其是腹脅薄肉的部位。",
+   "包裝裡的血水變混濁或牽絲。"
+  ],
+  "tips": [
+   "去市場記得帶保冷袋；這種肉沒有多餘的天數可以浪費。",
+   "買回來當天就分切，不煮的部分直接冷凍。",
+   "肝和腰子另外收好，而且要最先用掉。",
+   "烤之前包油或泡鹽水——瘦兔肉變乾柴，比變質還快。"
+  ],
+  "faq": [
+   {
+    "q": "生鮮兔肉冷藏可以放多久？",
+    "a": "4 °C 以下、墊托盤放最下層，2 天。"
+   },
+   {
+    "q": "兔肉可以冷凍嗎？",
+    "a": "可以，−18 °C 下 9 個月品質最好。先分切、每塊包緊，才不會凍傷。"
+   },
+   {
+    "q": "兔肉要怎麼安全解凍？",
+    "a": "墊托盤冷藏隔夜，或密封裝袋用冷水沖、沖完立刻烹調。不要放室溫。"
+   }
+  ]
+ }
+}

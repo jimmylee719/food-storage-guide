@@ -1,0 +1,83 @@
+{
+ "slug": "spelt-whole-grain",
+ "en": {
+  "name": "Spelt, whole grain",
+  "aliases": [
+   "dinkel",
+   "spelt berries",
+   "farro grande",
+   "whole spelt"
+  ],
+  "summary": "Whole grain spelt — an ancient hulled wheat, sold as whole berries with the bran and germ intact — keeps about 6 months in a sealed container in the cupboard and 12 months in the freezer at −18 °C (0 °F).",
+  "pantry": "Keep spelt berries airtight in a cool, dark, dry cupboard and use them within about 6 months. It is the germ oil that sets that limit, as with any whole grain: the starchy part of the grain would sit happily for years, but the oil turns and takes the nutty flavour with it. Whole berries keep considerably better than spelt flour, so if you bake with spelt it is worth buying the grain and milling as you go. Keep the jar away from the hob and out of the light.",
+  "fridge": "No refrigerator timeline is published for whole spelt, so none is given here. An airtight jar in the fridge is nonetheless a reasonable home for an opened bag in a hot, humid kitchen, since cold slows the germ oil turning and keeps insects out. The container must genuinely seal, because grain takes up fridge smells, and it should come back to room temperature before you open it so condensation forms on the jar rather than on the grain.",
+  "freezer": "The freezer doubles it, to 12 months at −18 °C (0 °F), in an airtight container or a heavy bag with the air pressed out. That is the sensible answer for a large bag and it settles any question of weevil eggs at the same time. Spelt berries need a long simmer anyway, so cook them straight from frozen. Frozen food stays safe indefinitely at −18 °C; the months are about quality.",
+  "thawing": null,
+  "spoilage": [
+   "A bitter or paint-like smell from rancid germ oil.",
+   "A musty, damp smell, or grains clumping together.",
+   "Webbing, small moths or fine dust in the jar.",
+   "Berries that stay hard in the centre however long they simmer."
+  ],
+  "tips": [
+   "Buy whole berries rather than flour if you want spelt to keep.",
+   "Soak the berries overnight to cut the cooking time.",
+   "Freeze a big bag on the day of purchase.",
+   "Smell the grain before cooking; rancidity does not show."
+  ],
+  "faq": [
+   {
+    "q": "How long does whole spelt keep?",
+    "a": "About 6 months airtight in a cool, dark cupboard, or 12 months at −18 °C (0 °F)."
+   },
+   {
+    "q": "Can you freeze spelt berries?",
+    "a": "Yes, 12 months at −18 °C in an airtight container, and they can be cooked straight from frozen."
+   },
+   {
+    "q": "Does spelt flour keep as long as the whole grain?",
+    "a": "No. Milling exposes the germ oil to air, so spelt flour goes rancid considerably faster."
+   }
+  ]
+ },
+ "zh": {
+  "name": "全粒斯佩爾特小麥",
+  "aliases": [
+   "spelt",
+   "斯佩爾特麥",
+   "古代小麥粒",
+   "dinkel"
+  ],
+  "summary": "全粒斯佩爾特小麥——一種古老的帶殼小麥，以保留麩皮與胚芽的完整麥粒販售——密封放櫥櫃約 6 個月，−18 °C 冷凍 12 個月。",
+  "pantry": "密封放陰涼、避光、乾燥的櫥櫃，約 6 個月內用完。和所有全穀一樣，設下期限的是胚芽油脂：澱粉的部分放好幾年都沒事，但油脂會變質，並把那股堅果香一起帶走。整粒比斯佩爾特麵粉耐放得多，所以如果你用它烘焙，值得買整粒、要用才磨。罐子遠離爐台、避免光照。",
+  "fridge": "全粒斯佩爾特沒有公布的冷藏期限，本頁也不給。不過在濕熱的廚房裡，開封後裝密封罐放冰箱仍然合理，因為低溫能延緩胚芽油脂變質、也擋得住蟲。容器必須真的密封（穀物會吸冰箱的味道），而且開封前先回到室溫，讓水氣凝在罐子上而不是穀粒上。",
+  "freezer": "冷凍讓期限加倍，−18 °C 下 12 個月，裝密封容器或厚袋壓出空氣。大包裝就該這樣處理，也順便解決蟲卵問題。斯佩爾特麥粒本來就要久煮，所以直接從冷凍下鍋即可。−18 °C 下安全性是無限期的，月數講的是品質。",
+  "thawing": null,
+  "spoilage": [
+   "聞到胚芽油走油耗後的苦味或油漆味。",
+   "有潮霉味，或麥粒結成塊。",
+   "罐內出現絲網、小蛾或細粉屑。",
+   "不管燉多久，中心還是硬的。"
+  ],
+  "tips": [
+   "想讓它耐放就買整粒，不要買麵粉。",
+   "煮之前泡水一晚，可以縮短烹煮時間。",
+   "大包裝買回來當天就冷凍。",
+   "煮之前先聞；油耗是看不出來的。"
+  ],
+  "faq": [
+   {
+    "q": "全粒斯佩爾特小麥可以放多久？",
+    "a": "密封、陰涼避光的櫥櫃約 6 個月，或 −18 °C 冷凍 12 個月。"
+   },
+   {
+    "q": "斯佩爾特麥粒可以冷凍嗎？",
+    "a": "可以，−18 °C 下密封容器 12 個月，而且能直接從冷凍下鍋煮。"
+   },
+   {
+    "q": "斯佩爾特麵粉和整粒一樣耐放嗎？",
+    "a": "不一樣。研磨把胚芽油脂暴露在空氣中，麵粉走油耗的速度快得多。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "rye-whole-grain",
+ "en": {
+  "name": "Rye, whole grain",
+  "aliases": [
+   "rye berries",
+   "whole rye",
+   "rye groats",
+   "kernel rye"
+  ],
+  "summary": "Whole grain rye — rye berries, with the bran and germ intact — keeps about 6 months in a sealed container in the cupboard and 12 months in the freezer at −18 °C (0 °F). Milled rye flour is a shorter-lived thing again, because milling exposes the germ oil.",
+  "pantry": "Keep rye berries airtight in a cool, dark, dry cupboard and use them within about 6 months. As with any whole grain, it is the germ oil that sets the limit — the starchy endosperm would sit there for years. Whole berries keep far better than rye flour, so if you have a mill or use a food processor, buying the grain and grinding as you need it is the honest way to get fresh rye flour. Keep the jar away from the hob and out of the light.",
+  "fridge": "No refrigerator timeline is published for whole rye, so none is given here. The fridge is a reasonable home for an opened bag in a hot, humid kitchen, since cold slows the germ oil from turning — the container must be genuinely airtight, because grain takes up smells, and it should come back to room temperature before opening so condensation forms on the container rather than on the grain.",
+  "freezer": "The freezer doubles it to 12 months at −18 °C (0 °F), in an airtight container or a heavy bag with the air pressed out. That is the sensible answer for a big bag, and it settles any weevil question at the same time. Cook rye berries straight from frozen; they need a long simmer in any case, and the extra time from freezing is negligible. Frozen food stays safe indefinitely at −18 °C; the months are about quality.",
+  "thawing": null,
+  "spoilage": [
+   "A bitter or paint-like smell from rancid germ oil.",
+   "A musty, damp smell, or grains clumping together.",
+   "Webbing, small moths or fine dust in the jar.",
+   "Berries that stay hard in the centre however long they simmer."
+  ],
+  "tips": [
+   "Buy whole berries rather than flour if you want rye to keep; grind as you need it.",
+   "Freeze a large bag on the day of purchase.",
+   "Soak rye berries overnight before cooking to shorten the simmer.",
+   "Smell the grain before cooking; rancidity is not visible."
+  ],
+  "faq": [
+   {
+    "q": "How long does whole rye keep?",
+    "a": "About 6 months airtight in a cool, dark cupboard, or 12 months at −18 °C (0 °F)."
+   },
+   {
+    "q": "Does rye flour keep as long as rye berries?",
+    "a": "No. Milling exposes the germ oil to air, so rye flour turns rancid faster than the whole grain does."
+   },
+   {
+    "q": "Can you freeze rye berries?",
+    "a": "Yes, 12 months at −18 °C in an airtight container, and they can be cooked straight from frozen."
+   }
+  ]
+ },
+ "zh": {
+  "name": "全粒黑麥",
+  "aliases": [
+   "裸麥粒",
+   "黑麥粒",
+   "rye berries",
+   "全穀黑麥"
+  ],
+  "summary": "全粒黑麥——保留麩皮與胚芽的黑麥粒——密封放櫥櫃約 6 個月，−18 °C 冷凍 12 個月。磨成的黑麥麵粉又更短命，因為研磨把胚芽油脂整個攤開在空氣裡。",
+  "pantry": "密封放陰涼、避光、乾燥的櫥櫃，約 6 個月內用完。和所有全穀一樣，設下期限的是胚芽油脂——澱粉質的胚乳本身放好幾年都沒事。整粒比麵粉耐放得多，所以如果你有磨粉機或調理機，買整粒、要用才磨，才是拿到新鮮黑麥粉的誠實做法。罐子遠離爐台、避免光照。",
+  "fridge": "全粒黑麥沒有公布的冷藏期限，本頁也不給。在濕熱的廚房裡，開封後的袋子放冰箱是合理的做法，因為低溫能延緩胚芽油脂變質——容器必須真的密封（穀物會吸味道），而且開封前要先回到室溫，讓水氣凝在容器上而不是穀粒上。",
+  "freezer": "冷凍讓期限加倍，−18 °C 下 12 個月，裝密封容器或厚袋壓出空氣。大包裝就該這樣處理，同時也解決米蟲問題。黑麥粒可以直接從冷凍下鍋；它本來就要久煮，冷凍多出來的時間可以忽略。−18 °C 下安全性是無限期的，月數講的是品質。",
+  "thawing": null,
+  "spoilage": [
+   "聞到胚芽油走油耗後的苦味或油漆味。",
+   "有潮霉味，或麥粒結成塊。",
+   "罐內出現絲網、小蛾或細粉屑。",
+   "不管煮多久，中心還是硬的。"
+  ],
+  "tips": [
+   "想讓黑麥耐放就買整粒不要買麵粉；要用才磨。",
+   "大包裝買回來當天就冷凍。",
+   "煮之前泡水一晚，可以縮短燉煮時間。",
+   "煮之前先聞；油耗是看不出來的。"
+  ],
+  "faq": [
+   {
+    "q": "全粒黑麥可以放多久？",
+    "a": "密封、陰涼避光的櫥櫃約 6 個月，或 −18 °C 冷凍 12 個月。"
+   },
+   {
+    "q": "黑麥粉和黑麥粒一樣耐放嗎？",
+    "a": "不一樣。研磨把胚芽油脂暴露在空氣中，所以黑麥粉走油耗的速度比整粒快。"
+   },
+   {
+    "q": "黑麥粒可以冷凍嗎？",
+    "a": "可以，−18 °C 下密封容器 12 個月，而且能直接從冷凍下鍋煮。"
+   }
+  ]
+ }
+}

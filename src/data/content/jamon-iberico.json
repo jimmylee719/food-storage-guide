@@ -1,0 +1,93 @@
+{
+ "slug": "jamon-iberico",
+ "en": {
+  "name": "Jamón ibérico",
+  "aliases": [
+   "iberico ham",
+   "jamón de bellota",
+   "pata negra",
+   "acorn-fed ham",
+   "jamón ibérico de cebo"
+  ],
+  "summary": "Jamón ibérico is the dry-cured leg of the Ibérico pig, cured commonly for two to four years for a bellota leg. A whole leg is shelf-stable by design and keeps 6–12 months in a cool, dry room; sliced ibérico is a different proposition and lasts 3–5 days once the pack is opened. There is no ibérico-specific published timeline, so read these as working figures.",
+  "pantry": "A whole leg keeps 6–12 months from purchase in a cool, dry, ventilated room, out of the sun. The rule behind that comes from the official specification for Spanish dry-cured serrano ham, which states plainly that once curing is finished the ham may remain at room temperature after a long cure and a substantial loss of weight; ibérico is cured longer still, so it is drier and more stable again and the rule applies with more margin. The fat should look glossy and slightly oily at room temperature — that is the breed and the acorns, and it is exactly what refrigeration ruins. Cover the cut face with its own trimmed fat between sessions.",
+  "fridge": "The refrigerated figure is for sliced ibérico only: 3–5 days once a vacuum pack is opened, at 4 °C (40 °F) or below, re-wrapped tightly with the slices touching. Opened slices dry, oxidise and brown within days. Never refrigerate the whole leg — cold hardens the fat, kills the aroma and brings condensation when you take it out again. Take sliced ibérico out twenty to thirty minutes before serving; cold ibérico fat is waxy and tastes of nothing.",
+  "freezer": "A working limit of 1–2 months at −18 °C (0 °F), and it is not recommended for anything you intend to eat as ham. The high-oleic fat that makes ibérico worth the money is precisely what oxidises in a freezer, so you would be paying for the best fat in charcuterie and then spoiling it. If you must freeze slices, interleave them with paper and use them warmed into a dish.",
+  "thawing": "Thaw slices in the fridge, still wrapped, and eat them the same day. Never on the counter, and do not refreeze.",
+  "spoilage": [
+   "A rancid, old-oil smell from the fat rather than a sweet nutty one.",
+   "Slices gone grey-brown right through instead of deep red with translucent fat.",
+   "Fuzzy green, grey or black mould on the cut face — cut deep or discard, rather than wiping it.",
+   "A sour or ammonia smell at the bone of a started leg."
+  ],
+  "tips": [
+   "Keep working across the same cut face rather than starting a new one.",
+   "Cover the face with its own fat and a cloth after every session.",
+   "Buy small sliced packs rather than one big one; the opened clock is short.",
+   "Warm the plate, not the ham — a slightly warm plate melts the fat just enough."
+  ],
+  "faq": [
+   {
+    "q": "Does jamón ibérico need to be refrigerated?",
+    "a": "A whole leg does not and should not be — keep it in a cool, dry, ventilated room. Opened packs of slices do, at 4 °C (40 °F) or below."
+   },
+   {
+    "q": "How long does sliced jamón ibérico keep after opening?",
+    "a": "3–5 days refrigerated, re-wrapped tightly. It dries and browns quickly once the vacuum is broken."
+   },
+   {
+    "q": "Can you freeze jamón ibérico?",
+    "a": "You can for a month or two, but it is a waste: the prized fat oxidises and the texture goes waxy."
+   },
+   {
+    "q": "How long does a whole leg last once you start cutting it?",
+    "a": "Keep it in a cool, dry room, cover the cut face with its own fat after each session, and aim to finish it within a few weeks to a couple of months before the face dries and turns rancid."
+   }
+  ]
+ },
+ "zh": {
+  "name": "伊比利火腿",
+  "aliases": [
+   "jamón ibérico",
+   "黑蹄火腿",
+   "橡實火腿",
+   "西班牙伊比利生火腿",
+   "bellota"
+  ],
+  "summary": "伊比利火腿是伊比利豬的後腿風乾熟成而成，橡實等級（bellota）常見熟成兩到四年。整支腿本來就是常溫穩定的設計，放在陰涼乾燥的房間可放 6～12 個月；切片則是另一回事，拆封後只有 3～5 天。目前沒有專為伊比利火腿公布的期限，這些請當成工作參考值。",
+  "pantry": "整支腿從購買日起算，放在陰涼、乾燥、通風且不曬太陽的房間可放 6～12 個月。這條規則來自西班牙塞拉諾生火腿的官方產品規範，它明白寫著：熟成程序完成後（經過長時間熟成與相當幅度的失重），火腿可以留在常溫。伊比利火腿熟成更久、更乾、也更穩定，所以這條規則對它有更多餘裕。常溫下油脂應該看起來油亮微滲，那是品種和橡實的功勞，也正是冷藏會毀掉的東西。每次切完，用修下來的油脂蓋回切面。",
+  "fridge": "冷藏的數字只適用於切片：真空包拆封後放 4 °C 以下，3～5 天，重新密封包緊、片與片貼合。拆封的切片幾天內就會變乾、氧化、轉褐。整支腿絕對不要冰——低溫讓油脂變硬、香氣消失，拿出來還會結露。切片請在上桌前二、三十分鐘取出；冰冷的伊比利油脂吃起來像蠟，什麼味道都沒有。",
+  "freezer": "−18 °C 下的工作參考值是 1～2 個月，而且只要你打算當火腿吃，就不建議冷凍。讓伊比利值這個價的高油酸脂肪，正是冷凍庫裡最會氧化的部分——等於花大錢買最好的油脂再親手毀掉。真要凍切片，請用紙一片片隔開，並用在溫熱的料理裡。",
+  "thawing": "切片維持包裝放冷藏解凍，並在當天吃完。不要放室溫，也不要再次冷凍。",
+  "spoilage": [
+   "油脂散發油耗、陳油味，而不是甘甜的堅果香。",
+   "切片整片轉成灰褐，而不是深紅配半透明油脂。",
+   "切面長出綠、灰或黑色絨毛霉——深切掉或整支放棄，不要只擦一擦。",
+   "已開刀的腿在近骨處聞到酸味或氨味。"
+  ],
+  "tips": [
+   "一直在同一個切面上作業，不要動不動換面開刀。",
+   "每次切完用它自己的油脂加一塊布蓋住切面。",
+   "寧可買小包切片也不要買一大包；開封後的時間很短。",
+   "要加溫的是盤子不是火腿——微溫的盤子剛好把油脂化開。"
+  ],
+  "faq": [
+   {
+    "q": "伊比利火腿需要冷藏嗎？",
+    "a": "整支腿不需要，也不應該冰，請放陰涼乾燥通風的房間。拆封的切片包則要放 4 °C 以下。"
+   },
+   {
+    "q": "伊比利火腿切片拆封後可以放多久？",
+    "a": "冷藏並重新包緊，3～5 天。真空一破，它就開始變乾、變褐。"
+   },
+   {
+    "q": "伊比利火腿可以冷凍嗎？",
+    "a": "凍一兩個月是可以，但很浪費：珍貴的油脂會氧化，口感變蠟。"
+   },
+   {
+    "q": "整支腿開刀之後可以放多久？",
+    "a": "放在陰涼乾燥的房間，每次切完用自己的油脂蓋住切面，並在幾週到兩個月內吃完，免得切面變乾走油耗。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "speck",
+ "en": {
+  "name": "Speck",
+  "aliases": [
+   "Speck Alto Adige",
+   "Südtiroler Speck",
+   "smoked cured ham",
+   "smoked prosciutto"
+  ],
+  "summary": "Speck is a boned ham that is dry-salted, cold-smoked gently over beech and then matured for months — a cross between prosciutto and a smoked ham. A whole or half piece with the rind on, or an unopened vacuum pack, keeps 2–3 months refrigerated; opened or sliced, 3–5 days. Frozen it runs 1–2 months. The figures are borrowed from prosciutto and pre-packaged salami.",
+  "pantry": "Speck is stored cold in this guide rather than hung, and there is a common misreading to clear up first: do not take the word smoked to mean cooked. Cold-smoking is deliberately done at temperatures far too low to cook or pasteurise anything — it is the same fact that makes cold-smoked fish a listeria concern. In speck the salt and the long dry cure are what do the safety work; the smoke adds flavour and helps at the surface, but by itself it preserves very little. Only bring slices out to warm on the plate before serving.",
+  "fridge": "Keep a whole or half piece with the rind on, or an unopened vacuum pack, wrapped in paper at 4 °C (40 °F) or below, where it runs 2–3 months from purchase. Once it is sliced or the pack is opened you have a few days — 3–5 — tightly wrapped at 4 °C or below, because a cut face on a cured ham dries and oxidises quickly. Whole and opened are given separate numbers on purpose: one timeline cannot stand for both.",
+  "freezer": "A working limit of 1–2 months at −18 °C (0 °F). Freeze it in a block rather than sliced, because the fat oxidises very quickly in thin slices and a thawed slice tastes stale and waxy. Wrap it tightly, press the air out and label it. Frozen food stays safe indefinitely at −18 °C; these months are quality guidance, not a documented limit.",
+  "thawing": "Thaw in the fridge, still wrapped, and slice it once it is cold but thawed. Never on the counter, and do not refreeze.",
+  "spoilage": [
+   "A rancid, old-oil smell from the fat rather than a sweet, smoky one.",
+   "Slime or a tacky film on a cut face or on opened slices.",
+   "Fuzzy green, grey or black mould, as distinct from a dry white bloom.",
+   "Slices gone uniformly grey-brown instead of deep red with firm white fat."
+  ],
+  "tips": [
+   "Buy a block and slice it yourself; slices are on a three-to-five-day clock.",
+   "Leave the rind on until you slice — it is the best wrapping the ham has.",
+   "Wrap in paper rather than cling film so it can lose a little moisture.",
+   "Freeze as a block, never pre-sliced."
+  ],
+  "faq": [
+   {
+    "q": "How long does speck keep in the fridge?",
+    "a": "2–3 months for a whole piece or unopened pack at 4 °C (40 °F) or below; 3–5 days once it is sliced or opened."
+   },
+   {
+    "q": "Does smoking mean speck has been cooked?",
+    "a": "No. Cold-smoking is done at temperatures far too low to cook anything. What makes speck stable is the salt and the months of drying."
+   },
+   {
+    "q": "Can you freeze speck?",
+    "a": "For 1–2 months, as a block rather than slices. Thin slices oxidise fast and thaw waxy."
+   }
+  ]
+ },
+ "zh": {
+  "name": "南提洛煙燻火腿",
+  "aliases": [
+   "speck",
+   "斯佩克火腿",
+   "煙燻生火腿",
+   "Südtiroler Speck"
+  ],
+  "summary": "Speck 是去骨後乾鹽醃漬、以櫸木低溫冷燻，再熟成數月的火腿，介於義式生火腿與煙燻火腿之間。帶皮的整塊或半塊，或未開封真空包，冷藏 2～3 個月；切片或開封後 3～5 天；冷凍 1～2 個月。這些數字借自生火腿與預包裝莎樂美腸。",
+  "pantry": "本指南把 speck 放在冷藏而不是吊掛，而且有一個常見誤會要先講清楚：不要把「煙燻」讀成「熟製」。冷燻刻意用的溫度遠低於能煮熟或殺菌的程度——冷燻魚之所以是李斯特菌的關注對象，就是同一個道理。在 speck 身上，真正做安全這件事的是鹽和長時間乾燥；煙燻提供風味、對表面有幫助，但單靠它保存不了什麼。切片只在上桌前拿出來回溫。",
+  "fridge": "帶皮的整塊或半塊，或未開封的真空包，用紙包好放 4 °C 以下，從購買日起算 2～3 個月。一旦切片或拆封，你就只剩幾天——3～5 天——包緊、放 4 °C 以下，因為熟成火腿的切面會迅速變乾、氧化。整塊和開封刻意分開給數字：一個時程無法同時代表兩者。",
+  "freezer": "−18 °C 下的工作參考值是 1～2 個月。請整塊冷凍而不要切片冷凍，因為薄片的油脂氧化得非常快，解凍後又蠟又有陳味。包緊、壓出空氣、標上日期。−18 °C 下安全性是無限期的，這裡的月數是品質指引，不是有出處的上限。",
+  "thawing": "維持包裝放冷藏解凍，等它退冰但仍冰涼時再切片。不要放室溫，也不要再次冷凍。",
+  "spoilage": [
+   "油脂散發油耗、陳油味，而不是甘甜的煙燻香。",
+   "切面或開封切片發黏、有一層黏膜。",
+   "長出綠、灰、黑色絨毛霉（乾燥的白色粉霜則正常）。",
+   "切片整片轉灰褐，而不是深紅配結實的白色油脂。"
+  ],
+  "tips": [
+   "買整塊自己切；切片是三到五天的時鐘。",
+   "要切之前都把皮留著——那是這塊火腿最好的包裝。",
+   "用紙包而不是保鮮膜，讓它還能散一點水。",
+   "整塊冷凍，絕不要先切片再凍。"
+  ],
+  "faq": [
+   {
+    "q": "speck 冷藏可以放多久？",
+    "a": "整塊或未開封包裝在 4 °C 以下 2～3 個月；切片或開封後 3～5 天。"
+   },
+   {
+    "q": "煙燻是不是代表 speck 已經熟了？",
+    "a": "不是。冷燻的溫度遠低於能煮熟任何東西的程度。讓 speck 穩定的是鹽和數個月的乾燥。"
+   },
+   {
+    "q": "speck 可以冷凍嗎？",
+    "a": "可以放 1～2 個月，但要整塊凍不要切片凍。薄片氧化快，解凍後口感發蠟。"
+   }
+  ]
+ }
+}

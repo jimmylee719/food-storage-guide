@@ -1,0 +1,83 @@
+{
+ "slug": "fresh-pasta",
+ "en": {
+  "name": "Fresh pasta",
+  "aliases": [
+   "pasta fresca",
+   "fresh egg pasta",
+   "fresh ravioli",
+   "refrigerated pasta"
+  ],
+  "summary": "Fresh pasta is a refrigerated food, not a pantry one — soft dough, usually with egg in it, and often a filling of cheese or meat. It keeps 1–2 days in the fridge at 4 °C (40 °F) or below, and 2 months in the freezer at −18 °C (0 °F). Do not let dry pasta's two-year shelf life leak onto it.",
+  "pantry": "Fresh pasta does not keep at room temperature. It has too much moisture in it to be stable, the egg makes it a richer growth medium than flour and water, and filled shapes contain cheese, ricotta or meat that are perishable in their own right. Leave it out no longer than the two-hour rule allows — one hour above 32 °C (90 °F) — and that includes the tray of ravioli you rolled and then went to answer the door.",
+  "fridge": "Keep it at 4 °C (40 °F) or below and cook it within 1–2 days. Shop-bought packs should stay sealed until you need them, and an unopened pack may carry a longer date because it was packed under modified atmosphere — once it is open, that date no longer means anything. Home-made pasta should go on a floured tray, well dusted and loosely covered so it does not sweat, and filled shapes should be kept in a single layer so they do not stick and tear. Cook filled pasta through, not just until the dough is done.",
+  "freezer": "It keeps 2 months at −18 °C (0 °F), and freezing suits fresh pasta far better than a second day in the fridge. Freeze it on a floured tray first so the pieces stay separate, then bag them once solid and press the air out. Frozen food stays safe indefinitely at −18 °C; the two months are about quality, after which the dough goes brittle and filled shapes split on cooking.",
+  "thawing": "Do not thaw fresh pasta — drop it straight from the freezer into plenty of boiling salted water and allow an extra minute or two. Thawed fresh pasta goes sticky and the filled shapes tear open.",
+  "spoilage": [
+   "A sour or yeasty smell when the pack is opened.",
+   "A slimy or sticky surface, or dough that has gone tacky and grey.",
+   "Any mould spot, including at the sealed edge of a filled shape.",
+   "A pack that has puffed up or is leaking before it is opened."
+  ],
+  "tips": [
+   "Freeze on the day of purchase anything you will not cook within a day or two.",
+   "Freeze on a floured tray first, then bag — otherwise you get one block.",
+   "Cook from frozen; thawing ruins the texture.",
+   "Do not confuse fresh pasta with dry pasta — their timelines have nothing in common."
+  ],
+  "faq": [
+   {
+    "q": "How long does fresh pasta keep in the fridge?",
+    "a": "1–2 days at 4 °C (40 °F) or below. An unopened pack may carry a longer printed date, but once it is opened that no longer applies."
+   },
+   {
+    "q": "Can you freeze fresh pasta?",
+    "a": "Yes, 2 months at −18 °C (0 °F). Freeze it spread out on a floured tray first, then bag it."
+   },
+   {
+    "q": "Should you thaw frozen fresh pasta before cooking?",
+    "a": "No. Cook it straight from frozen in plenty of boiling water — thawed pasta goes sticky and filled shapes burst."
+   }
+  ]
+ },
+ "zh": {
+  "name": "生鮮義大利麵",
+  "aliases": [
+   "手工義大利麵",
+   "生麵",
+   "新鮮麵條",
+   "生鮮餃類麵食"
+  ],
+  "summary": "生鮮義大利麵是冷藏食品，不是櫥櫃食品——柔軟的麵團，通常含蛋，很多還包著起司或肉餡。放 4 °C 以下冷藏 1～2 天，−18 °C 冷凍 2 個月。千萬不要把乾麵那個「兩年」的期限套到它身上。",
+  "pantry": "生鮮義大利麵不能放常溫。它含水量太高、無法穩定，蛋又讓它比「麵粉加水」更適合微生物生長，而包餡款裡的起司、瑞可塔或肉本身就是易腐食品。離開冷藏不要超過 2 小時原則允許的時間，室溫超過 32 °C 時為 1 小時——包括你剛擀好一盤餃子、然後跑去應門的那段時間。",
+  "fridge": "放 4 °C 以下，1～2 天內煮掉。市售包裝要用之前都保持密封；未開封的包裝上可能印著更長的日期，那是因為充氣包裝的緣故——一旦拆封，那個日期就不再有意義。自製的請放在撒了粉的淺盤上，撲足手粉、鬆鬆地蓋著避免悶出水；包餡的要單層擺放，免得黏在一起一拿就破。包餡麵食要煮到「餡也熟」，不是麵皮熟就好。",
+  "freezer": "−18 °C 下可放 2 個月，而且冷凍遠比「在冰箱多放一天」適合生鮮麵。先攤在撒粉的盤子上凍硬，讓每一個分開，再裝袋壓出空氣。−18 °C 下安全性是無限期的；這兩個月講的是品質，之後麵皮會變脆，包餡款下鍋容易爆開。",
+  "thawing": "生鮮義大利麵不要解凍——直接從冷凍丟進大量滾沸的鹽水，多煮一兩分鐘即可。解凍過的生麵會黏成一團，包餡的也會破。",
+  "spoilage": [
+   "拆封時聞到酸味或酵母味。",
+   "表面發黏，或麵團變得黏手、泛灰。",
+   "任何霉點，包括包餡麵食的封口處。",
+   "還沒開封就脹袋或滲液。"
+  ],
+  "tips": [
+   "一兩天內煮不完的，買回來當天就冷凍。",
+   "先攤在撒粉的盤子上凍硬再裝袋，否則會結成一大塊。",
+   "直接從冷凍下鍋；解凍會毀掉口感。",
+   "不要把生鮮麵和乾麵混為一談——兩者的時程毫無關係。"
+  ],
+  "faq": [
+   {
+    "q": "生鮮義大利麵冷藏可以放多久？",
+    "a": "4 °C 以下 1～2 天。未開封包裝上可能印著更長的日期，但拆封後就不適用了。"
+   },
+   {
+    "q": "生鮮義大利麵可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2 個月。先攤在撒粉的盤子上凍硬再裝袋。"
+   },
+   {
+    "q": "冷凍的生鮮義大利麵要先解凍嗎？",
+    "a": "不要。直接從冷凍丟進大量滾水煮——解凍過會變黏，包餡的還會破掉。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "slug": "tongue",
+ "en": {
+  "name": "Tongue",
+  "aliases": [
+   "beef tongue",
+   "ox tongue",
+   "lengua",
+   "gyutan",
+   "variety meat"
+  ],
+  "summary": "Tongue — usually beef, sometimes pork or lamb — is offal, and offal spoils faster than muscle cuts do. Fresh, it keeps 1–2 days in the fridge at 4 °C (40 °F) or below, and 3–4 months in the freezer at −18 °C (0 °F).",
+  "pantry": "Raw tongue has no room-temperature storage at all. Organ meats carry a higher bacterial load and more of the enzymes that break tissue down, which is why they get the shortest fridge window of any fresh meat. The danger zone of 4–60 °C (40–140 °F) and the two-hour rule apply — one hour above 32 °C (90 °F) — and that includes the time it spends in your bag on the way home from the butcher.",
+  "fridge": "Keep it at 4 °C (40 °F) or below, on a tray on the bottom shelf, and cook it within 1–2 days of purchase. Leave it in the butcher's wrapping, keep it away from and below anything ready to eat, and use a separate board and knife. Plan to cook it the day you buy it if you can — this is one of the shortest windows in the fridge, and the smell of tongue going off is unmistakable but comes late. Once simmered and peeled, treat the cooked tongue as cooked meat and chill it quickly in shallow containers.",
+  "freezer": "It keeps 3–4 months at −18 °C (0 °F) for best quality. Freeze it whole, wrapped tightly in film and then foil or a freezer bag with the air pressed out; the thick skin protects the meat well. Frozen food stays safe indefinitely at −18 °C, so the months are a quality limit rather than a safety one. Label the bag with the date, because a frozen tongue is an unhelpfully anonymous object.",
+  "thawing": "Thaw overnight in the fridge on a tray — a whole beef tongue is dense and may need longer than you expect — or in a sealed bag under cold running water, then cook it straight away. Never on the counter, and do not refreeze it raw after a full thaw at room temperature.",
+  "spoilage": [
+   "A sour, sharply metallic or sulphurous smell.",
+   "A slimy or tacky surface on the skin or the cut end.",
+   "Grey or greenish discolouration in the flesh at the root end.",
+   "Cloudy, ropy liquid in the pack."
+  ],
+  "tips": [
+   "Cook it on the day of purchase whenever you can; the fridge window is very short.",
+   "Simmer, peel while hot, then chill fast in a shallow container.",
+   "Freeze it whole and raw rather than part-cooked, and label it clearly.",
+   "Ask the butcher when it was cut — offal is often older than the counter suggests."
+  ],
+  "faq": [
+   {
+    "q": "How long does fresh tongue keep in the fridge?",
+    "a": "1–2 days at 4 °C (40 °F) or below. Offal keeps less well than muscle cuts."
+   },
+   {
+    "q": "Can you freeze beef tongue?",
+    "a": "Yes, 3–4 months at −18 °C (0 °F) for best quality. Freeze it whole and wrapped tightly."
+   },
+   {
+    "q": "Does tongue need to be peeled?",
+    "a": "Yes, after simmering — the outer skin peels away easily while it is still hot, and it does not become pleasant with cooking."
+   }
+  ]
+ },
+ "zh": {
+  "name": "牛舌",
+  "aliases": [
+   "舌頭",
+   "豬舌",
+   "内臟",
+   "牛タン",
+   "lengua"
+  ],
+  "summary": "舌（多半是牛舌，有時是豬舌或羊舌）屬於內臟，而內臟壞得比一般肌肉部位快。新鮮的放 4 °C 以下冷藏 1～2 天，−18 °C 冷凍 3～4 個月。",
+  "pantry": "生舌完全沒有常溫保存。內臟本身帶的菌量較高，分解組織的酵素也多，這就是它冷藏期比任何生鮮肉都短的原因。4～60 °C 的危險溫度帶和 2 小時原則都適用，室溫超過 32 °C 時縮為 1 小時——而且從肉舖提回家的那段路也要算進去。",
+  "fridge": "放 4 °C 以下、最下層墊托盤，購買後 1～2 天內烹調。維持肉舖的原包裝，放在所有即食食品的下方並保持距離，砧板和刀要分開。可以的話就當天煮掉——這是冰箱裡最短的期限之一，而舌頭變質的氣味雖然很明顯，卻出現得晚。煮軟去皮之後，就把它當熟肉處理，用淺容器快速降溫冷藏。",
+  "freezer": "−18 °C 下品質可維持 3～4 個月。整條冷凍，先用保鮮膜包緊再包鋁箔或裝冷凍袋、壓出空氣；厚實的外皮對肉本身是很好的保護。−18 °C 下安全性是無限期的，月數是品質期限而非安全期限。袋上一定要標日期，因為冷凍後的舌頭是個難以辨認的東西。",
+  "thawing": "墊托盤冷藏隔夜解凍——整條牛舌很密實，可能比你想的久——或密封裝袋用冷水沖，沖完立刻烹調。不要放室溫；在室溫下完全退冰的生舌不要再冷凍。",
+  "spoilage": [
+   "聞起來發酸、有強烈金屬味或硫磺味。",
+   "外皮或切口摸起來黏手、有滑膜。",
+   "根部斷面的肉轉灰或帶綠。",
+   "包裝裡的血水混濁或牽絲。"
+  ],
+  "tips": [
+   "盡量當天買當天煮；冷藏期真的很短。",
+   "煮軟後趁熱剝皮，再用淺容器快速降溫。",
+   "要冷凍就整條生凍，不要半熟再凍，並清楚標示。",
+   "跟肉舖問清楚分切日期——內臟往往比櫃檯看起來的更舊。"
+  ],
+  "faq": [
+   {
+    "q": "生牛舌冷藏可以放多久？",
+    "a": "4 °C 以下 1～2 天。內臟比一般肌肉部位更不耐放。"
+   },
+   {
+    "q": "牛舌可以冷凍嗎？",
+    "a": "可以，−18 °C 下 3～4 個月品質最好。整條包緊冷凍。"
+   },
+   {
+    "q": "牛舌一定要去皮嗎？",
+    "a": "要，煮軟後趁熱剝，外皮很容易撕下來；那層皮不會因為久煮而變好吃。"
+   }
+  ]
+ }
+}

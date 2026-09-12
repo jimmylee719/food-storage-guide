@@ -1,0 +1,85 @@
+{
+ "slug": "tteok-rice-cake",
+ "en": {
+  "name": "Rice cake (tteok / 年糕)",
+  "aliases": [
+   "tteok",
+   "garaetteok",
+   "年糕",
+   "tteokbokki rice cakes",
+   "寧波年糕"
+  ],
+  "summary": "Fresh or vacuum-packed rice cake is a wet rice product, however firm it feels in the hand. Loose or freshly sliced, it keeps 1–2 days refrigerated at 7 °C or below, and 6 months frozen at −18 °C (0 °F). Unopened retort or vacuum packs follow their own printed date.",
+  "pantry": "Rice cake is not a pantry food once opened, however hard and dry the sticks look. It is cooked, pounded rice with a high moisture content, and the firmness comes from the starch setting, not from any preservation. Unopened retort or vacuum packs are shelf-stable to their printed date because they were sterilised or sealed at the factory; that ends when you open them. Never leave loose rice cake standing on a counter — cooked starch held warm is where Bacillus cereus does its work, and its toxin survives reheating.",
+  "fridge": "Loose or freshly sliced rice cake belongs at 7 °C or below, and a household fridge at 4 °C (40 °F) is better still — the rule for wet rice foods such as 粄條, 米苔目 and 蘿蔔糕 applies here too. Keep it sealed and use it within 1–2 days, which is the cap for refrigerated cooked starchy food. It hardens in the fridge as the starch retrogrades, which is normal and comes back with cooking; what does not come back is rice cake that has been left out, and that should be thrown away rather than boiled harder.",
+  "freezer": "Freezing is the right answer for anything beyond a couple of days: 6 months at −18 °C (0 °F), in single portions so you can take out what you need. Freeze it promptly rather than at the end of the fridge window. Drop the pieces straight into boiling water or sauce from frozen — thawing them on the counter makes them gummy on the outside and hard in the middle, and it puts a wet rice product back at room temperature for no good reason.",
+  "thawing": "Do not thaw on the counter. Cook the pieces straight from frozen in boiling water or simmering sauce, or move the pack to the fridge overnight and cook it the same day.",
+  "spoilage": [
+   "A sour or fermented smell — fresh rice cake smells of almost nothing.",
+   "A slimy or sticky surface, or pieces that have fused into a wet mass.",
+   "Any mould spot, including pink or grey patches.",
+   "Any pack that has been left at room temperature for a long stretch, however firm it looks."
+  ],
+  "tips": [
+   "Freeze on the day you buy loose rice cake unless you are cooking it immediately.",
+   "Separate the sticks before freezing so they do not fuse into a block.",
+   "Cook from frozen, straight into boiling liquid.",
+   "Treat an unopened vacuum pack by its printed date and an opened one by the fridge window."
+  ],
+  "faq": [
+   {
+    "q": "How long does fresh rice cake keep in the fridge?",
+    "a": "1–2 days at 7 °C or below — colder is better. It is a wet rice product, not a dry one."
+   },
+   {
+    "q": "Can you freeze tteok?",
+    "a": "Yes, 6 months at −18 °C (0 °F). Freeze it in single portions and cook straight from frozen."
+   },
+   {
+    "q": "Why has my rice cake gone rock hard in the fridge?",
+    "a": "The starch retrogrades in the cold. That is normal and reverses when you boil it — unlike spoilage, which does not."
+   }
+  ]
+ },
+ "zh": {
+  "name": "年糕／韓式年糕",
+  "aliases": [
+   "tteok",
+   "寧波年糕",
+   "韓式炒年糕條",
+   "白年糕",
+   "トック"
+  ],
+  "summary": "新鮮或真空包裝的年糕，不管摸起來多硬，本質都是濕的米製品。散裝或現切的年糕，放 7 °C 以下冷藏 1～2 天，−18 °C 冷凍 6 個月。未開封的殺菌包或真空包以自己標示的日期為準。",
+  "pantry": "年糕一旦開封就不是常溫食品，不管那些條看起來多乾多硬。它是煮熟搗打過、含水量很高的米，硬是澱粉凝固的結果，不是任何保存工序。未開封的殺菌包或真空包之所以能常溫放到標示日期，靠的是工廠的滅菌與密封；你一拆開，那件事就結束了。散裝年糕絕對不要放在檯面上——溫熱放置的熟澱粉正是仙人掌桿菌作用的地方，而它的毒素撐得過復熱。",
+  "fridge": "散裝或現切的年糕該放在 7 °C 以下，家用冰箱的 4 °C 更好——粄條、米苔目、蘿蔔糕等濕米製品的規則在這裡一樣適用。請密封並在 1～2 天內用完，那是熟澱粉類食品冷藏的上限。它在冰箱裡會因澱粉老化而變硬，這是正常的，煮過就會回來；回不來的是在室溫放過的年糕，那種請丟掉，不要想用更久的滾煮救它。",
+  "freezer": "超過兩天的量，正解就是冷凍：−18 °C 下 6 個月，分成單份方便取用。請盡早冷凍，不要拖到冷藏期的最後一天。要吃時直接把年糕丟進滾水或醬汁——放檯面退冰會讓它外層黏糊、中心還硬，而且毫無必要地把一份濕米製品又放回室溫。",
+  "thawing": "不要放室溫退冰。直接從冷凍下滾水或微滾的醬汁煮，或前一晚移到冷藏、當天煮掉。",
+  "spoilage": [
+   "聞到酸味或發酵味——新鮮年糕幾乎沒有味道。",
+   "表面發黏，或整塊黏成濕答答的一團。",
+   "出現任何霉點，包括粉紅或灰色斑塊。",
+   "任何在常溫放置很久的包裝，不管看起來多硬實。"
+  ],
+  "tips": [
+   "散裝年糕不是當天煮的話，買回來當天就冷凍。",
+   "冷凍前先把年糕條撥開，才不會黏成一大塊。",
+   "直接從冷凍下滾水煮。",
+   "未開封真空包看包裝日期，開封後就改用冷藏那個期限。"
+  ],
+  "faq": [
+   {
+    "q": "新鮮年糕冷藏可以放多久？",
+    "a": "7 °C 以下 1～2 天，愈冷愈好。它是濕的米製品，不是乾貨。"
+   },
+   {
+    "q": "年糕可以冷凍嗎？",
+    "a": "可以，−18 °C 下 6 個月。分成單份冷凍，直接從冷凍下鍋煮。"
+   },
+   {
+    "q": "年糕冰過怎麼變得超硬？",
+    "a": "低溫下澱粉會老化。這是正常的，煮過就會恢復——腐敗可不會。"
+   }
+  ]
+ }
+}

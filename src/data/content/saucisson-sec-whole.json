@@ -1,0 +1,93 @@
+{
+ "slug": "saucisson-sec-whole",
+ "en": {
+  "name": "Saucisson sec, whole",
+  "aliases": [
+   "saucisson",
+   "dry-cured sausage",
+   "French salami",
+   "rosette de Lyon",
+   "whole dry sausage"
+  ],
+  "summary": "A whole, uncut saucisson sec is shelf-stable by design: it has been dried until there is not enough free water in it for spoilage organisms to work. It hangs in a cool, dry, airy place with no fixed timeline, and the fridge is a fine second choice at 2–3 months. Once you slice it, the timeline is a different one entirely.",
+  "pantry": "A whole, uncut, fully dried saucisson hangs — somewhere cool, dry and airy, around 12–16 °C, with air on all sides and never in a plastic bag, which sweats it. There is no number here because nobody publishes a hanging time, and the honest answer is a rule: it goes on drying and hardening for as long as you leave it, which is not spoilage. Eventually it is simply too hard to slice pleasantly, and that is the practical limit rather than a safety one. The powdery white bloom on the casing is a deliberate Penicillium culture and is normal. Fuzzy green, grey or black growth, a slimy casing, or a sour or rancid smell is not — and the guidance on visibly mouldy food is to throw it out rather than cut the patch off, because the hyphae go deeper than what you can see.",
+  "fridge": "The fridge is a fine second choice and the right one in a warm humid climate, where it keeps 2–3 months — a figure borrowed from prosciutto, the nearest published whole dry-cured product, and offered as quality guidance rather than a safety limit. Wrap the sausage in paper, not plastic, so it can still lose moisture. It will dry harder and faster in there than in a cellar, because a fridge is a dehumidifier. Once you cut into it, or once you have it sliced, you are on the much shorter clock that belongs to opened sliced charcuterie.",
+  "freezer": "No freezer timeline is given for a whole saucisson and freezing one makes little sense. It is already stable at room temperature, so a freezer adds nothing you need and takes something you want: the fat oxidises and the texture turns crumbly. If you have more than you can get through, hang it and let it dry harder for grating and cooking, rather than putting it away frozen.",
+  "thawing": null,
+  "spoilage": [
+   "Fuzzy green, grey or black growth as opposed to the dry white bloom.",
+   "A slimy or sticky casing, usually a sign the room is too humid.",
+   "A sour ammonia smell, or a rancid, old-oil one from the fat.",
+   "Soft, wet patches under the casing on a sausage that should be uniformly firm."
+  ],
+  "tips": [
+   "Hang it with air all round; a sealed bag or box is what ruins it.",
+   "A cellar, a larder or the coolest airy corner of the kitchen beats the fridge in a dry climate.",
+   "Cut what you need and leave the rest whole — the casing is the packaging.",
+   "Do not trim mould off and eat the rest; discard a visibly mouldy sausage."
+  ],
+  "faq": [
+   {
+    "q": "Does a whole saucisson sec need to be refrigerated?",
+    "a": "No. It hangs in a cool, dry, airy place — dryness, not cold, is what makes it stable. The fridge is a reasonable alternative in a humid climate."
+   },
+   {
+    "q": "How long does a whole saucisson keep?",
+    "a": "There is no published hanging time. It keeps drying and hardening, and the practical limit is when it is too hard to slice. Refrigerated, treat 2–3 months as quality guidance."
+   },
+   {
+    "q": "Is the white powder on saucisson mould?",
+    "a": "Yes, and it is meant to be there — a deliberate Penicillium culture on the casing. Fuzzy green, grey or black growth is not."
+   },
+   {
+    "q": "Can you freeze a whole saucisson?",
+    "a": "There is no timeline for it and little point. It is already shelf-stable, and freezing oxidises the fat and crumbles the texture."
+   }
+  ]
+ },
+ "zh": {
+  "name": "法式乾香腸（整條）",
+  "aliases": [
+   "saucisson sec",
+   "法國乾式香腸",
+   "風乾香腸",
+   "里昂乾腸",
+   "整條乾香腸"
+  ],
+  "summary": "完整未切開的法式乾香腸本來就是常溫穩定的設計：它已經乾到腐敗菌無水可用。吊在陰涼乾燥通風處沒有固定期限，冷藏則是不錯的第二選擇，約 2～3 個月。一旦切片，時程就完全是另一回事了。",
+  "pantry": "完整、未切開、確實乾透的乾香腸就是「吊著」——陰涼、乾燥、通風，大約 12～16 °C，四面都要有空氣流動，絕對不要裝塑膠袋，那會把它悶出水。這裡沒有數字，因為沒有人公布過吊掛時間，而誠實的答案是一條規則：你放多久它就繼續乾多久、硬多久，那不是腐敗。最後它只是硬到不好切，那是實務上的極限，不是安全上的。腸衣上的白色粉霜是刻意接種的青黴菌，屬正常。綠、灰、黑色的絨毛狀黴、腸衣發黏，或發酸、油耗的氣味就不正常——而且對於肉眼可見發霉的食品，通則是整個丟棄而不是削掉那一塊，因為菌絲鑽得比你看到的深。",
+  "fridge": "冷藏是不錯的第二選擇，在濕熱氣候更是正解，大約 2～3 個月——這個數字借自義式生火腿（目前最接近的已公布風乾整肌產品），只能當品質指引，不是安全上限。請用紙包，不要用塑膠，讓它還能繼續散水。它在冰箱裡會乾得比在地窖更快更硬，因為冰箱本質上是一台除濕機。一旦切開、或請人切片，你就進入「開封切片冷肉」那套短很多的時程了。",
+  "freezer": "整條乾香腸沒有冷凍期限，而且冷凍它沒什麼道理。它本來就常溫穩定，冷凍庫給不了你需要的東西，卻會拿走你想要的：油脂氧化、口感變得鬆散。買太多的話，就讓它繼續吊著變更硬，拿來刨絲入菜，不要冰起來。",
+  "thawing": null,
+  "spoilage": [
+   "長出綠、灰、黑色的絨毛狀黴（乾燥的白色粉霜則正常）。",
+   "腸衣發黏、摸起來黏手，通常代表環境太潮濕。",
+   "聞到發酸的氨味，或油脂發出的油耗味。",
+   "本該整條均勻結實，卻在腸衣底下出現軟濕的區塊。"
+  ],
+  "tips": [
+   "吊起來讓四面通風；密封袋或密封盒才是毀掉它的元凶。",
+   "乾燥氣候下，地窖、儲藏室或廚房最涼通風的角落都勝過冰箱。",
+   "要吃多少切多少，其餘保持整條——腸衣就是它的包裝。",
+   "不要把霉削掉繼續吃；肉眼可見發霉的香腸請整條丟棄。"
+  ],
+  "faq": [
+   {
+    "q": "整條法式乾香腸需要冷藏嗎？",
+    "a": "不需要。吊在陰涼乾燥通風處即可——讓它穩定的是乾燥而不是低溫。濕熱氣候下冷藏是合理的替代方案。"
+   },
+   {
+    "q": "整條乾香腸可以放多久？",
+    "a": "沒有公布過的吊掛時間。它會持續變乾變硬，實務上的極限是硬到不好切。冷藏的話，2～3 個月請當品質指引。"
+   },
+   {
+    "q": "乾香腸表面的白粉是霉嗎？",
+    "a": "是，而且本來就該有——腸衣上刻意接種的青黴菌。綠、灰、黑色的絨毛狀黴就不是。"
+   },
+   {
+    "q": "整條乾香腸可以冷凍嗎？",
+    "a": "沒有對應期限，也沒什麼意義。它本來就能常溫保存，冷凍只會讓油脂氧化、口感變散。"
+   }
+  ]
+ }
+}

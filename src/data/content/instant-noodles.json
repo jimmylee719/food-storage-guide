@@ -1,0 +1,85 @@
+{
+ "slug": "instant-noodles",
+ "en": {
+  "name": "Instant noodles",
+  "aliases": [
+   "instant ramen",
+   "cup noodles",
+   "packet noodles",
+   "泡麵",
+   "即席麺"
+  ],
+  "summary": "Instant noodles keep about 6–8 months — the makers' own best-before periods are around 8 months for packet noodles and 6 months for cup noodles, counted from manufacture. These are quality dates, not safety limits: what runs out is the fried noodle block, which goes rancid, and the cup, which absorbs smells.",
+  "pantry": "Keep them in a cool, dark cupboard, out of sunlight, where they run about 6–8 months. No national food-safety agency publishes a figure for instant noodles, so the number comes from the manufacturers, and it is a best-before rather than a use-by. The limiting factor is the fat: most instant noodle blocks are flash-fried, and that oil oxidises with heat and light, which is why a packet stored above the hob tastes stale long before its date. The cup itself is porous to odours, so keep cups away from detergent, kerosene, camphor and strong spices — a cup noodle that has been stored next to cleaning products will taste of them.",
+  "fridge": "There is no refrigerator timeline for instant noodles and no reason to create one. A cupboard is dry and a fridge is humid, and a paper-sleeved cup or a foil packet in a fridge will draw moisture and pick up food smells, which is exactly what you are trying to avoid. Prepared noodles are a different food: cooked instant noodles are a wet starch, so cool them quickly and refrigerate them covered rather than leaving a bowl standing.",
+  "freezer": "No freezer figure is given for instant noodles, and freezing them is pointless. The noodle block is dry and already stable; a freezer adds condensation each time the packet comes out, which is the one thing a fried dry noodle does not want. If you are buying in bulk, buy less at a time rather than filling a freezer with something that keeps perfectly well in a dark cupboard.",
+  "thawing": null,
+  "spoilage": [
+   "A rancid, old-oil or crayon smell from the noodle block.",
+   "The block gone dark, yellow-brown or oily to the touch.",
+   "A cup or packet that smells of detergent, camphor or spices it was stored beside.",
+   "A punctured packet, or damp and mould in a cup that was stored in a humid place."
+  ],
+  "tips": [
+   "Store them away from the hob; heat is what turns the fried noodle block.",
+   "Keep cups well away from cleaning products — the polystyrene picks up smells.",
+   "Rotate your stock; the date is a quality date and the noodles genuinely do go stale.",
+   "Buy non-fried, air-dried noodles if you want to keep a stock for longer."
+  ],
+  "faq": [
+   {
+    "q": "How long do instant noodles last?",
+    "a": "About 6–8 months — roughly 8 months for packets and 6 for cups, counted by the maker from manufacture. It is a best-before date, not a safety limit."
+   },
+   {
+    "q": "Are instant noodles safe after their date?",
+    "a": "The date is about quality, not safety. What you will notice is rancid oil in the noodle block, which tastes bitter and stale."
+   },
+   {
+    "q": "Should instant noodles be kept in the fridge?",
+    "a": "No. A fridge is humid, and the cup will pick up moisture and food smells. A cool dark cupboard is the right place."
+   }
+  ]
+ },
+ "zh": {
+  "name": "泡麵",
+  "aliases": [
+   "速食麵",
+   "杯麵",
+   "碗麵",
+   "即席麺",
+   "instant ramen"
+  ],
+  "summary": "泡麵大約可放 6～8 個月——廠商自訂的賞味期間大致是袋裝 8 個月、杯裝 6 個月，從製造日起算。這是品質日期而不是安全上限：真正到期的是油炸麵塊（會走油耗）和容器（會吸味道）。",
+  "pantry": "放陰涼避光的櫥櫃、避免陽光直射，大約 6～8 個月。沒有任何國家級食安機關公布泡麵的數字，所以這個數字來自製造商，而且是「賞味期限」而非「有效期限」。限制它的是油脂：大多數麵塊是瞬間油炸的，那些油會因高溫和光線而氧化，所以放在爐台上方的泡麵，遠在標示日期之前就先出現陳味。杯體本身會吸附氣味，所以杯麵要遠離清潔劑、煤油、樟腦和重口味香料——和清潔用品放在一起的杯麵，泡出來就會有那個味道。",
+  "fridge": "泡麵沒有冷藏期限，也沒有理由生一個。櫥櫃是乾的，冰箱是濕的；紙套杯或鋁箔袋放進冰箱會吸水氣、也會吸食物的味道，而那正是你想避免的事。泡好的麵則是另一種食物：煮過的泡麵屬於含水澱粉，請快速降溫、加蓋冷藏，不要整碗放著。",
+  "freezer": "這裡沒有給泡麵的冷凍數字，而且冷凍它毫無意義。麵塊本來就乾燥穩定；冷凍只會讓它每次拿出來都結露，而那是油炸乾麵最不需要的東西。要囤貨的話，請一次少買一點，不要把冷凍庫塞滿一種放在暗櫥櫃裡就很耐放的東西。",
+  "thawing": null,
+  "spoilage": [
+   "麵塊聞起來有油耗、陳油或蠟筆味。",
+   "麵塊顏色變深、轉黃褐，或摸起來油膩。",
+   "杯子或袋子聞起來像旁邊放的清潔劑、樟腦或香料。",
+   "袋子破孔，或放在潮濕處的杯麵受潮發霉。"
+  ],
+  "tips": [
+   "遠離爐台；讓油炸麵塊變質的就是高溫。",
+   "杯麵務必遠離清潔用品——保麗龍杯體很會吸味。",
+   "定期輪替庫存；那個日期是品質日期，而麵真的會走味。",
+   "想放久一點，改買非油炸的乾燥麵。"
+  ],
+  "faq": [
+   {
+    "q": "泡麵可以放多久？",
+    "a": "大約 6～8 個月——袋裝約 8 個月、杯裝約 6 個月，由廠商從製造日起算。那是賞味期限，不是安全上限。"
+   },
+   {
+    "q": "過了標示日期的泡麵還能吃嗎？",
+    "a": "那個日期講的是品質不是安全。你會察覺到的是麵塊的油走了油耗，吃起來又苦又陳。"
+   },
+   {
+    "q": "泡麵要放冰箱嗎？",
+    "a": "不要。冰箱潮濕，杯體會吸水氣也會吸食物味道。陰涼避光的櫥櫃才是對的位置。"
+   }
+  ]
+ }
+}

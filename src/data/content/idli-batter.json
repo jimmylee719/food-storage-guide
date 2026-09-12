@@ -1,0 +1,83 @@
+{
+ "slug": "idli-batter",
+ "en": {
+  "name": "Idli batter",
+  "aliases": [
+   "idly batter",
+   "fermented rice batter",
+   "urad dal batter",
+   "live batter"
+  ],
+  "summary": "Idli batter is a live ferment of rice and urad dal. Two clocks run at once: a safety ceiling of 4–6 days refrigerated at 4 °C (40 °F) or below, borrowed from cooked rice because nothing is published for live batter, and a much shorter quality window, because the culture keeps working in the cold and the batter sours as it goes.",
+  "pantry": "The counter is for the rise and nothing else. Get the batter into the fridge as soon as it has risen, and do not leave it out to ferment for a second day in a warm kitchen. This is a starchy rice preparation, and Bacillus cereus spores survive cooking — the toxins formed while the bacteria multiply cannot be destroyed by steaming the idlis afterwards. Cool it and refrigerate it: food should be brought down from 60 °C to 20 °C within two hours and on to 4 °C within four.",
+  "fridge": "Refrigerate at 4 °C (40 °F) or below, in a container that is only half full because the batter climbs. The safety ceiling is 4–6 days, but the quality clock is much shorter and runs the opposite way from dosa batter: batter that made light, fluffy idlis on the first day is noticeably sour by the third and by the fifth is really only fit for dosas. Use a clean spoon every time and never tip used batter back into the tub. Shop-bought tubs carry a printed date, usually shorter than this, and that date should be trusted over any general figure.",
+  "freezer": "No freezer timeline is given, and that is deliberate: nothing is published for a live batter, so this page will not invent a number. Batter does freeze in portions and thaws in the fridge overnight, but the culture takes a beating and the rise afterwards is weak, so frozen batter makes flat idlis and is better used for dosas. Never refreeze batter that has been thawed.",
+  "thawing": "Thaw in the fridge overnight, stir it back together and use it the same day. Never thaw batter on the counter, and never refreeze it.",
+  "spoilage": [
+   "A smell of alcohol, acetone or nail varnish rather than a clean sour one.",
+   "Pink, orange or grey patches on the surface.",
+   "A watery layer that will not stir back in.",
+   "Any batter left out overnight in a warm kitchen — discard it rather than steaming it."
+  ],
+  "tips": [
+   "Fill the container only halfway; the batter rises again in the cold.",
+   "Make idlis on the first days and dosas on the last ones.",
+   "Use a clean, dry spoon every time and never return used batter.",
+   "Trust the printed date on a shop-bought tub over any general figure."
+  ],
+  "faq": [
+   {
+    "q": "How long does idli batter keep in the fridge?",
+    "a": "4–6 days at 4 °C (40 °F) or below as a safety ceiling, but it is best in the first days — by the end it is sour and suited to dosas."
+   },
+   {
+    "q": "Can you freeze idli batter?",
+    "a": "No figure is published for it. It can be frozen in portions, but the culture suffers and the idlis come out flat."
+   },
+   {
+    "q": "Is batter that fermented on the counter overnight safe if you steam it?",
+    "a": "No. Bacillus cereus toxins formed in starchy food are not destroyed by cooking. Throw it out."
+   }
+  ]
+ },
+ "zh": {
+  "name": "印度蒸糕麵糊",
+  "aliases": [
+   "idli batter",
+   "印度米豆糊",
+   "發酵米豆麵糊",
+   "伊德利麵糊"
+  ],
+  "summary": "Idli 麵糊是米與黑豆仁的活發酵物。它同時跑著兩個時鐘：安全上限是 4 °C 以下冷藏 4～6 天（借自熟飯，因為活麵糊沒有任何公布數字），而品質可用的時間短得多，因為菌在低溫中仍持續作用，麵糊會愈放愈酸。",
+  "pantry": "檯面只負責發酵，不負責保存。麵糊一發起來就要進冰箱，也不要在溫暖的廚房裡「再放一天讓它更發」。這是一份含澱粉的米製品，而仙人掌桿菌的孢子撐得過烹煮——細菌增殖時產生的毒素，之後再怎麼蒸也破壞不掉。請降溫並冷藏：食品應在兩小時內從 60 °C 降到 20 °C，再於四小時內降到 4 °C。",
+  "fridge": "放 4 °C 以下冷藏，容器只裝一半，因為麵糊會往上爬。安全上限是 4～6 天，但品質時鐘短得多，而且走向和多薩麵糊相反：第一天能蒸出鬆軟 idli 的麵糊，到第三天就明顯偏酸，到第五天基本上只適合煎多薩。每次都用乾淨湯匙，用過的麵糊絕不要倒回桶裡。市售盒裝會印有效日期，通常比這個短，請以那個日期為準。",
+  "freezer": "這裡沒有給冷凍期限，而且是刻意的：活麵糊沒有任何公布數字，本頁不會憑空生一個。麵糊確實可以分份冷凍、冷藏隔夜解凍，但菌相會嚴重受損、之後膨脹無力，所以冷凍過的麵糊蒸出來的 idli 偏扁，比較適合改煎多薩。解凍過的麵糊絕對不要再冷凍。",
+  "thawing": "冷藏隔夜解凍，攪勻後當天用完。麵糊不要放室溫退冰，也不要再次冷凍。",
+  "spoilage": [
+   "聞起來有酒味、丙酮味或去光水味，而不是乾淨的酸味。",
+   "表面出現粉紅、橘色或灰色斑塊。",
+   "分離出攪不回去的水層。",
+   "任何在溫暖廚房放過一整夜的麵糊——請丟掉，不要拿去蒸。"
+  ],
+  "tips": [
+   "容器只裝一半；麵糊在低溫中還會再脹。",
+   "前幾天做 idli，最後幾天做多薩。",
+   "每次都用乾淨且乾燥的湯匙，用過的不要倒回去。",
+   "市售盒裝以包裝印的日期為準，優先於任何通則數字。"
+  ],
+  "faq": [
+   {
+    "q": "Idli 麵糊冷藏可以放多久？",
+    "a": "安全上限是 4 °C 以下 4～6 天，但前幾天最好；到後期會很酸，比較適合煎多薩。"
+   },
+   {
+    "q": "Idli 麵糊可以冷凍嗎？",
+    "a": "沒有公布的數字。可以分份冷凍，但菌相受損，蒸出來的 idli 會偏扁。"
+   },
+   {
+    "q": "在檯面上發了一整夜的麵糊，蒸熟就安全嗎？",
+    "a": "不安全。仙人掌桿菌在澱粉食品裡形成的毒素，烹煮是破壞不掉的。請丟掉。"
+   }
+  ]
+ }
+}

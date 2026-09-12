@@ -1,0 +1,85 @@
+{
+ "slug": "cereal-ready-to-eat",
+ "en": {
+  "name": "Cereal, ready-to-eat",
+  "aliases": [
+   "breakfast cereal",
+   "cornflakes",
+   "granola",
+   "muesli",
+   "早餐穀片"
+  ],
+  "summary": "Ready-to-eat breakfast cereal keeps 6–12 months from purchase unopened and 2–3 months once the box is opened. The opened window is the one that matters: the inner bag is a moisture barrier, and once it is open the cereal goes soft rather than unsafe.",
+  "pantry": "An unopened box keeps 6–12 months from purchase in a cool, dry cupboard, or to the printed date if it comes first. Once opened, use it within 2–3 months. That inner liner is doing real work — it is a moisture barrier, and cereal is dried and puffed precisely to be crisp, so the moment humidity gets in, the flakes go limp. Roll the liner down tightly and clip it, or better, decant into an airtight container. Granola and muesli with nuts and seeds in them are the exceptions to watch, because their oils go rancid while the plain flakes are merely going soft.",
+  "fridge": "No refrigerator timeline is published for breakfast cereal, and a fridge is the wrong place for it — humid, and full of smells that a porous dry flake will absorb. The exception worth considering is a nut-and-seed-heavy granola in a hot kitchen, where an airtight jar in the fridge slows the oils turning; let it reach room temperature before opening so it does not take up condensation, which would defeat the point.",
+  "freezer": "No freezer figure is given for ready-to-eat cereal. Freezing a sealed bag deals with pantry moths in a bulk purchase and slows rancidity in an oily granola, but neither is a published shelf life. For ordinary flakes it is not worth the freezer space: the cupboard figure is long enough, and the real enemy of a cereal is humidity, which a freezer supplies every time the bag comes out.",
+  "thawing": null,
+  "spoilage": [
+   "Flakes gone soft and limp instead of crisp — humidity, and the usual end of an opened box.",
+   "A rancid or crayon-like smell, especially from granola and muesli with nuts.",
+   "Webbing, larvae, small moths or fine dust in the box.",
+   "A stale, cardboardy taste with none of the toasted flavour left."
+  ],
+  "tips": [
+   "Decant into an airtight container; a rolled-down liner is not a seal.",
+   "Buy granola in smaller boxes than plain flakes — the nuts and seeds turn first.",
+   "Write the opening date on the box.",
+   "Refresh slightly soft flakes in a low oven, but not rancid ones — those go out."
+  ],
+  "faq": [
+   {
+    "q": "How long does breakfast cereal keep?",
+    "a": "6–12 months from purchase unopened, and 2–3 months once the box is opened."
+   },
+   {
+    "q": "Why does cereal go soft?",
+    "a": "It absorbs humidity from the air. The inner liner is a moisture barrier, and once it is open the flakes start taking up water."
+   },
+   {
+    "q": "Does granola keep as long as plain cereal?",
+    "a": "Watch it more closely. The nuts, seeds and oil in granola go rancid while plain flakes are only going soft."
+   }
+  ]
+ },
+ "zh": {
+  "name": "即食早餐穀片",
+  "aliases": [
+   "玉米片",
+   "麥片",
+   "格蘭諾拉麥片",
+   "muesli",
+   "早餐穀物"
+  ],
+  "summary": "即食早餐穀片未開封從購買日起算可放 6～12 個月，開封後 2～3 個月。真正重要的是開封後那個數字：內袋是一層防潮屏障，一旦拆開，穀片是變軟而不是變得不安全。",
+  "pantry": "未開封的盒裝放陰涼乾燥的櫥櫃，從購買日起算 6～12 個月，若標示日期更早則以標示為準。開封後請在 2～3 個月內用完。那層內袋是真的在工作——它是防潮屏障，而穀片之所以被烘乾、膨發，全是為了「脆」，所以濕氣一進來，它就軟掉了。請把內袋確實捲緊夾好，更好的做法是倒進密封容器。含堅果和種子的格蘭諾拉、muesli 是要特別留意的例外，因為在原味玉米片還只是變軟的時候，它們的油脂已經在走油耗了。",
+  "fridge": "早餐穀片沒有公布的冷藏期限，而冰箱也不是它該待的地方——又潮濕、又充滿氣味，而多孔的乾燥穀片非常會吸味。唯一值得考慮的例外，是在悶熱的廚房裡放堅果種子比例高的格蘭諾拉：密封罐放冰箱能延緩油脂變質；開封前先回到室溫，免得吸進結露的水氣，那就本末倒置了。",
+  "freezer": "即食穀片沒有給冷凍數字。把密封袋冷凍能解決大量採購的穀蛾、也能延緩油多的格蘭諾拉走油耗，但兩者都不是公布的保存期限。對一般玉米片來說不值得佔冷凍空間：櫥櫃的期限已經夠長，而穀片真正的敵人是濕氣，冷凍庫每次拿出來都會提供一次。",
+  "thawing": null,
+  "spoilage": [
+   "穀片變軟不脆——受潮，也是一盒開封穀片最常見的結局。",
+   "聞到油耗味或蠟筆味，含堅果的格蘭諾拉和 muesli 尤其明顯。",
+   "盒內出現絲網、幼蟲、小蛾或細粉屑。",
+   "味道變得陳而像紙板，烘烤香氣完全不見。"
+  ],
+  "tips": [
+   "倒進密封容器；把內袋捲一捲不算密封。",
+   "格蘭諾拉要買比原味穀片更小的盒裝——堅果和種子先壞。",
+   "在盒子上寫開封日期。",
+   "稍微變軟的可以用低溫烤箱回脆，但走油耗的就只能丟掉。"
+  ],
+  "faq": [
+   {
+    "q": "早餐穀片可以放多久？",
+    "a": "未開封從購買日起算 6～12 個月，開封後 2～3 個月。"
+   },
+   {
+    "q": "穀片為什麼會軟掉？",
+    "a": "它從空氣中吸了濕氣。內袋本來是防潮屏障，一拆開，穀片就開始吸水。"
+   },
+   {
+    "q": "格蘭諾拉和一般穀片一樣耐放嗎？",
+    "a": "要更留意。在原味穀片只是變軟的時候，格蘭諾拉裡的堅果、種子和油脂已經在走油耗了。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "slug": "fresh-rice-noodles",
+ "en": {
+  "name": "Fresh rice noodles",
+  "aliases": [
+   "ho fun",
+   "河粉",
+   "粄條",
+   "米苔目",
+   "chee cheong fun"
+  ],
+  "summary": "Fresh rice noodles — 河粉, 粄條, 米苔目, the sheets used for 腸粉 — are a wet rice product and one of the most time-sensitive things sold in a market. Buy them and eat them the same day, or refrigerate them immediately: 1–2 days at 4 °C (40 °F) or below. They are refrigerated goods, and the dried rice noodles' shelf life has nothing to do with them.",
+  "pantry": "Never leave fresh rice noodles out on the counter, and this is not a cautious formality. Two separate hazards live in wet rice noodles held at room temperature. The first is Bacillus cereus, whose spores survive cooking and whose toxin is not destroyed by reheating. The second is bongkrekic acid, produced in high-risk foods such as wet rice products left at room temperature for extended periods, particularly beyond 24 hours — it is heat-stable, there is no treatment for it, and historically it has killed a large proportion of the people it poisons. A stall may keep them at ambient for a few hours before sale; your kitchen should not extend that.",
+  "fridge": "Get them into the fridge as soon as you are home and use them within 1–2 days. Keep them at 4 °C (40 °F) or below — Hong Kong's food safety guidance puts perishable foods including fresh 河粉 and 米粉 at that temperature, and Taiwanese guidance for wet rice products such as 粄條, 米苔目 and 蘿蔔糕 sets below 7 °C — and leave them in their sealed bag. Cold noodles stiffen and the sheets stick; separate them under warm water just before cooking rather than the night before, and cook them right through.",
+  "freezer": "No freezer timeline is given for fresh rice noodles, and that is deliberate rather than an omission. The guidance for wet rice-noodle products with a shelf life beyond one day is that they should be kept frozen through transport, storage and sale, especially in warm weather — so freezing is a legitimate way to hold them, but no home figure is published and this page will not invent one. Freezing does work at home, with a cost: the sheets crumble on thawing. Steam them straight from frozen rather than thawing.",
+  "thawing": "Do not thaw them on the counter; that is precisely the warm hold that creates the hazard. Steam them straight from frozen, or move them to the fridge overnight and cook them the same day.",
+  "spoilage": [
+   "A sour or fermented smell — the noodles should smell of almost nothing.",
+   "Sliminess, stickiness beyond the usual, or strands that pull when lifted.",
+   "Any patch of mould, pink or yellow discolouration on the sheets.",
+   "Any pack that has been sitting at ambient temperature for a long time, however normal it looks — do not taste-test it."
+  ],
+  "tips": [
+   "Buy them last on a market trip and take a cool bag.",
+   "Eat them the day you buy them; the fridge is the backup, not the plan.",
+   "Never buy from a stall where they have been standing warm all afternoon.",
+   "If in doubt, throw them out — the toxins involved cannot be cooked away."
+  ],
+  "faq": [
+   {
+    "q": "How long do fresh rice noodles keep?",
+    "a": "1–2 days at 4 °C (40 °F) or below. The advice is to eat them on the day of purchase and refrigerate immediately otherwise."
+   },
+   {
+    "q": "Can you leave fresh rice noodles out overnight?",
+    "a": "No. Wet rice products left at room temperature, particularly beyond a day, are the classic setting for bongkrekic acid, and Bacillus cereus is a second hazard. Both toxins survive cooking."
+   },
+   {
+    "q": "Can you freeze fresh rice noodles?",
+    "a": "There is no published home timeline. Freezing is used commercially for products with a shelf life beyond one day, and it works at home, but the sheets crumble on thawing — steam them from frozen."
+   },
+   {
+    "q": "Are dried rice noodles stored the same way?",
+    "a": "Not at all. Dried rice vermicelli is a cupboard staple that keeps for years. These are refrigerated goods with days in them."
+   }
+  ]
+ },
+ "zh": {
+  "name": "濕米製麵條",
+  "aliases": [
+   "河粉",
+   "粄條",
+   "米苔目",
+   "腸粉",
+   "板條"
+  ],
+  "summary": "新鮮的濕米製麵條——河粉、粄條、米苔目、做腸粉的粉皮——是濕的米製品，也是市場上最禁不起時間的東西之一。請當天買當天吃，否則立刻冷藏：4 °C 以下 1～2 天。它們是冷藏品，乾米粉那套保存期限跟它們完全無關。",
+  "pantry": "絕對不要把新鮮濕米條放在室溫，而這不是保守的形式主義。放在室溫的濕米條身上有兩個各自獨立的危害。第一個是仙人掌桿菌，它的孢子撐得過烹煮，產生的毒素也不會被復熱破壞。第二個是米酵菌酸：它出現在長時間放置於室溫的高風險食品，尤其是濕的米製品，特別是超過 24 小時之後；它耐熱、沒有解毒方法，歷史上中毒者的死亡比例相當高。攤商在販售前可能常溫放幾個小時，但你的廚房不應該延長這件事。",
+  "fridge": "一到家就放進冰箱，並在 1～2 天內用完。請保持 4 °C 以下——香港的食安指引把包括新鮮河粉、米粉在內的易腐食品放在這個溫度，台灣對粄條、米苔目、蘿蔔糕等濕米製品的指引則是 7 °C 以下——並維持原本的密封包裝。冰過的麵條會變硬、粉皮會黏在一起；請在下鍋前用溫水撥開，而不是前一晚就先分好，而且要煮透。",
+  "freezer": "這裡沒有給新鮮濕米條的冷凍期限，這是刻意的，不是漏寫。對於保存期限超過一天的濕米製麵條，指引是運送、儲存到販售全程都應該冷凍，天熱時尤其如此——所以冷凍是合法合理的保存方式，但沒有家庭用的公布數字，本頁不會憑空生一個。家裡冷凍確實可行，但有代價：粉皮解凍後會碎掉。請直接從冷凍下鍋蒸，不要先解凍。",
+  "thawing": "不要放室溫退冰；那正是製造危害的「微溫久置」。請直接從冷凍蒸，或前一晚移到冷藏、當天煮掉。",
+  "spoilage": [
+   "聞到酸味或發酵味——正常的它幾乎沒有味道。",
+   "發黏、黏度超出平常，或夾起來會牽絲。",
+   "粉皮上出現霉斑、泛粉紅或泛黃。",
+   "任何在常溫放置很久的包裝，不管看起來多正常——都不要「試吃看看」。"
+  ],
+  "tips": [
+   "逛市場時最後才買，並帶保冷袋。",
+   "當天買當天吃；冰箱是備案，不是計畫。",
+   "整個下午都溫溫地擺在攤位上的，不要買。",
+   "有疑慮就丟掉——這裡牽涉的毒素，煮再久也去不掉。"
+  ],
+  "faq": [
+   {
+    "q": "新鮮河粉、粄條可以放多久？",
+    "a": "4 °C 以下 1～2 天。建議是當天買當天吃，否則立刻冷藏。"
+   },
+   {
+    "q": "濕米條可以在室溫放一整晚嗎？",
+    "a": "不行。放在室溫的濕米製品（尤其超過一天）正是米酵菌酸的典型情境，仙人掌桿菌則是另一個危害，而這兩種毒素都撐得過烹煮。"
+   },
+   {
+    "q": "新鮮河粉可以冷凍嗎？",
+    "a": "沒有家庭用的公布期限。商業上對保存期限超過一天的產品確實採全程冷凍，家裡也可行，但粉皮解凍後會碎——請直接從冷凍蒸。"
+   },
+   {
+    "q": "乾米粉也是這樣保存嗎？",
+    "a": "完全不是。乾米粉是可以放好幾年的櫥櫃常備品；這些是以天計算的冷藏品。"
+   }
+  ]
+ }
+}

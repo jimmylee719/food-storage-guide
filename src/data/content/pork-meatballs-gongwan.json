@@ -1,0 +1,83 @@
+{
+ "slug": "pork-meatballs-gongwan",
+ "en": {
+  "name": "Pork meatballs (gongwan)",
+  "aliases": [
+   "gongwan",
+   "bouncy pork balls",
+   "Hsinchu meatballs",
+   "貢丸"
+  ],
+  "summary": "Gongwan are pounded, emulsified pork balls, already cooked when you buy them. They are a perishable cooked meat, not a cured sausage: 3–4 days in the fridge at 4 °C (40 °F) or below, and 1–2 months at −18 °C (0 °F). Those numbers are borrowed from pre-cooked sausages, as no authority publishes a home storage time for gongwan.",
+  "pantry": "Gongwan do not keep at room temperature, and the springy texture misleads people into thinking they do. That bounce comes from pounding the meat and from phosphates, not from any preservation step — there is no salt cure, no drying and no acidity working in your favour. Out of the fridge the two-hour rule applies, one hour above 32 °C (90 °F), which includes the stall-bought bag carried around a warm market for an afternoon.",
+  "fridge": "Keep them at 4 °C (40 °F) or below in a sealed box and use within 3–4 days, or by the date on the pack if that is sooner. Vacuum packs from a shop should stay sealed until you need them; loose balls from a market counter are handled goods and deserve the shorter end of that window. Reheat them thoroughly — simmered until hot through the middle, not just warmed in the broth.",
+  "freezer": "They freeze for 1–2 months at −18 °C (0 °F) for best quality. Freeze in portions on a tray first so they do not fuse into a block, then bag them with the air pressed out. Frozen food kept at −18 °C stays safe indefinitely; past a couple of months the emulsion goes crumbly and the fat picks up freezer taint, which is why the window is short for something that looks so robust.",
+  "thawing": "Drop them straight from frozen into simmering soup, or thaw overnight in the fridge. Never thaw on the counter, and do not refreeze balls that have thawed fully at room temperature.",
+  "spoilage": [
+   "A sour or sharply fermented smell when the bag is opened.",
+   "A slimy or sticky surface on the balls or cloudy liquid in the pack.",
+   "Grey or greenish colour instead of an even pale pink-grey.",
+   "A vacuum pack that has puffed up or is leaking."
+  ],
+  "tips": [
+   "Freeze on the day of purchase anything you will not eat within a few days.",
+   "Freeze them spread out on a tray first, then bag — otherwise you get one solid lump.",
+   "Simmer rather than boil hard; a rolling boil toughens the emulsion.",
+   "Keep market-bought loose balls colder and eat them sooner than vacuum-packed ones."
+  ],
+  "faq": [
+   {
+    "q": "How long do gongwan keep in the fridge?",
+    "a": "3–4 days at 4 °C (40 °F) or below in a sealed box, or the date on the pack if that comes first."
+   },
+   {
+    "q": "Can you freeze gongwan?",
+    "a": "Yes, 1–2 months at −18 °C (0 °F). Freeze them separated on a tray first so they do not stick together."
+   },
+   {
+    "q": "Are gongwan already cooked?",
+    "a": "Yes, they are cooked in production, but they are a perishable cooked meat and should still be reheated right through."
+   }
+  ]
+ },
+ "zh": {
+  "name": "貢丸",
+  "aliases": [
+   "摃丸",
+   "新竹貢丸",
+   "豬肉丸",
+   "肉丸"
+  ],
+  "summary": "貢丸是把豬肉摃打成乳化肉漿再煮熟的產品，買回來就是熟的。它屬於易腐的熟肉，不是熟成臘腸：冷藏 4 °C 以下 3～4 天，冷凍 −18 °C 下 1～2 個月。這些數字借自「預煮香腸」，因為沒有任何單位公布過貢丸的家庭保存時間。",
+  "pantry": "貢丸不能放常溫，而那股彈牙的口感常讓人誤以為它可以。彈性來自摃打和磷酸鹽，不是來自任何保存工序——沒有鹽漬、沒有乾燥，也沒有酸度在幫你。離開冷藏後適用 2 小時原則，室溫超過 32 °C 時為 1 小時，這也包括在悶熱的市場裡提著逛一下午的那一袋。",
+  "fridge": "放 4 °C 以下、裝密封盒，3～4 天內用完，若包裝日期更早則以包裝為準。店家的真空包要用之前都保持密封；市場秤重的散裝丸子是經手過的商品，請取這個區間的短邊。復熱要確實——煮到中心全熱，不是在湯裡泡溫而已。",
+  "freezer": "−18 °C 下品質可維持 1～2 個月。先攤在盤子上分開凍硬，免得黏成一大塊，再裝袋壓出空氣。−18 °C 下安全性是無限期的；超過兩個月乳化結構會變得鬆散粉粉的，油脂也會沾上冷凍庫雜味——所以這種看起來很耐放的東西，時間其實不長。",
+  "thawing": "直接從冷凍丟進微滾的湯裡，或冷藏隔夜解凍。不要放室溫退冰；已在室溫下完全退冰的就不要再冷凍。",
+  "spoilage": [
+   "拆袋時聞到酸味或明顯的發酵味。",
+   "丸子表面發黏，或袋內湯汁混濁。",
+   "顏色轉灰或帶綠，而不是均勻的淡粉灰色。",
+   "真空包脹起來或滲液。"
+  ],
+  "tips": [
+   "幾天內吃不完的，買回來當天就冷凍。",
+   "先攤開在盤子上凍硬再裝袋，否則會變成一整塊。",
+   "用微滾煮，不要大滾；滾太兇會讓口感變柴。",
+   "市場散裝的要更冰、也要更早吃完，別和真空包一視同仁。"
+  ],
+  "faq": [
+   {
+    "q": "貢丸冷藏可以放多久？",
+    "a": "4 °C 以下密封盒 3～4 天，若包裝日期更早則以包裝為準。"
+   },
+   {
+    "q": "貢丸可以冷凍嗎？",
+    "a": "可以，−18 °C 下 1～2 個月。先攤開凍硬再裝袋，才不會黏成一塊。"
+   },
+   {
+    "q": "貢丸本來就是熟的嗎？",
+    "a": "是的，製作時已經煮熟，但它仍是易腐熟肉，吃之前還是要確實加熱到全熱。"
+   }
+  ]
+ }
+}

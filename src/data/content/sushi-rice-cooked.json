@@ -1,0 +1,92 @@
+{
+ "slug": "sushi-rice-cooked",
+ "en": {
+  "name": "Sushi rice, cooked",
+  "aliases": [
+   "vinegared rice",
+   "shari",
+   "酢飯",
+   "醋飯",
+   "seasoned sushi rice"
+  ],
+  "summary": "Sushi rice is cooked rice seasoned with vinegar, and the vinegar is a control measure rather than a flavouring. Properly acidified rice may be held at working temperature for a session; unacidified rice may not. Either way it should not be carried over past the day it was made — refrigerated, 1 day.",
+  "pantry": "The acidity is the whole reason a tray of sushi rice can sit on a counter at all. Commercial practice requires sushi rice to be acidified to pH 4.6 or below, which holds back Bacillus cereus and Staphylococcus aureus while the rice is at working temperature; rice that has not been acidified to that point is simply cooked rice sitting warm, which is the classic Bacillus cereus situation, and its toxin is not destroyed by anything you do later. So: properly seasoned rice may be held for a working session, plain rice may not, and neither should be kept overnight on the counter.",
+  "fridge": "Cooked rice should not be carried over past the day it was made, so the refrigerated figure is 1 day — and stored rice should spend as little time as possible between the safe temperatures, held either above 55 °C or below 8 °C. Keep it covered so it does not dry. The practical problem is texture rather than safety: chilled sushi rice goes hard and crumbly as the starch retrogrades, so let it come back towards room temperature before you use it, or plan to make only what you will serve.",
+  "freezer": "No freezer timeline is given for sushi rice, and freezing it is not the answer. Vinegared rice thaws wet and loses the gloss and the individual grains that are the point of it; the seasoning also disperses unevenly. If you want to freeze rice, freeze plain cooked rice in portions and season it fresh after reheating — that works well, and this does not.",
+  "thawing": null,
+  "spoilage": [
+   "A sour smell that is different from the clean vinegar one — musty, fermented or yeasty.",
+   "Sliminess, or grains pulling into strands when lifted.",
+   "Any mould spot on the surface of a covered tray.",
+   "Rice that was left out overnight, seasoned or not — discard it."
+  ],
+  "tips": [
+   "Season the rice while it is hot; the vinegar needs to be through the whole batch, not on top.",
+   "Keep the tray covered with a damp cloth while you work, and do not hold it warm all day.",
+   "Make what you will serve; sushi rice does not reheat well.",
+   "Freeze plain rice instead, and season it after reheating."
+  ],
+  "faq": [
+   {
+    "q": "How long does sushi rice keep?",
+    "a": "It should not be carried over past the day it was made — refrigerated, 1 day, kept covered."
+   },
+   {
+    "q": "Why can sushi rice sit at room temperature when plain rice cannot?",
+    "a": "Because the vinegar brings it to pH 4.6 or below, which holds back Bacillus cereus and Staphylococcus aureus. Rice that has not been acidified has no such protection."
+   },
+   {
+    "q": "Can you freeze sushi rice?",
+    "a": "It is not worth it — it thaws wet and loses its texture. Freeze plain cooked rice and season it after reheating."
+   },
+   {
+    "q": "Why does refrigerated sushi rice go hard?",
+    "a": "The starch retrogrades in the cold. Let it come back towards room temperature before serving, or make only what you need."
+   }
+  ]
+ },
+ "zh": {
+  "name": "壽司醋飯",
+  "aliases": [
+   "醋飯",
+   "酢飯",
+   "シャリ",
+   "壽司飯"
+  ],
+  "summary": "壽司飯是拌了醋的熟飯，而那個醋是控制手段，不是調味而已。確實調酸的飯可以在作業溫度下放一個工作時段；沒調酸的不行。無論如何，做好的飯都不該跨日使用——冷藏 1 天。",
+  "pantry": "一盤壽司飯之所以能放在常溫檯面上，全靠那份酸度。商業作業要求壽司飯必須酸化到 pH 4.6 以下，這能在飯處於作業溫度時抑制仙人掌桿菌與金黃色葡萄球菌；沒有酸化到這個程度的，就只是一盤溫溫放著的熟飯，也就是仙人掌桿菌最典型的情境，而它的毒素不會因為你之後做了什麼而消失。所以：確實調味過的飯可以撐一個工作時段，白飯不行，而且兩者都不該在檯面上過夜。",
+  "fridge": "熟飯不該跨日使用，所以冷藏的數字是 1 天——而且存放中的飯應該盡量縮短停留在危險溫度之間的時間，保持在 55 °C 以上或 8 °C 以下。請加蓋避免變乾。實務上的難題其實是口感而非安全：冰過的醋飯會因為澱粉老化而變硬變散，所以使用前讓它回一點溫，或者乾脆只做當場會吃完的量。",
+  "freezer": "這裡沒有給壽司飯的冷凍期限，而且冷凍也不是解方。醋飯解凍後會出水，失去光澤與粒粒分明——那正是它的重點——調味也會分布不均。真的要冷凍米飯，請冷凍未調味的白飯，復熱後再現拌醋，那個做法很好用，這個不行。",
+  "thawing": null,
+  "spoilage": [
+   "出現和乾淨醋味不同的酸味——霉味、發酵味或酵母味。",
+   "發黏，或夾起來會牽絲。",
+   "加蓋的容器表面出現任何霉點。",
+   "在室溫放過一整夜的飯，不管有沒有調味，都請丟掉。"
+  ],
+  "tips": [
+   "趁熱拌醋；醋要拌進整盆，不是澆在表面。",
+   "作業時用濕布蓋著，也不要整天保溫放著。",
+   "做多少吃多少；壽司飯不適合復熱。",
+   "要冷凍就凍白飯，復熱後再調味。"
+  ],
+  "faq": [
+   {
+    "q": "壽司醋飯可以放多久？",
+    "a": "做好的飯不該跨日——冷藏加蓋 1 天。"
+   },
+   {
+    "q": "為什麼醋飯可以放常溫、白飯不行？",
+    "a": "因為醋把它帶到 pH 4.6 以下，能抑制仙人掌桿菌與金黃色葡萄球菌。沒有酸化的飯沒有這層保護。"
+   },
+   {
+    "q": "壽司飯可以冷凍嗎？",
+    "a": "不划算——解凍後出水、口感全失。請冷凍白飯，復熱後再拌醋。"
+   },
+   {
+    "q": "冰過的壽司飯為什麼會變硬？",
+    "a": "低溫下澱粉會老化。上桌前讓它回一點溫，或者只做需要的份量。"
+   }
+  ]
+ }
+}

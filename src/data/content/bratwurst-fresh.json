@@ -1,0 +1,83 @@
+{
+ "slug": "bratwurst-fresh",
+ "en": {
+  "name": "Bratwurst, fresh",
+  "aliases": [
+   "raw bratwurst",
+   "fresh German sausage",
+   "brat",
+   "uncooked bratwurst"
+  ],
+  "summary": "Fresh bratwurst is raw seasoned pork or veal in a casing — it has not been cured, smoked or cooked, so it is raw ground meat that happens to be sausage-shaped. Keep it at 4 °C (40 °F) or below and cook it within 2–3 days, or freeze it for 2–3 months.",
+  "pantry": "There is no room-temperature storage for fresh bratwurst. It sits in the danger zone, 4–60 °C (40–140 °F), the moment it warms up, and grinding has spread whatever was on the surface of the meat all the way through it. Follow the two-hour rule — one hour if the kitchen or the car is above 32 °C (90 °F) — counting from the till, not from the moment you unpack the bag.",
+  "fridge": "Store it in the coldest part of the fridge at 4 °C (40 °F) or below, on the bottom shelf and on a plate or tray, so nothing drips onto ready-to-eat food underneath. Leave it in the butcher's paper or shop pack and use it within 2–3 days of purchase. Because it is a raw ground product, use a separate board and tongs, and cook it right through — through to the centre, not just browned on the skin.",
+  "freezer": "Freeze at −18 °C (0 °F) for 2–3 months. Wrap the links individually in film, then bag them, pressing the air out — a fresh sausage is fatty and freezer burn takes the flavour first. Frozen food stays safe indefinitely at −18 °C; the months are about quality, and a fresh brat past three months tastes flat and dry rather than being unsafe. Label with the date you froze it.",
+  "thawing": "Thaw overnight in the fridge on a plate, or in a sealed bag under cold running water and cook immediately. Never on the counter — and if it has fully thawed at room temperature, cook it rather than putting it back in the freezer.",
+  "spoilage": [
+   "A sour or ammonia-like smell when the pack is opened.",
+   "A sticky or slimy film on the casing.",
+   "Grey-brown or greenish colour running through the filling, not just on the surface.",
+   "A pack that has gone puffy or is leaking cloudy liquid."
+  ],
+  "tips": [
+   "Buy it last and get it home cold; a warm hour in the car costs you a day of fridge life.",
+   "Freeze on the day of purchase if you are not cooking within two days.",
+   "Do not prick the casings before cooking — you lose the fat that keeps it juicy.",
+   "Keep it below and away from anything you will eat without cooking."
+  ],
+  "faq": [
+   {
+    "q": "How long does fresh bratwurst last in the fridge?",
+    "a": "2–3 days at 4 °C (40 °F) or below. It is raw sausage, not a cured one, so it is on the same clock as ground pork."
+   },
+   {
+    "q": "Can you freeze fresh bratwurst?",
+    "a": "Yes, 2–3 months at −18 °C (0 °F) for best quality. Wrap each link tightly and press the air out."
+   },
+   {
+    "q": "Can you eat bratwurst pink in the middle?",
+    "a": "No. Fresh bratwurst is raw ground meat and must be cooked all the way through, not just browned on the outside."
+   }
+  ]
+ },
+ "zh": {
+  "name": "德式生香腸",
+  "aliases": [
+   "生德國香腸",
+   "白香腸",
+   "未熟成德式香腸",
+   "bratwurst"
+  ],
+  "summary": "德式生香腸是把調味過的生豬肉或小牛肉灌進腸衣，沒有醃漬、沒有煙燻、也沒有熟製——本質上就是做成香腸形狀的生絞肉。請放 4 °C 以下冷藏，2～3 天內煮掉，或冷凍 2～3 個月。",
+  "pantry": "德式生香腸沒有常溫保存這回事。只要回溫就落在 4～60 °C 的危險溫度帶，而且絞過的肉已經把表面的菌帶進整條肉裡。請守 2 小時原則，廚房或車內超過 32 °C 時縮短為 1 小時，而且要從結帳那一刻開始算，不是從你拆袋子才算。",
+  "fridge": "放冰箱最冷的位置、4 °C 以下，擺在最下層並墊盤子或托盤，避免血水滴到下方的即食食品。維持店家的紙包或原包裝，購買後 2～3 天內用完。因為它是生絞肉製品，砧板和夾子要和熟食分開，而且要煮到中心全熟，不是外皮上色就好。",
+  "freezer": "−18 °C 冷凍可放 2～3 個月。一條一條用保鮮膜包好再裝袋，把空氣壓出來——生香腸油脂多，凍傷會先吃掉風味。−18 °C 下安全性是無限期的，月數講的是品質：超過三個月的生香腸是變得乾柴無味，而不是變得危險。請標上冷凍日期。",
+  "thawing": "放盤子上冷藏隔夜解凍，或密封裝袋用冷水沖、沖完立刻下鍋。不要放室溫退冰；如果已經在室溫下完全退冰，就直接煮掉，不要再放回冷凍庫。",
+  "spoilage": [
+   "拆開包裝時聞到酸味或氨味。",
+   "腸衣表面黏手、有一層滑膜。",
+   "內餡整體轉灰褐或帶綠，而不只是表層。",
+   "包裝脹袋，或滲出混濁的液體。"
+  ],
+  "tips": [
+   "最後才買、盡快回家冷藏；車上熱一小時就等於少一天冷藏壽命。",
+   "如果兩天內不會煮，買回來當天就冷凍。",
+   "下鍋前不要戳洞，油脂流光就不多汁了。",
+   "位置放在所有免加熱食品的下方，並保持距離。"
+  ],
+  "faq": [
+   {
+    "q": "德式生香腸冷藏可以放多久？",
+    "a": "4 °C 以下 2～3 天。它是生香腸不是熟成品，時程和豬絞肉一樣。"
+   },
+   {
+    "q": "德式生香腸可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2～3 個月品質最好。每條包緊、把空氣壓掉。"
+   },
+   {
+    "q": "德式生香腸中間可以帶粉紅嗎？",
+    "a": "不行。它是生絞肉製品，必須整條煮透，不能只把外皮煎上色。"
+   }
+  ]
+ }
+}

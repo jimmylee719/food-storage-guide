@@ -1,0 +1,91 @@
+{
+ "slug": "dosa-batter",
+ "en": {
+  "name": "Dosa batter",
+  "aliases": [
+   "dosai batter",
+   "masala dosa batter",
+   "fermented rice and lentil batter",
+   "live batter"
+  ],
+  "summary": "Dosa batter is a live fermented mixture of rice and urad dal, ground finer and thinner than idli batter. Refrigerated at 4 °C (40 °F) or below it keeps 4–6 days, and unusually the middle of that window is the best part: a little sourness is what makes a good dosa. No agency publishes a figure for fermented batter, so the number is a borrowed ceiling rather than a documented limit.",
+  "pantry": "Batter is left at room temperature only for the rise, and never as storage. Once it has risen it goes straight into the fridge. A bowl of ground rice and lentils standing warm is a starchy food at exactly the temperature Bacillus cereus likes, and the toxins it forms in starchy food while it multiplies cannot be destroyed by reheating — so a dosa cooked from batter that sat out overnight in a warm room is not made safe by the griddle. Discard batter that was left out overnight, however good it looks.",
+  "fridge": "Refrigerate at 4 °C (40 °F) or below straight after the rise, in a container with room to spare, and use it within 4–6 days. Dosa batter runs the opposite way from idli batter on quality: day one can taste flat, and it is after it has soured a little that dosas crisp and taste as they should. Past about five days it turns sharply acidic and thins out, and the crêpes tear. Keep a clean spoon for it and never return used batter to the tub. Discard any batter that smells of alcohol or acetone, has gone pink or grey, or has separated into a watery layer that will not stir back in.",
+  "freezer": "No freezer timeline is given for dosa batter here. Freezing does work in practice — the batter will be safe indefinitely at −18 °C (0 °F) — but the culture is damaged, the thawed batter is thinner and less lively, and the fermentation does not pick up again the way it did. Since the fridge already gives you the best part of a week, the honest advice is to grind smaller batches more often rather than to freeze.",
+  "thawing": "If you have frozen it, thaw it overnight in the fridge, stir it back together and use it the same day. Never thaw batter on the counter.",
+  "spoilage": [
+   "A smell of alcohol, acetone or nail varnish rather than a clean sour one.",
+   "Pink, orange or grey patches on the surface.",
+   "A watery layer that will not stir back in, with the batter thin and slack underneath.",
+   "Any batter that has stood out overnight in a warm kitchen."
+  ],
+  "tips": [
+   "Refrigerate immediately after the rise; the fridge is the storage, the counter is only the ferment.",
+   "Use a clean spoon each time and never tip used batter back.",
+   "Leave headroom in the container — it will keep rising a little in the cold.",
+   "Grind smaller batches more often rather than keeping one tub going for a week."
+  ],
+  "faq": [
+   {
+    "q": "How long does dosa batter keep in the fridge?",
+    "a": "4–6 days at 4 °C (40 °F) or below. That is a borrowed ceiling for a fermented starch, not a published figure."
+   },
+   {
+    "q": "Can you freeze dosa batter?",
+    "a": "It is safe to, but the culture suffers and the thawed batter is thin and sluggish. Grinding fresh in smaller batches works better."
+   },
+   {
+    "q": "Is batter that was left out overnight safe if you cook it well?",
+    "a": "No. The toxins Bacillus cereus forms in starchy food survive reheating, so a hot griddle does not fix it. Throw it out."
+   },
+   {
+    "q": "Why does dosa batter taste better on day two?",
+    "a": "Because a little extra souring is what gives dosas their flavour and crispness — the opposite of idli batter, which is best fresh."
+   }
+  ]
+ },
+ "zh": {
+  "name": "多薩麵糊",
+  "aliases": [
+   "dosa batter",
+   "印度煎餅麵糊",
+   "發酵米豆糊",
+   "朵薩麵糊"
+  ],
+  "summary": "多薩麵糊是米與黑豆仁磨成的活發酵麵糊，磨得比 idli 麵糊更細更稀。放 4 °C 以下冷藏可放 4～6 天，而且不太一樣的是，這段期間的中段才是最好吃的：帶一點酸，多薩才對味。沒有任何機構公布過發酵麵糊的期限，所以這個數字是借來的安全上限，不是有出處的定論。",
+  "pantry": "麵糊留在室溫只是為了發酵，絕不是保存方式。發起來之後就要直接進冰箱。一盆磨好的米豆糊在溫暖處放著，就是一份停在仙人掌桿菌最喜歡溫度的澱粉食品，而它在增殖過程中於澱粉食品裡產生的毒素，加熱是破壞不掉的——所以用「在溫暖房間放過一整夜」的麵糊煎出來的多薩，並不會因為鐵板夠熱就變安全。放了一整夜的麵糊，不管看起來多好，都請丟掉。",
+  "fridge": "發酵完成後立刻放 4 °C 以下冷藏，容器要留空間，並在 4～6 天內用完。多薩麵糊在品質上的走向和 idli 麵糊相反：第一天可能味道偏平，要稍微酸一點之後，餅才會脆、才會對味。大約過了五天它會變得非常酸、質地也變稀，煎的時候容易破。請專門留一支乾淨的湯匙給它，用過的麵糊絕不要倒回桶裡。聞起來有酒味或去光水味、表面泛粉紅或灰色、或是分離出攪不回去的水層，都請丟棄。",
+  "freezer": "這裡沒有給多薩麵糊的冷凍期限。實務上冷凍是可行的——在 −18 °C 下安全性是無限期的——但菌相會受損，解凍後的麵糊更稀、活性更差，發酵也回不到原本的狀態。既然冷藏已經給你將近一週，誠實的建議是：少量多次現磨，而不是冷凍。",
+  "thawing": "如果冷凍了，請冷藏隔夜解凍，攪勻後當天用完。麵糊絕不要放室溫退冰。",
+  "spoilage": [
+   "聞起來有酒味、丙酮味或去光水味，而不是乾淨的酸味。",
+   "表面出現粉紅、橘色或灰色斑塊。",
+   "分離出攪不回去的水層，底下的麵糊又稀又軟。",
+   "任何在溫暖廚房裡放過一整夜的麵糊。"
+  ],
+  "tips": [
+   "發好就立刻冷藏；冰箱才是保存，檯面只是發酵。",
+   "每次用乾淨湯匙，用過的不要倒回去。",
+   "容器留一點空間——它在冷藏中還會稍微再脹一些。",
+   "少量多次現磨，不要一桶用一整週。"
+  ],
+  "faq": [
+   {
+    "q": "多薩麵糊冷藏可以放多久？",
+    "a": "4 °C 以下 4～6 天。這是發酵澱粉的借用安全上限，不是官方公布的數字。"
+   },
+   {
+    "q": "多薩麵糊可以冷凍嗎？",
+    "a": "安全上可以，但菌相受損、解凍後麵糊稀而無力。少量現磨的效果好得多。"
+   },
+   {
+    "q": "放了一整夜的麵糊煎熟就沒事嗎？",
+    "a": "沒這回事。仙人掌桿菌在澱粉食品中產生的毒素耐得住加熱，鐵板再熱也無濟於事。請丟掉。"
+   },
+   {
+    "q": "為什麼多薩麵糊第二天比較好吃？",
+    "a": "因為多一點酸度正是多薩風味和酥脆感的來源——這和越新鮮越好的 idli 麵糊剛好相反。"
+   }
+  ]
+ }
+}

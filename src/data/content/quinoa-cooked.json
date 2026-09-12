@@ -1,0 +1,81 @@
+{
+ "slug": "quinoa-cooked",
+ "en": {
+  "name": "Quinoa, cooked",
+  "aliases": [
+   "cooked quinoa",
+   "quinoa salad base",
+   "boiled quinoa"
+  ],
+  "summary": "Cooked quinoa keeps 6–7 days in the fridge at 4 °C (40 °F) or below and 6–12 months in the freezer at −18 °C (0 °F). As with any cooked grain, how quickly it cools matters more than how thoroughly you reheat it.",
+  "pantry": "Cooked quinoa must not be left standing at room temperature. It is a cooked starch, and cooked starches are where Bacillus cereus does its damage: the spores survive boiling, and the toxin that forms while the grain sits warm is not destroyed by reheating. So the control is the cooling. Spread it out on a tray or in a shallow container as soon as it is drained, get it into the fridge within the two-hour rule — one hour above 32 °C (90 °F) — and do not leave a covered pan to cool overnight on the stove.",
+  "fridge": "Keep it at 4 °C (40 °F) or below in a sealed container and use it within 6–7 days. Fluff it with a fork before chilling so it does not set into a single block, and store it in shallow layers rather than a deep tub, which cools slowly in the middle. It is a useful thing to batch-cook precisely because that window is comparatively long — but reheat it until steaming hot all the way through, and reheat only once, rather than warming the same tub repeatedly over a week.",
+  "freezer": "Cooked quinoa freezes very well, for 6–12 months at −18 °C (0 °F). Freeze it in flat, meal-sized portions in bags with the air pressed out, and freeze it promptly after cooling rather than at the end of the fridge window. Frozen food stays safe indefinitely at −18 °C; the months are about quality, after which the grains taste washed-out. Reheat from frozen in a pan with a splash of water, or in the microwave, until steaming.",
+  "thawing": "Reheat straight from frozen until it is steaming hot all the way through, or thaw overnight in the fridge and reheat fully. Never thaw a cooked grain on the counter.",
+  "spoilage": [
+   "A sour or fermented smell when the container is opened.",
+   "Sliminess, or grains sticking together in a wet, ropy mass.",
+   "Any mould spot, including on the surface of a sealed box.",
+   "Quinoa that was left out overnight — discard it, however normal it looks."
+  ],
+  "tips": [
+   "Spread it on a tray to cool fast, then box it; do not cool it in the pan.",
+   "Freeze in flat meal-sized portions on the day you cook it.",
+   "Reheat once, to steaming hot, rather than warming the same box repeatedly.",
+   "Batch-cook deliberately — the fridge window is long enough to make it worthwhile."
+  ],
+  "faq": [
+   {
+    "q": "How long does cooked quinoa keep in the fridge?",
+    "a": "6–7 days at 4 °C (40 °F) or below in a sealed container, if it was cooled quickly."
+   },
+   {
+    "q": "Can you freeze cooked quinoa?",
+    "a": "Yes, 6–12 months at −18 °C (0 °F). Freeze it flat in meal-sized portions and reheat straight from frozen."
+   },
+   {
+    "q": "Is cooked quinoa a Bacillus cereus risk like rice?",
+    "a": "Yes — it is a cooked starch, the spores survive cooking, and the toxin is not destroyed by reheating. Cool it fast and refrigerate it promptly."
+   }
+  ]
+ },
+ "zh": {
+  "name": "熟藜麥",
+  "aliases": [
+   "煮熟藜麥",
+   "藜麥飯",
+   "cooked quinoa"
+  ],
+  "summary": "煮熟的藜麥放 4 °C 以下冷藏 6～7 天，−18 °C 冷凍 6～12 個月。和所有熟穀物一樣，它降溫得多快，比你復熱得多徹底更重要。",
+  "pantry": "熟藜麥不能放在室溫。它是熟澱粉，而熟澱粉正是仙人掌桿菌造成傷害的場域：孢子撐得過水煮，而穀物停在溫熱狀態時生成的毒素，再加熱也破壞不掉。所以控制點在降溫。瀝乾後立刻攤在淺盤或淺容器裡，在 2 小時原則內進冰箱（室溫超過 32 °C 時為 1 小時），不要讓一鍋蓋著的藜麥在爐上放一整夜。",
+  "fridge": "放 4 °C 以下的密封容器，6～7 天內用完。冷藏前用叉子撥鬆，才不會結成一整塊；請鋪成淺淺一層，不要裝進深桶，深桶中心降溫很慢。它很適合一次多煮一些，正是因為這個期限相對長——但復熱要熱到中心冒蒸氣，而且只復熱一次，不要同一盒在一週內反覆加熱。",
+  "freezer": "熟藜麥非常耐凍，−18 °C 下 6～12 個月。按一餐份量壓平裝袋、壓出空氣，並在降溫後盡快冷凍，不要拖到冷藏期的最後一天。−18 °C 下安全性是無限期的；月數講的是品質，超過之後風味會變得寡淡。要吃時直接從冷凍下鍋加一點水，或用微波，加熱到冒蒸氣。",
+  "thawing": "直接從冷凍加熱到中心冒蒸氣，或冷藏隔夜解凍後確實復熱。熟穀物不要放室溫退冰。",
+  "spoilage": [
+   "打開容器聞到酸味或發酵味。",
+   "發黏，或穀粒黏成濕黏牽絲的一團。",
+   "任何霉點，包括密封盒表面。",
+   "在室溫放過一整夜的藜麥——不管看起來多正常都請丟掉。"
+  ],
+  "tips": [
+   "攤在淺盤上快速降溫再裝盒；不要在鍋裡放涼。",
+   "煮好當天就按一餐份量壓平冷凍。",
+   "只復熱一次、熱到冒蒸氣，不要同一盒反覆加熱。",
+   "可以刻意一次多煮——冷藏期夠長，值得這麼做。"
+  ],
+  "faq": [
+   {
+    "q": "熟藜麥冷藏可以放多久？",
+    "a": "快速降溫後放密封容器、4 °C 以下，6～7 天。"
+   },
+   {
+    "q": "熟藜麥可以冷凍嗎？",
+    "a": "可以，−18 °C 下 6～12 個月。按份量壓平冷凍，直接從冷凍復熱。"
+   },
+   {
+    "q": "熟藜麥也有像飯一樣的仙人掌桿菌風險嗎？",
+    "a": "有。它是熟澱粉，孢子撐得過烹煮，毒素也不會被復熱破壞。請快速降溫並盡快冷藏。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "fresh-udon-noodles",
+ "en": {
+  "name": "Fresh udon noodles",
+  "aliases": [
+   "ゆでうどん",
+   "生うどん",
+   "boiled udon",
+   "chilled udon"
+  ],
+  "summary": "Fresh udon — the sealed packs of boiled noodles sold chilled — is a refrigerated food, not a cupboard one. There is no general unopened figure here: keep it at 10 °C or below and go by the printed use-by date. Once opened, cook within 1–2 days; frozen, it keeps 2 months and does so very well.",
+  "pantry": "Fresh udon must not be kept at room temperature. Boiled noodles are classed as a chilled noodle product in Japan and must be held at 10 °C or below, having been cooled to that temperature promptly after boiling. There is nothing in a plain wheat noodle to hold bacteria back, and a cooked wet starch left standing warm is the same situation as a pot of cooked rice left out — which is the hazard, not an inconvenience.",
+  "fridge": "Keep it at 10 °C or below; the main body of a domestic fridge at 4 °C (40 °F) is better still. For an unopened pack the honest answer is a rule rather than a number: sealed packs rely on an acid dip or a post-packing pasteurisation that varies by maker, so no general figure applies and the printed use-by date is what you follow. Once the pack is open that protection is gone and you have 1–2 days. Keep the noodles in their pack rather than loose in a bowl, and cook them through.",
+  "freezer": "Udon freezes unusually well — commercial frozen udon is one of the few frozen foods that is genuinely better than the chilled version — and it keeps 2 months at −18 °C (0 °F). Freeze the sealed packs flat. Boil them straight from frozen and do not thaw first, or the noodles go slack and lose the springiness that is the whole point of udon. Frozen food stays safe indefinitely at −18 °C; the two months are a quality figure borrowed from fresh pasta.",
+  "thawing": "Do not thaw frozen udon. Drop it straight into boiling water and separate the block with chopsticks as it loosens.",
+  "spoilage": [
+   "A sour or fermented smell on opening the pack.",
+   "A slimy film on the noodles beyond the usual surface starch.",
+   "Mould anywhere inside the pack, including at the sealed edge.",
+   "A pack that has puffed up, or noodles gone grey and sticky."
+  ],
+  "tips": [
+   "Follow the printed date; there is no general figure for an unopened pack.",
+   "Buy chilled udon last on a shopping trip and get it home cold.",
+   "Keep frozen udon in stock instead of chilled if you use it occasionally — it is better anyway.",
+   "Boil from frozen, never thawed."
+  ],
+  "faq": [
+   {
+    "q": "How long does fresh udon keep in the fridge?",
+    "a": "Unopened, go by the printed use-by date at 10 °C or below — there is no general figure. Once opened, 1–2 days."
+   },
+   {
+    "q": "Can you freeze udon?",
+    "a": "Yes, 2 months at −18 °C (0 °F), and it freezes better than almost any other noodle. Boil it straight from frozen."
+   },
+   {
+    "q": "Should frozen udon be thawed first?",
+    "a": "No. Thawing makes it slack and soft; straight into boiling water keeps the texture springy."
+   }
+  ]
+ },
+ "zh": {
+  "name": "生烏龍麵",
+  "aliases": [
+   "ゆでうどん",
+   "生うどん",
+   "熟烏龍麵",
+   "冷藏烏龍麵"
+  ],
+  "summary": "生烏龍麵——那種冷藏販售、已汆燙好的密封包裝麵——是冷藏食品，不是櫥櫃食品。這裡沒有給未開封的通則天數：請保持 10 °C 以下，並以包裝上的有效日期為準。開封後 1～2 天內煮掉；冷凍可放 2 個月，而且效果非常好。",
+  "pantry": "生烏龍麵不能放室溫。在日本，汆燙過的麵屬於冷藏麵類，必須在燙好後立即降到 10 °C 以下並維持在該溫度。單純的小麥麵條裡沒有任何東西在抑制細菌，而一份煮熟的含水澱粉放著微溫，情況和一鍋放在外面的熟飯一模一樣——那是危害，不是麻煩而已。",
+  "fridge": "請保持 10 °C 以下；放在家用冰箱冷藏室的 4 °C 更好。未開封的部分，誠實的答案是一條規則而不是數字：密封包裝靠的是浸酸或包裝後殺菌，而各家做法不同，所以沒有通用數字，請以包裝上的有效日期為準。一旦拆封，那層保護就沒了，你有 1～2 天。麵請留在包裝裡，不要散放在碗中，並且要煮透。",
+  "freezer": "烏龍麵特別耐凍——市售冷凍烏龍麵是少數「比冷藏版更好吃」的冷凍食品——在 −18 °C 下可放 2 個月。請把密封包裝平放冷凍。要吃時直接下滾水，不要先解凍，否則麵會軟塌，失去烏龍麵最重要的彈性。−18 °C 下安全性是無限期的；這兩個月是借自生鮮義大利麵的品質數字。",
+  "thawing": "冷凍烏龍麵不要解凍。直接丟進滾水，等它鬆開時用筷子撥散即可。",
+  "spoilage": [
+   "拆封時聞到酸味或發酵味。",
+   "麵條表面黏膜明顯，超出正常的澱粉感。",
+   "包裝內任何位置長霉，包括封口處。",
+   "包裝脹起來，或麵條轉灰、摸起來黏手。"
+  ],
+  "tips": [
+   "以包裝日期為準；未開封沒有通用數字可套。",
+   "採買時最後才拿冷藏烏龍麵，並盡快回家冷藏。",
+   "偶爾才吃的話，常備冷凍烏龍麵而不是冷藏款——本來就比較好吃。",
+   "從冷凍直接下鍋，絕不要先解凍。"
+  ],
+  "faq": [
+   {
+    "q": "生烏龍麵冷藏可以放多久？",
+    "a": "未開封請保持 10 °C 以下並以包裝有效日期為準，沒有通用數字。開封後 1～2 天。"
+   },
+   {
+    "q": "烏龍麵可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2 個月，而且它大概是最耐凍的麵。直接從冷凍下滾水。"
+   },
+   {
+    "q": "冷凍烏龍麵要先解凍嗎？",
+    "a": "不要。解凍會讓它軟塌；直接下滾水才能保住彈性。"
+   }
+  ]
+ }
+}
