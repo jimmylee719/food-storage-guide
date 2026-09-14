@@ -1,0 +1,83 @@
+{
+ "slug": "milk-shelf-stable",
+ "en": {
+  "name": "Shelf-stable milk (UHT)",
+  "aliases": [
+   "UHT milk",
+   "aseptic milk",
+   "保久乳",
+   "leche UHT"
+  ],
+  "summary": "An unopened carton of shelf-stable UHT milk keeps 6–12 months from purchase in the cupboard. Once opened it is ordinary milk and keeps 5–7 days in the fridge at 4 °C (40 °F) or below.",
+  "pantry": "Unopened, in a cool dry cupboard away from light and heat, 6–12 months from purchase. The milk itself is not special — what makes it shelf-stable is the combination of ultra-high-temperature treatment and an aseptic carton that lets in neither light nor air. Warmth is what shortens it: a carton stored above a fridge or in a sunny kitchen browns slightly and develops the cooked, faintly caramel taste that people associate with UHT milk. A carton that is swollen, leaking or that sprays when opened goes in the bin without tasting.",
+  "fridge": "The carton does not need the fridge until you open it. After that the aseptic packaging is meaningless, the milk is exposed to household bacteria, and it behaves exactly like fresh milk: 5–7 days at 4 °C (40 °F) or below, tightly closed, on a shelf rather than in the door where the temperature swings most. Pour into a glass instead of drinking from the carton, and put it straight back — milk left standing on the table through a long breakfast is the part that spoils first.",
+  "freezer": "No freezer timeline is published for shelf-stable milk, and freezing is a last resort rather than a plan. Milk separates when frozen and thaws grainy with fat specks floating in it; it is still usable in baking, porridge or a sauce, but it will not look or drink like milk. A full carton can also split as the liquid expands, so decant into a container with headspace if you are going to do it at all.",
+  "thawing": "Thaw in the fridge, never on the counter, then shake hard. Expect separation, and use it in cooking rather than drinking it.",
+  "spoilage": [
+   "A swollen carton, or one that sprays or fizzes when opened.",
+   "Sour, cheesy or bitter smell — UHT milk often turns bitter rather than sour.",
+   "Lumps, curdling or a thickened, ropy pour.",
+   "A yellow or grey cast to milk that should be white."
+  ],
+  "tips": [
+   "Store cartons away from heat and light; warmth is what ages them.",
+   "Write the opening date on the carton before it goes in the fridge.",
+   "Keep it on a shelf rather than in the fridge door.",
+   "Rotate a case front to back so the oldest carton is always next."
+  ],
+  "faq": [
+   {
+    "q": "How long does UHT milk last once opened?",
+    "a": "5–7 days in the fridge at 4 °C (40 °F) or below. Opening it removes the only thing that made it shelf-stable."
+   },
+   {
+    "q": "Does shelf-stable milk need to be refrigerated?",
+    "a": "Not before opening. A sealed carton keeps 6–12 months from purchase in a cool dry cupboard."
+   },
+   {
+    "q": "Can you freeze UHT milk?",
+    "a": "There is no published timeline and it separates badly. Thawed milk is fine for cooking but not for drinking, and a full carton can split."
+   }
+  ]
+ },
+ "zh": {
+  "name": "保久乳",
+  "aliases": [
+   "常溫乳",
+   "UHT 牛奶",
+   "利樂包牛奶",
+   "超高溫滅菌乳"
+  ],
+  "summary": "未開封的保久乳從購買日起算放櫥櫃可放 6～12 個月。一旦開封，它就是普通鮮奶：冷藏 4 °C 以下 5～7 天。",
+  "pantry": "未開封放陰涼乾燥、避光避熱的櫥櫃，自購買日起 6～12 個月。牛奶本身沒什麼特別——讓它能常溫存放的是超高溫滅菌加上不透光、不透氣的無菌包裝。縮短它的是溫度：放在冰箱上方或曬得到太陽的廚房，紙盒裡的奶會微微褐變，出現大家熟悉的那種「煮過的焦糖味」。紙盒鼓脹、滲漏，或開封時噴出來的，不要試喝，直接丟。",
+  "fridge": "沒開封之前不需要冷藏。開封之後，無菌包裝就失去意義了，牛奶暴露在家裡的細菌下，行為和鮮奶完全一樣：4 °C 以下 5～7 天，封口要確實，而且放層架而不是溫度起伏最大的冰箱門邊。喝的時候倒進杯子、不要對嘴，喝完立刻冰回去——在餐桌上放一整頓早餐的那盒，才是最先壞掉的那一份。",
+  "freezer": "保久乳沒有公布的冷凍期限，冷凍也只能算最後手段而不是計畫。牛奶結冰會分離，解凍後帶顆粒、浮著油點；拿去烘焙、煮粥或做醬汁還可以，但外觀與口感都不再像牛奶。裝滿的紙盒還可能因液體膨脹而裂開，真要冷凍請先分裝並留下膨脹空間。",
+  "thawing": "放冷藏解凍，不要放室溫，再用力搖勻。要有分離的心理準備，並且用在烹調上而不是直接喝。",
+  "spoilage": [
+   "紙盒鼓脹，或開封時噴出、冒氣。",
+   "聞起來發酸、有起司味或發苦——保久乳常常是先變苦而不是先變酸。",
+   "出現結塊、凝乳，或倒出來變稠牽絲。",
+   "本該純白的奶泛黃或發灰。"
+  ],
+  "tips": [
+   "整箱放在遠離熱源與光線的地方，溫度才是讓它老化的原因。",
+   "開封前先在紙盒上寫開封日期。",
+   "放冰箱層架，不要放門邊。",
+   "整箱由前往後輪替，永遠先喝最舊的。"
+  ],
+  "faq": [
+   {
+    "q": "保久乳開封後可以放多久？",
+    "a": "冷藏 4 °C 以下 5～7 天。開封就等於拿掉了它能常溫存放的唯一理由。"
+   },
+   {
+    "q": "保久乳需要冷藏嗎？",
+    "a": "開封前不用。未開封放陰涼乾燥的櫥櫃，自購買日起 6～12 個月。"
+   },
+   {
+    "q": "保久乳可以冷凍嗎？",
+    "a": "沒有公布期限，而且會嚴重分離。解凍後可以入菜，但不適合直接喝，裝滿的紙盒也可能裂開。"
+   }
+  ]
+ }
+}

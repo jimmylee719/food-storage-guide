@@ -1,0 +1,83 @@
+{
+ "slug": "milk-ultra-pasteurized",
+ "en": {
+  "name": "Ultra-pasteurised milk",
+  "aliases": [
+   "UP milk",
+   "extended shelf life milk",
+   "超高溫瞬間殺菌乳",
+   "leche ultrapasteurizada"
+  ],
+  "summary": "Ultra-pasteurised milk is a refrigerated product, not a cupboard one: it keeps 1–3 months unopened in the fridge at 4 °C (40 °F) or below, and 7–10 days once opened.",
+  "pantry": "This milk does not belong on a shelf. Ultra-pasteurisation heats the milk far harder than ordinary pasteurisation, which kills off far more of the spoilage bacteria and is why the carton carries a date months rather than days away — but unless the pack is aseptically filled and labelled shelf-stable, it is still a chilled product and must be kept cold from the shop to your fridge. Treat it like fresh milk on the way home: no more than two hours out of refrigeration, and no more than one hour if it is above 32 °C (90 °F).",
+  "fridge": "Unopened and kept at 4 °C (40 °F) or below, it keeps 1–3 months; once opened, 7–10 days. That drop is the whole story of this product. The heat treatment dealt with what was in the milk, but it does nothing about what walks in when you break the seal, so an opened carton is on an ordinary milk clock. Keep it on a shelf rather than in the door, close it tightly, and pour into a glass rather than drinking from the carton.",
+  "freezer": "No freezer timeline is published for ultra-pasteurised milk, and freezing is a salvage measure rather than storage. The emulsion separates and the milk thaws grainy with visible fat specks; shaken hard it is perfectly usable in baking, sauces and porridge, but it will not drink like fresh milk again. Leave headspace — a full carton can split as the liquid expands — and never refreeze it.",
+  "thawing": "Thaw in the fridge and shake hard before use. Do not thaw it on the counter, and use it in cooking rather than drinking it.",
+  "spoilage": [
+   "Sour, cheesy or distinctly bitter smell — this milk often turns bitter first.",
+   "A swollen carton or a lid that releases pressure.",
+   "Lumps, curdling or a thick, ropy pour.",
+   "A yellowish or grey tint to milk that should be white."
+  ],
+  "tips": [
+   "Keep it cold on the way home; it is a chilled product despite the long date.",
+   "Store on a middle shelf, not in the fridge door.",
+   "Write the opening date on the carton — the opened window is much shorter than the printed date.",
+   "Do not drink from the carton if you intend to keep the rest."
+  ],
+  "faq": [
+   {
+    "q": "How long does ultra-pasteurised milk keep?",
+    "a": "1–3 months unopened in the fridge at 4 °C (40 °F) or below, and 7–10 days once opened."
+   },
+   {
+    "q": "Can ultra-pasteurised milk be kept in the cupboard?",
+    "a": "No, unless the pack is specifically labelled shelf-stable. Ultra-pasteurised milk is a refrigerated product and must be kept cold."
+   },
+   {
+    "q": "Why does it go bad before the printed date once opened?",
+    "a": "The date assumes the seal is intact. Opening lets household bacteria in, and from then on it behaves like any other milk."
+   }
+  ]
+ },
+ "zh": {
+  "name": "超高溫瞬間殺菌乳",
+  "aliases": [
+   "UP 牛奶",
+   "長效鮮乳",
+   "超巴氏殺菌乳",
+   "ultra-pasteurized milk"
+  ],
+  "summary": "超高溫瞬間殺菌乳是冷藏產品，不是櫥櫃食品：未開封放 4 °C 以下冷藏可放 1～3 個月，開封後則是 7～10 天。",
+  "pantry": "這種牛奶不該放在架上。它的加熱強度遠高於一般巴氏殺菌，殺掉的腐敗菌也多得多，這就是紙盒上的日期以月計而不是以天計的原因——但除非包裝本身是無菌充填、並明確標示可常溫保存，否則它仍然是冷藏品，從賣場到家裡的冰箱都必須全程保冷。回家路上就把它當鮮奶看待：離開冷藏不超過兩小時，氣溫超過 32 °C 時不超過一小時。",
+  "fridge": "未開封、維持在 4 °C 以下，可放 1～3 個月；開封之後是 7～10 天。這個落差就是這項產品的全部重點。加熱處理解決了牛奶裡原本有的東西，卻對「開封後跑進去的東西」毫無辦法，所以開過的紙盒就是一般鮮奶的時鐘。請放層架不要放門邊，封口確實，喝的時候倒進杯子而不是對嘴喝。",
+  "freezer": "超高溫瞬間殺菌乳沒有公布的冷凍期限，而且冷凍算是搶救而不是保存。乳化會分離，解凍後帶顆粒、看得到油點；用力搖勻後拿去烘焙、做醬汁或煮粥都沒問題，但不會再像鮮奶一樣好喝。請留下膨脹空間（裝滿的紙盒會裂），而且不要再次冷凍。",
+  "thawing": "放冷藏解凍，使用前用力搖勻。不要放室溫退冰，並且用在烹調而不是直接喝。",
+  "spoilage": [
+   "聞起來發酸、有起司味，或明顯發苦——這種奶常常先變苦。",
+   "紙盒鼓脹，或開蓋時有氣體釋出。",
+   "出現結塊、凝乳，或倒出來濃稠牽絲。",
+   "本該純白的奶泛黃或發灰。"
+  ],
+  "tips": [
+   "回家路上要保冷，日期長不代表它可以常溫。",
+   "放中層層架，不要放冰箱門邊。",
+   "在紙盒上寫開封日期，開封後的期限比印刷日期短得多。",
+   "打算留著就不要對嘴喝。"
+  ],
+  "faq": [
+   {
+    "q": "超高溫瞬間殺菌乳可以放多久？",
+    "a": "未開封冷藏 4 °C 以下 1～3 個月，開封後 7～10 天。"
+   },
+   {
+    "q": "這種牛奶可以放常溫嗎？",
+    "a": "不行，除非包裝明確標示可常溫保存。它是冷藏產品，必須全程保冷。"
+   },
+   {
+    "q": "為什麼開封後撐不到標示日期？",
+    "a": "那個日期的前提是封口完好。一開封，家裡的細菌就進去了，之後它和一般牛奶沒有兩樣。"
+   }
+  ]
+ }
+}

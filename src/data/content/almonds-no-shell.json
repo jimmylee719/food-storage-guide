@@ -1,0 +1,83 @@
+{
+ "slug": "almonds-no-shell",
+ "en": {
+  "name": "Almonds, shelled",
+  "aliases": [
+   "blanched almonds",
+   "almond kernels",
+   "杏仁果",
+   "almendras peladas"
+  ],
+  "summary": "Shelled almonds keep 4 months from purchase in the cupboard, 8 months in the refrigerator, and 10 months in the freezer at −18 °C (0 °F). They fail by going rancid rather than by growing anything, so cold is what buys the extra time.",
+  "pantry": "A sealed jar in a cool, dark, dry cupboard keeps 4 months from purchase. Almonds are about half oil, and once the shell is gone that oil is exposed to air, warmth and light — the three things that turn it. Nothing pathogenic is involved: what you are storing against is oxidation, which shows up as a bitter taste and a smell like old paint. Decant a large bag into small airtight jars so most of it stays sealed, keep them away from the hob, and buy from somewhere with fast turnover.",
+  "fridge": "8 months from purchase at 4 °C (40 °F) or below, in an airtight container. Cold roughly doubles the cupboard figure by slowing the oxidation of the fat, which is exactly what you want — but the fridge is humid and almonds pick up odours easily, so the seal has to be genuine. Let a jar come back to room temperature before opening it so condensation forms on the glass rather than on the nuts, and keep them away from anything strongly flavoured.",
+  "freezer": "10 months from purchase at −18 °C (0 °F). Almonds freeze very well because there is so little water in them — they do not go icy and they can be used straight from the freezer without thawing. Pack them in airtight bags with the air pressed out, and take out what you need rather than repeatedly warming and re-freezing a big bag, since each cycle brings a little condensation in with it.",
+  "thawing": "There is no need to thaw them. Use them straight from the freezer, or let the sealed bag reach room temperature before opening if you want them at their crispest.",
+  "spoilage": [
+   "A sharp, bitter, paint-like smell when the jar is opened.",
+   "A bitter or soapy taste in nuts that look perfectly normal.",
+   "Soft, bendy kernels rather than a clean snap.",
+   "Mould, or a musty smell in a bag that has taken up damp."
+  ],
+  "tips": [
+   "Split a large bag into small airtight jars so most stays sealed.",
+   "Taste one before using a jar that has been open a while.",
+   "Let a chilled jar warm before opening so condensation lands on the glass.",
+   "Buy from a shop with fast turnover — the clock starts well before you get them."
+  ],
+  "faq": [
+   {
+    "q": "How long do shelled almonds keep?",
+    "a": "4 months from purchase in the cupboard, 8 months refrigerated at 4 °C (40 °F) or below, or 10 months frozen at −18 °C."
+   },
+   {
+    "q": "Do almonds need to be refrigerated?",
+    "a": "Not necessarily, but cold roughly doubles their life by slowing the oil from going rancid. Seal them properly first."
+   },
+   {
+    "q": "How can you tell if almonds have gone bad?",
+    "a": "Smell and taste. Rancid nut oil smells like old paint and tastes bitter. Rancidity is a quality failure, not a pathogen."
+   }
+  ]
+ },
+ "zh": {
+  "name": "杏仁果（去殼）",
+  "aliases": [
+   "美國杏仁",
+   "扁桃仁",
+   "去殼杏仁",
+   "almonds"
+  ],
+  "summary": "去殼杏仁自購買日起，放櫥櫃 4 個月、冷藏 8 個月、−18 °C 冷凍 10 個月。它是靠「走油」壞掉，而不是長菌，所以低溫換到的就是那多出來的時間。",
+  "pantry": "密封罐放陰涼、避光、乾燥的櫥櫃，自購買日起 4 個月。杏仁大約一半是油脂，而殼一旦去掉，那些油就直接暴露在空氣、溫度與光線之下——正是讓它變質的三件事。這裡沒有病原菌的問題：你在防的是氧化，表現出來就是入口發苦、聞起來像舊油漆。大包買回來請分裝成小的密封罐，讓大部分維持密封；罐子遠離爐台；也盡量在周轉快的店家購買。",
+  "fridge": "密封容器放 4 °C 以下，自購買日起 8 個月。低溫拖慢油脂氧化，把櫥櫃的數字大約拉長一倍，這正是你要的——但冰箱潮濕，杏仁又很會吸味道，所以密封必須是真的密封。罐子要等回到室溫再打開，讓水氣凝在玻璃上而不是堅果上；也要遠離味道強烈的東西。",
+  "freezer": "−18 °C 下，自購買日起 10 個月。杏仁非常耐冷凍，因為含水量極低——它不會結冰晶，而且可以不解凍直接使用。請用密封袋把空氣壓出來，並且每次只取需要的量，不要反覆把一大袋回溫又冰回去，每一次循環都會帶進一點水氣。",
+  "thawing": "不需要解凍，可以直接從冷凍取用。想要最脆的口感，就讓密封袋先回到室溫再打開。",
+  "spoilage": [
+   "打開罐子聞到尖銳、發苦、像舊油漆的氣味。",
+   "外觀完全正常，但吃起來發苦或帶肥皂味。",
+   "果仁變軟、可折彎，而不是清脆會斷。",
+   "受潮的袋子長霉或有霉味。"
+  ],
+  "tips": [
+   "大包分裝成小密封罐，讓大部分維持密封。",
+   "開很久的罐子，使用前先試吃一顆。",
+   "冷藏過的罐子先回溫再開，水氣才會凝在玻璃上。",
+   "在周轉快的店家買，它的時鐘在你買到之前就開始走了。"
+  ],
+  "faq": [
+   {
+    "q": "去殼杏仁可以放多久？",
+    "a": "自購買日起，櫥櫃 4 個月、冷藏 4 °C 以下 8 個月、−18 °C 冷凍 10 個月。"
+   },
+   {
+    "q": "杏仁需要冷藏嗎？",
+    "a": "不一定，但低溫能拖慢走油，大約把期限拉長一倍。前提是要確實密封。"
+   },
+   {
+    "q": "怎麼判斷杏仁壞了？",
+    "a": "靠聞和吃。走油的堅果油聞起來像舊油漆、入口發苦。那是品質問題，不是病原菌。"
+   }
+  ]
+ }
+}

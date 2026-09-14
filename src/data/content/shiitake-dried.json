@@ -1,0 +1,83 @@
+{
+ "slug": "shiitake-dried",
+ "en": {
+  "name": "Dried shiitake",
+  "aliases": [
+   "dried black mushroom",
+   "donko shiitake",
+   "乾香菇",
+   "shiitake seco"
+  ],
+  "summary": "Dried shiitake keeps 6–12 months sealed in a cool dark cupboard, and 12–18 months sealed in the fridge once opened. The range is wide because the published figures for dried vegetables disagree — one gives roughly half a year in a cool room, another a full year at ordinary room temperature — so it spans both.",
+  "pantry": "Sealed, cool, dark and dry, 6–12 months. Take the width of that range seriously rather than treating it as vagueness: dried vegetables are given about half a year at around 16 °C and only a few months at 27 °C by one source, and a full year at about 21 °C by another, so the honest answer for a Taiwanese kitchen sits inside that spread and depends mostly on how warm your cupboard actually is. Keep the desiccant sachet in the bag, reseal after every use, and store the caps whole — sliced shiitake has far more exposed surface and loses aroma much faster.",
+  "fridge": "Sealed at 4 °C (40 °F) or below, opened dried shiitake keeps 12–18 months, and in a humid climate this is worth doing: the caps soften and mould once they take up moisture. Use a gasket jar or double-bag them, because they will take up fridge smells. Soaking is the step that needs real care — soak in cold water for no more than two hours at room temperature, and put the bowl in the refrigerator if it needs longer or is soaking overnight. Use the soaked mushrooms straight away, and discard any that turn slimy or smell abnormal.",
+  "freezer": "No freezer timeline is published for dried shiitake. Freezing the dry caps adds little to a product whose enemy is moisture rather than time, and taking a cold bag into a warm kitchen invites the condensation you are trying to avoid. If you freeze a bulk purchase, seal it airtight and let the pack return to room temperature before opening. Rehydrated shiitake and shiitake stock both freeze well, and that is a better use of the space.",
+  "thawing": null,
+  "spoilage": [
+   "Musty, sour or ammonia-like smell instead of a deep savoury aroma.",
+   "Caps that feel soft, damp or leathery rather than hard and brittle.",
+   "Visible mould, or caps clumped into a solid mass.",
+   "Soaked mushrooms that turn slimy or smell wrong — throw them and the water away."
+  ],
+  "tips": [
+   "Buy whole caps rather than slices; they keep their aroma far longer.",
+   "Keep the desiccant sachet in the bag and reseal every time.",
+   "Soak in cold water in the fridge if it will take longer than a couple of hours.",
+   "Strain the soaking water and use it as stock, if the mushrooms were sound."
+  ],
+  "faq": [
+   {
+    "q": "How long does dried shiitake keep?",
+    "a": "6–12 months sealed in a cool dark cupboard, or 12–18 months sealed in the fridge once opened."
+   },
+   {
+    "q": "Why is the cupboard figure such a wide range?",
+    "a": "Because the published figures for dried vegetables disagree, and temperature is the reason. A warm cupboard sits at the short end, a cool one at the long end."
+   },
+   {
+    "q": "How long can dried shiitake be soaked?",
+    "a": "No more than two hours at room temperature. If it needs longer, or you want to soak it overnight, refrigerate the bowl and use the mushrooms as soon as they are ready."
+   }
+  ]
+ },
+ "zh": {
+  "name": "乾香菇",
+  "aliases": [
+   "冬菇",
+   "香菇乾",
+   "花菇",
+   "干ししいたけ"
+  ],
+  "summary": "乾香菇密封放陰涼避光的櫥櫃約 6～12 個月，開封後密封冷藏約 12～18 個月。範圍之所以這麼寬，是因為公布的乾燥蔬菜數字彼此不一致——一份給的是涼爽室溫下約半年，另一份給的是一般室溫下整整一年——所以這裡兩邊都涵蓋。",
+  "pantry": "密封、陰涼、避光、乾燥，約 6～12 個月。這個寬範圍請當成資訊而不是含糊：有一份資料給乾燥蔬菜在約 16 °C 下約半年、在 27 °C 下只有幾個月，另一份則在約 21 °C 下給整整一年；所以對台灣廚房而言，誠實的答案就落在這個區間裡，取決於你的櫥櫃到底有多熱。乾燥劑留在袋子裡，每次用完重新封好；也盡量保存整朵，切片的乾香菇表面積大得多，香氣散得快很多。",
+  "fridge": "開封後密封放 4 °C 以下，可放 12～18 個月；在潮濕的氣候，這麼做很值得，因為香菇一吸水就會變軟、長霉。請用有膠條的密封罐或雙層袋，它很會吸冰箱的味道。真正需要小心的是泡發：用冷水泡，室溫下不要超過兩小時；需要更久或要泡整晚，就把整碗放冰箱。泡好立刻使用，變黏滑或聞起來不對的就整批丟掉。",
+  "freezer": "乾香菇沒有公布的冷凍期限。對一個敵人是水分而不是時間的東西來說，把乾貨冷凍幫助有限，而且把冰過的袋子拿到溫暖的廚房，正好會招來你最想避免的結露。真要冷凍一大包，請密封確實並等回到室溫再拆。泡發後的香菇和香菇高湯都很適合冷凍，那是更值得的用法。",
+  "thawing": null,
+  "spoilage": [
+   "聞起來有霉味、酸味或氨味，而不是濃厚的鮮香。",
+   "菇體摸起來軟、潮或有韌皮感，而不是硬而脆。",
+   "看得到霉，或整包結成硬塊。",
+   "泡發後變黏滑或氣味不對——連泡的水一起丟掉。"
+  ],
+  "tips": [
+   "買整朵不買切片，香氣留得久得多。",
+   "乾燥劑留在袋內，每次用完重新封緊。",
+   "要泡超過兩小時就把碗放冰箱裡泡。",
+   "菇本身沒問題的話，泡菇水過濾後就是好高湯。"
+  ],
+  "faq": [
+   {
+    "q": "乾香菇可以放多久？",
+    "a": "密封放陰涼暗處約 6～12 個月，開封後密封冷藏約 12～18 個月。"
+   },
+   {
+    "q": "為什麼櫥櫃的範圍這麼寬？",
+    "a": "因為公布的乾燥蔬菜數字本來就不一致，關鍵在溫度。櫥櫃偏熱就落在短的那一端，涼爽就靠近長的那一端。"
+   },
+   {
+    "q": "乾香菇可以泡多久？",
+    "a": "室溫下不要超過兩小時。需要更久或要泡整晚，請把碗放進冰箱，而且泡好要盡快使用。"
+   }
+  ]
+ }
+}

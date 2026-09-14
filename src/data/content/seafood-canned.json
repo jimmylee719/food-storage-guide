@@ -1,0 +1,83 @@
+{
+ "slug": "seafood-canned",
+ "en": {
+  "name": "Canned seafood",
+  "aliases": [
+   "tinned fish",
+   "canned shellfish",
+   "海鮮罐頭",
+   "marisco en conserva"
+  ],
+  "summary": "An unopened can of seafood keeps 1 year in the cupboard. Opening it changes the food completely: the contents then keep only 1–2 days in the fridge at 4 °C (40 °F) or below, which is shorter than almost anything else in a store cupboard.",
+  "pantry": "Cool, dry and dark, 1 year unopened. Canned seafood is a low-acid food, and its safety rests entirely on commercial sterilisation inside an intact seal — which is why the condition of the can matters more here than for almost anything else. Discard, without opening and without tasting, any can that is bulging, leaking, rusted through at a seam, deeply dented on a seam or rim, or that hisses, foams or spurts when pierced. Those are the signs associated with a failed seal in a low-acid canned food, and with the risk of botulism in home-canned low-acid foods in particular. Never use a home-canned fish that was not processed in a pressure canner.",
+  "fridge": "Once open, canned seafood is one of the most perishable things in the kitchen: 1–2 days at 4 °C (40 °F) or below, and no longer. For safety the leftovers do not need to come out of the can — the metal is not a hazard — but they should, because the exposed tin gives the fish a sharp metallic taste within hours. Decant into a small covered container, keep it in the coldest part of the fridge rather than the door, and do not leave an opened can standing out for more than two hours, or one hour above 32 °C (90 °F).",
+  "freezer": "No freezer timeline is published for canned seafood, and freezing it after opening is not worth doing. The fish has already been cooked to sterility in the can, so its texture is fragile to begin with; freezing breaks it down further and it thaws dry, woolly and watery. With only a day or two available in the fridge, the better plan is to buy can sizes you will finish, or to turn leftovers into a cooked dish — fish cakes, a pasta sauce, a gratin — which can then be treated as leftovers in its own right.",
+  "thawing": null,
+  "spoilage": [
+   "A bulging, leaking or badly dented can, or one that hisses, foams or spurts when opened.",
+   "A sharply sour, ammonia-like or putrid smell on opening.",
+   "Cloudy, milky or ropy liquid inside the can.",
+   "Flesh that is mushy, slimy or noticeably discoloured."
+  ],
+  "tips": [
+   "Decant leftovers immediately; the metallic taste starts within hours.",
+   "Buy small cans so a meal finishes one.",
+   "Never taste-test a suspect can — a bulging or spurting can goes straight in the bin.",
+   "Store cans somewhere dry; a rusted seam is a failed seam waiting to happen."
+  ],
+  "faq": [
+   {
+    "q": "How long does canned seafood last after opening?",
+    "a": "1–2 days in a covered container in the fridge at 4 °C (40 °F) or below. The year on the shelf belongs to the sealed can only."
+   },
+   {
+    "q": "Is it safe to keep leftovers in the opened can?",
+    "a": "It is safe, but the fish takes on a metallic taste quickly. Move it to a covered container."
+   },
+   {
+    "q": "What should you do with a bulging can?",
+    "a": "Throw it away without opening it, and never taste it. A bulging, leaking or spurting low-acid can is the classic warning sign of a failed seal."
+   }
+  ]
+ },
+ "zh": {
+  "name": "海鮮罐頭",
+  "aliases": [
+   "魚罐頭",
+   "貝類罐頭",
+   "水產罐頭",
+   "canned seafood"
+  ],
+  "summary": "未開封的海鮮罐頭放櫥櫃可放 1 年。開罐會徹底改變這項食物：裡面的東西之後只能在 4 °C 以下冷藏 1～2 天，比櫥櫃裡幾乎所有東西都短。",
+  "pantry": "陰涼、乾燥、避光，未開封 1 年。海鮮罐頭是低酸性食品，安全性完全建立在「商業滅菌加上完好的密封」之上——這也是為什麼罐體狀況在這裡比在別處都更重要。罐身膨脹、滲漏、接縫鏽穿、接縫或捲封處嚴重凹陷，或穿刺時洩氣、冒泡、噴汁的，請不要打開、不要試吃，直接丟棄。這些都是低酸性罐頭密封失效的徵兆，也和自家醃製低酸性食品的肉毒桿菌風險直接相關。沒有用壓力鍋處理過的自製魚罐頭，絕對不要食用。",
+  "fridge": "開封之後，海鮮罐頭是廚房裡最容易壞的東西之一：4 °C 以下 1～2 天，就這樣。就安全而言，剩下的不一定要離開罐子——金屬本身不是危害——但實際上應該離開，因為裸露的馬口鐵幾小時內就會讓魚肉帶明顯的金屬味。請換到小的加蓋容器，放在冰箱最冷的位置而不是門邊；開過的罐子放在室溫也不要超過兩小時，氣溫超過 32 °C 時不要超過一小時。",
+  "freezer": "海鮮罐頭沒有公布的冷凍期限，開封後拿去冷凍也不值得。罐頭裡的魚已經被加熱到滅菌程度，質地本來就脆弱；冷凍會讓它進一步崩解，解凍後又乾又柴又出水。既然冷藏只有一兩天，比較好的做法是買吃得完的容量，或者把剩料做成一道菜——魚餅、義大利麵醬、焗烤——之後就按那道菜的剩菜來管理。",
+  "thawing": null,
+  "spoilage": [
+   "罐身膨脹、滲漏或嚴重凹陷，或開罐時洩氣、冒泡、噴汁。",
+   "開罐即聞到尖銳酸味、氨味或腐臭味。",
+   "罐內液體混濁、乳白或牽絲。",
+   "魚肉軟爛、黏滑，或顏色明顯不對。"
+  ],
+  "tips": [
+   "剩料立刻換容器，金屬味幾小時內就出現。",
+   "買小罐，一餐剛好吃完一罐。",
+   "可疑的罐頭不要試吃——膨脹或噴汁就直接丟。",
+   "罐頭放乾燥處，鏽掉的接縫就是還沒失效的失效接縫。"
+  ],
+  "faq": [
+   {
+    "q": "海鮮罐頭開封後可以放多久？",
+    "a": "換到加蓋容器放 4 °C 以下冷藏 1～2 天。架上那一年只屬於未開封的罐頭。"
+   },
+   {
+    "q": "剩下的可以留在罐子裡嗎？",
+    "a": "安全上可以，但魚肉很快就會帶金屬味。請換到加蓋容器。"
+   },
+   {
+    "q": "罐頭膨脹了怎麼辦？",
+    "a": "不要打開、不要試吃，直接丟棄。低酸性罐頭膨脹、滲漏或噴汁，是密封失效最典型的警訊。"
+   }
+  ]
+ }
+}

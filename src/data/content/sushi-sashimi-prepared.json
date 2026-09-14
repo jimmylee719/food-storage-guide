@@ -1,0 +1,83 @@
+{
+ "slug": "sushi-sashimi-prepared",
+ "en": {
+  "name": "Sushi and sashimi, prepared",
+  "aliases": [
+   "raw fish",
+   "nigiri",
+   "壽司",
+   "生魚片"
+  ],
+  "summary": "Prepared sushi and sashimi have no shelf life, only a clock that starts when they leave refrigeration. Sashimi on display is held at 4 °C (40 °F) or below; for prepared sushi the rule is by elapsed time above 4 °C — under two hours it can go back in the fridge or be eaten within four hours, between two and four hours it must be eaten within four hours total and cannot be refrigerated again, and over four hours it is discarded.",
+  "pantry": "There is no room-temperature allowance worth the name here. This is raw fish on seasoned rice, ready to eat, with no cooking step anywhere — so the only thing protecting it is the cold chain and the time it has spent out of it. A tray carried home from a supermarket in a warm bag, or left on a desk through a long meeting, has already used most of its clock. If you are going to eat sushi later, keep it cold until you do, and if it has been out for more than four hours, throw it away rather than putting it back in the fridge.",
+  "fridge": "Displayed sashimi must be held at 4 °C (40 °F) or below, and frozen fish intended for it must be thawed in a refrigerator at 0–4 °C rather than on a counter or under a running tap. For prepared sushi the rule is the elapsed-time one above, not a number of days: under two hours above 4 °C it may be returned to the fridge or eaten within four hours; between two and four hours it must be eaten within four hours total and cannot go back into refrigeration; beyond four hours it is discarded. Refrigeration also makes the rice hard and chalky, which is why sushi is not a keeping food even when the clock allows it.",
+  "freezer": "Do not freeze finished sushi — the rice turns to chalk and never recovers. Freezing has a different role here: it is a parasite-control step applied to the fish before it is cut, at −20 °C or below for seven days, or about −35 °C for twenty hours. Those are process controls carried out on whole fish by a supplier, not home storage advice, and a domestic freezer is generally neither cold enough nor stable enough to perform them reliably.",
+  "thawing": "Frozen fish destined for raw consumption is thawed in a refrigerator at 0–4 °C, never at room temperature or in warm water. Finished sushi is not thawed at all.",
+  "spoilage": [
+   "Any sour, ammonia-like or strongly fishy smell.",
+   "Fish that has gone dull, slimy or sticky rather than glossy and firm.",
+   "Rice that has dried and hardened, or gone sour.",
+   "A tray that has been out of refrigeration for more than four hours, regardless of appearance."
+  ],
+  "tips": [
+   "Carry sushi home cold and eat it as soon as you can.",
+   "Do not put a tray that has been out for hours back in the fridge.",
+   "Judge it by time out of refrigeration, not by how it looks.",
+   "Buy from a shop with a properly chilled display rather than an ambient counter."
+  ],
+  "faq": [
+   {
+    "q": "How long can you keep prepared sushi?",
+    "a": "There is no shelf life, only a clock. Under two hours above 4 °C it can go back in the fridge or be eaten within four hours; beyond four hours out of refrigeration it is discarded."
+   },
+   {
+    "q": "Can you freeze sushi?",
+    "a": "No. The rice turns to chalk. Freezing is a parasite-control step applied to the fish before it is cut, not a way to store finished sushi."
+   },
+   {
+    "q": "How should fish for sashimi be thawed?",
+    "a": "In a refrigerator at 0–4 °C. Never on the counter, in warm water or under a running tap."
+   }
+  ]
+ },
+ "zh": {
+  "name": "壽司與生魚片",
+  "aliases": [
+   "寿司",
+   "刺身",
+   "生魚",
+   "握壽司"
+  ],
+  "summary": "做好的壽司與生魚片沒有「保存期限」，只有一個從離開冷藏那一刻開始走的時鐘。陳列中的生魚片必須維持在 4 °C 以下；做好的壽司則看它在 4 °C 以上待了多久——未滿兩小時可以放回冷藏，或在四小時內吃完；介於兩到四小時之間，必須在總計四小時內吃完且不得再冷藏；超過四小時就要丟棄。",
+  "pantry": "這裡沒有什麼值得一提的室溫額度。它是鋪在調味米飯上的生魚，即食，而且從頭到尾沒有加熱步驟——唯一在保護它的，是冷鏈，以及它離開冷鏈多久。一盒裝在不保冷的袋子裡提回家、或放在辦公桌上撐過一場長會議的壽司，時鐘已經用掉大半。如果打算晚點才吃，就讓它一直保持低溫；而如果已經在外面超過四小時，請丟掉，不要冰回冰箱。",
+  "fridge": "陳列的生魚片必須維持在 4 °C 以下，而要做生魚片的冷凍魚，必須在 0～4 °C 的冷藏中解凍，不能放在檯面上或用水沖。做好的壽司則適用上面那條「經過時間」的規則，而不是幾天：在 4 °C 以上未滿兩小時，可以放回冷藏或在四小時內吃完；兩到四小時之間，必須在總計四小時內吃完且不得再冷藏；超過四小時就丟棄。另外，冷藏也會讓壽司飯變硬變粉——即使時鐘允許，壽司也不是能「留」的食物。",
+  "freezer": "做好的壽司不要冷凍——米飯會變成粉筆一樣，而且回不來。冷凍在這裡扮演的是另一個角色：它是魚在切之前的寄生蟲控制步驟，−20 °C 以下七天，或約 −35 °C 二十小時。那是供應商對整條魚執行的製程控制，不是家庭保存建議；家用冷凍庫通常既不夠冷、溫度也不夠穩定，無法可靠地達成。",
+  "thawing": "要生食的冷凍魚必須在 0～4 °C 的冷藏中解凍，絕不可放室溫、泡溫水或沖水。做好的壽司則完全不適用解凍。",
+  "spoilage": [
+   "出現任何酸味、氨味或強烈腥味。",
+   "魚肉失去光澤、變得黏滑，而不是光亮結實。",
+   "米飯乾硬，或發酸。",
+   "離開冷藏超過四小時的整盒，不論外觀如何都要丟。"
+  ],
+  "tips": [
+   "提回家要保冷，並盡快吃完。",
+   "已經在外面放好幾小時的，不要再冰回冰箱。",
+   "用「離開冷藏多久」判斷，而不是用外觀判斷。",
+   "買有確實冷藏陳列的店家，不要買常溫櫃上的。"
+  ],
+  "faq": [
+   {
+    "q": "做好的壽司可以放多久？",
+    "a": "沒有保存期限，只有時鐘。4 °C 以上未滿兩小時可放回冷藏或四小時內吃完；離開冷藏超過四小時就要丟棄。"
+   },
+   {
+    "q": "壽司可以冷凍嗎？",
+    "a": "不行，米飯會變得像粉筆。冷凍是魚在切之前的寄生蟲控制步驟，不是保存成品壽司的方法。"
+   },
+   {
+    "q": "要做生魚片的魚怎麼解凍？",
+    "a": "在 0～4 °C 的冷藏中解凍。絕不要放檯面、泡溫水或用水沖。"
+   }
+  ]
+ }
+}

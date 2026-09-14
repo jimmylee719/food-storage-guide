@@ -1,0 +1,83 @@
+{
+ "slug": "instant-breakfast-drinks-bottled",
+ "en": {
+  "name": "Instant breakfast drinks, bottled",
+  "aliases": [
+   "meal replacement shake",
+   "nutrition shake",
+   "即飲早餐飲品",
+   "batido nutricional"
+  ],
+  "summary": "A sealed bottle of ready-to-drink instant breakfast keeps 6 months in the cupboard. It is a low-acid milk-based drink held safe by heat processing and an intact seal — once that seal is broken it becomes a refrigerated food with a very short life.",
+  "pantry": "Unopened, in a cool, dry, dark cupboard, 6 months. The drink inside is essentially sterilised milk with added protein, sugar and vitamins, and it sits on a shelf for the same reason a can of coconut milk does: the heat process and the seal, not the ingredients. Warmth is the enemy of quality here — bottles stored above a fridge or next to the hob go from creamy to cardboardy and the vitamins degrade — and a bottle that is swollen, leaking, or that fizzes or smells sour on opening goes in the bin without tasting.",
+  "fridge": "The bottle does not need the fridge until it is opened, though chilling it before serving obviously helps. Once opened, it is a perishable dairy drink: cap it, refrigerate at 4 °C (40 °F) or below and finish it within a day or so — no separate published timeline exists for the opened bottle, so err short. Never drink straight from the bottle and then keep the rest; mouth bacteria go in with every sip and a milk drink is an excellent place for them. Do not let an opened bottle stand out of the fridge for more than two hours, or one hour above 32 °C (90 °F).",
+  "freezer": "No freezer timeline is published for bottled breakfast drinks, and freezing them is not recommended. A milk-protein emulsion separates when it freezes and thaws grainy and watery, and a full sealed bottle can split as the liquid expands. If you have surplus you cannot drink, it is better to use it in baking or a smoothie within the fridge window than to freeze it.",
+  "thawing": null,
+  "spoilage": [
+   "A swollen or leaking bottle, or a cap that pops with pressure.",
+   "Sour, yeasty or off smell on opening.",
+   "Lumps, curdling or stringy texture when poured.",
+   "Any colour change from creamy to grey, pink or yellow."
+  ],
+  "tips": [
+   "Pour into a glass instead of drinking from the bottle if you plan to keep the rest.",
+   "Store cases away from heat sources; warmth costs flavour and vitamins.",
+   "Rotate stock so the oldest bottle is always the next one out.",
+   "Discard a swollen or fizzing bottle without tasting it."
+  ],
+  "faq": [
+   {
+    "q": "How long do bottled breakfast drinks last?",
+    "a": "6 months unopened in a cool dry cupboard. Once opened, refrigerate and finish within a day or so."
+   },
+   {
+    "q": "Do they need to be refrigerated?",
+    "a": "Not while sealed. After opening they are a perishable milk drink and must be refrigerated at 4 °C (40 °F) or below."
+   },
+   {
+    "q": "Can you freeze them?",
+    "a": "It is not recommended. The emulsion separates and thaws grainy, and a full bottle can split as the liquid expands."
+   }
+  ]
+ },
+ "zh": {
+  "name": "即飲早餐飲品",
+  "aliases": [
+   "營養補充飲",
+   "代餐奶昔",
+   "瓶裝營養飲品",
+   "breakfast drink"
+  ],
+  "summary": "未開封的瓶裝即飲早餐飲品放櫥櫃可放 6 個月。它是低酸性的乳製飲品，靠加熱殺菌與完好的密封維持安全；封口一破，它就變成保存期很短的冷藏食品。",
+  "pantry": "未開封放陰涼、乾燥、避光的櫥櫃，6 個月。瓶子裡基本上是滅菌過的牛奶，再加上蛋白質、糖與維生素；它之所以能放在架上，理由和椰奶罐頭一樣，是加熱製程與密封，而不是配方本身。這裡溫度是品質的頭號敵人——放在冰箱上方或爐台旁的瓶子，會從奶香變成紙板味，維生素也會衰減。瓶身鼓脹、滲漏，或開瓶時冒氣、發酸的，不要試喝，直接丟掉。",
+  "fridge": "未開封時不需要冷藏，當然喝之前冰過會比較好喝。一旦開封，它就是易腐的乳製飲品：蓋好、放 4 °C 以下冷藏，並在一天左右喝完——開封後並沒有另外公布的期限，所以請往短的估。也不要直接對嘴喝完再留著，每一口都會把口腔的細菌帶進去，而牛奶飲品正是它們最喜歡的環境。開封後的瓶子離開冰箱不要超過兩小時，氣溫超過 32 °C 時不要超過一小時。",
+  "freezer": "瓶裝早餐飲品沒有公布的冷凍期限，也不建議冷凍。乳蛋白乳化物一結冰就會分離，解凍後又粗又水；裝滿的密封瓶還可能因為液體膨脹而裂開。如果有喝不完的量，在冷藏期限內拿去烘焙或打成果昔，比冷凍實際得多。",
+  "thawing": null,
+  "spoilage": [
+   "瓶身鼓脹、滲漏，或開蓋時有壓力衝出。",
+   "開瓶就聞到酸味、酵母味或怪味。",
+   "倒出來有結塊、凝乳或牽絲。",
+   "顏色從乳白變灰、變粉紅或泛黃。"
+  ],
+  "tips": [
+   "打算留下剩的就倒進杯子喝，不要對嘴。",
+   "整箱不要放在熱源旁，溫度會吃掉風味與維生素。",
+   "先進先出，永遠先喝最舊的那瓶。",
+   "鼓脹或冒氣的瓶子不要嚐，直接丟。"
+  ],
+  "faq": [
+   {
+    "q": "瓶裝早餐飲品可以放多久？",
+    "a": "未開封放陰涼乾燥的櫥櫃 6 個月。開封後要冷藏，並在一天左右喝完。"
+   },
+   {
+    "q": "需要冷藏嗎？",
+    "a": "未開封不用。開封後它是易腐的乳品飲料，必須放 4 °C 以下冷藏。"
+   },
+   {
+    "q": "可以冷凍嗎？",
+    "a": "不建議。乳化會分離、解凍後口感粗糙，裝滿的瓶子也可能因膨脹而裂開。"
+   }
+  ]
+ }
+}

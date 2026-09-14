@@ -1,0 +1,83 @@
+{
+ "slug": "chicken-salad",
+ "en": {
+  "name": "Chicken salad",
+  "aliases": [
+   "chicken mayonnaise salad",
+   "deli chicken salad",
+   "雞肉沙拉",
+   "ensalada de pollo"
+  ],
+  "summary": "Chicken salad keeps 3–4 days in the refrigerator at 4 °C (40 °F) or below. The hazard in it is the cooked chicken and the time it spends warm — not the mayonnaise, which is acidified and is the most stable thing in the bowl.",
+  "pantry": "This is a ready-to-eat dish with no cooking step left, so room temperature is not an option. The persistent belief that mayonnaise is what makes a picnic salad dangerous has it backwards: commercial mayonnaise is made with pasteurised egg and enough vinegar or lemon juice to hold its pH down, and it actually slows bacterial growth. What is at risk is the cooked chicken, handled by hand after cooking and then left sitting warm. Keep the bowl over ice on a buffet, and give it two hours out of the fridge at most, or one hour above 32 °C (90 °F).",
+  "fridge": "3–4 days at 4 °C (40 °F) or below, in a covered container on a cold shelf rather than in the door. Make it from chicken that is already properly chilled — mixing warm chicken into cold mayonnaise puts the whole bowl into the danger zone and there is no cooking step afterwards to correct it. Take out a serving and return the container to the fridge immediately rather than leaving it out through a meal, and never top up an old batch with a fresh one.",
+  "freezer": "No freezer timeline is published for chicken salad, and freezing it is genuinely a bad idea rather than merely suboptimal: mayonnaise is an emulsion, and freezing breaks it irreversibly, so the salad thaws into oily liquid with dry chicken sitting in it, and celery or onion in it goes limp. If you want to keep cooked chicken beyond a few days, freeze the plain chicken and make the salad fresh when you thaw it.",
+  "thawing": null,
+  "spoilage": [
+   "A sour or sharp smell instead of a clean mayonnaise and chicken one.",
+   "Liquid pooling and the dressing looking split or curdled.",
+   "A slimy film on the chicken pieces.",
+   "Any mould on the surface, or a grey cast to the meat."
+  ],
+  "tips": [
+   "Chill the cooked chicken thoroughly before mixing the salad.",
+   "Serve from a bowl set in ice, not straight from the storage container.",
+   "Never add a fresh batch to the remains of an old one.",
+   "Freeze plain cooked chicken instead of the finished salad."
+  ],
+  "faq": [
+   {
+    "q": "How long does chicken salad keep?",
+    "a": "3–4 days in a covered container in the fridge at 4 °C (40 °F) or below."
+   },
+   {
+    "q": "Is the mayonnaise what makes chicken salad go off?",
+    "a": "No. Commercial mayonnaise is acidified and made with pasteurised egg, and it slows bacterial growth. The risk is the cooked chicken and the time the bowl spends warm."
+   },
+   {
+    "q": "Can you freeze chicken salad?",
+    "a": "No timeline is published and it is not worth doing. The mayonnaise emulsion splits and will not come back. Freeze plain cooked chicken instead."
+   }
+  ]
+ },
+ "zh": {
+  "name": "雞肉沙拉",
+  "aliases": [
+   "美乃滋雞肉沙拉",
+   "雞肉美乃滋",
+   "熟食雞沙拉",
+   "chicken salad"
+  ],
+  "summary": "雞肉沙拉冷藏 4 °C 以下可放 3～4 天。這碗東西裡的危害是「煮熟的雞肉」加上「它在溫熱狀態下待了多久」——不是美乃滋；美乃滋經過酸化，其實是整碗裡最穩定的東西。",
+  "pantry": "這是一道後面沒有加熱步驟的即食料理，所以室溫不是選項。「野餐沙拉會出事都是美乃滋害的」這個根深蒂固的想法剛好相反：市售美乃滋用的是殺菌蛋液，並含有足夠的醋或檸檬汁把 pH 壓低，它其實會拖慢細菌生長。有風險的是那些煮熟之後又被手處理、然後在溫熱狀態放著的雞肉。自助式供應時請把沙拉盆架在冰上；離開冰箱最多兩小時，氣溫超過 32 °C 時最多一小時。",
+  "fridge": "4 °C 以下 3～4 天，加蓋放冷藏層架而不是門邊。請用已經確實冰透的雞肉來拌——把溫熱的雞肉拌進冰的美乃滋裡，等於把整碗推進危險溫度帶，而且後面再也沒有加熱可以補救。要吃就分出一份，容器立刻冰回去，不要整餐放在外面；也絕對不要把新做的一批倒進舊的剩料裡。",
+  "freezer": "雞肉沙拉沒有公布的冷凍期限，而冷凍它不只是「效果不好」，是真的不該做：美乃滋是乳化物，結冰會把它徹底破壞，解凍後你會得到一灘油水加上乾柴的雞肉，裡面的芹菜或洋蔥也全軟掉。如果想讓熟雞肉放超過幾天，請冷凍「原味熟雞肉」，解凍後再現拌沙拉。",
+  "thawing": null,
+  "spoilage": [
+   "聞起來發酸刺鼻，而不是乾淨的美乃滋與雞肉味。",
+   "積出水分，醬汁看起來油水分離或結塊。",
+   "雞肉塊表面出現黏滑薄膜。",
+   "表面長霉，或肉的顏色發灰。"
+  ],
+  "tips": [
+   "拌之前先把熟雞肉徹底冰透。",
+   "分到架在冰上的碗裡上桌，不要直接端保存盒。",
+   "絕對不要把新做的加進舊的剩料裡。",
+   "要冷凍就冷凍原味熟雞肉，不要冷凍拌好的沙拉。"
+  ],
+  "faq": [
+   {
+    "q": "雞肉沙拉可以放多久？",
+    "a": "加蓋容器放 4 °C 以下冷藏 3～4 天。"
+   },
+   {
+    "q": "雞肉沙拉壞掉是美乃滋的錯嗎？",
+    "a": "不是。市售美乃滋經過酸化、使用殺菌蛋液，反而會拖慢細菌生長。風險來自熟雞肉，以及整碗在溫熱狀態放了多久。"
+   },
+   {
+    "q": "雞肉沙拉可以冷凍嗎？",
+    "a": "沒有公布的期限，也不值得。美乃滋的乳化會崩解且回不來。請改冷凍原味熟雞肉。"
+   }
+  ]
+ }
+}

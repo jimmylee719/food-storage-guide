@@ -1,0 +1,83 @@
+{
+ "slug": "potato-salad",
+ "en": {
+  "name": "Potato salad",
+  "aliases": [
+   "German potato salad",
+   "creamy potato salad",
+   "馬鈴薯沙拉",
+   "ensalada de patata"
+  ],
+  "summary": "Potato salad keeps 3–5 days in the refrigerator at 4 °C (40 °F) or below. The hazard is the cooked potato and how long the bowl spends warm — not the mayonnaise, which is acidified and is the most stable thing in it.",
+  "pantry": "Potato salad has a bad reputation at picnics, and the reason is almost always misattributed. Commercial mayonnaise is made with pasteurised egg and enough vinegar or lemon juice to keep its pH low, and it slows bacterial growth rather than encouraging it. The risk is cooked potato: a low-acid, moist, handled-after-cooking food that is then mixed by hand and left in the sun. Give it two hours out of the fridge at most, or one hour above 32 °C (90 °F), and set the serving bowl in ice at an outdoor meal.",
+  "fridge": "3–5 days at 4 °C (40 °F) or below in a covered container. Cool the boiled potatoes completely before dressing them — mixing warm potato into cold mayonnaise puts the entire bowl into the danger zone, and nothing that happens later corrects it. Dress the potatoes cold, keep the bowl on a cold shelf rather than in the door, and never mix a new batch into what is left of an old one. Versions with egg, bacon or ham in them deserve the short end of the range.",
+  "freezer": "No freezer timeline is published for potato salad, and freezing it does not work. Cooked potato turns mealy and grainy when frozen and thawed, because the ice crystals break down the cell walls, and a mayonnaise dressing splits irreversibly into oil and water. There is no way to stir that back together. If you have cooked too many potatoes, keep them plain and cold and dress them when you need the salad.",
+  "thawing": null,
+  "spoilage": [
+   "A sour or fermented smell when the lid comes off.",
+   "Dressing that has split, with watery liquid beneath it.",
+   "A slimy film on the potato pieces, or bubbles in the liquid.",
+   "Any mould, or a grey cast to the potato or the egg in it."
+  ],
+  "tips": [
+   "Cool the boiled potatoes completely before dressing them.",
+   "Serve from a bowl set in ice at a barbecue or picnic.",
+   "Never top up an old batch with a fresh one.",
+   "Keep plain boiled potatoes cold and dress them to order if you want more days."
+  ],
+  "faq": [
+   {
+    "q": "How long does potato salad keep?",
+    "a": "3–5 days in a covered container in the fridge at 4 °C (40 °F) or below."
+   },
+   {
+    "q": "Is mayonnaise what makes potato salad dangerous at a picnic?",
+    "a": "No. Commercial mayonnaise is acidified and made with pasteurised egg. The cooked potato and the hours the bowl spends warm are the real problem."
+   },
+   {
+    "q": "Can you freeze potato salad?",
+    "a": "No timeline is published and it does not work. The potato goes mealy and the dressing splits irreversibly."
+   }
+  ]
+ },
+ "zh": {
+  "name": "馬鈴薯沙拉",
+  "aliases": [
+   "洋芋沙拉",
+   "德式馬鈴薯沙拉",
+   "薯泥沙拉",
+   "potato salad"
+  ],
+  "summary": "馬鈴薯沙拉冷藏 4 °C 以下可放 3～5 天。危害來自熟馬鈴薯，以及那碗東西在溫熱狀態放了多久——不是美乃滋；美乃滋經過酸化，其實是整碗裡最穩定的成分。",
+  "pantry": "馬鈴薯沙拉在野餐場合名聲不好，而大家幾乎都怪錯了對象。市售美乃滋使用殺菌蛋液，並含有足夠的醋或檸檬汁把 pH 壓低，它其實會拖慢細菌生長，而不是助長。真正的風險是熟馬鈴薯：低酸、含水、煮好之後又被手處理，然後整碗放在太陽下。離開冰箱最多兩小時，氣溫超過 32 °C 時最多一小時；戶外用餐請把碗架在冰上。",
+  "fridge": "加蓋容器放 4 °C 以下 3～5 天。拌之前把水煮馬鈴薯徹底放涼——把溫的馬鈴薯拌進冰的美乃滋，等於把整碗推進危險溫度帶，而後面發生的事都無法補救。請用冷的馬鈴薯拌、把碗放冷藏層架而不是門邊，也絕對不要把新做的一批倒進舊的剩料裡。含蛋、培根或火腿的版本請取期限的短端。",
+  "freezer": "馬鈴薯沙拉沒有公布的冷凍期限，而冷凍也行不通。熟馬鈴薯冷凍再解凍會變得粉粉、沙沙的，因為冰晶破壞了細胞壁；美乃滋醬則會不可逆地分離成油和水，怎麼攪都回不來。馬鈴薯煮太多的話，請保持原味冰著，要吃沙拉時再拌。",
+  "thawing": null,
+  "spoilage": [
+   "掀蓋就聞到酸味或發酵味。",
+   "醬汁油水分離，底下積出水。",
+   "馬鈴薯塊表面黏滑，或湯汁裡冒泡。",
+   "長霉，或馬鈴薯、蛋的顏色泛灰。"
+  ],
+  "tips": [
+   "水煮馬鈴薯完全放涼再拌醬。",
+   "烤肉或野餐時把碗架在冰上。",
+   "絕對不要把新的補進舊的剩料裡。",
+   "想放久一點，就把原味水煮馬鈴薯冰著，要吃再拌。"
+  ],
+  "faq": [
+   {
+    "q": "馬鈴薯沙拉可以放多久？",
+    "a": "加蓋容器放 4 °C 以下冷藏 3～5 天。"
+   },
+   {
+    "q": "野餐時危險的是美乃滋嗎？",
+    "a": "不是。市售美乃滋經過酸化並使用殺菌蛋液。真正的問題是熟馬鈴薯，以及那碗在溫熱狀態下待了幾個小時。"
+   },
+   {
+    "q": "馬鈴薯沙拉可以冷凍嗎？",
+    "a": "沒有公布的期限，而且行不通。馬鈴薯會變粉，醬會不可逆地分離。"
+   }
+  ]
+ }
+}

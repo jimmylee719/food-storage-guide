@@ -1,0 +1,83 @@
+{
+ "slug": "terrine",
+ "en": {
+  "name": "Terrine",
+  "aliases": [
+   "terrine de campagne",
+   "country terrine",
+   "法式肉凍",
+   "pâté en terrina"
+  ],
+  "summary": "An uncut terrine still sealed under its layer of fat or aspic keeps to the date on it at 4 °C (40 °F) or below, and a home-made one should be eaten within about a week. Cut it and it is a cooked meat dish: 3–4 days, or 1–2 months frozen at −18 °C (0 °F).",
+  "pantry": "However rustic the earthenware dish looks, a terrine is a cooked, moist, low-acid, ready-to-eat meat and it lives in the refrigerator. Refrigerated pâtés and meat spreads are named as a Listeria risk, and Listeria grows at fridge temperature. The traditional practice of maturing a terrine for two or three days before cutting is about flavour, and it is done in the refrigerator, not in a larder. Out of the fridge give it two hours at most, or one hour above 32 °C (90 °F).",
+  "fridge": "Uncut and sealed under its fat or aspic, keep it at 4 °C (40 °F) or below and go by the date on it; a home-made one should be pressed, sealed and eaten within about a week. There is no separate general figure for the sealed state, because the seal is what is doing the work. Once you cut it, it is a cooked meat dish and keeps 3–4 days: press cling film directly onto the cut face so it does not grey, and keep the remaining fat or jelly layer over the rest. A liver terrine will darken at the cut face within hours — that is oxidation, not spoilage.",
+  "freezer": "1–2 months at −18 °C (0 °F). Freeze it whole or in thick slabs rather than in slices, wrapped tightly in cling film and then foil. Aspic does not survive freezing and will weep out as a puddle on thawing, so a terrine set in jelly is a poorer candidate than one sealed with fat. Freeze it early rather than at the end of the cut window, and thaw it slowly so the texture holds.",
+  "thawing": "Thaw in the fridge overnight, or longer for a whole terrine, and use it within the cut window. Never thaw it on the counter, and do not refreeze.",
+  "spoilage": [
+   "A sour, sharp or ammonia-like smell rather than a rich meaty one.",
+   "A slimy or tacky film on the cut face.",
+   "Grey-green patches beyond the normal darkening of exposed liver.",
+   "Mould anywhere on the surface, or fat that smells rancid."
+  ],
+  "tips": [
+   "Press cling film onto the cut face; darkening there is oxidation, not spoilage.",
+   "Keep the fat or jelly layer intact over the uncut portion.",
+   "Freeze in thick slabs, never in slices.",
+   "Pregnant people should choose canned or shelf-stable meat spreads instead."
+  ],
+  "faq": [
+   {
+    "q": "How long does a terrine keep once cut?",
+    "a": "3–4 days at 4 °C (40 °F) or below, with cling film pressed onto the cut face."
+   },
+   {
+    "q": "How long does an uncut terrine keep?",
+    "a": "Follow the date on a bought one. A home-made terrine, pressed and sealed under fat, should be eaten within about a week, refrigerated."
+   },
+   {
+    "q": "Can you freeze terrine?",
+    "a": "Yes, 1–2 months at −18 °C (0 °F), in thick slabs. Aspic does not survive freezing and will weep out on thawing."
+   }
+  ]
+ },
+ "zh": {
+  "name": "法式肉凍（terrine）",
+  "aliases": [
+   "陶罐肉派",
+   "鄉村肉凍",
+   "法式凍派",
+   "terrina"
+  ],
+  "summary": "尚未切開、仍被油脂或肉凍封住的 terrine，放 4 °C 以下並以其日期為準；自製的則應在大約一週內吃完。一旦切開，它就是一道熟肉料理：3～4 天，或 −18 °C 冷凍 1～2 個月。",
+  "pantry": "不管那個陶皿看起來多有鄉村氣息，terrine 都是煮熟、含水、低酸性的即食肉品，它住冰箱。冷藏的肝醬與肉類抹醬被點名為李斯特菌風險食品，而李斯特菌在冰箱溫度下就會生長。傳統上把 terrine 熟成兩三天再切，那是為了風味，而且是在冷藏中進行，不是放在儲藏室。離開冰箱最多兩小時，氣溫超過 32 °C 時最多一小時。",
+  "fridge": "未切開、被油脂或肉凍封住時，請放 4 °C 以下並依其標示日期；自製的請壓實、封好，並在大約一週內吃完。未切開的狀態沒有另外的通用數字，因為真正在工作的是那層封。一旦切開，它就是熟肉料理，可放 3～4 天：把保鮮膜直接壓在切面上避免發灰，其餘部分則讓油脂或肉凍層繼續覆蓋。含肝的 terrine 切面幾小時內就會變深——那是氧化，不是腐敗。",
+  "freezer": "−18 °C 下 1～2 個月。請整條或切成厚塊冷凍，不要切片，並用保鮮膜緊包後再包鋁箔。肉凍（aspic）撐不過冷凍，解凍時會滲成一灘水，所以用肉凍定型的 terrine 比用油脂封的更不適合冷凍。請盡早冷凍，不要拖到切開後期限的尾端；解凍也要慢，質地才保得住。",
+  "thawing": "放冷藏隔夜解凍（整條要更久），並在切開後的期限內用完。不要放室溫退冰，也不要二次冷凍。",
+  "spoilage": [
+   "聞起來發酸、刺鼻或有氨味，而不是濃郁的肉香。",
+   "切面出現黏滑或發黏的薄膜。",
+   "出現超過「肝暴露後正常變深」程度的灰綠色。",
+   "表面任何地方長霉，或油脂發出油耗味。"
+  ],
+  "tips": [
+   "切面壓上保鮮膜；那裡變深是氧化不是腐敗。",
+   "未切的部分讓油脂或肉凍層保持完整。",
+   "冷凍時切厚塊，絕對不要切片。",
+   "孕婦請改選罐裝或常溫保存的肉類抹醬。"
+  ],
+  "faq": [
+   {
+    "q": "terrine 切開後可以放多久？",
+    "a": "4 °C 以下 3～4 天，並在切面壓上保鮮膜。"
+   },
+   {
+    "q": "還沒切開的可以放多久？",
+    "a": "市售的依其標示日期。自製、壓實並以油脂封好的，冷藏下大約一週內吃完。"
+   },
+   {
+    "q": "terrine 可以冷凍嗎？",
+    "a": "可以，−18 °C 下 1～2 個月，切厚塊冷凍。肉凍撐不過冷凍，解凍時會滲出來。"
+   }
+  ]
+ }
+}

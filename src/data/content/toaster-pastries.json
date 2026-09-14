@@ -1,0 +1,83 @@
+{
+ "slug": "toaster-pastries",
+ "en": {
+  "name": "Toaster pastries",
+  "aliases": [
+   "pop tarts",
+   "breakfast pastries",
+   "烤吐司餡餅",
+   "pastelillos para tostadora"
+  ],
+  "summary": "A box of toaster pastries keeps 6–12 months from purchase while the foil sleeves are sealed, and 1–2 weeks once a sleeve is opened. The sealed sleeve is the whole preservation system; once it is open the pastry stales fast.",
+  "pantry": "Cool, dry and dark, 6–12 months from purchase. Each pair of pastries is sealed in a foil or foil-laminate sleeve that keeps out air and moisture, and that is what makes the box shelf-stable: the pastry is dry-baked and the filling is a high-sugar jam, neither of which is hospitable to bacteria. Once a sleeve is torn open the clock changes to 1–2 weeks, and what you are fighting is staling rather than spoilage — the pastry goes soft and papery and the filling dries at the cut edge. Fold the sleeve over and clip it, or move the pastry to an airtight bag.",
+  "fridge": "There is no need to refrigerate toaster pastries and the fridge makes them worse: it is humid, and a dry baked pastry in a damp environment goes limp and leathery rather than staying crisp. Keep the box in a dry cupboard instead. If the pastries have a cream-cheese or dairy-based filling rather than a sugar jam, follow the instructions on that particular box, which may call for refrigeration once opened.",
+  "freezer": "No freezer timeline is published for toaster pastries. Freezing sealed sleeves does no harm and is a reasonable way to hold a bulk buy, since the pastries go straight from the freezer into the toaster with no thawing needed. The one thing to avoid is opening a cold sleeve in a warm kitchen, because condensation will soften the pastry immediately. Let the sleeve reach room temperature first, or toast the pastry straight away.",
+  "thawing": "There is no need to thaw: put a frozen pastry straight into the toaster, and give it a slightly longer setting than usual.",
+  "spoilage": [
+   "Pastry gone soft, limp or leathery instead of dry and crisp.",
+   "A rancid or stale smell from the fat in the pastry.",
+   "Mould in the filling or at the edges, usually after the sleeve was left open.",
+   "A torn or inflated sleeve, or a sticky, weeping filling."
+  ],
+  "tips": [
+   "Keep the pastries in their sleeves until you are going to eat them.",
+   "Clip or bag an opened sleeve; that is the only thing holding the freshness.",
+   "Store the box away from the kettle and the hob — steam and heat both age it.",
+   "Toast from frozen rather than thawing on the counter."
+  ],
+  "faq": [
+   {
+    "q": "How long do toaster pastries last?",
+    "a": "6–12 months from purchase in sealed sleeves, and 1–2 weeks once a sleeve is opened."
+   },
+   {
+    "q": "Do toaster pastries need refrigerating?",
+    "a": "No, and the fridge makes them limp. Keep them in a dry cupboard, unless the box says otherwise for a dairy-based filling."
+   },
+   {
+    "q": "Can you freeze toaster pastries?",
+    "a": "No timeline is published, but freezing sealed sleeves works well and you can toast them straight from frozen."
+   }
+  ]
+ },
+ "zh": {
+  "name": "烤吐司餡餅",
+  "aliases": [
+   "pop tarts",
+   "早餐餡餅",
+   "夾餡烤餅",
+   "toaster pastries"
+  ],
+  "summary": "整盒烤吐司餡餅在鋁箔小包未拆的狀態下，自購買日起可放 6～12 個月；小包一拆就只剩 1～2 週。那層密封小包就是它全部的保存系統，一拆開，餅皮走味的速度非常快。",
+  "pantry": "陰涼、乾燥、避光，自購買日起 6～12 個月。每兩片餡餅密封在鋁箔（或鋁箔複合材）小包裡，隔絕空氣與水氣，這就是整盒能常溫存放的原因：餅皮是烤乾的，內餡是高糖果醬，兩者都不適合細菌生長。小包一撕開，時鐘就換成 1～2 週，而你要對抗的是「走味」而不是「腐敗」——餅皮變軟變得像紙，切口的內餡則會乾掉。請把小包摺起來夾好，或把餅移到密封袋裡。",
+  "fridge": "烤吐司餡餅不需要冷藏，冰箱只會讓它更糟：那裡潮濕，而乾烤的餅皮在潮濕環境中會變軟變韌，不可能維持酥脆。請放乾燥的櫥櫃。如果買到的是奶油乳酪或乳製內餡的版本，請依那一盒自己的指示處理，那類產品開封後可能需要冷藏。",
+  "freezer": "烤吐司餡餅沒有公布的冷凍期限。把未拆的小包冷凍不會有害，也是囤貨的合理做法，因為它可以從冷凍直接進烤麵包機、完全不必解凍。唯一要避免的是在溫暖的廚房裡拆開冰冷的小包，水氣馬上會讓餅皮軟掉。請先讓小包回到室溫，或者立刻烤。",
+  "thawing": "不需要解凍：冷凍的餡餅直接放進烤麵包機，時間比平常稍微拉長一點即可。",
+  "spoilage": [
+   "餅皮變軟、塌、韌，而不是乾爽酥脆。",
+   "餅皮裡的油脂發出油耗味或陳味。",
+   "內餡或邊緣長霉，通常發生在小包被放著沒封好之後。",
+   "小包破裂或鼓脹，或內餡黏膩滲出。"
+  ],
+  "tips": [
+   "要吃才拆小包，不要提早打開。",
+   "拆開的小包夾好或裝進密封袋，新鮮度全靠它。",
+   "整盒遠離熱水壺與爐台，蒸氣和溫度都會催老它。",
+   "冷凍的直接烤，不要放室溫退冰。"
+  ],
+  "faq": [
+   {
+    "q": "烤吐司餡餅可以放多久？",
+    "a": "小包未拆自購買日起 6～12 個月，拆開後 1～2 週。"
+   },
+   {
+    "q": "需要冷藏嗎？",
+    "a": "不用，而且會變軟。請放乾燥櫥櫃；乳製內餡的版本請依包裝指示。"
+   },
+   {
+    "q": "可以冷凍嗎？",
+    "a": "沒有公布的期限，但整包未拆冷凍效果不錯，而且可以從冷凍直接烤。"
+   }
+  ]
+ }
+}

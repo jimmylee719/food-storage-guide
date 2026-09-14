@@ -1,0 +1,83 @@
+{
+ "slug": "gazpacho",
+ "en": {
+  "name": "Gazpacho",
+  "aliases": [
+   "cold tomato soup",
+   "gazpacho andaluz",
+   "西班牙冷湯",
+   "番茄冷湯"
+  ],
+  "summary": "Home-made gazpacho keeps 2–3 days in the refrigerator at 4 °C (40 °F) or below. That is deliberately shorter than for a cooked leftover, because gazpacho is raw: nothing in it has been cooked, so nothing in it has been killed.",
+  "pantry": "Gazpacho is blended raw tomato, cucumber, pepper, garlic, oil, vinegar and bread, and it carries whatever those vegetables carried in from the field. There is no kill step anywhere in the recipe, which makes washing the vegetables properly before blending the only real control the dish has. Refrigerate it the moment it is made, in a covered jug. On the table, stand the jug in a bowl of ice rather than leaving it out in the sun, and give it two hours at most out of the fridge, or one hour above 32 °C (90 °F).",
+  "fridge": "2–3 days at 4 °C (40 °F) or below, covered. The published rule that applies here is the temperature one — cut fruit and vegetables belong at 4 °C or below — rather than a shelf life, because no agency publishes a figure for gazpacho; 2–3 days is that rule read against the general guidance for leftovers and cut back because this is a raw preparation. Expect it to separate as it stands; whisk or shake it before serving. Shop-bought cartons in the chiller are pasteurised or pressure-treated and carry their own use-by date, and become this record once opened.",
+  "freezer": "No freezer timeline is published for gazpacho, and freezing splits it. The olive oil separates out and the tomato goes watery and grainy as the ice crystals break down the pulp; blending it again gets you most of the way back but never all of it. If you do want to freeze a glut of summer tomatoes as gazpacho base, freeze it before the oil goes in and emulsify the oil in after thawing.",
+  "thawing": "Thaw in the fridge and blend again before serving; the texture will be thinner than fresh. Never thaw it on the counter.",
+  "spoilage": [
+   "A fizzy taste or a yeasty smell — it is fermenting.",
+   "Bubbles rising in the jug, or a lid that has domed.",
+   "A sour or sharply vinegary smell beyond the vinegar you added.",
+   "A slimy or ropy texture, or mould at the surface."
+  ],
+  "tips": [
+   "Wash the vegetables thoroughly before blending; it is the only control step.",
+   "Chill it immediately after making, in a covered jug.",
+   "Serve the jug standing in ice rather than leaving it on a hot table.",
+   "Freeze the base without the oil if you want to keep a summer glut."
+  ],
+  "faq": [
+   {
+    "q": "How long does gazpacho keep?",
+    "a": "2–3 days in a covered jug in the fridge at 4 °C (40 °F) or below."
+   },
+   {
+    "q": "Why does gazpacho keep less time than a cooked soup?",
+    "a": "Because it is raw. Nothing in it has been heated, so nothing has been killed, and washing the vegetables is the only control the recipe has."
+   },
+   {
+    "q": "Can you freeze gazpacho?",
+    "a": "No timeline is published and freezing splits it — the oil separates and the tomato goes grainy. Freeze the base without the oil if you must."
+   }
+  ]
+ },
+ "zh": {
+  "name": "西班牙番茄冷湯（gazpacho）",
+  "aliases": [
+   "番茄冷湯",
+   "蔬菜冷湯",
+   "加斯帕喬",
+   "gazpacho"
+  ],
+  "summary": "自製的 gazpacho 冷藏 4 °C 以下可放 2～3 天。這比一般熟的剩菜刻意短一些，因為 gazpacho 是生的：裡面沒有任何東西被煮過，所以也沒有任何東西被殺死。",
+  "pantry": "Gazpacho 是把生番茄、小黃瓜、甜椒、大蒜、油、醋與麵包打在一起，這些蔬菜從田裡帶進來什麼，它就承接什麼。整份食譜裡沒有任何一個殺菌步驟，所以「打之前把蔬菜洗乾淨」是這道菜唯一真正的控制手段。做好立刻加蓋冷藏。上桌時請把壺放在冰盆裡，不要擺在太陽下；離開冰箱最多兩小時，氣溫超過 32 °C 時最多一小時。",
+  "fridge": "加蓋放 4 °C 以下 2～3 天。這裡真正有依據的是溫度規則——切開的蔬果應保存在 4 °C 以下——而不是某個保存期限，因為沒有任何單位為 gazpacho 公布過數字；2～3 天是把那條規則對照剩菜的一般建議、再因為「這是生食」而縮短的結果。放著會分層是正常的，上桌前搖勻或重新打一下即可。冷藏櫃裡的市售利樂包經過殺菌或高壓處理，有自己的有效日期；開封後就照這一則處理。",
+  "freezer": "Gazpacho 沒有公布的冷凍期限，而且冷凍會讓它「散掉」：橄欖油會分離，番茄在冰晶破壞果肉後變得水水的、帶顆粒感；重新打過可以救回大半，但永遠救不回全部。如果夏天番茄太多、想做成 gazpacho 基底冷凍，請在還沒加油之前就冷凍，解凍後再把油乳化進去。",
+  "thawing": "放冷藏解凍，上桌前重新打勻；質地會比現做的稀。不要放室溫退冰。",
+  "spoilage": [
+   "喝起來有氣泡感或聞起來有酵母味——它在發酵。",
+   "壺裡不斷冒泡，或盒蓋鼓起。",
+   "酸味超出你加的醋該有的程度。",
+   "質地變得黏滑牽絲，或表面長霉。"
+  ],
+  "tips": [
+   "打之前把蔬菜徹底洗淨，那是唯一的控制步驟。",
+   "做好立刻加蓋冷藏。",
+   "上桌時把壺放在冰盆裡，不要留在炎熱的桌上。",
+   "要保存夏天的番茄，就做成「不加油」的基底冷凍。"
+  ],
+  "faq": [
+   {
+    "q": "gazpacho 可以放多久？",
+    "a": "加蓋放 4 °C 以下冷藏 2～3 天。"
+   },
+   {
+    "q": "為什麼比煮過的湯短？",
+    "a": "因為它是生的。沒有東西被加熱，也就沒有東西被殺死，洗菜是這道菜唯一的控制步驟。"
+   },
+   {
+    "q": "gazpacho 可以冷凍嗎？",
+    "a": "沒有公布的期限，而且冷凍會讓它分離——油會浮出、番茄變粗。真的要冷凍請做不加油的基底。"
+   }
+  ]
+ }
+}

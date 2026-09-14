@@ -1,0 +1,83 @@
+{
+ "slug": "pectin",
+ "en": {
+  "name": "Pectin",
+  "aliases": [
+   "powdered pectin",
+   "liquid pectin",
+   "果膠粉",
+   "pectina"
+  ],
+  "summary": "Once opened, pectin keeps about 1 month in the cupboard. That short window is not about safety — it is about setting power, which fades quickly once the pack is exposed to air and humidity, and a jam that will not set is the usual consequence of an old box.",
+  "pantry": "Store it cool, dry and dark, and use an opened pack within about 1 month. Pectin is a plant gum, so nothing much grows in it; what it loses is its ability to gel, and it loses that steadily once moisture can reach it. Powdered pectin is the more fragile of the two — it cakes in a humid kitchen and then disperses in lumps that never hydrate — while liquid pectin in a sealed pouch degrades more slowly but is emphatically a one-use item once cut open. Buy for the jam-making season rather than stockpiling, and follow the printed date on an unopened box.",
+  "fridge": "Refrigeration is not the answer for powdered pectin, because the fridge is a humid place and damp is exactly what ruins it; if you must keep it cold, seal it inside an airtight jar and let the jar warm to room temperature before opening so condensation forms on the glass. Opened liquid pectin is a different case: it is a wet product and should be refrigerated rather than left out, but it will not reliably set a batch of jam once it has been open for any length of time, so plan to use the whole pouch.",
+  "freezer": "No freezer timeline is published for pectin and freezing does not restore or preserve setting power. The freezer also brings the one thing pectin cannot tolerate — condensation on the way out — so there is nothing to gain. Buy the quantity you need for the batch in front of you, and test a spoonful of jam on a cold plate rather than trusting an old box.",
+  "thawing": null,
+  "spoilage": [
+   "Powder that has caked into hard lumps rather than pouring freely.",
+   "A jam or jelly that fails to set despite correct sugar, acid and boiling time.",
+   "Any musty smell or visible mould in a pack that has taken up damp.",
+   "Liquid pectin that has separated, thickened in the pouch or darkened."
+  ],
+  "tips": [
+   "Buy pectin for the season you will use it in; it is not a stockpile item.",
+   "Keep an opened sachet clipped inside an airtight jar with a desiccant.",
+   "Test the set on a chilled plate before jarring a whole batch.",
+   "Do not substitute an old pack by adding more — old pectin does not scale up."
+  ],
+  "faq": [
+   {
+    "q": "How long does pectin last after opening?",
+    "a": "About 1 month in a cool dry cupboard. After that its setting power is unreliable even though it is not unsafe."
+   },
+   {
+    "q": "Does pectin need to be refrigerated?",
+    "a": "Powdered pectin should not be, because the fridge is humid. Opened liquid pectin should be kept cold, but plan to use the whole pouch."
+   },
+   {
+    "q": "Can you use expired pectin?",
+    "a": "It will not harm you, but it may not set. Test a spoonful of jam on a cold plate before committing the whole batch."
+   }
+  ]
+ },
+ "zh": {
+  "name": "果膠",
+  "aliases": [
+   "果膠粉",
+   "液態果膠",
+   "pectin",
+   "天然果膠"
+  ],
+  "summary": "果膠開封後在櫥櫃大約可放 1 個月。這個很短的期限和安全無關，它談的是凝結力——一旦接觸空氣與濕氣，凝結力就開始快速衰退，而一罐果醬凝不起來，通常就是因為那盒果膠太舊了。",
+  "pantry": "陰涼、乾燥、避光保存，開封後約 1 個月內用完。果膠是植物膠質，本身不太會長東西；它失去的是「凝膠的能力」，而只要水氣能接觸到它，這個能力就會持續下滑。果膠粉是比較脆弱的那一種——在潮濕的廚房會結塊，之後撒下去就是一顆顆永遠化不開的疙瘩；密封包裝的液態果膠衰退得慢一些，但一旦剪開就是明確的一次性產品。請照製醬的季節買，不要囤貨；未開封的請以包裝日期為準。",
+  "fridge": "果膠粉不該靠冷藏解決，因為冰箱潮濕，而受潮正是毀掉它的原因；真的要冰，請密封在氣密罐裡，並讓罐子回到室溫再打開，讓水氣凝在玻璃上。開封後的液態果膠則是另一回事：它是含水產品，應該冷藏而不是放在外面，但開過一段時間之後，它已經不能保證讓一鍋果醬確實凝固，所以請規劃成一次用完整包。",
+  "freezer": "果膠沒有公布的冷凍期限，冷凍也不會恢復或保存凝結力。冷凍反而帶來果膠最無法忍受的東西——拿出來時的結露——所以沒有任何好處。請按眼前這一鍋的需要量買，並且用冷盤測試果醬的凝固狀態，而不是去相信一盒放很久的果膠。",
+  "thawing": null,
+  "spoilage": [
+   "粉體結成硬塊，倒不出來、撒不散。",
+   "糖、酸與熬煮時間都對，果醬卻凝不起來。",
+   "受潮的包裝出現霉味或看得到霉。",
+   "液態果膠在袋中分層、變稠或顏色變深。"
+  ],
+  "tips": [
+   "照當季用量買，果膠不是囤貨型商品。",
+   "開封的小包夾好，連同乾燥劑放進氣密罐。",
+   "整鍋裝瓶之前，先用冰過的盤子測試凝固。",
+   "舊果膠不要靠「多加一點」補救，它不是量的問題。"
+  ],
+  "faq": [
+   {
+    "q": "果膠開封後可以放多久？",
+    "a": "陰涼乾燥的櫥櫃約 1 個月。超過之後雖然不至於不安全，但凝結力已經不可靠。"
+   },
+   {
+    "q": "果膠需要冷藏嗎？",
+    "a": "果膠粉不建議，因為冰箱潮濕。開封後的液態果膠要冷藏，但請規劃成一次用完。"
+   },
+   {
+    "q": "過期的果膠還能用嗎？",
+    "a": "吃了不會怎樣，但可能凝不起來。整鍋裝瓶前先用冷盤測試一小匙。"
+   }
+  ]
+ }
+}

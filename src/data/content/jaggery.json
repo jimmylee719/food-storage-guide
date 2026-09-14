@@ -1,0 +1,84 @@
+{
+ "slug": "jaggery",
+ "en": {
+  "name": "Jaggery (gur)",
+  "aliases": [
+   "gur",
+   "panela",
+   "palm jaggery",
+   "黑糖塊",
+   "unrefined cane sugar"
+  ],
+  "summary": "A hard block of jaggery keeps roughly 12–18 months airtight in a cool dry cupboard, and about 1 year refrigerated. Neither figure is published for jaggery itself: they are read across from brown sugar, which shares the problem — natural moisture left in with the molasses.",
+  "pantry": "Airtight, cool, dry and dark, and the enemy is humidity rather than microbes. Refined sugars resist microbial growth almost indefinitely, but brown sugars keep some of the cane's own moisture and do not store as well, and jaggery is that problem in its most extreme form — so treat 12–18 months as a sensible working life for a hard block rather than as a documented limit for jaggery. In a damp kitchen a block goes sticky, weeps syrup, and grows a white bloom or fine mould; it also attracts ants and, in warm storage, sugar-loving beetles. A block that has simply darkened and hardened is fine to use.",
+  "fridge": "In a humid climate, and for any soft jaggery — palm jaggery, date jaggery, nolen gur — the fridge is the right answer, and about 1 year is a reasonable expectation. Be clear that this is guidance rather than a published number: nobody has measured it. Wrap it airtight, because jaggery takes up fridge odours readily and sweats the moment you bring it out, and let a block come back to room temperature inside its wrapping so the condensation lands on the plastic and not on the sugar.",
+  "freezer": "No freezer timeline exists for jaggery and there is no real need for one; a sealed block in the cupboard or fridge already covers any household quantity. If you have been given a large amount of soft nolen gur, freezing it in small airtight portions is a reasonable way to hold it, and it thaws well because there is so little free water in it — but treat this as improvisation rather than as recommended practice.",
+  "thawing": "Thaw frozen jaggery in the fridge, still wrapped, then let it come up to room temperature before unwrapping so it does not sweat.",
+  "spoilage": [
+   "White bloom or fuzzy mould on the surface, usually after damp storage.",
+   "A fermented or alcoholic smell, especially from soft or liquid jaggery.",
+   "Syrup weeping out and pooling under the block.",
+   "Ants, beetles or grubs in the container."
+  ],
+  "tips": [
+   "Break a large block into usable pieces before storing, so you open the container less.",
+   "An airtight glass or steel container beats a plastic bag in a humid kitchen.",
+   "Keep soft palm jaggery and nolen gur in the fridge from the start.",
+   "Darkening and hardening are age, not spoilage — grate it or melt it."
+  ],
+  "faq": [
+   {
+    "q": "How long does jaggery last?",
+    "a": "Roughly 12–18 months airtight in a cool dry cupboard, or about 1 year refrigerated. Both figures are read across from brown sugar rather than published for jaggery."
+   },
+   {
+    "q": "Does jaggery need to be refrigerated?",
+    "a": "A hard cane block does not, in a dry kitchen. Soft palm jaggery, date jaggery and nolen gur should be refrigerated, and so should any jaggery in a humid climate."
+   },
+   {
+    "q": "Is jaggery still safe if it has gone hard and dark?",
+    "a": "Yes. Hardening and darkening are normal ageing. Mould, a fermented smell or weeping syrup are the signs that matter."
+   }
+  ]
+ },
+ "zh": {
+  "name": "印度粗糖（jaggery）",
+  "aliases": [
+   "gur",
+   "棕櫚糖磚",
+   "未精製蔗糖",
+   "紅糖磚"
+  ],
+  "summary": "硬的印度粗糖塊密封放陰涼乾燥的櫥櫃大約 12～18 個月，冷藏大約 1 年。這兩個數字都不是為 jaggery 本身公布的：它們是比照黑糖／紅糖來看的，因為兩者的問題一樣——糖蜜裡留著天然水分。",
+  "pantry": "密封、陰涼、乾燥、避光，而它的敵人是濕氣而不是微生物。精製糖幾乎能無限期抵抗微生物生長，但帶糖蜜的糖保留了甘蔗本身的水分，耐放程度就差得多，而 jaggery 正是這個問題最極端的版本——所以請把 12～18 個月當成硬糖塊的合理工作期限，而不是誰為 jaggery 訂出來的上限。在潮濕的廚房裡，糖塊會變黏、滲出糖漿、表面長白霜或細霉，也會招螞蟻；放在溫暖的地方還會招嗜糖的甲蟲。只是顏色變深、質地變硬的糖塊，照用無妨。",
+  "fridge": "在潮濕的氣候，以及所有軟質的 jaggery——棕櫚糖、椰棗糖、nolen gur——冷藏才是正解，大約 1 年是合理的期待。但要說清楚：這是參考建議而不是公布的數字，沒有人量過它。請密封包好，因為 jaggery 很會吸冰箱的味道，一拿出來就開始冒汗；也請讓糖塊連著包裝回到室溫再拆，讓水氣凝在塑膠上而不是糖上。",
+  "freezer": "jaggery 沒有任何冷凍期限，實際上也不太需要：密封放櫥櫃或冰箱，就足以應付一般家庭的用量。如果收到一大份軟的 nolen gur，分成小份密封冷凍是合理的權宜之計，而且因為它的自由水很少，解凍效果不差——但請把這當成變通做法，而不是建議做法。",
+  "thawing": "冷凍過的 jaggery 連包裝放冷藏解凍，再讓它回到室溫才拆封，才不會冒汗出水。",
+  "spoilage": [
+   "表面出現白霜或絨毛狀霉，通常發生在受潮之後。",
+   "有發酵味或酒味，軟質與液態的 jaggery 尤其容易。",
+   "糖漿滲出來，在糖塊底下積成一灘。",
+   "容器裡出現螞蟻、甲蟲或蟲體。"
+  ],
+  "tips": [
+   "大塊先敲成好用的小塊再收，這樣容器就不用常開。",
+   "在潮濕廚房，密封玻璃罐或不鏽鋼罐比塑膠袋可靠得多。",
+   "軟的棕櫚糖、nolen gur 一買回來就直接冰。",
+   "變硬變深是老化不是壞掉，磨成粉或加熱融開即可。"
+  ],
+  "faq": [
+   {
+    "q": "印度粗糖可以放多久？",
+    "a": "密封放陰涼乾燥的櫥櫃大約 12～18 個月，冷藏大約 1 年。兩個數字都是比照黑糖類推的，不是 jaggery 專屬的公布數據。"
+   },
+   {
+    "q": "印度粗糖需要冷藏嗎？",
+    "a": "乾燥環境下的硬蔗糖塊不用。軟的棕櫚糖、椰棗糖、nolen gur 要冷藏，潮濕氣候下的任何 jaggery 也建議冷藏。"
+   },
+   {
+    "q": "變硬變黑還能吃嗎？",
+    "a": "可以，那是正常老化。真正要注意的是長霉、發酵味和滲糖漿。"
+   }
+  ]
+ }
+}

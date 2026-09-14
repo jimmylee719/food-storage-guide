@@ -1,0 +1,83 @@
+{
+ "slug": "polenta-shelf-stable",
+ "en": {
+  "name": "Polenta, shelf-stable tube",
+  "aliases": [
+   "pre-cooked polenta",
+   "polenta log",
+   "常溫玉米糕",
+   "polenta lista"
+  ],
+  "summary": "A tube of ready-cooked shelf-stable polenta lives in the cupboard until you open it. Once opened it becomes a refrigerated food and keeps 5–7 days at 4 °C (40 °F) or below.",
+  "pantry": "The sealed tube belongs in a cool, dry cupboard and keeps to the date printed on it — that date, not a general rule, is what governs the unopened product, because the shelf life comes from the heat processing and the intact vacuum pack rather than from the polenta. Keep tubes away from the hob and out of direct sun. A pack that is swollen, leaking, or that has lost its vacuum and feels loose goes in the bin unopened: cooked maize porridge in a sealed pack is a low-acid food, and a failed seal on one of those is not something to investigate by tasting.",
+  "fridge": "Opening changes everything. Once cut, shelf-stable polenta is a cooked, wet, low-acid starch and keeps 5–7 days at 4 °C (40 °F) or below, wrapped tightly or in a covered container so the cut face does not dry and crack. Slice what you need and refrigerate the rest promptly rather than leaving the tube on the worktop — cooked starch left in the danger zone between 4 and 60 °C is the classic Bacillus cereus situation, and reheating does not undo the toxin those bacteria can produce.",
+  "freezer": "No freezer timeline is published for shelf-stable polenta, and the texture is the reason to be careful: a set maize gel is mostly water, so ice crystals rupture it and it thaws crumbly and weeping. Slices fried or grilled from frozen hold together better than a thawed block does. If you want to keep an opened tube beyond the fridge window, cutting it into slices, freezing them apart on a tray and then bagging them is the way to do it.",
+  "thawing": "Cook frozen slices straight from the freezer in a hot pan, on a grill or in the oven. Thawing them first leaves a wet, crumbly slice.",
+  "spoilage": [
+   "A swollen, leaking pack, or one whose vacuum has clearly failed.",
+   "Sour, fermented or yeasty smell when the tube is cut.",
+   "A slimy or tacky film on the surface of an opened tube.",
+   "Pink, grey or fuzzy patches anywhere on the block."
+  ],
+  "tips": [
+   "Check the tube is still firmly vacuum-packed before you open it.",
+   "Wrap the cut face tightly; polenta dries and cracks fast in the fridge.",
+   "Slice before freezing so you can cook straight from frozen.",
+   "Do not leave an opened tube on the counter while you cook the rest of the meal."
+  ],
+  "faq": [
+   {
+    "q": "How long does shelf-stable polenta keep after opening?",
+    "a": "5–7 days in the fridge at 4 °C (40 °F) or below, wrapped or in a covered container."
+   },
+   {
+    "q": "Does an unopened tube of polenta need refrigerating?",
+    "a": "No. It is shelf-stable until opened and should be kept in a cool dry cupboard, following the printed date."
+   },
+   {
+    "q": "Can you freeze polenta?",
+    "a": "No timeline is published for it and the texture suffers. If you do, slice it first and cook the slices from frozen rather than thawing them."
+   }
+  ]
+ },
+ "zh": {
+  "name": "常溫玉米糕（polenta）",
+  "aliases": [
+   "即食玉米糕",
+   "圓柱玉米糕",
+   "polenta",
+   "熟玉米粥磚"
+  ],
+  "summary": "真空包裝的熟玉米糕在開封前住櫥櫃。一旦開封，它就變成冷藏食品：4 °C 以下 5～7 天。",
+  "pantry": "未開封的圓柱包放陰涼乾燥的櫥櫃，以包裝上印的日期為準——管住未開封產品的是那個日期，不是什麼通則，因為它的常溫壽命來自加熱製程與完整的真空包裝，而不是玉米糕本身。請遠離爐台、避免日曬。包裝鼓脹、滲漏，或真空明顯跑掉、摸起來鬆鬆的，請不要拆開直接丟：密封包裝裡的熟玉米糊是低酸性食品，這種包裝一旦失效，不是靠試吃去查證的事。",
+  "fridge": "開封會改變一切。切開之後，它就是含水的低酸性熟澱粉，在 4 °C 以下可放 5～7 天，要包緊或放加蓋容器，才不會讓切面乾裂。用多少切多少，其餘立刻冰回去，不要把整條放在流理台上——熟澱粉停在 4 到 60 °C 的危險溫度帶，正是仙人掌桿菌的典型場景，而它可能已經產生的毒素，並不會因為你再加熱一次就消失。",
+  "freezer": "常溫玉米糕沒有公布的冷凍期限，而要小心的理由在質地：凝固的玉米糕幾乎全是水，冰晶會把結構撐破，解凍後又碎又出水。冷凍後直接下鍋煎或烤的切片，比解凍過的整塊完整得多。如果想讓開封後的玉米糕撐過冷藏期，就先切片、攤開在盤子上冷凍，再裝袋。",
+  "thawing": "冷凍的切片直接下熱鍋、上烤盤或進烤箱，不要先解凍——解凍後只會得到一片濕爛易碎的玉米糕。",
+  "spoilage": [
+   "包裝鼓脹、滲漏，或真空明顯失效。",
+   "切開時聞到酸味、發酵味或酵母味。",
+   "開封後的表面出現黏滑或發黏的薄膜。",
+   "任何部位出現粉紅、灰色或絨毛狀的斑。"
+  ],
+  "tips": [
+   "拆封前先確認包裝還是緊緊的真空狀態。",
+   "切面要包緊，玉米糕在冰箱裡乾裂得很快。",
+   "冷凍前先切片，之後可以直接下鍋。",
+   "不要一邊煮其他菜、一邊把開封的玉米糕放在檯面上。"
+  ],
+  "faq": [
+   {
+    "q": "常溫玉米糕開封後可以放多久？",
+    "a": "包好或放加蓋容器，冷藏 4 °C 以下 5～7 天。"
+   },
+   {
+    "q": "未開封的玉米糕需要冷藏嗎？",
+    "a": "不用。開封前它是常溫食品，放陰涼乾燥的櫥櫃並依包裝日期使用。"
+   },
+   {
+    "q": "玉米糕可以冷凍嗎？",
+    "a": "沒有公布的期限，而且質地會受損。真的要冷凍就先切片，並且直接從冷凍下鍋，不要解凍。"
+   }
+  ]
+ }
+}

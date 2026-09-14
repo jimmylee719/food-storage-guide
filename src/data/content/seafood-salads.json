@@ -1,0 +1,83 @@
+{
+ "slug": "seafood-salads",
+ "en": {
+  "name": "Seafood salads",
+  "aliases": [
+   "tuna salad",
+   "shrimp salad",
+   "salmon salad",
+   "海鮮沙拉"
+  ],
+  "summary": "Tuna, shrimp, salmon and mixed seafood salads keep 3–4 days in the refrigerator at 4 °C (40 °F) or below. The seafood and the time the bowl spends warm are the hazard — not the mayonnaise, which is acidified and made with pasteurised egg.",
+  "pantry": "Seafood salad is ready to eat with no cooking step left, and cooked seafood is among the most perishable things you can put in a bowl. It also picks up an off smell faster than most foods, which is at least an honest warning system. The mayonnaise is not the problem — it holds the pH down — so do not let that old story distract you from the real one, which is a bowl of chopped cooked prawns sitting in the sun. Two hours out of the fridge at most, or one hour above 32 °C (90 °F), and serve from a bowl set in ice.",
+  "fridge": "3–4 days at 4 °C (40 °F) or below, covered, on the coldest shelf rather than in the door. Mix it from seafood that is already thoroughly chilled, and if you are using tuna from a can or pouch, remember that the opened tin has its own short clock — make the salad early in it, not at the end. Take out a portion and return the container to the fridge straight away rather than leaving it out through a meal, and never combine a fresh batch with the remains of an old one.",
+  "freezer": "No freezer timeline is published for seafood salads, and freezing one is not worth doing. The mayonnaise emulsion splits irreversibly, cooked prawns turn rubbery and weep, and flaked fish goes woolly, so what thaws is oily liquid around dry seafood. Celery and onion in the mix collapse as well. If you have cooked seafood to save, freeze it plain and make the salad after thawing.",
+  "thawing": null,
+  "spoilage": [
+   "An ammonia-like or sour smell — seafood announces itself early.",
+   "Dressing that has split, with watery liquid pooling.",
+   "A slimy or sticky film on the seafood pieces.",
+   "Any mould, or a grey-green cast to the fish or prawns."
+  ],
+  "tips": [
+   "Chill the cooked seafood thoroughly before mixing.",
+   "Make the salad early in an opened can's short window, not at the end of it.",
+   "Serve from a bowl set in ice and keep the container cold.",
+   "Never top up an old batch with a fresh one."
+  ],
+  "faq": [
+   {
+    "q": "How long does tuna or shrimp salad keep?",
+    "a": "3–4 days in a covered container in the fridge at 4 °C (40 °F) or below."
+   },
+   {
+    "q": "Is the mayonnaise the risk in a seafood salad?",
+    "a": "No. Commercial mayonnaise is acidified and uses pasteurised egg. The cooked seafood and the time the bowl spends warm are what matter."
+   },
+   {
+    "q": "Can you freeze seafood salad?",
+    "a": "No timeline is published and it is not worth doing. The dressing splits and the seafood turns rubbery. Freeze the plain seafood instead."
+   }
+  ]
+ },
+ "zh": {
+  "name": "海鮮沙拉",
+  "aliases": [
+   "鮪魚沙拉",
+   "蝦仁沙拉",
+   "鮭魚沙拉",
+   "綜合海鮮沙拉"
+  ],
+  "summary": "鮪魚、蝦仁、鮭魚與綜合海鮮沙拉，冷藏 4 °C 以下可放 3～4 天。危害來自海鮮，以及那碗東西在溫熱狀態放了多久——不是美乃滋；美乃滋經過酸化、用的是殺菌蛋液。",
+  "pantry": "海鮮沙拉是後面沒有加熱步驟的即食料理，而熟海鮮又是你能放進碗裡最容易壞的東西之一。它倒是有個好處：異味出現得比多數食物早，算是誠實的警報系統。美乃滋不是問題，它反而把 pH 壓低了——所以別讓那個老說法把注意力從真正的問題上移開，而真正的問題是「一碗切好的熟蝦放在太陽下」。離開冰箱最多兩小時，氣溫超過 32 °C 時最多一小時；供應時把碗架在冰上。",
+  "fridge": "加蓋放 4 °C 以下 3～4 天，放最冷的層架而不是門邊。要用已經徹底冰透的海鮮來拌；如果用的是罐頭或軟袋包的鮪魚，別忘了開封後的罐頭有它自己很短的時鐘——請在那段期限的前段做沙拉，不要拖到最後。取用一份後容器立刻冰回去，不要整餐放在外面；也絕對不要把新做的混進舊的剩料。",
+  "freezer": "海鮮沙拉沒有公布的冷凍期限，也不值得冷凍。美乃滋的乳化會不可逆地崩解，熟蝦會變得像橡皮並出水，魚肉則會變柴，解凍後你得到的是一圈油水包著乾掉的海鮮；裡面的芹菜和洋蔥也會整個塌掉。有熟海鮮要保存的話，請把原味的冷凍，解凍後再拌沙拉。",
+  "thawing": null,
+  "spoilage": [
+   "聞到氨味或酸味——海鮮會很早自己招供。",
+   "醬汁油水分離，底下積水。",
+   "海鮮塊表面出現黏滑或發黏的薄膜。",
+   "長霉，或魚肉、蝦仁泛灰綠。"
+  ],
+  "tips": [
+   "熟海鮮徹底冰透再拌。",
+   "用開封後的罐頭鮪魚時，要在它短期限的前段做沙拉。",
+   "分到架在冰上的碗裡上桌，容器保持低溫。",
+   "絕對不要把新的補進舊的剩料裡。"
+  ],
+  "faq": [
+   {
+    "q": "鮪魚或蝦仁沙拉可以放多久？",
+    "a": "加蓋容器放 4 °C 以下冷藏 3～4 天。"
+   },
+   {
+    "q": "風險是美乃滋嗎？",
+    "a": "不是。市售美乃滋經過酸化並使用殺菌蛋液。關鍵是熟海鮮，以及那碗在溫熱狀態下待了多久。"
+   },
+   {
+    "q": "海鮮沙拉可以冷凍嗎？",
+    "a": "沒有公布的期限，也不值得。醬會分離、海鮮會變橡皮。請改冷凍原味海鮮。"
+   }
+  ]
+ }
+}

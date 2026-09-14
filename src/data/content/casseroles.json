@@ -1,0 +1,83 @@
+{
+ "slug": "casseroles",
+ "en": {
+  "name": "Casseroles",
+  "aliases": [
+   "baked dishes",
+   "bakes",
+   "焗烤料理",
+   "cazuelas"
+  ],
+  "summary": "A cooked casserole keeps 3–4 days in the refrigerator at 4 °C (40 °F) or below. The step that decides whether it makes those days is how fast you cool it, not how hard you reheat it.",
+  "pantry": "A casserole dish is the worst possible shape for cooling. It is deep, it is dense, and it holds heat for hours — a dish left on the worktop to cool overnight keeps its centre in the danger zone between 4 and 60 °C for most of that time, which is where Clostridium perfringens and Bacillus cereus multiply. Get leftovers into shallow containers within two hours of the dish coming out of the oven, one hour if the kitchen is above 32 °C (90 °F). Do not put the hot dish straight into the fridge either; divide it first so it chills quickly instead of warming everything around it.",
+  "fridge": "3–4 days at 4 °C (40 °F) or below, covered, in a container no more than a few centimetres deep. Casseroles that contain rice or pasta deserve the short end of that range, because cooked starch is where Bacillus cereus does best and its toxin is not destroyed by reheating. Reheat only the portion you are going to eat, and reheat it until it is steaming hot all the way through rather than warm at the edges; do not reheat the same portion twice.",
+  "freezer": "No freezer timeline is published for casseroles as a category, which is a reflection of how varied they are rather than a warning. Most freeze well if you cool them fast, portion them, and wrap them airtight; potato and cream-based ones suffer most, because potato goes mealy and dairy sauces can split. Freeze in meal-sized portions rather than as a whole dish, label them with the date, and reheat until steaming right through.",
+  "thawing": "Thaw in the fridge, allowing a day for a substantial portion, then reheat until steaming hot throughout. You can also reheat smaller portions from frozen in a covered dish. Never thaw on the counter.",
+  "spoilage": [
+   "A sour, yeasty or fermented smell when the cover comes off.",
+   "Mould anywhere on the surface, including under the cheese crust.",
+   "A slimy or ropy texture in the sauce.",
+   "Liquid separating and smelling sharp rather than simply settling."
+  ],
+  "tips": [
+   "Divide into shallow containers to cool; never chill a whole deep dish.",
+   "Label with the date it was cooked, not the date it went in the fridge.",
+   "Reheat single portions so the rest is never warmed twice.",
+   "Give rice- and pasta-based casseroles the shortest life in the range."
+  ],
+  "faq": [
+   {
+    "q": "How long does a casserole keep in the fridge?",
+    "a": "3–4 days at 4 °C (40 °F) or below, in a covered shallow container."
+   },
+   {
+    "q": "Can you leave a casserole out to cool overnight?",
+    "a": "No. Divide it into shallow containers and refrigerate within two hours, or one hour above 32 °C (90 °F). A deep dish holds heat far longer than it looks."
+   },
+   {
+    "q": "Can you reheat a casserole twice?",
+    "a": "Reheat only the portion you will eat, and only once. Repeated warming gives bacteria more time in the danger zone."
+   }
+  ]
+ },
+ "zh": {
+  "name": "焗烤／砂鍋料理",
+  "aliases": [
+   "焗烤盤",
+   "烤箱料理",
+   "casserole",
+   "西式燉烤菜"
+  ],
+  "summary": "煮好的焗烤／砂鍋料理冷藏 4 °C 以下可放 3～4 天。能不能撐過這幾天，決定於你降溫的速度，而不是回熱時火開多大。",
+  "pantry": "焗烤盤是最不利於降溫的形狀：又深又密實，保溫好幾個小時——放在流理台上放涼一整晚的那一盤，中心大部分時間都停在 4 到 60 °C 的危險溫度帶，而那正是產氣莢膜梭菌與仙人掌桿菌繁殖的地方。請在出爐後兩小時內把剩下的分裝進淺容器，廚房超過 32 °C 時縮短為一小時。也不要把整盤熱的直接塞進冰箱：先分裝，它才會快速降溫，而不是把冰箱裡其他東西一起加溫。",
+  "fridge": "4 °C 以下 3～4 天，加蓋，容器深度不要超過幾公分。含米飯或義大利麵的版本請取這個範圍的短端，因為熟澱粉正是仙人掌桿菌最擅長的舞台，而它產生的毒素不會因為再加熱而消失。要吃多少熱多少，並且要熱到整份都冒蒸氣，而不是只有邊緣熱；同一份不要回熱第二次。",
+  "freezer": "焗烤／砂鍋這一類並沒有公布的冷凍期限，那反映的是它種類太雜，而不是在警告什麼。只要快速降溫、分份、密封包好，大多數都冷凍得不錯；馬鈴薯類和奶醬類受損最大，因為馬鈴薯會變粉、奶醬可能油水分離。請分成一餐的份量冷凍、標上日期，回熱時務必熱到整份冒蒸氣。",
+  "thawing": "放冷藏解凍，大份的請預留一天，再加熱到整份冒蒸氣。小份也可以加蓋直接從冷凍回熱。不要放室溫退冰。",
+  "spoilage": [
+   "掀蓋就聞到酸味、酵母味或發酵味。",
+   "表面任何地方長霉，包括起司層底下。",
+   "醬汁變得黏滑牽絲。",
+   "湯汁分離而且聞起來刺鼻，不只是單純的沉澱。"
+  ],
+  "tips": [
+   "分裝進淺容器降溫，不要整盤深的直接冰。",
+   "標上「烹調日期」，不是放進冰箱的日期。",
+   "一次只回熱一份，其餘不要反覆加溫。",
+   "含飯或麵的版本取期限的短端。"
+  ],
+  "faq": [
+   {
+    "q": "焗烤料理冷藏可以放多久？",
+    "a": "加蓋的淺容器放 4 °C 以下 3～4 天。"
+   },
+   {
+    "q": "可以放在外面放涼一整晚嗎？",
+    "a": "不行。請分裝進淺容器，兩小時內冷藏；室溫超過 32 °C 時縮短為一小時。深盤保溫的時間遠比外表看起來久。"
+   },
+   {
+    "q": "可以回熱兩次嗎？",
+    "a": "要吃多少熱多少，而且只熱一次。反覆加溫等於給細菌更多停留在危險溫度帶的時間。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "onigiri",
+ "en": {
+  "name": "Onigiri",
+  "aliases": [
+   "rice ball",
+   "omusubi",
+   "おにぎり",
+   "飯糰"
+  ],
+  "summary": "Onigiri is a same-day food. Refrigerated at 4 °C (40 °F) or below it keeps 1 day — cooked rice should not be carried over past the day it was cooked — and a convenience-store onigiri follows its own printed date, which is usually well inside that.",
+  "pantry": "Treat onigiri as same-day food and keep it cool. The standard bento guidance is to shape the rice with cling film or disposable gloves rather than bare hands, because Staphylococcus aureus lives on skin and the toxin it produces is heat-stable — you cannot reheat your way out of it. Let the rice cool completely before packing so steam does not condense inside the box, and carry the box with an ice pack in warm weather. A lunchbox left in a warm bag all morning is the problem this advice exists to prevent.",
+  "fridge": "1 day at 4 °C (40 °F) or below. The rule behind that is blunt: cooked rice should not be carried over past the day it was cooked, and rice held after cooking should be kept above 55 °C or below 8 °C, for as short a time as possible. Refrigeration hardens the rice as the starch retrogrades, so wrap each onigiri tightly in cling film, and either let it come back to room temperature before eating or give it a short spell in the microwave. Fillings matter too — anything with mayonnaise, roe or raw fish shortens the window further.",
+  "freezer": "No freezer timeline is published for onigiri. Plain salted or seasoned rice balls do freeze reasonably well if you wrap each one tightly while it is still slightly warm, so the moisture stays in, and microwave them from frozen; the nori should be added after reheating, not before. Fillings with mayonnaise, raw fish or fresh vegetables do not survive freezing, so freeze plain or cooked-filling onigiri only.",
+  "thawing": "Microwave frozen onigiri straight from the freezer, still wrapped, until hot through, then wrap it in fresh nori. Do not leave it out to thaw at room temperature.",
+  "spoilage": [
+   "A sour or fermented smell when the wrapper comes off.",
+   "Rice that has gone sticky-slimy or ropy, or that pulls in strings.",
+   "Any coloured spots on the rice or the filling.",
+   "A filling that smells off — check it separately from the rice."
+  ],
+  "tips": [
+   "Shape with cling film or gloves rather than bare hands.",
+   "Let the rice cool fully before packing so steam does not condense in the box.",
+   "Carry a lunchbox with an ice pack in warm weather.",
+   "Add the nori just before eating so it stays crisp."
+  ],
+  "faq": [
+   {
+    "q": "How long does onigiri keep?",
+    "a": "1 day refrigerated at 4 °C (40 °F) or below. Cooked rice should not be carried over past the day it was cooked."
+   },
+   {
+    "q": "Why should you not shape onigiri with bare hands?",
+    "a": "Staphylococcus aureus lives on skin, and the toxin it produces is heat-stable — reheating will not deal with it. Use cling film or disposable gloves."
+   },
+   {
+    "q": "Can you freeze onigiri?",
+    "a": "No timeline is published, but plain or cooked-filling rice balls freeze reasonably well if wrapped tightly. Microwave from frozen and add the nori afterwards."
+   }
+  ]
+ },
+ "zh": {
+  "name": "飯糰（おにぎり）",
+  "aliases": [
+   "御飯糰",
+   "日式飯糰",
+   "おむすび",
+   "握り飯"
+  ],
+  "summary": "飯糰是當天吃完的食物。冷藏 4 °C 以下可放 1 天——煮好的飯不應該跨到隔天——而便利商店的御飯糰則依自己印的消費期限，通常遠比一天更短。",
+  "pantry": "請把飯糰當成當天食品，並且保持低溫。便當的標準衛生建議是：用保鮮膜或拋棄式手套捏，不要直接用手，因為金黃色葡萄球菌就住在皮膚上，而它產生的毒素耐熱——你沒辦法靠加熱把它解決掉。飯要完全放涼再裝盒，蒸氣才不會在盒內結露；天氣熱時便當盒要放保冷劑。整個上午悶在包包裡的便當，正是這些建議存在的理由。",
+  "fridge": "4 °C 以下 1 天。背後的規則說得很直接：煮好的米飯不要留到隔天以後，而煮好之後的保溫（或保冷）應維持在 55 °C 以上或 8 °C 以下，且時間越短越好。冷藏會讓米飯因澱粉老化而變硬，所以每顆飯糰都要用保鮮膜包緊，吃之前讓它回到室溫，或微波一下。內餡也會影響——美乃滋、魚卵或生魚會讓可用時間更短。",
+  "freezer": "飯糰沒有公布的冷凍期限。原味鹽飯糰或調味飯糰其實冷凍得不錯：趁還微溫時一顆顆包緊、把水分鎖住，之後從冷凍直接微波；海苔要在加熱之後才包，不要一起冷凍。含美乃滋、生魚或生鮮蔬菜的內餡撐不過冷凍，所以請只冷凍原味或熟餡的飯糰。",
+  "thawing": "冷凍的飯糰連保鮮膜直接微波到熱透，再包上新的海苔。不要放在室溫自然退冰。",
+  "spoilage": [
+   "拆開包膜就聞到酸味或發酵味。",
+   "米飯變得黏滑牽絲，拉開時會牽絲。",
+   "米飯或內餡上出現任何有顏色的斑點。",
+   "內餡聞起來不對——請和米飯分開確認。"
+  ],
+  "tips": [
+   "用保鮮膜或手套捏，不要直接用手。",
+   "飯完全放涼再裝盒，蒸氣才不會在盒裡結露。",
+   "天熱時便當盒放保冷劑。",
+   "海苔吃之前再包，才會脆。"
+  ],
+  "faq": [
+   {
+    "q": "飯糰可以放多久？",
+    "a": "冷藏 4 °C 以下 1 天。煮好的飯不應該留到隔天以後。"
+   },
+   {
+    "q": "為什麼不要用手直接捏飯糰？",
+    "a": "金黃色葡萄球菌住在皮膚上，而它的毒素耐熱，再加熱也沒用。請用保鮮膜或拋棄式手套。"
+   },
+   {
+    "q": "飯糰可以冷凍嗎？",
+    "a": "沒有公布的期限，但原味或熟餡的飯糰包緊冷凍效果不錯。從冷凍直接微波，海苔加熱後再包。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "sauerkraut-jarred",
+ "en": {
+  "name": "Sauerkraut, jarred or canned",
+  "aliases": [
+   "pasteurised sauerkraut",
+   "canned sauerkraut",
+   "德國酸菜罐頭",
+   "chucrut en conserva"
+  ],
+  "summary": "An unopened jar or can of pasteurised sauerkraut keeps 12 months from purchase in the cupboard, and 1–2 months refrigerated once opened. That long opened life is possible precisely because there is nothing alive in it — this is the pasteurised product, not the live fermented one.",
+  "pantry": "Cool, dark and dry, 12 months from purchase unopened. Sauerkraut is a high-acid canned good, which is the easy end of canning: the acid produced during fermentation is what makes it stable, and the heat treatment finishes the job by killing the lactic bacteria that made it. That is also why the jar no longer bubbles or pushes its lid. A jar with a bulging lid, a rusted or dented seam, or one that hisses and smells wrong when opened goes in the bin — unopened where possible, and never tasted to check.",
+  "fridge": "Once opened, refrigerate at 4 °C (40 °F) or below and use within 1–2 months. Pickles and olives get the same figure and for the same reason: the acid does the preserving and the cold slows the surface yeasts and moulds that eventually grow on anything sitting in brine. Two rules make that window real — keep the cabbage pushed down under its liquid, and use a clean fork every time. Compare this with live, unpasteurised kraut from the chiller cabinet, which is still fermenting and has a shorter and less predictable life.",
+  "freezer": "No freezer timeline is published for jarred sauerkraut, and there is little reason to freeze something that already keeps for a month or two in the fridge. It does freeze without safety concerns, but the cabbage loses its snap and thaws limp, which matters if you were going to eat it cold. Drained and frozen flat, it is fine for a choucroute or a braise. Freeze it in its liquid if you can, and never refreeze it.",
+  "thawing": "Thaw in the fridge and use it in a cooked dish. Expect softer cabbage, and do not refreeze it.",
+  "spoilage": [
+   "A bulging, leaking or badly dented can or lid.",
+   "Mould on the surface, usually on cabbage standing above the brine.",
+   "Brine that has turned slimy, ropy or unusually cloudy.",
+   "A putrid, yeasty or off smell rather than a clean sour one."
+  ],
+  "tips": [
+   "Keep the cabbage submerged in its brine after every use.",
+   "Use a clean fork; never fingers or a used utensil.",
+   "Write the opening date on the lid.",
+   "Do not drain and rinse the whole jar at once — the brine is what preserves it."
+  ],
+  "faq": [
+   {
+    "q": "How long does jarred sauerkraut keep once opened?",
+    "a": "1–2 months refrigerated at 4 °C (40 °F) or below, with the cabbage kept under the brine."
+   },
+   {
+    "q": "Is jarred sauerkraut the same as the live kind?",
+    "a": "No. Jarred and canned kraut is pasteurised, so the fermenting bacteria are gone. That is why it keeps longer and why it no longer fizzes."
+   },
+   {
+    "q": "Can you freeze sauerkraut?",
+    "a": "No timeline is published for it. Freezing is safe but the cabbage goes limp, so use thawed kraut in a cooked dish rather than cold."
+   }
+  ]
+ },
+ "zh": {
+  "name": "德國酸菜罐頭",
+  "aliases": [
+   "瓶裝德式酸菜",
+   "殺菌酸菜",
+   "罐裝酸菜",
+   "sauerkraut"
+  ],
+  "summary": "未開封的殺菌德國酸菜罐（瓶）從購買日起算放櫥櫃可放 12 個月，開封後冷藏 1～2 個月。開封後之所以能撐這麼久，恰恰是因為裡面已經沒有活菌了——這是殺過菌的版本，不是活菌發酵的那種。",
+  "pantry": "陰涼、避光、乾燥，未開封自購買日起 12 個月。酸菜屬於高酸性罐頭食品，是罐頭裡最好處理的一端：發酵過程產生的酸讓它穩定，加熱殺菌再把當初製造它的乳酸菌一併結束掉。這也是為什麼這種罐子不會再冒泡、不會再把蓋子頂起來。蓋子鼓起、接縫鏽蝕或凹陷，或打開時洩氣又氣味不對的，請丟掉——能不打開就不要打開，更不要靠試吃來確認。",
+  "fridge": "開封後放 4 °C 以下冷藏，1～2 個月內用完。醃黃瓜和橄欖的數字也一樣，道理相同：保存靠的是酸，低溫則拖慢那些終究會在鹽水表面長出來的酵母與霉菌。有兩條規則讓這個期限成立——酸菜要一直壓在液面下，而且每次都用乾淨的叉子。可以對照一下冷藏櫃裡的活菌酸菜：那一種還在發酵，期限更短也更難預測。",
+  "freezer": "瓶裝酸菜沒有公布的冷凍期限，而一個冷藏本來就能放一兩個月的東西，也沒什麼冷凍的理由。冷凍在安全上沒有問題，但高麗菜會失去脆度、解凍後軟塌——如果你打算冷食，那就很要命。瀝乾攤平冷凍的酸菜，用來做酸菜燉肉或燉菜沒有問題。可以的話連湯汁一起冷凍，而且不要二次冷凍。",
+  "thawing": "放冷藏解凍，並用在需要加熱的料理。口感會變軟，也不要再次冷凍。",
+  "spoilage": [
+   "罐身或蓋子鼓脹、滲漏或嚴重凹陷。",
+   "表面長霉，通常長在露出鹽水的那一層。",
+   "鹽水變得黏滑、牽絲或異常混濁。",
+   "聞起來腐臭、有酵母味，而不是乾淨的酸味。"
+  ],
+  "tips": [
+   "每次用完都把酸菜壓回鹽水下面。",
+   "用乾淨的叉子，不要用手或用過的餐具。",
+   "在蓋子上寫開罐日期。",
+   "不要一次把整罐瀝乾沖洗，鹽水就是保存它的東西。"
+  ],
+  "faq": [
+   {
+    "q": "瓶裝酸菜開封後可以放多久？",
+    "a": "冷藏 4 °C 以下 1～2 個月，並且要讓酸菜一直浸在鹽水裡。"
+   },
+   {
+    "q": "瓶裝酸菜和活菌酸菜一樣嗎？",
+    "a": "不一樣。瓶裝與罐裝都經過殺菌，發酵菌已經沒有了。這就是它能放比較久、也不再冒泡的原因。"
+   },
+   {
+    "q": "酸菜可以冷凍嗎？",
+    "a": "沒有公布的期限。冷凍安全但會軟掉，所以解凍後請用在加熱的料理，不要冷食。"
+   }
+  ]
+ }
+}

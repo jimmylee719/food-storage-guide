@@ -1,0 +1,83 @@
+{
+ "slug": "egg-salad",
+ "en": {
+  "name": "Egg salad",
+  "aliases": [
+   "egg mayonnaise",
+   "egg mayo filling",
+   "雞蛋沙拉",
+   "ensalada de huevo"
+  ],
+  "summary": "Egg salad keeps 3–4 days in the refrigerator at 4 °C (40 °F) or below. The hazard is the chopped hard-boiled egg and the time the bowl spends warm — not the mayonnaise, which is acidified and made with pasteurised egg.",
+  "pantry": "There is no room-temperature allowance for egg salad. Once the eggs are peeled and chopped they have lost the shell that protected them, they are handled by hand, and there is no cooking step afterwards — which is why a sandwich round left in a warm car or a bowl on a buffet table is the classic way for this dish to cause trouble. The mayonnaise is not the villain here; if anything it holds the pH down. Give it two hours out of the fridge at most, one hour above 32 °C (90 °F), and keep the bowl over ice when serving.",
+  "fridge": "3–4 days at 4 °C (40 °F) or below in a covered container on a cold shelf, not in the door. Chill the boiled eggs completely before you chop and mix them: folding warm egg into cold mayonnaise puts the whole bowl into the danger zone, and nothing afterwards will correct that. Take out a portion and put the container straight back rather than leaving it out through a meal, and never mix a fresh batch into the remains of an old one.",
+  "freezer": "No freezer timeline is published for egg salad, and freezing is a bad idea on two counts. The mayonnaise emulsion splits irreversibly, and cooked egg white turns rubbery and weeping when frozen and thawed, so what comes back is oily liquid with tough white and crumbling yolk in it. If you have cooked too many eggs, keep them whole and unpeeled in the fridge and make the salad fresh.",
+  "thawing": null,
+  "spoilage": [
+   "A sulphurous or sour smell sharper than the usual egg smell.",
+   "Dressing that has split, with watery liquid pooling under it.",
+   "A slimy or sticky texture on the egg pieces.",
+   "Any mould, or a grey-green film on the surface."
+  ],
+  "tips": [
+   "Chill boiled eggs completely before chopping and mixing.",
+   "Serve from a bowl set over ice rather than from the storage container.",
+   "Never top up an old batch with a fresh one.",
+   "Keep whole cooked eggs in the shell instead of freezing made-up salad."
+  ],
+  "faq": [
+   {
+    "q": "How long does egg salad keep?",
+    "a": "3–4 days in a covered container in the fridge at 4 °C (40 °F) or below."
+   },
+   {
+    "q": "Is the mayonnaise what makes egg salad unsafe?",
+    "a": "No. Commercial mayonnaise is acidified and uses pasteurised egg. The risk comes from the chopped boiled egg and the time the salad spends out of the fridge."
+   },
+   {
+    "q": "Can you freeze egg salad?",
+    "a": "No timeline is published and it is not worth doing. The dressing splits and cooked egg white turns rubbery. Keep the eggs whole instead."
+   }
+  ]
+ },
+ "zh": {
+  "name": "雞蛋沙拉",
+  "aliases": [
+   "蛋沙拉",
+   "美乃滋雞蛋",
+   "雞蛋三明治餡",
+   "egg salad"
+  ],
+  "summary": "雞蛋沙拉冷藏 4 °C 以下可放 3～4 天。危害來自切碎的水煮蛋，以及那碗東西在溫熱狀態下待了多久——不是美乃滋；美乃滋經過酸化、而且用的是殺菌蛋液。",
+  "pantry": "雞蛋沙拉沒有任何室溫額度。蛋一旦剝殼切碎，就失去了保護它的外殼，又被手大量接觸，而且後面沒有加熱步驟——這就是為什麼「留在悶熱車上的三明治」和「自助餐桌上的那一盆」是這道菜最典型的出事方式。美乃滋在這裡不是壞人，它反而把 pH 壓低了。離開冰箱最多兩小時，氣溫超過 32 °C 時最多一小時；供應時請把碗架在冰上。",
+  "fridge": "加蓋容器放 4 °C 以下 3～4 天，要放冷藏層架而不是門邊。切拌之前先把水煮蛋徹底冰透：把溫的蛋拌進冰的美乃滋，等於把整碗推進危險溫度帶，而之後沒有任何步驟能挽回。要吃就分出一份，容器立刻冰回去，不要整餐放在外面；也絕對不要把新做的拌進舊的剩料裡。",
+  "freezer": "雞蛋沙拉沒有公布的冷凍期限，而且冷凍在兩方面都不好：美乃滋的乳化會不可逆地崩解，熟蛋白冷凍後解凍會變得又韌又出水，最後你得到的是一灘油水，裡面浮著韌韌的蛋白和散掉的蛋黃。水煮蛋煮太多的話，請整顆帶殼冰著，要吃再現拌。",
+  "thawing": null,
+  "spoilage": [
+   "硫味或酸味比正常的蛋味更尖銳。",
+   "醬汁油水分離，底下積出水。",
+   "蛋塊摸起來黏滑或發黏。",
+   "出現霉，或表面泛灰綠的薄膜。"
+  ],
+  "tips": [
+   "水煮蛋先徹底冰透再切拌。",
+   "分到架在冰上的碗裡上桌，不要直接端保存盒。",
+   "絕對不要把新的補進舊的剩料裡。",
+   "與其冷凍拌好的沙拉，不如整顆帶殼冷藏。"
+  ],
+  "faq": [
+   {
+    "q": "雞蛋沙拉可以放多久？",
+    "a": "加蓋容器放 4 °C 以下冷藏 3～4 天。"
+   },
+   {
+    "q": "是美乃滋讓雞蛋沙拉變危險的嗎？",
+    "a": "不是。市售美乃滋經過酸化並使用殺菌蛋液。風險來自切碎的水煮蛋，以及它離開冰箱的時間。"
+   },
+   {
+    "q": "雞蛋沙拉可以冷凍嗎？",
+    "a": "沒有公布的期限，也不值得。醬會分離、熟蛋白會變韌。請改成整顆帶殼冷藏。"
+   }
+  ]
+ }
+}

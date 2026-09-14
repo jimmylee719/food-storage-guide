@@ -1,0 +1,83 @@
+{
+ "slug": "papad",
+ "en": {
+  "name": "Papad (uncooked lentil wafers)",
+  "aliases": [
+   "papadum",
+   "appalam",
+   "印度脆餅",
+   "lentil wafers"
+  ],
+  "summary": "Uncooked papad keeps roughly 6–12 months sealed in a cool dry cupboard. No authority publishes a figure for papad, so read that range as a careful reading of general guidance on dried foods and dried pulses; a commercially packed sleeve carries its own printed date, and that date should win.",
+  "pantry": "The whole preservation system here is dryness, and the storage instruction follows from it: keep the discs in a sealed jar or their original sealed sleeve, in a cool dark cupboard away from the stove. Take 6–12 months as a working range rather than a published limit — general guidance on dried foods gives anything from a few months to a year depending on temperature, and warns specifically that food packed bone dry will still spoil if it reabsorbs moisture in storage. Commercially packed papad is usually dated rather more tightly than that, and the printed date is the better guide when you have one.",
+  "fridge": "Papad does not need the fridge and in most kitchens is worse off there, because a fridge is humid and every trip in and out leaves condensation on a wafer that must stay bone dry. In a genuinely damp monsoon or Taiwanese-summer kitchen, a hard-sealed jar or tin in the fridge is defensible; seal it properly and let the jar warm to room temperature before opening. Fried or roasted papads are a different matter — they go limp within hours and are not worth keeping at all.",
+  "freezer": "No freezer timeline is published for papad and there is little reason to freeze it. Freezing does not address the failure mode, which is reabsorbed moisture rather than elapsed time, and the wafers are brittle enough to shatter when handled cold. If you must store a large quantity, divide it between several airtight jars in a cupboard so that most of them stay unopened.",
+  "thawing": null,
+  "spoilage": [
+   "A musty smell, or any visible mould — discard the whole batch.",
+   "Discs that have gone soft and bendy instead of snapping cleanly.",
+   "A rancid smell from the oil in a spiced or oiled variety.",
+   "Insect holes, webbing or fine dust in the jar."
+  ],
+  "tips": [
+   "Keep the discs flat and stacked in a rigid tin; loose discs crack and crumble.",
+   "A softened papad can be dried in the sun or a low oven before frying.",
+   "Reseal immediately; humidity is the only thing that ends a packet.",
+   "Fry or roast only what you will eat now — cooked papads go limp within hours."
+  ],
+  "faq": [
+   {
+    "q": "How long does papad keep?",
+    "a": "Roughly 6–12 months sealed in a cool dry cupboard. That range is a reading of general dried-food guidance, not a published papad figure — follow the printed date on a commercial pack."
+   },
+   {
+    "q": "Why has my papad gone soft?",
+    "a": "It has picked up moisture. Dry it in the sun or a low oven before frying. Only discard it if it smells musty or shows mould."
+   },
+   {
+    "q": "Can you store cooked papad?",
+    "a": "Not usefully. Fried or roasted papads go limp within hours, so cook them to order."
+   }
+  ]
+ },
+ "zh": {
+  "name": "印度脆餅（papad）",
+  "aliases": [
+   "帕帕德",
+   "豆薄餅",
+   "papadum",
+   "印度豆脆片"
+  ],
+  "summary": "未炸的印度脆餅密封放陰涼乾燥的櫥櫃大約 6～12 個月。沒有任何單位為 papad 公布過期限，所以這個範圍是對乾燥食品與乾豆類通則的謹慎解讀；市售包裝上有自己的日期，有日期時以日期為準。",
+  "pantry": "這裡的保存系統就是「乾」，保存方法也全部由此推出：把餅片放在密封罐或原本的密封袋裡，放陰涼避光、遠離爐台的櫥櫃。請把 6～12 個月當成工作範圍而不是公布上限——乾燥食品的一般性建議會依溫度給出從幾個月到一年不等的數字，而且特別提醒：即使包裝時已經乾透，只要在儲存期間重新吸回水分，一樣會壞。市售包裝的日期通常比這個範圍保守，有的話請以它為準。",
+  "fridge": "印度脆餅不需要冰箱，在大多數廚房裡冰了反而更糟，因為冰箱潮濕，每一次進出都在一片必須乾透的薄餅上留下水氣。如果是真正潮濕的雨季或台灣夏天，用密封確實的罐子或鐵盒放冰箱是說得過去的；密封要做足，而且罐子要回到室溫再打開。炸過或烤過的脆餅則是另一回事：它幾小時內就會軟掉，根本不值得留。",
+  "freezer": "papad 沒有公布的冷凍期限，也沒什麼理由冷凍。冷凍處理不了它真正的失敗模式——那是重新吸水，不是時間——而且冰冷的餅片又脆又容易碎。真要存一大批，請分裝成好幾個密封罐放櫥櫃，讓大部分維持未開封狀態。",
+  "thawing": null,
+  "spoilage": [
+   "有霉味，或看得到霉——整批丟掉。",
+   "餅片變軟可折，而不是清脆折斷。",
+   "含油或加香料的款式發出油耗味。",
+   "有蟲孔、絲網，或罐底出現細粉。"
+  ],
+  "tips": [
+   "餅片平放疊好放硬殼鐵盒，散裝容易裂碎。",
+   "軟掉的餅可以曬太陽或用低溫烤箱烘乾，再下鍋炸。",
+   "用完立刻密封，濕氣是唯一會終結一包的東西。",
+   "現吃現炸，炸好的脆餅幾小時內就軟。"
+  ],
+  "faq": [
+   {
+    "q": "印度脆餅可以放多久？",
+    "a": "密封放陰涼乾燥的櫥櫃大約 6～12 個月。這是乾燥食品通則的解讀，不是 papad 專屬的公布數字；市售包裝請以標示日期為準。"
+   },
+   {
+    "q": "脆餅變軟了怎麼辦？",
+    "a": "那是吸了水氣。炸之前曬一下太陽或用低溫烤箱烘乾即可。只有出現霉味或霉點才要丟。"
+   },
+   {
+    "q": "炸好的脆餅可以保存嗎？",
+    "a": "幾乎不行。炸過或烤過的幾小時內就會軟掉，要吃才做。"
+   }
+  ]
+ }
+}

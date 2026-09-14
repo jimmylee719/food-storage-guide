@@ -1,0 +1,83 @@
+{
+ "slug": "peanut-butter-commercial",
+ "en": {
+  "name": "Peanut butter, commercial",
+  "aliases": [
+   "peanut spread",
+   "smooth peanut butter",
+   "花生醬",
+   "mantequilla de cacahuete"
+  ],
+  "summary": "A commercial jar of peanut butter keeps 6–24 months from purchase unopened in the cupboard, and 2–3 months once opened. It is a fat-and-protein paste with almost no free water, so what ends a jar is rancid oil, not bacteria.",
+  "pantry": "Cool, dry and dark: 6–24 months from purchase while the jar is sealed, and 2–3 months after opening. That wide unopened range is the difference between a jar bought fresh off a fast-moving shelf and one that has been sitting in a warehouse, so the printed date is worth reading. Understand what you are storing against: peanut butter has too little available water for bacteria to grow in, and it fails by oxidation instead — the oil goes stale, then frankly rancid, tasting bitter and smelling of old paint. Warmth and light drive that, so keep the jar away from the hob and the window, and close it properly.",
+  "fridge": "Refrigeration is not required for a commercial jar and is mostly a trade-off: cold slows the oil down, which is the only thing that matters here, but it also makes the butter stiff and hard to spread and does nothing for safety, because there is nothing pathogenic to slow. If your kitchen runs hot, or if you have a large jar you will be working through slowly, the fridge is a reasonable choice. Otherwise the cupboard is easier, provided you use a clean dry knife every time — crumbs and moisture from a used knife are the one route by which mould gets into a jar.",
+  "freezer": "No freezer timeline is published for commercial peanut butter, and a jar that already keeps for months in a cupboard has little to gain. Freezing does no harm and will hold the oil still, but the texture goes stiff and slightly grainy and you have to thaw the whole jar to use any of it. Freezing is more useful in portions — a scoop frozen in an ice cube tray for smoothies or satay sauce — than as a way of storing the jar itself.",
+  "thawing": "Thaw a frozen jar or portion in the fridge and then let it come up to room temperature; stir the oil back in before use. Do not microwave a sealed jar.",
+  "spoilage": [
+   "A sharp, bitter, paint-like smell — rancid oil is the usual failure.",
+   "A bitter or soapy taste even though the jar looks normal.",
+   "A dark, dry, hardened surface layer under the lid.",
+   "Mould on the surface or around the rim, usually from a used or wet knife."
+  ],
+  "tips": [
+   "Use a clean dry knife every time; never double-dip after buttering bread.",
+   "Wipe the rim before closing so the lid seats properly.",
+   "Keep it out of the sun and away from the hob — heat is what turns the oil.",
+   "Buy the jar size your household finishes within the opened window."
+  ],
+  "faq": [
+   {
+    "q": "How long does peanut butter last once opened?",
+    "a": "2–3 months in a cool dry cupboard with the lid closed. Unopened, 6–24 months from purchase."
+   },
+   {
+    "q": "Does peanut butter need to be refrigerated?",
+    "a": "Commercial peanut butter does not. Cold slows the oil from going rancid but makes it hard to spread, and it is not a safety measure."
+   },
+   {
+    "q": "How can you tell if peanut butter has gone bad?",
+    "a": "Smell and taste it. Rancid oil smells like old paint and tastes bitter. Mould at the surface or rim means the jar goes."
+   }
+  ]
+ },
+ "zh": {
+  "name": "市售花生醬",
+  "aliases": [
+   "花生抹醬",
+   "顆粒花生醬",
+   "滑順花生醬",
+   "peanut butter"
+  ],
+  "summary": "市售花生醬未開封從購買日起算放櫥櫃可放 6～24 個月，開封後則是 2～3 個月。它是幾乎不含自由水的油脂與蛋白質糊，終結一罐的是走油（油耗），不是細菌。",
+  "pantry": "陰涼、乾燥、避光：未開封自購買日起 6～24 個月，開封後 2～3 個月。未開封的範圍之所以拉得這麼寬，差別在於你買到的是週轉快的貨架上的新鮮罐，還是在倉庫躺很久的那一罐，所以包裝上的日期很值得看。也要弄清楚你在防的是什麼：花生醬的可利用水分太少，細菌長不起來，它是靠氧化壞掉的——油先走味，然後徹底變成油耗，入口發苦、聞起來像舊油漆。高溫和光線會加速這件事，所以罐子要遠離爐台和窗邊，並且好好蓋緊。",
+  "fridge": "市售罐裝花生醬不需要冷藏，冷藏比較像一種取捨：低溫會拖慢油脂變化，而那正是這裡唯一重要的事；但它同時讓花生醬變硬難抹，對安全也沒有幫助，因為根本沒有病原菌需要被拖慢。如果廚房很熱，或你買了一大罐要慢慢用，冷藏是合理的選擇。否則放櫥櫃更方便——前提是每次都用乾淨乾燥的刀，因為用過的刀帶進去的麵包屑與水分，是霉菌進入罐子的唯一途徑。",
+  "freezer": "市售花生醬沒有公布的冷凍期限，一罐本來就能在櫥櫃放好幾個月的東西，從冷凍得到的也有限。冷凍不會有害，也確實能把油脂的變化壓住，但質地會變硬、微微帶砂，而且要用一點就得整罐解凍。冷凍比較實用的方式是分份——挖幾球冷凍在製冰盒裡，之後打果昔或做沙嗲醬——而不是拿來存整罐。",
+  "thawing": "冷凍的整罐或小份放冷藏解凍，再回到室溫；使用前把浮出的油攪回去。不要把密封的罐子直接微波。",
+  "spoilage": [
+   "聞起來尖銳、發苦、像舊油漆——油耗是最常見的壞法。",
+   "外觀正常但吃起來發苦或帶肥皂味。",
+   "蓋子底下出現一層變深、變乾變硬的表層。",
+   "表面或罐口長霉，通常來自用過或沾濕的刀。"
+  ],
+  "tips": [
+   "每次都用乾淨乾燥的刀，抹過麵包的刀不要再插回罐子。",
+   "蓋回去之前先擦罐口，蓋子才蓋得密。",
+   "避免日曬、遠離爐台，溫度就是讓油走味的原因。",
+   "買家裡在開封期限內用得完的容量。"
+  ],
+  "faq": [
+   {
+    "q": "花生醬開封後可以放多久？",
+    "a": "蓋好放陰涼乾燥的櫥櫃 2～3 個月。未開封則是自購買日起 6～24 個月。"
+   },
+   {
+    "q": "花生醬需要冷藏嗎？",
+    "a": "市售花生醬不需要。低溫能拖慢油耗，但會變硬難抹，而且那不是安全措施。"
+   },
+   {
+    "q": "怎麼判斷花生醬壞了？",
+    "a": "用聞的和吃的。油耗味像舊油漆、入口發苦。表面或罐口長霉就整罐丟掉。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "mushrooms-dried",
+ "en": {
+  "name": "Dried mushrooms",
+  "aliases": [
+   "dehydrated mushrooms",
+   "dried porcini",
+   "乾燥菇類",
+   "setas secas"
+  ],
+  "summary": "Dried mushrooms keep 1–2 years from purchase while the pack is sealed, and about 3 months once it is opened. Soaked mushrooms are a different food entirely — they are fresh, perishable and should be refrigerated while they soak and used straight away.",
+  "pantry": "Sealed, in a cool, dry, dark cupboard, 1–2 years from purchase; once the pack is open, about 3 months. That sharp drop is not arbitrary — dried mushrooms are porous and thirsty, and an opened bag in an ordinary kitchen picks up enough humidity within a season to go soft, lose its aroma and eventually mould. Decant an opened pack into a sealed glass jar with the desiccant sachet, keep it away from the hob and out of the light, and check it when you open it: a jar that smells of nothing has already lost the point of the ingredient.",
+  "fridge": "Dried mushrooms do not need refrigeration, but in a humid kitchen a tightly sealed jar in the fridge protects them better than a cupboard does. Seal it hard — they take up fridge odours instantly and any absorbed moisture starts mould. Soaking is where the real care is needed: soak in cold water for no more than two hours at room temperature, and put the bowl in the fridge if it needs longer than that or is going to soak overnight. Use the soaked mushrooms at once, and throw them out if they turn slimy or smell wrong.",
+  "freezer": "No freezer timeline is published for dried mushrooms. Freezing the dry product does little for something whose enemy is moisture rather than time, and taking a cold pack out into a warm kitchen invites condensation, which is the one thing you are trying to avoid. If you freeze a bulk purchase, seal it airtight and let it return to room temperature before opening. Cooked mushroom dishes and mushroom stock freeze well, and that is the more useful use of the space.",
+  "thawing": null,
+  "spoilage": [
+   "Musty, sour or ammonia-like smell rather than a deep savoury one.",
+   "Caps that feel soft, damp or bendy instead of brittle.",
+   "Visible mould, or clumping into a solid mass.",
+   "Soaked mushrooms that turn slimy or smell off — discard them and the water."
+  ],
+  "tips": [
+   "Decant an opened pack into a sealed jar; the bag is not a long-term container.",
+   "Keep the desiccant sachet with them and reseal after every use.",
+   "Soak in cold water and refrigerate the bowl if it will take longer than a couple of hours.",
+   "Strain the soaking water through a cloth and use it as stock, if the mushrooms were sound."
+  ],
+  "faq": [
+   {
+    "q": "How long do dried mushrooms keep once opened?",
+    "a": "About 3 months in a sealed jar in a cool dry cupboard. Unopened, 1–2 years from purchase."
+   },
+   {
+    "q": "Do dried mushrooms need to be refrigerated?",
+    "a": "Not necessarily, but in a humid kitchen a sealed jar in the fridge keeps them better. Seal it hard against odours and damp."
+   },
+   {
+    "q": "How long can you soak dried mushrooms?",
+    "a": "No more than two hours at room temperature. If they need longer, or you want to soak them overnight, put the bowl in the fridge and use them as soon as they are ready."
+   }
+  ]
+ },
+ "zh": {
+  "name": "乾燥菇類",
+  "aliases": [
+   "乾菇",
+   "脫水菇",
+   "牛肝菌乾",
+   "dried mushrooms"
+  ],
+  "summary": "乾燥菇類未開封從購買日起算可放 1～2 年，開封後約 3 個月。泡開後則完全是另一種食物：那是新鮮、易腐的，泡的過程要注意溫度，泡好就要馬上用。",
+  "pantry": "密封放陰涼、乾燥、避光的櫥櫃，自購買日起 1～2 年；包裝一開，約 3 個月。這個落差不是隨便訂的——乾菇多孔又很會吸水，開過的袋子放在一般廚房裡，一個季節就足以讓它變軟、香氣散掉，最後長霉。開封後請倒進密封玻璃罐，連乾燥劑一起放，遠離爐台與光線；而且每次開罐都聞一下：一罐聞起來什麼味道都沒有的乾菇，已經失去這項食材存在的意義了。",
+  "fridge": "乾菇不一定要冷藏，但在潮濕的廚房裡，密封罐放冰箱會比放櫥櫃安全。密封一定要確實——它吸冰箱味道的速度快得驚人，而吸到的水氣就是霉的起點。真正需要小心的是泡發：用冷水泡，室溫下不要超過兩小時；如果需要更久、或是要泡整晚，就把整碗放進冰箱。泡好立刻使用，一旦變得黏滑或聞起來不對，連水一起倒掉。",
+  "freezer": "乾燥菇類沒有公布的冷凍期限。對一個敵人是水分而不是時間的東西來說，冷凍幫助有限，而且把冰過的袋子拿到溫暖的廚房會結露，那正是你最想避免的事。真要冷凍一大包，請密封確實並等回到室溫再拆。煮好的菇料理和菇高湯倒是很適合冷凍，那才是更值得用的冷凍庫空間。",
+  "thawing": null,
+  "spoilage": [
+   "聞起來有霉味、酸味或氨味，而不是濃郁的鮮香。",
+   "菇體摸起來軟、潮、可折彎，而不是脆的。",
+   "看得到霉，或整包結成硬塊。",
+   "泡發後變黏滑或有異味——連泡的水一起丟掉。"
+  ],
+  "tips": [
+   "開封後倒進密封罐，塑膠袋不是長期容器。",
+   "乾燥劑留著一起放，每次用完重新封緊。",
+   "用冷水泡，需要超過兩小時就把整碗放冰箱。",
+   "菇本身沒問題的話，泡菇水用布過濾後就是很好的高湯。"
+  ],
+  "faq": [
+   {
+    "q": "乾香菇之類的乾菇開封後可以放多久？",
+    "a": "密封罐放陰涼乾燥處約 3 個月。未開封則是自購買日起 1～2 年。"
+   },
+   {
+    "q": "乾菇需要冰嗎？",
+    "a": "不一定，但在潮濕的廚房，密封放冰箱保存得更好。密封要做足，防味也防潮。"
+   },
+   {
+    "q": "乾菇可以泡多久？",
+    "a": "室溫下不要超過兩小時。需要更久或要泡整晚，就把碗放進冰箱，而且泡好要盡快使用。"
+   }
+  ]
+ }
+}

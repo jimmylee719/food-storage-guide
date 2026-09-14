@@ -1,0 +1,83 @@
+{
+ "slug": "grass-jelly",
+ "en": {
+  "name": "Grass jelly, set",
+  "aliases": [
+   "xiancao jelly",
+   "aiyu jelly",
+   "仙草凍",
+   "愛玉凍"
+  ],
+  "summary": "Set grass jelly keeps 1–2 days in the refrigerator at 4 °C (40 °F) or below, and the standard advice is to buy only what you will finish at one sitting. It should not be frozen, and it is not a counter food.",
+  "pantry": "Set jelly is not a pantry item. Grass jelly and aiyu are almost entirely water, with no acid and no salt in them, so they have nothing at all holding bacteria back — which is why the advice is to buy small and eat it the same day. Unopened canned or retort grass jelly is a different product: that is shelf-stable and follows its own printed date, but once the can or pouch is opened it becomes the refrigerated case below and should be treated exactly as a fresh set jelly.",
+  "fridge": "1–2 days at 4 °C (40 °F) or below, and no longer. Keep it sealed and lidded, and put it on the top shelf so that drips from anything stored above cannot land on it — a soft, wet, ready-to-eat jelly has no defence against cross-contamination. Store the jelly and the syrup separately; a bowl already sweetened, iced and topped will not keep at all. If it has released a lot of water and shrunk away from the sides of the tub, that is the gel weeping rather than spoilage, but it is a sign the jelly is past its best.",
+  "freezer": "Do not freeze grass jelly. Freezing destroys it outright: ice crystals rupture the gel network, and on thawing the jelly collapses and drains into a puddle of water with shreds of set jelly floating in it. There is no freezer timeline because there is no way to freeze it that produces anything edible. If you need to keep a batch longer than a day or two, the honest answer is to make less.",
+  "thawing": null,
+  "spoilage": [
+   "A sour or fermented smell rather than the faint herbal one.",
+   "A slimy or sticky surface film on the blocks.",
+   "Cloudy, ropy or bubbling liquid in the tub.",
+   "The jelly collapsing into water, or any mould on the surface."
+  ],
+  "tips": [
+   "Buy only what you will eat at one sitting.",
+   "Keep the jelly sealed and on the top shelf, away from drips.",
+   "Store syrup and toppings separately and assemble at the table.",
+   "Cut it with a clean knife and do not return unused portions to the tub."
+  ],
+  "faq": [
+   {
+    "q": "How long does grass jelly keep in the fridge?",
+    "a": "1–2 days at 4 °C (40 °F) or below, sealed and on the top shelf. The advice is to buy only what you will finish in one sitting."
+   },
+   {
+    "q": "Can you freeze grass jelly?",
+    "a": "No. Freezing ruptures the gel and it drains into water on thawing. There is no usable result."
+   },
+   {
+    "q": "What about canned grass jelly?",
+    "a": "Unopened cans and retort pouches are shelf-stable and follow their own printed date. Once opened, treat the contents exactly as fresh set jelly."
+   }
+  ]
+ },
+ "zh": {
+  "name": "仙草凍",
+  "aliases": [
+   "仙草",
+   "愛玉凍",
+   "燒仙草",
+   "愛玉"
+  ],
+  "summary": "做好的仙草凍冷藏 4 °C 以下可放 1～2 天，而標準建議是「買一次吃得完的量就好」。它不能冷凍，也不是可以放在檯面上的食物。",
+  "pantry": "凝固的仙草凍不是常溫食品。仙草與愛玉幾乎全是水，沒有酸也沒有鹽，等於完全沒有東西擋住細菌——這就是為什麼建議少量買、當天吃完。未開封的仙草罐頭或常溫調理包則是另一種產品：那是常溫食品，依自己印的日期使用；但只要罐子或袋子一開，它就變成下面那個冷藏情況，必須完全比照新鮮仙草凍處理。",
+  "fridge": "4 °C 以下 1～2 天，不要更久。請密封加蓋，並放在冰箱最上層，避免上方的食物滴下來——一塊柔軟、含水、即食的凍，對交叉污染毫無抵抗力。仙草與糖水要分開保存；已經加糖水、加冰、鋪好配料的那一碗，根本放不住。如果它大量出水、整塊縮離容器邊緣，那是凝膠脫水而不是腐敗，但也代表它已經過了最佳狀態。",
+  "freezer": "不要冷凍仙草凍。冷凍會直接毀掉它：冰晶把凝膠網絡撐破，解凍後整塊塌陷，變成一灘水加上幾片碎凍。它沒有冷凍期限，是因為沒有任何冷凍方式能得到可以吃的東西。真的需要放超過一兩天，誠實的答案是：少做一點。",
+  "thawing": null,
+  "spoilage": [
+   "聞起來發酸或有發酵味，而不是淡淡的草本香。",
+   "凍塊表面出現黏滑或發黏的薄膜。",
+   "容器裡的水變混濁、牽絲或冒泡。",
+   "整塊塌成水，或表面長霉。"
+  ],
+  "tips": [
+   "買一次吃得完的量。",
+   "密封並放冰箱最上層，避開滴落污染。",
+   "糖水與配料分開放，上桌時再組裝。",
+   "用乾淨的刀切，取出後不要再放回容器。"
+  ],
+  "faq": [
+   {
+    "q": "仙草凍冷藏可以放多久？",
+    "a": "密封放冰箱上層，4 °C 以下 1～2 天。建議是買一次吃得完的量。"
+   },
+   {
+    "q": "仙草凍可以冷凍嗎？",
+    "a": "不行。冷凍會破壞凝膠，解凍後整塊化成水，沒有可用的結果。"
+   },
+   {
+    "q": "罐裝仙草呢？",
+    "a": "未開封的罐頭與常溫包是常溫食品，依其標示日期。一開封就完全比照新鮮仙草凍處理。"
+   }
+  ]
+ }
+}

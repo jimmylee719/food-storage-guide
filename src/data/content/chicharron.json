@@ -1,0 +1,83 @@
+{
+ "slug": "chicharron",
+ "en": {
+  "name": "Chicharrón",
+  "aliases": [
+   "pork rind",
+   "pork crackling",
+   "炸豬皮",
+   "chicharrón prensado"
+  ],
+  "summary": "Sealed and dry, the puffed fried pork rind keeps 1–2 months from purchase in a cool dark cupboard. It fails by going soft and then rancid, not by growing anything. The meaty, wet styles are a different food altogether and belong in the fridge.",
+  "pantry": "Sealed and dry, somewhere cool and dark, 1–2 months from purchase. A puffed chicharrón is almost all rendered protein and fat with the water driven out of it, which is why it sits on a shelf at all — take that figure as a working one borrowed from crisps and similar fried snacks, which fail in exactly the same way, rather than as a figure published for chicharrón. Once the bag is open it goes limp within a week or two in humid weather; clip the bag hard or decant into a tin, and keep it away from the hob, where the fat turns faster.",
+  "fridge": "Do not refrigerate the dry puffed kind. The fridge is humid and a chicharrón will pull moisture out of the air and turn leathery, which is the one thing that ruins it. The fridge is for the wet styles instead — chicharrón prensado, chicharrón en salsa verde, or a meaty chicharrón still soft with fat. Those are cooked meat rather than a snack, and they keep 3 to 4 days at or below 4 °C (40 °F). If in doubt about which you have, the test is simple: if it bends, refrigerate it.",
+  "freezer": "No freezer timeline is published for chicharrón in either form. Freezing the dry puffed kind achieves nothing — its problem is humidity, not time, and the condensation on the way out is exactly what you are trying to avoid. Cooked meaty chicharrón and chicharrón en salsa do freeze like any cooked pork dish, in portions, cooled quickly before they go in and reheated until steaming.",
+  "thawing": "For the wet, meaty styles, thaw in the fridge and reheat until steaming hot. The dry puffed kind is not frozen or thawed at all.",
+  "spoilage": [
+   "A rancid, paint-like smell from the fat — the usual failure in the dry kind.",
+   "Pieces that have gone soft, leathery or chewy instead of shattering.",
+   "A sour or off smell, or a slimy surface, on the wet meaty styles.",
+   "Mould anywhere, or an oily stain spreading through the bag."
+  ],
+  "tips": [
+   "Clip the bag or decant into a tin the moment you open it.",
+   "Keep it away from the hob and out of the sun; heat turns the fat.",
+   "Never refrigerate the dry puffed kind — it goes leathery.",
+   "If it bends, it is the meaty kind and belongs in the fridge."
+  ],
+  "faq": [
+   {
+    "q": "How long does chicharrón keep?",
+    "a": "1–2 months from purchase, sealed and dry in a cool dark cupboard. That is a working figure borrowed from fried snacks, not one published for chicharrón."
+   },
+   {
+    "q": "Should chicharrón be refrigerated?",
+    "a": "Not the dry puffed kind — the fridge makes it leathery. The wet, meaty styles are cooked meat and must be refrigerated."
+   },
+   {
+    "q": "My chicharrón has gone soft. Is it off?",
+    "a": "Not necessarily. Softness is absorbed moisture and a low oven can crisp it again. A rancid, painty smell is the real warning."
+   }
+  ]
+ },
+ "zh": {
+  "name": "炸豬皮（chicharrón）",
+  "aliases": [
+   "豬皮酥",
+   "脆豬皮",
+   "豬油渣",
+   "chicharrón"
+  ],
+  "summary": "密封乾燥的膨化炸豬皮，自購買日起放陰涼暗處可放 1～2 個月。它壞掉的方式是先變軟、再走油，而不是長出什麼。帶肉、濕潤的那幾種則完全是另一種食物，該住冰箱。",
+  "pantry": "密封、乾燥，放陰涼避光處，自購買日起 1～2 個月。膨化的 chicharrón 幾乎全是被逼出水分之後的蛋白質與油脂，這才是它能放在架上的原因——請把這個數字當成向洋芋片等油炸零食借來的工作值（它們的壞法一模一樣），而不是為 chicharrón 公布的數據。袋子一開，在潮濕的天氣裡一兩週就會軟掉；請把袋口夾緊或倒進鐵罐，並遠離爐台，那裡的溫度會讓油脂更快變質。",
+  "fridge": "乾的膨化豬皮不要冷藏。冰箱潮濕，豬皮會把空氣中的水氣抓過來、變得又韌又皮，那正是唯一能毀掉它的事。冰箱是留給濕的那幾種的——chicharrón prensado、青醬燉豬皮，或是仍然帶油帶肉、軟軟的那種。那些是煮熟的肉而不是零食，在 4 °C 以下可放 3 到 4 天。分不清手上是哪一種的話，判斷很簡單：會彎的就冰起來。",
+  "freezer": "不論哪一種 chicharrón 都沒有公布的冷凍期限。把乾的膨化豬皮冷凍毫無意義——它的問題是濕度不是時間，而拿出來時的結露正是你最想避免的。帶肉的熟豬皮與燉在醬汁裡的版本，則可以比照任何熟豬肉料理冷凍：分份、下冷凍前先快速降溫、回熱到冒蒸氣。",
+  "thawing": "濕的、帶肉的版本請放冷藏解凍，並加熱到冒蒸氣。乾的膨化豬皮則根本不需要冷凍與解凍。",
+  "spoilage": [
+   "油脂發出油耗味、像油漆的氣味——乾的那種最常見的壞法。",
+   "變軟、變韌、咬起來有嚼勁，而不是入口即碎。",
+   "濕的帶肉版本出現酸味、異味或表面黏滑。",
+   "任何部位長霉，或袋子上出現擴散的油漬。"
+  ],
+  "tips": [
+   "一開袋就夾緊袋口或倒進鐵罐。",
+   "遠離爐台與陽光，溫度會讓油脂變質。",
+   "乾的膨化豬皮絕對不要冷藏，會變韌。",
+   "會彎的就是帶肉的那種，該冰冰箱。"
+  ],
+  "faq": [
+   {
+    "q": "炸豬皮可以放多久？",
+    "a": "密封乾燥放陰涼暗處，自購買日起 1～2 個月。這是向油炸零食借來的工作值，不是為 chicharrón 公布的數字。"
+   },
+   {
+    "q": "炸豬皮需要冷藏嗎？",
+    "a": "乾的膨化款不要，冰箱會讓它變韌。濕的帶肉款是熟肉，必須冷藏。"
+   },
+   {
+    "q": "豬皮變軟了是壞掉嗎？",
+    "a": "不一定。變軟是吸了水氣，用低溫烤箱可以再烘脆。有油耗味、像油漆的氣味才是真正的警訊。"
+   }
+  ]
+ }
+}

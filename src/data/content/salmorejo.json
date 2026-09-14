@@ -1,0 +1,83 @@
+{
+ "slug": "salmorejo",
+ "en": {
+  "name": "Salmorejo",
+  "aliases": [
+   "salmorejo cordobés",
+   "thick cold tomato soup",
+   "濃稠番茄冷湯",
+   "科爾多瓦番茄冷湯"
+  ],
+  "summary": "Salmorejo keeps 1–2 days in the refrigerator at 4 °C (40 °F) or below — shorter than gazpacho, and for a specific reason: it is a raw emulsion very often made with raw egg, and it is finished with chopped boiled egg and jamón. It should not be frozen.",
+  "pantry": "Salmorejo is raw, and it frequently contains raw egg or egg yolk to help the emulsion hold. That is the reason for the short window. The relevant food-safety rule is strict: raw egg may be used only where the preparation is heat-treated to 70 °C or above for two seconds, and otherwise pasteurised egg products should be used instead; where such a preparation is made and held, it must be kept at 8 °C or below and eaten within a maximum of twenty-four hours. That is written for food service, but it is the right instinct for a home kitchen in August. Never leave it standing on a summer table.",
+  "fridge": "1–2 days at 4 °C (40 °F) or below, covered, and eat it the day it is made or the next. Read that as a careful reading of the twenty-four-hour rule for held egg preparations rather than as a published shelf life for salmorejo — no agency publishes one. Keep the toppings separate: chopped boiled egg and jamón scattered over the surface bring their own clocks and make the bowl impossible to judge. If you want salmorejo to keep at all, make it without the raw yolk, or use pasteurised egg.",
+  "freezer": "Do not freeze it. The whole point of salmorejo is a stable emulsion of oil, bread and tomato, and freezing breaks that irreversibly — the oil separates out, the bread goes pulpy and the tomato waters down, and no amount of re-blending puts it back. There is no freezer timeline because there is no version of this dish that survives the freezer. Make a smaller batch instead.",
+  "thawing": null,
+  "spoilage": [
+   "A fizzy taste or a yeasty smell — it is fermenting.",
+   "The emulsion splitting, with oil floating clear on top.",
+   "A sour or sharply off smell beyond the vinegar in the recipe.",
+   "Any mould at the surface, or a slimy texture."
+  ],
+  "tips": [
+   "Use pasteurised egg if you want more than a day out of it.",
+   "Keep the egg and jamón toppings separate until serving.",
+   "Chill it immediately after blending, covered.",
+   "Serve the jug standing in ice rather than leaving it on a hot table."
+  ],
+  "faq": [
+   {
+    "q": "How long does salmorejo keep?",
+    "a": "1–2 days refrigerated at 4 °C (40 °F) or below. That reflects the twenty-four-hour rule for held egg preparations rather than a published figure for salmorejo."
+   },
+   {
+    "q": "Why does salmorejo keep less time than gazpacho?",
+    "a": "Because it is usually made with raw egg or yolk and topped with boiled egg and jamón. Gazpacho traditionally has no egg in it."
+   },
+   {
+    "q": "Can you freeze salmorejo?",
+    "a": "No. Freezing breaks the oil-and-bread emulsion irreversibly, and re-blending will not fix it."
+   }
+  ]
+ },
+ "zh": {
+  "name": "西班牙濃番茄冷湯（salmorejo）",
+  "aliases": [
+   "salmorejo",
+   "科爾多瓦冷湯",
+   "番茄麵包冷湯",
+   "濃稠番茄冷湯"
+  ],
+  "summary": "Salmorejo 冷藏 4 °C 以下可放 1～2 天——比 gazpacho 更短，而且理由很具體：它是生的乳化物，而且經常加生蛋（或蛋黃）幫助乳化，上面還鋪水煮蛋碎和生火腿。它不能冷凍。",
+  "pantry": "Salmorejo 是生的，而且經常含生蛋或蛋黃來讓乳化穩定。這正是期限很短的原因。相關的食安規則相當嚴格：只有在製程能加熱到 70 °C 以上兩秒的情況下才可使用生蛋，否則應改用殺菌蛋液；而這類製備品若要存放，必須保持在 8 °C 以下，並在最多二十四小時內食用完畢。那條規則是寫給餐飲業的，但對八月的家庭廚房來說，它指向的直覺完全正確。絕對不要把它放在夏天的餐桌上晾著。",
+  "fridge": "加蓋放 4 °C 以下 1～2 天，當天或隔天吃完。請把這個數字理解成「對含蛋製備品二十四小時上限的謹慎解讀」，而不是為 salmorejo 公布的保存期限——沒有任何單位公布過。配料要分開：撒在表面的水煮蛋碎與生火腿各自帶著自己的時鐘進來，會讓整碗變得無法判斷。真的想讓它放得住，就做不加生蛋黃的版本，或改用殺菌蛋液。",
+  "freezer": "不要冷凍。Salmorejo 的靈魂就是油、麵包與番茄形成的穩定乳化，而冷凍會把它不可逆地破壞——油浮出來、麵包糊爛、番茄出水，再怎麼重打都回不去。它沒有冷凍期限，是因為根本沒有哪種版本撐得過冷凍庫。與其冷凍，不如少做一點。",
+  "thawing": null,
+  "spoilage": [
+   "喝起來有氣泡感或聞起來有酵母味——它在發酵。",
+   "乳化崩解，表面浮出一層清澈的油。",
+   "酸味或異味超出食譜裡那點醋該有的程度。",
+   "表面長霉，或質地變得黏滑。"
+  ],
+  "tips": [
+   "想放超過一天，就改用殺菌蛋液。",
+   "水煮蛋與生火腿等配料，上桌前再加。",
+   "打好立刻加蓋冷藏。",
+   "上桌時把壺放在冰盆裡，不要留在炎熱的桌上。"
+  ],
+  "faq": [
+   {
+    "q": "salmorejo 可以放多久？",
+    "a": "冷藏 4 °C 以下 1～2 天。這反映的是含蛋製備品二十四小時的規則，而不是為 salmorejo 公布的數字。"
+   },
+   {
+    "q": "為什麼比 gazpacho 更短？",
+    "a": "因為它通常含生蛋或蛋黃，上面還鋪水煮蛋與生火腿。傳統的 gazpacho 裡並沒有蛋。"
+   },
+   {
+    "q": "salmorejo 可以冷凍嗎？",
+    "a": "不行。冷凍會不可逆地破壞油與麵包的乳化，重打也救不回來。"
+   }
+  ]
+ }
+}

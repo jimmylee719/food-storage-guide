@@ -1,0 +1,83 @@
+{
+ "slug": "carnitas",
+ "en": {
+  "name": "Carnitas",
+  "aliases": [
+   "confit pork",
+   "Michoacán carnitas",
+   "墨西哥燉豬肉",
+   "carnitas de cerdo"
+  ],
+  "summary": "Carnitas — pork cooked slowly in its own fat — keeps 3–4 days in the refrigerator at 4 °C (40 °F) or below, and 2–3 months in the freezer at −18 °C (0 °F). The critical step is cooling it fast, not the fat it sits in.",
+  "pantry": "A pot of carnitas must not be left to cool slowly on the stove. Cooked meat and meat dishes belong at 4 °C (40 °F) or below, and a deep tub of hot pork sitting in fat holds its heat for hours — the middle of it stays in the danger zone between 4 and 60 °C long after the surface feels cool, which is exactly what lets Clostridium perfringens multiply. Divide it into shallow containers within two hours of it coming out of the pot, one hour if the kitchen is above 32 °C (90 °F). The traditional picture of pork keeping for weeks under a sealed cap of lard belongs to unrefrigerated kitchens and to a much drier, saltier confit than a tub from a taquería.",
+  "fridge": "3–4 days at 4 °C (40 °F) or below, in a covered shallow container. Keeping the meat submerged in its own strained fat does help — it seals the surface from air and stops it drying — but it is not a cure and it does not extend the safe window, so do not let the fat cap talk you past the fourth day. Reheat only the portion you are going to eat, and get it properly hot rather than merely warm.",
+  "freezer": "2–3 months at −18 °C (0 °F). Freeze it in meal-sized portions with a spoonful of the fat and a splash of the cooking juices in each, which is what stops the meat drying into string on reheating. Press the air out of the bags and lay them flat so they thaw evenly. Reheat spread out in a hot dry pan so the edges crisp; a microwave steams carnitas into something soft and grey, which defeats the point.",
+  "thawing": "Thaw in the fridge overnight, or reheat straight from frozen in a covered pan with a little of its juices. Never thaw it on the counter, and do not refreeze thawed meat.",
+  "spoilage": [
+   "A sour, sharp or fermented smell instead of roasted pork and fat.",
+   "A slimy or sticky film on the meat.",
+   "Fat that has turned rancid — a smell like old crayons or paint.",
+   "Any mould, or grey-green patches through the meat."
+  ],
+  "tips": [
+   "Spread it in shallow containers to cool, never a deep tub.",
+   "Freeze in portions with a little fat and juice in each bag.",
+   "Crisp it in a hot dry pan, not in the microwave.",
+   "Reheat only what you will eat; do not reheat the whole batch repeatedly."
+  ],
+  "faq": [
+   {
+    "q": "How long do carnitas keep in the fridge?",
+    "a": "3–4 days at 4 °C (40 °F) or below, in a covered shallow container."
+   },
+   {
+    "q": "Does the layer of fat make carnitas keep longer?",
+    "a": "No. It keeps air off the meat and stops it drying, but it does not extend the safe refrigerated window."
+   },
+   {
+    "q": "Can you freeze carnitas?",
+    "a": "Yes, 2–3 months at −18 °C (0 °F). Freeze them in portions with a little fat and cooking juice, and crisp them in a hot pan from frozen."
+   }
+  ]
+ },
+ "zh": {
+  "name": "墨西哥油封豬肉（carnitas）",
+  "aliases": [
+   "油封豬肉",
+   "墨西哥手撕豬肉",
+   "carnitas",
+   "米卻肯燉豬"
+  ],
+  "summary": "Carnitas 是以自身油脂慢煮的豬肉，冷藏 4 °C 以下可放 3～4 天，冷凍 −18 °C 下 2～3 個月。真正關鍵的步驟是「快速降溫」，而不是它泡著的那層油。",
+  "pantry": "一鍋 carnitas 絕對不能留在爐上慢慢放涼。熟肉與肉類料理該待在 4 °C 以下，而一大盆泡在油裡的熱豬肉會保溫好幾個小時——表面摸起來涼了，中心仍然停在 4 到 60 °C 的危險溫度帶，而那正是產氣莢膜梭菌大量繁殖的條件。請在起鍋後兩小時內分裝進淺容器，廚房超過 32 °C 時縮短為一小時。「豬肉封在豬油下可以放好幾週」那幅傳統畫面，屬於沒有冰箱的年代，而且指的是比 taquería 那盒乾得多、鹹得多的油封肉。",
+  "fridge": "4 °C 以下 3～4 天，裝在加蓋的淺容器裡。讓肉浸在濾過的油脂裡確實有幫助——它隔絕空氣、防止乾柴——但那不是解方，也不會延長安全期限，所以不要被那層油騙到第五天。要吃多少熱多少，而且要熱透，不是熱到溫溫的就好。",
+  "freezer": "−18 °C 下 2～3 個月。請分成一餐的份量冷凍，每一份都加一匙油和一點原汁，那才是防止再加熱時肉變得乾柴如絲的關鍵。把袋子裡的空氣壓掉、平放冷凍，解凍才會均勻。回熱時攤開在熱的乾鍋裡，邊緣才會焦香；用微波只會把 carnitas 蒸成一堆灰灰軟軟的東西，完全失去意義。",
+  "thawing": "放冷藏隔夜解凍，或直接從冷凍下鍋、加一點原汁蓋著加熱。不要放室溫退冰，解凍過的肉也不要再冷凍。",
+  "spoilage": [
+   "聞起來發酸、刺鼻或有發酵味，而不是烤豬肉與油脂的香氣。",
+   "肉的表面出現黏滑或發黏的薄膜。",
+   "油脂走油，聞起來像舊蠟筆或油漆。",
+   "出現霉，或肉裡有灰綠色的斑。"
+  ],
+  "tips": [
+   "用淺容器攤開降溫，絕對不要用深盆。",
+   "分份冷凍，每袋加一點油和原汁。",
+   "用熱的乾鍋煎脆，不要微波。",
+   "要吃多少熱多少，不要整批反覆回熱。"
+  ],
+  "faq": [
+   {
+    "q": "carnitas 冷藏可以放多久？",
+    "a": "加蓋的淺容器放 4 °C 以下 3～4 天。"
+   },
+   {
+    "q": "泡在油裡是不是就能放比較久？",
+    "a": "不會。那層油隔絕空氣、避免乾柴，但不會延長安全的冷藏期限。"
+   },
+   {
+    "q": "carnitas 可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2～3 個月。分份冷凍並加一點油與原汁，回熱時直接下熱鍋煎脆。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "soup-stews",
+ "en": {
+  "name": "Soups and stews",
+  "aliases": [
+   "broth",
+   "casserole stew",
+   "湯品與燉菜",
+   "sopas y guisos"
+  ],
+  "summary": "Cooked soups and stews keep 3–4 days in the refrigerator at 4 °C (40 °F) or below, and 2–3 months in the freezer at −18 °C (0 °F). Cooling the pot quickly is what makes those days real.",
+  "pantry": "A large stockpot is one of the worst things in a kitchen for cooling. Left on the hob it holds its centre in the danger zone between 4 and 60 °C for many hours — long enough for Clostridium perfringens, which is particularly associated with meat stews and gravies held warm, to multiply. Ladle soup into shallow containers within two hours of cooking, or one hour above 32 °C (90 °F). A cold-water bath in the sink with the pot sitting in it, stirred occasionally, speeds this up considerably if the batch is large.",
+  "fridge": "3–4 days at 4 °C (40 °F) or below in covered shallow containers. Chill the containers uncovered or loosely covered until they are cold, then seal them, so steam does not condense and drip back in. Reheat only the portion you will eat, and bring it to a rolling boil rather than merely warming it; do not return a reheated portion to the fridge and warm it a second time. Soups thickened with cream or egg should be reheated gently and not boiled, and they sit at the short end of the range.",
+  "freezer": "2–3 months at −18 °C (0 °F). Freeze in meal-sized portions in flat bags laid on a tray until solid, which stacks efficiently and thaws fast. Leave headspace — liquid expands. Potato goes mealy, pasta and rice go mushy, and cream and egg-thickened soups can split, so consider freezing the base and adding those at the reheating stage. Fat rising and setting on top is useful, not a fault; it seals the surface.",
+  "thawing": "Reheat straight from frozen in a covered pan over low heat, or thaw in the fridge overnight. Bring it to a rolling boil before serving. Never thaw on the counter.",
+  "spoilage": [
+   "A sour, yeasty or fermented smell when the lid comes off.",
+   "Bubbles or fizzing in a cold soup, or a lid that has domed.",
+   "A slimy, ropy or stringy texture in the liquid.",
+   "Mould on the surface, including on the fat layer."
+  ],
+  "tips": [
+   "Divide into shallow containers to cool; never refrigerate the whole stockpot.",
+   "Cool a large batch in a cold-water bath in the sink first.",
+   "Freeze flat in bags on a tray so they stack and thaw quickly.",
+   "Reheat portions to a rolling boil, once only."
+  ],
+  "faq": [
+   {
+    "q": "How long do soups and stews keep in the fridge?",
+    "a": "3–4 days at 4 °C (40 °F) or below, in covered shallow containers."
+   },
+   {
+    "q": "Can you freeze soup?",
+    "a": "Yes, 2–3 months at −18 °C (0 °F). Freeze flat in portions with headspace, and add cream, pasta or potato at the reheating stage."
+   },
+   {
+    "q": "Can you leave a pot of stew out overnight to cool?",
+    "a": "No. A big pot stays warm in the middle for hours. Divide it into shallow containers and refrigerate within two hours."
+   }
+  ]
+ },
+ "zh": {
+  "name": "湯品與燉菜",
+  "aliases": [
+   "湯",
+   "燉菜",
+   "高湯",
+   "stew"
+  ],
+  "summary": "煮好的湯品與燉菜冷藏 4 °C 以下可放 3～4 天，冷凍 −18 °C 下 2～3 個月。讓這幾天真正成立的，是你把鍋子降溫得多快。",
+  "pantry": "一口大湯鍋是廚房裡最不利於降溫的東西之一。留在爐上，它的中心會在 4 到 60 °C 的危險溫度帶待上好幾個小時——這足以讓產氣莢膜梭菌大量繁殖，而它正是與「保溫放著的肉類燉菜和肉汁」關係最密切的菌。請在煮好後兩小時內把湯舀進淺容器，氣溫超過 32 °C 時縮短為一小時。份量大的話，把鍋子放進裝冷水的水槽並不時攪拌，可以大幅加快降溫。",
+  "fridge": "加蓋淺容器放 4 °C 以下 3～4 天。請先不蓋或鬆蓋，等冷透再密封，蒸氣才不會凝結後又滴回湯裡。要吃多少熱多少，並且要煮到滾沸而不是溫熱；回熱過的那一份不要再冰回去熱第二次。用鮮奶油或蛋液勾芡增稠的湯要小火回熱、不要煮滾，而且請取期限的短端。",
+  "freezer": "−18 °C 下 2～3 個月。請分成一餐的份量裝進扁平袋，平放在托盤上凍硬，之後好疊也解凍得快。容器要留膨脹空間——液體會脹。馬鈴薯會變粉、麵和飯會糊掉、鮮奶油與蛋液增稠的湯可能分離，所以可以只冷凍湯底，這些材料留到回熱時再加。表面浮起凝固的油脂是好事不是缺點，它會把表面封起來。",
+  "thawing": "直接從冷凍加蓋小火回熱，或放冷藏隔夜解凍。上桌前煮到滾沸。不要放室溫退冰。",
+  "spoilage": [
+   "掀蓋就聞到酸味、酵母味或發酵味。",
+   "冷湯冒泡或有氣泡感，或盒蓋鼓起。",
+   "湯體變得黏滑、牽絲。",
+   "表面長霉，包括浮油那一層上面。"
+  ],
+  "tips": [
+   "分裝進淺容器降溫，絕對不要整鍋冰。",
+   "大份量先用水槽冷水浴降溫。",
+   "裝袋平放在托盤上冷凍，好疊也快解凍。",
+   "分份回熱到滾沸，而且只熱一次。"
+  ],
+  "faq": [
+   {
+    "q": "湯和燉菜冷藏可以放多久？",
+    "a": "加蓋淺容器放 4 °C 以下 3～4 天。"
+   },
+   {
+    "q": "湯可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2～3 個月。分份平放冷凍並留膨脹空間；鮮奶油、麵或馬鈴薯留到回熱時再加。"
+   },
+   {
+    "q": "整鍋燉菜可以放外面涼一整晚嗎？",
+    "a": "不行。大鍋中心會溫好幾個小時。請分裝進淺容器，並在兩小時內冷藏。"
+   }
+  ]
+ }
+}

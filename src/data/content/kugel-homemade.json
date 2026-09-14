@@ -1,0 +1,83 @@
+{
+ "slug": "kugel-homemade",
+ "en": {
+  "name": "Kugel, homemade",
+  "aliases": [
+   "noodle kugel",
+   "potato kugel",
+   "猶太烤麵布丁",
+   "kugel"
+  ],
+  "summary": "Home-made kugel keeps 3–4 days in the refrigerator at 4 °C (40 °F) or below, and 1 month in the freezer at −18 °C (0 °F). Cool it fast in a shallow container rather than leaving the baking dish on the side.",
+  "pantry": "A kugel is a deep, dense, baked dish of noodles or potato bound with egg and often dairy, and it cools far more slowly than it looks. Left in its baking dish on the worktop it keeps its centre in the danger zone between 4 and 60 °C for hours, which is where Bacillus cereus in the cooked starch and Clostridium perfringens in the egg and dairy both do well. Cut it into portions and get them into shallow containers within two hours of coming out of the oven, or one hour if the kitchen is above 32 °C (90 °F).",
+  "fridge": "3–4 days at 4 °C (40 °F) or below, covered. Portions keep better than a whole dish, both because they cool faster and because you are not repeatedly warming and re-chilling the whole kugel every time someone has a slice. Reheat only what you are going to eat, and reheat it until it is steaming hot all the way through — a lukewarm centre in an egg-bound starch dish is the thing to avoid. Do not reheat the same portion twice.",
+  "freezer": "1 month at −18 °C (0 °F). Cool it completely first, cut it into portions, wrap each one tightly and bag them; the dairy in a sweet noodle kugel is what limits the quality window, as it tends to weep and go grainy over time. Reheat covered in a moderate oven from frozen or after thawing, adding a splash of milk or water to a noodle kugel so the top does not dry out before the middle is hot.",
+  "thawing": "Thaw in the fridge overnight, then reheat covered until steaming hot throughout. Smaller portions can be reheated from frozen. Never thaw on the counter.",
+  "spoilage": [
+   "A sour or fermented smell when the cover comes off.",
+   "Mould on the surface or at the cut faces.",
+   "A slimy film, or liquid separating and smelling sharp.",
+   "A grainy, curdled look to the dairy in a sweet kugel."
+  ],
+  "tips": [
+   "Cut into portions before chilling so it cools quickly.",
+   "Wrap each frozen portion individually so you reheat only what you need.",
+   "Add a splash of milk or water when reheating a noodle kugel.",
+   "Reheat until steaming right through, and only once."
+  ],
+  "faq": [
+   {
+    "q": "How long does kugel keep in the fridge?",
+    "a": "3–4 days at 4 °C (40 °F) or below, covered and portioned."
+   },
+   {
+    "q": "Can you freeze kugel?",
+    "a": "Yes, 1 month at −18 °C (0 °F). Cool it, portion it and wrap each piece tightly before freezing."
+   },
+   {
+    "q": "Can a kugel cool on the counter overnight?",
+    "a": "No. A deep baked dish holds heat for hours. Portion it and refrigerate within two hours, or one hour above 32 °C (90 °F)."
+   }
+  ]
+ },
+ "zh": {
+  "name": "自製猶太烤布丁（kugel）",
+  "aliases": [
+   "麵條烤布丁",
+   "馬鈴薯烤布丁",
+   "kugel",
+   "猶太焗麵"
+  ],
+  "summary": "自製 kugel 冷藏 4 °C 以下可放 3～4 天，冷凍 −18 °C 下 1 個月。請切塊裝進淺容器快速降溫，不要把整個烤盤留在旁邊放涼。",
+  "pantry": "Kugel 是以蛋（通常還有乳製品）黏合麵條或馬鈴薯、深盤烘烤的料理，它降溫的速度遠比外表慢。留在烤盤裡放在流理台上，中心會在 4 到 60 °C 的危險溫度帶停留好幾個小時——熟澱粉裡的仙人掌桿菌，以及蛋與乳製品裡的產氣莢膜梭菌，都在那個範圍活得很好。請在出爐後兩小時內切塊、分裝進淺容器，廚房超過 32 °C 時縮短為一小時。",
+  "fridge": "加蓋放 4 °C 以下 3～4 天。分塊保存比整盤好，一來降溫快，二來也不會每次有人切一塊就把整個 kugel 回溫再冰一次。要吃多少熱多少，並且要熱到整份冒蒸氣——蛋黏合的澱粉料理，中心溫溫的正是最該避免的狀態。同一份不要回熱兩次。",
+  "freezer": "−18 °C 下 1 個月。先完全放涼、切塊，每塊包緊再裝袋；甜口味麵條 kugel 的品質上限主要來自乳製品，它久放會出水、變得粗糙。回熱時蓋著用中溫烤箱，冷凍直接烤或解凍後烤都行；麵條版本可以加一點牛奶或水，避免表面先乾掉而中心還沒熱。",
+  "thawing": "放冷藏隔夜解凍，再蓋著加熱到整份冒蒸氣。小份可以直接從冷凍回熱。不要放室溫退冰。",
+  "spoilage": [
+   "掀蓋就聞到酸味或發酵味。",
+   "表面或切面長霉。",
+   "出現黏滑薄膜，或滲出的液體氣味刺鼻。",
+   "甜口味裡的乳製品看起來結粒、像凝乳。"
+  ],
+  "tips": [
+   "先切塊再冷藏，降溫才快。",
+   "冷凍時每塊單獨包好，要吃多少熱多少。",
+   "回熱麵條版本時加一點牛奶或水。",
+   "熱到整份冒蒸氣，而且只熱一次。"
+  ],
+  "faq": [
+   {
+    "q": "kugel 冷藏可以放多久？",
+    "a": "加蓋、分塊放 4 °C 以下 3～4 天。"
+   },
+   {
+    "q": "kugel 可以冷凍嗎？",
+    "a": "可以，−18 °C 下 1 個月。先放涼、切塊、每塊包緊再冷凍。"
+   },
+   {
+    "q": "可以放在檯面上放涼一整晚嗎？",
+    "a": "不行。深烤盤保溫好幾個小時。請切塊並在兩小時內冷藏，氣溫超過 32 °C 時縮短為一小時。"
+   }
+  ]
+ }
+}

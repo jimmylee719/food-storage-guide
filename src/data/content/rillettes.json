@@ -1,0 +1,83 @@
+{
+ "slug": "rillettes",
+ "en": {
+  "name": "Rillettes",
+  "aliases": [
+   "potted meat",
+   "pork rillettes",
+   "法式肉醬",
+   "paté de cerdo desmenuzado"
+  ],
+  "summary": "While the fat cap is unbroken and the pot is sealed, go by the date printed on it — commercially potted rillettes is dated in weeks and the fat is what makes that possible. Break the cap and it is a cooked meat dish: 3–4 days at 4 °C (40 °F) or below, or 1–2 months frozen at −18 °C (0 °F).",
+  "pantry": "Rillettes is not a larder food, however traditional the crock looks. It is a low-acid cooked meat held under a layer of fat — an anaerobic environment — and it belongs in the refrigerator from the moment it is made. Refrigerated pâtés and meat spreads are specifically named as a Listeria risk, and Listeria grows at fridge temperature, so a long-dated chilled pot is exactly the kind of food where the date matters. Out of the fridge it gets two hours at most, or one hour above 32 °C (90 °F).",
+  "fridge": "A sealed pot with its fat cap intact keeps to its printed date at 4 °C (40 °F) or below — there is no separate general figure, because the seal and the fat are doing the work and every producer sets its own. Break the fat cap and you have opened the product, and that is the whole point of this record: the layer of white fat is not a garnish, it is an oxygen and moisture barrier over a cooked, low-acid, ready-to-eat meat, and once you dig through it the meat underneath is on the same clock as any cooked meat dish, 3–4 days. Smoothing the fat back over the surface makes it look sealed again. It is not.",
+  "freezer": "1–2 months at −18 °C (0 °F). Freeze it in the pot or in small ramekins with the fat layer intact and the whole thing wrapped tightly. The texture survives freezing better than a smooth pâté does, because the meat is already shredded rather than emulsified, so there is less to break down — expect a little fat separation and stir it back in as it comes up to temperature. Freeze it early rather than at the end of the opened window.",
+  "thawing": "Thaw in the fridge overnight and use it within the opened window. Let it come to room temperature for a quarter of an hour before serving so it spreads. Never thaw it on the counter.",
+  "spoilage": [
+   "A sour, sharp or ammonia-like smell rather than a rich porky one.",
+   "Fat that has gone yellow and smells rancid, like old crayons.",
+   "A slimy or tacky surface, or liquid weeping under the fat.",
+   "Any mould at the surface or around the rim of the pot."
+  ],
+  "tips": [
+   "Do not break the fat cap until you intend to finish the pot within a few days.",
+   "Take out a portion with a clean knife and smooth the remaining fat back down.",
+   "Serve a spoonful on a board and keep the pot in the fridge.",
+   "Pregnant people should choose canned or shelf-stable meat spreads instead."
+  ],
+  "faq": [
+   {
+    "q": "How long do rillettes keep once opened?",
+    "a": "3–4 days at 4 °C (40 °F) or below. The fat cap is a barrier, not a preservative, and smoothing it back does not reseal the pot."
+   },
+   {
+    "q": "How long does an unopened pot keep?",
+    "a": "Follow the date printed on it, refrigerated at 4 °C (40 °F) or below. No separate general figure is published."
+   },
+   {
+    "q": "Can you freeze rillettes?",
+    "a": "Yes, 1–2 months at −18 °C (0 °F). Freeze the pot with the fat layer intact; the shredded texture survives freezing well."
+   }
+  ]
+ },
+ "zh": {
+  "name": "法式肉醬（rillettes）",
+  "aliases": [
+   "油封肉醬",
+   "豬肉抹醬",
+   "法式豬肉抹醬",
+   "rillettes"
+  ],
+  "summary": "只要那層油脂沒被戳破、罐子還是密封的，就以罐上印的日期為準——市售的 rillettes 日期以「週」計，靠的正是那層油。但油封一破，它就是一道熟肉料理：4 °C 以下 3～4 天，或 −18 °C 冷凍 1～2 個月。",
+  "pantry": "不管那個陶罐多有古味，rillettes 都不是常溫食品。它是低酸性的熟肉壓在一層油脂底下——一個無氧環境——而從做好的那一刻起，它就屬於冰箱。冷藏的肝醬與肉類抹醬被明確點名為李斯特菌風險食品，而李斯特菌在冰箱溫度下就會生長，所以一罐日期很長的冷藏肉醬，正是那種「日期真的很重要」的食物。離開冰箱最多兩小時，氣溫超過 32 °C 時最多一小時。",
+  "fridge": "油封完整、尚未開封的罐子，放 4 °C 以下並以罐上印的日期為準——這裡沒有另外的通用數字，因為真正在工作的是密封與那層油，而每個生產者的設定都不一樣。一旦戳破油層，你就等於開封了，而這正是這一則的重點：表面那層白色油脂不是裝飾，它是覆蓋在「煮熟、低酸、即食肉品」上的氧氣與水分屏障；挖穿它之後，底下的肉就和任何熟肉料理走同一個時鐘：3～4 天。把油抹平看起來像重新密封了。它並沒有。",
+  "freezer": "−18 °C 下 1～2 個月。請連罐或分裝到小烤皿冷凍，保留完整的油層並整個包緊。它比細滑的肝醬更耐冷凍，因為肉本來就是撕碎的而不是乳化的，可被破壞的結構比較少——解凍時會有一點油脂分離，回溫過程中攪回去即可。請盡早冷凍，不要拖到開封期限的尾端。",
+  "thawing": "放冷藏隔夜解凍，並在開封後的期限內用完。上桌前先在室溫回溫一刻鐘，才抹得開。不要放室溫退冰。",
+  "spoilage": [
+   "聞起來發酸、刺鼻或有氨味，而不是濃郁的豬肉香。",
+   "油脂泛黃並有油耗味，像舊蠟筆。",
+   "表面黏滑發黏，或油層底下滲出液體。",
+   "表面或罐口長霉。"
+  ],
+  "tips": [
+   "還不打算在幾天內吃完，就不要戳破油封。",
+   "用乾淨的刀取出一份，再把剩下的油層抹平壓實。",
+   "分一匙上桌，罐子留在冰箱。",
+   "孕婦請改選罐裝或常溫保存的肉類抹醬。"
+  ],
+  "faq": [
+   {
+    "q": "rillettes 開封後可以放多久？",
+    "a": "4 °C 以下 3～4 天。那層油是屏障不是防腐劑，把它抹平也不等於重新密封。"
+   },
+   {
+    "q": "未開封的可以放多久？",
+    "a": "冷藏 4 °C 以下，以罐上印的日期為準。並沒有另外公布的通用數字。"
+   },
+   {
+    "q": "rillettes 可以冷凍嗎？",
+    "a": "可以，−18 °C 下 1～2 個月。連罐、保留完整油層冷凍；撕碎的肉質相當耐凍。"
+   }
+  ]
+ }
+}

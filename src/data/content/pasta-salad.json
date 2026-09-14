@@ -1,0 +1,83 @@
+{
+ "slug": "pasta-salad",
+ "en": {
+  "name": "Pasta salad",
+  "aliases": [
+   "cold pasta salad",
+   "macaroni salad",
+   "義大利麵沙拉",
+   "ensalada de pasta"
+  ],
+  "summary": "Pasta salad keeps 3–5 days in the refrigerator at 4 °C (40 °F) or below. The thing that decides whether it makes those days is how quickly the cooked pasta was cooled, not the dressing on it.",
+  "pantry": "Cooked pasta is a wet starch, and a colander of it left to drain and cool slowly on the side is a Bacillus cereus opportunity in the same way a pot of rice is. Cool it fast — rinse it under cold water, spread it out, and get it into the fridge rather than leaving it to reach room temperature in its own time. Once the salad is dressed it is ready to eat with no cooking step left, so give it two hours out of the fridge at most, or one hour above 32 °C (90 °F), and serve it from a bowl over ice at a barbecue.",
+  "fridge": "3–5 days at 4 °C (40 °F) or below in a covered container. Dress it cold, not warm: pouring dressing over warm pasta both drives the whole bowl into the danger zone and makes the pasta soak the dressing up so it tastes dry by day two. If you want it to last well, hold back some dressing and stir it through before serving. A mayonnaise-based macaroni salad is no more fragile than an oil-and-vinegar one — commercial mayonnaise is acidified — but anything with chicken, egg, ham or seafood in it deserves the short end of the range.",
+  "freezer": "No freezer timeline is published for pasta salad, and freezing it is not worth doing. Cooked pasta thaws soft and mealy, raw vegetables in it go limp and watery, and a mayonnaise dressing splits irreversibly. If you have cooked too much pasta, freeze the plain cooked pasta or, better, cook only what you need and make the salad fresh.",
+  "thawing": null,
+  "spoilage": [
+   "A sour or fermented smell when the lid comes off.",
+   "A slimy or ropy texture on the pasta.",
+   "Dressing that has split and smells sharp, or liquid pooling and bubbling.",
+   "Any mould, or a grey cast to the meat or seafood in the salad."
+  ],
+  "tips": [
+   "Cool the cooked pasta quickly under cold water before dressing it.",
+   "Dress cold pasta, and hold back a little dressing to refresh it before serving.",
+   "Serve from a bowl over ice at an outdoor meal.",
+   "Give versions containing chicken, egg, ham or seafood the shortest life in the range."
+  ],
+  "faq": [
+   {
+    "q": "How long does pasta salad keep?",
+    "a": "3–5 days in a covered container in the fridge at 4 °C (40 °F) or below."
+   },
+   {
+    "q": "Is mayonnaise-dressed pasta salad riskier?",
+    "a": "No. Commercial mayonnaise is acidified and made with pasteurised egg. The risk comes from the cooked pasta and from any chicken, egg, ham or seafood in the bowl."
+   },
+   {
+    "q": "Can you freeze pasta salad?",
+    "a": "No timeline is published and it is not worth doing. The pasta goes mealy, vegetables go limp and mayonnaise dressing splits."
+   }
+  ]
+ },
+ "zh": {
+  "name": "義大利麵沙拉",
+  "aliases": [
+   "涼拌義大利麵",
+   "通心粉沙拉",
+   "冷麵沙拉",
+   "pasta salad"
+  ],
+  "summary": "義大利麵沙拉冷藏 4 °C 以下可放 3～5 天。能不能撐過這幾天，決定於煮熟的麵條降溫得多快，而不是拌了什麼醬。",
+  "pantry": "煮熟的義大利麵是含水的澱粉，一整盆放在濾網裡慢慢瀝乾、慢慢放涼，和一鍋白飯一樣，都是仙人掌桿菌的機會。請快速降溫——用冷水沖、攤開、直接送進冰箱，而不是讓它自己慢慢回到室溫。拌好醬之後，它就是後面沒有加熱步驟的即食料理，所以離開冰箱最多兩小時，氣溫超過 32 °C 時最多一小時；烤肉場合請把碗架在冰上。",
+  "fridge": "加蓋容器放 4 °C 以下 3～5 天。要用冷的麵拌，不要用溫的：把醬倒在溫熱的麵上，既會讓整碗滑進危險溫度帶，也會讓麵條把醬全部吸光，第二天吃起來乾巴巴的。想放得久一點，就保留一部分醬，上桌前再拌進去。美乃滋版本並不比油醋版本脆弱——市售美乃滋是酸化過的——但只要裡面有雞肉、蛋、火腿或海鮮，就請取期限的短端。",
+  "freezer": "義大利麵沙拉沒有公布的冷凍期限，也不值得冷凍。熟麵解凍後軟爛粉粉的，裡面的生菜會軟塌出水，美乃滋醬則會不可逆地分離。麵煮太多的話，請冷凍原味熟麵；更好的做法是需要多少煮多少，沙拉現拌。",
+  "thawing": null,
+  "spoilage": [
+   "掀蓋就聞到酸味或發酵味。",
+   "麵條摸起來黏滑或牽絲。",
+   "醬汁分離且氣味刺鼻，或積水並冒泡。",
+   "出現霉，或沙拉裡的肉、海鮮泛灰。"
+  ],
+  "tips": [
+   "熟麵先用冷水沖涼再拌醬。",
+   "用冷麵拌，並保留一點醬在上桌前補拌。",
+   "戶外用餐時把碗架在冰上。",
+   "含雞肉、蛋、火腿或海鮮的版本取期限的短端。"
+  ],
+  "faq": [
+   {
+    "q": "義大利麵沙拉可以放多久？",
+    "a": "加蓋容器放 4 °C 以下冷藏 3～5 天。"
+   },
+   {
+    "q": "美乃滋版本比較危險嗎？",
+    "a": "不會。市售美乃滋經過酸化並使用殺菌蛋液。風險來自熟麵，以及碗裡的雞肉、蛋、火腿或海鮮。"
+   },
+   {
+    "q": "可以冷凍嗎？",
+    "a": "沒有公布的期限，也不值得。麵會變粉、菜會軟塌、美乃滋會分離。"
+   }
+  ]
+ }
+}

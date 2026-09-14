@@ -1,0 +1,83 @@
+{
+ "slug": "syrup",
+ "en": {
+  "name": "Table syrup",
+  "aliases": [
+   "pancake syrup",
+   "golden syrup",
+   "糖漿",
+   "jarabe de mesa"
+  ],
+  "summary": "A bottle of table syrup keeps 1 year from purchase in the cupboard, and 6 months in the fridge once opened. Refrigerating an opened bottle is the sensible move, because a syrup diluted at the surface is where mould gets a foothold.",
+  "pantry": "Cool, dry and dark, 1 year from purchase. Table syrup is concentrated enough that microbes cannot use the water it contains, which is why it sits happily in a cupboard; what shortens a bottle is contamination rather than age. A wet spoon, a sticky neck or a cap that no longer seats properly all dilute the surface just enough for mould or yeast to start. Wipe the neck and the thread each time, screw the cap down hard, and keep the bottle out of the sun and away from the hob, which darkens it.",
+  "fridge": "Once opened, refrigerate at 4 °C (40 °F) or below and use within 6 months. Cold is not strictly required for safety in a syrup this concentrated, but it is the practical answer to the way bottles actually fail in a home kitchen — sticky necks, warm cupboards and used spoons — and it holds the colour and flavour better too. The cost is that cold syrup pours slowly and thickly; stand the bottle in warm water for a couple of minutes, or take it out before you start cooking.",
+  "freezer": "No freezer timeline is published for table syrup and there is no case for freezing it. It does not set solid at household freezer temperatures, it just becomes unpourable, and a bottle with 1 year in the cupboard and 6 months in the fridge covers any realistic household need. If you have bought a large bottle, decant it into a smaller one for daily use and keep the rest sealed and cold.",
+  "thawing": null,
+  "spoilage": [
+   "Mould, usually a spot at the neck or under the cap.",
+   "A fermented, alcoholic or yeasty smell.",
+   "Cloudiness or fine threads suspended in what should be clear syrup.",
+   "A cap under pressure, or fizzing when it is loosened."
+  ],
+  "tips": [
+   "Wipe the neck and thread before recapping; that is where a bottle goes wrong.",
+   "Never dip a used or wet spoon into the bottle.",
+   "Warm a thick cold bottle in a bowl of hot water, not the microwave.",
+   "Write the opening date on the label."
+  ],
+  "faq": [
+   {
+    "q": "How long does table syrup keep after opening?",
+    "a": "6 months refrigerated at 4 °C (40 °F) or below. Unopened, 1 year from purchase in the cupboard."
+   },
+   {
+    "q": "Does syrup have to be refrigerated?",
+    "a": "It is the sensible choice once opened. The syrup is concentrated enough to resist spoilage, but a diluted, sticky neck is where mould starts."
+   },
+   {
+    "q": "Can syrup be frozen?",
+    "a": "There is no timeline for it and no benefit. It goes unpourable rather than freezing, and the cupboard and fridge already cover any household need."
+   }
+  ]
+ },
+ "zh": {
+  "name": "餐用糖漿",
+  "aliases": [
+   "鬆餅糖漿",
+   "金黃糖漿",
+   "楓味糖漿",
+   "table syrup"
+  ],
+  "summary": "餐用糖漿從購買日起算放櫥櫃可放 1 年，開封後冷藏 6 個月。開封後冰起來是合理的做法，因為糖漿真正出問題的地方，是表面被稀釋、讓霉菌有立足點的那一層。",
+  "pantry": "陰涼、乾燥、避光，自購買日起 1 年。餐用糖漿的濃度足以讓微生物用不到裡面的水分，所以它可以安穩地待在櫥櫃；縮短一瓶壽命的是污染，不是年齡。沾濕的湯匙、黏答答的瓶口、蓋不緊的瓶蓋，都會把表面稀釋到剛好夠霉菌或酵母起步。每次都擦瓶口與螺紋、把蓋子旋緊，並讓瓶子遠離陽光與爐台（高溫會讓它變深）。",
+  "fridge": "開封後放 4 °C 以下冷藏，6 個月內用完。以這種濃度而言，低溫在安全上並非絕對必要，但它正好對應到家庭裡瓶子真正失敗的方式——黏膩的瓶口、溫熱的櫥櫃、用過的湯匙——而且顏色與風味也保持得比較好。代價是冰過的糖漿又稠又難倒；用之前把瓶子泡溫水兩分鐘，或提早拿出來就好。",
+  "freezer": "餐用糖漿沒有公布的冷凍期限，也沒有冷凍的理由。家用冷凍庫不會讓它結成硬塊，只會讓它倒不出來；而櫥櫃 1 年、冷藏 6 個月已經足以應付任何家庭需求。如果買的是大瓶，請分裝一小瓶日常使用，其餘密封冷藏。",
+  "thawing": null,
+  "spoilage": [
+   "長霉，通常是瓶口或瓶蓋內側的一小點。",
+   "有發酵味、酒味或酵母味。",
+   "本該清澈的糖漿變混濁，或懸浮出細絲。",
+   "瓶蓋脹氣，或旋開時冒氣。"
+  ],
+  "tips": [
+   "蓋回去前先擦瓶口與螺紋，瓶子都是從那裡壞掉的。",
+   "不要把用過或沾濕的湯匙伸進瓶子。",
+   "冰過太稠就泡熱水，不要微波。",
+   "在標籤上寫開封日期。"
+  ],
+  "faq": [
+   {
+    "q": "糖漿開封後可以放多久？",
+    "a": "冷藏 4 °C 以下 6 個月。未開封則是自購買日起放櫥櫃 1 年。"
+   },
+   {
+    "q": "糖漿一定要冷藏嗎？",
+    "a": "開封後冷藏是合理的做法。糖漿本身濃度夠高，但被稀釋的黏膩瓶口就是霉菌的起點。"
+   },
+   {
+    "q": "糖漿可以冷凍嗎？",
+    "a": "沒有相關期限也沒有好處。它不會結成硬塊，只會倒不出來；櫥櫃與冷藏已經夠用。"
+   }
+  ]
+ }
+}

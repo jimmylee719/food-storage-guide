@@ -1,0 +1,83 @@
+{
+ "slug": "milk-canned-evaporated-condensed",
+ "en": {
+  "name": "Evaporated or condensed milk, canned",
+  "aliases": [
+   "evaporated milk",
+   "sweetened condensed milk",
+   "煉乳",
+   "leche evaporada"
+  ],
+  "summary": "An unopened can of evaporated or sweetened condensed milk keeps 12 months from purchase in the cupboard. Once opened it is an ordinary perishable dairy food: 4–5 days in the fridge at 4 °C (40 °F) or below.",
+  "pantry": "Cool, dry and dark, 12 months from the date of purchase. Both milks are shelf-stable for the same underlying reason — evaporated milk is sterilised in the can, condensed milk is preserved by its very high sugar content — but in both cases the shelf life belongs to the sealed can, not to the milk. Turn the cans occasionally so the solids do not settle and stick, keep them off damp floors, and discard any can that is bulging, leaking, deeply dented on a seam or that spurts when pierced, without opening or tasting it.",
+  "fridge": "Opened, this becomes a refrigerated dairy food with 4–5 days at 4 °C (40 °F) or below. Evaporated milk in particular is low in acid and dilute, and it sours quickly; condensed milk is protected somewhat by its sugar but still grows mould at the surface. Leftovers do not have to leave the can for safety — the metal is not the problem — but they should leave it for flavour, because an open can gives the milk a metallic taste and a skin. Decant into a clean covered jar, and never leave an opened can standing out of the fridge for more than two hours.",
+  "freezer": "No freezer timeline is published for canned milks, and freezing is a poor fit. Evaporated milk separates into grainy protein and watery whey and does not come back cleanly; sweetened condensed milk has so much sugar that it never really freezes hard and turns very grainy. The better answer for leftovers is to use them within the fridge window — in coffee, a custard, a caramel or a pan of milk tea — rather than to freeze them.",
+  "thawing": null,
+  "spoilage": [
+   "A bulging, leaking or badly dented can, or one that hisses or spurts when opened.",
+   "Sour, cheesy or fermented smell from an opened can.",
+   "Lumps, curdling or ropy strands when poured.",
+   "Mould at the surface, or a brown, caramelised colour in milk that should be pale."
+  ],
+  "tips": [
+   "Decant leftovers into a covered jar; do not store the open can.",
+   "Label the jar with the opening date — the fridge window is short.",
+   "Rotate cans so the oldest is always the next used.",
+   "Discard a bulging or spurting can unopened; never taste to test it."
+  ],
+  "faq": [
+   {
+    "q": "How long does an opened can of evaporated milk keep?",
+    "a": "4–5 days in a covered container in the fridge at 4 °C (40 °F) or below. The 12 months on the shelf belongs to the sealed can only."
+   },
+   {
+    "q": "Does condensed milk need refrigerating after opening?",
+    "a": "Yes. The sugar slows spoilage but does not stop it — refrigerate it in a covered jar and work to the same few days."
+   },
+   {
+    "q": "Can you freeze evaporated or condensed milk?",
+    "a": "No timeline is published and the results are poor. Evaporated milk separates and condensed milk goes grainy. Use leftovers within the fridge window instead."
+   }
+  ]
+ },
+ "zh": {
+  "name": "煉乳／蒸發奶罐頭",
+  "aliases": [
+   "無糖煉乳",
+   "加糖煉乳",
+   "蒸發奶",
+   "evaporated milk"
+  ],
+  "summary": "未開封的蒸發奶或加糖煉乳罐頭，從購買日起算放櫥櫃可放 12 個月。一開罐，它就是普通的易腐乳製品：冷藏 4 °C 以下 4～5 天。",
+  "pantry": "陰涼、乾燥、避光，自購買日起 12 個月。兩種奶能常溫存放的道理其實同源——蒸發奶是在罐內滅菌，加糖煉乳靠極高的糖度保存——但不論哪一種，那個期限都屬於密封的罐頭，不屬於裡面的奶。偶爾把罐子翻個面，避免固形物沉底結塊；不要放在潮濕地面。罐身膨脹、滲漏、接縫嚴重凹陷，或開罐時噴汁的，請不要打開、不要試吃，直接丟棄。",
+  "fridge": "開封後，它就是冷藏乳製品：4 °C 以下 4～5 天。蒸發奶尤其低酸又稀，酸敗得很快；加糖煉乳靠糖擋了一些，但表面還是會長霉。剩下的就安全而言不一定要離開罐子——金屬不是問題——但為了味道應該離開，因為開過的罐子會讓奶帶金屬味、表面結皮。請換到乾淨的加蓋玻璃罐，而且開過的罐子離開冰箱不要超過兩小時。",
+  "freezer": "罐裝煉乳類沒有公布的冷凍期限，而且冷凍並不適合。蒸發奶會分離成顆粒狀的蛋白與水樣乳清，回不太來；加糖煉乳糖度太高，根本不會結成硬冰，而且口感會變得非常粗糙。剩料比較好的處理是在冷藏期限內用掉——沖咖啡、做布丁、煮焦糖或煮一鍋奶茶，都比冷凍實際。",
+  "thawing": null,
+  "spoilage": [
+   "罐身膨脹、滲漏或嚴重凹陷，或開罐時洩氣、噴汁。",
+   "開過的罐子聞起來發酸、有起司味或發酵味。",
+   "倒出來有結塊、凝乳或牽絲。",
+   "表面長霉，或本該淺色的奶變成褐色。"
+  ],
+  "tips": [
+   "剩料換到加蓋罐子，不要整罐開著冰。",
+   "在容器上寫開罐日期，冷藏的時間很短。",
+   "罐頭輪替使用，永遠先用最舊的。",
+   "膨脹或噴汁的罐頭不要開、不要嚐，直接丟。"
+  ],
+  "faq": [
+   {
+    "q": "煉乳開封後可以放多久？",
+    "a": "換到加蓋容器放 4 °C 以下冷藏 4～5 天。架上那 12 個月只屬於未開封的罐頭。"
+   },
+   {
+    "q": "加糖煉乳開封後要冰嗎？",
+    "a": "要。糖只是拖慢腐敗，不是阻止它——換到加蓋罐冷藏，時間一樣以幾天計。"
+   },
+   {
+    "q": "煉乳可以冷凍嗎？",
+    "a": "沒有公布期限，效果也不好。蒸發奶會分離、加糖煉乳會變粗糙。請在冷藏期限內用完。"
+   }
+  ]
+ }
+}

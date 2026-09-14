@@ -1,0 +1,83 @@
+{
+ "slug": "kombu",
+ "en": {
+  "name": "Kombu (dried kelp)",
+  "aliases": [
+   "dashi kombu",
+   "dried kelp",
+   "昆布",
+   "海帶"
+  ],
+  "summary": "Dried kombu keeps 6–12 months sealed in a cool dark cupboard, and 12–18 months sealed in the fridge once the bag is open. The published advice gives the storage conditions and says dried goods keep for months or more; it does not give a kombu-specific number, so these ranges read that statement conservatively.",
+  "pantry": "Sealed tight, away from heat, direct sunlight and damp — that is the published rule for dried goods, and on it a sealed bag of kombu keeps 6–12 months in a cool dark cupboard. Kombu is thick and leathery and tolerates a lot, but it is still hygroscopic: a bag left open in a Taiwanese summer softens, and softened kelp moulds. Keep the strips flat in a large sealed bag or a tin rather than folding them, and keep the desiccant sachet in with them. The white powder on the surface is mannitol, a natural sugar, and it is part of the flavour — wipe the strip with a dry cloth if you must, but do not wash it off.",
+  "fridge": "In a humid climate, sealed at 4 °C (40 °F) or below, opened kombu keeps 12–18 months. Seal it hard: dried kelp takes up fridge odours quickly and any moisture it absorbs will start mould. Used kombu from a dashi pot is not this product at all — it is a cooked food, and it must be cooled, refrigerated and used within 2 to 3 days, which is exactly the window in which to turn it into tsukudani or a simmered side dish.",
+  "freezer": "No freezer timeline is published for dried kombu, and the dry strips have little to gain from the freezer; they already keep for months sealed, and their problem is moisture rather than time. Freezing does make sense for the cooked leftovers — simmered kombu portions and freezes well. If you do freeze a dry bulk purchase, let the sealed pack come back to room temperature before opening it, or condensation will settle on the strips.",
+  "thawing": null,
+  "spoilage": [
+   "Musty smell, or fuzzy mould spots distinguishable from the fine white mannitol bloom.",
+   "Strips that feel limp, damp or tacky instead of stiff and dry.",
+   "A sour or off smell from soaked kombu, or soaking water that has gone slimy.",
+   "Insects or webbing in the bag."
+  ],
+  "tips": [
+   "Do not wash off the white bloom — it is mannitol and carries flavour.",
+   "Store the strips flat and unfolded so they do not crack into dust.",
+   "Keep the desiccant sachet in the bag and reseal after every use.",
+   "Turn used dashi kombu into tsukudani within 2 to 3 days rather than throwing it away."
+  ],
+  "faq": [
+   {
+    "q": "How long does dried kombu keep?",
+    "a": "6–12 months sealed in a cool dark cupboard, or 12–18 months sealed in the fridge once opened. These ranges are a conservative reading of general dried-goods guidance, not a kombu-specific published figure."
+   },
+   {
+    "q": "What is the white powder on kombu?",
+    "a": "Mannitol, a natural sugar that carries much of the umami. It is not mould and should not be rinsed off."
+   },
+   {
+    "q": "Can you reuse kombu after making dashi?",
+    "a": "Yes, but it is then a cooked food. Cool it, refrigerate it at 4 °C (40 °F) or below and use it within 2 to 3 days."
+   }
+  ]
+ },
+ "zh": {
+  "name": "昆布",
+  "aliases": [
+   "乾海帶",
+   "高湯昆布",
+   "こんぶ",
+   "日高昆布"
+  ],
+  "summary": "乾燥昆布密封放陰涼避光的櫥櫃約 6～12 個月，開封後密封冷藏約 12～18 個月。公布的內容給的是保存條件，並說乾貨能放數個月以上，但沒有昆布專屬的數字，所以這裡的範圍是對那句話的保守解讀。",
+  "pantry": "確實密封，避開高溫、陽光直射與潮濕——這就是官方對乾貨給的規則；在這個前提下，一包昆布放陰涼暗處約 6～12 個月。昆布又厚又韌，容忍度高，但它終究會吸水：在台灣的夏天把袋子開著放，昆布就會變軟，而變軟的海帶會長霉。請把昆布攤平放在大的密封袋或鐵罐裡，不要硬折，乾燥劑也留在裡面。表面那層白粉是甘露醇，一種天然的糖，本身就是鮮味的一部分——真的介意就用乾布輕輕擦一下，但不要洗掉。",
+  "fridge": "在潮濕的氣候，開封後密封放 4 °C 以下，可放 12～18 個月。密封要確實：乾海帶吸冰箱味道很快，而只要吸到水氣就會開始長霉。煮過高湯的昆布則完全不是同一個東西——那是熟食，要放涼、冷藏，並在 2 到 3 天內用掉，而那正好也是把它做成佃煮或滷小菜的時間。",
+  "freezer": "乾燥昆布沒有公布的冷凍期限，乾的昆布也很難從冷凍得到什麼：它密封就能放好幾個月，問題出在水分而不是時間。冷凍比較有意義的是熟的那一份——滷過的昆布分小份冷凍效果很好。若真的冷凍了一大包乾貨，請等整包回到室溫再拆封，否則水氣會凝在昆布上。",
+  "thawing": null,
+  "spoilage": [
+   "有霉味，或出現與白色甘露醇霜不同的絨毛狀霉斑。",
+   "昆布摸起來軟塌、潮濕或發黏，而不是硬挺乾燥。",
+   "泡開後有酸味或怪味，或泡的水變得黏稠。",
+   "袋子裡有蟲或絲網。"
+  ],
+  "tips": [
+   "白粉不要洗掉，那是甘露醇，帶著鮮味。",
+   "昆布攤平保存，不要硬折，折久了會碎成屑。",
+   "乾燥劑留在袋內，每次用完重新封緊。",
+   "煮過高湯的昆布在 2 到 3 天內做成佃煮，不要直接丟。"
+  ],
+  "faq": [
+   {
+    "q": "昆布可以放多久？",
+    "a": "密封放陰涼暗處約 6～12 個月，開封後密封冷藏約 12～18 個月。這是對乾貨通則的保守解讀，不是昆布專屬的公布數字。"
+   },
+   {
+    "q": "昆布表面的白粉是什麼？",
+    "a": "是甘露醇，一種天然的糖，鮮味有一大半在上面。那不是霉，不要沖掉。"
+   },
+   {
+    "q": "煮過高湯的昆布還能用嗎？",
+    "a": "可以，但那時它是熟食。放涼後冷藏在 4 °C 以下，2 到 3 天內用掉。"
+   }
+  ]
+ }
+}

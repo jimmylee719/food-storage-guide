@@ -1,0 +1,83 @@
+{
+ "slug": "cereal-or-granola-bars",
+ "en": {
+  "name": "Cereal and granola bars",
+  "aliases": [
+   "granola bar",
+   "snack bar",
+   "energy bar",
+   "穀物棒"
+  ],
+  "summary": "Cereal and granola bars keep 6–12 months in the cupboard while the individual wrapper is intact. That wrapper is the preservation system; once a bar is opened it stales within a day or two and should simply be eaten.",
+  "pantry": "Cool, dry and dark, 6–12 months, with each bar in its own sealed wrapper. The bars are dry cereal bound with syrup and fat, so nothing much grows in them — what ends the range is the fat going stale and the syrup drying or, in a warm cupboard, weeping and going sticky. Bars with nuts, seeds or nut butter in them sit at the short end, because those fats oxidise faster. Keep the box away from the hob and out of a hot car, where a chocolate-coated bar will bloom and separate.",
+  "fridge": "There is no need to refrigerate them and it does them no favours: the fridge is humid, and a bar that was crisp will go soft and leathery once moisture gets into the cereal. The cupboard, dry and sealed, is the right place. Refrigeration does have one legitimate use — a chocolate-coated or yoghurt-coated bar in a very warm kitchen holds its coating better cold — but in that case keep the wrapper sealed and let it warm before opening.",
+  "freezer": "No freezer timeline is published for cereal bars and there is little to gain, since a sealed bar already keeps the best part of a year in the cupboard. Freezing does no harm and a frozen bar is pleasant on a hot day, but the risk on the way out is condensation, which softens the cereal. If you freeze a box, keep the wrappers sealed and let each bar come up to room temperature before opening it.",
+  "thawing": null,
+  "spoilage": [
+   "A rancid or stale smell from the nuts, seeds or oil in the bar.",
+   "A bar that has gone soft and limp, or conversely rock-hard and dry.",
+   "White bloom on a chocolate coating, or a coating that has separated and gone greasy.",
+   "Mould or a musty smell in a wrapper that was torn or damp."
+  ],
+  "tips": [
+   "Keep each bar in its own sealed wrapper until you eat it.",
+   "Choose nut-free bars if you want the longer end of the range.",
+   "Do not leave a box in a hot car; coatings bloom and fillings weep.",
+   "Eat an opened bar the same day — there is nothing left to protect it."
+  ],
+  "faq": [
+   {
+    "q": "How long do granola bars keep?",
+    "a": "6–12 months in a cool dry cupboard while the individual wrapper is sealed. Follow the printed date if it is shorter."
+   },
+   {
+    "q": "Do granola bars need to be refrigerated?",
+    "a": "No, and the fridge makes them soft. Keep them sealed in a dry cupboard unless a chocolate coating needs the cold in a very warm kitchen."
+   },
+   {
+    "q": "Are they still safe past the date?",
+    "a": "Usually, if the wrapper is intact and they smell clean. The fats go stale before anything else happens — a rancid smell means throw it away."
+   }
+  ]
+ },
+ "zh": {
+  "name": "穀物棒／能量棒",
+  "aliases": [
+   "燕麥棒",
+   "能量棒",
+   "早餐棒",
+   "granola bar"
+  ],
+  "summary": "穀物棒與能量棒在單支包裝完好的狀態下，放櫥櫃可放 6～12 個月。那層包裝就是它的保存系統；一旦拆開，它一兩天內就會走味，基本上就該吃掉。",
+  "pantry": "陰涼、乾燥、避光，6～12 個月，每一支都維持在自己的密封包裝裡。它是乾燥穀物用糖漿與油脂黏合而成，不太會長東西——結束這個範圍的是油脂走味、糖漿變乾，或是在溫暖的櫥櫃裡滲出來變得黏手。含堅果、種子或堅果醬的版本請取短的那一端，因為那些油脂氧化得更快。整盒要遠離爐台，也不要放在悶熱的車裡，巧克力外層在那裡會起白霜、也會分離。",
+  "fridge": "沒有必要冷藏，而且對它沒好處：冰箱潮濕，本來酥脆的棒體一旦讓水氣進到穀物裡，就會變軟變韌。乾燥又密封的櫥櫃才是對的位置。冷藏確實有一個合理用途——在很熱的廚房裡，巧克力或優格外層冰過才維持得住——但那時請保持包裝密封，並等它回溫再拆。",
+  "freezer": "穀物棒沒有公布的冷凍期限，能得到的好處也有限，因為未拆封的一支本來就能在櫥櫃放將近一年。冷凍不會有害，大熱天吃一支冷凍的還挺舒服，但拿出來時的結露是風險，它會讓穀物軟掉。要冷凍整盒的話，請維持每支包裝密封，並讓它回到室溫再拆。",
+  "thawing": null,
+  "spoilage": [
+   "堅果、種子或油脂發出油耗味或陳味。",
+   "棒體變軟塌，或反過來變得又硬又乾。",
+   "巧克力外層起白霜，或外層分離、摸起來油膩。",
+   "包裝破損或受潮後長霉、有霉味。"
+  ],
+  "tips": [
+   "要吃才拆，其餘維持單支密封。",
+   "想要期限的長端，就挑不含堅果的版本。",
+   "不要把整盒放在悶熱的車裡，外層會起霜、內餡會滲出。",
+   "拆開的當天吃完，那時已經沒有東西在保護它了。"
+  ],
+  "faq": [
+   {
+    "q": "穀物棒可以放多久？",
+    "a": "單支包裝密封、放陰涼乾燥的櫥櫃 6～12 個月。包裝上的日期更短則以包裝為準。"
+   },
+   {
+    "q": "穀物棒需要冷藏嗎？",
+    "a": "不用，冷藏還會讓它變軟。請密封放乾燥櫥櫃；只有在很熱的廚房、需要維持巧克力外層時才考慮冷藏。"
+   },
+   {
+    "q": "過期一點還能吃嗎？",
+    "a": "只要包裝完好、聞起來乾淨，通常可以。油脂會先走味——有油耗味就丟掉。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "luncheon-meat-or-poultry-pre-packaged",
+ "en": {
+  "name": "Luncheon meat, pre-packaged",
+  "aliases": [
+   "deli meat",
+   "cold cuts",
+   "即食熟肉片",
+   "fiambres"
+  ],
+  "summary": "A sealed pack of pre-packaged luncheon meat or poultry keeps 2 weeks from purchase in the refrigerator at 4 °C (40 °F) or below, and 3–5 days once opened. Frozen, it holds 1–2 months from purchase at −18 °C (0 °F).",
+  "pantry": "Luncheon meats are cooked, moist, low-acid and eaten with no further cooking, which puts them at the top of the list of ready-to-eat foods associated with Listeria. Listeria is unusual in growing at refrigeration temperature, so the clock keeps running even in a cold fridge — that is precisely why the opened figure is days rather than weeks. Keep the pack cold on the way home, and out of the fridge give it two hours at most, or one hour above 32 °C (90 °F). A platter left out through a party is the classic failure.",
+  "fridge": "Unopened, 2 weeks from purchase at 4 °C (40 °F) or below; once opened, 3–5 days. Store it on a cold shelf, not in the door, wrapped airtight or in a sealed box, and keep it well away from raw meat and its drips. Pregnant, elderly and immunocompromised people are generally advised to avoid ready-to-eat deli meats or to heat them until steaming hot before eating; dried and salted products such as salami are usually presented as the safer choice, and moist cooked ones as the ones to be careful with.",
+  "freezer": "1–2 months from purchase at −18 °C (0 °F). Freezing is a quality compromise rather than a disaster: thin slices of brine-injected meat release water on thawing, so they come back wetter, softer and saltier, and they tear when you peel them apart. Freeze the pack unopened and flat, well inside the fridge window rather than on the last day, and plan to use the thawed slices in a cooked dish — a toasted sandwich or an omelette — instead of cold in a sandwich.",
+  "thawing": "Thaw in the fridge and use the slices within the opened window. Never thaw them on the counter, and do not refreeze.",
+  "spoilage": [
+   "A slimy or tacky film on the slices.",
+   "A sour, sulphurous or ammonia-like smell on opening.",
+   "Grey, green or iridescent patches, or dark dried edges.",
+   "A puffed pack, or cloudy ropy liquid inside."
+  ],
+  "tips": [
+   "Write the opening date on the pack.",
+   "Keep the pack on a cold shelf, never in the door.",
+   "Reseal after taking out what you need rather than leaving the pack open.",
+   "Heat until steaming if you are pregnant or immunocompromised."
+  ],
+  "faq": [
+   {
+    "q": "How long does packaged luncheon meat keep?",
+    "a": "2 weeks from purchase unopened at 4 °C (40 °F) or below, and 3–5 days once opened."
+   },
+   {
+    "q": "Can you freeze luncheon meat?",
+    "a": "Yes, 1–2 months from purchase at −18 °C (0 °F), though the slices come back wetter and softer. Use them in a cooked dish."
+   },
+   {
+    "q": "Why is the opened window so much shorter?",
+    "a": "Opening exposes the meat to household bacteria, and Listeria in particular grows even at refrigeration temperature on a ready-to-eat food with no cooking step left."
+   }
+  ]
+ },
+ "zh": {
+  "name": "包裝即食熟肉片",
+  "aliases": [
+   "午餐肉片",
+   "冷肉切片",
+   "三明治肉片",
+   "luncheon meat"
+  ],
+  "summary": "未開封的包裝即食熟肉（含禽肉）片，自購買日起放 4 °C 以下冷藏可放 2 週，開封後 3～5 天。冷凍 −18 °C 下自購買日起 1～2 個月。",
+  "pantry": "即食熟肉片是煮熟、含水、低酸性，而且不會再加熱就被吃掉，這讓它在「與李斯特菌相關的即食食品」清單上名列前茅。李斯特菌特別的地方在於它在冷藏溫度下仍會生長，所以即使冰在冷藏，時鐘依然在走——這正是開封後的期限以「天」計而不是以「週」計的原因。買回家路上要保冷；離開冰箱最多兩小時，氣溫超過 32 °C 時最多一小時。聚會時把冷肉拼盤放在桌上一整晚，就是最典型的失敗。",
+  "fridge": "未開封自購買日起放 4 °C 以下 2 週；開封後 3～5 天。請放冷藏層架而不是門邊，密封包好或裝進密閉盒，並且遠離生肉及其滴液。懷孕、年長與免疫功能低下者，一般建議避開即食熟肉，或先加熱到冒蒸氣再吃；像莎樂美腸這類乾式鹽漬產品通常被視為相對安全的選擇，而含水的熟肉則是要特別小心的那一類。",
+  "freezer": "−18 °C 下自購買日起 1～2 個月。冷凍是品質上的妥協而不是災難：注過鹽水的薄片解凍後會出水，回來時更濕、更軟、更鹹，而且一撕就破。請整包未開封、平放冷凍，並在冷藏期限還充裕時就處理，不要拖到最後一天；解凍後的肉片建議用在加熱料理上——熱壓三明治、歐姆蛋——而不是冷的直接夾。",
+  "thawing": "放冷藏解凍，並在開封後的期限內用完。不要放室溫退冰，也不要二次冷凍。",
+  "spoilage": [
+   "肉片表面出現黏滑或發黏的薄膜。",
+   "拆封時聞到酸味、硫味或氨味。",
+   "出現灰色、綠色或虹彩光澤的斑，或邊緣乾黑。",
+   "包裝鼓脹，或裡面的汁液混濁牽絲。"
+  ],
+  "tips": [
+   "在包裝上寫開封日期。",
+   "放冷藏層架，絕對不要放門邊。",
+   "取出需要的量之後把包裝封回去，不要開著放。",
+   "懷孕或免疫功能低下者，請加熱到冒蒸氣再吃。"
+  ],
+  "faq": [
+   {
+    "q": "包裝熟肉片可以放多久？",
+    "a": "未開封自購買日起 4 °C 以下 2 週，開封後 3～5 天。"
+   },
+   {
+    "q": "熟肉片可以冷凍嗎？",
+    "a": "可以，−18 °C 下自購買日起 1～2 個月，但解凍後會更濕更軟，建議用在加熱料理。"
+   },
+   {
+    "q": "為什麼開封後短這麼多？",
+    "a": "開封讓家裡的細菌接觸到肉，而李斯特菌在冷藏溫度下仍會生長，偏偏這是一種後面沒有加熱步驟的即食食品。"
+   }
+  ]
+ }
+}

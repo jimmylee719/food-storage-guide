@@ -1,0 +1,83 @@
+{
+ "slug": "chicken-pre-packaged-luncheon-deli-meat",
+ "en": {
+  "name": "Chicken deli meat, pre-packaged",
+  "aliases": [
+   "sliced chicken breast",
+   "chicken luncheon meat",
+   "雞肉火腿片",
+   "fiambre de pollo"
+  ],
+  "summary": "A sealed pack of pre-packaged chicken deli meat keeps 2 weeks from purchase in the refrigerator at 4 °C (40 °F) or below, and 3–5 days once opened. Freezing is not recommended for quality, though the pack will hold 1–2 months from purchase at −18 °C (0 °F) if you do.",
+  "pantry": "Deli chicken does not belong at room temperature at any point. It is a cooked, moist, low-acid, ready-to-eat meat with no further cooking step, which is the profile most associated with Listeria — and Listeria, unusually, grows at refrigerator temperature, which is why the opened window is so short. Keep the pack cold on the way home, and out of the fridge give it two hours at most, or one hour above 32 °C (90 °F). A platter left on a buffet table is the classic mistake.",
+  "fridge": "Unopened, 2 weeks from purchase at 4 °C (40 °F) or below; once opened, 3–5 days. Keep it on a cold shelf rather than in the door, wrapped airtight or in a sealed box so the slices do not dry and grey at the edges, and away from raw meat. Because there is no cooking step to fall back on, people who are pregnant, elderly or immunocompromised are generally advised to heat ready-to-eat deli meats until steaming hot before eating them, or to avoid them.",
+  "freezer": "Freezing is not recommended: thin slices of cooked, brine-injected poultry lose water when they thaw and come back wet, soft and noticeably saltier, and they tear when you separate them. If you freeze it anyway, an unopened pack keeps 1–2 months from purchase at −18 °C (0 °F). Freeze it well inside the fridge window rather than on the last day, lay the pack flat, and plan to use the thawed slices in a cooked dish — a sandwich filling made from them will disappoint.",
+  "thawing": "Thaw in the fridge and use the slices within the opened window. Never thaw them on the counter, and do not refreeze.",
+  "spoilage": [
+   "A slimy or tacky film on the slices — the first and most reliable sign.",
+   "A sour, sulphurous or ammonia-like smell on opening.",
+   "Grey, green or iridescent patches, or dried dark edges.",
+   "A puffed pack, or liquid that has gone cloudy and ropy."
+  ],
+  "tips": [
+   "Write the opening date on the pack; the opened window is far shorter than the unopened one.",
+   "Keep it on a cold shelf, never in the fridge door.",
+   "Take out what you need and reseal rather than leaving the pack open on the counter.",
+   "Heat until steaming if you are pregnant or immunocompromised."
+  ],
+  "faq": [
+   {
+    "q": "How long does packaged chicken deli meat keep?",
+    "a": "2 weeks from purchase unopened in the fridge at 4 °C (40 °F) or below, and 3–5 days once opened."
+   },
+   {
+    "q": "Can you freeze deli chicken?",
+    "a": "It is not recommended — the slices come back wet and soft. If you do, an unopened pack keeps 1–2 months from purchase at −18 °C, and the thawed meat is best used in a cooked dish."
+   },
+   {
+    "q": "Why is deli meat a Listeria risk?",
+    "a": "It is eaten without further cooking, and Listeria can grow slowly even at refrigeration temperature. That is why the opened window is short and why vulnerable groups are told to heat it first."
+   }
+  ]
+ },
+ "zh": {
+  "name": "包裝雞肉火腿片",
+  "aliases": [
+   "雞胸火腿片",
+   "即食雞肉片",
+   "雞肉冷盤",
+   "deli chicken"
+  ],
+  "summary": "未開封的包裝雞肉火腿片，自購買日起放 4 °C 以下冷藏可放 2 週，開封後 3～5 天。基於品質考量並不建議冷凍；真要冷凍，未開封的包裝在 −18 °C 下自購買日起 1～2 個月。",
+  "pantry": "即食雞肉片在任何時候都不屬於室溫。它是煮熟、含水、低酸性的即食肉品，後面沒有任何加熱步驟，而這正是最常和李斯特菌連在一起的型態——李斯特菌不尋常的地方在於，它在冷藏溫度下仍會生長，這也是開封後期限如此短的原因。買回家的路上要保冷；離開冰箱最多兩小時，氣溫超過 32 °C 時最多一小時。把冷盤擺在自助餐桌上一整個下午，是最典型的錯誤。",
+  "fridge": "未開封自購買日起放 4 °C 以下 2 週；開封後 3～5 天。請放冷藏層架而不是門邊，密封包好或裝進密閉盒，避免肉片邊緣乾掉發灰，也要和生肉分開。因為沒有後續加熱步驟可以補救，懷孕、年長或免疫功能低下者，一般會被建議把即食熟肉加熱到冒蒸氣再吃，或乾脆避開。",
+  "freezer": "不建議冷凍：注過鹽水的熟禽肉薄片解凍後會出水，回來時濕軟、鹹味更明顯，而且一撕就破。真要冷凍的話，未開封的包裝在 −18 °C 下自購買日起可放 1～2 個月。請在冷藏期限還很充裕時就冷凍，不要拖到最後一天；包裝平放，並且打算把解凍後的肉片用在需要加熱的料理上——拿來夾三明治會讓人失望。",
+  "thawing": "放冷藏解凍，並在開封後的期限內用完。不要放室溫退冰，也不要二次冷凍。",
+  "spoilage": [
+   "肉片表面出現黏滑或發黏的薄膜——最早也最可靠的徵兆。",
+   "開封時聞到酸味、硫味或氨味。",
+   "出現灰色、綠色或虹彩光澤的斑，或邊緣乾黑。",
+   "包裝鼓脹，或滲出的汁液變混濁牽絲。"
+  ],
+  "tips": [
+   "在包裝上寫開封日期，開封後的期限比未開封短得多。",
+   "放冷藏層架，絕對不要放冰箱門邊。",
+   "要用多少拿多少再封回去，不要整包開著放在檯面上。",
+   "懷孕或免疫功能低下者，請加熱到冒蒸氣再吃。"
+  ],
+  "faq": [
+   {
+    "q": "包裝雞肉火腿片可以放多久？",
+    "a": "未開封自購買日起冷藏 4 °C 以下 2 週，開封後 3～5 天。"
+   },
+   {
+    "q": "可以冷凍嗎？",
+    "a": "不建議，解凍後會濕軟。真要冷凍，未開封包裝在 −18 °C 下自購買日起 1～2 個月，解凍後最好用在加熱的料理。"
+   },
+   {
+    "q": "為什麼即食熟肉有李斯特菌風險？",
+    "a": "因為它不會再加熱就被吃掉，而李斯特菌在冷藏溫度下仍能緩慢生長。這就是開封後期限很短、也建議高風險族群先加熱的原因。"
+   }
+  ]
+ }
+}

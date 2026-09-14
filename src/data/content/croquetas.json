@@ -1,0 +1,83 @@
+{
+ "slug": "croquetas",
+ "en": {
+  "name": "Croquetas",
+  "aliases": [
+   "béchamel croquettes",
+   "croquetas de jamón",
+   "西班牙可樂餅",
+   "croquettes"
+  ],
+  "summary": "Croquetas keep 2–3 days in the refrigerator at 4 °C (40 °F) or below — both the chilled béchamel before shaping and the fried croquetas afterwards — and 2–3 months in the freezer at −18 °C (0 °F), frozen raw and crumbed.",
+  "pantry": "Neither the béchamel nor the finished croqueta belongs at room temperature. The filling is a milk-and-flour paste enriched with cooked ham, chicken or fish: wet, low-acid, ready to eat, and handled a great deal by hand while it is rolled and crumbed, which is exactly the profile that gets contaminated after cooking. Chill the béchamel spread thin in a tray rather than deep in a bowl, cover it, and get it cold quickly. Fried croquetas out of the fryer get two hours at most before they go back in the fridge, or one hour above 32 °C (90 °F).",
+  "fridge": "2–3 days at 4 °C (40 °F) or below, covered, and that applies at both stages. If the béchamel contains egg and it has not been fully cooked through, treat it more strictly still — egg preparations should reach 70 °C for two seconds, and anything that has not is a same-day food. Keep the shaped, crumbed croquetas in a single layer on a tray rather than piled in a box, so they hold their shape and cool evenly, and always work with clean hands and a clean surface at the rolling stage.",
+  "freezer": "2–3 months at −18 °C (0 °F), and freezing is the right way to keep croquetas. Do it at the raw, crumbed stage: freeze them apart on a tray until solid, then bag them. Fry them straight from frozen in properly hot oil — a thawed croqueta bursts in the pan, because the filling softens before the crust sets. Croquetas that were fried, frozen and then refried are not worth eating; freeze before frying, not after.",
+  "thawing": "Do not thaw them. Fry raw frozen croquetas straight from the freezer in hot oil. Thawing makes the béchamel run and the croqueta split.",
+  "spoilage": [
+   "A sour or cheesy smell from the béchamel.",
+   "A slimy or tacky surface on the crumb coating.",
+   "Filling that has separated or gone watery inside the crust.",
+   "Any mould on the crumb, or a grey cast to the ham or chicken in the filling."
+  ],
+  "tips": [
+   "Chill the béchamel spread thin in a tray, never deep in a bowl.",
+   "Wash your hands and change the crumbing station if you are working in batches.",
+   "Freeze raw and crumbed on a tray, then bag once solid.",
+   "Fry from frozen in properly hot oil so the crust sets before the filling melts."
+  ],
+  "faq": [
+   {
+    "q": "How long do croquetas keep in the fridge?",
+    "a": "2–3 days at 4 °C (40 °F) or below, whether they are still béchamel or already fried."
+   },
+   {
+    "q": "Can you freeze croquetas?",
+    "a": "Yes, 2–3 months at −18 °C (0 °F). Freeze them raw and crumbed, and fry them straight from frozen."
+   },
+   {
+    "q": "Why do my croquetas burst in the oil?",
+    "a": "They were thawed, or the oil was not hot enough. The filling softens before the crust sets. Fry them frozen in properly hot oil."
+   }
+  ]
+ },
+ "zh": {
+  "name": "西班牙可樂餅（croquetas）",
+  "aliases": [
+   "白醬可樂餅",
+   "火腿可樂餅",
+   "炸奶油丸子",
+   "croquetas"
+  ],
+  "summary": "Croquetas 冷藏 4 °C 以下可放 2～3 天——不論是成形前的白醬餡，還是炸好之後的成品——冷凍 −18 °C 下則是 2～3 個月，而且應該在「生的、裹好粉」的狀態下冷凍。",
+  "pantry": "不論白醬餡還是成品，都不屬於室溫。內餡是牛奶與麵粉做成的糊，再拌進熟火腿、雞肉或魚：含水、低酸、即食，而且在搓形與裹粉的過程中被手大量接觸——那正是「煮完之後才被污染」最典型的情境。白醬請攤平在淺盤裡降溫，不要留在深盆裡，蓋好並盡快冰透。炸好的可樂餅離開油鍋後最多兩小時就該回冰箱，氣溫超過 32 °C 時最多一小時。",
+  "fridge": "4 °C 以下 2～3 天，加蓋，而且兩個階段都適用。如果白醬裡加了蛋而且沒有完全煮透，標準還要更嚴——含蛋的製備應該達到 70 °C 兩秒，沒達到的就是當天食品。裹好粉的可樂餅請單層排在盤子上，不要疊在盒子裡，才能保持形狀、也才冷得均勻；搓形階段一定要用乾淨的手和乾淨的檯面。",
+  "freezer": "−18 °C 下 2～3 個月，而冷凍正是保存 croquetas 的正確方式。請在「生的、已裹粉」的階段做：先攤開在盤上凍硬，再裝袋。下鍋時直接從冷凍炸，油溫要夠高——解凍過的可樂餅會在鍋裡爆開，因為外殼還沒定型、內餡就先化了。炸過、冷凍、再回炸的可樂餅不值得吃；要冷凍就在炸之前。",
+  "thawing": "不要解凍。生的冷凍可樂餅直接下熱油。解凍會讓白醬變稀，可樂餅就會裂開。",
+  "spoilage": [
+   "白醬發出酸味或起司味。",
+   "麵包粉外殼表面變得黏滑或發黏。",
+   "外殼裡的內餡分離或變得水水的。",
+   "麵包粉上長霉，或內餡裡的火腿、雞肉泛灰。"
+  ],
+  "tips": [
+   "白醬攤平在淺盤降溫，絕對不要留在深盆裡。",
+   "分批製作時要洗手、並更換裹粉的檯面與粉料。",
+   "生的裹好粉先攤盤冷凍，凍硬再裝袋。",
+   "直接從冷凍下熱油炸，外殼才會先定型。"
+  ],
+  "faq": [
+   {
+    "q": "croquetas 冷藏可以放多久？",
+    "a": "4 °C 以下 2～3 天，不論是白醬餡還是炸好的成品。"
+   },
+   {
+    "q": "croquetas 可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2～3 個月。請在生的、裹好粉的狀態冷凍，並直接從冷凍下鍋炸。"
+   },
+   {
+    "q": "為什麼可樂餅一下鍋就爆開？",
+    "a": "因為解凍過，或油溫不夠。內餡比外殼更早融化。請冷凍狀態下鍋，並確保油夠熱。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "douhua",
+ "en": {
+  "name": "Douhua (tofu pudding)",
+  "aliases": [
+   "tofu pudding",
+   "tofu fa",
+   "豆花",
+   "豆腐腦"
+  ],
+  "summary": "Fresh douhua keeps 1–2 days in the refrigerator at 4 °C (40 °F) or below, and that is a conservative reading of the advice for shop-made soy milk rather than a published figure for douhua. It should not be frozen, and it should not sit at room temperature.",
+  "pantry": "Douhua is not a counter food. It is soy milk set with a coagulant and nothing else — no acid, no salt, no preservative — so it inherits soy milk's risk profile entirely. Hot douhua may be held above 60 °C and cold douhua must be at 4 °C (40 °F) or below; the gap between the two is where Bacillus cereus grows, and its spores survive the boiling of the soy milk in the first place. A bowl standing at room temperature on a warm afternoon is precisely the situation to avoid.",
+  "fridge": "1–2 days at 4 °C (40 °F) or below, covered, and read that as careful rather than authoritative — the underlying advice is that shops selling their own soy milk should clear stock within a day of production and that consumers should refrigerate it immediately at 4 °C or below. Keep the syrup separate from the curd: a bowl that is already sweetened and topped with beans or pearls will not keep, because the toppings bring their own clock with them. Refrigerate the plain curd and assemble each bowl when you serve it.",
+  "freezer": "Do not freeze douhua. Freezing wrecks the curd — ice crystals tear the protein gel apart, and it thaws spongy and weeping, with the water separated out. That transformation is deliberate and desirable in 凍豆腐, where the sponge is the point, but it destroys douhua, whose whole appeal is a smooth, barely-set silkiness. There is no freezer timeline for it because there is no sensible way to freeze it.",
+  "thawing": null,
+  "spoilage": [
+   "A sour or fermented smell instead of a clean, faintly sweet soy one.",
+   "Liquid separating and the curd shrinking away from the sides.",
+   "A slimy or ropy texture, or bubbles in the whey.",
+   "Any pink, yellow or fuzzy patches on the surface."
+  ],
+  "tips": [
+   "Buy only as much as you will eat at one sitting.",
+   "Keep the curd and the syrup in separate containers.",
+   "Do not add toppings until the moment you serve it.",
+   "Hold it either above 60 °C or at 4 °C or below, never in between."
+  ],
+  "faq": [
+   {
+    "q": "How long does douhua keep?",
+    "a": "1–2 days refrigerated at 4 °C (40 °F) or below. That is a conservative reading of the advice for shop-made soy milk, which should be cleared within a day of production."
+   },
+   {
+    "q": "Can you freeze douhua?",
+    "a": "No. Freezing turns the curd spongy and weeping — the same change that makes 凍豆腐 good, and that ruins douhua."
+   },
+   {
+    "q": "Can you keep douhua that already has syrup and toppings on it?",
+    "a": "No. Store the plain curd and the syrup separately, and assemble each bowl when you serve it."
+   }
+  ]
+ },
+ "zh": {
+  "name": "豆花",
+  "aliases": [
+   "豆腐花",
+   "豆腐腦",
+   "嫩豆花",
+   "tofu pudding"
+  ],
+  "summary": "新鮮豆花冷藏 4 °C 以下可放 1～2 天；這是對「店家自製豆漿」建議的保守解讀，而不是為豆花公布的數字。它不該冷凍，也不該放在室溫。",
+  "pantry": "豆花不是可以放在檯面上的食物。它就是豆漿加凝固劑，此外什麼都沒有——沒有酸、沒有鹽、沒有防腐劑——所以它完整承接了豆漿的風險輪廓。熱豆花可以保溫在 60 °C 以上，冷豆花必須維持在 4 °C 以下；夾在兩者之間的溫度區間，正是仙人掌桿菌生長的地方，而它的孢子本來就撐得過煮豆漿的那一次沸騰。溫暖的午後把一碗豆花放在室溫，就是最該避免的情況。",
+  "fridge": "加蓋放 4 °C 以下 1～2 天，而這個數字請讀成「謹慎」而不是「權威」——背後的依據是：自製豆漿的店家應在製作後一天內清庫存，消費者買回家應立即冷藏於 4 °C 以下。糖水要和豆花分開放：已經加了糖水、鋪好配料的那一碗放不住，因為配料各自帶著自己的時鐘進來。請冷藏原味豆花，上桌時再組裝。",
+  "freezer": "不要冷凍豆花。冷凍會毀掉豆花——冰晶把蛋白質凝膠撕開，解凍後變成海綿狀並大量出水。這個轉變在「凍豆腐」裡是刻意追求的，海綿正是重點；但對豆花來說它是災難，因為豆花的價值就在那份滑順、幾乎剛剛凝固的細緻。它沒有冷凍期限，是因為根本沒有合理的冷凍方式。",
+  "thawing": null,
+  "spoilage": [
+   "聞起來發酸或有發酵味，而不是乾淨的淡淡豆香。",
+   "大量出水，豆花整塊縮小、脫離容器邊緣。",
+   "質地變得黏滑牽絲，或水層裡有氣泡。",
+   "表面出現粉紅、泛黃或絨毛狀的斑。"
+  ],
+  "tips": [
+   "買一次吃得完的份量就好。",
+   "豆花與糖水分開容器保存。",
+   "配料等到上桌前一刻再加。",
+   "要嘛 60 °C 以上保溫，要嘛 4 °C 以下冷藏，不要停在中間。"
+  ],
+  "faq": [
+   {
+    "q": "豆花可以放多久？",
+    "a": "冷藏 4 °C 以下 1～2 天。這是對「自製豆漿應於製作後一天內清完」這條建議的保守解讀。"
+   },
+   {
+    "q": "豆花可以冷凍嗎？",
+    "a": "不行。冷凍會讓它變成海綿狀並出水——那正是凍豆腐好吃的原因，卻是豆花的毀滅。"
+   },
+   {
+    "q": "已經加糖水和配料的豆花可以留嗎？",
+    "a": "不行。請把原味豆花和糖水分開保存，上桌時再組裝。"
+   }
+  ]
+ }
+}

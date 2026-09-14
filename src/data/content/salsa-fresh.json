@@ -1,0 +1,83 @@
+{
+ "slug": "salsa-fresh",
+ "en": {
+  "name": "Salsa, fresh",
+  "aliases": [
+   "pico de gallo",
+   "refrigerated salsa",
+   "新鮮莎莎醬",
+   "salsa fresca"
+  ],
+  "summary": "Fresh salsa — the kind sold in the chiller cabinet rather than in a jar on a shelf — keeps 4–7 days in the refrigerator at 4 °C (40 °F) or below. It is raw and unpasteurised, so the fridge is doing all the work.",
+  "pantry": "Fresh salsa is not a cupboard product. It is chopped raw tomato, onion, chilli and coriander with lime and salt, and although the lime and the chilli help, there is no heat process behind it — it carries whatever the vegetables carried in from the field, and there is no cooking step afterwards. That is what separates it from a shelf-stable jarred salsa, which has been heat-processed and sealed. Out of the fridge give it two hours at most, or one hour above 32 °C (90 °F), and serve it from a small bowl set in ice rather than putting the whole tub on the table.",
+  "fridge": "4–7 days at 4 °C (40 °F) or below, in a covered container on a cold shelf rather than in the door. Expect it to loosen as it stands — salt draws water out of the tomato and onion, so liquid gathers at the bottom; pour it off or stir it in, but a watery salsa that smells clean is not spoiled. Use a clean spoon every time. Never return salsa that has been on a table with chips in it to the container: double-dipping is what actually ends most tubs.",
+  "freezer": "No freezer timeline is published for fresh salsa, and freezing it changes what it is. The raw tomato, onion and cucumber-crisp texture collapses as ice crystals break the cell walls, and it thaws watery and soft — closer to a cooked sauce than to pico de gallo. Drained and blitzed it is fine as a base for a cooked sauce or a soup, so if you have a glut, freeze it with that use in mind rather than expecting to serve it fresh.",
+  "thawing": "Thaw in the fridge, drain off the water it releases, and use it in a cooked dish. Do not expect it to come back as a fresh salsa, and never thaw it on the counter.",
+  "spoilage": [
+   "A fizzy taste or a yeasty smell — raw salsa ferments readily.",
+   "Bubbles rising through the liquid, or a lid that has domed.",
+   "A slimy or ropy texture in the liquid.",
+   "Any mould on the surface, or a dull grey-brown colour throughout."
+  ],
+  "tips": [
+   "Serve from a small bowl and keep the tub in the fridge.",
+   "Never double-dip; a chip in the tub is how most salsas die.",
+   "Pour off the liquid that gathers rather than tipping it back in.",
+   "Add fresh coriander and lime to a two-day-old batch to lift it."
+  ],
+  "faq": [
+   {
+    "q": "How long does fresh salsa keep?",
+    "a": "4–7 days in a covered container in the fridge at 4 °C (40 °F) or below."
+   },
+   {
+    "q": "Why does jarred salsa keep so much longer?",
+    "a": "A shelf-stable jar has been heat-processed and sealed. Fresh salsa is raw and unpasteurised, so refrigeration is the only thing protecting it."
+   },
+   {
+    "q": "Can you freeze fresh salsa?",
+    "a": "No timeline is published, and freezing collapses the texture. Freeze it only as a base for cooked sauces or soups."
+   }
+  ]
+ },
+ "zh": {
+  "name": "新鮮莎莎醬",
+  "aliases": [
+   "pico de gallo",
+   "冷藏莎莎醬",
+   "墨西哥生莎莎",
+   "salsa fresca"
+  ],
+  "summary": "新鮮莎莎醬——冷藏櫃裡那一種，不是貨架上的玻璃罐——冷藏 4 °C 以下可放 4～7 天。它是生的、未經殺菌的，所有的保護都靠冰箱。",
+  "pantry": "新鮮莎莎醬不是櫥櫃產品。它是切碎的生番茄、洋蔥、辣椒與香菜，加上萊姆和鹽；萊姆與辣椒雖然有幫助，但它背後沒有任何加熱製程——蔬菜從田裡帶進來什麼，它就承接什麼，而且後面也沒有加熱步驟。這正是它和常溫瓶裝莎莎醬的差別：後者經過加熱殺菌並密封。離開冰箱最多兩小時，氣溫超過 32 °C 時最多一小時；上桌請分到架在冰上的小碗裡，不要整盒端出去。",
+  "fridge": "加蓋容器放 4 °C 以下 4～7 天，放冷藏層架而不是門邊。放著會越來越稀是正常的——鹽會把番茄和洋蔥的水拉出來，底部會積水；倒掉或拌勻都行，只要聞起來乾淨，變稀並不代表壞掉。每次都用乾淨的湯匙。也絕對不要把已經上過桌、被玉米片沾過的莎莎醬倒回容器：重複沾取才是多數莎莎醬真正的死因。",
+  "freezer": "新鮮莎莎醬沒有公布的冷凍期限，而且冷凍會改變它的本質。生番茄、洋蔥那種清脆的口感會在冰晶破壞細胞壁後整個垮掉，解凍後又水又軟——比較接近煮過的醬汁，而不是 pico de gallo。瀝乾後打碎，當成煮醬或湯的基底沒問題；所以量太多要冷凍的話，請一開始就以那個用途為前提。",
+  "thawing": "放冷藏解凍，倒掉滲出的水，並用在需要加熱的料理上。不要期待它恢復成新鮮莎莎醬，也不要放室溫退冰。",
+  "spoilage": [
+   "吃起來有氣泡感或聞起來有酵母味——生莎莎很容易發酵。",
+   "湯汁裡不斷冒泡，或盒蓋鼓起。",
+   "湯汁變得黏滑牽絲。",
+   "表面長霉，或整體變成暗灰褐色。"
+  ],
+  "tips": [
+   "分到小碗上桌，盒子留在冰箱。",
+   "不要重複沾取，一片玉米片就足以毀掉一整盒。",
+   "積出來的水倒掉，不要倒回去。",
+   "放了兩天的莎莎醬，補一點新鮮香菜和萊姆就會回神。"
+  ],
+  "faq": [
+   {
+    "q": "新鮮莎莎醬可以放多久？",
+    "a": "加蓋容器放 4 °C 以下冷藏 4～7 天。"
+   },
+   {
+    "q": "為什麼瓶裝的可以放那麼久？",
+    "a": "常溫瓶裝經過加熱殺菌並密封。新鮮莎莎醬是生的、未殺菌，只有冷藏在保護它。"
+   },
+   {
+    "q": "新鮮莎莎醬可以冷凍嗎？",
+    "a": "沒有公布的期限，而且冷凍會毀掉口感。只建議當成煮醬或湯的基底冷凍。"
+   }
+  ]
+ }
+}

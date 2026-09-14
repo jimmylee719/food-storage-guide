@@ -1,0 +1,83 @@
+{
+ "slug": "congee",
+ "en": {
+  "name": "Congee",
+  "aliases": [
+   "rice porridge",
+   "jook",
+   "粥",
+   "gachas de arroz"
+  ],
+  "summary": "Cooked congee keeps 1–2 days in the refrigerator at 5 °C or below, and about 6 months in the freezer at −18 °C (0 °F). Anything you cannot eat within a couple of days should go in the freezer rather than staying in the fridge.",
+  "pantry": "A big pot of congee left to cool slowly on the stove is a classic Bacillus cereus incubator. It is starchy, it is wet, and it cools from the outside in, so the middle of the pot stays warm for hours while the surface feels fine. Decant it into shallow containers as soon as you have finished serving and refrigerate it; do not leave the pot out overnight, and do not leave it on a low burner all afternoon hoping the heat will protect it — that only works if the food is genuinely held above 60 °C.",
+  "fridge": "1–2 days at 5 °C or below is the limit for cooked starchy food of this kind; beyond that it must be frozen rather than kept cold. Store it in shallow covered containers so it chills quickly, not in the stockpot. Reheat it to a rolling boil rather than merely warming it — but understand what that does and does not achieve: boiling kills the bacteria, and it does not destroy the emetic toxin they may already have produced while the pot sat warm. That is why the cooling matters more than the reheating.",
+  "freezer": "About 6 months at −18 °C (0 °F). Take that as a borrowed figure — it is read across from cooked rice, which is what congee is, just wetter. Freeze it in single portions in flat bags or small tubs the same day it is made, once it has cooled fast. The texture thins on thawing because the starch releases water, so reheat it and let it reduce, or stir in a little extra rice or a spoonful of cooked grain to bring the body back.",
+  "thawing": "Reheat frozen portions straight from the freezer in a pan over low heat, stirring, or thaw in the fridge first. Bring it to a full boil, and never thaw congee on the counter.",
+  "spoilage": [
+   "A sour or fermented smell when the lid comes off.",
+   "Bubbles or a fizzy, gassy quality in cold congee.",
+   "A ropy, stringy or slimy texture.",
+   "Any mould on the surface, or a pink or grey cast."
+  ],
+  "tips": [
+   "Decant into shallow containers to cool; never chill the whole stockpot.",
+   "Freeze surplus on the day it is cooked rather than at the end of the fridge window.",
+   "Reheat only the portion you will eat, to a full boil.",
+   "Hold it above 60 °C if you want to keep it hot, not on a warm-but-not-hot burner."
+  ],
+  "faq": [
+   {
+    "q": "How long can congee be kept in the fridge?",
+    "a": "1–2 days at 5 °C or below. Anything beyond that should be frozen instead."
+   },
+   {
+    "q": "Can you freeze congee?",
+    "a": "Yes, about 6 months at −18 °C (0 °F) — a figure read across from cooked rice. It thins on thawing, so reheat and reduce it."
+   },
+   {
+    "q": "Does reheating congee make it safe again?",
+    "a": "Not entirely. Boiling kills the bacteria but does not destroy the toxin they may have made while the pot stood warm. Cool it fast in the first place."
+   }
+  ]
+ },
+ "zh": {
+  "name": "粥",
+  "aliases": [
+   "稀飯",
+   "清粥",
+   "廣東粥",
+   "地瓜粥"
+  ],
+  "summary": "煮好的粥冷藏 5 °C 以下可放 1～2 天，冷凍 −18 °C 下約 6 個月。兩天內吃不完的，該進冷凍庫而不是繼續放冷藏。",
+  "pantry": "一大鍋粥留在爐上慢慢放涼，是仙人掌桿菌最經典的培養場景。它含澱粉、含水，而且是由外往內冷卻，所以表面摸起來已經不燙的時候，鍋子中心還溫了好幾個小時。盛完之後請立刻分裝進淺容器冷藏；不要整鍋放過夜，也不要開著小火放一下午指望熱度保護它——那只有在食物真的維持在 60 °C 以上時才成立。",
+  "fridge": "這一類熟的澱粉類食品，冷藏上限是 5 °C 以下 1～2 天；超過就必須冷凍，而不是繼續冰在冷藏。請用淺的加蓋容器讓它快速降溫，不要整鍋冰。回熱時要煮到滾沸，而不只是加溫——但也要理解這件事能做到什麼、不能做到什麼：煮沸殺得死細菌，卻破壞不了它們在鍋子溫著的那幾個小時裡可能已經產生的嘔吐型毒素。這就是為什麼「降溫」比「回熱」更重要。",
+  "freezer": "−18 °C 下約 6 個月。請把這個數字當成借來的參考——它是比照「煮熟的白飯」來的，而粥本來就是水分更多的熟米。請在煮好當天、快速降溫之後，分成單人份裝進扁平的袋子或小盒冷凍。解凍後質地會變稀，因為澱粉放出水分，所以回熱時讓它收一下，或拌進一點多的飯或熟穀物把稠度補回來。",
+  "thawing": "冷凍的份量可以直接下鍋小火邊煮邊攪，或先放冷藏解凍。一定要煮到滾沸，而且絕對不要放在室溫退冰。",
+  "spoilage": [
+   "掀蓋就聞到酸味或發酵味。",
+   "冰過的粥出現氣泡或有脹氣感。",
+   "質地變得牽絲、黏滑。",
+   "表面長霉，或整體泛粉紅、發灰。"
+  ],
+  "tips": [
+   "分裝進淺容器降溫，不要整鍋冰。",
+   "多的當天就冷凍，不要拖到冷藏期限的最後一天。",
+   "要吃多少熱多少，而且要煮到滾。",
+   "要保溫就真的維持在 60 °C 以上，不要停在「溫溫的」。"
+  ],
+  "faq": [
+   {
+    "q": "粥冷藏可以放多久？",
+    "a": "5 °C 以下 1～2 天。超過就該改成冷凍。"
+   },
+   {
+    "q": "粥可以冷凍嗎？",
+    "a": "可以，−18 °C 下約 6 個月，這個數字是比照熟米飯得來的。解凍後會變稀，回熱時收一下即可。"
+   },
+   {
+    "q": "再煮滾一次就安全了嗎？",
+    "a": "不完全。煮沸殺得死細菌，但破壞不了它們在鍋子溫著時可能已經產生的毒素。關鍵還是一開始就快速降溫。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "ghee-rice",
+ "en": {
+  "name": "Ghee rice and pilaf",
+  "aliases": [
+   "neychoru",
+   "pulao",
+   "biryani",
+   "印度香料飯"
+  ],
+  "summary": "Cooked ghee rice, pulao and biryani keep 4–6 days in the refrigerator at 4 °C (40 °F) or below, and about 6 months in the freezer at −18 °C (0 °F). Read the fridge figure as an outer limit: it is a generic cooked-rice number, and how fast you cooled the pot matters more than the date.",
+  "pantry": "A covered pot of pilaf left on the stove overnight is the classic way to get ill from rice. Uncooked rice carries Bacillus cereus spores that survive cooking, and the toxins formed while those bacteria multiply cannot be eliminated by reheating — so the cooling is the control, not the reheat. Spread the rice out to cool from 60 °C to 20 °C within two hours and then down to 4 °C (40 °F) within four, in shallow trays rather than the pot it was cooked in.",
+  "fridge": "4–6 days at 4 °C (40 °F) or below, covered and shallow. Take that as a borrowed, generic figure for cooked rice rather than a biryani-specific one: several national agencies give much shorter advice for leftover rice, and if the pot could not be cooled quickly, treat it as a one-day food instead. If there is chicken, mutton or egg in the biryani, use it sooner rather than later. Reheat only once, and until it is steaming hot right through.",
+  "freezer": "About 6 months at −18 °C (0 °F) — again a figure read across from plain cooked rice. Freeze it in meal-sized portions on the day it is made, while it is fresh, in flat bags with the air pressed out, and reheat straight from frozen with a splash of water under a lid so the grains steam rather than dry out. Whole spices and a ghee-rich rice freeze particularly well; yoghurt-based biryani gravies are the part most likely to split.",
+  "thawing": "Reheat straight from frozen in a covered pan or the microwave, with a splash of water, until steaming hot throughout. If you thaw first, do it in the fridge and never on the counter.",
+  "spoilage": [
+   "A sour or fermented smell when the lid comes off.",
+   "A slimy or sticky film on the grains, or rice that has clumped into a ropy mass.",
+   "Any mould, including under the surface of a packed container.",
+   "An off, yeasty smell from the meat or egg in a biryani."
+  ],
+  "tips": [
+   "Spread the rice in shallow trays to cool; never chill the whole pot.",
+   "Freeze surplus the same day rather than at the end of the fridge window.",
+   "Reheat only the portion you will eat, and only once.",
+   "If the pot sat out warm for hours, treat it as a one-day food regardless of the range."
+  ],
+  "faq": [
+   {
+    "q": "How long does cooked biryani or pulao keep?",
+    "a": "4–6 days in the fridge at 4 °C (40 °F) or below if it was cooled quickly. That is a generic cooked-rice figure and should be treated as an outer limit."
+   },
+   {
+    "q": "Can you freeze ghee rice?",
+    "a": "Yes, about 6 months at −18 °C (0 °F). Freeze it in portions on the day it is cooked and reheat from frozen with a splash of water."
+   },
+   {
+    "q": "Does reheating rice make it safe?",
+    "a": "No. Bacillus cereus spores survive cooking, and the toxins formed while the rice sat warm are not destroyed by reheating. Cooling it fast is what protects you."
+   }
+  ]
+ },
+ "zh": {
+  "name": "印度酥油香料飯",
+  "aliases": [
+   "香料飯",
+   "印度抓飯",
+   "比爾亞尼飯",
+   "pulao"
+  ],
+  "summary": "煮好的酥油飯、pulao 與 biryani 冷藏 4 °C 以下可放 4～6 天，冷凍 −18 °C 下約 6 個月。冷藏那個數字請當成上限來讀：它是通用的熟米飯數字，而「你降溫的速度」比日期更重要。",
+  "pantry": "一鍋蓋著的香料飯留在爐上過夜，是米飯讓人食物中毒最典型的方式。生米本身帶有仙人掌桿菌的孢子，它撐得過烹煮；而細菌繁殖時形成的毒素，無法靠再加熱消除——所以控制點在降溫，不在回熱。請把飯攤開，讓它在兩小時內從 60 °C 降到 20 °C、再於四小時內降到 4 °C 以下，用的是淺盤，而不是原本那口鍋。",
+  "fridge": "加蓋、淺裝，放 4 °C 以下 4～6 天。請把它理解成借來的通用熟米飯數字，而不是 biryani 專屬的：好幾個國家的機關對「隔夜飯」給的建議都短得多；如果那鍋飯當初沒能快速降溫，就當成一天的食物處理。biryani 裡若有雞肉、羊肉或蛋，請盡早吃完。回熱只能一次，而且要熱到整份冒蒸氣。",
+  "freezer": "−18 °C 下約 6 個月——同樣是比照原味熟米飯得來的數字。請在煮好當天、還新鮮時就分成一餐份，裝進扁平袋並壓出空氣冷凍；回熱時直接從冷凍下鍋，加一點水、蓋著加熱，讓米粒是被蒸開而不是被烤乾。整粒香料與酥油含量高的飯冷凍效果特別好；用優格做的 biryani 醬汁則最容易油水分離。",
+  "thawing": "直接從冷凍加蓋回熱（鍋子或微波皆可），加一點水，熱到整份冒蒸氣。若要先解凍，請放冷藏，絕不要放室溫。",
+  "spoilage": [
+   "掀蓋就聞到酸味或發酵味。",
+   "米粒表面黏滑，或整團牽絲黏成一塊。",
+   "出現霉，包括壓實的容器表面底下。",
+   "biryani 裡的肉或蛋發出異味、酵母味。"
+  ],
+  "tips": [
+   "把飯攤在淺盤上降溫，不要整鍋冰。",
+   "多的當天就冷凍，不要拖到冷藏期限的尾聲。",
+   "要吃多少熱多少，而且只熱一次。",
+   "如果那鍋飯在外面溫了好幾個小時，不管期限是多少，都當成一天的食物。"
+  ],
+  "faq": [
+   {
+    "q": "煮好的香料飯可以放多久？",
+    "a": "若有快速降溫，冷藏 4 °C 以下 4～6 天。這是通用的熟米飯數字，請當成上限。"
+   },
+   {
+    "q": "酥油飯可以冷凍嗎？",
+    "a": "可以，−18 °C 下約 6 個月。煮好當天分份冷凍，回熱時直接從冷凍加一點水加熱。"
+   },
+   {
+    "q": "再加熱一次就安全了嗎？",
+    "a": "不會。仙人掌桿菌的孢子撐得過烹煮，而飯放溫時形成的毒素也不會被加熱破壞。保護你的是快速降溫。"
+   }
+  ]
+ }
+}

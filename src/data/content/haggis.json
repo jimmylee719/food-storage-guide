@@ -1,0 +1,83 @@
+{
+ "slug": "haggis",
+ "en": {
+  "name": "Haggis",
+  "aliases": [
+   "Scottish haggis",
+   "oatmeal pudding",
+   "蘇格蘭羊雜布丁",
+   "asadura escocesa"
+  ],
+  "summary": "A butcher's haggis keeps 2–3 days from purchase in the refrigerator at 4 °C (40 °F) or below; once cooked, the leftovers keep 3–4 days. Frozen, it holds 1–2 months from purchase at −18 °C (0 °F). A vacuum-packed supermarket haggis follows its own printed date instead.",
+  "pantry": "Haggis does not keep at room temperature at any stage. It is sold already cooked, but it is offal-based, moist and low in acid, which is about as hospitable a food as a kitchen contains — and it must always be reheated right through before eating. The real hazard with it is not the fridge but the cooling: a whole haggis is a dense mass that is usually reheated in an oven for an hour or more and then left on the side, and dense low-acid offal cooling slowly on a worktop is a textbook Clostridium perfringens situation. Divide it and chill it fast, within two hours.",
+  "fridge": "An unwrapped butcher's haggis in its natural or synthetic casing keeps like a fresh sausage: 2–3 days from purchase at 4 °C (40 °F) or below. A vacuum-packed supermarket one keeps to its printed date instead. Once it has been reheated, the leftovers are a cooked meat dish and keep 3–4 days at the same temperature — cut it out of the casing, spread it in a shallow container and refrigerate it promptly rather than leaving the whole thing to cool on the hob.",
+  "freezer": "1–2 months from purchase at −18 °C (0 °F), raw-packed or cooked. Wrap it well and freeze it in portions if you can, because thawing is the step most often got wrong here: a haggis this dense must be thawed fully in the refrigerator before reheating, or the centre will still be cold when the outside looks done. Allow a full day in the fridge for a large one, and longer if it is a catering size.",
+  "thawing": "Thaw it completely in the refrigerator — a day or more for a large one — before reheating. Never thaw it on the counter, and never try to reheat a part-frozen haggis.",
+  "spoilage": [
+   "A sour, sharp or ammonia-like smell rather than the usual peppery offal one.",
+   "A slimy or sticky film on the casing or on the cut surface.",
+   "Grey-green patches, or fat that has turned rancid and smells of paint.",
+   "A swollen vacuum pack, or a casing that has burst in storage."
+  ],
+  "tips": [
+   "Cut the casing and spread the meat in a shallow container to cool quickly.",
+   "Freeze in portions so you never thaw and refreeze a whole one.",
+   "Thaw fully in the fridge before reheating; a dense centre will not come up to temperature otherwise.",
+   "Reheat until steaming hot right through, every time."
+  ],
+  "faq": [
+   {
+    "q": "How long does haggis keep in the fridge?",
+    "a": "2–3 days from purchase for a butcher's haggis at 4 °C (40 °F) or below, or its printed date if it is vacuum-packed. Cooked leftovers keep 3–4 days."
+   },
+   {
+    "q": "Can you freeze haggis?",
+    "a": "Yes, 1–2 months from purchase at −18 °C (0 °F). Thaw it fully in the fridge before reheating."
+   },
+   {
+    "q": "Does haggis need to be cooked if it is sold cooked?",
+    "a": "It is sold cooked but it must always be reheated right through. It is a moist, low-acid offal product, so a thorough reheat is not optional."
+   }
+  ]
+ },
+ "zh": {
+  "name": "哈吉斯（蘇格蘭羊雜布丁）",
+  "aliases": [
+   "蘇格蘭羊雜腸",
+   "羊肚雜碎布丁",
+   "haggis",
+   "燕麥羊雜布丁"
+  ],
+  "summary": "肉舖現做的哈吉斯自購買日起冷藏 4 °C 以下可放 2～3 天；加熱之後的剩菜則是 3～4 天。冷凍 −18 °C 下自購買日起 1～2 個月。超市的真空包則以其標示日期為準。",
+  "pantry": "哈吉斯在任何階段都不能放室溫。它販售時已經煮熟，但它是以內臟為主、含水、低酸性的食品，幾乎是廚房裡最好養菌的東西之一——所以每次吃之前都必須徹底加熱。它真正的危害其實不在冰箱，而在降溫：一整顆哈吉斯是密度很高的一團，通常在烤箱裡回熱一小時以上，然後就被放在旁邊；而密實的低酸內臟在流理台上慢慢降溫，正是產氣莢膜梭菌的教科書場景。請切開分裝，並在兩小時內快速冰透。",
+  "fridge": "肉舖現做、未真空的哈吉斯（天然腸衣或人工腸衣）比照新鮮香腸：自購買日起放 4 °C 以下 2～3 天。超市真空包則依其標示日期。加熱過之後，剩下的就是一道熟肉料理，在同樣溫度下可放 3～4 天——請把腸衣剖開、把肉攤進淺容器盡快冷藏，而不是整顆留在爐台上放涼。",
+  "freezer": "−18 °C 下自購買日起 1～2 個月，生的或熟的都可以。請包好，並盡量分份冷凍，因為這裡最常被做錯的一步是解凍：這麼密實的東西必須在冷藏中完全解凍才能回熱，否則外面看起來好了，中心還是冰的。大顆的請預留整整一天，營業用尺寸要更久。",
+  "thawing": "務必在冷藏中完全解凍——大顆的要一天以上——再回熱。不要放室溫退冰，也絕對不要回熱半凍的哈吉斯。",
+  "spoilage": [
+   "聞起來發酸、刺鼻或有氨味，而不是原本帶胡椒味的內臟香。",
+   "腸衣或切面出現黏滑、發黏的薄膜。",
+   "出現灰綠色斑塊，或油脂走油、聞起來像油漆。",
+   "真空包鼓脹，或腸衣在保存中爆開。"
+  ],
+  "tips": [
+   "剖開腸衣、把肉攤進淺容器，才能快速降溫。",
+   "分份冷凍，就不會發生整顆解凍又冰回去的情況。",
+   "回熱前一定要在冷藏中完全解凍，否則中心熱不起來。",
+   "每一次都要加熱到整份冒蒸氣。"
+  ],
+  "faq": [
+   {
+    "q": "哈吉斯冷藏可以放多久？",
+    "a": "肉舖現做的自購買日起 4 °C 以下 2～3 天，真空包依標示日期。加熱後的剩菜 3～4 天。"
+   },
+   {
+    "q": "哈吉斯可以冷凍嗎？",
+    "a": "可以，−18 °C 下自購買日起 1～2 個月。回熱前務必在冷藏中完全解凍。"
+   },
+   {
+    "q": "已經煮熟了還要再加熱嗎？",
+    "a": "要。它是含水的低酸性內臟製品，徹底回熱不是選項而是必要步驟。"
+   }
+  ]
+ }
+}

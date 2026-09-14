@@ -1,0 +1,83 @@
+{
+ "slug": "tamales",
+ "en": {
+  "name": "Tamales, cooked",
+  "aliases": [
+   "tamal",
+   "corn husk tamales",
+   "墨西哥粽",
+   "tamales de maíz"
+  ],
+  "summary": "Cooked tamales keep 3–4 days in the refrigerator at 4 °C (40 °F) or below, and 2–3 months in the freezer at −18 °C (0 °F). The husk that keeps them moist is also what makes them cool dangerously slowly.",
+  "pantry": "A tamal is wet cooked masa inside an insulating husk, stacked in a deep pot — about the slowest-cooling thing a kitchen produces. Cooked starch left to cool slowly grows Bacillus cereus, whose spores survive cooking, and the rule for cooked rice is to chill it as quickly as possible, ideally within an hour; the same thinking applies here. Spread the tamales in a single layer to cool rather than leaving the pot stacked, and refrigerate within two hours, or one hour above 32 °C (90 °F). A tall pot left to cool overnight is exactly the hazard.",
+  "fridge": "3–4 days at 4 °C (40 °F) or below, in the husk, bagged or in a covered container so they do not dry out. Reheat by steaming until they are hot right through — a tamal reheated only at the edges is easy to produce and is the thing to avoid — and reheat only the portion you will eat, once. Tamales with pork or chicken in them deserve the short end of the range; sweet ones with only masa and fruit are more forgiving.",
+  "freezer": "2–3 months at −18 °C (0 °F). Freeze them in the husk once they are fully cold, bagged with the air pressed out, laid flat in a single layer until solid. Steam them from frozen for twenty to thirty minutes; microwaving a frozen tamal leaves a cold core, which is both unpleasant and the wrong way to reheat a dense, low-acid, starchy food. They freeze well because the husk protects the masa from drying and from freezer burn.",
+  "thawing": "Steam them straight from frozen until hot right through. If you thaw first, do it in the fridge overnight. Never thaw them on the counter or reheat them from half-frozen.",
+  "spoilage": [
+   "A sour or fermented smell when the husk is opened.",
+   "A slimy or sticky film on the masa.",
+   "Mould on the husk or the masa, often greenish or white and fuzzy.",
+   "Filling that smells off, or masa that has gone grey and wet."
+  ],
+  "tips": [
+   "Spread them in a single layer to cool; never chill a stacked pot.",
+   "Freeze in the husk — it protects the masa from drying out.",
+   "Steam from frozen rather than microwaving.",
+   "Reheat only what you will eat, until hot right through."
+  ],
+  "faq": [
+   {
+    "q": "How long do tamales keep in the fridge?",
+    "a": "3–4 days at 4 °C (40 °F) or below, in the husk and covered so they do not dry out."
+   },
+   {
+    "q": "Can you freeze tamales?",
+    "a": "Yes, 2–3 months at −18 °C (0 °F). Freeze them in the husk once fully cold, and steam them from frozen."
+   },
+   {
+    "q": "Can tamales cool overnight in the pot?",
+    "a": "No. The husk insulates and a stacked pot stays warm for hours. Spread them out to cool and refrigerate within two hours."
+   }
+  ]
+ },
+ "zh": {
+  "name": "墨西哥粽（tamales）",
+  "aliases": [
+   "玉米粽",
+   "塔馬利",
+   "玉米葉粽",
+   "tamal"
+  ],
+  "summary": "煮熟的 tamales 冷藏 4 °C 以下可放 3～4 天，冷凍 −18 °C 下 2～3 個月。那層讓它保持濕潤的葉子，同時也讓它降溫慢得危險。",
+  "pantry": "一顆 tamal 是包在隔熱葉子裡的濕熟玉米麵團，而且通常整鍋疊著——大概是廚房裡降溫最慢的東西。慢慢放涼的熟澱粉會長仙人掌桿菌，它的孢子撐得過烹煮；而熟米飯的規則是「盡快降溫，最好在一小時內」，這裡的道理完全一樣。請把 tamales 單層攤開放涼，不要整鍋疊著，並在兩小時內冷藏，氣溫超過 32 °C 時縮短為一小時。一鍋高高疊著放涼一整晚，正是那個危害本身。",
+  "fridge": "連葉子一起，裝袋或加蓋放 4 °C 以下 3～4 天，避免乾掉。回熱請用蒸的，蒸到中心熱透——只有邊緣熱的 tamal 很容易做出來，而那正是要避免的——而且要吃多少熱多少，只熱一次。包豬肉或雞肉的請取期限的短端；只有玉米麵團和水果的甜口味則寬容一些。",
+  "freezer": "−18 °C 下 2～3 個月。等完全冷透之後，連葉子裝袋、把空氣壓出、單層平放凍硬。回熱時直接從冷凍蒸二十到三十分鐘；用微波處理冷凍 tamal 會留下冰冷的中心，既難吃，也不是回熱密實低酸澱粉食品該用的方式。它很耐冷凍，因為葉子會保護玉米麵團不乾也不凍傷。",
+  "thawing": "直接從冷凍蒸到中心熱透。若要先解凍，請放冷藏隔夜。不要放室溫退冰，也不要回熱半凍的狀態。",
+  "spoilage": [
+   "剝開葉子就聞到酸味或發酵味。",
+   "玉米麵團表面出現黏滑或發黏的薄膜。",
+   "葉子或麵團上長霉，常見綠色或白色絨毛。",
+   "內餡氣味不對，或麵團變灰變濕。"
+  ],
+  "tips": [
+   "單層攤開放涼，絕對不要整鍋疊著冰。",
+   "連葉子冷凍，葉子能保護麵團不乾。",
+   "從冷凍直接蒸，不要用微波。",
+   "要吃多少熱多少，並確認中心熱透。"
+  ],
+  "faq": [
+   {
+    "q": "tamales 冷藏可以放多久？",
+    "a": "連葉子加蓋放 4 °C 以下 3～4 天，避免乾掉。"
+   },
+   {
+    "q": "tamales 可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2～3 個月。完全冷透後連葉子冷凍，回熱時直接蒸。"
+   },
+   {
+    "q": "可以整鍋放涼一整晚嗎？",
+    "a": "不行。葉子會隔熱，疊著的鍋子會溫好幾個小時。請攤開放涼並在兩小時內冷藏。"
+   }
+  ]
+ }
+}

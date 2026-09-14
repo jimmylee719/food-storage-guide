@@ -1,0 +1,83 @@
+{
+ "slug": "crackers",
+ "en": {
+  "name": "Crackers",
+  "aliases": [
+   "savoury biscuits",
+   "saltines",
+   "餅乾（鹹）",
+   "galletas saladas"
+  ],
+  "summary": "An unopened box of crackers keeps 8 months from purchase in the cupboard and about 1 month once opened. Refrigerated in a sealed container an opened pack keeps 3–4 months, and the freezer gives 3–4 months at −18 °C (0 °F).",
+  "pantry": "Cool, dry and dark, 8 months from purchase while the inner sleeve is sealed, and about 1 month after opening. Crackers are dry baked wheat with fat and salt, so nothing grows in them; they fail by absorbing humidity and going soft, and by the fat in them going stale. That is why the opened figure collapses so sharply — a torn sleeve in a cardboard box is not a seal. Clip the sleeve hard or decant into an airtight tin, and keep the box off the shelf above the kettle.",
+  "fridge": "An opened pack in a genuinely airtight container keeps 3–4 months at 4 °C (40 °F) or below, which is a striking improvement on the month it gets in the cupboard — cold slows the fat down. The catch is that the fridge is humid, so the container has to be properly sealed and the crackers must come back to room temperature inside it before you open it, or condensation will land on them and undo the whole point. In a dry, cool kitchen a sealed tin in the cupboard is simpler.",
+  "freezer": "3–4 months at −18 °C (0 °F). Freezing works well for crackers because they contain almost no water, so there is nothing to form ice crystals and the texture is unaffected. Freeze them in the sealed sleeve inside a freezer bag, and let the whole thing return to room temperature before opening it. A few minutes in a low oven restores the snap to any cracker that has picked up a little moisture along the way.",
+  "thawing": "Let the sealed pack come back to room temperature before opening it. Crisp them in a low oven for a few minutes if they have softened.",
+  "spoilage": [
+   "Crackers that bend instead of snapping — moisture, not spoilage.",
+   "A stale, cardboard or rancid smell from the fat.",
+   "Mould or a musty smell in a box that got damp.",
+   "Weevils, moths or fine dust in the sleeve."
+  ],
+  "tips": [
+   "Decant an opened sleeve into an airtight tin; the box is not a seal.",
+   "Store away from the kettle and the hob — steam and heat both age them.",
+   "Crisp softened crackers in a low oven rather than throwing them away.",
+   "Let a chilled or frozen pack warm fully before opening."
+  ],
+  "faq": [
+   {
+    "q": "How long do crackers keep?",
+    "a": "8 months from purchase unopened in a cupboard, about 1 month once opened, or 3–4 months in a sealed container in the fridge or freezer."
+   },
+   {
+    "q": "Can you freeze crackers?",
+    "a": "Yes, 3–4 months at −18 °C (0 °F). They contain almost no water, so the texture survives. Let the pack warm to room temperature before opening."
+   },
+   {
+    "q": "My crackers have gone soft. Are they off?",
+    "a": "No, they have absorbed moisture. A few minutes in a low oven crisps them again. A rancid or musty smell is a different matter."
+   }
+  ]
+ },
+ "zh": {
+  "name": "鹹餅乾",
+  "aliases": [
+   "蘇打餅乾",
+   "克力架",
+   "鹽味餅乾",
+   "crackers"
+  ],
+  "summary": "未開封的整盒鹹餅乾自購買日起放櫥櫃可放 8 個月，開封後約 1 個月。開封後改用密封容器冷藏可達 3～4 個月，冷凍 −18 °C 下也是 3～4 個月。",
+  "pantry": "陰涼、乾燥、避光：內袋未拆時，自購買日起 8 個月；開封後約 1 個月。鹹餅乾是加了油脂與鹽的乾烤小麥製品，裡面長不出什麼東西；它壞掉的方式是吸濕變軟，以及裡面的油脂走味。這也是為什麼開封後的數字掉得這麼兇——一個紙盒裡撕開的塑膠袋，不算密封。請把內袋確實夾緊或倒進氣密鐵罐，整盒也不要放在熱水壺上方的層架。",
+  "fridge": "開封後裝進真正氣密的容器放 4 °C 以下，可達 3～4 個月——比櫥櫃那一個月好得驚人，因為低溫拖慢了油脂的變化。但有個前提：冰箱是潮濕的，所以容器必須真的密封，而且餅乾要「連容器」回到室溫才能打開，否則水氣會凝在餅乾上，把這件事的意義整個抵銷。在乾爽涼快的廚房，密封鐵罐放櫥櫃反而單純。",
+  "freezer": "−18 °C 下 3～4 個月。餅乾很適合冷凍，因為它幾乎不含水，沒有東西可以結成冰晶，質地也不受影響。請連著密封內袋一起裝進冷凍袋，並且要整包回到室溫再打開。過程中吸了一點水氣的餅乾，用低溫烤箱烘幾分鐘就會恢復「喀」的聲音。",
+  "thawing": "讓密封的整包回到室溫再打開。如果已經變軟，用低溫烤箱烘幾分鐘即可回脆。",
+  "spoilage": [
+   "餅乾會彎而不是清脆折斷——那是受潮，不是腐敗。",
+   "油脂發出陳味、紙板味或油耗味。",
+   "受潮的盒子長霉或有霉味。",
+   "袋子裡有米蟲、蛾或細粉。"
+  ],
+  "tips": [
+   "開封後倒進氣密鐵罐，紙盒不算密封。",
+   "遠離熱水壺與爐台，蒸氣和溫度都會催老它。",
+   "軟掉的餅乾用低溫烤箱烘一下，不要直接丟。",
+   "冷藏或冷凍過的整包要完全回溫再打開。"
+  ],
+  "faq": [
+   {
+    "q": "鹹餅乾可以放多久？",
+    "a": "未開封放櫥櫃自購買日起 8 個月，開封後約 1 個月；改用密封容器冷藏或冷凍則是 3～4 個月。"
+   },
+   {
+    "q": "餅乾可以冷凍嗎？",
+    "a": "可以，−18 °C 下 3～4 個月。它幾乎不含水，質地撐得住。拿出來要完全回溫再打開。"
+   },
+   {
+    "q": "餅乾軟掉了是壞了嗎？",
+    "a": "不是，那是吸了水氣。用低溫烤箱烘幾分鐘就回脆。有油耗味或霉味才是另一回事。"
+   }
+  ]
+ }
+}
