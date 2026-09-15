@@ -1,0 +1,85 @@
+{
+ "slug": "spirits-distilled",
+ "en": {
+  "name": "Spirits",
+  "aliases": [
+   "whisky",
+   "vodka",
+   "gin",
+   "rum",
+   "烈酒"
+  ],
+  "summary": "Distilled spirits do not spoil, and no shelf life is given for them here on purpose. At around 40 % alcohol there is nothing for a microbe to live on and effectively no available water, so an unopened bottle stored upright in a cool, dark cupboard keeps indefinitely. An opened bottle only fades.",
+  "pantry": "A cool, dark cupboard, and store the bottle upright. That last point matters more than it sounds: unlike wine, a high-proof spirit lying against its cork will degrade it, and a ruined cork means a leaking, oxidising bottle. There is no date to watch — labelling rules in several countries exempt drinks of 10 % alcohol by volume or more from carrying a best-before or use-by date at all, which is a regulator's way of saying a spirit does not go off. Heat and direct sunlight are still worth avoiding, because they fade the colour and flatten the aroma.",
+  "fridge": "Refrigeration is unnecessary and changes nothing about safety. Some spirits are pleasant served cold — aquavit, vodka, certain gins — and there is no harm in keeping a bottle chilled for that reason. Cold thickens the liquid slightly and mutes the aromatics, which is exactly why a serious whisky is not kept in the fridge. Cream liqueurs are the exception to everything on this page: they contain dairy, carry a real date, and belong in the fridge once opened.",
+  "freezer": "Freezing is safe because a 40 % spirit will not freeze at domestic freezer temperatures, and a bottle kept in the freezer is a common way to serve vodka. It preserves nothing, though — there was nothing to preserve — and it suppresses the aroma almost completely. Anything below about 20 % alcohol may freeze solid and push out its cork, so keep low-proof liqueurs out of there.",
+  "thawing": "Not applicable. A spirit taken from the freezer simply warms in the glass, and its aromas open up as it does.",
+  "spoilage": [
+   "A much lower fill level than you remember, meaning the seal or cork is leaking.",
+   "A crumbling, swollen or pushed-out cork.",
+   "A flat, faded aroma in a bottle that has been open and nearly empty for a long time.",
+   "Cloudiness or sediment in a clear spirit, usually a sign of contamination rather than age."
+  ],
+  "tips": [
+   "Store bottles upright; a high-proof spirit destroys a cork lying against it.",
+   "Decant the last third into a smaller bottle to cut down the air above it.",
+   "Keep bottles out of direct sunlight, which fades the colour.",
+   "Cream liqueurs are not covered by any of this — they contain dairy and have a real date."
+  ],
+  "faq": [
+   {
+    "q": "Does whisky or vodka go bad?",
+    "a": "No. At around 40 % alcohol there is nothing for microbes to live on, and an unopened bottle keeps indefinitely in a cool, dark cupboard."
+   },
+   {
+    "q": "How long does an opened bottle of spirits last?",
+    "a": "Indefinitely in safety terms. Once it is below about a third full, oxygen in the headspace slowly dulls the aroma — a quality loss, not a safety one."
+   },
+   {
+    "q": "Should spirits be stored upright or on their side?",
+    "a": "Upright, always. A high-proof spirit in contact with a cork will destroy it, unlike wine."
+   }
+  ]
+ },
+ "zh": {
+  "name": "烈酒",
+  "aliases": [
+   "蒸餾酒",
+   "威士忌",
+   "伏特加",
+   "琴酒",
+   "蘭姆酒"
+  ],
+  "summary": "蒸餾烈酒不會腐敗，這裡刻意不給任何保存期限。在大約 40% 的酒精濃度下，微生物沒有東西可以維生，可用的水分也幾乎等於零，所以未開瓶的酒直立放在陰涼避光的櫃子裡，可以無限期保存。開過的瓶子只會「淡掉」。",
+  "pantry": "陰涼避光的櫃子，而且要直立存放。最後這點比聽起來重要：和葡萄酒不同，高酒精度的烈酒長期泡著軟木塞會把它腐蝕掉，而壞掉的軟木塞就代表滲漏與氧化。這裡沒有日期要盯——好幾個國家的標示法規，直接把酒精濃度 10% 以上的飲料排除在「有效日期／賞味期限」規定之外，那是主管機關在說「這東西不會壞」。不過高溫與直曬還是要避開，它們會讓酒色變淡、香氣變平。",
+  "fridge": "冷藏沒有必要，對安全也毫無影響。有些烈酒冰過很好喝——阿夸維特、伏特加、某些琴酒——為了這個理由冰起來完全沒問題。低溫會讓酒體略微變稠、也把香氣壓下去，這正是認真的威士忌不放冰箱的原因。奶酒是這一整頁唯一的例外：它含乳製品、有真正的日期，開瓶後也該放冷藏。",
+  "freezer": "冷凍是安全的，因為 40% 的烈酒在家用冷凍庫的溫度下不會結凍，把伏特加放冷凍庫也是很常見的喝法。但它什麼也沒保存到——本來就沒有東西需要保存——而且它幾乎把香氣完全壓掉。酒精濃度低於大約 20% 的東西可能會結成固體、把軟木塞頂出來，所以低酒精度的利口酒請不要放進去。",
+  "thawing": "不適用。從冷凍庫拿出來的烈酒就在杯子裡慢慢回溫，香氣也會隨之打開。",
+  "spoilage": [
+   "液面比記憶中低很多，代表封口或軟木塞在滲漏。",
+   "軟木塞碎裂、膨脹或被頂出來。",
+   "開過很久、又只剩一點的瓶子，香氣明顯變平變淡。",
+   "透明烈酒出現混濁或沉澱，那通常是污染而不是陳放。"
+  ],
+  "tips": [
+   "瓶子要直立；高酒精度的烈酒會把長期接觸的軟木塞毀掉。",
+   "剩最後三分之一時換到小瓶子，減少上方的空氣。",
+   "避免直曬，陽光會讓酒色變淡。",
+   "奶酒完全不適用以上任何一條——它含乳製品，也有真正的日期。"
+  ],
+  "faq": [
+   {
+    "q": "威士忌或伏特加會壞嗎？",
+    "a": "不會。在大約 40% 的酒精濃度下微生物無法存活，未開瓶的酒在陰涼避光處可以無限期保存。"
+   },
+   {
+    "q": "開過的烈酒可以放多久？",
+    "a": "就安全而言是無限期。等瓶裡只剩三分之一以下，瓶頸上方的氧氣會慢慢把香氣磨鈍——那是品質損失，不是安全問題。"
+   },
+   {
+    "q": "烈酒要直立還是平放？",
+    "a": "永遠直立。和葡萄酒不同，高酒精度的烈酒接觸軟木塞會把它腐蝕掉。"
+   }
+  ]
+ }
+}

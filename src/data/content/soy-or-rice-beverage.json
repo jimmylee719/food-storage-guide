@@ -1,0 +1,84 @@
+{
+ "slug": "soy-or-rice-beverage",
+ "en": {
+  "name": "Soy and rice drinks",
+  "aliases": [
+   "soy milk",
+   "rice milk",
+   "plant milk",
+   "豆漿（盒裝）",
+   "bebida de soja"
+  ],
+  "summary": "An opened carton of soy or rice drink keeps 7–10 days in the fridge at 4 °C (40 °F) or below. No cupboard figure is published for the unopened carton, because it depends on the pack: a UHT carton goes by its printed date, and one sold from a chilled cabinet has to stay cold.",
+  "pantry": "No room-temperature timeline is given here, and the sensible rule is to store the carton the way the shop did. A shelf-stable UHT carton has been sterilised and sealed against air and light, so it keeps in a cool, dark cupboard until its printed date. A carton from the chilled cabinet has not had that treatment and belongs in the fridge from the moment you pick it up. Once any carton is opened, the pack is no longer sterile and the fridge is the only option. Freshly made soy milk from a stall is a different product again and has a much shorter life.",
+  "fridge": "7–10 days at 4 °C (40 °F) or below once opened, capped, on a shelf rather than in the door. Plant drinks are low in acid and rich in protein and sugars, which makes them a good medium for bacteria as soon as air gets in — that is why the opened window is measured in days even though the unopened carton may have sat in a cupboard for months. Shake before pouring, since these drinks separate, and pour into a glass rather than drinking from the carton.",
+  "freezer": "No freezer timeline is published for soy or rice drinks, and freezing is not a good option. They are emulsions, and freezing separates the protein, the water and any added oil; what thaws is grainy and will not come back together properly however hard you shake it. Use any that you have frozen in cooking or baking, where the texture matters less.",
+  "thawing": "Thaw in the fridge if you have frozen some, and expect it to be separated. Use it in cooking rather than drinking it, and do not refreeze.",
+  "spoilage": [
+   "A sour or sharply tangy smell instead of a clean, beany or cereal one.",
+   "Thickening, curdling or lumps that will not shake back in.",
+   "A swollen carton, or fizzing when poured.",
+   "A slimy, ropey texture, or any mould at the spout."
+  ],
+  "tips": [
+   "Buy the size you will finish within a week or so of opening.",
+   "Keep the opened carton on a fridge shelf, not in the door.",
+   "Shake before every pour; separation is normal, not spoilage.",
+   "Store an unopened carton the way the shop did — chilled cabinet means chilled at home."
+  ],
+  "faq": [
+   {
+    "q": "How long does an opened carton of soy milk keep?",
+    "a": "7–10 days in the fridge at 4 °C (40 °F) or below, capped."
+   },
+   {
+    "q": "Does unopened soy or rice drink need refrigerating?",
+    "a": "A UHT carton does not — keep it cool and dark to its printed date. One sold from a chilled cabinet does. No separate cupboard figure is published here."
+   },
+   {
+    "q": "Can you freeze soy or rice milk?",
+    "a": "Not usefully. Freezing separates the emulsion and it thaws grainy. Use any frozen drink in cooking rather than for drinking."
+   }
+  ]
+ },
+ "zh": {
+  "name": "盒裝豆漿與米漿飲品",
+  "aliases": [
+   "豆漿",
+   "米漿",
+   "植物奶",
+   "豆奶"
+  ],
+  "summary": "開封後的豆漿或米漿紙盒，放 4 °C 以下冷藏可放 7～10 天。未開封的部分沒有公布櫥櫃期限，因為那要看包裝：超高溫滅菌的常溫包以標示日期為準，冷藏櫃買的則必須繼續冷藏。",
+  "pantry": "這裡沒有室溫的期限數據，合理的規則是「店家怎麼放，你就怎麼放」。常溫的超高溫滅菌紙盒經過滅菌、並且完全隔絕空氣與光線，放在陰涼避光的櫥櫃可以撐到標示日期。冷藏櫃拿的那一盒沒有經過同樣處理，從你拿起來的那一刻就該待在冷藏。任何紙盒一旦開封，就不再是無菌包裝，冷藏是唯一選項。早餐店現磨的豆漿又是另一種產品，壽命短得多。",
+  "fridge": "開封後蓋緊、放冰箱層架（不是門邊），4 °C 以下 7～10 天。植物飲品酸度低、蛋白質與糖分高，空氣一進去就是很好的細菌培養基——這就是為什麼未開封可以在櫥櫃放好幾個月，開封後卻只能以天計。這類飲品會分層，倒之前搖一搖；並且倒進杯子喝，不要對著紙盒口喝。",
+  "freezer": "豆漿與米漿飲品沒有公布的冷凍期限，而且冷凍不是好選項。它們是乳化液，冷凍會讓蛋白質、水分和額外添加的油脂分家；解凍後粗糙，怎麼搖都回不去。已經凍了的請拿去入菜或烘焙，那裡質地沒那麼要緊。",
+  "thawing": "若已冷凍，請放冷藏解凍，並預期它是分離的。請用來入菜而不是直接喝，也不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸或有尖銳酸味，而不是乾淨的豆香或米香。",
+   "變稠、結絮，或出現搖不散的塊狀物。",
+   "紙盒鼓脹，或倒出來起泡。",
+   "質地黏滑牽絲，或開口處長霉。"
+  ],
+  "tips": [
+   "買開封後一週左右喝得完的容量。",
+   "開封後放冰箱層架，不要放門邊。",
+   "每次倒之前都搖一搖；分層是正常的，不是壞掉。",
+   "未開封的照店家怎麼放就怎麼放——冷藏櫃拿的，回家也要冷藏。"
+  ],
+  "faq": [
+   {
+    "q": "開封後的盒裝豆漿可以放多久？",
+    "a": "蓋緊放 4 °C 以下冷藏 7～10 天。"
+   },
+   {
+    "q": "未開封的豆漿或米漿要冷藏嗎？",
+    "a": "常溫滅菌紙盒不用，陰涼避光放到標示日期即可；冷藏櫃買的則要。這裡沒有另外公布櫥櫃期限。"
+   },
+   {
+    "q": "豆漿或米漿可以冷凍嗎？",
+    "a": "意義不大。冷凍會讓乳化分離，解凍後質地粗糙。已經凍了的請拿去入菜。"
+   }
+  ]
+ }
+}

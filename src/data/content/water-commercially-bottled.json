@@ -1,0 +1,83 @@
+{
+ "slug": "water-commercially-bottled",
+ "en": {
+  "name": "Bottled water",
+  "aliases": [
+   "mineral water",
+   "spring water",
+   "瓶裝水",
+   "agua embotellada"
+  ],
+  "summary": "Commercially bottled water stores indefinitely. There is no shelf life to give, because there is nothing in it to spoil — but the taste can be affected by storage conditions, including sunlight, whatever is stored next to it, and the container itself.",
+  "pantry": "Store it cool, dark and away from anything strongly smelling, and it will keep indefinitely. The date printed on a bottle is a quality and stock-rotation date rather than a safety one. What does change is flavour: plastic bottles are slightly permeable, so a case stored beside paint, solvents, petrol or even a scented cleaning cupboard will taste of them within months, and sunlight both warms the bottle and encourages algae in any water that is not perfectly sterile. Keep cases off a concrete garage floor and out of the sun.",
+  "fridge": "Refrigeration is a matter of preference, not safety. A chilled bottle simply tastes better, and cold water tastes less of the plastic it is stored in. Once you have opened a bottle and drunk from it, you have introduced organisms from your mouth, so a part-drunk bottle left in a warm car for a day is not the same proposition as a sealed one — cap it, keep it cold and finish it rather than carrying it around for a week.",
+  "freezer": "There is no freezer timeline for water because it does not need one. Freezing does no harm to the water, but leave headspace in any container you freeze: water expands by roughly a tenth as it freezes, and a full sealed bottle will split. A frozen bottle makes a good ice pack for a cool bag and gives you cold water as it thaws.",
+  "thawing": "Let a frozen bottle thaw at room temperature or in the fridge. Loosen the cap first if the bottle looks strained, and never microwave a sealed bottle.",
+  "spoilage": [
+   "A plastic, chemical or musty taste picked up from whatever was stored nearby.",
+   "Green tinges or visible growth in a bottle left in sunlight.",
+   "Sediment or cloudiness in water that was clear.",
+   "A swollen or distorted bottle, usually from heat or from being frozen full."
+  ],
+  "tips": [
+   "Store cases away from paint, fuel, solvents and cleaning products.",
+   "Keep bottles out of the sun and off a hot garage floor.",
+   "Leave headspace if you freeze a bottle; water expands as it freezes.",
+   "Use a glass or stainless bottle for long-term stored water if taste matters to you."
+  ],
+  "faq": [
+   {
+    "q": "Does bottled water expire?",
+    "a": "No. Water stores indefinitely. The date on the bottle is about quality and stock rotation, not safety."
+   },
+   {
+    "q": "Why does old bottled water taste strange?",
+    "a": "Plastic is slightly permeable, so water takes on the smell of anything stored near it, and sunlight and heat make it worse."
+   },
+   {
+    "q": "Can you freeze bottled water?",
+    "a": "Yes, but leave headspace — water expands as it freezes and a full sealed bottle will split."
+   }
+  ]
+ },
+ "zh": {
+  "name": "瓶裝水",
+  "aliases": [
+   "礦泉水",
+   "包裝飲用水",
+   "純水",
+   "bottled water"
+  ],
+  "summary": "市售瓶裝水可以無限期保存。它沒有保存期限可言，因為裡面沒有東西會腐敗——但味道會受到存放條件影響，包括日曬、旁邊放了什麼，以及容器本身。",
+  "pantry": "陰涼、避光、遠離任何味道重的東西，它就可以無限期保存。瓶身上印的日期是品質與庫存輪替用的日期，不是安全日期。真正會變的是味道：塑膠瓶有輕微透氣性，所以一箱水放在油漆、溶劑、汽油，甚至有香味的清潔用品櫃旁邊，幾個月內就會帶上那些味道；日曬則同時讓瓶子升溫，也讓不是完全無菌的水更容易長藻。整箱請不要直接放在車庫水泥地上，也要避開陽光。",
+  "fridge": "冷藏是喜好問題，不是安全問題。冰過的水單純比較好喝，低溫也讓塑膠味比較不明顯。不過，一旦你開瓶並且對著瓶口喝過，口腔裡的微生物就進去了；一瓶喝到一半、又在悶熱車裡放一天的水，和一瓶未開封的水不是同一回事——請蓋好、冰著、喝完，不要帶著它走一個禮拜。",
+  "freezer": "水沒有冷凍的期限，因為它不需要。冷凍不會傷到水，但任何容器都要留膨脹空間：水結冰時體積大約增加十分之一，裝滿又密封的瓶子會裂開。凍一瓶水放進保冷袋，既是冰磚，融化後又有冰水可喝。",
+  "thawing": "凍過的瓶子請放室溫或冷藏解凍。瓶身看起來被撐緊的話，先把瓶蓋稍微轉鬆；密封的瓶子絕對不要放進微波爐。",
+  "spoilage": [
+   "喝起來有塑膠味、化學味或霉味，那是從旁邊的東西吸過來的。",
+   "曬到太陽的瓶子出現綠色或看得到的生長物。",
+   "原本清澈的水出現沉澱或混濁。",
+   "瓶身鼓脹變形，通常是受熱，或裝滿後被冷凍造成的。"
+  ],
+  "tips": [
+   "整箱請遠離油漆、燃料、溶劑與清潔用品。",
+   "避免日曬，也不要放在悶熱的車庫地面。",
+   "要冷凍請留膨脹空間；水結冰會變大。",
+   "如果在意味道，長期儲水請改用玻璃或不鏽鋼容器。"
+  ],
+  "faq": [
+   {
+    "q": "瓶裝水會過期嗎？",
+    "a": "不會。水可以無限期保存。瓶身上的日期是品質與庫存輪替用的，不是安全日期。"
+   },
+   {
+    "q": "為什麼放久的瓶裝水味道怪怪的？",
+    "a": "塑膠有輕微透氣性，水會吸收旁邊存放物的氣味；日曬和高溫會讓情況更糟。"
+   },
+   {
+    "q": "瓶裝水可以冷凍嗎？",
+    "a": "可以，但要留膨脹空間——水結冰會變大，裝滿又密封的瓶子會裂開。"
+   }
+  ]
+ }
+}

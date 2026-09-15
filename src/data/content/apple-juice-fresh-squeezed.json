@@ -1,0 +1,83 @@
+{
+ "slug": "apple-juice-fresh-squeezed",
+ "en": {
+  "name": "Apple juice, fresh squeezed",
+  "aliases": [
+   "freshly squeezed apple juice",
+   "raw apple juice",
+   "現榨蘋果汁",
+   "zumo de manzana natural"
+  ],
+  "summary": "Freshly squeezed apple juice keeps 6 days in the fridge at 4 °C (40 °F) or below, or 12 months in the freezer at −18 °C (0 °F). It is raw and unpasteurised, so it carries a real risk of E. coli and other pathogens and is not advised for young children, older adults, pregnant women or anyone with a weakened immune system.",
+  "pantry": "No room-temperature timeline is given, because there should not be one. Fresh juice is a sugary, nutrient-rich liquid pressed from unheated fruit, and between 4 °C and 60 °C it is in the range where bacteria multiply. Follow the two-hour rule: juice left out for more than two hours should be discarded, and no more than one hour if the room is above 32 °C. Chill it the moment it is pressed, and carry it home cold.",
+  "fridge": "6 days at 4 °C (40 °F) or below, in a clean, closed bottle filled as full as possible so there is little air above the juice. Keep it on a shelf rather than the door. It will separate and brown as it stands — oxidation, not spoilage — so shake before pouring. Pour into a glass rather than drinking from the bottle, since that puts bacteria from the mouth straight into the rest of it.",
+  "freezer": "12 months at −18 °C (0 °F). Freezing is the sensible route for a glut of windfalls, and it holds the flavour far better than it holds the colour. Leave headspace in the container, because juice expands as it freezes, and freeze it in single portions so you thaw only what you will drink. The texture separates on thawing; a good shake puts it back.",
+  "thawing": "Thaw in the fridge, never on the counter, and shake it well. Treat thawed juice as fresh juice again and drink it within the refrigerated window.",
+  "spoilage": [
+   "Fizzing or foaming when poured, which means fermentation has started.",
+   "A sharp, alcoholic or vinegary smell.",
+   "Mould at the neck of the bottle or floating on the surface.",
+   "A thick, slimy or ropey texture."
+  ],
+  "tips": [
+   "Fill the bottle to the top; air above the juice speeds the browning.",
+   "Freeze in single-serving portions with headspace left for expansion.",
+   "Add a squeeze of lemon to slow the browning if appearance matters.",
+   "Anyone vulnerable should drink pasteurised juice instead."
+  ],
+  "faq": [
+   {
+    "q": "How long does fresh squeezed apple juice last?",
+    "a": "6 days in the fridge at 4 °C (40 °F) or below, or 12 months in the freezer at −18 °C (0 °F)."
+   },
+   {
+    "q": "Can you freeze fresh apple juice?",
+    "a": "Yes, 12 months at −18 °C (0 °F). Leave headspace for expansion, freeze in portions, and thaw in the fridge."
+   },
+   {
+    "q": "Is raw apple juice safe to drink?",
+    "a": "Unpasteurised juice carries a real risk of E. coli and other pathogens. Health authorities advise against it for young children, older adults, pregnant women and anyone immunocompromised."
+   }
+  ]
+ },
+ "zh": {
+  "name": "現榨蘋果汁",
+  "aliases": [
+   "鮮榨蘋果汁",
+   "生蘋果汁",
+   "未殺菌蘋果汁",
+   "fresh apple juice"
+  ],
+  "summary": "現榨蘋果汁放 4 °C 以下冷藏可放 6 天，−18 °C 冷凍可放 12 個月。它是生的、未經殺菌的，確實帶有大腸桿菌等病原菌的風險，不建議幼兒、年長者、孕婦或免疫力較弱的人飲用。",
+  "pantry": "沒有室溫的期限數據，因為本來就不該有。現榨果汁是從未加熱的水果榨出來、含糖又營養的液體，而 4 °C 到 60 °C 之間正是細菌繁殖的溫度帶。請遵守兩小時原則：放在室溫超過兩小時就該倒掉；室溫超過 32 °C 時，一小時就是上限。榨好立刻冷藏，外帶也要冷著帶回家。",
+  "fridge": "放 4 °C 以下冷藏 6 天，裝在乾淨、密封、盡量裝滿的瓶子裡，讓汁液上方沒什麼空氣。請放層架，不要放冰箱門。放著會分層、會褐變——那是氧化不是腐敗——倒之前搖勻就好。請倒進杯子喝，不要對瓶口喝，那會把口腔裡的細菌直接送進剩下的果汁裡。",
+  "freezer": "−18 °C 下 12 個月。一次收到太多蘋果時，冷凍是合理的路；它保住風味的能力遠勝過保住顏色。容器要留膨脹空間，因為果汁結凍會變大；並且分成單次份量，這樣只需解凍要喝的量。解凍後質地會分離，搖勻就回來了。",
+  "thawing": "請放冷藏解凍，絕對不要放檯面上，解凍後搖勻。解凍後就當成新鮮果汁，在冷藏的期限內喝完。",
+  "spoilage": [
+   "倒出來會起泡或冒沫，代表發酵開始了。",
+   "有明顯的酸味、酒味或醋味。",
+   "瓶口或液面長霉。",
+   "質地變得濃稠、黏滑或牽絲。"
+  ],
+  "tips": [
+   "瓶子裝滿到頂；汁液上方的空氣會加速褐變。",
+   "分成單次份量冷凍，並留膨脹空間。",
+   "在意賣相的話，擠一點檸檬汁可以拖慢褐變。",
+   "體質較弱的人請改喝經過殺菌的果汁。"
+  ],
+  "faq": [
+   {
+    "q": "現榨蘋果汁可以放多久？",
+    "a": "4 °C 以下冷藏 6 天，或 −18 °C 冷凍 12 個月。"
+   },
+   {
+    "q": "現榨蘋果汁可以冷凍嗎？",
+    "a": "可以，−18 °C 下 12 個月。請留膨脹空間、分裝，並用冷藏解凍。"
+   },
+   {
+    "q": "未殺菌的蘋果汁安全嗎？",
+    "a": "未殺菌果汁確實帶有大腸桿菌等病原菌的風險。衛生主管機關建議幼兒、年長者、孕婦與免疫力較弱者不要飲用。"
+   }
+  ]
+ }
+}

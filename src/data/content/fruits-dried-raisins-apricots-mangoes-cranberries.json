@@ -1,0 +1,85 @@
+{
+ "slug": "fruits-dried-raisins-apricots-mangoes-cranberries",
+ "en": {
+  "name": "Dried fruit",
+  "aliases": [
+   "raisins",
+   "dried apricots",
+   "dried mango",
+   "dried cranberries",
+   "sultanas"
+  ],
+  "summary": "An unopened bag of dried fruit keeps 6 months from purchase in the cupboard, and about 1 month once it is opened. Moving the opened bag to the fridge at 4 °C (40 °F) or below stretches it to 6 months, which is the single most useful thing you can do with a half-used pack.",
+  "pantry": "Cool, dark and dry, 6 months from purchase while the pack is sealed. Drying removes most of the water, so there is very little left for microbes to work with — but dried fruit is not sterile, and it is hygroscopic, so it pulls moisture back out of a humid kitchen. Once the bag is open it slides to about 1 month: the pieces harden, the sugars crystallise into a white bloom, and in a humid summer a damp bag can grow mould at the folds.",
+  "fridge": "An opened pack keeps 6 months at 4 °C (40 °F) or below, sealed hard in a jar or a zip bag with the air pressed out. This is the fix for anyone who buys a kilo of raisins and uses a handful a week. Cold also keeps the pieces soft for longer and shuts out the moths that find dried fruit within days of it being opened. Let the sealed container warm up before opening it so condensation does not land on the fruit.",
+  "freezer": "No freezer timeline is published for dried fruit, and it is rarely worth the space. There is so little free water in a raisin that freezing changes almost nothing about it, and the refrigerated figure already covers the realistic life of an opened bag. If you do freeze a bulk sack, double-bag it and expect it to be slightly stickier when it comes out.",
+  "thawing": "Nothing needs thawing. Let a chilled or frozen pack come back to room temperature inside its sealed bag before opening it.",
+  "spoilage": [
+   "Fuzzy mould, most often in the folds of the bag or where pieces are stuck together.",
+   "A fermented, winey or alcoholic smell — the sugars have started working.",
+   "Rock-hard, leathery pieces that no longer soften in hot water.",
+   "Moths, webbing or tiny grubs in the bag."
+  ],
+  "tips": [
+   "White crystals on raisins or mango are sugar bloom, not mould — rub a piece and see if it dissolves.",
+   "Decant an opened bag into a screw-top jar; a folded-over pack is not a seal.",
+   "Keep the working portion out and the rest in the fridge.",
+   "Soak hardened fruit in hot water, juice or rum for ten minutes to bring it back."
+  ],
+  "faq": [
+   {
+    "q": "How long does dried fruit keep?",
+    "a": "6 months from purchase unopened in a cupboard, about 1 month once opened, or 6 months in a sealed container in the fridge after opening."
+   },
+   {
+    "q": "Does dried fruit need to be refrigerated?",
+    "a": "Not before it is opened. Afterwards the fridge is a real upgrade, taking an opened pack from about a month to 6 months."
+   },
+   {
+    "q": "Is the white powder on dried fruit mould?",
+    "a": "Usually it is sugar bloom, which is harmless and dissolves in warm water. Fuzzy, coloured or raised growth is mould, and that bag goes."
+   }
+  ]
+ },
+ "zh": {
+  "name": "果乾",
+  "aliases": [
+   "葡萄乾",
+   "杏桃乾",
+   "芒果乾",
+   "蔓越莓乾",
+   "提子乾"
+  ],
+  "summary": "未開封的果乾自購買日起放櫥櫃可放 6 個月，開封後大約 1 個月。把開封的那包改放 4 °C 以下冷藏，可以延到 6 個月——這是半包果乾最值得做的一件事。",
+  "pantry": "陰涼、避光、乾燥，未拆封自購買日起 6 個月。乾燥把水分抽掉了大半，微生物能用的水所剩無幾——但果乾不是無菌的，而且它會吸濕，在濕熱的廚房裡會把水氣再吸回去。開封後就掉到大約 1 個月：果肉變硬、糖分結晶析出一層白霜，台灣的夏天裡，受潮的袋口摺角很容易長霉。",
+  "fridge": "開封後放 4 °C 以下、確實密封在玻璃罐或壓出空氣的夾鏈袋裡，可放 6 個月。買一公斤葡萄乾、一週只用一把的人，答案就是這個。低溫也讓果肉維持柔軟得比較久，並且擋掉那些在開封後幾天內就會找上門的穀蛾。拿出來時請讓密封容器先回溫再打開，避免水氣凝在果乾上。",
+  "freezer": "果乾沒有冷凍的期限數據，而且通常不值得占位子。一顆葡萄乾裡的自由水少到冷凍幾乎改變不了什麼，而冷藏的數字已經涵蓋了一包開封果乾實際的壽命。真要冷凍大包裝，請雙層封袋，並預期取出時會稍微黏手一點。",
+  "thawing": "沒有東西需要解凍。冰過或凍過的果乾，請維持密封回到室溫再打開。",
+  "spoilage": [
+   "長出絨毛狀的霉，通常在袋子摺角或黏在一起的果肉之間。",
+   "聞起來像發酵、酒味或水果酒——糖分已經開始作用。",
+   "硬得像石頭、泡熱水也回不來的果肉。",
+   "袋子裡出現蛾、絲網或小蟲。"
+  ],
+  "tips": [
+   "葡萄乾或芒果乾表面的白色結晶多半是糖霜不是霉，搓一下看會不會化掉。",
+   "開封後倒進旋蓋玻璃罐；把袋口折起來不算密封。",
+   "近期要吃的放外面，其餘全部進冷藏。",
+   "變硬的果乾用熱水、果汁或蘭姆酒泡十分鐘就會回軟。"
+  ],
+  "faq": [
+   {
+    "q": "果乾可以放多久？",
+    "a": "未開封放櫥櫃自購買日起 6 個月，開封後約 1 個月；開封後密封冷藏則是 6 個月。"
+   },
+   {
+    "q": "果乾需要冷藏嗎？",
+    "a": "未開封不需要。開封之後冷藏是實打實的升級，可以把大約一個月拉到 6 個月。"
+   },
+   {
+    "q": "果乾上的白色粉末是發霉嗎？",
+    "a": "多半是糖霜，無害，遇溫水會化開。有絨毛、有顏色、摸起來突起的才是霉，那包就該丟。"
+   }
+  ]
+ }
+}

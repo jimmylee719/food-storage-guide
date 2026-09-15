@@ -1,0 +1,83 @@
+{
+ "slug": "coffee-commercial-ground-non-vacuum",
+ "en": {
+  "name": "Ground coffee, commercially packed",
+  "aliases": [
+   "pre-ground coffee",
+   "supermarket ground coffee",
+   "研磨咖啡粉",
+   "café molido"
+  ],
+  "summary": "A sealed pack of commercially ground coffee keeps 2 years from purchase, but only about 2 weeks once opened. Refrigerated in an airtight container an opened pack holds 1 month, and the freezer gives 6–12 months at −18 °C (0 °F) — with one rule: do not put it back once you have taken it out.",
+  "pantry": "2 years from purchase while sealed, and about 2 weeks after opening, in a cool, dark, dry cupboard. Coffee does not spoil — it stales. Grinding exposes an enormous surface to air, the aromatic compounds escape and the oils oxidise, and what you are left with tastes flat and papery rather than dangerous. That is why the opened figure is so short compared with the sealed one: the foil pack with its one-way valve is doing almost all of the work, and a folded-over bag is not a seal.",
+  "fridge": "1 month after opening at 4 °C (40 °F) or below, and it is critical that the container is genuinely airtight. Coffee is one of the most absorbent things in the kitchen — it will take up the smell of onions, fish or last night's curry through a loose lid — and the fridge is also humid, which is the other thing ground coffee does not want. If you cannot seal it properly, a cool cupboard is the safer choice.",
+  "freezer": "6–12 months at −18 °C (0 °F), sealed hard. The freezer is genuinely useful for coffee you have bought in bulk, but follow the rule that comes with it: do not return a pack to the freezer once it has been taken out. Every trip in and out condenses moisture onto the grounds, and repeated cycles are what ruin frozen coffee. Freeze in small portions instead, and take out one at a time.",
+  "thawing": "Let a frozen portion come to room temperature inside its sealed container before opening, so condensation forms on the packet rather than on the coffee. Do not refreeze it.",
+  "spoilage": [
+   "A flat, papery or cardboard smell instead of a roasted one.",
+   "A dull, sour or ashy brew from coffee that used to taste fine.",
+   "Clumping, which means moisture has got into the pack.",
+   "Any musty smell or visible mould in a pack that got damp."
+  ],
+  "tips": [
+   "Buy the pack size you will drink in about two weeks after opening.",
+   "Decant into an airtight opaque tin; the original bag reseals poorly.",
+   "Freeze in single-use portions rather than one large bag.",
+   "Keep it away from the kettle and the hob; steam and heat both stale it."
+  ],
+  "faq": [
+   {
+    "q": "How long does ground coffee keep?",
+    "a": "2 years from purchase while sealed, about 2 weeks after opening in a cupboard, 1 month in an airtight container in the fridge, or 6–12 months in the freezer."
+   },
+   {
+    "q": "Can you keep coffee in the freezer?",
+    "a": "Yes, 6–12 months at −18 °C (0 °F) in an airtight pack, but do not return it to the freezer once taken out. Freeze small portions instead."
+   },
+   {
+    "q": "Does old coffee go bad?",
+    "a": "It stales rather than spoils. Stale coffee tastes flat and papery but is not unsafe; mould only appears if the pack took up real moisture."
+   }
+  ]
+ },
+ "zh": {
+  "name": "市售研磨咖啡粉",
+  "aliases": [
+   "咖啡粉",
+   "預磨咖啡",
+   "超市咖啡粉",
+   "ground coffee"
+  ],
+  "summary": "未開封的市售研磨咖啡粉自購買日起可放 2 年，但開封後只有大約 2 週。開封後裝進氣密容器冷藏可放 1 個月，−18 °C 冷凍則是 6～12 個月——但附帶一條規則：拿出來過的就不要再放回冷凍庫。",
+  "pantry": "未開封自購買日起 2 年，開封後約 2 週，放在陰涼、避光、乾燥的櫥櫃。咖啡不會腐敗，它是「走味」。研磨把極大的表面攤給空氣，香氣化合物跑掉、油脂氧化，剩下的東西喝起來平板、有紙味，但不是危險。這也是為什麼開封後的數字比未開封短那麼多：那個帶單向排氣閥的鋁箔袋幾乎包辦了一切，而把袋口折一折並不算密封。",
+  "fridge": "開封後放 4 °C 以下 1 個月，而且容器必須是真正氣密的，這點很關鍵。咖啡是廚房裡吸味能力最強的東西之一——蓋子沒密好，洋蔥、魚、昨晚的咖哩它都會吸進來——而冰箱又潮濕，那正是咖啡粉最不想要的另一件事。如果沒辦法確實密封，陰涼櫥櫃反而比較保險。",
+  "freezer": "確實密封放 −18 °C，6～12 個月。大量買進的咖啡放冷凍是真的有用，但請遵守隨之而來的規則：拿出來過的就不要再放回冷凍庫。每進出一次，水氣就會凝在粉上，反覆循環正是毀掉冷凍咖啡的原因。請改成小份量分裝，一次只取一份。",
+  "thawing": "請讓密封容器整包回到室溫再打開，讓結露留在包裝上而不是咖啡粉上。不要重新冷凍。",
+  "spoilage": [
+   "聞起來平板、有紙味或紙板味，而不是烘焙香。",
+   "本來好喝的咖啡沖出來變得沉悶、發酸或有灰味。",
+   "結塊，代表水氣跑進包裝了。",
+   "受潮的包裝出現霉味或看得到霉。"
+  ],
+  "tips": [
+   "買開封後兩週內喝得完的包裝大小。",
+   "倒進不透光的氣密鐵罐；原本的袋子很難重新密封。",
+   "分成單次份量冷凍，不要凍一大包。",
+   "遠離熱水壺和爐台，蒸氣與熱都會讓它走味。"
+  ],
+  "faq": [
+   {
+    "q": "咖啡粉可以放多久？",
+    "a": "未開封自購買日起 2 年；開封後放櫥櫃約 2 週，氣密容器冷藏 1 個月，冷凍 6～12 個月。"
+   },
+   {
+    "q": "咖啡可以放冷凍嗎？",
+    "a": "可以，密封後 −18 °C 下 6～12 個月；但拿出來過的就不要再放回去。請改成小份量分裝。"
+   },
+   {
+    "q": "放久的咖啡會壞嗎？",
+    "a": "它是走味不是腐敗。走味的咖啡喝起來平板、有紙味，但不危險；只有包裝真的受潮才會長霉。"
+   }
+  ]
+ }
+}

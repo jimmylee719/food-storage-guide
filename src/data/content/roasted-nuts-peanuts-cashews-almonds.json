@@ -1,0 +1,84 @@
+{
+ "slug": "roasted-nuts-peanuts-cashews-almonds",
+ "en": {
+  "name": "Roasted nuts",
+  "aliases": [
+   "roasted peanuts",
+   "roasted cashews",
+   "roasted almonds",
+   "烘烤堅果",
+   "frutos secos tostados"
+  ],
+  "summary": "Once the pack is open, roasted nuts keep only 1–2 weeks in the cupboard, but 4 weeks in the fridge at 4 °C (40 °F) or below. Roasting is what shortens them: heat starts the oxidation that raw nuts have not yet begun.",
+  "pantry": "1–2 weeks after opening, in a sealed, opaque container kept cool and away from the hob. No unopened cupboard figure is published for roasted nuts, so go by the date on the pack while it is still sealed, and start counting once you open it. The short opened window surprises people who are used to nuts lasting months, and the reason is the roast: heating drives moisture out and gives the fat a running start on oxidation, so a roasted nut is already part way down the road that a raw one has not set out on. Salted and oil-roasted nuts soften as well, because salt pulls moisture from the air.",
+  "fridge": "4 weeks at 4 °C (40 °F) or below after opening, in a properly airtight jar. Doubling or tripling the life of an opened pack for the cost of a shelf in the fridge is one of the better trades in the kitchen, and it works because the failure here is chemical rather than microbial — the cold simply slows the oil down. Seal them hard: roasted nuts are oily and mild, and they take on fridge smells quickly.",
+  "freezer": "No freezer timeline is published for roasted nuts. Freezing does them no harm, and for a bulk tin it is a reasonable thing to do — there is very little water in a nut so the texture is untouched — but there is no published figure, so treat it as sensible practice rather than a documented limit. Bag them airtight, portion them, and let the bag warm sealed before opening.",
+  "thawing": "No thawing needed; eat them from cold or let them warm briefly. Open a chilled or frozen container only after it has reached room temperature, so condensation does not soften the nuts.",
+  "spoilage": [
+   "A bitter, sharp taste — rancid oil, and a single nut will tell you.",
+   "A smell of old cooking oil, crayons or paint instead of a toasted one.",
+   "Nuts that have gone soft and chewy rather than crisp.",
+   "A greasy film on the inside of the container or on your fingers."
+  ],
+  "tips": [
+   "Buy small packs of roasted nuts; they are on a much shorter clock than raw ones.",
+   "Move an opened pack to the fridge the same day and seal it properly.",
+   "Roast your own in small batches and cool them completely before sealing.",
+   "Taste one before serving a bowl; rancidity is obvious and unpleasant."
+  ],
+  "faq": [
+   {
+    "q": "How long do roasted nuts keep once opened?",
+    "a": "1–2 weeks in the cupboard, or 4 weeks in the fridge at 4 °C (40 °F) or below, in a sealed container."
+   },
+   {
+    "q": "Why do roasted nuts go off faster than raw ones?",
+    "a": "Roasting heats the oil and starts the oxidation that makes nuts rancid, so a roasted nut is already partway through the process when you buy it."
+   },
+   {
+    "q": "Should opened roasted nuts go in the fridge?",
+    "a": "Yes. It takes an opened pack from a week or two to 4 weeks, and it keeps pantry moths out at the same time."
+   }
+  ]
+ },
+ "zh": {
+  "name": "烘烤堅果",
+  "aliases": [
+   "烤花生",
+   "烤腰果",
+   "烤杏仁",
+   "熟堅果"
+  ],
+  "summary": "開封之後，烘烤堅果放櫥櫃只有 1～2 週，但放 4 °C 以下冷藏可以到 4 週。縮短它的正是「烘烤」：加熱啟動了生堅果還沒開始的氧化。",
+  "pantry": "開封後 1～2 週，放在密封、不透光的容器裡，陰涼、遠離爐台。烘烤堅果沒有公布未開封的櫥櫃期限，所以未拆封時請以包裝上的日期為準，開封那天才開始計時。這個開封後的窗口短得讓習慣「堅果可以放好幾個月」的人意外，原因就是那一道烘烤：加熱把水分趕走，也讓油脂在氧化這條路上先跑了一段，所以烘烤堅果買回來時已經走在半路，而生堅果根本還沒出發。加鹽或油炸烘的版本還會變軟，因為鹽會把空氣裡的水吸過來。",
+  "fridge": "開封後放進真正氣密的罐子、冷藏 4 °C 以下，可放 4 週。用冰箱裡一格的位子，把開封後的壽命拉長兩三倍，是廚房裡划算的交易之一；它有效的原因在於這裡的失效是化學性的而不是微生物性的——低溫就只是把油脂的速度壓下來。請確實密封：烘烤堅果油多味淡，吸冰箱味道很快。",
+  "freezer": "烘烤堅果沒有冷凍的期限數據。冷凍不會傷到它，大罐裝這麼做也算合理——堅果含水極少，質地完全不受影響——但既然沒有公開數字，請把它當成合理做法而不是有憑有據的上限。請密封裝袋、分裝，並且維持密封回溫再打開。",
+  "thawing": "不需要解凍，冰的直接吃或稍微回溫即可。冰過或凍過的容器要等回到室溫再打開，免得結露把堅果弄軟。",
+  "spoilage": [
+   "嚐起來苦而尖銳——那是油耗，吃一顆就知道。",
+   "聞起來像久放的油、蠟筆或油漆，而不是烘香。",
+   "堅果變得軟韌而不脆。",
+   "容器內壁或手指上有一層油膩的薄膜。"
+  ],
+  "tips": [
+   "烘烤堅果請買小包裝；它的時鐘比生堅果快得多。",
+   "開封當天就移到冷藏，並且確實密封。",
+   "自己烘就少量多次，並且完全放涼再密封。",
+   "端出去前先吃一顆；油耗味很明顯，也很掃興。"
+  ],
+  "faq": [
+   {
+    "q": "烘烤堅果開封後可以放多久？",
+    "a": "密封放櫥櫃 1～2 週，或放 4 °C 以下冷藏 4 週。"
+   },
+   {
+    "q": "為什麼烘烤堅果比生堅果更快走味？",
+    "a": "烘烤加熱了油脂，啟動了造成油耗的氧化，所以你買到的時候它已經走了一段路。"
+   },
+   {
+    "q": "開封後的烘烤堅果要冰嗎？",
+    "a": "要。冷藏能把一兩週拉到 4 週，順便還把穀蛾擋在外面。"
+   }
+  ]
+ }
+}

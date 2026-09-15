@@ -1,0 +1,83 @@
+{
+ "slug": "white-wine",
+ "en": {
+  "name": "White wine",
+  "aliases": [
+   "vin blanc",
+   "vino blanco",
+   "白酒",
+   "白葡萄酒"
+  ],
+  "summary": "An unopened bottle of white wine keeps 1–2 years stored in the dark, away from direct heat and sunlight — a shorter window than red, because white wine has less tannin and less pigment to protect it. Once opened it holds 1–3 days in the fridge at 4 °C (40 °F) or below.",
+  "pantry": "1–2 years in a dark place, away from direct heat or sunlight. Most white wine is made to be drunk young, and the phenolic compounds that let a red sit for years are largely absent, so an ordinary bottle does not reward keeping. Light is a particular problem for whites, which is why clear bottles are a liability on a bright shelf — the result is a flat, slightly cabbagey character sometimes called lightstrike. Store corked bottles on their side and keep the temperature as steady as your kitchen allows.",
+  "fridge": "1–3 days at 4 °C (40 °F) or below once opened, re-corked or stoppered. Cold is doing two jobs here: it is the right serving temperature for a white anyway, and it slows the oxidation that flattens an opened bottle. Push the cork back in properly or use a stopper, and decant the last third into a smaller bottle if you want an extra day — it is the air above the wine, not the wine itself, that is the problem. Unopened bottles can also live in the fridge for a few days before serving without any harm.",
+  "freezer": "No freezer timeline is published for wine, and freezing a bottle is a bad idea: the liquid expands, which can push out the cork or crack the glass, and the flavour does not recover. The freezer is, however, the right place for wine you will cook with — freeze it in an ice-cube tray and drop the cubes straight into a risotto or a pan sauce. A bottle put in the freezer to chill quickly should be set a timer, not forgotten.",
+  "thawing": "Drop cooking cubes straight into the pan. White wine is not something to thaw for drinking.",
+  "spoilage": [
+   "A vinegary or nail-varnish smell — the wine has oxidised past saving.",
+   "A deep golden or brown colour in a wine that should be pale.",
+   "A wet-cardboard or musty smell, which is cork taint.",
+   "A flat, cooked or cabbage-like character from heat or light damage."
+  ],
+  "tips": [
+   "Keep white wine out of the light; clear bottles are especially vulnerable.",
+   "Store corked bottles on their side so the cork stays wet.",
+   "Decant the last of an opened bottle into a smaller one to cut down the air.",
+   "Freeze leftover wine in ice-cube trays for cooking rather than pouring it away."
+  ],
+  "faq": [
+   {
+    "q": "How long does an unopened bottle of white wine keep?",
+    "a": "1–2 years in the dark, away from heat and sunlight, for an ordinary bottle."
+   },
+   {
+    "q": "How long does opened white wine last?",
+    "a": "1–3 days in the fridge at 4 °C (40 °F) or below, properly stoppered."
+   },
+   {
+    "q": "Why does white wine keep less well than red?",
+    "a": "It has far less tannin and pigment, and those compounds are what protect a red from oxidation over time. Light damages whites particularly quickly."
+   }
+  ]
+ },
+ "zh": {
+  "name": "白酒",
+  "aliases": [
+   "白葡萄酒",
+   "干白",
+   "vino blanco",
+   "white wine"
+  ],
+  "summary": "未開瓶的白酒放在陰暗、遠離直接熱源與陽光的地方，可放 1～2 年——比紅酒短，因為白酒的單寧與色素都少得多，能保護它的東西也少。開瓶後放 4 °C 以下冷藏，可放 1～3 天。",
+  "pantry": "陰暗處、遠離直接熱源與陽光，1～2 年。大多數白酒本來就是為了趁年輕喝而釀的，讓紅酒能放好幾年的那些酚類物質在它身上所剩無幾，所以一般的白酒並不值得久放。光對白酒是特別大的問題，透明酒瓶擺在明亮的層架上尤其危險——結果是一種平板、帶點高麗菜味的走味，英文叫 lightstrike。軟木塞瓶請平放，並且在廚房條件允許的範圍內，讓溫度盡量穩定。",
+  "fridge": "開瓶後塞回軟木塞或酒塞，放 4 °C 以下冷藏 1～3 天。低溫在這裡做兩件事：白酒本來就該在這個溫度喝，而低溫同時拖慢讓開瓶後的酒變平的氧化。請把軟木塞確實塞回去或換上酒塞；想多撐一天，就把最後三分之一換到小瓶子裡——問題出在酒液上方的空氣，不是酒本身。未開瓶的白酒在上桌前先冰幾天也完全沒問題。",
+  "freezer": "葡萄酒沒有公布的冷凍期限，而且把整瓶冰進冷凍庫是個壞主意：液體膨脹可能把軟木塞頂出來或把玻璃撐裂，風味也回不來。不過冷凍庫確實適合放「要拿來料理的酒」——用製冰盒凍成塊，直接丟進燉飯或鍋底醬汁裡。想快速冰鎮而丟進冷凍庫的那瓶，請設鬧鐘，不要忘記它。",
+  "thawing": "料理用的酒塊直接丟進鍋裡。白酒不是拿來解凍後飲用的東西。",
+  "spoilage": [
+   "有醋味或去光水味——酒已經氧化到救不回來。",
+   "本該淡色的酒變成深金色或褐色。",
+   "有濕紙板味或霉味，那是軟木塞污染。",
+   "口感平板、像煮過或帶高麗菜味，那是受熱或受光損傷。"
+  ],
+  "tips": [
+   "白酒要避光，透明瓶尤其脆弱。",
+   "軟木塞瓶平放，讓塞子保持濕潤。",
+   "開過的酒剩最後一點，換到小瓶子減少空氣。",
+   "喝不完就用製冰盒凍成料理用酒塊，不要倒掉。"
+  ],
+  "faq": [
+   {
+    "q": "未開瓶的白酒可以放多久？",
+    "a": "一般酒款放在陰暗、遠離熱源與陽光的地方，1～2 年。"
+   },
+   {
+    "q": "開過的白酒可以放多久？",
+    "a": "確實塞好後放 4 °C 以下冷藏 1～3 天。"
+   },
+   {
+    "q": "為什麼白酒比紅酒不耐放？",
+    "a": "它的單寧和色素少很多，而那些物質正是長期保護紅酒不被氧化的東西。光對白酒的傷害也特別快。"
+   }
+  ]
+ }
+}

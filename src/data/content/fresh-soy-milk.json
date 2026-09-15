@@ -1,0 +1,83 @@
+{
+ "slug": "fresh-soy-milk",
+ "en": {
+  "name": "Soy milk, freshly made",
+  "aliases": [
+   "fresh soya milk",
+   "doujiang",
+   "豆漿",
+   "shop-made soy milk"
+  ],
+  "summary": "Freshly made soy milk — the shop-made or homemade kind, not a carton — has a shelf life of about 1 day. Food safety guidance treats it as a same-day product: drink it promptly or refrigerate it at once at 4 °C (40 °F) or below, and clear the batch within a day of when it was made.",
+  "pantry": "There is no room-temperature timeline here, only a rule, and it is worth following exactly. Soy milk that is going to be served cold must be cooled fast: down to 20 °C within two hours of cooking, then to 4 °C within a further four hours or less. Soy milk kept for hot drinking must stay above 60 °C. Anything in between is the growth range. A jug of warm 豆漿 standing on the counter through a morning is a genuine hazard, not a nostalgic detail — soy milk is low in acid and high in protein, and Bacillus cereus spores survive the boil and grow happily as it cools slowly.",
+  "fridge": "About 1 day at 4 °C (40 °F) or below, in a closed container, counted from when it was made rather than from when you bought it. That is much shorter than most people expect, and the reason is the same Bacillus cereus problem: boiling kills the vegetative bacteria but not the spores, so refrigeration is holding a live risk in check rather than removing it. Get it cold quickly, keep it on a shelf and not in the door, and do not top up an old jug with a fresh batch.",
+  "freezer": "Freezing splits fresh soy milk. The protein and the water separate, and no amount of shaking brings it back — you get a grainy liquid with curds in it. If you have frozen some anyway, use it in cooking, where the texture matters less: congee, braises, batters. No freezer timeline is published, and the split is reason enough not to plan on it.",
+  "thawing": "Thaw in the fridge if you have frozen it, and expect it to be separated. Use it in cooking rather than drinking it, and do not refreeze.",
+  "spoilage": [
+   "A sour or sharply tangy smell — fresh soy milk should smell beany and clean.",
+   "Thickening, curdling or visible curds floating in it.",
+   "A slimy or ropey texture when poured.",
+   "Any fizzing, which means fermentation has started."
+  ],
+  "tips": [
+   "Buy it from a stall with turnover, and buy the amount you will finish that day.",
+   "Cool a home-made batch quickly — a shallow container in a sink of cold water works.",
+   "Keep it hot above 60 °C or cold at 4 °C or below; do not let it sit in between.",
+   "Cartoned UHT and chilled retail soy milk is a different product with its own, much longer window."
+  ],
+  "faq": [
+   {
+    "q": "How long does fresh soy milk keep in the fridge?",
+    "a": "About 1 day at 4 °C (40 °F) or below, counted from when it was made."
+   },
+   {
+    "q": "Can you freeze fresh soy milk?",
+    "a": "Freezing splits it into water and protein and it does not come back together. Use any that you have frozen in cooking rather than for drinking."
+   },
+   {
+    "q": "Is it safe to leave soy milk out?",
+    "a": "No. Boiling does not destroy Bacillus cereus spores, and they grow as the milk cools slowly. Keep it above 60 °C or get it to 4 °C fast."
+   }
+  ]
+ },
+ "zh": {
+  "name": "現做豆漿",
+  "aliases": [
+   "現磨豆漿",
+   "無糖豆漿",
+   "鹹豆漿",
+   "豆乳"
+  ],
+  "summary": "現做的豆漿——店家現磨或自家煮的那種，不是紙盒裝——保存期大約是 1 天。食品安全指引把它當成當日產品：盡快喝完，或立刻冷藏於 4 °C 以下，並在製作後一天內出清。",
+  "pantry": "這裡沒有室溫的期限，只有一條規則，而且值得照著做。要冷飲的豆漿必須快速降溫：烹煮後兩小時內降到 20 °C，再用四小時以內降到 4 °C。要熱飲的豆漿則必須維持在 60 °C 以上。中間那一段就是細菌的生長區。一桶溫溫的豆漿在檯面上放一個早上，是真實的危害，不是什麼懷舊細節——豆漿低酸、高蛋白，而蠟樣芽孢桿菌的孢子熬煮殺不死，會在緩慢降溫的過程中大量繁殖。",
+  "fridge": "密封容器放 4 °C 以下約 1 天，而且是從「做好那一刻」起算，不是從你買回來起算。這比多數人以為的短很多，原因就是同一個蠟樣芽孢桿菌問題：煮沸能殺死營養細胞，殺不死孢子，所以冷藏是在壓住一個活著的風險，而不是把它消除。請快速降溫、放冰箱層架而不是門邊，也不要把新鮮的豆漿倒進放了一陣子的舊桶裡「續杯」。",
+  "freezer": "冷凍會讓現做豆漿分離。蛋白質和水分家，怎麼搖都回不來——你會得到一杯帶著豆花般結塊的粗糙液體。如果已經凍了，就拿去入菜，那裡質地沒那麼要緊：煮粥、燉煮、調麵糊都行。它沒有公布的冷凍期限，而「會分離」這件事本身就足以說服你別這麼計畫。",
+  "thawing": "若已冷凍，請放冷藏解凍，並預期它是分離的。請用來入菜而不是直接喝，也不要再次冷凍。",
+  "spoilage": [
+   "聞起來發酸或有尖銳的酸味——現做豆漿應該是乾淨的豆香。",
+   "變稠、結絮，或看得到漂浮的凝塊。",
+   "倒出來黏滑或牽絲。",
+   "出現任何氣泡，代表發酵已經開始。"
+  ],
+  "tips": [
+   "跟生意好的店家買，而且買當天喝得完的量。",
+   "自家煮的要快速降溫——用淺容器隔冷水降溫很有效。",
+   "熱的維持在 60 °C 以上，冷的壓在 4 °C 以下，不要停在中間。",
+   "紙盒常溫殺菌與冷藏櫃販售的豆漿是不同的產品，窗口長得多。"
+  ],
+  "faq": [
+   {
+    "q": "現做豆漿冷藏可以放多久？",
+    "a": "4 °C 以下大約 1 天，從做好那一刻起算。"
+   },
+   {
+    "q": "現做豆漿可以冷凍嗎？",
+    "a": "冷凍會讓它分離成水和蛋白質，而且回不來。已經凍了的請拿去入菜，不要當飲料喝。"
+   },
+   {
+    "q": "豆漿可以放在室溫嗎？",
+    "a": "不行。煮沸殺不死蠟樣芽孢桿菌的孢子，而它們會在緩慢降溫時繁殖。請維持 60 °C 以上，或快速降到 4 °C。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "lime-juice",
+ "en": {
+  "name": "Lime juice, bottled",
+  "aliases": [
+   "bottled lime juice",
+   "key lime juice",
+   "萊姆汁（瓶裝）",
+   "zumo de lima embotellado"
+  ],
+  "summary": "An unopened bottle of shelf-stable lime juice keeps 12–18 months from purchase in a cool, dark cupboard, and 2 months in the fridge at 4 °C (40 °F) or below once opened. Like lemon juice, it owes that shelf life to its acidity rather than to anything added to it.",
+  "pantry": "12–18 months from purchase while the bottle is sealed, stored cool, dark and dry. Bottled lime juice is pasteurised and sits at a pH low enough that bacteria cannot establish themselves, so the limit is aroma rather than safety. Lime is the more fragile of the two citrus juices in the cupboard: its character comes from volatile oils that fade faster than lemon's, and an old bottle tastes dull and slightly resinous. Keep it out of the light, which is why these bottles are usually tinted or opaque.",
+  "fridge": "2 months at 4 °C (40 °F) or below once opened, capped tightly and kept on a shelf rather than in the door. Once air is in the bottle the juice oxidises and surface mould becomes possible even at this acidity. Wipe the neck before recapping, use a clean spoon or pour directly, and never return unused juice to the bottle. Fresh squeezed lime juice is a different product and keeps for days rather than months.",
+  "freezer": "No freezer timeline is published for bottled lime juice. Freezing does no harm, and cubes are a tidy way to keep small measures for cooking or cocktails, but the two-month refrigerated window on an opened bottle usually makes it unnecessary. Leave headspace if you do freeze it, since juice expands.",
+  "thawing": "Thaw frozen cubes in the fridge, or use them straight from frozen in a hot pan or a drink. Do not thaw juice on the counter.",
+  "spoilage": [
+   "Mould on the surface or around the neck of the bottle.",
+   "A cloudy, ropey or slimy appearance.",
+   "A dull, flat or fermented smell rather than a sharp lime one.",
+   "A swollen bottle or a cap that will not release easily."
+  ],
+  "tips": [
+   "Buy a small bottle; lime aroma fades faster than lemon's once opened.",
+   "Wipe the neck before recapping and write the opening date on the label.",
+   "Keep it out of the light and off the shelf above the cooker.",
+   "For cocktails, fresh limes are worth the effort; bottled juice is a cooking ingredient."
+  ],
+  "faq": [
+   {
+    "q": "How long does bottled lime juice last?",
+    "a": "12–18 months from purchase unopened in a cupboard, and 2 months in the fridge at 4 °C (40 °F) or below once opened."
+   },
+   {
+    "q": "Does lime juice need refrigerating after opening?",
+    "a": "Yes. The acidity keeps bacteria out, but an opened bottle still oxidises and can grow surface mould, and the published figure assumes it is kept cold."
+   },
+   {
+    "q": "Why does bottled lime juice taste different from fresh?",
+    "a": "Pasteurisation and time drive off the volatile oils that give lime its character. Bottled juice is a good acid for cooking but a poor substitute in a cocktail."
+   }
+  ]
+ },
+ "zh": {
+  "name": "瓶裝萊姆汁",
+  "aliases": [
+   "市售萊姆汁",
+   "青檸汁",
+   "萊姆原汁",
+   "bottled lime juice"
+  ],
+  "summary": "未開封的常溫瓶裝萊姆汁自購買日起，放在陰涼避光的櫥櫃可放 12～18 個月；開封後放 4 °C 以下冷藏 2 個月。和檸檬汁一樣，撐起這個期限的是它的酸度，而不是額外添加了什麼。",
+  "pantry": "未開封、陰涼、避光、乾燥，自購買日起 12～18 個月。瓶裝萊姆汁經過殺菌，pH 值低到細菌站不住腳，所以限制在香氣而不是安全。在櫥櫃裡的兩種柑橘汁中，萊姆是比較脆弱的那一個：它的個性來自揮發性精油，散得比檸檬快，放久的一瓶喝起來沉悶、還帶點樹脂味。請避免光照，這也是這類瓶子通常是有色或不透光的原因。",
+  "fridge": "開封後蓋緊、放冰箱層架（不是門邊），4 °C 以下 2 個月。空氣一進瓶子，果汁就開始氧化；即使在這個酸度，表面長霉也變得可能。蓋回去前擦瓶口，用乾淨湯匙或直接倒，也不要把沒用完的果汁倒回瓶子。現榨萊姆汁是另一種產品，以天計而不是以月計。",
+  "freezer": "瓶裝萊姆汁沒有公布的冷凍期限。冷凍不會有害，凍成小塊也方便料理或調酒取用；但開封後既然有兩個月的冷藏窗口，通常沒必要。真要凍請留膨脹空間，因為果汁會變大。",
+  "thawing": "冰塊請放冷藏解凍，或直接丟進熱鍋或飲料裡。不要放在檯面上退冰。",
+  "spoilage": [
+   "液面或瓶口長霉。",
+   "外觀變得混濁、牽絲或黏滑。",
+   "聞起來沉悶、平板或有發酵味，而不是明亮的萊姆香。",
+   "瓶身鼓脹，或蓋子不容易轉開。"
+  ],
+  "tips": [
+   "買小瓶；開封後萊姆的香氣散得比檸檬快。",
+   "蓋回去前擦瓶口，並在標籤上寫開封日期。",
+   "避免光照，也不要放在爐台上方那一格。",
+   "調酒還是用新鮮萊姆值得；瓶裝的比較適合當料理用的酸味來源。"
+  ],
+  "faq": [
+   {
+    "q": "瓶裝萊姆汁可以放多久？",
+    "a": "未開封放櫥櫃自購買日起 12～18 個月；開封後 4 °C 以下冷藏 2 個月。"
+   },
+   {
+    "q": "萊姆汁開封後要冷藏嗎？",
+    "a": "要。酸度擋得住細菌，但開封後仍會氧化、表面也可能長霉，而公布的數字本來就以冷藏為前提。"
+   },
+   {
+    "q": "為什麼瓶裝萊姆汁和新鮮的味道不一樣？",
+    "a": "殺菌與時間會把萊姆的揮發性精油趕走。瓶裝的拿來料理提酸很好用，調酒時就差得遠了。"
+   }
+  ]
+ }
+}

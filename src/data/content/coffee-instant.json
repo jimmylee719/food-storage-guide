@@ -1,0 +1,83 @@
+{
+ "slug": "coffee-instant",
+ "en": {
+  "name": "Instant coffee",
+  "aliases": [
+   "instant coffee granules",
+   "freeze-dried coffee",
+   "即溶咖啡",
+   "café instantáneo"
+  ],
+  "summary": "An unopened jar of instant coffee keeps 1 year from purchase in a cool, dry cupboard, and 2–3 months once opened. It is brewed coffee with the water taken out, so nothing can grow in it — what it loses is aroma, and what it hates is humidity.",
+  "pantry": "1 year from purchase while sealed, and 2–3 months after opening, in a cool, dark, dry cupboard with the lid screwed on properly. Freeze-dried and spray-dried granules contain almost no water, which is why the jar is shelf-stable; the limit is that the volatile aromatics that survived the drying keep escaping, and a jar opened every morning loses them steadily. The granules are also strongly hygroscopic, so they pull moisture out of a steamy kitchen and clump into a solid brown block.",
+  "fridge": "No refrigerated timeline is published for instant coffee, and the fridge is the wrong place for it. It is humid, and instant granules absorb moisture faster than almost anything in the kitchen — a jar kept cold and then opened in a warm room collects condensation on the spoon and in the neck. A screw-top jar in a dry cupboard away from the kettle is the right answer.",
+  "freezer": "No freezer timeline is published either, and freezing runs into the same problem more severely: every time the jar comes out, moisture condenses on the cold granules. Instant coffee already gets a year unopened without any of that, so there is nothing to gain. If a jar has clumped, it is moisture damage rather than spoilage, and the coffee still dissolves.",
+  "thawing": "Not applicable — instant coffee is a dry cupboard item and should not be frozen.",
+  "spoilage": [
+   "A flat, cardboard smell when you open the jar instead of a coffee one.",
+   "Granules fused into a hard block, which means moisture has got in.",
+   "A cup that tastes dull, sour or of nothing much.",
+   "Any musty smell or visible mould in a jar that got genuinely wet."
+  ],
+  "tips": [
+   "Use a dry spoon every time; a wet one is what turns the jar into a brick.",
+   "Keep the jar away from the kettle and the hob, where steam collects.",
+   "Buy a small jar if you only drink instant occasionally.",
+   "Screw the lid on properly rather than resting it on top."
+  ],
+  "faq": [
+   {
+    "q": "How long does instant coffee keep?",
+    "a": "1 year from purchase unopened in a cool, dry cupboard, and 2–3 months once the jar is opened."
+   },
+   {
+    "q": "Does instant coffee go bad?",
+    "a": "It does not spoil in any microbial sense. It loses aroma and makes a flatter cup, and it clumps if moisture gets in."
+   },
+   {
+    "q": "Should instant coffee be kept in the fridge?",
+    "a": "No. The fridge is humid and the granules absorb moisture readily. A tightly closed jar in a dry cupboard is better."
+   }
+  ]
+ },
+ "zh": {
+  "name": "即溶咖啡",
+  "aliases": [
+   "速溶咖啡",
+   "即溶咖啡粉",
+   "冷凍乾燥咖啡",
+   "instant coffee"
+  ],
+  "summary": "未開封的即溶咖啡自購買日起放陰涼乾燥的櫥櫃可放 1 年，開封後 2～3 個月。它就是把水抽掉的咖啡，裡面長不出東西；它失去的是香氣，而它最怕的是濕氣。",
+  "pantry": "未開封自購買日起 1 年，開封後 2～3 個月，放在陰涼、避光、乾燥的櫥櫃，蓋子要確實旋緊。冷凍乾燥或噴霧乾燥的顆粒幾乎不含水，這就是它能常溫保存的原因；限制在於乾燥後殘留的揮發性香氣還是會不斷逃走，一罐每天早上都被打開的咖啡，香氣就是這樣一點一點沒的。顆粒也極會吸濕，在有蒸氣的廚房裡會把水吸過來，結成一整塊褐色硬磚。",
+  "fridge": "即溶咖啡沒有公布的冷藏期限，而冰箱是錯的地方。冰箱潮濕，而即溶顆粒吸水的速度大概是全廚房第一——冰過的罐子在溫暖房間打開，湯匙上和罐口都會結露。旋蓋玻璃罐放在遠離熱水壺的乾燥櫥櫃，才是正確答案。",
+  "freezer": "冷凍同樣沒有期限數據，而且問題只會更嚴重：每次拿出來，水氣都會凝在冰冷的顆粒上。即溶咖啡未開封本來就有一年，完全不必冒這個險。如果已經結塊，那是受潮而不是腐敗，咖啡還是溶得開。",
+  "thawing": "不適用——即溶咖啡是乾燥的櫥櫃食品，不應冷凍。",
+  "spoilage": [
+   "開罐時聞到的是平板的紙板味，而不是咖啡味。",
+   "顆粒黏結成硬塊，代表水氣跑進去了。",
+   "沖出來的一杯沉悶、發酸或幾乎沒味道。",
+   "真的進水的罐子出現霉味或看得到霉。"
+  ],
+  "tips": [
+   "每次都用乾的湯匙；濕湯匙就是把整罐變成磚頭的原因。",
+   "罐子遠離熱水壺與爐台這些會聚蒸氣的地方。",
+   "偶爾才喝的話買小罐。",
+   "蓋子要旋緊，不要只是蓋著。"
+  ],
+  "faq": [
+   {
+    "q": "即溶咖啡可以放多久？",
+    "a": "未開封放陰涼乾燥的櫥櫃，自購買日起 1 年；開封後 2～3 個月。"
+   },
+   {
+    "q": "即溶咖啡會壞嗎？",
+    "a": "在微生物意義上不會。它會失去香氣、沖出來變得平板，受潮則會結塊。"
+   },
+   {
+    "q": "即溶咖啡要放冰箱嗎？",
+    "a": "不要。冰箱潮濕，顆粒很會吸水。旋緊蓋子放乾燥櫥櫃比較好。"
+   }
+  ]
+ }
+}

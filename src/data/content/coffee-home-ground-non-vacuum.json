@@ -1,0 +1,83 @@
+{
+ "slug": "coffee-home-ground-non-vacuum",
+ "en": {
+  "name": "Coffee, ground at home",
+  "aliases": [
+   "home-ground coffee",
+   "freshly ground coffee",
+   "自家研磨咖啡",
+   "café molido en casa"
+  ],
+  "summary": "Coffee you grind at home keeps 3–5 months from purchase and 3–5 weeks once the pack is opened, stored cool, dark and airtight. The freezer holds it 1–2 years at −18 °C (0 °F). Coffee never really spoils — it stales, and grinding is what starts the clock running fast.",
+  "pantry": "3–5 months from purchase and 3–5 weeks after opening, in an airtight, opaque container somewhere cool, dark and dry. Grinding a bean multiplies its surface area enormously, and from that moment the aromatics are escaping and the oils are oxidising. This is a flavour window, not a safety one: month-old grounds make a dull, papery cup rather than a dangerous one. The practical consequence is simple — grind what you are about to brew, and store the rest as beans.",
+  "fridge": "No refrigerated timeline is published for home-ground coffee, and the fridge is a risky place for it. It is humid, and ground coffee absorbs both moisture and odours with remarkable efficiency, so unless the container is genuinely airtight you end up with damp coffee that tastes of whatever else is in there. A sealed opaque tin in a cool cupboard is the more reliable option.",
+  "freezer": "1–2 years at −18 °C (0 °F), sealed airtight. This is the one cold-storage option with a published figure behind it, and it works because the freezer is dry and dark as well as cold. Freeze in small single-use portions rather than one large bag, so you are not exposing the whole lot to warm, moist air every morning, and let each portion come to room temperature inside its container before opening.",
+  "thawing": "Let a frozen portion warm to room temperature while still sealed, then open it and brew. Do not refreeze coffee that has been out.",
+  "spoilage": [
+   "A flat, papery or cardboard smell where there used to be a roasted one.",
+   "A dull, sour or ashy cup from beans that used to taste good.",
+   "Clumping in the container, which means moisture has got in.",
+   "A musty smell or visible mould in coffee that was stored damp."
+  ],
+  "tips": [
+   "Grind per brew if you can; the whole bean keeps far better than the grounds.",
+   "Use an opaque airtight tin, not a clear jar on the worktop.",
+   "Freeze in single-dose portions rather than one big bag.",
+   "Keep the tin away from the kettle; steam is the enemy of ground coffee."
+  ],
+  "faq": [
+   {
+    "q": "How long does home-ground coffee keep?",
+    "a": "3–5 months from purchase, 3–5 weeks once the pack is opened, or 1–2 years in the freezer at −18 °C (0 °F)."
+   },
+   {
+    "q": "Should ground coffee go in the fridge?",
+    "a": "No refrigerated timeline is published, and the fridge is humid and full of smells that coffee absorbs. An airtight tin in a cool cupboard, or the freezer, is better."
+   },
+   {
+    "q": "Is stale coffee bad for you?",
+    "a": "No. Coffee stales rather than spoils, and old grounds make a flat, papery cup. Mould only appears if the coffee took up real moisture."
+   }
+  ]
+ },
+ "zh": {
+  "name": "自家研磨咖啡粉",
+  "aliases": [
+   "現磨咖啡粉",
+   "家用磨豆",
+   "自磨咖啡",
+   "home-ground coffee"
+  ],
+  "summary": "自己在家磨的咖啡粉，自購買日起可放 3～5 個月，開封後 3～5 週，前提是陰涼、避光、密封。冷凍 −18 °C 下可放 1～2 年。咖啡其實不會腐敗——它是走味，而研磨就是讓這個時鐘開始快轉的動作。",
+  "pantry": "自購買日起 3～5 個月，開封後 3～5 週，裝在不透光的氣密容器裡，放陰涼、避光、乾燥處。磨開一顆豆子等於把它的表面積放大好幾十倍，從那一刻起香氣就在逃、油脂就在氧化。這是風味的窗口，不是安全的：放了一個月的咖啡粉沖出來是沉悶帶紙味的一杯，而不是危險的一杯。實際的結論很簡單——要沖多少磨多少，其餘用豆子的狀態保存。",
+  "fridge": "自家研磨咖啡粉沒有公布的冷藏期限，而冰箱對它來說是個風險。冰箱潮濕，而咖啡粉吸水氣和吸味道的效率都高得驚人，所以除非容器真的氣密，你得到的會是一罐又潮、又帶著冰箱裡其他味道的咖啡。密封的不透光鐵罐放陰涼櫥櫃，可靠得多。",
+  "freezer": "確實密封放 −18 °C，1～2 年。這是唯一有公開數字支持的低溫選項，它有效的原因是冷凍庫同時具備低溫、乾燥與避光。請分成單次用量的小份冷凍，而不是凍一大包，免得每天早上都讓整批暴露在溫暖潮濕的空氣裡；每一小份也請連著容器回到室溫再打開。",
+  "thawing": "讓小份維持密封回到室溫，再打開沖煮。拿出來過的不要再冷凍。",
+  "spoilage": [
+   "原本的烘焙香變成平板的紙味或紙板味。",
+   "本來好喝的豆子，沖出來變得沉悶、發酸或有灰味。",
+   "容器裡結塊，代表水氣跑進去了。",
+   "受潮存放的咖啡出現霉味或看得到霉。"
+  ],
+  "tips": [
+   "可以的話一次只磨一次沖煮的量；整顆豆子比粉耐放太多。",
+   "用不透光的氣密鐵罐，不要用透明罐擺在流理台上。",
+   "分成單次份量冷凍，不要凍一大包。",
+   "罐子遠離熱水壺；蒸氣是咖啡粉的天敵。"
+  ],
+  "faq": [
+   {
+    "q": "自己磨的咖啡粉可以放多久？",
+    "a": "自購買日起 3～5 個月，開封後 3～5 週，或 −18 °C 冷凍 1～2 年。"
+   },
+   {
+    "q": "咖啡粉要放冰箱嗎？",
+    "a": "它沒有公布的冷藏期限，而且冰箱又潮濕、味道又多，咖啡全都會吸進來。氣密鐵罐放陰涼櫥櫃，或直接冷凍，比較好。"
+   },
+   {
+    "q": "走味的咖啡會傷身嗎？",
+    "a": "不會。咖啡是走味不是腐敗，舊粉沖出來只是平板帶紙味。只有真的受潮才會長霉。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "potato-chips",
+ "en": {
+  "name": "Potato chips",
+  "aliases": [
+   "crisps",
+   "potato crisps",
+   "洋芋片",
+   "papas fritas de bolsa"
+  ],
+  "summary": "An unopened bag of potato chips keeps 2 months from purchase in a cool, dry cupboard, and 1–2 weeks once opened. Nothing grows in a crisp — it is fried potato with almost no water left — so the two things that end it are humidity and the frying oil going stale.",
+  "pantry": "2 months from purchase while the bag is sealed, and 1–2 weeks after opening. The bag is inflated with nitrogen rather than air, which is not a gimmick: it keeps oxygen away from the oil and cushions the crisps. The moment you open it, oxygen gets in and the crisps also start pulling moisture from the room, which is why they go limp so quickly in a humid kitchen. Clip the bag tightly or tip the contents into an airtight tub, and keep them out of the sun and away from the hob.",
+  "fridge": "No refrigerated timeline is published, and the fridge is the wrong home for crisps. It is a humid box, and a bag left in there goes soft within a day or two, which is the failure you were trying to avoid. A sealed tub in a cool cupboard is more effective and takes up less space.",
+  "freezer": "No freezer timeline is published either. Crisps hold almost no water so freezing does not damage them in principle, but condensation lands on them the instant they come out into a warm room, and limp crisps are the result. Given that the unopened figure is only a couple of months, there is little to gain.",
+  "thawing": "Not applicable in normal use. If a bag has been chilled, let it come back to room temperature sealed before you open it.",
+  "spoilage": [
+   "Crisps that bend instead of snapping — humidity rather than spoilage.",
+   "A stale, cardboard or paint-like smell from the frying oil turning.",
+   "A bitter aftertaste that lingers, which is rancidity.",
+   "A bag that has lost its puff, meaning the seal failed and air got in."
+  ],
+  "tips": [
+   "Buy the bag with the most air in it; a flat bag has usually lost its nitrogen seal.",
+   "Clip an opened bag hard or decant into an airtight tub the same day.",
+   "Keep them away from the kettle, the rice cooker and any window that gets sun.",
+   "Soft crisps crisp up again in a low oven for a few minutes; rancid ones do not."
+  ],
+  "faq": [
+   {
+    "q": "How long do potato chips keep?",
+    "a": "2 months from purchase while sealed, and 1–2 weeks once the bag is opened and resealed properly."
+   },
+   {
+    "q": "Should crisps be kept in the fridge?",
+    "a": "No. The fridge is humid and crisps absorb moisture quickly, so they go limp. An airtight tub in a cool cupboard is better."
+   },
+   {
+    "q": "My crisps have gone soft. Are they off?",
+    "a": "No, they have taken up moisture. A few minutes in a low oven restores the snap. A bitter or painty taste is rancid oil and that bag goes."
+   }
+  ]
+ },
+ "zh": {
+  "name": "洋芋片",
+  "aliases": [
+   "薯片",
+   "馬鈴薯片",
+   "洋芋薄片",
+   "potato chips"
+  ],
+  "summary": "未開封的洋芋片自購買日起，放在陰涼乾燥的櫥櫃可放 2 個月，開封後 1～2 週。一片洋芋片裡長不出東西——它是幾乎不含水的炸馬鈴薯——所以終結它的只有兩件事：濕氣，以及炸油走味。",
+  "pantry": "未開封自購買日起 2 個月，開封後 1～2 週。袋子灌的是氮氣而不是空氣，這不是噱頭：它把氧氣隔開，也順便當緩衝。一旦打開，氧氣進來，洋芋片同時開始把房間裡的水氣吸過來，這就是為什麼在濕熱的廚房裡它軟得那麼快。請把袋口確實夾緊，或整包倒進氣密盒，並且避免日曬、遠離爐台。",
+  "fridge": "沒有冷藏的期限數據，而冰箱對洋芋片來說是錯的地方。它是個潮濕的箱子，一包放進去一兩天就軟了——而那正是你本來想避免的結局。密封盒放陰涼櫥櫃更有效，也更不占位子。",
+  "freezer": "冷凍同樣沒有期限數據。洋芋片幾乎不含水，理論上冷凍不會傷到它，但一拿到溫暖的房間，水氣立刻凝在上面，結果就是軟趴趴。加上未開封也不過就兩個月，實在沒什麼好賺的。",
+  "thawing": "一般用不到。若冰過，請維持密封回到室溫再打開。",
+  "spoilage": [
+   "洋芋片會彎而不是清脆折斷——那是受潮，不是腐敗。",
+   "炸油走味後的陳味、紙板味或油漆味。",
+   "吃完留在嘴裡揮之不去的苦味，那是油耗。",
+   "袋子扁掉沒有膨度，代表封口失效、空氣進去了。"
+  ],
+  "tips": [
+   "挑膨得最飽的那包；扁掉的通常已經漏氣。",
+   "開封當天就把袋口夾緊，或倒進氣密盒。",
+   "遠離熱水壺、電鍋，以及會曬到太陽的窗邊。",
+   "軟掉的用低溫烤箱烘幾分鐘會回脆；油耗掉的救不回來。"
+  ],
+  "faq": [
+   {
+    "q": "洋芋片可以放多久？",
+    "a": "未開封自購買日起 2 個月；開封並確實密封後 1～2 週。"
+   },
+   {
+    "q": "洋芋片要冰冰箱嗎？",
+    "a": "不要。冰箱潮濕，洋芋片吸濕很快，會軟掉。密封盒放陰涼櫥櫃比較好。"
+   },
+   {
+    "q": "洋芋片軟掉了是壞了嗎？",
+    "a": "不是，是吸了水氣。低溫烤箱烘幾分鐘就回脆。有苦味或油漆味才是油耗，那包就該丟。"
+   }
+  ]
+ }
+}

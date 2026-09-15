@@ -1,0 +1,83 @@
+{
+ "slug": "nutrition-drinks-bottled",
+ "en": {
+  "name": "Nutrition supplement drinks, bottled",
+  "aliases": [
+   "oral nutritional supplement",
+   "meal replacement drink",
+   "nutritional shake",
+   "營養補充飲品"
+  ],
+  "summary": "An unopened bottle of shelf-stable nutrition drink keeps 2–5 years in a cool, dark cupboard, and 2 days in the fridge at 4 °C (40 °F) or below once opened. No figure is published for the bottled form, so both numbers are borrowed from the canned version of the same UHT-sterilised drink.",
+  "pantry": "2–5 years unopened, in a cool, dark cupboard, and go by the printed date. Treat the long end of that range as optimistic for a plastic bottle: a bottle is a poorer oxygen barrier than a can, so the vitamins and the fat degrade faster in it even though the sterilised contents are identical. The figures here are read across from the canned form rather than measured for the bottle, so where the printed date and the range disagree, the date wins. Do not use a bottle that is swollen, leaking or cloudy.",
+  "fridge": "2 days at 4 °C (40 °F) or below once opened, capped. Once the seal is broken this is essentially milk: a neutral, protein- and sugar-rich liquid with no acidity to protect it. Cap it, refrigerate it immediately and finish it within two days. Drink from a glass rather than the bottle if you are not finishing it in one go, and never leave an opened bottle standing at room temperature — these drinks are often given to the elderly, the ill and the tube-fed, the people least able to shrug off a mistake.",
+  "freezer": "No freezer timeline is published for bottled nutrition drinks, and freezing is a poor idea in any case. These are emulsions of protein, fat and sugar, and freezing breaks the emulsion: what thaws is grainy and separated, and for tube feeding that is a practical problem as well as an unappetising one. A two-day refrigerated window and a sensible bottle size are the better plan.",
+  "thawing": "Not recommended. If a bottle has frozen accidentally, thaw it in the fridge, shake it hard, and expect the texture to have changed.",
+  "spoilage": [
+   "A swollen bottle, a leaking seal, or a cap that pops loudly.",
+   "A sour, cheesy or fermented smell on opening.",
+   "Curdling, lumps or a separated layer that will not shake back in.",
+   "A noticeably darker colour or a thick, syrupy texture."
+  ],
+  "tips": [
+   "Buy the bottle size that matches one sitting; an opened bottle is a two-day item.",
+   "Pour into a glass rather than drinking from the bottle if any will be kept.",
+   "Store cartons of bottles away from heat; heat is what ages the vitamins.",
+   "For someone vulnerable, label the bottle with the time it was opened, not just the date."
+  ],
+  "faq": [
+   {
+    "q": "How long does an opened nutrition drink last?",
+    "a": "2 days in the fridge at 4 °C (40 °F) or below, capped."
+   },
+   {
+    "q": "How long do unopened bottles keep?",
+    "a": "2–5 years in a cool, dark cupboard, though the printed date should win over the upper figure — a plastic bottle lets in more oxygen than a can."
+   },
+   {
+    "q": "Can you leave an opened nutrition drink out?",
+    "a": "No. Once opened it behaves like milk, and it is often given to people who can least afford a mistake. Refrigerate it immediately."
+   }
+  ]
+ },
+ "zh": {
+  "name": "瓶裝營養補充飲品",
+  "aliases": [
+   "營養補充飲料",
+   "均衡營養配方",
+   "管灌配方",
+   "營養品"
+  ],
+  "summary": "未開封的常溫瓶裝營養補充飲品，放在陰涼避光的櫥櫃可放 2～5 年；開封後放 4 °C 以下冷藏 2 天。瓶裝形式沒有公布的數字，所以這兩個都是從同一支超高溫滅菌飲品的「罐裝版」借過來的。",
+  "pantry": "未開封放陰涼避光的櫥櫃 2～5 年，並以包裝上印的日期為準。對塑膠瓶來說，這個範圍的上限請當成樂觀值：瓶子的阻氧能力比鐵罐差，所以即使滅菌後的內容物完全一樣，維生素和油脂在瓶裡降解得比較快。這裡的數字是比照罐裝而來，不是針對瓶裝測出來的，所以當標示日期和這個範圍衝突時，以日期為準。瓶身鼓脹、滲漏或內容物混濁的，不要使用。",
+  "fridge": "開封後蓋好、放 4 °C 以下冷藏 2 天。封口一破，它基本上就是牛奶：一種中性、富含蛋白質與糖、又沒有酸度保護的液體。請蓋緊、立刻冷藏，並在兩天內喝完。不會一次喝完的話請倒進杯子喝，也絕對不要把開過的瓶子放在室溫——這類飲品經常是給長者、病人與管灌者的，而他們正是最承受不起一次失誤的人。",
+  "freezer": "瓶裝營養補充飲品沒有公布的冷凍期限，而且冷凍本來就不是好主意。它是蛋白質、油脂與糖的乳化液，冷凍會破壞乳化：解凍後粗糙分離，對管灌來說不只是口感問題，更是實際的操作問題。兩天的冷藏窗口，加上選對瓶子大小，才是比較好的做法。",
+  "thawing": "不建議。若不小心凍到，請放冷藏解凍、用力搖勻，並預期質地已經改變。",
+  "spoilage": [
+   "瓶身鼓脹、封口滲漏，或開瓶時有明顯噴氣聲。",
+   "打開時有酸味、起司味或發酵味。",
+   "結絮、出現顆粒，或分層後搖不回來。",
+   "顏色明顯變深，或質地變得濃稠像糖漿。"
+  ],
+  "tips": [
+   "買一次喝得完的瓶型；開封後就是兩天的東西。",
+   "如果會留下一些，請倒進杯子喝，不要對著瓶口喝。",
+   "整箱請遠離熱源存放；讓維生素老化的就是熱。",
+   "給體弱者飲用時，瓶上請寫「開封時間」，不要只寫日期。"
+  ],
+  "faq": [
+   {
+    "q": "營養補充飲品開封後可以放多久？",
+    "a": "蓋好放 4 °C 以下冷藏 2 天。"
+   },
+   {
+    "q": "未開封的可以放多久？",
+    "a": "陰涼避光的櫥櫃 2～5 年；但請讓包裝上的日期勝過上限——塑膠瓶的阻氧能力比鐵罐差。"
+   },
+   {
+    "q": "開封後可以放在室溫嗎？",
+    "a": "不行。開封後它的行為就像牛奶，而且它常常是給最承受不起失誤的人喝的。請立刻冷藏。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "vegetable-juice-commercial-sold-refrigerated",
+ "en": {
+  "name": "Vegetable juice, chilled",
+  "aliases": [
+   "chilled vegetable juice",
+   "tomato juice",
+   "冷藏蔬菜汁",
+   "zumo de verduras refrigerado"
+  ],
+  "summary": "Commercial vegetable juice sold from a chilled cabinet keeps 1 month in the fridge at 4 °C (40 °F) or below. It is pasteurised but not sterilised, which is why the cold chain matters from the shop shelf to your fridge and why it never belongs in a cupboard.",
+  "pantry": "This juice has no room-temperature timeline, and the way it was sold tells you why: if you found it in the chilled cabinet, it depends on refrigeration. Vegetable juices are far less acidic than fruit juices — tomato is the most acidic of them and still mild compared with orange — so there is little in the bottle itself holding bacteria back. Apply the two-hour rule to a bottle left out, and one hour if the room is above 32 °C. Shelf-stable vegetable juice in cans or cartons is a different product with its own cupboard figure.",
+  "fridge": "1 month at 4 °C (40 °F) or below, on a shelf rather than in the door where the temperature rises every time it opens. Once you open the bottle the pack is no longer sealed against air, so cap it tightly, keep it cold and use it promptly rather than letting it stand for the rest of the month. No separate opened figure is published, so trust your nose: sourness, fizzing or any thickening is the signal. Shake before pouring, because these juices separate.",
+  "freezer": "No freezer timeline is published for chilled vegetable juice. Freezing works in practice if you decant into a container with headspace — a full bottle will split as the liquid expands — and the thawed juice is separated and best used in cooking, in a soup base or a stew rather than in a glass. With no published figure, treat it as a way to rescue a bottle you cannot finish.",
+  "thawing": "Thaw in the fridge, never on the counter, and shake it well. Treat thawed juice as opened juice and finish it quickly.",
+  "spoilage": [
+   "A sour, yeasty or fermented smell instead of a fresh vegetable one.",
+   "Fizzing or foaming when poured, or a bottle that feels pressurised.",
+   "Mould at the neck or on the surface.",
+   "A thick, slimy or ropey texture."
+  ],
+  "tips": [
+   "Keep the bottle on a fridge shelf, not in the door.",
+   "Pour into a glass rather than drinking from the bottle.",
+   "Shake well; separation is normal in vegetable juice.",
+   "Use the last of a bottle in a soup or a braise rather than pouring it away."
+  ],
+  "faq": [
+   {
+    "q": "How long does chilled vegetable juice keep?",
+    "a": "1 month in the fridge at 4 °C (40 °F) or below."
+   },
+   {
+    "q": "Can chilled vegetable juice be kept in a cupboard?",
+    "a": "No. It is pasteurised rather than sterilised and depends on refrigeration. Shelf-stable vegetable juice in cans and cartons is a different product."
+   },
+   {
+    "q": "How can you tell if vegetable juice has gone bad?",
+    "a": "Smell it. Sourness, fizzing, a pressurised bottle or any sliminess all mean it goes down the sink."
+   }
+  ]
+ },
+ "zh": {
+  "name": "冷藏蔬菜汁",
+  "aliases": [
+   "冷藏蔬果汁",
+   "番茄汁（冷藏）",
+   "綜合蔬菜汁",
+   "chilled vegetable juice"
+  ],
+  "summary": "從冷藏櫃販售的市售蔬菜汁，放 4 °C 以下冷藏可放 1 個月。它是經過巴氏殺菌但不是滅菌，所以從貨架到你家冰箱的冷鏈都很重要，它也永遠不屬於櫥櫃。",
+  "pantry": "這種果汁沒有室溫的期限數據，而它販售的方式就說明了原因：在冷藏櫃找到的，就是靠冷藏撐著的。蔬菜汁的酸度比果汁低得多——番茄汁是其中最酸的，比起柳橙汁還是溫和許多——所以瓶子裡本身沒什麼東西能壓制細菌。放在外面的瓶子請套用兩小時原則；室溫超過 32 °C 時只有一小時。常溫罐裝或盒裝的蔬菜汁是不同的產品，有自己的櫥櫃數字。",
+  "fridge": "放 4 °C 以下、冰箱層架（不是門邊，門邊每開一次溫度就上升），1 個月。開瓶之後包裝就不再隔絕空氣，請蓋緊、保持低溫，並盡快用完，而不是讓它在那裡撐滿一個月。開封後沒有另外公布的數字，所以請相信鼻子：發酸、起泡或變稠就是訊號。這類果汁會分層，倒之前搖一搖。",
+  "freezer": "冷藏蔬菜汁沒有公布的冷凍期限。實務上可行，但要先倒進留有膨脹空間的容器——裝滿的瓶子會被撐裂；解凍後會分離，拿去做湯底或燉菜會比直接喝好。既然沒有公開數字，請把它當成「喝不完時的搶救手段」。",
+  "thawing": "請放冷藏解凍，不要放檯面上，之後搖勻。解凍後就當成已開封的果汁，盡快喝完。",
+  "spoilage": [
+   "聞起來酸、有酵母味或發酵味，而不是新鮮蔬菜味。",
+   "倒出來起泡冒沫，或瓶子摸起來有壓力。",
+   "瓶口或液面長霉。",
+   "質地變得濃稠、黏滑或牽絲。"
+  ],
+  "tips": [
+   "瓶子放冰箱層架，不要放門邊。",
+   "倒進杯子喝，不要對瓶口喝。",
+   "要搖勻；蔬菜汁分層是正常的。",
+   "最後剩的一點拿去煮湯或燉菜，不要倒掉。"
+  ],
+  "faq": [
+   {
+    "q": "冷藏蔬菜汁可以放多久？",
+    "a": "4 °C 以下冷藏 1 個月。"
+   },
+   {
+    "q": "冷藏蔬菜汁可以放櫥櫃嗎？",
+    "a": "不行。它是巴氏殺菌而非滅菌，必須靠冷藏。常溫罐裝與盒裝的蔬菜汁是不同的產品。"
+   },
+   {
+    "q": "怎麼判斷蔬菜汁壞了？",
+    "a": "用聞的。發酸、起泡、瓶子鼓脹或質地黏滑，都代表該倒掉。"
+   }
+  ]
+ }
+}

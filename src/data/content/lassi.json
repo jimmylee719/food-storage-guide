@@ -1,0 +1,84 @@
+{
+ "slug": "lassi",
+ "en": {
+  "name": "Lassi",
+  "aliases": [
+   "mango lassi",
+   "salted lassi",
+   "chaas",
+   "yoghurt drink",
+   "印度優格飲"
+  ],
+  "summary": "A chilled bottle of lassi keeps about 1 week unopened in the fridge, to its printed date, and 1–2 days once opened or once you have blended it at home. No agency publishes a lassi-specific figure, so both numbers are borrowed from kefir, the nearest cultured-milk drink with a published shelf life.",
+  "pantry": "Lassi is a fresh dairy drink and has no room-temperature timeline. Between 4 °C and 60 °C it sits in the range where bacteria multiply, so follow the two-hour rule: more than two hours out of the fridge and it goes, or one hour above 32 °C. The culture in it gives some protection through acidity, but that is not the same as being shelf-stable. Retort-packed shelf-stable lassi is a different product and keeps unrefrigerated until it is opened.",
+  "fridge": "About 1 week for a sealed chilled bottle, to the date on the label, and 1–2 days once opened. Home-blended lassi is a fresh dairy drink from the moment the blender stops: chill it straight away and drink it the same day if you can. It separates within hours, which is quality rather than spoilage and shakes back together. A jug that has stood on the table through a long meal is a different matter and should be discarded rather than returned to the fridge.",
+  "freezer": "No freezer timeline is published for lassi. Freezing splits a yoghurt drink — the protein and water separate and the texture turns grainy — so it is not a sensible way to keep it. If you have mango lassi you cannot finish, freezing it as ice lollies works far better than freezing it as a drink, because nobody minds the texture in that form.",
+  "thawing": "Not recommended for drinking. If you have frozen lassi, thaw it in the fridge and expect it to be separated; blending helps but does not fully restore it.",
+  "spoilage": [
+   "A sharply sour or yeasty smell beyond the normal tang of yoghurt.",
+   "Fizzing or a bottle that has swollen, meaning gas is being produced.",
+   "Lumps or curds that do not shake back in.",
+   "Any mould at the neck of the bottle or on the surface."
+  ],
+  "tips": [
+   "Blend only as much as you will drink; lassi is at its best within the hour.",
+   "Keep the bottle on a fridge shelf rather than in the door.",
+   "Separation is normal — shake it rather than throwing it out.",
+   "Freeze leftover mango lassi as ice lollies instead of trying to keep it as a drink."
+  ],
+  "faq": [
+   {
+    "q": "How long does lassi keep in the fridge?",
+    "a": "About 1 week unopened for a chilled bottle, to its printed date, and 1–2 days once opened or home-blended. These figures are read across from kefir."
+   },
+   {
+    "q": "Can you freeze lassi?",
+    "a": "Not usefully. Freezing splits it and the texture turns grainy. Freezing it as ice lollies is the better use for leftovers."
+   },
+   {
+    "q": "My lassi has separated. Has it gone off?",
+    "a": "Separation within hours is normal for a yoghurt drink and shakes back in. A sharply sour smell, fizzing or curds that will not disperse mean it goes."
+   }
+  ]
+ },
+ "zh": {
+  "name": "印度優格飲（lassi）",
+  "aliases": [
+   "拉西",
+   "芒果拉西",
+   "鹹拉西",
+   "印度酸奶飲料"
+  ],
+  "summary": "冷藏櫃買的瓶裝 lassi 未開封大約可放 1 週、以標示日期為準；開封後或自己在家打的，則是 1～2 天。沒有機關公布 lassi 專屬的數字，所以這兩個數字都是從克菲爾（kefir）借來的——資料裡最接近的發酵乳飲品。",
+  "pantry": "lassi 是新鮮乳製飲品，沒有室溫的期限。4 °C 到 60 °C 之間正是細菌繁殖的溫度帶，所以請遵守兩小時原則：離開冰箱超過兩小時就倒掉；室溫超過 32 °C 時，一小時就是上限。裡面的菌種靠酸度提供一些保護，但那和「可以常溫保存」是兩回事。經過高溫滅菌的常溫包裝 lassi 是不同的產品，開封前可以不冷藏。",
+  "fridge": "冷藏櫃的密封瓶裝約 1 週、以標示日期為準；開封後 1～2 天。自己打的 lassi，從果汁機停下來那一刻起就是新鮮乳製飲品：請立刻冷藏，可以的話當天喝完。它幾個小時內就會分層，那是品質而不是腐敗，搖一搖就回來了。但一整頓飯都放在桌上的那一壺是另一回事，請倒掉，不要再放回冰箱。",
+  "freezer": "lassi 沒有公布的冷凍期限。冷凍會讓優格飲分離——蛋白質和水分家，質地變得粗糙——所以這不是合理的保存方式。如果芒果 lassi 喝不完，做成冰棒會比凍成飲料好得多，因為那個型態下沒人會在意質地。",
+  "thawing": "不建議解凍後當飲料喝。若已冷凍，請放冷藏解凍，並預期它是分離的；重新打過會好一些，但回不到原樣。",
+  "spoilage": [
+   "酸味尖銳或有酵母味，超出優格本來的那種酸香。",
+   "起泡，或瓶身鼓脹，代表有氣體產生。",
+   "出現搖不回去的結塊或凝乳。",
+   "瓶口或液面長霉。"
+  ],
+  "tips": [
+   "要喝多少打多少；lassi 在一小時內最好喝。",
+   "瓶子放冰箱層架，不要放門邊。",
+   "分層是正常的——搖勻就好，不必丟掉。",
+   "喝不完的芒果 lassi 做成冰棒，比想辦法留成飲料實際。"
+  ],
+  "faq": [
+   {
+    "q": "lassi 冷藏可以放多久？",
+    "a": "冷藏瓶裝未開封約 1 週、以標示日期為準；開封或自製後 1～2 天。這些數字是比照克菲爾而來。"
+   },
+   {
+    "q": "lassi 可以冷凍嗎？",
+    "a": "意義不大。冷凍會讓它分離、質地變粗。喝不完做成冰棒是比較好的用法。"
+   },
+   {
+    "q": "lassi 分層了是壞掉嗎？",
+    "a": "幾小時內分層對優格飲來說很正常，搖勻就好。酸味尖銳、起泡，或出現搖不散的凝塊，才代表該倒掉。"
+   }
+  ]
+ }
+}

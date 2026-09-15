@@ -1,0 +1,83 @@
+{
+ "slug": "pretzels",
+ "en": {
+  "name": "Pretzels",
+  "aliases": [
+   "hard pretzels",
+   "pretzel sticks",
+   "蝴蝶餅",
+   "pretzel"
+  ],
+  "summary": "A sealed bag of hard pretzels keeps 4–9 months from purchase in a cool, dry cupboard, and about 3 weeks once opened. They are one of the driest snacks on the shelf, with very little fat, which is why they outlast crisps by a wide margin.",
+  "pantry": "4–9 months from purchase while sealed, and about 3 weeks after opening, somewhere cool, dry and dark. Hard pretzels are baked twice to a very low moisture content and carry only a little fat, so there is neither water for microbes nor much oil to go rancid — the long shelf life is a straightforward consequence of that. What ends them is humidity: a pretzel that has taken up moisture goes leathery, and the salt crystals on the outside dissolve into damp patches. Clip the bag or decant into an airtight tin.",
+  "fridge": "No refrigerated timeline is published, and the fridge does pretzels no favours. It is humid, and the salt on the surface will draw that moisture in, leaving you with soft, tacky pretzels. A cool, dry cupboard and a tin that actually seals is the better answer, and it is what the published figure assumes.",
+  "freezer": "No freezer timeline is published either. Freezing does no harm — there is almost no water in a hard pretzel to form ice crystals — but it earns you nothing over a sealed tin, and condensation on the way out softens them unless you let the sealed container warm up first. Soft or filled pretzels are a different product entirely and do not follow these figures.",
+  "thawing": "Not normally applicable. Let a chilled or frozen pack return to room temperature while still sealed, then open it.",
+  "spoilage": [
+   "Pretzels that bend instead of snapping — moisture, not spoilage.",
+   "Salt crystals dissolved into damp, glassy patches on the surface.",
+   "A stale or cardboard smell from the small amount of fat in them.",
+   "Mould or a musty smell in a bag that got genuinely wet."
+  ],
+  "tips": [
+   "Decant an opened bag into an airtight tin the same day.",
+   "Keep them away from steam; the shelf above the kettle is the worst place.",
+   "Crisp softened pretzels in a low oven for a few minutes and cool them before sealing.",
+   "Filled and soft pretzels are perishable and follow their own, much shorter rules."
+  ],
+  "faq": [
+   {
+    "q": "How long do pretzels keep?",
+    "a": "4–9 months from purchase in a sealed bag in a cool, dry cupboard, and about 3 weeks once opened."
+   },
+   {
+    "q": "Why do pretzels last longer than crisps?",
+    "a": "They are drier and contain far less fat, so there is much less oil to go rancid. Humidity, not spoilage, is what finally ends them."
+   },
+   {
+    "q": "Can you refresh stale pretzels?",
+    "a": "Yes, if they have simply gone soft. A few minutes in a low oven and a full cool-down before sealing brings the snap back."
+   }
+  ]
+ },
+ "zh": {
+  "name": "蝴蝶餅乾",
+  "aliases": [
+   "扭結餅",
+   "鹹脆餅",
+   "蝴蝶脆餅",
+   "pretzel"
+  ],
+  "summary": "未開封的硬式蝴蝶餅自購買日起，放在陰涼乾燥的櫥櫃可放 4～9 個月，開封後大約 3 週。它是架上最乾的零食之一，油脂又很少，所以耐放程度遠遠勝過洋芋片。",
+  "pantry": "未開封自購買日起 4～9 個月，開封後大約 3 週，放在陰涼、乾燥、避光處。硬式蝴蝶餅經過兩次烘烤，含水量極低，油脂也只有一點點，所以既沒有水給微生物用，也沒有多少油可以走味——耐放只是這件事的直接結果。終結它的是濕氣：吸了水的蝴蝶餅會變得韌韌的，表面的鹽粒也會化成一片片濕斑。請把袋口夾緊，或倒進氣密鐵罐。",
+  "fridge": "沒有冷藏的期限數據，而冰箱對蝴蝶餅一點好處也沒有。冰箱潮濕，表面的鹽又會把水氣吸進來，結果就是又軟又黏。陰涼乾燥的櫥櫃加一個真的能密封的鐵罐才是答案，而公布的數字也正是以此為前提。",
+  "freezer": "冷凍同樣沒有期限數據。凍了不會壞——硬式蝴蝶餅幾乎沒有水可以結成冰晶——但它換不到密封鐵罐給不了的東西；而且除非讓密封容器先回溫，拿出來時的結露都會讓它變軟。軟式或有內餡的蝴蝶餅是完全不同的產品，不適用這些數字。",
+  "thawing": "一般用不到。冰過或凍過的整包請維持密封回到室溫再打開。",
+  "spoilage": [
+   "咬下去是彎的而不是清脆折斷——那是受潮，不是腐敗。",
+   "表面的鹽粒化開，形成濕濕亮亮的斑塊。",
+   "那一點點油脂散出的陳味或紙板味。",
+   "受潮的袋子長霉或有霉味。"
+  ],
+  "tips": [
+   "開封當天就倒進氣密鐵罐。",
+   "遠離蒸氣；熱水壺上方那一格最糟。",
+   "軟掉的用低溫烤箱烘幾分鐘，完全放涼再密封。",
+   "有內餡的與軟式蝴蝶餅是易腐品，規則完全不同、短得多。"
+  ],
+  "faq": [
+   {
+    "q": "蝴蝶餅可以放多久？",
+    "a": "未開封密封放陰涼乾燥的櫥櫃，自購買日起 4～9 個月；開封後大約 3 週。"
+   },
+   {
+    "q": "為什麼蝴蝶餅比洋芋片耐放？",
+    "a": "它更乾、油脂少得多，能走味的油就少。最後終結它的是濕氣，而不是腐敗。"
+   },
+   {
+    "q": "受潮的蝴蝶餅還能救嗎？",
+    "a": "如果只是變軟可以。低溫烤箱烘幾分鐘，完全放涼後再密封，脆度就回來了。"
+   }
+  ]
+ }
+}

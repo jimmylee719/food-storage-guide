@@ -1,0 +1,83 @@
+{
+ "slug": "marshmallows",
+ "en": {
+  "name": "Marshmallows",
+  "aliases": [
+   "marshmallow",
+   "mallows",
+   "棉花糖",
+   "malvaviscos"
+  ],
+  "summary": "An unopened bag of marshmallows keeps 1 year from purchase in a cool, dry cupboard, and about 1 month once opened. They are aerated sugar syrup set with gelatine, so nothing grows in them — they fail by drying hard or by absorbing humidity and fusing into a block.",
+  "pantry": "1 year from purchase, sealed, cool and dry; about 1 month after the bag is opened. The sugar in a marshmallow binds the water so tightly that there is essentially nothing available for microbes, which is why these are shelf-stable for a year without any preservative theatre. The real enemies are air and humidity: an open bag dries to a chewy, leathery lump in a dry room, and in a damp one the marshmallows go tacky and weld themselves together. Clip the bag hard or move them into an airtight box.",
+  "fridge": "No refrigerated timeline is published, and the fridge is a poor choice. It is humid, so marshmallows come out sticky, and the cold firms them into something rubbery. The only moment it helps is when a bag has softened in a hot kitchen and you want them firm enough to separate. A sealed box in a cool cupboard is the better answer.",
+  "freezer": "No freezer timeline is published either. Freezing does not spoil marshmallows and it is a common trick for keeping them from sticking, but there is no published figure and the cupboard already gives a year. If you do freeze them, use an airtight bag and let it come back to room temperature sealed, or condensation will glue them together.",
+  "thawing": "Not normally required. Let a chilled or frozen bag warm up while still sealed before opening it.",
+  "spoilage": [
+   "Marshmallows fused into one solid block after taking up moisture.",
+   "Hard, shrunken, leathery pieces that no longer squash.",
+   "A stale or off smell rather than a clean vanilla sweetness.",
+   "Any mould, which is rare and means the bag got genuinely wet."
+  ],
+  "tips": [
+   "Reseal the bag with a clip the moment you open it, or decant into an airtight box.",
+   "Toss slightly sticky marshmallows with a little icing sugar or cornflour.",
+   "Dried-out marshmallows still melt perfectly well into hot chocolate or rice-crispy bars.",
+   "Keep the bag away from the kettle and the hob, where steam and heat do the damage."
+  ],
+  "faq": [
+   {
+    "q": "How long do marshmallows keep?",
+    "a": "1 year from purchase unopened in a cool, dry cupboard, and about 1 month once the bag is opened."
+   },
+   {
+    "q": "Do marshmallows need to be refrigerated?",
+    "a": "No. They are shelf-stable sugar confectionery and no refrigerated timeline is published. The fridge mostly makes them sticky and rubbery."
+   },
+   {
+    "q": "My marshmallows have gone hard. Can I still use them?",
+    "a": "Yes. That is drying, not spoilage, and they melt just as well. Only mould or an off smell means throwing them out."
+   }
+  ]
+ },
+ "zh": {
+  "name": "棉花糖",
+  "aliases": [
+   "棉花糖球",
+   "烤棉花糖",
+   "軟綿糖",
+   "marshmallow"
+  ],
+  "summary": "未開封的棉花糖自購買日起，放在陰涼乾燥的櫥櫃可放 1 年，開封後大約 1 個月。它是打發的糖漿用明膠凝住的東西，裡面長不出什麼；它壞掉的方式是乾硬，或是吸濕之後黏成一整塊。",
+  "pantry": "密封、陰涼、乾燥，自購買日起 1 年；開封後大約 1 個月。棉花糖裡的糖把水綁得很死，微生物幾乎沒有可用的水，所以它不必靠什麼花招就能常溫放一年。真正的敵人是空氣和濕氣：開封後放在乾燥的房間會乾成一塊有嚼勁的皮革，放在潮濕的房間則會發黏、互相黏死。請把袋口夾緊，或整包倒進氣密盒。",
+  "fridge": "沒有冷藏的期限數據，而且冰箱不是好選擇。冰箱潮濕，棉花糖拿出來會黏手，低溫也讓它變得死韌。唯一有幫助的時機，是整包在熱廚房裡軟掉、你想讓它硬一點好分開。密封盒放陰涼櫥櫃是更好的答案。",
+  "freezer": "冷凍同樣沒有期限數據。凍了不會壞，很多人也用這招避免沾黏，但沒有公開的數字，而櫥櫃本來就給了一年。真要凍，請用密封袋，並且維持密封回到室溫再打開，否則結露會把它們黏成一團。",
+  "thawing": "一般不需要。冰過或凍過的整包，請維持密封回溫再開。",
+  "spoilage": [
+   "吸濕之後整包黏成一大塊。",
+   "變硬、縮水、像皮革一樣壓不下去。",
+   "聞起來是陳味或怪味，而不是乾淨的香草甜香。",
+   "任何發霉——很少見，出現就代表包裝真的進水了。"
+  ],
+  "tips": [
+   "一開封就用夾子夾緊，或換到氣密盒。",
+   "有點黏的棉花糖，拌一點糖粉或玉米粉就好處理。",
+   "乾掉的棉花糖拿去泡熱可可或做米香棒一樣好用。",
+   "袋子遠離熱水壺和爐台，蒸氣和熱就是禍首。"
+  ],
+  "faq": [
+   {
+    "q": "棉花糖可以放多久？",
+    "a": "未開封放陰涼乾燥的櫥櫃，自購買日起 1 年；開封後大約 1 個月。"
+   },
+   {
+    "q": "棉花糖需要冷藏嗎？",
+    "a": "不需要。它是可常溫保存的糖果，而且沒有冷藏的期限數據。冰箱多半只會讓它黏手又變韌。"
+   },
+   {
+    "q": "棉花糖變硬了還能用嗎？",
+    "a": "可以，那是乾掉不是腐敗，拿去加熱融化一樣好用。只有發霉或有怪味才需要丟。"
+   }
+  ]
+ }
+}

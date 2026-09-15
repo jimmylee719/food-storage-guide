@@ -1,0 +1,83 @@
+{
+ "slug": "tea-bags",
+ "en": {
+  "name": "Tea bags",
+  "aliases": [
+   "teabags",
+   "bagged tea",
+   "茶包",
+   "bolsitas de té"
+  ],
+  "summary": "A sealed box of tea bags keeps 18–36 months from purchase in a cool, dry cupboard, and 6–12 months once opened. Tea does not spoil — it fades. An old bag makes a flat, hay-like cup rather than an unsafe one.",
+  "pantry": "18–36 months from purchase while the box is sealed, and 6–12 months after opening, kept cool, dark and dry. Tea is a dried leaf with a water content low enough that nothing grows in it, so the figure is a flavour window. What the leaf loses over time is its volatile aromatics, and what it gains is anything else in the cupboard: tea is an excellent absorber of smells, which is why a box stored next to the coffee or the curry powder will taste of them. Keep the bags in their own sealed tin, away from the kettle.",
+  "fridge": "No refrigerated timeline is published for tea bags, and the fridge is a bad place for them. It is humid and full of odours, and tea absorbs both — a box kept in there comes out damp and tasting of the fridge. A tin in a dry cupboard is what the published figures assume and what actually works.",
+  "freezer": "No freezer timeline is published for tea bags either, and freezing brings the same condensation problem: every time the box comes out, moisture lands on the leaf. The one exception often made for tea is matcha, which is a powder and a different case. For ordinary bags, an airtight tin in a cool cupboard is better than anything the freezer offers.",
+  "thawing": "Not applicable — tea bags are a dry cupboard item and should not be frozen.",
+  "spoilage": [
+   "A flat, hay-like or dusty smell instead of the tea's own aroma.",
+   "A pale, thin cup from tea that used to brew strongly.",
+   "Bags that feel damp or have stuck together.",
+   "Mould or a musty smell in a box that got wet, which is the only genuine safety problem."
+  ],
+  "tips": [
+   "Keep tea in its own airtight tin; it absorbs the smell of everything nearby.",
+   "Buy the size of box you will drink in under a year after opening.",
+   "Store away from the kettle, the hob and the spice shelf.",
+   "Stale tea still works for iced tea or for cooking, where a softer flavour matters less."
+  ],
+  "faq": [
+   {
+    "q": "How long do tea bags keep?",
+    "a": "18–36 months from purchase while the box is sealed, and 6–12 months once opened, stored dry and airtight."
+   },
+   {
+    "q": "Do tea bags go bad?",
+    "a": "Not in a safety sense. They fade, and an old bag makes a flat, hay-like cup. Mould only appears if the box got genuinely damp."
+   },
+   {
+    "q": "Should tea be kept in the fridge or freezer?",
+    "a": "No. Both are humid environments and tea absorbs moisture and odours readily. An airtight tin in a cool, dry cupboard is better."
+   }
+  ]
+ },
+ "zh": {
+  "name": "茶包",
+  "aliases": [
+   "袋泡茶",
+   "立體茶包",
+   "紅茶包",
+   "tea bags"
+  ],
+  "summary": "未開封的整盒茶包自購買日起，放在陰涼乾燥的櫥櫃可放 18～36 個月，開封後 6～12 個月。茶不會腐敗——它是「淡掉」。放久的茶包沖出來是一杯平板、像乾草的茶，不是不安全的茶。",
+  "pantry": "未開封自購買日起 18～36 個月，開封後 6～12 個月，放在陰涼、避光、乾燥處。茶是乾燥的葉子，含水量低到長不出東西，所以這個數字算的是風味窗口。時間會讓茶葉失去揮發性香氣，同時讓它得到櫥櫃裡的其他東西：茶吸味的本事一流，所以一盒放在咖啡或咖哩粉旁邊的茶，喝起來就會有那些味道。請把茶包收在自己的密封鐵罐裡，遠離熱水壺。",
+  "fridge": "茶包沒有公布的冷藏期限，而冰箱對它來說是個壞地方。冰箱又濕又有味道，而茶兩樣都吸——放進去的一盒拿出來會又潮又帶著冰箱味。乾燥櫥櫃裡的密封鐵罐，才是那些公布數字預設的條件，也才是真的有效的做法。",
+  "freezer": "茶包同樣沒有公布的冷凍期限，而冷凍會帶來一樣的結露問題：每次拿出來，水氣就落在葉子上。茶裡常被當成例外的是抹茶，但那是粉末、情況不同。一般茶包的話，陰涼櫥櫃裡的氣密鐵罐比冷凍庫能給的任何東西都好。",
+  "thawing": "不適用——茶包是乾燥的櫥櫃食品，不應冷凍。",
+  "spoilage": [
+   "聞起來平板、像乾草或帶灰塵味，而不是茶本身的香氣。",
+   "本來很有味道的茶，沖出來顏色淡、味道薄。",
+   "茶包摸起來潮濕，或彼此黏在一起。",
+   "受潮的盒子長霉或有霉味——這才是唯一真正的安全問題。"
+  ],
+  "tips": [
+   "茶要收在自己的氣密鐵罐裡；旁邊有什麼味道它都會吸。",
+   "買開封後一年內喝得完的盒裝大小。",
+   "遠離熱水壺、爐台和香料層架。",
+   "淡掉的茶拿去做冰茶或入菜還是好用，那裡味道柔一點沒關係。"
+  ],
+  "faq": [
+   {
+    "q": "茶包可以放多久？",
+    "a": "未開封自購買日起 18～36 個月；開封後乾燥密封保存 6～12 個月。"
+   },
+   {
+    "q": "茶包會壞嗎？",
+    "a": "在安全意義上不會。它是淡掉，放久的茶包沖出來平板、像乾草。只有盒子真的受潮才會長霉。"
+   },
+   {
+    "q": "茶要放冰箱或冷凍嗎？",
+    "a": "不要。兩者都潮濕，而茶很會吸水氣和味道。陰涼乾燥櫥櫃裡的氣密鐵罐比較好。"
+   }
+  ]
+ }
+}

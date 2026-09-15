@@ -1,0 +1,83 @@
+{
+ "slug": "red-wine",
+ "en": {
+  "name": "Red wine",
+  "aliases": [
+   "vin rouge",
+   "vino tinto",
+   "紅酒",
+   "紅葡萄酒"
+  ],
+  "summary": "An unopened bottle of red wine keeps 3–5 years stored somewhere dark and cool, away from direct heat and sunlight. Once the cork is out, the clock changes completely: an opened bottle holds 1–3 days in the fridge at 4 °C (40 °F) or below.",
+  "pantry": "3–5 years in a dark place, away from direct heat or sunlight, and that is the figure for an ordinary bottle rather than for something built to age for decades. Lay a corked bottle on its side so the cork stays wet — a dried cork shrinks and lets air in — and store screw-cap bottles however you like. What ruins wine in a kitchen is temperature swing: the shelf above the cooker or a sunny windowsill will age a bottle prematurely and give it a flat, stewed character. A cool cupboard on an interior wall is usually the best a home can do.",
+  "fridge": "1–3 days at 4 °C (40 °F) or below once the bottle is opened, re-corked or stoppered. Refrigerating opened red wine is not a mistake, whatever it does to the serving temperature: oxidation is what is spoiling it, and cold slows the reaction. Pour what you want and put the bottle back in the fridge, then let the glass warm for twenty minutes before drinking. A vacuum stopper or a smaller bottle to decant into both help by removing the air rather than just the warmth.",
+  "freezer": "No freezer timeline is published for wine, and freezing a bottle is a bad idea. Wine expands as it freezes and can push the cork out or crack the glass, and the flavour does not survive it well. If you have wine you cannot drink, freeze it in an ice-cube tray for cooking — those cubes go straight into a pan sauce or a braise, which is a much better fate than a forgotten half-bottle.",
+  "thawing": "Thaw cooking cubes straight in the pan. Wine is not a food you thaw for drinking, and quality after freezing depends entirely on how it was handled.",
+  "spoilage": [
+   "A vinegary or nail-varnish smell, which is acetic acid — the wine has turned.",
+   "A flat, stewed, sherry-like character from oxidation.",
+   "A wet-cardboard or damp-cellar smell, which is cork taint.",
+   "A cork pushed up in the neck or wine seeping around it, both signs of heat damage."
+  ],
+  "tips": [
+   "Store corked bottles on their side so the cork does not dry out.",
+   "Keep them away from the cooker, the fridge motor and any window.",
+   "Re-cork and refrigerate an opened bottle; do not leave it on the counter.",
+   "Decant leftovers into a smaller bottle so there is less air above the wine."
+  ],
+  "faq": [
+   {
+    "q": "How long does an unopened bottle of red wine keep?",
+    "a": "3–5 years stored in the dark, away from heat and sunlight, for an ordinary bottle."
+   },
+   {
+    "q": "Should opened red wine go in the fridge?",
+    "a": "Yes. It keeps 1–3 days at 4 °C (40 °F) or below. Let the glass warm up for a few minutes before drinking."
+   },
+   {
+    "q": "How can you tell if wine has gone bad?",
+    "a": "Smell it. Vinegar or nail varnish means it has oxidised past saving; a wet-cardboard smell is cork taint. Neither improves with air."
+   }
+  ]
+ },
+ "zh": {
+  "name": "紅酒",
+  "aliases": [
+   "紅葡萄酒",
+   "干紅",
+   "vino tinto",
+   "red wine"
+  ],
+  "summary": "未開瓶的紅酒放在陰暗涼爽、遠離熱源與陽光的地方，可放 3～5 年。軟木塞一拔，時鐘就完全換了一個：開瓶後的酒，放 4 °C 以下冷藏只有 1～3 天。",
+  "pantry": "放在陰暗處、遠離直接熱源與陽光，3～5 年；這是一般酒款的數字，不是那種為了陳年數十年而釀的酒。用軟木塞的瓶子請平放，讓軟木塞保持濕潤——乾掉的軟木塞會縮，空氣就跑進去了；旋蓋瓶則怎麼放都行。在廚房裡毀掉葡萄酒的是溫差：爐台上方那一格或有陽光的窗台，會讓一瓶酒提早老化，喝起來平板、有種被煮過的味道。家裡通常最好的選擇，是內牆邊一個涼爽的櫃子。",
+  "fridge": "開瓶後塞回軟木塞或酒塞，放 4 °C 以下冷藏 1～3 天。不管這對適飲溫度有什麼影響，把開過的紅酒冰起來並不是錯：真正在破壞它的是氧化，而低溫會拖慢這個反應。要喝多少倒多少，瓶子放回冰箱，杯子在室溫放二十分鐘再喝。真空瓶塞，或把剩酒換到更小的瓶子裡，效果更好——那是把空氣移除，而不只是降溫。",
+  "freezer": "葡萄酒沒有公布的冷凍期限，而且把整瓶冰進冷凍庫是個壞主意。酒結凍會膨脹，可能把軟木塞頂出來或把玻璃撐裂，風味也撐不太住。喝不完的話，請用製冰盒凍成料理用的酒塊——直接丟進鍋裡做醬汁或燉菜，比一瓶被遺忘的半瓶酒好太多。",
+  "thawing": "料理用的酒塊直接丟進鍋裡。葡萄酒不是拿來解凍後飲用的東西，冷凍後的品質完全看怎麼處理。",
+  "spoilage": [
+   "有醋味或去光水的味道，那是醋酸——酒已經壞了。",
+   "口感平板、像煮過、帶雪莉酒調性，那是氧化。",
+   "有濕紙板或潮濕地窖的味道，那是軟木塞污染。",
+   "軟木塞被頂高，或瓶口滲酒，兩者都是受熱受損的跡象。"
+  ],
+  "tips": [
+   "軟木塞瓶請平放，不要讓塞子乾掉。",
+   "遠離爐台、冰箱壓縮機和任何窗戶。",
+   "開過的酒塞好放冷藏，不要放在檯面上。",
+   "剩酒換到小瓶子裡，讓酒液上方的空氣變少。"
+  ],
+  "faq": [
+   {
+    "q": "未開瓶的紅酒可以放多久？",
+    "a": "一般酒款放在陰暗、遠離熱源與陽光的地方，3～5 年。"
+   },
+   {
+    "q": "開過的紅酒要冰嗎？",
+    "a": "要。4 °C 以下冷藏 1～3 天。倒進杯子後先回溫幾分鐘再喝。"
+   },
+   {
+    "q": "怎麼判斷葡萄酒壞了？",
+    "a": "用聞的。醋味或去光水味代表氧化到救不回來；濕紙板味則是軟木塞污染。兩者醒酒都救不回來。"
+   }
+  ]
+ }
+}

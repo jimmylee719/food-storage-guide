@@ -1,0 +1,84 @@
+{
+ "slug": "soda-carbonated-cola-drinks-mixers-diet-sodas",
+ "en": {
+  "name": "Soda and carbonated drinks",
+  "aliases": [
+   "cola",
+   "fizzy drinks",
+   "mixers",
+   "diet soda",
+   "碳酸飲料"
+  ],
+  "summary": "An opened bottle of soda keeps 2–3 days in the fridge at 4 °C (40 °F) or below — and that is a fizz limit rather than a safety one. No separate cupboard timeline is published for unopened cans and bottles: go by the date printed on the pack.",
+  "pantry": "No shelf-life figure is given here for unopened soda, and the printed date is what governs it. A sealed can or bottle is acidic, carbonated and usually pasteurised or filled cold under pressure, so microbes are not the issue; what degrades is the flavour, and in diet drinks the sweetener, which breaks down faster in warmth. Keep cases cool and out of the sun, and do not put a can in the freezer to chill it quickly unless you plan to stand over it — the liquid expands and the can bursts.",
+  "fridge": "2–3 days at 4 °C (40 °F) or below once opened, capped tightly. Cold does two things for an opened bottle: carbon dioxide dissolves better in cold liquid, so it stays fizzy longer, and a chilled bottle loses less gas each time you open it. The 2–3 days is about carbonation and taste rather than risk — flat cola is dull, not dangerous. Squeeze the air out of a part-full plastic bottle before recapping, and store it upright.",
+  "freezer": "No freezer timeline is published, and freezing carbonated drinks is genuinely risky. The liquid expands as it freezes while the dissolved gas comes out of solution, which makes cans burst and plastic bottles split — a well-known way to coat the inside of a freezer. If you want a drink cold fast, use ice water and salt, or set a timer if you must use the freezer.",
+  "thawing": "Not applicable. Carbonated drinks should not be frozen; a can or bottle that has frozen may burst and should be handled carefully.",
+  "spoilage": [
+   "A completely flat drink with no bubbles at all — quality, not safety.",
+   "A stale, chemical or cardboard taste, common in old diet drinks as the sweetener degrades.",
+   "A bulging can, or one that sprays violently on opening.",
+   "Any cloudiness, sediment or off smell in a clear drink or mixer."
+  ],
+  "tips": [
+   "Buy small bottles if you drink slowly; a two-litre bottle rarely stays fizzy to the end.",
+   "Squeeze the air out of a part-full plastic bottle before recapping.",
+   "Keep bottles upright and cold; fizz survives better that way.",
+   "Never leave a can in the freezer to chill and walk away."
+  ],
+  "faq": [
+   {
+    "q": "How long does opened soda last?",
+    "a": "2–3 days in the fridge at 4 °C (40 °F) or below, capped. After that it is flat rather than unsafe."
+   },
+   {
+    "q": "How long do unopened cans of soda keep?",
+    "a": "No separate timeline is published. Go by the date printed on the can or bottle, and keep them cool and out of the sun."
+   },
+   {
+    "q": "Can you freeze fizzy drinks?",
+    "a": "No. The liquid expands and the dissolved gas comes out of solution, which makes cans burst and plastic bottles split."
+   }
+  ]
+ },
+ "zh": {
+  "name": "碳酸飲料",
+  "aliases": [
+   "汽水",
+   "可樂",
+   "無糖汽水",
+   "調酒用氣泡飲"
+  ],
+  "summary": "開封後的汽水放 4 °C 以下冷藏可放 2～3 天——那是「氣還在不在」的期限，不是安全期限。未開封的罐裝與瓶裝沒有另外公布櫥櫃期限：請以包裝上印的日期為準。",
+  "pantry": "未開封的汽水在這裡沒有給保存期限的數字，包裝上的日期就是依據。密封的罐子或瓶子酸度高、有碳酸，通常也經過殺菌或在加壓低溫下充填，所以微生物不是問題；退場的是風味，而無糖飲料裡的甜味劑在溫暖環境下分解得更快。整箱請放陰涼處、避免日曬；也不要為了快點冰而把罐子丟進冷凍庫又走開——液體膨脹會把罐子撐爆。",
+  "fridge": "開封後蓋緊、放 4 °C 以下冷藏 2～3 天。低溫為開過的瓶子做兩件事：二氧化碳在低溫液體裡溶得更好，氣泡撐得比較久；而且冰過的瓶子每次打開跑掉的氣也比較少。這個 2～3 天講的是氣泡和味道，不是風險——沒氣的可樂只是無趣，不是危險。塑膠瓶只剩一半時，蓋回去之前把空氣擠掉，並且直立存放。",
+  "freezer": "沒有公布的冷凍期限，而且冷凍碳酸飲料是真的有風險。液體結凍會膨脹，溶解的氣體同時跑出來，罐子會爆、塑膠瓶會裂——那是把冷凍庫內壁塗滿的經典方法。想快速冰鎮，請用冰水加鹽；真要用冷凍庫，請設鬧鐘。",
+  "thawing": "不適用。碳酸飲料不應冷凍；已經凍住的罐子或瓶子可能會爆，處理時請小心。",
+  "spoilage": [
+   "完全沒氣、一顆泡泡都沒有——那是品質問題，不是安全問題。",
+   "出現陳味、化學味或紙板味，放久的無糖飲料因甜味劑分解特別常見。",
+   "罐身鼓脹，或一開就猛烈噴出。",
+   "透明飲料或調酒用氣泡水出現混濁、沉澱或異味。"
+  ],
+  "tips": [
+   "喝得慢就買小瓶；兩公升的瓶子很少能撐到最後還有氣。",
+   "塑膠瓶剩一半時，蓋回去前先把空氣擠掉。",
+   "瓶子直立、保持冰冷，氣泡撐得比較久。",
+   "絕對不要把罐子丟進冷凍庫冰鎮然後就離開。"
+  ],
+  "faq": [
+   {
+    "q": "開過的汽水可以放多久？",
+    "a": "蓋緊放 4 °C 以下冷藏 2～3 天。之後是沒氣，不是不安全。"
+   },
+   {
+    "q": "未開封的汽水可以放多久？",
+    "a": "沒有另外公布期限。請以罐子或瓶子上印的日期為準，並放在陰涼、不曬太陽的地方。"
+   },
+   {
+    "q": "碳酸飲料可以冷凍嗎？",
+    "a": "不行。液體膨脹加上溶解氣體跑出來，會讓罐子爆裂、塑膠瓶撐開。"
+   }
+  ]
+ }
+}

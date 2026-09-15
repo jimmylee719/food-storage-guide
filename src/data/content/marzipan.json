@@ -1,0 +1,84 @@
+{
+ "slug": "marzipan",
+ "en": {
+  "name": "Marzipan",
+  "aliases": [
+   "almond paste",
+   "marzapane",
+   "massepain",
+   "杏仁膏",
+   "mazapán"
+  ],
+  "summary": "No agency publishes a shelf life for marzipan, so treat it like fruit cake, the nearest documented high-sugar, high-nut keeper: about 6 months sealed in the cupboard, 3–6 months refrigerated once opened, and 12 months frozen. An opened block is realistically a 1–2 month proposition, and that is our own judgement rather than a published figure.",
+  "pantry": "Sealed, cool, dark and dry, to the printed date — around 6 months, read across from fruit cake rather than measured for marzipan itself. Marzipan is roughly equal parts ground almond and sugar, and the sugar is the preservative: dissolved sugar ties up the water so tightly that very little is left available to moulds or bacteria. What actually limits it is the almond oil going rancid and the surface drying and cracking, both accelerated by warmth and light. Once the wrapper is open, press clingfilm directly onto the cut surface and then bag it; reckon on 1–2 months, because marzipan skins over within hours in dry air and goes sticky in humid air.",
+  "fridge": "An opened block keeps 3–6 months at 4 °C (40 °F) or below, wrapped airtight. This is worth doing in a hot or humid kitchen, and the point of it is to slow the almond oil oxidising rather than to stop anything growing. Bring it back to room temperature before you try to roll it, or it will crack as you work it. Like the pantry figure, this one is borrowed rather than published.",
+  "freezer": "12 months at −18 °C (0 °F). Marzipan freezes without harm, double-wrapped so no air reaches it. Thaw it fully in the wrapper so condensation forms on the outside of the plastic rather than on the paste, which would otherwise go wet and unworkable. This is the right way to keep the leftover half block from a Christmas cake until the following year.",
+  "thawing": "Thaw in the fridge or at room temperature with the wrapping still on, so any condensation lands on the wrapper. Knead it briefly once it has come fully back to room temperature.",
+  "spoilage": [
+   "A bitter, oily or paint-like taste — rancid almond oil, and it does not go away.",
+   "Fuzzy or coloured mould, usually where the paste was left uncovered.",
+   "A hard, cracked skin that will not knead back in.",
+   "A sour or fermented smell, which points to moisture having got in."
+  ],
+  "tips": [
+   "Sugar bloom — a white dusty film — is cosmetic, not mould.",
+   "Press film directly onto the cut face; air is what dries and cracks it.",
+   "A Lübeck-style paste with a high almond content has more oil and less sugar, so it keeps less well than a cheap covering paste despite tasting better.",
+   "Label the wrapper with the date you opened it; blocks look identical for months."
+  ],
+  "faq": [
+   {
+    "q": "How long does marzipan keep?",
+    "a": "About 6 months sealed in a cupboard, 1–2 months once opened, 3–6 months refrigerated after opening, or 12 months frozen. These are read across from fruit cake; no agency publishes a marzipan figure."
+   },
+   {
+    "q": "Can you freeze marzipan?",
+    "a": "Yes, 12 months at −18 °C (0 °F). Double-wrap it and thaw it inside the wrapping so condensation stays off the paste."
+   },
+   {
+    "q": "Is the white film on marzipan mould?",
+    "a": "Usually it is sugar bloom, which is harmless. Fuzzy or coloured growth is mould, and a bitter, oily taste means the almond oil has gone rancid."
+   }
+  ]
+ },
+ "zh": {
+  "name": "杏仁膏",
+  "aliases": [
+   "杏仁糖膏",
+   "馬芝板",
+   "杏仁蛋白糖",
+   "marzipan"
+  ],
+  "summary": "沒有任何機關為杏仁膏公布保存期限，所以可以比照最接近的「高糖高堅果」耐放品——水果蛋糕——來看：密封放櫥櫃約 6 個月，開封後冷藏 3～6 個月，冷凍 12 個月。開封後的一塊實際上大約是 1～2 個月的事，而那個數字是我們自己的判斷，不是公開數據。",
+  "pantry": "密封、陰涼、避光、乾燥，放到包裝標示的日期為止，大約 6 個月——這是從水果蛋糕那邊挪過來的，不是針對杏仁膏測出來的。杏仁膏大致是等量的杏仁粉與糖，而糖就是防腐劑：溶解的糖把水綁得很緊，留給霉菌和細菌的水非常少。真正限制它的，是杏仁油走味，以及表面乾裂，兩者都會被溫度和光線加速。開封之後請把保鮮膜直接壓在切面上再裝袋，並抓 1～2 個月：乾燥的空氣裡它幾小時就結皮，潮濕的空氣裡則會發黏。",
+  "fridge": "開封後密封包好，放 4 °C 以下可放 3～6 個月。在又熱又濕的廚房值得這麼做，重點在於拖慢杏仁油氧化，而不是在抑制什麼東西生長。要擀開之前一定要先回到室溫，否則一擀就裂。和櫥櫃的數字一樣，這也是借來的，不是公布的。",
+  "freezer": "−18 °C 下 12 個月。杏仁膏很耐凍，請雙層包好、不讓空氣接觸。解凍時整包不要拆，讓水氣凝在包裝外面而不是杏仁膏上，否則表面會濕黏到沒辦法操作。聖誕蛋糕用剩的半塊要留到明年，就用這個方法。",
+  "thawing": "連著包裝放冷藏或室溫解凍，讓結露留在包材外側。完全回到室溫後稍微揉幾下即可使用。",
+  "spoilage": [
+   "嚐起來發苦、油味重或有油漆味——那是杏仁油油耗，不會自己好。",
+   "長出絨毛或帶顏色的霉，通常出現在沒包好的地方。",
+   "表面硬裂成一層皮，怎麼揉都揉不回去。",
+   "有酸味或發酵味，代表濕氣跑進去了。"
+  ],
+  "tips": [
+   "表面那層白霧多半是糖霜，只是外觀問題，不是霉。",
+   "保鮮膜要直接壓在切面上，乾裂的元凶就是空氣。",
+   "呂貝克風格那種杏仁比例高的膏，油更多、糖更少，雖然更好吃，卻比便宜的覆面用杏仁膏更不耐放。",
+   "在包裝上寫下開封日期；這東西放好幾個月外觀都一樣。"
+  ],
+  "faq": [
+   {
+    "q": "杏仁膏可以放多久？",
+    "a": "密封放櫥櫃約 6 個月，開封後約 1～2 個月，開封後冷藏 3～6 個月，冷凍 12 個月。這些是比照水果蛋糕而來，沒有機關公布杏仁膏的數字。"
+   },
+   {
+    "q": "杏仁膏可以冷凍嗎？",
+    "a": "可以，−18 °C 下 12 個月。請雙層包好，並且連著包裝解凍，讓結露不要碰到膏體。"
+   },
+   {
+    "q": "杏仁膏表面的白霧是發霉嗎？",
+    "a": "多半是糖霜，無害。長絨毛或帶顏色的才是霉；嚐起來苦而油，則代表杏仁油已經油耗。"
+   }
+  ]
+ }
+}

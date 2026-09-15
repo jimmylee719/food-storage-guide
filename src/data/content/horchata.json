@@ -1,0 +1,84 @@
+{
+ "slug": "horchata",
+ "en": {
+  "name": "Horchata, fresh",
+  "aliases": [
+   "orxata",
+   "horchata de chufa",
+   "horchata de arroz",
+   "tiger nut milk",
+   "米漿"
+  ],
+  "summary": "Fresh horchata keeps 2–3 days in the fridge at 4 °C (40 °F) or below, and 1–2 months in the freezer. Those figures are loosely based on rice milk and then cut sharply, because a carton of rice milk is pasteurised and fresh horchata is not heated or preserved at all.",
+  "pantry": "There is no room-temperature timeline for fresh horchata, and it should never be given one. It is a raw, unpasteurised, sweetened plant milk — ground tiger nuts or soaked rice, water and sugar, with nothing heated at any stage — which makes it close to a laboratory growth medium. Apply the two-hour rule strictly: more than two hours out of the fridge and it goes, or one hour if the room is above 32 °C. A jug left out at a party through an afternoon is not worth the risk.",
+  "fridge": "2–3 days at 4 °C (40 °F) or below, in a closed bottle, from the moment it is strained. Keep it on a shelf rather than in the door so the temperature stays steady. It separates as it stands, which is normal — shake it. If it fizzes, foams as you pour or tastes sharp, it has begun to ferment and it goes down the sink. Because it is unpasteurised, it is not advised for young children, older adults, pregnant women or anyone with a weakened immune system.",
+  "freezer": "1–2 months in the freezer. Freezing changes the texture — it thaws grainy and wants blending — but it works, and in Valencia half-frozen horchata is a drink in its own right, spooned as a granizada. Freeze it in a container with headspace, because the liquid expands, and in portions so you thaw only what you need.",
+  "thawing": "Thaw in the fridge, never on the counter, then blend or shake hard to bring the texture back. Treat it as fresh horchata again and finish it within the refrigerated window.",
+  "spoilage": [
+   "Fizzing or foaming when poured — fermentation has started.",
+   "A sour, yeasty or alcoholic smell instead of a sweet, nutty one.",
+   "A thick, slimy or ropey texture that shaking does not fix.",
+   "Mould at the neck of the bottle or on the surface."
+  ],
+  "tips": [
+   "Make or buy only what you will drink in a couple of days.",
+   "Chill it the moment it is strained; the clock starts there.",
+   "Serve from a jug kept on ice rather than one left on the table.",
+   "Shop cartons of horchata are pasteurised or UHT and follow their own date; once opened, treat them like an opened carton of rice milk."
+  ],
+  "faq": [
+   {
+    "q": "How long does fresh horchata keep?",
+    "a": "2–3 days in the fridge at 4 °C (40 °F) or below, or 1–2 months frozen. These are read across from rice milk and shortened, because fresh horchata is not pasteurised."
+   },
+   {
+    "q": "Can you freeze horchata?",
+    "a": "Yes, 1–2 months. It thaws grainy and needs blending, and half-frozen horchata is a traditional drink in its own right."
+   },
+   {
+    "q": "Is fresh horchata safe for children?",
+    "a": "Fresh horchata is raw and unpasteurised, so it is not advised for young children, older adults, pregnant women or anyone immunocompromised. A pasteurised carton is the safer choice."
+   }
+  ]
+ },
+ "zh": {
+  "name": "現做油莎豆飲（horchata）",
+  "aliases": [
+   "油莎豆奶",
+   "西班牙油莎豆飲",
+   "墨西哥米漿",
+   "horchata"
+  ],
+  "summary": "現做的 horchata 放 4 °C 以下冷藏可放 2～3 天，冷凍 1～2 個月。這些數字是比照米漿（rice milk）再大幅下修而來的，因為市售米漿經過殺菌，而現做的 horchata 完全沒有加熱、也沒有添加防腐。",
+  "pantry": "現做 horchata 沒有室溫的期限，也不該有。它是生的、未殺菌的加糖植物奶——磨碎的油莎豆或泡過的米，加水加糖，全程不加熱——這幾乎就是實驗室培養基。請嚴格套用兩小時原則：離開冰箱超過兩小時就倒掉；室溫超過 32 °C 時，一小時就是上限。派對上在桌上放了一整個下午的那一壺，不值得冒險。",
+  "fridge": "從過濾完成那一刻起，密封瓶裝放 4 °C 以下冷藏 2～3 天。請放冰箱層架而不是門邊，讓溫度穩定。靜置會分層，這很正常——搖勻就好。如果起泡、倒的時候冒沫，或喝起來發酸，代表已經開始發酵，直接倒掉。由於它未經殺菌，不建議幼兒、年長者、孕婦或免疫力較弱的人飲用。",
+  "freezer": "冷凍 1～2 個月。冷凍會改變質地——解凍後偏粗糙，需要重新攪打——但它確實可行；而且在瓦倫西亞，半結凍的 horchata 本身就是一種飲品，用湯匙舀著吃的 granizada。請用留有膨脹空間的容器分裝冷凍，只解凍需要的量。",
+  "thawing": "請放冷藏解凍，不要放檯面上，之後用果汁機打勻或用力搖勻恢復質地。解凍後就當成新鮮的，在冷藏的期限內喝完。",
+  "spoilage": [
+   "倒出來起泡或冒沫——發酵已經開始。",
+   "聞起來酸、有酵母味或酒味，而不是甜甜的堅果香。",
+   "質地變得濃稠、黏滑或牽絲，搖也搖不回來。",
+   "瓶口或液面長霉。"
+  ],
+  "tips": [
+   "做或買兩三天內喝得完的量就好。",
+   "過濾好立刻冷藏；計時從那裡開始。",
+   "上桌時把壺放在冰塊上，不要就這樣擺在桌上。",
+   "市售紙盒裝的 horchata 經過殺菌或超高溫處理，以自己的日期為準；開封後就比照開封的米漿。"
+  ],
+  "faq": [
+   {
+    "q": "現做 horchata 可以放多久？",
+    "a": "4 °C 以下冷藏 2～3 天，或冷凍 1～2 個月。這些是比照米漿再縮短而來，因為現做的沒有殺菌。"
+   },
+   {
+    "q": "horchata 可以冷凍嗎？",
+    "a": "可以，1～2 個月。解凍後質地偏粗，需要重新打勻；半結凍的狀態本身就是傳統喝法。"
+   },
+   {
+    "q": "小孩可以喝現做 horchata 嗎？",
+    "a": "現做的是生的、未殺菌的，不建議幼兒、年長者、孕婦或免疫力較弱的人飲用。經過殺菌的紙盒裝比較保險。"
+   }
+  ]
+ }
+}

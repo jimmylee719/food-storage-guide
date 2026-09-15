@@ -1,0 +1,83 @@
+{
+ "slug": "tea-loose",
+ "en": {
+  "name": "Loose leaf tea",
+  "aliases": [
+   "loose tea",
+   "leaf tea",
+   "散茶",
+   "té en hoja"
+  ],
+  "summary": "A sealed pack of loose leaf tea keeps 2 years from purchase in a cool, dry cupboard, and 6–12 months once opened. Tea does not spoil; it fades. The one tea that is worth freezing after opening is matcha, and only matcha.",
+  "pantry": "2 years from purchase while sealed, and 6–12 months after opening, in an airtight opaque tin somewhere cool, dark and dry. A dried leaf has too little water in it for anything to grow, so this is a flavour window rather than a safety one, and a two-year-old tin of oolong is weak rather than risky. Tea absorbs odours extremely well — that is how jasmine tea is made — so a tin sitting next to the coffee or the spice jars will eventually taste of them. Keep it in its own container and away from the kettle.",
+  "fridge": "No refrigerated timeline is published for loose tea, and the fridge is a poor choice for it. It is a humid box full of smells, and tea takes up both. Green teas in particular are sometimes kept cold by specialist merchants, but that is done in sealed, nitrogen-flushed packs, not in an open caddy next to last night's dinner. At home, an airtight tin in a cool cupboard is the reliable answer.",
+  "freezer": "Matcha is the only tea worth freezing after opening — it is a fine powder that loses its bright green colour and its sweetness quickly, and cold genuinely slows that down. No freezer timeline is published even for matcha, so treat it as practice rather than a number, and let the sealed tin come fully to room temperature before opening so condensation does not clump the powder. For ordinary leaf tea, freezing offers nothing that an airtight tin does not.",
+  "thawing": "Only relevant for matcha. Let the sealed container come back to room temperature before opening it, so that condensation forms on the tin rather than on the powder.",
+  "spoilage": [
+   "A flat, hay-like or dusty smell instead of the tea's own character.",
+   "A pale, thin cup from leaves that used to brew well.",
+   "Leaves that feel damp or have clumped together.",
+   "Mould or a musty smell in a tin that got wet — the only real safety problem here."
+  ],
+  "tips": [
+   "Use an opaque airtight tin; light and air both fade tea.",
+   "Buy the amount you will drink within a year of opening.",
+   "Keep each tea in its own tin; they will scent one another otherwise.",
+   "Use a dry spoon and never tip leaves back into the tin once they have been near steam."
+  ],
+  "faq": [
+   {
+    "q": "How long does loose leaf tea keep?",
+    "a": "2 years from purchase while sealed, and 6–12 months once opened, stored airtight in a cool, dry cupboard."
+   },
+   {
+    "q": "Can you freeze tea?",
+    "a": "Matcha is the only tea worth freezing after opening. Ordinary leaf tea gains nothing from it, and condensation each time it comes out does harm."
+   },
+   {
+    "q": "Does old tea go bad?",
+    "a": "Not in a safety sense. It fades to a flat, hay-like cup. Mould only appears if the tin took up real moisture."
+   }
+  ]
+ },
+ "zh": {
+  "name": "散裝茶葉",
+  "aliases": [
+   "散茶",
+   "茶葉",
+   "原葉茶",
+   "loose leaf tea"
+  ],
+  "summary": "未開封的散裝茶葉自購買日起，放在陰涼乾燥的櫥櫃可放 2 年，開封後 6～12 個月。茶不會腐敗，它是淡掉。開封後真的值得冷凍的茶只有一種：抹茶。",
+  "pantry": "未開封自購買日起 2 年，開封後 6～12 個月，裝在不透光的氣密鐵罐裡，放陰涼、避光、乾燥處。乾燥的茶葉含水量低到什麼都長不出來，所以這是風味的窗口而不是安全的上限；一罐放了兩年的烏龍是味道變弱，不是變危險。茶吸味的能力極強——茉莉花茶就是這樣做出來的——所以一罐放在咖啡或香料旁邊的茶，遲早會有那些味道。請讓它待在自己的罐子裡，並遠離熱水壺。",
+  "fridge": "散裝茶葉沒有公布的冷藏期限，而冰箱對它來說不是好選擇。那是一個又濕又充滿氣味的箱子，而茶兩樣都收。綠茶確實有專業茶商會低溫保存，但那是在密封、充氮的包裝裡進行，不是在一個敞開的茶罐裡、旁邊還放著昨晚的剩菜。在家裡，陰涼櫥櫃裡的氣密鐵罐才是可靠的答案。",
+  "freezer": "開封後值得冷凍的茶只有抹茶——它是細粉，鮮綠的顏色與甜味都退得很快，低溫確實能拖慢這件事。即使是抹茶也沒有公布的冷凍期限，所以請把它當成做法而不是數字；並且讓密封罐完全回到室溫再打開，免得結露把粉弄結塊。一般茶葉的話，冷凍給不了氣密鐵罐給不了的東西。",
+  "thawing": "只有抹茶會用到。請讓密封容器回到室溫再打開，讓結露留在罐子上而不是粉上。",
+  "spoilage": [
+   "聞起來平板、像乾草或帶灰塵味，而不是那支茶原本的個性。",
+   "本來很有味道的茶葉，沖出來顏色淡、味道薄。",
+   "茶葉摸起來潮濕，或黏成一團。",
+   "受潮的罐子長霉或有霉味——這是這裡唯一真正的安全問題。"
+  ],
+  "tips": [
+   "用不透光的氣密鐵罐；光和空氣都會讓茶變淡。",
+   "買開封後一年內喝得完的量。",
+   "每一種茶各自一個罐子，否則它們會互相染味。",
+   "用乾湯匙取茶；接觸過蒸氣的茶葉不要再倒回罐子。"
+  ],
+  "faq": [
+   {
+    "q": "散裝茶葉可以放多久？",
+    "a": "未開封自購買日起 2 年；開封後氣密存放在陰涼乾燥的櫥櫃 6～12 個月。"
+   },
+   {
+    "q": "茶葉可以冷凍嗎？",
+    "a": "開封後值得冷凍的只有抹茶。一般茶葉得不到好處，而且每次拿出來的結露反而有害。"
+   },
+   {
+    "q": "放久的茶會壞嗎？",
+    "a": "在安全意義上不會。它會淡成一杯平板的乾草味。只有罐子真的受潮才會長霉。"
+   }
+  ]
+ }
+}

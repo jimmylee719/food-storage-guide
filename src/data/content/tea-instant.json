@@ -1,0 +1,83 @@
+{
+ "slug": "tea-instant",
+ "en": {
+  "name": "Instant tea",
+  "aliases": [
+   "instant tea powder",
+   "iced tea mix",
+   "即溶茶粉",
+   "té instantáneo"
+  ],
+  "summary": "An unopened jar of instant tea keeps 2–3 years from purchase in a cool, dry cupboard, and 6–12 months once opened. It is brewed tea with the water removed, so nothing grows in it — it loses aroma, and it clumps if moisture gets in.",
+  "pantry": "2–3 years from purchase while sealed, and 6–12 months after opening, in a cool, dark, dry cupboard with the lid screwed on. The drying leaves a powder with almost no water in it, which is what makes the jar shelf-stable; what it cannot preserve is the volatile aroma, so an old jar makes a cup that tastes vaguely of tea rather than of anything specific. Sweetened iced-tea mixes have the same problem plus a sugar that cakes readily, so keep them dry above all.",
+  "fridge": "No refrigerated timeline is published for instant tea, and the fridge is the wrong place. Instant powders are strongly hygroscopic, and a cold jar opened in a warm kitchen collects condensation around the neck and on the spoon every single time. That moisture is what turns the contents into a solid brown block. Keep the jar in a dry cupboard away from the kettle instead.",
+  "freezer": "No freezer timeline is published either, and freezing makes the condensation problem worse rather than better. A sealed jar already gets a couple of years in the cupboard without any of that risk, so there is nothing to gain. A jar that has caked is suffering from moisture damage rather than spoilage, and the powder usually still dissolves.",
+  "thawing": "Not applicable — instant tea is a dry cupboard item and should not be frozen.",
+  "spoilage": [
+   "Powder fused into a hard lump, which means moisture has got in.",
+   "A flat, cardboard smell instead of a tea one.",
+   "A cup that tastes of very little, or oddly sour.",
+   "Any musty smell or visible mould in a jar that got wet."
+  ],
+  "tips": [
+   "Use a dry spoon every time; a wet one ruins the jar.",
+   "Keep it away from the kettle and the sink, where steam collects.",
+   "Buy a small jar if you drink instant tea only occasionally.",
+   "Screw the lid on properly rather than resting it on top."
+  ],
+  "faq": [
+   {
+    "q": "How long does instant tea keep?",
+    "a": "2–3 years from purchase unopened in a cool, dry cupboard, and 6–12 months once the jar is opened."
+   },
+   {
+    "q": "Does instant tea go bad?",
+    "a": "Not in a microbial sense. It loses aroma and makes a flatter cup, and it clumps if moisture gets in."
+   },
+   {
+    "q": "Should instant tea be refrigerated?",
+    "a": "No. The fridge is humid and the powder absorbs moisture readily. A tightly closed jar in a dry cupboard is better."
+   }
+  ]
+ },
+ "zh": {
+  "name": "即溶茶粉",
+  "aliases": [
+   "速溶茶",
+   "即溶紅茶",
+   "冰茶沖泡粉",
+   "instant tea"
+  ],
+  "summary": "未開封的即溶茶粉自購買日起，放在陰涼乾燥的櫥櫃可放 2～3 年，開封後 6～12 個月。它就是把水抽掉的茶湯，裡面長不出東西——它失去的是香氣，受潮則會結塊。",
+  "pantry": "未開封自購買日起 2～3 年，開封後 6～12 個月，放在陰涼、避光、乾燥的櫥櫃，蓋子要旋緊。乾燥後留下的粉幾乎不含水，這就是它能常溫保存的原因；保不住的是揮發性香氣，所以放久的一罐沖出來只是「隱約像茶」，說不出是什麼茶。加糖的冰茶沖泡粉除了同樣問題外，還多了容易受潮結塊的糖，所以最要緊的就是保持乾燥。",
+  "fridge": "即溶茶粉沒有公布的冷藏期限，而冰箱是錯的地方。即溶粉極會吸濕，冰過的罐子在溫暖廚房打開，每一次都會在罐口和湯匙上結露。那些水氣正是把內容物變成一整塊褐色硬磚的元凶。請改放遠離熱水壺的乾燥櫥櫃。",
+  "freezer": "冷凍同樣沒有期限數據，而且只會讓結露問題更嚴重。密封的罐子在櫥櫃裡本來就有兩三年、完全不必冒這個險。已經結塊的罐子是受潮而不是腐敗，粉通常還是溶得開。",
+  "thawing": "不適用——即溶茶粉是乾燥的櫥櫃食品，不應冷凍。",
+  "spoilage": [
+   "粉黏結成硬塊，代表水氣跑進去了。",
+   "聞起來是平板的紙板味，而不是茶香。",
+   "沖出來幾乎沒味道，或帶著奇怪的酸味。",
+   "進水的罐子出現霉味或看得到霉。"
+  ],
+  "tips": [
+   "每次都用乾的湯匙；濕湯匙會毀掉整罐。",
+   "遠離熱水壺與水槽這些會聚蒸氣的地方。",
+   "偶爾才喝就買小罐。",
+   "蓋子要旋緊，不要只是蓋著。"
+  ],
+  "faq": [
+   {
+    "q": "即溶茶粉可以放多久？",
+    "a": "未開封放陰涼乾燥的櫥櫃，自購買日起 2～3 年；開封後 6～12 個月。"
+   },
+   {
+    "q": "即溶茶粉會壞嗎？",
+    "a": "在微生物意義上不會。它會失去香氣、沖出來變平板，受潮則會結塊。"
+   },
+   {
+    "q": "即溶茶粉要冷藏嗎？",
+    "a": "不要。冰箱潮濕，而茶粉很會吸水。旋緊蓋子放乾燥櫥櫃比較好。"
+   }
+  ]
+ }
+}

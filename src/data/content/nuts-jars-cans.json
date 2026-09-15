@@ -1,0 +1,83 @@
+{
+ "slug": "nuts-jars-cans",
+ "en": {
+  "name": "Nuts in jars or cans",
+  "aliases": [
+   "canned nuts",
+   "jarred nuts",
+   "cocktail nuts",
+   "罐裝堅果"
+  ],
+  "summary": "A sealed jar or can of nuts keeps 1 year from purchase in the cupboard, and 2–9 months once opened. Refrigerated after opening they hold 4–6 months, and the freezer gives 6–12 months at −18 °C (0 °F). The wide opened range is real: it depends on which nut is in the jar.",
+  "pantry": "1 year from purchase while the seal is intact, cool, dark and dry, and 2–9 months after opening. Vacuum-packing or a nitrogen flush is what buys the unopened year — the moment the seal breaks, oxygen gets in and the fat starts oxidising. That is also why the opened range is so broad: a can of roasted peanuts or almonds sits near the top of it, while walnuts, pecans and pine nuts, which carry far more fragile fats, are down at the bottom. Screw the lid back on hard and keep the jar out of the sun and away from the hob.",
+  "fridge": "4–6 months at 4 °C (40 °F) or below after opening, sealed. Cold is the single most effective thing you can do for an opened jar, because the failure mode here is chemical rather than microbial — nuts do not really spoil, they go rancid, and low temperature slows oxidation down. Use a properly airtight container: nuts are fatty and bland, and they absorb the smell of everything else in the fridge with impressive efficiency.",
+  "freezer": "6–12 months at −18 °C (0 °F), which is where a big catering tin belongs once it is open. Nuts contain very little water, so freezing does nothing to the texture and they can be chopped straight from frozen. Bag them airtight with the air pressed out, and portion them so you are not opening the whole pack each time.",
+  "thawing": "No thawing needed. Let the sealed bag or jar reach room temperature before opening so condensation does not settle on the nuts and soften them.",
+  "spoilage": [
+   "A bitter, sharp taste — rancid nut oil, and a single nut will tell you.",
+   "A smell like old cooking oil, crayons or paint rather than something toasted.",
+   "Soft, chewy nuts instead of crisp ones, meaning they have taken up moisture.",
+   "A bulging can or a lid that has lost its vacuum click."
+  ],
+  "tips": [
+   "Decant an opened can into a screw-top jar; a foil lid is not a reseal.",
+   "Freeze the bulk, keep a small jar in the fridge, and refill it as you go.",
+   "Taste one before baking; rancidity carries straight into the finished cake.",
+   "Walnuts and pine nuts sit at the short end of the opened range — treat them as the fragile ones."
+  ],
+  "faq": [
+   {
+    "q": "How long do nuts in a jar or can keep?",
+    "a": "1 year from purchase unopened in a cupboard, 2–9 months once opened, 4–6 months refrigerated after opening, or 6–12 months in the freezer."
+   },
+   {
+    "q": "Should opened nuts be refrigerated?",
+    "a": "Yes, if you will not finish them quickly. Cold slows the oxidation that makes nuts rancid, and it also keeps them out of the reach of pantry moths."
+   },
+   {
+    "q": "How can you tell if nuts have gone bad?",
+    "a": "Eat one. Rancid nuts are bitter and taste of old oil. Nuts rarely grow anything; the fat is what fails."
+   }
+  ]
+ },
+ "zh": {
+  "name": "罐裝堅果",
+  "aliases": [
+   "瓶裝堅果",
+   "綜合堅果罐",
+   "鐵罐堅果",
+   "canned nuts"
+  ],
+  "summary": "未開封的整罐堅果自購買日起放櫥櫃可放 1 年，開封後 2～9 個月。開封後冷藏可放 4～6 個月，−18 °C 冷凍則是 6～12 個月。開封後那個範圍拉這麼寬是有原因的：要看罐子裡裝的是哪一種堅果。",
+  "pantry": "封口完整時，陰涼、避光、乾燥，自購買日起 1 年；開封後 2～9 個月。未開封能有一年，靠的是真空或充氮包裝——封口一破，氧氣進來，油脂就開始氧化。這也是開封後範圍這麼寬的原因：烘過的花生或杏仁靠近上限，而油脂脆弱得多的核桃、胡桃與松子則在下限。蓋子要旋緊，罐子別曬太陽，也別放在爐台旁。",
+  "fridge": "開封後密封放 4 °C 以下，可放 4～6 個月。對一罐開過的堅果來說，低溫是最有效的一招，因為它壞掉的方式是化學性的而不是微生物性的——堅果其實不太「腐敗」，它是油耗，而低溫會拖慢氧化。請用真正氣密的容器：堅果油多味淡，吸收冰箱裡其他食物味道的效率高得驚人。",
+  "freezer": "−18 °C 下 6～12 個月；開過的大罐裝就該放這裡。堅果含水極少，冷凍完全不影響質地，要切也可以直接從冷凍拿出來切。請壓出空氣密封裝袋，並且分裝，免得每次都要把整包打開。",
+  "thawing": "不需要解凍。請讓密封的袋子或罐子回到室溫再打開，免得水氣凝在堅果上讓它變軟。",
+  "spoilage": [
+   "嚐起來苦而尖銳——那是堅果油油耗，吃一顆就知道。",
+   "聞起來像久放的食用油、蠟筆或油漆，而不是烘烤香氣。",
+   "咬起來軟韌而不脆，代表吸了水氣。",
+   "罐身膨脹，或開罐時沒有真空那一聲。"
+  ],
+  "tips": [
+   "開罐後倒進旋蓋玻璃罐；鋁膜蓋不算重新密封。",
+   "大量冷凍，冷藏放一小罐日常用，用完再補。",
+   "烘焙前先吃一顆，油耗味會整個進到成品裡。",
+   "核桃和松子屬於開封後範圍的短端，請當成脆弱的那一類對待。"
+  ],
+  "faq": [
+   {
+    "q": "罐裝堅果可以放多久？",
+    "a": "未開封放櫥櫃自購買日起 1 年，開封後 2～9 個月；開封後冷藏 4～6 個月，冷凍 6～12 個月。"
+   },
+   {
+    "q": "開封後的堅果要冷藏嗎？",
+    "a": "如果不會很快吃完，要。低溫會拖慢造成油耗的氧化，順便也擋掉穀蛾。"
+   },
+   {
+    "q": "怎麼判斷堅果壞了？",
+    "a": "吃一顆。油耗的堅果會苦、有久放的油味。堅果很少長東西，出問題的是油脂。"
+   }
+  ]
+ }
+}

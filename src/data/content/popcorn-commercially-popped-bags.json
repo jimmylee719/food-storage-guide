@@ -1,0 +1,83 @@
+{
+ "slug": "popcorn-commercially-popped-bags",
+ "en": {
+  "name": "Popcorn, ready-popped in bags",
+  "aliases": [
+   "ready-to-eat popcorn",
+   "bagged popcorn",
+   "爆米花（袋裝）",
+   "palomitas envasadas"
+  ],
+  "summary": "A sealed bag of ready-popped popcorn keeps 2–3 months from purchase, and 1–2 weeks once opened. Popped corn is mostly air and starch with a little fat, so it does not spoil in the usual sense — it goes soft, and any butter or oil on it eventually goes stale.",
+  "pantry": "2–3 months from purchase while the bag is sealed, somewhere cool and dry. The bag is flushed with nitrogen or simply sealed tight for a reason: popped corn has an enormous surface area and it is extremely good at absorbing moisture from the air, which is exactly what turns a crisp piece into a chewy one. Once opened you have 1–2 weeks, and that number assumes you clip the bag or tip it into an airtight tub rather than rolling the top over.",
+  "fridge": "No refrigerated timeline is published, and the fridge is actively unhelpful here. It is a humid box, and popped corn absorbs humidity faster than almost anything else in the kitchen — a bag left in there goes limp in a day or two. Keep it in a cool, dry cupboard instead, in something that actually seals.",
+  "freezer": "No freezer timeline is published either. Freezing does not spoil popcorn and some people use it for flavoured or caramel corn, but condensation on the way out is the problem: the moment cold popcorn meets warm air, moisture lands on it and it goes soft. If you try it, let the sealed container reach room temperature before opening.",
+  "thawing": "Not normally applicable. If a bag has been chilled or frozen, let it warm up fully while still sealed before you open it.",
+  "spoilage": [
+   "Chewy, leathery kernels instead of crisp ones — moisture, not spoilage.",
+   "A stale, cardboard or rancid smell from the oil or butter on it.",
+   "Cheese, caramel or butter coatings that have gone tacky or greasy-smelling.",
+   "Mould or a musty smell, which only appears if the bag got genuinely wet."
+  ],
+  "tips": [
+   "Decant an opened bag into an airtight tub; a rolled-over bag top is not a seal.",
+   "Keep it away from the kettle, the rice cooker and anywhere else steam collects.",
+   "A few minutes in a low oven crisps up popcorn that has gone soft.",
+   "Buy small bags rather than one large one if you eat it occasionally."
+  ],
+  "faq": [
+   {
+    "q": "How long does bagged popcorn keep?",
+    "a": "2–3 months from purchase while sealed, and 1–2 weeks once the bag is opened and resealed properly."
+   },
+   {
+    "q": "Should popcorn be kept in the fridge?",
+    "a": "No. The fridge is humid and popcorn absorbs moisture readily, so it goes soft. A sealed container in a cool, dry cupboard is right."
+   },
+   {
+    "q": "My popcorn has gone chewy. Is it off?",
+    "a": "No, it has taken up moisture. A few minutes in a low oven brings the crispness back. A rancid or musty smell is a different matter."
+   }
+  ]
+ },
+ "zh": {
+  "name": "袋裝爆米花",
+  "aliases": [
+   "現成爆米花",
+   "即食爆米花",
+   "爆玉米花",
+   "popcorn"
+  ],
+  "summary": "未開封的袋裝爆米花自購買日起可放 2～3 個月，開封後 1～2 週。爆開的玉米幾乎全是空氣與澱粉加一點油脂，談不上一般意義的腐敗——它是軟掉，而上面的奶油或油最後會走味。",
+  "pantry": "未開封、放在陰涼乾燥處，自購買日起 2～3 個月。袋子會充氮或封得很緊是有道理的：爆開的玉米表面積極大，吸收空氣中水分的本事一流，而那正是把「脆」變成「韌」的原因。開封後是 1～2 週，而這個數字的前提是你把袋口夾緊或整包倒進氣密盒，而不是把袋口捲一捲了事。",
+  "fridge": "沒有冷藏的期限數據，而且冰箱在這裡幫倒忙。它是個潮濕的箱子，而爆米花吸濕的速度大概是全廚房第一——放進去一兩天就軟趴趴了。請改放陰涼乾燥的櫥櫃，並且用真的能密封的容器。",
+  "freezer": "冷凍同樣沒有期限數據。凍了不會壞，也有人拿來放調味或焦糖爆米花，但問題出在拿出來時的結露：冷的爆米花一碰到溫暖空氣，水氣就會落在上面，立刻變軟。真要試，請讓密封容器回到室溫再打開。",
+  "thawing": "一般用不到。若冰過或凍過，請維持密封完全回溫再打開。",
+  "spoilage": [
+   "咬起來韌韌的、像皮革而不是脆的——那是受潮，不是腐敗。",
+   "上面的油或奶油散出陳味、紙板味或油耗味。",
+   "起司粉、焦糖或奶油塗層變得黏手或有油耗味。",
+   "長霉或有霉味——只有袋子真的進水才會發生。"
+  ],
+  "tips": [
+   "開封後倒進氣密盒；袋口捲起來不算密封。",
+   "遠離熱水壺、電鍋，以及任何會聚集蒸氣的地方。",
+   "軟掉的爆米花放低溫烤箱烘幾分鐘就會回脆。",
+   "偶爾才吃的話，買小包裝比買一大包實際。"
+  ],
+  "faq": [
+   {
+    "q": "袋裝爆米花可以放多久？",
+    "a": "未開封自購買日起 2～3 個月；開封並確實密封後 1～2 週。"
+   },
+   {
+    "q": "爆米花要放冰箱嗎？",
+    "a": "不要。冰箱潮濕，而爆米花很會吸濕，放進去就會軟掉。密封容器放陰涼乾燥的櫥櫃才對。"
+   },
+   {
+    "q": "爆米花變韌了是壞掉嗎？",
+    "a": "不是，是吸了水氣。低溫烤箱烘幾分鐘就會回脆。有油耗味或霉味才是另一回事。"
+   }
+  ]
+ }
+}

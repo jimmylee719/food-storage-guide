@@ -1,0 +1,83 @@
+{
+ "slug": "gummy-fruit-snacks",
+ "en": {
+  "name": "Gummy fruit snacks",
+  "aliases": [
+   "fruit snacks",
+   "gummies",
+   "fruit gums",
+   "軟糖"
+  ],
+  "summary": "Gummy fruit snacks keep 6–9 months from purchase in a cool, dry cupboard. They are a sugar and gelatine gel with almost no free water available to microbes, so what ends them is texture: they go hard, or they go sticky, depending on how humid the room is.",
+  "pantry": "6–9 months from purchase, sealed, cool and dry. The sugar in a gummy ties up the water so tightly that spoilage organisms have nothing to work with, which is why these sit on a shelf for most of a year without refrigeration. Heat is the real enemy — a bag left in a hot car or on a sunny windowsill fuses into one lump — and so is damp, which makes the surface tacky and dissolves any sour-sugar coating.",
+  "fridge": "No refrigerated timeline is published, and the fridge generally makes gummies worse rather than better: they go rubbery and hard to chew, and condensation on the way out makes them sticky. The one case where it helps is a hot, humid kitchen with no cool cupboard, and then only in a properly airtight box.",
+  "freezer": "No freezer timeline is published either. Freezing does not spoil them, but it is not worth doing — a frozen gummy is unpleasantly hard, and the cupboard figure already runs most of a year. If a bag has fused in the heat, a short spell in the fridge firms it enough to break apart.",
+  "thawing": "Not applicable in normal use. If you have chilled a bag, let it come back to room temperature sealed, or the sweets will pick up condensation.",
+  "spoilage": [
+   "Sweets fused into a single solid block after heat exposure.",
+   "A sticky, weeping surface in a bag that has taken up moisture.",
+   "Hard, shrunken, glassy pieces that have dried out.",
+   "Any mould, which is rare and means the bag got genuinely wet."
+  ],
+  "tips": [
+   "Keep them out of the car and off sunny windowsills; heat ruins them faster than time does.",
+   "Reseal an opened bag with a clip or move it into a small airtight box.",
+   "Dust separated gummies with a little cornflour or icing sugar to stop them re-sticking.",
+   "Buy small bags rather than one large one if you only eat a few at a time."
+  ],
+  "faq": [
+   {
+    "q": "How long do gummy fruit snacks keep?",
+    "a": "6–9 months from purchase in a sealed pack in a cool, dry cupboard."
+   },
+   {
+    "q": "Do gummies need to be refrigerated?",
+    "a": "No. The sugar makes them shelf-stable, and no refrigerated timeline is published. Cold mostly makes them tough and sticky when they come out."
+   },
+   {
+    "q": "My gummies have melted into one lump. Are they still edible?",
+    "a": "Yes, that is heat damage rather than spoilage. Chill the bag briefly to firm them and break them apart, then dust them with a little cornflour."
+   }
+  ]
+ },
+ "zh": {
+  "name": "水果軟糖",
+  "aliases": [
+   "軟糖",
+   "QQ 軟糖",
+   "水果口味軟糖",
+   "gummy"
+  ],
+  "summary": "水果軟糖自購買日起，放在陰涼乾燥的櫥櫃可放 6～9 個月。它是糖與明膠做成的凝膠，微生物能利用的自由水幾乎沒有，所以真正終結它的是口感：依房間濕度不同，它要嘛變硬，要嘛變黏。",
+  "pantry": "密封、陰涼、乾燥，自購買日起 6～9 個月。軟糖裡的糖把水牢牢綁住，腐敗菌沒有東西可以用，這就是為什麼它能在架上放將近一年而不必冷藏。真正的敵人是熱——留在車上或曬到太陽的那包會融成一坨——其次是潮濕，它會讓表面發黏、把酸糖粉衣化掉。",
+  "fridge": "沒有冷藏的期限數據，而且冰箱通常讓軟糖變糟而不是變好：口感會變得死硬難咬，拿出來又會因為結露而黏手。唯一有用的情況，是廚房又熱又濕、家裡根本沒有陰涼櫃子，這時也請用真正氣密的盒子。",
+  "freezer": "冷凍同樣沒有期限數據。凍了不會壞，但不值得做——冷凍的軟糖硬得難以入口，而櫥櫃的期限本來就將近一年。如果整包已經熱到黏成一塊，冰個短時間讓它變硬，反而比較好剝開。",
+  "thawing": "一般情況用不到。若冰過，請維持密封回到室溫，否則糖體會結露發黏。",
+  "spoilage": [
+   "受熱後整包融黏成一大塊。",
+   "吸了水氣後表面發黏、滲出糖液。",
+   "變硬、縮水、像玻璃一樣的糖體，代表已經乾掉。",
+   "任何發霉的跡象——很少見，發生就代表包裝真的進水了。"
+  ],
+  "tips": [
+   "不要放在車上或曬得到太陽的窗台，熱比時間更快毀掉它。",
+   "開封後用夾子夾緊，或換到小的氣密盒裡。",
+   "剝開後撒一點玉米粉或糖粉，可以避免再黏回去。",
+   "如果一次只吃幾顆，買小包裝比買一大包實際。"
+  ],
+  "faq": [
+   {
+    "q": "水果軟糖可以放多久？",
+    "a": "密封放在陰涼乾燥的櫥櫃，自購買日起 6～9 個月。"
+   },
+   {
+    "q": "軟糖需要冷藏嗎？",
+    "a": "不需要。糖讓它可以常溫保存，而且它沒有冷藏的期限數據。冰過反而變硬，拿出來還會黏手。"
+   },
+   {
+    "q": "軟糖融成一坨還能吃嗎？",
+    "a": "可以，那是受熱變形不是腐敗。先冰一下讓它變硬再剝開，然後撒點玉米粉防沾。"
+   }
+  ]
+ }
+}

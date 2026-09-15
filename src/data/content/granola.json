@@ -1,0 +1,83 @@
+{
+ "slug": "granola",
+ "en": {
+  "name": "Granola",
+  "aliases": [
+   "toasted muesli",
+   "granola clusters",
+   "燕麥脆片",
+   "granola casera"
+  ],
+  "summary": "Granola keeps 6–9 months in a cool, dry, dark cupboard. It is toasted oats bound with oil and sugar and usually loaded with nuts and seeds, so it does not go mouldy — it goes rancid, and warmth and light are what drive that.",
+  "pantry": "6–9 months in an airtight container, away from the hob and out of the sun. Nothing grows in granola because it is dry, but the oil in the oats, nuts and seeds is exposed to air across an enormous surface, and oxidation is the clock that matters. A big clear jar on a sunny counter is the worst version of this: light accelerates the process. Use an opaque tin, or keep the jar in the cupboard, and squeeze the air out of any bag you are storing it in.",
+  "fridge": "No refrigerated timeline is published for granola. Cold does slow the oils down, which is genuinely useful for a homemade batch heavy in walnuts or flaxseed, but the fridge is humid and granola goes soft the moment it takes up moisture. If you chill it, use a properly airtight container and let it reach room temperature before opening.",
+  "freezer": "No freezer timeline is published either, and the same trade-off applies: the freezer would protect the oils but there is nothing published to tell you for how long. A sealed bag with the air pressed out keeps a bulk homemade batch in good condition, and granola scoops straight from frozen because it holds almost no water.",
+  "thawing": "No thawing needed. Let a chilled or frozen container come back to room temperature while sealed so condensation does not soften the clusters.",
+  "spoilage": [
+   "A bitter, crayon-like or paint-like smell from the nuts and oil going rancid.",
+   "A soft, chewy texture instead of a crisp one, meaning it has taken up moisture.",
+   "Mould or a musty smell, which only happens if it got genuinely damp.",
+   "Moths, webbing or grubs in the container."
+  ],
+  "tips": [
+   "Buy or make the amount you will actually eat; granola is a rancidity clock, not a shelf-life one.",
+   "Store in an opaque airtight tin rather than a clear jar on the counter.",
+   "Smell the jar before pouring a bowl — rancid oil is obvious and does not improve.",
+   "Crisp a soft batch on a tray in a low oven and cool it completely before sealing."
+  ],
+  "faq": [
+   {
+    "q": "How long does granola last?",
+    "a": "6–9 months in an airtight container in a cool, dark cupboard."
+   },
+   {
+    "q": "Does granola need to be refrigerated?",
+    "a": "No, and no refrigerated timeline is published. A cool, dark cupboard in an airtight tin is the standard answer; cold mainly helps a homemade batch heavy in fragile nuts."
+   },
+   {
+    "q": "How can you tell if granola has gone bad?",
+    "a": "Smell it. Rancid nuts and oil smell bitter and crayon-like. Softness on its own is just moisture, and a few minutes in a low oven fixes it."
+   }
+  ]
+ },
+ "zh": {
+  "name": "格蘭諾拉麥片",
+  "aliases": [
+   "燕麥脆片",
+   "烤燕麥片",
+   "穀物脆片",
+   "granola"
+  ],
+  "summary": "格蘭諾拉麥片放在陰涼、乾燥、避光的櫥櫃可放 6～9 個月。它是用油和糖把燕麥烤黏在一起、通常還加滿堅果與種子的東西，所以它不太會發霉——它會油耗，而催化的是溫度和光線。",
+  "pantry": "氣密容器、遠離爐台、避免曬到太陽，6～9 個月。麥片很乾，長不出東西，但燕麥、堅果與種子裡的油脂以極大的表面積暴露在空氣中，真正在倒數的是氧化。最糟的版本就是一個大玻璃罐擺在有陽光的檯面上：光線會加速這個過程。請改用不透光的鐵罐，或把罐子收進櫥櫃；用袋子裝的話，把空氣壓出來。",
+  "fridge": "格蘭諾拉麥片沒有冷藏的期限數據。低溫確實會拖慢油脂的變化，對於加了很多核桃或亞麻籽的自製版本是真的有用；但冰箱潮濕，麥片一吸到水氣就會軟掉。要冰的話請用真正氣密的容器，並且回到室溫再打開。",
+  "freezer": "冷凍同樣沒有期限數據，取捨也一樣：冷凍能保護油脂，但沒有任何公開數字告訴你能撐多久。自製的大批麥片用壓出空氣的密封袋冷凍，狀態維持得很好；而且它幾乎不含水，可以直接從冷凍舀出來用。",
+  "thawing": "不需要解凍。冰過或凍過的容器請維持密封回到室溫，免得結露把脆塊弄軟。",
+  "spoilage": [
+   "堅果和油脂油耗後的苦味、蠟筆味或油漆味。",
+   "口感從脆變成軟韌，代表吸了水氣。",
+   "長霉或有霉味——這只有真的受潮才會發生。",
+   "容器裡出現穀蛾、絲網或小蟲。"
+  ],
+  "tips": [
+   "買或做「吃得完」的量；這東西算的是油耗，不是保存期限。",
+   "用不透光的氣密鐵罐，不要用玻璃罐擺在檯面上。",
+   "倒一碗之前先聞罐口，油耗味很明顯，而且不會自己好轉。",
+   "軟掉的麥片攤在烤盤上低溫回烤，完全放涼後再密封。"
+  ],
+  "faq": [
+   {
+    "q": "格蘭諾拉麥片可以放多久？",
+    "a": "氣密容器放在陰涼避光的櫥櫃，6～9 個月。"
+   },
+   {
+    "q": "格蘭諾拉麥片需要冷藏嗎？",
+    "a": "不需要，而且它沒有冷藏的期限數據。標準答案是氣密鐵罐放陰涼避光的櫥櫃；低溫主要是幫助堅果比例高的自製版本。"
+   },
+   {
+    "q": "怎麼判斷格蘭諾拉麥片壞了？",
+    "a": "用聞的。堅果和油脂油耗會有苦味、蠟筆味。只是變軟的話那是吸濕，低溫回烤幾分鐘就好。"
+   }
+  ]
+ }
+}

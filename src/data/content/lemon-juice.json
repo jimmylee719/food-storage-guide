@@ -1,0 +1,83 @@
+{
+ "slug": "lemon-juice",
+ "en": {
+  "name": "Lemon juice, bottled",
+  "aliases": [
+   "bottled lemon juice",
+   "lemon juice concentrate",
+   "檸檬汁（瓶裝）",
+   "zumo de limón embotellado"
+  ],
+  "summary": "An unopened bottle of shelf-stable lemon juice keeps 12–18 months from purchase in a cool, dark cupboard, and 2 months in the fridge at 4 °C (40 °F) or below once opened. Its acidity is what makes those numbers possible — very little can grow at that pH.",
+  "pantry": "12–18 months from purchase, sealed, in a cool, dark, dry cupboard. Bottled lemon juice is pasteurised and strongly acidic, usually around pH 2, which is low enough that bacteria have no chance at all; the limit is flavour, not safety. What fades is the fresh top note, so an old bottle tastes flat and vaguely metallic rather than bright. Light is the other enemy, which is why these bottles are often tinted — keep it off a sunny windowsill.",
+  "fridge": "2 months at 4 °C (40 °F) or below once opened, capped tightly. The moment air and a measuring spoon get in, the juice starts to oxidise and, with enough time, surface moulds can establish themselves even at this acidity. Store the bottle on a shelf rather than in the door, wipe the neck before recapping, and never pour unused juice back into the bottle. Fresh squeezed lemon juice is a different product with a much shorter life.",
+  "freezer": "No freezer timeline is published for bottled lemon juice. Freezing does no harm and an ice-cube tray is a neat way to keep small measures, but with a two-month refrigerated window on an opened bottle there is rarely a need. If you do freeze it, leave headspace for expansion and thaw the cubes in the fridge or straight into the pan.",
+  "thawing": "Thaw frozen cubes in the fridge, or drop them straight into a hot pan or a drink. Do not leave them to thaw on the counter.",
+  "spoilage": [
+   "Mould floating on the surface or around the neck of the bottle.",
+   "A cloudy, ropey or slimy appearance where the juice was clear.",
+   "A flat, metallic or fermented smell instead of a sharp citrus one.",
+   "A swollen bottle or a cap that resists opening."
+  ],
+  "tips": [
+   "Buy the smallest bottle you will use within a couple of months of opening.",
+   "Wipe the neck before recapping; that is where mould starts.",
+   "Write the opening date on the label.",
+   "Keep the bottle out of the light; tinted glass is there for a reason."
+  ],
+  "faq": [
+   {
+    "q": "How long does bottled lemon juice last?",
+    "a": "12–18 months from purchase unopened in a cupboard, and 2 months in the fridge at 4 °C (40 °F) or below once opened."
+   },
+   {
+    "q": "Does lemon juice need to be refrigerated after opening?",
+    "a": "Yes. Its acidity keeps bacteria out, but an opened bottle still oxidises and can grow surface mould, and the published figure assumes refrigeration."
+   },
+   {
+    "q": "Can bottled lemon juice go mouldy?",
+    "a": "Yes, on the surface or around the neck, even at its low pH. That bottle goes; do not skim it."
+   }
+  ]
+ },
+ "zh": {
+  "name": "瓶裝檸檬汁",
+  "aliases": [
+   "市售檸檬汁",
+   "濃縮檸檬汁",
+   "檸檬原汁",
+   "bottled lemon juice"
+  ],
+  "summary": "未開封的常溫瓶裝檸檬汁自購買日起，放在陰涼避光的櫥櫃可放 12～18 個月；開封後放 4 °C 以下冷藏 2 個月。撐起這些數字的是它的酸度——在那樣的 pH 值下，能生長的東西極少。",
+  "pantry": "未開封、密封，放在陰涼、避光、乾燥的櫥櫃，自購買日起 12～18 個月。瓶裝檸檬汁經過殺菌，酸度很強，通常在 pH 2 左右，低到細菌完全沒有機會；限制它的是風味，不是安全。先退場的是新鮮的前段香氣，所以放久的一瓶喝起來平板、隱約帶點金屬味，而不是明亮的果酸。另一個敵人是光，這也是為什麼這類瓶子常常是有色玻璃——請不要放在有陽光的窗台。",
+  "fridge": "開封後蓋緊、放 4 °C 以下冷藏 2 個月。空氣和量匙一進去，果汁就開始氧化；時間夠久，即使在這個酸度下，表面也可能長霉。請放冰箱層架而不是門邊，蓋回去之前把瓶口擦乾淨，也絕對不要把倒出來沒用完的果汁倒回瓶子裡。現榨檸檬汁是另一種產品，壽命短得多。",
+  "freezer": "瓶裝檸檬汁沒有公布的冷凍期限。冷凍不會有害，用製冰盒分成小份量也很方便；但開封後既然有兩個月的冷藏窗口，通常沒有這個必要。真要凍，請留膨脹空間，並且用冷藏解凍，或直接把冰塊丟進鍋裡。",
+  "thawing": "冷凍的檸檬汁冰塊請放冷藏解凍，或直接丟進熱鍋或飲料裡。不要放在檯面上退冰。",
+  "spoilage": [
+   "液面或瓶口附近漂著霉。",
+   "原本清澈的果汁變得混濁、牽絲或黏滑。",
+   "聞起來平板、有金屬味或發酵味，而不是明亮的柑橘酸香。",
+   "瓶身鼓脹，或蓋子難以轉開。"
+  ],
+  "tips": [
+   "買開封後兩個月內用得完的最小瓶。",
+   "蓋回去前先擦瓶口；霉都是從那裡開始的。",
+   "在標籤上寫開封日期。",
+   "避免光照；有色玻璃不是裝飾。"
+  ],
+  "faq": [
+   {
+    "q": "瓶裝檸檬汁可以放多久？",
+    "a": "未開封放櫥櫃自購買日起 12～18 個月；開封後 4 °C 以下冷藏 2 個月。"
+   },
+   {
+    "q": "檸檬汁開封後要冷藏嗎？",
+    "a": "要。酸度擋得住細菌，但開封後仍會氧化，表面也可能長霉，而公布的數字本來就以冷藏為前提。"
+   },
+   {
+    "q": "瓶裝檸檬汁會發霉嗎？",
+    "a": "會，即使 pH 很低，液面或瓶口仍可能長霉。那瓶就該丟，不要撈掉繼續用。"
+   }
+  ]
+ }
+}

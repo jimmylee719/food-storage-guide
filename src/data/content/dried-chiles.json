@@ -1,0 +1,84 @@
+{
+ "slug": "dried-chiles",
+ "en": {
+  "name": "Dried chiles",
+  "aliases": [
+   "dried chillies",
+   "ancho",
+   "guajillo",
+   "chipotle",
+   "乾辣椒"
+  ],
+  "summary": "Whole dried chiles keep 3–6 months in a sealed jar in a cool, dry, dark cupboard, and about 12 months in the freezer. The pantry range is halved by a warm kitchen, and the freezer figure is an extrapolation from the general rule that colder means longer — treat it as best-quality guidance rather than a published number.",
+  "pantry": "3–6 months, cool, dry and dark, in a sealed glass jar. The reasoning behind that range is worth knowing: dried vegetables keep about half as long as dried fruit, and dried fruit runs 1 year at 60 °F (about 16 °C) but only 6 months at 80 °F (about 27 °C) — so a warm kitchen halves the figure again. Pods should still bend without snapping. Brittle, faded, dusty-smelling chiles have lost their aroma even if they are perfectly safe to eat. The other real failure mode is that dried foods reabsorb moisture and attract insects, so a jar beats the bag they came in.",
+  "fridge": "No refrigerated timeline is published for dried chiles. The fridge is humid, and a dried pod will pull that moisture back in, going leathery and eventually mouldy at the stem end. If your kitchen is hot and you want to protect them, the freezer is the better cold option. A sealed jar in the coolest, driest cupboard you have is the everyday answer.",
+  "freezer": "About 12 months sealed in a bag. In the freezer, dried pods keep their colour and perfume far longer than in a cupboard, and the cold also settles any insect eggs that came in with them. Note that this figure is extrapolated from the principle that a lower storage temperature means longer storage, rather than separately published, so read it as a quality guideline. Bring the bag to room temperature before opening it so the pods do not pick up condensation.",
+  "thawing": "Let the sealed bag come fully to room temperature before opening, then toast and rehydrate the pods as usual. Do not open a cold bag in a warm kitchen.",
+  "spoilage": [
+   "Pods that snap instead of bending — they have dried out past usefulness.",
+   "A faded, dusty smell rather than a rich raisin-and-tobacco one.",
+   "White or grey bloom, webbing or small holes, which mean insects.",
+   "Mould at the stem end, usually after the jar took up moisture."
+  ],
+  "tips": [
+   "Store in glass, not the bag; dried chiles reabsorb moisture and attract insects.",
+   "A pod should bend without cracking — that is the freshness test.",
+   "Toast briefly in a dry pan before soaking; it wakes up faded chiles a little.",
+   "Freeze a big bulk buy in portions and keep a working jar in the cupboard."
+  ],
+  "faq": [
+   {
+    "q": "How long do dried chiles keep?",
+    "a": "3–6 months in a sealed jar in a cool, dry, dark cupboard, or about 12 months in the freezer — with the freezer figure being a quality guideline rather than a published number."
+   },
+   {
+    "q": "Are old dried chiles dangerous?",
+    "a": "No, just faded. They lose colour and aroma. Mould at the stem end or signs of insects are the reasons to throw a jar out."
+   },
+   {
+    "q": "How can you tell if a dried chile is still good?",
+    "a": "Bend it. A good pod flexes like leather; one that snaps and smells of dust has lost what you wanted from it."
+   }
+  ]
+ },
+ "zh": {
+  "name": "乾辣椒",
+  "aliases": [
+   "墨西哥乾辣椒",
+   "安丘辣椒",
+   "瓜希柳辣椒",
+   "奇波雷辣椒"
+  ],
+  "summary": "整根的乾辣椒密封放在陰涼、乾燥、避光的櫥櫃可放 3～6 個月，冷凍約 12 個月。悶熱的廚房會把櫥櫃那個範圍再砍半；而冷凍那個數字是從「溫度越低、保存越久」這條通則推算出來的，請把它當成品質參考，而不是公布的數字。",
+  "pantry": "陰涼、乾燥、避光，裝在密封玻璃罐裡，3～6 個月。這個範圍背後的推理值得知道：乾燥蔬菜的保存期大約是乾燥水果的一半，而乾燥水果在 60 °F（約 16 °C）可放 1 年、在 80 °F（約 27 °C）只剩 6 個月——所以一間溫暖的廚房會把數字再對半砍。辣椒莢應該還能彎折而不會啪一聲斷掉。又脆、又褪色、聞起來有灰塵味的辣椒，即使吃了完全沒問題，香氣也已經沒了。另一個真正的失效途徑是乾貨會把水氣吸回去、也會招蟲，所以玻璃罐勝過它原本的那個袋子。",
+  "fridge": "乾辣椒沒有公布的冷藏期限。冰箱潮濕，而乾辣椒會把那些水氣吸回去，變得軟韌，最後從蒂頭開始發霉。如果廚房很熱、你想保護它們，冷凍是比較好的低溫選項。日常的答案，是把它密封在家裡最涼、最乾的那個櫃子裡。",
+  "freezer": "密封裝袋冷凍約 12 個月。在冷凍庫裡，乾辣椒的顏色和香氣撐得比在櫥櫃裡久得多，低溫也順便處理掉跟著進來的蟲卵。請注意這個數字是從「儲存溫度越低、保存越久」的原則推算的，不是另外公布的，所以請當成品質指引。開袋前先讓整袋回到室溫，免得辣椒吸到結露。",
+  "thawing": "請讓密封袋完全回到室溫再打開，之後照常烘香、泡軟即可。不要在溫暖的廚房裡直接打開剛拿出來的冷袋子。",
+  "spoilage": [
+   "辣椒莢一折就斷而不是彎——它已經乾過頭了。",
+   "聞起來褪色、帶灰塵味，而不是那種葡萄乾加菸草的濃香。",
+   "出現白灰色薄層、絲網或小洞，那代表生蟲了。",
+   "蒂頭長霉，通常是罐子受潮之後。"
+  ],
+  "tips": [
+   "用玻璃罐裝，不要留在袋子裡；乾辣椒會吸濕也會招蟲。",
+   "好的辣椒莢彎得下去而不裂——這就是新鮮度測試。",
+   "泡水前先下乾鍋烘一下，可以稍微喚醒退掉的香氣。",
+   "大量買回來就分裝冷凍，櫥櫃只留一小罐日常用。"
+  ],
+  "faq": [
+   {
+    "q": "乾辣椒可以放多久？",
+    "a": "密封玻璃罐放陰涼乾燥避光的櫥櫃 3～6 個月，或冷凍約 12 個月；冷凍那個數字是品質指引，不是公布的數字。"
+   },
+   {
+    "q": "放久的乾辣椒有危險嗎？",
+    "a": "沒有，只是退了。它會褪色、失去香氣。蒂頭長霉或有蟲的跡象，才是該整罐丟掉的理由。"
+   },
+   {
+    "q": "怎麼判斷乾辣椒還能不能用？",
+    "a": "折看看。狀態好的會像皮革一樣彎；一折就斷、又只聞得到灰塵味的，就已經沒有你要的東西了。"
+   }
+  ]
+ }
+}

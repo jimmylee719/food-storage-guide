@@ -1,0 +1,83 @@
+{
+ "slug": "yuzu-juice",
+ "en": {
+  "name": "Yuzu juice",
+  "aliases": [
+   "bottled yuzu juice",
+   "yuzu vinegar",
+   "香橙汁",
+   "zumo de yuzu"
+  ],
+  "summary": "A bottle of yuzu juice keeps 4–6 months from purchase in a cool, dark cupboard, or 9–12 months refrigerated at 4 °C (40 °F) or below. Once opened it holds 3–4 months in the fridge, and the freezer gives 1–2 years at −18 °C (0 °F).",
+  "pantry": "4–6 months from purchase in a cool, dark, dry cupboard while the bottle is sealed. Yuzu juice is sharply acidic, so bacteria are not the problem; what fades is the extraordinary floral aroma that you are paying for in the first place, and warmth and light take it away fastest. If you have the fridge space, the refrigerated figure is more than twice as long, which makes the cupboard the second-best option for a bottle you are not going to open soon.",
+  "fridge": "9–12 months from purchase unopened at 4 °C (40 °F) or below, and 3–4 months once the bottle is opened. Keep it on a shelf rather than in the door, cap it tightly and wipe the neck before recapping. The drop after opening is about oxidation rather than safety: air in the bottle dulls the aroma steadily, so decant the last of a large bottle into a smaller one if you want to hold the flavour. Some bottles are salted, sold as a seasoning rather than a juice, and those keep noticeably better once opened.",
+  "freezer": "1–2 years at −18 °C (0 °F), which is the right answer for anyone who buys yuzu juice by the bottle and uses it a teaspoon at a time. Freeze it in an ice-cube tray and bag the cubes, or in small jars with headspace left for expansion. The aroma survives freezing far better than it survives months in an opened bottle at any temperature.",
+  "thawing": "Use frozen cubes straight from the freezer in a dressing, a ponzu or a drink. Thaw larger quantities in the fridge, never on the counter.",
+  "spoilage": [
+   "Mould on the surface or around the neck of the bottle.",
+   "A flat, dull or faintly bitter taste where the floral aroma used to be.",
+   "Cloudiness, sliminess or sediment that was not there before.",
+   "A swollen bottle or a cap that resists opening."
+  ],
+  "tips": [
+   "Freeze in ice-cube trays; most recipes want a teaspoon or two.",
+   "Buy a small bottle unless you cook with it regularly.",
+   "Wipe the neck before recapping and write the opening date on the label.",
+   "Keep it out of the light; aroma is what you are paying for and light destroys it."
+  ],
+  "faq": [
+   {
+    "q": "How long does yuzu juice keep?",
+    "a": "4–6 months from purchase in a cupboard, 9–12 months refrigerated unopened, 3–4 months in the fridge once opened, or 1–2 years frozen."
+   },
+   {
+    "q": "Should yuzu juice be refrigerated?",
+    "a": "Yes if you can. The refrigerated unopened figure is more than twice the cupboard one, and an opened bottle needs the fridge."
+   },
+   {
+    "q": "Can you freeze yuzu juice?",
+    "a": "Yes, 1–2 years at −18 °C (0 °F). Ice-cube trays are the practical way, and the aroma holds up much better than it does in an opened bottle."
+   }
+  ]
+ },
+ "zh": {
+  "name": "香橙汁（柚子汁）",
+  "aliases": [
+   "日本柚子汁",
+   "ゆず果汁",
+   "香橙原汁",
+   "yuzu juice"
+  ],
+  "summary": "瓶裝香橙汁自購買日起，放在陰涼避光的櫥櫃可放 4～6 個月，或放 4 °C 以下冷藏 9～12 個月。開封後冷藏可放 3～4 個月，−18 °C 冷凍則是 1～2 年。",
+  "pantry": "未開封時，放在陰涼、避光、乾燥的櫥櫃，自購買日起 4～6 個月。香橙汁酸度很高，細菌不是問題；會消失的是那股你當初就是為它付錢的驚人花香，而溫度和光線帶走它的速度最快。如果冰箱有空間，冷藏的數字是櫥櫃的兩倍以上；所以對一瓶短期內不會開的香橙汁來說，櫥櫃只是次佳選擇。",
+  "fridge": "未開封放 4 °C 以下，自購買日起 9～12 個月；開封後 3～4 個月。請放層架而不是冰箱門，蓋子旋緊，蓋回去前把瓶口擦乾淨。開封後掉下來的原因是氧化而不是安全：瓶子裡的空氣會持續把香氣磨鈍，所以大瓶只剩一點時，換到小瓶子裡比較留得住風味。有些產品是加鹽的柚子醋類調味料而不是純果汁，那種開封後明顯更耐放。",
+  "freezer": "−18 °C 下 1～2 年；買一整瓶、但每次只用一小匙的人，答案就是這個。請用製冰盒凍成塊再裝袋，或分裝進留有膨脹空間的小罐。香氣撐過冷凍的能力，遠比它在任何溫度下待在一瓶開過的瓶子裡好得多。",
+  "thawing": "冷凍的小塊直接從冷凍取用，丟進沙拉醬、柚子醋或飲料裡。量大時請放冷藏解凍，不要放檯面上。",
+  "spoilage": [
+   "液面或瓶口長霉。",
+   "原本的花香變得平板、沉悶，甚至帶點苦味。",
+   "出現原本沒有的混濁、黏滑或沉澱。",
+   "瓶身鼓脹，或蓋子難以轉開。"
+  ],
+  "tips": [
+   "用製冰盒分裝冷凍；多數食譜只要一兩小匙。",
+   "除非經常入菜，否則買小瓶。",
+   "蓋回去前擦瓶口，並在標籤上寫開封日期。",
+   "避免光照；你花錢買的是香氣，而光線會把它摧毀。"
+  ],
+  "faq": [
+   {
+    "q": "香橙汁可以放多久？",
+    "a": "自購買日起，放櫥櫃 4～6 個月，未開封冷藏 9～12 個月，開封後冷藏 3～4 個月，冷凍 1～2 年。"
+   },
+   {
+    "q": "香橙汁要冷藏嗎？",
+    "a": "可以的話要。未開封冷藏的數字是櫥櫃的兩倍以上，而開封後本來就該冷藏。"
+   },
+   {
+    "q": "香橙汁可以冷凍嗎？",
+    "a": "可以，−18 °C 下 1～2 年。用製冰盒最實際，而且香氣保持得比放在開過的瓶子裡好太多。"
+   }
+  ]
+ }
+}
