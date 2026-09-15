@@ -72,6 +72,8 @@ type Dict = {
   relatedGuides: string;
   sources: string;
   sourceNote: string;
+  /** Used on foods the FoodKeeper dataset has no row for. */
+  sourceNoteResearched: string;
   updated: string;
   keyTakeaways: string;
   about: string;
@@ -99,6 +101,21 @@ type Dict = {
   seeNotes: string;
   categoryTitleSuffix: string;
   categoryDescLead: (n: number, name: string) => string;
+  commonMistake: string;
+  categoryDetailHeading: (name: string) => string;
+  correctionsTitle: string;
+  correctionsDescription: string;
+  correctionsLead: string;
+  correctionsWhenHeading: string;
+  correctionsWhenBody: string;
+  correctionsTests: string[];
+  correctionsWhenClose: string;
+  correctionsLogHeading: (n: number) => string;
+  correctionsNone: string;
+  correctionsWhy: string;
+  correctionsEvidence: string;
+  correctionsReportHeading: string;
+  correctionsReportBody: string;
   seeGuide: string;
   languageLabel: string;
   toc: string;
@@ -152,6 +169,7 @@ const zh: Dict = {
   relatedGuides: '延伸閱讀',
   sources: '資料來源',
   sourceNote: '保存期限以美國農業部 FSIS FoodKeeper 資料集（公眾領域）為基礎，並參考各國食品安全機關指引。期限為「最佳品質」參考值，實際狀況仍以食材外觀、氣味與你的保存條件為準。',
+  sourceNoteResearched: '本頁保存期限整理自上列各國食品安全機關與農業研究單位的公開資料。期限為「最佳品質」參考值，實際狀況仍以食材外觀、氣味與你的保存條件為準。',
   updated: '更新日期',
   keyTakeaways: '重點整理',
   about: '關於本站',
@@ -186,6 +204,25 @@ const zh: Dict = {
   seeNotes: '見說明',
   categoryTitleSuffix: '保存方法與保鮮期限（常溫、冷藏、冷凍）',
   categoryDescLead: (n, name) => `${n} 種${name}的常溫、冷藏與冷凍保存期限一覽，以美國農業部 FoodKeeper 資料為基礎，並附保存訣竅與腐敗判斷。`,
+  commonMistake: '最常見的錯誤',
+  correctionsTitle: '資料更正紀錄',
+  correctionsDescription: '本站與原始資料來源有出入的每一筆更正，附上理由與佐證，供讀者自行判斷。',
+  correctionsLead: '本站的保存期限以公開資料與各國主管機關指引為基礎。極少數情況下，我們認為來源本身有誤而選擇不照抄。每一次這樣的判斷都記錄在這一頁，附上理由與佐證，讓你可以自己評估我們的判斷對不對。',
+  correctionsWhenHeading: '什麼情況下我們才會更動來源數字',
+  correctionsWhenBody: '預設是照抄。與權威來源不一致是一件嚴重的事，所以一筆更正必須同時通過以下三個條件：',
+  correctionsTests: [
+    '這個數字若照原樣刊出，會讓讀者做出不安全或明顯錯誤的決定，而不只是看起來奇怪。',
+    '有可查證的佐證支持我們的判讀——通常是同一份來源中描述同一種行為的另一筆紀錄，或另一個主管機關的明確說法。',
+    '更正的內容可以完整寫出來讓人檢驗，讀者不需要相信我們。',
+  ],
+  correctionsWhenClose: '只是「看起來不合直覺」不構成更正的理由。本站保留了數筆乍看奇怪、但經查證確實是來源原意的數字，我們照實刊出，並在該食材頁面說明。更正是把錯的地方改對，不是把來源改成我們比較喜歡的樣子。',
+  correctionsLogHeading: (n) => `更正紀錄（${n} 筆）`,
+  correctionsNone: '目前沒有任何一筆資料被更正，所有保存期限都與其來源一致。',
+  correctionsWhy: '為什麼更正：',
+  correctionsEvidence: '佐證：',
+  correctionsReportHeading: '發現錯誤請告訴我們',
+  correctionsReportBody: '如果你認為本站某一筆保存期限有誤——不論是我們抄錯、判讀錯，或是你握有更好的來源——請來信告訴我們，並附上你的依據。我們會核對來源後更新；若確實更動了數字，就會出現在這一頁。',
+  categoryDetailHeading: (name) => `${name}保存的其他重點`,
   seeGuide: '閱讀完整指南',
   languageLabel: '語言',
   toc: '本文目錄',
@@ -250,6 +287,7 @@ const en: Dict = {
   relatedGuides: 'Related guides',
   sources: 'Sources',
   sourceNote: 'Storage times are based on the USDA FSIS FoodKeeper dataset (public domain) and guidance from national food-safety agencies. They indicate best quality; always judge by smell, look and your own storage conditions.',
+  sourceNoteResearched: 'Storage times on this page are drawn from the public guidance listed above, published by national food-safety agencies and agricultural research bodies. They indicate best quality; always judge by smell, look and your own storage conditions.',
   updated: 'Updated',
   keyTakeaways: 'Key takeaways',
   about: 'About',
@@ -284,6 +322,25 @@ const en: Dict = {
   seeNotes: 'See notes',
   categoryTitleSuffix: 'storage times in pantry, fridge and freezer',
   categoryDescLead: (n, name) => `Storage times for ${n} ${name.toLowerCase()} in the pantry, fridge and freezer, based on the USDA FoodKeeper dataset, with tips and spoilage signs.`,
+  commonMistake: 'The most common mistake',
+  correctionsTitle: 'Data corrections',
+  correctionsDescription: 'Every figure where this site departs from its source, with the reason and the evidence, so readers can judge the call themselves.',
+  correctionsLead: 'Storage times here are built on public datasets and guidance from national food-safety agencies. In a small number of cases we conclude that a source is wrong and decline to copy it. Every one of those decisions is recorded on this page, with the reasoning and the evidence, so you can assess whether we got it right.',
+  correctionsWhenHeading: 'When we will change a published figure',
+  correctionsWhenBody: 'The default is to copy the source exactly. Disagreeing with an authoritative body is a serious thing to do, so a correction has to clear all three of these:',
+  correctionsTests: [
+    'Published as it stands, the figure would lead a reader to an unsafe or plainly wrong decision — not merely look odd.',
+    'There is checkable evidence for our reading, usually another record in the same source describing the same behaviour, or an explicit statement from another agency.',
+    'The correction can be written out in full and examined, so nobody has to take our word for it.',
+  ],
+  correctionsWhenClose: 'Counter-intuitive is not grounds for a correction. This site carries several figures that look strange but turned out to be exactly what the source meant; those are published as they stand and explained on the page for that food. A correction fixes an error. It does not rewrite a source into the shape we would have preferred.',
+  correctionsLogHeading: (n) => `The log (${n})`,
+  correctionsNone: 'No figure on this site currently departs from its source.',
+  correctionsWhy: 'Why:',
+  correctionsEvidence: 'Evidence:',
+  correctionsReportHeading: 'Tell us if we are wrong',
+  correctionsReportBody: 'If you believe a storage time on this site is wrong — whether we transcribed it badly, read it badly, or you have a better source — email us with your reasoning. We check it against the sources and update. If it changes a figure, it appears on this page.',
+  categoryDetailHeading: (name) => `What else matters when storing ${name.toLowerCase()}`,
   seeGuide: 'Read the full guide',
   languageLabel: 'Language',
   toc: 'On this page',
@@ -348,6 +405,7 @@ const ja: Dict = {
   relatedGuides: '関連ガイド',
   sources: '出典',
   sourceNote: '保存期間は米国農務省 FSIS FoodKeeper データセット（パブリックドメイン）と各国の食品安全機関の指針にもとづく「おいしさの目安」です。実際にはにおい・見た目・保存状態で判断してください。',
+  sourceNoteResearched: 'このページの保存期間は、上記の各国食品安全機関および農業研究機関が公開する資料にもとづく「おいしさの目安」です。実際にはにおい・見た目・保存状態で判断してください。',
   updated: '更新日',
   keyTakeaways: 'この記事の要点',
   about: 'このサイトについて',
@@ -381,6 +439,25 @@ const ja: Dict = {
   quickAnswer: '結論',
   seeNotes: '備考あり',
   categoryTitleSuffix: 'の保存期間：常温・冷蔵・冷凍の目安',
+  commonMistake: '最もよくある間違い',
+  correctionsTitle: 'データ訂正の記録',
+  correctionsDescription: '出典と異なる数値について、その理由と根拠をすべて公開しています。',
+  correctionsLead: '当サイトの保存期間は、公開データセットと各国の食品安全機関の指針にもとづいています。ごくまれに、出典そのものに誤りがあると判断し、そのまま掲載しないことがあります。その判断はすべてこのページに、理由と根拠とともに記録しています。',
+  correctionsWhenHeading: '出典の数値を変更する条件',
+  correctionsWhenBody: '原則はそのまま転記することです。権威ある機関と異なる判断をするのは重いことなので、訂正には次の 3 つすべてを満たすことを求めています。',
+  correctionsTests: [
+    'そのまま掲載すると、読者が安全でない判断や明らかに誤った判断をしてしまう場合。単に不自然に見えるだけでは足りません。',
+    '検証可能な根拠があること。多くは同じ出典内で同じ挙動を述べた別の記録、または他機関の明確な記述です。',
+    '訂正内容を全文公開して検証できること。読者が当サイトを信用する必要がないこと。',
+  ],
+  correctionsWhenClose: '直感に反するというだけでは訂正の理由になりません。奇妙に見えても出典の意図どおりだった数値は、そのまま掲載し、その食材のページで説明しています。訂正とは誤りを直すことであり、出典を好みの形に書き換えることではありません。',
+  correctionsLogHeading: (n) => `訂正の記録（${n} 件）`,
+  correctionsNone: '現在、出典と異なる数値はありません。',
+  correctionsWhy: '訂正の理由：',
+  correctionsEvidence: '根拠：',
+  correctionsReportHeading: '誤りを見つけたら',
+  correctionsReportBody: '保存期間に誤りがあるとお考えの場合は、根拠を添えてご連絡ください。出典と照合して更新し、数値が変わった場合はこのページに記載します。',
+  categoryDetailHeading: (name) => `${name}の保存でほかに大事なこと`,
   categoryDescLead: (n, name) => `${name}${n} 品目の常温・冷蔵・冷凍の保存期間一覧。米国農務省 FoodKeeper データにもとづき、保存のコツと傷みのサインも掲載。`,
   seeGuide: 'ガイドを読む',
   languageLabel: '言語',
@@ -446,6 +523,7 @@ const es: Dict = {
   relatedGuides: 'Guías relacionadas',
   sources: 'Fuentes',
   sourceNote: 'Los plazos se basan en el conjunto de datos FoodKeeper del USDA FSIS (dominio público) y en guías de agencias nacionales de seguridad alimentaria. Indican calidad óptima; guíate siempre por el olor, el aspecto y tus condiciones de conservación.',
+  sourceNoteResearched: 'Los plazos de esta página proceden de las guías públicas citadas arriba, publicadas por agencias nacionales de seguridad alimentaria y organismos de investigación agraria. Indican calidad óptima; guíate siempre por el olor, el aspecto y tus condiciones de conservación.',
   updated: 'Actualizado',
   keyTakeaways: 'Ideas clave',
   about: 'Sobre el sitio',
@@ -479,6 +557,25 @@ const es: Dict = {
   quickAnswer: 'Respuesta rápida',
   seeNotes: 'Ver notas',
   categoryTitleSuffix: 'cuánto duran en despensa, nevera y congelador',
+  commonMistake: 'El error más habitual',
+  correctionsTitle: 'Correcciones de datos',
+  correctionsDescription: 'Cada cifra en la que este sitio se aparta de su fuente, con el motivo y las pruebas, para que el lector juzgue por sí mismo.',
+  correctionsLead: 'Los plazos de este sitio se basan en conjuntos de datos públicos y en guías de agencias nacionales de seguridad alimentaria. En un número reducido de casos concluimos que la fuente se equivoca y no la copiamos. Cada una de esas decisiones queda registrada en esta página, con el razonamiento y las pruebas.',
+  correctionsWhenHeading: 'Cuándo modificamos una cifra publicada',
+  correctionsWhenBody: 'Lo normal es copiar la fuente tal cual. Discrepar de un organismo autorizado es algo serio, así que una corrección debe cumplir las tres condiciones:',
+  correctionsTests: [
+    'Publicada tal cual, la cifra llevaría al lector a una decisión insegura o claramente equivocada, no solo llamativa.',
+    'Existe una prueba verificable de nuestra lectura, normalmente otro registro de la misma fuente que describe el mismo comportamiento, o una afirmación explícita de otra agencia.',
+    'La corrección puede exponerse por completo y examinarse, sin que nadie tenga que fiarse de nuestra palabra.',
+  ],
+  correctionsWhenClose: 'Que algo resulte contraintuitivo no justifica una corrección. Este sitio publica varias cifras que parecen extrañas pero que resultaron ser exactamente lo que la fuente quería decir; se publican tal cual y se explican en la página del alimento. Una corrección arregla un error, no reescribe una fuente a nuestro gusto.',
+  correctionsLogHeading: (n) => `El registro (${n})`,
+  correctionsNone: 'Ninguna cifra de este sitio se aparta actualmente de su fuente.',
+  correctionsWhy: 'Motivo:',
+  correctionsEvidence: 'Prueba:',
+  correctionsReportHeading: 'Dinos si nos equivocamos',
+  correctionsReportBody: 'Si crees que un plazo de este sitio es incorrecto, escríbenos con tu razonamiento. Lo cotejamos con las fuentes y lo actualizamos. Si cambia una cifra, aparecerá en esta página.',
+  categoryDetailHeading: (name) => `Qué más importa al conservar ${name.toLowerCase()}`,
   categoryDescLead: (n, name) => `Tiempos de conservación de ${n} ${name.toLowerCase()} en despensa, nevera y congelador, según el conjunto de datos FoodKeeper del USDA.`,
   seeGuide: 'Leer la guía completa',
   languageLabel: 'Idioma',

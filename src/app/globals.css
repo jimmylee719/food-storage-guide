@@ -562,3 +562,40 @@ details.faq-item .faq-answer { padding: 0 16px 14px; color: var(--muted); font-s
 @media (prefers-color-scheme: dark) {
   .correction-note { background: color-mix(in srgb, var(--pantry) 18%, var(--surface)); }
 }
+
+/* Category pages: the editorial part. A table of storage numbers is the source
+   data reformatted; the paragraphs around it are what makes the page worth
+   having, so they get real reading width and typography, not caption styling. */
+.category-intro { margin: 18px 0 26px; }
+.category-intro > p { max-width: 68ch; font-size: 1.02rem; line-height: 1.75; color: var(--text); }
+.category-detail { margin: 34px 0 10px; }
+.category-detail h2 { font-size: 1.15rem; margin-bottom: 10px; }
+.category-detail p { max-width: 68ch; line-height: 1.75; }
+
+/* The one mistake that actually costs people food, marked so it reads as a
+   warning rather than as another tip. */
+.callout.callout-warn {
+  border-inline-start-color: var(--warn, #d97706);
+  background: var(--warn-soft, #fff7ed);
+}
+.callout.callout-warn strong { color: var(--warn-ink, #9a3412); }
+
+@media (prefers-color-scheme: dark) {
+  .callout.callout-warn { background: rgba(217, 119, 6, .12); }
+  .callout.callout-warn strong { color: #fbbf24; }
+}
+
+@media (max-width: 640px) {
+  .category-intro > p, .category-detail p { font-size: .98rem; }
+}
+
+/* Corrections log. Each entry is a claim against a published source, so it is
+   set as a distinct record rather than as flowing prose. */
+.correction-entry {
+  border: 1px solid var(--line); border-inline-start: 3px solid var(--accent);
+  border-radius: 10px; padding: 16px 20px; margin: 18px 0; background: var(--surface-2);
+}
+.correction-entry h3 { margin-top: 0; margin-bottom: 10px; font-size: 1.05rem; }
+.correction-entry p { margin-bottom: 10px; line-height: 1.7; font-size: .95rem; }
+.correction-entry p:last-child { margin-bottom: 0; }
+.correction-entry strong { color: var(--muted-ink, var(--text)); }

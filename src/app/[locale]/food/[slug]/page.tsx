@@ -189,12 +189,18 @@ export default async function FoodPage({ params }: { params: Promise<{ locale: s
       <section>
         <h2 id="sources">{d.sources}</h2>
         <ul className="source-list">
-          <li>
-            USDA FSIS FoodKeeper —{' '}
-            <a href="https://catalog.data.gov/dataset/fsis-foodkeeper-data" rel="noopener nofollow" target="_blank">
-              catalog.data.gov
-            </a>
-          </li>
+          {/* Only cite the dataset when the numbers on this page actually come
+              from it. 112 foods were researched from agency guidance for items
+              the dataset has no row for; listing it there would be a false
+              citation. */}
+          {food.usesFoodKeeper ? (
+            <li>
+              USDA FSIS FoodKeeper —{' '}
+              <a href="https://catalog.data.gov/dataset/fsis-foodkeeper-data" rel="noopener nofollow" target="_blank">
+                catalog.data.gov
+              </a>
+            </li>
+          ) : null}
           {food.sourceRefs?.map((s) => (
             <li key={s.url}>
               {s.name} — <a href={s.url} rel="noopener nofollow" target="_blank">{new URL(s.url).hostname}</a>
@@ -211,7 +217,7 @@ export default async function FoodPage({ params }: { params: Promise<{ locale: s
         {food.derivedFrom ? <p className="footer-note">{d.groupedWith(food.derivedFromName ?? food.derivedFrom)}</p> : null}
         {/* groupedWith ignores the argument in locales whose sentence cannot
             carry an English record name. */}
-        <p className="footer-note">{d.sourceNote}</p>
+        <p className="footer-note">{food.usesFoodKeeper ? d.sourceNote : d.sourceNoteResearched}</p>
         <p className="footer-note"><strong>{d.disclaimer}:</strong> {d.disclaimerBody}</p>
       </section>
 

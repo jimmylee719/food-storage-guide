@@ -6,6 +6,7 @@ import FoodTable from '@/components/FoodTable';
 import AdSlot from '@/components/AdSlot';
 import { CATEGORIES, LOCALES, type Category, type Locale, isLocale, t } from '@/lib/i18n';
 import { foodsInCategory } from '@/lib/data';
+import categoryNotes from '@/data/category-notes.json';
 import { buildMetadata, jsonLdScript } from '@/lib/seo';
 import { absoluteUrl } from '@/lib/site';
 
@@ -26,7 +27,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   // CJK titles read better without the colon separator.
   const cjk = locale === 'zh' || (locale as string) === 'ja';
   const title = cjk ? `${name}${d.categoryTitleSuffix}` : `${name}: ${d.categoryTitleSuffix}`;
-  const description = d.categoryDescLead(items.length, name);
+  const note = (categoryNotes as Record<string, Record<string, { principle: string }>>)[cat]?.[locale];
+  const description = note
+    ? note.principle.split(/(?<=[.。])s*/)[0].slice(0, 155)
+    : d.categoryDescLead(items.length, name);
   return buildMetadata({ title, description, path: `/category/${cat}`, locale });
 }
 
@@ -36,6 +40,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ local
   const l = locale as Locale;
   const d = t(l);
   const name = d.categoryNames[cat];
+  const note = (categoryNotes as Record<string, Record<string, { principle: string; mistake: string; detail: string }>>)[cat]?.[l];
   const items = foodsInCategory(cat).sort((a, b) => a.names[l].localeCompare(b.names[l], l));
   if (!items.length) notFound();
   // Every food has a page now, so the list schema covers the whole category.
@@ -62,7 +67,27 @@ export default async function CategoryPage({ params }: { params: Promise<{ local
       <h1>{name}</h1>
       <p className="hero-lead">{d.itemsCount(items.length)}</p>
 
+      {/* Why this category spoils the way it does, and the one mistake that
+          actually costs people food. A table of numbers alone is the source
+          data reformatted; this is the part that is ours. */}
+      {note ? (
+        <section className="category-intro">
+          <p>{note.principle}</p>
+          <div className="callout callout-warn">
+            <p><strong>{d.commonMistake}</strong></p>
+            <p>{note.mistake}</p>
+          </div>
+        </section>
+      ) : null}
+
       <FoodTable items={items} locale={l} />
+
+      {note ? (
+        <section className="category-detail">
+          <h2>{d.categoryDetailHeading(name)}</h2>
+          <p>{note.detail}</p>
+        </section>
+      ) : null}
 
       <AdSlot label="Advertisement" />
 

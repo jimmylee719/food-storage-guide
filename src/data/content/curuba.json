@@ -5,7 +5,7 @@
     "aliases": ["banana passionfruit", "tumbo", "taxo", "Passiflora tripartita"],
     "summary": "Curuba is the elongated Andean passionfruit, with a soft yellow-green rind and tart orange pulp that is almost always juiced rather than eaten with a spoon. No agency publishes figures for it, so treat it like passionfruit shortened for its thinner rind: 3 to 7 days on the counter, 1 to 3 weeks in the fridge, and 6 to 12 months for frozen pulp.",
     "pantry": "A bowl on the counter suits curuba for about 3 to 7 days. Because the rind is thinner and softer than a round passionfruit's, it dries and wrinkles faster rather than concentrating nicely, so do not leave it out hoping it will improve. Keep it out of the sun; the fruit is ripe when the skin is deep yellow and gives slightly under your thumb.",
-    "fridge": "Bagged in the crisper at 4 °C (40 °F) or below, curuba holds roughly 1 to 3 weeks. The bag matters: an open fridge shelf dries the thin rind quickly and you lose juice. This range follows the way passionfruit is handled rather than a published curuba figure, shortened at the top end because the elongated fruit has less rind to protect it.",
+    "fridge": "Bagged in the crisper at 4 °C (40 °F) or below, curuba holds roughly 1 to 3 weeks. The bag matters: an open fridge shelf dries the thin rind quickly and you lose juice. It does not hold as long as a round passionfruit, because the elongated fruit has proportionally less rind to protect it.",
     "freezer": "Scoop the pulp and seeds out and freeze them for about 6 to 12 months at −18 °C (0 °F), a general soft-fruit range rather than an official figure. Freeze it in an ice cube tray or in small portions, since it is normally blended into juice, sorbet or a mousse. There is little point freezing whole fruit — the rind is inedible and takes up the space.",
     "thawing": "Blend the pulp straight from frozen for juice, or thaw a portion in the fridge and use it the same day. Do not thaw at room temperature or refreeze.",
     "spoilage": [
@@ -21,7 +21,7 @@
       "Sieve the pulp if you dislike the seeds, but keep some for texture"
     ],
     "faq": [
-      {"q": "How long does curuba last?", "a": "About 3 to 7 days at room temperature and roughly 1 to 3 weeks bagged in the fridge. There is no official figure; this follows passionfruit."},
+      {"q": "How long does curuba last?", "a": "About 3 to 7 days at room temperature and roughly 1 to 3 weeks bagged in the fridge. The bag matters: uncovered, the thin rind dries out fast."},
       {"q": "Can you freeze curuba?", "a": "Freeze the scooped pulp rather than whole fruit, for about 6 to 12 months. Ice cube trays are ideal since it is mostly used for juice."},
       {"q": "How do you know curuba is ripe?", "a": "The skin turns deep yellow and gives slightly under your thumb. Green fruit is very sharp and will not sweeten much off the vine."}
     ]
@@ -31,7 +31,7 @@
     "aliases": ["長果西番蓮", "curuba", "tumbo", "安地斯百香果"],
     "summary": "香蕉百香果是安地斯地區的長條形西番蓮果，外皮黃綠柔軟，橙色果肉酸度高，幾乎都是打成汁而不是用湯匙挖著吃。沒有官方單位公布它的保存數據，所以用百香果的標準來看、再因為它果皮更薄而縮短：室溫 3 到 7 天，冷藏 1 到 3 週，果肉冷凍 6 到 12 個月。",
     "pantry": "放在室溫的碗裡大約 3 到 7 天。因為它的外皮比圓形百香果更薄更軟，所以會偏向乾癟皺縮，而不是漂亮地濃縮風味，別放著指望它變好吃。避開日曬；果皮轉深黃、拇指按下去略軟就是熟了。",
-    "fridge": "裝袋放蔬果室、維持 4°C 以下，大約可放 1 到 3 週。袋子很重要：敞著放在冰箱層架上，薄薄的果皮很快就乾掉，汁也跟著少。這個範圍是比照百香果的做法，不是針對香蕉百香果公布的數字，而且上限有縮短，因為長條形的果實外皮相對少、保護力不足。",
+    "fridge": "裝袋放蔬果室、維持 4°C 以下，大約可放 1 到 3 週。袋子很重要：敞著放在冰箱層架上，薄薄的果皮很快就乾掉，汁也跟著少。它撐不了圓形百香果那麼久，因為長條形的果實外皮相對少、保護力不足。",
     "freezer": "把果肉連籽挖出來冷凍，−18°C 下約 6 到 12 個月，這是軟質水果的一般範圍，不是官方數字。用製冰盒或小份分裝，因為它通常是拿去打果汁、做雪酪或慕斯。整顆冷凍意義不大——外皮不能吃，只會占空間。",
     "thawing": "要打果汁就直接用冷凍果肉下去打，或取一份放冷藏解凍並當天用完。不要放室溫解凍，也不要回凍。",
     "spoilage": [
@@ -47,7 +47,7 @@
       "不喜歡籽就過篩，但留一些會比較有口感"
     ],
     "faq": [
-      {"q": "香蕉百香果可以放多久？", "a": "室溫約 3 到 7 天，裝袋冷藏約 1 到 3 週。沒有官方數字，這是比照百香果的做法。"},
+      {"q": "香蕉百香果可以放多久？", "a": "室溫約 3 到 7 天，裝袋冷藏約 1 到 3 週。袋子很重要：不包的話，薄薄的果皮很快就乾掉。"},
       {"q": "香蕉百香果可以冷凍嗎？", "a": "冷凍挖出來的果肉而不是整顆，約 6 到 12 個月。因為主要用來打汁，製冰盒最方便。"},
       {"q": "香蕉百香果怎麼看熟了沒？", "a": "果皮轉深黃、拇指按下去略軟。青綠的果實非常酸，而且離枝後不太會再變甜。"}
     ]

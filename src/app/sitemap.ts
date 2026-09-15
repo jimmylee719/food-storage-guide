@@ -26,6 +26,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const c of CATEGORIES) out.push(...entry(`/category/${c}`, { priority: 0.8, changeFrequency: 'weekly' }));
   for (const f of allFoods()) out.push(...entry(`/food/${f.slug}`, { priority: 0.7, changeFrequency: 'monthly' }));
   for (const g of guides) out.push(...entry(`/guides/${g.slug}`, { priority: 0.8, changeFrequency: 'monthly', lastModified: g.updated }));
+  // The corrections log is the site's own contribution to the data rather than a
+  // notice page, so it ranks with the guides, not with the legal boilerplate.
+  out.push(...entry('/corrections', { priority: 0.6, changeFrequency: 'monthly' }));
   for (const k of STATIC_PAGE_KEYS) out.push(...entry(`/${k}`, { priority: 0.3, changeFrequency: 'yearly' }));
   return out;
 }

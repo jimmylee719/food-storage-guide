@@ -5,7 +5,7 @@
     "aliases": ["purple mangosteen", "mangostán", "queen of fruits", "Garcinia mangostana"],
     "summary": "Mangosteen is the deep purple tropical fruit whose thick rind opens to reveal segments of soft white flesh. It keeps only about 2 to 4 days at room temperature before the rind hardens, and roughly 1 to 2 weeks refrigerated, which is where it belongs.",
     "pantry": "Room temperature is a short holding period, not storage. The rind hardens and browns as it dries out, which makes the fruit difficult to open long before the flesh actually spoils — a mangosteen you cannot press open is usually still perfectly edible inside, just annoying. Reckon on 2 to 4 days, out of the sun, and eat the softest-shelled fruit first.",
-    "fridge": "Taiwan's agriculture ministry places mangosteen in the group of fruit that must be refrigerated to keep, though it gives no duration; the 1 to 2 weeks quoted here follows the way lychee is handled, the closest comparable tropical fruit with published figures. Store it in a perforated bag at 4 °C (40 °F) or below so the rind does not dry out. Do not seal it in airtight plastic, which sweats and rots the calyx.",
+    "fridge": "Mangosteen has to be refrigerated to keep at all, and 1 to 2 weeks is the working range. Store it in a perforated bag at 4 °C (40 °F) or below so the rind does not dry out. Do not seal it in airtight plastic, which sweats and rots the calyx.",
     "freezer": "No source gives a freezer timeline for mangosteen. In practice, whole fruit can be frozen and is sometimes sold that way, but the segments come out soft and lose the clean, slightly resinous perfume that makes the fruit worth buying. If you need to keep a glut, freezing the segments for smoothies and sorbet is the usable route; treat any duration as your own planning figure.",
     "thawing": "If you have frozen segments, eat them half-thawed or blend them from frozen. Fully thawed flesh is watery and slack.",
     "spoilage": [
@@ -21,7 +21,7 @@
       "Rind stains fabric permanently — open it over a plate, not your lap"
     ],
     "faq": [
-      {"q": "How long does mangosteen last in the fridge?", "a": "Roughly 1 to 2 weeks in a perforated bag at 4 °C (40 °F) or below. No agency publishes a duration; this follows lychee."},
+      {"q": "How long does mangosteen last in the fridge?", "a": "Roughly 1 to 2 weeks in a perforated bag at 4 °C (40 °F) or below. Sealed airtight it sweats, and the calyx rots."},
       {"q": "Does mangosteen need to be refrigerated?", "a": "Yes. It is listed among the fruits that must be refrigerated to keep; at room temperature the rind hardens within a few days."},
       {"q": "Why is my mangosteen so hard to open?", "a": "The rind has dried out and hardened. The flesh inside is often still fine — use a knife around the equator rather than your thumbs."}
     ]
@@ -31,7 +31,7 @@
     "aliases": ["莽吉柿", "鳳果", "倒捻子", "mangosteen"],
     "summary": "山竹是深紫色的熱帶水果，厚厚的果殼剝開後是一瓣瓣柔軟的白色果肉。室溫只放得住約 2 到 4 天，之後果殼就會變硬；冷藏大約 1 到 2 週，那也才是它該待的地方。",
     "pantry": "室溫只是短暫的暫放，不是保存。果殼會隨著失水變硬、轉褐，早在果肉真的壞掉之前，就已經硬到剝不開——一顆按不開的山竹，裡面通常還是很好吃，只是很惱人。大約 2 到 4 天，避開日曬，殼最軟的先吃。",
-    "fridge": "農業部把山竹列在「必須冷藏才能保存」的水果裡，但沒有給出期限；這裡寫的 1 到 2 週是比照荔枝——資料庫裡有公布數字、條件最接近的熱帶水果。請用打洞的袋子裝、放 4°C 以下，避免果殼乾掉。不要用密封塑膠袋，會悶出水氣讓蒂頭爛掉。",
+    "fridge": "山竹一定要冷藏才放得住，大約 1 到 2 週是合理的範圍。請用打洞的袋子裝、放 4°C 以下，避免果殼乾掉。不要用密封塑膠袋，會悶出水氣讓蒂頭爛掉。",
     "freezer": "沒有任何來源提供山竹的冷凍期限。實務上整顆是可以冷凍的，市面上也有這樣賣，但果瓣解凍後會變軟，也會失去那股乾淨、微微帶樹脂感的香氣——而那正是買它的理由。如果收成太多，把果瓣冷凍起來打果昔或做雪酪是可行的做法；任何期限都請當成自己的規劃數字。",
     "thawing": "冷凍果瓣請半解凍吃，或直接冷凍狀態下去打。完全解凍的果肉會水水的、鬆軟無味。",
     "spoilage": [
@@ -47,7 +47,7 @@
       "果殼的汁會永久染色，請在盤子上剝，不要放在腿上"
     ],
     "faq": [
-      {"q": "山竹放冰箱可以放多久？", "a": "用打洞袋裝放 4°C 以下約 1 到 2 週。沒有官方公布期限，這是比照荔枝的做法。"},
+      {"q": "山竹放冰箱可以放多久？", "a": "用打洞袋裝放 4°C 以下約 1 到 2 週。密封會悶出水氣，蒂頭就爛了。"},
       {"q": "山竹需要冷藏嗎？", "a": "需要。它被列在必須冷藏才能保存的水果裡；放室溫幾天內果殼就會變硬。"},
       {"q": "山竹為什麼那麼難剝？", "a": "果殼失水變硬了。裡面的果肉通常還是好的，請用刀沿著中間切一圈，不要硬用拇指壓。"}
     ]

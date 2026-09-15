@@ -10,8 +10,8 @@
   ],
   "summary": "Once a juice box has been opened, it keeps 8–12 days in the fridge at 4 °C (40 °F) or below. No room-temperature timeline is published for the unopened box: these are sterilised, sealed packs, so the printed date on the carton is what governs them until you put a straw in.",
   "pantry": "No cupboard timeline is given for an unopened juice box, and the reason is that the pack itself decides. A small aseptic carton has been heat-treated and sealed against light and oxygen, and the manufacturer's printed date is the only figure that applies to that particular product. Keep the boxes cool, dark and dry, out of a hot car and off a sunny shelf — heat is what degrades the flavour and the vitamins long before the date arrives. Once the straw goes in, the pack is no longer sterile and it needs the fridge.",
-  "fridge": "8–12 days at 4 °C (40 °F) or below after opening, which in practice means a box that has been pierced and only half drunk. Fold the straw over or stand the box in a cup, and keep it on a shelf rather than in the door. In reality a juice box drunk from directly by a child is a one-sitting item: saliva goes back down the straw and the published window assumes a cleaner start than that. If it has been carried around in a bag all afternoon, it goes.",
-  "freezer": "No freezer timeline is published for juice boxes. A frozen box makes a useful ice pack in a lunch bag and thaws by lunchtime, which is a genuinely practical trick, but it is a way of keeping a lunch cold rather than a storage plan, and the carton can split if the juice expands against it. There is no published figure to give for longer freezing.",
+  "fridge": "8–12 days at 4 °C (40 °F) or below after opening, which in practice means a box that has been pierced and only half drunk. Fold the straw over or stand the box in a cup, and keep it on a shelf rather than in the door. In reality a juice box drunk from directly by a child is a one-sitting item: saliva goes back down the straw, and that window assumes a cleaner start than that. If it has been carried around in a bag all afternoon, it goes.",
+  "freezer": "A frozen box makes a useful ice pack in a lunch bag and thaws by lunchtime, which is a genuinely practical trick, but it is a way of keeping a lunch cold rather than a storage plan, and the carton can split if the juice expands against it. For anything longer, decant the juice into a container with headspace and freeze that instead.",
   "thawing": "A frozen box thaws on its own at room temperature over a couple of hours in a lunch bag. Anything you have deliberately frozen for storage should be thawed in the fridge and drunk promptly.",
   "spoilage": [
    "A swollen, hard or hissing box, which means gas has been produced inside.",
@@ -50,8 +50,8 @@
   ],
   "summary": "鋁箔包果汁一旦開封，放 4 °C 以下冷藏可放 8～12 天。未開封的部分沒有公布室溫期限：它是經過滅菌的密封包裝，所以在你插吸管之前，包裝上印的日期就是唯一的依據。",
   "pantry": "未開封的鋁箔包沒有櫥櫃的期限數據，原因是「包裝自己說了算」。這種小型無菌包經過熱處理，並且完全隔絕光線與氧氣，廠商標示的日期是唯一適用於那個產品的數字。請把它放在陰涼、避光、乾燥處，不要留在悶熱的車上或有陽光的層架上——早在日期到期之前，高溫就會先把風味和維生素折損掉。吸管一插進去，包裝就不再無菌，必須進冰箱。",
-  "fridge": "開封後放 4 °C 以下冷藏 8～12 天，實務上指的是「插過吸管但只喝了一半」的那一盒。請把吸管折起來，或把盒子立在杯子裡，並放冰箱層架而不是門邊。說實話，小孩直接對著吸管喝過的那一盒，就是一次喝完的東西：唾液會順著吸管回流，而公布的窗口預設的起點比這乾淨得多。如果已經在書包裡帶了一整個下午，就丟掉。",
-  "freezer": "鋁箔包果汁沒有公布的冷凍期限。把一盒凍起來放進便當袋當保冷劑、中午剛好退冰，是很實用的小技巧，但那是「讓午餐保持涼」而不是保存方案；而且果汁膨脹時可能把紙盒撐裂。更長時間的冷凍沒有數字可以給。",
+  "fridge": "開封後放 4 °C 以下冷藏 8～12 天，實務上指的是「插過吸管但只喝了一半」的那一盒。請把吸管折起來，或把盒子立在杯子裡，並放冰箱層架而不是門邊。說實話，小孩直接對著吸管喝過的那一盒，就是一次喝完的東西：唾液會順著吸管回流，而那個天數預設的起點比這乾淨得多。如果已經在書包裡帶了一整個下午，就丟掉。",
+  "freezer": "把一盒凍起來放進便當袋當保冷劑、中午剛好退冰，是很實用的小技巧，但那是「讓午餐保持涼」而不是保存方案；而且果汁膨脹時可能把紙盒撐裂。要放更久，請把果汁倒進留有膨脹空間的容器再冷凍。",
   "thawing": "放在便當袋裡的凍盒，室溫下兩三個小時就會自己退冰。若是刻意冷凍保存的，請用冷藏解凍並盡快喝完。",
   "spoilage": [
    "盒子鼓脹、變硬，或開封時噴氣，代表裡面產生了氣體。",

@@ -1,7 +1,13 @@
 {
- "reviewed": "2026-09-11",
+ "reviewed": "2026-09-15",
  "note": "Findings a reviewer checked against the article and the source, and judged correct. Delete an entry to have it reported again.",
  "findings": [
+  {
+   "kind": "prose",
+   "slug": "asafoetida",
+   "locale": "zh",
+   "said": "2 年"
+  },
   {
    "kind": "prose",
    "slug": "avocados",
@@ -65,6 +71,18 @@
   {
    "kind": "prose",
    "slug": "cookies-soft",
+   "locale": "zh",
+   "said": "5 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "dulce-de-leche",
+   "locale": "en",
+   "said": "5 days"
+  },
+  {
+   "kind": "prose",
+   "slug": "dulce-de-leche",
    "locale": "zh",
    "said": "5 天"
   },
@@ -223,6 +241,12 @@
    "slug": "sapote",
    "locale": "zh",
    "said": "2 天"
+  },
+  {
+   "kind": "prose",
+   "slug": "sweet-potato-leaves",
+   "locale": "en",
+   "said": "3–5 days"
   },
   {
    "kind": "prose",

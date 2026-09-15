@@ -3,10 +3,10 @@
   "en": {
     "name": "Chiffon pies",
     "aliases": ["chocolate chiffon pie", "lemon chiffon pie", "mousse pie", "gelatin pie", "airy cream pie"],
-    "summary": "Chiffon pies, such as chocolate or lemon chiffon, have a light, airy filling made by folding beaten egg whites or whipped cream into a gelatin-set custard. That delicate structure is also fragile: keep the pie in the fridge at 4 °C (40 °F) or below and eat it within 1–2 days. USDA lists no freezer timeline, since freezing ruins the texture.",
+    "summary": "Chiffon pies, such as chocolate or lemon chiffon, have a light, airy filling made by folding beaten egg whites or whipped cream into a gelatin-set custard. That delicate structure is also fragile: keep the pie in the fridge at 4 °C (40 °F) or below and eat it within 1–2 days. Do not freeze it: thawing ruins the texture.",
     "pantry": "Chiffon pie cannot be stored at room temperature. The filling contains eggs and dairy and is set with gelatin, so it both spoils and collapses when warm; follow the 2-hour rule (1 hour above 32 °C / 90 °F). Slice at the table and return the rest to the fridge immediately.",
     "fridge": "Keep chiffon pie at 4 °C (40 °F) or below, loosely covered with a pie dome or tented foil so the surface is not crushed. It is at its best within 1–2 days; after that the filling weeps, deflates and the crust turns soggy. Keep it away from strong-smelling foods, because the airy filling absorbs odours easily.",
-    "freezer": "Freezing is not recommended and USDA gives no freezer timeline. The whipped, gelatin-set filling separates and turns grainy or watery when thawed, and the pie loses its lift. Freeze only the baked crust if you want to get ahead.",
+    "freezer": "Freezing is not recommended. The whipped, gelatin-set filling separates and turns grainy or watery when thawed, and the pie loses its lift. Freeze only the baked crust if you want to get ahead.",
     "thawing": null,
     "spoilage": [
       "Filling that has sunk, separated or gone watery at the base",
@@ -21,7 +21,7 @@
       "Add whipped cream, curls or zest just before serving"
     ],
     "faq": [
-      {"q": "Can you freeze chiffon pie?", "a": "It is not recommended. USDA gives no freezer timeline because the light gelatin-and-egg-white filling separates and collapses when thawed."},
+      {"q": "Can you freeze chiffon pie?", "a": "It is not recommended: the light gelatin-and-egg-white filling separates and collapses when thawed."},
       {"q": "How long does chiffon pie last in the fridge?", "a": "Only 1–2 days at 4 °C (40 °F) or below, loosely covered."},
       {"q": "Does chiffon pie need to be refrigerated?", "a": "Yes. The egg-and-dairy filling is perishable and gelatin softens when warm, so keep it cold and never leave it out for more than 2 hours."}
     ]
@@ -29,10 +29,10 @@
   "zh": {
     "name": "戚風派",
     "aliases": ["巧克力戚風派", "檸檬戚風派", "慕斯派", "吉利丁派", "蓬鬆奶油派"],
-    "summary": "戚風派（如巧克力戚風派、檸檬戚風派）的內餡輕盈蓬鬆，是把打發的蛋白或鮮奶油拌進用吉利丁凝固的卡士達裡做成的。這種細緻的結構也很脆弱：放在 4°C 以下冷藏，1～2 天內吃完。USDA 沒有列出冷凍期限，因為冷凍會毀掉口感。",
+    "summary": "戚風派（如巧克力戚風派、檸檬戚風派）的內餡輕盈蓬鬆，是把打發的蛋白或鮮奶油拌進用吉利丁凝固的卡士達裡做成的。這種細緻的結構也很脆弱：放在 4°C 以下冷藏，1～2 天內吃完。不要冷凍，解凍後口感會整個毀掉。",
     "pantry": "戚風派不能常溫保存。內餡含蛋和乳製品，又靠吉利丁凝固，溫度一高既會壞也會塌，請遵守 2 小時原則（室溫超過 32°C 時只有 1 小時）。在餐桌上切好，剩下的立刻放回冰箱。",
     "fridge": "保持在 4°C 以下，用派罩或鋁箔紙鬆鬆罩住，表面才不會被壓壞。1～2 天內最好吃，之後內餡會出水、消泡，派皮也會變軟。遠離味道重的食物，蓬鬆的內餡很容易吸味。",
-    "freezer": "不建議冷凍，USDA 也沒有給冷凍期限。打發後用吉利丁定型的內餡解凍後會分離、變得粗糙或出水，整個派都會塌掉。想提早準備的話只冷凍烤好的派皮。",
+    "freezer": "不建議冷凍。打發後用吉利丁定型的內餡解凍後會分離、變得粗糙或出水，整個派都會塌掉。想提早準備的話只冷凍烤好的派皮。",
     "thawing": null,
     "spoilage": [
       "內餡塌陷、分離，或底部出水",
@@ -47,7 +47,7 @@
       "鮮奶油、巧克力屑或檸檬皮要吃之前再加"
     ],
     "faq": [
-      {"q": "戚風派可以冷凍嗎？", "a": "不建議。USDA 沒有給冷凍期限，因為吉利丁加蛋白的輕盈內餡解凍後會分離塌陷。"},
+      {"q": "戚風派可以冷凍嗎？", "a": "不建議：吉利丁加蛋白的輕盈內餡解凍後會分離塌陷。"},
       {"q": "戚風派放冰箱可以放多久？", "a": "只有 1～2 天，放在 4°C 以下鬆鬆蓋著。"},
       {"q": "戚風派一定要冰嗎？", "a": "一定要。蛋奶內餡容易壞，吉利丁遇熱也會軟化，要保持冰涼，室溫不可超過 2 小時。"}
     ]

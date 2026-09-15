@@ -3,15 +3,15 @@
   "en": {
     "name": "Vacuum-packed dinners (USDA seal)",
     "aliases": ["vacuum-sealed ready meals", "refrigerated prepared dinners", "chilled ready meals", "sous-vide meals", "packaged entrées"],
-    "summary": "These are commercially prepared, refrigerated dinners sealed under vacuum and carrying the USDA mark of inspection, such as chilled entrées, sous-vide meat dishes and packaged meal kits. Kept unopened at 4 °C (40 °F) or below, they last about 2 weeks from purchase; USDA gives no freezer timeline for this category.",
+    "summary": "These are commercially prepared, refrigerated dinners sealed under vacuum and carrying an official mark of inspection, such as chilled entrées, sous-vide meat dishes and packaged meal kits. Kept unopened at 4 °C (40 °F) or below, they last about 2 weeks from purchase.",
     "pantry": "Vacuum packaging does not make a chilled meal shelf-stable. These dinners must stay refrigerated from the store to your fridge, and once out of the cold they follow the 2-hour rule (1 hour above 32 °C / 90 °F). Unlike canned or retort-pouch meals, a vacuum-sealed refrigerated dinner left at room temperature can support bacterial growth without any obvious sign.",
     "fridge": "Keep the package sealed and store it on a middle or lower shelf, not in the door, at 4 °C (40 °F) or below. Use within 2 weeks of purchase or by the printed use-by date, whichever comes first. Once opened, treat it like any cooked leftover: refrigerate promptly and eat within 3–4 days. Heat according to the label directions, usually to 74 °C (165 °F) throughout.",
-    "freezer": "USDA does not give a freezer timeline for these dinners because texture and sauce quality vary widely between products. Freezing at −18 °C (0 °F) is safe if the label allows it, and any food kept frozen stays safe indefinitely, but expect softer vegetables and separated sauces. Freeze only unopened packages well before their use-by date, and follow the manufacturer's guidance if it says do not freeze.",
+    "freezer": "How well these dinners freeze varies widely between products, because texture and sauce behave differently. Freezing at −18 °C (0 °F) is safe if the label allows it, and any food kept frozen stays safe indefinitely, but expect softer vegetables and separated sauces. Freeze only unopened packages well before their use-by date, and follow the manufacturer's guidance if it says do not freeze.",
     "thawing": "If you have frozen one, thaw it in the fridge, or use the microwave defrost setting and heat immediately afterwards. Never thaw on the counter.",
     "spoilage": ["Package has lost its vacuum: loose, puffy or bulging", "Sour or off smell when opened", "Slimy, sticky or tacky surface on the meat or sauce", "Cloudy liquid, unusual colour or any mould"],
     "tips": ["Check that the vacuum is tight and the pack is cold when you buy it", "Put it in the fridge as soon as you get home; use a cooler bag on hot days", "Follow the use-by date and the label's heating instructions", "Note the purchase date on the pack if the use-by date is hard to read"],
     "faq": [
-      {"q": "Can you freeze vacuum-packed refrigerated dinners?", "a": "Only if the label allows it. USDA gives no quality timeline for this category; freezing at −18 °C (0 °F) keeps the meal safe, but the texture may change. Never freeze a package that is puffy or past its date."},
+      {"q": "Can you freeze vacuum-packed refrigerated dinners?", "a": "Only if the label allows it. Freezing at −18 °C (0 °F) keeps the meal safe, but the texture may change. Never freeze a package that is puffy or past its date."},
       {"q": "How long do vacuum-sealed ready meals last in the fridge?", "a": "About 2 weeks from purchase, unopened, at 4 °C (40 °F) or below, or until the printed use-by date if that is sooner. Once opened, eat within 3–4 days."},
       {"q": "Do vacuum-packed dinners need to be refrigerated?", "a": "Yes. Vacuum sealing removes air but does not preserve the food; these meals are perishable and must be kept cold at all times."}
     ]
@@ -19,15 +19,15 @@
   "zh": {
     "name": "真空包裝調理餐（USDA 檢驗標章）",
     "aliases": ["真空即食餐", "冷藏調理包", "舒肥料理", "即食調理餐", "冷藏即食餐"],
-    "summary": "這類是市售冷藏的真空包裝調理餐，帶有美國農業部（USDA）檢驗標章，例如冷藏主餐、舒肥肉品料理和成套餐盒。未開封放在 4 °C 以下冰箱，自購買日起約可保存 2 週；USDA 沒有提供這個類別的冷凍期限。",
+    "summary": "這類是市售冷藏的真空包裝調理餐，帶有官方檢驗標章，例如冷藏主餐、舒肥肉品料理和成套餐盒。未開封放在 4 °C 以下冰箱，自購買日起約可保存 2 週。",
     "pantry": "真空包裝不代表可以常溫保存。這類調理餐從賣場到家裡都必須全程冷藏，離開冰箱後就適用 2 小時原則（室溫高於 32 °C 時為 1 小時）。它和罐頭、常溫調理包不同，真空冷藏餐放在室溫下可能滋生細菌，而且外觀不一定看得出來。",
     "fridge": "保持包裝密封，放在冰箱中下層而不是門邊，溫度維持 4 °C 以下。購買後 2 週內或標示的有效日期前食用，以較早者為準。開封後就當作一般熟食剩菜處理：儘快冷藏，3～4 天內吃完。加熱請依包裝說明，通常要整體加熱到 74 °C 以上。",
-    "freezer": "USDA 沒有給這類調理餐冷凍期限，因為各產品的口感和醬汁在冷凍後的變化差異很大。若包裝允許，以 −18 °C 冷凍是安全的，冷凍食品在此溫度下可長期保持安全，但蔬菜會變軟、醬汁可能油水分離。只冷凍未開封且離有效日期還很久的包裝；若標示「請勿冷凍」，請照做。",
+    "freezer": "這類調理餐冷凍後的表現，各家產品差異很大，口感和醬汁的變化都不一樣。若包裝允許，以 −18 °C 冷凍是安全的，冷凍食品在此溫度下可長期保持安全，但蔬菜會變軟、醬汁可能油水分離。只冷凍未開封且離有效日期還很久的包裝；若標示「請勿冷凍」，請照做。",
     "thawing": "若有冷凍，請放冷藏室解凍，或用微波爐解凍後立刻加熱。不要放在室溫解凍。",
     "spoilage": ["包裝失去真空：鬆垮、膨脹或鼓起", "打開時有酸味或異味", "肉或醬汁表面黏滑、黏手", "湯汁混濁、顏色異常或出現任何黴斑"],
     "tips": ["購買時確認真空緊實、包裝摸起來是冰的", "回家立刻放冰箱；天氣熱時用保冷袋", "遵守有效日期和包裝上的加熱說明", "如果有效日期不好辨認，在包裝上寫下購買日期"],
     "faq": [
-      {"q": "真空包裝的冷藏調理餐可以冷凍嗎？", "a": "只有在包裝允許時才建議。USDA 沒有這類產品的冷凍品質期限；以 −18 °C 冷凍可以保持安全，但口感可能改變。膨脹或已過期的包裝絕對不要冷凍。"},
+      {"q": "真空包裝的冷藏調理餐可以冷凍嗎？", "a": "只有在包裝允許時才建議。以 −18 °C 冷凍可以保持安全，但口感可能改變。膨脹或已過期的包裝絕對不要冷凍。"},
       {"q": "真空即食餐放冰箱可以放多久？", "a": "未開封在 4 °C 以下約可放購買後 2 週，或到標示的有效日期為止，以較早者為準。開封後 3～4 天內吃完。"},
       {"q": "真空包裝調理餐一定要冷藏嗎？", "a": "要。真空只是抽掉空氣，並沒有把食物做成常溫保存品；這類餐點容易腐壞，必須全程冷藏。"}
     ]

@@ -6,7 +6,7 @@
     "summary": "Pudding here means ready-to-eat creamy dessert cups (chocolate, vanilla, rice or custard-style), whether sold chilled or shelf-stable. Once a cup or container is opened, it keeps about 2 days in the fridge. Unopened, follow the date on the package and the storage instructions on the label.",
     "pantry": "Only unopened shelf-stable pudding cups can be kept in the pantry, in a cool, dry cupboard, until the date on the package. Pudding sold from the chilled case, homemade pudding and any opened cup must be refrigerated. Once opened or made, do not leave it out for more than 2 hours, or 1 hour if the room is above 32 °C (90 °F); dairy-based desserts spoil quickly in the danger zone.",
     "fridge": "Keep pudding at 4 °C (40 °F) or below. After opening, cover the cup or transfer leftovers to an airtight container and eat within 2 days. Homemade pudding, including instant mixes prepared with milk, follows the same 2-day rule from the moment it is made. Press plastic wrap onto the surface if you want to avoid a skin forming.",
-    "freezer": "USDA gives no freezer timeline for pudding, and freezing is not recommended for regular pudding. Starch- and milk-based puddings separate, weep and turn grainy or spongy when thawed. If you want a frozen treat, freeze pudding in ice-pop moulds and eat it frozen rather than thawing it.",
+    "freezer": "Freezing is not recommended for regular pudding. Starch- and milk-based puddings separate, weep and turn grainy or spongy when thawed. If you want a frozen treat, freeze pudding in ice-pop moulds and eat it frozen rather than thawing it.",
     "thawing": null,
     "spoilage": [
       "A sour or off smell when you peel back the lid.",
@@ -21,7 +21,7 @@
       "For lunch boxes, pack pudding cups with an ice pack and eat them within 2 hours of leaving the fridge."
     ],
     "faq": [
-      {"q": "Can you freeze pudding?", "a": "It is not recommended. Pudding separates and turns grainy or spongy after thawing, and USDA gives no freezer timeline. Freezing it as ice pops to eat frozen is the one exception."},
+      {"q": "Can you freeze pudding?", "a": "It is not recommended. Pudding separates and turns grainy or spongy after thawing. Freezing it as ice pops to eat frozen is the one exception."},
       {"q": "How long does pudding last in the fridge after opening?", "a": "About 2 days at 4 °C (40 °F) or below, covered. The same applies to homemade pudding from the time you make it."},
       {"q": "How can you tell if pudding has gone bad?", "a": "A sour smell, watery separation, lumps, mould or a bulging cup all mean it should be thrown out."},
       {"q": "Does pudding need to be refrigerated?", "a": "Opened pudding always does, as does homemade pudding and any pudding sold chilled. Unopened shelf-stable cups can stay in the pantry until the date on the package."}
@@ -33,7 +33,7 @@
     "summary": "這裡的布丁指的是杯裝或盒裝即食的滑嫩甜點，包括雞蛋布丁、焦糖布丁、巧克力布丁和米布丁，不論是冷藏販售或常溫販售的都算。開封後冷藏可以放約 2 天；未開封則依包裝標示的期限和保存方式。",
     "pantry": "只有未開封、標示常溫保存的布丁可以放在陰涼乾燥的櫃子裡，放到包裝標示的期限。冷藏區買的布丁、自己做的布丁和任何已開封的布丁都要冷藏。開封或做好之後，室溫不要放超過 2 小時（室溫超過 32 °C 時為 1 小時），乳製甜點在危險溫度帶壞得很快。",
     "fridge": "放在 4 °C 以下冷藏。開封後蓋好，或把剩下的倒進密封盒，2 天內吃完。自己做的布丁，包括用布丁粉加牛奶做的，從做好那一刻起同樣適用 2 天原則。不想表面結一層皮的話，可以用保鮮膜貼著表面蓋起來。",
-    "freezer": "USDA 沒有提供布丁的冷凍期限，一般布丁也不建議冷凍。用澱粉和牛奶做的布丁解凍後會分離、出水，口感變得粗糙或像海綿。如果想吃冰的，可以倒進冰棒模具冷凍，直接當冰棒吃，不要解凍。",
+    "freezer": "一般布丁不建議冷凍。用澱粉和牛奶做的布丁解凍後會分離、出水，口感變得粗糙或像海綿。如果想吃冰的，可以倒進冰棒模具冷凍，直接當冰棒吃，不要解凍。",
     "thawing": null,
     "spoilage": [
       "撕開蓋子時有酸味或怪味。",
@@ -48,7 +48,7 @@
       "帶便當時搭配保冷劑，離開冰箱後 2 小時內吃完。"
     ],
     "faq": [
-      {"q": "布丁可以冷凍嗎？", "a": "不建議。布丁解凍後會分離、變粗糙或像海綿，USDA 也沒有提供冷凍期限。唯一的例外是做成冰棒直接冰著吃。"},
+      {"q": "布丁可以冷凍嗎？", "a": "不建議。布丁解凍後會分離、變粗糙或像海綿。唯一的例外是做成冰棒直接冰著吃。"},
       {"q": "布丁開封後放冰箱可以放多久？", "a": "蓋好放在 4 °C 以下約 2 天。自製布丁從做好開始算也是 2 天。"},
       {"q": "怎麼判斷布丁壞掉了？", "a": "有酸味、出水分離、結塊、長霉或杯子膨脹，都應該丟掉。"},
       {"q": "布丁一定要放冰箱嗎？", "a": "開封後一定要，自製的和冷藏區販售的也要。未開封的常溫布丁可以放在櫃子裡到包裝標示的期限。"}

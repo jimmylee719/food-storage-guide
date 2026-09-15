@@ -3,7 +3,7 @@
   "en": {
     "name": "Granulated sugar",
     "aliases": ["white sugar", "table sugar", "caster sugar", "refined sugar", "cane sugar"],
-    "summary": "Granulated white sugar is almost pure sucrose with essentially no moisture, which means bacteria and mould cannot grow in it. It keeps indefinitely in the pantry; for best quality, use it within about 2 years of opening, and USDA gives an 18–24 month window after the packet is opened. The only real threats are damp and insects.",
+    "summary": "Granulated white sugar is almost pure sucrose with essentially no moisture, which means bacteria and mould cannot grow in it. It keeps indefinitely in the pantry; for best quality, use it within about 2 years of opening, and 18–24 months after the packet is opened is the usual window. The only real threats are damp and insects.",
     "pantry": "Store sugar in an airtight container in a cool, dry cupboard. It does not spoil, but humidity makes it clump and pantry insects will get into a paper bag, so decant it as soon as you get home. For best quality use within 18–24 months of opening. Keep it away from the sink, kettle and any steam.",
     "fridge": "There is no reason to refrigerate sugar and good reason not to: the cold container attracts condensation each time it is opened, which turns loose sugar into a solid lump. Sugar also picks up fridge odours readily.",
     "freezer": "Freezing sugar serves no purpose. It does not spoil at room temperature, and freezing only creates the risk of condensation and clumping when the container warms up again.",
@@ -21,7 +21,7 @@
       "Sugar dissolves faster if you measure it into hot liquid rather than cold"
     ],
     "faq": [
-      {"q": "Does sugar expire?", "a": "No. Sugar does not spoil and keeps indefinitely in a dry, sealed container. For best quality use it within about 2 years of opening; USDA gives 18–24 months."},
+      {"q": "Does sugar expire?", "a": "No. Sugar does not spoil and keeps indefinitely in a dry, sealed container. For best quality use it within about 2 years of opening; 18–24 months is the usual window."},
       {"q": "How do you fix clumped sugar?", "a": "Break it up with a fork, or pulse it briefly in a blender. Then store it in a genuinely airtight container away from steam."},
       {"q": "Does sugar need to be refrigerated?", "a": "No, and it should not be. The cold causes condensation that turns the sugar into a solid block, and it absorbs fridge odours."}
     ]
@@ -29,7 +29,7 @@
   "zh": {
     "name": "白砂糖",
     "aliases": ["細砂糖", "白糖", "特砂", "蔗糖", "砂糖"],
-    "summary": "白砂糖幾乎是純蔗糖，基本上不含水分，細菌和黴菌無法生長。它常溫可以無限期保存；為了品質，建議在開封後約 2 年內用完，USDA 給的參考是開封後 18～24 個月。真正的威脅只有受潮和蟲害。",
+    "summary": "白砂糖幾乎是純蔗糖，基本上不含水分，細菌和黴菌無法生長。它常溫可以無限期保存；為了品質，建議在開封後約 2 年內用完；一般抓的是開封後 18～24 個月。真正的威脅只有受潮和蟲害。",
     "pantry": "砂糖請裝進密封容器，放在陰涼乾燥的櫥櫃。它不會腐敗，但濕氣會讓它結塊，蟲子也很容易鑽進紙袋，所以買回家就直接分裝。品質最好的期限是開封後 18～24 個月。容器要遠離水槽、熱水瓶和任何蒸氣來源。",
     "fridge": "沒有理由把砂糖放冰箱，反而有理由不要：冰冷的容器每次打開都會吸附冷凝水氣，鬆散的糖會結成一整塊。砂糖也很會吸冰箱的味道。",
     "freezer": "冷凍砂糖沒有任何意義。它在常溫下本來就不會壞，冷凍只會在回溫時帶來結露和結塊的風險。",
@@ -47,7 +47,7 @@
       "量進熱的液體比冷的更快溶解"
     ],
     "faq": [
-      {"q": "砂糖會過期嗎？", "a": "不會。砂糖不會腐敗，密封乾燥保存可以無限期存放。為了品質建議開封後約 2 年內用完，USDA 給的參考是 18～24 個月。"},
+      {"q": "砂糖會過期嗎？", "a": "不會。砂糖不會腐敗，密封乾燥保存可以無限期存放。為了品質建議開封後約 2 年內用完；一般抓的是 18～24 個月。"},
       {"q": "砂糖結塊了怎麼辦？", "a": "用叉子壓散，或放進調理機打幾下就好。之後改用真正密封的容器保存，並遠離蒸氣。"},
       {"q": "砂糖需要冷藏嗎？", "a": "不需要，也不建議。低溫產生的冷凝水氣會讓砂糖結成硬塊，而且它還會吸附冰箱異味。"}
     ]

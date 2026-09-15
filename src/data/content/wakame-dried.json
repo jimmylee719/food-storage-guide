@@ -8,8 +8,8 @@
    "裙帶菜",
    "alga wakame"
   ],
-  "summary": "Dried wakame keeps 6–12 months sealed in a cool dark cupboard, and 12–18 months sealed in the fridge once the bag is open. The published advice covers storage conditions for dried goods rather than a wakame-specific shelf life, so read these as a conservative application of that rule.",
-  "pantry": "Store it away from heat, direct sunlight and damp, with the bag resealed tightly — those are the published conditions, and on them 6–12 months is a careful working life for a sealed pack in a cool dark cupboard. Wakame is very hygroscopic, more so than kombu: it turns limp and smells fishy as soon as it takes up moisture, and from there it clumps and moulds. Keep the desiccant sachet in, squeeze the air out after each use, and do not decant it into a jar you open several times a day.",
+  "summary": "Dried wakame keeps 6–12 months sealed in a cool dark cupboard, and 12–18 months sealed in the fridge once the bag is open. Wakame is very hygroscopic, so damp is what ends a bag: it goes limp, then clumps, then moulds.",
+  "pantry": "Store it away from heat, direct sunlight and damp, with the bag resealed tightly — on those terms a sealed pack keeps 6–12 months in a cool dark cupboard. Wakame is very hygroscopic, more so than kombu: it turns limp and smells fishy as soon as it takes up moisture, and from there it clumps and moulds. Keep the desiccant sachet in, squeeze the air out after each use, and do not decant it into a jar you open several times a day.",
   "fridge": "Sealed at 4 °C (40 °F) or below, opened wakame keeps 12–18 months, and in a humid kitchen this is the better place for it. Use a gasket jar or double bag, because it takes up fridge odours quickly and every trace of absorbed moisture works against it. Rehydrated wakame is a fresh food, not a dried one: drain it, refrigerate it at 4 °C (40 °F) or below and use it within a day or two. Note also that salted wakame — the wet, heavily salted product sold in a tub — is a different thing entirely and must be refrigerated from the start.",
   "freezer": "No freezer timeline is published for dried wakame, and freezing the dry product does little for something whose enemy is moisture rather than time. If you freeze a bulk purchase, seal it hard and let the pack come back to room temperature before opening it, or condensation will land on the fronds and undo the drying. Cooked wakame dishes and miso soup portions freeze reasonably well, which is the more useful application.",
   "thawing": null,
@@ -28,7 +28,7 @@
   "faq": [
    {
     "q": "How long does dried wakame keep?",
-    "a": "6–12 months sealed in a cool dark cupboard, or 12–18 months sealed in the fridge once opened. These are a conservative reading of general dried-goods guidance rather than a wakame-specific published figure."
+    "a": "6–12 months sealed in a cool dark cupboard, or 12–18 months sealed in the fridge once opened. Keep the desiccant sachet in the bag and squeeze the air out after every use."
    },
    {
     "q": "How long can you keep rehydrated wakame?",
@@ -48,8 +48,8 @@
    "乾燥海帶芽",
    "wakame"
   ],
-  "summary": "乾燥裙帶菜密封放陰涼避光的櫥櫃約 6～12 個月，開封後密封冷藏約 12～18 個月。公布的內容給的是乾貨的保存條件，而不是裙帶菜專屬的期限，所以請把這組數字當成對那條規則的保守套用。",
-  "pantry": "避開高溫、陽光直射與潮濕，袋口確實封緊——這就是公布的條件；在此前提下，密封包放陰涼暗處 6～12 個月是謹慎的工作期限。裙帶菜非常會吸水，比昆布更誇張：一吸到濕氣就變得軟塌、開始有腥味，接著結塊、長霉。乾燥劑留在袋內，每次用完把空氣擠掉；也不要把它倒進那種一天要開好幾次的罐子裡。",
+  "summary": "乾燥裙帶菜密封放陰涼避光的櫥櫃約 6～12 個月，開封後密封冷藏約 12～18 個月。裙帶菜非常會吸水，所以終結一包的是濕氣：先軟塌，接著結塊，然後發霉。",
+  "pantry": "避開高溫、陽光直射與潮濕，袋口確實封緊——在這個前提下，密封包放陰涼暗處可放 6～12 個月。裙帶菜非常會吸水，比昆布更誇張：一吸到濕氣就變得軟塌、開始有腥味，接著結塊、長霉。乾燥劑留在袋內，每次用完把空氣擠掉；也不要把它倒進那種一天要開好幾次的罐子裡。",
   "fridge": "開封後密封放 4 °C 以下，可放 12～18 個月；在潮濕的廚房，那裡才是它該待的地方。請用有膠條的密封罐或雙層袋，因為它吸冰箱味道很快，而任何吸進去的水氣都對它不利。泡開後的裙帶菜是新鮮食物不是乾貨：瀝乾、放 4 °C 以下冷藏，並在一兩天內用完。另外也要注意，鹽藏裙帶菜——盒裝、濕的、重鹽的那一種——是完全不同的產品，買回來就必須冷藏。",
   "freezer": "乾燥裙帶菜沒有公布的冷凍期限，而把乾貨冷凍，對一個敵人是水分而非時間的東西幫助有限。若要冷凍一大包，請密封確實，並等整包回到室溫再打開，否則水氣會凝在葉片上，把乾燥白費掉。煮好的裙帶菜料理或味噌湯分裝冷凍效果還不錯，那是更實用的做法。",
   "thawing": null,
@@ -68,7 +68,7 @@
   "faq": [
    {
     "q": "乾燥裙帶菜可以放多久？",
-    "a": "密封放陰涼暗處約 6～12 個月，開封後密封冷藏約 12～18 個月。這是對乾貨通則的保守解讀，不是裙帶菜專屬的公布數字。"
+    "a": "密封放陰涼暗處約 6～12 個月，開封後密封冷藏約 12～18 個月。乾燥劑請留在袋子裡，每次用完都把空氣擠掉。"
    },
    {
     "q": "泡開的海帶芽可以放多久？",

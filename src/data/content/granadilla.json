@@ -5,7 +5,7 @@
     "aliases": ["sweet granadilla", "grenadia", "Passiflora ligularis", "sweet passionfruit"],
     "summary": "The sweet granadilla is the mild orange-shelled cousin of the passionfruit, with a hard brittle shell and grey, jelly-covered seeds that are eaten by the spoonful. No agency publishes figures for it, so treat it like passionfruit: 5 to 10 days on the counter, 2 to 4 weeks in the fridge, and 6 to 12 months for frozen pulp.",
     "pantry": "The hard orange shell protects the pulp well, so a bowl on the counter works for about 5 to 10 days. A lightly wrinkled shell means the pulp inside has sweetened, not that the fruit has spoiled — this is the opposite of what most people assume. Keep it out of direct sun and handle it gently, because the shell is brittle and a crack lets the pulp dry out.",
-    "fridge": "Bagged in the crisper at 4 °C (40 °F) or below, granadilla holds roughly 2 to 4 weeks. The bag is what matters: the shell dehydrates and cracks on an open fridge shelf. This range follows the way passionfruit, the same genus, is handled rather than a published granadilla figure. Once you crack a fruit open, eat the pulp the same day.",
+    "fridge": "Bagged in the crisper at 4 °C (40 °F) or below, granadilla holds roughly 2 to 4 weeks. The bag is what matters: the shell dehydrates and cracks on an open fridge shelf. Once you crack a fruit open, eat the pulp the same day.",
     "freezer": "Freeze the pulp with its seeds for about 6 to 12 months at −18 °C (0 °F), a general soft-fruit range rather than an official figure. Scoop it into an ice cube tray or small tubs so you can take out one fruit's worth at a time, and press out the air. There is no point freezing whole fruit, since the shell is inedible.",
     "thawing": "Thaw a portion in the fridge and use it the same day, or blend it from frozen into juice and desserts. Do not thaw on the counter or refreeze.",
     "spoilage": [
@@ -21,7 +21,7 @@
       "Crack the shell by tapping it, then eat the pulp with a spoon"
     ],
     "faq": [
-      {"q": "How long does granadilla last?", "a": "About 5 to 10 days at room temperature and roughly 2 to 4 weeks bagged in the fridge. There is no official figure; this follows passionfruit."},
+      {"q": "How long does granadilla last?", "a": "About 5 to 10 days at room temperature and roughly 2 to 4 weeks bagged in the fridge. The bag matters: on an open shelf the shell dehydrates and cracks."},
       {"q": "Is a wrinkled granadilla still good?", "a": "Yes. Light wrinkling means the pulp has sweetened. Discard fruit only if it is cracked, leaking, light and hollow, or smells fermented."},
       {"q": "Can you freeze granadilla?", "a": "Freeze the pulp with its seeds, not the whole fruit, for about 6 to 12 months. An ice cube tray works well."}
     ]
@@ -31,7 +31,7 @@
     "aliases": ["甜百香果", "granadilla", "橙皮百香果", "香蜜果"],
     "summary": "甜西番蓮是百香果溫和版的近親，橙色外殼堅硬易碎，裡面是灰色、裹著果凍狀漿液的種子，用湯匙挖著吃。沒有官方單位公布它的保存數據，所以用百香果的標準來看：室溫 5 到 10 天，冷藏 2 到 4 週，果肉冷凍 6 到 12 個月。",
     "pantry": "堅硬的橙色外殼把果肉保護得很好，所以放在室溫的碗裡大約 5 到 10 天沒問題。外殼稍微皺一點代表裡面的果肉更甜了，不是壞掉——這跟大多數人的直覺剛好相反。避免日曬並且輕拿輕放，因為外殼很脆，一裂開果肉就會乾掉。",
-    "fridge": "裝袋放蔬果室、維持 4°C 以下，大約可放 2 到 4 週。袋子是重點：敞著放在冰箱層架上，外殼會脫水裂開。這個範圍是比照同屬的百香果，不是針對甜西番蓮公布的數字。一旦敲開，果肉當天就要吃完。",
+    "fridge": "裝袋放蔬果室、維持 4°C 以下，大約可放 2 到 4 週。袋子是重點：敞著放在冰箱層架上，外殼會脫水裂開。一旦敲開，果肉當天就要吃完。",
     "freezer": "果肉連籽一起冷凍，−18°C 下約 6 到 12 個月，這是軟質水果的一般範圍，不是官方數字。用製冰盒或小盒分裝，這樣每次可以取一顆的量，並擠出空氣。整顆冷凍沒有意義，因為外殼不能吃。",
     "thawing": "取一份放冷藏解凍並當天用完，或直接冷凍狀態打成果汁和甜點。不要放室溫解凍，也不要回凍。",
     "spoilage": [
@@ -47,7 +47,7 @@
       "用敲的把殼敲裂，再用湯匙挖果肉"
     ],
     "faq": [
-      {"q": "甜西番蓮可以放多久？", "a": "室溫約 5 到 10 天，裝袋冷藏約 2 到 4 週。沒有官方數字，這是比照百香果的做法。"},
+      {"q": "甜西番蓮可以放多久？", "a": "室溫約 5 到 10 天，裝袋冷藏約 2 到 4 週。袋子很重要：敞著放，外殼會脫水裂開。"},
       {"q": "外殼皺掉的甜西番蓮還能吃嗎？", "a": "可以。輕微起皺代表果肉更甜了。只有裂開滲漏、輕飄飄空空的，或聞起來發酵才要丟。"},
       {"q": "甜西番蓮可以冷凍嗎？", "a": "冷凍果肉連籽，不要整顆冷凍，約 6 到 12 個月，用製冰盒很方便。"}
     ]

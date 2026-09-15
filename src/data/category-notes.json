@@ -1,0 +1,230 @@
+{
+ "vegetables": {
+  "en": {
+   "principle": "A vegetable is still alive after harvest. It goes on breathing, burning its own sugars and losing water through its skin, and almost every storage rule for vegetables follows from slowing that down without suffocating it. Cold slows respiration; humidity stops the water loss that makes things limp. But the two work against each other, because a sealed bag that holds humidity in also traps the water the vegetable breathes out, and that film of moisture is what bacteria and moulds need to start. This is why so much vegetable storage advice sounds contradictory: you are trying to keep a living thing damp but not wet, and cool but not frozen.",
+   "mistake": "Washing before storing. Water left in the crevices of a lettuce, a broccoli head or a bunch of herbs is the single most reliable way to turn it slimy days early. Wash immediately before cooking, never before the fridge.",
+   "detail": "Two other rules do most of the remaining work. Keep ethylene producers — apples, bananas, tomatoes, avocados, melons — away from leaves, broccoli and other ethylene-sensitive vegetables, because ethylene is a ripening hormone and it yellows and softens anything stored nearby. And respect the small group that must never be refrigerated: potatoes turn their starch to sugar in the cold and darken when fried, onions and garlic go soft and mouldy in fridge humidity, and tomatoes lose their aroma below about 12 °C and never get it back."
+  },
+  "zh": {
+   "principle": "蔬菜採收之後還活著。它繼續呼吸、燒掉自己的糖分，並從表皮散失水分——幾乎所有蔬菜的保存原則，都是在「讓它慢下來」和「不要悶死它」之間取平衡。低溫可以壓低呼吸作用，濕度可以擋住讓蔬菜變軟塌的水分流失。但這兩件事彼此衝突：能鎖住濕度的密封袋，同時也把蔬菜呼出的水氣關在裡面，而那層水膜正是細菌與黴菌起跑的條件。很多蔬菜保存的說法聽起來自相矛盾，原因就在這裡——你要讓一個活著的東西保持「潮而不濕、涼而不凍」。",
+   "mistake": "洗了才冰。殘留在生菜葉縫、青花菜花苞、香草莖束之間的水，是讓它們提早好幾天變黏的最主要原因。請在下鍋前才洗，不要在進冰箱前洗。",
+   "detail": "另外兩條規則幾乎處理掉剩下的問題。第一，讓會釋出乙烯的蘋果、香蕉、番茄、酪梨、瓜類遠離葉菜與青花菜等對乙烯敏感的蔬菜——乙烯是催熟荷爾蒙，會讓旁邊的東西泛黃變軟。第二，尊重那一小群「絕對不要冷藏」的蔬菜：馬鈴薯在低溫下會把澱粉轉成糖，油炸時發黑；洋蔥與大蒜在冰箱濕度下會軟化發霉；番茄低於約 12°C 就會失去香氣，而且回不來。"
+  }
+ },
+ "fruits": {
+  "en": {
+   "principle": "Fruit is split by one question: does it still ripen after picking? Climacteric fruit — bananas, avocados, mangoes, pears, peaches, tomatoes, melons — produces its own ethylene and goes on ripening on the counter, so it is bought hard and finished at room temperature. Non-climacteric fruit — berries, citrus, grapes, pineapple, cherries — stops developing the moment it is cut from the plant. It will never get sweeter, only older, so it goes straight into the cold.",
+   "mistake": "Refrigerating unripe climacteric fruit. Chilling a hard avocado, mango or peach does not pause it, it kills the ripening enzymes. The fruit softens unevenly, never develops flavour, and often goes mealy or black inside. Ripen first at room temperature, then refrigerate to hold it.",
+   "detail": "Berries have their own rule: they are thin-skinned, they mould fast, and the mould spreads by contact. Do not wash them until you eat them, keep them in a single shallow layer rather than piled in a deep punnet, and pull out any berry that has started to go — one soft raspberry will take the whole box within a day. Whole citrus is the most forgiving fruit in the kitchen and keeps for weeks in the crisper, but anything cut is a different food: the cut surface is wet, sugary and exposed, and it belongs in a covered container in the fridge within two hours."
+  },
+  "zh": {
+   "principle": "水果可以用一個問題分成兩類：採下來之後還會不會繼續熟？更年性水果——香蕉、酪梨、芒果、西洋梨、桃子、番茄、瓜類——會自己製造乙烯，離開樹之後還會在室溫繼續成熟，所以買的時候是硬的，要在室溫養熟。非更年性水果——莓果、柑橘、葡萄、鳳梨、櫻桃——在被摘下的那一刻就停止發育了，它不會再變甜，只會變老，所以要直接進冷藏。",
+   "mistake": "把還沒熟的更年性水果冰起來。把硬的酪梨、芒果、桃子放冰箱不是「按暫停」，而是直接殺死催熟酵素。果肉會熟得不均勻、風味出不來，內部常常變粉變黑。請先在室溫養熟，熟了再冷藏保住它。",
+   "detail": "莓果有自己的規則：皮薄、發霉快，而且黴菌靠接觸蔓延。吃之前才洗，攤成淺淺一層而不要堆在深盒裡，發現有一顆開始壞掉就立刻挑掉——一顆軟掉的覆盆子，一天之內可以帶走整盒。整顆的柑橘是廚房裡最好養的水果，放蔬果室可以撐好幾週；但切開之後就是另一種食材了：切面又濕、又甜、又暴露在外，兩小時內就該加蓋冷藏。"
+  }
+ },
+ "meat": {
+  "en": {
+   "principle": "Raw meat spoils from the surface inwards, because that is where the bacteria and the oxygen are. Everything that increases surface area shortens the safe window: a whole joint keeps longer than steaks, steaks keep longer than cubes, and cubes keep longer than mince. This is why minced beef gets 1–2 days in the fridge while a roasting joint gets 3–5, even though it is the same animal and the same fridge.",
+   "mistake": "Storing raw meat above ready-to-eat food. Raw meat drips, and the drip carries the pathogens. It belongs on the bottom shelf of the fridge, on a plate or tray, below everything that will not be cooked again — not in the door, and not above the salad drawer.",
+   "detail": "Freezing is where meat storage is most misunderstood. At −18 °C (0 °F) meat is safe indefinitely: the months quoted for each cut are about quality — fat going rancid, moisture escaping as freezer burn — not about safety. And thawing is a food-safety step in its own right, not a waiting step. Thaw in the fridge, in cold water changed every 30 minutes, or in the microwave straight into cooking. Meat left to thaw on the worktop spends hours with its surface in the 4–60 °C danger zone while the middle is still frozen, which is precisely the condition the two-hour rule exists to prevent."
+  },
+  "zh": {
+   "principle": "生肉是從表面往內壞的，因為細菌和氧氣都在表面。任何增加表面積的處理都會縮短安全期限：整塊肉比排肉耐放，排肉比切塊耐放，切塊又比絞肉耐放。同一頭牛、同一台冰箱，絞牛肉只有 1～2 天而整塊烤肉有 3～5 天，原因就在這裡。",
+   "mistake": "把生肉放在即食食物的上層。生肉會滴血水，而血水帶著病原菌。它應該放在冰箱最下層、墊盤子或托盤，位置低於所有不會再加熱的食物——不要放門邊，也不要放在蔬果保鮮室上方。",
+   "detail": "冷凍是肉類保存裡最容易被誤解的一段。在 −18°C 下，肉在安全性上可以無限期保存：各部位標示的月數講的是品質——油脂氧化、水分流失造成的凍燒——而不是安全。解凍則本身就是一道食安步驟，不是「等它退冰」而已。請用冷藏解凍、每 30 分鐘換水的冷水解凍，或微波後直接下鍋。放在流理台上解凍的肉，中心還結冰時表面已經在 4～60°C 的危險溫度帶待了好幾個小時——而那正是兩小時原則要防的情況。"
+  }
+ },
+ "poultry": {
+  "en": {
+   "principle": "Poultry gets the shortest fridge window of any raw meat — 1–2 days, whole or in pieces — and it is not because chicken rots faster. It is because of what tends to be on it. Campylobacter and Salmonella are common on raw poultry, the infectious dose is small, and both survive refrigeration perfectly well. The short window is a margin against pathogens, not against smell.",
+   "mistake": "Washing raw chicken. Rinsing does not remove bacteria; it aerosolises them, spraying droplets up to a metre across the sink, the taps and any food or cloth nearby. Cooking kills what is on the bird. Nothing kills what you have just sprayed onto the worktop.",
+   "detail": "Cook poultry to 74 °C (165 °F) throughout, measured at the thickest part away from bone — colour is not a reliable test, and pink meat near the bone in a properly cooked bird is a pigment effect, not undercooking. Cooked poultry then becomes a ready-to-eat food with its own clock: 3–4 days in the fridge, cooled quickly and stored shallow. Stuffing is the classic failure point, because it sits in the coldest part of the cavity and reaches temperature last; cook it separately, or check it reads 74 °C too."
+  },
+  "zh": {
+   "principle": "禽肉的冷藏期限是所有生肉裡最短的——不論整隻或分切都是 1～2 天——但原因不是雞肉比較容易腐敗，而是它身上常有的東西。生禽肉上常見曲狀桿菌與沙門氏菌，這兩種菌的感染劑量都很低，而且在冷藏溫度下活得好好的。這個短期限防的是病原菌，不是異味。",
+   "mistake": "沖洗生雞肉。沖水不會洗掉細菌，只會讓它霧化——水花可以噴到一公尺外的水槽、水龍頭，以及附近任何食物和抹布上。下鍋加熱可以殺死雞肉上的菌，但沒有任何東西會去殺你剛剛噴到流理台上的那些。",
+   "detail": "禽肉要全部加熱到 74°C，測量點取最厚處並避開骨頭——顏色不是可靠的判準，煮熟的雞靠近骨頭處帶粉紅是色素現象，不代表沒熟。煮熟的禽肉接著就變成即食食品，有自己的時鐘：快速冷卻、分裝淺盤冷藏，3～4 天內吃完。填料是最經典的破口，因為它位在腹腔最冷的位置、最晚達到溫度；請分開烹調，或確認填料本身也到 74°C。"
+  }
+ },
+ "seafood": {
+  "en": {
+   "principle": "Fish spoils faster than meat for a structural reason: its muscle is built for cold water, so the enzymes that break it down still work briskly at fridge temperature, and its fats are highly unsaturated and oxidise quickly. Most fresh fish gets 1–2 days in the fridge, and the coldest part of the fridge — not the door, not the middle shelf — is where it should sit, ideally on ice.",
+   "mistake": "Judging shellfish by the date instead of by the animal. Live clams, mussels and oysters must be alive when you cook them: discard any that stay open when tapped, and any whose shell is cracked. Storing them sealed in a plastic bag or submerged in fresh water suffocates them, and a bag of dead shellfish is dangerous regardless of how recently you bought it.",
+   "detail": "Two hazards are specific to seafood. Scombrotoxin — histamine — forms in tuna, mackerel, mahi-mahi and sardines that were allowed to warm after catch; it is not destroyed by cooking or freezing, so a peppery or metallic taste means stop eating, not cook it longer. And parasites in fish eaten raw are controlled by freezing, not by freshness: commercial sushi-grade fish has been held at −20 °C for 7 days or −35 °C for about 15 hours, which a domestic freezer at −18 °C cannot reliably reproduce."
+  },
+  "zh": {
+   "principle": "魚比肉壞得快，原因在結構：魚的肌肉是為冷水環境設計的，分解它的酵素在冷藏溫度下依然活躍；而且魚油高度不飽和，氧化得很快。大多數生鮮魚只有 1～2 天冷藏期限，而且要放在冰箱最冷的位置——不是門邊，也不是中層——最好還墊著冰。",
+   "mistake": "看日期而不看那隻動物本身。蛤蜊、淡菜、生蠔這類活貝，下鍋時必須還活著：敲一敲仍然張開不閉的、殼破掉的，一律丟棄。把牠們密封在塑膠袋裡或泡在淡水中會把牠們悶死，而一袋死掉的貝類，不管幾天前買的都有危險。",
+   "detail": "有兩種風險是海鮮專屬的。一是組織胺（鯖魚毒素）：鮪魚、鯖魚、鬼頭刀、沙丁魚在捕獲後若回溫就會生成，加熱和冷凍都破壞不了它，所以吃起來有胡椒味或金屬味時是「停止食用」，不是「再煮久一點」。二是生食魚類的寄生蟲，靠的是冷凍而不是新鮮度來控制：商用生食級魚貨經過 −20°C 七天或 −35°C 約 15 小時的處理，家用 −18°C 冷凍庫無法穩定複製這個條件。"
+  }
+ },
+ "dairy-eggs": {
+  "en": {
+   "principle": "Dairy is a near-perfect bacterial growth medium — wet, neutral, full of protein and sugar — so almost everything in this category depends on holding a genuinely cold temperature rather than on packaging. The one part of the fridge that is never cold enough is the door, which is exactly where most kitchens keep the milk and the eggs.",
+   "mistake": "Storing milk and eggs in the fridge door. The door swings into the room several times a day and runs several degrees warmer than the shelves. Milk kept there sours noticeably sooner, and eggs suffer from the repeated temperature swings. Both belong on an interior shelf, eggs in their original carton.",
+   "detail": "Eggs follow different rules in different countries and both are correct. Where eggs are washed at the packing station — the United States, Japan, Australia — the protective cuticle is gone and refrigeration is required from then on, without interruption. Where they are not washed, as across most of Europe, room-temperature storage is safe and refrigeration is optional; but once an egg has been chilled it must stay chilled, because condensation on a warming shell draws bacteria inward. Cheese splits by moisture: hard cheeses are a preservation technology and keep for weeks, while fresh high-moisture cheeses such as ricotta, queso fresco and mozzarella in brine are among the shortest-lived foods in the fridge and have a real Listeria history behind their short windows."
+  },
+  "zh": {
+   "principle": "乳製品幾乎是細菌的理想培養基——濕潤、中性、蛋白質與糖分充足——所以這一類食材幾乎全靠「真的夠冷」，而不是靠包裝。而冰箱裡永遠不夠冷的那一格，正是門邊；偏偏多數家庭就把牛奶和雞蛋放在那裡。",
+   "mistake": "把牛奶和雞蛋放在冰箱門邊。門每天要向室溫開合好幾次，溫度比層架高好幾度。放門邊的牛奶會明顯提早發酸，雞蛋則承受反覆的溫度起伏。兩者都應該放在內側層架上，雞蛋連原本的紙盒一起放。",
+   "detail": "雞蛋在不同國家有不同規則，而且兩種都正確。在包裝場會清洗雞蛋的國家——美國、日本、澳洲——保護性的外膜已經洗掉了，從那一刻起就必須全程冷藏、不能中斷。在不清洗的國家，例如歐洲多數地區，室溫保存是安全的，冷藏與否隨意；但只要冰過就必須一直冰著，因為蛋殼回溫時表面凝結的水珠會把細菌帶進蛋裡。起司則依水分含量分野：硬質起司本身就是一種保存技術，可以放上好幾週；而瑞可達、queso fresco、浸在鹽水裡的莫札瑞拉這類高水分新鮮起司，是冰箱裡壽命最短的食物之一，它們短促的期限背後有真實的李斯特菌病例史。"
+  }
+ },
+ "grains-beans-pasta": {
+  "en": {
+   "principle": "Dry grains, pulses and pasta are stable because they contain almost no free water, and they stay stable only as long as that is true. They do not really spoil in the microbiological sense; they fail in three other ways — they absorb moisture and go mouldy, they get into by pantry insects, or their oils go rancid. Which failure you get depends on whether the germ is still there.",
+   "mistake": "Treating wholegrain and refined the same way. White rice, white flour and white pasta keep for a year or more in a sealed jar. Brown rice, wholemeal flour, oats and cornmeal still contain the oil-rich germ, and that oil goes rancid at room temperature within months. Wholegrains belong in the fridge or freezer if you are not going to finish them quickly.",
+   "detail": "Cooked is a completely different food from dry. Cooked rice carries the site's sharpest single risk: Bacillus cereus survives boiling as a spore, and if the rice is left to cool slowly at room temperature those spores germinate and produce a toxin that reheating will not destroy. Cool cooked rice within an hour, spread shallow, refrigerate, and eat within a day. Dried beans are safe indefinitely but harden with age so that no amount of soaking will soften them — and raw or undercooked red kidney beans contain enough phytohaemagglutinin to cause violent illness, so they must be boiled hard for at least 10 minutes, never merely simmered in a slow cooker."
+  },
+  "zh": {
+   "principle": "乾燥的穀物、豆類與麵條之所以穩定，是因為它們幾乎不含自由水；而它們也只在這件事成立時才穩定。它們基本上不會以微生物的方式「腐敗」，而是以另外三種方式壞掉——吸濕發霉、被米蟲之類的倉儲害蟲侵入，或者油脂酸敗。會走哪一條路，取決於胚芽還在不在。",
+   "mistake": "把全穀和精製穀物當成同一種東西。白米、白麵粉、白麵條密封後可以放一年以上；但糙米、全麥麵粉、燕麥、玉米粉裡還留著富含油脂的胚芽，那些油在室溫下幾個月就會酸敗。全穀類如果不會很快吃完，請放冷藏或冷凍。",
+   "detail": "煮熟之後是完全不同的食材。煮熟的白飯是本站風險最尖銳的單一項目：仙人掌桿菌以孢子形態熬過沸水，若讓飯在室溫慢慢放涼，孢子就會萌發並產生毒素，而那個毒素再加熱也破壞不了。煮好的飯請在一小時內攤平放涼、冷藏，並在一天內吃完。乾豆在安全性上可以無限期保存，但放久了會硬到怎麼泡都煮不軟；而生的或沒煮透的紅腰豆含有足量的植物血球凝集素，會造成劇烈不適，所以必須大滾至少 10 分鐘，絕對不能只用慢燉鍋小火燜。"
+  }
+ },
+ "baked-goods": {
+  "en": {
+   "principle": "Bread has two enemies that pull storage in opposite directions, which is why bread advice sounds like it contradicts itself. Staling is starch recrystallising, and it runs fastest just above freezing — so the fridge makes bread go hard faster than the counter does. Mould needs moisture and warmth — so the counter grows mould faster than the fridge does. There is no setting that avoids both, which means you have to choose which one is coming for your loaf first.",
+   "mistake": "Refrigerating bread by default. For a loaf you will finish in two or three days the fridge is the worst choice available: it stales the bread faster than leaving it out, without the compensation of long life. Keep it at room temperature and, if it will not be eaten in time, freeze it. The freezer stops staling and mould at once.",
+   "detail": "Toasting reverses staling — the heat gelatinises the recrystallised starch again — but it does nothing whatsoever about mould, and mouldy bread should be discarded whole rather than cut around, because the visible spot is the fruiting body of a network already through the crumb. The exception to all of this is a humid kitchen in summer: if mould reliably beats staling in your house, the fridge genuinely is the right answer. High-fat enriched breads such as brioche and challah stale more slowly than a lean loaf, because the fat interferes with starch recrystallisation."
+  },
+  "zh": {
+   "principle": "麵包有兩個方向相反的敵人，這也是為什麼麵包的保存建議聽起來總是自相矛盾。老化（澱粉回凝）在略高於冰點時跑得最快——所以冰箱讓麵包變硬的速度比放在室溫還快。發霉則需要水分與溫暖——所以室溫長霉的速度又比冰箱快。沒有任何一個位置能同時避開兩者，你必須判斷哪一個會先找上你這條麵包。",
+   "mistake": "習慣性地把麵包冰起來。對於兩三天內會吃完的麵包，冷藏是最糟的選擇：它讓麵包比放在外面更快變硬，卻換不到更長的壽命。請放室溫；如果來不及吃完，就冷凍。冷凍會同時停掉老化和發霉。",
+   "detail": "烤過可以逆轉老化——熱會讓回凝的澱粉重新糊化——但對發霉完全無效；發霉的麵包要整條丟棄而不是切掉那一塊，因為看得見的霉點只是子實體，菌絲早已穿進整個麵包體。以上所有原則的例外，是夏天潮濕的廚房：如果在你家發霉穩定地跑贏老化，那冷藏就真的是對的答案。布里歐、哈拉這類高油脂的豐富麵包老化得比無油麵包慢，因為油脂會干擾澱粉回凝。"
+  }
+ },
+ "baking-staples": {
+  "en": {
+   "principle": "Most of this cupboard does not spoil at all. Sugar, salt and bicarbonate of soda are chemically stable and will outlive the packet; the dates on them are about clumping and potency, not safety. What actually fails here is leavening power and fat. Baking powder loses its lift, yeast dies, and anything containing nut or wholegrain oil goes rancid.",
+   "mistake": "Assuming a leavener still works because it is in date. Baking powder loses strength once opened, and a flat cake is the usual way people find out. Test it: half a teaspoon in hot water should fizz vigorously and immediately. For bicarbonate of soda, use vinegar instead of water.",
+   "detail": "Humidity is the other quiet enemy of this shelf. Sugar clumps, salt cakes, flour absorbs moisture and takes on cupboard smells, and cornflour loses its thickening cleanliness. None of that is a safety problem, but all of it is prevented by the same thing: decant into genuinely airtight containers as soon as you get home, and keep them away from the kettle, the hob and the sink, where steam collects. Nuts and nut flours are the exception that needs cold — almond flour and ground nuts go rancid within a couple of months in a warm cupboard and belong in the freezer."
+  },
+  "zh": {
+   "principle": "這個櫃子裡大部分東西根本不會壞。糖、鹽、小蘇打在化學上都很穩定，會比包裝袋活得更久；上面的日期講的是結塊與效力，不是安全。這裡真正會失效的是膨發力和油脂：泡打粉會失去膨脹力、酵母會死掉，而任何含有堅果油或全穀油脂的東西都會酸敗。",
+   "mistake": "以為還在有效期限內，膨發劑就一定有效。泡打粉開封後就會逐漸失去力量，而多數人是靠「蛋糕發不起來」才發現的。請直接測試：半茶匙倒進熱水裡，應該立刻劇烈冒泡。小蘇打則改用醋來測。",
+   "detail": "濕氣是這一層架上另一個安靜的敵人。糖會結塊、鹽會結硬、麵粉會吸濕並染上櫥櫃氣味、玉米粉會失去乾淨的勾芡力。這些都不是安全問題，但預防方法是同一個：買回家就立刻換裝到真正密封的容器，並且遠離熱水壺、爐台和水槽這些會聚集蒸氣的地方。堅果與堅果粉是需要低溫的例外——杏仁粉和磨碎的堅果在溫暖櫥櫃裡兩三個月就會酸敗，應該放冷凍。"
+  }
+ },
+ "condiments-sauces": {
+  "en": {
+   "principle": "Condiments keep because something in them is hostile to bacteria: acid in vinegar and mustard, salt in soy and fish sauce, sugar in jam, or oil excluding air. That is why an unopened bottle is shelf-stable for a year or more. Opening changes the arithmetic — air, moisture and a used spoon all go in — and most of the refrigerate-after-opening instructions on labels are about quality and about the dilution of that hostile environment, not about immediate danger.",
+   "mistake": "Double-dipping, and the used knife. Introducing crumbs, saliva or raw-food residue into a jar seeds it with organisms the preservative system was never designed to hold back. It is the most common reason a jam grows mould or a mayonnaise goes off long before its date. Use a clean spoon, every time.",
+   "detail": "The genuinely dangerous corner of this category is home preserving. Low-acid foods bottled at home — garlic or herbs in oil, home-canned vegetables, fermented pastes made without enough salt — are the classic vehicle for Clostridium botulinum, which grows without oxygen and produces a toxin you cannot see, smell or taste. Garlic in oil must be refrigerated and used within days, or acidified; never kept on the counter. Commercially produced versions are formulated and processed to prevent exactly this, which is why the same food can carry very different instructions depending on who made it."
+  },
+  "zh": {
+   "principle": "調味料能放，是因為裡面有某種對細菌不友善的東西：醋和芥末的酸、醬油和魚露的鹽、果醬的糖，或是油隔絕了空氣。這就是未開封的瓶子可以常溫放一年以上的原因。開封會改變這套算式——空氣、水氣和用過的湯匙都進去了——而標籤上「開封後冷藏」多半是為了品質、以及那個不友善環境被稀釋，而不是代表立即的危險。",
+   "mistake": "沾了又沾，還有用過的刀子。把麵包屑、口水或生食殘渣帶進罐子裡，等於替它接種了一批防腐配方原本沒打算對付的菌。果醬長霉、美乃滋還沒到期就壞掉，最常見的原因就是這個。每一次都用乾淨的湯匙。",
+   "detail": "這一類裡真正危險的角落是自家醃漬保存。在家瓶裝的低酸性食物——泡在油裡的蒜頭或香草、自製罐頭蔬菜、鹽分不足的發酵醬料——是肉毒桿菌的經典載體；它在無氧環境中生長，產生的毒素看不見、聞不到、也嚐不出來。蒜頭泡油必須冷藏並在幾天內用完，或經過酸化處理，絕對不可以擺在室溫。市售版本在配方與製程上就是為了防這件事，所以同一種食物由誰製造，說明會差非常多。"
+  }
+ },
+ "herbs-spices": {
+  "en": {
+   "principle": "Dried herbs and spices do not go off; they go quiet. They are too dry to support microbial growth, so the question is never safety but potency — the volatile aromatic compounds that make them worth using evaporate and oxidise. Whole spices hold those compounds inside an intact structure and keep their character for a year or two; ground spices have vastly more surface exposed and fade within months.",
+   "mistake": "Shaking the jar over a steaming pan. Every shake sends a plume of hot, wet air up into the jar, and that moisture is what makes spices cake, clump and eventually grow mould in a product that should never have been able to. Measure into your hand or a spoon away from the heat.",
+   "detail": "Light and heat do the rest of the damage, which is why the worst place in any kitchen for spices is the rack above the hob, however convenient it looks. A cool, dark cupboard roughly doubles useful life. Fresh herbs are an entirely different problem and behave like leafy vegetables: soft-stemmed herbs such as coriander, parsley and mint keep best standing in a little water with a loose bag over the top, while woody rosemary and thyme prefer to be wrapped in a slightly damp cloth in the fridge. Basil is the odd one out — it is tropical and turns black below about 10 °C, so it stays on the counter."
+  },
+  "zh": {
+   "principle": "乾燥的香草與香料不會壞，只會變啞。它們乾到無法支持微生物生長，所以問題從來不是安全而是香氣強度——讓它們值得使用的那些揮發性芳香物質會蒸散、氧化。整粒香料把這些成分鎖在完整結構裡，風味可以撐一兩年；研磨過的香料暴露面積大得多，幾個月就淡了。",
+   "mistake": "拿著罐子在冒煙的鍋子上方灑。每抖一次，就有一股又熱又濕的空氣衝進罐子裡，而那些水氣正是香料結塊、結餅，最後甚至長霉的原因——那本來是不該發生在香料上的事。請離開爐火，量到手心或湯匙上再下鍋。",
+   "detail": "剩下的傷害來自光與熱，所以廚房裡最糟的香料位置就是爐台上方那個看起來最順手的層架。放在陰涼避光的櫥櫃，大致可以讓可用期限翻倍。新鮮香草則是完全不同的問題，行為比較像葉菜：香菜、巴西利、薄荷這類軟莖香草，立在一點水裡、上面鬆套一個袋子最能撐；迷迭香、百里香這類木質香草則喜歡用微濕的布包起來冷藏。羅勒是例外——它是熱帶植物，低於約 10°C 就會發黑，所以要放在室溫。"
+  }
+ },
+ "oils-fats": {
+  "en": {
+   "principle": "Fats fail by oxidation, not by microbial spoilage. Oxygen, light and heat break the fatty acids down into the aldehydes and ketones we recognise as rancid — a smell like old crayons, putty or wet cardboard. Nothing about that process is stopped by a sealed cap alone, and how fast it runs depends on how unsaturated the oil is.",
+   "mistake": "Keeping the oil next to the hob in a clear bottle. That is heat and light together, the two accelerants, applied continuously. A dark cupboard away from the cooker can easily double an oil's useful life, and buying a size you will finish within a few months does the rest.",
+   "detail": "Polyunsaturated oils — walnut, flaxseed, hemp, and to a lesser degree sunflower and grapeseed — oxidise fastest and genuinely belong in the fridge once opened. Olive oil sits in the middle and does not need refrigeration; it will cloud and solidify when cold, which is harmless and reverses at room temperature. Coconut oil and other highly saturated fats are the most stable of all. Butter is not really an oil for storage purposes: it contains water and milk solids, which is why it needs refrigeration while a bottle of oil does not, and why clarified butter and ghee — with the water and solids removed — keep for months without it."
+  },
+  "zh": {
+   "principle": "油脂是以氧化的方式壞掉，不是微生物腐敗。氧氣、光和熱會把脂肪酸分解成醛類和酮類，也就是我們認得的油耗味——像舊蠟筆、油灰或濕紙箱的氣味。光靠旋緊瓶蓋完全阻止不了這個過程，而它跑多快，取決於這支油的不飽和程度有多高。",
+   "mistake": "把透明瓶裝的油放在爐台旁邊。那是熱與光這兩個加速劑同時、持續地作用。換到遠離爐火的暗櫥櫃，很容易就讓一支油的可用壽命翻倍；再加上「買你幾個月內用得完的容量」，就處理掉大半問題了。",
+   "detail": "多元不飽和油——核桃油、亞麻仁油、大麻籽油，以及程度稍輕的葵花油、葡萄籽油——氧化最快，開封後確實該放冷藏。橄欖油位在中間，不需要冷藏；低溫下會混濁凝固，這無害，回到室溫就會恢復。椰子油等高飽和脂肪則是最穩定的。奶油在保存上其實不算油：它含有水分和乳固形物，這就是為什麼它需要冷藏而一瓶油不用，也是為什麼去掉水分與固形物的澄清奶油和酥油可以不冷藏放上好幾個月。"
+  }
+ },
+ "shelf-stable": {
+  "en": {
+   "principle": "Shelf-stable food is food that has had one of the things microbes need taken away — water, by drying; oxygen and living organisms, by canning; or neutral pH, by acidification. As long as that barrier holds, the food is safe more or less indefinitely, and the printed date is about texture, colour and vitamin content rather than danger. The whole category therefore lives or dies on whether the barrier is intact.",
+   "mistake": "Keeping a can after it has gone. A can that is bulging, leaking, badly rusted through, or that spurts when opened has lost its seal, and a swollen can specifically can mean gas produced by Clostridium botulinum. Do not taste it to check — the toxin is undetectable by taste or smell. Discard it unopened where nobody will eat it.",
+   "detail": "Dented cans are worth understanding properly rather than fearing. A shallow dent in the body is harmless; a sharp crease, or any dent on a seam, can fracture the seal invisibly and should be treated as suspect. Once a can is opened its contents are ordinary refrigerated leftovers with a 3–4 day life, and high-acid contents such as tomatoes or pineapple should be moved out of the tin, since the acid attacks the metal once air is present. Store the whole category cool and dry: a cupboard at 10–21 °C roughly doubles quality life compared with a hot one above the cooker."
+  },
+  "zh": {
+   "principle": "常溫保存食品，是被拿走了微生物所需條件之一的食品——乾燥拿走水分，罐藏拿走氧氣與活菌，酸化拿走中性的 pH 值。只要那道屏障還完好，食物在安全上大致可以無限期保存，上面印的日期講的是口感、顏色和維生素含量，而不是危險。所以整個類別的生死，就看那道屏障完不完整。",
+   "mistake": "留著已經失效的罐頭。膨脹、滲漏、嚴重鏽穿，或是打開時會噴出來的罐頭，都已經失去密封；而膨罐特別可能代表肉毒桿菌產生的氣體。不要靠嚐味道來確認——這種毒素嚐不出也聞不到。請連罐一起丟到不會有人去吃的地方。",
+   "detail": "凹罐值得正確理解，而不是一律害怕。罐身上淺淺的凹陷無害；但銳利的折痕，或任何位在接縫上的凹陷，都可能造成看不見的密封破損，應該視為可疑。罐頭一旦開封，裡面就是普通的冷藏剩菜，壽命 3～4 天；番茄、鳳梨這類高酸性內容物開封後要移出鐵罐，因為有空氣之後酸會侵蝕金屬。整個類別請放在陰涼乾燥處：10～21°C 的櫥櫃，品質壽命大約是爐台上方那種高溫位置的兩倍。"
+  }
+ },
+ "snacks-nuts-seeds": {
+  "en": {
+   "principle": "Nuts and seeds are mostly oil, and that oil is what limits their life. They do not usually become unsafe; they become rancid, which is an oxidation reaction driven by air, light, heat and time. Because the damage is cumulative and invisible, most people are eating stale nuts without registering it — the taste drifts slowly from sweet to flat to faintly like paint.",
+   "mistake": "Keeping shelled nuts in the cupboard for months. A shell is excellent packaging, and nuts in shell keep two to three times as long as shelled ones. Once shelled — and especially once chopped or ground, which exposes far more surface — nuts belong in the fridge or freezer, where they keep about a year rather than a few months.",
+   "detail": "Nuts freeze extremely well and do not need thawing before use, which makes the freezer the default rather than a last resort for anything you buy in bulk. Two specific risks are worth knowing. Aflatoxin, produced by moulds on poorly stored peanuts, pistachios and tree nuts, is a genuine carcinogen and is not destroyed by roasting, so any nut that is visibly mouldy, shrivelled or discoloured should be discarded rather than picked over. And crisps, biscuits and crackers fail by the opposite mechanism to everything else here: they go soft rather than dry out, because they are drier than the air around them and pull moisture in."
+  },
+  "zh": {
+   "principle": "堅果和種子大部分是油，而那些油決定了它們的壽命。它們通常不會變得不安全，而是會走向油耗——那是由空氣、光、熱和時間推動的氧化反應。因為傷害是累積的而且看不見，多數人其實正在吃不新鮮的堅果卻沒察覺：味道從香甜慢慢變得平淡，最後帶著一點油漆味。",
+   "mistake": "把去殼堅果放在櫥櫃裡好幾個月。殼是非常好的包裝，帶殼堅果可以放到去殼的兩三倍久。一旦去殼——尤其是切碎或磨粉之後，暴露面積大增——堅果就該進冷藏或冷凍，那裡是一年左右，而不是幾個月。",
+   "detail": "堅果非常適合冷凍，而且使用前不需要解凍，所以對於大量購買的堅果，冷凍應該是預設做法而不是最後手段。有兩個風險值得知道。一是黃麴毒素：保存不當的花生、開心果與樹生堅果上的黴菌會產生它，那是確認的致癌物，而且烘烤破壞不了它——所以任何明顯發霉、乾癟或變色的堅果，請整批丟棄而不是挑掉壞的。二是洋芋片、餅乾這類零食的失敗機制和這裡其他東西相反：它們是變軟而不是變乾，因為它們比周圍空氣更乾燥，會主動把水氣吸進來。"
+  }
+ },
+ "beverages": {
+  "en": {
+   "principle": "Drinks divide cleanly by whether they have been pasteurised and whether they are acidic. A sealed carton of shelf-stable juice or UHT milk has been heat-treated and is sterile until opened; fresh unpasteurised juice and raw milk are not, and carry a real pathogen risk that refrigeration slows but does not remove. Once any of them is opened, the clock is the same for all: air and organisms are in, and what was a sealed system becomes a fridge item with days rather than months.",
+   "mistake": "Drinking straight from the bottle and putting it back. Backwash introduces mouth bacteria into a container that will then sit at fridge temperature for days. It is the reason a carton of juice sometimes turns before its date while an identical unopened one is fine. Pour into a glass.",
+   "detail": "Wine and spirits behave differently from each other and from everything else here. Spirits above about 20% alcohol are microbiologically stable and effectively do not spoil, though they slowly lose aroma once opened. Wine is an oxidation problem: an opened bottle is a race against air, three to five days for most reds and whites with the cork back in and refrigerated, and considerably less for anything sparkling. Home-brewed and unpasteurised drinks such as kombucha keep fermenting in the fridge, which is why bottles can build pressure — open them over a sink and burp them if they are stored long."
+  },
+  "zh": {
+   "principle": "飲料可以用「有沒有殺菌」和「酸不酸」乾淨地分類。密封的常溫果汁或保久乳經過熱處理，在開封前是無菌的；現榨未殺菌果汁和生乳則不是，它們帶有真實的病原菌風險，冷藏只能減緩而不能消除。但只要開了封，所有飲料的時鐘都一樣：空氣和微生物已經進去了，原本密封的系統變成一個以「天」而非「月」計算的冷藏品。",
+   "mistake": "對嘴喝完再放回去。回流會把口腔細菌帶進容器，而這個容器接下來要在冷藏溫度下放好幾天。同樣的果汁，開過的那瓶有時還沒到期就壞了、沒開的那瓶卻好好的，原因就在這裡。請倒到杯子裡喝。",
+   "detail": "葡萄酒和烈酒彼此不同，也和這裡其他東西都不同。酒精濃度約 20% 以上的烈酒在微生物上是穩定的，實際上不會壞，只是開封後香氣會慢慢流失。葡萄酒則是氧化問題：開了的瓶子是在跟空氣賽跑，多數紅白酒塞回軟木塞並冷藏約三到五天，氣泡酒則短得多。康普茶這類自釀或未殺菌飲料在冰箱裡仍持續發酵，所以瓶內會累積壓力——放久的請在水槽上方開瓶，並先洩壓。"
+  }
+ },
+ "frozen-foods": {
+  "en": {
+   "principle": "At −18 °C (0 °F) microbial growth stops completely. That single fact governs the whole category: frozen food held properly is safe indefinitely, and every duration published for a frozen item is a quality window, not a safety deadline. What degrades is texture and flavour — ice crystals rupturing cell walls, and moisture escaping to the coldest surface as freezer burn.",
+   "mistake": "Refreezing food that was thawed on the counter. Food thawed in the fridge and still cold may be refrozen, with some quality loss. Food that has warmed to room temperature has had hours for bacteria to multiply, and refreezing preserves that population rather than removing it — it does not reset anything.",
+   "detail": "Freezer burn is not a safety problem and the food is still edible; it is dehydration, and it is prevented by packaging that actually excludes air rather than by lower temperatures. Freeze in portions you will use at once, press the air out, and label with the date, because everything looks identical under frost after two months. The other silent failure is the door: a freezer that is opened frequently, or a drawer packed so full the door cannot seal, runs above −18 °C and quietly converts the safety guarantee into a quality countdown. After a power cut, food with ice crystals still present or at 4 °C or below can be refrozen; anything that has been above 4 °C for more than two hours should be discarded."
+  },
+  "zh": {
+   "principle": "在 −18°C 下，微生物生長完全停止。這一個事實主宰整個類別：妥善保持的冷凍食品在安全上可以無限期保存，而所有冷凍品項標示的期限都是品質窗口，不是安全期限。會退化的是口感和風味——冰晶撐破細胞壁，以及水分逸散到最冷表面形成的凍燒。",
+   "mistake": "把在室溫解凍過的食物再冰回去。在冷藏解凍、而且仍然冰冷的食物可以再冷凍，只是品質打折。但已經回到室溫的食物，已經給了細菌好幾個小時繁殖；再冷凍只是把那批菌保存下來，不會清掉它們，什麼也沒有重置。",
+   "detail": "凍燒不是安全問題，食物仍然可以吃；那是脫水現象，要靠「真的能隔絕空氣的包裝」來防，而不是靠更低的溫度。請按一次會用完的份量分裝、把空氣壓出來、並標上日期——因為結霜兩個月之後，每一包看起來都一模一樣。另一個安靜的破口是門：頻繁開關的冷凍庫，或塞到門關不緊的抽屜，實際溫度會高於 −18°C，悄悄把安全保證變成品質倒數。停電之後，仍有冰晶或維持在 4°C 以下的食物可以再冷凍；在 4°C 以上超過兩小時的則應該丟棄。"
+  }
+ },
+ "deli-prepared": {
+  "en": {
+   "principle": "Everything in this category has already been cooked or handled and will be eaten without further cooking. That removes the final kill step, so there is nothing after storage to correct a mistake made during it. This is why ready-to-eat food carries shorter windows than the raw ingredients it was made from, even though it looks more finished and more stable.",
+   "mistake": "Cooling a big batch in a deep container. A stockpot of soup or a full tray of rice put straight into the fridge can sit for hours in the 4–60 °C danger zone at its centre while the outside is cold. Divide into shallow containers no more than about 5 cm deep, and aim to be through the danger zone within two hours.",
+   "detail": "Deli meats and soft cheeses carry a specific Listeria risk that sets them apart from other leftovers. Listeria is unusual in that it grows slowly even at fridge temperature, so time in the cold is not a complete defence, and it is dangerous enough in pregnancy and for immunocompromised people that those groups are advised to heat deli meats until steaming before eating. For leftovers generally the working rule is 3–4 days in the fridge, reheated to 74 °C (165 °F) throughout and only once — and the two-hour rule applies to every minute the food spends on the table, not only to the time before it went in."
+  },
+  "zh": {
+   "principle": "這一類的東西都已經煮過或經手處理過，而且會直接食用、不再加熱。這代表最後一道殺菌步驟已經沒有了，保存過程中出的錯，後面沒有任何機會補救。這就是為什麼即食食品的期限比它的生鮮原料還短——儘管它看起來更完成、更穩定。",
+   "mistake": "用深容器放涼一大鍋。一整鍋湯或一整盤飯直接進冰箱，外圍已經冷了，中心卻可能在 4～60°C 的危險溫度帶裡待上好幾個小時。請分裝到深度不超過約 5 公分的淺容器，目標是兩小時內通過危險溫度帶。",
+   "detail": "熟食肉片與軟質起司帶有特定的李斯特菌風險，這讓它們有別於其他剩菜。李斯特菌的特別之處在於，即使在冷藏溫度下它仍會緩慢生長，所以「冰著」不是完整的防線；它對孕婦和免疫力低下者危險到足以建議這些族群把熟食肉片加熱到冒蒸氣再吃。至於一般剩菜，實用的規則是冷藏 3～4 天，整份復熱到 74°C，而且只復熱一次——兩小時原則計算的是食物在桌上的每一分鐘，不只是進冰箱之前那段。"
+  }
+ },
+ "vegetarian-proteins": {
+  "en": {
+   "principle": "Plant proteins split into two opposite groups, and confusing them is where most storage mistakes come from. Fresh, high-moisture, low-acid products — tofu, tempeh, seitan, fresh soy milk — are among the most perishable foods in the fridge, because they are neutral, wet and protein-rich with nothing hostile to bacteria in them at all. Fermented and dried products — miso, natto, dried bean curd, textured vegetable protein — are preserved by salt, acid, live culture or dryness and last for months.",
+   "mistake": "Keeping opened tofu in its original water, or in nothing at all. Once the pack is opened the water is no longer sterile. Drain it, cover the block with fresh cold water in a sealed container, and change that water daily; it will keep three to five days instead of going sour and slimy in two.",
+   "detail": "Fermented soy foods need a different mental model: they are alive, and the culture is doing the preserving. Miso is salty enough to be effectively shelf-stable and merely darkens with age. Natto continues to ferment slowly in the fridge and develops a stronger ammonia note over time, which is why its chiller temperature matters more than its date. Freezing works well for firm tofu but changes it fundamentally — ice crystals leave a chewy, spongy texture that soaks up sauce, which is either the point or a disaster depending on the dish, and it is not reversible."
+  },
+  "zh": {
+   "principle": "植物性蛋白分成兩個相反的群組，而多數保存錯誤都來自把它們混為一談。新鮮、高水分、低酸性的產品——豆腐、天貝、麵筋、現做豆漿——是冰箱裡最容易壞的食物之一，因為它們中性、濕潤、富含蛋白質，而且完全沒有任何對細菌不友善的成分。發酵與乾燥的產品——味噌、納豆、豆皮、組織化植物蛋白——則靠鹽、酸、活菌或乾燥保存，可以放好幾個月。",
+   "mistake": "開封後的豆腐繼續泡在原本的水裡，或乾脆不泡。包裝一打開，那盒水就不再是無菌的了。請倒掉，把豆腐放進密封容器、加乾淨冷水蓋過，並每天換水；這樣可以放三到五天，而不是兩天就發酸變黏。",
+   "detail": "發酵豆製品需要另一套思考模型：它們是活的，而且正是那些菌在做保存工作。味噌鹹到實質上可以常溫保存，放久了只是顏色變深。納豆在冷藏中仍緩慢發酵，時間久了氨味會變重——所以對它來說，冷藏櫃的溫度比日期更重要。冷凍對板豆腐很有效，但會從根本改變它：冰晶會留下有嚼勁的海綿狀組織，很會吸醬汁；這在某些菜色裡正是目的，在另一些裡則是災難，而且不可逆。"
+  }
+ },
+ "baby-food": {
+  "en": {
+   "principle": "Baby food is held to a stricter standard than adult food for two reasons that have nothing to do with the food itself: an infant's immune system is immature, and the infectious dose that makes a baby ill is far smaller than the dose an adult would shrug off. Every margin in this category is therefore deliberately tight, and the usual adult habit of stretching a date or trusting a smell does not transfer.",
+   "mistake": "Feeding from the jar and keeping the rest. Saliva on the spoon carries mouth bacteria and digestive enzymes straight into the food, and the remainder then spoils quickly however cold it is kept. Spoon a portion into a separate bowl, feed from that, and discard whatever is left in the bowl after the feed.",
+   "detail": "Two absolute rules override everything else. Never give honey, in any form or quantity, to a child under twelve months: Clostridium botulinum spores that are harmless to adults can germinate in an infant gut and cause infant botulism. And never reheat a bottle or a jar in the microwave — it heats unevenly and leaves scalding pockets that the surface temperature does not reveal; stand it in warm water and shake or stir before testing. Prepared formula and expressed breast milk have their own short, specific windows, and a bottle a baby has already drunk from should be used within an hour or discarded."
+  },
+  "zh": {
+   "principle": "嬰兒食品被用比成人食品更嚴格的標準對待，原因有兩個，而且都與食物本身無關：嬰兒的免疫系統還沒成熟，而讓嬰兒生病所需的感染劑量，遠低於成人不痛不癢就撐過去的量。因此這一類的每一道安全餘裕都是刻意抓緊的，成人那套「延一下日期」「聞聞看沒問題」的習慣，在這裡完全不適用。",
+   "mistake": "拿餵過的湯匙從罐子裡繼續舀，然後把剩下的留著。湯匙上的口水會把口腔細菌和消化酵素直接帶進食物裡，剩下的部分不管冰得多冷都會很快壞掉。請先舀一份到另一個碗，用那個碗餵，餵完後碗裡剩的一律丟掉。",
+   "detail": "有兩條絕對規則凌駕一切。第一，未滿十二個月的幼兒，不可以給蜂蜜，任何形式、任何份量都不行：對成人無害的肉毒桿菌孢子，可以在嬰兒腸道中萌發並造成嬰兒肉毒桿菌中毒。第二，絕對不要用微波爐加熱奶瓶或副食品罐——微波受熱不均，會留下表面溫度察覺不到的燙點；請隔溫水加熱，搖勻或攪拌後再試溫。沖泡好的配方奶和擠出的母乳各有自己短而明確的期限，而寶寶已經喝過的那瓶，一小時內沒喝完就要倒掉。"
+  }
+ }
+}

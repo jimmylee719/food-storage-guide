@@ -92,6 +92,7 @@ async function main() {
   // Sample every kind of page in the three non-English locales.
   const paths = [
     '', '/foods', '/guides', '/food-safety', '/methodology', '/about', '/privacy', '/terms', '/contact',
+    '/corrections',
     '/category/seafood', '/category/vegetables', '/category/herbs-spices', '/category/condiments-sauces',
     '/food/salmon', '/food/mackerel', '/food/durian', '/food/natto', '/food/queso-fresco',
     // Foods with no article yet: these render straight from the data, which is

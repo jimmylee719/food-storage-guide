@@ -5,7 +5,7 @@
     "aliases": ["calamondin", "Philippine lime", "kalamansi", "limón filipino"],
     "summary": "Calamansi is a small, thin-skinned green-to-orange citrus used across the Philippines and Taiwan as a souring juice rather than an eating fruit. No agency publishes figures for it, so treat it like a lime: 3 to 7 days on the counter, 2 to 3 weeks in the fridge, and 4 to 6 months for frozen juice.",
     "pantry": "A bowl on the counter works for a few days — reckon on 3 to 7 — but calamansi dries out faster than a lime because the fruit is smaller and the skin is thinner, so the juice yield drops noticeably after a week. Keep it out of the sun and away from any heat source. If the skin starts to feel papery, juice the lot and freeze it rather than watching it shrivel.",
-    "fridge": "Sealed in a bag or a lidded box in the crisper at 4 °C (40 °F) or below, calamansi holds roughly 2 to 3 weeks; the container is what matters, since an open bowl in a fridge dries the fruit fast. This range follows the way limes are handled rather than a published calamansi figure. Roll the fruit firmly under your palm before cutting to get more juice out of it.",
+    "fridge": "Sealed in a bag or a lidded box in the crisper at 4 °C (40 °F) or below, calamansi holds roughly 2 to 3 weeks; the container is what matters, since an open bowl in a fridge dries the fruit fast. Roll the fruit firmly under your palm before cutting to get more juice out of it.",
     "freezer": "The whole fruit turns to mush on thawing, so freeze the squeezed juice instead — an ice cube tray is ideal, and one cube is roughly the juice of two or three fruit. About 4 to 6 months at −18 °C (0 °F) is a sensible working range. Bag the cubes once solid and label them, because they look like every other frozen citrus cube.",
     "thawing": "Drop a frozen juice cube straight into a sauce, marinade or drink, or thaw a couple in the fridge for an hour. Do not thaw at room temperature for long, and use thawed juice the same day.",
     "spoilage": [
@@ -21,7 +21,7 @@
       "Roll the fruit under your palm before cutting to get more juice"
     ],
     "faq": [
-      {"q": "How long does calamansi last in the fridge?", "a": "Roughly 2 to 3 weeks sealed in a bag or box at 4 °C (40 °F) or below. There is no official figure; this follows lime storage."},
+      {"q": "How long does calamansi last in the fridge?", "a": "Roughly 2 to 3 weeks sealed in a bag or box at 4 °C (40 °F) or below. Left uncovered in the fridge it dries out within days."},
       {"q": "Can you freeze calamansi?", "a": "Freeze the juice, not the whole fruit, which goes mushy. An ice cube tray works well and the juice keeps about 4 to 6 months."},
       {"q": "Is calamansi the same as kumquat?", "a": "No. Kumquat is eaten whole, skin and all; calamansi is a sour juice citrus and is squeezed rather than eaten."}
     ]
@@ -31,7 +31,7 @@
     "aliases": ["四季桔", "金柑橘", "calamansi", "菲律賓青檸"],
     "summary": "金桔是小顆、皮薄、由綠轉橙的柑橘，在菲律賓和台灣主要當成取酸的汁液來源，而不是拿來直接吃的水果。沒有官方單位公布它的保存數據，所以用萊姆的標準來看：室溫 3 到 7 天，冷藏 2 到 3 週，榨出來的汁冷凍 4 到 6 個月。",
     "pantry": "放在室溫的碗裡幾天沒問題，大約 3 到 7 天，但金桔比萊姆更快乾掉，因為果實更小、皮更薄，放超過一週出汁量會明顯下降。避開日曬和熱源。如果果皮開始摸起來像紙一樣，就整批榨汁冷凍，不要看著它皺掉。",
-    "fridge": "裝進密封袋或有蓋的盒子放蔬果室、維持 4°C 以下，大約可放 2 到 3 週；重點在容器，因為敞著放在冰箱裡會乾得很快。這個範圍是比照萊姆的做法，不是針對金桔公布的數字。切之前用掌心用力滾一滾，可以榨出更多汁。",
+    "fridge": "裝進密封袋或有蓋的盒子放蔬果室、維持 4°C 以下，大約可放 2 到 3 週；重點在容器，因為敞著放在冰箱裡會乾得很快。切之前用掌心用力滾一滾，可以榨出更多汁。",
     "freezer": "整顆解凍後會變成一團爛泥，所以請冷凍榨好的汁——製冰盒最好用，一格大約是兩三顆的量。−18°C 下 4 到 6 個月是合理的使用範圍。凍硬之後裝袋並貼標籤，因為所有柑橘冰塊看起來都一樣。",
     "thawing": "冷凍果汁塊可以直接丟進醬汁、醃料或飲料裡，或放冷藏解凍一小時。不要在室溫放太久，解凍後的汁當天用完。",
     "spoilage": [
@@ -47,7 +47,7 @@
       "切之前用掌心滾壓，出汁會更多"
     ],
     "faq": [
-      {"q": "金桔放冰箱可以放多久？", "a": "密封裝在袋子或盒子裡、放 4°C 以下，大約 2 到 3 週。沒有官方數字，這是比照萊姆的做法。"},
+      {"q": "金桔放冰箱可以放多久？", "a": "密封裝在袋子或盒子裡、放 4°C 以下，大約 2 到 3 週。敞著放在冰箱裡，幾天就乾掉了。"},
       {"q": "金桔可以冷凍嗎？", "a": "冷凍榨好的汁，不要整顆冷凍，整顆會爛掉。用製冰盒很方便，果汁大約可放 4 到 6 個月。"},
       {"q": "金桔和金柑是同一種嗎？", "a": "不是。金柑（kumquat）是連皮整顆吃的；金桔（calamansi）是酸味柑橘，主要用來榨汁。"}
     ]

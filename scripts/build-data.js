@@ -87,6 +87,30 @@ for (const raw of all) {
     content: c ? { zh: c.zh, en: c.en, ja: c.ja, es: c.es } : null,
   });
 }
+// Whether a food's numbers actually rest on the FoodKeeper dataset. A record
+// read straight out of the dataset does; so does one split out of a dataset
+// row, and one that borrowed its figures from a food that did. A curated
+// record researched from agency guidance does NOT, and must not cite a dataset
+// that has no row for it: doing so would put a false citation on every one of
+// the 384 foods the dataset never covered.
+const foodKeeperSlugs = new Set(base.map((f) => f.slug));
+const bySlug = new Map(foods.map((f) => [f.slug, f]));
+function restsOnFoodKeeper(f, seen) {
+  if (!f) return false;
+  seen = seen || new Set();
+  if (seen.has(f.slug)) return false;
+  seen.add(f.slug);
+  if (f.source === 'usda-foodkeeper' || f.derivedFrom) return true;
+  if (f.analog) {
+    // An analog target missing from the list is a dataset row that was split
+    // and retired, so it still counts as the dataset.
+    if (!bySlug.has(f.analog)) return foodKeeperSlugs.has(f.analog);
+    return restsOnFoodKeeper(bySlug.get(f.analog), seen);
+  }
+  return false;
+}
+for (const f of foods) f.usesFoodKeeper = restsOnFoodKeeper(f);
+
 foods.sort((a, b) => a.slug.localeCompare(b.slug));
 
 // ---- search indexes ----------------------------------------------------

@@ -3,10 +3,10 @@
   "en": {
     "name": "Herring in wine sauce (jarred)",
     "aliases": ["pickled herring", "herring in wine sauce", "marinated herring", "jarred herring", "rollmops"],
-    "summary": "Herring in wine sauce is pickled herring fillets sold in glass jars from the refrigerated case, cured in a vinegar, wine and spice brine. Keep the jar refrigerated and it lasts 4–6 months from purchase. USDA gives no freezer timeline, and freezing is not recommended because the brine and texture suffer.",
+    "summary": "Herring in wine sauce is pickled herring fillets sold in glass jars from the refrigerated case, cured in a vinegar, wine and spice brine. Keep the jar refrigerated and it lasts 4–6 months from purchase. Do not freeze it: the brine separates and the fillets go mushy.",
     "pantry": "Although it comes in a sealed jar, refrigerated pickled herring is not shelf-stable and must be kept cold. Take it out only to serve and put it back within 2 hours, or 1 hour if the room is above 32 °C (90 °F). Do not store the jar in a cupboard.",
     "fridge": "Keep the jar at or below 4 °C (40 °F) and use it within 4–6 months of purchase, checking the printed date. Once opened, keep the fillets fully submerged in the brine, reseal the lid tightly, and always use a clean fork to remove pieces. Store it on a shelf rather than in the door so the temperature stays steady.",
-    "freezer": "USDA gives no freezer timeline for jarred herring in wine sauce, and freezing is not recommended. The vinegar brine and onions separate, the fillets turn mushy, and a full glass jar can crack as the liquid expands. With 4–6 months of fridge life, freezing is rarely necessary.",
+    "freezer": "Freezing jarred herring in wine sauce is not recommended. The vinegar brine and onions separate, the fillets turn mushy, and a full glass jar can crack as the liquid expands. With 4–6 months of fridge life, freezing is rarely necessary.",
     "thawing": null,
     "spoilage": [
       "Cloudy, slimy or stringy brine, or bubbles and fizzing when opened",
@@ -29,10 +29,10 @@
   "zh": {
     "name": "酒漬鯡魚（玻璃罐裝）",
     "aliases": ["醃鯡魚", "酒醋漬鯡魚", "北歐醃漬鯡魚", "鯡魚罐", "醃青魚"],
-    "summary": "酒漬鯡魚是用醋、酒和香料滷汁醃製的鯡魚片，裝在玻璃罐裡放在冷藏櫃販售。整罐冷藏保存，自購買日起可放 4～6 個月。美國農業部沒有提供冷凍期限，也不建議冷凍，因為滷汁和口感都會變差。",
+    "summary": "酒漬鯡魚是用醋、酒和香料滷汁醃製的鯡魚片，裝在玻璃罐裡放在冷藏櫃販售。整罐冷藏保存，自購買日起可放 4～6 個月。不要冷凍：滷汁會分離，魚片也會變軟爛。",
     "pantry": "雖然是密封玻璃罐，冷藏販售的醃鯡魚並不是常溫保存的食品，必須保持低溫。拿出來上桌後 2 小時內要放回冰箱，室溫高於 32 °C 時 1 小時內。不要把罐子放在櫥櫃裡。",
     "fridge": "罐子放在 4 °C 以下冷藏，購買後 4～6 個月內吃完，並查看包裝上的日期。開封後讓魚片完全浸在滷汁裡，蓋子鎖緊，每次都用乾淨的叉子夾取。放在層架上而不是冰箱門邊，溫度比較穩定。",
-    "freezer": "美國農業部沒有提供罐裝酒漬鯡魚的冷凍期限，也不建議冷凍。醋滷汁和洋蔥會分離、魚片變軟爛，滿罐的玻璃瓶還可能因液體膨脹而裂開。冷藏可以放 4～6 個月，其實沒有冷凍的必要。",
+    "freezer": "罐裝酒漬鯡魚不建議冷凍。醋滷汁和洋蔥會分離、魚片變軟爛，滿罐的玻璃瓶還可能因液體膨脹而裂開。冷藏可以放 4～6 個月，其實沒有冷凍的必要。",
     "thawing": null,
     "spoilage": [
       "滷汁變混濁、黏稠或拉絲，開罐時冒泡或有氣體聲",

@@ -3,9 +3,9 @@
   "en": {
     "name": "Tomatoes",
     "aliases": ["cherry tomatoes", "beefsteak tomatoes", "plum tomatoes", "vine tomatoes", "salad tomatoes"],
-    "summary": "Tomatoes ripen at room temperature and, once ripe, keep about 7 days on the counter. USDA recommends pantry storage, because refrigeration may affect the flavour and dull the texture. For longer keeping, whole tomatoes freeze for about 2 months from the date of purchase.",
+    "summary": "Tomatoes ripen at room temperature and, once ripe, keep about 7 days on the counter. Keep them in the pantry: refrigeration flattens the flavour and dulls the texture. For longer keeping, whole tomatoes freeze for about 2 months from the date of purchase.",
     "pantry": "Keep tomatoes on the counter, stem-side down, out of direct sunlight, until ripe — tender, fully developed and ready to eat — and then use them within about 7 days. Do not crowd them in a bowl or stack them, since the weight bruises the fruit underneath. Ripen firm tomatoes faster by putting them in a paper bag with a banana.",
-    "fridge": "USDA recommends pantry storage for tomatoes, noting that refrigeration may affect flavour. Cold below about 10 °C stops the aroma compounds developing and makes the flesh mealy. If you must refrigerate very ripe tomatoes to buy a day or two, take them out an hour before eating to let the flavour come back.",
+    "fridge": "Tomatoes belong in the pantry, because refrigeration costs them flavour. Cold below about 10 °C stops the aroma compounds developing and makes the flesh mealy. If you must refrigerate very ripe tomatoes to buy a day or two, take them out an hour before eating to let the flavour come back.",
     "freezer": "Tomatoes freeze for about 2 months from purchase at −18 °C (0 °F). Wash, dry and freeze them whole on a tray, then bag them; the skins slip off easily under warm water once frozen. Thawed tomatoes are soft and watery, so use them for sauces, soups and stews rather than salads.",
     "thawing": "Add frozen tomatoes straight to a simmering sauce or soup, or run them under warm water for a few seconds to slip off the skins before chopping. Do not expect them to be firm after thawing.",
     "spoilage": [
@@ -21,7 +21,7 @@
       "Keep tomatoes away from cucumbers and leafy greens, which their ethylene ages"
     ],
     "faq": [
-      {"q": "Should you keep tomatoes in the fridge?", "a": "USDA recommends pantry storage, because refrigeration may affect flavour. Keep them on the counter until ripe and then use them within about 7 days."},
+      {"q": "Should you keep tomatoes in the fridge?", "a": "No — refrigeration costs them flavour. Keep them on the counter until ripe and then use them within about 7 days."},
       {"q": "Can you freeze tomatoes?", "a": "Yes. Freeze them whole on a tray and then bag them; they keep about 2 months from purchase at −18 °C (0 °F) and are ideal for sauces and soups."},
       {"q": "How do you ripen tomatoes faster?", "a": "Put them in a paper bag with a banana at room temperature. The ethylene the banana releases usually ripens them within a day or two."}
     ]
@@ -29,9 +29,9 @@
   "zh": {
     "name": "番茄",
     "aliases": ["西紅柿", "小番茄", "牛番茄", "聖女番茄", "柑仔蜜"],
-    "summary": "番茄在室溫下後熟，熟了之後常溫大約可以再放 7 天。USDA 建議常溫保存，因為冷藏可能影響風味、也會讓口感變鈍。想放更久的話，整顆番茄放 −18°C 冷凍，從購買日起約可保存 2 個月。",
+    "summary": "番茄在室溫下後熟，熟了之後常溫大約可以再放 7 天。請常溫保存：冷藏會壓掉風味，也讓口感變鈍。想放更久的話，整顆番茄放 −18°C 冷凍，從購買日起約可保存 2 個月。",
     "pantry": "番茄放在檯面上、蒂頭朝下、避開陽光直射，直到成熟——變軟、風味完整、可以入口——之後大約在 7 天內吃完。不要堆疊或塞滿一整碗，上層的重量會壓傷下面的果實。想加速後熟的話，把還硬的番茄和香蕉一起放進紙袋。",
-    "fridge": "USDA 建議番茄以常溫保存，並指出冷藏可能影響風味。低於約 10°C 會讓香氣物質停止生成，果肉口感也會變粉。如果實在需要冷藏過熟的番茄多撐一兩天，吃之前先拿出來放一小時，風味會回來一些。",
+    "fridge": "番茄該放常溫，因為冷藏會讓風味打折。低於約 10°C 會讓香氣物質停止生成，果肉口感也會變粉。如果實在需要冷藏過熟的番茄多撐一兩天，吃之前先拿出來放一小時，風味會回來一些。",
     "freezer": "番茄放 −18°C 冷凍，從購買日起約可保存 2 個月。洗淨擦乾後整顆鋪盤冷凍，再裝袋；冷凍過的番茄用溫水沖一下，皮很容易就剝下來。解凍後質地軟爛出水，所以適合做醬汁、湯品和燉菜，不適合做沙拉。",
     "thawing": "冷凍番茄可以直接丟進滾著的醬汁或湯裡，或是用溫水沖幾秒把皮剝掉再切。解凍後不要期待它還是硬實的。",
     "spoilage": [
@@ -47,7 +47,7 @@
       "番茄要遠離小黃瓜和葉菜，它的乙烯會加速那些蔬菜老化"
     ],
     "faq": [
-      {"q": "番茄要放冰箱嗎？", "a": "USDA 建議常溫保存，因為冷藏可能影響風味。放在檯面上直到成熟，之後大約 7 天內吃完。"},
+      {"q": "番茄要放冰箱嗎？", "a": "不要，冷藏會讓風味打折。放在檯面上直到成熟，之後大約 7 天內吃完。"},
       {"q": "番茄可以冷凍嗎？", "a": "可以。整顆鋪盤冷凍後裝袋，放 −18°C，從購買日起約可保存 2 個月，很適合做醬汁和湯。"},
       {"q": "怎麼讓番茄快點熟？", "a": "和香蕉一起放進紙袋、置於室溫。香蕉釋放的乙烯通常一兩天內就能催熟。"}
     ]

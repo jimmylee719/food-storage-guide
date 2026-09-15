@@ -11,7 +11,7 @@
   "summary": "A fresh lye-dipped soft pretzel is a same-morning food: 4–12 hours at room temperature, unwrapped. Do not refrigerate it. Frozen at −18 °C (0 °F) it holds 1–2 months, and reheating from frozen is the only thing that genuinely brings it back.",
   "pantry": "4–12 hours, unwrapped, and it deteriorates faster than any other bread on this site. Two things work against it at once. The lye bath leaves a thin, deeply browned skin that goes leathery the moment the crumb's moisture migrates outward, and the coarse salt on top is hygroscopic — it pulls water out of the air and dissolves into wet patches. Wrapping makes it soggy; not wrapping makes it dry, so there is no winning move except eating it. This figure is our own quality judgement, not a published number and not a safety limit: a day-old pretzel is perfectly safe, it is just no longer worth eating.",
   "fridge": "No. Cold accelerates staling in a lean dough — starch retrogradation runs fastest just above freezing — and a pretzel is about as lean as bread gets, with no fat or sugar to buffer it. The fridge would only be worth considering in a hot humid kitchen where mould wins first, and a pretzel goes leathery long before it moulds, so that trade never arrives. No refrigerated timeline is given here for exactly that reason.",
-  "freezer": "1–2 months at −18 °C (0 °F), and it is the one thing that works. Freeze them the hour they cool, bagged with the air pressed out, and reheat from frozen in a hot oven for six to eight minutes; brush with a little water and re-salt if the salt has dissolved. Kept continuously frozen they stay safe well beyond that — the window describes drying and freezer burn, not safety. Commercially frozen pretzels are a different, purpose-packed product with a much longer published window of its own.",
+  "freezer": "1–2 months at −18 °C (0 °F), and it is the one thing that works. Freeze them the hour they cool, bagged with the air pressed out, and reheat from frozen in a hot oven for six to eight minutes; brush with a little water and re-salt if the salt has dissolved. Kept continuously frozen they stay safe well beyond that — the window describes drying and freezer burn, not safety. Commercially frozen pretzels are a different, purpose-packed product and keep far longer.",
   "thawing": "Reheat from frozen in a hot oven. Do not thaw first: a thawed pretzel is limp, and the salt will already have drawn water to the surface.",
   "spoilage": [
    "A skin gone leathery and bendy instead of thin and crisp.",
@@ -28,7 +28,7 @@
   "faq": [
    {
     "q": "How long does a fresh soft pretzel stay good?",
-    "a": "4–12 hours at room temperature, unwrapped. That is a quality judgement rather than a published figure — it stays safe far longer, it just stops being good."
+    "a": "4–12 hours at room temperature, unwrapped. It stays safe far longer than that; it just stops being good."
    },
    {
     "q": "Can you freeze soft pretzels?",
@@ -52,7 +52,7 @@
   "summary": "剛出爐的鹼水扭結麵包是「當天早上」的食物：室溫不包、4～12 小時。不要冷藏。−18 °C 冷凍可放 1～2 個月，而從冷凍直接回烤是唯一真正救得回來的方法。",
   "pantry": "不要包，室溫 4～12 小時；它退步的速度比本站任何一種麵包都快。有兩件事同時在跟它作對：鹼水浴留下的那層薄而深褐的外皮，只要內裡的水分往外跑就立刻變得韌韌的；而表面的粗鹽會吸濕——它從空氣裡抓水，然後化成一塊一塊的濕斑。包起來會變軟爛，不包會變乾，所以除了趕快吃掉之外沒有別的解法。這個數字是我們自己的品質判斷，不是公布的數據，也不是安全期限：放了一天的鹼水結完全安全，只是不值得吃了。",
   "fridge": "不要。低溫會加速瘦麵團的老化——澱粉回凝在略高於冰點時最快——而鹼水結大概是最瘦的麵包，沒有油脂也沒有糖可以緩衝。只有在又熱又濕、霉會先贏的廚房裡才需要考慮冷藏，而鹼水結在長霉之前老早就韌掉了，所以那個交換根本輪不到。這裡不給冷藏期限，原因正是如此。",
-  "freezer": "−18 °C 下 1～2 個月，而這是唯一行得通的辦法。放涼的那一小時內裝袋、壓掉空氣冷凍，要吃時直接從冷凍進高溫烤箱烤六到八分鐘；表面刷一點水，鹽化掉了就補撒一點粗鹽。只要全程沒退冰就一直是安全的——這個期限描述的是變乾和凍燒，不是安全。市售冷凍鹼水結是另一種為冷凍而設計的產品，有它自己長得多的公布期限。",
+  "freezer": "−18 °C 下 1～2 個月，而這是唯一行得通的辦法。放涼的那一小時內裝袋、壓掉空氣冷凍，要吃時直接從冷凍進高溫烤箱烤六到八分鐘；表面刷一點水，鹽化掉了就補撒一點粗鹽。只要全程沒退冰就一直是安全的——這個期限描述的是變乾和凍燒，不是安全。市售冷凍鹼水結是另一種為冷凍而設計的產品，可以放得久得多。",
   "thawing": "直接從冷凍進高溫烤箱。不要先解凍：解凍過的鹼水結會軟塌，而且鹽早就把水拉到表面來了。",
   "spoilage": [
    "外皮變得韌而可彎，不再是薄而脆的狀態。",
@@ -69,7 +69,7 @@
   "faq": [
    {
     "q": "現烤鹼水扭結麵包可以放多久？",
-    "a": "室溫不包、4～12 小時。這是品質判斷而不是公布的數字——它安全上可以放久得多，只是已經不好吃了。"
+    "a": "室溫不包、4～12 小時。它在安全上可以放久得多，只是已經不好吃了。"
    },
    {
     "q": "鹼水扭結麵包可以冷凍嗎？",

@@ -5,7 +5,7 @@
     "aliases": ["egg fruit", "yellow sapote", "zapote amarillo", "huevo vegetal"],
     "summary": "Canistel, or egg fruit, is a deep-orange tropical fruit whose dense, dry flesh has the texture of a hard-boiled yolk. No agency publishes storage figures for it, so treat it like other sapotes: 3 to 10 days ripening at room temperature, about 3 to 5 days in the fridge once soft, and roughly 3 to 6 months for frozen flesh.",
     "pantry": "Ripen canistel at room temperature until the skin is deep orange and the fruit gives all over — anywhere from 3 to 10 days depending on how green it was picked. Unripe canistel is chalky and astringent and there is no shortcut, so leave it alone somewhere cool and out of the sun and check it daily. A paper bag with a banana speeds it up if you are impatient.",
-    "fridge": "Refrigerate only once the fruit is soft, and reckon on about 3 to 5 days as a working limit borrowed from other sapotes rather than a published figure. The flesh is dry and dense to begin with and cold air dries it further, so wrap the fruit or keep the scooped flesh in a covered tub at 4 °C (40 °F) or below. Do not chill hard fruit: cold stalls the ripening and you end up with an astringent, permanently firm fruit.",
+    "fridge": "Refrigerate only once the fruit is soft, and reckon on about 3 to 5 days as a working limit. The flesh is dry and dense to begin with and cold air dries it further, so wrap the fruit or keep the scooped flesh in a covered tub at 4 °C (40 °F) or below. Do not chill hard fruit: cold stalls the ripening and you end up with an astringent, permanently firm fruit.",
     "freezer": "Mashed flesh freezes reasonably well; about 3 to 6 months at −18 °C (0 °F) is a sensible working range rather than an official figure. Scoop the flesh from the skin, remove the large glossy seeds, mash it smooth and pack it flat in bags with the air pressed out. It is best used afterwards in custards, ice cream, milkshakes and quick breads, where its yolk-like texture is an advantage.",
     "thawing": "Thaw the mashed flesh overnight in the fridge and use it the same day, or beat it into a batter straight from frozen. Do not thaw on the counter.",
     "spoilage": [
@@ -22,7 +22,7 @@
     ],
     "faq": [
       {"q": "How do you know when canistel is ripe?", "a": "The skin turns deep orange and the fruit gives all over to gentle pressure. Firm fruit is chalky and astringent."},
-      {"q": "How long does canistel last in the fridge?", "a": "About 3 to 5 days once soft. There is no published figure; this follows the handling of other sapotes."},
+      {"q": "How long does canistel last in the fridge?", "a": "About 3 to 5 days once soft. Wrap the fruit, or keep the scooped flesh covered, because cold air dries the dense flesh further."},
       {"q": "Can you freeze canistel?", "a": "Yes, as mashed deseeded flesh, for roughly 3 to 6 months. It is best used in baking, custards and shakes afterwards."}
     ]
   },
@@ -31,7 +31,7 @@
     "aliases": ["仙桃", "獅頭果", "雞蛋果（蛋黃果）", "canistel"],
     "summary": "蛋黃果是深橙色的熱帶水果，果肉緻密乾爽，口感就像水煮蛋的蛋黃。沒有官方單位公布它的保存數據，所以用其他 sapote 類水果的標準來看：室溫催熟 3 到 10 天，軟了之後冷藏約 3 到 5 天，果肉冷凍大約 3 到 6 個月。",
     "pantry": "把蛋黃果放在室溫催熟，直到果皮轉為深橙、整顆按下去都會凹為止，依採收時的青熟程度大約 3 到 10 天。沒熟的蛋黃果又澀又粉，沒有捷徑，就是放在陰涼避光處每天檢查。真的等不及，可以用紙袋和一根香蕉一起悶著加速。",
-    "fridge": "軟了才冷藏，以約 3 到 5 天為使用上限——這是借用其他 sapote 類水果的做法，不是公布的數字。它的果肉本來就乾而密，冷空氣會讓它更乾，所以整顆要包起來，或把挖出來的果肉裝盒蓋好放 4°C 以下。硬果不要冰：低溫會讓它停止後熟，最後就是一顆永遠硬澀的果實。",
+    "fridge": "軟了才冷藏，以約 3 到 5 天為使用上限。它的果肉本來就乾而密，冷空氣會讓它更乾，所以整顆要包起來，或把挖出來的果肉裝盒蓋好放 4°C 以下。硬果不要冰：低溫會讓它停止後熟，最後就是一顆永遠硬澀的果實。",
     "freezer": "壓成泥的果肉冷凍效果還不錯，−18°C 下 3 到 6 個月是合理的使用範圍，不是官方數字。挖出果肉、去掉大顆光亮的種子、壓成細泥，平鋪裝袋擠出空氣。之後最適合用在卡士達、冰淇淋、奶昔和快速麵包上，它蛋黃般的質地反而是優點。",
     "thawing": "果肉泥放冷藏隔夜解凍並當天用完，或冷凍狀態直接打進麵糊裡。不要放室溫解凍。",
     "spoilage": [
@@ -48,7 +48,7 @@
     ],
     "faq": [
       {"q": "蛋黃果要怎麼看熟了沒？", "a": "果皮轉深橙、整顆輕壓會凹就是熟了。還硬的時候口感粉粉的而且會澀。"},
-      {"q": "蛋黃果放冰箱可以放多久？", "a": "軟了之後約 3 到 5 天。沒有公布的數字，這是比照其他 sapote 類水果的做法。"},
+      {"q": "蛋黃果放冰箱可以放多久？", "a": "軟了之後約 3 到 5 天。整顆要包好，或把挖出來的果肉蓋好，否則冷空氣會讓本來就乾的果肉更乾。"},
       {"q": "蛋黃果可以冷凍嗎？", "a": "可以，去籽壓成泥冷凍，大約 3 到 6 個月，之後最適合拿來烘焙、做卡士達或奶昔。"}
     ]
   },

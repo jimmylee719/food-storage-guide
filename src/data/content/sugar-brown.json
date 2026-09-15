@@ -3,7 +3,7 @@
   "en": {
     "name": "Brown sugar",
     "aliases": ["soft brown sugar", "light brown sugar", "dark brown sugar", "muscovado", "demerara"],
-    "summary": "Brown sugar is granulated sugar coated with molasses, which is what gives it its colour, its caramel flavour and its tendency to harden. Sugar itself never spoils, so brown sugar keeps indefinitely in the pantry, though for best quality use it within about 2 years of opening — USDA gives 18–24 months after opening.",
+    "summary": "Brown sugar is granulated sugar coated with molasses, which is what gives it its colour, its caramel flavour and its tendency to harden. Sugar itself never spoils, so brown sugar keeps indefinitely in the pantry, though for best quality use it within about 2 years of opening; 18–24 months is the usual window.",
     "pantry": "Keep brown sugar in an airtight container in a cool, dry cupboard. It does not spoil, but the molasses coating dries out and the sugar sets into a brick, so an airtight seal matters more here than for white sugar. For best quality use it within 18–24 months of opening. A slice of apple or a piece of bread in the container for a day will soften a hardened block.",
     "fridge": "Refrigeration is unnecessary and actually speeds up hardening, because the dry, cold air pulls moisture out of the molasses. Brown sugar also readily absorbs fridge odours. A sealed container in the cupboard is much better.",
     "freezer": "Freezing brown sugar is not needed since it does not spoil, but a well-sealed bag in the freezer does keep a large bag soft. Let it come fully to room temperature before opening so condensation does not make it sticky.",
@@ -21,7 +21,7 @@
       "Pack brown sugar firmly into the cup when measuring, as recipes assume this"
     ],
     "faq": [
-      {"q": "Does brown sugar go bad?", "a": "No. Sugar does not spoil. For best quality use it within about 2 years of opening; USDA gives an 18–24 month window after opening."},
+      {"q": "Does brown sugar go bad?", "a": "No. Sugar does not spoil. For best quality use it within about 2 years of opening; 18–24 months is the usual window."},
       {"q": "How do you soften hard brown sugar?", "a": "Put a slice of apple or a piece of bread in the sealed container overnight, or microwave the sugar with a damp paper towel over it for about 20 seconds."},
       {"q": "Should brown sugar be refrigerated?", "a": "No. The cold, dry air makes it harden faster and it picks up fridge odours. Keep it in an airtight container in the cupboard."}
     ]
@@ -29,7 +29,7 @@
   "zh": {
     "name": "紅糖／黑糖",
     "aliases": ["黑糖", "二砂", "赤砂糖", "黃糖", "黑糖粉"],
-    "summary": "紅糖是包覆著糖蜜的砂糖，糖蜜帶來它的顏色、焦糖香氣，也是它容易結硬塊的原因。糖本身不會腐敗，所以紅糖常溫可以無限期保存；不過為了風味，建議在開封後約 2 年內用完，USDA 給的參考是開封後 18～24 個月。",
+    "summary": "紅糖是包覆著糖蜜的砂糖，糖蜜帶來它的顏色、焦糖香氣，也是它容易結硬塊的原因。糖本身不會腐敗，所以紅糖常溫可以無限期保存；不過為了風味，建議在開封後約 2 年內用完；一般抓的是開封後 18～24 個月。",
     "pantry": "紅糖請裝在密封容器裡，放在陰涼乾燥的櫥櫃。它不會壞，但表面的糖蜜會變乾，整包硬成一塊磚，所以密封對紅糖比對白砂糖更重要。品質最好的期限是開封後 18～24 個月。硬掉的話，在容器裡放一片蘋果或一小塊麵包，放一天就會軟回來。",
     "fridge": "不需要冷藏，冷藏反而會讓它更快變硬，因為冰箱裡乾冷的空氣會把糖蜜裡的水分抽走。紅糖也很會吸冰箱的味道。密封放在櫥櫃好得多。",
     "freezer": "紅糖不會腐敗，所以不需要冷凍，但如果是大包裝，密封冷凍確實能維持柔軟。取出後要完全回到室溫再開封，以免結露變得黏糊。",
@@ -47,7 +47,7 @@
       "量取時要把紅糖壓實，因為食譜通常是以壓實的份量計算"
     ],
     "faq": [
-      {"q": "紅糖會過期嗎？", "a": "不會，糖本身不會腐敗。為了風味建議開封後約 2 年內用完，USDA 給的參考是 18～24 個月。"},
+      {"q": "紅糖會過期嗎？", "a": "不會，糖本身不會腐敗。為了風味建議開封後約 2 年內用完；一般抓的是 18～24 個月。"},
       {"q": "紅糖結成硬塊怎麼辦？", "a": "在密封容器裡放一片蘋果或一小塊麵包過夜，或是蓋上微濕的廚房紙巾微波約 20 秒。"},
       {"q": "紅糖需要冷藏嗎？", "a": "不需要。冰箱乾冷的空氣會讓它更快變硬，還會吸到異味。密封放在櫥櫃就好。"}
     ]

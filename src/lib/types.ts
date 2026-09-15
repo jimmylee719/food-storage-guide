@@ -42,6 +42,8 @@ export type Food = {
   category: string;
   source: string;
   sourceRefs: SourceRef[] | null;
+  /** Whether the storage figures actually rest on the FoodKeeper dataset. */
+  usesFoodKeeper: boolean;
   analog: string | null;
   correction: { reason: Record<string, string>; evidence: Record<string, string> } | null;
   derivedFrom: string | null;

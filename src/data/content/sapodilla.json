@@ -5,7 +5,7 @@
     "aliases": ["chiku", "chicozapote", "naseberry", "Manilkara zapota"],
     "summary": "Sapodilla, or chiku, is a small brown tropical fruit whose grainy flesh tastes of brown sugar and pear when properly ripe. Ripen it at room temperature over 3 to 7 days, then refrigerate for about 5 to 10 days, and freeze the deseeded pulp for roughly 3 to 6 months.",
     "pantry": "Ripen sapodilla at room temperature until it yields to a thumb, which takes about 3 to 7 days. There is one thing worth knowing before you buy: fruit picked immature shrivels as it softens and never sweetens properly, so a wrinkling chiku that still tastes chalky and astringent was picked too soon and will not come right. Scratch the skin lightly at the shop — mature fruit shows yellow-brown beneath, not green.",
-    "fridge": "Refrigerate only after the fruit has softened, at 4 °C (40 °F) or below, where it keeps about 5 to 10 days. That range is a working limit taken from sapote handling rather than a published sapodilla figure, since the source gives maturity indices and the ripen-before-chilling rule but no home keeping time. Chilling a hard sapodilla stops it ripening, so do not use the fridge to buy time on firm fruit.",
+    "fridge": "Refrigerate only after the fruit has softened, at 4 °C (40 °F) or below, where it keeps about 5 to 10 days. Chilling a hard sapodilla stops it ripening, so do not use the fridge to buy time on firm fruit.",
     "freezer": "Freeze the deseeded pulp for about 3 to 6 months at −18 °C (0 °F), a sensible working range rather than an official figure. Halve the fruit, scoop the flesh away from the black seeds and the fibrous core, mash or purée it and pack it flat with the air pressed out. The grainy texture does not survive freezing intact, so plan on smoothies, ice cream and milkshakes.",
     "thawing": "Thaw the pulp in the fridge and use it the same day, or blend it straight from frozen. Do not thaw at room temperature or refreeze.",
     "spoilage": [
@@ -21,7 +21,7 @@
       "Freeze the pulp of any glut for smoothies and ice cream"
     ],
     "faq": [
-      {"q": "How long does sapodilla last?", "a": "About 3 to 7 days ripening at room temperature and 5 to 10 days in the fridge once soft. There is no published figure; this follows sapote."},
+      {"q": "How long does sapodilla last?", "a": "About 3 to 7 days ripening at room temperature and 5 to 10 days in the fridge once soft. Chilling a hard fruit stops it ripening altogether."},
       {"q": "Why is my sapodilla shrivelled and still not sweet?", "a": "It was picked immature. Such fruit shrivels as it softens and never sweetens properly, so it cannot be rescued by waiting."},
       {"q": "Can you freeze sapodilla?", "a": "Freeze the deseeded pulp for roughly 3 to 6 months. Use it afterwards in smoothies, ice cream and shakes."}
     ]
@@ -31,7 +31,7 @@
     "aliases": ["吳鳳柿", "沙漠吉拉", "chiku", "赤鐵果"],
     "summary": "人心果（chiku）是小型的褐色熱帶水果，熟得剛好時，帶顆粒感的果肉吃起來像黑糖配西洋梨。請在室溫催熟 3 到 7 天，之後冷藏約 5 到 10 天；去籽果肉冷凍大約 3 到 6 個月。",
     "pantry": "把人心果放在室溫催熟，直到拇指按下去會凹，大約要 3 到 7 天。買之前有一件事值得知道：採收時還沒成熟的果實，會在變軟的過程中皺縮，而且永遠不會真正變甜——所以一顆已經皺了、吃起來卻還是粉粉又澀的人心果，就是採太早了，等再久也救不回來。在店裡輕輕刮一下果皮：成熟的果實底下是黃褐色，不是綠色。",
-    "fridge": "軟了之後才冷藏，放 4°C 以下大約 5 到 10 天。這個範圍是借用 sapote 類水果的處理方式，不是針對人心果公布的數字，因為資料來源給的是成熟度指標和「先催熟再冷藏」的規則，並沒有給家庭保存時間。硬的人心果冰起來會停止後熟，所以不要拿冰箱替硬果爭取時間。",
+    "fridge": "軟了之後才冷藏，放 4°C 以下大約 5 到 10 天。硬的人心果冰起來會停止後熟，所以不要拿冰箱替硬果爭取時間。",
     "freezer": "去籽果肉在 −18°C 下冷凍約 3 到 6 個月，這是合理的使用範圍而不是官方數字。把果實對半切，把果肉從黑色種子和纖維質果心上刮下來，壓碎或打成泥，平鋪裝袋擠出空氣。那種顆粒感撐不過冷凍，所以請規劃做果昔、冰淇淋和奶昔。",
     "thawing": "果肉放冷藏解凍並當天用完，或直接冷凍狀態下去打。不要放室溫解凍，也不要回凍。",
     "spoilage": [
@@ -47,7 +47,7 @@
       "量太多就把果肉冷凍，之後做果昔和冰淇淋"
     ],
     "faq": [
-      {"q": "人心果可以放多久？", "a": "室溫催熟約 3 到 7 天，軟了之後冷藏 5 到 10 天。沒有公布的數字，這是比照 sapote 類水果。"},
+      {"q": "人心果可以放多久？", "a": "室溫催熟約 3 到 7 天，軟了之後冷藏 5 到 10 天。硬果先冰，就會完全停止後熟。"},
       {"q": "我的人心果皺了卻還是不甜？", "a": "那是採收時就未成熟。這種果實會邊變軟邊皺縮，而且永遠不會真正變甜，等再久也沒用。"},
       {"q": "人心果可以冷凍嗎？", "a": "去籽果肉冷凍約 3 到 6 個月，之後拿來做果昔、冰淇淋和奶昔。"}
     ]

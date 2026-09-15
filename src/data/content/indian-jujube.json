@@ -5,7 +5,7 @@
     "aliases": ["ber", "Taiwan jujube", "apple jujube", "manzanita", "Ziziphus mauritiana"],
     "summary": "The Indian jujube is the crisp green winter fruit sold across Taiwan as 棗子, eaten fresh out of hand like a small apple rather than dried like a red date. No agency publishes storage figures for it, so treat it like an apple: about 3 to 7 days at room temperature and 2 to 4 weeks in the fridge.",
     "pantry": "Keep it out of the sun and out of a warm kitchen. At room temperature it lasts about 3 to 7 days, and the failure mode is dehydration rather than rot: the skin wrinkles and the flesh goes mealy and loses its crunch. If your fruit has arrived very firm and glossy, a couple of days out is fine, but there is nothing to be gained by ripening it further — this fruit is picked ready.",
-    "fridge": "Bag them loosely in the crisper at 4 °C (40 °F) or below and reckon on 2 to 4 weeks. That range follows the way apples are handled rather than a published jujube figure, and it matches how the fruit behaves: the crunch is the first thing to go, long before the fruit is unsafe. Keep them away from ethylene-heavy neighbours like ripe bananas, and do not wash them until you eat.",
+    "fridge": "Bag them loosely in the crisper at 4 °C (40 °F) or below and reckon on 2 to 4 weeks. The crunch is the first thing to go, long before the fruit is unsafe. Keep them away from ethylene-heavy neighbours like ripe bananas, and do not wash them until you eat.",
     "freezer": "There is no established freezer timeline, and freezing does not suit this fruit at all. The whole appeal is the crisp, watery crunch, and ice crystals destroy it — a thawed jujube is limp and slightly grainy. If you have a glut, stew or candy the fruit instead, or dry it, which is what happens to the related Chinese jujube.",
     "thawing": "Not applicable — this fruit is not worth freezing. Use up a glut by stewing, candying or drying it instead.",
     "spoilage": [
@@ -21,7 +21,7 @@
       "Eat the crisp ones first; softening fruit is better stewed than raw"
     ],
     "faq": [
-      {"q": "How long does Indian jujube last in the fridge?", "a": "Roughly 2 to 4 weeks, bagged at 4 °C (40 °F) or below. There is no official figure; this follows apple storage."},
+      {"q": "How long does Indian jujube last in the fridge?", "a": "Roughly 2 to 4 weeks, bagged at 4 °C (40 °F) or below. The crunch goes first, long before the fruit is unsafe."},
       {"q": "Can you freeze Indian jujube?", "a": "It is not worth freezing. The crunch is the whole point and it does not survive. Stew, candy or dry a glut instead."},
       {"q": "Is this the same as a red date?", "a": "No. Red dates are dried Chinese jujube (Ziziphus jujuba); this is a different species, eaten fresh and crisp like an apple."}
     ]
@@ -31,7 +31,7 @@
     "aliases": ["印度棗", "蜜棗", "牛奶棗", "青棗"],
     "summary": "棗子是台灣冬季常見的青綠色脆果，直接當水果吃，口感像小顆蘋果，和曬乾的紅棗是完全不同的東西。沒有官方單位公布它的保存數據，所以用蘋果的標準來看：室溫約 3 到 7 天，冷藏 2 到 4 週。",
     "pantry": "避開日曬和悶熱的廚房。室溫下大約可放 3 到 7 天，而它壞掉的方式是脫水而不是腐爛：果皮起皺、果肉變粉、脆度不見了。買回來如果很硬很有光澤，放個一兩天沒關係，但也沒必要再催熟——這種水果是熟了才採的。",
-    "fridge": "鬆鬆裝袋放蔬果室、維持 4°C 以下，大約 2 到 4 週。這個範圍是比照蘋果的做法，不是針對棗子公布的數字，但很符合它的實際表現：脆度會最先流失，而且遠早於真正不能吃的時候。不要跟熟香蕉這類乙烯多的水果放在一起，也不要提前洗。",
+    "fridge": "鬆鬆裝袋放蔬果室、維持 4°C 以下，大約 2 到 4 週。脆度會最先流失，而且遠早於真正不能吃的時候。不要跟熟香蕉這類乙烯多的水果放在一起，也不要提前洗。",
     "freezer": "棗子沒有公認的冷凍期限，而且它完全不適合冷凍。它好吃的地方就是那種清脆多汁的口感，冰晶會把它毀掉——解凍後的棗子軟塌又帶點沙沙的顆粒感。真的太多，就拿去糖煮、蜜漬或曬乾，紅棗其實就是這麼來的（雖然是不同的種）。",
     "thawing": "不適用——這種水果不值得冷凍。太多的話請改成糖煮、蜜漬或乾燥。",
     "spoilage": [
@@ -47,7 +47,7 @@
       "脆的先吃，開始變軟的拿去糖煮比生吃好"
     ],
     "faq": [
-      {"q": "棗子放冰箱可以放多久？", "a": "裝袋放 4°C 以下大約 2 到 4 週。沒有官方數字，這是比照蘋果的做法。"},
+      {"q": "棗子放冰箱可以放多久？", "a": "裝袋放 4°C 以下大約 2 到 4 週。脆度最先流失，遠早於真正不能吃的時候。"},
       {"q": "棗子可以冷凍嗎？", "a": "不值得。它的重點就是脆，而脆度撐不過冷凍。太多的話請糖煮、蜜漬或乾燥。"},
       {"q": "棗子和紅棗一樣嗎？", "a": "不一樣。紅棗是曬乾的中國棗，這是另一個種，新鮮清脆地當水果吃。"}
     ]

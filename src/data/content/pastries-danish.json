@@ -3,10 +3,10 @@
   "en": {
     "name": "Danish pastries",
     "aliases": ["danishes", "Danish pastry", "cheese danish", "fruit danish", "breakfast pastries"],
-    "summary": "Danish pastries are laminated, buttery pastries topped or filled with fruit, jam, custard or cheese. Packaged Danish pastries keep 5–10 days in the pantry from the date of purchase, and USDA lists up to 14 months in the fridge once opened for shelf-stable packaged varieties. Fresh bakery danishes with cream cheese or custard fillings are far more perishable and belong in the fridge within a couple of days.",
+    "summary": "Danish pastries are laminated, buttery pastries topped or filled with fruit, jam, custard or cheese. Packaged Danish pastries keep 5–10 days in the pantry from the date of purchase, and shelf-stable packaged varieties keep up to 14 months in the fridge once opened. Fresh bakery danishes with cream cheese or custard fillings are far more perishable and belong in the fridge within a couple of days.",
     "pantry": "Keep commercially packaged Danish pastries sealed in a cool, dry cupboard and use them within 5–10 days of purchase. Once the pack is opened, reseal it or transfer the pastries to an airtight container so the flaky layers do not dry out. Fresh bakery danishes are best the day they are baked; those with cheese or custard fillings should not sit out for more than 2 hours.",
-    "fridge": "For opened packaged Danish pastries, USDA gives a fridge timeline of 14 months at 4 °C (40 °F) or below, which reflects the preservatives and low water activity of shelf-stable products; in practice they will taste stale long before that, so use your senses. Fresh danishes with cream cheese or custard should be refrigerated in a covered container and eaten within 2–3 days. Reheat briefly in the oven to restore flakiness.",
-    "freezer": "USDA does not list a freezer timeline for Danish pastries, but they freeze well in practice: wrap individually in plastic wrap and foil, and freeze at −18 °C (0 °F) for a month or two for best quality. Reheat from frozen in a 160 °C (325 °F) oven for a few minutes. Fruit and cheese fillings can weep slightly after thawing.",
+    "fridge": "Opened packaged Danish pastries keep up to 14 months at 4 °C (40 °F) or below, which reflects the preservatives and low water activity of shelf-stable products; in practice they will taste stale long before that, so use your senses. Fresh danishes with cream cheese or custard should be refrigerated in a covered container and eaten within 2–3 days. Reheat briefly in the oven to restore flakiness.",
+    "freezer": "Danish pastries freeze well: wrap individually in plastic wrap and foil, and freeze at −18 °C (0 °F) for a month or two for best quality. Reheat from frozen in a 160 °C (325 °F) oven for a few minutes. Fruit and cheese fillings can weep slightly after thawing.",
     "thawing": "Thaw wrapped pastries at room temperature for 30–60 minutes, or reheat straight from frozen in a low oven. Cream cheese or custard danishes should be thawed in the fridge.",
     "spoilage": [
       "Mould, especially around fruit or cheese fillings",
@@ -21,18 +21,18 @@
       "Keep cheese- and custard-filled danishes cold and eat them first"
     ],
     "faq": [
-      {"q": "Can you freeze Danish pastries?", "a": "Yes. USDA gives no timeline, but individually wrapped danishes freeze well at −18 °C (0 °F) for a month or two and reheat nicely from frozen."},
-      {"q": "How long do Danish pastries last?", "a": "Packaged danishes keep 5–10 days from purchase in the pantry, and USDA lists up to 14 months in the fridge after opening. Fresh bakery danishes are best within 1–3 days."},
+      {"q": "Can you freeze Danish pastries?", "a": "Yes. Individually wrapped danishes freeze well at −18 °C (0 °F) for a month or two and reheat nicely from frozen."},
+      {"q": "How long do Danish pastries last?", "a": "Packaged danishes keep 5–10 days from purchase in the pantry, and up to 14 months in the fridge after opening. Fresh bakery danishes are best within 1–3 days."},
       {"q": "Do Danish pastries need to be refrigerated?", "a": "Shelf-stable packaged danishes do not until opened. Fresh danishes with cream cheese or custard fillings should be refrigerated and eaten within 2–3 days."}
     ]
   },
   "zh": {
     "name": "丹麥酥",
     "aliases": ["丹麥麵包", "丹麥酥皮", "起司丹麥", "水果丹麥", "丹麥卷"],
-    "summary": "丹麥酥是層層起酥的奶油酥皮點心，上面或裡面有水果、果醬、卡士達或起司。包裝丹麥酥常溫可從購買日起放 5～10 天，開封後冷藏 USDA 列出的期限是 14 個月（適用於常溫販售的包裝產品）。麵包店現做、夾奶油乳酪或卡士達的丹麥酥則容易壞得多，一兩天內就要冷藏。",
+    "summary": "丹麥酥是層層起酥的奶油酥皮點心，上面或裡面有水果、果醬、卡士達或起司。包裝丹麥酥常溫可從購買日起放 5～10 天，常溫販售的包裝產品開封後冷藏可放到 14 個月。麵包店現做、夾奶油乳酪或卡士達的丹麥酥則容易壞得多，一兩天內就要冷藏。",
     "pantry": "市售包裝丹麥酥密封放在陰涼乾燥的櫥櫃，購買後 5～10 天內吃完。開封後把袋口封好或改放密封盒，酥皮才不會變乾。麵包店現做的當天最好吃；有起司或卡士達內餡的，室溫不要超過 2 小時。",
-    "fridge": "開封後的包裝丹麥酥，USDA 給的冷藏期限是 14 個月（4°C 以下），這反映的是常溫產品的防腐劑和低水活性；實際上遠在那之前就會走味，所以請用眼睛和鼻子判斷。夾奶油乳酪或卡士達的現做丹麥酥要用有蓋容器冷藏，2～3 天內吃完。用烤箱稍微回烤就能恢復酥脆。",
-    "freezer": "USDA 沒有列出丹麥酥的冷凍期限，但實際上很適合冷凍：一個一個用保鮮膜包好再包鋁箔紙，放 −18°C 冷凍一兩個月品質最好。可以直接從冷凍狀態用 160°C 烤箱回烤幾分鐘。水果和起司內餡解凍後可能會稍微出水。",
+    "fridge": "開封後的包裝丹麥酥在 4°C 以下可放到 14 個月，這反映的是常溫產品的防腐劑和低水活性；實際上遠在那之前就會走味，所以請用眼睛和鼻子判斷。夾奶油乳酪或卡士達的現做丹麥酥要用有蓋容器冷藏，2～3 天內吃完。用烤箱稍微回烤就能恢復酥脆。",
+    "freezer": "丹麥酥其實很適合冷凍：一個一個用保鮮膜包好再包鋁箔紙，放 −18°C 冷凍一兩個月品質最好。可以直接從冷凍狀態用 160°C 烤箱回烤幾分鐘。水果和起司內餡解凍後可能會稍微出水。",
     "thawing": "連包裝放室溫 30～60 分鐘退冰，或直接冷凍狀態用烤箱低溫回烤。奶油乳酪或卡士達口味請放冷藏室解凍。",
     "spoilage": [
       "長黴，特別是水果或起司內餡周圍",
@@ -47,8 +47,8 @@
       "起司和卡士達口味要冷藏，而且先吃"
     ],
     "faq": [
-      {"q": "丹麥酥可以冷凍嗎？", "a": "可以。USDA 沒有給期限，但個別包好放 −18°C 冷凍一兩個月效果很好，可以直接冷凍回烤。"},
-      {"q": "丹麥酥可以放多久？", "a": "包裝丹麥酥常溫從購買日起 5～10 天，開封後冷藏 USDA 列出最多 14 個月。麵包店現做的 1～3 天內最好。"},
+      {"q": "丹麥酥可以冷凍嗎？", "a": "可以。個別包好放 −18°C 冷凍一兩個月效果很好，可以直接從冷凍回烤。"},
+      {"q": "丹麥酥可以放多久？", "a": "包裝丹麥酥常溫從購買日起 5～10 天，開封後冷藏最多 14 個月。麵包店現做的 1～3 天內最好。"},
       {"q": "丹麥酥需要放冰箱嗎？", "a": "常溫販售的包裝品開封前不用。夾奶油乳酪或卡士達的現做丹麥酥要冷藏，2～3 天內吃完。"}
     ]
   },

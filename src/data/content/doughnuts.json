@@ -6,7 +6,7 @@
     "summary": "Doughnuts are fried, sweetened dough, sold glazed, sugared, iced or filled. Plain and glazed doughnuts keep 1–2 days at room temperature from the date of purchase and up to 2 days in the fridge once the box is opened. Cream- or custard-filled doughnuts must be refrigerated from the start.",
     "pantry": "Keep plain, glazed and sugared doughnuts in their box or a paper bag at room temperature and eat them within 1–2 days of purchase; they are best in the first few hours and go stale quickly. Do not seal them airtight while still warm or the glaze will sweat. Doughnuts with cream, custard or cheese fillings are perishable and should not sit out for more than 2 hours.",
     "fridge": "Refrigeration extends doughnuts by only about 2 days after opening, and it firms up the dough and dulls the glaze, so use it mainly for filled doughnuts, which need to stay at 4 °C (40 °F) or below. Store them in a covered container. A few seconds in the microwave will soften a chilled doughnut.",
-    "freezer": "USDA gives no freezer timeline for doughnuts, but plain and cake-style doughnuts can be frozen at −18 °C (0 °F) in an airtight bag with reasonable results for a few weeks. Glazes often turn sticky or flake off, and cream-filled doughnuts do not freeze well. Freeze only what you will use soon and expect some loss of texture.",
+    "freezer": "Plain and cake-style doughnuts can be frozen at −18 °C (0 °F) in an airtight bag with reasonable results for a few weeks. Glazes often turn sticky or flake off, and cream-filled doughnuts do not freeze well. Freeze only what you will use soon and expect some loss of texture.",
     "thawing": "Thaw frozen doughnuts at room temperature for 20–30 minutes or warm them briefly in a low oven or microwave. Filled doughnuts should be thawed in the fridge.",
     "spoilage": [
       "Hard, dry, stale texture that does not soften when warmed",
@@ -21,7 +21,7 @@
       "Check the label: custard, cream and cheese fillings belong in the fridge"
     ],
     "faq": [
-      {"q": "Can you freeze doughnuts?", "a": "Plain and cake doughnuts freeze acceptably for a few weeks in an airtight bag at −18 °C (0 °F). Glazed and filled ones lose quality; USDA does not list a freezer timeline."},
+      {"q": "Can you freeze doughnuts?", "a": "Plain and cake doughnuts freeze acceptably for a few weeks in an airtight bag at −18 °C (0 °F). Glazed and filled ones lose too much quality to be worth it."},
       {"q": "How long do doughnuts last?", "a": "About 1–2 days at room temperature from purchase, and up to 2 days in the fridge after opening. Filled doughnuts should always be kept cold."},
       {"q": "Do doughnuts need to be refrigerated?", "a": "Plain and glazed doughnuts do not, and they taste better at room temperature. Cream-, custard- or cheese-filled doughnuts must be refrigerated."}
     ]
@@ -32,7 +32,7 @@
     "summary": "甜甜圈是油炸的甜麵團，有糖霜、糖粉、淋醬或夾餡等各種口味。原味和糖霜甜甜圈常溫可從購買日起放 1～2 天，開封後冷藏最多 2 天。夾鮮奶油或卡士達的甜甜圈則一開始就要冷藏。",
     "pantry": "原味、糖霜、糖粉甜甜圈放在原本的盒子或紙袋裡常溫保存，購買後 1～2 天內吃完；前幾個小時最好吃，之後很快就會變乾。還溫熱時不要密封，否則糖霜會出水黏膩。夾鮮奶油、卡士達或起司餡的甜甜圈容易腐壞，室溫不可超過 2 小時。",
     "fridge": "冷藏只能讓甜甜圈在開封後多放 2 天左右，而且會讓麵團變硬、糖霜失去光澤，所以主要用在夾餡甜甜圈，這類必須保持在 4°C 以下。用有蓋容器裝好。冰過的甜甜圈用微波爐加熱幾秒就會回軟。",
-    "freezer": "USDA 沒有提供甜甜圈的冷凍期限，但原味和蛋糕式甜甜圈裝進密封袋放 −18°C 冷凍幾週，效果還算可以。糖霜冷凍後常會變黏或剝落，鮮奶油夾餡的則不適合冷凍。只冷凍近期會吃的量，並接受口感會打折。",
+    "freezer": "原味和蛋糕式甜甜圈裝進密封袋放 −18°C 冷凍幾週，效果還算可以。糖霜冷凍後常會變黏或剝落，鮮奶油夾餡的則不適合冷凍。只冷凍近期會吃的量，並接受口感會打折。",
     "thawing": "冷凍甜甜圈放在室溫 20～30 分鐘退冰，或用烤箱低溫、微波爐稍微加熱。夾餡甜甜圈請放冷藏室解凍。",
     "spoilage": [
       "變得又硬又乾，加熱也回不軟",
@@ -47,7 +47,7 @@
       "看清楚口味：卡士達、鮮奶油、起司餡的都要放冰箱"
     ],
     "faq": [
-      {"q": "甜甜圈可以冷凍嗎？", "a": "原味和蛋糕式甜甜圈裝密封袋放 −18°C 冷凍幾週還可以接受。糖霜和夾餡的品質會變差，USDA 也沒有列出冷凍期限。"},
+      {"q": "甜甜圈可以冷凍嗎？", "a": "原味和蛋糕式甜甜圈裝密封袋放 −18°C 冷凍幾週還可以接受。糖霜和夾餡的品質會變差，不值得冷凍。"},
       {"q": "甜甜圈可以放多久？", "a": "常溫從購買日起約 1～2 天，開封後冷藏最多 2 天。夾餡甜甜圈要一直冷藏。"},
       {"q": "甜甜圈需要放冰箱嗎？", "a": "原味和糖霜甜甜圈不用，常溫吃比較好吃。夾鮮奶油、卡士達或起司餡的一定要冷藏。"}
     ]

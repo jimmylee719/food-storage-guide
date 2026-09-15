@@ -3,10 +3,10 @@
   "en": {
     "name": "Live whole lobster",
     "aliases": ["live lobster", "fresh lobster", "whole lobster", "Maine lobster", "spiny lobster"],
-    "summary": "A live whole lobster should be cooked the day you buy it: it keeps at most 1 day in the fridge from purchase. It is not safe to cook and eat a whole lobster that is already dead when you prepare it, so if it dies, discard it. USDA gives no freezer timeline for live lobster; cook it first if you want to freeze the meat.",
+    "summary": "A live whole lobster should be cooked the day you buy it: it keeps at most 1 day in the fridge from purchase. It is not safe to cook and eat a whole lobster that is already dead when you prepare it, so if it dies, discard it. Do not freeze it alive; cook it first if you want to freeze the meat.",
     "pantry": "Never leave a live lobster at room temperature or in a bucket of tap water; it will weaken and die. Carry it home in a cool bag with an ice pack and refrigerate it immediately. A dead, uncooked lobster left out for more than 2 hours (1 hour above 32 °C / 90 °F) must be thrown away.",
     "fridge": "Keep a live lobster in the coldest part of the fridge, at or below 4 °C (40 °F), in an open box or bowl covered with damp newspaper or a wet towel, for no more than 1 day. Do not seal it in plastic or submerge it in fresh water. Before cooking, check that it moves its legs or curls its tail; a lobster that shows no movement is dead and should not be cooked and eaten.",
-    "freezer": "USDA gives no freezer timeline for live lobster, and freezing a live one is not recommended because you cannot confirm it was alive when it died. Cook the lobster first, then remove the meat, pack it in airtight containers or freezer bags and freeze at −18 °C (0 °F) for a few weeks for best quality.",
+    "freezer": "Freezing a lobster alive is not recommended, because afterwards you cannot tell when it died. Cook the lobster first, then remove the meat, pack it in airtight containers or freezer bags and freeze at −18 °C (0 °F) for a few weeks for best quality.",
     "thawing": "Thaw cooked lobster meat in the fridge overnight, or in a sealed bag in cold water, and eat it within a day or two. Never thaw at room temperature.",
     "spoilage": [
       "No movement of legs, antennae or tail when handled, meaning the lobster is dead",
@@ -29,10 +29,10 @@
   "zh": {
     "name": "活龍蝦（整隻）",
     "aliases": ["活龍蝦", "新鮮龍蝦", "整隻龍蝦", "波士頓龍蝦", "美國龍蝦"],
-    "summary": "整隻活龍蝦最好當天買當天煮，冷藏自購買日起最多只能放 1 天。處理時如果龍蝦已經死了，就不能煮來吃，必須丟掉。美國農業部沒有提供活龍蝦的冷凍期限，想冷凍請先煮熟再取肉。",
+    "summary": "整隻活龍蝦最好當天買當天煮，冷藏自購買日起最多只能放 1 天。處理時如果龍蝦已經死了，就不能煮來吃，必須丟掉。活龍蝦不要直接冷凍，想冷凍請先煮熟再取肉。",
     "pantry": "絕對不要把活龍蝦放在室溫或泡在自來水裡，牠會虛弱並死亡。用保冷袋加冰袋帶回家，立刻放冰箱。未煮的死龍蝦放在室溫超過 2 小時（室溫高於 32 °C 時超過 1 小時）就必須丟棄。",
     "fridge": "放在冰箱最冷的位置，維持 4 °C 以下，用開口的盒子或碗裝著，上面蓋濕報紙或濕毛巾，最多放 1 天。不要用塑膠袋密封，也不要泡在淡水裡。煮之前確認牠的腳會動或尾巴會捲；完全不動的龍蝦已經死亡，不可以煮來吃。",
-    "freezer": "美國農業部沒有提供活龍蝦的冷凍期限，也不建議把活龍蝦直接冷凍，因為無法確定牠是什麼時候死的。請先把龍蝦煮熟，取出肉裝進密封盒或冷凍袋，在 −18 °C 下冷凍，幾週內吃完風味最佳。",
+    "freezer": "不建議把活龍蝦直接冷凍，因為事後無法確定牠是什麼時候死的。請先把龍蝦煮熟，取出肉裝進密封盒或冷凍袋，在 −18 °C 下冷凍，幾週內吃完風味最佳。",
     "thawing": "煮熟的龍蝦肉放冷藏室解凍一晚，或連密封袋泡冷水解凍，一、兩天內吃完。不要在室溫下解凍。",
     "spoilage": [
       "拿起來時腳、觸鬚和尾巴都不動，表示已經死亡",

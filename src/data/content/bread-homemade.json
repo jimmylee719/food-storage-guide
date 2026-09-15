@@ -8,10 +8,10 @@
    "自製麵包",
    "手作麵包"
   ],
-  "summary": "A homemade loaf keeps 3–5 days at room temperature, wrapped, and may have a shorter life than a shop loaf because it contains no preservatives. The record's cold-storage figure is 2–3 months, which is a freezer-scale window: wrapped tight at −18 °C (0 °F) a home-baked loaf really does hold that long.",
+  "summary": "A homemade loaf keeps 3–5 days at room temperature, wrapped, and may have a shorter life than a shop loaf because it contains no preservatives. Wrapped tight at −18 °C (0 °F) it holds 2–3 months, which is the only way to keep a loaf past the first few days.",
   "pantry": "3–5 days wrapped at room temperature, and expect the shorter end if the loaf is lean or the kitchen is warm. A homemade loaf has no preservatives and no dough conditioners, so it stales and moulds faster than a supermarket one. Let it cool completely before wrapping — a warm loaf sealed in plastic makes its own steam and grows mould in days. A bread bin or a paper bag suits a crusty loaf; a soft sandwich loaf can go in a bag, and a bread study found that a loaf kept in a plastic bag sat at higher humidity and moulded a day or so earlier than the same loaf in paper.",
-  "fridge": "This is the decision the reader actually has to make, and it goes two ways. Chilling makes lean bread go stale faster — starch retrogradation runs quickest just above freezing — so the fridge is the wrong place for a loaf you will finish this week. But chilling also suppresses mould, and in a hot humid kitchen mould is what wins first, so a wrapped loaf on a fridge shelf is a defensible choice for a few days if you are going to toast it anyway. Toasting reverses staling by re-gelatinising the starch; it does nothing at all about mould. The record's 2–3 months is a frozen figure, not something a fridge shelf will deliver.",
-  "freezer": "2–3 months at −18 °C (0 °F), which is what the cold-storage figure on this record describes, and it avoids both failure modes at once — no staling and no mould. Cool the loaf completely, slice it if you want to toast slice by slice, then wrap it tight with the air excluded and freeze it on the day it is baked. Kept continuously frozen it stays safe well beyond that window; the limit is dryness and freezer burn. Thaw the whole loaf wrapped at room temperature, or toast slices straight from frozen.",
+  "fridge": "This is the decision that actually matters, and it goes two ways. Chilling makes lean bread go stale faster — starch retrogradation runs quickest just above freezing — so the fridge is the wrong place for a loaf you will finish this week. But chilling also suppresses mould, and in a hot humid kitchen mould is what wins first, so a wrapped loaf on a fridge shelf is a defensible choice for a few days if you are going to toast it anyway. Toasting reverses staling by re-gelatinising the starch; it does nothing at all about mould. The 2–3 months belongs to the freezer; a fridge shelf will never deliver it.",
+  "freezer": "2–3 months at −18 °C (0 °F), and it avoids both failure modes at once — no staling and no mould. Cool the loaf completely, slice it if you want to toast slice by slice, then wrap it tight with the air excluded and freeze it on the day it is baked. Kept continuously frozen it stays safe well beyond that window; the limit is dryness and freezer burn. Thaw the whole loaf wrapped at room temperature, or toast slices straight from frozen.",
   "thawing": "Thaw a wrapped loaf at room temperature for a couple of hours, or toast slices straight from frozen. Bread that has thawed in the fridge and is still cold may be refrozen with some loss of texture; bread thawed on a warm counter should not be.",
   "spoilage": [
    "Fuzzy green, blue, white or black mould — throw out the whole loaf, not just the slice.",
@@ -48,10 +48,10 @@
    "自己烤的麵包",
    "homemade bread"
   ],
-  "summary": "自己烤的麵包包好放室溫可放 3～5 天，而且因為沒有防腐劑，往往比市售麵包更短命。這份資料上的低溫保存數字是 2～3 個月，那是冷凍等級的期限：包緊放在 −18 °C，一條家烤麵包確實撐得了這麼久。",
+  "summary": "自己烤的麵包包好放室溫可放 3～5 天，而且因為沒有防腐劑，往往比市售麵包更短命。包緊放在 −18 °C 可放 2～3 個月，這也是把麵包留過頭幾天的唯一辦法。",
   "pantry": "包好放室溫 3～5 天，如果是瘦麵包或廚房偏熱，就往短的那端抓。自製麵包沒有防腐劑也沒有改良劑，所以比超市麵包更快走味、更快長霉。一定要完全放涼再包——還熱著就密封進塑膠袋，它會自己悶出水氣，幾天內就長霉。外皮硬脆的麵包適合麵包盒或紙袋；軟的吐司型麵包可以裝袋，而一份麵包研究發現，裝塑膠袋的那條袋內濕度較高，長霉的時間也比同一條裝紙袋的早了一天左右。",
-  "fridge": "這一段才是讀者真正要做的選擇，而它有兩條路。低溫會讓瘦麵包老化得更快——澱粉回凝在略高於冰點時最快——所以一條這星期就會吃完的麵包，冰箱是錯的地方。但低溫同時壓得住霉，而在又熱又濕的廚房裡，先贏的通常是霉；所以如果你本來就打算烤過再吃，把包好的麵包放冷藏幾天是說得過去的。烤過能把老化逆轉回來，因為熱讓澱粉重新糊化；但烤對霉完全沒有用。這份資料上的 2～3 個月是冷凍的數字，不是冷藏層給得出來的。",
-  "freezer": "−18 °C 下 2～3 個月，也就是這份資料上那個低溫保存數字真正描述的狀態；而且它一次避開兩種失敗——不會老化，也不會長霉。完全放涼，想一片一片烤就先切片，然後包緊、擠掉空氣，在出爐當天冷凍。只要全程沒退冰，超過這個期限仍然安全，限制它的是變乾和凍燒。整條包著在室溫解凍，或者切片直接從冷凍烤。",
+  "fridge": "這一段才是真正要做的選擇，而它有兩條路。低溫會讓瘦麵包老化得更快——澱粉回凝在略高於冰點時最快——所以一條這星期就會吃完的麵包，冰箱是錯的地方。但低溫同時壓得住霉，而在又熱又濕的廚房裡，先贏的通常是霉；所以如果你本來就打算烤過再吃，把包好的麵包放冷藏幾天是說得過去的。烤過能把老化逆轉回來，因為熱讓澱粉重新糊化；但烤對霉完全沒有用。2～3 個月是冷凍才有的數字，冷藏層給不出來。",
+  "freezer": "−18 °C 下 2～3 個月；而且它一次避開兩種失敗——不會老化，也不會長霉。完全放涼，想一片一片烤就先切片，然後包緊、擠掉空氣，在出爐當天冷凍。只要全程沒退冰，超過這個期限仍然安全，限制它的是變乾和凍燒。整條包著在室溫解凍，或者切片直接從冷凍烤。",
   "thawing": "整條包好在室溫放兩三個小時解凍，或把切片直接從冷凍送進烤麵包機。在冷藏解凍、而且還是冰的麵包可以再冷凍，只是口感會差一點；在溫暖檯面上解凍過的就不要再凍回去。",
   "spoilage": [
    "長出綠色、藍色、白色或黑色絨毛霉——整條丟掉，不是只切掉那一片。",

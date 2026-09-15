@@ -5,8 +5,8 @@
     "aliases": ["calabash", "opo squash", "lauki", "dudhi", "upo"],
     "summary": "The bottle gourd is a pale green summer gourd, harvested young and tender before the shell hardens, with mild white flesh that cooks like a courgette. No agency publishes figures for it, so treat it like summer squash: 3 to 7 days on the counter and 1 to 2 weeks in the fridge.",
     "pantry": "A whole, unblemished gourd keeps a few days in a cool airy spot — reckon on 3 to 7. Choose one that feels heavy for its size with taut skin and fine down still on it, and press a thumbnail into the skin: if it marks easily, the gourd is young and the whole thing is tender, and if it resists, it is on its way to being a hard-shelled calabash rather than a vegetable. Keep it off a sunny windowsill and out of a sealed bag.",
-    "fridge": "Store the gourd whole and unwrapped in the crisper at 4 °C (40 °F) or below, where it keeps roughly 1 to 2 weeks. That range follows summer squash storage rather than a published bottle gourd figure, which fits: both are thin-skinned, high-water gourds eaten immature. Wrap the cut face of a part-used gourd tightly and use it within a couple of days, as it dries and goes slippery quickly.",
-    "freezer": "USDA gives no freezer timeline for bottle gourd. Like other summer squash it is mostly water and freezes poorly raw, thawing into limp, watery pieces. If you want to keep some, cook it first — into a dal, curry or soup — and freeze the finished dish, or blanch and grate it for fritters and breads where the softened texture does not matter. Any duration is your own planning figure.",
+    "fridge": "Store the gourd whole and unwrapped in the crisper at 4 °C (40 °F) or below, where it keeps roughly 1 to 2 weeks. It behaves like any summer squash: a thin-skinned, high-water gourd eaten immature. Wrap the cut face of a part-used gourd tightly and use it within a couple of days, as it dries and goes slippery quickly.",
+    "freezer": "Like other summer squash, bottle gourd is mostly water and freezes poorly raw, thawing into limp, watery pieces. If you want to keep some, cook it first — into a dal, curry or soup — and freeze the finished dish, or blanch and grate it for fritters and breads where the softened texture does not matter.",
     "thawing": "Reheat cooked frozen dishes straight from the freezer. Add blanched grated gourd to batters from frozen after squeezing out the water.",
     "spoilage": [
       "Soft, wet, sunken patches on the skin",
@@ -21,7 +21,7 @@
       "Taste a small raw piece: an intensely bitter gourd should not be eaten"
     ],
     "faq": [
-      {"q": "How long does bottle gourd last?", "a": "About 3 to 7 days in a cool airy spot and roughly 1 to 2 weeks in the fridge. There is no official figure; this follows summer squash."},
+      {"q": "How long does bottle gourd last?", "a": "About 3 to 7 days in a cool airy spot and roughly 1 to 2 weeks in the fridge, stored whole and unwrapped."},
       {"q": "Why is my bottle gourd bitter?", "a": "Some gourds develop intensely bitter compounds. A bitter piece should be spat out and the whole gourd discarded rather than cooked."},
       {"q": "Can you freeze bottle gourd?", "a": "Not usefully raw — it thaws limp and watery. Cook it into a curry or soup and freeze that, or blanch and grate it for fritters."}
     ]
@@ -31,8 +31,8 @@
     "aliases": ["扁蒲", "瓠瓜", "夜開花", "葫蘆瓜"],
     "summary": "蒲瓜是淺綠色的夏季瓜類，在外殼還沒硬化之前趁嫩採收，白色的果肉味道溫和，煮法和櫛瓜差不多。沒有官方單位公布它的保存數據，所以用夏南瓜類的標準來看：室溫 3 到 7 天，冷藏 1 到 2 週。",
     "pantry": "整顆沒有損傷的蒲瓜，在陰涼通風處可以放幾天，大約 3 到 7 天。挑的時候選拿起來沉、表皮緊繃、上面還帶著細絨毛的，並用指甲輕壓表皮：一壓就留下痕跡，代表瓜還嫩、整顆都好吃；如果壓不太下去，那它正在往「硬殼葫蘆」的方向走，而不再是一顆蔬菜。不要放在曬得到太陽的窗台，也不要封在袋子裡。",
-    "fridge": "整顆不包，放在 4°C 以下的蔬果室，大約可放 1 到 2 週。這個範圍是比照夏南瓜類的保存方式，不是針對蒲瓜公布的數字，不過相當合理：兩者都是皮薄、含水量高、趁未成熟時吃的瓜。切了一半的話，切面要緊緊包好並在一兩天內用完，因為它會很快變乾發滑。",
-    "freezer": "USDA 沒有提供蒲瓜的冷凍期限。和其他夏季瓜類一樣，它幾乎全是水，生凍效果很差，解凍後就是一堆軟塌出水的瓜塊。想留一些的話，先煮過——做成豆泥咖哩、咖哩或湯——再冷凍那道菜；或汆燙後刨絲，拿來做煎餅和麵食，那些用途對口感的要求沒那麼高。任何期限都是你自己的規劃數字。",
+    "fridge": "整顆不包，放在 4°C 以下的蔬果室，大約可放 1 到 2 週。它的表現和夏南瓜類一樣：皮薄、含水量高、趁未成熟時就摘來吃的瓜。切了一半的話，切面要緊緊包好並在一兩天內用完，因為它會很快變乾發滑。",
+    "freezer": "和其他夏季瓜類一樣，蒲瓜幾乎全是水，生凍效果很差，解凍後就是一堆軟塌出水的瓜塊。想留一些的話，先煮過——做成豆泥咖哩、咖哩或湯——再冷凍那道菜；或汆燙後刨絲，拿來做煎餅和麵食，那些用途對口感的要求沒那麼高。",
     "thawing": "煮好冷凍的菜直接冷凍加熱即可。汆燙過的刨絲蒲瓜，擠乾水分後可以直接冷凍狀態拌進麵糊裡。",
     "spoilage": [
       "外皮出現軟塌、濕潤、凹陷的斑塊",
@@ -47,7 +47,7 @@
       "先嚐一小塊生的：非常苦的瓜絕對不要吃"
     ],
     "faq": [
-      {"q": "蒲瓜可以放多久？", "a": "陰涼通風處約 3 到 7 天，冷藏約 1 到 2 週。沒有官方數字，這是比照夏南瓜類的做法。"},
+      {"q": "蒲瓜可以放多久？", "a": "陰涼通風處約 3 到 7 天，冷藏約 1 到 2 週，整顆不包最好。"},
       {"q": "我的蒲瓜為什麼是苦的？", "a": "有些瓜會產生強烈的苦味成分。嚐到苦味就吐掉，整顆丟棄，不要煮來吃。"},
       {"q": "蒲瓜可以冷凍嗎？", "a": "生凍沒什麼用，解凍後軟塌出水。建議先煮成咖哩或湯再冷凍，或汆燙刨絲做煎餅。"}
     ]

@@ -5,7 +5,7 @@
     "aliases": ["naranjilla", "little orange", "quito orange", "Solanum quitoense"],
     "summary": "Lulo, or naranjilla, is a fuzzy orange Andean relative of the tomato with sharp green pulp that is almost always turned into juice. No agency publishes figures for it, so treat it like a tomato: 3 to 5 days on the counter, 1 to 2 weeks in the fridge once fully orange, and 6 to 12 months for frozen pulp.",
     "pantry": "Rub the fine hairs off the skin before you use the fruit — they are irritating and come away easily under a cloth. Like a tomato, lulo ripens further on the counter and dislikes hard chilling, so leave partly green fruit out for 3 to 5 days until the skin is evenly orange. Keep it out of direct sun and off a hot windowsill, and do not stack the fruit deep, because the thin skin bruises.",
-    "fridge": "Refrigerate only once the fruit is fully orange; cold storage of unripe fruit stops it colouring altogether. Reckon on 1 to 2 weeks at 4 °C (40 °F) or below in the crisper. That range follows the way tomatoes are handled, the closest relative with published figures, and it matches lulo's chilling behaviour. Keep the fruit loose or lightly bagged so it does not sweat.",
+    "fridge": "Refrigerate only once the fruit is fully orange; cold storage of unripe fruit stops it colouring altogether. Reckon on 1 to 2 weeks at 4 °C (40 °F) or below in the crisper. It is a close relative of the tomato and behaves like one in the cold. Keep the fruit loose or lightly bagged so it does not sweat.",
     "freezer": "Freeze the sieved pulp — this is the normal form lulo is sold in outside the Andes — for about 6 to 12 months at −18 °C (0 °F), a general soft-fruit range rather than an official figure. Halve the fruit, scoop the pulp, push it through a sieve to remove the seeds if you want a clean juice, and freeze it in portions or an ice cube tray. Whole fruit is not worth freezing since the skin is not eaten.",
     "thawing": "Blend the pulp straight from frozen for juice, or thaw a portion in the fridge and use it the same day. Do not thaw at room temperature.",
     "spoilage": [
@@ -21,7 +21,7 @@
       "Freeze the pulp in cubes; a couple of cubes make one glass of juice"
     ],
     "faq": [
-      {"q": "How long does lulo last?", "a": "About 3 to 5 days at room temperature and 1 to 2 weeks in the fridge once fully orange. There is no official figure; this follows tomatoes."},
+      {"q": "How long does lulo last?", "a": "About 3 to 5 days at room temperature and 1 to 2 weeks in the fridge once fully orange. Chilling an unripe fruit stops it colouring for good."},
       {"q": "Can you freeze lulo?", "a": "Freeze the sieved pulp, not the whole fruit, for about 6 to 12 months. That is how lulo is normally sold outside the Andes."},
       {"q": "Why is my lulo not ripening?", "a": "It was probably refrigerated while still green. Cold storage of unripe fruit stops it colouring, so ripen it on the counter first."}
     ]
@@ -31,7 +31,7 @@
     "aliases": ["小黃果", "納蘭吉拉", "基多柑", "lulo", "naranjilla"],
     "summary": "奎東茄（naranjilla）是安地斯地區的番茄近親，外皮橙色帶細毛，裡面是酸度很高的綠色果肉，幾乎都是拿去打果汁。沒有官方單位公布它的保存數據，所以用番茄的標準來看：室溫 3 到 5 天，完全轉橙後冷藏 1 到 2 週，果泥冷凍 6 到 12 個月。",
     "pantry": "用之前先把表皮的細毛搓掉——那些毛會刺激皮膚，用布一擦就掉了。它和番茄一樣會在室溫繼續後熟，也一樣不喜歡低溫，所以還帶點綠的果實請放室溫 3 到 5 天，直到外皮均勻轉橙。避開日曬和悶熱的窗台，也不要堆太深，薄皮很容易碰傷。",
-    "fridge": "完全轉橙之後才冷藏；沒熟就先冰，它會從此不再轉色。放 4°C 以下的蔬果室大約 1 到 2 週。這個範圍是比照番茄——資料庫裡有公布數字、也最接近的親戚——而且很符合奎東茄怕冷的表現。鬆散地放或輕輕裝袋，避免悶出水氣。",
+    "fridge": "完全轉橙之後才冷藏；沒熟就先冰，它會從此不再轉色。放 4°C 以下的蔬果室大約 1 到 2 週。它是番茄的近親，在低溫下的表現也和番茄一樣。鬆散地放或輕輕裝袋，避免悶出水氣。",
     "freezer": "請冷凍過篩的果泥——這正是安地斯以外地區販售的形式——在 −18°C 下約 6 到 12 個月，這是軟質水果的一般範圍，不是官方數字。把果實對半切、挖出果肉，想要清爽的果汁就過篩去籽，然後分份或用製冰盒冷凍。整顆冷凍沒有意義，因為皮不吃。",
     "thawing": "要打果汁就直接用冷凍果泥下去打，或取一份放冷藏解凍當天用完。不要放室溫解凍。",
     "spoilage": [
@@ -47,7 +47,7 @@
       "果泥凍成冰塊，兩三塊大約就是一杯果汁"
     ],
     "faq": [
-      {"q": "奎東茄可以放多久？", "a": "室溫約 3 到 5 天，完全轉橙後冷藏 1 到 2 週。沒有官方數字，這是比照番茄的做法。"},
+      {"q": "奎東茄可以放多久？", "a": "室溫約 3 到 5 天，完全轉橙後冷藏 1 到 2 週。沒熟就先冰，它會從此不再轉色。"},
       {"q": "奎東茄可以冷凍嗎？", "a": "冷凍過篩的果泥而不是整顆，約 6 到 12 個月，這也是安地斯以外常見的販售形式。"},
       {"q": "我的奎東茄為什麼不會熟？", "a": "很可能是還青的時候就冰過了。未熟果冷藏會讓它停止轉色，請先放室溫催熟。"}
     ]

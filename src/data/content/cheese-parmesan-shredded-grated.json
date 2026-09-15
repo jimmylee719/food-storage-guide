@@ -3,10 +3,10 @@
   "en": {
     "name": "Grated parmesan (shredded or grated)",
     "aliases": ["grated parmesan", "shredded parmesan", "parmesan cheese powder", "Parmigiano-Reggiano grated", "romano grated"],
-    "summary": "Grated or shredded parmesan is a dry, salty, aged cheese that keeps far longer than most cheese. Refrigerated, it lasts about 12 months from the date of purchase. USDA gives no freezer timeline, and with such a long fridge life freezing is rarely worthwhile.",
+    "summary": "Grated or shredded parmesan is a dry, salty, aged cheese that keeps far longer than most cheese. Refrigerated, it lasts about 12 months from the date of purchase. With such a long fridge life, freezing is rarely worthwhile.",
     "pantry": "Fresh refrigerated grated parmesan should go back into the fridge after use; it can sit on the table for a meal but not for hours, following the 2-hour rule. Some shelf-stable shaker-style parmesan is sold unrefrigerated and can be kept in a cool, dry cupboard until opened, but once opened it lasts longest in the fridge. Follow the label on the package you bought.",
     "fridge": "Keep grated parmesan in its original tub or bag, sealed tightly, at or below 4 °C (40 °F). From the date of purchase it keeps about 12 months, thanks to its low moisture and high salt content. Use a dry spoon so no moisture gets into the container, and reseal it right after each use to stop it clumping or absorbing odours.",
-    "freezer": "USDA does not give a freezer timeline for grated parmesan, and with about 12 months of fridge life there is little reason to freeze it. If you do, it freezes without harm to safety because it is so dry; expect slightly weaker flavour and keep it in an airtight bag. Frozen food kept at −18 °C (0 °F) stays safe indefinitely.",
+    "freezer": "With about 12 months of fridge life there is little reason to freeze grated parmesan. If you do, it freezes without harm to safety because it is so dry; expect slightly weaker flavour and keep it in an airtight bag. Frozen food kept at −18 °C (0 °F) stays safe indefinitely.",
     "thawing": "Frozen grated parmesan can be used straight from the freezer over pasta or in sauces; there is no need to thaw it first.",
     "spoilage": [
       "Any fuzzy mould spots, which cannot be trimmed from grated cheese",
@@ -21,7 +21,7 @@
       "Write the purchase date on the lid so you know when the 12 months are up."
     ],
     "faq": [
-      {"q": "Can you freeze grated parmesan?", "a": "You can, and it stays safe, but USDA gives no timeline and it already keeps about 12 months in the fridge, so freezing is usually unnecessary."},
+      {"q": "Can you freeze grated parmesan?", "a": "You can, and it stays safe, but it already keeps about 12 months in the fridge, so freezing is usually unnecessary."},
       {"q": "How can you tell if grated parmesan has gone bad?", "a": "Mould, a sour or ammonia smell, or damp sticky clumps mean it should be thrown out. Dry, sandy and nutty-smelling cheese is fine."},
       {"q": "Does grated parmesan need to be refrigerated?", "a": "Refrigerated products, yes: sealed at or below 4 °C (40 °F) they keep about 12 months. Shelf-stable shaker cheese follows the label, but also lasts longest in the fridge once opened."}
     ]
@@ -29,10 +29,10 @@
   "zh": {
     "name": "帕瑪森起司粉（刨絲或磨碎）",
     "aliases": ["帕馬森起司粉", "帕梅森芝士粉", "起司粉", "巴馬臣芝士", "帕米吉安諾起司絲"],
-    "summary": "刨絲或磨碎的帕瑪森起司是一種乾燥、鹹味重的熟成起司，比大多數起司都耐放。冷藏從購買日算起可放約 12 個月。USDA 沒有提供冷凍期限，而且冷藏就能放這麼久，通常不需要冷凍。",
+    "summary": "刨絲或磨碎的帕瑪森起司是一種乾燥、鹹味重的熟成起司，比大多數起司都耐放。冷藏從購買日算起可放約 12 個月。冷藏就能放這麼久，所以通常不需要冷凍。",
     "pantry": "冷藏販售的起司粉用完就要放回冰箱；吃飯時放桌上沒問題，但不要放好幾個小時，請遵守 2 小時原則。有些罐裝的常溫起司粉是不冷藏販售的，未開封前可以放在陰涼乾燥的櫥櫃，但開封後放冰箱最能保持品質。請以你買的產品標示為準。",
     "fridge": "起司粉請用原本的盒子或袋子密封好，放在 4 °C 以下的冷藏室。因為水分低、鹽分高，從購買日起可以放約 12 個月。取用時用乾燥的湯匙，避免水氣跑進容器，每次用完馬上封好，才不會結塊或吸附異味。",
-    "freezer": "USDA 沒有提供起司粉的冷凍期限，而且冷藏就能放大約 12 個月，通常沒必要冷凍。真的要冷凍的話，因為它很乾，冷凍對安全沒有影響，只是風味會稍微變淡，記得用密封袋裝好。−18 °C 冷凍的食物可以無限期保持安全。",
+    "freezer": "冷藏就能放大約 12 個月，所以起司粉通常沒必要冷凍。真的要冷凍的話，因為它很乾，冷凍對安全沒有影響，只是風味會稍微變淡，記得用密封袋裝好。−18 °C 冷凍的食物可以無限期保持安全。",
     "thawing": "冷凍的起司粉可以直接從冷凍庫拿出來撒在義大利麵上或加進醬汁，不需要事先解凍。",
     "spoilage": [
       "出現任何絨毛狀的黴點（起司粉發黴無法切除）",
@@ -47,7 +47,7 @@
       "在盒蓋上寫購買日期，就知道 12 個月什麼時候到期。"
     ],
     "faq": [
-      {"q": "帕瑪森起司粉可以冷凍嗎？", "a": "可以，也很安全，但 USDA 沒有給冷凍期限，而且冷藏本來就能放約 12 個月，通常不需要冷凍。"},
+      {"q": "帕瑪森起司粉可以冷凍嗎？", "a": "可以，也很安全；但冷藏本來就能放約 12 個月，所以通常不需要冷凍。"},
       {"q": "起司粉壞掉怎麼看？", "a": "有黴點、酸味或阿摩尼亞味，或結成濕黏的塊狀就該丟掉。乾燥鬆散、聞起來有堅果香的就沒問題。"},
       {"q": "起司粉一定要放冰箱嗎？", "a": "冷藏販售的產品要，密封放在 4 °C 以下可放約 12 個月。常溫罐裝起司粉依標示保存，但開封後放冰箱一樣最耐放。"}
     ]
