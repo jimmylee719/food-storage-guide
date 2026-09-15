@@ -1,0 +1,83 @@
+{
+ "slug": "atta-flour",
+ "en": {
+  "name": "Atta (chakki wholemeal flour)",
+  "aliases": [
+   "chapati flour",
+   "chakki atta",
+   "wholemeal wheat flour",
+   "印度全麥麵粉"
+  ],
+  "summary": "Atta keeps 3–6 months in the pantry in an airtight container, 6–8 months refrigerated at 4 °C (40 °F) or below, and 1 year in the freezer at −18 °C (0 °F). It keeps the bran and the germ, and the germ's oil is what limits all three figures.",
+  "pantry": "3–6 months in an airtight container on a cool, dark shelf. Atta keeps the germ and the bran, and the germ carries oil, so a warm cupboard is working against you from the day the bag is milled — a stone-ground chakki atta in particular is milled slowly and warm, which starts the clock early. Use your nose rather than the date: fresh atta smells sweet and nutty, stale atta smells sharp and faintly of oil paint. This pantry figure is read across from wholemeal wheat flour generally, since nobody publishes one for atta itself.",
+  "fridge": "6–8 months at 4 °C (40 °F) or below in an airtight container, which is the published figure for wholemeal wheat flour and applies directly here. Cold roughly doubles what the cupboard gives you, and for a household that makes roti daily from a sack, that is worth the shelf space. Let the flour come back to room temperature before you knead — cold flour and cold water make a stiff dough that will not relax, and your rotis will fight you.",
+  "freezer": "1 year at −18 °C (0 °F), and this is the honest answer for the five- or ten-kilo sack a household actually buys. Decant into airtight tubs rather than freezing the paper sack, and label them. Kept continuously frozen the flour stays safe well beyond a year; what runs out is flavour as the germ oil slowly oxidises. Freezing a new bag hard for a couple of days also kills any weevil eggs that came in with it, which is the other reason atta goes bad in a warm kitchen.",
+  "thawing": "Take out what you need and let the sealed container come back to room temperature before opening, so the flour does not take up condensation. Dough made with room-temperature atta and warm water is far easier to roll.",
+  "spoilage": [
+   "A sharp, paint-like or crayon smell — rancid germ oil, the usual end.",
+   "A bitter taste in rotis made to a recipe that used to work.",
+   "Webbing, tiny moths or larvae in the container, which means the whole lot goes out.",
+   "Hard clumps or a caked surface, meaning moisture reached the flour."
+  ],
+  "tips": [
+   "Decant into airtight tubs; the paper sack protects nothing.",
+   "Freeze a new sack hard for a couple of days to deal with weevil eggs.",
+   "Bring flour to room temperature before kneading, or the dough will not relax.",
+   "Buy the sack size your household will genuinely use within the season."
+  ],
+  "faq": [
+   {
+    "q": "How long does atta last?",
+    "a": "3–6 months airtight in the pantry, 6–8 months refrigerated at 4 °C (40 °F) or below, or 1 year frozen at −18 °C (0 °F)."
+   },
+   {
+    "q": "Should atta be kept in the fridge?",
+    "a": "For a large sack, yes — refrigeration roughly doubles its pantry life, because the germ oil is what limits it. Let the flour warm up before kneading."
+   },
+   {
+    "q": "How do you stop weevils getting into atta?",
+    "a": "Freeze a new sack hard for a couple of days to kill any eggs, then keep the flour in airtight tubs rather than the paper bag."
+   }
+  ]
+ },
+ "zh": {
+  "name": "印度全麥麵粉",
+  "aliases": [
+   "atta",
+   "恰巴提麵粉",
+   "石磨全麥粉",
+   "chakki atta"
+  ],
+  "summary": "atta 裝密封罐放常溫可放 3～6 個月，放 4 °C 以下冷藏是 6～8 個月，−18 °C 冷凍則是 1 年。它保留了麩皮和胚芽，而胚芽的油脂就是這三個數字共同的限制。",
+  "pantry": "裝密封罐、放陰涼避光的架子，3～6 個月。atta 保留胚芽與麩皮，而胚芽帶油，所以從磨好那天起，溫暖的櫃子就一直在跟你作對——尤其是石磨 chakki atta，研磨速度慢、溫度偏高，等於一出廠就先開始計時。請用鼻子而不是日期判斷：新鮮 atta 聞起來甜而帶堅果香，走味的則刺鼻、微帶油漆味。常溫這個數字是比照一般全麥麵粉讀過來的，因為沒有人為 atta 本身公布期限。",
+  "fridge": "裝密封罐放 4 °C 以下 6～8 個月，這是全麥麵粉的公布數字，可以直接套用。低溫大約把櫃子能給你的時間翻一倍；對一個每天用整袋粉做烤餅的家庭來說，那個冰箱位置很值得。揉麵前請先讓粉回到室溫——冷粉配冷水會做出一團硬得不肯鬆弛的麵團，擀的時候它會一直跟你對抗。",
+  "freezer": "−18 °C 下 1 年，而對一個家庭實際會買的五公斤或十公斤裝來說，這才是誠實的答案。請倒進密封罐冷凍，不要整袋紙袋丟進去，並貼上標籤。只要全程沒退冰，超過一年仍然安全；先用完的是風味，因為胚芽油仍在慢慢氧化。另外，新買的整袋先冷凍凍硬兩三天，可以殺掉跟著進來的象鼻蟲卵——那是 atta 在溫暖廚房裡壞掉的另一個原因。",
+  "thawing": "要用多少拿多少，並讓密封的容器回到室溫再開蓋，粉才不會受潮。用回到室溫的粉和溫水揉出來的麵團，好擀得多。",
+  "spoilage": [
+   "聞起來刺鼻、像油漆或蠟筆味——胚芽油耗，最常見的結局。",
+   "用一向沒問題的方法做出來的烤餅卻發苦。",
+   "容器裡出現絲網、小蛾或幼蟲，整批丟掉。",
+   "結成硬塊或表面結成一層餅，表示水氣碰到粉了。"
+  ],
+  "tips": [
+   "倒進密封罐；紙袋什麼也擋不住。",
+   "新買的整袋先冷凍凍硬兩三天，處理掉象鼻蟲卵。",
+   "揉麵前先讓粉回到室溫，否則麵團鬆弛不了。",
+   "買你家這一季真的用得完的份量。"
+  ],
+  "faq": [
+   {
+    "q": "atta 可以放多久？",
+    "a": "密封放常溫 3～6 個月，4 °C 以下冷藏 6～8 個月，或 −18 °C 冷凍 1 年。"
+   },
+   {
+    "q": "atta 要放冰箱嗎？",
+    "a": "大袋的話值得——冷藏大約能把常溫壽命翻一倍，因為限制它的就是胚芽油。揉麵前記得先讓粉回到室溫。"
+   },
+   {
+    "q": "怎麼避免 atta 長蟲？",
+    "a": "新買的整袋先冷凍凍硬兩三天把蟲卵殺掉，之後改用密封罐保存，不要留在紙袋裡。"
+   }
+  ]
+ }
+}

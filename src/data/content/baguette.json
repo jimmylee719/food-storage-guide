@@ -1,0 +1,83 @@
+{
+ "slug": "baguette",
+ "en": {
+  "name": "Baguette",
+  "aliases": [
+   "French bread",
+   "French stick",
+   "crusty bread",
+   "法國麵包"
+  ],
+  "summary": "A baguette is at its best for 4–24 hours at room temperature and then it is finished — it is a lean bread of flour, water, salt and yeast with nothing in it to hold water. Never refrigerate one. Freezing at −18 °C (0 °F) holds it for 3 months and is the only way to keep one properly.",
+  "pantry": "4–24 hours, and everyone in France knows it. A baguette has an enormous crust-to-crumb ratio and no fat, sugar or milk to retain moisture, so it dries from both directions at once and is noticeably stale by the evening. Leave it out of any bag: a paper sleeve keeps the crust crisp and the crumb going, while plastic softens the crust to leather within the hour. This is a quality judgement and not a safety one — nothing dangerous happens to a day-old baguette, it simply stops being bread and becomes an ingredient for croûtons, panzanella or pain perdu.",
+  "fridge": "Never. Refrigeration accelerates starch retrogradation, the recrystallisation that staling actually consists of, and it runs fastest at fridge temperature; a published bread-storage study measured firmness rising further over ten days at fridge temperature than at room temperature. A lean bread has no fat to buffer that. The one thing the fridge does buy is time against mould, which matters in a hot humid kitchen — but a baguette will be stale long before it moulds, so that trade is never worth taking. Freeze it instead.",
+  "freezer": "3 months at −18 °C (0 °F) for best quality, and this is the only real way to keep a baguette. Freeze it the hour it cools, whole or in halves, wrapped tight with the air excluded; freezing halts the recrystallisation that staling consists of, so it comes back genuinely well. Refresh from frozen in a hot oven for ten to fifteen minutes. Kept continuously frozen it stays safe indefinitely — the limit is dryness and freezer burn, not safety. That figure is read across from commercially baked sliced bread, as no authority publishes one for a baguette.",
+  "thawing": "Bake it from frozen in a hot oven rather than thawing; a thawed baguette is soft and disappointing. Never thaw bread on the counter all day if the kitchen is warm and humid.",
+  "spoilage": [
+   "A crust that has gone soft and leathery instead of shattering.",
+   "A crumb so dry it crumbles to dust rather than tearing.",
+   "Fuzzy mould spots, usually at the cut end or under a plastic bag.",
+   "Any sour or musty smell, which means it was bagged while still warm."
+  ],
+  "tips": [
+   "Buy it the size you will eat, and buy it twice rather than once.",
+   "Paper sleeve on the counter, never plastic.",
+   "A splash of water on the crust and five minutes in a hot oven revives it once, and only once.",
+   "Freeze half on the way home if you know you will not finish it."
+  ],
+  "faq": [
+   {
+    "q": "How long does a baguette stay fresh?",
+    "a": "4–24 hours at room temperature in a paper sleeve. After that it is stale — perfectly safe, but a different ingredient."
+   },
+   {
+    "q": "Can you keep a baguette in the fridge?",
+    "a": "No. Refrigeration accelerates staling, and a lean bread with no fat has nothing to buffer it. Freeze it instead."
+   },
+   {
+    "q": "Can you freeze a baguette?",
+    "a": "Yes, 3 months at −18 °C (0 °F). Freeze it the hour it cools, wrapped tight, and refresh it straight from frozen in a hot oven."
+   }
+  ]
+ },
+ "zh": {
+  "name": "法式長棍",
+  "aliases": [
+   "法棍",
+   "法國麵包",
+   "長棍麵包",
+   "baguette"
+  ],
+  "summary": "法棍在室溫下的賞味期是 4～24 小時，之後就結束了——它是只有麵粉、水、鹽和酵母的瘦麵包，裡面沒有任何能抓住水分的東西。絕對不要冷藏。−18 °C 冷凍可以留住它 3 個月，那也是唯一真正保存得住法棍的方法。",
+  "pantry": "4～24 小時，這是每個法國人都知道的事。法棍的外皮比例極高，又沒有油脂、糖或牛奶留住水分，所以它同時從裡外兩頭變乾，到了傍晚就明顯不新鮮了。別裝袋：紙袋能讓外皮保持脆、內裡繼續呼吸，塑膠袋一小時內就把外皮悶成皮革。這是品質判斷，不是安全判斷——放了一天的法棍不會害人，它只是不再是麵包，而變成做麵包丁、麵包沙拉或法式吐司的材料。",
+  "fridge": "絕對不要。冷藏會加速澱粉回凝，而老化的本質就是這種再結晶，它在冷藏溫度下跑得最快；一份公開的麵包保存研究就量到，在冷藏溫度下放十天的硬度上升幅度，比放在室溫下更大。瘦麵包沒有油脂可以緩衝這件事。冷藏唯一買得到的是對抗霉的時間，這在又熱又濕的廚房裡有意義——但法棍在長霉之前老早就已經硬了，所以這個交換永遠划不來。請改用冷凍。",
+  "freezer": "−18 °C 下 3 個月品質最好，而這是唯一真正能保存法棍的方式。放涼的那一小時內就冷凍，整支或切半，包緊、擠掉空氣；冷凍能讓再結晶停下來，所以它回得來，而且回得相當好。要吃時直接從冷凍進烤箱，高溫烤十到十五分鐘。只要全程沒退冰就一直是安全的——限制它的是變乾和凍燒，不是安全。這個數字是比照市售切片麵包而來，因為沒有權威機關為法棍公布期限。",
+  "thawing": "直接從冷凍進高溫烤箱，不要先解凍；解凍過的法棍會軟塌，很令人失望。如果廚房又熱又濕，也不要把麵包擱在檯面上解凍一整天。",
+  "spoilage": [
+   "外皮變軟、變得像皮革，咬下去不會碎裂。",
+   "內裡乾到一撕就成粉，而不是撕得出絲。",
+   "長出絨毛狀霉點，通常先在切口或塑膠袋裡出現。",
+   "聞起來發酸或有霉味，那通常表示它還熱著就被裝袋了。"
+  ],
+  "tips": [
+   "買吃得完的長度，寧可跑兩趟也不要一次買太多。",
+   "檯面上用紙袋，絕對不要塑膠袋。",
+   "外皮灑點水、高溫烤五分鐘可以救回來一次，也只有一次。",
+   "回家路上就知道吃不完的話，先切一半冷凍起來。"
+  ],
+  "faq": [
+   {
+    "q": "法棍可以放多久？",
+    "a": "室溫紙袋 4～24 小時。之後它就不新鮮了——安全上沒問題，但已經是另一種材料。"
+   },
+   {
+    "q": "法棍可以冰冰箱冷藏嗎？",
+    "a": "不行。冷藏會加速老化，而沒有油脂的瘦麵包完全擋不住。請改用冷凍。"
+   },
+   {
+    "q": "法棍可以冷凍嗎？",
+    "a": "可以，−18 °C 下 3 個月。放涼的那一小時內包緊冷凍，要吃時直接從冷凍進高溫烤箱回烤。"
+   }
+  ]
+ }
+}

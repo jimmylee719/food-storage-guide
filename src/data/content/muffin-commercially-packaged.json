@@ -1,0 +1,83 @@
+{
+ "slug": "muffin-commercially-packaged",
+ "en": {
+  "name": "Muffins, commercially packaged",
+  "aliases": [
+   "shop-bought muffins",
+   "packaged muffins",
+   "市售瑪芬",
+   "包裝馬芬"
+  ],
+  "summary": "Commercially packaged muffins keep 3–7 days at room temperature in their sealed pack, and 3 months at −18 °C (0 °F). Refrigeration is not recommended — a muffin dries out and goes stale quickly in the fridge.",
+  "pantry": "3–7 days in the unopened pack at room temperature, somewhere cool and out of direct sun, and to the printed date if that comes sooner. A packaged muffin lasts noticeably longer than a bakery one because it is made with more fat and sugar, sealed in a low-oxygen pack and often carries a mould inhibitor. Once you open the pack, close it properly or move the muffins to a tub — an open pack goes stale at the cut surface first, and a muffin with a fresh-fruit or cream-cheese topping is a perishable food that belongs in the fridge regardless of what the base timeline says.",
+  "fridge": "Refrigeration is not recommended: a muffin will quickly dry out and become stale in the fridge. The reason is starch retrogradation, which runs fastest just above freezing — the crumb firms and dries faster at 4 °C than it does on the counter. The one thing the fridge buys is time against mould, which matters in a hot humid kitchen, and if that is your problem the freezer solves it better by stopping mould without the staling penalty. Warming a stale muffin briefly does reverse some of the staling; it does nothing about mould.",
+  "freezer": "3 months at −18 °C (0 °F) for best quality. Freeze them in their pack or wrapped individually with the air excluded, so you can take out one at a time. Kept continuously frozen they stay safe well beyond that window — the timeline describes dryness, ice crystals and freezer burn, not safety. Thaw at room temperature in the wrapping, or warm a frozen muffin in a low oven for a few minutes.",
+  "thawing": "Thaw wrapped at room temperature for an hour or two, or warm from frozen in a low oven. A muffin thawed in the fridge and still cold may be refrozen with some quality loss; one thawed on a warm counter should not be refrozen.",
+  "spoilage": [
+   "Fuzzy mould spots, often first in the crease where the paper case meets the crumb.",
+   "A stale, dry crumb that crumbles to dust instead of tearing.",
+   "A rancid or crayon-like smell from the fat in an old muffin.",
+   "A sticky or wet surface inside a pack that has been opened and resealed damp."
+  ],
+  "tips": [
+   "Go by the printed date first; that is what the pack is for.",
+   "Wrap individually before freezing so you take out only what you need.",
+   "Muffins with fresh fruit, cream cheese or custard toppings belong in the fridge.",
+   "Peel the paper case off before freezing if you plan to warm them in an oven."
+  ],
+  "faq": [
+   {
+    "q": "How long do packaged muffins last?",
+    "a": "3–7 days at room temperature in the sealed pack, or to the printed date if it is sooner. Frozen, 3 months at −18 °C (0 °F)."
+   },
+   {
+    "q": "Should muffins go in the fridge?",
+    "a": "No. Refrigeration is not recommended because they dry out and go stale quickly. Freeze them instead if you need more time."
+   },
+   {
+    "q": "Can you freeze shop-bought muffins?",
+    "a": "Yes, 3 months at −18 °C (0 °F) for best quality. Wrap them individually and thaw at room temperature or warm from frozen."
+   }
+  ]
+ },
+ "zh": {
+  "name": "市售包裝瑪芬",
+  "aliases": [
+   "包裝馬芬",
+   "超市瑪芬",
+   "杯子蛋糕",
+   "packaged muffin"
+  ],
+  "summary": "市售包裝瑪芬未拆封放室溫可放 3～7 天，−18 °C 冷凍是 3 個月。不建議冷藏——瑪芬在冷藏室裡會很快變乾走味。",
+  "pantry": "未拆封、放陰涼避免直曬的地方，室溫 3～7 天；若包裝上的印製日期更早，就以日期為準。包裝瑪芬明顯比麵包店現做的耐放，因為它油糖比例更高、封在低氧包裝裡，而且常常含有抑霉成分。一旦拆封就要確實封好，或把瑪芬移到保鮮盒——拆開的包裝會先從切面開始變乾；另外，表面有新鮮水果或奶油乳酪裝飾的那種是易腐食品，不管基本期限寫什麼，都該放冷藏。",
+  "fridge": "不建議冷藏：瑪芬放冷藏會很快變乾、走味。原因是澱粉回凝，而回凝在略高於冰點時跑得最快——在 4 °C 下，組織會比放在檯面上更快變硬變乾。冷藏唯一買得到的是對抗霉的時間，這在又熱又濕的廚房裡有意義；但如果你的問題是霉，冷凍解決得更好，因為它擋得住霉又不必付老化的代價。稍微加熱可以逆轉一部分老化，但對霉一點用也沒有。",
+  "freezer": "−18 °C 下 3 個月品質最好。連包裝一起冷凍，或一顆一顆包好、擠掉空氣，之後要幾顆拿幾顆。只要全程沒退冰，超過這個期限仍然安全——期限描述的是變乾、冰晶和凍燒，不是安全。要吃時包著在室溫解凍，或直接從冷凍進低溫烤箱烤幾分鐘。",
+  "thawing": "包著在室溫放一兩個小時解凍，或直接從冷凍用低溫烤箱回溫。在冷藏解凍、而且還是冰的可以再冷凍，只是品質會打折；在溫暖檯面上解凍過的就不要再凍回去。",
+  "spoilage": [
+   "長出絨毛狀霉點，常常先出現在紙模和蛋糕體交界的摺縫裡。",
+   "組織乾到一捏成粉，撕不出組織感。",
+   "聞得到油耗味、像蠟筆的氣味。",
+   "拆封後受潮又封回去，表面變得黏手或濕濕的。"
+  ],
+  "tips": [
+   "先看包裝上的印製日期，那就是包裝存在的意義。",
+   "冷凍前一顆一顆包好，要幾顆拿幾顆。",
+   "有新鮮水果、奶油乳酪或卡士達裝飾的瑪芬要放冷藏。",
+   "打算用烤箱回溫的話，冷凍前先把紙模撕掉。"
+  ],
+  "faq": [
+   {
+    "q": "市售瑪芬可以放多久？",
+    "a": "未拆封放室溫 3～7 天，或以更早的印製日期為準。冷凍則是 −18 °C 下 3 個月。"
+   },
+   {
+    "q": "瑪芬要放冰箱冷藏嗎？",
+    "a": "不要。冷藏會讓它很快變乾走味，所以不建議。需要更長時間就冷凍。"
+   },
+   {
+    "q": "市售瑪芬可以冷凍嗎？",
+    "a": "可以，−18 °C 下 3 個月品質最好。一顆一顆包好冷凍，室溫解凍或直接從冷凍回溫都行。"
+   }
+  ]
+ }
+}

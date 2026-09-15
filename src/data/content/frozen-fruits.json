@@ -1,0 +1,83 @@
+{
+ "slug": "frozen-fruits",
+ "en": {
+  "name": "Frozen fruit",
+  "aliases": [
+   "frozen berries",
+   "frozen melon",
+   "IQF fruit",
+   "冷凍水果"
+  ],
+  "summary": "Frozen fruit keeps 10–18 months from purchase at −18 °C (0 °F) for best quality. Kept continuously frozen it stays safe indefinitely — the window is about colour, texture and flavour. Thawing it in the fridge is not recommended, because fruit collapses as it thaws.",
+  "pantry": "No room-temperature storage, and no counter thawing. Fruit is acidic enough that it is not the pathogen risk a frozen meal is, but it is still a food you should not leave sitting out: berries in particular weep heavily, ferment in a warm kitchen and attract flies. If you want frozen fruit soft, use it partly frozen — which is also when it tastes and looks best.",
+  "fridge": "Thawing frozen fruit in the refrigerator is not recommended, and no refrigerated timeline is given for it. The reason is structural rather than microbial: freezing bursts the cell walls of a soft fruit, and a slow thaw lets the fruit sit in its own released juice until it is limp and pale. Use it from frozen wherever you can — smoothies, compotes, baking, sauces — or thaw it only just enough to be usable and serve it while there are still ice crystals in it. Fruit already thawed and in a dish should go back in the fridge and be treated as a fresh, cut fruit.",
+  "freezer": "10–18 months from purchase at −18 °C (0 °F) for best quality. Frozen fruit held continuously at −18 °C stays safe indefinitely; what the window describes is quality — colour fading, flavour flattening, ice crystals growing inside the pieces and freezer burn on the outside. Keep the bag sealed with the air pressed out, and squeeze it occasionally: a bag that has gone from loose pieces to a solid lump has part-thawed and refrozen at some point, and the texture will show it.",
+  "thawing": "Use it from frozen wherever possible. If you must thaw, do it briefly and use it while still icy; long fridge thawing is not recommended. Fruit thawed in the fridge and still at or below 4 °C (40 °F) may be refrozen with some quality loss, though it will be noticeably softer; fruit thawed on the counter should not be refrozen.",
+  "spoilage": [
+   "A solid lump instead of loose pieces, meaning the bag part-thawed and refroze.",
+   "Dry, pale, shrivelled pieces with white patches — freezer burn.",
+   "Colour faded from deep red or purple to dull brown.",
+   "A fermented or alcoholic smell from fruit that has thawed and been left out."
+  ],
+  "tips": [
+   "Buy loose IQF pieces rather than a block; you can take out exactly what you need.",
+   "Squeeze the bag in the shop — a solid lump means the cold chain broke.",
+   "Use from frozen in smoothies and baking; there is no need to thaw.",
+   "Press the air out and reseal after every use."
+  ],
+  "faq": [
+   {
+    "q": "How long does frozen fruit last?",
+    "a": "10–18 months from purchase at −18 °C (0 °F) for best quality. Kept continuously frozen it stays safe beyond that; the window is about colour, flavour and texture."
+   },
+   {
+    "q": "Should you thaw frozen fruit in the fridge?",
+    "a": "It is not recommended. A slow thaw leaves the fruit sitting in its own juice and going limp. Use it from frozen, or serve it while still icy."
+   },
+   {
+    "q": "Why has my bag of frozen berries turned into one solid lump?",
+    "a": "It part-thawed and refroze at some point, in the shop, on the way home or in a door shelf. It is usually still safe, but the texture will be poor."
+   }
+  ]
+ },
+ "zh": {
+  "name": "冷凍水果",
+  "aliases": [
+   "冷凍莓果",
+   "冷凍水果丁",
+   "急凍水果",
+   "frozen fruit"
+  ],
+  "summary": "冷凍水果在 −18 °C 下自購買日起可保有最佳品質 10～18 個月。只要全程沒退冰就一直是安全的——這個期限講的是顏色、口感和風味。不建議放冷藏解凍，因為水果一解凍就塌。",
+  "pantry": "沒有室溫保存，也不要在檯面上退冰。水果夠酸，所以它不像冷凍調理餐那樣是病原菌風險，但仍然不該擺在外面：莓果尤其會大量出水，在溫暖的廚房裡會發酵，還會招果蠅。想要冷凍水果軟一點，就用「半解凍」的狀態——那也剛好是它最好吃、最好看的時候。",
+  "fridge": "不建議把冷凍水果放冷藏解凍，這裡也不給冷藏期限。原因是結構性的，不是微生物問題：冷凍會撐破軟質水果的細胞壁，而慢慢解凍會讓果肉一直泡在自己釋出的汁液裡，最後又軟又沒血色。能直接用冷凍的就直接用——打果昔、煮果醬、烘焙、做醬汁——或者只解到勉強能用、還帶著冰晶的程度就上桌。已經解凍盛盤的水果請放回冷藏，並當成一份切好的新鮮水果來看待。",
+  "freezer": "−18 °C 下自購買日起 10～18 個月品質最好。全程維持在 −18 °C 的冷凍水果可以無限期保持安全；這個期限描述的是品質——顏色變淡、香氣變平、果肉內部長出冰晶、外表凍燒。袋子要壓出空氣密封，而且偶爾捏一下：一包從一顆顆散開變成一整塊硬團的水果，中途一定半退冰又再凍過，口感會誠實反映出來。",
+  "thawing": "能直接用冷凍的就直接用。真的要解凍就短時間解、趁還帶冰晶時用掉；不建議長時間冷藏解凍。在冷藏解凍、且維持在 4 °C 以下的可以再冷凍，只是品質打折、會明顯更軟；在檯面上解凍過的就不要再冷凍。",
+  "spoilage": [
+   "整包凍成一塊硬團而不是一顆顆散開，表示半退冰又再凍過。",
+   "果肉變得乾癟、發白、有白色斑塊——那是凍燒。",
+   "顏色從深紅或紫褪成暗褐。",
+   "解凍後擱在外面的水果聞起來發酵或有酒精味。"
+  ],
+  "tips": [
+   "買一顆顆分離的急凍款，不要買結成一大塊的；要多少拿多少。",
+   "在店裡捏一下袋子——已經結成硬塊表示冷鏈斷過。",
+   "打果昔、做烘焙直接用冷凍的，不必解凍。",
+   "每次用完都壓出空氣重新封好。"
+  ],
+  "faq": [
+   {
+    "q": "冷凍水果可以放多久？",
+    "a": "−18 °C 下自購買日起 10～18 個月品質最好。只要沒退冰就一直安全；這個期限講的是顏色、風味和口感。"
+   },
+   {
+    "q": "冷凍水果可以放冷藏解凍嗎？",
+    "a": "不建議。慢慢解凍會讓果肉一直泡在自己的汁裡而變軟爛。請直接用冷凍的，或趁還帶冰晶時吃。"
+   },
+   {
+    "q": "冷凍莓果為什麼變成一大塊？",
+    "a": "它在某個環節半退冰又再凍過了——可能在店裡、路上，或放在冷凍櫃門邊。通常還是安全的，但口感會變差。"
+   }
+  ]
+ }
+}

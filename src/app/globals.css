@@ -547,3 +547,18 @@ details.faq-item .faq-answer { padding: 0 16px 14px; color: var(--muted); font-s
   color: var(--muted);
   font-size: .85rem;
 }
+
+/* A correction to the source data is shown, never applied silently. */
+.correction-note {
+  margin: 14px 0;
+  padding: 12px 14px;
+  border-inline-start: 4px solid var(--pantry);
+  border-radius: 8px;
+  background: var(--pantry-soft);
+  font-size: .88rem;
+}
+.correction-note p { margin: 0 0 6px; }
+.correction-note p:last-child { margin-bottom: 0; }
+@media (prefers-color-scheme: dark) {
+  .correction-note { background: color-mix(in srgb, var(--pantry) 18%, var(--surface)); }
+}

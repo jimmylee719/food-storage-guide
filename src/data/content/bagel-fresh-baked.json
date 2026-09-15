@@ -1,0 +1,83 @@
+{
+ "slug": "bagel-fresh-baked",
+ "en": {
+  "name": "Bagels, fresh baked",
+  "aliases": [
+   "fresh bagels",
+   "bakery bagels",
+   "貝果",
+   "現烤貝果"
+  ],
+  "summary": "Fresh-baked bagels keep 1–2 days at room temperature in a paper bag, and 3 months at −18 °C (0 °F). Refrigeration is not recommended: a bagel dries out and goes stale quickly in the fridge, so the freezer is the only good way to keep one past the second day.",
+  "pantry": "1–2 days in a paper bag or a bread bin at room temperature. A bagel is boiled before it is baked, which gives it a dense, chewy crumb and a thin shiny skin, and that skin holds moisture in for about a day before the crumb starts to tighten. Sealed plastic softens the crust and pushes the humidity up, which brings mould forward; paper lets it breathe. Bagels are not a perishable food in the food-safety sense, so the failure is staling and then mould rather than anything sudden.",
+  "fridge": "Refrigeration is not recommended — a bagel will quickly dry out and become stale in the fridge. This is not fussiness: starch retrogradation, the recrystallising that staling consists of, runs fastest just above freezing, so the fridge is the worst temperature available for a lean bread. The one argument for it is mould, which wins first in a hot humid kitchen. If that is your problem, freeze the bagels instead — the freezer suppresses mould without the staling penalty. And note that toasting reverses staling, by re-gelatinising the starch, but it does nothing whatsoever about mould.",
+  "freezer": "3 months at −18 °C (0 °F) for best quality. Kept continuously frozen they remain safe beyond that; the timeline is about dryness and freezer burn, not safety. Slice them first — a frozen bagel is genuinely hard to cut — then bag them with the air pressed out, and freeze them the day they are baked rather than after they have already begun to stale. Toast straight from frozen.",
+  "thawing": "Toast or bake from frozen; that gives the best result and no thawing is needed. To eat one soft, thaw it wrapped at room temperature for an hour or so, and do not leave it out all day.",
+  "spoilage": [
+   "Fuzzy green, blue or white mould spots, often first at the base.",
+   "A rock-hard, dry crumb that no longer springs back when pressed.",
+   "A sour, musty or alcoholic smell from a bagel kept in sealed plastic.",
+   "Dry white crystalline patches on a frozen bagel — freezer burn, a quality fault."
+  ],
+  "tips": [
+   "Paper bag or bread bin, not sealed plastic, for the first day or two.",
+   "Slice before freezing so you can toast straight from the freezer.",
+   "Freeze on the day of baking; freezing a stale bagel just preserves the staleness.",
+   "A day-old bagel is better toasted than eaten cold — toasting genuinely undoes staling."
+  ],
+  "faq": [
+   {
+    "q": "How long do fresh bagels last?",
+    "a": "1–2 days at room temperature in paper, or 3 months in the freezer at −18 °C (0 °F)."
+   },
+   {
+    "q": "Should you keep bagels in the fridge?",
+    "a": "No. Refrigeration is not recommended because a bagel dries out and stales quickly there. If mould is your worry in a hot humid kitchen, freeze them instead."
+   },
+   {
+    "q": "Can you freeze fresh bagels?",
+    "a": "Yes, 3 months at −18 °C (0 °F) for best quality. Slice them first, freeze them on the day they are baked, and toast them from frozen."
+   }
+  ]
+ },
+ "zh": {
+  "name": "現烤貝果",
+  "aliases": [
+   "貝果",
+   "麵包圈",
+   "百吉果",
+   "fresh bagels"
+  ],
+  "summary": "現烤貝果放室溫、裝紙袋可放 1～2 天，−18 °C 冷凍則是 3 個月。不建議冷藏：貝果在冷藏室裡很快就會變乾走味，所以想留過第二天，冷凍是唯一好辦法。",
+  "pantry": "裝紙袋或放麵包盒，室溫 1～2 天。貝果是先燙過再烤的，所以組織紮實有嚼勁，表面有一層薄而亮的皮，那層皮大概能把水分關住一天左右，之後內裡就開始緊縮。密封塑膠袋會把外皮悶軟、把袋內濕度拉高，霉就來得更早；紙袋能讓它透氣。以食安的定義來說貝果不算易腐食品，所以它的失敗方式是先走味、再長霉，不會突然出事。",
+  "fridge": "不建議冷藏——貝果放冷藏會很快變乾、走味。這不是講究：老化的本質是澱粉回凝，而回凝速度在略高於冰點時最快，所以對一個沒有油脂的瘦麵包來說，冷藏是最糟的溫度。唯一支持冷藏的理由是霉：在又熱又濕的廚房裡，霉會先贏。如果你的問題是霉，那就冷凍——冷凍同樣壓得住霉，卻不必付老化的代價。另外要知道：烤過可以把老化逆轉回來，因為熱讓澱粉重新糊化；但烤對霉一點辦法也沒有。",
+  "freezer": "−18 °C 下 3 個月品質最好。只要全程沒退冰，超過這個時間仍然安全；這個期限講的是變乾和凍燒，不是安全。冷凍前先剖開——冷凍的貝果真的很難切——壓出空氣裝袋，而且要在出爐當天就冷凍，不要等它已經開始走味才凍。要吃直接從冷凍烤。",
+  "thawing": "直接從冷凍烤或進烤箱，這樣最好吃，也不需要解凍。想吃軟的就包好在室溫放一小時左右，不要整天擺在外面。",
+  "spoilage": [
+   "長出綠色、藍色或白色的絨毛霉點，常常先出現在底面。",
+   "硬得像石頭、壓下去不會回彈。",
+   "密封塑膠袋裡的貝果聞起來發酸、有霉味或酒精味。",
+   "冷凍的貝果上出現乾白結晶斑——那是凍燒，屬於品質問題。"
+  ],
+  "tips": [
+   "頭一兩天用紙袋或麵包盒，不要密封塑膠袋。",
+   "冷凍前先剖開，之後才能直接從冷凍烤。",
+   "出爐當天就冷凍；把已經走味的貝果冷凍起來，只是把走味保存下來而已。",
+   "隔天的貝果烤過再吃比冷吃好——烤真的能把老化逆轉回來。"
+  ],
+  "faq": [
+   {
+    "q": "現烤貝果可以放多久？",
+    "a": "室溫紙袋 1～2 天，或 −18 °C 冷凍 3 個月。"
+   },
+   {
+    "q": "貝果可以放冰箱冷藏嗎？",
+    "a": "不建議。冷藏會讓它很快變乾走味。如果你在熱又濕的廚房裡怕長霉，請改用冷凍。"
+   },
+   {
+    "q": "現烤貝果可以冷凍嗎？",
+    "a": "可以，−18 °C 下 3 個月品質最好。先剖開、出爐當天就凍，要吃時直接從冷凍烤。"
+   }
+  ]
+ }
+}

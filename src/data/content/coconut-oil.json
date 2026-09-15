@@ -1,0 +1,83 @@
+{
+ "slug": "coconut-oil",
+ "en": {
+  "name": "Coconut oil",
+  "aliases": [
+   "virgin coconut oil",
+   "refined coconut oil",
+   "椰子油",
+   "初榨椰子油"
+  ],
+  "summary": "Coconut oil keeps 3 years in the pantry — far longer than any other cooking oil here — because it is overwhelmingly saturated fat, and saturated fat has very little for oxygen to attack. Refrigeration and freezing are both not recommended, because they make it too hard to use.",
+  "pantry": "3 years in a cool dark cupboard with the lid on. Coconut oil is unusual among kitchen oils in being about ninety per cent saturated, and rancidity is a reaction between oxygen and the double bonds in unsaturated fat — coconut oil simply has very few of them. That is why it outlasts a nut oil many times over. It sets solid below about 24 °C and melts above it, so in a Taiwanese kitchen it will be liquid in summer and firm in winter; both are normal and the oil is unchanged. Use a clean dry spoon, because water and food crumbs are what actually spoil a jar.",
+  "fridge": "Refrigeration is not recommended, because it makes the oil difficult to use: a cold jar sets rock hard and you cannot get a spoon into it without a fight. It buys you nothing worth having either, since 3 years in the cupboard is already far longer than most households take to finish a jar. No refrigerated timeline is given for that reason. If your kitchen is extremely hot, keep the jar in the coolest cupboard rather than the fridge.",
+  "freezer": "Freezing is not recommended, for the same reason: frozen coconut oil is a solid block and impossible to portion. There is no shelf-life benefit either, since the fat is already about as stable as a kitchen fat gets. If you want portioned coconut oil, melt it and pour it into a silicone mould, then keep the pieces in the cupboard rather than the freezer.",
+  "thawing": null,
+  "spoilage": [
+   "A sharp, sour or crayon-like smell instead of a clean coconut one.",
+   "Yellow patches or a yellowing of the whole jar.",
+   "Mould, which only appears if water or food got into the jar.",
+   "A bitter taste, which is the clearest sign in a fat this mild."
+  ],
+  "tips": [
+   "Always use a clean, dry spoon; water in the jar is what spoils it.",
+   "Solid in winter and liquid in summer is normal and changes nothing.",
+   "Virgin coconut oil keeps its coconut aroma; refined is neutral and takes higher heat.",
+   "Keep the lid on — the smell of a kitchen ends up in an open jar of fat."
+  ],
+  "faq": [
+   {
+    "q": "How long does coconut oil last?",
+    "a": "3 years in a cool dark cupboard with the lid on — far longer than most cooking oils, because it is almost entirely saturated fat."
+   },
+   {
+    "q": "Should coconut oil be refrigerated?",
+    "a": "No. Refrigeration is not recommended because it sets rock hard and becomes difficult to use, and the cupboard already gives it years."
+   },
+   {
+    "q": "Why is my coconut oil liquid?",
+    "a": "It melts at around 24 °C, so it is liquid in a warm kitchen and solid in a cool one. Both states are normal and the oil is unchanged."
+   }
+  ]
+ },
+ "zh": {
+  "name": "椰子油",
+  "aliases": [
+   "初榨椰子油",
+   "精製椰子油",
+   "椰油",
+   "coconut oil"
+  ],
+  "summary": "椰子油放櫃子裡可放 3 年——比本站任何一種食用油都長——因為它絕大部分是飽和脂肪，而飽和脂肪幾乎沒有東西可以讓氧氣攻擊。冷藏和冷凍都不建議，因為那會讓它難用到不行。",
+  "pantry": "放陰涼避光的櫃子、蓋好蓋子，3 年。椰子油在廚房油品裡很特別：它大約九成是飽和脂肪，而油耗是氧氣和不飽和脂肪裡的雙鍵反應——椰子油根本沒有多少雙鍵。這就是它比堅果油耐放好幾倍的原因。它大約在 24 °C 以下凝固、以上融化，所以在台灣的廚房裡，夏天是液態、冬天是固態；兩種都正常，油本身沒有變。取用請用乾淨的乾湯匙，因為真正會弄壞一罐椰子油的是水和食物碎屑。",
+  "fridge": "不建議冷藏，因為那會讓它變得很難用：冰過的罐子會凝得硬邦邦，湯匙根本挖不動。而且你什麼也沒賺到，因為放櫃子的 3 年，本來就遠長於多數家庭用完一罐的時間。這裡不給冷藏期限，原因就在這裡。如果你的廚房非常熱，請放家裡最涼的櫃子，而不是冰箱。",
+  "freezer": "不建議冷凍，理由一樣：冷凍的椰子油是一整塊硬磚，根本分不出份量。保存期限上也沒有好處，因為它本來就已經是廚房裡最穩定的油脂之一。想要分好份量的椰子油，就融化後倒進矽膠模，凝固之後把小塊收在櫃子裡，而不是冷凍庫。",
+  "thawing": null,
+  "spoilage": [
+   "聞起來刺鼻、發酸或有蠟筆味，而不是乾淨的椰子香。",
+   "出現黃斑，或整罐顏色轉黃。",
+   "長霉——這只會在水或食物跑進罐子時發生。",
+   "吃起來發苦；對一個風味這麼溫和的油脂來說，這是最明確的訊號。"
+  ],
+  "tips": [
+   "一律用乾淨的乾湯匙；讓它壞掉的就是罐子裡的水。",
+   "冬天硬、夏天液態都是正常的，油本身沒變。",
+   "初榨椰子油保留椰香，精製椰子油氣味中性、更耐高溫。",
+   "蓋子要蓋好——敞開的油罐最後會裝滿整個廚房的味道。"
+  ],
+  "faq": [
+   {
+    "q": "椰子油可以放多久？",
+    "a": "放陰涼避光的櫃子、蓋好蓋子 3 年——比多數食用油長得多，因為它幾乎全是飽和脂肪。"
+   },
+   {
+    "q": "椰子油要冷藏嗎？",
+    "a": "不要。冷藏不被建議，因為它會凝得硬邦邦、非常難用，而放櫃子本來就已經有好幾年了。"
+   },
+   {
+    "q": "我的椰子油怎麼變成液體了？",
+    "a": "它大約 24 °C 就融化，所以廚房熱就是液態、涼就是固態。兩種狀態都正常，油本身沒有改變。"
+   }
+  ]
+ }
+}

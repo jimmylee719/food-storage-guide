@@ -1,0 +1,83 @@
+{
+ "slug": "almond-extract",
+ "en": {
+  "name": "Almond extract",
+  "aliases": [
+   "bitter almond extract",
+   "almond essence",
+   "杏仁精",
+   "杏仁香精"
+  ],
+  "summary": "Unopened almond extract keeps 2 years in the pantry, and 12 months once opened. It is an alcohol solution, so it does not spoil in any microbial sense — what runs out is the aroma, which evaporates a little every time the cap comes off.",
+  "pantry": "2 years unopened and 12 months after opening, in a cool dark cupboard with the cap screwed down hard. The alcohol base makes almond extract effectively self-preserving; nothing will grow in it. What you lose is benzaldehyde, the compound that gives almond extract its distinctive marzipan smell, and it is volatile — it leaves through a loose cap and it is driven off by heat, which is why the bottle should not live on the shelf above the hob. A bottle that smells faintly of alcohol and little else has nothing left to contribute, however clear it looks.",
+  "fridge": "There is no refrigerated timeline for almond extract and no need for one. Cold does not help an alcohol solution, and taking a cold bottle in and out of the fridge causes condensation inside the neck, which is the one way you could dilute it. A dark cupboard away from the stove does everything the fridge would, and keeps the bottle handy.",
+  "freezer": "No freezer timeline exists, and freezing is pointless. The alcohol will not freeze solid at domestic freezer temperatures anyway, and the aroma loss you are trying to prevent comes from evaporation through the cap rather than from anything a low temperature would slow. Tighten the cap instead.",
+  "thawing": null,
+  "spoilage": [
+   "No marzipan smell when the bottle is opened — only alcohol.",
+   "A bottle that has visibly gone down without being used, meaning the cap leaks.",
+   "Cloudiness or sediment, which usually means water got in.",
+   "A flat, chemical or bitter taste in the finished baking."
+  ],
+  "tips": [
+   "Buy small bottles; the clock starts the day you open one.",
+   "Screw the cap down hard and keep the bottle away from the hob.",
+   "Add it off the heat where you can — the aroma is driven off by cooking.",
+   "Natural extract and synthetic essence behave the same way in storage; both fade."
+  ],
+  "faq": [
+   {
+    "q": "How long does almond extract last?",
+    "a": "2 years unopened in the pantry, and 12 months after opening. It does not spoil microbially; the aroma simply fades."
+   },
+   {
+    "q": "Does almond extract need to be refrigerated?",
+    "a": "No. It is an alcohol solution and the cold does nothing for it, while a cold bottle collects condensation inside the neck."
+   },
+   {
+    "q": "Can you use almond extract past its date?",
+    "a": "It will not be unsafe, but it may taste of nothing. Smell it first: if there is no marzipan note, replace it."
+   }
+  ]
+ },
+ "zh": {
+  "name": "杏仁精",
+  "aliases": [
+   "杏仁香精",
+   "苦杏仁精",
+   "杏仁萃取液",
+   "almond extract"
+  ],
+  "summary": "未開封的杏仁精放櫃子裡可放 2 年，開封後是 12 個月。它是酒精溶液，所以微生物層面根本不會壞——先用完的是香氣，每開一次蓋就跑掉一點。",
+  "pantry": "未開封 2 年、開封後 12 個月，放陰涼避光的櫃子，瓶蓋要轉緊。酒精基底讓杏仁精本身就具備防腐性，裡面長不出東西。你失去的是苯甲醛，也就是讓杏仁精有那股杏仁糖香氣的成分；它易揮發，會從沒鎖緊的瓶蓋跑掉，也會被熱趕走，所以瓶子不要放在爐火上方的層架。一瓶打開只聞得到酒精、幾乎沒有杏仁香的，不管看起來多清澈，都已經沒有東西可以給了。",
+  "fridge": "杏仁精沒有冷藏期限，也不需要。低溫對酒精溶液沒有幫助，而冰過的瓶子進進出出還會在瓶頸內部結露——那剛好是唯一可能把它稀釋掉的途徑。一個遠離爐火的陰暗櫃子，冰箱能做的它都做得到，而且拿取方便。",
+  "freezer": "沒有冷凍期限，冷凍也沒有意義。家用冷凍的溫度本來就凍不硬酒精，而你想防止的香氣損失來自瓶蓋的揮發，不是低溫能改善的事。與其冷凍，不如把蓋子轉緊。",
+  "thawing": null,
+  "spoilage": [
+   "打開瓶子只聞得到酒精，沒有那股杏仁糖香。",
+   "沒怎麼用液面卻明顯下降，表示瓶蓋在漏。",
+   "出現混濁或沉澱，通常是水氣跑進去了。",
+   "烤出來的成品吃起來扁平、有化學味或苦味。"
+  ],
+  "tips": [
+   "買小瓶的；開封那天計時器就開始跑了。",
+   "瓶蓋確實轉緊，並遠離爐火。",
+   "能離火再加就離火再加——香氣會被加熱趕走。",
+   "天然萃取和合成香精在保存上表現一樣，兩種都會褪味。"
+  ],
+  "faq": [
+   {
+    "q": "杏仁精可以放多久？",
+    "a": "未開封放櫃子 2 年，開封後 12 個月。它不會腐敗，只是香氣會慢慢消失。"
+   },
+   {
+    "q": "杏仁精需要冷藏嗎？",
+    "a": "不用。它是酒精溶液，低溫幫不上忙，而冰過的瓶子還會在瓶頸內結露。"
+   },
+   {
+    "q": "過期的杏仁精還能用嗎？",
+    "a": "不會不安全，但可能已經沒味道了。先聞一下：聞不到杏仁糖香就換一瓶。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "slug": "suya-spice",
+ "en": {
+  "name": "Suya spice (yaji)",
+  "aliases": [
+   "yaji",
+   "suya pepper",
+   "groundnut spice mix",
+   "西非烤肉香料"
+  ],
+  "summary": "Suya spice keeps about 6 months in an airtight jar in a cool, dark cupboard — the standard figure for a ground spice blend. A large batch is better kept sealed in the fridge, where a working limit of about 1 year is reasonable; that refrigerated figure is our own reading rather than a published one.",
+  "pantry": "6 months airtight, cool, dark and dry — but expect the shorter end of that. Yaji is not really a spice blend at all: its bulk is defatted or roasted groundnut, and that fat goes rancid long before the chilli fades. The first sign is a stale, cardboardy taste rather than a smell, so taste a pinch before you rub a whole piece of meat with it. Keep the jar off the shelf above the hob, where heat does the damage fastest.",
+  "fridge": "A working limit of about 1 year, sealed. This is not a published number — it is our own extension of the ordinary rule that anything carrying nut oil keeps better cold, and it is worth doing only for a large batch you cannot get through in a season. Seal the jar against fridge odours and condensation, and let it come up to room temperature before you open it so it does not take on moisture.",
+  "freezer": "No freezer timeline exists for suya spice. Freezing would protect the groundnut oil in the same way refrigeration does, but the practical cost is condensation: a powder that is repeatedly taken out of the freezer cakes into lumps. If you have far more than a year's worth, freeze it in small sealed portions and take out one at a time rather than opening the same bag over and over.",
+  "thawing": null,
+  "spoilage": [
+   "A stale, cardboard or crayon taste — rancid groundnut, and the usual failure.",
+   "Chilli red faded to a dull brown and no heat on the tongue.",
+   "Hard cakes or damp clumps from a wet spoon or a humid cupboard.",
+   "Any visible mould, which means moisture got in and the jar goes in the bin."
+  ],
+  "tips": [
+   "Taste a pinch before using it; rancid groundnut shows up on the tongue before the nose.",
+   "Never return rub that has touched raw meat to the jar — tip out what you need onto a plate.",
+   "Keep the jar away from the hob; heat is what ages the nut oil.",
+   "Buy or make small batches rather than one big tub."
+  ],
+  "faq": [
+   {
+    "q": "How long does suya spice last?",
+    "a": "About 6 months airtight in a cool, dark cupboard. Sealed in the fridge, roughly 1 year is a reasonable working limit, though that figure is a judgement rather than a published one."
+   },
+   {
+    "q": "Why does suya spice go off faster than other spice mixes?",
+    "a": "Because most of it is groundnut. The nut oil turns rancid long before the chilli or the ginger fade, and it tastes stale and cardboardy when it does."
+   },
+   {
+    "q": "Can you reuse suya rub that has touched raw meat?",
+    "a": "No. Rub that has contacted raw meat is contaminated and must be thrown away, never tipped back into the jar."
+   }
+  ]
+ },
+ "zh": {
+  "name": "蘇亞香料",
+  "aliases": [
+   "西非烤肉香料",
+   "花生辣香料",
+   "奈及利亞烤肉粉",
+   "yaji",
+   "suya spice"
+  ],
+  "summary": "蘇亞香料裝密封罐、放在陰涼避光的櫃子裡大約可放 6 個月，這是研磨香料粉的一般標準。量大的話密封冷藏比較好，抓 1 年是合理的工作上限；不過冷藏這個數字是我們自己的判斷，不是公布的數據。",
+  "pantry": "密封、陰涼、避光、乾燥，6 個月——而且要往短的那端想。yaji 其實稱不上是純香料粉：它的主體是脫脂或烘過的花生，而那些油脂會在辣椒褪色之前就先油耗。最早出現的徵兆是味道，不是氣味：嚐起來變得呆板、像紙板，所以整塊肉抹下去之前先捏一點試味。罐子不要放在爐火上方的層架，高溫最傷它。",
+  "fridge": "密封冷藏，抓 1 年左右的工作上限。這不是公布的數字，而是我們把「帶堅果油脂的東西冷藏比較耐放」這條通則延伸過來的；只有在一季內用不完的大批量才值得這樣做。罐子要密封好，擋住冰箱的雜味和水氣，而且回到室溫再開蓋，才不會受潮。",
+  "freezer": "蘇亞香料沒有冷凍期限可循。冷凍對花生油脂的保護和冷藏是同一回事，但代價很實際：粉類反覆進出冷凍會結塊。如果真的多到一年用不完，就分成小份密封冷凍，要用才拿一份出來，不要一直開同一包。",
+  "thawing": null,
+  "spoilage": [
+   "嚐起來呆板、像紙板或蠟筆味——花生油耗了，這是最常見的結局。",
+   "辣椒的紅褪成暗褐色，入口也不辣了。",
+   "沾到濕湯匙或櫃子太潮而結成硬塊、濕塊。",
+   "看得到霉就整罐丟掉，那表示水氣已經進去了。"
+  ],
+  "tips": [
+   "用之前先捏一點嚐味；花生油耗在舌頭上比在鼻子裡更早現形。",
+   "碰過生肉的香料絕對不能倒回罐子——要用多少先倒到盤子上。",
+   "罐子遠離爐火，高溫是讓堅果油脂老化的主因。",
+   "少量多次地買或做，不要一次配一大桶。"
+  ],
+  "faq": [
+   {
+    "q": "蘇亞香料可以放多久？",
+    "a": "密封放陰涼避光處大約 6 個月。密封冷藏的話，抓 1 年是合理的上限，但這個數字是判斷，不是公布的數據。"
+   },
+   {
+    "q": "蘇亞香料為什麼比別的綜合香料容易壞？",
+    "a": "因為它大部分是花生。堅果油脂會在辣椒或薑褪味之前就先油耗，一耗掉就是那股呆板的紙板味。"
+   },
+   {
+    "q": "抹過生肉的蘇亞香料還能再用嗎？",
+    "a": "不行。碰過生肉的香料已經污染了，必須丟掉，絕對不要倒回罐子裡。"
+   }
+  ]
+ }
+}

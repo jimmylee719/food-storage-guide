@@ -1,0 +1,83 @@
+{
+ "slug": "frozen-sausages-uncooked",
+ "en": {
+  "name": "Sausages, uncooked, frozen",
+  "aliases": [
+   "raw sausages",
+   "fresh sausages",
+   "frozen raw sausage",
+   "冷凍生香腸"
+  ],
+  "summary": "Frozen uncooked sausages keep 1–2 months from purchase at −18 °C (0 °F) for best quality — a short window, because ground, exposed, salted fat oxidises even in the freezer. Once cooked, they keep 3–4 days in the fridge at 4 °C (40 °F) or below.",
+  "pantry": "No room-temperature storage, and no counter thawing. Raw sausage is ground meat, which means the surface bacteria of the original cut have been mixed all the way through — it is the same reason minced beef is treated more strictly than a steak. Anything left out is in the danger zone of 4–60 °C (40–140 °F) and the two-hour rule applies, one hour if the kitchen is above 32 °C (90 °F). Cook it through; a sausage is not a food you serve pink in the middle.",
+  "fridge": "3–4 days at 4 °C (40 °F) or below after cooking, covered — that is what the published figure describes. Raw sausages thawed in the fridge are a different and shorter matter and should be cooked within a day or so, kept in a sealed box on the bottom shelf so nothing drips onto ready-to-eat food. Pour away any liquid that collects rather than letting the sausages sit in it.",
+  "freezer": "1–2 months from purchase at −18 °C (0 °F) for best quality. That is short for a frozen meat, and the reason is the fat: it is ground, exposed to air throughout the mix, and usually salted, all of which speed up the oxidation that gives an over-kept sausage a rancid, stale taste. It is a quality window rather than a safety limit — sausages held continuously at −18 °C stay safe indefinitely. Wrap tightly or vacuum-seal, freeze in meal-sized portions separated by paper, and label with the date.",
+  "thawing": "Thaw overnight in the fridge on a plate, or in a sealed bag under cold running water, and cook the same day. Never on the counter or in warm water. Sausages thawed in the fridge and still at or below 4 °C (40 °F) may be refrozen with some quality loss; anything thawed warm must not be refrozen.",
+  "spoilage": [
+   "A rancid, stale-fat or crayon-like smell, which is what usually ends a frozen sausage.",
+   "Dry, grey or white frost-burned patches on the surface.",
+   "A slimy or sticky film on thawed raw sausages.",
+   "A sour smell, or meat gone grey-brown right through rather than just on the surface."
+  ],
+  "tips": [
+   "Freeze in portions with paper between them so you can take out two at a time.",
+   "Wrap tightly or vacuum-seal; exposed ground fat is what goes rancid.",
+   "Label with the date — the window is much shorter than for whole cuts.",
+   "Cook from thawed rather than frozen for even cooking, and cook right through."
+  ],
+  "faq": [
+   {
+    "q": "How long can you freeze raw sausages?",
+    "a": "1–2 months from purchase at −18 °C (0 °F) for best quality. They stay safe longer if they never thaw, but the fat turns rancid."
+   },
+   {
+    "q": "Can you cook sausages from frozen?",
+    "a": "You can, but they cook unevenly and often burn outside before the centre is done. Thawing overnight in the fridge gives a much better result."
+   },
+   {
+    "q": "How long do cooked sausages keep in the fridge?",
+    "a": "3–4 days at 4 °C (40 °F) or below, covered."
+   }
+  ]
+ },
+ "zh": {
+  "name": "冷凍生香腸",
+  "aliases": [
+   "生香腸",
+   "鮮香腸",
+   "冷凍生腸",
+   "raw sausage"
+  ],
+  "summary": "冷凍生香腸在 −18 °C 下自購買日起可保有最佳品質 1～2 個月——這個期限很短，因為絞碎、暴露又加了鹽的脂肪，即使在冷凍庫裡也會氧化。煮熟之後放 4 °C 以下冷藏 3～4 天。",
+  "pantry": "沒有室溫保存，也不要在檯面上退冰。生香腸是絞肉製品，意思是原本只在表面的細菌已經被拌進整塊肉裡——這和牛絞肉要比牛排更嚴格對待是同一個道理。任何擺在外面的都在 4～60 °C 的危險溫度帶裡，適用兩小時原則，廚房超過 32 °C 時只有一小時。要煮熟透；香腸不是那種可以中心帶粉紅上桌的食物。",
+  "fridge": "煮熟之後蓋好放 4 °C 以下 3～4 天——公布的數字描述的正是這個狀態。在冷藏解凍的生香腸是另一回事、期限更短，應該在一天左右內煮掉，並裝密封盒放冰箱最下層，避免血水滴到即食食品上。積出來的水請倒掉，不要讓香腸泡在裡面。",
+  "freezer": "−18 °C 下自購買日起 1～2 個月品質最好。以冷凍肉品來說這很短，原因在脂肪：它被絞碎、在整團肉裡到處接觸空氣，而且通常加了鹽，這些都加速氧化，而那正是放過頭的香腸吃起來油耗、走味的原因。這是品質期限而不是安全上限——全程維持在 −18 °C 就一直是安全的。請包緊或真空封裝，按一餐份量、中間夾紙分裝冷凍，並標上日期。",
+  "thawing": "放盤子裡冷藏隔夜解凍，或密封裝袋泡在流動冷水下，並在當天煮掉。絕對不要放檯面或泡溫水。在冷藏解凍、且維持在 4 °C 以下的可以再冷凍，只是品質打折；回溫過的絕對不行。",
+  "spoilage": [
+   "聞得到油耗、陳油或蠟筆般的氣味，這通常就是冷凍香腸的結局。",
+   "表面出現乾燥、發灰或發白的凍燒斑塊。",
+   "解凍後的生香腸表面黏滑或黏手。",
+   "出現酸味，或肉色不只表面、而是整條都轉成灰褐。"
+  ],
+  "tips": [
+   "分裝時中間夾紙，之後可以一次拿兩條。",
+   "包緊或真空封裝；會油耗的就是那些暴露的絞碎脂肪。",
+   "標上日期——它的期限比整塊肉短得多。",
+   "先解凍再煮比冷凍直接煮熟得均勻，而且務必煮透。"
+  ],
+  "faq": [
+   {
+    "q": "生香腸可以冷凍多久？",
+    "a": "−18 °C 下自購買日起 1～2 個月品質最好。只要沒退冰放更久仍然安全，但脂肪會油耗。"
+   },
+   {
+    "q": "香腸可以從冷凍直接煮嗎？",
+    "a": "可以，但受熱不均，常常外面焦了中心還沒熟。冷藏隔夜解凍的結果好得多。"
+   },
+   {
+    "q": "煮熟的香腸冷藏可以放多久？",
+    "a": "蓋好放 4 °C 以下 3～4 天。"
+   }
+  ]
+ }
+}

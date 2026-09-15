@@ -1,0 +1,83 @@
+{
+ "slug": "croissant",
+ "en": {
+  "name": "Croissant, baked",
+  "aliases": [
+   "laminated pastry",
+   "viennoiserie",
+   "pain au chocolat",
+   "可頌"
+  ],
+  "summary": "Baked croissants keep 1–2 days at room temperature and 1–2 months at −18 °C (0 °F). Nothing here is a safety limit: a plain croissant is a low-moisture, high-fat baked good that fails by going soft, then dry, then eventually mouldy. Refrigeration is pointless unless the croissant is filled with something perishable.",
+  "pantry": "1–2 days, uncovered on a rack for the first day. A croissant is crisp for about four hours and after that it is a soft pastry, which is a different and lesser thing. Covering it traps the steam still coming out of the laminated layers and turns the shell chewy. From the second day it wants three or four minutes in a hot oven to drive that moisture back out, and that trick works twice at most. The 1–2 day figure is borrowed from the published one for doughnuts, the nearest match for a fresh high-fat bakery item; no agency publishes a croissant timeline.",
+  "fridge": "Pointless for a plain croissant. The butter in the layers sets hard, the crumb stales faster — starch retrogradation runs quickest just above freezing — and you have to warm it up anyway. Refrigerate only a croissant that has been filled with something perishable: ham, egg, custard, cream. In that case the filling sets the timeline rather than the pastry, and a filled croissant is a refrigerated food of a couple of days at 4 °C (40 °F) or below, kept covered.",
+  "freezer": "1–2 months at −18 °C (0 °F) for best quality — our own figure rather than a published one. Freeze baked croissants on the day they are made, in a sealed bag with the air pressed out, and reheat from frozen in a hot oven for about eight minutes; they come back closer to fresh than anything you can do on the third day. Kept continuously frozen they stay safe well beyond that; the window is about drying and freezer burn. Raw frozen croissant dough is a different product and follows its pack instructions.",
+  "thawing": "Reheat from frozen in a hot oven — do not thaw first, or the layers go limp. A filled croissant should be thawed in the fridge, never on the counter.",
+  "spoilage": [
+   "Fuzzy mould spots, which show up first where a filling or chocolate sits.",
+   "A limp, bendy pastry that no longer shatters even after reheating.",
+   "A rancid or crayon-like smell from the butter in an old croissant.",
+   "A stale, cardboardy taste that a hot oven no longer fixes."
+  ],
+  "tips": [
+   "Leave them uncovered on the first day; covering them makes the shell chewy.",
+   "Reheat in an oven, never a microwave, which turns laminated pastry to rubber.",
+   "Freeze on baking day; freezing a two-day-old croissant preserves a two-day-old croissant.",
+   "A filled croissant keeps only as long as its filling, and belongs in the fridge."
+  ],
+  "faq": [
+   {
+    "q": "How long do croissants stay fresh?",
+    "a": "1–2 days at room temperature. They are genuinely crisp for only about four hours after baking, then they are a soft pastry."
+   },
+   {
+    "q": "Can you freeze croissants?",
+    "a": "Yes, 1–2 months at −18 °C (0 °F). Freeze them on baking day and reheat straight from frozen in a hot oven."
+   },
+   {
+    "q": "Should croissants be refrigerated?",
+    "a": "Not plain ones — the butter hardens and the crumb stales faster. A croissant filled with ham, egg or custard must be refrigerated, and the filling sets its timeline."
+   }
+  ]
+ },
+ "zh": {
+  "name": "可頌",
+  "aliases": [
+   "牛角麵包",
+   "羊角麵包",
+   "法式可頌",
+   "croissant"
+  ],
+  "summary": "烤好的可頌放室溫可放 1～2 天，−18 °C 冷凍是 1～2 個月。這裡沒有一個數字是安全期限：原味可頌是含水低、油脂高的烘焙品，它的失敗順序是先變軟、再變乾、最後才長霉。除非裡面夾了易腐的餡，否則冷藏沒有意義。",
+  "pantry": "1～2 天，第一天就放在架子上不要蓋。可頌真正酥脆的時間大約是出爐後四小時，之後它就變成一個軟的麵包，那是另一回事、而且比較差。蓋起來會把層次裡還在跑出來的蒸氣困住，外殼就變得韌韌的。第二天開始，它需要進高溫烤箱三四分鐘把水分逼出來，而這一招最多只能用兩次。1～2 天這個數字是借自甜甜圈——資料裡最接近的高油脂現烤品；沒有機關為可頌公布期限。",
+  "fridge": "對原味可頌來說沒有意義。層次裡的奶油會凍硬，內裡老化得更快——澱粉回凝在略高於冰點時最快——而且你反正還是要加熱。只有夾了易腐餡料的可頌才需要冷藏：火腿、蛋、卡士達、鮮奶油。那時候決定期限的是餡料而不是麵皮，一個夾餡可頌是放 4 °C 以下、蓋好、可放兩天左右的冷藏食品。",
+  "freezer": "−18 °C 下 1～2 個月品質最好——這是我們自己的判斷，不是公布的數字。烤好當天就密封冷凍、把袋子裡的空氣壓掉，要吃時直接從冷凍進高溫烤箱約八分鐘；那樣回來的狀態，比你第三天能做的任何事都接近剛出爐。只要全程沒退冰就一直安全，這個期限講的是變乾和凍燒。生的冷凍可頌麵團是另一種產品，請照包裝指示。",
+  "thawing": "直接從冷凍進高溫烤箱回烤，不要先解凍，否則層次會軟塌。夾餡可頌要放冷藏解凍，絕對不要放在室溫檯面上。",
+  "spoilage": [
+   "長出絨毛狀霉點，通常先出現在有餡料或巧克力的地方。",
+   "整個軟趴趴、可以彎折，回烤之後也不再酥脆。",
+   "聞得到奶油油耗味、像蠟筆的氣味。",
+   "吃起來走味、有紙板感，而且高溫烤箱已經救不回來。"
+  ],
+  "tips": [
+   "第一天不要蓋；蓋起來外殼會變韌。",
+   "回熱用烤箱，絕對不要微波，微波會把層次變成橡皮。",
+   "烤好當天就冷凍；把放了兩天的可頌冷凍起來，只是保存了一個放了兩天的可頌。",
+   "夾餡可頌能放多久由餡料決定，而且該放冷藏。"
+  ],
+  "faq": [
+   {
+    "q": "可頌可以放多久？",
+    "a": "室溫 1～2 天。不過真正酥脆的只有出爐後大約四小時，之後就是一個軟麵包了。"
+   },
+   {
+    "q": "可頌可以冷凍嗎？",
+    "a": "可以，−18 °C 下 1～2 個月。烤好當天冷凍，要吃時直接從冷凍進高溫烤箱。"
+   },
+   {
+    "q": "可頌需要冷藏嗎？",
+    "a": "原味的不用——奶油會凍硬、內裡老化更快。夾了火腿、蛋或卡士達的一定要冷藏，而且期限由餡料決定。"
+   }
+  ]
+ }
+}

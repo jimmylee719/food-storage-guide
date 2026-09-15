@@ -1,0 +1,84 @@
+{
+ "slug": "mochi",
+ "en": {
+  "name": "Mochi, freshly pounded",
+  "aliases": [
+   "pounded rice cake",
+   "麻糬",
+   "つきたて餅",
+   "のし餅"
+  ],
+  "summary": "Freshly pounded, unwrapped mochi is a same-day food and no room-temperature or refrigerated duration is published for it — the Japanese agriculture ministry gives methods rather than numbers. The traditional cold method is to keep it submerged in water, changed daily. Frozen, 6 months at −18 °C (0 °F) is a reasonable window, read across from cooked rice.",
+  "pantry": "Room-temperature storage is not recommended at all for unwrapped or homemade mochi, and no timeline is given for it. It moulds, and mould on mochi is worse than it looks: the visible fuzzy patch sits on top of a network that has already grown down into a soft, moist cake, so cutting the spot off does not make the rest sound. Freshly pounded mochi is a same-day food. Commercially packaged shelf-stable mochi is a different product with a printed date and is not covered here.",
+  "fridge": "No refrigerated duration is published, only a method — and it is the traditional one, called mizumochi: submerge the mochi completely in room-temperature water in a lidded container, keep it in the fridge or a cool dark place, and change the water every single day. The water keeps air off the surface, which is what stops the mould. Skip a day and it goes cloudy and sour, and at that point it is finished. This is a method that asks for daily attention, which is precisely why the ministry recommends freezing for anything longer.",
+  "freezer": "6 months at −18 °C (0 °F) is a reasonable working window, though it is borrowed from cooked rice rather than published for mochi — mochi is pounded cooked glutinous rice, so that is the closest read-across available. The recommended method is exact: wrap each piece individually in film, seal the pieces in a freezer bag, and freeze. Kept continuously frozen it stays safe well beyond that; the limit is drying, cracking and freezer burn. Let a piece soften a little at room temperature before grilling or boiling.",
+  "thawing": "Let a wrapped piece soften briefly at room temperature, or drop it straight into boiling water or onto a grill from frozen. Do not leave mochi out for hours to thaw — a moist, low-acid rice cake should not sit in the danger zone.",
+  "spoilage": [
+   "Any mould at all — green, black, pink or white. Discard the whole piece; the growth runs deeper than the visible patch.",
+   "Cloudy, slimy or sour-smelling water in the mizumochi container.",
+   "A sour or fermented smell from the mochi itself.",
+   "Deep cracks and dry white patches on a piece kept too long in the freezer."
+  ],
+  "tips": [
+   "Wrap each piece individually before freezing; a block freezes into something you cannot separate.",
+   "Change the mizumochi water daily without exception — this is the whole method.",
+   "Never trim mould off mochi and eat the rest.",
+   "Freshly pounded mochi is famously a choking hazard for children and older people; cut it small and serve it hot."
+  ],
+  "faq": [
+   {
+    "q": "How long does fresh mochi keep?",
+    "a": "It is a same-day food. No room-temperature or refrigerated duration is published; the traditional cold method is to keep it submerged in water with the water changed daily."
+   },
+   {
+    "q": "Can you freeze mochi?",
+    "a": "Yes, and it is the recommended way to keep it. Wrap each piece in film, seal in a freezer bag, and reckon on about 6 months at −18 °C (0 °F) — a figure read across from cooked rice."
+   },
+   {
+    "q": "Can you cut mould off mochi?",
+    "a": "No. Mochi is soft and moist, so the growth runs far deeper than the fuzzy spot you can see. Throw the piece away."
+   }
+  ]
+ },
+ "zh": {
+  "name": "現搗麻糬",
+  "aliases": [
+   "麻糬",
+   "搗麻糬",
+   "日式年糕",
+   "餅",
+   "mochi"
+  ],
+  "summary": "現搗、沒有密封包裝的麻糬是當天的食物，室溫和冷藏都沒有公布的可放天數——日本農林水產省給的是方法，不是數字。傳統的低溫作法是整塊泡在水裡、每天換水。冷凍的話，−18 °C 下抓 6 個月是合理的區間，這個數字是比照熟白飯來的。",
+  "pantry": "對現搗或自製、沒有密封包裝的麻糬來說，室溫保存根本不被建議，也沒有給任何期限。它會長霉，而且麻糬上的霉比看起來更糟：你看到的那塊絨毛底下，菌絲早就往這塊又軟又濕的糕體裡長下去了，所以把霉點挖掉並不代表剩下的沒事。現搗麻糬就是當天吃的東西。超市那種密封、常溫的包裝麻糬是另一種產品，有印製日期，不在這一篇的範圍內。",
+  "fridge": "冷藏沒有公布的天數，只有一個方法——而且是傳統的那個，叫「水餅」：把麻糬完全浸在常溫水裡、裝進有蓋容器，放冷藏或陰涼避光處，然後每天換水，一天都不能漏。水的作用是隔絕空氣，那才是霉長不起來的原因。漏換一天，水就會變濁發酸，到那個程度它就結束了。這是一個需要每天照顧的方法，也正因如此，官方才建議想放更久就直接冷凍。",
+  "freezer": "−18 °C 下抓 6 個月是合理的工作區間，不過這個數字是從熟白飯借來的，不是為麻糬公布的——麻糬就是搗過的熟糯米，那是能找到最接近的對照。建議的做法很明確：每一塊單獨用保鮮膜包好，再一起裝進冷凍袋密封冷凍。只要全程沒退冰，超過這段時間仍然安全；限制它的是乾裂和凍燒。要吃之前先在室溫放軟一點，再去烤或煮。",
+  "thawing": "包著在室溫放軟一下，或者直接從冷凍丟進滾水裡、放上烤網。不要讓麻糬在外面擺好幾個小時解凍——一塊濕潤低酸的米製品不該待在危險溫度帶裡。",
+  "spoilage": [
+   "只要長霉就整塊丟掉，不管是綠色、黑色、粉紅色還是白色；菌絲長得比你看到的深。",
+   "水餅的水變濁、發黏或聞起來發酸。",
+   "麻糬本身聞起來發酸或有發酵味。",
+   "冷凍太久出現深裂痕和乾白斑塊。"
+  ],
+  "tips": [
+   "冷凍前每一塊單獨包好；整坨下去凍成一塊就分不開了。",
+   "水餅的水一定要每天換，沒有例外——那就是這個方法的全部。",
+   "絕對不要把麻糬的霉切掉之後繼續吃。",
+   "麻糬對小孩和長輩是有名的噎食風險，請切小塊、趁熱吃。"
+  ],
+  "faq": [
+   {
+    "q": "現搗麻糬可以放多久？",
+    "a": "它是當天的食物。室溫和冷藏都沒有公布的天數；傳統的低溫作法是整塊泡水、每天換水。"
+   },
+   {
+    "q": "麻糬可以冷凍嗎？",
+    "a": "可以，而且這是官方建議的保存方式。每塊用保鮮膜包好、裝冷凍袋密封，−18 °C 下抓 6 個月左右——這個數字是比照熟白飯而來。"
+   },
+   {
+    "q": "麻糬長霉可以切掉再吃嗎？",
+    "a": "不行。麻糬又軟又濕，菌絲遠比看得見的那塊絨毛長得深。整塊丟掉。"
+   }
+  ]
+ }
+}

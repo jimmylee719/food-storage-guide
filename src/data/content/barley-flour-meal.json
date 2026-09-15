@@ -1,0 +1,83 @@
+{
+ "slug": "barley-flour-meal",
+ "en": {
+  "name": "Barley flour",
+  "aliases": [
+   "barley meal",
+   "ground barley",
+   "大麥粉",
+   "洋薏仁粉"
+  ],
+  "summary": "Barley flour keeps 3 months in the pantry and 6 months in the freezer at −18 °C (0 °F). Like every flour milled with the germ still in it, what limits its life is the germ's oil going rancid rather than anything microbial.",
+  "pantry": "3 months in an airtight container on a cool, dark, dry shelf. Barley flour is soft, low in gluten and high in beta-glucan, which makes it a lovely flour for scones and flatbreads and a poor one for keeping: the beta-glucan attracts moisture and the germ oil oxidises. Keep it sealed and away from the hob and the kettle, and go by smell rather than the printed date. Fresh barley flour smells sweet and faintly malty; stale flour smells sharp and oily.",
+  "fridge": "No refrigerated timeline is published for barley flour. Refrigeration will slow the oil down and is a reasonable intermediate option for a bag you are working through over a season, but only in a properly airtight container: barley flour is unusually good at taking up moisture and fridge odours, and a cold bag opened in a warm kitchen condenses water straight into the flour. If you are going to use cold storage at all, the freezer is the better use of the space.",
+  "freezer": "6 months at −18 °C (0 °F), and that is the sensible default for a bag bigger than you will use in a season. Press the air out of a double bag or use an airtight tub, and label it clearly. Kept continuously frozen the flour stays safe well beyond that; what runs out is flavour, as the oil oxidises slowly even in the cold. Let the container come up to room temperature before opening it so condensation forms on the outside rather than in the flour.",
+  "thawing": "Let the sealed container come to room temperature before opening. For most baking you can use small amounts straight from frozen without any trouble.",
+  "spoilage": [
+   "A sharp, oily or paint-like smell — rancid germ oil.",
+   "A bitter aftertaste in a bake that is otherwise correct.",
+   "Clumps or a hard cake in the bag, meaning moisture got in.",
+   "Webbing, larvae or moths, in which case the whole bag goes out."
+  ],
+  "tips": [
+   "Buy the size of bag you will use in a season.",
+   "Store it in an opaque airtight tub rather than the paper bag.",
+   "Smell before you bake; rancidity arrives before the date does.",
+   "Freeze a new bag for a couple of days to deal with any weevil eggs."
+  ],
+  "faq": [
+   {
+    "q": "How long does barley flour last?",
+    "a": "3 months in an airtight container in the pantry, or 6 months in the freezer at −18 °C (0 °F)."
+   },
+   {
+    "q": "Can you freeze barley flour?",
+    "a": "Yes, 6 months at −18 °C (0 °F). Seal it airtight, label it, and let it come back to room temperature before you open the container."
+   },
+   {
+    "q": "How can you tell if barley flour has gone bad?",
+    "a": "Smell it. A sharp, oily, paint-like note means the germ oil has gone rancid, and the bake will taste bitter."
+   }
+  ]
+ },
+ "zh": {
+  "name": "大麥粉",
+  "aliases": [
+   "洋薏仁粉",
+   "大麥麵粉",
+   "barley flour",
+   "麥粉"
+  ],
+  "summary": "大麥粉密封放常溫可放 3 個月，−18 °C 冷凍則是 6 個月。和所有帶胚芽磨成的粉一樣，限制它壽命的是胚芽油脂的油耗，而不是任何微生物。",
+  "pantry": "裝密封罐、放陰涼避光乾燥的架子，3 個月。大麥粉質地柔軟、筋性低、β-葡聚醣含量高，這讓它很適合做司康和薄餅，卻很不耐放：β-葡聚醣會吸水，胚芽油會氧化。請密封保存，遠離爐火和熱水壺，並且用鼻子而不是日期來判斷。新鮮大麥粉聞起來甜、帶一點麥芽香；走味的則刺鼻、帶油味。",
+  "fridge": "大麥粉沒有公布的冷藏期限。冷藏確實能拖慢油脂，對一包預計一季內用完的粉是合理的折衷——但必須用真正密封的容器：大麥粉特別會吸濕也特別會吸冰箱的味道，而一包冰過的粉在溫暖廚房裡打開，水氣會直接凝進粉裡。既然要動用低溫，那把空間留給冷凍更划算。",
+  "freezer": "−18 °C 下 6 個月；一季用不完的份量，這就是合理的預設做法。套兩層袋壓出空氣，或用密封罐，並且清楚標示。只要全程沒退冰，超過這段時間仍然安全；先用完的是風味，因為油脂在低溫下依然會慢慢氧化。開蓋前先讓整罐回到室溫，讓水氣凝在罐外而不是粉裡。",
+  "thawing": "整罐密封著回到室溫再開蓋。多數烘焙只用少量的話，直接從冷凍取用也沒問題。",
+  "spoilage": [
+   "聞起來刺鼻、帶油味或油漆味——胚芽油耗了。",
+   "配方沒問題，成品卻有苦的餘韻。",
+   "袋子裡結塊或結成硬餅，表示受潮了。",
+   "出現絲網、幼蟲或蛾，整袋丟掉。"
+  ],
+  "tips": [
+   "買一季內用得完的份量。",
+   "用不透光的密封罐，不要就著紙袋放。",
+   "烤之前先聞；油耗會比日期更早出現。",
+   "新買的整袋先冷凍兩三天，處理掉可能跟著來的蟲卵。"
+  ],
+  "faq": [
+   {
+    "q": "大麥粉可以放多久？",
+    "a": "密封放常溫 3 個月，或 −18 °C 冷凍 6 個月。"
+   },
+   {
+    "q": "大麥粉可以冷凍嗎？",
+    "a": "可以，−18 °C 下 6 個月。密封好、貼上標籤，開蓋前先讓它回到室溫。"
+   },
+   {
+    "q": "怎麼知道大麥粉壞了？",
+    "a": "聞一下。刺鼻、帶油或油漆味就是胚芽油耗了，烤出來會發苦。"
+   }
+  ]
+ }
+}

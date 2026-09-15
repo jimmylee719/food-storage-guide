@@ -1,0 +1,83 @@
+{
+ "slug": "rye-bread",
+ "en": {
+  "name": "Rye bread",
+  "aliases": [
+   "sour rye",
+   "pumpernickel",
+   "Vollkornbrot",
+   "黑麥麵包"
+  ],
+  "summary": "A dense sour rye keeps 4–7 days at room temperature, cut side down under a cloth — the best keeper of any bread on this site, because the rye sour makes it acidic and rye's pentosans hold water so it dries slowly. Do not refrigerate it unless you will toast it. Frozen, 3 months at −18 °C (0 °F).",
+  "pantry": "4–7 days with the cut side down on a board under a cloth, or in a paper bag inside a bread bin. That span is our own reading of published mould-onset results for wheat bread, adjusted for rye's lower pH, and it is longer than the blanket figure extension services give for bread and rolls — treat it as quality guidance rather than a documented limit. A sealed, sliced dark rye pack from the supermarket keeps to its printed date and then moulds fast once opened, because the pack has been holding humidity against the slices all along.",
+  "fridge": "Don't, unless you are only going to toast it. Refrigeration is the worst temperature available for bread: a controlled study of storage conditions found pan wheat bread firmed to 424 % of its initial value after ten days at 8.2 °C, against 390 % at 21.9 °C. Cold does not stop staling, it accelerates it, because the amylopectin side chains recrystallise fastest a little above freezing. The same study found no visible mould at 8.2 °C over that period, so the fridge buys you freedom from mould at the cost of texture — and that is only a good trade for bread heading into a toaster, since toasting re-gelatinises the starch and undoes the staling.",
+  "freezer": "3 months at −18 °C (0 °F) for best quality, and freezing genuinely stops staling, because the starch cannot recrystallise below the glass transition. Slice the loaf first, bag it with the air pressed out, and toast from frozen. This is the right answer for any bread you cannot finish in a few days. Kept continuously frozen it stays safe well beyond that window — the limit is drying, ice crystals and freezer burn. That figure is read across from commercially baked sliced bread.",
+  "thawing": "Toast slices straight from frozen, or thaw a wrapped half-loaf at room temperature and refresh it in a hot oven. Bread thawed in the fridge and still cold may be refrozen with some quality loss; bread thawed on a warm counter should not be.",
+  "spoilage": [
+   "Any fuzzy mould at all — discard the whole loaf rather than cutting round it, because the hyphae run deep in something this porous.",
+   "A crumb that has dried hard and crumbles rather than slicing cleanly.",
+   "A sharply alcoholic or vinegary smell well beyond the normal rye sourness.",
+   "Sticky, stringy crumb, the rare but real sign of rope spoilage."
+  ],
+  "tips": [
+   "Store it cut side down on a board; the cut face is its own best wrapper.",
+   "Paper or cloth, never plastic — plastic holds humidity against the crust.",
+   "Buy a whole loaf rather than slices; a whole rye outlasts a sliced one by days.",
+   "Slice before freezing so you can toast one at a time."
+  ],
+  "faq": [
+   {
+    "q": "How long does rye bread last?",
+    "a": "4–7 days at room temperature, cut side down under a cloth. It is the best keeper among breads because of its acidity and its water-holding pentosans."
+   },
+   {
+    "q": "Should rye bread go in the fridge?",
+    "a": "Only if you are going to toast it. Refrigeration makes bread stale faster than the counter does, though it does prevent mould."
+   },
+   {
+    "q": "Can you freeze rye bread?",
+    "a": "Yes, 3 months at −18 °C (0 °F). Slice it first, bag it with the air out, and toast straight from frozen."
+   }
+  ]
+ },
+ "zh": {
+  "name": "黑麥麵包",
+  "aliases": [
+   "裸麥麵包",
+   "德式黑麥麵包",
+   "酸種黑麥麵包",
+   "rye bread"
+  ],
+  "summary": "紮實的酸種黑麥麵包切面朝下、蓋條布放室溫，可放 4～7 天——它是本站最耐放的麵包，因為黑麥酸種讓它偏酸，而黑麥的戊聚醣又抓得住水，所以乾得慢。除非你打算烤過再吃，否則不要冷藏。冷凍則是 −18 °C 下 3 個月。",
+  "pantry": "切面朝下擺在木板上、蓋一塊布，或裝紙袋放進麵包盒，4～7 天。這個區間是我們根據小麥麵包長霉時間的研究結果，再依黑麥的低 pH 值調整出來的，比推廣單位給麵包與餐包的一般數字更長——請當成品質參考，不是有文件背書的上限。超市那種密封切片黑麥可以放到印製日期，但一拆封就長霉得很快，因為包裝一直把濕氣悶在切片上。",
+  "fridge": "不要，除非你只打算拿它去烤。對麵包來說，冷藏是所有選項裡最糟的溫度：一份有對照的保存研究發現，白吐司在 8.2 °C 放十天後硬度上升到原本的 424 %，而在 21.9 °C 只有 390 %。低溫不會讓老化停下來，反而加速它，因為支鏈澱粉的側鏈在略高於冰點時再結晶最快。同一份研究在 8.2 °C 的那組整段期間都沒看到霉，所以冷藏是用口感換來的無霉——而這個交換只有在麵包要進烤麵包機時才划算，因為烤會讓澱粉重新糊化，把老化抵消掉。",
+  "freezer": "−18 °C 下 3 個月品質最好，而冷凍是真的能讓老化停下來，因為在玻璃轉移溫度以下，澱粉沒辦法再結晶。先把整條切片，壓出空氣裝袋，要吃時直接從冷凍烤。任何幾天內吃不完的麵包，這都是正確答案。只要全程沒退冰，超過這個期限仍然安全——限制它的是變乾、冰晶和凍燒。這個數字是比照市售切片麵包而來。",
+  "thawing": "切片直接從冷凍烤，或把包好的半條在室溫解凍、再進高溫烤箱回烤。在冷藏解凍、還是冰的麵包可以再冷凍，只是品質打折；在溫暖檯面上解凍過的就不要再凍。",
+  "spoilage": [
+   "只要長霉就整條丟掉，不要切掉霉點繼續吃——麵包這麼多孔，菌絲會長得很深。",
+   "內裡乾到發硬、一切就碎，切不出乾淨的片。",
+   "出現刺鼻的酒精味或醋酸味，超出黑麥正常的那點酸香。",
+   "內裡發黏、拉得出絲，那是少見但確實存在的黏質變敗。"
+  ],
+  "tips": [
+   "切面朝下放在木板上；切面本身就是最好的封口。",
+   "用紙或布，絕對不要塑膠袋——塑膠會把濕氣悶在外皮上。",
+   "買整條不要買切片；整條黑麥比切片多撐好幾天。",
+   "冷凍前先切片，之後可以一次只烤一片。"
+  ],
+  "faq": [
+   {
+    "q": "黑麥麵包可以放多久？",
+    "a": "切面朝下、蓋布放室溫 4～7 天。它靠酸度和抓水的戊聚醣，是麵包裡最耐放的。"
+   },
+   {
+    "q": "黑麥麵包要放冷藏嗎？",
+    "a": "只有打算烤過再吃時才需要。冷藏會讓麵包老化得比室溫更快，不過確實擋得住霉。"
+   },
+   {
+    "q": "黑麥麵包可以冷凍嗎？",
+    "a": "可以，−18 °C 下 3 個月。先切片、壓出空氣裝袋，要吃直接從冷凍烤。"
+   }
+  ]
+ }
+}

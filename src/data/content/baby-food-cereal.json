@@ -1,0 +1,83 @@
+{
+ "slug": "baby-food-cereal",
+ "en": {
+  "name": "Baby cereal, dry",
+  "aliases": [
+   "infant rice cereal",
+   "dry baby cereal",
+   "嬰兒米精",
+   "嬰兒麥精"
+  ],
+  "summary": "Unopened dry baby cereal should be discarded after its use-by date — there is no general figure, because the date on the box is the manufacturer's own statement. Once opened, use the box within 1 month. Cereal you have mixed with milk or water is a different thing again: it is a fresh food and must be treated as one.",
+  "pantry": "Go by the use-by date on an unopened box and discard it after that date; no independent timeline is given, and for a food fed to an infant the printed date is the figure that matters. Once opened, 1 month, with the box closed tightly and kept somewhere cool and dry. Baby cereal is fortified, and iron and vitamins degrade over time as well as the cereal going stale, so an opened box is not simply a flour. Never scoop from the box with a wet or used spoon, and never pour unused mixed cereal back into it.",
+  "fridge": "The dry box does not belong in the fridge; condensation is the one thing that will spoil it. Prepared cereal is another matter entirely. Mix only the amount for one feed, feed it from a bowl, and throw away whatever is left in that bowl — saliva from the spoon carries bacteria into the food, and the remainder is no longer safe to keep. If you have deliberately made extra and not fed from it, treat it as a fresh prepared food, cover it, keep it at 4 °C (40 °F) or below and use it the same day.",
+  "freezer": "No freezer timeline is published for baby cereal. The dry box gains nothing from freezing and only risks condensation. Prepared cereal can be frozen in an ice-cube tray if it has never been fed from, which some parents find useful, but nobody publishes a window for it, so label it, keep it short and use your judgement rather than inventing a number.",
+  "thawing": "Thaw frozen prepared cereal in the fridge, never on the counter, and warm it once only. Test the temperature on your wrist before feeding, and discard anything left after a feed.",
+  "spoilage": [
+   "A stale or cardboard smell from the dry cereal, meaning the grain has gone.",
+   "Clumping or hard lumps in the box, which means moisture got in.",
+   "Any mould or insects, in which case the whole box goes out.",
+   "A sour smell from prepared cereal, which should never be kept long enough to develop."
+  ],
+  "tips": [
+   "Write the date you opened the box on the lid.",
+   "Always use a clean dry spoon and never one that has been in the baby's mouth.",
+   "Mix one feed at a time and throw away what is left in the bowl.",
+   "Never add honey to cereal for a baby under one year old — infant botulism is a real risk and honey can carry the spores."
+  ],
+  "faq": [
+   {
+    "q": "How long does opened baby cereal last?",
+    "a": "1 month once opened, kept tightly closed somewhere cool and dry. An unopened box should be discarded after its use-by date."
+   },
+   {
+    "q": "Can you keep leftover prepared baby cereal?",
+    "a": "Not if it has been fed from. Saliva from the spoon contaminates the remainder, so what is left in the bowl is thrown away."
+   },
+   {
+    "q": "Can you add honey to baby cereal?",
+    "a": "Not for a baby under one year old. Honey can carry Clostridium botulinum spores, which cause infant botulism, and it must not be given at all before the first birthday."
+   }
+  ]
+ },
+ "zh": {
+  "name": "嬰兒米麥精",
+  "aliases": [
+   "嬰兒米精",
+   "嬰兒麥精",
+   "寶寶米糊",
+   "baby cereal"
+  ],
+  "summary": "未開封的嬰兒米麥精，過了有效日期就該丟掉——這裡不給通用數字，因為盒子上的日期就是製造商自己的說法。開封後請在 1 個月內用完。至於已經沖調好的糊，那完全是另一回事：它是新鮮食物，必須當成新鮮食物處理。",
+  "pantry": "未開封的請以盒上的有效日期為準，過期就丟；這裡不另外給期限，而對一個要餵給嬰兒的食品來說，印製日期才是真正重要的數字。開封後 1 個月，盒蓋要確實蓋緊，放陰涼乾燥處。嬰兒米麥精是強化配方，除了穀物本身會走味，鐵質和維生素也會隨時間衰減，所以一盒開封的米精不只是「一包麵粉」。絕對不要用沾濕或用過的湯匙伸進盒子，也絕對不要把沖好沒吃完的糊倒回盒子裡。",
+  "fridge": "乾的那盒不該放冰箱；結露正是唯一會毀掉它的東西。沖調好的糊則完全是另一回事。請一次只調一餐的量，盛到碗裡餵，碗裡剩下的全部丟掉——湯匙上的口水會把細菌帶進食物，剩下的那些已經不能再留。如果你是刻意多做一份、而且完全沒有從裡面餵過，那就當成一份新鮮的即食品：蓋好、放 4 °C 以下，並在當天用完。",
+  "freezer": "嬰兒米麥精沒有公布的冷凍期限。乾的那盒冷凍沒有好處，只會多一個結露的風險。沖調好、而且完全沒餵過的糊，有些家長會用製冰盒分格冷凍，那確實好用；但沒有人為它公布期限，所以請貼上日期、盡量縮短，並用判斷而不是自己編一個數字。",
+  "thawing": "冷凍的糊請放冷藏解凍，絕對不要放檯面，而且只加熱一次。餵之前先滴在手腕內側試溫，餵完剩下的一律丟掉。",
+  "spoilage": [
+   "乾米精聞起來走味、有紙板味，表示穀物已經不行了。",
+   "盒子裡結塊或出現硬塊，表示受潮。",
+   "出現任何霉或蟲，整盒丟掉。",
+   "沖好的糊發酸——它本來就不該被放到會發酸的程度。"
+  ],
+  "tips": [
+   "在盒蓋上寫下開封日期。",
+   "一律用乾淨的乾湯匙，絕對不要用進過寶寶嘴巴的那支。",
+   "一次只調一餐，碗裡剩下的丟掉。",
+   "未滿一歲的寶寶，米精裡絕對不能加蜂蜜——蜂蜜可能帶有肉毒桿菌孢子，會造成嬰兒肉毒桿菌中毒。"
+  ],
+  "faq": [
+   {
+    "q": "開封的嬰兒米精可以放多久？",
+    "a": "開封後 1 個月，蓋緊放陰涼乾燥處。未開封的過了有效日期就該丟掉。"
+   },
+   {
+    "q": "沖好沒吃完的米糊可以留嗎？",
+    "a": "只要餵過就不能留。湯匙上的口水會污染剩下的部分，碗裡剩的一律丟掉。"
+   },
+   {
+    "q": "嬰兒米精可以加蜂蜜嗎？",
+    "a": "未滿一歲絕對不行。蜂蜜可能帶有肉毒桿菌孢子，會引起嬰兒肉毒桿菌中毒，一歲以前完全不能給。"
+   }
+  ]
+ }
+}

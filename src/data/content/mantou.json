@@ -1,0 +1,83 @@
+{
+ "slug": "mantou",
+ "en": {
+  "name": "Mantou (steamed bread)",
+  "aliases": [
+   "steamed bread",
+   "plain steamed bun",
+   "饅頭",
+   "花捲"
+  ],
+  "summary": "Plain mantou is a same-day food: 1 day at room temperature, loosely covered. Refrigeration is the worst option because it makes the crumb go hard and crumbly. Freezing holds it 3–5 months at −18 °C (0 °F), which is why commercial mantou is sold frozen in the first place.",
+  "pantry": "1 day, loosely covered, and eat it the day it is steamed. Unfilled mantou is safer than a filled bun because there is no meat or egg in it, but it is still a moist, unpreserved steamed bread, and in a warm kitchen it moulds within a day or two. Treat that single day as a judgement call rather than a measurement — no authority publishes a home timeline for mantou, and the figure here is the published one for commercial bread products cut down hard, because mantou has no preservative and far more water than a pan loaf.",
+  "fridge": "Refrigeration is the worst of the three options and no timeline is given for it. Wheat starch retrogrades fastest at ordinary fridge temperatures, so a chilled mantou goes hard, dry and crumbly within hours while gaining very little in safety. The only case for the fridge is a hot humid kitchen where mould would win first — and even then the freezer does the same job better, because it stops mould without hardening the crumb. Steam, do not microwave, anything you do refrigerate.",
+  "freezer": "3–5 months at −18 °C (0 °F) for best quality, read across from commercial bread products. Cool them fully, bag them individually or in a bag with the air pressed out, and freeze. Steam from frozen for about ten minutes and the texture comes back almost perfectly — which is exactly why the frozen version is the one you buy in a supermarket. Kept continuously frozen they stay safe beyond that window; the limit is drying out and freezer burn.",
+  "thawing": "Do not thaw. Put frozen mantou straight into a steamer. Thawing first leaves it wet and collapsed, and a mantou left to thaw on a warm counter is a moist, low-acid starch that should not be sitting out.",
+  "spoilage": [
+   "Fuzzy mould spots, often first on the flat base where it sat.",
+   "A sour or alcoholic smell rather than a clean wheat smell.",
+   "A hard, dry, crumbly crumb after refrigeration.",
+   "A sticky or slimy surface, usually from bagging while still warm."
+  ],
+  "tips": [
+   "Cool fully before bagging, or the trapped steam makes the skin slimy.",
+   "Freeze the day you steam them; freezing a stale mantou preserves a stale mantou.",
+   "Bag them individually so you can take out exactly what you need.",
+   "Always reheat by steaming — the microwave makes them tough and then hard."
+  ],
+  "faq": [
+   {
+    "q": "How long does mantou keep?",
+    "a": "1 day at room temperature, loosely covered. It is a same-day food, and that figure is a judgement rather than a published number."
+   },
+   {
+    "q": "Can you freeze mantou?",
+    "a": "Yes, 3–5 months at −18 °C (0 °F). Cool, bag and freeze, then steam straight from frozen for about ten minutes."
+   },
+   {
+    "q": "Why should mantou not go in the fridge?",
+    "a": "Wheat starch recrystallises fastest at fridge temperature, so it goes hard and crumbly there while gaining little safety. Freeze it instead."
+   }
+  ]
+ },
+ "zh": {
+  "name": "饅頭",
+  "aliases": [
+   "白饅頭",
+   "花捲",
+   "刈包皮",
+   "mantou"
+  ],
+  "summary": "白饅頭是當天的食物：室溫鬆鬆蓋著放 1 天。冷藏是最差的選項，因為那會讓它變硬變粉。冷凍在 −18 °C 下可放 3～5 個月，這也正是市售饅頭一開始就做成冷凍的原因。",
+  "pantry": "鬆鬆蓋著，室溫 1 天，蒸好那天就吃掉。沒有包餡的饅頭比包餡包子安全，因為裡面沒有肉也沒有蛋；但它仍然是一塊濕潤、沒有防腐劑的蒸製麵食，在溫暖的廚房裡一兩天內就會長霉。這個「1 天」請當成判斷，不是量出來的數字——沒有權威機關公布饅頭的家庭保存期限，這裡的數字是把市售麵包製品的公布值大幅往下砍的結果，因為饅頭沒有防腐劑，含水量又遠高於吐司。",
+  "fridge": "三種方式裡冷藏最差，所以這裡不給期限。小麥澱粉在一般冷藏溫度下回凝最快，所以冰過的饅頭幾個小時內就變硬、變乾、一捏就散，安全上卻幾乎沒有增加。唯一講得通的情況是又熱又濕、霉會先贏的廚房——即使如此，冷凍也做得更好，因為它同樣擋得住霉，卻不會把口感弄硬。真的冰了，回熱請用蒸的，不要微波。",
+  "freezer": "−18 °C 下 3～5 個月品質最好，這是比照市售麵包製品讀過來的。完全放涼，一顆一顆分裝或整袋壓出空氣再冷凍。要吃直接從冷凍蒸大約十分鐘，口感幾乎可以完全回來——這正是超市賣的都是冷凍版的原因。只要全程沒退冰，超過這個期限仍然安全；限制它的是變乾和凍燒。",
+  "thawing": "不要解凍。冷凍饅頭直接放進蒸籠。先解凍會讓它濕答答又塌掉，而且擺在溫暖檯面上解凍的饅頭是一塊濕潤低酸的澱粉，不該放在那裡。",
+  "spoilage": [
+   "長出絨毛狀霉點，常常先出現在貼著盤子的底面。",
+   "聞起來發酸或有酒精味，而不是乾淨的麥香。",
+   "冷藏過後變得又硬又乾、一捏就散。",
+   "表面發黏或黏滑，通常是還熱著就裝袋造成的。"
+  ],
+  "tips": [
+   "完全放涼再裝袋，否則困住的蒸氣會讓表皮發黏。",
+   "蒸好當天就冷凍；把已經走味的饅頭冷凍，只是保存了走味。",
+   "一顆一顆分裝，要幾顆拿幾顆。",
+   "回熱一律用蒸的——微波會讓它先變韌、再變硬。"
+  ],
+  "faq": [
+   {
+    "q": "饅頭可以放多久？",
+    "a": "室溫鬆鬆蓋著 1 天。它是當天的食物，而且這個數字是判斷，不是公布的數據。"
+   },
+   {
+    "q": "饅頭可以冷凍嗎？",
+    "a": "可以，−18 °C 下 3～5 個月。放涼裝袋冷凍，要吃直接從冷凍蒸十分鐘左右。"
+   },
+   {
+    "q": "饅頭為什麼不要放冷藏？",
+    "a": "小麥澱粉在冷藏溫度下再結晶最快，所以會變硬變粉，安全上卻沒有增加多少。請改用冷凍。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "amaranth-flour-meal",
+ "en": {
+  "name": "Amaranth flour",
+  "aliases": [
+   "amaranth meal",
+   "rajgira flour",
+   "莧籽粉",
+   "莧菜籽麵粉"
+  ],
+  "summary": "Amaranth flour keeps 2 months in the pantry and 4 months in the freezer at −18 °C (0 °F). That is a short pantry life for a flour, and the reason is the oil: amaranth is a whole-seed flour with the germ still in it, and the germ's oil is what goes rancid.",
+  "pantry": "2 months in an airtight container on a cool, dark, dry shelf. Amaranth is milled whole, so everything that was in the seed — including a proportion of oil unusually high for a grain-type flour — is still in the bag. Oil oxidises, and oxidation is driven by warmth, light and air, which is why a clear bag on a sunny shelf is the worst case and a sealed opaque tub at the back of a cupboard is the best. Trust your nose over the date: fresh amaranth flour smells faintly grassy and nutty, while stale flour smells sharp and slightly of oil paint.",
+  "fridge": "No refrigerated timeline is published for amaranth flour. The fridge is a reasonable halfway house between the cupboard and the freezer for a bag you will work through over a season, but only in a genuinely airtight container — flour picks up both moisture and odours, and a cold bag taken in and out will condense water inside it, which cakes the flour and can let mould start. If you are going to give it fridge space, freezer space is better used.",
+  "freezer": "4 months at −18 °C (0 °F), and this is the sensible default for anything you will not finish in a couple of months. Double-bag or use an airtight tub, press out the air, and label it — flours are impossible to tell apart once frozen. Kept continuously frozen it stays safe well beyond that window; what runs out is flavour, as the oil oxidises even in the cold, just more slowly. Let the flour come back to room temperature in its sealed container before opening it, so condensation forms on the outside rather than in the flour.",
+  "thawing": "Bring the sealed container to room temperature before opening, so the flour does not take up condensation. Small amounts can be used straight from frozen in most baking.",
+  "spoilage": [
+   "A sharp, paint-like or crayon smell — rancid germ oil, the usual failure.",
+   "A bitter aftertaste in the finished bake even when the recipe is right.",
+   "Clumping or hard lumps, which means moisture got in.",
+   "Webbing, larvae or small moths in the bag, which means the whole bag goes out."
+  ],
+  "tips": [
+   "Buy small bags; amaranth flour does not reward stockpiling.",
+   "Smell the bag before you bake — rancidity shows before the date does.",
+   "Store in an opaque airtight tub, not the paper bag it came in.",
+   "Freeze a new bag for a couple of days to kill any weevil eggs that came with it."
+  ],
+  "faq": [
+   {
+    "q": "How long does amaranth flour last?",
+    "a": "2 months in an airtight container in the pantry, or 4 months in the freezer at −18 °C (0 °F)."
+   },
+   {
+    "q": "Why does amaranth flour go off so quickly?",
+    "a": "Because it is milled from the whole seed and the germ's oil stays in the flour. Oil oxidises, and that is what makes an old bag smell sharp and taste bitter."
+   },
+   {
+    "q": "Can you freeze amaranth flour?",
+    "a": "Yes, 4 months at −18 °C (0 °F), and it is the sensible default. Seal it well and let it come back to room temperature before opening."
+   }
+  ]
+ },
+ "zh": {
+  "name": "莧籽粉",
+  "aliases": [
+   "莧菜籽麵粉",
+   "籽粒莧粉",
+   "rajgira",
+   "amaranth flour"
+  ],
+  "summary": "莧籽粉密封放常溫可放 2 個月，−18 °C 冷凍則是 4 個月。以麵粉來說常溫這個期限很短，原因在油脂：莧籽粉是連胚芽一起磨的全粒粉，而讓它壞掉的就是胚芽裡的油。",
+  "pantry": "裝密封罐、放陰涼避光乾燥的架子，2 個月。莧籽是整粒磨的，所以種子裡原本有的東西——包括以穀類粉來說異常高的油脂比例——全都還在袋子裡。油會氧化，而推動氧化的是溫度、光線和空氣，所以「透明袋放在曬得到的層架上」是最壞的情況，「不透光密封罐收在櫃子深處」是最好的。請相信鼻子勝過日期：新鮮的莧籽粉聞起來帶點青草與堅果香，走味的則是刺鼻、有點像油漆味。",
+  "fridge": "莧籽粉沒有公布的冷藏期限。對一包預計一季內用完的粉來說，冷藏是介於櫃子和冷凍之間的合理折衷——但必須是真正密封的容器，因為麵粉既吸濕也吸味，而一包冰過的粉進進出出會在裡面結露，讓粉結塊、甚至長霉。如果你願意空出冰箱位置給它，那把位置給冷凍更划算。",
+  "freezer": "−18 °C 下 4 個月；兩個月內用不完的話，這就是合理的預設做法。套兩層袋或用密封罐，把空氣壓掉，並貼上標籤——各種粉一旦冷凍起來根本分不出來。只要全程沒退冰，超過這段時間仍然安全；先用完的是風味，因為油脂在低溫下依然會氧化，只是慢一些。要用時先讓整罐密封著回到室溫再開蓋，讓水氣凝在罐子外面而不是粉裡。",
+  "thawing": "整罐密封著回到室溫再開蓋，粉才不會受潮。多數烘焙只要用一點點的話，直接從冷凍取用也沒問題。",
+  "spoilage": [
+   "聞起來刺鼻、像油漆或蠟筆味——胚芽油耗，最常見的結局。",
+   "配方明明沒錯，成品卻有苦味的餘韻。",
+   "結塊或出現硬塊，表示水氣跑進去了。",
+   "袋子裡出現絲網、幼蟲或小蛾，整袋丟掉。"
+  ],
+  "tips": [
+   "買小包；莧籽粉不適合囤。",
+   "烤之前先聞一下——油耗會比日期更早現形。",
+   "用不透光的密封罐，不要就著原本的紙袋放。",
+   "新買的整袋先冷凍兩三天，把跟著進來的蟲卵殺掉。"
+  ],
+  "faq": [
+   {
+    "q": "莧籽粉可以放多久？",
+    "a": "密封放常溫 2 個月，或 −18 °C 冷凍 4 個月。"
+   },
+   {
+    "q": "莧籽粉為什麼壞得這麼快？",
+    "a": "因為它是整粒磨的，胚芽的油脂留在粉裡。油會氧化，而那正是老粉聞起來刺鼻、吃起來發苦的原因。"
+   },
+   {
+    "q": "莧籽粉可以冷凍嗎？",
+    "a": "可以，−18 °C 下 4 個月，而且這是合理的預設做法。密封好，開蓋前先讓它回到室溫。"
+   }
+  ]
+ }
+}

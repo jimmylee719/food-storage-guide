@@ -1,0 +1,83 @@
+{
+ "slug": "butter-flavor",
+ "en": {
+  "name": "Butter flavouring",
+  "aliases": [
+   "butter extract",
+   "butter essence",
+   "奶油香精",
+   "牛油香精"
+  ],
+  "summary": "Unopened butter flavouring keeps 2 years in the pantry, and 12 months once opened. Despite the name there is usually no butter in it — it is a solvent-based flavouring, so nothing grows in it and what runs out is the aroma.",
+  "pantry": "2 years unopened and 12 months after opening, cap tight, somewhere cool and dark. Butter flavouring is generally built on diacetyl and related compounds dissolved in alcohol or propylene glycol, which is why it keeps for years while actual butter keeps for weeks. Those compounds are volatile, so a loose cap and a shelf above the stove are the two things that will empty a bottle of its character. If a product does contain dairy solids it will say so, and then it follows the label, not this timeline.",
+  "fridge": "No refrigerated timeline is given for butter flavouring and it does not need one. It is a stable solution at room temperature, and chilling it only invites condensation into the neck of the bottle every time you take it out. Keep it in the cupboard with the extracts, well away from heat.",
+  "freezer": "No freezer timeline exists and there is no reason to freeze it. A solvent-based flavouring will not freeze solid in a domestic freezer, and the aroma loss you want to prevent happens through the cap, not because of warmth. Tighten the cap and keep the bottle dark.",
+  "thawing": null,
+  "spoilage": [
+   "Little or no buttery smell when the bottle is opened.",
+   "Liquid that has darkened or gone cloudy.",
+   "Sediment appearing in a bottle that was clear.",
+   "A flat, greasy or chemical note in the finished baking."
+  ],
+  "tips": [
+   "Buy small; the useful life starts when you open it.",
+   "Keep it away from the hob and out of the light.",
+   "Use it sparingly — butter flavouring is far more concentrated than it seems.",
+   "It flavours, it does not enrich: a recipe still needs real fat for texture."
+  ],
+  "faq": [
+   {
+    "q": "How long does butter flavouring last?",
+    "a": "2 years unopened in the pantry, and 12 months after opening. It does not spoil microbially; the aroma fades."
+   },
+   {
+    "q": "Does butter flavouring need to be refrigerated?",
+    "a": "No, as long as it contains no dairy — most do not. A cool dark cupboard is better, since a cold bottle collects condensation in the neck."
+   },
+   {
+    "q": "Can butter flavouring replace butter in a recipe?",
+    "a": "No. It supplies aroma only; the fat in a recipe is doing structural work that no flavouring can replace."
+   }
+  ]
+ },
+ "zh": {
+  "name": "奶油香精",
+  "aliases": [
+   "牛油香精",
+   "奶油風味精",
+   "butter flavor",
+   "butter extract"
+  ],
+  "summary": "未開封的奶油香精放櫃子裡可放 2 年，開封後是 12 個月。雖然叫奶油，裡面通常完全沒有奶油——它是溶劑類香精，所以長不出東西，先用完的是香氣。",
+  "pantry": "未開封 2 年、開封後 12 個月，蓋緊、放陰涼避光處。奶油香精大多是把丁二酮之類的成分溶在酒精或丙二醇裡，這也是為什麼它能放好幾年，而真正的奶油只能放幾週。那些成分易揮發，所以「蓋子沒鎖緊」和「放在爐火上方」是兩件最快把一瓶香精掏空的事。如果某個產品真的含乳固形物，包裝上會寫，那它就依標示走，不適用這裡的期限。",
+  "fridge": "奶油香精沒有給冷藏期限，也不需要。它在室溫下就是穩定的溶液，冰它只會讓瓶子每次拿出來都在瓶頸結露。就和其他香精一起放櫃子裡，遠離熱源。",
+  "freezer": "沒有冷凍期限，也沒有理由冷凍。溶劑類香精在家用冷凍裡凍不硬，而你想防止的香氣流失是從瓶蓋跑掉的，不是溫度造成的。把蓋子轉緊、讓瓶子待在暗處就好。",
+  "thawing": null,
+  "spoilage": [
+   "打開瓶子幾乎聞不到奶油香。",
+   "液體變深或變混濁。",
+   "原本清澈的瓶子出現沉澱。",
+   "烤出來的成品帶扁平、油膩或化學的味道。"
+  ],
+  "tips": [
+   "買小瓶的；有用的壽命從開封那天開始算。",
+   "遠離爐火，也避免光照。",
+   "用量要少——奶油香精比你以為的濃得多。",
+   "它只提供香氣、不提供油脂：配方裡的油脂在做結構的工作，香精取代不了。"
+  ],
+  "faq": [
+   {
+    "q": "奶油香精可以放多久？",
+    "a": "未開封放櫃子 2 年，開封後 12 個月。它不會腐敗，只是香氣會褪。"
+   },
+   {
+    "q": "奶油香精需要冷藏嗎？",
+    "a": "只要不含乳成分就不用（大部分都不含）。陰涼避光的櫃子更好，因為冰過的瓶子會在瓶頸結露。"
+   },
+   {
+    "q": "奶油香精可以取代配方裡的奶油嗎？",
+    "a": "不行。它只提供香氣；配方裡的油脂在做結構性的工作，那是香精做不到的。"
+   }
+  ]
+ }
+}

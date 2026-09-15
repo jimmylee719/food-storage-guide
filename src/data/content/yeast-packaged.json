@@ -1,0 +1,83 @@
+{
+ "slug": "yeast-packaged",
+ "en": {
+  "name": "Yeast, packaged dry",
+  "aliases": [
+   "active dry yeast",
+   "instant yeast",
+   "乾酵母",
+   "速發酵母"
+  ],
+  "summary": "Unopened packaged yeast keeps 2 years from purchase in a cool dry place. Once opened it must be refrigerated or frozen: 4 months in the fridge at 4 °C (40 °F) or below, or 6 months in the freezer at −18 °C (0 °F). Yeast does not become unsafe — it loses activity, and the honest test is to proof it.",
+  "pantry": "2 years from purchase for a sealed sachet or vacuum brick, kept somewhere cool and dry. Dry yeast is living but dormant, freeze-dried down to a moisture level at which it simply waits, and the sealed pack is under vacuum or nitrogen specifically to keep oxygen away from it. Once you open it, the pantry is no longer good enough: warmth, oxygen and humidity all wake the cells up enough to consume their reserves without any dough to feed on, and an opened jar left in a warm cupboard will be noticeably weaker within weeks. Opened yeast must be refrigerated or frozen.",
+  "fridge": "4 months at 4 °C (40 °F) or below after opening, in a properly airtight jar rather than a folded-over foil sachet. Cold slows the loss of activity but does nothing about moisture, and damp is what actually kills dry yeast: take the jar out, use what you need quickly and put it straight back, so that condensation does not form inside it. If you are unsure whether an opened jar is still alive, proof it — a teaspoon in warm water with a pinch of sugar should foam within about ten minutes. No foam means no bread, however fresh the date looks.",
+  "freezer": "6 months at −18 °C (0 °F), and this is where an opened brick of instant yeast belongs if you bake occasionally. Freezing does not kill dry yeast — the cells are already dehydrated, which is exactly what protects them — so activity falls off more slowly than in the fridge. Use an airtight jar, take out what you need with a dry spoon, and return the jar immediately. Kept frozen it does not become unsafe past the window; it simply gets weaker, and weaker yeast means a longer rise rather than a failed one, until eventually it means no rise at all.",
+  "thawing": "There is no need to thaw dry yeast. Measure it straight from the jar with a dry spoon and use it in the dough; the warm liquid in the recipe wakes it up. Let the jar itself come back to room temperature before opening if your kitchen is humid, so condensation forms outside rather than in the yeast.",
+  "spoilage": [
+   "No foam when proofed in warm water with a pinch of sugar — the decisive test.",
+   "Dough that rises far more slowly than the recipe says, or not at all.",
+   "Clumping or a damp, caked jar, which means moisture got in.",
+   "A sour or stale smell rather than the usual clean, beery one."
+  ],
+  "tips": [
+   "Proof a doubtful jar before committing a batch of dough to it.",
+   "Decant an opened sachet into an airtight jar — a folded foil packet is not a seal.",
+   "Always use a dry spoon; moisture is what kills dry yeast.",
+   "Water above about 50 °C will kill yeast outright, so keep proofing water lukewarm."
+  ],
+  "faq": [
+   {
+    "q": "How long does dry yeast last?",
+    "a": "2 years from purchase unopened in a cool dry place. Once opened, 4 months in the fridge at 4 °C (40 °F) or below, or 6 months in the freezer at −18 °C (0 °F)."
+   },
+   {
+    "q": "How do you test whether yeast is still good?",
+    "a": "Proof it: stir a teaspoon into warm water with a pinch of sugar and wait. A healthy jar foams within about ten minutes; no foam means no rise."
+   },
+   {
+    "q": "Does yeast go bad or just go weak?",
+    "a": "It goes weak. Old yeast is not unsafe — it simply has fewer live cells, so the dough rises slowly and eventually not at all."
+   }
+  ]
+ },
+ "zh": {
+  "name": "乾酵母",
+  "aliases": [
+   "速發酵母",
+   "即發乾酵母",
+   "active dry yeast",
+   "酵母粉"
+  ],
+  "summary": "未開封的包裝乾酵母自購買日起可放 2 年，放陰涼乾燥處。一旦開封就必須冷藏或冷凍：4 °C 以下冷藏 4 個月，或 −18 °C 冷凍 6 個月。酵母不會變得不安全——它是會失去活性，而誠實的檢查方式就是拿去試發。",
+  "pantry": "未拆封的小包或真空磚，自購買日起 2 年，放陰涼乾燥處。乾酵母是活的但處於休眠狀態，被乾燥到一個含水量，然後就這樣等著；而密封包裝抽真空或充氮氣，目的就是不讓氧氣碰到它。一旦開封，櫃子就不夠格了：溫度、氧氣和濕氣都會讓細胞醒到足以消耗自身儲備，而它又沒有麵團可吃，所以一罐開封後留在溫暖櫃子裡的酵母，幾週內就會明顯變弱。開封後的酵母必須冷藏或冷凍。",
+  "fridge": "開封後放 4 °C 以下 4 個月，而且要裝進真正密封的罐子，不是把鋁箔包折起來就算。低溫能拖慢活性流失，但對濕氣毫無辦法，而真正殺死乾酵母的就是受潮：把罐子拿出來、快速取用、立刻放回去，別讓它在裡面結露。不確定一罐開封的酵母還有沒有用，就拿去試發——一小匙加進溫水、撒一點糖，大約十分鐘內應該要起泡。不起泡就不會有麵包，不管日期看起來多新。",
+  "freezer": "−18 °C 下 6 個月；如果你只是偶爾烤麵包，一磚開封的速發酵母就該放這裡。冷凍不會殺死乾酵母——細胞本來就已經脫水，而那正是保護它的原因——所以活性衰退得比冷藏還慢。請用密封罐，用乾燥的湯匙取用，取完立刻蓋回去。冷凍保存超過期限也不會變得不安全，它只是越來越弱；而弱的酵母代表發酵更慢，不代表失敗，直到有一天它真的完全不發了。",
+  "thawing": "乾酵母不需要解凍。用乾燥的湯匙直接從罐子裡量出來、加進麵團，配方裡的溫熱液體會把它叫醒。如果廚房很潮濕，開蓋前先讓整罐回到室溫，讓水氣凝在罐外而不是酵母裡。",
+  "spoilage": [
+   "加溫水和一點糖去試發卻完全不起泡——這是決定性的測試。",
+   "麵團發得比食譜說的慢得多，或根本不發。",
+   "結塊，或整罐受潮結成餅，表示水氣跑進去了。",
+   "聞起來發酸或走味，而不是原本那股乾淨的啤酒香。"
+  ],
+  "tips": [
+   "不確定的那罐，先試發再決定要不要拿整團麵團去賭。",
+   "開封的小包倒進密封罐——折起來的鋁箔包不算密封。",
+   "一律用乾燥的湯匙；殺死乾酵母的就是水氣。",
+   "水溫超過大約 50 °C 會直接殺死酵母，試發的水請保持溫溫的就好。"
+  ],
+  "faq": [
+   {
+    "q": "乾酵母可以放多久？",
+    "a": "未開封自購買日起放陰涼乾燥處 2 年。開封後，4 °C 以下冷藏 4 個月，或 −18 °C 冷凍 6 個月。"
+   },
+   {
+    "q": "怎麼測試酵母還能不能用？",
+    "a": "拿去試發：一小匙加進溫水、撒一點糖，等一下。健康的酵母大約十分鐘內會起泡；不起泡就不會發。"
+   },
+   {
+    "q": "酵母是會壞掉還是只是變弱？",
+    "a": "是變弱。老酵母不會不安全，只是活細胞變少，所以麵團發得慢，最後完全不發。"
+   }
+  ]
+ }
+}

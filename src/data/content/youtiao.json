@@ -1,0 +1,83 @@
+{
+ "slug": "youtiao",
+ "en": {
+  "name": "Youtiao (Chinese fried dough stick)",
+  "aliases": [
+   "Chinese cruller",
+   "fried dough stick",
+   "oil stick",
+   "油條"
+  ],
+  "summary": "Youtiao keeps 1–2 days loosely covered at room temperature, and 1 month at −18 °C (0 °F). Both figures come from the published timeline for doughnuts — in food-science terms the same thing, a lean fried dough — because no authority publishes one for youtiao.",
+  "pantry": "1–2 days loosely covered, and it is best eaten the morning it is fried. A sealed bag steams the crust soft within the hour, so leave it on a rack or in a loosely covered basket instead. Youtiao is a low-moisture fried dough rather than a perishable food, so what it does is go limp and then stale and rancid rather than turning dangerous, but in a warm humid kitchen it will eventually mould. If you have dipped it in soy milk or congee, that is a different situation and the leftovers do not keep.",
+  "fridge": "No refrigerated timeline is published for youtiao, and the fridge is the wrong place for it. Chilling makes the dough stale faster — starch retrogradation runs quickest just above freezing — and the humidity of a fridge turns what remains of the crisp shell leathery. If you genuinely cannot eat it that day, the freezer does the job properly. Reheating a refrigerated youtiao in an oven does help, but it never comes back the way a frozen one does.",
+  "freezer": "1 month at −18 °C (0 °F). Bag it with the air pressed out and reheat in a hot oven or an air fryer — it crisps up noticeably better from frozen than from the fridge, because there is less free moisture to drive off. This figure is a conservative quality estimate on the same basis as the room-temperature one, not a published number. Kept continuously frozen it stays safe well beyond a month; the limit is the oil going rancid and freezer burn.",
+  "thawing": "Do not thaw. Put it straight into a hot oven or air fryer from frozen; thawing first leaves it limp and oily.",
+  "spoilage": [
+   "A limp, bendy stick that no longer crisps up in a hot oven.",
+   "A rancid, stale-oil or crayon-like smell — the usual end for a fried food.",
+   "Mould spots, which come quickly if it was bagged while still warm.",
+   "A dense, chewy interior instead of the open, hollow structure."
+  ],
+  "tips": [
+   "Leave it uncovered or loosely covered; a sealed bag kills the crust in an hour.",
+   "Reheat in an oven or air fryer, never a microwave.",
+   "Freeze the surplus the morning you buy it rather than at the end of the day.",
+   "Day-old youtiao is excellent chopped into congee or fried rice, where limpness does not matter."
+  ],
+  "faq": [
+   {
+    "q": "How long does youtiao keep?",
+    "a": "1–2 days loosely covered at room temperature, but it is at its best the morning it is fried. The figure is read across from doughnuts."
+   },
+   {
+    "q": "Can you freeze youtiao?",
+    "a": "Yes, about 1 month at −18 °C (0 °F). Reheat straight from frozen in a hot oven or air fryer, which crisps it better than reheating from the fridge."
+   },
+   {
+    "q": "How do you make youtiao crisp again?",
+    "a": "Dry heat — a hot oven or an air fryer. A microwave steams it and makes it chewy."
+   }
+  ]
+ },
+ "zh": {
+  "name": "油條",
+  "aliases": [
+   "油炸鬼",
+   "油炸粿",
+   "豆漿油條",
+   "youtiao"
+  ],
+  "summary": "油條鬆鬆蓋著放室溫可放 1～2 天，−18 °C 冷凍是 1 個月。這兩個數字都來自甜甜圈的公布期限——從食品科學的角度看它們是同一種東西，都是油炸的瘦麵團——因為沒有權威機關為油條公布過數字。",
+  "pantry": "鬆鬆蓋著、室溫 1～2 天，但最好還是炸好那個早上就吃掉。密封的袋子一小時內就會把外殼悶軟，所以請放在架子上或鬆鬆蓋著的籃子裡。油條是含水量低的炸物而不是易腐食品，所以它的結局是先軟掉、再走味油耗，而不是突然變危險；不過在又熱又濕的廚房裡，它終究會長霉。已經泡進豆漿或稀飯裡的那根是另一回事，剩下的不要留。",
+  "fridge": "油條沒有公布的冷藏期限，而冷藏也不是它該去的地方。低溫會讓麵團老化得更快——澱粉回凝在略高於冰點時最快——而冰箱裡的濕氣會把僅存的酥殼變成皮革。如果真的當天吃不完，冷凍才是正確的解法。冰過的油條用烤箱回熱確實有幫助，但它永遠回不到冷凍那種程度。",
+  "freezer": "−18 °C 下 1 個月。壓出空氣裝袋，要吃時用高溫烤箱或氣炸鍋回熱——從冷凍回熱明顯比從冷藏回熱更酥，因為要趕走的自由水比較少。這個數字和室溫那個一樣，是保守的品質估計，不是公布的數據。只要全程沒退冰，放超過一個月仍然安全；限制它的是油脂油耗和凍燒。",
+  "thawing": "不要解凍。直接從冷凍送進高溫烤箱或氣炸鍋；先解凍只會讓它軟塌又出油。",
+  "spoilage": [
+   "整根軟趴趴、可以彎折，進高溫烤箱也酥不起來。",
+   "聞得到油耗味、陳油味或蠟筆味——炸物最常見的結局。",
+   "長霉；還熱著就裝袋的特別快。",
+   "內部變得又密又韌，失去原本中空蓬鬆的結構。"
+  ],
+  "tips": [
+   "不要蓋或只鬆鬆蓋著；密封袋一小時就能毀掉外殼。",
+   "回熱用烤箱或氣炸鍋，絕對不要微波。",
+   "多的請在買回來的那個早上就冷凍，不要等到晚上。",
+   "隔夜的油條切段丟進稀飯或炒飯非常好用，那裡不在乎它軟不軟。"
+  ],
+  "faq": [
+   {
+    "q": "油條可以放多久？",
+    "a": "鬆鬆蓋著放室溫 1～2 天，但最好吃的還是炸好那個早上。這個數字是比照甜甜圈而來。"
+   },
+   {
+    "q": "油條可以冷凍嗎？",
+    "a": "可以，−18 °C 下大約 1 個月。直接從冷凍用高溫烤箱或氣炸鍋回熱，比從冷藏回熱酥得多。"
+   },
+   {
+    "q": "油條怎麼回熱才會酥？",
+    "a": "用乾熱——高溫烤箱或氣炸鍋。微波只會把它蒸軟，變得黏牙。"
+   }
+  ]
+ }
+}

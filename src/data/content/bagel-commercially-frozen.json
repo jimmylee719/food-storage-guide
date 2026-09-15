@@ -1,0 +1,82 @@
+{
+ "slug": "bagel-commercially-frozen",
+ "en": {
+  "name": "Bagels, commercially frozen",
+  "aliases": [
+   "frozen bagels",
+   "shop-bought frozen bagels",
+   "冷凍貝果"
+  ],
+  "summary": "Commercially frozen bagels keep 3 months at −18 °C (0 °F) for best quality. Kept continuously frozen they stay safe well beyond that — the figure is a quality window, not a safety limit — but they dry, crystallise and pick up freezer burn.",
+  "pantry": "Do not let them sit out. A frozen bagel thawing on the counter is a moist, low-acid bread warming through the danger zone of 4–60 °C (40–140 °F), and the two-hour rule applies — one hour if the kitchen is above 32 °C (90 °F). The point of buying bagels frozen is that you take out one at a time; put the bag straight back so the rest never soften.",
+  "fridge": "No refrigerated timeline is given for frozen bagels, and the fridge is the wrong place to keep them. Chilling stales bread faster than the counter does — starch retrogradation runs quickest just above freezing — so a thawed bagel sitting in the fridge goes dry and crumbly. It does suppress mould, which matters in a hot humid kitchen, but the freezer avoids both problems, and that is where a bagel bought frozen should stay.",
+  "freezer": "3 months at −18 °C (0 °F) for best quality. Keep them in the bag they came in, pressed flat with the air out, and take out only what you will eat — repeated part-thawing is what causes ice crystals and dry patches. Slice them before freezing if the pack is not already sliced; a frozen whole bagel is dangerous to cut. Toast them straight from frozen on a slightly longer setting.",
+  "thawing": "Toast or bake from frozen — that is what they are for, and it gives the best texture. If you want a soft one, thaw it wrapped in the fridge or for a short time at room temperature, and never leave it out for more than two hours.",
+  "spoilage": [
+   "White, dry, crystalline patches — freezer burn, a quality fault rather than a safety one.",
+   "Heavy ice inside the bag, which means the pack part-thawed and refroze.",
+   "Stale, cardboardy or freezer-smelling crumb after toasting.",
+   "Mould, which only appears once the bagels have been thawed and left out."
+  ],
+  "tips": [
+   "Take out one at a time and reseal the bag immediately.",
+   "Slice before freezing so you never have to saw a frozen one.",
+   "Press the air out of the bag; air is what causes freezer burn.",
+   "Do not refreeze bagels thawed on the counter — thawed in the fridge and still cold, they may be refrozen with some quality loss."
+  ],
+  "faq": [
+   {
+    "q": "How long do frozen bagels last?",
+    "a": "3 months at −18 °C (0 °F) for best quality. They stay safe longer than that if they never thaw, but they dry out and develop freezer burn."
+   },
+   {
+    "q": "Do you have to thaw frozen bagels before toasting?",
+    "a": "No. Toast them straight from frozen on a slightly longer setting; the texture is better that way than after thawing."
+   },
+   {
+    "q": "Can you refreeze bagels that have thawed?",
+    "a": "If they thawed in the fridge and are still cold, yes, with some loss of texture. If they thawed on the counter, do not refreeze them."
+   }
+  ]
+ },
+ "zh": {
+  "name": "冷凍貝果",
+  "aliases": [
+   "市售冷凍貝果",
+   "貝果",
+   "冷凍麵包圈",
+   "frozen bagels"
+  ],
+  "summary": "市售冷凍貝果放 −18 °C 可保有最佳品質 3 個月。只要全程沒有退冰，超過這個時間依然安全——這個數字是品質期限，不是安全期限——但它會變乾、結冰晶、出現凍燒。",
+  "pantry": "不要讓它在外面放著。一顆在檯面上退冰的貝果，是一塊正在穿過 4～60 °C 危險溫度帶的濕潤低酸麵包，適用兩小時原則；廚房超過 32 °C 時只有一小時。買冷凍貝果的意義就在於一次只拿一顆，拿完立刻把袋子放回冷凍，剩下的才不會軟掉。",
+  "fridge": "冷凍貝果沒有給冷藏期限，而冰箱冷藏室也不是該放它的地方。低溫讓麵包老化得比室溫更快——澱粉回凝在略高於冰點時跑得最快——所以一顆退冰後擱在冷藏的貝果會變乾變粉。冷藏確實能壓住霉，這在又熱又濕的廚房裡有意義；但冷凍同時避開了這兩個問題，而一顆買來就是冷凍的貝果，本來就該待在冷凍。",
+  "freezer": "−18 °C 下 3 個月品質最好。就用原本的袋子，壓出空氣封好，要吃幾顆才拿幾顆——反覆半退冰正是冰晶和乾斑的來源。如果整包沒有先切，冷凍前自己先剖開；硬邦邦的冷凍貝果很難也很危險切。直接從冷凍進烤麵包機，時間調長一點就好。",
+  "thawing": "直接從冷凍烤或進烤箱——它本來就是這樣用的，口感也最好。想要軟的就包好放冷藏解凍，或在室溫放一小段時間，但絕不要在外面擺超過兩小時。",
+  "spoilage": [
+   "表面出現乾白、結晶狀的斑塊——那是凍燒，屬於品質問題而非安全問題。",
+   "袋子裡結了厚厚的冰，代表整包曾經半退冰又再凍回去。",
+   "烤完之後吃起來走味、有紙板味或冷凍櫃的味道。",
+   "長霉——這只會發生在退冰之後又擺在外面的貝果上。"
+  ],
+  "tips": [
+   "一次拿一顆，拿完馬上把袋子封回去。",
+   "冷凍前先剖開，之後就不必鋸一顆冰磚。",
+   "袋子裡的空氣要壓掉；凍燒就是空氣造成的。",
+   "在室溫退冰過的貝果不要再冷凍；如果是在冷藏退冰、而且還是冷的，可以再凍回去，只是口感會差一點。"
+  ],
+  "faq": [
+   {
+    "q": "冷凍貝果可以放多久？",
+    "a": "−18 °C 下 3 個月品質最好。只要沒退冰，放更久仍然安全，但會變乾、凍燒。"
+   },
+   {
+    "q": "冷凍貝果要先退冰再烤嗎？",
+    "a": "不用。直接從冷凍烤、時間調長一點，口感比退冰後再烤更好。"
+   },
+   {
+    "q": "退冰過的貝果可以再冷凍嗎？",
+    "a": "在冷藏退冰、而且還是冰的，可以，只是口感會打折。在室溫退冰的就不要再冷凍了。"
+   }
+  ]
+ }
+}

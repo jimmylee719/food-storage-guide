@@ -1,0 +1,39 @@
+[
+ {
+  "slug": "bread-homemade",
+  "reason": {
+   "en": "The FoodKeeper record places 2-3 months in the refrigerate column and leaves the freezer column empty. Two to three months is a freezer figure; no bread keeps that long on a fridge shelf, and publishing it in the fridge row would mislead anyone reading the table without the article.",
+   "zh": "FoodKeeper 這筆紀錄把 2–3 個月放在「冷藏」欄，而冷凍欄是空的。兩三個月是冷凍等級的期限，沒有任何麵包能在冷藏室放這麼久；照原樣刊在冷藏欄，只看表格不看內文的人就會被誤導。"
+  },
+  "evidence": {
+   "en": "The sibling record in the same dataset, 'Whole wheat bread, homemade', states 'Refrigeration not recommended - bread will quickly dry out and become stale' and puts 3 months under freezer. The two records describe the same storage behaviour, so the figure has been moved to the column it belongs in.",
+   "zh": "同一份資料集裡的「全麥麵包（自製）」寫著「不建議冷藏——麵包會迅速乾燥變硬」，並把 3 個月放在冷凍欄。兩筆紀錄描述的是同一種保存行為，因此我們把這個數字移到它該在的欄位。"
+  },
+  "storage": {
+   "pantry": {
+    "base": {
+     "min": 3,
+     "max": 5,
+     "unit": "days",
+     "tips": "May have shorter shelf life due to lack of preservatives."
+    }
+   },
+   "fridge": {
+    "base": {
+     "min": null,
+     "max": null,
+     "unit": null,
+     "tips": "Refrigeration is not recommended: chilling stales lean bread faster than room temperature does, though it does hold off mould."
+    }
+   },
+   "freezer": {
+    "base": {
+     "min": 2,
+     "max": 3,
+     "unit": "months",
+     "tips": "Wrap well and freeze on the day it is baked."
+    }
+   }
+  }
+ }
+]

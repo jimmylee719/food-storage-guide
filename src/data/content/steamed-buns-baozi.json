@@ -1,0 +1,85 @@
+{
+ "slug": "steamed-buns-baozi",
+ "en": {
+  "name": "Steamed buns (baozi), filled",
+  "aliases": [
+   "baozi",
+   "pork buns",
+   "char siu bao",
+   "包子",
+   "肉包"
+  ],
+  "summary": "A cooked filled bun keeps 1–2 days in the fridge at 5 °C (41 °F) or below and 3–5 months at −18 °C (0 °F). Do not leave filled buns out at room temperature: cooked food is either eaten promptly or held above 60 °C (140 °F), and anything longer than a couple of days belongs in the freezer.",
+  "pantry": "Do not leave filled buns out, and no room-temperature timeline is given for them. The rule from Taiwan's food authority is that cooked food is either eaten promptly or held hot above 60 °C (140 °F); a bun cooling slowly on the counter sits in the growth range for Bacillus cereus and Staphylococcus aureus at the same time. Bacillus cereus is the relevant one here because its spores survive cooking and starchy foods are exactly what it favours — a steamed wheat bun with a meat or vegetable centre is the combination named in the guidance. The two-hour rule applies, one hour if the kitchen is above 32 °C (90 °F).",
+  "fridge": "1–2 days at 5 °C (41 °F) or below, cooled quickly and covered. This is deliberately short: a cooked filled bun is a starchy food with a meat or vegetable centre, and the guidance allows only short refrigerated storage of a couple of days and requires freezing for anything longer. Reheat by steaming back to a genuinely hot centre, never to lukewarm — a warm-but-not-hot bun is the worst possible outcome, because it has been through the growth range twice without ever being properly reheated.",
+  "freezer": "3–5 months at −18 °C (0 °F) for best quality, a figure read across from commercial bread products; no agency publishes one for baozi. Cool them completely, wrap each bun, and freeze. Steam from frozen for twelve to fifteen minutes — microwaving from frozen leaves a cold core, which is both unpleasant and the thing you are trying to avoid. Kept continuously frozen they stay safe well beyond that window; the limit is drying and freezer burn.",
+  "thawing": "Do not thaw. Steam straight from frozen until the centre is properly hot. Never thaw filled buns on the counter, and do not refreeze buns that have thawed at room temperature.",
+  "spoilage": [
+   "A sour or fermented smell when the wrapper is opened.",
+   "Sticky or slimy dough on the outside of the bun.",
+   "Any mould spot — discard the bun, do not trim it.",
+   "A filling that smells off, which decides the matter regardless of how the dough looks."
+  ],
+  "tips": [
+   "Cool them quickly and get them into the fridge; do not let a tray cool slowly on the counter.",
+   "Wrap each bun individually before freezing so you can steam exactly what you need.",
+   "Steam, never microwave, from frozen — a cold core is the usual failure.",
+   "Unfilled mantou is a different and more forgiving food; these rules are for filled buns."
+  ],
+  "faq": [
+   {
+    "q": "How long do cooked baozi keep in the fridge?",
+    "a": "1–2 days at 5 °C (41 °F) or below. Anything longer should be frozen rather than refrigerated."
+   },
+   {
+    "q": "Can you freeze steamed buns?",
+    "a": "Yes, 3–5 months at −18 °C (0 °F). Cool completely, wrap each bun, and steam from frozen for twelve to fifteen minutes."
+   },
+   {
+    "q": "Can baozi be left out at room temperature?",
+    "a": "No. Cooked food is either eaten promptly or held above 60 °C (140 °F). A cooling filled bun is exactly the starchy food Bacillus cereus favours."
+   }
+  ]
+ },
+ "zh": {
+  "name": "包子",
+  "aliases": [
+   "肉包",
+   "菜包",
+   "叉燒包",
+   "蒸包",
+   "baozi"
+  ],
+  "summary": "蒸熟的包子放 5 °C 以下冷藏可放 1～2 天，−18 °C 冷凍是 3～5 個月。有餡的包子不要放在室溫：熟食的原則是盡快吃掉或保持在 60 °C 以上熱藏，超過兩天就該冷凍。",
+  "pantry": "有餡的包子不要放在外面，這裡也不給室溫期限。食藥署的原則是：熟食要嘛盡快食用，要嘛維持在 60 °C 以上熱藏；一顆在檯面上慢慢放涼的包子，同時待在仙人掌桿菌和金黃色葡萄球菌的生長溫度範圍裡。這裡關鍵的是仙人掌桿菌，因為它的芽孢在蒸煮後仍然存活，而米飯類和澱粉類製品正是它偏好的食物——蒸熟的麵皮包著肉餡或菜餡，剛好就是官方點名的那個組合。適用兩小時原則，廚房超過 32 °C 時只有一小時。",
+  "fridge": "放 5 °C 以下 1～2 天，而且要快速降溫、蓋好。這個期限是刻意抓短的：熟的包子是澱粉外皮加上肉或菜的內餡，官方的建議只允許兩天以內的短期冷藏，更久就必須冷凍。回熱要用蒸的，而且要蒸到中心真正燙透，絕對不要只是溫溫的——「溫但不燙」是最糟的結果，因為它等於兩次穿過生長溫度帶，卻從來沒有被確實復熱。",
+  "freezer": "−18 °C 下 3～5 個月品質最好，這個數字是比照市售麵包製品而來；沒有機關為包子公布期限。完全放涼，一顆一顆包好再冷凍。要吃時直接從冷凍蒸十二到十五分鐘——從冷凍微波會留下冰冷的中心，那既難吃，也正是你要避免的事。只要全程沒退冰，超過這個期限仍然安全；限制它的是變乾和凍燒。",
+  "thawing": "不要解凍。直接從冷凍蒸到中心燙透。有餡的包子絕對不要放在檯面上退冰，在室溫退冰過的也不要再冷凍。",
+  "spoilage": [
+   "打開包裝聞到發酸或發酵的味道。",
+   "外皮摸起來黏手或黏滑。",
+   "只要出現霉點就整顆丟掉，不要切掉那塊。",
+   "餡料聞起來不對——不管外皮看起來多正常，那就結案了。"
+  ],
+  "tips": [
+   "蒸好要快速降溫進冰箱，不要讓一整籠在檯面上慢慢涼。",
+   "冷凍前一顆一顆包好，要蒸幾顆就拿幾顆。",
+   "從冷凍一律用蒸的，不要微波——冰冷的中心是最常見的失敗。",
+   "沒有包餡的白饅頭是另一種比較寬容的食物，這些規則講的是有餡的包子。"
+  ],
+  "faq": [
+   {
+    "q": "蒸好的包子冷藏可以放多久？",
+    "a": "5 °C 以下 1～2 天。要放更久就該冷凍，而不是繼續冷藏。"
+   },
+   {
+    "q": "包子可以冷凍嗎？",
+    "a": "可以，−18 °C 下 3～5 個月。完全放涼、一顆顆包好，要吃時直接從冷凍蒸十二到十五分鐘。"
+   },
+   {
+    "q": "包子可以放在室溫嗎？",
+    "a": "不行。熟食要嘛盡快吃掉，要嘛維持在 60 °C 以上。正在放涼的肉包，正好是仙人掌桿菌最喜歡的澱粉類食物。"
+   }
+  ]
+ }
+}

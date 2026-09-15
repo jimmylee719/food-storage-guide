@@ -1,0 +1,83 @@
+{
+ "slug": "crumpets",
+ "en": {
+  "name": "Crumpets",
+  "aliases": [
+   "crumpet",
+   "pikelet",
+   "English griddle cake",
+   "英式煎餅"
+  ],
+  "summary": "Crumpets keep 2–3 days in their bag at room temperature, 1–2 weeks in the fridge at 4 °C (40 °F) or below, and 3 months at −18 °C (0 °F). This is the one bread product where the fridge is genuinely the right answer, because you toast a crumpet anyway and toasting undoes the staling.",
+  "pantry": "2–3 days in their bag at room temperature, or to the printed date on a supermarket pack. Crumpets are wetter than any bread on this site — they are a pourable yeast-and-soda batter, cooked on one side only, with an open humid crumb and those famous holes running right through it. That makes them a fast mould substrate, and a bag of crumpets in a warm kitchen will show blue-green spots within a few days. The 2–3 day figure is our own judgement rather than a published number.",
+  "fridge": "1–2 weeks at 4 °C (40 °F) or below, in their bag, and it is worth understanding why this contradicts the usual advice about bread. Refrigeration's penalty is accelerated staling — starch retrogradation is fastest just above freezing — but you are going to toast a crumpet anyway, and toasting reverses staling by re-gelatinising the starch. So you pay nothing, and you buy real time against mould: the bread study cited here found no visible mould at all over ten days at fridge temperature. The published line for shop-bought bread and baked goods is longer still; we have trimmed it because crumpets hold far more water than a pan loaf.",
+  "freezer": "3 months at −18 °C (0 °F) for best quality, a figure read across from commercially baked sliced bread. Freeze them interleaved so they peel apart, in a bag with the air pressed out, and toast them from frozen on a slightly longer setting — no thawing needed and no quality loss worth mentioning. Kept continuously frozen they stay safe beyond that window; what the timeline describes is drying, ice crystals and freezer burn.",
+  "thawing": "Toast straight from frozen. If you thaw them, do it in the fridge — a crumpet left out on a warm counter is a wet, low-acid starch and should not sit around.",
+  "spoilage": [
+   "Blue-green or white fuzzy spots, often down inside the holes where you cannot see them.",
+   "A sour, yeasty or alcoholic smell when the bag is opened.",
+   "A slimy or tacky surface.",
+   "A dense, rubbery texture that stays rubbery after toasting."
+  ],
+  "tips": [
+   "Look inside the holes, not just at the surface — mould starts where it is damp and dark.",
+   "The fridge is the right place for these, unlike almost every other bread.",
+   "Freeze them interleaved so you can take one at a time.",
+   "Toast from frozen on a longer setting rather than thawing first."
+  ],
+  "faq": [
+   {
+    "q": "How long do crumpets last?",
+    "a": "2–3 days at room temperature, 1–2 weeks in the fridge at 4 °C (40 °F) or below, or 3 months frozen at −18 °C (0 °F)."
+   },
+   {
+    "q": "Should crumpets be kept in the fridge?",
+    "a": "Yes — this is the exception to the rule about bread. The fridge stales them, but you toast them anyway, and toasting undoes staling while buying you real time against mould."
+   },
+   {
+    "q": "Can you freeze crumpets?",
+    "a": "Yes, 3 months at −18 °C (0 °F). Freeze them interleaved and toast straight from frozen on a longer setting."
+   }
+  ]
+ },
+ "zh": {
+  "name": "英式煎餅",
+  "aliases": [
+   "蜂窩鬆餅",
+   "英式鬆餅圓餅",
+   "克朗佩",
+   "crumpet"
+  ],
+  "summary": "英式煎餅裝在原袋放室溫可放 2～3 天，4 °C 以下冷藏 1～2 週，−18 °C 冷凍 3 個月。這是全站唯一一種「冷藏才是正解」的麵包製品，因為你反正要把它烤過，而烤過正好把老化抵消掉。",
+  "pantry": "裝在原袋放室溫 2～3 天，或依超市包裝上的印製日期。它比本站任何一種麵包都濕——那是可以用倒的酵母加小蘇打麵糊、只煎單面，內裡開放又潮濕，招牌的那些孔還一路通到底。這讓它成為長霉的絕佳溫床，一袋放在溫暖廚房裡的煎餅，幾天內就會出現藍綠色霉點。2～3 天這個數字是我們自己的判斷，不是公布的數據。",
+  "fridge": "裝在原袋、放 4 °C 以下 1～2 週，而且值得搞懂它為什麼跟一般的麵包建議相反。冷藏的代價是加速老化——澱粉回凝在略高於冰點時最快——但你反正要把煎餅烤過，而烤會讓澱粉重新糊化，把老化逆轉回來。所以你什麼代價都沒付，卻買到了對抗霉的真實時間：這裡引用的麵包研究發現，在冷藏溫度下放十天，完全沒有出現肉眼可見的霉。市售麵包與烘焙品的公布數字還更長一些，我們把它往下修了，因為煎餅的含水量遠高於吐司。",
+  "freezer": "−18 °C 下 3 個月品質最好，這個數字是比照市售切片麵包而來。每片之間夾紙冷凍才撕得開，裝袋前壓掉空氣，要吃時直接從冷凍烤、時間調長一點——不必解凍，品質損失也小到不值一提。只要全程沒退冰，超過這個期限仍然安全；期限描述的是變乾、冰晶和凍燒。",
+  "thawing": "直接從冷凍烤。真要解凍就放冷藏——一片煎餅是又濕又低酸的澱粉，不該擱在溫暖的檯面上。",
+  "spoilage": [
+   "出現藍綠色或白色絨毛霉，常常藏在你看不到的孔洞深處。",
+   "打開袋子聞到發酸、酵母味或酒精味。",
+   "表面變得黏滑或黏手。",
+   "質地變得又密又像橡皮，烤過還是橡皮。"
+  ],
+  "tips": [
+   "不要只看表面，往孔洞裡看——霉都是從又濕又暗的地方開始。",
+   "和幾乎所有麵包相反，冷藏對它才是對的。",
+   "每片之間夾紙冷凍，才能一次只拿一片。",
+   "直接從冷凍烤、時間調長，不要先解凍。"
+  ],
+  "faq": [
+   {
+    "q": "英式煎餅可以放多久？",
+    "a": "室溫 2～3 天，4 °C 以下冷藏 1～2 週，或 −18 °C 冷凍 3 個月。"
+   },
+   {
+    "q": "英式煎餅要放冷藏嗎？",
+    "a": "要——這是麵包規則裡的例外。冷藏會讓它老化，但你反正要烤，而烤能把老化逆轉回來，同時替你擋掉霉。"
+   },
+   {
+    "q": "英式煎餅可以冷凍嗎？",
+    "a": "可以，−18 °C 下 3 個月。夾紙冷凍，要吃時直接從冷凍烤、時間調長一點。"
+   }
+  ]
+ }
+}

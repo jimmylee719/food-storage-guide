@@ -1,0 +1,83 @@
+{
+ "slug": "frozen-sausages-precooked",
+ "en": {
+  "name": "Sausages, precooked, frozen",
+  "aliases": [
+   "cooked sausages",
+   "frankfurters",
+   "frozen cooked sausage",
+   "冷凍熟香腸"
+  ],
+  "summary": "Frozen precooked sausages keep 1–2 months from purchase at −18 °C (0 °F) for best quality — a short window for a frozen food, because the fat in a sausage oxidises even at freezer temperature. Once reheated, they keep 3–4 days in the fridge at 4 °C (40 °F) or below.",
+  "pantry": "No room-temperature storage, and no counter thawing. Precooked sausage is a ready-to-eat meat product, which means there is no later cooking step to fall back on if it has been mishandled — this is precisely the category where cold chain matters most. Anything left out is in the danger zone of 4–60 °C (40–140 °F) and follows the two-hour rule, one hour if the kitchen is above 32 °C (90 °F).",
+  "fridge": "3–4 days at 4 °C (40 °F) or below after reheating, covered, and that is what the figure describes. Thawed but not yet reheated sausages should be used within a day or two and kept in a sealed box on a low shelf so nothing drips. Reheat them right through to steaming hot rather than warming them to lukewarm, and do not keep reheating the same batch — heat only what you will eat.",
+  "freezer": "1–2 months from purchase at −18 °C (0 °F) for best quality. That is short compared with most frozen foods, and the reason is fat: sausage fat is ground, exposed and often seasoned with salt, all of which speed up the oxidation that gives an over-kept sausage its rancid, stale taste. The figure is a quality window, not a safety limit — sausages held continuously at −18 °C stay safe indefinitely. Wrap them tightly or vacuum-seal them, freeze in meal-sized portions, and label with the date.",
+  "thawing": "Thaw overnight in the fridge, or reheat straight from frozen if the pack allows it. Never on the counter or in warm water. Sausages thawed in the fridge and still at or below 4 °C (40 °F) may be refrozen with some quality loss; anything thawed warm must not be refrozen.",
+  "spoilage": [
+   "A rancid, stale-fat or crayon-like smell — the usual end for a frozen sausage.",
+   "Dry, grey or white frost-burned patches on the surface.",
+   "A slimy or sticky film on thawed sausages, which means they go out.",
+   "Any sour smell or colour change from pink to grey-brown through the middle."
+  ],
+  "tips": [
+   "Freeze in portions you will use at once; repeated part-thawing is what ruins them.",
+   "Wrap tightly or vacuum-seal — exposed fat is what goes rancid.",
+   "Label with the date; one month passes faster than you think.",
+   "Reheat right through to steaming hot, not just warm."
+  ],
+  "faq": [
+   {
+    "q": "How long can you freeze cooked sausages?",
+    "a": "1–2 months from purchase at −18 °C (0 °F) for best quality. They stay safe longer if they never thaw, but the fat turns rancid."
+   },
+   {
+    "q": "Why is the freezer window for sausages so short?",
+    "a": "Because the fat is ground and exposed, and salt speeds up its oxidation. Rancidity, not bacteria, is what ends a frozen sausage."
+   },
+   {
+    "q": "How long do reheated sausages keep in the fridge?",
+    "a": "3–4 days at 4 °C (40 °F) or below, covered. Reheat only what you will eat rather than the whole batch."
+   }
+  ]
+ },
+ "zh": {
+  "name": "冷凍熟香腸",
+  "aliases": [
+   "熟香腸",
+   "法蘭克福香腸",
+   "熱狗腸",
+   "cooked sausage"
+  ],
+  "summary": "冷凍熟香腸在 −18 °C 下自購買日起可保有最佳品質 1～2 個月——以冷凍食品來說這算很短，因為香腸裡的脂肪即使在冷凍溫度下也會氧化。回熱之後放 4 °C 以下冷藏 3～4 天。",
+  "pantry": "沒有室溫保存，也不要在檯面上退冰。熟香腸屬於即食肉品，意思是萬一處理不當，後面沒有一道加熱步驟可以幫你補救——這正是最看重冷鏈的那一類食品。任何擺在外面的都在 4～60 °C 的危險溫度帶裡，適用兩小時原則，廚房超過 32 °C 時只有一小時。",
+  "fridge": "回熱之後蓋好放 4 °C 以下 3～4 天，這個數字描述的正是這個狀態。已經解凍但還沒回熱的香腸請在一兩天內用掉，裝密封盒放在下層，避免滴到別的食物。回熱要熱到中心冒熱氣，不要只是溫溫的；也不要同一批反覆回熱——吃多少熱多少。",
+  "freezer": "−18 °C 下自購買日起 1～2 個月品質最好。這和多數冷凍食品比起來偏短，原因在脂肪：香腸的脂肪被絞碎、暴露在外，又常加了鹽，這些都會加速氧化，而那正是放過頭的香腸吃起來油耗、走味的原因。這是品質期限而不是安全上限——全程維持在 −18 °C 的香腸可以無限期保持安全。請包緊或真空封裝，按一餐的份量分裝冷凍，並標上日期。",
+  "thawing": "放冷藏隔夜解凍；包裝允許的話也可以直接從冷凍回熱。絕對不要放檯面或泡溫水。在冷藏解凍、且維持在 4 °C 以下的可以再冷凍，只是品質打折；回溫過的絕對不行。",
+  "spoilage": [
+   "聞得到油耗、陳油或蠟筆般的氣味——冷凍香腸最常見的結局。",
+   "表面出現乾燥、發灰或發白的凍燒斑塊。",
+   "解凍後表面黏滑或黏手，那就該丟。",
+   "出現酸味，或中心顏色從粉紅轉成灰褐。"
+  ],
+  "tips": [
+   "按一次用得完的份量分裝冷凍；反覆半退冰最毀它。",
+   "包緊或真空封裝——會油耗的就是那些暴露的脂肪。",
+   "標上日期；一個月過得比你想的快。",
+   "回熱要熱到中心冒熱氣，不是溫溫的就好。"
+  ],
+  "faq": [
+   {
+    "q": "熟香腸可以冷凍多久？",
+    "a": "−18 °C 下自購買日起 1～2 個月品質最好。只要沒退冰放更久仍然安全，但脂肪會油耗。"
+   },
+   {
+    "q": "香腸的冷凍期限為什麼這麼短？",
+    "a": "因為脂肪被絞碎又暴露在外，加上鹽會加速氧化。結束一條冷凍香腸的是油耗，不是細菌。"
+   },
+   {
+    "q": "回熱過的香腸冷藏可以放多久？",
+    "a": "蓋好放 4 °C 以下 3～4 天。而且吃多少熱多少，不要整批一起回熱。"
+   }
+  ]
+ }
+}

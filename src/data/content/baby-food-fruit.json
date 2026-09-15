@@ -1,0 +1,83 @@
+{
+ "slug": "baby-food-fruit",
+ "en": {
+  "name": "Baby food, fruit",
+  "aliases": [
+   "fruit purée",
+   "infant fruit jars",
+   "嬰兒水果泥",
+   "寶寶果泥"
+  ],
+  "summary": "Unopened fruit purée should be discarded after the use-by date on the jar or pouch. Once opened, it keeps 3 days in the fridge at 4 °C (40 °F) or below — a day longer than the meat and vegetable varieties, because fruit is acidic — and only if it has never been fed from directly.",
+  "pantry": "An unopened jar or pouch is commercially processed and shelf-stable to its use-by date; after that date, discard it rather than judging it by eye. No general pantry figure is given, because the date on the container is the manufacturer's statement about their own product. Store it somewhere cool and dark. Discard any jar whose vacuum button clicks when pressed, and any pouch that is swollen, leaking or damaged — a swollen pouch is gas from something growing inside it.",
+  "fridge": "3 days at 4 °C (40 °F) or below once opened, covered. Fruit purées get the longest of the opened baby food windows because their acidity holds bacteria back — but that is a margin, not permission to stretch it. The rule that matters more than the number is the spoon: never feed straight from the jar or pouch with a spoon that has been in the baby's mouth. Saliva carries bacteria and enzymes into what is left, and that remainder cannot be kept, however cold the fridge. Spoon a portion into a bowl, feed from the bowl, and throw away what is left in it.",
+  "freezer": "No freezer timeline is published for opened fruit purée. Commercial jars separate into water and pulp when frozen and thawed, which is unappetising rather than unsafe. Freezing your own fruit purées in an ice cube tray is a sensible practice, but nobody publishes a window for it, so label the tray, keep it short and use your judgement. Never refreeze a portion that has been thawed and warmed.",
+  "thawing": "Thaw a frozen home-made portion in the fridge, never on the counter, and serve it once. Stir well before feeding, and throw away anything left in the bowl.",
+  "spoilage": [
+   "A vacuum button that clicks when pressed, or a swollen or leaking pouch — discard without opening.",
+   "Fizzing, bubbling or an alcoholic smell, which means the purée has fermented.",
+   "A colour that has browned or darkened well beyond the original.",
+   "Any mould around the rim or under the lid."
+  ],
+  "tips": [
+   "Spoon a portion into a bowl; never feed from the jar with a used spoon.",
+   "Write the date and time on the jar when you open it.",
+   "Check the vacuum button before opening every new jar.",
+   "Never give honey to a baby under one year old, even stirred into fruit — it can carry the spores that cause infant botulism."
+  ],
+  "faq": [
+   {
+    "q": "How long does opened baby fruit purée keep?",
+    "a": "3 days in the fridge at 4 °C (40 °F) or below, covered, and only if it has never been fed from directly."
+   },
+   {
+    "q": "Why does fruit keep longer than baby dinners once opened?",
+    "a": "Fruit is acidic, which slows bacterial growth. Meat and vegetable dinners are low-acid mixed foods and get a shorter window."
+   },
+   {
+    "q": "Can you feed a baby straight from the pouch?",
+    "a": "Only if you intend to finish it in that feed. Once a used spoon or the baby's mouth has touched it, the remainder must be thrown away rather than kept."
+   }
+  ]
+ },
+ "zh": {
+  "name": "嬰兒水果泥",
+  "aliases": [
+   "寶寶果泥",
+   "嬰兒果泥",
+   "水果副食品",
+   "fruit purée"
+  ],
+  "summary": "未開封的嬰兒水果泥，過了罐子或軟袋上的有效日期就該丟掉。開封後放 4 °C 以下冷藏可放 3 天——比肉類和蔬菜口味多一天，因為水果是酸性的——而且前提是從來沒有直接從裡面餵過。",
+  "pantry": "未開封的玻璃罐或軟袋經過商業加工處理，在有效日期之前屬於常溫商品；過了日期就丟，不要用眼睛判斷。這裡不給通用的常溫數字，因為容器上的日期就是製造商對自家產品的說法。請放陰涼避光處。瓶蓋真空鈕按下去會響的、軟袋鼓脹滲漏破損的，全部丟掉——鼓脹的軟袋代表裡面有東西在長、在產氣。",
+  "fridge": "開封後蓋好放 4 °C 以下 3 天。在所有開封後的嬰兒副食品裡，水果泥的期限最長，因為它的酸度能壓住細菌——但那是餘裕，不是可以再往後拉的許可。比數字更重要的規則是湯匙：絕對不要用進過寶寶嘴巴的湯匙，直接從罐子或軟袋裡餵。口水會把細菌和酵素帶進剩下的部分，那一份不管冰箱多冷都不能再留。請舀一份到碗裡、從碗裡餵，碗裡剩下的丟掉。",
+  "freezer": "開封後的水果泥沒有公布的冷凍期限。市售罐裝冷凍再解凍會分離成水和果肉，那是難吃而不是不安全。自己打的果泥用製冰盒分格冷凍是合理的做法，但沒有人為它公布期限，所以請貼上日期、盡量縮短，並用自己的判斷。已經解凍加熱過的那一份，絕對不要再冷凍。",
+  "thawing": "自製的冷凍份量請放冷藏解凍，絕對不要放檯面，而且只回溫一次。餵之前確實攪拌均勻，碗裡剩下的一律丟掉。",
+  "spoilage": [
+   "真空鈕按下去會響，或軟袋鼓脹、滲漏——不要打開，直接丟。",
+   "冒泡、嘶嘶作響或有酒精味，那表示果泥已經發酵了。",
+   "顏色比原本明顯變褐、變深。",
+   "瓶口或蓋子內側出現霉。"
+  ],
+  "tips": [
+   "舀一份到碗裡；絕對不要用餵過的湯匙直接從罐子裡挖。",
+   "開封時在罐子上寫下日期和時間。",
+   "每一罐開封前都先檢查真空鈕。",
+   "未滿一歲的寶寶絕對不能吃蜂蜜，拌進果泥裡也不行——它可能帶有引起嬰兒肉毒桿菌中毒的孢子。"
+  ],
+  "faq": [
+   {
+    "q": "開封的嬰兒水果泥可以放多久？",
+    "a": "蓋好放 4 °C 以下冷藏 3 天，而且前提是從來沒有直接從裡面餵過。"
+   },
+   {
+    "q": "為什麼水果泥開封後比主餐泥耐放？",
+    "a": "水果是酸性的，能拖慢細菌生長。肉菜主餐是低酸的混合食品，期限比較短。"
+   },
+   {
+    "q": "可以直接拿軟袋餵寶寶嗎？",
+    "a": "只有在這一餐會吃完的情況下可以。只要餵過的湯匙或寶寶的嘴碰過，剩下的就必須丟掉，不能留。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "cinnamon-extract",
+ "en": {
+  "name": "Cinnamon extract",
+  "aliases": [
+   "cinnamon essence",
+   "cinnamon flavouring",
+   "肉桂精",
+   "肉桂香精"
+  ],
+  "summary": "Unopened cinnamon extract keeps 2 years in the pantry, and 12 months once opened. The alcohol base means nothing grows in it; what runs out is the aroma, and a bottle that no longer smells of cinnamon has nothing left to give.",
+  "pantry": "2 years unopened and 12 months after opening, in a cool dark cupboard with the cap tight. Cinnamon extract carries cinnamaldehyde, the compound responsible for the smell and for most of the warmth on the tongue, and it is both volatile and prone to oxidising — an old bottle darkens and the sharp top note dulls into something vaguely medicinal. Heat is what does the damage fastest, so keep the bottle out of the cupboard directly above the stove, and out of the light.",
+  "fridge": "No refrigerated timeline exists for cinnamon extract and refrigeration is not useful. Alcohol solutions are stable at room temperature, and a chilled bottle picks up condensation in the neck each time it comes out, which slowly waters it down. A dark cupboard is better in every respect.",
+  "freezer": "No freezer timeline exists, and freezing an alcohol-based extract achieves nothing — it will not freeze solid at domestic freezer temperatures, and the loss you want to prevent is evaporation through the cap. A tight cap and a cool dark shelf do the whole job.",
+  "thawing": null,
+  "spoilage": [
+   "Little or no cinnamon smell when the bottle is opened.",
+   "Liquid that has darkened noticeably, a sign of oxidation.",
+   "Cloudiness or sediment, usually from moisture getting in.",
+   "A flat, faintly medicinal taste in the finished baking."
+  ],
+  "tips": [
+   "Buy the smallest bottle that suits how often you bake.",
+   "Keep it away from the hob; heat ages an extract faster than time does.",
+   "Add it late, off the heat, so the aroma survives into the dish.",
+   "Ground cinnamon and cinnamon extract are not interchangeable in strength — the extract is far more concentrated."
+  ],
+  "faq": [
+   {
+    "q": "How long does cinnamon extract last?",
+    "a": "2 years unopened in the pantry, and 12 months after opening. It does not spoil microbially; the aroma fades."
+   },
+   {
+    "q": "Does cinnamon extract go bad?",
+    "a": "Not in a way that makes it unsafe. It darkens and loses its smell, and at that point it is simply not worth using."
+   },
+   {
+    "q": "Should cinnamon extract be refrigerated?",
+    "a": "No. It is an alcohol solution that is stable at room temperature, and a cold bottle collects condensation inside the neck."
+   }
+  ]
+ },
+ "zh": {
+  "name": "肉桂精",
+  "aliases": [
+   "肉桂香精",
+   "肉桂萃取液",
+   "桂皮精",
+   "cinnamon extract"
+  ],
+  "summary": "未開封的肉桂精放櫃子裡可放 2 年，開封後是 12 個月。酒精基底讓它長不出任何東西；先用完的是香氣，而一瓶已經聞不到肉桂味的，就沒什麼好留的了。",
+  "pantry": "未開封 2 年、開封後 12 個月，放陰涼避光的櫃子，瓶蓋轉緊。肉桂精裡的肉桂醛負責那股香氣，也負責舌尖上大半的溫暖感；它既容易揮發、又容易氧化——放久的瓶子顏色會變深，前段的銳利香氣鈍掉，只剩下一種說不上來的藥味。傷它最快的是熱，所以不要把瓶子放在爐火正上方的櫃子，也要避光。",
+  "fridge": "肉桂精沒有冷藏期限，冷藏也沒有用。酒精溶液在室溫下本來就穩定，而冰過的瓶子每次拿出來都會在瓶頸結露，慢慢把它稀釋掉。陰暗的櫃子在每一方面都更好。",
+  "freezer": "沒有冷凍期限，冷凍酒精類萃取液也達不到任何效果——家用冷凍溫度根本凍不硬它，而你想防的是從瓶蓋揮發掉的那部分。蓋緊、放陰涼避光處，這樣就夠了。",
+  "thawing": null,
+  "spoilage": [
+   "打開瓶子幾乎聞不到肉桂味。",
+   "液體顏色明顯變深，那是氧化的跡象。",
+   "出現混濁或沉澱，通常是水氣跑進去。",
+   "烤出來的成品味道扁平，還帶點藥味。"
+  ],
+  "tips": [
+   "依你烘焙的頻率買最小瓶的。",
+   "遠離爐火；熱讓萃取液老化的速度比時間還快。",
+   "離火之後再加，香氣才留得到成品裡。",
+   "肉桂粉和肉桂精的濃度完全不同，不能等量互換。"
+  ],
+  "faq": [
+   {
+    "q": "肉桂精可以放多久？",
+    "a": "未開封放櫃子 2 年，開封後 12 個月。它不會腐敗，只是香氣會褪掉。"
+   },
+   {
+    "q": "肉桂精會壞嗎？",
+    "a": "不會壞到不安全。它會變深、失去香味，到那個程度就只是不值得用了。"
+   },
+   {
+    "q": "肉桂精需要冷藏嗎？",
+    "a": "不用。它是室溫下就很穩定的酒精溶液，而冰過的瓶子還會在瓶頸內結露。"
+   }
+  ]
+ }
+}

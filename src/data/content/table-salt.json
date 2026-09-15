@@ -1,0 +1,84 @@
+{
+ "slug": "table-salt",
+ "en": {
+  "name": "Table salt",
+  "aliases": [
+   "salt",
+   "iodised salt",
+   "cooking salt",
+   "食鹽"
+  ],
+  "summary": "Table salt does not spoil, and no shelf life is given for it because there is no honest one to give. Kept closed in a dry cupboard it lasts indefinitely; UK labelling guidance lists cooking salt among the foods that need no date mark at all.",
+  "pantry": "A closed container in a dry cupboard, and that is the whole of it. Salt is what other foods are preserved with: dry salt holds essentially no water a microbe could use, which is why it has no timeline. Caking in humid weather is a nuisance rather than a fault — break it up, or keep a few grains of rice in the shaker. Store it away from the steam of the hob and the sink, and prefer an opaque, tightly closed container, because the iodine in iodised salt does slowly fade with heat, light and moisture. A box opened years ago is best treated as plain salt rather than as a source of iodine.",
+  "fridge": "Never. The fridge is a humid place and salt's only real enemy is moisture: a cold container pulls condensation every time it is opened, and you end up with a solid block. There is no food-safety reason to refrigerate salt of any kind, including seasoned or flavoured salts, unless the flavouring itself is a fresh ingredient.",
+  "freezer": "No freezer timeline exists, and freezing salt is pointless. It cannot extend the life of something that does not spoil, and the condensation on a cold container is the one thing that genuinely damages salt.",
+  "thawing": null,
+  "spoilage": [
+   "Salt does not go off; there is no spoilage to look for.",
+   "Hard caking, which means damp got in — a quality nuisance, not a safety problem.",
+   "Grey or rusty specks, usually from a metal container or lid rather than from the salt.",
+   "Any actual contamination — something else in the box — means throwing it out."
+  ],
+  "tips": [
+   "Keep the box away from the steam of the kettle, the hob and the sink.",
+   "A few grains of rice in the shaker absorb enough damp to stop it clogging.",
+   "Use an opaque, tightly closed container if you rely on the iodine.",
+   "Decant a small amount into a working pot and keep the main box sealed."
+  ],
+  "faq": [
+   {
+    "q": "Does table salt expire?",
+    "a": "No. Salt does not spoil, and it is among the foods that need no date mark. A closed container in a dry cupboard keeps indefinitely."
+   },
+   {
+    "q": "Why has my salt gone hard?",
+    "a": "It has taken on moisture from the air. Break it up with a fork or a dry spoon — it is perfectly usable, just inconvenient."
+   },
+   {
+    "q": "Does iodised salt lose its iodine?",
+    "a": "The added iodine does fade slowly with heat, light and moisture. An opaque, tightly closed container slows it; a box opened years ago is best treated as plain salt."
+   }
+  ]
+ },
+ "zh": {
+  "name": "食鹽",
+  "aliases": [
+   "鹽巴",
+   "精鹽",
+   "加碘鹽",
+   "食用鹽",
+   "海鹽"
+  ],
+  "summary": "食鹽不會壞，這裡不給保存期限，因為根本沒有一個誠實的數字可以給。蓋好放在乾燥的櫃子裡就能無限期保存；英國的標示規範甚至把食鹽列為不必標示有效日期的食品之一。",
+  "pantry": "蓋好、放乾燥的櫃子，如此而已。鹽本來就是拿來醃漬保存別的食物的東西：乾燥的鹽幾乎不含微生物用得上的水分，所以它沒有期限可言。潮濕天氣結塊只是麻煩，不是壞掉——壓散就好，或在鹽罐裡放幾粒白米。請放得離爐火和水槽的蒸氣遠一點，並且用不透光、蓋得緊的容器，因為加碘鹽裡的碘確實會因為熱、光和濕氣慢慢流失。一盒開了好幾年的碘鹽，當成普通鹽來看比較實際。",
+  "fridge": "不要。冰箱是潮濕的地方，而鹽唯一真正的敵人就是水氣：冰過的容器每開一次就結一次露，最後整罐變成一塊硬磚。任何鹽都沒有冷藏的食安理由，調味鹽、風味鹽也一樣，除非裡面拌的是新鮮食材本身。",
+  "freezer": "沒有冷凍期限，冷凍鹽也沒有意義。它無法延長一個本來就不會壞的東西，而冰冷容器上的結露，剛好是真正會傷到鹽的那件事。",
+  "thawing": null,
+  "spoilage": [
+   "鹽不會腐敗，沒有所謂的腐敗徵兆可看。",
+   "結成硬塊代表受潮了——那是品質上的麻煩，不是安全問題。",
+   "出現灰色或鏽色斑點，通常來自金屬容器或蓋子，而不是鹽本身。",
+   "真正混入了別的東西（異物、蟲），那就整盒丟掉。"
+  ],
+  "tips": [
+   "鹽盒放得離熱水壺、爐火和水槽的蒸氣遠一點。",
+   "鹽罐裡丟幾粒白米，吸掉的濕氣足以讓它不結塊。",
+   "如果是為了碘而吃碘鹽，就用不透光、蓋得緊的容器。",
+   "分出一小罐日常使用，主要那包保持密封。"
+  ],
+  "faq": [
+   {
+    "q": "食鹽會過期嗎？",
+    "a": "不會。鹽不會腐敗，也屬於不必標示有效日期的食品。蓋好放乾燥櫃子可以無限期保存。"
+   },
+   {
+    "q": "鹽結成硬塊還能用嗎？",
+    "a": "能。那是吸了空氣中的濕氣，用叉子或乾湯匙壓散就好，完全可以用，只是麻煩。"
+   },
+   {
+    "q": "加碘鹽的碘會不見嗎？",
+    "a": "會慢慢因熱、光和濕氣流失。不透光又蓋得緊的容器可以拖慢它；開了好幾年的那盒，就當普通鹽用吧。"
+   }
+  ]
+ }
+}

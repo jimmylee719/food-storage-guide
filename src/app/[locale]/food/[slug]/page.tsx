@@ -201,6 +201,13 @@ export default async function FoodPage({ params }: { params: Promise<{ locale: s
             </li>
           ))}
         </ul>
+        {food.correction ? (
+          <div className="correction-note">
+            <p><strong>{d.correctionNote}</strong></p>
+            <p>{food.correction.reason[l] ?? food.correction.reason.en}</p>
+            <p>{food.correction.evidence[l] ?? food.correction.evidence.en}</p>
+          </div>
+        ) : null}
         {food.derivedFrom ? <p className="footer-note">{d.groupedWith(food.derivedFromName ?? food.derivedFrom)}</p> : null}
         {/* groupedWith ignores the argument in locales whose sentence cannot
             carry an English record name. */}

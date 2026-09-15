@@ -1,0 +1,83 @@
+{
+ "slug": "frozen-entrees-prepared-meals",
+ "en": {
+  "name": "Frozen entrées and prepared meals",
+  "aliases": [
+   "ready meals",
+   "TV dinners",
+   "frozen dinners",
+   "冷凍調理食品"
+  ],
+  "summary": "Frozen entrées keep 12 months from purchase at −18 °C (0 °F). Keep them frozen and cook as directed — the heating instructions on the sleeve are a safety instruction, not a suggestion. Refrigerating one after cooking is not recommended because the quality drops badly.",
+  "pantry": "No room-temperature storage at all. A frozen meal is a mixed low-acid food — meat or sauce, starch, vegetables — and once it warms it is squarely in the danger zone of 4–60 °C (40–140 °F). Get it from the shop into the freezer without a long detour, and do not leave a tray out to soften before cooking. The two-hour rule applies to anything sitting out, one hour above 32 °C (90 °F).",
+  "fridge": "Refrigerating a cooked entrée is not recommended, because the quality drops so much: the sauce splits, the starch goes claggy and the vegetables collapse. No refrigerated timeline is given for that reason. Nor should you thaw one in the fridge and leave it there — these meals are designed to be heated from frozen, and heating from frozen is what the stated cooking time assumes. Cook what you will eat and heat it right through, to steaming hot all the way to the middle, stirring halfway if the instructions say so.",
+  "freezer": "12 months from purchase at −18 °C (0 °F) for best quality. That is a quality window, not a safety limit — a meal held continuously at −18 °C stays safe indefinitely. What runs out is the eating: ice crystals form inside the sauce, the surface dries into freezer burn, and the whole thing starts tasting of the freezer. Keep the tray flat, keep it away from the door where it part-thaws every time the door opens, and do not buy a pack that is already welded into a solid lump or heavy with ice.",
+  "thawing": "Do not thaw — cook from frozen, exactly as the sleeve says. A meal that has thawed in the fridge and is still at or below 4 °C (40 °F) may be refrozen with some quality loss; one thawed on the counter or in warm water must not be refrozen and should be cooked immediately or discarded.",
+  "spoilage": [
+   "Heavy ice inside the pack or a tray welded solid, meaning it part-thawed and refroze.",
+   "Dry, grey, leathery patches on the meat or the surface — freezer burn.",
+   "A stale, cardboardy or freezer smell after heating.",
+   "A torn sleeve or pierced film, which lets air in and dries the food out."
+  ],
+  "tips": [
+   "Buy frozen meals last and get them home fast.",
+   "Check the pack is not iced up or solid — that means the cold chain broke.",
+   "Cook from frozen and heat right through to the centre.",
+   "Keep them flat and away from the freezer door."
+  ],
+  "faq": [
+   {
+    "q": "How long do frozen ready meals last?",
+    "a": "12 months from purchase at −18 °C (0 °F) for best quality. Kept continuously frozen they stay safe beyond that, but they dry out and taste of the freezer."
+   },
+   {
+    "q": "Can you refrigerate a frozen meal after cooking it?",
+    "a": "It is not recommended, because the quality drops sharply — the sauce splits and the starch goes claggy. Cook only what you will eat."
+   },
+   {
+    "q": "Do you have to thaw a frozen entrée first?",
+    "a": "No. Cook it from frozen as the pack directs; the stated cooking time assumes it goes in frozen."
+   }
+  ]
+ },
+ "zh": {
+  "name": "冷凍調理食品",
+  "aliases": [
+   "冷凍微波餐",
+   "冷凍便當",
+   "即食冷凍餐",
+   "frozen entree"
+  ],
+  "summary": "冷凍調理餐在 −18 °C 下自購買日起可放 12 個月。請保持冷凍，並依包裝指示加熱——外盒上的加熱說明是安全指示，不是建議。煮好之後不建議改放冷藏，因為品質會掉得很嚴重。",
+  "pantry": "完全沒有室溫保存這一項。冷凍餐是混合的低酸食品——肉或醬汁、澱粉、蔬菜——一旦回溫就正好落在 4～60 °C 的危險溫度帶裡。從店裡買回來請直接進冷凍，不要中途繞太久，也不要為了好加熱先把整盒放在外面回軟。任何擺在外面的食物都適用兩小時原則，超過 32 °C 只有一小時。",
+  "fridge": "煮好的冷凍餐不建議改放冷藏，因為品質掉得太厲害：醬汁會油水分離、澱粉變糊、蔬菜整個塌掉。這裡不給冷藏期限，原因就在這裡。也不要把它放冷藏解凍然後一直擺著——這類餐點就是設計成從冷凍直接加熱的，包裝上標示的加熱時間也是以「從冷凍開始」為前提。要吃多少煮多少，而且要加熱到中心都冒熱氣為止；說明要求中途攪拌的話就攪。",
+  "freezer": "−18 °C 下自購買日起 12 個月品質最好。那是品質期限而不是安全上限——全程維持在 −18 °C 的餐點可以無限期保持安全。先用完的是「好吃」這件事：醬汁裡會長出冰晶，表面會乾成凍燒，整盒開始有一股冷凍櫃的味道。請平放、遠離冷凍櫃門（門邊每開一次就半退冰一次），也不要買已經結成硬塊或包裝內結滿冰的。",
+  "thawing": "不要解凍——照包裝說明從冷凍直接加熱。如果整盒是在冷藏解凍、而且始終維持在 4 °C 以下，可以再冷凍，只是品質會打折；在檯面上或溫水裡解凍過的絕對不能再冷凍，要馬上煮掉或丟掉。",
+  "spoilage": [
+   "包裝內結了厚冰，或整盒凍成硬塊，表示它曾經半退冰又再凍回去。",
+   "肉或表面出現乾硬、發灰、像皮革的斑塊——那是凍燒。",
+   "加熱後吃起來走味、有紙板味或冷凍櫃的味道。",
+   "外盒破損或封膜被戳破，空氣跑進去，食物就會變乾。"
+  ],
+  "tips": [
+   "冷凍品最後才拿，然後盡快回家。",
+   "檢查包裝有沒有結冰或整盒變硬——那代表冷鏈斷過。",
+   "從冷凍直接加熱，而且要熱到中心。",
+   "平放，並且遠離冷凍櫃門。"
+  ],
+  "faq": [
+   {
+    "q": "冷凍調理餐可以放多久？",
+    "a": "−18 °C 下自購買日起 12 個月品質最好。只要全程沒退冰就一直安全，但會變乾、帶冷凍櫃味。"
+   },
+   {
+    "q": "冷凍餐煮好之後可以改放冷藏嗎？",
+    "a": "不建議，因為品質會掉得很快——醬汁分離、澱粉變糊。要吃多少煮多少。"
+   },
+   {
+    "q": "冷凍餐要先退冰嗎？",
+    "a": "不用。照包裝指示從冷凍直接加熱；標示的加熱時間本來就假設它是冷凍下鍋的。"
+   }
+  ]
+ }
+}

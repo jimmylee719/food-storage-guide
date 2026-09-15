@@ -98,6 +98,8 @@ async function main() {
     // written in English, so they are where a leak shows up first.
     '/food/abalone', '/food/daikon', '/food/pacific-saury', '/food/cheddar-cheese',
     '/food/youtiao', '/food/summer-squash', '/food/liver', '/food/chayote-shoots',
+    // Carries a correction note, which is prose and must be localised.
+    '/food/bread-homemade',
     '/guides/how-to-freeze-food',
   ];
   const locales = ['zh'];

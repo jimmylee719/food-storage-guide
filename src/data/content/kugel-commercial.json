@@ -1,0 +1,83 @@
+{
+ "slug": "kugel-commercial",
+ "en": {
+  "name": "Kugel, commercial frozen",
+  "aliases": [
+   "noodle kugel",
+   "potato kugel",
+   "lokshen kugel",
+   "猶太烤布丁"
+  ],
+  "summary": "Commercial frozen kugel keeps 1 year at −18 °C (0 °F) for best quality. Kept continuously frozen it stays safe well beyond that — the window describes drying, ice crystals and freezer burn. Bake it from frozen as the pack directs.",
+  "pantry": "No room-temperature storage. A kugel is a baked pudding of noodles or grated potato bound with egg and fat — a moist, low-acid, high-protein dish, and exactly the kind of food the danger zone of 4–60 °C (40–140 °F) describes. Do not leave a tray out to thaw before baking, and do not leave a baked kugel standing on the counter after a meal: the two-hour rule applies, one hour if the kitchen is above 32 °C (90 °F).",
+  "fridge": "No refrigerated timeline is published for frozen kugel, and you should not thaw one in the fridge to bake later — the pack instructions assume it goes into the oven frozen, and a thawed kugel bakes wet and dense. A kugel you have already baked is simply a cooked dish: cool it quickly, cover it, keep it at 4 °C (40 °F) or below, and eat it within a few days, reheating portions right through to steaming hot rather than warming the whole tray repeatedly.",
+  "freezer": "1 year at −18 °C (0 °F) for best quality. Kept continuously at −18 °C it stays safe indefinitely; what runs out is the eating. Egg-and-dairy custard of the kind that binds a kugel separates as ice crystals form, so a long-kept one can bake slightly grainy, and the exposed top dries into freezer burn if the wrapping has torn. Keep the tray flat, keep the foil or film intact, and keep it away from the freezer door where it part-thaws each time the door opens.",
+  "thawing": "Do not thaw. Bake from frozen exactly as the pack directs, covered at first so the top does not brown before the middle is hot. A kugel that has thawed in the fridge and is still at or below 4 °C (40 °F) may be refrozen with some quality loss; one thawed on the counter should be baked immediately or discarded.",
+  "spoilage": [
+   "Heavy ice inside the wrapping, meaning it part-thawed and refroze.",
+   "Dry, grey or leathery patches on the surface — freezer burn.",
+   "A stale or freezer smell that survives baking.",
+   "A sour smell or watery separation from a baked kugel kept too long in the fridge."
+  ],
+  "tips": [
+   "Bake from frozen; a thawed kugel turns out wet and dense.",
+   "Cover it for the first part of baking so the centre heats before the top browns.",
+   "Keep the wrapping intact — a torn cover is what causes freezer burn.",
+   "Reheat individual portions rather than the whole tray again and again."
+  ],
+  "faq": [
+   {
+    "q": "How long does frozen kugel last?",
+    "a": "1 year at −18 °C (0 °F) for best quality. Kept continuously frozen it stays safe beyond that, but it dries and freezer-burns."
+   },
+   {
+    "q": "Should you thaw kugel before baking?",
+    "a": "No. Bake it from frozen as the pack directs; a thawed one bakes wet and dense."
+   },
+   {
+    "q": "Can you freeze a kugel you baked yourself?",
+    "a": "Yes. Cool it completely, wrap it well and freeze it; reheat covered. Expect the egg custard to be slightly grainier than it was fresh."
+   }
+  ]
+ },
+ "zh": {
+  "name": "冷凍猶太烤布丁",
+  "aliases": [
+   "kugel",
+   "麵條烤布丁",
+   "馬鈴薯烤布丁",
+   "猶太焗烤"
+  ],
+  "summary": "市售冷凍 kugel 在 −18 °C 下可保有最佳品質 1 年。只要全程沒退冰，超過這段時間仍然安全——這個期限描述的是變乾、冰晶和凍燒。請依包裝指示從冷凍直接烘烤。",
+  "pantry": "沒有室溫保存這一項。kugel 是用蛋和油脂把麵條或馬鈴薯絲黏起來烘烤的布丁——含水量高、低酸、又高蛋白，正是危險溫度帶 4～60 °C 在描述的那種食物。不要為了好烤先把整盤放外面退冰，吃完也不要讓烤好的 kugel 一直擺在檯面上：適用兩小時原則，廚房超過 32 °C 時只有一小時。",
+  "fridge": "冷凍 kugel 沒有公布的冷藏期限，而且也不該為了之後要烤而先放冷藏解凍——包裝說明本來就假設它是冷凍進烤箱的，解凍過的烤起來又濕又密。已經烤好的 kugel 就只是一道熟食：快速降溫、蓋好、放 4 °C 以下，並在幾天內吃完；回熱請一份一份加熱到中心冒熱氣，而不是整盤反覆進出烤箱。",
+  "freezer": "−18 °C 下 1 年品質最好。全程維持在 −18 °C 就一直是安全的；先用完的是「好吃」這件事。把 kugel 黏起來的那種蛋奶糊會隨著冰晶形成而分離，所以放久的烤出來口感會有點粗；包裝一旦破損，露出來的表面也會乾成凍燒。請平放、保持鋁箔或保鮮膜完整，並遠離冷凍櫃門，那裡每開一次門就半退冰一次。",
+  "thawing": "不要解凍。照包裝指示從冷凍直接烤，前半段先蓋著，免得表面先上色而中心還沒熱。在冷藏解凍、且維持在 4 °C 以下的可以再冷凍，只是品質打折；在檯面上解凍過的請馬上烤掉或丟掉。",
+  "spoilage": [
+   "包裝內結了厚冰，表示曾經半退冰又再凍。",
+   "表面出現乾硬、發灰、像皮革的斑塊——那是凍燒。",
+   "烤完之後還聞得到走味或冷凍櫃的味道。",
+   "冷藏放太久的烤好 kugel 聞起來發酸，或出水分離。"
+  ],
+  "tips": [
+   "從冷凍直接烤；解凍過的會又濕又密。",
+   "前半段蓋著烤，讓中心先熱起來、表面才上色。",
+   "保持包裝完整——破掉的封膜就是凍燒的來源。",
+   "回熱一份一份來，不要整盤反覆加熱。"
+  ],
+  "faq": [
+   {
+    "q": "冷凍 kugel 可以放多久？",
+    "a": "−18 °C 下 1 年品質最好。只要沒退冰放更久仍然安全，但會變乾、凍燒。"
+   },
+   {
+    "q": "kugel 要先退冰再烤嗎？",
+    "a": "不用。照包裝指示從冷凍直接烤；解凍過的會又濕又密。"
+   },
+   {
+    "q": "自己烤的 kugel 可以冷凍嗎？",
+    "a": "可以。完全放涼、包好冷凍，回熱時蓋著加熱。蛋奶糊的口感會比剛烤好時略粗一些。"
+   }
+  ]
+ }
+}

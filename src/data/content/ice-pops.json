@@ -1,0 +1,83 @@
+{
+ "slug": "ice-pops",
+ "en": {
+  "name": "Ice pops",
+  "aliases": [
+   "ice lollies",
+   "popsicles",
+   "freezer pops",
+   "冰棒"
+  ],
+  "summary": "Ice pops keep 9 months from purchase at −18 °C (0 °F) for best quality. Kept continuously frozen they stay safe well beyond that — what runs out is quality, as the water sublimes away and leaves a shrunken, cloudy, icy lolly.",
+  "pantry": "No room-temperature storage, for the obvious reason. A water-ice pop that has melted is a sugar syrup rather than a dairy food, so it is not the pathogen risk a melted ice cream is, but refreezing it gives you a solid block of ice with all the flavour concentrated in the bottom. Cream- or milk-based pops are a different matter and must not be refrozen once melted. Sealed, unopened tube pops — the kind you freeze yourself — are shelf-stable until you open them, and follow their printed date.",
+  "fridge": "No refrigerated timeline is given for ice pops, and the fridge is not where they live. A pop in the fridge is a pop that is melting, and there is no reason to put one there. If you buy the liquid tube kind that is sold unfrozen, the fridge is fine as a staging post before it goes into the freezer, but the product is designed to be frozen hard before eating.",
+  "freezer": "9 months from purchase at −18 °C (0 °F) for best quality. Kept continuously at −18 °C they stay safe indefinitely. What degrades is texture and appearance: water slowly sublimes out of an unwrapped or badly wrapped pop, leaving it shrunken and frosted, and every temperature swing pulls colour and sugar downwards so the top ends up pale and icy. Keep them in their wrappers in a sealed box at the back of the freezer, not in the door, and away from anything strongly smelling — ice absorbs freezer odours readily.",
+  "thawing": "Do not thaw. Eat them frozen hard. A melted water-ice can be refrozen but will be an unpleasant block of ice; a melted cream or milk pop should be thrown away rather than refrozen.",
+  "spoilage": [
+   "A shrunken, frosted pop that has pulled away from its wrapper.",
+   "Colour and sweetness collected at one end, with a pale icy top.",
+   "A smell or taste of other freezer food, which ice takes up readily.",
+   "A torn wrapper, which is what lets both the moisture out and the odours in."
+  ],
+  "tips": [
+   "Keep them boxed at the back of the freezer, not in the door.",
+   "Leave the wrappers on — an unwrapped pop sublimes and shrinks.",
+   "Keep them well away from strongly smelling food.",
+   "Homemade pops keep best filled to the top with no air gap."
+  ],
+  "faq": [
+   {
+    "q": "How long do ice pops last?",
+    "a": "9 months from purchase at −18 °C (0 °F) for best quality. Kept continuously frozen they stay safe beyond that, but they shrink and go icy."
+   },
+   {
+    "q": "Can you refreeze a melted ice pop?",
+    "a": "A water-ice can be refrozen, but it turns into a solid block with the flavour at one end. A cream or milk pop that has melted should be thrown away."
+   },
+   {
+    "q": "Why do my ice pops taste of the freezer?",
+    "a": "Ice takes up odours easily. Keep them wrapped, in a sealed box, away from strongly smelling food."
+   }
+  ]
+ },
+ "zh": {
+  "name": "冰棒",
+  "aliases": [
+   "冰棍",
+   "枝仔冰",
+   "冰條",
+   "ice pop"
+  ],
+  "summary": "冰棒在 −18 °C 下自購買日起可保有最佳品質 9 個月。只要全程沒退冰，超過這段時間仍然安全——先用完的是品質：水分會慢慢昇華掉，留下一支縮水、霧霧的、口感很冰碴的棒冰。",
+  "pantry": "沒有室溫保存這一項，理由很明顯。水系冰棒融化之後只是糖水，不像融化的冰淇淋那樣是病原菌風險；但再凍回去，你會得到一塊實心的冰，而且味道全部集中在底部。乳系或牛奶系的冰棒就不同了，融過之後絕對不能再冷凍。那種未拆封、要自己冷凍的液態條狀冰棒，在拆封前屬於常溫商品，請依包裝上的印製日期。",
+  "fridge": "冰棒沒有給冷藏期限，冷藏也不是它待的地方。放在冷藏的冰棒，就只是一支正在融化的冰棒，沒有任何理由把它放那裡。如果你買的是未冷凍販售的液態條狀冰棒，放冷藏當作進冷凍前的中繼站沒問題，但這個產品本來就是要凍硬了才吃的。",
+  "freezer": "−18 °C 下自購買日起 9 個月品質最好。全程維持在 −18 °C 就一直是安全的。會退步的是口感和外觀：沒包好的冰棒，水分會慢慢昇華跑掉，變得縮水又結霜；而每一次溫度波動都會把顏色和糖往下拉，最後頂端變得又白又冰碴。請連著包裝裝進密封盒，放在冷凍櫃深處而不是門邊，並且遠離氣味重的東西——冰非常會吸味道。",
+  "thawing": "不要解凍，凍硬了直接吃。融化的水系冰棒可以再凍，但會變成一塊難吃的冰；融化的乳系或牛奶冰棒請丟掉，不要再凍。",
+  "spoilage": [
+   "整支縮水、結霜，而且從包裝上脫開。",
+   "顏色和甜味都沉到一端，頂端又白又冰碴。",
+   "吃得到或聞得到冷凍櫃裡其他食物的味道——冰很會吸味。",
+   "包裝破損，那既讓水分跑掉、也讓味道跑進來。"
+  ],
+  "tips": [
+   "裝盒放冷凍櫃深處，不要放門邊。",
+   "包裝不要拆——裸露的冰棒會昇華縮水。",
+   "遠離氣味重的食物。",
+   "自己做的冰棒裝到滿、不留空氣，保存效果最好。"
+  ],
+  "faq": [
+   {
+    "q": "冰棒可以放多久？",
+    "a": "−18 °C 下自購買日起 9 個月品質最好。只要沒退冰放更久仍然安全，但會縮水、口感變冰碴。"
+   },
+   {
+    "q": "融化的冰棒可以再冷凍嗎？",
+    "a": "水系的可以，但會變成一塊味道集中在一端的實心冰。乳系或牛奶系融化過的請丟掉。"
+   },
+   {
+    "q": "冰棒為什麼有冷凍庫的味道？",
+    "a": "冰很容易吸附氣味。請連著包裝裝進密封盒，並遠離氣味重的食物。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "injera",
+ "en": {
+  "name": "Injera",
+  "aliases": [
+   "enjera",
+   "taita",
+   "teff flatbread",
+   "衣索比亞發酵薄餅"
+  ],
+  "summary": "Injera keeps 1–2 days at room temperature, 4–5 days in the fridge at 4 °C (40 °F) or below, and 3–5 months at −18 °C (0 °F). No agency publishes a timeline for injera, so every figure here is read across from homemade bread and commercial flatbreads and should be treated as guidance.",
+  "pantry": "1–2 days, wrapped so the stack does not dry into a crisp. Injera is a wet, spongy, live-fermented bread — far closer to a pancake than to a loaf — and in a warm kitchen it grows surface mould quickly. The room-temperature figure here is much shorter than the published one for a homemade loaf it derives from, precisely because injera holds so much more water. Eat it within a day or two, and do not leave a covered stack out overnight in humid weather.",
+  "fridge": "4–5 days at 4 °C (40 °F) or below, wrapped airtight. The cold stiffens the sheets, so do not expect to serve a chilled injera as a fresh one: steam it briefly to bring the flexibility back, or tear it into firfir, which is exactly what day-old injera is for. Refrigeration stales any bread faster than the counter does, but for injera the thing you are buying time against is mould, and that trade is clearly worth making.",
+  "freezer": "3–5 months at −18 °C (0 °F) for best quality, a figure borrowed from commercial flatbreads. Freeze the sheets flat, interleaved with baking paper so they peel apart, in a bag with the air pressed out. Kept continuously frozen they stay safe beyond that window; the timeline is about drying, ice crystals and freezer burn rather than safety. Thaw at room temperature and warm briefly before serving.",
+  "thawing": "Thaw a wrapped stack at room temperature for a short while, or in the fridge, then steam briefly. Do not leave it out all afternoon; it is a moist, low-acid bread once it has warmed through.",
+  "spoilage": [
+   "Fuzzy mould spots on the surface or between the sheets.",
+   "A smell that has gone from pleasantly sour to sharply rotten or alcoholic.",
+   "Slime on the surface or sheets that will not separate.",
+   "Sheets dried hard and cracking at the edges rather than folding."
+  ],
+  "tips": [
+   "Wrap the stack — drying out is what happens before mould does.",
+   "Interleave with paper before freezing so single sheets come away cleanly.",
+   "Day-old injera is the correct ingredient for firfir; it is not a failure.",
+   "The teff batter itself is a multi-day ferment before baking and is a different thing from the baked sheets."
+  ],
+  "faq": [
+   {
+    "q": "How long does injera last?",
+    "a": "1–2 days at room temperature, 4–5 days refrigerated at 4 °C (40 °F) or below, or 3–5 months frozen at −18 °C (0 °F)."
+   },
+   {
+    "q": "Can you freeze injera?",
+    "a": "Yes, 3–5 months at −18 °C (0 °F). Freeze the sheets flat with paper between them and thaw at room temperature."
+   },
+   {
+    "q": "Why does refrigerated injera go stiff?",
+    "a": "Cold speeds up the starch recrystallising that makes any bread firm. Steaming it briefly softens it again, or tear it up for firfir."
+   }
+  ]
+ },
+ "zh": {
+  "name": "衣索比亞發酵薄餅",
+  "aliases": [
+   "因傑拉",
+   "苔麩薄餅",
+   "英吉拉",
+   "injera"
+  ],
+  "summary": "因傑拉放室溫可放 1～2 天，4 °C 以下冷藏 4～5 天，−18 °C 冷凍 3～5 個月。沒有機關為因傑拉公布期限，所以這裡每一個數字都是比照自製麵包與市售薄餅讀過來的，請當成參考。",
+  "pantry": "1～2 天，要包好，免得整疊乾成脆片。因傑拉是濕潤、海綿狀、活菌發酵的餅——比起吐司，它更接近一張鬆餅——在溫暖的廚房裡表面很快就會長霉。這裡的室溫數字比它借來的自製麵包數字短得多，正是因為它含水量高出太多。請在一兩天內吃完，潮濕天氣下也不要把蓋著的一疊擺在外面過夜。",
+  "fridge": "密封包好，4 °C 以下 4～5 天。低溫會讓餅變硬，所以別指望冰過的因傑拉還能當新鮮的上桌：稍微蒸一下讓它回軟，或者撕碎做成 firfir，那本來就是隔夜因傑拉的正確去處。冷藏會讓任何麵包老化得比室溫快，但對因傑拉來說，你要爭取的是對抗霉的時間，這個交換明顯划算。",
+  "freezer": "−18 °C 下 3～5 個月品質最好，這個數字借自市售薄餅。整張平放、中間夾烘焙紙才撕得開，裝袋前把空氣壓掉。只要全程沒退冰，超過這個期限仍然安全；期限講的是變乾、冰晶和凍燒，不是安全。要吃時在室溫解凍，上桌前稍微加熱。",
+  "thawing": "整疊包好在室溫放一下解凍，或放冷藏解凍，然後稍微蒸過。不要整個下午擺在外面；回溫之後它就是一塊濕潤低酸的餅。",
+  "spoilage": [
+   "表面或夾層之間長出絨毛狀霉點。",
+   "氣味從舒服的微酸變成刺鼻的腐味或酒精味。",
+   "表面發黏，或整疊撕不開。",
+   "乾到發硬、邊緣一折就裂。"
+  ],
+  "tips": [
+   "整疊要包好——在長霉之前，先發生的通常是乾掉。",
+   "冷凍前夾紙，之後才能乾淨地取出單張。",
+   "隔夜的因傑拉是做 firfir 的正確材料，不是失敗品。",
+   "苔麩麵糊本身要發酵好幾天才拿去烤，那和烤好的餅是兩回事。"
+  ],
+  "faq": [
+   {
+    "q": "因傑拉可以放多久？",
+    "a": "室溫 1～2 天，4 °C 以下冷藏 4～5 天，或 −18 °C 冷凍 3～5 個月。"
+   },
+   {
+    "q": "因傑拉可以冷凍嗎？",
+    "a": "可以，−18 °C 下 3～5 個月。整張夾紙平放冷凍，要吃時在室溫解凍。"
+   },
+   {
+    "q": "冰過的因傑拉為什麼會變硬？",
+    "a": "低溫會加速讓麵包變硬的澱粉再結晶。稍微蒸一下就會回軟，或者撕碎做 firfir。"
+   }
+  ]
+ }
+}

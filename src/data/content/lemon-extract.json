@@ -1,0 +1,83 @@
+{
+ "slug": "lemon-extract",
+ "en": {
+  "name": "Lemon extract",
+  "aliases": [
+   "lemon essence",
+   "lemon flavouring",
+   "檸檬精",
+   "檸檬香精"
+  ],
+  "summary": "Unopened lemon extract keeps 2 years in the pantry, and 12 months once opened. It is an alcohol solution and does not spoil microbially — what fades is the citrus aroma, which is the most fragile of all the common extracts.",
+  "pantry": "2 years unopened and 12 months after opening, in a cool dark cupboard with the cap screwed tight. Lemon extract is carried by limonene and the other citrus oils, and these are the most volatile and the most easily oxidised compounds in the extract cupboard: an old bottle smells not of lemon but of turpentine or pine, which is what oxidised limonene actually smells like. Light and heat drive that reaction, so a dark cupboard away from the hob is doing real work here, more so than for almond or vanilla.",
+  "fridge": "No refrigerated timeline exists, and refrigeration is not useful. The alcohol base is stable at room temperature, and a bottle that is repeatedly chilled and brought out collects condensation inside the neck, which dilutes it. If your kitchen is genuinely hot all summer, the coolest cupboard in the house is a better answer than the fridge.",
+  "freezer": "No freezer timeline exists and freezing serves no purpose. An alcohol solution will not freeze solid at domestic freezer temperatures, and the loss you are fighting is evaporation and oxidation through a loose cap, which the freezer does nothing about.",
+  "thawing": null,
+  "spoilage": [
+   "A turpentine or pine smell instead of a clean citrus one — oxidised citrus oil.",
+   "Liquid gone yellow-brown or noticeably darker.",
+   "Cloudiness or sediment, usually from moisture getting in.",
+   "A bitter or resinous taste in the finished baking."
+  ],
+  "tips": [
+   "Buy small; lemon extract fades faster than almond or vanilla.",
+   "Keep it in the darkest, coolest cupboard you have.",
+   "Fresh zest beats an old bottle every time for anything uncooked.",
+   "Add it off the heat so the citrus oils are not driven straight off."
+  ],
+  "faq": [
+   {
+    "q": "How long does lemon extract last?",
+    "a": "2 years unopened in the pantry, and 12 months after opening. It does not spoil microbially; the citrus aroma fades."
+   },
+   {
+    "q": "Why does my lemon extract smell like turpentine?",
+    "a": "The citrus oils have oxidised. That pine or turpentine note is what limonene smells like once it has gone, and the bottle is finished."
+   },
+   {
+    "q": "Should lemon extract be refrigerated?",
+    "a": "No. It is stable at room temperature, and a cold bottle takes up condensation inside the neck. A dark, cool cupboard is better."
+   }
+  ]
+ },
+ "zh": {
+  "name": "檸檬精",
+  "aliases": [
+   "檸檬香精",
+   "檸檬萃取液",
+   "檸檬油精",
+   "lemon extract"
+  ],
+  "summary": "未開封的檸檬精放櫃子裡可放 2 年，開封後是 12 個月。它是酒精溶液，微生物層面不會壞——會褪掉的是柑橘香氣，而那是所有常見萃取液裡最脆弱的一種。",
+  "pantry": "未開封 2 年、開封後 12 個月，放陰涼避光的櫃子，瓶蓋轉緊。檸檬精靠的是檸檬烯和其他柑橘精油，而這些是整個香精櫃裡最易揮發、也最容易氧化的成分：一瓶放久的檸檬精聞起來不是檸檬，而是松節油或松木味——那正是氧化後的檸檬烯真正的氣味。光和熱會推動這個反應，所以「陰暗、遠離爐火」這件事在這裡是真的有作用的，比對杏仁精或香草精更重要。",
+  "fridge": "沒有冷藏期限，冷藏也沒有用。酒精基底在室溫下就很穩定，而一瓶反覆冰進冰出的檸檬精會在瓶頸內結露，把自己稀釋掉。如果你的廚房整個夏天都很熱，那就找家裡最涼的那個櫃子，那比冰箱好。",
+  "freezer": "沒有冷凍期限，冷凍也沒有意義。酒精溶液在家用冷凍溫度下凍不硬，而你要對抗的是從沒鎖緊的瓶蓋揮發與氧化，那不是冷凍解決得了的。",
+  "thawing": null,
+  "spoilage": [
+   "聞起來是松節油味或松木味，而不是乾淨的柑橘香——柑橘精油氧化了。",
+   "液體轉成黃褐色或明顯變深。",
+   "出現混濁或沉澱，通常是水氣跑進去。",
+   "烤出來的成品帶苦味或樹脂味。"
+  ],
+  "tips": [
+   "買小瓶；檸檬精褪得比杏仁精、香草精都快。",
+   "放在家裡最暗、最涼的櫃子。",
+   "任何不加熱的用途，新鮮檸檬皮屑永遠勝過一瓶放久的香精。",
+   "離火再加，柑橘精油才不會一下就被趕光。"
+  ],
+  "faq": [
+   {
+    "q": "檸檬精可以放多久？",
+    "a": "未開封放櫃子 2 年，開封後 12 個月。它不會腐敗，但柑橘香氣會褪掉。"
+   },
+   {
+    "q": "檸檬精為什麼聞起來像松節油？",
+    "a": "柑橘精油氧化了。那股松木味就是檸檬烯壞掉之後的氣味，這瓶已經結束了。"
+   },
+   {
+    "q": "檸檬精需要冷藏嗎？",
+    "a": "不用。它在室溫下就穩定，而冰過的瓶子會在瓶頸內結露。陰涼避光的櫃子更好。"
+   }
+  ]
+ }
+}

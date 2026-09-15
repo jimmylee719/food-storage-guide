@@ -1,0 +1,83 @@
+{
+ "slug": "millet-flour-meal",
+ "en": {
+  "name": "Millet flour",
+  "aliases": [
+   "millet meal",
+   "bajra flour",
+   "小米粉",
+   "珍珠粟粉"
+  ],
+  "summary": "Millet flour keeps just 1 month in the pantry and 2 months in the freezer at −18 °C (0 °F) — one of the shortest windows of any flour here. Millet is milled whole and its germ oil turns rancid quickly, which is why bajra rotis are traditionally made from flour ground that week.",
+  "pantry": "1 month in an airtight container somewhere cool, dark and dry, and treat that as a genuine limit. Millet is a whole-grain flour, so the germ and its oil stay in the bag, and that oil is unsaturated and quick to oxidise. There is a reason households in millet-eating regions grind small quantities often rather than buying a sack: fresh millet flour is sweet and faintly grassy, and a bag that has sat through a warm month tastes noticeably bitter, which comes straight through into the roti.",
+  "fridge": "No refrigerated timeline is published for millet flour. Cold storage genuinely slows the oil and is sensible for a bag you cannot finish in a month, but it has to be a properly airtight container: flour takes up moisture and fridge smells readily, and a cold bag opened in a warm kitchen condenses water straight into it. Between fridge and freezer, choose the freezer.",
+  "freezer": "2 months at −18 °C (0 °F) — short for a freezer figure, and a useful signal of how reactive this flour is. Use an airtight tub or a double bag with the air pressed out, and label it. Kept continuously frozen the flour stays safe well past that; what runs out is flavour, as the oil oxidises slowly even in the cold. Let the sealed container come up to room temperature before opening so the flour does not pick up condensation.",
+  "thawing": "Bring the sealed container to room temperature before opening. Small amounts can be used straight from frozen in a batter or a dough.",
+  "spoilage": [
+   "A sharp, bitter or paint-like smell instead of a sweet, grassy one.",
+   "Bitterness in the finished roti or porridge, which is the clearest test.",
+   "Clumping or hard lumps, meaning moisture reached the flour.",
+   "Webbing, larvae or small moths in the container."
+  ],
+  "tips": [
+   "Buy small quantities often rather than a sack.",
+   "Smell the bag every time; millet tells you honestly when it has gone.",
+   "Store whole millet grains instead and grind as needed if you use it rarely.",
+   "Freeze a new bag for a couple of days to kill any weevil eggs."
+  ],
+  "faq": [
+   {
+    "q": "How long does millet flour last?",
+    "a": "1 month in an airtight container in the pantry, or 2 months in the freezer at −18 °C (0 °F)."
+   },
+   {
+    "q": "Why does millet flour go bitter?",
+    "a": "The germ oil oxidises. Millet is milled whole and its oil is unsaturated, so it turns rancid faster than most flours and the bitterness comes through in the food."
+   },
+   {
+    "q": "Can you freeze millet flour?",
+    "a": "Yes, 2 months at −18 °C (0 °F). Seal it airtight and let it come back to room temperature before opening."
+   }
+  ]
+ },
+ "zh": {
+  "name": "小米粉",
+  "aliases": [
+   "珍珠粟粉",
+   "bajra",
+   "millet flour",
+   "粟米粉"
+  ],
+  "summary": "小米粉密封放常溫只能放 1 個月，−18 °C 冷凍是 2 個月——本站所有麵粉裡最短的之一。小米是整粒磨的，胚芽油耗得快，這也是為什麼傳統上做小米烤餅用的都是當週現磨的粉。",
+  "pantry": "裝密封罐、放陰涼避光乾燥處，1 個月，而且請把它當成真正的上限。小米粉是全穀粉，胚芽和它的油脂都留在袋子裡，而那是容易氧化的不飽和油脂。以小米為主食的地區習慣少量勤磨而不是買大袋，是有道理的：新鮮小米粉帶甜味、有淡淡青草香，而一袋在溫暖環境放過一個月的，吃起來明顯發苦，那股苦會原封不動跑進烤餅裡。",
+  "fridge": "小米粉沒有公布的冷藏期限。低溫確實能拖慢油脂，對一個月內吃不完的份量是合理的做法，但容器必須真正密封：麵粉很會吸濕也很會吸冰箱的味道，一包冰過的粉在溫暖廚房裡打開，水氣會直接凝進去。冷藏和冷凍之間，請選冷凍。",
+  "freezer": "−18 °C 下 2 個月——以冷凍數字來說偏短，也正好說明這種粉有多活潑。用密封罐或套兩層袋、壓出空氣，並貼標籤。只要全程沒退冰，超過這段時間仍然安全；先用完的是風味，因為油脂在低溫下仍會慢慢氧化。開蓋前先讓整罐回到室溫，粉才不會受潮。",
+  "thawing": "整罐密封著回到室溫再開蓋。少量的話，直接從冷凍加進麵糊或麵團也沒問題。",
+  "spoilage": [
+   "聞起來刺鼻、發苦或帶油漆味，而不是甜甜的青草香。",
+   "做出來的烤餅或粥發苦，這是最準的判斷。",
+   "結塊或出現硬塊，表示水氣碰到粉了。",
+   "容器裡出現絲網、幼蟲或小蛾。"
+  ],
+  "tips": [
+   "少量勤買，不要一次扛一大袋。",
+   "每次都聞一下；小米粉壞了會誠實告訴你。",
+   "很少用的話，改成保存整粒小米、要用再磨。",
+   "新買的整袋先冷凍兩三天，把蟲卵殺掉。"
+  ],
+  "faq": [
+   {
+    "q": "小米粉可以放多久？",
+    "a": "密封放常溫 1 個月，或 −18 °C 冷凍 2 個月。"
+   },
+   {
+    "q": "小米粉為什麼會發苦？",
+    "a": "胚芽油氧化了。小米是整粒磨的、油脂又是不飽和的，所以比多數麵粉更快油耗，那股苦會跑進食物裡。"
+   },
+   {
+    "q": "小米粉可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2 個月。密封好，開蓋前先讓它回到室溫。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "pure-vanilla-extract",
+ "en": {
+  "name": "Pure vanilla extract",
+  "aliases": [
+   "vanilla extract",
+   "vanilla essence",
+   "香草精",
+   "純香草精"
+  ],
+  "summary": "Unopened pure vanilla extract keeps 2 years in the pantry, and 12 months once opened. It is vanilla bean steeped in alcohol, so nothing grows in it — what fades is the aroma, and a well-kept bottle fades very slowly.",
+  "pantry": "2 years unopened and 12 months after opening, in a cool dark cupboard with the cap screwed down. Pure vanilla extract is legally an alcohol solution, and alcohol is a preservative: this is one of the most stable things in the baking cupboard, and an old bottle is a quality question rather than a safety one. What you lose is vanillin and the hundreds of smaller aroma compounds that make real extract taste like more than vanillin alone, and they leave through a loose cap and are driven off by heat. Keep the bottle dark — vanilla is one of the few extracts sold in brown glass for a reason.",
+  "fridge": "There is no refrigerated timeline for vanilla extract and refrigeration is a mistake. Cold makes some of the dissolved solids come out of solution, so a chilled bottle can go cloudy or throw a sediment, and the bottle collects condensation in the neck every time it comes out. A dark cupboard away from the stove is better in every way.",
+  "freezer": "No freezer timeline exists and freezing is pointless. The alcohol will not freeze solid at domestic freezer temperatures, and the aroma loss you want to prevent is evaporation rather than anything temperature-driven. Tighten the cap and leave the bottle in the cupboard.",
+  "thawing": null,
+  "spoilage": [
+   "A weak or flat smell — only alcohol, with none of the rounded vanilla note.",
+   "A bottle that has gone down without being used, meaning the cap leaks.",
+   "Cloudiness or heavy sediment, usually from refrigeration or from water getting in.",
+   "Little flavour coming through in a custard or cream where vanilla is the whole point."
+  ],
+  "tips": [
+   "Keep it in the dark; brown glass is doing a job.",
+   "Add it off the heat where possible — the aroma is volatile.",
+   "Buy the size you will use in a year, not the biggest bottle.",
+   "Vanilla pods steeped in the dregs of a bottle will extend it, though the result is a homemade extract rather than the labelled product."
+  ],
+  "faq": [
+   {
+    "q": "How long does pure vanilla extract last?",
+    "a": "2 years unopened in the pantry, and 12 months after opening. It does not spoil microbially; the aroma fades."
+   },
+   {
+    "q": "Should vanilla extract be refrigerated?",
+    "a": "No. Cold can make it cloudy or throw a sediment, and the bottle collects condensation in the neck. A dark cupboard is better."
+   },
+   {
+    "q": "Can you use vanilla extract past its date?",
+    "a": "It will not be unsafe. Smell it: if there is still a rounded vanilla note it is fine, and if it smells only of alcohol it will not flavour anything."
+   }
+  ]
+ },
+ "zh": {
+  "name": "純香草精",
+  "aliases": [
+   "香草精",
+   "香草萃取液",
+   "天然香草精",
+   "vanilla extract"
+  ],
+  "summary": "未開封的純香草精放櫃子裡可放 2 年，開封後是 12 個月。它是香草莢泡在酒精裡萃取出來的，裡面長不出東西——會褪的是香氣，而保存得好的一瓶褪得非常慢。",
+  "pantry": "未開封 2 年、開封後 12 個月，放陰涼避光的櫃子，瓶蓋轉緊。純香草精在法規上就是一種酒精溶液，而酒精本身就是防腐劑：它大概是整個烘焙櫃裡最穩定的東西，一瓶放久了是品質問題而不是安全問題。你會失去的是香草醛，以及那幾百種讓天然香草精嚐起來不只是「香草醛」的細微香氣成分；它們會從沒鎖緊的瓶蓋跑掉，也會被熱趕走。請讓瓶子待在暗處——香草精用棕色玻璃瓶裝是有原因的。",
+  "fridge": "香草精沒有冷藏期限，而且冷藏是個錯誤。低溫會讓部分溶解物析出，所以冰過的瓶子可能變混濁或出現沉澱；而且瓶子每次拿出來都會在瓶頸結露。遠離爐火的陰暗櫃子，在每一方面都更好。",
+  "freezer": "沒有冷凍期限，冷凍也沒有意義。家用冷凍的溫度凍不硬酒精，而你想防止的香氣流失來自揮發，不是溫度造成的。把蓋子轉緊、放回櫃子就好。",
+  "thawing": null,
+  "spoilage": [
+   "香氣變弱或扁平——只聞得到酒精，沒有那股圓潤的香草味。",
+   "沒怎麼用液面卻下降，表示瓶蓋在漏。",
+   "變混濁或出現大量沉澱，通常來自冷藏或水氣進入。",
+   "做卡士達或鮮奶油這類以香草為主角的東西時，幾乎吃不到香草味。"
+  ],
+  "tips": [
+   "放在暗處；棕色玻璃瓶是有作用的。",
+   "能離火再加就離火再加——香氣很容易揮發。",
+   "買一年內用得完的容量，不要買最大瓶的。",
+   "用剩下的瓶底再泡香草莢可以延續它，不過那已經是自製香草精，不是原本標示的產品了。"
+  ],
+  "faq": [
+   {
+    "q": "純香草精可以放多久？",
+    "a": "未開封放櫃子 2 年，開封後 12 個月。它不會腐敗，只是香氣會褪。"
+   },
+   {
+    "q": "香草精要冷藏嗎？",
+    "a": "不要。低溫可能讓它變混濁或析出沉澱，瓶頸也會結露。陰暗的櫃子更好。"
+   },
+   {
+    "q": "過期的香草精還能用嗎？",
+    "a": "不會不安全。聞一下：還有圓潤的香草味就可以用；只剩酒精味的話，它已經給不了任何風味了。"
+   }
+  ]
+ }
+}

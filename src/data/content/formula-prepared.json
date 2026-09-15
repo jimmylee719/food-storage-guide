@@ -1,0 +1,83 @@
+{
+ "slug": "formula-prepared",
+ "en": {
+  "name": "Infant formula, prepared",
+  "aliases": [
+   "made-up formula",
+   "prepared bottle",
+   "沖泡好的配方奶",
+   "調配奶"
+  ],
+  "summary": "Prepared infant formula has the shortest clock on this site. Once a feed has been started, use it within 1 hour and then throw away what is left. A made-up bottle that has not been fed from keeps 1 day in the fridge at 4 °C (40 °F) or below. The unopened powder tin goes by its use-by date.",
+  "pantry": "The sealed tin of powder is shelf-stable to its use-by date and should be discarded after it, and no separate pantry timeline is given for it. Prepared formula is entirely different: it is warm milk, which is about the most hospitable thing a bacterium could ask for, and a baby has far less margin than an adult. Once a feed has begun, 1 hour is the limit, and whatever is left in the bottle at the end of that hour is thrown away — not put back in the fridge, not offered again later. Saliva from the teat has already gone back into the milk.",
+  "fridge": "1 day at 4 °C (40 °F) or below for a bottle that has been made up in advance and never fed from. Cool it quickly, store it at the back of the fridge rather than in the door where the temperature swings, and do not keep it beyond that. Never store a part-drunk bottle, whatever the clock says: a feed that has been started is finished within the hour or discarded. Warm a chilled bottle in a jug of warm water rather than a microwave, which heats unevenly and creates scalding pockets, and test a drop on your wrist before feeding.",
+  "freezer": "Do not freeze prepared infant formula. No freezer timeline is published for it, and freezing separates the fat and protein so that the formula no longer reconstitutes evenly — which matters, because a baby's whole nutrition may be coming from it. Make up what you need, keep it cold, and use it inside the day.",
+  "thawing": null,
+  "spoilage": [
+   "A sour or off smell, or milk that has curdled or separated.",
+   "Lumps or a grainy texture in a bottle that was smooth when made up.",
+   "Any bottle that has been out of the fridge and standing at room temperature.",
+   "Powder in the tin that has clumped, smells stale, or is past its use-by date."
+  ],
+  "tips": [
+   "Make up only what the baby will take in one feed.",
+   "Throw away what is left in the bottle after a feed — always.",
+   "Cool a made-up bottle quickly and store it at the back of the fridge, never in the door.",
+   "Never add honey to a bottle for a baby under one year old; honey can carry the spores that cause infant botulism."
+  ],
+  "faq": [
+   {
+    "q": "How long can prepared formula sit out?",
+    "a": "Once a feed has started, 1 hour, and then what is left is thrown away. A bottle that has not been fed from should go straight into the fridge."
+   },
+   {
+    "q": "Can you keep a bottle the baby did not finish?",
+    "a": "No. Saliva from the teat has gone back into the milk, so the remainder is discarded at the end of the feed rather than saved for later."
+   },
+   {
+    "q": "How long does made-up formula keep in the fridge?",
+    "a": "1 day at 4 °C (40 °F) or below, for a bottle that has never been fed from, stored at the back of the fridge."
+   }
+  ]
+ },
+ "zh": {
+  "name": "沖泡好的配方奶",
+  "aliases": [
+   "調配奶",
+   "泡好的奶",
+   "嬰兒配方乳",
+   "prepared formula"
+  ],
+  "summary": "沖泡好的配方奶是全站時鐘走得最快的一項。一旦開始餵，1 小時內要用完，之後剩下的全部倒掉。完全沒餵過、事先泡好的奶瓶，放 4 °C 以下冷藏可放 1 天。未開封的奶粉罐則以有效日期為準。",
+  "pantry": "未開封的奶粉罐在有效日期之前屬於常溫商品，過期就丟，這裡不另外給常溫期限。沖泡好的配方奶則完全不同：那是溫熱的牛奶，大概是細菌能要求到最舒服的環境，而寶寶能承受的餘裕又遠比大人少。一旦開始餵，上限就是 1 小時；那一小時結束時瓶子裡剩下的全部倒掉——不要放回冰箱，也不要等一下再餵。奶嘴上的口水早就回到奶裡了。",
+  "fridge": "事先泡好、完全沒有餵過的奶瓶，放 4 °C 以下 1 天。請快速降溫，放在冰箱深處而不是溫度會晃動的門邊，並且不要放超過這個時間。已經喝過一半的奶瓶，不管時鐘怎麼算都不能保存：開始餵的那一餐，一小時內結束，或者倒掉。要回溫時請用一壺溫水隔水加熱，不要微波；微波受熱不均，會產生會燙傷的高溫熱點，餵之前也請滴一滴在手腕內側試溫。",
+  "freezer": "不要冷凍沖泡好的配方奶。它沒有公布的冷凍期限，而且冷凍會讓脂肪和蛋白質分離，之後再也調不回均勻的狀態——這件事很重要，因為寶寶的營養可能全部來自它。請需要多少泡多少，保持低溫，並在當天用完。",
+  "thawing": null,
+  "spoilage": [
+   "聞起來發酸或有異味，或奶水已經結塊、分層。",
+   "泡好時明明滑順，後來卻出現顆粒或結塊。",
+   "任何離開冰箱、在室溫下擺過的奶瓶。",
+   "罐子裡的奶粉結塊、聞起來走味，或已經超過有效日期。"
+  ],
+  "tips": [
+   "一次只泡寶寶這一餐喝得完的量。",
+   "餵完瓶子裡剩下的一律倒掉——沒有例外。",
+   "泡好的奶要快速降溫，放冰箱深處，絕對不要放門邊。",
+   "未滿一歲的寶寶，奶瓶裡絕對不能加蜂蜜；蜂蜜可能帶有引起嬰兒肉毒桿菌中毒的孢子。"
+  ],
+  "faq": [
+   {
+    "q": "泡好的配方奶可以在外面放多久？",
+    "a": "一旦開始餵就是 1 小時，之後剩下的全部倒掉。沒有餵過的奶瓶請直接放進冷藏。"
+   },
+   {
+    "q": "寶寶沒喝完的奶可以留嗎？",
+    "a": "不行。奶嘴上的口水已經回到奶裡，所以那一餐結束時就要倒掉，不能留到下一餐。"
+   },
+   {
+    "q": "事先泡好的配方奶冷藏可以放多久？",
+    "a": "完全沒餵過的話，放 4 °C 以下、冰箱深處，可放 1 天。"
+   }
+  ]
+ }
+}

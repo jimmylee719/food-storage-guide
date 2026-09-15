@@ -1,0 +1,83 @@
+{
+ "slug": "baby-food-dinners",
+ "en": {
+  "name": "Baby food dinners",
+  "aliases": [
+   "meat and vegetable baby meals",
+   "infant dinners",
+   "嬰兒副食品餐",
+   "寶寶主餐泥"
+  ],
+  "summary": "Unopened baby dinners should be discarded after the use-by date on the jar or pouch. Once opened, they keep 2 days in the fridge at 4 °C (40 °F) or below — and only if you have never fed from the container with a used spoon.",
+  "pantry": "An unopened jar or pouch is commercially sterilised and shelf-stable to its use-by date, and after that date it should be discarded rather than judged by eye. No general pantry figure is given, because the date on the container is the manufacturer's own statement about their own product. Keep it somewhere cool and dark, and throw out any jar whose lid has lost its vacuum — the button on a baby food lid should not click when you press it — or any pouch that is swollen, leaking or damaged.",
+  "fridge": "2 days at 4 °C (40 °F) or below once opened, covered, and this is the shortest kind of window on the site for a reason. Baby dinners contain meat or poultry as well as vegetables, which makes them a mixed low-acid food, and the baby eating them has a less developed immune system than an adult. The critical rule is about the spoon: never feed straight from the jar or pouch with a spoon that has been in the baby's mouth, because saliva carries bacteria and enzymes into the remainder and it can no longer be kept. Spoon a portion into a bowl, feed from the bowl, and throw away whatever is left in the bowl after the feed.",
+  "freezer": "No freezer timeline is published for opened baby dinners. Commercial jars and pouches are not designed to be frozen and reheated, and the texture separates badly. If you are freezing home-made purées in an ice cube tray, that is a different and perfectly sensible practice — but label them, keep them short, and do not borrow a number from anywhere else. Never refreeze a portion that has been thawed and warmed.",
+  "thawing": "Thaw a frozen home-made portion in the fridge, never on the counter, and warm it once. Stir and test on your wrist before feeding, because warmed food heats unevenly and a hot pocket will scald.",
+  "spoilage": [
+   "A lid that clicks when pressed, or a swollen or leaking pouch — do not open it, discard it.",
+   "Any bubbling, spurting or hissing when the jar is opened.",
+   "A sour or off smell, or a colour that has darkened.",
+   "Mould anywhere around the rim or under the lid."
+  ],
+  "tips": [
+   "Spoon a portion into a bowl; never feed from the jar with a used spoon.",
+   "Write the time and date you opened it on the jar.",
+   "Check the vacuum button on every new jar before opening.",
+   "Never give honey to a baby under one year old — it can carry the spores that cause infant botulism."
+  ],
+  "faq": [
+   {
+    "q": "How long does an opened jar of baby dinner keep?",
+    "a": "2 days in the fridge at 4 °C (40 °F) or below, covered, and only if it has never been fed from directly."
+   },
+   {
+    "q": "Why can't you keep food you have fed from?",
+    "a": "Saliva from the spoon carries bacteria and enzymes into the remaining food, which then spoils quickly. Always spoon a portion into a bowl and feed from that."
+   },
+   {
+    "q": "Can you freeze baby dinners from a jar?",
+    "a": "No timeline is published for it, and commercial jars separate badly when frozen and reheated. Freezing your own purées in an ice cube tray is a better approach."
+   }
+  ]
+ },
+ "zh": {
+  "name": "嬰兒主餐副食品",
+  "aliases": [
+   "寶寶主餐泥",
+   "嬰兒肉菜泥",
+   "副食品罐頭",
+   "baby dinners"
+  ],
+  "summary": "未開封的嬰兒主餐副食品，過了罐子或軟袋上的有效日期就該丟掉。開封後放 4 °C 以下冷藏可放 2 天——而且前提是你從來沒有用餵過的湯匙直接從容器裡挖。",
+  "pantry": "未開封的玻璃罐或軟袋經過商業滅菌，在有效日期之前是常溫商品；過了日期就丟，不要用眼睛判斷。這裡不給通用的常溫數字，因為容器上的日期就是製造商對自家產品的說法。請放陰涼避光處；如果瓶蓋的真空鈕按下去會「喀」一聲、或軟袋鼓脹、滲漏、破損，就整個丟掉。",
+  "fridge": "開封後蓋好放 4 °C 以下 2 天，而這是全站最短的那一類期限，是有原因的。嬰兒主餐裡除了蔬菜還有肉或家禽，屬於混合的低酸食品，而吃它的寶寶免疫系統又還沒發展完全。最關鍵的規則是湯匙：絕對不要用進過寶寶嘴巴的湯匙，直接從罐子或軟袋裡餵，因為口水會把細菌和酵素帶進剩下的食物，那一份就不能再留了。請舀一份到碗裡、從碗裡餵，餵完碗裡剩下的全部丟掉。",
+  "freezer": "開封後的嬰兒主餐沒有公布的冷凍期限。市售玻璃罐和軟袋並不是設計成冷凍再復熱的，質地會嚴重分離。如果你是把自製果泥菜泥用製冰盒分格冷凍，那是另一回事，而且完全合理——但請貼上日期、盡量縮短，也不要從別的地方借一個數字過來。解凍加熱過的那一份，絕對不要再冷凍。",
+  "thawing": "自製冷凍份量請放冷藏解凍，絕對不要放檯面，而且只加熱一次。餵之前攪拌均勻並滴在手腕內側試溫，因為加熱過的食物受熱不均，局部過燙會燙傷。",
+  "spoilage": [
+   "瓶蓋真空鈕按下去會響，或軟袋鼓脹、滲漏——不要打開，直接丟掉。",
+   "打開時有冒泡、噴濺或嘶嘶聲。",
+   "聞起來發酸或有異味，或顏色明顯變深。",
+   "瓶口或蓋子內側出現霉。"
+  ],
+  "tips": [
+   "舀一份到碗裡；絕對不要用餵過的湯匙直接從罐子裡挖。",
+   "在罐子上寫下開封的日期和時間。",
+   "每一罐開封前都先檢查真空鈕。",
+   "未滿一歲的寶寶絕對不能吃蜂蜜——它可能帶有引起嬰兒肉毒桿菌中毒的孢子。"
+  ],
+  "faq": [
+   {
+    "q": "開封的嬰兒主餐可以放多久？",
+    "a": "蓋好放 4 °C 以下冷藏 2 天，而且前提是從來沒有直接從裡面餵過。"
+   },
+   {
+    "q": "為什麼餵過的就不能留？",
+    "a": "湯匙上的口水會把細菌和酵素帶進剩下的食物，那一份就會很快壞掉。請一律舀到碗裡，從碗裡餵。"
+   },
+   {
+    "q": "市售嬰兒主餐可以冷凍嗎？",
+    "a": "它沒有公布的冷凍期限，而且市售罐頭冷凍再復熱後質地會嚴重分離。自己做的泥用製冰盒冷凍是比較好的做法。"
+   }
+  ]
+ }
+}

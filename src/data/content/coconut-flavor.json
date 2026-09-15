@@ -1,0 +1,83 @@
+{
+ "slug": "coconut-flavor",
+ "en": {
+  "name": "Coconut flavouring",
+  "aliases": [
+   "coconut extract",
+   "coconut essence",
+   "椰子香精",
+   "椰子精"
+  ],
+  "summary": "Unopened coconut flavouring keeps 2 years in the pantry, and 12 months once opened. It is an alcohol- or propylene-glycol-based solution, so nothing grows in it; what runs out is the aroma.",
+  "pantry": "2 years unopened and 12 months after opening, cap tight, in a cool dark cupboard. Most coconut flavouring is not made from coconut at all but from a small set of lactones that smell of it, and those compounds are volatile in exactly the way the rest of the extract shelf is. Heat and light are what age a bottle, so keep it off the shelf above the hob. Note that this is flavouring, not coconut milk or coconut cream — those are perishable foods with completely different rules and belong in the fridge once opened.",
+  "fridge": "There is no refrigerated timeline for coconut flavouring and it does not need one. The solvent base is stable at room temperature, and chilling the bottle only invites condensation into the neck each time it comes out, which dilutes it over time. Keep it in the cupboard with the rest of the extracts.",
+  "freezer": "No freezer timeline exists and freezing is pointless. The bottle will not freeze solid at domestic freezer temperatures, and the aroma you are trying to protect is lost through the cap rather than to warmth. Screw the cap down properly instead.",
+  "thawing": null,
+  "spoilage": [
+   "No coconut smell when the bottle is opened.",
+   "Liquid darkened or gone cloudy.",
+   "Sediment at the bottom that was not there before, usually from moisture.",
+   "A flat or chemical taste in the finished baking."
+  ],
+  "tips": [
+   "Buy small bottles; the clock starts when you open one.",
+   "Keep it away from the hob and out of direct light.",
+   "Add it off the heat where you can.",
+   "Do not confuse it with coconut milk or cream, which are perishable and must be refrigerated once opened."
+  ],
+  "faq": [
+   {
+    "q": "How long does coconut flavouring last?",
+    "a": "2 years unopened in the pantry, and 12 months after opening. It does not spoil microbially; the aroma fades."
+   },
+   {
+    "q": "Does coconut flavouring need refrigerating?",
+    "a": "No. It is a stable solvent-based flavouring. Coconut milk and coconut cream are a different matter and must be refrigerated once opened."
+   },
+   {
+    "q": "Can you use coconut flavouring after its date?",
+    "a": "It will not be unsafe, but it may have very little smell left. Open it and sniff before you commit it to a batch of baking."
+   }
+  ]
+ },
+ "zh": {
+  "name": "椰子香精",
+  "aliases": [
+   "椰子精",
+   "椰香精",
+   "椰子萃取液",
+   "coconut flavor"
+  ],
+  "summary": "未開封的椰子香精放櫃子裡可放 2 年，開封後是 12 個月。它是以酒精或丙二醇為基底的溶液，裡面長不出東西；先用完的是香氣。",
+  "pantry": "未開封 2 年、開封後 12 個月，蓋緊、放陰涼避光的櫃子。市售椰子香精多半根本不是用椰子做的，而是幾種聞起來像椰子的內酯類化合物，而那些成分和香精架上其他東西一樣易揮發。讓它老化的是熱和光，所以不要放在爐火上方的層架。另外請注意：這是香精，不是椰奶或椰漿——後者是易腐食品，規則完全不同，開封後必須冷藏。",
+  "fridge": "椰子香精沒有冷藏期限，也不需要。溶劑基底在室溫下就很穩定，冰它只會讓瓶子每次拿出來都在瓶頸結露，久了把香精稀釋掉。就和其他香精一起放在櫃子裡吧。",
+  "freezer": "沒有冷凍期限，冷凍也沒有意義。家用冷凍的溫度凍不硬這瓶東西，而你想保護的香氣是從瓶蓋跑掉的，不是被溫度帶走的。與其冷凍，不如把蓋子確實轉緊。",
+  "thawing": null,
+  "spoilage": [
+   "打開瓶子聞不到椰子味。",
+   "液體顏色變深或變混濁。",
+   "瓶底出現原本沒有的沉澱，通常是水氣造成的。",
+   "烤出來的成品味道扁平或帶化學味。"
+  ],
+  "tips": [
+   "買小瓶的；開封那天就開始倒數。",
+   "遠離爐火，也避免直射光。",
+   "能離火再加就離火再加。",
+   "不要和椰奶、椰漿搞混——那些是易腐食品，開封後一定要冷藏。"
+  ],
+  "faq": [
+   {
+    "q": "椰子香精可以放多久？",
+    "a": "未開封放櫃子 2 年，開封後 12 個月。它不會腐敗，只是香氣會褪。"
+   },
+   {
+    "q": "椰子香精需要冷藏嗎？",
+    "a": "不用。它是穩定的溶劑類香精。椰奶和椰漿是另一回事，開封後必須冷藏。"
+   },
+   {
+    "q": "過期的椰子香精還能用嗎？",
+    "a": "不會不安全，但可能已經幾乎沒有香氣。倒進一整盤麵糊之前，先打開聞一下。"
+   }
+  ]
+ }
+}

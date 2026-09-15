@@ -1,0 +1,83 @@
+{
+ "slug": "masa-fresca",
+ "en": {
+  "name": "Fresh masa",
+  "aliases": [
+   "masa fresca",
+   "nixtamal dough",
+   "wet masa",
+   "新鮮玉米麵團"
+  ],
+  "summary": "Fresh masa keeps 3–4 days in the fridge at 4 °C (40 °F) or below and 2–3 months in the freezer at −18 °C (0 °F). No agency publishes a figure for nixtamal dough, so both are read across from the general timeline for cooked, meat-free leftovers.",
+  "pantry": "Do not leave fresh masa out. It is a wet, low-acid cooked starch, and masa on a warm counter is the same hazard as cooked rice left out: the two-hour rule applies, one hour if the kitchen is above 32 °C (90 °F). It also sours fast on its own — that alcohol-and-yoghurt smell is the first thing you notice, and it means the dough has started fermenting. Bag it airtight the moment you get home from the tortillería and get it into the fridge.",
+  "fridge": "3–4 days at 4 °C (40 °F) or below, bagged airtight so the surface does not dry into a crust. Press the bag flat and squeeze out the air; masa that dries at the edges will never rehydrate evenly and you will get cracked tortillas. It stiffens in the cold, which is normal — knead a splash of warm water back in before pressing. Masa prepared for tamales, already beaten with lard, holds up a little better because the fat coats the starch.",
+  "freezer": "2–3 months at −18 °C (0 °F) for best quality. Freeze it in flattened, portioned slabs so it thaws quickly and you only take out what you need. Kept continuously frozen it stays safe well beyond that window; the limit is texture, as ice crystals break down the starch gel and the dough thaws drier and grainier. Tamal masa, already beaten with lard, freezes noticeably better than plain masa.",
+  "thawing": "Thaw in the fridge overnight, never on the counter. Thawed masa is drier than it went in, so knead a splash of water back in until it feels like fresh dough again. Masa thawed in the fridge and still at or below 4 °C (40 °F) may be refrozen with some quality loss; anything thawed warm must not be.",
+  "spoilage": [
+   "A sour, alcoholic or yoghurt-like smell, which is the clearest sign it has gone.",
+   "A grey, slimy or tacky surface.",
+   "Any mould spot — discard the whole batch rather than trimming it.",
+   "A dry, cracked crust that will not knead back in."
+  ],
+  "tips": [
+   "Bag it airtight on the way home; masa is a perishable food, not a flour.",
+   "Freeze in flat portioned slabs so it thaws fast.",
+   "Knead a little warm water back into thawed masa before pressing.",
+   "Masa harina, the dry flour, is a completely different product with its own much longer timeline."
+  ],
+  "faq": [
+   {
+    "q": "How long does fresh masa keep?",
+    "a": "3–4 days in the fridge at 4 °C (40 °F) or below, or 2–3 months frozen at −18 °C (0 °F). Both figures are read across from cooked, meat-free leftovers."
+   },
+   {
+    "q": "Can you freeze fresh masa?",
+    "a": "Yes, 2–3 months at −18 °C (0 °F). Freeze it in flat slabs; thawed masa is drier and needs a splash of water kneaded back in."
+   },
+   {
+    "q": "How do you know masa has gone bad?",
+    "a": "It smells sour, alcoholic or like yoghurt. That is fermentation, and at that point the batch is finished."
+   }
+  ]
+ },
+ "zh": {
+  "name": "新鮮玉米麵團",
+  "aliases": [
+   "masa",
+   "濕玉米麵團",
+   "鹼處理玉米麵團",
+   "masa fresca"
+  ],
+  "summary": "新鮮玉米麵團放 4 °C 以下冷藏可放 3～4 天，−18 °C 冷凍是 2～3 個月。沒有機關為鹼處理玉米麵團公布期限，所以這兩個數字都是比照「不含肉的熟食剩菜」讀過來的。",
+  "pantry": "不要把新鮮玉米麵團放在外面。它是含水量高、低酸的熟澱粉，擺在溫暖檯面上的麵團，和放在外面的白飯是同一種風險：適用兩小時原則，廚房超過 32 °C 時只有一小時。而且它本身也很快發酸——你最先察覺的就是那股酒精加優格的氣味，那表示它已經開始發酵了。從店裡買回家就立刻密封裝袋、進冷藏。",
+  "fridge": "放 4 °C 以下 3～4 天，密封裝袋，免得表面乾出一層硬殼。把袋子壓平、擠掉空氣；邊緣乾掉的麵團永遠沒辦法均勻回水，壓出來的餅會裂。它在低溫下會變硬，那是正常的——壓餅前揉進一點溫水就好。已經和豬油打過、準備做玉米粽的麵團耐放一些，因為油脂裹住了澱粉。",
+  "freezer": "−18 °C 下 2～3 個月品質最好。請壓成扁平的分裝塊再冷凍，解凍快，也能要多少拿多少。只要全程沒退冰，超過這段時間仍然安全；限制它的是口感，因為冰晶會破壞澱粉膠體，解凍後的麵團會更乾、更粗。已經和豬油打過的粽用麵團，明顯比原味麵團更耐凍。",
+  "thawing": "放冷藏隔夜解凍，絕對不要放檯面。解凍後的麵團會比原本乾，請揉進一點水，揉到手感像新鮮麵團為止。在冷藏解凍、且維持在 4 °C 以下的可以再冷凍，只是品質打折；回溫過的絕對不行。",
+  "spoilage": [
+   "聞起來發酸、有酒精味或優格味，這是最明確的訊號。",
+   "表面發灰、黏滑或黏手。",
+   "只要出現霉點就整批丟掉，不要切掉那一塊。",
+   "表面乾裂成殼，而且怎麼揉都揉不回去。"
+  ],
+  "tips": [
+   "回家路上就密封裝袋；masa 是易腐食品，不是麵粉。",
+   "壓成扁平分裝塊再冷凍，解凍才快。",
+   "解凍後的麵團壓餅前先揉進一點溫水。",
+   "乾的 masa harina 玉米粉是完全不同的產品，期限長得多。"
+  ],
+  "faq": [
+   {
+    "q": "新鮮玉米麵團可以放多久？",
+    "a": "4 °C 以下冷藏 3～4 天，或 −18 °C 冷凍 2～3 個月。兩個數字都是比照不含肉的熟食剩菜而來。"
+   },
+   {
+    "q": "新鮮玉米麵團可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2～3 個月。壓成扁平塊冷凍；解凍後會比較乾，要揉進一點水。"
+   },
+   {
+    "q": "怎麼知道玉米麵團壞了？",
+    "a": "它會發出酸味、酒精味或優格味。那是發酵，到那個程度這一批就結束了。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "farro-flour-meal",
+ "en": {
+  "name": "Farro flour",
+  "aliases": [
+   "emmer flour",
+   "farro meal",
+   "二粒小麥粉",
+   "法羅麥粉"
+  ],
+  "summary": "Farro flour keeps 3 months in the pantry and 6 months in the freezer at −18 °C (0 °F). Farro is an ancient wheat milled with the germ in, and the germ's oil is what sets the limit — the flour goes rancid long before anything else happens to it.",
+  "pantry": "3 months in an airtight container on a cool, dark, dry shelf. Farro — emmer wheat — is usually sold as a wholemeal flour, so the bran and germ come with it, along with the nutty flavour people buy it for and the oil that ends its life. Heat, light and air drive the oxidation, so an opaque sealed tub at the back of a cupboard beats a paper bag on an open shelf by a wide margin. Fresh farro flour smells sweet and nutty; stale flour smells sharp and faintly of oil paint, and the bitterness carries into the bread.",
+  "fridge": "No refrigerated timeline is published for farro flour. Cold storage does slow the oil, and the fridge is a workable middle option for a bag you will use over a season, but only in a genuinely airtight container: wholemeal flour takes up moisture and fridge smells easily, and a cold bag opened in a warm kitchen condenses water into the flour, which cakes it. If the space is available, the freezer is the better use of it.",
+  "freezer": "6 months at −18 °C (0 °F), the sensible default for a bag larger than a season's baking. Use an airtight tub or a double bag with the air pressed out, and label it — one wholemeal flour looks much like another once frozen. Kept continuously frozen it stays safe well past that window; what runs out is flavour, as the oil oxidises slowly even in the cold. Let the sealed container warm to room temperature before opening.",
+  "thawing": "Bring the sealed container up to room temperature before opening so the flour does not take up condensation. Small amounts go straight from frozen into a dough without trouble.",
+  "spoilage": [
+   "A sharp, oily or paint-like smell — rancid germ oil, the usual end.",
+   "A bitter aftertaste in bread made to a recipe that used to work.",
+   "Clumps or a solid cake in the bag, which means moisture got in.",
+   "Webbing, larvae or small moths, in which case the whole bag goes out."
+  ],
+  "tips": [
+   "Buy a bag you will finish in a season rather than a sack.",
+   "Decant into an opaque airtight tub as soon as you open it.",
+   "Smell before baking; rancidity shows up before the date does.",
+   "Freeze a new bag for a couple of days to kill any weevil eggs."
+  ],
+  "faq": [
+   {
+    "q": "How long does farro flour last?",
+    "a": "3 months in an airtight container in the pantry, or 6 months in the freezer at −18 °C (0 °F)."
+   },
+   {
+    "q": "Can you freeze farro flour?",
+    "a": "Yes, 6 months at −18 °C (0 °F). Seal it airtight, label it, and let it come back to room temperature before opening."
+   },
+   {
+    "q": "How do you tell if farro flour has gone off?",
+    "a": "Smell it. A sharp, paint-like note means the germ oil has gone rancid, and the bitterness will come through in the bread."
+   }
+  ]
+ },
+ "zh": {
+  "name": "二粒小麥粉",
+  "aliases": [
+   "法羅麥粉",
+   "farro",
+   "emmer",
+   "古麥粉"
+  ],
+  "summary": "二粒小麥粉密封放常溫可放 3 個月，−18 °C 冷凍則是 6 個月。farro 是連胚芽一起磨的古老小麥，而胚芽的油脂就是它的上限——它一定是先油耗，其他事情都還沒發生。",
+  "pantry": "裝密封罐、放陰涼避光乾燥的架子，3 個月。farro（二粒小麥）通常以全麥粉形式販售，所以麩皮和胚芽都在裡面——你買它就是為了那股堅果香，而終結它的也正是同一批油脂。推動氧化的是熱、光和空氣，所以「不透光密封罐收在櫃子深處」遠勝「紙袋擺在開放層架上」。新鮮的二粒小麥粉聞起來甜而帶堅果香；走味的則刺鼻、微微像油漆味，而那股苦會跟著進到麵包裡。",
+  "fridge": "二粒小麥粉沒有公布的冷藏期限。低溫確實能拖慢油脂，對一包預計一季內用完的粉來說，冷藏是可行的折衷——但必須是真正密封的容器：全麥粉很會吸濕、也很會吸冰箱的味道，一包冰過的粉在溫暖廚房裡打開，水氣會凝進粉裡讓它結塊。如果空間夠，把位置留給冷凍更值得。",
+  "freezer": "−18 °C 下 6 個月；一季烘焙用不完的份量，這就是合理的預設。用密封罐或套兩層袋、壓出空氣，並貼標籤——各種全麥粉冷凍起來長得幾乎一樣。只要全程沒退冰，超過這段時間仍然安全；先用完的是風味，因為油脂在低溫下依然慢慢氧化。開蓋前先讓整罐回到室溫。",
+  "thawing": "整罐密封著回到室溫再開蓋，粉才不會受潮。少量的話直接從冷凍加進麵團也沒問題。",
+  "spoilage": [
+   "聞起來刺鼻、帶油味或油漆味——胚芽油耗，最常見的結局。",
+   "用一向沒問題的配方做出來的麵包，卻有苦的餘韻。",
+   "袋子裡結塊或結成硬餅，表示受潮。",
+   "出現絲網、幼蟲或小蛾，整袋丟掉。"
+  ],
+  "tips": [
+   "買一季內用得完的量，不要買大袋。",
+   "拆封後立刻倒進不透光的密封罐。",
+   "烤之前先聞；油耗會比日期更早現形。",
+   "新買的整袋先冷凍兩三天，把蟲卵殺掉。"
+  ],
+  "faq": [
+   {
+    "q": "二粒小麥粉可以放多久？",
+    "a": "密封放常溫 3 個月，或 −18 °C 冷凍 6 個月。"
+   },
+   {
+    "q": "二粒小麥粉可以冷凍嗎？",
+    "a": "可以，−18 °C 下 6 個月。密封、貼標籤，開蓋前先讓它回到室溫。"
+   },
+   {
+    "q": "怎麼判斷二粒小麥粉壞了？",
+    "a": "聞一下。刺鼻、像油漆的味道就是胚芽油耗了，那股苦會跑進麵包裡。"
+   }
+  ]
+ }
+}

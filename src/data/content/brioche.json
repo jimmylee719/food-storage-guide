@@ -1,0 +1,83 @@
+{
+ "slug": "brioche",
+ "en": {
+  "name": "Brioche",
+  "aliases": [
+   "enriched bread",
+   "butter bread",
+   "egg bread",
+   "布里歐"
+  ],
+  "summary": "Brioche keeps 2–4 days wrapped at room temperature and 3–6 months from purchase at −18 °C (0 °F). Both figures are borrowed from commercial cakes and muffins, the nearest published match — no agency publishes a brioche timeline. Refrigeration is not worth it unless you are going to toast it.",
+  "pantry": "2–4 days wrapped at room temperature. The butter and egg yolk in a brioche coat the starch and slow retrogradation, so it stays soft noticeably longer than a lean loaf — but that same richness makes it a better substrate for mould, and the soft, moist crumb holds humidity. Keep it in a paper bag or a bread bin rather than sealed plastic: a bread study measured markedly higher humidity inside a plastic bag, with mould appearing a day or so sooner than in paper. Treat these numbers as sensible working guidance rather than as a documented limit.",
+  "fridge": "Only if you are going to toast it. Cold stales bread faster than the counter does, enrichment or no enrichment; the fat delays retrogradation but does not reverse its direction. What the fridge does buy is time against mould, which is the failure brioche actually suffers in a hot humid kitchen — and since toasting reverses staling by re-gelatinising the starch, a wrapped brioche in the fridge destined for the toaster or for French toast costs you nothing. For a loaf you want soft and plain, the freezer is the better answer.",
+  "freezer": "3–6 months from purchase at −18 °C (0 °F), and brioche freezes very well because the fat protects the crumb from ice damage. Freeze individual buns, or slice a loaf first, then wrap tight with the air excluded. Kept continuously frozen it stays safe indefinitely; the window describes quality — dryness, ice crystals and freezer burn — not safety. Thaw at room temperature, or toast slices straight from frozen.",
+  "thawing": "Thaw wrapped at room temperature, or toast from frozen. Brioche that thawed in the fridge and is still cold may be refrozen with some quality loss; brioche thawed on a warm counter should not be refrozen.",
+  "spoilage": [
+   "Fuzzy mould spots — throw out the whole loaf, not just the affected part.",
+   "A sour or fermented smell, often from bread bagged while still warm.",
+   "A dry, crumbly crumb that no longer pulls into strands.",
+   "A rancid or crayon-like taste from the butter, in a loaf kept far too long."
+  ],
+  "tips": [
+   "Paper bag or bread bin on the counter; sealed plastic brings mould forward.",
+   "Slice before freezing so you can take one slice at a time.",
+   "Stale brioche is the best possible French toast — it is not a failure state.",
+   "Buy small loaves or buns; enriched bread is at its best in the first couple of days."
+  ],
+  "faq": [
+   {
+    "q": "How long does brioche last?",
+    "a": "2–4 days wrapped at room temperature, or 3–6 months from purchase in the freezer at −18 °C (0 °F). Both figures are read across from commercial cakes and muffins."
+   },
+   {
+    "q": "Should brioche go in the fridge?",
+    "a": "Only if you will toast it. Chilling stales it faster, but it does hold off mould, and toasting undoes the staling."
+   },
+   {
+    "q": "Can you freeze brioche?",
+    "a": "Yes, and it freezes better than lean bread because the butter protects the crumb. Slice it first and toast straight from frozen."
+   }
+  ]
+ },
+ "zh": {
+  "name": "布里歐麵包",
+  "aliases": [
+   "布莉歐修",
+   "奶油雞蛋麵包",
+   "法式奶油麵包",
+   "brioche"
+  ],
+  "summary": "布里歐包好放室溫可放 2～4 天，−18 °C 冷凍自購買日起是 3～6 個月。這兩個數字都是比照市售蛋糕與瑪芬而來——資料裡最接近的一類——沒有機關為布里歐公布期限。除非你打算烤過再吃，否則冷藏並不值得。",
+  "pantry": "包好放室溫 2～4 天。布里歐裡的奶油和蛋黃會裹住澱粉、拖慢回凝，所以它比瘦麵包軟得久得多；但同樣的豐腴也讓它成為更好的長霉溫床，柔軟潮濕的內裡本身就含著濕氣。請用紙袋或麵包盒，不要密封塑膠袋：一份麵包研究量到塑膠袋內的濕度明顯更高，長霉也比裝紙袋的早了一天左右。這些數字請當成合理的參考，而不是有文件背書的上限。",
+  "fridge": "只有在你打算烤過再吃時才冷藏。低溫讓麵包老化得比室溫快，不管它有多豐腴；油脂會拖慢回凝，但改變不了方向。冷藏買到的是對抗霉的時間，而在又熱又濕的廚房裡，霉正是布里歐真正的死因——既然烤過可以讓澱粉重新糊化、把老化逆轉回來，那麼一條注定要進烤箱或做成法式吐司的布里歐放冷藏，其實什麼代價都沒付。想要它保持柔軟原味的話，冷凍才是更好的答案。",
+  "freezer": "−18 °C 下自購買日起 3～6 個月；布里歐非常耐凍，因為油脂會保護內裡不被冰晶破壞。整顆小圓麵包分開冷凍，或整條先切片再包緊、擠掉空氣。只要全程沒退冰就一直是安全的；這個期限描述的是品質——變乾、冰晶和凍燒——不是安全。包著在室溫解凍，或把切片直接從冷凍烤。",
+  "thawing": "包好在室溫解凍，或直接從冷凍烤。在冷藏解凍、而且還是冰的布里歐可以再冷凍，只是品質會打折；在溫暖檯面上解凍過的就不要再凍回去。",
+  "spoilage": [
+   "長出絨毛狀霉點——整條丟掉，不是只切掉那一塊。",
+   "聞起來發酸或有發酵味，通常是還熱著就裝袋造成的。",
+   "內裡變乾、一撕就碎，拉不出絲。",
+   "放太久的那種奶油油耗味、像蠟筆的味道。"
+  ],
+  "tips": [
+   "檯面上用紙袋或麵包盒；密封塑膠袋會讓霉提早報到。",
+   "冷凍前先切片，之後可以一次只拿一片。",
+   "放到有點乾的布里歐是做法式吐司最好的材料，那不是壞掉。",
+   "買小條或小顆的；豐腴麵包最好吃的就是最初那兩天。"
+  ],
+  "faq": [
+   {
+    "q": "布里歐可以放多久？",
+    "a": "包好放室溫 2～4 天，或 −18 °C 冷凍自購買日起 3～6 個月。兩個數字都是比照市售蛋糕與瑪芬而來。"
+   },
+   {
+    "q": "布里歐要放冰箱冷藏嗎？",
+    "a": "只有打算烤過再吃時才需要。低溫會讓它老化更快，但確實壓得住霉，而烤過又能把老化逆轉回來。"
+   },
+   {
+    "q": "布里歐可以冷凍嗎？",
+    "a": "可以，而且比瘦麵包更耐凍，因為奶油會保護內裡。先切片，要吃時直接從冷凍烤。"
+   }
+  ]
+ }
+}

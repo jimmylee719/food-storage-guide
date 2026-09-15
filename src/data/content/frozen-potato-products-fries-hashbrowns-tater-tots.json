@@ -1,0 +1,83 @@
+{
+ "slug": "frozen-potato-products-fries-hashbrowns-tater-tots",
+ "en": {
+  "name": "Frozen potato products",
+  "aliases": [
+   "frozen fries",
+   "hash browns",
+   "tater tots",
+   "冷凍薯條"
+  ],
+  "summary": "Frozen fries, hash browns and tater tots keep 12 months from purchase at −18 °C (0 °F) for best quality. Keep them frozen and cook as directed. Refrigerating them after cooking is not recommended, because they go limp and never crisp up again.",
+  "pantry": "No room-temperature storage. These are blanched and part-fried potato pieces: once they warm, the surface starch takes up the melting ice and the pieces fry greasy and floppy instead of crisp. There is a safety side too — cooked potato is a low-acid food and anything left out follows the two-hour rule, one hour above 32 °C (90 °F). Take out what you need and get the bag back into the freezer immediately.",
+  "fridge": "Refrigerating cooked potato products is not recommended, and no refrigerated timeline is given. The quality loss is severe and obvious: the coating softens, the inside turns dense and waxy, and reheating produces something leathery rather than crisp. If you have cooked too many, eat them; do not plan to keep them. Raw frozen pieces should never be thawed in the fridge before cooking either, because they are designed to go into hot oil or a hot oven straight from frozen.",
+  "freezer": "12 months from purchase at −18 °C (0 °F) for best quality. Kept continuously at −18 °C they stay safe indefinitely — the window is about quality, not safety. What goes wrong is freezer burn: dry white patches, grey edges and a stale cardboard taste, plus pieces welding into a lump once a bag has part-thawed. Press the air out and reseal the bag firmly every time, and keep it at the back of the freezer rather than in the door.",
+  "thawing": "Do not thaw. Cook from frozen into hot oil or a hot oven, and spread the pieces in one layer so they crisp rather than steam. Do not refreeze a bag that has thawed on the counter; a bag thawed in the fridge and still at or below 4 °C (40 °F) may be refrozen with quality loss, but it will cook soggy.",
+  "spoilage": [
+   "A solid lump of pieces frozen together, meaning the bag part-thawed and refroze.",
+   "Dry, white, papery patches — freezer burn.",
+   "Grey or brown discolouration on the cut edges.",
+   "A stale, cardboardy or off smell from the fat on the coating."
+  ],
+  "tips": [
+   "Cook from frozen and never crowd the tray; crowding steams them.",
+   "Press the air out and reseal after each use.",
+   "Squeeze the bag in the shop — a solid lump means the cold chain broke.",
+   "Buy the size of bag you will finish; every reopening costs quality."
+  ],
+  "faq": [
+   {
+    "q": "How long do frozen fries last?",
+    "a": "12 months from purchase at −18 °C (0 °F) for best quality. Kept continuously frozen they stay safe beyond that, but they freezer-burn and taste stale."
+   },
+   {
+    "q": "Can you refrigerate cooked frozen fries?",
+    "a": "It is not recommended. They go limp, turn waxy inside and do not crisp up again on reheating."
+   },
+   {
+    "q": "Should you thaw frozen fries before cooking?",
+    "a": "No. Cook them straight from frozen — thawed pieces absorb their own melting ice and fry greasy."
+   }
+  ]
+ },
+ "zh": {
+  "name": "冷凍馬鈴薯製品",
+  "aliases": [
+   "冷凍薯條",
+   "薯餅",
+   "薯球",
+   "冷凍薯格"
+  ],
+  "summary": "冷凍薯條、薯餅和薯球在 −18 °C 下自購買日起可保有最佳品質 12 個月。請保持冷凍並依指示烹調。煮好之後不建議改放冷藏，因為它會軟掉、而且再也酥不回來。",
+  "pantry": "沒有室溫保存這一項。它們是汆燙過、又半油炸過的馬鈴薯塊：一回溫，表面的澱粉就會把融出來的冰水吸進去，炸出來只會又油又軟，不會酥。安全面也有考量——熟馬鈴薯是低酸食品，任何擺在外面的都適用兩小時原則，超過 32 °C 只有一小時。要用多少拿多少，拿完立刻把袋子放回冷凍。",
+  "fridge": "煮好的薯類製品不建議改放冷藏，這裡也不給冷藏期限。品質損失既嚴重又明顯：外皮軟掉、裡面變得又密又蠟，回熱之後得到的是韌而不是酥。如果炸太多就吃掉，不要打算留著。生的冷凍薯塊在料理前也不該放冷藏解凍，因為它本來就是設計成從冷凍直接下熱油或進熱烤箱的。",
+  "freezer": "−18 °C 下自購買日起 12 個月品質最好。全程維持在 −18 °C 就一直是安全的——這個期限講的是品質，不是安全。出問題的是凍燒：乾白斑塊、邊緣發灰、吃起來有紙板味；另外整包半退冰過就會黏成一團。每次用完都把空氣壓掉、確實封好，並且放在冷凍櫃深處而不是門邊。",
+  "thawing": "不要解凍。從冷凍直接下熱油或進熱烤箱，並且單層攤開排好，才會酥而不是被自己蒸軟。在檯面上退冰過的整包不要再冷凍；在冷藏解凍、且維持在 4 °C 以下的可以再凍，但炸出來會軟爛。",
+  "spoilage": [
+   "整包凍成一大塊，表示曾經半退冰又再凍。",
+   "出現乾白、像紙的斑塊——那是凍燒。",
+   "切口邊緣發灰或轉褐。",
+   "外層的油聞起來走味、有紙板味或異味。"
+  ],
+  "tips": [
+   "從冷凍直接煮，而且不要把烤盤塞滿；塞滿只會互相蒸軟。",
+   "每次用完都壓出空氣重新封好。",
+   "在店裡捏一下袋子——已經結成硬塊表示冷鏈斷過。",
+   "買吃得完的包裝；每開一次就折損一次品質。"
+  ],
+  "faq": [
+   {
+    "q": "冷凍薯條可以放多久？",
+    "a": "−18 °C 下自購買日起 12 個月品質最好。只要沒退冰放更久仍然安全，但會凍燒、吃起來走味。"
+   },
+   {
+    "q": "炸好的薯條可以冰冷藏嗎？",
+    "a": "不建議。它會軟掉、裡面變蠟，回熱也酥不回來。"
+   },
+   {
+    "q": "冷凍薯條要先退冰嗎？",
+    "a": "不用。直接從冷凍下鍋——退冰過的會吸回自己融出的水，炸起來很油。"
+   }
+  ]
+ }
+}

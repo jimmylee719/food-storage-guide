@@ -1,0 +1,83 @@
+{
+ "slug": "stollen",
+ "en": {
+  "name": "Stollen",
+  "aliases": [
+   "Christstollen",
+   "Dresdner Stollen",
+   "German Christmas bread",
+   "德式聖誕麵包"
+  ],
+  "summary": "Stollen is built to keep: 2–3 months from purchase wrapped in foil in a cool dry place, and 2–3 weeks once you have cut into it. Do not refrigerate it. Frozen, 6–12 months from purchase at −18 °C (0 °F), and it freezes whole with no harm at all.",
+  "pantry": "2–3 months from purchase, wrapped in foil or in its sealed bag, in a cool dry place — a cold larder is far better than a warm kitchen. The baked loaf is brushed with a great deal of melted butter and then buried in caster and icing sugar, which sets into a shell that seals the surface against air and moisture, and the crumb itself is heavy with fat, sugar and soaked dried fruit. Sugar and fat bind and displace the water that mould would need; that, and not any additive, is why a festive bread keeps for months while a baguette keeps for hours. Traditionally it is baked well ahead and matured, and it genuinely improves over the first fortnight. Once cut, reckon on 2–3 weeks: press the two cut halves back together and wrap the whole loaf again rather than wrapping the open faces, which is the traditional method and works because the sugar crust is still doing its job everywhere except at the cut.",
+  "fridge": "Not the fridge. Cold stales the crumb — starch retrogradation runs fastest just above freezing — and it makes the sugar crust weep, because the loaf picks up condensation every time it comes out. Cool and dry is what stollen wants, and no refrigerated timeline is given here. If your kitchen is genuinely too warm, the freezer is the alternative, not the fridge.",
+  "freezer": "6–12 months from purchase at −18 °C (0 °F), whole and with no harm at all. Wrap it in foil and then in a bag, freeze it whole rather than in slices, and thaw it in the wrapper at room temperature so the condensation forms on the foil rather than on the sugar. Kept continuously frozen it stays safe well beyond that; the window describes quality — drying, ice crystals, freezer burn. These figures are borrowed from the published ones for fruit cake, the closest long-keeping festive bake; nobody publishes a stollen number.",
+  "thawing": "Thaw it whole, still wrapped, at room temperature, and only unwrap it once it has come fully up to temperature. Unwrapping a cold stollen in a warm room puts condensation straight onto the sugar crust and dissolves it.",
+  "spoilage": [
+   "A sugar crust gone wet, grey or patchy, which means it has been somewhere damp.",
+   "Fuzzy mould, most likely on a cut face that was left exposed.",
+   "A rancid or crayon-like smell from the butter.",
+   "A crumb that has dried right through and crumbles instead of slicing."
+  ],
+  "tips": [
+   "Wrap the whole loaf, not the cut faces — push the halves back together first.",
+   "Keep it somewhere genuinely cool; a warm kitchen shelf is the main enemy.",
+   "Buy it early; the first fortnight of maturing improves it.",
+   "Dust with more icing sugar after cutting if the crust has thinned."
+  ],
+  "faq": [
+   {
+    "q": "How long does stollen keep?",
+    "a": "2–3 months from purchase, wrapped, in a cool dry place. Once cut, 2–3 weeks if you press the halves together and wrap the whole loaf."
+   },
+   {
+    "q": "Can you freeze stollen?",
+    "a": "Yes, 6–12 months from purchase at −18 °C (0 °F). Freeze it whole in foil and thaw it in the wrapper at room temperature."
+   },
+   {
+    "q": "Why does stollen last so much longer than ordinary bread?",
+    "a": "Sugar and fat bind the water that mould needs, and the butter-and-sugar crust is a physical barrier against air and moisture. It is structure, not preservatives."
+   }
+  ]
+ },
+ "zh": {
+  "name": "德式聖誕麵包",
+  "aliases": [
+   "史多倫",
+   "耶誕水果麵包",
+   "史多倫麵包",
+   "stollen"
+  ],
+  "summary": "史多倫天生就是為了久放而做的：用鋁箔包好放在陰涼乾燥處，自購買日起可放 2～3 個月；切開之後則是 2～3 週。不要冷藏。冷凍的話 −18 °C 下自購買日起 6～12 個月，而且整條冷凍完全不會受傷。",
+  "pantry": "用鋁箔或原本的密封袋包好，放在陰涼乾燥的地方，自購買日起 2～3 個月——冷一點的儲藏室遠勝溫暖的廚房。出爐的麵包會刷上大量融化奶油，再整條埋進細砂糖和糖粉裡，凝成一層把表面對空氣和水氣封起來的殼；而麵包體本身又充滿油脂、糖和泡過酒的果乾。糖和油脂會把黴菌需要的水分綁住、擠掉——讓節慶麵包放得了好幾個月、而法棍只放得了幾小時的，是這個結構，不是任何添加物。傳統上它會提前很久烤好、放著熟成，而且頭兩個星期確實會變得更好吃。切開之後請抓 2～3 週：把兩個切半壓回去對貼，然後重新包整條，而不是只包切面——這是傳統做法，而且有效，因為除了切口之外，糖殼其他地方都還在工作。",
+  "fridge": "不要用冰箱。低溫會讓麵包體老化——澱粉回凝在略高於冰點時最快——而且會讓糖殼出水，因為它每次拿出來都會結露。史多倫要的是涼而乾，所以這裡不給冷藏期限。如果你的廚房真的太熱，替代方案是冷凍，不是冷藏。",
+  "freezer": "−18 °C 下自購買日起 6～12 個月，整條冷凍完全不會受傷。先用鋁箔包好再裝袋，整條冷凍不要切片，解凍時連著包裝在室溫回溫，讓水氣凝在鋁箔上而不是糖粉上。只要全程沒退冰，超過這段時間仍然安全；這個期限描述的是品質——變乾、冰晶和凍燒。這些數字是比照水果蛋糕（最接近的耐放節慶烘焙品）借來的；沒有人公布史多倫的數字。",
+  "thawing": "整條連著包裝在室溫解凍，等它完全回到室溫才拆開。在溫暖的房間裡拆開一條冰冷的史多倫，水氣會直接凝在糖殼上，把糖化掉。",
+  "spoilage": [
+   "糖殼變濕、變灰或斑駁，表示它待過潮濕的地方。",
+   "長出絨毛霉，最可能出現在露在外面的切面。",
+   "聞得到奶油的油耗味或蠟筆味。",
+   "麵包體整個乾透，一切就碎而不是切得成片。"
+  ],
+  "tips": [
+   "包整條，不要只包切面——先把兩半壓回去對貼。",
+   "放在真正涼的地方；溫暖的廚房層架是它最大的敵人。",
+   "早點買；頭兩個星期的熟成會讓它更好吃。",
+   "切開後如果糖殼變薄了，再補撒一層糖粉。"
+  ],
+  "faq": [
+   {
+    "q": "史多倫可以放多久？",
+    "a": "包好放陰涼乾燥處，自購買日起 2～3 個月。切開之後，把兩半壓回去、整條重新包好的話是 2～3 週。"
+   },
+   {
+    "q": "史多倫可以冷凍嗎？",
+    "a": "可以，−18 °C 下自購買日起 6～12 個月。用鋁箔整條包好冷凍，解凍時連著包裝在室溫回溫。"
+   },
+   {
+    "q": "史多倫為什麼比一般麵包耐放那麼多？",
+    "a": "糖和油脂把黴菌需要的水分綁住了，而奶油加糖的外殼是一道實體屏障，擋住空氣和水氣。靠的是結構，不是防腐劑。"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "tortillas-corn-fresh",
+ "en": {
+  "name": "Corn tortillas, fresh",
+  "aliases": [
+   "fresh tortillas",
+   "tortillería tortillas",
+   "nixtamal tortillas",
+   "玉米薄餅"
+  ],
+  "summary": "Fresh tortillas straight from a tortillería keep 1–2 days at room temperature, 5–7 days in the fridge at 4 °C (40 °F) or below, and 2–3 months at −18 °C (0 °F). These are not the same food as a sealed supermarket packet, which contains preservatives and carries a far longer printed date.",
+  "pantry": "1–2 days, and really they are for the day you buy them. A warm stack straight from the tortillería is a moist cooked starch, and it moulds fast in a closed bag. Keep it wrapped in a cloth inside a tortillero for that first day; by the second they are stiff and better toasted than eaten soft. Never leave a warm stack sealed in plastic on the counter — the steam has nowhere to go and you get a wet, sour stack by morning. The two-hour rule applies to a stack that has been filled or dressed.",
+  "fridge": "5–7 days at 4 °C (40 °F) or below, bagged airtight once they are cool. They come out of the fridge brittle and crack when folded, which is normal and reversible: steam them for a few seconds, or press them onto a dry comal, and they come back soft. Blue-green or white fuzz means the whole stack goes, not just the affected tortilla. These figures are general cooked-dish numbers stretched slightly for a low-moisture griddled flatbread, so treat them as best-quality guidance rather than as a safety limit.",
+  "freezer": "2–3 months at −18 °C (0 °F) for best quality. Interleave them with baking paper so you can pull off two at a time, then double-bag with the air pressed out. Reheat straight from frozen on a comal, or thaw the bag in the fridge first. Kept continuously frozen they stay safe well past that window — what runs out is quality, as they dry, crack and pick up freezer burn.",
+  "thawing": "Reheat straight from frozen on a hot dry comal, which is both quickest and best. If you need a whole stack soft at once, thaw it in the bag in the fridge, never on the counter.",
+  "spoilage": [
+   "Blue-green or white fuzzy mould anywhere in the stack — discard all of them.",
+   "A sour or fermented smell when the cloth or bag is opened.",
+   "A slimy or tacky surface between tortillas.",
+   "Dry, cracked edges and a stack that shatters rather than folding, even after steaming."
+  ],
+  "tips": [
+   "Let a hot stack cool before it goes into a bag; steam is what turns it sour.",
+   "Interleave with paper before freezing so you can take two at a time.",
+   "Reheat on a dry comal, not in a microwave, for texture that actually comes back.",
+   "A sealed supermarket packet is a different product with a printed date; do not apply these numbers to it."
+  ],
+  "faq": [
+   {
+    "q": "How long do fresh corn tortillas last?",
+    "a": "1–2 days at room temperature, 5–7 days refrigerated at 4 °C (40 °F) or below, or 2–3 months frozen at −18 °C (0 °F)."
+   },
+   {
+    "q": "Can you freeze corn tortillas?",
+    "a": "Yes, 2–3 months at −18 °C (0 °F). Interleave with paper, double-bag, and reheat straight from frozen on a comal."
+   },
+   {
+    "q": "Why do refrigerated tortillas crack when I fold them?",
+    "a": "Cold makes the starch firm up. Steam them for a few seconds or press them on a dry comal and they become pliable again."
+   }
+  ]
+ },
+ "zh": {
+  "name": "新鮮玉米薄餅",
+  "aliases": [
+   "墨西哥玉米薄餅",
+   "玉米餅",
+   "現做薄餅",
+   "tortillas de maíz"
+  ],
+  "summary": "從店裡現做拿回來的玉米薄餅，放室溫可放 1～2 天，4 °C 以下冷藏 5～7 天，−18 °C 冷凍 2～3 個月。它和超市那種密封包裝不是同一種東西——後者含防腐劑，印製日期也長得多。",
+  "pantry": "1～2 天，而且說真的它就是買回來那天的食物。剛出爐、還溫熱的一疊是含水的熟澱粉，密封在袋子裡長霉很快。第一天請用布包好放在保溫籃裡；到了第二天它就變硬了，與其軟著吃不如拿去烤。絕對不要把還溫熱的一疊密封在塑膠袋裡放檯面上——蒸氣無處可去，隔天早上就會得到一疊又濕又酸的餅。已經夾好餡或淋了醬的那疊，適用兩小時原則。",
+  "fridge": "放涼後密封裝袋，4 °C 以下 5～7 天。從冰箱拿出來時它們會又脆又硬、一折就裂，這是正常的、也救得回來：蒸幾秒鐘，或壓在乾的鐵板上加熱，就會重新變軟。只要出現藍綠色或白色絨毛，整疊都要丟，不是只丟那一張。這些數字是把一般熟食的期限，針對低含水的鐵板薄餅稍微放寬而來，所以請當成最佳品質的參考，不是安全上限。",
+  "freezer": "−18 °C 下 2～3 個月品質最好。每張之間夾烘焙紙，才能一次撕兩張下來，然後套兩層袋、壓出空氣。要吃時直接從冷凍放上熱鐵板，或先連袋放冷藏解凍。只要全程沒退冰，超過這個期限仍然安全——先用完的是品質：它會變乾、龜裂、出現凍燒。",
+  "thawing": "直接從冷凍放上乾熱鐵板回熱，這樣最快也最好。真的需要一整疊同時變軟，就連袋放冷藏解凍，絕對不要放在檯面上。",
+  "spoilage": [
+   "整疊裡任何一處出現藍綠色或白色絨毛霉，全部丟掉。",
+   "打開布巾或袋子聞到發酸、發酵的味道。",
+   "餅與餅之間變得黏滑或黏手。",
+   "邊緣乾裂，整疊一碰就碎，蒸過也回不來。"
+  ],
+  "tips": [
+   "熱的一疊要放涼再裝袋；讓它發酸的就是那些蒸氣。",
+   "冷凍前每張之間夾紙，之後可以一次拿兩張。",
+   "回熱用乾鐵板不要微波，口感才真的回得來。",
+   "超市的密封包裝是另一種產品、有自己的印製日期，別把這裡的數字套上去。"
+  ],
+  "faq": [
+   {
+    "q": "新鮮玉米薄餅可以放多久？",
+    "a": "室溫 1～2 天，4 °C 以下冷藏 5～7 天，或 −18 °C 冷凍 2～3 個月。"
+   },
+   {
+    "q": "玉米薄餅可以冷凍嗎？",
+    "a": "可以，−18 °C 下 2～3 個月。夾紙、套兩層袋，要吃時直接從冷凍上鐵板。"
+   },
+   {
+    "q": "冰過的玉米薄餅為什麼一折就裂？",
+    "a": "低溫讓澱粉變硬了。蒸幾秒或壓在乾熱鐵板上加熱，它就會重新變軟。"
+   }
+  ]
+ }
+}

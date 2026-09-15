@@ -1,0 +1,83 @@
+{
+ "slug": "dried-tofu",
+ "en": {
+  "name": "Dried tofu (pressed bean curd)",
+  "aliases": [
+   "doufu gan",
+   "pressed tofu",
+   "豆干",
+   "豆乾"
+  ],
+  "summary": "Despite the name, 豆干 is not a dry food — it is pressed, still-moist bean curd and spoils like fresh tofu. Keep it at 4 °C (40 °F) or below for 5–7 days, or freeze it for 3–5 months at −18 °C (0 °F). Both figures are read across from tofu; no agency publishes one for 豆干.",
+  "pantry": "Not a room-temperature food, whatever the name suggests. Pressed bean curd has had water squeezed out of it, but it is still a moist, low-acid, high-protein soy product, and fresh soy products are among the most perishable things in a Taiwanese market. Anything left out is in the danger zone of 4–60 °C (40–140 °F) and follows the two-hour rule, one hour if the kitchen is above 32 °C (90 °F). Buy it from a chilled counter and get it home cold.",
+  "fridge": "5–7 days at 4 °C (40 °F) or below, sealed, and go by the printed date when there is one — it should win over any general figure. This range sits between the published figure for plain tofu and the roughly one week that the Japanese tofu-products guidance gives pressed and fried bean-curd products. Marinated and braised versions — 滷豆干, 五香豆干 — go slimy on the surface first, which is the warning sign to watch for: discard at the first sour smell rather than rinsing it off and hoping.",
+  "freezer": "3–5 months at −18 °C (0 °F), and 豆干 freezes better than fresh tofu because it holds much less water, so there is less ice to rupture the curd. Slice or shred it before freezing, both because a frozen block is hard to cut and because thin pieces thaw evenly. Kept continuously frozen it stays safe well beyond that window; the limit is drying, freezer burn and a firmer, chewier texture on thawing.",
+  "thawing": "Thaw in the fridge, or add shredded pieces straight to a hot pan or a simmering braise from frozen. Never thaw on the counter. Pieces thawed in the fridge and still at or below 4 °C (40 °F) may be refrozen with some quality loss.",
+  "spoilage": [
+   "A sour or fermented smell, which is decisive — do not rinse and use it anyway.",
+   "A slimy or sticky film on the surface, especially on marinated types.",
+   "Cloudy or ropy liquid in the pack.",
+   "Any mould, or a pink or grey discolouration."
+  ],
+  "tips": [
+   "Buy it chilled and keep it chilled; the name is misleading.",
+   "Go by the printed date over any general figure.",
+   "Slice or shred before freezing so it thaws evenly and cuts cleanly.",
+   "Marinated 豆干 spoils sooner than plain — the braising liquid adds sugar and moisture."
+  ],
+  "faq": [
+   {
+    "q": "How long does 豆干 keep?",
+    "a": "5–7 days in the fridge at 4 °C (40 °F) or below, or 3–5 months in the freezer at −18 °C (0 °F). Go by the printed date when there is one."
+   },
+   {
+    "q": "Is dried tofu shelf-stable?",
+    "a": "No. Despite the name it is pressed, still-moist bean curd and spoils like fresh tofu. It belongs in the fridge."
+   },
+   {
+    "q": "Can you freeze 豆干?",
+    "a": "Yes, 3–5 months at −18 °C (0 °F), and it freezes better than fresh tofu because it holds less water. Slice or shred it first."
+   }
+  ]
+ },
+ "zh": {
+  "name": "豆干",
+  "aliases": [
+   "豆乾",
+   "滷豆干",
+   "五香豆干",
+   "白豆干"
+  ],
+  "summary": "名字雖然有個「干」，豆干並不是乾貨——它是壓過水、仍然濕潤的豆製品，壞起來和嫩豆腐一樣。請放 4 °C 以下 5～7 天，或 −18 °C 冷凍 3～5 個月。這兩個數字都是比照豆腐而來；沒有機關為豆干公布期限。",
+  "pantry": "不管名字怎麼寫，它都不是常溫食品。豆干只是把水壓掉了一部分，本質上仍是含水量高、低酸、高蛋白的黃豆製品，而新鮮黃豆製品是台灣市場裡最容易壞的東西之一。擺在外面的就在 4～60 °C 的危險溫度帶裡，適用兩小時原則，廚房超過 32 °C 時只有一小時。請在冷藏櫃買，並且低溫帶回家。",
+  "fridge": "密封放 4 °C 以下 5～7 天；包裝上有印製日期就以日期為準，那應該勝過任何通用數字。這個區間介於公布的嫩豆腐期限，和日本豆腐製品指引給壓製與油炸豆製品的「約一週」之間。滷過、五香的那些會先從表面發黏，那就是要注意的警訊：一聞到酸味就丟掉，不要沖一沖就繼續用。",
+  "freezer": "−18 °C 下 3～5 個月；豆干比嫩豆腐耐凍，因為它含水少得多，能撐破凝乳結構的冰也少。冷凍前先切片或切絲，一來凍硬的整塊很難切，二來薄片解凍得比較均勻。只要全程沒退冰，超過這段時間仍然安全；限制它的是變乾、凍燒，以及解凍後變得更緊實、更有嚼勁的口感。",
+  "thawing": "放冷藏解凍，或把切絲的直接從冷凍下熱鍋、丟進滷鍋裡。絕對不要在檯面上解凍。在冷藏解凍、且維持在 4 °C 以下的可以再冷凍，只是品質打折。",
+  "spoilage": [
+   "聞到酸味或發酵味，這是決定性的——不要沖一沖就將就用。",
+   "表面出現黏滑的膜，滷製品尤其明顯。",
+   "包裝裡的湯汁變濁或可以牽絲。",
+   "出現任何霉，或轉成粉紅、灰色。"
+  ],
+  "tips": [
+   "在冷藏櫃買、全程保持低溫；這個名字會騙人。",
+   "有印製日期就以日期為準，不要只看通用數字。",
+   "冷凍前先切片或切絲，解凍均勻也好切。",
+   "滷豆干比白豆干更快壞——滷汁帶進了糖和水分。"
+  ],
+  "faq": [
+   {
+    "q": "豆干可以放多久？",
+    "a": "4 °C 以下冷藏 5～7 天，或 −18 °C 冷凍 3～5 個月。包裝上有日期就以日期為準。"
+   },
+   {
+    "q": "豆干可以放常溫嗎？",
+    "a": "不行。名字雖然叫「干」，它其實是壓過水、仍然濕潤的豆製品，壞起來和嫩豆腐一樣，該放冰箱。"
+   },
+   {
+    "q": "豆干可以冷凍嗎？",
+    "a": "可以，−18 °C 下 3～5 個月，而且比嫩豆腐耐凍，因為含水量低。先切片或切絲再冷凍。"
+   }
+  ]
+ }
+}

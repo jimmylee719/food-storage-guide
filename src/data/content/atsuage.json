@@ -1,0 +1,83 @@
+{
+ "slug": "atsuage",
+ "en": {
+  "name": "Atsuage",
+  "aliases": [
+   "thick fried tofu",
+   "namaage",
+   "厚揚げ",
+   "生揚げ"
+  ],
+  "summary": "Atsuage keeps 5–7 days refrigerated and 1–2 months in the freezer at −18 °C (0 °F). The Japanese tofu-products manufacturing guidance gives it roughly one week at 10 °C or below and stresses that it must go into the fridge promptly after frying, because inside the fried crust it is still plain tofu.",
+  "pantry": "Not a room-temperature food, and the reason is worth understanding: the frying only sets a crust. The centre of a block of atsuage is ordinary tofu — moist, low-acid, high in protein — and it is as perishable as the tofu it was cut from. It must be chilled promptly after frying and kept chilled, and anything left out follows the two-hour rule, one hour if the kitchen is above 32 °C (90 °F).",
+  "fridge": "5–7 days at 4 °C (40 °F) or below, in its pack or a sealed box, and to the printed date if that comes sooner. A home fridge is colder than the 10 °C the manufacturing guidance requires, which is a margin in your favour rather than a licence to stretch the days. Once opened, keep the block covered in a box: the fried surface takes up fridge odours, and the exposed cut face dries and darkens. If the block is sitting in liquid, drain it rather than letting it soak.",
+  "freezer": "1–2 months at −18 °C (0 °F), wrapped and bagged with the air pressed out. Be clear about what freezing does: the tofu core turns spongy on thawing, because the ice crystals rupture the curd and the water drains out. That is fine, even desirable, for simmered dishes, hot pots and braises, where the spongy texture soaks up the broth — but it is poor for grilling or for anything where you want the original silky centre. Kept continuously frozen it stays safe well past the window; the limit is the fried surface going rancid.",
+  "thawing": "Thaw in the fridge, or simmer straight from frozen in a broth. Never thaw on the counter. Atsuage thawed in the fridge and still at or below 4 °C (40 °F) may be refrozen, though the texture will suffer twice over.",
+  "spoilage": [
+   "A sour or fermented smell when the pack is opened.",
+   "A slimy or sticky surface on the block.",
+   "A stale, crayon-like smell from the fried crust, which is the oil going rancid.",
+   "Cloudy, ropy liquid in the pack, or any mould."
+  ],
+  "tips": [
+   "Pour boiling water over it before cooking to strip surface oil and freshen the taste.",
+   "Cut it into the pieces you will use before freezing; a frozen block is hard to cut.",
+   "Freeze it for hot pots and braises, not for grilling.",
+   "Buy from the chilled cabinet and get it home cold."
+  ],
+  "faq": [
+   {
+    "q": "How long does atsuage keep?",
+    "a": "5–7 days refrigerated at 4 °C (40 °F) or below, or to the printed date if sooner. Frozen, 1–2 months at −18 °C (0 °F)."
+   },
+   {
+    "q": "Can you freeze atsuage?",
+    "a": "Yes, 1–2 months at −18 °C (0 °F), but the tofu core turns spongy on thawing. That suits simmered dishes and hot pots, and does not suit grilling."
+   },
+   {
+    "q": "Is atsuage less perishable than plain tofu because it is fried?",
+    "a": "No. The frying only sets a crust — inside it is still plain tofu, which is why it must be refrigerated promptly and treated as a fresh product."
+   }
+  ]
+ },
+ "zh": {
+  "name": "厚炸豆腐",
+  "aliases": [
+   "厚揚げ",
+   "生揚げ",
+   "日式厚豆腐",
+   "atsuage"
+  ],
+  "summary": "厚炸豆腐冷藏可放 5～7 天，−18 °C 冷凍是 1～2 個月。日本的豆腐製品製造指引給它 10 °C 以下約一週，並強調炸好之後必須盡快進冷藏，因為那層炸皮底下仍然是普通豆腐。",
+  "pantry": "這不是常溫食品，而且原因值得搞清楚：油炸只定住了外面那層皮。一塊厚炸豆腐的中心就是普通豆腐——含水量高、低酸、高蛋白——它和被切下來的那塊豆腐一樣易腐。炸好要盡快冷藏、全程冷藏；擺在外面的適用兩小時原則，廚房超過 32 °C 時只有一小時。",
+  "fridge": "放 4 °C 以下 5～7 天，連原包裝或裝密封盒；若印製日期更早，以日期為準。家用冰箱比製造指引要求的 10 °C 更冷，那是替你多留的餘裕，不是可以把天數往後拉的理由。拆封後請裝盒蓋好：炸面很會吸冰箱的味道，露出來的切面則會變乾變深。如果整塊泡在液體裡，請瀝掉，不要讓它一直泡著。",
+  "freezer": "−18 °C 下 1～2 個月，包好、壓出空氣裝袋。請先搞清楚冷凍會做什麼：解凍之後豆腐芯會變成海綿狀，因為冰晶撐破了凝乳結構、水分流掉了。對燉煮、火鍋和滷菜來說這完全沒問題，甚至更好，因為海綿狀最會吸湯汁——但如果你要的是原本細滑的中心、或要拿去烤，那就很糟。只要全程沒退冰，超過這段時間仍然安全；限制它的是炸面油耗。",
+  "thawing": "放冷藏解凍，或直接從冷凍丟進湯裡燉。絕對不要在檯面上解凍。在冷藏解凍、且維持在 4 °C 以下的可以再冷凍，只是口感會被折損兩次。",
+  "spoilage": [
+   "打開包裝聞到酸味或發酵味。",
+   "表面變得黏滑或黏手。",
+   "炸皮聞起來陳、有蠟筆味，那是油脂油耗了。",
+   "包裝裡的液體變濁、可以牽絲，或出現任何霉。"
+  ],
+  "tips": [
+   "下鍋前用滾水淋過，沖掉表面的油、讓味道乾淨一些。",
+   "冷凍前先切成要用的大小；凍硬的整塊很難切。",
+   "冷凍的拿去燉煮或煮火鍋，不要拿去烤。",
+   "在冷藏櫃買，並且盡快低溫帶回家。"
+  ],
+  "faq": [
+   {
+    "q": "厚炸豆腐可以放多久？",
+    "a": "4 °C 以下冷藏 5～7 天，或以更早的印製日期為準。冷凍則是 −18 °C 下 1～2 個月。"
+   },
+   {
+    "q": "厚炸豆腐可以冷凍嗎？",
+    "a": "可以，−18 °C 下 1～2 個月，但解凍後豆腐芯會變海綿狀。那適合燉煮和火鍋，不適合燒烤。"
+   },
+   {
+    "q": "炸過的厚豆腐是不是比較不容易壞？",
+    "a": "不是。油炸只定住了外皮，裡面還是普通豆腐；所以它必須盡快冷藏，並當成新鮮食品來看待。"
+   }
+  ]
+ }
+}

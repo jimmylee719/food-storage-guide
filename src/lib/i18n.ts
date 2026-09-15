@@ -113,6 +113,7 @@ type Dict = {
   dataOnlyNote: string;
   skipToContent: string;
   analogNote: (analog: string) => string;
+  correctionNote: string;
 };
 
 const zh: Dict = {
@@ -210,6 +211,7 @@ const zh: Dict = {
   dataOnlyNote: '這項食材的完整保存說明還在撰寫中。上方的期限直接來自本站的保存資料庫，出處列在頁面下方，與其他食材使用同一套標準。',
   skipToContent: '跳到主要內容',
   analogNote: (analog) => `本頁的期限沒有官方單獨公布的數字，是比照「${analog}」這項性質相近的食材推估的，僅供參考，不是官方公布的期限。`,
+  correctionNote: '本頁修正了原始資料集的一處欄位錯置。修正的理由與依據如下，原始數字與我們的判斷都公開，你可以自行核對。',
 };
 
 const en: Dict = {
@@ -307,6 +309,7 @@ const en: Dict = {
   dataOnlyNote: 'The full write-up for this food is still being written. The times above come straight from our storage database, are sourced at the foot of the page, and follow the same standard as every other food here.',
   skipToContent: 'Skip to content',
   analogNote: (analog) => `No authority publishes a figure for this food, so the times above are taken from ${analog}, the closest comparable food. Treat them as a working guide rather than a published limit.`,
+  correctionNote: 'One figure in the source dataset was filed under the wrong storage method, and this page corrects it. The reason and the evidence are given below, so you can judge the change yourself.',
 };
 
 const ja: Dict = {
@@ -404,6 +407,7 @@ const ja: Dict = {
   dataOnlyNote: 'この食材の詳しい解説は現在執筆中です。上の期間は当サイトの保存データベースの数値をそのまま示したもので、出典はページ下部に記載しています。基準は他の食材と同じです。',
   skipToContent: '本文へスキップ',
   analogNote: (analog) => `この食材については公的な数値が公表されていないため、性質の近い「${analog}」の期間を当てはめています。公表された期限ではなく、目安としてお使いください。`,
+  correctionNote: '元データの一項目が誤った保存方法の欄に入っていたため、本ページで修正しています。理由と根拠は以下のとおりです。',
 };
 
 const es: Dict = {
@@ -501,6 +505,7 @@ const es: Dict = {
   dataOnlyNote: 'La ficha completa de este alimento aún se está redactando. Los tiempos de arriba salen directamente de nuestra base de datos, tienen su fuente al pie de la página y siguen el mismo criterio que el resto del sitio.',
   skipToContent: 'Saltar al contenido',
   analogNote: (analog) => `Ningún organismo publica una cifra para este alimento, así que los tiempos proceden de ${analog}, el alimento comparable más cercano. Tómelos como orientación, no como un límite publicado.`,
+  correctionNote: 'Una cifra del conjunto de datos de origen estaba en la columna equivocada y esta página la corrige. Abajo están el motivo y la evidencia.',
 };
 
 const DICTS: Record<AnyLocale, Dict> = { zh, en, ja, es };

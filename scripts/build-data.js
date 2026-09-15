@@ -29,6 +29,14 @@ const replaced = new Set(readJson(D('base', 'split-replaces.json'), []));
 for (const e of extra) for (const s of e.supersedes || []) replaced.add(s);
 const all = [...base.filter((f) => !replaced.has(f.slug)), ...split, ...extra];
 
+// Corrections to the source dataset. FoodKeeper is public domain and mostly
+// excellent, but it has a handful of mis-slotted figures. Rather than silently
+// editing the converted data — which would make the conversion irreproducible —
+// each correction is recorded here with its reason and its evidence, applied at
+// build time, and shown on the page so a reader can judge it.
+const corrections = readJson(D('base', 'corrections.json'), []);
+const correctionBySlug = new Map(corrections.map((c) => [c.slug, c]));
+
 const contentDir = D('content');
 const contentFiles = fs.existsSync(contentDir) ? fs.readdirSync(contentDir).filter((f) => f.endsWith('.json')) : [];
 const content = new Map();
@@ -48,7 +56,9 @@ const guides = guideFiles.map((f) => readJson(path.join(guidesDir, f), null)).fi
 
 // ---- foods -------------------------------------------------------------
 const foods = [];
-for (const item of all) {
+for (const raw of all) {
+  const correction = correctionBySlug.get(raw.slug) || null;
+  const item = correction ? { ...raw, storage: correction.storage } : raw;
   const c = content.get(item.slug) || null;
   const names = {};
   const aliases = {};
@@ -64,6 +74,7 @@ for (const item of all) {
     source: item.source,
     sourceRefs: item.sources || null,
     analog: item.analog || null,
+    correction: correction ? { reason: correction.reason, evidence: correction.evidence } : null, // per-locale prose
     derivedFrom: item.derivedFrom || null,
     derivedFromName: item.derivedFromName || null,
     baseName: item.name,

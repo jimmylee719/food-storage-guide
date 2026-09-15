@@ -1,0 +1,83 @@
+{
+ "slug": "juice-concentrates",
+ "en": {
+  "name": "Juice concentrates, frozen",
+  "aliases": [
+   "frozen orange juice concentrate",
+   "concentrated juice",
+   "濃縮果汁",
+   "冷凍濃縮果汁"
+  ],
+  "summary": "Frozen juice concentrate keeps 2 years from purchase at −18 °C (0 °F) for best quality — an unusually long window, because the water has been removed and the sugar concentrated, which leaves very little for microbes to work with. Kept continuously frozen it stays safe beyond that.",
+  "pantry": "No room-temperature storage for the frozen product. A can left out thaws into a thick, very sweet syrup that will ferment in a warm kitchen, and juice is one of the foods where you can smell that happening: it goes fizzy and alcoholic. Get it into the freezer as soon as you are home, and do not leave a can out to soften before mixing — run it under cold water instead.",
+  "fridge": "No refrigerated timeline is given for frozen concentrate itself. What you keep in the fridge is the juice after it is reconstituted, and that follows the rule for any opened juice: at 4 °C (40 °F) or below, in a closed jug, and use it within the days the pack states. Mix only as much as you will drink; the whole advantage of concentrate is that the rest stays frozen. A can that has thawed in the fridge and is still cold can be mixed immediately or refrozen, with some loss of flavour.",
+  "freezer": "2 years from purchase at −18 °C (0 °F) for best quality. Kept continuously at −18 °C it stays safe indefinitely, and what runs out is aroma: citrus concentrate in particular loses the volatile top notes that make it taste like fresh fruit, and an old can tastes flat and faintly cooked. Keep the can upright, and keep it away from the freezer door, because repeated part-thawing lets the sugars separate and the concentrate sets into an uneven, syrupy mass.",
+  "thawing": "Thaw in the fridge, or run the sealed can under cold water for a few minutes. Never on the counter or in hot water. Once mixed, treat it as fresh juice and keep it cold.",
+  "spoilage": [
+   "A fizzy or alcoholic smell, meaning it thawed and fermented.",
+   "A bulging or leaking can, which goes straight in the bin.",
+   "A flat, cooked or cardboardy taste — the aroma compounds have gone.",
+   "Separation into a watery layer and a dense syrup that will not remix."
+  ],
+  "tips": [
+   "Mix only what you will drink; keep the rest frozen.",
+   "Thaw the sealed can under cold running water rather than on the counter.",
+   "Keep cans upright and away from the freezer door.",
+   "Once reconstituted, it is ordinary juice — keep it cold and use it within a few days."
+  ],
+  "faq": [
+   {
+    "q": "How long does frozen juice concentrate last?",
+    "a": "2 years from purchase at −18 °C (0 °F) for best quality. Kept continuously frozen it stays safe beyond that, but the aroma fades."
+   },
+   {
+    "q": "How do you thaw juice concentrate?",
+    "a": "In the fridge, or by running the sealed can under cold water. Never on the counter or in hot water."
+   },
+   {
+    "q": "How long does reconstituted juice keep?",
+    "a": "Treat it as ordinary opened juice: keep it at 4 °C (40 °F) or below in a closed jug and drink it within the days the pack states."
+   }
+  ]
+ },
+ "zh": {
+  "name": "冷凍濃縮果汁",
+  "aliases": [
+   "濃縮果汁",
+   "濃縮柳橙汁",
+   "冷凍果汁磚",
+   "juice concentrate"
+  ],
+  "summary": "冷凍濃縮果汁在 −18 °C 下自購買日起可保有最佳品質 2 年——這個期限異常地長，因為水分被抽掉、糖被濃縮，微生物幾乎沒有東西可用。只要全程沒退冰，超過這段時間仍然安全。",
+  "pantry": "冷凍品沒有室溫保存這一項。一罐擺在外面的濃縮汁會化成濃稠又很甜的糖漿，在溫暖的廚房裡會發酵，而果汁正好是那種你聞得出來的食物：它會變得帶氣泡、有酒精味。買回家請立刻進冷凍，也不要為了好調就先把罐子放在外面回軟——請改用冷水沖。",
+  "fridge": "冷凍濃縮汁本身沒有給冷藏期限。放冷藏的是「調好之後」的果汁，而那就遵守所有開封果汁的規則：4 °C 以下、加蓋的壺裡，在包裝標示的天數內喝完。要喝多少調多少；濃縮汁的全部好處，就在於其餘的還留在冷凍裡。一罐在冷藏解凍、而且還是冰的，可以馬上調開，也可以再冷凍，只是風味會損失一些。",
+  "freezer": "−18 °C 下自購買日起 2 年品質最好。全程維持在 −18 °C 就一直是安全的，先用完的是香氣：柑橘類濃縮汁尤其會失去那些讓它嚐起來像新鮮水果的揮發性前段香，一罐放久的喝起來會扁平、還帶點煮過的味道。請把罐子直立擺放，並遠離冷凍櫃門，因為反覆半退冰會讓糖分分離，濃縮汁凝成不均勻的糖漿塊。",
+  "thawing": "放冷藏解凍，或把未開封的罐子放在冷水下沖幾分鐘。絕對不要放檯面或泡熱水。調開之後就當成新鮮果汁，保持低溫。",
+  "spoilage": [
+   "聞起來帶氣泡或有酒精味，表示它解凍過並發酵了。",
+   "罐子鼓脹或滲漏，直接丟掉。",
+   "喝起來扁平、有煮過味或紙板味——香氣成分已經跑光。",
+   "分成水層和濃稠糖漿層，怎麼搖都混不回去。"
+  ],
+  "tips": [
+   "要喝多少調多少，其餘留在冷凍。",
+   "未開封的罐子用流動冷水解凍，不要放檯面。",
+   "罐子直立擺放，遠離冷凍櫃門。",
+   "調好之後它就是普通果汁——要冰、要在幾天內喝完。"
+  ],
+  "faq": [
+   {
+    "q": "冷凍濃縮果汁可以放多久？",
+    "a": "−18 °C 下自購買日起 2 年品質最好。只要沒退冰放更久仍然安全，但香氣會褪掉。"
+   },
+   {
+    "q": "濃縮果汁要怎麼解凍？",
+    "a": "放冷藏，或把未開封的罐子放在流動冷水下沖。絕對不要放檯面或泡熱水。"
+   },
+   {
+    "q": "調好的果汁可以放多久？",
+    "a": "當成一般開封果汁看待：4 °C 以下、加蓋的壺裡，在包裝標示的天數內喝完。"
+   }
+  ]
+ }
+}

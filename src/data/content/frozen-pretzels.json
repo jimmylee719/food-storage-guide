@@ -1,0 +1,83 @@
+{
+ "slug": "frozen-pretzels",
+ "en": {
+  "name": "Frozen pretzels",
+  "aliases": [
+   "frozen soft pretzels",
+   "pretzel dough",
+   "冷凍扭結麵包",
+   "冷凍鹼水結"
+  ],
+  "summary": "Frozen pretzels keep 9 months from purchase at −18 °C (0 °F) for best quality. Keep them frozen and bake as directed. Once baked, they keep 3–4 days in the fridge at 4 °C (40 °F) or below.",
+  "pantry": "No room-temperature storage for the frozen product. Do not leave a bag out to soften before baking: a partly thawed pretzel bakes pale and dense, the coarse salt dissolves into wet patches, and a dough-based product sitting out is in the danger zone of 4–60 °C (40–140 °F) with the two-hour rule applying — one hour above 32 °C (90 °F). A baked pretzel is a same-day food on the counter, and is best eaten within a couple of hours while the skin is still crisp.",
+  "fridge": "3–4 days at 4 °C (40 °F) or below, and note that this is the figure for storage after cooking, not for the frozen pretzel itself. Refrigeration will stale a baked pretzel faster than the counter does, because starch retrogradation runs fastest just above freezing — but it holds off mould, which is the thing that actually finishes a baked pretzel in a warm humid kitchen, and since you will reheat it in an oven anyway, the staling is largely undone by the heat. Do not thaw frozen pretzels in the fridge before baking; they go into the oven frozen.",
+  "freezer": "9 months from purchase at −18 °C (0 °F) for best quality. Kept continuously at −18 °C they stay safe indefinitely; the window describes drying, ice crystals and freezer burn rather than safety. Keep the bag sealed with the air pressed out and away from the freezer door, and do not buy a pack whose pretzels are welded into a lump — that means the cold chain broke at some point. Salt sachets, if the pack has them, go on after baking, never before freezing.",
+  "thawing": "Do not thaw. Bake straight from frozen exactly as the pack directs. A pack thawed in the fridge and still at or below 4 °C (40 °F) may be refrozen with some quality loss; one thawed on the counter should be baked at once rather than refrozen.",
+  "spoilage": [
+   "Dry white patches or a chalky surface — freezer burn.",
+   "Pretzels welded together or heavy ice in the bag, meaning it part-thawed and refroze.",
+   "A stale, cardboardy smell that survives baking.",
+   "Mould on a baked pretzel that has been kept too long."
+  ],
+  "tips": [
+   "Bake from frozen; a partly thawed pretzel bakes pale and dense.",
+   "Add the salt after baking, not before.",
+   "Press the air out and reseal the bag each time.",
+   "Reheat a day-old baked pretzel in an oven, never a microwave."
+  ],
+  "faq": [
+   {
+    "q": "How long do frozen pretzels last?",
+    "a": "9 months from purchase at −18 °C (0 °F) for best quality. Kept continuously frozen they stay safe beyond that, but they dry and freezer-burn."
+   },
+   {
+    "q": "Do you thaw frozen pretzels before baking?",
+    "a": "No. Bake them straight from frozen as the pack directs; a partly thawed one bakes pale and dense."
+   },
+   {
+    "q": "How long do baked pretzels keep in the fridge?",
+    "a": "3–4 days at 4 °C (40 °F) or below. Reheat them in an oven, which undoes most of the staling the fridge causes."
+   }
+  ]
+ },
+ "zh": {
+  "name": "冷凍扭結麵包",
+  "aliases": [
+   "冷凍鹼水結",
+   "冷凍扭結餅",
+   "冷凍布雷結",
+   "frozen pretzel"
+  ],
+  "summary": "冷凍扭結麵包在 −18 °C 下自購買日起可保有最佳品質 9 個月。請保持冷凍並依指示烘烤。烤好之後放 4 °C 以下冷藏可放 3～4 天。",
+  "pantry": "冷凍品沒有室溫保存這一項。不要為了好烤先把整袋放在外面回軟：半退冰的鹼水結烤起來顏色淡、組織密，表面的粗鹽也會化成濕斑；而麵團類製品擺在外面就落在 4～60 °C 的危險溫度帶裡，適用兩小時原則，超過 32 °C 只有一小時。烤好的鹼水結在檯面上是當天的食物，最好在幾小時內、外皮還脆的時候吃掉。",
+  "fridge": "放 4 °C 以下 3～4 天，而且請注意這是「烤好之後」的數字，不是冷凍品本身的期限。冷藏會讓烤好的鹼水結比放檯面更快老化，因為澱粉回凝在略高於冰點時最快——但冷藏擋得住霉，而在又熱又濕的廚房裡，霉才是真正結束它的東西；既然你反正要用烤箱回熱，那份老化大半會被熱抵消掉。烘烤前不要把冷凍鹼水結放冷藏解凍，它該冷凍直接進烤箱。",
+  "freezer": "−18 °C 下自購買日起 9 個月品質最好。全程維持在 −18 °C 就一直是安全的；這個期限描述的是變乾、冰晶和凍燒，不是安全。袋子要壓出空氣密封、遠離冷凍櫃門；整包已經黏成一團的不要買，那表示冷鏈在某處斷過。附的鹽包請在烤好之後才撒，不要在冷凍前撒。",
+  "thawing": "不要解凍。照包裝指示從冷凍直接進烤箱。在冷藏解凍、且維持在 4 °C 以下的可以再冷凍，只是品質打折；在檯面上退冰過的請馬上烤掉，不要再凍回去。",
+  "spoilage": [
+   "出現乾白斑塊或表面變得粉粉的——那是凍燒。",
+   "整包黏成一團或袋內結厚冰，表示曾經半退冰又再凍。",
+   "烤完之後還是聞得到走味、紙板味。",
+   "烤好後放太久的鹼水結長霉。"
+  ],
+  "tips": [
+   "從冷凍直接烤；半退冰的烤起來顏色淡、組織密。",
+   "鹽要烤好之後才撒，不要提前。",
+   "每次用完都壓出空氣重新封好。",
+   "隔夜的鹼水結用烤箱回熱，絕對不要微波。"
+  ],
+  "faq": [
+   {
+    "q": "冷凍扭結麵包可以放多久？",
+    "a": "−18 °C 下自購買日起 9 個月品質最好。只要沒退冰放更久仍然安全，但會變乾、凍燒。"
+   },
+   {
+    "q": "冷凍扭結麵包要先退冰再烤嗎？",
+    "a": "不用。照包裝指示從冷凍直接烤；半退冰的會烤得又白又密。"
+   },
+   {
+    "q": "烤好的扭結麵包冷藏可以放多久？",
+    "a": "4 °C 以下 3～4 天。回熱請用烤箱，那會把冷藏造成的老化大部分抵消掉。"
+   }
+  ]
+ }
+}

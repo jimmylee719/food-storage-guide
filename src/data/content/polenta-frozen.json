@@ -1,0 +1,83 @@
+{
+ "slug": "polenta-frozen",
+ "en": {
+  "name": "Polenta, frozen",
+  "aliases": [
+   "frozen cooked polenta",
+   "polenta slices",
+   "冷凍玉米糕",
+   "玉米粥糕"
+  ],
+  "summary": "Frozen polenta keeps 12 months at −18 °C (0 °F) for best quality, and 5 days in the fridge at 4 °C (40 °F) or below after thawing. Kept continuously frozen it stays safe well beyond the window — what runs out is texture, as the starch gel weeps water on thawing.",
+  "pantry": "No room-temperature storage. Cooked polenta is a wet, low-acid starch — the same category of food as cooked rice — so a block left out is in the danger zone of 4–60 °C (40–140 °F) and follows the two-hour rule, one hour if the kitchen is above 32 °C (90 °F). Do not leave a block on the counter to soften before slicing; slice it while it is still firm and cold, which is easier anyway.",
+  "fridge": "5 days at 4 °C (40 °F) or below after thawing, kept covered or wrapped so the surface does not dry into a skin. Thawed polenta firms up considerably in the fridge, which is a feature rather than a fault: a cold block slices cleanly into slabs for grilling or frying, where soft polenta would collapse. Expect a little water to separate out; pour it off rather than stirring it back in.",
+  "freezer": "12 months at −18 °C (0 °F) for best quality. Kept continuously at −18 °C it stays safe indefinitely; the window describes quality. What degrades is the starch gel — freezing forces water out of it, so a long-frozen block thaws wetter and slightly grainier than it went in. Slice it into portions before freezing, interleave with paper so you can take one at a time, and wrap tightly with the air excluded to keep the surface from freezer-burning.",
+  "thawing": "Thaw in the fridge, or cook slices straight from frozen on a hot griddle or in an oven, which works well and avoids the wateriness entirely. Never thaw on the counter. Polenta thawed in the fridge and still at or below 4 °C (40 °F) may be refrozen with some quality loss; anything thawed warm must not be.",
+  "spoilage": [
+   "A sour or fermented smell, which is the clearest sign for a cooked starch.",
+   "A slimy or tacky surface on a thawed block.",
+   "Any mould spot — discard the whole block, do not trim it.",
+   "Dry white patches and a crumbly texture after long freezing — freezer burn."
+  ],
+  "tips": [
+   "Slice into portions before freezing; a frozen block is hard to cut.",
+   "Interleave slices with baking paper so they peel apart.",
+   "Grill or fry slices straight from frozen for the best texture.",
+   "Pour off any separated water rather than stirring it back in."
+  ],
+  "faq": [
+   {
+    "q": "How long does frozen polenta last?",
+    "a": "12 months at −18 °C (0 °F) for best quality. Kept continuously frozen it stays safe beyond that; the window is about texture."
+   },
+   {
+    "q": "How long does thawed polenta keep?",
+    "a": "5 days in the fridge at 4 °C (40 °F) or below, covered."
+   },
+   {
+    "q": "Can you cook polenta from frozen?",
+    "a": "Yes, and slices grill or fry very well straight from frozen — it avoids the wateriness that comes with thawing."
+   }
+  ]
+ },
+ "zh": {
+  "name": "冷凍玉米糕",
+  "aliases": [
+   "玉米糕",
+   "義式玉米糊",
+   "冷凍玉米粥糕",
+   "polenta"
+  ],
+  "summary": "冷凍玉米糕在 −18 °C 下可保有最佳品質 12 個月；解凍後放 4 °C 以下冷藏 5 天。只要全程沒退冰，超過這個期限仍然安全——先用完的是口感，因為澱粉膠體在解凍時會出水。",
+  "pantry": "沒有室溫保存這一項。煮好的玉米糕是濕的低酸澱粉——和熟白飯屬於同一類——所以一塊擺在外面的玉米糕正在 4～60 °C 的危險溫度帶裡，適用兩小時原則，廚房超過 32 °C 時只有一小時。也不要為了好切先把它放在檯面上回軟；趁它還冰、還硬的時候切，本來就比較好切。",
+  "fridge": "解凍後蓋好或包好，放 4 °C 以下 5 天，免得表面乾出一層皮。解凍過的玉米糕在冷藏會變得相當結實，那是優點不是缺點：一塊冰硬的糕可以切得乾乾淨淨，拿去煎或炙烤；軟的玉米糊一下鍋就散了。它會析出一點水，請倒掉，不要攪回去。",
+  "freezer": "−18 °C 下 12 個月品質最好。全程維持在 −18 °C 就一直是安全的；這個期限描述的是品質。會退步的是澱粉膠體——冷凍會把水從膠體裡逼出來，所以凍久了的那塊解凍後會比原本更濕、口感略粗。冷凍前先切成一份一份，中間夾紙好一次取一片，並包緊、擠掉空氣，避免表面凍燒。",
+  "thawing": "放冷藏解凍，或把切片直接從冷凍放上熱鍋、送進烤箱——這樣效果很好，而且完全避開出水的問題。絕對不要在檯面上解凍。在冷藏解凍、且維持在 4 °C 以下的可以再冷凍，只是品質打折；回溫過的絕對不行。",
+  "spoilage": [
+   "聞起來發酸或有發酵味，這是熟澱粉最明確的訊號。",
+   "解凍後表面黏滑或黏手。",
+   "只要出現霉點就整塊丟掉，不要切掉那一角。",
+   "冷凍太久出現乾白斑塊、質地變碎——那是凍燒。"
+  ],
+  "tips": [
+   "冷凍前先切成一份一份；整塊凍硬很難切。",
+   "切片之間夾烘焙紙，才撕得開。",
+   "切片直接從冷凍煎或炙烤，口感最好。",
+   "析出的水倒掉，不要攪回去。"
+  ],
+  "faq": [
+   {
+    "q": "冷凍玉米糕可以放多久？",
+    "a": "−18 °C 下 12 個月品質最好。只要沒退冰放更久仍然安全；這個期限講的是口感。"
+   },
+   {
+    "q": "解凍後的玉米糕可以放多久？",
+    "a": "蓋好放 4 °C 以下冷藏 5 天。"
+   },
+   {
+    "q": "玉米糕可以從冷凍直接煮嗎？",
+    "a": "可以，切片直接從冷凍煎或炙烤效果很好，而且避開了解凍會出水的問題。"
+   }
+  ]
+ }
+}

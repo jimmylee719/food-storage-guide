@@ -1,0 +1,83 @@
+{
+ "slug": "frozen-vegetables",
+ "en": {
+  "name": "Frozen vegetables",
+  "aliases": [
+   "frozen peas",
+   "frozen mixed vegetables",
+   "IQF vegetables",
+   "冷凍蔬菜"
+  ],
+  "summary": "Frozen vegetables keep 10–18 months from purchase at −18 °C (0 °F) for best quality. Kept continuously frozen they stay safe indefinitely — the window is about colour, texture and flavour. Once cooked, they keep 3–4 days in the fridge at 4 °C (40 °F) or below.",
+  "pantry": "No room-temperature storage. Frozen vegetables are blanched before freezing and are a moist, low-acid food once they warm, so a bag left on the counter is in the danger zone of 4–60 °C (40–140 °F) and follows the two-hour rule, one hour above 32 °C (90 °F). There is no reason to leave them out anyway: they go straight from the bag into boiling water, a hot pan or a steamer, and taking them out a moment early is a good idea rather than a compromise.",
+  "fridge": "3–4 days at 4 °C (40 °F) or below once cooked, covered, which is what the published figure describes. Do not thaw a bag in the fridge to cook later — you lose texture and gain nothing, because these vegetables are designed to be cooked from frozen. If you have cooked more than you need, cool them quickly and get them into a sealed box rather than leaving them to cool slowly in the pan.",
+  "freezer": "10–18 months from purchase at −18 °C (0 °F) for best quality. That long window exists because vegetables are blanched before freezing, which knocks out the enzymes that would otherwise degrade colour and flavour over time. Kept continuously at −18 °C they stay safe indefinitely; what you judge by is the food itself — dry, pale, frost-burned pieces, a bag that has gone from loose peas to a solid lump, colour faded from bright to dull. Press the air out and reseal after each use.",
+  "thawing": "Cook them from frozen; that is what gives the best texture. If a recipe needs them thawed, do it in the fridge or briefly under cold running water, never on the counter. A bag thawed in the fridge and still at or below 4 °C (40 °F) may be refrozen with some quality loss; one thawed warm should not be.",
+  "spoilage": [
+   "A solid lump instead of loose pieces, meaning the bag part-thawed and refroze.",
+   "Dry, pale, shrivelled pieces with white patches — freezer burn.",
+   "Colour faded from bright green or orange to dull grey-brown.",
+   "A stale, hay-like or freezer smell after cooking."
+  ],
+  "tips": [
+   "Cook from frozen and slightly under; they carry on cooking off the heat.",
+   "Squeeze the bag in the shop — a solid lump means the cold chain broke.",
+   "Press the air out and reseal every time.",
+   "Buy bag sizes you will finish; every reopening costs quality."
+  ],
+  "faq": [
+   {
+    "q": "How long do frozen vegetables last?",
+    "a": "10–18 months from purchase at −18 °C (0 °F) for best quality. Kept continuously frozen they stay safe beyond that; the window is about colour, flavour and texture."
+   },
+   {
+    "q": "Should you thaw frozen vegetables before cooking?",
+    "a": "No. Cook them straight from frozen — thawing costs texture and gains nothing."
+   },
+   {
+    "q": "Why has my bag of frozen peas turned into a block?",
+    "a": "It part-thawed and refroze somewhere along the line. Usually still safe, but the texture will be poor."
+   }
+  ]
+ },
+ "zh": {
+  "name": "冷凍蔬菜",
+  "aliases": [
+   "冷凍青豆",
+   "冷凍三色豆",
+   "急凍蔬菜",
+   "frozen vegetables"
+  ],
+  "summary": "冷凍蔬菜在 −18 °C 下自購買日起可保有最佳品質 10～18 個月。只要全程沒退冰就一直是安全的——這個期限講的是顏色、口感和風味。煮熟之後放 4 °C 以下冷藏 3～4 天。",
+  "pantry": "沒有室溫保存這一項。冷凍蔬菜在冷凍前都汆燙過，回溫後就是含水量高、低酸的食物，所以一包擺在檯面上的蔬菜正在 4～60 °C 的危險溫度帶裡，適用兩小時原則，超過 32 °C 只有一小時。而且本來就沒必要：它從袋子直接進滾水、熱鍋或蒸籠，而且早一點起鍋是好事，不是將就。",
+  "fridge": "煮熟之後蓋好放 4 °C 以下 3～4 天，公布的數字描述的正是這個狀態。不要為了之後要煮而先把整包放冷藏解凍——你會失去口感又得不到任何好處，因為這些蔬菜本來就設計成從冷凍直接煮。煮太多的話請快速降溫、裝進密封盒，不要讓它在鍋裡慢慢涼。",
+  "freezer": "−18 °C 下自購買日起 10～18 個月品質最好。期限之所以長，是因為蔬菜在冷凍前汆燙過，把那些會讓顏色與風味隨時間衰退的酵素先滅掉了。全程維持在 −18 °C 就一直是安全的；你要判斷的是食物本身——乾癟發白的凍燒、整包從一顆顆變成一團硬塊、顏色從鮮亮褪成暗沉。每次用完都壓出空氣重新封好。",
+  "thawing": "直接從冷凍煮，那樣口感最好。食譜真的需要解凍的話，請放冷藏或用流動冷水短時間沖，絕對不要放檯面。在冷藏解凍、且維持在 4 °C 以下的可以再冷凍，只是品質打折；回溫過的就不要再凍。",
+  "spoilage": [
+   "整包凍成一塊硬團而不是一顆顆散開，表示半退冰又再凍過。",
+   "菜料變得乾癟、發白、有白色斑塊——那是凍燒。",
+   "顏色從鮮綠或橘褪成灰褐。",
+   "煮出來聞起來走味、有乾草味或冷凍櫃的味道。"
+  ],
+  "tips": [
+   "從冷凍直接煮，而且煮得比你以為的再短一點；離火之後它還會繼續熟。",
+   "在店裡捏一下袋子——結成硬塊表示冷鏈斷過。",
+   "每次用完都壓出空氣重新封好。",
+   "買吃得完的包裝；每開一次就折損一次品質。"
+  ],
+  "faq": [
+   {
+    "q": "冷凍蔬菜可以放多久？",
+    "a": "−18 °C 下自購買日起 10～18 個月品質最好。只要沒退冰就一直安全；這個期限講的是顏色、風味和口感。"
+   },
+   {
+    "q": "冷凍蔬菜要先退冰再煮嗎？",
+    "a": "不用。直接從冷凍煮——退冰只會讓口感變差，沒有任何好處。"
+   },
+   {
+    "q": "冷凍青豆為什麼變成一整塊？",
+    "a": "它在某個環節半退冰又再凍過了。通常還是安全的，但口感會變差。"
+   }
+  ]
+ }
+}

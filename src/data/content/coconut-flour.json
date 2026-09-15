@@ -1,0 +1,83 @@
+{
+ "slug": "coconut-flour",
+ "en": {
+  "name": "Coconut flour",
+  "aliases": [
+   "defatted coconut flour",
+   "coconut meal",
+   "椰子粉",
+   "椰子細粉"
+  ],
+  "summary": "Coconut flour keeps 9–12 months in the fridge at 4 °C (40 °F) or below in an airtight container, and the same 9–12 months in the freezer at −18 °C (0 °F). No pantry timeline is published for it — this is a flour that is meant to be kept cold.",
+  "pantry": "No room-temperature timeline is published for coconut flour, and that is deliberate rather than an oversight. Coconut flour is what is left after the milk is pressed from dried coconut meat, and even defatted it retains a meaningful amount of coconut oil, along with a great deal of fibre that readily takes up moisture from the air. In a warm humid kitchen it both goes rancid and clumps. An unopened bag will sit in the cupboard to its printed date perfectly well; once you open it, move it to the fridge or the freezer.",
+  "fridge": "9–12 months at 4 °C (40 °F) or below in an airtight container, and this is the standard home answer. The container matters as much as the temperature: coconut flour is extraordinarily absorbent — it is the reason recipes using it need so much more liquid than wheat recipes — so an open or loosely closed bag in a fridge will take up both moisture and the smell of everything around it. Let the container come back to room temperature before you open it, so condensation forms on the outside.",
+  "freezer": "9–12 months at −18 °C (0 °F), the same window as the fridge, which tells you that what limits coconut flour is the oil rather than anything microbial. Use it for a large bag, or if your fridge has no room. Kept continuously frozen it stays safe well beyond that; what runs out is flavour, as the oil slowly oxidises. Seal it airtight, press out the air, and always let it warm sealed before opening — frozen flour condenses water instantly in a Taiwanese kitchen.",
+  "thawing": "Bring the sealed container up to room temperature before opening. Coconut flour clumps badly if it takes up condensation, and a lumpy bag will not disperse evenly through a batter.",
+  "spoilage": [
+   "A sharp, soapy or paint-like smell — rancid coconut oil.",
+   "Hard clumps that will not break up with a whisk, meaning moisture got in.",
+   "A yellowish or grey tinge instead of a clean off-white.",
+   "Any mould, which means the bag was damp and the whole thing goes out."
+  ],
+  "tips": [
+   "Move it to the fridge or freezer the day you open the bag.",
+   "Use a properly airtight container; this flour absorbs everything.",
+   "Sift it before use — even good coconut flour clumps.",
+   "Do not substitute it one-for-one for wheat flour; it drinks several times its weight in liquid."
+  ],
+  "faq": [
+   {
+    "q": "How long does coconut flour last?",
+    "a": "9–12 months in an airtight container in the fridge at 4 °C (40 °F) or below, or the same 9–12 months in the freezer at −18 °C (0 °F)."
+   },
+   {
+    "q": "Can you keep coconut flour in the cupboard?",
+    "a": "No timeline is published for room temperature. An unopened bag keeps to its printed date, but once opened it should go into the fridge or freezer, because the residual oil goes rancid and the fibre takes up moisture."
+   },
+   {
+    "q": "Why has my coconut flour gone lumpy?",
+    "a": "It has absorbed moisture, usually condensation from being opened while still cold. Let the sealed container warm up before opening, and sift before use."
+   }
+  ]
+ },
+ "zh": {
+  "name": "椰子粉",
+  "aliases": [
+   "椰子細粉",
+   "脫脂椰子粉",
+   "椰纖粉",
+   "coconut flour"
+  ],
+  "summary": "椰子粉裝密封罐放 4 °C 以下冷藏可放 9～12 個月，放 −18 °C 冷凍也是同樣的 9～12 個月。它沒有公布的常溫期限——這是一種本來就該冰起來的粉。",
+  "pantry": "椰子粉沒有公布的室溫期限，而那是刻意的，不是漏掉。椰子粉是乾椰肉榨出椰奶之後剩下來的部分，即使標示脫脂，仍然留有相當比例的椰子油；再加上大量纖維，很會從空氣中吸水。在又熱又濕的廚房裡，它會一邊油耗一邊結塊。未拆封的整袋放在櫃子裡到印製日期沒有問題；但一拆封，就請移到冷藏或冷凍。",
+  "fridge": "裝密封罐放 4 °C 以下 9～12 個月，這是家庭的標準答案。容器和溫度一樣重要：椰子粉的吸收力驚人——這也正是用它的食譜需要比小麥配方多那麼多液體的原因——所以一包沒封好的椰子粉放在冰箱裡，會把水氣和周圍所有東西的味道一起吸進去。開蓋前請先讓整罐回到室溫，讓水氣凝在罐子外面。",
+  "freezer": "−18 °C 下 9～12 個月，和冷藏同樣的期間；這件事本身就告訴你，限制椰子粉的是油脂而不是任何微生物。大包裝，或冰箱冷藏沒位子時，就用冷凍。只要全程沒退冰，超過這段時間仍然安全；先用完的是風味，因為油脂仍在慢慢氧化。請密封、壓出空氣，而且一定要密封著回溫再開蓋——在台灣的廚房裡，冷凍過的粉一開蓋馬上就結露。",
+  "thawing": "整罐密封著回到室溫再開蓋。椰子粉一受潮就結塊得很嚴重，而結塊的粉在麵糊裡沒辦法均勻散開。",
+  "spoilage": [
+   "聞起來刺鼻、有肥皂味或油漆味——椰子油油耗了。",
+   "結成打蛋器打不散的硬塊，表示受潮。",
+   "顏色從乾淨的米白轉成偏黃或發灰。",
+   "出現任何霉，表示整袋受潮了，全部丟掉。"
+  ],
+  "tips": [
+   "拆封那天就移到冷藏或冷凍。",
+   "用真正密封的容器；這種粉什麼都吸。",
+   "用之前先過篩——就算是好的椰子粉也會結塊。",
+   "不要和小麥麵粉等量互換；它能吸掉好幾倍重量的液體。"
+  ],
+  "faq": [
+   {
+    "q": "椰子粉可以放多久？",
+    "a": "裝密封罐放 4 °C 以下冷藏 9～12 個月，或 −18 °C 冷凍同樣的 9～12 個月。"
+   },
+   {
+    "q": "椰子粉可以放在櫃子裡嗎？",
+    "a": "它沒有公布的室溫期限。未拆封的整袋放到印製日期沒問題，但拆封後就該進冷藏或冷凍，因為殘留的油脂會油耗、纖維又會吸濕。"
+   },
+   {
+    "q": "椰子粉為什麼結塊？",
+    "a": "它吸了水氣，通常是還冰著就開蓋造成的結露。請先讓密封的容器回到室溫再開，用之前再過篩。"
+   }
+  ]
+ }
+}

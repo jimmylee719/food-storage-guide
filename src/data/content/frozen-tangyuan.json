@@ -1,0 +1,83 @@
+{
+ "slug": "frozen-tangyuan",
+ "en": {
+  "name": "Tangyuan, frozen",
+  "aliases": [
+   "glutinous rice balls",
+   "yuanxiao",
+   "湯圓",
+   "元宵"
+  ],
+  "summary": "Frozen uncooked tangyuan keep 12 months from purchase at −18 °C (0 °F) for best quality, though a commercial bag's own printed date should win. The rule from Taiwan's food authority is blunt: refrigerate or freeze them, and never let them stand in the 7–60 °C range.",
+  "pantry": "Do not leave tangyuan standing at room temperature at any point — not in the shopping bag on a long trip home, and not on the counter while the water comes to the boil. They are a wet, low-acid glutinous starch, often with a fat-and-sugar filling, and the official instruction is to keep them refrigerated or frozen and out of the 7–60 °C range entirely. Buy them last, carry them in an insulated bag, and get them into the freezer as soon as you are home.",
+  "fridge": "No refrigerated timeline is given for uncooked tangyuan, and the fridge is only for a short wait before they go into the pot. Cook them from frozen, get the centre above 70 °C (158 °F), and keep the water boiling for another minute or two after they float — floating means the surface is done, not the filling. Cooked tangyuan are a wet starch food: eat them hot, and if you must keep leftovers, refrigerate them below 5 °C (41 °F) for no more than a couple of days.",
+  "freezer": "12 months from purchase at −18 °C (0 °F) for best quality, a figure read across from frozen prepared meals; a commercial bag carries its own printed date and that date should win. Keep the bag genuinely hard at −18 °C and cook straight from frozen — thawed tangyuan collapse and the filling leaks out into the water. Kept continuously frozen they stay safe well beyond the window; what runs out is quality, as the skins crack and the filling dries.",
+  "thawing": "Do not thaw. Drop them into boiling water straight from the freezer. A bag that has thawed should be cooked immediately rather than refrozen, and one that has thawed at room temperature should not be refrozen at all.",
+  "spoilage": [
+   "Cracked, dry or split skins, which means the bag dried out or thawed and refroze.",
+   "Balls welded into one solid lump — the cold chain broke.",
+   "Filling leaking out of the skin before cooking.",
+   "A rancid smell from a sesame or peanut filling, whose oil is the first thing to age."
+  ],
+  "tips": [
+   "Buy them last, carry them cold, and freeze them immediately.",
+   "Cook from frozen and keep boiling for another minute or two after they float.",
+   "Go by the printed date on a commercial bag rather than the general figure.",
+   "Handmade tangyuan freeze best spread on a tray first, then bagged once solid."
+  ],
+  "faq": [
+   {
+    "q": "How long do frozen tangyuan keep?",
+    "a": "12 months from purchase at −18 °C (0 °F) for best quality, or the printed date on the bag if that is sooner."
+   },
+   {
+    "q": "Do you need to thaw frozen tangyuan?",
+    "a": "No, and you should not. Cook them straight from frozen — thawed ones collapse and the filling leaks into the water."
+   },
+   {
+    "q": "How do you know when tangyuan are cooked?",
+    "a": "Floating means only the surface is done. Keep boiling for another minute or two so the centre gets above 70 °C (158 °F)."
+   }
+  ]
+ },
+ "zh": {
+  "name": "冷凍湯圓",
+  "aliases": [
+   "湯圓",
+   "元宵",
+   "包餡湯圓",
+   "冷凍圓仔"
+  ],
+  "summary": "未煮的冷凍湯圓在 −18 °C 下自購買日起可保有最佳品質 12 個月，不過市售包裝自己印的有效日期應該優先。食藥署的原則講得很直接：冷藏或冷凍，而且絕對不要讓它停留在 7～60 °C 之間。",
+  "pantry": "任何時候都不要讓湯圓待在室溫——不管是提著在路上走很久，還是等水滾的時候先擺在檯面上。它是含水量高、低酸的糯米製品，而且常常包著油脂加糖的餡；官方的指示就是全程冷藏或冷凍，完全避開 7～60 °C 這個區間。請最後才拿、用保冷袋帶回家，一到家立刻進冷凍。",
+  "fridge": "未煮的湯圓沒有給冷藏期限，冷藏只適合下鍋前的短暫等待。請從冷凍直接煮，讓中心超過 70 °C，而且浮起來之後再滾一到兩分鐘——浮起來只代表表面熟了，不代表餡熟了。煮好的湯圓是濕的澱粉類食物：請趁熱吃完；真的有剩，就冰在 5 °C 以下，而且不要放超過兩天。",
+  "freezer": "−18 °C 下自購買日起 12 個月品質最好，這個數字是比照冷凍調理餐讀過來的；市售包裝上有自己的印製日期，那個日期應該優先。整袋要確實凍硬在 −18 °C，並且從冷凍直接下鍋——退冰過的湯圓會塌，餡也會漏到水裡。只要全程沒退冰，超過這個期限仍然安全；先用完的是品質：外皮龜裂、內餡變乾。",
+  "thawing": "不要解凍。直接從冷凍丟進滾水。整袋若已經解凍，請馬上煮掉，不要再凍回去；在室溫解凍過的更是絕對不能再冷凍。",
+  "spoilage": [
+   "外皮龜裂、變乾或裂開，表示整袋乾掉了，或曾經解凍又再凍。",
+   "整袋黏成一大塊——冷鏈斷過。",
+   "還沒下鍋餡就從皮裡漏出來。",
+   "芝麻或花生餡聞起來油耗；那些油脂是最先老化的東西。"
+  ],
+  "tips": [
+   "最後才拿、低溫帶回家、立刻冷凍。",
+   "從冷凍直接煮，浮起來之後再滾一到兩分鐘。",
+   "市售包裝請以印製日期為準，不要只看一般數字。",
+   "自己搓的湯圓先在盤子上單顆攤開凍硬，再裝袋，才不會黏成一團。"
+  ],
+  "faq": [
+   {
+    "q": "冷凍湯圓可以放多久？",
+    "a": "−18 °C 下自購買日起 12 個月品質最好；若包裝上的印製日期更早，以包裝為準。"
+   },
+   {
+    "q": "冷凍湯圓需要先退冰嗎？",
+    "a": "不需要，而且不應該。請從冷凍直接煮——退冰過的會塌掉、餡會漏進水裡。"
+   },
+   {
+    "q": "湯圓怎麼算煮熟？",
+    "a": "浮起來只代表表面熟了。請再滾一到兩分鐘，讓中心超過 70 °C。"
+   }
+  ]
+ }
+}

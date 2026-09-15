@@ -1,0 +1,83 @@
+{
+ "slug": "ice-cream",
+ "en": {
+  "name": "Ice cream",
+  "aliases": [
+   "gelato",
+   "frozen dairy dessert",
+   "冰淇淋",
+   "雪糕"
+  ],
+  "summary": "Ice cream keeps 6 months from purchase at −18 °C (0 °F) for best quality. Kept continuously frozen it stays safe well beyond that — what runs out is texture, as ice crystals grow with every partial thaw and the smooth body turns grainy.",
+  "pantry": "No room-temperature storage. Ice cream is a dairy product, and once melted it is milk: a soft, low-acid, high-protein food sitting in the danger zone of 4–60 °C (40–140 °F). Never refreeze a tub that has melted through, and do not leave one on the counter to soften — take it out for a few minutes only, or use a warm scoop. Melting and refreezing is also what produces the gritty, icy texture nobody wants.",
+  "fridge": "No refrigerated timeline is given, and the fridge is not a place to keep ice cream. Ice cream held at fridge temperature is simply melting slowly, and a melted dairy dessert that is then refrozen is both unpleasant and a genuine food-safety question, because it has spent time in the growth range. If you want it softer, move the tub to a warmer part of the freezer for a while, not to the fridge.",
+  "freezer": "6 months from purchase at −18 °C (0 °F) for best quality. Keep the tub at the back of the freezer, never in the door: the door is where the temperature swings every time it opens, and each swing melts a fraction of the ice and refreezes it as a bigger crystal. That is the whole mechanism of ice cream going grainy. Press a piece of baking paper onto the surface before putting the lid back, which slows the ice crust that forms on top of a half-eaten tub.",
+  "thawing": "Ice cream is not thawed — it is softened. Leave the tub at room temperature for a few minutes only, or run the scoop under hot water. A tub that has melted through should be thrown away rather than refrozen.",
+  "spoilage": [
+   "A thick crust of ice crystals on the surface, or a grainy, sandy texture.",
+   "A shrunken tub with the ice cream pulled away from the sides — it melted and refroze.",
+   "A stale, cardboardy or freezer smell, or a taste of whatever else is in the freezer.",
+   "Any sour or off dairy smell, which means it goes out."
+  ],
+  "tips": [
+   "Keep the tub at the back of the freezer, never in the door.",
+   "Press baking paper onto the surface of a half-eaten tub before replacing the lid.",
+   "Take it out for a few minutes rather than leaving it on the counter to soften.",
+   "Never refreeze ice cream that has melted through."
+  ],
+  "faq": [
+   {
+    "q": "How long does ice cream last in the freezer?",
+    "a": "6 months from purchase at −18 °C (0 °F) for best quality. Kept continuously frozen it stays safe longer, but it turns grainy and icy."
+   },
+   {
+    "q": "Can you refreeze melted ice cream?",
+    "a": "No. Melted ice cream is a dairy food that has been in the danger zone, and refreezing it also ruins the texture."
+   },
+   {
+    "q": "Why has my ice cream gone icy and grainy?",
+    "a": "Temperature swings — usually from keeping it in the freezer door. Each partial melt refreezes into larger ice crystals."
+   }
+  ]
+ },
+ "zh": {
+  "name": "冰淇淋",
+  "aliases": [
+   "雪糕",
+   "義式冰淇淋",
+   "霜淇淋",
+   "gelato"
+  ],
+  "summary": "冰淇淋在 −18 °C 下自購買日起可保有最佳品質 6 個月。只要全程沒退冰，超過這段時間仍然安全——先用完的是口感：每一次半融化都會讓冰晶長大，綿密的質地慢慢變成粗粒。",
+  "pantry": "沒有室溫保存這一項。冰淇淋是乳製品，融化之後它就是牛奶：一種柔軟、低酸、高蛋白，而且正待在 4～60 °C 危險溫度帶裡的食物。整桶融透的絕對不要再冷凍，也不要為了好挖就把它放在檯面上——只拿出來幾分鐘，或用溫熱過的挖杓。融化再結凍，也正是那種沒有人想要的沙沙口感的來源。",
+  "fridge": "這裡不給冷藏期限，冷藏也不是放冰淇淋的地方。冰淇淋放在冷藏溫度下，就只是在慢慢融化而已；而一份融化過的乳製甜點再凍回去，既難吃也是真正的食安問題，因為它已經在生長溫度帶裡待過一段時間。想要它軟一點，就把整桶移到冷凍庫裡比較不冷的位置放一會兒，而不是移到冷藏。",
+  "freezer": "−18 °C 下自購買日起 6 個月品質最好。整桶請放在冷凍櫃深處，絕對不要放門邊：門邊的溫度每開一次門就波動一次，而每一次波動都會融掉一小部分冰、再結成更大的冰晶。冰淇淋變粗糙的機制就是這個。吃剩的那桶，蓋回蓋子之前先在表面壓一張烘焙紙，可以拖慢表面那層冰殼。",
+  "thawing": "冰淇淋不是拿來解凍的，是拿來回軟的。整桶在室溫放幾分鐘就好，或把挖杓用熱水沖一下。已經整桶融透的請丟掉，不要再凍回去。",
+  "spoilage": [
+   "表面結了厚厚一層冰晶，或口感變得粗粒、沙沙的。",
+   "冰淇淋從桶壁縮開、整體下陷——它融化過又再結凍。",
+   "聞起來走味、有紙板味或冷凍櫃的味道，甚至吃得出冷凍庫裡別的東西的味道。",
+   "出現任何乳製品的酸味或異味，那就該丟。"
+  ],
+  "tips": [
+   "整桶放在冷凍櫃深處，絕對不要放門邊。",
+   "吃剩的那桶，蓋蓋子前先在表面壓一張烘焙紙。",
+   "只拿出來幾分鐘，不要擺在檯面上等它軟。",
+   "融透過的冰淇淋絕對不要再冷凍。"
+  ],
+  "faq": [
+   {
+    "q": "冰淇淋可以冷凍多久？",
+    "a": "−18 °C 下自購買日起 6 個月品質最好。只要沒退冰放更久仍然安全，但會變得又冰又粗。"
+   },
+   {
+    "q": "融化的冰淇淋可以再冷凍嗎？",
+    "a": "不行。融化的冰淇淋是待過危險溫度帶的乳製品，而且再凍回去口感也毀了。"
+   },
+   {
+    "q": "冰淇淋為什麼變得沙沙的？",
+    "a": "溫度波動造成的，通常是放在冷凍櫃門邊。每次半融化都會重新結成更大的冰晶。"
+   }
+  ]
+ }
+}

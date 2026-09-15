@@ -1,0 +1,83 @@
+{
+ "slug": "edamame-frozen",
+ "en": {
+  "name": "Edamame, frozen",
+  "aliases": [
+   "frozen soybeans in pod",
+   "green soybeans",
+   "冷凍毛豆",
+   "枝豆"
+  ],
+  "summary": "Frozen edamame keeps 2 years from purchase at −18 °C (0 °F) for best quality, and 1 week in the fridge at 4 °C (40 °F) or below once it has thawed. The freezer figure is a quality window, not a safety limit: edamame kept continuously at −18 °C stays safe indefinitely.",
+  "pantry": "No room-temperature storage. Edamame is blanched before freezing and is a moist, low-acid vegetable once it warms up, so a bag left on the counter goes through the danger zone of 4–60 °C (40–140 °F) and follows the two-hour rule — one hour if the kitchen is above 32 °C (90 °F). There is no reason to do it anyway: frozen pods go straight into boiling salted water, or into a steamer, and are ready in minutes.",
+  "fridge": "1 week at 4 °C (40 °F) or below after thawing, kept covered. This is the figure for edamame that has been thawed but not yet cooked; cooked pods you have salted and chilled for the fridge are best eaten within a few days. Thawing in the fridge is also the only thawing method worth using, and it has a practical advantage: pods thawed cold and still at or below 4 °C may be refrozen with some quality loss, which is not true of pods thawed on the counter.",
+  "freezer": "2 years from purchase at −18 °C (0 °F) for best quality — an unusually long window, because the pods were blanched, which knocks out the enzymes that would otherwise slowly degrade colour and flavour. Kept continuously frozen they stay safe well beyond that; what you are watching for is freezer burn, dry white patches and pods welded into a solid block. Reseal the bag tightly with the air pressed out each time, and keep it away from the freezer door.",
+  "thawing": "There is usually no need to thaw: boil or steam the pods straight from frozen. To thaw for a salad, do it in the fridge, never on the counter or in warm water. Pods thawed in the fridge and still cold may be refrozen; pods thawed warm may not.",
+  "spoilage": [
+   "Dry, whitish, shrivelled pods — freezer burn, a quality fault rather than a safety one.",
+   "A solid block of pods frozen together, meaning the bag part-thawed and refroze.",
+   "Yellowed or brown pods, which means the colour has gone and the flavour with it.",
+   "A sour or fermented smell from thawed or cooked edamame kept too long."
+  ],
+  "tips": [
+   "Cook straight from frozen; the pods need only a few minutes in boiling salted water.",
+   "Press the air out of the bag each time — air is what causes freezer burn.",
+   "Salt the water generously and salt the pods again while hot.",
+   "Keep the bag at the back of the freezer, not in the door."
+  ],
+  "faq": [
+   {
+    "q": "How long does frozen edamame last?",
+    "a": "2 years from purchase at −18 °C (0 °F) for best quality. It stays safe longer if it never thaws; the window is about freezer burn and flavour."
+   },
+   {
+    "q": "How long does thawed edamame keep in the fridge?",
+    "a": "1 week at 4 °C (40 °F) or below, kept covered."
+   },
+   {
+    "q": "Do you have to thaw frozen edamame?",
+    "a": "No. Boil or steam it straight from frozen — it takes only a few minutes and the texture is better than after thawing."
+   }
+  ]
+ },
+ "zh": {
+  "name": "冷凍毛豆",
+  "aliases": [
+   "冷凍毛豆莢",
+   "枝豆",
+   "青豆莢",
+   "edamame"
+  ],
+  "summary": "冷凍毛豆在 −18 °C 下自購買日起可保有最佳品質 2 年；解凍後放 4 °C 以下冷藏則是 1 週。冷凍那個數字是品質期限，不是安全上限：全程維持在 −18 °C 的毛豆可以無限期保持安全。",
+  "pantry": "沒有室溫保存這一項。毛豆冷凍前汆燙過，回溫之後就是一種含水量高、低酸的蔬菜，所以一包放在檯面上的毛豆正在穿過 4～60 °C 的危險溫度帶，適用兩小時原則；廚房超過 32 °C 時只有一小時。而且本來就沒必要這樣做：冷凍毛豆莢直接丟進滾的鹽水或蒸籠，幾分鐘就好了。",
+  "fridge": "解凍後蓋好放 4 °C 以下 1 週。這是「已解凍但還沒煮」的毛豆的期限；已經煮好、拌鹽冰起來的，最好幾天內吃完。冷藏也是唯一值得用的解凍方式，而且有個實際好處：在低溫解凍、始終維持在 4 °C 以下的毛豆可以再冷凍，只是品質會打折——在檯面上解凍的就不行。",
+  "freezer": "−18 °C 下自購買日起 2 年品質最好——這是異常長的期限，因為毛豆冷凍前汆燙過，把那些會慢慢讓顏色和風味衰退的酵素先滅掉了。只要全程沒退冰，超過這段時間仍然安全；你要盯的是凍燒、乾白斑塊，以及整包凍成一大塊。每次用完都把空氣壓掉、確實封好，並且放在遠離冷凍櫃門的地方。",
+  "thawing": "通常不必解凍：直接從冷凍下滾水煮或上蒸籠。要做成沙拉才需要解凍的話，請放冷藏，絕對不要放檯面或泡溫水。在冷藏解凍、還是冰的可以再冷凍；回溫過的不行。",
+  "spoilage": [
+   "豆莢變得乾白、皺縮——那是凍燒，屬於品質問題而不是安全問題。",
+   "整包凍成一大塊，表示它曾經半退冰又再凍回去。",
+   "豆莢發黃或變褐，表示顏色沒了，風味也跟著沒了。",
+   "解凍或煮過的毛豆放太久，聞起來發酸或有發酵味。"
+  ],
+  "tips": [
+   "直接從冷凍煮；滾鹽水裡幾分鐘就夠。",
+   "每次都把袋子裡的空氣壓掉——凍燒就是空氣造成的。",
+   "煮的水要夠鹹，起鍋趁熱再補一次鹽。",
+   "袋子放冷凍櫃深處，不要放門邊。"
+  ],
+  "faq": [
+   {
+    "q": "冷凍毛豆可以放多久？",
+    "a": "−18 °C 下自購買日起 2 年品質最好。只要沒退冰，放更久仍然安全；這個期限講的是凍燒和風味。"
+   },
+   {
+    "q": "解凍後的毛豆冷藏可以放多久？",
+    "a": "蓋好放 4 °C 以下 1 週。"
+   },
+   {
+    "q": "冷凍毛豆要先退冰嗎？",
+    "a": "不用。直接從冷凍煮或蒸，幾分鐘就好，口感也比退冰後更好。"
+   }
+  ]
+ }
+}
