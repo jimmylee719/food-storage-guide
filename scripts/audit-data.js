@@ -241,7 +241,7 @@ if (process.argv.includes('--json')) {
 
 // ---- accepted baseline --------------------------------------------------
 const ACCEPTED_FILE = path.join(ROOT, 'scripts', 'audit-accepted.json');
-const key = (r) => [r.kind, r.slug, r.locale || '', r.said || r.why || ''].join(' ');
+const key = (r) => [r.kind, r.slug, r.locale || '', r.said || r.why || ''].join('\u0000');
 
 const all = problems.prose.map((r) => ({ ...r, kind: 'prose' }))
   .concat(problems.ordering.map((r) => ({ ...r, kind: 'ordering' })))
