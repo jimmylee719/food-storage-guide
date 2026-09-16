@@ -114,6 +114,10 @@ type Dict = {
   correctionsNone: string;
   correctionsWhy: string;
   correctionsEvidence: string;
+  correctionsMergedHeading: (n: number) => string;
+  correctionsMergedLead: string;
+  correctionsMergedWhy: string;
+  correctionsRetiredSlug: (slug: string) => string;
   correctionsReportHeading: string;
   correctionsReportBody: string;
   seeGuide: string;
@@ -220,6 +224,10 @@ const zh: Dict = {
   correctionsNone: '目前沒有任何一筆資料被更正，所有保存期限都與其來源一致。',
   correctionsWhy: '為什麼更正：',
   correctionsEvidence: '佐證：',
+  correctionsMergedWhy: '為什麼合併：',
+  correctionsMergedHeading: (n) => `合併與退役的紀錄（${n} 筆）`,
+  correctionsMergedLead: '這些不是數字被改了，而是同一種食材在來源裡被收了兩次。重複的那一筆已經退役，內容併入留存的頁面；舊網址仍然有效，會直接轉到留存頁，不會失效。',
+  correctionsRetiredSlug: (slug) => `已退役的網址：/food/${slug}`,
   correctionsReportHeading: '發現錯誤請告訴我們',
   correctionsReportBody: '如果你認為本站某一筆保存期限有誤——不論是我們抄錯、判讀錯，或是你握有更好的來源——請來信告訴我們，並附上你的依據。我們會核對來源後更新；若確實更動了數字，就會出現在這一頁。',
   categoryDetailHeading: (name) => `${name}保存的其他重點`,
@@ -338,6 +346,10 @@ const en: Dict = {
   correctionsNone: 'No figure on this site currently departs from its source.',
   correctionsWhy: 'Why:',
   correctionsEvidence: 'Evidence:',
+  correctionsMergedWhy: 'Why:',
+  correctionsMergedHeading: (n) => `Merged and retired records (${n})`,
+  correctionsMergedLead: 'These are not figures that changed. They are foods the source carried twice. The duplicate record has been retired and its article folded into the surviving page; the old URL still works and redirects there, so nothing published before the merge is broken.',
+  correctionsRetiredSlug: (slug) => `Retired URL: /food/${slug}`,
   correctionsReportHeading: 'Tell us if we are wrong',
   correctionsReportBody: 'If you believe a storage time on this site is wrong — whether we transcribed it badly, read it badly, or you have a better source — email us with your reasoning. We check it against the sources and update. If it changes a figure, it appears on this page.',
   categoryDetailHeading: (name) => `What else matters when storing ${name.toLowerCase()}`,
@@ -455,6 +467,10 @@ const ja: Dict = {
   correctionsNone: '現在、出典と異なる数値はありません。',
   correctionsWhy: '訂正の理由：',
   correctionsEvidence: '根拠：',
+  correctionsMergedWhy: '統合の理由：',
+  correctionsMergedHeading: (n) => `統合・廃止した記録（${n} 件）`,
+  correctionsMergedLead: '数値が変わったのではなく、同じ食材が出典に二重に収録されていたものです。重複した記録は廃止し、記事は残るページに統合しました。旧 URL はそのまま有効で、統合先へ転送されます。',
+  correctionsRetiredSlug: (slug) => `廃止した URL：/food/${slug}`,
   correctionsReportHeading: '誤りを見つけたら',
   correctionsReportBody: '保存期間に誤りがあるとお考えの場合は、根拠を添えてご連絡ください。出典と照合して更新し、数値が変わった場合はこのページに記載します。',
   categoryDetailHeading: (name) => `${name}の保存でほかに大事なこと`,
@@ -573,6 +589,10 @@ const es: Dict = {
   correctionsNone: 'Ninguna cifra de este sitio se aparta actualmente de su fuente.',
   correctionsWhy: 'Motivo:',
   correctionsEvidence: 'Prueba:',
+  correctionsMergedWhy: 'Motivo:',
+  correctionsMergedHeading: (n) => `Registros fusionados y retirados (${n})`,
+  correctionsMergedLead: 'No son cifras que hayan cambiado: son alimentos que la fuente recogía dos veces. El registro duplicado se ha retirado y su artículo se ha integrado en la página que permanece; la URL antigua sigue funcionando y redirige allí.',
+  correctionsRetiredSlug: (slug) => `URL retirada: /food/${slug}`,
   correctionsReportHeading: 'Dinos si nos equivocamos',
   correctionsReportBody: 'Si crees que un plazo de este sitio es incorrecto, escríbenos con tu razonamiento. Lo cotejamos con las fuentes y lo actualizamos. Si cambia una cifra, aparecerá en esta página.',
   categoryDetailHeading: (name) => `Qué más importa al conservar ${name.toLowerCase()}`,

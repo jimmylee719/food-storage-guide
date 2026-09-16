@@ -36,6 +36,12 @@ const all = [...base.filter((f) => !replaced.has(f.slug)), ...split, ...extra];
 // build time, and shown on the page so a reader can judge it.
 const corrections = readJson(D('base', 'corrections.json'), []);
 const correctionBySlug = new Map(corrections.map((c) => [c.slug, c]));
+// A correction may retire a record outright rather than adjust its figures,
+// when the dataset carried the same food twice. The retired slug keeps working:
+// it resolves to the survivor and the page redirects, so no published link dies.
+const retiredSlugs = new Map(
+  corrections.filter((c) => c.supersededBy).map((c) => [c.slug, c.supersededBy]),
+);
 
 const contentDir = D('content');
 const contentFiles = fs.existsSync(contentDir) ? fs.readdirSync(contentDir).filter((f) => f.endsWith('.json')) : [];
@@ -57,8 +63,9 @@ const guides = guideFiles.map((f) => readJson(path.join(guidesDir, f), null)).fi
 // ---- foods -------------------------------------------------------------
 const foods = [];
 for (const raw of all) {
+  if (retiredSlugs.has(raw.slug)) continue;
   const correction = correctionBySlug.get(raw.slug) || null;
-  const item = correction ? { ...raw, storage: correction.storage } : raw;
+  const item = correction && correction.storage ? { ...raw, storage: correction.storage } : raw;
   const c = content.get(item.slug) || null;
   const names = {};
   const aliases = {};
@@ -173,6 +180,7 @@ const guideList = guides
   .sort((a, b) => a.slug.localeCompare(b.slug));
 
 fs.mkdirSync(OUT, { recursive: true });
+fs.writeFileSync(path.join(OUT, 'retired.json'), JSON.stringify(Object.fromEntries(retiredSlugs), null, 1) + '\n');
 fs.writeFileSync(path.join(OUT, 'foods.json'), JSON.stringify(foods));
 fs.writeFileSync(path.join(OUT, 'guides.json'), JSON.stringify(guideList));
 

@@ -35,5 +35,44 @@
     }
    }
   }
+ },
+ {
+  "slug": "whole-wheat-flour",
+  "supersededBy": "flour-whole-wheat",
+  "kind": "correction",
+  "reason": {
+   "en": "The dataset carries two records for whole wheat flour and they disagree. One gives 3-6 months in the pantry and 6-8 months refrigerated after opening; the other gives 12 months in the pantry and 2 years refrigerated. Both cannot be right, and 12 months at room temperature is a white-flour figure: whole wheat keeps the oil-rich germ, and that oil is what turns rancid.",
+   "zh": "這份資料集裡有兩筆全麥麵粉的紀錄，而且互相矛盾。一筆給常溫 3～6 個月、開封後冷藏 6～8 個月；另一筆給常溫 12 個月、冷藏 2 年。兩者不可能都對，而常溫 12 個月是白麵粉的數字：全麥保留了富含油脂的胚芽，會走油耗的正是那些油。"
+  },
+  "evidence": {
+   "en": "Ohio State University Extension's pantry storage guidance gives whole wheat flour 6 to 8 months and tells the reader to keep it refrigerated, which matches the first record and contradicts the second. This site publishes the first; the second record has been retired and its page redirects here.",
+   "zh": "美國俄亥俄州立大學推廣中心的常溫保存指引給全麥麵粉 6 到 8 個月，並要求冷藏保存——與第一筆相符，與第二筆矛盾。本站採用第一筆；第二筆已退役，其頁面轉址至此。"
+  }
+ },
+ {
+  "slug": "yuca-cassava",
+  "supersededBy": "cassava-fresh-root",
+  "kind": "correction",
+  "reason": {
+   "en": "Two records described the same root with different figures. The retired one gives 7 days in the pantry and 3 days refrigerated — a shorter life in the cold than at room temperature, which is the wrong way round for a root that is chilled precisely to slow its deterioration.",
+   "zh": "兩筆紀錄描述同一種根莖，數字卻不同。被退役的那筆給常溫 7 天、冷藏 3 天——冷藏反而比常溫短，而低溫正是用來延緩木薯劣變的手段，這個方向是反的。"
+  },
+  "evidence": {
+   "en": "The figures published here come from USDA ARS Agriculture Handbook 66, the postharvest reference for commercial storage of fruits and vegetables, together with Hong Kong CFS guidance on cassava. Both are cited on the page itself.",
+   "zh": "本站採用的數字來自美國農業部農業研究署《農業手冊 66》——蔬果商業貯藏的採後權威參考——以及香港食物安全中心關於木薯的指引。兩者都列在該食材頁面上。"
+  }
+ },
+ {
+  "slug": "rice-wine-cooking",
+  "supersededBy": "cooking-wine-bottled",
+  "kind": "merge",
+  "reason": {
+   "en": "Two records described the same bottles — Taiwanese rice wine, Shaoxing, huadiao and salted cooking wines. Neither carried a storage figure and both gave the same rule, so the site was answering one question on two pages.",
+   "zh": "兩筆紀錄描述的是同樣的東西——台灣米酒、紹興、花雕與加鹽料理酒。兩筆都沒有保存期限數字，給的規則也一樣，等於同一個問題被拆成兩頁回答。"
+  },
+  "evidence": {
+   "en": "No figure changed: neither record published one. The two articles were merged into the surviving page, which keeps the alcohol thresholds and the names from both.",
+   "zh": "沒有任何數字被更動：兩筆本來就都沒有數字。兩篇文章已合併到留存的頁面，酒精濃度門檻與兩邊的品名都保留下來。"
+  }
  }
 ]

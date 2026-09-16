@@ -1,4 +1,5 @@
 import foodsRaw from '@/data/generated/foods.json';
+import retiredRaw from '@/data/generated/retired.json';
 import guidesRaw from '@/data/generated/guides.json';
 import type { Food, Guide, Method, Span } from './types';
 import { LOCALES, type Locale, t } from './i18n';
@@ -19,6 +20,13 @@ for (const l of LOCALES) {
     m.set(f.slug, f);
     const s = f.slugs?.[l];
     if (s) m.set(s, f);
+  }
+  // Records retired as duplicates keep resolving, to the food that replaced
+  // them. The page sees a slug that is not the survivor's own and redirects,
+  // so a link published before the merge still lands on the answer.
+  for (const [retired, survivor] of Object.entries(retiredRaw as Record<string, string>)) {
+    const f = bySlug.get(survivor);
+    if (f) m.set(retired, f);
   }
   byLocaleSlug[l] = m;
 }

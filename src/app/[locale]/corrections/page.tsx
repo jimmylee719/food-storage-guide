@@ -10,6 +10,10 @@ import corrections from '@/data/base/corrections.json';
 
 type Correction = {
   slug: string;
+  /** Set when the record was retired as a duplicate rather than adjusted. */
+  supersededBy?: string;
+  /** 'correction' changed a figure; 'merge' folded a duplicate away. */
+  kind?: 'correction' | 'merge';
   reason: Record<string, string>;
   evidence: Record<string, string>;
 };
@@ -40,7 +44,15 @@ export default async function CorrectionsPage({ params }: { params: Promise<{ lo
 
   // Generated from the corrections file rather than written by hand, so the page
   // cannot drift out of step with what the site actually publishes.
-  const items = LIST.map((c) => ({ ...c, food: getFood(c.slug) })).filter((c) => c.food);
+  // A correction that adjusted a figure still has its own food. One that
+  // retired a duplicate does not — its page is gone — so it resolves to the
+  // record that replaced it.
+  const items = LIST.map((c) => ({
+    ...c,
+    food: getFood(c.supersededBy ?? c.slug),
+  })).filter((c) => c.food);
+  const adjusted = items.filter((c) => !c.supersededBy);
+  const merged = items.filter((c) => c.supersededBy);
 
   const ld = {
     '@context': 'https://schema.org',
@@ -69,11 +81,11 @@ export default async function CorrectionsPage({ params }: { params: Promise<{ lo
         </section>
 
         <section>
-          <h2>{d.correctionsLogHeading(items.length)}</h2>
-          {items.length === 0 ? (
+          <h2>{d.correctionsLogHeading(adjusted.length)}</h2>
+          {adjusted.length === 0 ? (
             <p>{d.correctionsNone}</p>
           ) : (
-            items.map((c) => (
+            adjusted.map((c) => (
               <article key={c.slug} className="correction-entry">
                 <h3>
                   <Link href={foodPath(c.food!, l)}>{c.food!.names[l]}</Link>
@@ -88,6 +100,30 @@ export default async function CorrectionsPage({ params }: { params: Promise<{ lo
             ))
           )}
         </section>
+
+        {merged.length > 0 && (
+          <section>
+            {/* Retiring a duplicate is not the same act as changing a figure,
+                so it is logged separately rather than blurred into the list
+                above. */}
+            <h2>{d.correctionsMergedHeading(merged.length)}</h2>
+            <p>{d.correctionsMergedLead}</p>
+            {merged.map((c) => (
+              <article key={c.slug} className="correction-entry">
+                <h3>
+                  <Link href={foodPath(c.food!, l)}>{c.food!.names[l]}</Link>
+                </h3>
+                <p className="footer-note">{d.correctionsRetiredSlug(c.slug)}</p>
+                <p>
+                  <strong>{d.correctionsMergedWhy}</strong> {c.reason[l] ?? c.reason.en}
+                </p>
+                <p>
+                  <strong>{d.correctionsEvidence}</strong> {c.evidence[l] ?? c.evidence.en}
+                </p>
+              </article>
+            ))}
+          </section>
+        )}
 
         <section>
           <h2>{d.correctionsReportHeading}</h2>

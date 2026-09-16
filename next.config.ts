@@ -1,4 +1,43 @@
 import type { NextConfig } from 'next';
+import { readFileSync } from 'node:fs';
+
+/**
+ * Records retired as duplicates, redirected at the router rather than in the
+ * page.
+ *
+ * The page already redirects an older slug to the one its locale publishes,
+ * and for the ~1,070 English-to-Chinese food slugs that works. For this
+ * handful it did not: the responses came back 308 with no Location header at
+ * all, inconsistently — /en/food/yuca-cassava carried one while
+ * /en/food/whole-wheat-flour, with an equally plain ASCII target, did not. A
+ * 308 without a Location is a dead end for the reader.
+ *
+ * This set is small, fixed and known at build time, so it belongs in the
+ * router where nothing has to render for the redirect to exist.
+ */
+function retiredRedirects() {
+  const retired: Record<string, string> = JSON.parse(
+    readFileSync('./src/data/generated/retired.json', 'utf8'),
+  );
+  const foods: { slug: string; slugs: Record<string, string> }[] = JSON.parse(
+    readFileSync('./src/data/generated/foods.json', 'utf8'),
+  );
+  const bySlug = new Map(foods.map((f) => [f.slug, f]));
+  const out: { source: string; destination: string; permanent: true }[] = [];
+  for (const [from, to] of Object.entries(retired)) {
+    const survivor = bySlug.get(to);
+    if (!survivor) continue;
+    for (const locale of ['zh', 'en']) {
+      const slug = survivor.slugs?.[locale] ?? survivor.slug;
+      out.push({
+        source: `/${locale}/food/${from}`,
+        destination: `/${locale}/food/${encodeURIComponent(slug)}`,
+        permanent: true,
+      });
+    }
+  }
+  return out;
+}
 
 const nextConfig: NextConfig = {
   reactStrictMode: true,
@@ -20,6 +59,7 @@ const nextConfig: NextConfig = {
     // These are the URLs the previous single-page version of the site published,
     // kept so indexed links and backlinks land on the new equivalent.
     return [
+      ...retiredRedirects(),
       { source: '/index.html', destination: '/zh', permanent: true },
       { source: '/about.html', destination: '/zh/about', permanent: true },
       { source: '/privacy-policy.html', destination: '/zh/privacy', permanent: true },
