@@ -8,11 +8,11 @@
    "soy protein crumbles",
    "素絞肉"
   ],
-  "summary": "Frozen soy crumbles and soy hot dogs keep 1–2 months from purchase at −18 °C (0 °F) for best quality. Keep them frozen and cook as directed. Once cooked, they keep 3–4 days in the fridge at 4 °C (40 °F) or below.",
-  "pantry": "No room-temperature storage. Being meat-free changes nothing about the handling: these are moist, low-acid, high-protein foods, usually with added oil, and they support bacterial growth just as readily as the meat versions do. Anything left out is in the danger zone of 4–60 °C (40–140 °F) and follows the two-hour rule, one hour if the kitchen is above 32 °C (90 °F). Soy hot dogs in particular are often ready-to-eat, so there is no cooking step left to correct mishandling.",
-  "fridge": "3–4 days at 4 °C (40 °F) or below once cooked, covered — that is what the figure describes. An opened pack of thawed crumbles should be used within a day or two and kept sealed, because the surface dries and picks up fridge odours quickly. Reheat right through to steaming hot rather than to lukewarm, and reheat only the portion you will eat.",
-  "freezer": "1–2 months from purchase at −18 °C (0 °F) for best quality — short, and for the same reason as the meat versions: the added vegetable oil is dispersed throughout the product and oxidises steadily even at freezer temperature, giving an over-kept pack a stale, cardboardy, painty taste. That window is about quality, not safety: kept continuously at −18 °C these stay safe indefinitely. Press the air out of an opened bag and reseal it tightly each time.",
-  "thawing": "Cook crumbles straight from frozen wherever the pack allows it — they break apart easily and heat through quickly. Otherwise thaw in the fridge, never on the counter. Anything thawed in the fridge and still at or below 4 °C (40 °F) may be refrozen with some quality loss; anything thawed warm must not be.",
+  "summary": "Frozen soy crumbles and soy hot dogs keep 1–2 months from purchase at −18 °C (0 °F) for best quality — a tenth of what a frozen soy burger gets, and the shape is why. Crumbles are thousands of small separate pieces and a hot dog is an emulsion with oil worked all the way through it, so both present an enormous amount of oiled surface to freezer air. Keep them frozen and cook as directed; once cooked, they keep 3–4 days in the fridge at 4 °C (40 °F) or below.",
+  "pantry": "None. Being meat-free changes nothing about the handling: these are moist, low-acid, high-protein foods with added oil, and bacteria find them every bit as hospitable as the meat originals. The two-hour rule applies in the 4–60 °C (40–140 °F) danger zone, one hour if the kitchen is above 32 °C (90 °F). Soy hot dogs deserve particular care, because they are usually fully cooked and eaten as they are, so there is no heating step left in which a mistake could be put right.",
+  "fridge": "The 3–4 day figure describes cooked product: covered, at 4 °C (40 °F) or below. Crumbles that have thawed but not been cooked are a different situation and want using within a day or two, sealed tightly — loose crumbles have so much surface that they dry into hard grains and take up fridge smells overnight. Move opened hot dogs into a box rather than leaving them in a slit pack, which does not reseal. Reheat to steaming rather than to lukewarm, and only the portion you are going to eat.",
+  "freezer": "1–2 months from purchase at −18 °C (0 °F) for best quality, which is genuinely short and worth planning around. The reason is surface area. A frozen burger is one solid block with a small outside; a bag of crumbles is a mountain of separate grains, each one essentially all surface, and the vegetable oil in them meets freezer air on every face. Oxidation continues at −18 °C, only slowly — but with this much surface it does not have to be fast. An over-kept bag tastes stale, cardboardy, faintly of paint. That is a quality limit rather than a safety one; held continuously at −18 °C they stay safe indefinitely. Push the air out and clip the bag shut every time, and keep it away from the door.",
+  "thawing": "Cook crumbles straight from frozen wherever the pack allows it, which is nearly always: they break apart in the pan and heat through in minutes, so you skip thawing altogether. Hot dogs go from frozen into simmering water or a hot pan. Otherwise thaw in the fridge, never on the counter. Something thawed in the fridge and still at or below 4 °C (40 °F) may be refrozen with some loss of quality; anything that has warmed up may not.",
   "spoilage": [
    "A stale, cardboardy or painty smell from the oil — the usual failure.",
    "Dry, pale, crumbly patches — freezer burn.",
@@ -48,11 +48,11 @@
    "植物肉末",
    "soy crumbles"
   ],
-  "summary": "冷凍素絞肉與素熱狗在 −18 °C 下自購買日起可保有最佳品質 1～2 個月。請保持冷凍並依指示烹調。煮熟之後放 4 °C 以下冷藏 3～4 天。",
-  "pantry": "沒有室溫保存這一項。「不是肉」並不會改變任何處理方式：它們同樣是含水量高、低酸、高蛋白的食物，而且通常加了油脂，細菌長起來和葷的版本一樣順利。任何擺在外面的都在 4～60 °C 的危險溫度帶裡，適用兩小時原則，廚房超過 32 °C 時只有一小時。素熱狗尤其常常是即食產品，後面沒有加熱步驟可以幫你補救。",
-  "fridge": "煮熟之後蓋好放 4 °C 以下 3～4 天——這個數字描述的正是這個狀態。已經解凍、拆封的素絞肉請在一兩天內用掉並密封好，因為表面很快會變乾、又很會吸冰箱的味道。回熱要熱到中心冒熱氣，不要只是溫溫的，而且吃多少熱多少。",
-  "freezer": "−18 °C 下自購買日起 1～2 個月品質最好——很短，理由和葷的版本一樣：添加的植物油分散在整個產品裡，即使在冷凍溫度下也持續氧化，讓放過頭的那包吃起來走味、有紙板味甚至油漆味。這是品質期限不是安全期限：全程維持在 −18 °C 就一直是安全的。拆封後每次都要壓出空氣、確實封緊。",
-  "thawing": "包裝允許的話，素絞肉直接從冷凍下鍋最好——它很容易散開，也熱得很快。否則請放冷藏解凍，絕對不要放檯面。在冷藏解凍、且維持在 4 °C 以下的可以再冷凍，只是品質打折；回溫過的絕對不行。",
+  "summary": "冷凍素絞肉與素熱狗在 −18 °C 下自購買日起品質最好的期間是 1～2 個月——只有冷凍素漢堡排的十分之一，而原因出在形狀。素絞肉是成千上萬顆各自分開的小顆粒，素熱狗則是把油整個打進去的乳化製品，兩者都把極大量含油的表面攤給冷凍庫的空氣。請保持冷凍並依指示烹調；煮熟之後放 4 °C 以下冷藏 3～4 天。",
+  "pantry": "沒有。不是肉這件事不會改變任何處理方式：它們含水量高、低酸、高蛋白，而且加了油，對細菌來說和葷的原型一樣好客。在 4～60 °C 的危險溫度帶適用兩小時原則，廚房超過 32 °C 時只有一小時。素熱狗尤其要小心，因為它通常是全熟、直接就吃的產品，後面不再有任何一道加熱可以把失誤補回來。",
+  "fridge": "3～4 天講的是煮熟之後：蓋好放 4 °C 以下。已經解凍但還沒煮的素絞肉是另一回事，要密封並在一兩天內用掉——散開的顆粒表面積太大，放一個晚上就乾成硬粒，還把冰箱的味道全吸進去。開封的素熱狗請改裝進盒子，割開的包裝袋是封不回去的。回熱要熱到冒蒸氣，不要只是溫溫的，而且只熱你真的要吃的份量。",
+  "freezer": "−18 °C 下自購買日起 1～2 個月品質最好，這確實很短，值得先安排好怎麼用完。原因是表面積。一片冷凍漢堡排是一整塊，外表面很小；一袋素絞肉卻是一座由獨立顆粒堆成的小山，每一顆幾乎全是表面，裡面的植物油每一面都碰得到冷凍庫的空氣。氧化在 −18 °C 仍然在進行，只是很慢——但表面積這麼大，它根本不需要快。放過頭的那一包吃起來就是走味、紙板味，甚至隱約像油漆。這是品質的上限，不是安全的：全程維持在 −18 °C 就一直是安全的。每次用完都把袋子裡的空氣壓掉、夾緊，並且遠離冷凍櫃門。",
+  "thawing": "包裝允許的話，素絞肉直接從冷凍下鍋，而且幾乎都允許：它在鍋裡就會散開，幾分鐘就熱透，等於完全跳過解凍。素熱狗則可以從冷凍直接下滾水或下熱鍋。真的要解凍就放冷藏，絕對不要放檯面。在冷藏解凍、且一直維持在 4 °C 以下的可以再冷凍，只是品質打折；已經回溫的就不行。",
   "spoilage": [
    "油脂發出走味、紙板味或油漆味——最常見的結局。",
    "出現乾燥、發白、粉碎的斑塊——那是凍燒。",

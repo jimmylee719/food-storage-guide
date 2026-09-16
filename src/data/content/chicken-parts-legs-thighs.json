@@ -3,11 +3,11 @@
   "en": {
     "name": "Chicken legs or thighs",
     "aliases": ["chicken drumsticks", "chicken thighs", "leg quarters", "dark meat chicken", "chicken legs"],
-    "summary": "Chicken legs, drumsticks and thighs are the flavourful dark-meat cuts, sold bone-in or boneless, with or without skin. Raw, they keep in the fridge for only 1 to 2 days from purchase. In the freezer they hold their best quality for up to 9 months at −18 °C (0 °F).",
-    "pantry": "Raw chicken legs and thighs must not be stored at room temperature. Bacteria multiply quickly between 4 and 60 °C (40 and 140 °F), so discard any pieces that have been out for more than 2 hours, or 1 hour above 32 °C (90 °F). Refrigerate or freeze as soon as you get home.",
-    "fridge": "Keep the pieces in their original tray or an airtight container on a plate on the bottom shelf of a fridge at or below 4 °C (40 °F), and cook within 1 to 2 days of purchase. Marinated pieces follow the same rule. Wipe up any juices and keep raw chicken away from ready-to-eat food.",
-    "freezer": "Legs and thighs freeze well for up to 9 months at −18 °C (0 °F); their higher fat content helps them stay juicy after thawing. Wrap pieces individually or in meal-sized portions, press the air out of the freezer bag and label with the date. They stay safe indefinitely while frozen, but quality declines gradually beyond 9 months.",
-    "thawing": "Thaw in the fridge on a plate, allowing about 24 hours for a package. For faster results, seal the pieces in a bag and submerge in cold water, changing the water every 30 minutes, then cook immediately. Never thaw on the counter.",
+    "summary": "Chicken legs, drumsticks and thighs are dark meat: muscles the bird actually uses, carrying more myoglobin, more connective tissue and considerably more fat than breast. Raw, they keep 1 to 2 days in the fridge from purchase and hold best quality up to 9 months in the freezer at −18 °C (0 °F) — and it is the fat, not drying, that sets the far end of that window.",
+    "pantry": "Raw legs and thighs have no room-temperature allowance at all. The 2-hour limit applies, cut to 1 hour above 32 °C (90 °F), and it covers the whole time the pack has been away from a chiller: the walk home, the bag in a warm car, the twenty minutes on the counter while you found a dish. Bacteria multiply between 4 and 60 °C (40 and 140 °F), and the crevices around the joint are the last places to cool down.",
+    "fridge": "1 to 2 days from purchase at 4 °C (40 °F) or below, in the tray or a lidded box, on a plate on the bottom shelf. Dark meat goes off in a way you smell before you see: a sour, faintly sulphurous edge, strongest around the joint and under the folds of skin where juices collect and air does not reach. Marinade does not extend the window, and an acidic one firms the surface and can mask that smell, which makes it worse as a way of buying time rather than better. Wipe up anything that drips and keep the pack below ready-to-eat food.",
+    "freezer": "9 months of best quality at −18 °C (0 °F), and the higher fat content cuts both ways: it keeps the meat juicy through thawing, which breast never manages, but fat is also the thing that oxidises in a freezer. Thighs kept past their window come back tasting stale and faintly of old oil rather than merely dry. Portion them into meal-sized packs and press the air out before sealing, since contact with air is what drives the rancidity. Skin-on pieces earn an extra layer of film over the skin, where most of the fat sits.",
+    "thawing": "About 24 hours in the fridge for a package, on a plate to catch drips. Cold-water thawing in a leak-proof bag with the water changed every 30 minutes is the quick route and commits you to cooking immediately afterwards. Dark meat forgives long cooking, so thawed thighs go well into a braise — but they still have to be cooked through, and the meat right at the joint stays pink well after it is done, which is normal. Judge doneness by temperature rather than by colour.",
     "spoilage": [
       "A sour or sulphur-like smell when the package is opened",
       "Slimy or sticky skin and meat",
@@ -29,11 +29,11 @@
   "zh": {
     "name": "雞腿肉",
     "aliases": ["雞腿", "棒棒腿", "去骨雞腿", "雞腿排", "大腿肉"],
-    "summary": "雞腿、棒棒腿和大腿肉是風味豐富的深色肉部位，有帶骨、去骨、帶皮、去皮各種形式。生的雞腿冷藏只能放 1 到 2 天（從購買日算起），冷凍在 −18 °C 可以維持最多 9 個月的最佳品質。",
-    "pantry": "生雞腿不能放在室溫保存。在 4 到 60 °C 之間細菌繁殖很快，放在室溫超過 2 小時（氣溫高於 32 °C 時超過 1 小時）的雞腿就要丟掉。買回家立刻冷藏或冷凍。",
-    "fridge": "雞腿連原本的托盤或裝進密封盒，放在盤子上擺在 4 °C 以下冷藏室的最下層，購買後 1 到 2 天內煮掉。醃過的也一樣。滴出來的肉汁要擦乾淨，生雞肉要遠離可以直接吃的食物。",
-    "freezer": "雞腿在 −18 °C 冷凍可以保存最多 9 個月的最佳品質，油脂較多，解凍後也比較多汁。一支一支分開包，或分成一餐的份量，冷凍袋擠出空氣並標上日期。持續冷凍在安全上可以放很久，但超過 9 個月品質會逐漸下降。",
-    "thawing": "放在盤子上在冷藏室解凍，一包約需 24 小時。想快一點，密封裝袋泡冷水，每 30 分鐘換水，解凍後馬上煮。不要放在流理台上解凍。",
+    "summary": "雞腿、棒棒腿和大腿肉屬於深色肉：那是雞真正會用到的肌肉，肌紅蛋白更多、筋更多，脂肪也比雞胸多得多。生的從購買日算起冷藏只能放 1 到 2 天，冷凍在 −18 °C 可維持最多 9 個月的最佳品質——而決定那個上限的是脂肪，不是乾掉。",
+    "pantry": "生雞腿完全沒有室溫的餘地。2 小時的上限照樣適用，氣溫超過 32 °C 時縮到 1 小時，而且這算的是它離開冷藏櫃之後的全部時間：走回家的路、悶在溫熱車裡的那一袋，還有你找盤子的那二十分鐘。細菌在 4 到 60 °C 之間繁殖，而關節周圍的縫隙是最慢降下溫度的地方。",
+    "fridge": "從購買日起放 4 °C 以下 1 到 2 天，維持原托盤或裝有蓋的盒子，墊盤子放最下層。深色肉壞掉的方式是先聞得到才看得到：一股偏酸、帶點硫磺味的氣息，在關節附近和皮的皺褶底下最濃，因為那裡積著肉汁又碰不到空氣。醃料不會延長期限；酸性的醃料會讓表面變緊實，還可能蓋掉那股味道，拿來當拖時間的手段反而更糟。滴出來的汁要立刻擦掉，整盤放在即食食品的下方。",
+    "freezer": "在 −18 °C 可維持最多 9 個月的最佳品質，而脂肪多這件事是雙面的：它讓肉在解凍後仍然多汁，這是雞胸辦不到的；但脂肪也正是在冷凍庫裡會氧化的東西。超過期限的雞腿回來時不是變柴，而是帶著一股陳舊、像放久的油的味道。請分成一餐的份量，擠掉空氣再封緊，因為推動油耗的正是與空氣接觸。帶皮的部位建議在皮上多包一層保鮮膜，脂肪大多集中在那裡。",
+    "thawing": "一包在冷藏大約 24 小時，底下墊盤子接汁。冷水法（不漏水的袋子、每 30 分鐘換水）是快的選項，做完就要立刻烹煮。深色肉很耐久煮，解凍後的雞腿很適合拿去燉——但一樣要徹底煮熟，而且貼著關節的肉在熟透之後仍然會是粉紅色，那是正常的。判斷熟度請看溫度，不要看顏色。",
     "spoilage": [
       "打開包裝時有酸味或硫磺味",
       "雞皮和肉摸起來黏滑",

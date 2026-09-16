@@ -3,11 +3,11 @@
   "en": {
     "name": "Chicken breast (bone-in)",
     "aliases": ["bone-in chicken breast", "split chicken breast", "chicken breast halves", "skin-on chicken breast"],
-    "summary": "Bone-in chicken breast halves are the breast split down the centre with the rib bones and usually the skin still attached. Like all raw chicken, they keep in the fridge for only 1 to 2 days from purchase. In the freezer they hold their best quality for up to 9 months.",
-    "pantry": "Raw chicken cannot be stored at room temperature. Between 4 and 60 °C (40 and 140 °F) bacteria grow quickly, so throw away any chicken that has been out for more than 2 hours, or 1 hour when it is above 32 °C (90 °F). Refrigerate or freeze it as soon as you are home.",
-    "fridge": "Keep the breasts in their original package or a sealed container on a tray on the bottom shelf, at or below 4 °C (40 °F), and cook them within 1 to 2 days of purchase. Do not wash raw chicken; it spreads bacteria around the sink. If you have marinated the breasts, keep them covered in the fridge and cook within the same window.",
-    "freezer": "Bone-in breasts freeze well for up to 9 months at −18 °C (0 °F). Wrap each piece individually in cling film or freezer paper, then place them in a freezer bag with the air pressed out so the bone does not puncture the bag. They stay safe indefinitely while frozen; the 9-month guideline is for best flavour and texture.",
-    "thawing": "Thaw in the fridge on a plate, allowing roughly 24 hours for a package of breasts. For faster thawing, seal them in a bag and submerge in cold water, changing the water every 30 minutes, then cook immediately. Never thaw on the counter.",
+    "summary": "Bone-in chicken breast halves are the breast split down the centre with the rib bones and, usually, the skin left on. The bone and the skin change how the piece stores: both slow heat moving in and out, so the meat lying against the ribs is the last part to chill and the last part to thaw. Raw, it keeps 1 to 2 days in the fridge from purchase, and holds its best quality for up to 9 months in the freezer.",
+    "pantry": "There is no room-temperature figure for raw chicken, and a bone-in piece deserves extra care because you cannot tell by touch when the inside has warmed. The surface can still feel cold while the meat beside the ribs has drifted into the 4–60 °C (40–140 °F) range. Throw away any chicken that has been out for more than 2 hours, or 1 hour above 32 °C (90 °F), and put the pack away the moment you get home.",
+    "fridge": "1 to 2 days from purchase at 4 °C (40 °F) or below, in the original pack or a sealed box, sat on a tray on the bottom shelf where nothing can drip onto it. Bone-in pieces chill more slowly than boneless ones, so lay the pack out in a single layer rather than stacking it. The skin is where spoilage announces itself first: fresh chicken skin is dry, tacky at most, and when it turns it goes slippery and slick with a smell somewhere between sulphur and ammonia. Do not rinse the breasts — washing raw chicken sprays contaminated droplets around the sink and achieves nothing the pan will not do better.",
+    "freezer": "Up to 9 months of best quality at −18 °C (0 °F), and safe indefinitely beyond that. Wrap each piece in cling film or freezer paper before bagging, because a sawn rib end will work a hole through a single layer and let air at the meat. One thing to expect and ignore: bone-in chicken that has been frozen often darkens around the bone after cooking, a maroon to near-black seepage of marrow pigment through the porous bones of a young bird. It is a cosmetic effect of freezing, not spoilage.",
+    "thawing": "Fridge thawing on a plate, roughly 24 hours for a package, because the bone slows the whole process. If you need it sooner, seal the pieces in a leak-proof bag and submerge them in cold water, changing the water every 30 minutes, then cook straight away. Never thaw chicken on the counter, and least of all a bone-in piece: the outside is thawed and warming long before the meat against the ribs has given up any ice.",
     "spoilage": [
       "A sour or sulphur-like smell when the package is opened",
       "A slimy or sticky film on the skin or meat",
@@ -29,11 +29,11 @@
   "zh": {
     "name": "帶骨雞胸肉",
     "aliases": ["帶骨雞胸", "半邊雞胸", "帶皮帶骨雞胸", "雞胸排"],
-    "summary": "帶骨雞胸肉是把雞胸從中間剖成兩半，連著肋骨和通常也帶皮的部位。和所有生雞肉一樣，冷藏只能放 1 到 2 天（從購買日算起），冷凍則可以維持最多 9 個月的最佳品質。",
-    "pantry": "生雞肉不能放在室溫。在 4 到 60 °C 之間細菌繁殖很快，放在室溫超過 2 小時（氣溫高於 32 °C 時超過 1 小時）的雞肉就要丟掉。買回家立刻冷藏或冷凍。",
-    "fridge": "雞胸肉連原包裝或裝進密封盒，放在托盤上擺在 4 °C 以下冷藏室的最下層，購買後 1 到 2 天內煮掉。生雞肉不要用水沖洗，會把細菌濺到水槽四周。如果先醃過，蓋好放冷藏，同樣在這段時間內煮完。",
-    "freezer": "帶骨雞胸在 −18 °C 冷凍可以保存最多 9 個月的最佳品質。每塊先用保鮮膜或冷凍紙個別包好，再放進冷凍袋擠出空氣，這樣骨頭才不會戳破袋子。持續冷凍在安全上可以放很久，9 個月是風味和口感最好的建議期限。",
-    "thawing": "放在盤子上在冷藏室解凍，一包雞胸約需 24 小時。想快一點，密封裝袋泡冷水，每 30 分鐘換水，解凍後馬上煮。不要放在流理台上解凍。",
+    "summary": "帶骨雞胸是把雞胸從中線剖半，連著肋骨、通常也帶皮。骨頭和皮改變了它的保存方式：兩者都會拖慢熱的進出，所以最貼近肋骨的那一層肉，降溫最慢、解凍也最慢。生的從購買日算起冷藏只能放 1 到 2 天，冷凍則可維持最多 9 個月的最佳品質。",
+    "pantry": "生雞肉沒有室溫天數，而帶骨的更要小心，因為你摸不出裡面什麼時候回溫了：表面可能還冰冰的，貼著骨頭的肉卻已經漂進 4 到 60 °C 這個區間。放在外面超過 2 小時（氣溫高於 32 °C 時超過 1 小時）的雞肉就要丟掉，回到家第一件事就是把它收進冰箱。",
+    "fridge": "從購買日起放 4 °C 以下 1 到 2 天，維持原包裝或裝密封盒，墊托盤放冷藏室最下層，上方不要有東西可能滴下來。帶骨的比去骨的降溫慢，所以請攤成一層，不要疊起來。皮是最先透露變質的地方：新鮮的雞皮頂多有點乾、有點黏手，一旦壞了就會變得滑溜溜，並帶出介於硫磺和阿摩尼亞之間的氣味。不要沖洗雞胸——沖洗生雞肉只會把帶菌的水花濺得水槽到處都是，該殺的菌交給鍋子就好。",
+    "freezer": "在 −18 °C 可維持最多 9 個月的最佳品質，之後在安全上仍可無限期保存。裝袋前每塊先用保鮮膜或冷凍紙包起來，因為鋸開的肋骨端會磨破單層袋子，讓空氣碰到肉。有一件事會發生，但可以不用理它：冷凍過的帶骨雞肉煮熟後常常在骨頭周圍變深，出現暗紅到近黑的滲色，那是幼雞的骨頭多孔，骨髓色素滲了出來。那是冷凍造成的外觀變化，不是變質。",
+    "thawing": "放盤子上冷藏解凍，一包大約 24 小時，因為骨頭會把整個過程拖慢。急的話請密封裝進不漏水的袋子泡冷水，每 30 分鐘換一次水，解凍後立刻下鍋。絕對不要放在流理台上解凍，帶骨的尤其不行：外層早就化開而且在回溫，貼著肋骨的肉卻連一點冰都還沒退。",
     "spoilage": [
       "打開包裝時有酸味或硫磺味",
       "雞皮或肉的表面有一層黏滑的膜",

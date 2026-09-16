@@ -3,11 +3,11 @@
   "en": {
     "name": "Fresh ham, uncooked, half leg, bone-in",
     "aliases": ["half pork leg", "half fresh ham", "bone-in pork leg half", "uncured half ham", "half leg of pork"],
-    "summary": "A bone-in half fresh ham is half of the uncured, unsmoked rear leg of pork, sold as either the shank (lower) or sirloin (upper) end. It keeps 1 week in the fridge from the date of purchase and 1–2 months in the freezer for best quality. It is raw pork and must be cooked through.",
-    "pantry": "Fresh pork cannot be stored at room temperature. Do not leave the half leg out for more than 2 hours (1 hour above 32 °C / 90 °F), whether it is thawing or resting before roasting. Between 4 and 60 °C (40–140 °F) bacteria multiply quickly.",
-    "fridge": "Keep it in its original wrapping at or below 4 °C (40 °F), on the bottom shelf in a tray to catch drips. Cook within 1 week of purchase and before the use-by date. The large cut face of a half leg dries out and spoils faster than a whole leg, so cover it tightly.",
-    "freezer": "Wrap the cut face especially well: freezer film over the whole piece, then heavy foil or a freezer bag with the air pressed out, and freeze at −18 °C (0 °F). It stays safe indefinitely at that temperature, but for best quality roast it within 1–2 months.",
-    "thawing": "Thaw in the fridge, allowing about 24 hours per 2 kg (4–5 lb); a half leg usually needs 1–2 days. Cold-water thawing in a leak-proof bag, with the water changed every 30 minutes, is faster but the pork must then be cooked immediately. Never thaw on the counter.",
+    "summary": "A bone-in half fresh ham is the uncured, unsmoked pork leg cut in two and sold as either the shank end — lower, more sinew, easier to carve around — or the sirloin end, which is meatier but has awkward bones. Halving it doubles the exposed meat: where a whole leg is sealed by rind, a half has a broad raw cut face. It keeps 1 week in the fridge from the date of purchase and 1–2 months in the freezer for best quality, and it is raw pork that must be cooked through.",
+    "pantry": "There is no room-temperature storage for raw pork, and the cut face is the reason to be strict about it. Bacteria are a surface problem — they land on exposed muscle and multiply there, anywhere between 4 and 60 °C (40 and 140 °F) — so the flat face of a half leg offers far more of a foothold than intact skin does. Two hours out is the maximum, dropping to 1 hour when the kitchen is above 32 °C (90 °F), and that includes time spent thawing or waiting to go into the oven.",
+    "fridge": "One week from the purchase date at 4 °C (40 °F) or below, bottom shelf, in a tray that will catch drips. A half leg is small enough to chill right through overnight, which a whole one is not, so what you are managing here is not temperature but air. The cut face dries, darkens and greys within a day if it is left open, and butcher's paper will not stop it: press cling film flat against the meat, or bag the whole piece with the air squeezed out. Surface drying is a quality problem rather than a safety one, but you end up trimming it off, and that is meat you paid for.",
+    "freezer": "The cut face is again what you are protecting, this time from freezer burn, which shows on exposed muscle as pale, dry, greyish patches. Press freezer film onto the face with no air pocket, wrap the whole piece, then add heavy foil or a bag with the air pressed out. At −18 °C (0 °F) it stays safe indefinitely and roasts best within 1–2 months.",
+    "thawing": "Fridge thawing at about 24 hours per 2 kg (4–5 lb) puts a half leg at 1–2 days, which is the practical argument for buying half: you can decide on Friday and roast on Sunday. Cold-water thawing in a leak-proof bag with the water changed every 30 minutes will do it in a few hours, after which it has to be cooked straight away. Never leave it on the counter.",
     "spoilage": [
       "Sour or ammonia-like smell, strongest at the cut face and bone",
       "Slimy or sticky surface",
@@ -29,11 +29,11 @@
   "zh": {
     "name": "生鮮豬後腿（帶骨半腿）",
     "aliases": ["半隻豬腿", "帶骨豬腿肉半隻", "未醃製半腿", "豬後腿肉塊", "生豬腿半隻"],
-    "summary": "帶骨半腿的 fresh ham 是沒有醃製、沒有煙燻的豬後腿切成一半，分為腿腱端（下半）和腰臀端（上半）販售。從購買日算起冷藏可放 1 週，冷凍以 1～2 個月內用完為佳。它是生豬肉，必須徹底煮熟。",
-    "pantry": "生豬肉不能常溫存放。不論是解凍還是烤前回溫，都不要放在外面超過 2 小時（室溫超過 32 °C 則 1 小時）。細菌在 4～60 °C 之間繁殖得很快。",
-    "fridge": "保留原包裝，放在 4 °C 以下冷藏室的最下層，底下墊盤子接肉汁。從購買日算起 1 週內烹煮，且不能超過有效期限。半腿的切面很大，比整腿更容易變乾變質，要包緊。",
-    "freezer": "切面要特別包好：整塊先用保鮮膜包住，再包厚鋁箔紙或套壓出空氣的冷凍袋，放 −18 °C 冷凍庫。在這個溫度下安全上可以放很久，但 1～2 個月內烤掉品質最好。",
-    "thawing": "放冷藏室解凍，每 2 公斤約 24 小時，半腿通常要 1～2 天。冷水法（不漏水的袋子，每 30 分鐘換水）比較快，但解凍後要立刻烹煮。不要放在室溫下退冰。",
+    "summary": "帶骨半腿是把沒有醃製、沒有煙燻的豬後腿對切，分成腿腱端（下半，筋較多、比較好沿骨切）和腰臀端（上半，肉多但骨頭形狀麻煩）販售。切成一半等於把裸露的肉面翻倍：整腿有豬皮封著，半腿卻多出一大片生肉切面。從購買日算起冷藏 1 週，冷凍以 1～2 個月內用完品質最好；它是生豬肉，必須徹底煮熟。",
+    "pantry": "生豬肉沒有室溫保存這回事，而切面就是必須嚴格執行的理由。細菌是表面的問題——它們落在裸露的肌肉上，只要溫度落在 4～60 °C 之間就繁殖——所以半腿那一大片平切面提供的立足點，遠比一層完整的豬皮多。離開冰箱最多 2 小時，廚房超過 32 °C 時降到 1 小時，而且解凍中、等著進烤箱的時間都要算進去。",
+    "fridge": "從購買日起放 4 °C 以下 1 週，最下層，底下墊盤子接肉汁。半腿夠小，放一個晚上就能整塊降溫，整腿做不到這件事；所以這裡要管的不是溫度，而是空氣。切面就這樣露著放一天，就會乾掉、變深、泛灰，肉販的包裝紙擋不住：請用保鮮膜緊貼切面壓平，或把整塊裝袋並擠出空氣。表面乾掉屬於品質而不是安全問題，但你最後還是得把那一層削掉，那是你花錢買的肉。",
+    "freezer": "要保護的一樣是切面，這次防的是凍燒——凍燒在裸露的肌肉上會變成一塊塊蒼白乾硬的灰斑。保鮮膜要直接壓在切面上、不留氣泡，先包整塊，再加一層厚鋁箔或擠掉空氣的冷凍袋。放 −18 °C 安全上可以無限期維持，1～2 個月內烤掉最好吃。",
+    "thawing": "冷藏解凍大約每 2 公斤 24 小時，半腿就是 1～2 天，這正是買半腿最實際的好處：星期五決定，星期日就烤得到。冷水法（不漏水的袋子、每 30 分鐘換水）幾個小時就能完成，完成後必須立刻烹煮。不要放在檯面上退冰。",
     "spoilage": [
       "有酸味或阿摩尼亞味，切面和骨頭附近最明顯",
       "表面黏滑或黏手",

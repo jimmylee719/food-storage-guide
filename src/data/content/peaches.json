@@ -3,11 +3,11 @@
   "en": {
     "name": "Peaches",
     "aliases": ["peach", "clingstone peach", "freestone peach", "melocotón"],
-    "summary": "Peaches are picked firm and finish ripening off the tree, softening and perfuming but never getting much sweeter. There is no fixed counter timeline — leave them out until ripe, then 1 to 2 days — after which they keep 3 to 5 days in the fridge, and sliced fruit freezes for 2 months.",
-    "pantry": "The counter rule is a stage rather than a number of days: leave peaches out until they are ripe, meaning tender, fully developed and ready to eat, and then 1 to 2 days at most. Judge by smell at the stem end and by a slight give at the shoulders, never by how red the blush is. Stand them stem-end down in a single layer so they do not bruise, and use a paper bag to speed things up.",
-    "fridge": "Refrigerate only once ripe, at 4 °C (40 °F) or below, where peaches keep 3 to 5 days. Chilling an unripe peach causes internal breakdown — the flesh goes dry, mealy and woolly instead of juicy — and no amount of time on the counter afterwards will fix it. Take a peach out half an hour before eating to bring the aroma back.",
-    "freezer": "Sliced peaches keep 2 months at −18 °C (0 °F), a figure that assumes the fruit is sliced and packed with lemon juice and sugar, which is what prevents browning and mushiness. Skin them if you like — a 30-second dip in boiling water slips the skins — then stone, slice, toss with lemon and sugar and pack flat with the air pressed out. The fruit stays safe indefinitely; 2 months is a quality window.",
-    "thawing": "Thaw in the fridge and use the slices while still cold, since they slump as they warm. For cobblers, pies and compotes, cook them straight from frozen.",
+    "summary": "Peaches are picked firm and finish ripening off the tree, softening and perfuming without getting much sweeter — the sugar is set at harvest. The skin is covered in fine fuzz, which matters more than it looks. There is no fixed counter timeline: leave them out until ripe, then 1 to 2 days. Once ripe they keep 3 to 5 days in the fridge, and sliced fruit freezes for 2 months.",
+    "pantry": "The counter figure is a stage rather than a count of days. Keep peaches at room temperature until they are ripe — tender, fully developed, ready to eat — and then use them within 1 to 2 days. Smell the stem end and press gently at the shoulders; the red blush is variety, not ripeness, and tells you nothing. The fuzz is what to watch while they sit, because it holds moisture against the skin, and brown rot starts there as a small tan spot that spreads into a soft grey circle within a day. One rotting peach infects its neighbours by contact, so stand them stem-end down in a single layer, not touching, and pull out anything showing a mark. A paper bag speeds ripening but also traps the damp, so check a bagged peach daily.",
+    "fridge": "Refrigerate a peach only once it is ripe: 3 to 5 days at 4 °C (40 °F) or below. A hard peach put in the fridge suffers chilling injury and the damage is permanent — the flesh loses its juice and turns dry, mealy and woolly, and no amount of time on the counter afterwards brings it back. Keep ripe peaches loose rather than bagged so the skins stay dry, and take one out half an hour before eating, because cold flattens the aroma that is most of what a peach has to offer.",
+    "freezer": "Sliced peaches keep 2 months at −18 °C (0 °F), and that figure assumes fruit sliced and packed with lemon juice and sugar, which is what keeps it from browning and collapsing. Peeling is easy with this fruit and worth doing, because the fuzz turns unpleasant frozen: score a cross in the base, dip the peach in boiling water for about 30 seconds and the skin slips off. Whether the stone lifts out cleanly depends on the variety — freestone peaches halve neatly, clingstone ones have to be cut off the pit. Pack flat with the air pressed out. Safe indefinitely frozen; the 2 months is quality.",
+    "thawing": "Thaw in the fridge and use the slices while they are still cold, because they slump as they come up to room temperature. For cobblers, pies and compotes, tip them into the dish frozen.",
     "spoilage": [
       "Brown, soft, sunken bruises that weep when pressed",
       "Wrinkled skin over dry, mealy flesh, usually from early chilling",
@@ -29,11 +29,11 @@
   "zh": {
     "name": "桃子",
     "aliases": ["水蜜桃", "黏核桃", "離核桃", "蟠桃"],
-    "summary": "桃子是硬著採、離樹後才完成後熟的水果，會變軟、變香，但甜度不會再增加多少。它的常溫沒有固定期限——放到熟為止，之後再放 1 到 2 天——熟了之後冷藏 3 到 5 天，切片冷凍 2 個月。",
-    "pantry": "這裡的室溫規則是「一個階段」而不是天數：把桃子放到熟為止，也就是變得柔軟、發育完全、可以入口，之後最多再放 1 到 2 天。判斷方式是聞蒂頭端的香氣、以及「肩膀」部位輕壓會不會凹，絕對不是看紅得多漂亮。蒂頭朝下單層擺放才不會壓傷，想加快就用紙袋悶著。",
-    "fridge": "熟了才冷藏，放 4°C 以下可以放 3 到 5 天。硬桃子冰起來會造成內部劣變——果肉不但不多汁，還會變乾、變粉、像棉絮——而且事後放室溫再久也救不回來。吃之前半小時拿出來回溫，香氣才會回來。",
-    "freezer": "切片的桃子在 −18°C 下可放 2 個月，這個數字的前提是切片後拌上檸檬汁和糖，正是那道手續讓它不會褐化、不會爛掉。想去皮的話，滾水燙 30 秒就能把皮剝下來；接著去核、切片、拌檸檬汁和糖，平鋪裝袋擠出空氣。只要維持凍結就是安全的，2 個月是品質區間。",
-    "thawing": "放冷藏解凍，趁還冰涼時使用，因為回溫後會塌。做酥皮派、水果派和糖煮的話，直接冷凍下鍋。",
+    "summary": "桃子是硬著採、離樹後才完成後熟的水果：它會變軟、變香，但甜度不會再增加多少，糖分在採收那一刻就定案了。果皮上布滿細絨毛，而這件事比看起來重要。常溫沒有固定天數：放到熟為止，之後再放 1 到 2 天。熟了之後冷藏 3 到 5 天，切片冷凍 2 個月。",
+    "pantry": "常溫那一項是階段而不是天數。請把桃子放在室溫直到熟——柔軟、發育完全、可以入口——然後在 1 到 2 天內吃掉。判斷方式是聞蒂頭端、輕壓肩部；紅得漂不漂亮是品種，不是熟度，完全不能當依據。放著的時候要盯的是那層絨毛，因為它把濕氣壓在果皮上，褐腐就從那裡開始：先是一個淺褐色小點，一天之內擴成一圈長著灰白絨毛的軟斑。一顆爛掉的桃子會靠接觸傳染旁邊的，所以請蒂頭朝下、單層擺放、彼此不要碰到，一發現有斑就挑出來。用紙袋催熟很有效，但同時也悶住濕氣，所以裝了袋就要每天檢查。",
+    "fridge": "桃子熟了才冷藏：4°C 以下 3 到 5 天。硬桃子冰進冰箱會產生寒害，而且傷害不可逆——果肉失去汁液，變乾、變粉、口感像棉絮，之後放室溫再久都回不來。熟桃請鬆散地放、不要裝袋，讓果皮保持乾爽；吃之前半小時拿出來回溫，因為低溫會把香氣壓平，而香氣幾乎就是桃子的全部。",
+    "freezer": "切片的桃子在 −18°C 下可放 2 個月，而這個數字的前提是切片後拌上檸檬汁和糖，那道手續正是讓它不褐化、不塌爛的原因。桃子去皮很容易，也值得去，因為絨毛凍過口感很差：在底部劃十字，丟進滾水約 30 秒，皮就會自己滑下來。核好不好取則要看品種——離核種對半一扭就開，黏核種只能沿著核把肉削下來。平鋪裝袋擠出空氣。只要維持凍結就是安全的，2 個月講的是品質。",
+    "thawing": "放冷藏解凍，趁還冰涼時使用，因為一回到室溫就會塌。做酥皮派、水果派和糖煮時，直接把凍著的果肉倒進去。",
     "spoilage": [
       "出現褐色、軟塌、凹陷的撞傷，一壓就滲汁",
       "果皮皺縮、果肉乾而粉，通常是太早冷藏造成的",

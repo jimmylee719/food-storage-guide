@@ -8,11 +8,11 @@
    "斯佩爾特小麥粉",
    "古麥粉"
   ],
-  "summary": "Spelt flour keeps 3 months in the pantry and 6 months in the freezer at −18 °C (0 °F). Spelt is an ancient wheat usually milled wholemeal, so the germ's oil is what sets the limit rather than anything microbial.",
-  "pantry": "3 months in an airtight container on a cool, dark, dry shelf. Spelt is generally sold wholemeal or lightly sifted, which keeps the bran and germ and gives it the sweet, nutty flavour people buy it for — and puts oil in the flour. Warmth, light and air drive that oil to oxidise, so an opaque tub in a cupboard beats a paper bag on an open shelf by a wide margin. Fresh spelt smells sweet and nutty; a stale bag smells sharp and faintly of oil paint, and the bitterness carries into the loaf.",
-  "fridge": "No refrigerated timeline is published for spelt flour. The fridge slows the oil and is a workable middle option for a bag you will bake through over a season, provided the container is genuinely airtight — wholemeal flour takes up moisture and fridge smells easily, and a cold bag opened in a warm kitchen condenses water into the flour. If the freezer has room, use it instead.",
-  "freezer": "6 months at −18 °C (0 °F), and this is the sensible default for a bag larger than a season's baking. Use an airtight tub or a double bag with the air pressed out, and label it — one wholemeal flour looks like another once frozen. Kept continuously frozen it stays safe well past that; what runs out is flavour as the oil oxidises slowly even cold. Let the sealed container reach room temperature before opening, and let the flour warm before mixing: spelt gluten is fragile and a cold, stiff dough is easier to overwork.",
-  "thawing": "Bring the sealed container up to room temperature before opening so the flour does not take up condensation, and let the flour warm before you mix a dough.",
+  "summary": "Spelt flour is milled from the same ancient hulled wheat as spelt berries, usually wholemeal or only lightly sifted, so the germ and its oil come with it. That oil sets the limit rather than anything microbial: 3 months in the pantry and 6 months in the freezer at −18 °C (0 °F).",
+  "pantry": "Three months in a sealed opaque tub, cool and dark. Spelt's particular quirk is its gluten. It is certainly there — spelt is a wheat and is not safe for coeliacs — but it is fragile and dissolves more readily than modern bread wheat's, which is why a spelt dough goes slack if you work it hard. Storage feeds into that: flour that has picked up moisture in a warm cupboard absorbs less water than the recipe expects, leaving you with a wet, sticky dough and no idea why. Keep it dry and the recipe stays honest. On age, trust your nose — spelt smells sweet and faintly of hazelnut when fresh, thin and paint-like once the oil has turned.",
+  "fridge": "There is no refrigerated figure to give for spelt flour. The fridge does slow the oil and is a reasonable halfway house for a bag you will bake through over a season, provided the container seals; wholemeal flour is equally happy to absorb moisture and the smell of last night's dinner. Whatever you do, do not decant it into the fridge with the lid loose, and do not open it while it is still cold.",
+  "freezer": "Six months at −18 °C (0 °F), the default for anything larger than a season's supply. Press the air out, seal it twice, label it. Frozen continuously it remains safe well past that, and what runs down is flavour as the oil oxidises slowly even in the cold. Warm the flour itself before mixing, not just the container: cold spelt flour hydrates slowly and the dough comes together stiff, and a stiff dough tempts you into kneading it more, which is precisely what its fragile gluten will not take.",
+  "thawing": "Bring the sealed container to room temperature before opening so no condensation lands in the flour, and let the flour itself warm before you mix a dough.",
   "spoilage": [
    "A sharp, oily or paint-like smell — rancid germ oil.",
    "A bitter aftertaste in a bake that used to work.",
@@ -48,11 +48,11 @@
    "古麥粉",
    "斯佩爾特粉"
   ],
-  "summary": "斯佩爾特小麥粉密封放常溫可放 3 個月，−18 °C 冷凍是 6 個月。它是古老小麥，通常以全麥形式研磨，所以決定期限的是胚芽油脂，而不是任何微生物。",
-  "pantry": "裝密封罐、放陰涼避光乾燥的架子，3 個月。斯佩爾特通常以全麥或輕篩的形式販售，保留麩皮與胚芽，帶來那股大家為它買單的甜香堅果味——同時也把油脂留在粉裡。熱、光和空氣會推動油脂氧化，所以「不透光密封罐收在櫃子裡」遠勝「紙袋擺在開放層架上」。新鮮的斯佩爾特粉聞起來甜而帶堅果香；走味的一袋則刺鼻、微帶油漆味，而那股苦會跑進麵包裡。",
-  "fridge": "斯佩爾特粉沒有公布的冷藏期限。冷藏能拖慢油脂，對一季內會烤完的份量是可行的折衷，前提是容器真正密封——全麥粉很會吸濕也很會吸冰箱的味道，一包冰過的粉在溫暖廚房裡打開，水氣會凝進粉裡。如果冷凍有空間，請改放冷凍。",
-  "freezer": "−18 °C 下 6 個月；超過一季用量的話，這就是合理的預設。用密封罐或套兩層袋、壓出空氣，並貼標籤——全麥粉冷凍起來長得都一樣。只要全程沒退冰，超過這段時間仍然安全；先用完的是風味，因為油脂在低溫下仍會慢慢氧化。開蓋前先讓整罐回到室溫，調麵團前也讓粉回溫：斯佩爾特的麵筋很脆弱，冰冷又硬的麵團更容易被打過頭。",
-  "thawing": "整罐密封著回到室溫再開蓋，粉才不會受潮；調麵團前也先讓粉回溫。",
+  "summary": "斯佩爾特小麥粉是用和全粒斯佩爾特同一種古老帶殼小麥磨的，通常是全麥或只輕輕過篩，所以胚芽和它的油脂都留在粉裡。決定期限的是那些油，而不是任何微生物：常溫 3 個月，−18 °C 冷凍 6 個月。",
+  "pantry": "裝在不透光的密封罐裡，陰涼避光，3 個月。斯佩爾特特別的地方在它的麵筋。麵筋當然是有的——它就是小麥，麩質不耐症的人不能吃——但它比現代麵包小麥脆弱、也更容易溶掉，所以斯佩爾特麵團一旦攪過頭就會垮。保存會直接影響這件事：在溫暖櫥櫃裡吸了濕氣的粉，吸水量比食譜預期的少，你會得到一團又濕又黏的麵團，而且想不出原因。粉保持乾燥，食譜才會誠實。至於新不新鮮，靠鼻子就夠：新鮮的甜、帶點榛果味；油一變質，味道就變得單薄而像油漆。",
+  "fridge": "斯佩爾特小麥粉沒有對應的冷藏天數可以給。冷藏確實能拖慢油脂，對一季內會烤完的份量算是折衷方案，前提是容器密封得住；全麥粉對濕氣和昨晚那鍋菜的味道一樣來者不拒。無論如何，不要倒進冰箱後蓋子隨便蓋著，也不要在它還冰的時候打開。",
+  "freezer": "−18 °C 下 6 個月，超過一季用量的預設做法。擠掉空氣、封兩層、貼標籤。只要全程冷凍，安全性遠不只六個月，先用完的是風味，因為油脂在低溫下依然慢慢氧化。之後要回溫的不只是容器，粉本身也要回溫再攪：冰冷的斯佩爾特粉吸水慢，麵團會偏硬，而偏硬的麵團會誘使你多揉幾下——那正是它脆弱的麵筋承受不起的。",
+  "thawing": "整罐密封著回到室溫再開蓋，粉才不會吸到凝結的水氣；調麵團之前也讓粉先回溫。",
   "spoilage": [
    "聞起來刺鼻、帶油味或油漆味——胚芽油耗了。",
    "一向沒問題的配方卻出現苦的餘韻。",

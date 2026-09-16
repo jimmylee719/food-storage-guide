@@ -3,11 +3,11 @@
   "en": {
     "name": "Ham, cook-before-eating, bone-in, half",
     "aliases": ["half ham", "uncooked half ham", "bone-in half ham", "raw cured half ham", "cook-before-eating half ham"],
-    "summary": "A bone-in half ham labelled \"cook before eating\" is a cured but not fully cooked cut from the leg, sold in a more manageable size than a whole ham. It keeps 1 week in the fridge from the date of purchase and 1–2 months in the freezer for best quality. It must be cooked through before it is eaten.",
-    "pantry": "Treat this ham as raw meat: it cannot be kept at room temperature. Do not let it sit out for more than 2 hours (1 hour above 32 °C / 90 °F), whether it is waiting to go in the oven or thawing. The cure adds flavour and colour but does not make the meat shelf-stable.",
-    "fridge": "Keep the half ham in its packaging at or below 4 °C (40 °F) on the lowest shelf, with a plate or tray underneath to catch drips. Cook it within 1 week of purchase and before the use-by date. A half ham has a large cut face that dries out and spoils faster than a whole one, so keep it tightly wrapped.",
-    "freezer": "Wrap the cut surface especially well: cover the whole ham in freezer film, then a freezer bag or foil, and freeze at −18 °C (0 °F). It stays safe indefinitely at that temperature, but flavour and texture are best within 1–2 months. Label with the date and weight so you can plan thawing later.",
-    "thawing": "Thaw in the fridge, allowing roughly 24 hours per 2 kg (4–5 lb), so a half ham usually needs 1–2 days. The cold-water method (leak-proof bag, water changed every 30 minutes) is faster but the ham must then be cooked immediately. Never thaw on the counter.",
+    "summary": "A bone-in half ham labelled cook-before-eating has been cured — brined, often smoked — so it is pink and smells like ham, but it has not been fully cooked. That combination is the whole hazard: it looks finished and it is not. It keeps 1 week in the fridge from the date of purchase and 1–2 months in the freezer for best quality, and it must be cooked through before anyone eats it.",
+    "pantry": "Handle it as raw meat, because that is what it is. The cure gives colour, salt and keeping quality in the sense of flavour, but a brine-pumped ham is a high-moisture refrigerated product, not a shelf-stable one like a dry-cured leg hung in a cellar. Out of the fridge it has 2 hours, or 1 hour above 32 °C (90 °F), and that clock runs whether it is thawing, resting or waiting for the oven. Anyone carving a slice to taste while it stands on the counter has misread the label.",
+    "fridge": "One week from purchase at 4 °C (40 °F) or below, in its packaging on the lowest shelf over a tray. Read the label every single time: cook-before-eating and fully-cooked hams sit in the same chiller, look identical and carry the same cured pink, which is precisely why colour is worthless as a doneness cue here. The cure keeps that colour stable, so it is a poor freshness cue too — judge this ham by a tacky or slimy surface and a sour smell instead. As with any half ham, the broad cut face is what dries and greys, so keep it tightly wrapped.",
+    "freezer": "Wrap the cut surface first, film pressed onto the meat, then a bag or foil over the whole piece, and freeze at −18 °C (0 °F), where it stays safe indefinitely and is best within 1–2 months. Salt speeds the oxidation of fat, so a cured ham turns stale-tasting in a freezer sooner than plain fresh pork does; treat that 1–2 months as a real deadline rather than a suggestion. Label it with the date, the weight, and the words cook before eating — once it is a foil parcel, nobody will remember which sort it was.",
+    "thawing": "Thaw in the fridge at roughly 24 hours per 2 kg (4–5 lb), so a half usually needs 1–2 days. Cold water in a leak-proof bag, changed every 30 minutes, is the fast route and commits you to cooking it immediately. No counter thawing. Once cooked, the leftovers are a different food with a different window: refrigerate them promptly and reheat to 74 °C (165 °F).",
     "spoilage": [
       "Sour or rotten smell, strongest at the cut face and around the bone",
       "Slimy or tacky film on the meat",
@@ -29,11 +29,11 @@
   "zh": {
     "name": "需烹煮火腿（帶骨半腿）",
     "aliases": ["半隻火腿", "帶骨半腿", "生醃半火腿", "未煮熟半隻火腿", "half ham"],
-    "summary": "標示「需烹煮」的帶骨半腿火腿，是醃製過但沒有完全煮熟的豬後腿，切成一半比整隻好處理。從購買日算起冷藏可放 1 週，冷凍以 1～2 個月內用完為佳。食用前一定要完全煮熟。",
-    "pantry": "把它當成生肉看待，不能常溫存放。無論是等著進烤箱還是正在解凍，離開冰箱都不要超過 2 小時（室溫超過 32 °C 則 1 小時）。醃製只是增添風味和顏色，並不代表可以常溫保存。",
-    "fridge": "保留包裝，放在 4 °C 以下冷藏室的最下層，底下墊盤子接肉汁。從購買日算起 1 週內烹煮，且不能超過有效期限。半腿的切面很大，比整隻更容易變乾、變質，務必包緊。",
-    "freezer": "切面要特別包好：整塊先用保鮮膜包住，再套冷凍袋或包鋁箔紙，放進 −18 °C 冷凍庫。安全上可以放很久，但風味和口感在 1～2 個月內最好。標上日期和重量，之後安排解凍時間比較方便。",
-    "thawing": "放冷藏室解凍，每 2 公斤約需 24 小時，半腿通常要 1～2 天。冷水法（不漏水的袋子，每 30 分鐘換水）比較快，但解凍後必須馬上烹煮。不要放在室溫下退冰。",
+    "summary": "標示需烹煮的帶骨半腿火腿是醃過的——注過鹽水、常常也燻過，所以顏色粉紅、聞起來就是火腿味——但它並沒有被完全煮熟。危險正是這個組合：它看起來像已經完成的成品，其實不是。從購買日算起冷藏 1 週，冷凍以 1～2 個月內用完品質最好，而且任何人吃它之前都必須先徹底煮熟。",
+    "pantry": "請當成生肉處理，因為它就是生肉。醃製給的是顏色、鹹味，以及風味上的耐放度，但注過鹽水的火腿含水量高，屬於冷藏商品，跟吊在陰涼處的乾式生火腿不是同一件事。離開冰箱只有 2 小時，室溫超過 32 °C 時只有 1 小時，而且不論它是在解凍、在回溫還是在等烤箱，這個時鐘都在跑。趁它擺在檯面上時切一片下來嘗嘗的人，就是把標示看錯了。",
+    "fridge": "從購買日起放 4 °C 以下 1 週，保持包裝、放最下層並墊盤子。每一次都要讀標示：需烹煮和已熟的火腿就並排放在同一個冷藏櫃裡，外觀一樣、醃出來的粉紅色也一樣，正因如此，顏色在這裡完全不能拿來判斷熟度。醃製讓顏色穩定，所以顏色同樣不適合判斷新鮮度——請改看表面是否發黏、聞起來是否發酸。和所有半腿一樣，會先乾掉泛灰的是那一大片切面，要包緊。",
+    "freezer": "先包切面，保鮮膜直接壓在肉上，再用袋子或鋁箔包住整塊，放 −18 °C，安全上可以無限期維持，品質是 1～2 個月內最好。鹽會加速脂肪氧化，所以醃過的火腿在冷凍庫裡走味比純生豬肉更快；這個 1～2 個月建議當成真正的期限，而不是參考值。標籤上要寫日期、重量，還有需烹煮三個字，因為一旦包成鋁箔包，沒有人記得住它是哪一種。",
+    "thawing": "冷藏解凍大約每 2 公斤 24 小時，半腿通常 1～2 天。冷水法（不漏水的袋子、每 30 分鐘換水）是快的那條路，但一旦完成就得立刻烹煮。不要放檯面退冰。煮熟之後的剩肉是另一種食物、另一套期限：請盡快冷藏，復熱要到 74 °C 以上。",
     "spoilage": [
       "有酸味或腐敗味，切面和骨頭附近最明顯",
       "肉的表面黏滑或黏手",

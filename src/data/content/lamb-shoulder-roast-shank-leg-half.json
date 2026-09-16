@@ -3,11 +3,11 @@
   "en": {
     "name": "Lamb shoulder roast or shank leg half",
     "aliases": ["lamb shoulder", "half leg of lamb", "shank end leg", "lamb joint"],
-    "summary": "A lamb shoulder roast comes from the front of the animal and is well marbled and full-flavoured; a shank half leg is the lower, bonier half of the hind leg. Raw, both keep 3–5 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 4–12 months in the freezer at −18 °C (0 °F).",
-    "pantry": "Raw lamb must never be kept at room temperature. In the danger zone between 4 °C and 60 °C (40 °F and 140 °F) bacteria on the surface multiply steadily, so discard a joint left out for more than 2 hours — 1 hour above 32 °C (90 °F). Taking it out 30–60 minutes before roasting so the centre is not fridge-cold is fine; leaving it out all afternoon is not.",
-    "fridge": "Keep the joint in its wrapping on a tray on the bottom shelf at 4 °C (40 °F) or below, away from ready-to-eat food. It holds for 3–5 days from purchase. If you are studding it with garlic and rosemary or rubbing it with spices, do that in the fridge and count the marinating time inside the same 3–5 day window.",
-    "freezer": "Overwrap the store packaging with foil, freezer paper or a large freezer bag and press the air out before freezing at −18 °C (0 °F): safe indefinitely, best quality for 4–12 months. A bone-in shank half freezes with awkward protruding bone, so pad it well to stop it tearing the wrapping. Boning and rolling a shoulder before freezing saves a lot of freezer space.",
-    "thawing": "Thaw in the fridge on a tray, roughly 24 hours per 2 kg — a half leg often needs a full day or two. Cold water in a sealed bag changed every 30 minutes is faster but requires cooking immediately afterwards. Never thaw lamb on the counter.",
+    "summary": "A lamb shoulder roast is the hard-working front quarter — marbled, sinewy, built for long slow cooking — while a shank half leg is the lower, bonier half of the hind leg, ending in a protruding shank bone. Both are joints rather than portions, which means a small surface relative to their mass: slow to chill, slow to thaw, and comparatively well protected once frozen. Raw, both keep 3–5 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 4–12 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw lamb joints are never kept at room temperature, and their size is the trap. The surface of a joint reaches room temperature long before the middle does, and the surface is where the bacteria are: after 2 hours between 4 °C and 60 °C (40 °F and 140 °F), or 1 hour above 32 °C (90 °F), it goes in the bin however cold the centre still feels. Thirty to sixty minutes out before it goes into the oven is reasonable; an afternoon on the counter waiting for guests is not.",
+    "fridge": "3–5 days from purchase at 4 °C (40 °F) or below, wrapped, on a tray on the bottom shelf and clear of anything ready to eat. A joint takes much longer than a chop to come down to temperature, so get it in promptly and leave space around it rather than burying it under the shopping. Studding it with garlic and rosemary, or rubbing on a spice paste, is done in the fridge and those hours count inside the same 3–5 days. On a shoulder, watch the thick seams of fat and connective tissue: those pick up a stale smell first, because they hold air pockets that solid muscle does not.",
+    "freezer": "4–12 months of best quality at −18 °C (0 °F), safe indefinitely. A joint's shape works in your favour here — far less exposed surface per kilo than the same weight in chops — so the enemy is the packaging rather than the meat. Overwrap the shop tray in foil, freezer paper or a large bag with the air pressed out, and build several layers over the shank bone, which will otherwise puncture everything you put around it. Boning and rolling a shoulder before it goes in makes a compact cylinder that fits a domestic freezer, freezes evenly and carves without an argument.",
+    "thawing": "Fridge thawing only, roughly 24 hours per 2 kg, which puts a half leg at a full day or two — plan backwards from dinner. Cold water in a sealed bag changed every 30 minutes is quicker but ties you to cooking immediately afterwards, and at this size it is a long job. Never thaw lamb on the counter. A slow thaw suits these cuts anyway: the connective tissue that makes shoulder and shank worth buying wants long gentle cooking, so there is no hurry to be gained.",
     "spoilage": [
       "Sour or ammonia-like smell rather than the mild, slightly sweet scent of fresh lamb",
       "Sticky or slimy film on the meat or fat",
@@ -29,11 +29,11 @@
   "zh": {
     "name": "羊肩肉／羊後腿下半段",
     "aliases": ["羊肩排", "半隻羊腿", "羊腿下段", "羊肩烤肉塊", "羊前腿"],
-    "summary": "羊肩肉取自羊的前段，油花分布好、味道濃郁；羊後腿下半段則是後腿較細、骨頭較多的那一半。兩者生肉在 4°C 以下冷藏，從購買日起可放 3～5 天；放 −18°C 冷凍可放 4～12 個月。",
-    "pantry": "生羊肉絕對不能放室溫。在 4～60°C 的危險溫度帶，表面的細菌會持續繁殖，室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。烘烤前 30～60 分鐘取出、讓中心不要冰冷沒問題，但放一整個下午就不行。",
-    "fridge": "連包裝放在盤子上、置於冰箱最下層，維持 4°C 以下，並遠離即食食品。從購買日起可放 3～5 天。要塞蒜片、迷迭香或抹香料，請在冰箱裡進行，醃的時間也要算進同一個 3～5 天期限。",
-    "freezer": "在原包裝外再包鋁箔、冷凍紙或裝進大冷凍袋，擠出空氣後放 −18°C 冷凍：安全上可以無限期保存，品質以 4～12 個月為佳。帶骨的後腿下段骨頭會突出，要多墊幾層以免刺破包裝。羊肩先去骨捲綁再冷凍，可以省下很多冷凍庫空間。",
-    "thawing": "放盤子上冷藏解凍，每 2 公斤約 24 小時，半隻羊腿常常需要一到兩天。裝密封袋泡冷水、每 30 分鐘換水比較快，但解凍後要立刻烹調。絕對不要放室溫退冰。",
+    "summary": "羊肩取自羊活動量最大的前段，油花與筋膜交錯，天生適合久燉慢烤；羊後腿下半段則是後腿比較細、骨頭比較多的那一半，末端還帶著一截突出的腿骨。兩者都是整塊肉而不是單份肉排，表面積相對於重量很小：降溫慢、解凍慢，冷凍時反而比較受保護。生肉在 4°C 以下冷藏，從購買日起可放 3～5 天；放 −18°C 冷凍可放 4～12 個月。",
+    "pantry": "整塊生羊肉不放室溫，而它的體積正是陷阱所在。表面早就回到室溫時，中心還冰著；而細菌都在表面：在 4～60°C 之間超過 2 小時（氣溫超過 32°C 時 1 小時），不管中心摸起來多冰，都要丟掉。進烤箱前拿出來 30～60 分鐘是合理的，為了等客人而在檯面上放一整個下午則不是。",
+    "fridge": "從購買日起放 4°C 以下 3～5 天，包好、墊盤子放最下層，遠離可以直接吃的食物。整塊肉降溫比肉排慢得多，所以要盡快放進去，而且四周留空間，不要把它埋在一堆採買中間。塞蒜片迷迭香或抹香料糊都在冰箱裡做，那些時間也算在同一個 3～5 天內。羊肩要特別留意那幾層厚的脂肪和筋膜：它們是最先出現陳味的地方，因為那裡藏著整塊瘦肉不會有的空氣縫隙。",
+    "freezer": "放 −18°C，品質以 4～12 個月為佳，安全上可以無限期。整塊肉的形狀在這裡幫了大忙——同樣重量下，它裸露的表面比一堆肉排少得多——所以要對付的是包裝而不是肉本身。在賣場托盤外再包鋁箔、冷凍紙或裝進大袋擠出空氣，突出的腿骨要多疊幾層，否則它會把你包上去的每一層都戳破。羊肩先去骨捲綁再冷凍，會變成一個結實的圓柱：省空間、凍得均勻，切的時候也不會跟你吵架。",
+    "thawing": "只能冷藏解凍，每 2 公斤約 24 小時，半隻後腿就是一到兩天——請從開飯時間往回推。裝密封袋泡冷水、每 30 分鐘換水比較快，但做完必須立刻烹調，而且這種尺寸會耗掉很長時間。絕對不要放室溫退冰。慢慢解凍其實很適合這兩個部位：讓羊肩和腿腱值得買的正是那些筋膜，而筋膜需要的是長時間小火，本來就急不得。",
     "spoilage": [
       "不是新鮮羊肉溫和微甜的氣味，而是酸味或阿摩尼亞味",
       "肉或脂肪表面有黏滑的薄膜",

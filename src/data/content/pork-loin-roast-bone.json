@@ -3,11 +3,11 @@
   "en": {
     "name": "Pork loin roast, bone-in",
     "aliases": ["bone-in pork loin", "pork rack", "rack of pork", "centre-cut loin roast"],
-    "summary": "A bone-in pork loin roast is the back section of the pig with the rib bones attached — lean meat, a fat cap and bones that add flavour and moisture. Raw, it keeps 3–5 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 4–12 months in the freezer at −18 °C (0 °F).",
-    "pantry": "Raw pork must never be stored at room temperature. A large joint takes hours to warm through, and its surface sits in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) the whole time, so discard meat left out for more than 2 hours — 1 hour above 32 °C (90 °F). Taking it out 30–60 minutes before roasting for even cooking is fine.",
-    "fridge": "Keep the roast in its packaging on a tray on the bottom shelf at 4 °C (40 °F) or below, well away from ready-to-eat food. It stays good for 3–5 days from purchase. For crisper crackling, score the fat cap and leave the joint uncovered on a rack in the fridge for the last 24 hours so the skin dries out.",
-    "freezer": "Overwrap the store package with foil, freezer paper or a large freezer bag, pressing out the air, and freeze at −18 °C (0 °F): safe indefinitely, best quality for 4–12 months. Pad the cut bone ends so they do not tear the wrapping, which is where freezer burn usually starts. Label with the weight and date.",
-    "thawing": "Thaw in the fridge on a tray, about 24 hours per 2 kg; a large rack may need two days. Cold water in a sealed bag changed every 30 minutes is faster but requires roasting straight afterwards. Never thaw pork on the counter.",
+    "summary": "A bone-in pork loin roast is the back of the pig with the rib bones left in — a long lean muscle under a fat cap, sometimes with the rind still on for crackling. The lean and the skin want opposite things in storage: the meat has to be kept from drying, and the skin has to be dried out on purpose. Raw, it keeps 3–5 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 4–12 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw pork is not stored at room temperature, and a roast is the cut where that gets fudged most often. A big joint takes hours to warm through, so the outside sits in the 4–60 °C (40–140 °F) range for the whole time somebody is waiting for the centre to lose its chill; after 2 hours, or 1 hour above 32 °C (90 °F), it should be discarded. Thirty to sixty minutes out before roasting is all the evenness it needs anyway.",
+    "fridge": "3–5 days from purchase at 4 °C (40 °F) or below, on a tray on the bottom shelf, clear of ready-to-eat food. This is the one joint where deliberate drying belongs in the fridge: score the fat cap, salt the skin and leave the roast uncovered on a rack for the last 24 hours, and the cold dry air pulls moisture out of the rind so it puffs into crackling instead of steaming in its own damp. Keep the cut lean ends covered while that happens, since they have no fat cap and will simply go leathery. The drying time sits inside the 3–5 days rather than being added to them.",
+    "freezer": "4–12 months of best quality at −18 °C (0 °F), safe indefinitely. Loin is lean, so any surface the air reaches turns pale and papery, and the sawn rib ends are what let the air in — pad them with folded paper or foil before you overwrap the whole joint and press out the air. Freeze it before any crackling preparation rather than after: dried skin takes up moisture again in the freezer and you would only be starting over. Label it with the weight as well as the date, because thawing time is worked out from weight and a wrong guess costs you a day.",
+    "thawing": "Fridge thawing on a tray, about 24 hours per 2 kg, so a large rack can need two days. Cold water in a sealed bag changed every 30 minutes is quicker and commits you to roasting straight afterwards. Never thaw pork on the counter. Once thawed, pat the skin bone dry and give it the uncovered-in-the-fridge treatment before it goes in the oven: a joint just out of the freezer carries more surface water than a fresh one and will not crackle otherwise.",
     "spoilage": [
       "Sour or ammonia-like smell when the packaging is opened",
       "Slimy or sticky surface film on the meat or fat",
@@ -29,11 +29,11 @@
   "zh": {
     "name": "帶骨豬里肌肉塊",
     "aliases": ["帶骨大里肌", "豬肋排肉塊", "戰斧豬排原塊", "豬背脊肉"],
-    "summary": "帶骨豬里肌肉塊是豬背部保留肋骨的部位，瘦肉多、上面有一層油脂帽，骨頭則能增添風味與濕潤度。生肉在 4°C 以下冷藏，從購買日起可放 3～5 天；放 −18°C 冷凍可放 4～12 個月。",
-    "pantry": "生豬肉絕對不能放室溫。大塊肉回溫要好幾個小時，這段時間表面一直停留在 4～60°C 的危險溫度帶，室溫放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟棄。烘烤前 30～60 分鐘取出讓受熱均勻則沒問題。",
-    "fridge": "連包裝放在盤子上、置於冰箱最下層，維持 4°C 以下，遠離即食食品。從購買日起可放 3～5 天。想烤出酥脆的豬皮，可以在油脂層劃刀，並在最後 24 小時把肉不加蓋放在架上冷藏，讓表皮乾燥。",
-    "freezer": "在原包裝外再包鋁箔、冷凍紙或裝進大冷凍袋，擠出空氣後放 −18°C 冷凍：安全上可以無限期保存，品質以 4～12 個月為佳。切開的骨端要墊好，否則刺破包裝的地方最容易凍燒。標註重量和日期。",
-    "thawing": "放盤子上冷藏解凍，每 2 公斤約 24 小時，大塊的可能要兩天。裝密封袋泡冷水、每 30 分鐘換水比較快，但解凍後要立刻烘烤。絕對不要放室溫退冰。",
+    "summary": "帶骨豬里肌肉塊是保留肋骨的豬背部位——一條長長的瘦肉，上面覆著一層油脂帽，有時還帶著可以烤成脆皮的豬皮。瘦肉和皮在保存上要的是相反的東西：肉要防止乾掉，皮卻要刻意把它弄乾。生肉在 4°C 以下冷藏，從購買日起可放 3～5 天；放 −18°C 冷凍可放 4～12 個月。",
+    "pantry": "生豬肉不放室溫，而整塊肉是最常被通融的那一種。大塊肉回溫要好幾個小時，所以在有人等中心退冰的那段時間裡，外層一直待在 4～60°C 之間；超過 2 小時（氣溫超過 32°C 時 1 小時）就該丟掉。反正它需要的也只是進烤箱前那 30～60 分鐘而已。",
+    "fridge": "從購買日起放 4°C 以下 3～5 天，墊盤子放最下層，遠離即食食品。這是少數需要在冰箱裡刻意風乾的一塊肉：在油脂層劃刀、皮上抹鹽，最後 24 小時不加蓋放在架上，冷而乾的空氣會把皮裡的水分帶走，烤的時候才會膨成脆皮，而不是悶在自己的水氣裡。風乾的同時，兩端沒有油脂帽的切面要蓋好，否則只會變得又硬又柴。這段風乾時間包含在 3～5 天之內，不是額外加上去的。",
+    "freezer": "放 −18°C，品質以 4～12 個月為佳，安全上可以無限期。里肌很瘦，只要空氣碰得到的表面都會變得蒼白像紙，而讓空氣進去的正是鋸開的肋骨端——先用折疊的紙或鋁箔把骨端墊起來，再把整塊包好擠出空氣。要凍就在做脆皮前處理之前凍，不要凍已經風乾好的：皮在冷凍庫裡會重新吸濕變軟，等於白做一次。標籤除了日期也要寫重量，因為解凍時間是按重量算的，猜錯就是多花一天。",
+    "thawing": "墊盤子放冷藏解凍，每 2 公斤約 24 小時，大塊的可能要兩天。裝密封袋泡冷水、每 30 分鐘換水比較快，但做完就要立刻烘烤。絕對不要放室溫退冰。解凍好之後，請把皮徹底拍乾，再做一次不加蓋冷藏風乾才進烤箱——剛從冷凍庫出來的肉，表面比新鮮的濕得多，不先弄乾就烤不出脆皮。",
     "spoilage": [
       "打開包裝聞到酸味或阿摩尼亞味",
       "肉或脂肪表面有黏滑的薄膜",

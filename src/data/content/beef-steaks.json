@@ -3,11 +3,11 @@
   "en": {
     "name": "Beef steaks",
     "aliases": ["ribeye", "sirloin steak", "striploin", "T-bone", "beef cutlets"],
-    "summary": "Beef steaks are individual slices cut across a muscle — ribeye, sirloin, striploin, T-bone and so on — thick enough to sear and serve pink. Raw, they keep 3–5 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 4–12 months in the freezer at −18 °C (0 °F) for best quality.",
-    "pantry": "Raw steak must not be stored at room temperature. Taking a steak out of the fridge 30–45 minutes before cooking so it sears more evenly is fine, but beyond 2 hours in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) — 1 hour above 32 °C (90 °F) — it should be thrown away. Cooked steak also needs to be refrigerated within 2 hours.",
-    "fridge": "Keep steaks in their packaging, or on a plate covered loosely, on the bottom shelf at 4 °C (40 °F) or below so juices cannot drip onto other food. They stay good for 3–5 days from purchase. For a better crust, pat them dry and leave them uncovered on a rack in the fridge for the last few hours — dry surfaces brown much faster than wet ones.",
-    "freezer": "Steaks are ideal for freezing because they are thin enough to freeze and thaw quickly. Wrap each steak individually in plastic, then bag several together with the air pressed out, and freeze at −18 °C (0 °F): safe indefinitely, best quality for 4–12 months. Vacuum sealing is worth it here — it prevents freezer burn on the exposed lean surfaces.",
-    "thawing": "Thaw steaks overnight in the fridge, or in a sealed bag under cold water changed every 30 minutes for about an hour, cooking immediately afterwards. Steaks can also be cooked from frozen with a longer, gentler finish. Never thaw them on the counter.",
+    "summary": "Beef steaks are slices cut across a muscle — ribeye, sirloin, striploin, T-bone — thick enough to sear hard and serve pink. More than anything else in the fridge, a steak gets judged by its colour, and that colour changes for reasons which have nothing to do with spoilage. Raw, steaks keep 3–5 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 4–12 months in the freezer at −18 °C (0 °F) for best quality.",
+    "pantry": "Steak is not stored at room temperature at any point. Taking one out 30–45 minutes ahead so it sears more evenly is part of cooking it; leaving it beyond 2 hours in the 4–60 °C (40–140 °F) range, or 1 hour above 32 °C (90 °F), means throwing it away. Cooked steak is refrigerated within 2 hours too, and the time it spends resting on a warm plate counts against that clock.",
+    "fridge": "3–5 days from purchase at 4 °C (40 °F) or below, in the pack or loosely covered on a plate on the bottom shelf. The colour deserves explaining, because it worries people more than anything else about steak. Beef is dark purple-red when first cut or held in a vacuum pack; it blooms to bright cherry red within minutes of meeting air as the pigment takes up oxygen; and after a few days in the fridge the surface turns brown. Brown is the pigment oxidising, not rot, and a brown steak that is firm and smells clean will cook perfectly well. Judge it instead on a sticky or slimy surface, a sour or ammoniac smell, and the date. For a better crust, pat the steaks dry and leave them uncovered on a rack for the last few hours — dry meat browns far faster than wet.",
+    "freezer": "4–12 months of best quality at −18 °C (0 °F), safe indefinitely. A steak is mostly flat faces of exposed lean, which is precisely the shape freezer burn likes: wrap each one tightly in film so no air is trapped against the surface, then bag them together with the air pressed out. Vacuum sealing genuinely earns its keep with steaks. Freeze them separated and flat and they thaw evenly too, which a frozen clump never does.",
+    "thawing": "Overnight in the fridge, or in a sealed bag under cold water changed every 30 minutes for about an hour, then cooked at once. A steak can also go into the pan straight from frozen: sear it hard, then finish it low and slow, and the frozen centre actually makes it easier to keep the inside pink while the crust builds. The one thing you must not do is thaw it on the counter.",
     "spoilage": [
       "Sour or ammonia-like smell that does not clear once the pack is opened",
       "Slimy or sticky surface film",
@@ -29,11 +29,11 @@
   "zh": {
     "name": "牛排",
     "aliases": ["肋眼牛排", "沙朗牛排", "紐約客", "丁骨牛排", "牛小排"],
-    "summary": "牛排是把肌肉橫切成的單片肉，包括肋眼、沙朗、紐約客、丁骨等，厚度足以煎出焦香外皮、內部保持粉紅。生肉在 4°C 以下冷藏，從購買日起可放 3～5 天；放 −18°C 冷凍則以 4～12 個月內品質最好。",
-    "pantry": "生牛排不能放室溫保存。下鍋前 30～45 分鐘從冰箱取出回溫、讓受熱更均勻沒問題，但在 4～60°C 的危險溫度帶超過 2 小時（氣溫超過 32°C 時 1 小時）就該丟掉。煎好的牛排也要在 2 小時內冷藏。",
-    "fridge": "牛排連包裝，或放在盤子上鬆鬆蓋住，置於冰箱最下層，維持 4°C 以下，避免肉汁滴到其他食物。從購買日起可放 3～5 天。想煎出漂亮焦殼，可以先把表面拍乾，最後幾小時不加蓋放在架上冷藏——表面乾燥比濕潤更容易上色。",
-    "freezer": "牛排很適合冷凍，因為夠薄，結凍和解凍都快。每片單獨用保鮮膜包好，再幾片一起裝袋、壓出空氣，放 −18°C 冷凍：安全上可以無限期保存，品質以 4～12 個月為佳。這種瘦肉面外露的形狀特別適合真空包裝，可以有效防止凍燒。",
-    "thawing": "放冷藏室解凍一晚，或裝密封袋泡冷水、每 30 分鐘換水約一小時，解凍後立刻烹調。牛排也可以直接從冷凍下鍋，之後用小火慢慢煎熟。絕對不要放室溫退冰。",
+    "summary": "牛排是把肌肉橫切成的單片肉，包括肋眼、沙朗、紐約客、丁骨等，厚度足以大火煎出焦殼、內部保持粉紅。在冰箱裡的所有肉之中，牛排是最常被用顏色判斷的一種，而它的顏色之所以改變，原因和變質完全無關。生肉在 4°C 以下冷藏，從購買日起可放 3～5 天；放 −18°C 冷凍則以 4～12 個月內品質最好。",
+    "pantry": "牛排在任何階段都不放室溫保存。下鍋前 30～45 分鐘取出讓受熱均勻，那是烹調的一部分；但在 4～60°C 之間放超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟掉。煎好的牛排也要在 2 小時內冷藏，而且在溫熱盤子上靜置的那段時間，同樣算進這個時鐘。",
+    "fridge": "從購買日起放 4°C 以下 3～5 天，連包裝、或鬆鬆蓋住放盤子裡，擺冰箱最下層。這裡值得把顏色說清楚，因為那是最多人擔心的一件事。牛肉剛切開或裝在真空袋裡時是暗紫紅；接觸空氣幾分鐘後，色素吸上氧氣，轉成鮮豔的櫻桃紅；在冰箱裡放幾天之後，表面又會轉褐。轉褐是色素氧化，不是腐敗，只要肉還結實、聞起來乾淨，褐色的牛排照樣可以煎。真正要看的是表面有沒有發黏、有沒有酸味或阿摩尼亞味，以及日期。想煎出漂亮焦殼，最後幾小時把表面拍乾、不加蓋放在架上冷藏——乾的肉比濕的肉快得多上色。",
+    "freezer": "放 −18°C，品質以 4～12 個月為佳，安全上可以無限期。牛排幾乎整片都是裸露的瘦肉平面，正好是凍燒最喜歡的形狀：每片先用保鮮膜緊緊包住、不留任何貼著肉的空氣，再一起裝袋擠乾。牛排是真空包裝真正划算的品項。分開攤平冷凍，之後解凍也才會均勻，凍成一坨永遠做不到這件事。",
+    "thawing": "放冷藏解凍一晚，或裝密封袋泡冷水、每 30 分鐘換水約一小時，然後立刻烹調。牛排也可以直接從冷凍下鍋：大火煎出焦殼後轉小火慢慢煮熟，凍住的中心反而讓你更容易一邊上色、一邊保住粉紅。唯一不能做的，就是放在室溫退冰。",
     "spoilage": [
       "拆開包裝後酸味或阿摩尼亞味一直不散",
       "表面有黏滑或發黏的薄膜",

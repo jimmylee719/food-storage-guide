@@ -3,11 +3,11 @@
   "en": {
     "name": "Cooked meats in gravy or broth",
     "aliases": ["meat in sauce", "pot roast leftovers", "braised meat", "stewed beef in gravy"],
-    "summary": "Cooked meat kept submerged in gravy or broth — a pot roast, a braise, sliced roast beef in its juices — keeps 3–4 days in the fridge at 4 °C (40 °F) or below, and about 6 months in the freezer at −18 °C (0 °F). The liquid protects the meat from drying but does not extend its safe fridge life.",
-    "pantry": "A pot of meat in gravy left on the stove is a textbook food-safety risk. The liquid holds heat and cools slowly, so the food sits in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) for hours, exactly the conditions surviving spores need. Refrigerate within 2 hours of cooking — 1 hour above 32 °C (90 °F).",
-    "fridge": "Divide the meat and its gravy into shallow containers so they cool quickly, and refrigerate at 4 °C (40 °F) or below for 3–4 days. Keeping the meat submerged prevents it drying and picking up fridge odours. Reheat only the portion you are eating rather than heating and cooling the whole batch repeatedly.",
-    "freezer": "Meat frozen in its gravy keeps unusually well — about 6 months of good quality at −18 °C (0 °F), noticeably longer than dry-frozen cooked meat, because the liquid seals it from the air that causes freezer burn. Portion into containers or bags, leave headspace, and label with the contents and date.",
-    "thawing": "Thaw in the fridge overnight, or reheat gently from frozen in a pan or oven with a splash of extra liquid. Bring it to a full simmer and check that it reaches 74 °C (165 °F) throughout. Do not thaw at room temperature or refreeze after reheating.",
+    "summary": "Cooked meat kept submerged in gravy or broth — a pot roast, a braise, sliced roast beef sitting in its own juices — keeps 3–4 days in the fridge at 4 °C (40 °F) or below, and about 6 months in the freezer at −18 °C (0 °F). The liquid keeps the meat from drying out; it does nothing whatever for how long the meat stays safe.",
+    "pantry": "A pot of meat in gravy left on a switched-off hob is the textbook case for Clostridium perfringens, the organism behind more institutional outbreaks than almost any other. Its spores survive the cooking, and as a deep pot of stew cools — slowly, because gravy holds heat and a big pot has little surface to shed it from — they germinate and multiply all the way down through the 4–60 °C (40–140 °F) range. Get it into the fridge within 2 hours of cooking, 1 hour above 32 °C (90 °F), and speed the cooling by dividing it up rather than waiting for the pot.",
+    "fridge": "3–4 days at 4 °C (40 °F) or below. Ladle it into shallow containers while it is still hot so it cools fast; a full casserole put into the fridge as it is can take half a day to reach temperature, which is the same problem as leaving it out, only colder. Keep the meat under the liquid — that is what stops it drying and taking up fridge smells — and expect the beef or pork fat to set into a pale cap on the surface overnight. That cap is useful, because it seals the gravy from the air; lift it off when you reheat, or leave it to melt back in. Reheat by the portion, never the whole batch twice.",
+    "freezer": "About 6 months of good quality at −18 °C (0 °F), noticeably more than dry-frozen cooked meat gets, because the gravy surrounds the meat and keeps air off it — freezer burn cannot happen where no air reaches. Red meat fat is also relatively saturated and holds up well in the cold, which is why this window is so much longer than for the same dish made with poultry. Portion into containers or bags, leave headspace, and label with what it is as well as the date: a frozen brick of brown stew is unidentifiable.",
+    "thawing": "Overnight in the fridge, or gently from frozen in a covered pan or a low oven with a splash of extra stock, since a thawing block catches on the base long before the middle moves. Bring it to a full simmer and make sure it reaches 74 °C (165 °F) all the way through, stirring so no cold pocket survives in the centre. Not at room temperature, and not refrozen once it has been reheated.",
     "spoilage": [
       "Sour, yeasty or fermented smell when the container is opened",
       "Bubbles, foam or fizzing in the cold gravy",
@@ -29,11 +29,11 @@
   "zh": {
     "name": "浸在肉汁或高湯裡的熟肉",
     "aliases": ["醬燒肉", "燉肉", "紅燒肉剩菜", "泡在肉汁裡的烤牛肉"],
-    "summary": "浸在肉汁或高湯裡的熟肉——燉牛肉、紅燒肉、泡在肉汁裡的烤牛肉片——在 4°C 以下冷藏可放 3～4 天；放 −18°C 冷凍約可放 6 個月。湯汁能保護肉不乾掉，但不會延長冷藏的安全期限。",
-    "pantry": "把一鍋泡在肉汁裡的肉留在爐子上，是教科書等級的食安風險。湯汁保溫、降溫慢，食物會在 4～60°C 的危險溫度帶待上好幾個小時，正是存活芽孢最需要的條件。請在煮好後 2 小時內冷藏（氣溫超過 32°C 時 1 小時）。",
-    "fridge": "把肉和肉汁分裝到淺容器加速降溫，放 4°C 以下冷藏 3～4 天。讓肉浸在湯汁裡可以避免乾掉和吸附冰箱異味。每次只加熱要吃的份量，不要整鍋反覆加熱又放涼。",
-    "freezer": "連肉汁一起冷凍的效果特別好——放 −18°C 品質約可維持 6 個月，明顯比乾式冷凍的熟肉久，因為湯汁把造成凍燒的空氣隔絕在外。分裝成容器或袋裝、預留膨脹空間，並標註內容和日期。",
-    "thawing": "放冷藏室解凍一晚，或直接把冷凍的放進鍋子或烤箱，加一點液體慢慢加熱。要煮到完全滾起來，並確認中心達到 74°C。不要在室溫解凍，加熱過的也不要再冷凍。",
+    "summary": "浸在肉汁或高湯裡的熟肉——燉牛肉、紅燒肉、泡在自己肉汁裡的烤牛肉片——在 4°C 以下冷藏可放 3～4 天；放 −18°C 冷凍約 6 個月。湯汁能讓肉不乾掉，但對「還能安全放多久」完全沒有幫助。",
+    "pantry": "一鍋泡在肉汁裡的肉留在熄火的爐子上，就是產氣莢膜梭菌的教科書案例——這隻菌造成的團膳中毒事件比幾乎任何細菌都多。它的芽孢熬得過烹煮；而一大鍋燉肉降溫很慢（肉汁保溫，大鍋的散熱面積又小），芽孢就在 4～60°C 這段路上一路發芽繁殖。請在煮好後 2 小時內冷藏，氣溫超過 32°C 時 1 小時；而且要靠分裝加速降溫，不要等整鍋自己涼。",
+    "fridge": "4°C 以下 3～4 天。趁還熱的時候就舀進淺容器讓它快點降溫；一整鍋直接推進冰箱，中心可能要半天才降到溫度，那和放在外面是同一個問題，只是比較冷而已。肉要保持浸在湯汁底下，那才是它不乾掉、也不吸冰箱味道的原因；放一個晚上，牛油或豬油會在表面凝成一層白色的油蓋。那層油蓋是好東西，它把肉汁和空氣隔開；回熱時撈掉，或留著讓它化回去都可以。每次只熱要吃的份量，不要整鍋熱第二次。",
+    "freezer": "放 −18°C，品質約可維持 6 個月，明顯比乾式冷凍的熟肉久，因為肉汁把肉整個包住、空氣碰不到——沒有空氣就不會凍燒。紅肉的脂肪相對飽和，在低溫下也撐得住，這也是同一道菜換成禽肉時期限短這麼多的原因。分裝成容器或袋裝、留膨脹空間，標籤除了日期也要寫清楚內容：一塊凍成方形的褐色燉肉，根本認不出是什麼。",
+    "thawing": "放冷藏解凍一晚，或蓋著鍋蓋、加一點高湯，以小火或低溫烤箱從冷凍慢慢加熱，因為還沒化開的凍塊會先燒焦鍋底。要煮到完全滾起來，並且邊攪邊確認中心也達到 74°C，不要留下沒熱到的死角。不要在室溫解凍，回熱過的也不要再冷凍。",
     "spoilage": [
       "打開容器聞到酸味、酵母味或發酵味",
       "冷的肉汁裡有氣泡、泡沫或嘶嘶聲",

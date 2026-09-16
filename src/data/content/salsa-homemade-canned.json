@@ -8,11 +8,11 @@
    "jarred homemade salsa",
    "canned tomato salsa"
   ],
-  "summary": "This is salsa made at home and preserved by canning in sealed jars, not a bowl of fresh pico de gallo. Properly processed and sealed, it keeps about 9–12 months in the cupboard. Once a jar is opened it becomes an ordinary refrigerated leftover.",
-  "pantry": "Sealed jars keep about 9–12 months in a cool, dark, dry cupboard. That figure assumes the salsa was made to a tested recipe and processed properly, and with salsa that matters more than with most things: tomatoes, onions, peppers and garlic are all low-acid or borderline, and it is the added vinegar or bottled lemon juice in a tested recipe that brings the whole jar to a safe acidity. Do not improvise the acid, do not add extra vegetables, and label every jar with the date. Store them without their screw bands so a failed seal shows itself, and check each lid is still concave before use.",
-  "fridge": "Once a jar is opened, keep it at 4 °C (40 °F) or below and treat it as a leftover rather than a preserve — spoon out what you need with a clean spoon and never serve from the storage jar at a table. A jar that failed to seal never belonged in the cupboard at all: refrigerate it straight away and use it quickly, or freeze it. The same goes for any batch you cooked but did not process.",
-  "freezer": "No freezer timeline is published for home-canned salsa, but freezing is a perfectly sensible alternative to canning for anyone without the equipment, and it sidesteps the acidity question entirely. Cool the salsa, pack it into rigid containers with headspace, and freeze at −18 °C (0 °F). Frozen food held at that temperature stays safe indefinitely; expect the tomatoes and peppers to come back softer, which matters less in a cooked salsa than in a fresh one.",
-  "thawing": "Thaw frozen salsa in the fridge overnight, or reheat it straight from frozen in a pan. Do not thaw it on the counter, and stir it after thawing since it will have separated.",
+  "summary": "This is salsa made at home, cooked and preserved in sealed jars — not a bowl of fresh pico de gallo. Nearly everything in it is low-acid, so what keeps a jar safe is the acid a tested recipe tells you to add and the ratio of ingredients it specifies. Processed and sealed correctly it keeps about 9–12 months in the cupboard, and an opened jar is a refrigerated leftover.",
+  "pantry": "About 9–12 months in a cool, dark, dry cupboard, and that qualifier carries more weight here than almost anywhere else on this site. Tomatoes sit near the acidity threshold; onions, garlic and chillies sit well below it. A tested salsa recipe fixes the proportion of tomato to peppers and onion, and adds vinegar or bottled lime or lemon juice, precisely so the finished jar lands on the safe side of that line. Salsa is also the recipe people most want to make their own, which is the wrong instinct in a canning jar: doubling the chillies, throwing in an extra onion, or swapping bottled lime juice for fresh — whose acidity varies fruit to fruit — all push the batch the wrong way. Wipe the rims before fitting the lids, store the jars without their bands, and date them. If a lid is domed, loose or weeping, do not open it to smell it; botulinum toxin has neither smell nor taste.",
+  "fridge": "An opened jar lives at 4 °C (40 °F) or below and is a leftover, not a preserve. Take out what you want with a clean spoon, and never put the storage jar on the table for people to dip into — crumbs and a wet chip introduce a whole new bacterial population to a jar you meant to keep. A jar that failed to seal was never shelf-stable: refrigerate it straight away and eat it quickly, or freeze it. The same goes for any batch you cooked and did not process.",
+  "freezer": "No freezer figure is published, so none is offered. Freezing is a sound route for anyone without a canner, and it takes the acidity calculation out of the picture entirely, which lets you build the salsa the way you actually like it. Cool it, pack it into rigid containers leaving headspace, and freeze at −18 °C (0 °F), where it remains safe indefinitely. Expect softness: tomatoes and peppers are mostly water held in thin-walled cells, freezing bursts them, and thawed salsa is looser and wetter than it went in. That costs a cooked salsa far less than it would a fresh one, and pouring off a little liquid fixes most of it.",
+  "thawing": "Overnight in the fridge, or from frozen into a pan. Never on the counter. Stir it hard once thawed — it will have separated into liquid and solids — and tip off a spoonful or two of water if it has gone thin.",
   "spoilage": [
    "A lid that has lost its seal, flexes, or pops when pressed",
    "Spurting liquid, fizzing or pressure on opening",
@@ -52,11 +52,11 @@
    "封罐 salsa",
    "手作莎莎醬"
   ],
-  "summary": "這裡指的是在家做好、以裝罐密封方式保存的莎莎醬，不是一碗現拌的生莎莎。處理與密封得當的話，放在櫥櫃裡大約 9～12 個月。一旦開罐，它就變成一般的冷藏剩食。",
-  "pantry": "密封完好的罐子放在陰涼、避光、乾燥的櫥櫃，大約 9～12 個月。這個數字的前提是照著經過驗證的配方製作並正確殺菌處理，而莎莎醬尤其不能馬虎：番茄、洋蔥、辣椒和大蒜全都是低酸或接近臨界，是配方裡加的醋或瓶裝檸檬汁把整罐拉到安全酸度。不要自己調整酸量，也不要多加蔬菜，每罐都要標日期。存放時拆掉外圈螺蓋，密封失敗才會顯現，使用前也要確認蓋子仍然凹陷。",
-  "fridge": "開罐後請放 4 °C 以下，並把它當成剩菜而不是保存品——用乾淨的湯匙挖出要用的份量，絕對不要直接拿保存罐上桌。密封失敗的罐子本來就不該進櫥櫃：請立刻冷藏並盡快用完，或改成冷凍。煮好但沒有做殺菌處理的那一批也一樣。",
-  "freezer": "自製封罐莎莎醬沒有公布冷凍期限，但對沒有裝罐設備的人來說，冷凍是非常合理的替代方案，而且完全繞開酸度的問題。醬放涼後裝進硬質容器、留出膨脹空間，放 −18 °C。食物在這個溫度下安全性可以無限期維持；只要有心理準備，番茄和辣椒解凍後會比較軟——這對熟製的莎莎醬影響遠小於對生莎莎。",
-  "thawing": "冷凍莎莎醬請放冷藏隔夜解凍，或直接從冷凍下鍋加熱。不要放室溫解凍；解凍後會分離，攪拌一下即可。",
+  "summary": "這裡指的是在家做好、經過加熱並裝罐密封的莎莎醬，不是一碗現拌的生莎莎。裡面幾乎每一樣材料都是低酸的，所以讓整罐安全的，是經驗證配方要你加的那份酸，以及它指定的材料比例。處理與密封得當的話，放在櫥櫃裡大約 9～12 個月；開罐之後，它就是冷藏的剩菜。",
+  "pantry": "放在陰涼、避光、乾燥的櫥櫃大約 9～12 個月，而這個但書在這裡比本站幾乎任何地方都更重要。番茄本身就在酸度門檻附近；洋蔥、大蒜和辣椒則遠低於門檻。經驗證的莎莎配方會把番茄對辣椒、洋蔥的比例鎖死，並加入醋或瓶裝萊姆汁、檸檬汁，就是為了讓成品落在安全的那一側。莎莎也是大家最想加點自己東西的一道，而那在裝罐上正是最糟的直覺：辣椒加倍、多丟一顆洋蔥、把瓶裝萊姆汁換成現榨的（酸度每一顆都不一樣），全都會把整批推往錯誤的方向。蓋蓋子前把罐口擦乾淨，存放時拆掉外圈螺蓋，並標上日期。如果蓋子鼓起、鬆動或滲液，不要開來聞聞看——肉毒桿菌毒素沒有氣味，也沒有味道。",
+  "fridge": "開罐後放 4 °C 以下，當成剩菜而不是保存品。用乾淨的湯匙取出要吃的量，絕對不要把保存用的罐子直接端上桌讓大家沾——餅乾屑和沾過口水的玉米片，等於在你原本要留著的罐子裡放進一整批新的細菌。密封失敗的罐子從來就不能常溫放：立刻冷藏、盡快吃完，或改成冷凍；煮好但沒有做殺菌處理的那一批也一樣。",
+  "freezer": "沒有公布的冷凍期限，所以這裡也不給。對沒有裝罐設備的人，冷凍是穩當的做法，而且把酸度的計算整個拿掉，你可以照自己真正喜歡的方式調味。放涼後裝進硬質容器、留出膨脹空間，放 −18 °C，安全性可以無限期維持。但要有心理準備：番茄和辣椒幾乎都是薄壁細胞裡的水，一結冰就被撐破，所以解凍後的莎莎會比放進去時更稀更散。這對熟製的莎莎影響遠小於生莎莎，倒掉一點水就解決大半。",
+  "thawing": "放冷藏隔夜解凍，或直接從冷凍下鍋。不要放室溫。解凍後用力攪拌——它一定會分成水和料——如果太稀，撇掉一兩匙水就好。",
   "spoilage": [
    "蓋子失去真空、按下去會彈動或彈起",
    "開罐時液體噴出、冒氣或有壓力",

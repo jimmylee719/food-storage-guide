@@ -8,11 +8,11 @@
    "soy drink",
    "doujiang"
   ],
-  "summary": "Soy milk is ground soaked soybeans cooked and strained into a drink, sold chilled or in shelf-stable cartons. Keep it refrigerated and follow the use-by date on an unopened pack; once opened, use it within 7–10 days.",
-  "pantry": "An unopened aseptic carton keeps in a cool cupboard to its printed date, because it was sterilised and filled sealed. Chilled cartons must stay cold — follow the 2-hour rule, or 1 hour if the kitchen is above 32 °C (90 °F). Once opened, neither belongs in a cupboard. Freshly made soy milk from a breakfast shop or a home machine is a different thing again: it is a warm, low-acid, protein-rich liquid with no preservative, it sours within hours at room temperature, and it should be chilled fast and drunk the same day.",
-  "fridge": "Keep soy milk at 4 °C (40 °F) or below on an inside shelf rather than the door. Unopened chilled cartons run to the use-by date on the package. After opening, use it within 7–10 days with the cap closed and the carton upright. Soy milk separates and forms a skin as it stands, both of which are normal; shake it before pouring. It curdles in coffee for a reason unrelated to spoilage — the acidity and heat of the coffee destabilise the soy protein — so a curdled latte is not proof that the carton has turned.",
-  "freezer": "There is no published freezer timeline for soy milk, and freezing separates it: the protein and fat come out of suspension and the thawed drink is grainy and watery in a way that shaking will not fully fix. If you have to, freeze it at −18 °C (0 °F) in a container with headspace and use it in cooking, baking or a smoothie. It is better to buy a size you will finish, or to make less at a time.",
-  "thawing": "Thaw in the fridge, never on the counter, and blend or shake hard. Use it in cooking rather than drinking it straight, and do not refreeze.",
+  "summary": "Soy milk is soaked soybeans ground with water, cooked and strained — a suspension of soy protein and oil rather than a starch drink. It is sold chilled or in shelf-stable cartons. Follow the use-by date on an unopened pack, and once it is opened use it within 7–10 days, refrigerated.",
+  "pantry": "An unopened aseptic carton sits in a cupboard to its printed date, having been sterilised and filled sealed. A chilled carton has to stay cold, under the 2-hour rule, or 1 hour when the kitchen is above 32 °C (90 °F). Neither goes back in a cupboard once opened. Freshly made soy milk — from a breakfast shop, or a home soy milk machine — is a third case and much shorter-lived: warm, low in acid, rich in protein and with nothing added to preserve it, it sours in a few hours at room temperature. Chill it fast in a shallow container rather than a tall jug, and drink it the same day.",
+  "fridge": "4 °C (40 °F) or below, on an inside shelf rather than the door. Unopened chilled cartons run to their printed date; opened, 7–10 days with the cap closed. Two normal things worry people. Soy milk separates on standing, and it forms a skin when heated — in the same way dairy milk does and for the same reason, protein coagulating at the surface. Neither is spoilage; shake it and carry on. Nor is curdling in coffee: the acidity and heat of the coffee destabilise the soy protein, which is why a barista adds it to cooler coffee, and a split latte says nothing at all about the carton. Actual spoilage is a sour smell with a thickened, slippery texture that stays after shaking.",
+  "freezer": "No freezer figure is published for soy milk, and freezing breaks the suspension: the protein and the oil come out of it, and the thawed drink is watery with grainy flecks that shaking will not redissolve. If you must, freeze at −18 °C (0 °F) leaving headspace, and use it in baking, a sauce or a smoothie, where the texture gets beaten back in. Better still, buy the size you will drink, or make a smaller batch.",
+  "thawing": "Fridge, never counter, and then blend it rather than merely shaking — a blender gets more of the protein back into suspension than a wrist will. Use it in cooking rather than drinking it neat, and do not refreeze.",
   "spoilage": [
    "A sour, sharp or yeasty smell instead of a clean beany one.",
    "Lumps or curdled strands in the carton that do not shake out.",
@@ -52,11 +52,11 @@
    "soy milk",
    "植物奶"
   ],
-  "summary": "豆漿是黃豆泡軟磨碎、煮熟過濾而成的飲品，市面上有冷藏與常溫利樂包兩種。請冷藏保存，未開封以包裝有效日期為準；開封後請在 7～10 天內喝完。",
-  "pantry": "未開封的無菌利樂包可以放陰涼櫥櫃到標示日期，因為它經過滅菌並密封充填。冷藏包裝則必須保冷——請守 2 小時原則（廚房超過 32 °C 時為 1 小時）。一旦開封，兩種都不能放櫥櫃。早餐店或豆漿機現做的又是另一回事：那是溫熱、低酸、蛋白質豐富又完全沒有防腐的液體，在室溫下幾個小時就會發酸，必須迅速降溫並當天喝完。",
-  "fridge": "放在 4 °C 以下的內側層架，不要放門邊。未開封的冷藏包裝以有效日期為準。開封後請在 7～10 天內喝完，蓋子關緊、盒身直立。豆漿靜置會分層、表面也會結一層皮，兩者都正常，倒之前搖勻即可。它在咖啡裡結絮的原因和變質無關——是咖啡的酸度和溫度讓大豆蛋白失去穩定——所以拿鐵結絮並不代表那盒豆漿壞了。",
-  "freezer": "豆漿沒有公告的冷凍期限，而且冷凍會讓它分離：蛋白質和油脂脫離懸浮狀態，解凍後又粗又水，搖也搖不回來。真的要凍，請放 −18 °C、容器留膨脹空間，之後用於料理、烘焙或果昔。比較好的做法是買喝得完的容量，或一次少做一點。",
-  "thawing": "放冷藏解凍，不要放室溫，之後用力搖勻或打勻。建議用於料理而不是直接喝，也不要再次冷凍。",
+  "summary": "豆漿是黃豆泡軟後加水磨碎、煮熟過濾而成——它是大豆蛋白和油脂的懸浮液，不是澱粉飲料。市面上有冷藏與常溫利樂包兩種。未開封以包裝上的有效日期為準；開封後冷藏，請在 7～10 天內喝完。",
+  "pantry": "未開封的無菌利樂包經過滅菌並密封充填，可以放櫥櫃到標示日期。冷藏包裝必須保冷，適用 2 小時原則，廚房超過 32 °C 時為 1 小時。兩種開封後都不回櫥櫃。現做的豆漿——早餐店的，或家用豆漿機打的——是第三種情況，也短命得多：溫熱、低酸、蛋白質豐富，而且完全沒有添加任何保存成分，在室溫下幾個小時就發酸。請用淺容器而不是深壺快速降溫，並且當天喝完。",
+  "fridge": "放 4 °C 以下的內側層架，不要放門邊。未開封的冷藏包裝以盒上日期為準；開封後蓋緊，7～10 天。有兩件正常的事常讓人擔心。豆漿靜置會分層，加熱後表面會結一層皮——和牛奶結皮是同一回事，都是蛋白質在表面凝聚——兩者都不是變質，搖一搖繼續用就好。在咖啡裡結絮也一樣：是咖啡的酸度和溫度讓大豆蛋白失去穩定，所以咖啡師會把它加進溫度較低的咖啡裡，而一杯結絮的拿鐵完全說明不了那盒豆漿的狀況。真正的變質是聞起來發酸，而且質地變稠、變滑，搖過也不會回復。",
+  "freezer": "豆漿沒有公布的冷凍期限，而冷凍會直接破壞那個懸浮狀態：蛋白質和油脂被逼出來，解凍後又水又帶著顆粒，搖也搖不回去。真的要凍，放 −18 °C、容器留膨脹空間，之後用在烘焙、醬汁或果昔這類會被重新攪打的地方。更好的做法是買喝得完的容量，或一次少做一點。",
+  "thawing": "放冷藏解凍，不要放檯面，之後請用調理機打過，不要只用手搖——機器比手腕更能把蛋白質重新打回懸浮。建議拿去料理，不要直接喝，也不要再次冷凍。",
   "spoilage": [
    "聞起來發酸、刺鼻或有酵母味，而不是乾淨的豆香。",
    "盒內出現搖不散的結塊或凝絮。",

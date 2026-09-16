@@ -3,11 +3,11 @@
   "en": {
     "name": "Pork loin chops, bone-in",
     "aliases": ["bone-in pork chops", "pork cutlets", "rib chops", "centre-cut chops"],
-    "summary": "Bone-in pork loin chops are individual slices cut from the back with a piece of rib or loin bone still attached, which helps them stay juicy over high heat. Raw, they keep 3–5 days in the fridge at 4 °C (40 °F) or below from purchase, and 4–12 months in the freezer at −18 °C (0 °F).",
-    "pantry": "Raw pork chops must not be stored at room temperature. Letting them sit out 20–30 minutes before cooking helps them cook evenly, but past 2 hours in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) — 1 hour above 32 °C (90 °F) — they should be discarded. Cooked chops go back in the fridge within 2 hours.",
-    "fridge": "Store the chops in their tray or on a covered plate on the bottom shelf at 4 °C (40 °F) or below so juices cannot drip onto other food. They are good for 3–5 days from purchase. A dry-brine — salting them and leaving them uncovered on a rack in the fridge for a few hours — seasons them through and gives a much better sear.",
-    "freezer": "Chops freeze and thaw quickly. Wrap each one in plastic or separate them with baking paper, bag them with the air pressed out and freeze at −18 °C (0 °F): safe indefinitely, best quality for 4–12 months. Pad the sharp bone edges so they cannot pierce the wrapping and let air in, which is what causes freezer burn.",
-    "thawing": "Thaw chops overnight in the fridge, or in a sealed bag under cold water changed every 30 minutes for about an hour, cooking immediately after. Never thaw pork on the counter, and do not refreeze thawed raw chops unless you cook them first.",
+    "summary": "Bone-in pork loin chops are slices off the back with a piece of rib or loin bone still attached. Loin is the leanest muscle on the pig — the marbling that makes a ribeye forgiving is simply not there — so these chops fail by drying out, in the pan and in the freezer alike. Raw, they keep 3–5 days in the fridge at 4 °C (40 °F) or below from purchase, and 4–12 months in the freezer at −18 °C (0 °F).",
+    "pantry": "Raw pork is never stored at room temperature. Standing the chops out for 20–30 minutes takes the fridge chill off and helps them cook evenly, which is fine; past 2 hours between 4 °C and 60 °C (40 °F and 140 °F), or 1 hour above 32 °C (90 °F), they are no longer safe to cook. Cooked chops go back in the fridge inside 2 hours. Pork loin is also the cut most often carried home in a warm car and then left on the side while the freezer is rearranged — put it away first and rearrange afterwards.",
+    "fridge": "3–5 days from purchase at 4 °C (40 °F) or below, tray or covered plate, bottom shelf, so nothing underneath catches the drips. Because the meat is so lean, moisture needs managing in both directions: chops sitting in pooled liquid go soft and grey on the underside, while chops left bare dry to a hard rim. A dry brine solves both — salt them and leave them uncovered on a rack in the fridge for a few hours, and the salt draws moisture out and then back in seasoned, which also gives a far better sear. That time counts inside the 3–5 days. Fresh pork is pale pink and firm; anything gone dull grey-brown with a sticky surface and a sour smell is finished.",
+    "freezer": "4–12 months of best quality at −18 °C (0 °F), safe indefinitely. Pork fat is softer and more unsaturated than beef or lamb fat, which is why it picks up a rancid note sooner, and a chop this lean has little fat to spare before the difference shows. Press the film against each chop with no air pocket, interleave with baking paper, bag them flat and squeeze everything out. Pad the sharp sawn bone edge: a pierced bag is where freezer burn begins, and there is no marbling here to disguise a dried patch.",
+    "thawing": "Overnight in the fridge, or a sealed bag under cold water changed every 30 minutes for about an hour, then into the pan immediately. Never on the counter. A thawed loin chop has already given up some water, so pat it dry, sear it hot and pull it off early — overcooking is the finishing blow to a lean chop the freezer had already started drying. Do not refreeze it raw.",
     "spoilage": [
       "Sour or ammonia-like smell when the pack is opened",
       "Slimy or sticky surface, especially along the bone",
@@ -29,11 +29,11 @@
   "zh": {
     "name": "帶骨豬里肌排",
     "aliases": ["帶骨豬排", "戰斧豬排", "豬肋排排骨", "厚切豬排"],
-    "summary": "帶骨豬里肌排是從豬背部切下的單片肉排，保留一段肋骨或腰脊骨，大火烹調時比較不容易乾。生肉在 4°C 以下冷藏，從購買日起可放 3～5 天；放 −18°C 冷凍可放 4～12 個月。",
-    "pantry": "生豬排不能放室溫。下鍋前放 20～30 分鐘回溫可以讓受熱更均勻，但在 4～60°C 的危險溫度帶超過 2 小時（氣溫超過 32°C 時 1 小時）就要丟掉。煎好的豬排也要在 2 小時內冰回冰箱。",
-    "fridge": "連原盒或放在有蓋的盤子裡，置於冰箱最下層，維持 4°C 以下，避免肉汁滴到其他食物。從購買日起可放 3～5 天。抹鹽後不加蓋放在架上冷藏幾小時（乾式鹽漬），可以讓味道入到裡面，煎起來上色也漂亮很多。",
-    "freezer": "豬排結凍和解凍都快。每片用保鮮膜包好或用烘焙紙隔開，裝袋擠出空氣後放 −18°C 冷凍：安全上可以無限期保存，品質以 4～12 個月為佳。骨頭銳利的邊緣要墊好，刺破包裝進了空氣就會凍燒。",
-    "thawing": "放冷藏室解凍一晚，或裝密封袋泡冷水、每 30 分鐘換水約一小時，解凍後立刻烹調。絕對不要放室溫退冰；解凍後的生豬排若沒煮過，不要再冷凍。",
+    "summary": "帶骨豬里肌排是從豬背部切下、保留一段肋骨或腰脊骨的單片肉排。里肌是豬身上最瘦的部位——肋眼那種可以容錯的油花，這裡根本沒有——所以它壞掉的方式是乾掉，在鍋子裡和在冷凍庫裡都一樣。生肉在 4°C 以下冷藏，從購買日起可放 3～5 天；放 −18°C 冷凍可放 4～12 個月。",
+    "pantry": "生豬肉不放室溫。下鍋前拿出來站 20～30 分鐘去掉冰度、讓受熱均勻沒問題；一旦在 4～60°C 之間超過 2 小時（氣溫超過 32°C 時 1 小時），就不該再下鍋了。煎好的豬排也要在 2 小時內冰回去。豬里肌排也是最常被放在溫熱的車裡載回家、再擱在旁邊等人整理冷凍庫的一種肉；請先把它收好，再回頭整理。",
+    "fridge": "從購買日起放 4°C 以下 3～5 天，連原盒或有蓋的盤子放最下層，底下不要有會被滴到的東西。因為肉太瘦，水分要兩頭管：泡在滲出的湯汁裡，底面會發軟發灰；完全裸露著放，邊緣又會乾成硬圈。乾式鹽漬可以同時解決這兩件事——抹鹽之後不加蓋放在架上冷藏幾小時，鹽會先把水分帶出來、再帶著鹹味回到肉裡，煎起來上色也好很多。這段時間算在 3～5 天之內。新鮮的豬肉是淡粉紅而且結實；變成暗沉灰褐、表面發黏又帶酸味的，丟掉。",
+    "freezer": "放 −18°C，品質以 4～12 個月為佳，安全上可以無限期。豬脂肪比牛脂肪和羊脂肪更軟、不飽和程度更高，所以走油耗味也更快，而這麼瘦的肉排本來就沒有多少脂肪可以損失。保鮮膜要直接貼著肉包、不留氣泡，用烘焙紙隔開、平放裝袋擠乾空氣；鋸開的骨頭銳邊要墊好，因為袋子一破就是凍燒的起點，而這塊肉沒有油花可以掩飾乾掉的斑塊。",
+    "thawing": "放冷藏解凍一晚，或裝密封袋泡冷水、每 30 分鐘換水約一小時，然後立刻下鍋。絕對不要放室溫。解凍過的里肌排已經流失了一些水分，請先拍乾、大火快煎、提早起鍋——冷凍庫已經先讓它乾了一輪，煮過頭就是最後一擊。生的解凍後不要再冷凍。",
     "spoilage": [
       "打開包裝聞到酸味或阿摩尼亞味",
       "表面黏滑，尤其沿著骨頭的部分",

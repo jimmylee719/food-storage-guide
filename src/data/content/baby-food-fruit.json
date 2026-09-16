@@ -8,11 +8,11 @@
    "嬰兒水果泥",
    "寶寶果泥"
   ],
-  "summary": "Unopened fruit purée should be discarded after the use-by date on the jar or pouch. Once opened, it keeps 3 days in the fridge at 4 °C (40 °F) or below — a day longer than the meat and vegetable varieties, because fruit is acidic — and only if it has never been fed from directly.",
-  "pantry": "An unopened jar or pouch is commercially processed and shelf-stable to its use-by date; after that date, discard it rather than judging it by eye. No general pantry figure is given, because the date on the container is the manufacturer's statement about their own product. Store it somewhere cool and dark. Discard any jar whose vacuum button clicks when pressed, and any pouch that is swollen, leaking or damaged — a swollen pouch is gas from something growing inside it.",
-  "fridge": "3 days at 4 °C (40 °F) or below once opened, covered. Fruit purées get the longest of the opened baby food windows because their acidity holds bacteria back — but that is a margin, not permission to stretch it. The rule that matters more than the number is the spoon: never feed straight from the jar or pouch with a spoon that has been in the baby's mouth. Saliva carries bacteria and enzymes into what is left, and that remainder cannot be kept, however cold the fridge. Spoon a portion into a bowl, feed from the bowl, and throw away what is left in it.",
-  "freezer": "Commercial jars separate into water and pulp when frozen and thawed, which is unappetising rather than unsafe. Freezing your own fruit purées in an ice cube tray works well: freeze them the day you make them, label the tray with the date, and bag the cubes once they are solid. Never refreeze a portion that has been thawed and warmed.",
-  "thawing": "Thaw a frozen home-made portion in the fridge, never on the counter, and serve it once. Stir well before feeding, and throw away anything left in the bowl.",
+  "summary": "Baby fruit purée is apple, pear, prune, banana or peach cooked down and packed. Fruit is acidic enough to count as an acid food, and that acidity is why it gets a day more than the other varieties once opened: 3 days in the fridge at 4 °C (40 °F) or below, covered, and only if no used spoon has been in the container. Unopened, discard it after the use-by date on the jar or pouch.",
+  "pantry": "Sealed, this is a heat-processed acid food and it sits in the cupboard to the date the maker printed, somewhere cool and dark. We add no figure of our own, because that date is their statement about their own recipe. Acidity is a real preservative, but it is not a licence to run past the date. Before opening, press the button in the centre of a jar lid: if it clicks up and down, the vacuum has failed. A pouch that has puffed up has gas in it, and gas means something is living in there — yeasts in particular find sweet acidic purée congenial. Either way it goes in the bin untasted.",
+  "fridge": "Covered, at 4 °C (40 °F) or below, an opened jar or pouch of fruit purée keeps 3 days. Expect the surface to darken to tan within hours; that is the same enzymatic browning you get on a cut apple, and stirring it back in is fine. What is not fine is fizzing, a domed lid, a whiff of cider or alcohol, or any fuzz — sugar plus acid is a yeast's idea of a good time, so fruit purée ferments rather than rots. The spoon matters more than the date. Once a spoon that has been in the baby's mouth goes back into the jar that jar is finished, because saliva carries bacteria and enzymes into it. Decant a portion, feed from the bowl, and bin what the baby leaves.",
+  "freezer": "A commercial jar frozen and thawed splits into watery juice and grainy pulp — unappetising rather than unsafe. Home-made fruit purée is a different matter and freezes very well, partly because the acid protects the colour. Freeze it the day you cook it, in an ice cube tray, then tip the solid cubes into a labelled bag. A squeeze of lemon in apple or pear purée keeps it pale. Nothing that has been thawed and warmed goes back in.",
+  "thawing": "Move a frozen cube into the fridge to thaw, not onto the worktop, and warm it once. Fruit purée thins as it thaws and looks separated; stir it hard and it comes back together. Whatever the baby does not finish is thrown away, not returned to the tray.",
   "spoilage": [
    "A vacuum button that clicks when pressed, or a swollen or leaking pouch — discard without opening.",
    "Fizzing, bubbling or an alcoholic smell, which means the purée has fermented.",
@@ -48,11 +48,11 @@
    "水果副食品",
    "fruit purée"
   ],
-  "summary": "未開封的嬰兒水果泥，過了罐子或軟袋上的有效日期就該丟掉。開封後放 4 °C 以下冷藏可放 3 天——比肉類和蔬菜口味多一天，因為水果是酸性的——而且前提是從來沒有直接從裡面餵過。",
-  "pantry": "未開封的玻璃罐或軟袋經過商業加工處理，在有效日期之前屬於常溫商品；過了日期就丟，不要用眼睛判斷。這裡不給通用的常溫數字，因為容器上的日期就是製造商對自家產品的說法。請放陰涼避光處。瓶蓋真空鈕按下去會響的、軟袋鼓脹滲漏破損的，全部丟掉——鼓脹的軟袋代表裡面有東西在長、在產氣。",
-  "fridge": "開封後蓋好放 4 °C 以下 3 天。在所有開封後的嬰兒副食品裡，水果泥的期限最長，因為它的酸度能壓住細菌——但那是餘裕，不是可以再往後拉的許可。比數字更重要的規則是湯匙：絕對不要用進過寶寶嘴巴的湯匙，直接從罐子或軟袋裡餵。口水會把細菌和酵素帶進剩下的部分，那一份不管冰箱多冷都不能再留。請舀一份到碗裡、從碗裡餵，碗裡剩下的丟掉。",
-  "freezer": "市售罐裝冷凍再解凍會分離成水和果肉，那是難吃而不是不安全。自己打的果泥很適合用製冰盒分格冷凍：打好的當天就凍，盒上貼好日期，凍硬後再裝袋。已經解凍加熱過的那一份，絕對不要再冷凍。",
-  "thawing": "自製的冷凍份量請放冷藏解凍，絕對不要放檯面，而且只回溫一次。餵之前確實攪拌均勻，碗裡剩下的一律丟掉。",
+  "summary": "嬰兒水果泥是蘋果、西洋梨、黑棗、香蕉或水蜜桃煮軟打成泥後包裝的。水果夠酸，酸到足以被歸類為酸性食品，而這份酸度就是它開封後比其他口味多一天的原因：蓋好放 4 °C 以下冷藏 3 天，前提是沒有用餵過的湯匙挖過。未開封的，過了罐子或軟袋上的有效日期就丟。",
+  "pantry": "未開封的是經過加熱處理的酸性食品，可以在櫥櫃裡放到廠商標示的日期，收在陰涼避光的地方。我們不另外給數字，因為罐上那個日期就是廠商對自家配方的說法。酸度確實有防腐作用，但那不代表可以超過日期還用。開之前先壓一下玻璃罐蓋中央的真空鈕：按下去會上下彈動，就表示真空已經失效。軟袋鼓起來代表裡面有氣，有氣就代表有東西活著——酵母菌尤其喜歡又甜又酸的果泥。不管哪一種，不要試吃，直接丟。",
+  "fridge": "蓋好放 4 °C 以下，開封的水果泥可放 3 天。表面幾個小時內就會轉成褐黃色，那和切開的蘋果變色是同一回事，攪回去就好。不能接受的是冒氣泡、蓋子鼓起、聞到蘋果酒或酒精味，或看到任何絨毛——糖加上酸正是酵母菌的天堂，所以水果泥是發酵，不是腐敗。湯匙比日期更重要。只要進過寶寶嘴巴的湯匙再回到罐子裡，那一罐就結束了，因為口水同時把細菌和酵素帶了進去。舀一份到碗裡、從碗裡餵，寶寶沒吃完的丟掉。",
+  "freezer": "市售玻璃罐冷凍再解凍會分成水水的湯汁和粗粗的果肉——難吃，但不是不安全。自製果泥完全不同，很適合冷凍，酸度還幫忙保住顏色。打好的當天就用製冰盒分格冷凍，凍硬後倒進貼了日期的袋子。蘋果泥或梨泥擠一點檸檬汁，顏色不會那麼快變深。已經解凍加熱過的，不能再放回冷凍庫。",
+  "thawing": "冷凍的果泥塊請移到冷藏解凍，不要放在流理台上，而且只回溫一次。果泥解凍後會變稀、看起來分層，用力攪一攪就回來了。寶寶沒吃完的直接丟掉，不要倒回製冰盒。",
   "spoilage": [
    "真空鈕按下去會響，或軟袋鼓脹、滲漏——不要打開，直接丟。",
    "冒泡、嘶嘶作響或有酒精味，那表示果泥已經發酵了。",

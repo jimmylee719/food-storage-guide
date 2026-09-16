@@ -8,11 +8,11 @@
    "嬰兒副食品罐",
    "寶寶食物軟袋"
   ],
-  "summary": "Unopened jars and pouches should be discarded after the use-by date printed on them. Once opened, they keep 2–3 days in the fridge at 4 °C (40 °F) or below — and only if you have never fed from the container itself.",
-  "pantry": "An unopened jar or pouch is commercially processed and shelf-stable to its use-by date; after that date it should be discarded rather than assessed by eye. No separate pantry figure is given, because the date on the container is the manufacturer's own statement about their own product. Keep them somewhere cool and dark, and inspect every one before opening: a lid whose vacuum button clicks when pressed, a pouch that is swollen, leaking or damaged, or any pack that hisses or spurts on opening goes straight in the bin unopened or unused.",
-  "fridge": "2–3 days at 4 °C (40 °F) or below once opened, covered — at the shorter end for meat and vegetable varieties, and the longer end for acidic fruit. The rule that matters more than the number is the spoon. Never feed straight from the jar or pouch with a spoon that has been in the baby's mouth: saliva carries bacteria and enzymes into the remainder, which then spoils quickly and cannot safely be kept. Spoon out a portion into a bowl, feed from the bowl, and throw away whatever is left in it. The same applies to a pouch fed directly from the spout.",
-  "freezer": "No freezer timeline is published for opened jars and pouches, and commercial purées separate badly when frozen and thawed. Freezing your own purées in an ice cube tray, then bagging the cubes, is a sensible and common practice — but label them, keep the window short, and do not borrow a number from another food. Never refreeze a portion that has been thawed, warmed or fed from.",
-  "thawing": "Thaw a frozen home-made portion in the fridge, never on the counter, and warm it once. Stir it and test it on your wrist before feeding; warmed purée develops hot spots that will scald.",
+  "summary": "A jar and a pouch hold much the same purée and fail in quite different ways, which is what this covers. A sealed one of either is a commercially heat-processed pack and keeps to the use-by date printed on it. Once opened and covered, both keep 2–3 days in the fridge at 4 °C (40 °F) or below — 2 for savoury and vegetable contents, 3 for acidic fruit — and only if nobody has eaten out of the container itself.",
+  "pantry": "Unopened, these live in the cupboard until the printed date, kept cool, dark and upright; that date is the maker's statement about their own pack and there is no separate figure to give. The two formats fail differently, so check them differently. A glass jar tells you a great deal: the button in the lid should be down and should not click, the rim should be free of rust, and the lid should pop audibly the first time you twist it — no pop, no vacuum. A pouch tells you almost nothing, because you cannot see inside it; what you can do is feel it. A pouch should be limp. Any puffiness is gas from something growing, and a pouch carried loose in a bag can be pinholed by a set of keys without looking damaged at all.",
+  "fridge": "Opened and covered at 4 °C (40 °F) or below: 2–3 days, at the short end for meat, dinners and vegetables and the long end for fruit, whose acidity does some of the work. Stand an opened jar with its own lid back on, and decant a pouch into a lidded pot, because a folded-over spout does not seal and the contents take up whatever is sitting nearest in the fridge. The spoon rule decides everything else: a spoon that has been in the baby's mouth and then back into the container ends that container's life on the spot, and a pouch sucked straight from the spout is the same problem with the saliva delivered more directly. Portion into a bowl, feed from the bowl, throw away the remainder in the bowl.",
+  "freezer": "No freezer figure is published for an opened jar or pouch, and none should be invented. Commercial purée separates into liquid and solids when thawed and never quite comes back together. Freezing your own purée in an ice cube tray and bagging the cubes is a reasonable habit, and the cube is a useful unit: roughly one small portion, so you thaw only what the baby will actually eat. Label the bag. Nothing thawed, warmed or fed from goes back into the freezer.",
+  "thawing": "Thaw in the fridge, not on the worktop, and warm the portion a single time. Stir it through and test it on the inside of your wrist — purée reheated in a microwave holds hot spots that one stir will not always find.",
   "spoilage": [
    "A vacuum button that clicks when pressed — discard the jar without opening it.",
    "A swollen, leaking or damaged pouch, or any hissing or spurting on opening.",
@@ -48,11 +48,11 @@
    "副食品擠壓包",
    "baby food pouch"
   ],
-  "summary": "未開封的嬰兒副食品罐與軟袋，過了上面印的有效日期就該丟掉。開封後放 4 °C 以下冷藏可放 2～3 天——而且前提是你從來沒有直接就著容器餵。",
-  "pantry": "未開封的玻璃罐或軟袋經過商業加工，在有效日期之前屬於常溫商品；過了日期就丟，不要用眼睛評估。這裡不另外給常溫數字，因為容器上的日期就是製造商對自家產品的說法。請放陰涼避光處，而且每一個開封前都要檢查：真空鈕按下去會響、軟袋鼓脹滲漏破損，或開封時嘶嘶作響、噴出來的，都直接丟掉，不要開也不要用。",
-  "fridge": "開封後蓋好放 4 °C 以下 2～3 天——肉類和蔬菜口味抓短的那端，酸性的水果口味可以抓長的那端。比數字更重要的是湯匙這條規則。絕對不要用進過寶寶嘴巴的湯匙直接從罐子或軟袋裡餵：口水會把細菌和酵素帶進剩下的部分，那一份會很快壞掉，也不能安全保存。請舀一份到碗裡、從碗裡餵，碗裡剩下的丟掉。直接用嘴吸軟袋口的情況也完全一樣。",
-  "freezer": "開封後的罐裝與軟袋沒有公布的冷凍期限，而且市售果菜泥冷凍再解凍會嚴重分離。自己打的泥用製冰盒冷凍、凍硬後裝袋，是合理也常見的做法——但請貼上日期、把時間抓短，也不要從別的食物借一個數字過來。已經解凍、加熱或餵過的那一份，絕對不要再冷凍。",
-  "thawing": "自製的冷凍份量請放冷藏解凍，絕對不要放檯面，而且只加熱一次。餵之前攪拌均勻並滴在手腕內側試溫；加熱過的泥會有局部過燙的熱點，會燙傷。",
+  "summary": "玻璃罐和軟袋裝的往往是同一種泥，壞掉的方式卻很不一樣，而這裡談的就是這件事。兩者未開封時都是經過商業加熱處理的包裝，可以放到上面印的有效日期。開封後蓋好放 4 °C 以下冷藏，兩種都是 2～3 天——鹹口味和蔬菜抓 2 天，酸性的水果可以到 3 天——而且前提是沒有人直接就著容器吃過。",
+  "pantry": "未開封的就放在櫥櫃裡到標示日期為止，陰涼、避光、立著放；那個日期是廠商對自家包裝的說法，我們不另外給數字。這兩種容器壞掉的方式不一樣，檢查的方式也要跟著不同。玻璃罐會告訴你很多事：蓋子中央的鈕應該是凹下去而且按不動，罐口不該生鏽，第一次轉開時應該聽得到啵一聲——沒有那一聲，就代表真空已經沒了。軟袋幾乎什麼都不會告訴你，因為你看不進去；你能做的是用手捏。軟袋應該是軟塌的，只要鼓鼓的就是裡面有氣、有東西在長。另外，軟袋在提袋裡跟鑰匙擠在一起，可能被戳出根本看不出來的針孔。",
+  "fridge": "開封後蓋好放 4 °C 以下：2～3 天，肉類、主餐和蔬菜抓短的那一端，水果因為有酸度可以抓長的那一端。玻璃罐就用原本的蓋子蓋回去；軟袋請倒進有蓋的小盒，因為把袋口折起來根本沒有密封，內容物會把冰箱裡最近的味道全吸進去。其餘由湯匙那條規則決定：進過寶寶嘴巴的湯匙只要回到容器裡，那個容器當場結束；直接用嘴吸軟袋口是同一件事，只是口水送得更直接。請分裝到碗裡、從碗裡餵，碗裡剩下的丟掉。",
+  "freezer": "開封後的罐與軟袋沒有公布的冷凍天數，也不應該自己編一個。市售果菜泥解凍後會分成液體和固體，再也回不到原本的樣子。自己打的泥用製冰盒冷凍、凍硬後裝袋，是合理的習慣，而且一格就是很好用的單位：大約一次吃得完的份量，解凍多少就吃多少。袋子記得貼標籤。已經解凍、加熱或餵過的，不會再回到冷凍庫。",
+  "thawing": "放冷藏解凍，不要放在流理台上，而且只加熱一次。加熱後要攪透，再滴一點在手腕內側試溫——微波過的泥裡藏著熱點，攪一次不一定攪得到。",
   "spoilage": [
    "真空鈕按下去會響——不要打開，整罐丟掉。",
    "軟袋鼓脹、滲漏或破損，或開封時嘶嘶作響、噴出來。",

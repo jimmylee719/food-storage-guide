@@ -8,11 +8,11 @@
    "火雞胸肉片",
    "pavo en lonchas"
   ],
-  "summary": "A sealed pack of pre-packaged turkey deli meat keeps 2 weeks from purchase in the refrigerator at 4 °C (40 °F) or below, and 3–5 days once opened. Freezing is not recommended for quality, though an unopened pack will hold 1–2 months from purchase at −18 °C (0 °F).",
-  "pantry": "Sliced turkey breast is cooked, moist, low in acid and eaten with no further cooking — the classic ready-to-eat profile associated with Listeria, and turkey breast is one of the products specifically named in that advice. Listeria grows slowly even at refrigeration temperature, which is why the opened figure is days rather than weeks. Keep the pack cold on the way home; out of the fridge it gets two hours at most, or one hour above 32 °C (90 °F). A sandwich platter left out through an afternoon is the situation to avoid.",
-  "fridge": "Unopened, 2 weeks from purchase at 4 °C (40 °F) or below; once opened, 3–5 days. Store it on a cold shelf rather than in the door, wrapped airtight or in a sealed box so the slices do not dry and grey at the edges, and away from raw meat. People who are pregnant, elderly or immunocompromised are generally advised to avoid non-dried deli meats such as turkey breast, or to heat them until steaming hot before eating them.",
-  "freezer": "Freezing is not recommended. Turkey breast is lean and usually brine-injected, so the slices release a lot of water on thawing and come back wet, soft and saltier, tearing as you peel them apart. If you freeze it anyway, an unopened pack holds 1–2 months from purchase at −18 °C (0 °F). Freeze the pack flat and well inside the fridge window, and use the thawed slices in a cooked dish — a toasted sandwich, a pasta bake — rather than cold.",
-  "thawing": "Thaw in the fridge and use within the opened window. Never thaw on the counter, and do not refreeze.",
+  "summary": "Pre-packaged turkey deli meat is cooked breast meat sliced thin and sealed: very lean, very wet, only lightly salted. Sealed, it keeps 2 weeks from purchase at 4 °C (40 °F) or below; opened, 3–5 days. Freezing is not recommended for quality, though an unopened pack will hold 1–2 months from purchase at −18 °C (0 °F).",
+  "pantry": "Sliced turkey has no room-temperature allowance whatsoever. Ready-to-eat sliced poultry sits behind some of the largest Listeria recalls ever issued, and there is a specific reason the opened window is counted in days: Listeria monocytogenes keeps multiplying at 4 °C (40 °F), so chilling slows it rather than stopping it, and any contamination picked up after the meat was cooked — on the slicer, in the packing room — has no further heat step standing in its way. Take the pack straight home cold. Left out, it has 2 hours, or 1 hour once the room is over 32 °C (90 °F).",
+  "fridge": "2 weeks from purchase while sealed at 4 °C (40 °F) or below, then 3–5 days after opening. Give it the coldest spot you have, at the back of a low shelf, not the door where the temperature swings each time someone reaches in. Reseal it tightly or tip the slices into a lidded box. Because turkey breast is pale and carries no cure to mask anything, it declares itself early: the slices turn tacky, the cut edges go translucent and faintly grey-green, a milky liquid gathers in the pack, and it smells of sour milk. Bin it at that point rather than rinsing it. Pregnancy, older age or a weakened immune system are each a reason to heat these slices until they steam, or to skip them.",
+  "freezer": "Freezing is a poor idea here. Turkey breast is about as lean as sliced meat gets, so there is almost no fat to protect the texture, and the water that makes it juicy forms ice crystals that cut through the muscle fibres. Thawed slices shed liquid, feel spongy and come apart in your fingers. The figure, if you do it regardless, is 1–2 months from purchase at −18 °C (0 °F) for an unopened pack. Freeze it flat and freeze it early, then use the result hot — shredded through a soup, layered into a bake — where the lost water goes unnoticed.",
+  "thawing": "Thaw in the fridge, and start the 3–5 opened days from the seal being broken, not from the day it left the freezer. No counter thawing, and no refreezing.",
   "spoilage": [
    "A slimy or tacky film on the slices — the first reliable sign.",
    "A sour, sulphurous or ammonia-like smell on opening.",
@@ -48,11 +48,11 @@
    "火雞火腿片",
    "deli turkey"
   ],
-  "summary": "未開封的包裝火雞肉片，自購買日起放 4 °C 以下冷藏可放 2 週，開封後 3～5 天。基於品質不建議冷凍，但未開封的包裝在 −18 °C 下自購買日起可放 1～2 個月。",
-  "pantry": "火雞胸肉片是煮熟、含水、低酸性，而且不會再加熱就被吃掉——正是最常與李斯特菌連結的即食型態，而火雞胸肉更是相關衛教中被直接點名的產品之一。李斯特菌在冷藏溫度下仍會緩慢生長，這就是開封後的期限以「天」計而不是以「週」計的原因。買回家路上要保冷；離開冰箱最多兩小時，氣溫超過 32 °C 時最多一小時。三明治拼盤在外面放一整個下午，就是要避免的情況。",
-  "fridge": "未開封自購買日起放 4 °C 以下 2 週；開封後 3～5 天。請放冷藏層架而不是門邊，密封包好或裝密閉盒，避免肉片邊緣乾掉發灰，並與生肉分開。懷孕、年長或免疫功能低下者，一般建議避開火雞胸這類非乾式熟肉，或先加熱到冒蒸氣再吃。",
-  "freezer": "不建議冷凍。火雞胸很瘦，而且通常注過鹽水，所以解凍時會釋出大量水分，回來時濕軟、更鹹，一撕就破。真要冷凍，未開封包裝在 −18 °C 下自購買日起 1～2 個月。請平放冷凍、並在冷藏期限還充裕時處理；解凍後的肉片建議用在加熱料理——熱壓三明治、焗烤麵——而不是冷食。",
-  "thawing": "放冷藏解凍，並在開封後的期限內用完。不要放室溫退冰，也不要二次冷凍。",
+  "summary": "包裝火雞肉片是煮熟的火雞胸肉切成薄片密封：非常瘦、含水量高、鹽分卻不高。未開封自購買日起放 4 °C 以下 2 週，開封後 3～5 天。基於品質不建議冷凍，但未開封的包裝在 −18 °C 下自購買日起可放 1～2 個月。",
+  "pantry": "火雞肉片完全沒有室溫的空間。即食禽肉切片這個類別，背後有過規模數一數二的李斯特菌回收事件；而開封後的期限之所以用天數計算，理由很具體：李斯特菌在 4 °C 仍會持續繁殖，冷藏只是拖慢它、不是擋住它，而肉煮熟之後才沾上的污染——切片機上、包裝室裡——後面已經沒有任何一道加熱可以補救。買了就保冷直送回家。放在外面最多 2 小時，室溫超過 32 °C 時只有 1 小時。",
+  "fridge": "未開封自購買日起放 4 °C 以下 2 週，開封後 3～5 天。請放在你家最冷的位置，下層靠內側，不要放門邊——那裡每開一次門溫度就晃一次。開封後封緊，或把肉片倒進有蓋的盒子。火雞胸顏色淡，又沒有醃製發色可以遮掩，所以壞掉的樣子出現得早也很直白：肉片摸起來發黏、切邊變半透明並泛出灰綠、袋底積出乳白色湯汁，聞起來有酸奶味。到這一步就丟掉，不要沖過水再吃。懷孕、年長、免疫功能低下，任何一項都是把這種肉片加熱到冒蒸氣再吃、或乾脆不吃的理由。",
+  "freezer": "冷凍在這裡是個壞主意。火雞胸大概是切片肉裡最瘦的，幾乎沒有脂肪可以撐住口感；而讓它吃起來多汁的那些水分，結冰時會形成冰晶割穿肌纖維。解凍後的肉片一直滲水、摸起來像海綿，一拿就散。真要凍，未開封的包裝在 −18 °C 下自購買日起 1～2 個月。請平放、趁早冷凍，解凍後用在熱食裡——撕碎丟進湯、鋪進焗烤——流失的水分才不會被發現。",
+  "thawing": "放冷藏解凍，開封後的 3～5 天要從撕開封口起算，不是從離開冷凍庫那天起算。不可以室溫退冰，也不要再冰回冷凍庫。",
   "spoilage": [
    "肉片表面出現黏滑或發黏的薄膜——最早也最可靠的徵兆。",
    "拆封時聞到酸味、硫味或氨味。",

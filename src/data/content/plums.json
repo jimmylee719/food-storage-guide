@@ -3,11 +3,11 @@
   "en": {
     "name": "Plums",
     "aliases": ["plum", "damson", "greengage", "ciruela"],
-    "summary": "Plums are stone fruit sold firm and finished at room temperature, softening and juicing up but gaining little extra sweetness. There is no fixed counter timeline — leave them out until ripe, then 1 to 2 days — after which they keep 3 to 5 days in the fridge, and sliced fruit freezes for 2 months.",
-    "pantry": "The counter rule is a stage, not a number of days: leave plums out until they are ripe, meaning tender, fully developed and ready to eat, and then 1 to 2 days at most. A ripe plum gives to gentle pressure and smells sweet at the stem end; the dusty bloom on the skin is natural and a sign of careful handling, not dirt. Keep them in a single layer out of the sun, and speed up ripening in a paper bag.",
-    "fridge": "Refrigerate only once ripe, at 4 °C (40 °F) or below, where plums keep 3 to 5 days. Chilling an unripe plum causes internal breakdown: the flesh goes dry and mealy and the fruit never develops properly afterwards. Store them loose in the crisper rather than sealed, and let one warm up for half an hour before eating for the full flavour.",
-    "freezer": "Sliced plums keep 2 months at −18 °C (0 °F), a figure that assumes the fruit is sliced and packed with lemon juice and sugar to stop browning and mushiness. Halve, stone and slice the plums, toss with lemon and a little sugar, and pack flat with the air pressed out. Frozen fruit stays safe indefinitely; the 2 months is a quality window, and thawed slices are best cooked.",
-    "thawing": "Thaw in the fridge and use the slices while cold, or cook them straight from frozen in crumbles, compotes and jam. They will not hold their shape once fully thawed.",
+    "summary": "Plums are stone fruit sold firm and finished at room temperature: they soften and grow juicier without gaining much sweetness, and the tartness stays concentrated in the skin. There is no fixed counter timeline: leave them out until ripe, then 1 to 2 days, after which they keep 3 to 5 days in the fridge, and sliced fruit freezes for 2 months.",
+    "pantry": "A stage, not a number of days. Leave plums at room temperature until ripe — tender, fully developed and ready to eat — then 1 to 2 days at most. A ripe plum gives all over to gentle pressure and smells sweet at the stem. The dusty grey bloom on the skin is a natural wax the fruit makes itself: a sign of careful handling rather than dirt, it slows water loss, and it is a good reason not to wash plums until you are about to eat them. Plums are also the stone fruit that goes furthest past ripe before anyone notices, because the skin holds together while the inside ferments — so the tell is a smell of alcohol or vinegar at the stem and, shortly afterwards, fruit flies. Keep them in a single layer out of the sun, and use a paper bag to hurry them along.",
+    "fridge": "Refrigerate only once ripe: 3 to 5 days at 4 °C (40 °F) or below. A hard plum chilled early suffers internal breakdown, turns dry and mealy, and will not ripen properly afterwards. Store them loose in the crisper rather than sealed in a bag, because a plum that splits — and a ripe one splits easily — leaks juice that ferments and takes its neighbours with it. Half an hour out of the fridge before eating restores the flavour that cold mutes.",
+    "freezer": "Sliced plums keep 2 months at −18 °C (0 °F), and the figure assumes slices packed with lemon juice and sugar to stop browning and mushiness. Leave the skins on: plum skin carries most of the colour and most of the acidity, and it is what makes a compote or a jam deep red rather than dull brown. Halve, stone, slice, toss and pack flat with the air pressed out. Frozen fruit stays safe indefinitely; the 2 months describes quality, and thawed slices are best cooked.",
+    "thawing": "Thaw in the fridge and use the slices cold, or cook them straight from frozen into crumbles, compotes and jam — plums are the most useful of the stone fruits frozen, because so much of what they are for involves a pan anyway. Once fully thawed they will not hold their shape.",
     "spoilage": [
       "Brown, soft, sunken bruises that weep when pressed",
       "Split skin, especially after rain or over-ripening",
@@ -29,11 +29,11 @@
   "zh": {
     "name": "李子",
     "aliases": ["加州李", "黑布林", "紅肉李", "洋李"],
-    "summary": "李子是硬著賣、在室溫完成後熟的核果，會變軟、變多汁，但甜度不太會再增加。它的常溫沒有固定期限——放到熟為止，之後再放 1 到 2 天——熟了之後冷藏 3 到 5 天，切片冷凍 2 個月。",
-    "pantry": "這裡的室溫規則是「一個階段」而不是天數：把李子放到熟為止，也就是變得柔軟、發育完全、可以入口，之後最多再放 1 到 2 天。熟的李子輕壓會凹，蒂頭端聞得到甜香；果皮上那層白霧是天然果粉，代表被小心對待過，不是髒污。單層擺放、避開日曬，想加快就用紙袋悶著。",
-    "fridge": "熟了才冷藏，放 4°C 以下可以放 3 到 5 天。硬李子冰起來會造成內部劣變：果肉會變乾變粉，而且之後也不會再好好熟成。鬆散地放在蔬果室而不要密封；吃之前先回溫半小時，風味才完整。",
-    "freezer": "切片的李子在 −18°C 下可放 2 個月，這個數字的前提是切片後拌檸檬汁和糖，以防止褐化與軟爛。把果實對半切、去核、切片，拌檸檬汁和一點糖，平鋪裝袋擠出空氣。只要維持凍結就是安全的，2 個月是品質區間，而且解凍後的李片比較適合入菜。",
-    "thawing": "放冷藏解凍後趁冰涼時使用，或直接冷凍下鍋做烤酥、糖煮和果醬。完全解凍之後就撐不住形狀了。",
+    "summary": "李子是硬著賣、在室溫完成後熟的核果：它會變軟、變多汁，但甜度不太會再增加，而酸味始終集中在果皮。常溫沒有固定天數：放到熟為止，之後再放 1 到 2 天；熟了冷藏 3 到 5 天，切片冷凍 2 個月。",
+    "pantry": "這是一個階段，不是天數。把李子放在室溫直到熟——柔軟、發育完全、可以入口——之後最多再放 1 到 2 天。熟的李子整顆輕壓都會凹，蒂頭端聞得到甜香。果皮上那層灰灰的白霧是果實自己分泌的天然蠟粉：那代表它被小心對待過，不是髒；它能減緩水分散失，也是李子在要吃之前都不必洗的好理由。李子還是最容易熟過頭而沒被發現的核果，因為果皮還撐著，裡面卻已經在發酵——所以線索是蒂頭那裡聞到酒味或醋味，緊接著就是果蠅。請單層擺放、避開日曬；想催快就用紙袋。",
+    "fridge": "熟了才冷藏：4°C 以下 3 到 5 天。太早冰的硬李子會發生內部劣變，變乾變粉，之後也不會再好好熟成。請鬆散地放在蔬果室，不要密封在袋子裡，因為李子一裂——熟了的很容易裂——流出來的汁會發酵，然後把旁邊的一起拖下水。吃之前先出來半小時，低溫壓住的風味才會回來。",
+    "freezer": "切片的李子在 −18°C 下可放 2 個月，而這個數字的前提是切片後拌檸檬汁和糖，用來擋住褐化與軟爛。皮請留著：李子的顏色和酸度大多在皮上，糖煮或果醬能是那種深紅而不是暗褐，靠的就是它。對半切、去核、切片、拌勻，平鋪裝袋擠出空氣。維持凍結就是安全的，2 個月講的是品質，解凍後的果肉比較適合入鍋。",
+    "thawing": "放冷藏解凍後趁冰涼時使用，或直接冷凍下鍋做烤酥、糖煮和果醬——在核果裡，李子是冷凍之後最好用的一種，因為它的用途本來就多半要經過一個鍋子。完全解凍之後，它撐不住形狀。",
     "spoilage": [
       "出現褐色、軟塌、凹陷的撞傷，一壓就滲汁",
       "果皮裂開，尤其在下雨後或過熟時",

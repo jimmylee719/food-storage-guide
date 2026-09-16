@@ -8,11 +8,11 @@
    "preserved barbecue sauce",
    "bottled homemade BBQ sauce"
   ],
-  "summary": "This is barbecue sauce made at home and preserved by canning in sealed jars, not a sauce simply cooked and poured into a bottle. Properly processed and sealed, it keeps about 9–12 months in the cupboard. Once a jar is opened it is an ordinary refrigerated condiment.",
-  "pantry": "Sealed jars keep about 9–12 months in a cool, dark, dry cupboard. That figure assumes the sauce was made to a tested recipe and processed properly, which for a tomato-based sauce means an acidity level the recipe was designed around — home canning is where guesswork turns into a botulism risk, and a sauce you improvised is not a sauce you should shelf-store. Label every jar with the date, store them without their screw bands so a failed seal shows itself, and check each lid is still concave before use.",
-  "fridge": "Once a jar is opened, keep it at 4 °C (40 °F) or below, capped, and use it as you would any opened condiment. A jar that failed to seal properly never belonged in the cupboard at all: refrigerate it immediately and use it quickly, or freeze it. The same goes for any batch you cooked but did not process — that is a fresh sauce, not a preserve.",
-  "freezer": "No freezer timeline is published for home-canned barbecue sauce, but freezing is a perfectly sensible alternative to canning for anyone without proper equipment, and it sidesteps the acidity question entirely. Cool the sauce, portion it into rigid containers or flat bags leaving headspace for expansion, and freeze at −18 °C (0 °F). Frozen food held at that temperature stays safe indefinitely; what drifts is flavour and texture.",
-  "thawing": "Thaw frozen barbecue sauce in the fridge overnight, or reheat it gently straight from frozen in a pan. Do not thaw it on the counter, and whisk it if it has separated.",
+  "summary": "This is barbecue sauce made at home and preserved in sealed jars, not a sauce cooked and poured into a bottle. It is thick and sugary, and that is what makes it a particular canning problem rather than an ordinary one. Processed and sealed correctly it keeps about 9–12 months in the cupboard, and an opened jar becomes an ordinary refrigerated condiment.",
+  "pantry": "About 9–12 months on a cool, dark, dry shelf, assuming a tested recipe followed exactly. Two things matter about barbecue sauce specifically. It is thick, and thickness is the enemy of safe canning: heat travels through a dense sauce far more slowly than through a thin one, so a tested recipe's processing time is calculated for that exact consistency — never thicken a sauce with flour, cornflour or extra tomato paste before canning it. And its acidity comes from vinegar, which makes the vinegar structural rather than seasoning; cutting it back, or swapping it for something milder, lowers the acidity of everything in the jar. Sugar and molasses preserve nothing here. Date every jar, take the screw bands off for storage so a lid that has lost its seal is not held down by one, and press the centre of each lid before opening — it should be firm and concave, not springy.",
+  "fridge": "Once open, cap it and keep it at 4 °C (40 °F) or below, where it behaves like any other condiment. Spoon it out, or keep a separate brush for it: dipping a brush that has touched raw meat back into the jar is the usual way a jar of barbecue sauce gets contaminated. A jar that never sealed properly was never a preserve — refrigerate it at once and use it quickly, or freeze it. The same applies to a batch you cooked and simply jarred without processing.",
+  "freezer": "No freezer figure is published for home-canned barbecue sauce, and none is invented here. Freezing is nevertheless the better route for anyone without a canner, because it sidesteps the acidity and the heat-penetration problem together — you can make the sauce as thick and as sweet as you like. Cool it, portion it into rigid tubs or bags laid flat with headspace for expansion, and freeze at −18 °C (0 °F), where it stays safe indefinitely. Sugar-heavy sauces never freeze rock hard, so they scoop rather than shatter.",
+  "thawing": "Overnight in the fridge, or straight from frozen into a low pan. Keep the heat gentle at first: the sugar catches and burns on a hot base long before the middle of the block has melted. Stir it back together if it has separated. Not on the counter.",
   "spoilage": [
    "A lid that has lost its seal, flexes, or pops up when pressed",
    "Spurting liquid, fizzing or pressure when the jar is opened",
@@ -52,11 +52,11 @@
    "自製燒烤醬",
    "手作烤肉醬"
   ],
-  "summary": "這裡指的是在家做好、以裝罐密封方式保存的烤肉醬，不是煮好後隨手倒進瓶子的醬。處理與密封得當的話，放在櫥櫃裡大約 9～12 個月。一旦開罐，它就是一般的冷藏調味料。",
-  "pantry": "密封完好的罐子放在陰涼、避光、乾燥的櫥櫃，大約 9～12 個月。這個數字的前提是照著經過驗證的配方製作並正確殺菌處理；對番茄基底的醬來說，那代表整體酸度必須符合配方的設計——家庭裝罐正是「憑感覺」變成肉毒桿菌風險的地方，自己隨意調的醬不該常溫存放。每罐都標日期，存放時把外圈螺蓋拆掉，這樣密封失敗會立刻顯現，使用前也要確認蓋子仍然是凹陷的。",
-  "fridge": "開罐後放 4 °C 以下、蓋緊，比照一般開封調味料使用。密封失敗的罐子本來就不該進櫥櫃：請立刻冷藏並盡快用完，或改成冷凍。煮好但沒有做殺菌處理的那一鍋也一樣——那是新鮮醬料，不是保存品。",
-  "freezer": "自製封罐烤肉醬沒有公布冷凍期限，但對沒有裝罐設備的人來說，冷凍是非常合理的替代方案，而且完全繞開酸度的問題。醬放涼後分裝進硬質容器或平放的密封袋，留出膨脹空間，放 −18 °C 冷凍。食物在這個溫度下安全性可以無限期維持，會變的是風味和質地。",
-  "thawing": "冷凍的烤肉醬請放冷藏隔夜解凍，或直接從冷凍下鍋小火加熱。不要放室溫解凍；如果有分離，攪拌回去即可。",
+  "summary": "這裡指的是在家做好、以裝罐密封保存的烤肉醬，不是煮好隨手倒進瓶子的醬。它又稠又甜，而這正是它在裝罐上屬於特殊難題、而不是普通品項的原因。處理與密封得當的話，放在櫥櫃裡大約 9～12 個月；開罐之後，它就是一般的冷藏調味料。",
+  "pantry": "放在陰涼、避光、乾燥的架子上大約 9～12 個月，前提是完全照著經過驗證的配方做。烤肉醬有兩件事特別要注意。第一，它很稠，而稠度正是安全裝罐的敵人：熱在濃稠的醬裡跑得比在稀的醬裡慢得多，所以經驗證配方的殺菌時間，是針對那個確切的稠度算出來的——裝罐前絕對不要用麵粉、玉米粉或額外的番茄糊去勾稠。第二，它的酸度來自醋，所以醋在這裡是結構，不是調味；減少醋量或換成更溫和的醋，等於把整罐的酸度一起拉低。糖和糖蜜在這裡完全沒有防腐作用。每罐標上日期，存放時把外圈螺蓋拆下來，免得密封已經失效的蓋子還被硬壓著；開罐前按一下蓋子中央，應該是硬的、凹的，不是會回彈的。",
+  "fridge": "開罐後蓋緊放 4 °C 以下，之後它的行為和一般調味料無異。請用湯匙舀出來，或另外準備一支專用刷子；把碰過生肉的刷子再插回罐子裡，正是一罐烤肉醬被污染最常見的方式。從來沒有密封成功的罐子本來就不是保存品——立刻冷藏、盡快用完，或改成冷凍。煮好之後只是裝瓶、沒有做殺菌處理的那一鍋，也一樣。",
+  "freezer": "自製封罐烤肉醬沒有公布的冷凍期限，這裡也不編一個。不過對沒有裝罐設備的人來說，冷凍是更好的路：它同時繞開酸度和熱穿透這兩個問題，你想調多稠、多甜都可以。放涼後分裝進硬盒或平放的密封袋、留出膨脹空間，放 −18 °C，安全性可以無限期維持。含糖高的醬凍起來不會硬邦邦，反而是挖得動的。",
+  "thawing": "放冷藏隔夜解凍，或直接從冷凍下鍋小火加熱。一開始火要小：鍋底一熱，糖會先焦掉，而中間那塊都還沒化。如果分離了，攪回去就好。不要放室溫解凍。",
   "spoilage": [
    "蓋子失去真空、按下去會彈動或彈起",
    "開罐時液體噴出、冒氣或有壓力",

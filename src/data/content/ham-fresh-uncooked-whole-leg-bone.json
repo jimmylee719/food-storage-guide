@@ -3,11 +3,11 @@
   "en": {
     "name": "Fresh ham, uncooked, whole leg, bone-in",
     "aliases": ["fresh pork leg", "uncured ham", "green ham", "whole pork leg", "raw pork leg roast"],
-    "summary": "A fresh ham is simply the uncured, unsmoked rear leg of the pig, so it looks and cooks like a large pork roast rather than a pink deli ham. Whole and bone-in, it keeps 1 week in the fridge from purchase and 1–2 months in the freezer for best quality. It is raw pork and must be cooked thoroughly.",
-    "pantry": "Fresh pork cannot be stored at room temperature. Never leave the leg out for more than 2 hours (1 hour above 32 °C / 90 °F), even while it comes up to temperature before roasting. Bacteria multiply quickly in the danger zone of 4–60 °C (40–140 °F).",
-    "fridge": "Keep the leg in its original wrapping at or below 4 °C (40 °F), on the bottom shelf in a large tray so raw juices cannot drip onto other food. Cook it within 1 week of purchase and before the use-by date; if the butcher wrapped it in paper, rewrap it in cling film or a bag to stop it drying out.",
-    "freezer": "A whole bone-in leg is large, so check your freezer space first. Wrap it in freezer film, then heavy foil or a large freezer bag, pad any sharp bone ends with extra wrap and freeze at −18 °C (0 °F). It stays safe indefinitely, but for best quality roast it within 1–2 months.",
-    "thawing": "Thaw in the fridge, allowing about 24 hours per 2 kg (4–5 lb); a whole leg may need 3–4 days. Cold-water thawing (leak-proof bag, water changed every 30 minutes) is faster but the meat must be cooked at once. Never thaw on the counter.",
+    "summary": "A fresh ham is the uncured, unsmoked rear leg of the pig — raw pork, not the pink sliced kind — and a whole bone-in leg is the largest single piece of pork most households ever buy, usually with the rind and fat cap still on. It keeps 1 week in the fridge from purchase and 1–2 months in the freezer for best quality, and it has to be cooked right through.",
+    "pantry": "None, and with a leg this size the room-temperature rule bites harder than usual. A joint that big takes hours to warm up, so people stand it on the counter to take the chill off before roasting and lose track of the time — while the surface, which is where the bacteria are, sits in the 4–60 °C (40–140 °F) danger zone throughout. Two hours out is the limit, 1 hour above 32 °C (90 °F). Anything you hoped to gain by tempering a leg on the worktop you can have more safely by simply roasting it a little longer.",
+    "fridge": "One week from purchase at 4 °C (40 °F) or below. Mass is the whole story with a whole leg: it comes home at whatever temperature the journey left it at, and a solid joint of this size can take most of a day to reach 4 °C right through the middle. Give it the coldest shelf, sat in a deep tray, with air able to move around it rather than wedged in among the rest of the shopping — packing it tight is exactly what makes the centre lag. The rind and fat cap already protect most of the surface, so the sawn butt end is the part that needs wrapping. Cook it within the week and before the use-by date.",
+    "freezer": "Measure the freezer before you commit, because a whole bone-in leg defeats a lot of domestic ones. Wrap it in freezer film, then heavy foil or a large freezer bag, and pad the sawn bone ends with extra layers — they work through thin plastic and let air at the meat. At −18 °C (0 °F) it stays safe indefinitely and is at its best within 1–2 months. A leg also freezes slowly, so leave space around it and do not load the freezer with other unfrozen packages the same evening.",
+    "thawing": "Fridge thawing only, at roughly 24 hours per 2 kg (4–5 lb), which for a whole leg means 3–4 days — start on Wednesday for a Sunday. This is the cut people are most tempted to rush and most punished for rushing: a leg left on the counter has a thawed, warm outer inch long before the middle shows any sign of softening. Cold-water thawing in a leak-proof bag with the water changed every 30 minutes is quicker, but at this size it is a half-day job and the pork must be cooked the moment it is done.",
     "spoilage": [
       "Sour or ammonia-like smell, especially near the bone",
       "Slimy or sticky surface",
@@ -29,11 +29,11 @@
   "zh": {
     "name": "生鮮豬後腿（帶骨整腿）",
     "aliases": ["帶骨豬腿", "整隻豬後腿", "未醃製火腿", "生豬腿肉", "豬腿庫"],
-    "summary": "所謂的 fresh ham 就是沒有醃製、沒有煙燻的豬後腿，外觀和煮法都比較像大塊烤豬肉，而不是粉紅色的火腿。帶骨整腿從購買日算起冷藏可放 1 週，冷凍以 1～2 個月內用完為佳。它是生豬肉，一定要徹底煮熟。",
-    "pantry": "生豬肉不能常溫存放。即使是烤之前要回溫，也不要放在外面超過 2 小時（室溫超過 32 °C 則 1 小時）。細菌在 4～60 °C 的危險溫度帶會快速繁殖。",
-    "fridge": "保留原包裝，放在 4 °C 以下冷藏室的最下層，底下用大盤子接住生肉汁，避免滴到其他食物。從購買日算起 1 週內烹煮，且不能超過有效期限；如果肉販是用紙包的，回家後改用保鮮膜或袋子包好才不會變乾。",
-    "freezer": "帶骨整腿很大，先確認冷凍庫放得下。用保鮮膜包好，再包厚鋁箔紙或套大冷凍袋，尖銳的骨頭端多包幾層以免戳破，放進 −18 °C 冷凍庫。安全上可以放很久，但 1～2 個月內烤掉品質最好。",
-    "thawing": "放冷藏室解凍，每 2 公斤約 24 小時，整腿可能要 3～4 天。冷水法（不漏水的袋子，每 30 分鐘換水）比較快，但解凍後要馬上烹煮。不要放在室溫下退冰。",
+    "summary": "生鮮豬後腿是沒有醃製、沒有煙燻的豬後腿——是生豬肉，不是粉紅色的火腿片——而帶骨整腿大概是一般家庭會買到最大的一塊豬肉，通常還留著豬皮和整層脂肪。從購買日算起冷藏 1 週，冷凍以 1～2 個月內用完品質最好，而且一定要徹底煮熟。",
+    "pantry": "沒有。而且腿越大，室溫這條規則咬得越兇。這麼大一塊肉要回溫得花上好幾個小時，很多人就把它擱在檯面上慢慢退，然後忘了時間；但細菌都在表面，而表面已經在 4～60 °C 的危險溫度帶裡待了整段時間。離開冰箱最多 2 小時，室溫超過 32 °C 時只有 1 小時。你想靠回溫得到的均勻度，多烤一會兒就能得到，而且安全得多。",
+    "fridge": "從購買日起放 4 °C 以下 1 週。整腿的關鍵完全在體積：它回到家時是路上那個溫度，而這麼大一塊實心的肉，中心要降到 4 °C 可能要花上大半天。請給它最冷的那一層，放在深盤裡，四周留出空氣流動的空間，不要塞在一堆採買之間——擠得太緊正是中心遲遲降不下來的原因。豬皮和脂肪層已經保護了大部分表面，真正需要包起來的是鋸開的那個斷面。請在一週內、而且在標示期限之前烹煮。",
+    "freezer": "先量冷凍庫再決定買；帶骨整腿放不進很多家用冷凍庫。先用保鮮膜包住，再包厚鋁箔或套進大冷凍袋，鋸開的骨頭端要多包幾層，否則會戳破薄塑膠、讓空氣接觸到肉。放 −18 °C，安全上可以無限期維持，品質則是 1～2 個月內最好。整腿凍得慢，所以四周要留空隙，也不要同一個晚上再塞進一堆還沒凍的東西。",
+    "thawing": "只能冷藏解凍，大約每 2 公斤 24 小時，整腿就是 3～4 天——週日要吃，星期三就得開始。這也是最多人想抄捷徑、又最容易吃虧的一塊：放在檯面上退冰的腿，外圈一兩公分早就化了也暖了，中心卻完全沒有要軟的意思。冷水法（不漏水的袋子、每 30 分鐘換水）比較快，但這種尺寸要耗掉半天，而且一解凍就得立刻下鍋。",
     "spoilage": [
       "有酸味或阿摩尼亞味，骨頭附近尤其明顯",
       "表面黏滑或黏手",

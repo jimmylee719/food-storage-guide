@@ -8,11 +8,11 @@
    "火腿切片",
    "jamón cocido en lonchas"
   ],
-  "summary": "A sealed pack of pre-packaged sliced ham keeps 2 weeks from purchase in the refrigerator at 4 °C (40 °F) or below, and 3–5 days once opened. Freezing is not recommended for quality, although an unopened pack will hold 1–2 months from purchase at −18 °C (0 °F).",
-  "pantry": "Sliced deli ham does not belong at room temperature. It is cooked, moist, low in acid and eaten without any further cooking, which is the profile most associated with Listeria — and Listeria grows slowly even at fridge temperature, which is exactly why the opened window is so much shorter than the sealed one. Keep it cold on the way home. Out of the fridge it gets two hours at most, or one hour above 32 °C (90 °F); a sandwich platter standing on a table through an afternoon is the situation to avoid.",
-  "fridge": "Unopened, 2 weeks from purchase at 4 °C (40 °F) or below; once opened, 3–5 days. Keep it on a cold shelf rather than in the door, wrapped airtight or in a sealed box so the slices do not dry and grey at the edges, and store it away from raw meat. People who are pregnant, elderly or immunocompromised are usually advised either to avoid ready-to-eat deli meats or to heat them until steaming hot first — non-dried deli meats such as cooked ham are specifically named in that advice, whereas dried and salted products are treated as the safer choice.",
-  "freezer": "Freezing is not recommended. Thin slices of cured, brine-injected ham release water on thawing and come back wet and soft, with a saltier, slightly metallic edge, and they tear when you try to separate them. If you freeze it anyway, an unopened pack holds 1–2 months from purchase at −18 °C (0 °F). Freeze well inside the fridge window, lay the pack flat, and use the thawed slices in a cooked dish rather than in a sandwich.",
-  "thawing": "Thaw in the fridge and use within the opened window. Never thaw on the counter, and do not refreeze.",
+  "summary": "Pre-packaged ham deli meat is pork cured with salt and nitrite, cooked, then sliced and sealed. The cure is what fixes the pink colour and what lowers the water available to bacteria — though not by enough to change the dates. A sealed pack keeps 2 weeks from purchase at 4 °C (40 °F) or below, and 3–5 days once opened. Freezing is not recommended for quality, although an unopened pack will hold 1–2 months from purchase at −18 °C (0 °F).",
+  "pantry": "There is no room-temperature figure for sliced ham, and the salt and nitrite in it do not buy you one. Modern deli ham is a high-moisture product cured for colour and flavour rather than for shelf life, which is a different thing from a dry-cured leg hanging in a cellar. Carry it home cold, in the middle of the bag rather than against a sunny car window, and get it back under 4 °C (40 °F). Anything already out has 2 hours, cut to 1 hour once the room passes 32 °C (90 °F). The usual failure is a plate of ham left on the table through a party.",
+  "fridge": "Sealed, 2 weeks from the day you bought it at 4 °C (40 °F) or below; opened, 3–5 days. Press the slices back together and roll the pack tight, or move them into a small lidded box — ham exposed to air dries into hard-edged curls and the cured pink fades towards brown-grey. Keep it below and apart from anything raw. One thing that looks alarming and is not: ham slices often show a green-gold shimmer where the blade cut across the muscle fibres, which is light diffracting off the cut ends, not spoilage. What does mean discard is a tacky, sticky surface, cloudy liquid collecting in the pack, or a sour whey smell. Anyone pregnant, elderly or immunocompromised should heat it until steaming or leave it — cooked non-dried deli meats are named in that advice, while dry-cured products are treated separately.",
+  "freezer": "Freezing is not recommended, and the cure is the reason. Salt speeds up the oxidation of fat, so frozen ham picks up a stale, rancid edge sooner than fresh pork would, and the injected brine leaves the thawed slices weeping, soft, saltier and inclined to tear as you peel them apart. If you freeze it anyway, an unopened pack holds 1–2 months from purchase at −18 °C (0 °F). Do it while most of the fridge window is still unspent, lay the pack flat, and send the thawed slices into something cooked — a croque monsieur, a quiche — where the wetness does not show.",
+  "thawing": "Thaw the pack overnight in the fridge, and count the 3–5 opened days from the moment you break the seal. Never leave it on the counter, and do not refreeze slices that have softened.",
   "spoilage": [
    "A slimy or tacky film on the slices — the earliest reliable sign.",
    "A sour, sulphurous or ammonia-like smell when the pack is opened.",
@@ -48,11 +48,11 @@
    "即食火腿片",
    "deli ham"
   ],
-  "summary": "未開封的包裝火腿切片，自購買日起放 4 °C 以下冷藏可放 2 週，開封後 3～5 天。基於品質並不建議冷凍，但未開封的包裝在 −18 °C 下自購買日起可放 1～2 個月。",
-  "pantry": "即食火腿片不屬於室溫。它是煮熟、含水、低酸性，而且不會再加熱就被吃掉，這正是最常與李斯特菌連結的型態——而李斯特菌在冷藏溫度下仍會緩慢生長，這也正是開封後期限比未開封短這麼多的原因。買回家的路上要保冷。離開冰箱最多兩小時，氣溫超過 32 °C 時最多一小時；三明治拼盤在桌上放一整個下午，就是要避免的情況。",
-  "fridge": "未開封自購買日起放 4 °C 以下 2 週；開封後 3～5 天。請放冷藏層架而不是門邊，密封包好或裝密閉盒避免肉片邊緣乾掉發灰，並與生肉分開存放。懷孕、年長或免疫功能低下者，通常會被建議避開即食熟肉，或先加熱到冒蒸氣再吃——像熟火腿這類「非乾式」的熟肉是被點名的對象，而乾式鹽漬的產品則被視為相對安全的選擇。",
-  "freezer": "不建議冷凍。注過鹽水的醃製火腿薄片解凍後會出水，回來時濕軟、鹹味更重、還帶一點金屬味，而且一撕就破。真要冷凍，未開封的包裝在 −18 °C 下自購買日起 1～2 個月。請在冷藏期限還很充裕時就冷凍、包裝平放，並且把解凍後的肉片用在加熱料理上，不要拿來夾三明治。",
-  "thawing": "放冷藏解凍，並在開封後的期限內用完。不要放室溫退冰，也不要二次冷凍。",
+  "summary": "包裝火腿切片是豬肉用鹽和亞硝酸鹽醃製、加熱煮熟後切片密封的產品。醃製既是它維持粉紅色的原因，也降低了細菌可用的水分——但還不足以改變下面這些天數。未開封自購買日起放 4 °C 以下 2 週，開封後 3～5 天。基於品質不建議冷凍，未開封的包裝在 −18 °C 下自購買日起可放 1～2 個月。",
+  "pantry": "火腿切片沒有室溫天數，裡面的鹽和亞硝酸鹽也換不到室溫天數。現在的即食火腿含水量高，醃製是為了顏色和風味，不是為了常溫保存，跟吊在陰涼處慢慢風乾的生火腿是兩回事。買回家路上要保冷，放在購物袋中間，不要貼著曬得到太陽的車窗，回家立刻收進 4 °C 以下。已經拿出來的最多 2 小時，室溫超過 32 °C 時只剩 1 小時。最常出事的情境，就是一盤火腿在聚會桌上擺一整晚。",
+  "fridge": "未開封自購買日起 4 °C 以下 2 週；開封後 3～5 天。把肉片疊回去、包裝捲緊夾好，或改裝進小的密封盒——暴露在空氣裡的火腿會乾成硬邊捲片，醃出來的粉紅也會褪成灰褐。位置要在生食下方，而且分開放。有一種看起來嚇人但其實沒事的現象：火腿切面常出現綠金色的虹彩光澤，那是光線在被刀切斷的肌纖維末端產生繞射，不是變質。真正該丟的是表面發黏、袋裡積出混濁液體，或聞到酸酸的乳清味。懷孕、年長或免疫功能低下者請加熱到冒蒸氣再吃，或直接避開——被點名的正是這類加熱熟製的非乾式肉品，乾式鹽漬的產品另當別論。",
+  "freezer": "不建議冷凍，而原因就出在醃製本身。鹽會加速油脂氧化，所以冷凍火腿產生油耗味的速度比生豬肉還快；注射進去的鹽水則讓解凍後的肉片一直滲水，回來時軟爛、更鹹，一撕就破。真的要凍，未開封的包裝在 −18 °C 下自購買日起 1～2 個月。請趁冷藏期限還剩很多的時候就凍、包裝平放，解凍後用在加熱料理裡——火腿起司熱吐司、鹹派——出水就看不出來了。",
+  "thawing": "整包移到冷藏放隔夜解凍，而開封後的 3～5 天要從撕開封口那一刻起算。不要放在流理台上退冰，已經軟掉的肉片也不要再冰回冷凍庫。",
   "spoilage": [
    "肉片表面出現黏滑或發黏的薄膜——最早也最可靠的徵兆。",
    "拆封時聞到酸味、硫味或氨味。",

@@ -8,11 +8,11 @@
    "嬰兒副食品餐",
    "寶寶主餐泥"
   ],
-  "summary": "Unopened baby dinners should be discarded after the use-by date on the jar or pouch. Once opened, they keep 2 days in the fridge at 4 °C (40 °F) or below — and only if you have never fed from the container with a used spoon.",
-  "pantry": "An unopened jar or pouch is commercially sterilised and shelf-stable to its use-by date, and after that date it should be discarded rather than judged by eye. No general pantry figure is given, because the date on the container is the manufacturer's own statement about their own product. Keep it somewhere cool and dark, and throw out any jar whose lid has lost its vacuum — the button on a baby food lid should not click when you press it — or any pouch that is swollen, leaking or damaged.",
-  "fridge": "2 days at 4 °C (40 °F) or below once opened, covered, and this is the shortest kind of window on the site for a reason. Baby dinners contain meat or poultry as well as vegetables, which makes them a mixed low-acid food, and the baby eating them has a less developed immune system than an adult. The critical rule is about the spoon: never feed straight from the jar or pouch with a spoon that has been in the baby's mouth, because saliva carries bacteria and enzymes into the remainder and it can no longer be kept. Spoon a portion into a bowl, feed from the bowl, and throw away whatever is left in the bowl after the feed.",
-  "freezer": "No freezer timeline is published for opened baby dinners. Commercial jars and pouches are not designed to be frozen and reheated, and the texture separates badly. If you are freezing home-made purées in an ice cube tray, that is a different and perfectly sensible practice — but label them, keep them short, and do not borrow a number from anywhere else. Never refreeze a portion that has been thawed and warmed.",
-  "thawing": "Thaw a frozen home-made portion in the fridge, never on the counter, and warm it once. Stir and test on your wrist before feeding, because warmed food heats unevenly and a hot pocket will scald.",
+  "summary": "Baby dinners are mixed meals — chicken, beef or turkey with vegetables and a starch such as rice or pasta. Meat plus cooked starch at low acidity is the shortest-lived thing in a baby's cupboard once it is open: 2 days in the fridge at 4 °C (40 °F) or below, covered, and only if no used spoon has been in the container. Sealed, discard after the use-by date printed on the jar or pouch.",
+  "pantry": "Sealed, these are commercially sterilised and sit on the shelf to the printed date; there is no number of ours to add, because that date is the maker's statement about their own product. Store them cool and dark, and inspect before opening — a vacuum button that clicks, a swollen pouch, a rusty ring around a jar lid. Once open, nothing about a dinner belongs at room temperature, and the specific mistake to avoid is warming one in a bottle warmer and then leaving it sitting there: meat and cooked starch held lukewarm is exactly what Bacillus cereus and Clostridium perfringens multiply in.",
+  "fridge": "Two days at 4 °C (40 °F) or below, covered, which is the shortest window on this site and deliberately so. There is meat or poultry in the jar, the whole mixture is low in acid, and the person eating it has an immune system that is still being built. Thick and savoury, a dinner also hides spoilage better than a fruit purée does, so do not lean on smell. Feed from a bowl, never from the jar with a spoon that has been in the baby's mouth, because saliva puts bacteria and digestive enzymes straight into the remainder. Reheat a refrigerated portion right through to steaming, 74 °C (165 °F), and only once.",
+  "freezer": "There is no published freezer figure for an opened baby dinner, and no number should be borrowed from another food to fill the gap. Commercial jars and pouches are not built to be frozen and reheated: the sauce splits, the starch goes grainy and the meat turns fibrous. Dinners you have cooked and cooled yourself do freeze sensibly in single portions — label each one with what it is as well as the date, since a frozen cube of chicken and carrot looks exactly like a frozen cube of beef and pea. Never refreeze a portion that has been thawed and warmed.",
+  "thawing": "Thaw a home-made portion in the fridge overnight, never on the counter, and heat it through once until it steams. Stir it and check the temperature on your wrist afterwards, because meat and starch heat unevenly and the middle can be scalding while the edge feels merely warm.",
   "spoilage": [
    "A lid that clicks when pressed, or a swollen or leaking pouch — do not open it, discard it.",
    "Any bubbling, spurting or hissing when the jar is opened.",
@@ -48,11 +48,11 @@
    "副食品罐頭",
    "baby dinners"
   ],
-  "summary": "未開封的嬰兒主餐副食品，過了罐子或軟袋上的有效日期就該丟掉。開封後放 4 °C 以下冷藏可放 2 天——而且前提是你從來沒有用餵過的湯匙直接從容器裡挖。",
-  "pantry": "未開封的玻璃罐或軟袋經過商業滅菌，在有效日期之前是常溫商品；過了日期就丟，不要用眼睛判斷。這裡不給通用的常溫數字，因為容器上的日期就是製造商對自家產品的說法。請放陰涼避光處；如果瓶蓋的真空鈕按下去會「喀」一聲、或軟袋鼓脹、滲漏、破損，就整個丟掉。",
-  "fridge": "開封後蓋好放 4 °C 以下 2 天，而這是全站最短的那一類期限，是有原因的。嬰兒主餐裡除了蔬菜還有肉或家禽，屬於混合的低酸食品，而吃它的寶寶免疫系統又還沒發展完全。最關鍵的規則是湯匙：絕對不要用進過寶寶嘴巴的湯匙，直接從罐子或軟袋裡餵，因為口水會把細菌和酵素帶進剩下的食物，那一份就不能再留了。請舀一份到碗裡、從碗裡餵，餵完碗裡剩下的全部丟掉。",
-  "freezer": "開封後的嬰兒主餐沒有公布的冷凍期限。市售玻璃罐和軟袋並不是設計成冷凍再復熱的，質地會嚴重分離。如果你是把自製果泥菜泥用製冰盒分格冷凍，那是另一回事，而且完全合理——但請貼上日期、盡量縮短，也不要從別的地方借一個數字過來。解凍加熱過的那一份，絕對不要再冷凍。",
-  "thawing": "自製冷凍份量請放冷藏解凍，絕對不要放檯面，而且只加熱一次。餵之前攪拌均勻並滴在手腕內側試溫，因為加熱過的食物受熱不均，局部過燙會燙傷。",
+  "summary": "嬰兒主餐副食品是混合餐——雞肉、牛肉或火雞肉配蔬菜，再加米飯、麵這類澱粉。肉加上煮過的澱粉、又是低酸，開封後就是寶寶櫥櫃裡最短命的東西：蓋好放 4 °C 以下冷藏 2 天，而且前提是沒有用餵過的湯匙挖過。未開封的，過了罐子或軟袋上印的有效日期就丟。",
+  "pantry": "未開封的經過商業滅菌，可以放到包裝上印的日期為止；我們沒有自己的數字要補，因為那個日期就是廠商對自家產品的說法。請收在陰涼避光處，開封前先檢查：真空鈕會彈、軟袋鼓脹、罐蓋邊緣生鏽的都不要用。一旦開封，主餐沒有任何一部分適合待在室溫，而最該避免的具體錯誤是：放進溫奶器加熱後就一直擺在那裡——肉和煮過的澱粉維持在不冷不熱的溫度，正是仙人掌桿菌和產氣莢膜梭菌繁殖的條件。",
+  "fridge": "蓋好放 4 °C 以下 2 天，這是全站最短的一類期限，而且是刻意的。罐子裡有肉或禽肉，整體又是低酸，吃它的人免疫系統還在建構中。主餐濃稠、味道偏鹹香，也比果泥更會藏住壞掉的跡象，所以不要只靠鼻子判斷。請從碗裡餵，不要拿進過寶寶嘴巴的湯匙直接挖罐子，因為口水會把細菌和消化酵素直接送進剩下的那一份。冷藏過的份量要復熱到冒蒸氣、達到 74 °C 以上，而且只復熱一次。",
+  "freezer": "開封後的嬰兒主餐沒有公布的冷凍天數，也不該從別的食物借一個數字來填。市售玻璃罐和軟袋本來就不是設計成冷凍再復熱的：醬汁會分離、澱粉變粗、肉變柴。自己煮好放涼的主餐則可以合理地分成單次份量冷凍——每一份都要寫清楚是什麼、哪一天做的，因為凍成方塊的雞肉紅蘿蔔和牛肉豌豆長得一模一樣。解凍加熱過的那一份，絕對不要再冷凍。",
+  "thawing": "自製的份量放冷藏解凍一晚，絕對不要放檯面，加熱一次、熱到冒蒸氣。之後攪拌均勻並在手腕內側試溫，因為肉和澱粉受熱不均，邊緣摸起來溫溫的時候，中心可能已經燙嘴。",
   "spoilage": [
    "瓶蓋真空鈕按下去會響，或軟袋鼓脹、滲漏——不要打開，直接丟掉。",
    "打開時有冒泡、噴濺或嘶嘶聲。",

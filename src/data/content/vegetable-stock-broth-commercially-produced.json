@@ -8,11 +8,11 @@
    "veg stock carton",
    "vegetable stock cubes"
   ],
-  "summary": "Commercial vegetable stock comes as cartons, cans, concentrates and cubes, and for an unopened pack the answer is a rule rather than a number: go by the package use-by date. Refrigerated, broth runs about 7 days, or 3–4 days once the pack is opened. Frozen, about 2–3 months.",
-  "pantry": "There is no fixed cupboard timeline for an unopened carton or can — the package use-by date is the guide, stored cool, dry and out of the sun. Once a pack is opened the pantry stops being an option. Vegetable stock has no meat in it, but it is still a low-acid liquid full of dissolved sugars and minerals, and it spoils at room temperature much as any broth does. Refrigerate within two hours, or one hour if the kitchen is above 32 °C (90 °F).",
-  "fridge": "Keep it at 4 °C (40 °F) or below in a sealed container rather than the opened carton or can. Fresh or prepared refrigerated stock runs about 7 days; an opened shelf-stable pack is about 3–4 days. Cool homemade or reheated stock quickly before it goes in — a shallow container, or the pan sat in iced water, clears the 4–60 °C (40–140 °F) danger zone far faster than a deep pot. Reheat only what you need, to a full rolling boil.",
-  "freezer": "Vegetable stock freezes well. Pour it into rigid containers or flat-laid bags at −18 °C (0 °F), leaving headspace for expansion, where it holds about 2–3 months of good quality. Frozen food kept at that temperature stays safe indefinitely, so this is a flavour window. Freeze some as cubes for risotto and pan sauces and the rest in the portion size you cook with, and label everything — stock all looks alike frozen.",
-  "thawing": "Thaw stock in the fridge or drop the frozen block straight into a hot pan. Never thaw it on the counter, and bring thawed stock to a rolling boil before use.",
+  "summary": "Commercial vegetable stock is simmered from onion, carrot, celery and aromatics, and sold as cartons, cans, concentrates and cubes. It carries no collagen and almost no fat, so it never sets and never forms a cap — it is thin and clear cold as well as hot, which also means it gives you no clue at all about how well it was made or how it is holding up. Unopened, follow the date on the pack. Chilled it runs about 7 days, about 3–4 days after opening, and about 2–3 months frozen.",
+  "pantry": "Sealed cartons and cans sit in the cupboard until the printed use-by date, kept cool, dry and out of the sunlight; there is no separate number to give you. What is left after opening cannot go back on that shelf. Vegetable stock gets assumed to be the safe one because nothing died for it, and that instinct is wrong: it is a low-acid liquid loaded with the sugars and minerals pulled out of the vegetables, which makes a generous growing medium. Refrigerate the remainder inside 2 hours, or inside 1 hour when the room is above 32 °C (90 °F).",
+  "fridge": "Sealed at 4 °C (40 °F) or below, an opened pack is good for about 3–4 days and fresh chilled stock for about 7 days. Judge it by smell and by clarity rather than by texture: with no gelatine to set and no fat layer on top, vegetable stock looks identical on day one and day six, and the first warning is usually a faint sour, cidery smell as the dissolved vegetable sugars start to ferment. Cool it before it goes in — pour it into a wide shallow dish, or sit the pan in iced water, so it clears 4–60 °C (40–140 °F) quickly. Pour off what you need and heat that.",
+  "freezer": "At −18 °C (0 °F) vegetable stock keeps about 2–3 months of good quality and stays safe indefinitely. It separates more than a meat stock does: with no gelatine holding the liquid together, thawed stock often looks cloudy and drops a sediment, which stirs straight back in and matters not at all in a soup, though it shows in anything meant to be clear. Leave headspace for expansion, freeze part of it as cubes for risotto, and label every container — by February frozen stock is a stack of identical beige blocks.",
+  "thawing": "Thaw it in the fridge or melt the block in a hot pan; do not stand it on the worktop. Bring it back to the boil before serving, and whisk it as it heats so the sediment goes back into suspension.",
   "spoilage": [
    "A bulging, leaking or badly dented can — discard without opening",
    "Cloudiness, ropy strands or sliminess in what should be a clear liquid",
@@ -52,11 +52,11 @@
    "蔬菜高湯塊",
    "蔬菜湯底"
   ],
-  "summary": "市售蔬菜高湯有紙盒、罐裝、濃縮液和高湯塊等形式，未開封的答案是一條規則而不是數字：以包裝上的有效日期為準。冷藏方面，高湯大約 7 天，開封後 3～4 天。冷凍大約 2～3 個月。",
-  "pantry": "未開封的紙盒或罐頭沒有固定的櫥櫃天數——以包裝上的有效日期為準，存放在陰涼乾燥、避免日曬的地方。一旦開封，櫥櫃就不再是選項。蔬菜高湯雖然不含肉，但它仍是低酸、溶有大量糖分與礦物質的液體，在室溫下的變質方式和其他高湯差不多。請在兩小時內冷藏，廚房超過 32 °C 時縮短為一小時。",
-  "fridge": "請放 4 °C 以下，裝在密封容器裡而不是開過的紙盒或罐頭中。市售冷藏或現成高湯大約 7 天；常溫包裝開封後大約 3～4 天。自熬或回鍋過的高湯放進冰箱前要先快速降溫——用淺容器分裝，或把鍋子坐在冰水裡，都比一整深鍋更快通過 4～60 °C 的危險溫度帶。每次只加熱要用的份量，並煮到大滾。",
-  "freezer": "蔬菜高湯很適合冷凍。留出膨脹空間裝進硬質容器或平放的密封袋，放 −18 °C，風味大約可維持 2～3 個月。食物在這個溫度下安全性可以無限期維持，所以這是風味期限。可以凍一部分成冰塊，做燉飯和鍋底醬時很方便，其餘按下廚會用到的份量分裝，並全部貼上標籤——冷凍後的高湯看起來都一樣。",
-  "thawing": "高湯請放冷藏解凍，或直接把凍塊丟進熱鍋。絕對不要放室溫解凍，解凍後使用前要煮到大滾。",
+  "summary": "市售蔬菜高湯是用洋蔥、紅蘿蔔、西芹和辛香料熬的，有紙盒、罐頭、濃縮液和高湯塊。它沒有膠質、幾乎也沒有油脂，所以不會凝凍，也不會結油蓋——冷熱都是清清一碗，這同時表示它不會給你任何關於熬得好不好、狀況如何的線索。未開封看包裝上的日期；冷藏約 7 天，開封後約 3～4 天，冷凍約 2～3 個月。",
+  "pantry": "未拆封的紙盒和罐頭可以放到標示日期，收在陰涼乾燥、曬不到太陽的地方，沒有另外的天數要記。開封後喝不完的部分不能再放回櫥櫃。很多人覺得蔬菜高湯是比較安全的那一種，因為裡面沒有肉，但這個直覺是錯的：它是低酸液體，溶滿了從蔬菜裡釋出的糖分和礦物質，對細菌來說是很好的養分。剩下的要在 2 小時內冷藏，室溫超過 32 °C 時則是 1 小時。",
+  "fridge": "密封放 4 °C 以下，開封的約 3～4 天，冷藏販售的新鮮高湯約 7 天。判斷它壞了沒有要靠鼻子和濁度，不要靠手感：沒有膠質可以凝、表面也沒有油層，蔬菜高湯第一天和第六天長得一模一樣，最早的警訊通常是一股淡淡的酸味或像蘋果酒的氣味，那是溶在裡面的蔬菜糖分開始發酵。進冰箱前先降溫——倒進又寬又淺的容器，或把鍋子坐進冰水，讓它快點通過 4～60 °C。要用多少就倒多少出來加熱。",
+  "freezer": "放 −18 °C，良好品質約 2～3 個月，安全性則可無限期維持。它比肉高湯更容易分層：沒有膠質把水分抓住，解凍後常常變得混濁、底下沉一層渣，攪一攪就散開，煮湯完全沒差，只有要做清湯時看得出來。記得留膨脹空間，凍一部分成小塊做燉飯用，每一盒都要貼標籤——到了二月，冷凍庫裡的高湯全是一模一樣的米色方塊。",
+  "thawing": "放冷藏解凍，或把凍塊在熱鍋裡化開，不要擱在流理台上等它軟。上桌前要重新煮滾，加熱時順手攪一攪，讓沉澱重新散回湯裡。",
   "spoilage": [
    "罐身鼓起、滲漏或嚴重凹陷——不要開，直接丟掉",
    "本該清澈的湯變濁、出現絲狀物或黏稠感",

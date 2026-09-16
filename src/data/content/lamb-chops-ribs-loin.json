@@ -3,11 +3,11 @@
   "en": {
     "name": "Lamb chops, ribs or loin",
     "aliases": ["lamb cutlets", "rack of lamb", "loin chops", "lamb rib chops"],
-    "summary": "Lamb chops are individual portions cut from the rib or loin, tender enough to grill or pan-fry quickly and serve pink. Raw, they keep 3–5 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 4–12 months in the freezer at −18 °C (0 °F) for best quality.",
-    "pantry": "Raw lamb chops must not be stored at room temperature. Letting them sit out 20–30 minutes before cooking so they sear evenly is fine, but more than 2 hours in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) — 1 hour above 32 °C (90 °F) — means they should be thrown away. Cooked chops also go back in the fridge within 2 hours.",
-    "fridge": "Keep the chops in their tray or on a plate, loosely covered, on the bottom shelf at 4 °C (40 °F) or below so juices cannot drip onto other food. They are good for 3–5 days from purchase. If you are marinating with herbs, garlic and oil, do it in a sealed container in the fridge and count that time within the same window.",
-    "freezer": "Chops freeze beautifully because they are thin. Wrap them individually or separate them with baking paper, bag them with the air pressed out and freeze at −18 °C (0 °F): safe indefinitely, best quality for 4–12 months. Pad the exposed rib bones on a rack so they do not tear through the packaging and cause freezer burn.",
-    "thawing": "Thaw chops overnight in the fridge, or in a sealed bag under cold water changed every 30 minutes for about an hour, cooking immediately afterwards. Never thaw them on the counter, and do not refreeze thawed raw chops unless you cook them first.",
+    "summary": "Lamb chops are single portions cut across the rib or the loin, thin, tender and edged with a strip of firm white fat. That fat is the defining thing about storing them: lamb fat carries branched-chain fatty acids that no other meat has in the same quantity, and they are what makes lamb smell like lamb — and what makes an old chop smell muttony rather than merely stale. Raw, they keep 3–5 days in the fridge at 4 °C (40 °F) or below from the day of purchase, and 4–12 months in the freezer at −18 °C (0 °F) for best quality.",
+    "pantry": "No lamb chop should be stored at room temperature. Bringing chops out 20–30 minutes before they hit the pan is a cooking step rather than storage, and it helps them sear evenly. Past 2 hours between 4 °C and 60 °C (40 °F and 140 °F) — or 1 hour above 32 °C (90 °F) — they belong in the bin. Cooked chops go back into the fridge within 2 hours as well, which matters at a barbecue, where the platter of cooked chops tends to sit out longest of anything.",
+    "fridge": "3–5 days from purchase at 4 °C (40 °F) or below, in the tray or on a loosely covered plate, bottom shelf, with nothing beneath them. Use your nose daily rather than the calendar: fresh lamb smells faintly sweet and grassy, and as the fat oxidises that turns into the heavy tallowy note people call muttony, usually well before anything looks wrong. Marinating in oil, garlic and rosemary happens in a sealed box in the fridge, and those hours count inside the same 3–5 days — the oil also keeps air off the fat, which is why a marinated chop smells fresher for longer than a bare one. That is masking, not extra time.",
+    "freezer": "Chops are thin, so they freeze through quickly and take little ice damage: 4–12 months of best quality at −18 °C (0 °F), safe indefinitely. Wrap each chop, or interleave them with baking paper, so you can take two out without prising apart a slab. The exposed lean face is where freezer burn starts and a frenched rib bone is what tears the bag, so pad the bone tips and press out every last pocket of air. Lamb fat is what sets the limit: it is the part that oxidises, and once it has, no amount of seasoning covers it.",
+    "thawing": "Overnight in the fridge, or about an hour in a sealed bag under cold water changed every 30 minutes, then straight into a hot pan. Chops are thin enough that counter thawing puts them in the danger zone quickly, so it is never the right choice. Do not refreeze thawed raw chops; cook them first and freeze the cooked meat instead.",
     "spoilage": [
       "Sour or ammonia-like smell instead of the mild scent of fresh lamb",
       "Slimy or sticky surface on the meat or the fat rim",
@@ -29,11 +29,11 @@
   "zh": {
     "name": "羊排（肋排／腰脊）",
     "aliases": ["小羊排", "法式羊排", "羊肋排", "羊腰脊排", "羊小排"],
-    "summary": "羊排是從肋部或腰脊切下的單份肉排，肉質嫩，適合快速煎烤、中心保持粉紅。生肉在 4°C 以下冷藏，從購買日起可放 3～5 天；放 −18°C 冷凍則以 4～12 個月內品質最好。",
-    "pantry": "生羊排不能放室溫。下鍋前放 20～30 分鐘回溫、讓上色均勻沒問題，但在 4～60°C 的危險溫度帶超過 2 小時（氣溫超過 32°C 時 1 小時）就該丟掉。煎好的羊排也要在 2 小時內冰回冰箱。",
-    "fridge": "連原盒或放在盤子上鬆鬆蓋住，置於冰箱最下層，維持 4°C 以下，避免肉汁滴到其他食物。從購買日起可放 3～5 天。用香草、大蒜、橄欖油醃的話，請裝密封容器放冰箱，醃的時間也算在同一個期限內。",
-    "freezer": "羊排薄，冷凍效果很好。每片單獨包好，或用烘焙紙隔開，裝袋擠出空氣後放 −18°C 冷凍：安全上可以無限期保存，品質以 4～12 個月為佳。整排帶骨的要把骨尖多墊幾層，避免刺破包裝造成凍燒。",
-    "thawing": "放冷藏室解凍一晚，或裝密封袋泡冷水、每 30 分鐘換水約一小時，解凍後立刻烹調。絕對不要放室溫退冰；解凍後的生羊排若沒煮過，不要再冷凍。",
+    "summary": "羊排是從肋部或腰脊橫切下來的單份肉排，薄、嫩，一邊帶著一條結實的白色脂肪。保存羊排的關鍵就在那條脂肪：羊脂肪含有其他肉類沒有那麼多的支鏈脂肪酸，那正是羊肉之所以有羊味的來源，也是放久的羊排會轉成濃重羶味的原因。生肉在 4°C 以下冷藏，從購買日起可放 3～5 天；放 −18°C 冷凍則以 4～12 個月內品質最好。",
+    "pantry": "羊排不能放在室溫保存。下鍋前 20～30 分鐘拿出來是烹調步驟，不是保存方式，目的是讓上色均勻。在 4～60°C 之間超過 2 小時（氣溫超過 32°C 時 1 小時）就該丟掉。煎好的羊排同樣要在 2 小時內冰回去——烤肉場合尤其要注意，一盤烤好的羊排通常是留在外面最久的東西。",
+    "fridge": "從購買日起放 4°C 以下 3～5 天，連原盒或放盤子上鬆鬆蓋住，擺最下層，底下不要有別的食物。每天用鼻子確認，不要只看日期：新鮮羊肉聞起來帶點清甜的草香，脂肪一氧化就轉成那種厚重的油脂羶味，而且往往在外觀還看不出問題時就出現了。用橄欖油、大蒜、迷迭香醃的話請裝密封盒放冰箱，醃的時間也算在同一個 3～5 天裡——油會減少脂肪接觸空氣的機會，所以醃過的羊排聞起來比較久不變味。那是遮蓋，不是多出來的時間。",
+    "freezer": "羊排薄，很快就凍透，冰晶的傷害也小：放 −18°C，品質以 4～12 個月為佳，安全上可以無限期。每片單獨包好，或用烘焙紙隔開，之後才能一次拿兩片而不用整塊撬開。裸露的瘦肉面是凍燒的起點，修整過的骨尖則是刺破袋子的元兇，所以骨尖要墊、空氣要擠乾淨。真正決定期限的是羊脂肪：會氧化的是它，一旦走味，再怎麼調味都蓋不掉。",
+    "thawing": "放冷藏解凍一晚，或裝密封袋泡冷水、每 30 分鐘換水約一小時，接著直接下熱鍋。羊排夠薄，放室溫很快就進入危險溫度帶，所以那從來不是好選項。解凍後的生羊排不要再冷凍；要留就先煮熟，再把煮好的肉冷凍。",
     "spoilage": [
       "不是新鮮羊肉的溫和氣味，而是酸味或阿摩尼亞味",
       "肉或邊緣脂肪表面黏滑",

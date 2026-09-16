@@ -8,11 +8,11 @@
    "TVP products",
    "素肉"
   ],
-  "summary": "Frozen soy meat substitutes keep 12–18 months from purchase at −18 °C (0 °F) for best quality. Keep them frozen and cook as directed. Once cooked, they keep 3–4 days in the fridge at 4 °C (40 °F) or below.",
-  "pantry": "No room-temperature storage. Being plant-based changes nothing about how these behave in a warm kitchen: they are moist, low-acid, high-protein foods, and bacteria grow on them as readily as on meat. Anything left out is in the danger zone of 4–60 °C (40–140 °F) and follows the two-hour rule, one hour if the kitchen is above 32 °C (90 °F). Take out what you will cook and reseal the bag straight away.",
-  "fridge": "3–4 days at 4 °C (40 °F) or below once cooked, covered, and that is what the figure describes. A thawed but uncooked pack should be used within a day or so, sealed, on a low shelf. Reheat right through to steaming hot rather than to lukewarm; reheating a plant-based patty gently to warm is the same mistake as doing it with a meat one.",
-  "freezer": "12–18 months from purchase at −18 °C (0 °F) for best quality. Kept continuously at −18 °C they stay safe indefinitely — that window is about quality, not safety. What goes wrong is the added vegetable oil oxidising, which gives an over-kept pack a stale, cardboardy taste, and freezer burn drying the surface into pale, crumbly patches. Press the air out of the bag and reseal tightly each time, and keep it away from the freezer door.",
-  "thawing": "Most products cook straight from frozen, which is both quickest and best. If you need to thaw, do it in the fridge, never on the counter. A pack thawed in the fridge and still at or below 4 °C (40 °F) may be refrozen with some quality loss; anything thawed warm must not be refrozen.",
+  "summary": "Frozen soy meat substitutes — burgers, patties, strips, nuggets — keep 12–18 months from purchase at −18 °C (0 °F) for best quality. That is ten times what frozen crumbles get, and the difference is that these are solid formed pieces with a small outside for their bulk, usually interleaved and sealed by the maker. Keep them frozen and cook as directed; once cooked, they keep 3–4 days in the fridge at 4 °C (40 °F) or below.",
+  "pantry": "None. Plant-based changes nothing about how these behave in a warm kitchen — moist, low in acid, high in protein, and bacteria grow on them exactly as they would on a beef patty. In the 4–60 °C (40–140 °F) danger zone the two-hour rule applies, one hour above 32 °C (90 °F). The practical version of that rule: take out the number of patties you are cooking, close the bag, and put it back before you do anything else. A box left open on the worktop while the pan heats is how a long-life product ends up partly thawed and refrozen, which is what wrecks the texture.",
+  "fridge": "Cooked and covered, 3–4 days at 4 °C (40 °F) or below — that is what the figure refers to. A pack that has thawed but not been cooked should be used within a day or so, sealed, on a low shelf. Reheat right through until it steams rather than stopping at warm; a plant patty gives you none of the visual cues meat does, since it is the same colour all the way through before and after cooking, so temperature is the only thing worth trusting.",
+  "freezer": "12–18 months from purchase at −18 °C (0 °F) for best quality, and safe indefinitely as long as it never warms up. A formed patty or nugget has a coating or a smooth pressed surface and very little area relative to its mass, which is why it holds so much longer than crumbles do: there is far less oiled surface for the freezer air to work on. What eventually goes is the same thing — added vegetable oil oxidising to a stale, cardboardy flavour — plus freezer burn, which here shows as pale dry patches on the outside of a patty, crumbly under a fork. Reseal tightly with the air pressed out, and store them away from the door, where the temperature swings each time it opens.",
+  "thawing": "Most of these are designed to be cooked from frozen, which is both quickest and best: a thawed patty is soft and tends to break up when you turn it. If you must thaw, do it in the fridge, never on the counter. A pack thawed in the fridge and still at or below 4 °C (40 °F) may be refrozen with some quality loss; anything thawed warm may not be refrozen at all.",
   "spoilage": [
    "A stale, cardboardy or painty smell from the oil — the usual failure mode.",
    "Dry, pale, crumbly patches — freezer burn.",
@@ -48,11 +48,11 @@
    "大豆蛋白製品",
    "素排"
   ],
-  "summary": "冷凍大豆素肉在 −18 °C 下自購買日起可保有最佳品質 12～18 個月。請保持冷凍並依指示烹調。煮熟之後放 4 °C 以下冷藏 3～4 天。",
-  "pantry": "沒有室溫保存這一項。「植物做的」完全不會改變它在溫暖廚房裡的行為：它同樣含水量高、低酸、高蛋白，細菌長起來和肉一樣順利。任何擺在外面的都在 4～60 °C 的危險溫度帶裡，適用兩小時原則，廚房超過 32 °C 時只有一小時。要煮多少拿多少，拿完馬上把袋子封回去。",
-  "fridge": "煮熟之後蓋好放 4 °C 以下 3～4 天，這個數字描述的正是這個狀態。已經解凍但還沒煮的那包請在一天左右內用掉，密封好放在下層。回熱要熱到中心冒熱氣，不要只是溫溫的；把植物素排「溫一下」和把肉排溫一下是同一個錯誤。",
-  "freezer": "−18 °C 下自購買日起 12～18 個月品質最好。全程維持在 −18 °C 就一直是安全的——這個期限講的是品質，不是安全。真正出問題的是添加的植物油氧化，會讓放過頭的那包吃起來走味、有紙板味；再加上凍燒把表面弄成乾白、一碰就碎的斑塊。每次用完都壓出空氣、確實封緊，並遠離冷凍櫃門。",
-  "thawing": "多數產品可以從冷凍直接煮，那也最快、最好。真的需要解凍就放冷藏，絕對不要放檯面。在冷藏解凍、且維持在 4 °C 以下的可以再冷凍，只是品質打折；回溫過的絕對不行。",
+  "summary": "冷凍大豆素肉——素漢堡排、素排、素肉條、素塊——在 −18 °C 下自購買日起品質最好的期間是 12～18 個月。那是冷凍素絞肉的十倍，差別在於它們是成形的實心塊，相對於體積的外表面很小，而且廠商通常已經一片片隔開並密封好。請保持冷凍並依指示烹調；煮熟之後放 4 °C 以下冷藏 3～4 天。",
+  "pantry": "沒有。植物做的這件事不會改變它在溫暖廚房裡的行為——含水量高、低酸、高蛋白，細菌長在上面和長在牛肉排上沒有兩樣。在 4～60 °C 的危險溫度帶適用兩小時原則，超過 32 °C 時只有一小時。實務上的版本是：要煎幾片就拿幾片，把袋子封好放回去，然後才去做別的事。一盒素排開著擺在檯面上等鍋熱，正是讓一個長效產品局部解凍又再凍回去、口感從此毀掉的方式。",
+  "fridge": "煮熟、蓋好，放 4 °C 以下 3～4 天——那個數字指的是這個狀態。已經解凍但沒煮的那包請密封、放下層，一天左右用掉。回熱一定要熱到冒蒸氣，不要停在溫溫的；植物素排不會像肉那樣用顏色告訴你熟了沒有，它煮前煮後從裡到外都是同一個顏色，所以唯一值得相信的就是溫度。",
+  "freezer": "−18 °C 下自購買日起 12～18 個月品質最好，只要中途沒有回溫，安全性就沒有期限。成形的素排或素塊外面有一層裹粉或壓製過的光滑表面，相對於重量的面積很小，這正是它比素絞肉耐放這麼多的原因：能讓冷凍庫空氣下手的含油表面少得多。最後壞掉的原因還是同一個——添加的植物油氧化，變成走味的紙板感——再加上凍燒，在素排上表現為外側一塊塊乾白的斑，叉子一壓就散。每次都要壓出空氣封緊，並且放在遠離冷凍櫃門的位置，門邊每開一次溫度就晃一次。",
+  "thawing": "這類產品多半就是設計成從冷凍直接煮的，那也最快最好：解凍過的素排很軟，翻面時容易散掉。真的要解凍就放冷藏，絕對不要放檯面。在冷藏解凍、且一直維持在 4 °C 以下的可以再冷凍，只是品質打折；已經回溫的完全不能再冷凍。",
   "spoilage": [
    "油脂發出走味、紙板味或油漆味——最常見的結局。",
    "出現乾燥、發白、一碰就碎的斑塊——那是凍燒。",

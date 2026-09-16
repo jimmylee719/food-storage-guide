@@ -8,11 +8,11 @@
    "嬰兒蔬菜泥",
    "寶寶菜泥"
   ],
-  "summary": "Unopened vegetable purée should be discarded after the use-by date on the jar or pouch. Once opened, it keeps 2 days in the fridge at 4 °C (40 °F) or below — and only if it has never been fed from directly with a used spoon.",
-  "pantry": "An unopened jar or pouch is commercially processed and shelf-stable to its use-by date; after that date, discard it rather than judging it by eye. No general pantry figure is given here, because the date on the container is the manufacturer's own statement about their own product. Keep it cool and dark, and check every jar before opening: if the vacuum button clicks when pressed, or a pouch is swollen, leaking or damaged, it goes in the bin unopened.",
-  "fridge": "2 days at 4 °C (40 °F) or below once opened, covered. Vegetable purées are low-acid, which is why they get a shorter window than fruit — there is no acidity holding bacteria back. The rule that matters more than the number is the spoon: never feed straight from the jar or pouch with a spoon that has been in the baby's mouth, because saliva carries bacteria and enzymes into the remainder, which then cannot be kept at all. Spoon a portion into a bowl, feed from the bowl, and throw away what is left in the bowl after the feed.",
-  "freezer": "Commercial jars separate when frozen and thawed, which is unappetising rather than unsafe. Freezing your own vegetable purées in an ice cube tray and bagging the cubes once solid works well: freeze them the day you make them and label the bag with the date. Never refreeze a portion that has been thawed, warmed or fed from.",
-  "thawing": "Thaw a frozen home-made portion in the fridge, never on the counter, and warm it once. Stir thoroughly and test on your wrist, because warmed purée forms hot spots that will scald a baby's mouth.",
+  "summary": "Baby vegetable purée — carrot, sweet potato, pea, squash, green bean — is a low-acid food with nothing in it to slow bacteria down. Opened and covered, it keeps 2 days in the fridge at 4 °C (40 °F) or below, a day less than fruit, and only if it has never been fed from directly with a used spoon. Unopened, go by the use-by date on the jar or pouch and discard it after that.",
+  "pantry": "The sealed container is safe on the shelf to its printed date because it was heat-processed hard enough to handle a low-acid food, and that same processing is why you cannot judge one by eye afterwards. Keep jars and pouches somewhere cool and dark, standing upright, and check the pack rather than the purée: a lid button that clicks under your thumb, a bulging or leaking pouch, or a seal that hisses when it should pop, and the container goes in the bin unopened. For the opened product there is no room-temperature figure at all.",
+  "fridge": "Two days at 4 °C (40 °F) or below, lid on. Vegetable purée is the harder one to read, because it does not brown the way fruit does and does not smell strongly when it turns — a sour or yeasty note is often the only warning, and a starchy purée such as sweet potato or squash simply goes gluey. If you make your own, keep nitrate-rich vegetables in mind: spinach, carrot and beetroot purées should not be held warm or reheated over and over, because nitrate converts to nitrite on standing and infants are the group that matters for. Never dip a spoon that has been in the baby's mouth back into the container; the remainder cannot be saved after that. Serve from a bowl and discard what is left in it.",
+  "freezer": "Vegetable purée is the best of these to batch-freeze. Cook it, blend it, cool it fast and freeze it the same day in an ice cube tray, then tip the frozen cubes into a labelled bag so you can take out one or two at a time. Commercial jars, by contrast, separate on thawing and are not worth the trouble. Anything already thawed, warmed or eaten from is not refrozen.",
+  "thawing": "Thaw a cube in the fridge rather than on the counter, and warm it through once. Microwaved purée heats in pockets, so stir it properly and test a little on the inside of your wrist before it goes near the baby.",
   "spoilage": [
    "A vacuum button that clicks when pressed — discard the jar without opening it.",
    "A swollen or leaking pouch, or any hissing or spurting when opened.",
@@ -48,11 +48,11 @@
    "蔬菜泥罐",
    "vegetable purée"
   ],
-  "summary": "未開封的嬰兒蔬菜泥，過了罐子或軟袋上的有效日期就該丟掉。開封後放 4 °C 以下冷藏可放 2 天——而且前提是從來沒有用餵過的湯匙直接從裡面挖。",
-  "pantry": "未開封的玻璃罐或軟袋經過商業加工，在有效日期之前屬於常溫商品；過了日期就丟，不要用眼睛判斷。這裡不給通用的常溫數字，因為容器上的日期就是製造商對自家產品的說法。請放陰涼避光處，而且每一罐開封前都要檢查：真空鈕按下去會響、軟袋鼓脹滲漏破損的，不要打開，直接丟掉。",
-  "fridge": "開封後蓋好放 4 °C 以下 2 天。蔬菜泥屬於低酸食品，這就是它的期限比水果泥短的原因——沒有酸度可以壓住細菌。比數字更重要的是湯匙這條規則：絕對不要用進過寶寶嘴巴的湯匙，直接從罐子或軟袋裡餵，因為口水會把細菌和酵素帶進剩下的部分，那一份就完全不能再留。請舀一份到碗裡、從碗裡餵，餵完碗裡剩下的丟掉。",
-  "freezer": "市售罐裝冷凍再解凍會分離，那是難吃而不是不安全。自己打的菜泥很適合用製冰盒冷凍、凍硬後裝袋：打好的當天就凍，袋上貼好日期。已經解凍、加熱或餵過的那一份，絕對不要再冷凍。",
-  "thawing": "自製的冷凍份量請放冷藏解凍，絕對不要放檯面，而且只加熱一次。餵之前確實攪拌並滴在手腕內側試溫，因為加熱過的泥會有局部過燙的熱點，會燙傷寶寶的嘴。",
+  "summary": "嬰兒蔬菜泥——紅蘿蔔、地瓜、豌豆、南瓜、四季豆——是低酸食品，裡面沒有任何東西可以拖慢細菌。開封後蓋好放 4 °C 以下冷藏 2 天，比水果泥少一天，而且前提是從來沒有用餵過的湯匙直接挖過。未開封的以罐子或軟袋上的有效日期為準，過期就丟。",
+  "pantry": "未開封的可以常溫放到標示日期，因為它經過足以處理低酸食品的高強度加熱；也正因為如此，開封前你沒辦法用眼睛判斷裡面好不好。玻璃罐和軟袋請立著收在陰涼避光的地方，要檢查的是包裝而不是泥本身：蓋子真空鈕按下去會彈、軟袋鼓脹或滲漏、該啵一聲卻變成嘶嘶漏氣，這一罐就不要開，直接丟。至於開封後的蔬菜泥，完全沒有室溫天數可言。",
+  "fridge": "蓋好放 4 °C 以下 2 天。蔬菜泥是比較難判讀的一種，因為它不像水果泥會褐變，壞掉時氣味也不明顯——常常只有一點點酸味或酵母味當警訊，而地瓜、南瓜這類澱粉多的泥，則是先變得黏糊。如果是自己做的，要記得硝酸鹽含量高的蔬菜：菠菜、紅蘿蔔、甜菜根打的泥不要長時間保溫、也不要反覆回熱，因為放著會讓硝酸鹽轉成亞硝酸鹽，而嬰兒正是最需要在意這件事的族群。進過寶寶嘴巴的湯匙絕對不要再放回容器，那之後剩下的就救不回來了。請從碗裡餵，碗裡剩的丟掉。",
+  "freezer": "蔬菜泥是這幾種裡最值得一次做一批冷凍起來的。煮好、打勻、快速降溫，當天就用製冰盒分格冷凍，凍硬後倒進貼了標籤的袋子，之後一次拿一兩塊就好。相對地，市售玻璃罐解凍後會分離，不值得費這個工。已經解凍、加熱或餵過的，不要再冷凍。",
+  "thawing": "凍塊請放冷藏解凍，不要放在檯面上，加熱一次就好。微波過的泥是一塊一塊熱的，請確實攪拌，再滴一點在手腕內側試溫，然後才給寶寶。",
   "spoilage": [
    "真空鈕按下去會響——不要打開，整罐丟掉。",
    "軟袋鼓脹或滲漏，或開封時嘶嘶作響、噴出來。",

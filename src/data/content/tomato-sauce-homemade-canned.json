@@ -8,11 +8,11 @@
    "preserved tomato sauce",
    "home-canned pasta sauce"
   ],
-  "summary": "This is tomato sauce made at home and preserved by canning in sealed jars, not a pan of sauce poured into a bottle. Properly processed and sealed, it keeps about 9–12 months in the cupboard. An opened jar is an ordinary refrigerated leftover.",
-  "pantry": "Sealed jars keep about 9–12 months in a cool, dark, dry cupboard. That figure assumes a tested recipe processed properly, and tomatoes are the classic case where that matters: modern tomato varieties sit close to the acidity threshold, which is why tested recipes call for added bottled lemon juice or citric acid in every jar. Do not skip it and do not add extra onion, pepper or garlic, which push the acidity the wrong way. Label every jar, store them without their screw bands so a failed seal shows itself, and check each lid is concave before use.",
-  "fridge": "Once a jar is opened, keep it at 4 °C (40 °F) or below and treat it as a cooked leftover — take out what you need with a clean spoon and reheat that, rather than warming the whole jar and returning it. A jar that failed to seal was never shelf-stable: refrigerate it immediately and use it quickly, or freeze it. The same applies to any batch you cooked but did not process.",
-  "freezer": "No freezer timeline is published for home-canned tomato sauce, but freezing is a sound alternative to canning for anyone without the equipment, and it removes the acidity question entirely. Cool the sauce, pack it into flat bags or rigid containers with headspace, and freeze at −18 °C (0 °F). Frozen food held at that temperature stays safe indefinitely; flavour and texture are what drift.",
-  "thawing": "Thaw frozen tomato sauce in the fridge overnight, or tip it straight from frozen into a covered pan over low heat. Bring it to a full boil before serving, and never thaw it on the counter.",
+  "summary": "This is tomato sauce made at home and preserved in sealed jars, not a pan of sauce poured into a bottle. One fact governs it: the tomatoes grown today are bred sweeter and less acidic, close enough to the safety threshold that every tested recipe adds acid to every jar. Processed and sealed correctly it keeps about 9–12 months in the cupboard, and an opened jar is an ordinary refrigerated leftover.",
+  "pantry": "About 9–12 months, cool, dark and dry, on the assumption that you used a tested recipe and added the acid it calls for — bottled lemon juice or citric acid, measured into each jar rather than judged by taste. Bottled juice is specified because its acidity is standardised and a fresh lemon's is not; if the result tastes sharp, balance it with sugar, which does not undo the acid. Two further rules follow from the same chemistry. Use sound ripe fruit only: tomatoes that are overripe, bruised or taken off a frost-killed vine have drifted upwards in pH and do not belong in a jar. And the moment you add meat, or a serious quantity of onion, pepper or mushroom, you no longer have an acid food — that is a low-acid product and it needs a pressure canner, not a boiling-water bath. Date the jars and store them with the bands off.",
+  "fridge": "Once opened, a jar goes to 4 °C (40 °F) or below and is treated as cooked leftovers. Spoon out what you need and reheat that, rather than warming the whole jar and putting it back; every trip through the warm shortens what is left. A jar that failed to seal was never shelf-stable — into the fridge at once, used quickly or frozen — and the same holds for a batch you cooked but did not process. Look the jar over before you open it, too: a lid that has risen, liquid that has seeped past the seal, or contents that spurt as the vacuum breaks all mean the jar goes in the bin unopened and untasted.",
+  "freezer": "No freezer figure is published for home-canned tomato sauce, so none is given. For anyone without a pressure canner, freezing is the straightforward answer and it removes the acidity question altogether — which is exactly why a sauce with meat, mushrooms or a lot of onion in it belongs in a freezer rather than on a shelf. Cool it quickly, fill flat bags or rigid tubs leaving headspace for expansion, and freeze at −18 °C (0 °F), where it stays safe indefinitely. Tomato sauce stains plastic permanently, so use glass, or accept that those tubs are orange now.",
+  "thawing": "Overnight in the fridge, or straight from frozen into a covered pan over a low heat, stirred as it loosens. Bring it to a full boil before it goes on a plate. Never thaw it on the counter.",
   "spoilage": [
    "A lid that has lost its seal, flexes, or pops when pressed",
    "Spurting liquid, fizzing or pressure when the jar is opened",
@@ -52,11 +52,11 @@
    "手作番茄紅醬",
    "自製封罐紅醬"
   ],
-  "summary": "這裡指的是在家做好、以裝罐密封方式保存的番茄醬汁，不是煮好後隨手倒進瓶子的醬。處理與密封得當的話，放在櫥櫃裡大約 9～12 個月。開封後的罐子就是一般的冷藏剩食。",
-  "pantry": "密封完好的罐子放在陰涼、避光、乾燥的櫥櫃，大約 9～12 個月。這個數字的前提是依經驗證的配方正確殺菌處理，而番茄正是最典型必須講究的例子：現代番茄品種的酸度很接近安全門檻，這就是為什麼經驗證的配方會要求每一罐都加入瓶裝檸檬汁或檸檬酸。不要省略，也不要多加洋蔥、辣椒或大蒜，那會把酸度推往錯誤的方向。每罐標日期，存放時拆掉外圈螺蓋以便發現密封失敗，使用前確認蓋子仍然凹陷。",
-  "fridge": "開罐後請放 4 °C 以下，並把它當成熟食剩菜——用乾淨的湯匙取出要用的份量加熱，不要整罐加熱後再放回去。密封失敗的罐子從來就不是常溫保存品：請立刻冷藏並盡快用完，或改成冷凍。煮好但沒有做殺菌處理的那一批也一樣。",
-  "freezer": "自製封罐番茄醬汁沒有公布冷凍期限，但對沒有裝罐設備的人來說，冷凍是穩妥的替代方案，而且完全免除酸度的問題。醬放涼後裝進平放的密封袋或留膨脹空間的硬質容器，放 −18 °C。食物在這個溫度下安全性可以無限期維持；會變的是風味和質地。",
-  "thawing": "冷凍番茄醬汁請放冷藏隔夜解凍，或直接蓋鍋小火從冷凍加熱。上桌前要煮到大滾，也絕對不要放室溫解凍。",
+  "summary": "這裡指的是在家做好、以裝罐密封保存的番茄醬汁，不是煮好倒進瓶子的醬。決定一切的事實只有一件：現在栽培的番茄是往甜、往低酸的方向育種的，酸度已經接近安全門檻，所以每一份經驗證的配方，都會要求在每一罐裡加酸。處理與密封得當的話，放在櫥櫃裡大約 9～12 個月；開封後的罐子就是一般的冷藏剩食。",
+  "pantry": "陰涼、避光、乾燥，大約 9～12 個月，前提是你用了經驗證的配方，並加進它指定的酸——瓶裝檸檬汁或檸檬酸，一罐一罐量進去，而不是靠嘗味道決定。之所以指定瓶裝，是因為它的酸度是標準化的，一顆新鮮檸檬則不是；如果覺得成品太酸，用糖去平衡味道，那不會抵銷酸度。同一套化學還衍生出兩條規則。只用完好、成熟的果實：過熟、碰傷，或是從被霜打死的藤上摘下來的番茄，酸鹼值已經往上漂了，不該進罐子。還有，一旦你加進肉，或加進大量洋蔥、辣椒、菇類，它就不再是酸性食品——那是低酸食品，需要的是壓力鍋殺菌，不是滾水浴。每罐標日期，存放時拆掉外圈螺蓋。",
+  "fridge": "開罐後放 4 °C 以下，當成熟食剩菜處理。舀出需要的份量加熱，不要整罐熱過再放回去；每多走一趟溫熱，剩下能放的就少一截。密封失敗的罐子從來就不是常溫保存品——立刻冷藏、盡快用完，或改成冷凍——煮好但沒做殺菌處理的那一批也一樣。開之前也把罐子看一遍：蓋子鼓起、有液體從封口滲出來，或一破真空就往外噴，都代表整罐丟掉，不要開、也不要嘗。",
+  "freezer": "自製封罐番茄醬汁沒有公布的冷凍期限，所以這裡不給。對沒有壓力鍋殺菌設備的人來說，冷凍是最直接的答案，而且完全免除酸度的問題——加了肉、菇類或大量洋蔥的醬汁，本來就該進冷凍庫而不是上層架。快速放涼後裝進平放的密封袋或留了膨脹空間的硬盒，放 −18 °C，安全性可以無限期維持。番茄醬汁會把塑膠染色而且洗不掉，所以請用玻璃，或者接受那些保鮮盒從此是橘色的。",
+  "thawing": "放冷藏隔夜解凍，或蓋著鍋蓋、小火直接從冷凍加熱，邊化邊攪。上桌前要煮到大滾。絕對不要放室溫解凍。",
   "spoilage": [
    "蓋子失去真空、按下去會彈動或彈起",
    "開罐時液體噴出、冒氣或有壓力",

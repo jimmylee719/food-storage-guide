@@ -3,11 +3,11 @@
   "en": {
     "name": "Pears",
     "aliases": ["Bartlett", "Williams pear", "Anjou", "Comice"],
-    "summary": "Pears are one of the few fruits that ripen better off the tree than on it, which is why they are always sold hard. There is no fixed counter timeline — leave them out until ripe, then 1 to 2 days — after which they keep 3 to 5 days in the fridge, and sliced fruit freezes for 2 months.",
-    "pantry": "The rule here is a stage, not a number of days: leave pears at room temperature until they are ripe — tender, fully developed and ready to eat — then 1 to 2 days at most. The reliable test is the neck: press gently at the stem end, and if it yields, the pear is ready, while the belly is still firm. Do not wait for the whole fruit to soften, because by then the flesh nearest the core has gone brown and grainy.",
-    "fridge": "Refrigerate only once the pear is ripe, at 4 °C (40 °F) or below, where it keeps 3 to 5 days. The fridge is also a legitimate way to hold hard pears in suspension for a while, but they will not ripen there — take them out and let them warm up when you want them. Cut pear browns fast, so brush the surface with lemon juice and cover it.",
-    "freezer": "Sliced pears keep 2 months at −18 °C (0 °F), a figure that assumes the fruit is sliced and packed with lemon juice and sugar to prevent browning and mushiness. Peel, core, slice, toss with lemon and a little sugar and pack flat with the air pressed out. Frozen fruit stays safe indefinitely; the 2 months is a quality window, and the thawed slices are best cooked.",
-    "thawing": "Thaw in the fridge and use the slices cold, or cook them straight from frozen in tarts, crumbles and compotes. They will not hold their shape once fully thawed.",
+    "summary": "Pears are the one common fruit that ripens better off the tree than on it, which is why they are always sold hard — and they ripen from the inside outwards. That single fact governs everything: a pear can be brown and grainy at the core while the outside still feels firm under your thumb. There is no fixed counter timeline: leave them out until ripe, then 1 to 2 days, after which they keep 3 to 5 days in the fridge, and sliced fruit freezes for 2 months.",
+    "pantry": "A stage rather than a count of days. Hold pears at room temperature until they are ripe — tender, fully developed and ready to eat — then 1 to 2 days at most. The test that works is the neck, not the body: press gently with your thumb just beside the stem, and when that narrow part gives, the pear is ready while the belly is still firm. If you wait for the whole fruit to soften, the flesh around the core has already gone brown and gritty, and you only find out when you cut it. That is why a pear feels like a gamble in a way an apple never does — the ripe window is narrow and it happens where you cannot see it. Some winter varieties ripen more evenly after a spell in the cold, so a few days in the fridge before you bring them out is not wasted time.",
+    "fridge": "Once a pear is ripe, 3 to 5 days at 4 °C (40 °F) or below. Cold is also the proper way to hold hard pears in suspension: they will not ripen at fridge temperature, so keep them there and bring out only as many as you want that week. Unlike stone fruit, a hard pear takes no permanent damage from the cold. Cut pear browns within minutes, faster than apple, so brush the surfaces with lemon juice and cover them — and expect the skin around a bruise to darken into a sunken patch long after the knock that caused it.",
+    "freezer": "Sliced pears keep 2 months at −18 °C (0 °F), assuming they are packed with lemon juice and sugar to hold off browning and collapse. Peel them, because pear skin is gritty with stone cells and toughens in the freezer, then quarter, core, slice, toss and pack flat with the air pressed out. Choose fruit that is ripe but still firm: a soft pear freezes to a purée, and pears carry more water than most fruit, so an over-ripe one thaws into almost nothing. Safe indefinitely frozen; the 2 months is quality.",
+    "thawing": "Thaw in the fridge and use the slices cold, or cook them from frozen in tarts, crumbles and compotes. Fully thawed they will not hold a shape, which is exactly why poaching and baking are what frozen pear is for.",
     "spoilage": [
       "Brown, soft, wet bruises spreading from a knock",
       "Flesh brown and grainy around the core in a fruit left too long",
@@ -29,11 +29,11 @@
   "zh": {
     "name": "西洋梨",
     "aliases": ["洋梨", "巴梨", "啤梨", "康佛倫斯梨"],
-    "summary": "西洋梨是少數「離樹後才熟得更好」的水果，所以買到的一定是硬的。它的常溫沒有固定期限——放到熟為止，之後再放 1 到 2 天——熟了之後冷藏 3 到 5 天，切片冷凍 2 個月。",
-    "pantry": "這裡的規則是「一個階段」而不是天數：把西洋梨放在室溫直到熟為止，也就是變得柔軟、發育完全、可以入口，之後最多再放 1 到 2 天。可靠的判斷方法是看「頸部」：在靠近蒂頭的地方輕壓，會凹就是可以吃了，這時果腹還是硬的。不要等到整顆都變軟，那時候靠近果核的部分早就轉褐、變得沙沙的了。",
-    "fridge": "熟了才冷藏，放 4°C 以下可以放 3 到 5 天。用冰箱把硬梨「按下暫停」也是合理的做法，但它在冰箱裡不會熟——要吃的時候拿出來回溫就好。切開的梨很快會褐化，切面請刷檸檬汁並蓋好。",
-    "freezer": "切片的西洋梨在 −18°C 下可放 2 個月，這個數字的前提是切片後拌檸檬汁和糖以防止褐化與軟爛。去皮、去核、切片，拌檸檬汁和一點糖，平鋪裝袋擠出空氣。只要維持凍結就是安全的，2 個月是品質區間，而且解凍後的梨片比較適合入菜。",
-    "thawing": "放冷藏解凍後冰冰地用，或直接冷凍下鍋做塔、烤酥和糖煮。完全解凍之後就撐不住形狀了。",
+    "summary": "西洋梨是常見水果裡少數離樹後才熟得更好的，所以買到的一定是硬的——而且它是由內往外熟的。這一件事決定了一切：一顆梨可能核心已經褐化、口感沙沙的，外面用拇指壓起來卻還是硬的。常溫沒有固定天數：放到熟為止，之後再放 1 到 2 天；熟了冷藏 3 到 5 天，切片冷凍 2 個月。",
+    "pantry": "這是一個階段，不是天數。把西洋梨放在室溫直到熟——柔軟、發育完全、可以入口——之後最多再放 1 到 2 天。真正有用的測試是頸部而不是果身：用拇指在蒂頭旁邊那一段細細的地方輕壓，那裡一凹就是可以吃了，這時果腹還是硬的。如果你等到整顆都變軟，靠近果核的部分早就轉褐、變得沙沙的，而你要切開才會發現。這就是為什麼西洋梨總讓人覺得像在賭——它可以吃的窗口很窄，而且發生在你看不到的地方。有些冬季品種先冷藏一段時間之後熟得比較均勻，所以拿出來催熟之前，在冰箱待幾天並不是浪費。",
+    "fridge": "熟了之後，4°C 以下 3 到 5 天。低溫也是讓硬梨按下暫停的正確做法：它在冷藏溫度下不會熟，所以就放著，這一週想吃幾顆再拿幾顆出來。和核果不同，硬的西洋梨不會因為低溫而受到不可逆的傷害。切開的梨幾分鐘內就褐化，比蘋果還快，所以切面要刷檸檬汁並蓋好；另外碰傷處的果皮往往在撞到之後很久，才慢慢變深、凹下去。",
+    "freezer": "切片的西洋梨在 −18°C 下可放 2 個月，前提是拌上檸檬汁和糖來擋住褐化與軟爛。請去皮，因為梨皮帶著石細胞、口感粗，冷凍後還會變韌；接著切四瓣、去核、切片、拌勻，平鋪裝袋擠出空氣。要挑熟了但仍然結實的果實：軟掉的梨凍出來就是果泥，而且梨的含水量比多數水果高，過熟的解凍後幾乎什麼都不剩。維持凍結就是安全的，2 個月講的是品質。",
+    "thawing": "放冷藏解凍後冰冰地用，或直接冷凍下鍋做塔、烤酥和糖煮。完全解凍之後它撐不住形狀，而這正是冷凍梨最適合拿去糖煮和烘烤的原因。",
     "spoilage": [
       "從撞擊點擴散開來的褐色、軟塌、濕潤的傷痕",
       "放太久的果實，靠近果核處果肉轉褐且沙沙的",

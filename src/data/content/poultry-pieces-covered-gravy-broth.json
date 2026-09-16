@@ -3,11 +3,11 @@
   "en": {
     "name": "Poultry pieces in gravy or broth",
     "aliases": ["chicken in gravy", "poultry in broth", "chicken casserole", "stewed chicken pieces"],
-    "summary": "Cooked poultry pieces held in gravy or broth — the leftovers of a roast, a casserole or a stew — keep 3–4 days in the fridge at 4 °C (40 °F) or below, and 1–2 months in the freezer at −18 °C (0 °F). The liquid keeps the meat moist but does not extend how long it is safe.",
-    "pantry": "A pot of chicken in gravy left on the stove is one of the classic food-safety mistakes. The liquid holds heat and cools slowly, so the food lingers in the danger zone between 4 °C and 60 °C (40 °F and 140 °F) for hours. Refrigerate within 2 hours of cooking — 1 hour above 32 °C (90 °F) — dividing it into shallow containers so it cools fast.",
-    "fridge": "Cool the pieces and their liquid quickly, then store together in a covered container at 4 °C (40 °F) or below for 3–4 days. Keeping the meat submerged in the gravy stops it drying out and picking up fridge odours. Reheat only the portion you plan to eat; repeated heating and cooling of the whole pot shortens its safe life.",
-    "freezer": "Freeze the meat in its gravy — the liquid protects it from freezer burn far better than dry storage. Portion into meal-sized containers or bags, leave headspace for expansion, and freeze at −18 °C (0 °F): safe indefinitely, best quality for 1–2 months, which is shorter than plain frozen chicken because sauces separate and lose texture.",
-    "thawing": "Thaw in the fridge overnight, or reheat gently from frozen in a pan or oven with a splash of extra liquid. Bring it to a full simmer and check it reaches 74 °C (165 °F) throughout. Do not thaw at room temperature, and do not refreeze once it has been reheated.",
+    "summary": "Cooked poultry held in gravy or broth — what is left of a roast chicken, a casserole, a stew — keeps 3–4 days in the fridge at 4 °C (40 °F) or below, and 1–2 months in the freezer at −18 °C (0 °F). That freezer window is a fraction of what the same dish made with beef gets, and poultry fat is the reason.",
+    "pantry": "None, and the danger here is not the one people expect. The Salmonella and Campylobacter that make raw chicken risky were killed when it was cooked; what threatens the leftovers is whatever lands on them afterwards, and whatever was already surviving in spore form inside the pot. Both need the same thing: hours spent between 4 and 60 °C (40 and 140 °F) while a deep dish of stew cools on the side. Refrigerate within 2 hours of cooking, or within 1 hour above 32 °C (90 °F), and split it into shallow dishes so it gets cold in minutes rather than hours.",
+    "fridge": "3–4 days at 4 °C (40 °F) or below, in a covered container with the pieces under the liquid so they stay moist. Two things are particular to poultry. The skin does not survive this: it goes soft and flabby in gravy, so strip it off before storing if you want anything crisp later. And the meat next to the bone often looks pink even when the dish has been thoroughly cooked and reheated — that is pigment from the marrow, common in young birds, not undercooking. Reheat single portions rather than putting the whole dish through another heating and cooling cycle.",
+    "freezer": "Safe indefinitely at −18 °C (0 °F), best quality for 1–2 months. The gravy protects the meat from freezer burn far better than dry wrapping ever could, so what runs out is not moisture but flavour: poultry fat is markedly more unsaturated than beef or pork fat, so it oxidises faster even in a freezer, and cooked chicken takes on a flat, stale, cardboard taste well before anything else goes wrong. Sauces thickened with flour or cornflour also weep and turn grainy on thawing. Freeze in meal-sized portions with headspace, and use the older bags first.",
+    "thawing": "Overnight in the fridge, or from frozen in a covered pan or low oven with extra stock added, stirring as the block loosens. Take it to a full simmer and confirm 74 °C (165 °F) throughout, including the thickest piece. Never thaw it at room temperature, and do not refreeze it after reheating.",
     "spoilage": [
       "Sour, yeasty or fermented smell when the container is opened",
       "Bubbles, foam or a fizzing sound in the cold gravy — signs of fermentation",
@@ -29,11 +29,11 @@
   "zh": {
     "name": "浸在肉汁或高湯裡的雞鴨肉",
     "aliases": ["燉雞肉", "肉汁雞肉", "高湯浸雞", "雞肉燴菜"],
-    "summary": "浸在肉汁或高湯裡的熟禽肉——像是烤雞、燉雞或砂鍋料理的剩菜——在 4°C 以下冷藏可放 3～4 天；放 −18°C 冷凍可放 1～2 個月。湯汁能讓肉保持濕潤，但不會延長安全期限。",
-    "pantry": "一鍋泡在肉汁裡的雞肉留在爐子上，是最典型的食安錯誤之一。湯汁保溫、降溫慢，食物會在 4～60°C 的危險溫度帶停留好幾個小時。請在煮好後 2 小時內冷藏（氣溫超過 32°C 時 1 小時），並分裝到淺容器加速降溫。",
-    "fridge": "把肉和湯汁一起快速降溫，之後裝在有蓋容器裡放 4°C 以下冷藏 3～4 天。讓肉浸在肉汁裡可以避免乾掉和吸附冰箱異味。每次只加熱要吃的份量；整鍋反覆加熱又放涼，會縮短安全期限。",
-    "freezer": "連湯汁一起冷凍——湯汁防止凍燒的效果比乾式保存好得多。分裝成每餐份量的容器或袋子，預留膨脹空間，放 −18°C 冷凍：安全上可以無限期保存，品質以 1～2 個月為佳，比單純冷凍雞肉短，因為醬汁會分離、口感變差。",
-    "thawing": "放冷藏室解凍一晚，或直接把冷凍的放進鍋子或烤箱，加一點液體慢慢加熱。要煮到完全滾起來、中心達到 74°C。不要在室溫解凍，加熱過的也不要再冷凍。",
+    "summary": "浸在肉汁或高湯裡的熟禽肉——吃剩的烤雞、燉雞、砂鍋料理——在 4°C 以下冷藏可放 3～4 天；放 −18°C 冷凍 1～2 個月。這個冷凍期限只有同一道菜用牛肉做的一小部分，而原因出在禽類的脂肪。",
+    "pantry": "沒有，而且這裡的危險和大家想的不一樣。讓生雞肉危險的沙門氏菌和曲狀桿菌，在煮熟那一刻就被殺死了；威脅剩菜的是煮好之後才落上去的東西，以及本來就以芽孢形式熬過烹煮、留在鍋裡的那些。兩者要的條件相同：一鍋深深的燉菜擱在旁邊慢慢涼，在 4 到 60°C 之間耗掉好幾個小時。請在煮好後 2 小時內冷藏，氣溫超過 32°C 時 1 小時，並分裝到淺盤，讓它用分鐘而不是小時降溫。",
+    "fridge": "4°C 以下 3～4 天，裝有蓋容器，肉要壓在湯汁底下才不會乾。關於禽肉有兩件事特別要知道。第一，皮撐不過這一關：泡在肉汁裡會變得又軟又爛，所以之後還想要脆皮的話，收之前就把皮拿掉。第二，貼著骨頭的肉即使徹底煮熟、也復熱過，常常還是粉紅色——那是幼禽骨髓的色素，不是沒熟。回熱請一份一份來，不要讓整鍋再走一次加熱又放涼的循環。",
+    "freezer": "在 −18°C 下安全性可以無限期維持，品質則是 1～2 個月。肉汁防凍燒的效果遠比任何乾式包裝都好，所以先用完的不是水分而是風味：禽類脂肪的不飽和程度明顯高於牛油和豬油，即使在冷凍庫裡也氧化得比較快，熟雞肉會在其他問題出現之前，就先帶上一股扁平陳舊的紙板味。用麵粉或玉米粉勾芡的醬汁解凍後也會出水、變粗。請按一餐的份量分裝、留膨脹空間，並且先吃舊的那一袋。",
+    "thawing": "放冷藏解凍一晚，或蓋著鍋蓋、加一點高湯，從冷凍以小火或低溫烤箱慢慢加熱，邊化邊攪。要煮到完全滾起來，並確認包含最厚的那一塊在內，中心都達到 74°C。絕對不要在室溫解凍，回熱過的也不要再冷凍。",
     "spoilage": [
       "打開容器聞到酸味、酵母味或發酵味",
       "冷的肉汁裡有氣泡、泡沫或嘶嘶聲——發酵的跡象",

@@ -3,11 +3,11 @@
   "en": {
     "name": "Nectarines",
     "aliases": ["nectarine", "smooth-skinned peach", "nectarina", "fuzzless peach"],
-    "summary": "A nectarine is a peach without the fuzz, and it behaves the same way: bought firm, it ripens on the counter and only then goes in the fridge. There is no fixed counter timeline — leave it out until ripe, then 1 to 2 days — after which it keeps 3 to 5 days refrigerated, and sliced fruit freezes for 2 months.",
-    "pantry": "The counter rule here is a stage, not a number of days: leave nectarines out until they are ripe, which means tender, fully developed and ready to eat, and then a further 1 to 2 days at most. A ripe nectarine smells sweet at the stem end and gives to gentle pressure along the shoulders, not at the tip. Stand them stem-end down in a single layer so the shoulders do not bruise, and speed things up with a paper bag if you need to.",
-    "fridge": "Refrigerate only once the fruit is ripe, at 4 °C (40 °F) or below, where it keeps 3 to 5 days. Chilling a hard nectarine causes internal breakdown: the flesh turns dry, mealy and woolly rather than juicy, and no amount of counter time afterwards recovers it. Bring a refrigerated nectarine back to room temperature for half an hour before eating for the full aroma.",
-    "freezer": "Sliced nectarines keep 2 months at −18 °C (0 °F), and that figure assumes the fruit is sliced and packed with lemon juice and sugar, which is what stops it browning and going mushy. Halve, stone and slice the fruit, toss it with lemon juice and a little sugar, and pack it flat in bags or tubs with the air pressed out. Frozen fruit stays safe indefinitely; the 2 months is a quality window.",
-    "thawing": "Thaw in the fridge and use the fruit while it still has some chill, because it goes soft as it warms. For crumbles, pies and compotes, cook it straight from frozen.",
+    "summary": "A nectarine is a peach that lacks the gene for fuzz — same species, same ripening behaviour, but with a smooth, thin, highly coloured skin. That skin is the whole difference in storage: nothing cushions it, so a nectarine records every knock. There is no fixed counter timeline: leave it out until ripe, then 1 to 2 days, after which it keeps 3 to 5 days refrigerated, and sliced fruit freezes for 2 months.",
+    "pantry": "Room temperature is a stage here rather than a number of days: hold nectarines out until they are ripe — tender, fully developed and ready to eat — then use them inside 1 to 2 days. Test by pressing the shoulders rather than the pointed end, and by the sweet smell at the stem. Because there is no fuzz and the skin is thin, two things follow. Bruises show as dark sunken patches within hours instead of hiding under a nap of fur, so handle them by the sides and lay them stem-down in a single layer. And the fruit loses water through its skin faster than a peach does, so a nectarine left out too long shrivels and wrinkles at the stem rather than merely going soft. Split skin near the stalk is common in this fruit and lets everything in — eat those first.",
+    "fridge": "Only refrigerate a ripe nectarine: 3 to 5 days at 4 °C (40 °F) or below. Chilling a hard one causes irreversible internal breakdown — dry, mealy, woolly flesh that never recovers on the counter. The thin skin also means a nectarine dries out in a fridge more readily than a peach, so keep it in the crisper where the humidity is higher, and unwrapped, so it is not sitting in its own condensation. Half an hour out of the fridge before eating brings the aroma back.",
+    "freezer": "Sliced nectarines keep 2 months at −18 °C (0 °F), assuming they are sliced and packed with lemon juice and sugar, which is what prevents browning and a mushy thaw. The advantage over peaches is that there is no reason to peel: nectarine skin is thin, freezes without toughening and holds the colour in the finished dish. Cut round the stone, twist the halves apart, slice, toss with lemon and a little sugar, and freeze flat with the air pressed out. The fruit stays safe indefinitely; the 2 months is about quality.",
+    "thawing": "Thaw in the fridge and use the slices while they still have a chill on them; warm, they go limp. For crumbles, pies and compotes, cook them straight from frozen.",
     "spoilage": [
       "Brown, soft, sunken bruises that weep when pressed",
       "Wrinkled skin over dry, mealy flesh, usually from chilling too early",
@@ -29,11 +29,11 @@
   "zh": {
     "name": "油桃",
     "aliases": ["甜桃", "光桃", "無毛水蜜桃", "nectarine"],
-    "summary": "油桃就是沒有絨毛的桃子，行為模式也一樣：買回來是硬的，要在室溫催熟，熟了才能進冰箱。它的常溫沒有固定期限——放到熟為止，之後再放 1 到 2 天——熟了之後冷藏 3 到 5 天，切片冷凍則是 2 個月。",
-    "pantry": "這裡的室溫規則是「一個階段」而不是天數：把油桃放到熟為止，也就是變得柔軟、發育完全、可以入口，之後最多再放 1 到 2 天。熟的油桃蒂頭端聞得到甜香，而且是「肩膀」的部位輕壓會凹，不是尖端。請蒂頭朝下單層擺放，肩部才不會壓傷；需要加速的話用紙袋悶著。",
-    "fridge": "熟了才冷藏，放 4°C 以下可以放 3 到 5 天。硬的油桃冰起來會造成內部劣變：果肉不但不多汁，還會變乾、變粉、口感像棉絮，而且事後再放室溫多久都救不回來。冰過的油桃吃之前先回溫半小時，香氣才會完整。",
-    "freezer": "切片的油桃在 −18°C 下可放 2 個月，而這個數字的前提是切片後拌上檸檬汁和糖，正是那道手續讓它不會褐化、不會爛掉。把果實對半切、去核、切片，拌檸檬汁和一點糖，平鋪裝袋或裝盒並擠出空氣。只要維持凍結就是安全的，2 個月是品質區間。",
-    "thawing": "放冷藏解凍，趁還帶點冰涼時使用，因為回溫後會變軟。做烤酥、派和糖煮的話，直接冷凍下鍋。",
+    "summary": "油桃就是少了長絨毛那個基因的桃子——同一個物種、同樣的後熟行為，但果皮光滑、很薄、顏色濃。保存上的差別全在那層皮：沒有任何緩衝，所以油桃會把每一次碰撞都記下來。常溫沒有固定天數：放到熟為止，之後再放 1 到 2 天；熟了冷藏 3 到 5 天，切片冷凍 2 個月。",
+    "pantry": "這裡的室溫是一個階段而不是天數：把油桃放到熟——柔軟、發育完全、可以入口——然後在 1 到 2 天內吃完。判斷是輕壓肩部而不是尖端，再加上蒂頭端的甜香。因為沒有絨毛、皮又薄，衍生出兩件事。碰傷會在幾個小時內變成深色凹陷的斑，不像桃子還有一層絨毛可以藏，所以請托著側邊拿、蒂頭朝下單層擺放。另外它從果皮散失水分的速度比桃子快，所以放太久的油桃不是單純變軟，而是蒂頭附近開始皺縮。蒂頭旁邊裂皮在這種水果上很常見，一裂什麼都進得去，這幾顆要先吃。",
+    "fridge": "只有熟了的油桃才進冰箱：4°C 以下 3 到 5 天。硬的冰起來會造成不可逆的內部劣變——乾、粉、像棉絮的果肉，放回室溫也救不回來。薄皮同時也代表它在冰箱裡比桃子更容易失水變乾，所以請放濕度較高的蔬果室，而且不要包起來，免得泡在自己的凝結水裡。吃之前先出來半小時，香氣才回得來。",
+    "freezer": "切片的油桃在 −18°C 下可放 2 個月，前提是切片後拌檸檬汁和糖——那正是防止褐化和解凍後爛掉的關鍵。比起桃子，它的好處是完全不必去皮：油桃的皮薄，凍過也不會變韌，還能把顏色留在成品裡。沿著果核劃一圈、把兩半扭開、切片，拌檸檬汁和一點糖，平鋪冷凍並擠出空氣。只要維持凍結就是安全的，2 個月講的是品質。",
+    "thawing": "放冷藏解凍，趁還帶著涼意時使用；一回溫就軟趴趴。做烤酥、派和糖煮的話，直接冷凍下鍋。",
     "spoilage": [
       "出現褐色、軟塌、凹陷的撞傷，一壓就滲汁",
       "果皮皺縮、果肉乾而粉，通常是太早冷藏造成的",
