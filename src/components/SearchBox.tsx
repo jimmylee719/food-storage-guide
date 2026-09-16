@@ -56,7 +56,7 @@ export default function SearchBox({ locale, autoFocus }: Props) {
 
   function go(entry: SearchEntry) {
     setOpen(false);
-    router.push(`/${locale}/food/${entry.s}`);
+    router.push(`/${locale}/food/${encodeURIComponent(entry.s)}`);
   }
 
   function onKeyDown(e: React.KeyboardEvent<HTMLInputElement>) {
@@ -116,7 +116,7 @@ export default function SearchBox({ locale, autoFocus }: Props) {
                 role="option"
                 aria-selected={i === active}
                 data-active={i === active}
-                href={`/${locale}/food/${h.s}`}
+                href={`/${locale}/food/${encodeURIComponent(h.s)}`}
                 onClick={() => setOpen(false)}
                 onMouseEnter={() => setActive(i)}
               >

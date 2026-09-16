@@ -1,7 +1,7 @@
 import { Fragment, type ReactNode } from 'react';
 import Link from 'next/link';
 import type { Locale } from '@/lib/i18n';
-import { getFood, getGuide } from '@/lib/data';
+import { foodPath, getFood, getGuide } from '@/lib/data';
 
 /**
  * Minimal, dependency-free renderer for the restricted Markdown used in guide
@@ -25,7 +25,7 @@ function inline(text: string, locale: Locale, keyBase: string): ReactNode[] {
       const food = getFood(m[2]);
       const text = label || food?.names[locale];
       if (food) {
-        out.push(<Link key={`${keyBase}-${i}`} href={`/${locale}/food/${food.slug}`}>{text}</Link>);
+        out.push(<Link key={`${keyBase}-${i}`} href={foodPath(food, locale)}>{text}</Link>);
       } else if (text) {
         out.push(text);
       }

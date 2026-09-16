@@ -2,14 +2,28 @@ import type { Metadata } from 'next';
 import { HTML_LANG, LOCALES, type Locale } from './i18n';
 import { absoluteUrl } from './site';
 
-/** Builds canonical + hreflang alternates for a path that exists in every locale. */
-export function alternates(pathWithoutLocale: string, locale: Locale): Metadata['alternates'] {
-  const clean = pathWithoutLocale === '/' ? '' : pathWithoutLocale.replace(/\/$/, '');
+/**
+ * Canonical plus hreflang alternates.
+ *
+ * Most paths are identical in every locale. Food pages are not: the Chinese
+ * edition publishes 青花菜 where the English one publishes broccoli. Those pass
+ * a per-locale map, because an hreflang link that points at a URL which
+ * redirects is discarded, and the two editions would stop being connected.
+ */
+export function alternates(
+  pathWithoutLocale: string | Partial<Record<Locale, string>>,
+  locale: Locale,
+): Metadata['alternates'] {
+  const clean = (p: string) => (p === '/' ? '' : p.replace(/\/$/, ''));
+  const pathFor = (l: Locale) =>
+    typeof pathWithoutLocale === 'string'
+      ? clean(pathWithoutLocale)
+      : clean(pathWithoutLocale[l] ?? pathWithoutLocale.en ?? '');
   const languages: Record<string, string> = {};
-  for (const l of LOCALES) languages[HTML_LANG[l]] = absoluteUrl(`/${l}${clean}`);
-  languages['x-default'] = absoluteUrl(`/en${clean}`);
+  for (const l of LOCALES) languages[HTML_LANG[l]] = absoluteUrl(`/${l}${pathFor(l)}`);
+  languages['x-default'] = absoluteUrl(`/en${pathFor('en' as Locale)}`);
   return {
-    canonical: absoluteUrl(`/${locale}${clean}`),
+    canonical: absoluteUrl(`/${locale}${pathFor(locale)}`),
     languages,
   };
 }
@@ -17,7 +31,7 @@ export function alternates(pathWithoutLocale: string, locale: Locale): Metadata[
 type MetaInput = {
   title: string;
   description: string;
-  path: string;
+  path: string | Partial<Record<Locale, string>>;
   locale: Locale;
   type?: 'website' | 'article';
   publishedTime?: string;
@@ -26,7 +40,8 @@ type MetaInput = {
 };
 
 export function buildMetadata({ title, description, path, locale, type = 'website', modifiedTime, noIndex }: MetaInput): Metadata {
-  const url = absoluteUrl(`/${locale}${path === '/' ? '' : path}`);
+  const ownPath = typeof path === 'string' ? path : (path[locale] ?? path.en ?? '');
+  const url = absoluteUrl(`/${locale}${ownPath === '/' ? '' : ownPath}`);
   return {
     title,
     description,

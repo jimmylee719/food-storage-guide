@@ -111,13 +111,50 @@ function restsOnFoodKeeper(f, seen) {
 }
 for (const f of foods) f.usesFoodKeeper = restsOnFoodKeeper(f);
 
+// A URL the reader can read. /zh/food/broccoli tells a Chinese reader nothing;
+// /zh/food/青花菜 is the word they typed. The English slug never moves.
+//
+// Two foods whose Chinese names collide keep their English slugs. A collision
+// here is not a naming problem: it means the site is carrying the same food
+// twice, and minting 燈籠果-1 and 燈籠果-2 would bury that instead of surfacing
+// it.
+function localeSlugZh(name) {
+  return String(name || "")
+    .replace(/[（(]/g, "-")
+    .replace(/[）)]/g, "")
+    .replace(/[\s、，,。．·・\/／]+/g, "-")
+    .replace(/[「」『』【】《》〈〉"'!?！？:：;；%％#＃*＊+＋=＝@＠~～^&]/g, "")
+    .replace(/-+/g, "-")
+    .replace(/^-|-$/g, "")
+    .toLowerCase();
+}
+
+const zhSlugCounts = new Map();
+for (const f of foods) {
+  const z = localeSlugZh(f.names.zh);
+  if (z) zhSlugCounts.set(z, (zhSlugCounts.get(z) || 0) + 1);
+}
+let zhLocalised = 0;
+const zhCollisions = new Set();
+for (const f of foods) {
+  const z = localeSlugZh(f.names.zh);
+  const unique = Boolean(z) && zhSlugCounts.get(z) === 1;
+  if (z && !unique) zhCollisions.add(z);
+  f.slugs = { en: f.slug, zh: unique ? z : f.slug };
+  if (unique) zhLocalised++;
+}
+console.log(`zh slugs: ${zhLocalised} localised, ${foods.length - zhLocalised} kept English`);
+if (zhCollisions.size) {
+  console.log(`  name collisions (the same food carried twice?): ${[...zhCollisions].join(", ")}`);
+}
+
 foods.sort((a, b) => a.slug.localeCompare(b.slug));
 
 // ---- search indexes ----------------------------------------------------
 const searchIndex = {};
 for (const L of LOCALES) {
   searchIndex[L] = foods.map((f) => ({
-    s: f.slug,
+    s: f.slugs[L] || f.slug,
     n: f.names[L],
     c: f.category,
     p: f.hasPage ? 1 : 0,

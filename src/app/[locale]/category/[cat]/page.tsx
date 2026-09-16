@@ -5,7 +5,7 @@ import Breadcrumbs from '@/components/Breadcrumbs';
 import FoodTable from '@/components/FoodTable';
 import AdSlot from '@/components/AdSlot';
 import { CATEGORIES, LOCALES, type Category, type Locale, isLocale, t } from '@/lib/i18n';
-import { foodsInCategory } from '@/lib/data';
+import { foodPath, foodsInCategory } from '@/lib/data';
 import categoryNotes from '@/data/category-notes.json';
 import { buildMetadata, jsonLdScript } from '@/lib/seo';
 import { absoluteUrl } from '@/lib/site';
@@ -55,7 +55,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ local
       '@type': 'ListItem',
       position: i + 1,
       name: f.names[l],
-      url: absoluteUrl(`/${l}/food/${f.slug}`),
+      url: absoluteUrl(foodPath(f, l)),
     })),
   };
 
@@ -96,7 +96,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ local
           <div className="section-head"><h2>{d.detailPageCta}</h2></div>
           <div className="grid grid-cards">
             {detailed.slice(0, 24).map((f) => (
-              <Link key={f.slug} href={`/${l}/food/${f.slug}`} className="card">
+              <Link key={f.slug} href={foodPath(f, l)} className="card">
                 <h3>{f.names[l]}</h3>
                 <p>{f.content?.[l]?.summary?.slice(0, 90)}…</p>
               </Link>

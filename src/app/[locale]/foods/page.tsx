@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import SearchBox from '@/components/SearchBox';
 import { CATEGORIES, type Locale, isLocale, t } from '@/lib/i18n';
-import { categoryCounts, foods, foodsInCategory, headline } from '@/lib/data';
+import { categoryCounts, foodPath, foods, foodsInCategory, headline } from '@/lib/data';
 import { CATEGORY_ICON } from '@/lib/icons';
 import { buildMetadata } from '@/lib/seo';
 
@@ -61,7 +61,7 @@ export default async function FoodsPage({ params }: { params: Promise<{ locale: 
             <ul className="food-tiles" data-cat={c}>
               {items.map((f) => (
                 <li key={f.slug}>
-                  <Link href={`/${l}/food/${f.slug}`} className="food-tile">
+                  <Link href={foodPath(f, l)} className="food-tile">
                     <span className="food-tile-icon" aria-hidden="true">{CATEGORY_ICON[c]}</span>
                     <span className="food-tile-name">{f.names[l]}</span>
                     <span className="food-tile-time">{headline(f, 'fridge', l)}</span>

@@ -1,17 +1,46 @@
 import foodsRaw from '@/data/generated/foods.json';
 import guidesRaw from '@/data/generated/guides.json';
 import type { Food, Guide, Method, Span } from './types';
-import { type Locale, t } from './i18n';
+import { LOCALES, type Locale, t } from './i18n';
 import { localiseTip } from './tips';
 
 export const foods = foodsRaw as unknown as Food[];
 export const guides = guidesRaw as unknown as Guide[];
 
 const bySlug = new Map(foods.map((f) => [f.slug, f]));
+
+// Each locale resolves its own slugs, and every locale also resolves the
+// canonical English slug, so an older /zh/food/broccoli link still finds the
+// food and can be redirected rather than 404ing.
+const byLocaleSlug: Record<string, Map<string, Food>> = {};
+for (const l of LOCALES) {
+  const m = new Map<string, Food>();
+  for (const f of foods) {
+    m.set(f.slug, f);
+    const s = f.slugs?.[l];
+    if (s) m.set(s, f);
+  }
+  byLocaleSlug[l] = m;
+}
 const guideBySlug = new Map(guides.map((g) => [g.slug, g]));
 
 export function getFood(slug: string): Food | undefined {
   return bySlug.get(slug);
+}
+
+/** Resolves a slug as published in one locale, falling back to the English slug. */
+export function getFoodIn(slug: string, locale: Locale): Food | undefined {
+  return byLocaleSlug[locale]?.get(slug) ?? bySlug.get(slug);
+}
+
+/** The slug this food is published under in this locale. */
+export function foodSlug(food: Food, locale: Locale): string {
+  return food.slugs?.[locale] || food.slug;
+}
+
+/** The path to this food in this locale, ready for href. */
+export function foodPath(food: Food, locale: Locale): string {
+  return `/${locale}/food/${encodeURIComponent(foodSlug(food, locale))}`;
 }
 export function getGuide(slug: string): Guide | undefined {
   return guideBySlug.get(slug);

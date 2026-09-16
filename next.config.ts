@@ -2,6 +2,17 @@ import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
   reactStrictMode: true,
+  // Static generation runs single-threaded on purpose.
+  //
+  // With the default worker pool this build dies on Windows before it emits a
+  // single page — the worker process is killed outright, with a different
+  // native crash code each run (ACCESS_VIOLATION, STACK_BUFFER_OVERRUN,
+  // BREAKPOINT), which is what a crash below the JS layer looks like rather
+  // than a fault in the pages themselves. One worker builds all 2,248 pages.
+  //
+  // It costs build time and nothing else. Linux CI and Vercel are unaffected,
+  // so this can go as soon as the upstream issue does.
+  experimental: { cpus: 1 },
   poweredByHeader: false,
   trailingSlash: false,
   async redirects() {

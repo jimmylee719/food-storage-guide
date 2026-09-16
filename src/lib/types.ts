@@ -39,6 +39,12 @@ export type SourceRef = { name: string; url: string };
 
 export type Food = {
   slug: string;
+  /**
+   * The slug this food is published under in each locale. English never
+   * moves; Chinese uses the Chinese name so the URL is readable, except
+   * where two foods share a Chinese name.
+   */
+  slugs: Record<Locale, string>;
   category: string;
   source: string;
   sourceRefs: SourceRef[] | null;

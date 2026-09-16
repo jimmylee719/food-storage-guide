@@ -1,18 +1,22 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { notFound } from 'next/navigation';
+import { notFound, permanentRedirect } from 'next/navigation';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import StoragePanels from '@/components/StoragePanels';
 import Faq from '@/components/Faq';
 import AdSlot from '@/components/AdSlot';
 import { HTML_LANG, LOCALES, type Locale, isLocale, t } from '@/lib/i18n';
-import { allFoods, getFood, headline, relatedFoods, relatedGuides } from '@/lib/data';
+import { allFoods, foodPath, foodSlug, getFoodIn, headline, relatedFoods, relatedGuides } from '@/lib/data';
 import { buildMetadata, jsonLdScript } from '@/lib/seo';
 import { publisherGloss } from '@/lib/publishers';
 import { absoluteUrl } from '@/lib/site';
 
 export function generateStaticParams() {
-  return LOCALES.flatMap((locale) => allFoods().map((f) => ({ locale, slug: f.slug })));
+  // Only the slug each locale actually publishes. An older /zh/food/broccoli
+  // link is not prerendered: dynamicParams renders it on demand, where the page
+  // recognises the English slug and redirects. Prerendering 1,070 pages whose
+  // only job is to redirect costs a great deal of build for nothing.
+  return LOCALES.flatMap((locale) => allFoods().map((f) => ({ locale, slug: foodSlug(f, locale) })));
 }
 
 /**
@@ -32,7 +36,7 @@ function titleFor(locale: Locale, name: string): string {
 }
 
 /** The quick answer for a food whose article has not been written yet. */
-function autoSummaryFor(food: ReturnType<typeof getFood>, locale: Locale): string {
+function autoSummaryFor(food: ReturnType<typeof getFoodIn>, locale: Locale): string {
   const d = t(locale);
   const val = (k: 'pantry' | 'fridge' | 'freezer') => {
     const v = headline(food!, k, locale);
@@ -44,7 +48,7 @@ function autoSummaryFor(food: ReturnType<typeof getFood>, locale: Locale): strin
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }): Promise<Metadata> {
   const { locale, slug } = await params;
   if (!isLocale(locale)) return {};
-  const food = getFood(slug);
+  const food = getFoodIn(decodeURIComponent(slug), locale);
   if (!food) return {};
   const name = food.hasPage ? food.content![locale].name : food.names[locale];
   const description = food.hasPage
@@ -53,7 +57,9 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   return buildMetadata({
     title: titleFor(locale, name),
     description: description.slice(0, 155),
-    path: `/food/${slug}`,
+    // Each locale's own URL, so every hreflang link points at a live page
+    // instead of at a redirect, which search engines discard.
+    path: Object.fromEntries(LOCALES.map((l) => [l, `/food/${encodeURIComponent(foodSlug(food, l))}`])),
     locale,
     type: 'article',
   });
@@ -64,8 +70,12 @@ export default async function FoodPage({ params }: { params: Promise<{ locale: s
   if (!isLocale(locale)) notFound();
   const l = locale as Locale;
   const d = t(l);
-  const food = getFood(slug);
+  const decoded = decodeURIComponent(slug);
+  const food = getFoodIn(decoded, l);
   if (!food) notFound();
+  // Reached through the English slug on a locale that publishes its own: one
+  // page, one URL.
+  if (decoded !== foodSlug(food, l)) permanentRedirect(foodPath(food, l));
   // A food whose article is still unwritten renders from its storage data: the
   // numbers, their provenance, related foods and the relevant guides. That is a
   // real answer, which a row in a category table is not.
@@ -100,7 +110,7 @@ export default async function FoodPage({ params }: { params: Promise<{ locale: s
     headline: titleFor(l, name),
     description: summary,
     inLanguage: HTML_LANG[l],
-    mainEntityOfPage: absoluteUrl(`/${l}/food/${slug}`),
+    mainEntityOfPage: absoluteUrl(foodPath(food, l)),
     about: { '@type': 'Thing', name, alternateName: c?.aliases ?? [] },
     isBasedOn: 'https://catalog.data.gov/dataset/fsis-foodkeeper-data',
     publisher: { '@type': 'Organization', name: d.siteName, url: absoluteUrl(`/${l}`) },
@@ -167,7 +177,7 @@ export default async function FoodPage({ params }: { params: Promise<{ locale: s
           <ul className="chip-row">
             {related.map((f) => (
               <li key={f.slug}>
-                <Link className="pill" href={`/${l}/food/${f.slug}`}>
+                <Link className="pill" href={foodPath(f, l)}>
                   {f.names[l]} · {headline(f, 'fridge', l)}
                 </Link>
               </li>

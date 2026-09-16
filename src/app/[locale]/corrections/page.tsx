@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import Breadcrumbs from '@/components/Breadcrumbs';
 import { LOCALES, type Locale, isLocale, t } from '@/lib/i18n';
-import { getFood } from '@/lib/data';
+import { foodPath, getFood } from '@/lib/data';
 import { buildMetadata, jsonLdScript } from '@/lib/seo';
 import { absoluteUrl } from '@/lib/site';
 import corrections from '@/data/base/corrections.json';
@@ -76,7 +76,7 @@ export default async function CorrectionsPage({ params }: { params: Promise<{ lo
             items.map((c) => (
               <article key={c.slug} className="correction-entry">
                 <h3>
-                  <Link href={`/${l}/food/${c.slug}`}>{c.food!.names[l]}</Link>
+                  <Link href={foodPath(c.food!, l)}>{c.food!.names[l]}</Link>
                 </h3>
                 <p>
                   <strong>{d.correctionsWhy}</strong> {c.reason[l] ?? c.reason.en}
