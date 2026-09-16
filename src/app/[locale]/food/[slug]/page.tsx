@@ -8,6 +8,7 @@ import AdSlot from '@/components/AdSlot';
 import { HTML_LANG, LOCALES, type Locale, isLocale, t } from '@/lib/i18n';
 import { allFoods, getFood, headline, relatedFoods, relatedGuides } from '@/lib/data';
 import { buildMetadata, jsonLdScript } from '@/lib/seo';
+import { publisherGloss } from '@/lib/publishers';
 import { absoluteUrl } from '@/lib/site';
 
 export function generateStaticParams() {
@@ -195,17 +196,30 @@ export default async function FoodPage({ params }: { params: Promise<{ locale: s
               citation. */}
           {food.usesFoodKeeper ? (
             <li>
-              USDA FSIS FoodKeeper —{' '}
+              {(() => {
+                const gloss = publisherGloss('https://catalog.data.gov/', 'USDA FSIS FoodKeeper', l);
+                return gloss ? <span className="source-publisher">{gloss}</span> : null;
+              })()}
+              <span className="source-title">USDA FSIS FoodKeeper</span>
               <a href="https://catalog.data.gov/dataset/fsis-foodkeeper-data" rel="noopener nofollow" target="_blank">
                 catalog.data.gov
               </a>
             </li>
           ) : null}
-          {food.sourceRefs?.map((s) => (
-            <li key={s.url}>
-              {s.name} — <a href={s.url} rel="noopener nofollow" target="_blank">{new URL(s.url).hostname}</a>
-            </li>
-          ))}
+          {/* The citation keeps the title its author published, in its own
+              language, because that is what makes it checkable. When that
+              language is not the reader's, the publisher is named in theirs
+              so they can tell a ministry from a blog. */}
+          {food.sourceRefs?.map((s) => {
+            const gloss = publisherGloss(s.url, s.name, l);
+            return (
+              <li key={s.url}>
+                {gloss ? <span className="source-publisher">{gloss}</span> : null}
+                <span className="source-title">{s.name}</span>
+                <a href={s.url} rel="noopener nofollow" target="_blank">{new URL(s.url).hostname}</a>
+              </li>
+            );
+          })}
         </ul>
         {food.correction ? (
           <div className="correction-note">

@@ -599,3 +599,15 @@ details.faq-item .faq-answer { padding: 0 16px 14px; color: var(--muted); font-s
 .correction-entry p { margin-bottom: 10px; line-height: 1.7; font-size: .95rem; }
 .correction-entry p:last-child { margin-bottom: 0; }
 .correction-entry strong { color: var(--muted-ink, var(--text)); }
+
+/* Citations. The title stays in the language its author published it in, which
+   is what makes it checkable; the publisher line names who that author is in
+   the reader's own language, so a ministry can be told from a blog. */
+.source-list li { margin-bottom: 10px; line-height: 1.55; }
+.source-publisher {
+  display: block; font-weight: 600; font-size: .9rem; color: var(--text);
+}
+.source-title {
+  display: block; font-size: .86rem; color: var(--muted); margin-bottom: 2px;
+}
+.source-list a { font-size: .86rem; }
