@@ -7,6 +7,12 @@ const ROOT = path.join(__dirname, '..');
 const D = (...p) => path.join(ROOT, 'src', 'data', ...p);
 const OUT = D('generated');
 const LOCALES = ['zh', 'en', 'ja', 'es'];
+// The locales the content files carry are not the locales the site puts in
+// front of a reader. src/lib/i18n.ts publishes zh and en; ja and es exist as
+// half-done source data. A search index built for an unpublished locale is a
+// file nothing fetches, listing slugs that have no page, under names that were
+// never translated - so it is not written at all.
+const PUBLISHED = ['zh', 'en'];
 
 function readJson(p, fallback) {
   try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch { return fallback; }
@@ -159,7 +165,7 @@ foods.sort((a, b) => a.slug.localeCompare(b.slug));
 
 // ---- search indexes ----------------------------------------------------
 const searchIndex = {};
-for (const L of LOCALES) {
+for (const L of PUBLISHED) {
   searchIndex[L] = foods.map((f) => ({
     s: f.slugs[L] || f.slug,
     n: f.names[L],
@@ -187,7 +193,17 @@ fs.writeFileSync(path.join(OUT, 'guides.json'), JSON.stringify(guideList));
 // Search indexes are fetched by the client on demand, so they live in /public.
 const pub = path.join(ROOT, 'public', 'search');
 fs.mkdirSync(pub, { recursive: true });
-for (const L of LOCALES) fs.writeFileSync(path.join(pub, `${L}.json`), JSON.stringify(searchIndex[L]));
+for (const L of PUBLISHED) fs.writeFileSync(path.join(pub, `${L}.json`), JSON.stringify(searchIndex[L]));
+// Drop indexes for locales this build no longer publishes. Without this the
+// file for a retired locale simply stays on disk and keeps shipping: nothing
+// links it, but it is a public URL serving stale data, which is how ja.json
+// and es.json went on being served after the site dropped to two languages.
+for (const f of fs.readdirSync(pub)) {
+  if (!f.endsWith('.json')) continue;
+  if (PUBLISHED.includes(f.slice(0, -5))) continue;
+  fs.unlinkSync(path.join(pub, f));
+  console.log(`removed unpublished search index: ${f}`);
+}
 
 const withPage = foods.filter((f) => f.hasPage).length;
 const byCat = {};
