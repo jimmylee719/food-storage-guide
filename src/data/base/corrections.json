@@ -74,5 +74,18 @@
    "en": "No figure changed: neither record published one. The two articles were merged into the surviving page, which keeps the alcohol thresholds and the names from both.",
    "zh": "沒有任何數字被更動：兩筆本來就都沒有數字。兩篇文章已合併到留存的頁面，酒精濃度門檻與兩邊的品名都保留下來。"
   }
+ },
+ {
+  "slug": "aguaymanto",
+  "supersededBy": "cape-gooseberry",
+  "kind": "correction",
+  "reason": {
+   "en": "Two records described the same berry, Physalis peruviana, under its Andean and its English name, and their figures were four times apart. The retired one gave 1-2 months at room temperature and 2-3 months refrigerated; the surviving one gives 1-2 weeks and 2-3 weeks. A fresh berry does not keep for a month on the counter.",
+   "zh": "兩筆紀錄描述同一種漿果——祕魯苦蘵（Physalis peruviana）——只是一筆用安地斯名、一筆用英文名，而數字差了四倍。被退役的那筆給室溫 1～2 個月、冷藏 2～3 個月；留存的那筆給 1～2 週與 2～3 週。新鮮漿果不可能在檯面上放一個月。"
+  },
+  "evidence": {
+   "en": "Postharvest work on this fruit reports 24 days at 12 °C and 80% humidity with the calyx left on, and only 11 days once the calyx is removed. A kitchen is warmer than 12 °C, so the shorter figures are the ones a reader can rely on. That paper is now cited on the surviving page; note that its figures are the basis for retiring the longer record, not for the numbers themselves, which remain borrowed from apples and are disclosed as such.",
+   "zh": "這種水果的採後研究指出：帶果萼、12 °C、80% 濕度下為 24 天，果萼去除後只剩 11 天。廚房比 12 °C 熱，所以較短的那組數字才是讀者能依靠的。該論文已列在留存頁面的來源中；要說明的是，它是退役較長那筆紀錄的依據，而不是留存數字本身的出處——留存的數字仍然是比照蘋果而來，頁面上照常揭露。"
+  }
  }
 ]

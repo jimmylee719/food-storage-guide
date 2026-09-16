@@ -41,17 +41,17 @@ function retiredRedirects() {
 
 const nextConfig: NextConfig = {
   reactStrictMode: true,
-  // Static generation runs single-threaded on purpose.
+  // Windows only: build static pages on a single worker.
   //
-  // With the default worker pool this build dies on Windows before it emits a
-  // single page — the worker process is killed outright, with a different
-  // native crash code each run (ACCESS_VIOLATION, STACK_BUFFER_OVERRUN,
-  // BREAKPOINT), which is what a crash below the JS layer looks like rather
-  // than a fault in the pages themselves. One worker builds all 2,248 pages.
+  // With the default worker pool the build dies here before emitting a single
+  // page — the worker process is killed outright, with a different native crash
+  // code each run (ACCESS_VIOLATION, STACK_BUFFER_OVERRUN, BREAKPOINT), which is
+  // a crash below the JS layer rather than a fault in any page. One worker builds
+  // all 2,247.
   //
-  // It costs build time and nothing else. Linux CI and Vercel are unaffected,
-  // so this can go as soon as the upstream issue does.
-  experimental: { cpus: 1 },
+  // Vercel and Linux CI build on every core, so deployment is not slowed by a
+  // local toolchain bug. Drop the whole block once the upstream issue is fixed.
+  ...(process.platform === 'win32' ? { experimental: { cpus: 1 } } : {}),
   poweredByHeader: false,
   trailingSlash: false,
   async redirects() {
