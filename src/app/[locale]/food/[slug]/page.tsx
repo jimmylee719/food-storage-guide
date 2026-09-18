@@ -142,7 +142,16 @@ export default async function FoodPage({ params }: { params: Promise<{ locale: s
 
       <StoragePanels food={food} locale={l} />
 
-      <AdSlot label="Advertisement" />
+      {/* What the numbers mean is a different claim from where they came from,
+          and it is not the same claim for raw chicken as for a jar of honey.
+          USDA FSIS treats refrigerated raw meat, poultry, seafood, dairy, eggs
+          and cooked dishes as discard dates; everything at -18 C, and anything
+          that keeps at room temperature, is a question of quality. */}
+      <p className={`basis-note${food.fridgeBasis === 'safety' ? ' is-safety' : ''}`}>
+        {food.fridgeBasis === 'safety' ? d.basisNoteSafety : d.basisNoteQuality}
+      </p>
+
+      <AdSlot label={d.adLabel} />
 
       <div className="prose">
         {sections.map((s) => (

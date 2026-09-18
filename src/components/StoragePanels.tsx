@@ -23,10 +23,15 @@ export default function StoragePanels({ food, locale }: { food: Food; locale: Lo
           rows.length === 1 && spanKey && spanKey !== 'base'
             ? rows[0].label
             : null;
+        // A refrigerated discard date is marked where the number is, not
+        // only in a note further down the page. A reader who takes the figure
+        // and leaves has to have been told.
+        const safetyLimit = key === 'fridge' && food.fridgeBasis === 'safety';
         return (
-          <section key={key} className={`storage-panel ${key}`}>
+          <section key={key} className={`storage-panel ${key}${safetyLimit ? ' is-safety' : ''}`}>
             <h3 className="storage-head">
               <span aria-hidden="true">{ICONS[key]}</span> {labels[key]}
+              {safetyLimit ? <span className="storage-basis">{d.basisSafetyTag}</span> : null}
             </h3>
             <div className="storage-body">
               {qualifier ? <p className="storage-qualifier">{qualifier}</p> : null}

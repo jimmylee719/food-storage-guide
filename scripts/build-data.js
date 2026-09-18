@@ -41,6 +41,13 @@ const all = [...base.filter((f) => !replaced.has(f.slug)), ...split, ...extra];
 // each correction is recorded here with its reason and its evidence, applied at
 // build time, and shown on the page so a reader can judge it.
 const corrections = readJson(D('base', 'corrections.json'), []);
+// Whether a refrigerated figure marks a safety limit or a quality decline.
+// USDA FSIS draws the line: food held continuously at -18 C is safe
+// indefinitely, so freezer figures are always about quality, and anything
+// kept at room temperature is not relying on refrigeration for safety. What
+// is left is the refrigerator, where raw meat, poultry, seafood, dairy, eggs
+// and cooked or prepared food are discard dates that a reader cannot smell.
+const storageBasis = readJson(D('base', 'storage-basis.json'), {});
 const correctionBySlug = new Map(corrections.map((c) => [c.slug, c]));
 // A correction may retire a record outright rather than adjust its figures,
 // when the dataset carried the same food twice. The retired slug keeps working:
@@ -96,6 +103,7 @@ for (const raw of all) {
     storage: item.storage,
     names,
     aliases,
+    fridgeBasis: storageBasis[item.slug] === 'safety' ? 'safety' : 'quality',
     hasPage: Boolean(c),
     content: c ? { zh: c.zh, en: c.en, ja: c.ja, es: c.es } : null,
   });

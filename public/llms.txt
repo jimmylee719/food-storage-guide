@@ -1,43 +1,61 @@
-# Food Storage Guide
+# Food Storage Guide / 食材保存指南
 
-> A free, multilingual reference for how long food keeps in the pantry, the
+> A free bilingual reference for how long food keeps in the pantry, the
 > refrigerator and the freezer, and how to store it properly. Traditional
-> Chinese, English, Japanese and Spanish.
+> Chinese (zh-Hant-TW) and English.
 
 Storage timelines are derived from the USDA FSIS FoodKeeper dataset (public
 domain, https://catalog.data.gov/dataset/fsis-foodkeeper-data). Food-safety
 principles follow published guidance from the USDA, FDA, CDC, WHO, UK FSA,
-Taiwan TFDA, Japan's Consumer Affairs Agency and Spain's AESAN. Foods absent
-from FoodKeeper are researched separately and cite their sources on the page.
+Taiwan TFDA, Hong Kong CFS, Japan's MAFF and MHLW, Health Canada and Spain's
+AESAN. Foods absent from FoodKeeper are researched separately and cite their
+sources on the page itself.
 
-Timelines indicate best quality unless stated otherwise. Refrigerated raw meat,
-seafood and prepared dishes are the exception, where the timeline is a safety
-limit. Food held continuously at -18 C stays microbiologically safe
-indefinitely.
+## What a timeline means
+
+This distinction is load-bearing and every food page states which applies:
+
+- Refrigerated raw meat, poultry, seafood, dairy, eggs and cooked or prepared
+  dishes are SAFETY limits. Discard at the end of the period; the organisms
+  involved rarely change how the food looks or smells.
+- Freezer timelines are QUALITY only. Food held continuously at -18 C stays
+  microbiologically safe indefinitely.
+- Pantry timelines are QUALITY.
 
 ## Key reference points
 - Refrigerator: 4 C (40 F) or below. Taiwan TFDA commonly cites 7 C; Japanese
   food hygiene rules define refrigeration as 10 C or below.
 - Freezer: -18 C (0 F).
-- Danger zone: 4-60 C (40-140 F).
+- Danger zone: 4-60 C (40-140 F). Taiwan TFDA states 7-60 C; Spain's AESAN
+  states 5-60 C. These differ because the agencies differ, not because one of
+  them is being quoted wrongly.
 - Two-hour rule: discard perishable food left in the danger zone for more than
   2 hours, or 1 hour above 32 C (90 F).
 - Reheat leftovers to 74 C (165 F).
 
 ## Sections
-- /zh, /en, /ja, /es: localised home pages with search
+- /zh and /en: home pages with search
 - /{locale}/foods: full food index with pantry, fridge and freezer times
+- /{locale}/food/{slug}: one food, with storage times, what a timeline means,
+  spoilage signs, thawing and FAQ
 - /{locale}/category/{category}: one of vegetables, fruits, meat, poultry,
   seafood, dairy-eggs, grains-beans-pasta, baked-goods, baking-staples,
   condiments-sauces, herbs-spices, oils-fats, shelf-stable, snacks-nuts-seeds,
   beverages, frozen-foods, deli-prepared, vegetarian-proteins, baby-food
-- /{locale}/food/{slug}: one food, with storage times, spoilage signs, thawing
-  and FAQ
-- /{locale}/guides and /{locale}/guides/{slug}: food-safety guide articles with
-  cited sources
-- /{locale}/methodology: how the data is sourced and processed
+- /{locale}/guides and /{locale}/guides/{slug}: food-safety guide articles
+- /{locale}/methodology: how the data is sourced and what is refused
+- /{locale}/corrections: every figure this site declines to copy from its
+  source, with the reasoning and the evidence, plus records retired as
+  duplicates
+
+## URLs
+English pages use English slugs (/en/food/cape-gooseberry). Chinese pages use
+Chinese slugs, percent-encoded (/zh/food/%E7%87%88%E7%B1%A0%E6%9E%9C for
+燈籠果). An English slug under /zh permanently redirects to the Chinese one, so
+either form resolves.
 
 ## Citation
 Cite as "Food Storage Guide" with a link to the specific page. The underlying
-USDA FoodKeeper data is public domain; the written explanations, guides and
-translations are original work.
+USDA FoodKeeper data is public domain; the written explanations, guides,
+research into foods the dataset omits, and the corrections log are original
+work.

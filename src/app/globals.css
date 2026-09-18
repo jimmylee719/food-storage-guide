@@ -15,6 +15,8 @@
   --freezer: #5a52b5;
   --freezer-soft: #eeecfa;
   --danger: #b3392f;
+  --danger-soft: #fbeceb;
+  --danger-line: #f0cdc9;
   --radius: 12px;
   --maxw: 1120px;
   --font: "Helvetica Neue", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -40,6 +42,8 @@
     --fridge-soft: #16242f;
     --freezer: #9a92e8;
     --freezer-soft: #1f1d33;
+    --danger-soft: #2e1b19;
+    --danger-line: #4a2a26;
     --danger: #e2685c;
     color-scheme: dark;
   }
@@ -174,6 +178,15 @@ a.card:hover { border-color: var(--accent); text-decoration: none; }
 .storage-panel.fridge .storage-head { background: var(--fridge-soft); color: var(--fridge); }
 .storage-panel.freezer .storage-head { background: var(--freezer-soft); color: var(--freezer); }
 .storage-body { padding: 14px 16px; }
+/* A refrigerated figure that is a discard date carries a marker where the
+   number is. It is deliberately quiet: the panel keeps its own colour and
+   gains a label, rather than turning the card into a warning box, because it
+   appears on 378 of 1074 foods and an alarm that common stops being read. */
+.storage-basis { margin-left: auto; font-size: .72rem; font-weight: 600; letter-spacing: .03em;
+  color: var(--danger); background: var(--danger-soft); border: 1px solid var(--danger-line);
+  border-radius: 999px; padding: 2px 9px; }
+.basis-note { margin: 14px 0 0; font-size: .86rem; line-height: 1.65; color: var(--muted); }
+.basis-note.is-safety { color: var(--text); border-left: 3px solid var(--danger); padding-left: 14px; }
 .storage-value { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 2px; }
 .storage-row { display: flex; justify-content: space-between; gap: 12px; padding: 7px 0; border-top: 1px solid var(--line); font-size: .9rem; }
 .storage-row:first-child { border-top: none; }

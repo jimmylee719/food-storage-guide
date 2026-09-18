@@ -71,6 +71,18 @@ export default async function LocaleLayout({
         <Header locale={l} />
         <main id="main">{children}</main>
         <Footer locale={l} />
+        {/* Consent Mode v2 defaults, set before any Google tag runs.
+            Google requires a certified CMP for EEA/UK traffic; that message is
+            configured in the AdSense console and delivered by the AdSense tag
+            below, so it needs no code of its own. What it does need is a
+            default to update: without one, the ad and analytics tags fire
+            before the reader has answered. Storage is denied only where consent
+            is legally required, so a reader in Taiwan is not asked a question
+            their law does not pose, and ads there stay personalised. */}
+        <Script id="consent-default" strategy="beforeInteractive">
+          {`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500,region:['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE','IS','LI','NO','GB','CH']});`}
+        </Script>
         <Script
           id="adsbygoogle"
           async

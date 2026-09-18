@@ -89,7 +89,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ local
         </section>
       ) : null}
 
-      <AdSlot label="Advertisement" />
+      <AdSlot label={d.adLabel} />
 
       {detailed.length > 0 && (
         <section>

@@ -102,7 +102,7 @@ export default async function GuidePage({ params }: { params: Promise<{ locale: 
           <section key={i}>
             <h2 id={anchor(i)}>{s.heading}</h2>
             <Prose body={s.body} locale={l} />
-            {i === 1 ? <AdSlot label="Advertisement" /> : null}
+            {i === 1 ? <AdSlot label={d.adLabel} /> : null}
           </section>
         ))}
       </div>

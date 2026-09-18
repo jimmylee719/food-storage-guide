@@ -50,6 +50,12 @@ export type Food = {
   sourceRefs: SourceRef[] | null;
   /** Whether the storage figures actually rest on the FoodKeeper dataset. */
   usesFoodKeeper: boolean;
+  /**
+   * Whether the refrigerated figure is a discard date ('safety') or the
+   * point where flavour falls off ('quality'). Freezer and pantry figures
+   * are always about quality, so this speaks only for the fridge.
+   */
+  fridgeBasis: 'safety' | 'quality';
   analog: string | null;
   correction: { reason: Record<string, string>; evidence: Record<string, string> } | null;
   derivedFrom: string | null;

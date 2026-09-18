@@ -71,6 +71,14 @@ type Dict = {
   relatedFoods: string;
   relatedGuides: string;
   sources: string;
+  /** Shown when the refrigerated figure is a discard date, not a flavour guide. */
+  /** Marks an ad unit as an ad, in the reader's language. */
+  adLabel: string;
+  basisNoteSafety: string;
+  /** Shown when every figure on the page is about quality. */
+  basisNoteQuality: string;
+  /** Short marker on the refrigerator panel of a safety-limited food. */
+  basisSafetyTag: string;
   sourceNote: string;
   /** Used on foods the FoodKeeper dataset has no row for. */
   sourceNoteResearched: string;
@@ -172,8 +180,12 @@ const zh: Dict = {
   relatedFoods: '相關食材',
   relatedGuides: '延伸閱讀',
   sources: '資料來源',
-  sourceNote: '保存期限以美國農業部 FSIS FoodKeeper 資料集（公眾領域）為基礎，並參考各國食品安全機關指引。期限為「最佳品質」參考值，實際狀況仍以食材外觀、氣味與你的保存條件為準。',
-  sourceNoteResearched: '本頁保存期限整理自上列各國食品安全機關與農業研究單位的公開資料。期限為「最佳品質」參考值，實際狀況仍以食材外觀、氣味與你的保存條件為準。',
+  adLabel: '廣告',
+  basisNoteSafety: '冷藏欄位是安全上限，不是風味建議。致病菌在冷藏溫度下增殖時，通常不會讓食物變色或發出異味，所以請依期限丟棄，不要靠聞或試吃判斷。冷凍與常溫欄位則是最佳品質的參考值。',
+  basisNoteQuality: '這些期限指的是最佳品質，不是安全界線；到期之後是風味與口感開始下降。實際狀況仍以外觀、氣味與你的保存條件為準。',
+  basisSafetyTag: '安全上限',
+  sourceNote: '保存期限以美國農業部 FSIS FoodKeeper 資料集（公眾領域）為基礎，並參考各國食品安全機關指引。',
+  sourceNoteResearched: '本頁保存期限整理自上列各國食品安全機關與農業研究單位的公開資料。',
   updated: '更新日期',
   keyTakeaways: '重點整理',
   about: '關於本站',
@@ -294,8 +306,12 @@ const en: Dict = {
   relatedFoods: 'Related foods',
   relatedGuides: 'Related guides',
   sources: 'Sources',
-  sourceNote: 'Storage times are based on the USDA FSIS FoodKeeper dataset (public domain) and guidance from national food-safety agencies. They indicate best quality; always judge by smell, look and your own storage conditions.',
-  sourceNoteResearched: 'Storage times on this page are drawn from the public guidance listed above, published by national food-safety agencies and agricultural research bodies. They indicate best quality; always judge by smell, look and your own storage conditions.',
+  adLabel: 'Advertisement',
+  basisNoteSafety: 'The refrigerator figure is a safety limit, not a flavour guide. The organisms that make this food unsafe rarely change how it looks or smells, so discard it when that time is up instead of judging by smell or taste. The freezer and pantry figures indicate best quality.',
+  basisNoteQuality: 'These times indicate best quality rather than a safety cut-off: past them, flavour and texture start to fall off. Judge by smell, look and your own storage conditions.',
+  basisSafetyTag: 'Safety limit',
+  sourceNote: 'Storage times are based on the USDA FSIS FoodKeeper dataset (public domain) and guidance from national food-safety agencies.',
+  sourceNoteResearched: 'Storage times on this page are drawn from the public guidance listed above, published by national food-safety agencies and agricultural research bodies.',
   updated: 'Updated',
   keyTakeaways: 'Key takeaways',
   about: 'About',
@@ -416,8 +432,12 @@ const ja: Dict = {
   relatedFoods: '関連する食材',
   relatedGuides: '関連ガイド',
   sources: '出典',
-  sourceNote: '保存期間は米国農務省 FSIS FoodKeeper データセット（パブリックドメイン）と各国の食品安全機関の指針にもとづく「おいしさの目安」です。実際にはにおい・見た目・保存状態で判断してください。',
-  sourceNoteResearched: 'このページの保存期間は、上記の各国食品安全機関および農業研究機関が公開する資料にもとづく「おいしさの目安」です。実際にはにおい・見た目・保存状態で判断してください。',
+  adLabel: '広告',
+  basisNoteSafety: '冷蔵の日数は安全上の限度であり、おいしさの目安ではありません。冷蔵中に増える食中毒菌は見た目やにおいを変えないことが多いため、においや味で判断せず、期限で廃棄してください。冷凍と常温の日数はおいしさの目安です。',
+  basisNoteQuality: 'これらの日数は安全の境界ではなく、おいしさの目安です。実際にはにおい・見た目・保存状態で判断してください。',
+  basisSafetyTag: '安全上の限度',
+  sourceNote: '保存期間は米国農務省 FSIS FoodKeeper データセット（パブリックドメイン）と各国の食品安全機関の指針にもとづきます。',
+  sourceNoteResearched: 'このページの保存期間は、上記の各国食品安全機関および農業研究機関が公開する資料にもとづきます。',
   updated: '更新日',
   keyTakeaways: 'この記事の要点',
   about: 'このサイトについて',
@@ -538,7 +558,11 @@ const es: Dict = {
   relatedFoods: 'Alimentos relacionados',
   relatedGuides: 'Guías relacionadas',
   sources: 'Fuentes',
-  sourceNote: 'Los plazos se basan en el conjunto de datos FoodKeeper del USDA FSIS (dominio público) y en guías de agencias nacionales de seguridad alimentaria. Indican calidad óptima; guíate siempre por el olor, el aspecto y tus condiciones de conservación.',
+  adLabel: 'Publicidad',
+  basisNoteSafety: 'El plazo de refrigeración es un límite de seguridad, no una guía de sabor. Los microorganismos que vuelven peligroso este alimento rara vez cambian su aspecto o su olor, así que deséchalo al cumplirse ese plazo en lugar de guiarte por el olfato o el gusto. Los plazos de congelador y despensa indican calidad óptima.',
+  basisNoteQuality: 'Estos plazos indican calidad óptima, no un límite de seguridad: a partir de ahí el sabor y la textura empiezan a decaer. Guíate por el olor, el aspecto y tus condiciones de conservación.',
+  basisSafetyTag: 'Límite de seguridad',
+  sourceNote: 'Los plazos se basan en el conjunto de datos FoodKeeper del USDA FSIS (dominio público) y en guías de agencias nacionales de seguridad alimentaria.',
   sourceNoteResearched: 'Los plazos de esta página proceden de las guías públicas citadas arriba, publicadas por agencias nacionales de seguridad alimentaria y organismos de investigación agraria. Indican calidad óptima; guíate siempre por el olor, el aspecto y tus condiciones de conservación.',
   updated: 'Actualizado',
   keyTakeaways: 'Ideas clave',

@@ -13,7 +13,7 @@ const P: Record<PageKey, Record<AnyLocale, StaticPage>> = {
   about: {
     zh: {
       title: '關於本站',
-      description: '食材保存指南是一個免費的多語系食物保存資料庫，整理常溫、冷藏與冷凍的保存期限與方法。',
+      description: '食材保存指南是一個免費的中英雙語食物保存資料庫，整理常溫、冷藏與冷凍的保存期限與方法。',
       sections: [
         { body: ['「食材保存指南」是一個免費、無需註冊的食物保存查詢工具。輸入任何食材名稱，就能看到它在常溫、冷藏與冷凍三種環境下能放多久，以及正確的保存做法。', '網站以繁體中文與 English 兩種語言發布。兩種語言的內容都是各自撰寫的，不是機器翻譯——中文版用的是中文讀者熟悉的食材名稱、包裝標示與烹調習慣。'] },
         { heading: '我們為什麼做這個網站', body: ['聯合國環境規劃署估計，全球每年約有 10 億份餐點等級的食物在家庭、零售與餐飲端被浪費掉。其中很大一部分，只是因為大家不確定東西還能不能吃。', '網路上關於保存期限的說法很多，但大多缺乏出處，彼此矛盾。我們希望做一個相反的東西：每一個數字都能追溯到官方資料來源，而且兩種語言看到的是同一套標準。'] },
@@ -25,7 +25,7 @@ const P: Record<PageKey, Record<AnyLocale, StaticPage>> = {
     },
     en: {
       title: 'About',
-      description: 'Food Storage Guide is a free multilingual database of pantry, fridge and freezer storage times for everyday foods.',
+      description: 'Food Storage Guide is a free bilingual database of pantry, fridge and freezer storage times for everyday foods, in Traditional Chinese and English.',
       sections: [
         { body: ['Food Storage Guide is a free, no-signup reference for how long food keeps. Type in a food and you get how long it lasts in the pantry, the fridge and the freezer, plus how to store it properly.', 'The site is published in Traditional Chinese and English. Each language is written for its own readers rather than machine-translated.'] },
         { heading: 'Why this site exists', body: ['The UN Environment Programme estimates that around one billion meals worth of food is wasted in households, retail and food service every year. A large share of that is thrown away simply because nobody was sure whether it was still good.', 'Storage advice online is plentiful but often unsourced and contradictory. We wanted the opposite: every number traceable to an official source, and the same standard in both languages.'] },
